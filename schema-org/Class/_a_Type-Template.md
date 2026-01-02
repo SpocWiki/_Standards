@@ -55,17 +55,17 @@ Tag Instances like this:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [_a_Type-Template](/_Standards/schema-org/Class/_a_Type-Template.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Class/_a_Type-Template|_a_Type-Template]] 
 
-### #is_/same_as :: [_a_Type-Template.public](/_public/schema-org/Class/_a_Type-Template.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Class/_a_Type-Template.public|_a_Type-Template.public]] 
 
-### #is_/same_as :: [_a_Type-Template.internal](/_internal/schema-org/Class/_a_Type-Template.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Class/_a_Type-Template.internal|_a_Type-Template.internal]] 
 
-### #is_/same_as :: [_a_Type-Template.protect](/_protect/schema-org/Class/_a_Type-Template.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Class/_a_Type-Template.protect|_a_Type-Template.protect]] 
 
-### #is_/same_as :: [_a_Type-Template.private](/_private/schema-org/Class/_a_Type-Template.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Class/_a_Type-Template.private|_a_Type-Template.private]] 
 
-### #is_/same_as :: [_a_Type-Template.personal](/_personal/schema-org/Class/_a_Type-Template.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Class/_a_Type-Template.personal|_a_Type-Template.personal]] 
 
-### #is_/same_as :: [_a_Type-Template.secret](/_secret/schema-org/Class/_a_Type-Template.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Class/_a_Type-Template.secret|_a_Type-Template.secret]] 
 

@@ -65,17 +65,17 @@ Wolfram_Language_entity_code:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Alcoholic_Beverage](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage|Alcoholic_Beverage]] 
 
-### #is_/same_as :: [Alcoholic_Beverage.public](/_public/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage.public|Alcoholic_Beverage.public]] 
 
-### #is_/same_as :: [Alcoholic_Beverage.internal](/_internal/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage.internal|Alcoholic_Beverage.internal]] 
 
-### #is_/same_as :: [Alcoholic_Beverage.protect](/_protect/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage.protect|Alcoholic_Beverage.protect]] 
 
-### #is_/same_as :: [Alcoholic_Beverage.private](/_private/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage.private|Alcoholic_Beverage.private]] 
 
-### #is_/same_as :: [Alcoholic_Beverage.personal](/_personal/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage.personal|Alcoholic_Beverage.personal]] 
 
-### #is_/same_as :: [Alcoholic_Beverage.secret](/_secret/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage.secret|Alcoholic_Beverage.secret]] 
 

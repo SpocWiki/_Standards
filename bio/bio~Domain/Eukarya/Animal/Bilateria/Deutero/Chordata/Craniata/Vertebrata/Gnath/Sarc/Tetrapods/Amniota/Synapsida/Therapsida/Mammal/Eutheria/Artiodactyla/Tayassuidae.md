@@ -29,7 +29,7 @@ taxon_common_name: pekariji
 
 ## Dicotylidae, peccaries 
 
-![ ](Tayassuidae/632E1E12-75FD-4140-8707FEB9.jpg))
+![ ](Tayassuidae/632E1E12-75FD-4140-8707FEB9.jpg) 
 
 ## #has_/text_of_/abstract 
 
@@ -118,7 +118,7 @@ taxon_common_name: pekariji
 
 ## Title Illustrations
 
-![](Tayassuidae/632E1E12-75FD-4140-8707FEB9.jpg))
+![](Tayassuidae/632E1E12-75FD-4140-8707FEB9.jpg) 
 
 -----------------
 Scientific Name ::     Tayassu tajacu
@@ -126,7 +126,7 @@ Creator              Tom Stehn
 Acknowledgements     courtesy U.S. Fish and Wildlife Service
 Specimen Condition   Live Specimen
 -----------------
-![](Tayassuidae/Platygonus_Skull.jpg))
+![](Tayassuidae/Platygonus_Skull.jpg) 
 
 --------------------------------------------------------------
 Scientific Name ::     Platygonus
@@ -139,17 +139,17 @@ Body Part            skull
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Tayassuidae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Artiodactyla/Tayassuidae.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Artiodactyla/Tayassuidae|Tayassuidae]] 
 
-### #is_/same_as :: [Tayassuidae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Artiodactyla/Tayassuidae.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Artiodactyla/Tayassuidae.public|Tayassuidae.public]] 
 
-### #is_/same_as :: [Tayassuidae.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Artiodactyla/Tayassuidae.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Artiodactyla/Tayassuidae.internal|Tayassuidae.internal]] 
 
-### #is_/same_as :: [Tayassuidae.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Artiodactyla/Tayassuidae.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Artiodactyla/Tayassuidae.protect|Tayassuidae.protect]] 
 
-### #is_/same_as :: [Tayassuidae.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Artiodactyla/Tayassuidae.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Artiodactyla/Tayassuidae.private|Tayassuidae.private]] 
 
-### #is_/same_as :: [Tayassuidae.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Artiodactyla/Tayassuidae.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Artiodactyla/Tayassuidae.personal|Tayassuidae.personal]] 
 
-### #is_/same_as :: [Tayassuidae.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Artiodactyla/Tayassuidae.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Artiodactyla/Tayassuidae.secret|Tayassuidae.secret]] 
 

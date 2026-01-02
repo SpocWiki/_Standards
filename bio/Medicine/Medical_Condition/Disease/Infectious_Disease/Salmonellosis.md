@@ -123,17 +123,17 @@ Commons_category: Salmonellosis
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Salmonellosis](/_Standards/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Salmonellosis.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Salmonellosis|Salmonellosis]] 
 
-### #is_/same_as :: [Salmonellosis.public](/_public/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Salmonellosis.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Salmonellosis.public|Salmonellosis.public]] 
 
-### #is_/same_as :: [Salmonellosis.internal](/_internal/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Salmonellosis.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Salmonellosis.internal|Salmonellosis.internal]] 
 
-### #is_/same_as :: [Salmonellosis.protect](/_protect/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Salmonellosis.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Salmonellosis.protect|Salmonellosis.protect]] 
 
-### #is_/same_as :: [Salmonellosis.private](/_private/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Salmonellosis.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Salmonellosis.private|Salmonellosis.private]] 
 
-### #is_/same_as :: [Salmonellosis.personal](/_personal/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Salmonellosis.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Salmonellosis.personal|Salmonellosis.personal]] 
 
-### #is_/same_as :: [Salmonellosis.secret](/_secret/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Salmonellosis.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Salmonellosis.secret|Salmonellosis.secret]] 
 

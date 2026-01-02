@@ -182,17 +182,17 @@ zoomFeatures: true
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [America~South](/_Standards/Earth/Continent/America~South.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~South|America~South]] 
 
-### #is_/same_as :: [America~South.public](/_public/Earth/Continent/America~South.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~South.public|America~South.public]] 
 
-### #is_/same_as :: [America~South.internal](/_internal/Earth/Continent/America~South.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~South.internal|America~South.internal]] 
 
-### #is_/same_as :: [America~South.protect](/_protect/Earth/Continent/America~South.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~South.protect|America~South.protect]] 
 
-### #is_/same_as :: [America~South.private](/_private/Earth/Continent/America~South.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~South.private|America~South.private]] 
 
-### #is_/same_as :: [America~South.personal](/_personal/Earth/Continent/America~South.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~South.personal|America~South.personal]] 
 
-### #is_/same_as :: [America~South.secret](/_secret/Earth/Continent/America~South.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~South.secret|America~South.secret]] 
 

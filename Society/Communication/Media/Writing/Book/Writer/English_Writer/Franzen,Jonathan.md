@@ -40,17 +40,17 @@ but was delayed until 1995 and as of 2023 is subjected to even more denial.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Franzen,Jonathan](/_Standards/Society/Communication/Media/Writing/Book/Writer/English_Writer/Franzen,Jonathan.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Writer/English_Writer/Franzen,Jonathan|Franzen,Jonathan]] 
 
-### #is_/same_as :: [Franzen,Jonathan.public](/_public/Society/Communication/Media/Writing/Book/Writer/English_Writer/Franzen,Jonathan.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Writer/English_Writer/Franzen,Jonathan.public|Franzen,Jonathan.public]] 
 
-### #is_/same_as :: [Franzen,Jonathan.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/English_Writer/Franzen,Jonathan.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Writer/English_Writer/Franzen,Jonathan.internal|Franzen,Jonathan.internal]] 
 
-### #is_/same_as :: [Franzen,Jonathan.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/English_Writer/Franzen,Jonathan.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Writer/English_Writer/Franzen,Jonathan.protect|Franzen,Jonathan.protect]] 
 
-### #is_/same_as :: [Franzen,Jonathan.private](/_private/Society/Communication/Media/Writing/Book/Writer/English_Writer/Franzen,Jonathan.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Writer/English_Writer/Franzen,Jonathan.private|Franzen,Jonathan.private]] 
 
-### #is_/same_as :: [Franzen,Jonathan.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/English_Writer/Franzen,Jonathan.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Writer/English_Writer/Franzen,Jonathan.personal|Franzen,Jonathan.personal]] 
 
-### #is_/same_as :: [Franzen,Jonathan.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/English_Writer/Franzen,Jonathan.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Writer/English_Writer/Franzen,Jonathan.secret|Franzen,Jonathan.secret]] 
 

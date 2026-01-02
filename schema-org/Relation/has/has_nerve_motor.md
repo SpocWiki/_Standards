@@ -42,17 +42,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_nerve_motor](/_Standards/schema-org/Relation/has/has_nerve_motor.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_nerve_motor|has_nerve_motor]] 
 
-### #is_/same_as :: [has_nerve_motor.public](/_public/schema-org/Relation/has/has_nerve_motor.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_nerve_motor.public|has_nerve_motor.public]] 
 
-### #is_/same_as :: [has_nerve_motor.internal](/_internal/schema-org/Relation/has/has_nerve_motor.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_nerve_motor.internal|has_nerve_motor.internal]] 
 
-### #is_/same_as :: [has_nerve_motor.protect](/_protect/schema-org/Relation/has/has_nerve_motor.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_nerve_motor.protect|has_nerve_motor.protect]] 
 
-### #is_/same_as :: [has_nerve_motor.private](/_private/schema-org/Relation/has/has_nerve_motor.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_nerve_motor.private|has_nerve_motor.private]] 
 
-### #is_/same_as :: [has_nerve_motor.personal](/_personal/schema-org/Relation/has/has_nerve_motor.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_nerve_motor.personal|has_nerve_motor.personal]] 
 
-### #is_/same_as :: [has_nerve_motor.secret](/_secret/schema-org/Relation/has/has_nerve_motor.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_nerve_motor.secret|has_nerve_motor.secret]] 
 

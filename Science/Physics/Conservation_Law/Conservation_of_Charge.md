@@ -43,17 +43,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Conservation_of_Charge](/_Standards/Science/Physics/Conservation_Law/Conservation_of_Charge.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Conservation_Law/Conservation_of_Charge|Conservation_of_Charge]] 
 
-### #is_/same_as :: [Conservation_of_Charge.public](/_public/Science/Physics/Conservation_Law/Conservation_of_Charge.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Conservation_Law/Conservation_of_Charge.public|Conservation_of_Charge.public]] 
 
-### #is_/same_as :: [Conservation_of_Charge.internal](/_internal/Science/Physics/Conservation_Law/Conservation_of_Charge.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Conservation_Law/Conservation_of_Charge.internal|Conservation_of_Charge.internal]] 
 
-### #is_/same_as :: [Conservation_of_Charge.protect](/_protect/Science/Physics/Conservation_Law/Conservation_of_Charge.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Conservation_Law/Conservation_of_Charge.protect|Conservation_of_Charge.protect]] 
 
-### #is_/same_as :: [Conservation_of_Charge.private](/_private/Science/Physics/Conservation_Law/Conservation_of_Charge.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Conservation_Law/Conservation_of_Charge.private|Conservation_of_Charge.private]] 
 
-### #is_/same_as :: [Conservation_of_Charge.personal](/_personal/Science/Physics/Conservation_Law/Conservation_of_Charge.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Conservation_Law/Conservation_of_Charge.personal|Conservation_of_Charge.personal]] 
 
-### #is_/same_as :: [Conservation_of_Charge.secret](/_secret/Science/Physics/Conservation_Law/Conservation_of_Charge.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Conservation_Law/Conservation_of_Charge.secret|Conservation_of_Charge.secret]] 
 

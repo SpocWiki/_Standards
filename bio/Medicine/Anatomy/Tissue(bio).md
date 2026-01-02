@@ -68,17 +68,17 @@ UMLS_CUI: C0040300
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Tissue(bio)](/_Standards/bio/Medicine/Anatomy/Tissue(bio).md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Anatomy/Tissue(bio)|Tissue(bio)]] 
 
-### #is_/same_as :: [Tissue(bio).public](/_public/bio/Medicine/Anatomy/Tissue(bio).public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Anatomy/Tissue(bio).public|Tissue(bio).public]] 
 
-### #is_/same_as :: [Tissue(bio).internal](/_internal/bio/Medicine/Anatomy/Tissue(bio).internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Anatomy/Tissue(bio).internal|Tissue(bio).internal]] 
 
-### #is_/same_as :: [Tissue(bio).protect](/_protect/bio/Medicine/Anatomy/Tissue(bio).protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Anatomy/Tissue(bio).protect|Tissue(bio).protect]] 
 
-### #is_/same_as :: [Tissue(bio).private](/_private/bio/Medicine/Anatomy/Tissue(bio).private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Anatomy/Tissue(bio).private|Tissue(bio).private]] 
 
-### #is_/same_as :: [Tissue(bio).personal](/_personal/bio/Medicine/Anatomy/Tissue(bio).personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Anatomy/Tissue(bio).personal|Tissue(bio).personal]] 
 
-### #is_/same_as :: [Tissue(bio).secret](/_secret/bio/Medicine/Anatomy/Tissue(bio).secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Anatomy/Tissue(bio).secret|Tissue(bio).secret]] 
 

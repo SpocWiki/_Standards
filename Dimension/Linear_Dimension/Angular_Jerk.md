@@ -30,17 +30,17 @@ Jump-discontinuity in acceleration can be modeled using a [Dirac delta function]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Angular_Jerk](/_Standards/Dimension/Linear_Dimension/Angular_Jerk.md) 
+### #is_/same_as :: [[/_Standards/Dimension/Linear_Dimension/Angular_Jerk|Angular_Jerk]] 
 
-### #is_/same_as :: [Angular_Jerk.public](/_public/Dimension/Linear_Dimension/Angular_Jerk.public.md) 
+### #is_/same_as :: [[/_public/Dimension/Linear_Dimension/Angular_Jerk.public|Angular_Jerk.public]] 
 
-### #is_/same_as :: [Angular_Jerk.internal](/_internal/Dimension/Linear_Dimension/Angular_Jerk.internal.md) 
+### #is_/same_as :: [[/_internal/Dimension/Linear_Dimension/Angular_Jerk.internal|Angular_Jerk.internal]] 
 
-### #is_/same_as :: [Angular_Jerk.protect](/_protect/Dimension/Linear_Dimension/Angular_Jerk.protect.md) 
+### #is_/same_as :: [[/_protect/Dimension/Linear_Dimension/Angular_Jerk.protect|Angular_Jerk.protect]] 
 
-### #is_/same_as :: [Angular_Jerk.private](/_private/Dimension/Linear_Dimension/Angular_Jerk.private.md) 
+### #is_/same_as :: [[/_private/Dimension/Linear_Dimension/Angular_Jerk.private|Angular_Jerk.private]] 
 
-### #is_/same_as :: [Angular_Jerk.personal](/_personal/Dimension/Linear_Dimension/Angular_Jerk.personal.md) 
+### #is_/same_as :: [[/_personal/Dimension/Linear_Dimension/Angular_Jerk.personal|Angular_Jerk.personal]] 
 
-### #is_/same_as :: [Angular_Jerk.secret](/_secret/Dimension/Linear_Dimension/Angular_Jerk.secret.md)
+### #is_/same_as :: [[/_secret/Dimension/Linear_Dimension/Angular_Jerk.secret|Angular_Jerk.secret]] 
 

@@ -54,17 +54,17 @@ name_in_native_language: Hermann Heinrich Gossen
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Gossen,Hermann_Heinrich](/_Standards/Society/Economics/Economist/Gossen,Hermann_Heinrich.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Economist/Gossen,Hermann_Heinrich|Gossen,Hermann_Heinrich]] 
 
-### #is_/same_as :: [Gossen,Hermann_Heinrich.public](/_public/Society/Economics/Economist/Gossen,Hermann_Heinrich.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Economist/Gossen,Hermann_Heinrich.public|Gossen,Hermann_Heinrich.public]] 
 
-### #is_/same_as :: [Gossen,Hermann_Heinrich.internal](/_internal/Society/Economics/Economist/Gossen,Hermann_Heinrich.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Economist/Gossen,Hermann_Heinrich.internal|Gossen,Hermann_Heinrich.internal]] 
 
-### #is_/same_as :: [Gossen,Hermann_Heinrich.protect](/_protect/Society/Economics/Economist/Gossen,Hermann_Heinrich.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Economist/Gossen,Hermann_Heinrich.protect|Gossen,Hermann_Heinrich.protect]] 
 
-### #is_/same_as :: [Gossen,Hermann_Heinrich.private](/_private/Society/Economics/Economist/Gossen,Hermann_Heinrich.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Economist/Gossen,Hermann_Heinrich.private|Gossen,Hermann_Heinrich.private]] 
 
-### #is_/same_as :: [Gossen,Hermann_Heinrich.personal](/_personal/Society/Economics/Economist/Gossen,Hermann_Heinrich.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Economist/Gossen,Hermann_Heinrich.personal|Gossen,Hermann_Heinrich.personal]] 
 
-### #is_/same_as :: [Gossen,Hermann_Heinrich.secret](/_secret/Society/Economics/Economist/Gossen,Hermann_Heinrich.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Economist/Gossen,Hermann_Heinrich.secret|Gossen,Hermann_Heinrich.secret]] 
 

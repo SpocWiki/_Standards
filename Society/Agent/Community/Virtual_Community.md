@@ -56,17 +56,17 @@ Dewey_Decimal_Classification: "302.30285"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Virtual_Community](/_Standards/Society/Agent/Community/Virtual_Community.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Virtual_Community|Virtual_Community]] 
 
-### #is_/same_as :: [Virtual_Community.public](/_public/Society/Agent/Community/Virtual_Community.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Virtual_Community.public|Virtual_Community.public]] 
 
-### #is_/same_as :: [Virtual_Community.internal](/_internal/Society/Agent/Community/Virtual_Community.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Virtual_Community.internal|Virtual_Community.internal]] 
 
-### #is_/same_as :: [Virtual_Community.protect](/_protect/Society/Agent/Community/Virtual_Community.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Virtual_Community.protect|Virtual_Community.protect]] 
 
-### #is_/same_as :: [Virtual_Community.private](/_private/Society/Agent/Community/Virtual_Community.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Virtual_Community.private|Virtual_Community.private]] 
 
-### #is_/same_as :: [Virtual_Community.personal](/_personal/Society/Agent/Community/Virtual_Community.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Virtual_Community.personal|Virtual_Community.personal]] 
 
-### #is_/same_as :: [Virtual_Community.secret](/_secret/Society/Agent/Community/Virtual_Community.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Virtual_Community.secret|Virtual_Community.secret]] 
 

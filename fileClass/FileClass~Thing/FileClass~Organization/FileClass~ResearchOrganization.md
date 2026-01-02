@@ -37,17 +37,17 @@ A Research Organization (e.g. scientific institute, research company).
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~ResearchOrganization](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~ResearchOrganization.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~ResearchOrganization|FileClass~ResearchOrganization]] 
 
-### #is_/same_as :: [FileClass~ResearchOrganization.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~ResearchOrganization.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~ResearchOrganization.public|FileClass~ResearchOrganization.public]] 
 
-### #is_/same_as :: [FileClass~ResearchOrganization.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~ResearchOrganization.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~ResearchOrganization.internal|FileClass~ResearchOrganization.internal]] 
 
-### #is_/same_as :: [FileClass~ResearchOrganization.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~ResearchOrganization.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~ResearchOrganization.protect|FileClass~ResearchOrganization.protect]] 
 
-### #is_/same_as :: [FileClass~ResearchOrganization.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~ResearchOrganization.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~ResearchOrganization.private|FileClass~ResearchOrganization.private]] 
 
-### #is_/same_as :: [FileClass~ResearchOrganization.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~ResearchOrganization.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~ResearchOrganization.personal|FileClass~ResearchOrganization.personal]] 
 
-### #is_/same_as :: [FileClass~ResearchOrganization.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~ResearchOrganization.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~ResearchOrganization.secret|FileClass~ResearchOrganization.secret]] 
 

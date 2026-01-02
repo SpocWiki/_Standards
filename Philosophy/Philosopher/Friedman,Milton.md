@@ -162,17 +162,17 @@ U_S_National_Archives_Identifier: 131043481
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Friedman,Milton](/_Standards/Philosophy/Philosopher/Friedman,Milton.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Philosopher/Friedman,Milton|Friedman,Milton]] 
 
-### #is_/same_as :: [Friedman,Milton.public](/_public/Philosophy/Philosopher/Friedman,Milton.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Philosopher/Friedman,Milton.public|Friedman,Milton.public]] 
 
-### #is_/same_as :: [Friedman,Milton.internal](/_internal/Philosophy/Philosopher/Friedman,Milton.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Philosopher/Friedman,Milton.internal|Friedman,Milton.internal]] 
 
-### #is_/same_as :: [Friedman,Milton.protect](/_protect/Philosophy/Philosopher/Friedman,Milton.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Philosopher/Friedman,Milton.protect|Friedman,Milton.protect]] 
 
-### #is_/same_as :: [Friedman,Milton.private](/_private/Philosophy/Philosopher/Friedman,Milton.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Philosopher/Friedman,Milton.private|Friedman,Milton.private]] 
 
-### #is_/same_as :: [Friedman,Milton.personal](/_personal/Philosophy/Philosopher/Friedman,Milton.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Philosopher/Friedman,Milton.personal|Friedman,Milton.personal]] 
 
-### #is_/same_as :: [Friedman,Milton.secret](/_secret/Philosophy/Philosopher/Friedman,Milton.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Philosopher/Friedman,Milton.secret|Friedman,Milton.secret]] 
 

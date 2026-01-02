@@ -65,17 +65,17 @@ Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_radio,7112714]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Radio](/_Standards/Society/Communication/Radio.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Radio|Radio]] 
 
-### #is_/same_as :: [Radio.public](/_public/Society/Communication/Radio.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Radio.public|Radio.public]] 
 
-### #is_/same_as :: [Radio.internal](/_internal/Society/Communication/Radio.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Radio.internal|Radio.internal]] 
 
-### #is_/same_as :: [Radio.protect](/_protect/Society/Communication/Radio.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Radio.protect|Radio.protect]] 
 
-### #is_/same_as :: [Radio.private](/_private/Society/Communication/Radio.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Radio.private|Radio.private]] 
 
-### #is_/same_as :: [Radio.personal](/_personal/Society/Communication/Radio.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Radio.personal|Radio.personal]] 
 
-### #is_/same_as :: [Radio.secret](/_secret/Society/Communication/Radio.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Radio.secret|Radio.secret]] 
 

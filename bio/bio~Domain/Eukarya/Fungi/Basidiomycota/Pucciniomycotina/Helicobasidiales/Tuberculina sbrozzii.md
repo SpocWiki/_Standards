@@ -25,14 +25,14 @@ title: Tuberculina sbrozzii
 
 # *Tuberculina sbrozzii* [Cavara & Sacc.] 
 
-![ ](Tuberculina_sbrozzii/Tsb1718.jpg)![ ](Tuberculina_sbrozzii/ts1.jpg))
+![ ](Tuberculina_sbrozzii/Tsb1718.jpg)![ ](Tuberculina_sbrozzii/ts1.jpg) 
 ![ ](Tuberculina_sbrozzii/Ts2.jpg)
 
 Containing group:[Helicobasidiales](../Helicobasidiales.md) 
 
 ## Title Illustrations
 
-![](Tuberculina_sbrozzii/Tsb1718.jpg))
+![](Tuberculina_sbrozzii/Tsb1718.jpg) 
 
   -----------------------------------------------------------------------------
   Scientific Name ::     Tuberculina sbrozzii Cavara & Sacc. on Puccinia vincae (DC.) Berk./Vinca major L.
@@ -44,7 +44,7 @@ Containing group:[Helicobasidiales](../Helicobasidiales.md)
   Copyright ::            © 2004 [Matthias Lutz](mailto:matthias.lutz@uni-tuebingen.de) 
  
   -----------------------------------------------------------------------------
-![](Tuberculina_sbrozzii/ts1.jpg))
+![](Tuberculina_sbrozzii/ts1.jpg) 
 
   -----------------------------------------------------------------------------
   Scientific Name ::     Tuberculina sbrozzii Cavara & Sacc. on Puccinia vincae (DC.) Berk./Vinca major L.
@@ -56,7 +56,7 @@ Containing group:[Helicobasidiales](../Helicobasidiales.md)
   Copyright ::            © 2002 [Matthias Lutz](mailto:matthias.lutz@uni-tuebingen.de) 
  
   -----------------------------------------------------------------------------
-![](Tuberculina_sbrozzii/Ts2.jpg))
+![](Tuberculina_sbrozzii/Ts2.jpg) 
 
   -----------------------------------------------------------------------------
   Scientific Name ::     Tuberculina sbrozzii Cavara & Sacc. on Puccinia vincae (DC.) Berk./Vinca major L.
@@ -72,17 +72,17 @@ Containing group:[Helicobasidiales](../Helicobasidiales.md)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Tuberculina sbrozzii](/_Standards/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Pucciniomycotina/Helicobasidiales/Tuberculina sbrozzii.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Pucciniomycotina/Helicobasidiales/Tuberculina sbrozzii|Tuberculina sbrozzii]] 
 
-### #is_/same_as :: [Tuberculina sbrozzii.public](/_public/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Pucciniomycotina/Helicobasidiales/Tuberculina sbrozzii.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Pucciniomycotina/Helicobasidiales/Tuberculina sbrozzii.public|Tuberculina sbrozzii.public]] 
 
-### #is_/same_as :: [Tuberculina sbrozzii.internal](/_internal/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Pucciniomycotina/Helicobasidiales/Tuberculina sbrozzii.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Pucciniomycotina/Helicobasidiales/Tuberculina sbrozzii.internal|Tuberculina sbrozzii.internal]] 
 
-### #is_/same_as :: [Tuberculina sbrozzii.protect](/_protect/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Pucciniomycotina/Helicobasidiales/Tuberculina sbrozzii.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Pucciniomycotina/Helicobasidiales/Tuberculina sbrozzii.protect|Tuberculina sbrozzii.protect]] 
 
-### #is_/same_as :: [Tuberculina sbrozzii.private](/_private/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Pucciniomycotina/Helicobasidiales/Tuberculina sbrozzii.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Pucciniomycotina/Helicobasidiales/Tuberculina sbrozzii.private|Tuberculina sbrozzii.private]] 
 
-### #is_/same_as :: [Tuberculina sbrozzii.personal](/_personal/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Pucciniomycotina/Helicobasidiales/Tuberculina sbrozzii.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Pucciniomycotina/Helicobasidiales/Tuberculina sbrozzii.personal|Tuberculina sbrozzii.personal]] 
 
-### #is_/same_as :: [Tuberculina sbrozzii.secret](/_secret/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Pucciniomycotina/Helicobasidiales/Tuberculina sbrozzii.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Pucciniomycotina/Helicobasidiales/Tuberculina sbrozzii.secret|Tuberculina sbrozzii.secret]] 
 

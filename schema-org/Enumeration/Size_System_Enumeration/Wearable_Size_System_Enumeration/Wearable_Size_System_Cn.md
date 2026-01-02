@@ -44,17 +44,17 @@ Chinese size system for wearables.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Wearable_Size_System_Cn](/_Standards/schema-org/Enumeration/Size_System_Enumeration/Wearable_Size_System_Enumeration/Wearable_Size_System_Cn.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Size_System_Enumeration/Wearable_Size_System_Enumeration/Wearable_Size_System_Cn|Wearable_Size_System_Cn]] 
 
-### #is_/same_as :: [Wearable_Size_System_Cn.public](/_public/schema-org/Enumeration/Size_System_Enumeration/Wearable_Size_System_Enumeration/Wearable_Size_System_Cn.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Size_System_Enumeration/Wearable_Size_System_Enumeration/Wearable_Size_System_Cn.public|Wearable_Size_System_Cn.public]] 
 
-### #is_/same_as :: [Wearable_Size_System_Cn.internal](/_internal/schema-org/Enumeration/Size_System_Enumeration/Wearable_Size_System_Enumeration/Wearable_Size_System_Cn.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Size_System_Enumeration/Wearable_Size_System_Enumeration/Wearable_Size_System_Cn.internal|Wearable_Size_System_Cn.internal]] 
 
-### #is_/same_as :: [Wearable_Size_System_Cn.protect](/_protect/schema-org/Enumeration/Size_System_Enumeration/Wearable_Size_System_Enumeration/Wearable_Size_System_Cn.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Size_System_Enumeration/Wearable_Size_System_Enumeration/Wearable_Size_System_Cn.protect|Wearable_Size_System_Cn.protect]] 
 
-### #is_/same_as :: [Wearable_Size_System_Cn.private](/_private/schema-org/Enumeration/Size_System_Enumeration/Wearable_Size_System_Enumeration/Wearable_Size_System_Cn.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Size_System_Enumeration/Wearable_Size_System_Enumeration/Wearable_Size_System_Cn.private|Wearable_Size_System_Cn.private]] 
 
-### #is_/same_as :: [Wearable_Size_System_Cn.personal](/_personal/schema-org/Enumeration/Size_System_Enumeration/Wearable_Size_System_Enumeration/Wearable_Size_System_Cn.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Size_System_Enumeration/Wearable_Size_System_Enumeration/Wearable_Size_System_Cn.personal|Wearable_Size_System_Cn.personal]] 
 
-### #is_/same_as :: [Wearable_Size_System_Cn.secret](/_secret/schema-org/Enumeration/Size_System_Enumeration/Wearable_Size_System_Enumeration/Wearable_Size_System_Cn.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Size_System_Enumeration/Wearable_Size_System_Enumeration/Wearable_Size_System_Cn.secret|Wearable_Size_System_Cn.secret]] 
 

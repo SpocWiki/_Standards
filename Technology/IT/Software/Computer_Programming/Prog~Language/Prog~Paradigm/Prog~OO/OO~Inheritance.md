@@ -30,17 +30,17 @@ but this Power comes great Responsibility.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [OO~Inheritance](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO~Inheritance.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO~Inheritance|OO~Inheritance]] 
 
-### #is_/same_as :: [OO~Inheritance.public](/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO~Inheritance.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO~Inheritance.public|OO~Inheritance.public]] 
 
-### #is_/same_as :: [OO~Inheritance.internal](/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO~Inheritance.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO~Inheritance.internal|OO~Inheritance.internal]] 
 
-### #is_/same_as :: [OO~Inheritance.protect](/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO~Inheritance.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO~Inheritance.protect|OO~Inheritance.protect]] 
 
-### #is_/same_as :: [OO~Inheritance.private](/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO~Inheritance.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO~Inheritance.private|OO~Inheritance.private]] 
 
-### #is_/same_as :: [OO~Inheritance.personal](/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO~Inheritance.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO~Inheritance.personal|OO~Inheritance.personal]] 
 
-### #is_/same_as :: [OO~Inheritance.secret](/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO~Inheritance.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO~Inheritance.secret|OO~Inheritance.secret]] 
 

@@ -44,17 +44,17 @@ Commons_category: History of the Middle East
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [History_of_the_Middle_East](/_Standards/Earth/Continent/Asia/Asia~West/History_of_the_Middle_East.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~West/History_of_the_Middle_East|History_of_the_Middle_East]] 
 
-### #is_/same_as :: [History_of_the_Middle_East.public](/_public/Earth/Continent/Asia/Asia~West/History_of_the_Middle_East.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~West/History_of_the_Middle_East.public|History_of_the_Middle_East.public]] 
 
-### #is_/same_as :: [History_of_the_Middle_East.internal](/_internal/Earth/Continent/Asia/Asia~West/History_of_the_Middle_East.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~West/History_of_the_Middle_East.internal|History_of_the_Middle_East.internal]] 
 
-### #is_/same_as :: [History_of_the_Middle_East.protect](/_protect/Earth/Continent/Asia/Asia~West/History_of_the_Middle_East.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~West/History_of_the_Middle_East.protect|History_of_the_Middle_East.protect]] 
 
-### #is_/same_as :: [History_of_the_Middle_East.private](/_private/Earth/Continent/Asia/Asia~West/History_of_the_Middle_East.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~West/History_of_the_Middle_East.private|History_of_the_Middle_East.private]] 
 
-### #is_/same_as :: [History_of_the_Middle_East.personal](/_personal/Earth/Continent/Asia/Asia~West/History_of_the_Middle_East.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~West/History_of_the_Middle_East.personal|History_of_the_Middle_East.personal]] 
 
-### #is_/same_as :: [History_of_the_Middle_East.secret](/_secret/Earth/Continent/Asia/Asia~West/History_of_the_Middle_East.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~West/History_of_the_Middle_East.secret|History_of_the_Middle_East.secret]] 
 

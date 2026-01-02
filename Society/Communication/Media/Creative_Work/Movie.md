@@ -39,17 +39,17 @@ A movie.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Movie](/_Standards/Society/Communication/Media/Creative_Work/Movie.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Creative_Work/Movie|Movie]] 
 
-### #is_/same_as :: [Movie.public](/_public/Society/Communication/Media/Creative_Work/Movie.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Creative_Work/Movie.public|Movie.public]] 
 
-### #is_/same_as :: [Movie.internal](/_internal/Society/Communication/Media/Creative_Work/Movie.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Creative_Work/Movie.internal|Movie.internal]] 
 
-### #is_/same_as :: [Movie.protect](/_protect/Society/Communication/Media/Creative_Work/Movie.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Creative_Work/Movie.protect|Movie.protect]] 
 
-### #is_/same_as :: [Movie.private](/_private/Society/Communication/Media/Creative_Work/Movie.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Creative_Work/Movie.private|Movie.private]] 
 
-### #is_/same_as :: [Movie.personal](/_personal/Society/Communication/Media/Creative_Work/Movie.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/Movie.personal|Movie.personal]] 
 
-### #is_/same_as :: [Movie.secret](/_secret/Society/Communication/Media/Creative_Work/Movie.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Movie.secret|Movie.secret]] 
 

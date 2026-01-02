@@ -173,17 +173,17 @@ ZVG_number: 8190
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Chromium](/_Standards/Chemistry/Chemical_Element/Group-06-Chromium/Chromium.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Chemical_Element/Group-06-Chromium/Chromium|Chromium]] 
 
-### #is_/same_as :: [Chromium.public](/_public/Chemistry/Chemical_Element/Group-06-Chromium/Chromium.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Chemical_Element/Group-06-Chromium/Chromium.public|Chromium.public]] 
 
-### #is_/same_as :: [Chromium.internal](/_internal/Chemistry/Chemical_Element/Group-06-Chromium/Chromium.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Chemical_Element/Group-06-Chromium/Chromium.internal|Chromium.internal]] 
 
-### #is_/same_as :: [Chromium.protect](/_protect/Chemistry/Chemical_Element/Group-06-Chromium/Chromium.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Chemical_Element/Group-06-Chromium/Chromium.protect|Chromium.protect]] 
 
-### #is_/same_as :: [Chromium.private](/_private/Chemistry/Chemical_Element/Group-06-Chromium/Chromium.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Chemical_Element/Group-06-Chromium/Chromium.private|Chromium.private]] 
 
-### #is_/same_as :: [Chromium.personal](/_personal/Chemistry/Chemical_Element/Group-06-Chromium/Chromium.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Chemical_Element/Group-06-Chromium/Chromium.personal|Chromium.personal]] 
 
-### #is_/same_as :: [Chromium.secret](/_secret/Chemistry/Chemical_Element/Group-06-Chromium/Chromium.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Chemical_Element/Group-06-Chromium/Chromium.secret|Chromium.secret]] 
 

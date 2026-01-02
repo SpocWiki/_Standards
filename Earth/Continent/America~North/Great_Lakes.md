@@ -55,17 +55,17 @@ volume_as_quantity: 22725
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Great_Lakes](/_Standards/Earth/Continent/America~North/Great_Lakes.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~North/Great_Lakes|Great_Lakes]] 
 
-### #is_/same_as :: [Great_Lakes.public](/_public/Earth/Continent/America~North/Great_Lakes.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~North/Great_Lakes.public|Great_Lakes.public]] 
 
-### #is_/same_as :: [Great_Lakes.internal](/_internal/Earth/Continent/America~North/Great_Lakes.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~North/Great_Lakes.internal|Great_Lakes.internal]] 
 
-### #is_/same_as :: [Great_Lakes.protect](/_protect/Earth/Continent/America~North/Great_Lakes.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~North/Great_Lakes.protect|Great_Lakes.protect]] 
 
-### #is_/same_as :: [Great_Lakes.private](/_private/Earth/Continent/America~North/Great_Lakes.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~North/Great_Lakes.private|Great_Lakes.private]] 
 
-### #is_/same_as :: [Great_Lakes.personal](/_personal/Earth/Continent/America~North/Great_Lakes.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~North/Great_Lakes.personal|Great_Lakes.personal]] 
 
-### #is_/same_as :: [Great_Lakes.secret](/_secret/Earth/Continent/America~North/Great_Lakes.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~North/Great_Lakes.secret|Great_Lakes.secret]] 
 

@@ -107,17 +107,17 @@ UMLS_CUI: C0205932
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Theology](/_Standards/Philosophy/Metaphysic/Religion/Theology.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Theology|Theology]] 
 
-### #is_/same_as :: [Theology.public](/_public/Philosophy/Metaphysic/Religion/Theology.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Theology.public|Theology.public]] 
 
-### #is_/same_as :: [Theology.internal](/_internal/Philosophy/Metaphysic/Religion/Theology.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Theology.internal|Theology.internal]] 
 
-### #is_/same_as :: [Theology.protect](/_protect/Philosophy/Metaphysic/Religion/Theology.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Theology.protect|Theology.protect]] 
 
-### #is_/same_as :: [Theology.private](/_private/Philosophy/Metaphysic/Religion/Theology.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Theology.private|Theology.private]] 
 
-### #is_/same_as :: [Theology.personal](/_personal/Philosophy/Metaphysic/Religion/Theology.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Theology.personal|Theology.personal]] 
 
-### #is_/same_as :: [Theology.secret](/_secret/Philosophy/Metaphysic/Religion/Theology.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Theology.secret|Theology.secret]] 
 

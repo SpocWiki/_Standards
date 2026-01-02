@@ -39,17 +39,17 @@ video: http://commons.wikimedia.org/wiki/Special:FilePath/Thermohaline%20Circula
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Thermohaline_Circulation](/_Standards/Earth/Climate/Thermohaline_Circulation.md) 
+### #is_/same_as :: [[/_Standards/Earth/Climate/Thermohaline_Circulation|Thermohaline_Circulation]] 
 
-### #is_/same_as :: [Thermohaline_Circulation.public](/_public/Earth/Climate/Thermohaline_Circulation.public.md) 
+### #is_/same_as :: [[/_public/Earth/Climate/Thermohaline_Circulation.public|Thermohaline_Circulation.public]] 
 
-### #is_/same_as :: [Thermohaline_Circulation.internal](/_internal/Earth/Climate/Thermohaline_Circulation.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Climate/Thermohaline_Circulation.internal|Thermohaline_Circulation.internal]] 
 
-### #is_/same_as :: [Thermohaline_Circulation.protect](/_protect/Earth/Climate/Thermohaline_Circulation.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Climate/Thermohaline_Circulation.protect|Thermohaline_Circulation.protect]] 
 
-### #is_/same_as :: [Thermohaline_Circulation.private](/_private/Earth/Climate/Thermohaline_Circulation.private.md) 
+### #is_/same_as :: [[/_private/Earth/Climate/Thermohaline_Circulation.private|Thermohaline_Circulation.private]] 
 
-### #is_/same_as :: [Thermohaline_Circulation.personal](/_personal/Earth/Climate/Thermohaline_Circulation.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Climate/Thermohaline_Circulation.personal|Thermohaline_Circulation.personal]] 
 
-### #is_/same_as :: [Thermohaline_Circulation.secret](/_secret/Earth/Climate/Thermohaline_Circulation.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Climate/Thermohaline_Circulation.secret|Thermohaline_Circulation.secret]] 
 

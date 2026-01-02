@@ -151,17 +151,17 @@ Birds, tyrannosaurs, velociraptors, etc.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Coelurosauria](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Sauropsida/Reptile/Diapsida/Archosauromorpha/Archosauria/Dinosaur/Theropoda/Coelurosauria.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Sauropsida/Reptile/Diapsida/Archosauromorpha/Archosauria/Dinosaur/Theropoda/Coelurosauria|Coelurosauria]] 
 
-### #is_/same_as :: [Coelurosauria.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Sauropsida/Reptile/Diapsida/Archosauromorpha/Archosauria/Dinosaur/Theropoda/Coelurosauria.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Sauropsida/Reptile/Diapsida/Archosauromorpha/Archosauria/Dinosaur/Theropoda/Coelurosauria.public|Coelurosauria.public]] 
 
-### #is_/same_as :: [Coelurosauria.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Sauropsida/Reptile/Diapsida/Archosauromorpha/Archosauria/Dinosaur/Theropoda/Coelurosauria.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Sauropsida/Reptile/Diapsida/Archosauromorpha/Archosauria/Dinosaur/Theropoda/Coelurosauria.internal|Coelurosauria.internal]] 
 
-### #is_/same_as :: [Coelurosauria.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Sauropsida/Reptile/Diapsida/Archosauromorpha/Archosauria/Dinosaur/Theropoda/Coelurosauria.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Sauropsida/Reptile/Diapsida/Archosauromorpha/Archosauria/Dinosaur/Theropoda/Coelurosauria.protect|Coelurosauria.protect]] 
 
-### #is_/same_as :: [Coelurosauria.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Sauropsida/Reptile/Diapsida/Archosauromorpha/Archosauria/Dinosaur/Theropoda/Coelurosauria.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Sauropsida/Reptile/Diapsida/Archosauromorpha/Archosauria/Dinosaur/Theropoda/Coelurosauria.private|Coelurosauria.private]] 
 
-### #is_/same_as :: [Coelurosauria.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Sauropsida/Reptile/Diapsida/Archosauromorpha/Archosauria/Dinosaur/Theropoda/Coelurosauria.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Sauropsida/Reptile/Diapsida/Archosauromorpha/Archosauria/Dinosaur/Theropoda/Coelurosauria.personal|Coelurosauria.personal]] 
 
-### #is_/same_as :: [Coelurosauria.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Sauropsida/Reptile/Diapsida/Archosauromorpha/Archosauria/Dinosaur/Theropoda/Coelurosauria.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Sauropsida/Reptile/Diapsida/Archosauromorpha/Archosauria/Dinosaur/Theropoda/Coelurosauria.secret|Coelurosauria.secret]] 
 

@@ -60,17 +60,17 @@ IEV_number: 103-08-10
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Expected_Value](/_Standards/Mathematics/Statistics/Expected_Value.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Statistics/Expected_Value|Expected_Value]] 
 
-### #is_/same_as :: [Expected_Value.public](/_public/Mathematics/Statistics/Expected_Value.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Statistics/Expected_Value.public|Expected_Value.public]] 
 
-### #is_/same_as :: [Expected_Value.internal](/_internal/Mathematics/Statistics/Expected_Value.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Statistics/Expected_Value.internal|Expected_Value.internal]] 
 
-### #is_/same_as :: [Expected_Value.protect](/_protect/Mathematics/Statistics/Expected_Value.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Statistics/Expected_Value.protect|Expected_Value.protect]] 
 
-### #is_/same_as :: [Expected_Value.private](/_private/Mathematics/Statistics/Expected_Value.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Statistics/Expected_Value.private|Expected_Value.private]] 
 
-### #is_/same_as :: [Expected_Value.personal](/_personal/Mathematics/Statistics/Expected_Value.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Statistics/Expected_Value.personal|Expected_Value.personal]] 
 
-### #is_/same_as :: [Expected_Value.secret](/_secret/Mathematics/Statistics/Expected_Value.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Statistics/Expected_Value.secret|Expected_Value.secret]] 
 

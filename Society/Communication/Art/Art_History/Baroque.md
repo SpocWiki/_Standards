@@ -77,17 +77,17 @@ Gujarati_Vishwakosh_entry: બરૉક-કલાશૈલી
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Baroque](/_Standards/Society/Communication/Art/Art_History/Baroque.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Art/Art_History/Baroque|Baroque]] 
 
-### #is_/same_as :: [Baroque.public](/_public/Society/Communication/Art/Art_History/Baroque.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Art/Art_History/Baroque.public|Baroque.public]] 
 
-### #is_/same_as :: [Baroque.internal](/_internal/Society/Communication/Art/Art_History/Baroque.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Art/Art_History/Baroque.internal|Baroque.internal]] 
 
-### #is_/same_as :: [Baroque.protect](/_protect/Society/Communication/Art/Art_History/Baroque.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Art/Art_History/Baroque.protect|Baroque.protect]] 
 
-### #is_/same_as :: [Baroque.private](/_private/Society/Communication/Art/Art_History/Baroque.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Art/Art_History/Baroque.private|Baroque.private]] 
 
-### #is_/same_as :: [Baroque.personal](/_personal/Society/Communication/Art/Art_History/Baroque.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Art/Art_History/Baroque.personal|Baroque.personal]] 
 
-### #is_/same_as :: [Baroque.secret](/_secret/Society/Communication/Art/Art_History/Baroque.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Art/Art_History/Baroque.secret|Baroque.secret]] 
 

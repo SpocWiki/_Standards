@@ -33,17 +33,17 @@ Provenio_UUID: af3bd97e-9be8-4c91-ad5e-f5b1826d2335
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Modern_Philosophy](/_Standards/Philosophy/Modern_Philosophy.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Modern_Philosophy|Modern_Philosophy]] 
 
-### #is_/same_as :: [Modern_Philosophy.public](/_public/Philosophy/Modern_Philosophy.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Modern_Philosophy.public|Modern_Philosophy.public]] 
 
-### #is_/same_as :: [Modern_Philosophy.internal](/_internal/Philosophy/Modern_Philosophy.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Modern_Philosophy.internal|Modern_Philosophy.internal]] 
 
-### #is_/same_as :: [Modern_Philosophy.protect](/_protect/Philosophy/Modern_Philosophy.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Modern_Philosophy.protect|Modern_Philosophy.protect]] 
 
-### #is_/same_as :: [Modern_Philosophy.private](/_private/Philosophy/Modern_Philosophy.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Modern_Philosophy.private|Modern_Philosophy.private]] 
 
-### #is_/same_as :: [Modern_Philosophy.personal](/_personal/Philosophy/Modern_Philosophy.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Modern_Philosophy.personal|Modern_Philosophy.personal]] 
 
-### #is_/same_as :: [Modern_Philosophy.secret](/_secret/Philosophy/Modern_Philosophy.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Modern_Philosophy.secret|Modern_Philosophy.secret]] 
 

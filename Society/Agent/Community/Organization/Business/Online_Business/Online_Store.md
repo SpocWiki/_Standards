@@ -43,17 +43,17 @@ An eCommerce site.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Online_Store](/_Standards/Society/Agent/Community/Organization/Business/Online_Business/Online_Store.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Business/Online_Business/Online_Store|Online_Store]] 
 
-### #is_/same_as :: [Online_Store.public](/_public/Society/Agent/Community/Organization/Business/Online_Business/Online_Store.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Business/Online_Business/Online_Store.public|Online_Store.public]] 
 
-### #is_/same_as :: [Online_Store.internal](/_internal/Society/Agent/Community/Organization/Business/Online_Business/Online_Store.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Business/Online_Business/Online_Store.internal|Online_Store.internal]] 
 
-### #is_/same_as :: [Online_Store.protect](/_protect/Society/Agent/Community/Organization/Business/Online_Business/Online_Store.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Business/Online_Business/Online_Store.protect|Online_Store.protect]] 
 
-### #is_/same_as :: [Online_Store.private](/_private/Society/Agent/Community/Organization/Business/Online_Business/Online_Store.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Business/Online_Business/Online_Store.private|Online_Store.private]] 
 
-### #is_/same_as :: [Online_Store.personal](/_personal/Society/Agent/Community/Organization/Business/Online_Business/Online_Store.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Business/Online_Business/Online_Store.personal|Online_Store.personal]] 
 
-### #is_/same_as :: [Online_Store.secret](/_secret/Society/Agent/Community/Organization/Business/Online_Business/Online_Store.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Business/Online_Business/Online_Store.secret|Online_Store.secret]] 
 

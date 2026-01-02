@@ -42,17 +42,17 @@ LegislationLegalValue:: {"type":"Select","options":{"valuesList":{"Authoritative
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~LegislationObject](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Legislation/FileClass~LegislationAndMediaObject/FileClass~LegislationObject.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Legislation/FileClass~LegislationAndMediaObject/FileClass~LegislationObject|FileClass~LegislationObject]] 
 
-### #is_/same_as :: [FileClass~LegislationObject.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Legislation/FileClass~LegislationAndMediaObject/FileClass~LegislationObject.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Legislation/FileClass~LegislationAndMediaObject/FileClass~LegislationObject.public|FileClass~LegislationObject.public]] 
 
-### #is_/same_as :: [FileClass~LegislationObject.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Legislation/FileClass~LegislationAndMediaObject/FileClass~LegislationObject.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Legislation/FileClass~LegislationAndMediaObject/FileClass~LegislationObject.internal|FileClass~LegislationObject.internal]] 
 
-### #is_/same_as :: [FileClass~LegislationObject.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Legislation/FileClass~LegislationAndMediaObject/FileClass~LegislationObject.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Legislation/FileClass~LegislationAndMediaObject/FileClass~LegislationObject.protect|FileClass~LegislationObject.protect]] 
 
-### #is_/same_as :: [FileClass~LegislationObject.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Legislation/FileClass~LegislationAndMediaObject/FileClass~LegislationObject.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Legislation/FileClass~LegislationAndMediaObject/FileClass~LegislationObject.private|FileClass~LegislationObject.private]] 
 
-### #is_/same_as :: [FileClass~LegislationObject.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Legislation/FileClass~LegislationAndMediaObject/FileClass~LegislationObject.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Legislation/FileClass~LegislationAndMediaObject/FileClass~LegislationObject.personal|FileClass~LegislationObject.personal]] 
 
-### #is_/same_as :: [FileClass~LegislationObject.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Legislation/FileClass~LegislationAndMediaObject/FileClass~LegislationObject.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Legislation/FileClass~LegislationAndMediaObject/FileClass~LegislationObject.secret|FileClass~LegislationObject.secret]] 
 

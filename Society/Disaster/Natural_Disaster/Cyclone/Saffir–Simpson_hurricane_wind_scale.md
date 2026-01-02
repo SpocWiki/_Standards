@@ -69,17 +69,17 @@ described_at_URL: http://www.nhc.noaa.gov/aboutsshws.php
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Saffir–Simpson_hurricane_wind_scale](/_Standards/Society/Disaster/Natural_Disaster/Cyclone/Saffir–Simpson_hurricane_wind_scale.md) 
+### #is_/same_as :: [[/_Standards/Society/Disaster/Natural_Disaster/Cyclone/Saffir–Simpson_hurricane_wind_scale|Saffir–Simpson_hurricane_wind_scale]] 
 
-### #is_/same_as :: [Saffir–Simpson_hurricane_wind_scale.public](/_public/Society/Disaster/Natural_Disaster/Cyclone/Saffir–Simpson_hurricane_wind_scale.public.md) 
+### #is_/same_as :: [[/_public/Society/Disaster/Natural_Disaster/Cyclone/Saffir–Simpson_hurricane_wind_scale.public|Saffir–Simpson_hurricane_wind_scale.public]] 
 
-### #is_/same_as :: [Saffir–Simpson_hurricane_wind_scale.internal](/_internal/Society/Disaster/Natural_Disaster/Cyclone/Saffir–Simpson_hurricane_wind_scale.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Disaster/Natural_Disaster/Cyclone/Saffir–Simpson_hurricane_wind_scale.internal|Saffir–Simpson_hurricane_wind_scale.internal]] 
 
-### #is_/same_as :: [Saffir–Simpson_hurricane_wind_scale.protect](/_protect/Society/Disaster/Natural_Disaster/Cyclone/Saffir–Simpson_hurricane_wind_scale.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Disaster/Natural_Disaster/Cyclone/Saffir–Simpson_hurricane_wind_scale.protect|Saffir–Simpson_hurricane_wind_scale.protect]] 
 
-### #is_/same_as :: [Saffir–Simpson_hurricane_wind_scale.private](/_private/Society/Disaster/Natural_Disaster/Cyclone/Saffir–Simpson_hurricane_wind_scale.private.md) 
+### #is_/same_as :: [[/_private/Society/Disaster/Natural_Disaster/Cyclone/Saffir–Simpson_hurricane_wind_scale.private|Saffir–Simpson_hurricane_wind_scale.private]] 
 
-### #is_/same_as :: [Saffir–Simpson_hurricane_wind_scale.personal](/_personal/Society/Disaster/Natural_Disaster/Cyclone/Saffir–Simpson_hurricane_wind_scale.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Disaster/Natural_Disaster/Cyclone/Saffir–Simpson_hurricane_wind_scale.personal|Saffir–Simpson_hurricane_wind_scale.personal]] 
 
-### #is_/same_as :: [Saffir–Simpson_hurricane_wind_scale.secret](/_secret/Society/Disaster/Natural_Disaster/Cyclone/Saffir–Simpson_hurricane_wind_scale.secret.md)
+### #is_/same_as :: [[/_secret/Society/Disaster/Natural_Disaster/Cyclone/Saffir–Simpson_hurricane_wind_scale.secret|Saffir–Simpson_hurricane_wind_scale.secret]] 
 

@@ -135,24 +135,24 @@ by Cannatella (1985) and Hay et al. (1995).
 ## Title Illustrations
 
 ------------ 
-![Rhinophrynus dorsalis](Rhinophrynidae/rhinophrynus.jpg))
+![Rhinophrynus dorsalis](Rhinophrynidae/rhinophrynus.jpg) 
 Scientific Name ::  Rhinophrynus dorsalis
 Copyright ::         © 1995 E. D. Brodie, Jr.
 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Rhinophrynidae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Rhinophrynidae.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Rhinophrynidae|Rhinophrynidae]] 
 
-### #is_/same_as :: [Rhinophrynidae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Rhinophrynidae.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Rhinophrynidae.public|Rhinophrynidae.public]] 
 
-### #is_/same_as :: [Rhinophrynidae.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Rhinophrynidae.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Rhinophrynidae.internal|Rhinophrynidae.internal]] 
 
-### #is_/same_as :: [Rhinophrynidae.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Rhinophrynidae.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Rhinophrynidae.protect|Rhinophrynidae.protect]] 
 
-### #is_/same_as :: [Rhinophrynidae.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Rhinophrynidae.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Rhinophrynidae.private|Rhinophrynidae.private]] 
 
-### #is_/same_as :: [Rhinophrynidae.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Rhinophrynidae.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Rhinophrynidae.personal|Rhinophrynidae.personal]] 
 
-### #is_/same_as :: [Rhinophrynidae.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Rhinophrynidae.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Rhinophrynidae.secret|Rhinophrynidae.secret]] 
 

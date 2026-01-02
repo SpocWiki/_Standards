@@ -43,17 +43,17 @@ Represents the suggested retail price ("SRP") of an offered product.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Srp](/_Standards/schema-org/Enumeration/Price_Type_Enumeration/Srp.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Price_Type_Enumeration/Srp|Srp]] 
 
-### #is_/same_as :: [Srp.public](/_public/schema-org/Enumeration/Price_Type_Enumeration/Srp.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Price_Type_Enumeration/Srp.public|Srp.public]] 
 
-### #is_/same_as :: [Srp.internal](/_internal/schema-org/Enumeration/Price_Type_Enumeration/Srp.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Price_Type_Enumeration/Srp.internal|Srp.internal]] 
 
-### #is_/same_as :: [Srp.protect](/_protect/schema-org/Enumeration/Price_Type_Enumeration/Srp.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Price_Type_Enumeration/Srp.protect|Srp.protect]] 
 
-### #is_/same_as :: [Srp.private](/_private/schema-org/Enumeration/Price_Type_Enumeration/Srp.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Price_Type_Enumeration/Srp.private|Srp.private]] 
 
-### #is_/same_as :: [Srp.personal](/_personal/schema-org/Enumeration/Price_Type_Enumeration/Srp.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Price_Type_Enumeration/Srp.personal|Srp.personal]] 
 
-### #is_/same_as :: [Srp.secret](/_secret/schema-org/Enumeration/Price_Type_Enumeration/Srp.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Price_Type_Enumeration/Srp.secret|Srp.secret]] 
 

@@ -50,17 +50,17 @@ Commons_category: Pharmacokinetics
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Pharmacokinetics](/_Standards/bio/Medicine/Pharmacology/Pharmacokinetics.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Pharmacology/Pharmacokinetics|Pharmacokinetics]] 
 
-### #is_/same_as :: [Pharmacokinetics.public](/_public/bio/Medicine/Pharmacology/Pharmacokinetics.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Pharmacology/Pharmacokinetics.public|Pharmacokinetics.public]] 
 
-### #is_/same_as :: [Pharmacokinetics.internal](/_internal/bio/Medicine/Pharmacology/Pharmacokinetics.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Pharmacology/Pharmacokinetics.internal|Pharmacokinetics.internal]] 
 
-### #is_/same_as :: [Pharmacokinetics.protect](/_protect/bio/Medicine/Pharmacology/Pharmacokinetics.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Pharmacology/Pharmacokinetics.protect|Pharmacokinetics.protect]] 
 
-### #is_/same_as :: [Pharmacokinetics.private](/_private/bio/Medicine/Pharmacology/Pharmacokinetics.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Pharmacology/Pharmacokinetics.private|Pharmacokinetics.private]] 
 
-### #is_/same_as :: [Pharmacokinetics.personal](/_personal/bio/Medicine/Pharmacology/Pharmacokinetics.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Pharmacology/Pharmacokinetics.personal|Pharmacokinetics.personal]] 
 
-### #is_/same_as :: [Pharmacokinetics.secret](/_secret/bio/Medicine/Pharmacology/Pharmacokinetics.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Pharmacology/Pharmacokinetics.secret|Pharmacokinetics.secret]] 
 

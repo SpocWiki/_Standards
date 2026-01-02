@@ -80,17 +80,17 @@ has_id_wikidata: Q151599
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Metropolis(Film)](Metropolis(Film).md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Genre/Steampunk/Metropolis(Film)|Metropolis(Film)]] 
 
-### #is_/same_as :: [Metropolis.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Steampunk/Metropolis.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Genre/Steampunk/Metropolis(Film).public|Metropolis(Film).public]] 
 
-### #is_/same_as :: [Metropolis.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Steampunk/Metropolis.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Genre/Steampunk/Metropolis(Film).internal|Metropolis(Film).internal]] 
 
-### #is_/same_as :: [Metropolis.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Steampunk/Metropolis.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Genre/Steampunk/Metropolis(Film).protect|Metropolis(Film).protect]] 
 
-### #is_/same_as :: [Metropolis.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Steampunk/Metropolis.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Genre/Steampunk/Metropolis(Film).private|Metropolis(Film).private]] 
 
-### #is_/same_as :: [Metropolis.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Steampunk/Metropolis.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Genre/Steampunk/Metropolis(Film).personal|Metropolis(Film).personal]] 
 
-### #is_/same_as :: [Metropolis.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Steampunk/Metropolis.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Genre/Steampunk/Metropolis(Film).secret|Metropolis(Film).secret]] 
 

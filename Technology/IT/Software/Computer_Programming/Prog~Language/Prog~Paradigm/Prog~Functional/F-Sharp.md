@@ -36,17 +36,17 @@ type: folder_brief_live
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [F-Sharp](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/F-Sharp.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/F-Sharp|F-Sharp]] 
 
-### #is_/same_as :: [F-Sharp.public](/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/F-Sharp.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/F-Sharp.public|F-Sharp.public]] 
 
-### #is_/same_as :: [F-Sharp.internal](/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/F-Sharp.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/F-Sharp.internal|F-Sharp.internal]] 
 
-### #is_/same_as :: [F-Sharp.protect](/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/F-Sharp.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/F-Sharp.protect|F-Sharp.protect]] 
 
-### #is_/same_as :: [F-Sharp.private](/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/F-Sharp.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/F-Sharp.private|F-Sharp.private]] 
 
-### #is_/same_as :: [F-Sharp.personal](/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/F-Sharp.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/F-Sharp.personal|F-Sharp.personal]] 
 
-### #is_/same_as :: [F-Sharp.secret](/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/F-Sharp.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/F-Sharp.secret|F-Sharp.secret]] 
 

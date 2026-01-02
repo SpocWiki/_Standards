@@ -56,17 +56,17 @@ spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Thermos
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Vacuum_Flask](/_Standards/Society/Economics/Home_Economics/Food_Storage/Vacuum_Flask.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Home_Economics/Food_Storage/Vacuum_Flask|Vacuum_Flask]] 
 
-### #is_/same_as :: [Vacuum_Flask.public](/_public/Society/Economics/Home_Economics/Food_Storage/Vacuum_Flask.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Home_Economics/Food_Storage/Vacuum_Flask.public|Vacuum_Flask.public]] 
 
-### #is_/same_as :: [Vacuum_Flask.internal](/_internal/Society/Economics/Home_Economics/Food_Storage/Vacuum_Flask.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Home_Economics/Food_Storage/Vacuum_Flask.internal|Vacuum_Flask.internal]] 
 
-### #is_/same_as :: [Vacuum_Flask.protect](/_protect/Society/Economics/Home_Economics/Food_Storage/Vacuum_Flask.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Home_Economics/Food_Storage/Vacuum_Flask.protect|Vacuum_Flask.protect]] 
 
-### #is_/same_as :: [Vacuum_Flask.private](/_private/Society/Economics/Home_Economics/Food_Storage/Vacuum_Flask.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Home_Economics/Food_Storage/Vacuum_Flask.private|Vacuum_Flask.private]] 
 
-### #is_/same_as :: [Vacuum_Flask.personal](/_personal/Society/Economics/Home_Economics/Food_Storage/Vacuum_Flask.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Home_Economics/Food_Storage/Vacuum_Flask.personal|Vacuum_Flask.personal]] 
 
-### #is_/same_as :: [Vacuum_Flask.secret](/_secret/Society/Economics/Home_Economics/Food_Storage/Vacuum_Flask.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Home_Economics/Food_Storage/Vacuum_Flask.secret|Vacuum_Flask.secret]] 
 

@@ -77,17 +77,17 @@ Wikidata_SPARQL_query_equivalent: wd:Q1811 p:P2370/psn:P2370 [wikibase:quantityA
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Astronomical_Unit](/_Standards/Astronomy/Solar_System/Astronomical_Unit.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Solar_System/Astronomical_Unit|Astronomical_Unit]] 
 
-### #is_/same_as :: [Astronomical_Unit.public](/_public/Astronomy/Solar_System/Astronomical_Unit.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Solar_System/Astronomical_Unit.public|Astronomical_Unit.public]] 
 
-### #is_/same_as :: [Astronomical_Unit.internal](/_internal/Astronomy/Solar_System/Astronomical_Unit.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Solar_System/Astronomical_Unit.internal|Astronomical_Unit.internal]] 
 
-### #is_/same_as :: [Astronomical_Unit.protect](/_protect/Astronomy/Solar_System/Astronomical_Unit.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Solar_System/Astronomical_Unit.protect|Astronomical_Unit.protect]] 
 
-### #is_/same_as :: [Astronomical_Unit.private](/_private/Astronomy/Solar_System/Astronomical_Unit.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Solar_System/Astronomical_Unit.private|Astronomical_Unit.private]] 
 
-### #is_/same_as :: [Astronomical_Unit.personal](/_personal/Astronomy/Solar_System/Astronomical_Unit.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Solar_System/Astronomical_Unit.personal|Astronomical_Unit.personal]] 
 
-### #is_/same_as :: [Astronomical_Unit.secret](/_secret/Astronomy/Solar_System/Astronomical_Unit.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Solar_System/Astronomical_Unit.secret|Astronomical_Unit.secret]] 
 

@@ -50,17 +50,17 @@ venous_drainage: '[[_Standards/WikiData/WD~hepatic_portal_vein,464543]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Small_Intestine](/_Standards/bio/Medicine/Anatomy/Human_digestive_System/Small_Intestine.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Anatomy/Human_digestive_System/Small_Intestine|Small_Intestine]] 
 
-### #is_/same_as :: [Small_Intestine.public](/_public/bio/Medicine/Anatomy/Human_digestive_System/Small_Intestine.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Anatomy/Human_digestive_System/Small_Intestine.public|Small_Intestine.public]] 
 
-### #is_/same_as :: [Small_Intestine.internal](/_internal/bio/Medicine/Anatomy/Human_digestive_System/Small_Intestine.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Anatomy/Human_digestive_System/Small_Intestine.internal|Small_Intestine.internal]] 
 
-### #is_/same_as :: [Small_Intestine.protect](/_protect/bio/Medicine/Anatomy/Human_digestive_System/Small_Intestine.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Anatomy/Human_digestive_System/Small_Intestine.protect|Small_Intestine.protect]] 
 
-### #is_/same_as :: [Small_Intestine.private](/_private/bio/Medicine/Anatomy/Human_digestive_System/Small_Intestine.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Anatomy/Human_digestive_System/Small_Intestine.private|Small_Intestine.private]] 
 
-### #is_/same_as :: [Small_Intestine.personal](/_personal/bio/Medicine/Anatomy/Human_digestive_System/Small_Intestine.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Anatomy/Human_digestive_System/Small_Intestine.personal|Small_Intestine.personal]] 
 
-### #is_/same_as :: [Small_Intestine.secret](/_secret/bio/Medicine/Anatomy/Human_digestive_System/Small_Intestine.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Anatomy/Human_digestive_System/Small_Intestine.secret|Small_Intestine.secret]] 
 

@@ -110,17 +110,17 @@ UNII: 1WZA4Y92EX
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Parsley](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Parsley.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Home_Economics/Cooking/Food/Parsley|Parsley]] 
 
-### #is_/same_as :: [Parsley.public](/_public/Society/Economics/Home_Economics/Cooking/Food/Parsley.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Home_Economics/Cooking/Food/Parsley.public|Parsley.public]] 
 
-### #is_/same_as :: [Parsley.internal](/_internal/Society/Economics/Home_Economics/Cooking/Food/Parsley.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Home_Economics/Cooking/Food/Parsley.internal|Parsley.internal]] 
 
-### #is_/same_as :: [Parsley.protect](/_protect/Society/Economics/Home_Economics/Cooking/Food/Parsley.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Home_Economics/Cooking/Food/Parsley.protect|Parsley.protect]] 
 
-### #is_/same_as :: [Parsley.private](/_private/Society/Economics/Home_Economics/Cooking/Food/Parsley.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Home_Economics/Cooking/Food/Parsley.private|Parsley.private]] 
 
-### #is_/same_as :: [Parsley.personal](/_personal/Society/Economics/Home_Economics/Cooking/Food/Parsley.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Home_Economics/Cooking/Food/Parsley.personal|Parsley.personal]] 
 
-### #is_/same_as :: [Parsley.secret](/_secret/Society/Economics/Home_Economics/Cooking/Food/Parsley.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Home_Economics/Cooking/Food/Parsley.secret|Parsley.secret]] 
 

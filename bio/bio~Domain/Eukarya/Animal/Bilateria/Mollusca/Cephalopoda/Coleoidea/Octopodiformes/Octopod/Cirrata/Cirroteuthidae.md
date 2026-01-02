@@ -112,7 +112,7 @@ Cephalopoda) of the Northeastern Pacific. Proc. Calif. Acad. Sci., 47:
 
 ## Title Illustrations
 
-![](Cirroteuthidae/Cirro2.JPG))
+![](Cirroteuthidae/Cirro2.JPG) 
 
   -----------------------
   Scientific Name ::     Cirroteuthis magna
@@ -124,17 +124,17 @@ Cephalopoda) of the Northeastern Pacific. Proc. Calif. Acad. Sci., 47:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Cirroteuthidae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Cirrata/Cirroteuthidae.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Cirrata/Cirroteuthidae|Cirroteuthidae]] 
 
-### #is_/same_as :: [Cirroteuthidae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Cirrata/Cirroteuthidae.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Cirrata/Cirroteuthidae.public|Cirroteuthidae.public]] 
 
-### #is_/same_as :: [Cirroteuthidae.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Cirrata/Cirroteuthidae.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Cirrata/Cirroteuthidae.internal|Cirroteuthidae.internal]] 
 
-### #is_/same_as :: [Cirroteuthidae.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Cirrata/Cirroteuthidae.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Cirrata/Cirroteuthidae.protect|Cirroteuthidae.protect]] 
 
-### #is_/same_as :: [Cirroteuthidae.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Cirrata/Cirroteuthidae.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Cirrata/Cirroteuthidae.private|Cirroteuthidae.private]] 
 
-### #is_/same_as :: [Cirroteuthidae.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Cirrata/Cirroteuthidae.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Cirrata/Cirroteuthidae.personal|Cirroteuthidae.personal]] 
 
-### #is_/same_as :: [Cirroteuthidae.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Cirrata/Cirroteuthidae.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Cirrata/Cirroteuthidae.secret|Cirroteuthidae.secret]] 
 

@@ -37,17 +37,17 @@ Any complaint sensed and expressed by the patient (therefore defined as subjecti
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~MedicalSymptom](/_Standards/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalCondition/FileClass~MedicalSignOrSymptom/FileClass~MedicalSymptom.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalCondition/FileClass~MedicalSignOrSymptom/FileClass~MedicalSymptom|FileClass~MedicalSymptom]] 
 
-### #is_/same_as :: [FileClass~MedicalSymptom.public](/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalCondition/FileClass~MedicalSignOrSymptom/FileClass~MedicalSymptom.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalCondition/FileClass~MedicalSignOrSymptom/FileClass~MedicalSymptom.public|FileClass~MedicalSymptom.public]] 
 
-### #is_/same_as :: [FileClass~MedicalSymptom.internal](/_internal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalCondition/FileClass~MedicalSignOrSymptom/FileClass~MedicalSymptom.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalCondition/FileClass~MedicalSignOrSymptom/FileClass~MedicalSymptom.internal|FileClass~MedicalSymptom.internal]] 
 
-### #is_/same_as :: [FileClass~MedicalSymptom.protect](/_protect/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalCondition/FileClass~MedicalSignOrSymptom/FileClass~MedicalSymptom.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalCondition/FileClass~MedicalSignOrSymptom/FileClass~MedicalSymptom.protect|FileClass~MedicalSymptom.protect]] 
 
-### #is_/same_as :: [FileClass~MedicalSymptom.private](/_private/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalCondition/FileClass~MedicalSignOrSymptom/FileClass~MedicalSymptom.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalCondition/FileClass~MedicalSignOrSymptom/FileClass~MedicalSymptom.private|FileClass~MedicalSymptom.private]] 
 
-### #is_/same_as :: [FileClass~MedicalSymptom.personal](/_personal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalCondition/FileClass~MedicalSignOrSymptom/FileClass~MedicalSymptom.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalCondition/FileClass~MedicalSignOrSymptom/FileClass~MedicalSymptom.personal|FileClass~MedicalSymptom.personal]] 
 
-### #is_/same_as :: [FileClass~MedicalSymptom.secret](/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalCondition/FileClass~MedicalSignOrSymptom/FileClass~MedicalSymptom.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalCondition/FileClass~MedicalSignOrSymptom/FileClass~MedicalSymptom.secret|FileClass~MedicalSymptom.secret]] 
 

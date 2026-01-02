@@ -82,17 +82,17 @@ Gujarati_Vishwakosh_entry: આદર્શ-વાયુ
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ideal_Gas](/_Standards/Science/Physics/Thermodynamics/Ideal_Gas.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Thermodynamics/Ideal_Gas|Ideal_Gas]] 
 
-### #is_/same_as :: [Ideal_Gas.public](/_public/Science/Physics/Thermodynamics/Ideal_Gas.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Thermodynamics/Ideal_Gas.public|Ideal_Gas.public]] 
 
-### #is_/same_as :: [Ideal_Gas.internal](/_internal/Science/Physics/Thermodynamics/Ideal_Gas.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Thermodynamics/Ideal_Gas.internal|Ideal_Gas.internal]] 
 
-### #is_/same_as :: [Ideal_Gas.protect](/_protect/Science/Physics/Thermodynamics/Ideal_Gas.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Thermodynamics/Ideal_Gas.protect|Ideal_Gas.protect]] 
 
-### #is_/same_as :: [Ideal_Gas.private](/_private/Science/Physics/Thermodynamics/Ideal_Gas.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Thermodynamics/Ideal_Gas.private|Ideal_Gas.private]] 
 
-### #is_/same_as :: [Ideal_Gas.personal](/_personal/Science/Physics/Thermodynamics/Ideal_Gas.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Thermodynamics/Ideal_Gas.personal|Ideal_Gas.personal]] 
 
-### #is_/same_as :: [Ideal_Gas.secret](/_secret/Science/Physics/Thermodynamics/Ideal_Gas.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Thermodynamics/Ideal_Gas.secret|Ideal_Gas.secret]] 
 

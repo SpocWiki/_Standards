@@ -86,17 +86,17 @@ NBN_System_Key: NHMSYS0020824558
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Asparagaceae](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Asparagales/Asparagaceae.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Asparagales/Asparagaceae|Asparagaceae]] 
 
-### #is_/same_as :: [Asparagaceae.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Asparagales/Asparagaceae.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Asparagales/Asparagaceae.public|Asparagaceae.public]] 
 
-### #is_/same_as :: [Asparagaceae.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Asparagales/Asparagaceae.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Asparagales/Asparagaceae.internal|Asparagaceae.internal]] 
 
-### #is_/same_as :: [Asparagaceae.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Asparagales/Asparagaceae.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Asparagales/Asparagaceae.protect|Asparagaceae.protect]] 
 
-### #is_/same_as :: [Asparagaceae.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Asparagales/Asparagaceae.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Asparagales/Asparagaceae.private|Asparagaceae.private]] 
 
-### #is_/same_as :: [Asparagaceae.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Asparagales/Asparagaceae.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Asparagales/Asparagaceae.personal|Asparagaceae.personal]] 
 
-### #is_/same_as :: [Asparagaceae.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Asparagales/Asparagaceae.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Asparagales/Asparagaceae.secret|Asparagaceae.secret]] 
 

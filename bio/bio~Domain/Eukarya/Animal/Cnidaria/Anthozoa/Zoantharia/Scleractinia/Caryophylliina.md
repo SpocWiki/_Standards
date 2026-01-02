@@ -28,7 +28,7 @@ title: Caryophylliina
 # Caryophylliina 
 
 [Stephen D. Cairns]()
-![ ](Caryophylliina/Deltocyathus_rotulus.jpg))
+![ ](Caryophylliina/Deltocyathus_rotulus.jpg) 
 † ) occurs only in the fossil record, whereas the other two
 superfamilies contain both fossil and Recent taxa.
 
@@ -149,17 +149,17 @@ Left to right:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Caryophylliina](/_Standards/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Scleractinia/Caryophylliina.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Scleractinia/Caryophylliina|Caryophylliina]] 
 
-### #is_/same_as :: [Caryophylliina.public](/_public/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Scleractinia/Caryophylliina.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Scleractinia/Caryophylliina.public|Caryophylliina.public]] 
 
-### #is_/same_as :: [Caryophylliina.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Scleractinia/Caryophylliina.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Scleractinia/Caryophylliina.internal|Caryophylliina.internal]] 
 
-### #is_/same_as :: [Caryophylliina.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Scleractinia/Caryophylliina.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Scleractinia/Caryophylliina.protect|Caryophylliina.protect]] 
 
-### #is_/same_as :: [Caryophylliina.private](/_private/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Scleractinia/Caryophylliina.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Scleractinia/Caryophylliina.private|Caryophylliina.private]] 
 
-### #is_/same_as :: [Caryophylliina.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Scleractinia/Caryophylliina.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Scleractinia/Caryophylliina.personal|Caryophylliina.personal]] 
 
-### #is_/same_as :: [Caryophylliina.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Scleractinia/Caryophylliina.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Scleractinia/Caryophylliina.secret|Caryophylliina.secret]] 
 

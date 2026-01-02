@@ -173,17 +173,17 @@ ISNI: 0000000374984682
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Pythagoras](/_Standards/Science/Polymath/Pythagoras.md) 
+### #is_/same_as :: [[/_Standards/Science/Polymath/Pythagoras|Pythagoras]] 
 
-### #is_/same_as :: [Pythagoras.public](/_public/Science/Polymath/Pythagoras.public.md) 
+### #is_/same_as :: [[/_public/Science/Polymath/Pythagoras.public|Pythagoras.public]] 
 
-### #is_/same_as :: [Pythagoras.internal](/_internal/Science/Polymath/Pythagoras.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Polymath/Pythagoras.internal|Pythagoras.internal]] 
 
-### #is_/same_as :: [Pythagoras.protect](/_protect/Science/Polymath/Pythagoras.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Polymath/Pythagoras.protect|Pythagoras.protect]] 
 
-### #is_/same_as :: [Pythagoras.private](/_private/Science/Polymath/Pythagoras.private.md) 
+### #is_/same_as :: [[/_private/Science/Polymath/Pythagoras.private|Pythagoras.private]] 
 
-### #is_/same_as :: [Pythagoras.personal](/_personal/Science/Polymath/Pythagoras.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Polymath/Pythagoras.personal|Pythagoras.personal]] 
 
-### #is_/same_as :: [Pythagoras.secret](/_secret/Science/Polymath/Pythagoras.secret.md)
+### #is_/same_as :: [[/_secret/Science/Polymath/Pythagoras.secret|Pythagoras.secret]] 
 

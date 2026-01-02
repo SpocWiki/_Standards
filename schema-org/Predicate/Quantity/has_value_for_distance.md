@@ -43,17 +43,17 @@ Properties that take Distances as values are of the form '<Number> <Length unit 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_value_for_distance](/_Standards/schema-org/Predicate/Quantity/has_value_for_distance.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Predicate/Quantity/has_value_for_distance|has_value_for_distance]] 
 
-### #is_/same_as :: [has_value_for_distance.public](/_public/schema-org/Predicate/Quantity/has_value_for_distance.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Predicate/Quantity/has_value_for_distance.public|has_value_for_distance.public]] 
 
-### #is_/same_as :: [has_value_for_distance.internal](/_internal/schema-org/Predicate/Quantity/has_value_for_distance.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Predicate/Quantity/has_value_for_distance.internal|has_value_for_distance.internal]] 
 
-### #is_/same_as :: [has_value_for_distance.protect](/_protect/schema-org/Predicate/Quantity/has_value_for_distance.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Predicate/Quantity/has_value_for_distance.protect|has_value_for_distance.protect]] 
 
-### #is_/same_as :: [has_value_for_distance.private](/_private/schema-org/Predicate/Quantity/has_value_for_distance.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Predicate/Quantity/has_value_for_distance.private|has_value_for_distance.private]] 
 
-### #is_/same_as :: [has_value_for_distance.personal](/_personal/schema-org/Predicate/Quantity/has_value_for_distance.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Predicate/Quantity/has_value_for_distance.personal|has_value_for_distance.personal]] 
 
-### #is_/same_as :: [has_value_for_distance.secret](/_secret/schema-org/Predicate/Quantity/has_value_for_distance.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Predicate/Quantity/has_value_for_distance.secret|has_value_for_distance.secret]] 
 

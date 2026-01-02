@@ -33,17 +33,17 @@ Commons_category: Great Limpopo Transfrontier Park
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Great_Limpopo_Transfrontier_Park](/_Standards/Earth/Continent/Africa/Africa~South/Great_Limpopo_Transfrontier_Park.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~South/Great_Limpopo_Transfrontier_Park|Great_Limpopo_Transfrontier_Park]] 
 
-### #is_/same_as :: [Great_Limpopo_Transfrontier_Park.public](/_public/Earth/Continent/Africa/Africa~South/Great_Limpopo_Transfrontier_Park.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~South/Great_Limpopo_Transfrontier_Park.public|Great_Limpopo_Transfrontier_Park.public]] 
 
-### #is_/same_as :: [Great_Limpopo_Transfrontier_Park.internal](/_internal/Earth/Continent/Africa/Africa~South/Great_Limpopo_Transfrontier_Park.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~South/Great_Limpopo_Transfrontier_Park.internal|Great_Limpopo_Transfrontier_Park.internal]] 
 
-### #is_/same_as :: [Great_Limpopo_Transfrontier_Park.protect](/_protect/Earth/Continent/Africa/Africa~South/Great_Limpopo_Transfrontier_Park.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~South/Great_Limpopo_Transfrontier_Park.protect|Great_Limpopo_Transfrontier_Park.protect]] 
 
-### #is_/same_as :: [Great_Limpopo_Transfrontier_Park.private](/_private/Earth/Continent/Africa/Africa~South/Great_Limpopo_Transfrontier_Park.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~South/Great_Limpopo_Transfrontier_Park.private|Great_Limpopo_Transfrontier_Park.private]] 
 
-### #is_/same_as :: [Great_Limpopo_Transfrontier_Park.personal](/_personal/Earth/Continent/Africa/Africa~South/Great_Limpopo_Transfrontier_Park.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~South/Great_Limpopo_Transfrontier_Park.personal|Great_Limpopo_Transfrontier_Park.personal]] 
 
-### #is_/same_as :: [Great_Limpopo_Transfrontier_Park.secret](/_secret/Earth/Continent/Africa/Africa~South/Great_Limpopo_Transfrontier_Park.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~South/Great_Limpopo_Transfrontier_Park.secret|Great_Limpopo_Transfrontier_Park.secret]] 
 

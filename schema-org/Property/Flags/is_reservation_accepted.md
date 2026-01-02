@@ -44,17 +44,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [is_reservation_accepted](/_Standards/schema-org/Property/Flags/is_reservation_accepted.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/Flags/is_reservation_accepted|is_reservation_accepted]] 
 
-### #is_/same_as :: [is_reservation_accepted.public](/_public/schema-org/Property/Flags/is_reservation_accepted.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/Flags/is_reservation_accepted.public|is_reservation_accepted.public]] 
 
-### #is_/same_as :: [is_reservation_accepted.internal](/_internal/schema-org/Property/Flags/is_reservation_accepted.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/Flags/is_reservation_accepted.internal|is_reservation_accepted.internal]] 
 
-### #is_/same_as :: [is_reservation_accepted.protect](/_protect/schema-org/Property/Flags/is_reservation_accepted.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/Flags/is_reservation_accepted.protect|is_reservation_accepted.protect]] 
 
-### #is_/same_as :: [is_reservation_accepted.private](/_private/schema-org/Property/Flags/is_reservation_accepted.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/Flags/is_reservation_accepted.private|is_reservation_accepted.private]] 
 
-### #is_/same_as :: [is_reservation_accepted.personal](/_personal/schema-org/Property/Flags/is_reservation_accepted.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/Flags/is_reservation_accepted.personal|is_reservation_accepted.personal]] 
 
-### #is_/same_as :: [is_reservation_accepted.secret](/_secret/schema-org/Property/Flags/is_reservation_accepted.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/Flags/is_reservation_accepted.secret|is_reservation_accepted.secret]] 
 

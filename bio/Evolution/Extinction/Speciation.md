@@ -106,17 +106,17 @@ A resumption of avoiding mutant mates will thereafter result, once again, in evo
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Speciation](/_Standards/bio/Evolution/Extinction/Speciation.md) 
+### #is_/same_as :: [[/_Standards/bio/Evolution/Extinction/Speciation|Speciation]] 
 
-### #is_/same_as :: [Speciation.public](/_public/bio/Evolution/Extinction/Speciation.public.md) 
+### #is_/same_as :: [[/_public/bio/Evolution/Extinction/Speciation.public|Speciation.public]] 
 
-### #is_/same_as :: [Speciation.internal](/_internal/bio/Evolution/Extinction/Speciation.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Evolution/Extinction/Speciation.internal|Speciation.internal]] 
 
-### #is_/same_as :: [Speciation.protect](/_protect/bio/Evolution/Extinction/Speciation.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Evolution/Extinction/Speciation.protect|Speciation.protect]] 
 
-### #is_/same_as :: [Speciation.private](/_private/bio/Evolution/Extinction/Speciation.private.md) 
+### #is_/same_as :: [[/_private/bio/Evolution/Extinction/Speciation.private|Speciation.private]] 
 
-### #is_/same_as :: [Speciation.personal](/_personal/bio/Evolution/Extinction/Speciation.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Evolution/Extinction/Speciation.personal|Speciation.personal]] 
 
-### #is_/same_as :: [Speciation.secret](/_secret/bio/Evolution/Extinction/Speciation.secret.md)
+### #is_/same_as :: [[/_secret/bio/Evolution/Extinction/Speciation.secret|Speciation.secret]] 
 

@@ -368,17 +368,17 @@ work_period_start_: 1484
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Dürer,Albrecht](/_Standards/Society/Communication/Media/Painting/Painter/Dürer,Albrecht.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Painting/Painter/Dürer,Albrecht|Dürer,Albrecht]] 
 
-### #is_/same_as :: [Dürer,Albrecht.public](/_public/Society/Communication/Media/Painting/Painter/Dürer,Albrecht.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Painting/Painter/Dürer,Albrecht.public|Dürer,Albrecht.public]] 
 
-### #is_/same_as :: [Dürer,Albrecht.internal](/_internal/Society/Communication/Media/Painting/Painter/Dürer,Albrecht.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Painting/Painter/Dürer,Albrecht.internal|Dürer,Albrecht.internal]] 
 
-### #is_/same_as :: [Dürer,Albrecht.protect](/_protect/Society/Communication/Media/Painting/Painter/Dürer,Albrecht.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Painting/Painter/Dürer,Albrecht.protect|Dürer,Albrecht.protect]] 
 
-### #is_/same_as :: [Dürer,Albrecht.private](/_private/Society/Communication/Media/Painting/Painter/Dürer,Albrecht.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Painting/Painter/Dürer,Albrecht.private|Dürer,Albrecht.private]] 
 
-### #is_/same_as :: [Dürer,Albrecht.personal](/_personal/Society/Communication/Media/Painting/Painter/Dürer,Albrecht.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Painting/Painter/Dürer,Albrecht.personal|Dürer,Albrecht.personal]] 
 
-### #is_/same_as :: [Dürer,Albrecht.secret](/_secret/Society/Communication/Media/Painting/Painter/Dürer,Albrecht.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Painting/Painter/Dürer,Albrecht.secret|Dürer,Albrecht.secret]] 
 

@@ -30,17 +30,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [CLI(Command-Line_Interface)](/_Standards/Technology/IT/Software/Interface/User_Interface/GUI(Graphical_User_Interface)/CLI(Command-Line_Interface).md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Software/Interface/User_Interface/GUI(Graphical_User_Interface)/CLI(Command-Line_Interface)|CLI(Command-Line_Interface)]] 
 
-### #is_/same_as :: [CLI(Command-Line_Interface).public](/_public/Technology/IT/Software/Interface/User_Interface/GUI(Graphical_User_Interface)/CLI(Command-Line_Interface).public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Software/Interface/User_Interface/GUI(Graphical_User_Interface)/CLI(Command-Line_Interface).public|CLI(Command-Line_Interface).public]] 
 
-### #is_/same_as :: [CLI(Command-Line_Interface).internal](/_internal/Technology/IT/Software/Interface/User_Interface/GUI(Graphical_User_Interface)/CLI(Command-Line_Interface).internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Software/Interface/User_Interface/GUI(Graphical_User_Interface)/CLI(Command-Line_Interface).internal|CLI(Command-Line_Interface).internal]] 
 
-### #is_/same_as :: [CLI(Command-Line_Interface).protect](/_protect/Technology/IT/Software/Interface/User_Interface/GUI(Graphical_User_Interface)/CLI(Command-Line_Interface).protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Software/Interface/User_Interface/GUI(Graphical_User_Interface)/CLI(Command-Line_Interface).protect|CLI(Command-Line_Interface).protect]] 
 
-### #is_/same_as :: [CLI(Command-Line_Interface).private](/_private/Technology/IT/Software/Interface/User_Interface/GUI(Graphical_User_Interface)/CLI(Command-Line_Interface).private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Software/Interface/User_Interface/GUI(Graphical_User_Interface)/CLI(Command-Line_Interface).private|CLI(Command-Line_Interface).private]] 
 
-### #is_/same_as :: [CLI(Command-Line_Interface).personal](/_personal/Technology/IT/Software/Interface/User_Interface/GUI(Graphical_User_Interface)/CLI(Command-Line_Interface).personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Software/Interface/User_Interface/GUI(Graphical_User_Interface)/CLI(Command-Line_Interface).personal|CLI(Command-Line_Interface).personal]] 
 
-### #is_/same_as :: [CLI(Command-Line_Interface).secret](/_secret/Technology/IT/Software/Interface/User_Interface/GUI(Graphical_User_Interface)/CLI(Command-Line_Interface).secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Software/Interface/User_Interface/GUI(Graphical_User_Interface)/CLI(Command-Line_Interface).secret|CLI(Command-Line_Interface).secret]] 
 

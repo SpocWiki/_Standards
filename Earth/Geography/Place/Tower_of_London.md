@@ -119,17 +119,17 @@ P1015: "90166256"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Tower_of_London](/_Standards/Earth/Geography/Place/Tower_of_London.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geography/Place/Tower_of_London|Tower_of_London]] 
 
-### #is_/same_as :: [Tower_of_London.public](/_public/Earth/Geography/Place/Tower_of_London.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geography/Place/Tower_of_London.public|Tower_of_London.public]] 
 
-### #is_/same_as :: [Tower_of_London.internal](/_internal/Earth/Geography/Place/Tower_of_London.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geography/Place/Tower_of_London.internal|Tower_of_London.internal]] 
 
-### #is_/same_as :: [Tower_of_London.protect](/_protect/Earth/Geography/Place/Tower_of_London.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geography/Place/Tower_of_London.protect|Tower_of_London.protect]] 
 
-### #is_/same_as :: [Tower_of_London.private](/_private/Earth/Geography/Place/Tower_of_London.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geography/Place/Tower_of_London.private|Tower_of_London.private]] 
 
-### #is_/same_as :: [Tower_of_London.personal](/_personal/Earth/Geography/Place/Tower_of_London.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geography/Place/Tower_of_London.personal|Tower_of_London.personal]] 
 
-### #is_/same_as :: [Tower_of_London.secret](/_secret/Earth/Geography/Place/Tower_of_London.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geography/Place/Tower_of_London.secret|Tower_of_London.secret]] 
 

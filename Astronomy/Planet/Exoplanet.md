@@ -57,17 +57,17 @@ Krugosvet_article: nauka_i_tehnika/astronomiya/EKZOPLANETA.html
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Exoplanet](/_Standards/Astronomy/Planet/Exoplanet.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Planet/Exoplanet|Exoplanet]] 
 
-### #is_/same_as :: [Exoplanet.public](/_public/Astronomy/Planet/Exoplanet.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Planet/Exoplanet.public|Exoplanet.public]] 
 
-### #is_/same_as :: [Exoplanet.internal](/_internal/Astronomy/Planet/Exoplanet.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Planet/Exoplanet.internal|Exoplanet.internal]] 
 
-### #is_/same_as :: [Exoplanet.protect](/_protect/Astronomy/Planet/Exoplanet.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Planet/Exoplanet.protect|Exoplanet.protect]] 
 
-### #is_/same_as :: [Exoplanet.private](/_private/Astronomy/Planet/Exoplanet.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Planet/Exoplanet.private|Exoplanet.private]] 
 
-### #is_/same_as :: [Exoplanet.personal](/_personal/Astronomy/Planet/Exoplanet.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Planet/Exoplanet.personal|Exoplanet.personal]] 
 
-### #is_/same_as :: [Exoplanet.secret](/_secret/Astronomy/Planet/Exoplanet.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Planet/Exoplanet.secret|Exoplanet.secret]] 
 

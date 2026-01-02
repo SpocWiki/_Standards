@@ -65,17 +65,17 @@ Commons_category: Freyja
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Freyja](/_Standards/Philosophy/Metaphysic/Religion/Mythology/Norse_Mythology/Freyja.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Mythology/Norse_Mythology/Freyja|Freyja]] 
 
-### #is_/same_as :: [Freyja.public](/_public/Philosophy/Metaphysic/Religion/Mythology/Norse_Mythology/Freyja.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Mythology/Norse_Mythology/Freyja.public|Freyja.public]] 
 
-### #is_/same_as :: [Freyja.internal](/_internal/Philosophy/Metaphysic/Religion/Mythology/Norse_Mythology/Freyja.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Mythology/Norse_Mythology/Freyja.internal|Freyja.internal]] 
 
-### #is_/same_as :: [Freyja.protect](/_protect/Philosophy/Metaphysic/Religion/Mythology/Norse_Mythology/Freyja.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Mythology/Norse_Mythology/Freyja.protect|Freyja.protect]] 
 
-### #is_/same_as :: [Freyja.private](/_private/Philosophy/Metaphysic/Religion/Mythology/Norse_Mythology/Freyja.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Mythology/Norse_Mythology/Freyja.private|Freyja.private]] 
 
-### #is_/same_as :: [Freyja.personal](/_personal/Philosophy/Metaphysic/Religion/Mythology/Norse_Mythology/Freyja.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Mythology/Norse_Mythology/Freyja.personal|Freyja.personal]] 
 
-### #is_/same_as :: [Freyja.secret](/_secret/Philosophy/Metaphysic/Religion/Mythology/Norse_Mythology/Freyja.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Mythology/Norse_Mythology/Freyja.secret|Freyja.secret]] 
 

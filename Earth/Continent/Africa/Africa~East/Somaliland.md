@@ -128,17 +128,17 @@ markerFile: [[Somaliland]]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Somaliland](/_Standards/Earth/Continent/Africa/Africa~East/Somaliland.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~East/Somaliland|Somaliland]] 
 
-### #is_/same_as :: [Somaliland.public](/_public/Earth/Continent/Africa/Africa~East/Somaliland.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~East/Somaliland.public|Somaliland.public]] 
 
-### #is_/same_as :: [Somaliland.internal](/_internal/Earth/Continent/Africa/Africa~East/Somaliland.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~East/Somaliland.internal|Somaliland.internal]] 
 
-### #is_/same_as :: [Somaliland.protect](/_protect/Earth/Continent/Africa/Africa~East/Somaliland.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~East/Somaliland.protect|Somaliland.protect]] 
 
-### #is_/same_as :: [Somaliland.private](/_private/Earth/Continent/Africa/Africa~East/Somaliland.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~East/Somaliland.private|Somaliland.private]] 
 
-### #is_/same_as :: [Somaliland.personal](/_personal/Earth/Continent/Africa/Africa~East/Somaliland.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~East/Somaliland.personal|Somaliland.personal]] 
 
-### #is_/same_as :: [Somaliland.secret](/_secret/Earth/Continent/Africa/Africa~East/Somaliland.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~East/Somaliland.secret|Somaliland.secret]] 
 

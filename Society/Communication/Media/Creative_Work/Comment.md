@@ -44,17 +44,17 @@ and its topic via [[../../../../schema-org/Relation/is/is_about|is_about]] prope
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Comment](/_Standards/Society/Communication/Media/Creative_Work/Comment.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Creative_Work/Comment|Comment]] 
 
-### #is_/same_as :: [Comment.public](/_public/Society/Communication/Media/Creative_Work/Comment.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Creative_Work/Comment.public|Comment.public]] 
 
-### #is_/same_as :: [Comment.internal](/_internal/Society/Communication/Media/Creative_Work/Comment.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Creative_Work/Comment.internal|Comment.internal]] 
 
-### #is_/same_as :: [Comment.protect](/_protect/Society/Communication/Media/Creative_Work/Comment.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Creative_Work/Comment.protect|Comment.protect]] 
 
-### #is_/same_as :: [Comment.private](/_private/Society/Communication/Media/Creative_Work/Comment.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Creative_Work/Comment.private|Comment.private]] 
 
-### #is_/same_as :: [Comment.personal](/_personal/Society/Communication/Media/Creative_Work/Comment.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/Comment.personal|Comment.personal]] 
 
-### #is_/same_as :: [Comment.secret](/_secret/Society/Communication/Media/Creative_Work/Comment.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Comment.secret|Comment.secret]] 
 

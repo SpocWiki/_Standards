@@ -38,17 +38,17 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/T-55A%20Martial%20law%
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Martial_Law](/_Standards/Society/Law/Martial_Law.md) 
+### #is_/same_as :: [[/_Standards/Society/Law/Martial_Law|Martial_Law]] 
 
-### #is_/same_as :: [Martial_Law.public](/_public/Society/Law/Martial_Law.public.md) 
+### #is_/same_as :: [[/_public/Society/Law/Martial_Law.public|Martial_Law.public]] 
 
-### #is_/same_as :: [Martial_Law.internal](/_internal/Society/Law/Martial_Law.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Law/Martial_Law.internal|Martial_Law.internal]] 
 
-### #is_/same_as :: [Martial_Law.protect](/_protect/Society/Law/Martial_Law.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Law/Martial_Law.protect|Martial_Law.protect]] 
 
-### #is_/same_as :: [Martial_Law.private](/_private/Society/Law/Martial_Law.private.md) 
+### #is_/same_as :: [[/_private/Society/Law/Martial_Law.private|Martial_Law.private]] 
 
-### #is_/same_as :: [Martial_Law.personal](/_personal/Society/Law/Martial_Law.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Law/Martial_Law.personal|Martial_Law.personal]] 
 
-### #is_/same_as :: [Martial_Law.secret](/_secret/Society/Law/Martial_Law.secret.md)
+### #is_/same_as :: [[/_secret/Society/Law/Martial_Law.secret|Martial_Law.secret]] 
 

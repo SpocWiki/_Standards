@@ -43,17 +43,17 @@ A scholarly article.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Scholarly_Article](/_Standards/Society/Communication/Media/Creative_Work/Article/Scholarly_Article.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Creative_Work/Article/Scholarly_Article|Scholarly_Article]] 
 
-### #is_/same_as :: [Scholarly_Article.public](/_public/Society/Communication/Media/Creative_Work/Article/Scholarly_Article.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Creative_Work/Article/Scholarly_Article.public|Scholarly_Article.public]] 
 
-### #is_/same_as :: [Scholarly_Article.internal](/_internal/Society/Communication/Media/Creative_Work/Article/Scholarly_Article.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Creative_Work/Article/Scholarly_Article.internal|Scholarly_Article.internal]] 
 
-### #is_/same_as :: [Scholarly_Article.protect](/_protect/Society/Communication/Media/Creative_Work/Article/Scholarly_Article.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Creative_Work/Article/Scholarly_Article.protect|Scholarly_Article.protect]] 
 
-### #is_/same_as :: [Scholarly_Article.private](/_private/Society/Communication/Media/Creative_Work/Article/Scholarly_Article.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Creative_Work/Article/Scholarly_Article.private|Scholarly_Article.private]] 
 
-### #is_/same_as :: [Scholarly_Article.personal](/_personal/Society/Communication/Media/Creative_Work/Article/Scholarly_Article.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/Article/Scholarly_Article.personal|Scholarly_Article.personal]] 
 
-### #is_/same_as :: [Scholarly_Article.secret](/_secret/Society/Communication/Media/Creative_Work/Article/Scholarly_Article.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Article/Scholarly_Article.secret|Scholarly_Article.secret]] 
 

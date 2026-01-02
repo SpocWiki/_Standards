@@ -21,17 +21,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Prog~Eiffel](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/Prog~Eiffel.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/Prog~Eiffel|Prog~Eiffel]] 
 
-### #is_/same_as :: [Prog~Eiffel.public](/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/Prog~Eiffel.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/Prog~Eiffel.public|Prog~Eiffel.public]] 
 
-### #is_/same_as :: [Prog~Eiffel.internal](/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/Prog~Eiffel.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/Prog~Eiffel.internal|Prog~Eiffel.internal]] 
 
-### #is_/same_as :: [Prog~Eiffel.protect](/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/Prog~Eiffel.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/Prog~Eiffel.protect|Prog~Eiffel.protect]] 
 
-### #is_/same_as :: [Prog~Eiffel.private](/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/Prog~Eiffel.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/Prog~Eiffel.private|Prog~Eiffel.private]] 
 
-### #is_/same_as :: [Prog~Eiffel.personal](/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/Prog~Eiffel.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/Prog~Eiffel.personal|Prog~Eiffel.personal]] 
 
-### #is_/same_as :: [Prog~Eiffel.secret](/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/Prog~Eiffel.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/Prog~Eiffel.secret|Prog~Eiffel.secret]] 
 

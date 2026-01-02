@@ -48,17 +48,17 @@ hashtag_: household
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Household](/_Standards/Society/Agent/Community/Clan/Household.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Clan/Household|Household]] 
 
-### #is_/same_as :: [Household.public](/_public/Society/Agent/Community/Clan/Household.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Clan/Household.public|Household.public]] 
 
-### #is_/same_as :: [Household.internal](/_internal/Society/Agent/Community/Clan/Household.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Clan/Household.internal|Household.internal]] 
 
-### #is_/same_as :: [Household.protect](/_protect/Society/Agent/Community/Clan/Household.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Clan/Household.protect|Household.protect]] 
 
-### #is_/same_as :: [Household.private](/_private/Society/Agent/Community/Clan/Household.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Clan/Household.private|Household.private]] 
 
-### #is_/same_as :: [Household.personal](/_personal/Society/Agent/Community/Clan/Household.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Clan/Household.personal|Household.personal]] 
 
-### #is_/same_as :: [Household.secret](/_secret/Society/Agent/Community/Clan/Household.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Clan/Household.secret|Household.secret]] 
 

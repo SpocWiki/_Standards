@@ -109,17 +109,17 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Age~1~Gelasian](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~1~Pleistocene/Age~1~Gelasian.md) 
+### #is_/same_as :: [[/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~1~Pleistocene/Age~1~Gelasian|Age~1~Gelasian]] 
 
-### #is_/same_as :: [Age~1~Gelasian.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~1~Pleistocene/Age~1~Gelasian.public.md) 
+### #is_/same_as :: [[/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~1~Pleistocene/Age~1~Gelasian.public|Age~1~Gelasian.public]] 
 
-### #is_/same_as :: [Age~1~Gelasian.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~1~Pleistocene/Age~1~Gelasian.internal.md) 
+### #is_/same_as :: [[/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~1~Pleistocene/Age~1~Gelasian.internal|Age~1~Gelasian.internal]] 
 
-### #is_/same_as :: [Age~1~Gelasian.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~1~Pleistocene/Age~1~Gelasian.protect.md) 
+### #is_/same_as :: [[/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~1~Pleistocene/Age~1~Gelasian.protect|Age~1~Gelasian.protect]] 
 
-### #is_/same_as :: [Age~1~Gelasian.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~1~Pleistocene/Age~1~Gelasian.private.md) 
+### #is_/same_as :: [[/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~1~Pleistocene/Age~1~Gelasian.private|Age~1~Gelasian.private]] 
 
-### #is_/same_as :: [Age~1~Gelasian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~1~Pleistocene/Age~1~Gelasian.personal.md) 
+### #is_/same_as :: [[/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~1~Pleistocene/Age~1~Gelasian.personal|Age~1~Gelasian.personal]] 
 
-### #is_/same_as :: [Age~1~Gelasian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~1~Pleistocene/Age~1~Gelasian.secret.md)
+### #is_/same_as :: [[/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~1~Pleistocene/Age~1~Gelasian.secret|Age~1~Gelasian.secret]] 
 

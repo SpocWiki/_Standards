@@ -155,17 +155,17 @@ P8189: 987007280456905171
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Babbage,Charles](/_Standards/Mathematics/Mathematician/Modern_Mathematician/Babbage,Charles.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Mathematician/Modern_Mathematician/Babbage,Charles|Babbage,Charles]] 
 
-### #is_/same_as :: [Babbage,Charles.public](/_public/Mathematics/Mathematician/Modern_Mathematician/Babbage,Charles.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Mathematician/Modern_Mathematician/Babbage,Charles.public|Babbage,Charles.public]] 
 
-### #is_/same_as :: [Babbage,Charles.internal](/_internal/Mathematics/Mathematician/Modern_Mathematician/Babbage,Charles.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Mathematician/Modern_Mathematician/Babbage,Charles.internal|Babbage,Charles.internal]] 
 
-### #is_/same_as :: [Babbage,Charles.protect](/_protect/Mathematics/Mathematician/Modern_Mathematician/Babbage,Charles.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Mathematician/Modern_Mathematician/Babbage,Charles.protect|Babbage,Charles.protect]] 
 
-### #is_/same_as :: [Babbage,Charles.private](/_private/Mathematics/Mathematician/Modern_Mathematician/Babbage,Charles.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Mathematician/Modern_Mathematician/Babbage,Charles.private|Babbage,Charles.private]] 
 
-### #is_/same_as :: [Babbage,Charles.personal](/_personal/Mathematics/Mathematician/Modern_Mathematician/Babbage,Charles.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Mathematician/Modern_Mathematician/Babbage,Charles.personal|Babbage,Charles.personal]] 
 
-### #is_/same_as :: [Babbage,Charles.secret](/_secret/Mathematics/Mathematician/Modern_Mathematician/Babbage,Charles.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Mathematician/Modern_Mathematician/Babbage,Charles.secret|Babbage,Charles.secret]] 
 

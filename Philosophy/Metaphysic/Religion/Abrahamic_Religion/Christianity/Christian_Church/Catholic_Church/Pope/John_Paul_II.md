@@ -246,17 +246,17 @@ Wolfram_Language_entity_code: Entity["Person", "PopeJohnPaulII::2v6d3"]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [John_Paul_II](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Pope/John_Paul_II.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Pope/John_Paul_II|John_Paul_II]] 
 
-### #is_/same_as :: [John_Paul_II.public](/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Pope/John_Paul_II.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Pope/John_Paul_II.public|John_Paul_II.public]] 
 
-### #is_/same_as :: [John_Paul_II.internal](/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Pope/John_Paul_II.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Pope/John_Paul_II.internal|John_Paul_II.internal]] 
 
-### #is_/same_as :: [John_Paul_II.protect](/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Pope/John_Paul_II.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Pope/John_Paul_II.protect|John_Paul_II.protect]] 
 
-### #is_/same_as :: [John_Paul_II.private](/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Pope/John_Paul_II.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Pope/John_Paul_II.private|John_Paul_II.private]] 
 
-### #is_/same_as :: [John_Paul_II.personal](/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Pope/John_Paul_II.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Pope/John_Paul_II.personal|John_Paul_II.personal]] 
 
-### #is_/same_as :: [John_Paul_II.secret](/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Pope/John_Paul_II.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Pope/John_Paul_II.secret|John_Paul_II.secret]] 
 

@@ -92,17 +92,17 @@ Unicode_character: 🛏
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bed](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Bedroom/Bed.md) 
+### #is_/same_as :: [[/_Standards/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Bedroom/Bed|Bed]] 
 
-### #is_/same_as :: [Bed.public](/_public/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Bedroom/Bed.public.md) 
+### #is_/same_as :: [[/_public/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Bedroom/Bed.public|Bed.public]] 
 
-### #is_/same_as :: [Bed.internal](/_internal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Bedroom/Bed.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Bedroom/Bed.internal|Bed.internal]] 
 
-### #is_/same_as :: [Bed.protect](/_protect/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Bedroom/Bed.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Bedroom/Bed.protect|Bed.protect]] 
 
-### #is_/same_as :: [Bed.private](/_private/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Bedroom/Bed.private.md) 
+### #is_/same_as :: [[/_private/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Bedroom/Bed.private|Bed.private]] 
 
-### #is_/same_as :: [Bed.personal](/_personal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Bedroom/Bed.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Bedroom/Bed.personal|Bed.personal]] 
 
-### #is_/same_as :: [Bed.secret](/_secret/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Bedroom/Bed.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Bedroom/Bed.secret|Bed.secret]] 
 

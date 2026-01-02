@@ -38,17 +38,17 @@ Krugosvet_article: nauka_i_tehnika/himiya/LITOSFERA.html
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lithosphere](/_Standards/Earth/Climate/Structure_of_Earth/Lithosphere.md) 
+### #is_/same_as :: [[/_Standards/Earth/Climate/Structure_of_Earth/Lithosphere|Lithosphere]] 
 
-### #is_/same_as :: [Lithosphere.public](/_public/Earth/Climate/Structure_of_Earth/Lithosphere.public.md) 
+### #is_/same_as :: [[/_public/Earth/Climate/Structure_of_Earth/Lithosphere.public|Lithosphere.public]] 
 
-### #is_/same_as :: [Lithosphere.internal](/_internal/Earth/Climate/Structure_of_Earth/Lithosphere.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Climate/Structure_of_Earth/Lithosphere.internal|Lithosphere.internal]] 
 
-### #is_/same_as :: [Lithosphere.protect](/_protect/Earth/Climate/Structure_of_Earth/Lithosphere.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Climate/Structure_of_Earth/Lithosphere.protect|Lithosphere.protect]] 
 
-### #is_/same_as :: [Lithosphere.private](/_private/Earth/Climate/Structure_of_Earth/Lithosphere.private.md) 
+### #is_/same_as :: [[/_private/Earth/Climate/Structure_of_Earth/Lithosphere.private|Lithosphere.private]] 
 
-### #is_/same_as :: [Lithosphere.personal](/_personal/Earth/Climate/Structure_of_Earth/Lithosphere.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Climate/Structure_of_Earth/Lithosphere.personal|Lithosphere.personal]] 
 
-### #is_/same_as :: [Lithosphere.secret](/_secret/Earth/Climate/Structure_of_Earth/Lithosphere.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Climate/Structure_of_Earth/Lithosphere.secret|Lithosphere.secret]] 
 

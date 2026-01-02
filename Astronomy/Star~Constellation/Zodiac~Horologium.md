@@ -46,17 +46,17 @@ official_name: Horologium
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Zodiac~Horologium](/_Standards/Astronomy/Star~Constellation/Zodiac~Horologium.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Star~Constellation/Zodiac~Horologium|Zodiac~Horologium]] 
 
-### #is_/same_as :: [Zodiac~Horologium.public](/_public/Astronomy/Star~Constellation/Zodiac~Horologium.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Star~Constellation/Zodiac~Horologium.public|Zodiac~Horologium.public]] 
 
-### #is_/same_as :: [Zodiac~Horologium.internal](/_internal/Astronomy/Star~Constellation/Zodiac~Horologium.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Star~Constellation/Zodiac~Horologium.internal|Zodiac~Horologium.internal]] 
 
-### #is_/same_as :: [Zodiac~Horologium.protect](/_protect/Astronomy/Star~Constellation/Zodiac~Horologium.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Star~Constellation/Zodiac~Horologium.protect|Zodiac~Horologium.protect]] 
 
-### #is_/same_as :: [Zodiac~Horologium.private](/_private/Astronomy/Star~Constellation/Zodiac~Horologium.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Star~Constellation/Zodiac~Horologium.private|Zodiac~Horologium.private]] 
 
-### #is_/same_as :: [Zodiac~Horologium.personal](/_personal/Astronomy/Star~Constellation/Zodiac~Horologium.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Star~Constellation/Zodiac~Horologium.personal|Zodiac~Horologium.personal]] 
 
-### #is_/same_as :: [Zodiac~Horologium.secret](/_secret/Astronomy/Star~Constellation/Zodiac~Horologium.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Star~Constellation/Zodiac~Horologium.secret|Zodiac~Horologium.secret]] 
 

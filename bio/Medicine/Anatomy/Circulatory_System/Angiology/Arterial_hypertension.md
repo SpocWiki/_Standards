@@ -197,17 +197,17 @@ MeSH_tree_code: C14.907.489
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Arterial_hypertension](/_Standards/bio/Medicine/Anatomy/Circulatory_System/Angiology/Arterial_hypertension.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Anatomy/Circulatory_System/Angiology/Arterial_hypertension|Arterial_hypertension]] 
 
-### #is_/same_as :: [Arterial_hypertension.public](/_public/bio/Medicine/Anatomy/Circulatory_System/Angiology/Arterial_hypertension.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Anatomy/Circulatory_System/Angiology/Arterial_hypertension.public|Arterial_hypertension.public]] 
 
-### #is_/same_as :: [Arterial_hypertension.internal](/_internal/bio/Medicine/Anatomy/Circulatory_System/Angiology/Arterial_hypertension.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Anatomy/Circulatory_System/Angiology/Arterial_hypertension.internal|Arterial_hypertension.internal]] 
 
-### #is_/same_as :: [Arterial_hypertension.protect](/_protect/bio/Medicine/Anatomy/Circulatory_System/Angiology/Arterial_hypertension.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Anatomy/Circulatory_System/Angiology/Arterial_hypertension.protect|Arterial_hypertension.protect]] 
 
-### #is_/same_as :: [Arterial_hypertension.private](/_private/bio/Medicine/Anatomy/Circulatory_System/Angiology/Arterial_hypertension.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Anatomy/Circulatory_System/Angiology/Arterial_hypertension.private|Arterial_hypertension.private]] 
 
-### #is_/same_as :: [Arterial_hypertension.personal](/_personal/bio/Medicine/Anatomy/Circulatory_System/Angiology/Arterial_hypertension.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Anatomy/Circulatory_System/Angiology/Arterial_hypertension.personal|Arterial_hypertension.personal]] 
 
-### #is_/same_as :: [Arterial_hypertension.secret](/_secret/bio/Medicine/Anatomy/Circulatory_System/Angiology/Arterial_hypertension.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Anatomy/Circulatory_System/Angiology/Arterial_hypertension.secret|Arterial_hypertension.secret]] 
 

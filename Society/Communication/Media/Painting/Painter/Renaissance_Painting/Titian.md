@@ -340,17 +340,17 @@ ISNI: 0000000107879191
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Titian](/_Standards/Society/Communication/Media/Painting/Painter/Renaissance_Painting/Titian.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Painting/Painter/Renaissance_Painting/Titian|Titian]] 
 
-### #is_/same_as :: [Titian.public](/_public/Society/Communication/Media/Painting/Painter/Renaissance_Painting/Titian.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Painting/Painter/Renaissance_Painting/Titian.public|Titian.public]] 
 
-### #is_/same_as :: [Titian.internal](/_internal/Society/Communication/Media/Painting/Painter/Renaissance_Painting/Titian.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Painting/Painter/Renaissance_Painting/Titian.internal|Titian.internal]] 
 
-### #is_/same_as :: [Titian.protect](/_protect/Society/Communication/Media/Painting/Painter/Renaissance_Painting/Titian.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Painting/Painter/Renaissance_Painting/Titian.protect|Titian.protect]] 
 
-### #is_/same_as :: [Titian.private](/_private/Society/Communication/Media/Painting/Painter/Renaissance_Painting/Titian.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Painting/Painter/Renaissance_Painting/Titian.private|Titian.private]] 
 
-### #is_/same_as :: [Titian.personal](/_personal/Society/Communication/Media/Painting/Painter/Renaissance_Painting/Titian.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Painting/Painter/Renaissance_Painting/Titian.personal|Titian.personal]] 
 
-### #is_/same_as :: [Titian.secret](/_secret/Society/Communication/Media/Painting/Painter/Renaissance_Painting/Titian.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Painting/Painter/Renaissance_Painting/Titian.secret|Titian.secret]] 
 

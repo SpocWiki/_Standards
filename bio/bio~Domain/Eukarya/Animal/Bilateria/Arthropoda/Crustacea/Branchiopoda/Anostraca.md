@@ -31,17 +31,17 @@ title: Anostraca
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Anostraca](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Branchiopoda/Anostraca.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Branchiopoda/Anostraca|Anostraca]] 
 
-### #is_/same_as :: [Anostraca.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Branchiopoda/Anostraca.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Branchiopoda/Anostraca.public|Anostraca.public]] 
 
-### #is_/same_as :: [Anostraca.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Branchiopoda/Anostraca.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Branchiopoda/Anostraca.internal|Anostraca.internal]] 
 
-### #is_/same_as :: [Anostraca.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Branchiopoda/Anostraca.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Branchiopoda/Anostraca.protect|Anostraca.protect]] 
 
-### #is_/same_as :: [Anostraca.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Branchiopoda/Anostraca.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Branchiopoda/Anostraca.private|Anostraca.private]] 
 
-### #is_/same_as :: [Anostraca.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Branchiopoda/Anostraca.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Branchiopoda/Anostraca.personal|Anostraca.personal]] 
 
-### #is_/same_as :: [Anostraca.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Branchiopoda/Anostraca.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Branchiopoda/Anostraca.secret|Anostraca.secret]] 
 

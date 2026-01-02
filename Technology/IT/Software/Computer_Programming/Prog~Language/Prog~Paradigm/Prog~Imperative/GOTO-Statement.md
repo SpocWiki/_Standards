@@ -4,17 +4,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [GOTO-Statement](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Imperative/GOTO-Statement.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Imperative/GOTO-Statement|GOTO-Statement]] 
 
-### #is_/same_as :: [GOTO-Statement.public](/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Imperative/GOTO-Statement.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Imperative/GOTO-Statement.public|GOTO-Statement.public]] 
 
-### #is_/same_as :: [GOTO-Statement.internal](/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Imperative/GOTO-Statement.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Imperative/GOTO-Statement.internal|GOTO-Statement.internal]] 
 
-### #is_/same_as :: [GOTO-Statement.protect](/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Imperative/GOTO-Statement.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Imperative/GOTO-Statement.protect|GOTO-Statement.protect]] 
 
-### #is_/same_as :: [GOTO-Statement.private](/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Imperative/GOTO-Statement.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Imperative/GOTO-Statement.private|GOTO-Statement.private]] 
 
-### #is_/same_as :: [GOTO-Statement.personal](/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Imperative/GOTO-Statement.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Imperative/GOTO-Statement.personal|GOTO-Statement.personal]] 
 
-### #is_/same_as :: [GOTO-Statement.secret](/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Imperative/GOTO-Statement.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Imperative/GOTO-Statement.secret|GOTO-Statement.secret]] 
 

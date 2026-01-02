@@ -34,17 +34,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [American_in_Paris](/_Standards/Society/Communication/Media/Music/Composer/Gershwin,George/American_in_Paris.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Composer/Gershwin,George/American_in_Paris|American_in_Paris]] 
 
-### #is_/same_as :: [American_in_Paris.public](/_public/Society/Communication/Media/Music/Composer/Gershwin,George/American_in_Paris.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Composer/Gershwin,George/American_in_Paris.public|American_in_Paris.public]] 
 
-### #is_/same_as :: [American_in_Paris.internal](/_internal/Society/Communication/Media/Music/Composer/Gershwin,George/American_in_Paris.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Composer/Gershwin,George/American_in_Paris.internal|American_in_Paris.internal]] 
 
-### #is_/same_as :: [American_in_Paris.protect](/_protect/Society/Communication/Media/Music/Composer/Gershwin,George/American_in_Paris.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Composer/Gershwin,George/American_in_Paris.protect|American_in_Paris.protect]] 
 
-### #is_/same_as :: [American_in_Paris.private](/_private/Society/Communication/Media/Music/Composer/Gershwin,George/American_in_Paris.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Composer/Gershwin,George/American_in_Paris.private|American_in_Paris.private]] 
 
-### #is_/same_as :: [American_in_Paris.personal](/_personal/Society/Communication/Media/Music/Composer/Gershwin,George/American_in_Paris.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Composer/Gershwin,George/American_in_Paris.personal|American_in_Paris.personal]] 
 
-### #is_/same_as :: [American_in_Paris.secret](/_secret/Society/Communication/Media/Music/Composer/Gershwin,George/American_in_Paris.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Composer/Gershwin,George/American_in_Paris.secret|American_in_Paris.secret]] 
 

@@ -65,17 +65,17 @@ Krugosvet_article: muzyka/klarnet
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Clarinet](/_Standards/Society/Communication/Media/Music/Musical_Instrument/Wind_Instrument/Woodwind/Clarinet.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Musical_Instrument/Wind_Instrument/Woodwind/Clarinet|Clarinet]] 
 
-### #is_/same_as :: [Clarinet.public](/_public/Society/Communication/Media/Music/Musical_Instrument/Wind_Instrument/Woodwind/Clarinet.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Musical_Instrument/Wind_Instrument/Woodwind/Clarinet.public|Clarinet.public]] 
 
-### #is_/same_as :: [Clarinet.internal](/_internal/Society/Communication/Media/Music/Musical_Instrument/Wind_Instrument/Woodwind/Clarinet.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Musical_Instrument/Wind_Instrument/Woodwind/Clarinet.internal|Clarinet.internal]] 
 
-### #is_/same_as :: [Clarinet.protect](/_protect/Society/Communication/Media/Music/Musical_Instrument/Wind_Instrument/Woodwind/Clarinet.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Musical_Instrument/Wind_Instrument/Woodwind/Clarinet.protect|Clarinet.protect]] 
 
-### #is_/same_as :: [Clarinet.private](/_private/Society/Communication/Media/Music/Musical_Instrument/Wind_Instrument/Woodwind/Clarinet.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Musical_Instrument/Wind_Instrument/Woodwind/Clarinet.private|Clarinet.private]] 
 
-### #is_/same_as :: [Clarinet.personal](/_personal/Society/Communication/Media/Music/Musical_Instrument/Wind_Instrument/Woodwind/Clarinet.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Musical_Instrument/Wind_Instrument/Woodwind/Clarinet.personal|Clarinet.personal]] 
 
-### #is_/same_as :: [Clarinet.secret](/_secret/Society/Communication/Media/Music/Musical_Instrument/Wind_Instrument/Woodwind/Clarinet.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Musical_Instrument/Wind_Instrument/Woodwind/Clarinet.secret|Clarinet.secret]] 
 

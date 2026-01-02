@@ -41,17 +41,17 @@ Event type: Food event.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Food_Event](/_Standards/schema-org/Class/is_a_/Event/Food_Event.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Event/Food_Event|Food_Event]] 
 
-### #is_/same_as :: [Food_Event.public](/_public/schema-org/Class/is_a_/Event/Food_Event.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Event/Food_Event.public|Food_Event.public]] 
 
-### #is_/same_as :: [Food_Event.internal](/_internal/schema-org/Class/is_a_/Event/Food_Event.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Event/Food_Event.internal|Food_Event.internal]] 
 
-### #is_/same_as :: [Food_Event.protect](/_protect/schema-org/Class/is_a_/Event/Food_Event.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Event/Food_Event.protect|Food_Event.protect]] 
 
-### #is_/same_as :: [Food_Event.private](/_private/schema-org/Class/is_a_/Event/Food_Event.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Event/Food_Event.private|Food_Event.private]] 
 
-### #is_/same_as :: [Food_Event.personal](/_personal/schema-org/Class/is_a_/Event/Food_Event.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Event/Food_Event.personal|Food_Event.personal]] 
 
-### #is_/same_as :: [Food_Event.secret](/_secret/schema-org/Class/is_a_/Event/Food_Event.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Event/Food_Event.secret|Food_Event.secret]] 
 

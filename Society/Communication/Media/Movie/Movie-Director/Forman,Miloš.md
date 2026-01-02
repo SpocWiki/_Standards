@@ -149,17 +149,17 @@ Plex_person_key: 5d776825151a60001f24a6c5
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Forman,Miloš](/_Standards/Society/Communication/Media/Movie/Movie-Director/Forman,Miloš.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Director/Forman,Miloš|Forman,Miloš]] 
 
-### #is_/same_as :: [Forman,Miloš.public](/_public/Society/Communication/Media/Movie/Movie-Director/Forman,Miloš.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Director/Forman,Miloš.public|Forman,Miloš.public]] 
 
-### #is_/same_as :: [Forman,Miloš.internal](/_internal/Society/Communication/Media/Movie/Movie-Director/Forman,Miloš.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Director/Forman,Miloš.internal|Forman,Miloš.internal]] 
 
-### #is_/same_as :: [Forman,Miloš.protect](/_protect/Society/Communication/Media/Movie/Movie-Director/Forman,Miloš.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Director/Forman,Miloš.protect|Forman,Miloš.protect]] 
 
-### #is_/same_as :: [Forman,Miloš.private](/_private/Society/Communication/Media/Movie/Movie-Director/Forman,Miloš.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Director/Forman,Miloš.private|Forman,Miloš.private]] 
 
-### #is_/same_as :: [Forman,Miloš.personal](/_personal/Society/Communication/Media/Movie/Movie-Director/Forman,Miloš.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Director/Forman,Miloš.personal|Forman,Miloš.personal]] 
 
-### #is_/same_as :: [Forman,Miloš.secret](/_secret/Society/Communication/Media/Movie/Movie-Director/Forman,Miloš.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Director/Forman,Miloš.secret|Forman,Miloš.secret]] 
 

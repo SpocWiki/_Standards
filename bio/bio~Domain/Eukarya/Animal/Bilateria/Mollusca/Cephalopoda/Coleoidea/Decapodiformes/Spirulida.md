@@ -51,7 +51,7 @@ on the head in the title photographs (Herring et al., 1981). *Spirula*
 carries an unusual internal shell that is calcareous and has the shape
 of a horn coiled in a single plane without the coils touching one
 another (open planispiral).
-![ ](Spirulida/SpirulaShellTom.jpg))
+![ ](Spirulida/SpirulaShellTom.jpg) 
 
 **Figure**. **Left** - Side view of the shell of *Spirula***.**
 Photograph by R. Young of a shell found on a Florida beach. **Right** -
@@ -149,7 +149,7 @@ propels the animal downward (Bruun, 1943).
 
 Virtually all cephalopods have mobile irises but for an oceanic, pelagic
 decapodiform the extreme contraction seen below in *Spirula* is unusual.
-![ ](Spirulida/SpirulaIris.jpg))
+![ ](Spirulida/SpirulaIris.jpg) 
 
 **Figure**. Views of the iris of *Spirula spirula*, 23 mm ML, western
 North Atlantic. Left - Dorsal view. Right - Dorsal-oblique view. Note
@@ -166,7 +166,7 @@ that had a shell with just two chambers. These squid are, or are very
 close to being, hatchlings. The eyes in these individual are small and
 the buccal mass is very large with the beaks extending beyond the short
 arms. Note that only three arm pairs are present.
-![ ](Spirulida/SpirulaHatch.jpg))
+![ ](Spirulida/SpirulaHatch.jpg) 
 
 **Figure**. Views of paralarvae of *Spirula spirula*. **Left** - Ventral
 view. Drawing from Clarke (1970). **Right** - Drawing from Bruun (1943).
@@ -185,7 +185,7 @@ papillae but lack suckers.
 Clarke (1969) found that *Spirula* occurs at depths between 550 and 1000
 m during the day (peak distribution is at 600-700 m) and at night
 migrates into the upper 100-300 m (peak at 200-300 m).
-![ ](Spirulida/SpirulaDist.jpg))
+![ ](Spirulida/SpirulaDist.jpg) 
 
 **Figure**. Graph of 70 *Spirula spirula* captured with opening/closing
 nets near the Canary Islands, eastern North Atlantic (Clarke, 1969).
@@ -206,7 +206,7 @@ Clark (1969).
 ## Title Illustrations
 
 ------------------------------------------------------------------------ 
-![](Spirulida/Spirula.JPG))
+![](Spirulida/Spirula.JPG) 
 Scientific Name ::  Spirula spirula
 Sex ::             Male
 View              lateral
@@ -220,7 +220,7 @@ Sex ::             Female
 View              dorsal
 
 ------------------------------------------------------------------------ 
-![](Spirulida/SpirulaMV.jpg))
+![](Spirulida/SpirulaMV.jpg) 
 Scientific Name ::  Spirula spirula
 Location ::        western North Atlantic
 View              Side
@@ -230,17 +230,17 @@ Copyright ::         © 2004 [Michael Vecchione](mailto:vecchiom@si.edu)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Spirulida](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Spirulida.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Spirulida|Spirulida]] 
 
-### #is_/same_as :: [Spirulida.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Spirulida.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Spirulida.public|Spirulida.public]] 
 
-### #is_/same_as :: [Spirulida.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Spirulida.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Spirulida.internal|Spirulida.internal]] 
 
-### #is_/same_as :: [Spirulida.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Spirulida.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Spirulida.protect|Spirulida.protect]] 
 
-### #is_/same_as :: [Spirulida.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Spirulida.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Spirulida.private|Spirulida.private]] 
 
-### #is_/same_as :: [Spirulida.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Spirulida.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Spirulida.personal|Spirulida.personal]] 
 
-### #is_/same_as :: [Spirulida.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Spirulida.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Spirulida.secret|Spirulida.secret]] 
 

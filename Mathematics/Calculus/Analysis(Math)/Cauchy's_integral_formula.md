@@ -40,17 +40,17 @@ defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Cauchy's_integral_formula](/_Standards/Mathematics/Calculus/Analysis(Math)/Cauchy's_integral_formula.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Calculus/Analysis(Math)/Cauchy's_integral_formula|Cauchy's_integral_formula]] 
 
-### #is_/same_as :: [Cauchy's_integral_formula.public](/_public/Mathematics/Calculus/Analysis(Math)/Cauchy's_integral_formula.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Calculus/Analysis(Math)/Cauchy's_integral_formula.public|Cauchy's_integral_formula.public]] 
 
-### #is_/same_as :: [Cauchy's_integral_formula.internal](/_internal/Mathematics/Calculus/Analysis(Math)/Cauchy's_integral_formula.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Calculus/Analysis(Math)/Cauchy's_integral_formula.internal|Cauchy's_integral_formula.internal]] 
 
-### #is_/same_as :: [Cauchy's_integral_formula.protect](/_protect/Mathematics/Calculus/Analysis(Math)/Cauchy's_integral_formula.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Calculus/Analysis(Math)/Cauchy's_integral_formula.protect|Cauchy's_integral_formula.protect]] 
 
-### #is_/same_as :: [Cauchy's_integral_formula.private](/_private/Mathematics/Calculus/Analysis(Math)/Cauchy's_integral_formula.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Calculus/Analysis(Math)/Cauchy's_integral_formula.private|Cauchy's_integral_formula.private]] 
 
-### #is_/same_as :: [Cauchy's_integral_formula.personal](/_personal/Mathematics/Calculus/Analysis(Math)/Cauchy's_integral_formula.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Calculus/Analysis(Math)/Cauchy's_integral_formula.personal|Cauchy's_integral_formula.personal]] 
 
-### #is_/same_as :: [Cauchy's_integral_formula.secret](/_secret/Mathematics/Calculus/Analysis(Math)/Cauchy's_integral_formula.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Calculus/Analysis(Math)/Cauchy's_integral_formula.secret|Cauchy's_integral_formula.secret]] 
 

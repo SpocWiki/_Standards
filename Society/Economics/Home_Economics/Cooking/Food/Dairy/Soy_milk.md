@@ -51,17 +51,17 @@ MeSH_tree_code:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Soy_milk](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Dairy/Soy_milk.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Home_Economics/Cooking/Food/Dairy/Soy_milk|Soy_milk]] 
 
-### #is_/same_as :: [Soy_milk.public](/_public/Society/Economics/Home_Economics/Cooking/Food/Dairy/Soy_milk.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Home_Economics/Cooking/Food/Dairy/Soy_milk.public|Soy_milk.public]] 
 
-### #is_/same_as :: [Soy_milk.internal](/_internal/Society/Economics/Home_Economics/Cooking/Food/Dairy/Soy_milk.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Home_Economics/Cooking/Food/Dairy/Soy_milk.internal|Soy_milk.internal]] 
 
-### #is_/same_as :: [Soy_milk.protect](/_protect/Society/Economics/Home_Economics/Cooking/Food/Dairy/Soy_milk.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Home_Economics/Cooking/Food/Dairy/Soy_milk.protect|Soy_milk.protect]] 
 
-### #is_/same_as :: [Soy_milk.private](/_private/Society/Economics/Home_Economics/Cooking/Food/Dairy/Soy_milk.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Home_Economics/Cooking/Food/Dairy/Soy_milk.private|Soy_milk.private]] 
 
-### #is_/same_as :: [Soy_milk.personal](/_personal/Society/Economics/Home_Economics/Cooking/Food/Dairy/Soy_milk.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Home_Economics/Cooking/Food/Dairy/Soy_milk.personal|Soy_milk.personal]] 
 
-### #is_/same_as :: [Soy_milk.secret](/_secret/Society/Economics/Home_Economics/Cooking/Food/Dairy/Soy_milk.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Home_Economics/Cooking/Food/Dairy/Soy_milk.secret|Soy_milk.secret]] 
 

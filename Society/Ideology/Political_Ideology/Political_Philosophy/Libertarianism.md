@@ -66,3 +66,22 @@ Lemmy_instance_URL: https://lemmy.libertarianfellowship.org/
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Libertarianism) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Society/Ideology/Political_Ideology/Political_Philosophy/Libertarianism|Libertarianism]] 
+
+### #is_/same_as :: [[/_public/Society/Ideology/Political_Ideology/Political_Philosophy/Libertarianism.public|Libertarianism.public]] 
+
+### #is_/same_as :: [[/_internal/Society/Ideology/Political_Ideology/Political_Philosophy/Libertarianism.internal|Libertarianism.internal]] 
+
+### #is_/same_as :: [[/_protect/Society/Ideology/Political_Ideology/Political_Philosophy/Libertarianism.protect|Libertarianism.protect]] 
+
+### #is_/same_as :: [[/_private/Society/Ideology/Political_Ideology/Political_Philosophy/Libertarianism.private|Libertarianism.private]] 
+
+### #is_/same_as :: [[/_personal/Society/Ideology/Political_Ideology/Political_Philosophy/Libertarianism.personal|Libertarianism.personal]] 
+
+### #is_/same_as :: [[/_secret/Society/Ideology/Political_Ideology/Political_Philosophy/Libertarianism.secret|Libertarianism.secret]] 
+

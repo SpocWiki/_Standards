@@ -195,7 +195,7 @@ specimens (Anderson and Bolt, 2005).
 ## Title Illustrations
 
 ------------------------------------------------------------------------------ 
-![](Dissorophoidea/ecolsonia.jpg))
+![](Dissorophoidea/ecolsonia.jpg) 
 Scientific Name ::     Ecolsonia cutlerensis
 Location ::           North-central New Mexico
 Specimen Condition   Fossil \-- Period: Early Permian (Cutler Fm)
@@ -205,17 +205,17 @@ Copyright ::            © [Adam Huttenlocker](http://www.geocities.com/paleo_bi
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Dissorophoidea](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Temnospondyli/Dissorophoidea.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Temnospondyli/Dissorophoidea|Dissorophoidea]] 
 
-### #is_/same_as :: [Dissorophoidea.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Temnospondyli/Dissorophoidea.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Temnospondyli/Dissorophoidea.public|Dissorophoidea.public]] 
 
-### #is_/same_as :: [Dissorophoidea.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Temnospondyli/Dissorophoidea.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Temnospondyli/Dissorophoidea.internal|Dissorophoidea.internal]] 
 
-### #is_/same_as :: [Dissorophoidea.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Temnospondyli/Dissorophoidea.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Temnospondyli/Dissorophoidea.protect|Dissorophoidea.protect]] 
 
-### #is_/same_as :: [Dissorophoidea.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Temnospondyli/Dissorophoidea.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Temnospondyli/Dissorophoidea.private|Dissorophoidea.private]] 
 
-### #is_/same_as :: [Dissorophoidea.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Temnospondyli/Dissorophoidea.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Temnospondyli/Dissorophoidea.personal|Dissorophoidea.personal]] 
 
-### #is_/same_as :: [Dissorophoidea.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Temnospondyli/Dissorophoidea.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Temnospondyli/Dissorophoidea.secret|Dissorophoidea.secret]] 
 

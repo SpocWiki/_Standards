@@ -19,17 +19,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sapindaceae](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Sapindales/Sapindaceae.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Sapindales/Sapindaceae|Sapindaceae]] 
 
-### #is_/same_as :: [Sapindaceae.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Sapindales/Sapindaceae.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Sapindales/Sapindaceae.public|Sapindaceae.public]] 
 
-### #is_/same_as :: [Sapindaceae.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Sapindales/Sapindaceae.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Sapindales/Sapindaceae.internal|Sapindaceae.internal]] 
 
-### #is_/same_as :: [Sapindaceae.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Sapindales/Sapindaceae.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Sapindales/Sapindaceae.protect|Sapindaceae.protect]] 
 
-### #is_/same_as :: [Sapindaceae.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Sapindales/Sapindaceae.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Sapindales/Sapindaceae.private|Sapindaceae.private]] 
 
-### #is_/same_as :: [Sapindaceae.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Sapindales/Sapindaceae.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Sapindales/Sapindaceae.personal|Sapindaceae.personal]] 
 
-### #is_/same_as :: [Sapindaceae.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Sapindales/Sapindaceae.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Sapindales/Sapindaceae.secret|Sapindaceae.secret]] 
 

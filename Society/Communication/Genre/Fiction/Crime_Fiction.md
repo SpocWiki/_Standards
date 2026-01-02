@@ -25,17 +25,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Crime_Fiction](/_Standards/Society/Communication/Genre/Fiction/Crime_Fiction.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Genre/Fiction/Crime_Fiction|Crime_Fiction]] 
 
-### #is_/same_as :: [Crime_Fiction.public](/_public/Society/Communication/Genre/Fiction/Crime_Fiction.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Genre/Fiction/Crime_Fiction.public|Crime_Fiction.public]] 
 
-### #is_/same_as :: [Crime_Fiction.internal](/_internal/Society/Communication/Genre/Fiction/Crime_Fiction.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Genre/Fiction/Crime_Fiction.internal|Crime_Fiction.internal]] 
 
-### #is_/same_as :: [Crime_Fiction.protect](/_protect/Society/Communication/Genre/Fiction/Crime_Fiction.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Genre/Fiction/Crime_Fiction.protect|Crime_Fiction.protect]] 
 
-### #is_/same_as :: [Crime_Fiction.private](/_private/Society/Communication/Genre/Fiction/Crime_Fiction.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Genre/Fiction/Crime_Fiction.private|Crime_Fiction.private]] 
 
-### #is_/same_as :: [Crime_Fiction.personal](/_personal/Society/Communication/Genre/Fiction/Crime_Fiction.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Genre/Fiction/Crime_Fiction.personal|Crime_Fiction.personal]] 
 
-### #is_/same_as :: [Crime_Fiction.secret](/_secret/Society/Communication/Genre/Fiction/Crime_Fiction.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Genre/Fiction/Crime_Fiction.secret|Crime_Fiction.secret]] 
 

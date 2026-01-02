@@ -92,7 +92,7 @@ in subsequent months.
 
 
 ----------------------------------------------------------------------- 
-![Ruellia speciosa](jaliscana/Ruellia_speciosa.jpg))
+![Ruellia speciosa](jaliscana/Ruellia_speciosa.jpg) 
 Scientific Name ::     Ruellia speciosa Lindau
 Location ::           Oaxaca, Mexico
 Specimen Condition   Live Specimen
@@ -101,7 +101,7 @@ Collector            Tripp & Acosta
 Copyright ::            © [Erin Tripp](mailto:erin.tripp@duke.edu) 
 
 ----------------------------------------------------------------------- 
-![Ruellia bourgaei](jaliscana/Ruellia_bourgaei.jpg))
+![Ruellia bourgaei](jaliscana/Ruellia_bourgaei.jpg) 
 Scientific Name ::     Ruellia bourgaei Hemsl.
 Location ::           Jalisco, Mexico
 Specimen Condition   Live Specimen
@@ -110,7 +110,7 @@ Collector            Tripp & L. Tripp
 Copyright ::            © [Erin Tripp](mailto:erin.tripp@duke.edu) 
 
 ----------------------------------------------------------------------- 
-![Ruellia jaliscana](jaliscana/Ruellia_jaliscana.jpg))
+![Ruellia jaliscana](jaliscana/Ruellia_jaliscana.jpg) 
 Scientific Name ::     Ruellia jaliscana Standl.
 Location ::           Jalisco, Mexico
 Specimen Condition   Live Specimen
@@ -121,17 +121,17 @@ Copyright ::            © [Erin Tripp](mailto:erin.tripp@duke.edu)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [jaliscana](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Ruellieae/Ruellia/jaliscana.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Ruellieae/Ruellia/jaliscana|jaliscana]] 
 
-### #is_/same_as :: [jaliscana.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Ruellieae/Ruellia/jaliscana.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Ruellieae/Ruellia/jaliscana.public|jaliscana.public]] 
 
-### #is_/same_as :: [jaliscana.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Ruellieae/Ruellia/jaliscana.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Ruellieae/Ruellia/jaliscana.internal|jaliscana.internal]] 
 
-### #is_/same_as :: [jaliscana.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Ruellieae/Ruellia/jaliscana.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Ruellieae/Ruellia/jaliscana.protect|jaliscana.protect]] 
 
-### #is_/same_as :: [jaliscana.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Ruellieae/Ruellia/jaliscana.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Ruellieae/Ruellia/jaliscana.private|jaliscana.private]] 
 
-### #is_/same_as :: [jaliscana.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Ruellieae/Ruellia/jaliscana.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Ruellieae/Ruellia/jaliscana.personal|jaliscana.personal]] 
 
-### #is_/same_as :: [jaliscana.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Ruellieae/Ruellia/jaliscana.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Ruellieae/Ruellia/jaliscana.secret|jaliscana.secret]] 
 

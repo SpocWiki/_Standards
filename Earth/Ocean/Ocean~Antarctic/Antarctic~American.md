@@ -37,17 +37,17 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Antarctic~American](/_Standards/Earth/Ocean/Ocean~Antarctic/Antarctic~American.md) 
+### #is_/same_as :: [[/_Standards/Earth/Ocean/Ocean~Antarctic/Antarctic~American|Antarctic~American]] 
 
-### #is_/same_as :: [Antarctic~American.public](/_public/Earth/Ocean/Ocean~Antarctic/Antarctic~American.public.md) 
+### #is_/same_as :: [[/_public/Earth/Ocean/Ocean~Antarctic/Antarctic~American.public|Antarctic~American.public]] 
 
-### #is_/same_as :: [Antarctic~American.internal](/_internal/Earth/Ocean/Ocean~Antarctic/Antarctic~American.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Ocean/Ocean~Antarctic/Antarctic~American.internal|Antarctic~American.internal]] 
 
-### #is_/same_as :: [Antarctic~American.protect](/_protect/Earth/Ocean/Ocean~Antarctic/Antarctic~American.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Ocean/Ocean~Antarctic/Antarctic~American.protect|Antarctic~American.protect]] 
 
-### #is_/same_as :: [Antarctic~American.private](/_private/Earth/Ocean/Ocean~Antarctic/Antarctic~American.private.md) 
+### #is_/same_as :: [[/_private/Earth/Ocean/Ocean~Antarctic/Antarctic~American.private|Antarctic~American.private]] 
 
-### #is_/same_as :: [Antarctic~American.personal](/_personal/Earth/Ocean/Ocean~Antarctic/Antarctic~American.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Ocean/Ocean~Antarctic/Antarctic~American.personal|Antarctic~American.personal]] 
 
-### #is_/same_as :: [Antarctic~American.secret](/_secret/Earth/Ocean/Ocean~Antarctic/Antarctic~American.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Ocean/Ocean~Antarctic/Antarctic~American.secret|Antarctic~American.secret]] 
 

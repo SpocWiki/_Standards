@@ -99,17 +99,17 @@ inception: -2179-01-01T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [-2179-Kingdom_of_Kush+0350](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-2179-Kingdom_of_Kush+0350.md) 
+### #is_/same_as :: [[/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-2179-Kingdom_of_Kush+0350|-2179-Kingdom_of_Kush+0350]] 
 
-### #is_/same_as :: [-2179-Kingdom_of_Kush+0350.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-2179-Kingdom_of_Kush+0350.public.md) 
+### #is_/same_as :: [[/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-2179-Kingdom_of_Kush+0350.public|-2179-Kingdom_of_Kush+0350.public]] 
 
-### #is_/same_as :: [-2179-Kingdom_of_Kush+0350.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-2179-Kingdom_of_Kush+0350.internal.md) 
+### #is_/same_as :: [[/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-2179-Kingdom_of_Kush+0350.internal|-2179-Kingdom_of_Kush+0350.internal]] 
 
-### #is_/same_as :: [-2179-Kingdom_of_Kush+0350.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-2179-Kingdom_of_Kush+0350.protect.md) 
+### #is_/same_as :: [[/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-2179-Kingdom_of_Kush+0350.protect|-2179-Kingdom_of_Kush+0350.protect]] 
 
-### #is_/same_as :: [-2179-Kingdom_of_Kush+0350.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-2179-Kingdom_of_Kush+0350.private.md) 
+### #is_/same_as :: [[/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-2179-Kingdom_of_Kush+0350.private|-2179-Kingdom_of_Kush+0350.private]] 
 
-### #is_/same_as :: [-2179-Kingdom_of_Kush+0350.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-2179-Kingdom_of_Kush+0350.personal.md) 
+### #is_/same_as :: [[/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-2179-Kingdom_of_Kush+0350.personal|-2179-Kingdom_of_Kush+0350.personal]] 
 
-### #is_/same_as :: [-2179-Kingdom_of_Kush+0350.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-2179-Kingdom_of_Kush+0350.secret.md)
+### #is_/same_as :: [[/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-2179-Kingdom_of_Kush+0350.secret|-2179-Kingdom_of_Kush+0350.secret]] 
 

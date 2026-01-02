@@ -44,17 +44,17 @@ alternative_name: Bboying
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Breakdance](/_Standards/Society/Communication/Media/Performing_Arts/Dance/Breakdance.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Performing_Arts/Dance/Breakdance|Breakdance]] 
 
-### #is_/same_as :: [Breakdance.public](/_public/Society/Communication/Media/Performing_Arts/Dance/Breakdance.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Performing_Arts/Dance/Breakdance.public|Breakdance.public]] 
 
-### #is_/same_as :: [Breakdance.internal](/_internal/Society/Communication/Media/Performing_Arts/Dance/Breakdance.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Performing_Arts/Dance/Breakdance.internal|Breakdance.internal]] 
 
-### #is_/same_as :: [Breakdance.protect](/_protect/Society/Communication/Media/Performing_Arts/Dance/Breakdance.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Performing_Arts/Dance/Breakdance.protect|Breakdance.protect]] 
 
-### #is_/same_as :: [Breakdance.private](/_private/Society/Communication/Media/Performing_Arts/Dance/Breakdance.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Performing_Arts/Dance/Breakdance.private|Breakdance.private]] 
 
-### #is_/same_as :: [Breakdance.personal](/_personal/Society/Communication/Media/Performing_Arts/Dance/Breakdance.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Performing_Arts/Dance/Breakdance.personal|Breakdance.personal]] 
 
-### #is_/same_as :: [Breakdance.secret](/_secret/Society/Communication/Media/Performing_Arts/Dance/Breakdance.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Performing_Arts/Dance/Breakdance.secret|Breakdance.secret]] 
 

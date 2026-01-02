@@ -44,17 +44,17 @@ Commons_category: Van Allen radiation belts
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Van_Allen_Radiation_Belt](/_Standards/Earth/Climate/Atmosphere,Earth/Van_Allen_Radiation_Belt.md) 
+### #is_/same_as :: [[/_Standards/Earth/Climate/Atmosphere,Earth/Van_Allen_Radiation_Belt|Van_Allen_Radiation_Belt]] 
 
-### #is_/same_as :: [Van_Allen_Radiation_Belt.public](/_public/Earth/Climate/Atmosphere,Earth/Van_Allen_Radiation_Belt.public.md) 
+### #is_/same_as :: [[/_public/Earth/Climate/Atmosphere,Earth/Van_Allen_Radiation_Belt.public|Van_Allen_Radiation_Belt.public]] 
 
-### #is_/same_as :: [Van_Allen_Radiation_Belt.internal](/_internal/Earth/Climate/Atmosphere,Earth/Van_Allen_Radiation_Belt.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Climate/Atmosphere,Earth/Van_Allen_Radiation_Belt.internal|Van_Allen_Radiation_Belt.internal]] 
 
-### #is_/same_as :: [Van_Allen_Radiation_Belt.protect](/_protect/Earth/Climate/Atmosphere,Earth/Van_Allen_Radiation_Belt.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Climate/Atmosphere,Earth/Van_Allen_Radiation_Belt.protect|Van_Allen_Radiation_Belt.protect]] 
 
-### #is_/same_as :: [Van_Allen_Radiation_Belt.private](/_private/Earth/Climate/Atmosphere,Earth/Van_Allen_Radiation_Belt.private.md) 
+### #is_/same_as :: [[/_private/Earth/Climate/Atmosphere,Earth/Van_Allen_Radiation_Belt.private|Van_Allen_Radiation_Belt.private]] 
 
-### #is_/same_as :: [Van_Allen_Radiation_Belt.personal](/_personal/Earth/Climate/Atmosphere,Earth/Van_Allen_Radiation_Belt.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Climate/Atmosphere,Earth/Van_Allen_Radiation_Belt.personal|Van_Allen_Radiation_Belt.personal]] 
 
-### #is_/same_as :: [Van_Allen_Radiation_Belt.secret](/_secret/Earth/Climate/Atmosphere,Earth/Van_Allen_Radiation_Belt.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Climate/Atmosphere,Earth/Van_Allen_Radiation_Belt.secret|Van_Allen_Radiation_Belt.secret]] 
 

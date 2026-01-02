@@ -28,17 +28,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Madsen,Michael](/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Madsen,Michael.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Madsen,Michael|Madsen,Michael]] 
 
-### #is_/same_as :: [Madsen,Michael.public](/_public/Society/Communication/Media/Movie/Actor/US_Actor/Madsen,Michael.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Actor/US_Actor/Madsen,Michael.public|Madsen,Michael.public]] 
 
-### #is_/same_as :: [Madsen,Michael.internal](/_internal/Society/Communication/Media/Movie/Actor/US_Actor/Madsen,Michael.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Actor/US_Actor/Madsen,Michael.internal|Madsen,Michael.internal]] 
 
-### #is_/same_as :: [Madsen,Michael.protect](/_protect/Society/Communication/Media/Movie/Actor/US_Actor/Madsen,Michael.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Actor/US_Actor/Madsen,Michael.protect|Madsen,Michael.protect]] 
 
-### #is_/same_as :: [Madsen,Michael.private](/_private/Society/Communication/Media/Movie/Actor/US_Actor/Madsen,Michael.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Actor/US_Actor/Madsen,Michael.private|Madsen,Michael.private]] 
 
-### #is_/same_as :: [Madsen,Michael.personal](/_personal/Society/Communication/Media/Movie/Actor/US_Actor/Madsen,Michael.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Actor/US_Actor/Madsen,Michael.personal|Madsen,Michael.personal]] 
 
-### #is_/same_as :: [Madsen,Michael.secret](/_secret/Society/Communication/Media/Movie/Actor/US_Actor/Madsen,Michael.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Actor/US_Actor/Madsen,Michael.secret|Madsen,Michael.secret]] 
 

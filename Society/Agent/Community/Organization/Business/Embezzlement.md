@@ -41,17 +41,17 @@ IPTC_NewsCode: mediatopic/20000090
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Embezzlement](/_Standards/Society/Agent/Community/Organization/Business/Embezzlement.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Business/Embezzlement|Embezzlement]] 
 
-### #is_/same_as :: [Embezzlement.public](/_public/Society/Agent/Community/Organization/Business/Embezzlement.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Business/Embezzlement.public|Embezzlement.public]] 
 
-### #is_/same_as :: [Embezzlement.internal](/_internal/Society/Agent/Community/Organization/Business/Embezzlement.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Business/Embezzlement.internal|Embezzlement.internal]] 
 
-### #is_/same_as :: [Embezzlement.protect](/_protect/Society/Agent/Community/Organization/Business/Embezzlement.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Business/Embezzlement.protect|Embezzlement.protect]] 
 
-### #is_/same_as :: [Embezzlement.private](/_private/Society/Agent/Community/Organization/Business/Embezzlement.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Business/Embezzlement.private|Embezzlement.private]] 
 
-### #is_/same_as :: [Embezzlement.personal](/_personal/Society/Agent/Community/Organization/Business/Embezzlement.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Business/Embezzlement.personal|Embezzlement.personal]] 
 
-### #is_/same_as :: [Embezzlement.secret](/_secret/Society/Agent/Community/Organization/Business/Embezzlement.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Business/Embezzlement.secret|Embezzlement.secret]] 
 

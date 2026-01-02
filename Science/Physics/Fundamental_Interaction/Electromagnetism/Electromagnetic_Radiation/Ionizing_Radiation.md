@@ -45,17 +45,17 @@ ComputerLanguage_com_definition: ionizing+radiation
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ionizing_Radiation](/_Standards/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Ionizing_Radiation.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Ionizing_Radiation|Ionizing_Radiation]] 
 
-### #is_/same_as :: [Ionizing_Radiation.public](/_public/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Ionizing_Radiation.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Ionizing_Radiation.public|Ionizing_Radiation.public]] 
 
-### #is_/same_as :: [Ionizing_Radiation.internal](/_internal/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Ionizing_Radiation.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Ionizing_Radiation.internal|Ionizing_Radiation.internal]] 
 
-### #is_/same_as :: [Ionizing_Radiation.protect](/_protect/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Ionizing_Radiation.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Ionizing_Radiation.protect|Ionizing_Radiation.protect]] 
 
-### #is_/same_as :: [Ionizing_Radiation.private](/_private/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Ionizing_Radiation.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Ionizing_Radiation.private|Ionizing_Radiation.private]] 
 
-### #is_/same_as :: [Ionizing_Radiation.personal](/_personal/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Ionizing_Radiation.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Ionizing_Radiation.personal|Ionizing_Radiation.personal]] 
 
-### #is_/same_as :: [Ionizing_Radiation.secret](/_secret/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Ionizing_Radiation.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Ionizing_Radiation.secret|Ionizing_Radiation.secret]] 
 

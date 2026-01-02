@@ -27,17 +27,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Connelly,Jennifer](/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Connelly,Jennifer.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Connelly,Jennifer|Connelly,Jennifer]] 
 
-### #is_/same_as :: [Connelly,Jennifer.public](/_public/Society/Communication/Media/Movie/Actor/US_Actor/Connelly,Jennifer.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Actor/US_Actor/Connelly,Jennifer.public|Connelly,Jennifer.public]] 
 
-### #is_/same_as :: [Connelly,Jennifer.internal](/_internal/Society/Communication/Media/Movie/Actor/US_Actor/Connelly,Jennifer.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Actor/US_Actor/Connelly,Jennifer.internal|Connelly,Jennifer.internal]] 
 
-### #is_/same_as :: [Connelly,Jennifer.protect](/_protect/Society/Communication/Media/Movie/Actor/US_Actor/Connelly,Jennifer.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Actor/US_Actor/Connelly,Jennifer.protect|Connelly,Jennifer.protect]] 
 
-### #is_/same_as :: [Connelly,Jennifer.private](/_private/Society/Communication/Media/Movie/Actor/US_Actor/Connelly,Jennifer.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Actor/US_Actor/Connelly,Jennifer.private|Connelly,Jennifer.private]] 
 
-### #is_/same_as :: [Connelly,Jennifer.personal](/_personal/Society/Communication/Media/Movie/Actor/US_Actor/Connelly,Jennifer.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Actor/US_Actor/Connelly,Jennifer.personal|Connelly,Jennifer.personal]] 
 
-### #is_/same_as :: [Connelly,Jennifer.secret](/_secret/Society/Communication/Media/Movie/Actor/US_Actor/Connelly,Jennifer.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Actor/US_Actor/Connelly,Jennifer.secret|Connelly,Jennifer.secret]] 
 

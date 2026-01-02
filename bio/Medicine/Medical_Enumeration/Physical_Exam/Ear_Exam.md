@@ -41,17 +41,17 @@ Ear function assessment with clinical examination.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ear_Exam](/_Standards/bio/Medicine/Medical_Enumeration/Physical_Exam/Ear_Exam.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Enumeration/Physical_Exam/Ear_Exam|Ear_Exam]] 
 
-### #is_/same_as :: [Ear_Exam.public](/_public/bio/Medicine/Medical_Enumeration/Physical_Exam/Ear_Exam.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Enumeration/Physical_Exam/Ear_Exam.public|Ear_Exam.public]] 
 
-### #is_/same_as :: [Ear_Exam.internal](/_internal/bio/Medicine/Medical_Enumeration/Physical_Exam/Ear_Exam.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Enumeration/Physical_Exam/Ear_Exam.internal|Ear_Exam.internal]] 
 
-### #is_/same_as :: [Ear_Exam.protect](/_protect/bio/Medicine/Medical_Enumeration/Physical_Exam/Ear_Exam.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Enumeration/Physical_Exam/Ear_Exam.protect|Ear_Exam.protect]] 
 
-### #is_/same_as :: [Ear_Exam.private](/_private/bio/Medicine/Medical_Enumeration/Physical_Exam/Ear_Exam.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Enumeration/Physical_Exam/Ear_Exam.private|Ear_Exam.private]] 
 
-### #is_/same_as :: [Ear_Exam.personal](/_personal/bio/Medicine/Medical_Enumeration/Physical_Exam/Ear_Exam.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Enumeration/Physical_Exam/Ear_Exam.personal|Ear_Exam.personal]] 
 
-### #is_/same_as :: [Ear_Exam.secret](/_secret/bio/Medicine/Medical_Enumeration/Physical_Exam/Ear_Exam.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Enumeration/Physical_Exam/Ear_Exam.secret|Ear_Exam.secret]] 
 

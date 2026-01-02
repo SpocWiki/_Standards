@@ -55,17 +55,17 @@ IcaoCode:: {"type":"Input","options":{}}
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~Airport](/_Standards/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Airport.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Airport|FileClass~Airport]] 
 
-### #is_/same_as :: [FileClass~Airport.public](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Airport.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Airport.public|FileClass~Airport.public]] 
 
-### #is_/same_as :: [FileClass~Airport.internal](/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Airport.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Airport.internal|FileClass~Airport.internal]] 
 
-### #is_/same_as :: [FileClass~Airport.protect](/_protect/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Airport.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Airport.protect|FileClass~Airport.protect]] 
 
-### #is_/same_as :: [FileClass~Airport.private](/_private/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Airport.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Airport.private|FileClass~Airport.private]] 
 
-### #is_/same_as :: [FileClass~Airport.personal](/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Airport.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Airport.personal|FileClass~Airport.personal]] 
 
-### #is_/same_as :: [FileClass~Airport.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Airport.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Airport.secret|FileClass~Airport.secret]] 
 

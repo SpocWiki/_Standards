@@ -42,17 +42,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [is_in_album](/_Standards/schema-org/Relation/is/is_in_album.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/is/is_in_album|is_in_album]] 
 
-### #is_/same_as :: [is_in_album.public](/_public/schema-org/Relation/is/is_in_album.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/is/is_in_album.public|is_in_album.public]] 
 
-### #is_/same_as :: [is_in_album.internal](/_internal/schema-org/Relation/is/is_in_album.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/is/is_in_album.internal|is_in_album.internal]] 
 
-### #is_/same_as :: [is_in_album.protect](/_protect/schema-org/Relation/is/is_in_album.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/is/is_in_album.protect|is_in_album.protect]] 
 
-### #is_/same_as :: [is_in_album.private](/_private/schema-org/Relation/is/is_in_album.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/is/is_in_album.private|is_in_album.private]] 
 
-### #is_/same_as :: [is_in_album.personal](/_personal/schema-org/Relation/is/is_in_album.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/is/is_in_album.personal|is_in_album.personal]] 
 
-### #is_/same_as :: [is_in_album.secret](/_secret/schema-org/Relation/is/is_in_album.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/is/is_in_album.secret|is_in_album.secret]] 
 

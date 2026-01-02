@@ -47,17 +47,17 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Faille%20des%20Causses
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Fault(geology)](/_Standards/Earth/Geology/Landform/Fault(geology).md) 
+### #is_/same_as :: [[/_Standards/Earth/Geology/Landform/Fault(geology)|Fault(geology)]] 
 
-### #is_/same_as :: [Fault(geology).public](/_public/Earth/Geology/Landform/Fault(geology).public.md) 
+### #is_/same_as :: [[/_public/Earth/Geology/Landform/Fault(geology).public|Fault(geology).public]] 
 
-### #is_/same_as :: [Fault(geology).internal](/_internal/Earth/Geology/Landform/Fault(geology).internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geology/Landform/Fault(geology).internal|Fault(geology).internal]] 
 
-### #is_/same_as :: [Fault(geology).protect](/_protect/Earth/Geology/Landform/Fault(geology).protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geology/Landform/Fault(geology).protect|Fault(geology).protect]] 
 
-### #is_/same_as :: [Fault(geology).private](/_private/Earth/Geology/Landform/Fault(geology).private.md) 
+### #is_/same_as :: [[/_private/Earth/Geology/Landform/Fault(geology).private|Fault(geology).private]] 
 
-### #is_/same_as :: [Fault(geology).personal](/_personal/Earth/Geology/Landform/Fault(geology).personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geology/Landform/Fault(geology).personal|Fault(geology).personal]] 
 
-### #is_/same_as :: [Fault(geology).secret](/_secret/Earth/Geology/Landform/Fault(geology).secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geology/Landform/Fault(geology).secret|Fault(geology).secret]] 
 

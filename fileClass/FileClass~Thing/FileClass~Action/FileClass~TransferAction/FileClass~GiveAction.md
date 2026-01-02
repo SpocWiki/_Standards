@@ -53,17 +53,17 @@ Recipient:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thi
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~GiveAction](/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~TransferAction/FileClass~GiveAction.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~TransferAction/FileClass~GiveAction|FileClass~GiveAction]] 
 
-### #is_/same_as :: [FileClass~GiveAction.public](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~TransferAction/FileClass~GiveAction.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~TransferAction/FileClass~GiveAction.public|FileClass~GiveAction.public]] 
 
-### #is_/same_as :: [FileClass~GiveAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~TransferAction/FileClass~GiveAction.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~TransferAction/FileClass~GiveAction.internal|FileClass~GiveAction.internal]] 
 
-### #is_/same_as :: [FileClass~GiveAction.protect](/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~TransferAction/FileClass~GiveAction.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~TransferAction/FileClass~GiveAction.protect|FileClass~GiveAction.protect]] 
 
-### #is_/same_as :: [FileClass~GiveAction.private](/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~TransferAction/FileClass~GiveAction.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~TransferAction/FileClass~GiveAction.private|FileClass~GiveAction.private]] 
 
-### #is_/same_as :: [FileClass~GiveAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~TransferAction/FileClass~GiveAction.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~TransferAction/FileClass~GiveAction.personal|FileClass~GiveAction.personal]] 
 
-### #is_/same_as :: [FileClass~GiveAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~TransferAction/FileClass~GiveAction.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~TransferAction/FileClass~GiveAction.secret|FileClass~GiveAction.secret]] 
 

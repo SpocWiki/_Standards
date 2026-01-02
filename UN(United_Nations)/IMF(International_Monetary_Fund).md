@@ -176,17 +176,17 @@ Instagram_username: the_imf
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [IMF(International_Monetary_Fund)](/_Standards/UN(United_Nations)/IMF(International_Monetary_Fund).md) 
+### #is_/same_as :: [[/_Standards/UN(United_Nations)/IMF(International_Monetary_Fund)|IMF(International_Monetary_Fund)]] 
 
-### #is_/same_as :: [IMF(International_Monetary_Fund).public](/_public/UN(United_Nations)/IMF(International_Monetary_Fund).public.md) 
+### #is_/same_as :: [[/_public/UN(United_Nations)/IMF(International_Monetary_Fund).public|IMF(International_Monetary_Fund).public]] 
 
-### #is_/same_as :: [IMF(International_Monetary_Fund).internal](/_internal/UN(United_Nations)/IMF(International_Monetary_Fund).internal.md) 
+### #is_/same_as :: [[/_internal/UN(United_Nations)/IMF(International_Monetary_Fund).internal|IMF(International_Monetary_Fund).internal]] 
 
-### #is_/same_as :: [IMF(International_Monetary_Fund).protect](/_protect/UN(United_Nations)/IMF(International_Monetary_Fund).protect.md) 
+### #is_/same_as :: [[/_protect/UN(United_Nations)/IMF(International_Monetary_Fund).protect|IMF(International_Monetary_Fund).protect]] 
 
-### #is_/same_as :: [IMF(International_Monetary_Fund).private](/_private/UN(United_Nations)/IMF(International_Monetary_Fund).private.md) 
+### #is_/same_as :: [[/_private/UN(United_Nations)/IMF(International_Monetary_Fund).private|IMF(International_Monetary_Fund).private]] 
 
-### #is_/same_as :: [IMF(International_Monetary_Fund).personal](/_personal/UN(United_Nations)/IMF(International_Monetary_Fund).personal.md) 
+### #is_/same_as :: [[/_personal/UN(United_Nations)/IMF(International_Monetary_Fund).personal|IMF(International_Monetary_Fund).personal]] 
 
-### #is_/same_as :: [IMF(International_Monetary_Fund).secret](/_secret/UN(United_Nations)/IMF(International_Monetary_Fund).secret.md)
+### #is_/same_as :: [[/_secret/UN(United_Nations)/IMF(International_Monetary_Fund).secret|IMF(International_Monetary_Fund).secret]] 
 

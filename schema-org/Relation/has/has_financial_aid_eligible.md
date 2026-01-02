@@ -45,17 +45,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_financial_aid_eligible](/_Standards/schema-org/Relation/has/has_financial_aid_eligible.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_financial_aid_eligible|has_financial_aid_eligible]] 
 
-### #is_/same_as :: [has_financial_aid_eligible.public](/_public/schema-org/Relation/has/has_financial_aid_eligible.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_financial_aid_eligible.public|has_financial_aid_eligible.public]] 
 
-### #is_/same_as :: [has_financial_aid_eligible.internal](/_internal/schema-org/Relation/has/has_financial_aid_eligible.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_financial_aid_eligible.internal|has_financial_aid_eligible.internal]] 
 
-### #is_/same_as :: [has_financial_aid_eligible.protect](/_protect/schema-org/Relation/has/has_financial_aid_eligible.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_financial_aid_eligible.protect|has_financial_aid_eligible.protect]] 
 
-### #is_/same_as :: [has_financial_aid_eligible.private](/_private/schema-org/Relation/has/has_financial_aid_eligible.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_financial_aid_eligible.private|has_financial_aid_eligible.private]] 
 
-### #is_/same_as :: [has_financial_aid_eligible.personal](/_personal/schema-org/Relation/has/has_financial_aid_eligible.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_financial_aid_eligible.personal|has_financial_aid_eligible.personal]] 
 
-### #is_/same_as :: [has_financial_aid_eligible.secret](/_secret/schema-org/Relation/has/has_financial_aid_eligible.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_financial_aid_eligible.secret|has_financial_aid_eligible.secret]] 
 

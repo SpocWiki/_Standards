@@ -63,17 +63,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Multiplication](/_Standards/Mathematics/Arithmetic/Multiplication.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Arithmetic/Multiplication|Multiplication]] 
 
-### #is_/same_as :: [Multiplication.public](/_public/Mathematics/Arithmetic/Multiplication.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Arithmetic/Multiplication.public|Multiplication.public]] 
 
-### #is_/same_as :: [Multiplication.internal](/_internal/Mathematics/Arithmetic/Multiplication.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Arithmetic/Multiplication.internal|Multiplication.internal]] 
 
-### #is_/same_as :: [Multiplication.protect](/_protect/Mathematics/Arithmetic/Multiplication.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Arithmetic/Multiplication.protect|Multiplication.protect]] 
 
-### #is_/same_as :: [Multiplication.private](/_private/Mathematics/Arithmetic/Multiplication.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Arithmetic/Multiplication.private|Multiplication.private]] 
 
-### #is_/same_as :: [Multiplication.personal](/_personal/Mathematics/Arithmetic/Multiplication.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Arithmetic/Multiplication.personal|Multiplication.personal]] 
 
-### #is_/same_as :: [Multiplication.secret](/_secret/Mathematics/Arithmetic/Multiplication.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Arithmetic/Multiplication.secret|Multiplication.secret]] 
 

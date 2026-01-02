@@ -59,17 +59,17 @@ RealEstateAgent:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#cla
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~RentAction](/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~TradeAction/FileClass~RentAction.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~TradeAction/FileClass~RentAction|FileClass~RentAction]] 
 
-### #is_/same_as :: [FileClass~RentAction.public](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~TradeAction/FileClass~RentAction.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~TradeAction/FileClass~RentAction.public|FileClass~RentAction.public]] 
 
-### #is_/same_as :: [FileClass~RentAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~TradeAction/FileClass~RentAction.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~TradeAction/FileClass~RentAction.internal|FileClass~RentAction.internal]] 
 
-### #is_/same_as :: [FileClass~RentAction.protect](/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~TradeAction/FileClass~RentAction.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~TradeAction/FileClass~RentAction.protect|FileClass~RentAction.protect]] 
 
-### #is_/same_as :: [FileClass~RentAction.private](/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~TradeAction/FileClass~RentAction.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~TradeAction/FileClass~RentAction.private|FileClass~RentAction.private]] 
 
-### #is_/same_as :: [FileClass~RentAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~TradeAction/FileClass~RentAction.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~TradeAction/FileClass~RentAction.personal|FileClass~RentAction.personal]] 
 
-### #is_/same_as :: [FileClass~RentAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~TradeAction/FileClass~RentAction.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~TradeAction/FileClass~RentAction.secret|FileClass~RentAction.secret]] 
 

@@ -164,17 +164,17 @@ Capital :: [[Antananarivo]]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Madagascar](/_Standards/Earth/Continent/Africa/Africa~East/Madagascar.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~East/Madagascar|Madagascar]] 
 
-### #is_/same_as :: [Madagascar.public](/_public/Earth/Continent/Africa/Africa~East/Madagascar.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~East/Madagascar.public|Madagascar.public]] 
 
-### #is_/same_as :: [Madagascar.internal](/_internal/Earth/Continent/Africa/Africa~East/Madagascar.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~East/Madagascar.internal|Madagascar.internal]] 
 
-### #is_/same_as :: [Madagascar.protect](/_protect/Earth/Continent/Africa/Africa~East/Madagascar.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~East/Madagascar.protect|Madagascar.protect]] 
 
-### #is_/same_as :: [Madagascar.private](/_private/Earth/Continent/Africa/Africa~East/Madagascar.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~East/Madagascar.private|Madagascar.private]] 
 
-### #is_/same_as :: [Madagascar.personal](/_personal/Earth/Continent/Africa/Africa~East/Madagascar.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~East/Madagascar.personal|Madagascar.personal]] 
 
-### #is_/same_as :: [Madagascar.secret](/_secret/Earth/Continent/Africa/Africa~East/Madagascar.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~East/Madagascar.secret|Madagascar.secret]] 
 

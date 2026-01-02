@@ -68,17 +68,17 @@ Krugosvet_article_archived_: nauka_i_tehnika/transport_i_svyaz/POCHTOVAYA_SVYAZ.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Mail](/_Standards/Technology/Transport/Mail.md) 
+### #is_/same_as :: [[/_Standards/Technology/Transport/Mail|Mail]] 
 
-### #is_/same_as :: [Mail.public](/_public/Technology/Transport/Mail.public.md) 
+### #is_/same_as :: [[/_public/Technology/Transport/Mail.public|Mail.public]] 
 
-### #is_/same_as :: [Mail.internal](/_internal/Technology/Transport/Mail.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Transport/Mail.internal|Mail.internal]] 
 
-### #is_/same_as :: [Mail.protect](/_protect/Technology/Transport/Mail.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Transport/Mail.protect|Mail.protect]] 
 
-### #is_/same_as :: [Mail.private](/_private/Technology/Transport/Mail.private.md) 
+### #is_/same_as :: [[/_private/Technology/Transport/Mail.private|Mail.private]] 
 
-### #is_/same_as :: [Mail.personal](/_personal/Technology/Transport/Mail.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Transport/Mail.personal|Mail.personal]] 
 
-### #is_/same_as :: [Mail.secret](/_secret/Technology/Transport/Mail.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Transport/Mail.secret|Mail.secret]] 
 

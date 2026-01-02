@@ -88,17 +88,17 @@ TargetUrl:: {"type":"Input","options":{}}
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~AlignmentObject](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~AlignmentObject.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~AlignmentObject|FileClass~AlignmentObject]] 
 
-### #is_/same_as :: [FileClass~AlignmentObject.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~AlignmentObject.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~AlignmentObject.public|FileClass~AlignmentObject.public]] 
 
-### #is_/same_as :: [FileClass~AlignmentObject.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~AlignmentObject.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~AlignmentObject.internal|FileClass~AlignmentObject.internal]] 
 
-### #is_/same_as :: [FileClass~AlignmentObject.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~AlignmentObject.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~AlignmentObject.protect|FileClass~AlignmentObject.protect]] 
 
-### #is_/same_as :: [FileClass~AlignmentObject.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~AlignmentObject.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~AlignmentObject.private|FileClass~AlignmentObject.private]] 
 
-### #is_/same_as :: [FileClass~AlignmentObject.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~AlignmentObject.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~AlignmentObject.personal|FileClass~AlignmentObject.personal]] 
 
-### #is_/same_as :: [FileClass~AlignmentObject.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~AlignmentObject.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~AlignmentObject.secret|FileClass~AlignmentObject.secret]] 
 

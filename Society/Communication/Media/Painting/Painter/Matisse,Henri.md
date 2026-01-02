@@ -305,17 +305,17 @@ work_location:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Matisse,Henri](/_Standards/Society/Communication/Media/Painting/Painter/Matisse,Henri.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Painting/Painter/Matisse,Henri|Matisse,Henri]] 
 
-### #is_/same_as :: [Matisse,Henri.public](/_public/Society/Communication/Media/Painting/Painter/Matisse,Henri.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Painting/Painter/Matisse,Henri.public|Matisse,Henri.public]] 
 
-### #is_/same_as :: [Matisse,Henri.internal](/_internal/Society/Communication/Media/Painting/Painter/Matisse,Henri.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Painting/Painter/Matisse,Henri.internal|Matisse,Henri.internal]] 
 
-### #is_/same_as :: [Matisse,Henri.protect](/_protect/Society/Communication/Media/Painting/Painter/Matisse,Henri.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Painting/Painter/Matisse,Henri.protect|Matisse,Henri.protect]] 
 
-### #is_/same_as :: [Matisse,Henri.private](/_private/Society/Communication/Media/Painting/Painter/Matisse,Henri.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Painting/Painter/Matisse,Henri.private|Matisse,Henri.private]] 
 
-### #is_/same_as :: [Matisse,Henri.personal](/_personal/Society/Communication/Media/Painting/Painter/Matisse,Henri.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Painting/Painter/Matisse,Henri.personal|Matisse,Henri.personal]] 
 
-### #is_/same_as :: [Matisse,Henri.secret](/_secret/Society/Communication/Media/Painting/Painter/Matisse,Henri.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Painting/Painter/Matisse,Henri.secret|Matisse,Henri.secret]] 
 

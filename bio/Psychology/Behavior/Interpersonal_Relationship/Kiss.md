@@ -23,17 +23,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Kiss](/_Standards/bio/Psychology/Behavior/Interpersonal_Relationship/Kiss.md) 
+### #is_/same_as :: [[/_Standards/bio/Psychology/Behavior/Interpersonal_Relationship/Kiss|Kiss]] 
 
-### #is_/same_as :: [Kiss.public](/_public/bio/Psychology/Behavior/Interpersonal_Relationship/Kiss.public.md) 
+### #is_/same_as :: [[/_public/bio/Psychology/Behavior/Interpersonal_Relationship/Kiss.public|Kiss.public]] 
 
-### #is_/same_as :: [Kiss.internal](/_internal/bio/Psychology/Behavior/Interpersonal_Relationship/Kiss.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Psychology/Behavior/Interpersonal_Relationship/Kiss.internal|Kiss.internal]] 
 
-### #is_/same_as :: [Kiss.protect](/_protect/bio/Psychology/Behavior/Interpersonal_Relationship/Kiss.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Psychology/Behavior/Interpersonal_Relationship/Kiss.protect|Kiss.protect]] 
 
-### #is_/same_as :: [Kiss.private](/_private/bio/Psychology/Behavior/Interpersonal_Relationship/Kiss.private.md) 
+### #is_/same_as :: [[/_private/bio/Psychology/Behavior/Interpersonal_Relationship/Kiss.private|Kiss.private]] 
 
-### #is_/same_as :: [Kiss.personal](/_personal/bio/Psychology/Behavior/Interpersonal_Relationship/Kiss.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Psychology/Behavior/Interpersonal_Relationship/Kiss.personal|Kiss.personal]] 
 
-### #is_/same_as :: [Kiss.secret](/_secret/bio/Psychology/Behavior/Interpersonal_Relationship/Kiss.secret.md)
+### #is_/same_as :: [[/_secret/bio/Psychology/Behavior/Interpersonal_Relationship/Kiss.secret|Kiss.secret]] 
 

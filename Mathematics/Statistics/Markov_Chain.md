@@ -55,17 +55,17 @@ Commons_category: Markov chains
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Markov_Chain](/_Standards/Mathematics/Statistics/Markov_Chain.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Statistics/Markov_Chain|Markov_Chain]] 
 
-### #is_/same_as :: [Markov_Chain.public](/_public/Mathematics/Statistics/Markov_Chain.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Statistics/Markov_Chain.public|Markov_Chain.public]] 
 
-### #is_/same_as :: [Markov_Chain.internal](/_internal/Mathematics/Statistics/Markov_Chain.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Statistics/Markov_Chain.internal|Markov_Chain.internal]] 
 
-### #is_/same_as :: [Markov_Chain.protect](/_protect/Mathematics/Statistics/Markov_Chain.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Statistics/Markov_Chain.protect|Markov_Chain.protect]] 
 
-### #is_/same_as :: [Markov_Chain.private](/_private/Mathematics/Statistics/Markov_Chain.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Statistics/Markov_Chain.private|Markov_Chain.private]] 
 
-### #is_/same_as :: [Markov_Chain.personal](/_personal/Mathematics/Statistics/Markov_Chain.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Statistics/Markov_Chain.personal|Markov_Chain.personal]] 
 
-### #is_/same_as :: [Markov_Chain.secret](/_secret/Mathematics/Statistics/Markov_Chain.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Statistics/Markov_Chain.secret|Markov_Chain.secret]] 
 

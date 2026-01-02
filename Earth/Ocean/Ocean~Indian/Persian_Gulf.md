@@ -100,17 +100,17 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/PersianGulf%20vue%20sa
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Persian_Gulf](/_Standards/Earth/Ocean/Ocean~Indian/Persian_Gulf.md) 
+### #is_/same_as :: [[/_Standards/Earth/Ocean/Ocean~Indian/Persian_Gulf|Persian_Gulf]] 
 
-### #is_/same_as :: [Persian_Gulf.public](/_public/Earth/Ocean/Ocean~Indian/Persian_Gulf.public.md) 
+### #is_/same_as :: [[/_public/Earth/Ocean/Ocean~Indian/Persian_Gulf.public|Persian_Gulf.public]] 
 
-### #is_/same_as :: [Persian_Gulf.internal](/_internal/Earth/Ocean/Ocean~Indian/Persian_Gulf.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Ocean/Ocean~Indian/Persian_Gulf.internal|Persian_Gulf.internal]] 
 
-### #is_/same_as :: [Persian_Gulf.protect](/_protect/Earth/Ocean/Ocean~Indian/Persian_Gulf.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Ocean/Ocean~Indian/Persian_Gulf.protect|Persian_Gulf.protect]] 
 
-### #is_/same_as :: [Persian_Gulf.private](/_private/Earth/Ocean/Ocean~Indian/Persian_Gulf.private.md) 
+### #is_/same_as :: [[/_private/Earth/Ocean/Ocean~Indian/Persian_Gulf.private|Persian_Gulf.private]] 
 
-### #is_/same_as :: [Persian_Gulf.personal](/_personal/Earth/Ocean/Ocean~Indian/Persian_Gulf.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Ocean/Ocean~Indian/Persian_Gulf.personal|Persian_Gulf.personal]] 
 
-### #is_/same_as :: [Persian_Gulf.secret](/_secret/Earth/Ocean/Ocean~Indian/Persian_Gulf.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Ocean/Ocean~Indian/Persian_Gulf.secret|Persian_Gulf.secret]] 
 

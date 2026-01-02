@@ -42,17 +42,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_css_selector](/_Standards/schema-org/Relation/has/has_css_selector.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_css_selector|has_css_selector]] 
 
-### #is_/same_as :: [has_css_selector.public](/_public/schema-org/Relation/has/has_css_selector.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_css_selector.public|has_css_selector.public]] 
 
-### #is_/same_as :: [has_css_selector.internal](/_internal/schema-org/Relation/has/has_css_selector.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_css_selector.internal|has_css_selector.internal]] 
 
-### #is_/same_as :: [has_css_selector.protect](/_protect/schema-org/Relation/has/has_css_selector.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_css_selector.protect|has_css_selector.protect]] 
 
-### #is_/same_as :: [has_css_selector.private](/_private/schema-org/Relation/has/has_css_selector.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_css_selector.private|has_css_selector.private]] 
 
-### #is_/same_as :: [has_css_selector.personal](/_personal/schema-org/Relation/has/has_css_selector.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_css_selector.personal|has_css_selector.personal]] 
 
-### #is_/same_as :: [has_css_selector.secret](/_secret/schema-org/Relation/has/has_css_selector.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_css_selector.secret|has_css_selector.secret]] 
 

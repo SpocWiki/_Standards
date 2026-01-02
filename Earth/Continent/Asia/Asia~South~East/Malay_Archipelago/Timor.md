@@ -88,17 +88,17 @@ markerFile: [[Timor]]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Timor](/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Timor.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Timor|Timor]] 
 
-### #is_/same_as :: [Timor.public](/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Timor.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Timor.public|Timor.public]] 
 
-### #is_/same_as :: [Timor.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Timor.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Timor.internal|Timor.internal]] 
 
-### #is_/same_as :: [Timor.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Timor.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Timor.protect|Timor.protect]] 
 
-### #is_/same_as :: [Timor.private](/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Timor.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Timor.private|Timor.private]] 
 
-### #is_/same_as :: [Timor.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Timor.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Timor.personal|Timor.personal]] 
 
-### #is_/same_as :: [Timor.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Timor.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Timor.secret|Timor.secret]] 
 

@@ -70,17 +70,17 @@ Dewey_Decimal_Classification: 248.6
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Tithe](/_Standards/Society/Economics/Tax/Tithe.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Tax/Tithe|Tithe]] 
 
-### #is_/same_as :: [Tithe.public](/_public/Society/Economics/Tax/Tithe.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Tax/Tithe.public|Tithe.public]] 
 
-### #is_/same_as :: [Tithe.internal](/_internal/Society/Economics/Tax/Tithe.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Tax/Tithe.internal|Tithe.internal]] 
 
-### #is_/same_as :: [Tithe.protect](/_protect/Society/Economics/Tax/Tithe.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Tax/Tithe.protect|Tithe.protect]] 
 
-### #is_/same_as :: [Tithe.private](/_private/Society/Economics/Tax/Tithe.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Tax/Tithe.private|Tithe.private]] 
 
-### #is_/same_as :: [Tithe.personal](/_personal/Society/Economics/Tax/Tithe.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Tax/Tithe.personal|Tithe.personal]] 
 
-### #is_/same_as :: [Tithe.secret](/_secret/Society/Economics/Tax/Tithe.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Tax/Tithe.secret|Tithe.secret]] 
 

@@ -34,17 +34,17 @@ It cost 600e6€, went live in 2010 and is no longer active.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Quaero](/_Standards/Technology/IT/Software/Search_Engine/Quaero.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Software/Search_Engine/Quaero|Quaero]] 
 
-### #is_/same_as :: [Quaero.public](/_public/Technology/IT/Software/Search_Engine/Quaero.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Software/Search_Engine/Quaero.public|Quaero.public]] 
 
-### #is_/same_as :: [Quaero.internal](/_internal/Technology/IT/Software/Search_Engine/Quaero.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Software/Search_Engine/Quaero.internal|Quaero.internal]] 
 
-### #is_/same_as :: [Quaero.protect](/_protect/Technology/IT/Software/Search_Engine/Quaero.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Software/Search_Engine/Quaero.protect|Quaero.protect]] 
 
-### #is_/same_as :: [Quaero.private](/_private/Technology/IT/Software/Search_Engine/Quaero.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Software/Search_Engine/Quaero.private|Quaero.private]] 
 
-### #is_/same_as :: [Quaero.personal](/_personal/Technology/IT/Software/Search_Engine/Quaero.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Software/Search_Engine/Quaero.personal|Quaero.personal]] 
 
-### #is_/same_as :: [Quaero.secret](/_secret/Technology/IT/Software/Search_Engine/Quaero.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Software/Search_Engine/Quaero.secret|Quaero.secret]] 
 

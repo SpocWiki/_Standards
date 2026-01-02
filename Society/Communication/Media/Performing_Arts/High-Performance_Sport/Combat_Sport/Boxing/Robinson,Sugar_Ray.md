@@ -77,17 +77,17 @@ date_of_birth: 1921-05-03T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Robinson,Sugar_Ray](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Boxing/Robinson,Sugar_Ray.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Boxing/Robinson,Sugar_Ray|Robinson,Sugar_Ray]] 
 
-### #is_/same_as :: [Robinson,Sugar_Ray.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Boxing/Robinson,Sugar_Ray.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Boxing/Robinson,Sugar_Ray.public|Robinson,Sugar_Ray.public]] 
 
-### #is_/same_as :: [Robinson,Sugar_Ray.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Boxing/Robinson,Sugar_Ray.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Boxing/Robinson,Sugar_Ray.internal|Robinson,Sugar_Ray.internal]] 
 
-### #is_/same_as :: [Robinson,Sugar_Ray.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Boxing/Robinson,Sugar_Ray.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Boxing/Robinson,Sugar_Ray.protect|Robinson,Sugar_Ray.protect]] 
 
-### #is_/same_as :: [Robinson,Sugar_Ray.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Boxing/Robinson,Sugar_Ray.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Boxing/Robinson,Sugar_Ray.private|Robinson,Sugar_Ray.private]] 
 
-### #is_/same_as :: [Robinson,Sugar_Ray.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Boxing/Robinson,Sugar_Ray.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Boxing/Robinson,Sugar_Ray.personal|Robinson,Sugar_Ray.personal]] 
 
-### #is_/same_as :: [Robinson,Sugar_Ray.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Boxing/Robinson,Sugar_Ray.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Boxing/Robinson,Sugar_Ray.secret|Robinson,Sugar_Ray.secret]] 
 

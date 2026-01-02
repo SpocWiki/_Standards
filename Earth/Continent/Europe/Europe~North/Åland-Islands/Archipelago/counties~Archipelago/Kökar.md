@@ -40,17 +40,17 @@ markerFolder: ./Kökar/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Kökar](/_Standards/Earth/Continent/Europe/Europe~North/Åland-Islands/Archipelago/counties~Archipelago/Kökar.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Åland-Islands/Archipelago/counties~Archipelago/Kökar|Kökar]] 
 
-### #is_/same_as :: [Kökar.public](/_public/Earth/Continent/Europe/Europe~North/Åland-Islands/Archipelago/counties~Archipelago/Kökar.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Åland-Islands/Archipelago/counties~Archipelago/Kökar.public|Kökar.public]] 
 
-### #is_/same_as :: [Kökar.internal](/_internal/Earth/Continent/Europe/Europe~North/Åland-Islands/Archipelago/counties~Archipelago/Kökar.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Åland-Islands/Archipelago/counties~Archipelago/Kökar.internal|Kökar.internal]] 
 
-### #is_/same_as :: [Kökar.protect](/_protect/Earth/Continent/Europe/Europe~North/Åland-Islands/Archipelago/counties~Archipelago/Kökar.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Åland-Islands/Archipelago/counties~Archipelago/Kökar.protect|Kökar.protect]] 
 
-### #is_/same_as :: [Kökar.private](/_private/Earth/Continent/Europe/Europe~North/Åland-Islands/Archipelago/counties~Archipelago/Kökar.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Åland-Islands/Archipelago/counties~Archipelago/Kökar.private|Kökar.private]] 
 
-### #is_/same_as :: [Kökar.personal](/_personal/Earth/Continent/Europe/Europe~North/Åland-Islands/Archipelago/counties~Archipelago/Kökar.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Åland-Islands/Archipelago/counties~Archipelago/Kökar.personal|Kökar.personal]] 
 
-### #is_/same_as :: [Kökar.secret](/_secret/Earth/Continent/Europe/Europe~North/Åland-Islands/Archipelago/counties~Archipelago/Kökar.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Åland-Islands/Archipelago/counties~Archipelago/Kökar.secret|Kökar.secret]] 
 

@@ -37,17 +37,17 @@ and exclusively uses subroutines, sequences, selection and iteration.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Structured_program_theorem](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structured_program_theorem.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structured_program_theorem|Structured_program_theorem]] 
 
-### #is_/same_as :: [Structured_program_theorem.public](/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structured_program_theorem.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structured_program_theorem.public|Structured_program_theorem.public]] 
 
-### #is_/same_as :: [Structured_program_theorem.internal](/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structured_program_theorem.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structured_program_theorem.internal|Structured_program_theorem.internal]] 
 
-### #is_/same_as :: [Structured_program_theorem.protect](/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structured_program_theorem.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structured_program_theorem.protect|Structured_program_theorem.protect]] 
 
-### #is_/same_as :: [Structured_program_theorem.private](/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structured_program_theorem.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structured_program_theorem.private|Structured_program_theorem.private]] 
 
-### #is_/same_as :: [Structured_program_theorem.personal](/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structured_program_theorem.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structured_program_theorem.personal|Structured_program_theorem.personal]] 
 
-### #is_/same_as :: [Structured_program_theorem.secret](/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structured_program_theorem.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structured_program_theorem.secret|Structured_program_theorem.secret]] 
 

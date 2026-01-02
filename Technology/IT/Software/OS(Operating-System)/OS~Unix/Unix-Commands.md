@@ -27,17 +27,17 @@ Useful to find out which Port an app is listening to.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Unix-Commands](/_Standards/Technology/IT/Software/OS(Operating-System)/OS~Unix/Unix-Commands.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Software/OS(Operating-System)/OS~Unix/Unix-Commands|Unix-Commands]] 
 
-### #is_/same_as :: [Unix-Commands.public](/_public/Technology/IT/Software/OS(Operating-System)/OS~Unix/Unix-Commands.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Software/OS(Operating-System)/OS~Unix/Unix-Commands.public|Unix-Commands.public]] 
 
-### #is_/same_as :: [Unix-Commands.internal](/_internal/Technology/IT/Software/OS(Operating-System)/OS~Unix/Unix-Commands.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Software/OS(Operating-System)/OS~Unix/Unix-Commands.internal|Unix-Commands.internal]] 
 
-### #is_/same_as :: [Unix-Commands.protect](/_protect/Technology/IT/Software/OS(Operating-System)/OS~Unix/Unix-Commands.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Software/OS(Operating-System)/OS~Unix/Unix-Commands.protect|Unix-Commands.protect]] 
 
-### #is_/same_as :: [Unix-Commands.private](/_private/Technology/IT/Software/OS(Operating-System)/OS~Unix/Unix-Commands.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Software/OS(Operating-System)/OS~Unix/Unix-Commands.private|Unix-Commands.private]] 
 
-### #is_/same_as :: [Unix-Commands.personal](/_personal/Technology/IT/Software/OS(Operating-System)/OS~Unix/Unix-Commands.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Software/OS(Operating-System)/OS~Unix/Unix-Commands.personal|Unix-Commands.personal]] 
 
-### #is_/same_as :: [Unix-Commands.secret](/_secret/Technology/IT/Software/OS(Operating-System)/OS~Unix/Unix-Commands.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Software/OS(Operating-System)/OS~Unix/Unix-Commands.secret|Unix-Commands.secret]] 
 

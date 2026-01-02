@@ -68,17 +68,17 @@ short_name: Oph
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Zodiac~Ophiuchus](/_Standards/Astronomy/Star~Constellation/Zodiac~Ophiuchus.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Star~Constellation/Zodiac~Ophiuchus|Zodiac~Ophiuchus]] 
 
-### #is_/same_as :: [Zodiac~Ophiuchus.public](/_public/Astronomy/Star~Constellation/Zodiac~Ophiuchus.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Star~Constellation/Zodiac~Ophiuchus.public|Zodiac~Ophiuchus.public]] 
 
-### #is_/same_as :: [Zodiac~Ophiuchus.internal](/_internal/Astronomy/Star~Constellation/Zodiac~Ophiuchus.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Star~Constellation/Zodiac~Ophiuchus.internal|Zodiac~Ophiuchus.internal]] 
 
-### #is_/same_as :: [Zodiac~Ophiuchus.protect](/_protect/Astronomy/Star~Constellation/Zodiac~Ophiuchus.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Star~Constellation/Zodiac~Ophiuchus.protect|Zodiac~Ophiuchus.protect]] 
 
-### #is_/same_as :: [Zodiac~Ophiuchus.private](/_private/Astronomy/Star~Constellation/Zodiac~Ophiuchus.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Star~Constellation/Zodiac~Ophiuchus.private|Zodiac~Ophiuchus.private]] 
 
-### #is_/same_as :: [Zodiac~Ophiuchus.personal](/_personal/Astronomy/Star~Constellation/Zodiac~Ophiuchus.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Star~Constellation/Zodiac~Ophiuchus.personal|Zodiac~Ophiuchus.personal]] 
 
-### #is_/same_as :: [Zodiac~Ophiuchus.secret](/_secret/Astronomy/Star~Constellation/Zodiac~Ophiuchus.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Star~Constellation/Zodiac~Ophiuchus.secret|Zodiac~Ophiuchus.secret]] 
 

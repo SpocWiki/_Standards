@@ -62,17 +62,17 @@ Iconclass_notation: 49E2511
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lens](/_Standards/Science/Physics/Wave/Optics/Lens.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Wave/Optics/Lens|Lens]] 
 
-### #is_/same_as :: [Lens.public](/_public/Science/Physics/Wave/Optics/Lens.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Wave/Optics/Lens.public|Lens.public]] 
 
-### #is_/same_as :: [Lens.internal](/_internal/Science/Physics/Wave/Optics/Lens.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Wave/Optics/Lens.internal|Lens.internal]] 
 
-### #is_/same_as :: [Lens.protect](/_protect/Science/Physics/Wave/Optics/Lens.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Wave/Optics/Lens.protect|Lens.protect]] 
 
-### #is_/same_as :: [Lens.private](/_private/Science/Physics/Wave/Optics/Lens.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Wave/Optics/Lens.private|Lens.private]] 
 
-### #is_/same_as :: [Lens.personal](/_personal/Science/Physics/Wave/Optics/Lens.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Wave/Optics/Lens.personal|Lens.personal]] 
 
-### #is_/same_as :: [Lens.secret](/_secret/Science/Physics/Wave/Optics/Lens.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Wave/Optics/Lens.secret|Lens.secret]] 
 

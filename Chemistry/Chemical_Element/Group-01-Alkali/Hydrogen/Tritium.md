@@ -79,17 +79,17 @@ Krugosvet_article: nauka_i_tehnika/himiya/TRITI.html
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Tritium](/_Standards/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Tritium.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Tritium|Tritium]] 
 
-### #is_/same_as :: [Tritium.public](/_public/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Tritium.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Tritium.public|Tritium.public]] 
 
-### #is_/same_as :: [Tritium.internal](/_internal/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Tritium.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Tritium.internal|Tritium.internal]] 
 
-### #is_/same_as :: [Tritium.protect](/_protect/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Tritium.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Tritium.protect|Tritium.protect]] 
 
-### #is_/same_as :: [Tritium.private](/_private/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Tritium.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Tritium.private|Tritium.private]] 
 
-### #is_/same_as :: [Tritium.personal](/_personal/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Tritium.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Tritium.personal|Tritium.personal]] 
 
-### #is_/same_as :: [Tritium.secret](/_secret/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Tritium.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Tritium.secret|Tritium.secret]] 
 

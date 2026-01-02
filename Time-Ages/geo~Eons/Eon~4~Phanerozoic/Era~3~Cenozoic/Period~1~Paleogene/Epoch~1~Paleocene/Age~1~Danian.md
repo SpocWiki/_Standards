@@ -64,17 +64,17 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Age~1~Danian](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene/Epoch~1~Paleocene/Age~1~Danian.md) 
+### #is_/same_as :: [[/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene/Epoch~1~Paleocene/Age~1~Danian|Age~1~Danian]] 
 
-### #is_/same_as :: [Age~1~Danian.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene/Epoch~1~Paleocene/Age~1~Danian.public.md) 
+### #is_/same_as :: [[/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene/Epoch~1~Paleocene/Age~1~Danian.public|Age~1~Danian.public]] 
 
-### #is_/same_as :: [Age~1~Danian.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene/Epoch~1~Paleocene/Age~1~Danian.internal.md) 
+### #is_/same_as :: [[/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene/Epoch~1~Paleocene/Age~1~Danian.internal|Age~1~Danian.internal]] 
 
-### #is_/same_as :: [Age~1~Danian.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene/Epoch~1~Paleocene/Age~1~Danian.protect.md) 
+### #is_/same_as :: [[/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene/Epoch~1~Paleocene/Age~1~Danian.protect|Age~1~Danian.protect]] 
 
-### #is_/same_as :: [Age~1~Danian.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene/Epoch~1~Paleocene/Age~1~Danian.private.md) 
+### #is_/same_as :: [[/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene/Epoch~1~Paleocene/Age~1~Danian.private|Age~1~Danian.private]] 
 
-### #is_/same_as :: [Age~1~Danian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene/Epoch~1~Paleocene/Age~1~Danian.personal.md) 
+### #is_/same_as :: [[/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene/Epoch~1~Paleocene/Age~1~Danian.personal|Age~1~Danian.personal]] 
 
-### #is_/same_as :: [Age~1~Danian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene/Epoch~1~Paleocene/Age~1~Danian.secret.md)
+### #is_/same_as :: [[/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene/Epoch~1~Paleocene/Age~1~Danian.secret|Age~1~Danian.secret]] 
 

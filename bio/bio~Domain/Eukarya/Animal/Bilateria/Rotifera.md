@@ -90,17 +90,17 @@ Copyright ::         © [BIODIDAC](http://biodidac.bio.uottawa.ca/index.htm)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Rotifera](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Rotifera.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Rotifera|Rotifera]] 
 
-### #is_/same_as :: [Rotifera.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Rotifera.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Rotifera.public|Rotifera.public]] 
 
-### #is_/same_as :: [Rotifera.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Rotifera.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Rotifera.internal|Rotifera.internal]] 
 
-### #is_/same_as :: [Rotifera.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Rotifera.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Rotifera.protect|Rotifera.protect]] 
 
-### #is_/same_as :: [Rotifera.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Rotifera.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Rotifera.private|Rotifera.private]] 
 
-### #is_/same_as :: [Rotifera.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Rotifera.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Rotifera.personal|Rotifera.personal]] 
 
-### #is_/same_as :: [Rotifera.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Rotifera.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Rotifera.secret|Rotifera.secret]] 
 

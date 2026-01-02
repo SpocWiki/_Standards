@@ -62,17 +62,17 @@ Commons_category: Semantics
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Semantics](/_Standards/Language/Linguistics/Semiotics/Semantics.md) 
+### #is_/same_as :: [[/_Standards/Language/Linguistics/Semiotics/Semantics|Semantics]] 
 
-### #is_/same_as :: [Semantics.public](/_public/Language/Linguistics/Semiotics/Semantics.public.md) 
+### #is_/same_as :: [[/_public/Language/Linguistics/Semiotics/Semantics.public|Semantics.public]] 
 
-### #is_/same_as :: [Semantics.internal](/_internal/Language/Linguistics/Semiotics/Semantics.internal.md) 
+### #is_/same_as :: [[/_internal/Language/Linguistics/Semiotics/Semantics.internal|Semantics.internal]] 
 
-### #is_/same_as :: [Semantics.protect](/_protect/Language/Linguistics/Semiotics/Semantics.protect.md) 
+### #is_/same_as :: [[/_protect/Language/Linguistics/Semiotics/Semantics.protect|Semantics.protect]] 
 
-### #is_/same_as :: [Semantics.private](/_private/Language/Linguistics/Semiotics/Semantics.private.md) 
+### #is_/same_as :: [[/_private/Language/Linguistics/Semiotics/Semantics.private|Semantics.private]] 
 
-### #is_/same_as :: [Semantics.personal](/_personal/Language/Linguistics/Semiotics/Semantics.personal.md) 
+### #is_/same_as :: [[/_personal/Language/Linguistics/Semiotics/Semantics.personal|Semantics.personal]] 
 
-### #is_/same_as :: [Semantics.secret](/_secret/Language/Linguistics/Semiotics/Semantics.secret.md)
+### #is_/same_as :: [[/_secret/Language/Linguistics/Semiotics/Semantics.secret|Semantics.secret]] 
 

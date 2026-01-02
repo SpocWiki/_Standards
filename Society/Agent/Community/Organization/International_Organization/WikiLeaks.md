@@ -70,17 +70,17 @@ inception: 2006-10-04T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [WikiLeaks](/_Standards/Society/Agent/Community/Organization/International_Organization/WikiLeaks.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/International_Organization/WikiLeaks|WikiLeaks]] 
 
-### #is_/same_as :: [WikiLeaks.public](/_public/Society/Agent/Community/Organization/International_Organization/WikiLeaks.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/International_Organization/WikiLeaks.public|WikiLeaks.public]] 
 
-### #is_/same_as :: [WikiLeaks.internal](/_internal/Society/Agent/Community/Organization/International_Organization/WikiLeaks.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/International_Organization/WikiLeaks.internal|WikiLeaks.internal]] 
 
-### #is_/same_as :: [WikiLeaks.protect](/_protect/Society/Agent/Community/Organization/International_Organization/WikiLeaks.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/International_Organization/WikiLeaks.protect|WikiLeaks.protect]] 
 
-### #is_/same_as :: [WikiLeaks.private](/_private/Society/Agent/Community/Organization/International_Organization/WikiLeaks.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/International_Organization/WikiLeaks.private|WikiLeaks.private]] 
 
-### #is_/same_as :: [WikiLeaks.personal](/_personal/Society/Agent/Community/Organization/International_Organization/WikiLeaks.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/International_Organization/WikiLeaks.personal|WikiLeaks.personal]] 
 
-### #is_/same_as :: [WikiLeaks.secret](/_secret/Society/Agent/Community/Organization/International_Organization/WikiLeaks.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/International_Organization/WikiLeaks.secret|WikiLeaks.secret]] 
 

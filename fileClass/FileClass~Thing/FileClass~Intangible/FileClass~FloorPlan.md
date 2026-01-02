@@ -165,17 +165,17 @@ PetsAllowed:: {"type":"Boolean","options":{}}
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~FloorPlan](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~FloorPlan.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~FloorPlan|FileClass~FloorPlan]] 
 
-### #is_/same_as :: [FileClass~FloorPlan.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~FloorPlan.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~FloorPlan.public|FileClass~FloorPlan.public]] 
 
-### #is_/same_as :: [FileClass~FloorPlan.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~FloorPlan.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~FloorPlan.internal|FileClass~FloorPlan.internal]] 
 
-### #is_/same_as :: [FileClass~FloorPlan.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~FloorPlan.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~FloorPlan.protect|FileClass~FloorPlan.protect]] 
 
-### #is_/same_as :: [FileClass~FloorPlan.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~FloorPlan.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~FloorPlan.private|FileClass~FloorPlan.private]] 
 
-### #is_/same_as :: [FileClass~FloorPlan.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~FloorPlan.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~FloorPlan.personal|FileClass~FloorPlan.personal]] 
 
-### #is_/same_as :: [FileClass~FloorPlan.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~FloorPlan.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~FloorPlan.secret|FileClass~FloorPlan.secret]] 
 

@@ -88,17 +88,17 @@ Krugosvet_article: Earth_sciences/geografiya/LIVINGSTON_DAVID.html
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Livingstone,David](/_Standards/Earth/Explorer/Modern_Explorer/Livingstone,David.md) 
+### #is_/same_as :: [[/_Standards/Earth/Explorer/Modern_Explorer/Livingstone,David|Livingstone,David]] 
 
-### #is_/same_as :: [Livingstone,David.public](/_public/Earth/Explorer/Modern_Explorer/Livingstone,David.public.md) 
+### #is_/same_as :: [[/_public/Earth/Explorer/Modern_Explorer/Livingstone,David.public|Livingstone,David.public]] 
 
-### #is_/same_as :: [Livingstone,David.internal](/_internal/Earth/Explorer/Modern_Explorer/Livingstone,David.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Explorer/Modern_Explorer/Livingstone,David.internal|Livingstone,David.internal]] 
 
-### #is_/same_as :: [Livingstone,David.protect](/_protect/Earth/Explorer/Modern_Explorer/Livingstone,David.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Explorer/Modern_Explorer/Livingstone,David.protect|Livingstone,David.protect]] 
 
-### #is_/same_as :: [Livingstone,David.private](/_private/Earth/Explorer/Modern_Explorer/Livingstone,David.private.md) 
+### #is_/same_as :: [[/_private/Earth/Explorer/Modern_Explorer/Livingstone,David.private|Livingstone,David.private]] 
 
-### #is_/same_as :: [Livingstone,David.personal](/_personal/Earth/Explorer/Modern_Explorer/Livingstone,David.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Explorer/Modern_Explorer/Livingstone,David.personal|Livingstone,David.personal]] 
 
-### #is_/same_as :: [Livingstone,David.secret](/_secret/Earth/Explorer/Modern_Explorer/Livingstone,David.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Explorer/Modern_Explorer/Livingstone,David.secret|Livingstone,David.secret]] 
 

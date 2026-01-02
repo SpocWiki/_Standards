@@ -37,17 +37,17 @@ A mosque.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~Mosque](/_Standards/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~PlaceOfWorship/FileClass~Mosque.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~PlaceOfWorship/FileClass~Mosque|FileClass~Mosque]] 
 
-### #is_/same_as :: [FileClass~Mosque.public](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~PlaceOfWorship/FileClass~Mosque.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~PlaceOfWorship/FileClass~Mosque.public|FileClass~Mosque.public]] 
 
-### #is_/same_as :: [FileClass~Mosque.internal](/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~PlaceOfWorship/FileClass~Mosque.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~PlaceOfWorship/FileClass~Mosque.internal|FileClass~Mosque.internal]] 
 
-### #is_/same_as :: [FileClass~Mosque.protect](/_protect/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~PlaceOfWorship/FileClass~Mosque.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~PlaceOfWorship/FileClass~Mosque.protect|FileClass~Mosque.protect]] 
 
-### #is_/same_as :: [FileClass~Mosque.private](/_private/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~PlaceOfWorship/FileClass~Mosque.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~PlaceOfWorship/FileClass~Mosque.private|FileClass~Mosque.private]] 
 
-### #is_/same_as :: [FileClass~Mosque.personal](/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~PlaceOfWorship/FileClass~Mosque.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~PlaceOfWorship/FileClass~Mosque.personal|FileClass~Mosque.personal]] 
 
-### #is_/same_as :: [FileClass~Mosque.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~PlaceOfWorship/FileClass~Mosque.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~PlaceOfWorship/FileClass~Mosque.secret|FileClass~Mosque.secret]] 
 

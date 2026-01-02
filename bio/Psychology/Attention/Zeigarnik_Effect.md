@@ -27,17 +27,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Zeigarnik_Effect](/_Standards/bio/Psychology/Attention/Zeigarnik_Effect.md) 
+### #is_/same_as :: [[/_Standards/bio/Psychology/Attention/Zeigarnik_Effect|Zeigarnik_Effect]] 
 
-### #is_/same_as :: [Zeigarnik_Effect.public](/_public/bio/Psychology/Attention/Zeigarnik_Effect.public.md) 
+### #is_/same_as :: [[/_public/bio/Psychology/Attention/Zeigarnik_Effect.public|Zeigarnik_Effect.public]] 
 
-### #is_/same_as :: [Zeigarnik_Effect.internal](/_internal/bio/Psychology/Attention/Zeigarnik_Effect.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Psychology/Attention/Zeigarnik_Effect.internal|Zeigarnik_Effect.internal]] 
 
-### #is_/same_as :: [Zeigarnik_Effect.protect](/_protect/bio/Psychology/Attention/Zeigarnik_Effect.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Psychology/Attention/Zeigarnik_Effect.protect|Zeigarnik_Effect.protect]] 
 
-### #is_/same_as :: [Zeigarnik_Effect.private](/_private/bio/Psychology/Attention/Zeigarnik_Effect.private.md) 
+### #is_/same_as :: [[/_private/bio/Psychology/Attention/Zeigarnik_Effect.private|Zeigarnik_Effect.private]] 
 
-### #is_/same_as :: [Zeigarnik_Effect.personal](/_personal/bio/Psychology/Attention/Zeigarnik_Effect.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Psychology/Attention/Zeigarnik_Effect.personal|Zeigarnik_Effect.personal]] 
 
-### #is_/same_as :: [Zeigarnik_Effect.secret](/_secret/bio/Psychology/Attention/Zeigarnik_Effect.secret.md)
+### #is_/same_as :: [[/_secret/bio/Psychology/Attention/Zeigarnik_Effect.secret|Zeigarnik_Effect.secret]] 
 

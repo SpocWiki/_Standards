@@ -77,17 +77,17 @@ defining_formula: "<math xmlns=\"http://www.w3.org/1998/Math/MathML\" display=\"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bernoulli_Principle](/_Standards/Science/Physics/Fluid_Mechanics/Fluid_Dynamics/Bernoulli_Principle.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Fluid_Mechanics/Fluid_Dynamics/Bernoulli_Principle|Bernoulli_Principle]] 
 
-### #is_/same_as :: [Bernoulli_Principle.public](/_public/Science/Physics/Fluid_Mechanics/Fluid_Dynamics/Bernoulli_Principle.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Fluid_Mechanics/Fluid_Dynamics/Bernoulli_Principle.public|Bernoulli_Principle.public]] 
 
-### #is_/same_as :: [Bernoulli_Principle.internal](/_internal/Science/Physics/Fluid_Mechanics/Fluid_Dynamics/Bernoulli_Principle.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Fluid_Mechanics/Fluid_Dynamics/Bernoulli_Principle.internal|Bernoulli_Principle.internal]] 
 
-### #is_/same_as :: [Bernoulli_Principle.protect](/_protect/Science/Physics/Fluid_Mechanics/Fluid_Dynamics/Bernoulli_Principle.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Fluid_Mechanics/Fluid_Dynamics/Bernoulli_Principle.protect|Bernoulli_Principle.protect]] 
 
-### #is_/same_as :: [Bernoulli_Principle.private](/_private/Science/Physics/Fluid_Mechanics/Fluid_Dynamics/Bernoulli_Principle.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Fluid_Mechanics/Fluid_Dynamics/Bernoulli_Principle.private|Bernoulli_Principle.private]] 
 
-### #is_/same_as :: [Bernoulli_Principle.personal](/_personal/Science/Physics/Fluid_Mechanics/Fluid_Dynamics/Bernoulli_Principle.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Fluid_Mechanics/Fluid_Dynamics/Bernoulli_Principle.personal|Bernoulli_Principle.personal]] 
 
-### #is_/same_as :: [Bernoulli_Principle.secret](/_secret/Science/Physics/Fluid_Mechanics/Fluid_Dynamics/Bernoulli_Principle.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Fluid_Mechanics/Fluid_Dynamics/Bernoulli_Principle.secret|Bernoulli_Principle.secret]] 
 

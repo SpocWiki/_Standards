@@ -76,17 +76,17 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Epoch~4~Pridoli](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~3~Silurian/Epoch~4~Pridoli.md) 
+### #is_/same_as :: [[/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~3~Silurian/Epoch~4~Pridoli|Epoch~4~Pridoli]] 
 
-### #is_/same_as :: [Epoch~4~Pridoli.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~3~Silurian/Epoch~4~Pridoli.public.md) 
+### #is_/same_as :: [[/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~3~Silurian/Epoch~4~Pridoli.public|Epoch~4~Pridoli.public]] 
 
-### #is_/same_as :: [Epoch~4~Pridoli.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~3~Silurian/Epoch~4~Pridoli.internal.md) 
+### #is_/same_as :: [[/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~3~Silurian/Epoch~4~Pridoli.internal|Epoch~4~Pridoli.internal]] 
 
-### #is_/same_as :: [Epoch~4~Pridoli.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~3~Silurian/Epoch~4~Pridoli.protect.md) 
+### #is_/same_as :: [[/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~3~Silurian/Epoch~4~Pridoli.protect|Epoch~4~Pridoli.protect]] 
 
-### #is_/same_as :: [Epoch~4~Pridoli.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~3~Silurian/Epoch~4~Pridoli.private.md) 
+### #is_/same_as :: [[/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~3~Silurian/Epoch~4~Pridoli.private|Epoch~4~Pridoli.private]] 
 
-### #is_/same_as :: [Epoch~4~Pridoli.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~3~Silurian/Epoch~4~Pridoli.personal.md) 
+### #is_/same_as :: [[/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~3~Silurian/Epoch~4~Pridoli.personal|Epoch~4~Pridoli.personal]] 
 
-### #is_/same_as :: [Epoch~4~Pridoli.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~3~Silurian/Epoch~4~Pridoli.secret.md)
+### #is_/same_as :: [[/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~3~Silurian/Epoch~4~Pridoli.secret|Epoch~4~Pridoli.secret]] 
 

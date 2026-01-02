@@ -54,17 +54,17 @@ Wikidata_SPARQL_query_equivalent: wd:Q163343 p:P2370/psn:P2370 [wikibase:quantit
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Unit~Tesla](/_Standards/Dimension/Dim~Magnetic_Flux_Density_B/Unit~Tesla.md) 
+### #is_/same_as :: [[/_Standards/Dimension/Dim~Magnetic_Flux/Dim~Magnetic_Flux_Density_B/Unit~Tesla|Unit~Tesla]] 
 
-### #is_/same_as :: [Unit~Tesla.public](/_public/Dimension/Dim~Magnetic_Flux_Density_B/Unit~Tesla.public.md) 
+### #is_/same_as :: [[/_public/Dimension/Dim~Magnetic_Flux/Dim~Magnetic_Flux_Density_B/Unit~Tesla.public|Unit~Tesla.public]] 
 
-### #is_/same_as :: [Unit~Tesla.internal](/_internal/Dimension/Dim~Magnetic_Flux_Density_B/Unit~Tesla.internal.md) 
+### #is_/same_as :: [[/_internal/Dimension/Dim~Magnetic_Flux/Dim~Magnetic_Flux_Density_B/Unit~Tesla.internal|Unit~Tesla.internal]] 
 
-### #is_/same_as :: [Unit~Tesla.protect](/_protect/Dimension/Dim~Magnetic_Flux_Density_B/Unit~Tesla.protect.md) 
+### #is_/same_as :: [[/_protect/Dimension/Dim~Magnetic_Flux/Dim~Magnetic_Flux_Density_B/Unit~Tesla.protect|Unit~Tesla.protect]] 
 
-### #is_/same_as :: [Unit~Tesla.private](/_private/Dimension/Dim~Magnetic_Flux_Density_B/Unit~Tesla.private.md) 
+### #is_/same_as :: [[/_private/Dimension/Dim~Magnetic_Flux/Dim~Magnetic_Flux_Density_B/Unit~Tesla.private|Unit~Tesla.private]] 
 
-### #is_/same_as :: [Unit~Tesla.personal](/_personal/Dimension/Dim~Magnetic_Flux_Density_B/Unit~Tesla.personal.md) 
+### #is_/same_as :: [[/_personal/Dimension/Dim~Magnetic_Flux/Dim~Magnetic_Flux_Density_B/Unit~Tesla.personal|Unit~Tesla.personal]] 
 
-### #is_/same_as :: [Unit~Tesla.secret](/_secret/Dimension/Dim~Magnetic_Flux_Density_B/Unit~Tesla.secret.md)
+### #is_/same_as :: [[/_secret/Dimension/Dim~Magnetic_Flux/Dim~Magnetic_Flux_Density_B/Unit~Tesla.secret|Unit~Tesla.secret]] 
 

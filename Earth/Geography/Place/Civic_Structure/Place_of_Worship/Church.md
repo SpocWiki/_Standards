@@ -173,17 +173,17 @@ A church.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Church](/_Standards/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Church.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Church|Church]] 
 
-### #is_/same_as :: [Church.public](/_public/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Church.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Church.public|Church.public]] 
 
-### #is_/same_as :: [Church.internal](/_internal/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Church.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Church.internal|Church.internal]] 
 
-### #is_/same_as :: [Church.protect](/_protect/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Church.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Church.protect|Church.protect]] 
 
-### #is_/same_as :: [Church.private](/_private/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Church.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Church.private|Church.private]] 
 
-### #is_/same_as :: [Church.personal](/_personal/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Church.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Church.personal|Church.personal]] 
 
-### #is_/same_as :: [Church.secret](/_secret/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Church.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Church.secret|Church.secret]] 
 

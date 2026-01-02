@@ -24,17 +24,17 @@ type: ElementGroup
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Group-02-Earth-Alkaline](/_Standards/Chemistry/Chemical_Element/Group-02-Earth-Alkaline.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Chemical_Element/Group-02-Earth-Alkaline|Group-02-Earth-Alkaline]] 
 
-### #is_/same_as :: [Group-02-Earth-Alkaline.public](/_public/Chemistry/Chemical_Element/Group-02-Earth-Alkaline.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Chemical_Element/Group-02-Earth-Alkaline.public|Group-02-Earth-Alkaline.public]] 
 
-### #is_/same_as :: [Group-02-Earth-Alkaline.internal](/_internal/Chemistry/Chemical_Element/Group-02-Earth-Alkaline.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Chemical_Element/Group-02-Earth-Alkaline.internal|Group-02-Earth-Alkaline.internal]] 
 
-### #is_/same_as :: [Group-02-Earth-Alkaline.protect](/_protect/Chemistry/Chemical_Element/Group-02-Earth-Alkaline.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Chemical_Element/Group-02-Earth-Alkaline.protect|Group-02-Earth-Alkaline.protect]] 
 
-### #is_/same_as :: [Group-02-Earth-Alkaline.private](/_private/Chemistry/Chemical_Element/Group-02-Earth-Alkaline.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Chemical_Element/Group-02-Earth-Alkaline.private|Group-02-Earth-Alkaline.private]] 
 
-### #is_/same_as :: [Group-02-Earth-Alkaline.personal](/_personal/Chemistry/Chemical_Element/Group-02-Earth-Alkaline.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Chemical_Element/Group-02-Earth-Alkaline.personal|Group-02-Earth-Alkaline.personal]] 
 
-### #is_/same_as :: [Group-02-Earth-Alkaline.secret](/_secret/Chemistry/Chemical_Element/Group-02-Earth-Alkaline.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Chemical_Element/Group-02-Earth-Alkaline.secret|Group-02-Earth-Alkaline.secret]] 
 

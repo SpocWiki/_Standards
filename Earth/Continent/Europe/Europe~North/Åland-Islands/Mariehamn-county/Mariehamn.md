@@ -40,17 +40,17 @@ markerFolder: ./Mariehamn/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Mariehamn](/_Standards/Earth/Continent/Europe/Europe~North/Åland-Islands/Mariehamn-county/Mariehamn.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Åland-Islands/Mariehamn-county/Mariehamn|Mariehamn]] 
 
-### #is_/same_as :: [Mariehamn.public](/_public/Earth/Continent/Europe/Europe~North/Åland-Islands/Mariehamn-county/Mariehamn.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Åland-Islands/Mariehamn-county/Mariehamn.public|Mariehamn.public]] 
 
-### #is_/same_as :: [Mariehamn.internal](/_internal/Earth/Continent/Europe/Europe~North/Åland-Islands/Mariehamn-county/Mariehamn.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Åland-Islands/Mariehamn-county/Mariehamn.internal|Mariehamn.internal]] 
 
-### #is_/same_as :: [Mariehamn.protect](/_protect/Earth/Continent/Europe/Europe~North/Åland-Islands/Mariehamn-county/Mariehamn.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Åland-Islands/Mariehamn-county/Mariehamn.protect|Mariehamn.protect]] 
 
-### #is_/same_as :: [Mariehamn.private](/_private/Earth/Continent/Europe/Europe~North/Åland-Islands/Mariehamn-county/Mariehamn.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Åland-Islands/Mariehamn-county/Mariehamn.private|Mariehamn.private]] 
 
-### #is_/same_as :: [Mariehamn.personal](/_personal/Earth/Continent/Europe/Europe~North/Åland-Islands/Mariehamn-county/Mariehamn.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Åland-Islands/Mariehamn-county/Mariehamn.personal|Mariehamn.personal]] 
 
-### #is_/same_as :: [Mariehamn.secret](/_secret/Earth/Continent/Europe/Europe~North/Åland-Islands/Mariehamn-county/Mariehamn.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Åland-Islands/Mariehamn-county/Mariehamn.secret|Mariehamn.secret]] 
 

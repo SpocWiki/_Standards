@@ -50,17 +50,17 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Soyuz%20TMA-7%20spacec
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Soyuz](/_Standards/Technology/Spaceflight/Soyuz.md) 
+### #is_/same_as :: [[/_Standards/Technology/Spaceflight/Soyuz|Soyuz]] 
 
-### #is_/same_as :: [Soyuz.public](/_public/Technology/Spaceflight/Soyuz.public.md) 
+### #is_/same_as :: [[/_public/Technology/Spaceflight/Soyuz.public|Soyuz.public]] 
 
-### #is_/same_as :: [Soyuz.internal](/_internal/Technology/Spaceflight/Soyuz.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Spaceflight/Soyuz.internal|Soyuz.internal]] 
 
-### #is_/same_as :: [Soyuz.protect](/_protect/Technology/Spaceflight/Soyuz.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Spaceflight/Soyuz.protect|Soyuz.protect]] 
 
-### #is_/same_as :: [Soyuz.private](/_private/Technology/Spaceflight/Soyuz.private.md) 
+### #is_/same_as :: [[/_private/Technology/Spaceflight/Soyuz.private|Soyuz.private]] 
 
-### #is_/same_as :: [Soyuz.personal](/_personal/Technology/Spaceflight/Soyuz.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Spaceflight/Soyuz.personal|Soyuz.personal]] 
 
-### #is_/same_as :: [Soyuz.secret](/_secret/Technology/Spaceflight/Soyuz.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Spaceflight/Soyuz.secret|Soyuz.secret]] 
 

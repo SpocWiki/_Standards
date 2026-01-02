@@ -35,17 +35,17 @@ Containing group:[Agaricomycetes](../Agaricomycetes.md)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Polyporales](/_Standards/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Agaricomycotina/Agaricomycetes/Polyporales.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Agaricomycotina/Agaricomycetes/Polyporales|Polyporales]] 
 
-### #is_/same_as :: [Polyporales.public](/_public/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Agaricomycotina/Agaricomycetes/Polyporales.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Agaricomycotina/Agaricomycetes/Polyporales.public|Polyporales.public]] 
 
-### #is_/same_as :: [Polyporales.internal](/_internal/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Agaricomycotina/Agaricomycetes/Polyporales.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Agaricomycotina/Agaricomycetes/Polyporales.internal|Polyporales.internal]] 
 
-### #is_/same_as :: [Polyporales.protect](/_protect/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Agaricomycotina/Agaricomycetes/Polyporales.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Agaricomycotina/Agaricomycetes/Polyporales.protect|Polyporales.protect]] 
 
-### #is_/same_as :: [Polyporales.private](/_private/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Agaricomycotina/Agaricomycetes/Polyporales.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Agaricomycotina/Agaricomycetes/Polyporales.private|Polyporales.private]] 
 
-### #is_/same_as :: [Polyporales.personal](/_personal/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Agaricomycotina/Agaricomycetes/Polyporales.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Agaricomycotina/Agaricomycetes/Polyporales.personal|Polyporales.personal]] 
 
-### #is_/same_as :: [Polyporales.secret](/_secret/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Agaricomycotina/Agaricomycetes/Polyporales.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Agaricomycotina/Agaricomycetes/Polyporales.secret|Polyporales.secret]] 
 

@@ -47,17 +47,17 @@ OpenStreetMap_tag: playground=trampoline
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Trampoline](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Gymnastics/Trampoline.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Gymnastics/Trampoline|Trampoline]] 
 
-### #is_/same_as :: [Trampoline.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Gymnastics/Trampoline.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Gymnastics/Trampoline.public|Trampoline.public]] 
 
-### #is_/same_as :: [Trampoline.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Gymnastics/Trampoline.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Gymnastics/Trampoline.internal|Trampoline.internal]] 
 
-### #is_/same_as :: [Trampoline.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Gymnastics/Trampoline.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Gymnastics/Trampoline.protect|Trampoline.protect]] 
 
-### #is_/same_as :: [Trampoline.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Gymnastics/Trampoline.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Gymnastics/Trampoline.private|Trampoline.private]] 
 
-### #is_/same_as :: [Trampoline.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Gymnastics/Trampoline.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Gymnastics/Trampoline.personal|Trampoline.personal]] 
 
-### #is_/same_as :: [Trampoline.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Gymnastics/Trampoline.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Gymnastics/Trampoline.secret|Trampoline.secret]] 
 

@@ -53,17 +53,17 @@ exact_match: http://purl.obolibrary.org/obo/ENVO_00000261
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Savanna](/_Standards/bio/Ecology/Ecosystem/Savanna.md) 
+### #is_/same_as :: [[/_Standards/bio/Ecology/Ecosystem/Savanna|Savanna]] 
 
-### #is_/same_as :: [Savanna.public](/_public/bio/Ecology/Ecosystem/Savanna.public.md) 
+### #is_/same_as :: [[/_public/bio/Ecology/Ecosystem/Savanna.public|Savanna.public]] 
 
-### #is_/same_as :: [Savanna.internal](/_internal/bio/Ecology/Ecosystem/Savanna.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Ecology/Ecosystem/Savanna.internal|Savanna.internal]] 
 
-### #is_/same_as :: [Savanna.protect](/_protect/bio/Ecology/Ecosystem/Savanna.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Ecology/Ecosystem/Savanna.protect|Savanna.protect]] 
 
-### #is_/same_as :: [Savanna.private](/_private/bio/Ecology/Ecosystem/Savanna.private.md) 
+### #is_/same_as :: [[/_private/bio/Ecology/Ecosystem/Savanna.private|Savanna.private]] 
 
-### #is_/same_as :: [Savanna.personal](/_personal/bio/Ecology/Ecosystem/Savanna.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Ecology/Ecosystem/Savanna.personal|Savanna.personal]] 
 
-### #is_/same_as :: [Savanna.secret](/_secret/bio/Ecology/Ecosystem/Savanna.secret.md)
+### #is_/same_as :: [[/_secret/bio/Ecology/Ecosystem/Savanna.secret|Savanna.secret]] 
 

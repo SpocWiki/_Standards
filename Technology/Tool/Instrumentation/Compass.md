@@ -62,17 +62,17 @@ Krugosvet_article: geografiya/kompas
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Compass](/_Standards/Technology/Tool/Instrumentation/Compass.md) 
+### #is_/same_as :: [[/_Standards/Technology/Tool/Instrumentation/Compass|Compass]] 
 
-### #is_/same_as :: [Compass.public](/_public/Technology/Tool/Instrumentation/Compass.public.md) 
+### #is_/same_as :: [[/_public/Technology/Tool/Instrumentation/Compass.public|Compass.public]] 
 
-### #is_/same_as :: [Compass.internal](/_internal/Technology/Tool/Instrumentation/Compass.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Tool/Instrumentation/Compass.internal|Compass.internal]] 
 
-### #is_/same_as :: [Compass.protect](/_protect/Technology/Tool/Instrumentation/Compass.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Tool/Instrumentation/Compass.protect|Compass.protect]] 
 
-### #is_/same_as :: [Compass.private](/_private/Technology/Tool/Instrumentation/Compass.private.md) 
+### #is_/same_as :: [[/_private/Technology/Tool/Instrumentation/Compass.private|Compass.private]] 
 
-### #is_/same_as :: [Compass.personal](/_personal/Technology/Tool/Instrumentation/Compass.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Tool/Instrumentation/Compass.personal|Compass.personal]] 
 
-### #is_/same_as :: [Compass.secret](/_secret/Technology/Tool/Instrumentation/Compass.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Tool/Instrumentation/Compass.secret|Compass.secret]] 
 

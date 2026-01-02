@@ -61,17 +61,17 @@ Baidu_Tieba_name: 化妆品
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Cosmetics](/_Standards/Technology/Tool/Clothing/Fashion/Cosmetics.md) 
+### #is_/same_as :: [[/_Standards/Technology/Tool/Clothing/Fashion/Cosmetics|Cosmetics]] 
 
-### #is_/same_as :: [Cosmetics.public](/_public/Technology/Tool/Clothing/Fashion/Cosmetics.public.md) 
+### #is_/same_as :: [[/_public/Technology/Tool/Clothing/Fashion/Cosmetics.public|Cosmetics.public]] 
 
-### #is_/same_as :: [Cosmetics.internal](/_internal/Technology/Tool/Clothing/Fashion/Cosmetics.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Tool/Clothing/Fashion/Cosmetics.internal|Cosmetics.internal]] 
 
-### #is_/same_as :: [Cosmetics.protect](/_protect/Technology/Tool/Clothing/Fashion/Cosmetics.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Tool/Clothing/Fashion/Cosmetics.protect|Cosmetics.protect]] 
 
-### #is_/same_as :: [Cosmetics.private](/_private/Technology/Tool/Clothing/Fashion/Cosmetics.private.md) 
+### #is_/same_as :: [[/_private/Technology/Tool/Clothing/Fashion/Cosmetics.private|Cosmetics.private]] 
 
-### #is_/same_as :: [Cosmetics.personal](/_personal/Technology/Tool/Clothing/Fashion/Cosmetics.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Tool/Clothing/Fashion/Cosmetics.personal|Cosmetics.personal]] 
 
-### #is_/same_as :: [Cosmetics.secret](/_secret/Technology/Tool/Clothing/Fashion/Cosmetics.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Tool/Clothing/Fashion/Cosmetics.secret|Cosmetics.secret]] 
 

@@ -189,17 +189,17 @@ writing_language: '[[_Standards/WikiData/WD~English,1860]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Kipling,Rudyard](/_Standards/Society/Communication/Media/Writing/Book/Writer/English_Writer/Kipling,Rudyard.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Writer/English_Writer/Kipling,Rudyard|Kipling,Rudyard]] 
 
-### #is_/same_as :: [Kipling,Rudyard.public](/_public/Society/Communication/Media/Writing/Book/Writer/English_Writer/Kipling,Rudyard.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Writer/English_Writer/Kipling,Rudyard.public|Kipling,Rudyard.public]] 
 
-### #is_/same_as :: [Kipling,Rudyard.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/English_Writer/Kipling,Rudyard.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Writer/English_Writer/Kipling,Rudyard.internal|Kipling,Rudyard.internal]] 
 
-### #is_/same_as :: [Kipling,Rudyard.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/English_Writer/Kipling,Rudyard.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Writer/English_Writer/Kipling,Rudyard.protect|Kipling,Rudyard.protect]] 
 
-### #is_/same_as :: [Kipling,Rudyard.private](/_private/Society/Communication/Media/Writing/Book/Writer/English_Writer/Kipling,Rudyard.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Writer/English_Writer/Kipling,Rudyard.private|Kipling,Rudyard.private]] 
 
-### #is_/same_as :: [Kipling,Rudyard.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/English_Writer/Kipling,Rudyard.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Writer/English_Writer/Kipling,Rudyard.personal|Kipling,Rudyard.personal]] 
 
-### #is_/same_as :: [Kipling,Rudyard.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/English_Writer/Kipling,Rudyard.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Writer/English_Writer/Kipling,Rudyard.secret|Kipling,Rudyard.secret]] 
 

@@ -118,17 +118,17 @@ Some theories beyond the Standard Model propose more scalar (spin-0) particles:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Schrödinger_Equation](/_Standards/Science/Physics/Quantum_Mechanics/Schrödinger_Equation.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Quantum_Mechanics/Schrödinger_Equation|Schrödinger_Equation]] 
 
-### #is_/same_as :: [Schrödinger_Equation.public](/_public/Science/Physics/Quantum_Mechanics/Schrödinger_Equation.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Quantum_Mechanics/Schrödinger_Equation.public|Schrödinger_Equation.public]] 
 
-### #is_/same_as :: [Schrödinger_Equation.internal](/_internal/Science/Physics/Quantum_Mechanics/Schrödinger_Equation.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Quantum_Mechanics/Schrödinger_Equation.internal|Schrödinger_Equation.internal]] 
 
-### #is_/same_as :: [Schrödinger_Equation.protect](/_protect/Science/Physics/Quantum_Mechanics/Schrödinger_Equation.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Quantum_Mechanics/Schrödinger_Equation.protect|Schrödinger_Equation.protect]] 
 
-### #is_/same_as :: [Schrödinger_Equation.private](/_private/Science/Physics/Quantum_Mechanics/Schrödinger_Equation.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Quantum_Mechanics/Schrödinger_Equation.private|Schrödinger_Equation.private]] 
 
-### #is_/same_as :: [Schrödinger_Equation.personal](/_personal/Science/Physics/Quantum_Mechanics/Schrödinger_Equation.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Quantum_Mechanics/Schrödinger_Equation.personal|Schrödinger_Equation.personal]] 
 
-### #is_/same_as :: [Schrödinger_Equation.secret](/_secret/Science/Physics/Quantum_Mechanics/Schrödinger_Equation.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Quantum_Mechanics/Schrödinger_Equation.secret|Schrödinger_Equation.secret]] 
 

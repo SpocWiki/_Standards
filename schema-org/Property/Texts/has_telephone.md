@@ -46,17 +46,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_telephone](/_Standards/schema-org/Property/Texts/has_telephone.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/Texts/has_telephone|has_telephone]] 
 
-### #is_/same_as :: [has_telephone.public](/_public/schema-org/Property/Texts/has_telephone.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/Texts/has_telephone.public|has_telephone.public]] 
 
-### #is_/same_as :: [has_telephone.internal](/_internal/schema-org/Property/Texts/has_telephone.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/Texts/has_telephone.internal|has_telephone.internal]] 
 
-### #is_/same_as :: [has_telephone.protect](/_protect/schema-org/Property/Texts/has_telephone.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/Texts/has_telephone.protect|has_telephone.protect]] 
 
-### #is_/same_as :: [has_telephone.private](/_private/schema-org/Property/Texts/has_telephone.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/Texts/has_telephone.private|has_telephone.private]] 
 
-### #is_/same_as :: [has_telephone.personal](/_personal/schema-org/Property/Texts/has_telephone.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/Texts/has_telephone.personal|has_telephone.personal]] 
 
-### #is_/same_as :: [has_telephone.secret](/_secret/schema-org/Property/Texts/has_telephone.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/Texts/has_telephone.secret|has_telephone.secret]] 
 

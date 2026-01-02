@@ -173,17 +173,17 @@ expiryDate: ''
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Mercury(Planet)](/_Standards/Astronomy/Solar_System/Mercury(Planet).md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Solar_System/Mercury(Planet)|Mercury(Planet)]] 
 
-### #is_/same_as :: [Mercury(Planet).public](/_public/Astronomy/Solar_System/Mercury(Planet).public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Solar_System/Mercury(Planet).public|Mercury(Planet).public]] 
 
-### #is_/same_as :: [Mercury(Planet).internal](/_internal/Astronomy/Solar_System/Mercury(Planet).internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Solar_System/Mercury(Planet).internal|Mercury(Planet).internal]] 
 
-### #is_/same_as :: [Mercury(Planet).protect](/_protect/Astronomy/Solar_System/Mercury(Planet).protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Solar_System/Mercury(Planet).protect|Mercury(Planet).protect]] 
 
-### #is_/same_as :: [Mercury(Planet).private](/_private/Astronomy/Solar_System/Mercury(Planet).private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Solar_System/Mercury(Planet).private|Mercury(Planet).private]] 
 
-### #is_/same_as :: [Mercury(Planet).personal](/_personal/Astronomy/Solar_System/Mercury(Planet).personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Solar_System/Mercury(Planet).personal|Mercury(Planet).personal]] 
 
-### #is_/same_as :: [Mercury(Planet).secret](/_secret/Astronomy/Solar_System/Mercury(Planet).secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Solar_System/Mercury(Planet).secret|Mercury(Planet).secret]] 
 

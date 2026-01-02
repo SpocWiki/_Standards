@@ -41,17 +41,17 @@ A cafe or coffee shop.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Cafe_or_Coffee_Shop](/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Food_Establishment/Cafe_or_Coffee_Shop.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Food_Establishment/Cafe_or_Coffee_Shop|Cafe_or_Coffee_Shop]] 
 
-### #is_/same_as :: [Cafe_or_Coffee_Shop.public](/_public/Society/Agent/Community/Organization/Business/Local_Business/Food_Establishment/Cafe_or_Coffee_Shop.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Business/Local_Business/Food_Establishment/Cafe_or_Coffee_Shop.public|Cafe_or_Coffee_Shop.public]] 
 
-### #is_/same_as :: [Cafe_or_Coffee_Shop.internal](/_internal/Society/Agent/Community/Organization/Business/Local_Business/Food_Establishment/Cafe_or_Coffee_Shop.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Business/Local_Business/Food_Establishment/Cafe_or_Coffee_Shop.internal|Cafe_or_Coffee_Shop.internal]] 
 
-### #is_/same_as :: [Cafe_or_Coffee_Shop.protect](/_protect/Society/Agent/Community/Organization/Business/Local_Business/Food_Establishment/Cafe_or_Coffee_Shop.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Business/Local_Business/Food_Establishment/Cafe_or_Coffee_Shop.protect|Cafe_or_Coffee_Shop.protect]] 
 
-### #is_/same_as :: [Cafe_or_Coffee_Shop.private](/_private/Society/Agent/Community/Organization/Business/Local_Business/Food_Establishment/Cafe_or_Coffee_Shop.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Business/Local_Business/Food_Establishment/Cafe_or_Coffee_Shop.private|Cafe_or_Coffee_Shop.private]] 
 
-### #is_/same_as :: [Cafe_or_Coffee_Shop.personal](/_personal/Society/Agent/Community/Organization/Business/Local_Business/Food_Establishment/Cafe_or_Coffee_Shop.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Business/Local_Business/Food_Establishment/Cafe_or_Coffee_Shop.personal|Cafe_or_Coffee_Shop.personal]] 
 
-### #is_/same_as :: [Cafe_or_Coffee_Shop.secret](/_secret/Society/Agent/Community/Organization/Business/Local_Business/Food_Establishment/Cafe_or_Coffee_Shop.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Business/Local_Business/Food_Establishment/Cafe_or_Coffee_Shop.secret|Cafe_or_Coffee_Shop.secret]] 
 

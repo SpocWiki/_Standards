@@ -128,17 +128,17 @@ native_label:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lang-zh-wuu](/_Standards/Language/Language_Family/LangFamily-Sino-Tibetan/LangFamily-Sinitic/Lang-zh-wuu.md) 
+### #is_/same_as :: [[/_Standards/Language/Language_Family/LangFamily-Sino-Tibetan/LangFamily-Sinitic/Lang-zh-wuu|Lang-zh-wuu]] 
 
-### #is_/same_as :: [Lang-zh-wuu.public](/_public/Language/Language_Family/LangFamily-Sino-Tibetan/LangFamily-Sinitic/Lang-zh-wuu.public.md) 
+### #is_/same_as :: [[/_public/Language/Language_Family/LangFamily-Sino-Tibetan/LangFamily-Sinitic/Lang-zh-wuu.public|Lang-zh-wuu.public]] 
 
-### #is_/same_as :: [Lang-zh-wuu.internal](/_internal/Language/Language_Family/LangFamily-Sino-Tibetan/LangFamily-Sinitic/Lang-zh-wuu.internal.md) 
+### #is_/same_as :: [[/_internal/Language/Language_Family/LangFamily-Sino-Tibetan/LangFamily-Sinitic/Lang-zh-wuu.internal|Lang-zh-wuu.internal]] 
 
-### #is_/same_as :: [Lang-zh-wuu.protect](/_protect/Language/Language_Family/LangFamily-Sino-Tibetan/LangFamily-Sinitic/Lang-zh-wuu.protect.md) 
+### #is_/same_as :: [[/_protect/Language/Language_Family/LangFamily-Sino-Tibetan/LangFamily-Sinitic/Lang-zh-wuu.protect|Lang-zh-wuu.protect]] 
 
-### #is_/same_as :: [Lang-zh-wuu.private](/_private/Language/Language_Family/LangFamily-Sino-Tibetan/LangFamily-Sinitic/Lang-zh-wuu.private.md) 
+### #is_/same_as :: [[/_private/Language/Language_Family/LangFamily-Sino-Tibetan/LangFamily-Sinitic/Lang-zh-wuu.private|Lang-zh-wuu.private]] 
 
-### #is_/same_as :: [Lang-zh-wuu.personal](/_personal/Language/Language_Family/LangFamily-Sino-Tibetan/LangFamily-Sinitic/Lang-zh-wuu.personal.md) 
+### #is_/same_as :: [[/_personal/Language/Language_Family/LangFamily-Sino-Tibetan/LangFamily-Sinitic/Lang-zh-wuu.personal|Lang-zh-wuu.personal]] 
 
-### #is_/same_as :: [Lang-zh-wuu.secret](/_secret/Language/Language_Family/LangFamily-Sino-Tibetan/LangFamily-Sinitic/Lang-zh-wuu.secret.md)
+### #is_/same_as :: [[/_secret/Language/Language_Family/LangFamily-Sino-Tibetan/LangFamily-Sinitic/Lang-zh-wuu.secret|Lang-zh-wuu.secret]] 
 

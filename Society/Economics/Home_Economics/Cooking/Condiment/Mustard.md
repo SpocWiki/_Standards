@@ -61,17 +61,17 @@ USDA_NDB_number: 02046
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Mustard](/_Standards/Society/Economics/Home_Economics/Cooking/Condiment/Mustard.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Home_Economics/Cooking/Condiment/Mustard|Mustard]] 
 
-### #is_/same_as :: [Mustard.public](/_public/Society/Economics/Home_Economics/Cooking/Condiment/Mustard.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Home_Economics/Cooking/Condiment/Mustard.public|Mustard.public]] 
 
-### #is_/same_as :: [Mustard.internal](/_internal/Society/Economics/Home_Economics/Cooking/Condiment/Mustard.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Home_Economics/Cooking/Condiment/Mustard.internal|Mustard.internal]] 
 
-### #is_/same_as :: [Mustard.protect](/_protect/Society/Economics/Home_Economics/Cooking/Condiment/Mustard.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Home_Economics/Cooking/Condiment/Mustard.protect|Mustard.protect]] 
 
-### #is_/same_as :: [Mustard.private](/_private/Society/Economics/Home_Economics/Cooking/Condiment/Mustard.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Home_Economics/Cooking/Condiment/Mustard.private|Mustard.private]] 
 
-### #is_/same_as :: [Mustard.personal](/_personal/Society/Economics/Home_Economics/Cooking/Condiment/Mustard.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Home_Economics/Cooking/Condiment/Mustard.personal|Mustard.personal]] 
 
-### #is_/same_as :: [Mustard.secret](/_secret/Society/Economics/Home_Economics/Cooking/Condiment/Mustard.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Home_Economics/Cooking/Condiment/Mustard.secret|Mustard.secret]] 
 

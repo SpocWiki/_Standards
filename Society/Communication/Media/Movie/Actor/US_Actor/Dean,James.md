@@ -99,17 +99,17 @@ birth_name: James Byron Dean
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Dean,James](/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Dean,James.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Dean,James|Dean,James]] 
 
-### #is_/same_as :: [Dean,James.public](/_public/Society/Communication/Media/Movie/Actor/US_Actor/Dean,James.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Actor/US_Actor/Dean,James.public|Dean,James.public]] 
 
-### #is_/same_as :: [Dean,James.internal](/_internal/Society/Communication/Media/Movie/Actor/US_Actor/Dean,James.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Actor/US_Actor/Dean,James.internal|Dean,James.internal]] 
 
-### #is_/same_as :: [Dean,James.protect](/_protect/Society/Communication/Media/Movie/Actor/US_Actor/Dean,James.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Actor/US_Actor/Dean,James.protect|Dean,James.protect]] 
 
-### #is_/same_as :: [Dean,James.private](/_private/Society/Communication/Media/Movie/Actor/US_Actor/Dean,James.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Actor/US_Actor/Dean,James.private|Dean,James.private]] 
 
-### #is_/same_as :: [Dean,James.personal](/_personal/Society/Communication/Media/Movie/Actor/US_Actor/Dean,James.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Actor/US_Actor/Dean,James.personal|Dean,James.personal]] 
 
-### #is_/same_as :: [Dean,James.secret](/_secret/Society/Communication/Media/Movie/Actor/US_Actor/Dean,James.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Actor/US_Actor/Dean,James.secret|Dean,James.secret]] 
 

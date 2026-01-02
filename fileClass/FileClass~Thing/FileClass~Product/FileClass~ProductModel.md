@@ -59,17 +59,17 @@ SuccessorOf:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/T
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~ProductModel](/_Standards/fileClass/FileClass~Thing/FileClass~Product/FileClass~ProductModel.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Product/FileClass~ProductModel|FileClass~ProductModel]] 
 
-### #is_/same_as :: [FileClass~ProductModel.public](/_public/fileClass/FileClass~Thing/FileClass~Product/FileClass~ProductModel.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Product/FileClass~ProductModel.public|FileClass~ProductModel.public]] 
 
-### #is_/same_as :: [FileClass~ProductModel.internal](/_internal/fileClass/FileClass~Thing/FileClass~Product/FileClass~ProductModel.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Product/FileClass~ProductModel.internal|FileClass~ProductModel.internal]] 
 
-### #is_/same_as :: [FileClass~ProductModel.protect](/_protect/fileClass/FileClass~Thing/FileClass~Product/FileClass~ProductModel.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Product/FileClass~ProductModel.protect|FileClass~ProductModel.protect]] 
 
-### #is_/same_as :: [FileClass~ProductModel.private](/_private/fileClass/FileClass~Thing/FileClass~Product/FileClass~ProductModel.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Product/FileClass~ProductModel.private|FileClass~ProductModel.private]] 
 
-### #is_/same_as :: [FileClass~ProductModel.personal](/_personal/fileClass/FileClass~Thing/FileClass~Product/FileClass~ProductModel.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Product/FileClass~ProductModel.personal|FileClass~ProductModel.personal]] 
 
-### #is_/same_as :: [FileClass~ProductModel.secret](/_secret/fileClass/FileClass~Thing/FileClass~Product/FileClass~ProductModel.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Product/FileClass~ProductModel.secret|FileClass~ProductModel.secret]] 
 

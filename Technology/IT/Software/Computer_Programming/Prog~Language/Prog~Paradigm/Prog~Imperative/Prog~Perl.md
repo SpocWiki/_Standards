@@ -21,17 +21,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Prog~Perl](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Imperative/Prog~Perl.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Imperative/Prog~Perl|Prog~Perl]] 
 
-### #is_/same_as :: [Prog~Perl.public](/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Imperative/Prog~Perl.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Imperative/Prog~Perl.public|Prog~Perl.public]] 
 
-### #is_/same_as :: [Prog~Perl.internal](/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Imperative/Prog~Perl.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Imperative/Prog~Perl.internal|Prog~Perl.internal]] 
 
-### #is_/same_as :: [Prog~Perl.protect](/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Imperative/Prog~Perl.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Imperative/Prog~Perl.protect|Prog~Perl.protect]] 
 
-### #is_/same_as :: [Prog~Perl.private](/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Imperative/Prog~Perl.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Imperative/Prog~Perl.private|Prog~Perl.private]] 
 
-### #is_/same_as :: [Prog~Perl.personal](/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Imperative/Prog~Perl.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Imperative/Prog~Perl.personal|Prog~Perl.personal]] 
 
-### #is_/same_as :: [Prog~Perl.secret](/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Imperative/Prog~Perl.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Imperative/Prog~Perl.secret|Prog~Perl.secret]] 
 

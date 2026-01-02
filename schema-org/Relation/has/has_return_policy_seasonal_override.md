@@ -46,17 +46,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_return_policy_seasonal_override](/_Standards/schema-org/Relation/has/has_return_policy_seasonal_override.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_return_policy_seasonal_override|has_return_policy_seasonal_override]] 
 
-### #is_/same_as :: [has_return_policy_seasonal_override.public](/_public/schema-org/Relation/has/has_return_policy_seasonal_override.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_return_policy_seasonal_override.public|has_return_policy_seasonal_override.public]] 
 
-### #is_/same_as :: [has_return_policy_seasonal_override.internal](/_internal/schema-org/Relation/has/has_return_policy_seasonal_override.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_return_policy_seasonal_override.internal|has_return_policy_seasonal_override.internal]] 
 
-### #is_/same_as :: [has_return_policy_seasonal_override.protect](/_protect/schema-org/Relation/has/has_return_policy_seasonal_override.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_return_policy_seasonal_override.protect|has_return_policy_seasonal_override.protect]] 
 
-### #is_/same_as :: [has_return_policy_seasonal_override.private](/_private/schema-org/Relation/has/has_return_policy_seasonal_override.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_return_policy_seasonal_override.private|has_return_policy_seasonal_override.private]] 
 
-### #is_/same_as :: [has_return_policy_seasonal_override.personal](/_personal/schema-org/Relation/has/has_return_policy_seasonal_override.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_return_policy_seasonal_override.personal|has_return_policy_seasonal_override.personal]] 
 
-### #is_/same_as :: [has_return_policy_seasonal_override.secret](/_secret/schema-org/Relation/has/has_return_policy_seasonal_override.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_return_policy_seasonal_override.secret|has_return_policy_seasonal_override.secret]] 
 

@@ -117,17 +117,17 @@ ISNI: 0000000120957940
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Montesquieu](/_Standards/Philosophy/Philosopher/Early_modern_Philosopher/Montesquieu.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Philosopher/Early_modern_Philosopher/Montesquieu|Montesquieu]] 
 
-### #is_/same_as :: [Montesquieu.public](/_public/Philosophy/Philosopher/Early_modern_Philosopher/Montesquieu.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Philosopher/Early_modern_Philosopher/Montesquieu.public|Montesquieu.public]] 
 
-### #is_/same_as :: [Montesquieu.internal](/_internal/Philosophy/Philosopher/Early_modern_Philosopher/Montesquieu.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Philosopher/Early_modern_Philosopher/Montesquieu.internal|Montesquieu.internal]] 
 
-### #is_/same_as :: [Montesquieu.protect](/_protect/Philosophy/Philosopher/Early_modern_Philosopher/Montesquieu.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Philosopher/Early_modern_Philosopher/Montesquieu.protect|Montesquieu.protect]] 
 
-### #is_/same_as :: [Montesquieu.private](/_private/Philosophy/Philosopher/Early_modern_Philosopher/Montesquieu.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Philosopher/Early_modern_Philosopher/Montesquieu.private|Montesquieu.private]] 
 
-### #is_/same_as :: [Montesquieu.personal](/_personal/Philosophy/Philosopher/Early_modern_Philosopher/Montesquieu.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Philosopher/Early_modern_Philosopher/Montesquieu.personal|Montesquieu.personal]] 
 
-### #is_/same_as :: [Montesquieu.secret](/_secret/Philosophy/Philosopher/Early_modern_Philosopher/Montesquieu.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Philosopher/Early_modern_Philosopher/Montesquieu.secret|Montesquieu.secret]] 
 

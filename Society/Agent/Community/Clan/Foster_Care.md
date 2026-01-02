@@ -56,17 +56,17 @@ MeSH_tree_code:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Foster_Care](/_Standards/Society/Agent/Community/Clan/Foster_Care.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Clan/Foster_Care|Foster_Care]] 
 
-### #is_/same_as :: [Foster_Care.public](/_public/Society/Agent/Community/Clan/Foster_Care.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Clan/Foster_Care.public|Foster_Care.public]] 
 
-### #is_/same_as :: [Foster_Care.internal](/_internal/Society/Agent/Community/Clan/Foster_Care.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Clan/Foster_Care.internal|Foster_Care.internal]] 
 
-### #is_/same_as :: [Foster_Care.protect](/_protect/Society/Agent/Community/Clan/Foster_Care.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Clan/Foster_Care.protect|Foster_Care.protect]] 
 
-### #is_/same_as :: [Foster_Care.private](/_private/Society/Agent/Community/Clan/Foster_Care.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Clan/Foster_Care.private|Foster_Care.private]] 
 
-### #is_/same_as :: [Foster_Care.personal](/_personal/Society/Agent/Community/Clan/Foster_Care.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Clan/Foster_Care.personal|Foster_Care.personal]] 
 
-### #is_/same_as :: [Foster_Care.secret](/_secret/Society/Agent/Community/Clan/Foster_Care.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Clan/Foster_Care.secret|Foster_Care.secret]] 
 

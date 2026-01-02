@@ -48,17 +48,17 @@ image_of_grave: http://commons.wikimedia.org/wiki/Special:FilePath/Samuel%20Crom
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Crompton,Samuel](/_Standards/Science/Inventor/Crompton,Samuel.md) 
+### #is_/same_as :: [[/_Standards/Science/Inventor/Crompton,Samuel|Crompton,Samuel]] 
 
-### #is_/same_as :: [Crompton,Samuel.public](/_public/Science/Inventor/Crompton,Samuel.public.md) 
+### #is_/same_as :: [[/_public/Science/Inventor/Crompton,Samuel.public|Crompton,Samuel.public]] 
 
-### #is_/same_as :: [Crompton,Samuel.internal](/_internal/Science/Inventor/Crompton,Samuel.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Inventor/Crompton,Samuel.internal|Crompton,Samuel.internal]] 
 
-### #is_/same_as :: [Crompton,Samuel.protect](/_protect/Science/Inventor/Crompton,Samuel.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Inventor/Crompton,Samuel.protect|Crompton,Samuel.protect]] 
 
-### #is_/same_as :: [Crompton,Samuel.private](/_private/Science/Inventor/Crompton,Samuel.private.md) 
+### #is_/same_as :: [[/_private/Science/Inventor/Crompton,Samuel.private|Crompton,Samuel.private]] 
 
-### #is_/same_as :: [Crompton,Samuel.personal](/_personal/Science/Inventor/Crompton,Samuel.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Inventor/Crompton,Samuel.personal|Crompton,Samuel.personal]] 
 
-### #is_/same_as :: [Crompton,Samuel.secret](/_secret/Science/Inventor/Crompton,Samuel.secret.md)
+### #is_/same_as :: [[/_secret/Science/Inventor/Crompton,Samuel.secret|Crompton,Samuel.secret]] 
 

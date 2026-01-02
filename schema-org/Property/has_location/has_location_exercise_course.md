@@ -46,17 +46,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_location_exercise_course](/_Standards/schema-org/Property/has_location/has_location_exercise_course.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_location/has_location_exercise_course|has_location_exercise_course]] 
 
-### #is_/same_as :: [has_location_exercise_course.public](/_public/schema-org/Property/has_location/has_location_exercise_course.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/has_location/has_location_exercise_course.public|has_location_exercise_course.public]] 
 
-### #is_/same_as :: [has_location_exercise_course.internal](/_internal/schema-org/Property/has_location/has_location_exercise_course.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_location/has_location_exercise_course.internal|has_location_exercise_course.internal]] 
 
-### #is_/same_as :: [has_location_exercise_course.protect](/_protect/schema-org/Property/has_location/has_location_exercise_course.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_location/has_location_exercise_course.protect|has_location_exercise_course.protect]] 
 
-### #is_/same_as :: [has_location_exercise_course.private](/_private/schema-org/Property/has_location/has_location_exercise_course.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/has_location/has_location_exercise_course.private|has_location_exercise_course.private]] 
 
-### #is_/same_as :: [has_location_exercise_course.personal](/_personal/schema-org/Property/has_location/has_location_exercise_course.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_location/has_location_exercise_course.personal|has_location_exercise_course.personal]] 
 
-### #is_/same_as :: [has_location_exercise_course.secret](/_secret/schema-org/Property/has_location/has_location_exercise_course.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/has_location/has_location_exercise_course.secret|has_location_exercise_course.secret]] 
 

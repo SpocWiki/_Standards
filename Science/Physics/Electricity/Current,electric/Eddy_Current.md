@@ -47,17 +47,17 @@ Commons_category: Eddy currents
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Eddy_Current](/_Standards/Science/Physics/Electricity/Current,electric/Eddy_Current.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Electricity/Current,electric/Eddy_Current|Eddy_Current]] 
 
-### #is_/same_as :: [Eddy_Current.public](/_public/Science/Physics/Electricity/Current,electric/Eddy_Current.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Electricity/Current,electric/Eddy_Current.public|Eddy_Current.public]] 
 
-### #is_/same_as :: [Eddy_Current.internal](/_internal/Science/Physics/Electricity/Current,electric/Eddy_Current.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Electricity/Current,electric/Eddy_Current.internal|Eddy_Current.internal]] 
 
-### #is_/same_as :: [Eddy_Current.protect](/_protect/Science/Physics/Electricity/Current,electric/Eddy_Current.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Electricity/Current,electric/Eddy_Current.protect|Eddy_Current.protect]] 
 
-### #is_/same_as :: [Eddy_Current.private](/_private/Science/Physics/Electricity/Current,electric/Eddy_Current.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Electricity/Current,electric/Eddy_Current.private|Eddy_Current.private]] 
 
-### #is_/same_as :: [Eddy_Current.personal](/_personal/Science/Physics/Electricity/Current,electric/Eddy_Current.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Electricity/Current,electric/Eddy_Current.personal|Eddy_Current.personal]] 
 
-### #is_/same_as :: [Eddy_Current.secret](/_secret/Science/Physics/Electricity/Current,electric/Eddy_Current.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Electricity/Current,electric/Eddy_Current.secret|Eddy_Current.secret]] 
 

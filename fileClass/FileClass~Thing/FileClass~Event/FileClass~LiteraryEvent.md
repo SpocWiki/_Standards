@@ -37,17 +37,17 @@ Event type: Literary event.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~LiteraryEvent](/_Standards/fileClass/FileClass~Thing/FileClass~Event/FileClass~LiteraryEvent.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Event/FileClass~LiteraryEvent|FileClass~LiteraryEvent]] 
 
-### #is_/same_as :: [FileClass~LiteraryEvent.public](/_public/fileClass/FileClass~Thing/FileClass~Event/FileClass~LiteraryEvent.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Event/FileClass~LiteraryEvent.public|FileClass~LiteraryEvent.public]] 
 
-### #is_/same_as :: [FileClass~LiteraryEvent.internal](/_internal/fileClass/FileClass~Thing/FileClass~Event/FileClass~LiteraryEvent.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Event/FileClass~LiteraryEvent.internal|FileClass~LiteraryEvent.internal]] 
 
-### #is_/same_as :: [FileClass~LiteraryEvent.protect](/_protect/fileClass/FileClass~Thing/FileClass~Event/FileClass~LiteraryEvent.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Event/FileClass~LiteraryEvent.protect|FileClass~LiteraryEvent.protect]] 
 
-### #is_/same_as :: [FileClass~LiteraryEvent.private](/_private/fileClass/FileClass~Thing/FileClass~Event/FileClass~LiteraryEvent.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Event/FileClass~LiteraryEvent.private|FileClass~LiteraryEvent.private]] 
 
-### #is_/same_as :: [FileClass~LiteraryEvent.personal](/_personal/fileClass/FileClass~Thing/FileClass~Event/FileClass~LiteraryEvent.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Event/FileClass~LiteraryEvent.personal|FileClass~LiteraryEvent.personal]] 
 
-### #is_/same_as :: [FileClass~LiteraryEvent.secret](/_secret/fileClass/FileClass~Thing/FileClass~Event/FileClass~LiteraryEvent.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Event/FileClass~LiteraryEvent.secret|FileClass~LiteraryEvent.secret]] 
 

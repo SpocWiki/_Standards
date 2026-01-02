@@ -40,17 +40,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Elasmobranchii](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Chondrichthyes/Elasmobranchii.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Chondrichthyes/Elasmobranchii|Elasmobranchii]] 
 
-### #is_/same_as :: [Elasmobranchii.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Chondrichthyes/Elasmobranchii.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Chondrichthyes/Elasmobranchii.public|Elasmobranchii.public]] 
 
-### #is_/same_as :: [Elasmobranchii.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Chondrichthyes/Elasmobranchii.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Chondrichthyes/Elasmobranchii.internal|Elasmobranchii.internal]] 
 
-### #is_/same_as :: [Elasmobranchii.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Chondrichthyes/Elasmobranchii.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Chondrichthyes/Elasmobranchii.protect|Elasmobranchii.protect]] 
 
-### #is_/same_as :: [Elasmobranchii.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Chondrichthyes/Elasmobranchii.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Chondrichthyes/Elasmobranchii.private|Elasmobranchii.private]] 
 
-### #is_/same_as :: [Elasmobranchii.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Chondrichthyes/Elasmobranchii.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Chondrichthyes/Elasmobranchii.personal|Elasmobranchii.personal]] 
 
-### #is_/same_as :: [Elasmobranchii.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Chondrichthyes/Elasmobranchii.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Chondrichthyes/Elasmobranchii.secret|Elasmobranchii.secret]] 
 

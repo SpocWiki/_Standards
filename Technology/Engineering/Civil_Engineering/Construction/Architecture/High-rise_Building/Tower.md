@@ -64,17 +64,17 @@ topic_s_main_template: '[[_Standards/WikiData/WD~Q22845830,22845830]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Tower](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Architecture/High-rise_Building/Tower.md) 
+### #is_/same_as :: [[/_Standards/Technology/Engineering/Civil_Engineering/Construction/Architecture/High-rise_Building/Tower|Tower]] 
 
-### #is_/same_as :: [Tower.public](/_public/Technology/Engineering/Civil_Engineering/Construction/Architecture/High-rise_Building/Tower.public.md) 
+### #is_/same_as :: [[/_public/Technology/Engineering/Civil_Engineering/Construction/Architecture/High-rise_Building/Tower.public|Tower.public]] 
 
-### #is_/same_as :: [Tower.internal](/_internal/Technology/Engineering/Civil_Engineering/Construction/Architecture/High-rise_Building/Tower.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Engineering/Civil_Engineering/Construction/Architecture/High-rise_Building/Tower.internal|Tower.internal]] 
 
-### #is_/same_as :: [Tower.protect](/_protect/Technology/Engineering/Civil_Engineering/Construction/Architecture/High-rise_Building/Tower.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Engineering/Civil_Engineering/Construction/Architecture/High-rise_Building/Tower.protect|Tower.protect]] 
 
-### #is_/same_as :: [Tower.private](/_private/Technology/Engineering/Civil_Engineering/Construction/Architecture/High-rise_Building/Tower.private.md) 
+### #is_/same_as :: [[/_private/Technology/Engineering/Civil_Engineering/Construction/Architecture/High-rise_Building/Tower.private|Tower.private]] 
 
-### #is_/same_as :: [Tower.personal](/_personal/Technology/Engineering/Civil_Engineering/Construction/Architecture/High-rise_Building/Tower.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Engineering/Civil_Engineering/Construction/Architecture/High-rise_Building/Tower.personal|Tower.personal]] 
 
-### #is_/same_as :: [Tower.secret](/_secret/Technology/Engineering/Civil_Engineering/Construction/Architecture/High-rise_Building/Tower.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Engineering/Civil_Engineering/Construction/Architecture/High-rise_Building/Tower.secret|Tower.secret]] 
 

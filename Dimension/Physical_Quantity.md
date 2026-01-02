@@ -56,17 +56,17 @@ described_at_URL:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Physical_Quantity](/_Standards/Dimension/Physical_Quantity.md) 
+### #is_/same_as :: [[/_Standards/Dimension/Physical_Quantity|Physical_Quantity]] 
 
-### #is_/same_as :: [Physical_Quantity.public](/_public/Dimension/Physical_Quantity.public.md) 
+### #is_/same_as :: [[/_public/Dimension/Physical_Quantity.public|Physical_Quantity.public]] 
 
-### #is_/same_as :: [Physical_Quantity.internal](/_internal/Dimension/Physical_Quantity.internal.md) 
+### #is_/same_as :: [[/_internal/Dimension/Physical_Quantity.internal|Physical_Quantity.internal]] 
 
-### #is_/same_as :: [Physical_Quantity.protect](/_protect/Dimension/Physical_Quantity.protect.md) 
+### #is_/same_as :: [[/_protect/Dimension/Physical_Quantity.protect|Physical_Quantity.protect]] 
 
-### #is_/same_as :: [Physical_Quantity.private](/_private/Dimension/Physical_Quantity.private.md) 
+### #is_/same_as :: [[/_private/Dimension/Physical_Quantity.private|Physical_Quantity.private]] 
 
-### #is_/same_as :: [Physical_Quantity.personal](/_personal/Dimension/Physical_Quantity.personal.md) 
+### #is_/same_as :: [[/_personal/Dimension/Physical_Quantity.personal|Physical_Quantity.personal]] 
 
-### #is_/same_as :: [Physical_Quantity.secret](/_secret/Dimension/Physical_Quantity.secret.md)
+### #is_/same_as :: [[/_secret/Dimension/Physical_Quantity.secret|Physical_Quantity.secret]] 
 

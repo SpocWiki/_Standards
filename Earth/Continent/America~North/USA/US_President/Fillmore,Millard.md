@@ -38,17 +38,17 @@ s
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Fillmore,Millard](/_Standards/Earth/Continent/America~North/US~President/Fillmore,Millard.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~North/USA/US_President/Fillmore,Millard|Fillmore,Millard]] 
 
-### #is_/same_as :: [Fillmore,Millard.public](/_public/Earth/Continent/America~North/US~President/Fillmore,Millard.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~North/USA/US_President/Fillmore,Millard.public|Fillmore,Millard.public]] 
 
-### #is_/same_as :: [Fillmore,Millard.internal](/_internal/Earth/Continent/America~North/US~President/Fillmore,Millard.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~North/USA/US_President/Fillmore,Millard.internal|Fillmore,Millard.internal]] 
 
-### #is_/same_as :: [Fillmore,Millard.protect](/_protect/Earth/Continent/America~North/US~President/Fillmore,Millard.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~North/USA/US_President/Fillmore,Millard.protect|Fillmore,Millard.protect]] 
 
-### #is_/same_as :: [Fillmore,Millard.private](/_private/Earth/Continent/America~North/US~President/Fillmore,Millard.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~North/USA/US_President/Fillmore,Millard.private|Fillmore,Millard.private]] 
 
-### #is_/same_as :: [Fillmore,Millard.personal](/_personal/Earth/Continent/America~North/US~President/Fillmore,Millard.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~North/USA/US_President/Fillmore,Millard.personal|Fillmore,Millard.personal]] 
 
-### #is_/same_as :: [Fillmore,Millard.secret](/_secret/Earth/Continent/America~North/US~President/Fillmore,Millard.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~North/USA/US_President/Fillmore,Millard.secret|Fillmore,Millard.secret]] 
 

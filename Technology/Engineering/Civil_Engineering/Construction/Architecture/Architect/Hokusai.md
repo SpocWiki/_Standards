@@ -200,17 +200,17 @@ work_period_start_: 1775
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hokusai](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Hokusai.md) 
+### #is_/same_as :: [[/_Standards/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Hokusai|Hokusai]] 
 
-### #is_/same_as :: [Hokusai.public](/_public/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Hokusai.public.md) 
+### #is_/same_as :: [[/_public/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Hokusai.public|Hokusai.public]] 
 
-### #is_/same_as :: [Hokusai.internal](/_internal/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Hokusai.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Hokusai.internal|Hokusai.internal]] 
 
-### #is_/same_as :: [Hokusai.protect](/_protect/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Hokusai.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Hokusai.protect|Hokusai.protect]] 
 
-### #is_/same_as :: [Hokusai.private](/_private/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Hokusai.private.md) 
+### #is_/same_as :: [[/_private/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Hokusai.private|Hokusai.private]] 
 
-### #is_/same_as :: [Hokusai.personal](/_personal/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Hokusai.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Hokusai.personal|Hokusai.personal]] 
 
-### #is_/same_as :: [Hokusai.secret](/_secret/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Hokusai.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Hokusai.secret|Hokusai.secret]] 
 

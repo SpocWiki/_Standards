@@ -47,17 +47,17 @@ Wikidata_usage_instructions:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Male_Organism](/_Standards/bio/Reproduction/Sexual_Reproduction/Sex/Male_Organism.md) 
+### #is_/same_as :: [[/_Standards/bio/Reproduction/Sexual_Reproduction/Sex/Male_Organism|Male_Organism]] 
 
-### #is_/same_as :: [Male_Organism.public](/_public/bio/Reproduction/Sexual_Reproduction/Sex/Male_Organism.public.md) 
+### #is_/same_as :: [[/_public/bio/Reproduction/Sexual_Reproduction/Sex/Male_Organism.public|Male_Organism.public]] 
 
-### #is_/same_as :: [Male_Organism.internal](/_internal/bio/Reproduction/Sexual_Reproduction/Sex/Male_Organism.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Reproduction/Sexual_Reproduction/Sex/Male_Organism.internal|Male_Organism.internal]] 
 
-### #is_/same_as :: [Male_Organism.protect](/_protect/bio/Reproduction/Sexual_Reproduction/Sex/Male_Organism.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Reproduction/Sexual_Reproduction/Sex/Male_Organism.protect|Male_Organism.protect]] 
 
-### #is_/same_as :: [Male_Organism.private](/_private/bio/Reproduction/Sexual_Reproduction/Sex/Male_Organism.private.md) 
+### #is_/same_as :: [[/_private/bio/Reproduction/Sexual_Reproduction/Sex/Male_Organism.private|Male_Organism.private]] 
 
-### #is_/same_as :: [Male_Organism.personal](/_personal/bio/Reproduction/Sexual_Reproduction/Sex/Male_Organism.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Reproduction/Sexual_Reproduction/Sex/Male_Organism.personal|Male_Organism.personal]] 
 
-### #is_/same_as :: [Male_Organism.secret](/_secret/bio/Reproduction/Sexual_Reproduction/Sex/Male_Organism.secret.md)
+### #is_/same_as :: [[/_secret/bio/Reproduction/Sexual_Reproduction/Sex/Male_Organism.secret|Male_Organism.secret]] 
 

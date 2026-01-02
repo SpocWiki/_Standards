@@ -53,17 +53,17 @@ Dewey_Decimal_Classification: "516.35"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [conformal_Map](/_Standards/Mathematics/Function(Math)/smooth_Function/conformal_Map.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Function(Math)/smooth_Function/conformal_Map|conformal_Map]] 
 
-### #is_/same_as :: [conformal_Map.public](/_public/Mathematics/Function(Math)/smooth_Function/conformal_Map.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Function(Math)/smooth_Function/conformal_Map.public|conformal_Map.public]] 
 
-### #is_/same_as :: [conformal_Map.internal](/_internal/Mathematics/Function(Math)/smooth_Function/conformal_Map.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Function(Math)/smooth_Function/conformal_Map.internal|conformal_Map.internal]] 
 
-### #is_/same_as :: [conformal_Map.protect](/_protect/Mathematics/Function(Math)/smooth_Function/conformal_Map.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Function(Math)/smooth_Function/conformal_Map.protect|conformal_Map.protect]] 
 
-### #is_/same_as :: [conformal_Map.private](/_private/Mathematics/Function(Math)/smooth_Function/conformal_Map.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Function(Math)/smooth_Function/conformal_Map.private|conformal_Map.private]] 
 
-### #is_/same_as :: [conformal_Map.personal](/_personal/Mathematics/Function(Math)/smooth_Function/conformal_Map.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Function(Math)/smooth_Function/conformal_Map.personal|conformal_Map.personal]] 
 
-### #is_/same_as :: [conformal_Map.secret](/_secret/Mathematics/Function(Math)/smooth_Function/conformal_Map.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Function(Math)/smooth_Function/conformal_Map.secret|conformal_Map.secret]] 
 

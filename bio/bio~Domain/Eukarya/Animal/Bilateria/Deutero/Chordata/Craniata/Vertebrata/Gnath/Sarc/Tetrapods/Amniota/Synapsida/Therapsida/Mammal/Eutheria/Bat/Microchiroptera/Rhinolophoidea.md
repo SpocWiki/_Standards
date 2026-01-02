@@ -94,7 +94,7 @@ Megadermatidae is strongly supported by morphological data (Griffiths,
 1994; Simmons, 1998).
 
 ### Geographic Distribution
-![ ](Rhinolophoidea/rhinolophoidea.gif))
+![ ](Rhinolophoidea/rhinolophoidea.gif) 
 
 The geographical distribution of Rhinolophoidea is shown in red.
 Distribution from Hill and Smith (1984).
@@ -144,17 +144,17 @@ vol. 10. Lubbock: Texas Tech Univeristy.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Rhinolophoidea](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Bat/Microchiroptera/Rhinolophoidea.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Bat/Microchiroptera/Rhinolophoidea|Rhinolophoidea]] 
 
-### #is_/same_as :: [Rhinolophoidea.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Bat/Microchiroptera/Rhinolophoidea.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Bat/Microchiroptera/Rhinolophoidea.public|Rhinolophoidea.public]] 
 
-### #is_/same_as :: [Rhinolophoidea.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Bat/Microchiroptera/Rhinolophoidea.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Bat/Microchiroptera/Rhinolophoidea.internal|Rhinolophoidea.internal]] 
 
-### #is_/same_as :: [Rhinolophoidea.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Bat/Microchiroptera/Rhinolophoidea.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Bat/Microchiroptera/Rhinolophoidea.protect|Rhinolophoidea.protect]] 
 
-### #is_/same_as :: [Rhinolophoidea.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Bat/Microchiroptera/Rhinolophoidea.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Bat/Microchiroptera/Rhinolophoidea.private|Rhinolophoidea.private]] 
 
-### #is_/same_as :: [Rhinolophoidea.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Bat/Microchiroptera/Rhinolophoidea.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Bat/Microchiroptera/Rhinolophoidea.personal|Rhinolophoidea.personal]] 
 
-### #is_/same_as :: [Rhinolophoidea.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Bat/Microchiroptera/Rhinolophoidea.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Bat/Microchiroptera/Rhinolophoidea.secret|Rhinolophoidea.secret]] 
 

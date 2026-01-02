@@ -41,17 +41,17 @@ A fact-checking review of claims made (or reported) in some creative work (refer
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Claim_Review](/_Standards/Society/Communication/Media/Creative_Work/Review/Claim_Review.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Creative_Work/Review/Claim_Review|Claim_Review]] 
 
-### #is_/same_as :: [Claim_Review.public](/_public/Society/Communication/Media/Creative_Work/Review/Claim_Review.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Creative_Work/Review/Claim_Review.public|Claim_Review.public]] 
 
-### #is_/same_as :: [Claim_Review.internal](/_internal/Society/Communication/Media/Creative_Work/Review/Claim_Review.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Creative_Work/Review/Claim_Review.internal|Claim_Review.internal]] 
 
-### #is_/same_as :: [Claim_Review.protect](/_protect/Society/Communication/Media/Creative_Work/Review/Claim_Review.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Creative_Work/Review/Claim_Review.protect|Claim_Review.protect]] 
 
-### #is_/same_as :: [Claim_Review.private](/_private/Society/Communication/Media/Creative_Work/Review/Claim_Review.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Creative_Work/Review/Claim_Review.private|Claim_Review.private]] 
 
-### #is_/same_as :: [Claim_Review.personal](/_personal/Society/Communication/Media/Creative_Work/Review/Claim_Review.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/Review/Claim_Review.personal|Claim_Review.personal]] 
 
-### #is_/same_as :: [Claim_Review.secret](/_secret/Society/Communication/Media/Creative_Work/Review/Claim_Review.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Review/Claim_Review.secret|Claim_Review.secret]] 
 

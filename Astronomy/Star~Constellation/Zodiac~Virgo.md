@@ -64,17 +64,17 @@ Baidu_Tieba_name: 处女座
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Zodiac~Virgo](/_Standards/Astronomy/Star~Constellation/Zodiac~Virgo.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Star~Constellation/Zodiac~Virgo|Zodiac~Virgo]] 
 
-### #is_/same_as :: [Zodiac~Virgo.public](/_public/Astronomy/Star~Constellation/Zodiac~Virgo.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Star~Constellation/Zodiac~Virgo.public|Zodiac~Virgo.public]] 
 
-### #is_/same_as :: [Zodiac~Virgo.internal](/_internal/Astronomy/Star~Constellation/Zodiac~Virgo.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Star~Constellation/Zodiac~Virgo.internal|Zodiac~Virgo.internal]] 
 
-### #is_/same_as :: [Zodiac~Virgo.protect](/_protect/Astronomy/Star~Constellation/Zodiac~Virgo.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Star~Constellation/Zodiac~Virgo.protect|Zodiac~Virgo.protect]] 
 
-### #is_/same_as :: [Zodiac~Virgo.private](/_private/Astronomy/Star~Constellation/Zodiac~Virgo.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Star~Constellation/Zodiac~Virgo.private|Zodiac~Virgo.private]] 
 
-### #is_/same_as :: [Zodiac~Virgo.personal](/_personal/Astronomy/Star~Constellation/Zodiac~Virgo.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Star~Constellation/Zodiac~Virgo.personal|Zodiac~Virgo.personal]] 
 
-### #is_/same_as :: [Zodiac~Virgo.secret](/_secret/Astronomy/Star~Constellation/Zodiac~Virgo.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Star~Constellation/Zodiac~Virgo.secret|Zodiac~Virgo.secret]] 
 

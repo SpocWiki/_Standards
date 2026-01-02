@@ -40,17 +40,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [is_originating_from](/_Standards/schema-org/Relation/is/is_originating_from.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/is/is_originating_from|is_originating_from]] 
 
-### #is_/same_as :: [is_originating_from.public](/_public/schema-org/Relation/is/is_originating_from.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/is/is_originating_from.public|is_originating_from.public]] 
 
-### #is_/same_as :: [is_originating_from.internal](/_internal/schema-org/Relation/is/is_originating_from.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/is/is_originating_from.internal|is_originating_from.internal]] 
 
-### #is_/same_as :: [is_originating_from.protect](/_protect/schema-org/Relation/is/is_originating_from.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/is/is_originating_from.protect|is_originating_from.protect]] 
 
-### #is_/same_as :: [is_originating_from.private](/_private/schema-org/Relation/is/is_originating_from.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/is/is_originating_from.private|is_originating_from.private]] 
 
-### #is_/same_as :: [is_originating_from.personal](/_personal/schema-org/Relation/is/is_originating_from.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/is/is_originating_from.personal|is_originating_from.personal]] 
 
-### #is_/same_as :: [is_originating_from.secret](/_secret/schema-org/Relation/is/is_originating_from.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/is/is_originating_from.secret|is_originating_from.secret]] 
 

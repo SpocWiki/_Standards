@@ -25,17 +25,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [American_Werewolf_in_London](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/American_Werewolf_in_London.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/American_Werewolf_in_London|American_Werewolf_in_London]] 
 
-### #is_/same_as :: [American_Werewolf_in_London.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/American_Werewolf_in_London.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/American_Werewolf_in_London.public|American_Werewolf_in_London.public]] 
 
-### #is_/same_as :: [American_Werewolf_in_London.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/American_Werewolf_in_London.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/American_Werewolf_in_London.internal|American_Werewolf_in_London.internal]] 
 
-### #is_/same_as :: [American_Werewolf_in_London.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/American_Werewolf_in_London.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/American_Werewolf_in_London.protect|American_Werewolf_in_London.protect]] 
 
-### #is_/same_as :: [American_Werewolf_in_London.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/American_Werewolf_in_London.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/American_Werewolf_in_London.private|American_Werewolf_in_London.private]] 
 
-### #is_/same_as :: [American_Werewolf_in_London.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/American_Werewolf_in_London.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/American_Werewolf_in_London.personal|American_Werewolf_in_London.personal]] 
 
-### #is_/same_as :: [American_Werewolf_in_London.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/American_Werewolf_in_London.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/American_Werewolf_in_London.secret|American_Werewolf_in_London.secret]] 
 

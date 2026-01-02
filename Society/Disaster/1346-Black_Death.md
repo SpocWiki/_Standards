@@ -96,17 +96,17 @@ Krugosvet_article: istoriya/CHERNAYA_SMERT.html
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [1346-Black_Death](/_Standards/Society/Disaster/1346-Black_Death.md) 
+### #is_/same_as :: [[/_Standards/Society/Disaster/1346-Black_Death|1346-Black_Death]] 
 
-### #is_/same_as :: [1346-Black_Death.public](/_public/Society/Disaster/1346-Black_Death.public.md) 
+### #is_/same_as :: [[/_public/Society/Disaster/1346-Black_Death.public|1346-Black_Death.public]] 
 
-### #is_/same_as :: [1346-Black_Death.internal](/_internal/Society/Disaster/1346-Black_Death.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Disaster/1346-Black_Death.internal|1346-Black_Death.internal]] 
 
-### #is_/same_as :: [1346-Black_Death.protect](/_protect/Society/Disaster/1346-Black_Death.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Disaster/1346-Black_Death.protect|1346-Black_Death.protect]] 
 
-### #is_/same_as :: [1346-Black_Death.private](/_private/Society/Disaster/1346-Black_Death.private.md) 
+### #is_/same_as :: [[/_private/Society/Disaster/1346-Black_Death.private|1346-Black_Death.private]] 
 
-### #is_/same_as :: [1346-Black_Death.personal](/_personal/Society/Disaster/1346-Black_Death.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Disaster/1346-Black_Death.personal|1346-Black_Death.personal]] 
 
-### #is_/same_as :: [1346-Black_Death.secret](/_secret/Society/Disaster/1346-Black_Death.secret.md)
+### #is_/same_as :: [[/_secret/Society/Disaster/1346-Black_Death.secret|1346-Black_Death.secret]] 
 

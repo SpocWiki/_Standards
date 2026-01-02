@@ -117,17 +117,17 @@ Canary Islands off the west coast of Morocco (Nowak 1999).
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Atlantoxerus](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Rodentia/Sciuromorpha/Squirrel/Xerinae/Xerini/Atlantoxerus.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Rodentia/Sciuromorpha/Squirrel/Xerinae/Xerini/Atlantoxerus|Atlantoxerus]] 
 
-### #is_/same_as :: [Atlantoxerus.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Rodentia/Sciuromorpha/Squirrel/Xerinae/Xerini/Atlantoxerus.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Rodentia/Sciuromorpha/Squirrel/Xerinae/Xerini/Atlantoxerus.public|Atlantoxerus.public]] 
 
-### #is_/same_as :: [Atlantoxerus.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Rodentia/Sciuromorpha/Squirrel/Xerinae/Xerini/Atlantoxerus.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Rodentia/Sciuromorpha/Squirrel/Xerinae/Xerini/Atlantoxerus.internal|Atlantoxerus.internal]] 
 
-### #is_/same_as :: [Atlantoxerus.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Rodentia/Sciuromorpha/Squirrel/Xerinae/Xerini/Atlantoxerus.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Rodentia/Sciuromorpha/Squirrel/Xerinae/Xerini/Atlantoxerus.protect|Atlantoxerus.protect]] 
 
-### #is_/same_as :: [Atlantoxerus.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Rodentia/Sciuromorpha/Squirrel/Xerinae/Xerini/Atlantoxerus.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Rodentia/Sciuromorpha/Squirrel/Xerinae/Xerini/Atlantoxerus.private|Atlantoxerus.private]] 
 
-### #is_/same_as :: [Atlantoxerus.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Rodentia/Sciuromorpha/Squirrel/Xerinae/Xerini/Atlantoxerus.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Rodentia/Sciuromorpha/Squirrel/Xerinae/Xerini/Atlantoxerus.personal|Atlantoxerus.personal]] 
 
-### #is_/same_as :: [Atlantoxerus.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Rodentia/Sciuromorpha/Squirrel/Xerinae/Xerini/Atlantoxerus.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Rodentia/Sciuromorpha/Squirrel/Xerinae/Xerini/Atlantoxerus.secret|Atlantoxerus.secret]] 
 

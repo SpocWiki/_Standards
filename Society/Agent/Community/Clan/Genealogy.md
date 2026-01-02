@@ -63,17 +63,17 @@ Library_of_Congress_Classification: CS1-CS3090
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Genealogy](/_Standards/Society/Agent/Community/Clan/Genealogy.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Clan/Genealogy|Genealogy]] 
 
-### #is_/same_as :: [Genealogy.public](/_public/Society/Agent/Community/Clan/Genealogy.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Clan/Genealogy.public|Genealogy.public]] 
 
-### #is_/same_as :: [Genealogy.internal](/_internal/Society/Agent/Community/Clan/Genealogy.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Clan/Genealogy.internal|Genealogy.internal]] 
 
-### #is_/same_as :: [Genealogy.protect](/_protect/Society/Agent/Community/Clan/Genealogy.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Clan/Genealogy.protect|Genealogy.protect]] 
 
-### #is_/same_as :: [Genealogy.private](/_private/Society/Agent/Community/Clan/Genealogy.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Clan/Genealogy.private|Genealogy.private]] 
 
-### #is_/same_as :: [Genealogy.personal](/_personal/Society/Agent/Community/Clan/Genealogy.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Clan/Genealogy.personal|Genealogy.personal]] 
 
-### #is_/same_as :: [Genealogy.secret](/_secret/Society/Agent/Community/Clan/Genealogy.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Clan/Genealogy.secret|Genealogy.secret]] 
 

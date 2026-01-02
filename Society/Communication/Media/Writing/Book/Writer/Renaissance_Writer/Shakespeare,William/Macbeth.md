@@ -157,17 +157,17 @@ first_line: When shall we three meet againe?
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Macbeth](/_Standards/Society/Communication/Media/Writing/Book/Writer/Renaissance_Writer/Shakespeare,William/Macbeth.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Writer/Renaissance_Writer/Shakespeare,William/Macbeth|Macbeth]] 
 
-### #is_/same_as :: [Macbeth.public](/_public/Society/Communication/Media/Writing/Book/Writer/Renaissance_Writer/Shakespeare,William/Macbeth.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Writer/Renaissance_Writer/Shakespeare,William/Macbeth.public|Macbeth.public]] 
 
-### #is_/same_as :: [Macbeth.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/Renaissance_Writer/Shakespeare,William/Macbeth.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Writer/Renaissance_Writer/Shakespeare,William/Macbeth.internal|Macbeth.internal]] 
 
-### #is_/same_as :: [Macbeth.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/Renaissance_Writer/Shakespeare,William/Macbeth.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Writer/Renaissance_Writer/Shakespeare,William/Macbeth.protect|Macbeth.protect]] 
 
-### #is_/same_as :: [Macbeth.private](/_private/Society/Communication/Media/Writing/Book/Writer/Renaissance_Writer/Shakespeare,William/Macbeth.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Writer/Renaissance_Writer/Shakespeare,William/Macbeth.private|Macbeth.private]] 
 
-### #is_/same_as :: [Macbeth.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/Renaissance_Writer/Shakespeare,William/Macbeth.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Writer/Renaissance_Writer/Shakespeare,William/Macbeth.personal|Macbeth.personal]] 
 
-### #is_/same_as :: [Macbeth.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/Renaissance_Writer/Shakespeare,William/Macbeth.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Writer/Renaissance_Writer/Shakespeare,William/Macbeth.secret|Macbeth.secret]] 
 

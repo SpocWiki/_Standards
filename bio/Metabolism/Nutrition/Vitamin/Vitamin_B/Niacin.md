@@ -16,3 +16,22 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Vitamin%20B3) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/bio/Metabolism/Nutrition/Vitamin/Vitamin_B/Niacin|Niacin]] 
+
+### #is_/same_as :: [[/_public/bio/Metabolism/Nutrition/Vitamin/Vitamin_B/Niacin.public|Niacin.public]] 
+
+### #is_/same_as :: [[/_internal/bio/Metabolism/Nutrition/Vitamin/Vitamin_B/Niacin.internal|Niacin.internal]] 
+
+### #is_/same_as :: [[/_protect/bio/Metabolism/Nutrition/Vitamin/Vitamin_B/Niacin.protect|Niacin.protect]] 
+
+### #is_/same_as :: [[/_private/bio/Metabolism/Nutrition/Vitamin/Vitamin_B/Niacin.private|Niacin.private]] 
+
+### #is_/same_as :: [[/_personal/bio/Metabolism/Nutrition/Vitamin/Vitamin_B/Niacin.personal|Niacin.personal]] 
+
+### #is_/same_as :: [[/_secret/bio/Metabolism/Nutrition/Vitamin/Vitamin_B/Niacin.secret|Niacin.secret]] 
+

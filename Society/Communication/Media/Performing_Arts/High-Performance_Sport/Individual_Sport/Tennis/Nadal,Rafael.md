@@ -150,17 +150,17 @@ work_period_end_:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Nadal,Rafael](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Tennis/Nadal,Rafael.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Tennis/Nadal,Rafael|Nadal,Rafael]] 
 
-### #is_/same_as :: [Nadal,Rafael.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Tennis/Nadal,Rafael.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Tennis/Nadal,Rafael.public|Nadal,Rafael.public]] 
 
-### #is_/same_as :: [Nadal,Rafael.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Tennis/Nadal,Rafael.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Tennis/Nadal,Rafael.internal|Nadal,Rafael.internal]] 
 
-### #is_/same_as :: [Nadal,Rafael.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Tennis/Nadal,Rafael.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Tennis/Nadal,Rafael.protect|Nadal,Rafael.protect]] 
 
-### #is_/same_as :: [Nadal,Rafael.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Tennis/Nadal,Rafael.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Tennis/Nadal,Rafael.private|Nadal,Rafael.private]] 
 
-### #is_/same_as :: [Nadal,Rafael.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Tennis/Nadal,Rafael.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Tennis/Nadal,Rafael.personal|Nadal,Rafael.personal]] 
 
-### #is_/same_as :: [Nadal,Rafael.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Tennis/Nadal,Rafael.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Tennis/Nadal,Rafael.secret|Nadal,Rafael.secret]] 
 

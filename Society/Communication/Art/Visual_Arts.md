@@ -89,17 +89,17 @@ name_in_kana: ビジュアルアート
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Visual_Arts](/_Standards/Society/Communication/Art/Visual_Arts.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Art/Visual_Arts|Visual_Arts]] 
 
-### #is_/same_as :: [Visual_Arts.public](/_public/Society/Communication/Art/Visual_Arts.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Art/Visual_Arts.public|Visual_Arts.public]] 
 
-### #is_/same_as :: [Visual_Arts.internal](/_internal/Society/Communication/Art/Visual_Arts.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Art/Visual_Arts.internal|Visual_Arts.internal]] 
 
-### #is_/same_as :: [Visual_Arts.protect](/_protect/Society/Communication/Art/Visual_Arts.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Art/Visual_Arts.protect|Visual_Arts.protect]] 
 
-### #is_/same_as :: [Visual_Arts.private](/_private/Society/Communication/Art/Visual_Arts.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Art/Visual_Arts.private|Visual_Arts.private]] 
 
-### #is_/same_as :: [Visual_Arts.personal](/_personal/Society/Communication/Art/Visual_Arts.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Art/Visual_Arts.personal|Visual_Arts.personal]] 
 
-### #is_/same_as :: [Visual_Arts.secret](/_secret/Society/Communication/Art/Visual_Arts.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Art/Visual_Arts.secret|Visual_Arts.secret]] 
 

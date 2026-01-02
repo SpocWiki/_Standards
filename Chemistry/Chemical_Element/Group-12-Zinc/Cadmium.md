@@ -152,17 +152,17 @@ ZVG_number:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Cadmium](/_Standards/Chemistry/Chemical_Element/Group-12-Zinc/Cadmium.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Chemical_Element/Group-12-Zinc/Cadmium|Cadmium]] 
 
-### #is_/same_as :: [Cadmium.public](/_public/Chemistry/Chemical_Element/Group-12-Zinc/Cadmium.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Chemical_Element/Group-12-Zinc/Cadmium.public|Cadmium.public]] 
 
-### #is_/same_as :: [Cadmium.internal](/_internal/Chemistry/Chemical_Element/Group-12-Zinc/Cadmium.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Chemical_Element/Group-12-Zinc/Cadmium.internal|Cadmium.internal]] 
 
-### #is_/same_as :: [Cadmium.protect](/_protect/Chemistry/Chemical_Element/Group-12-Zinc/Cadmium.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Chemical_Element/Group-12-Zinc/Cadmium.protect|Cadmium.protect]] 
 
-### #is_/same_as :: [Cadmium.private](/_private/Chemistry/Chemical_Element/Group-12-Zinc/Cadmium.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Chemical_Element/Group-12-Zinc/Cadmium.private|Cadmium.private]] 
 
-### #is_/same_as :: [Cadmium.personal](/_personal/Chemistry/Chemical_Element/Group-12-Zinc/Cadmium.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Chemical_Element/Group-12-Zinc/Cadmium.personal|Cadmium.personal]] 
 
-### #is_/same_as :: [Cadmium.secret](/_secret/Chemistry/Chemical_Element/Group-12-Zinc/Cadmium.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Chemical_Element/Group-12-Zinc/Cadmium.secret|Cadmium.secret]] 
 

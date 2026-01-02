@@ -59,17 +59,17 @@ UMLS_CUI: C0001675
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Adult](/_Standards/bio/Reproduction/Developmental_Biology/Adulthood/Adult.md) 
+### #is_/same_as :: [[/_Standards/bio/Reproduction/Developmental_Biology/Adulthood/Adult|Adult]] 
 
-### #is_/same_as :: [Adult.public](/_public/bio/Reproduction/Developmental_Biology/Adulthood/Adult.public.md) 
+### #is_/same_as :: [[/_public/bio/Reproduction/Developmental_Biology/Adulthood/Adult.public|Adult.public]] 
 
-### #is_/same_as :: [Adult.internal](/_internal/bio/Reproduction/Developmental_Biology/Adulthood/Adult.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Reproduction/Developmental_Biology/Adulthood/Adult.internal|Adult.internal]] 
 
-### #is_/same_as :: [Adult.protect](/_protect/bio/Reproduction/Developmental_Biology/Adulthood/Adult.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Reproduction/Developmental_Biology/Adulthood/Adult.protect|Adult.protect]] 
 
-### #is_/same_as :: [Adult.private](/_private/bio/Reproduction/Developmental_Biology/Adulthood/Adult.private.md) 
+### #is_/same_as :: [[/_private/bio/Reproduction/Developmental_Biology/Adulthood/Adult.private|Adult.private]] 
 
-### #is_/same_as :: [Adult.personal](/_personal/bio/Reproduction/Developmental_Biology/Adulthood/Adult.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Reproduction/Developmental_Biology/Adulthood/Adult.personal|Adult.personal]] 
 
-### #is_/same_as :: [Adult.secret](/_secret/bio/Reproduction/Developmental_Biology/Adulthood/Adult.secret.md)
+### #is_/same_as :: [[/_secret/bio/Reproduction/Developmental_Biology/Adulthood/Adult.secret|Adult.secret]] 
 

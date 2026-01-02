@@ -18,17 +18,17 @@ type: folder_brief_live
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Dimension](/_Standards/Dimension.md) 
+### #is_/same_as :: [[/_Standards/Dimension|Dimension]] 
 
-### #is_/same_as :: [Dimension.public](/_public/Dimension.public.md) 
+### #is_/same_as :: [[/_public/Dimension.public|Dimension.public]] 
 
-### #is_/same_as :: [Dimension.internal](/_internal/Dimension.internal.md) 
+### #is_/same_as :: [[/_internal/Dimension.internal|Dimension.internal]] 
 
-### #is_/same_as :: [Dimension.protect](/_protect/Dimension.protect.md) 
+### #is_/same_as :: [[/_protect/Dimension.protect|Dimension.protect]] 
 
-### #is_/same_as :: [Dimension.private](/_private/Dimension.private.md) 
+### #is_/same_as :: [[/_private/Dimension.private|Dimension.private]] 
 
-### #is_/same_as :: [Dimension.personal](/_personal/Dimension.personal.md) 
+### #is_/same_as :: [[/_personal/Dimension.personal|Dimension.personal]] 
 
-### #is_/same_as :: [Dimension.secret](/_secret/Dimension.secret.md)
+### #is_/same_as :: [[/_secret/Dimension.secret|Dimension.secret]] 
 

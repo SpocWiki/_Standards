@@ -66,17 +66,17 @@ type: folder_brief_live
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Unicode](/_Standards/Unicode.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_text_encoding/Unicode|Unicode]] 
 
-### #is_/same_as :: [Unicode.public](/_public/Unicode.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_text_encoding/Unicode.public|Unicode.public]] 
 
-### #is_/same_as :: [Unicode.internal](/_internal/Unicode.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_text_encoding/Unicode.internal|Unicode.internal]] 
 
-### #is_/same_as :: [Unicode.protect](/_protect/Unicode.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_text_encoding/Unicode.protect|Unicode.protect]] 
 
-### #is_/same_as :: [Unicode.private](/_private/Unicode.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_text_encoding/Unicode.private|Unicode.private]] 
 
-### #is_/same_as :: [Unicode.personal](/_personal/Unicode.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_text_encoding/Unicode.personal|Unicode.personal]] 
 
-### #is_/same_as :: [Unicode.secret](/_secret/Unicode.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_text_encoding/Unicode.secret|Unicode.secret]] 
 

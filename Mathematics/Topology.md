@@ -68,17 +68,17 @@ Krugosvet_article: matematika/topologiya
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Topology](/_Standards/Mathematics/Topology.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Topology|Topology]] 
 
-### #is_/same_as :: [Topology.public](/_public/Mathematics/Topology.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Topology.public|Topology.public]] 
 
-### #is_/same_as :: [Topology.internal](/_internal/Mathematics/Topology.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Topology.internal|Topology.internal]] 
 
-### #is_/same_as :: [Topology.protect](/_protect/Mathematics/Topology.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Topology.protect|Topology.protect]] 
 
-### #is_/same_as :: [Topology.private](/_private/Mathematics/Topology.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Topology.private|Topology.private]] 
 
-### #is_/same_as :: [Topology.personal](/_personal/Mathematics/Topology.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Topology.personal|Topology.personal]] 
 
-### #is_/same_as :: [Topology.secret](/_secret/Mathematics/Topology.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Topology.secret|Topology.secret]] 
 

@@ -90,17 +90,17 @@ OpenStreetMap_tag: government=prosecutor
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Prosecutor](/_Standards/Society/Law/Judiciary/Court/Prosecutor.md) 
+### #is_/same_as :: [[/_Standards/Society/Law/Judiciary/Court/Prosecutor|Prosecutor]] 
 
-### #is_/same_as :: [Prosecutor.public](/_public/Society/Law/Judiciary/Court/Prosecutor.public.md) 
+### #is_/same_as :: [[/_public/Society/Law/Judiciary/Court/Prosecutor.public|Prosecutor.public]] 
 
-### #is_/same_as :: [Prosecutor.internal](/_internal/Society/Law/Judiciary/Court/Prosecutor.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Law/Judiciary/Court/Prosecutor.internal|Prosecutor.internal]] 
 
-### #is_/same_as :: [Prosecutor.protect](/_protect/Society/Law/Judiciary/Court/Prosecutor.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Law/Judiciary/Court/Prosecutor.protect|Prosecutor.protect]] 
 
-### #is_/same_as :: [Prosecutor.private](/_private/Society/Law/Judiciary/Court/Prosecutor.private.md) 
+### #is_/same_as :: [[/_private/Society/Law/Judiciary/Court/Prosecutor.private|Prosecutor.private]] 
 
-### #is_/same_as :: [Prosecutor.personal](/_personal/Society/Law/Judiciary/Court/Prosecutor.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Law/Judiciary/Court/Prosecutor.personal|Prosecutor.personal]] 
 
-### #is_/same_as :: [Prosecutor.secret](/_secret/Society/Law/Judiciary/Court/Prosecutor.secret.md)
+### #is_/same_as :: [[/_secret/Society/Law/Judiciary/Court/Prosecutor.secret|Prosecutor.secret]] 
 

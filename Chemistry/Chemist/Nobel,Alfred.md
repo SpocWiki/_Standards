@@ -138,17 +138,17 @@ Krugosvet_article: nauka_i_tehnika/voennaya_tehnika/NOBEL_ALFRED_BERNHARD.html
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Nobel,Alfred](/_Standards/Chemistry/Chemist/Nobel,Alfred.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Chemist/Nobel,Alfred|Nobel,Alfred]] 
 
-### #is_/same_as :: [Nobel,Alfred.public](/_public/Chemistry/Chemist/Nobel,Alfred.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Chemist/Nobel,Alfred.public|Nobel,Alfred.public]] 
 
-### #is_/same_as :: [Nobel,Alfred.internal](/_internal/Chemistry/Chemist/Nobel,Alfred.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Chemist/Nobel,Alfred.internal|Nobel,Alfred.internal]] 
 
-### #is_/same_as :: [Nobel,Alfred.protect](/_protect/Chemistry/Chemist/Nobel,Alfred.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Chemist/Nobel,Alfred.protect|Nobel,Alfred.protect]] 
 
-### #is_/same_as :: [Nobel,Alfred.private](/_private/Chemistry/Chemist/Nobel,Alfred.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Chemist/Nobel,Alfred.private|Nobel,Alfred.private]] 
 
-### #is_/same_as :: [Nobel,Alfred.personal](/_personal/Chemistry/Chemist/Nobel,Alfred.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Chemist/Nobel,Alfred.personal|Nobel,Alfred.personal]] 
 
-### #is_/same_as :: [Nobel,Alfred.secret](/_secret/Chemistry/Chemist/Nobel,Alfred.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Chemist/Nobel,Alfred.secret|Nobel,Alfred.secret]] 
 

@@ -45,17 +45,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_article_body](/_Standards/schema-org/Property/Texts/has_article_body.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/Texts/has_article_body|has_article_body]] 
 
-### #is_/same_as :: [has_article_body.public](/_public/schema-org/Property/Texts/has_article_body.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/Texts/has_article_body.public|has_article_body.public]] 
 
-### #is_/same_as :: [has_article_body.internal](/_internal/schema-org/Property/Texts/has_article_body.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/Texts/has_article_body.internal|has_article_body.internal]] 
 
-### #is_/same_as :: [has_article_body.protect](/_protect/schema-org/Property/Texts/has_article_body.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/Texts/has_article_body.protect|has_article_body.protect]] 
 
-### #is_/same_as :: [has_article_body.private](/_private/schema-org/Property/Texts/has_article_body.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/Texts/has_article_body.private|has_article_body.private]] 
 
-### #is_/same_as :: [has_article_body.personal](/_personal/schema-org/Property/Texts/has_article_body.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/Texts/has_article_body.personal|has_article_body.personal]] 
 
-### #is_/same_as :: [has_article_body.secret](/_secret/schema-org/Property/Texts/has_article_body.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/Texts/has_article_body.secret|has_article_body.secret]] 
 

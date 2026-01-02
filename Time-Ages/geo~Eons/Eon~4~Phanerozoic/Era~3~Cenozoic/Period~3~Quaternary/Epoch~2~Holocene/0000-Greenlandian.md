@@ -71,17 +71,17 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [0000-Greenlandian](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/0000-Greenlandian.md) 
+### #is_/same_as :: [[/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/0000-Greenlandian|0000-Greenlandian]] 
 
-### #is_/same_as :: [0000-Greenlandian.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/0000-Greenlandian.public.md) 
+### #is_/same_as :: [[/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/0000-Greenlandian.public|0000-Greenlandian.public]] 
 
-### #is_/same_as :: [0000-Greenlandian.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/0000-Greenlandian.internal.md) 
+### #is_/same_as :: [[/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/0000-Greenlandian.internal|0000-Greenlandian.internal]] 
 
-### #is_/same_as :: [0000-Greenlandian.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/0000-Greenlandian.protect.md) 
+### #is_/same_as :: [[/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/0000-Greenlandian.protect|0000-Greenlandian.protect]] 
 
-### #is_/same_as :: [0000-Greenlandian.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/0000-Greenlandian.private.md) 
+### #is_/same_as :: [[/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/0000-Greenlandian.private|0000-Greenlandian.private]] 
 
-### #is_/same_as :: [0000-Greenlandian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/0000-Greenlandian.personal.md) 
+### #is_/same_as :: [[/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/0000-Greenlandian.personal|0000-Greenlandian.personal]] 
 
-### #is_/same_as :: [0000-Greenlandian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/0000-Greenlandian.secret.md)
+### #is_/same_as :: [[/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/0000-Greenlandian.secret|0000-Greenlandian.secret]] 
 

@@ -79,17 +79,17 @@ Commons_category: Water vapor
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Water_Vapor](/_Standards/Science/Physics/State_of_Matter/Gas/Water_Vapor.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/State_of_Matter/Gas/Water_Vapor|Water_Vapor]] 
 
-### #is_/same_as :: [Water_Vapor.public](/_public/Science/Physics/State_of_Matter/Gas/Water_Vapor.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/State_of_Matter/Gas/Water_Vapor.public|Water_Vapor.public]] 
 
-### #is_/same_as :: [Water_Vapor.internal](/_internal/Science/Physics/State_of_Matter/Gas/Water_Vapor.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/State_of_Matter/Gas/Water_Vapor.internal|Water_Vapor.internal]] 
 
-### #is_/same_as :: [Water_Vapor.protect](/_protect/Science/Physics/State_of_Matter/Gas/Water_Vapor.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/State_of_Matter/Gas/Water_Vapor.protect|Water_Vapor.protect]] 
 
-### #is_/same_as :: [Water_Vapor.private](/_private/Science/Physics/State_of_Matter/Gas/Water_Vapor.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/State_of_Matter/Gas/Water_Vapor.private|Water_Vapor.private]] 
 
-### #is_/same_as :: [Water_Vapor.personal](/_personal/Science/Physics/State_of_Matter/Gas/Water_Vapor.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/State_of_Matter/Gas/Water_Vapor.personal|Water_Vapor.personal]] 
 
-### #is_/same_as :: [Water_Vapor.secret](/_secret/Science/Physics/State_of_Matter/Gas/Water_Vapor.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/State_of_Matter/Gas/Water_Vapor.secret|Water_Vapor.secret]] 
 

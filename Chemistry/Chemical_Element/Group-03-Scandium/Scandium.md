@@ -124,17 +124,17 @@ ZVG_number: 7210
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Scandium](/_Standards/Chemistry/Chemical_Element/Group-03-Scandium/Scandium.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Chemical_Element/Group-03-Scandium/Scandium|Scandium]] 
 
-### #is_/same_as :: [Scandium.public](/_public/Chemistry/Chemical_Element/Group-03-Scandium/Scandium.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Chemical_Element/Group-03-Scandium/Scandium.public|Scandium.public]] 
 
-### #is_/same_as :: [Scandium.internal](/_internal/Chemistry/Chemical_Element/Group-03-Scandium/Scandium.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Chemical_Element/Group-03-Scandium/Scandium.internal|Scandium.internal]] 
 
-### #is_/same_as :: [Scandium.protect](/_protect/Chemistry/Chemical_Element/Group-03-Scandium/Scandium.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Chemical_Element/Group-03-Scandium/Scandium.protect|Scandium.protect]] 
 
-### #is_/same_as :: [Scandium.private](/_private/Chemistry/Chemical_Element/Group-03-Scandium/Scandium.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Chemical_Element/Group-03-Scandium/Scandium.private|Scandium.private]] 
 
-### #is_/same_as :: [Scandium.personal](/_personal/Chemistry/Chemical_Element/Group-03-Scandium/Scandium.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Chemical_Element/Group-03-Scandium/Scandium.personal|Scandium.personal]] 
 
-### #is_/same_as :: [Scandium.secret](/_secret/Chemistry/Chemical_Element/Group-03-Scandium/Scandium.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Chemical_Element/Group-03-Scandium/Scandium.secret|Scandium.secret]] 
 

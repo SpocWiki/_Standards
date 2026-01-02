@@ -84,17 +84,17 @@ name_in_native_language: Μήδεια
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Medea](/_Standards/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Medea.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Medea|Medea]] 
 
-### #is_/same_as :: [Medea.public](/_public/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Medea.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Medea.public|Medea.public]] 
 
-### #is_/same_as :: [Medea.internal](/_internal/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Medea.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Medea.internal|Medea.internal]] 
 
-### #is_/same_as :: [Medea.protect](/_protect/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Medea.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Medea.protect|Medea.protect]] 
 
-### #is_/same_as :: [Medea.private](/_private/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Medea.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Medea.private|Medea.private]] 
 
-### #is_/same_as :: [Medea.personal](/_personal/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Medea.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Medea.personal|Medea.personal]] 
 
-### #is_/same_as :: [Medea.secret](/_secret/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Medea.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Medea.secret|Medea.secret]] 
 

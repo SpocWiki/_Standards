@@ -169,17 +169,17 @@ ISNI: 0000000108687618
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Huygens,Christiaan](/_Standards/Science/Physics/Physicist/Huygens,Christiaan.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Physicist/Huygens,Christiaan|Huygens,Christiaan]] 
 
-### #is_/same_as :: [Huygens,Christiaan.public](/_public/Science/Physics/Physicist/Huygens,Christiaan.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Physicist/Huygens,Christiaan.public|Huygens,Christiaan.public]] 
 
-### #is_/same_as :: [Huygens,Christiaan.internal](/_internal/Science/Physics/Physicist/Huygens,Christiaan.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Physicist/Huygens,Christiaan.internal|Huygens,Christiaan.internal]] 
 
-### #is_/same_as :: [Huygens,Christiaan.protect](/_protect/Science/Physics/Physicist/Huygens,Christiaan.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Physicist/Huygens,Christiaan.protect|Huygens,Christiaan.protect]] 
 
-### #is_/same_as :: [Huygens,Christiaan.private](/_private/Science/Physics/Physicist/Huygens,Christiaan.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Physicist/Huygens,Christiaan.private|Huygens,Christiaan.private]] 
 
-### #is_/same_as :: [Huygens,Christiaan.personal](/_personal/Science/Physics/Physicist/Huygens,Christiaan.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Physicist/Huygens,Christiaan.personal|Huygens,Christiaan.personal]] 
 
-### #is_/same_as :: [Huygens,Christiaan.secret](/_secret/Science/Physics/Physicist/Huygens,Christiaan.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Physicist/Huygens,Christiaan.secret|Huygens,Christiaan.secret]] 
 

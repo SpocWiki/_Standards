@@ -39,17 +39,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [is_discussing](/_Standards/schema-org/Relation/is/is_discussing.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/is/is_discussing|is_discussing]] 
 
-### #is_/same_as :: [is_discussing.public](/_public/schema-org/Relation/is/is_discussing.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/is/is_discussing.public|is_discussing.public]] 
 
-### #is_/same_as :: [is_discussing.internal](/_internal/schema-org/Relation/is/is_discussing.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/is/is_discussing.internal|is_discussing.internal]] 
 
-### #is_/same_as :: [is_discussing.protect](/_protect/schema-org/Relation/is/is_discussing.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/is/is_discussing.protect|is_discussing.protect]] 
 
-### #is_/same_as :: [is_discussing.private](/_private/schema-org/Relation/is/is_discussing.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/is/is_discussing.private|is_discussing.private]] 
 
-### #is_/same_as :: [is_discussing.personal](/_personal/schema-org/Relation/is/is_discussing.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/is/is_discussing.personal|is_discussing.personal]] 
 
-### #is_/same_as :: [is_discussing.secret](/_secret/schema-org/Relation/is/is_discussing.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/is/is_discussing.secret|is_discussing.secret]] 
 

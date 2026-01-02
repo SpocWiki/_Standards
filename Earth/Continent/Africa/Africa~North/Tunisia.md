@@ -535,17 +535,17 @@ Capital :: [[Tunisia/governorates~Tunisia/Tunis]]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Tunisia](/_Standards/Earth/Continent/Africa/Africa~North/Tunisia.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~North/Tunisia|Tunisia]] 
 
-### #is_/same_as :: [Tunisia.public](/_public/Earth/Continent/Africa/Africa~North/Tunisia.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~North/Tunisia.public|Tunisia.public]] 
 
-### #is_/same_as :: [Tunisia.internal](/_internal/Earth/Continent/Africa/Africa~North/Tunisia.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~North/Tunisia.internal|Tunisia.internal]] 
 
-### #is_/same_as :: [Tunisia.protect](/_protect/Earth/Continent/Africa/Africa~North/Tunisia.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~North/Tunisia.protect|Tunisia.protect]] 
 
-### #is_/same_as :: [Tunisia.private](/_private/Earth/Continent/Africa/Africa~North/Tunisia.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~North/Tunisia.private|Tunisia.private]] 
 
-### #is_/same_as :: [Tunisia.personal](/_personal/Earth/Continent/Africa/Africa~North/Tunisia.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~North/Tunisia.personal|Tunisia.personal]] 
 
-### #is_/same_as :: [Tunisia.secret](/_secret/Earth/Continent/Africa/Africa~North/Tunisia.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~North/Tunisia.secret|Tunisia.secret]] 
 

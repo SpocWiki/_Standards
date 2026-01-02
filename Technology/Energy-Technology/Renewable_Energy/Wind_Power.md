@@ -80,17 +80,17 @@ GitHub_topic: wind-power
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Wind_Power](/_Standards/Technology/Energy-Technology/Renewable_Energy/Wind_Power.md) 
+### #is_/same_as :: [[/_Standards/Technology/Energy-Technology/Renewable_Energy/Wind_Power|Wind_Power]] 
 
-### #is_/same_as :: [Wind_Power.public](/_public/Technology/Energy-Technology/Renewable_Energy/Wind_Power.public.md) 
+### #is_/same_as :: [[/_public/Technology/Energy-Technology/Renewable_Energy/Wind_Power.public|Wind_Power.public]] 
 
-### #is_/same_as :: [Wind_Power.internal](/_internal/Technology/Energy-Technology/Renewable_Energy/Wind_Power.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Energy-Technology/Renewable_Energy/Wind_Power.internal|Wind_Power.internal]] 
 
-### #is_/same_as :: [Wind_Power.protect](/_protect/Technology/Energy-Technology/Renewable_Energy/Wind_Power.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Energy-Technology/Renewable_Energy/Wind_Power.protect|Wind_Power.protect]] 
 
-### #is_/same_as :: [Wind_Power.private](/_private/Technology/Energy-Technology/Renewable_Energy/Wind_Power.private.md) 
+### #is_/same_as :: [[/_private/Technology/Energy-Technology/Renewable_Energy/Wind_Power.private|Wind_Power.private]] 
 
-### #is_/same_as :: [Wind_Power.personal](/_personal/Technology/Energy-Technology/Renewable_Energy/Wind_Power.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Energy-Technology/Renewable_Energy/Wind_Power.personal|Wind_Power.personal]] 
 
-### #is_/same_as :: [Wind_Power.secret](/_secret/Technology/Energy-Technology/Renewable_Energy/Wind_Power.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Energy-Technology/Renewable_Energy/Wind_Power.secret|Wind_Power.secret]] 
 

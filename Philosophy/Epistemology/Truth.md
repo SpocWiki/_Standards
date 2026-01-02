@@ -76,17 +76,17 @@ subclass_of: "[[_Standards/WikiData/WD~proposition,108163]]"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Truth](/_Standards/Philosophy/Epistemology/Truth.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Epistemology/Truth|Truth]] 
 
-### #is_/same_as :: [Truth.public](/_public/Philosophy/Epistemology/Truth.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Epistemology/Truth.public|Truth.public]] 
 
-### #is_/same_as :: [Truth.internal](/_internal/Philosophy/Epistemology/Truth.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Epistemology/Truth.internal|Truth.internal]] 
 
-### #is_/same_as :: [Truth.protect](/_protect/Philosophy/Epistemology/Truth.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Epistemology/Truth.protect|Truth.protect]] 
 
-### #is_/same_as :: [Truth.private](/_private/Philosophy/Epistemology/Truth.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Epistemology/Truth.private|Truth.private]] 
 
-### #is_/same_as :: [Truth.personal](/_personal/Philosophy/Epistemology/Truth.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Epistemology/Truth.personal|Truth.personal]] 
 
-### #is_/same_as :: [Truth.secret](/_secret/Philosophy/Epistemology/Truth.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Epistemology/Truth.secret|Truth.secret]] 
 

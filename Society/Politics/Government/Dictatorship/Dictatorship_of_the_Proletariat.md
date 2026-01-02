@@ -47,17 +47,17 @@ Krugosvet_article: istoriya/DIKTATURA_PROLETARIATA.html
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Dictatorship_of_the_Proletariat](/_Standards/Society/Politics/Government/Dictatorship/Dictatorship_of_the_Proletariat.md) 
+### #is_/same_as :: [[/_Standards/Society/Politics/Government/Dictatorship/Dictatorship_of_the_Proletariat|Dictatorship_of_the_Proletariat]] 
 
-### #is_/same_as :: [Dictatorship_of_the_Proletariat.public](/_public/Society/Politics/Government/Dictatorship/Dictatorship_of_the_Proletariat.public.md) 
+### #is_/same_as :: [[/_public/Society/Politics/Government/Dictatorship/Dictatorship_of_the_Proletariat.public|Dictatorship_of_the_Proletariat.public]] 
 
-### #is_/same_as :: [Dictatorship_of_the_Proletariat.internal](/_internal/Society/Politics/Government/Dictatorship/Dictatorship_of_the_Proletariat.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Politics/Government/Dictatorship/Dictatorship_of_the_Proletariat.internal|Dictatorship_of_the_Proletariat.internal]] 
 
-### #is_/same_as :: [Dictatorship_of_the_Proletariat.protect](/_protect/Society/Politics/Government/Dictatorship/Dictatorship_of_the_Proletariat.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Politics/Government/Dictatorship/Dictatorship_of_the_Proletariat.protect|Dictatorship_of_the_Proletariat.protect]] 
 
-### #is_/same_as :: [Dictatorship_of_the_Proletariat.private](/_private/Society/Politics/Government/Dictatorship/Dictatorship_of_the_Proletariat.private.md) 
+### #is_/same_as :: [[/_private/Society/Politics/Government/Dictatorship/Dictatorship_of_the_Proletariat.private|Dictatorship_of_the_Proletariat.private]] 
 
-### #is_/same_as :: [Dictatorship_of_the_Proletariat.personal](/_personal/Society/Politics/Government/Dictatorship/Dictatorship_of_the_Proletariat.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Politics/Government/Dictatorship/Dictatorship_of_the_Proletariat.personal|Dictatorship_of_the_Proletariat.personal]] 
 
-### #is_/same_as :: [Dictatorship_of_the_Proletariat.secret](/_secret/Society/Politics/Government/Dictatorship/Dictatorship_of_the_Proletariat.secret.md)
+### #is_/same_as :: [[/_secret/Society/Politics/Government/Dictatorship/Dictatorship_of_the_Proletariat.secret|Dictatorship_of_the_Proletariat.secret]] 
 

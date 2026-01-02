@@ -157,17 +157,17 @@ WordLift_URL: http://data.thenextweb.com/tnw/entity/mathematics
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Mathematics](/_Standards/Mathematics.md) 
+### #is_/same_as :: [[/_Standards/Mathematics|Mathematics]] 
 
-### #is_/same_as :: [Mathematics.public](/_public/Mathematics.public.md) 
+### #is_/same_as :: [[/_public/Mathematics.public|Mathematics.public]] 
 
-### #is_/same_as :: [Mathematics.internal](/_internal/Mathematics.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics.internal|Mathematics.internal]] 
 
-### #is_/same_as :: [Mathematics.protect](/_protect/Mathematics.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics.protect|Mathematics.protect]] 
 
-### #is_/same_as :: [Mathematics.private](/_private/Mathematics.private.md) 
+### #is_/same_as :: [[/_private/Mathematics.private|Mathematics.private]] 
 
-### #is_/same_as :: [Mathematics.personal](/_personal/Mathematics.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics.personal|Mathematics.personal]] 
 
-### #is_/same_as :: [Mathematics.secret](/_secret/Mathematics.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics.secret|Mathematics.secret]] 
 

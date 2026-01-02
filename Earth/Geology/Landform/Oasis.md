@@ -39,17 +39,17 @@ Commons_category: Oases
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Oasis](/_Standards/Earth/Geology/Landform/Oasis.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geology/Landform/Oasis|Oasis]] 
 
-### #is_/same_as :: [Oasis.public](/_public/Earth/Geology/Landform/Oasis.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geology/Landform/Oasis.public|Oasis.public]] 
 
-### #is_/same_as :: [Oasis.internal](/_internal/Earth/Geology/Landform/Oasis.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geology/Landform/Oasis.internal|Oasis.internal]] 
 
-### #is_/same_as :: [Oasis.protect](/_protect/Earth/Geology/Landform/Oasis.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geology/Landform/Oasis.protect|Oasis.protect]] 
 
-### #is_/same_as :: [Oasis.private](/_private/Earth/Geology/Landform/Oasis.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geology/Landform/Oasis.private|Oasis.private]] 
 
-### #is_/same_as :: [Oasis.personal](/_personal/Earth/Geology/Landform/Oasis.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geology/Landform/Oasis.personal|Oasis.personal]] 
 
-### #is_/same_as :: [Oasis.secret](/_secret/Earth/Geology/Landform/Oasis.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geology/Landform/Oasis.secret|Oasis.secret]] 
 

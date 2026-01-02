@@ -19,17 +19,17 @@ Hence, three different training algorithms have been suggested, called Rule I, R
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Memistor](/_Standards/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Memistor.md) 
+### #is_/same_as :: [[/_Standards/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Memistor|Memistor]] 
 
-### #is_/same_as :: [Memistor.public](/_public/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Memistor.public.md) 
+### #is_/same_as :: [[/_public/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Memistor.public|Memistor.public]] 
 
-### #is_/same_as :: [Memistor.internal](/_internal/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Memistor.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Memistor.internal|Memistor.internal]] 
 
-### #is_/same_as :: [Memistor.protect](/_protect/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Memistor.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Memistor.protect|Memistor.protect]] 
 
-### #is_/same_as :: [Memistor.private](/_private/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Memistor.private.md) 
+### #is_/same_as :: [[/_private/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Memistor.private|Memistor.private]] 
 
-### #is_/same_as :: [Memistor.personal](/_personal/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Memistor.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Memistor.personal|Memistor.personal]] 
 
-### #is_/same_as :: [Memistor.secret](/_secret/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Memistor.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Memistor.secret|Memistor.secret]] 
 

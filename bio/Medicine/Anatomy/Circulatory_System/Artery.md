@@ -118,17 +118,17 @@ N4IgLgngDgpiBcIYA8DGBDANgSwCYCd0B3EAGhADcZ8BnbAewDsEAmcm+gV31TkQAswYKDXgB6MQHNsY
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Artery](/_Standards/bio/Medicine/Anatomy/Circulatory_System/Artery.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Anatomy/Circulatory_System/Artery|Artery]] 
 
-### #is_/same_as :: [Artery.public](/_public/bio/Medicine/Anatomy/Circulatory_System/Artery.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Anatomy/Circulatory_System/Artery.public|Artery.public]] 
 
-### #is_/same_as :: [Artery.internal](/_internal/bio/Medicine/Anatomy/Circulatory_System/Artery.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Anatomy/Circulatory_System/Artery.internal|Artery.internal]] 
 
-### #is_/same_as :: [Artery.protect](/_protect/bio/Medicine/Anatomy/Circulatory_System/Artery.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Anatomy/Circulatory_System/Artery.protect|Artery.protect]] 
 
-### #is_/same_as :: [Artery.private](/_private/bio/Medicine/Anatomy/Circulatory_System/Artery.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Anatomy/Circulatory_System/Artery.private|Artery.private]] 
 
-### #is_/same_as :: [Artery.personal](/_personal/bio/Medicine/Anatomy/Circulatory_System/Artery.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Anatomy/Circulatory_System/Artery.personal|Artery.personal]] 
 
-### #is_/same_as :: [Artery.secret](/_secret/bio/Medicine/Anatomy/Circulatory_System/Artery.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Anatomy/Circulatory_System/Artery.secret|Artery.secret]] 
 

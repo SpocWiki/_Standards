@@ -57,17 +57,17 @@ Dewey_Decimal_Classification: "796.4257"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Triathlon](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Triathlon.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Triathlon|Triathlon]] 
 
-### #is_/same_as :: [Triathlon.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Triathlon.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Triathlon.public|Triathlon.public]] 
 
-### #is_/same_as :: [Triathlon.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Triathlon.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Triathlon.internal|Triathlon.internal]] 
 
-### #is_/same_as :: [Triathlon.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Triathlon.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Triathlon.protect|Triathlon.protect]] 
 
-### #is_/same_as :: [Triathlon.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Triathlon.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Triathlon.private|Triathlon.private]] 
 
-### #is_/same_as :: [Triathlon.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Triathlon.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Triathlon.personal|Triathlon.personal]] 
 
-### #is_/same_as :: [Triathlon.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Triathlon.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Triathlon.secret|Triathlon.secret]] 
 

@@ -28,17 +28,17 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/20151121%20WDSF%20Aust
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Jive](/_Standards/Society/Communication/Media/Performing_Arts/Dance/Jive.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Performing_Arts/Dance/Jive|Jive]] 
 
-### #is_/same_as :: [Jive.public](/_public/Society/Communication/Media/Performing_Arts/Dance/Jive.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Performing_Arts/Dance/Jive.public|Jive.public]] 
 
-### #is_/same_as :: [Jive.internal](/_internal/Society/Communication/Media/Performing_Arts/Dance/Jive.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Performing_Arts/Dance/Jive.internal|Jive.internal]] 
 
-### #is_/same_as :: [Jive.protect](/_protect/Society/Communication/Media/Performing_Arts/Dance/Jive.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Performing_Arts/Dance/Jive.protect|Jive.protect]] 
 
-### #is_/same_as :: [Jive.private](/_private/Society/Communication/Media/Performing_Arts/Dance/Jive.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Performing_Arts/Dance/Jive.private|Jive.private]] 
 
-### #is_/same_as :: [Jive.personal](/_personal/Society/Communication/Media/Performing_Arts/Dance/Jive.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Performing_Arts/Dance/Jive.personal|Jive.personal]] 
 
-### #is_/same_as :: [Jive.secret](/_secret/Society/Communication/Media/Performing_Arts/Dance/Jive.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Performing_Arts/Dance/Jive.secret|Jive.secret]] 
 

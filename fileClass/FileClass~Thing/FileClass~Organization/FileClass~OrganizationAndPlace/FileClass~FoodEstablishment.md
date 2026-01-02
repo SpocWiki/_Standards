@@ -79,17 +79,17 @@ StarRating:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Th
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~FoodEstablishment](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FoodEstablishment.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FoodEstablishment|FileClass~FoodEstablishment]] 
 
-### #is_/same_as :: [FileClass~FoodEstablishment.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FoodEstablishment.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FoodEstablishment.public|FileClass~FoodEstablishment.public]] 
 
-### #is_/same_as :: [FileClass~FoodEstablishment.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FoodEstablishment.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FoodEstablishment.internal|FileClass~FoodEstablishment.internal]] 
 
-### #is_/same_as :: [FileClass~FoodEstablishment.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FoodEstablishment.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FoodEstablishment.protect|FileClass~FoodEstablishment.protect]] 
 
-### #is_/same_as :: [FileClass~FoodEstablishment.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FoodEstablishment.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FoodEstablishment.private|FileClass~FoodEstablishment.private]] 
 
-### #is_/same_as :: [FileClass~FoodEstablishment.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FoodEstablishment.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FoodEstablishment.personal|FileClass~FoodEstablishment.personal]] 
 
-### #is_/same_as :: [FileClass~FoodEstablishment.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FoodEstablishment.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FoodEstablishment.secret|FileClass~FoodEstablishment.secret]] 
 

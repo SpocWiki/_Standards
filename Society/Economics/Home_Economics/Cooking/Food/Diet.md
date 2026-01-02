@@ -56,17 +56,17 @@ MeSH_tree_code: G07.203.650.240
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Diet](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Diet.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Home_Economics/Cooking/Food/Diet|Diet]] 
 
-### #is_/same_as :: [Diet.public](/_public/Society/Economics/Home_Economics/Cooking/Food/Diet.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Home_Economics/Cooking/Food/Diet.public|Diet.public]] 
 
-### #is_/same_as :: [Diet.internal](/_internal/Society/Economics/Home_Economics/Cooking/Food/Diet.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Home_Economics/Cooking/Food/Diet.internal|Diet.internal]] 
 
-### #is_/same_as :: [Diet.protect](/_protect/Society/Economics/Home_Economics/Cooking/Food/Diet.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Home_Economics/Cooking/Food/Diet.protect|Diet.protect]] 
 
-### #is_/same_as :: [Diet.private](/_private/Society/Economics/Home_Economics/Cooking/Food/Diet.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Home_Economics/Cooking/Food/Diet.private|Diet.private]] 
 
-### #is_/same_as :: [Diet.personal](/_personal/Society/Economics/Home_Economics/Cooking/Food/Diet.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Home_Economics/Cooking/Food/Diet.personal|Diet.personal]] 
 
-### #is_/same_as :: [Diet.secret](/_secret/Society/Economics/Home_Economics/Cooking/Food/Diet.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Home_Economics/Cooking/Food/Diet.secret|Diet.secret]] 
 

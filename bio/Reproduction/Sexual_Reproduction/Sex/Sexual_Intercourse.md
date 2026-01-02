@@ -80,17 +80,17 @@ Commons_gallery: Sexual intercourse in humans
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sexual_Intercourse](/_Standards/bio/Reproduction/Sexual_Reproduction/Sex/Sexual_Intercourse.md) 
+### #is_/same_as :: [[/_Standards/bio/Reproduction/Sexual_Reproduction/Sex/Sexual_Intercourse|Sexual_Intercourse]] 
 
-### #is_/same_as :: [Sexual_Intercourse.public](/_public/bio/Reproduction/Sexual_Reproduction/Sex/Sexual_Intercourse.public.md) 
+### #is_/same_as :: [[/_public/bio/Reproduction/Sexual_Reproduction/Sex/Sexual_Intercourse.public|Sexual_Intercourse.public]] 
 
-### #is_/same_as :: [Sexual_Intercourse.internal](/_internal/bio/Reproduction/Sexual_Reproduction/Sex/Sexual_Intercourse.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Reproduction/Sexual_Reproduction/Sex/Sexual_Intercourse.internal|Sexual_Intercourse.internal]] 
 
-### #is_/same_as :: [Sexual_Intercourse.protect](/_protect/bio/Reproduction/Sexual_Reproduction/Sex/Sexual_Intercourse.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Reproduction/Sexual_Reproduction/Sex/Sexual_Intercourse.protect|Sexual_Intercourse.protect]] 
 
-### #is_/same_as :: [Sexual_Intercourse.private](/_private/bio/Reproduction/Sexual_Reproduction/Sex/Sexual_Intercourse.private.md) 
+### #is_/same_as :: [[/_private/bio/Reproduction/Sexual_Reproduction/Sex/Sexual_Intercourse.private|Sexual_Intercourse.private]] 
 
-### #is_/same_as :: [Sexual_Intercourse.personal](/_personal/bio/Reproduction/Sexual_Reproduction/Sex/Sexual_Intercourse.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Reproduction/Sexual_Reproduction/Sex/Sexual_Intercourse.personal|Sexual_Intercourse.personal]] 
 
-### #is_/same_as :: [Sexual_Intercourse.secret](/_secret/bio/Reproduction/Sexual_Reproduction/Sex/Sexual_Intercourse.secret.md)
+### #is_/same_as :: [[/_secret/bio/Reproduction/Sexual_Reproduction/Sex/Sexual_Intercourse.secret|Sexual_Intercourse.secret]] 
 

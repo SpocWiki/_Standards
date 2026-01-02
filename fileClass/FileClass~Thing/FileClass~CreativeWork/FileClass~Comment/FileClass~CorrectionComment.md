@@ -37,17 +37,17 @@ A [[../../../../Society/Communication/Media/Creative_Work/Comment]] that correct
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~CorrectionComment](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Comment/FileClass~CorrectionComment.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Comment/FileClass~CorrectionComment|FileClass~CorrectionComment]] 
 
-### #is_/same_as :: [FileClass~CorrectionComment.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Comment/FileClass~CorrectionComment.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Comment/FileClass~CorrectionComment.public|FileClass~CorrectionComment.public]] 
 
-### #is_/same_as :: [FileClass~CorrectionComment.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Comment/FileClass~CorrectionComment.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Comment/FileClass~CorrectionComment.internal|FileClass~CorrectionComment.internal]] 
 
-### #is_/same_as :: [FileClass~CorrectionComment.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Comment/FileClass~CorrectionComment.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Comment/FileClass~CorrectionComment.protect|FileClass~CorrectionComment.protect]] 
 
-### #is_/same_as :: [FileClass~CorrectionComment.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Comment/FileClass~CorrectionComment.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Comment/FileClass~CorrectionComment.private|FileClass~CorrectionComment.private]] 
 
-### #is_/same_as :: [FileClass~CorrectionComment.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Comment/FileClass~CorrectionComment.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Comment/FileClass~CorrectionComment.personal|FileClass~CorrectionComment.personal]] 
 
-### #is_/same_as :: [FileClass~CorrectionComment.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Comment/FileClass~CorrectionComment.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Comment/FileClass~CorrectionComment.secret|FileClass~CorrectionComment.secret]] 
 

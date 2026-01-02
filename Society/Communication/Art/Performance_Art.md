@@ -51,17 +51,17 @@ Commons_category: Performance art
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Performance_Art](/_Standards/Society/Communication/Art/Performance_Art.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Art/Performance_Art|Performance_Art]] 
 
-### #is_/same_as :: [Performance_Art.public](/_public/Society/Communication/Art/Performance_Art.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Art/Performance_Art.public|Performance_Art.public]] 
 
-### #is_/same_as :: [Performance_Art.internal](/_internal/Society/Communication/Art/Performance_Art.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Art/Performance_Art.internal|Performance_Art.internal]] 
 
-### #is_/same_as :: [Performance_Art.protect](/_protect/Society/Communication/Art/Performance_Art.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Art/Performance_Art.protect|Performance_Art.protect]] 
 
-### #is_/same_as :: [Performance_Art.private](/_private/Society/Communication/Art/Performance_Art.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Art/Performance_Art.private|Performance_Art.private]] 
 
-### #is_/same_as :: [Performance_Art.personal](/_personal/Society/Communication/Art/Performance_Art.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Art/Performance_Art.personal|Performance_Art.personal]] 
 
-### #is_/same_as :: [Performance_Art.secret](/_secret/Society/Communication/Art/Performance_Art.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Art/Performance_Art.secret|Performance_Art.secret]] 
 

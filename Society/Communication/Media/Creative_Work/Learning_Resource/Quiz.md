@@ -41,17 +41,17 @@ Quiz: A test of knowledge, skills and abilities.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Quiz](/_Standards/Society/Communication/Media/Creative_Work/Learning_Resource/Quiz.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Creative_Work/Learning_Resource/Quiz|Quiz]] 
 
-### #is_/same_as :: [Quiz.public](/_public/Society/Communication/Media/Creative_Work/Learning_Resource/Quiz.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Creative_Work/Learning_Resource/Quiz.public|Quiz.public]] 
 
-### #is_/same_as :: [Quiz.internal](/_internal/Society/Communication/Media/Creative_Work/Learning_Resource/Quiz.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Creative_Work/Learning_Resource/Quiz.internal|Quiz.internal]] 
 
-### #is_/same_as :: [Quiz.protect](/_protect/Society/Communication/Media/Creative_Work/Learning_Resource/Quiz.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Creative_Work/Learning_Resource/Quiz.protect|Quiz.protect]] 
 
-### #is_/same_as :: [Quiz.private](/_private/Society/Communication/Media/Creative_Work/Learning_Resource/Quiz.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Creative_Work/Learning_Resource/Quiz.private|Quiz.private]] 
 
-### #is_/same_as :: [Quiz.personal](/_personal/Society/Communication/Media/Creative_Work/Learning_Resource/Quiz.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/Learning_Resource/Quiz.personal|Quiz.personal]] 
 
-### #is_/same_as :: [Quiz.secret](/_secret/Society/Communication/Media/Creative_Work/Learning_Resource/Quiz.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Learning_Resource/Quiz.secret|Quiz.secret]] 
 

@@ -135,17 +135,17 @@ Regensburg_Classification: IG 7250
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Stendhal](/_Standards/Society/Communication/Media/Writing/Book/Writer/French_Writer/Stendhal.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Writer/French_Writer/Stendhal|Stendhal]] 
 
-### #is_/same_as :: [Stendhal.public](/_public/Society/Communication/Media/Writing/Book/Writer/French_Writer/Stendhal.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Writer/French_Writer/Stendhal.public|Stendhal.public]] 
 
-### #is_/same_as :: [Stendhal.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/French_Writer/Stendhal.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Writer/French_Writer/Stendhal.internal|Stendhal.internal]] 
 
-### #is_/same_as :: [Stendhal.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/French_Writer/Stendhal.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Writer/French_Writer/Stendhal.protect|Stendhal.protect]] 
 
-### #is_/same_as :: [Stendhal.private](/_private/Society/Communication/Media/Writing/Book/Writer/French_Writer/Stendhal.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Writer/French_Writer/Stendhal.private|Stendhal.private]] 
 
-### #is_/same_as :: [Stendhal.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/French_Writer/Stendhal.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Writer/French_Writer/Stendhal.personal|Stendhal.personal]] 
 
-### #is_/same_as :: [Stendhal.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/French_Writer/Stendhal.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Writer/French_Writer/Stendhal.secret|Stendhal.secret]] 
 

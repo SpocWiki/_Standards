@@ -42,17 +42,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_delivery_status](/_Standards/schema-org/Relation/has/has_delivery_status.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_delivery_status|has_delivery_status]] 
 
-### #is_/same_as :: [has_delivery_status.public](/_public/schema-org/Relation/has/has_delivery_status.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_delivery_status.public|has_delivery_status.public]] 
 
-### #is_/same_as :: [has_delivery_status.internal](/_internal/schema-org/Relation/has/has_delivery_status.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_delivery_status.internal|has_delivery_status.internal]] 
 
-### #is_/same_as :: [has_delivery_status.protect](/_protect/schema-org/Relation/has/has_delivery_status.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_delivery_status.protect|has_delivery_status.protect]] 
 
-### #is_/same_as :: [has_delivery_status.private](/_private/schema-org/Relation/has/has_delivery_status.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_delivery_status.private|has_delivery_status.private]] 
 
-### #is_/same_as :: [has_delivery_status.personal](/_personal/schema-org/Relation/has/has_delivery_status.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_delivery_status.personal|has_delivery_status.personal]] 
 
-### #is_/same_as :: [has_delivery_status.secret](/_secret/schema-org/Relation/has/has_delivery_status.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_delivery_status.secret|has_delivery_status.secret]] 
 

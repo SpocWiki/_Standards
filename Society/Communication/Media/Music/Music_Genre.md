@@ -46,17 +46,17 @@ Wikidata_property: genre
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Music_Genre](/_Standards/Society/Communication/Media/Music/Music_Genre.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Music_Genre|Music_Genre]] 
 
-### #is_/same_as :: [Music_Genre.public](/_public/Society/Communication/Media/Music/Music_Genre.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Music_Genre.public|Music_Genre.public]] 
 
-### #is_/same_as :: [Music_Genre.internal](/_internal/Society/Communication/Media/Music/Music_Genre.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Music_Genre.internal|Music_Genre.internal]] 
 
-### #is_/same_as :: [Music_Genre.protect](/_protect/Society/Communication/Media/Music/Music_Genre.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Music_Genre.protect|Music_Genre.protect]] 
 
-### #is_/same_as :: [Music_Genre.private](/_private/Society/Communication/Media/Music/Music_Genre.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Music_Genre.private|Music_Genre.private]] 
 
-### #is_/same_as :: [Music_Genre.personal](/_personal/Society/Communication/Media/Music/Music_Genre.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Music_Genre.personal|Music_Genre.personal]] 
 
-### #is_/same_as :: [Music_Genre.secret](/_secret/Society/Communication/Media/Music/Music_Genre.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Music_Genre.secret|Music_Genre.secret]] 
 

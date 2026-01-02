@@ -42,17 +42,17 @@ Play mode: SinglePlayer. Which is played by a lone player.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Single_Player](/_Standards/schema-org/Enumeration/Game_Play_Mode/Single_Player.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Game_Play_Mode/Single_Player|Single_Player]] 
 
-### #is_/same_as :: [Single_Player.public](/_public/schema-org/Enumeration/Game_Play_Mode/Single_Player.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Game_Play_Mode/Single_Player.public|Single_Player.public]] 
 
-### #is_/same_as :: [Single_Player.internal](/_internal/schema-org/Enumeration/Game_Play_Mode/Single_Player.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Game_Play_Mode/Single_Player.internal|Single_Player.internal]] 
 
-### #is_/same_as :: [Single_Player.protect](/_protect/schema-org/Enumeration/Game_Play_Mode/Single_Player.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Game_Play_Mode/Single_Player.protect|Single_Player.protect]] 
 
-### #is_/same_as :: [Single_Player.private](/_private/schema-org/Enumeration/Game_Play_Mode/Single_Player.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Game_Play_Mode/Single_Player.private|Single_Player.private]] 
 
-### #is_/same_as :: [Single_Player.personal](/_personal/schema-org/Enumeration/Game_Play_Mode/Single_Player.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Game_Play_Mode/Single_Player.personal|Single_Player.personal]] 
 
-### #is_/same_as :: [Single_Player.secret](/_secret/schema-org/Enumeration/Game_Play_Mode/Single_Player.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Game_Play_Mode/Single_Player.secret|Single_Player.secret]] 
 

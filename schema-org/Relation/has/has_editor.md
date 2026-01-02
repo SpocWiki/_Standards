@@ -41,17 +41,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_editor](/_Standards/schema-org/Relation/has/has_editor.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_editor|has_editor]] 
 
-### #is_/same_as :: [has_editor.public](/_public/schema-org/Relation/has/has_editor.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_editor.public|has_editor.public]] 
 
-### #is_/same_as :: [has_editor.internal](/_internal/schema-org/Relation/has/has_editor.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_editor.internal|has_editor.internal]] 
 
-### #is_/same_as :: [has_editor.protect](/_protect/schema-org/Relation/has/has_editor.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_editor.protect|has_editor.protect]] 
 
-### #is_/same_as :: [has_editor.private](/_private/schema-org/Relation/has/has_editor.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_editor.private|has_editor.private]] 
 
-### #is_/same_as :: [has_editor.personal](/_personal/schema-org/Relation/has/has_editor.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_editor.personal|has_editor.personal]] 
 
-### #is_/same_as :: [has_editor.secret](/_secret/schema-org/Relation/has/has_editor.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_editor.secret|has_editor.secret]] 
 

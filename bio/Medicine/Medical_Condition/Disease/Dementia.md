@@ -102,17 +102,17 @@ Dewey_Decimal_Classification: "362.19683"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Dementia](/_Standards/bio/Medicine/Medical_Condition/Disease/Dementia.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Condition/Disease/Dementia|Dementia]] 
 
-### #is_/same_as :: [Dementia.public](/_public/bio/Medicine/Medical_Condition/Disease/Dementia.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Condition/Disease/Dementia.public|Dementia.public]] 
 
-### #is_/same_as :: [Dementia.internal](/_internal/bio/Medicine/Medical_Condition/Disease/Dementia.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Condition/Disease/Dementia.internal|Dementia.internal]] 
 
-### #is_/same_as :: [Dementia.protect](/_protect/bio/Medicine/Medical_Condition/Disease/Dementia.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Condition/Disease/Dementia.protect|Dementia.protect]] 
 
-### #is_/same_as :: [Dementia.private](/_private/bio/Medicine/Medical_Condition/Disease/Dementia.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Condition/Disease/Dementia.private|Dementia.private]] 
 
-### #is_/same_as :: [Dementia.personal](/_personal/bio/Medicine/Medical_Condition/Disease/Dementia.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Condition/Disease/Dementia.personal|Dementia.personal]] 
 
-### #is_/same_as :: [Dementia.secret](/_secret/bio/Medicine/Medical_Condition/Disease/Dementia.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Condition/Disease/Dementia.secret|Dementia.secret]] 
 

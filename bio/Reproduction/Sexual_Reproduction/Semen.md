@@ -52,17 +52,17 @@ UMLS_CUI:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Semen](/_Standards/bio/Reproduction/Sexual_Reproduction/Semen.md) 
+### #is_/same_as :: [[/_Standards/bio/Reproduction/Sexual_Reproduction/Semen|Semen]] 
 
-### #is_/same_as :: [Semen.public](/_public/bio/Reproduction/Sexual_Reproduction/Semen.public.md) 
+### #is_/same_as :: [[/_public/bio/Reproduction/Sexual_Reproduction/Semen.public|Semen.public]] 
 
-### #is_/same_as :: [Semen.internal](/_internal/bio/Reproduction/Sexual_Reproduction/Semen.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Reproduction/Sexual_Reproduction/Semen.internal|Semen.internal]] 
 
-### #is_/same_as :: [Semen.protect](/_protect/bio/Reproduction/Sexual_Reproduction/Semen.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Reproduction/Sexual_Reproduction/Semen.protect|Semen.protect]] 
 
-### #is_/same_as :: [Semen.private](/_private/bio/Reproduction/Sexual_Reproduction/Semen.private.md) 
+### #is_/same_as :: [[/_private/bio/Reproduction/Sexual_Reproduction/Semen.private|Semen.private]] 
 
-### #is_/same_as :: [Semen.personal](/_personal/bio/Reproduction/Sexual_Reproduction/Semen.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Reproduction/Sexual_Reproduction/Semen.personal|Semen.personal]] 
 
-### #is_/same_as :: [Semen.secret](/_secret/bio/Reproduction/Sexual_Reproduction/Semen.secret.md)
+### #is_/same_as :: [[/_secret/bio/Reproduction/Sexual_Reproduction/Semen.secret|Semen.secret]] 
 

@@ -155,17 +155,17 @@ U_S_National_Archives_Identifier: 10640824
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Fascism](/_Standards/Society/Ideology/Political_Ideology/Fascism.md) 
+### #is_/same_as :: [[/_Standards/Society/Ideology/Political_Ideology/Fascism|Fascism]] 
 
-### #is_/same_as :: [Fascism.public](/_public/Society/Ideology/Political_Ideology/Fascism.public.md) 
+### #is_/same_as :: [[/_public/Society/Ideology/Political_Ideology/Fascism.public|Fascism.public]] 
 
-### #is_/same_as :: [Fascism.internal](/_internal/Society/Ideology/Political_Ideology/Fascism.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Ideology/Political_Ideology/Fascism.internal|Fascism.internal]] 
 
-### #is_/same_as :: [Fascism.protect](/_protect/Society/Ideology/Political_Ideology/Fascism.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Ideology/Political_Ideology/Fascism.protect|Fascism.protect]] 
 
-### #is_/same_as :: [Fascism.private](/_private/Society/Ideology/Political_Ideology/Fascism.private.md) 
+### #is_/same_as :: [[/_private/Society/Ideology/Political_Ideology/Fascism.private|Fascism.private]] 
 
-### #is_/same_as :: [Fascism.personal](/_personal/Society/Ideology/Political_Ideology/Fascism.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Ideology/Political_Ideology/Fascism.personal|Fascism.personal]] 
 
-### #is_/same_as :: [Fascism.secret](/_secret/Society/Ideology/Political_Ideology/Fascism.secret.md)
+### #is_/same_as :: [[/_secret/Society/Ideology/Political_Ideology/Fascism.secret|Fascism.secret]] 
 

@@ -56,17 +56,17 @@ Krugosvet_article: kultura_i_obrazovanie/izobrazitelnoe_iskusstvo/EKSPRESSIONIZM
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Expressionism](/_Standards/Society/Communication/Art/Art_History/Expressionism.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Art/Art_History/Expressionism|Expressionism]] 
 
-### #is_/same_as :: [Expressionism.public](/_public/Society/Communication/Art/Art_History/Expressionism.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Art/Art_History/Expressionism.public|Expressionism.public]] 
 
-### #is_/same_as :: [Expressionism.internal](/_internal/Society/Communication/Art/Art_History/Expressionism.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Art/Art_History/Expressionism.internal|Expressionism.internal]] 
 
-### #is_/same_as :: [Expressionism.protect](/_protect/Society/Communication/Art/Art_History/Expressionism.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Art/Art_History/Expressionism.protect|Expressionism.protect]] 
 
-### #is_/same_as :: [Expressionism.private](/_private/Society/Communication/Art/Art_History/Expressionism.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Art/Art_History/Expressionism.private|Expressionism.private]] 
 
-### #is_/same_as :: [Expressionism.personal](/_personal/Society/Communication/Art/Art_History/Expressionism.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Art/Art_History/Expressionism.personal|Expressionism.personal]] 
 
-### #is_/same_as :: [Expressionism.secret](/_secret/Society/Communication/Art/Art_History/Expressionism.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Art/Art_History/Expressionism.secret|Expressionism.secret]] 
 

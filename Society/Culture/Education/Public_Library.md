@@ -52,17 +52,17 @@ Iconclass_notation: 49M9
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Public_Library](/_Standards/Society/Culture/Education/Public_Library.md) 
+### #is_/same_as :: [[/_Standards/Society/Culture/Education/Public_Library|Public_Library]] 
 
-### #is_/same_as :: [Public_Library.public](/_public/Society/Culture/Education/Public_Library.public.md) 
+### #is_/same_as :: [[/_public/Society/Culture/Education/Public_Library.public|Public_Library.public]] 
 
-### #is_/same_as :: [Public_Library.internal](/_internal/Society/Culture/Education/Public_Library.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Culture/Education/Public_Library.internal|Public_Library.internal]] 
 
-### #is_/same_as :: [Public_Library.protect](/_protect/Society/Culture/Education/Public_Library.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Culture/Education/Public_Library.protect|Public_Library.protect]] 
 
-### #is_/same_as :: [Public_Library.private](/_private/Society/Culture/Education/Public_Library.private.md) 
+### #is_/same_as :: [[/_private/Society/Culture/Education/Public_Library.private|Public_Library.private]] 
 
-### #is_/same_as :: [Public_Library.personal](/_personal/Society/Culture/Education/Public_Library.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Culture/Education/Public_Library.personal|Public_Library.personal]] 
 
-### #is_/same_as :: [Public_Library.secret](/_secret/Society/Culture/Education/Public_Library.secret.md)
+### #is_/same_as :: [[/_secret/Society/Culture/Education/Public_Library.secret|Public_Library.secret]] 
 

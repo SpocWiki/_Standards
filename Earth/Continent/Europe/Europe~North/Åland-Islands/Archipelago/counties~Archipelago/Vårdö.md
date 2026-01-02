@@ -40,17 +40,17 @@ markerFolder: ./Vårdö/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Vårdö](/_Standards/Earth/Continent/Europe/Europe~North/Åland-Islands/Archipelago/counties~Archipelago/Vårdö.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Åland-Islands/Archipelago/counties~Archipelago/Vårdö|Vårdö]] 
 
-### #is_/same_as :: [Vårdö.public](/_public/Earth/Continent/Europe/Europe~North/Åland-Islands/Archipelago/counties~Archipelago/Vårdö.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Åland-Islands/Archipelago/counties~Archipelago/Vårdö.public|Vårdö.public]] 
 
-### #is_/same_as :: [Vårdö.internal](/_internal/Earth/Continent/Europe/Europe~North/Åland-Islands/Archipelago/counties~Archipelago/Vårdö.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Åland-Islands/Archipelago/counties~Archipelago/Vårdö.internal|Vårdö.internal]] 
 
-### #is_/same_as :: [Vårdö.protect](/_protect/Earth/Continent/Europe/Europe~North/Åland-Islands/Archipelago/counties~Archipelago/Vårdö.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Åland-Islands/Archipelago/counties~Archipelago/Vårdö.protect|Vårdö.protect]] 
 
-### #is_/same_as :: [Vårdö.private](/_private/Earth/Continent/Europe/Europe~North/Åland-Islands/Archipelago/counties~Archipelago/Vårdö.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Åland-Islands/Archipelago/counties~Archipelago/Vårdö.private|Vårdö.private]] 
 
-### #is_/same_as :: [Vårdö.personal](/_personal/Earth/Continent/Europe/Europe~North/Åland-Islands/Archipelago/counties~Archipelago/Vårdö.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Åland-Islands/Archipelago/counties~Archipelago/Vårdö.personal|Vårdö.personal]] 
 
-### #is_/same_as :: [Vårdö.secret](/_secret/Earth/Continent/Europe/Europe~North/Åland-Islands/Archipelago/counties~Archipelago/Vårdö.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Åland-Islands/Archipelago/counties~Archipelago/Vårdö.secret|Vårdö.secret]] 
 

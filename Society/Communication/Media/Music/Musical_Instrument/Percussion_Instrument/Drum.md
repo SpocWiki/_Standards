@@ -51,17 +51,17 @@ Unicode_character: 🥁
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Drum](/_Standards/Society/Communication/Media/Music/Musical_Instrument/Percussion_Instrument/Drum.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Musical_Instrument/Percussion_Instrument/Drum|Drum]] 
 
-### #is_/same_as :: [Drum.public](/_public/Society/Communication/Media/Music/Musical_Instrument/Percussion_Instrument/Drum.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Musical_Instrument/Percussion_Instrument/Drum.public|Drum.public]] 
 
-### #is_/same_as :: [Drum.internal](/_internal/Society/Communication/Media/Music/Musical_Instrument/Percussion_Instrument/Drum.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Musical_Instrument/Percussion_Instrument/Drum.internal|Drum.internal]] 
 
-### #is_/same_as :: [Drum.protect](/_protect/Society/Communication/Media/Music/Musical_Instrument/Percussion_Instrument/Drum.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Musical_Instrument/Percussion_Instrument/Drum.protect|Drum.protect]] 
 
-### #is_/same_as :: [Drum.private](/_private/Society/Communication/Media/Music/Musical_Instrument/Percussion_Instrument/Drum.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Musical_Instrument/Percussion_Instrument/Drum.private|Drum.private]] 
 
-### #is_/same_as :: [Drum.personal](/_personal/Society/Communication/Media/Music/Musical_Instrument/Percussion_Instrument/Drum.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Musical_Instrument/Percussion_Instrument/Drum.personal|Drum.personal]] 
 
-### #is_/same_as :: [Drum.secret](/_secret/Society/Communication/Media/Music/Musical_Instrument/Percussion_Instrument/Drum.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Musical_Instrument/Percussion_Instrument/Drum.secret|Drum.secret]] 
 

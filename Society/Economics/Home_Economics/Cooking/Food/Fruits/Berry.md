@@ -62,17 +62,17 @@ Commons_category: Berries
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Berry](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Fruits/Berry.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Home_Economics/Cooking/Food/Fruits/Berry|Berry]] 
 
-### #is_/same_as :: [Berry.public](/_public/Society/Economics/Home_Economics/Cooking/Food/Fruits/Berry.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Home_Economics/Cooking/Food/Fruits/Berry.public|Berry.public]] 
 
-### #is_/same_as :: [Berry.internal](/_internal/Society/Economics/Home_Economics/Cooking/Food/Fruits/Berry.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Home_Economics/Cooking/Food/Fruits/Berry.internal|Berry.internal]] 
 
-### #is_/same_as :: [Berry.protect](/_protect/Society/Economics/Home_Economics/Cooking/Food/Fruits/Berry.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Home_Economics/Cooking/Food/Fruits/Berry.protect|Berry.protect]] 
 
-### #is_/same_as :: [Berry.private](/_private/Society/Economics/Home_Economics/Cooking/Food/Fruits/Berry.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Home_Economics/Cooking/Food/Fruits/Berry.private|Berry.private]] 
 
-### #is_/same_as :: [Berry.personal](/_personal/Society/Economics/Home_Economics/Cooking/Food/Fruits/Berry.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Home_Economics/Cooking/Food/Fruits/Berry.personal|Berry.personal]] 
 
-### #is_/same_as :: [Berry.secret](/_secret/Society/Economics/Home_Economics/Cooking/Food/Fruits/Berry.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Home_Economics/Cooking/Food/Fruits/Berry.secret|Berry.secret]] 
 

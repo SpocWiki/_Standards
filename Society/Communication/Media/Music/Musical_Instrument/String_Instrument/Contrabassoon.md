@@ -32,17 +32,17 @@ Commons_category: Contrabassoons
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Contrabassoon](/_Standards/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Contrabassoon.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Contrabassoon|Contrabassoon]] 
 
-### #is_/same_as :: [Contrabassoon.public](/_public/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Contrabassoon.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Contrabassoon.public|Contrabassoon.public]] 
 
-### #is_/same_as :: [Contrabassoon.internal](/_internal/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Contrabassoon.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Contrabassoon.internal|Contrabassoon.internal]] 
 
-### #is_/same_as :: [Contrabassoon.protect](/_protect/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Contrabassoon.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Contrabassoon.protect|Contrabassoon.protect]] 
 
-### #is_/same_as :: [Contrabassoon.private](/_private/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Contrabassoon.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Contrabassoon.private|Contrabassoon.private]] 
 
-### #is_/same_as :: [Contrabassoon.personal](/_personal/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Contrabassoon.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Contrabassoon.personal|Contrabassoon.personal]] 
 
-### #is_/same_as :: [Contrabassoon.secret](/_secret/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Contrabassoon.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Contrabassoon.secret|Contrabassoon.secret]] 
 

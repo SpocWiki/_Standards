@@ -121,17 +121,17 @@ McLuhan appeared as an expert in the [[../../../../WikiData/WD~Woody_Allen,25089
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [McLuhan,Marshall](/_Standards/Society/Communication/Media/Media_Studies/McLuhan,Marshall.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Media_Studies/McLuhan,Marshall|McLuhan,Marshall]] 
 
-### #is_/same_as :: [McLuhan,Marshall.public](/_public/Society/Communication/Media/Media_Studies/McLuhan,Marshall.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Media_Studies/McLuhan,Marshall.public|McLuhan,Marshall.public]] 
 
-### #is_/same_as :: [McLuhan,Marshall.internal](/_internal/Society/Communication/Media/Media_Studies/McLuhan,Marshall.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Media_Studies/McLuhan,Marshall.internal|McLuhan,Marshall.internal]] 
 
-### #is_/same_as :: [McLuhan,Marshall.protect](/_protect/Society/Communication/Media/Media_Studies/McLuhan,Marshall.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Media_Studies/McLuhan,Marshall.protect|McLuhan,Marshall.protect]] 
 
-### #is_/same_as :: [McLuhan,Marshall.private](/_private/Society/Communication/Media/Media_Studies/McLuhan,Marshall.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Media_Studies/McLuhan,Marshall.private|McLuhan,Marshall.private]] 
 
-### #is_/same_as :: [McLuhan,Marshall.personal](/_personal/Society/Communication/Media/Media_Studies/McLuhan,Marshall.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Media_Studies/McLuhan,Marshall.personal|McLuhan,Marshall.personal]] 
 
-### #is_/same_as :: [McLuhan,Marshall.secret](/_secret/Society/Communication/Media/Media_Studies/McLuhan,Marshall.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Media_Studies/McLuhan,Marshall.secret|McLuhan,Marshall.secret]] 
 

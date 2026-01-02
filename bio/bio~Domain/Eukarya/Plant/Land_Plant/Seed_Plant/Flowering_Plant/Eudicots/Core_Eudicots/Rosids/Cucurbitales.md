@@ -70,7 +70,7 @@ title: Cucurbitales
 ## Title Illustrations
 
 ------------------------------------------------------------------------ 
-![Begonia froebelii](Cucurbitales/Begonia_froebelii.jpg))
+![Begonia froebelii](Cucurbitales/Begonia_froebelii.jpg) 
 Scientific Name ::   Begonia froebelii
 Comments           Begoniaceae. Male flower of a plant cultivated at the Botanical Garden Basel, Switzerland.
 Acknowledgements   courtesy [Botanical Image Database](http://www.unibas.ch/botimage/)
@@ -78,13 +78,13 @@ Sex ::              Male
 Copyright ::          © 2001 University of Basel, Basel, Switzerland 
 
 --------------------------------------------------------------------- 
-![Cucumber plant, Cucumis sativus](Cucurbitales/Cucurbitaceae/Benincaseae/Cucumis/Cucumber/Cucumis_sativus.jpg))
+![Cucumber plant, Cucumis sativus](Cucurbitales/Cucurbitaceae/Benincaseae/Cucumis/Cucumber/Cucumis_sativus.jpg) 
 Scientific Name ::  Cucumis sativus
 Comments          Cucumber plant (Cucurbitaceae)
 Copyright ::         © [Kurt Stüber](http://www.biolib.de/) 
 
 ------------------------------------------------------------------------ 
-![Datisca cannabina](Cucurbitales/Datisca_cannabina.jpg))
+![Datisca cannabina](Cucurbitales/Datisca_cannabina.jpg) 
 Scientific Name ::   Datisca cannabina
 Comments           Datiscaceae. Young plant cultivated at the Botanical Garden Basel, Switzerland
 Acknowledgements   courtesy [Botanical Image Database](http://www.unibas.ch/botimage/)
@@ -93,17 +93,17 @@ Copyright ::          © 2001 University of Basel, Basel, Switzerland
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Cucurbitales](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Cucurbitales.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Cucurbitales|Cucurbitales]] 
 
-### #is_/same_as :: [Cucurbitales.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Cucurbitales.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Cucurbitales.public|Cucurbitales.public]] 
 
-### #is_/same_as :: [Cucurbitales.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Cucurbitales.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Cucurbitales.internal|Cucurbitales.internal]] 
 
-### #is_/same_as :: [Cucurbitales.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Cucurbitales.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Cucurbitales.protect|Cucurbitales.protect]] 
 
-### #is_/same_as :: [Cucurbitales.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Cucurbitales.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Cucurbitales.private|Cucurbitales.private]] 
 
-### #is_/same_as :: [Cucurbitales.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Cucurbitales.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Cucurbitales.personal|Cucurbitales.personal]] 
 
-### #is_/same_as :: [Cucurbitales.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Cucurbitales.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Cucurbitales.secret|Cucurbitales.secret]] 
 

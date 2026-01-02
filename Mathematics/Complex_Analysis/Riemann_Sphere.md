@@ -63,17 +63,17 @@ Commons_category: Riemann sphere
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Riemann_Sphere](/_Standards/Mathematics/Complex_Analysis/Riemann_Sphere.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Complex_Analysis/Riemann_Sphere|Riemann_Sphere]] 
 
-### #is_/same_as :: [Riemann_Sphere.public](/_public/Mathematics/Complex_Analysis/Riemann_Sphere.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Complex_Analysis/Riemann_Sphere.public|Riemann_Sphere.public]] 
 
-### #is_/same_as :: [Riemann_Sphere.internal](/_internal/Mathematics/Complex_Analysis/Riemann_Sphere.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Complex_Analysis/Riemann_Sphere.internal|Riemann_Sphere.internal]] 
 
-### #is_/same_as :: [Riemann_Sphere.protect](/_protect/Mathematics/Complex_Analysis/Riemann_Sphere.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Complex_Analysis/Riemann_Sphere.protect|Riemann_Sphere.protect]] 
 
-### #is_/same_as :: [Riemann_Sphere.private](/_private/Mathematics/Complex_Analysis/Riemann_Sphere.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Complex_Analysis/Riemann_Sphere.private|Riemann_Sphere.private]] 
 
-### #is_/same_as :: [Riemann_Sphere.personal](/_personal/Mathematics/Complex_Analysis/Riemann_Sphere.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Complex_Analysis/Riemann_Sphere.personal|Riemann_Sphere.personal]] 
 
-### #is_/same_as :: [Riemann_Sphere.secret](/_secret/Mathematics/Complex_Analysis/Riemann_Sphere.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Complex_Analysis/Riemann_Sphere.secret|Riemann_Sphere.secret]] 
 

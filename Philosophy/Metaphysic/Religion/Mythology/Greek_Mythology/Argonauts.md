@@ -48,17 +48,17 @@ Hederich_encyclopedia_article: Argonavtae
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Argonauts](/_Standards/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Argonauts.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Argonauts|Argonauts]] 
 
-### #is_/same_as :: [Argonauts.public](/_public/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Argonauts.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Argonauts.public|Argonauts.public]] 
 
-### #is_/same_as :: [Argonauts.internal](/_internal/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Argonauts.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Argonauts.internal|Argonauts.internal]] 
 
-### #is_/same_as :: [Argonauts.protect](/_protect/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Argonauts.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Argonauts.protect|Argonauts.protect]] 
 
-### #is_/same_as :: [Argonauts.private](/_private/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Argonauts.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Argonauts.private|Argonauts.private]] 
 
-### #is_/same_as :: [Argonauts.personal](/_personal/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Argonauts.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Argonauts.personal|Argonauts.personal]] 
 
-### #is_/same_as :: [Argonauts.secret](/_secret/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Argonauts.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Argonauts.secret|Argonauts.secret]] 
 

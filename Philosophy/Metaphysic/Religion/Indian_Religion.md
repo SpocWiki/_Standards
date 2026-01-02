@@ -37,17 +37,17 @@ Jainism is similar to Buddhism in not recognizing the primacy of the Vedas and t
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Indian_Religion](/_Standards/Philosophy/Metaphysic/Religion/Indian_Religion.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Indian_Religion|Indian_Religion]] 
 
-### #is_/same_as :: [Indian_Religion.public](/_public/Philosophy/Metaphysic/Religion/Indian_Religion.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Indian_Religion.public|Indian_Religion.public]] 
 
-### #is_/same_as :: [Indian_Religion.internal](/_internal/Philosophy/Metaphysic/Religion/Indian_Religion.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Indian_Religion.internal|Indian_Religion.internal]] 
 
-### #is_/same_as :: [Indian_Religion.protect](/_protect/Philosophy/Metaphysic/Religion/Indian_Religion.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Indian_Religion.protect|Indian_Religion.protect]] 
 
-### #is_/same_as :: [Indian_Religion.private](/_private/Philosophy/Metaphysic/Religion/Indian_Religion.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Indian_Religion.private|Indian_Religion.private]] 
 
-### #is_/same_as :: [Indian_Religion.personal](/_personal/Philosophy/Metaphysic/Religion/Indian_Religion.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Indian_Religion.personal|Indian_Religion.personal]] 
 
-### #is_/same_as :: [Indian_Religion.secret](/_secret/Philosophy/Metaphysic/Religion/Indian_Religion.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Indian_Religion.secret|Indian_Religion.secret]] 
 

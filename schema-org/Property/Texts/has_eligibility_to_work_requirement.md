@@ -49,17 +49,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_eligibility_to_work_requirement](/_Standards/schema-org/Property/Texts/has_eligibility_to_work_requirement.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/Texts/has_eligibility_to_work_requirement|has_eligibility_to_work_requirement]] 
 
-### #is_/same_as :: [has_eligibility_to_work_requirement.public](/_public/schema-org/Property/Texts/has_eligibility_to_work_requirement.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/Texts/has_eligibility_to_work_requirement.public|has_eligibility_to_work_requirement.public]] 
 
-### #is_/same_as :: [has_eligibility_to_work_requirement.internal](/_internal/schema-org/Property/Texts/has_eligibility_to_work_requirement.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/Texts/has_eligibility_to_work_requirement.internal|has_eligibility_to_work_requirement.internal]] 
 
-### #is_/same_as :: [has_eligibility_to_work_requirement.protect](/_protect/schema-org/Property/Texts/has_eligibility_to_work_requirement.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/Texts/has_eligibility_to_work_requirement.protect|has_eligibility_to_work_requirement.protect]] 
 
-### #is_/same_as :: [has_eligibility_to_work_requirement.private](/_private/schema-org/Property/Texts/has_eligibility_to_work_requirement.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/Texts/has_eligibility_to_work_requirement.private|has_eligibility_to_work_requirement.private]] 
 
-### #is_/same_as :: [has_eligibility_to_work_requirement.personal](/_personal/schema-org/Property/Texts/has_eligibility_to_work_requirement.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/Texts/has_eligibility_to_work_requirement.personal|has_eligibility_to_work_requirement.personal]] 
 
-### #is_/same_as :: [has_eligibility_to_work_requirement.secret](/_secret/schema-org/Property/Texts/has_eligibility_to_work_requirement.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/Texts/has_eligibility_to_work_requirement.secret|has_eligibility_to_work_requirement.secret]] 
 

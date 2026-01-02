@@ -47,17 +47,17 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/SICCONA%20%28Command%2
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Command_and_Control](/_Standards/Society/Military/Armed_Forces/Military_Rank/Command_and_Control.md) 
+### #is_/same_as :: [[/_Standards/Society/Military/Armed_Forces/Military_Rank/Command_and_Control|Command_and_Control]] 
 
-### #is_/same_as :: [Command_and_Control.public](/_public/Society/Military/Armed_Forces/Military_Rank/Command_and_Control.public.md) 
+### #is_/same_as :: [[/_public/Society/Military/Armed_Forces/Military_Rank/Command_and_Control.public|Command_and_Control.public]] 
 
-### #is_/same_as :: [Command_and_Control.internal](/_internal/Society/Military/Armed_Forces/Military_Rank/Command_and_Control.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Military/Armed_Forces/Military_Rank/Command_and_Control.internal|Command_and_Control.internal]] 
 
-### #is_/same_as :: [Command_and_Control.protect](/_protect/Society/Military/Armed_Forces/Military_Rank/Command_and_Control.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Military/Armed_Forces/Military_Rank/Command_and_Control.protect|Command_and_Control.protect]] 
 
-### #is_/same_as :: [Command_and_Control.private](/_private/Society/Military/Armed_Forces/Military_Rank/Command_and_Control.private.md) 
+### #is_/same_as :: [[/_private/Society/Military/Armed_Forces/Military_Rank/Command_and_Control.private|Command_and_Control.private]] 
 
-### #is_/same_as :: [Command_and_Control.personal](/_personal/Society/Military/Armed_Forces/Military_Rank/Command_and_Control.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Military/Armed_Forces/Military_Rank/Command_and_Control.personal|Command_and_Control.personal]] 
 
-### #is_/same_as :: [Command_and_Control.secret](/_secret/Society/Military/Armed_Forces/Military_Rank/Command_and_Control.secret.md)
+### #is_/same_as :: [[/_secret/Society/Military/Armed_Forces/Military_Rank/Command_and_Control.secret|Command_and_Control.secret]] 
 

@@ -97,17 +97,17 @@ UNII: Q70I3KBF4W
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Fermium](/_Standards/Chemistry/Chemical_Element/Actinide/Fermium.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Chemical_Element/Actinide/Fermium|Fermium]] 
 
-### #is_/same_as :: [Fermium.public](/_public/Chemistry/Chemical_Element/Actinide/Fermium.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Chemical_Element/Actinide/Fermium.public|Fermium.public]] 
 
-### #is_/same_as :: [Fermium.internal](/_internal/Chemistry/Chemical_Element/Actinide/Fermium.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Chemical_Element/Actinide/Fermium.internal|Fermium.internal]] 
 
-### #is_/same_as :: [Fermium.protect](/_protect/Chemistry/Chemical_Element/Actinide/Fermium.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Chemical_Element/Actinide/Fermium.protect|Fermium.protect]] 
 
-### #is_/same_as :: [Fermium.private](/_private/Chemistry/Chemical_Element/Actinide/Fermium.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Chemical_Element/Actinide/Fermium.private|Fermium.private]] 
 
-### #is_/same_as :: [Fermium.personal](/_personal/Chemistry/Chemical_Element/Actinide/Fermium.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Chemical_Element/Actinide/Fermium.personal|Fermium.personal]] 
 
-### #is_/same_as :: [Fermium.secret](/_secret/Chemistry/Chemical_Element/Actinide/Fermium.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Chemical_Element/Actinide/Fermium.secret|Fermium.secret]] 
 

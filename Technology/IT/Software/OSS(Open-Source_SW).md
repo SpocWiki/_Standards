@@ -63,17 +63,17 @@ subreddit: OpenSource
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [OSS(Open-Source_SW)](/_Standards/Technology/IT/Software/OSS(Open-Source_SW).md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Software/OSS(Open-Source_SW)|OSS(Open-Source_SW)]] 
 
-### #is_/same_as :: [OSS(Open-Source_SW).public](/_public/Technology/IT/Software/OSS(Open-Source_SW).public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Software/OSS(Open-Source_SW).public|OSS(Open-Source_SW).public]] 
 
-### #is_/same_as :: [OSS(Open-Source_SW).internal](/_internal/Technology/IT/Software/OSS(Open-Source_SW).internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Software/OSS(Open-Source_SW).internal|OSS(Open-Source_SW).internal]] 
 
-### #is_/same_as :: [OSS(Open-Source_SW).protect](/_protect/Technology/IT/Software/OSS(Open-Source_SW).protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Software/OSS(Open-Source_SW).protect|OSS(Open-Source_SW).protect]] 
 
-### #is_/same_as :: [OSS(Open-Source_SW).private](/_private/Technology/IT/Software/OSS(Open-Source_SW).private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Software/OSS(Open-Source_SW).private|OSS(Open-Source_SW).private]] 
 
-### #is_/same_as :: [OSS(Open-Source_SW).personal](/_personal/Technology/IT/Software/OSS(Open-Source_SW).personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Software/OSS(Open-Source_SW).personal|OSS(Open-Source_SW).personal]] 
 
-### #is_/same_as :: [OSS(Open-Source_SW).secret](/_secret/Technology/IT/Software/OSS(Open-Source_SW).secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Software/OSS(Open-Source_SW).secret|OSS(Open-Source_SW).secret]] 
 

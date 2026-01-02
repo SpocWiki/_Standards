@@ -42,17 +42,17 @@ Stack_Exchange_site_URL: https://puzzling.stackexchange.com
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Puzzle](/_Standards/Society/Communication/Media/Creative_Work/Game/Puzzle.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Creative_Work/Game/Puzzle|Puzzle]] 
 
-### #is_/same_as :: [Puzzle.public](/_public/Society/Communication/Media/Creative_Work/Game/Puzzle.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Creative_Work/Game/Puzzle.public|Puzzle.public]] 
 
-### #is_/same_as :: [Puzzle.internal](/_internal/Society/Communication/Media/Creative_Work/Game/Puzzle.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Creative_Work/Game/Puzzle.internal|Puzzle.internal]] 
 
-### #is_/same_as :: [Puzzle.protect](/_protect/Society/Communication/Media/Creative_Work/Game/Puzzle.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Creative_Work/Game/Puzzle.protect|Puzzle.protect]] 
 
-### #is_/same_as :: [Puzzle.private](/_private/Society/Communication/Media/Creative_Work/Game/Puzzle.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Creative_Work/Game/Puzzle.private|Puzzle.private]] 
 
-### #is_/same_as :: [Puzzle.personal](/_personal/Society/Communication/Media/Creative_Work/Game/Puzzle.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/Game/Puzzle.personal|Puzzle.personal]] 
 
-### #is_/same_as :: [Puzzle.secret](/_secret/Society/Communication/Media/Creative_Work/Game/Puzzle.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Game/Puzzle.secret|Puzzle.secret]] 
 

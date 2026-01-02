@@ -45,17 +45,17 @@ MeSH_tree_code:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Building_Code](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/Building_Code.md) 
+### #is_/same_as :: [[/_Standards/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/Building_Code|Building_Code]] 
 
-### #is_/same_as :: [Building_Code.public](/_public/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/Building_Code.public.md) 
+### #is_/same_as :: [[/_public/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/Building_Code.public|Building_Code.public]] 
 
-### #is_/same_as :: [Building_Code.internal](/_internal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/Building_Code.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/Building_Code.internal|Building_Code.internal]] 
 
-### #is_/same_as :: [Building_Code.protect](/_protect/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/Building_Code.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/Building_Code.protect|Building_Code.protect]] 
 
-### #is_/same_as :: [Building_Code.private](/_private/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/Building_Code.private.md) 
+### #is_/same_as :: [[/_private/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/Building_Code.private|Building_Code.private]] 
 
-### #is_/same_as :: [Building_Code.personal](/_personal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/Building_Code.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/Building_Code.personal|Building_Code.personal]] 
 
-### #is_/same_as :: [Building_Code.secret](/_secret/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/Building_Code.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/Building_Code.secret|Building_Code.secret]] 
 

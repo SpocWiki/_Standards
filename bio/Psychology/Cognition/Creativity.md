@@ -74,17 +74,17 @@ Krugosvet_article_archived_: kultura_i_obrazovanie/izobrazitelnoe_iskusstvo/TVOR
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Creativity](/_Standards/bio/Psychology/Cognition/Creativity.md) 
+### #is_/same_as :: [[/_Standards/bio/Psychology/Cognition/Creativity|Creativity]] 
 
-### #is_/same_as :: [Creativity.public](/_public/bio/Psychology/Cognition/Creativity.public.md) 
+### #is_/same_as :: [[/_public/bio/Psychology/Cognition/Creativity.public|Creativity.public]] 
 
-### #is_/same_as :: [Creativity.internal](/_internal/bio/Psychology/Cognition/Creativity.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Psychology/Cognition/Creativity.internal|Creativity.internal]] 
 
-### #is_/same_as :: [Creativity.protect](/_protect/bio/Psychology/Cognition/Creativity.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Psychology/Cognition/Creativity.protect|Creativity.protect]] 
 
-### #is_/same_as :: [Creativity.private](/_private/bio/Psychology/Cognition/Creativity.private.md) 
+### #is_/same_as :: [[/_private/bio/Psychology/Cognition/Creativity.private|Creativity.private]] 
 
-### #is_/same_as :: [Creativity.personal](/_personal/bio/Psychology/Cognition/Creativity.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Psychology/Cognition/Creativity.personal|Creativity.personal]] 
 
-### #is_/same_as :: [Creativity.secret](/_secret/bio/Psychology/Cognition/Creativity.secret.md)
+### #is_/same_as :: [[/_secret/bio/Psychology/Cognition/Creativity.secret|Creativity.secret]] 
 

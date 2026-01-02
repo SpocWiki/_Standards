@@ -36,17 +36,17 @@ PhilPapers_topic: pre-socratic-philosophy
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Pre-Socratic_Philosophy](/_Standards/Philosophy/Pre-Socratic_Philosophy.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Pre-Socratic_Philosophy|Pre-Socratic_Philosophy]] 
 
-### #is_/same_as :: [Pre-Socratic_Philosophy.public](/_public/Philosophy/Pre-Socratic_Philosophy.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Pre-Socratic_Philosophy.public|Pre-Socratic_Philosophy.public]] 
 
-### #is_/same_as :: [Pre-Socratic_Philosophy.internal](/_internal/Philosophy/Pre-Socratic_Philosophy.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Pre-Socratic_Philosophy.internal|Pre-Socratic_Philosophy.internal]] 
 
-### #is_/same_as :: [Pre-Socratic_Philosophy.protect](/_protect/Philosophy/Pre-Socratic_Philosophy.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Pre-Socratic_Philosophy.protect|Pre-Socratic_Philosophy.protect]] 
 
-### #is_/same_as :: [Pre-Socratic_Philosophy.private](/_private/Philosophy/Pre-Socratic_Philosophy.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Pre-Socratic_Philosophy.private|Pre-Socratic_Philosophy.private]] 
 
-### #is_/same_as :: [Pre-Socratic_Philosophy.personal](/_personal/Philosophy/Pre-Socratic_Philosophy.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Pre-Socratic_Philosophy.personal|Pre-Socratic_Philosophy.personal]] 
 
-### #is_/same_as :: [Pre-Socratic_Philosophy.secret](/_secret/Philosophy/Pre-Socratic_Philosophy.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Pre-Socratic_Philosophy.secret|Pre-Socratic_Philosophy.secret]] 
 

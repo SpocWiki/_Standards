@@ -58,17 +58,17 @@ Krugosvet_article: nauka_i_tehnika/himiya/GLIKOLIZ.html
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Glycolysis](/_Standards/bio/Metabolism/Nutrition/Carbohydrate/Polysaccharide/Glycogen/Glycolysis.md) 
+### #is_/same_as :: [[/_Standards/bio/Metabolism/Nutrition/Carbohydrate/Polysaccharide/Glycogen/Glycolysis|Glycolysis]] 
 
-### #is_/same_as :: [Glycolysis.public](/_public/bio/Metabolism/Nutrition/Carbohydrate/Polysaccharide/Glycogen/Glycolysis.public.md) 
+### #is_/same_as :: [[/_public/bio/Metabolism/Nutrition/Carbohydrate/Polysaccharide/Glycogen/Glycolysis.public|Glycolysis.public]] 
 
-### #is_/same_as :: [Glycolysis.internal](/_internal/bio/Metabolism/Nutrition/Carbohydrate/Polysaccharide/Glycogen/Glycolysis.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Metabolism/Nutrition/Carbohydrate/Polysaccharide/Glycogen/Glycolysis.internal|Glycolysis.internal]] 
 
-### #is_/same_as :: [Glycolysis.protect](/_protect/bio/Metabolism/Nutrition/Carbohydrate/Polysaccharide/Glycogen/Glycolysis.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Metabolism/Nutrition/Carbohydrate/Polysaccharide/Glycogen/Glycolysis.protect|Glycolysis.protect]] 
 
-### #is_/same_as :: [Glycolysis.private](/_private/bio/Metabolism/Nutrition/Carbohydrate/Polysaccharide/Glycogen/Glycolysis.private.md) 
+### #is_/same_as :: [[/_private/bio/Metabolism/Nutrition/Carbohydrate/Polysaccharide/Glycogen/Glycolysis.private|Glycolysis.private]] 
 
-### #is_/same_as :: [Glycolysis.personal](/_personal/bio/Metabolism/Nutrition/Carbohydrate/Polysaccharide/Glycogen/Glycolysis.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Metabolism/Nutrition/Carbohydrate/Polysaccharide/Glycogen/Glycolysis.personal|Glycolysis.personal]] 
 
-### #is_/same_as :: [Glycolysis.secret](/_secret/bio/Metabolism/Nutrition/Carbohydrate/Polysaccharide/Glycogen/Glycolysis.secret.md)
+### #is_/same_as :: [[/_secret/bio/Metabolism/Nutrition/Carbohydrate/Polysaccharide/Glycogen/Glycolysis.secret|Glycolysis.secret]] 
 

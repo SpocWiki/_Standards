@@ -214,17 +214,17 @@ type: private_note
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hitler,Adolf](/_Standards/Society/Politics/Government/Leader/Modern_Leaders/Hitler,Adolf.md) 
+### #is_/same_as :: [[/_Standards/Society/Politics/Government/Leader/Modern_Leaders/Hitler,Adolf|Hitler,Adolf]] 
 
-### #is_/same_as :: [Hitler,Adolf.public](/_public/Society/Politics/Government/Leader/Modern_Leaders/Hitler,Adolf.public.md) 
+### #is_/same_as :: [[/_public/Society/Politics/Government/Leader/Modern_Leaders/Hitler,Adolf.public|Hitler,Adolf.public]] 
 
-### #is_/same_as :: [Hitler,Adolf.internal](/_internal/Society/Politics/Government/Leader/Modern_Leaders/Hitler,Adolf.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Politics/Government/Leader/Modern_Leaders/Hitler,Adolf.internal|Hitler,Adolf.internal]] 
 
-### #is_/same_as :: [Hitler,Adolf.protect](/_protect/Society/Politics/Government/Leader/Modern_Leaders/Hitler,Adolf.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Politics/Government/Leader/Modern_Leaders/Hitler,Adolf.protect|Hitler,Adolf.protect]] 
 
-### #is_/same_as :: [Hitler,Adolf.private](/_private/Society/Politics/Government/Leader/Modern_Leaders/Hitler,Adolf.private.md) 
+### #is_/same_as :: [[/_private/Society/Politics/Government/Leader/Modern_Leaders/Hitler,Adolf.private|Hitler,Adolf.private]] 
 
-### #is_/same_as :: [Hitler,Adolf.personal](/_personal/Society/Politics/Government/Leader/Modern_Leaders/Hitler,Adolf.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Politics/Government/Leader/Modern_Leaders/Hitler,Adolf.personal|Hitler,Adolf.personal]] 
 
-### #is_/same_as :: [Hitler,Adolf.secret](/_secret/Society/Politics/Government/Leader/Modern_Leaders/Hitler,Adolf.secret.md)
+### #is_/same_as :: [[/_secret/Society/Politics/Government/Leader/Modern_Leaders/Hitler,Adolf.secret|Hitler,Adolf.secret]] 
 

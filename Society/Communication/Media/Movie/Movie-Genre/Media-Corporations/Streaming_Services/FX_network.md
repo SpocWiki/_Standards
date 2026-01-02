@@ -33,17 +33,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FX_network](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/FX_network.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/FX_network|FX_network]] 
 
-### #is_/same_as :: [FX_network.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/FX_network.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/FX_network.public|FX_network.public]] 
 
-### #is_/same_as :: [FX_network.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/FX_network.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/FX_network.internal|FX_network.internal]] 
 
-### #is_/same_as :: [FX_network.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/FX_network.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/FX_network.protect|FX_network.protect]] 
 
-### #is_/same_as :: [FX_network.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/FX_network.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/FX_network.private|FX_network.private]] 
 
-### #is_/same_as :: [FX_network.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/FX_network.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/FX_network.personal|FX_network.personal]] 
 
-### #is_/same_as :: [FX_network.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/FX_network.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/FX_network.secret|FX_network.secret]] 
 

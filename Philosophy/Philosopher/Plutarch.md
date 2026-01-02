@@ -104,17 +104,17 @@ Swedish_Open_Cultural_Heritage_URI: LSH/agents/53787
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Plutarch](/_Standards/Philosophy/Philosopher/Plutarch.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Philosopher/Plutarch|Plutarch]] 
 
-### #is_/same_as :: [Plutarch.public](/_public/Philosophy/Philosopher/Plutarch.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Philosopher/Plutarch.public|Plutarch.public]] 
 
-### #is_/same_as :: [Plutarch.internal](/_internal/Philosophy/Philosopher/Plutarch.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Philosopher/Plutarch.internal|Plutarch.internal]] 
 
-### #is_/same_as :: [Plutarch.protect](/_protect/Philosophy/Philosopher/Plutarch.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Philosopher/Plutarch.protect|Plutarch.protect]] 
 
-### #is_/same_as :: [Plutarch.private](/_private/Philosophy/Philosopher/Plutarch.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Philosopher/Plutarch.private|Plutarch.private]] 
 
-### #is_/same_as :: [Plutarch.personal](/_personal/Philosophy/Philosopher/Plutarch.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Philosopher/Plutarch.personal|Plutarch.personal]] 
 
-### #is_/same_as :: [Plutarch.secret](/_secret/Philosophy/Philosopher/Plutarch.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Philosopher/Plutarch.secret|Plutarch.secret]] 
 

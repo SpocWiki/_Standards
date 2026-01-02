@@ -86,17 +86,17 @@ first_line: Les Représentans du Peuple François, constitués en Assemblée Nat
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Declaration_of_the_Rights_of_Man_and_of_the_Citizen](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1700/1789-French_Revolution/Declaration_of_the_Rights_of_Man_and_of_the_Citizen.md) 
+### #is_/same_as :: [[/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1700/1789-French_Revolution/Declaration_of_the_Rights_of_Man_and_of_the_Citizen|Declaration_of_the_Rights_of_Man_and_of_the_Citizen]] 
 
-### #is_/same_as :: [Declaration_of_the_Rights_of_Man_and_of_the_Citizen.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1700/1789-French_Revolution/Declaration_of_the_Rights_of_Man_and_of_the_Citizen.public.md) 
+### #is_/same_as :: [[/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1700/1789-French_Revolution/Declaration_of_the_Rights_of_Man_and_of_the_Citizen.public|Declaration_of_the_Rights_of_Man_and_of_the_Citizen.public]] 
 
-### #is_/same_as :: [Declaration_of_the_Rights_of_Man_and_of_the_Citizen.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1700/1789-French_Revolution/Declaration_of_the_Rights_of_Man_and_of_the_Citizen.internal.md) 
+### #is_/same_as :: [[/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1700/1789-French_Revolution/Declaration_of_the_Rights_of_Man_and_of_the_Citizen.internal|Declaration_of_the_Rights_of_Man_and_of_the_Citizen.internal]] 
 
-### #is_/same_as :: [Declaration_of_the_Rights_of_Man_and_of_the_Citizen.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1700/1789-French_Revolution/Declaration_of_the_Rights_of_Man_and_of_the_Citizen.protect.md) 
+### #is_/same_as :: [[/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1700/1789-French_Revolution/Declaration_of_the_Rights_of_Man_and_of_the_Citizen.protect|Declaration_of_the_Rights_of_Man_and_of_the_Citizen.protect]] 
 
-### #is_/same_as :: [Declaration_of_the_Rights_of_Man_and_of_the_Citizen.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1700/1789-French_Revolution/Declaration_of_the_Rights_of_Man_and_of_the_Citizen.private.md) 
+### #is_/same_as :: [[/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1700/1789-French_Revolution/Declaration_of_the_Rights_of_Man_and_of_the_Citizen.private|Declaration_of_the_Rights_of_Man_and_of_the_Citizen.private]] 
 
-### #is_/same_as :: [Declaration_of_the_Rights_of_Man_and_of_the_Citizen.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1700/1789-French_Revolution/Declaration_of_the_Rights_of_Man_and_of_the_Citizen.personal.md) 
+### #is_/same_as :: [[/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1700/1789-French_Revolution/Declaration_of_the_Rights_of_Man_and_of_the_Citizen.personal|Declaration_of_the_Rights_of_Man_and_of_the_Citizen.personal]] 
 
-### #is_/same_as :: [Declaration_of_the_Rights_of_Man_and_of_the_Citizen.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1700/1789-French_Revolution/Declaration_of_the_Rights_of_Man_and_of_the_Citizen.secret.md)
+### #is_/same_as :: [[/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1700/1789-French_Revolution/Declaration_of_the_Rights_of_Man_and_of_the_Citizen.secret|Declaration_of_the_Rights_of_Man_and_of_the_Citizen.secret]] 
 

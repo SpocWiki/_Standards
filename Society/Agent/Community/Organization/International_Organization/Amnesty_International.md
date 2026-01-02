@@ -110,17 +110,17 @@ P8189: 987007257742205171
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Amnesty_International](/_Standards/Society/Agent/Community/Organization/International_Organization/Amnesty_International.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/International_Organization/Amnesty_International|Amnesty_International]] 
 
-### #is_/same_as :: [Amnesty_International.public](/_public/Society/Agent/Community/Organization/International_Organization/Amnesty_International.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/International_Organization/Amnesty_International.public|Amnesty_International.public]] 
 
-### #is_/same_as :: [Amnesty_International.internal](/_internal/Society/Agent/Community/Organization/International_Organization/Amnesty_International.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/International_Organization/Amnesty_International.internal|Amnesty_International.internal]] 
 
-### #is_/same_as :: [Amnesty_International.protect](/_protect/Society/Agent/Community/Organization/International_Organization/Amnesty_International.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/International_Organization/Amnesty_International.protect|Amnesty_International.protect]] 
 
-### #is_/same_as :: [Amnesty_International.private](/_private/Society/Agent/Community/Organization/International_Organization/Amnesty_International.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/International_Organization/Amnesty_International.private|Amnesty_International.private]] 
 
-### #is_/same_as :: [Amnesty_International.personal](/_personal/Society/Agent/Community/Organization/International_Organization/Amnesty_International.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/International_Organization/Amnesty_International.personal|Amnesty_International.personal]] 
 
-### #is_/same_as :: [Amnesty_International.secret](/_secret/Society/Agent/Community/Organization/International_Organization/Amnesty_International.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/International_Organization/Amnesty_International.secret|Amnesty_International.secret]] 
 

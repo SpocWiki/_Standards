@@ -84,17 +84,17 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/ReuleauxTriangle%20onl
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Reuleaux_Triangle](/_Standards/Mathematics/Geometry/Geometry-2D/Reuleaux_Triangle.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Geometry/Geometry-2D/Reuleaux_Triangle|Reuleaux_Triangle]] 
 
-### #is_/same_as :: [Reuleaux_Triangle.public](/_public/Mathematics/Geometry/Geometry-2D/Reuleaux_Triangle.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Geometry/Geometry-2D/Reuleaux_Triangle.public|Reuleaux_Triangle.public]] 
 
-### #is_/same_as :: [Reuleaux_Triangle.internal](/_internal/Mathematics/Geometry/Geometry-2D/Reuleaux_Triangle.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Geometry/Geometry-2D/Reuleaux_Triangle.internal|Reuleaux_Triangle.internal]] 
 
-### #is_/same_as :: [Reuleaux_Triangle.protect](/_protect/Mathematics/Geometry/Geometry-2D/Reuleaux_Triangle.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Geometry/Geometry-2D/Reuleaux_Triangle.protect|Reuleaux_Triangle.protect]] 
 
-### #is_/same_as :: [Reuleaux_Triangle.private](/_private/Mathematics/Geometry/Geometry-2D/Reuleaux_Triangle.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Geometry/Geometry-2D/Reuleaux_Triangle.private|Reuleaux_Triangle.private]] 
 
-### #is_/same_as :: [Reuleaux_Triangle.personal](/_personal/Mathematics/Geometry/Geometry-2D/Reuleaux_Triangle.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Geometry/Geometry-2D/Reuleaux_Triangle.personal|Reuleaux_Triangle.personal]] 
 
-### #is_/same_as :: [Reuleaux_Triangle.secret](/_secret/Mathematics/Geometry/Geometry-2D/Reuleaux_Triangle.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Geometry/Geometry-2D/Reuleaux_Triangle.secret|Reuleaux_Triangle.secret]] 
 

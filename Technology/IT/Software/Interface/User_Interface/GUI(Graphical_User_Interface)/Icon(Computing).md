@@ -44,17 +44,17 @@ Stack_Exchange_tag: https://stackoverflow.com/tags/icons
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Icon(Computing)](/_Standards/Technology/IT/Software/Interface/User_Interface/GUI(Graphical_User_Interface)/Icon(Computing).md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Software/Interface/User_Interface/GUI(Graphical_User_Interface)/Icon(Computing)|Icon(Computing)]] 
 
-### #is_/same_as :: [Icon(Computing).public](/_public/Technology/IT/Software/Interface/User_Interface/GUI(Graphical_User_Interface)/Icon(Computing).public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Software/Interface/User_Interface/GUI(Graphical_User_Interface)/Icon(Computing).public|Icon(Computing).public]] 
 
-### #is_/same_as :: [Icon(Computing).internal](/_internal/Technology/IT/Software/Interface/User_Interface/GUI(Graphical_User_Interface)/Icon(Computing).internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Software/Interface/User_Interface/GUI(Graphical_User_Interface)/Icon(Computing).internal|Icon(Computing).internal]] 
 
-### #is_/same_as :: [Icon(Computing).protect](/_protect/Technology/IT/Software/Interface/User_Interface/GUI(Graphical_User_Interface)/Icon(Computing).protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Software/Interface/User_Interface/GUI(Graphical_User_Interface)/Icon(Computing).protect|Icon(Computing).protect]] 
 
-### #is_/same_as :: [Icon(Computing).private](/_private/Technology/IT/Software/Interface/User_Interface/GUI(Graphical_User_Interface)/Icon(Computing).private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Software/Interface/User_Interface/GUI(Graphical_User_Interface)/Icon(Computing).private|Icon(Computing).private]] 
 
-### #is_/same_as :: [Icon(Computing).personal](/_personal/Technology/IT/Software/Interface/User_Interface/GUI(Graphical_User_Interface)/Icon(Computing).personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Software/Interface/User_Interface/GUI(Graphical_User_Interface)/Icon(Computing).personal|Icon(Computing).personal]] 
 
-### #is_/same_as :: [Icon(Computing).secret](/_secret/Technology/IT/Software/Interface/User_Interface/GUI(Graphical_User_Interface)/Icon(Computing).secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Software/Interface/User_Interface/GUI(Graphical_User_Interface)/Icon(Computing).secret|Icon(Computing).secret]] 
 

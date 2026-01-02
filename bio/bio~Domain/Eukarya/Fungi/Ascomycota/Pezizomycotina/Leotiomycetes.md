@@ -35,17 +35,17 @@ Containing group:[Pezizomycotina](../Pezizomycotina.md)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Leotiomycetes](/_Standards/bio/bio~Domain/Eukarya/Fungi/Ascomycota/Pezizomycotina/Leotiomycetes.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Fungi/Ascomycota/Pezizomycotina/Leotiomycetes|Leotiomycetes]] 
 
-### #is_/same_as :: [Leotiomycetes.public](/_public/bio/bio~Domain/Eukarya/Fungi/Ascomycota/Pezizomycotina/Leotiomycetes.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Fungi/Ascomycota/Pezizomycotina/Leotiomycetes.public|Leotiomycetes.public]] 
 
-### #is_/same_as :: [Leotiomycetes.internal](/_internal/bio/bio~Domain/Eukarya/Fungi/Ascomycota/Pezizomycotina/Leotiomycetes.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Fungi/Ascomycota/Pezizomycotina/Leotiomycetes.internal|Leotiomycetes.internal]] 
 
-### #is_/same_as :: [Leotiomycetes.protect](/_protect/bio/bio~Domain/Eukarya/Fungi/Ascomycota/Pezizomycotina/Leotiomycetes.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Fungi/Ascomycota/Pezizomycotina/Leotiomycetes.protect|Leotiomycetes.protect]] 
 
-### #is_/same_as :: [Leotiomycetes.private](/_private/bio/bio~Domain/Eukarya/Fungi/Ascomycota/Pezizomycotina/Leotiomycetes.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Fungi/Ascomycota/Pezizomycotina/Leotiomycetes.private|Leotiomycetes.private]] 
 
-### #is_/same_as :: [Leotiomycetes.personal](/_personal/bio/bio~Domain/Eukarya/Fungi/Ascomycota/Pezizomycotina/Leotiomycetes.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Fungi/Ascomycota/Pezizomycotina/Leotiomycetes.personal|Leotiomycetes.personal]] 
 
-### #is_/same_as :: [Leotiomycetes.secret](/_secret/bio/bio~Domain/Eukarya/Fungi/Ascomycota/Pezizomycotina/Leotiomycetes.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Fungi/Ascomycota/Pezizomycotina/Leotiomycetes.secret|Leotiomycetes.secret]] 
 

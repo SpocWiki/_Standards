@@ -37,17 +37,17 @@ An adult entertainment establishment.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~AdultEntertainment](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EntertainmentBusiness/FileClass~AdultEntertainment.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EntertainmentBusiness/FileClass~AdultEntertainment|FileClass~AdultEntertainment]] 
 
-### #is_/same_as :: [FileClass~AdultEntertainment.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EntertainmentBusiness/FileClass~AdultEntertainment.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EntertainmentBusiness/FileClass~AdultEntertainment.public|FileClass~AdultEntertainment.public]] 
 
-### #is_/same_as :: [FileClass~AdultEntertainment.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EntertainmentBusiness/FileClass~AdultEntertainment.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EntertainmentBusiness/FileClass~AdultEntertainment.internal|FileClass~AdultEntertainment.internal]] 
 
-### #is_/same_as :: [FileClass~AdultEntertainment.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EntertainmentBusiness/FileClass~AdultEntertainment.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EntertainmentBusiness/FileClass~AdultEntertainment.protect|FileClass~AdultEntertainment.protect]] 
 
-### #is_/same_as :: [FileClass~AdultEntertainment.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EntertainmentBusiness/FileClass~AdultEntertainment.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EntertainmentBusiness/FileClass~AdultEntertainment.private|FileClass~AdultEntertainment.private]] 
 
-### #is_/same_as :: [FileClass~AdultEntertainment.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EntertainmentBusiness/FileClass~AdultEntertainment.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EntertainmentBusiness/FileClass~AdultEntertainment.personal|FileClass~AdultEntertainment.personal]] 
 
-### #is_/same_as :: [FileClass~AdultEntertainment.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EntertainmentBusiness/FileClass~AdultEntertainment.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EntertainmentBusiness/FileClass~AdultEntertainment.secret|FileClass~AdultEntertainment.secret]] 
 

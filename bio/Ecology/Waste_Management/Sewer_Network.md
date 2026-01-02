@@ -70,17 +70,17 @@ Iconclass_notation: 25I171
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sewer_Network](/_Standards/bio/Ecology/Waste_Management/Sewer_Network.md) 
+### #is_/same_as :: [[/_Standards/bio/Ecology/Waste_Management/Sewer_Network|Sewer_Network]] 
 
-### #is_/same_as :: [Sewer_Network.public](/_public/bio/Ecology/Waste_Management/Sewer_Network.public.md) 
+### #is_/same_as :: [[/_public/bio/Ecology/Waste_Management/Sewer_Network.public|Sewer_Network.public]] 
 
-### #is_/same_as :: [Sewer_Network.internal](/_internal/bio/Ecology/Waste_Management/Sewer_Network.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Ecology/Waste_Management/Sewer_Network.internal|Sewer_Network.internal]] 
 
-### #is_/same_as :: [Sewer_Network.protect](/_protect/bio/Ecology/Waste_Management/Sewer_Network.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Ecology/Waste_Management/Sewer_Network.protect|Sewer_Network.protect]] 
 
-### #is_/same_as :: [Sewer_Network.private](/_private/bio/Ecology/Waste_Management/Sewer_Network.private.md) 
+### #is_/same_as :: [[/_private/bio/Ecology/Waste_Management/Sewer_Network.private|Sewer_Network.private]] 
 
-### #is_/same_as :: [Sewer_Network.personal](/_personal/bio/Ecology/Waste_Management/Sewer_Network.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Ecology/Waste_Management/Sewer_Network.personal|Sewer_Network.personal]] 
 
-### #is_/same_as :: [Sewer_Network.secret](/_secret/bio/Ecology/Waste_Management/Sewer_Network.secret.md)
+### #is_/same_as :: [[/_secret/bio/Ecology/Waste_Management/Sewer_Network.secret|Sewer_Network.secret]] 
 

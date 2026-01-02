@@ -64,17 +64,17 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/South%20America%20laea
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [History_of_South_America](/_Standards/Earth/Continent/America~South/History_of_South_America.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~South/History_of_South_America|History_of_South_America]] 
 
-### #is_/same_as :: [History_of_South_America.public](/_public/Earth/Continent/America~South/History_of_South_America.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~South/History_of_South_America.public|History_of_South_America.public]] 
 
-### #is_/same_as :: [History_of_South_America.internal](/_internal/Earth/Continent/America~South/History_of_South_America.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~South/History_of_South_America.internal|History_of_South_America.internal]] 
 
-### #is_/same_as :: [History_of_South_America.protect](/_protect/Earth/Continent/America~South/History_of_South_America.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~South/History_of_South_America.protect|History_of_South_America.protect]] 
 
-### #is_/same_as :: [History_of_South_America.private](/_private/Earth/Continent/America~South/History_of_South_America.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~South/History_of_South_America.private|History_of_South_America.private]] 
 
-### #is_/same_as :: [History_of_South_America.personal](/_personal/Earth/Continent/America~South/History_of_South_America.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~South/History_of_South_America.personal|History_of_South_America.personal]] 
 
-### #is_/same_as :: [History_of_South_America.secret](/_secret/Earth/Continent/America~South/History_of_South_America.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~South/History_of_South_America.secret|History_of_South_America.secret]] 
 

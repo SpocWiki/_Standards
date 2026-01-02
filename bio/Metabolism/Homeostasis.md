@@ -43,17 +43,17 @@ UMLS_CUI: C0019868
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Homeostasis](/_Standards/bio/Metabolism/Homeostasis.md) 
+### #is_/same_as :: [[/_Standards/bio/Metabolism/Homeostasis|Homeostasis]] 
 
-### #is_/same_as :: [Homeostasis.public](/_public/bio/Metabolism/Homeostasis.public.md) 
+### #is_/same_as :: [[/_public/bio/Metabolism/Homeostasis.public|Homeostasis.public]] 
 
-### #is_/same_as :: [Homeostasis.internal](/_internal/bio/Metabolism/Homeostasis.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Metabolism/Homeostasis.internal|Homeostasis.internal]] 
 
-### #is_/same_as :: [Homeostasis.protect](/_protect/bio/Metabolism/Homeostasis.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Metabolism/Homeostasis.protect|Homeostasis.protect]] 
 
-### #is_/same_as :: [Homeostasis.private](/_private/bio/Metabolism/Homeostasis.private.md) 
+### #is_/same_as :: [[/_private/bio/Metabolism/Homeostasis.private|Homeostasis.private]] 
 
-### #is_/same_as :: [Homeostasis.personal](/_personal/bio/Metabolism/Homeostasis.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Metabolism/Homeostasis.personal|Homeostasis.personal]] 
 
-### #is_/same_as :: [Homeostasis.secret](/_secret/bio/Metabolism/Homeostasis.secret.md)
+### #is_/same_as :: [[/_secret/bio/Metabolism/Homeostasis.secret|Homeostasis.secret]] 
 

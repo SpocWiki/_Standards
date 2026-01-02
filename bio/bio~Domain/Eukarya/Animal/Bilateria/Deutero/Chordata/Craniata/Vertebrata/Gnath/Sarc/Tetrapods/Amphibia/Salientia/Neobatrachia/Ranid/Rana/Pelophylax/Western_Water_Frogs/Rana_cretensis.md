@@ -140,7 +140,7 @@ Sciences of Philadelphia 470:1-9.
 
 ## Title Illustrations
 
-![](Rana_cretensis/cretensis.jpg))
+![](Rana_cretensis/cretensis.jpg) 
 
   --------------------------------------------------------------------------
   Scientific Name ::  Rana cretensis
@@ -152,17 +152,17 @@ Sciences of Philadelphia 470:1-9.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Rana_cretensis](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Neobatrachia/Ranid/Rana/Pelophylax/Western_Water_Frogs/Rana_cretensis.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Neobatrachia/Ranid/Rana/Pelophylax/Western_Water_Frogs/Rana_cretensis|Rana_cretensis]] 
 
-### #is_/same_as :: [Rana_cretensis.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Neobatrachia/Ranid/Rana/Pelophylax/Western_Water_Frogs/Rana_cretensis.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Neobatrachia/Ranid/Rana/Pelophylax/Western_Water_Frogs/Rana_cretensis.public|Rana_cretensis.public]] 
 
-### #is_/same_as :: [Rana_cretensis.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Neobatrachia/Ranid/Rana/Pelophylax/Western_Water_Frogs/Rana_cretensis.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Neobatrachia/Ranid/Rana/Pelophylax/Western_Water_Frogs/Rana_cretensis.internal|Rana_cretensis.internal]] 
 
-### #is_/same_as :: [Rana_cretensis.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Neobatrachia/Ranid/Rana/Pelophylax/Western_Water_Frogs/Rana_cretensis.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Neobatrachia/Ranid/Rana/Pelophylax/Western_Water_Frogs/Rana_cretensis.protect|Rana_cretensis.protect]] 
 
-### #is_/same_as :: [Rana_cretensis.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Neobatrachia/Ranid/Rana/Pelophylax/Western_Water_Frogs/Rana_cretensis.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Neobatrachia/Ranid/Rana/Pelophylax/Western_Water_Frogs/Rana_cretensis.private|Rana_cretensis.private]] 
 
-### #is_/same_as :: [Rana_cretensis.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Neobatrachia/Ranid/Rana/Pelophylax/Western_Water_Frogs/Rana_cretensis.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Neobatrachia/Ranid/Rana/Pelophylax/Western_Water_Frogs/Rana_cretensis.personal|Rana_cretensis.personal]] 
 
-### #is_/same_as :: [Rana_cretensis.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Neobatrachia/Ranid/Rana/Pelophylax/Western_Water_Frogs/Rana_cretensis.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Neobatrachia/Ranid/Rana/Pelophylax/Western_Water_Frogs/Rana_cretensis.secret|Rana_cretensis.secret]] 
 

@@ -20,17 +20,17 @@ Commons_category: Kinematic pairs
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Kinematic_Pair](/_Standards/Science/Physics/Classical_Mechanics/Kinematics/Kinematic_Pair.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Classical_Mechanics/Kinematics/Kinematic_Pair|Kinematic_Pair]] 
 
-### #is_/same_as :: [Kinematic_Pair.public](/_public/Science/Physics/Classical_Mechanics/Kinematics/Kinematic_Pair.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Classical_Mechanics/Kinematics/Kinematic_Pair.public|Kinematic_Pair.public]] 
 
-### #is_/same_as :: [Kinematic_Pair.internal](/_internal/Science/Physics/Classical_Mechanics/Kinematics/Kinematic_Pair.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Classical_Mechanics/Kinematics/Kinematic_Pair.internal|Kinematic_Pair.internal]] 
 
-### #is_/same_as :: [Kinematic_Pair.protect](/_protect/Science/Physics/Classical_Mechanics/Kinematics/Kinematic_Pair.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Classical_Mechanics/Kinematics/Kinematic_Pair.protect|Kinematic_Pair.protect]] 
 
-### #is_/same_as :: [Kinematic_Pair.private](/_private/Science/Physics/Classical_Mechanics/Kinematics/Kinematic_Pair.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Classical_Mechanics/Kinematics/Kinematic_Pair.private|Kinematic_Pair.private]] 
 
-### #is_/same_as :: [Kinematic_Pair.personal](/_personal/Science/Physics/Classical_Mechanics/Kinematics/Kinematic_Pair.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Classical_Mechanics/Kinematics/Kinematic_Pair.personal|Kinematic_Pair.personal]] 
 
-### #is_/same_as :: [Kinematic_Pair.secret](/_secret/Science/Physics/Classical_Mechanics/Kinematics/Kinematic_Pair.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Classical_Mechanics/Kinematics/Kinematic_Pair.secret|Kinematic_Pair.secret]] 
 

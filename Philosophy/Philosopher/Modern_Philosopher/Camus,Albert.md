@@ -163,17 +163,17 @@ writing_language: '[[_Standards/WikiData/WD~French,150]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Camus,Albert](/_Standards/Philosophy/Philosopher/Modern_Philosopher/Camus,Albert.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Philosopher/Modern_Philosopher/Camus,Albert|Camus,Albert]] 
 
-### #is_/same_as :: [Camus,Albert.public](/_public/Philosophy/Philosopher/Modern_Philosopher/Camus,Albert.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Philosopher/Modern_Philosopher/Camus,Albert.public|Camus,Albert.public]] 
 
-### #is_/same_as :: [Camus,Albert.internal](/_internal/Philosophy/Philosopher/Modern_Philosopher/Camus,Albert.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Philosopher/Modern_Philosopher/Camus,Albert.internal|Camus,Albert.internal]] 
 
-### #is_/same_as :: [Camus,Albert.protect](/_protect/Philosophy/Philosopher/Modern_Philosopher/Camus,Albert.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Philosopher/Modern_Philosopher/Camus,Albert.protect|Camus,Albert.protect]] 
 
-### #is_/same_as :: [Camus,Albert.private](/_private/Philosophy/Philosopher/Modern_Philosopher/Camus,Albert.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Philosopher/Modern_Philosopher/Camus,Albert.private|Camus,Albert.private]] 
 
-### #is_/same_as :: [Camus,Albert.personal](/_personal/Philosophy/Philosopher/Modern_Philosopher/Camus,Albert.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Philosopher/Modern_Philosopher/Camus,Albert.personal|Camus,Albert.personal]] 
 
-### #is_/same_as :: [Camus,Albert.secret](/_secret/Philosophy/Philosopher/Modern_Philosopher/Camus,Albert.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Philosopher/Modern_Philosopher/Camus,Albert.secret|Camus,Albert.secret]] 
 

@@ -55,17 +55,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [injective](/_Standards/Mathematics/Function(Math)/injective.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Function(Math)/injective|injective]] 
 
-### #is_/same_as :: [injective.public](/_public/Mathematics/Function(Math)/injective.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Function(Math)/injective.public|injective.public]] 
 
-### #is_/same_as :: [injective.internal](/_internal/Mathematics/Function(Math)/injective.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Function(Math)/injective.internal|injective.internal]] 
 
-### #is_/same_as :: [injective.protect](/_protect/Mathematics/Function(Math)/injective.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Function(Math)/injective.protect|injective.protect]] 
 
-### #is_/same_as :: [injective.private](/_private/Mathematics/Function(Math)/injective.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Function(Math)/injective.private|injective.private]] 
 
-### #is_/same_as :: [injective.personal](/_personal/Mathematics/Function(Math)/injective.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Function(Math)/injective.personal|injective.personal]] 
 
-### #is_/same_as :: [injective.secret](/_secret/Mathematics/Function(Math)/injective.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Function(Math)/injective.secret|injective.secret]] 
 

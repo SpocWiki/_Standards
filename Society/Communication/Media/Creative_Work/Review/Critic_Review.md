@@ -45,17 +45,17 @@ A [[CriticReview]] is a more specialized form of Review written or published by 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Critic_Review](/_Standards/Society/Communication/Media/Creative_Work/Review/Critic_Review.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Creative_Work/Review/Critic_Review|Critic_Review]] 
 
-### #is_/same_as :: [Critic_Review.public](/_public/Society/Communication/Media/Creative_Work/Review/Critic_Review.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Creative_Work/Review/Critic_Review.public|Critic_Review.public]] 
 
-### #is_/same_as :: [Critic_Review.internal](/_internal/Society/Communication/Media/Creative_Work/Review/Critic_Review.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Creative_Work/Review/Critic_Review.internal|Critic_Review.internal]] 
 
-### #is_/same_as :: [Critic_Review.protect](/_protect/Society/Communication/Media/Creative_Work/Review/Critic_Review.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Creative_Work/Review/Critic_Review.protect|Critic_Review.protect]] 
 
-### #is_/same_as :: [Critic_Review.private](/_private/Society/Communication/Media/Creative_Work/Review/Critic_Review.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Creative_Work/Review/Critic_Review.private|Critic_Review.private]] 
 
-### #is_/same_as :: [Critic_Review.personal](/_personal/Society/Communication/Media/Creative_Work/Review/Critic_Review.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/Review/Critic_Review.personal|Critic_Review.personal]] 
 
-### #is_/same_as :: [Critic_Review.secret](/_secret/Society/Communication/Media/Creative_Work/Review/Critic_Review.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Review/Critic_Review.secret|Critic_Review.secret]] 
 

@@ -239,17 +239,17 @@ N4IgLgngDgpiBcIYA8DGBDANgSwCYCd0B3EAGhADcZ8BnbAewDsEAmcm+gV31TkQAswYKDXgB6MQHNsY
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Le_Corbusier](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Le_Corbusier.md) 
+### #is_/same_as :: [[/_Standards/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Le_Corbusier|Le_Corbusier]] 
 
-### #is_/same_as :: [Le_Corbusier.public](/_public/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Le_Corbusier.public.md) 
+### #is_/same_as :: [[/_public/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Le_Corbusier.public|Le_Corbusier.public]] 
 
-### #is_/same_as :: [Le_Corbusier.internal](/_internal/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Le_Corbusier.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Le_Corbusier.internal|Le_Corbusier.internal]] 
 
-### #is_/same_as :: [Le_Corbusier.protect](/_protect/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Le_Corbusier.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Le_Corbusier.protect|Le_Corbusier.protect]] 
 
-### #is_/same_as :: [Le_Corbusier.private](/_private/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Le_Corbusier.private.md) 
+### #is_/same_as :: [[/_private/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Le_Corbusier.private|Le_Corbusier.private]] 
 
-### #is_/same_as :: [Le_Corbusier.personal](/_personal/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Le_Corbusier.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Le_Corbusier.personal|Le_Corbusier.personal]] 
 
-### #is_/same_as :: [Le_Corbusier.secret](/_secret/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Le_Corbusier.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Le_Corbusier.secret|Le_Corbusier.secret]] 
 

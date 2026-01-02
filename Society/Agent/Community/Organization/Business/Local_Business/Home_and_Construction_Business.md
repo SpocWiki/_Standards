@@ -47,17 +47,17 @@ As a [[LocalBusiness]] it can be described as a [[provider]] of one or more [[..
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Home_and_Construction_Business](/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Home_and_Construction_Business.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Home_and_Construction_Business|Home_and_Construction_Business]] 
 
-### #is_/same_as :: [Home_and_Construction_Business.public](/_public/Society/Agent/Community/Organization/Business/Local_Business/Home_and_Construction_Business.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Business/Local_Business/Home_and_Construction_Business.public|Home_and_Construction_Business.public]] 
 
-### #is_/same_as :: [Home_and_Construction_Business.internal](/_internal/Society/Agent/Community/Organization/Business/Local_Business/Home_and_Construction_Business.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Business/Local_Business/Home_and_Construction_Business.internal|Home_and_Construction_Business.internal]] 
 
-### #is_/same_as :: [Home_and_Construction_Business.protect](/_protect/Society/Agent/Community/Organization/Business/Local_Business/Home_and_Construction_Business.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Business/Local_Business/Home_and_Construction_Business.protect|Home_and_Construction_Business.protect]] 
 
-### #is_/same_as :: [Home_and_Construction_Business.private](/_private/Society/Agent/Community/Organization/Business/Local_Business/Home_and_Construction_Business.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Business/Local_Business/Home_and_Construction_Business.private|Home_and_Construction_Business.private]] 
 
-### #is_/same_as :: [Home_and_Construction_Business.personal](/_personal/Society/Agent/Community/Organization/Business/Local_Business/Home_and_Construction_Business.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Business/Local_Business/Home_and_Construction_Business.personal|Home_and_Construction_Business.personal]] 
 
-### #is_/same_as :: [Home_and_Construction_Business.secret](/_secret/Society/Agent/Community/Organization/Business/Local_Business/Home_and_Construction_Business.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Business/Local_Business/Home_and_Construction_Business.secret|Home_and_Construction_Business.secret]] 
 

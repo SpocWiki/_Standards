@@ -62,17 +62,17 @@ time_of_discovery_or_invention: 1935-01-01T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Nylon](/_Standards/Chemistry/Organic_Chemistry/Polymer/Polyamide/Nylon.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Organic_Chemistry/Polymer/Polyamide/Nylon|Nylon]] 
 
-### #is_/same_as :: [Nylon.public](/_public/Chemistry/Organic_Chemistry/Polymer/Polyamide/Nylon.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Organic_Chemistry/Polymer/Polyamide/Nylon.public|Nylon.public]] 
 
-### #is_/same_as :: [Nylon.internal](/_internal/Chemistry/Organic_Chemistry/Polymer/Polyamide/Nylon.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Organic_Chemistry/Polymer/Polyamide/Nylon.internal|Nylon.internal]] 
 
-### #is_/same_as :: [Nylon.protect](/_protect/Chemistry/Organic_Chemistry/Polymer/Polyamide/Nylon.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Organic_Chemistry/Polymer/Polyamide/Nylon.protect|Nylon.protect]] 
 
-### #is_/same_as :: [Nylon.private](/_private/Chemistry/Organic_Chemistry/Polymer/Polyamide/Nylon.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Organic_Chemistry/Polymer/Polyamide/Nylon.private|Nylon.private]] 
 
-### #is_/same_as :: [Nylon.personal](/_personal/Chemistry/Organic_Chemistry/Polymer/Polyamide/Nylon.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Organic_Chemistry/Polymer/Polyamide/Nylon.personal|Nylon.personal]] 
 
-### #is_/same_as :: [Nylon.secret](/_secret/Chemistry/Organic_Chemistry/Polymer/Polyamide/Nylon.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Organic_Chemistry/Polymer/Polyamide/Nylon.secret|Nylon.secret]] 
 

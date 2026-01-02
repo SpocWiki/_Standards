@@ -8,7 +8,7 @@ title: Pecari tajacu
 # Pecari tajacu
 
 ## collared peccary, javelina 
-![ ](Pecari_tajacu/121975688_cc08a08d1e_b.jpg))
+![ ](Pecari_tajacu/121975688_cc08a08d1e_b.jpg) 
 
 
 ## #has_/text_of_/abstract 
@@ -63,7 +63,7 @@ title: Pecari tajacu
 
 
 ---------------------------- 
-![](Pecari_tajacu/121975688_cc08a08d1e_b.jpg))
+![](Pecari_tajacu/121975688_cc08a08d1e_b.jpg) 
 Scientific Name ::                    Tayassu tajacu
 Location ::                          Living Desert State Park, New Mexico, USA
 Acknowledgements                    The copyright owner has released this image under the
@@ -76,17 +76,17 @@ Copyright ::                           © 2006 [marissa b.](http://flickr.com/pe
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Pecari_tajacu](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Artiodactyla/Tayassuidae/Pecari_tajacu.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Artiodactyla/Tayassuidae/Pecari_tajacu|Pecari_tajacu]] 
 
-### #is_/same_as :: [Pecari_tajacu.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Artiodactyla/Tayassuidae/Pecari_tajacu.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Artiodactyla/Tayassuidae/Pecari_tajacu.public|Pecari_tajacu.public]] 
 
-### #is_/same_as :: [Pecari_tajacu.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Artiodactyla/Tayassuidae/Pecari_tajacu.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Artiodactyla/Tayassuidae/Pecari_tajacu.internal|Pecari_tajacu.internal]] 
 
-### #is_/same_as :: [Pecari_tajacu.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Artiodactyla/Tayassuidae/Pecari_tajacu.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Artiodactyla/Tayassuidae/Pecari_tajacu.protect|Pecari_tajacu.protect]] 
 
-### #is_/same_as :: [Pecari_tajacu.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Artiodactyla/Tayassuidae/Pecari_tajacu.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Artiodactyla/Tayassuidae/Pecari_tajacu.private|Pecari_tajacu.private]] 
 
-### #is_/same_as :: [Pecari_tajacu.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Artiodactyla/Tayassuidae/Pecari_tajacu.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Artiodactyla/Tayassuidae/Pecari_tajacu.personal|Pecari_tajacu.personal]] 
 
-### #is_/same_as :: [Pecari_tajacu.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Artiodactyla/Tayassuidae/Pecari_tajacu.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Artiodactyla/Tayassuidae/Pecari_tajacu.secret|Pecari_tajacu.secret]] 
 

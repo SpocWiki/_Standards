@@ -106,17 +106,17 @@ street_address: Regentschapsstraat 39
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Benelux](/_Standards/Earth/Continent/Europe/Europe~West/Benelux.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~West/Benelux|Benelux]] 
 
-### #is_/same_as :: [Benelux.public](/_public/Earth/Continent/Europe/Europe~West/Benelux.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~West/Benelux.public|Benelux.public]] 
 
-### #is_/same_as :: [Benelux.internal](/_internal/Earth/Continent/Europe/Europe~West/Benelux.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~West/Benelux.internal|Benelux.internal]] 
 
-### #is_/same_as :: [Benelux.protect](/_protect/Earth/Continent/Europe/Europe~West/Benelux.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~West/Benelux.protect|Benelux.protect]] 
 
-### #is_/same_as :: [Benelux.private](/_private/Earth/Continent/Europe/Europe~West/Benelux.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~West/Benelux.private|Benelux.private]] 
 
-### #is_/same_as :: [Benelux.personal](/_personal/Earth/Continent/Europe/Europe~West/Benelux.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~West/Benelux.personal|Benelux.personal]] 
 
-### #is_/same_as :: [Benelux.secret](/_secret/Earth/Continent/Europe/Europe~West/Benelux.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~West/Benelux.secret|Benelux.secret]] 
 

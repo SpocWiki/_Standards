@@ -71,17 +71,17 @@ Dewey_Decimal_Classification: 381.149
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Supermarket](/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Store/Grocery_Store/Supermarket.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Store/Grocery_Store/Supermarket|Supermarket]] 
 
-### #is_/same_as :: [Supermarket.public](/_public/Society/Agent/Community/Organization/Business/Local_Business/Store/Grocery_Store/Supermarket.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Business/Local_Business/Store/Grocery_Store/Supermarket.public|Supermarket.public]] 
 
-### #is_/same_as :: [Supermarket.internal](/_internal/Society/Agent/Community/Organization/Business/Local_Business/Store/Grocery_Store/Supermarket.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Business/Local_Business/Store/Grocery_Store/Supermarket.internal|Supermarket.internal]] 
 
-### #is_/same_as :: [Supermarket.protect](/_protect/Society/Agent/Community/Organization/Business/Local_Business/Store/Grocery_Store/Supermarket.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Business/Local_Business/Store/Grocery_Store/Supermarket.protect|Supermarket.protect]] 
 
-### #is_/same_as :: [Supermarket.private](/_private/Society/Agent/Community/Organization/Business/Local_Business/Store/Grocery_Store/Supermarket.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Business/Local_Business/Store/Grocery_Store/Supermarket.private|Supermarket.private]] 
 
-### #is_/same_as :: [Supermarket.personal](/_personal/Society/Agent/Community/Organization/Business/Local_Business/Store/Grocery_Store/Supermarket.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Business/Local_Business/Store/Grocery_Store/Supermarket.personal|Supermarket.personal]] 
 
-### #is_/same_as :: [Supermarket.secret](/_secret/Society/Agent/Community/Organization/Business/Local_Business/Store/Grocery_Store/Supermarket.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Business/Local_Business/Store/Grocery_Store/Supermarket.secret|Supermarket.secret]] 
 

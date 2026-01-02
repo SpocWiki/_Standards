@@ -21,17 +21,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Anthropologist](/_Standards/Society/Anthropology/Anthropologist.md) 
+### #is_/same_as :: [[/_Standards/Society/Anthropology/Anthropologist|Anthropologist]] 
 
-### #is_/same_as :: [Anthropologist.public](/_public/Society/Anthropology/Anthropologist.public.md) 
+### #is_/same_as :: [[/_public/Society/Anthropology/Anthropologist.public|Anthropologist.public]] 
 
-### #is_/same_as :: [Anthropologist.internal](/_internal/Society/Anthropology/Anthropologist.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Anthropology/Anthropologist.internal|Anthropologist.internal]] 
 
-### #is_/same_as :: [Anthropologist.protect](/_protect/Society/Anthropology/Anthropologist.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Anthropology/Anthropologist.protect|Anthropologist.protect]] 
 
-### #is_/same_as :: [Anthropologist.private](/_private/Society/Anthropology/Anthropologist.private.md) 
+### #is_/same_as :: [[/_private/Society/Anthropology/Anthropologist.private|Anthropologist.private]] 
 
-### #is_/same_as :: [Anthropologist.personal](/_personal/Society/Anthropology/Anthropologist.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Anthropology/Anthropologist.personal|Anthropologist.personal]] 
 
-### #is_/same_as :: [Anthropologist.secret](/_secret/Society/Anthropology/Anthropologist.secret.md)
+### #is_/same_as :: [[/_secret/Society/Anthropology/Anthropologist.secret|Anthropologist.secret]] 
 

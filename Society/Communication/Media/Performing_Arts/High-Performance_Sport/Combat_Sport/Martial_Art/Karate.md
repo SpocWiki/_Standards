@@ -68,17 +68,17 @@ OpenStreetMap_tag: sport=karate
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Karate](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Martial_Art/Karate.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Martial_Art/Karate|Karate]] 
 
-### #is_/same_as :: [Karate.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Martial_Art/Karate.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Martial_Art/Karate.public|Karate.public]] 
 
-### #is_/same_as :: [Karate.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Martial_Art/Karate.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Martial_Art/Karate.internal|Karate.internal]] 
 
-### #is_/same_as :: [Karate.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Martial_Art/Karate.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Martial_Art/Karate.protect|Karate.protect]] 
 
-### #is_/same_as :: [Karate.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Martial_Art/Karate.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Martial_Art/Karate.private|Karate.private]] 
 
-### #is_/same_as :: [Karate.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Martial_Art/Karate.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Martial_Art/Karate.personal|Karate.personal]] 
 
-### #is_/same_as :: [Karate.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Martial_Art/Karate.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Martial_Art/Karate.secret|Karate.secret]] 
 

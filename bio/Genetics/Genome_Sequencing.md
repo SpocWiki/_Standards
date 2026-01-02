@@ -78,17 +78,17 @@ increased automation, and economies of scale. This cost reduction is expected to
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Genome_Sequencing](/_Standards/bio/Genetics/Genome_Sequencing.md) 
+### #is_/same_as :: [[/_Standards/bio/Genetics/Genome_Sequencing|Genome_Sequencing]] 
 
-### #is_/same_as :: [Genome_Sequencing.public](/_public/bio/Genetics/Genome_Sequencing.public.md) 
+### #is_/same_as :: [[/_public/bio/Genetics/Genome_Sequencing.public|Genome_Sequencing.public]] 
 
-### #is_/same_as :: [Genome_Sequencing.internal](/_internal/bio/Genetics/Genome_Sequencing.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Genetics/Genome_Sequencing.internal|Genome_Sequencing.internal]] 
 
-### #is_/same_as :: [Genome_Sequencing.protect](/_protect/bio/Genetics/Genome_Sequencing.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Genetics/Genome_Sequencing.protect|Genome_Sequencing.protect]] 
 
-### #is_/same_as :: [Genome_Sequencing.private](/_private/bio/Genetics/Genome_Sequencing.private.md) 
+### #is_/same_as :: [[/_private/bio/Genetics/Genome_Sequencing.private|Genome_Sequencing.private]] 
 
-### #is_/same_as :: [Genome_Sequencing.personal](/_personal/bio/Genetics/Genome_Sequencing.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Genetics/Genome_Sequencing.personal|Genome_Sequencing.personal]] 
 
-### #is_/same_as :: [Genome_Sequencing.secret](/_secret/bio/Genetics/Genome_Sequencing.secret.md)
+### #is_/same_as :: [[/_secret/bio/Genetics/Genome_Sequencing.secret|Genome_Sequencing.secret]] 
 

@@ -57,17 +57,17 @@ has_id_wikidata: Q838695
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [1996-First_Congo_War+1997](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1996-First_Congo_War+1997.md) 
+### #is_/same_as :: [[/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1996-First_Congo_War+1997|1996-First_Congo_War+1997]] 
 
-### #is_/same_as :: [1996-First_Congo_War+1997.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1996-First_Congo_War+1997.public.md) 
+### #is_/same_as :: [[/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1996-First_Congo_War+1997.public|1996-First_Congo_War+1997.public]] 
 
-### #is_/same_as :: [1996-First_Congo_War+1997.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1996-First_Congo_War+1997.internal.md) 
+### #is_/same_as :: [[/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1996-First_Congo_War+1997.internal|1996-First_Congo_War+1997.internal]] 
 
-### #is_/same_as :: [1996-First_Congo_War+1997.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1996-First_Congo_War+1997.protect.md) 
+### #is_/same_as :: [[/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1996-First_Congo_War+1997.protect|1996-First_Congo_War+1997.protect]] 
 
-### #is_/same_as :: [1996-First_Congo_War+1997.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1996-First_Congo_War+1997.private.md) 
+### #is_/same_as :: [[/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1996-First_Congo_War+1997.private|1996-First_Congo_War+1997.private]] 
 
-### #is_/same_as :: [1996-First_Congo_War+1997.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1996-First_Congo_War+1997.personal.md) 
+### #is_/same_as :: [[/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1996-First_Congo_War+1997.personal|1996-First_Congo_War+1997.personal]] 
 
-### #is_/same_as :: [1996-First_Congo_War+1997.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1996-First_Congo_War+1997.secret.md)
+### #is_/same_as :: [[/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1996-First_Congo_War+1997.secret|1996-First_Congo_War+1997.secret]] 
 

@@ -98,17 +98,17 @@ Commons_category: Wright brothers
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Wright_Brothers](/_Standards/Science/Inventor/Wright_Brothers.md) 
+### #is_/same_as :: [[/_Standards/Science/Inventor/Wright_Brothers|Wright_Brothers]] 
 
-### #is_/same_as :: [Wright_Brothers.public](/_public/Science/Inventor/Wright_Brothers.public.md) 
+### #is_/same_as :: [[/_public/Science/Inventor/Wright_Brothers.public|Wright_Brothers.public]] 
 
-### #is_/same_as :: [Wright_Brothers.internal](/_internal/Science/Inventor/Wright_Brothers.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Inventor/Wright_Brothers.internal|Wright_Brothers.internal]] 
 
-### #is_/same_as :: [Wright_Brothers.protect](/_protect/Science/Inventor/Wright_Brothers.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Inventor/Wright_Brothers.protect|Wright_Brothers.protect]] 
 
-### #is_/same_as :: [Wright_Brothers.private](/_private/Science/Inventor/Wright_Brothers.private.md) 
+### #is_/same_as :: [[/_private/Science/Inventor/Wright_Brothers.private|Wright_Brothers.private]] 
 
-### #is_/same_as :: [Wright_Brothers.personal](/_personal/Science/Inventor/Wright_Brothers.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Inventor/Wright_Brothers.personal|Wright_Brothers.personal]] 
 
-### #is_/same_as :: [Wright_Brothers.secret](/_secret/Science/Inventor/Wright_Brothers.secret.md)
+### #is_/same_as :: [[/_secret/Science/Inventor/Wright_Brothers.secret|Wright_Brothers.secret]] 
 

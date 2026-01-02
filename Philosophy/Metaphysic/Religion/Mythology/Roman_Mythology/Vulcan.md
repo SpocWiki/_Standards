@@ -65,17 +65,17 @@ Hederich_encyclopedia_article: Vvlcánvs
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Vulcan](/_Standards/Philosophy/Metaphysic/Religion/Mythology/Roman_Mythology/Vulcan.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Mythology/Roman_Mythology/Vulcan|Vulcan]] 
 
-### #is_/same_as :: [Vulcan.public](/_public/Philosophy/Metaphysic/Religion/Mythology/Roman_Mythology/Vulcan.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Mythology/Roman_Mythology/Vulcan.public|Vulcan.public]] 
 
-### #is_/same_as :: [Vulcan.internal](/_internal/Philosophy/Metaphysic/Religion/Mythology/Roman_Mythology/Vulcan.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Mythology/Roman_Mythology/Vulcan.internal|Vulcan.internal]] 
 
-### #is_/same_as :: [Vulcan.protect](/_protect/Philosophy/Metaphysic/Religion/Mythology/Roman_Mythology/Vulcan.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Mythology/Roman_Mythology/Vulcan.protect|Vulcan.protect]] 
 
-### #is_/same_as :: [Vulcan.private](/_private/Philosophy/Metaphysic/Religion/Mythology/Roman_Mythology/Vulcan.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Mythology/Roman_Mythology/Vulcan.private|Vulcan.private]] 
 
-### #is_/same_as :: [Vulcan.personal](/_personal/Philosophy/Metaphysic/Religion/Mythology/Roman_Mythology/Vulcan.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Mythology/Roman_Mythology/Vulcan.personal|Vulcan.personal]] 
 
-### #is_/same_as :: [Vulcan.secret](/_secret/Philosophy/Metaphysic/Religion/Mythology/Roman_Mythology/Vulcan.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Mythology/Roman_Mythology/Vulcan.secret|Vulcan.secret]] 
 

@@ -50,17 +50,17 @@ alternative_name: гальваническая цепь
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Electrical_Network](/_Standards/Science/Physics/Electricity/Electrical_Network.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Electricity/Electrical_Network|Electrical_Network]] 
 
-### #is_/same_as :: [Electrical_Network.public](/_public/Science/Physics/Electricity/Electrical_Network.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Electricity/Electrical_Network.public|Electrical_Network.public]] 
 
-### #is_/same_as :: [Electrical_Network.internal](/_internal/Science/Physics/Electricity/Electrical_Network.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Electricity/Electrical_Network.internal|Electrical_Network.internal]] 
 
-### #is_/same_as :: [Electrical_Network.protect](/_protect/Science/Physics/Electricity/Electrical_Network.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Electricity/Electrical_Network.protect|Electrical_Network.protect]] 
 
-### #is_/same_as :: [Electrical_Network.private](/_private/Science/Physics/Electricity/Electrical_Network.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Electricity/Electrical_Network.private|Electrical_Network.private]] 
 
-### #is_/same_as :: [Electrical_Network.personal](/_personal/Science/Physics/Electricity/Electrical_Network.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Electricity/Electrical_Network.personal|Electrical_Network.personal]] 
 
-### #is_/same_as :: [Electrical_Network.secret](/_secret/Science/Physics/Electricity/Electrical_Network.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Electricity/Electrical_Network.secret|Electrical_Network.secret]] 
 

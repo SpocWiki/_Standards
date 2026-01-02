@@ -81,17 +81,17 @@ Dewey_Decimal_Classification: "796.812"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Wrestling](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Wrestling.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Wrestling|Wrestling]] 
 
-### #is_/same_as :: [Wrestling.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Wrestling.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Wrestling.public|Wrestling.public]] 
 
-### #is_/same_as :: [Wrestling.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Wrestling.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Wrestling.internal|Wrestling.internal]] 
 
-### #is_/same_as :: [Wrestling.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Wrestling.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Wrestling.protect|Wrestling.protect]] 
 
-### #is_/same_as :: [Wrestling.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Wrestling.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Wrestling.private|Wrestling.private]] 
 
-### #is_/same_as :: [Wrestling.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Wrestling.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Wrestling.personal|Wrestling.personal]] 
 
-### #is_/same_as :: [Wrestling.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Wrestling.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Wrestling.secret|Wrestling.secret]] 
 

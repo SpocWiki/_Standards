@@ -173,17 +173,17 @@ writing_system: '[[_Standards/WikiData/WD~Latin_script,8229]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Soybean](/_Standards/bio/Botany/Soybean.md) 
+### #is_/same_as :: [[/_Standards/bio/Botany/Soybean|Soybean]] 
 
-### #is_/same_as :: [Soybean.public](/_public/bio/Botany/Soybean.public.md) 
+### #is_/same_as :: [[/_public/bio/Botany/Soybean.public|Soybean.public]] 
 
-### #is_/same_as :: [Soybean.internal](/_internal/bio/Botany/Soybean.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Botany/Soybean.internal|Soybean.internal]] 
 
-### #is_/same_as :: [Soybean.protect](/_protect/bio/Botany/Soybean.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Botany/Soybean.protect|Soybean.protect]] 
 
-### #is_/same_as :: [Soybean.private](/_private/bio/Botany/Soybean.private.md) 
+### #is_/same_as :: [[/_private/bio/Botany/Soybean.private|Soybean.private]] 
 
-### #is_/same_as :: [Soybean.personal](/_personal/bio/Botany/Soybean.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Botany/Soybean.personal|Soybean.personal]] 
 
-### #is_/same_as :: [Soybean.secret](/_secret/bio/Botany/Soybean.secret.md)
+### #is_/same_as :: [[/_secret/bio/Botany/Soybean.secret|Soybean.secret]] 
 

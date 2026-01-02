@@ -125,17 +125,17 @@ work_period_start_: 1945
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Fellini,Federico](/_Standards/Society/Communication/Media/Movie/Movie-Director/Fellini,Federico.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Director/Fellini,Federico|Fellini,Federico]] 
 
-### #is_/same_as :: [Fellini,Federico.public](/_public/Society/Communication/Media/Movie/Movie-Director/Fellini,Federico.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Director/Fellini,Federico.public|Fellini,Federico.public]] 
 
-### #is_/same_as :: [Fellini,Federico.internal](/_internal/Society/Communication/Media/Movie/Movie-Director/Fellini,Federico.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Director/Fellini,Federico.internal|Fellini,Federico.internal]] 
 
-### #is_/same_as :: [Fellini,Federico.protect](/_protect/Society/Communication/Media/Movie/Movie-Director/Fellini,Federico.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Director/Fellini,Federico.protect|Fellini,Federico.protect]] 
 
-### #is_/same_as :: [Fellini,Federico.private](/_private/Society/Communication/Media/Movie/Movie-Director/Fellini,Federico.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Director/Fellini,Federico.private|Fellini,Federico.private]] 
 
-### #is_/same_as :: [Fellini,Federico.personal](/_personal/Society/Communication/Media/Movie/Movie-Director/Fellini,Federico.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Director/Fellini,Federico.personal|Fellini,Federico.personal]] 
 
-### #is_/same_as :: [Fellini,Federico.secret](/_secret/Society/Communication/Media/Movie/Movie-Director/Fellini,Federico.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Director/Fellini,Federico.secret|Fellini,Federico.secret]] 
 

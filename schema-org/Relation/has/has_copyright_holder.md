@@ -42,17 +42,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_copyright_holder](/_Standards/schema-org/Relation/has/has_copyright_holder.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_copyright_holder|has_copyright_holder]] 
 
-### #is_/same_as :: [has_copyright_holder.public](/_public/schema-org/Relation/has/has_copyright_holder.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_copyright_holder.public|has_copyright_holder.public]] 
 
-### #is_/same_as :: [has_copyright_holder.internal](/_internal/schema-org/Relation/has/has_copyright_holder.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_copyright_holder.internal|has_copyright_holder.internal]] 
 
-### #is_/same_as :: [has_copyright_holder.protect](/_protect/schema-org/Relation/has/has_copyright_holder.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_copyright_holder.protect|has_copyright_holder.protect]] 
 
-### #is_/same_as :: [has_copyright_holder.private](/_private/schema-org/Relation/has/has_copyright_holder.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_copyright_holder.private|has_copyright_holder.private]] 
 
-### #is_/same_as :: [has_copyright_holder.personal](/_personal/schema-org/Relation/has/has_copyright_holder.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_copyright_holder.personal|has_copyright_holder.personal]] 
 
-### #is_/same_as :: [has_copyright_holder.secret](/_secret/schema-org/Relation/has/has_copyright_holder.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_copyright_holder.secret|has_copyright_holder.secret]] 
 

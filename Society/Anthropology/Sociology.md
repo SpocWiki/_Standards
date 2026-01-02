@@ -103,17 +103,17 @@ researches the Formation of "Society" and the Interaction with the Individual.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sociology](/_Standards/Society/Anthropology/Sociology.md) 
+### #is_/same_as :: [[/_Standards/Society/Anthropology/Sociology|Sociology]] 
 
-### #is_/same_as :: [Sociology.public](/_public/Society/Anthropology/Sociology.public.md) 
+### #is_/same_as :: [[/_public/Society/Anthropology/Sociology.public|Sociology.public]] 
 
-### #is_/same_as :: [Sociology.internal](/_internal/Society/Anthropology/Sociology.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Anthropology/Sociology.internal|Sociology.internal]] 
 
-### #is_/same_as :: [Sociology.protect](/_protect/Society/Anthropology/Sociology.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Anthropology/Sociology.protect|Sociology.protect]] 
 
-### #is_/same_as :: [Sociology.private](/_private/Society/Anthropology/Sociology.private.md) 
+### #is_/same_as :: [[/_private/Society/Anthropology/Sociology.private|Sociology.private]] 
 
-### #is_/same_as :: [Sociology.personal](/_personal/Society/Anthropology/Sociology.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Anthropology/Sociology.personal|Sociology.personal]] 
 
-### #is_/same_as :: [Sociology.secret](/_secret/Society/Anthropology/Sociology.secret.md)
+### #is_/same_as :: [[/_secret/Society/Anthropology/Sociology.secret|Sociology.secret]] 
 

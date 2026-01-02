@@ -55,17 +55,17 @@ Iconclass_notation: 46C152
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Locomotive](/_Standards/Technology/Transport/Rail_Transport/Locomotive.md) 
+### #is_/same_as :: [[/_Standards/Technology/Transport/Rail_Transport/Locomotive|Locomotive]] 
 
-### #is_/same_as :: [Locomotive.public](/_public/Technology/Transport/Rail_Transport/Locomotive.public.md) 
+### #is_/same_as :: [[/_public/Technology/Transport/Rail_Transport/Locomotive.public|Locomotive.public]] 
 
-### #is_/same_as :: [Locomotive.internal](/_internal/Technology/Transport/Rail_Transport/Locomotive.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Transport/Rail_Transport/Locomotive.internal|Locomotive.internal]] 
 
-### #is_/same_as :: [Locomotive.protect](/_protect/Technology/Transport/Rail_Transport/Locomotive.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Transport/Rail_Transport/Locomotive.protect|Locomotive.protect]] 
 
-### #is_/same_as :: [Locomotive.private](/_private/Technology/Transport/Rail_Transport/Locomotive.private.md) 
+### #is_/same_as :: [[/_private/Technology/Transport/Rail_Transport/Locomotive.private|Locomotive.private]] 
 
-### #is_/same_as :: [Locomotive.personal](/_personal/Technology/Transport/Rail_Transport/Locomotive.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Transport/Rail_Transport/Locomotive.personal|Locomotive.personal]] 
 
-### #is_/same_as :: [Locomotive.secret](/_secret/Technology/Transport/Rail_Transport/Locomotive.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Transport/Rail_Transport/Locomotive.secret|Locomotive.secret]] 
 

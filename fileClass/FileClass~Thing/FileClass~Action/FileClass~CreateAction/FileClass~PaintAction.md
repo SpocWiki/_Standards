@@ -37,17 +37,17 @@ The act of producing a painting, typically with paint and canvas as instruments.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~PaintAction](/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~CreateAction/FileClass~PaintAction.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~CreateAction/FileClass~PaintAction|FileClass~PaintAction]] 
 
-### #is_/same_as :: [FileClass~PaintAction.public](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~CreateAction/FileClass~PaintAction.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~CreateAction/FileClass~PaintAction.public|FileClass~PaintAction.public]] 
 
-### #is_/same_as :: [FileClass~PaintAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~CreateAction/FileClass~PaintAction.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~CreateAction/FileClass~PaintAction.internal|FileClass~PaintAction.internal]] 
 
-### #is_/same_as :: [FileClass~PaintAction.protect](/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~CreateAction/FileClass~PaintAction.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~CreateAction/FileClass~PaintAction.protect|FileClass~PaintAction.protect]] 
 
-### #is_/same_as :: [FileClass~PaintAction.private](/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~CreateAction/FileClass~PaintAction.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~CreateAction/FileClass~PaintAction.private|FileClass~PaintAction.private]] 
 
-### #is_/same_as :: [FileClass~PaintAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~CreateAction/FileClass~PaintAction.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~CreateAction/FileClass~PaintAction.personal|FileClass~PaintAction.personal]] 
 
-### #is_/same_as :: [FileClass~PaintAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~CreateAction/FileClass~PaintAction.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~CreateAction/FileClass~PaintAction.secret|FileClass~PaintAction.secret]] 
 

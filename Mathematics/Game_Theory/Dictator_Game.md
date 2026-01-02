@@ -33,17 +33,17 @@ The initial game was developed by [Daniel Kahneman](https://en.wikipedia.org/wi
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Dictator_Game](/_Standards/Mathematics/Game_Theory/Dictator_Game.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Game_Theory/Dictator_Game|Dictator_Game]] 
 
-### #is_/same_as :: [Dictator_Game.public](/_public/Mathematics/Game_Theory/Dictator_Game.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Game_Theory/Dictator_Game.public|Dictator_Game.public]] 
 
-### #is_/same_as :: [Dictator_Game.internal](/_internal/Mathematics/Game_Theory/Dictator_Game.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Game_Theory/Dictator_Game.internal|Dictator_Game.internal]] 
 
-### #is_/same_as :: [Dictator_Game.protect](/_protect/Mathematics/Game_Theory/Dictator_Game.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Game_Theory/Dictator_Game.protect|Dictator_Game.protect]] 
 
-### #is_/same_as :: [Dictator_Game.private](/_private/Mathematics/Game_Theory/Dictator_Game.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Game_Theory/Dictator_Game.private|Dictator_Game.private]] 
 
-### #is_/same_as :: [Dictator_Game.personal](/_personal/Mathematics/Game_Theory/Dictator_Game.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Game_Theory/Dictator_Game.personal|Dictator_Game.personal]] 
 
-### #is_/same_as :: [Dictator_Game.secret](/_secret/Mathematics/Game_Theory/Dictator_Game.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Game_Theory/Dictator_Game.secret|Dictator_Game.secret]] 
 

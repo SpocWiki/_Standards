@@ -53,17 +53,17 @@ pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Shor's_Algorithm](/_Standards/Technology/IT/Data/Code/Encoding/Encryption/Shor's_Algorithm.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Data/Code/Encoding/Encryption/Shor's_Algorithm|Shor's_Algorithm]] 
 
-### #is_/same_as :: [Shor's_Algorithm.public](/_public/Technology/IT/Data/Code/Encoding/Encryption/Shor's_Algorithm.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Data/Code/Encoding/Encryption/Shor's_Algorithm.public|Shor's_Algorithm.public]] 
 
-### #is_/same_as :: [Shor's_Algorithm.internal](/_internal/Technology/IT/Data/Code/Encoding/Encryption/Shor's_Algorithm.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Data/Code/Encoding/Encryption/Shor's_Algorithm.internal|Shor's_Algorithm.internal]] 
 
-### #is_/same_as :: [Shor's_Algorithm.protect](/_protect/Technology/IT/Data/Code/Encoding/Encryption/Shor's_Algorithm.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Data/Code/Encoding/Encryption/Shor's_Algorithm.protect|Shor's_Algorithm.protect]] 
 
-### #is_/same_as :: [Shor's_Algorithm.private](/_private/Technology/IT/Data/Code/Encoding/Encryption/Shor's_Algorithm.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Data/Code/Encoding/Encryption/Shor's_Algorithm.private|Shor's_Algorithm.private]] 
 
-### #is_/same_as :: [Shor's_Algorithm.personal](/_personal/Technology/IT/Data/Code/Encoding/Encryption/Shor's_Algorithm.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Data/Code/Encoding/Encryption/Shor's_Algorithm.personal|Shor's_Algorithm.personal]] 
 
-### #is_/same_as :: [Shor's_Algorithm.secret](/_secret/Technology/IT/Data/Code/Encoding/Encryption/Shor's_Algorithm.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Data/Code/Encoding/Encryption/Shor's_Algorithm.secret|Shor's_Algorithm.secret]] 
 

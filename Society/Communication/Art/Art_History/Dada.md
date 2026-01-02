@@ -104,17 +104,17 @@ Krugosvet_article: kultura_i_obrazovanie/literatura/DADAIZM.html
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Dada](/_Standards/Society/Communication/Art/Art_History/Dada.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Art/Art_History/Dada|Dada]] 
 
-### #is_/same_as :: [Dada.public](/_public/Society/Communication/Art/Art_History/Dada.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Art/Art_History/Dada.public|Dada.public]] 
 
-### #is_/same_as :: [Dada.internal](/_internal/Society/Communication/Art/Art_History/Dada.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Art/Art_History/Dada.internal|Dada.internal]] 
 
-### #is_/same_as :: [Dada.protect](/_protect/Society/Communication/Art/Art_History/Dada.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Art/Art_History/Dada.protect|Dada.protect]] 
 
-### #is_/same_as :: [Dada.private](/_private/Society/Communication/Art/Art_History/Dada.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Art/Art_History/Dada.private|Dada.private]] 
 
-### #is_/same_as :: [Dada.personal](/_personal/Society/Communication/Art/Art_History/Dada.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Art/Art_History/Dada.personal|Dada.personal]] 
 
-### #is_/same_as :: [Dada.secret](/_secret/Society/Communication/Art/Art_History/Dada.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Art/Art_History/Dada.secret|Dada.secret]] 
 

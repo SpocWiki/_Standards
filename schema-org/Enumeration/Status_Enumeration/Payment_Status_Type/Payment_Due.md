@@ -42,17 +42,17 @@ The payment is due, but still within an acceptable time to be received.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Payment_Due](/_Standards/schema-org/Enumeration/Status_Enumeration/Payment_Status_Type/Payment_Due.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Status_Enumeration/Payment_Status_Type/Payment_Due|Payment_Due]] 
 
-### #is_/same_as :: [Payment_Due.public](/_public/schema-org/Enumeration/Status_Enumeration/Payment_Status_Type/Payment_Due.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Status_Enumeration/Payment_Status_Type/Payment_Due.public|Payment_Due.public]] 
 
-### #is_/same_as :: [Payment_Due.internal](/_internal/schema-org/Enumeration/Status_Enumeration/Payment_Status_Type/Payment_Due.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Status_Enumeration/Payment_Status_Type/Payment_Due.internal|Payment_Due.internal]] 
 
-### #is_/same_as :: [Payment_Due.protect](/_protect/schema-org/Enumeration/Status_Enumeration/Payment_Status_Type/Payment_Due.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Status_Enumeration/Payment_Status_Type/Payment_Due.protect|Payment_Due.protect]] 
 
-### #is_/same_as :: [Payment_Due.private](/_private/schema-org/Enumeration/Status_Enumeration/Payment_Status_Type/Payment_Due.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Status_Enumeration/Payment_Status_Type/Payment_Due.private|Payment_Due.private]] 
 
-### #is_/same_as :: [Payment_Due.personal](/_personal/schema-org/Enumeration/Status_Enumeration/Payment_Status_Type/Payment_Due.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Status_Enumeration/Payment_Status_Type/Payment_Due.personal|Payment_Due.personal]] 
 
-### #is_/same_as :: [Payment_Due.secret](/_secret/schema-org/Enumeration/Status_Enumeration/Payment_Status_Type/Payment_Due.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Status_Enumeration/Payment_Status_Type/Payment_Due.secret|Payment_Due.secret]] 
 

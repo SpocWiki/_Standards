@@ -54,17 +54,17 @@ Commons_category: Nordic skiing
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Nordic_Skiing](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Winter_Sport/Nordic_Skiing.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Winter_Sport/Nordic_Skiing|Nordic_Skiing]] 
 
-### #is_/same_as :: [Nordic_Skiing.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Winter_Sport/Nordic_Skiing.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Winter_Sport/Nordic_Skiing.public|Nordic_Skiing.public]] 
 
-### #is_/same_as :: [Nordic_Skiing.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Winter_Sport/Nordic_Skiing.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Winter_Sport/Nordic_Skiing.internal|Nordic_Skiing.internal]] 
 
-### #is_/same_as :: [Nordic_Skiing.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Winter_Sport/Nordic_Skiing.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Winter_Sport/Nordic_Skiing.protect|Nordic_Skiing.protect]] 
 
-### #is_/same_as :: [Nordic_Skiing.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Winter_Sport/Nordic_Skiing.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Winter_Sport/Nordic_Skiing.private|Nordic_Skiing.private]] 
 
-### #is_/same_as :: [Nordic_Skiing.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Winter_Sport/Nordic_Skiing.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Winter_Sport/Nordic_Skiing.personal|Nordic_Skiing.personal]] 
 
-### #is_/same_as :: [Nordic_Skiing.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Winter_Sport/Nordic_Skiing.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Winter_Sport/Nordic_Skiing.secret|Nordic_Skiing.secret]] 
 

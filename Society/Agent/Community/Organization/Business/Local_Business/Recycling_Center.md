@@ -41,17 +41,17 @@ A recycling center.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Recycling_Center](/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Recycling_Center.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Recycling_Center|Recycling_Center]] 
 
-### #is_/same_as :: [Recycling_Center.public](/_public/Society/Agent/Community/Organization/Business/Local_Business/Recycling_Center.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Business/Local_Business/Recycling_Center.public|Recycling_Center.public]] 
 
-### #is_/same_as :: [Recycling_Center.internal](/_internal/Society/Agent/Community/Organization/Business/Local_Business/Recycling_Center.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Business/Local_Business/Recycling_Center.internal|Recycling_Center.internal]] 
 
-### #is_/same_as :: [Recycling_Center.protect](/_protect/Society/Agent/Community/Organization/Business/Local_Business/Recycling_Center.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Business/Local_Business/Recycling_Center.protect|Recycling_Center.protect]] 
 
-### #is_/same_as :: [Recycling_Center.private](/_private/Society/Agent/Community/Organization/Business/Local_Business/Recycling_Center.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Business/Local_Business/Recycling_Center.private|Recycling_Center.private]] 
 
-### #is_/same_as :: [Recycling_Center.personal](/_personal/Society/Agent/Community/Organization/Business/Local_Business/Recycling_Center.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Business/Local_Business/Recycling_Center.personal|Recycling_Center.personal]] 
 
-### #is_/same_as :: [Recycling_Center.secret](/_secret/Society/Agent/Community/Organization/Business/Local_Business/Recycling_Center.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Business/Local_Business/Recycling_Center.secret|Recycling_Center.secret]] 
 

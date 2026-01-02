@@ -39,17 +39,17 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Drainbankstown.jpg
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Drainage](/_Standards/Society/Economics/Industry/Agriculture/Drainage.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Industry/Agriculture/Drainage|Drainage]] 
 
-### #is_/same_as :: [Drainage.public](/_public/Society/Economics/Industry/Agriculture/Drainage.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Industry/Agriculture/Drainage.public|Drainage.public]] 
 
-### #is_/same_as :: [Drainage.internal](/_internal/Society/Economics/Industry/Agriculture/Drainage.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Industry/Agriculture/Drainage.internal|Drainage.internal]] 
 
-### #is_/same_as :: [Drainage.protect](/_protect/Society/Economics/Industry/Agriculture/Drainage.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Industry/Agriculture/Drainage.protect|Drainage.protect]] 
 
-### #is_/same_as :: [Drainage.private](/_private/Society/Economics/Industry/Agriculture/Drainage.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Industry/Agriculture/Drainage.private|Drainage.private]] 
 
-### #is_/same_as :: [Drainage.personal](/_personal/Society/Economics/Industry/Agriculture/Drainage.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Industry/Agriculture/Drainage.personal|Drainage.personal]] 
 
-### #is_/same_as :: [Drainage.secret](/_secret/Society/Economics/Industry/Agriculture/Drainage.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Industry/Agriculture/Drainage.secret|Drainage.secret]] 
 

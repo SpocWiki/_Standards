@@ -62,17 +62,17 @@ Dewey_Decimal_Classification: 551.517
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Atmospheric_Circulation](/_Standards/Earth/Climate/Atmosphere,Earth/Atmospheric_Circulation.md) 
+### #is_/same_as :: [[/_Standards/Earth/Climate/Atmosphere,Earth/Atmospheric_Circulation|Atmospheric_Circulation]] 
 
-### #is_/same_as :: [Atmospheric_Circulation.public](/_public/Earth/Climate/Atmosphere,Earth/Atmospheric_Circulation.public.md) 
+### #is_/same_as :: [[/_public/Earth/Climate/Atmosphere,Earth/Atmospheric_Circulation.public|Atmospheric_Circulation.public]] 
 
-### #is_/same_as :: [Atmospheric_Circulation.internal](/_internal/Earth/Climate/Atmosphere,Earth/Atmospheric_Circulation.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Climate/Atmosphere,Earth/Atmospheric_Circulation.internal|Atmospheric_Circulation.internal]] 
 
-### #is_/same_as :: [Atmospheric_Circulation.protect](/_protect/Earth/Climate/Atmosphere,Earth/Atmospheric_Circulation.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Climate/Atmosphere,Earth/Atmospheric_Circulation.protect|Atmospheric_Circulation.protect]] 
 
-### #is_/same_as :: [Atmospheric_Circulation.private](/_private/Earth/Climate/Atmosphere,Earth/Atmospheric_Circulation.private.md) 
+### #is_/same_as :: [[/_private/Earth/Climate/Atmosphere,Earth/Atmospheric_Circulation.private|Atmospheric_Circulation.private]] 
 
-### #is_/same_as :: [Atmospheric_Circulation.personal](/_personal/Earth/Climate/Atmosphere,Earth/Atmospheric_Circulation.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Climate/Atmosphere,Earth/Atmospheric_Circulation.personal|Atmospheric_Circulation.personal]] 
 
-### #is_/same_as :: [Atmospheric_Circulation.secret](/_secret/Earth/Climate/Atmosphere,Earth/Atmospheric_Circulation.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Climate/Atmosphere,Earth/Atmospheric_Circulation.secret|Atmospheric_Circulation.secret]] 
 

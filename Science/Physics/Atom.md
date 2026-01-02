@@ -67,17 +67,17 @@ video: http://commons.wikimedia.org/wiki/Special:FilePath/Atomic%20orbitals%20an
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Atom](/_Standards/Science/Physics/Atom.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Atom|Atom]] 
 
-### #is_/same_as :: [Atom.public](/_public/Science/Physics/Atom.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Atom.public|Atom.public]] 
 
-### #is_/same_as :: [Atom.internal](/_internal/Science/Physics/Atom.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Atom.internal|Atom.internal]] 
 
-### #is_/same_as :: [Atom.protect](/_protect/Science/Physics/Atom.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Atom.protect|Atom.protect]] 
 
-### #is_/same_as :: [Atom.private](/_private/Science/Physics/Atom.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Atom.private|Atom.private]] 
 
-### #is_/same_as :: [Atom.personal](/_personal/Science/Physics/Atom.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Atom.personal|Atom.personal]] 
 
-### #is_/same_as :: [Atom.secret](/_secret/Science/Physics/Atom.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Atom.secret|Atom.secret]] 
 

@@ -44,17 +44,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_nonprofit_status](/_Standards/schema-org/Relation/has/has_nonprofit_status.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_nonprofit_status|has_nonprofit_status]] 
 
-### #is_/same_as :: [has_nonprofit_status.public](/_public/schema-org/Relation/has/has_nonprofit_status.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_nonprofit_status.public|has_nonprofit_status.public]] 
 
-### #is_/same_as :: [has_nonprofit_status.internal](/_internal/schema-org/Relation/has/has_nonprofit_status.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_nonprofit_status.internal|has_nonprofit_status.internal]] 
 
-### #is_/same_as :: [has_nonprofit_status.protect](/_protect/schema-org/Relation/has/has_nonprofit_status.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_nonprofit_status.protect|has_nonprofit_status.protect]] 
 
-### #is_/same_as :: [has_nonprofit_status.private](/_private/schema-org/Relation/has/has_nonprofit_status.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_nonprofit_status.private|has_nonprofit_status.private]] 
 
-### #is_/same_as :: [has_nonprofit_status.personal](/_personal/schema-org/Relation/has/has_nonprofit_status.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_nonprofit_status.personal|has_nonprofit_status.personal]] 
 
-### #is_/same_as :: [has_nonprofit_status.secret](/_secret/schema-org/Relation/has/has_nonprofit_status.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_nonprofit_status.secret|has_nonprofit_status.secret]] 
 

@@ -35,17 +35,17 @@ Commons_category: Soul music
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Soul_Music](/_Standards/Society/Communication/Media/Music/Music_Genre/Soul_Music.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Music_Genre/Soul_Music|Soul_Music]] 
 
-### #is_/same_as :: [Soul_Music.public](/_public/Society/Communication/Media/Music/Music_Genre/Soul_Music.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Music_Genre/Soul_Music.public|Soul_Music.public]] 
 
-### #is_/same_as :: [Soul_Music.internal](/_internal/Society/Communication/Media/Music/Music_Genre/Soul_Music.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Music_Genre/Soul_Music.internal|Soul_Music.internal]] 
 
-### #is_/same_as :: [Soul_Music.protect](/_protect/Society/Communication/Media/Music/Music_Genre/Soul_Music.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Music_Genre/Soul_Music.protect|Soul_Music.protect]] 
 
-### #is_/same_as :: [Soul_Music.private](/_private/Society/Communication/Media/Music/Music_Genre/Soul_Music.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Music_Genre/Soul_Music.private|Soul_Music.private]] 
 
-### #is_/same_as :: [Soul_Music.personal](/_personal/Society/Communication/Media/Music/Music_Genre/Soul_Music.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Music_Genre/Soul_Music.personal|Soul_Music.personal]] 
 
-### #is_/same_as :: [Soul_Music.secret](/_secret/Society/Communication/Media/Music/Music_Genre/Soul_Music.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Music_Genre/Soul_Music.secret|Soul_Music.secret]] 
 

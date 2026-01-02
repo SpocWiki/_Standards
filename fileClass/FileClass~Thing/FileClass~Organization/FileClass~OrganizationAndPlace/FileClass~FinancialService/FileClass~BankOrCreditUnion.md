@@ -37,17 +37,17 @@ Bank or credit union.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~BankOrCreditUnion](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FinancialService/FileClass~BankOrCreditUnion.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FinancialService/FileClass~BankOrCreditUnion|FileClass~BankOrCreditUnion]] 
 
-### #is_/same_as :: [FileClass~BankOrCreditUnion.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FinancialService/FileClass~BankOrCreditUnion.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FinancialService/FileClass~BankOrCreditUnion.public|FileClass~BankOrCreditUnion.public]] 
 
-### #is_/same_as :: [FileClass~BankOrCreditUnion.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FinancialService/FileClass~BankOrCreditUnion.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FinancialService/FileClass~BankOrCreditUnion.internal|FileClass~BankOrCreditUnion.internal]] 
 
-### #is_/same_as :: [FileClass~BankOrCreditUnion.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FinancialService/FileClass~BankOrCreditUnion.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FinancialService/FileClass~BankOrCreditUnion.protect|FileClass~BankOrCreditUnion.protect]] 
 
-### #is_/same_as :: [FileClass~BankOrCreditUnion.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FinancialService/FileClass~BankOrCreditUnion.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FinancialService/FileClass~BankOrCreditUnion.private|FileClass~BankOrCreditUnion.private]] 
 
-### #is_/same_as :: [FileClass~BankOrCreditUnion.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FinancialService/FileClass~BankOrCreditUnion.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FinancialService/FileClass~BankOrCreditUnion.personal|FileClass~BankOrCreditUnion.personal]] 
 
-### #is_/same_as :: [FileClass~BankOrCreditUnion.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FinancialService/FileClass~BankOrCreditUnion.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FinancialService/FileClass~BankOrCreditUnion.secret|FileClass~BankOrCreditUnion.secret]] 
 

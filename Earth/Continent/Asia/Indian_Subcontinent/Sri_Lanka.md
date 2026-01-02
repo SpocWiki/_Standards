@@ -465,17 +465,17 @@ Capital :: [[Sri_Lanka/Counties/Kŏḷamba/City/Sri_Jayawardenapura-Kotte]]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sri_Lanka](/_Standards/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka|Sri_Lanka]] 
 
-### #is_/same_as :: [Sri_Lanka.public](/_public/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka.public|Sri_Lanka.public]] 
 
-### #is_/same_as :: [Sri_Lanka.internal](/_internal/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka.internal|Sri_Lanka.internal]] 
 
-### #is_/same_as :: [Sri_Lanka.protect](/_protect/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka.protect|Sri_Lanka.protect]] 
 
-### #is_/same_as :: [Sri_Lanka.private](/_private/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka.private|Sri_Lanka.private]] 
 
-### #is_/same_as :: [Sri_Lanka.personal](/_personal/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka.personal|Sri_Lanka.personal]] 
 
-### #is_/same_as :: [Sri_Lanka.secret](/_secret/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka.secret|Sri_Lanka.secret]] 
 

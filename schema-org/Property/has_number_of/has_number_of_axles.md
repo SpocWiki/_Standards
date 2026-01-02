@@ -47,17 +47,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_number_of_axles](/_Standards/schema-org/Property/has_number_of/has_number_of_axles.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_number_of/has_number_of_axles|has_number_of_axles]] 
 
-### #is_/same_as :: [has_number_of_axles.public](/_public/schema-org/Property/has_number_of/has_number_of_axles.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/has_number_of/has_number_of_axles.public|has_number_of_axles.public]] 
 
-### #is_/same_as :: [has_number_of_axles.internal](/_internal/schema-org/Property/has_number_of/has_number_of_axles.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_number_of/has_number_of_axles.internal|has_number_of_axles.internal]] 
 
-### #is_/same_as :: [has_number_of_axles.protect](/_protect/schema-org/Property/has_number_of/has_number_of_axles.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_number_of/has_number_of_axles.protect|has_number_of_axles.protect]] 
 
-### #is_/same_as :: [has_number_of_axles.private](/_private/schema-org/Property/has_number_of/has_number_of_axles.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/has_number_of/has_number_of_axles.private|has_number_of_axles.private]] 
 
-### #is_/same_as :: [has_number_of_axles.personal](/_personal/schema-org/Property/has_number_of/has_number_of_axles.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_number_of/has_number_of_axles.personal|has_number_of_axles.personal]] 
 
-### #is_/same_as :: [has_number_of_axles.secret](/_secret/schema-org/Property/has_number_of/has_number_of_axles.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/has_number_of/has_number_of_axles.secret|has_number_of_axles.secret]] 
 

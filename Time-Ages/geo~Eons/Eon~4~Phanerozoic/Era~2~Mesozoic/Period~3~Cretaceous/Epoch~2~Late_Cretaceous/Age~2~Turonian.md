@@ -62,17 +62,17 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Age~2~Turonian](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~3~Cretaceous/Epoch~2~Late_Cretaceous/Age~2~Turonian.md) 
+### #is_/same_as :: [[/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~3~Cretaceous/Epoch~2~Late_Cretaceous/Age~2~Turonian|Age~2~Turonian]] 
 
-### #is_/same_as :: [Age~2~Turonian.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~3~Cretaceous/Epoch~2~Late_Cretaceous/Age~2~Turonian.public.md) 
+### #is_/same_as :: [[/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~3~Cretaceous/Epoch~2~Late_Cretaceous/Age~2~Turonian.public|Age~2~Turonian.public]] 
 
-### #is_/same_as :: [Age~2~Turonian.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~3~Cretaceous/Epoch~2~Late_Cretaceous/Age~2~Turonian.internal.md) 
+### #is_/same_as :: [[/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~3~Cretaceous/Epoch~2~Late_Cretaceous/Age~2~Turonian.internal|Age~2~Turonian.internal]] 
 
-### #is_/same_as :: [Age~2~Turonian.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~3~Cretaceous/Epoch~2~Late_Cretaceous/Age~2~Turonian.protect.md) 
+### #is_/same_as :: [[/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~3~Cretaceous/Epoch~2~Late_Cretaceous/Age~2~Turonian.protect|Age~2~Turonian.protect]] 
 
-### #is_/same_as :: [Age~2~Turonian.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~3~Cretaceous/Epoch~2~Late_Cretaceous/Age~2~Turonian.private.md) 
+### #is_/same_as :: [[/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~3~Cretaceous/Epoch~2~Late_Cretaceous/Age~2~Turonian.private|Age~2~Turonian.private]] 
 
-### #is_/same_as :: [Age~2~Turonian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~3~Cretaceous/Epoch~2~Late_Cretaceous/Age~2~Turonian.personal.md) 
+### #is_/same_as :: [[/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~3~Cretaceous/Epoch~2~Late_Cretaceous/Age~2~Turonian.personal|Age~2~Turonian.personal]] 
 
-### #is_/same_as :: [Age~2~Turonian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~3~Cretaceous/Epoch~2~Late_Cretaceous/Age~2~Turonian.secret.md)
+### #is_/same_as :: [[/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~3~Cretaceous/Epoch~2~Late_Cretaceous/Age~2~Turonian.secret|Age~2~Turonian.secret]] 
 

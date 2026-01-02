@@ -135,17 +135,17 @@ nickname: T-devil
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Tasmanian_Devil](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Marsupialia/Dasyuromorphia/Dasyuridae/Dasyurinae/Dasyurini/Tasmanian_Devil.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Marsupialia/Dasyuromorphia/Dasyuridae/Dasyurinae/Dasyurini/Tasmanian_Devil|Tasmanian_Devil]] 
 
-### #is_/same_as :: [Tasmanian_Devil.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Marsupialia/Dasyuromorphia/Dasyuridae/Dasyurinae/Dasyurini/Tasmanian_Devil.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Marsupialia/Dasyuromorphia/Dasyuridae/Dasyurinae/Dasyurini/Tasmanian_Devil.public|Tasmanian_Devil.public]] 
 
-### #is_/same_as :: [Tasmanian_Devil.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Marsupialia/Dasyuromorphia/Dasyuridae/Dasyurinae/Dasyurini/Tasmanian_Devil.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Marsupialia/Dasyuromorphia/Dasyuridae/Dasyurinae/Dasyurini/Tasmanian_Devil.internal|Tasmanian_Devil.internal]] 
 
-### #is_/same_as :: [Tasmanian_Devil.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Marsupialia/Dasyuromorphia/Dasyuridae/Dasyurinae/Dasyurini/Tasmanian_Devil.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Marsupialia/Dasyuromorphia/Dasyuridae/Dasyurinae/Dasyurini/Tasmanian_Devil.protect|Tasmanian_Devil.protect]] 
 
-### #is_/same_as :: [Tasmanian_Devil.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Marsupialia/Dasyuromorphia/Dasyuridae/Dasyurinae/Dasyurini/Tasmanian_Devil.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Marsupialia/Dasyuromorphia/Dasyuridae/Dasyurinae/Dasyurini/Tasmanian_Devil.private|Tasmanian_Devil.private]] 
 
-### #is_/same_as :: [Tasmanian_Devil.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Marsupialia/Dasyuromorphia/Dasyuridae/Dasyurinae/Dasyurini/Tasmanian_Devil.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Marsupialia/Dasyuromorphia/Dasyuridae/Dasyurinae/Dasyurini/Tasmanian_Devil.personal|Tasmanian_Devil.personal]] 
 
-### #is_/same_as :: [Tasmanian_Devil.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Marsupialia/Dasyuromorphia/Dasyuridae/Dasyurinae/Dasyurini/Tasmanian_Devil.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Marsupialia/Dasyuromorphia/Dasyuridae/Dasyurinae/Dasyurini/Tasmanian_Devil.secret|Tasmanian_Devil.secret]] 
 

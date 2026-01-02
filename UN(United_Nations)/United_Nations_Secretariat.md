@@ -71,17 +71,17 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Headquarters%20of%20th
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [United_Nations_Secretariat](/_Standards/UN(United_Nations)/United_Nations_Secretariat.md) 
+### #is_/same_as :: [[/_Standards/UN(United_Nations)/United_Nations_Secretariat|United_Nations_Secretariat]] 
 
-### #is_/same_as :: [United_Nations_Secretariat.public](/_public/UN(United_Nations)/United_Nations_Secretariat.public.md) 
+### #is_/same_as :: [[/_public/UN(United_Nations)/United_Nations_Secretariat.public|United_Nations_Secretariat.public]] 
 
-### #is_/same_as :: [United_Nations_Secretariat.internal](/_internal/UN(United_Nations)/United_Nations_Secretariat.internal.md) 
+### #is_/same_as :: [[/_internal/UN(United_Nations)/United_Nations_Secretariat.internal|United_Nations_Secretariat.internal]] 
 
-### #is_/same_as :: [United_Nations_Secretariat.protect](/_protect/UN(United_Nations)/United_Nations_Secretariat.protect.md) 
+### #is_/same_as :: [[/_protect/UN(United_Nations)/United_Nations_Secretariat.protect|United_Nations_Secretariat.protect]] 
 
-### #is_/same_as :: [United_Nations_Secretariat.private](/_private/UN(United_Nations)/United_Nations_Secretariat.private.md) 
+### #is_/same_as :: [[/_private/UN(United_Nations)/United_Nations_Secretariat.private|United_Nations_Secretariat.private]] 
 
-### #is_/same_as :: [United_Nations_Secretariat.personal](/_personal/UN(United_Nations)/United_Nations_Secretariat.personal.md) 
+### #is_/same_as :: [[/_personal/UN(United_Nations)/United_Nations_Secretariat.personal|United_Nations_Secretariat.personal]] 
 
-### #is_/same_as :: [United_Nations_Secretariat.secret](/_secret/UN(United_Nations)/United_Nations_Secretariat.secret.md)
+### #is_/same_as :: [[/_secret/UN(United_Nations)/United_Nations_Secretariat.secret|United_Nations_Secretariat.secret]] 
 

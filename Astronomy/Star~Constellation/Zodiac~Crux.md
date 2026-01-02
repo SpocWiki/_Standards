@@ -57,17 +57,17 @@ short_name: Cru
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Zodiac~Crux](/_Standards/Astronomy/Star~Constellation/Zodiac~Crux.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Star~Constellation/Zodiac~Crux|Zodiac~Crux]] 
 
-### #is_/same_as :: [Zodiac~Crux.public](/_public/Astronomy/Star~Constellation/Zodiac~Crux.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Star~Constellation/Zodiac~Crux.public|Zodiac~Crux.public]] 
 
-### #is_/same_as :: [Zodiac~Crux.internal](/_internal/Astronomy/Star~Constellation/Zodiac~Crux.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Star~Constellation/Zodiac~Crux.internal|Zodiac~Crux.internal]] 
 
-### #is_/same_as :: [Zodiac~Crux.protect](/_protect/Astronomy/Star~Constellation/Zodiac~Crux.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Star~Constellation/Zodiac~Crux.protect|Zodiac~Crux.protect]] 
 
-### #is_/same_as :: [Zodiac~Crux.private](/_private/Astronomy/Star~Constellation/Zodiac~Crux.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Star~Constellation/Zodiac~Crux.private|Zodiac~Crux.private]] 
 
-### #is_/same_as :: [Zodiac~Crux.personal](/_personal/Astronomy/Star~Constellation/Zodiac~Crux.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Star~Constellation/Zodiac~Crux.personal|Zodiac~Crux.personal]] 
 
-### #is_/same_as :: [Zodiac~Crux.secret](/_secret/Astronomy/Star~Constellation/Zodiac~Crux.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Star~Constellation/Zodiac~Crux.secret|Zodiac~Crux.secret]] 
 

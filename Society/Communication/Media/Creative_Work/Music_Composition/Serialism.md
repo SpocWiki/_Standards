@@ -51,17 +51,17 @@ inception: 1923-01-01T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Serialism](/_Standards/Society/Communication/Media/Creative_Work/Music_Composition/Serialism.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Creative_Work/Music_Composition/Serialism|Serialism]] 
 
-### #is_/same_as :: [Serialism.public](/_public/Society/Communication/Media/Creative_Work/Music_Composition/Serialism.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Creative_Work/Music_Composition/Serialism.public|Serialism.public]] 
 
-### #is_/same_as :: [Serialism.internal](/_internal/Society/Communication/Media/Creative_Work/Music_Composition/Serialism.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Creative_Work/Music_Composition/Serialism.internal|Serialism.internal]] 
 
-### #is_/same_as :: [Serialism.protect](/_protect/Society/Communication/Media/Creative_Work/Music_Composition/Serialism.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Creative_Work/Music_Composition/Serialism.protect|Serialism.protect]] 
 
-### #is_/same_as :: [Serialism.private](/_private/Society/Communication/Media/Creative_Work/Music_Composition/Serialism.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Creative_Work/Music_Composition/Serialism.private|Serialism.private]] 
 
-### #is_/same_as :: [Serialism.personal](/_personal/Society/Communication/Media/Creative_Work/Music_Composition/Serialism.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/Music_Composition/Serialism.personal|Serialism.personal]] 
 
-### #is_/same_as :: [Serialism.secret](/_secret/Society/Communication/Media/Creative_Work/Music_Composition/Serialism.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Music_Composition/Serialism.secret|Serialism.secret]] 
 

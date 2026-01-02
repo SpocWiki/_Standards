@@ -59,17 +59,17 @@ subtitle: From the Big Bang to Black Holes
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Brief_History_of_Time](/_Standards/Science/Physics/Physicist/Hawking,Stephen/Brief_History_of_Time.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Physicist/Hawking,Stephen/Brief_History_of_Time|Brief_History_of_Time]] 
 
-### #is_/same_as :: [Brief_History_of_Time.public](/_public/Science/Physics/Physicist/Hawking,Stephen/Brief_History_of_Time.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Physicist/Hawking,Stephen/Brief_History_of_Time.public|Brief_History_of_Time.public]] 
 
-### #is_/same_as :: [Brief_History_of_Time.internal](/_internal/Science/Physics/Physicist/Hawking,Stephen/Brief_History_of_Time.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Physicist/Hawking,Stephen/Brief_History_of_Time.internal|Brief_History_of_Time.internal]] 
 
-### #is_/same_as :: [Brief_History_of_Time.protect](/_protect/Science/Physics/Physicist/Hawking,Stephen/Brief_History_of_Time.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Physicist/Hawking,Stephen/Brief_History_of_Time.protect|Brief_History_of_Time.protect]] 
 
-### #is_/same_as :: [Brief_History_of_Time.private](/_private/Science/Physics/Physicist/Hawking,Stephen/Brief_History_of_Time.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Physicist/Hawking,Stephen/Brief_History_of_Time.private|Brief_History_of_Time.private]] 
 
-### #is_/same_as :: [Brief_History_of_Time.personal](/_personal/Science/Physics/Physicist/Hawking,Stephen/Brief_History_of_Time.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Physicist/Hawking,Stephen/Brief_History_of_Time.personal|Brief_History_of_Time.personal]] 
 
-### #is_/same_as :: [Brief_History_of_Time.secret](/_secret/Science/Physics/Physicist/Hawking,Stephen/Brief_History_of_Time.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Physicist/Hawking,Stephen/Brief_History_of_Time.secret|Brief_History_of_Time.secret]] 
 

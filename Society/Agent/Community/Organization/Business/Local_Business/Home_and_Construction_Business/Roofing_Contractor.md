@@ -41,17 +41,17 @@ A roofing contractor.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Roofing_Contractor](/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Home_and_Construction_Business/Roofing_Contractor.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Home_and_Construction_Business/Roofing_Contractor|Roofing_Contractor]] 
 
-### #is_/same_as :: [Roofing_Contractor.public](/_public/Society/Agent/Community/Organization/Business/Local_Business/Home_and_Construction_Business/Roofing_Contractor.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Business/Local_Business/Home_and_Construction_Business/Roofing_Contractor.public|Roofing_Contractor.public]] 
 
-### #is_/same_as :: [Roofing_Contractor.internal](/_internal/Society/Agent/Community/Organization/Business/Local_Business/Home_and_Construction_Business/Roofing_Contractor.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Business/Local_Business/Home_and_Construction_Business/Roofing_Contractor.internal|Roofing_Contractor.internal]] 
 
-### #is_/same_as :: [Roofing_Contractor.protect](/_protect/Society/Agent/Community/Organization/Business/Local_Business/Home_and_Construction_Business/Roofing_Contractor.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Business/Local_Business/Home_and_Construction_Business/Roofing_Contractor.protect|Roofing_Contractor.protect]] 
 
-### #is_/same_as :: [Roofing_Contractor.private](/_private/Society/Agent/Community/Organization/Business/Local_Business/Home_and_Construction_Business/Roofing_Contractor.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Business/Local_Business/Home_and_Construction_Business/Roofing_Contractor.private|Roofing_Contractor.private]] 
 
-### #is_/same_as :: [Roofing_Contractor.personal](/_personal/Society/Agent/Community/Organization/Business/Local_Business/Home_and_Construction_Business/Roofing_Contractor.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Business/Local_Business/Home_and_Construction_Business/Roofing_Contractor.personal|Roofing_Contractor.personal]] 
 
-### #is_/same_as :: [Roofing_Contractor.secret](/_secret/Society/Agent/Community/Organization/Business/Local_Business/Home_and_Construction_Business/Roofing_Contractor.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Business/Local_Business/Home_and_Construction_Business/Roofing_Contractor.secret|Roofing_Contractor.secret]] 
 

@@ -60,17 +60,17 @@ Commons_category: Satellite television
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Satellite_TV](/_Standards/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Satellite_TV.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Satellite_TV|Satellite_TV]] 
 
-### #is_/same_as :: [Satellite_TV.public](/_public/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Satellite_TV.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Satellite_TV.public|Satellite_TV.public]] 
 
-### #is_/same_as :: [Satellite_TV.internal](/_internal/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Satellite_TV.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Satellite_TV.internal|Satellite_TV.internal]] 
 
-### #is_/same_as :: [Satellite_TV.protect](/_protect/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Satellite_TV.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Satellite_TV.protect|Satellite_TV.protect]] 
 
-### #is_/same_as :: [Satellite_TV.private](/_private/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Satellite_TV.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Satellite_TV.private|Satellite_TV.private]] 
 
-### #is_/same_as :: [Satellite_TV.personal](/_personal/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Satellite_TV.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Satellite_TV.personal|Satellite_TV.personal]] 
 
-### #is_/same_as :: [Satellite_TV.secret](/_secret/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Satellite_TV.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Satellite_TV.secret|Satellite_TV.secret]] 
 

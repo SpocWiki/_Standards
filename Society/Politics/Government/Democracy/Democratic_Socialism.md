@@ -47,17 +47,17 @@ Commons_category: Democratic socialism
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Democratic_Socialism](/_Standards/Society/Politics/Government/Democracy/Democratic_Socialism.md) 
+### #is_/same_as :: [[/_Standards/Society/Politics/Government/Democracy/Democratic_Socialism|Democratic_Socialism]] 
 
-### #is_/same_as :: [Democratic_Socialism.public](/_public/Society/Politics/Government/Democracy/Democratic_Socialism.public.md) 
+### #is_/same_as :: [[/_public/Society/Politics/Government/Democracy/Democratic_Socialism.public|Democratic_Socialism.public]] 
 
-### #is_/same_as :: [Democratic_Socialism.internal](/_internal/Society/Politics/Government/Democracy/Democratic_Socialism.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Politics/Government/Democracy/Democratic_Socialism.internal|Democratic_Socialism.internal]] 
 
-### #is_/same_as :: [Democratic_Socialism.protect](/_protect/Society/Politics/Government/Democracy/Democratic_Socialism.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Politics/Government/Democracy/Democratic_Socialism.protect|Democratic_Socialism.protect]] 
 
-### #is_/same_as :: [Democratic_Socialism.private](/_private/Society/Politics/Government/Democracy/Democratic_Socialism.private.md) 
+### #is_/same_as :: [[/_private/Society/Politics/Government/Democracy/Democratic_Socialism.private|Democratic_Socialism.private]] 
 
-### #is_/same_as :: [Democratic_Socialism.personal](/_personal/Society/Politics/Government/Democracy/Democratic_Socialism.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Politics/Government/Democracy/Democratic_Socialism.personal|Democratic_Socialism.personal]] 
 
-### #is_/same_as :: [Democratic_Socialism.secret](/_secret/Society/Politics/Government/Democracy/Democratic_Socialism.secret.md)
+### #is_/same_as :: [[/_secret/Society/Politics/Government/Democracy/Democratic_Socialism.secret|Democratic_Socialism.secret]] 
 

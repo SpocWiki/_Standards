@@ -53,17 +53,17 @@ Commons_category: Pumping stations
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Pumping_Station](/_Standards/Technology/Engineering/Civil_Engineering/Hydraulic_Engineering/Pumping_Station.md) 
+### #is_/same_as :: [[/_Standards/Technology/Engineering/Civil_Engineering/Hydraulic_Engineering/Pumping_Station|Pumping_Station]] 
 
-### #is_/same_as :: [Pumping_Station.public](/_public/Technology/Engineering/Civil_Engineering/Hydraulic_Engineering/Pumping_Station.public.md) 
+### #is_/same_as :: [[/_public/Technology/Engineering/Civil_Engineering/Hydraulic_Engineering/Pumping_Station.public|Pumping_Station.public]] 
 
-### #is_/same_as :: [Pumping_Station.internal](/_internal/Technology/Engineering/Civil_Engineering/Hydraulic_Engineering/Pumping_Station.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Engineering/Civil_Engineering/Hydraulic_Engineering/Pumping_Station.internal|Pumping_Station.internal]] 
 
-### #is_/same_as :: [Pumping_Station.protect](/_protect/Technology/Engineering/Civil_Engineering/Hydraulic_Engineering/Pumping_Station.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Engineering/Civil_Engineering/Hydraulic_Engineering/Pumping_Station.protect|Pumping_Station.protect]] 
 
-### #is_/same_as :: [Pumping_Station.private](/_private/Technology/Engineering/Civil_Engineering/Hydraulic_Engineering/Pumping_Station.private.md) 
+### #is_/same_as :: [[/_private/Technology/Engineering/Civil_Engineering/Hydraulic_Engineering/Pumping_Station.private|Pumping_Station.private]] 
 
-### #is_/same_as :: [Pumping_Station.personal](/_personal/Technology/Engineering/Civil_Engineering/Hydraulic_Engineering/Pumping_Station.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Engineering/Civil_Engineering/Hydraulic_Engineering/Pumping_Station.personal|Pumping_Station.personal]] 
 
-### #is_/same_as :: [Pumping_Station.secret](/_secret/Technology/Engineering/Civil_Engineering/Hydraulic_Engineering/Pumping_Station.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Engineering/Civil_Engineering/Hydraulic_Engineering/Pumping_Station.secret|Pumping_Station.secret]] 
 

@@ -64,17 +64,17 @@ GOST_7_75_97_code: ник 493
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [LangFamily-Niger–Congo](/_Standards/Language/Language_Family/LangFamily-Niger–Congo.md) 
+### #is_/same_as :: [[/_Standards/Language/Language_Family/LangFamily-Niger–Congo|LangFamily-Niger–Congo]] 
 
-### #is_/same_as :: [LangFamily-Niger–Congo.public](/_public/Language/Language_Family/LangFamily-Niger–Congo.public.md) 
+### #is_/same_as :: [[/_public/Language/Language_Family/LangFamily-Niger–Congo.public|LangFamily-Niger–Congo.public]] 
 
-### #is_/same_as :: [LangFamily-Niger–Congo.internal](/_internal/Language/Language_Family/LangFamily-Niger–Congo.internal.md) 
+### #is_/same_as :: [[/_internal/Language/Language_Family/LangFamily-Niger–Congo.internal|LangFamily-Niger–Congo.internal]] 
 
-### #is_/same_as :: [LangFamily-Niger–Congo.protect](/_protect/Language/Language_Family/LangFamily-Niger–Congo.protect.md) 
+### #is_/same_as :: [[/_protect/Language/Language_Family/LangFamily-Niger–Congo.protect|LangFamily-Niger–Congo.protect]] 
 
-### #is_/same_as :: [LangFamily-Niger–Congo.private](/_private/Language/Language_Family/LangFamily-Niger–Congo.private.md) 
+### #is_/same_as :: [[/_private/Language/Language_Family/LangFamily-Niger–Congo.private|LangFamily-Niger–Congo.private]] 
 
-### #is_/same_as :: [LangFamily-Niger–Congo.personal](/_personal/Language/Language_Family/LangFamily-Niger–Congo.personal.md) 
+### #is_/same_as :: [[/_personal/Language/Language_Family/LangFamily-Niger–Congo.personal|LangFamily-Niger–Congo.personal]] 
 
-### #is_/same_as :: [LangFamily-Niger–Congo.secret](/_secret/Language/Language_Family/LangFamily-Niger–Congo.secret.md)
+### #is_/same_as :: [[/_secret/Language/Language_Family/LangFamily-Niger–Congo.secret|LangFamily-Niger–Congo.secret]] 
 

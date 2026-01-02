@@ -64,17 +64,17 @@ distribution_map: http://commons.wikimedia.org/wiki/Special:FilePath/State%20Rel
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [State_Religion](/_Standards/Philosophy/Metaphysic/Religion/State_Religion.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/State_Religion|State_Religion]] 
 
-### #is_/same_as :: [State_Religion.public](/_public/Philosophy/Metaphysic/Religion/State_Religion.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/State_Religion.public|State_Religion.public]] 
 
-### #is_/same_as :: [State_Religion.internal](/_internal/Philosophy/Metaphysic/Religion/State_Religion.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/State_Religion.internal|State_Religion.internal]] 
 
-### #is_/same_as :: [State_Religion.protect](/_protect/Philosophy/Metaphysic/Religion/State_Religion.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/State_Religion.protect|State_Religion.protect]] 
 
-### #is_/same_as :: [State_Religion.private](/_private/Philosophy/Metaphysic/Religion/State_Religion.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/State_Religion.private|State_Religion.private]] 
 
-### #is_/same_as :: [State_Religion.personal](/_personal/Philosophy/Metaphysic/Religion/State_Religion.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/State_Religion.personal|State_Religion.personal]] 
 
-### #is_/same_as :: [State_Religion.secret](/_secret/Philosophy/Metaphysic/Religion/State_Religion.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/State_Religion.secret|State_Religion.secret]] 
 

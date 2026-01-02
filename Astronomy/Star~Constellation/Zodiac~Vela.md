@@ -55,17 +55,17 @@ official_name: Vela
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Zodiac~Vela](/_Standards/Astronomy/Star~Constellation/Zodiac~Vela.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Star~Constellation/Zodiac~Vela|Zodiac~Vela]] 
 
-### #is_/same_as :: [Zodiac~Vela.public](/_public/Astronomy/Star~Constellation/Zodiac~Vela.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Star~Constellation/Zodiac~Vela.public|Zodiac~Vela.public]] 
 
-### #is_/same_as :: [Zodiac~Vela.internal](/_internal/Astronomy/Star~Constellation/Zodiac~Vela.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Star~Constellation/Zodiac~Vela.internal|Zodiac~Vela.internal]] 
 
-### #is_/same_as :: [Zodiac~Vela.protect](/_protect/Astronomy/Star~Constellation/Zodiac~Vela.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Star~Constellation/Zodiac~Vela.protect|Zodiac~Vela.protect]] 
 
-### #is_/same_as :: [Zodiac~Vela.private](/_private/Astronomy/Star~Constellation/Zodiac~Vela.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Star~Constellation/Zodiac~Vela.private|Zodiac~Vela.private]] 
 
-### #is_/same_as :: [Zodiac~Vela.personal](/_personal/Astronomy/Star~Constellation/Zodiac~Vela.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Star~Constellation/Zodiac~Vela.personal|Zodiac~Vela.personal]] 
 
-### #is_/same_as :: [Zodiac~Vela.secret](/_secret/Astronomy/Star~Constellation/Zodiac~Vela.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Star~Constellation/Zodiac~Vela.secret|Zodiac~Vela.secret]] 
 

@@ -87,17 +87,17 @@ At this time, Schema.org does not define any types of relationship between claim
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Claim](/_Standards/Society/Communication/Media/Creative_Work/Statement/Claim.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Creative_Work/Statement/Claim|Claim]] 
 
-### #is_/same_as :: [Claim.public](/_public/Society/Communication/Media/Creative_Work/Statement/Claim.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Creative_Work/Statement/Claim.public|Claim.public]] 
 
-### #is_/same_as :: [Claim.internal](/_internal/Society/Communication/Media/Creative_Work/Statement/Claim.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Creative_Work/Statement/Claim.internal|Claim.internal]] 
 
-### #is_/same_as :: [Claim.protect](/_protect/Society/Communication/Media/Creative_Work/Statement/Claim.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Creative_Work/Statement/Claim.protect|Claim.protect]] 
 
-### #is_/same_as :: [Claim.private](/_private/Society/Communication/Media/Creative_Work/Statement/Claim.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Creative_Work/Statement/Claim.private|Claim.private]] 
 
-### #is_/same_as :: [Claim.personal](/_personal/Society/Communication/Media/Creative_Work/Statement/Claim.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/Statement/Claim.personal|Claim.personal]] 
 
-### #is_/same_as :: [Claim.secret](/_secret/Society/Communication/Media/Creative_Work/Statement/Claim.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Statement/Claim.secret|Claim.secret]] 
 

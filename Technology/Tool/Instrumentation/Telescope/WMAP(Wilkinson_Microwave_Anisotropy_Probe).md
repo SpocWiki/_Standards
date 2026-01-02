@@ -104,17 +104,17 @@ UTC_date_of_spacecraft_launch: 2001-06-30T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [WMAP(Wilkinson_Microwave_Anisotropy_Probe)](/_Standards/Technology/Tool/Instrumentation/Telescope/WMAP(Wilkinson_Microwave_Anisotropy_Probe).md) 
+### #is_/same_as :: [[/_Standards/Technology/Tool/Instrumentation/Telescope/WMAP(Wilkinson_Microwave_Anisotropy_Probe)|WMAP(Wilkinson_Microwave_Anisotropy_Probe)]] 
 
-### #is_/same_as :: [WMAP(Wilkinson_Microwave_Anisotropy_Probe).public](/_public/Technology/Tool/Instrumentation/Telescope/WMAP(Wilkinson_Microwave_Anisotropy_Probe).public.md) 
+### #is_/same_as :: [[/_public/Technology/Tool/Instrumentation/Telescope/WMAP(Wilkinson_Microwave_Anisotropy_Probe).public|WMAP(Wilkinson_Microwave_Anisotropy_Probe).public]] 
 
-### #is_/same_as :: [WMAP(Wilkinson_Microwave_Anisotropy_Probe).internal](/_internal/Technology/Tool/Instrumentation/Telescope/WMAP(Wilkinson_Microwave_Anisotropy_Probe).internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Tool/Instrumentation/Telescope/WMAP(Wilkinson_Microwave_Anisotropy_Probe).internal|WMAP(Wilkinson_Microwave_Anisotropy_Probe).internal]] 
 
-### #is_/same_as :: [WMAP(Wilkinson_Microwave_Anisotropy_Probe).protect](/_protect/Technology/Tool/Instrumentation/Telescope/WMAP(Wilkinson_Microwave_Anisotropy_Probe).protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Tool/Instrumentation/Telescope/WMAP(Wilkinson_Microwave_Anisotropy_Probe).protect|WMAP(Wilkinson_Microwave_Anisotropy_Probe).protect]] 
 
-### #is_/same_as :: [WMAP(Wilkinson_Microwave_Anisotropy_Probe).private](/_private/Technology/Tool/Instrumentation/Telescope/WMAP(Wilkinson_Microwave_Anisotropy_Probe).private.md) 
+### #is_/same_as :: [[/_private/Technology/Tool/Instrumentation/Telescope/WMAP(Wilkinson_Microwave_Anisotropy_Probe).private|WMAP(Wilkinson_Microwave_Anisotropy_Probe).private]] 
 
-### #is_/same_as :: [WMAP(Wilkinson_Microwave_Anisotropy_Probe).personal](/_personal/Technology/Tool/Instrumentation/Telescope/WMAP(Wilkinson_Microwave_Anisotropy_Probe).personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Tool/Instrumentation/Telescope/WMAP(Wilkinson_Microwave_Anisotropy_Probe).personal|WMAP(Wilkinson_Microwave_Anisotropy_Probe).personal]] 
 
-### #is_/same_as :: [WMAP(Wilkinson_Microwave_Anisotropy_Probe).secret](/_secret/Technology/Tool/Instrumentation/Telescope/WMAP(Wilkinson_Microwave_Anisotropy_Probe).secret.md)
+### #is_/same_as :: [[/_secret/Technology/Tool/Instrumentation/Telescope/WMAP(Wilkinson_Microwave_Anisotropy_Probe).secret|WMAP(Wilkinson_Microwave_Anisotropy_Probe).secret]] 
 

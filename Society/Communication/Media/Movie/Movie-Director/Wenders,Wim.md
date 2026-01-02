@@ -162,17 +162,17 @@ birth_name: Ernst Wilhelm Wenders
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Wenders,Wim](/_Standards/Society/Communication/Media/Movie/Movie-Director/Wenders,Wim.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Director/Wenders,Wim|Wenders,Wim]] 
 
-### #is_/same_as :: [Wenders,Wim.public](/_public/Society/Communication/Media/Movie/Movie-Director/Wenders,Wim.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Director/Wenders,Wim.public|Wenders,Wim.public]] 
 
-### #is_/same_as :: [Wenders,Wim.internal](/_internal/Society/Communication/Media/Movie/Movie-Director/Wenders,Wim.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Director/Wenders,Wim.internal|Wenders,Wim.internal]] 
 
-### #is_/same_as :: [Wenders,Wim.protect](/_protect/Society/Communication/Media/Movie/Movie-Director/Wenders,Wim.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Director/Wenders,Wim.protect|Wenders,Wim.protect]] 
 
-### #is_/same_as :: [Wenders,Wim.private](/_private/Society/Communication/Media/Movie/Movie-Director/Wenders,Wim.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Director/Wenders,Wim.private|Wenders,Wim.private]] 
 
-### #is_/same_as :: [Wenders,Wim.personal](/_personal/Society/Communication/Media/Movie/Movie-Director/Wenders,Wim.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Director/Wenders,Wim.personal|Wenders,Wim.personal]] 
 
-### #is_/same_as :: [Wenders,Wim.secret](/_secret/Society/Communication/Media/Movie/Movie-Director/Wenders,Wim.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Director/Wenders,Wim.secret|Wenders,Wim.secret]] 
 

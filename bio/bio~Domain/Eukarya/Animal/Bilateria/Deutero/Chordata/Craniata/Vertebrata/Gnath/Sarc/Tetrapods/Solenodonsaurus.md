@@ -129,7 +129,7 @@ anthracosaurs (amniotes and their extinct relatives).
 ## Title Illustrations
 
 ----------------------------------------------------------------------- 
-![](Solenodonsaurus/solenodonsaurus_skeleton.jpg))
+![](Solenodonsaurus/solenodonsaurus_skeleton.jpg) 
 Scientific Name ::     Solenodonsaurus janenschi
 Reference            Reproduced from Laurin M. & R. R. Reisz. 1999. A new study of Solenodonsaurus janenschi, and a reconsideration of amniote origins and stegocephalian evolution. Canadian Journal of Earth Sciences 36:1239-1255.
 Specimen Condition   Fossil
@@ -139,17 +139,17 @@ Copyright ::            © 1999 Michel Laurin and Robert Reisz
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Solenodonsaurus](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Solenodonsaurus.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Solenodonsaurus|Solenodonsaurus]] 
 
-### #is_/same_as :: [Solenodonsaurus.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Solenodonsaurus.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Solenodonsaurus.public|Solenodonsaurus.public]] 
 
-### #is_/same_as :: [Solenodonsaurus.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Solenodonsaurus.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Solenodonsaurus.internal|Solenodonsaurus.internal]] 
 
-### #is_/same_as :: [Solenodonsaurus.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Solenodonsaurus.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Solenodonsaurus.protect|Solenodonsaurus.protect]] 
 
-### #is_/same_as :: [Solenodonsaurus.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Solenodonsaurus.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Solenodonsaurus.private|Solenodonsaurus.private]] 
 
-### #is_/same_as :: [Solenodonsaurus.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Solenodonsaurus.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Solenodonsaurus.personal|Solenodonsaurus.personal]] 
 
-### #is_/same_as :: [Solenodonsaurus.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Solenodonsaurus.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Solenodonsaurus.secret|Solenodonsaurus.secret]] 
 

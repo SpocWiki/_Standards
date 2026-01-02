@@ -52,17 +52,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bean,Sean](/_Standards/Society/Communication/Media/Movie/Actor/British_Actor/Bean,Sean.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Actor/British_Actor/Bean,Sean|Bean,Sean]] 
 
-### #is_/same_as :: [Bean,Sean.public](/_public/Society/Communication/Media/Movie/Actor/British_Actor/Bean,Sean.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Actor/British_Actor/Bean,Sean.public|Bean,Sean.public]] 
 
-### #is_/same_as :: [Bean,Sean.internal](/_internal/Society/Communication/Media/Movie/Actor/British_Actor/Bean,Sean.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Actor/British_Actor/Bean,Sean.internal|Bean,Sean.internal]] 
 
-### #is_/same_as :: [Bean,Sean.protect](/_protect/Society/Communication/Media/Movie/Actor/British_Actor/Bean,Sean.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Actor/British_Actor/Bean,Sean.protect|Bean,Sean.protect]] 
 
-### #is_/same_as :: [Bean,Sean.private](/_private/Society/Communication/Media/Movie/Actor/British_Actor/Bean,Sean.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Actor/British_Actor/Bean,Sean.private|Bean,Sean.private]] 
 
-### #is_/same_as :: [Bean,Sean.personal](/_personal/Society/Communication/Media/Movie/Actor/British_Actor/Bean,Sean.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Actor/British_Actor/Bean,Sean.personal|Bean,Sean.personal]] 
 
-### #is_/same_as :: [Bean,Sean.secret](/_secret/Society/Communication/Media/Movie/Actor/British_Actor/Bean,Sean.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Actor/British_Actor/Bean,Sean.secret|Bean,Sean.secret]] 
 

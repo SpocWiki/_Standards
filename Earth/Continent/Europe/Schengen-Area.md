@@ -81,17 +81,17 @@ has_member:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Schengen-Area](/_Standards/Earth/Continent/Europe/Schengen-Area.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Schengen-Area|Schengen-Area]] 
 
-### #is_/same_as :: [Schengen-Area.public](/_public/Earth/Continent/Europe/Schengen-Area.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Schengen-Area.public|Schengen-Area.public]] 
 
-### #is_/same_as :: [Schengen-Area.internal](/_internal/Earth/Continent/Europe/Schengen-Area.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Schengen-Area.internal|Schengen-Area.internal]] 
 
-### #is_/same_as :: [Schengen-Area.protect](/_protect/Earth/Continent/Europe/Schengen-Area.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Schengen-Area.protect|Schengen-Area.protect]] 
 
-### #is_/same_as :: [Schengen-Area.private](/_private/Earth/Continent/Europe/Schengen-Area.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Schengen-Area.private|Schengen-Area.private]] 
 
-### #is_/same_as :: [Schengen-Area.personal](/_personal/Earth/Continent/Europe/Schengen-Area.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Schengen-Area.personal|Schengen-Area.personal]] 
 
-### #is_/same_as :: [Schengen-Area.secret](/_secret/Earth/Continent/Europe/Schengen-Area.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Schengen-Area.secret|Schengen-Area.secret]] 
 

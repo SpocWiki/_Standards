@@ -43,17 +43,17 @@ dissolved_abolished_or_demolished_date: 2035-01-01T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Leap_Second](/_Standards/Dimension/Dim~Time/Leap_Second.md) 
+### #is_/same_as :: [[/_Standards/Dimension/Dim~Time/Leap_Second|Leap_Second]] 
 
-### #is_/same_as :: [Leap_Second.public](/_public/Dimension/Dim~Time/Leap_Second.public.md) 
+### #is_/same_as :: [[/_public/Dimension/Dim~Time/Leap_Second.public|Leap_Second.public]] 
 
-### #is_/same_as :: [Leap_Second.internal](/_internal/Dimension/Dim~Time/Leap_Second.internal.md) 
+### #is_/same_as :: [[/_internal/Dimension/Dim~Time/Leap_Second.internal|Leap_Second.internal]] 
 
-### #is_/same_as :: [Leap_Second.protect](/_protect/Dimension/Dim~Time/Leap_Second.protect.md) 
+### #is_/same_as :: [[/_protect/Dimension/Dim~Time/Leap_Second.protect|Leap_Second.protect]] 
 
-### #is_/same_as :: [Leap_Second.private](/_private/Dimension/Dim~Time/Leap_Second.private.md) 
+### #is_/same_as :: [[/_private/Dimension/Dim~Time/Leap_Second.private|Leap_Second.private]] 
 
-### #is_/same_as :: [Leap_Second.personal](/_personal/Dimension/Dim~Time/Leap_Second.personal.md) 
+### #is_/same_as :: [[/_personal/Dimension/Dim~Time/Leap_Second.personal|Leap_Second.personal]] 
 
-### #is_/same_as :: [Leap_Second.secret](/_secret/Dimension/Dim~Time/Leap_Second.secret.md)
+### #is_/same_as :: [[/_secret/Dimension/Dim~Time/Leap_Second.secret|Leap_Second.secret]] 
 

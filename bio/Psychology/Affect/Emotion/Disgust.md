@@ -51,17 +51,17 @@ MeSH_tree_code: F01.470.307
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Disgust](/_Standards/bio/Psychology/Affect/Emotion/Disgust.md) 
+### #is_/same_as :: [[/_Standards/bio/Psychology/Affect/Emotion/Disgust|Disgust]] 
 
-### #is_/same_as :: [Disgust.public](/_public/bio/Psychology/Affect/Emotion/Disgust.public.md) 
+### #is_/same_as :: [[/_public/bio/Psychology/Affect/Emotion/Disgust.public|Disgust.public]] 
 
-### #is_/same_as :: [Disgust.internal](/_internal/bio/Psychology/Affect/Emotion/Disgust.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Psychology/Affect/Emotion/Disgust.internal|Disgust.internal]] 
 
-### #is_/same_as :: [Disgust.protect](/_protect/bio/Psychology/Affect/Emotion/Disgust.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Psychology/Affect/Emotion/Disgust.protect|Disgust.protect]] 
 
-### #is_/same_as :: [Disgust.private](/_private/bio/Psychology/Affect/Emotion/Disgust.private.md) 
+### #is_/same_as :: [[/_private/bio/Psychology/Affect/Emotion/Disgust.private|Disgust.private]] 
 
-### #is_/same_as :: [Disgust.personal](/_personal/bio/Psychology/Affect/Emotion/Disgust.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Psychology/Affect/Emotion/Disgust.personal|Disgust.personal]] 
 
-### #is_/same_as :: [Disgust.secret](/_secret/bio/Psychology/Affect/Emotion/Disgust.secret.md)
+### #is_/same_as :: [[/_secret/bio/Psychology/Affect/Emotion/Disgust.secret|Disgust.secret]] 
 

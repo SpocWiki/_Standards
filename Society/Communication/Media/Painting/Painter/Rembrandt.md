@@ -444,17 +444,17 @@ work_period_start_: 1625
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Rembrandt](/_Standards/Society/Communication/Media/Painting/Painter/Rembrandt.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Painting/Painter/Rembrandt|Rembrandt]] 
 
-### #is_/same_as :: [Rembrandt.public](/_public/Society/Communication/Media/Painting/Painter/Rembrandt.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Painting/Painter/Rembrandt.public|Rembrandt.public]] 
 
-### #is_/same_as :: [Rembrandt.internal](/_internal/Society/Communication/Media/Painting/Painter/Rembrandt.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Painting/Painter/Rembrandt.internal|Rembrandt.internal]] 
 
-### #is_/same_as :: [Rembrandt.protect](/_protect/Society/Communication/Media/Painting/Painter/Rembrandt.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Painting/Painter/Rembrandt.protect|Rembrandt.protect]] 
 
-### #is_/same_as :: [Rembrandt.private](/_private/Society/Communication/Media/Painting/Painter/Rembrandt.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Painting/Painter/Rembrandt.private|Rembrandt.private]] 
 
-### #is_/same_as :: [Rembrandt.personal](/_personal/Society/Communication/Media/Painting/Painter/Rembrandt.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Painting/Painter/Rembrandt.personal|Rembrandt.personal]] 
 
-### #is_/same_as :: [Rembrandt.secret](/_secret/Society/Communication/Media/Painting/Painter/Rembrandt.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Painting/Painter/Rembrandt.secret|Rembrandt.secret]] 
 

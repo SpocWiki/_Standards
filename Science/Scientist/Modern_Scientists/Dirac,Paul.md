@@ -193,17 +193,17 @@ writing_language: '[[_Standards/WikiData/WD~English,1860]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Dirac,Paul](/_Standards/Science/Scientist/Modern_Scientists/Dirac,Paul.md) 
+### #is_/same_as :: [[/_Standards/Science/Scientist/Modern_Scientists/Dirac,Paul|Dirac,Paul]] 
 
-### #is_/same_as :: [Dirac,Paul.public](/_public/Science/Scientist/Modern_Scientists/Dirac,Paul.public.md) 
+### #is_/same_as :: [[/_public/Science/Scientist/Modern_Scientists/Dirac,Paul.public|Dirac,Paul.public]] 
 
-### #is_/same_as :: [Dirac,Paul.internal](/_internal/Science/Scientist/Modern_Scientists/Dirac,Paul.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Scientist/Modern_Scientists/Dirac,Paul.internal|Dirac,Paul.internal]] 
 
-### #is_/same_as :: [Dirac,Paul.protect](/_protect/Science/Scientist/Modern_Scientists/Dirac,Paul.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Scientist/Modern_Scientists/Dirac,Paul.protect|Dirac,Paul.protect]] 
 
-### #is_/same_as :: [Dirac,Paul.private](/_private/Science/Scientist/Modern_Scientists/Dirac,Paul.private.md) 
+### #is_/same_as :: [[/_private/Science/Scientist/Modern_Scientists/Dirac,Paul.private|Dirac,Paul.private]] 
 
-### #is_/same_as :: [Dirac,Paul.personal](/_personal/Science/Scientist/Modern_Scientists/Dirac,Paul.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Scientist/Modern_Scientists/Dirac,Paul.personal|Dirac,Paul.personal]] 
 
-### #is_/same_as :: [Dirac,Paul.secret](/_secret/Science/Scientist/Modern_Scientists/Dirac,Paul.secret.md)
+### #is_/same_as :: [[/_secret/Science/Scientist/Modern_Scientists/Dirac,Paul.secret|Dirac,Paul.secret]] 
 

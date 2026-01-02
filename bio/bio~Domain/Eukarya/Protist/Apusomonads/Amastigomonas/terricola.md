@@ -68,7 +68,7 @@ cultivated garden soil in Australia. Archiv für Protistenkunde 148:
 
 ## Title Illustrations
 
-![](terricola/famastigot.jpg))
+![](terricola/famastigot.jpg) 
 
   --------------------------------------------------------------------------------
   Scientific Name ::  Amastigomonas terricola
@@ -79,17 +79,17 @@ cultivated garden soil in Australia. Archiv für Protistenkunde 148:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [terricola](/_Standards/bio/bio~Domain/Eukarya/Protist/Apusomonads/Amastigomonas/terricola.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Protist/Apusomonads/Amastigomonas/terricola|terricola]] 
 
-### #is_/same_as :: [terricola.public](/_public/bio/bio~Domain/Eukarya/Protist/Apusomonads/Amastigomonas/terricola.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Protist/Apusomonads/Amastigomonas/terricola.public|terricola.public]] 
 
-### #is_/same_as :: [terricola.internal](/_internal/bio/bio~Domain/Eukarya/Protist/Apusomonads/Amastigomonas/terricola.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Protist/Apusomonads/Amastigomonas/terricola.internal|terricola.internal]] 
 
-### #is_/same_as :: [terricola.protect](/_protect/bio/bio~Domain/Eukarya/Protist/Apusomonads/Amastigomonas/terricola.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Protist/Apusomonads/Amastigomonas/terricola.protect|terricola.protect]] 
 
-### #is_/same_as :: [terricola.private](/_private/bio/bio~Domain/Eukarya/Protist/Apusomonads/Amastigomonas/terricola.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Protist/Apusomonads/Amastigomonas/terricola.private|terricola.private]] 
 
-### #is_/same_as :: [terricola.personal](/_personal/bio/bio~Domain/Eukarya/Protist/Apusomonads/Amastigomonas/terricola.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Protist/Apusomonads/Amastigomonas/terricola.personal|terricola.personal]] 
 
-### #is_/same_as :: [terricola.secret](/_secret/bio/bio~Domain/Eukarya/Protist/Apusomonads/Amastigomonas/terricola.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Protist/Apusomonads/Amastigomonas/terricola.secret|terricola.secret]] 
 

@@ -79,17 +79,17 @@ TransitTimeLabel:: {"type":"Input","options":{}}
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~DeliveryTimeSettings](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~DeliveryTimeSettings.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~DeliveryTimeSettings|FileClass~DeliveryTimeSettings]] 
 
-### #is_/same_as :: [FileClass~DeliveryTimeSettings.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~DeliveryTimeSettings.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~DeliveryTimeSettings.public|FileClass~DeliveryTimeSettings.public]] 
 
-### #is_/same_as :: [FileClass~DeliveryTimeSettings.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~DeliveryTimeSettings.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~DeliveryTimeSettings.internal|FileClass~DeliveryTimeSettings.internal]] 
 
-### #is_/same_as :: [FileClass~DeliveryTimeSettings.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~DeliveryTimeSettings.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~DeliveryTimeSettings.protect|FileClass~DeliveryTimeSettings.protect]] 
 
-### #is_/same_as :: [FileClass~DeliveryTimeSettings.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~DeliveryTimeSettings.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~DeliveryTimeSettings.private|FileClass~DeliveryTimeSettings.private]] 
 
-### #is_/same_as :: [FileClass~DeliveryTimeSettings.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~DeliveryTimeSettings.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~DeliveryTimeSettings.personal|FileClass~DeliveryTimeSettings.personal]] 
 
-### #is_/same_as :: [FileClass~DeliveryTimeSettings.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~DeliveryTimeSettings.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~DeliveryTimeSettings.secret|FileClass~DeliveryTimeSettings.secret]] 
 

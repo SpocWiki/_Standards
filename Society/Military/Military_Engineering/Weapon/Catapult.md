@@ -50,17 +50,17 @@ Commons_category: Catapults
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Catapult](/_Standards/Society/Military/Military_Engineering/Weapon/Catapult.md) 
+### #is_/same_as :: [[/_Standards/Society/Military/Military_Engineering/Weapon/Catapult|Catapult]] 
 
-### #is_/same_as :: [Catapult.public](/_public/Society/Military/Military_Engineering/Weapon/Catapult.public.md) 
+### #is_/same_as :: [[/_public/Society/Military/Military_Engineering/Weapon/Catapult.public|Catapult.public]] 
 
-### #is_/same_as :: [Catapult.internal](/_internal/Society/Military/Military_Engineering/Weapon/Catapult.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Military/Military_Engineering/Weapon/Catapult.internal|Catapult.internal]] 
 
-### #is_/same_as :: [Catapult.protect](/_protect/Society/Military/Military_Engineering/Weapon/Catapult.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Military/Military_Engineering/Weapon/Catapult.protect|Catapult.protect]] 
 
-### #is_/same_as :: [Catapult.private](/_private/Society/Military/Military_Engineering/Weapon/Catapult.private.md) 
+### #is_/same_as :: [[/_private/Society/Military/Military_Engineering/Weapon/Catapult.private|Catapult.private]] 
 
-### #is_/same_as :: [Catapult.personal](/_personal/Society/Military/Military_Engineering/Weapon/Catapult.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Military/Military_Engineering/Weapon/Catapult.personal|Catapult.personal]] 
 
-### #is_/same_as :: [Catapult.secret](/_secret/Society/Military/Military_Engineering/Weapon/Catapult.secret.md)
+### #is_/same_as :: [[/_secret/Society/Military/Military_Engineering/Weapon/Catapult.secret|Catapult.secret]] 
 

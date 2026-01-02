@@ -71,17 +71,17 @@ Commons_category: Classical elements
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Four_elements](/_Standards/Chemistry/Alchemy/Four_elements.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Alchemy/Four_elements|Four_elements]] 
 
-### #is_/same_as :: [Four_elements.public](/_public/Chemistry/Alchemy/Four_elements.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Alchemy/Four_elements.public|Four_elements.public]] 
 
-### #is_/same_as :: [Four_elements.internal](/_internal/Chemistry/Alchemy/Four_elements.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Alchemy/Four_elements.internal|Four_elements.internal]] 
 
-### #is_/same_as :: [Four_elements.protect](/_protect/Chemistry/Alchemy/Four_elements.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Alchemy/Four_elements.protect|Four_elements.protect]] 
 
-### #is_/same_as :: [Four_elements.private](/_private/Chemistry/Alchemy/Four_elements.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Alchemy/Four_elements.private|Four_elements.private]] 
 
-### #is_/same_as :: [Four_elements.personal](/_personal/Chemistry/Alchemy/Four_elements.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Alchemy/Four_elements.personal|Four_elements.personal]] 
 
-### #is_/same_as :: [Four_elements.secret](/_secret/Chemistry/Alchemy/Four_elements.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Alchemy/Four_elements.secret|Four_elements.secret]] 
 

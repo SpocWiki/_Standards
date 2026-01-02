@@ -44,17 +44,17 @@ Represents EU Energy Efficiency Class A+++ as defined in EU energy labeling regu
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Eu_Energy_Efficiency_Category_A3plus](/_Standards/schema-org/Enumeration/Energy_Efficiency_Enumeration/Eu_Energy_Efficiency_Enumeration/Eu_Energy_Efficiency_Category_A3plus.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Energy_Efficiency_Enumeration/Eu_Energy_Efficiency_Enumeration/Eu_Energy_Efficiency_Category_A3plus|Eu_Energy_Efficiency_Category_A3plus]] 
 
-### #is_/same_as :: [Eu_Energy_Efficiency_Category_A3plus.public](/_public/schema-org/Enumeration/Energy_Efficiency_Enumeration/Eu_Energy_Efficiency_Enumeration/Eu_Energy_Efficiency_Category_A3plus.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Energy_Efficiency_Enumeration/Eu_Energy_Efficiency_Enumeration/Eu_Energy_Efficiency_Category_A3plus.public|Eu_Energy_Efficiency_Category_A3plus.public]] 
 
-### #is_/same_as :: [Eu_Energy_Efficiency_Category_A3plus.internal](/_internal/schema-org/Enumeration/Energy_Efficiency_Enumeration/Eu_Energy_Efficiency_Enumeration/Eu_Energy_Efficiency_Category_A3plus.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Energy_Efficiency_Enumeration/Eu_Energy_Efficiency_Enumeration/Eu_Energy_Efficiency_Category_A3plus.internal|Eu_Energy_Efficiency_Category_A3plus.internal]] 
 
-### #is_/same_as :: [Eu_Energy_Efficiency_Category_A3plus.protect](/_protect/schema-org/Enumeration/Energy_Efficiency_Enumeration/Eu_Energy_Efficiency_Enumeration/Eu_Energy_Efficiency_Category_A3plus.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Energy_Efficiency_Enumeration/Eu_Energy_Efficiency_Enumeration/Eu_Energy_Efficiency_Category_A3plus.protect|Eu_Energy_Efficiency_Category_A3plus.protect]] 
 
-### #is_/same_as :: [Eu_Energy_Efficiency_Category_A3plus.private](/_private/schema-org/Enumeration/Energy_Efficiency_Enumeration/Eu_Energy_Efficiency_Enumeration/Eu_Energy_Efficiency_Category_A3plus.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Energy_Efficiency_Enumeration/Eu_Energy_Efficiency_Enumeration/Eu_Energy_Efficiency_Category_A3plus.private|Eu_Energy_Efficiency_Category_A3plus.private]] 
 
-### #is_/same_as :: [Eu_Energy_Efficiency_Category_A3plus.personal](/_personal/schema-org/Enumeration/Energy_Efficiency_Enumeration/Eu_Energy_Efficiency_Enumeration/Eu_Energy_Efficiency_Category_A3plus.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Energy_Efficiency_Enumeration/Eu_Energy_Efficiency_Enumeration/Eu_Energy_Efficiency_Category_A3plus.personal|Eu_Energy_Efficiency_Category_A3plus.personal]] 
 
-### #is_/same_as :: [Eu_Energy_Efficiency_Category_A3plus.secret](/_secret/schema-org/Enumeration/Energy_Efficiency_Enumeration/Eu_Energy_Efficiency_Enumeration/Eu_Energy_Efficiency_Category_A3plus.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Energy_Efficiency_Enumeration/Eu_Energy_Efficiency_Enumeration/Eu_Energy_Efficiency_Category_A3plus.secret|Eu_Energy_Efficiency_Category_A3plus.secret]] 
 

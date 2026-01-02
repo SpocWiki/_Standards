@@ -146,17 +146,17 @@ A river (for example, the broad majestic Shannon).
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [River](/_Standards/Earth/Geology/Landform/body_of_water/River.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geology/Landform/body_of_water/River|River]] 
 
-### #is_/same_as :: [River.public](/_public/Earth/Geology/Landform/body_of_water/River.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geology/Landform/body_of_water/River.public|River.public]] 
 
-### #is_/same_as :: [River.internal](/_internal/Earth/Geology/Landform/body_of_water/River.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geology/Landform/body_of_water/River.internal|River.internal]] 
 
-### #is_/same_as :: [River.protect](/_protect/Earth/Geology/Landform/body_of_water/River.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geology/Landform/body_of_water/River.protect|River.protect]] 
 
-### #is_/same_as :: [River.private](/_private/Earth/Geology/Landform/body_of_water/River.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geology/Landform/body_of_water/River.private|River.private]] 
 
-### #is_/same_as :: [River.personal](/_personal/Earth/Geology/Landform/body_of_water/River.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geology/Landform/body_of_water/River.personal|River.personal]] 
 
-### #is_/same_as :: [River.secret](/_secret/Earth/Geology/Landform/body_of_water/River.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geology/Landform/body_of_water/River.secret|River.secret]] 
 

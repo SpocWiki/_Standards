@@ -48,17 +48,17 @@ Commons_category: Means
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Mean](/_Standards/Mathematics/Statistics/Probability/Mean.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Statistics/Probability/Mean|Mean]] 
 
-### #is_/same_as :: [Mean.public](/_public/Mathematics/Statistics/Probability/Mean.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Statistics/Probability/Mean.public|Mean.public]] 
 
-### #is_/same_as :: [Mean.internal](/_internal/Mathematics/Statistics/Probability/Mean.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Statistics/Probability/Mean.internal|Mean.internal]] 
 
-### #is_/same_as :: [Mean.protect](/_protect/Mathematics/Statistics/Probability/Mean.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Statistics/Probability/Mean.protect|Mean.protect]] 
 
-### #is_/same_as :: [Mean.private](/_private/Mathematics/Statistics/Probability/Mean.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Statistics/Probability/Mean.private|Mean.private]] 
 
-### #is_/same_as :: [Mean.personal](/_personal/Mathematics/Statistics/Probability/Mean.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Statistics/Probability/Mean.personal|Mean.personal]] 
 
-### #is_/same_as :: [Mean.secret](/_secret/Mathematics/Statistics/Probability/Mean.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Statistics/Probability/Mean.secret|Mean.secret]] 
 

@@ -34,17 +34,17 @@ video:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Reflecting_Telescope](/_Standards/Technology/Tool/Instrumentation/Telescope/Reflecting_Telescope.md) 
+### #is_/same_as :: [[/_Standards/Technology/Tool/Instrumentation/Telescope/Reflecting_Telescope|Reflecting_Telescope]] 
 
-### #is_/same_as :: [Reflecting_Telescope.public](/_public/Technology/Tool/Instrumentation/Telescope/Reflecting_Telescope.public.md) 
+### #is_/same_as :: [[/_public/Technology/Tool/Instrumentation/Telescope/Reflecting_Telescope.public|Reflecting_Telescope.public]] 
 
-### #is_/same_as :: [Reflecting_Telescope.internal](/_internal/Technology/Tool/Instrumentation/Telescope/Reflecting_Telescope.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Tool/Instrumentation/Telescope/Reflecting_Telescope.internal|Reflecting_Telescope.internal]] 
 
-### #is_/same_as :: [Reflecting_Telescope.protect](/_protect/Technology/Tool/Instrumentation/Telescope/Reflecting_Telescope.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Tool/Instrumentation/Telescope/Reflecting_Telescope.protect|Reflecting_Telescope.protect]] 
 
-### #is_/same_as :: [Reflecting_Telescope.private](/_private/Technology/Tool/Instrumentation/Telescope/Reflecting_Telescope.private.md) 
+### #is_/same_as :: [[/_private/Technology/Tool/Instrumentation/Telescope/Reflecting_Telescope.private|Reflecting_Telescope.private]] 
 
-### #is_/same_as :: [Reflecting_Telescope.personal](/_personal/Technology/Tool/Instrumentation/Telescope/Reflecting_Telescope.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Tool/Instrumentation/Telescope/Reflecting_Telescope.personal|Reflecting_Telescope.personal]] 
 
-### #is_/same_as :: [Reflecting_Telescope.secret](/_secret/Technology/Tool/Instrumentation/Telescope/Reflecting_Telescope.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Tool/Instrumentation/Telescope/Reflecting_Telescope.secret|Reflecting_Telescope.secret]] 
 

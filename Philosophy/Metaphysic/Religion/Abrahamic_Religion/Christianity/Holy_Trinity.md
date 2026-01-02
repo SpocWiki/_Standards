@@ -103,17 +103,17 @@ PhilPapers_topic: the-trinity
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Holy_Trinity](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Holy_Trinity.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Holy_Trinity|Holy_Trinity]] 
 
-### #is_/same_as :: [Holy_Trinity.public](/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Holy_Trinity.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Holy_Trinity.public|Holy_Trinity.public]] 
 
-### #is_/same_as :: [Holy_Trinity.internal](/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Holy_Trinity.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Holy_Trinity.internal|Holy_Trinity.internal]] 
 
-### #is_/same_as :: [Holy_Trinity.protect](/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Holy_Trinity.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Holy_Trinity.protect|Holy_Trinity.protect]] 
 
-### #is_/same_as :: [Holy_Trinity.private](/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Holy_Trinity.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Holy_Trinity.private|Holy_Trinity.private]] 
 
-### #is_/same_as :: [Holy_Trinity.personal](/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Holy_Trinity.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Holy_Trinity.personal|Holy_Trinity.personal]] 
 
-### #is_/same_as :: [Holy_Trinity.secret](/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Holy_Trinity.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Holy_Trinity.secret|Holy_Trinity.secret]] 
 

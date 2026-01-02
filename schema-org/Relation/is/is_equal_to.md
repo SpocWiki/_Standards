@@ -39,17 +39,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [is_equal_to](/_Standards/schema-org/Relation/is/is_equal_to.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/is/is_equal_to|is_equal_to]] 
 
-### #is_/same_as :: [is_equal_to.public](/_public/schema-org/Relation/is/is_equal_to.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/is/is_equal_to.public|is_equal_to.public]] 
 
-### #is_/same_as :: [is_equal_to.internal](/_internal/schema-org/Relation/is/is_equal_to.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/is/is_equal_to.internal|is_equal_to.internal]] 
 
-### #is_/same_as :: [is_equal_to.protect](/_protect/schema-org/Relation/is/is_equal_to.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/is/is_equal_to.protect|is_equal_to.protect]] 
 
-### #is_/same_as :: [is_equal_to.private](/_private/schema-org/Relation/is/is_equal_to.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/is/is_equal_to.private|is_equal_to.private]] 
 
-### #is_/same_as :: [is_equal_to.personal](/_personal/schema-org/Relation/is/is_equal_to.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/is/is_equal_to.personal|is_equal_to.personal]] 
 
-### #is_/same_as :: [is_equal_to.secret](/_secret/schema-org/Relation/is/is_equal_to.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/is/is_equal_to.secret|is_equal_to.secret]] 
 

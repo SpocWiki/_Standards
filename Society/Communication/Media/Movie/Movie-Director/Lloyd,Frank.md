@@ -70,17 +70,17 @@ ISNI: 0000000117455958
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lloyd,Frank](/_Standards/Society/Communication/Media/Movie/Movie-Director/Lloyd,Frank.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Director/Lloyd,Frank|Lloyd,Frank]] 
 
-### #is_/same_as :: [Lloyd,Frank.public](/_public/Society/Communication/Media/Movie/Movie-Director/Lloyd,Frank.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Director/Lloyd,Frank.public|Lloyd,Frank.public]] 
 
-### #is_/same_as :: [Lloyd,Frank.internal](/_internal/Society/Communication/Media/Movie/Movie-Director/Lloyd,Frank.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Director/Lloyd,Frank.internal|Lloyd,Frank.internal]] 
 
-### #is_/same_as :: [Lloyd,Frank.protect](/_protect/Society/Communication/Media/Movie/Movie-Director/Lloyd,Frank.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Director/Lloyd,Frank.protect|Lloyd,Frank.protect]] 
 
-### #is_/same_as :: [Lloyd,Frank.private](/_private/Society/Communication/Media/Movie/Movie-Director/Lloyd,Frank.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Director/Lloyd,Frank.private|Lloyd,Frank.private]] 
 
-### #is_/same_as :: [Lloyd,Frank.personal](/_personal/Society/Communication/Media/Movie/Movie-Director/Lloyd,Frank.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Director/Lloyd,Frank.personal|Lloyd,Frank.personal]] 
 
-### #is_/same_as :: [Lloyd,Frank.secret](/_secret/Society/Communication/Media/Movie/Movie-Director/Lloyd,Frank.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Director/Lloyd,Frank.secret|Lloyd,Frank.secret]] 
 

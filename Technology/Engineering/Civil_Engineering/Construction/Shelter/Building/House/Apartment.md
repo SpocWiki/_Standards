@@ -59,17 +59,17 @@ IMDb_keyword: apartment
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Apartment](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment.md) 
+### #is_/same_as :: [[/_Standards/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment|Apartment]] 
 
-### #is_/same_as :: [Apartment.public](/_public/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment.public.md) 
+### #is_/same_as :: [[/_public/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment.public|Apartment.public]] 
 
-### #is_/same_as :: [Apartment.internal](/_internal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment.internal|Apartment.internal]] 
 
-### #is_/same_as :: [Apartment.protect](/_protect/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment.protect|Apartment.protect]] 
 
-### #is_/same_as :: [Apartment.private](/_private/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment.private.md) 
+### #is_/same_as :: [[/_private/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment.private|Apartment.private]] 
 
-### #is_/same_as :: [Apartment.personal](/_personal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment.personal|Apartment.personal]] 
 
-### #is_/same_as :: [Apartment.secret](/_secret/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment.secret|Apartment.secret]] 
 

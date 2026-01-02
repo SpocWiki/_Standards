@@ -37,17 +37,17 @@ A Workers Union (also known as a Labor Union, Labour Union, or Trade Union) is a
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~WorkersUnion](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~WorkersUnion.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~WorkersUnion|FileClass~WorkersUnion]] 
 
-### #is_/same_as :: [FileClass~WorkersUnion.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~WorkersUnion.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~WorkersUnion.public|FileClass~WorkersUnion.public]] 
 
-### #is_/same_as :: [FileClass~WorkersUnion.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~WorkersUnion.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~WorkersUnion.internal|FileClass~WorkersUnion.internal]] 
 
-### #is_/same_as :: [FileClass~WorkersUnion.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~WorkersUnion.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~WorkersUnion.protect|FileClass~WorkersUnion.protect]] 
 
-### #is_/same_as :: [FileClass~WorkersUnion.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~WorkersUnion.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~WorkersUnion.private|FileClass~WorkersUnion.private]] 
 
-### #is_/same_as :: [FileClass~WorkersUnion.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~WorkersUnion.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~WorkersUnion.personal|FileClass~WorkersUnion.personal]] 
 
-### #is_/same_as :: [FileClass~WorkersUnion.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~WorkersUnion.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~WorkersUnion.secret|FileClass~WorkersUnion.secret]] 
 

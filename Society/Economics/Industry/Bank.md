@@ -38,17 +38,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bank](/_Standards/Society/Economics/Industry/Bank.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Industry/Bank|Bank]] 
 
-### #is_/same_as :: [Bank.public](/_public/Society/Economics/Industry/Bank.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Industry/Bank.public|Bank.public]] 
 
-### #is_/same_as :: [Bank.internal](/_internal/Society/Economics/Industry/Bank.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Industry/Bank.internal|Bank.internal]] 
 
-### #is_/same_as :: [Bank.protect](/_protect/Society/Economics/Industry/Bank.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Industry/Bank.protect|Bank.protect]] 
 
-### #is_/same_as :: [Bank.private](/_private/Society/Economics/Industry/Bank.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Industry/Bank.private|Bank.private]] 
 
-### #is_/same_as :: [Bank.personal](/_personal/Society/Economics/Industry/Bank.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Industry/Bank.personal|Bank.personal]] 
 
-### #is_/same_as :: [Bank.secret](/_secret/Society/Economics/Industry/Bank.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Industry/Bank.secret|Bank.secret]] 
 

@@ -59,17 +59,17 @@ Colon_Classification: Δ:8
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Occultism](/_Standards/Philosophy/Metaphysic/Supernatural/Occultism.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Supernatural/Occultism|Occultism]] 
 
-### #is_/same_as :: [Occultism.public](/_public/Philosophy/Metaphysic/Supernatural/Occultism.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Supernatural/Occultism.public|Occultism.public]] 
 
-### #is_/same_as :: [Occultism.internal](/_internal/Philosophy/Metaphysic/Supernatural/Occultism.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Supernatural/Occultism.internal|Occultism.internal]] 
 
-### #is_/same_as :: [Occultism.protect](/_protect/Philosophy/Metaphysic/Supernatural/Occultism.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Supernatural/Occultism.protect|Occultism.protect]] 
 
-### #is_/same_as :: [Occultism.private](/_private/Philosophy/Metaphysic/Supernatural/Occultism.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Supernatural/Occultism.private|Occultism.private]] 
 
-### #is_/same_as :: [Occultism.personal](/_personal/Philosophy/Metaphysic/Supernatural/Occultism.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Supernatural/Occultism.personal|Occultism.personal]] 
 
-### #is_/same_as :: [Occultism.secret](/_secret/Philosophy/Metaphysic/Supernatural/Occultism.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Supernatural/Occultism.secret|Occultism.secret]] 
 

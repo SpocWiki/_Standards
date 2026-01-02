@@ -42,17 +42,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_occupation_location](/_Standards/schema-org/Relation/has/has_occupation_location.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_occupation_location|has_occupation_location]] 
 
-### #is_/same_as :: [has_occupation_location.public](/_public/schema-org/Relation/has/has_occupation_location.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_occupation_location.public|has_occupation_location.public]] 
 
-### #is_/same_as :: [has_occupation_location.internal](/_internal/schema-org/Relation/has/has_occupation_location.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_occupation_location.internal|has_occupation_location.internal]] 
 
-### #is_/same_as :: [has_occupation_location.protect](/_protect/schema-org/Relation/has/has_occupation_location.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_occupation_location.protect|has_occupation_location.protect]] 
 
-### #is_/same_as :: [has_occupation_location.private](/_private/schema-org/Relation/has/has_occupation_location.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_occupation_location.private|has_occupation_location.private]] 
 
-### #is_/same_as :: [has_occupation_location.personal](/_personal/schema-org/Relation/has/has_occupation_location.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_occupation_location.personal|has_occupation_location.personal]] 
 
-### #is_/same_as :: [has_occupation_location.secret](/_secret/schema-org/Relation/has/has_occupation_location.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_occupation_location.secret|has_occupation_location.secret]] 
 

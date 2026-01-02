@@ -44,17 +44,17 @@ Specifies that the customer must pay the original shipping costs when returning 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Original_Shipping_Fees](/_Standards/schema-org/Enumeration/Return_Fees_Enumeration/Original_Shipping_Fees.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Return_Fees_Enumeration/Original_Shipping_Fees|Original_Shipping_Fees]] 
 
-### #is_/same_as :: [Original_Shipping_Fees.public](/_public/schema-org/Enumeration/Return_Fees_Enumeration/Original_Shipping_Fees.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Return_Fees_Enumeration/Original_Shipping_Fees.public|Original_Shipping_Fees.public]] 
 
-### #is_/same_as :: [Original_Shipping_Fees.internal](/_internal/schema-org/Enumeration/Return_Fees_Enumeration/Original_Shipping_Fees.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Return_Fees_Enumeration/Original_Shipping_Fees.internal|Original_Shipping_Fees.internal]] 
 
-### #is_/same_as :: [Original_Shipping_Fees.protect](/_protect/schema-org/Enumeration/Return_Fees_Enumeration/Original_Shipping_Fees.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Return_Fees_Enumeration/Original_Shipping_Fees.protect|Original_Shipping_Fees.protect]] 
 
-### #is_/same_as :: [Original_Shipping_Fees.private](/_private/schema-org/Enumeration/Return_Fees_Enumeration/Original_Shipping_Fees.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Return_Fees_Enumeration/Original_Shipping_Fees.private|Original_Shipping_Fees.private]] 
 
-### #is_/same_as :: [Original_Shipping_Fees.personal](/_personal/schema-org/Enumeration/Return_Fees_Enumeration/Original_Shipping_Fees.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Return_Fees_Enumeration/Original_Shipping_Fees.personal|Original_Shipping_Fees.personal]] 
 
-### #is_/same_as :: [Original_Shipping_Fees.secret](/_secret/schema-org/Enumeration/Return_Fees_Enumeration/Original_Shipping_Fees.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Return_Fees_Enumeration/Original_Shipping_Fees.secret|Original_Shipping_Fees.secret]] 
 

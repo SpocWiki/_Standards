@@ -180,17 +180,17 @@ WebCheckinTime:: {"type":"Date","options":{"dateFormat":"YYYY-MM-DD","defaultIns
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~Flight](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Trip/FileClass~Flight.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Trip/FileClass~Flight|FileClass~Flight]] 
 
-### #is_/same_as :: [FileClass~Flight.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Trip/FileClass~Flight.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Trip/FileClass~Flight.public|FileClass~Flight.public]] 
 
-### #is_/same_as :: [FileClass~Flight.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Trip/FileClass~Flight.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Trip/FileClass~Flight.internal|FileClass~Flight.internal]] 
 
-### #is_/same_as :: [FileClass~Flight.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Trip/FileClass~Flight.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Trip/FileClass~Flight.protect|FileClass~Flight.protect]] 
 
-### #is_/same_as :: [FileClass~Flight.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Trip/FileClass~Flight.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Trip/FileClass~Flight.private|FileClass~Flight.private]] 
 
-### #is_/same_as :: [FileClass~Flight.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Trip/FileClass~Flight.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Trip/FileClass~Flight.personal|FileClass~Flight.personal]] 
 
-### #is_/same_as :: [FileClass~Flight.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Trip/FileClass~Flight.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Trip/FileClass~Flight.secret|FileClass~Flight.secret]] 
 

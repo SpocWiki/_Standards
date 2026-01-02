@@ -27,17 +27,17 @@ in_defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmln
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Function~binary](/_Standards/Mathematics/Function(Math)/Function~binary.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Function(Math)/Function~binary|Function~binary]] 
 
-### #is_/same_as :: [Function~binary.public](/_public/Mathematics/Function(Math)/Function~binary.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Function(Math)/Function~binary.public|Function~binary.public]] 
 
-### #is_/same_as :: [Function~binary.internal](/_internal/Mathematics/Function(Math)/Function~binary.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Function(Math)/Function~binary.internal|Function~binary.internal]] 
 
-### #is_/same_as :: [Function~binary.protect](/_protect/Mathematics/Function(Math)/Function~binary.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Function(Math)/Function~binary.protect|Function~binary.protect]] 
 
-### #is_/same_as :: [Function~binary.private](/_private/Mathematics/Function(Math)/Function~binary.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Function(Math)/Function~binary.private|Function~binary.private]] 
 
-### #is_/same_as :: [Function~binary.personal](/_personal/Mathematics/Function(Math)/Function~binary.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Function(Math)/Function~binary.personal|Function~binary.personal]] 
 
-### #is_/same_as :: [Function~binary.secret](/_secret/Mathematics/Function(Math)/Function~binary.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Function(Math)/Function~binary.secret|Function~binary.secret]] 
 

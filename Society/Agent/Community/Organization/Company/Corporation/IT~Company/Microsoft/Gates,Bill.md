@@ -185,17 +185,17 @@ Plex_person_key: 5d77683e2e80df001ebdf50f
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Gates,Bill](/_Standards/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Microsoft/Gates,Bill.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Microsoft/Gates,Bill|Gates,Bill]] 
 
-### #is_/same_as :: [Gates,Bill.public](/_public/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Microsoft/Gates,Bill.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Microsoft/Gates,Bill.public|Gates,Bill.public]] 
 
-### #is_/same_as :: [Gates,Bill.internal](/_internal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Microsoft/Gates,Bill.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Microsoft/Gates,Bill.internal|Gates,Bill.internal]] 
 
-### #is_/same_as :: [Gates,Bill.protect](/_protect/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Microsoft/Gates,Bill.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Microsoft/Gates,Bill.protect|Gates,Bill.protect]] 
 
-### #is_/same_as :: [Gates,Bill.private](/_private/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Microsoft/Gates,Bill.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Microsoft/Gates,Bill.private|Gates,Bill.private]] 
 
-### #is_/same_as :: [Gates,Bill.personal](/_personal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Microsoft/Gates,Bill.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Microsoft/Gates,Bill.personal|Gates,Bill.personal]] 
 
-### #is_/same_as :: [Gates,Bill.secret](/_secret/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Microsoft/Gates,Bill.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Microsoft/Gates,Bill.secret|Gates,Bill.secret]] 
 

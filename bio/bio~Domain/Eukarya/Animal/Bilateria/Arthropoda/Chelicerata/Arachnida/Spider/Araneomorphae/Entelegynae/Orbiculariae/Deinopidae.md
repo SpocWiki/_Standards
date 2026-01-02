@@ -38,7 +38,7 @@ title: Deinopidae
 # Deinopidae 
 
 [Jonathan Coddington]()
-![ ](Deinopidae/deinopis_spinosus_eyes.jpg))
+![ ](Deinopidae/deinopis_spinosus_eyes.jpg) 
 ![](Deinopidae/deinopis_spinosus05.jpg)
 
 Containing group:[Orbiculariae](../Orbiculariae.md) 
@@ -85,7 +85,7 @@ Amer. Midland Nat. 85:85-96.
 
 ## Title Illustrations
 
-![](Deinopidae/deinopis_spinosus_eyes.jpg))
+![](Deinopidae/deinopis_spinosus_eyes.jpg) 
 
   ---------------------------------------------------------------------------------
   Scientific Name ::     Deinopis spinosus
@@ -97,7 +97,7 @@ Amer. Midland Nat. 85:85-96.
   Copyright ::            © [Jonathan Coddington](http://entomology.si.edu/StaffPages/coddington.html) 
  
   ---------------------------------------------------------------------------------
-![](Deinopidae/deinopis_spinosus05.jpg))
+![](Deinopidae/deinopis_spinosus05.jpg) 
 
   ---------------------------------------------------------------------------------
   Scientific Name ::     Deinopidae
@@ -112,17 +112,17 @@ Amer. Midland Nat. 85:85-96.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Deinopidae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Orbiculariae/Deinopidae.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Orbiculariae/Deinopidae|Deinopidae]] 
 
-### #is_/same_as :: [Deinopidae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Orbiculariae/Deinopidae.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Orbiculariae/Deinopidae.public|Deinopidae.public]] 
 
-### #is_/same_as :: [Deinopidae.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Orbiculariae/Deinopidae.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Orbiculariae/Deinopidae.internal|Deinopidae.internal]] 
 
-### #is_/same_as :: [Deinopidae.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Orbiculariae/Deinopidae.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Orbiculariae/Deinopidae.protect|Deinopidae.protect]] 
 
-### #is_/same_as :: [Deinopidae.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Orbiculariae/Deinopidae.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Orbiculariae/Deinopidae.private|Deinopidae.private]] 
 
-### #is_/same_as :: [Deinopidae.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Orbiculariae/Deinopidae.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Orbiculariae/Deinopidae.personal|Deinopidae.personal]] 
 
-### #is_/same_as :: [Deinopidae.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Orbiculariae/Deinopidae.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Orbiculariae/Deinopidae.secret|Deinopidae.secret]] 
 

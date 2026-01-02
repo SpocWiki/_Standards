@@ -167,17 +167,17 @@ ToLocation:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Th
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~ExerciseAction](/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~PlayAction/FileClass~ExerciseAction.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~PlayAction/FileClass~ExerciseAction|FileClass~ExerciseAction]] 
 
-### #is_/same_as :: [FileClass~ExerciseAction.public](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~PlayAction/FileClass~ExerciseAction.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~PlayAction/FileClass~ExerciseAction.public|FileClass~ExerciseAction.public]] 
 
-### #is_/same_as :: [FileClass~ExerciseAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~PlayAction/FileClass~ExerciseAction.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~PlayAction/FileClass~ExerciseAction.internal|FileClass~ExerciseAction.internal]] 
 
-### #is_/same_as :: [FileClass~ExerciseAction.protect](/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~PlayAction/FileClass~ExerciseAction.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~PlayAction/FileClass~ExerciseAction.protect|FileClass~ExerciseAction.protect]] 
 
-### #is_/same_as :: [FileClass~ExerciseAction.private](/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~PlayAction/FileClass~ExerciseAction.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~PlayAction/FileClass~ExerciseAction.private|FileClass~ExerciseAction.private]] 
 
-### #is_/same_as :: [FileClass~ExerciseAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~PlayAction/FileClass~ExerciseAction.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~PlayAction/FileClass~ExerciseAction.personal|FileClass~ExerciseAction.personal]] 
 
-### #is_/same_as :: [FileClass~ExerciseAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~PlayAction/FileClass~ExerciseAction.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~PlayAction/FileClass~ExerciseAction.secret|FileClass~ExerciseAction.secret]] 
 

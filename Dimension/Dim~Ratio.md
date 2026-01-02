@@ -42,17 +42,17 @@ Commons_category: Ratios
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Dim~Ratio](/_Standards/Dimension/Dim~Ratio.md) 
+### #is_/same_as :: [[/_Standards/Dimension/Dim~Ratio|Dim~Ratio]] 
 
-### #is_/same_as :: [Dim~Ratio.public](/_public/Dimension/Dim~Ratio.public.md) 
+### #is_/same_as :: [[/_public/Dimension/Dim~Ratio.public|Dim~Ratio.public]] 
 
-### #is_/same_as :: [Dim~Ratio.internal](/_internal/Dimension/Dim~Ratio.internal.md) 
+### #is_/same_as :: [[/_internal/Dimension/Dim~Ratio.internal|Dim~Ratio.internal]] 
 
-### #is_/same_as :: [Dim~Ratio.protect](/_protect/Dimension/Dim~Ratio.protect.md) 
+### #is_/same_as :: [[/_protect/Dimension/Dim~Ratio.protect|Dim~Ratio.protect]] 
 
-### #is_/same_as :: [Dim~Ratio.private](/_private/Dimension/Dim~Ratio.private.md) 
+### #is_/same_as :: [[/_private/Dimension/Dim~Ratio.private|Dim~Ratio.private]] 
 
-### #is_/same_as :: [Dim~Ratio.personal](/_personal/Dimension/Dim~Ratio.personal.md) 
+### #is_/same_as :: [[/_personal/Dimension/Dim~Ratio.personal|Dim~Ratio.personal]] 
 
-### #is_/same_as :: [Dim~Ratio.secret](/_secret/Dimension/Dim~Ratio.secret.md)
+### #is_/same_as :: [[/_secret/Dimension/Dim~Ratio.secret|Dim~Ratio.secret]] 
 

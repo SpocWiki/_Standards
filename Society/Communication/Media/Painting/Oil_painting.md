@@ -50,17 +50,17 @@ name_in_native_language: Man met de rode tulband
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Oil_painting](/_Standards/Society/Communication/Media/Painting/Oil_painting.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Painting/Oil_painting|Oil_painting]] 
 
-### #is_/same_as :: [Oil_painting.public](/_public/Society/Communication/Media/Painting/Oil_painting.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Painting/Oil_painting.public|Oil_painting.public]] 
 
-### #is_/same_as :: [Oil_painting.internal](/_internal/Society/Communication/Media/Painting/Oil_painting.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Painting/Oil_painting.internal|Oil_painting.internal]] 
 
-### #is_/same_as :: [Oil_painting.protect](/_protect/Society/Communication/Media/Painting/Oil_painting.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Painting/Oil_painting.protect|Oil_painting.protect]] 
 
-### #is_/same_as :: [Oil_painting.private](/_private/Society/Communication/Media/Painting/Oil_painting.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Painting/Oil_painting.private|Oil_painting.private]] 
 
-### #is_/same_as :: [Oil_painting.personal](/_personal/Society/Communication/Media/Painting/Oil_painting.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Painting/Oil_painting.personal|Oil_painting.personal]] 
 
-### #is_/same_as :: [Oil_painting.secret](/_secret/Society/Communication/Media/Painting/Oil_painting.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Painting/Oil_painting.secret|Oil_painting.secret]] 
 

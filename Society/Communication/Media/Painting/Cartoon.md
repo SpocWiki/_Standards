@@ -52,17 +52,17 @@ subreddit: CARTOON
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Cartoon](/_Standards/Society/Communication/Media/Painting/Cartoon.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Painting/Cartoon|Cartoon]] 
 
-### #is_/same_as :: [Cartoon.public](/_public/Society/Communication/Media/Painting/Cartoon.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Painting/Cartoon.public|Cartoon.public]] 
 
-### #is_/same_as :: [Cartoon.internal](/_internal/Society/Communication/Media/Painting/Cartoon.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Painting/Cartoon.internal|Cartoon.internal]] 
 
-### #is_/same_as :: [Cartoon.protect](/_protect/Society/Communication/Media/Painting/Cartoon.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Painting/Cartoon.protect|Cartoon.protect]] 
 
-### #is_/same_as :: [Cartoon.private](/_private/Society/Communication/Media/Painting/Cartoon.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Painting/Cartoon.private|Cartoon.private]] 
 
-### #is_/same_as :: [Cartoon.personal](/_personal/Society/Communication/Media/Painting/Cartoon.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Painting/Cartoon.personal|Cartoon.personal]] 
 
-### #is_/same_as :: [Cartoon.secret](/_secret/Society/Communication/Media/Painting/Cartoon.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Painting/Cartoon.secret|Cartoon.secret]] 
 

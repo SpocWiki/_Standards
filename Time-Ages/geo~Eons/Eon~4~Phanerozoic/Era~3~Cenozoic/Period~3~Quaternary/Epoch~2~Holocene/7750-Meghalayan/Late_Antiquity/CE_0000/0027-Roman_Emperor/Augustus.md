@@ -199,17 +199,17 @@ writing_language: '[[_Standards/WikiData/WD~Latin,397]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Augustus](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Late_Antiquity/CE_0000/0027-Roman_Emperor/Augustus.md) 
+### #is_/same_as :: [[/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Late_Antiquity/CE_0000/0027-Roman_Emperor/Augustus|Augustus]] 
 
-### #is_/same_as :: [Augustus.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Late_Antiquity/CE_0000/0027-Roman_Emperor/Augustus.public.md) 
+### #is_/same_as :: [[/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Late_Antiquity/CE_0000/0027-Roman_Emperor/Augustus.public|Augustus.public]] 
 
-### #is_/same_as :: [Augustus.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Late_Antiquity/CE_0000/0027-Roman_Emperor/Augustus.internal.md) 
+### #is_/same_as :: [[/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Late_Antiquity/CE_0000/0027-Roman_Emperor/Augustus.internal|Augustus.internal]] 
 
-### #is_/same_as :: [Augustus.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Late_Antiquity/CE_0000/0027-Roman_Emperor/Augustus.protect.md) 
+### #is_/same_as :: [[/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Late_Antiquity/CE_0000/0027-Roman_Emperor/Augustus.protect|Augustus.protect]] 
 
-### #is_/same_as :: [Augustus.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Late_Antiquity/CE_0000/0027-Roman_Emperor/Augustus.private.md) 
+### #is_/same_as :: [[/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Late_Antiquity/CE_0000/0027-Roman_Emperor/Augustus.private|Augustus.private]] 
 
-### #is_/same_as :: [Augustus.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Late_Antiquity/CE_0000/0027-Roman_Emperor/Augustus.personal.md) 
+### #is_/same_as :: [[/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Late_Antiquity/CE_0000/0027-Roman_Emperor/Augustus.personal|Augustus.personal]] 
 
-### #is_/same_as :: [Augustus.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Late_Antiquity/CE_0000/0027-Roman_Emperor/Augustus.secret.md)
+### #is_/same_as :: [[/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Late_Antiquity/CE_0000/0027-Roman_Emperor/Augustus.secret|Augustus.secret]] 
 

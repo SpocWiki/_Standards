@@ -59,17 +59,17 @@ creates a Link, but that is unrestricted
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Taxon](/_Standards/bio/Taxon_Rank/Taxon.md) 
+### #is_/same_as :: [[/_Standards/bio/Taxon_Rank/Taxon|Taxon]] 
 
-### #is_/same_as :: [Taxon.public](/_public/bio/Taxon_Rank/Taxon.public.md) 
+### #is_/same_as :: [[/_public/bio/Taxon_Rank/Taxon.public|Taxon.public]] 
 
-### #is_/same_as :: [Taxon.internal](/_internal/bio/Taxon_Rank/Taxon.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Taxon_Rank/Taxon.internal|Taxon.internal]] 
 
-### #is_/same_as :: [Taxon.protect](/_protect/bio/Taxon_Rank/Taxon.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Taxon_Rank/Taxon.protect|Taxon.protect]] 
 
-### #is_/same_as :: [Taxon.private](/_private/bio/Taxon_Rank/Taxon.private.md) 
+### #is_/same_as :: [[/_private/bio/Taxon_Rank/Taxon.private|Taxon.private]] 
 
-### #is_/same_as :: [Taxon.personal](/_personal/bio/Taxon_Rank/Taxon.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Taxon_Rank/Taxon.personal|Taxon.personal]] 
 
-### #is_/same_as :: [Taxon.secret](/_secret/bio/Taxon_Rank/Taxon.secret.md)
+### #is_/same_as :: [[/_secret/bio/Taxon_Rank/Taxon.secret|Taxon.secret]] 
 

@@ -44,17 +44,17 @@ UnincorporatedAssociationCharity: Non-profit type referring to a charitable comp
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Unincorporated_Association_Charity](/_Standards/schema-org/Enumeration/Nonprofit_Type/Uk_Nonprofit_Type/Unincorporated_Association_Charity.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Nonprofit_Type/Uk_Nonprofit_Type/Unincorporated_Association_Charity|Unincorporated_Association_Charity]] 
 
-### #is_/same_as :: [Unincorporated_Association_Charity.public](/_public/schema-org/Enumeration/Nonprofit_Type/Uk_Nonprofit_Type/Unincorporated_Association_Charity.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Nonprofit_Type/Uk_Nonprofit_Type/Unincorporated_Association_Charity.public|Unincorporated_Association_Charity.public]] 
 
-### #is_/same_as :: [Unincorporated_Association_Charity.internal](/_internal/schema-org/Enumeration/Nonprofit_Type/Uk_Nonprofit_Type/Unincorporated_Association_Charity.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Nonprofit_Type/Uk_Nonprofit_Type/Unincorporated_Association_Charity.internal|Unincorporated_Association_Charity.internal]] 
 
-### #is_/same_as :: [Unincorporated_Association_Charity.protect](/_protect/schema-org/Enumeration/Nonprofit_Type/Uk_Nonprofit_Type/Unincorporated_Association_Charity.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Nonprofit_Type/Uk_Nonprofit_Type/Unincorporated_Association_Charity.protect|Unincorporated_Association_Charity.protect]] 
 
-### #is_/same_as :: [Unincorporated_Association_Charity.private](/_private/schema-org/Enumeration/Nonprofit_Type/Uk_Nonprofit_Type/Unincorporated_Association_Charity.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Nonprofit_Type/Uk_Nonprofit_Type/Unincorporated_Association_Charity.private|Unincorporated_Association_Charity.private]] 
 
-### #is_/same_as :: [Unincorporated_Association_Charity.personal](/_personal/schema-org/Enumeration/Nonprofit_Type/Uk_Nonprofit_Type/Unincorporated_Association_Charity.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Nonprofit_Type/Uk_Nonprofit_Type/Unincorporated_Association_Charity.personal|Unincorporated_Association_Charity.personal]] 
 
-### #is_/same_as :: [Unincorporated_Association_Charity.secret](/_secret/schema-org/Enumeration/Nonprofit_Type/Uk_Nonprofit_Type/Unincorporated_Association_Charity.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Nonprofit_Type/Uk_Nonprofit_Type/Unincorporated_Association_Charity.secret|Unincorporated_Association_Charity.secret]] 
 

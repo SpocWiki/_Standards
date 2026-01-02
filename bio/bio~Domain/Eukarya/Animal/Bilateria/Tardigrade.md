@@ -77,7 +77,7 @@ Water Bears
 ## Title Illustrations
 
 --------------------------------------------------------------------------- 
-![Diagram of the main external features of a tardigrade](Tardigrade/Tardigrade.gif))
+![Diagram of the main external features of a tardigrade](Tardigrade/Tardigrade.gif) 
 Scientific Name ::  Tardigrada
 Comments          Diagram of the main external features of a tardigrade
 Creator           Ivy Livingstone
@@ -86,17 +86,17 @@ Copyright ::         © 1995 [BIODIDAC](http://biodidac.bio.uottawa.ca/index.htm
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Tardigrade](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Tardigrade.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Tardigrade|Tardigrade]] 
 
-### #is_/same_as :: [Tardigrade.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Tardigrade.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Tardigrade.public|Tardigrade.public]] 
 
-### #is_/same_as :: [Tardigrade.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Tardigrade.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Tardigrade.internal|Tardigrade.internal]] 
 
-### #is_/same_as :: [Tardigrade.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Tardigrade.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Tardigrade.protect|Tardigrade.protect]] 
 
-### #is_/same_as :: [Tardigrade.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Tardigrade.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Tardigrade.private|Tardigrade.private]] 
 
-### #is_/same_as :: [Tardigrade.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Tardigrade.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Tardigrade.personal|Tardigrade.personal]] 
 
-### #is_/same_as :: [Tardigrade.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Tardigrade.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Tardigrade.secret|Tardigrade.secret]] 
 

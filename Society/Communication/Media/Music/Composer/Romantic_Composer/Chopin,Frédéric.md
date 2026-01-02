@@ -188,17 +188,17 @@ U_S_National_Archives_Identifier: 25341204
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Chopin,Frédéric](/_Standards/Society/Communication/Media/Music/Composer/Romantic_Composer/Chopin,Frédéric.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Composer/Romantic_Composer/Chopin,Frédéric|Chopin,Frédéric]] 
 
-### #is_/same_as :: [Chopin,Frédéric.public](/_public/Society/Communication/Media/Music/Composer/Romantic_Composer/Chopin,Frédéric.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Composer/Romantic_Composer/Chopin,Frédéric.public|Chopin,Frédéric.public]] 
 
-### #is_/same_as :: [Chopin,Frédéric.internal](/_internal/Society/Communication/Media/Music/Composer/Romantic_Composer/Chopin,Frédéric.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Composer/Romantic_Composer/Chopin,Frédéric.internal|Chopin,Frédéric.internal]] 
 
-### #is_/same_as :: [Chopin,Frédéric.protect](/_protect/Society/Communication/Media/Music/Composer/Romantic_Composer/Chopin,Frédéric.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Composer/Romantic_Composer/Chopin,Frédéric.protect|Chopin,Frédéric.protect]] 
 
-### #is_/same_as :: [Chopin,Frédéric.private](/_private/Society/Communication/Media/Music/Composer/Romantic_Composer/Chopin,Frédéric.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Composer/Romantic_Composer/Chopin,Frédéric.private|Chopin,Frédéric.private]] 
 
-### #is_/same_as :: [Chopin,Frédéric.personal](/_personal/Society/Communication/Media/Music/Composer/Romantic_Composer/Chopin,Frédéric.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Composer/Romantic_Composer/Chopin,Frédéric.personal|Chopin,Frédéric.personal]] 
 
-### #is_/same_as :: [Chopin,Frédéric.secret](/_secret/Society/Communication/Media/Music/Composer/Romantic_Composer/Chopin,Frédéric.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Composer/Romantic_Composer/Chopin,Frédéric.secret|Chopin,Frédéric.secret]] 
 

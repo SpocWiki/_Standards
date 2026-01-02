@@ -55,17 +55,17 @@ WordLift_URL: http://data.medicalrecords.com/medicalrecords/healthwise/respirato
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Respiratory_System](/_Standards/bio/Medicine/Anatomy/Respiratory_System.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Anatomy/Respiratory_System|Respiratory_System]] 
 
-### #is_/same_as :: [Respiratory_System.public](/_public/bio/Medicine/Anatomy/Respiratory_System.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Anatomy/Respiratory_System.public|Respiratory_System.public]] 
 
-### #is_/same_as :: [Respiratory_System.internal](/_internal/bio/Medicine/Anatomy/Respiratory_System.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Anatomy/Respiratory_System.internal|Respiratory_System.internal]] 
 
-### #is_/same_as :: [Respiratory_System.protect](/_protect/bio/Medicine/Anatomy/Respiratory_System.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Anatomy/Respiratory_System.protect|Respiratory_System.protect]] 
 
-### #is_/same_as :: [Respiratory_System.private](/_private/bio/Medicine/Anatomy/Respiratory_System.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Anatomy/Respiratory_System.private|Respiratory_System.private]] 
 
-### #is_/same_as :: [Respiratory_System.personal](/_personal/bio/Medicine/Anatomy/Respiratory_System.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Anatomy/Respiratory_System.personal|Respiratory_System.personal]] 
 
-### #is_/same_as :: [Respiratory_System.secret](/_secret/bio/Medicine/Anatomy/Respiratory_System.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Anatomy/Respiratory_System.secret|Respiratory_System.secret]] 
 

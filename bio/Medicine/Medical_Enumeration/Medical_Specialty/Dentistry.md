@@ -40,17 +40,17 @@ A branch of medicine that is involved in the dental care.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Dentistry](/_Standards/bio/Medicine/Medical_Enumeration/Medical_Specialty/Dentistry.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Enumeration/Medical_Specialty/Dentistry|Dentistry]] 
 
-### #is_/same_as :: [Dentistry.public](/_public/bio/Medicine/Medical_Enumeration/Medical_Specialty/Dentistry.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Enumeration/Medical_Specialty/Dentistry.public|Dentistry.public]] 
 
-### #is_/same_as :: [Dentistry.internal](/_internal/bio/Medicine/Medical_Enumeration/Medical_Specialty/Dentistry.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Enumeration/Medical_Specialty/Dentistry.internal|Dentistry.internal]] 
 
-### #is_/same_as :: [Dentistry.protect](/_protect/bio/Medicine/Medical_Enumeration/Medical_Specialty/Dentistry.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Enumeration/Medical_Specialty/Dentistry.protect|Dentistry.protect]] 
 
-### #is_/same_as :: [Dentistry.private](/_private/bio/Medicine/Medical_Enumeration/Medical_Specialty/Dentistry.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Enumeration/Medical_Specialty/Dentistry.private|Dentistry.private]] 
 
-### #is_/same_as :: [Dentistry.personal](/_personal/bio/Medicine/Medical_Enumeration/Medical_Specialty/Dentistry.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Enumeration/Medical_Specialty/Dentistry.personal|Dentistry.personal]] 
 
-### #is_/same_as :: [Dentistry.secret](/_secret/bio/Medicine/Medical_Enumeration/Medical_Specialty/Dentistry.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Enumeration/Medical_Specialty/Dentistry.secret|Dentistry.secret]] 
 

@@ -112,17 +112,17 @@ domain_name: stellantis.com
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Stellantis](/_Standards/Society/Agent/Community/Organization/Company/Corporation/Automotive/Stellantis.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Company/Corporation/Automotive/Stellantis|Stellantis]] 
 
-### #is_/same_as :: [Stellantis.public](/_public/Society/Agent/Community/Organization/Company/Corporation/Automotive/Stellantis.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Company/Corporation/Automotive/Stellantis.public|Stellantis.public]] 
 
-### #is_/same_as :: [Stellantis.internal](/_internal/Society/Agent/Community/Organization/Company/Corporation/Automotive/Stellantis.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Company/Corporation/Automotive/Stellantis.internal|Stellantis.internal]] 
 
-### #is_/same_as :: [Stellantis.protect](/_protect/Society/Agent/Community/Organization/Company/Corporation/Automotive/Stellantis.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Company/Corporation/Automotive/Stellantis.protect|Stellantis.protect]] 
 
-### #is_/same_as :: [Stellantis.private](/_private/Society/Agent/Community/Organization/Company/Corporation/Automotive/Stellantis.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Company/Corporation/Automotive/Stellantis.private|Stellantis.private]] 
 
-### #is_/same_as :: [Stellantis.personal](/_personal/Society/Agent/Community/Organization/Company/Corporation/Automotive/Stellantis.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Company/Corporation/Automotive/Stellantis.personal|Stellantis.personal]] 
 
-### #is_/same_as :: [Stellantis.secret](/_secret/Society/Agent/Community/Organization/Company/Corporation/Automotive/Stellantis.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Company/Corporation/Automotive/Stellantis.secret|Stellantis.secret]] 
 

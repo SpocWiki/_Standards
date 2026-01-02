@@ -38,17 +38,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Pixar](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Disney+/Pixar.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Disney+/Pixar|Pixar]] 
 
-### #is_/same_as :: [Pixar.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Disney+/Pixar.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Disney+/Pixar.public|Pixar.public]] 
 
-### #is_/same_as :: [Pixar.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Disney+/Pixar.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Disney+/Pixar.internal|Pixar.internal]] 
 
-### #is_/same_as :: [Pixar.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Disney+/Pixar.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Disney+/Pixar.protect|Pixar.protect]] 
 
-### #is_/same_as :: [Pixar.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Disney+/Pixar.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Disney+/Pixar.private|Pixar.private]] 
 
-### #is_/same_as :: [Pixar.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Disney+/Pixar.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Disney+/Pixar.personal|Pixar.personal]] 
 
-### #is_/same_as :: [Pixar.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Disney+/Pixar.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Disney+/Pixar.secret|Pixar.secret]] 
 

@@ -44,17 +44,17 @@ Size group "Womens" for wearables.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Wearable_Size_Group_Womens](/_Standards/schema-org/Enumeration/Size_Group_Enumeration/Wearable_Size_Group_Enumeration/Wearable_Size_Group_Womens.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Size_Group_Enumeration/Wearable_Size_Group_Enumeration/Wearable_Size_Group_Womens|Wearable_Size_Group_Womens]] 
 
-### #is_/same_as :: [Wearable_Size_Group_Womens.public](/_public/schema-org/Enumeration/Size_Group_Enumeration/Wearable_Size_Group_Enumeration/Wearable_Size_Group_Womens.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Size_Group_Enumeration/Wearable_Size_Group_Enumeration/Wearable_Size_Group_Womens.public|Wearable_Size_Group_Womens.public]] 
 
-### #is_/same_as :: [Wearable_Size_Group_Womens.internal](/_internal/schema-org/Enumeration/Size_Group_Enumeration/Wearable_Size_Group_Enumeration/Wearable_Size_Group_Womens.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Size_Group_Enumeration/Wearable_Size_Group_Enumeration/Wearable_Size_Group_Womens.internal|Wearable_Size_Group_Womens.internal]] 
 
-### #is_/same_as :: [Wearable_Size_Group_Womens.protect](/_protect/schema-org/Enumeration/Size_Group_Enumeration/Wearable_Size_Group_Enumeration/Wearable_Size_Group_Womens.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Size_Group_Enumeration/Wearable_Size_Group_Enumeration/Wearable_Size_Group_Womens.protect|Wearable_Size_Group_Womens.protect]] 
 
-### #is_/same_as :: [Wearable_Size_Group_Womens.private](/_private/schema-org/Enumeration/Size_Group_Enumeration/Wearable_Size_Group_Enumeration/Wearable_Size_Group_Womens.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Size_Group_Enumeration/Wearable_Size_Group_Enumeration/Wearable_Size_Group_Womens.private|Wearable_Size_Group_Womens.private]] 
 
-### #is_/same_as :: [Wearable_Size_Group_Womens.personal](/_personal/schema-org/Enumeration/Size_Group_Enumeration/Wearable_Size_Group_Enumeration/Wearable_Size_Group_Womens.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Size_Group_Enumeration/Wearable_Size_Group_Enumeration/Wearable_Size_Group_Womens.personal|Wearable_Size_Group_Womens.personal]] 
 
-### #is_/same_as :: [Wearable_Size_Group_Womens.secret](/_secret/schema-org/Enumeration/Size_Group_Enumeration/Wearable_Size_Group_Enumeration/Wearable_Size_Group_Womens.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Size_Group_Enumeration/Wearable_Size_Group_Enumeration/Wearable_Size_Group_Womens.secret|Wearable_Size_Group_Womens.secret]] 
 

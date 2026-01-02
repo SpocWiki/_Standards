@@ -53,17 +53,17 @@ spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Space%20Ra
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Space_Race](/_Standards/Technology/Spaceflight/Space_Race.md) 
+### #is_/same_as :: [[/_Standards/Technology/Spaceflight/Space_Race|Space_Race]] 
 
-### #is_/same_as :: [Space_Race.public](/_public/Technology/Spaceflight/Space_Race.public.md) 
+### #is_/same_as :: [[/_public/Technology/Spaceflight/Space_Race.public|Space_Race.public]] 
 
-### #is_/same_as :: [Space_Race.internal](/_internal/Technology/Spaceflight/Space_Race.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Spaceflight/Space_Race.internal|Space_Race.internal]] 
 
-### #is_/same_as :: [Space_Race.protect](/_protect/Technology/Spaceflight/Space_Race.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Spaceflight/Space_Race.protect|Space_Race.protect]] 
 
-### #is_/same_as :: [Space_Race.private](/_private/Technology/Spaceflight/Space_Race.private.md) 
+### #is_/same_as :: [[/_private/Technology/Spaceflight/Space_Race.private|Space_Race.private]] 
 
-### #is_/same_as :: [Space_Race.personal](/_personal/Technology/Spaceflight/Space_Race.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Spaceflight/Space_Race.personal|Space_Race.personal]] 
 
-### #is_/same_as :: [Space_Race.secret](/_secret/Technology/Spaceflight/Space_Race.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Spaceflight/Space_Race.secret|Space_Race.secret]] 
 

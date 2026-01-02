@@ -84,17 +84,17 @@ native_label: Nordic Council
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Nordic_Council](/_Standards/Society/Agent/Community/Organization/International_Organization/Nordic_Council.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/International_Organization/Nordic_Council|Nordic_Council]] 
 
-### #is_/same_as :: [Nordic_Council.public](/_public/Society/Agent/Community/Organization/International_Organization/Nordic_Council.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/International_Organization/Nordic_Council.public|Nordic_Council.public]] 
 
-### #is_/same_as :: [Nordic_Council.internal](/_internal/Society/Agent/Community/Organization/International_Organization/Nordic_Council.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/International_Organization/Nordic_Council.internal|Nordic_Council.internal]] 
 
-### #is_/same_as :: [Nordic_Council.protect](/_protect/Society/Agent/Community/Organization/International_Organization/Nordic_Council.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/International_Organization/Nordic_Council.protect|Nordic_Council.protect]] 
 
-### #is_/same_as :: [Nordic_Council.private](/_private/Society/Agent/Community/Organization/International_Organization/Nordic_Council.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/International_Organization/Nordic_Council.private|Nordic_Council.private]] 
 
-### #is_/same_as :: [Nordic_Council.personal](/_personal/Society/Agent/Community/Organization/International_Organization/Nordic_Council.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/International_Organization/Nordic_Council.personal|Nordic_Council.personal]] 
 
-### #is_/same_as :: [Nordic_Council.secret](/_secret/Society/Agent/Community/Organization/International_Organization/Nordic_Council.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/International_Organization/Nordic_Council.secret|Nordic_Council.secret]] 
 

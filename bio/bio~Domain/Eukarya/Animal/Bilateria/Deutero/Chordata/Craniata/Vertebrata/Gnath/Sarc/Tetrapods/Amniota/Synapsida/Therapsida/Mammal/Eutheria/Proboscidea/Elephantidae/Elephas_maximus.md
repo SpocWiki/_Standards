@@ -8,7 +8,7 @@ title: Elephas maximus
 # Elephas maximus
 
 ## Asian Elephant, Indian Elephant 
-![ ](Elephas_maximus/122357538_b19f820aff_o.jpg))
+![ ](Elephas_maximus/122357538_b19f820aff_o.jpg) 
 
 ## #has_/text_of_/abstract 
 
@@ -55,7 +55,7 @@ title: Elephas maximus
 ## Title Illustrations
 
   ---------------------------------------------------------------- 
-![](Elephas_maximus/122357538_b19f820aff_o.jpg))
+![](Elephas_maximus/122357538_b19f820aff_o.jpg) 
   Scientific Name ::     Elephas maximus
   Location ::           Kabini, Karnataka, India
   Specimen Condition   Live Specimen
@@ -67,17 +67,17 @@ title: Elephas maximus
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Elephas_maximus](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Proboscidea/Elephantidae/Elephas_maximus.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Proboscidea/Elephantidae/Elephas_maximus|Elephas_maximus]] 
 
-### #is_/same_as :: [Elephas_maximus.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Proboscidea/Elephantidae/Elephas_maximus.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Proboscidea/Elephantidae/Elephas_maximus.public|Elephas_maximus.public]] 
 
-### #is_/same_as :: [Elephas_maximus.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Proboscidea/Elephantidae/Elephas_maximus.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Proboscidea/Elephantidae/Elephas_maximus.internal|Elephas_maximus.internal]] 
 
-### #is_/same_as :: [Elephas_maximus.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Proboscidea/Elephantidae/Elephas_maximus.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Proboscidea/Elephantidae/Elephas_maximus.protect|Elephas_maximus.protect]] 
 
-### #is_/same_as :: [Elephas_maximus.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Proboscidea/Elephantidae/Elephas_maximus.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Proboscidea/Elephantidae/Elephas_maximus.private|Elephas_maximus.private]] 
 
-### #is_/same_as :: [Elephas_maximus.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Proboscidea/Elephantidae/Elephas_maximus.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Proboscidea/Elephantidae/Elephas_maximus.personal|Elephas_maximus.personal]] 
 
-### #is_/same_as :: [Elephas_maximus.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Proboscidea/Elephantidae/Elephas_maximus.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Proboscidea/Elephantidae/Elephas_maximus.secret|Elephas_maximus.secret]] 
 

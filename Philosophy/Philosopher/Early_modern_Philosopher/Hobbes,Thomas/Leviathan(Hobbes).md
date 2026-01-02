@@ -46,17 +46,17 @@ publication_date: 1651-01-01T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Leviathan(Hobbes)](/_Standards/Philosophy/Philosopher/Early_modern_Philosopher/Hobbes,Thomas/Leviathan(Hobbes).md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Philosopher/Early_modern_Philosopher/Hobbes,Thomas/Leviathan(Hobbes)|Leviathan(Hobbes)]] 
 
-### #is_/same_as :: [Leviathan(Hobbes).public](/_public/Philosophy/Philosopher/Early_modern_Philosopher/Hobbes,Thomas/Leviathan(Hobbes).public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Philosopher/Early_modern_Philosopher/Hobbes,Thomas/Leviathan(Hobbes).public|Leviathan(Hobbes).public]] 
 
-### #is_/same_as :: [Leviathan(Hobbes).internal](/_internal/Philosophy/Philosopher/Early_modern_Philosopher/Hobbes,Thomas/Leviathan(Hobbes).internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Philosopher/Early_modern_Philosopher/Hobbes,Thomas/Leviathan(Hobbes).internal|Leviathan(Hobbes).internal]] 
 
-### #is_/same_as :: [Leviathan(Hobbes).protect](/_protect/Philosophy/Philosopher/Early_modern_Philosopher/Hobbes,Thomas/Leviathan(Hobbes).protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Philosopher/Early_modern_Philosopher/Hobbes,Thomas/Leviathan(Hobbes).protect|Leviathan(Hobbes).protect]] 
 
-### #is_/same_as :: [Leviathan(Hobbes).private](/_private/Philosophy/Philosopher/Early_modern_Philosopher/Hobbes,Thomas/Leviathan(Hobbes).private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Philosopher/Early_modern_Philosopher/Hobbes,Thomas/Leviathan(Hobbes).private|Leviathan(Hobbes).private]] 
 
-### #is_/same_as :: [Leviathan(Hobbes).personal](/_personal/Philosophy/Philosopher/Early_modern_Philosopher/Hobbes,Thomas/Leviathan(Hobbes).personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Philosopher/Early_modern_Philosopher/Hobbes,Thomas/Leviathan(Hobbes).personal|Leviathan(Hobbes).personal]] 
 
-### #is_/same_as :: [Leviathan(Hobbes).secret](/_secret/Philosophy/Philosopher/Early_modern_Philosopher/Hobbes,Thomas/Leviathan(Hobbes).secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Philosopher/Early_modern_Philosopher/Hobbes,Thomas/Leviathan(Hobbes).secret|Leviathan(Hobbes).secret]] 
 

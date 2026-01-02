@@ -91,17 +91,17 @@ Commons_category: Heart (organ)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Heart](/_Standards/bio/Medicine/Anatomy/Circulatory_System/Heart.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Anatomy/Circulatory_System/Heart|Heart]] 
 
-### #is_/same_as :: [Heart.public](/_public/bio/Medicine/Anatomy/Circulatory_System/Heart.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Anatomy/Circulatory_System/Heart.public|Heart.public]] 
 
-### #is_/same_as :: [Heart.internal](/_internal/bio/Medicine/Anatomy/Circulatory_System/Heart.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Anatomy/Circulatory_System/Heart.internal|Heart.internal]] 
 
-### #is_/same_as :: [Heart.protect](/_protect/bio/Medicine/Anatomy/Circulatory_System/Heart.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Anatomy/Circulatory_System/Heart.protect|Heart.protect]] 
 
-### #is_/same_as :: [Heart.private](/_private/bio/Medicine/Anatomy/Circulatory_System/Heart.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Anatomy/Circulatory_System/Heart.private|Heart.private]] 
 
-### #is_/same_as :: [Heart.personal](/_personal/bio/Medicine/Anatomy/Circulatory_System/Heart.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Anatomy/Circulatory_System/Heart.personal|Heart.personal]] 
 
-### #is_/same_as :: [Heart.secret](/_secret/bio/Medicine/Anatomy/Circulatory_System/Heart.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Anatomy/Circulatory_System/Heart.secret|Heart.secret]] 
 

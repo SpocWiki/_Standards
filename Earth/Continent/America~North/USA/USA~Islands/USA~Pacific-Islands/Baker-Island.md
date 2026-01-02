@@ -46,17 +46,17 @@ markerFile: [[Baker-Island]]
 
 ## Confidential Links & Embeds: 
 
-### [Baker-Island](/_Standards/Earth/Continent/America~North/USA/USA~Islands/Counties/Baker-Island.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~North/USA/USA~Islands/USA~Pacific-Islands/Baker-Island|Baker-Island]] 
 
-### [Baker-Island.public](/_public/Earth/Continent/America~North/USA/USA~Islands/Counties/Baker-Island.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~North/USA/USA~Islands/USA~Pacific-Islands/Baker-Island.public|Baker-Island.public]] 
 
-### [Baker-Island.internal](/_internal/Earth/Continent/America~North/USA/USA~Islands/Counties/Baker-Island.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~North/USA/USA~Islands/USA~Pacific-Islands/Baker-Island.internal|Baker-Island.internal]] 
 
-### [Baker-Island.protect](/_protect/Earth/Continent/America~North/USA/USA~Islands/Counties/Baker-Island.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~North/USA/USA~Islands/USA~Pacific-Islands/Baker-Island.protect|Baker-Island.protect]] 
 
-### [Baker-Island.private](/_private/Earth/Continent/America~North/USA/USA~Islands/Counties/Baker-Island.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~North/USA/USA~Islands/USA~Pacific-Islands/Baker-Island.private|Baker-Island.private]] 
 
-### [Baker-Island.personal](/_personal/Earth/Continent/America~North/USA/USA~Islands/Counties/Baker-Island.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~North/USA/USA~Islands/USA~Pacific-Islands/Baker-Island.personal|Baker-Island.personal]] 
 
-### [Baker-Island.secret](/_secret/Earth/Continent/America~North/USA/USA~Islands/Counties/Baker-Island.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~North/USA/USA~Islands/USA~Pacific-Islands/Baker-Island.secret|Baker-Island.secret]] 
 

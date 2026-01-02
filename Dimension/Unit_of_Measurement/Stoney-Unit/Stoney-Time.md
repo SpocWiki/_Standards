@@ -6,17 +6,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Stoney-Time](/_Standards/Dimension/Unit_of_Measurement/Stoney-Unit/Stoney-Time.md) 
+### #is_/same_as :: [[/_Standards/Dimension/Unit_of_Measurement/Stoney-Unit/Stoney-Time|Stoney-Time]] 
 
-### #is_/same_as :: [Stoney-Time.public](/_public/Dimension/Unit_of_Measurement/Stoney-Unit/Stoney-Time.public.md) 
+### #is_/same_as :: [[/_public/Dimension/Unit_of_Measurement/Stoney-Unit/Stoney-Time.public|Stoney-Time.public]] 
 
-### #is_/same_as :: [Stoney-Time.internal](/_internal/Dimension/Unit_of_Measurement/Stoney-Unit/Stoney-Time.internal.md) 
+### #is_/same_as :: [[/_internal/Dimension/Unit_of_Measurement/Stoney-Unit/Stoney-Time.internal|Stoney-Time.internal]] 
 
-### #is_/same_as :: [Stoney-Time.protect](/_protect/Dimension/Unit_of_Measurement/Stoney-Unit/Stoney-Time.protect.md) 
+### #is_/same_as :: [[/_protect/Dimension/Unit_of_Measurement/Stoney-Unit/Stoney-Time.protect|Stoney-Time.protect]] 
 
-### #is_/same_as :: [Stoney-Time.private](/_private/Dimension/Unit_of_Measurement/Stoney-Unit/Stoney-Time.private.md) 
+### #is_/same_as :: [[/_private/Dimension/Unit_of_Measurement/Stoney-Unit/Stoney-Time.private|Stoney-Time.private]] 
 
-### #is_/same_as :: [Stoney-Time.personal](/_personal/Dimension/Unit_of_Measurement/Stoney-Unit/Stoney-Time.personal.md) 
+### #is_/same_as :: [[/_personal/Dimension/Unit_of_Measurement/Stoney-Unit/Stoney-Time.personal|Stoney-Time.personal]] 
 
-### #is_/same_as :: [Stoney-Time.secret](/_secret/Dimension/Unit_of_Measurement/Stoney-Unit/Stoney-Time.secret.md)
+### #is_/same_as :: [[/_secret/Dimension/Unit_of_Measurement/Stoney-Unit/Stoney-Time.secret|Stoney-Time.secret]] 
 

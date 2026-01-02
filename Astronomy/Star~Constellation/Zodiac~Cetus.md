@@ -67,17 +67,17 @@ short_name: Cet
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Zodiac~Cetus](/_Standards/Astronomy/Star~Constellation/Zodiac~Cetus.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Star~Constellation/Zodiac~Cetus|Zodiac~Cetus]] 
 
-### #is_/same_as :: [Zodiac~Cetus.public](/_public/Astronomy/Star~Constellation/Zodiac~Cetus.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Star~Constellation/Zodiac~Cetus.public|Zodiac~Cetus.public]] 
 
-### #is_/same_as :: [Zodiac~Cetus.internal](/_internal/Astronomy/Star~Constellation/Zodiac~Cetus.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Star~Constellation/Zodiac~Cetus.internal|Zodiac~Cetus.internal]] 
 
-### #is_/same_as :: [Zodiac~Cetus.protect](/_protect/Astronomy/Star~Constellation/Zodiac~Cetus.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Star~Constellation/Zodiac~Cetus.protect|Zodiac~Cetus.protect]] 
 
-### #is_/same_as :: [Zodiac~Cetus.private](/_private/Astronomy/Star~Constellation/Zodiac~Cetus.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Star~Constellation/Zodiac~Cetus.private|Zodiac~Cetus.private]] 
 
-### #is_/same_as :: [Zodiac~Cetus.personal](/_personal/Astronomy/Star~Constellation/Zodiac~Cetus.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Star~Constellation/Zodiac~Cetus.personal|Zodiac~Cetus.personal]] 
 
-### #is_/same_as :: [Zodiac~Cetus.secret](/_secret/Astronomy/Star~Constellation/Zodiac~Cetus.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Star~Constellation/Zodiac~Cetus.secret|Zodiac~Cetus.secret]] 
 

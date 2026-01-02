@@ -57,17 +57,17 @@ SalaryCurrency:: {"type":"Input","options":{}}
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~EmployeeRole](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Role/FileClass~OrganizationRole/FileClass~EmployeeRole.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Role/FileClass~OrganizationRole/FileClass~EmployeeRole|FileClass~EmployeeRole]] 
 
-### #is_/same_as :: [FileClass~EmployeeRole.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Role/FileClass~OrganizationRole/FileClass~EmployeeRole.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Role/FileClass~OrganizationRole/FileClass~EmployeeRole.public|FileClass~EmployeeRole.public]] 
 
-### #is_/same_as :: [FileClass~EmployeeRole.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Role/FileClass~OrganizationRole/FileClass~EmployeeRole.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Role/FileClass~OrganizationRole/FileClass~EmployeeRole.internal|FileClass~EmployeeRole.internal]] 
 
-### #is_/same_as :: [FileClass~EmployeeRole.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Role/FileClass~OrganizationRole/FileClass~EmployeeRole.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Role/FileClass~OrganizationRole/FileClass~EmployeeRole.protect|FileClass~EmployeeRole.protect]] 
 
-### #is_/same_as :: [FileClass~EmployeeRole.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Role/FileClass~OrganizationRole/FileClass~EmployeeRole.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Role/FileClass~OrganizationRole/FileClass~EmployeeRole.private|FileClass~EmployeeRole.private]] 
 
-### #is_/same_as :: [FileClass~EmployeeRole.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Role/FileClass~OrganizationRole/FileClass~EmployeeRole.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Role/FileClass~OrganizationRole/FileClass~EmployeeRole.personal|FileClass~EmployeeRole.personal]] 
 
-### #is_/same_as :: [FileClass~EmployeeRole.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Role/FileClass~OrganizationRole/FileClass~EmployeeRole.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Role/FileClass~OrganizationRole/FileClass~EmployeeRole.secret|FileClass~EmployeeRole.secret]] 
 

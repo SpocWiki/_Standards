@@ -48,17 +48,17 @@ InLanguage:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Th
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~WriteAction](/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~CreateAction/FileClass~WriteAction.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~CreateAction/FileClass~WriteAction|FileClass~WriteAction]] 
 
-### #is_/same_as :: [FileClass~WriteAction.public](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~CreateAction/FileClass~WriteAction.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~CreateAction/FileClass~WriteAction.public|FileClass~WriteAction.public]] 
 
-### #is_/same_as :: [FileClass~WriteAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~CreateAction/FileClass~WriteAction.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~CreateAction/FileClass~WriteAction.internal|FileClass~WriteAction.internal]] 
 
-### #is_/same_as :: [FileClass~WriteAction.protect](/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~CreateAction/FileClass~WriteAction.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~CreateAction/FileClass~WriteAction.protect|FileClass~WriteAction.protect]] 
 
-### #is_/same_as :: [FileClass~WriteAction.private](/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~CreateAction/FileClass~WriteAction.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~CreateAction/FileClass~WriteAction.private|FileClass~WriteAction.private]] 
 
-### #is_/same_as :: [FileClass~WriteAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~CreateAction/FileClass~WriteAction.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~CreateAction/FileClass~WriteAction.personal|FileClass~WriteAction.personal]] 
 
-### #is_/same_as :: [FileClass~WriteAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~CreateAction/FileClass~WriteAction.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~CreateAction/FileClass~WriteAction.secret|FileClass~WriteAction.secret]] 
 

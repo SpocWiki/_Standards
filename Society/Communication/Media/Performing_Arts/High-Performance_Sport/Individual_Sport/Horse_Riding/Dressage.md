@@ -61,17 +61,17 @@ IPTC_NewsCode: mediatopic/20000925
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Dressage](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Horse_Riding/Dressage.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Horse_Riding/Dressage|Dressage]] 
 
-### #is_/same_as :: [Dressage.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Horse_Riding/Dressage.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Horse_Riding/Dressage.public|Dressage.public]] 
 
-### #is_/same_as :: [Dressage.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Horse_Riding/Dressage.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Horse_Riding/Dressage.internal|Dressage.internal]] 
 
-### #is_/same_as :: [Dressage.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Horse_Riding/Dressage.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Horse_Riding/Dressage.protect|Dressage.protect]] 
 
-### #is_/same_as :: [Dressage.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Horse_Riding/Dressage.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Horse_Riding/Dressage.private|Dressage.private]] 
 
-### #is_/same_as :: [Dressage.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Horse_Riding/Dressage.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Horse_Riding/Dressage.personal|Dressage.personal]] 
 
-### #is_/same_as :: [Dressage.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Horse_Riding/Dressage.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Horse_Riding/Dressage.secret|Dressage.secret]] 
 

@@ -115,17 +115,17 @@ lat: -45
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ocean~Antarctic](/_Standards/Earth/Ocean/Ocean~Antarctic.md) 
+### #is_/same_as :: [[/_Standards/Earth/Ocean/Ocean~Antarctic|Ocean~Antarctic]] 
 
-### #is_/same_as :: [Ocean~Antarctic.public](/_public/Earth/Ocean/Ocean~Antarctic.public.md) 
+### #is_/same_as :: [[/_public/Earth/Ocean/Ocean~Antarctic.public|Ocean~Antarctic.public]] 
 
-### #is_/same_as :: [Ocean~Antarctic.internal](/_internal/Earth/Ocean/Ocean~Antarctic.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Ocean/Ocean~Antarctic.internal|Ocean~Antarctic.internal]] 
 
-### #is_/same_as :: [Ocean~Antarctic.protect](/_protect/Earth/Ocean/Ocean~Antarctic.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Ocean/Ocean~Antarctic.protect|Ocean~Antarctic.protect]] 
 
-### #is_/same_as :: [Ocean~Antarctic.private](/_private/Earth/Ocean/Ocean~Antarctic.private.md) 
+### #is_/same_as :: [[/_private/Earth/Ocean/Ocean~Antarctic.private|Ocean~Antarctic.private]] 
 
-### #is_/same_as :: [Ocean~Antarctic.personal](/_personal/Earth/Ocean/Ocean~Antarctic.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Ocean/Ocean~Antarctic.personal|Ocean~Antarctic.personal]] 
 
-### #is_/same_as :: [Ocean~Antarctic.secret](/_secret/Earth/Ocean/Ocean~Antarctic.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Ocean/Ocean~Antarctic.secret|Ocean~Antarctic.secret]] 
 

@@ -119,17 +119,17 @@ PostalCode:: {"type":"Input","options":{}}
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~GeoShape](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~GeoShape.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~GeoShape|FileClass~GeoShape]] 
 
-### #is_/same_as :: [FileClass~GeoShape.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~GeoShape.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~GeoShape.public|FileClass~GeoShape.public]] 
 
-### #is_/same_as :: [FileClass~GeoShape.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~GeoShape.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~GeoShape.internal|FileClass~GeoShape.internal]] 
 
-### #is_/same_as :: [FileClass~GeoShape.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~GeoShape.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~GeoShape.protect|FileClass~GeoShape.protect]] 
 
-### #is_/same_as :: [FileClass~GeoShape.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~GeoShape.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~GeoShape.private|FileClass~GeoShape.private]] 
 
-### #is_/same_as :: [FileClass~GeoShape.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~GeoShape.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~GeoShape.personal|FileClass~GeoShape.personal]] 
 
-### #is_/same_as :: [FileClass~GeoShape.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~GeoShape.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~GeoShape.secret|FileClass~GeoShape.secret]] 
 

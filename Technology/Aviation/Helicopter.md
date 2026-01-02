@@ -58,17 +58,17 @@ Krugosvet_article: nauka_i_tehnika/voennaya_tehnika/VERTOLET.html
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Helicopter](/_Standards/Technology/Aviation/Helicopter.md) 
+### #is_/same_as :: [[/_Standards/Technology/Aviation/Helicopter|Helicopter]] 
 
-### #is_/same_as :: [Helicopter.public](/_public/Technology/Aviation/Helicopter.public.md) 
+### #is_/same_as :: [[/_public/Technology/Aviation/Helicopter.public|Helicopter.public]] 
 
-### #is_/same_as :: [Helicopter.internal](/_internal/Technology/Aviation/Helicopter.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Aviation/Helicopter.internal|Helicopter.internal]] 
 
-### #is_/same_as :: [Helicopter.protect](/_protect/Technology/Aviation/Helicopter.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Aviation/Helicopter.protect|Helicopter.protect]] 
 
-### #is_/same_as :: [Helicopter.private](/_private/Technology/Aviation/Helicopter.private.md) 
+### #is_/same_as :: [[/_private/Technology/Aviation/Helicopter.private|Helicopter.private]] 
 
-### #is_/same_as :: [Helicopter.personal](/_personal/Technology/Aviation/Helicopter.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Aviation/Helicopter.personal|Helicopter.personal]] 
 
-### #is_/same_as :: [Helicopter.secret](/_secret/Technology/Aviation/Helicopter.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Aviation/Helicopter.secret|Helicopter.secret]] 
 

@@ -113,17 +113,17 @@ Mastodon_address: RollingStone@mstdn.social
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Rolling_Stone](/_Standards/Society/Communication/Media/Journalism/Magazine/Rolling_Stone.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Journalism/Magazine/Rolling_Stone|Rolling_Stone]] 
 
-### #is_/same_as :: [Rolling_Stone.public](/_public/Society/Communication/Media/Journalism/Magazine/Rolling_Stone.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Journalism/Magazine/Rolling_Stone.public|Rolling_Stone.public]] 
 
-### #is_/same_as :: [Rolling_Stone.internal](/_internal/Society/Communication/Media/Journalism/Magazine/Rolling_Stone.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Journalism/Magazine/Rolling_Stone.internal|Rolling_Stone.internal]] 
 
-### #is_/same_as :: [Rolling_Stone.protect](/_protect/Society/Communication/Media/Journalism/Magazine/Rolling_Stone.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Journalism/Magazine/Rolling_Stone.protect|Rolling_Stone.protect]] 
 
-### #is_/same_as :: [Rolling_Stone.private](/_private/Society/Communication/Media/Journalism/Magazine/Rolling_Stone.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Journalism/Magazine/Rolling_Stone.private|Rolling_Stone.private]] 
 
-### #is_/same_as :: [Rolling_Stone.personal](/_personal/Society/Communication/Media/Journalism/Magazine/Rolling_Stone.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Journalism/Magazine/Rolling_Stone.personal|Rolling_Stone.personal]] 
 
-### #is_/same_as :: [Rolling_Stone.secret](/_secret/Society/Communication/Media/Journalism/Magazine/Rolling_Stone.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Journalism/Magazine/Rolling_Stone.secret|Rolling_Stone.secret]] 
 

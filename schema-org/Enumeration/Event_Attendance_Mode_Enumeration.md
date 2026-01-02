@@ -41,17 +41,17 @@ An EventAttendanceModeEnumeration value is one of potentially several modes of o
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Event_Attendance_Mode_Enumeration](/_Standards/schema-org/Enumeration/Event_Attendance_Mode_Enumeration.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Event_Attendance_Mode_Enumeration|Event_Attendance_Mode_Enumeration]] 
 
-### #is_/same_as :: [Event_Attendance_Mode_Enumeration.public](/_public/schema-org/Enumeration/Event_Attendance_Mode_Enumeration.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Event_Attendance_Mode_Enumeration.public|Event_Attendance_Mode_Enumeration.public]] 
 
-### #is_/same_as :: [Event_Attendance_Mode_Enumeration.internal](/_internal/schema-org/Enumeration/Event_Attendance_Mode_Enumeration.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Event_Attendance_Mode_Enumeration.internal|Event_Attendance_Mode_Enumeration.internal]] 
 
-### #is_/same_as :: [Event_Attendance_Mode_Enumeration.protect](/_protect/schema-org/Enumeration/Event_Attendance_Mode_Enumeration.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Event_Attendance_Mode_Enumeration.protect|Event_Attendance_Mode_Enumeration.protect]] 
 
-### #is_/same_as :: [Event_Attendance_Mode_Enumeration.private](/_private/schema-org/Enumeration/Event_Attendance_Mode_Enumeration.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Event_Attendance_Mode_Enumeration.private|Event_Attendance_Mode_Enumeration.private]] 
 
-### #is_/same_as :: [Event_Attendance_Mode_Enumeration.personal](/_personal/schema-org/Enumeration/Event_Attendance_Mode_Enumeration.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Event_Attendance_Mode_Enumeration.personal|Event_Attendance_Mode_Enumeration.personal]] 
 
-### #is_/same_as :: [Event_Attendance_Mode_Enumeration.secret](/_secret/schema-org/Enumeration/Event_Attendance_Mode_Enumeration.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Event_Attendance_Mode_Enumeration.secret|Event_Attendance_Mode_Enumeration.secret]] 
 

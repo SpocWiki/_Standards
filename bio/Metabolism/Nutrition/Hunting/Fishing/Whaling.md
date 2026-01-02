@@ -47,17 +47,17 @@ Dewey_Decimal_Classification:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Whaling](/_Standards/bio/Metabolism/Nutrition/Hunting/Fishing/Whaling.md) 
+### #is_/same_as :: [[/_Standards/bio/Metabolism/Nutrition/Hunting/Fishing/Whaling|Whaling]] 
 
-### #is_/same_as :: [Whaling.public](/_public/bio/Metabolism/Nutrition/Hunting/Fishing/Whaling.public.md) 
+### #is_/same_as :: [[/_public/bio/Metabolism/Nutrition/Hunting/Fishing/Whaling.public|Whaling.public]] 
 
-### #is_/same_as :: [Whaling.internal](/_internal/bio/Metabolism/Nutrition/Hunting/Fishing/Whaling.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Metabolism/Nutrition/Hunting/Fishing/Whaling.internal|Whaling.internal]] 
 
-### #is_/same_as :: [Whaling.protect](/_protect/bio/Metabolism/Nutrition/Hunting/Fishing/Whaling.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Metabolism/Nutrition/Hunting/Fishing/Whaling.protect|Whaling.protect]] 
 
-### #is_/same_as :: [Whaling.private](/_private/bio/Metabolism/Nutrition/Hunting/Fishing/Whaling.private.md) 
+### #is_/same_as :: [[/_private/bio/Metabolism/Nutrition/Hunting/Fishing/Whaling.private|Whaling.private]] 
 
-### #is_/same_as :: [Whaling.personal](/_personal/bio/Metabolism/Nutrition/Hunting/Fishing/Whaling.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Metabolism/Nutrition/Hunting/Fishing/Whaling.personal|Whaling.personal]] 
 
-### #is_/same_as :: [Whaling.secret](/_secret/bio/Metabolism/Nutrition/Hunting/Fishing/Whaling.secret.md)
+### #is_/same_as :: [[/_secret/bio/Metabolism/Nutrition/Hunting/Fishing/Whaling.secret|Whaling.secret]] 
 

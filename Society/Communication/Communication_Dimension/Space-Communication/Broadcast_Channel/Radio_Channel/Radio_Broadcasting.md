@@ -59,17 +59,17 @@ IPTC_NewsCode: mediatopic/20000050
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Radio_Broadcasting](/_Standards/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Radio_Channel/Radio_Broadcasting.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Radio_Channel/Radio_Broadcasting|Radio_Broadcasting]] 
 
-### #is_/same_as :: [Radio_Broadcasting.public](/_public/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Radio_Channel/Radio_Broadcasting.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Radio_Channel/Radio_Broadcasting.public|Radio_Broadcasting.public]] 
 
-### #is_/same_as :: [Radio_Broadcasting.internal](/_internal/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Radio_Channel/Radio_Broadcasting.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Radio_Channel/Radio_Broadcasting.internal|Radio_Broadcasting.internal]] 
 
-### #is_/same_as :: [Radio_Broadcasting.protect](/_protect/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Radio_Channel/Radio_Broadcasting.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Radio_Channel/Radio_Broadcasting.protect|Radio_Broadcasting.protect]] 
 
-### #is_/same_as :: [Radio_Broadcasting.private](/_private/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Radio_Channel/Radio_Broadcasting.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Radio_Channel/Radio_Broadcasting.private|Radio_Broadcasting.private]] 
 
-### #is_/same_as :: [Radio_Broadcasting.personal](/_personal/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Radio_Channel/Radio_Broadcasting.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Radio_Channel/Radio_Broadcasting.personal|Radio_Broadcasting.personal]] 
 
-### #is_/same_as :: [Radio_Broadcasting.secret](/_secret/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Radio_Channel/Radio_Broadcasting.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Radio_Channel/Radio_Broadcasting.secret|Radio_Broadcasting.secret]] 
 

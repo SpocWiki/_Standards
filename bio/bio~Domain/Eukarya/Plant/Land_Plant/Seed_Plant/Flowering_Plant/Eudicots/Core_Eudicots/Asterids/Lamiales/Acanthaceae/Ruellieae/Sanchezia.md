@@ -65,7 +65,7 @@ horticultural industry.
 ## Title Illustrations
 
 --------------------- 
-![](Sanchezia/sancheziaweb.jpg))
+![](Sanchezia/sancheziaweb.jpg) 
 Scientific Name ::  Sanchezia sp. Leonard
 Copyright ::         © [Alexander Schmidt-LeBuhn](mailto:schmidtleb@yahoo.de)
 
@@ -76,7 +76,7 @@ Specimen Condition   Live Specimen
 Copyright ::            © [Gerald D. Carr](http://www.botany.hawaii.edu/faculty/carr/acanth.htm)
 
 ------------------------------------------------------------------------ 
-![](Sanchezia/sanchezia.jpg))
+![](Sanchezia/sanchezia.jpg) 
 Scientific Name ::     Sanchezia parvibracteata Sprague & Hutch.
 Location ::           Limón Province, Costa Rica
 Specimen Condition   Live Specimen
@@ -93,7 +93,7 @@ Collector            L. A. McDade
 Copyright ::            © 2006 [Lucinda A. McDade](mailto:lucinda.mcdade@cgu.edu) 
 
 --------------------------------------------------------------------------- 
-![](Sanchezia/san.jpg))
+![](Sanchezia/san.jpg) 
 
 Scientific Name ::     Sanchezia oblonga Ruiz & Pav.
 Location ::           Las Cruces Botanical Garden, Costa Rica, cultivated
@@ -103,17 +103,17 @@ Copyright ::            © 2006 [Lucinda A. McDade](mailto:lucinda.mcdade@cgu.ed
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sanchezia](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Ruellieae/Sanchezia.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Ruellieae/Sanchezia|Sanchezia]] 
 
-### #is_/same_as :: [Sanchezia.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Ruellieae/Sanchezia.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Ruellieae/Sanchezia.public|Sanchezia.public]] 
 
-### #is_/same_as :: [Sanchezia.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Ruellieae/Sanchezia.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Ruellieae/Sanchezia.internal|Sanchezia.internal]] 
 
-### #is_/same_as :: [Sanchezia.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Ruellieae/Sanchezia.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Ruellieae/Sanchezia.protect|Sanchezia.protect]] 
 
-### #is_/same_as :: [Sanchezia.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Ruellieae/Sanchezia.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Ruellieae/Sanchezia.private|Sanchezia.private]] 
 
-### #is_/same_as :: [Sanchezia.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Ruellieae/Sanchezia.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Ruellieae/Sanchezia.personal|Sanchezia.personal]] 
 
-### #is_/same_as :: [Sanchezia.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Ruellieae/Sanchezia.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Ruellieae/Sanchezia.secret|Sanchezia.secret]] 
 

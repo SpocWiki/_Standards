@@ -73,17 +73,17 @@ Commons_category: Olive oil
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Olive_Oil](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Cooking_Oil/Olive_Oil.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Home_Economics/Cooking/Food/Cooking_Oil/Olive_Oil|Olive_Oil]] 
 
-### #is_/same_as :: [Olive_Oil.public](/_public/Society/Economics/Home_Economics/Cooking/Food/Cooking_Oil/Olive_Oil.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Home_Economics/Cooking/Food/Cooking_Oil/Olive_Oil.public|Olive_Oil.public]] 
 
-### #is_/same_as :: [Olive_Oil.internal](/_internal/Society/Economics/Home_Economics/Cooking/Food/Cooking_Oil/Olive_Oil.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Home_Economics/Cooking/Food/Cooking_Oil/Olive_Oil.internal|Olive_Oil.internal]] 
 
-### #is_/same_as :: [Olive_Oil.protect](/_protect/Society/Economics/Home_Economics/Cooking/Food/Cooking_Oil/Olive_Oil.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Home_Economics/Cooking/Food/Cooking_Oil/Olive_Oil.protect|Olive_Oil.protect]] 
 
-### #is_/same_as :: [Olive_Oil.private](/_private/Society/Economics/Home_Economics/Cooking/Food/Cooking_Oil/Olive_Oil.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Home_Economics/Cooking/Food/Cooking_Oil/Olive_Oil.private|Olive_Oil.private]] 
 
-### #is_/same_as :: [Olive_Oil.personal](/_personal/Society/Economics/Home_Economics/Cooking/Food/Cooking_Oil/Olive_Oil.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Home_Economics/Cooking/Food/Cooking_Oil/Olive_Oil.personal|Olive_Oil.personal]] 
 
-### #is_/same_as :: [Olive_Oil.secret](/_secret/Society/Economics/Home_Economics/Cooking/Food/Cooking_Oil/Olive_Oil.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Home_Economics/Cooking/Food/Cooking_Oil/Olive_Oil.secret|Olive_Oil.secret]] 
 

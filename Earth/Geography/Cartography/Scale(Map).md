@@ -44,17 +44,17 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Diego-homem-black-sea-
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Scale(Map)](/_Standards/Earth/Geography/Cartography/Scale(Map).md) 
+### #is_/same_as :: [[/_Standards/Earth/Geography/Cartography/Scale(Map)|Scale(Map)]] 
 
-### #is_/same_as :: [Scale(Map).public](/_public/Earth/Geography/Cartography/Scale(Map).public.md) 
+### #is_/same_as :: [[/_public/Earth/Geography/Cartography/Scale(Map).public|Scale(Map).public]] 
 
-### #is_/same_as :: [Scale(Map).internal](/_internal/Earth/Geography/Cartography/Scale(Map).internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geography/Cartography/Scale(Map).internal|Scale(Map).internal]] 
 
-### #is_/same_as :: [Scale(Map).protect](/_protect/Earth/Geography/Cartography/Scale(Map).protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geography/Cartography/Scale(Map).protect|Scale(Map).protect]] 
 
-### #is_/same_as :: [Scale(Map).private](/_private/Earth/Geography/Cartography/Scale(Map).private.md) 
+### #is_/same_as :: [[/_private/Earth/Geography/Cartography/Scale(Map).private|Scale(Map).private]] 
 
-### #is_/same_as :: [Scale(Map).personal](/_personal/Earth/Geography/Cartography/Scale(Map).personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geography/Cartography/Scale(Map).personal|Scale(Map).personal]] 
 
-### #is_/same_as :: [Scale(Map).secret](/_secret/Earth/Geography/Cartography/Scale(Map).secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geography/Cartography/Scale(Map).secret|Scale(Map).secret]] 
 

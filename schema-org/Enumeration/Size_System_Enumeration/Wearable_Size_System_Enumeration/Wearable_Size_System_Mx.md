@@ -44,17 +44,17 @@ Mexican size system for wearables.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Wearable_Size_System_Mx](/_Standards/schema-org/Enumeration/Size_System_Enumeration/Wearable_Size_System_Enumeration/Wearable_Size_System_Mx.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Size_System_Enumeration/Wearable_Size_System_Enumeration/Wearable_Size_System_Mx|Wearable_Size_System_Mx]] 
 
-### #is_/same_as :: [Wearable_Size_System_Mx.public](/_public/schema-org/Enumeration/Size_System_Enumeration/Wearable_Size_System_Enumeration/Wearable_Size_System_Mx.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Size_System_Enumeration/Wearable_Size_System_Enumeration/Wearable_Size_System_Mx.public|Wearable_Size_System_Mx.public]] 
 
-### #is_/same_as :: [Wearable_Size_System_Mx.internal](/_internal/schema-org/Enumeration/Size_System_Enumeration/Wearable_Size_System_Enumeration/Wearable_Size_System_Mx.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Size_System_Enumeration/Wearable_Size_System_Enumeration/Wearable_Size_System_Mx.internal|Wearable_Size_System_Mx.internal]] 
 
-### #is_/same_as :: [Wearable_Size_System_Mx.protect](/_protect/schema-org/Enumeration/Size_System_Enumeration/Wearable_Size_System_Enumeration/Wearable_Size_System_Mx.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Size_System_Enumeration/Wearable_Size_System_Enumeration/Wearable_Size_System_Mx.protect|Wearable_Size_System_Mx.protect]] 
 
-### #is_/same_as :: [Wearable_Size_System_Mx.private](/_private/schema-org/Enumeration/Size_System_Enumeration/Wearable_Size_System_Enumeration/Wearable_Size_System_Mx.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Size_System_Enumeration/Wearable_Size_System_Enumeration/Wearable_Size_System_Mx.private|Wearable_Size_System_Mx.private]] 
 
-### #is_/same_as :: [Wearable_Size_System_Mx.personal](/_personal/schema-org/Enumeration/Size_System_Enumeration/Wearable_Size_System_Enumeration/Wearable_Size_System_Mx.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Size_System_Enumeration/Wearable_Size_System_Enumeration/Wearable_Size_System_Mx.personal|Wearable_Size_System_Mx.personal]] 
 
-### #is_/same_as :: [Wearable_Size_System_Mx.secret](/_secret/schema-org/Enumeration/Size_System_Enumeration/Wearable_Size_System_Enumeration/Wearable_Size_System_Mx.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Size_System_Enumeration/Wearable_Size_System_Enumeration/Wearable_Size_System_Mx.secret|Wearable_Size_System_Mx.secret]] 
 

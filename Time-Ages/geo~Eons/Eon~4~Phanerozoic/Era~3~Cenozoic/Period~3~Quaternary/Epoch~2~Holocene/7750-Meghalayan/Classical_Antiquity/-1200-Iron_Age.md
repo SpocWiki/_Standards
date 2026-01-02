@@ -113,17 +113,17 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [-1200-Iron_Age](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-1200-Iron_Age.md) 
+### #is_/same_as :: [[/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-1200-Iron_Age|-1200-Iron_Age]] 
 
-### #is_/same_as :: [-1200-Iron_Age.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-1200-Iron_Age.public.md) 
+### #is_/same_as :: [[/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-1200-Iron_Age.public|-1200-Iron_Age.public]] 
 
-### #is_/same_as :: [-1200-Iron_Age.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-1200-Iron_Age.internal.md) 
+### #is_/same_as :: [[/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-1200-Iron_Age.internal|-1200-Iron_Age.internal]] 
 
-### #is_/same_as :: [-1200-Iron_Age.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-1200-Iron_Age.protect.md) 
+### #is_/same_as :: [[/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-1200-Iron_Age.protect|-1200-Iron_Age.protect]] 
 
-### #is_/same_as :: [-1200-Iron_Age.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-1200-Iron_Age.private.md) 
+### #is_/same_as :: [[/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-1200-Iron_Age.private|-1200-Iron_Age.private]] 
 
-### #is_/same_as :: [-1200-Iron_Age.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-1200-Iron_Age.personal.md) 
+### #is_/same_as :: [[/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-1200-Iron_Age.personal|-1200-Iron_Age.personal]] 
 
-### #is_/same_as :: [-1200-Iron_Age.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-1200-Iron_Age.secret.md)
+### #is_/same_as :: [[/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-1200-Iron_Age.secret|-1200-Iron_Age.secret]] 
 

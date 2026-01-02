@@ -94,17 +94,17 @@ Facebook_username: StarWars
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Star_Wars](/_Standards/Society/Communication/Media/Media_Franchise/Star_Wars.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Media_Franchise/Star_Wars|Star_Wars]] 
 
-### #is_/same_as :: [Star_Wars.public](/_public/Society/Communication/Media/Media_Franchise/Star_Wars.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Media_Franchise/Star_Wars.public|Star_Wars.public]] 
 
-### #is_/same_as :: [Star_Wars.internal](/_internal/Society/Communication/Media/Media_Franchise/Star_Wars.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Media_Franchise/Star_Wars.internal|Star_Wars.internal]] 
 
-### #is_/same_as :: [Star_Wars.protect](/_protect/Society/Communication/Media/Media_Franchise/Star_Wars.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Media_Franchise/Star_Wars.protect|Star_Wars.protect]] 
 
-### #is_/same_as :: [Star_Wars.private](/_private/Society/Communication/Media/Media_Franchise/Star_Wars.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Media_Franchise/Star_Wars.private|Star_Wars.private]] 
 
-### #is_/same_as :: [Star_Wars.personal](/_personal/Society/Communication/Media/Media_Franchise/Star_Wars.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Media_Franchise/Star_Wars.personal|Star_Wars.personal]] 
 
-### #is_/same_as :: [Star_Wars.secret](/_secret/Society/Communication/Media/Media_Franchise/Star_Wars.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Media_Franchise/Star_Wars.secret|Star_Wars.secret]] 
 

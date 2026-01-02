@@ -42,17 +42,17 @@ Nonprofit501q: Non-profit type referring to Credit Counseling Organizations.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Nonprofit501q](/_Standards/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501q.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501q|Nonprofit501q]] 
 
-### #is_/same_as :: [Nonprofit501q.public](/_public/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501q.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501q.public|Nonprofit501q.public]] 
 
-### #is_/same_as :: [Nonprofit501q.internal](/_internal/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501q.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501q.internal|Nonprofit501q.internal]] 
 
-### #is_/same_as :: [Nonprofit501q.protect](/_protect/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501q.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501q.protect|Nonprofit501q.protect]] 
 
-### #is_/same_as :: [Nonprofit501q.private](/_private/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501q.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501q.private|Nonprofit501q.private]] 
 
-### #is_/same_as :: [Nonprofit501q.personal](/_personal/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501q.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501q.personal|Nonprofit501q.personal]] 
 
-### #is_/same_as :: [Nonprofit501q.secret](/_secret/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501q.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501q.secret|Nonprofit501q.secret]] 
 

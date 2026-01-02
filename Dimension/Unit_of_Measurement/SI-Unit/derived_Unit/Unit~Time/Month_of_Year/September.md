@@ -105,17 +105,17 @@ pronunciation_audio:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [September](/_Standards/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Month_of_Year/September.md) 
+### #is_/same_as :: [[/_Standards/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Month_of_Year/September|September]] 
 
-### #is_/same_as :: [September.public](/_public/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Month_of_Year/September.public.md) 
+### #is_/same_as :: [[/_public/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Month_of_Year/September.public|September.public]] 
 
-### #is_/same_as :: [September.internal](/_internal/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Month_of_Year/September.internal.md) 
+### #is_/same_as :: [[/_internal/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Month_of_Year/September.internal|September.internal]] 
 
-### #is_/same_as :: [September.protect](/_protect/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Month_of_Year/September.protect.md) 
+### #is_/same_as :: [[/_protect/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Month_of_Year/September.protect|September.protect]] 
 
-### #is_/same_as :: [September.private](/_private/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Month_of_Year/September.private.md) 
+### #is_/same_as :: [[/_private/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Month_of_Year/September.private|September.private]] 
 
-### #is_/same_as :: [September.personal](/_personal/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Month_of_Year/September.personal.md) 
+### #is_/same_as :: [[/_personal/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Month_of_Year/September.personal|September.personal]] 
 
-### #is_/same_as :: [September.secret](/_secret/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Month_of_Year/September.secret.md)
+### #is_/same_as :: [[/_secret/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Month_of_Year/September.secret|September.secret]] 
 

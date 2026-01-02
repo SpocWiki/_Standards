@@ -49,17 +49,17 @@ Related actions:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Find_Action](/_Standards/schema-org/Class/is_a_/Action/Find_Action.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Action/Find_Action|Find_Action]] 
 
-### #is_/same_as :: [Find_Action.public](/_public/schema-org/Class/is_a_/Action/Find_Action.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Action/Find_Action.public|Find_Action.public]] 
 
-### #is_/same_as :: [Find_Action.internal](/_internal/schema-org/Class/is_a_/Action/Find_Action.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Action/Find_Action.internal|Find_Action.internal]] 
 
-### #is_/same_as :: [Find_Action.protect](/_protect/schema-org/Class/is_a_/Action/Find_Action.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Action/Find_Action.protect|Find_Action.protect]] 
 
-### #is_/same_as :: [Find_Action.private](/_private/schema-org/Class/is_a_/Action/Find_Action.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Action/Find_Action.private|Find_Action.private]] 
 
-### #is_/same_as :: [Find_Action.personal](/_personal/schema-org/Class/is_a_/Action/Find_Action.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Action/Find_Action.personal|Find_Action.personal]] 
 
-### #is_/same_as :: [Find_Action.secret](/_secret/schema-org/Class/is_a_/Action/Find_Action.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Action/Find_Action.secret|Find_Action.secret]] 
 

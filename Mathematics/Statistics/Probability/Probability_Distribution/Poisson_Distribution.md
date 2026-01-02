@@ -80,17 +80,17 @@ Commons_category: Poisson distribution
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Poisson_Distribution](/_Standards/Mathematics/Statistics/Probability/Probability_Distribution/Poisson_Distribution.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Statistics/Probability/Probability_Distribution/Poisson_Distribution|Poisson_Distribution]] 
 
-### #is_/same_as :: [Poisson_Distribution.public](/_public/Mathematics/Statistics/Probability/Probability_Distribution/Poisson_Distribution.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Statistics/Probability/Probability_Distribution/Poisson_Distribution.public|Poisson_Distribution.public]] 
 
-### #is_/same_as :: [Poisson_Distribution.internal](/_internal/Mathematics/Statistics/Probability/Probability_Distribution/Poisson_Distribution.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Statistics/Probability/Probability_Distribution/Poisson_Distribution.internal|Poisson_Distribution.internal]] 
 
-### #is_/same_as :: [Poisson_Distribution.protect](/_protect/Mathematics/Statistics/Probability/Probability_Distribution/Poisson_Distribution.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Statistics/Probability/Probability_Distribution/Poisson_Distribution.protect|Poisson_Distribution.protect]] 
 
-### #is_/same_as :: [Poisson_Distribution.private](/_private/Mathematics/Statistics/Probability/Probability_Distribution/Poisson_Distribution.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Statistics/Probability/Probability_Distribution/Poisson_Distribution.private|Poisson_Distribution.private]] 
 
-### #is_/same_as :: [Poisson_Distribution.personal](/_personal/Mathematics/Statistics/Probability/Probability_Distribution/Poisson_Distribution.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Statistics/Probability/Probability_Distribution/Poisson_Distribution.personal|Poisson_Distribution.personal]] 
 
-### #is_/same_as :: [Poisson_Distribution.secret](/_secret/Mathematics/Statistics/Probability/Probability_Distribution/Poisson_Distribution.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Statistics/Probability/Probability_Distribution/Poisson_Distribution.secret|Poisson_Distribution.secret]] 
 

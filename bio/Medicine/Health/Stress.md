@@ -57,17 +57,17 @@ MeSH_tree_code: G07.775
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Stress](/_Standards/bio/Medicine/Health/Stress.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Health/Stress|Stress]] 
 
-### #is_/same_as :: [Stress.public](/_public/bio/Medicine/Health/Stress.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Health/Stress.public|Stress.public]] 
 
-### #is_/same_as :: [Stress.internal](/_internal/bio/Medicine/Health/Stress.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Health/Stress.internal|Stress.internal]] 
 
-### #is_/same_as :: [Stress.protect](/_protect/bio/Medicine/Health/Stress.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Health/Stress.protect|Stress.protect]] 
 
-### #is_/same_as :: [Stress.private](/_private/bio/Medicine/Health/Stress.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Health/Stress.private|Stress.private]] 
 
-### #is_/same_as :: [Stress.personal](/_personal/bio/Medicine/Health/Stress.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Health/Stress.personal|Stress.personal]] 
 
-### #is_/same_as :: [Stress.secret](/_secret/bio/Medicine/Health/Stress.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Health/Stress.secret|Stress.secret]] 
 

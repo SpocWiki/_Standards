@@ -91,17 +91,17 @@ native_label: Manqa
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Scabies](/_Standards/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Scabies.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Scabies|Scabies]] 
 
-### #is_/same_as :: [Scabies.public](/_public/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Scabies.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Scabies.public|Scabies.public]] 
 
-### #is_/same_as :: [Scabies.internal](/_internal/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Scabies.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Scabies.internal|Scabies.internal]] 
 
-### #is_/same_as :: [Scabies.protect](/_protect/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Scabies.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Scabies.protect|Scabies.protect]] 
 
-### #is_/same_as :: [Scabies.private](/_private/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Scabies.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Scabies.private|Scabies.private]] 
 
-### #is_/same_as :: [Scabies.personal](/_personal/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Scabies.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Scabies.personal|Scabies.personal]] 
 
-### #is_/same_as :: [Scabies.secret](/_secret/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Scabies.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Scabies.secret|Scabies.secret]] 
 

@@ -47,17 +47,17 @@ MeSH_tree_code: G01.906.230
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Convection](/_Standards/Science/Physics/Fluid_Mechanics/Convection.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Fluid_Mechanics/Convection|Convection]] 
 
-### #is_/same_as :: [Convection.public](/_public/Science/Physics/Fluid_Mechanics/Convection.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Fluid_Mechanics/Convection.public|Convection.public]] 
 
-### #is_/same_as :: [Convection.internal](/_internal/Science/Physics/Fluid_Mechanics/Convection.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Fluid_Mechanics/Convection.internal|Convection.internal]] 
 
-### #is_/same_as :: [Convection.protect](/_protect/Science/Physics/Fluid_Mechanics/Convection.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Fluid_Mechanics/Convection.protect|Convection.protect]] 
 
-### #is_/same_as :: [Convection.private](/_private/Science/Physics/Fluid_Mechanics/Convection.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Fluid_Mechanics/Convection.private|Convection.private]] 
 
-### #is_/same_as :: [Convection.personal](/_personal/Science/Physics/Fluid_Mechanics/Convection.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Fluid_Mechanics/Convection.personal|Convection.personal]] 
 
-### #is_/same_as :: [Convection.secret](/_secret/Science/Physics/Fluid_Mechanics/Convection.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Fluid_Mechanics/Convection.secret|Convection.secret]] 
 

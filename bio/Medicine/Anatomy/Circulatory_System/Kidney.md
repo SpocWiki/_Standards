@@ -98,17 +98,17 @@ Krugosvet_article_archived_: nauka_i_tehnika/biologiya/POCHKI.html
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Kidney](/_Standards/bio/Medicine/Anatomy/Circulatory_System/Kidney.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Anatomy/Circulatory_System/Kidney|Kidney]] 
 
-### #is_/same_as :: [Kidney.public](/_public/bio/Medicine/Anatomy/Circulatory_System/Kidney.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Anatomy/Circulatory_System/Kidney.public|Kidney.public]] 
 
-### #is_/same_as :: [Kidney.internal](/_internal/bio/Medicine/Anatomy/Circulatory_System/Kidney.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Anatomy/Circulatory_System/Kidney.internal|Kidney.internal]] 
 
-### #is_/same_as :: [Kidney.protect](/_protect/bio/Medicine/Anatomy/Circulatory_System/Kidney.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Anatomy/Circulatory_System/Kidney.protect|Kidney.protect]] 
 
-### #is_/same_as :: [Kidney.private](/_private/bio/Medicine/Anatomy/Circulatory_System/Kidney.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Anatomy/Circulatory_System/Kidney.private|Kidney.private]] 
 
-### #is_/same_as :: [Kidney.personal](/_personal/bio/Medicine/Anatomy/Circulatory_System/Kidney.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Anatomy/Circulatory_System/Kidney.personal|Kidney.personal]] 
 
-### #is_/same_as :: [Kidney.secret](/_secret/bio/Medicine/Anatomy/Circulatory_System/Kidney.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Anatomy/Circulatory_System/Kidney.secret|Kidney.secret]] 
 

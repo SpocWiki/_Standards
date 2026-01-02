@@ -236,17 +236,17 @@ ISNI: 0000000121379687
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Klee,Paul](/_Standards/Society/Communication/Media/Painting/Painter/Klee,Paul.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Painting/Painter/Klee,Paul|Klee,Paul]] 
 
-### #is_/same_as :: [Klee,Paul.public](/_public/Society/Communication/Media/Painting/Painter/Klee,Paul.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Painting/Painter/Klee,Paul.public|Klee,Paul.public]] 
 
-### #is_/same_as :: [Klee,Paul.internal](/_internal/Society/Communication/Media/Painting/Painter/Klee,Paul.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Painting/Painter/Klee,Paul.internal|Klee,Paul.internal]] 
 
-### #is_/same_as :: [Klee,Paul.protect](/_protect/Society/Communication/Media/Painting/Painter/Klee,Paul.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Painting/Painter/Klee,Paul.protect|Klee,Paul.protect]] 
 
-### #is_/same_as :: [Klee,Paul.private](/_private/Society/Communication/Media/Painting/Painter/Klee,Paul.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Painting/Painter/Klee,Paul.private|Klee,Paul.private]] 
 
-### #is_/same_as :: [Klee,Paul.personal](/_personal/Society/Communication/Media/Painting/Painter/Klee,Paul.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Painting/Painter/Klee,Paul.personal|Klee,Paul.personal]] 
 
-### #is_/same_as :: [Klee,Paul.secret](/_secret/Society/Communication/Media/Painting/Painter/Klee,Paul.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Painting/Painter/Klee,Paul.secret|Klee,Paul.secret]] 
 

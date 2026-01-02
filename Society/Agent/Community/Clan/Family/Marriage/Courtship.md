@@ -56,17 +56,17 @@ IPTC_NewsCode: mediatopic/20000782
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Courtship](/_Standards/Society/Agent/Community/Clan/Family/Marriage/Courtship.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Clan/Family/Marriage/Courtship|Courtship]] 
 
-### #is_/same_as :: [Courtship.public](/_public/Society/Agent/Community/Clan/Family/Marriage/Courtship.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Clan/Family/Marriage/Courtship.public|Courtship.public]] 
 
-### #is_/same_as :: [Courtship.internal](/_internal/Society/Agent/Community/Clan/Family/Marriage/Courtship.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Clan/Family/Marriage/Courtship.internal|Courtship.internal]] 
 
-### #is_/same_as :: [Courtship.protect](/_protect/Society/Agent/Community/Clan/Family/Marriage/Courtship.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Clan/Family/Marriage/Courtship.protect|Courtship.protect]] 
 
-### #is_/same_as :: [Courtship.private](/_private/Society/Agent/Community/Clan/Family/Marriage/Courtship.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Clan/Family/Marriage/Courtship.private|Courtship.private]] 
 
-### #is_/same_as :: [Courtship.personal](/_personal/Society/Agent/Community/Clan/Family/Marriage/Courtship.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Clan/Family/Marriage/Courtship.personal|Courtship.personal]] 
 
-### #is_/same_as :: [Courtship.secret](/_secret/Society/Agent/Community/Clan/Family/Marriage/Courtship.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Clan/Family/Marriage/Courtship.secret|Courtship.secret]] 
 

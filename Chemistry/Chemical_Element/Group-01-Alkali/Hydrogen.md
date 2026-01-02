@@ -196,17 +196,17 @@ Hydrogen is classified by **"color labels"** to indicate the **primary energy so
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hydrogen](/_Standards/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen|Hydrogen]] 
 
-### #is_/same_as :: [Hydrogen.public](/_public/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen.public|Hydrogen.public]] 
 
-### #is_/same_as :: [Hydrogen.internal](/_internal/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen.internal|Hydrogen.internal]] 
 
-### #is_/same_as :: [Hydrogen.protect](/_protect/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen.protect|Hydrogen.protect]] 
 
-### #is_/same_as :: [Hydrogen.private](/_private/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen.private|Hydrogen.private]] 
 
-### #is_/same_as :: [Hydrogen.personal](/_personal/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen.personal|Hydrogen.personal]] 
 
-### #is_/same_as :: [Hydrogen.secret](/_secret/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen.secret|Hydrogen.secret]] 
 

@@ -44,17 +44,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_item_offered](/_Standards/schema-org/Relation/has/has_item_offered.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_item_offered|has_item_offered]] 
 
-### #is_/same_as :: [has_item_offered.public](/_public/schema-org/Relation/has/has_item_offered.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_item_offered.public|has_item_offered.public]] 
 
-### #is_/same_as :: [has_item_offered.internal](/_internal/schema-org/Relation/has/has_item_offered.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_item_offered.internal|has_item_offered.internal]] 
 
-### #is_/same_as :: [has_item_offered.protect](/_protect/schema-org/Relation/has/has_item_offered.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_item_offered.protect|has_item_offered.protect]] 
 
-### #is_/same_as :: [has_item_offered.private](/_private/schema-org/Relation/has/has_item_offered.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_item_offered.private|has_item_offered.private]] 
 
-### #is_/same_as :: [has_item_offered.personal](/_personal/schema-org/Relation/has/has_item_offered.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_item_offered.personal|has_item_offered.personal]] 
 
-### #is_/same_as :: [has_item_offered.secret](/_secret/schema-org/Relation/has/has_item_offered.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_item_offered.secret|has_item_offered.secret]] 
 

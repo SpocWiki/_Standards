@@ -76,17 +76,17 @@ U_S_National_Archives_Identifier: 10645208
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Violin](/_Standards/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Violin.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Violin|Violin]] 
 
-### #is_/same_as :: [Violin.public](/_public/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Violin.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Violin.public|Violin.public]] 
 
-### #is_/same_as :: [Violin.internal](/_internal/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Violin.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Violin.internal|Violin.internal]] 
 
-### #is_/same_as :: [Violin.protect](/_protect/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Violin.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Violin.protect|Violin.protect]] 
 
-### #is_/same_as :: [Violin.private](/_private/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Violin.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Violin.private|Violin.private]] 
 
-### #is_/same_as :: [Violin.personal](/_personal/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Violin.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Violin.personal|Violin.personal]] 
 
-### #is_/same_as :: [Violin.secret](/_secret/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Violin.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Violin.secret|Violin.secret]] 
 

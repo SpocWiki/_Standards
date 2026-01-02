@@ -21,17 +21,17 @@ Speed is the first Derivative of the [[../../Mathematics/Geometry/Geometry-2D/Tr
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Angular_Velocity](/_Standards/Dimension/Angular_Dimension/Angular_Velocity.md) 
+### #is_/same_as :: [[/_Standards/Dimension/Angular_Dimension/Angular_Velocity|Angular_Velocity]] 
 
-### #is_/same_as :: [Angular_Velocity.public](/_public/Dimension/Angular_Dimension/Angular_Velocity.public.md) 
+### #is_/same_as :: [[/_public/Dimension/Angular_Dimension/Angular_Velocity.public|Angular_Velocity.public]] 
 
-### #is_/same_as :: [Angular_Velocity.internal](/_internal/Dimension/Angular_Dimension/Angular_Velocity.internal.md) 
+### #is_/same_as :: [[/_internal/Dimension/Angular_Dimension/Angular_Velocity.internal|Angular_Velocity.internal]] 
 
-### #is_/same_as :: [Angular_Velocity.protect](/_protect/Dimension/Angular_Dimension/Angular_Velocity.protect.md) 
+### #is_/same_as :: [[/_protect/Dimension/Angular_Dimension/Angular_Velocity.protect|Angular_Velocity.protect]] 
 
-### #is_/same_as :: [Angular_Velocity.private](/_private/Dimension/Angular_Dimension/Angular_Velocity.private.md) 
+### #is_/same_as :: [[/_private/Dimension/Angular_Dimension/Angular_Velocity.private|Angular_Velocity.private]] 
 
-### #is_/same_as :: [Angular_Velocity.personal](/_personal/Dimension/Angular_Dimension/Angular_Velocity.personal.md) 
+### #is_/same_as :: [[/_personal/Dimension/Angular_Dimension/Angular_Velocity.personal|Angular_Velocity.personal]] 
 
-### #is_/same_as :: [Angular_Velocity.secret](/_secret/Dimension/Angular_Dimension/Angular_Velocity.secret.md)
+### #is_/same_as :: [[/_secret/Dimension/Angular_Dimension/Angular_Velocity.secret|Angular_Velocity.secret]] 
 

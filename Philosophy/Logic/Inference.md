@@ -56,17 +56,17 @@ Stack_Exchange_tag: https://stackoverflow.com/tags/inference
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Inference](/_Standards/Philosophy/Logic/Inference.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Logic/Inference|Inference]] 
 
-### #is_/same_as :: [Inference.public](/_public/Philosophy/Logic/Inference.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Logic/Inference.public|Inference.public]] 
 
-### #is_/same_as :: [Inference.internal](/_internal/Philosophy/Logic/Inference.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Logic/Inference.internal|Inference.internal]] 
 
-### #is_/same_as :: [Inference.protect](/_protect/Philosophy/Logic/Inference.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Logic/Inference.protect|Inference.protect]] 
 
-### #is_/same_as :: [Inference.private](/_private/Philosophy/Logic/Inference.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Logic/Inference.private|Inference.private]] 
 
-### #is_/same_as :: [Inference.personal](/_personal/Philosophy/Logic/Inference.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Logic/Inference.personal|Inference.personal]] 
 
-### #is_/same_as :: [Inference.secret](/_secret/Philosophy/Logic/Inference.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Logic/Inference.secret|Inference.secret]] 
 

@@ -34,17 +34,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bigelow,Kathryn](/_Standards/Society/Communication/Media/Movie/Movie-Director/Bigelow,Kathryn.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Director/Bigelow,Kathryn|Bigelow,Kathryn]] 
 
-### #is_/same_as :: [Bigelow,Kathryn.public](/_public/Society/Communication/Media/Movie/Movie-Director/Bigelow,Kathryn.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Director/Bigelow,Kathryn.public|Bigelow,Kathryn.public]] 
 
-### #is_/same_as :: [Bigelow,Kathryn.internal](/_internal/Society/Communication/Media/Movie/Movie-Director/Bigelow,Kathryn.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Director/Bigelow,Kathryn.internal|Bigelow,Kathryn.internal]] 
 
-### #is_/same_as :: [Bigelow,Kathryn.protect](/_protect/Society/Communication/Media/Movie/Movie-Director/Bigelow,Kathryn.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Director/Bigelow,Kathryn.protect|Bigelow,Kathryn.protect]] 
 
-### #is_/same_as :: [Bigelow,Kathryn.private](/_private/Society/Communication/Media/Movie/Movie-Director/Bigelow,Kathryn.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Director/Bigelow,Kathryn.private|Bigelow,Kathryn.private]] 
 
-### #is_/same_as :: [Bigelow,Kathryn.personal](/_personal/Society/Communication/Media/Movie/Movie-Director/Bigelow,Kathryn.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Director/Bigelow,Kathryn.personal|Bigelow,Kathryn.personal]] 
 
-### #is_/same_as :: [Bigelow,Kathryn.secret](/_secret/Society/Communication/Media/Movie/Movie-Director/Bigelow,Kathryn.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Director/Bigelow,Kathryn.secret|Bigelow,Kathryn.secret]] 
 

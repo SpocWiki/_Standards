@@ -59,17 +59,17 @@ Commons_category: Ice shelves
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ice_Shelf](/_Standards/Earth/Geology/Landform/Glacier/Ice_Shelf.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geology/Landform/Glacier/Ice_Shelf|Ice_Shelf]] 
 
-### #is_/same_as :: [Ice_Shelf.public](/_public/Earth/Geology/Landform/Glacier/Ice_Shelf.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geology/Landform/Glacier/Ice_Shelf.public|Ice_Shelf.public]] 
 
-### #is_/same_as :: [Ice_Shelf.internal](/_internal/Earth/Geology/Landform/Glacier/Ice_Shelf.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geology/Landform/Glacier/Ice_Shelf.internal|Ice_Shelf.internal]] 
 
-### #is_/same_as :: [Ice_Shelf.protect](/_protect/Earth/Geology/Landform/Glacier/Ice_Shelf.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geology/Landform/Glacier/Ice_Shelf.protect|Ice_Shelf.protect]] 
 
-### #is_/same_as :: [Ice_Shelf.private](/_private/Earth/Geology/Landform/Glacier/Ice_Shelf.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geology/Landform/Glacier/Ice_Shelf.private|Ice_Shelf.private]] 
 
-### #is_/same_as :: [Ice_Shelf.personal](/_personal/Earth/Geology/Landform/Glacier/Ice_Shelf.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geology/Landform/Glacier/Ice_Shelf.personal|Ice_Shelf.personal]] 
 
-### #is_/same_as :: [Ice_Shelf.secret](/_secret/Earth/Geology/Landform/Glacier/Ice_Shelf.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geology/Landform/Glacier/Ice_Shelf.secret|Ice_Shelf.secret]] 
 

@@ -44,17 +44,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_items](/_Standards/schema-org/Collection/has_items.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Collection/has_items|has_items]] 
 
-### #is_/same_as :: [has_items.public](/_public/schema-org/Collection/has_items.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Collection/has_items.public|has_items.public]] 
 
-### #is_/same_as :: [has_items.internal](/_internal/schema-org/Collection/has_items.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Collection/has_items.internal|has_items.internal]] 
 
-### #is_/same_as :: [has_items.protect](/_protect/schema-org/Collection/has_items.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Collection/has_items.protect|has_items.protect]] 
 
-### #is_/same_as :: [has_items.private](/_private/schema-org/Collection/has_items.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Collection/has_items.private|has_items.private]] 
 
-### #is_/same_as :: [has_items.personal](/_personal/schema-org/Collection/has_items.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Collection/has_items.personal|has_items.personal]] 
 
-### #is_/same_as :: [has_items.secret](/_secret/schema-org/Collection/has_items.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Collection/has_items.secret|has_items.secret]] 
 

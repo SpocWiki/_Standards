@@ -333,17 +333,17 @@ compound assignment operators like `+=` and `-=` are also allowed:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [CSharp](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Multi-Paradigm/CSharp.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Multi-Paradigm/CSharp|CSharp]] 
 
-### #is_/same_as :: [CSharp.public](/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Multi-Paradigm/CSharp.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Multi-Paradigm/CSharp.public|CSharp.public]] 
 
-### #is_/same_as :: [CSharp.internal](/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Multi-Paradigm/CSharp.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Multi-Paradigm/CSharp.internal|CSharp.internal]] 
 
-### #is_/same_as :: [CSharp.protect](/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Multi-Paradigm/CSharp.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Multi-Paradigm/CSharp.protect|CSharp.protect]] 
 
-### #is_/same_as :: [CSharp.private](/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Multi-Paradigm/CSharp.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Multi-Paradigm/CSharp.private|CSharp.private]] 
 
-### #is_/same_as :: [CSharp.personal](/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Multi-Paradigm/CSharp.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Multi-Paradigm/CSharp.personal|CSharp.personal]] 
 
-### #is_/same_as :: [CSharp.secret](/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Multi-Paradigm/CSharp.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Multi-Paradigm/CSharp.secret|CSharp.secret]] 
 

@@ -100,17 +100,17 @@ N4IgLgngDgpiBcIYA8DGBDANgSwCYCd0B3EAGhADcZ8BnbAewDsEAmcm+gV31TkQAswYKDXgB6MQHNsY
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Semmelweis,Ignaz](/_Standards/bio/Medicine/Medical_Enumeration/Medical_Audience_Type/Medical_Researcher/Semmelweis,Ignaz.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Enumeration/Medical_Audience_Type/Medical_Researcher/Semmelweis,Ignaz|Semmelweis,Ignaz]] 
 
-### #is_/same_as :: [Semmelweis,Ignaz.public](/_public/bio/Medicine/Medical_Enumeration/Medical_Audience_Type/Medical_Researcher/Semmelweis,Ignaz.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Enumeration/Medical_Audience_Type/Medical_Researcher/Semmelweis,Ignaz.public|Semmelweis,Ignaz.public]] 
 
-### #is_/same_as :: [Semmelweis,Ignaz.internal](/_internal/bio/Medicine/Medical_Enumeration/Medical_Audience_Type/Medical_Researcher/Semmelweis,Ignaz.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Enumeration/Medical_Audience_Type/Medical_Researcher/Semmelweis,Ignaz.internal|Semmelweis,Ignaz.internal]] 
 
-### #is_/same_as :: [Semmelweis,Ignaz.protect](/_protect/bio/Medicine/Medical_Enumeration/Medical_Audience_Type/Medical_Researcher/Semmelweis,Ignaz.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Enumeration/Medical_Audience_Type/Medical_Researcher/Semmelweis,Ignaz.protect|Semmelweis,Ignaz.protect]] 
 
-### #is_/same_as :: [Semmelweis,Ignaz.private](/_private/bio/Medicine/Medical_Enumeration/Medical_Audience_Type/Medical_Researcher/Semmelweis,Ignaz.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Enumeration/Medical_Audience_Type/Medical_Researcher/Semmelweis,Ignaz.private|Semmelweis,Ignaz.private]] 
 
-### #is_/same_as :: [Semmelweis,Ignaz.personal](/_personal/bio/Medicine/Medical_Enumeration/Medical_Audience_Type/Medical_Researcher/Semmelweis,Ignaz.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Enumeration/Medical_Audience_Type/Medical_Researcher/Semmelweis,Ignaz.personal|Semmelweis,Ignaz.personal]] 
 
-### #is_/same_as :: [Semmelweis,Ignaz.secret](/_secret/bio/Medicine/Medical_Enumeration/Medical_Audience_Type/Medical_Researcher/Semmelweis,Ignaz.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Enumeration/Medical_Audience_Type/Medical_Researcher/Semmelweis,Ignaz.secret|Semmelweis,Ignaz.secret]] 
 

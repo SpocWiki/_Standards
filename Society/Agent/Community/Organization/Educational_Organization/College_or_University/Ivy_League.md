@@ -67,17 +67,17 @@ official_website: https://www.ivyleaguesports.com
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ivy League](/_Standards/Society/Agent/Community/Organization/Educational_Organization/College_or_University/Ivy League.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Educational_Organization/College_or_University/Ivy_League|Ivy_League]] 
 
-### #is_/same_as :: [Ivy League.public](/_public/Society/Agent/Community/Organization/Educational_Organization/College_or_University/Ivy League.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Educational_Organization/College_or_University/Ivy_League.public|Ivy_League.public]] 
 
-### #is_/same_as :: [Ivy League.internal](/_internal/Society/Agent/Community/Organization/Educational_Organization/College_or_University/Ivy League.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Educational_Organization/College_or_University/Ivy_League.internal|Ivy_League.internal]] 
 
-### #is_/same_as :: [Ivy League.protect](/_protect/Society/Agent/Community/Organization/Educational_Organization/College_or_University/Ivy League.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Educational_Organization/College_or_University/Ivy_League.protect|Ivy_League.protect]] 
 
-### #is_/same_as :: [Ivy League.private](/_private/Society/Agent/Community/Organization/Educational_Organization/College_or_University/Ivy League.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Educational_Organization/College_or_University/Ivy_League.private|Ivy_League.private]] 
 
-### #is_/same_as :: [Ivy League.personal](/_personal/Society/Agent/Community/Organization/Educational_Organization/College_or_University/Ivy League.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Educational_Organization/College_or_University/Ivy_League.personal|Ivy_League.personal]] 
 
-### #is_/same_as :: [Ivy League.secret](/_secret/Society/Agent/Community/Organization/Educational_Organization/College_or_University/Ivy League.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Educational_Organization/College_or_University/Ivy_League.secret|Ivy_League.secret]] 
 

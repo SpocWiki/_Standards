@@ -70,17 +70,17 @@ isomeric_SMILES: N([C@@H]1[C@H](O[C@@H]([C@@H]([C@H]1O)O)CO)*O*[C@@H]1[C@@H](O)[
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Chitin](/_Standards/bio/Metabolism/Nutrition/Carbohydrate/Polysaccharide/Chitin.md) 
+### #is_/same_as :: [[/_Standards/bio/Metabolism/Nutrition/Carbohydrate/Polysaccharide/Chitin|Chitin]] 
 
-### #is_/same_as :: [Chitin.public](/_public/bio/Metabolism/Nutrition/Carbohydrate/Polysaccharide/Chitin.public.md) 
+### #is_/same_as :: [[/_public/bio/Metabolism/Nutrition/Carbohydrate/Polysaccharide/Chitin.public|Chitin.public]] 
 
-### #is_/same_as :: [Chitin.internal](/_internal/bio/Metabolism/Nutrition/Carbohydrate/Polysaccharide/Chitin.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Metabolism/Nutrition/Carbohydrate/Polysaccharide/Chitin.internal|Chitin.internal]] 
 
-### #is_/same_as :: [Chitin.protect](/_protect/bio/Metabolism/Nutrition/Carbohydrate/Polysaccharide/Chitin.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Metabolism/Nutrition/Carbohydrate/Polysaccharide/Chitin.protect|Chitin.protect]] 
 
-### #is_/same_as :: [Chitin.private](/_private/bio/Metabolism/Nutrition/Carbohydrate/Polysaccharide/Chitin.private.md) 
+### #is_/same_as :: [[/_private/bio/Metabolism/Nutrition/Carbohydrate/Polysaccharide/Chitin.private|Chitin.private]] 
 
-### #is_/same_as :: [Chitin.personal](/_personal/bio/Metabolism/Nutrition/Carbohydrate/Polysaccharide/Chitin.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Metabolism/Nutrition/Carbohydrate/Polysaccharide/Chitin.personal|Chitin.personal]] 
 
-### #is_/same_as :: [Chitin.secret](/_secret/bio/Metabolism/Nutrition/Carbohydrate/Polysaccharide/Chitin.secret.md)
+### #is_/same_as :: [[/_secret/bio/Metabolism/Nutrition/Carbohydrate/Polysaccharide/Chitin.secret|Chitin.secret]] 
 

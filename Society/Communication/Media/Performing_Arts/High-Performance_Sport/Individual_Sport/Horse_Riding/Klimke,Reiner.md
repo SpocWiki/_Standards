@@ -71,17 +71,17 @@ name_in_native_language: Reiner Klimke
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Klimke,Reiner](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Horse_Riding/Klimke,Reiner.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Horse_Riding/Klimke,Reiner|Klimke,Reiner]] 
 
-### #is_/same_as :: [Klimke,Reiner.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Horse_Riding/Klimke,Reiner.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Horse_Riding/Klimke,Reiner.public|Klimke,Reiner.public]] 
 
-### #is_/same_as :: [Klimke,Reiner.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Horse_Riding/Klimke,Reiner.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Horse_Riding/Klimke,Reiner.internal|Klimke,Reiner.internal]] 
 
-### #is_/same_as :: [Klimke,Reiner.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Horse_Riding/Klimke,Reiner.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Horse_Riding/Klimke,Reiner.protect|Klimke,Reiner.protect]] 
 
-### #is_/same_as :: [Klimke,Reiner.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Horse_Riding/Klimke,Reiner.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Horse_Riding/Klimke,Reiner.private|Klimke,Reiner.private]] 
 
-### #is_/same_as :: [Klimke,Reiner.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Horse_Riding/Klimke,Reiner.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Horse_Riding/Klimke,Reiner.personal|Klimke,Reiner.personal]] 
 
-### #is_/same_as :: [Klimke,Reiner.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Horse_Riding/Klimke,Reiner.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Horse_Riding/Klimke,Reiner.secret|Klimke,Reiner.secret]] 
 

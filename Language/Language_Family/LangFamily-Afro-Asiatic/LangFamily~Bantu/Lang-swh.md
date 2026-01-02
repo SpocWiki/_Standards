@@ -85,17 +85,17 @@ ISO_639_3_code: swh
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lang-swh](/_Standards/Language/Language_Family/LangFamily-Afro-Asiatic/LangFamily~Bantu/Lang-swh.md) 
+### #is_/same_as :: [[/_Standards/Language/Language_Family/LangFamily-Afro-Asiatic/LangFamily~Bantu/Lang-swh|Lang-swh]] 
 
-### #is_/same_as :: [Lang-swh.public](/_public/Language/Language_Family/LangFamily-Afro-Asiatic/LangFamily~Bantu/Lang-swh.public.md) 
+### #is_/same_as :: [[/_public/Language/Language_Family/LangFamily-Afro-Asiatic/LangFamily~Bantu/Lang-swh.public|Lang-swh.public]] 
 
-### #is_/same_as :: [Lang-swh.internal](/_internal/Language/Language_Family/LangFamily-Afro-Asiatic/LangFamily~Bantu/Lang-swh.internal.md) 
+### #is_/same_as :: [[/_internal/Language/Language_Family/LangFamily-Afro-Asiatic/LangFamily~Bantu/Lang-swh.internal|Lang-swh.internal]] 
 
-### #is_/same_as :: [Lang-swh.protect](/_protect/Language/Language_Family/LangFamily-Afro-Asiatic/LangFamily~Bantu/Lang-swh.protect.md) 
+### #is_/same_as :: [[/_protect/Language/Language_Family/LangFamily-Afro-Asiatic/LangFamily~Bantu/Lang-swh.protect|Lang-swh.protect]] 
 
-### #is_/same_as :: [Lang-swh.private](/_private/Language/Language_Family/LangFamily-Afro-Asiatic/LangFamily~Bantu/Lang-swh.private.md) 
+### #is_/same_as :: [[/_private/Language/Language_Family/LangFamily-Afro-Asiatic/LangFamily~Bantu/Lang-swh.private|Lang-swh.private]] 
 
-### #is_/same_as :: [Lang-swh.personal](/_personal/Language/Language_Family/LangFamily-Afro-Asiatic/LangFamily~Bantu/Lang-swh.personal.md) 
+### #is_/same_as :: [[/_personal/Language/Language_Family/LangFamily-Afro-Asiatic/LangFamily~Bantu/Lang-swh.personal|Lang-swh.personal]] 
 
-### #is_/same_as :: [Lang-swh.secret](/_secret/Language/Language_Family/LangFamily-Afro-Asiatic/LangFamily~Bantu/Lang-swh.secret.md)
+### #is_/same_as :: [[/_secret/Language/Language_Family/LangFamily-Afro-Asiatic/LangFamily~Bantu/Lang-swh.secret|Lang-swh.secret]] 
 

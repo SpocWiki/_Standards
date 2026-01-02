@@ -17,17 +17,17 @@ This external image can be accompanied by either
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Nice_Guy](/_Standards/Society/Ideology/Political_Ideology/Fascism/Nice_Guy.md) 
+### #is_/same_as :: [[/_Standards/Society/Ideology/Political_Ideology/Fascism/Nice_Guy|Nice_Guy]] 
 
-### #is_/same_as :: [Nice_Guy.public](/_public/Society/Ideology/Political_Ideology/Fascism/Nice_Guy.public.md) 
+### #is_/same_as :: [[/_public/Society/Ideology/Political_Ideology/Fascism/Nice_Guy.public|Nice_Guy.public]] 
 
-### #is_/same_as :: [Nice_Guy.internal](/_internal/Society/Ideology/Political_Ideology/Fascism/Nice_Guy.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Ideology/Political_Ideology/Fascism/Nice_Guy.internal|Nice_Guy.internal]] 
 
-### #is_/same_as :: [Nice_Guy.protect](/_protect/Society/Ideology/Political_Ideology/Fascism/Nice_Guy.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Ideology/Political_Ideology/Fascism/Nice_Guy.protect|Nice_Guy.protect]] 
 
-### #is_/same_as :: [Nice_Guy.private](/_private/Society/Ideology/Political_Ideology/Fascism/Nice_Guy.private.md) 
+### #is_/same_as :: [[/_private/Society/Ideology/Political_Ideology/Fascism/Nice_Guy.private|Nice_Guy.private]] 
 
-### #is_/same_as :: [Nice_Guy.personal](/_personal/Society/Ideology/Political_Ideology/Fascism/Nice_Guy.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Ideology/Political_Ideology/Fascism/Nice_Guy.personal|Nice_Guy.personal]] 
 
-### #is_/same_as :: [Nice_Guy.secret](/_secret/Society/Ideology/Political_Ideology/Fascism/Nice_Guy.secret.md)
+### #is_/same_as :: [[/_secret/Society/Ideology/Political_Ideology/Fascism/Nice_Guy.secret|Nice_Guy.secret]] 
 

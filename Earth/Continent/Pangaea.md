@@ -26,17 +26,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Pangaea](/_Standards/Earth/Continent/Pangaea.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Pangaea|Pangaea]] 
 
-### #is_/same_as :: [Pangaea.public](/_public/Earth/Continent/Pangaea.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Pangaea.public|Pangaea.public]] 
 
-### #is_/same_as :: [Pangaea.internal](/_internal/Earth/Continent/Pangaea.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Pangaea.internal|Pangaea.internal]] 
 
-### #is_/same_as :: [Pangaea.protect](/_protect/Earth/Continent/Pangaea.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Pangaea.protect|Pangaea.protect]] 
 
-### #is_/same_as :: [Pangaea.private](/_private/Earth/Continent/Pangaea.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Pangaea.private|Pangaea.private]] 
 
-### #is_/same_as :: [Pangaea.personal](/_personal/Earth/Continent/Pangaea.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Pangaea.personal|Pangaea.personal]] 
 
-### #is_/same_as :: [Pangaea.secret](/_secret/Earth/Continent/Pangaea.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Pangaea.secret|Pangaea.secret]] 
 

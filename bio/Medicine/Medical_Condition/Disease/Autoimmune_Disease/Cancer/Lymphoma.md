@@ -110,17 +110,17 @@ Commons_category: Lymphomas
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lymphoma](/_Standards/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Cancer/Lymphoma.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Cancer/Lymphoma|Lymphoma]] 
 
-### #is_/same_as :: [Lymphoma.public](/_public/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Cancer/Lymphoma.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Cancer/Lymphoma.public|Lymphoma.public]] 
 
-### #is_/same_as :: [Lymphoma.internal](/_internal/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Cancer/Lymphoma.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Cancer/Lymphoma.internal|Lymphoma.internal]] 
 
-### #is_/same_as :: [Lymphoma.protect](/_protect/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Cancer/Lymphoma.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Cancer/Lymphoma.protect|Lymphoma.protect]] 
 
-### #is_/same_as :: [Lymphoma.private](/_private/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Cancer/Lymphoma.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Cancer/Lymphoma.private|Lymphoma.private]] 
 
-### #is_/same_as :: [Lymphoma.personal](/_personal/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Cancer/Lymphoma.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Cancer/Lymphoma.personal|Lymphoma.personal]] 
 
-### #is_/same_as :: [Lymphoma.secret](/_secret/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Cancer/Lymphoma.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Cancer/Lymphoma.secret|Lymphoma.secret]] 
 

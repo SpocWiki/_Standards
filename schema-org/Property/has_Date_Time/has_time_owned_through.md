@@ -42,17 +42,17 @@ Formal Predicate:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_time_owned_through](/_Standards/schema-org/Property/has_Date_Time/has_time_owned_through.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_Date_Time/has_time_owned_through|has_time_owned_through]] 
 
-### #is_/same_as :: [has_time_owned_through.public](/_public/schema-org/Property/has_Date_Time/has_time_owned_through.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/has_Date_Time/has_time_owned_through.public|has_time_owned_through.public]] 
 
-### #is_/same_as :: [has_time_owned_through.internal](/_internal/schema-org/Property/has_Date_Time/has_time_owned_through.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_Date_Time/has_time_owned_through.internal|has_time_owned_through.internal]] 
 
-### #is_/same_as :: [has_time_owned_through.protect](/_protect/schema-org/Property/has_Date_Time/has_time_owned_through.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_Date_Time/has_time_owned_through.protect|has_time_owned_through.protect]] 
 
-### #is_/same_as :: [has_time_owned_through.private](/_private/schema-org/Property/has_Date_Time/has_time_owned_through.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/has_Date_Time/has_time_owned_through.private|has_time_owned_through.private]] 
 
-### #is_/same_as :: [has_time_owned_through.personal](/_personal/schema-org/Property/has_Date_Time/has_time_owned_through.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_Date_Time/has_time_owned_through.personal|has_time_owned_through.personal]] 
 
-### #is_/same_as :: [has_time_owned_through.secret](/_secret/schema-org/Property/has_Date_Time/has_time_owned_through.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/has_Date_Time/has_time_owned_through.secret|has_time_owned_through.secret]] 
 

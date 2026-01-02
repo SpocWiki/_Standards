@@ -55,17 +55,17 @@ Creative Commons is a global nonprofit organization dedicated to expanding the r
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [CC-Licenses](/_Standards/Schemas/cc/CC-Licenses.md) 
+### #is_/same_as :: [[/_Standards/Schemas/cc/CC-Licenses|CC-Licenses]] 
 
-### #is_/same_as :: [CC-Licenses.public](/_public/Schemas/cc/CC-Licenses.public.md) 
+### #is_/same_as :: [[/_public/Schemas/cc/CC-Licenses.public|CC-Licenses.public]] 
 
-### #is_/same_as :: [CC-Licenses.internal](/_internal/Schemas/cc/CC-Licenses.internal.md) 
+### #is_/same_as :: [[/_internal/Schemas/cc/CC-Licenses.internal|CC-Licenses.internal]] 
 
-### #is_/same_as :: [CC-Licenses.protect](/_protect/Schemas/cc/CC-Licenses.protect.md) 
+### #is_/same_as :: [[/_protect/Schemas/cc/CC-Licenses.protect|CC-Licenses.protect]] 
 
-### #is_/same_as :: [CC-Licenses.private](/_private/Schemas/cc/CC-Licenses.private.md) 
+### #is_/same_as :: [[/_private/Schemas/cc/CC-Licenses.private|CC-Licenses.private]] 
 
-### #is_/same_as :: [CC-Licenses.personal](/_personal/Schemas/cc/CC-Licenses.personal.md) 
+### #is_/same_as :: [[/_personal/Schemas/cc/CC-Licenses.personal|CC-Licenses.personal]] 
 
-### #is_/same_as :: [CC-Licenses.secret](/_secret/Schemas/cc/CC-Licenses.secret.md)
+### #is_/same_as :: [[/_secret/Schemas/cc/CC-Licenses.secret|CC-Licenses.secret]] 
 

@@ -68,17 +68,17 @@ label_in_sign_language: http://commons.wikimedia.org/wiki/Special:FilePath/Csc-e
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Summer](/_Standards/Earth/Climate/Season/Summer.md) 
+### #is_/same_as :: [[/_Standards/Earth/Climate/Season/Summer|Summer]] 
 
-### #is_/same_as :: [Summer.public](/_public/Earth/Climate/Season/Summer.public.md) 
+### #is_/same_as :: [[/_public/Earth/Climate/Season/Summer.public|Summer.public]] 
 
-### #is_/same_as :: [Summer.internal](/_internal/Earth/Climate/Season/Summer.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Climate/Season/Summer.internal|Summer.internal]] 
 
-### #is_/same_as :: [Summer.protect](/_protect/Earth/Climate/Season/Summer.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Climate/Season/Summer.protect|Summer.protect]] 
 
-### #is_/same_as :: [Summer.private](/_private/Earth/Climate/Season/Summer.private.md) 
+### #is_/same_as :: [[/_private/Earth/Climate/Season/Summer.private|Summer.private]] 
 
-### #is_/same_as :: [Summer.personal](/_personal/Earth/Climate/Season/Summer.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Climate/Season/Summer.personal|Summer.personal]] 
 
-### #is_/same_as :: [Summer.secret](/_secret/Earth/Climate/Season/Summer.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Climate/Season/Summer.secret|Summer.secret]] 
 

@@ -376,17 +376,17 @@ filters:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [_CountryStateDB](/_Standards/Earth/Continent/_CountryStateDB.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/_CountryStateDB|_CountryStateDB]] 
 
-### #is_/same_as :: [_CountryStateDB.public](/_public/Earth/Continent/_CountryStateDB.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/_CountryStateDB.public|_CountryStateDB.public]] 
 
-### #is_/same_as :: [_CountryStateDB.internal](/_internal/Earth/Continent/_CountryStateDB.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/_CountryStateDB.internal|_CountryStateDB.internal]] 
 
-### #is_/same_as :: [_CountryStateDB.protect](/_protect/Earth/Continent/_CountryStateDB.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/_CountryStateDB.protect|_CountryStateDB.protect]] 
 
-### #is_/same_as :: [_CountryStateDB.private](/_private/Earth/Continent/_CountryStateDB.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/_CountryStateDB.private|_CountryStateDB.private]] 
 
-### #is_/same_as :: [_CountryStateDB.personal](/_personal/Earth/Continent/_CountryStateDB.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/_CountryStateDB.personal|_CountryStateDB.personal]] 
 
-### #is_/same_as :: [_CountryStateDB.secret](/_secret/Earth/Continent/_CountryStateDB.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/_CountryStateDB.secret|_CountryStateDB.secret]] 
 

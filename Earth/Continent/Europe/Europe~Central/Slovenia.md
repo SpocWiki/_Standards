@@ -689,17 +689,17 @@ Capital :: [[Slovenia/Regions~Slovenia/Osrednje_slovenska/counties~Osrednjeslove
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Slovenia](/_Standards/Earth/Continent/Europe/Europe~Central/Slovenia.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Slovenia|Slovenia]] 
 
-### #is_/same_as :: [Slovenia.public](/_public/Earth/Continent/Europe/Europe~Central/Slovenia.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Slovenia.public|Slovenia.public]] 
 
-### #is_/same_as :: [Slovenia.internal](/_internal/Earth/Continent/Europe/Europe~Central/Slovenia.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Slovenia.internal|Slovenia.internal]] 
 
-### #is_/same_as :: [Slovenia.protect](/_protect/Earth/Continent/Europe/Europe~Central/Slovenia.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Slovenia.protect|Slovenia.protect]] 
 
-### #is_/same_as :: [Slovenia.private](/_private/Earth/Continent/Europe/Europe~Central/Slovenia.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Slovenia.private|Slovenia.private]] 
 
-### #is_/same_as :: [Slovenia.personal](/_personal/Earth/Continent/Europe/Europe~Central/Slovenia.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Slovenia.personal|Slovenia.personal]] 
 
-### #is_/same_as :: [Slovenia.secret](/_secret/Earth/Continent/Europe/Europe~Central/Slovenia.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Slovenia.secret|Slovenia.secret]] 
 

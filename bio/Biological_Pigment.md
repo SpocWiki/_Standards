@@ -46,17 +46,17 @@ hashtag: Q910979
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Biological_Pigment](/_Standards/bio/Biological_Pigment.md) 
+### #is_/same_as :: [[/_Standards/bio/Biological_Pigment|Biological_Pigment]] 
 
-### #is_/same_as :: [Biological_Pigment.public](/_public/bio/Biological_Pigment.public.md) 
+### #is_/same_as :: [[/_public/bio/Biological_Pigment.public|Biological_Pigment.public]] 
 
-### #is_/same_as :: [Biological_Pigment.internal](/_internal/bio/Biological_Pigment.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Biological_Pigment.internal|Biological_Pigment.internal]] 
 
-### #is_/same_as :: [Biological_Pigment.protect](/_protect/bio/Biological_Pigment.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Biological_Pigment.protect|Biological_Pigment.protect]] 
 
-### #is_/same_as :: [Biological_Pigment.private](/_private/bio/Biological_Pigment.private.md) 
+### #is_/same_as :: [[/_private/bio/Biological_Pigment.private|Biological_Pigment.private]] 
 
-### #is_/same_as :: [Biological_Pigment.personal](/_personal/bio/Biological_Pigment.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Biological_Pigment.personal|Biological_Pigment.personal]] 
 
-### #is_/same_as :: [Biological_Pigment.secret](/_secret/bio/Biological_Pigment.secret.md)
+### #is_/same_as :: [[/_secret/bio/Biological_Pigment.secret|Biological_Pigment.secret]] 
 

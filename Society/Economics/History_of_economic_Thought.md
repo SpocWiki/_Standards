@@ -38,17 +38,17 @@ PhilPapers_topic: history-of-economics
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [History_of_economic_Thought](/_Standards/Society/Economics/History_of_economic_Thought.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/History_of_economic_Thought|History_of_economic_Thought]] 
 
-### #is_/same_as :: [History_of_economic_Thought.public](/_public/Society/Economics/History_of_economic_Thought.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/History_of_economic_Thought.public|History_of_economic_Thought.public]] 
 
-### #is_/same_as :: [History_of_economic_Thought.internal](/_internal/Society/Economics/History_of_economic_Thought.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/History_of_economic_Thought.internal|History_of_economic_Thought.internal]] 
 
-### #is_/same_as :: [History_of_economic_Thought.protect](/_protect/Society/Economics/History_of_economic_Thought.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/History_of_economic_Thought.protect|History_of_economic_Thought.protect]] 
 
-### #is_/same_as :: [History_of_economic_Thought.private](/_private/Society/Economics/History_of_economic_Thought.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/History_of_economic_Thought.private|History_of_economic_Thought.private]] 
 
-### #is_/same_as :: [History_of_economic_Thought.personal](/_personal/Society/Economics/History_of_economic_Thought.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/History_of_economic_Thought.personal|History_of_economic_Thought.personal]] 
 
-### #is_/same_as :: [History_of_economic_Thought.secret](/_secret/Society/Economics/History_of_economic_Thought.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/History_of_economic_Thought.secret|History_of_economic_Thought.secret]] 
 

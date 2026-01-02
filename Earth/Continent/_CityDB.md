@@ -346,17 +346,17 @@ filters:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [_CityDB](/_Standards/Earth/Continent/_CityDB.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/_CityDB|_CityDB]] 
 
-### #is_/same_as :: [_CityDB.public](/_public/Earth/Continent/_CityDB.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/_CityDB.public|_CityDB.public]] 
 
-### #is_/same_as :: [_CityDB.internal](/_internal/Earth/Continent/_CityDB.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/_CityDB.internal|_CityDB.internal]] 
 
-### #is_/same_as :: [_CityDB.protect](/_protect/Earth/Continent/_CityDB.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/_CityDB.protect|_CityDB.protect]] 
 
-### #is_/same_as :: [_CityDB.private](/_private/Earth/Continent/_CityDB.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/_CityDB.private|_CityDB.private]] 
 
-### #is_/same_as :: [_CityDB.personal](/_personal/Earth/Continent/_CityDB.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/_CityDB.personal|_CityDB.personal]] 
 
-### #is_/same_as :: [_CityDB.secret](/_secret/Earth/Continent/_CityDB.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/_CityDB.secret|_CityDB.secret]] 
 

@@ -85,17 +85,17 @@ ISNI: "0000000107855341"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hipparchus](/_Standards/Astronomy/Astronomer/Hipparchus.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Astronomer/Hipparchus|Hipparchus]] 
 
-### #is_/same_as :: [Hipparchus.public](/_public/Astronomy/Astronomer/Hipparchus.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Astronomer/Hipparchus.public|Hipparchus.public]] 
 
-### #is_/same_as :: [Hipparchus.internal](/_internal/Astronomy/Astronomer/Hipparchus.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Astronomer/Hipparchus.internal|Hipparchus.internal]] 
 
-### #is_/same_as :: [Hipparchus.protect](/_protect/Astronomy/Astronomer/Hipparchus.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Astronomer/Hipparchus.protect|Hipparchus.protect]] 
 
-### #is_/same_as :: [Hipparchus.private](/_private/Astronomy/Astronomer/Hipparchus.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Astronomer/Hipparchus.private|Hipparchus.private]] 
 
-### #is_/same_as :: [Hipparchus.personal](/_personal/Astronomy/Astronomer/Hipparchus.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Astronomer/Hipparchus.personal|Hipparchus.personal]] 
 
-### #is_/same_as :: [Hipparchus.secret](/_secret/Astronomy/Astronomer/Hipparchus.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Astronomer/Hipparchus.secret|Hipparchus.secret]] 
 

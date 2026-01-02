@@ -69,17 +69,17 @@ Gujarati_Vishwakosh_entry: આર્ટ-નૂવો
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [1880-Art_Nouveau+1910](/_Standards/Society/Communication/Art/Art_History/1880-Art_Nouveau+1910.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Art/Art_History/1880-Art_Nouveau+1910|1880-Art_Nouveau+1910]] 
 
-### #is_/same_as :: [1880-Art_Nouveau+1910.public](/_public/Society/Communication/Art/Art_History/1880-Art_Nouveau+1910.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Art/Art_History/1880-Art_Nouveau+1910.public|1880-Art_Nouveau+1910.public]] 
 
-### #is_/same_as :: [1880-Art_Nouveau+1910.internal](/_internal/Society/Communication/Art/Art_History/1880-Art_Nouveau+1910.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Art/Art_History/1880-Art_Nouveau+1910.internal|1880-Art_Nouveau+1910.internal]] 
 
-### #is_/same_as :: [1880-Art_Nouveau+1910.protect](/_protect/Society/Communication/Art/Art_History/1880-Art_Nouveau+1910.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Art/Art_History/1880-Art_Nouveau+1910.protect|1880-Art_Nouveau+1910.protect]] 
 
-### #is_/same_as :: [1880-Art_Nouveau+1910.private](/_private/Society/Communication/Art/Art_History/1880-Art_Nouveau+1910.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Art/Art_History/1880-Art_Nouveau+1910.private|1880-Art_Nouveau+1910.private]] 
 
-### #is_/same_as :: [1880-Art_Nouveau+1910.personal](/_personal/Society/Communication/Art/Art_History/1880-Art_Nouveau+1910.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Art/Art_History/1880-Art_Nouveau+1910.personal|1880-Art_Nouveau+1910.personal]] 
 
-### #is_/same_as :: [1880-Art_Nouveau+1910.secret](/_secret/Society/Communication/Art/Art_History/1880-Art_Nouveau+1910.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Art/Art_History/1880-Art_Nouveau+1910.secret|1880-Art_Nouveau+1910.secret]] 
 

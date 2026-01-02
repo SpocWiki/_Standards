@@ -282,17 +282,17 @@ Y_DNA_Haplogroup: '[[_Standards/WikiData/WD~Haplogroup_R1b,674896]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Darwin,Charles](/_Standards/Science/Scientist/Modern_Scientists/Darwin,Charles.md) 
+### #is_/same_as :: [[/_Standards/Science/Scientist/Modern_Scientists/Darwin,Charles|Darwin,Charles]] 
 
-### #is_/same_as :: [Darwin,Charles.public](/_public/Science/Scientist/Modern_Scientists/Darwin,Charles.public.md) 
+### #is_/same_as :: [[/_public/Science/Scientist/Modern_Scientists/Darwin,Charles.public|Darwin,Charles.public]] 
 
-### #is_/same_as :: [Darwin,Charles.internal](/_internal/Science/Scientist/Modern_Scientists/Darwin,Charles.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Scientist/Modern_Scientists/Darwin,Charles.internal|Darwin,Charles.internal]] 
 
-### #is_/same_as :: [Darwin,Charles.protect](/_protect/Science/Scientist/Modern_Scientists/Darwin,Charles.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Scientist/Modern_Scientists/Darwin,Charles.protect|Darwin,Charles.protect]] 
 
-### #is_/same_as :: [Darwin,Charles.private](/_private/Science/Scientist/Modern_Scientists/Darwin,Charles.private.md) 
+### #is_/same_as :: [[/_private/Science/Scientist/Modern_Scientists/Darwin,Charles.private|Darwin,Charles.private]] 
 
-### #is_/same_as :: [Darwin,Charles.personal](/_personal/Science/Scientist/Modern_Scientists/Darwin,Charles.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Scientist/Modern_Scientists/Darwin,Charles.personal|Darwin,Charles.personal]] 
 
-### #is_/same_as :: [Darwin,Charles.secret](/_secret/Science/Scientist/Modern_Scientists/Darwin,Charles.secret.md)
+### #is_/same_as :: [[/_secret/Science/Scientist/Modern_Scientists/Darwin,Charles.secret|Darwin,Charles.secret]] 
 

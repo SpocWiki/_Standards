@@ -69,17 +69,17 @@ Containing group: [Physalaemus](../Physalaemus.md)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [petersi](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Neobatrachia/Leptodactylidae/Leptodactylinae/Physalaemus/petersi.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Neobatrachia/Leptodactylidae/Leptodactylinae/Physalaemus/petersi|petersi]] 
 
-### #is_/same_as :: [petersi.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Neobatrachia/Leptodactylidae/Leptodactylinae/Physalaemus/petersi.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Neobatrachia/Leptodactylidae/Leptodactylinae/Physalaemus/petersi.public|petersi.public]] 
 
-### #is_/same_as :: [petersi.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Neobatrachia/Leptodactylidae/Leptodactylinae/Physalaemus/petersi.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Neobatrachia/Leptodactylidae/Leptodactylinae/Physalaemus/petersi.internal|petersi.internal]] 
 
-### #is_/same_as :: [petersi.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Neobatrachia/Leptodactylidae/Leptodactylinae/Physalaemus/petersi.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Neobatrachia/Leptodactylidae/Leptodactylinae/Physalaemus/petersi.protect|petersi.protect]] 
 
-### #is_/same_as :: [petersi.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Neobatrachia/Leptodactylidae/Leptodactylinae/Physalaemus/petersi.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Neobatrachia/Leptodactylidae/Leptodactylinae/Physalaemus/petersi.private|petersi.private]] 
 
-### #is_/same_as :: [petersi.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Neobatrachia/Leptodactylidae/Leptodactylinae/Physalaemus/petersi.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Neobatrachia/Leptodactylidae/Leptodactylinae/Physalaemus/petersi.personal|petersi.personal]] 
 
-### #is_/same_as :: [petersi.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Neobatrachia/Leptodactylidae/Leptodactylinae/Physalaemus/petersi.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Neobatrachia/Leptodactylidae/Leptodactylinae/Physalaemus/petersi.secret|petersi.secret]] 
 

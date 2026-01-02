@@ -25,7 +25,7 @@ title: Zoantharia
 ## Sea Anemones and Corals 
 
 [Daphne G. Fautin, Sandra L. Romano, and William A. Oliver, Jr.]()
-![ ](Zoantharia/pseudocorynactis.jpg))
+![ ](Zoantharia/pseudocorynactis.jpg) 
 
 Tree derived from Oliver 1996, France et al. 1996, and Chen et al. 1995.
 
@@ -96,7 +96,7 @@ actiniarian species can propagate asexually; some scleractinian species
 are solitary and some are colonial; zoanthids of most species occur in
 beds and mats, but the degree of connection between neighboring polyps
 varies.
-![ ](Zoantharia/antipatharia.jpg))
+![ ](Zoantharia/antipatharia.jpg) 
 
 **Figure 1.** Cerianthid (\"tube anemone\"). Note short inner tentacles
 and long outer ones. Photograph copyright © 1999 George Miller. **Figure
@@ -150,7 +150,7 @@ Zoanthidea are added in two growth zones, one on each side of one of the
 pairs of primary mesenteries. Hand (1966), for example, considered this
 to be evidence zoanthids have paired mesenteries, whereas Grasshoff
 (1984) considered the mesenteries to be unpaired.
-![ ](Zoantharia/cross22.jpg))
+![ ](Zoantharia/cross22.jpg) 
 
 **Figure 3.** Cross-sections of a juvenile sea anemone (*Megalactis*
 sp.) with three cycles of mesenteries: at left a section at the level of
@@ -194,7 +194,7 @@ biradial. This pattern of septal insertion is termed „cyclic‰ by
 paleontologists (Figure 4 right). By contrast, in some fossil corals,
 adjacent septa lie in order of increasing age, a pattern that is termed
 serial (Figure 4 left) and that produces a bilateral symmetry.
-![ ](Zoantharia/oliver.jpg))
+![ ](Zoantharia/oliver.jpg) 
 
 **Figure 4.** Septal arrangements in anthozoan corals: left, serial;
 right, cyclic. Serial and cyclic insertion of septa are fundamentally
@@ -290,7 +290,7 @@ comparative morphology (for detailed discussions, see also Scrutton
 extant order Zoanthidea. The Group 2 lineage consists of two extinct
 orders and three extant ones. Oliver (1996) did not consider the extant
 orders Ceriantharia and Antipatharia.
-![ ](Zoantharia/oliver7.jpg))
+![ ](Zoantharia/oliver7.jpg) 
 
 **Figure 5.** Proposed phylogeny of fossil zoantharians and some
 contemporary taxa. The terms \"Zoanthidea\" and \"Corallimorpharia\" are
@@ -845,7 +845,7 @@ pages.
 
 ## Title Illustrations
 
-![](Zoantharia/pseudocorynactis.jpg))
+![](Zoantharia/pseudocorynactis.jpg) 
 
   -------------
   Scientific Name ::  Pseudocorynactis caribbeorum
@@ -855,17 +855,17 @@ pages.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Zoantharia](/_Standards/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia|Zoantharia]] 
 
-### #is_/same_as :: [Zoantharia.public](/_public/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia.public|Zoantharia.public]] 
 
-### #is_/same_as :: [Zoantharia.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia.internal|Zoantharia.internal]] 
 
-### #is_/same_as :: [Zoantharia.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia.protect|Zoantharia.protect]] 
 
-### #is_/same_as :: [Zoantharia.private](/_private/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia.private|Zoantharia.private]] 
 
-### #is_/same_as :: [Zoantharia.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia.personal|Zoantharia.personal]] 
 
-### #is_/same_as :: [Zoantharia.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia.secret|Zoantharia.secret]] 
 

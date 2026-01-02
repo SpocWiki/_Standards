@@ -91,17 +91,17 @@ Dewey_Decimal_Classification:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Thermal_Conductivity](/_Standards/Science/Physics/Thermodynamics/Thermal_Conductivity.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Thermodynamics/Thermal_Conductivity|Thermal_Conductivity]] 
 
-### #is_/same_as :: [Thermal_Conductivity.public](/_public/Science/Physics/Thermodynamics/Thermal_Conductivity.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Thermodynamics/Thermal_Conductivity.public|Thermal_Conductivity.public]] 
 
-### #is_/same_as :: [Thermal_Conductivity.internal](/_internal/Science/Physics/Thermodynamics/Thermal_Conductivity.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Thermodynamics/Thermal_Conductivity.internal|Thermal_Conductivity.internal]] 
 
-### #is_/same_as :: [Thermal_Conductivity.protect](/_protect/Science/Physics/Thermodynamics/Thermal_Conductivity.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Thermodynamics/Thermal_Conductivity.protect|Thermal_Conductivity.protect]] 
 
-### #is_/same_as :: [Thermal_Conductivity.private](/_private/Science/Physics/Thermodynamics/Thermal_Conductivity.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Thermodynamics/Thermal_Conductivity.private|Thermal_Conductivity.private]] 
 
-### #is_/same_as :: [Thermal_Conductivity.personal](/_personal/Science/Physics/Thermodynamics/Thermal_Conductivity.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Thermodynamics/Thermal_Conductivity.personal|Thermal_Conductivity.personal]] 
 
-### #is_/same_as :: [Thermal_Conductivity.secret](/_secret/Science/Physics/Thermodynamics/Thermal_Conductivity.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Thermodynamics/Thermal_Conductivity.secret|Thermal_Conductivity.secret]] 
 

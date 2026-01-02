@@ -58,17 +58,17 @@ Copyright ::            © 1999 [California Academy of Sciences](http://www.cala
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Chitons](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Chitons.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Chitons|Chitons]] 
 
-### #is_/same_as :: [Chitons.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Chitons.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Chitons.public|Chitons.public]] 
 
-### #is_/same_as :: [Chitons.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Chitons.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Chitons.internal|Chitons.internal]] 
 
-### #is_/same_as :: [Chitons.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Chitons.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Chitons.protect|Chitons.protect]] 
 
-### #is_/same_as :: [Chitons.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Chitons.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Chitons.private|Chitons.private]] 
 
-### #is_/same_as :: [Chitons.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Chitons.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Chitons.personal|Chitons.personal]] 
 
-### #is_/same_as :: [Chitons.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Chitons.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Chitons.secret|Chitons.secret]] 
 

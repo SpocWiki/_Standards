@@ -37,17 +37,17 @@ A defence establishment, such as an army or navy base.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~DefenceEstablishment](/_Standards/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~GovernmentBuilding/FileClass~DefenceEstablishment.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~GovernmentBuilding/FileClass~DefenceEstablishment|FileClass~DefenceEstablishment]] 
 
-### #is_/same_as :: [FileClass~DefenceEstablishment.public](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~GovernmentBuilding/FileClass~DefenceEstablishment.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~GovernmentBuilding/FileClass~DefenceEstablishment.public|FileClass~DefenceEstablishment.public]] 
 
-### #is_/same_as :: [FileClass~DefenceEstablishment.internal](/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~GovernmentBuilding/FileClass~DefenceEstablishment.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~GovernmentBuilding/FileClass~DefenceEstablishment.internal|FileClass~DefenceEstablishment.internal]] 
 
-### #is_/same_as :: [FileClass~DefenceEstablishment.protect](/_protect/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~GovernmentBuilding/FileClass~DefenceEstablishment.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~GovernmentBuilding/FileClass~DefenceEstablishment.protect|FileClass~DefenceEstablishment.protect]] 
 
-### #is_/same_as :: [FileClass~DefenceEstablishment.private](/_private/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~GovernmentBuilding/FileClass~DefenceEstablishment.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~GovernmentBuilding/FileClass~DefenceEstablishment.private|FileClass~DefenceEstablishment.private]] 
 
-### #is_/same_as :: [FileClass~DefenceEstablishment.personal](/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~GovernmentBuilding/FileClass~DefenceEstablishment.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~GovernmentBuilding/FileClass~DefenceEstablishment.personal|FileClass~DefenceEstablishment.personal]] 
 
-### #is_/same_as :: [FileClass~DefenceEstablishment.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~GovernmentBuilding/FileClass~DefenceEstablishment.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~GovernmentBuilding/FileClass~DefenceEstablishment.secret|FileClass~DefenceEstablishment.secret]] 
 

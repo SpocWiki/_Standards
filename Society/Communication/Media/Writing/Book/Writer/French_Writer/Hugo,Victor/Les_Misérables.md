@@ -101,17 +101,17 @@ work_available_at_URL: https://standardebooks.org/ebooks/victor-hugo/les-miserab
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Les_Misérables](/_Standards/Society/Communication/Media/Writing/Book/Writer/French_Writer/Hugo,Victor/Les_Misérables.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Writer/French_Writer/Hugo,Victor/Les_Misérables|Les_Misérables]] 
 
-### #is_/same_as :: [Les_Misérables.public](/_public/Society/Communication/Media/Writing/Book/Writer/French_Writer/Hugo,Victor/Les_Misérables.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Writer/French_Writer/Hugo,Victor/Les_Misérables.public|Les_Misérables.public]] 
 
-### #is_/same_as :: [Les_Misérables.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/French_Writer/Hugo,Victor/Les_Misérables.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Writer/French_Writer/Hugo,Victor/Les_Misérables.internal|Les_Misérables.internal]] 
 
-### #is_/same_as :: [Les_Misérables.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/French_Writer/Hugo,Victor/Les_Misérables.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Writer/French_Writer/Hugo,Victor/Les_Misérables.protect|Les_Misérables.protect]] 
 
-### #is_/same_as :: [Les_Misérables.private](/_private/Society/Communication/Media/Writing/Book/Writer/French_Writer/Hugo,Victor/Les_Misérables.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Writer/French_Writer/Hugo,Victor/Les_Misérables.private|Les_Misérables.private]] 
 
-### #is_/same_as :: [Les_Misérables.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/French_Writer/Hugo,Victor/Les_Misérables.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Writer/French_Writer/Hugo,Victor/Les_Misérables.personal|Les_Misérables.personal]] 
 
-### #is_/same_as :: [Les_Misérables.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/French_Writer/Hugo,Victor/Les_Misérables.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Writer/French_Writer/Hugo,Victor/Les_Misérables.secret|Les_Misérables.secret]] 
 

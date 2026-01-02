@@ -42,17 +42,17 @@ Nonprofit501n: Non-profit type referring to Charitable Risk Pools.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Nonprofit501n](/_Standards/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501n.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501n|Nonprofit501n]] 
 
-### #is_/same_as :: [Nonprofit501n.public](/_public/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501n.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501n.public|Nonprofit501n.public]] 
 
-### #is_/same_as :: [Nonprofit501n.internal](/_internal/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501n.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501n.internal|Nonprofit501n.internal]] 
 
-### #is_/same_as :: [Nonprofit501n.protect](/_protect/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501n.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501n.protect|Nonprofit501n.protect]] 
 
-### #is_/same_as :: [Nonprofit501n.private](/_private/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501n.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501n.private|Nonprofit501n.private]] 
 
-### #is_/same_as :: [Nonprofit501n.personal](/_personal/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501n.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501n.personal|Nonprofit501n.personal]] 
 
-### #is_/same_as :: [Nonprofit501n.secret](/_secret/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501n.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501n.secret|Nonprofit501n.secret]] 
 

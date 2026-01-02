@@ -63,17 +63,17 @@ MeSH_tree_code: F01.829.401.825
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Trust(social)](/_Standards/bio/Psychology/Social_Psychology/Trust(social).md) 
+### #is_/same_as :: [[/_Standards/bio/Psychology/Social_Psychology/Trust(social)|Trust(social)]] 
 
-### #is_/same_as :: [Trust(social).public](/_public/bio/Psychology/Social_Psychology/Trust(social).public.md) 
+### #is_/same_as :: [[/_public/bio/Psychology/Social_Psychology/Trust(social).public|Trust(social).public]] 
 
-### #is_/same_as :: [Trust(social).internal](/_internal/bio/Psychology/Social_Psychology/Trust(social).internal.md) 
+### #is_/same_as :: [[/_internal/bio/Psychology/Social_Psychology/Trust(social).internal|Trust(social).internal]] 
 
-### #is_/same_as :: [Trust(social).protect](/_protect/bio/Psychology/Social_Psychology/Trust(social).protect.md) 
+### #is_/same_as :: [[/_protect/bio/Psychology/Social_Psychology/Trust(social).protect|Trust(social).protect]] 
 
-### #is_/same_as :: [Trust(social).private](/_private/bio/Psychology/Social_Psychology/Trust(social).private.md) 
+### #is_/same_as :: [[/_private/bio/Psychology/Social_Psychology/Trust(social).private|Trust(social).private]] 
 
-### #is_/same_as :: [Trust(social).personal](/_personal/bio/Psychology/Social_Psychology/Trust(social).personal.md) 
+### #is_/same_as :: [[/_personal/bio/Psychology/Social_Psychology/Trust(social).personal|Trust(social).personal]] 
 
-### #is_/same_as :: [Trust(social).secret](/_secret/bio/Psychology/Social_Psychology/Trust(social).secret.md)
+### #is_/same_as :: [[/_secret/bio/Psychology/Social_Psychology/Trust(social).secret|Trust(social).secret]] 
 

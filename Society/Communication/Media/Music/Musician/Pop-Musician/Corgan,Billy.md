@@ -43,17 +43,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Corgan,Billy](/_Standards/Society/Communication/Media/Music/Musician/Pop-Musician/Corgan,Billy.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Musician/Pop-Musician/Corgan,Billy|Corgan,Billy]] 
 
-### #is_/same_as :: [Corgan,Billy.public](/_public/Society/Communication/Media/Music/Musician/Pop-Musician/Corgan,Billy.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Musician/Pop-Musician/Corgan,Billy.public|Corgan,Billy.public]] 
 
-### #is_/same_as :: [Corgan,Billy.internal](/_internal/Society/Communication/Media/Music/Musician/Pop-Musician/Corgan,Billy.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Musician/Pop-Musician/Corgan,Billy.internal|Corgan,Billy.internal]] 
 
-### #is_/same_as :: [Corgan,Billy.protect](/_protect/Society/Communication/Media/Music/Musician/Pop-Musician/Corgan,Billy.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Musician/Pop-Musician/Corgan,Billy.protect|Corgan,Billy.protect]] 
 
-### #is_/same_as :: [Corgan,Billy.private](/_private/Society/Communication/Media/Music/Musician/Pop-Musician/Corgan,Billy.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Musician/Pop-Musician/Corgan,Billy.private|Corgan,Billy.private]] 
 
-### #is_/same_as :: [Corgan,Billy.personal](/_personal/Society/Communication/Media/Music/Musician/Pop-Musician/Corgan,Billy.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Musician/Pop-Musician/Corgan,Billy.personal|Corgan,Billy.personal]] 
 
-### #is_/same_as :: [Corgan,Billy.secret](/_secret/Society/Communication/Media/Music/Musician/Pop-Musician/Corgan,Billy.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Musician/Pop-Musician/Corgan,Billy.secret|Corgan,Billy.secret]] 
 

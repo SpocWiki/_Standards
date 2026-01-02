@@ -42,17 +42,17 @@ described_at_URL:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Circuit_Design](/_Standards/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Circuit_Design.md) 
+### #is_/same_as :: [[/_Standards/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Circuit_Design|Circuit_Design]] 
 
-### #is_/same_as :: [Circuit_Design.public](/_public/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Circuit_Design.public.md) 
+### #is_/same_as :: [[/_public/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Circuit_Design.public|Circuit_Design.public]] 
 
-### #is_/same_as :: [Circuit_Design.internal](/_internal/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Circuit_Design.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Circuit_Design.internal|Circuit_Design.internal]] 
 
-### #is_/same_as :: [Circuit_Design.protect](/_protect/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Circuit_Design.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Circuit_Design.protect|Circuit_Design.protect]] 
 
-### #is_/same_as :: [Circuit_Design.private](/_private/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Circuit_Design.private.md) 
+### #is_/same_as :: [[/_private/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Circuit_Design.private|Circuit_Design.private]] 
 
-### #is_/same_as :: [Circuit_Design.personal](/_personal/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Circuit_Design.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Circuit_Design.personal|Circuit_Design.personal]] 
 
-### #is_/same_as :: [Circuit_Design.secret](/_secret/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Circuit_Design.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Circuit_Design.secret|Circuit_Design.secret]] 
 

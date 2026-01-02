@@ -39,17 +39,17 @@ An enumeration of several kinds of Map.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Map_Category_Type](/_Standards/schema-org/Enumeration/Map_Category_Type.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Map_Category_Type|Map_Category_Type]] 
 
-### #is_/same_as :: [Map_Category_Type.public](/_public/schema-org/Enumeration/Map_Category_Type.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Map_Category_Type.public|Map_Category_Type.public]] 
 
-### #is_/same_as :: [Map_Category_Type.internal](/_internal/schema-org/Enumeration/Map_Category_Type.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Map_Category_Type.internal|Map_Category_Type.internal]] 
 
-### #is_/same_as :: [Map_Category_Type.protect](/_protect/schema-org/Enumeration/Map_Category_Type.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Map_Category_Type.protect|Map_Category_Type.protect]] 
 
-### #is_/same_as :: [Map_Category_Type.private](/_private/schema-org/Enumeration/Map_Category_Type.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Map_Category_Type.private|Map_Category_Type.private]] 
 
-### #is_/same_as :: [Map_Category_Type.personal](/_personal/schema-org/Enumeration/Map_Category_Type.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Map_Category_Type.personal|Map_Category_Type.personal]] 
 
-### #is_/same_as :: [Map_Category_Type.secret](/_secret/schema-org/Enumeration/Map_Category_Type.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Map_Category_Type.secret|Map_Category_Type.secret]] 
 

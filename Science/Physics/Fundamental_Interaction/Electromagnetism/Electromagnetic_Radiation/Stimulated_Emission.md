@@ -33,17 +33,17 @@ Commons_category: Stimulated emission
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Stimulated_Emission](/_Standards/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Stimulated_Emission.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Stimulated_Emission|Stimulated_Emission]] 
 
-### #is_/same_as :: [Stimulated_Emission.public](/_public/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Stimulated_Emission.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Stimulated_Emission.public|Stimulated_Emission.public]] 
 
-### #is_/same_as :: [Stimulated_Emission.internal](/_internal/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Stimulated_Emission.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Stimulated_Emission.internal|Stimulated_Emission.internal]] 
 
-### #is_/same_as :: [Stimulated_Emission.protect](/_protect/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Stimulated_Emission.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Stimulated_Emission.protect|Stimulated_Emission.protect]] 
 
-### #is_/same_as :: [Stimulated_Emission.private](/_private/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Stimulated_Emission.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Stimulated_Emission.private|Stimulated_Emission.private]] 
 
-### #is_/same_as :: [Stimulated_Emission.personal](/_personal/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Stimulated_Emission.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Stimulated_Emission.personal|Stimulated_Emission.personal]] 
 
-### #is_/same_as :: [Stimulated_Emission.secret](/_secret/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Stimulated_Emission.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Stimulated_Emission.secret|Stimulated_Emission.secret]] 
 

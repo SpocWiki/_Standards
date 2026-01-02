@@ -19,17 +19,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Melody_Maker](/_Standards/Society/Communication/Media/Music/Melody_Maker.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Melody_Maker|Melody_Maker]] 
 
-### #is_/same_as :: [Melody_Maker.public](/_public/Society/Communication/Media/Music/Melody_Maker.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Melody_Maker.public|Melody_Maker.public]] 
 
-### #is_/same_as :: [Melody_Maker.internal](/_internal/Society/Communication/Media/Music/Melody_Maker.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Melody_Maker.internal|Melody_Maker.internal]] 
 
-### #is_/same_as :: [Melody_Maker.protect](/_protect/Society/Communication/Media/Music/Melody_Maker.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Melody_Maker.protect|Melody_Maker.protect]] 
 
-### #is_/same_as :: [Melody_Maker.private](/_private/Society/Communication/Media/Music/Melody_Maker.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Melody_Maker.private|Melody_Maker.private]] 
 
-### #is_/same_as :: [Melody_Maker.personal](/_personal/Society/Communication/Media/Music/Melody_Maker.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Melody_Maker.personal|Melody_Maker.personal]] 
 
-### #is_/same_as :: [Melody_Maker.secret](/_secret/Society/Communication/Media/Music/Melody_Maker.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Melody_Maker.secret|Melody_Maker.secret]] 
 

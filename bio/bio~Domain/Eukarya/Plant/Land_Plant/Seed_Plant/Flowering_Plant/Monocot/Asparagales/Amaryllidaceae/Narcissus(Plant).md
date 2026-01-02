@@ -79,17 +79,17 @@ NBN_System_Key: NHMSYS0000460847
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Narcissus(Plant)](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Asparagales/Amaryllidaceae/Narcissus(Plant).md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Asparagales/Amaryllidaceae/Narcissus(Plant)|Narcissus(Plant)]] 
 
-### #is_/same_as :: [Narcissus(Plant).public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Asparagales/Amaryllidaceae/Narcissus(Plant).public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Asparagales/Amaryllidaceae/Narcissus(Plant).public|Narcissus(Plant).public]] 
 
-### #is_/same_as :: [Narcissus(Plant).internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Asparagales/Amaryllidaceae/Narcissus(Plant).internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Asparagales/Amaryllidaceae/Narcissus(Plant).internal|Narcissus(Plant).internal]] 
 
-### #is_/same_as :: [Narcissus(Plant).protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Asparagales/Amaryllidaceae/Narcissus(Plant).protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Asparagales/Amaryllidaceae/Narcissus(Plant).protect|Narcissus(Plant).protect]] 
 
-### #is_/same_as :: [Narcissus(Plant).private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Asparagales/Amaryllidaceae/Narcissus(Plant).private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Asparagales/Amaryllidaceae/Narcissus(Plant).private|Narcissus(Plant).private]] 
 
-### #is_/same_as :: [Narcissus(Plant).personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Asparagales/Amaryllidaceae/Narcissus(Plant).personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Asparagales/Amaryllidaceae/Narcissus(Plant).personal|Narcissus(Plant).personal]] 
 
-### #is_/same_as :: [Narcissus(Plant).secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Asparagales/Amaryllidaceae/Narcissus(Plant).secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Asparagales/Amaryllidaceae/Narcissus(Plant).secret|Narcissus(Plant).secret]] 
 

@@ -84,17 +84,17 @@ musical_quotation_or_excerpt: '{\set Staff.instrumentName=#"Vc."\set Staff.midiI
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Symphony_9(Beethoven)](/_Standards/Society/Communication/Media/Music/Composer/Classic_Composer/Beethoven,Ludwig_van/Symphony_9(Beethoven).md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Composer/Classic_Composer/Beethoven,Ludwig_van/Symphony_9(Beethoven)|Symphony_9(Beethoven)]] 
 
-### #is_/same_as :: [Symphony_9(Beethoven).public](/_public/Society/Communication/Media/Music/Composer/Classic_Composer/Beethoven,Ludwig_van/Symphony_9(Beethoven).public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Composer/Classic_Composer/Beethoven,Ludwig_van/Symphony_9(Beethoven).public|Symphony_9(Beethoven).public]] 
 
-### #is_/same_as :: [Symphony_9(Beethoven).internal](/_internal/Society/Communication/Media/Music/Composer/Classic_Composer/Beethoven,Ludwig_van/Symphony_9(Beethoven).internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Composer/Classic_Composer/Beethoven,Ludwig_van/Symphony_9(Beethoven).internal|Symphony_9(Beethoven).internal]] 
 
-### #is_/same_as :: [Symphony_9(Beethoven).protect](/_protect/Society/Communication/Media/Music/Composer/Classic_Composer/Beethoven,Ludwig_van/Symphony_9(Beethoven).protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Composer/Classic_Composer/Beethoven,Ludwig_van/Symphony_9(Beethoven).protect|Symphony_9(Beethoven).protect]] 
 
-### #is_/same_as :: [Symphony_9(Beethoven).private](/_private/Society/Communication/Media/Music/Composer/Classic_Composer/Beethoven,Ludwig_van/Symphony_9(Beethoven).private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Composer/Classic_Composer/Beethoven,Ludwig_van/Symphony_9(Beethoven).private|Symphony_9(Beethoven).private]] 
 
-### #is_/same_as :: [Symphony_9(Beethoven).personal](/_personal/Society/Communication/Media/Music/Composer/Classic_Composer/Beethoven,Ludwig_van/Symphony_9(Beethoven).personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Composer/Classic_Composer/Beethoven,Ludwig_van/Symphony_9(Beethoven).personal|Symphony_9(Beethoven).personal]] 
 
-### #is_/same_as :: [Symphony_9(Beethoven).secret](/_secret/Society/Communication/Media/Music/Composer/Classic_Composer/Beethoven,Ludwig_van/Symphony_9(Beethoven).secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Composer/Classic_Composer/Beethoven,Ludwig_van/Symphony_9(Beethoven).secret|Symphony_9(Beethoven).secret]] 
 

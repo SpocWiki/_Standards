@@ -103,17 +103,17 @@ ISNI: 0000000121208220
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lobachevsky,Nikolai_Ivanovich](/_Standards/Mathematics/Mathematician/Modern_Mathematician/Lobachevsky,Nikolai_Ivanovich.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Mathematician/Modern_Mathematician/Lobachevsky,Nikolai_Ivanovich|Lobachevsky,Nikolai_Ivanovich]] 
 
-### #is_/same_as :: [Lobachevsky,Nikolai_Ivanovich.public](/_public/Mathematics/Mathematician/Modern_Mathematician/Lobachevsky,Nikolai_Ivanovich.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Mathematician/Modern_Mathematician/Lobachevsky,Nikolai_Ivanovich.public|Lobachevsky,Nikolai_Ivanovich.public]] 
 
-### #is_/same_as :: [Lobachevsky,Nikolai_Ivanovich.internal](/_internal/Mathematics/Mathematician/Modern_Mathematician/Lobachevsky,Nikolai_Ivanovich.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Mathematician/Modern_Mathematician/Lobachevsky,Nikolai_Ivanovich.internal|Lobachevsky,Nikolai_Ivanovich.internal]] 
 
-### #is_/same_as :: [Lobachevsky,Nikolai_Ivanovich.protect](/_protect/Mathematics/Mathematician/Modern_Mathematician/Lobachevsky,Nikolai_Ivanovich.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Mathematician/Modern_Mathematician/Lobachevsky,Nikolai_Ivanovich.protect|Lobachevsky,Nikolai_Ivanovich.protect]] 
 
-### #is_/same_as :: [Lobachevsky,Nikolai_Ivanovich.private](/_private/Mathematics/Mathematician/Modern_Mathematician/Lobachevsky,Nikolai_Ivanovich.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Mathematician/Modern_Mathematician/Lobachevsky,Nikolai_Ivanovich.private|Lobachevsky,Nikolai_Ivanovich.private]] 
 
-### #is_/same_as :: [Lobachevsky,Nikolai_Ivanovich.personal](/_personal/Mathematics/Mathematician/Modern_Mathematician/Lobachevsky,Nikolai_Ivanovich.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Mathematician/Modern_Mathematician/Lobachevsky,Nikolai_Ivanovich.personal|Lobachevsky,Nikolai_Ivanovich.personal]] 
 
-### #is_/same_as :: [Lobachevsky,Nikolai_Ivanovich.secret](/_secret/Mathematics/Mathematician/Modern_Mathematician/Lobachevsky,Nikolai_Ivanovich.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Mathematician/Modern_Mathematician/Lobachevsky,Nikolai_Ivanovich.secret|Lobachevsky,Nikolai_Ivanovich.secret]] 
 

@@ -85,17 +85,17 @@ Krugosvet_article_archived_: istoriya/SLAVYANE.html
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Slav](/_Standards/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Slav.md) 
+### #is_/same_as :: [[/_Standards/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Slav|Slav]] 
 
-### #is_/same_as :: [Slav.public](/_public/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Slav.public.md) 
+### #is_/same_as :: [[/_public/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Slav.public|Slav.public]] 
 
-### #is_/same_as :: [Slav.internal](/_internal/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Slav.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Slav.internal|Slav.internal]] 
 
-### #is_/same_as :: [Slav.protect](/_protect/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Slav.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Slav.protect|Slav.protect]] 
 
-### #is_/same_as :: [Slav.private](/_private/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Slav.private.md) 
+### #is_/same_as :: [[/_private/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Slav.private|Slav.private]] 
 
-### #is_/same_as :: [Slav.personal](/_personal/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Slav.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Slav.personal|Slav.personal]] 
 
-### #is_/same_as :: [Slav.secret](/_secret/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Slav.secret.md)
+### #is_/same_as :: [[/_secret/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Slav.secret|Slav.secret]] 
 

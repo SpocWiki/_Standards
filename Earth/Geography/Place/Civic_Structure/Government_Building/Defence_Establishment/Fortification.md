@@ -87,17 +87,17 @@ GeoNames_feature_code: S.FT
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Fortification](/_Standards/Earth/Geography/Place/Civic_Structure/Government_Building/Defence_Establishment/Fortification.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geography/Place/Civic_Structure/Government_Building/Defence_Establishment/Fortification|Fortification]] 
 
-### #is_/same_as :: [Fortification.public](/_public/Earth/Geography/Place/Civic_Structure/Government_Building/Defence_Establishment/Fortification.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geography/Place/Civic_Structure/Government_Building/Defence_Establishment/Fortification.public|Fortification.public]] 
 
-### #is_/same_as :: [Fortification.internal](/_internal/Earth/Geography/Place/Civic_Structure/Government_Building/Defence_Establishment/Fortification.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geography/Place/Civic_Structure/Government_Building/Defence_Establishment/Fortification.internal|Fortification.internal]] 
 
-### #is_/same_as :: [Fortification.protect](/_protect/Earth/Geography/Place/Civic_Structure/Government_Building/Defence_Establishment/Fortification.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geography/Place/Civic_Structure/Government_Building/Defence_Establishment/Fortification.protect|Fortification.protect]] 
 
-### #is_/same_as :: [Fortification.private](/_private/Earth/Geography/Place/Civic_Structure/Government_Building/Defence_Establishment/Fortification.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geography/Place/Civic_Structure/Government_Building/Defence_Establishment/Fortification.private|Fortification.private]] 
 
-### #is_/same_as :: [Fortification.personal](/_personal/Earth/Geography/Place/Civic_Structure/Government_Building/Defence_Establishment/Fortification.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geography/Place/Civic_Structure/Government_Building/Defence_Establishment/Fortification.personal|Fortification.personal]] 
 
-### #is_/same_as :: [Fortification.secret](/_secret/Earth/Geography/Place/Civic_Structure/Government_Building/Defence_Establishment/Fortification.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geography/Place/Civic_Structure/Government_Building/Defence_Establishment/Fortification.secret|Fortification.secret]] 
 

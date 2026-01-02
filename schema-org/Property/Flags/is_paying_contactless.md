@@ -46,17 +46,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [is_paying_contactless](/_Standards/schema-org/Property/Flags/is_paying_contactless.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/Flags/is_paying_contactless|is_paying_contactless]] 
 
-### #is_/same_as :: [is_paying_contactless.public](/_public/schema-org/Property/Flags/is_paying_contactless.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/Flags/is_paying_contactless.public|is_paying_contactless.public]] 
 
-### #is_/same_as :: [is_paying_contactless.internal](/_internal/schema-org/Property/Flags/is_paying_contactless.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/Flags/is_paying_contactless.internal|is_paying_contactless.internal]] 
 
-### #is_/same_as :: [is_paying_contactless.protect](/_protect/schema-org/Property/Flags/is_paying_contactless.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/Flags/is_paying_contactless.protect|is_paying_contactless.protect]] 
 
-### #is_/same_as :: [is_paying_contactless.private](/_private/schema-org/Property/Flags/is_paying_contactless.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/Flags/is_paying_contactless.private|is_paying_contactless.private]] 
 
-### #is_/same_as :: [is_paying_contactless.personal](/_personal/schema-org/Property/Flags/is_paying_contactless.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/Flags/is_paying_contactless.personal|is_paying_contactless.personal]] 
 
-### #is_/same_as :: [is_paying_contactless.secret](/_secret/schema-org/Property/Flags/is_paying_contactless.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/Flags/is_paying_contactless.secret|is_paying_contactless.secret]] 
 

@@ -41,17 +41,17 @@ A motorcycle repair shop.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Motorcycle_Repair](/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Automotive_Business/Motorcycle_Repair.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Automotive_Business/Motorcycle_Repair|Motorcycle_Repair]] 
 
-### #is_/same_as :: [Motorcycle_Repair.public](/_public/Society/Agent/Community/Organization/Business/Local_Business/Automotive_Business/Motorcycle_Repair.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Business/Local_Business/Automotive_Business/Motorcycle_Repair.public|Motorcycle_Repair.public]] 
 
-### #is_/same_as :: [Motorcycle_Repair.internal](/_internal/Society/Agent/Community/Organization/Business/Local_Business/Automotive_Business/Motorcycle_Repair.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Business/Local_Business/Automotive_Business/Motorcycle_Repair.internal|Motorcycle_Repair.internal]] 
 
-### #is_/same_as :: [Motorcycle_Repair.protect](/_protect/Society/Agent/Community/Organization/Business/Local_Business/Automotive_Business/Motorcycle_Repair.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Business/Local_Business/Automotive_Business/Motorcycle_Repair.protect|Motorcycle_Repair.protect]] 
 
-### #is_/same_as :: [Motorcycle_Repair.private](/_private/Society/Agent/Community/Organization/Business/Local_Business/Automotive_Business/Motorcycle_Repair.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Business/Local_Business/Automotive_Business/Motorcycle_Repair.private|Motorcycle_Repair.private]] 
 
-### #is_/same_as :: [Motorcycle_Repair.personal](/_personal/Society/Agent/Community/Organization/Business/Local_Business/Automotive_Business/Motorcycle_Repair.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Business/Local_Business/Automotive_Business/Motorcycle_Repair.personal|Motorcycle_Repair.personal]] 
 
-### #is_/same_as :: [Motorcycle_Repair.secret](/_secret/Society/Agent/Community/Organization/Business/Local_Business/Automotive_Business/Motorcycle_Repair.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Business/Local_Business/Automotive_Business/Motorcycle_Repair.secret|Motorcycle_Repair.secret]] 
 

@@ -752,17 +752,17 @@ Capital :: [[Helsingfors]]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Finland](/_Standards/Earth/Continent/Europe/Europe~North/Finland.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Finland|Finland]] 
 
-### #is_/same_as :: [Finland.public](/_public/Earth/Continent/Europe/Europe~North/Finland.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Finland.public|Finland.public]] 
 
-### #is_/same_as :: [Finland.internal](/_internal/Earth/Continent/Europe/Europe~North/Finland.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Finland.internal|Finland.internal]] 
 
-### #is_/same_as :: [Finland.protect](/_protect/Earth/Continent/Europe/Europe~North/Finland.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Finland.protect|Finland.protect]] 
 
-### #is_/same_as :: [Finland.private](/_private/Earth/Continent/Europe/Europe~North/Finland.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Finland.private|Finland.private]] 
 
-### #is_/same_as :: [Finland.personal](/_personal/Earth/Continent/Europe/Europe~North/Finland.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Finland.personal|Finland.personal]] 
 
-### #is_/same_as :: [Finland.secret](/_secret/Earth/Continent/Europe/Europe~North/Finland.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Finland.secret|Finland.secret]] 
 

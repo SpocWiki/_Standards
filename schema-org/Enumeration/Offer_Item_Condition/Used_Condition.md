@@ -42,17 +42,17 @@ Indicates that the item is used.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Used_Condition](/_Standards/schema-org/Enumeration/Offer_Item_Condition/Used_Condition.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Offer_Item_Condition/Used_Condition|Used_Condition]] 
 
-### #is_/same_as :: [Used_Condition.public](/_public/schema-org/Enumeration/Offer_Item_Condition/Used_Condition.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Offer_Item_Condition/Used_Condition.public|Used_Condition.public]] 
 
-### #is_/same_as :: [Used_Condition.internal](/_internal/schema-org/Enumeration/Offer_Item_Condition/Used_Condition.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Offer_Item_Condition/Used_Condition.internal|Used_Condition.internal]] 
 
-### #is_/same_as :: [Used_Condition.protect](/_protect/schema-org/Enumeration/Offer_Item_Condition/Used_Condition.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Offer_Item_Condition/Used_Condition.protect|Used_Condition.protect]] 
 
-### #is_/same_as :: [Used_Condition.private](/_private/schema-org/Enumeration/Offer_Item_Condition/Used_Condition.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Offer_Item_Condition/Used_Condition.private|Used_Condition.private]] 
 
-### #is_/same_as :: [Used_Condition.personal](/_personal/schema-org/Enumeration/Offer_Item_Condition/Used_Condition.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Offer_Item_Condition/Used_Condition.personal|Used_Condition.personal]] 
 
-### #is_/same_as :: [Used_Condition.secret](/_secret/schema-org/Enumeration/Offer_Item_Condition/Used_Condition.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Offer_Item_Condition/Used_Condition.secret|Used_Condition.secret]] 
 

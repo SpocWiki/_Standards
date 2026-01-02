@@ -42,17 +42,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [is_included_in_health_insurance_plan](/_Standards/schema-org/Relation/is/is_included_in_health_insurance_plan.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/is/is_included_in_health_insurance_plan|is_included_in_health_insurance_plan]] 
 
-### #is_/same_as :: [is_included_in_health_insurance_plan.public](/_public/schema-org/Relation/is/is_included_in_health_insurance_plan.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/is/is_included_in_health_insurance_plan.public|is_included_in_health_insurance_plan.public]] 
 
-### #is_/same_as :: [is_included_in_health_insurance_plan.internal](/_internal/schema-org/Relation/is/is_included_in_health_insurance_plan.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/is/is_included_in_health_insurance_plan.internal|is_included_in_health_insurance_plan.internal]] 
 
-### #is_/same_as :: [is_included_in_health_insurance_plan.protect](/_protect/schema-org/Relation/is/is_included_in_health_insurance_plan.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/is/is_included_in_health_insurance_plan.protect|is_included_in_health_insurance_plan.protect]] 
 
-### #is_/same_as :: [is_included_in_health_insurance_plan.private](/_private/schema-org/Relation/is/is_included_in_health_insurance_plan.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/is/is_included_in_health_insurance_plan.private|is_included_in_health_insurance_plan.private]] 
 
-### #is_/same_as :: [is_included_in_health_insurance_plan.personal](/_personal/schema-org/Relation/is/is_included_in_health_insurance_plan.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/is/is_included_in_health_insurance_plan.personal|is_included_in_health_insurance_plan.personal]] 
 
-### #is_/same_as :: [is_included_in_health_insurance_plan.secret](/_secret/schema-org/Relation/is/is_included_in_health_insurance_plan.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/is/is_included_in_health_insurance_plan.secret|is_included_in_health_insurance_plan.secret]] 
 

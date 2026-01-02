@@ -46,17 +46,17 @@ short_name: Ciquepasa
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Cirrus](/_Standards/Earth/Climate/Weather/Cloud/Cirrus.md) 
+### #is_/same_as :: [[/_Standards/Earth/Climate/Weather/Cloud/Cirrus|Cirrus]] 
 
-### #is_/same_as :: [Cirrus.public](/_public/Earth/Climate/Weather/Cloud/Cirrus.public.md) 
+### #is_/same_as :: [[/_public/Earth/Climate/Weather/Cloud/Cirrus.public|Cirrus.public]] 
 
-### #is_/same_as :: [Cirrus.internal](/_internal/Earth/Climate/Weather/Cloud/Cirrus.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Climate/Weather/Cloud/Cirrus.internal|Cirrus.internal]] 
 
-### #is_/same_as :: [Cirrus.protect](/_protect/Earth/Climate/Weather/Cloud/Cirrus.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Climate/Weather/Cloud/Cirrus.protect|Cirrus.protect]] 
 
-### #is_/same_as :: [Cirrus.private](/_private/Earth/Climate/Weather/Cloud/Cirrus.private.md) 
+### #is_/same_as :: [[/_private/Earth/Climate/Weather/Cloud/Cirrus.private|Cirrus.private]] 
 
-### #is_/same_as :: [Cirrus.personal](/_personal/Earth/Climate/Weather/Cloud/Cirrus.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Climate/Weather/Cloud/Cirrus.personal|Cirrus.personal]] 
 
-### #is_/same_as :: [Cirrus.secret](/_secret/Earth/Climate/Weather/Cloud/Cirrus.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Climate/Weather/Cloud/Cirrus.secret|Cirrus.secret]] 
 

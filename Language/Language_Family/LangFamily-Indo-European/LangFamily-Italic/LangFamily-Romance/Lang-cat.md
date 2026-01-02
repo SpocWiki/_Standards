@@ -158,17 +158,17 @@ GOST_7_75_97_code: кат 290
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lang-cat](/_Standards/Language/Language_Family/LangFamily-Indo-European/LangFamily-Italic/LangFamily-Romance/Lang-cat.md) 
+### #is_/same_as :: [[/_Standards/Language/Language_Family/LangFamily-Indo-European/LangFamily-Italic/LangFamily-Romance/Lang-cat|Lang-cat]] 
 
-### #is_/same_as :: [Lang-cat.public](/_public/Language/Language_Family/LangFamily-Indo-European/LangFamily-Italic/LangFamily-Romance/Lang-cat.public.md) 
+### #is_/same_as :: [[/_public/Language/Language_Family/LangFamily-Indo-European/LangFamily-Italic/LangFamily-Romance/Lang-cat.public|Lang-cat.public]] 
 
-### #is_/same_as :: [Lang-cat.internal](/_internal/Language/Language_Family/LangFamily-Indo-European/LangFamily-Italic/LangFamily-Romance/Lang-cat.internal.md) 
+### #is_/same_as :: [[/_internal/Language/Language_Family/LangFamily-Indo-European/LangFamily-Italic/LangFamily-Romance/Lang-cat.internal|Lang-cat.internal]] 
 
-### #is_/same_as :: [Lang-cat.protect](/_protect/Language/Language_Family/LangFamily-Indo-European/LangFamily-Italic/LangFamily-Romance/Lang-cat.protect.md) 
+### #is_/same_as :: [[/_protect/Language/Language_Family/LangFamily-Indo-European/LangFamily-Italic/LangFamily-Romance/Lang-cat.protect|Lang-cat.protect]] 
 
-### #is_/same_as :: [Lang-cat.private](/_private/Language/Language_Family/LangFamily-Indo-European/LangFamily-Italic/LangFamily-Romance/Lang-cat.private.md) 
+### #is_/same_as :: [[/_private/Language/Language_Family/LangFamily-Indo-European/LangFamily-Italic/LangFamily-Romance/Lang-cat.private|Lang-cat.private]] 
 
-### #is_/same_as :: [Lang-cat.personal](/_personal/Language/Language_Family/LangFamily-Indo-European/LangFamily-Italic/LangFamily-Romance/Lang-cat.personal.md) 
+### #is_/same_as :: [[/_personal/Language/Language_Family/LangFamily-Indo-European/LangFamily-Italic/LangFamily-Romance/Lang-cat.personal|Lang-cat.personal]] 
 
-### #is_/same_as :: [Lang-cat.secret](/_secret/Language/Language_Family/LangFamily-Indo-European/LangFamily-Italic/LangFamily-Romance/Lang-cat.secret.md)
+### #is_/same_as :: [[/_secret/Language/Language_Family/LangFamily-Indo-European/LangFamily-Italic/LangFamily-Romance/Lang-cat.secret|Lang-cat.secret]] 
 

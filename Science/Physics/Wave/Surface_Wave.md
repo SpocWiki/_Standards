@@ -35,17 +35,17 @@ Dewey_Decimal_Classification: "530.417"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Surface_Wave](/_Standards/Science/Physics/Wave/Surface_Wave.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Wave/Surface_Wave|Surface_Wave]] 
 
-### #is_/same_as :: [Surface_Wave.public](/_public/Science/Physics/Wave/Surface_Wave.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Wave/Surface_Wave.public|Surface_Wave.public]] 
 
-### #is_/same_as :: [Surface_Wave.internal](/_internal/Science/Physics/Wave/Surface_Wave.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Wave/Surface_Wave.internal|Surface_Wave.internal]] 
 
-### #is_/same_as :: [Surface_Wave.protect](/_protect/Science/Physics/Wave/Surface_Wave.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Wave/Surface_Wave.protect|Surface_Wave.protect]] 
 
-### #is_/same_as :: [Surface_Wave.private](/_private/Science/Physics/Wave/Surface_Wave.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Wave/Surface_Wave.private|Surface_Wave.private]] 
 
-### #is_/same_as :: [Surface_Wave.personal](/_personal/Science/Physics/Wave/Surface_Wave.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Wave/Surface_Wave.personal|Surface_Wave.personal]] 
 
-### #is_/same_as :: [Surface_Wave.secret](/_secret/Science/Physics/Wave/Surface_Wave.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Wave/Surface_Wave.secret|Surface_Wave.secret]] 
 

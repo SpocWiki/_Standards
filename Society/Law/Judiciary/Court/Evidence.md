@@ -47,17 +47,17 @@ said_to_be_the_same_as: "[[_Standards/WikiData/WD~evidential_value,110953222]]"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Evidence](/_Standards/Society/Law/Judiciary/Court/Evidence.md) 
+### #is_/same_as :: [[/_Standards/Society/Law/Judiciary/Court/Evidence|Evidence]] 
 
-### #is_/same_as :: [Evidence.public](/_public/Society/Law/Judiciary/Court/Evidence.public.md) 
+### #is_/same_as :: [[/_public/Society/Law/Judiciary/Court/Evidence.public|Evidence.public]] 
 
-### #is_/same_as :: [Evidence.internal](/_internal/Society/Law/Judiciary/Court/Evidence.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Law/Judiciary/Court/Evidence.internal|Evidence.internal]] 
 
-### #is_/same_as :: [Evidence.protect](/_protect/Society/Law/Judiciary/Court/Evidence.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Law/Judiciary/Court/Evidence.protect|Evidence.protect]] 
 
-### #is_/same_as :: [Evidence.private](/_private/Society/Law/Judiciary/Court/Evidence.private.md) 
+### #is_/same_as :: [[/_private/Society/Law/Judiciary/Court/Evidence.private|Evidence.private]] 
 
-### #is_/same_as :: [Evidence.personal](/_personal/Society/Law/Judiciary/Court/Evidence.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Law/Judiciary/Court/Evidence.personal|Evidence.personal]] 
 
-### #is_/same_as :: [Evidence.secret](/_secret/Society/Law/Judiciary/Court/Evidence.secret.md)
+### #is_/same_as :: [[/_secret/Society/Law/Judiciary/Court/Evidence.secret|Evidence.secret]] 
 

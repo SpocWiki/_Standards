@@ -97,17 +97,17 @@ Commons_category: Waste management
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Waste_Management](/_Standards/bio/Ecology/Waste_Management.md) 
+### #is_/same_as :: [[/_Standards/bio/Ecology/Waste_Management|Waste_Management]] 
 
-### #is_/same_as :: [Waste_Management.public](/_public/bio/Ecology/Waste_Management.public.md) 
+### #is_/same_as :: [[/_public/bio/Ecology/Waste_Management.public|Waste_Management.public]] 
 
-### #is_/same_as :: [Waste_Management.internal](/_internal/bio/Ecology/Waste_Management.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Ecology/Waste_Management.internal|Waste_Management.internal]] 
 
-### #is_/same_as :: [Waste_Management.protect](/_protect/bio/Ecology/Waste_Management.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Ecology/Waste_Management.protect|Waste_Management.protect]] 
 
-### #is_/same_as :: [Waste_Management.private](/_private/bio/Ecology/Waste_Management.private.md) 
+### #is_/same_as :: [[/_private/bio/Ecology/Waste_Management.private|Waste_Management.private]] 
 
-### #is_/same_as :: [Waste_Management.personal](/_personal/bio/Ecology/Waste_Management.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Ecology/Waste_Management.personal|Waste_Management.personal]] 
 
-### #is_/same_as :: [Waste_Management.secret](/_secret/bio/Ecology/Waste_Management.secret.md)
+### #is_/same_as :: [[/_secret/bio/Ecology/Waste_Management.secret|Waste_Management.secret]] 
 

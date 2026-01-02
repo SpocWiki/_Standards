@@ -113,7 +113,7 @@ anatomical characters. J. Moll. Stud. 63: 311-325.
 
 ## Title Illustrations
 
-![](Argonautoida/ArgonautoidFams.jpg))
+![](Argonautoida/ArgonautoidFams.jpg) 
 
   ---------------------------------------
   Scientific Name ::   Argonauta nodosa, Haliphron atlanticus, Ocythoe tuberculata, Tremoctopus violaceus
@@ -124,17 +124,17 @@ anatomical characters. J. Moll. Stud. 63: 311-325.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Argonautoida](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Incirrata/Argonautoida.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Incirrata/Argonautoida|Argonautoida]] 
 
-### #is_/same_as :: [Argonautoida.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Incirrata/Argonautoida.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Incirrata/Argonautoida.public|Argonautoida.public]] 
 
-### #is_/same_as :: [Argonautoida.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Incirrata/Argonautoida.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Incirrata/Argonautoida.internal|Argonautoida.internal]] 
 
-### #is_/same_as :: [Argonautoida.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Incirrata/Argonautoida.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Incirrata/Argonautoida.protect|Argonautoida.protect]] 
 
-### #is_/same_as :: [Argonautoida.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Incirrata/Argonautoida.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Incirrata/Argonautoida.private|Argonautoida.private]] 
 
-### #is_/same_as :: [Argonautoida.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Incirrata/Argonautoida.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Incirrata/Argonautoida.personal|Argonautoida.personal]] 
 
-### #is_/same_as :: [Argonautoida.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Incirrata/Argonautoida.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Incirrata/Argonautoida.secret|Argonautoida.secret]] 
 

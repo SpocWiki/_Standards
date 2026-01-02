@@ -42,17 +42,17 @@ Krugosvet_article_archived_: kultura_i_obrazovanie/literatura/LATINOAMERIKANSKAY
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Latin_American_Literature](/_Standards/Society/Communication/Media/Writing/Book/Literature/Latin_American_Literature.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Literature/Latin_American_Literature|Latin_American_Literature]] 
 
-### #is_/same_as :: [Latin_American_Literature.public](/_public/Society/Communication/Media/Writing/Book/Literature/Latin_American_Literature.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Literature/Latin_American_Literature.public|Latin_American_Literature.public]] 
 
-### #is_/same_as :: [Latin_American_Literature.internal](/_internal/Society/Communication/Media/Writing/Book/Literature/Latin_American_Literature.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Literature/Latin_American_Literature.internal|Latin_American_Literature.internal]] 
 
-### #is_/same_as :: [Latin_American_Literature.protect](/_protect/Society/Communication/Media/Writing/Book/Literature/Latin_American_Literature.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Literature/Latin_American_Literature.protect|Latin_American_Literature.protect]] 
 
-### #is_/same_as :: [Latin_American_Literature.private](/_private/Society/Communication/Media/Writing/Book/Literature/Latin_American_Literature.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Literature/Latin_American_Literature.private|Latin_American_Literature.private]] 
 
-### #is_/same_as :: [Latin_American_Literature.personal](/_personal/Society/Communication/Media/Writing/Book/Literature/Latin_American_Literature.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Literature/Latin_American_Literature.personal|Latin_American_Literature.personal]] 
 
-### #is_/same_as :: [Latin_American_Literature.secret](/_secret/Society/Communication/Media/Writing/Book/Literature/Latin_American_Literature.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Literature/Latin_American_Literature.secret|Latin_American_Literature.secret]] 
 

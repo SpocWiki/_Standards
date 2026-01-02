@@ -36,17 +36,17 @@ coordinate_location: Point(152.666666666 -7.5)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Solomon_Sea](/_Standards/Earth/Continent/Australasia/Melanesia/Solomon_Sea.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Australasia/Melanesia/Solomon_Sea|Solomon_Sea]] 
 
-### #is_/same_as :: [Solomon_Sea.public](/_public/Earth/Continent/Australasia/Melanesia/Solomon_Sea.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Australasia/Melanesia/Solomon_Sea.public|Solomon_Sea.public]] 
 
-### #is_/same_as :: [Solomon_Sea.internal](/_internal/Earth/Continent/Australasia/Melanesia/Solomon_Sea.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Australasia/Melanesia/Solomon_Sea.internal|Solomon_Sea.internal]] 
 
-### #is_/same_as :: [Solomon_Sea.protect](/_protect/Earth/Continent/Australasia/Melanesia/Solomon_Sea.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Australasia/Melanesia/Solomon_Sea.protect|Solomon_Sea.protect]] 
 
-### #is_/same_as :: [Solomon_Sea.private](/_private/Earth/Continent/Australasia/Melanesia/Solomon_Sea.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Australasia/Melanesia/Solomon_Sea.private|Solomon_Sea.private]] 
 
-### #is_/same_as :: [Solomon_Sea.personal](/_personal/Earth/Continent/Australasia/Melanesia/Solomon_Sea.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Australasia/Melanesia/Solomon_Sea.personal|Solomon_Sea.personal]] 
 
-### #is_/same_as :: [Solomon_Sea.secret](/_secret/Earth/Continent/Australasia/Melanesia/Solomon_Sea.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Australasia/Melanesia/Solomon_Sea.secret|Solomon_Sea.secret]] 
 

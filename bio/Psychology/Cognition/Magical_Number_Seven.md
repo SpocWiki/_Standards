@@ -31,17 +31,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Magical_Number_Seven](/_Standards/bio/Psychology/Cognition/Magical_Number_Seven.md) 
+### #is_/same_as :: [[/_Standards/bio/Psychology/Cognition/Magical_Number_Seven|Magical_Number_Seven]] 
 
-### #is_/same_as :: [Magical_Number_Seven.public](/_public/bio/Psychology/Cognition/Magical_Number_Seven.public.md) 
+### #is_/same_as :: [[/_public/bio/Psychology/Cognition/Magical_Number_Seven.public|Magical_Number_Seven.public]] 
 
-### #is_/same_as :: [Magical_Number_Seven.internal](/_internal/bio/Psychology/Cognition/Magical_Number_Seven.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Psychology/Cognition/Magical_Number_Seven.internal|Magical_Number_Seven.internal]] 
 
-### #is_/same_as :: [Magical_Number_Seven.protect](/_protect/bio/Psychology/Cognition/Magical_Number_Seven.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Psychology/Cognition/Magical_Number_Seven.protect|Magical_Number_Seven.protect]] 
 
-### #is_/same_as :: [Magical_Number_Seven.private](/_private/bio/Psychology/Cognition/Magical_Number_Seven.private.md) 
+### #is_/same_as :: [[/_private/bio/Psychology/Cognition/Magical_Number_Seven.private|Magical_Number_Seven.private]] 
 
-### #is_/same_as :: [Magical_Number_Seven.personal](/_personal/bio/Psychology/Cognition/Magical_Number_Seven.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Psychology/Cognition/Magical_Number_Seven.personal|Magical_Number_Seven.personal]] 
 
-### #is_/same_as :: [Magical_Number_Seven.secret](/_secret/bio/Psychology/Cognition/Magical_Number_Seven.secret.md)
+### #is_/same_as :: [[/_secret/bio/Psychology/Cognition/Magical_Number_Seven.secret|Magical_Number_Seven.secret]] 
 

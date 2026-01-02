@@ -112,17 +112,17 @@ Copyright ::            © 2005 [Farl](http://flickr.com/people/89972557@N00)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Land_Plant](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant|Land_Plant]] 
 
-### #is_/same_as :: [Land_Plant.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant.public|Land_Plant.public]] 
 
-### #is_/same_as :: [Land_Plant.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant.internal|Land_Plant.internal]] 
 
-### #is_/same_as :: [Land_Plant.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant.protect|Land_Plant.protect]] 
 
-### #is_/same_as :: [Land_Plant.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant.private|Land_Plant.private]] 
 
-### #is_/same_as :: [Land_Plant.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant.personal|Land_Plant.personal]] 
 
-### #is_/same_as :: [Land_Plant.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant.secret|Land_Plant.secret]] 
 

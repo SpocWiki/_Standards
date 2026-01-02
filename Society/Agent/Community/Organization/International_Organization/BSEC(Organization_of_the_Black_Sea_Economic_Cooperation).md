@@ -58,17 +58,17 @@ EU_VAT_number: TR5090025968
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [BSEC(Organization_of_the_Black_Sea_Economic_Cooperation)](/_Standards/Society/Agent/Community/Organization/International_Organization/BSEC(Organization_of_the_Black_Sea_Economic_Cooperation).md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/International_Organization/BSEC(Organization_of_the_Black_Sea_Economic_Cooperation)|BSEC(Organization_of_the_Black_Sea_Economic_Cooperation)]] 
 
-### #is_/same_as :: [BSEC(Organization_of_the_Black_Sea_Economic_Cooperation).public](/_public/Society/Agent/Community/Organization/International_Organization/BSEC(Organization_of_the_Black_Sea_Economic_Cooperation).public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/International_Organization/BSEC(Organization_of_the_Black_Sea_Economic_Cooperation).public|BSEC(Organization_of_the_Black_Sea_Economic_Cooperation).public]] 
 
-### #is_/same_as :: [BSEC(Organization_of_the_Black_Sea_Economic_Cooperation).internal](/_internal/Society/Agent/Community/Organization/International_Organization/BSEC(Organization_of_the_Black_Sea_Economic_Cooperation).internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/International_Organization/BSEC(Organization_of_the_Black_Sea_Economic_Cooperation).internal|BSEC(Organization_of_the_Black_Sea_Economic_Cooperation).internal]] 
 
-### #is_/same_as :: [BSEC(Organization_of_the_Black_Sea_Economic_Cooperation).protect](/_protect/Society/Agent/Community/Organization/International_Organization/BSEC(Organization_of_the_Black_Sea_Economic_Cooperation).protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/International_Organization/BSEC(Organization_of_the_Black_Sea_Economic_Cooperation).protect|BSEC(Organization_of_the_Black_Sea_Economic_Cooperation).protect]] 
 
-### #is_/same_as :: [BSEC(Organization_of_the_Black_Sea_Economic_Cooperation).private](/_private/Society/Agent/Community/Organization/International_Organization/BSEC(Organization_of_the_Black_Sea_Economic_Cooperation).private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/International_Organization/BSEC(Organization_of_the_Black_Sea_Economic_Cooperation).private|BSEC(Organization_of_the_Black_Sea_Economic_Cooperation).private]] 
 
-### #is_/same_as :: [BSEC(Organization_of_the_Black_Sea_Economic_Cooperation).personal](/_personal/Society/Agent/Community/Organization/International_Organization/BSEC(Organization_of_the_Black_Sea_Economic_Cooperation).personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/International_Organization/BSEC(Organization_of_the_Black_Sea_Economic_Cooperation).personal|BSEC(Organization_of_the_Black_Sea_Economic_Cooperation).personal]] 
 
-### #is_/same_as :: [BSEC(Organization_of_the_Black_Sea_Economic_Cooperation).secret](/_secret/Society/Agent/Community/Organization/International_Organization/BSEC(Organization_of_the_Black_Sea_Economic_Cooperation).secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/International_Organization/BSEC(Organization_of_the_Black_Sea_Economic_Cooperation).secret|BSEC(Organization_of_the_Black_Sea_Economic_Cooperation).secret]] 
 

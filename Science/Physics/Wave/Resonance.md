@@ -39,17 +39,17 @@ IEV_number:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Resonance](/_Standards/Science/Physics/Wave/Resonance.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Wave/Resonance|Resonance]] 
 
-### #is_/same_as :: [Resonance.public](/_public/Science/Physics/Wave/Resonance.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Wave/Resonance.public|Resonance.public]] 
 
-### #is_/same_as :: [Resonance.internal](/_internal/Science/Physics/Wave/Resonance.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Wave/Resonance.internal|Resonance.internal]] 
 
-### #is_/same_as :: [Resonance.protect](/_protect/Science/Physics/Wave/Resonance.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Wave/Resonance.protect|Resonance.protect]] 
 
-### #is_/same_as :: [Resonance.private](/_private/Science/Physics/Wave/Resonance.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Wave/Resonance.private|Resonance.private]] 
 
-### #is_/same_as :: [Resonance.personal](/_personal/Science/Physics/Wave/Resonance.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Wave/Resonance.personal|Resonance.personal]] 
 
-### #is_/same_as :: [Resonance.secret](/_secret/Science/Physics/Wave/Resonance.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Wave/Resonance.secret|Resonance.secret]] 
 

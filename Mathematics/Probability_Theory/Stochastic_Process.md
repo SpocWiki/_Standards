@@ -60,17 +60,17 @@ Dewey_Decimal_Classification: 519.23
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Stochastic_Process](/_Standards/Mathematics/Probability_Theory/Stochastic_Process.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Probability_Theory/Stochastic_Process|Stochastic_Process]] 
 
-### #is_/same_as :: [Stochastic_Process.public](/_public/Mathematics/Probability_Theory/Stochastic_Process.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Probability_Theory/Stochastic_Process.public|Stochastic_Process.public]] 
 
-### #is_/same_as :: [Stochastic_Process.internal](/_internal/Mathematics/Probability_Theory/Stochastic_Process.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Probability_Theory/Stochastic_Process.internal|Stochastic_Process.internal]] 
 
-### #is_/same_as :: [Stochastic_Process.protect](/_protect/Mathematics/Probability_Theory/Stochastic_Process.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Probability_Theory/Stochastic_Process.protect|Stochastic_Process.protect]] 
 
-### #is_/same_as :: [Stochastic_Process.private](/_private/Mathematics/Probability_Theory/Stochastic_Process.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Probability_Theory/Stochastic_Process.private|Stochastic_Process.private]] 
 
-### #is_/same_as :: [Stochastic_Process.personal](/_personal/Mathematics/Probability_Theory/Stochastic_Process.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Probability_Theory/Stochastic_Process.personal|Stochastic_Process.personal]] 
 
-### #is_/same_as :: [Stochastic_Process.secret](/_secret/Mathematics/Probability_Theory/Stochastic_Process.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Probability_Theory/Stochastic_Process.secret|Stochastic_Process.secret]] 
 

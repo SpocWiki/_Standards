@@ -109,17 +109,17 @@ Plex_person_key: 5d776826961905001eb90e2e
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Huston,Anjelica](/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Huston,Anjelica.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Huston,Anjelica|Huston,Anjelica]] 
 
-### #is_/same_as :: [Huston,Anjelica.public](/_public/Society/Communication/Media/Movie/Actor/US_Actor/Huston,Anjelica.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Actor/US_Actor/Huston,Anjelica.public|Huston,Anjelica.public]] 
 
-### #is_/same_as :: [Huston,Anjelica.internal](/_internal/Society/Communication/Media/Movie/Actor/US_Actor/Huston,Anjelica.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Actor/US_Actor/Huston,Anjelica.internal|Huston,Anjelica.internal]] 
 
-### #is_/same_as :: [Huston,Anjelica.protect](/_protect/Society/Communication/Media/Movie/Actor/US_Actor/Huston,Anjelica.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Actor/US_Actor/Huston,Anjelica.protect|Huston,Anjelica.protect]] 
 
-### #is_/same_as :: [Huston,Anjelica.private](/_private/Society/Communication/Media/Movie/Actor/US_Actor/Huston,Anjelica.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Actor/US_Actor/Huston,Anjelica.private|Huston,Anjelica.private]] 
 
-### #is_/same_as :: [Huston,Anjelica.personal](/_personal/Society/Communication/Media/Movie/Actor/US_Actor/Huston,Anjelica.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Actor/US_Actor/Huston,Anjelica.personal|Huston,Anjelica.personal]] 
 
-### #is_/same_as :: [Huston,Anjelica.secret](/_secret/Society/Communication/Media/Movie/Actor/US_Actor/Huston,Anjelica.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Actor/US_Actor/Huston,Anjelica.secret|Huston,Anjelica.secret]] 
 

@@ -41,17 +41,17 @@ A business that provides Heating, Ventilation and Air Conditioning services.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hvac_Business](/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Home_and_Construction_Business/Hvac_Business.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Home_and_Construction_Business/Hvac_Business|Hvac_Business]] 
 
-### #is_/same_as :: [Hvac_Business.public](/_public/Society/Agent/Community/Organization/Business/Local_Business/Home_and_Construction_Business/Hvac_Business.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Business/Local_Business/Home_and_Construction_Business/Hvac_Business.public|Hvac_Business.public]] 
 
-### #is_/same_as :: [Hvac_Business.internal](/_internal/Society/Agent/Community/Organization/Business/Local_Business/Home_and_Construction_Business/Hvac_Business.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Business/Local_Business/Home_and_Construction_Business/Hvac_Business.internal|Hvac_Business.internal]] 
 
-### #is_/same_as :: [Hvac_Business.protect](/_protect/Society/Agent/Community/Organization/Business/Local_Business/Home_and_Construction_Business/Hvac_Business.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Business/Local_Business/Home_and_Construction_Business/Hvac_Business.protect|Hvac_Business.protect]] 
 
-### #is_/same_as :: [Hvac_Business.private](/_private/Society/Agent/Community/Organization/Business/Local_Business/Home_and_Construction_Business/Hvac_Business.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Business/Local_Business/Home_and_Construction_Business/Hvac_Business.private|Hvac_Business.private]] 
 
-### #is_/same_as :: [Hvac_Business.personal](/_personal/Society/Agent/Community/Organization/Business/Local_Business/Home_and_Construction_Business/Hvac_Business.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Business/Local_Business/Home_and_Construction_Business/Hvac_Business.personal|Hvac_Business.personal]] 
 
-### #is_/same_as :: [Hvac_Business.secret](/_secret/Society/Agent/Community/Organization/Business/Local_Business/Home_and_Construction_Business/Hvac_Business.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Business/Local_Business/Home_and_Construction_Business/Hvac_Business.secret|Hvac_Business.secret]] 
 

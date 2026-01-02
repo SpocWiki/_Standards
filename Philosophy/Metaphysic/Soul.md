@@ -68,17 +68,17 @@ Gujarati_Vishwakosh_entry: આત્મા
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Soul](/_Standards/Philosophy/Metaphysic/Soul.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Soul|Soul]] 
 
-### #is_/same_as :: [Soul.public](/_public/Philosophy/Metaphysic/Soul.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Soul.public|Soul.public]] 
 
-### #is_/same_as :: [Soul.internal](/_internal/Philosophy/Metaphysic/Soul.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Soul.internal|Soul.internal]] 
 
-### #is_/same_as :: [Soul.protect](/_protect/Philosophy/Metaphysic/Soul.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Soul.protect|Soul.protect]] 
 
-### #is_/same_as :: [Soul.private](/_private/Philosophy/Metaphysic/Soul.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Soul.private|Soul.private]] 
 
-### #is_/same_as :: [Soul.personal](/_personal/Philosophy/Metaphysic/Soul.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Soul.personal|Soul.personal]] 
 
-### #is_/same_as :: [Soul.secret](/_secret/Philosophy/Metaphysic/Soul.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Soul.secret|Soul.secret]] 
 

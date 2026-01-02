@@ -62,17 +62,17 @@ MeSH_tree_code: I03.883
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Travel](/_Standards/Technology/Transport/Travel.md) 
+### #is_/same_as :: [[/_Standards/Technology/Transport/Travel|Travel]] 
 
-### #is_/same_as :: [Travel.public](/_public/Technology/Transport/Travel.public.md) 
+### #is_/same_as :: [[/_public/Technology/Transport/Travel.public|Travel.public]] 
 
-### #is_/same_as :: [Travel.internal](/_internal/Technology/Transport/Travel.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Transport/Travel.internal|Travel.internal]] 
 
-### #is_/same_as :: [Travel.protect](/_protect/Technology/Transport/Travel.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Transport/Travel.protect|Travel.protect]] 
 
-### #is_/same_as :: [Travel.private](/_private/Technology/Transport/Travel.private.md) 
+### #is_/same_as :: [[/_private/Technology/Transport/Travel.private|Travel.private]] 
 
-### #is_/same_as :: [Travel.personal](/_personal/Technology/Transport/Travel.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Transport/Travel.personal|Travel.personal]] 
 
-### #is_/same_as :: [Travel.secret](/_secret/Technology/Transport/Travel.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Transport/Travel.secret|Travel.secret]] 
 

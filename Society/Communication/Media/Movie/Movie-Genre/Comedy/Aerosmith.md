@@ -96,17 +96,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Aerosmith](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Comedy/Aerosmith.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Genre/Comedy/Aerosmith|Aerosmith]] 
 
-### #is_/same_as :: [Aerosmith.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Comedy/Aerosmith.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Genre/Comedy/Aerosmith.public|Aerosmith.public]] 
 
-### #is_/same_as :: [Aerosmith.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Comedy/Aerosmith.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Genre/Comedy/Aerosmith.internal|Aerosmith.internal]] 
 
-### #is_/same_as :: [Aerosmith.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Comedy/Aerosmith.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Genre/Comedy/Aerosmith.protect|Aerosmith.protect]] 
 
-### #is_/same_as :: [Aerosmith.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Comedy/Aerosmith.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Genre/Comedy/Aerosmith.private|Aerosmith.private]] 
 
-### #is_/same_as :: [Aerosmith.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Comedy/Aerosmith.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Genre/Comedy/Aerosmith.personal|Aerosmith.personal]] 
 
-### #is_/same_as :: [Aerosmith.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Comedy/Aerosmith.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Genre/Comedy/Aerosmith.secret|Aerosmith.secret]] 
 

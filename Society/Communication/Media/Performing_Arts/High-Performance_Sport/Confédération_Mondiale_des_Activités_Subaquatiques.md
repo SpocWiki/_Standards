@@ -50,17 +50,17 @@ Commons_category: Confédération Mondiale des Activités Subaquatiques
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Confédération_Mondiale_des_Activités_Subaquatiques](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Confédération_Mondiale_des_Activités_Subaquatiques.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Confédération_Mondiale_des_Activités_Subaquatiques|Confédération_Mondiale_des_Activités_Subaquatiques]] 
 
-### #is_/same_as :: [Confédération_Mondiale_des_Activités_Subaquatiques.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Confédération_Mondiale_des_Activités_Subaquatiques.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Confédération_Mondiale_des_Activités_Subaquatiques.public|Confédération_Mondiale_des_Activités_Subaquatiques.public]] 
 
-### #is_/same_as :: [Confédération_Mondiale_des_Activités_Subaquatiques.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Confédération_Mondiale_des_Activités_Subaquatiques.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Confédération_Mondiale_des_Activités_Subaquatiques.internal|Confédération_Mondiale_des_Activités_Subaquatiques.internal]] 
 
-### #is_/same_as :: [Confédération_Mondiale_des_Activités_Subaquatiques.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Confédération_Mondiale_des_Activités_Subaquatiques.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Confédération_Mondiale_des_Activités_Subaquatiques.protect|Confédération_Mondiale_des_Activités_Subaquatiques.protect]] 
 
-### #is_/same_as :: [Confédération_Mondiale_des_Activités_Subaquatiques.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Confédération_Mondiale_des_Activités_Subaquatiques.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Confédération_Mondiale_des_Activités_Subaquatiques.private|Confédération_Mondiale_des_Activités_Subaquatiques.private]] 
 
-### #is_/same_as :: [Confédération_Mondiale_des_Activités_Subaquatiques.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Confédération_Mondiale_des_Activités_Subaquatiques.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Confédération_Mondiale_des_Activités_Subaquatiques.personal|Confédération_Mondiale_des_Activités_Subaquatiques.personal]] 
 
-### #is_/same_as :: [Confédération_Mondiale_des_Activités_Subaquatiques.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Confédération_Mondiale_des_Activités_Subaquatiques.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Confédération_Mondiale_des_Activités_Subaquatiques.secret|Confédération_Mondiale_des_Activités_Subaquatiques.secret]] 
 

@@ -29,17 +29,17 @@ Commons_category: Civil marriage
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Civil_Marriage](/_Standards/Society/Agent/Community/Clan/Family/Marriage/Civil_Marriage.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Clan/Family/Marriage/Civil_Marriage|Civil_Marriage]] 
 
-### #is_/same_as :: [Civil_Marriage.public](/_public/Society/Agent/Community/Clan/Family/Marriage/Civil_Marriage.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Clan/Family/Marriage/Civil_Marriage.public|Civil_Marriage.public]] 
 
-### #is_/same_as :: [Civil_Marriage.internal](/_internal/Society/Agent/Community/Clan/Family/Marriage/Civil_Marriage.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Clan/Family/Marriage/Civil_Marriage.internal|Civil_Marriage.internal]] 
 
-### #is_/same_as :: [Civil_Marriage.protect](/_protect/Society/Agent/Community/Clan/Family/Marriage/Civil_Marriage.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Clan/Family/Marriage/Civil_Marriage.protect|Civil_Marriage.protect]] 
 
-### #is_/same_as :: [Civil_Marriage.private](/_private/Society/Agent/Community/Clan/Family/Marriage/Civil_Marriage.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Clan/Family/Marriage/Civil_Marriage.private|Civil_Marriage.private]] 
 
-### #is_/same_as :: [Civil_Marriage.personal](/_personal/Society/Agent/Community/Clan/Family/Marriage/Civil_Marriage.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Clan/Family/Marriage/Civil_Marriage.personal|Civil_Marriage.personal]] 
 
-### #is_/same_as :: [Civil_Marriage.secret](/_secret/Society/Agent/Community/Clan/Family/Marriage/Civil_Marriage.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Clan/Family/Marriage/Civil_Marriage.secret|Civil_Marriage.secret]] 
 

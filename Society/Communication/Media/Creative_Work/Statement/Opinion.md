@@ -45,17 +45,17 @@ and [[Claim]]s of Facts are debatable.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Opinion](/_Standards/Society/Communication/Media/Creative_Work/Statement/Opinion.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Creative_Work/Statement/Opinion|Opinion]] 
 
-### #is_/same_as :: [Opinion.public](/_public/Society/Communication/Media/Creative_Work/Statement/Opinion.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Creative_Work/Statement/Opinion.public|Opinion.public]] 
 
-### #is_/same_as :: [Opinion.internal](/_internal/Society/Communication/Media/Creative_Work/Statement/Opinion.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Creative_Work/Statement/Opinion.internal|Opinion.internal]] 
 
-### #is_/same_as :: [Opinion.protect](/_protect/Society/Communication/Media/Creative_Work/Statement/Opinion.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Creative_Work/Statement/Opinion.protect|Opinion.protect]] 
 
-### #is_/same_as :: [Opinion.private](/_private/Society/Communication/Media/Creative_Work/Statement/Opinion.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Creative_Work/Statement/Opinion.private|Opinion.private]] 
 
-### #is_/same_as :: [Opinion.personal](/_personal/Society/Communication/Media/Creative_Work/Statement/Opinion.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/Statement/Opinion.personal|Opinion.personal]] 
 
-### #is_/same_as :: [Opinion.secret](/_secret/Society/Communication/Media/Creative_Work/Statement/Opinion.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Statement/Opinion.secret|Opinion.secret]] 
 

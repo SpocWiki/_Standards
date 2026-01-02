@@ -62,17 +62,17 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Age~2~Darriwilian](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~2~Ordovician/Epoch~2~Middle_Ordovician/Age~2~Darriwilian.md) 
+### #is_/same_as :: [[/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~2~Ordovician/Epoch~2~Middle_Ordovician/Age~2~Darriwilian|Age~2~Darriwilian]] 
 
-### #is_/same_as :: [Age~2~Darriwilian.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~2~Ordovician/Epoch~2~Middle_Ordovician/Age~2~Darriwilian.public.md) 
+### #is_/same_as :: [[/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~2~Ordovician/Epoch~2~Middle_Ordovician/Age~2~Darriwilian.public|Age~2~Darriwilian.public]] 
 
-### #is_/same_as :: [Age~2~Darriwilian.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~2~Ordovician/Epoch~2~Middle_Ordovician/Age~2~Darriwilian.internal.md) 
+### #is_/same_as :: [[/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~2~Ordovician/Epoch~2~Middle_Ordovician/Age~2~Darriwilian.internal|Age~2~Darriwilian.internal]] 
 
-### #is_/same_as :: [Age~2~Darriwilian.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~2~Ordovician/Epoch~2~Middle_Ordovician/Age~2~Darriwilian.protect.md) 
+### #is_/same_as :: [[/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~2~Ordovician/Epoch~2~Middle_Ordovician/Age~2~Darriwilian.protect|Age~2~Darriwilian.protect]] 
 
-### #is_/same_as :: [Age~2~Darriwilian.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~2~Ordovician/Epoch~2~Middle_Ordovician/Age~2~Darriwilian.private.md) 
+### #is_/same_as :: [[/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~2~Ordovician/Epoch~2~Middle_Ordovician/Age~2~Darriwilian.private|Age~2~Darriwilian.private]] 
 
-### #is_/same_as :: [Age~2~Darriwilian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~2~Ordovician/Epoch~2~Middle_Ordovician/Age~2~Darriwilian.personal.md) 
+### #is_/same_as :: [[/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~2~Ordovician/Epoch~2~Middle_Ordovician/Age~2~Darriwilian.personal|Age~2~Darriwilian.personal]] 
 
-### #is_/same_as :: [Age~2~Darriwilian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~2~Ordovician/Epoch~2~Middle_Ordovician/Age~2~Darriwilian.secret.md)
+### #is_/same_as :: [[/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~2~Ordovician/Epoch~2~Middle_Ordovician/Age~2~Darriwilian.secret|Age~2~Darriwilian.secret]] 
 

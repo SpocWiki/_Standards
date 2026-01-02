@@ -44,17 +44,17 @@ Tag Instances like this:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Use_Action](/_Standards/schema-org/Class/is_a_/Action/Consume_Action/Use_Action.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Action/Consume_Action/Use_Action|Use_Action]] 
 
-### #is_/same_as :: [Use_Action.public](/_public/schema-org/Class/is_a_/Action/Consume_Action/Use_Action.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Action/Consume_Action/Use_Action.public|Use_Action.public]] 
 
-### #is_/same_as :: [Use_Action.internal](/_internal/schema-org/Class/is_a_/Action/Consume_Action/Use_Action.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Action/Consume_Action/Use_Action.internal|Use_Action.internal]] 
 
-### #is_/same_as :: [Use_Action.protect](/_protect/schema-org/Class/is_a_/Action/Consume_Action/Use_Action.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Action/Consume_Action/Use_Action.protect|Use_Action.protect]] 
 
-### #is_/same_as :: [Use_Action.private](/_private/schema-org/Class/is_a_/Action/Consume_Action/Use_Action.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Action/Consume_Action/Use_Action.private|Use_Action.private]] 
 
-### #is_/same_as :: [Use_Action.personal](/_personal/schema-org/Class/is_a_/Action/Consume_Action/Use_Action.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Action/Consume_Action/Use_Action.personal|Use_Action.personal]] 
 
-### #is_/same_as :: [Use_Action.secret](/_secret/schema-org/Class/is_a_/Action/Consume_Action/Use_Action.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Action/Consume_Action/Use_Action.secret|Use_Action.secret]] 
 

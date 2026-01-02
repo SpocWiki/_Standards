@@ -51,17 +51,17 @@ Iconclass_notation: 47C436
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Soldering_or_Brazing](/_Standards/Technology/Tool/Mechanical_Tool/Fastener/Soldering_or_Brazing.md) 
+### #is_/same_as :: [[/_Standards/Technology/Tool/Mechanical_Tool/Fastener/Soldering_or_Brazing|Soldering_or_Brazing]] 
 
-### #is_/same_as :: [Soldering_or_Brazing.public](/_public/Technology/Tool/Mechanical_Tool/Fastener/Soldering_or_Brazing.public.md) 
+### #is_/same_as :: [[/_public/Technology/Tool/Mechanical_Tool/Fastener/Soldering_or_Brazing.public|Soldering_or_Brazing.public]] 
 
-### #is_/same_as :: [Soldering_or_Brazing.internal](/_internal/Technology/Tool/Mechanical_Tool/Fastener/Soldering_or_Brazing.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Tool/Mechanical_Tool/Fastener/Soldering_or_Brazing.internal|Soldering_or_Brazing.internal]] 
 
-### #is_/same_as :: [Soldering_or_Brazing.protect](/_protect/Technology/Tool/Mechanical_Tool/Fastener/Soldering_or_Brazing.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Tool/Mechanical_Tool/Fastener/Soldering_or_Brazing.protect|Soldering_or_Brazing.protect]] 
 
-### #is_/same_as :: [Soldering_or_Brazing.private](/_private/Technology/Tool/Mechanical_Tool/Fastener/Soldering_or_Brazing.private.md) 
+### #is_/same_as :: [[/_private/Technology/Tool/Mechanical_Tool/Fastener/Soldering_or_Brazing.private|Soldering_or_Brazing.private]] 
 
-### #is_/same_as :: [Soldering_or_Brazing.personal](/_personal/Technology/Tool/Mechanical_Tool/Fastener/Soldering_or_Brazing.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Tool/Mechanical_Tool/Fastener/Soldering_or_Brazing.personal|Soldering_or_Brazing.personal]] 
 
-### #is_/same_as :: [Soldering_or_Brazing.secret](/_secret/Technology/Tool/Mechanical_Tool/Fastener/Soldering_or_Brazing.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Tool/Mechanical_Tool/Fastener/Soldering_or_Brazing.secret|Soldering_or_Brazing.secret]] 
 

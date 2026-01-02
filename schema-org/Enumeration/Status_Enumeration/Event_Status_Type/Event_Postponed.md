@@ -42,17 +42,17 @@ The event has been postponed and no new date has been set. The event's previousS
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Event_Postponed](/_Standards/schema-org/Enumeration/Status_Enumeration/Event_Status_Type/Event_Postponed.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Status_Enumeration/Event_Status_Type/Event_Postponed|Event_Postponed]] 
 
-### #is_/same_as :: [Event_Postponed.public](/_public/schema-org/Enumeration/Status_Enumeration/Event_Status_Type/Event_Postponed.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Status_Enumeration/Event_Status_Type/Event_Postponed.public|Event_Postponed.public]] 
 
-### #is_/same_as :: [Event_Postponed.internal](/_internal/schema-org/Enumeration/Status_Enumeration/Event_Status_Type/Event_Postponed.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Status_Enumeration/Event_Status_Type/Event_Postponed.internal|Event_Postponed.internal]] 
 
-### #is_/same_as :: [Event_Postponed.protect](/_protect/schema-org/Enumeration/Status_Enumeration/Event_Status_Type/Event_Postponed.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Status_Enumeration/Event_Status_Type/Event_Postponed.protect|Event_Postponed.protect]] 
 
-### #is_/same_as :: [Event_Postponed.private](/_private/schema-org/Enumeration/Status_Enumeration/Event_Status_Type/Event_Postponed.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Status_Enumeration/Event_Status_Type/Event_Postponed.private|Event_Postponed.private]] 
 
-### #is_/same_as :: [Event_Postponed.personal](/_personal/schema-org/Enumeration/Status_Enumeration/Event_Status_Type/Event_Postponed.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Status_Enumeration/Event_Status_Type/Event_Postponed.personal|Event_Postponed.personal]] 
 
-### #is_/same_as :: [Event_Postponed.secret](/_secret/schema-org/Enumeration/Status_Enumeration/Event_Status_Type/Event_Postponed.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Status_Enumeration/Event_Status_Type/Event_Postponed.secret|Event_Postponed.secret]] 
 

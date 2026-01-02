@@ -46,17 +46,17 @@ Commons_category: Pulleys
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Pulley](/_Standards/Technology/Engineering/Mechanical_Engineering/Machine/Classical_simple_Machine/Pulley.md) 
+### #is_/same_as :: [[/_Standards/Technology/Engineering/Mechanical_Engineering/Machine/Classical_simple_Machine/Pulley|Pulley]] 
 
-### #is_/same_as :: [Pulley.public](/_public/Technology/Engineering/Mechanical_Engineering/Machine/Classical_simple_Machine/Pulley.public.md) 
+### #is_/same_as :: [[/_public/Technology/Engineering/Mechanical_Engineering/Machine/Classical_simple_Machine/Pulley.public|Pulley.public]] 
 
-### #is_/same_as :: [Pulley.internal](/_internal/Technology/Engineering/Mechanical_Engineering/Machine/Classical_simple_Machine/Pulley.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Engineering/Mechanical_Engineering/Machine/Classical_simple_Machine/Pulley.internal|Pulley.internal]] 
 
-### #is_/same_as :: [Pulley.protect](/_protect/Technology/Engineering/Mechanical_Engineering/Machine/Classical_simple_Machine/Pulley.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Engineering/Mechanical_Engineering/Machine/Classical_simple_Machine/Pulley.protect|Pulley.protect]] 
 
-### #is_/same_as :: [Pulley.private](/_private/Technology/Engineering/Mechanical_Engineering/Machine/Classical_simple_Machine/Pulley.private.md) 
+### #is_/same_as :: [[/_private/Technology/Engineering/Mechanical_Engineering/Machine/Classical_simple_Machine/Pulley.private|Pulley.private]] 
 
-### #is_/same_as :: [Pulley.personal](/_personal/Technology/Engineering/Mechanical_Engineering/Machine/Classical_simple_Machine/Pulley.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Engineering/Mechanical_Engineering/Machine/Classical_simple_Machine/Pulley.personal|Pulley.personal]] 
 
-### #is_/same_as :: [Pulley.secret](/_secret/Technology/Engineering/Mechanical_Engineering/Machine/Classical_simple_Machine/Pulley.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Engineering/Mechanical_Engineering/Machine/Classical_simple_Machine/Pulley.secret|Pulley.secret]] 
 

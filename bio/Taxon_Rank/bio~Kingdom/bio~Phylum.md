@@ -53,17 +53,17 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Linnaeus%20-%20%C3%96r
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [bio~Phylum](/_Standards/bio/Taxon_Rank/bio~Kingdom/bio~Phylum.md) 
+### #is_/same_as :: [[/_Standards/bio/Taxon_Rank/bio~Kingdom/bio~Phylum|bio~Phylum]] 
 
-### #is_/same_as :: [bio~Phylum.public](/_public/bio/Taxon_Rank/bio~Kingdom/bio~Phylum.public.md) 
+### #is_/same_as :: [[/_public/bio/Taxon_Rank/bio~Kingdom/bio~Phylum.public|bio~Phylum.public]] 
 
-### #is_/same_as :: [bio~Phylum.internal](/_internal/bio/Taxon_Rank/bio~Kingdom/bio~Phylum.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Taxon_Rank/bio~Kingdom/bio~Phylum.internal|bio~Phylum.internal]] 
 
-### #is_/same_as :: [bio~Phylum.protect](/_protect/bio/Taxon_Rank/bio~Kingdom/bio~Phylum.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Taxon_Rank/bio~Kingdom/bio~Phylum.protect|bio~Phylum.protect]] 
 
-### #is_/same_as :: [bio~Phylum.private](/_private/bio/Taxon_Rank/bio~Kingdom/bio~Phylum.private.md) 
+### #is_/same_as :: [[/_private/bio/Taxon_Rank/bio~Kingdom/bio~Phylum.private|bio~Phylum.private]] 
 
-### #is_/same_as :: [bio~Phylum.personal](/_personal/bio/Taxon_Rank/bio~Kingdom/bio~Phylum.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Taxon_Rank/bio~Kingdom/bio~Phylum.personal|bio~Phylum.personal]] 
 
-### #is_/same_as :: [bio~Phylum.secret](/_secret/bio/Taxon_Rank/bio~Kingdom/bio~Phylum.secret.md)
+### #is_/same_as :: [[/_secret/bio/Taxon_Rank/bio~Kingdom/bio~Phylum.secret|bio~Phylum.secret]] 
 

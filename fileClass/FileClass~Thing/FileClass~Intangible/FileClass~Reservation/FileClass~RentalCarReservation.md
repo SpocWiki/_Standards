@@ -85,17 +85,17 @@ PickupTime:: {"type":"Date","options":{"dateFormat":"YYYY-MM-DD","defaultInsertA
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~RentalCarReservation](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Reservation/FileClass~RentalCarReservation.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Reservation/FileClass~RentalCarReservation|FileClass~RentalCarReservation]] 
 
-### #is_/same_as :: [FileClass~RentalCarReservation.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Reservation/FileClass~RentalCarReservation.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Reservation/FileClass~RentalCarReservation.public|FileClass~RentalCarReservation.public]] 
 
-### #is_/same_as :: [FileClass~RentalCarReservation.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Reservation/FileClass~RentalCarReservation.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Reservation/FileClass~RentalCarReservation.internal|FileClass~RentalCarReservation.internal]] 
 
-### #is_/same_as :: [FileClass~RentalCarReservation.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Reservation/FileClass~RentalCarReservation.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Reservation/FileClass~RentalCarReservation.protect|FileClass~RentalCarReservation.protect]] 
 
-### #is_/same_as :: [FileClass~RentalCarReservation.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Reservation/FileClass~RentalCarReservation.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Reservation/FileClass~RentalCarReservation.private|FileClass~RentalCarReservation.private]] 
 
-### #is_/same_as :: [FileClass~RentalCarReservation.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Reservation/FileClass~RentalCarReservation.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Reservation/FileClass~RentalCarReservation.personal|FileClass~RentalCarReservation.personal]] 
 
-### #is_/same_as :: [FileClass~RentalCarReservation.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Reservation/FileClass~RentalCarReservation.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Reservation/FileClass~RentalCarReservation.secret|FileClass~RentalCarReservation.secret]] 
 

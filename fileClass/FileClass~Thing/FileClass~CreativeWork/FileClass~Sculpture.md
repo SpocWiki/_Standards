@@ -37,17 +37,17 @@ A piece of sculpture.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~Sculpture](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Sculpture.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Sculpture|FileClass~Sculpture]] 
 
-### #is_/same_as :: [FileClass~Sculpture.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Sculpture.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Sculpture.public|FileClass~Sculpture.public]] 
 
-### #is_/same_as :: [FileClass~Sculpture.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Sculpture.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Sculpture.internal|FileClass~Sculpture.internal]] 
 
-### #is_/same_as :: [FileClass~Sculpture.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Sculpture.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Sculpture.protect|FileClass~Sculpture.protect]] 
 
-### #is_/same_as :: [FileClass~Sculpture.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Sculpture.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Sculpture.private|FileClass~Sculpture.private]] 
 
-### #is_/same_as :: [FileClass~Sculpture.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Sculpture.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Sculpture.personal|FileClass~Sculpture.personal]] 
 
-### #is_/same_as :: [FileClass~Sculpture.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Sculpture.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Sculpture.secret|FileClass~Sculpture.secret]] 
 

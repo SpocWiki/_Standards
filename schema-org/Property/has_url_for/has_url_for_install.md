@@ -44,17 +44,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_url_for_install](/_Standards/schema-org/Property/has_url_for/has_url_for_install.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_url_for/has_url_for_install|has_url_for_install]] 
 
-### #is_/same_as :: [has_url_for_install.public](/_public/schema-org/Property/has_url_for/has_url_for_install.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/has_url_for/has_url_for_install.public|has_url_for_install.public]] 
 
-### #is_/same_as :: [has_url_for_install.internal](/_internal/schema-org/Property/has_url_for/has_url_for_install.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_url_for/has_url_for_install.internal|has_url_for_install.internal]] 
 
-### #is_/same_as :: [has_url_for_install.protect](/_protect/schema-org/Property/has_url_for/has_url_for_install.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_url_for/has_url_for_install.protect|has_url_for_install.protect]] 
 
-### #is_/same_as :: [has_url_for_install.private](/_private/schema-org/Property/has_url_for/has_url_for_install.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/has_url_for/has_url_for_install.private|has_url_for_install.private]] 
 
-### #is_/same_as :: [has_url_for_install.personal](/_personal/schema-org/Property/has_url_for/has_url_for_install.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_url_for/has_url_for_install.personal|has_url_for_install.personal]] 
 
-### #is_/same_as :: [has_url_for_install.secret](/_secret/schema-org/Property/has_url_for/has_url_for_install.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/has_url_for/has_url_for_install.secret|has_url_for_install.secret]] 
 

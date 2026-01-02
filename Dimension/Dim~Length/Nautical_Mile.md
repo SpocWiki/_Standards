@@ -56,17 +56,17 @@ Wikidata_SPARQL_query_equivalent: wd:Q93318 p:P2370/psn:P2370 [wikibase:quantity
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Nautical_Mile](/_Standards/Dimension/Dim~Length/Nautical_Mile.md) 
+### #is_/same_as :: [[/_Standards/Dimension/Dim~Length/Nautical_Mile|Nautical_Mile]] 
 
-### #is_/same_as :: [Nautical_Mile.public](/_public/Dimension/Dim~Length/Nautical_Mile.public.md) 
+### #is_/same_as :: [[/_public/Dimension/Dim~Length/Nautical_Mile.public|Nautical_Mile.public]] 
 
-### #is_/same_as :: [Nautical_Mile.internal](/_internal/Dimension/Dim~Length/Nautical_Mile.internal.md) 
+### #is_/same_as :: [[/_internal/Dimension/Dim~Length/Nautical_Mile.internal|Nautical_Mile.internal]] 
 
-### #is_/same_as :: [Nautical_Mile.protect](/_protect/Dimension/Dim~Length/Nautical_Mile.protect.md) 
+### #is_/same_as :: [[/_protect/Dimension/Dim~Length/Nautical_Mile.protect|Nautical_Mile.protect]] 
 
-### #is_/same_as :: [Nautical_Mile.private](/_private/Dimension/Dim~Length/Nautical_Mile.private.md) 
+### #is_/same_as :: [[/_private/Dimension/Dim~Length/Nautical_Mile.private|Nautical_Mile.private]] 
 
-### #is_/same_as :: [Nautical_Mile.personal](/_personal/Dimension/Dim~Length/Nautical_Mile.personal.md) 
+### #is_/same_as :: [[/_personal/Dimension/Dim~Length/Nautical_Mile.personal|Nautical_Mile.personal]] 
 
-### #is_/same_as :: [Nautical_Mile.secret](/_secret/Dimension/Dim~Length/Nautical_Mile.secret.md)
+### #is_/same_as :: [[/_secret/Dimension/Dim~Length/Nautical_Mile.secret|Nautical_Mile.secret]] 
 

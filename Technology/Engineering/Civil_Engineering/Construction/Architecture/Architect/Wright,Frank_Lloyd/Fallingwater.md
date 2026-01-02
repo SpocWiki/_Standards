@@ -100,17 +100,17 @@ directions: between Ohiopyle and Mill Run, several miles north of town
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Fallingwater](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Wright,Frank_Lloyd/Fallingwater.md) 
+### #is_/same_as :: [[/_Standards/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Wright,Frank_Lloyd/Fallingwater|Fallingwater]] 
 
-### #is_/same_as :: [Fallingwater.public](/_public/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Wright,Frank_Lloyd/Fallingwater.public.md) 
+### #is_/same_as :: [[/_public/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Wright,Frank_Lloyd/Fallingwater.public|Fallingwater.public]] 
 
-### #is_/same_as :: [Fallingwater.internal](/_internal/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Wright,Frank_Lloyd/Fallingwater.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Wright,Frank_Lloyd/Fallingwater.internal|Fallingwater.internal]] 
 
-### #is_/same_as :: [Fallingwater.protect](/_protect/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Wright,Frank_Lloyd/Fallingwater.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Wright,Frank_Lloyd/Fallingwater.protect|Fallingwater.protect]] 
 
-### #is_/same_as :: [Fallingwater.private](/_private/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Wright,Frank_Lloyd/Fallingwater.private.md) 
+### #is_/same_as :: [[/_private/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Wright,Frank_Lloyd/Fallingwater.private|Fallingwater.private]] 
 
-### #is_/same_as :: [Fallingwater.personal](/_personal/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Wright,Frank_Lloyd/Fallingwater.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Wright,Frank_Lloyd/Fallingwater.personal|Fallingwater.personal]] 
 
-### #is_/same_as :: [Fallingwater.secret](/_secret/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Wright,Frank_Lloyd/Fallingwater.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Wright,Frank_Lloyd/Fallingwater.secret|Fallingwater.secret]] 
 

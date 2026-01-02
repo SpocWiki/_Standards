@@ -56,17 +56,17 @@ of Kansas Press, Lawrence.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Faviina](/_Standards/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Scleractinia/Faviina.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Scleractinia/Faviina|Faviina]] 
 
-### #is_/same_as :: [Faviina.public](/_public/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Scleractinia/Faviina.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Scleractinia/Faviina.public|Faviina.public]] 
 
-### #is_/same_as :: [Faviina.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Scleractinia/Faviina.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Scleractinia/Faviina.internal|Faviina.internal]] 
 
-### #is_/same_as :: [Faviina.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Scleractinia/Faviina.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Scleractinia/Faviina.protect|Faviina.protect]] 
 
-### #is_/same_as :: [Faviina.private](/_private/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Scleractinia/Faviina.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Scleractinia/Faviina.private|Faviina.private]] 
 
-### #is_/same_as :: [Faviina.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Scleractinia/Faviina.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Scleractinia/Faviina.personal|Faviina.personal]] 
 
-### #is_/same_as :: [Faviina.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Scleractinia/Faviina.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Scleractinia/Faviina.secret|Faviina.secret]] 
 

@@ -96,24 +96,24 @@ Colorado, have considerably increased their knowledge. Their dorsal
 headshield is made up by large, polygonal bone units and the gill
 openings are situated more dorsally than in arandaspids. (After Janvier
 1996, modified from Elliott 1987.)
-![](Astraspida/astraspida.gif))
+![](Astraspida/astraspida.gif) 
 
 Copyright ::   © 1997 Philippe Janvier
 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Astraspida](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Pteraspidomorphi/Astraspida.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Pteraspidomorphi/Astraspida|Astraspida]] 
 
-### #is_/same_as :: [Astraspida.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Pteraspidomorphi/Astraspida.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Pteraspidomorphi/Astraspida.public|Astraspida.public]] 
 
-### #is_/same_as :: [Astraspida.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Pteraspidomorphi/Astraspida.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Pteraspidomorphi/Astraspida.internal|Astraspida.internal]] 
 
-### #is_/same_as :: [Astraspida.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Pteraspidomorphi/Astraspida.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Pteraspidomorphi/Astraspida.protect|Astraspida.protect]] 
 
-### #is_/same_as :: [Astraspida.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Pteraspidomorphi/Astraspida.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Pteraspidomorphi/Astraspida.private|Astraspida.private]] 
 
-### #is_/same_as :: [Astraspida.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Pteraspidomorphi/Astraspida.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Pteraspidomorphi/Astraspida.personal|Astraspida.personal]] 
 
-### #is_/same_as :: [Astraspida.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Pteraspidomorphi/Astraspida.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Pteraspidomorphi/Astraspida.secret|Astraspida.secret]] 
 

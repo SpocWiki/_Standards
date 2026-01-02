@@ -27,17 +27,17 @@ Commons_category: Coastal management
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Coastal_Management](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Coastal_Management.md) 
+### #is_/same_as :: [[/_Standards/Technology/Engineering/Civil_Engineering/Construction/Coastal_Management|Coastal_Management]] 
 
-### #is_/same_as :: [Coastal_Management.public](/_public/Technology/Engineering/Civil_Engineering/Construction/Coastal_Management.public.md) 
+### #is_/same_as :: [[/_public/Technology/Engineering/Civil_Engineering/Construction/Coastal_Management.public|Coastal_Management.public]] 
 
-### #is_/same_as :: [Coastal_Management.internal](/_internal/Technology/Engineering/Civil_Engineering/Construction/Coastal_Management.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Engineering/Civil_Engineering/Construction/Coastal_Management.internal|Coastal_Management.internal]] 
 
-### #is_/same_as :: [Coastal_Management.protect](/_protect/Technology/Engineering/Civil_Engineering/Construction/Coastal_Management.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Engineering/Civil_Engineering/Construction/Coastal_Management.protect|Coastal_Management.protect]] 
 
-### #is_/same_as :: [Coastal_Management.private](/_private/Technology/Engineering/Civil_Engineering/Construction/Coastal_Management.private.md) 
+### #is_/same_as :: [[/_private/Technology/Engineering/Civil_Engineering/Construction/Coastal_Management.private|Coastal_Management.private]] 
 
-### #is_/same_as :: [Coastal_Management.personal](/_personal/Technology/Engineering/Civil_Engineering/Construction/Coastal_Management.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Engineering/Civil_Engineering/Construction/Coastal_Management.personal|Coastal_Management.personal]] 
 
-### #is_/same_as :: [Coastal_Management.secret](/_secret/Technology/Engineering/Civil_Engineering/Construction/Coastal_Management.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Engineering/Civil_Engineering/Construction/Coastal_Management.secret|Coastal_Management.secret]] 
 

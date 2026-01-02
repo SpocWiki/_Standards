@@ -155,17 +155,17 @@ ISNI: 000000012125135X
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Melville,Herman](/_Standards/Society/Communication/Media/Writing/Book/Writer/English_Writer/Melville,Herman.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Writer/English_Writer/Melville,Herman|Melville,Herman]] 
 
-### #is_/same_as :: [Melville,Herman.public](/_public/Society/Communication/Media/Writing/Book/Writer/English_Writer/Melville,Herman.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Writer/English_Writer/Melville,Herman.public|Melville,Herman.public]] 
 
-### #is_/same_as :: [Melville,Herman.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/English_Writer/Melville,Herman.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Writer/English_Writer/Melville,Herman.internal|Melville,Herman.internal]] 
 
-### #is_/same_as :: [Melville,Herman.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/English_Writer/Melville,Herman.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Writer/English_Writer/Melville,Herman.protect|Melville,Herman.protect]] 
 
-### #is_/same_as :: [Melville,Herman.private](/_private/Society/Communication/Media/Writing/Book/Writer/English_Writer/Melville,Herman.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Writer/English_Writer/Melville,Herman.private|Melville,Herman.private]] 
 
-### #is_/same_as :: [Melville,Herman.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/English_Writer/Melville,Herman.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Writer/English_Writer/Melville,Herman.personal|Melville,Herman.personal]] 
 
-### #is_/same_as :: [Melville,Herman.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/English_Writer/Melville,Herman.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Writer/English_Writer/Melville,Herman.secret|Melville,Herman.secret]] 
 

@@ -88,17 +88,17 @@ OpenStreetMap_tag: amenity=microwave
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Microwave_Oven](/_Standards/Society/Economics/Home_Economics/Cooking/Microwave_Oven.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Home_Economics/Cooking/Microwave_Oven|Microwave_Oven]] 
 
-### #is_/same_as :: [Microwave_Oven.public](/_public/Society/Economics/Home_Economics/Cooking/Microwave_Oven.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Home_Economics/Cooking/Microwave_Oven.public|Microwave_Oven.public]] 
 
-### #is_/same_as :: [Microwave_Oven.internal](/_internal/Society/Economics/Home_Economics/Cooking/Microwave_Oven.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Home_Economics/Cooking/Microwave_Oven.internal|Microwave_Oven.internal]] 
 
-### #is_/same_as :: [Microwave_Oven.protect](/_protect/Society/Economics/Home_Economics/Cooking/Microwave_Oven.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Home_Economics/Cooking/Microwave_Oven.protect|Microwave_Oven.protect]] 
 
-### #is_/same_as :: [Microwave_Oven.private](/_private/Society/Economics/Home_Economics/Cooking/Microwave_Oven.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Home_Economics/Cooking/Microwave_Oven.private|Microwave_Oven.private]] 
 
-### #is_/same_as :: [Microwave_Oven.personal](/_personal/Society/Economics/Home_Economics/Cooking/Microwave_Oven.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Home_Economics/Cooking/Microwave_Oven.personal|Microwave_Oven.personal]] 
 
-### #is_/same_as :: [Microwave_Oven.secret](/_secret/Society/Economics/Home_Economics/Cooking/Microwave_Oven.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Home_Economics/Cooking/Microwave_Oven.secret|Microwave_Oven.secret]] 
 

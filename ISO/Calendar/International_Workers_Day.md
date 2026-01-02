@@ -86,17 +86,17 @@ hashtag_:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [International_Workers_Day](/_Standards/ISO/Calendar/International_Workers_Day.md) 
+### #is_/same_as :: [[/_Standards/ISO/Calendar/International_Workers_Day|International_Workers_Day]] 
 
-### #is_/same_as :: [International_Workers_Day.public](/_public/ISO/Calendar/International_Workers_Day.public.md) 
+### #is_/same_as :: [[/_public/ISO/Calendar/International_Workers_Day.public|International_Workers_Day.public]] 
 
-### #is_/same_as :: [International_Workers_Day.internal](/_internal/ISO/Calendar/International_Workers_Day.internal.md) 
+### #is_/same_as :: [[/_internal/ISO/Calendar/International_Workers_Day.internal|International_Workers_Day.internal]] 
 
-### #is_/same_as :: [International_Workers_Day.protect](/_protect/ISO/Calendar/International_Workers_Day.protect.md) 
+### #is_/same_as :: [[/_protect/ISO/Calendar/International_Workers_Day.protect|International_Workers_Day.protect]] 
 
-### #is_/same_as :: [International_Workers_Day.private](/_private/ISO/Calendar/International_Workers_Day.private.md) 
+### #is_/same_as :: [[/_private/ISO/Calendar/International_Workers_Day.private|International_Workers_Day.private]] 
 
-### #is_/same_as :: [International_Workers_Day.personal](/_personal/ISO/Calendar/International_Workers_Day.personal.md) 
+### #is_/same_as :: [[/_personal/ISO/Calendar/International_Workers_Day.personal|International_Workers_Day.personal]] 
 
-### #is_/same_as :: [International_Workers_Day.secret](/_secret/ISO/Calendar/International_Workers_Day.secret.md)
+### #is_/same_as :: [[/_secret/ISO/Calendar/International_Workers_Day.secret|International_Workers_Day.secret]] 
 

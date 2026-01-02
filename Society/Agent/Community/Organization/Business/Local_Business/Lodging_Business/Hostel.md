@@ -41,17 +41,17 @@ See also the <a href="https://schema.org/docs/hotels.html">dedicated document on
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hostel](/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Lodging_Business/Hostel.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Lodging_Business/Hostel|Hostel]] 
 
-### #is_/same_as :: [Hostel.public](/_public/Society/Agent/Community/Organization/Business/Local_Business/Lodging_Business/Hostel.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Business/Local_Business/Lodging_Business/Hostel.public|Hostel.public]] 
 
-### #is_/same_as :: [Hostel.internal](/_internal/Society/Agent/Community/Organization/Business/Local_Business/Lodging_Business/Hostel.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Business/Local_Business/Lodging_Business/Hostel.internal|Hostel.internal]] 
 
-### #is_/same_as :: [Hostel.protect](/_protect/Society/Agent/Community/Organization/Business/Local_Business/Lodging_Business/Hostel.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Business/Local_Business/Lodging_Business/Hostel.protect|Hostel.protect]] 
 
-### #is_/same_as :: [Hostel.private](/_private/Society/Agent/Community/Organization/Business/Local_Business/Lodging_Business/Hostel.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Business/Local_Business/Lodging_Business/Hostel.private|Hostel.private]] 
 
-### #is_/same_as :: [Hostel.personal](/_personal/Society/Agent/Community/Organization/Business/Local_Business/Lodging_Business/Hostel.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Business/Local_Business/Lodging_Business/Hostel.personal|Hostel.personal]] 
 
-### #is_/same_as :: [Hostel.secret](/_secret/Society/Agent/Community/Organization/Business/Local_Business/Lodging_Business/Hostel.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Business/Local_Business/Lodging_Business/Hostel.secret|Hostel.secret]] 
 

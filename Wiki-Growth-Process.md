@@ -74,17 +74,17 @@ Nonetheless, private Repositories may find it useful to include this Repository 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Wiki-Growth-Process](/_Standards/Wiki-Growth-Process.md) 
+### #is_/same_as :: [[/_Standards/Wiki-Growth-Process|Wiki-Growth-Process]] 
 
-### #is_/same_as :: [Wiki-Growth-Process.public](/_public/Wiki-Growth-Process.public.md) 
+### #is_/same_as :: [[/_public/Wiki-Growth-Process.public|Wiki-Growth-Process.public]] 
 
-### #is_/same_as :: [Wiki-Growth-Process.internal](/_internal/Wiki-Growth-Process.internal.md) 
+### #is_/same_as :: [[/_internal/Wiki-Growth-Process.internal|Wiki-Growth-Process.internal]] 
 
-### #is_/same_as :: [Wiki-Growth-Process.protect](/_protect/Wiki-Growth-Process.protect.md) 
+### #is_/same_as :: [[/_protect/Wiki-Growth-Process.protect|Wiki-Growth-Process.protect]] 
 
-### #is_/same_as :: [Wiki-Growth-Process.private](/_private/Wiki-Growth-Process.private.md) 
+### #is_/same_as :: [[/_private/Wiki-Growth-Process.private|Wiki-Growth-Process.private]] 
 
-### #is_/same_as :: [Wiki-Growth-Process.personal](/_personal/Wiki-Growth-Process.personal.md) 
+### #is_/same_as :: [[/_personal/Wiki-Growth-Process.personal|Wiki-Growth-Process.personal]] 
 
-### #is_/same_as :: [Wiki-Growth-Process.secret](/_secret/Wiki-Growth-Process.secret.md)
+### #is_/same_as :: [[/_secret/Wiki-Growth-Process.secret|Wiki-Growth-Process.secret]] 
 

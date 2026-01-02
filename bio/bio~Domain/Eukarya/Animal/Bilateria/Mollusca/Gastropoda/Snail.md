@@ -42,17 +42,17 @@ MeSH_tree_code: B01.050.500.644.400.750
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Snail](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Gastropoda/Snail.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Gastropoda/Snail|Snail]] 
 
-### #is_/same_as :: [Snail.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Gastropoda/Snail.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Gastropoda/Snail.public|Snail.public]] 
 
-### #is_/same_as :: [Snail.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Gastropoda/Snail.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Gastropoda/Snail.internal|Snail.internal]] 
 
-### #is_/same_as :: [Snail.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Gastropoda/Snail.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Gastropoda/Snail.protect|Snail.protect]] 
 
-### #is_/same_as :: [Snail.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Gastropoda/Snail.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Gastropoda/Snail.private|Snail.private]] 
 
-### #is_/same_as :: [Snail.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Gastropoda/Snail.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Gastropoda/Snail.personal|Snail.personal]] 
 
-### #is_/same_as :: [Snail.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Gastropoda/Snail.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Gastropoda/Snail.secret|Snail.secret]] 
 

@@ -41,17 +41,17 @@ markerFolder: ./Capital_Territory_(Honiara)/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Capital_Territory_(Honiara)](/_Standards/Earth/Continent/Australasia/Melanesia/Solomon_Islands/Provinces~Solomon~Islands/Capital_Territory_(Honiara).md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Australasia/Melanesia/Solomon_Islands/Provinces~Solomon~Islands/Capital_Territory_(Honiara)|Capital_Territory_(Honiara)]] 
 
-### #is_/same_as :: [Capital_Territory_(Honiara).public](/_public/Earth/Continent/Australasia/Melanesia/Solomon_Islands/Provinces~Solomon~Islands/Capital_Territory_(Honiara).public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Australasia/Melanesia/Solomon_Islands/Provinces~Solomon~Islands/Capital_Territory_(Honiara).public|Capital_Territory_(Honiara).public]] 
 
-### #is_/same_as :: [Capital_Territory_(Honiara).internal](/_internal/Earth/Continent/Australasia/Melanesia/Solomon_Islands/Provinces~Solomon~Islands/Capital_Territory_(Honiara).internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Australasia/Melanesia/Solomon_Islands/Provinces~Solomon~Islands/Capital_Territory_(Honiara).internal|Capital_Territory_(Honiara).internal]] 
 
-### #is_/same_as :: [Capital_Territory_(Honiara).protect](/_protect/Earth/Continent/Australasia/Melanesia/Solomon_Islands/Provinces~Solomon~Islands/Capital_Territory_(Honiara).protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Australasia/Melanesia/Solomon_Islands/Provinces~Solomon~Islands/Capital_Territory_(Honiara).protect|Capital_Territory_(Honiara).protect]] 
 
-### #is_/same_as :: [Capital_Territory_(Honiara).private](/_private/Earth/Continent/Australasia/Melanesia/Solomon_Islands/Provinces~Solomon~Islands/Capital_Territory_(Honiara).private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Australasia/Melanesia/Solomon_Islands/Provinces~Solomon~Islands/Capital_Territory_(Honiara).private|Capital_Territory_(Honiara).private]] 
 
-### #is_/same_as :: [Capital_Territory_(Honiara).personal](/_personal/Earth/Continent/Australasia/Melanesia/Solomon_Islands/Provinces~Solomon~Islands/Capital_Territory_(Honiara).personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Australasia/Melanesia/Solomon_Islands/Provinces~Solomon~Islands/Capital_Territory_(Honiara).personal|Capital_Territory_(Honiara).personal]] 
 
-### #is_/same_as :: [Capital_Territory_(Honiara).secret](/_secret/Earth/Continent/Australasia/Melanesia/Solomon_Islands/Provinces~Solomon~Islands/Capital_Territory_(Honiara).secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Australasia/Melanesia/Solomon_Islands/Provinces~Solomon~Islands/Capital_Territory_(Honiara).secret|Capital_Territory_(Honiara).secret]] 
 

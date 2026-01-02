@@ -39,17 +39,17 @@ inception: 1945-01-01T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Slinky](/_Standards/Society/Communication/Media/Creative_Work/Game/Toy/Slinky.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Creative_Work/Game/Toy/Slinky|Slinky]] 
 
-### #is_/same_as :: [Slinky.public](/_public/Society/Communication/Media/Creative_Work/Game/Toy/Slinky.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Creative_Work/Game/Toy/Slinky.public|Slinky.public]] 
 
-### #is_/same_as :: [Slinky.internal](/_internal/Society/Communication/Media/Creative_Work/Game/Toy/Slinky.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Creative_Work/Game/Toy/Slinky.internal|Slinky.internal]] 
 
-### #is_/same_as :: [Slinky.protect](/_protect/Society/Communication/Media/Creative_Work/Game/Toy/Slinky.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Creative_Work/Game/Toy/Slinky.protect|Slinky.protect]] 
 
-### #is_/same_as :: [Slinky.private](/_private/Society/Communication/Media/Creative_Work/Game/Toy/Slinky.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Creative_Work/Game/Toy/Slinky.private|Slinky.private]] 
 
-### #is_/same_as :: [Slinky.personal](/_personal/Society/Communication/Media/Creative_Work/Game/Toy/Slinky.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/Game/Toy/Slinky.personal|Slinky.personal]] 
 
-### #is_/same_as :: [Slinky.secret](/_secret/Society/Communication/Media/Creative_Work/Game/Toy/Slinky.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Game/Toy/Slinky.secret|Slinky.secret]] 
 

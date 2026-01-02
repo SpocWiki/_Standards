@@ -44,17 +44,17 @@ Indicated that a return label must be downloaded and printed by the customer.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Return_Label_Download_and_Print](/_Standards/schema-org/Enumeration/Return_Label_Source_Enumeration/Return_Label_Download_and_Print.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Return_Label_Source_Enumeration/Return_Label_Download_and_Print|Return_Label_Download_and_Print]] 
 
-### #is_/same_as :: [Return_Label_Download_and_Print.public](/_public/schema-org/Enumeration/Return_Label_Source_Enumeration/Return_Label_Download_and_Print.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Return_Label_Source_Enumeration/Return_Label_Download_and_Print.public|Return_Label_Download_and_Print.public]] 
 
-### #is_/same_as :: [Return_Label_Download_and_Print.internal](/_internal/schema-org/Enumeration/Return_Label_Source_Enumeration/Return_Label_Download_and_Print.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Return_Label_Source_Enumeration/Return_Label_Download_and_Print.internal|Return_Label_Download_and_Print.internal]] 
 
-### #is_/same_as :: [Return_Label_Download_and_Print.protect](/_protect/schema-org/Enumeration/Return_Label_Source_Enumeration/Return_Label_Download_and_Print.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Return_Label_Source_Enumeration/Return_Label_Download_and_Print.protect|Return_Label_Download_and_Print.protect]] 
 
-### #is_/same_as :: [Return_Label_Download_and_Print.private](/_private/schema-org/Enumeration/Return_Label_Source_Enumeration/Return_Label_Download_and_Print.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Return_Label_Source_Enumeration/Return_Label_Download_and_Print.private|Return_Label_Download_and_Print.private]] 
 
-### #is_/same_as :: [Return_Label_Download_and_Print.personal](/_personal/schema-org/Enumeration/Return_Label_Source_Enumeration/Return_Label_Download_and_Print.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Return_Label_Source_Enumeration/Return_Label_Download_and_Print.personal|Return_Label_Download_and_Print.personal]] 
 
-### #is_/same_as :: [Return_Label_Download_and_Print.secret](/_secret/schema-org/Enumeration/Return_Label_Source_Enumeration/Return_Label_Download_and_Print.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Return_Label_Source_Enumeration/Return_Label_Download_and_Print.secret|Return_Label_Download_and_Print.secret]] 
 

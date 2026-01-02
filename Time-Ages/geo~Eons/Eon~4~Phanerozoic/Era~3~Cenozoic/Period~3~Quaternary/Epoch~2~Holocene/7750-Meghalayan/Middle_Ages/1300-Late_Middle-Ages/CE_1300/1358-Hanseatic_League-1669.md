@@ -106,17 +106,17 @@ inception: 1358-01-01T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [1358-Hanseatic_League-1669](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1300/1358-Hanseatic_League-1669.md) 
+### #is_/same_as :: [[/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1300/1358-Hanseatic_League-1669|1358-Hanseatic_League-1669]] 
 
-### #is_/same_as :: [1358-Hanseatic_League-1669.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1300/1358-Hanseatic_League-1669.public.md) 
+### #is_/same_as :: [[/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1300/1358-Hanseatic_League-1669.public|1358-Hanseatic_League-1669.public]] 
 
-### #is_/same_as :: [1358-Hanseatic_League-1669.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1300/1358-Hanseatic_League-1669.internal.md) 
+### #is_/same_as :: [[/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1300/1358-Hanseatic_League-1669.internal|1358-Hanseatic_League-1669.internal]] 
 
-### #is_/same_as :: [1358-Hanseatic_League-1669.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1300/1358-Hanseatic_League-1669.protect.md) 
+### #is_/same_as :: [[/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1300/1358-Hanseatic_League-1669.protect|1358-Hanseatic_League-1669.protect]] 
 
-### #is_/same_as :: [1358-Hanseatic_League-1669.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1300/1358-Hanseatic_League-1669.private.md) 
+### #is_/same_as :: [[/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1300/1358-Hanseatic_League-1669.private|1358-Hanseatic_League-1669.private]] 
 
-### #is_/same_as :: [1358-Hanseatic_League-1669.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1300/1358-Hanseatic_League-1669.personal.md) 
+### #is_/same_as :: [[/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1300/1358-Hanseatic_League-1669.personal|1358-Hanseatic_League-1669.personal]] 
 
-### #is_/same_as :: [1358-Hanseatic_League-1669.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1300/1358-Hanseatic_League-1669.secret.md)
+### #is_/same_as :: [[/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1300/1358-Hanseatic_League-1669.secret|1358-Hanseatic_League-1669.secret]] 
 

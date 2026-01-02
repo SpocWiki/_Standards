@@ -114,17 +114,17 @@ X_Twitter_username: icrc
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Red_Cross_and_Red_Crescent](/_Standards/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Red_Cross_and_Red_Crescent.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Red_Cross_and_Red_Crescent|Red_Cross_and_Red_Crescent]] 
 
-### #is_/same_as :: [Red_Cross_and_Red_Crescent.public](/_public/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Red_Cross_and_Red_Crescent.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Red_Cross_and_Red_Crescent.public|Red_Cross_and_Red_Crescent.public]] 
 
-### #is_/same_as :: [Red_Cross_and_Red_Crescent.internal](/_internal/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Red_Cross_and_Red_Crescent.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Red_Cross_and_Red_Crescent.internal|Red_Cross_and_Red_Crescent.internal]] 
 
-### #is_/same_as :: [Red_Cross_and_Red_Crescent.protect](/_protect/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Red_Cross_and_Red_Crescent.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Red_Cross_and_Red_Crescent.protect|Red_Cross_and_Red_Crescent.protect]] 
 
-### #is_/same_as :: [Red_Cross_and_Red_Crescent.private](/_private/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Red_Cross_and_Red_Crescent.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Red_Cross_and_Red_Crescent.private|Red_Cross_and_Red_Crescent.private]] 
 
-### #is_/same_as :: [Red_Cross_and_Red_Crescent.personal](/_personal/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Red_Cross_and_Red_Crescent.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Red_Cross_and_Red_Crescent.personal|Red_Cross_and_Red_Crescent.personal]] 
 
-### #is_/same_as :: [Red_Cross_and_Red_Crescent.secret](/_secret/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Red_Cross_and_Red_Crescent.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Red_Cross_and_Red_Crescent.secret|Red_Cross_and_Red_Crescent.secret]] 
 

@@ -49,17 +49,17 @@ Iconclass_notation: 51A1
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Existence](/_Standards/Philosophy/Metaphysic/Ontology(Philosophy)/Existence.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Ontology(Philosophy)/Existence|Existence]] 
 
-### #is_/same_as :: [Existence.public](/_public/Philosophy/Metaphysic/Ontology(Philosophy)/Existence.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Ontology(Philosophy)/Existence.public|Existence.public]] 
 
-### #is_/same_as :: [Existence.internal](/_internal/Philosophy/Metaphysic/Ontology(Philosophy)/Existence.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Ontology(Philosophy)/Existence.internal|Existence.internal]] 
 
-### #is_/same_as :: [Existence.protect](/_protect/Philosophy/Metaphysic/Ontology(Philosophy)/Existence.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Ontology(Philosophy)/Existence.protect|Existence.protect]] 
 
-### #is_/same_as :: [Existence.private](/_private/Philosophy/Metaphysic/Ontology(Philosophy)/Existence.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Ontology(Philosophy)/Existence.private|Existence.private]] 
 
-### #is_/same_as :: [Existence.personal](/_personal/Philosophy/Metaphysic/Ontology(Philosophy)/Existence.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Ontology(Philosophy)/Existence.personal|Existence.personal]] 
 
-### #is_/same_as :: [Existence.secret](/_secret/Philosophy/Metaphysic/Ontology(Philosophy)/Existence.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Ontology(Philosophy)/Existence.secret|Existence.secret]] 
 

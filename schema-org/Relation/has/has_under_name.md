@@ -42,17 +42,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_under_name](/_Standards/schema-org/Relation/has/has_under_name.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_under_name|has_under_name]] 
 
-### #is_/same_as :: [has_under_name.public](/_public/schema-org/Relation/has/has_under_name.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_under_name.public|has_under_name.public]] 
 
-### #is_/same_as :: [has_under_name.internal](/_internal/schema-org/Relation/has/has_under_name.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_under_name.internal|has_under_name.internal]] 
 
-### #is_/same_as :: [has_under_name.protect](/_protect/schema-org/Relation/has/has_under_name.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_under_name.protect|has_under_name.protect]] 
 
-### #is_/same_as :: [has_under_name.private](/_private/schema-org/Relation/has/has_under_name.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_under_name.private|has_under_name.private]] 
 
-### #is_/same_as :: [has_under_name.personal](/_personal/schema-org/Relation/has/has_under_name.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_under_name.personal|has_under_name.personal]] 
 
-### #is_/same_as :: [has_under_name.secret](/_secret/schema-org/Relation/has/has_under_name.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_under_name.secret|has_under_name.secret]] 
 

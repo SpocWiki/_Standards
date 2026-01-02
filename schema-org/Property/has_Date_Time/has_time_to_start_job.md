@@ -44,17 +44,17 @@ Formal Predicate:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_time_to_start_job](/_Standards/schema-org/Property/has_Date_Time/has_time_to_start_job.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_Date_Time/has_time_to_start_job|has_time_to_start_job]] 
 
-### #is_/same_as :: [has_time_to_start_job.public](/_public/schema-org/Property/has_Date_Time/has_time_to_start_job.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/has_Date_Time/has_time_to_start_job.public|has_time_to_start_job.public]] 
 
-### #is_/same_as :: [has_time_to_start_job.internal](/_internal/schema-org/Property/has_Date_Time/has_time_to_start_job.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_Date_Time/has_time_to_start_job.internal|has_time_to_start_job.internal]] 
 
-### #is_/same_as :: [has_time_to_start_job.protect](/_protect/schema-org/Property/has_Date_Time/has_time_to_start_job.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_Date_Time/has_time_to_start_job.protect|has_time_to_start_job.protect]] 
 
-### #is_/same_as :: [has_time_to_start_job.private](/_private/schema-org/Property/has_Date_Time/has_time_to_start_job.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/has_Date_Time/has_time_to_start_job.private|has_time_to_start_job.private]] 
 
-### #is_/same_as :: [has_time_to_start_job.personal](/_personal/schema-org/Property/has_Date_Time/has_time_to_start_job.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_Date_Time/has_time_to_start_job.personal|has_time_to_start_job.personal]] 
 
-### #is_/same_as :: [has_time_to_start_job.secret](/_secret/schema-org/Property/has_Date_Time/has_time_to_start_job.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/has_Date_Time/has_time_to_start_job.secret|has_time_to_start_job.secret]] 
 

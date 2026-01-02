@@ -100,7 +100,7 @@ Aegla
 ## Title Illustrations
 
 ------------------------------------------------------------------------------- 
-![Aegla abtao](Aeglidae/abtao.jpg))
+![Aegla abtao](Aeglidae/abtao.jpg) 
 Scientific Name ::  Aegla abtao abtao
 Copyright ::         © [Keith A. Crandall](http://inbio.byu.edu/Faculty/kac/crandall%5Flab/) 
 
@@ -112,17 +112,17 @@ Copyright ::         © [Keith A. Crandall](http://inbio.byu.edu/Faculty/kac/cra
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Aeglidae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Anomura/Aeglidae.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Anomura/Aeglidae|Aeglidae]] 
 
-### #is_/same_as :: [Aeglidae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Anomura/Aeglidae.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Anomura/Aeglidae.public|Aeglidae.public]] 
 
-### #is_/same_as :: [Aeglidae.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Anomura/Aeglidae.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Anomura/Aeglidae.internal|Aeglidae.internal]] 
 
-### #is_/same_as :: [Aeglidae.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Anomura/Aeglidae.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Anomura/Aeglidae.protect|Aeglidae.protect]] 
 
-### #is_/same_as :: [Aeglidae.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Anomura/Aeglidae.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Anomura/Aeglidae.private|Aeglidae.private]] 
 
-### #is_/same_as :: [Aeglidae.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Anomura/Aeglidae.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Anomura/Aeglidae.personal|Aeglidae.personal]] 
 
-### #is_/same_as :: [Aeglidae.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Anomura/Aeglidae.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Anomura/Aeglidae.secret|Aeglidae.secret]] 
 

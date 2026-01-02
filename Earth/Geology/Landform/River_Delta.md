@@ -40,17 +40,17 @@ Commons_category: River deltas
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [River_Delta](/_Standards/Earth/Geology/Landform/River_Delta.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geology/Landform/River_Delta|River_Delta]] 
 
-### #is_/same_as :: [River_Delta.public](/_public/Earth/Geology/Landform/River_Delta.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geology/Landform/River_Delta.public|River_Delta.public]] 
 
-### #is_/same_as :: [River_Delta.internal](/_internal/Earth/Geology/Landform/River_Delta.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geology/Landform/River_Delta.internal|River_Delta.internal]] 
 
-### #is_/same_as :: [River_Delta.protect](/_protect/Earth/Geology/Landform/River_Delta.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geology/Landform/River_Delta.protect|River_Delta.protect]] 
 
-### #is_/same_as :: [River_Delta.private](/_private/Earth/Geology/Landform/River_Delta.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geology/Landform/River_Delta.private|River_Delta.private]] 
 
-### #is_/same_as :: [River_Delta.personal](/_personal/Earth/Geology/Landform/River_Delta.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geology/Landform/River_Delta.personal|River_Delta.personal]] 
 
-### #is_/same_as :: [River_Delta.secret](/_secret/Earth/Geology/Landform/River_Delta.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geology/Landform/River_Delta.secret|River_Delta.secret]] 
 

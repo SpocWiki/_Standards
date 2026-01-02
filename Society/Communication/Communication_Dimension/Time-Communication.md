@@ -10,17 +10,17 @@ Most Radio and TV Broadcasts from earlier times were not recorded.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Time-Communication](/_Standards/Society/Communication/Communication_Dimension/Time-Communication.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Communication_Dimension/Time-Communication|Time-Communication]] 
 
-### #is_/same_as :: [Time-Communication.public](/_public/Society/Communication/Communication_Dimension/Time-Communication.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Communication_Dimension/Time-Communication.public|Time-Communication.public]] 
 
-### #is_/same_as :: [Time-Communication.internal](/_internal/Society/Communication/Communication_Dimension/Time-Communication.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Communication_Dimension/Time-Communication.internal|Time-Communication.internal]] 
 
-### #is_/same_as :: [Time-Communication.protect](/_protect/Society/Communication/Communication_Dimension/Time-Communication.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Communication_Dimension/Time-Communication.protect|Time-Communication.protect]] 
 
-### #is_/same_as :: [Time-Communication.private](/_private/Society/Communication/Communication_Dimension/Time-Communication.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Communication_Dimension/Time-Communication.private|Time-Communication.private]] 
 
-### #is_/same_as :: [Time-Communication.personal](/_personal/Society/Communication/Communication_Dimension/Time-Communication.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Communication_Dimension/Time-Communication.personal|Time-Communication.personal]] 
 
-### #is_/same_as :: [Time-Communication.secret](/_secret/Society/Communication/Communication_Dimension/Time-Communication.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Communication_Dimension/Time-Communication.secret|Time-Communication.secret]] 
 

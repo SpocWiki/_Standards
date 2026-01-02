@@ -65,17 +65,17 @@ Dewey_Decimal_Classification: 526.6
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Circle_of_latitude](/_Standards/Earth/Geography/Cartography/Circle_of_latitude.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geography/Cartography/Circle_of_latitude|Circle_of_latitude]] 
 
-### #is_/same_as :: [Circle_of_latitude.public](/_public/Earth/Geography/Cartography/Circle_of_latitude.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geography/Cartography/Circle_of_latitude.public|Circle_of_latitude.public]] 
 
-### #is_/same_as :: [Circle_of_latitude.internal](/_internal/Earth/Geography/Cartography/Circle_of_latitude.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geography/Cartography/Circle_of_latitude.internal|Circle_of_latitude.internal]] 
 
-### #is_/same_as :: [Circle_of_latitude.protect](/_protect/Earth/Geography/Cartography/Circle_of_latitude.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geography/Cartography/Circle_of_latitude.protect|Circle_of_latitude.protect]] 
 
-### #is_/same_as :: [Circle_of_latitude.private](/_private/Earth/Geography/Cartography/Circle_of_latitude.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geography/Cartography/Circle_of_latitude.private|Circle_of_latitude.private]] 
 
-### #is_/same_as :: [Circle_of_latitude.personal](/_personal/Earth/Geography/Cartography/Circle_of_latitude.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geography/Cartography/Circle_of_latitude.personal|Circle_of_latitude.personal]] 
 
-### #is_/same_as :: [Circle_of_latitude.secret](/_secret/Earth/Geography/Cartography/Circle_of_latitude.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geography/Cartography/Circle_of_latitude.secret|Circle_of_latitude.secret]] 
 

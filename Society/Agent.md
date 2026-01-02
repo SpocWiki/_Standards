@@ -15,17 +15,17 @@ Notable subclasses are
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Agent](/_Standards/Society/Agent.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent|Agent]] 
 
-### #is_/same_as :: [Agent.public](/_public/Society/Agent.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent.public|Agent.public]] 
 
-### #is_/same_as :: [Agent.internal](/_internal/Society/Agent.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent.internal|Agent.internal]] 
 
-### #is_/same_as :: [Agent.protect](/_protect/Society/Agent.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent.protect|Agent.protect]] 
 
-### #is_/same_as :: [Agent.private](/_private/Society/Agent.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent.private|Agent.private]] 
 
-### #is_/same_as :: [Agent.personal](/_personal/Society/Agent.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent.personal|Agent.personal]] 
 
-### #is_/same_as :: [Agent.secret](/_secret/Society/Agent.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent.secret|Agent.secret]] 
 

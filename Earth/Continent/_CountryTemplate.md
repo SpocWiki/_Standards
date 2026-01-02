@@ -42,17 +42,17 @@ markerFolder: ./{{EnglishName}}/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [_CountryTemplate](/_Standards/Earth/Continent/_CountryTemplate.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/_CountryTemplate|_CountryTemplate]] 
 
-### #is_/same_as :: [_CountryTemplate.public](/_public/Earth/Continent/_CountryTemplate.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/_CountryTemplate.public|_CountryTemplate.public]] 
 
-### #is_/same_as :: [_CountryTemplate.internal](/_internal/Earth/Continent/_CountryTemplate.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/_CountryTemplate.internal|_CountryTemplate.internal]] 
 
-### #is_/same_as :: [_CountryTemplate.protect](/_protect/Earth/Continent/_CountryTemplate.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/_CountryTemplate.protect|_CountryTemplate.protect]] 
 
-### #is_/same_as :: [_CountryTemplate.private](/_private/Earth/Continent/_CountryTemplate.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/_CountryTemplate.private|_CountryTemplate.private]] 
 
-### #is_/same_as :: [_CountryTemplate.personal](/_personal/Earth/Continent/_CountryTemplate.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/_CountryTemplate.personal|_CountryTemplate.personal]] 
 
-### #is_/same_as :: [_CountryTemplate.secret](/_secret/Earth/Continent/_CountryTemplate.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/_CountryTemplate.secret|_CountryTemplate.secret]] 
 

@@ -112,17 +112,17 @@ native_label: الدَّوْلَةُ الأُمَوِيَّةُ
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [0661-Umayyad Caliphate+0750](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/0661-Umayyad Caliphate+0750.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/0661-Umayyad Caliphate+0750|0661-Umayyad Caliphate+0750]] 
 
-### #is_/same_as :: [0661-Umayyad Caliphate+0750.public](/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/0661-Umayyad Caliphate+0750.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/0661-Umayyad Caliphate+0750.public|0661-Umayyad Caliphate+0750.public]] 
 
-### #is_/same_as :: [0661-Umayyad Caliphate+0750.internal](/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/0661-Umayyad Caliphate+0750.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/0661-Umayyad Caliphate+0750.internal|0661-Umayyad Caliphate+0750.internal]] 
 
-### #is_/same_as :: [0661-Umayyad Caliphate+0750.protect](/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/0661-Umayyad Caliphate+0750.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/0661-Umayyad Caliphate+0750.protect|0661-Umayyad Caliphate+0750.protect]] 
 
-### #is_/same_as :: [0661-Umayyad Caliphate+0750.private](/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/0661-Umayyad Caliphate+0750.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/0661-Umayyad Caliphate+0750.private|0661-Umayyad Caliphate+0750.private]] 
 
-### #is_/same_as :: [0661-Umayyad Caliphate+0750.personal](/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/0661-Umayyad Caliphate+0750.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/0661-Umayyad Caliphate+0750.personal|0661-Umayyad Caliphate+0750.personal]] 
 
-### #is_/same_as :: [0661-Umayyad Caliphate+0750.secret](/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/0661-Umayyad Caliphate+0750.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/0661-Umayyad Caliphate+0750.secret|0661-Umayyad Caliphate+0750.secret]] 
 

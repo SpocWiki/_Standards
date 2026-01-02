@@ -63,17 +63,17 @@ spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Domino-
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Dominoes](/_Standards/Society/Communication/Media/Creative_Work/Game/Dominoes.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Creative_Work/Game/Dominoes|Dominoes]] 
 
-### #is_/same_as :: [Dominoes.public](/_public/Society/Communication/Media/Creative_Work/Game/Dominoes.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Creative_Work/Game/Dominoes.public|Dominoes.public]] 
 
-### #is_/same_as :: [Dominoes.internal](/_internal/Society/Communication/Media/Creative_Work/Game/Dominoes.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Creative_Work/Game/Dominoes.internal|Dominoes.internal]] 
 
-### #is_/same_as :: [Dominoes.protect](/_protect/Society/Communication/Media/Creative_Work/Game/Dominoes.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Creative_Work/Game/Dominoes.protect|Dominoes.protect]] 
 
-### #is_/same_as :: [Dominoes.private](/_private/Society/Communication/Media/Creative_Work/Game/Dominoes.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Creative_Work/Game/Dominoes.private|Dominoes.private]] 
 
-### #is_/same_as :: [Dominoes.personal](/_personal/Society/Communication/Media/Creative_Work/Game/Dominoes.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/Game/Dominoes.personal|Dominoes.personal]] 
 
-### #is_/same_as :: [Dominoes.secret](/_secret/Society/Communication/Media/Creative_Work/Game/Dominoes.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Game/Dominoes.secret|Dominoes.secret]] 
 

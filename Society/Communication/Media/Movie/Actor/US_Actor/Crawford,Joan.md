@@ -116,17 +116,17 @@ name_in_native_language: Joan Crawford
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Crawford,Joan](/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Crawford,Joan.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Crawford,Joan|Crawford,Joan]] 
 
-### #is_/same_as :: [Crawford,Joan.public](/_public/Society/Communication/Media/Movie/Actor/US_Actor/Crawford,Joan.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Actor/US_Actor/Crawford,Joan.public|Crawford,Joan.public]] 
 
-### #is_/same_as :: [Crawford,Joan.internal](/_internal/Society/Communication/Media/Movie/Actor/US_Actor/Crawford,Joan.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Actor/US_Actor/Crawford,Joan.internal|Crawford,Joan.internal]] 
 
-### #is_/same_as :: [Crawford,Joan.protect](/_protect/Society/Communication/Media/Movie/Actor/US_Actor/Crawford,Joan.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Actor/US_Actor/Crawford,Joan.protect|Crawford,Joan.protect]] 
 
-### #is_/same_as :: [Crawford,Joan.private](/_private/Society/Communication/Media/Movie/Actor/US_Actor/Crawford,Joan.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Actor/US_Actor/Crawford,Joan.private|Crawford,Joan.private]] 
 
-### #is_/same_as :: [Crawford,Joan.personal](/_personal/Society/Communication/Media/Movie/Actor/US_Actor/Crawford,Joan.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Actor/US_Actor/Crawford,Joan.personal|Crawford,Joan.personal]] 
 
-### #is_/same_as :: [Crawford,Joan.secret](/_secret/Society/Communication/Media/Movie/Actor/US_Actor/Crawford,Joan.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Actor/US_Actor/Crawford,Joan.secret|Crawford,Joan.secret]] 
 

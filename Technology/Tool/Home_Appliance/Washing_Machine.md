@@ -68,17 +68,17 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/LG%20%EB%93%9C%EB%9F%B
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Washing_Machine](/_Standards/Technology/Tool/Home_Appliance/Washing_Machine.md) 
+### #is_/same_as :: [[/_Standards/Technology/Tool/Home_Appliance/Washing_Machine|Washing_Machine]] 
 
-### #is_/same_as :: [Washing_Machine.public](/_public/Technology/Tool/Home_Appliance/Washing_Machine.public.md) 
+### #is_/same_as :: [[/_public/Technology/Tool/Home_Appliance/Washing_Machine.public|Washing_Machine.public]] 
 
-### #is_/same_as :: [Washing_Machine.internal](/_internal/Technology/Tool/Home_Appliance/Washing_Machine.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Tool/Home_Appliance/Washing_Machine.internal|Washing_Machine.internal]] 
 
-### #is_/same_as :: [Washing_Machine.protect](/_protect/Technology/Tool/Home_Appliance/Washing_Machine.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Tool/Home_Appliance/Washing_Machine.protect|Washing_Machine.protect]] 
 
-### #is_/same_as :: [Washing_Machine.private](/_private/Technology/Tool/Home_Appliance/Washing_Machine.private.md) 
+### #is_/same_as :: [[/_private/Technology/Tool/Home_Appliance/Washing_Machine.private|Washing_Machine.private]] 
 
-### #is_/same_as :: [Washing_Machine.personal](/_personal/Technology/Tool/Home_Appliance/Washing_Machine.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Tool/Home_Appliance/Washing_Machine.personal|Washing_Machine.personal]] 
 
-### #is_/same_as :: [Washing_Machine.secret](/_secret/Technology/Tool/Home_Appliance/Washing_Machine.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Tool/Home_Appliance/Washing_Machine.secret|Washing_Machine.secret]] 
 

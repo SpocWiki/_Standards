@@ -22,17 +22,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Cell(film)](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Cell(film).md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Cell(film)|Cell(film)]] 
 
-### #is_/same_as :: [Cell(film).public](/_public/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Cell(film).public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Cell(film).public|Cell(film).public]] 
 
-### #is_/same_as :: [Cell(film).internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Cell(film).internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Cell(film).internal|Cell(film).internal]] 
 
-### #is_/same_as :: [Cell(film).protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Cell(film).protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Cell(film).protect|Cell(film).protect]] 
 
-### #is_/same_as :: [Cell(film).private](/_private/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Cell(film).private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Cell(film).private|Cell(film).private]] 
 
-### #is_/same_as :: [Cell(film).personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Cell(film).personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Cell(film).personal|Cell(film).personal]] 
 
-### #is_/same_as :: [Cell(film).secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Cell(film).secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Cell(film).secret|Cell(film).secret]] 
 

@@ -29,17 +29,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Phoenix,Joaquin](/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Phoenix,Joaquin.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Phoenix,Joaquin|Phoenix,Joaquin]] 
 
-### #is_/same_as :: [Phoenix,Joaquin.public](/_public/Society/Communication/Media/Movie/Actor/US_Actor/Phoenix,Joaquin.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Actor/US_Actor/Phoenix,Joaquin.public|Phoenix,Joaquin.public]] 
 
-### #is_/same_as :: [Phoenix,Joaquin.internal](/_internal/Society/Communication/Media/Movie/Actor/US_Actor/Phoenix,Joaquin.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Actor/US_Actor/Phoenix,Joaquin.internal|Phoenix,Joaquin.internal]] 
 
-### #is_/same_as :: [Phoenix,Joaquin.protect](/_protect/Society/Communication/Media/Movie/Actor/US_Actor/Phoenix,Joaquin.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Actor/US_Actor/Phoenix,Joaquin.protect|Phoenix,Joaquin.protect]] 
 
-### #is_/same_as :: [Phoenix,Joaquin.private](/_private/Society/Communication/Media/Movie/Actor/US_Actor/Phoenix,Joaquin.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Actor/US_Actor/Phoenix,Joaquin.private|Phoenix,Joaquin.private]] 
 
-### #is_/same_as :: [Phoenix,Joaquin.personal](/_personal/Society/Communication/Media/Movie/Actor/US_Actor/Phoenix,Joaquin.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Actor/US_Actor/Phoenix,Joaquin.personal|Phoenix,Joaquin.personal]] 
 
-### #is_/same_as :: [Phoenix,Joaquin.secret](/_secret/Society/Communication/Media/Movie/Actor/US_Actor/Phoenix,Joaquin.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Actor/US_Actor/Phoenix,Joaquin.secret|Phoenix,Joaquin.secret]] 
 

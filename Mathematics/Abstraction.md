@@ -53,17 +53,17 @@ Colon_Classification: S:318
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Abstraction](/_Standards/Mathematics/Abstraction.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Abstraction|Abstraction]] 
 
-### #is_/same_as :: [Abstraction.public](/_public/Mathematics/Abstraction.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Abstraction.public|Abstraction.public]] 
 
-### #is_/same_as :: [Abstraction.internal](/_internal/Mathematics/Abstraction.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Abstraction.internal|Abstraction.internal]] 
 
-### #is_/same_as :: [Abstraction.protect](/_protect/Mathematics/Abstraction.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Abstraction.protect|Abstraction.protect]] 
 
-### #is_/same_as :: [Abstraction.private](/_private/Mathematics/Abstraction.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Abstraction.private|Abstraction.private]] 
 
-### #is_/same_as :: [Abstraction.personal](/_personal/Mathematics/Abstraction.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Abstraction.personal|Abstraction.personal]] 
 
-### #is_/same_as :: [Abstraction.secret](/_secret/Mathematics/Abstraction.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Abstraction.secret|Abstraction.secret]] 
 

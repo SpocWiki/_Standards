@@ -45,17 +45,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_course_mode](/_Standards/schema-org/Property/Texts/has_course_mode.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/Texts/has_course_mode|has_course_mode]] 
 
-### #is_/same_as :: [has_course_mode.public](/_public/schema-org/Property/Texts/has_course_mode.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/Texts/has_course_mode.public|has_course_mode.public]] 
 
-### #is_/same_as :: [has_course_mode.internal](/_internal/schema-org/Property/Texts/has_course_mode.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/Texts/has_course_mode.internal|has_course_mode.internal]] 
 
-### #is_/same_as :: [has_course_mode.protect](/_protect/schema-org/Property/Texts/has_course_mode.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/Texts/has_course_mode.protect|has_course_mode.protect]] 
 
-### #is_/same_as :: [has_course_mode.private](/_private/schema-org/Property/Texts/has_course_mode.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/Texts/has_course_mode.private|has_course_mode.private]] 
 
-### #is_/same_as :: [has_course_mode.personal](/_personal/schema-org/Property/Texts/has_course_mode.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/Texts/has_course_mode.personal|has_course_mode.personal]] 
 
-### #is_/same_as :: [has_course_mode.secret](/_secret/schema-org/Property/Texts/has_course_mode.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/Texts/has_course_mode.secret|has_course_mode.secret]] 
 

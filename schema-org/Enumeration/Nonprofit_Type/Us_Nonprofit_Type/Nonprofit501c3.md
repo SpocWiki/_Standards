@@ -42,17 +42,17 @@ Nonprofit501c3: Non-profit type referring to Religious, Educational, Charitable,
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Nonprofit501c3](/_Standards/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c3.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c3|Nonprofit501c3]] 
 
-### #is_/same_as :: [Nonprofit501c3.public](/_public/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c3.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c3.public|Nonprofit501c3.public]] 
 
-### #is_/same_as :: [Nonprofit501c3.internal](/_internal/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c3.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c3.internal|Nonprofit501c3.internal]] 
 
-### #is_/same_as :: [Nonprofit501c3.protect](/_protect/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c3.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c3.protect|Nonprofit501c3.protect]] 
 
-### #is_/same_as :: [Nonprofit501c3.private](/_private/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c3.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c3.private|Nonprofit501c3.private]] 
 
-### #is_/same_as :: [Nonprofit501c3.personal](/_personal/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c3.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c3.personal|Nonprofit501c3.personal]] 
 
-### #is_/same_as :: [Nonprofit501c3.secret](/_secret/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c3.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c3.secret|Nonprofit501c3.secret]] 
 

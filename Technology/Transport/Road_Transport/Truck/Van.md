@@ -51,17 +51,17 @@ subreddit: vandwellers
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Van](/_Standards/Technology/Transport/Road_Transport/Truck/Van.md) 
+### #is_/same_as :: [[/_Standards/Technology/Transport/Road_Transport/Truck/Van|Van]] 
 
-### #is_/same_as :: [Van.public](/_public/Technology/Transport/Road_Transport/Truck/Van.public.md) 
+### #is_/same_as :: [[/_public/Technology/Transport/Road_Transport/Truck/Van.public|Van.public]] 
 
-### #is_/same_as :: [Van.internal](/_internal/Technology/Transport/Road_Transport/Truck/Van.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Transport/Road_Transport/Truck/Van.internal|Van.internal]] 
 
-### #is_/same_as :: [Van.protect](/_protect/Technology/Transport/Road_Transport/Truck/Van.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Transport/Road_Transport/Truck/Van.protect|Van.protect]] 
 
-### #is_/same_as :: [Van.private](/_private/Technology/Transport/Road_Transport/Truck/Van.private.md) 
+### #is_/same_as :: [[/_private/Technology/Transport/Road_Transport/Truck/Van.private|Van.private]] 
 
-### #is_/same_as :: [Van.personal](/_personal/Technology/Transport/Road_Transport/Truck/Van.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Transport/Road_Transport/Truck/Van.personal|Van.personal]] 
 
-### #is_/same_as :: [Van.secret](/_secret/Technology/Transport/Road_Transport/Truck/Van.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Transport/Road_Transport/Truck/Van.secret|Van.secret]] 
 

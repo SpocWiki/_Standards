@@ -41,17 +41,17 @@ markerFolder: ./Saint_Thomas/
 
 ## Confidential Links & Embeds: 
 
-### [Saint_Thomas](/_Standards/Earth/Continent/America~North/USA/USA~Islands/USA_Virgin-Islands/Districts~USA_Virgin-Islands/Saint_Thomas.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~North/USA/USA~Islands/USA~Virgin-Islands/Districts~USA_Virgin-Islands/Saint_Thomas|Saint_Thomas]] 
 
-### [Saint_Thomas.public](/_public/Earth/Continent/America~North/USA/USA~Islands/USA_Virgin-Islands/Districts~USA_Virgin-Islands/Saint_Thomas.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~North/USA/USA~Islands/USA~Virgin-Islands/Districts~USA_Virgin-Islands/Saint_Thomas.public|Saint_Thomas.public]] 
 
-### [Saint_Thomas.internal](/_internal/Earth/Continent/America~North/USA/USA~Islands/USA_Virgin-Islands/Districts~USA_Virgin-Islands/Saint_Thomas.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~North/USA/USA~Islands/USA~Virgin-Islands/Districts~USA_Virgin-Islands/Saint_Thomas.internal|Saint_Thomas.internal]] 
 
-### [Saint_Thomas.protect](/_protect/Earth/Continent/America~North/USA/USA~Islands/USA_Virgin-Islands/Districts~USA_Virgin-Islands/Saint_Thomas.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~North/USA/USA~Islands/USA~Virgin-Islands/Districts~USA_Virgin-Islands/Saint_Thomas.protect|Saint_Thomas.protect]] 
 
-### [Saint_Thomas.private](/_private/Earth/Continent/America~North/USA/USA~Islands/USA_Virgin-Islands/Districts~USA_Virgin-Islands/Saint_Thomas.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~North/USA/USA~Islands/USA~Virgin-Islands/Districts~USA_Virgin-Islands/Saint_Thomas.private|Saint_Thomas.private]] 
 
-### [Saint_Thomas.personal](/_personal/Earth/Continent/America~North/USA/USA~Islands/USA_Virgin-Islands/Districts~USA_Virgin-Islands/Saint_Thomas.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~North/USA/USA~Islands/USA~Virgin-Islands/Districts~USA_Virgin-Islands/Saint_Thomas.personal|Saint_Thomas.personal]] 
 
-### [Saint_Thomas.secret](/_secret/Earth/Continent/America~North/USA/USA~Islands/USA_Virgin-Islands/Districts~USA_Virgin-Islands/Saint_Thomas.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~North/USA/USA~Islands/USA~Virgin-Islands/Districts~USA_Virgin-Islands/Saint_Thomas.secret|Saint_Thomas.secret]] 
 

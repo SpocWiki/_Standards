@@ -40,17 +40,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_landlord](has_landlord.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_participants/has_landlord|has_landlord]] 
 
-### #is_/same_as :: [has_landlord.public](/_public/schema-org/Relation/has/has_landlord.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_participants/has_landlord.public|has_landlord.public]] 
 
-### #is_/same_as :: [has_landlord.internal](/_internal/schema-org/Relation/has/has_landlord.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_participants/has_landlord.internal|has_landlord.internal]] 
 
-### #is_/same_as :: [has_landlord.protect](/_protect/schema-org/Relation/has/has_landlord.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_participants/has_landlord.protect|has_landlord.protect]] 
 
-### #is_/same_as :: [has_landlord.private](/_private/schema-org/Relation/has/has_landlord.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_participants/has_landlord.private|has_landlord.private]] 
 
-### #is_/same_as :: [has_landlord.personal](/_personal/schema-org/Relation/has/has_landlord.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_participants/has_landlord.personal|has_landlord.personal]] 
 
-### #is_/same_as :: [has_landlord.secret](/_secret/schema-org/Relation/has/has_landlord.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_participants/has_landlord.secret|has_landlord.secret]] 
 

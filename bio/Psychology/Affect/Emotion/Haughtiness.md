@@ -48,17 +48,17 @@ Provenio_UUID: 92ac9e5a-3eb2-4166-8899-26cb2bcd214b
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Haughtiness](/_Standards/bio/Psychology/Affect/Emotion/Haughtiness.md) 
+### #is_/same_as :: [[/_Standards/bio/Psychology/Affect/Emotion/Haughtiness|Haughtiness]] 
 
-### #is_/same_as :: [Haughtiness.public](/_public/bio/Psychology/Affect/Emotion/Haughtiness.public.md) 
+### #is_/same_as :: [[/_public/bio/Psychology/Affect/Emotion/Haughtiness.public|Haughtiness.public]] 
 
-### #is_/same_as :: [Haughtiness.internal](/_internal/bio/Psychology/Affect/Emotion/Haughtiness.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Psychology/Affect/Emotion/Haughtiness.internal|Haughtiness.internal]] 
 
-### #is_/same_as :: [Haughtiness.protect](/_protect/bio/Psychology/Affect/Emotion/Haughtiness.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Psychology/Affect/Emotion/Haughtiness.protect|Haughtiness.protect]] 
 
-### #is_/same_as :: [Haughtiness.private](/_private/bio/Psychology/Affect/Emotion/Haughtiness.private.md) 
+### #is_/same_as :: [[/_private/bio/Psychology/Affect/Emotion/Haughtiness.private|Haughtiness.private]] 
 
-### #is_/same_as :: [Haughtiness.personal](/_personal/bio/Psychology/Affect/Emotion/Haughtiness.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Psychology/Affect/Emotion/Haughtiness.personal|Haughtiness.personal]] 
 
-### #is_/same_as :: [Haughtiness.secret](/_secret/bio/Psychology/Affect/Emotion/Haughtiness.secret.md)
+### #is_/same_as :: [[/_secret/bio/Psychology/Affect/Emotion/Haughtiness.secret|Haughtiness.secret]] 
 

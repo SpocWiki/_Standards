@@ -46,17 +46,17 @@ type: ElementGroup
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Group-15-Nitrogen](/_Standards/Chemistry/Chemical_Element/Group-15-Nitrogen.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Chemical_Element/Group-15-Nitrogen|Group-15-Nitrogen]] 
 
-### #is_/same_as :: [Group-15-Nitrogen.public](/_public/Chemistry/Chemical_Element/Group-15-Nitrogen.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Chemical_Element/Group-15-Nitrogen.public|Group-15-Nitrogen.public]] 
 
-### #is_/same_as :: [Group-15-Nitrogen.internal](/_internal/Chemistry/Chemical_Element/Group-15-Nitrogen.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Chemical_Element/Group-15-Nitrogen.internal|Group-15-Nitrogen.internal]] 
 
-### #is_/same_as :: [Group-15-Nitrogen.protect](/_protect/Chemistry/Chemical_Element/Group-15-Nitrogen.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Chemical_Element/Group-15-Nitrogen.protect|Group-15-Nitrogen.protect]] 
 
-### #is_/same_as :: [Group-15-Nitrogen.private](/_private/Chemistry/Chemical_Element/Group-15-Nitrogen.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Chemical_Element/Group-15-Nitrogen.private|Group-15-Nitrogen.private]] 
 
-### #is_/same_as :: [Group-15-Nitrogen.personal](/_personal/Chemistry/Chemical_Element/Group-15-Nitrogen.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Chemical_Element/Group-15-Nitrogen.personal|Group-15-Nitrogen.personal]] 
 
-### #is_/same_as :: [Group-15-Nitrogen.secret](/_secret/Chemistry/Chemical_Element/Group-15-Nitrogen.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Chemical_Element/Group-15-Nitrogen.secret|Group-15-Nitrogen.secret]] 
 

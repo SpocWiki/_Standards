@@ -102,17 +102,17 @@ inception: 1944-12-18T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Le_Monde](/_Standards/Society/Communication/Media/Journalism/Newspaper/Le_Monde.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Journalism/Newspaper/Le_Monde|Le_Monde]] 
 
-### #is_/same_as :: [Le_Monde.public](/_public/Society/Communication/Media/Journalism/Newspaper/Le_Monde.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Journalism/Newspaper/Le_Monde.public|Le_Monde.public]] 
 
-### #is_/same_as :: [Le_Monde.internal](/_internal/Society/Communication/Media/Journalism/Newspaper/Le_Monde.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Journalism/Newspaper/Le_Monde.internal|Le_Monde.internal]] 
 
-### #is_/same_as :: [Le_Monde.protect](/_protect/Society/Communication/Media/Journalism/Newspaper/Le_Monde.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Journalism/Newspaper/Le_Monde.protect|Le_Monde.protect]] 
 
-### #is_/same_as :: [Le_Monde.private](/_private/Society/Communication/Media/Journalism/Newspaper/Le_Monde.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Journalism/Newspaper/Le_Monde.private|Le_Monde.private]] 
 
-### #is_/same_as :: [Le_Monde.personal](/_personal/Society/Communication/Media/Journalism/Newspaper/Le_Monde.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Journalism/Newspaper/Le_Monde.personal|Le_Monde.personal]] 
 
-### #is_/same_as :: [Le_Monde.secret](/_secret/Society/Communication/Media/Journalism/Newspaper/Le_Monde.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Journalism/Newspaper/Le_Monde.secret|Le_Monde.secret]] 
 

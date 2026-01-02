@@ -58,17 +58,17 @@ male_form_of_label: našlaitis
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Orphan](/_Standards/Society/Agent/Community/Clan/Family/Child/Orphan.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Clan/Family/Child/Orphan|Orphan]] 
 
-### #is_/same_as :: [Orphan.public](/_public/Society/Agent/Community/Clan/Family/Child/Orphan.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Clan/Family/Child/Orphan.public|Orphan.public]] 
 
-### #is_/same_as :: [Orphan.internal](/_internal/Society/Agent/Community/Clan/Family/Child/Orphan.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Clan/Family/Child/Orphan.internal|Orphan.internal]] 
 
-### #is_/same_as :: [Orphan.protect](/_protect/Society/Agent/Community/Clan/Family/Child/Orphan.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Clan/Family/Child/Orphan.protect|Orphan.protect]] 
 
-### #is_/same_as :: [Orphan.private](/_private/Society/Agent/Community/Clan/Family/Child/Orphan.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Clan/Family/Child/Orphan.private|Orphan.private]] 
 
-### #is_/same_as :: [Orphan.personal](/_personal/Society/Agent/Community/Clan/Family/Child/Orphan.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Clan/Family/Child/Orphan.personal|Orphan.personal]] 
 
-### #is_/same_as :: [Orphan.secret](/_secret/Society/Agent/Community/Clan/Family/Child/Orphan.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Clan/Family/Child/Orphan.secret|Orphan.secret]] 
 

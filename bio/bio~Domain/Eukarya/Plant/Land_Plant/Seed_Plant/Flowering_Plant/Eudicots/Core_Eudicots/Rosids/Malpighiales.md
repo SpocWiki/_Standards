@@ -84,7 +84,7 @@ taxon_common_name: 金虎尾目
 
 
 ------------------------------------------------------------------------------ 
-![Red willow, Salix laevigata](Malpighiales/Salix_laevigata.jpg))
+![Red willow, Salix laevigata](Malpighiales/Salix_laevigata.jpg) 
 Scientific Name ::     Salix laevigata
 Location ::           Kearsarge Pass (Fresno County, California, USA)
 Comments             Red willow (Salicaceae)
@@ -94,7 +94,7 @@ Source Collection    [CalPhotos](http://calphotos.berkeley.edu/)
 Copyright ::            © 1998 [California Academy of Sciences](http://www.calacademy.org/) 
 
 ------------------------------------------------------------------------ 
-![Euphorbia canariensis](Malpighiales/Euphorbia_canariensis.jpg))
+![Euphorbia canariensis](Malpighiales/Euphorbia_canariensis.jpg) 
 Scientific Name ::   Euphorbia canariensis
 Location ::         Buenavista del Norte, Teneriffa, Canary Islands
 Comments           Euphorbiaceae
@@ -102,7 +102,7 @@ Acknowledgements   courtesy [Botanical Image Database](http://www.unibas.ch/boti
 Copyright ::          © 2001 University of Basel, Basel, Switzerland 
 
 --------------------------------------------------------------------- 
-![Hypericum cerastoides](Malpighiales/Hypericum_cerastoides.jpg))
+![Hypericum cerastoides](Malpighiales/Hypericum_cerastoides.jpg) 
 Scientific Name ::  Hypericum cerastoides
 Comments          Hypericaceae
 Copyright ::         © [Kurt Stüber](http://www.biolib.de/) 
@@ -110,17 +110,17 @@ Copyright ::         © [Kurt Stüber](http://www.biolib.de/)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Malpighiales](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Malpighiales.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Malpighiales|Malpighiales]] 
 
-### #is_/same_as :: [Malpighiales.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Malpighiales.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Malpighiales.public|Malpighiales.public]] 
 
-### #is_/same_as :: [Malpighiales.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Malpighiales.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Malpighiales.internal|Malpighiales.internal]] 
 
-### #is_/same_as :: [Malpighiales.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Malpighiales.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Malpighiales.protect|Malpighiales.protect]] 
 
-### #is_/same_as :: [Malpighiales.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Malpighiales.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Malpighiales.private|Malpighiales.private]] 
 
-### #is_/same_as :: [Malpighiales.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Malpighiales.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Malpighiales.personal|Malpighiales.personal]] 
 
-### #is_/same_as :: [Malpighiales.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Malpighiales.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Malpighiales.secret|Malpighiales.secret]] 
 

@@ -100,17 +100,17 @@ Wikidata_property: density
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Density](/_Standards/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Density.md) 
+### #is_/same_as :: [[/_Standards/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Density|Density]] 
 
-### #is_/same_as :: [Density.public](/_public/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Density.public.md) 
+### #is_/same_as :: [[/_public/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Density.public|Density.public]] 
 
-### #is_/same_as :: [Density.internal](/_internal/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Density.internal.md) 
+### #is_/same_as :: [[/_internal/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Density.internal|Density.internal]] 
 
-### #is_/same_as :: [Density.protect](/_protect/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Density.protect.md) 
+### #is_/same_as :: [[/_protect/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Density.protect|Density.protect]] 
 
-### #is_/same_as :: [Density.private](/_private/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Density.private.md) 
+### #is_/same_as :: [[/_private/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Density.private|Density.private]] 
 
-### #is_/same_as :: [Density.personal](/_personal/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Density.personal.md) 
+### #is_/same_as :: [[/_personal/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Density.personal|Density.personal]] 
 
-### #is_/same_as :: [Density.secret](/_secret/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Density.secret.md)
+### #is_/same_as :: [[/_secret/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Density.secret|Density.secret]] 
 

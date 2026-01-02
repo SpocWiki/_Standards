@@ -43,17 +43,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Akbar](/_Standards/Society/Politics/Government/Leader/Early_modern_Leaders/Akbar.md) 
+### #is_/same_as :: [[/_Standards/Society/Politics/Government/Leader/Early_modern_Leaders/Akbar|Akbar]] 
 
-### #is_/same_as :: [Akbar.public](/_public/Society/Politics/Government/Leader/Early_modern_Leaders/Akbar.public.md) 
+### #is_/same_as :: [[/_public/Society/Politics/Government/Leader/Early_modern_Leaders/Akbar.public|Akbar.public]] 
 
-### #is_/same_as :: [Akbar.internal](/_internal/Society/Politics/Government/Leader/Early_modern_Leaders/Akbar.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Politics/Government/Leader/Early_modern_Leaders/Akbar.internal|Akbar.internal]] 
 
-### #is_/same_as :: [Akbar.protect](/_protect/Society/Politics/Government/Leader/Early_modern_Leaders/Akbar.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Politics/Government/Leader/Early_modern_Leaders/Akbar.protect|Akbar.protect]] 
 
-### #is_/same_as :: [Akbar.private](/_private/Society/Politics/Government/Leader/Early_modern_Leaders/Akbar.private.md) 
+### #is_/same_as :: [[/_private/Society/Politics/Government/Leader/Early_modern_Leaders/Akbar.private|Akbar.private]] 
 
-### #is_/same_as :: [Akbar.personal](/_personal/Society/Politics/Government/Leader/Early_modern_Leaders/Akbar.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Politics/Government/Leader/Early_modern_Leaders/Akbar.personal|Akbar.personal]] 
 
-### #is_/same_as :: [Akbar.secret](/_secret/Society/Politics/Government/Leader/Early_modern_Leaders/Akbar.secret.md)
+### #is_/same_as :: [[/_secret/Society/Politics/Government/Leader/Early_modern_Leaders/Akbar.secret|Akbar.secret]] 
 

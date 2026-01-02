@@ -66,17 +66,17 @@ time_of_discovery_or_invention: 1687-01-01T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Zodiac~Lacerta](/_Standards/Astronomy/Star~Constellation/Zodiac~Lacerta.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Star~Constellation/Zodiac~Lacerta|Zodiac~Lacerta]] 
 
-### #is_/same_as :: [Zodiac~Lacerta.public](/_public/Astronomy/Star~Constellation/Zodiac~Lacerta.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Star~Constellation/Zodiac~Lacerta.public|Zodiac~Lacerta.public]] 
 
-### #is_/same_as :: [Zodiac~Lacerta.internal](/_internal/Astronomy/Star~Constellation/Zodiac~Lacerta.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Star~Constellation/Zodiac~Lacerta.internal|Zodiac~Lacerta.internal]] 
 
-### #is_/same_as :: [Zodiac~Lacerta.protect](/_protect/Astronomy/Star~Constellation/Zodiac~Lacerta.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Star~Constellation/Zodiac~Lacerta.protect|Zodiac~Lacerta.protect]] 
 
-### #is_/same_as :: [Zodiac~Lacerta.private](/_private/Astronomy/Star~Constellation/Zodiac~Lacerta.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Star~Constellation/Zodiac~Lacerta.private|Zodiac~Lacerta.private]] 
 
-### #is_/same_as :: [Zodiac~Lacerta.personal](/_personal/Astronomy/Star~Constellation/Zodiac~Lacerta.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Star~Constellation/Zodiac~Lacerta.personal|Zodiac~Lacerta.personal]] 
 
-### #is_/same_as :: [Zodiac~Lacerta.secret](/_secret/Astronomy/Star~Constellation/Zodiac~Lacerta.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Star~Constellation/Zodiac~Lacerta.secret|Zodiac~Lacerta.secret]] 
 

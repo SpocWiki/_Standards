@@ -39,17 +39,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [You_Only_Live_Twice,1967](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/You_Only_Live_Twice,1967.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/You_Only_Live_Twice,1967|You_Only_Live_Twice,1967]] 
 
-### #is_/same_as :: [You_Only_Live_Twice,1967.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/You_Only_Live_Twice,1967.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/You_Only_Live_Twice,1967.public|You_Only_Live_Twice,1967.public]] 
 
-### #is_/same_as :: [You_Only_Live_Twice,1967.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/You_Only_Live_Twice,1967.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/You_Only_Live_Twice,1967.internal|You_Only_Live_Twice,1967.internal]] 
 
-### #is_/same_as :: [You_Only_Live_Twice,1967.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/You_Only_Live_Twice,1967.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/You_Only_Live_Twice,1967.protect|You_Only_Live_Twice,1967.protect]] 
 
-### #is_/same_as :: [You_Only_Live_Twice,1967.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/You_Only_Live_Twice,1967.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/You_Only_Live_Twice,1967.private|You_Only_Live_Twice,1967.private]] 
 
-### #is_/same_as :: [You_Only_Live_Twice,1967.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/You_Only_Live_Twice,1967.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/You_Only_Live_Twice,1967.personal|You_Only_Live_Twice,1967.personal]] 
 
-### #is_/same_as :: [You_Only_Live_Twice,1967.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/You_Only_Live_Twice,1967.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/You_Only_Live_Twice,1967.secret|You_Only_Live_Twice,1967.secret]] 
 

@@ -143,17 +143,17 @@ video: http://commons.wikimedia.org/wiki/Special:FilePath/Schwerkraft%20als%20Kr
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Gravity](/_Standards/Science/Physics/Fundamental_Interaction/Gravity.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Fundamental_Interaction/Gravity|Gravity]] 
 
-### #is_/same_as :: [Gravity.public](/_public/Science/Physics/Fundamental_Interaction/Gravity.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Fundamental_Interaction/Gravity.public|Gravity.public]] 
 
-### #is_/same_as :: [Gravity.internal](/_internal/Science/Physics/Fundamental_Interaction/Gravity.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Fundamental_Interaction/Gravity.internal|Gravity.internal]] 
 
-### #is_/same_as :: [Gravity.protect](/_protect/Science/Physics/Fundamental_Interaction/Gravity.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Fundamental_Interaction/Gravity.protect|Gravity.protect]] 
 
-### #is_/same_as :: [Gravity.private](/_private/Science/Physics/Fundamental_Interaction/Gravity.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Fundamental_Interaction/Gravity.private|Gravity.private]] 
 
-### #is_/same_as :: [Gravity.personal](/_personal/Science/Physics/Fundamental_Interaction/Gravity.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Fundamental_Interaction/Gravity.personal|Gravity.personal]] 
 
-### #is_/same_as :: [Gravity.secret](/_secret/Science/Physics/Fundamental_Interaction/Gravity.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Fundamental_Interaction/Gravity.secret|Gravity.secret]] 
 

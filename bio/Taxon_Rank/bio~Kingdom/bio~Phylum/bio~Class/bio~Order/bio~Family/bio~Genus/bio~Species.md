@@ -106,17 +106,17 @@ U_S_National_Archives_Identifier: 10663903
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [bio~Species](bio~Species.md) 
+### #is_/same_as :: [[/_Standards/bio/Taxon_Rank/bio~Kingdom/bio~Phylum/bio~Class/bio~Order/bio~Family/bio~Genus/bio~Species|bio~Species]] 
 
-### #is_/same_as :: [bio-Species.public](/_public/bio/Taxon_Rank/bio~Kingdom/bio~Phylum/bio~Class/bio~Order/bio~Family/bio-Genus/bio-Species.public.md) 
+### #is_/same_as :: [[/_public/bio/Taxon_Rank/bio~Kingdom/bio~Phylum/bio~Class/bio~Order/bio~Family/bio~Genus/bio~Species.public|bio~Species.public]] 
 
-### #is_/same_as :: [bio-Species.internal](/_internal/bio/Taxon_Rank/bio~Kingdom/bio~Phylum/bio~Class/bio~Order/bio~Family/bio-Genus/bio-Species.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Taxon_Rank/bio~Kingdom/bio~Phylum/bio~Class/bio~Order/bio~Family/bio~Genus/bio~Species.internal|bio~Species.internal]] 
 
-### #is_/same_as :: [bio-Species.protect](/_protect/bio/Taxon_Rank/bio~Kingdom/bio~Phylum/bio~Class/bio~Order/bio~Family/bio-Genus/bio-Species.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Taxon_Rank/bio~Kingdom/bio~Phylum/bio~Class/bio~Order/bio~Family/bio~Genus/bio~Species.protect|bio~Species.protect]] 
 
-### #is_/same_as :: [bio-Species.private](/_private/bio/Taxon_Rank/bio~Kingdom/bio~Phylum/bio~Class/bio~Order/bio~Family/bio-Genus/bio-Species.private.md) 
+### #is_/same_as :: [[/_private/bio/Taxon_Rank/bio~Kingdom/bio~Phylum/bio~Class/bio~Order/bio~Family/bio~Genus/bio~Species.private|bio~Species.private]] 
 
-### #is_/same_as :: [bio-Species.personal](/_personal/bio/Taxon_Rank/bio~Kingdom/bio~Phylum/bio~Class/bio~Order/bio~Family/bio-Genus/bio-Species.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Taxon_Rank/bio~Kingdom/bio~Phylum/bio~Class/bio~Order/bio~Family/bio~Genus/bio~Species.personal|bio~Species.personal]] 
 
-### #is_/same_as :: [bio-Species.secret](/_secret/bio/Taxon_Rank/bio~Kingdom/bio~Phylum/bio~Class/bio~Order/bio~Family/bio-Genus/bio-Species.secret.md)
+### #is_/same_as :: [[/_secret/bio/Taxon_Rank/bio~Kingdom/bio~Phylum/bio~Class/bio~Order/bio~Family/bio~Genus/bio~Species.secret|bio~Species.secret]] 
 

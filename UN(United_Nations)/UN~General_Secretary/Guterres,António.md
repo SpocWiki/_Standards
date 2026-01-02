@@ -139,17 +139,17 @@ birth_name: António Manuel de Oliveira Guterres
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Guterres,António](/_Standards/UN(United_Nations)/UN~General_Secretary/Guterres,António.md) 
+### #is_/same_as :: [[/_Standards/UN(United_Nations)/UN~General_Secretary/Guterres,António|Guterres,António]] 
 
-### #is_/same_as :: [Guterres,António.public](/_public/UN(United_Nations)/UN~General_Secretary/Guterres,António.public.md) 
+### #is_/same_as :: [[/_public/UN(United_Nations)/UN~General_Secretary/Guterres,António.public|Guterres,António.public]] 
 
-### #is_/same_as :: [Guterres,António.internal](/_internal/UN(United_Nations)/UN~General_Secretary/Guterres,António.internal.md) 
+### #is_/same_as :: [[/_internal/UN(United_Nations)/UN~General_Secretary/Guterres,António.internal|Guterres,António.internal]] 
 
-### #is_/same_as :: [Guterres,António.protect](/_protect/UN(United_Nations)/UN~General_Secretary/Guterres,António.protect.md) 
+### #is_/same_as :: [[/_protect/UN(United_Nations)/UN~General_Secretary/Guterres,António.protect|Guterres,António.protect]] 
 
-### #is_/same_as :: [Guterres,António.private](/_private/UN(United_Nations)/UN~General_Secretary/Guterres,António.private.md) 
+### #is_/same_as :: [[/_private/UN(United_Nations)/UN~General_Secretary/Guterres,António.private|Guterres,António.private]] 
 
-### #is_/same_as :: [Guterres,António.personal](/_personal/UN(United_Nations)/UN~General_Secretary/Guterres,António.personal.md) 
+### #is_/same_as :: [[/_personal/UN(United_Nations)/UN~General_Secretary/Guterres,António.personal|Guterres,António.personal]] 
 
-### #is_/same_as :: [Guterres,António.secret](/_secret/UN(United_Nations)/UN~General_Secretary/Guterres,António.secret.md)
+### #is_/same_as :: [[/_secret/UN(United_Nations)/UN~General_Secretary/Guterres,António.secret|Guterres,António.secret]] 
 

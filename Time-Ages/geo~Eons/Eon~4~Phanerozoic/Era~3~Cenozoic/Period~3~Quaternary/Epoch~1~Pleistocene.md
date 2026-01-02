@@ -154,17 +154,17 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Epoch~1~Pleistocene](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~1~Pleistocene.md) 
+### #is_/same_as :: [[/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~1~Pleistocene|Epoch~1~Pleistocene]] 
 
-### #is_/same_as :: [Epoch~1~Pleistocene.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~1~Pleistocene.public.md) 
+### #is_/same_as :: [[/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~1~Pleistocene.public|Epoch~1~Pleistocene.public]] 
 
-### #is_/same_as :: [Epoch~1~Pleistocene.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~1~Pleistocene.internal.md) 
+### #is_/same_as :: [[/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~1~Pleistocene.internal|Epoch~1~Pleistocene.internal]] 
 
-### #is_/same_as :: [Epoch~1~Pleistocene.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~1~Pleistocene.protect.md) 
+### #is_/same_as :: [[/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~1~Pleistocene.protect|Epoch~1~Pleistocene.protect]] 
 
-### #is_/same_as :: [Epoch~1~Pleistocene.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~1~Pleistocene.private.md) 
+### #is_/same_as :: [[/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~1~Pleistocene.private|Epoch~1~Pleistocene.private]] 
 
-### #is_/same_as :: [Epoch~1~Pleistocene.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~1~Pleistocene.personal.md) 
+### #is_/same_as :: [[/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~1~Pleistocene.personal|Epoch~1~Pleistocene.personal]] 
 
-### #is_/same_as :: [Epoch~1~Pleistocene.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~1~Pleistocene.secret.md)
+### #is_/same_as :: [[/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~1~Pleistocene.secret|Epoch~1~Pleistocene.secret]] 
 

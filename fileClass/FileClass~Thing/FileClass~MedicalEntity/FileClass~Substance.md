@@ -65,17 +65,17 @@ MaximumIntake:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~Substance](/_Standards/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~Substance.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~Substance|FileClass~Substance]] 
 
-### #is_/same_as :: [FileClass~Substance.public](/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~Substance.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~Substance.public|FileClass~Substance.public]] 
 
-### #is_/same_as :: [FileClass~Substance.internal](/_internal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~Substance.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~Substance.internal|FileClass~Substance.internal]] 
 
-### #is_/same_as :: [FileClass~Substance.protect](/_protect/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~Substance.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~Substance.protect|FileClass~Substance.protect]] 
 
-### #is_/same_as :: [FileClass~Substance.private](/_private/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~Substance.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~Substance.private|FileClass~Substance.private]] 
 
-### #is_/same_as :: [FileClass~Substance.personal](/_personal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~Substance.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~Substance.personal|FileClass~Substance.personal]] 
 
-### #is_/same_as :: [FileClass~Substance.secret](/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~Substance.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~Substance.secret|FileClass~Substance.secret]] 
 

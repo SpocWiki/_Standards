@@ -76,17 +76,17 @@ Commons_category: Bodhidharma
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bodhidharma](/_Standards/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism/Bodhidharma.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism/Bodhidharma|Bodhidharma]] 
 
-### #is_/same_as :: [Bodhidharma.public](/_public/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism/Bodhidharma.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism/Bodhidharma.public|Bodhidharma.public]] 
 
-### #is_/same_as :: [Bodhidharma.internal](/_internal/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism/Bodhidharma.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism/Bodhidharma.internal|Bodhidharma.internal]] 
 
-### #is_/same_as :: [Bodhidharma.protect](/_protect/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism/Bodhidharma.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism/Bodhidharma.protect|Bodhidharma.protect]] 
 
-### #is_/same_as :: [Bodhidharma.private](/_private/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism/Bodhidharma.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism/Bodhidharma.private|Bodhidharma.private]] 
 
-### #is_/same_as :: [Bodhidharma.personal](/_personal/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism/Bodhidharma.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism/Bodhidharma.personal|Bodhidharma.personal]] 
 
-### #is_/same_as :: [Bodhidharma.secret](/_secret/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism/Bodhidharma.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism/Bodhidharma.secret|Bodhidharma.secret]] 
 

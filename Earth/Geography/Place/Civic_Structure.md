@@ -43,17 +43,17 @@ A public structure, such as a town hall or concert hall.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Civic_Structure](/_Standards/Earth/Geography/Place/Civic_Structure.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geography/Place/Civic_Structure|Civic_Structure]] 
 
-### #is_/same_as :: [Civic_Structure.public](/_public/Earth/Geography/Place/Civic_Structure.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geography/Place/Civic_Structure.public|Civic_Structure.public]] 
 
-### #is_/same_as :: [Civic_Structure.internal](/_internal/Earth/Geography/Place/Civic_Structure.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geography/Place/Civic_Structure.internal|Civic_Structure.internal]] 
 
-### #is_/same_as :: [Civic_Structure.protect](/_protect/Earth/Geography/Place/Civic_Structure.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geography/Place/Civic_Structure.protect|Civic_Structure.protect]] 
 
-### #is_/same_as :: [Civic_Structure.private](/_private/Earth/Geography/Place/Civic_Structure.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geography/Place/Civic_Structure.private|Civic_Structure.private]] 
 
-### #is_/same_as :: [Civic_Structure.personal](/_personal/Earth/Geography/Place/Civic_Structure.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geography/Place/Civic_Structure.personal|Civic_Structure.personal]] 
 
-### #is_/same_as :: [Civic_Structure.secret](/_secret/Earth/Geography/Place/Civic_Structure.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geography/Place/Civic_Structure.secret|Civic_Structure.secret]] 
 

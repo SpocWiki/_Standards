@@ -58,17 +58,17 @@ By <a href="//commons.wikimedia.org/wiki/User:%E0%AE%8E%E0%AE%B8%E0%AF%8D%E0%AE%
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Meenakshi_Temple](/_Standards/Earth/Geography/Place/Meenakshi_Temple.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geography/Place/Meenakshi_Temple|Meenakshi_Temple]] 
 
-### #is_/same_as :: [Meenakshi_Temple.public](/_public/Earth/Geography/Place/Meenakshi_Temple.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geography/Place/Meenakshi_Temple.public|Meenakshi_Temple.public]] 
 
-### #is_/same_as :: [Meenakshi_Temple.internal](/_internal/Earth/Geography/Place/Meenakshi_Temple.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geography/Place/Meenakshi_Temple.internal|Meenakshi_Temple.internal]] 
 
-### #is_/same_as :: [Meenakshi_Temple.protect](/_protect/Earth/Geography/Place/Meenakshi_Temple.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geography/Place/Meenakshi_Temple.protect|Meenakshi_Temple.protect]] 
 
-### #is_/same_as :: [Meenakshi_Temple.private](/_private/Earth/Geography/Place/Meenakshi_Temple.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geography/Place/Meenakshi_Temple.private|Meenakshi_Temple.private]] 
 
-### #is_/same_as :: [Meenakshi_Temple.personal](/_personal/Earth/Geography/Place/Meenakshi_Temple.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geography/Place/Meenakshi_Temple.personal|Meenakshi_Temple.personal]] 
 
-### #is_/same_as :: [Meenakshi_Temple.secret](/_secret/Earth/Geography/Place/Meenakshi_Temple.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geography/Place/Meenakshi_Temple.secret|Meenakshi_Temple.secret]] 
 

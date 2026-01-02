@@ -55,17 +55,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Pattinson,Robert](/_Standards/Society/Communication/Media/Movie/Actor/British_Actor/Pattinson,Robert.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Actor/British_Actor/Pattinson,Robert|Pattinson,Robert]] 
 
-### #is_/same_as :: [Pattinson,Robert.public](/_public/Society/Communication/Media/Movie/Actor/British_Actor/Pattinson,Robert.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Actor/British_Actor/Pattinson,Robert.public|Pattinson,Robert.public]] 
 
-### #is_/same_as :: [Pattinson,Robert.internal](/_internal/Society/Communication/Media/Movie/Actor/British_Actor/Pattinson,Robert.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Actor/British_Actor/Pattinson,Robert.internal|Pattinson,Robert.internal]] 
 
-### #is_/same_as :: [Pattinson,Robert.protect](/_protect/Society/Communication/Media/Movie/Actor/British_Actor/Pattinson,Robert.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Actor/British_Actor/Pattinson,Robert.protect|Pattinson,Robert.protect]] 
 
-### #is_/same_as :: [Pattinson,Robert.private](/_private/Society/Communication/Media/Movie/Actor/British_Actor/Pattinson,Robert.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Actor/British_Actor/Pattinson,Robert.private|Pattinson,Robert.private]] 
 
-### #is_/same_as :: [Pattinson,Robert.personal](/_personal/Society/Communication/Media/Movie/Actor/British_Actor/Pattinson,Robert.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Actor/British_Actor/Pattinson,Robert.personal|Pattinson,Robert.personal]] 
 
-### #is_/same_as :: [Pattinson,Robert.secret](/_secret/Society/Communication/Media/Movie/Actor/British_Actor/Pattinson,Robert.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Actor/British_Actor/Pattinson,Robert.secret|Pattinson,Robert.secret]] 
 

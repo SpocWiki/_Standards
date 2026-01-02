@@ -45,17 +45,17 @@ Specifies that there is an unlimited window for product returns.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Merchant_Return_Unlimited_Window](/_Standards/schema-org/Enumeration/Merchant_Return_Enumeration/Merchant_Return_Unlimited_Window.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Merchant_Return_Enumeration/Merchant_Return_Unlimited_Window|Merchant_Return_Unlimited_Window]] 
 
-### #is_/same_as :: [Merchant_Return_Unlimited_Window.public](/_public/schema-org/Enumeration/Merchant_Return_Enumeration/Merchant_Return_Unlimited_Window.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Merchant_Return_Enumeration/Merchant_Return_Unlimited_Window.public|Merchant_Return_Unlimited_Window.public]] 
 
-### #is_/same_as :: [Merchant_Return_Unlimited_Window.internal](/_internal/schema-org/Enumeration/Merchant_Return_Enumeration/Merchant_Return_Unlimited_Window.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Merchant_Return_Enumeration/Merchant_Return_Unlimited_Window.internal|Merchant_Return_Unlimited_Window.internal]] 
 
-### #is_/same_as :: [Merchant_Return_Unlimited_Window.protect](/_protect/schema-org/Enumeration/Merchant_Return_Enumeration/Merchant_Return_Unlimited_Window.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Merchant_Return_Enumeration/Merchant_Return_Unlimited_Window.protect|Merchant_Return_Unlimited_Window.protect]] 
 
-### #is_/same_as :: [Merchant_Return_Unlimited_Window.private](/_private/schema-org/Enumeration/Merchant_Return_Enumeration/Merchant_Return_Unlimited_Window.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Merchant_Return_Enumeration/Merchant_Return_Unlimited_Window.private|Merchant_Return_Unlimited_Window.private]] 
 
-### #is_/same_as :: [Merchant_Return_Unlimited_Window.personal](/_personal/schema-org/Enumeration/Merchant_Return_Enumeration/Merchant_Return_Unlimited_Window.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Merchant_Return_Enumeration/Merchant_Return_Unlimited_Window.personal|Merchant_Return_Unlimited_Window.personal]] 
 
-### #is_/same_as :: [Merchant_Return_Unlimited_Window.secret](/_secret/schema-org/Enumeration/Merchant_Return_Enumeration/Merchant_Return_Unlimited_Window.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Merchant_Return_Enumeration/Merchant_Return_Unlimited_Window.secret|Merchant_Return_Unlimited_Window.secret]] 
 

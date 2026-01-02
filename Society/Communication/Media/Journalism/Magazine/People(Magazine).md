@@ -94,17 +94,17 @@ Reddit_username: peoplemagazine
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [People(Magazine)](/_Standards/Society/Communication/Media/Journalism/Magazine/People(Magazine).md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Journalism/Magazine/People(Magazine)|People(Magazine)]] 
 
-### #is_/same_as :: [People(Magazine).public](/_public/Society/Communication/Media/Journalism/Magazine/People(Magazine).public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Journalism/Magazine/People(Magazine).public|People(Magazine).public]] 
 
-### #is_/same_as :: [People(Magazine).internal](/_internal/Society/Communication/Media/Journalism/Magazine/People(Magazine).internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Journalism/Magazine/People(Magazine).internal|People(Magazine).internal]] 
 
-### #is_/same_as :: [People(Magazine).protect](/_protect/Society/Communication/Media/Journalism/Magazine/People(Magazine).protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Journalism/Magazine/People(Magazine).protect|People(Magazine).protect]] 
 
-### #is_/same_as :: [People(Magazine).private](/_private/Society/Communication/Media/Journalism/Magazine/People(Magazine).private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Journalism/Magazine/People(Magazine).private|People(Magazine).private]] 
 
-### #is_/same_as :: [People(Magazine).personal](/_personal/Society/Communication/Media/Journalism/Magazine/People(Magazine).personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Journalism/Magazine/People(Magazine).personal|People(Magazine).personal]] 
 
-### #is_/same_as :: [People(Magazine).secret](/_secret/Society/Communication/Media/Journalism/Magazine/People(Magazine).secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Journalism/Magazine/People(Magazine).secret|People(Magazine).secret]] 
 

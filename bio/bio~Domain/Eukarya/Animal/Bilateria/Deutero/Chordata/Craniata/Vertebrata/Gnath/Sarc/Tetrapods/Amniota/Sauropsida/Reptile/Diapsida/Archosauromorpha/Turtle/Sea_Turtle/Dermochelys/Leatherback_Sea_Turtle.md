@@ -173,17 +173,17 @@ EPPO_Code: DRMOCO
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Leatherback_Sea_Turtle](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Sauropsida/Reptile/Diapsida/Archosauromorpha/Turtle/Sea_Turtle/Dermochelys/Leatherback_Sea_Turtle.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Sauropsida/Reptile/Diapsida/Archosauromorpha/Turtle/Sea_Turtle/Dermochelys/Leatherback_Sea_Turtle|Leatherback_Sea_Turtle]] 
 
-### #is_/same_as :: [Leatherback_Sea_Turtle.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Sauropsida/Reptile/Diapsida/Archosauromorpha/Turtle/Sea_Turtle/Dermochelys/Leatherback_Sea_Turtle.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Sauropsida/Reptile/Diapsida/Archosauromorpha/Turtle/Sea_Turtle/Dermochelys/Leatherback_Sea_Turtle.public|Leatherback_Sea_Turtle.public]] 
 
-### #is_/same_as :: [Leatherback_Sea_Turtle.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Sauropsida/Reptile/Diapsida/Archosauromorpha/Turtle/Sea_Turtle/Dermochelys/Leatherback_Sea_Turtle.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Sauropsida/Reptile/Diapsida/Archosauromorpha/Turtle/Sea_Turtle/Dermochelys/Leatherback_Sea_Turtle.internal|Leatherback_Sea_Turtle.internal]] 
 
-### #is_/same_as :: [Leatherback_Sea_Turtle.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Sauropsida/Reptile/Diapsida/Archosauromorpha/Turtle/Sea_Turtle/Dermochelys/Leatherback_Sea_Turtle.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Sauropsida/Reptile/Diapsida/Archosauromorpha/Turtle/Sea_Turtle/Dermochelys/Leatherback_Sea_Turtle.protect|Leatherback_Sea_Turtle.protect]] 
 
-### #is_/same_as :: [Leatherback_Sea_Turtle.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Sauropsida/Reptile/Diapsida/Archosauromorpha/Turtle/Sea_Turtle/Dermochelys/Leatherback_Sea_Turtle.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Sauropsida/Reptile/Diapsida/Archosauromorpha/Turtle/Sea_Turtle/Dermochelys/Leatherback_Sea_Turtle.private|Leatherback_Sea_Turtle.private]] 
 
-### #is_/same_as :: [Leatherback_Sea_Turtle.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Sauropsida/Reptile/Diapsida/Archosauromorpha/Turtle/Sea_Turtle/Dermochelys/Leatherback_Sea_Turtle.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Sauropsida/Reptile/Diapsida/Archosauromorpha/Turtle/Sea_Turtle/Dermochelys/Leatherback_Sea_Turtle.personal|Leatherback_Sea_Turtle.personal]] 
 
-### #is_/same_as :: [Leatherback_Sea_Turtle.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Sauropsida/Reptile/Diapsida/Archosauromorpha/Turtle/Sea_Turtle/Dermochelys/Leatherback_Sea_Turtle.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Sauropsida/Reptile/Diapsida/Archosauromorpha/Turtle/Sea_Turtle/Dermochelys/Leatherback_Sea_Turtle.secret|Leatherback_Sea_Turtle.secret]] 
 

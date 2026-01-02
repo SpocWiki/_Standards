@@ -73,17 +73,17 @@ Gujarati_Vishwakosh_entry: આવૃત્તિ
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Frequency](/_Standards/Dimension/Frequency.md) 
+### #is_/same_as :: [[/_Standards/Dimension/Frequency|Frequency]] 
 
-### #is_/same_as :: [Frequency.public](/_public/Dimension/Frequency.public.md) 
+### #is_/same_as :: [[/_public/Dimension/Frequency.public|Frequency.public]] 
 
-### #is_/same_as :: [Frequency.internal](/_internal/Dimension/Frequency.internal.md) 
+### #is_/same_as :: [[/_internal/Dimension/Frequency.internal|Frequency.internal]] 
 
-### #is_/same_as :: [Frequency.protect](/_protect/Dimension/Frequency.protect.md) 
+### #is_/same_as :: [[/_protect/Dimension/Frequency.protect|Frequency.protect]] 
 
-### #is_/same_as :: [Frequency.private](/_private/Dimension/Frequency.private.md) 
+### #is_/same_as :: [[/_private/Dimension/Frequency.private|Frequency.private]] 
 
-### #is_/same_as :: [Frequency.personal](/_personal/Dimension/Frequency.personal.md) 
+### #is_/same_as :: [[/_personal/Dimension/Frequency.personal|Frequency.personal]] 
 
-### #is_/same_as :: [Frequency.secret](/_secret/Dimension/Frequency.secret.md)
+### #is_/same_as :: [[/_secret/Dimension/Frequency.secret|Frequency.secret]] 
 

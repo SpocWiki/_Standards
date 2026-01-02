@@ -23,17 +23,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Doxxing](/_Standards/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Doxxing.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Doxxing|Doxxing]] 
 
-### #is_/same_as :: [Doxxing.public](/_public/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Doxxing.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Doxxing.public|Doxxing.public]] 
 
-### #is_/same_as :: [Doxxing.internal](/_internal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Doxxing.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Doxxing.internal|Doxxing.internal]] 
 
-### #is_/same_as :: [Doxxing.protect](/_protect/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Doxxing.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Doxxing.protect|Doxxing.protect]] 
 
-### #is_/same_as :: [Doxxing.private](/_private/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Doxxing.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Doxxing.private|Doxxing.private]] 
 
-### #is_/same_as :: [Doxxing.personal](/_personal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Doxxing.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Doxxing.personal|Doxxing.personal]] 
 
-### #is_/same_as :: [Doxxing.secret](/_secret/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Doxxing.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Doxxing.secret|Doxxing.secret]] 
 

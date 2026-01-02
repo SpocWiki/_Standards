@@ -139,17 +139,17 @@ i.e. the dynamic selection of a Method based on 2 or more Parameters.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Polymorphism](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Polymorphism.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Polymorphism|Polymorphism]] 
 
-### #is_/same_as :: [Polymorphism.public](/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Polymorphism.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Polymorphism.public|Polymorphism.public]] 
 
-### #is_/same_as :: [Polymorphism.internal](/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Polymorphism.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Polymorphism.internal|Polymorphism.internal]] 
 
-### #is_/same_as :: [Polymorphism.protect](/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Polymorphism.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Polymorphism.protect|Polymorphism.protect]] 
 
-### #is_/same_as :: [Polymorphism.private](/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Polymorphism.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Polymorphism.private|Polymorphism.private]] 
 
-### #is_/same_as :: [Polymorphism.personal](/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Polymorphism.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Polymorphism.personal|Polymorphism.personal]] 
 
-### #is_/same_as :: [Polymorphism.secret](/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Polymorphism.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Polymorphism.secret|Polymorphism.secret]] 
 

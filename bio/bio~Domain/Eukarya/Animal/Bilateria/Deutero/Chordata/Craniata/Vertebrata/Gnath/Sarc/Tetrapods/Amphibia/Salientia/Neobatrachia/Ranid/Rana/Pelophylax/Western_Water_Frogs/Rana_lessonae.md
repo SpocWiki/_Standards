@@ -143,7 +143,7 @@ European Socieity for Evolutionary Biology, Edinburgh 4-8 September
 
 ## Title Illustrations
 
-![](Rana_lessonae/lessonae.jpg))
+![](Rana_lessonae/lessonae.jpg) 
 
   ----------
   Scientific Name ::  Rana lessonae
@@ -154,17 +154,17 @@ European Socieity for Evolutionary Biology, Edinburgh 4-8 September
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Rana_lessonae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Neobatrachia/Ranid/Rana/Pelophylax/Western_Water_Frogs/Rana_lessonae.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Neobatrachia/Ranid/Rana/Pelophylax/Western_Water_Frogs/Rana_lessonae|Rana_lessonae]] 
 
-### #is_/same_as :: [Rana_lessonae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Neobatrachia/Ranid/Rana/Pelophylax/Western_Water_Frogs/Rana_lessonae.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Neobatrachia/Ranid/Rana/Pelophylax/Western_Water_Frogs/Rana_lessonae.public|Rana_lessonae.public]] 
 
-### #is_/same_as :: [Rana_lessonae.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Neobatrachia/Ranid/Rana/Pelophylax/Western_Water_Frogs/Rana_lessonae.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Neobatrachia/Ranid/Rana/Pelophylax/Western_Water_Frogs/Rana_lessonae.internal|Rana_lessonae.internal]] 
 
-### #is_/same_as :: [Rana_lessonae.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Neobatrachia/Ranid/Rana/Pelophylax/Western_Water_Frogs/Rana_lessonae.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Neobatrachia/Ranid/Rana/Pelophylax/Western_Water_Frogs/Rana_lessonae.protect|Rana_lessonae.protect]] 
 
-### #is_/same_as :: [Rana_lessonae.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Neobatrachia/Ranid/Rana/Pelophylax/Western_Water_Frogs/Rana_lessonae.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Neobatrachia/Ranid/Rana/Pelophylax/Western_Water_Frogs/Rana_lessonae.private|Rana_lessonae.private]] 
 
-### #is_/same_as :: [Rana_lessonae.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Neobatrachia/Ranid/Rana/Pelophylax/Western_Water_Frogs/Rana_lessonae.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Neobatrachia/Ranid/Rana/Pelophylax/Western_Water_Frogs/Rana_lessonae.personal|Rana_lessonae.personal]] 
 
-### #is_/same_as :: [Rana_lessonae.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Neobatrachia/Ranid/Rana/Pelophylax/Western_Water_Frogs/Rana_lessonae.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Neobatrachia/Ranid/Rana/Pelophylax/Western_Water_Frogs/Rana_lessonae.secret|Rana_lessonae.secret]] 
 

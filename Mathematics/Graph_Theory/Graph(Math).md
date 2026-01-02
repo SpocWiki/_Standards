@@ -81,17 +81,17 @@ Commons_category: Graph (discrete mathematics)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Graph(Math)](/_Standards/Mathematics/Graph_Theory/Graph(Math).md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Graph_Theory/Graph(Math)|Graph(Math)]] 
 
-### #is_/same_as :: [Graph(Math).public](/_public/Mathematics/Graph_Theory/Graph(Math).public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Graph_Theory/Graph(Math).public|Graph(Math).public]] 
 
-### #is_/same_as :: [Graph(Math).internal](/_internal/Mathematics/Graph_Theory/Graph(Math).internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Graph_Theory/Graph(Math).internal|Graph(Math).internal]] 
 
-### #is_/same_as :: [Graph(Math).protect](/_protect/Mathematics/Graph_Theory/Graph(Math).protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Graph_Theory/Graph(Math).protect|Graph(Math).protect]] 
 
-### #is_/same_as :: [Graph(Math).private](/_private/Mathematics/Graph_Theory/Graph(Math).private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Graph_Theory/Graph(Math).private|Graph(Math).private]] 
 
-### #is_/same_as :: [Graph(Math).personal](/_personal/Mathematics/Graph_Theory/Graph(Math).personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Graph_Theory/Graph(Math).personal|Graph(Math).personal]] 
 
-### #is_/same_as :: [Graph(Math).secret](/_secret/Mathematics/Graph_Theory/Graph(Math).secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Graph_Theory/Graph(Math).secret|Graph(Math).secret]] 
 

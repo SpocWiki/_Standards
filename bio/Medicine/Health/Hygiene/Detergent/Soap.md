@@ -68,3 +68,22 @@ Unicode_character: 🧼
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Soap) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/bio/Medicine/Health/Hygiene/Detergent/Soap|Soap]] 
+
+### #is_/same_as :: [[/_public/bio/Medicine/Health/Hygiene/Detergent/Soap.public|Soap.public]] 
+
+### #is_/same_as :: [[/_internal/bio/Medicine/Health/Hygiene/Detergent/Soap.internal|Soap.internal]] 
+
+### #is_/same_as :: [[/_protect/bio/Medicine/Health/Hygiene/Detergent/Soap.protect|Soap.protect]] 
+
+### #is_/same_as :: [[/_private/bio/Medicine/Health/Hygiene/Detergent/Soap.private|Soap.private]] 
+
+### #is_/same_as :: [[/_personal/bio/Medicine/Health/Hygiene/Detergent/Soap.personal|Soap.personal]] 
+
+### #is_/same_as :: [[/_secret/bio/Medicine/Health/Hygiene/Detergent/Soap.secret|Soap.secret]] 
+

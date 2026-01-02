@@ -56,17 +56,17 @@ U_S_National_Archives_Identifier: 10638880
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Criminology](/_Standards/Society/Law/Criminal_Law/Criminology.md) 
+### #is_/same_as :: [[/_Standards/Society/Law/Criminal_Law/Criminology|Criminology]] 
 
-### #is_/same_as :: [Criminology.public](/_public/Society/Law/Criminal_Law/Criminology.public.md) 
+### #is_/same_as :: [[/_public/Society/Law/Criminal_Law/Criminology.public|Criminology.public]] 
 
-### #is_/same_as :: [Criminology.internal](/_internal/Society/Law/Criminal_Law/Criminology.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Law/Criminal_Law/Criminology.internal|Criminology.internal]] 
 
-### #is_/same_as :: [Criminology.protect](/_protect/Society/Law/Criminal_Law/Criminology.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Law/Criminal_Law/Criminology.protect|Criminology.protect]] 
 
-### #is_/same_as :: [Criminology.private](/_private/Society/Law/Criminal_Law/Criminology.private.md) 
+### #is_/same_as :: [[/_private/Society/Law/Criminal_Law/Criminology.private|Criminology.private]] 
 
-### #is_/same_as :: [Criminology.personal](/_personal/Society/Law/Criminal_Law/Criminology.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Law/Criminal_Law/Criminology.personal|Criminology.personal]] 
 
-### #is_/same_as :: [Criminology.secret](/_secret/Society/Law/Criminal_Law/Criminology.secret.md)
+### #is_/same_as :: [[/_secret/Society/Law/Criminal_Law/Criminology.secret|Criminology.secret]] 
 

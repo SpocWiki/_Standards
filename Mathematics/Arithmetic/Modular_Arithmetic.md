@@ -51,17 +51,17 @@ Commons_category: Modular arithmetic
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Modular_Arithmetic](/_Standards/Mathematics/Arithmetic/Modular_Arithmetic.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Arithmetic/Modular_Arithmetic|Modular_Arithmetic]] 
 
-### #is_/same_as :: [Modular_Arithmetic.public](/_public/Mathematics/Arithmetic/Modular_Arithmetic.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Arithmetic/Modular_Arithmetic.public|Modular_Arithmetic.public]] 
 
-### #is_/same_as :: [Modular_Arithmetic.internal](/_internal/Mathematics/Arithmetic/Modular_Arithmetic.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Arithmetic/Modular_Arithmetic.internal|Modular_Arithmetic.internal]] 
 
-### #is_/same_as :: [Modular_Arithmetic.protect](/_protect/Mathematics/Arithmetic/Modular_Arithmetic.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Arithmetic/Modular_Arithmetic.protect|Modular_Arithmetic.protect]] 
 
-### #is_/same_as :: [Modular_Arithmetic.private](/_private/Mathematics/Arithmetic/Modular_Arithmetic.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Arithmetic/Modular_Arithmetic.private|Modular_Arithmetic.private]] 
 
-### #is_/same_as :: [Modular_Arithmetic.personal](/_personal/Mathematics/Arithmetic/Modular_Arithmetic.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Arithmetic/Modular_Arithmetic.personal|Modular_Arithmetic.personal]] 
 
-### #is_/same_as :: [Modular_Arithmetic.secret](/_secret/Mathematics/Arithmetic/Modular_Arithmetic.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Arithmetic/Modular_Arithmetic.secret|Modular_Arithmetic.secret]] 
 

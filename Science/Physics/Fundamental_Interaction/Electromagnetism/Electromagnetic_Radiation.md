@@ -63,17 +63,17 @@ video: http://commons.wikimedia.org/wiki/Special:FilePath/Circular.Polarization.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Electromagnetic_Radiation](/_Standards/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation|Electromagnetic_Radiation]] 
 
-### #is_/same_as :: [Electromagnetic_Radiation.public](/_public/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation.public|Electromagnetic_Radiation.public]] 
 
-### #is_/same_as :: [Electromagnetic_Radiation.internal](/_internal/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation.internal|Electromagnetic_Radiation.internal]] 
 
-### #is_/same_as :: [Electromagnetic_Radiation.protect](/_protect/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation.protect|Electromagnetic_Radiation.protect]] 
 
-### #is_/same_as :: [Electromagnetic_Radiation.private](/_private/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation.private|Electromagnetic_Radiation.private]] 
 
-### #is_/same_as :: [Electromagnetic_Radiation.personal](/_personal/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation.personal|Electromagnetic_Radiation.personal]] 
 
-### #is_/same_as :: [Electromagnetic_Radiation.secret](/_secret/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation.secret|Electromagnetic_Radiation.secret]] 
 

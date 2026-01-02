@@ -84,17 +84,17 @@ Baidu_Tieba_name: 英超
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Premier_League](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Association_Football/Premier_League.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Association_Football/Premier_League|Premier_League]] 
 
-### #is_/same_as :: [Premier_League.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Association_Football/Premier_League.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Association_Football/Premier_League.public|Premier_League.public]] 
 
-### #is_/same_as :: [Premier_League.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Association_Football/Premier_League.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Association_Football/Premier_League.internal|Premier_League.internal]] 
 
-### #is_/same_as :: [Premier_League.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Association_Football/Premier_League.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Association_Football/Premier_League.protect|Premier_League.protect]] 
 
-### #is_/same_as :: [Premier_League.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Association_Football/Premier_League.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Association_Football/Premier_League.private|Premier_League.private]] 
 
-### #is_/same_as :: [Premier_League.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Association_Football/Premier_League.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Association_Football/Premier_League.personal|Premier_League.personal]] 
 
-### #is_/same_as :: [Premier_League.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Association_Football/Premier_League.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Association_Football/Premier_League.secret|Premier_League.secret]] 
 

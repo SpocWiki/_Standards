@@ -118,17 +118,17 @@ work_period_start_: 1909-01-01T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Pound,Ezra](/_Standards/Society/Communication/Media/Writing/Book/Poetry/Poet/Pound,Ezra.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Poetry/Poet/Pound,Ezra|Pound,Ezra]] 
 
-### #is_/same_as :: [Pound,Ezra.public](/_public/Society/Communication/Media/Writing/Book/Poetry/Poet/Pound,Ezra.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Poetry/Poet/Pound,Ezra.public|Pound,Ezra.public]] 
 
-### #is_/same_as :: [Pound,Ezra.internal](/_internal/Society/Communication/Media/Writing/Book/Poetry/Poet/Pound,Ezra.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Poetry/Poet/Pound,Ezra.internal|Pound,Ezra.internal]] 
 
-### #is_/same_as :: [Pound,Ezra.protect](/_protect/Society/Communication/Media/Writing/Book/Poetry/Poet/Pound,Ezra.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Poetry/Poet/Pound,Ezra.protect|Pound,Ezra.protect]] 
 
-### #is_/same_as :: [Pound,Ezra.private](/_private/Society/Communication/Media/Writing/Book/Poetry/Poet/Pound,Ezra.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Poetry/Poet/Pound,Ezra.private|Pound,Ezra.private]] 
 
-### #is_/same_as :: [Pound,Ezra.personal](/_personal/Society/Communication/Media/Writing/Book/Poetry/Poet/Pound,Ezra.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Poetry/Poet/Pound,Ezra.personal|Pound,Ezra.personal]] 
 
-### #is_/same_as :: [Pound,Ezra.secret](/_secret/Society/Communication/Media/Writing/Book/Poetry/Poet/Pound,Ezra.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Poetry/Poet/Pound,Ezra.secret|Pound,Ezra.secret]] 
 

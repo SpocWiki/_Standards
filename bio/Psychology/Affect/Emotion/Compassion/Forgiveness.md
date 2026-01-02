@@ -69,17 +69,17 @@ MeSH_tree_code:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Forgiveness](/_Standards/bio/Psychology/Affect/Emotion/Compassion/Forgiveness.md) 
+### #is_/same_as :: [[/_Standards/bio/Psychology/Affect/Emotion/Compassion/Forgiveness|Forgiveness]] 
 
-### #is_/same_as :: [Forgiveness.public](/_public/bio/Psychology/Affect/Emotion/Compassion/Forgiveness.public.md) 
+### #is_/same_as :: [[/_public/bio/Psychology/Affect/Emotion/Compassion/Forgiveness.public|Forgiveness.public]] 
 
-### #is_/same_as :: [Forgiveness.internal](/_internal/bio/Psychology/Affect/Emotion/Compassion/Forgiveness.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Psychology/Affect/Emotion/Compassion/Forgiveness.internal|Forgiveness.internal]] 
 
-### #is_/same_as :: [Forgiveness.protect](/_protect/bio/Psychology/Affect/Emotion/Compassion/Forgiveness.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Psychology/Affect/Emotion/Compassion/Forgiveness.protect|Forgiveness.protect]] 
 
-### #is_/same_as :: [Forgiveness.private](/_private/bio/Psychology/Affect/Emotion/Compassion/Forgiveness.private.md) 
+### #is_/same_as :: [[/_private/bio/Psychology/Affect/Emotion/Compassion/Forgiveness.private|Forgiveness.private]] 
 
-### #is_/same_as :: [Forgiveness.personal](/_personal/bio/Psychology/Affect/Emotion/Compassion/Forgiveness.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Psychology/Affect/Emotion/Compassion/Forgiveness.personal|Forgiveness.personal]] 
 
-### #is_/same_as :: [Forgiveness.secret](/_secret/bio/Psychology/Affect/Emotion/Compassion/Forgiveness.secret.md)
+### #is_/same_as :: [[/_secret/bio/Psychology/Affect/Emotion/Compassion/Forgiveness.secret|Forgiveness.secret]] 
 

@@ -46,17 +46,17 @@ Commons_category: Road transport
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Road_Transport](/_Standards/Technology/Transport/Road_Transport.md) 
+### #is_/same_as :: [[/_Standards/Technology/Transport/Road_Transport|Road_Transport]] 
 
-### #is_/same_as :: [Road_Transport.public](/_public/Technology/Transport/Road_Transport.public.md) 
+### #is_/same_as :: [[/_public/Technology/Transport/Road_Transport.public|Road_Transport.public]] 
 
-### #is_/same_as :: [Road_Transport.internal](/_internal/Technology/Transport/Road_Transport.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Transport/Road_Transport.internal|Road_Transport.internal]] 
 
-### #is_/same_as :: [Road_Transport.protect](/_protect/Technology/Transport/Road_Transport.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Transport/Road_Transport.protect|Road_Transport.protect]] 
 
-### #is_/same_as :: [Road_Transport.private](/_private/Technology/Transport/Road_Transport.private.md) 
+### #is_/same_as :: [[/_private/Technology/Transport/Road_Transport.private|Road_Transport.private]] 
 
-### #is_/same_as :: [Road_Transport.personal](/_personal/Technology/Transport/Road_Transport.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Transport/Road_Transport.personal|Road_Transport.personal]] 
 
-### #is_/same_as :: [Road_Transport.secret](/_secret/Technology/Transport/Road_Transport.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Transport/Road_Transport.secret|Road_Transport.secret]] 
 

@@ -37,17 +37,17 @@ A tattoo parlor.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~TattooParlor](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HealthAndBeautyBusiness/FileClass~TattooParlor.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HealthAndBeautyBusiness/FileClass~TattooParlor|FileClass~TattooParlor]] 
 
-### #is_/same_as :: [FileClass~TattooParlor.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HealthAndBeautyBusiness/FileClass~TattooParlor.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HealthAndBeautyBusiness/FileClass~TattooParlor.public|FileClass~TattooParlor.public]] 
 
-### #is_/same_as :: [FileClass~TattooParlor.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HealthAndBeautyBusiness/FileClass~TattooParlor.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HealthAndBeautyBusiness/FileClass~TattooParlor.internal|FileClass~TattooParlor.internal]] 
 
-### #is_/same_as :: [FileClass~TattooParlor.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HealthAndBeautyBusiness/FileClass~TattooParlor.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HealthAndBeautyBusiness/FileClass~TattooParlor.protect|FileClass~TattooParlor.protect]] 
 
-### #is_/same_as :: [FileClass~TattooParlor.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HealthAndBeautyBusiness/FileClass~TattooParlor.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HealthAndBeautyBusiness/FileClass~TattooParlor.private|FileClass~TattooParlor.private]] 
 
-### #is_/same_as :: [FileClass~TattooParlor.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HealthAndBeautyBusiness/FileClass~TattooParlor.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HealthAndBeautyBusiness/FileClass~TattooParlor.personal|FileClass~TattooParlor.personal]] 
 
-### #is_/same_as :: [FileClass~TattooParlor.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HealthAndBeautyBusiness/FileClass~TattooParlor.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HealthAndBeautyBusiness/FileClass~TattooParlor.secret|FileClass~TattooParlor.secret]] 
 

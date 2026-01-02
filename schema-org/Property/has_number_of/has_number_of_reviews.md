@@ -43,17 +43,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_number_of_reviews](/_Standards/schema-org/Property/has_number_of/has_number_of_reviews.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_number_of/has_number_of_reviews|has_number_of_reviews]] 
 
-### #is_/same_as :: [has_number_of_reviews.public](/_public/schema-org/Property/has_number_of/has_number_of_reviews.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/has_number_of/has_number_of_reviews.public|has_number_of_reviews.public]] 
 
-### #is_/same_as :: [has_number_of_reviews.internal](/_internal/schema-org/Property/has_number_of/has_number_of_reviews.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_number_of/has_number_of_reviews.internal|has_number_of_reviews.internal]] 
 
-### #is_/same_as :: [has_number_of_reviews.protect](/_protect/schema-org/Property/has_number_of/has_number_of_reviews.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_number_of/has_number_of_reviews.protect|has_number_of_reviews.protect]] 
 
-### #is_/same_as :: [has_number_of_reviews.private](/_private/schema-org/Property/has_number_of/has_number_of_reviews.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/has_number_of/has_number_of_reviews.private|has_number_of_reviews.private]] 
 
-### #is_/same_as :: [has_number_of_reviews.personal](/_personal/schema-org/Property/has_number_of/has_number_of_reviews.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_number_of/has_number_of_reviews.personal|has_number_of_reviews.personal]] 
 
-### #is_/same_as :: [has_number_of_reviews.secret](/_secret/schema-org/Property/has_number_of/has_number_of_reviews.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/has_number_of/has_number_of_reviews.secret|has_number_of_reviews.secret]] 
 

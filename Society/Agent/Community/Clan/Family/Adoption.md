@@ -53,17 +53,17 @@ IPTC_NewsCode: mediatopic/20000781
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Adoption](/_Standards/Society/Agent/Community/Clan/Family/Adoption.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Clan/Family/Adoption|Adoption]] 
 
-### #is_/same_as :: [Adoption.public](/_public/Society/Agent/Community/Clan/Family/Adoption.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Clan/Family/Adoption.public|Adoption.public]] 
 
-### #is_/same_as :: [Adoption.internal](/_internal/Society/Agent/Community/Clan/Family/Adoption.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Clan/Family/Adoption.internal|Adoption.internal]] 
 
-### #is_/same_as :: [Adoption.protect](/_protect/Society/Agent/Community/Clan/Family/Adoption.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Clan/Family/Adoption.protect|Adoption.protect]] 
 
-### #is_/same_as :: [Adoption.private](/_private/Society/Agent/Community/Clan/Family/Adoption.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Clan/Family/Adoption.private|Adoption.private]] 
 
-### #is_/same_as :: [Adoption.personal](/_personal/Society/Agent/Community/Clan/Family/Adoption.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Clan/Family/Adoption.personal|Adoption.personal]] 
 
-### #is_/same_as :: [Adoption.secret](/_secret/Society/Agent/Community/Clan/Family/Adoption.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Clan/Family/Adoption.secret|Adoption.secret]] 
 

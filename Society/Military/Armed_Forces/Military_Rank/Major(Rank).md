@@ -52,17 +52,17 @@ female_form_of_label: majorė
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Major(Rank)](/_Standards/Society/Military/Armed_Forces/Military_Rank/Major(Rank).md) 
+### #is_/same_as :: [[/_Standards/Society/Military/Armed_Forces/Military_Rank/Major(Rank)|Major(Rank)]] 
 
-### #is_/same_as :: [Major(Rank).public](/_public/Society/Military/Armed_Forces/Military_Rank/Major(Rank).public.md) 
+### #is_/same_as :: [[/_public/Society/Military/Armed_Forces/Military_Rank/Major(Rank).public|Major(Rank).public]] 
 
-### #is_/same_as :: [Major(Rank).internal](/_internal/Society/Military/Armed_Forces/Military_Rank/Major(Rank).internal.md) 
+### #is_/same_as :: [[/_internal/Society/Military/Armed_Forces/Military_Rank/Major(Rank).internal|Major(Rank).internal]] 
 
-### #is_/same_as :: [Major(Rank).protect](/_protect/Society/Military/Armed_Forces/Military_Rank/Major(Rank).protect.md) 
+### #is_/same_as :: [[/_protect/Society/Military/Armed_Forces/Military_Rank/Major(Rank).protect|Major(Rank).protect]] 
 
-### #is_/same_as :: [Major(Rank).private](/_private/Society/Military/Armed_Forces/Military_Rank/Major(Rank).private.md) 
+### #is_/same_as :: [[/_private/Society/Military/Armed_Forces/Military_Rank/Major(Rank).private|Major(Rank).private]] 
 
-### #is_/same_as :: [Major(Rank).personal](/_personal/Society/Military/Armed_Forces/Military_Rank/Major(Rank).personal.md) 
+### #is_/same_as :: [[/_personal/Society/Military/Armed_Forces/Military_Rank/Major(Rank).personal|Major(Rank).personal]] 
 
-### #is_/same_as :: [Major(Rank).secret](/_secret/Society/Military/Armed_Forces/Military_Rank/Major(Rank).secret.md)
+### #is_/same_as :: [[/_secret/Society/Military/Armed_Forces/Military_Rank/Major(Rank).secret|Major(Rank).secret]] 
 

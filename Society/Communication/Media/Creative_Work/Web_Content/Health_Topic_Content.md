@@ -43,17 +43,17 @@ Tag Instances like this:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Health_Topic_Content](/_Standards/Society/Communication/Media/Creative_Work/Web_Content/Health_Topic_Content.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Creative_Work/Web_Content/Health_Topic_Content|Health_Topic_Content]] 
 
-### #is_/same_as :: [Health_Topic_Content.public](/_public/Society/Communication/Media/Creative_Work/Web_Content/Health_Topic_Content.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Creative_Work/Web_Content/Health_Topic_Content.public|Health_Topic_Content.public]] 
 
-### #is_/same_as :: [Health_Topic_Content.internal](/_internal/Society/Communication/Media/Creative_Work/Web_Content/Health_Topic_Content.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Creative_Work/Web_Content/Health_Topic_Content.internal|Health_Topic_Content.internal]] 
 
-### #is_/same_as :: [Health_Topic_Content.protect](/_protect/Society/Communication/Media/Creative_Work/Web_Content/Health_Topic_Content.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Creative_Work/Web_Content/Health_Topic_Content.protect|Health_Topic_Content.protect]] 
 
-### #is_/same_as :: [Health_Topic_Content.private](/_private/Society/Communication/Media/Creative_Work/Web_Content/Health_Topic_Content.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Creative_Work/Web_Content/Health_Topic_Content.private|Health_Topic_Content.private]] 
 
-### #is_/same_as :: [Health_Topic_Content.personal](/_personal/Society/Communication/Media/Creative_Work/Web_Content/Health_Topic_Content.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/Web_Content/Health_Topic_Content.personal|Health_Topic_Content.personal]] 
 
-### #is_/same_as :: [Health_Topic_Content.secret](/_secret/Society/Communication/Media/Creative_Work/Web_Content/Health_Topic_Content.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Web_Content/Health_Topic_Content.secret|Health_Topic_Content.secret]] 
 

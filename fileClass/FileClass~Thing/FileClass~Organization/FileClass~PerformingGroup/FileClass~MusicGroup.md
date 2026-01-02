@@ -77,17 +77,17 @@ Track:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/I
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~MusicGroup](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~PerformingGroup/FileClass~MusicGroup.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~PerformingGroup/FileClass~MusicGroup|FileClass~MusicGroup]] 
 
-### #is_/same_as :: [FileClass~MusicGroup.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~PerformingGroup/FileClass~MusicGroup.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~PerformingGroup/FileClass~MusicGroup.public|FileClass~MusicGroup.public]] 
 
-### #is_/same_as :: [FileClass~MusicGroup.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~PerformingGroup/FileClass~MusicGroup.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~PerformingGroup/FileClass~MusicGroup.internal|FileClass~MusicGroup.internal]] 
 
-### #is_/same_as :: [FileClass~MusicGroup.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~PerformingGroup/FileClass~MusicGroup.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~PerformingGroup/FileClass~MusicGroup.protect|FileClass~MusicGroup.protect]] 
 
-### #is_/same_as :: [FileClass~MusicGroup.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~PerformingGroup/FileClass~MusicGroup.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~PerformingGroup/FileClass~MusicGroup.private|FileClass~MusicGroup.private]] 
 
-### #is_/same_as :: [FileClass~MusicGroup.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~PerformingGroup/FileClass~MusicGroup.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~PerformingGroup/FileClass~MusicGroup.personal|FileClass~MusicGroup.personal]] 
 
-### #is_/same_as :: [FileClass~MusicGroup.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~PerformingGroup/FileClass~MusicGroup.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~PerformingGroup/FileClass~MusicGroup.secret|FileClass~MusicGroup.secret]] 
 

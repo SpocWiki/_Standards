@@ -67,17 +67,17 @@ name_in_native_language: Joseph Marie Jacquard
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Jacquard,Joseph_Marie](/_Standards/Technology/IT/Computer_Hardware/Jacquard,Joseph_Marie.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Computer_Hardware/Jacquard,Joseph_Marie|Jacquard,Joseph_Marie]] 
 
-### #is_/same_as :: [Jacquard,Joseph_Marie.public](/_public/Technology/IT/Computer_Hardware/Jacquard,Joseph_Marie.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Computer_Hardware/Jacquard,Joseph_Marie.public|Jacquard,Joseph_Marie.public]] 
 
-### #is_/same_as :: [Jacquard,Joseph_Marie.internal](/_internal/Technology/IT/Computer_Hardware/Jacquard,Joseph_Marie.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Computer_Hardware/Jacquard,Joseph_Marie.internal|Jacquard,Joseph_Marie.internal]] 
 
-### #is_/same_as :: [Jacquard,Joseph_Marie.protect](/_protect/Technology/IT/Computer_Hardware/Jacquard,Joseph_Marie.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Computer_Hardware/Jacquard,Joseph_Marie.protect|Jacquard,Joseph_Marie.protect]] 
 
-### #is_/same_as :: [Jacquard,Joseph_Marie.private](/_private/Technology/IT/Computer_Hardware/Jacquard,Joseph_Marie.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Computer_Hardware/Jacquard,Joseph_Marie.private|Jacquard,Joseph_Marie.private]] 
 
-### #is_/same_as :: [Jacquard,Joseph_Marie.personal](/_personal/Technology/IT/Computer_Hardware/Jacquard,Joseph_Marie.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Computer_Hardware/Jacquard,Joseph_Marie.personal|Jacquard,Joseph_Marie.personal]] 
 
-### #is_/same_as :: [Jacquard,Joseph_Marie.secret](/_secret/Technology/IT/Computer_Hardware/Jacquard,Joseph_Marie.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Computer_Hardware/Jacquard,Joseph_Marie.secret|Jacquard,Joseph_Marie.secret]] 
 

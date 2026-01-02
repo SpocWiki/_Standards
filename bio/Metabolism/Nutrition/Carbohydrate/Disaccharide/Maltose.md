@@ -24,17 +24,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Maltose](/_Standards/bio/Metabolism/Nutrition/Carbohydrate/Disaccharide/Maltose.md) 
+### #is_/same_as :: [[/_Standards/bio/Metabolism/Nutrition/Carbohydrate/Disaccharide/Maltose|Maltose]] 
 
-### #is_/same_as :: [Maltose.public](/_public/bio/Metabolism/Nutrition/Carbohydrate/Disaccharide/Maltose.public.md) 
+### #is_/same_as :: [[/_public/bio/Metabolism/Nutrition/Carbohydrate/Disaccharide/Maltose.public|Maltose.public]] 
 
-### #is_/same_as :: [Maltose.internal](/_internal/bio/Metabolism/Nutrition/Carbohydrate/Disaccharide/Maltose.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Metabolism/Nutrition/Carbohydrate/Disaccharide/Maltose.internal|Maltose.internal]] 
 
-### #is_/same_as :: [Maltose.protect](/_protect/bio/Metabolism/Nutrition/Carbohydrate/Disaccharide/Maltose.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Metabolism/Nutrition/Carbohydrate/Disaccharide/Maltose.protect|Maltose.protect]] 
 
-### #is_/same_as :: [Maltose.private](/_private/bio/Metabolism/Nutrition/Carbohydrate/Disaccharide/Maltose.private.md) 
+### #is_/same_as :: [[/_private/bio/Metabolism/Nutrition/Carbohydrate/Disaccharide/Maltose.private|Maltose.private]] 
 
-### #is_/same_as :: [Maltose.personal](/_personal/bio/Metabolism/Nutrition/Carbohydrate/Disaccharide/Maltose.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Metabolism/Nutrition/Carbohydrate/Disaccharide/Maltose.personal|Maltose.personal]] 
 
-### #is_/same_as :: [Maltose.secret](/_secret/bio/Metabolism/Nutrition/Carbohydrate/Disaccharide/Maltose.secret.md)
+### #is_/same_as :: [[/_secret/bio/Metabolism/Nutrition/Carbohydrate/Disaccharide/Maltose.secret|Maltose.secret]] 
 

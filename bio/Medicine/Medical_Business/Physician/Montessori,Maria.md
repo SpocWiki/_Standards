@@ -93,17 +93,17 @@ Google_Doodle: maria-montessoris-142nd-birthday
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Montessori,Maria](/_Standards/bio/Medicine/Medical_Business/Physician/Montessori,Maria.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Business/Physician/Montessori,Maria|Montessori,Maria]] 
 
-### #is_/same_as :: [Montessori,Maria.public](/_public/bio/Medicine/Medical_Business/Physician/Montessori,Maria.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Business/Physician/Montessori,Maria.public|Montessori,Maria.public]] 
 
-### #is_/same_as :: [Montessori,Maria.internal](/_internal/bio/Medicine/Medical_Business/Physician/Montessori,Maria.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Business/Physician/Montessori,Maria.internal|Montessori,Maria.internal]] 
 
-### #is_/same_as :: [Montessori,Maria.protect](/_protect/bio/Medicine/Medical_Business/Physician/Montessori,Maria.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Business/Physician/Montessori,Maria.protect|Montessori,Maria.protect]] 
 
-### #is_/same_as :: [Montessori,Maria.private](/_private/bio/Medicine/Medical_Business/Physician/Montessori,Maria.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Business/Physician/Montessori,Maria.private|Montessori,Maria.private]] 
 
-### #is_/same_as :: [Montessori,Maria.personal](/_personal/bio/Medicine/Medical_Business/Physician/Montessori,Maria.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Business/Physician/Montessori,Maria.personal|Montessori,Maria.personal]] 
 
-### #is_/same_as :: [Montessori,Maria.secret](/_secret/bio/Medicine/Medical_Business/Physician/Montessori,Maria.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Business/Physician/Montessori,Maria.secret|Montessori,Maria.secret]] 
 

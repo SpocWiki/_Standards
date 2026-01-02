@@ -38,17 +38,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_status](/_Standards/schema-org/Relation/has/has_status.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_status|has_status]] 
 
-### #is_/same_as :: [has_status.public](/_public/schema-org/Relation/has/has_status.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_status.public|has_status.public]] 
 
-### #is_/same_as :: [has_status.internal](/_internal/schema-org/Relation/has/has_status.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_status.internal|has_status.internal]] 
 
-### #is_/same_as :: [has_status.protect](/_protect/schema-org/Relation/has/has_status.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_status.protect|has_status.protect]] 
 
-### #is_/same_as :: [has_status.private](/_private/schema-org/Relation/has/has_status.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_status.private|has_status.private]] 
 
-### #is_/same_as :: [has_status.personal](/_personal/schema-org/Relation/has/has_status.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_status.personal|has_status.personal]] 
 
-### #is_/same_as :: [has_status.secret](/_secret/schema-org/Relation/has/has_status.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_status.secret|has_status.secret]] 
 

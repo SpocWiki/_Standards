@@ -42,17 +42,17 @@ Game server status: OnlineFull. Server is online but unavailable. The maximum nu
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Online_Full](/_Standards/schema-org/Enumeration/Status_Enumeration/Game_Server_Status/Online_Full.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Status_Enumeration/Game_Server_Status/Online_Full|Online_Full]] 
 
-### #is_/same_as :: [Online_Full.public](/_public/schema-org/Enumeration/Status_Enumeration/Game_Server_Status/Online_Full.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Status_Enumeration/Game_Server_Status/Online_Full.public|Online_Full.public]] 
 
-### #is_/same_as :: [Online_Full.internal](/_internal/schema-org/Enumeration/Status_Enumeration/Game_Server_Status/Online_Full.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Status_Enumeration/Game_Server_Status/Online_Full.internal|Online_Full.internal]] 
 
-### #is_/same_as :: [Online_Full.protect](/_protect/schema-org/Enumeration/Status_Enumeration/Game_Server_Status/Online_Full.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Status_Enumeration/Game_Server_Status/Online_Full.protect|Online_Full.protect]] 
 
-### #is_/same_as :: [Online_Full.private](/_private/schema-org/Enumeration/Status_Enumeration/Game_Server_Status/Online_Full.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Status_Enumeration/Game_Server_Status/Online_Full.private|Online_Full.private]] 
 
-### #is_/same_as :: [Online_Full.personal](/_personal/schema-org/Enumeration/Status_Enumeration/Game_Server_Status/Online_Full.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Status_Enumeration/Game_Server_Status/Online_Full.personal|Online_Full.personal]] 
 
-### #is_/same_as :: [Online_Full.secret](/_secret/schema-org/Enumeration/Status_Enumeration/Game_Server_Status/Online_Full.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Status_Enumeration/Game_Server_Status/Online_Full.secret|Online_Full.secret]] 
 

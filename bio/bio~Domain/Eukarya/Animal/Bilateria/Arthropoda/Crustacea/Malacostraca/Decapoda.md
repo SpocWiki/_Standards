@@ -82,7 +82,7 @@ topic_s_main_template: '[[_Standards/WikiData/WD~Template_Decapoda,112034186]]'
 ## Title Illustrations
 
 ------------------------------------------------------------------------------ 
-![Bay ghost shrimp ](Decapoda/Callianassa_californiensis.jpg))
+![Bay ghost shrimp ](Decapoda/Callianassa_californiensis.jpg) 
 Scientific Name ::    Neotrypaea californiensis
 Comments            Bay ghost shrimp (Anomura)
 Creator             Gerald and Buff Corsi
@@ -90,14 +90,14 @@ Source Collection   [CalPhotos](http://calphotos.berkeley.edu/)
 Copyright ::           © 1999 [California Academy of Sciences](http://www.calacademy.org/) 
 
 ------------------- 
-![Caribbean spiny lobster](Decapoda/Panulirus_argus1075.jpg))
+![Caribbean spiny lobster](Decapoda/Panulirus_argus1075.jpg) 
 Scientific Name ::    Panulirus argus
 Comments            Caribbean spiny lobster (Palinura)
 Source Collection   [CalPhotos](http://calphotos.berkeley.edu/)
 Copyright ::           © 2002 [John White](mailto:reptiles@erols.com)
 
 ------------------------------------------------------------------------------ 
-![Purple shore crab](Decapoda/Hemigrapsus_nudus0008.jpg))
+![Purple shore crab](Decapoda/Hemigrapsus_nudus0008.jpg) 
 Scientific Name ::    Hemigrapsus nudus
 Comments            Purple shore crab (Brachyura)
 Creator             Gerald and Buff Corsi
@@ -107,17 +107,17 @@ Copyright ::           © 1999 [California Academy of Sciences](http://www.calac
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Decapoda](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda|Decapoda]] 
 
-### #is_/same_as :: [Decapoda.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda.public|Decapoda.public]] 
 
-### #is_/same_as :: [Decapoda.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda.internal|Decapoda.internal]] 
 
-### #is_/same_as :: [Decapoda.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda.protect|Decapoda.protect]] 
 
-### #is_/same_as :: [Decapoda.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda.private|Decapoda.private]] 
 
-### #is_/same_as :: [Decapoda.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda.personal|Decapoda.personal]] 
 
-### #is_/same_as :: [Decapoda.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda.secret|Decapoda.secret]] 
 

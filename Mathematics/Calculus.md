@@ -66,17 +66,17 @@ Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_calculus,7112574]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Calculus](/_Standards/Mathematics/Calculus.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Calculus|Calculus]] 
 
-### #is_/same_as :: [Calculus.public](/_public/Mathematics/Calculus.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Calculus.public|Calculus.public]] 
 
-### #is_/same_as :: [Calculus.internal](/_internal/Mathematics/Calculus.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Calculus.internal|Calculus.internal]] 
 
-### #is_/same_as :: [Calculus.protect](/_protect/Mathematics/Calculus.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Calculus.protect|Calculus.protect]] 
 
-### #is_/same_as :: [Calculus.private](/_private/Mathematics/Calculus.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Calculus.private|Calculus.private]] 
 
-### #is_/same_as :: [Calculus.personal](/_personal/Mathematics/Calculus.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Calculus.personal|Calculus.personal]] 
 
-### #is_/same_as :: [Calculus.secret](/_secret/Mathematics/Calculus.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Calculus.secret|Calculus.secret]] 
 

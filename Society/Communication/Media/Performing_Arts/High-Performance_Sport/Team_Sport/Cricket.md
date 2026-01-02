@@ -71,17 +71,17 @@ inception: 1909-01-01T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Cricket](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Cricket.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Cricket|Cricket]] 
 
-### #is_/same_as :: [Cricket.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Cricket.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Cricket.public|Cricket.public]] 
 
-### #is_/same_as :: [Cricket.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Cricket.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Cricket.internal|Cricket.internal]] 
 
-### #is_/same_as :: [Cricket.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Cricket.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Cricket.protect|Cricket.protect]] 
 
-### #is_/same_as :: [Cricket.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Cricket.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Cricket.private|Cricket.private]] 
 
-### #is_/same_as :: [Cricket.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Cricket.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Cricket.personal|Cricket.personal]] 
 
-### #is_/same_as :: [Cricket.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Cricket.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Cricket.secret|Cricket.secret]] 
 

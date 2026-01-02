@@ -43,17 +43,17 @@ The act of transferring/moving (abstract or concrete) animate or inanimate objec
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Transfer_Action](/_Standards/schema-org/Class/is_a_/Action/Transfer_Action.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Action/Transfer_Action|Transfer_Action]] 
 
-### #is_/same_as :: [Transfer_Action.public](/_public/schema-org/Class/is_a_/Action/Transfer_Action.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Action/Transfer_Action.public|Transfer_Action.public]] 
 
-### #is_/same_as :: [Transfer_Action.internal](/_internal/schema-org/Class/is_a_/Action/Transfer_Action.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Action/Transfer_Action.internal|Transfer_Action.internal]] 
 
-### #is_/same_as :: [Transfer_Action.protect](/_protect/schema-org/Class/is_a_/Action/Transfer_Action.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Action/Transfer_Action.protect|Transfer_Action.protect]] 
 
-### #is_/same_as :: [Transfer_Action.private](/_private/schema-org/Class/is_a_/Action/Transfer_Action.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Action/Transfer_Action.private|Transfer_Action.private]] 
 
-### #is_/same_as :: [Transfer_Action.personal](/_personal/schema-org/Class/is_a_/Action/Transfer_Action.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Action/Transfer_Action.personal|Transfer_Action.personal]] 
 
-### #is_/same_as :: [Transfer_Action.secret](/_secret/schema-org/Class/is_a_/Action/Transfer_Action.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Action/Transfer_Action.secret|Transfer_Action.secret]] 
 

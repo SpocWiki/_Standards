@@ -118,17 +118,17 @@ Google_Doodle: celebrating-chess
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Chess](/_Standards/Society/Communication/Media/Creative_Work/Game/Chess.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Creative_Work/Game/Chess|Chess]] 
 
-### #is_/same_as :: [Chess.public](/_public/Society/Communication/Media/Creative_Work/Game/Chess.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Creative_Work/Game/Chess.public|Chess.public]] 
 
-### #is_/same_as :: [Chess.internal](/_internal/Society/Communication/Media/Creative_Work/Game/Chess.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Creative_Work/Game/Chess.internal|Chess.internal]] 
 
-### #is_/same_as :: [Chess.protect](/_protect/Society/Communication/Media/Creative_Work/Game/Chess.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Creative_Work/Game/Chess.protect|Chess.protect]] 
 
-### #is_/same_as :: [Chess.private](/_private/Society/Communication/Media/Creative_Work/Game/Chess.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Creative_Work/Game/Chess.private|Chess.private]] 
 
-### #is_/same_as :: [Chess.personal](/_personal/Society/Communication/Media/Creative_Work/Game/Chess.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/Game/Chess.personal|Chess.personal]] 
 
-### #is_/same_as :: [Chess.secret](/_secret/Society/Communication/Media/Creative_Work/Game/Chess.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Game/Chess.secret|Chess.secret]] 
 

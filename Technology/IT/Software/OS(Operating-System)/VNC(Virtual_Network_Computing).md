@@ -31,17 +31,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [VNC(Virtual_Network_Computing)](/_Standards/Technology/IT/Software/OS(Operating-System)/VNC(Virtual_Network_Computing).md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Software/OS(Operating-System)/VNC(Virtual_Network_Computing)|VNC(Virtual_Network_Computing)]] 
 
-### #is_/same_as :: [VNC(Virtual_Network_Computing).public](/_public/Technology/IT/Software/OS(Operating-System)/VNC(Virtual_Network_Computing).public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Software/OS(Operating-System)/VNC(Virtual_Network_Computing).public|VNC(Virtual_Network_Computing).public]] 
 
-### #is_/same_as :: [VNC(Virtual_Network_Computing).internal](/_internal/Technology/IT/Software/OS(Operating-System)/VNC(Virtual_Network_Computing).internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Software/OS(Operating-System)/VNC(Virtual_Network_Computing).internal|VNC(Virtual_Network_Computing).internal]] 
 
-### #is_/same_as :: [VNC(Virtual_Network_Computing).protect](/_protect/Technology/IT/Software/OS(Operating-System)/VNC(Virtual_Network_Computing).protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Software/OS(Operating-System)/VNC(Virtual_Network_Computing).protect|VNC(Virtual_Network_Computing).protect]] 
 
-### #is_/same_as :: [VNC(Virtual_Network_Computing).private](/_private/Technology/IT/Software/OS(Operating-System)/VNC(Virtual_Network_Computing).private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Software/OS(Operating-System)/VNC(Virtual_Network_Computing).private|VNC(Virtual_Network_Computing).private]] 
 
-### #is_/same_as :: [VNC(Virtual_Network_Computing).personal](/_personal/Technology/IT/Software/OS(Operating-System)/VNC(Virtual_Network_Computing).personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Software/OS(Operating-System)/VNC(Virtual_Network_Computing).personal|VNC(Virtual_Network_Computing).personal]] 
 
-### #is_/same_as :: [VNC(Virtual_Network_Computing).secret](/_secret/Technology/IT/Software/OS(Operating-System)/VNC(Virtual_Network_Computing).secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Software/OS(Operating-System)/VNC(Virtual_Network_Computing).secret|VNC(Virtual_Network_Computing).secret]] 
 

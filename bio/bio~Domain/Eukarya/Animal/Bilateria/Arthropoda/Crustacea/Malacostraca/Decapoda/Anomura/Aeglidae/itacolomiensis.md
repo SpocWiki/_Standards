@@ -6,7 +6,7 @@ title: Aegla itacolomiensis
 
 # *Aegla itacolomiensis* 
 
-![ ](itacolomiensis/itacolomiensis1.jpg))
+![ ](itacolomiensis/itacolomiensis1.jpg) 
 
 Containing group:[Aeglidae](../Aeglidae.md) 
 
@@ -29,7 +29,7 @@ Arroio Demetrio, Fazenda Fialho, Taquara, Rio Grando do Sul, Brazil.
 ### Distribution
 
 Eastern Rio Grande do Sul, Brazil.
-![ ](itacolomiensis/_itacolomiensis1.jpg))
+![ ](itacolomiensis/_itacolomiensis1.jpg) 
 
 © 1994 Georgina Bond-Buckup, Ludwig Buckup
 
@@ -114,7 +114,7 @@ Eastern Rio Grande do Sul, Brazil.
 
 
 ----------------- 
-![](itacolomiensis/itacolomiensis1.jpg))
+![](itacolomiensis/itacolomiensis1.jpg) 
 Scientific Name ::  Aegla itacolomiensis
 Creator           Ana Rossi
 Sex ::             Male
@@ -124,17 +124,17 @@ Copyright ::         © 1994 Georgina Bond-Buckup, Ludwig Buckup
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [itacolomiensis](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Anomura/Aeglidae/itacolomiensis.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Anomura/Aeglidae/itacolomiensis|itacolomiensis]] 
 
-### #is_/same_as :: [itacolomiensis.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Anomura/Aeglidae/itacolomiensis.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Anomura/Aeglidae/itacolomiensis.public|itacolomiensis.public]] 
 
-### #is_/same_as :: [itacolomiensis.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Anomura/Aeglidae/itacolomiensis.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Anomura/Aeglidae/itacolomiensis.internal|itacolomiensis.internal]] 
 
-### #is_/same_as :: [itacolomiensis.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Anomura/Aeglidae/itacolomiensis.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Anomura/Aeglidae/itacolomiensis.protect|itacolomiensis.protect]] 
 
-### #is_/same_as :: [itacolomiensis.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Anomura/Aeglidae/itacolomiensis.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Anomura/Aeglidae/itacolomiensis.private|itacolomiensis.private]] 
 
-### #is_/same_as :: [itacolomiensis.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Anomura/Aeglidae/itacolomiensis.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Anomura/Aeglidae/itacolomiensis.personal|itacolomiensis.personal]] 
 
-### #is_/same_as :: [itacolomiensis.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Anomura/Aeglidae/itacolomiensis.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Anomura/Aeglidae/itacolomiensis.secret|itacolomiensis.secret]] 
 

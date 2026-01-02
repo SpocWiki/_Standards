@@ -36,17 +36,17 @@ resource storageAccount 'Microsoft.Storage/storageAccounts@2022-09-01' = {
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [MS~Bicep](/_Standards/Society/Agent/Community/Organization/Company/Corporation/IT~Company/MS~Bicep.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Company/Corporation/IT~Company/MS~Bicep|MS~Bicep]] 
 
-### #is_/same_as :: [MS~Bicep.public](/_public/Society/Agent/Community/Organization/Company/Corporation/IT~Company/MS~Bicep.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Company/Corporation/IT~Company/MS~Bicep.public|MS~Bicep.public]] 
 
-### #is_/same_as :: [MS~Bicep.internal](/_internal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/MS~Bicep.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/MS~Bicep.internal|MS~Bicep.internal]] 
 
-### #is_/same_as :: [MS~Bicep.protect](/_protect/Society/Agent/Community/Organization/Company/Corporation/IT~Company/MS~Bicep.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Company/Corporation/IT~Company/MS~Bicep.protect|MS~Bicep.protect]] 
 
-### #is_/same_as :: [MS~Bicep.private](/_private/Society/Agent/Community/Organization/Company/Corporation/IT~Company/MS~Bicep.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Company/Corporation/IT~Company/MS~Bicep.private|MS~Bicep.private]] 
 
-### #is_/same_as :: [MS~Bicep.personal](/_personal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/MS~Bicep.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/MS~Bicep.personal|MS~Bicep.personal]] 
 
-### #is_/same_as :: [MS~Bicep.secret](/_secret/Society/Agent/Community/Organization/Company/Corporation/IT~Company/MS~Bicep.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Company/Corporation/IT~Company/MS~Bicep.secret|MS~Bicep.secret]] 
 

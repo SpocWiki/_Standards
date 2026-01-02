@@ -83,17 +83,17 @@ inception: 1923-03-03T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Time_Magazine](/_Standards/Society/Communication/Media/Journalism/Magazine/Time_Magazine.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Journalism/Magazine/Time_Magazine|Time_Magazine]] 
 
-### #is_/same_as :: [Time_Magazine.public](/_public/Society/Communication/Media/Journalism/Magazine/Time_Magazine.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Journalism/Magazine/Time_Magazine.public|Time_Magazine.public]] 
 
-### #is_/same_as :: [Time_Magazine.internal](/_internal/Society/Communication/Media/Journalism/Magazine/Time_Magazine.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Journalism/Magazine/Time_Magazine.internal|Time_Magazine.internal]] 
 
-### #is_/same_as :: [Time_Magazine.protect](/_protect/Society/Communication/Media/Journalism/Magazine/Time_Magazine.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Journalism/Magazine/Time_Magazine.protect|Time_Magazine.protect]] 
 
-### #is_/same_as :: [Time_Magazine.private](/_private/Society/Communication/Media/Journalism/Magazine/Time_Magazine.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Journalism/Magazine/Time_Magazine.private|Time_Magazine.private]] 
 
-### #is_/same_as :: [Time_Magazine.personal](/_personal/Society/Communication/Media/Journalism/Magazine/Time_Magazine.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Journalism/Magazine/Time_Magazine.personal|Time_Magazine.personal]] 
 
-### #is_/same_as :: [Time_Magazine.secret](/_secret/Society/Communication/Media/Journalism/Magazine/Time_Magazine.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Journalism/Magazine/Time_Magazine.secret|Time_Magazine.secret]] 
 

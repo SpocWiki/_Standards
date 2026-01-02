@@ -69,17 +69,17 @@ OpenStreetMap_tag:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Primary_School](/_Standards/Society/Culture/Education/Primary_School.md) 
+### #is_/same_as :: [[/_Standards/Society/Culture/Education/Primary_Education/Primary_School|Primary_School]] 
 
-### #is_/same_as :: [Primary_School.public](/_public/Society/Culture/Education/Primary_School.public.md) 
+### #is_/same_as :: [[/_public/Society/Culture/Education/Primary_Education/Primary_School.public|Primary_School.public]] 
 
-### #is_/same_as :: [Primary_School.internal](/_internal/Society/Culture/Education/Primary_School.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Culture/Education/Primary_Education/Primary_School.internal|Primary_School.internal]] 
 
-### #is_/same_as :: [Primary_School.protect](/_protect/Society/Culture/Education/Primary_School.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Culture/Education/Primary_Education/Primary_School.protect|Primary_School.protect]] 
 
-### #is_/same_as :: [Primary_School.private](/_private/Society/Culture/Education/Primary_School.private.md) 
+### #is_/same_as :: [[/_private/Society/Culture/Education/Primary_Education/Primary_School.private|Primary_School.private]] 
 
-### #is_/same_as :: [Primary_School.personal](/_personal/Society/Culture/Education/Primary_School.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Culture/Education/Primary_Education/Primary_School.personal|Primary_School.personal]] 
 
-### #is_/same_as :: [Primary_School.secret](/_secret/Society/Culture/Education/Primary_School.secret.md)
+### #is_/same_as :: [[/_secret/Society/Culture/Education/Primary_Education/Primary_School.secret|Primary_School.secret]] 
 

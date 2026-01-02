@@ -46,17 +46,17 @@ IEV_number: 845-24-080
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Gloss(Optics)](/_Standards/Science/Physics/Wave/Optics/Gloss(Optics).md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Wave/Optics/Gloss(Optics)|Gloss(Optics)]] 
 
-### #is_/same_as :: [Gloss(Optics).public](/_public/Science/Physics/Wave/Optics/Gloss(Optics).public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Wave/Optics/Gloss(Optics).public|Gloss(Optics).public]] 
 
-### #is_/same_as :: [Gloss(Optics).internal](/_internal/Science/Physics/Wave/Optics/Gloss(Optics).internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Wave/Optics/Gloss(Optics).internal|Gloss(Optics).internal]] 
 
-### #is_/same_as :: [Gloss(Optics).protect](/_protect/Science/Physics/Wave/Optics/Gloss(Optics).protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Wave/Optics/Gloss(Optics).protect|Gloss(Optics).protect]] 
 
-### #is_/same_as :: [Gloss(Optics).private](/_private/Science/Physics/Wave/Optics/Gloss(Optics).private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Wave/Optics/Gloss(Optics).private|Gloss(Optics).private]] 
 
-### #is_/same_as :: [Gloss(Optics).personal](/_personal/Science/Physics/Wave/Optics/Gloss(Optics).personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Wave/Optics/Gloss(Optics).personal|Gloss(Optics).personal]] 
 
-### #is_/same_as :: [Gloss(Optics).secret](/_secret/Science/Physics/Wave/Optics/Gloss(Optics).secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Wave/Optics/Gloss(Optics).secret|Gloss(Optics).secret]] 
 

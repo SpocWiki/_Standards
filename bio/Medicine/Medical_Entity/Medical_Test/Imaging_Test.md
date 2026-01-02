@@ -41,17 +41,17 @@ Any medical imaging modality typically used for diagnostic purposes.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Imaging_Test](/_Standards/bio/Medicine/Medical_Entity/Medical_Test/Imaging_Test.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Entity/Medical_Test/Imaging_Test|Imaging_Test]] 
 
-### #is_/same_as :: [Imaging_Test.public](/_public/bio/Medicine/Medical_Entity/Medical_Test/Imaging_Test.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Entity/Medical_Test/Imaging_Test.public|Imaging_Test.public]] 
 
-### #is_/same_as :: [Imaging_Test.internal](/_internal/bio/Medicine/Medical_Entity/Medical_Test/Imaging_Test.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Entity/Medical_Test/Imaging_Test.internal|Imaging_Test.internal]] 
 
-### #is_/same_as :: [Imaging_Test.protect](/_protect/bio/Medicine/Medical_Entity/Medical_Test/Imaging_Test.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Entity/Medical_Test/Imaging_Test.protect|Imaging_Test.protect]] 
 
-### #is_/same_as :: [Imaging_Test.private](/_private/bio/Medicine/Medical_Entity/Medical_Test/Imaging_Test.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Entity/Medical_Test/Imaging_Test.private|Imaging_Test.private]] 
 
-### #is_/same_as :: [Imaging_Test.personal](/_personal/bio/Medicine/Medical_Entity/Medical_Test/Imaging_Test.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Entity/Medical_Test/Imaging_Test.personal|Imaging_Test.personal]] 
 
-### #is_/same_as :: [Imaging_Test.secret](/_secret/bio/Medicine/Medical_Entity/Medical_Test/Imaging_Test.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Entity/Medical_Test/Imaging_Test.secret|Imaging_Test.secret]] 
 

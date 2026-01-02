@@ -122,17 +122,17 @@ Track release information taken from _ABBA: [The Complete Studio Recordings](h
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [ABBA-TYFTM](/_Standards/Society/Communication/Media/Music/Musician/Music~Band/ABBA/ABBA-TYFTM.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Musician/Music~Band/ABBA/ABBA-TYFTM|ABBA-TYFTM]] 
 
-### #is_/same_as :: [ABBA-TYFTM.public](/_public/Society/Communication/Media/Music/Musician/Music~Band/ABBA/ABBA-TYFTM.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Musician/Music~Band/ABBA/ABBA-TYFTM.public|ABBA-TYFTM.public]] 
 
-### #is_/same_as :: [ABBA-TYFTM.internal](/_internal/Society/Communication/Media/Music/Musician/Music~Band/ABBA/ABBA-TYFTM.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Musician/Music~Band/ABBA/ABBA-TYFTM.internal|ABBA-TYFTM.internal]] 
 
-### #is_/same_as :: [ABBA-TYFTM.protect](/_protect/Society/Communication/Media/Music/Musician/Music~Band/ABBA/ABBA-TYFTM.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Musician/Music~Band/ABBA/ABBA-TYFTM.protect|ABBA-TYFTM.protect]] 
 
-### #is_/same_as :: [ABBA-TYFTM.private](/_private/Society/Communication/Media/Music/Musician/Music~Band/ABBA/ABBA-TYFTM.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Musician/Music~Band/ABBA/ABBA-TYFTM.private|ABBA-TYFTM.private]] 
 
-### #is_/same_as :: [ABBA-TYFTM.personal](/_personal/Society/Communication/Media/Music/Musician/Music~Band/ABBA/ABBA-TYFTM.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Musician/Music~Band/ABBA/ABBA-TYFTM.personal|ABBA-TYFTM.personal]] 
 
-### #is_/same_as :: [ABBA-TYFTM.secret](/_secret/Society/Communication/Media/Music/Musician/Music~Band/ABBA/ABBA-TYFTM.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Musician/Music~Band/ABBA/ABBA-TYFTM.secret|ABBA-TYFTM.secret]] 
 

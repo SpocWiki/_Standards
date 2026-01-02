@@ -93,17 +93,17 @@ subreddit:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Central_America](/_Standards/Earth/Continent/America~Central/Central_America.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~Central/Central_America|Central_America]] 
 
-### #is_/same_as :: [Central_America.public](/_public/Earth/Continent/America~Central/Central_America.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~Central/Central_America.public|Central_America.public]] 
 
-### #is_/same_as :: [Central_America.internal](/_internal/Earth/Continent/America~Central/Central_America.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~Central/Central_America.internal|Central_America.internal]] 
 
-### #is_/same_as :: [Central_America.protect](/_protect/Earth/Continent/America~Central/Central_America.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~Central/Central_America.protect|Central_America.protect]] 
 
-### #is_/same_as :: [Central_America.private](/_private/Earth/Continent/America~Central/Central_America.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~Central/Central_America.private|Central_America.private]] 
 
-### #is_/same_as :: [Central_America.personal](/_personal/Earth/Continent/America~Central/Central_America.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~Central/Central_America.personal|Central_America.personal]] 
 
-### #is_/same_as :: [Central_America.secret](/_secret/Earth/Continent/America~Central/Central_America.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~Central/Central_America.secret|Central_America.secret]] 
 

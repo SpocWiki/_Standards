@@ -64,17 +64,17 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Age~2~Bajocian](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic/Epoch~2~Middle_Jurassic/Age~2~Bajocian.md) 
+### #is_/same_as :: [[/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic/Epoch~2~Middle_Jurassic/Age~2~Bajocian|Age~2~Bajocian]] 
 
-### #is_/same_as :: [Age~2~Bajocian.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic/Epoch~2~Middle_Jurassic/Age~2~Bajocian.public.md) 
+### #is_/same_as :: [[/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic/Epoch~2~Middle_Jurassic/Age~2~Bajocian.public|Age~2~Bajocian.public]] 
 
-### #is_/same_as :: [Age~2~Bajocian.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic/Epoch~2~Middle_Jurassic/Age~2~Bajocian.internal.md) 
+### #is_/same_as :: [[/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic/Epoch~2~Middle_Jurassic/Age~2~Bajocian.internal|Age~2~Bajocian.internal]] 
 
-### #is_/same_as :: [Age~2~Bajocian.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic/Epoch~2~Middle_Jurassic/Age~2~Bajocian.protect.md) 
+### #is_/same_as :: [[/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic/Epoch~2~Middle_Jurassic/Age~2~Bajocian.protect|Age~2~Bajocian.protect]] 
 
-### #is_/same_as :: [Age~2~Bajocian.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic/Epoch~2~Middle_Jurassic/Age~2~Bajocian.private.md) 
+### #is_/same_as :: [[/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic/Epoch~2~Middle_Jurassic/Age~2~Bajocian.private|Age~2~Bajocian.private]] 
 
-### #is_/same_as :: [Age~2~Bajocian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic/Epoch~2~Middle_Jurassic/Age~2~Bajocian.personal.md) 
+### #is_/same_as :: [[/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic/Epoch~2~Middle_Jurassic/Age~2~Bajocian.personal|Age~2~Bajocian.personal]] 
 
-### #is_/same_as :: [Age~2~Bajocian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic/Epoch~2~Middle_Jurassic/Age~2~Bajocian.secret.md)
+### #is_/same_as :: [[/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic/Epoch~2~Middle_Jurassic/Age~2~Bajocian.secret|Age~2~Bajocian.secret]] 
 

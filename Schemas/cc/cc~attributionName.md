@@ -3,17 +3,17 @@ Use `cc:attributionName` to attribute the work to the original creator:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [cc~attributionName](/_Standards/Schemas/cc/cc~attributionName.md) 
+### #is_/same_as :: [[/_Standards/Schemas/cc/cc~attributionName|cc~attributionName]] 
 
-### #is_/same_as :: [cc~attributionName.public](/_public/Schemas/cc/cc~attributionName.public.md) 
+### #is_/same_as :: [[/_public/Schemas/cc/cc~attributionName.public|cc~attributionName.public]] 
 
-### #is_/same_as :: [cc~attributionName.internal](/_internal/Schemas/cc/cc~attributionName.internal.md) 
+### #is_/same_as :: [[/_internal/Schemas/cc/cc~attributionName.internal|cc~attributionName.internal]] 
 
-### #is_/same_as :: [cc~attributionName.protect](/_protect/Schemas/cc/cc~attributionName.protect.md) 
+### #is_/same_as :: [[/_protect/Schemas/cc/cc~attributionName.protect|cc~attributionName.protect]] 
 
-### #is_/same_as :: [cc~attributionName.private](/_private/Schemas/cc/cc~attributionName.private.md) 
+### #is_/same_as :: [[/_private/Schemas/cc/cc~attributionName.private|cc~attributionName.private]] 
 
-### #is_/same_as :: [cc~attributionName.personal](/_personal/Schemas/cc/cc~attributionName.personal.md) 
+### #is_/same_as :: [[/_personal/Schemas/cc/cc~attributionName.personal|cc~attributionName.personal]] 
 
-### #is_/same_as :: [cc~attributionName.secret](/_secret/Schemas/cc/cc~attributionName.secret.md)
+### #is_/same_as :: [[/_secret/Schemas/cc/cc~attributionName.secret|cc~attributionName.secret]] 
 

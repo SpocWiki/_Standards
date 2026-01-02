@@ -42,17 +42,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Equinox](/_Standards/Astronomy/Astronomical_Event/Equinox.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Astronomical_Event/Equinox|Equinox]] 
 
-### #is_/same_as :: [Equinox.public](/_public/Astronomy/Astronomical_Event/Equinox.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Astronomical_Event/Equinox.public|Equinox.public]] 
 
-### #is_/same_as :: [Equinox.internal](/_internal/Astronomy/Astronomical_Event/Equinox.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Astronomical_Event/Equinox.internal|Equinox.internal]] 
 
-### #is_/same_as :: [Equinox.protect](/_protect/Astronomy/Astronomical_Event/Equinox.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Astronomical_Event/Equinox.protect|Equinox.protect]] 
 
-### #is_/same_as :: [Equinox.private](/_private/Astronomy/Astronomical_Event/Equinox.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Astronomical_Event/Equinox.private|Equinox.private]] 
 
-### #is_/same_as :: [Equinox.personal](/_personal/Astronomy/Astronomical_Event/Equinox.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Astronomical_Event/Equinox.personal|Equinox.personal]] 
 
-### #is_/same_as :: [Equinox.secret](/_secret/Astronomy/Astronomical_Event/Equinox.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Astronomical_Event/Equinox.secret|Equinox.secret]] 
 

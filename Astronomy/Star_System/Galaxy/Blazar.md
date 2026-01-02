@@ -31,17 +31,17 @@ Commons_category: Blazars
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Blazar](/_Standards/Astronomy/Star_System/Galaxy/Blazar.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Star_System/Galaxy/Blazar|Blazar]] 
 
-### #is_/same_as :: [Blazar.public](/_public/Astronomy/Star_System/Galaxy/Blazar.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Star_System/Galaxy/Blazar.public|Blazar.public]] 
 
-### #is_/same_as :: [Blazar.internal](/_internal/Astronomy/Star_System/Galaxy/Blazar.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Star_System/Galaxy/Blazar.internal|Blazar.internal]] 
 
-### #is_/same_as :: [Blazar.protect](/_protect/Astronomy/Star_System/Galaxy/Blazar.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Star_System/Galaxy/Blazar.protect|Blazar.protect]] 
 
-### #is_/same_as :: [Blazar.private](/_private/Astronomy/Star_System/Galaxy/Blazar.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Star_System/Galaxy/Blazar.private|Blazar.private]] 
 
-### #is_/same_as :: [Blazar.personal](/_personal/Astronomy/Star_System/Galaxy/Blazar.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Star_System/Galaxy/Blazar.personal|Blazar.personal]] 
 
-### #is_/same_as :: [Blazar.secret](/_secret/Astronomy/Star_System/Galaxy/Blazar.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Star_System/Galaxy/Blazar.secret|Blazar.secret]] 
 

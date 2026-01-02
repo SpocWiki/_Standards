@@ -18,17 +18,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Possession(Law)](/_Standards/Society/Law/Civil_Law/Possession(Law).md) 
+### #is_/same_as :: [[/_Standards/Society/Law/Civil_Law/Possession(Law)|Possession(Law)]] 
 
-### #is_/same_as :: [Possession(Law).public](/_public/Society/Law/Civil_Law/Possession(Law).public.md) 
+### #is_/same_as :: [[/_public/Society/Law/Civil_Law/Possession(Law).public|Possession(Law).public]] 
 
-### #is_/same_as :: [Possession(Law).internal](/_internal/Society/Law/Civil_Law/Possession(Law).internal.md) 
+### #is_/same_as :: [[/_internal/Society/Law/Civil_Law/Possession(Law).internal|Possession(Law).internal]] 
 
-### #is_/same_as :: [Possession(Law).protect](/_protect/Society/Law/Civil_Law/Possession(Law).protect.md) 
+### #is_/same_as :: [[/_protect/Society/Law/Civil_Law/Possession(Law).protect|Possession(Law).protect]] 
 
-### #is_/same_as :: [Possession(Law).private](/_private/Society/Law/Civil_Law/Possession(Law).private.md) 
+### #is_/same_as :: [[/_private/Society/Law/Civil_Law/Possession(Law).private|Possession(Law).private]] 
 
-### #is_/same_as :: [Possession(Law).personal](/_personal/Society/Law/Civil_Law/Possession(Law).personal.md) 
+### #is_/same_as :: [[/_personal/Society/Law/Civil_Law/Possession(Law).personal|Possession(Law).personal]] 
 
-### #is_/same_as :: [Possession(Law).secret](/_secret/Society/Law/Civil_Law/Possession(Law).secret.md)
+### #is_/same_as :: [[/_secret/Society/Law/Civil_Law/Possession(Law).secret|Possession(Law).secret]] 
 

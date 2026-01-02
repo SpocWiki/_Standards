@@ -95,17 +95,17 @@ has_time_started: 1100-06
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Devanagari](/_Standards/Language/Writing_System/Devanagari.md) 
+### #is_/same_as :: [[/_Standards/Language/Writing_System/Devanagari|Devanagari]] 
 
-### #is_/same_as :: [Devanagari.public](/_public/Language/Writing_System/Devanagari.public.md) 
+### #is_/same_as :: [[/_public/Language/Writing_System/Devanagari.public|Devanagari.public]] 
 
-### #is_/same_as :: [Devanagari.internal](/_internal/Language/Writing_System/Devanagari.internal.md) 
+### #is_/same_as :: [[/_internal/Language/Writing_System/Devanagari.internal|Devanagari.internal]] 
 
-### #is_/same_as :: [Devanagari.protect](/_protect/Language/Writing_System/Devanagari.protect.md) 
+### #is_/same_as :: [[/_protect/Language/Writing_System/Devanagari.protect|Devanagari.protect]] 
 
-### #is_/same_as :: [Devanagari.private](/_private/Language/Writing_System/Devanagari.private.md) 
+### #is_/same_as :: [[/_private/Language/Writing_System/Devanagari.private|Devanagari.private]] 
 
-### #is_/same_as :: [Devanagari.personal](/_personal/Language/Writing_System/Devanagari.personal.md) 
+### #is_/same_as :: [[/_personal/Language/Writing_System/Devanagari.personal|Devanagari.personal]] 
 
-### #is_/same_as :: [Devanagari.secret](/_secret/Language/Writing_System/Devanagari.secret.md)
+### #is_/same_as :: [[/_secret/Language/Writing_System/Devanagari.secret|Devanagari.secret]] 
 

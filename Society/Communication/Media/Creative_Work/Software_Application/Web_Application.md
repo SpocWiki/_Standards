@@ -41,17 +41,17 @@ Web applications.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Web_Application](/_Standards/Society/Communication/Media/Creative_Work/Software_Application/Web_Application.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Creative_Work/Software_Application/Web_Application|Web_Application]] 
 
-### #is_/same_as :: [Web_Application.public](/_public/Society/Communication/Media/Creative_Work/Software_Application/Web_Application.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Creative_Work/Software_Application/Web_Application.public|Web_Application.public]] 
 
-### #is_/same_as :: [Web_Application.internal](/_internal/Society/Communication/Media/Creative_Work/Software_Application/Web_Application.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Creative_Work/Software_Application/Web_Application.internal|Web_Application.internal]] 
 
-### #is_/same_as :: [Web_Application.protect](/_protect/Society/Communication/Media/Creative_Work/Software_Application/Web_Application.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Creative_Work/Software_Application/Web_Application.protect|Web_Application.protect]] 
 
-### #is_/same_as :: [Web_Application.private](/_private/Society/Communication/Media/Creative_Work/Software_Application/Web_Application.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Creative_Work/Software_Application/Web_Application.private|Web_Application.private]] 
 
-### #is_/same_as :: [Web_Application.personal](/_personal/Society/Communication/Media/Creative_Work/Software_Application/Web_Application.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/Software_Application/Web_Application.personal|Web_Application.personal]] 
 
-### #is_/same_as :: [Web_Application.secret](/_secret/Society/Communication/Media/Creative_Work/Software_Application/Web_Application.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Software_Application/Web_Application.secret|Web_Application.secret]] 
 

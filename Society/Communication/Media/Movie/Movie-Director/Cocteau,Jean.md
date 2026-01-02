@@ -176,17 +176,17 @@ work_period_start_: 1908-01-01T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Cocteau,Jean](/_Standards/Society/Communication/Media/Movie/Movie-Director/Cocteau,Jean.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Director/Cocteau,Jean|Cocteau,Jean]] 
 
-### #is_/same_as :: [Cocteau,Jean.public](/_public/Society/Communication/Media/Movie/Movie-Director/Cocteau,Jean.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Director/Cocteau,Jean.public|Cocteau,Jean.public]] 
 
-### #is_/same_as :: [Cocteau,Jean.internal](/_internal/Society/Communication/Media/Movie/Movie-Director/Cocteau,Jean.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Director/Cocteau,Jean.internal|Cocteau,Jean.internal]] 
 
-### #is_/same_as :: [Cocteau,Jean.protect](/_protect/Society/Communication/Media/Movie/Movie-Director/Cocteau,Jean.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Director/Cocteau,Jean.protect|Cocteau,Jean.protect]] 
 
-### #is_/same_as :: [Cocteau,Jean.private](/_private/Society/Communication/Media/Movie/Movie-Director/Cocteau,Jean.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Director/Cocteau,Jean.private|Cocteau,Jean.private]] 
 
-### #is_/same_as :: [Cocteau,Jean.personal](/_personal/Society/Communication/Media/Movie/Movie-Director/Cocteau,Jean.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Director/Cocteau,Jean.personal|Cocteau,Jean.personal]] 
 
-### #is_/same_as :: [Cocteau,Jean.secret](/_secret/Society/Communication/Media/Movie/Movie-Director/Cocteau,Jean.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Director/Cocteau,Jean.secret|Cocteau,Jean.secret]] 
 

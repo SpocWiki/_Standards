@@ -70,17 +70,17 @@ Krugosvet_article: kultura_i_obrazovanie/literatura/SKAZKA.html
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Fairy_Tale](/_Standards/Society/Communication/Genre/Fiction/Folklore/Fairy_Tale.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Genre/Fiction/Folklore/Fairy_Tale|Fairy_Tale]] 
 
-### #is_/same_as :: [Fairy_Tale.public](/_public/Society/Communication/Genre/Fiction/Folklore/Fairy_Tale.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Genre/Fiction/Folklore/Fairy_Tale.public|Fairy_Tale.public]] 
 
-### #is_/same_as :: [Fairy_Tale.internal](/_internal/Society/Communication/Genre/Fiction/Folklore/Fairy_Tale.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Genre/Fiction/Folklore/Fairy_Tale.internal|Fairy_Tale.internal]] 
 
-### #is_/same_as :: [Fairy_Tale.protect](/_protect/Society/Communication/Genre/Fiction/Folklore/Fairy_Tale.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Genre/Fiction/Folklore/Fairy_Tale.protect|Fairy_Tale.protect]] 
 
-### #is_/same_as :: [Fairy_Tale.private](/_private/Society/Communication/Genre/Fiction/Folklore/Fairy_Tale.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Genre/Fiction/Folklore/Fairy_Tale.private|Fairy_Tale.private]] 
 
-### #is_/same_as :: [Fairy_Tale.personal](/_personal/Society/Communication/Genre/Fiction/Folklore/Fairy_Tale.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Genre/Fiction/Folklore/Fairy_Tale.personal|Fairy_Tale.personal]] 
 
-### #is_/same_as :: [Fairy_Tale.secret](/_secret/Society/Communication/Genre/Fiction/Folklore/Fairy_Tale.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Genre/Fiction/Folklore/Fairy_Tale.secret|Fairy_Tale.secret]] 
 

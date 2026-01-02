@@ -91,17 +91,17 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/ENSO%20-%20El%20Ni%C3%
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [El_Niño](/_Standards/Earth/Climate/Season/El_Niño.md) 
+### #is_/same_as :: [[/_Standards/Earth/Climate/Season/El_Niño|El_Niño]] 
 
-### #is_/same_as :: [El_Niño.public](/_public/Earth/Climate/Season/El_Niño.public.md) 
+### #is_/same_as :: [[/_public/Earth/Climate/Season/El_Niño.public|El_Niño.public]] 
 
-### #is_/same_as :: [El_Niño.internal](/_internal/Earth/Climate/Season/El_Niño.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Climate/Season/El_Niño.internal|El_Niño.internal]] 
 
-### #is_/same_as :: [El_Niño.protect](/_protect/Earth/Climate/Season/El_Niño.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Climate/Season/El_Niño.protect|El_Niño.protect]] 
 
-### #is_/same_as :: [El_Niño.private](/_private/Earth/Climate/Season/El_Niño.private.md) 
+### #is_/same_as :: [[/_private/Earth/Climate/Season/El_Niño.private|El_Niño.private]] 
 
-### #is_/same_as :: [El_Niño.personal](/_personal/Earth/Climate/Season/El_Niño.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Climate/Season/El_Niño.personal|El_Niño.personal]] 
 
-### #is_/same_as :: [El_Niño.secret](/_secret/Earth/Climate/Season/El_Niño.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Climate/Season/El_Niño.secret|El_Niño.secret]] 
 

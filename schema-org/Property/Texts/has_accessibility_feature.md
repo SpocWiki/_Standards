@@ -45,17 +45,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_accessibility_feature](/_Standards/schema-org/Property/Texts/has_accessibility_feature.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/Texts/has_accessibility_feature|has_accessibility_feature]] 
 
-### #is_/same_as :: [has_accessibility_feature.public](/_public/schema-org/Property/Texts/has_accessibility_feature.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/Texts/has_accessibility_feature.public|has_accessibility_feature.public]] 
 
-### #is_/same_as :: [has_accessibility_feature.internal](/_internal/schema-org/Property/Texts/has_accessibility_feature.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/Texts/has_accessibility_feature.internal|has_accessibility_feature.internal]] 
 
-### #is_/same_as :: [has_accessibility_feature.protect](/_protect/schema-org/Property/Texts/has_accessibility_feature.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/Texts/has_accessibility_feature.protect|has_accessibility_feature.protect]] 
 
-### #is_/same_as :: [has_accessibility_feature.private](/_private/schema-org/Property/Texts/has_accessibility_feature.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/Texts/has_accessibility_feature.private|has_accessibility_feature.private]] 
 
-### #is_/same_as :: [has_accessibility_feature.personal](/_personal/schema-org/Property/Texts/has_accessibility_feature.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/Texts/has_accessibility_feature.personal|has_accessibility_feature.personal]] 
 
-### #is_/same_as :: [has_accessibility_feature.secret](/_secret/schema-org/Property/Texts/has_accessibility_feature.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/Texts/has_accessibility_feature.secret|has_accessibility_feature.secret]] 
 

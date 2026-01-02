@@ -463,17 +463,17 @@ Capital :: [[Liberia/Counties~Liberia/Montserrado/counties~Montserrado/Greater_M
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Liberia](/_Standards/Earth/Continent/Africa/Africa~West/Liberia.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~West/Liberia|Liberia]] 
 
-### #is_/same_as :: [Liberia.public](/_public/Earth/Continent/Africa/Africa~West/Liberia.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~West/Liberia.public|Liberia.public]] 
 
-### #is_/same_as :: [Liberia.internal](/_internal/Earth/Continent/Africa/Africa~West/Liberia.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~West/Liberia.internal|Liberia.internal]] 
 
-### #is_/same_as :: [Liberia.protect](/_protect/Earth/Continent/Africa/Africa~West/Liberia.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~West/Liberia.protect|Liberia.protect]] 
 
-### #is_/same_as :: [Liberia.private](/_private/Earth/Continent/Africa/Africa~West/Liberia.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~West/Liberia.private|Liberia.private]] 
 
-### #is_/same_as :: [Liberia.personal](/_personal/Earth/Continent/Africa/Africa~West/Liberia.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~West/Liberia.personal|Liberia.personal]] 
 
-### #is_/same_as :: [Liberia.secret](/_secret/Earth/Continent/Africa/Africa~West/Liberia.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~West/Liberia.secret|Liberia.secret]] 
 

@@ -40,17 +40,17 @@ Unlike cross-sectional studies, longitudinal studies track the same people, and 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Longitudinal_Study](/_Standards/bio/Medicine/Medical_Enumeration/Medical_Observational_Study_Design/Longitudinal_Study.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Enumeration/Medical_Observational_Study_Design/Longitudinal_Study|Longitudinal_Study]] 
 
-### #is_/same_as :: [Longitudinal_Study.public](/_public/bio/Medicine/Medical_Enumeration/Medical_Observational_Study_Design/Longitudinal_Study.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Enumeration/Medical_Observational_Study_Design/Longitudinal_Study.public|Longitudinal_Study.public]] 
 
-### #is_/same_as :: [Longitudinal_Study.internal](/_internal/bio/Medicine/Medical_Enumeration/Medical_Observational_Study_Design/Longitudinal_Study.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Enumeration/Medical_Observational_Study_Design/Longitudinal_Study.internal|Longitudinal_Study.internal]] 
 
-### #is_/same_as :: [Longitudinal_Study.protect](/_protect/bio/Medicine/Medical_Enumeration/Medical_Observational_Study_Design/Longitudinal_Study.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Enumeration/Medical_Observational_Study_Design/Longitudinal_Study.protect|Longitudinal_Study.protect]] 
 
-### #is_/same_as :: [Longitudinal_Study.private](/_private/bio/Medicine/Medical_Enumeration/Medical_Observational_Study_Design/Longitudinal_Study.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Enumeration/Medical_Observational_Study_Design/Longitudinal_Study.private|Longitudinal_Study.private]] 
 
-### #is_/same_as :: [Longitudinal_Study.personal](/_personal/bio/Medicine/Medical_Enumeration/Medical_Observational_Study_Design/Longitudinal_Study.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Enumeration/Medical_Observational_Study_Design/Longitudinal_Study.personal|Longitudinal_Study.personal]] 
 
-### #is_/same_as :: [Longitudinal_Study.secret](/_secret/bio/Medicine/Medical_Enumeration/Medical_Observational_Study_Design/Longitudinal_Study.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Enumeration/Medical_Observational_Study_Design/Longitudinal_Study.secret|Longitudinal_Study.secret]] 
 

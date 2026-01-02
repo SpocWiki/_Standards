@@ -71,17 +71,17 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Age~1~Induan](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~1~Triassic/Epoch~1~Early_Triassic/Age~1~Induan.md) 
+### #is_/same_as :: [[/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~1~Triassic/Epoch~1~Early_Triassic/Age~1~Induan|Age~1~Induan]] 
 
-### #is_/same_as :: [Age~1~Induan.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~1~Triassic/Epoch~1~Early_Triassic/Age~1~Induan.public.md) 
+### #is_/same_as :: [[/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~1~Triassic/Epoch~1~Early_Triassic/Age~1~Induan.public|Age~1~Induan.public]] 
 
-### #is_/same_as :: [Age~1~Induan.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~1~Triassic/Epoch~1~Early_Triassic/Age~1~Induan.internal.md) 
+### #is_/same_as :: [[/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~1~Triassic/Epoch~1~Early_Triassic/Age~1~Induan.internal|Age~1~Induan.internal]] 
 
-### #is_/same_as :: [Age~1~Induan.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~1~Triassic/Epoch~1~Early_Triassic/Age~1~Induan.protect.md) 
+### #is_/same_as :: [[/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~1~Triassic/Epoch~1~Early_Triassic/Age~1~Induan.protect|Age~1~Induan.protect]] 
 
-### #is_/same_as :: [Age~1~Induan.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~1~Triassic/Epoch~1~Early_Triassic/Age~1~Induan.private.md) 
+### #is_/same_as :: [[/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~1~Triassic/Epoch~1~Early_Triassic/Age~1~Induan.private|Age~1~Induan.private]] 
 
-### #is_/same_as :: [Age~1~Induan.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~1~Triassic/Epoch~1~Early_Triassic/Age~1~Induan.personal.md) 
+### #is_/same_as :: [[/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~1~Triassic/Epoch~1~Early_Triassic/Age~1~Induan.personal|Age~1~Induan.personal]] 
 
-### #is_/same_as :: [Age~1~Induan.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~1~Triassic/Epoch~1~Early_Triassic/Age~1~Induan.secret.md)
+### #is_/same_as :: [[/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~1~Triassic/Epoch~1~Early_Triassic/Age~1~Induan.secret|Age~1~Induan.secret]] 
 

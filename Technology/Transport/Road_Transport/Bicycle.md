@@ -169,17 +169,17 @@ Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_bicycles,7112565]]"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bicycle](/_Standards/Technology/Transport/Road_Transport/Bicycle.md) 
+### #is_/same_as :: [[/_Standards/Technology/Transport/Road_Transport/Bicycle|Bicycle]] 
 
-### #is_/same_as :: [Bicycle.public](/_public/Technology/Transport/Road_Transport/Bicycle.public.md) 
+### #is_/same_as :: [[/_public/Technology/Transport/Road_Transport/Bicycle.public|Bicycle.public]] 
 
-### #is_/same_as :: [Bicycle.internal](/_internal/Technology/Transport/Road_Transport/Bicycle.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Transport/Road_Transport/Bicycle.internal|Bicycle.internal]] 
 
-### #is_/same_as :: [Bicycle.protect](/_protect/Technology/Transport/Road_Transport/Bicycle.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Transport/Road_Transport/Bicycle.protect|Bicycle.protect]] 
 
-### #is_/same_as :: [Bicycle.private](/_private/Technology/Transport/Road_Transport/Bicycle.private.md) 
+### #is_/same_as :: [[/_private/Technology/Transport/Road_Transport/Bicycle.private|Bicycle.private]] 
 
-### #is_/same_as :: [Bicycle.personal](/_personal/Technology/Transport/Road_Transport/Bicycle.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Transport/Road_Transport/Bicycle.personal|Bicycle.personal]] 
 
-### #is_/same_as :: [Bicycle.secret](/_secret/Technology/Transport/Road_Transport/Bicycle.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Transport/Road_Transport/Bicycle.secret|Bicycle.secret]] 
 

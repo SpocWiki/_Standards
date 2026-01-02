@@ -79,17 +79,17 @@ A shopping center or mall.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Shopping_Center](/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Shopping_Center.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Shopping_Center|Shopping_Center]] 
 
-### #is_/same_as :: [Shopping_Center.public](/_public/Society/Agent/Community/Organization/Business/Local_Business/Shopping_Center.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Business/Local_Business/Shopping_Center.public|Shopping_Center.public]] 
 
-### #is_/same_as :: [Shopping_Center.internal](/_internal/Society/Agent/Community/Organization/Business/Local_Business/Shopping_Center.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Business/Local_Business/Shopping_Center.internal|Shopping_Center.internal]] 
 
-### #is_/same_as :: [Shopping_Center.protect](/_protect/Society/Agent/Community/Organization/Business/Local_Business/Shopping_Center.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Business/Local_Business/Shopping_Center.protect|Shopping_Center.protect]] 
 
-### #is_/same_as :: [Shopping_Center.private](/_private/Society/Agent/Community/Organization/Business/Local_Business/Shopping_Center.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Business/Local_Business/Shopping_Center.private|Shopping_Center.private]] 
 
-### #is_/same_as :: [Shopping_Center.personal](/_personal/Society/Agent/Community/Organization/Business/Local_Business/Shopping_Center.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Business/Local_Business/Shopping_Center.personal|Shopping_Center.personal]] 
 
-### #is_/same_as :: [Shopping_Center.secret](/_secret/Society/Agent/Community/Organization/Business/Local_Business/Shopping_Center.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Business/Local_Business/Shopping_Center.secret|Shopping_Center.secret]] 
 

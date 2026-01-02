@@ -44,17 +44,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_dependencies](/_Standards/schema-org/Property/Texts/has_dependencies.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/Texts/has_dependencies|has_dependencies]] 
 
-### #is_/same_as :: [has_dependencies.public](/_public/schema-org/Property/Texts/has_dependencies.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/Texts/has_dependencies.public|has_dependencies.public]] 
 
-### #is_/same_as :: [has_dependencies.internal](/_internal/schema-org/Property/Texts/has_dependencies.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/Texts/has_dependencies.internal|has_dependencies.internal]] 
 
-### #is_/same_as :: [has_dependencies.protect](/_protect/schema-org/Property/Texts/has_dependencies.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/Texts/has_dependencies.protect|has_dependencies.protect]] 
 
-### #is_/same_as :: [has_dependencies.private](/_private/schema-org/Property/Texts/has_dependencies.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/Texts/has_dependencies.private|has_dependencies.private]] 
 
-### #is_/same_as :: [has_dependencies.personal](/_personal/schema-org/Property/Texts/has_dependencies.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/Texts/has_dependencies.personal|has_dependencies.personal]] 
 
-### #is_/same_as :: [has_dependencies.secret](/_secret/schema-org/Property/Texts/has_dependencies.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/Texts/has_dependencies.secret|has_dependencies.secret]] 
 

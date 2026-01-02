@@ -45,17 +45,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_current_exchange_rate](/_Standards/schema-org/Relation/has/has_current_exchange_rate.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_current_exchange_rate|has_current_exchange_rate]] 
 
-### #is_/same_as :: [has_current_exchange_rate.public](/_public/schema-org/Relation/has/has_current_exchange_rate.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_current_exchange_rate.public|has_current_exchange_rate.public]] 
 
-### #is_/same_as :: [has_current_exchange_rate.internal](/_internal/schema-org/Relation/has/has_current_exchange_rate.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_current_exchange_rate.internal|has_current_exchange_rate.internal]] 
 
-### #is_/same_as :: [has_current_exchange_rate.protect](/_protect/schema-org/Relation/has/has_current_exchange_rate.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_current_exchange_rate.protect|has_current_exchange_rate.protect]] 
 
-### #is_/same_as :: [has_current_exchange_rate.private](/_private/schema-org/Relation/has/has_current_exchange_rate.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_current_exchange_rate.private|has_current_exchange_rate.private]] 
 
-### #is_/same_as :: [has_current_exchange_rate.personal](/_personal/schema-org/Relation/has/has_current_exchange_rate.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_current_exchange_rate.personal|has_current_exchange_rate.personal]] 
 
-### #is_/same_as :: [has_current_exchange_rate.secret](/_secret/schema-org/Relation/has/has_current_exchange_rate.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_current_exchange_rate.secret|has_current_exchange_rate.secret]] 
 

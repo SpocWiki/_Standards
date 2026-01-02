@@ -67,17 +67,17 @@ pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-Nagel
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Nail(Fastener)](/_Standards/Technology/Tool/Mechanical_Tool/Fastener/Nail(Fastener).md) 
+### #is_/same_as :: [[/_Standards/Technology/Tool/Mechanical_Tool/Fastener/Nail(Fastener)|Nail(Fastener)]] 
 
-### #is_/same_as :: [Nail(Fastener).public](/_public/Technology/Tool/Mechanical_Tool/Fastener/Nail(Fastener).public.md) 
+### #is_/same_as :: [[/_public/Technology/Tool/Mechanical_Tool/Fastener/Nail(Fastener).public|Nail(Fastener).public]] 
 
-### #is_/same_as :: [Nail(Fastener).internal](/_internal/Technology/Tool/Mechanical_Tool/Fastener/Nail(Fastener).internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Tool/Mechanical_Tool/Fastener/Nail(Fastener).internal|Nail(Fastener).internal]] 
 
-### #is_/same_as :: [Nail(Fastener).protect](/_protect/Technology/Tool/Mechanical_Tool/Fastener/Nail(Fastener).protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Tool/Mechanical_Tool/Fastener/Nail(Fastener).protect|Nail(Fastener).protect]] 
 
-### #is_/same_as :: [Nail(Fastener).private](/_private/Technology/Tool/Mechanical_Tool/Fastener/Nail(Fastener).private.md) 
+### #is_/same_as :: [[/_private/Technology/Tool/Mechanical_Tool/Fastener/Nail(Fastener).private|Nail(Fastener).private]] 
 
-### #is_/same_as :: [Nail(Fastener).personal](/_personal/Technology/Tool/Mechanical_Tool/Fastener/Nail(Fastener).personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Tool/Mechanical_Tool/Fastener/Nail(Fastener).personal|Nail(Fastener).personal]] 
 
-### #is_/same_as :: [Nail(Fastener).secret](/_secret/Technology/Tool/Mechanical_Tool/Fastener/Nail(Fastener).secret.md)
+### #is_/same_as :: [[/_secret/Technology/Tool/Mechanical_Tool/Fastener/Nail(Fastener).secret|Nail(Fastener).secret]] 
 

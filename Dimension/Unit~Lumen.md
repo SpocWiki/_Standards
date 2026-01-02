@@ -62,17 +62,17 @@ This is the luminous Flow into 1 Steradian Space
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Unit~Lumen](/_Standards/Dimension/Unit~Lumen.md) 
+### #is_/same_as :: [[/_Standards/Dimension/Unit~Lumen|Unit~Lumen]] 
 
-### #is_/same_as :: [Unit~Lumen.public](/_public/Dimension/Unit~Lumen.public.md) 
+### #is_/same_as :: [[/_public/Dimension/Unit~Lumen.public|Unit~Lumen.public]] 
 
-### #is_/same_as :: [Unit~Lumen.internal](/_internal/Dimension/Unit~Lumen.internal.md) 
+### #is_/same_as :: [[/_internal/Dimension/Unit~Lumen.internal|Unit~Lumen.internal]] 
 
-### #is_/same_as :: [Unit~Lumen.protect](/_protect/Dimension/Unit~Lumen.protect.md) 
+### #is_/same_as :: [[/_protect/Dimension/Unit~Lumen.protect|Unit~Lumen.protect]] 
 
-### #is_/same_as :: [Unit~Lumen.private](/_private/Dimension/Unit~Lumen.private.md) 
+### #is_/same_as :: [[/_private/Dimension/Unit~Lumen.private|Unit~Lumen.private]] 
 
-### #is_/same_as :: [Unit~Lumen.personal](/_personal/Dimension/Unit~Lumen.personal.md) 
+### #is_/same_as :: [[/_personal/Dimension/Unit~Lumen.personal|Unit~Lumen.personal]] 
 
-### #is_/same_as :: [Unit~Lumen.secret](/_secret/Dimension/Unit~Lumen.secret.md)
+### #is_/same_as :: [[/_secret/Dimension/Unit~Lumen.secret|Unit~Lumen.secret]] 
 

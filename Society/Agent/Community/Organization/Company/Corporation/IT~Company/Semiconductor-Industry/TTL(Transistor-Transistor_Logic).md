@@ -39,17 +39,17 @@ which accounts for considerable Heat-Production in TTL Devices.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [TTL(Transistor-Transistor_Logic)](/_Standards/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/TTL(Transistor-Transistor_Logic).md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/TTL(Transistor-Transistor_Logic)|TTL(Transistor-Transistor_Logic)]] 
 
-### #is_/same_as :: [TTL(Transistor-Transistor_Logic).public](/_public/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/TTL(Transistor-Transistor_Logic).public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/TTL(Transistor-Transistor_Logic).public|TTL(Transistor-Transistor_Logic).public]] 
 
-### #is_/same_as :: [TTL(Transistor-Transistor_Logic).internal](/_internal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/TTL(Transistor-Transistor_Logic).internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/TTL(Transistor-Transistor_Logic).internal|TTL(Transistor-Transistor_Logic).internal]] 
 
-### #is_/same_as :: [TTL(Transistor-Transistor_Logic).protect](/_protect/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/TTL(Transistor-Transistor_Logic).protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/TTL(Transistor-Transistor_Logic).protect|TTL(Transistor-Transistor_Logic).protect]] 
 
-### #is_/same_as :: [TTL(Transistor-Transistor_Logic).private](/_private/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/TTL(Transistor-Transistor_Logic).private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/TTL(Transistor-Transistor_Logic).private|TTL(Transistor-Transistor_Logic).private]] 
 
-### #is_/same_as :: [TTL(Transistor-Transistor_Logic).personal](/_personal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/TTL(Transistor-Transistor_Logic).personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/TTL(Transistor-Transistor_Logic).personal|TTL(Transistor-Transistor_Logic).personal]] 
 
-### #is_/same_as :: [TTL(Transistor-Transistor_Logic).secret](/_secret/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/TTL(Transistor-Transistor_Logic).secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/TTL(Transistor-Transistor_Logic).secret|TTL(Transistor-Transistor_Logic).secret]] 
 

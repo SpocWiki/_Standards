@@ -44,17 +44,17 @@ NonprofitANBI: Non-profit type referring to a Public Benefit Organization (NL).
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Nonprofit_Anbi](/_Standards/schema-org/Enumeration/Nonprofit_Type/Nl_Nonprofit_Type/Nonprofit_Anbi.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Nonprofit_Type/Nl_Nonprofit_Type/Nonprofit_Anbi|Nonprofit_Anbi]] 
 
-### #is_/same_as :: [Nonprofit_Anbi.public](/_public/schema-org/Enumeration/Nonprofit_Type/Nl_Nonprofit_Type/Nonprofit_Anbi.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Nonprofit_Type/Nl_Nonprofit_Type/Nonprofit_Anbi.public|Nonprofit_Anbi.public]] 
 
-### #is_/same_as :: [Nonprofit_Anbi.internal](/_internal/schema-org/Enumeration/Nonprofit_Type/Nl_Nonprofit_Type/Nonprofit_Anbi.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Nonprofit_Type/Nl_Nonprofit_Type/Nonprofit_Anbi.internal|Nonprofit_Anbi.internal]] 
 
-### #is_/same_as :: [Nonprofit_Anbi.protect](/_protect/schema-org/Enumeration/Nonprofit_Type/Nl_Nonprofit_Type/Nonprofit_Anbi.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Nonprofit_Type/Nl_Nonprofit_Type/Nonprofit_Anbi.protect|Nonprofit_Anbi.protect]] 
 
-### #is_/same_as :: [Nonprofit_Anbi.private](/_private/schema-org/Enumeration/Nonprofit_Type/Nl_Nonprofit_Type/Nonprofit_Anbi.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Nonprofit_Type/Nl_Nonprofit_Type/Nonprofit_Anbi.private|Nonprofit_Anbi.private]] 
 
-### #is_/same_as :: [Nonprofit_Anbi.personal](/_personal/schema-org/Enumeration/Nonprofit_Type/Nl_Nonprofit_Type/Nonprofit_Anbi.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Nonprofit_Type/Nl_Nonprofit_Type/Nonprofit_Anbi.personal|Nonprofit_Anbi.personal]] 
 
-### #is_/same_as :: [Nonprofit_Anbi.secret](/_secret/schema-org/Enumeration/Nonprofit_Type/Nl_Nonprofit_Type/Nonprofit_Anbi.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Nonprofit_Type/Nl_Nonprofit_Type/Nonprofit_Anbi.secret|Nonprofit_Anbi.secret]] 
 

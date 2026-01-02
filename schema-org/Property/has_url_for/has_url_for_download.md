@@ -44,17 +44,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_url_for_download](/_Standards/schema-org/Property/has_url_for/has_url_for_download.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_url_for/has_url_for_download|has_url_for_download]] 
 
-### #is_/same_as :: [has_url_for_download.public](/_public/schema-org/Property/has_url_for/has_url_for_download.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/has_url_for/has_url_for_download.public|has_url_for_download.public]] 
 
-### #is_/same_as :: [has_url_for_download.internal](/_internal/schema-org/Property/has_url_for/has_url_for_download.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_url_for/has_url_for_download.internal|has_url_for_download.internal]] 
 
-### #is_/same_as :: [has_url_for_download.protect](/_protect/schema-org/Property/has_url_for/has_url_for_download.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_url_for/has_url_for_download.protect|has_url_for_download.protect]] 
 
-### #is_/same_as :: [has_url_for_download.private](/_private/schema-org/Property/has_url_for/has_url_for_download.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/has_url_for/has_url_for_download.private|has_url_for_download.private]] 
 
-### #is_/same_as :: [has_url_for_download.personal](/_personal/schema-org/Property/has_url_for/has_url_for_download.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_url_for/has_url_for_download.personal|has_url_for_download.personal]] 
 
-### #is_/same_as :: [has_url_for_download.secret](/_secret/schema-org/Property/has_url_for/has_url_for_download.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/has_url_for/has_url_for_download.secret|has_url_for_download.secret]] 
 

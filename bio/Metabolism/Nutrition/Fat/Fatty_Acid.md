@@ -52,17 +52,17 @@ ZVG_number: 91170
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Fatty_Acid](/_Standards/bio/Metabolism/Nutrition/Fat/Fatty_Acid.md) 
+### #is_/same_as :: [[/_Standards/bio/Metabolism/Nutrition/Fat/Fatty_Acid|Fatty_Acid]] 
 
-### #is_/same_as :: [Fatty_Acid.public](/_public/bio/Metabolism/Nutrition/Fat/Fatty_Acid.public.md) 
+### #is_/same_as :: [[/_public/bio/Metabolism/Nutrition/Fat/Fatty_Acid.public|Fatty_Acid.public]] 
 
-### #is_/same_as :: [Fatty_Acid.internal](/_internal/bio/Metabolism/Nutrition/Fat/Fatty_Acid.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Metabolism/Nutrition/Fat/Fatty_Acid.internal|Fatty_Acid.internal]] 
 
-### #is_/same_as :: [Fatty_Acid.protect](/_protect/bio/Metabolism/Nutrition/Fat/Fatty_Acid.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Metabolism/Nutrition/Fat/Fatty_Acid.protect|Fatty_Acid.protect]] 
 
-### #is_/same_as :: [Fatty_Acid.private](/_private/bio/Metabolism/Nutrition/Fat/Fatty_Acid.private.md) 
+### #is_/same_as :: [[/_private/bio/Metabolism/Nutrition/Fat/Fatty_Acid.private|Fatty_Acid.private]] 
 
-### #is_/same_as :: [Fatty_Acid.personal](/_personal/bio/Metabolism/Nutrition/Fat/Fatty_Acid.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Metabolism/Nutrition/Fat/Fatty_Acid.personal|Fatty_Acid.personal]] 
 
-### #is_/same_as :: [Fatty_Acid.secret](/_secret/bio/Metabolism/Nutrition/Fat/Fatty_Acid.secret.md)
+### #is_/same_as :: [[/_secret/bio/Metabolism/Nutrition/Fat/Fatty_Acid.secret|Fatty_Acid.secret]] 
 

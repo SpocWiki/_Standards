@@ -58,3 +58,22 @@ Library_of_Congress_Classification: TK6573-TK6595
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Radar) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Technology/Tool/Instrumentation/Measuring_Instrument/Radar(Radio_Detection_and_Ranging)|Radar(Radio_Detection_and_Ranging)]] 
+
+### #is_/same_as :: [[/_public/Technology/Tool/Instrumentation/Measuring_Instrument/Radar(Radio_Detection_and_Ranging).public|Radar(Radio_Detection_and_Ranging).public]] 
+
+### #is_/same_as :: [[/_internal/Technology/Tool/Instrumentation/Measuring_Instrument/Radar(Radio_Detection_and_Ranging).internal|Radar(Radio_Detection_and_Ranging).internal]] 
+
+### #is_/same_as :: [[/_protect/Technology/Tool/Instrumentation/Measuring_Instrument/Radar(Radio_Detection_and_Ranging).protect|Radar(Radio_Detection_and_Ranging).protect]] 
+
+### #is_/same_as :: [[/_private/Technology/Tool/Instrumentation/Measuring_Instrument/Radar(Radio_Detection_and_Ranging).private|Radar(Radio_Detection_and_Ranging).private]] 
+
+### #is_/same_as :: [[/_personal/Technology/Tool/Instrumentation/Measuring_Instrument/Radar(Radio_Detection_and_Ranging).personal|Radar(Radio_Detection_and_Ranging).personal]] 
+
+### #is_/same_as :: [[/_secret/Technology/Tool/Instrumentation/Measuring_Instrument/Radar(Radio_Detection_and_Ranging).secret|Radar(Radio_Detection_and_Ranging).secret]] 
+

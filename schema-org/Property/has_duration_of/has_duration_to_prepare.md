@@ -42,17 +42,17 @@ Formal Predicate:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_duration_to_prepare](/_Standards/schema-org/Property/has_duration_of/has_duration_to_prepare.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_duration_of/has_duration_to_prepare|has_duration_to_prepare]] 
 
-### #is_/same_as :: [has_duration_to_prepare.public](/_public/schema-org/Property/has_duration_of/has_duration_to_prepare.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/has_duration_of/has_duration_to_prepare.public|has_duration_to_prepare.public]] 
 
-### #is_/same_as :: [has_duration_to_prepare.internal](/_internal/schema-org/Property/has_duration_of/has_duration_to_prepare.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_duration_of/has_duration_to_prepare.internal|has_duration_to_prepare.internal]] 
 
-### #is_/same_as :: [has_duration_to_prepare.protect](/_protect/schema-org/Property/has_duration_of/has_duration_to_prepare.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_duration_of/has_duration_to_prepare.protect|has_duration_to_prepare.protect]] 
 
-### #is_/same_as :: [has_duration_to_prepare.private](/_private/schema-org/Property/has_duration_of/has_duration_to_prepare.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/has_duration_of/has_duration_to_prepare.private|has_duration_to_prepare.private]] 
 
-### #is_/same_as :: [has_duration_to_prepare.personal](/_personal/schema-org/Property/has_duration_of/has_duration_to_prepare.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_duration_of/has_duration_to_prepare.personal|has_duration_to_prepare.personal]] 
 
-### #is_/same_as :: [has_duration_to_prepare.secret](/_secret/schema-org/Property/has_duration_of/has_duration_to_prepare.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/has_duration_of/has_duration_to_prepare.secret|has_duration_to_prepare.secret]] 
 

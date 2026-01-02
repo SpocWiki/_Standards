@@ -74,17 +74,17 @@ writing_system: '[[_Standards/WikiData/WD~Glagolitic,145625]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [LangFamily-Slavic](/_Standards/Language/Language_Family/LangFamily-Indo-European/LangFamily-Slavic.md) 
+### #is_/same_as :: [[/_Standards/Language/Language_Family/LangFamily-Indo-European/LangFamily-Slavic|LangFamily-Slavic]] 
 
-### #is_/same_as :: [LangFamily-Slavic.public](/_public/Language/Language_Family/LangFamily-Indo-European/LangFamily-Slavic.public.md) 
+### #is_/same_as :: [[/_public/Language/Language_Family/LangFamily-Indo-European/LangFamily-Slavic.public|LangFamily-Slavic.public]] 
 
-### #is_/same_as :: [LangFamily-Slavic.internal](/_internal/Language/Language_Family/LangFamily-Indo-European/LangFamily-Slavic.internal.md) 
+### #is_/same_as :: [[/_internal/Language/Language_Family/LangFamily-Indo-European/LangFamily-Slavic.internal|LangFamily-Slavic.internal]] 
 
-### #is_/same_as :: [LangFamily-Slavic.protect](/_protect/Language/Language_Family/LangFamily-Indo-European/LangFamily-Slavic.protect.md) 
+### #is_/same_as :: [[/_protect/Language/Language_Family/LangFamily-Indo-European/LangFamily-Slavic.protect|LangFamily-Slavic.protect]] 
 
-### #is_/same_as :: [LangFamily-Slavic.private](/_private/Language/Language_Family/LangFamily-Indo-European/LangFamily-Slavic.private.md) 
+### #is_/same_as :: [[/_private/Language/Language_Family/LangFamily-Indo-European/LangFamily-Slavic.private|LangFamily-Slavic.private]] 
 
-### #is_/same_as :: [LangFamily-Slavic.personal](/_personal/Language/Language_Family/LangFamily-Indo-European/LangFamily-Slavic.personal.md) 
+### #is_/same_as :: [[/_personal/Language/Language_Family/LangFamily-Indo-European/LangFamily-Slavic.personal|LangFamily-Slavic.personal]] 
 
-### #is_/same_as :: [LangFamily-Slavic.secret](/_secret/Language/Language_Family/LangFamily-Indo-European/LangFamily-Slavic.secret.md)
+### #is_/same_as :: [[/_secret/Language/Language_Family/LangFamily-Indo-European/LangFamily-Slavic.secret|LangFamily-Slavic.secret]] 
 

@@ -37,17 +37,17 @@ A treatment of people with physical, emotional, or social problems, using purpos
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~OccupationalTherapy](/_Standards/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalProcedure/FileClass~TherapeuticProcedure/FileClass~MedicalTherapy/FileClass~OccupationalTherapy.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalProcedure/FileClass~TherapeuticProcedure/FileClass~MedicalTherapy/FileClass~OccupationalTherapy|FileClass~OccupationalTherapy]] 
 
-### #is_/same_as :: [FileClass~OccupationalTherapy.public](/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalProcedure/FileClass~TherapeuticProcedure/FileClass~MedicalTherapy/FileClass~OccupationalTherapy.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalProcedure/FileClass~TherapeuticProcedure/FileClass~MedicalTherapy/FileClass~OccupationalTherapy.public|FileClass~OccupationalTherapy.public]] 
 
-### #is_/same_as :: [FileClass~OccupationalTherapy.internal](/_internal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalProcedure/FileClass~TherapeuticProcedure/FileClass~MedicalTherapy/FileClass~OccupationalTherapy.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalProcedure/FileClass~TherapeuticProcedure/FileClass~MedicalTherapy/FileClass~OccupationalTherapy.internal|FileClass~OccupationalTherapy.internal]] 
 
-### #is_/same_as :: [FileClass~OccupationalTherapy.protect](/_protect/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalProcedure/FileClass~TherapeuticProcedure/FileClass~MedicalTherapy/FileClass~OccupationalTherapy.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalProcedure/FileClass~TherapeuticProcedure/FileClass~MedicalTherapy/FileClass~OccupationalTherapy.protect|FileClass~OccupationalTherapy.protect]] 
 
-### #is_/same_as :: [FileClass~OccupationalTherapy.private](/_private/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalProcedure/FileClass~TherapeuticProcedure/FileClass~MedicalTherapy/FileClass~OccupationalTherapy.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalProcedure/FileClass~TherapeuticProcedure/FileClass~MedicalTherapy/FileClass~OccupationalTherapy.private|FileClass~OccupationalTherapy.private]] 
 
-### #is_/same_as :: [FileClass~OccupationalTherapy.personal](/_personal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalProcedure/FileClass~TherapeuticProcedure/FileClass~MedicalTherapy/FileClass~OccupationalTherapy.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalProcedure/FileClass~TherapeuticProcedure/FileClass~MedicalTherapy/FileClass~OccupationalTherapy.personal|FileClass~OccupationalTherapy.personal]] 
 
-### #is_/same_as :: [FileClass~OccupationalTherapy.secret](/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalProcedure/FileClass~TherapeuticProcedure/FileClass~MedicalTherapy/FileClass~OccupationalTherapy.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalProcedure/FileClass~TherapeuticProcedure/FileClass~MedicalTherapy/FileClass~OccupationalTherapy.secret|FileClass~OccupationalTherapy.secret]] 
 

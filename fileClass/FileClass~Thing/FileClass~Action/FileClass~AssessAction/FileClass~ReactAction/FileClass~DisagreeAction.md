@@ -37,17 +37,17 @@ The act of expressing a difference of opinion with the object. An agent disagree
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~DisagreeAction](/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~ReactAction/FileClass~DisagreeAction.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~ReactAction/FileClass~DisagreeAction|FileClass~DisagreeAction]] 
 
-### #is_/same_as :: [FileClass~DisagreeAction.public](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~ReactAction/FileClass~DisagreeAction.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~ReactAction/FileClass~DisagreeAction.public|FileClass~DisagreeAction.public]] 
 
-### #is_/same_as :: [FileClass~DisagreeAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~ReactAction/FileClass~DisagreeAction.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~ReactAction/FileClass~DisagreeAction.internal|FileClass~DisagreeAction.internal]] 
 
-### #is_/same_as :: [FileClass~DisagreeAction.protect](/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~ReactAction/FileClass~DisagreeAction.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~ReactAction/FileClass~DisagreeAction.protect|FileClass~DisagreeAction.protect]] 
 
-### #is_/same_as :: [FileClass~DisagreeAction.private](/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~ReactAction/FileClass~DisagreeAction.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~ReactAction/FileClass~DisagreeAction.private|FileClass~DisagreeAction.private]] 
 
-### #is_/same_as :: [FileClass~DisagreeAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~ReactAction/FileClass~DisagreeAction.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~ReactAction/FileClass~DisagreeAction.personal|FileClass~DisagreeAction.personal]] 
 
-### #is_/same_as :: [FileClass~DisagreeAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~ReactAction/FileClass~DisagreeAction.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~ReactAction/FileClass~DisagreeAction.secret|FileClass~DisagreeAction.secret]] 
 

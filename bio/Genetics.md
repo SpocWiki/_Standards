@@ -71,17 +71,17 @@ topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Genetics,1104653
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Genetics](/_Standards/bio/Genetics.md) 
+### #is_/same_as :: [[/_Standards/bio/Genetics|Genetics]] 
 
-### #is_/same_as :: [Genetics.public](/_public/bio/Genetics.public.md) 
+### #is_/same_as :: [[/_public/bio/Genetics.public|Genetics.public]] 
 
-### #is_/same_as :: [Genetics.internal](/_internal/bio/Genetics.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Genetics.internal|Genetics.internal]] 
 
-### #is_/same_as :: [Genetics.protect](/_protect/bio/Genetics.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Genetics.protect|Genetics.protect]] 
 
-### #is_/same_as :: [Genetics.private](/_private/bio/Genetics.private.md) 
+### #is_/same_as :: [[/_private/bio/Genetics.private|Genetics.private]] 
 
-### #is_/same_as :: [Genetics.personal](/_personal/bio/Genetics.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Genetics.personal|Genetics.personal]] 
 
-### #is_/same_as :: [Genetics.secret](/_secret/bio/Genetics.secret.md)
+### #is_/same_as :: [[/_secret/bio/Genetics.secret|Genetics.secret]] 
 

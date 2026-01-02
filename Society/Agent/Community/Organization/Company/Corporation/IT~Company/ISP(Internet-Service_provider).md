@@ -20,17 +20,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [ISP(Internet-Service_provider)](/_Standards/Society/Agent/Community/Organization/Company/Corporation/IT~Company/ISP(Internet-Service_provider).md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Company/Corporation/IT~Company/ISP(Internet-Service_provider)|ISP(Internet-Service_provider)]] 
 
-### #is_/same_as :: [ISP(Internet-Service_provider).public](/_public/Society/Agent/Community/Organization/Company/Corporation/IT~Company/ISP(Internet-Service_provider).public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Company/Corporation/IT~Company/ISP(Internet-Service_provider).public|ISP(Internet-Service_provider).public]] 
 
-### #is_/same_as :: [ISP(Internet-Service_provider).internal](/_internal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/ISP(Internet-Service_provider).internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/ISP(Internet-Service_provider).internal|ISP(Internet-Service_provider).internal]] 
 
-### #is_/same_as :: [ISP(Internet-Service_provider).protect](/_protect/Society/Agent/Community/Organization/Company/Corporation/IT~Company/ISP(Internet-Service_provider).protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Company/Corporation/IT~Company/ISP(Internet-Service_provider).protect|ISP(Internet-Service_provider).protect]] 
 
-### #is_/same_as :: [ISP(Internet-Service_provider).private](/_private/Society/Agent/Community/Organization/Company/Corporation/IT~Company/ISP(Internet-Service_provider).private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Company/Corporation/IT~Company/ISP(Internet-Service_provider).private|ISP(Internet-Service_provider).private]] 
 
-### #is_/same_as :: [ISP(Internet-Service_provider).personal](/_personal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/ISP(Internet-Service_provider).personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/ISP(Internet-Service_provider).personal|ISP(Internet-Service_provider).personal]] 
 
-### #is_/same_as :: [ISP(Internet-Service_provider).secret](/_secret/Society/Agent/Community/Organization/Company/Corporation/IT~Company/ISP(Internet-Service_provider).secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Company/Corporation/IT~Company/ISP(Internet-Service_provider).secret|ISP(Internet-Service_provider).secret]] 
 

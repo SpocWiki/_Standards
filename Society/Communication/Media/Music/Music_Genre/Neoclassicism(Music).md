@@ -25,3 +25,22 @@ facet_of: "[[_Standards/WikiData/WD~neoclassical_music,106576145]]"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Neoclassicism%20(music)) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Music_Genre/Neoclassicism(Music)|Neoclassicism(Music)]] 
+
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Music_Genre/Neoclassicism(Music).public|Neoclassicism(Music).public]] 
+
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Music_Genre/Neoclassicism(Music).internal|Neoclassicism(Music).internal]] 
+
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Music_Genre/Neoclassicism(Music).protect|Neoclassicism(Music).protect]] 
+
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Music_Genre/Neoclassicism(Music).private|Neoclassicism(Music).private]] 
+
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Music_Genre/Neoclassicism(Music).personal|Neoclassicism(Music).personal]] 
+
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Music_Genre/Neoclassicism(Music).secret|Neoclassicism(Music).secret]] 
+

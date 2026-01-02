@@ -103,3 +103,22 @@ Libris_URI: 31fjpsbm0dmm76g
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Sitting%20Bull) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~North/USA/History_of_the_USA/Sitting_Bull|Sitting_Bull]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/America~North/USA/History_of_the_USA/Sitting_Bull.public|Sitting_Bull.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/America~North/USA/History_of_the_USA/Sitting_Bull.internal|Sitting_Bull.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/America~North/USA/History_of_the_USA/Sitting_Bull.protect|Sitting_Bull.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/America~North/USA/History_of_the_USA/Sitting_Bull.private|Sitting_Bull.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/America~North/USA/History_of_the_USA/Sitting_Bull.personal|Sitting_Bull.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/America~North/USA/History_of_the_USA/Sitting_Bull.secret|Sitting_Bull.secret]] 
+

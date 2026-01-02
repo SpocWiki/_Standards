@@ -80,17 +80,17 @@ Wolfram_Language_unit_code: '"Yen"'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Yen,Japanese](/_Standards/Society/Economics/Currency/Yen,Japanese.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Currency/Yen,Japanese|Yen,Japanese]] 
 
-### #is_/same_as :: [Yen,Japanese.public](/_public/Society/Economics/Currency/Yen,Japanese.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Currency/Yen,Japanese.public|Yen,Japanese.public]] 
 
-### #is_/same_as :: [Yen,Japanese.internal](/_internal/Society/Economics/Currency/Yen,Japanese.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Currency/Yen,Japanese.internal|Yen,Japanese.internal]] 
 
-### #is_/same_as :: [Yen,Japanese.protect](/_protect/Society/Economics/Currency/Yen,Japanese.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Currency/Yen,Japanese.protect|Yen,Japanese.protect]] 
 
-### #is_/same_as :: [Yen,Japanese.private](/_private/Society/Economics/Currency/Yen,Japanese.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Currency/Yen,Japanese.private|Yen,Japanese.private]] 
 
-### #is_/same_as :: [Yen,Japanese.personal](/_personal/Society/Economics/Currency/Yen,Japanese.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Currency/Yen,Japanese.personal|Yen,Japanese.personal]] 
 
-### #is_/same_as :: [Yen,Japanese.secret](/_secret/Society/Economics/Currency/Yen,Japanese.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Currency/Yen,Japanese.secret|Yen,Japanese.secret]] 
 

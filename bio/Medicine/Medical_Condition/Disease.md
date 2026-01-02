@@ -113,17 +113,17 @@ Wolfram_Language_entity_type: Disease
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Disease](/_Standards/bio/Medicine/Medical_Condition/Disease.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Condition/Disease|Disease]] 
 
-### #is_/same_as :: [Disease.public](/_public/bio/Medicine/Medical_Condition/Disease.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Condition/Disease.public|Disease.public]] 
 
-### #is_/same_as :: [Disease.internal](/_internal/bio/Medicine/Medical_Condition/Disease.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Condition/Disease.internal|Disease.internal]] 
 
-### #is_/same_as :: [Disease.protect](/_protect/bio/Medicine/Medical_Condition/Disease.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Condition/Disease.protect|Disease.protect]] 
 
-### #is_/same_as :: [Disease.private](/_private/bio/Medicine/Medical_Condition/Disease.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Condition/Disease.private|Disease.private]] 
 
-### #is_/same_as :: [Disease.personal](/_personal/bio/Medicine/Medical_Condition/Disease.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Condition/Disease.personal|Disease.personal]] 
 
-### #is_/same_as :: [Disease.secret](/_secret/bio/Medicine/Medical_Condition/Disease.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Condition/Disease.secret|Disease.secret]] 
 

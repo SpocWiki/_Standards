@@ -85,7 +85,7 @@ relationship of Hologalegina to the Millettioids sens. lat. clade.
 ## Title Illustrations
 
 --------------------------- 
-![Pisum sativum](Hologalegina/Pisum_sativum.jpg))
+![Pisum sativum](Hologalegina/Pisum_sativum.jpg) 
 Scientific Name ::     Pisum sativum L.
 Specimen Condition   Live Specimen
 Copyright ::            © [H. Schneider](http://www.biologie.uni-hamburg.de/b-online/e02/02.htm)
@@ -97,24 +97,24 @@ Location ::        Mount Ord, AZ
 Copyright ::         © [Martin F. Wojciechowski](http://www.public.asu.edu/%7Emfwojci/) 
 
 ----------------------------------------- 
-![lotus_corniculatus](Hologalegina/lotus_corniculatus.jpg))
+![lotus_corniculatus](Hologalegina/lotus_corniculatus.jpg) 
 Scientific Name ::  Lotus corniculatus L.
 Copyright ::         © [Franco Tobias](http://serc.fiu.edu/periphyton/periphyton/factwebpage/Franco%27s%20photo%20webpage/Main%20page.htm)
 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hologalegina](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Papilionoideae/Hologalegina.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Papilionoideae/Hologalegina|Hologalegina]] 
 
-### #is_/same_as :: [Hologalegina.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Papilionoideae/Hologalegina.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Papilionoideae/Hologalegina.public|Hologalegina.public]] 
 
-### #is_/same_as :: [Hologalegina.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Papilionoideae/Hologalegina.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Papilionoideae/Hologalegina.internal|Hologalegina.internal]] 
 
-### #is_/same_as :: [Hologalegina.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Papilionoideae/Hologalegina.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Papilionoideae/Hologalegina.protect|Hologalegina.protect]] 
 
-### #is_/same_as :: [Hologalegina.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Papilionoideae/Hologalegina.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Papilionoideae/Hologalegina.private|Hologalegina.private]] 
 
-### #is_/same_as :: [Hologalegina.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Papilionoideae/Hologalegina.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Papilionoideae/Hologalegina.personal|Hologalegina.personal]] 
 
-### #is_/same_as :: [Hologalegina.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Papilionoideae/Hologalegina.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Papilionoideae/Hologalegina.secret|Hologalegina.secret]] 
 

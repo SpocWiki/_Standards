@@ -50,17 +50,17 @@ Commons_category: Anvils
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Anvil](/_Standards/Chemistry/Material/Metallurgy/Anvil.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Material/Metallurgy/Anvil|Anvil]] 
 
-### #is_/same_as :: [Anvil.public](/_public/Chemistry/Material/Metallurgy/Anvil.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Material/Metallurgy/Anvil.public|Anvil.public]] 
 
-### #is_/same_as :: [Anvil.internal](/_internal/Chemistry/Material/Metallurgy/Anvil.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Material/Metallurgy/Anvil.internal|Anvil.internal]] 
 
-### #is_/same_as :: [Anvil.protect](/_protect/Chemistry/Material/Metallurgy/Anvil.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Material/Metallurgy/Anvil.protect|Anvil.protect]] 
 
-### #is_/same_as :: [Anvil.private](/_private/Chemistry/Material/Metallurgy/Anvil.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Material/Metallurgy/Anvil.private|Anvil.private]] 
 
-### #is_/same_as :: [Anvil.personal](/_personal/Chemistry/Material/Metallurgy/Anvil.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Material/Metallurgy/Anvil.personal|Anvil.personal]] 
 
-### #is_/same_as :: [Anvil.secret](/_secret/Chemistry/Material/Metallurgy/Anvil.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Material/Metallurgy/Anvil.secret|Anvil.secret]] 
 

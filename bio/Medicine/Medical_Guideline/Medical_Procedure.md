@@ -62,17 +62,17 @@ A process of care used in either a diagnostic, therapeutic, preventive or pallia
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Medical_Procedure](/_Standards/bio/Medicine/Medical_Guideline/Medical_Procedure.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Guideline/Medical_Procedure|Medical_Procedure]] 
 
-### #is_/same_as :: [Medical_Procedure.public](/_public/bio/Medicine/Medical_Guideline/Medical_Procedure.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Guideline/Medical_Procedure.public|Medical_Procedure.public]] 
 
-### #is_/same_as :: [Medical_Procedure.internal](/_internal/bio/Medicine/Medical_Guideline/Medical_Procedure.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Guideline/Medical_Procedure.internal|Medical_Procedure.internal]] 
 
-### #is_/same_as :: [Medical_Procedure.protect](/_protect/bio/Medicine/Medical_Guideline/Medical_Procedure.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Guideline/Medical_Procedure.protect|Medical_Procedure.protect]] 
 
-### #is_/same_as :: [Medical_Procedure.private](/_private/bio/Medicine/Medical_Guideline/Medical_Procedure.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Guideline/Medical_Procedure.private|Medical_Procedure.private]] 
 
-### #is_/same_as :: [Medical_Procedure.personal](/_personal/bio/Medicine/Medical_Guideline/Medical_Procedure.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Guideline/Medical_Procedure.personal|Medical_Procedure.personal]] 
 
-### #is_/same_as :: [Medical_Procedure.secret](/_secret/bio/Medicine/Medical_Guideline/Medical_Procedure.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Guideline/Medical_Procedure.secret|Medical_Procedure.secret]] 
 

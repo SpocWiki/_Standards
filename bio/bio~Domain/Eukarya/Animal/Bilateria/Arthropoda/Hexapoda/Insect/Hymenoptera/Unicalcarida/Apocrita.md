@@ -39,17 +39,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Apocrita](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Hymenoptera/Unicalcarida/Apocrita.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Hymenoptera/Unicalcarida/Apocrita|Apocrita]] 
 
-### #is_/same_as :: [Apocrita.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Hymenoptera/Unicalcarida/Apocrita.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Hymenoptera/Unicalcarida/Apocrita.public|Apocrita.public]] 
 
-### #is_/same_as :: [Apocrita.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Hymenoptera/Unicalcarida/Apocrita.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Hymenoptera/Unicalcarida/Apocrita.internal|Apocrita.internal]] 
 
-### #is_/same_as :: [Apocrita.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Hymenoptera/Unicalcarida/Apocrita.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Hymenoptera/Unicalcarida/Apocrita.protect|Apocrita.protect]] 
 
-### #is_/same_as :: [Apocrita.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Hymenoptera/Unicalcarida/Apocrita.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Hymenoptera/Unicalcarida/Apocrita.private|Apocrita.private]] 
 
-### #is_/same_as :: [Apocrita.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Hymenoptera/Unicalcarida/Apocrita.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Hymenoptera/Unicalcarida/Apocrita.personal|Apocrita.personal]] 
 
-### #is_/same_as :: [Apocrita.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Hymenoptera/Unicalcarida/Apocrita.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Hymenoptera/Unicalcarida/Apocrita.secret|Apocrita.secret]] 
 

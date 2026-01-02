@@ -70,17 +70,17 @@ Drug:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Me
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~TherapeuticProcedure](/_Standards/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalProcedure/FileClass~TherapeuticProcedure.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalProcedure/FileClass~TherapeuticProcedure|FileClass~TherapeuticProcedure]] 
 
-### #is_/same_as :: [FileClass~TherapeuticProcedure.public](/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalProcedure/FileClass~TherapeuticProcedure.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalProcedure/FileClass~TherapeuticProcedure.public|FileClass~TherapeuticProcedure.public]] 
 
-### #is_/same_as :: [FileClass~TherapeuticProcedure.internal](/_internal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalProcedure/FileClass~TherapeuticProcedure.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalProcedure/FileClass~TherapeuticProcedure.internal|FileClass~TherapeuticProcedure.internal]] 
 
-### #is_/same_as :: [FileClass~TherapeuticProcedure.protect](/_protect/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalProcedure/FileClass~TherapeuticProcedure.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalProcedure/FileClass~TherapeuticProcedure.protect|FileClass~TherapeuticProcedure.protect]] 
 
-### #is_/same_as :: [FileClass~TherapeuticProcedure.private](/_private/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalProcedure/FileClass~TherapeuticProcedure.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalProcedure/FileClass~TherapeuticProcedure.private|FileClass~TherapeuticProcedure.private]] 
 
-### #is_/same_as :: [FileClass~TherapeuticProcedure.personal](/_personal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalProcedure/FileClass~TherapeuticProcedure.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalProcedure/FileClass~TherapeuticProcedure.personal|FileClass~TherapeuticProcedure.personal]] 
 
-### #is_/same_as :: [FileClass~TherapeuticProcedure.secret](/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalProcedure/FileClass~TherapeuticProcedure.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalProcedure/FileClass~TherapeuticProcedure.secret|FileClass~TherapeuticProcedure.secret]] 
 

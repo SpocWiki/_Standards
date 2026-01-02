@@ -48,17 +48,17 @@ OmegaWiki_Defined_Meaning: 687700
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Soliloquy](/_Standards/Society/Communication/Media/Performing_Arts/Theater/Soliloquy.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Performing_Arts/Theater/Soliloquy|Soliloquy]] 
 
-### #is_/same_as :: [Soliloquy.public](/_public/Society/Communication/Media/Performing_Arts/Theater/Soliloquy.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Performing_Arts/Theater/Soliloquy.public|Soliloquy.public]] 
 
-### #is_/same_as :: [Soliloquy.internal](/_internal/Society/Communication/Media/Performing_Arts/Theater/Soliloquy.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Performing_Arts/Theater/Soliloquy.internal|Soliloquy.internal]] 
 
-### #is_/same_as :: [Soliloquy.protect](/_protect/Society/Communication/Media/Performing_Arts/Theater/Soliloquy.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Performing_Arts/Theater/Soliloquy.protect|Soliloquy.protect]] 
 
-### #is_/same_as :: [Soliloquy.private](/_private/Society/Communication/Media/Performing_Arts/Theater/Soliloquy.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Performing_Arts/Theater/Soliloquy.private|Soliloquy.private]] 
 
-### #is_/same_as :: [Soliloquy.personal](/_personal/Society/Communication/Media/Performing_Arts/Theater/Soliloquy.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Performing_Arts/Theater/Soliloquy.personal|Soliloquy.personal]] 
 
-### #is_/same_as :: [Soliloquy.secret](/_secret/Society/Communication/Media/Performing_Arts/Theater/Soliloquy.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Performing_Arts/Theater/Soliloquy.secret|Soliloquy.secret]] 
 

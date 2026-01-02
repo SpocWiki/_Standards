@@ -27,17 +27,17 @@ Commons_category: Spontaneous symmetry breaking
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Spontaneous_Symmetry_Breaking](/_Standards/Science/Physics/Quantum_Mechanics/Spontaneous_Symmetry_Breaking.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Quantum_Mechanics/Spontaneous_Symmetry_Breaking|Spontaneous_Symmetry_Breaking]] 
 
-### #is_/same_as :: [Spontaneous_Symmetry_Breaking.public](/_public/Science/Physics/Quantum_Mechanics/Spontaneous_Symmetry_Breaking.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Quantum_Mechanics/Spontaneous_Symmetry_Breaking.public|Spontaneous_Symmetry_Breaking.public]] 
 
-### #is_/same_as :: [Spontaneous_Symmetry_Breaking.internal](/_internal/Science/Physics/Quantum_Mechanics/Spontaneous_Symmetry_Breaking.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Quantum_Mechanics/Spontaneous_Symmetry_Breaking.internal|Spontaneous_Symmetry_Breaking.internal]] 
 
-### #is_/same_as :: [Spontaneous_Symmetry_Breaking.protect](/_protect/Science/Physics/Quantum_Mechanics/Spontaneous_Symmetry_Breaking.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Quantum_Mechanics/Spontaneous_Symmetry_Breaking.protect|Spontaneous_Symmetry_Breaking.protect]] 
 
-### #is_/same_as :: [Spontaneous_Symmetry_Breaking.private](/_private/Science/Physics/Quantum_Mechanics/Spontaneous_Symmetry_Breaking.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Quantum_Mechanics/Spontaneous_Symmetry_Breaking.private|Spontaneous_Symmetry_Breaking.private]] 
 
-### #is_/same_as :: [Spontaneous_Symmetry_Breaking.personal](/_personal/Science/Physics/Quantum_Mechanics/Spontaneous_Symmetry_Breaking.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Quantum_Mechanics/Spontaneous_Symmetry_Breaking.personal|Spontaneous_Symmetry_Breaking.personal]] 
 
-### #is_/same_as :: [Spontaneous_Symmetry_Breaking.secret](/_secret/Science/Physics/Quantum_Mechanics/Spontaneous_Symmetry_Breaking.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Quantum_Mechanics/Spontaneous_Symmetry_Breaking.secret|Spontaneous_Symmetry_Breaking.secret]] 
 

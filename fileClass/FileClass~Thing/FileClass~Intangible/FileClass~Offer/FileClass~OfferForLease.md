@@ -39,17 +39,17 @@ An [[OfferForLease]] in Schema.org represents an [[../../../../Society/Agent/Com
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~OfferForLease](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Offer/FileClass~OfferForLease.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Offer/FileClass~OfferForLease|FileClass~OfferForLease]] 
 
-### #is_/same_as :: [FileClass~OfferForLease.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Offer/FileClass~OfferForLease.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Offer/FileClass~OfferForLease.public|FileClass~OfferForLease.public]] 
 
-### #is_/same_as :: [FileClass~OfferForLease.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Offer/FileClass~OfferForLease.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Offer/FileClass~OfferForLease.internal|FileClass~OfferForLease.internal]] 
 
-### #is_/same_as :: [FileClass~OfferForLease.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Offer/FileClass~OfferForLease.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Offer/FileClass~OfferForLease.protect|FileClass~OfferForLease.protect]] 
 
-### #is_/same_as :: [FileClass~OfferForLease.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Offer/FileClass~OfferForLease.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Offer/FileClass~OfferForLease.private|FileClass~OfferForLease.private]] 
 
-### #is_/same_as :: [FileClass~OfferForLease.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Offer/FileClass~OfferForLease.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Offer/FileClass~OfferForLease.personal|FileClass~OfferForLease.personal]] 
 
-### #is_/same_as :: [FileClass~OfferForLease.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Offer/FileClass~OfferForLease.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Offer/FileClass~OfferForLease.secret|FileClass~OfferForLease.secret]] 
 

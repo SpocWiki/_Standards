@@ -112,17 +112,17 @@ depicts_Iconclass_notation: 61BB2(Lisa del Giocondo)11
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Mona_Lisa](/_Standards/Society/Communication/Media/Painting/Painter/Vinci,Leonardo_da/Mona_Lisa.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Painting/Painter/Vinci,Leonardo_da/Mona_Lisa|Mona_Lisa]] 
 
-### #is_/same_as :: [Mona_Lisa.public](/_public/Society/Communication/Media/Painting/Painter/Vinci,Leonardo_da/Mona_Lisa.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Painting/Painter/Vinci,Leonardo_da/Mona_Lisa.public|Mona_Lisa.public]] 
 
-### #is_/same_as :: [Mona_Lisa.internal](/_internal/Society/Communication/Media/Painting/Painter/Vinci,Leonardo_da/Mona_Lisa.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Painting/Painter/Vinci,Leonardo_da/Mona_Lisa.internal|Mona_Lisa.internal]] 
 
-### #is_/same_as :: [Mona_Lisa.protect](/_protect/Society/Communication/Media/Painting/Painter/Vinci,Leonardo_da/Mona_Lisa.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Painting/Painter/Vinci,Leonardo_da/Mona_Lisa.protect|Mona_Lisa.protect]] 
 
-### #is_/same_as :: [Mona_Lisa.private](/_private/Society/Communication/Media/Painting/Painter/Vinci,Leonardo_da/Mona_Lisa.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Painting/Painter/Vinci,Leonardo_da/Mona_Lisa.private|Mona_Lisa.private]] 
 
-### #is_/same_as :: [Mona_Lisa.personal](/_personal/Society/Communication/Media/Painting/Painter/Vinci,Leonardo_da/Mona_Lisa.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Painting/Painter/Vinci,Leonardo_da/Mona_Lisa.personal|Mona_Lisa.personal]] 
 
-### #is_/same_as :: [Mona_Lisa.secret](/_secret/Society/Communication/Media/Painting/Painter/Vinci,Leonardo_da/Mona_Lisa.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Painting/Painter/Vinci,Leonardo_da/Mona_Lisa.secret|Mona_Lisa.secret]] 
 

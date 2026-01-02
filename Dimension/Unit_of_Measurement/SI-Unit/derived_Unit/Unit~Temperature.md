@@ -4,17 +4,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Unit~Temperature](/_Standards/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Temperature.md) 
+### #is_/same_as :: [[/_Standards/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Temperature|Unit~Temperature]] 
 
-### #is_/same_as :: [Unit~Temperature.public](/_public/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Temperature.public.md) 
+### #is_/same_as :: [[/_public/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Temperature.public|Unit~Temperature.public]] 
 
-### #is_/same_as :: [Unit~Temperature.internal](/_internal/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Temperature.internal.md) 
+### #is_/same_as :: [[/_internal/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Temperature.internal|Unit~Temperature.internal]] 
 
-### #is_/same_as :: [Unit~Temperature.protect](/_protect/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Temperature.protect.md) 
+### #is_/same_as :: [[/_protect/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Temperature.protect|Unit~Temperature.protect]] 
 
-### #is_/same_as :: [Unit~Temperature.private](/_private/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Temperature.private.md) 
+### #is_/same_as :: [[/_private/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Temperature.private|Unit~Temperature.private]] 
 
-### #is_/same_as :: [Unit~Temperature.personal](/_personal/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Temperature.personal.md) 
+### #is_/same_as :: [[/_personal/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Temperature.personal|Unit~Temperature.personal]] 
 
-### #is_/same_as :: [Unit~Temperature.secret](/_secret/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Temperature.secret.md)
+### #is_/same_as :: [[/_secret/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Temperature.secret|Unit~Temperature.secret]] 
 

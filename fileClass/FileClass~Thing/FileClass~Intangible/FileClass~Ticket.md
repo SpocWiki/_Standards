@@ -129,17 +129,17 @@ UnderName:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thi
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~Ticket](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Ticket.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Ticket|FileClass~Ticket]] 
 
-### #is_/same_as :: [FileClass~Ticket.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Ticket.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Ticket.public|FileClass~Ticket.public]] 
 
-### #is_/same_as :: [FileClass~Ticket.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Ticket.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Ticket.internal|FileClass~Ticket.internal]] 
 
-### #is_/same_as :: [FileClass~Ticket.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Ticket.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Ticket.protect|FileClass~Ticket.protect]] 
 
-### #is_/same_as :: [FileClass~Ticket.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Ticket.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Ticket.private|FileClass~Ticket.private]] 
 
-### #is_/same_as :: [FileClass~Ticket.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Ticket.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Ticket.personal|FileClass~Ticket.personal]] 
 
-### #is_/same_as :: [FileClass~Ticket.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Ticket.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Ticket.secret|FileClass~Ticket.secret]] 
 

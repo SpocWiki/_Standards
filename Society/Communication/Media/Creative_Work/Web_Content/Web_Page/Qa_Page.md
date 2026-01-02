@@ -41,17 +41,17 @@ A QAPage is a WebPage focussed on a specific Question and its Answer(s), e.g. in
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Qa_Page](/_Standards/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Qa_Page.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Qa_Page|Qa_Page]] 
 
-### #is_/same_as :: [Qa_Page.public](/_public/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Qa_Page.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Qa_Page.public|Qa_Page.public]] 
 
-### #is_/same_as :: [Qa_Page.internal](/_internal/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Qa_Page.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Qa_Page.internal|Qa_Page.internal]] 
 
-### #is_/same_as :: [Qa_Page.protect](/_protect/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Qa_Page.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Qa_Page.protect|Qa_Page.protect]] 
 
-### #is_/same_as :: [Qa_Page.private](/_private/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Qa_Page.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Qa_Page.private|Qa_Page.private]] 
 
-### #is_/same_as :: [Qa_Page.personal](/_personal/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Qa_Page.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Qa_Page.personal|Qa_Page.personal]] 
 
-### #is_/same_as :: [Qa_Page.secret](/_secret/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Qa_Page.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Qa_Page.secret|Qa_Page.secret]] 
 

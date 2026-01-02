@@ -36,17 +36,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [War_Elephant](/_Standards/Society/Military/Military_Organization/Cavalry/War_Elephant.md) 
+### #is_/same_as :: [[/_Standards/Society/Military/Military_Organization/Cavalry/War_Elephant|War_Elephant]] 
 
-### #is_/same_as :: [War_Elephant.public](/_public/Society/Military/Military_Organization/Cavalry/War_Elephant.public.md) 
+### #is_/same_as :: [[/_public/Society/Military/Military_Organization/Cavalry/War_Elephant.public|War_Elephant.public]] 
 
-### #is_/same_as :: [War_Elephant.internal](/_internal/Society/Military/Military_Organization/Cavalry/War_Elephant.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Military/Military_Organization/Cavalry/War_Elephant.internal|War_Elephant.internal]] 
 
-### #is_/same_as :: [War_Elephant.protect](/_protect/Society/Military/Military_Organization/Cavalry/War_Elephant.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Military/Military_Organization/Cavalry/War_Elephant.protect|War_Elephant.protect]] 
 
-### #is_/same_as :: [War_Elephant.private](/_private/Society/Military/Military_Organization/Cavalry/War_Elephant.private.md) 
+### #is_/same_as :: [[/_private/Society/Military/Military_Organization/Cavalry/War_Elephant.private|War_Elephant.private]] 
 
-### #is_/same_as :: [War_Elephant.personal](/_personal/Society/Military/Military_Organization/Cavalry/War_Elephant.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Military/Military_Organization/Cavalry/War_Elephant.personal|War_Elephant.personal]] 
 
-### #is_/same_as :: [War_Elephant.secret](/_secret/Society/Military/Military_Organization/Cavalry/War_Elephant.secret.md)
+### #is_/same_as :: [[/_secret/Society/Military/Military_Organization/Cavalry/War_Elephant.secret|War_Elephant.secret]] 
 

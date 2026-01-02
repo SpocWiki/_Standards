@@ -50,17 +50,17 @@ coordinate_location: Point(-8.0 15.66666667)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [0200-Ghana_Empire+1200](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Late_Antiquity/0200-Ghana_Empire+1200.md) 
+### #is_/same_as :: [[/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Late_Antiquity/0200-Ghana_Empire+1200|0200-Ghana_Empire+1200]] 
 
-### #is_/same_as :: [0200-Ghana_Empire+1200.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Late_Antiquity/0200-Ghana_Empire+1200.public.md) 
+### #is_/same_as :: [[/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Late_Antiquity/0200-Ghana_Empire+1200.public|0200-Ghana_Empire+1200.public]] 
 
-### #is_/same_as :: [0200-Ghana_Empire+1200.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Late_Antiquity/0200-Ghana_Empire+1200.internal.md) 
+### #is_/same_as :: [[/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Late_Antiquity/0200-Ghana_Empire+1200.internal|0200-Ghana_Empire+1200.internal]] 
 
-### #is_/same_as :: [0200-Ghana_Empire+1200.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Late_Antiquity/0200-Ghana_Empire+1200.protect.md) 
+### #is_/same_as :: [[/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Late_Antiquity/0200-Ghana_Empire+1200.protect|0200-Ghana_Empire+1200.protect]] 
 
-### #is_/same_as :: [0200-Ghana_Empire+1200.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Late_Antiquity/0200-Ghana_Empire+1200.private.md) 
+### #is_/same_as :: [[/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Late_Antiquity/0200-Ghana_Empire+1200.private|0200-Ghana_Empire+1200.private]] 
 
-### #is_/same_as :: [0200-Ghana_Empire+1200.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Late_Antiquity/0200-Ghana_Empire+1200.personal.md) 
+### #is_/same_as :: [[/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Late_Antiquity/0200-Ghana_Empire+1200.personal|0200-Ghana_Empire+1200.personal]] 
 
-### #is_/same_as :: [0200-Ghana_Empire+1200.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Late_Antiquity/0200-Ghana_Empire+1200.secret.md)
+### #is_/same_as :: [[/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Late_Antiquity/0200-Ghana_Empire+1200.secret|0200-Ghana_Empire+1200.secret]] 
 

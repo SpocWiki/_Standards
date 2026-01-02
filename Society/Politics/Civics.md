@@ -38,17 +38,17 @@ Library_of_Congress_Classification: LB1139.5.S64
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Civics](/_Standards/Society/Politics/Civics.md) 
+### #is_/same_as :: [[/_Standards/Society/Politics/Civics|Civics]] 
 
-### #is_/same_as :: [Civics.public](/_public/Society/Politics/Civics.public.md) 
+### #is_/same_as :: [[/_public/Society/Politics/Civics.public|Civics.public]] 
 
-### #is_/same_as :: [Civics.internal](/_internal/Society/Politics/Civics.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Politics/Civics.internal|Civics.internal]] 
 
-### #is_/same_as :: [Civics.protect](/_protect/Society/Politics/Civics.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Politics/Civics.protect|Civics.protect]] 
 
-### #is_/same_as :: [Civics.private](/_private/Society/Politics/Civics.private.md) 
+### #is_/same_as :: [[/_private/Society/Politics/Civics.private|Civics.private]] 
 
-### #is_/same_as :: [Civics.personal](/_personal/Society/Politics/Civics.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Politics/Civics.personal|Civics.personal]] 
 
-### #is_/same_as :: [Civics.secret](/_secret/Society/Politics/Civics.secret.md)
+### #is_/same_as :: [[/_secret/Society/Politics/Civics.secret|Civics.secret]] 
 

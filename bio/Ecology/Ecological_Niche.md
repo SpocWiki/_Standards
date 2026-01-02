@@ -65,17 +65,17 @@ Wolfram_Language_entity_code: Entity["Concept", "EcologicalNiche::b7cbh"]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ecological_Niche](/_Standards/bio/Ecology/Ecological_Niche.md) 
+### #is_/same_as :: [[/_Standards/bio/Ecology/Ecological_Niche|Ecological_Niche]] 
 
-### #is_/same_as :: [Ecological_Niche.public](/_public/bio/Ecology/Ecological_Niche.public.md) 
+### #is_/same_as :: [[/_public/bio/Ecology/Ecological_Niche.public|Ecological_Niche.public]] 
 
-### #is_/same_as :: [Ecological_Niche.internal](/_internal/bio/Ecology/Ecological_Niche.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Ecology/Ecological_Niche.internal|Ecological_Niche.internal]] 
 
-### #is_/same_as :: [Ecological_Niche.protect](/_protect/bio/Ecology/Ecological_Niche.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Ecology/Ecological_Niche.protect|Ecological_Niche.protect]] 
 
-### #is_/same_as :: [Ecological_Niche.private](/_private/bio/Ecology/Ecological_Niche.private.md) 
+### #is_/same_as :: [[/_private/bio/Ecology/Ecological_Niche.private|Ecological_Niche.private]] 
 
-### #is_/same_as :: [Ecological_Niche.personal](/_personal/bio/Ecology/Ecological_Niche.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Ecology/Ecological_Niche.personal|Ecological_Niche.personal]] 
 
-### #is_/same_as :: [Ecological_Niche.secret](/_secret/bio/Ecology/Ecological_Niche.secret.md)
+### #is_/same_as :: [[/_secret/bio/Ecology/Ecological_Niche.secret|Ecological_Niche.secret]] 
 

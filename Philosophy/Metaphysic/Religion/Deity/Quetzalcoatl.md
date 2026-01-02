@@ -79,17 +79,17 @@ Iconclass_notation: 12R13(QUETZALCOATL)12
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Quetzalcoatl](/_Standards/Philosophy/Metaphysic/Religion/Deity/Quetzalcoatl.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Deity/Quetzalcoatl|Quetzalcoatl]] 
 
-### #is_/same_as :: [Quetzalcoatl.public](/_public/Philosophy/Metaphysic/Religion/Deity/Quetzalcoatl.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Deity/Quetzalcoatl.public|Quetzalcoatl.public]] 
 
-### #is_/same_as :: [Quetzalcoatl.internal](/_internal/Philosophy/Metaphysic/Religion/Deity/Quetzalcoatl.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Deity/Quetzalcoatl.internal|Quetzalcoatl.internal]] 
 
-### #is_/same_as :: [Quetzalcoatl.protect](/_protect/Philosophy/Metaphysic/Religion/Deity/Quetzalcoatl.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Deity/Quetzalcoatl.protect|Quetzalcoatl.protect]] 
 
-### #is_/same_as :: [Quetzalcoatl.private](/_private/Philosophy/Metaphysic/Religion/Deity/Quetzalcoatl.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Deity/Quetzalcoatl.private|Quetzalcoatl.private]] 
 
-### #is_/same_as :: [Quetzalcoatl.personal](/_personal/Philosophy/Metaphysic/Religion/Deity/Quetzalcoatl.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Deity/Quetzalcoatl.personal|Quetzalcoatl.personal]] 
 
-### #is_/same_as :: [Quetzalcoatl.secret](/_secret/Philosophy/Metaphysic/Religion/Deity/Quetzalcoatl.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Deity/Quetzalcoatl.secret|Quetzalcoatl.secret]] 
 

@@ -41,17 +41,17 @@ A condition or factor that serves as a reason to withhold a certain medical ther
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Medical_Contraindication](/_Standards/bio/Medicine/Medical_Entity/Medical_Contraindication.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Entity/Medical_Contraindication|Medical_Contraindication]] 
 
-### #is_/same_as :: [Medical_Contraindication.public](/_public/bio/Medicine/Medical_Entity/Medical_Contraindication.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Entity/Medical_Contraindication.public|Medical_Contraindication.public]] 
 
-### #is_/same_as :: [Medical_Contraindication.internal](/_internal/bio/Medicine/Medical_Entity/Medical_Contraindication.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Entity/Medical_Contraindication.internal|Medical_Contraindication.internal]] 
 
-### #is_/same_as :: [Medical_Contraindication.protect](/_protect/bio/Medicine/Medical_Entity/Medical_Contraindication.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Entity/Medical_Contraindication.protect|Medical_Contraindication.protect]] 
 
-### #is_/same_as :: [Medical_Contraindication.private](/_private/bio/Medicine/Medical_Entity/Medical_Contraindication.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Entity/Medical_Contraindication.private|Medical_Contraindication.private]] 
 
-### #is_/same_as :: [Medical_Contraindication.personal](/_personal/bio/Medicine/Medical_Entity/Medical_Contraindication.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Entity/Medical_Contraindication.personal|Medical_Contraindication.personal]] 
 
-### #is_/same_as :: [Medical_Contraindication.secret](/_secret/bio/Medicine/Medical_Entity/Medical_Contraindication.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Entity/Medical_Contraindication.secret|Medical_Contraindication.secret]] 
 

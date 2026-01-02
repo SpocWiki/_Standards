@@ -136,17 +136,17 @@ official_website: https://www.nba.com/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [NBA(National_Basketball_Association)](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Basketball/NBA(National_Basketball_Association).md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Basketball/NBA(National_Basketball_Association)|NBA(National_Basketball_Association)]] 
 
-### #is_/same_as :: [NBA(National_Basketball_Association).public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Basketball/NBA(National_Basketball_Association).public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Basketball/NBA(National_Basketball_Association).public|NBA(National_Basketball_Association).public]] 
 
-### #is_/same_as :: [NBA(National_Basketball_Association).internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Basketball/NBA(National_Basketball_Association).internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Basketball/NBA(National_Basketball_Association).internal|NBA(National_Basketball_Association).internal]] 
 
-### #is_/same_as :: [NBA(National_Basketball_Association).protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Basketball/NBA(National_Basketball_Association).protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Basketball/NBA(National_Basketball_Association).protect|NBA(National_Basketball_Association).protect]] 
 
-### #is_/same_as :: [NBA(National_Basketball_Association).private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Basketball/NBA(National_Basketball_Association).private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Basketball/NBA(National_Basketball_Association).private|NBA(National_Basketball_Association).private]] 
 
-### #is_/same_as :: [NBA(National_Basketball_Association).personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Basketball/NBA(National_Basketball_Association).personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Basketball/NBA(National_Basketball_Association).personal|NBA(National_Basketball_Association).personal]] 
 
-### #is_/same_as :: [NBA(National_Basketball_Association).secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Basketball/NBA(National_Basketball_Association).secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Basketball/NBA(National_Basketball_Association).secret|NBA(National_Basketball_Association).secret]] 
 

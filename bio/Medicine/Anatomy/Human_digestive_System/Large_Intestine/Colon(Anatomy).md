@@ -54,17 +54,17 @@ Commons_category: Human colon
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Colon(Anatomy)](/_Standards/bio/Medicine/Anatomy/Human_digestive_System/Large_Intestine/Colon(Anatomy).md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Anatomy/Human_digestive_System/Large_Intestine/Colon(Anatomy)|Colon(Anatomy)]] 
 
-### #is_/same_as :: [Colon(Anatomy).public](/_public/bio/Medicine/Anatomy/Human_digestive_System/Large_Intestine/Colon(Anatomy).public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Anatomy/Human_digestive_System/Large_Intestine/Colon(Anatomy).public|Colon(Anatomy).public]] 
 
-### #is_/same_as :: [Colon(Anatomy).internal](/_internal/bio/Medicine/Anatomy/Human_digestive_System/Large_Intestine/Colon(Anatomy).internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Anatomy/Human_digestive_System/Large_Intestine/Colon(Anatomy).internal|Colon(Anatomy).internal]] 
 
-### #is_/same_as :: [Colon(Anatomy).protect](/_protect/bio/Medicine/Anatomy/Human_digestive_System/Large_Intestine/Colon(Anatomy).protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Anatomy/Human_digestive_System/Large_Intestine/Colon(Anatomy).protect|Colon(Anatomy).protect]] 
 
-### #is_/same_as :: [Colon(Anatomy).private](/_private/bio/Medicine/Anatomy/Human_digestive_System/Large_Intestine/Colon(Anatomy).private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Anatomy/Human_digestive_System/Large_Intestine/Colon(Anatomy).private|Colon(Anatomy).private]] 
 
-### #is_/same_as :: [Colon(Anatomy).personal](/_personal/bio/Medicine/Anatomy/Human_digestive_System/Large_Intestine/Colon(Anatomy).personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Anatomy/Human_digestive_System/Large_Intestine/Colon(Anatomy).personal|Colon(Anatomy).personal]] 
 
-### #is_/same_as :: [Colon(Anatomy).secret](/_secret/bio/Medicine/Anatomy/Human_digestive_System/Large_Intestine/Colon(Anatomy).secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Anatomy/Human_digestive_System/Large_Intestine/Colon(Anatomy).secret|Colon(Anatomy).secret]] 
 

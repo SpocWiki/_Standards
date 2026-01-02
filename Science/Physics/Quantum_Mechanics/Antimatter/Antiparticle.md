@@ -41,17 +41,17 @@ Commons_category: Antiparticles
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Antiparticle](/_Standards/Science/Physics/Quantum_Mechanics/Antimatter/Antiparticle.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Quantum_Mechanics/Antimatter/Antiparticle|Antiparticle]] 
 
-### #is_/same_as :: [Antiparticle.public](/_public/Science/Physics/Quantum_Mechanics/Antimatter/Antiparticle.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Quantum_Mechanics/Antimatter/Antiparticle.public|Antiparticle.public]] 
 
-### #is_/same_as :: [Antiparticle.internal](/_internal/Science/Physics/Quantum_Mechanics/Antimatter/Antiparticle.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Quantum_Mechanics/Antimatter/Antiparticle.internal|Antiparticle.internal]] 
 
-### #is_/same_as :: [Antiparticle.protect](/_protect/Science/Physics/Quantum_Mechanics/Antimatter/Antiparticle.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Quantum_Mechanics/Antimatter/Antiparticle.protect|Antiparticle.protect]] 
 
-### #is_/same_as :: [Antiparticle.private](/_private/Science/Physics/Quantum_Mechanics/Antimatter/Antiparticle.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Quantum_Mechanics/Antimatter/Antiparticle.private|Antiparticle.private]] 
 
-### #is_/same_as :: [Antiparticle.personal](/_personal/Science/Physics/Quantum_Mechanics/Antimatter/Antiparticle.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Quantum_Mechanics/Antimatter/Antiparticle.personal|Antiparticle.personal]] 
 
-### #is_/same_as :: [Antiparticle.secret](/_secret/Science/Physics/Quantum_Mechanics/Antimatter/Antiparticle.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Quantum_Mechanics/Antimatter/Antiparticle.secret|Antiparticle.secret]] 
 

@@ -50,17 +50,17 @@ Commons_category: Money of the People's Republic of China
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [yuan](/_Standards/Society/Economics/Currency/yuan.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Currency/yuan|yuan]] 
 
-### #is_/same_as :: [yuan.public](/_public/Society/Economics/Currency/yuan.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Currency/yuan.public|yuan.public]] 
 
-### #is_/same_as :: [yuan.internal](/_internal/Society/Economics/Currency/yuan.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Currency/yuan.internal|yuan.internal]] 
 
-### #is_/same_as :: [yuan.protect](/_protect/Society/Economics/Currency/yuan.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Currency/yuan.protect|yuan.protect]] 
 
-### #is_/same_as :: [yuan.private](/_private/Society/Economics/Currency/yuan.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Currency/yuan.private|yuan.private]] 
 
-### #is_/same_as :: [yuan.personal](/_personal/Society/Economics/Currency/yuan.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Currency/yuan.personal|yuan.personal]] 
 
-### #is_/same_as :: [yuan.secret](/_secret/Society/Economics/Currency/yuan.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Currency/yuan.secret|yuan.secret]] 
 

@@ -57,17 +57,17 @@ OpenStreetMap_tag: amenity=printer
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Printer(Computing)](/_Standards/Technology/IT/Computer_Hardware/Peripheral/Printer(Computing).md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Computer_Hardware/Peripheral/Printer(Computing)|Printer(Computing)]] 
 
-### #is_/same_as :: [Printer(Computing).public](/_public/Technology/IT/Computer_Hardware/Peripheral/Printer(Computing).public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Computer_Hardware/Peripheral/Printer(Computing).public|Printer(Computing).public]] 
 
-### #is_/same_as :: [Printer(Computing).internal](/_internal/Technology/IT/Computer_Hardware/Peripheral/Printer(Computing).internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Computer_Hardware/Peripheral/Printer(Computing).internal|Printer(Computing).internal]] 
 
-### #is_/same_as :: [Printer(Computing).protect](/_protect/Technology/IT/Computer_Hardware/Peripheral/Printer(Computing).protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Computer_Hardware/Peripheral/Printer(Computing).protect|Printer(Computing).protect]] 
 
-### #is_/same_as :: [Printer(Computing).private](/_private/Technology/IT/Computer_Hardware/Peripheral/Printer(Computing).private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Computer_Hardware/Peripheral/Printer(Computing).private|Printer(Computing).private]] 
 
-### #is_/same_as :: [Printer(Computing).personal](/_personal/Technology/IT/Computer_Hardware/Peripheral/Printer(Computing).personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Computer_Hardware/Peripheral/Printer(Computing).personal|Printer(Computing).personal]] 
 
-### #is_/same_as :: [Printer(Computing).secret](/_secret/Technology/IT/Computer_Hardware/Peripheral/Printer(Computing).secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Computer_Hardware/Peripheral/Printer(Computing).secret|Printer(Computing).secret]] 
 

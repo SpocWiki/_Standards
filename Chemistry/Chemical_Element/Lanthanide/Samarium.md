@@ -101,17 +101,17 @@ UNII: 42OD65L39F
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Samarium](/_Standards/Chemistry/Chemical_Element/Lanthanide/Samarium.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Chemical_Element/Lanthanide/Samarium|Samarium]] 
 
-### #is_/same_as :: [Samarium.public](/_public/Chemistry/Chemical_Element/Lanthanide/Samarium.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Chemical_Element/Lanthanide/Samarium.public|Samarium.public]] 
 
-### #is_/same_as :: [Samarium.internal](/_internal/Chemistry/Chemical_Element/Lanthanide/Samarium.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Chemical_Element/Lanthanide/Samarium.internal|Samarium.internal]] 
 
-### #is_/same_as :: [Samarium.protect](/_protect/Chemistry/Chemical_Element/Lanthanide/Samarium.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Chemical_Element/Lanthanide/Samarium.protect|Samarium.protect]] 
 
-### #is_/same_as :: [Samarium.private](/_private/Chemistry/Chemical_Element/Lanthanide/Samarium.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Chemical_Element/Lanthanide/Samarium.private|Samarium.private]] 
 
-### #is_/same_as :: [Samarium.personal](/_personal/Chemistry/Chemical_Element/Lanthanide/Samarium.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Chemical_Element/Lanthanide/Samarium.personal|Samarium.personal]] 
 
-### #is_/same_as :: [Samarium.secret](/_secret/Chemistry/Chemical_Element/Lanthanide/Samarium.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Chemical_Element/Lanthanide/Samarium.secret|Samarium.secret]] 
 

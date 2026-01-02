@@ -72,17 +72,17 @@ video: http://commons.wikimedia.org/wiki/Special:FilePath/Aerial%20drone%20chase
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Train](/_Standards/Technology/Transport/Rail_Transport/Train.md) 
+### #is_/same_as :: [[/_Standards/Technology/Transport/Rail_Transport/Train|Train]] 
 
-### #is_/same_as :: [Train.public](/_public/Technology/Transport/Rail_Transport/Train.public.md) 
+### #is_/same_as :: [[/_public/Technology/Transport/Rail_Transport/Train.public|Train.public]] 
 
-### #is_/same_as :: [Train.internal](/_internal/Technology/Transport/Rail_Transport/Train.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Transport/Rail_Transport/Train.internal|Train.internal]] 
 
-### #is_/same_as :: [Train.protect](/_protect/Technology/Transport/Rail_Transport/Train.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Transport/Rail_Transport/Train.protect|Train.protect]] 
 
-### #is_/same_as :: [Train.private](/_private/Technology/Transport/Rail_Transport/Train.private.md) 
+### #is_/same_as :: [[/_private/Technology/Transport/Rail_Transport/Train.private|Train.private]] 
 
-### #is_/same_as :: [Train.personal](/_personal/Technology/Transport/Rail_Transport/Train.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Transport/Rail_Transport/Train.personal|Train.personal]] 
 
-### #is_/same_as :: [Train.secret](/_secret/Technology/Transport/Rail_Transport/Train.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Transport/Rail_Transport/Train.secret|Train.secret]] 
 

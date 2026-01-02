@@ -49,17 +49,17 @@ UMLS_CUI: C0036623
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Semiconductor](/_Standards/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Semiconductor.md) 
+### #is_/same_as :: [[/_Standards/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Semiconductor|Semiconductor]] 
 
-### #is_/same_as :: [Semiconductor.public](/_public/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Semiconductor.public.md) 
+### #is_/same_as :: [[/_public/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Semiconductor.public|Semiconductor.public]] 
 
-### #is_/same_as :: [Semiconductor.internal](/_internal/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Semiconductor.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Semiconductor.internal|Semiconductor.internal]] 
 
-### #is_/same_as :: [Semiconductor.protect](/_protect/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Semiconductor.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Semiconductor.protect|Semiconductor.protect]] 
 
-### #is_/same_as :: [Semiconductor.private](/_private/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Semiconductor.private.md) 
+### #is_/same_as :: [[/_private/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Semiconductor.private|Semiconductor.private]] 
 
-### #is_/same_as :: [Semiconductor.personal](/_personal/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Semiconductor.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Semiconductor.personal|Semiconductor.personal]] 
 
-### #is_/same_as :: [Semiconductor.secret](/_secret/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Semiconductor.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Semiconductor.secret|Semiconductor.secret]] 
 

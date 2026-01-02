@@ -43,17 +43,17 @@ Car repair, sales, or parts.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Automotive_Business](/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Automotive_Business.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Automotive_Business|Automotive_Business]] 
 
-### #is_/same_as :: [Automotive_Business.public](/_public/Society/Agent/Community/Organization/Business/Local_Business/Automotive_Business.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Business/Local_Business/Automotive_Business.public|Automotive_Business.public]] 
 
-### #is_/same_as :: [Automotive_Business.internal](/_internal/Society/Agent/Community/Organization/Business/Local_Business/Automotive_Business.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Business/Local_Business/Automotive_Business.internal|Automotive_Business.internal]] 
 
-### #is_/same_as :: [Automotive_Business.protect](/_protect/Society/Agent/Community/Organization/Business/Local_Business/Automotive_Business.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Business/Local_Business/Automotive_Business.protect|Automotive_Business.protect]] 
 
-### #is_/same_as :: [Automotive_Business.private](/_private/Society/Agent/Community/Organization/Business/Local_Business/Automotive_Business.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Business/Local_Business/Automotive_Business.private|Automotive_Business.private]] 
 
-### #is_/same_as :: [Automotive_Business.personal](/_personal/Society/Agent/Community/Organization/Business/Local_Business/Automotive_Business.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Business/Local_Business/Automotive_Business.personal|Automotive_Business.personal]] 
 
-### #is_/same_as :: [Automotive_Business.secret](/_secret/Society/Agent/Community/Organization/Business/Local_Business/Automotive_Business.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Business/Local_Business/Automotive_Business.secret|Automotive_Business.secret]] 
 

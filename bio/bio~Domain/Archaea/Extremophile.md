@@ -46,17 +46,17 @@ Commons_category: Extremophiles
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Extremophile](/_Standards/bio/bio~Domain/Archaea/Extremophile.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Archaea/Extremophile|Extremophile]] 
 
-### #is_/same_as :: [Extremophile.public](/_public/bio/bio~Domain/Archaea/Extremophile.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Archaea/Extremophile.public|Extremophile.public]] 
 
-### #is_/same_as :: [Extremophile.internal](/_internal/bio/bio~Domain/Archaea/Extremophile.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Archaea/Extremophile.internal|Extremophile.internal]] 
 
-### #is_/same_as :: [Extremophile.protect](/_protect/bio/bio~Domain/Archaea/Extremophile.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Archaea/Extremophile.protect|Extremophile.protect]] 
 
-### #is_/same_as :: [Extremophile.private](/_private/bio/bio~Domain/Archaea/Extremophile.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Archaea/Extremophile.private|Extremophile.private]] 
 
-### #is_/same_as :: [Extremophile.personal](/_personal/bio/bio~Domain/Archaea/Extremophile.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Archaea/Extremophile.personal|Extremophile.personal]] 
 
-### #is_/same_as :: [Extremophile.secret](/_secret/bio/bio~Domain/Archaea/Extremophile.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Archaea/Extremophile.secret|Extremophile.secret]] 
 

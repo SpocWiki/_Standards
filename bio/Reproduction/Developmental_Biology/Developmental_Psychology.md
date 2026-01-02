@@ -64,17 +64,17 @@ MeSH_tree_code: F04.096.628.270
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Developmental_Psychology](/_Standards/bio/Reproduction/Developmental_Biology/Developmental_Psychology.md) 
+### #is_/same_as :: [[/_Standards/bio/Reproduction/Developmental_Biology/Developmental_Psychology|Developmental_Psychology]] 
 
-### #is_/same_as :: [Developmental_Psychology.public](/_public/bio/Reproduction/Developmental_Biology/Developmental_Psychology.public.md) 
+### #is_/same_as :: [[/_public/bio/Reproduction/Developmental_Biology/Developmental_Psychology.public|Developmental_Psychology.public]] 
 
-### #is_/same_as :: [Developmental_Psychology.internal](/_internal/bio/Reproduction/Developmental_Biology/Developmental_Psychology.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Reproduction/Developmental_Biology/Developmental_Psychology.internal|Developmental_Psychology.internal]] 
 
-### #is_/same_as :: [Developmental_Psychology.protect](/_protect/bio/Reproduction/Developmental_Biology/Developmental_Psychology.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Reproduction/Developmental_Biology/Developmental_Psychology.protect|Developmental_Psychology.protect]] 
 
-### #is_/same_as :: [Developmental_Psychology.private](/_private/bio/Reproduction/Developmental_Biology/Developmental_Psychology.private.md) 
+### #is_/same_as :: [[/_private/bio/Reproduction/Developmental_Biology/Developmental_Psychology.private|Developmental_Psychology.private]] 
 
-### #is_/same_as :: [Developmental_Psychology.personal](/_personal/bio/Reproduction/Developmental_Biology/Developmental_Psychology.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Reproduction/Developmental_Biology/Developmental_Psychology.personal|Developmental_Psychology.personal]] 
 
-### #is_/same_as :: [Developmental_Psychology.secret](/_secret/bio/Reproduction/Developmental_Biology/Developmental_Psychology.secret.md)
+### #is_/same_as :: [[/_secret/bio/Reproduction/Developmental_Biology/Developmental_Psychology.secret|Developmental_Psychology.secret]] 
 

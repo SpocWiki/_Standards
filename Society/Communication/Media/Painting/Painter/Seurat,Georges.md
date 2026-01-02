@@ -159,17 +159,17 @@ ISNI: 0000000108559616
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Seurat,Georges](/_Standards/Society/Communication/Media/Painting/Painter/Seurat,Georges.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Painting/Painter/Seurat,Georges|Seurat,Georges]] 
 
-### #is_/same_as :: [Seurat,Georges.public](/_public/Society/Communication/Media/Painting/Painter/Seurat,Georges.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Painting/Painter/Seurat,Georges.public|Seurat,Georges.public]] 
 
-### #is_/same_as :: [Seurat,Georges.internal](/_internal/Society/Communication/Media/Painting/Painter/Seurat,Georges.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Painting/Painter/Seurat,Georges.internal|Seurat,Georges.internal]] 
 
-### #is_/same_as :: [Seurat,Georges.protect](/_protect/Society/Communication/Media/Painting/Painter/Seurat,Georges.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Painting/Painter/Seurat,Georges.protect|Seurat,Georges.protect]] 
 
-### #is_/same_as :: [Seurat,Georges.private](/_private/Society/Communication/Media/Painting/Painter/Seurat,Georges.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Painting/Painter/Seurat,Georges.private|Seurat,Georges.private]] 
 
-### #is_/same_as :: [Seurat,Georges.personal](/_personal/Society/Communication/Media/Painting/Painter/Seurat,Georges.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Painting/Painter/Seurat,Georges.personal|Seurat,Georges.personal]] 
 
-### #is_/same_as :: [Seurat,Georges.secret](/_secret/Society/Communication/Media/Painting/Painter/Seurat,Georges.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Painting/Painter/Seurat,Georges.secret|Seurat,Georges.secret]] 
 

@@ -26,17 +26,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Max_and_Moritz](/_Standards/Society/Communication/Media/Writing/Book/Writer/German_Writer/Busch,Wilhelm/Max_and_Moritz.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Writer/German_Writer/Busch,Wilhelm/Max_and_Moritz|Max_and_Moritz]] 
 
-### #is_/same_as :: [Max_and_Moritz.public](/_public/Society/Communication/Media/Writing/Book/Writer/German_Writer/Busch,Wilhelm/Max_and_Moritz.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Writer/German_Writer/Busch,Wilhelm/Max_and_Moritz.public|Max_and_Moritz.public]] 
 
-### #is_/same_as :: [Max_and_Moritz.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/German_Writer/Busch,Wilhelm/Max_and_Moritz.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Writer/German_Writer/Busch,Wilhelm/Max_and_Moritz.internal|Max_and_Moritz.internal]] 
 
-### #is_/same_as :: [Max_and_Moritz.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/German_Writer/Busch,Wilhelm/Max_and_Moritz.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Writer/German_Writer/Busch,Wilhelm/Max_and_Moritz.protect|Max_and_Moritz.protect]] 
 
-### #is_/same_as :: [Max_and_Moritz.private](/_private/Society/Communication/Media/Writing/Book/Writer/German_Writer/Busch,Wilhelm/Max_and_Moritz.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Writer/German_Writer/Busch,Wilhelm/Max_and_Moritz.private|Max_and_Moritz.private]] 
 
-### #is_/same_as :: [Max_and_Moritz.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/German_Writer/Busch,Wilhelm/Max_and_Moritz.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Writer/German_Writer/Busch,Wilhelm/Max_and_Moritz.personal|Max_and_Moritz.personal]] 
 
-### #is_/same_as :: [Max_and_Moritz.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/German_Writer/Busch,Wilhelm/Max_and_Moritz.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Writer/German_Writer/Busch,Wilhelm/Max_and_Moritz.secret|Max_and_Moritz.secret]] 
 

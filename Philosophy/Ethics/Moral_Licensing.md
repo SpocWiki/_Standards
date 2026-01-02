@@ -60,17 +60,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Moral_Licensing](/_Standards/Philosophy/Ethics/Moral_Licensing.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Ethics/Moral_Licensing|Moral_Licensing]] 
 
-### #is_/same_as :: [Moral_Licensing.public](/_public/Philosophy/Ethics/Moral_Licensing.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Ethics/Moral_Licensing.public|Moral_Licensing.public]] 
 
-### #is_/same_as :: [Moral_Licensing.internal](/_internal/Philosophy/Ethics/Moral_Licensing.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Ethics/Moral_Licensing.internal|Moral_Licensing.internal]] 
 
-### #is_/same_as :: [Moral_Licensing.protect](/_protect/Philosophy/Ethics/Moral_Licensing.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Ethics/Moral_Licensing.protect|Moral_Licensing.protect]] 
 
-### #is_/same_as :: [Moral_Licensing.private](/_private/Philosophy/Ethics/Moral_Licensing.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Ethics/Moral_Licensing.private|Moral_Licensing.private]] 
 
-### #is_/same_as :: [Moral_Licensing.personal](/_personal/Philosophy/Ethics/Moral_Licensing.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Ethics/Moral_Licensing.personal|Moral_Licensing.personal]] 
 
-### #is_/same_as :: [Moral_Licensing.secret](/_secret/Philosophy/Ethics/Moral_Licensing.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Ethics/Moral_Licensing.secret|Moral_Licensing.secret]] 
 

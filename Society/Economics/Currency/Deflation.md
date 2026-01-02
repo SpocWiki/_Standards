@@ -37,17 +37,17 @@ IPTC_NewsCode: mediatopic/20000356
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Deflation](/_Standards/Society/Economics/Currency/Deflation.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Currency/Deflation|Deflation]] 
 
-### #is_/same_as :: [Deflation.public](/_public/Society/Economics/Currency/Deflation.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Currency/Deflation.public|Deflation.public]] 
 
-### #is_/same_as :: [Deflation.internal](/_internal/Society/Economics/Currency/Deflation.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Currency/Deflation.internal|Deflation.internal]] 
 
-### #is_/same_as :: [Deflation.protect](/_protect/Society/Economics/Currency/Deflation.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Currency/Deflation.protect|Deflation.protect]] 
 
-### #is_/same_as :: [Deflation.private](/_private/Society/Economics/Currency/Deflation.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Currency/Deflation.private|Deflation.private]] 
 
-### #is_/same_as :: [Deflation.personal](/_personal/Society/Economics/Currency/Deflation.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Currency/Deflation.personal|Deflation.personal]] 
 
-### #is_/same_as :: [Deflation.secret](/_secret/Society/Economics/Currency/Deflation.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Currency/Deflation.secret|Deflation.secret]] 
 

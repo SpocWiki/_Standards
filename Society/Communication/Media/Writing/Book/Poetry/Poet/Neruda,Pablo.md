@@ -168,17 +168,17 @@ Google_Doodle: pablo-nerudas-birthday
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Neruda,Pablo](/_Standards/Society/Communication/Media/Writing/Book/Poetry/Poet/Neruda,Pablo.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Poetry/Poet/Neruda,Pablo|Neruda,Pablo]] 
 
-### #is_/same_as :: [Neruda,Pablo.public](/_public/Society/Communication/Media/Writing/Book/Poetry/Poet/Neruda,Pablo.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Poetry/Poet/Neruda,Pablo.public|Neruda,Pablo.public]] 
 
-### #is_/same_as :: [Neruda,Pablo.internal](/_internal/Society/Communication/Media/Writing/Book/Poetry/Poet/Neruda,Pablo.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Poetry/Poet/Neruda,Pablo.internal|Neruda,Pablo.internal]] 
 
-### #is_/same_as :: [Neruda,Pablo.protect](/_protect/Society/Communication/Media/Writing/Book/Poetry/Poet/Neruda,Pablo.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Poetry/Poet/Neruda,Pablo.protect|Neruda,Pablo.protect]] 
 
-### #is_/same_as :: [Neruda,Pablo.private](/_private/Society/Communication/Media/Writing/Book/Poetry/Poet/Neruda,Pablo.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Poetry/Poet/Neruda,Pablo.private|Neruda,Pablo.private]] 
 
-### #is_/same_as :: [Neruda,Pablo.personal](/_personal/Society/Communication/Media/Writing/Book/Poetry/Poet/Neruda,Pablo.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Poetry/Poet/Neruda,Pablo.personal|Neruda,Pablo.personal]] 
 
-### #is_/same_as :: [Neruda,Pablo.secret](/_secret/Society/Communication/Media/Writing/Book/Poetry/Poet/Neruda,Pablo.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Poetry/Poet/Neruda,Pablo.secret|Neruda,Pablo.secret]] 
 

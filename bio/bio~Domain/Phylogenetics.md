@@ -40,17 +40,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Phylogenetics](/_Standards/bio/bio~Domain/Phylogenetics.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Phylogenetics|Phylogenetics]] 
 
-### #is_/same_as :: [Phylogenetics.public](/_public/bio/bio~Domain/Phylogenetics.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Phylogenetics.public|Phylogenetics.public]] 
 
-### #is_/same_as :: [Phylogenetics.internal](/_internal/bio/bio~Domain/Phylogenetics.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Phylogenetics.internal|Phylogenetics.internal]] 
 
-### #is_/same_as :: [Phylogenetics.protect](/_protect/bio/bio~Domain/Phylogenetics.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Phylogenetics.protect|Phylogenetics.protect]] 
 
-### #is_/same_as :: [Phylogenetics.private](/_private/bio/bio~Domain/Phylogenetics.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Phylogenetics.private|Phylogenetics.private]] 
 
-### #is_/same_as :: [Phylogenetics.personal](/_personal/bio/bio~Domain/Phylogenetics.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Phylogenetics.personal|Phylogenetics.personal]] 
 
-### #is_/same_as :: [Phylogenetics.secret](/_secret/bio/bio~Domain/Phylogenetics.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Phylogenetics.secret|Phylogenetics.secret]] 
 

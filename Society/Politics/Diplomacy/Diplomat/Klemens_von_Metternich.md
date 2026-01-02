@@ -159,17 +159,17 @@ Royal_Academy_new_identifier: clemens-lothar-wenzel-prince-metternich
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Klemens_von_Metternich](/_Standards/Society/Politics/Diplomacy/Diplomat/Klemens_von_Metternich.md) 
+### #is_/same_as :: [[/_Standards/Society/Politics/Diplomacy/Diplomat/Klemens_von_Metternich|Klemens_von_Metternich]] 
 
-### #is_/same_as :: [Klemens_von_Metternich.public](/_public/Society/Politics/Diplomacy/Diplomat/Klemens_von_Metternich.public.md) 
+### #is_/same_as :: [[/_public/Society/Politics/Diplomacy/Diplomat/Klemens_von_Metternich.public|Klemens_von_Metternich.public]] 
 
-### #is_/same_as :: [Klemens_von_Metternich.internal](/_internal/Society/Politics/Diplomacy/Diplomat/Klemens_von_Metternich.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Politics/Diplomacy/Diplomat/Klemens_von_Metternich.internal|Klemens_von_Metternich.internal]] 
 
-### #is_/same_as :: [Klemens_von_Metternich.protect](/_protect/Society/Politics/Diplomacy/Diplomat/Klemens_von_Metternich.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Politics/Diplomacy/Diplomat/Klemens_von_Metternich.protect|Klemens_von_Metternich.protect]] 
 
-### #is_/same_as :: [Klemens_von_Metternich.private](/_private/Society/Politics/Diplomacy/Diplomat/Klemens_von_Metternich.private.md) 
+### #is_/same_as :: [[/_private/Society/Politics/Diplomacy/Diplomat/Klemens_von_Metternich.private|Klemens_von_Metternich.private]] 
 
-### #is_/same_as :: [Klemens_von_Metternich.personal](/_personal/Society/Politics/Diplomacy/Diplomat/Klemens_von_Metternich.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Politics/Diplomacy/Diplomat/Klemens_von_Metternich.personal|Klemens_von_Metternich.personal]] 
 
-### #is_/same_as :: [Klemens_von_Metternich.secret](/_secret/Society/Politics/Diplomacy/Diplomat/Klemens_von_Metternich.secret.md)
+### #is_/same_as :: [[/_secret/Society/Politics/Diplomacy/Diplomat/Klemens_von_Metternich.secret|Klemens_von_Metternich.secret]] 
 

@@ -142,17 +142,17 @@ ISNI: 0000000121441268
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Montaigne,Michel_de](/_Standards/Philosophy/Philosopher/Montaigne,Michel_de.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Philosopher/Montaigne,Michel_de|Montaigne,Michel_de]] 
 
-### #is_/same_as :: [Montaigne,Michel_de.public](/_public/Philosophy/Philosopher/Montaigne,Michel_de.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Philosopher/Montaigne,Michel_de.public|Montaigne,Michel_de.public]] 
 
-### #is_/same_as :: [Montaigne,Michel_de.internal](/_internal/Philosophy/Philosopher/Montaigne,Michel_de.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Philosopher/Montaigne,Michel_de.internal|Montaigne,Michel_de.internal]] 
 
-### #is_/same_as :: [Montaigne,Michel_de.protect](/_protect/Philosophy/Philosopher/Montaigne,Michel_de.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Philosopher/Montaigne,Michel_de.protect|Montaigne,Michel_de.protect]] 
 
-### #is_/same_as :: [Montaigne,Michel_de.private](/_private/Philosophy/Philosopher/Montaigne,Michel_de.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Philosopher/Montaigne,Michel_de.private|Montaigne,Michel_de.private]] 
 
-### #is_/same_as :: [Montaigne,Michel_de.personal](/_personal/Philosophy/Philosopher/Montaigne,Michel_de.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Philosopher/Montaigne,Michel_de.personal|Montaigne,Michel_de.personal]] 
 
-### #is_/same_as :: [Montaigne,Michel_de.secret](/_secret/Philosophy/Philosopher/Montaigne,Michel_de.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Philosopher/Montaigne,Michel_de.secret|Montaigne,Michel_de.secret]] 
 

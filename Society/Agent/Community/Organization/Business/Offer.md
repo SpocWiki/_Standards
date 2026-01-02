@@ -45,17 +45,17 @@ For <a href="http://www.gs1.org/barcodes/technical/idkeys/gtin">GTIN</a>-related
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Offer](/_Standards/Society/Agent/Community/Organization/Business/Offer.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Business/Offer|Offer]] 
 
-### #is_/same_as :: [Offer.public](/_public/Society/Agent/Community/Organization/Business/Offer.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Business/Offer.public|Offer.public]] 
 
-### #is_/same_as :: [Offer.internal](/_internal/Society/Agent/Community/Organization/Business/Offer.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Business/Offer.internal|Offer.internal]] 
 
-### #is_/same_as :: [Offer.protect](/_protect/Society/Agent/Community/Organization/Business/Offer.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Business/Offer.protect|Offer.protect]] 
 
-### #is_/same_as :: [Offer.private](/_private/Society/Agent/Community/Organization/Business/Offer.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Business/Offer.private|Offer.private]] 
 
-### #is_/same_as :: [Offer.personal](/_personal/Society/Agent/Community/Organization/Business/Offer.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Business/Offer.personal|Offer.personal]] 
 
-### #is_/same_as :: [Offer.secret](/_secret/Society/Agent/Community/Organization/Business/Offer.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Business/Offer.secret|Offer.secret]] 
 

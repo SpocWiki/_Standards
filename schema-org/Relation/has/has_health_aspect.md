@@ -44,17 +44,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_health_aspect](/_Standards/schema-org/Relation/has/has_health_aspect.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_health_aspect|has_health_aspect]] 
 
-### #is_/same_as :: [has_health_aspect.public](/_public/schema-org/Relation/has/has_health_aspect.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_health_aspect.public|has_health_aspect.public]] 
 
-### #is_/same_as :: [has_health_aspect.internal](/_internal/schema-org/Relation/has/has_health_aspect.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_health_aspect.internal|has_health_aspect.internal]] 
 
-### #is_/same_as :: [has_health_aspect.protect](/_protect/schema-org/Relation/has/has_health_aspect.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_health_aspect.protect|has_health_aspect.protect]] 
 
-### #is_/same_as :: [has_health_aspect.private](/_private/schema-org/Relation/has/has_health_aspect.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_health_aspect.private|has_health_aspect.private]] 
 
-### #is_/same_as :: [has_health_aspect.personal](/_personal/schema-org/Relation/has/has_health_aspect.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_health_aspect.personal|has_health_aspect.personal]] 
 
-### #is_/same_as :: [has_health_aspect.secret](/_secret/schema-org/Relation/has/has_health_aspect.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_health_aspect.secret|has_health_aspect.secret]] 
 

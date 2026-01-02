@@ -45,17 +45,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_ticket_token](/_Standards/schema-org/Property/has_name/has_ticket_token.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_name/has_ticket_token|has_ticket_token]] 
 
-### #is_/same_as :: [has_ticket_token.public](/_public/schema-org/Property/has_name/has_ticket_token.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/has_name/has_ticket_token.public|has_ticket_token.public]] 
 
-### #is_/same_as :: [has_ticket_token.internal](/_internal/schema-org/Property/has_name/has_ticket_token.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_name/has_ticket_token.internal|has_ticket_token.internal]] 
 
-### #is_/same_as :: [has_ticket_token.protect](/_protect/schema-org/Property/has_name/has_ticket_token.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_name/has_ticket_token.protect|has_ticket_token.protect]] 
 
-### #is_/same_as :: [has_ticket_token.private](/_private/schema-org/Property/has_name/has_ticket_token.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/has_name/has_ticket_token.private|has_ticket_token.private]] 
 
-### #is_/same_as :: [has_ticket_token.personal](/_personal/schema-org/Property/has_name/has_ticket_token.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_name/has_ticket_token.personal|has_ticket_token.personal]] 
 
-### #is_/same_as :: [has_ticket_token.secret](/_secret/schema-org/Property/has_name/has_ticket_token.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/has_name/has_ticket_token.secret|has_ticket_token.secret]] 
 

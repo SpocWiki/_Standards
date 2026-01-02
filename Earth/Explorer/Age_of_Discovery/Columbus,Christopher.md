@@ -153,17 +153,17 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Ridolfo%20del%20Ghirla
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Columbus,Christopher](/_Standards/Earth/Explorer/Age_of_Discovery/Columbus,Christopher.md) 
+### #is_/same_as :: [[/_Standards/Earth/Explorer/Age_of_Discovery/Columbus,Christopher|Columbus,Christopher]] 
 
-### #is_/same_as :: [Columbus,Christopher.public](/_public/Earth/Explorer/Age_of_Discovery/Columbus,Christopher.public.md) 
+### #is_/same_as :: [[/_public/Earth/Explorer/Age_of_Discovery/Columbus,Christopher.public|Columbus,Christopher.public]] 
 
-### #is_/same_as :: [Columbus,Christopher.internal](/_internal/Earth/Explorer/Age_of_Discovery/Columbus,Christopher.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Explorer/Age_of_Discovery/Columbus,Christopher.internal|Columbus,Christopher.internal]] 
 
-### #is_/same_as :: [Columbus,Christopher.protect](/_protect/Earth/Explorer/Age_of_Discovery/Columbus,Christopher.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Explorer/Age_of_Discovery/Columbus,Christopher.protect|Columbus,Christopher.protect]] 
 
-### #is_/same_as :: [Columbus,Christopher.private](/_private/Earth/Explorer/Age_of_Discovery/Columbus,Christopher.private.md) 
+### #is_/same_as :: [[/_private/Earth/Explorer/Age_of_Discovery/Columbus,Christopher.private|Columbus,Christopher.private]] 
 
-### #is_/same_as :: [Columbus,Christopher.personal](/_personal/Earth/Explorer/Age_of_Discovery/Columbus,Christopher.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Explorer/Age_of_Discovery/Columbus,Christopher.personal|Columbus,Christopher.personal]] 
 
-### #is_/same_as :: [Columbus,Christopher.secret](/_secret/Earth/Explorer/Age_of_Discovery/Columbus,Christopher.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Explorer/Age_of_Discovery/Columbus,Christopher.secret|Columbus,Christopher.secret]] 
 

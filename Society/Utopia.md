@@ -64,17 +64,17 @@ Dewey_Decimal_Classification: "321.07"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Utopia](/_Standards/Society/Utopia.md) 
+### #is_/same_as :: [[/_Standards/Society/Utopia|Utopia]] 
 
-### #is_/same_as :: [Utopia.public](/_public/Society/Utopia.public.md) 
+### #is_/same_as :: [[/_public/Society/Utopia.public|Utopia.public]] 
 
-### #is_/same_as :: [Utopia.internal](/_internal/Society/Utopia.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Utopia.internal|Utopia.internal]] 
 
-### #is_/same_as :: [Utopia.protect](/_protect/Society/Utopia.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Utopia.protect|Utopia.protect]] 
 
-### #is_/same_as :: [Utopia.private](/_private/Society/Utopia.private.md) 
+### #is_/same_as :: [[/_private/Society/Utopia.private|Utopia.private]] 
 
-### #is_/same_as :: [Utopia.personal](/_personal/Society/Utopia.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Utopia.personal|Utopia.personal]] 
 
-### #is_/same_as :: [Utopia.secret](/_secret/Society/Utopia.secret.md)
+### #is_/same_as :: [[/_secret/Society/Utopia.secret|Utopia.secret]] 
 

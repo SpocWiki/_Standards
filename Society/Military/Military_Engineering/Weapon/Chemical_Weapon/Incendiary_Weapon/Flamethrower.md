@@ -25,17 +25,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Flamethrower](/_Standards/Society/Military/Military_Engineering/Weapon/Chemical_Weapon/Incendiary_Weapon/Flamethrower.md) 
+### #is_/same_as :: [[/_Standards/Society/Military/Military_Engineering/Weapon/Chemical_Weapon/Incendiary_Weapon/Flamethrower|Flamethrower]] 
 
-### #is_/same_as :: [Flamethrower.public](/_public/Society/Military/Military_Engineering/Weapon/Chemical_Weapon/Incendiary_Weapon/Flamethrower.public.md) 
+### #is_/same_as :: [[/_public/Society/Military/Military_Engineering/Weapon/Chemical_Weapon/Incendiary_Weapon/Flamethrower.public|Flamethrower.public]] 
 
-### #is_/same_as :: [Flamethrower.internal](/_internal/Society/Military/Military_Engineering/Weapon/Chemical_Weapon/Incendiary_Weapon/Flamethrower.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Military/Military_Engineering/Weapon/Chemical_Weapon/Incendiary_Weapon/Flamethrower.internal|Flamethrower.internal]] 
 
-### #is_/same_as :: [Flamethrower.protect](/_protect/Society/Military/Military_Engineering/Weapon/Chemical_Weapon/Incendiary_Weapon/Flamethrower.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Military/Military_Engineering/Weapon/Chemical_Weapon/Incendiary_Weapon/Flamethrower.protect|Flamethrower.protect]] 
 
-### #is_/same_as :: [Flamethrower.private](/_private/Society/Military/Military_Engineering/Weapon/Chemical_Weapon/Incendiary_Weapon/Flamethrower.private.md) 
+### #is_/same_as :: [[/_private/Society/Military/Military_Engineering/Weapon/Chemical_Weapon/Incendiary_Weapon/Flamethrower.private|Flamethrower.private]] 
 
-### #is_/same_as :: [Flamethrower.personal](/_personal/Society/Military/Military_Engineering/Weapon/Chemical_Weapon/Incendiary_Weapon/Flamethrower.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Military/Military_Engineering/Weapon/Chemical_Weapon/Incendiary_Weapon/Flamethrower.personal|Flamethrower.personal]] 
 
-### #is_/same_as :: [Flamethrower.secret](/_secret/Society/Military/Military_Engineering/Weapon/Chemical_Weapon/Incendiary_Weapon/Flamethrower.secret.md)
+### #is_/same_as :: [[/_secret/Society/Military/Military_Engineering/Weapon/Chemical_Weapon/Incendiary_Weapon/Flamethrower.secret|Flamethrower.secret]] 
 

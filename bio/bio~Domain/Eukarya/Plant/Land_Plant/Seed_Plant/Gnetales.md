@@ -67,17 +67,17 @@ title: Gnetales
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Gnetales](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Gnetales.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Gnetales|Gnetales]] 
 
-### #is_/same_as :: [Gnetales.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Gnetales.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Gnetales.public|Gnetales.public]] 
 
-### #is_/same_as :: [Gnetales.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Gnetales.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Gnetales.internal|Gnetales.internal]] 
 
-### #is_/same_as :: [Gnetales.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Gnetales.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Gnetales.protect|Gnetales.protect]] 
 
-### #is_/same_as :: [Gnetales.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Gnetales.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Gnetales.private|Gnetales.private]] 
 
-### #is_/same_as :: [Gnetales.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Gnetales.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Gnetales.personal|Gnetales.personal]] 
 
-### #is_/same_as :: [Gnetales.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Gnetales.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Gnetales.secret|Gnetales.secret]] 
 

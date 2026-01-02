@@ -155,17 +155,17 @@ Wolfram_Language_entity_code: Entity["Concept", "AbuAliAl-HusainIbnAbdallahIbnSi
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Avicenna](/_Standards/Science/Scientist/Middle_Age_Scientists/Avicenna.md) 
+### #is_/same_as :: [[/_Standards/Science/Scientist/Middle_Age_Scientists/Avicenna|Avicenna]] 
 
-### #is_/same_as :: [Avicenna.public](/_public/Science/Scientist/Middle_Age_Scientists/Avicenna.public.md) 
+### #is_/same_as :: [[/_public/Science/Scientist/Middle_Age_Scientists/Avicenna.public|Avicenna.public]] 
 
-### #is_/same_as :: [Avicenna.internal](/_internal/Science/Scientist/Middle_Age_Scientists/Avicenna.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Scientist/Middle_Age_Scientists/Avicenna.internal|Avicenna.internal]] 
 
-### #is_/same_as :: [Avicenna.protect](/_protect/Science/Scientist/Middle_Age_Scientists/Avicenna.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Scientist/Middle_Age_Scientists/Avicenna.protect|Avicenna.protect]] 
 
-### #is_/same_as :: [Avicenna.private](/_private/Science/Scientist/Middle_Age_Scientists/Avicenna.private.md) 
+### #is_/same_as :: [[/_private/Science/Scientist/Middle_Age_Scientists/Avicenna.private|Avicenna.private]] 
 
-### #is_/same_as :: [Avicenna.personal](/_personal/Science/Scientist/Middle_Age_Scientists/Avicenna.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Scientist/Middle_Age_Scientists/Avicenna.personal|Avicenna.personal]] 
 
-### #is_/same_as :: [Avicenna.secret](/_secret/Science/Scientist/Middle_Age_Scientists/Avicenna.secret.md)
+### #is_/same_as :: [[/_secret/Science/Scientist/Middle_Age_Scientists/Avicenna.secret|Avicenna.secret]] 
 

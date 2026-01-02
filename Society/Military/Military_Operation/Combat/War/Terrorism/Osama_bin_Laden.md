@@ -172,17 +172,17 @@ booru_tag: osama_bin_laden
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Osama_bin_Laden](/_Standards/Society/Military/Military_Operation/Combat/War/Terrorism/Osama_bin_Laden.md) 
+### #is_/same_as :: [[/_Standards/Society/Military/Military_Operation/Combat/War/Terrorism/Osama_bin_Laden|Osama_bin_Laden]] 
 
-### #is_/same_as :: [Osama_bin_Laden.public](/_public/Society/Military/Military_Operation/Combat/War/Terrorism/Osama_bin_Laden.public.md) 
+### #is_/same_as :: [[/_public/Society/Military/Military_Operation/Combat/War/Terrorism/Osama_bin_Laden.public|Osama_bin_Laden.public]] 
 
-### #is_/same_as :: [Osama_bin_Laden.internal](/_internal/Society/Military/Military_Operation/Combat/War/Terrorism/Osama_bin_Laden.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Military/Military_Operation/Combat/War/Terrorism/Osama_bin_Laden.internal|Osama_bin_Laden.internal]] 
 
-### #is_/same_as :: [Osama_bin_Laden.protect](/_protect/Society/Military/Military_Operation/Combat/War/Terrorism/Osama_bin_Laden.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Military/Military_Operation/Combat/War/Terrorism/Osama_bin_Laden.protect|Osama_bin_Laden.protect]] 
 
-### #is_/same_as :: [Osama_bin_Laden.private](/_private/Society/Military/Military_Operation/Combat/War/Terrorism/Osama_bin_Laden.private.md) 
+### #is_/same_as :: [[/_private/Society/Military/Military_Operation/Combat/War/Terrorism/Osama_bin_Laden.private|Osama_bin_Laden.private]] 
 
-### #is_/same_as :: [Osama_bin_Laden.personal](/_personal/Society/Military/Military_Operation/Combat/War/Terrorism/Osama_bin_Laden.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Military/Military_Operation/Combat/War/Terrorism/Osama_bin_Laden.personal|Osama_bin_Laden.personal]] 
 
-### #is_/same_as :: [Osama_bin_Laden.secret](/_secret/Society/Military/Military_Operation/Combat/War/Terrorism/Osama_bin_Laden.secret.md)
+### #is_/same_as :: [[/_secret/Society/Military/Military_Operation/Combat/War/Terrorism/Osama_bin_Laden.secret|Osama_bin_Laden.secret]] 
 

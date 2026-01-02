@@ -46,17 +46,17 @@ Krugosvet_article: nauka_i_tehnika/tehnologiya_i_promyshlennost/AVTOMATICHESKOE_
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Control_Engineering](/_Standards/Technology/Engineering/Control_Engineering.md) 
+### #is_/same_as :: [[/_Standards/Technology/Engineering/Control_Engineering|Control_Engineering]] 
 
-### #is_/same_as :: [Control_Engineering.public](/_public/Technology/Engineering/Control_Engineering.public.md) 
+### #is_/same_as :: [[/_public/Technology/Engineering/Control_Engineering.public|Control_Engineering.public]] 
 
-### #is_/same_as :: [Control_Engineering.internal](/_internal/Technology/Engineering/Control_Engineering.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Engineering/Control_Engineering.internal|Control_Engineering.internal]] 
 
-### #is_/same_as :: [Control_Engineering.protect](/_protect/Technology/Engineering/Control_Engineering.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Engineering/Control_Engineering.protect|Control_Engineering.protect]] 
 
-### #is_/same_as :: [Control_Engineering.private](/_private/Technology/Engineering/Control_Engineering.private.md) 
+### #is_/same_as :: [[/_private/Technology/Engineering/Control_Engineering.private|Control_Engineering.private]] 
 
-### #is_/same_as :: [Control_Engineering.personal](/_personal/Technology/Engineering/Control_Engineering.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Engineering/Control_Engineering.personal|Control_Engineering.personal]] 
 
-### #is_/same_as :: [Control_Engineering.secret](/_secret/Technology/Engineering/Control_Engineering.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Engineering/Control_Engineering.secret|Control_Engineering.secret]] 
 

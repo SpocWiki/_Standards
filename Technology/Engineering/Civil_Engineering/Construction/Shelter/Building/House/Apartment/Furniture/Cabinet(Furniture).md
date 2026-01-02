@@ -57,17 +57,17 @@ image:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Cabinet(Furniture)](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Furniture/Cabinet(Furniture).md) 
+### #is_/same_as :: [[/_Standards/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Furniture/Cabinet(Furniture)|Cabinet(Furniture)]] 
 
-### #is_/same_as :: [Cabinet(Furniture).public](/_public/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Furniture/Cabinet(Furniture).public.md) 
+### #is_/same_as :: [[/_public/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Furniture/Cabinet(Furniture).public|Cabinet(Furniture).public]] 
 
-### #is_/same_as :: [Cabinet(Furniture).internal](/_internal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Furniture/Cabinet(Furniture).internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Furniture/Cabinet(Furniture).internal|Cabinet(Furniture).internal]] 
 
-### #is_/same_as :: [Cabinet(Furniture).protect](/_protect/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Furniture/Cabinet(Furniture).protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Furniture/Cabinet(Furniture).protect|Cabinet(Furniture).protect]] 
 
-### #is_/same_as :: [Cabinet(Furniture).private](/_private/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Furniture/Cabinet(Furniture).private.md) 
+### #is_/same_as :: [[/_private/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Furniture/Cabinet(Furniture).private|Cabinet(Furniture).private]] 
 
-### #is_/same_as :: [Cabinet(Furniture).personal](/_personal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Furniture/Cabinet(Furniture).personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Furniture/Cabinet(Furniture).personal|Cabinet(Furniture).personal]] 
 
-### #is_/same_as :: [Cabinet(Furniture).secret](/_secret/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Furniture/Cabinet(Furniture).secret.md)
+### #is_/same_as :: [[/_secret/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Furniture/Cabinet(Furniture).secret|Cabinet(Furniture).secret]] 
 

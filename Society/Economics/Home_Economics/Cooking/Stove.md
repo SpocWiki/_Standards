@@ -54,17 +54,17 @@ Dewey_Decimal_Classification:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Stove](/_Standards/Society/Economics/Home_Economics/Cooking/Stove.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Home_Economics/Cooking/Stove|Stove]] 
 
-### #is_/same_as :: [Stove.public](/_public/Society/Economics/Home_Economics/Cooking/Stove.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Home_Economics/Cooking/Stove.public|Stove.public]] 
 
-### #is_/same_as :: [Stove.internal](/_internal/Society/Economics/Home_Economics/Cooking/Stove.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Home_Economics/Cooking/Stove.internal|Stove.internal]] 
 
-### #is_/same_as :: [Stove.protect](/_protect/Society/Economics/Home_Economics/Cooking/Stove.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Home_Economics/Cooking/Stove.protect|Stove.protect]] 
 
-### #is_/same_as :: [Stove.private](/_private/Society/Economics/Home_Economics/Cooking/Stove.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Home_Economics/Cooking/Stove.private|Stove.private]] 
 
-### #is_/same_as :: [Stove.personal](/_personal/Society/Economics/Home_Economics/Cooking/Stove.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Home_Economics/Cooking/Stove.personal|Stove.personal]] 
 
-### #is_/same_as :: [Stove.secret](/_secret/Society/Economics/Home_Economics/Cooking/Stove.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Home_Economics/Cooking/Stove.secret|Stove.secret]] 
 

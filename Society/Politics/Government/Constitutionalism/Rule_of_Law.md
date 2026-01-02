@@ -60,17 +60,17 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/A%20mosaic%20%22LAW%22
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Rule_of_Law](/_Standards/Society/Politics/Government/Constitutionalism/Rule_of_Law.md) 
+### #is_/same_as :: [[/_Standards/Society/Politics/Government/Constitutionalism/Rule_of_Law|Rule_of_Law]] 
 
-### #is_/same_as :: [Rule_of_Law.public](/_public/Society/Politics/Government/Constitutionalism/Rule_of_Law.public.md) 
+### #is_/same_as :: [[/_public/Society/Politics/Government/Constitutionalism/Rule_of_Law.public|Rule_of_Law.public]] 
 
-### #is_/same_as :: [Rule_of_Law.internal](/_internal/Society/Politics/Government/Constitutionalism/Rule_of_Law.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Politics/Government/Constitutionalism/Rule_of_Law.internal|Rule_of_Law.internal]] 
 
-### #is_/same_as :: [Rule_of_Law.protect](/_protect/Society/Politics/Government/Constitutionalism/Rule_of_Law.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Politics/Government/Constitutionalism/Rule_of_Law.protect|Rule_of_Law.protect]] 
 
-### #is_/same_as :: [Rule_of_Law.private](/_private/Society/Politics/Government/Constitutionalism/Rule_of_Law.private.md) 
+### #is_/same_as :: [[/_private/Society/Politics/Government/Constitutionalism/Rule_of_Law.private|Rule_of_Law.private]] 
 
-### #is_/same_as :: [Rule_of_Law.personal](/_personal/Society/Politics/Government/Constitutionalism/Rule_of_Law.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Politics/Government/Constitutionalism/Rule_of_Law.personal|Rule_of_Law.personal]] 
 
-### #is_/same_as :: [Rule_of_Law.secret](/_secret/Society/Politics/Government/Constitutionalism/Rule_of_Law.secret.md)
+### #is_/same_as :: [[/_secret/Society/Politics/Government/Constitutionalism/Rule_of_Law.secret|Rule_of_Law.secret]] 
 

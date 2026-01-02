@@ -74,17 +74,17 @@ Krugosvet_article_archived_: kultura_i_obrazovanie/religiya/EDIP.html
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Oedipus](/_Standards/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Oedipus.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Oedipus|Oedipus]] 
 
-### #is_/same_as :: [Oedipus.public](/_public/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Oedipus.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Oedipus.public|Oedipus.public]] 
 
-### #is_/same_as :: [Oedipus.internal](/_internal/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Oedipus.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Oedipus.internal|Oedipus.internal]] 
 
-### #is_/same_as :: [Oedipus.protect](/_protect/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Oedipus.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Oedipus.protect|Oedipus.protect]] 
 
-### #is_/same_as :: [Oedipus.private](/_private/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Oedipus.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Oedipus.private|Oedipus.private]] 
 
-### #is_/same_as :: [Oedipus.personal](/_personal/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Oedipus.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Oedipus.personal|Oedipus.personal]] 
 
-### #is_/same_as :: [Oedipus.secret](/_secret/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Oedipus.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Oedipus.secret|Oedipus.secret]] 
 

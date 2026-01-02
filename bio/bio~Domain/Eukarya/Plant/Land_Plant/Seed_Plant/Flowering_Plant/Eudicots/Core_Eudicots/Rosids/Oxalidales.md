@@ -5,7 +5,7 @@ title: Oxalidales
 ---
 
 # [[Oxalidales]] 
-![Albany pitcher plant, Cephalotus follicularis](Oxalidales/Cephalotus_follicularis.jpg)) ![Flower of the lantern tree, Crinodendron hookeranum](Oxalidales/Crinodendron_hookeranum.jpg))
+![Albany pitcher plant, Cephalotus follicularis](Oxalidales/Cephalotus_follicularis.jpg)) ![Flower of the lantern tree, Crinodendron hookeranum](Oxalidales/Crinodendron_hookeranum.jpg) 
 
 
 ## #has_/text_of_/abstract 
@@ -74,7 +74,7 @@ title: Oxalidales
 
 
 ------------------------------------------------------------------------ 
-![Albany pitcher plant, Cephalotus follicularis](Oxalidales/Cephalotus_follicularis.jpg))
+![Albany pitcher plant, Cephalotus follicularis](Oxalidales/Cephalotus_follicularis.jpg) 
 Scientific Name ::   Cephalotus follicularis
 Location ::         Native to Southwest Australia
 Comments           Albany pitcher plant. Specimen cultivated at the Botanical Garden Basel, Switzerland.
@@ -82,7 +82,7 @@ Acknowledgements   courtesy [Botanical Image Database](http://www.unibas.ch/boti
 Copyright ::          © 2001 University of Basel, Basel, Switzerland 
 
 --------------------------------------------------------------------- 
-![Flower of the lantern tree, Crinodendron hookeranum](Oxalidales/Crinodendron_hookeranum.jpg))
+![Flower of the lantern tree, Crinodendron hookeranum](Oxalidales/Crinodendron_hookeranum.jpg) 
 Scientific Name ::  Crinodendron hookeranum
 Comments          Flower of the lantern tree (Elaeocarpaceae)
 Copyright ::         © [Kurt Stüber](http://www.biolib.de/) 
@@ -90,17 +90,17 @@ Copyright ::         © [Kurt Stüber](http://www.biolib.de/)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Oxalidales](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Oxalidales.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Oxalidales|Oxalidales]] 
 
-### #is_/same_as :: [Oxalidales.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Oxalidales.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Oxalidales.public|Oxalidales.public]] 
 
-### #is_/same_as :: [Oxalidales.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Oxalidales.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Oxalidales.internal|Oxalidales.internal]] 
 
-### #is_/same_as :: [Oxalidales.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Oxalidales.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Oxalidales.protect|Oxalidales.protect]] 
 
-### #is_/same_as :: [Oxalidales.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Oxalidales.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Oxalidales.private|Oxalidales.private]] 
 
-### #is_/same_as :: [Oxalidales.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Oxalidales.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Oxalidales.personal|Oxalidales.personal]] 
 
-### #is_/same_as :: [Oxalidales.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Oxalidales.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Oxalidales.secret|Oxalidales.secret]] 
 

@@ -51,7 +51,7 @@ title: Cornales
 ## Title Illustrations
 
 ------------------------------------------------------------------------ 
-![Japanese dogwood, Cornus kousa](Cornales/Cornus_kousa3723.jpg))
+![Japanese dogwood, Cornus kousa](Cornales/Cornus_kousa3723.jpg) 
 Scientific Name ::   Cornus kousa
 Comments           Japanese dogwood (Cornaceae). Cultivated at the Botanical Garden Basel, Switzerland.
 Acknowledgements   courtesy [Botanical Image Database](http://www.unibas.ch/botimage/)
@@ -60,17 +60,17 @@ Copyright ::          © 2001 University of Basel, Basel, Switzerland
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Cornales](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Cornales.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Cornales|Cornales]] 
 
-### #is_/same_as :: [Cornales.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Cornales.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Cornales.public|Cornales.public]] 
 
-### #is_/same_as :: [Cornales.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Cornales.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Cornales.internal|Cornales.internal]] 
 
-### #is_/same_as :: [Cornales.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Cornales.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Cornales.protect|Cornales.protect]] 
 
-### #is_/same_as :: [Cornales.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Cornales.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Cornales.private|Cornales.private]] 
 
-### #is_/same_as :: [Cornales.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Cornales.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Cornales.personal|Cornales.personal]] 
 
-### #is_/same_as :: [Cornales.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Cornales.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Cornales.secret|Cornales.secret]] 
 

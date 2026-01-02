@@ -66,17 +66,17 @@ U_S_National_Archives_Identifier: 10644258
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Nutrition](/_Standards/bio/Metabolism/Nutrition.md) 
+### #is_/same_as :: [[/_Standards/bio/Metabolism/Nutrition|Nutrition]] 
 
-### #is_/same_as :: [Nutrition.public](/_public/bio/Metabolism/Nutrition.public.md) 
+### #is_/same_as :: [[/_public/bio/Metabolism/Nutrition.public|Nutrition.public]] 
 
-### #is_/same_as :: [Nutrition.internal](/_internal/bio/Metabolism/Nutrition.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Metabolism/Nutrition.internal|Nutrition.internal]] 
 
-### #is_/same_as :: [Nutrition.protect](/_protect/bio/Metabolism/Nutrition.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Metabolism/Nutrition.protect|Nutrition.protect]] 
 
-### #is_/same_as :: [Nutrition.private](/_private/bio/Metabolism/Nutrition.private.md) 
+### #is_/same_as :: [[/_private/bio/Metabolism/Nutrition.private|Nutrition.private]] 
 
-### #is_/same_as :: [Nutrition.personal](/_personal/bio/Metabolism/Nutrition.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Metabolism/Nutrition.personal|Nutrition.personal]] 
 
-### #is_/same_as :: [Nutrition.secret](/_secret/bio/Metabolism/Nutrition.secret.md)
+### #is_/same_as :: [[/_secret/bio/Metabolism/Nutrition.secret|Nutrition.secret]] 
 

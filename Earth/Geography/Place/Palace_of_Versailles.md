@@ -162,17 +162,17 @@ By <a href="https://fr.wikipedia.org/wiki/Utilisateur:G_CHP" class="extiw" title
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Palace_of_Versailles](/_Standards/Earth/Geography/Place/Palace_of_Versailles.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geography/Place/Palace_of_Versailles|Palace_of_Versailles]] 
 
-### #is_/same_as :: [Palace_of_Versailles.public](/_public/Earth/Geography/Place/Palace_of_Versailles.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geography/Place/Palace_of_Versailles.public|Palace_of_Versailles.public]] 
 
-### #is_/same_as :: [Palace_of_Versailles.internal](/_internal/Earth/Geography/Place/Palace_of_Versailles.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geography/Place/Palace_of_Versailles.internal|Palace_of_Versailles.internal]] 
 
-### #is_/same_as :: [Palace_of_Versailles.protect](/_protect/Earth/Geography/Place/Palace_of_Versailles.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geography/Place/Palace_of_Versailles.protect|Palace_of_Versailles.protect]] 
 
-### #is_/same_as :: [Palace_of_Versailles.private](/_private/Earth/Geography/Place/Palace_of_Versailles.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geography/Place/Palace_of_Versailles.private|Palace_of_Versailles.private]] 
 
-### #is_/same_as :: [Palace_of_Versailles.personal](/_personal/Earth/Geography/Place/Palace_of_Versailles.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geography/Place/Palace_of_Versailles.personal|Palace_of_Versailles.personal]] 
 
-### #is_/same_as :: [Palace_of_Versailles.secret](/_secret/Earth/Geography/Place/Palace_of_Versailles.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geography/Place/Palace_of_Versailles.secret|Palace_of_Versailles.secret]] 
 

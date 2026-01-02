@@ -47,17 +47,17 @@ time_of_discovery_or_invention: 2003-08-01T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Moscovium](/_Standards/Chemistry/Chemical_Element/Group-15-Nitrogen/Moscovium.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Chemical_Element/Group-15-Nitrogen/Moscovium|Moscovium]] 
 
-### #is_/same_as :: [Moscovium.public](/_public/Chemistry/Chemical_Element/Group-15-Nitrogen/Moscovium.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Chemical_Element/Group-15-Nitrogen/Moscovium.public|Moscovium.public]] 
 
-### #is_/same_as :: [Moscovium.internal](/_internal/Chemistry/Chemical_Element/Group-15-Nitrogen/Moscovium.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Chemical_Element/Group-15-Nitrogen/Moscovium.internal|Moscovium.internal]] 
 
-### #is_/same_as :: [Moscovium.protect](/_protect/Chemistry/Chemical_Element/Group-15-Nitrogen/Moscovium.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Chemical_Element/Group-15-Nitrogen/Moscovium.protect|Moscovium.protect]] 
 
-### #is_/same_as :: [Moscovium.private](/_private/Chemistry/Chemical_Element/Group-15-Nitrogen/Moscovium.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Chemical_Element/Group-15-Nitrogen/Moscovium.private|Moscovium.private]] 
 
-### #is_/same_as :: [Moscovium.personal](/_personal/Chemistry/Chemical_Element/Group-15-Nitrogen/Moscovium.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Chemical_Element/Group-15-Nitrogen/Moscovium.personal|Moscovium.personal]] 
 
-### #is_/same_as :: [Moscovium.secret](/_secret/Chemistry/Chemical_Element/Group-15-Nitrogen/Moscovium.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Chemical_Element/Group-15-Nitrogen/Moscovium.secret|Moscovium.secret]] 
 

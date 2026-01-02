@@ -42,17 +42,17 @@ topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Electronic_music
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Electronic_Music](/_Standards/Society/Communication/Media/Music/Music_Genre/Electronic_Music.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Music_Genre/Electronic_Music|Electronic_Music]] 
 
-### #is_/same_as :: [Electronic_Music.public](/_public/Society/Communication/Media/Music/Music_Genre/Electronic_Music.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Music_Genre/Electronic_Music.public|Electronic_Music.public]] 
 
-### #is_/same_as :: [Electronic_Music.internal](/_internal/Society/Communication/Media/Music/Music_Genre/Electronic_Music.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Music_Genre/Electronic_Music.internal|Electronic_Music.internal]] 
 
-### #is_/same_as :: [Electronic_Music.protect](/_protect/Society/Communication/Media/Music/Music_Genre/Electronic_Music.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Music_Genre/Electronic_Music.protect|Electronic_Music.protect]] 
 
-### #is_/same_as :: [Electronic_Music.private](/_private/Society/Communication/Media/Music/Music_Genre/Electronic_Music.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Music_Genre/Electronic_Music.private|Electronic_Music.private]] 
 
-### #is_/same_as :: [Electronic_Music.personal](/_personal/Society/Communication/Media/Music/Music_Genre/Electronic_Music.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Music_Genre/Electronic_Music.personal|Electronic_Music.personal]] 
 
-### #is_/same_as :: [Electronic_Music.secret](/_secret/Society/Communication/Media/Music/Music_Genre/Electronic_Music.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Music_Genre/Electronic_Music.secret|Electronic_Music.secret]] 
 

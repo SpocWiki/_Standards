@@ -57,17 +57,17 @@ short_name: GBP (£)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Pound_Sterling](/_Standards/Society/Economics/Currency/Pound_Sterling.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Currency/Pound_Sterling|Pound_Sterling]] 
 
-### #is_/same_as :: [Pound_Sterling.public](/_public/Society/Economics/Currency/Pound_Sterling.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Currency/Pound_Sterling.public|Pound_Sterling.public]] 
 
-### #is_/same_as :: [Pound_Sterling.internal](/_internal/Society/Economics/Currency/Pound_Sterling.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Currency/Pound_Sterling.internal|Pound_Sterling.internal]] 
 
-### #is_/same_as :: [Pound_Sterling.protect](/_protect/Society/Economics/Currency/Pound_Sterling.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Currency/Pound_Sterling.protect|Pound_Sterling.protect]] 
 
-### #is_/same_as :: [Pound_Sterling.private](/_private/Society/Economics/Currency/Pound_Sterling.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Currency/Pound_Sterling.private|Pound_Sterling.private]] 
 
-### #is_/same_as :: [Pound_Sterling.personal](/_personal/Society/Economics/Currency/Pound_Sterling.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Currency/Pound_Sterling.personal|Pound_Sterling.personal]] 
 
-### #is_/same_as :: [Pound_Sterling.secret](/_secret/Society/Economics/Currency/Pound_Sterling.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Currency/Pound_Sterling.secret|Pound_Sterling.secret]] 
 

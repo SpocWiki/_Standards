@@ -41,17 +41,17 @@ Commons_category: Solid-state computer storage media
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Memory_Card](/_Standards/Technology/IT/Data/Data_Storage/Storage_Medium/Memory_Card.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Data/Data_Storage/Storage_Medium/Memory_Card|Memory_Card]] 
 
-### #is_/same_as :: [Memory_Card.public](/_public/Technology/IT/Data/Data_Storage/Storage_Medium/Memory_Card.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Data/Data_Storage/Storage_Medium/Memory_Card.public|Memory_Card.public]] 
 
-### #is_/same_as :: [Memory_Card.internal](/_internal/Technology/IT/Data/Data_Storage/Storage_Medium/Memory_Card.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Data/Data_Storage/Storage_Medium/Memory_Card.internal|Memory_Card.internal]] 
 
-### #is_/same_as :: [Memory_Card.protect](/_protect/Technology/IT/Data/Data_Storage/Storage_Medium/Memory_Card.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Data/Data_Storage/Storage_Medium/Memory_Card.protect|Memory_Card.protect]] 
 
-### #is_/same_as :: [Memory_Card.private](/_private/Technology/IT/Data/Data_Storage/Storage_Medium/Memory_Card.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Data/Data_Storage/Storage_Medium/Memory_Card.private|Memory_Card.private]] 
 
-### #is_/same_as :: [Memory_Card.personal](/_personal/Technology/IT/Data/Data_Storage/Storage_Medium/Memory_Card.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Data/Data_Storage/Storage_Medium/Memory_Card.personal|Memory_Card.personal]] 
 
-### #is_/same_as :: [Memory_Card.secret](/_secret/Technology/IT/Data/Data_Storage/Storage_Medium/Memory_Card.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Data/Data_Storage/Storage_Medium/Memory_Card.secret|Memory_Card.secret]] 
 

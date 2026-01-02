@@ -176,17 +176,17 @@ N4IgLgngDgpiBcIYA8DGBDANgSwCYCd0B3EAGhADcZ8BnbAewDsEAmcm+gV31TkQAswYKDXgB6MQHNsY
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Molotov–Ribbentrop_Pact](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1939-World_War_II/Molotov–Ribbentrop_Pact.md) 
+### #is_/same_as :: [[/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1939-World_War_II/Molotov–Ribbentrop_Pact|Molotov–Ribbentrop_Pact]] 
 
-### #is_/same_as :: [Molotov–Ribbentrop_Pact.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1939-World_War_II/Molotov–Ribbentrop_Pact.public.md) 
+### #is_/same_as :: [[/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1939-World_War_II/Molotov–Ribbentrop_Pact.public|Molotov–Ribbentrop_Pact.public]] 
 
-### #is_/same_as :: [Molotov–Ribbentrop_Pact.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1939-World_War_II/Molotov–Ribbentrop_Pact.internal.md) 
+### #is_/same_as :: [[/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1939-World_War_II/Molotov–Ribbentrop_Pact.internal|Molotov–Ribbentrop_Pact.internal]] 
 
-### #is_/same_as :: [Molotov–Ribbentrop_Pact.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1939-World_War_II/Molotov–Ribbentrop_Pact.protect.md) 
+### #is_/same_as :: [[/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1939-World_War_II/Molotov–Ribbentrop_Pact.protect|Molotov–Ribbentrop_Pact.protect]] 
 
-### #is_/same_as :: [Molotov–Ribbentrop_Pact.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1939-World_War_II/Molotov–Ribbentrop_Pact.private.md) 
+### #is_/same_as :: [[/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1939-World_War_II/Molotov–Ribbentrop_Pact.private|Molotov–Ribbentrop_Pact.private]] 
 
-### #is_/same_as :: [Molotov–Ribbentrop_Pact.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1939-World_War_II/Molotov–Ribbentrop_Pact.personal.md) 
+### #is_/same_as :: [[/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1939-World_War_II/Molotov–Ribbentrop_Pact.personal|Molotov–Ribbentrop_Pact.personal]] 
 
-### #is_/same_as :: [Molotov–Ribbentrop_Pact.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1939-World_War_II/Molotov–Ribbentrop_Pact.secret.md)
+### #is_/same_as :: [[/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1939-World_War_II/Molotov–Ribbentrop_Pact.secret|Molotov–Ribbentrop_Pact.secret]] 
 

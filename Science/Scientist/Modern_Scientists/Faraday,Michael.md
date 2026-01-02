@@ -168,17 +168,17 @@ writing_language: '[[_Standards/WikiData/WD~English,1860]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Faraday,Michael](/_Standards/Science/Scientist/Modern_Scientists/Faraday,Michael.md) 
+### #is_/same_as :: [[/_Standards/Science/Scientist/Modern_Scientists/Faraday,Michael|Faraday,Michael]] 
 
-### #is_/same_as :: [Faraday,Michael.public](/_public/Science/Scientist/Modern_Scientists/Faraday,Michael.public.md) 
+### #is_/same_as :: [[/_public/Science/Scientist/Modern_Scientists/Faraday,Michael.public|Faraday,Michael.public]] 
 
-### #is_/same_as :: [Faraday,Michael.internal](/_internal/Science/Scientist/Modern_Scientists/Faraday,Michael.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Scientist/Modern_Scientists/Faraday,Michael.internal|Faraday,Michael.internal]] 
 
-### #is_/same_as :: [Faraday,Michael.protect](/_protect/Science/Scientist/Modern_Scientists/Faraday,Michael.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Scientist/Modern_Scientists/Faraday,Michael.protect|Faraday,Michael.protect]] 
 
-### #is_/same_as :: [Faraday,Michael.private](/_private/Science/Scientist/Modern_Scientists/Faraday,Michael.private.md) 
+### #is_/same_as :: [[/_private/Science/Scientist/Modern_Scientists/Faraday,Michael.private|Faraday,Michael.private]] 
 
-### #is_/same_as :: [Faraday,Michael.personal](/_personal/Science/Scientist/Modern_Scientists/Faraday,Michael.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Scientist/Modern_Scientists/Faraday,Michael.personal|Faraday,Michael.personal]] 
 
-### #is_/same_as :: [Faraday,Michael.secret](/_secret/Science/Scientist/Modern_Scientists/Faraday,Michael.secret.md)
+### #is_/same_as :: [[/_secret/Science/Scientist/Modern_Scientists/Faraday,Michael.secret|Faraday,Michael.secret]] 
 

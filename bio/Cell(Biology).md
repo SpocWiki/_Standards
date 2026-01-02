@@ -73,17 +73,17 @@ union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Cell(Biology)](/_Standards/bio/Cell(Biology).md) 
+### #is_/same_as :: [[/_Standards/bio/Cell(Biology)|Cell(Biology)]] 
 
-### #is_/same_as :: [Cell(Biology).public](/_public/bio/Cell(Biology).public.md) 
+### #is_/same_as :: [[/_public/bio/Cell(Biology).public|Cell(Biology).public]] 
 
-### #is_/same_as :: [Cell(Biology).internal](/_internal/bio/Cell(Biology).internal.md) 
+### #is_/same_as :: [[/_internal/bio/Cell(Biology).internal|Cell(Biology).internal]] 
 
-### #is_/same_as :: [Cell(Biology).protect](/_protect/bio/Cell(Biology).protect.md) 
+### #is_/same_as :: [[/_protect/bio/Cell(Biology).protect|Cell(Biology).protect]] 
 
-### #is_/same_as :: [Cell(Biology).private](/_private/bio/Cell(Biology).private.md) 
+### #is_/same_as :: [[/_private/bio/Cell(Biology).private|Cell(Biology).private]] 
 
-### #is_/same_as :: [Cell(Biology).personal](/_personal/bio/Cell(Biology).personal.md) 
+### #is_/same_as :: [[/_personal/bio/Cell(Biology).personal|Cell(Biology).personal]] 
 
-### #is_/same_as :: [Cell(Biology).secret](/_secret/bio/Cell(Biology).secret.md)
+### #is_/same_as :: [[/_secret/bio/Cell(Biology).secret|Cell(Biology).secret]] 
 

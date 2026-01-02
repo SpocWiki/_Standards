@@ -87,17 +87,17 @@ Commons_category: Induction (mathematics)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Induction_Proof](/_Standards/Mathematics/Proof(Math)/Induction_Proof.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Proof(Math)/Induction_Proof|Induction_Proof]] 
 
-### #is_/same_as :: [Induction_Proof.public](/_public/Mathematics/Proof(Math)/Induction_Proof.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Proof(Math)/Induction_Proof.public|Induction_Proof.public]] 
 
-### #is_/same_as :: [Induction_Proof.internal](/_internal/Mathematics/Proof(Math)/Induction_Proof.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Proof(Math)/Induction_Proof.internal|Induction_Proof.internal]] 
 
-### #is_/same_as :: [Induction_Proof.protect](/_protect/Mathematics/Proof(Math)/Induction_Proof.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Proof(Math)/Induction_Proof.protect|Induction_Proof.protect]] 
 
-### #is_/same_as :: [Induction_Proof.private](/_private/Mathematics/Proof(Math)/Induction_Proof.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Proof(Math)/Induction_Proof.private|Induction_Proof.private]] 
 
-### #is_/same_as :: [Induction_Proof.personal](/_personal/Mathematics/Proof(Math)/Induction_Proof.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Proof(Math)/Induction_Proof.personal|Induction_Proof.personal]] 
 
-### #is_/same_as :: [Induction_Proof.secret](/_secret/Mathematics/Proof(Math)/Induction_Proof.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Proof(Math)/Induction_Proof.secret|Induction_Proof.secret]] 
 

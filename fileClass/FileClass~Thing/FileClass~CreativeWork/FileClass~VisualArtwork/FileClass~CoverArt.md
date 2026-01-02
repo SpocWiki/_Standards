@@ -37,17 +37,17 @@ The artwork on the outer surface of a CreativeWork.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~CoverArt](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~VisualArtwork/FileClass~CoverArt.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~VisualArtwork/FileClass~CoverArt|FileClass~CoverArt]] 
 
-### #is_/same_as :: [FileClass~CoverArt.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~VisualArtwork/FileClass~CoverArt.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~VisualArtwork/FileClass~CoverArt.public|FileClass~CoverArt.public]] 
 
-### #is_/same_as :: [FileClass~CoverArt.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~VisualArtwork/FileClass~CoverArt.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~VisualArtwork/FileClass~CoverArt.internal|FileClass~CoverArt.internal]] 
 
-### #is_/same_as :: [FileClass~CoverArt.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~VisualArtwork/FileClass~CoverArt.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~VisualArtwork/FileClass~CoverArt.protect|FileClass~CoverArt.protect]] 
 
-### #is_/same_as :: [FileClass~CoverArt.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~VisualArtwork/FileClass~CoverArt.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~VisualArtwork/FileClass~CoverArt.private|FileClass~CoverArt.private]] 
 
-### #is_/same_as :: [FileClass~CoverArt.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~VisualArtwork/FileClass~CoverArt.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~VisualArtwork/FileClass~CoverArt.personal|FileClass~CoverArt.personal]] 
 
-### #is_/same_as :: [FileClass~CoverArt.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~VisualArtwork/FileClass~CoverArt.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~VisualArtwork/FileClass~CoverArt.secret|FileClass~CoverArt.secret]] 
 

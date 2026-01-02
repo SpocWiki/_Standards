@@ -44,17 +44,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_value_for_occupancy](/_Standards/schema-org/Property/has_value_for/has_value_for_occupancy.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_value_for/has_value_for_occupancy|has_value_for_occupancy]] 
 
-### #is_/same_as :: [has_value_for_occupancy.public](/_public/schema-org/Property/has_value_for/has_value_for_occupancy.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/has_value_for/has_value_for_occupancy.public|has_value_for_occupancy.public]] 
 
-### #is_/same_as :: [has_value_for_occupancy.internal](/_internal/schema-org/Property/has_value_for/has_value_for_occupancy.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_value_for/has_value_for_occupancy.internal|has_value_for_occupancy.internal]] 
 
-### #is_/same_as :: [has_value_for_occupancy.protect](/_protect/schema-org/Property/has_value_for/has_value_for_occupancy.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_value_for/has_value_for_occupancy.protect|has_value_for_occupancy.protect]] 
 
-### #is_/same_as :: [has_value_for_occupancy.private](/_private/schema-org/Property/has_value_for/has_value_for_occupancy.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/has_value_for/has_value_for_occupancy.private|has_value_for_occupancy.private]] 
 
-### #is_/same_as :: [has_value_for_occupancy.personal](/_personal/schema-org/Property/has_value_for/has_value_for_occupancy.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_value_for/has_value_for_occupancy.personal|has_value_for_occupancy.personal]] 
 
-### #is_/same_as :: [has_value_for_occupancy.secret](/_secret/schema-org/Property/has_value_for/has_value_for_occupancy.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/has_value_for/has_value_for_occupancy.secret|has_value_for_occupancy.secret]] 
 

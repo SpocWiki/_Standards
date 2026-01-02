@@ -72,17 +72,17 @@ Krugosvet_article_archived_: kultura_i_obrazovanie/izobrazitelnoe_iskusstvo/VISY
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hanging_Gardens_of_Babylon](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-0625-Neo-Babylonian_Empire-0538/Hanging_Gardens_of_Babylon.md) 
+### #is_/same_as :: [[/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-0625-Neo-Babylonian_Empire-0538/Hanging_Gardens_of_Babylon|Hanging_Gardens_of_Babylon]] 
 
-### #is_/same_as :: [Hanging_Gardens_of_Babylon.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-0625-Neo-Babylonian_Empire-0538/Hanging_Gardens_of_Babylon.public.md) 
+### #is_/same_as :: [[/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-0625-Neo-Babylonian_Empire-0538/Hanging_Gardens_of_Babylon.public|Hanging_Gardens_of_Babylon.public]] 
 
-### #is_/same_as :: [Hanging_Gardens_of_Babylon.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-0625-Neo-Babylonian_Empire-0538/Hanging_Gardens_of_Babylon.internal.md) 
+### #is_/same_as :: [[/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-0625-Neo-Babylonian_Empire-0538/Hanging_Gardens_of_Babylon.internal|Hanging_Gardens_of_Babylon.internal]] 
 
-### #is_/same_as :: [Hanging_Gardens_of_Babylon.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-0625-Neo-Babylonian_Empire-0538/Hanging_Gardens_of_Babylon.protect.md) 
+### #is_/same_as :: [[/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-0625-Neo-Babylonian_Empire-0538/Hanging_Gardens_of_Babylon.protect|Hanging_Gardens_of_Babylon.protect]] 
 
-### #is_/same_as :: [Hanging_Gardens_of_Babylon.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-0625-Neo-Babylonian_Empire-0538/Hanging_Gardens_of_Babylon.private.md) 
+### #is_/same_as :: [[/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-0625-Neo-Babylonian_Empire-0538/Hanging_Gardens_of_Babylon.private|Hanging_Gardens_of_Babylon.private]] 
 
-### #is_/same_as :: [Hanging_Gardens_of_Babylon.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-0625-Neo-Babylonian_Empire-0538/Hanging_Gardens_of_Babylon.personal.md) 
+### #is_/same_as :: [[/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-0625-Neo-Babylonian_Empire-0538/Hanging_Gardens_of_Babylon.personal|Hanging_Gardens_of_Babylon.personal]] 
 
-### #is_/same_as :: [Hanging_Gardens_of_Babylon.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-0625-Neo-Babylonian_Empire-0538/Hanging_Gardens_of_Babylon.secret.md)
+### #is_/same_as :: [[/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-0625-Neo-Babylonian_Empire-0538/Hanging_Gardens_of_Babylon.secret|Hanging_Gardens_of_Babylon.secret]] 
 

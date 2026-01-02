@@ -44,17 +44,17 @@ BasicIncome: this is a benefit for basic income.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Basic_Income](/_Standards/schema-org/Enumeration/Government_Benefits_Type/Basic_Income.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Government_Benefits_Type/Basic_Income|Basic_Income]] 
 
-### #is_/same_as :: [Basic_Income.public](/_public/schema-org/Enumeration/Government_Benefits_Type/Basic_Income.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Government_Benefits_Type/Basic_Income.public|Basic_Income.public]] 
 
-### #is_/same_as :: [Basic_Income.internal](/_internal/schema-org/Enumeration/Government_Benefits_Type/Basic_Income.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Government_Benefits_Type/Basic_Income.internal|Basic_Income.internal]] 
 
-### #is_/same_as :: [Basic_Income.protect](/_protect/schema-org/Enumeration/Government_Benefits_Type/Basic_Income.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Government_Benefits_Type/Basic_Income.protect|Basic_Income.protect]] 
 
-### #is_/same_as :: [Basic_Income.private](/_private/schema-org/Enumeration/Government_Benefits_Type/Basic_Income.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Government_Benefits_Type/Basic_Income.private|Basic_Income.private]] 
 
-### #is_/same_as :: [Basic_Income.personal](/_personal/schema-org/Enumeration/Government_Benefits_Type/Basic_Income.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Government_Benefits_Type/Basic_Income.personal|Basic_Income.personal]] 
 
-### #is_/same_as :: [Basic_Income.secret](/_secret/schema-org/Enumeration/Government_Benefits_Type/Basic_Income.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Government_Benefits_Type/Basic_Income.secret|Basic_Income.secret]] 
 

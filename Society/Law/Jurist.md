@@ -28,17 +28,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Jurist](/_Standards/Society/Law/Jurist.md) 
+### #is_/same_as :: [[/_Standards/Society/Law/Jurist|Jurist]] 
 
-### #is_/same_as :: [Jurist.public](/_public/Society/Law/Jurist.public.md) 
+### #is_/same_as :: [[/_public/Society/Law/Jurist.public|Jurist.public]] 
 
-### #is_/same_as :: [Jurist.internal](/_internal/Society/Law/Jurist.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Law/Jurist.internal|Jurist.internal]] 
 
-### #is_/same_as :: [Jurist.protect](/_protect/Society/Law/Jurist.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Law/Jurist.protect|Jurist.protect]] 
 
-### #is_/same_as :: [Jurist.private](/_private/Society/Law/Jurist.private.md) 
+### #is_/same_as :: [[/_private/Society/Law/Jurist.private|Jurist.private]] 
 
-### #is_/same_as :: [Jurist.personal](/_personal/Society/Law/Jurist.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Law/Jurist.personal|Jurist.personal]] 
 
-### #is_/same_as :: [Jurist.secret](/_secret/Society/Law/Jurist.secret.md)
+### #is_/same_as :: [[/_secret/Society/Law/Jurist.secret|Jurist.secret]] 
 

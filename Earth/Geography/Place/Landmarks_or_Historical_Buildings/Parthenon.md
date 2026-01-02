@@ -128,17 +128,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Parthenon](/_Standards/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Parthenon.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Parthenon|Parthenon]] 
 
-### #is_/same_as :: [Parthenon.public](/_public/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Parthenon.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Parthenon.public|Parthenon.public]] 
 
-### #is_/same_as :: [Parthenon.internal](/_internal/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Parthenon.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Parthenon.internal|Parthenon.internal]] 
 
-### #is_/same_as :: [Parthenon.protect](/_protect/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Parthenon.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Parthenon.protect|Parthenon.protect]] 
 
-### #is_/same_as :: [Parthenon.private](/_private/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Parthenon.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Parthenon.private|Parthenon.private]] 
 
-### #is_/same_as :: [Parthenon.personal](/_personal/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Parthenon.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Parthenon.personal|Parthenon.personal]] 
 
-### #is_/same_as :: [Parthenon.secret](/_secret/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Parthenon.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Parthenon.secret|Parthenon.secret]] 
 

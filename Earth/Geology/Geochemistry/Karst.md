@@ -45,17 +45,17 @@ OmegaWiki_Defined_Meaning: "1507851"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Karst](/_Standards/Earth/Geology/Geochemistry/Karst.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geology/Geochemistry/Karst|Karst]] 
 
-### #is_/same_as :: [Karst.public](/_public/Earth/Geology/Geochemistry/Karst.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geology/Geochemistry/Karst.public|Karst.public]] 
 
-### #is_/same_as :: [Karst.internal](/_internal/Earth/Geology/Geochemistry/Karst.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geology/Geochemistry/Karst.internal|Karst.internal]] 
 
-### #is_/same_as :: [Karst.protect](/_protect/Earth/Geology/Geochemistry/Karst.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geology/Geochemistry/Karst.protect|Karst.protect]] 
 
-### #is_/same_as :: [Karst.private](/_private/Earth/Geology/Geochemistry/Karst.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geology/Geochemistry/Karst.private|Karst.private]] 
 
-### #is_/same_as :: [Karst.personal](/_personal/Earth/Geology/Geochemistry/Karst.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geology/Geochemistry/Karst.personal|Karst.personal]] 
 
-### #is_/same_as :: [Karst.secret](/_secret/Earth/Geology/Geochemistry/Karst.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geology/Geochemistry/Karst.secret|Karst.secret]] 
 

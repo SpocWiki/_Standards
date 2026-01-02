@@ -124,17 +124,17 @@ Copyright ::            © [Roger R. Seapy](mailto:rseapy@fullerton.edu)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Pterotracheidae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Gastropoda/Caenogastropoda/Pterotracheoidea/Pterotracheidae.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Gastropoda/Caenogastropoda/Pterotracheoidea/Pterotracheidae|Pterotracheidae]] 
 
-### #is_/same_as :: [Pterotracheidae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Gastropoda/Caenogastropoda/Pterotracheoidea/Pterotracheidae.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Gastropoda/Caenogastropoda/Pterotracheoidea/Pterotracheidae.public|Pterotracheidae.public]] 
 
-### #is_/same_as :: [Pterotracheidae.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Gastropoda/Caenogastropoda/Pterotracheoidea/Pterotracheidae.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Gastropoda/Caenogastropoda/Pterotracheoidea/Pterotracheidae.internal|Pterotracheidae.internal]] 
 
-### #is_/same_as :: [Pterotracheidae.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Gastropoda/Caenogastropoda/Pterotracheoidea/Pterotracheidae.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Gastropoda/Caenogastropoda/Pterotracheoidea/Pterotracheidae.protect|Pterotracheidae.protect]] 
 
-### #is_/same_as :: [Pterotracheidae.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Gastropoda/Caenogastropoda/Pterotracheoidea/Pterotracheidae.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Gastropoda/Caenogastropoda/Pterotracheoidea/Pterotracheidae.private|Pterotracheidae.private]] 
 
-### #is_/same_as :: [Pterotracheidae.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Gastropoda/Caenogastropoda/Pterotracheoidea/Pterotracheidae.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Gastropoda/Caenogastropoda/Pterotracheoidea/Pterotracheidae.personal|Pterotracheidae.personal]] 
 
-### #is_/same_as :: [Pterotracheidae.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Gastropoda/Caenogastropoda/Pterotracheoidea/Pterotracheidae.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Gastropoda/Caenogastropoda/Pterotracheoidea/Pterotracheidae.secret|Pterotracheidae.secret]] 
 

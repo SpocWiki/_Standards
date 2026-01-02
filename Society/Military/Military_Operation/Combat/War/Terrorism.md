@@ -68,17 +68,17 @@ U_S_National_Archives_Identifier: 10641550
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Terrorism](/_Standards/Society/Military/Military_Operation/Combat/War/Terrorism.md) 
+### #is_/same_as :: [[/_Standards/Society/Military/Military_Operation/Combat/War/Terrorism|Terrorism]] 
 
-### #is_/same_as :: [Terrorism.public](/_public/Society/Military/Military_Operation/Combat/War/Terrorism.public.md) 
+### #is_/same_as :: [[/_public/Society/Military/Military_Operation/Combat/War/Terrorism.public|Terrorism.public]] 
 
-### #is_/same_as :: [Terrorism.internal](/_internal/Society/Military/Military_Operation/Combat/War/Terrorism.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Military/Military_Operation/Combat/War/Terrorism.internal|Terrorism.internal]] 
 
-### #is_/same_as :: [Terrorism.protect](/_protect/Society/Military/Military_Operation/Combat/War/Terrorism.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Military/Military_Operation/Combat/War/Terrorism.protect|Terrorism.protect]] 
 
-### #is_/same_as :: [Terrorism.private](/_private/Society/Military/Military_Operation/Combat/War/Terrorism.private.md) 
+### #is_/same_as :: [[/_private/Society/Military/Military_Operation/Combat/War/Terrorism.private|Terrorism.private]] 
 
-### #is_/same_as :: [Terrorism.personal](/_personal/Society/Military/Military_Operation/Combat/War/Terrorism.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Military/Military_Operation/Combat/War/Terrorism.personal|Terrorism.personal]] 
 
-### #is_/same_as :: [Terrorism.secret](/_secret/Society/Military/Military_Operation/Combat/War/Terrorism.secret.md)
+### #is_/same_as :: [[/_secret/Society/Military/Military_Operation/Combat/War/Terrorism.secret|Terrorism.secret]] 
 

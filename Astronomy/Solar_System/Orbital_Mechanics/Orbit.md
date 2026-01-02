@@ -78,17 +78,17 @@ Krugosvet_article_archived_: nauka_i_tehnika/fizika/ORBITA.html
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Orbit](/_Standards/Astronomy/Solar_System/Orbital_Mechanics/Orbit.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Solar_System/Orbital_Mechanics/Orbit|Orbit]] 
 
-### #is_/same_as :: [Orbit.public](/_public/Astronomy/Solar_System/Orbital_Mechanics/Orbit.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Solar_System/Orbital_Mechanics/Orbit.public|Orbit.public]] 
 
-### #is_/same_as :: [Orbit.internal](/_internal/Astronomy/Solar_System/Orbital_Mechanics/Orbit.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Solar_System/Orbital_Mechanics/Orbit.internal|Orbit.internal]] 
 
-### #is_/same_as :: [Orbit.protect](/_protect/Astronomy/Solar_System/Orbital_Mechanics/Orbit.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Solar_System/Orbital_Mechanics/Orbit.protect|Orbit.protect]] 
 
-### #is_/same_as :: [Orbit.private](/_private/Astronomy/Solar_System/Orbital_Mechanics/Orbit.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Solar_System/Orbital_Mechanics/Orbit.private|Orbit.private]] 
 
-### #is_/same_as :: [Orbit.personal](/_personal/Astronomy/Solar_System/Orbital_Mechanics/Orbit.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Solar_System/Orbital_Mechanics/Orbit.personal|Orbit.personal]] 
 
-### #is_/same_as :: [Orbit.secret](/_secret/Astronomy/Solar_System/Orbital_Mechanics/Orbit.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Solar_System/Orbital_Mechanics/Orbit.secret|Orbit.secret]] 
 

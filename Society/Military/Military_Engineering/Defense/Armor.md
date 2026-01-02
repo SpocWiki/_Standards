@@ -47,17 +47,17 @@ IMDb_keyword: armor
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Armor](/_Standards/Society/Military/Military_Engineering/Defense/Armor.md) 
+### #is_/same_as :: [[/_Standards/Society/Military/Military_Engineering/Defense/Armor|Armor]] 
 
-### #is_/same_as :: [Armor.public](/_public/Society/Military/Military_Engineering/Defense/Armor.public.md) 
+### #is_/same_as :: [[/_public/Society/Military/Military_Engineering/Defense/Armor.public|Armor.public]] 
 
-### #is_/same_as :: [Armor.internal](/_internal/Society/Military/Military_Engineering/Defense/Armor.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Military/Military_Engineering/Defense/Armor.internal|Armor.internal]] 
 
-### #is_/same_as :: [Armor.protect](/_protect/Society/Military/Military_Engineering/Defense/Armor.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Military/Military_Engineering/Defense/Armor.protect|Armor.protect]] 
 
-### #is_/same_as :: [Armor.private](/_private/Society/Military/Military_Engineering/Defense/Armor.private.md) 
+### #is_/same_as :: [[/_private/Society/Military/Military_Engineering/Defense/Armor.private|Armor.private]] 
 
-### #is_/same_as :: [Armor.personal](/_personal/Society/Military/Military_Engineering/Defense/Armor.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Military/Military_Engineering/Defense/Armor.personal|Armor.personal]] 
 
-### #is_/same_as :: [Armor.secret](/_secret/Society/Military/Military_Engineering/Defense/Armor.secret.md)
+### #is_/same_as :: [[/_secret/Society/Military/Military_Engineering/Defense/Armor.secret|Armor.secret]] 
 

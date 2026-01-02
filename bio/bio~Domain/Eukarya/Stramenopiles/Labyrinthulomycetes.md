@@ -40,17 +40,17 @@ title: Labyrinthulomycetes
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Labyrinthulomycetes](/_Standards/bio/bio~Domain/Eukarya/Stramenopiles/Labyrinthulomycetes.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Stramenopiles/Labyrinthulomycetes|Labyrinthulomycetes]] 
 
-### #is_/same_as :: [Labyrinthulomycetes.public](/_public/bio/bio~Domain/Eukarya/Stramenopiles/Labyrinthulomycetes.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Stramenopiles/Labyrinthulomycetes.public|Labyrinthulomycetes.public]] 
 
-### #is_/same_as :: [Labyrinthulomycetes.internal](/_internal/bio/bio~Domain/Eukarya/Stramenopiles/Labyrinthulomycetes.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Stramenopiles/Labyrinthulomycetes.internal|Labyrinthulomycetes.internal]] 
 
-### #is_/same_as :: [Labyrinthulomycetes.protect](/_protect/bio/bio~Domain/Eukarya/Stramenopiles/Labyrinthulomycetes.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Stramenopiles/Labyrinthulomycetes.protect|Labyrinthulomycetes.protect]] 
 
-### #is_/same_as :: [Labyrinthulomycetes.private](/_private/bio/bio~Domain/Eukarya/Stramenopiles/Labyrinthulomycetes.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Stramenopiles/Labyrinthulomycetes.private|Labyrinthulomycetes.private]] 
 
-### #is_/same_as :: [Labyrinthulomycetes.personal](/_personal/bio/bio~Domain/Eukarya/Stramenopiles/Labyrinthulomycetes.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Stramenopiles/Labyrinthulomycetes.personal|Labyrinthulomycetes.personal]] 
 
-### #is_/same_as :: [Labyrinthulomycetes.secret](/_secret/bio/bio~Domain/Eukarya/Stramenopiles/Labyrinthulomycetes.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Stramenopiles/Labyrinthulomycetes.secret|Labyrinthulomycetes.secret]] 
 

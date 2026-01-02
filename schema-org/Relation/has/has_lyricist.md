@@ -38,17 +38,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_lyricist](/_Standards/schema-org/Relation/has/has_lyricist.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_lyricist|has_lyricist]] 
 
-### #is_/same_as :: [has_lyricist.public](/_public/schema-org/Relation/has/has_lyricist.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_lyricist.public|has_lyricist.public]] 
 
-### #is_/same_as :: [has_lyricist.internal](/_internal/schema-org/Relation/has/has_lyricist.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_lyricist.internal|has_lyricist.internal]] 
 
-### #is_/same_as :: [has_lyricist.protect](/_protect/schema-org/Relation/has/has_lyricist.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_lyricist.protect|has_lyricist.protect]] 
 
-### #is_/same_as :: [has_lyricist.private](/_private/schema-org/Relation/has/has_lyricist.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_lyricist.private|has_lyricist.private]] 
 
-### #is_/same_as :: [has_lyricist.personal](/_personal/schema-org/Relation/has/has_lyricist.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_lyricist.personal|has_lyricist.personal]] 
 
-### #is_/same_as :: [has_lyricist.secret](/_secret/schema-org/Relation/has/has_lyricist.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_lyricist.secret|has_lyricist.secret]] 
 

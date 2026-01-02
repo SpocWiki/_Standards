@@ -94,17 +94,17 @@ Wolfram_Language_entity_code: Entity["Concept", "Caruso::586p9"]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Caruso,Enrico](/_Standards/Society/Communication/Media/Music/Musician/Singer/Opera_Singer/Caruso,Enrico.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Musician/Singer/Opera_Singer/Caruso,Enrico|Caruso,Enrico]] 
 
-### #is_/same_as :: [Caruso,Enrico.public](/_public/Society/Communication/Media/Music/Musician/Singer/Opera_Singer/Caruso,Enrico.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Musician/Singer/Opera_Singer/Caruso,Enrico.public|Caruso,Enrico.public]] 
 
-### #is_/same_as :: [Caruso,Enrico.internal](/_internal/Society/Communication/Media/Music/Musician/Singer/Opera_Singer/Caruso,Enrico.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Musician/Singer/Opera_Singer/Caruso,Enrico.internal|Caruso,Enrico.internal]] 
 
-### #is_/same_as :: [Caruso,Enrico.protect](/_protect/Society/Communication/Media/Music/Musician/Singer/Opera_Singer/Caruso,Enrico.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Musician/Singer/Opera_Singer/Caruso,Enrico.protect|Caruso,Enrico.protect]] 
 
-### #is_/same_as :: [Caruso,Enrico.private](/_private/Society/Communication/Media/Music/Musician/Singer/Opera_Singer/Caruso,Enrico.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Musician/Singer/Opera_Singer/Caruso,Enrico.private|Caruso,Enrico.private]] 
 
-### #is_/same_as :: [Caruso,Enrico.personal](/_personal/Society/Communication/Media/Music/Musician/Singer/Opera_Singer/Caruso,Enrico.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Musician/Singer/Opera_Singer/Caruso,Enrico.personal|Caruso,Enrico.personal]] 
 
-### #is_/same_as :: [Caruso,Enrico.secret](/_secret/Society/Communication/Media/Music/Musician/Singer/Opera_Singer/Caruso,Enrico.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Musician/Singer/Opera_Singer/Caruso,Enrico.secret|Caruso,Enrico.secret]] 
 

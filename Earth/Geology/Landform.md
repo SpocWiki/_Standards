@@ -87,17 +87,17 @@ and the great ocean basins.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Landform](/_Standards/Earth/Geology/Landform.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geology/Landform|Landform]] 
 
-### #is_/same_as :: [Landform.public](/_public/Earth/Geology/Landform.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geology/Landform.public|Landform.public]] 
 
-### #is_/same_as :: [Landform.internal](/_internal/Earth/Geology/Landform.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geology/Landform.internal|Landform.internal]] 
 
-### #is_/same_as :: [Landform.protect](/_protect/Earth/Geology/Landform.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geology/Landform.protect|Landform.protect]] 
 
-### #is_/same_as :: [Landform.private](/_private/Earth/Geology/Landform.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geology/Landform.private|Landform.private]] 
 
-### #is_/same_as :: [Landform.personal](/_personal/Earth/Geology/Landform.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geology/Landform.personal|Landform.personal]] 
 
-### #is_/same_as :: [Landform.secret](/_secret/Earth/Geology/Landform.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geology/Landform.secret|Landform.secret]] 
 

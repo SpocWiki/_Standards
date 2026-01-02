@@ -63,7 +63,7 @@ region of hyaline tissue between calyx lobes, a trait also found in some
 
 
 ----------------------------------------------------------------------- 
-![Dyschoriste_Tehuantepec](Dyschoriste/Dyschoriste_Tehuantepec.jpg))
+![Dyschoriste_Tehuantepec](Dyschoriste/Dyschoriste_Tehuantepec.jpg) 
 Scientific Name ::     Dyschoriste hirsutissima (Nees) Kuntze
 Location ::           Oaxaca, Mexico
 Specimen Condition   Live Specimen
@@ -71,20 +71,20 @@ Collector            E. Tripp
 Copyright ::            © [Erin Tripp](mailto:erin.tripp@duke.edu) 
 
 ---------------------------------- 
-![Dyschoristelinearis](Dyschoriste/Dyschoriste_linearis.jpg))
+![Dyschoristelinearis](Dyschoriste/Dyschoriste_linearis.jpg) 
 Scientific Name ::     Dyschoriste linearis (Torr. & A.Gray) Kuntze
 Location ::           Taylor County, Texas
 Specimen Condition   Live Specimen
 Copyright ::            © 2005 [Catnapin](http://www.catnapin.com/WildWeeds/Flowers-B/PurpleBlueBilateralAcanthus.htm)
 
 -------------------------- 
-![dyschoriste](Dyschoriste/dyschoriste.jpg))
+![dyschoriste](Dyschoriste/dyschoriste.jpg) 
 Scientific Name ::     Dyschoriste oblongifolia Kuntze
 Specimen Condition   Live Specimen
 Copyright ::            © [Peter G. May](http://www.stetson.edu/%7Epmay/stock%20flora.htm)
 
 ---------------------------------- 
-![](Dyschoriste/Dyschoriste_linearis-B.jpg))
+![](Dyschoriste/Dyschoriste_linearis-B.jpg) 
 Scientific Name ::     Dyschoriste linearis (Torr. & A.Gray) Kuntze
 Specimen Condition   Live Specimen
 Copyright ::            © 2003 [Texas Tech University](http://www.depts.ttu.edu/hillcountry/research/wildflowers.htm)
@@ -92,17 +92,17 @@ Copyright ::            © 2003 [Texas Tech University](http://www.depts.ttu.edu
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Dyschoriste](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Ruellieae/Dyschoriste.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Ruellieae/Dyschoriste|Dyschoriste]] 
 
-### #is_/same_as :: [Dyschoriste.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Ruellieae/Dyschoriste.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Ruellieae/Dyschoriste.public|Dyschoriste.public]] 
 
-### #is_/same_as :: [Dyschoriste.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Ruellieae/Dyschoriste.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Ruellieae/Dyschoriste.internal|Dyschoriste.internal]] 
 
-### #is_/same_as :: [Dyschoriste.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Ruellieae/Dyschoriste.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Ruellieae/Dyschoriste.protect|Dyschoriste.protect]] 
 
-### #is_/same_as :: [Dyschoriste.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Ruellieae/Dyschoriste.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Ruellieae/Dyschoriste.private|Dyschoriste.private]] 
 
-### #is_/same_as :: [Dyschoriste.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Ruellieae/Dyschoriste.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Ruellieae/Dyschoriste.personal|Dyschoriste.personal]] 
 
-### #is_/same_as :: [Dyschoriste.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Ruellieae/Dyschoriste.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Ruellieae/Dyschoriste.secret|Dyschoriste.secret]] 
 

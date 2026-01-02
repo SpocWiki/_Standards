@@ -206,17 +206,17 @@ ISNI: 0000000108983070
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Arnold,Vladimir](/_Standards/Mathematics/Mathematician/Arnold,Vladimir.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Mathematician/Arnold,Vladimir|Arnold,Vladimir]] 
 
-### #is_/same_as :: [Arnold,Vladimir.public](/_public/Mathematics/Mathematician/Arnold,Vladimir.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Mathematician/Arnold,Vladimir.public|Arnold,Vladimir.public]] 
 
-### #is_/same_as :: [Arnold,Vladimir.internal](/_internal/Mathematics/Mathematician/Arnold,Vladimir.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Mathematician/Arnold,Vladimir.internal|Arnold,Vladimir.internal]] 
 
-### #is_/same_as :: [Arnold,Vladimir.protect](/_protect/Mathematics/Mathematician/Arnold,Vladimir.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Mathematician/Arnold,Vladimir.protect|Arnold,Vladimir.protect]] 
 
-### #is_/same_as :: [Arnold,Vladimir.private](/_private/Mathematics/Mathematician/Arnold,Vladimir.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Mathematician/Arnold,Vladimir.private|Arnold,Vladimir.private]] 
 
-### #is_/same_as :: [Arnold,Vladimir.personal](/_personal/Mathematics/Mathematician/Arnold,Vladimir.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Mathematician/Arnold,Vladimir.personal|Arnold,Vladimir.personal]] 
 
-### #is_/same_as :: [Arnold,Vladimir.secret](/_secret/Mathematics/Mathematician/Arnold,Vladimir.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Mathematician/Arnold,Vladimir.secret|Arnold,Vladimir.secret]] 
 

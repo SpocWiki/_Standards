@@ -41,17 +41,17 @@ A MusicRelease is a specific release of a music album.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Music_Release](/_Standards/Society/Communication/Media/Creative_Work/Music_Playlist/Music_Release.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Creative_Work/Music_Playlist/Music_Release|Music_Release]] 
 
-### #is_/same_as :: [Music_Release.public](/_public/Society/Communication/Media/Creative_Work/Music_Playlist/Music_Release.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Creative_Work/Music_Playlist/Music_Release.public|Music_Release.public]] 
 
-### #is_/same_as :: [Music_Release.internal](/_internal/Society/Communication/Media/Creative_Work/Music_Playlist/Music_Release.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Creative_Work/Music_Playlist/Music_Release.internal|Music_Release.internal]] 
 
-### #is_/same_as :: [Music_Release.protect](/_protect/Society/Communication/Media/Creative_Work/Music_Playlist/Music_Release.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Creative_Work/Music_Playlist/Music_Release.protect|Music_Release.protect]] 
 
-### #is_/same_as :: [Music_Release.private](/_private/Society/Communication/Media/Creative_Work/Music_Playlist/Music_Release.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Creative_Work/Music_Playlist/Music_Release.private|Music_Release.private]] 
 
-### #is_/same_as :: [Music_Release.personal](/_personal/Society/Communication/Media/Creative_Work/Music_Playlist/Music_Release.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/Music_Playlist/Music_Release.personal|Music_Release.personal]] 
 
-### #is_/same_as :: [Music_Release.secret](/_secret/Society/Communication/Media/Creative_Work/Music_Playlist/Music_Release.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Music_Playlist/Music_Release.secret|Music_Release.secret]] 
 

@@ -45,17 +45,17 @@ Wolfram_Language_entity_code: Entity["FoodType", "Gin"]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Gin](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Gin.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Gin|Gin]] 
 
-### #is_/same_as :: [Gin.public](/_public/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Gin.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Gin.public|Gin.public]] 
 
-### #is_/same_as :: [Gin.internal](/_internal/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Gin.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Gin.internal|Gin.internal]] 
 
-### #is_/same_as :: [Gin.protect](/_protect/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Gin.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Gin.protect|Gin.protect]] 
 
-### #is_/same_as :: [Gin.private](/_private/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Gin.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Gin.private|Gin.private]] 
 
-### #is_/same_as :: [Gin.personal](/_personal/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Gin.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Gin.personal|Gin.personal]] 
 
-### #is_/same_as :: [Gin.secret](/_secret/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Gin.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Gin.secret|Gin.secret]] 
 

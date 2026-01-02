@@ -52,3 +52,22 @@ Commons_category: Painting palettes
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Palette%20(painting))
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Painting/Palette|Palette]] 
+
+### #is_/same_as :: [[/_public/Society/Communication/Media/Painting/Palette.public|Palette.public]] 
+
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Painting/Palette.internal|Palette.internal]] 
+
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Painting/Palette.protect|Palette.protect]] 
+
+### #is_/same_as :: [[/_private/Society/Communication/Media/Painting/Palette.private|Palette.private]] 
+
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Painting/Palette.personal|Palette.personal]] 
+
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Painting/Palette.secret|Palette.secret]] 
+

@@ -45,17 +45,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_url_for_archived_at](/_Standards/schema-org/Property/has_url_for/has_url_for_archived_at.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_url_for/has_url_for_archived_at|has_url_for_archived_at]] 
 
-### #is_/same_as :: [has_url_for_archived_at.public](/_public/schema-org/Property/has_url_for/has_url_for_archived_at.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/has_url_for/has_url_for_archived_at.public|has_url_for_archived_at.public]] 
 
-### #is_/same_as :: [has_url_for_archived_at.internal](/_internal/schema-org/Property/has_url_for/has_url_for_archived_at.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_url_for/has_url_for_archived_at.internal|has_url_for_archived_at.internal]] 
 
-### #is_/same_as :: [has_url_for_archived_at.protect](/_protect/schema-org/Property/has_url_for/has_url_for_archived_at.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_url_for/has_url_for_archived_at.protect|has_url_for_archived_at.protect]] 
 
-### #is_/same_as :: [has_url_for_archived_at.private](/_private/schema-org/Property/has_url_for/has_url_for_archived_at.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/has_url_for/has_url_for_archived_at.private|has_url_for_archived_at.private]] 
 
-### #is_/same_as :: [has_url_for_archived_at.personal](/_personal/schema-org/Property/has_url_for/has_url_for_archived_at.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_url_for/has_url_for_archived_at.personal|has_url_for_archived_at.personal]] 
 
-### #is_/same_as :: [has_url_for_archived_at.secret](/_secret/schema-org/Property/has_url_for/has_url_for_archived_at.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/has_url_for/has_url_for_archived_at.secret|has_url_for_archived_at.secret]] 
 

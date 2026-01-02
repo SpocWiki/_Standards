@@ -43,17 +43,17 @@ Tag Instances like this:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [User_Comments](/_Standards/schema-org/Class/is_a_/Event/User_Interaction/User_Comments.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Event/User_Interaction/User_Comments|User_Comments]] 
 
-### #is_/same_as :: [User_Comments.public](/_public/schema-org/Class/is_a_/Event/User_Interaction/User_Comments.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Event/User_Interaction/User_Comments.public|User_Comments.public]] 
 
-### #is_/same_as :: [User_Comments.internal](/_internal/schema-org/Class/is_a_/Event/User_Interaction/User_Comments.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Event/User_Interaction/User_Comments.internal|User_Comments.internal]] 
 
-### #is_/same_as :: [User_Comments.protect](/_protect/schema-org/Class/is_a_/Event/User_Interaction/User_Comments.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Event/User_Interaction/User_Comments.protect|User_Comments.protect]] 
 
-### #is_/same_as :: [User_Comments.private](/_private/schema-org/Class/is_a_/Event/User_Interaction/User_Comments.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Event/User_Interaction/User_Comments.private|User_Comments.private]] 
 
-### #is_/same_as :: [User_Comments.personal](/_personal/schema-org/Class/is_a_/Event/User_Interaction/User_Comments.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Event/User_Interaction/User_Comments.personal|User_Comments.personal]] 
 
-### #is_/same_as :: [User_Comments.secret](/_secret/schema-org/Class/is_a_/Event/User_Interaction/User_Comments.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Event/User_Interaction/User_Comments.secret|User_Comments.secret]] 
 

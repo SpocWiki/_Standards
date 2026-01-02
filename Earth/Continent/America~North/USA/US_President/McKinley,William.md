@@ -34,17 +34,17 @@ type: private_note
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [McKinley,William](/_Standards/Earth/Continent/America~North/US~President/McKinley,William.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~North/USA/US_President/McKinley,William|McKinley,William]] 
 
-### #is_/same_as :: [McKinley,William.public](/_public/Earth/Continent/America~North/US~President/McKinley,William.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~North/USA/US_President/McKinley,William.public|McKinley,William.public]] 
 
-### #is_/same_as :: [McKinley,William.internal](/_internal/Earth/Continent/America~North/US~President/McKinley,William.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~North/USA/US_President/McKinley,William.internal|McKinley,William.internal]] 
 
-### #is_/same_as :: [McKinley,William.protect](/_protect/Earth/Continent/America~North/US~President/McKinley,William.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~North/USA/US_President/McKinley,William.protect|McKinley,William.protect]] 
 
-### #is_/same_as :: [McKinley,William.private](/_private/Earth/Continent/America~North/US~President/McKinley,William.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~North/USA/US_President/McKinley,William.private|McKinley,William.private]] 
 
-### #is_/same_as :: [McKinley,William.personal](/_personal/Earth/Continent/America~North/US~President/McKinley,William.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~North/USA/US_President/McKinley,William.personal|McKinley,William.personal]] 
 
-### #is_/same_as :: [McKinley,William.secret](/_secret/Earth/Continent/America~North/US~President/McKinley,William.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~North/USA/US_President/McKinley,William.secret|McKinley,William.secret]] 
 

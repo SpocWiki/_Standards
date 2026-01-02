@@ -72,17 +72,17 @@ Unicode_character: 🪁
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Kite](/_Standards/Technology/Aviation/Kite.md) 
+### #is_/same_as :: [[/_Standards/Technology/Aviation/Kite|Kite]] 
 
-### #is_/same_as :: [Kite.public](/_public/Technology/Aviation/Kite.public.md) 
+### #is_/same_as :: [[/_public/Technology/Aviation/Kite.public|Kite.public]] 
 
-### #is_/same_as :: [Kite.internal](/_internal/Technology/Aviation/Kite.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Aviation/Kite.internal|Kite.internal]] 
 
-### #is_/same_as :: [Kite.protect](/_protect/Technology/Aviation/Kite.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Aviation/Kite.protect|Kite.protect]] 
 
-### #is_/same_as :: [Kite.private](/_private/Technology/Aviation/Kite.private.md) 
+### #is_/same_as :: [[/_private/Technology/Aviation/Kite.private|Kite.private]] 
 
-### #is_/same_as :: [Kite.personal](/_personal/Technology/Aviation/Kite.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Aviation/Kite.personal|Kite.personal]] 
 
-### #is_/same_as :: [Kite.secret](/_secret/Technology/Aviation/Kite.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Aviation/Kite.secret|Kite.secret]] 
 

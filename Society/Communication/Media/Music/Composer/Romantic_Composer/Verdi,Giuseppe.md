@@ -136,17 +136,17 @@ Europeana_entity: agent/base/146827
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Verdi,Giuseppe](/_Standards/Society/Communication/Media/Music/Composer/Romantic_Composer/Verdi,Giuseppe.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Composer/Romantic_Composer/Verdi,Giuseppe|Verdi,Giuseppe]] 
 
-### #is_/same_as :: [Verdi,Giuseppe.public](/_public/Society/Communication/Media/Music/Composer/Romantic_Composer/Verdi,Giuseppe.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Composer/Romantic_Composer/Verdi,Giuseppe.public|Verdi,Giuseppe.public]] 
 
-### #is_/same_as :: [Verdi,Giuseppe.internal](/_internal/Society/Communication/Media/Music/Composer/Romantic_Composer/Verdi,Giuseppe.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Composer/Romantic_Composer/Verdi,Giuseppe.internal|Verdi,Giuseppe.internal]] 
 
-### #is_/same_as :: [Verdi,Giuseppe.protect](/_protect/Society/Communication/Media/Music/Composer/Romantic_Composer/Verdi,Giuseppe.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Composer/Romantic_Composer/Verdi,Giuseppe.protect|Verdi,Giuseppe.protect]] 
 
-### #is_/same_as :: [Verdi,Giuseppe.private](/_private/Society/Communication/Media/Music/Composer/Romantic_Composer/Verdi,Giuseppe.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Composer/Romantic_Composer/Verdi,Giuseppe.private|Verdi,Giuseppe.private]] 
 
-### #is_/same_as :: [Verdi,Giuseppe.personal](/_personal/Society/Communication/Media/Music/Composer/Romantic_Composer/Verdi,Giuseppe.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Composer/Romantic_Composer/Verdi,Giuseppe.personal|Verdi,Giuseppe.personal]] 
 
-### #is_/same_as :: [Verdi,Giuseppe.secret](/_secret/Society/Communication/Media/Music/Composer/Romantic_Composer/Verdi,Giuseppe.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Composer/Romantic_Composer/Verdi,Giuseppe.secret|Verdi,Giuseppe.secret]] 
 

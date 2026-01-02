@@ -451,7 +451,7 @@ Specimen Condition   Live Specimen
 Copyright ::            © 2004 [Kåre Telnes](http://www.seawater.no/fauna/index.htm) 
 
 ---------------------------------------------------------------------------- 
-![Linckia laevigata (Valvatida)](Asteroidea/Linckia_laevigata1.jpg))
+![Linckia laevigata (Valvatida)](Asteroidea/Linckia_laevigata1.jpg) 
 Scientific Name ::     Linckia laevigata (Valvatida)
 Location ::           Indo-Pacific
 Specimen Condition   Live Specimen
@@ -459,7 +459,7 @@ Size                 Diameter 30 cm
 Copyright ::            © 2003 [Massimo Boyer](http://www.edge-of-reef.com/) 
 
 ------------------------------------------------------------------------- 
-![](Asteroidea/Astropecten_irregularis1.jpg))
+![](Asteroidea/Astropecten_irregularis1.jpg) 
 Scientific Name ::     Astropecten irregularis (Paxillosida)
 Location ::           Lauvsnes - North Trøndelag, Norway, 12 meters
 Specimen Condition   Live Specimen
@@ -468,17 +468,17 @@ Copyright ::            © 2004 [Kåre Telnes](http://www.seawater.no/fauna/inde
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Asteroidea](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Echinodermata/Asteroidea.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Echinodermata/Asteroidea|Asteroidea]] 
 
-### #is_/same_as :: [Asteroidea.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Echinodermata/Asteroidea.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Echinodermata/Asteroidea.public|Asteroidea.public]] 
 
-### #is_/same_as :: [Asteroidea.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Echinodermata/Asteroidea.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Echinodermata/Asteroidea.internal|Asteroidea.internal]] 
 
-### #is_/same_as :: [Asteroidea.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Echinodermata/Asteroidea.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Echinodermata/Asteroidea.protect|Asteroidea.protect]] 
 
-### #is_/same_as :: [Asteroidea.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Echinodermata/Asteroidea.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Echinodermata/Asteroidea.private|Asteroidea.private]] 
 
-### #is_/same_as :: [Asteroidea.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Echinodermata/Asteroidea.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Echinodermata/Asteroidea.personal|Asteroidea.personal]] 
 
-### #is_/same_as :: [Asteroidea.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Echinodermata/Asteroidea.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Echinodermata/Asteroidea.secret|Asteroidea.secret]] 
 

@@ -61,17 +61,17 @@ defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Unit~Newton](/_Standards/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Newton.md) 
+### #is_/same_as :: [[/_Standards/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Newton|Unit~Newton]] 
 
-### #is_/same_as :: [Unit~Newton.public](/_public/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Newton.public.md) 
+### #is_/same_as :: [[/_public/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Newton.public|Unit~Newton.public]] 
 
-### #is_/same_as :: [Unit~Newton.internal](/_internal/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Newton.internal.md) 
+### #is_/same_as :: [[/_internal/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Newton.internal|Unit~Newton.internal]] 
 
-### #is_/same_as :: [Unit~Newton.protect](/_protect/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Newton.protect.md) 
+### #is_/same_as :: [[/_protect/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Newton.protect|Unit~Newton.protect]] 
 
-### #is_/same_as :: [Unit~Newton.private](/_private/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Newton.private.md) 
+### #is_/same_as :: [[/_private/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Newton.private|Unit~Newton.private]] 
 
-### #is_/same_as :: [Unit~Newton.personal](/_personal/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Newton.personal.md) 
+### #is_/same_as :: [[/_personal/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Newton.personal|Unit~Newton.personal]] 
 
-### #is_/same_as :: [Unit~Newton.secret](/_secret/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Newton.secret.md)
+### #is_/same_as :: [[/_secret/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Newton.secret|Unit~Newton.secret]] 
 

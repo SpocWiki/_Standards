@@ -147,17 +147,17 @@ topic_s_main_template: '[[_Standards/WikiData/WD~Q26145231,26145231]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Peter_the_Great](/_Standards/Society/Politics/Government/Leader/Early_modern_Leaders/Peter_the_Great.md) 
+### #is_/same_as :: [[/_Standards/Society/Politics/Government/Leader/Early_modern_Leaders/Peter_the_Great|Peter_the_Great]] 
 
-### #is_/same_as :: [Peter_the_Great.public](/_public/Society/Politics/Government/Leader/Early_modern_Leaders/Peter_the_Great.public.md) 
+### #is_/same_as :: [[/_public/Society/Politics/Government/Leader/Early_modern_Leaders/Peter_the_Great.public|Peter_the_Great.public]] 
 
-### #is_/same_as :: [Peter_the_Great.internal](/_internal/Society/Politics/Government/Leader/Early_modern_Leaders/Peter_the_Great.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Politics/Government/Leader/Early_modern_Leaders/Peter_the_Great.internal|Peter_the_Great.internal]] 
 
-### #is_/same_as :: [Peter_the_Great.protect](/_protect/Society/Politics/Government/Leader/Early_modern_Leaders/Peter_the_Great.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Politics/Government/Leader/Early_modern_Leaders/Peter_the_Great.protect|Peter_the_Great.protect]] 
 
-### #is_/same_as :: [Peter_the_Great.private](/_private/Society/Politics/Government/Leader/Early_modern_Leaders/Peter_the_Great.private.md) 
+### #is_/same_as :: [[/_private/Society/Politics/Government/Leader/Early_modern_Leaders/Peter_the_Great.private|Peter_the_Great.private]] 
 
-### #is_/same_as :: [Peter_the_Great.personal](/_personal/Society/Politics/Government/Leader/Early_modern_Leaders/Peter_the_Great.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Politics/Government/Leader/Early_modern_Leaders/Peter_the_Great.personal|Peter_the_Great.personal]] 
 
-### #is_/same_as :: [Peter_the_Great.secret](/_secret/Society/Politics/Government/Leader/Early_modern_Leaders/Peter_the_Great.secret.md)
+### #is_/same_as :: [[/_secret/Society/Politics/Government/Leader/Early_modern_Leaders/Peter_the_Great.secret|Peter_the_Great.secret]] 
 

@@ -118,7 +118,7 @@ the water frog populations in western Greece. Zoologischer Anzeiger
 
 ## Title Illustrations
 
-![](Rana_epeirotica/epeirotica.jpg))
+![](Rana_epeirotica/epeirotica.jpg) 
 
   ----------
   Scientific Name ::  Rana epeirotica
@@ -128,17 +128,17 @@ the water frog populations in western Greece. Zoologischer Anzeiger
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Rana_epeirotica](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Neobatrachia/Ranid/Rana/Pelophylax/Western_Water_Frogs/Rana_epeirotica.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Neobatrachia/Ranid/Rana/Pelophylax/Western_Water_Frogs/Rana_epeirotica|Rana_epeirotica]] 
 
-### #is_/same_as :: [Rana_epeirotica.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Neobatrachia/Ranid/Rana/Pelophylax/Western_Water_Frogs/Rana_epeirotica.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Neobatrachia/Ranid/Rana/Pelophylax/Western_Water_Frogs/Rana_epeirotica.public|Rana_epeirotica.public]] 
 
-### #is_/same_as :: [Rana_epeirotica.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Neobatrachia/Ranid/Rana/Pelophylax/Western_Water_Frogs/Rana_epeirotica.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Neobatrachia/Ranid/Rana/Pelophylax/Western_Water_Frogs/Rana_epeirotica.internal|Rana_epeirotica.internal]] 
 
-### #is_/same_as :: [Rana_epeirotica.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Neobatrachia/Ranid/Rana/Pelophylax/Western_Water_Frogs/Rana_epeirotica.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Neobatrachia/Ranid/Rana/Pelophylax/Western_Water_Frogs/Rana_epeirotica.protect|Rana_epeirotica.protect]] 
 
-### #is_/same_as :: [Rana_epeirotica.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Neobatrachia/Ranid/Rana/Pelophylax/Western_Water_Frogs/Rana_epeirotica.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Neobatrachia/Ranid/Rana/Pelophylax/Western_Water_Frogs/Rana_epeirotica.private|Rana_epeirotica.private]] 
 
-### #is_/same_as :: [Rana_epeirotica.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Neobatrachia/Ranid/Rana/Pelophylax/Western_Water_Frogs/Rana_epeirotica.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Neobatrachia/Ranid/Rana/Pelophylax/Western_Water_Frogs/Rana_epeirotica.personal|Rana_epeirotica.personal]] 
 
-### #is_/same_as :: [Rana_epeirotica.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Neobatrachia/Ranid/Rana/Pelophylax/Western_Water_Frogs/Rana_epeirotica.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Neobatrachia/Ranid/Rana/Pelophylax/Western_Water_Frogs/Rana_epeirotica.secret|Rana_epeirotica.secret]] 
 

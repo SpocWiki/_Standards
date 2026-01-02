@@ -8,17 +8,17 @@ to describe Facts about the Origins('Provenance') of anything .
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [prov](/_Standards/Schemas/prov.md) 
+### #is_/same_as :: [[/_Standards/Schemas/prov|prov]] 
 
-### #is_/same_as :: [prov.public](/_public/Schemas/prov.public.md) 
+### #is_/same_as :: [[/_public/Schemas/prov.public|prov.public]] 
 
-### #is_/same_as :: [prov.internal](/_internal/Schemas/prov.internal.md) 
+### #is_/same_as :: [[/_internal/Schemas/prov.internal|prov.internal]] 
 
-### #is_/same_as :: [prov.protect](/_protect/Schemas/prov.protect.md) 
+### #is_/same_as :: [[/_protect/Schemas/prov.protect|prov.protect]] 
 
-### #is_/same_as :: [prov.private](/_private/Schemas/prov.private.md) 
+### #is_/same_as :: [[/_private/Schemas/prov.private|prov.private]] 
 
-### #is_/same_as :: [prov.personal](/_personal/Schemas/prov.personal.md) 
+### #is_/same_as :: [[/_personal/Schemas/prov.personal|prov.personal]] 
 
-### #is_/same_as :: [prov.secret](/_secret/Schemas/prov.secret.md)
+### #is_/same_as :: [[/_secret/Schemas/prov.secret|prov.secret]] 
 

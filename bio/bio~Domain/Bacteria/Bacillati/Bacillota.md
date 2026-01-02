@@ -88,17 +88,17 @@ low G+C Gram positives
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bacillota](/_Standards/bio/bio~Domain/Bacteria/Bacillati/Bacillota.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Bacteria/Bacillati/Bacillota|Bacillota]] 
 
-### #is_/same_as :: [Bacillota.public](/_public/bio/bio~Domain/Bacteria/Bacillati/Bacillota.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Bacteria/Bacillati/Bacillota.public|Bacillota.public]] 
 
-### #is_/same_as :: [Bacillota.internal](/_internal/bio/bio~Domain/Bacteria/Bacillati/Bacillota.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Bacteria/Bacillati/Bacillota.internal|Bacillota.internal]] 
 
-### #is_/same_as :: [Bacillota.protect](/_protect/bio/bio~Domain/Bacteria/Bacillati/Bacillota.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Bacteria/Bacillati/Bacillota.protect|Bacillota.protect]] 
 
-### #is_/same_as :: [Bacillota.private](/_private/bio/bio~Domain/Bacteria/Bacillati/Bacillota.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Bacteria/Bacillati/Bacillota.private|Bacillota.private]] 
 
-### #is_/same_as :: [Bacillota.personal](/_personal/bio/bio~Domain/Bacteria/Bacillati/Bacillota.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Bacteria/Bacillati/Bacillota.personal|Bacillota.personal]] 
 
-### #is_/same_as :: [Bacillota.secret](/_secret/bio/bio~Domain/Bacteria/Bacillati/Bacillota.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Bacteria/Bacillati/Bacillota.secret|Bacillota.secret]] 
 

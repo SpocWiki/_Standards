@@ -59,17 +59,17 @@ coordinate_location: Point(163.0 72.0)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [East_Siberian_Sea](/_Standards/Earth/Ocean/Ocean~Arctic/East_Siberian_Sea.md) 
+### #is_/same_as :: [[/_Standards/Earth/Ocean/Ocean~Arctic/East_Siberian_Sea|East_Siberian_Sea]] 
 
-### #is_/same_as :: [East_Siberian_Sea.public](/_public/Earth/Ocean/Ocean~Arctic/East_Siberian_Sea.public.md) 
+### #is_/same_as :: [[/_public/Earth/Ocean/Ocean~Arctic/East_Siberian_Sea.public|East_Siberian_Sea.public]] 
 
-### #is_/same_as :: [East_Siberian_Sea.internal](/_internal/Earth/Ocean/Ocean~Arctic/East_Siberian_Sea.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Ocean/Ocean~Arctic/East_Siberian_Sea.internal|East_Siberian_Sea.internal]] 
 
-### #is_/same_as :: [East_Siberian_Sea.protect](/_protect/Earth/Ocean/Ocean~Arctic/East_Siberian_Sea.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Ocean/Ocean~Arctic/East_Siberian_Sea.protect|East_Siberian_Sea.protect]] 
 
-### #is_/same_as :: [East_Siberian_Sea.private](/_private/Earth/Ocean/Ocean~Arctic/East_Siberian_Sea.private.md) 
+### #is_/same_as :: [[/_private/Earth/Ocean/Ocean~Arctic/East_Siberian_Sea.private|East_Siberian_Sea.private]] 
 
-### #is_/same_as :: [East_Siberian_Sea.personal](/_personal/Earth/Ocean/Ocean~Arctic/East_Siberian_Sea.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Ocean/Ocean~Arctic/East_Siberian_Sea.personal|East_Siberian_Sea.personal]] 
 
-### #is_/same_as :: [East_Siberian_Sea.secret](/_secret/Earth/Ocean/Ocean~Arctic/East_Siberian_Sea.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Ocean/Ocean~Arctic/East_Siberian_Sea.secret|East_Siberian_Sea.secret]] 
 

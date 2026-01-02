@@ -41,17 +41,17 @@ An electronics store.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Electronics_Store](/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Store/Electronics_Store.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Store/Electronics_Store|Electronics_Store]] 
 
-### #is_/same_as :: [Electronics_Store.public](/_public/Society/Agent/Community/Organization/Business/Local_Business/Store/Electronics_Store.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Business/Local_Business/Store/Electronics_Store.public|Electronics_Store.public]] 
 
-### #is_/same_as :: [Electronics_Store.internal](/_internal/Society/Agent/Community/Organization/Business/Local_Business/Store/Electronics_Store.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Business/Local_Business/Store/Electronics_Store.internal|Electronics_Store.internal]] 
 
-### #is_/same_as :: [Electronics_Store.protect](/_protect/Society/Agent/Community/Organization/Business/Local_Business/Store/Electronics_Store.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Business/Local_Business/Store/Electronics_Store.protect|Electronics_Store.protect]] 
 
-### #is_/same_as :: [Electronics_Store.private](/_private/Society/Agent/Community/Organization/Business/Local_Business/Store/Electronics_Store.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Business/Local_Business/Store/Electronics_Store.private|Electronics_Store.private]] 
 
-### #is_/same_as :: [Electronics_Store.personal](/_personal/Society/Agent/Community/Organization/Business/Local_Business/Store/Electronics_Store.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Business/Local_Business/Store/Electronics_Store.personal|Electronics_Store.personal]] 
 
-### #is_/same_as :: [Electronics_Store.secret](/_secret/Society/Agent/Community/Organization/Business/Local_Business/Store/Electronics_Store.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Business/Local_Business/Store/Electronics_Store.secret|Electronics_Store.secret]] 
 

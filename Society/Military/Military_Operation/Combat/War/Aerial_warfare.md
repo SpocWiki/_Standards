@@ -53,17 +53,17 @@ Dewey_Decimal_Classification: "358.4"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Aerial_warfare](/_Standards/Society/Military/Military_Operation/Combat/War/Aerial_warfare.md) 
+### #is_/same_as :: [[/_Standards/Society/Military/Military_Operation/Combat/War/Aerial_warfare|Aerial_warfare]] 
 
-### #is_/same_as :: [Aerial_warfare.public](/_public/Society/Military/Military_Operation/Combat/War/Aerial_warfare.public.md) 
+### #is_/same_as :: [[/_public/Society/Military/Military_Operation/Combat/War/Aerial_warfare.public|Aerial_warfare.public]] 
 
-### #is_/same_as :: [Aerial_warfare.internal](/_internal/Society/Military/Military_Operation/Combat/War/Aerial_warfare.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Military/Military_Operation/Combat/War/Aerial_warfare.internal|Aerial_warfare.internal]] 
 
-### #is_/same_as :: [Aerial_warfare.protect](/_protect/Society/Military/Military_Operation/Combat/War/Aerial_warfare.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Military/Military_Operation/Combat/War/Aerial_warfare.protect|Aerial_warfare.protect]] 
 
-### #is_/same_as :: [Aerial_warfare.private](/_private/Society/Military/Military_Operation/Combat/War/Aerial_warfare.private.md) 
+### #is_/same_as :: [[/_private/Society/Military/Military_Operation/Combat/War/Aerial_warfare.private|Aerial_warfare.private]] 
 
-### #is_/same_as :: [Aerial_warfare.personal](/_personal/Society/Military/Military_Operation/Combat/War/Aerial_warfare.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Military/Military_Operation/Combat/War/Aerial_warfare.personal|Aerial_warfare.personal]] 
 
-### #is_/same_as :: [Aerial_warfare.secret](/_secret/Society/Military/Military_Operation/Combat/War/Aerial_warfare.secret.md)
+### #is_/same_as :: [[/_secret/Society/Military/Military_Operation/Combat/War/Aerial_warfare.secret|Aerial_warfare.secret]] 
 

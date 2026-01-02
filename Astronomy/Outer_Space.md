@@ -68,17 +68,17 @@ Commons_category: Outer space
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Outer_Space](/_Standards/Astronomy/Outer_Space.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Outer_Space|Outer_Space]] 
 
-### #is_/same_as :: [Outer_Space.public](/_public/Astronomy/Outer_Space.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Outer_Space.public|Outer_Space.public]] 
 
-### #is_/same_as :: [Outer_Space.internal](/_internal/Astronomy/Outer_Space.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Outer_Space.internal|Outer_Space.internal]] 
 
-### #is_/same_as :: [Outer_Space.protect](/_protect/Astronomy/Outer_Space.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Outer_Space.protect|Outer_Space.protect]] 
 
-### #is_/same_as :: [Outer_Space.private](/_private/Astronomy/Outer_Space.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Outer_Space.private|Outer_Space.private]] 
 
-### #is_/same_as :: [Outer_Space.personal](/_personal/Astronomy/Outer_Space.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Outer_Space.personal|Outer_Space.personal]] 
 
-### #is_/same_as :: [Outer_Space.secret](/_secret/Astronomy/Outer_Space.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Outer_Space.secret|Outer_Space.secret]] 
 

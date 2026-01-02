@@ -58,17 +58,17 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/%CE%A7%CF%89%CE%BC%CE%
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Landfill](/_Standards/bio/Ecology/Waste_Management/Landfill.md) 
+### #is_/same_as :: [[/_Standards/bio/Ecology/Waste_Management/Landfill|Landfill]] 
 
-### #is_/same_as :: [Landfill.public](/_public/bio/Ecology/Waste_Management/Landfill.public.md) 
+### #is_/same_as :: [[/_public/bio/Ecology/Waste_Management/Landfill.public|Landfill.public]] 
 
-### #is_/same_as :: [Landfill.internal](/_internal/bio/Ecology/Waste_Management/Landfill.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Ecology/Waste_Management/Landfill.internal|Landfill.internal]] 
 
-### #is_/same_as :: [Landfill.protect](/_protect/bio/Ecology/Waste_Management/Landfill.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Ecology/Waste_Management/Landfill.protect|Landfill.protect]] 
 
-### #is_/same_as :: [Landfill.private](/_private/bio/Ecology/Waste_Management/Landfill.private.md) 
+### #is_/same_as :: [[/_private/bio/Ecology/Waste_Management/Landfill.private|Landfill.private]] 
 
-### #is_/same_as :: [Landfill.personal](/_personal/bio/Ecology/Waste_Management/Landfill.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Ecology/Waste_Management/Landfill.personal|Landfill.personal]] 
 
-### #is_/same_as :: [Landfill.secret](/_secret/bio/Ecology/Waste_Management/Landfill.secret.md)
+### #is_/same_as :: [[/_secret/bio/Ecology/Waste_Management/Landfill.secret|Landfill.secret]] 
 

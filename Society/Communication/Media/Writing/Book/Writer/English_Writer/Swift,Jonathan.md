@@ -132,17 +132,17 @@ Regensburg_Classification: HK 3170
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Swift,Jonathan](/_Standards/Society/Communication/Media/Writing/Book/Writer/English_Writer/Swift,Jonathan.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Writer/English_Writer/Swift,Jonathan|Swift,Jonathan]] 
 
-### #is_/same_as :: [Swift,Jonathan.public](/_public/Society/Communication/Media/Writing/Book/Writer/English_Writer/Swift,Jonathan.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Writer/English_Writer/Swift,Jonathan.public|Swift,Jonathan.public]] 
 
-### #is_/same_as :: [Swift,Jonathan.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/English_Writer/Swift,Jonathan.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Writer/English_Writer/Swift,Jonathan.internal|Swift,Jonathan.internal]] 
 
-### #is_/same_as :: [Swift,Jonathan.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/English_Writer/Swift,Jonathan.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Writer/English_Writer/Swift,Jonathan.protect|Swift,Jonathan.protect]] 
 
-### #is_/same_as :: [Swift,Jonathan.private](/_private/Society/Communication/Media/Writing/Book/Writer/English_Writer/Swift,Jonathan.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Writer/English_Writer/Swift,Jonathan.private|Swift,Jonathan.private]] 
 
-### #is_/same_as :: [Swift,Jonathan.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/English_Writer/Swift,Jonathan.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Writer/English_Writer/Swift,Jonathan.personal|Swift,Jonathan.personal]] 
 
-### #is_/same_as :: [Swift,Jonathan.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/English_Writer/Swift,Jonathan.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Writer/English_Writer/Swift,Jonathan.secret|Swift,Jonathan.secret]] 
 

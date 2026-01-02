@@ -70,17 +70,17 @@ parse and validate early, so you can use Extension Methods early to to find appl
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [CSharp~Nullable](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO-Lang/Prog~CSharp/CSharp~Nullable.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO-Lang/Prog~CSharp/CSharp~Nullable|CSharp~Nullable]] 
 
-### #is_/same_as :: [CSharp~Nullable.public](/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO-Lang/Prog~CSharp/CSharp~Nullable.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO-Lang/Prog~CSharp/CSharp~Nullable.public|CSharp~Nullable.public]] 
 
-### #is_/same_as :: [CSharp~Nullable.internal](/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO-Lang/Prog~CSharp/CSharp~Nullable.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO-Lang/Prog~CSharp/CSharp~Nullable.internal|CSharp~Nullable.internal]] 
 
-### #is_/same_as :: [CSharp~Nullable.protect](/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO-Lang/Prog~CSharp/CSharp~Nullable.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO-Lang/Prog~CSharp/CSharp~Nullable.protect|CSharp~Nullable.protect]] 
 
-### #is_/same_as :: [CSharp~Nullable.private](/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO-Lang/Prog~CSharp/CSharp~Nullable.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO-Lang/Prog~CSharp/CSharp~Nullable.private|CSharp~Nullable.private]] 
 
-### #is_/same_as :: [CSharp~Nullable.personal](/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO-Lang/Prog~CSharp/CSharp~Nullable.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO-Lang/Prog~CSharp/CSharp~Nullable.personal|CSharp~Nullable.personal]] 
 
-### #is_/same_as :: [CSharp~Nullable.secret](/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO-Lang/Prog~CSharp/CSharp~Nullable.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO-Lang/Prog~CSharp/CSharp~Nullable.secret|CSharp~Nullable.secret]] 
 

@@ -43,17 +43,17 @@ for marking up hotels and other forms of accommodations</a>.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~Resort](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LodgingBusiness/FileClass~Resort.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LodgingBusiness/FileClass~Resort|FileClass~Resort]] 
 
-### #is_/same_as :: [FileClass~Resort.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LodgingBusiness/FileClass~Resort.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LodgingBusiness/FileClass~Resort.public|FileClass~Resort.public]] 
 
-### #is_/same_as :: [FileClass~Resort.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LodgingBusiness/FileClass~Resort.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LodgingBusiness/FileClass~Resort.internal|FileClass~Resort.internal]] 
 
-### #is_/same_as :: [FileClass~Resort.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LodgingBusiness/FileClass~Resort.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LodgingBusiness/FileClass~Resort.protect|FileClass~Resort.protect]] 
 
-### #is_/same_as :: [FileClass~Resort.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LodgingBusiness/FileClass~Resort.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LodgingBusiness/FileClass~Resort.private|FileClass~Resort.private]] 
 
-### #is_/same_as :: [FileClass~Resort.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LodgingBusiness/FileClass~Resort.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LodgingBusiness/FileClass~Resort.personal|FileClass~Resort.personal]] 
 
-### #is_/same_as :: [FileClass~Resort.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LodgingBusiness/FileClass~Resort.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LodgingBusiness/FileClass~Resort.secret|FileClass~Resort.secret]] 
 

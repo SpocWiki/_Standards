@@ -80,17 +80,17 @@ date_of_birth: 1920-10-15T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Puzo,Mario](/_Standards/Society/Communication/Media/Writing/Book/Writer/US_Writer/Puzo,Mario.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Writer/US_Writer/Puzo,Mario|Puzo,Mario]] 
 
-### #is_/same_as :: [Puzo,Mario.public](/_public/Society/Communication/Media/Writing/Book/Writer/US_Writer/Puzo,Mario.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Writer/US_Writer/Puzo,Mario.public|Puzo,Mario.public]] 
 
-### #is_/same_as :: [Puzo,Mario.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/US_Writer/Puzo,Mario.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Writer/US_Writer/Puzo,Mario.internal|Puzo,Mario.internal]] 
 
-### #is_/same_as :: [Puzo,Mario.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/US_Writer/Puzo,Mario.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Writer/US_Writer/Puzo,Mario.protect|Puzo,Mario.protect]] 
 
-### #is_/same_as :: [Puzo,Mario.private](/_private/Society/Communication/Media/Writing/Book/Writer/US_Writer/Puzo,Mario.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Writer/US_Writer/Puzo,Mario.private|Puzo,Mario.private]] 
 
-### #is_/same_as :: [Puzo,Mario.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/US_Writer/Puzo,Mario.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Writer/US_Writer/Puzo,Mario.personal|Puzo,Mario.personal]] 
 
-### #is_/same_as :: [Puzo,Mario.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/US_Writer/Puzo,Mario.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Writer/US_Writer/Puzo,Mario.secret|Puzo,Mario.secret]] 
 

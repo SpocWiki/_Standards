@@ -124,17 +124,17 @@ ISNI: 000000010883629X
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Davy,Humphry](/_Standards/Chemistry/Chemist/Davy,Humphry.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Chemist/Davy,Humphry|Davy,Humphry]] 
 
-### #is_/same_as :: [Davy,Humphry.public](/_public/Chemistry/Chemist/Davy,Humphry.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Chemist/Davy,Humphry.public|Davy,Humphry.public]] 
 
-### #is_/same_as :: [Davy,Humphry.internal](/_internal/Chemistry/Chemist/Davy,Humphry.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Chemist/Davy,Humphry.internal|Davy,Humphry.internal]] 
 
-### #is_/same_as :: [Davy,Humphry.protect](/_protect/Chemistry/Chemist/Davy,Humphry.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Chemist/Davy,Humphry.protect|Davy,Humphry.protect]] 
 
-### #is_/same_as :: [Davy,Humphry.private](/_private/Chemistry/Chemist/Davy,Humphry.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Chemist/Davy,Humphry.private|Davy,Humphry.private]] 
 
-### #is_/same_as :: [Davy,Humphry.personal](/_personal/Chemistry/Chemist/Davy,Humphry.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Chemist/Davy,Humphry.personal|Davy,Humphry.personal]] 
 
-### #is_/same_as :: [Davy,Humphry.secret](/_secret/Chemistry/Chemist/Davy,Humphry.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Chemist/Davy,Humphry.secret|Davy,Humphry.secret]] 
 

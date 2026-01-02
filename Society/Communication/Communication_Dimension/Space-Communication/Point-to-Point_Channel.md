@@ -23,17 +23,17 @@ subclass_of: "[[_Standards/WikiData/WD~communication,11024]]"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Point-to-Point_Channel](/_Standards/Society/Communication/Communication_Dimension/Space-Communication/Point-to-Point_Channel.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Communication_Dimension/Space-Communication/Point-to-Point_Channel|Point-to-Point_Channel]] 
 
-### #is_/same_as :: [Point-to-Point_Channel.public](/_public/Society/Communication/Communication_Dimension/Space-Communication/Point-to-Point_Channel.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Communication_Dimension/Space-Communication/Point-to-Point_Channel.public|Point-to-Point_Channel.public]] 
 
-### #is_/same_as :: [Point-to-Point_Channel.internal](/_internal/Society/Communication/Communication_Dimension/Space-Communication/Point-to-Point_Channel.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Communication_Dimension/Space-Communication/Point-to-Point_Channel.internal|Point-to-Point_Channel.internal]] 
 
-### #is_/same_as :: [Point-to-Point_Channel.protect](/_protect/Society/Communication/Communication_Dimension/Space-Communication/Point-to-Point_Channel.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Communication_Dimension/Space-Communication/Point-to-Point_Channel.protect|Point-to-Point_Channel.protect]] 
 
-### #is_/same_as :: [Point-to-Point_Channel.private](/_private/Society/Communication/Communication_Dimension/Space-Communication/Point-to-Point_Channel.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Communication_Dimension/Space-Communication/Point-to-Point_Channel.private|Point-to-Point_Channel.private]] 
 
-### #is_/same_as :: [Point-to-Point_Channel.personal](/_personal/Society/Communication/Communication_Dimension/Space-Communication/Point-to-Point_Channel.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Communication_Dimension/Space-Communication/Point-to-Point_Channel.personal|Point-to-Point_Channel.personal]] 
 
-### #is_/same_as :: [Point-to-Point_Channel.secret](/_secret/Society/Communication/Communication_Dimension/Space-Communication/Point-to-Point_Channel.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Communication_Dimension/Space-Communication/Point-to-Point_Channel.secret|Point-to-Point_Channel.secret]] 
 

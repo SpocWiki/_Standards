@@ -44,17 +44,17 @@ Item is a pharmaceutical (e.g., a prescription or OTC drug) or a restricted medi
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Healthcare_Consideration](/_Standards/schema-org/Enumeration/Adult_Oriented_Enumeration/Healthcare_Consideration.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Adult_Oriented_Enumeration/Healthcare_Consideration|Healthcare_Consideration]] 
 
-### #is_/same_as :: [Healthcare_Consideration.public](/_public/schema-org/Enumeration/Adult_Oriented_Enumeration/Healthcare_Consideration.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Adult_Oriented_Enumeration/Healthcare_Consideration.public|Healthcare_Consideration.public]] 
 
-### #is_/same_as :: [Healthcare_Consideration.internal](/_internal/schema-org/Enumeration/Adult_Oriented_Enumeration/Healthcare_Consideration.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Adult_Oriented_Enumeration/Healthcare_Consideration.internal|Healthcare_Consideration.internal]] 
 
-### #is_/same_as :: [Healthcare_Consideration.protect](/_protect/schema-org/Enumeration/Adult_Oriented_Enumeration/Healthcare_Consideration.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Adult_Oriented_Enumeration/Healthcare_Consideration.protect|Healthcare_Consideration.protect]] 
 
-### #is_/same_as :: [Healthcare_Consideration.private](/_private/schema-org/Enumeration/Adult_Oriented_Enumeration/Healthcare_Consideration.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Adult_Oriented_Enumeration/Healthcare_Consideration.private|Healthcare_Consideration.private]] 
 
-### #is_/same_as :: [Healthcare_Consideration.personal](/_personal/schema-org/Enumeration/Adult_Oriented_Enumeration/Healthcare_Consideration.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Adult_Oriented_Enumeration/Healthcare_Consideration.personal|Healthcare_Consideration.personal]] 
 
-### #is_/same_as :: [Healthcare_Consideration.secret](/_secret/schema-org/Enumeration/Adult_Oriented_Enumeration/Healthcare_Consideration.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Adult_Oriented_Enumeration/Healthcare_Consideration.secret|Healthcare_Consideration.secret]] 
 

@@ -59,17 +59,17 @@ Unicode_character: 🪥
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Toothbrush](/_Standards/Technology/Tool/Mechanical_Tool/Hand_Tool/Brush/Toothbrush.md) 
+### #is_/same_as :: [[/_Standards/Technology/Tool/Mechanical_Tool/Hand_Tool/Brush/Toothbrush|Toothbrush]] 
 
-### #is_/same_as :: [Toothbrush.public](/_public/Technology/Tool/Mechanical_Tool/Hand_Tool/Brush/Toothbrush.public.md) 
+### #is_/same_as :: [[/_public/Technology/Tool/Mechanical_Tool/Hand_Tool/Brush/Toothbrush.public|Toothbrush.public]] 
 
-### #is_/same_as :: [Toothbrush.internal](/_internal/Technology/Tool/Mechanical_Tool/Hand_Tool/Brush/Toothbrush.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Tool/Mechanical_Tool/Hand_Tool/Brush/Toothbrush.internal|Toothbrush.internal]] 
 
-### #is_/same_as :: [Toothbrush.protect](/_protect/Technology/Tool/Mechanical_Tool/Hand_Tool/Brush/Toothbrush.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Tool/Mechanical_Tool/Hand_Tool/Brush/Toothbrush.protect|Toothbrush.protect]] 
 
-### #is_/same_as :: [Toothbrush.private](/_private/Technology/Tool/Mechanical_Tool/Hand_Tool/Brush/Toothbrush.private.md) 
+### #is_/same_as :: [[/_private/Technology/Tool/Mechanical_Tool/Hand_Tool/Brush/Toothbrush.private|Toothbrush.private]] 
 
-### #is_/same_as :: [Toothbrush.personal](/_personal/Technology/Tool/Mechanical_Tool/Hand_Tool/Brush/Toothbrush.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Tool/Mechanical_Tool/Hand_Tool/Brush/Toothbrush.personal|Toothbrush.personal]] 
 
-### #is_/same_as :: [Toothbrush.secret](/_secret/Technology/Tool/Mechanical_Tool/Hand_Tool/Brush/Toothbrush.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Tool/Mechanical_Tool/Hand_Tool/Brush/Toothbrush.secret|Toothbrush.secret]] 
 

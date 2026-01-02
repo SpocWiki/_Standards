@@ -156,17 +156,17 @@ U_S_National_Archives_Identifier: 10581505
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Somerset_Maugham,William](/_Standards/Society/Communication/Media/Writing/Book/Playwright/Somerset_Maugham,William.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Playwright/Somerset_Maugham,William|Somerset_Maugham,William]] 
 
-### #is_/same_as :: [Somerset_Maugham,William.public](/_public/Society/Communication/Media/Writing/Book/Playwright/Somerset_Maugham,William.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Playwright/Somerset_Maugham,William.public|Somerset_Maugham,William.public]] 
 
-### #is_/same_as :: [Somerset_Maugham,William.internal](/_internal/Society/Communication/Media/Writing/Book/Playwright/Somerset_Maugham,William.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Playwright/Somerset_Maugham,William.internal|Somerset_Maugham,William.internal]] 
 
-### #is_/same_as :: [Somerset_Maugham,William.protect](/_protect/Society/Communication/Media/Writing/Book/Playwright/Somerset_Maugham,William.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Playwright/Somerset_Maugham,William.protect|Somerset_Maugham,William.protect]] 
 
-### #is_/same_as :: [Somerset_Maugham,William.private](/_private/Society/Communication/Media/Writing/Book/Playwright/Somerset_Maugham,William.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Playwright/Somerset_Maugham,William.private|Somerset_Maugham,William.private]] 
 
-### #is_/same_as :: [Somerset_Maugham,William.personal](/_personal/Society/Communication/Media/Writing/Book/Playwright/Somerset_Maugham,William.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Playwright/Somerset_Maugham,William.personal|Somerset_Maugham,William.personal]] 
 
-### #is_/same_as :: [Somerset_Maugham,William.secret](/_secret/Society/Communication/Media/Writing/Book/Playwright/Somerset_Maugham,William.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Playwright/Somerset_Maugham,William.secret|Somerset_Maugham,William.secret]] 
 

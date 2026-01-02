@@ -177,17 +177,17 @@ work_period_start_: 1859-06-01
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Tchaikovsky,Pyotr_Ilyich](/_Standards/Society/Communication/Media/Music/Composer/Romantic_Composer/Tchaikovsky,Pyotr_Ilyich.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Composer/Romantic_Composer/Tchaikovsky,Pyotr_Ilyich|Tchaikovsky,Pyotr_Ilyich]] 
 
-### #is_/same_as :: [Tchaikovsky,Pyotr_Ilyich.public](/_public/Society/Communication/Media/Music/Composer/Romantic_Composer/Tchaikovsky,Pyotr_Ilyich.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Composer/Romantic_Composer/Tchaikovsky,Pyotr_Ilyich.public|Tchaikovsky,Pyotr_Ilyich.public]] 
 
-### #is_/same_as :: [Tchaikovsky,Pyotr_Ilyich.internal](/_internal/Society/Communication/Media/Music/Composer/Romantic_Composer/Tchaikovsky,Pyotr_Ilyich.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Composer/Romantic_Composer/Tchaikovsky,Pyotr_Ilyich.internal|Tchaikovsky,Pyotr_Ilyich.internal]] 
 
-### #is_/same_as :: [Tchaikovsky,Pyotr_Ilyich.protect](/_protect/Society/Communication/Media/Music/Composer/Romantic_Composer/Tchaikovsky,Pyotr_Ilyich.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Composer/Romantic_Composer/Tchaikovsky,Pyotr_Ilyich.protect|Tchaikovsky,Pyotr_Ilyich.protect]] 
 
-### #is_/same_as :: [Tchaikovsky,Pyotr_Ilyich.private](/_private/Society/Communication/Media/Music/Composer/Romantic_Composer/Tchaikovsky,Pyotr_Ilyich.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Composer/Romantic_Composer/Tchaikovsky,Pyotr_Ilyich.private|Tchaikovsky,Pyotr_Ilyich.private]] 
 
-### #is_/same_as :: [Tchaikovsky,Pyotr_Ilyich.personal](/_personal/Society/Communication/Media/Music/Composer/Romantic_Composer/Tchaikovsky,Pyotr_Ilyich.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Composer/Romantic_Composer/Tchaikovsky,Pyotr_Ilyich.personal|Tchaikovsky,Pyotr_Ilyich.personal]] 
 
-### #is_/same_as :: [Tchaikovsky,Pyotr_Ilyich.secret](/_secret/Society/Communication/Media/Music/Composer/Romantic_Composer/Tchaikovsky,Pyotr_Ilyich.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Composer/Romantic_Composer/Tchaikovsky,Pyotr_Ilyich.secret|Tchaikovsky,Pyotr_Ilyich.secret]] 
 

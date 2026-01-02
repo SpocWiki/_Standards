@@ -98,17 +98,17 @@ A waterfall, like Niagara.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [waterfall](/_Standards/Earth/Geology/Landform/body_of_water/waterfall.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geology/Landform/body_of_water/waterfall|waterfall]] 
 
-### #is_/same_as :: [waterfall.public](/_public/Earth/Geology/Landform/body_of_water/waterfall.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geology/Landform/body_of_water/waterfall.public|waterfall.public]] 
 
-### #is_/same_as :: [waterfall.internal](/_internal/Earth/Geology/Landform/body_of_water/waterfall.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geology/Landform/body_of_water/waterfall.internal|waterfall.internal]] 
 
-### #is_/same_as :: [waterfall.protect](/_protect/Earth/Geology/Landform/body_of_water/waterfall.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geology/Landform/body_of_water/waterfall.protect|waterfall.protect]] 
 
-### #is_/same_as :: [waterfall.private](/_private/Earth/Geology/Landform/body_of_water/waterfall.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geology/Landform/body_of_water/waterfall.private|waterfall.private]] 
 
-### #is_/same_as :: [waterfall.personal](/_personal/Earth/Geology/Landform/body_of_water/waterfall.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geology/Landform/body_of_water/waterfall.personal|waterfall.personal]] 
 
-### #is_/same_as :: [waterfall.secret](/_secret/Earth/Geology/Landform/body_of_water/waterfall.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geology/Landform/body_of_water/waterfall.secret|waterfall.secret]] 
 

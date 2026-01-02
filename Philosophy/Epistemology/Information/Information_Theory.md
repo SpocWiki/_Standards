@@ -54,17 +54,17 @@ Krugosvet_article_archived_: nauka_i_tehnika/matematika/INFORMATSII_TEORIYA.html
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Information_Theory](/_Standards/Philosophy/Epistemology/Information/Information_Theory.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Epistemology/Information/Information_Theory|Information_Theory]] 
 
-### #is_/same_as :: [Information_Theory.public](/_public/Philosophy/Epistemology/Information/Information_Theory.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Epistemology/Information/Information_Theory.public|Information_Theory.public]] 
 
-### #is_/same_as :: [Information_Theory.internal](/_internal/Philosophy/Epistemology/Information/Information_Theory.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Epistemology/Information/Information_Theory.internal|Information_Theory.internal]] 
 
-### #is_/same_as :: [Information_Theory.protect](/_protect/Philosophy/Epistemology/Information/Information_Theory.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Epistemology/Information/Information_Theory.protect|Information_Theory.protect]] 
 
-### #is_/same_as :: [Information_Theory.private](/_private/Philosophy/Epistemology/Information/Information_Theory.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Epistemology/Information/Information_Theory.private|Information_Theory.private]] 
 
-### #is_/same_as :: [Information_Theory.personal](/_personal/Philosophy/Epistemology/Information/Information_Theory.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Epistemology/Information/Information_Theory.personal|Information_Theory.personal]] 
 
-### #is_/same_as :: [Information_Theory.secret](/_secret/Philosophy/Epistemology/Information/Information_Theory.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Epistemology/Information/Information_Theory.secret|Information_Theory.secret]] 
 

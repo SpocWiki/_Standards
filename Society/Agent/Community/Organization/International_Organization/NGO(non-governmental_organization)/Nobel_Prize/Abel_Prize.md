@@ -108,17 +108,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Abel_Prize](/_Standards/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Nobel_Prize/Abel_Prize.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Nobel_Prize/Abel_Prize|Abel_Prize]] 
 
-### #is_/same_as :: [Abel_Prize.public](/_public/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Nobel_Prize/Abel_Prize.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Nobel_Prize/Abel_Prize.public|Abel_Prize.public]] 
 
-### #is_/same_as :: [Abel_Prize.internal](/_internal/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Nobel_Prize/Abel_Prize.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Nobel_Prize/Abel_Prize.internal|Abel_Prize.internal]] 
 
-### #is_/same_as :: [Abel_Prize.protect](/_protect/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Nobel_Prize/Abel_Prize.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Nobel_Prize/Abel_Prize.protect|Abel_Prize.protect]] 
 
-### #is_/same_as :: [Abel_Prize.private](/_private/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Nobel_Prize/Abel_Prize.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Nobel_Prize/Abel_Prize.private|Abel_Prize.private]] 
 
-### #is_/same_as :: [Abel_Prize.personal](/_personal/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Nobel_Prize/Abel_Prize.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Nobel_Prize/Abel_Prize.personal|Abel_Prize.personal]] 
 
-### #is_/same_as :: [Abel_Prize.secret](/_secret/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Nobel_Prize/Abel_Prize.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Nobel_Prize/Abel_Prize.secret|Abel_Prize.secret]] 
 

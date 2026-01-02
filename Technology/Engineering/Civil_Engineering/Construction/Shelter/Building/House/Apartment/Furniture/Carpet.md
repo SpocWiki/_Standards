@@ -83,17 +83,17 @@ P8189: 987007284881905171
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Carpet](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Furniture/Carpet.md) 
+### #is_/same_as :: [[/_Standards/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Furniture/Carpet|Carpet]] 
 
-### #is_/same_as :: [Carpet.public](/_public/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Furniture/Carpet.public.md) 
+### #is_/same_as :: [[/_public/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Furniture/Carpet.public|Carpet.public]] 
 
-### #is_/same_as :: [Carpet.internal](/_internal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Furniture/Carpet.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Furniture/Carpet.internal|Carpet.internal]] 
 
-### #is_/same_as :: [Carpet.protect](/_protect/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Furniture/Carpet.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Furniture/Carpet.protect|Carpet.protect]] 
 
-### #is_/same_as :: [Carpet.private](/_private/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Furniture/Carpet.private.md) 
+### #is_/same_as :: [[/_private/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Furniture/Carpet.private|Carpet.private]] 
 
-### #is_/same_as :: [Carpet.personal](/_personal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Furniture/Carpet.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Furniture/Carpet.personal|Carpet.personal]] 
 
-### #is_/same_as :: [Carpet.secret](/_secret/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Furniture/Carpet.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Furniture/Carpet.secret|Carpet.secret]] 
 

@@ -48,17 +48,17 @@ MeSH_tree_code: J01.576.655.437
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Chemical_Industry](/_Standards/Society/Economics/Industry/Chemical_Industry.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Industry/Chemical_Industry|Chemical_Industry]] 
 
-### #is_/same_as :: [Chemical_Industry.public](/_public/Society/Economics/Industry/Chemical_Industry.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Industry/Chemical_Industry.public|Chemical_Industry.public]] 
 
-### #is_/same_as :: [Chemical_Industry.internal](/_internal/Society/Economics/Industry/Chemical_Industry.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Industry/Chemical_Industry.internal|Chemical_Industry.internal]] 
 
-### #is_/same_as :: [Chemical_Industry.protect](/_protect/Society/Economics/Industry/Chemical_Industry.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Industry/Chemical_Industry.protect|Chemical_Industry.protect]] 
 
-### #is_/same_as :: [Chemical_Industry.private](/_private/Society/Economics/Industry/Chemical_Industry.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Industry/Chemical_Industry.private|Chemical_Industry.private]] 
 
-### #is_/same_as :: [Chemical_Industry.personal](/_personal/Society/Economics/Industry/Chemical_Industry.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Industry/Chemical_Industry.personal|Chemical_Industry.personal]] 
 
-### #is_/same_as :: [Chemical_Industry.secret](/_secret/Society/Economics/Industry/Chemical_Industry.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Industry/Chemical_Industry.secret|Chemical_Industry.secret]] 
 

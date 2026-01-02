@@ -37,17 +37,17 @@ A government building.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~GovernmentBuilding](/_Standards/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~GovernmentBuilding.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~GovernmentBuilding|FileClass~GovernmentBuilding]] 
 
-### #is_/same_as :: [FileClass~GovernmentBuilding.public](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~GovernmentBuilding.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~GovernmentBuilding.public|FileClass~GovernmentBuilding.public]] 
 
-### #is_/same_as :: [FileClass~GovernmentBuilding.internal](/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~GovernmentBuilding.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~GovernmentBuilding.internal|FileClass~GovernmentBuilding.internal]] 
 
-### #is_/same_as :: [FileClass~GovernmentBuilding.protect](/_protect/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~GovernmentBuilding.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~GovernmentBuilding.protect|FileClass~GovernmentBuilding.protect]] 
 
-### #is_/same_as :: [FileClass~GovernmentBuilding.private](/_private/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~GovernmentBuilding.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~GovernmentBuilding.private|FileClass~GovernmentBuilding.private]] 
 
-### #is_/same_as :: [FileClass~GovernmentBuilding.personal](/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~GovernmentBuilding.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~GovernmentBuilding.personal|FileClass~GovernmentBuilding.personal]] 
 
-### #is_/same_as :: [FileClass~GovernmentBuilding.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~GovernmentBuilding.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~GovernmentBuilding.secret|FileClass~GovernmentBuilding.secret]] 
 

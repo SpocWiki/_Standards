@@ -164,17 +164,17 @@ ISNI: 0000000109142724
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Mendeleev,Dmitri](/_Standards/Chemistry/Chemist/Mendeleev,Dmitri.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Chemist/Mendeleev,Dmitri|Mendeleev,Dmitri]] 
 
-### #is_/same_as :: [Mendeleev,Dmitri.public](/_public/Chemistry/Chemist/Mendeleev,Dmitri.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Chemist/Mendeleev,Dmitri.public|Mendeleev,Dmitri.public]] 
 
-### #is_/same_as :: [Mendeleev,Dmitri.internal](/_internal/Chemistry/Chemist/Mendeleev,Dmitri.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Chemist/Mendeleev,Dmitri.internal|Mendeleev,Dmitri.internal]] 
 
-### #is_/same_as :: [Mendeleev,Dmitri.protect](/_protect/Chemistry/Chemist/Mendeleev,Dmitri.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Chemist/Mendeleev,Dmitri.protect|Mendeleev,Dmitri.protect]] 
 
-### #is_/same_as :: [Mendeleev,Dmitri.private](/_private/Chemistry/Chemist/Mendeleev,Dmitri.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Chemist/Mendeleev,Dmitri.private|Mendeleev,Dmitri.private]] 
 
-### #is_/same_as :: [Mendeleev,Dmitri.personal](/_personal/Chemistry/Chemist/Mendeleev,Dmitri.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Chemist/Mendeleev,Dmitri.personal|Mendeleev,Dmitri.personal]] 
 
-### #is_/same_as :: [Mendeleev,Dmitri.secret](/_secret/Chemistry/Chemist/Mendeleev,Dmitri.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Chemist/Mendeleev,Dmitri.secret|Mendeleev,Dmitri.secret]] 
 

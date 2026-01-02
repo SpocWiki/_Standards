@@ -93,17 +93,17 @@ A city or town.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [City](/_Standards/Earth/Geography/Place/Administrative_Area/City.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geography/Place/Administrative_Area/City|City]] 
 
-### #is_/same_as :: [City.public](/_public/Earth/Geography/Place/Administrative_Area/City.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geography/Place/Administrative_Area/City.public|City.public]] 
 
-### #is_/same_as :: [City.internal](/_internal/Earth/Geography/Place/Administrative_Area/City.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geography/Place/Administrative_Area/City.internal|City.internal]] 
 
-### #is_/same_as :: [City.protect](/_protect/Earth/Geography/Place/Administrative_Area/City.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geography/Place/Administrative_Area/City.protect|City.protect]] 
 
-### #is_/same_as :: [City.private](/_private/Earth/Geography/Place/Administrative_Area/City.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geography/Place/Administrative_Area/City.private|City.private]] 
 
-### #is_/same_as :: [City.personal](/_personal/Earth/Geography/Place/Administrative_Area/City.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geography/Place/Administrative_Area/City.personal|City.personal]] 
 
-### #is_/same_as :: [City.secret](/_secret/Earth/Geography/Place/Administrative_Area/City.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geography/Place/Administrative_Area/City.secret|City.secret]] 
 

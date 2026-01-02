@@ -46,17 +46,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_broadcast_service_tier](/_Standards/schema-org/Property/Texts/has_broadcast_service_tier.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/Texts/has_broadcast_service_tier|has_broadcast_service_tier]] 
 
-### #is_/same_as :: [has_broadcast_service_tier.public](/_public/schema-org/Property/Texts/has_broadcast_service_tier.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/Texts/has_broadcast_service_tier.public|has_broadcast_service_tier.public]] 
 
-### #is_/same_as :: [has_broadcast_service_tier.internal](/_internal/schema-org/Property/Texts/has_broadcast_service_tier.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/Texts/has_broadcast_service_tier.internal|has_broadcast_service_tier.internal]] 
 
-### #is_/same_as :: [has_broadcast_service_tier.protect](/_protect/schema-org/Property/Texts/has_broadcast_service_tier.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/Texts/has_broadcast_service_tier.protect|has_broadcast_service_tier.protect]] 
 
-### #is_/same_as :: [has_broadcast_service_tier.private](/_private/schema-org/Property/Texts/has_broadcast_service_tier.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/Texts/has_broadcast_service_tier.private|has_broadcast_service_tier.private]] 
 
-### #is_/same_as :: [has_broadcast_service_tier.personal](/_personal/schema-org/Property/Texts/has_broadcast_service_tier.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/Texts/has_broadcast_service_tier.personal|has_broadcast_service_tier.personal]] 
 
-### #is_/same_as :: [has_broadcast_service_tier.secret](/_secret/schema-org/Property/Texts/has_broadcast_service_tier.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/Texts/has_broadcast_service_tier.secret|has_broadcast_service_tier.secret]] 
 

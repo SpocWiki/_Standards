@@ -82,17 +82,17 @@ U_S_National_Archives_Identifier: 10637726
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bread](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Bread.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Home_Economics/Cooking/Food/Bread|Bread]] 
 
-### #is_/same_as :: [Bread.public](/_public/Society/Economics/Home_Economics/Cooking/Food/Bread.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Home_Economics/Cooking/Food/Bread.public|Bread.public]] 
 
-### #is_/same_as :: [Bread.internal](/_internal/Society/Economics/Home_Economics/Cooking/Food/Bread.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Home_Economics/Cooking/Food/Bread.internal|Bread.internal]] 
 
-### #is_/same_as :: [Bread.protect](/_protect/Society/Economics/Home_Economics/Cooking/Food/Bread.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Home_Economics/Cooking/Food/Bread.protect|Bread.protect]] 
 
-### #is_/same_as :: [Bread.private](/_private/Society/Economics/Home_Economics/Cooking/Food/Bread.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Home_Economics/Cooking/Food/Bread.private|Bread.private]] 
 
-### #is_/same_as :: [Bread.personal](/_personal/Society/Economics/Home_Economics/Cooking/Food/Bread.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Home_Economics/Cooking/Food/Bread.personal|Bread.personal]] 
 
-### #is_/same_as :: [Bread.secret](/_secret/Society/Economics/Home_Economics/Cooking/Food/Bread.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Home_Economics/Cooking/Food/Bread.secret|Bread.secret]] 
 

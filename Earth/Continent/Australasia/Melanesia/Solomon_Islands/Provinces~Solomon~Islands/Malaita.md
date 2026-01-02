@@ -40,17 +40,17 @@ markerFolder: ./Malaita/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Malaita](/_Standards/Earth/Continent/Australasia/Melanesia/Solomon_Islands/Provinces~Solomon~Islands/Malaita.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Australasia/Melanesia/Solomon_Islands/Provinces~Solomon~Islands/Malaita|Malaita]] 
 
-### #is_/same_as :: [Malaita.public](/_public/Earth/Continent/Australasia/Melanesia/Solomon_Islands/Provinces~Solomon~Islands/Malaita.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Australasia/Melanesia/Solomon_Islands/Provinces~Solomon~Islands/Malaita.public|Malaita.public]] 
 
-### #is_/same_as :: [Malaita.internal](/_internal/Earth/Continent/Australasia/Melanesia/Solomon_Islands/Provinces~Solomon~Islands/Malaita.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Australasia/Melanesia/Solomon_Islands/Provinces~Solomon~Islands/Malaita.internal|Malaita.internal]] 
 
-### #is_/same_as :: [Malaita.protect](/_protect/Earth/Continent/Australasia/Melanesia/Solomon_Islands/Provinces~Solomon~Islands/Malaita.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Australasia/Melanesia/Solomon_Islands/Provinces~Solomon~Islands/Malaita.protect|Malaita.protect]] 
 
-### #is_/same_as :: [Malaita.private](/_private/Earth/Continent/Australasia/Melanesia/Solomon_Islands/Provinces~Solomon~Islands/Malaita.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Australasia/Melanesia/Solomon_Islands/Provinces~Solomon~Islands/Malaita.private|Malaita.private]] 
 
-### #is_/same_as :: [Malaita.personal](/_personal/Earth/Continent/Australasia/Melanesia/Solomon_Islands/Provinces~Solomon~Islands/Malaita.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Australasia/Melanesia/Solomon_Islands/Provinces~Solomon~Islands/Malaita.personal|Malaita.personal]] 
 
-### #is_/same_as :: [Malaita.secret](/_secret/Earth/Continent/Australasia/Melanesia/Solomon_Islands/Provinces~Solomon~Islands/Malaita.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Australasia/Melanesia/Solomon_Islands/Provinces~Solomon~Islands/Malaita.secret|Malaita.secret]] 
 

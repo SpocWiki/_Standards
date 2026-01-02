@@ -61,17 +61,17 @@ Dewey_Decimal_Classification: "623.862"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sail](/_Standards/Technology/Transport/Water_Transport/Sailing/Sail.md) 
+### #is_/same_as :: [[/_Standards/Technology/Transport/Water_Transport/Sailing/Sail|Sail]] 
 
-### #is_/same_as :: [Sail.public](/_public/Technology/Transport/Water_Transport/Sailing/Sail.public.md) 
+### #is_/same_as :: [[/_public/Technology/Transport/Water_Transport/Sailing/Sail.public|Sail.public]] 
 
-### #is_/same_as :: [Sail.internal](/_internal/Technology/Transport/Water_Transport/Sailing/Sail.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Transport/Water_Transport/Sailing/Sail.internal|Sail.internal]] 
 
-### #is_/same_as :: [Sail.protect](/_protect/Technology/Transport/Water_Transport/Sailing/Sail.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Transport/Water_Transport/Sailing/Sail.protect|Sail.protect]] 
 
-### #is_/same_as :: [Sail.private](/_private/Technology/Transport/Water_Transport/Sailing/Sail.private.md) 
+### #is_/same_as :: [[/_private/Technology/Transport/Water_Transport/Sailing/Sail.private|Sail.private]] 
 
-### #is_/same_as :: [Sail.personal](/_personal/Technology/Transport/Water_Transport/Sailing/Sail.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Transport/Water_Transport/Sailing/Sail.personal|Sail.personal]] 
 
-### #is_/same_as :: [Sail.secret](/_secret/Technology/Transport/Water_Transport/Sailing/Sail.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Transport/Water_Transport/Sailing/Sail.secret|Sail.secret]] 
 

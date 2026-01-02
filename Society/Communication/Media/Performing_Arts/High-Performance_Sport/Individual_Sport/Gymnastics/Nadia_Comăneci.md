@@ -91,17 +91,17 @@ Instagram_username: comaneci10
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Nadia_Comăneci](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Gymnastics/Nadia_Comăneci.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Gymnastics/Nadia_Comăneci|Nadia_Comăneci]] 
 
-### #is_/same_as :: [Nadia_Comăneci.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Gymnastics/Nadia_Comăneci.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Gymnastics/Nadia_Comăneci.public|Nadia_Comăneci.public]] 
 
-### #is_/same_as :: [Nadia_Comăneci.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Gymnastics/Nadia_Comăneci.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Gymnastics/Nadia_Comăneci.internal|Nadia_Comăneci.internal]] 
 
-### #is_/same_as :: [Nadia_Comăneci.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Gymnastics/Nadia_Comăneci.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Gymnastics/Nadia_Comăneci.protect|Nadia_Comăneci.protect]] 
 
-### #is_/same_as :: [Nadia_Comăneci.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Gymnastics/Nadia_Comăneci.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Gymnastics/Nadia_Comăneci.private|Nadia_Comăneci.private]] 
 
-### #is_/same_as :: [Nadia_Comăneci.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Gymnastics/Nadia_Comăneci.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Gymnastics/Nadia_Comăneci.personal|Nadia_Comăneci.personal]] 
 
-### #is_/same_as :: [Nadia_Comăneci.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Gymnastics/Nadia_Comăneci.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Gymnastics/Nadia_Comăneci.secret|Nadia_Comăneci.secret]] 
 

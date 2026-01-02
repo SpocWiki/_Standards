@@ -68,17 +68,17 @@ Unicode_character: π
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Pi](/_Standards/Mathematics/Pi.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Pi|Pi]] 
 
-### #is_/same_as :: [Pi.public](/_public/Mathematics/Pi.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Pi.public|Pi.public]] 
 
-### #is_/same_as :: [Pi.internal](/_internal/Mathematics/Pi.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Pi.internal|Pi.internal]] 
 
-### #is_/same_as :: [Pi.protect](/_protect/Mathematics/Pi.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Pi.protect|Pi.protect]] 
 
-### #is_/same_as :: [Pi.private](/_private/Mathematics/Pi.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Pi.private|Pi.private]] 
 
-### #is_/same_as :: [Pi.personal](/_personal/Mathematics/Pi.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Pi.personal|Pi.personal]] 
 
-### #is_/same_as :: [Pi.secret](/_secret/Mathematics/Pi.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Pi.secret|Pi.secret]] 
 

@@ -52,17 +52,17 @@ Commonly used values:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Delivery_Method](/_Standards/schema-org/Enumeration/Delivery_Method.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Delivery_Method|Delivery_Method]] 
 
-### #is_/same_as :: [Delivery_Method.public](/_public/schema-org/Enumeration/Delivery_Method.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Delivery_Method.public|Delivery_Method.public]] 
 
-### #is_/same_as :: [Delivery_Method.internal](/_internal/schema-org/Enumeration/Delivery_Method.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Delivery_Method.internal|Delivery_Method.internal]] 
 
-### #is_/same_as :: [Delivery_Method.protect](/_protect/schema-org/Enumeration/Delivery_Method.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Delivery_Method.protect|Delivery_Method.protect]] 
 
-### #is_/same_as :: [Delivery_Method.private](/_private/schema-org/Enumeration/Delivery_Method.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Delivery_Method.private|Delivery_Method.private]] 
 
-### #is_/same_as :: [Delivery_Method.personal](/_personal/schema-org/Enumeration/Delivery_Method.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Delivery_Method.personal|Delivery_Method.personal]] 
 
-### #is_/same_as :: [Delivery_Method.secret](/_secret/schema-org/Enumeration/Delivery_Method.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Delivery_Method.secret|Delivery_Method.secret]] 
 

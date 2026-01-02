@@ -52,17 +52,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Yeoh,Michelle](/_Standards/Society/Communication/Media/Movie/Actor/Asian_Actor/Yeoh,Michelle.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Actor/Asian_Actor/Yeoh,Michelle|Yeoh,Michelle]] 
 
-### #is_/same_as :: [Yeoh,Michelle.public](/_public/Society/Communication/Media/Movie/Actor/Asian_Actor/Yeoh,Michelle.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Actor/Asian_Actor/Yeoh,Michelle.public|Yeoh,Michelle.public]] 
 
-### #is_/same_as :: [Yeoh,Michelle.internal](/_internal/Society/Communication/Media/Movie/Actor/Asian_Actor/Yeoh,Michelle.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Actor/Asian_Actor/Yeoh,Michelle.internal|Yeoh,Michelle.internal]] 
 
-### #is_/same_as :: [Yeoh,Michelle.protect](/_protect/Society/Communication/Media/Movie/Actor/Asian_Actor/Yeoh,Michelle.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Actor/Asian_Actor/Yeoh,Michelle.protect|Yeoh,Michelle.protect]] 
 
-### #is_/same_as :: [Yeoh,Michelle.private](/_private/Society/Communication/Media/Movie/Actor/Asian_Actor/Yeoh,Michelle.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Actor/Asian_Actor/Yeoh,Michelle.private|Yeoh,Michelle.private]] 
 
-### #is_/same_as :: [Yeoh,Michelle.personal](/_personal/Society/Communication/Media/Movie/Actor/Asian_Actor/Yeoh,Michelle.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Actor/Asian_Actor/Yeoh,Michelle.personal|Yeoh,Michelle.personal]] 
 
-### #is_/same_as :: [Yeoh,Michelle.secret](/_secret/Society/Communication/Media/Movie/Actor/Asian_Actor/Yeoh,Michelle.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Actor/Asian_Actor/Yeoh,Michelle.secret|Yeoh,Michelle.secret]] 
 

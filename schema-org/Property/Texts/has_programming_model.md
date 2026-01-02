@@ -45,17 +45,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_programming_model](/_Standards/schema-org/Property/Texts/has_programming_model.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/Texts/has_programming_model|has_programming_model]] 
 
-### #is_/same_as :: [has_programming_model.public](/_public/schema-org/Property/Texts/has_programming_model.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/Texts/has_programming_model.public|has_programming_model.public]] 
 
-### #is_/same_as :: [has_programming_model.internal](/_internal/schema-org/Property/Texts/has_programming_model.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/Texts/has_programming_model.internal|has_programming_model.internal]] 
 
-### #is_/same_as :: [has_programming_model.protect](/_protect/schema-org/Property/Texts/has_programming_model.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/Texts/has_programming_model.protect|has_programming_model.protect]] 
 
-### #is_/same_as :: [has_programming_model.private](/_private/schema-org/Property/Texts/has_programming_model.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/Texts/has_programming_model.private|has_programming_model.private]] 
 
-### #is_/same_as :: [has_programming_model.personal](/_personal/schema-org/Property/Texts/has_programming_model.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/Texts/has_programming_model.personal|has_programming_model.personal]] 
 
-### #is_/same_as :: [has_programming_model.secret](/_secret/schema-org/Property/Texts/has_programming_model.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/Texts/has_programming_model.secret|has_programming_model.secret]] 
 

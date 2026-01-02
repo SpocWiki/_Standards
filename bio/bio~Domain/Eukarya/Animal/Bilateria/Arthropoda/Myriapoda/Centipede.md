@@ -117,19 +117,19 @@ Centipedes
 ## Title Illustrations
 
 ------------------------------------------------------------------------------------ 
-![House centipede, Scutigera coleoptrata](Centipede/Scutigera_coleoptra.jpg))
+![House centipede, Scutigera coleoptrata](Centipede/Scutigera_coleoptra.jpg) 
 Scientific Name ::  Scutigera coleoptrata
 Comments          House centipede, Notostigmophora
 Copyright ::         © [Department of Entomology, University of Nebraska-Lincoln](http://entomology.unl.edu/) 
 
 ------------------------------------------------------------------------------------ 
-![Desert centipede, Scolopendra](Centipede/Scolopendra.jpg))
+![Desert centipede, Scolopendra](Centipede/Scolopendra.jpg) 
 Scientific Name ::  Scolopendra
 Comments          Desert centipede, Scolopendromorpha
 Copyright ::         © [Department of Entomology, University of Nebraska-Lincoln](http://entomology.unl.edu/) 
 
 ------------------------------------------------------------------------------------ 
-![Garden centipede, Lithobius forficatus](Centipede/Lithobius_forficatus.jpg))
+![Garden centipede, Lithobius forficatus](Centipede/Lithobius_forficatus.jpg) 
 Scientific Name ::  Lithobius forficatus
 Comments          Garden centipede, Lithobiidae
 Copyright ::         © [Department of Entomology, University of Nebraska-Lincoln](http://entomology.unl.edu/) 
@@ -137,17 +137,17 @@ Copyright ::         © [Department of Entomology, University of Nebraska-Lincol
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Centipede](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Myriapoda/Centipede.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Myriapoda/Centipede|Centipede]] 
 
-### #is_/same_as :: [Centipede.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Myriapoda/Centipede.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Myriapoda/Centipede.public|Centipede.public]] 
 
-### #is_/same_as :: [Centipede.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Myriapoda/Centipede.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Myriapoda/Centipede.internal|Centipede.internal]] 
 
-### #is_/same_as :: [Centipede.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Myriapoda/Centipede.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Myriapoda/Centipede.protect|Centipede.protect]] 
 
-### #is_/same_as :: [Centipede.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Myriapoda/Centipede.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Myriapoda/Centipede.private|Centipede.private]] 
 
-### #is_/same_as :: [Centipede.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Myriapoda/Centipede.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Myriapoda/Centipede.personal|Centipede.personal]] 
 
-### #is_/same_as :: [Centipede.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Myriapoda/Centipede.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Myriapoda/Centipede.secret|Centipede.secret]] 
 

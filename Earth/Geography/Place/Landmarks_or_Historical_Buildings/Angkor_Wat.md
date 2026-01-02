@@ -79,17 +79,17 @@ video:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Angkor_Wat](/_Standards/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Angkor_Wat.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Angkor_Wat|Angkor_Wat]] 
 
-### #is_/same_as :: [Angkor_Wat.public](/_public/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Angkor_Wat.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Angkor_Wat.public|Angkor_Wat.public]] 
 
-### #is_/same_as :: [Angkor_Wat.internal](/_internal/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Angkor_Wat.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Angkor_Wat.internal|Angkor_Wat.internal]] 
 
-### #is_/same_as :: [Angkor_Wat.protect](/_protect/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Angkor_Wat.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Angkor_Wat.protect|Angkor_Wat.protect]] 
 
-### #is_/same_as :: [Angkor_Wat.private](/_private/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Angkor_Wat.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Angkor_Wat.private|Angkor_Wat.private]] 
 
-### #is_/same_as :: [Angkor_Wat.personal](/_personal/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Angkor_Wat.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Angkor_Wat.personal|Angkor_Wat.personal]] 
 
-### #is_/same_as :: [Angkor_Wat.secret](/_secret/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Angkor_Wat.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Angkor_Wat.secret|Angkor_Wat.secret]] 
 

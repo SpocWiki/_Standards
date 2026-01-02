@@ -62,17 +62,17 @@ MeSH_tree_code: E02.875.194
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Birth_Control](/_Standards/bio/Reproduction/Sexual_Reproduction/Birth_Control.md) 
+### #is_/same_as :: [[/_Standards/bio/Reproduction/Sexual_Reproduction/Birth_Control|Birth_Control]] 
 
-### #is_/same_as :: [Birth_Control.public](/_public/bio/Reproduction/Sexual_Reproduction/Birth_Control.public.md) 
+### #is_/same_as :: [[/_public/bio/Reproduction/Sexual_Reproduction/Birth_Control.public|Birth_Control.public]] 
 
-### #is_/same_as :: [Birth_Control.internal](/_internal/bio/Reproduction/Sexual_Reproduction/Birth_Control.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Reproduction/Sexual_Reproduction/Birth_Control.internal|Birth_Control.internal]] 
 
-### #is_/same_as :: [Birth_Control.protect](/_protect/bio/Reproduction/Sexual_Reproduction/Birth_Control.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Reproduction/Sexual_Reproduction/Birth_Control.protect|Birth_Control.protect]] 
 
-### #is_/same_as :: [Birth_Control.private](/_private/bio/Reproduction/Sexual_Reproduction/Birth_Control.private.md) 
+### #is_/same_as :: [[/_private/bio/Reproduction/Sexual_Reproduction/Birth_Control.private|Birth_Control.private]] 
 
-### #is_/same_as :: [Birth_Control.personal](/_personal/bio/Reproduction/Sexual_Reproduction/Birth_Control.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Reproduction/Sexual_Reproduction/Birth_Control.personal|Birth_Control.personal]] 
 
-### #is_/same_as :: [Birth_Control.secret](/_secret/bio/Reproduction/Sexual_Reproduction/Birth_Control.secret.md)
+### #is_/same_as :: [[/_secret/bio/Reproduction/Sexual_Reproduction/Birth_Control.secret|Birth_Control.secret]] 
 

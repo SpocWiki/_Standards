@@ -48,17 +48,17 @@ Commons_category: Puppet states
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Puppet_State](/_Standards/Earth/Geography/Place/Administrative_Area/State/Puppet_State.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geography/Place/Administrative_Area/State/Puppet_State|Puppet_State]] 
 
-### #is_/same_as :: [Puppet_State.public](/_public/Earth/Geography/Place/Administrative_Area/State/Puppet_State.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geography/Place/Administrative_Area/State/Puppet_State.public|Puppet_State.public]] 
 
-### #is_/same_as :: [Puppet_State.internal](/_internal/Earth/Geography/Place/Administrative_Area/State/Puppet_State.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geography/Place/Administrative_Area/State/Puppet_State.internal|Puppet_State.internal]] 
 
-### #is_/same_as :: [Puppet_State.protect](/_protect/Earth/Geography/Place/Administrative_Area/State/Puppet_State.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geography/Place/Administrative_Area/State/Puppet_State.protect|Puppet_State.protect]] 
 
-### #is_/same_as :: [Puppet_State.private](/_private/Earth/Geography/Place/Administrative_Area/State/Puppet_State.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geography/Place/Administrative_Area/State/Puppet_State.private|Puppet_State.private]] 
 
-### #is_/same_as :: [Puppet_State.personal](/_personal/Earth/Geography/Place/Administrative_Area/State/Puppet_State.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geography/Place/Administrative_Area/State/Puppet_State.personal|Puppet_State.personal]] 
 
-### #is_/same_as :: [Puppet_State.secret](/_secret/Earth/Geography/Place/Administrative_Area/State/Puppet_State.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geography/Place/Administrative_Area/State/Puppet_State.secret|Puppet_State.secret]] 
 

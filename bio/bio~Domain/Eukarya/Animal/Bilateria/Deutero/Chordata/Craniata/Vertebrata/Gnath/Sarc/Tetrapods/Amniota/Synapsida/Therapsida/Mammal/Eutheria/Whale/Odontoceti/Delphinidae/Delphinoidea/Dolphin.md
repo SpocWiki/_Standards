@@ -60,17 +60,17 @@ Krugosvet_article_archived_: nauka_i_tehnika/biologiya/DELFINI.html
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Dolphin](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Whale/Odontoceti/Delphinidae/Delphinoidea/Dolphin.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Whale/Odontoceti/Delphinidae/Delphinoidea/Dolphin|Dolphin]] 
 
-### #is_/same_as :: [Dolphin.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Whale/Odontoceti/Delphinidae/Delphinoidea/Dolphin.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Whale/Odontoceti/Delphinidae/Delphinoidea/Dolphin.public|Dolphin.public]] 
 
-### #is_/same_as :: [Dolphin.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Whale/Odontoceti/Delphinidae/Delphinoidea/Dolphin.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Whale/Odontoceti/Delphinidae/Delphinoidea/Dolphin.internal|Dolphin.internal]] 
 
-### #is_/same_as :: [Dolphin.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Whale/Odontoceti/Delphinidae/Delphinoidea/Dolphin.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Whale/Odontoceti/Delphinidae/Delphinoidea/Dolphin.protect|Dolphin.protect]] 
 
-### #is_/same_as :: [Dolphin.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Whale/Odontoceti/Delphinidae/Delphinoidea/Dolphin.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Whale/Odontoceti/Delphinidae/Delphinoidea/Dolphin.private|Dolphin.private]] 
 
-### #is_/same_as :: [Dolphin.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Whale/Odontoceti/Delphinidae/Delphinoidea/Dolphin.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Whale/Odontoceti/Delphinidae/Delphinoidea/Dolphin.personal|Dolphin.personal]] 
 
-### #is_/same_as :: [Dolphin.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Whale/Odontoceti/Delphinidae/Delphinoidea/Dolphin.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Whale/Odontoceti/Delphinidae/Delphinoidea/Dolphin.secret|Dolphin.secret]] 
 

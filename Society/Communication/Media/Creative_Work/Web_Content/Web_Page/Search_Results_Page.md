@@ -41,17 +41,17 @@ Web page type: Search results page.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Search_Results_Page](/_Standards/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Search_Results_Page.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Search_Results_Page|Search_Results_Page]] 
 
-### #is_/same_as :: [Search_Results_Page.public](/_public/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Search_Results_Page.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Search_Results_Page.public|Search_Results_Page.public]] 
 
-### #is_/same_as :: [Search_Results_Page.internal](/_internal/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Search_Results_Page.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Search_Results_Page.internal|Search_Results_Page.internal]] 
 
-### #is_/same_as :: [Search_Results_Page.protect](/_protect/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Search_Results_Page.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Search_Results_Page.protect|Search_Results_Page.protect]] 
 
-### #is_/same_as :: [Search_Results_Page.private](/_private/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Search_Results_Page.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Search_Results_Page.private|Search_Results_Page.private]] 
 
-### #is_/same_as :: [Search_Results_Page.personal](/_personal/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Search_Results_Page.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Search_Results_Page.personal|Search_Results_Page.personal]] 
 
-### #is_/same_as :: [Search_Results_Page.secret](/_secret/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Search_Results_Page.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Search_Results_Page.secret|Search_Results_Page.secret]] 
 

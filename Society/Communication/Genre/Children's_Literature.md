@@ -55,17 +55,17 @@ Baidu_Tieba_name: 儿童文学
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Children's_Literature](/_Standards/Society/Communication/Genre/Children's_Literature.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Genre/Children's_Literature|Children's_Literature]] 
 
-### #is_/same_as :: [Children's_Literature.public](/_public/Society/Communication/Genre/Children's_Literature.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Genre/Children's_Literature.public|Children's_Literature.public]] 
 
-### #is_/same_as :: [Children's_Literature.internal](/_internal/Society/Communication/Genre/Children's_Literature.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Genre/Children's_Literature.internal|Children's_Literature.internal]] 
 
-### #is_/same_as :: [Children's_Literature.protect](/_protect/Society/Communication/Genre/Children's_Literature.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Genre/Children's_Literature.protect|Children's_Literature.protect]] 
 
-### #is_/same_as :: [Children's_Literature.private](/_private/Society/Communication/Genre/Children's_Literature.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Genre/Children's_Literature.private|Children's_Literature.private]] 
 
-### #is_/same_as :: [Children's_Literature.personal](/_personal/Society/Communication/Genre/Children's_Literature.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Genre/Children's_Literature.personal|Children's_Literature.personal]] 
 
-### #is_/same_as :: [Children's_Literature.secret](/_secret/Society/Communication/Genre/Children's_Literature.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Genre/Children's_Literature.secret|Children's_Literature.secret]] 
 

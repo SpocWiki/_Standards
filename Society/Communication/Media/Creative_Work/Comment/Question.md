@@ -39,17 +39,17 @@ A specific question - e.g. from a user seeking answers online, or collected in a
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Question](/_Standards/Society/Communication/Media/Creative_Work/Comment/Question.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Creative_Work/Comment/Question|Question]] 
 
-### #is_/same_as :: [Question.public](/_public/Society/Communication/Media/Creative_Work/Comment/Question.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Creative_Work/Comment/Question.public|Question.public]] 
 
-### #is_/same_as :: [Question.internal](/_internal/Society/Communication/Media/Creative_Work/Comment/Question.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Creative_Work/Comment/Question.internal|Question.internal]] 
 
-### #is_/same_as :: [Question.protect](/_protect/Society/Communication/Media/Creative_Work/Comment/Question.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Creative_Work/Comment/Question.protect|Question.protect]] 
 
-### #is_/same_as :: [Question.private](/_private/Society/Communication/Media/Creative_Work/Comment/Question.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Creative_Work/Comment/Question.private|Question.private]] 
 
-### #is_/same_as :: [Question.personal](/_personal/Society/Communication/Media/Creative_Work/Comment/Question.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/Comment/Question.personal|Question.personal]] 
 
-### #is_/same_as :: [Question.secret](/_secret/Society/Communication/Media/Creative_Work/Comment/Question.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Comment/Question.secret|Question.secret]] 
 

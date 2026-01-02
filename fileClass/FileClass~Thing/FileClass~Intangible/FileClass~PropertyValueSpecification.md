@@ -148,17 +148,17 @@ ValueRequired:: {"type":"Boolean","options":{}}
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~PropertyValueSpecification](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~PropertyValueSpecification.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~PropertyValueSpecification|FileClass~PropertyValueSpecification]] 
 
-### #is_/same_as :: [FileClass~PropertyValueSpecification.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~PropertyValueSpecification.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~PropertyValueSpecification.public|FileClass~PropertyValueSpecification.public]] 
 
-### #is_/same_as :: [FileClass~PropertyValueSpecification.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~PropertyValueSpecification.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~PropertyValueSpecification.internal|FileClass~PropertyValueSpecification.internal]] 
 
-### #is_/same_as :: [FileClass~PropertyValueSpecification.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~PropertyValueSpecification.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~PropertyValueSpecification.protect|FileClass~PropertyValueSpecification.protect]] 
 
-### #is_/same_as :: [FileClass~PropertyValueSpecification.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~PropertyValueSpecification.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~PropertyValueSpecification.private|FileClass~PropertyValueSpecification.private]] 
 
-### #is_/same_as :: [FileClass~PropertyValueSpecification.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~PropertyValueSpecification.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~PropertyValueSpecification.personal|FileClass~PropertyValueSpecification.personal]] 
 
-### #is_/same_as :: [FileClass~PropertyValueSpecification.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~PropertyValueSpecification.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~PropertyValueSpecification.secret|FileClass~PropertyValueSpecification.secret]] 
 

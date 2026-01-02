@@ -55,17 +55,17 @@ title: cosmic microwave background
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Cosmic_Microwave_Background](/_Standards/Astronomy/Universe/Cosmic_Microwave_Background.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Universe/Cosmic_Microwave_Background|Cosmic_Microwave_Background]] 
 
-### #is_/same_as :: [Cosmic_Microwave_Background.public](/_public/Astronomy/Universe/Cosmic_Microwave_Background.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Universe/Cosmic_Microwave_Background.public|Cosmic_Microwave_Background.public]] 
 
-### #is_/same_as :: [Cosmic_Microwave_Background.internal](/_internal/Astronomy/Universe/Cosmic_Microwave_Background.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Universe/Cosmic_Microwave_Background.internal|Cosmic_Microwave_Background.internal]] 
 
-### #is_/same_as :: [Cosmic_Microwave_Background.protect](/_protect/Astronomy/Universe/Cosmic_Microwave_Background.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Universe/Cosmic_Microwave_Background.protect|Cosmic_Microwave_Background.protect]] 
 
-### #is_/same_as :: [Cosmic_Microwave_Background.private](/_private/Astronomy/Universe/Cosmic_Microwave_Background.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Universe/Cosmic_Microwave_Background.private|Cosmic_Microwave_Background.private]] 
 
-### #is_/same_as :: [Cosmic_Microwave_Background.personal](/_personal/Astronomy/Universe/Cosmic_Microwave_Background.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Universe/Cosmic_Microwave_Background.personal|Cosmic_Microwave_Background.personal]] 
 
-### #is_/same_as :: [Cosmic_Microwave_Background.secret](/_secret/Astronomy/Universe/Cosmic_Microwave_Background.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Universe/Cosmic_Microwave_Background.secret|Cosmic_Microwave_Background.secret]] 
 

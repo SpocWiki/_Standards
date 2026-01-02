@@ -115,17 +115,17 @@ Libris_URI: ljx01d641fffcg4
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ockham,William_of](/_Standards/Philosophy/Philosopher/Middle_Ages_Philosopher/Ockham,William_of.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Philosopher/Middle_Ages_Philosopher/Ockham,William_of|Ockham,William_of]] 
 
-### #is_/same_as :: [Ockham,William_of.public](/_public/Philosophy/Philosopher/Middle_Ages_Philosopher/Ockham,William_of.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Philosopher/Middle_Ages_Philosopher/Ockham,William_of.public|Ockham,William_of.public]] 
 
-### #is_/same_as :: [Ockham,William_of.internal](/_internal/Philosophy/Philosopher/Middle_Ages_Philosopher/Ockham,William_of.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Philosopher/Middle_Ages_Philosopher/Ockham,William_of.internal|Ockham,William_of.internal]] 
 
-### #is_/same_as :: [Ockham,William_of.protect](/_protect/Philosophy/Philosopher/Middle_Ages_Philosopher/Ockham,William_of.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Philosopher/Middle_Ages_Philosopher/Ockham,William_of.protect|Ockham,William_of.protect]] 
 
-### #is_/same_as :: [Ockham,William_of.private](/_private/Philosophy/Philosopher/Middle_Ages_Philosopher/Ockham,William_of.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Philosopher/Middle_Ages_Philosopher/Ockham,William_of.private|Ockham,William_of.private]] 
 
-### #is_/same_as :: [Ockham,William_of.personal](/_personal/Philosophy/Philosopher/Middle_Ages_Philosopher/Ockham,William_of.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Philosopher/Middle_Ages_Philosopher/Ockham,William_of.personal|Ockham,William_of.personal]] 
 
-### #is_/same_as :: [Ockham,William_of.secret](/_secret/Philosophy/Philosopher/Middle_Ages_Philosopher/Ockham,William_of.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Philosopher/Middle_Ages_Philosopher/Ockham,William_of.secret|Ockham,William_of.secret]] 
 

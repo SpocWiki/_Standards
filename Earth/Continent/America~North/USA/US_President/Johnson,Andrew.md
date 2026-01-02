@@ -38,17 +38,17 @@ type: private_note
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Johnson,Andrew](/_Standards/Earth/Continent/America~North/US~President/Johnson,Andrew.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~North/USA/US_President/Johnson,Andrew|Johnson,Andrew]] 
 
-### #is_/same_as :: [Johnson,Andrew.public](/_public/Earth/Continent/America~North/US~President/Johnson,Andrew.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~North/USA/US_President/Johnson,Andrew.public|Johnson,Andrew.public]] 
 
-### #is_/same_as :: [Johnson,Andrew.internal](/_internal/Earth/Continent/America~North/US~President/Johnson,Andrew.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~North/USA/US_President/Johnson,Andrew.internal|Johnson,Andrew.internal]] 
 
-### #is_/same_as :: [Johnson,Andrew.protect](/_protect/Earth/Continent/America~North/US~President/Johnson,Andrew.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~North/USA/US_President/Johnson,Andrew.protect|Johnson,Andrew.protect]] 
 
-### #is_/same_as :: [Johnson,Andrew.private](/_private/Earth/Continent/America~North/US~President/Johnson,Andrew.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~North/USA/US_President/Johnson,Andrew.private|Johnson,Andrew.private]] 
 
-### #is_/same_as :: [Johnson,Andrew.personal](/_personal/Earth/Continent/America~North/US~President/Johnson,Andrew.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~North/USA/US_President/Johnson,Andrew.personal|Johnson,Andrew.personal]] 
 
-### #is_/same_as :: [Johnson,Andrew.secret](/_secret/Earth/Continent/America~North/US~President/Johnson,Andrew.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~North/USA/US_President/Johnson,Andrew.secret|Johnson,Andrew.secret]] 
 

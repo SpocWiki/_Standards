@@ -73,17 +73,17 @@ writing_language: '[[_Standards/WikiData/WD~English,1860]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sorkin,Aaron](/_Standards/Society/Communication/Media/Movie/Movie-Director/Sorkin,Aaron.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Director/Sorkin,Aaron|Sorkin,Aaron]] 
 
-### #is_/same_as :: [Sorkin,Aaron.public](/_public/Society/Communication/Media/Movie/Movie-Director/Sorkin,Aaron.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Director/Sorkin,Aaron.public|Sorkin,Aaron.public]] 
 
-### #is_/same_as :: [Sorkin,Aaron.internal](/_internal/Society/Communication/Media/Movie/Movie-Director/Sorkin,Aaron.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Director/Sorkin,Aaron.internal|Sorkin,Aaron.internal]] 
 
-### #is_/same_as :: [Sorkin,Aaron.protect](/_protect/Society/Communication/Media/Movie/Movie-Director/Sorkin,Aaron.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Director/Sorkin,Aaron.protect|Sorkin,Aaron.protect]] 
 
-### #is_/same_as :: [Sorkin,Aaron.private](/_private/Society/Communication/Media/Movie/Movie-Director/Sorkin,Aaron.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Director/Sorkin,Aaron.private|Sorkin,Aaron.private]] 
 
-### #is_/same_as :: [Sorkin,Aaron.personal](/_personal/Society/Communication/Media/Movie/Movie-Director/Sorkin,Aaron.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Director/Sorkin,Aaron.personal|Sorkin,Aaron.personal]] 
 
-### #is_/same_as :: [Sorkin,Aaron.secret](/_secret/Society/Communication/Media/Movie/Movie-Director/Sorkin,Aaron.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Director/Sorkin,Aaron.secret|Sorkin,Aaron.secret]] 
 

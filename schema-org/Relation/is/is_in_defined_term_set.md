@@ -50,17 +50,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [is_in_defined_term_set](/_Standards/schema-org/Relation/is/is_in_defined_term_set.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/is/is_in_defined_term_set|is_in_defined_term_set]] 
 
-### #is_/same_as :: [is_in_defined_term_set.public](/_public/schema-org/Relation/is/is_in_defined_term_set.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/is/is_in_defined_term_set.public|is_in_defined_term_set.public]] 
 
-### #is_/same_as :: [is_in_defined_term_set.internal](/_internal/schema-org/Relation/is/is_in_defined_term_set.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/is/is_in_defined_term_set.internal|is_in_defined_term_set.internal]] 
 
-### #is_/same_as :: [is_in_defined_term_set.protect](/_protect/schema-org/Relation/is/is_in_defined_term_set.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/is/is_in_defined_term_set.protect|is_in_defined_term_set.protect]] 
 
-### #is_/same_as :: [is_in_defined_term_set.private](/_private/schema-org/Relation/is/is_in_defined_term_set.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/is/is_in_defined_term_set.private|is_in_defined_term_set.private]] 
 
-### #is_/same_as :: [is_in_defined_term_set.personal](/_personal/schema-org/Relation/is/is_in_defined_term_set.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/is/is_in_defined_term_set.personal|is_in_defined_term_set.personal]] 
 
-### #is_/same_as :: [is_in_defined_term_set.secret](/_secret/schema-org/Relation/is/is_in_defined_term_set.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/is/is_in_defined_term_set.secret|is_in_defined_term_set.secret]] 
 

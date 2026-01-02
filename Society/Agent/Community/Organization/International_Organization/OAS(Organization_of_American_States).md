@@ -88,17 +88,17 @@ Instagram_username: oea_oficial
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [OAS(Organization_of_American_States)](/_Standards/Society/Agent/Community/Organization/International_Organization/OAS(Organization_of_American_States).md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/International_Organization/OAS(Organization_of_American_States)|OAS(Organization_of_American_States)]] 
 
-### #is_/same_as :: [OAS(Organization_of_American_States).public](/_public/Society/Agent/Community/Organization/International_Organization/OAS(Organization_of_American_States).public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/International_Organization/OAS(Organization_of_American_States).public|OAS(Organization_of_American_States).public]] 
 
-### #is_/same_as :: [OAS(Organization_of_American_States).internal](/_internal/Society/Agent/Community/Organization/International_Organization/OAS(Organization_of_American_States).internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/International_Organization/OAS(Organization_of_American_States).internal|OAS(Organization_of_American_States).internal]] 
 
-### #is_/same_as :: [OAS(Organization_of_American_States).protect](/_protect/Society/Agent/Community/Organization/International_Organization/OAS(Organization_of_American_States).protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/International_Organization/OAS(Organization_of_American_States).protect|OAS(Organization_of_American_States).protect]] 
 
-### #is_/same_as :: [OAS(Organization_of_American_States).private](/_private/Society/Agent/Community/Organization/International_Organization/OAS(Organization_of_American_States).private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/International_Organization/OAS(Organization_of_American_States).private|OAS(Organization_of_American_States).private]] 
 
-### #is_/same_as :: [OAS(Organization_of_American_States).personal](/_personal/Society/Agent/Community/Organization/International_Organization/OAS(Organization_of_American_States).personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/International_Organization/OAS(Organization_of_American_States).personal|OAS(Organization_of_American_States).personal]] 
 
-### #is_/same_as :: [OAS(Organization_of_American_States).secret](/_secret/Society/Agent/Community/Organization/International_Organization/OAS(Organization_of_American_States).secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/International_Organization/OAS(Organization_of_American_States).secret|OAS(Organization_of_American_States).secret]] 
 

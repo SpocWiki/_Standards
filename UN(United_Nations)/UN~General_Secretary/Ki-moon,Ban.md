@@ -190,17 +190,17 @@ date_of_birth: 1944-06-13T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ki-moon,Ban](/_Standards/UN(United_Nations)/UN~General_Secretary/Ki-moon,Ban.md) 
+### #is_/same_as :: [[/_Standards/UN(United_Nations)/UN~General_Secretary/Ki-moon,Ban|Ki-moon,Ban]] 
 
-### #is_/same_as :: [Ki-moon,Ban.public](/_public/UN(United_Nations)/UN~General_Secretary/Ki-moon,Ban.public.md) 
+### #is_/same_as :: [[/_public/UN(United_Nations)/UN~General_Secretary/Ki-moon,Ban.public|Ki-moon,Ban.public]] 
 
-### #is_/same_as :: [Ki-moon,Ban.internal](/_internal/UN(United_Nations)/UN~General_Secretary/Ki-moon,Ban.internal.md) 
+### #is_/same_as :: [[/_internal/UN(United_Nations)/UN~General_Secretary/Ki-moon,Ban.internal|Ki-moon,Ban.internal]] 
 
-### #is_/same_as :: [Ki-moon,Ban.protect](/_protect/UN(United_Nations)/UN~General_Secretary/Ki-moon,Ban.protect.md) 
+### #is_/same_as :: [[/_protect/UN(United_Nations)/UN~General_Secretary/Ki-moon,Ban.protect|Ki-moon,Ban.protect]] 
 
-### #is_/same_as :: [Ki-moon,Ban.private](/_private/UN(United_Nations)/UN~General_Secretary/Ki-moon,Ban.private.md) 
+### #is_/same_as :: [[/_private/UN(United_Nations)/UN~General_Secretary/Ki-moon,Ban.private|Ki-moon,Ban.private]] 
 
-### #is_/same_as :: [Ki-moon,Ban.personal](/_personal/UN(United_Nations)/UN~General_Secretary/Ki-moon,Ban.personal.md) 
+### #is_/same_as :: [[/_personal/UN(United_Nations)/UN~General_Secretary/Ki-moon,Ban.personal|Ki-moon,Ban.personal]] 
 
-### #is_/same_as :: [Ki-moon,Ban.secret](/_secret/UN(United_Nations)/UN~General_Secretary/Ki-moon,Ban.secret.md)
+### #is_/same_as :: [[/_secret/UN(United_Nations)/UN~General_Secretary/Ki-moon,Ban.secret|Ki-moon,Ban.secret]] 
 

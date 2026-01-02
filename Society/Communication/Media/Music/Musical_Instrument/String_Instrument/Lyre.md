@@ -49,17 +49,17 @@ Commons_category: Lyres
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lyre](/_Standards/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Lyre.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Lyre|Lyre]] 
 
-### #is_/same_as :: [Lyre.public](/_public/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Lyre.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Lyre.public|Lyre.public]] 
 
-### #is_/same_as :: [Lyre.internal](/_internal/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Lyre.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Lyre.internal|Lyre.internal]] 
 
-### #is_/same_as :: [Lyre.protect](/_protect/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Lyre.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Lyre.protect|Lyre.protect]] 
 
-### #is_/same_as :: [Lyre.private](/_private/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Lyre.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Lyre.private|Lyre.private]] 
 
-### #is_/same_as :: [Lyre.personal](/_personal/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Lyre.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Lyre.personal|Lyre.personal]] 
 
-### #is_/same_as :: [Lyre.secret](/_secret/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Lyre.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Lyre.secret|Lyre.secret]] 
 

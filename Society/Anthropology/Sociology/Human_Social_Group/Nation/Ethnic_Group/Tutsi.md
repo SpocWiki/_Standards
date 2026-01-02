@@ -47,17 +47,17 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Chifu%20Kaware%20safar
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Tutsi](/_Standards/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Tutsi.md) 
+### #is_/same_as :: [[/_Standards/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Tutsi|Tutsi]] 
 
-### #is_/same_as :: [Tutsi.public](/_public/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Tutsi.public.md) 
+### #is_/same_as :: [[/_public/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Tutsi.public|Tutsi.public]] 
 
-### #is_/same_as :: [Tutsi.internal](/_internal/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Tutsi.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Tutsi.internal|Tutsi.internal]] 
 
-### #is_/same_as :: [Tutsi.protect](/_protect/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Tutsi.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Tutsi.protect|Tutsi.protect]] 
 
-### #is_/same_as :: [Tutsi.private](/_private/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Tutsi.private.md) 
+### #is_/same_as :: [[/_private/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Tutsi.private|Tutsi.private]] 
 
-### #is_/same_as :: [Tutsi.personal](/_personal/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Tutsi.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Tutsi.personal|Tutsi.personal]] 
 
-### #is_/same_as :: [Tutsi.secret](/_secret/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Tutsi.secret.md)
+### #is_/same_as :: [[/_secret/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Tutsi.secret|Tutsi.secret]] 
 

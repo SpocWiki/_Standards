@@ -148,17 +148,17 @@ Dewey_Decimal_Classification: "616.895"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bipolar_Disorder](/_Standards/bio/Psychology/Mental_Disorder/Bipolar_Disorder.md) 
+### #is_/same_as :: [[/_Standards/bio/Psychology/Mental_Disorder/Bipolar_Disorder|Bipolar_Disorder]] 
 
-### #is_/same_as :: [Bipolar_Disorder.public](/_public/bio/Psychology/Mental_Disorder/Bipolar_Disorder.public.md) 
+### #is_/same_as :: [[/_public/bio/Psychology/Mental_Disorder/Bipolar_Disorder.public|Bipolar_Disorder.public]] 
 
-### #is_/same_as :: [Bipolar_Disorder.internal](/_internal/bio/Psychology/Mental_Disorder/Bipolar_Disorder.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Psychology/Mental_Disorder/Bipolar_Disorder.internal|Bipolar_Disorder.internal]] 
 
-### #is_/same_as :: [Bipolar_Disorder.protect](/_protect/bio/Psychology/Mental_Disorder/Bipolar_Disorder.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Psychology/Mental_Disorder/Bipolar_Disorder.protect|Bipolar_Disorder.protect]] 
 
-### #is_/same_as :: [Bipolar_Disorder.private](/_private/bio/Psychology/Mental_Disorder/Bipolar_Disorder.private.md) 
+### #is_/same_as :: [[/_private/bio/Psychology/Mental_Disorder/Bipolar_Disorder.private|Bipolar_Disorder.private]] 
 
-### #is_/same_as :: [Bipolar_Disorder.personal](/_personal/bio/Psychology/Mental_Disorder/Bipolar_Disorder.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Psychology/Mental_Disorder/Bipolar_Disorder.personal|Bipolar_Disorder.personal]] 
 
-### #is_/same_as :: [Bipolar_Disorder.secret](/_secret/bio/Psychology/Mental_Disorder/Bipolar_Disorder.secret.md)
+### #is_/same_as :: [[/_secret/bio/Psychology/Mental_Disorder/Bipolar_Disorder.secret|Bipolar_Disorder.secret]] 
 

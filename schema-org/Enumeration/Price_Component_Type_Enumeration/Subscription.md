@@ -42,17 +42,17 @@ Represents the subscription pricing component of the total price for an offered 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Subscription](/_Standards/schema-org/Enumeration/Price_Component_Type_Enumeration/Subscription.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Price_Component_Type_Enumeration/Subscription|Subscription]] 
 
-### #is_/same_as :: [Subscription.public](/_public/schema-org/Enumeration/Price_Component_Type_Enumeration/Subscription.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Price_Component_Type_Enumeration/Subscription.public|Subscription.public]] 
 
-### #is_/same_as :: [Subscription.internal](/_internal/schema-org/Enumeration/Price_Component_Type_Enumeration/Subscription.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Price_Component_Type_Enumeration/Subscription.internal|Subscription.internal]] 
 
-### #is_/same_as :: [Subscription.protect](/_protect/schema-org/Enumeration/Price_Component_Type_Enumeration/Subscription.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Price_Component_Type_Enumeration/Subscription.protect|Subscription.protect]] 
 
-### #is_/same_as :: [Subscription.private](/_private/schema-org/Enumeration/Price_Component_Type_Enumeration/Subscription.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Price_Component_Type_Enumeration/Subscription.private|Subscription.private]] 
 
-### #is_/same_as :: [Subscription.personal](/_personal/schema-org/Enumeration/Price_Component_Type_Enumeration/Subscription.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Price_Component_Type_Enumeration/Subscription.personal|Subscription.personal]] 
 
-### #is_/same_as :: [Subscription.secret](/_secret/schema-org/Enumeration/Price_Component_Type_Enumeration/Subscription.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Price_Component_Type_Enumeration/Subscription.secret|Subscription.secret]] 
 

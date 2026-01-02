@@ -40,17 +40,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [is_including_object](/_Standards/schema-org/Relation/is/is_including_object.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/is/is_including_object|is_including_object]] 
 
-### #is_/same_as :: [is_including_object.public](/_public/schema-org/Relation/is/is_including_object.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/is/is_including_object.public|is_including_object.public]] 
 
-### #is_/same_as :: [is_including_object.internal](/_internal/schema-org/Relation/is/is_including_object.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/is/is_including_object.internal|is_including_object.internal]] 
 
-### #is_/same_as :: [is_including_object.protect](/_protect/schema-org/Relation/is/is_including_object.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/is/is_including_object.protect|is_including_object.protect]] 
 
-### #is_/same_as :: [is_including_object.private](/_private/schema-org/Relation/is/is_including_object.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/is/is_including_object.private|is_including_object.private]] 
 
-### #is_/same_as :: [is_including_object.personal](/_personal/schema-org/Relation/is/is_including_object.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/is/is_including_object.personal|is_including_object.personal]] 
 
-### #is_/same_as :: [is_including_object.secret](/_secret/schema-org/Relation/is/is_including_object.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/is/is_including_object.secret|is_including_object.secret]] 
 

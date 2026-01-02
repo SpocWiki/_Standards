@@ -87,17 +87,17 @@ Dewey_Decimal_Classification: "394.7"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Knight](/_Standards/Society/Military/Military_History/Knight.md) 
+### #is_/same_as :: [[/_Standards/Society/Military/Military_History/Knight|Knight]] 
 
-### #is_/same_as :: [Knight.public](/_public/Society/Military/Military_History/Knight.public.md) 
+### #is_/same_as :: [[/_public/Society/Military/Military_History/Knight.public|Knight.public]] 
 
-### #is_/same_as :: [Knight.internal](/_internal/Society/Military/Military_History/Knight.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Military/Military_History/Knight.internal|Knight.internal]] 
 
-### #is_/same_as :: [Knight.protect](/_protect/Society/Military/Military_History/Knight.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Military/Military_History/Knight.protect|Knight.protect]] 
 
-### #is_/same_as :: [Knight.private](/_private/Society/Military/Military_History/Knight.private.md) 
+### #is_/same_as :: [[/_private/Society/Military/Military_History/Knight.private|Knight.private]] 
 
-### #is_/same_as :: [Knight.personal](/_personal/Society/Military/Military_History/Knight.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Military/Military_History/Knight.personal|Knight.personal]] 
 
-### #is_/same_as :: [Knight.secret](/_secret/Society/Military/Military_History/Knight.secret.md)
+### #is_/same_as :: [[/_secret/Society/Military/Military_History/Knight.secret|Knight.secret]] 
 

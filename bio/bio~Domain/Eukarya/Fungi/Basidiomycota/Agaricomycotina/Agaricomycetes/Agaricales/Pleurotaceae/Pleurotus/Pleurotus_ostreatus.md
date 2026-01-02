@@ -112,17 +112,17 @@ UNII: 8HZE76Y44L
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Pleurotus_ostreatus](/_Standards/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Agaricomycotina/Agaricomycetes/Agaricales/Pleurotaceae/Pleurotus/Pleurotus_ostreatus.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Agaricomycotina/Agaricomycetes/Agaricales/Pleurotaceae/Pleurotus/Pleurotus_ostreatus|Pleurotus_ostreatus]] 
 
-### #is_/same_as :: [Pleurotus_ostreatus.public](/_public/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Agaricomycotina/Agaricomycetes/Agaricales/Pleurotaceae/Pleurotus/Pleurotus_ostreatus.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Agaricomycotina/Agaricomycetes/Agaricales/Pleurotaceae/Pleurotus/Pleurotus_ostreatus.public|Pleurotus_ostreatus.public]] 
 
-### #is_/same_as :: [Pleurotus_ostreatus.internal](/_internal/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Agaricomycotina/Agaricomycetes/Agaricales/Pleurotaceae/Pleurotus/Pleurotus_ostreatus.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Agaricomycotina/Agaricomycetes/Agaricales/Pleurotaceae/Pleurotus/Pleurotus_ostreatus.internal|Pleurotus_ostreatus.internal]] 
 
-### #is_/same_as :: [Pleurotus_ostreatus.protect](/_protect/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Agaricomycotina/Agaricomycetes/Agaricales/Pleurotaceae/Pleurotus/Pleurotus_ostreatus.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Agaricomycotina/Agaricomycetes/Agaricales/Pleurotaceae/Pleurotus/Pleurotus_ostreatus.protect|Pleurotus_ostreatus.protect]] 
 
-### #is_/same_as :: [Pleurotus_ostreatus.private](/_private/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Agaricomycotina/Agaricomycetes/Agaricales/Pleurotaceae/Pleurotus/Pleurotus_ostreatus.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Agaricomycotina/Agaricomycetes/Agaricales/Pleurotaceae/Pleurotus/Pleurotus_ostreatus.private|Pleurotus_ostreatus.private]] 
 
-### #is_/same_as :: [Pleurotus_ostreatus.personal](/_personal/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Agaricomycotina/Agaricomycetes/Agaricales/Pleurotaceae/Pleurotus/Pleurotus_ostreatus.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Agaricomycotina/Agaricomycetes/Agaricales/Pleurotaceae/Pleurotus/Pleurotus_ostreatus.personal|Pleurotus_ostreatus.personal]] 
 
-### #is_/same_as :: [Pleurotus_ostreatus.secret](/_secret/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Agaricomycotina/Agaricomycetes/Agaricales/Pleurotaceae/Pleurotus/Pleurotus_ostreatus.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Agaricomycotina/Agaricomycetes/Agaricales/Pleurotaceae/Pleurotus/Pleurotus_ostreatus.secret|Pleurotus_ostreatus.secret]] 
 

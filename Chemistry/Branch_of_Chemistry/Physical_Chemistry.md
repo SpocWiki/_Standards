@@ -68,17 +68,17 @@ Universal_Decimal_Classification: 544
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Physical_Chemistry](/_Standards/Chemistry/Branch_of_Chemistry/Physical_Chemistry.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Branch_of_Chemistry/Physical_Chemistry|Physical_Chemistry]] 
 
-### #is_/same_as :: [Physical_Chemistry.public](/_public/Chemistry/Branch_of_Chemistry/Physical_Chemistry.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Branch_of_Chemistry/Physical_Chemistry.public|Physical_Chemistry.public]] 
 
-### #is_/same_as :: [Physical_Chemistry.internal](/_internal/Chemistry/Branch_of_Chemistry/Physical_Chemistry.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Branch_of_Chemistry/Physical_Chemistry.internal|Physical_Chemistry.internal]] 
 
-### #is_/same_as :: [Physical_Chemistry.protect](/_protect/Chemistry/Branch_of_Chemistry/Physical_Chemistry.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Branch_of_Chemistry/Physical_Chemistry.protect|Physical_Chemistry.protect]] 
 
-### #is_/same_as :: [Physical_Chemistry.private](/_private/Chemistry/Branch_of_Chemistry/Physical_Chemistry.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Branch_of_Chemistry/Physical_Chemistry.private|Physical_Chemistry.private]] 
 
-### #is_/same_as :: [Physical_Chemistry.personal](/_personal/Chemistry/Branch_of_Chemistry/Physical_Chemistry.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Branch_of_Chemistry/Physical_Chemistry.personal|Physical_Chemistry.personal]] 
 
-### #is_/same_as :: [Physical_Chemistry.secret](/_secret/Chemistry/Branch_of_Chemistry/Physical_Chemistry.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Branch_of_Chemistry/Physical_Chemistry.secret|Physical_Chemistry.secret]] 
 

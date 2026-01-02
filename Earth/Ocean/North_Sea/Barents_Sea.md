@@ -136,17 +136,17 @@ P8189: 987007283153005200
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Barents_Sea](/_Standards/Earth/Ocean/North_Sea/Barents_Sea.md) 
+### #is_/same_as :: [[/_Standards/Earth/Ocean/North_Sea/Barents_Sea|Barents_Sea]] 
 
-### #is_/same_as :: [Barents_Sea.public](/_public/Earth/Ocean/North_Sea/Barents_Sea.public.md) 
+### #is_/same_as :: [[/_public/Earth/Ocean/North_Sea/Barents_Sea.public|Barents_Sea.public]] 
 
-### #is_/same_as :: [Barents_Sea.internal](/_internal/Earth/Ocean/North_Sea/Barents_Sea.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Ocean/North_Sea/Barents_Sea.internal|Barents_Sea.internal]] 
 
-### #is_/same_as :: [Barents_Sea.protect](/_protect/Earth/Ocean/North_Sea/Barents_Sea.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Ocean/North_Sea/Barents_Sea.protect|Barents_Sea.protect]] 
 
-### #is_/same_as :: [Barents_Sea.private](/_private/Earth/Ocean/North_Sea/Barents_Sea.private.md) 
+### #is_/same_as :: [[/_private/Earth/Ocean/North_Sea/Barents_Sea.private|Barents_Sea.private]] 
 
-### #is_/same_as :: [Barents_Sea.personal](/_personal/Earth/Ocean/North_Sea/Barents_Sea.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Ocean/North_Sea/Barents_Sea.personal|Barents_Sea.personal]] 
 
-### #is_/same_as :: [Barents_Sea.secret](/_secret/Earth/Ocean/North_Sea/Barents_Sea.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Ocean/North_Sea/Barents_Sea.secret|Barents_Sea.secret]] 
 

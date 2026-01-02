@@ -46,17 +46,17 @@ Commons_category: Beys
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bey](/_Standards/Society/Military/Armed_Forces/Military_Rank/Bey.md) 
+### #is_/same_as :: [[/_Standards/Society/Military/Armed_Forces/Military_Rank/Bey|Bey]] 
 
-### #is_/same_as :: [Bey.public](/_public/Society/Military/Armed_Forces/Military_Rank/Bey.public.md) 
+### #is_/same_as :: [[/_public/Society/Military/Armed_Forces/Military_Rank/Bey.public|Bey.public]] 
 
-### #is_/same_as :: [Bey.internal](/_internal/Society/Military/Armed_Forces/Military_Rank/Bey.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Military/Armed_Forces/Military_Rank/Bey.internal|Bey.internal]] 
 
-### #is_/same_as :: [Bey.protect](/_protect/Society/Military/Armed_Forces/Military_Rank/Bey.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Military/Armed_Forces/Military_Rank/Bey.protect|Bey.protect]] 
 
-### #is_/same_as :: [Bey.private](/_private/Society/Military/Armed_Forces/Military_Rank/Bey.private.md) 
+### #is_/same_as :: [[/_private/Society/Military/Armed_Forces/Military_Rank/Bey.private|Bey.private]] 
 
-### #is_/same_as :: [Bey.personal](/_personal/Society/Military/Armed_Forces/Military_Rank/Bey.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Military/Armed_Forces/Military_Rank/Bey.personal|Bey.personal]] 
 
-### #is_/same_as :: [Bey.secret](/_secret/Society/Military/Armed_Forces/Military_Rank/Bey.secret.md)
+### #is_/same_as :: [[/_secret/Society/Military/Armed_Forces/Military_Rank/Bey.secret|Bey.secret]] 
 

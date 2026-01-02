@@ -44,17 +44,17 @@ UnemploymentSupport: this is a benefit for unemployment support.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Unemployment_Support](/_Standards/schema-org/Enumeration/Government_Benefits_Type/Unemployment_Support.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Government_Benefits_Type/Unemployment_Support|Unemployment_Support]] 
 
-### #is_/same_as :: [Unemployment_Support.public](/_public/schema-org/Enumeration/Government_Benefits_Type/Unemployment_Support.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Government_Benefits_Type/Unemployment_Support.public|Unemployment_Support.public]] 
 
-### #is_/same_as :: [Unemployment_Support.internal](/_internal/schema-org/Enumeration/Government_Benefits_Type/Unemployment_Support.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Government_Benefits_Type/Unemployment_Support.internal|Unemployment_Support.internal]] 
 
-### #is_/same_as :: [Unemployment_Support.protect](/_protect/schema-org/Enumeration/Government_Benefits_Type/Unemployment_Support.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Government_Benefits_Type/Unemployment_Support.protect|Unemployment_Support.protect]] 
 
-### #is_/same_as :: [Unemployment_Support.private](/_private/schema-org/Enumeration/Government_Benefits_Type/Unemployment_Support.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Government_Benefits_Type/Unemployment_Support.private|Unemployment_Support.private]] 
 
-### #is_/same_as :: [Unemployment_Support.personal](/_personal/schema-org/Enumeration/Government_Benefits_Type/Unemployment_Support.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Government_Benefits_Type/Unemployment_Support.personal|Unemployment_Support.personal]] 
 
-### #is_/same_as :: [Unemployment_Support.secret](/_secret/schema-org/Enumeration/Government_Benefits_Type/Unemployment_Support.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Government_Benefits_Type/Unemployment_Support.secret|Unemployment_Support.secret]] 
 

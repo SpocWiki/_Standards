@@ -44,17 +44,17 @@ Size group "Misses" (also known as "Missy") for wearables.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Wearable_Size_Group_Misses](/_Standards/schema-org/Enumeration/Size_Group_Enumeration/Wearable_Size_Group_Enumeration/Wearable_Size_Group_Misses.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Size_Group_Enumeration/Wearable_Size_Group_Enumeration/Wearable_Size_Group_Misses|Wearable_Size_Group_Misses]] 
 
-### #is_/same_as :: [Wearable_Size_Group_Misses.public](/_public/schema-org/Enumeration/Size_Group_Enumeration/Wearable_Size_Group_Enumeration/Wearable_Size_Group_Misses.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Size_Group_Enumeration/Wearable_Size_Group_Enumeration/Wearable_Size_Group_Misses.public|Wearable_Size_Group_Misses.public]] 
 
-### #is_/same_as :: [Wearable_Size_Group_Misses.internal](/_internal/schema-org/Enumeration/Size_Group_Enumeration/Wearable_Size_Group_Enumeration/Wearable_Size_Group_Misses.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Size_Group_Enumeration/Wearable_Size_Group_Enumeration/Wearable_Size_Group_Misses.internal|Wearable_Size_Group_Misses.internal]] 
 
-### #is_/same_as :: [Wearable_Size_Group_Misses.protect](/_protect/schema-org/Enumeration/Size_Group_Enumeration/Wearable_Size_Group_Enumeration/Wearable_Size_Group_Misses.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Size_Group_Enumeration/Wearable_Size_Group_Enumeration/Wearable_Size_Group_Misses.protect|Wearable_Size_Group_Misses.protect]] 
 
-### #is_/same_as :: [Wearable_Size_Group_Misses.private](/_private/schema-org/Enumeration/Size_Group_Enumeration/Wearable_Size_Group_Enumeration/Wearable_Size_Group_Misses.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Size_Group_Enumeration/Wearable_Size_Group_Enumeration/Wearable_Size_Group_Misses.private|Wearable_Size_Group_Misses.private]] 
 
-### #is_/same_as :: [Wearable_Size_Group_Misses.personal](/_personal/schema-org/Enumeration/Size_Group_Enumeration/Wearable_Size_Group_Enumeration/Wearable_Size_Group_Misses.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Size_Group_Enumeration/Wearable_Size_Group_Enumeration/Wearable_Size_Group_Misses.personal|Wearable_Size_Group_Misses.personal]] 
 
-### #is_/same_as :: [Wearable_Size_Group_Misses.secret](/_secret/schema-org/Enumeration/Size_Group_Enumeration/Wearable_Size_Group_Enumeration/Wearable_Size_Group_Misses.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Size_Group_Enumeration/Wearable_Size_Group_Enumeration/Wearable_Size_Group_Misses.secret|Wearable_Size_Group_Misses.secret]] 
 

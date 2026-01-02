@@ -69,17 +69,17 @@ IMA_Mineral_Symbol: Tlc
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Talc](/_Standards/Earth/Geology/Mineral/Talc.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geology/Mineral/Talc|Talc]] 
 
-### #is_/same_as :: [Talc.public](/_public/Earth/Geology/Mineral/Talc.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geology/Mineral/Talc.public|Talc.public]] 
 
-### #is_/same_as :: [Talc.internal](/_internal/Earth/Geology/Mineral/Talc.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geology/Mineral/Talc.internal|Talc.internal]] 
 
-### #is_/same_as :: [Talc.protect](/_protect/Earth/Geology/Mineral/Talc.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geology/Mineral/Talc.protect|Talc.protect]] 
 
-### #is_/same_as :: [Talc.private](/_private/Earth/Geology/Mineral/Talc.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geology/Mineral/Talc.private|Talc.private]] 
 
-### #is_/same_as :: [Talc.personal](/_personal/Earth/Geology/Mineral/Talc.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geology/Mineral/Talc.personal|Talc.personal]] 
 
-### #is_/same_as :: [Talc.secret](/_secret/Earth/Geology/Mineral/Talc.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geology/Mineral/Talc.secret|Talc.secret]] 
 

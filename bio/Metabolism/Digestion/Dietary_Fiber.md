@@ -58,17 +58,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Dietary_Fiber](/_Standards/bio/Metabolism/Digestion/Dietary_Fiber.md) 
+### #is_/same_as :: [[/_Standards/bio/Metabolism/Digestion/Dietary_Fiber|Dietary_Fiber]] 
 
-### #is_/same_as :: [Dietary_Fiber.public](/_public/bio/Metabolism/Digestion/Dietary_Fiber.public.md) 
+### #is_/same_as :: [[/_public/bio/Metabolism/Digestion/Dietary_Fiber.public|Dietary_Fiber.public]] 
 
-### #is_/same_as :: [Dietary_Fiber.internal](/_internal/bio/Metabolism/Digestion/Dietary_Fiber.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Metabolism/Digestion/Dietary_Fiber.internal|Dietary_Fiber.internal]] 
 
-### #is_/same_as :: [Dietary_Fiber.protect](/_protect/bio/Metabolism/Digestion/Dietary_Fiber.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Metabolism/Digestion/Dietary_Fiber.protect|Dietary_Fiber.protect]] 
 
-### #is_/same_as :: [Dietary_Fiber.private](/_private/bio/Metabolism/Digestion/Dietary_Fiber.private.md) 
+### #is_/same_as :: [[/_private/bio/Metabolism/Digestion/Dietary_Fiber.private|Dietary_Fiber.private]] 
 
-### #is_/same_as :: [Dietary_Fiber.personal](/_personal/bio/Metabolism/Digestion/Dietary_Fiber.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Metabolism/Digestion/Dietary_Fiber.personal|Dietary_Fiber.personal]] 
 
-### #is_/same_as :: [Dietary_Fiber.secret](/_secret/bio/Metabolism/Digestion/Dietary_Fiber.secret.md)
+### #is_/same_as :: [[/_secret/bio/Metabolism/Digestion/Dietary_Fiber.secret|Dietary_Fiber.secret]] 
 

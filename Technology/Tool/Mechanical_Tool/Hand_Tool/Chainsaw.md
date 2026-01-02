@@ -61,17 +61,17 @@ time_of_discovery_or_invention: 1905-01-01T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Chainsaw](/_Standards/Technology/Tool/Mechanical_Tool/Hand_Tool/Chainsaw.md) 
+### #is_/same_as :: [[/_Standards/Technology/Tool/Mechanical_Tool/Hand_Tool/Chainsaw|Chainsaw]] 
 
-### #is_/same_as :: [Chainsaw.public](/_public/Technology/Tool/Mechanical_Tool/Hand_Tool/Chainsaw.public.md) 
+### #is_/same_as :: [[/_public/Technology/Tool/Mechanical_Tool/Hand_Tool/Chainsaw.public|Chainsaw.public]] 
 
-### #is_/same_as :: [Chainsaw.internal](/_internal/Technology/Tool/Mechanical_Tool/Hand_Tool/Chainsaw.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Tool/Mechanical_Tool/Hand_Tool/Chainsaw.internal|Chainsaw.internal]] 
 
-### #is_/same_as :: [Chainsaw.protect](/_protect/Technology/Tool/Mechanical_Tool/Hand_Tool/Chainsaw.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Tool/Mechanical_Tool/Hand_Tool/Chainsaw.protect|Chainsaw.protect]] 
 
-### #is_/same_as :: [Chainsaw.private](/_private/Technology/Tool/Mechanical_Tool/Hand_Tool/Chainsaw.private.md) 
+### #is_/same_as :: [[/_private/Technology/Tool/Mechanical_Tool/Hand_Tool/Chainsaw.private|Chainsaw.private]] 
 
-### #is_/same_as :: [Chainsaw.personal](/_personal/Technology/Tool/Mechanical_Tool/Hand_Tool/Chainsaw.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Tool/Mechanical_Tool/Hand_Tool/Chainsaw.personal|Chainsaw.personal]] 
 
-### #is_/same_as :: [Chainsaw.secret](/_secret/Technology/Tool/Mechanical_Tool/Hand_Tool/Chainsaw.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Tool/Mechanical_Tool/Hand_Tool/Chainsaw.secret|Chainsaw.secret]] 
 

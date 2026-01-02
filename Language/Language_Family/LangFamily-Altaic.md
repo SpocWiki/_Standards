@@ -82,17 +82,17 @@ Libris_URI: b8nqp0jv3sv1359
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [LangFamily-Altaic](/_Standards/Language/Language_Family/LangFamily-Altaic.md) 
+### #is_/same_as :: [[/_Standards/Language/Language_Family/LangFamily-Altaic|LangFamily-Altaic]] 
 
-### #is_/same_as :: [LangFamily-Altaic.public](/_public/Language/Language_Family/LangFamily-Altaic.public.md) 
+### #is_/same_as :: [[/_public/Language/Language_Family/LangFamily-Altaic.public|LangFamily-Altaic.public]] 
 
-### #is_/same_as :: [LangFamily-Altaic.internal](/_internal/Language/Language_Family/LangFamily-Altaic.internal.md) 
+### #is_/same_as :: [[/_internal/Language/Language_Family/LangFamily-Altaic.internal|LangFamily-Altaic.internal]] 
 
-### #is_/same_as :: [LangFamily-Altaic.protect](/_protect/Language/Language_Family/LangFamily-Altaic.protect.md) 
+### #is_/same_as :: [[/_protect/Language/Language_Family/LangFamily-Altaic.protect|LangFamily-Altaic.protect]] 
 
-### #is_/same_as :: [LangFamily-Altaic.private](/_private/Language/Language_Family/LangFamily-Altaic.private.md) 
+### #is_/same_as :: [[/_private/Language/Language_Family/LangFamily-Altaic.private|LangFamily-Altaic.private]] 
 
-### #is_/same_as :: [LangFamily-Altaic.personal](/_personal/Language/Language_Family/LangFamily-Altaic.personal.md) 
+### #is_/same_as :: [[/_personal/Language/Language_Family/LangFamily-Altaic.personal|LangFamily-Altaic.personal]] 
 
-### #is_/same_as :: [LangFamily-Altaic.secret](/_secret/Language/Language_Family/LangFamily-Altaic.secret.md)
+### #is_/same_as :: [[/_secret/Language/Language_Family/LangFamily-Altaic.secret|LangFamily-Altaic.secret]] 
 

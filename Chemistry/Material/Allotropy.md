@@ -50,17 +50,17 @@ Krugosvet_article: nauka_i_tehnika/himiya/ALLOTROPIYA.html
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Allotropy](/_Standards/Chemistry/Material/Allotropy.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Material/Allotropy|Allotropy]] 
 
-### #is_/same_as :: [Allotropy.public](/_public/Chemistry/Material/Allotropy.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Material/Allotropy.public|Allotropy.public]] 
 
-### #is_/same_as :: [Allotropy.internal](/_internal/Chemistry/Material/Allotropy.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Material/Allotropy.internal|Allotropy.internal]] 
 
-### #is_/same_as :: [Allotropy.protect](/_protect/Chemistry/Material/Allotropy.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Material/Allotropy.protect|Allotropy.protect]] 
 
-### #is_/same_as :: [Allotropy.private](/_private/Chemistry/Material/Allotropy.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Material/Allotropy.private|Allotropy.private]] 
 
-### #is_/same_as :: [Allotropy.personal](/_personal/Chemistry/Material/Allotropy.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Material/Allotropy.personal|Allotropy.personal]] 
 
-### #is_/same_as :: [Allotropy.secret](/_secret/Chemistry/Material/Allotropy.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Material/Allotropy.secret|Allotropy.secret]] 
 

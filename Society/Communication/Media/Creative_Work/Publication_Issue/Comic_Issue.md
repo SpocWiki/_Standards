@@ -94,17 +94,17 @@ All comic issues can be uniquely identified by:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Comic_Issue](/_Standards/Society/Communication/Media/Creative_Work/Publication_Issue/Comic_Issue.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Creative_Work/Publication_Issue/Comic_Issue|Comic_Issue]] 
 
-### #is_/same_as :: [Comic_Issue.public](/_public/Society/Communication/Media/Creative_Work/Publication_Issue/Comic_Issue.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Creative_Work/Publication_Issue/Comic_Issue.public|Comic_Issue.public]] 
 
-### #is_/same_as :: [Comic_Issue.internal](/_internal/Society/Communication/Media/Creative_Work/Publication_Issue/Comic_Issue.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Creative_Work/Publication_Issue/Comic_Issue.internal|Comic_Issue.internal]] 
 
-### #is_/same_as :: [Comic_Issue.protect](/_protect/Society/Communication/Media/Creative_Work/Publication_Issue/Comic_Issue.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Creative_Work/Publication_Issue/Comic_Issue.protect|Comic_Issue.protect]] 
 
-### #is_/same_as :: [Comic_Issue.private](/_private/Society/Communication/Media/Creative_Work/Publication_Issue/Comic_Issue.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Creative_Work/Publication_Issue/Comic_Issue.private|Comic_Issue.private]] 
 
-### #is_/same_as :: [Comic_Issue.personal](/_personal/Society/Communication/Media/Creative_Work/Publication_Issue/Comic_Issue.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/Publication_Issue/Comic_Issue.personal|Comic_Issue.personal]] 
 
-### #is_/same_as :: [Comic_Issue.secret](/_secret/Society/Communication/Media/Creative_Work/Publication_Issue/Comic_Issue.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Publication_Issue/Comic_Issue.secret|Comic_Issue.secret]] 
 

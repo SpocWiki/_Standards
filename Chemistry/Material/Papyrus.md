@@ -57,17 +57,17 @@ Iconclass_notation: 49L642
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Papyrus](/_Standards/Chemistry/Material/Papyrus.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Material/Papyrus|Papyrus]] 
 
-### #is_/same_as :: [Papyrus.public](/_public/Chemistry/Material/Papyrus.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Material/Papyrus.public|Papyrus.public]] 
 
-### #is_/same_as :: [Papyrus.internal](/_internal/Chemistry/Material/Papyrus.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Material/Papyrus.internal|Papyrus.internal]] 
 
-### #is_/same_as :: [Papyrus.protect](/_protect/Chemistry/Material/Papyrus.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Material/Papyrus.protect|Papyrus.protect]] 
 
-### #is_/same_as :: [Papyrus.private](/_private/Chemistry/Material/Papyrus.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Material/Papyrus.private|Papyrus.private]] 
 
-### #is_/same_as :: [Papyrus.personal](/_personal/Chemistry/Material/Papyrus.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Material/Papyrus.personal|Papyrus.personal]] 
 
-### #is_/same_as :: [Papyrus.secret](/_secret/Chemistry/Material/Papyrus.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Material/Papyrus.secret|Papyrus.secret]] 
 

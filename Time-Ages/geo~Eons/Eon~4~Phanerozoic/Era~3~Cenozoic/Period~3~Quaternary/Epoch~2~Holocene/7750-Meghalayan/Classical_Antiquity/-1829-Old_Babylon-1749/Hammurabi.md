@@ -93,17 +93,17 @@ ISNI: 000000038779161X
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hammurabi](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-1829-Old_Babylon-1749/Hammurabi.md) 
+### #is_/same_as :: [[/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-1829-Old_Babylon-1749/Hammurabi|Hammurabi]] 
 
-### #is_/same_as :: [Hammurabi.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-1829-Old_Babylon-1749/Hammurabi.public.md) 
+### #is_/same_as :: [[/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-1829-Old_Babylon-1749/Hammurabi.public|Hammurabi.public]] 
 
-### #is_/same_as :: [Hammurabi.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-1829-Old_Babylon-1749/Hammurabi.internal.md) 
+### #is_/same_as :: [[/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-1829-Old_Babylon-1749/Hammurabi.internal|Hammurabi.internal]] 
 
-### #is_/same_as :: [Hammurabi.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-1829-Old_Babylon-1749/Hammurabi.protect.md) 
+### #is_/same_as :: [[/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-1829-Old_Babylon-1749/Hammurabi.protect|Hammurabi.protect]] 
 
-### #is_/same_as :: [Hammurabi.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-1829-Old_Babylon-1749/Hammurabi.private.md) 
+### #is_/same_as :: [[/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-1829-Old_Babylon-1749/Hammurabi.private|Hammurabi.private]] 
 
-### #is_/same_as :: [Hammurabi.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-1829-Old_Babylon-1749/Hammurabi.personal.md) 
+### #is_/same_as :: [[/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-1829-Old_Babylon-1749/Hammurabi.personal|Hammurabi.personal]] 
 
-### #is_/same_as :: [Hammurabi.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-1829-Old_Babylon-1749/Hammurabi.secret.md)
+### #is_/same_as :: [[/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-1829-Old_Babylon-1749/Hammurabi.secret|Hammurabi.secret]] 
 

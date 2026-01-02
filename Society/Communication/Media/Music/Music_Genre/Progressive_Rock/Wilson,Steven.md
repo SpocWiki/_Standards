@@ -44,17 +44,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Wilson,Steven](/_Standards/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Wilson,Steven.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Wilson,Steven|Wilson,Steven]] 
 
-### #is_/same_as :: [Wilson,Steven.public](/_public/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Wilson,Steven.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Wilson,Steven.public|Wilson,Steven.public]] 
 
-### #is_/same_as :: [Wilson,Steven.internal](/_internal/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Wilson,Steven.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Wilson,Steven.internal|Wilson,Steven.internal]] 
 
-### #is_/same_as :: [Wilson,Steven.protect](/_protect/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Wilson,Steven.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Wilson,Steven.protect|Wilson,Steven.protect]] 
 
-### #is_/same_as :: [Wilson,Steven.private](/_private/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Wilson,Steven.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Wilson,Steven.private|Wilson,Steven.private]] 
 
-### #is_/same_as :: [Wilson,Steven.personal](/_personal/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Wilson,Steven.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Wilson,Steven.personal|Wilson,Steven.personal]] 
 
-### #is_/same_as :: [Wilson,Steven.secret](/_secret/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Wilson,Steven.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Wilson,Steven.secret|Wilson,Steven.secret]] 
 

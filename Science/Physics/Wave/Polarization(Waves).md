@@ -51,17 +51,17 @@ Commons_category: Polarization (waves)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Polarization(Waves)](/_Standards/Science/Physics/Wave/Polarization(Waves).md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Wave/Polarization(Waves)|Polarization(Waves)]] 
 
-### #is_/same_as :: [Polarization(Waves).public](/_public/Science/Physics/Wave/Polarization(Waves).public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Wave/Polarization(Waves).public|Polarization(Waves).public]] 
 
-### #is_/same_as :: [Polarization(Waves).internal](/_internal/Science/Physics/Wave/Polarization(Waves).internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Wave/Polarization(Waves).internal|Polarization(Waves).internal]] 
 
-### #is_/same_as :: [Polarization(Waves).protect](/_protect/Science/Physics/Wave/Polarization(Waves).protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Wave/Polarization(Waves).protect|Polarization(Waves).protect]] 
 
-### #is_/same_as :: [Polarization(Waves).private](/_private/Science/Physics/Wave/Polarization(Waves).private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Wave/Polarization(Waves).private|Polarization(Waves).private]] 
 
-### #is_/same_as :: [Polarization(Waves).personal](/_personal/Science/Physics/Wave/Polarization(Waves).personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Wave/Polarization(Waves).personal|Polarization(Waves).personal]] 
 
-### #is_/same_as :: [Polarization(Waves).secret](/_secret/Science/Physics/Wave/Polarization(Waves).secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Wave/Polarization(Waves).secret|Polarization(Waves).secret]] 
 

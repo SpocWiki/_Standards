@@ -88,17 +88,17 @@ vocalized_name: הַנְדָּסַת חַשְׁמַל
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Electrical_Engineering](/_Standards/Technology/Engineering/Electrical_Engineering.md) 
+### #is_/same_as :: [[/_Standards/Technology/Engineering/Electrical_Engineering|Electrical_Engineering]] 
 
-### #is_/same_as :: [Electrical_Engineering.public](/_public/Technology/Engineering/Electrical_Engineering.public.md) 
+### #is_/same_as :: [[/_public/Technology/Engineering/Electrical_Engineering.public|Electrical_Engineering.public]] 
 
-### #is_/same_as :: [Electrical_Engineering.internal](/_internal/Technology/Engineering/Electrical_Engineering.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Engineering/Electrical_Engineering.internal|Electrical_Engineering.internal]] 
 
-### #is_/same_as :: [Electrical_Engineering.protect](/_protect/Technology/Engineering/Electrical_Engineering.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Engineering/Electrical_Engineering.protect|Electrical_Engineering.protect]] 
 
-### #is_/same_as :: [Electrical_Engineering.private](/_private/Technology/Engineering/Electrical_Engineering.private.md) 
+### #is_/same_as :: [[/_private/Technology/Engineering/Electrical_Engineering.private|Electrical_Engineering.private]] 
 
-### #is_/same_as :: [Electrical_Engineering.personal](/_personal/Technology/Engineering/Electrical_Engineering.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Engineering/Electrical_Engineering.personal|Electrical_Engineering.personal]] 
 
-### #is_/same_as :: [Electrical_Engineering.secret](/_secret/Technology/Engineering/Electrical_Engineering.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Engineering/Electrical_Engineering.secret|Electrical_Engineering.secret]] 
 

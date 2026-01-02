@@ -98,17 +98,17 @@ Wolfram_Language_entity_code: Entity["Concept", "ComputerScientist::n3qj3"]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Computer_Scientist](/_Standards/Technology/IT/Computer_Science/Computer_Scientist.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Computer_Science/Computer_Scientist|Computer_Scientist]] 
 
-### #is_/same_as :: [Computer_Scientist.public](/_public/Technology/IT/Computer_Science/Computer_Scientist.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Computer_Science/Computer_Scientist.public|Computer_Scientist.public]] 
 
-### #is_/same_as :: [Computer_Scientist.internal](/_internal/Technology/IT/Computer_Science/Computer_Scientist.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Computer_Science/Computer_Scientist.internal|Computer_Scientist.internal]] 
 
-### #is_/same_as :: [Computer_Scientist.protect](/_protect/Technology/IT/Computer_Science/Computer_Scientist.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Computer_Science/Computer_Scientist.protect|Computer_Scientist.protect]] 
 
-### #is_/same_as :: [Computer_Scientist.private](/_private/Technology/IT/Computer_Science/Computer_Scientist.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Computer_Science/Computer_Scientist.private|Computer_Scientist.private]] 
 
-### #is_/same_as :: [Computer_Scientist.personal](/_personal/Technology/IT/Computer_Science/Computer_Scientist.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Computer_Science/Computer_Scientist.personal|Computer_Scientist.personal]] 
 
-### #is_/same_as :: [Computer_Scientist.secret](/_secret/Technology/IT/Computer_Science/Computer_Scientist.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Computer_Science/Computer_Scientist.secret|Computer_Scientist.secret]] 
 

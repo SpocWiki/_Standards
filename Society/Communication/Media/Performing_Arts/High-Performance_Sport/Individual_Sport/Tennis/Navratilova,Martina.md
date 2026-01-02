@@ -131,17 +131,17 @@ birth_name: Martina Šubertová
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Navratilova,Martina](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Tennis/Navratilova,Martina.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Tennis/Navratilova,Martina|Navratilova,Martina]] 
 
-### #is_/same_as :: [Navratilova,Martina.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Tennis/Navratilova,Martina.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Tennis/Navratilova,Martina.public|Navratilova,Martina.public]] 
 
-### #is_/same_as :: [Navratilova,Martina.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Tennis/Navratilova,Martina.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Tennis/Navratilova,Martina.internal|Navratilova,Martina.internal]] 
 
-### #is_/same_as :: [Navratilova,Martina.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Tennis/Navratilova,Martina.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Tennis/Navratilova,Martina.protect|Navratilova,Martina.protect]] 
 
-### #is_/same_as :: [Navratilova,Martina.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Tennis/Navratilova,Martina.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Tennis/Navratilova,Martina.private|Navratilova,Martina.private]] 
 
-### #is_/same_as :: [Navratilova,Martina.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Tennis/Navratilova,Martina.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Tennis/Navratilova,Martina.personal|Navratilova,Martina.personal]] 
 
-### #is_/same_as :: [Navratilova,Martina.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Tennis/Navratilova,Martina.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Tennis/Navratilova,Martina.secret|Navratilova,Martina.secret]] 
 

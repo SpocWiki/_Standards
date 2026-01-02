@@ -45,17 +45,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_number_of_constraints](/_Standards/schema-org/Property/has_number_of/has_number_of_constraints.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_number_of/has_number_of_constraints|has_number_of_constraints]] 
 
-### #is_/same_as :: [has_number_of_constraints.public](/_public/schema-org/Property/has_number_of/has_number_of_constraints.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/has_number_of/has_number_of_constraints.public|has_number_of_constraints.public]] 
 
-### #is_/same_as :: [has_number_of_constraints.internal](/_internal/schema-org/Property/has_number_of/has_number_of_constraints.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_number_of/has_number_of_constraints.internal|has_number_of_constraints.internal]] 
 
-### #is_/same_as :: [has_number_of_constraints.protect](/_protect/schema-org/Property/has_number_of/has_number_of_constraints.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_number_of/has_number_of_constraints.protect|has_number_of_constraints.protect]] 
 
-### #is_/same_as :: [has_number_of_constraints.private](/_private/schema-org/Property/has_number_of/has_number_of_constraints.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/has_number_of/has_number_of_constraints.private|has_number_of_constraints.private]] 
 
-### #is_/same_as :: [has_number_of_constraints.personal](/_personal/schema-org/Property/has_number_of/has_number_of_constraints.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_number_of/has_number_of_constraints.personal|has_number_of_constraints.personal]] 
 
-### #is_/same_as :: [has_number_of_constraints.secret](/_secret/schema-org/Property/has_number_of/has_number_of_constraints.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/has_number_of/has_number_of_constraints.secret|has_number_of_constraints.secret]] 
 

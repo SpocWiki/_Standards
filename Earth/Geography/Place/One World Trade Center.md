@@ -118,17 +118,17 @@ inception: 2014-11-03T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [One World Trade Center](/_Standards/Earth/Geography/Place/One World Trade Center.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geography/Place/One World Trade Center|One World Trade Center]] 
 
-### #is_/same_as :: [One World Trade Center.public](/_public/Earth/Geography/Place/One World Trade Center.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geography/Place/One World Trade Center.public|One World Trade Center.public]] 
 
-### #is_/same_as :: [One World Trade Center.internal](/_internal/Earth/Geography/Place/One World Trade Center.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geography/Place/One World Trade Center.internal|One World Trade Center.internal]] 
 
-### #is_/same_as :: [One World Trade Center.protect](/_protect/Earth/Geography/Place/One World Trade Center.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geography/Place/One World Trade Center.protect|One World Trade Center.protect]] 
 
-### #is_/same_as :: [One World Trade Center.private](/_private/Earth/Geography/Place/One World Trade Center.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geography/Place/One World Trade Center.private|One World Trade Center.private]] 
 
-### #is_/same_as :: [One World Trade Center.personal](/_personal/Earth/Geography/Place/One World Trade Center.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geography/Place/One World Trade Center.personal|One World Trade Center.personal]] 
 
-### #is_/same_as :: [One World Trade Center.secret](/_secret/Earth/Geography/Place/One World Trade Center.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geography/Place/One World Trade Center.secret|One World Trade Center.secret]] 
 

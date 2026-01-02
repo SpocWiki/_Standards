@@ -71,17 +71,17 @@ defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Pendulum](/_Standards/Technology/Tool/Instrumentation/Pendulum.md) 
+### #is_/same_as :: [[/_Standards/Technology/Tool/Instrumentation/Pendulum|Pendulum]] 
 
-### #is_/same_as :: [Pendulum.public](/_public/Technology/Tool/Instrumentation/Pendulum.public.md) 
+### #is_/same_as :: [[/_public/Technology/Tool/Instrumentation/Pendulum.public|Pendulum.public]] 
 
-### #is_/same_as :: [Pendulum.internal](/_internal/Technology/Tool/Instrumentation/Pendulum.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Tool/Instrumentation/Pendulum.internal|Pendulum.internal]] 
 
-### #is_/same_as :: [Pendulum.protect](/_protect/Technology/Tool/Instrumentation/Pendulum.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Tool/Instrumentation/Pendulum.protect|Pendulum.protect]] 
 
-### #is_/same_as :: [Pendulum.private](/_private/Technology/Tool/Instrumentation/Pendulum.private.md) 
+### #is_/same_as :: [[/_private/Technology/Tool/Instrumentation/Pendulum.private|Pendulum.private]] 
 
-### #is_/same_as :: [Pendulum.personal](/_personal/Technology/Tool/Instrumentation/Pendulum.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Tool/Instrumentation/Pendulum.personal|Pendulum.personal]] 
 
-### #is_/same_as :: [Pendulum.secret](/_secret/Technology/Tool/Instrumentation/Pendulum.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Tool/Instrumentation/Pendulum.secret|Pendulum.secret]] 
 

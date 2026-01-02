@@ -51,17 +51,17 @@ Commons_category: Michelson-Morley experiment
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Michelson–Morley_Experiment](/_Standards/Science/Physics/Theory_of_Relativity/Special_Relativity/Michelson–Morley_Experiment.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Theory_of_Relativity/Special_Relativity/Michelson–Morley_Experiment|Michelson–Morley_Experiment]] 
 
-### #is_/same_as :: [Michelson–Morley_Experiment.public](/_public/Science/Physics/Theory_of_Relativity/Special_Relativity/Michelson–Morley_Experiment.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Theory_of_Relativity/Special_Relativity/Michelson–Morley_Experiment.public|Michelson–Morley_Experiment.public]] 
 
-### #is_/same_as :: [Michelson–Morley_Experiment.internal](/_internal/Science/Physics/Theory_of_Relativity/Special_Relativity/Michelson–Morley_Experiment.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Theory_of_Relativity/Special_Relativity/Michelson–Morley_Experiment.internal|Michelson–Morley_Experiment.internal]] 
 
-### #is_/same_as :: [Michelson–Morley_Experiment.protect](/_protect/Science/Physics/Theory_of_Relativity/Special_Relativity/Michelson–Morley_Experiment.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Theory_of_Relativity/Special_Relativity/Michelson–Morley_Experiment.protect|Michelson–Morley_Experiment.protect]] 
 
-### #is_/same_as :: [Michelson–Morley_Experiment.private](/_private/Science/Physics/Theory_of_Relativity/Special_Relativity/Michelson–Morley_Experiment.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Theory_of_Relativity/Special_Relativity/Michelson–Morley_Experiment.private|Michelson–Morley_Experiment.private]] 
 
-### #is_/same_as :: [Michelson–Morley_Experiment.personal](/_personal/Science/Physics/Theory_of_Relativity/Special_Relativity/Michelson–Morley_Experiment.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Theory_of_Relativity/Special_Relativity/Michelson–Morley_Experiment.personal|Michelson–Morley_Experiment.personal]] 
 
-### #is_/same_as :: [Michelson–Morley_Experiment.secret](/_secret/Science/Physics/Theory_of_Relativity/Special_Relativity/Michelson–Morley_Experiment.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Theory_of_Relativity/Special_Relativity/Michelson–Morley_Experiment.secret|Michelson–Morley_Experiment.secret]] 
 

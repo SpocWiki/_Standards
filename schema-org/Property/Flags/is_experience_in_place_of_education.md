@@ -46,17 +46,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [is_experience_in_place_of_education](/_Standards/schema-org/Property/Flags/is_experience_in_place_of_education.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/Flags/is_experience_in_place_of_education|is_experience_in_place_of_education]] 
 
-### #is_/same_as :: [is_experience_in_place_of_education.public](/_public/schema-org/Property/Flags/is_experience_in_place_of_education.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/Flags/is_experience_in_place_of_education.public|is_experience_in_place_of_education.public]] 
 
-### #is_/same_as :: [is_experience_in_place_of_education.internal](/_internal/schema-org/Property/Flags/is_experience_in_place_of_education.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/Flags/is_experience_in_place_of_education.internal|is_experience_in_place_of_education.internal]] 
 
-### #is_/same_as :: [is_experience_in_place_of_education.protect](/_protect/schema-org/Property/Flags/is_experience_in_place_of_education.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/Flags/is_experience_in_place_of_education.protect|is_experience_in_place_of_education.protect]] 
 
-### #is_/same_as :: [is_experience_in_place_of_education.private](/_private/schema-org/Property/Flags/is_experience_in_place_of_education.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/Flags/is_experience_in_place_of_education.private|is_experience_in_place_of_education.private]] 
 
-### #is_/same_as :: [is_experience_in_place_of_education.personal](/_personal/schema-org/Property/Flags/is_experience_in_place_of_education.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/Flags/is_experience_in_place_of_education.personal|is_experience_in_place_of_education.personal]] 
 
-### #is_/same_as :: [is_experience_in_place_of_education.secret](/_secret/schema-org/Property/Flags/is_experience_in_place_of_education.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/Flags/is_experience_in_place_of_education.secret|is_experience_in_place_of_education.secret]] 
 

@@ -55,17 +55,17 @@ Google_Doodle: first-hot-air-balloon-flight
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Balloon](/_Standards/Technology/Aviation/Balloon.md) 
+### #is_/same_as :: [[/_Standards/Technology/Aviation/Balloon|Balloon]] 
 
-### #is_/same_as :: [Balloon.public](/_public/Technology/Aviation/Balloon.public.md) 
+### #is_/same_as :: [[/_public/Technology/Aviation/Balloon.public|Balloon.public]] 
 
-### #is_/same_as :: [Balloon.internal](/_internal/Technology/Aviation/Balloon.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Aviation/Balloon.internal|Balloon.internal]] 
 
-### #is_/same_as :: [Balloon.protect](/_protect/Technology/Aviation/Balloon.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Aviation/Balloon.protect|Balloon.protect]] 
 
-### #is_/same_as :: [Balloon.private](/_private/Technology/Aviation/Balloon.private.md) 
+### #is_/same_as :: [[/_private/Technology/Aviation/Balloon.private|Balloon.private]] 
 
-### #is_/same_as :: [Balloon.personal](/_personal/Technology/Aviation/Balloon.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Aviation/Balloon.personal|Balloon.personal]] 
 
-### #is_/same_as :: [Balloon.secret](/_secret/Technology/Aviation/Balloon.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Aviation/Balloon.secret|Balloon.secret]] 
 

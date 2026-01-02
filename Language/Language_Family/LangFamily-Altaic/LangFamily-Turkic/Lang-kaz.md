@@ -30,17 +30,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lang-kaz](/_Standards/Language/Language_Family/LangFamily-Altaic/LangFamily-Turkic/Lang-kaz.md) 
+### #is_/same_as :: [[/_Standards/Language/Language_Family/LangFamily-Altaic/LangFamily-Turkic/Lang-kaz|Lang-kaz]] 
 
-### #is_/same_as :: [Lang-kaz.public](/_public/Language/Language_Family/LangFamily-Altaic/LangFamily-Turkic/Lang-kaz.public.md) 
+### #is_/same_as :: [[/_public/Language/Language_Family/LangFamily-Altaic/LangFamily-Turkic/Lang-kaz.public|Lang-kaz.public]] 
 
-### #is_/same_as :: [Lang-kaz.internal](/_internal/Language/Language_Family/LangFamily-Altaic/LangFamily-Turkic/Lang-kaz.internal.md) 
+### #is_/same_as :: [[/_internal/Language/Language_Family/LangFamily-Altaic/LangFamily-Turkic/Lang-kaz.internal|Lang-kaz.internal]] 
 
-### #is_/same_as :: [Lang-kaz.protect](/_protect/Language/Language_Family/LangFamily-Altaic/LangFamily-Turkic/Lang-kaz.protect.md) 
+### #is_/same_as :: [[/_protect/Language/Language_Family/LangFamily-Altaic/LangFamily-Turkic/Lang-kaz.protect|Lang-kaz.protect]] 
 
-### #is_/same_as :: [Lang-kaz.private](/_private/Language/Language_Family/LangFamily-Altaic/LangFamily-Turkic/Lang-kaz.private.md) 
+### #is_/same_as :: [[/_private/Language/Language_Family/LangFamily-Altaic/LangFamily-Turkic/Lang-kaz.private|Lang-kaz.private]] 
 
-### #is_/same_as :: [Lang-kaz.personal](/_personal/Language/Language_Family/LangFamily-Altaic/LangFamily-Turkic/Lang-kaz.personal.md) 
+### #is_/same_as :: [[/_personal/Language/Language_Family/LangFamily-Altaic/LangFamily-Turkic/Lang-kaz.personal|Lang-kaz.personal]] 
 
-### #is_/same_as :: [Lang-kaz.secret](/_secret/Language/Language_Family/LangFamily-Altaic/LangFamily-Turkic/Lang-kaz.secret.md)
+### #is_/same_as :: [[/_secret/Language/Language_Family/LangFamily-Altaic/LangFamily-Turkic/Lang-kaz.secret|Lang-kaz.secret]] 
 

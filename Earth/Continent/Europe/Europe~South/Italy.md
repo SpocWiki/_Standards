@@ -818,17 +818,17 @@ Capital :: [[Italy/Counties/Lazio/Roma/City/Roma]]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Italy](/_Standards/Earth/Continent/Europe/Europe~South/Italy.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy|Italy]] 
 
-### #is_/same_as :: [Italy.public](/_public/Earth/Continent/Europe/Europe~South/Italy.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy.public|Italy.public]] 
 
-### #is_/same_as :: [Italy.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy.internal|Italy.internal]] 
 
-### #is_/same_as :: [Italy.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy.protect|Italy.protect]] 
 
-### #is_/same_as :: [Italy.private](/_private/Earth/Continent/Europe/Europe~South/Italy.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy.private|Italy.private]] 
 
-### #is_/same_as :: [Italy.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy.personal|Italy.personal]] 
 
-### #is_/same_as :: [Italy.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy.secret|Italy.secret]] 
 

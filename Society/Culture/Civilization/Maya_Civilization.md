@@ -71,17 +71,17 @@ OpenStreetMap_tag: historic:civilization=mayan
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Maya_Civilization](/_Standards/Society/Culture/Civilization/Maya_Civilization.md) 
+### #is_/same_as :: [[/_Standards/Society/Culture/Civilization/Maya_Civilization|Maya_Civilization]] 
 
-### #is_/same_as :: [Maya_Civilization.public](/_public/Society/Culture/Civilization/Maya_Civilization.public.md) 
+### #is_/same_as :: [[/_public/Society/Culture/Civilization/Maya_Civilization.public|Maya_Civilization.public]] 
 
-### #is_/same_as :: [Maya_Civilization.internal](/_internal/Society/Culture/Civilization/Maya_Civilization.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Culture/Civilization/Maya_Civilization.internal|Maya_Civilization.internal]] 
 
-### #is_/same_as :: [Maya_Civilization.protect](/_protect/Society/Culture/Civilization/Maya_Civilization.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Culture/Civilization/Maya_Civilization.protect|Maya_Civilization.protect]] 
 
-### #is_/same_as :: [Maya_Civilization.private](/_private/Society/Culture/Civilization/Maya_Civilization.private.md) 
+### #is_/same_as :: [[/_private/Society/Culture/Civilization/Maya_Civilization.private|Maya_Civilization.private]] 
 
-### #is_/same_as :: [Maya_Civilization.personal](/_personal/Society/Culture/Civilization/Maya_Civilization.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Culture/Civilization/Maya_Civilization.personal|Maya_Civilization.personal]] 
 
-### #is_/same_as :: [Maya_Civilization.secret](/_secret/Society/Culture/Civilization/Maya_Civilization.secret.md)
+### #is_/same_as :: [[/_secret/Society/Culture/Civilization/Maya_Civilization.secret|Maya_Civilization.secret]] 
 

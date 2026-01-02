@@ -31,17 +31,17 @@ using a [Dirac delta function](https://en.wikipedia.org/wiki/Dirac_delta "Dirac 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Jerk](/_Standards/Dimension/Linear_Dimension/Jerk.md) 
+### #is_/same_as :: [[/_Standards/Dimension/Linear_Dimension/Jerk|Jerk]] 
 
-### #is_/same_as :: [Jerk.public](/_public/Dimension/Linear_Dimension/Jerk.public.md) 
+### #is_/same_as :: [[/_public/Dimension/Linear_Dimension/Jerk.public|Jerk.public]] 
 
-### #is_/same_as :: [Jerk.internal](/_internal/Dimension/Linear_Dimension/Jerk.internal.md) 
+### #is_/same_as :: [[/_internal/Dimension/Linear_Dimension/Jerk.internal|Jerk.internal]] 
 
-### #is_/same_as :: [Jerk.protect](/_protect/Dimension/Linear_Dimension/Jerk.protect.md) 
+### #is_/same_as :: [[/_protect/Dimension/Linear_Dimension/Jerk.protect|Jerk.protect]] 
 
-### #is_/same_as :: [Jerk.private](/_private/Dimension/Linear_Dimension/Jerk.private.md) 
+### #is_/same_as :: [[/_private/Dimension/Linear_Dimension/Jerk.private|Jerk.private]] 
 
-### #is_/same_as :: [Jerk.personal](/_personal/Dimension/Linear_Dimension/Jerk.personal.md) 
+### #is_/same_as :: [[/_personal/Dimension/Linear_Dimension/Jerk.personal|Jerk.personal]] 
 
-### #is_/same_as :: [Jerk.secret](/_secret/Dimension/Linear_Dimension/Jerk.secret.md)
+### #is_/same_as :: [[/_secret/Dimension/Linear_Dimension/Jerk.secret|Jerk.secret]] 
 

@@ -135,17 +135,17 @@ N4IgLgngDgpiBcIYA8DGBDANgSwCYCd0B3EAGhADcZ8BnbAewDsEAmcm+gV31TkQAswYKDXgB6MQHNsY
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Academy_Award](/_Standards/Society/Communication/Media/Movie/Academy_Award.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Academy_Award|Academy_Award]] 
 
-### #is_/same_as :: [Academy_Award.public](/_public/Society/Communication/Media/Movie/Academy_Award.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Academy_Award.public|Academy_Award.public]] 
 
-### #is_/same_as :: [Academy_Award.internal](/_internal/Society/Communication/Media/Movie/Academy_Award.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Academy_Award.internal|Academy_Award.internal]] 
 
-### #is_/same_as :: [Academy_Award.protect](/_protect/Society/Communication/Media/Movie/Academy_Award.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Academy_Award.protect|Academy_Award.protect]] 
 
-### #is_/same_as :: [Academy_Award.private](/_private/Society/Communication/Media/Movie/Academy_Award.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Academy_Award.private|Academy_Award.private]] 
 
-### #is_/same_as :: [Academy_Award.personal](/_personal/Society/Communication/Media/Movie/Academy_Award.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Academy_Award.personal|Academy_Award.personal]] 
 
-### #is_/same_as :: [Academy_Award.secret](/_secret/Society/Communication/Media/Movie/Academy_Award.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Academy_Award.secret|Academy_Award.secret]] 
 

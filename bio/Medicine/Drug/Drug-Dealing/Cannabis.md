@@ -90,17 +90,17 @@ UMLS_CUI: C0949248
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Cannabis](/_Standards/bio/Medicine/Drug/Drug-Dealing/Cannabis.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Drug/Drug-Dealing/Cannabis|Cannabis]] 
 
-### #is_/same_as :: [Cannabis.public](/_public/bio/Medicine/Drug/Drug-Dealing/Cannabis.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Drug/Drug-Dealing/Cannabis.public|Cannabis.public]] 
 
-### #is_/same_as :: [Cannabis.internal](/_internal/bio/Medicine/Drug/Drug-Dealing/Cannabis.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Drug/Drug-Dealing/Cannabis.internal|Cannabis.internal]] 
 
-### #is_/same_as :: [Cannabis.protect](/_protect/bio/Medicine/Drug/Drug-Dealing/Cannabis.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Drug/Drug-Dealing/Cannabis.protect|Cannabis.protect]] 
 
-### #is_/same_as :: [Cannabis.private](/_private/bio/Medicine/Drug/Drug-Dealing/Cannabis.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Drug/Drug-Dealing/Cannabis.private|Cannabis.private]] 
 
-### #is_/same_as :: [Cannabis.personal](/_personal/bio/Medicine/Drug/Drug-Dealing/Cannabis.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Drug/Drug-Dealing/Cannabis.personal|Cannabis.personal]] 
 
-### #is_/same_as :: [Cannabis.secret](/_secret/bio/Medicine/Drug/Drug-Dealing/Cannabis.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Drug/Drug-Dealing/Cannabis.secret|Cannabis.secret]] 
 

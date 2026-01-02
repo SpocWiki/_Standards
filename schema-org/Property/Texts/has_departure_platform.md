@@ -45,17 +45,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_departure_platform](/_Standards/schema-org/Property/Texts/has_departure_platform.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/Texts/has_departure_platform|has_departure_platform]] 
 
-### #is_/same_as :: [has_departure_platform.public](/_public/schema-org/Property/Texts/has_departure_platform.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/Texts/has_departure_platform.public|has_departure_platform.public]] 
 
-### #is_/same_as :: [has_departure_platform.internal](/_internal/schema-org/Property/Texts/has_departure_platform.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/Texts/has_departure_platform.internal|has_departure_platform.internal]] 
 
-### #is_/same_as :: [has_departure_platform.protect](/_protect/schema-org/Property/Texts/has_departure_platform.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/Texts/has_departure_platform.protect|has_departure_platform.protect]] 
 
-### #is_/same_as :: [has_departure_platform.private](/_private/schema-org/Property/Texts/has_departure_platform.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/Texts/has_departure_platform.private|has_departure_platform.private]] 
 
-### #is_/same_as :: [has_departure_platform.personal](/_personal/schema-org/Property/Texts/has_departure_platform.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/Texts/has_departure_platform.personal|has_departure_platform.personal]] 
 
-### #is_/same_as :: [has_departure_platform.secret](/_secret/schema-org/Property/Texts/has_departure_platform.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/Texts/has_departure_platform.secret|has_departure_platform.secret]] 
 

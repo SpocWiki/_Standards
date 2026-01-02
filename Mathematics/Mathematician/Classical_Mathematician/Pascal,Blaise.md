@@ -181,17 +181,17 @@ writing_language: '[[_Standards/WikiData/WD~French,150]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Pascal,Blaise](/_Standards/Mathematics/Mathematician/Classical_Mathematician/Pascal,Blaise.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Mathematician/Classical_Mathematician/Pascal,Blaise|Pascal,Blaise]] 
 
-### #is_/same_as :: [Pascal,Blaise.public](/_public/Mathematics/Mathematician/Classical_Mathematician/Pascal,Blaise.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Mathematician/Classical_Mathematician/Pascal,Blaise.public|Pascal,Blaise.public]] 
 
-### #is_/same_as :: [Pascal,Blaise.internal](/_internal/Mathematics/Mathematician/Classical_Mathematician/Pascal,Blaise.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Mathematician/Classical_Mathematician/Pascal,Blaise.internal|Pascal,Blaise.internal]] 
 
-### #is_/same_as :: [Pascal,Blaise.protect](/_protect/Mathematics/Mathematician/Classical_Mathematician/Pascal,Blaise.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Mathematician/Classical_Mathematician/Pascal,Blaise.protect|Pascal,Blaise.protect]] 
 
-### #is_/same_as :: [Pascal,Blaise.private](/_private/Mathematics/Mathematician/Classical_Mathematician/Pascal,Blaise.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Mathematician/Classical_Mathematician/Pascal,Blaise.private|Pascal,Blaise.private]] 
 
-### #is_/same_as :: [Pascal,Blaise.personal](/_personal/Mathematics/Mathematician/Classical_Mathematician/Pascal,Blaise.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Mathematician/Classical_Mathematician/Pascal,Blaise.personal|Pascal,Blaise.personal]] 
 
-### #is_/same_as :: [Pascal,Blaise.secret](/_secret/Mathematics/Mathematician/Classical_Mathematician/Pascal,Blaise.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Mathematician/Classical_Mathematician/Pascal,Blaise.secret|Pascal,Blaise.secret]] 
 

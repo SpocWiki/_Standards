@@ -103,17 +103,17 @@ street_address: Parque Nacional da Tijuca - Alto da Boa Vista, Rio de Janeiro - 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Christ_the_Redeemer](/_Standards/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Christ_the_Redeemer.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Christ_the_Redeemer|Christ_the_Redeemer]] 
 
-### #is_/same_as :: [Christ_the_Redeemer.public](/_public/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Christ_the_Redeemer.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Christ_the_Redeemer.public|Christ_the_Redeemer.public]] 
 
-### #is_/same_as :: [Christ_the_Redeemer.internal](/_internal/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Christ_the_Redeemer.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Christ_the_Redeemer.internal|Christ_the_Redeemer.internal]] 
 
-### #is_/same_as :: [Christ_the_Redeemer.protect](/_protect/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Christ_the_Redeemer.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Christ_the_Redeemer.protect|Christ_the_Redeemer.protect]] 
 
-### #is_/same_as :: [Christ_the_Redeemer.private](/_private/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Christ_the_Redeemer.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Christ_the_Redeemer.private|Christ_the_Redeemer.private]] 
 
-### #is_/same_as :: [Christ_the_Redeemer.personal](/_personal/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Christ_the_Redeemer.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Christ_the_Redeemer.personal|Christ_the_Redeemer.personal]] 
 
-### #is_/same_as :: [Christ_the_Redeemer.secret](/_secret/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Christ_the_Redeemer.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Christ_the_Redeemer.secret|Christ_the_Redeemer.secret]] 
 

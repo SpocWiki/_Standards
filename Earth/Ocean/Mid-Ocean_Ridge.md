@@ -53,17 +53,17 @@ Commons_category: Mid-ocean ridges
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Mid-Ocean_Ridge](/_Standards/Earth/Ocean/Mid-Ocean_Ridge.md) 
+### #is_/same_as :: [[/_Standards/Earth/Ocean/Mid-Ocean_Ridge|Mid-Ocean_Ridge]] 
 
-### #is_/same_as :: [Mid-Ocean_Ridge.public](/_public/Earth/Ocean/Mid-Ocean_Ridge.public.md) 
+### #is_/same_as :: [[/_public/Earth/Ocean/Mid-Ocean_Ridge.public|Mid-Ocean_Ridge.public]] 
 
-### #is_/same_as :: [Mid-Ocean_Ridge.internal](/_internal/Earth/Ocean/Mid-Ocean_Ridge.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Ocean/Mid-Ocean_Ridge.internal|Mid-Ocean_Ridge.internal]] 
 
-### #is_/same_as :: [Mid-Ocean_Ridge.protect](/_protect/Earth/Ocean/Mid-Ocean_Ridge.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Ocean/Mid-Ocean_Ridge.protect|Mid-Ocean_Ridge.protect]] 
 
-### #is_/same_as :: [Mid-Ocean_Ridge.private](/_private/Earth/Ocean/Mid-Ocean_Ridge.private.md) 
+### #is_/same_as :: [[/_private/Earth/Ocean/Mid-Ocean_Ridge.private|Mid-Ocean_Ridge.private]] 
 
-### #is_/same_as :: [Mid-Ocean_Ridge.personal](/_personal/Earth/Ocean/Mid-Ocean_Ridge.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Ocean/Mid-Ocean_Ridge.personal|Mid-Ocean_Ridge.personal]] 
 
-### #is_/same_as :: [Mid-Ocean_Ridge.secret](/_secret/Earth/Ocean/Mid-Ocean_Ridge.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Ocean/Mid-Ocean_Ridge.secret|Mid-Ocean_Ridge.secret]] 
 

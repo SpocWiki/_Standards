@@ -60,17 +60,17 @@ Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_martial_arts,7112681]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Martial_Art](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Martial_Art.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Martial_Art|Martial_Art]] 
 
-### #is_/same_as :: [Martial_Art.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Martial_Art.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Martial_Art.public|Martial_Art.public]] 
 
-### #is_/same_as :: [Martial_Art.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Martial_Art.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Martial_Art.internal|Martial_Art.internal]] 
 
-### #is_/same_as :: [Martial_Art.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Martial_Art.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Martial_Art.protect|Martial_Art.protect]] 
 
-### #is_/same_as :: [Martial_Art.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Martial_Art.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Martial_Art.private|Martial_Art.private]] 
 
-### #is_/same_as :: [Martial_Art.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Martial_Art.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Martial_Art.personal|Martial_Art.personal]] 
 
-### #is_/same_as :: [Martial_Art.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Martial_Art.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Martial_Art.secret|Martial_Art.secret]] 
 

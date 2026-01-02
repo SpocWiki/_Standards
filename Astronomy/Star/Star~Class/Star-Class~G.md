@@ -24,17 +24,17 @@ _Mass-sol: 1.1
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Star-Class~G](/_Standards/Astronomy/Star/Star~Class/Star-Class~G.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Star/Star~Class/Star-Class~G|Star-Class~G]] 
 
-### #is_/same_as :: [Star-Class~G.public](/_public/Astronomy/Star/Star~Class/Star-Class~G.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Star/Star~Class/Star-Class~G.public|Star-Class~G.public]] 
 
-### #is_/same_as :: [Star-Class~G.internal](/_internal/Astronomy/Star/Star~Class/Star-Class~G.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Star/Star~Class/Star-Class~G.internal|Star-Class~G.internal]] 
 
-### #is_/same_as :: [Star-Class~G.protect](/_protect/Astronomy/Star/Star~Class/Star-Class~G.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Star/Star~Class/Star-Class~G.protect|Star-Class~G.protect]] 
 
-### #is_/same_as :: [Star-Class~G.private](/_private/Astronomy/Star/Star~Class/Star-Class~G.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Star/Star~Class/Star-Class~G.private|Star-Class~G.private]] 
 
-### #is_/same_as :: [Star-Class~G.personal](/_personal/Astronomy/Star/Star~Class/Star-Class~G.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Star/Star~Class/Star-Class~G.personal|Star-Class~G.personal]] 
 
-### #is_/same_as :: [Star-Class~G.secret](/_secret/Astronomy/Star/Star~Class/Star-Class~G.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Star/Star~Class/Star-Class~G.secret|Star-Class~G.secret]] 
 

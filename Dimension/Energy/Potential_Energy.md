@@ -62,17 +62,17 @@ defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Potential_Energy](/_Standards/Dimension/Energy/Potential_Energy.md) 
+### #is_/same_as :: [[/_Standards/Dimension/Energy/Potential_Energy|Potential_Energy]] 
 
-### #is_/same_as :: [Potential_Energy.public](/_public/Dimension/Energy/Potential_Energy.public.md) 
+### #is_/same_as :: [[/_public/Dimension/Energy/Potential_Energy.public|Potential_Energy.public]] 
 
-### #is_/same_as :: [Potential_Energy.internal](/_internal/Dimension/Energy/Potential_Energy.internal.md) 
+### #is_/same_as :: [[/_internal/Dimension/Energy/Potential_Energy.internal|Potential_Energy.internal]] 
 
-### #is_/same_as :: [Potential_Energy.protect](/_protect/Dimension/Energy/Potential_Energy.protect.md) 
+### #is_/same_as :: [[/_protect/Dimension/Energy/Potential_Energy.protect|Potential_Energy.protect]] 
 
-### #is_/same_as :: [Potential_Energy.private](/_private/Dimension/Energy/Potential_Energy.private.md) 
+### #is_/same_as :: [[/_private/Dimension/Energy/Potential_Energy.private|Potential_Energy.private]] 
 
-### #is_/same_as :: [Potential_Energy.personal](/_personal/Dimension/Energy/Potential_Energy.personal.md) 
+### #is_/same_as :: [[/_personal/Dimension/Energy/Potential_Energy.personal|Potential_Energy.personal]] 
 
-### #is_/same_as :: [Potential_Energy.secret](/_secret/Dimension/Energy/Potential_Energy.secret.md)
+### #is_/same_as :: [[/_secret/Dimension/Energy/Potential_Energy.secret|Potential_Energy.secret]] 
 

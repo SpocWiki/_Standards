@@ -41,17 +41,17 @@ Web page type: About page.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [About_Page](/_Standards/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/About_Page.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/About_Page|About_Page]] 
 
-### #is_/same_as :: [About_Page.public](/_public/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/About_Page.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/About_Page.public|About_Page.public]] 
 
-### #is_/same_as :: [About_Page.internal](/_internal/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/About_Page.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/About_Page.internal|About_Page.internal]] 
 
-### #is_/same_as :: [About_Page.protect](/_protect/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/About_Page.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/About_Page.protect|About_Page.protect]] 
 
-### #is_/same_as :: [About_Page.private](/_private/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/About_Page.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/About_Page.private|About_Page.private]] 
 
-### #is_/same_as :: [About_Page.personal](/_personal/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/About_Page.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/About_Page.personal|About_Page.personal]] 
 
-### #is_/same_as :: [About_Page.secret](/_secret/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/About_Page.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/About_Page.secret|About_Page.secret]] 
 

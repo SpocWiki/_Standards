@@ -36,17 +36,17 @@ Stack_Exchange_tag: https://math.stackexchange.com/tags/elementary-set-theory
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Naive_Set_Theory](/_Standards/Mathematics/Set_Theory/Naive_Set_Theory.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Set_Theory/Naive_Set_Theory|Naive_Set_Theory]] 
 
-### #is_/same_as :: [Naive_Set_Theory.public](/_public/Mathematics/Set_Theory/Naive_Set_Theory.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Set_Theory/Naive_Set_Theory.public|Naive_Set_Theory.public]] 
 
-### #is_/same_as :: [Naive_Set_Theory.internal](/_internal/Mathematics/Set_Theory/Naive_Set_Theory.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Set_Theory/Naive_Set_Theory.internal|Naive_Set_Theory.internal]] 
 
-### #is_/same_as :: [Naive_Set_Theory.protect](/_protect/Mathematics/Set_Theory/Naive_Set_Theory.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Set_Theory/Naive_Set_Theory.protect|Naive_Set_Theory.protect]] 
 
-### #is_/same_as :: [Naive_Set_Theory.private](/_private/Mathematics/Set_Theory/Naive_Set_Theory.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Set_Theory/Naive_Set_Theory.private|Naive_Set_Theory.private]] 
 
-### #is_/same_as :: [Naive_Set_Theory.personal](/_personal/Mathematics/Set_Theory/Naive_Set_Theory.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Set_Theory/Naive_Set_Theory.personal|Naive_Set_Theory.personal]] 
 
-### #is_/same_as :: [Naive_Set_Theory.secret](/_secret/Mathematics/Set_Theory/Naive_Set_Theory.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Set_Theory/Naive_Set_Theory.secret|Naive_Set_Theory.secret]] 
 

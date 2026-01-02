@@ -54,17 +54,17 @@ short_name: H. suspectum
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Gila_monster](/_Standards/bio/bio~Domain/Eukarya/Animal/Gila_monster.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Gila_monster|Gila_monster]] 
 
-### #is_/same_as :: [Gila_monster.public](/_public/bio/bio~Domain/Eukarya/Animal/Gila_monster.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Gila_monster.public|Gila_monster.public]] 
 
-### #is_/same_as :: [Gila_monster.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Gila_monster.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Gila_monster.internal|Gila_monster.internal]] 
 
-### #is_/same_as :: [Gila_monster.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Gila_monster.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Gila_monster.protect|Gila_monster.protect]] 
 
-### #is_/same_as :: [Gila_monster.private](/_private/bio/bio~Domain/Eukarya/Animal/Gila_monster.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Gila_monster.private|Gila_monster.private]] 
 
-### #is_/same_as :: [Gila_monster.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Gila_monster.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Gila_monster.personal|Gila_monster.personal]] 
 
-### #is_/same_as :: [Gila_monster.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Gila_monster.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Gila_monster.secret|Gila_monster.secret]] 
 

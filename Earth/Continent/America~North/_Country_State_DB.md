@@ -322,17 +322,17 @@ filters:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [_Country_State_DB](/_Standards/Earth/Continent/America~North/_Country_State_DB.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~North/_Country_State_DB|_Country_State_DB]] 
 
-### #is_/same_as :: [_Country_State_DB.public](/_public/Earth/Continent/America~North/_Country_State_DB.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~North/_Country_State_DB.public|_Country_State_DB.public]] 
 
-### #is_/same_as :: [_Country_State_DB.internal](/_internal/Earth/Continent/America~North/_Country_State_DB.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~North/_Country_State_DB.internal|_Country_State_DB.internal]] 
 
-### #is_/same_as :: [_Country_State_DB.protect](/_protect/Earth/Continent/America~North/_Country_State_DB.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~North/_Country_State_DB.protect|_Country_State_DB.protect]] 
 
-### #is_/same_as :: [_Country_State_DB.private](/_private/Earth/Continent/America~North/_Country_State_DB.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~North/_Country_State_DB.private|_Country_State_DB.private]] 
 
-### #is_/same_as :: [_Country_State_DB.personal](/_personal/Earth/Continent/America~North/_Country_State_DB.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~North/_Country_State_DB.personal|_Country_State_DB.personal]] 
 
-### #is_/same_as :: [_Country_State_DB.secret](/_secret/Earth/Continent/America~North/_Country_State_DB.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~North/_Country_State_DB.secret|_Country_State_DB.secret]] 
 

@@ -80,17 +80,17 @@ IMDb_keyword: printing-press
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Printing_Press](/_Standards/Society/Communication/Printing/Printing_Press.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Printing/Printing_Press|Printing_Press]] 
 
-### #is_/same_as :: [Printing_Press.public](/_public/Society/Communication/Printing/Printing_Press.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Printing/Printing_Press.public|Printing_Press.public]] 
 
-### #is_/same_as :: [Printing_Press.internal](/_internal/Society/Communication/Printing/Printing_Press.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Printing/Printing_Press.internal|Printing_Press.internal]] 
 
-### #is_/same_as :: [Printing_Press.protect](/_protect/Society/Communication/Printing/Printing_Press.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Printing/Printing_Press.protect|Printing_Press.protect]] 
 
-### #is_/same_as :: [Printing_Press.private](/_private/Society/Communication/Printing/Printing_Press.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Printing/Printing_Press.private|Printing_Press.private]] 
 
-### #is_/same_as :: [Printing_Press.personal](/_personal/Society/Communication/Printing/Printing_Press.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Printing/Printing_Press.personal|Printing_Press.personal]] 
 
-### #is_/same_as :: [Printing_Press.secret](/_secret/Society/Communication/Printing/Printing_Press.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Printing/Printing_Press.secret|Printing_Press.secret]] 
 

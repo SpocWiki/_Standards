@@ -93,17 +93,17 @@ date_of_death: 1996-08-01T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Tadeusz_Reichstein](/_Standards/Chemistry/Tadeusz_Reichstein.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Tadeusz_Reichstein|Tadeusz_Reichstein]] 
 
-### #is_/same_as :: [Tadeusz_Reichstein.public](/_public/Chemistry/Tadeusz_Reichstein.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Tadeusz_Reichstein.public|Tadeusz_Reichstein.public]] 
 
-### #is_/same_as :: [Tadeusz_Reichstein.internal](/_internal/Chemistry/Tadeusz_Reichstein.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Tadeusz_Reichstein.internal|Tadeusz_Reichstein.internal]] 
 
-### #is_/same_as :: [Tadeusz_Reichstein.protect](/_protect/Chemistry/Tadeusz_Reichstein.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Tadeusz_Reichstein.protect|Tadeusz_Reichstein.protect]] 
 
-### #is_/same_as :: [Tadeusz_Reichstein.private](/_private/Chemistry/Tadeusz_Reichstein.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Tadeusz_Reichstein.private|Tadeusz_Reichstein.private]] 
 
-### #is_/same_as :: [Tadeusz_Reichstein.personal](/_personal/Chemistry/Tadeusz_Reichstein.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Tadeusz_Reichstein.personal|Tadeusz_Reichstein.personal]] 
 
-### #is_/same_as :: [Tadeusz_Reichstein.secret](/_secret/Chemistry/Tadeusz_Reichstein.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Tadeusz_Reichstein.secret|Tadeusz_Reichstein.secret]] 
 

@@ -73,17 +73,17 @@ topic_s_main_template: '[[_Standards/WikiData/WD~Q10562397,10562397]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Grammar](/_Standards/Language/Linguistics/Semiotics/Grammar.md) 
+### #is_/same_as :: [[/_Standards/Language/Linguistics/Semiotics/Grammar|Grammar]] 
 
-### #is_/same_as :: [Grammar.public](/_public/Language/Linguistics/Semiotics/Grammar.public.md) 
+### #is_/same_as :: [[/_public/Language/Linguistics/Semiotics/Grammar.public|Grammar.public]] 
 
-### #is_/same_as :: [Grammar.internal](/_internal/Language/Linguistics/Semiotics/Grammar.internal.md) 
+### #is_/same_as :: [[/_internal/Language/Linguistics/Semiotics/Grammar.internal|Grammar.internal]] 
 
-### #is_/same_as :: [Grammar.protect](/_protect/Language/Linguistics/Semiotics/Grammar.protect.md) 
+### #is_/same_as :: [[/_protect/Language/Linguistics/Semiotics/Grammar.protect|Grammar.protect]] 
 
-### #is_/same_as :: [Grammar.private](/_private/Language/Linguistics/Semiotics/Grammar.private.md) 
+### #is_/same_as :: [[/_private/Language/Linguistics/Semiotics/Grammar.private|Grammar.private]] 
 
-### #is_/same_as :: [Grammar.personal](/_personal/Language/Linguistics/Semiotics/Grammar.personal.md) 
+### #is_/same_as :: [[/_personal/Language/Linguistics/Semiotics/Grammar.personal|Grammar.personal]] 
 
-### #is_/same_as :: [Grammar.secret](/_secret/Language/Linguistics/Semiotics/Grammar.secret.md)
+### #is_/same_as :: [[/_secret/Language/Linguistics/Semiotics/Grammar.secret|Grammar.secret]] 
 

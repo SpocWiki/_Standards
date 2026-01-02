@@ -151,17 +151,17 @@ has_time_destroyed: Date (and Time) of Destruction/Death/Dissolution/Demise
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [ReadMe](/_Standards/ReadMe.md) 
+### #is_/same_as :: [[/_Standards/ReadMe|ReadMe]] 
 
-### #is_/same_as :: [ReadMe.public](/_public/ReadMe.public.md) 
+### #is_/same_as :: [[/_public/ReadMe.public|ReadMe.public]] 
 
-### #is_/same_as :: [ReadMe.internal](/_internal/ReadMe.internal.md) 
+### #is_/same_as :: [[/_internal/ReadMe.internal|ReadMe.internal]] 
 
-### #is_/same_as :: [ReadMe.protect](/_protect/ReadMe.protect.md) 
+### #is_/same_as :: [[/_protect/ReadMe.protect|ReadMe.protect]] 
 
-### #is_/same_as :: [ReadMe.private](/_private/ReadMe.private.md) 
+### #is_/same_as :: [[/_private/ReadMe.private|ReadMe.private]] 
 
-### #is_/same_as :: [ReadMe.personal](/_personal/ReadMe.personal.md) 
+### #is_/same_as :: [[/_personal/ReadMe.personal|ReadMe.personal]] 
 
-### #is_/same_as :: [ReadMe.secret](/_secret/ReadMe.secret.md)
+### #is_/same_as :: [[/_secret/ReadMe.secret|ReadMe.secret]] 
 

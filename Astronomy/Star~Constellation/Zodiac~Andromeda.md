@@ -56,17 +56,17 @@ P8189: 987007551838705171
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Zodiac~Andromeda](/_Standards/Astronomy/Star~Constellation/Zodiac~Andromeda.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Star~Constellation/Zodiac~Andromeda|Zodiac~Andromeda]] 
 
-### #is_/same_as :: [Zodiac~Andromeda.public](/_public/Astronomy/Star~Constellation/Zodiac~Andromeda.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Star~Constellation/Zodiac~Andromeda.public|Zodiac~Andromeda.public]] 
 
-### #is_/same_as :: [Zodiac~Andromeda.internal](/_internal/Astronomy/Star~Constellation/Zodiac~Andromeda.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Star~Constellation/Zodiac~Andromeda.internal|Zodiac~Andromeda.internal]] 
 
-### #is_/same_as :: [Zodiac~Andromeda.protect](/_protect/Astronomy/Star~Constellation/Zodiac~Andromeda.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Star~Constellation/Zodiac~Andromeda.protect|Zodiac~Andromeda.protect]] 
 
-### #is_/same_as :: [Zodiac~Andromeda.private](/_private/Astronomy/Star~Constellation/Zodiac~Andromeda.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Star~Constellation/Zodiac~Andromeda.private|Zodiac~Andromeda.private]] 
 
-### #is_/same_as :: [Zodiac~Andromeda.personal](/_personal/Astronomy/Star~Constellation/Zodiac~Andromeda.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Star~Constellation/Zodiac~Andromeda.personal|Zodiac~Andromeda.personal]] 
 
-### #is_/same_as :: [Zodiac~Andromeda.secret](/_secret/Astronomy/Star~Constellation/Zodiac~Andromeda.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Star~Constellation/Zodiac~Andromeda.secret|Zodiac~Andromeda.secret]] 
 

@@ -81,17 +81,17 @@ Krugosvet_article_archived_: Earth_sciences/geografiya/GVIANA.html
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Guianas](/_Standards/Earth/Continent/America~South/Guianas.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~South/Guianas|Guianas]] 
 
-### #is_/same_as :: [Guianas.public](/_public/Earth/Continent/America~South/Guianas.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~South/Guianas.public|Guianas.public]] 
 
-### #is_/same_as :: [Guianas.internal](/_internal/Earth/Continent/America~South/Guianas.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~South/Guianas.internal|Guianas.internal]] 
 
-### #is_/same_as :: [Guianas.protect](/_protect/Earth/Continent/America~South/Guianas.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~South/Guianas.protect|Guianas.protect]] 
 
-### #is_/same_as :: [Guianas.private](/_private/Earth/Continent/America~South/Guianas.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~South/Guianas.private|Guianas.private]] 
 
-### #is_/same_as :: [Guianas.personal](/_personal/Earth/Continent/America~South/Guianas.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~South/Guianas.personal|Guianas.personal]] 
 
-### #is_/same_as :: [Guianas.secret](/_secret/Earth/Continent/America~South/Guianas.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~South/Guianas.secret|Guianas.secret]] 
 

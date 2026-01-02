@@ -37,17 +37,17 @@ A clothing store.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~ClothingStore](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~ClothingStore.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~ClothingStore|FileClass~ClothingStore]] 
 
-### #is_/same_as :: [FileClass~ClothingStore.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~ClothingStore.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~ClothingStore.public|FileClass~ClothingStore.public]] 
 
-### #is_/same_as :: [FileClass~ClothingStore.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~ClothingStore.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~ClothingStore.internal|FileClass~ClothingStore.internal]] 
 
-### #is_/same_as :: [FileClass~ClothingStore.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~ClothingStore.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~ClothingStore.protect|FileClass~ClothingStore.protect]] 
 
-### #is_/same_as :: [FileClass~ClothingStore.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~ClothingStore.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~ClothingStore.private|FileClass~ClothingStore.private]] 
 
-### #is_/same_as :: [FileClass~ClothingStore.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~ClothingStore.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~ClothingStore.personal|FileClass~ClothingStore.personal]] 
 
-### #is_/same_as :: [FileClass~ClothingStore.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~ClothingStore.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~ClothingStore.secret|FileClass~ClothingStore.secret]] 
 

@@ -41,17 +41,17 @@ A store that sells materials useful or necessary for various hobbies.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hobby_Shop](/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Store/Hobby_Shop.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Store/Hobby_Shop|Hobby_Shop]] 
 
-### #is_/same_as :: [Hobby_Shop.public](/_public/Society/Agent/Community/Organization/Business/Local_Business/Store/Hobby_Shop.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Business/Local_Business/Store/Hobby_Shop.public|Hobby_Shop.public]] 
 
-### #is_/same_as :: [Hobby_Shop.internal](/_internal/Society/Agent/Community/Organization/Business/Local_Business/Store/Hobby_Shop.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Business/Local_Business/Store/Hobby_Shop.internal|Hobby_Shop.internal]] 
 
-### #is_/same_as :: [Hobby_Shop.protect](/_protect/Society/Agent/Community/Organization/Business/Local_Business/Store/Hobby_Shop.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Business/Local_Business/Store/Hobby_Shop.protect|Hobby_Shop.protect]] 
 
-### #is_/same_as :: [Hobby_Shop.private](/_private/Society/Agent/Community/Organization/Business/Local_Business/Store/Hobby_Shop.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Business/Local_Business/Store/Hobby_Shop.private|Hobby_Shop.private]] 
 
-### #is_/same_as :: [Hobby_Shop.personal](/_personal/Society/Agent/Community/Organization/Business/Local_Business/Store/Hobby_Shop.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Business/Local_Business/Store/Hobby_Shop.personal|Hobby_Shop.personal]] 
 
-### #is_/same_as :: [Hobby_Shop.secret](/_secret/Society/Agent/Community/Organization/Business/Local_Business/Store/Hobby_Shop.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Business/Local_Business/Store/Hobby_Shop.secret|Hobby_Shop.secret]] 
 

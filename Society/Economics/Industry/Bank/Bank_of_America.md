@@ -178,17 +178,17 @@ official_name: Bank of America Corporation
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bank_of_America](/_Standards/Society/Economics/Industry/Bank/Bank_of_America.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Industry/Bank/Bank_of_America|Bank_of_America]] 
 
-### #is_/same_as :: [Bank_of_America.public](/_public/Society/Economics/Industry/Bank/Bank_of_America.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Industry/Bank/Bank_of_America.public|Bank_of_America.public]] 
 
-### #is_/same_as :: [Bank_of_America.internal](/_internal/Society/Economics/Industry/Bank/Bank_of_America.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Industry/Bank/Bank_of_America.internal|Bank_of_America.internal]] 
 
-### #is_/same_as :: [Bank_of_America.protect](/_protect/Society/Economics/Industry/Bank/Bank_of_America.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Industry/Bank/Bank_of_America.protect|Bank_of_America.protect]] 
 
-### #is_/same_as :: [Bank_of_America.private](/_private/Society/Economics/Industry/Bank/Bank_of_America.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Industry/Bank/Bank_of_America.private|Bank_of_America.private]] 
 
-### #is_/same_as :: [Bank_of_America.personal](/_personal/Society/Economics/Industry/Bank/Bank_of_America.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Industry/Bank/Bank_of_America.personal|Bank_of_America.personal]] 
 
-### #is_/same_as :: [Bank_of_America.secret](/_secret/Society/Economics/Industry/Bank/Bank_of_America.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Industry/Bank/Bank_of_America.secret|Bank_of_America.secret]] 
 

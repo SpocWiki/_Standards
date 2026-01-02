@@ -93,17 +93,17 @@ Krugosvet_article_archived_: gumanitarnye_nauki/lingvistika/KHMERSKI_YAZIK.html
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lang-khm](/_Standards/Language/Language_Family/LangFamily-Austro-Asiatic/Lang-khm.md) 
+### #is_/same_as :: [[/_Standards/Language/Language_Family/LangFamily-Austro-Asiatic/Lang-khm|Lang-khm]] 
 
-### #is_/same_as :: [Lang-khm.public](/_public/Language/Language_Family/LangFamily-Austro-Asiatic/Lang-khm.public.md) 
+### #is_/same_as :: [[/_public/Language/Language_Family/LangFamily-Austro-Asiatic/Lang-khm.public|Lang-khm.public]] 
 
-### #is_/same_as :: [Lang-khm.internal](/_internal/Language/Language_Family/LangFamily-Austro-Asiatic/Lang-khm.internal.md) 
+### #is_/same_as :: [[/_internal/Language/Language_Family/LangFamily-Austro-Asiatic/Lang-khm.internal|Lang-khm.internal]] 
 
-### #is_/same_as :: [Lang-khm.protect](/_protect/Language/Language_Family/LangFamily-Austro-Asiatic/Lang-khm.protect.md) 
+### #is_/same_as :: [[/_protect/Language/Language_Family/LangFamily-Austro-Asiatic/Lang-khm.protect|Lang-khm.protect]] 
 
-### #is_/same_as :: [Lang-khm.private](/_private/Language/Language_Family/LangFamily-Austro-Asiatic/Lang-khm.private.md) 
+### #is_/same_as :: [[/_private/Language/Language_Family/LangFamily-Austro-Asiatic/Lang-khm.private|Lang-khm.private]] 
 
-### #is_/same_as :: [Lang-khm.personal](/_personal/Language/Language_Family/LangFamily-Austro-Asiatic/Lang-khm.personal.md) 
+### #is_/same_as :: [[/_personal/Language/Language_Family/LangFamily-Austro-Asiatic/Lang-khm.personal|Lang-khm.personal]] 
 
-### #is_/same_as :: [Lang-khm.secret](/_secret/Language/Language_Family/LangFamily-Austro-Asiatic/Lang-khm.secret.md)
+### #is_/same_as :: [[/_secret/Language/Language_Family/LangFamily-Austro-Asiatic/Lang-khm.secret|Lang-khm.secret]] 
 

@@ -336,7 +336,7 @@ of extant primates. Nature 416:726-729.
 
 ## Title Illustrations
 
-![Ring-tailed lemurs](Primates/lemurs.jpg))
+![Ring-tailed lemurs](Primates/lemurs.jpg) 
 
   ------------------------------------------------------------------------------
   Scientific Name ::  Lemur catta
@@ -344,7 +344,7 @@ of extant primates. Nature 416:726-729.
   Copyright ::         © 2000 [Greg and Marybeth Dimijian](http://www.dimijianimages.com/) 
  
   ------------------------------------------------------------------------------
-![Squirrel monkey (Platyrrhini)](Primates/saimiri.jpg))
+![Squirrel monkey (Platyrrhini)](Primates/saimiri.jpg) 
 
   ------------------------------------------------------------------------------
   Scientific Name ::  Saimiri oerstedi
@@ -352,7 +352,7 @@ of extant primates. Nature 416:726-729.
   Copyright ::         © 2000 [Greg and Marybeth Dimijian](http://www.dimijianimages.com/) 
  
   ------------------------------------------------------------------------------
-![Vervet monkey (Catarrhini)](Primates/vervet.jpg))
+![Vervet monkey (Catarrhini)](Primates/vervet.jpg) 
 
   ------------------------------------------------------------------------------
   Scientific Name ::  Cercopithecus aethiops
@@ -364,17 +364,17 @@ of extant primates. Nature 416:726-729.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Primates](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Primates.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Primates|Primates]] 
 
-### #is_/same_as :: [Primates.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Primates.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Primates.public|Primates.public]] 
 
-### #is_/same_as :: [Primates.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Primates.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Primates.internal|Primates.internal]] 
 
-### #is_/same_as :: [Primates.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Primates.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Primates.protect|Primates.protect]] 
 
-### #is_/same_as :: [Primates.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Primates.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Primates.private|Primates.private]] 
 
-### #is_/same_as :: [Primates.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Primates.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Primates.personal|Primates.personal]] 
 
-### #is_/same_as :: [Primates.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Primates.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Primates.secret|Primates.secret]] 
 

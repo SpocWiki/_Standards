@@ -37,17 +37,17 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/%D0%91%D0%A1%D0%AD1.%2
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Pitchfork](/_Standards/Society/Economics/Industry/Agriculture/Pitchfork.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Industry/Agriculture/Pitchfork|Pitchfork]] 
 
-### #is_/same_as :: [Pitchfork.public](/_public/Society/Economics/Industry/Agriculture/Pitchfork.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Industry/Agriculture/Pitchfork.public|Pitchfork.public]] 
 
-### #is_/same_as :: [Pitchfork.internal](/_internal/Society/Economics/Industry/Agriculture/Pitchfork.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Industry/Agriculture/Pitchfork.internal|Pitchfork.internal]] 
 
-### #is_/same_as :: [Pitchfork.protect](/_protect/Society/Economics/Industry/Agriculture/Pitchfork.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Industry/Agriculture/Pitchfork.protect|Pitchfork.protect]] 
 
-### #is_/same_as :: [Pitchfork.private](/_private/Society/Economics/Industry/Agriculture/Pitchfork.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Industry/Agriculture/Pitchfork.private|Pitchfork.private]] 
 
-### #is_/same_as :: [Pitchfork.personal](/_personal/Society/Economics/Industry/Agriculture/Pitchfork.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Industry/Agriculture/Pitchfork.personal|Pitchfork.personal]] 
 
-### #is_/same_as :: [Pitchfork.secret](/_secret/Society/Economics/Industry/Agriculture/Pitchfork.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Industry/Agriculture/Pitchfork.secret|Pitchfork.secret]] 
 

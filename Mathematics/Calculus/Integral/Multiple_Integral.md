@@ -30,17 +30,17 @@ maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,848
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Multiple_Integral](/_Standards/Mathematics/Calculus/Integral/Multiple_Integral.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Calculus/Integral/Multiple_Integral|Multiple_Integral]] 
 
-### #is_/same_as :: [Multiple_Integral.public](/_public/Mathematics/Calculus/Integral/Multiple_Integral.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Calculus/Integral/Multiple_Integral.public|Multiple_Integral.public]] 
 
-### #is_/same_as :: [Multiple_Integral.internal](/_internal/Mathematics/Calculus/Integral/Multiple_Integral.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Calculus/Integral/Multiple_Integral.internal|Multiple_Integral.internal]] 
 
-### #is_/same_as :: [Multiple_Integral.protect](/_protect/Mathematics/Calculus/Integral/Multiple_Integral.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Calculus/Integral/Multiple_Integral.protect|Multiple_Integral.protect]] 
 
-### #is_/same_as :: [Multiple_Integral.private](/_private/Mathematics/Calculus/Integral/Multiple_Integral.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Calculus/Integral/Multiple_Integral.private|Multiple_Integral.private]] 
 
-### #is_/same_as :: [Multiple_Integral.personal](/_personal/Mathematics/Calculus/Integral/Multiple_Integral.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Calculus/Integral/Multiple_Integral.personal|Multiple_Integral.personal]] 
 
-### #is_/same_as :: [Multiple_Integral.secret](/_secret/Mathematics/Calculus/Integral/Multiple_Integral.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Calculus/Integral/Multiple_Integral.secret|Multiple_Integral.secret]] 
 

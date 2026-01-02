@@ -91,17 +91,17 @@ ISNI: "0000000103952451"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Zeno_of_Elea](/_Standards/Philosophy/Philosopher/Ancient_Philosopher/Zeno_of_Elea.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Philosopher/Ancient_Philosopher/Zeno_of_Elea|Zeno_of_Elea]] 
 
-### #is_/same_as :: [Zeno_of_Elea.public](/_public/Philosophy/Philosopher/Ancient_Philosopher/Zeno_of_Elea.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Philosopher/Ancient_Philosopher/Zeno_of_Elea.public|Zeno_of_Elea.public]] 
 
-### #is_/same_as :: [Zeno_of_Elea.internal](/_internal/Philosophy/Philosopher/Ancient_Philosopher/Zeno_of_Elea.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Philosopher/Ancient_Philosopher/Zeno_of_Elea.internal|Zeno_of_Elea.internal]] 
 
-### #is_/same_as :: [Zeno_of_Elea.protect](/_protect/Philosophy/Philosopher/Ancient_Philosopher/Zeno_of_Elea.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Philosopher/Ancient_Philosopher/Zeno_of_Elea.protect|Zeno_of_Elea.protect]] 
 
-### #is_/same_as :: [Zeno_of_Elea.private](/_private/Philosophy/Philosopher/Ancient_Philosopher/Zeno_of_Elea.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Philosopher/Ancient_Philosopher/Zeno_of_Elea.private|Zeno_of_Elea.private]] 
 
-### #is_/same_as :: [Zeno_of_Elea.personal](/_personal/Philosophy/Philosopher/Ancient_Philosopher/Zeno_of_Elea.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Philosopher/Ancient_Philosopher/Zeno_of_Elea.personal|Zeno_of_Elea.personal]] 
 
-### #is_/same_as :: [Zeno_of_Elea.secret](/_secret/Philosophy/Philosopher/Ancient_Philosopher/Zeno_of_Elea.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Philosopher/Ancient_Philosopher/Zeno_of_Elea.secret|Zeno_of_Elea.secret]] 
 

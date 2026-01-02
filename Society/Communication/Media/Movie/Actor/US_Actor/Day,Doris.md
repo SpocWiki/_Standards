@@ -142,17 +142,17 @@ Europeana_entity: agent/base/146799
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Day,Doris](/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Day,Doris.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Day,Doris|Day,Doris]] 
 
-### #is_/same_as :: [Day,Doris.public](/_public/Society/Communication/Media/Movie/Actor/US_Actor/Day,Doris.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Actor/US_Actor/Day,Doris.public|Day,Doris.public]] 
 
-### #is_/same_as :: [Day,Doris.internal](/_internal/Society/Communication/Media/Movie/Actor/US_Actor/Day,Doris.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Actor/US_Actor/Day,Doris.internal|Day,Doris.internal]] 
 
-### #is_/same_as :: [Day,Doris.protect](/_protect/Society/Communication/Media/Movie/Actor/US_Actor/Day,Doris.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Actor/US_Actor/Day,Doris.protect|Day,Doris.protect]] 
 
-### #is_/same_as :: [Day,Doris.private](/_private/Society/Communication/Media/Movie/Actor/US_Actor/Day,Doris.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Actor/US_Actor/Day,Doris.private|Day,Doris.private]] 
 
-### #is_/same_as :: [Day,Doris.personal](/_personal/Society/Communication/Media/Movie/Actor/US_Actor/Day,Doris.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Actor/US_Actor/Day,Doris.personal|Day,Doris.personal]] 
 
-### #is_/same_as :: [Day,Doris.secret](/_secret/Society/Communication/Media/Movie/Actor/US_Actor/Day,Doris.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Actor/US_Actor/Day,Doris.secret|Day,Doris.secret]] 
 

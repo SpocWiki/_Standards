@@ -64,17 +64,17 @@ Commons_category: Reference works
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Reference_Work](/_Standards/Society/Communication/Media/Creative_Work/Digital_Document/Reference_Work.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Creative_Work/Digital_Document/Reference_Work|Reference_Work]] 
 
-### #is_/same_as :: [Reference_Work.public](/_public/Society/Communication/Media/Creative_Work/Digital_Document/Reference_Work.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Creative_Work/Digital_Document/Reference_Work.public|Reference_Work.public]] 
 
-### #is_/same_as :: [Reference_Work.internal](/_internal/Society/Communication/Media/Creative_Work/Digital_Document/Reference_Work.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Creative_Work/Digital_Document/Reference_Work.internal|Reference_Work.internal]] 
 
-### #is_/same_as :: [Reference_Work.protect](/_protect/Society/Communication/Media/Creative_Work/Digital_Document/Reference_Work.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Creative_Work/Digital_Document/Reference_Work.protect|Reference_Work.protect]] 
 
-### #is_/same_as :: [Reference_Work.private](/_private/Society/Communication/Media/Creative_Work/Digital_Document/Reference_Work.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Creative_Work/Digital_Document/Reference_Work.private|Reference_Work.private]] 
 
-### #is_/same_as :: [Reference_Work.personal](/_personal/Society/Communication/Media/Creative_Work/Digital_Document/Reference_Work.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/Digital_Document/Reference_Work.personal|Reference_Work.personal]] 
 
-### #is_/same_as :: [Reference_Work.secret](/_secret/Society/Communication/Media/Creative_Work/Digital_Document/Reference_Work.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Digital_Document/Reference_Work.secret|Reference_Work.secret]] 
 

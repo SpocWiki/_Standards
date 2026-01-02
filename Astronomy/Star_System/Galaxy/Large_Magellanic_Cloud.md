@@ -106,17 +106,17 @@ time_of_discovery_or_invention: 0964-01-01T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Large_Magellanic_Cloud](/_Standards/Astronomy/Star_System/Galaxy/Large_Magellanic_Cloud.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Star_System/Galaxy/Large_Magellanic_Cloud|Large_Magellanic_Cloud]] 
 
-### #is_/same_as :: [Large_Magellanic_Cloud.public](/_public/Astronomy/Star_System/Galaxy/Large_Magellanic_Cloud.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Star_System/Galaxy/Large_Magellanic_Cloud.public|Large_Magellanic_Cloud.public]] 
 
-### #is_/same_as :: [Large_Magellanic_Cloud.internal](/_internal/Astronomy/Star_System/Galaxy/Large_Magellanic_Cloud.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Star_System/Galaxy/Large_Magellanic_Cloud.internal|Large_Magellanic_Cloud.internal]] 
 
-### #is_/same_as :: [Large_Magellanic_Cloud.protect](/_protect/Astronomy/Star_System/Galaxy/Large_Magellanic_Cloud.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Star_System/Galaxy/Large_Magellanic_Cloud.protect|Large_Magellanic_Cloud.protect]] 
 
-### #is_/same_as :: [Large_Magellanic_Cloud.private](/_private/Astronomy/Star_System/Galaxy/Large_Magellanic_Cloud.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Star_System/Galaxy/Large_Magellanic_Cloud.private|Large_Magellanic_Cloud.private]] 
 
-### #is_/same_as :: [Large_Magellanic_Cloud.personal](/_personal/Astronomy/Star_System/Galaxy/Large_Magellanic_Cloud.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Star_System/Galaxy/Large_Magellanic_Cloud.personal|Large_Magellanic_Cloud.personal]] 
 
-### #is_/same_as :: [Large_Magellanic_Cloud.secret](/_secret/Astronomy/Star_System/Galaxy/Large_Magellanic_Cloud.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Star_System/Galaxy/Large_Magellanic_Cloud.secret|Large_Magellanic_Cloud.secret]] 
 

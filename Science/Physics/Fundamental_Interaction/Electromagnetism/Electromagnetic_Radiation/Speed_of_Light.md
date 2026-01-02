@@ -85,17 +85,17 @@ Wolfram_Language_unit_code: '"SpeedOfLight"'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Speed_of_Light](/_Standards/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Speed_of_Light.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Speed_of_Light|Speed_of_Light]] 
 
-### #is_/same_as :: [Speed_of_Light.public](/_public/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Speed_of_Light.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Speed_of_Light.public|Speed_of_Light.public]] 
 
-### #is_/same_as :: [Speed_of_Light.internal](/_internal/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Speed_of_Light.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Speed_of_Light.internal|Speed_of_Light.internal]] 
 
-### #is_/same_as :: [Speed_of_Light.protect](/_protect/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Speed_of_Light.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Speed_of_Light.protect|Speed_of_Light.protect]] 
 
-### #is_/same_as :: [Speed_of_Light.private](/_private/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Speed_of_Light.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Speed_of_Light.private|Speed_of_Light.private]] 
 
-### #is_/same_as :: [Speed_of_Light.personal](/_personal/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Speed_of_Light.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Speed_of_Light.personal|Speed_of_Light.personal]] 
 
-### #is_/same_as :: [Speed_of_Light.secret](/_secret/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Speed_of_Light.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Speed_of_Light.secret|Speed_of_Light.secret]] 
 

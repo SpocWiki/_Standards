@@ -281,17 +281,17 @@ work_location:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Goya,Francisco](/_Standards/Society/Communication/Media/Painting/Painter/Goya,Francisco.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Painting/Painter/Goya,Francisco|Goya,Francisco]] 
 
-### #is_/same_as :: [Goya,Francisco.public](/_public/Society/Communication/Media/Painting/Painter/Goya,Francisco.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Painting/Painter/Goya,Francisco.public|Goya,Francisco.public]] 
 
-### #is_/same_as :: [Goya,Francisco.internal](/_internal/Society/Communication/Media/Painting/Painter/Goya,Francisco.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Painting/Painter/Goya,Francisco.internal|Goya,Francisco.internal]] 
 
-### #is_/same_as :: [Goya,Francisco.protect](/_protect/Society/Communication/Media/Painting/Painter/Goya,Francisco.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Painting/Painter/Goya,Francisco.protect|Goya,Francisco.protect]] 
 
-### #is_/same_as :: [Goya,Francisco.private](/_private/Society/Communication/Media/Painting/Painter/Goya,Francisco.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Painting/Painter/Goya,Francisco.private|Goya,Francisco.private]] 
 
-### #is_/same_as :: [Goya,Francisco.personal](/_personal/Society/Communication/Media/Painting/Painter/Goya,Francisco.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Painting/Painter/Goya,Francisco.personal|Goya,Francisco.personal]] 
 
-### #is_/same_as :: [Goya,Francisco.secret](/_secret/Society/Communication/Media/Painting/Painter/Goya,Francisco.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Painting/Painter/Goya,Francisco.secret|Goya,Francisco.secret]] 
 

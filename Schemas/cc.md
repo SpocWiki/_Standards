@@ -11,17 +11,17 @@ It provides a structured way to express licensing terms and conditions for resou
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [cc](/_Standards/Schemas/cc.md) 
+### #is_/same_as :: [[/_Standards/Schemas/cc|cc]] 
 
-### #is_/same_as :: [cc.public](/_public/Schemas/cc.public.md) 
+### #is_/same_as :: [[/_public/Schemas/cc.public|cc.public]] 
 
-### #is_/same_as :: [cc.internal](/_internal/Schemas/cc.internal.md) 
+### #is_/same_as :: [[/_internal/Schemas/cc.internal|cc.internal]] 
 
-### #is_/same_as :: [cc.protect](/_protect/Schemas/cc.protect.md) 
+### #is_/same_as :: [[/_protect/Schemas/cc.protect|cc.protect]] 
 
-### #is_/same_as :: [cc.private](/_private/Schemas/cc.private.md) 
+### #is_/same_as :: [[/_private/Schemas/cc.private|cc.private]] 
 
-### #is_/same_as :: [cc.personal](/_personal/Schemas/cc.personal.md) 
+### #is_/same_as :: [[/_personal/Schemas/cc.personal|cc.personal]] 
 
-### #is_/same_as :: [cc.secret](/_secret/Schemas/cc.secret.md)
+### #is_/same_as :: [[/_secret/Schemas/cc.secret|cc.secret]] 
 

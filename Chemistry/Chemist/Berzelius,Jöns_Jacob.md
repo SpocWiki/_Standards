@@ -148,17 +148,17 @@ Royal_Academy_new_identifier: jacob-berzelius
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Berzelius,Jöns_Jacob](/_Standards/Chemistry/Chemist/Berzelius,Jöns_Jacob.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Chemist/Berzelius,Jöns_Jacob|Berzelius,Jöns_Jacob]] 
 
-### #is_/same_as :: [Berzelius,Jöns_Jacob.public](/_public/Chemistry/Chemist/Berzelius,Jöns_Jacob.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Chemist/Berzelius,Jöns_Jacob.public|Berzelius,Jöns_Jacob.public]] 
 
-### #is_/same_as :: [Berzelius,Jöns_Jacob.internal](/_internal/Chemistry/Chemist/Berzelius,Jöns_Jacob.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Chemist/Berzelius,Jöns_Jacob.internal|Berzelius,Jöns_Jacob.internal]] 
 
-### #is_/same_as :: [Berzelius,Jöns_Jacob.protect](/_protect/Chemistry/Chemist/Berzelius,Jöns_Jacob.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Chemist/Berzelius,Jöns_Jacob.protect|Berzelius,Jöns_Jacob.protect]] 
 
-### #is_/same_as :: [Berzelius,Jöns_Jacob.private](/_private/Chemistry/Chemist/Berzelius,Jöns_Jacob.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Chemist/Berzelius,Jöns_Jacob.private|Berzelius,Jöns_Jacob.private]] 
 
-### #is_/same_as :: [Berzelius,Jöns_Jacob.personal](/_personal/Chemistry/Chemist/Berzelius,Jöns_Jacob.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Chemist/Berzelius,Jöns_Jacob.personal|Berzelius,Jöns_Jacob.personal]] 
 
-### #is_/same_as :: [Berzelius,Jöns_Jacob.secret](/_secret/Chemistry/Chemist/Berzelius,Jöns_Jacob.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Chemist/Berzelius,Jöns_Jacob.secret|Berzelius,Jöns_Jacob.secret]] 
 

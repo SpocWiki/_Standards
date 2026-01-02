@@ -82,17 +82,17 @@ Krugosvet_article_archived_: kultura_i_obrazovanie/muzyka/BLOKFLETA.html
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Recorder(Flute)](/_Standards/Society/Communication/Media/Music/Musical_Instrument/Wind_Instrument/Woodwind/Recorder(Flute).md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Musical_Instrument/Wind_Instrument/Woodwind/Recorder(Flute)|Recorder(Flute)]] 
 
-### #is_/same_as :: [Recorder(Flute).public](/_public/Society/Communication/Media/Music/Musical_Instrument/Wind_Instrument/Woodwind/Recorder(Flute).public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Musical_Instrument/Wind_Instrument/Woodwind/Recorder(Flute).public|Recorder(Flute).public]] 
 
-### #is_/same_as :: [Recorder(Flute).internal](/_internal/Society/Communication/Media/Music/Musical_Instrument/Wind_Instrument/Woodwind/Recorder(Flute).internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Musical_Instrument/Wind_Instrument/Woodwind/Recorder(Flute).internal|Recorder(Flute).internal]] 
 
-### #is_/same_as :: [Recorder(Flute).protect](/_protect/Society/Communication/Media/Music/Musical_Instrument/Wind_Instrument/Woodwind/Recorder(Flute).protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Musical_Instrument/Wind_Instrument/Woodwind/Recorder(Flute).protect|Recorder(Flute).protect]] 
 
-### #is_/same_as :: [Recorder(Flute).private](/_private/Society/Communication/Media/Music/Musical_Instrument/Wind_Instrument/Woodwind/Recorder(Flute).private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Musical_Instrument/Wind_Instrument/Woodwind/Recorder(Flute).private|Recorder(Flute).private]] 
 
-### #is_/same_as :: [Recorder(Flute).personal](/_personal/Society/Communication/Media/Music/Musical_Instrument/Wind_Instrument/Woodwind/Recorder(Flute).personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Musical_Instrument/Wind_Instrument/Woodwind/Recorder(Flute).personal|Recorder(Flute).personal]] 
 
-### #is_/same_as :: [Recorder(Flute).secret](/_secret/Society/Communication/Media/Music/Musical_Instrument/Wind_Instrument/Woodwind/Recorder(Flute).secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Musical_Instrument/Wind_Instrument/Woodwind/Recorder(Flute).secret|Recorder(Flute).secret]] 
 

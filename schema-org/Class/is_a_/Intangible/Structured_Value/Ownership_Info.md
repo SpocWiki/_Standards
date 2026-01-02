@@ -41,17 +41,17 @@ A structured value providing information about when a certain organization or pe
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ownership_Info](/_Standards/schema-org/Class/is_a_/Intangible/Structured_Value/Ownership_Info.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Intangible/Structured_Value/Ownership_Info|Ownership_Info]] 
 
-### #is_/same_as :: [Ownership_Info.public](/_public/schema-org/Class/is_a_/Intangible/Structured_Value/Ownership_Info.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Intangible/Structured_Value/Ownership_Info.public|Ownership_Info.public]] 
 
-### #is_/same_as :: [Ownership_Info.internal](/_internal/schema-org/Class/is_a_/Intangible/Structured_Value/Ownership_Info.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Intangible/Structured_Value/Ownership_Info.internal|Ownership_Info.internal]] 
 
-### #is_/same_as :: [Ownership_Info.protect](/_protect/schema-org/Class/is_a_/Intangible/Structured_Value/Ownership_Info.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Intangible/Structured_Value/Ownership_Info.protect|Ownership_Info.protect]] 
 
-### #is_/same_as :: [Ownership_Info.private](/_private/schema-org/Class/is_a_/Intangible/Structured_Value/Ownership_Info.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Intangible/Structured_Value/Ownership_Info.private|Ownership_Info.private]] 
 
-### #is_/same_as :: [Ownership_Info.personal](/_personal/schema-org/Class/is_a_/Intangible/Structured_Value/Ownership_Info.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Intangible/Structured_Value/Ownership_Info.personal|Ownership_Info.personal]] 
 
-### #is_/same_as :: [Ownership_Info.secret](/_secret/schema-org/Class/is_a_/Intangible/Structured_Value/Ownership_Info.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Intangible/Structured_Value/Ownership_Info.secret|Ownership_Info.secret]] 
 

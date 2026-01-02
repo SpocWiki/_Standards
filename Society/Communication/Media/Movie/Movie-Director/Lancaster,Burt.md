@@ -74,17 +74,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lancaster,Burt](/_Standards/Society/Communication/Media/Movie/Movie-Director/Lancaster,Burt.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Director/Lancaster,Burt|Lancaster,Burt]] 
 
-### #is_/same_as :: [Lancaster,Burt.public](/_public/Society/Communication/Media/Movie/Movie-Director/Lancaster,Burt.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Director/Lancaster,Burt.public|Lancaster,Burt.public]] 
 
-### #is_/same_as :: [Lancaster,Burt.internal](/_internal/Society/Communication/Media/Movie/Movie-Director/Lancaster,Burt.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Director/Lancaster,Burt.internal|Lancaster,Burt.internal]] 
 
-### #is_/same_as :: [Lancaster,Burt.protect](/_protect/Society/Communication/Media/Movie/Movie-Director/Lancaster,Burt.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Director/Lancaster,Burt.protect|Lancaster,Burt.protect]] 
 
-### #is_/same_as :: [Lancaster,Burt.private](/_private/Society/Communication/Media/Movie/Movie-Director/Lancaster,Burt.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Director/Lancaster,Burt.private|Lancaster,Burt.private]] 
 
-### #is_/same_as :: [Lancaster,Burt.personal](/_personal/Society/Communication/Media/Movie/Movie-Director/Lancaster,Burt.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Director/Lancaster,Burt.personal|Lancaster,Burt.personal]] 
 
-### #is_/same_as :: [Lancaster,Burt.secret](/_secret/Society/Communication/Media/Movie/Movie-Director/Lancaster,Burt.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Director/Lancaster,Burt.secret|Lancaster,Burt.secret]] 
 

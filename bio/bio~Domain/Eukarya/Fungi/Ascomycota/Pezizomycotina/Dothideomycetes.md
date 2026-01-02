@@ -30,7 +30,7 @@ title: Dothideomycetes
 [Conrad Schoch]()
 
 ![ ](Dothideomycetes/hysteropatellaprostiihb7715b-2crehydr.jpg)
-![](Dothideomycetes/cucurbitarialaburni30.jpg)![ ](Dothideomycetes/21.jpg))
+![](Dothideomycetes/cucurbitarialaburni30.jpg)![ ](Dothideomycetes/21.jpg) 
 
 Dothideomycete tree is based on DNA sequences from the large and small
 subunits of the  nuclear ribosome, RNA polymerase II second largest
@@ -67,7 +67,7 @@ Plant pathogenetic Dothideomycetes: Pseudothecia of *Cochliobolus
 heterostrophus* on corn leaf seen through a stereo microscope, © Gillian
 Turgeon
 ### Characteristics
-![ ](Dothideomycetes/7c.jpg))
+![ ](Dothideomycetes/7c.jpg) 
 
 *Pyrenophora brizae*: Bitunicate asci, one with broken ectotunica. ©
 Robert Shoemaker.
@@ -99,7 +99,7 @@ cells occupying the cavity of the sexual structure.  The hamathecium
 (Eriksson 1981), i. e. the sterile centrum tissues existing between the
 asci, is one of the most reliable characters used to delineate ordinal
 classifications within the Dothideomycetes (see drawings below).
-![ ](Dothideomycetes/Alternaria.jpg))
+![ ](Dothideomycetes/Alternaria.jpg) 
 
 *Alternaria alternata*: Conidia produced in acropetal chains.\
 © Keith Seifert
@@ -114,7 +114,7 @@ proportion of purely anamorphic species. Many of the anamorphs produce
 their asexual spores or conidia in chains bourne on specialized hypha,
 known as conidiophores such as the *Alternaria* species pictured on the
 left.
-![ ](Dothideomycetes/Dothiorella.jpg))
+![ ](Dothideomycetes/Dothiorella.jpg) 
 
 *Dothiorella* sp.:  Conidia borne in pycnidium. © Pedro Crous
 
@@ -143,7 +143,7 @@ The Myriangiales also do not have pseudoparaphyses, but produce single
 asci in multiple locules.  Several additional orders, defined by
 combining centrum and ascomal characters, form part of the most recent
 classification proposed by Eriksson (2006).
-![ ](Dothideomycetes/Elsinoe.jpg))
+![ ](Dothideomycetes/Elsinoe.jpg) 
 
 1\. *Dothidea sambuci*, multiascus locules typical of the *Dothidea*
 type centrum. 2. *Elsinoё canavaliae*: Single ascus locules typical of
@@ -229,7 +229,7 @@ loci. 2006. Mycologia 98:1043-1054
 
 ## Title Illustrations
 
-![](Dothideomycetes/hysteropatellaprostiihb7715b-2crehydr.jpg))
+![](Dothideomycetes/hysteropatellaprostiihb7715b-2crehydr.jpg) 
 
   ----------------------------
   Scientific Name ::     Hysteropatella prostii
@@ -241,7 +241,7 @@ loci. 2006. Mycologia 98:1043-1054
   Body Part            Ascoma
   Copyright ::            © [H.-O. Baral](mailto:zotto@t-online.de)
   ----------------------------
-![](Dothideomycetes/cucurbitarialaburni30.jpg))
+![](Dothideomycetes/cucurbitarialaburni30.jpg) 
 
   ---------------------------
   Scientific Name ::     Cucurbitaria laburni
@@ -253,7 +253,7 @@ loci. 2006. Mycologia 98:1043-1054
   Body Part            Ascoma
   Copyright ::            © [H.-O. Baral](mailto:zotto@t-online.de)
   ---------------------------
-![](Dothideomycetes/21.jpg))
+![](Dothideomycetes/21.jpg) 
 
   ---------------------
   Scientific Name ::     Stylodothis puccinioides
@@ -267,17 +267,17 @@ loci. 2006. Mycologia 98:1043-1054
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Dothideomycetes](/_Standards/bio/bio~Domain/Eukarya/Fungi/Ascomycota/Pezizomycotina/Dothideomycetes.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Fungi/Ascomycota/Pezizomycotina/Dothideomycetes|Dothideomycetes]] 
 
-### #is_/same_as :: [Dothideomycetes.public](/_public/bio/bio~Domain/Eukarya/Fungi/Ascomycota/Pezizomycotina/Dothideomycetes.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Fungi/Ascomycota/Pezizomycotina/Dothideomycetes.public|Dothideomycetes.public]] 
 
-### #is_/same_as :: [Dothideomycetes.internal](/_internal/bio/bio~Domain/Eukarya/Fungi/Ascomycota/Pezizomycotina/Dothideomycetes.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Fungi/Ascomycota/Pezizomycotina/Dothideomycetes.internal|Dothideomycetes.internal]] 
 
-### #is_/same_as :: [Dothideomycetes.protect](/_protect/bio/bio~Domain/Eukarya/Fungi/Ascomycota/Pezizomycotina/Dothideomycetes.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Fungi/Ascomycota/Pezizomycotina/Dothideomycetes.protect|Dothideomycetes.protect]] 
 
-### #is_/same_as :: [Dothideomycetes.private](/_private/bio/bio~Domain/Eukarya/Fungi/Ascomycota/Pezizomycotina/Dothideomycetes.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Fungi/Ascomycota/Pezizomycotina/Dothideomycetes.private|Dothideomycetes.private]] 
 
-### #is_/same_as :: [Dothideomycetes.personal](/_personal/bio/bio~Domain/Eukarya/Fungi/Ascomycota/Pezizomycotina/Dothideomycetes.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Fungi/Ascomycota/Pezizomycotina/Dothideomycetes.personal|Dothideomycetes.personal]] 
 
-### #is_/same_as :: [Dothideomycetes.secret](/_secret/bio/bio~Domain/Eukarya/Fungi/Ascomycota/Pezizomycotina/Dothideomycetes.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Fungi/Ascomycota/Pezizomycotina/Dothideomycetes.secret|Dothideomycetes.secret]] 
 

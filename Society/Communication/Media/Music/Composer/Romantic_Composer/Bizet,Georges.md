@@ -108,17 +108,17 @@ ISNI:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bizet,Georges](/_Standards/Society/Communication/Media/Music/Composer/Romantic_Composer/Bizet,Georges.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Composer/Romantic_Composer/Bizet,Georges|Bizet,Georges]] 
 
-### #is_/same_as :: [Bizet,Georges.public](/_public/Society/Communication/Media/Music/Composer/Romantic_Composer/Bizet,Georges.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Composer/Romantic_Composer/Bizet,Georges.public|Bizet,Georges.public]] 
 
-### #is_/same_as :: [Bizet,Georges.internal](/_internal/Society/Communication/Media/Music/Composer/Romantic_Composer/Bizet,Georges.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Composer/Romantic_Composer/Bizet,Georges.internal|Bizet,Georges.internal]] 
 
-### #is_/same_as :: [Bizet,Georges.protect](/_protect/Society/Communication/Media/Music/Composer/Romantic_Composer/Bizet,Georges.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Composer/Romantic_Composer/Bizet,Georges.protect|Bizet,Georges.protect]] 
 
-### #is_/same_as :: [Bizet,Georges.private](/_private/Society/Communication/Media/Music/Composer/Romantic_Composer/Bizet,Georges.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Composer/Romantic_Composer/Bizet,Georges.private|Bizet,Georges.private]] 
 
-### #is_/same_as :: [Bizet,Georges.personal](/_personal/Society/Communication/Media/Music/Composer/Romantic_Composer/Bizet,Georges.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Composer/Romantic_Composer/Bizet,Georges.personal|Bizet,Georges.personal]] 
 
-### #is_/same_as :: [Bizet,Georges.secret](/_secret/Society/Communication/Media/Music/Composer/Romantic_Composer/Bizet,Georges.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Composer/Romantic_Composer/Bizet,Georges.secret|Bizet,Georges.secret]] 
 

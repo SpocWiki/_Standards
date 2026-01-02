@@ -47,17 +47,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_credit_text](/_Standards/schema-org/Property/Texts/has_credit_text.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/Texts/has_credit_text|has_credit_text]] 
 
-### #is_/same_as :: [has_credit_text.public](/_public/schema-org/Property/Texts/has_credit_text.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/Texts/has_credit_text.public|has_credit_text.public]] 
 
-### #is_/same_as :: [has_credit_text.internal](/_internal/schema-org/Property/Texts/has_credit_text.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/Texts/has_credit_text.internal|has_credit_text.internal]] 
 
-### #is_/same_as :: [has_credit_text.protect](/_protect/schema-org/Property/Texts/has_credit_text.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/Texts/has_credit_text.protect|has_credit_text.protect]] 
 
-### #is_/same_as :: [has_credit_text.private](/_private/schema-org/Property/Texts/has_credit_text.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/Texts/has_credit_text.private|has_credit_text.private]] 
 
-### #is_/same_as :: [has_credit_text.personal](/_personal/schema-org/Property/Texts/has_credit_text.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/Texts/has_credit_text.personal|has_credit_text.personal]] 
 
-### #is_/same_as :: [has_credit_text.secret](/_secret/schema-org/Property/Texts/has_credit_text.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/Texts/has_credit_text.secret|has_credit_text.secret]] 
 

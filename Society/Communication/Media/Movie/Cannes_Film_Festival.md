@@ -73,17 +73,17 @@ Tumblr_username: festivaldecannesofficiel
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Cannes_Film_Festival](/_Standards/Society/Communication/Media/Movie/Cannes_Film_Festival.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Cannes_Film_Festival|Cannes_Film_Festival]] 
 
-### #is_/same_as :: [Cannes_Film_Festival.public](/_public/Society/Communication/Media/Movie/Cannes_Film_Festival.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Cannes_Film_Festival.public|Cannes_Film_Festival.public]] 
 
-### #is_/same_as :: [Cannes_Film_Festival.internal](/_internal/Society/Communication/Media/Movie/Cannes_Film_Festival.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Cannes_Film_Festival.internal|Cannes_Film_Festival.internal]] 
 
-### #is_/same_as :: [Cannes_Film_Festival.protect](/_protect/Society/Communication/Media/Movie/Cannes_Film_Festival.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Cannes_Film_Festival.protect|Cannes_Film_Festival.protect]] 
 
-### #is_/same_as :: [Cannes_Film_Festival.private](/_private/Society/Communication/Media/Movie/Cannes_Film_Festival.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Cannes_Film_Festival.private|Cannes_Film_Festival.private]] 
 
-### #is_/same_as :: [Cannes_Film_Festival.personal](/_personal/Society/Communication/Media/Movie/Cannes_Film_Festival.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Cannes_Film_Festival.personal|Cannes_Film_Festival.personal]] 
 
-### #is_/same_as :: [Cannes_Film_Festival.secret](/_secret/Society/Communication/Media/Movie/Cannes_Film_Festival.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Cannes_Film_Festival.secret|Cannes_Film_Festival.secret]] 
 

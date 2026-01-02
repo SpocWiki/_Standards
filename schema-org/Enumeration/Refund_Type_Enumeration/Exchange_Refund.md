@@ -44,17 +44,17 @@ Specifies that a refund can be done as an exchange for the same product.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Exchange_Refund](/_Standards/schema-org/Enumeration/Refund_Type_Enumeration/Exchange_Refund.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Refund_Type_Enumeration/Exchange_Refund|Exchange_Refund]] 
 
-### #is_/same_as :: [Exchange_Refund.public](/_public/schema-org/Enumeration/Refund_Type_Enumeration/Exchange_Refund.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Refund_Type_Enumeration/Exchange_Refund.public|Exchange_Refund.public]] 
 
-### #is_/same_as :: [Exchange_Refund.internal](/_internal/schema-org/Enumeration/Refund_Type_Enumeration/Exchange_Refund.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Refund_Type_Enumeration/Exchange_Refund.internal|Exchange_Refund.internal]] 
 
-### #is_/same_as :: [Exchange_Refund.protect](/_protect/schema-org/Enumeration/Refund_Type_Enumeration/Exchange_Refund.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Refund_Type_Enumeration/Exchange_Refund.protect|Exchange_Refund.protect]] 
 
-### #is_/same_as :: [Exchange_Refund.private](/_private/schema-org/Enumeration/Refund_Type_Enumeration/Exchange_Refund.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Refund_Type_Enumeration/Exchange_Refund.private|Exchange_Refund.private]] 
 
-### #is_/same_as :: [Exchange_Refund.personal](/_personal/schema-org/Enumeration/Refund_Type_Enumeration/Exchange_Refund.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Refund_Type_Enumeration/Exchange_Refund.personal|Exchange_Refund.personal]] 
 
-### #is_/same_as :: [Exchange_Refund.secret](/_secret/schema-org/Enumeration/Refund_Type_Enumeration/Exchange_Refund.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Refund_Type_Enumeration/Exchange_Refund.secret|Exchange_Refund.secret]] 
 

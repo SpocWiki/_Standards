@@ -76,17 +76,17 @@ The play is a modernised adaptation of _[Menaechmi](https://en.wikipedia.org/wi
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Comedy_of_Errors](/_Standards/Society/Communication/Media/Writing/Book/Writer/Renaissance_Writer/Shakespeare,William/Comedy_of_Errors.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Writer/Renaissance_Writer/Shakespeare,William/Comedy_of_Errors|Comedy_of_Errors]] 
 
-### #is_/same_as :: [Comedy_of_Errors.public](/_public/Society/Communication/Media/Writing/Book/Writer/Renaissance_Writer/Shakespeare,William/Comedy_of_Errors.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Writer/Renaissance_Writer/Shakespeare,William/Comedy_of_Errors.public|Comedy_of_Errors.public]] 
 
-### #is_/same_as :: [Comedy_of_Errors.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/Renaissance_Writer/Shakespeare,William/Comedy_of_Errors.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Writer/Renaissance_Writer/Shakespeare,William/Comedy_of_Errors.internal|Comedy_of_Errors.internal]] 
 
-### #is_/same_as :: [Comedy_of_Errors.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/Renaissance_Writer/Shakespeare,William/Comedy_of_Errors.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Writer/Renaissance_Writer/Shakespeare,William/Comedy_of_Errors.protect|Comedy_of_Errors.protect]] 
 
-### #is_/same_as :: [Comedy_of_Errors.private](/_private/Society/Communication/Media/Writing/Book/Writer/Renaissance_Writer/Shakespeare,William/Comedy_of_Errors.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Writer/Renaissance_Writer/Shakespeare,William/Comedy_of_Errors.private|Comedy_of_Errors.private]] 
 
-### #is_/same_as :: [Comedy_of_Errors.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/Renaissance_Writer/Shakespeare,William/Comedy_of_Errors.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Writer/Renaissance_Writer/Shakespeare,William/Comedy_of_Errors.personal|Comedy_of_Errors.personal]] 
 
-### #is_/same_as :: [Comedy_of_Errors.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/Renaissance_Writer/Shakespeare,William/Comedy_of_Errors.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Writer/Renaissance_Writer/Shakespeare,William/Comedy_of_Errors.secret|Comedy_of_Errors.secret]] 
 

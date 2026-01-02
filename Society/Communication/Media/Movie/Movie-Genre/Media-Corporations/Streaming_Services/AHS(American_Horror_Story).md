@@ -68,17 +68,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [AHS(American_Horror_Story)](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/AHS(American_Horror_Story).md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/AHS(American_Horror_Story)|AHS(American_Horror_Story)]] 
 
-### #is_/same_as :: [AHS(American_Horror_Story).public](/_public/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/AHS(American_Horror_Story).public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/AHS(American_Horror_Story).public|AHS(American_Horror_Story).public]] 
 
-### #is_/same_as :: [AHS(American_Horror_Story).internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/AHS(American_Horror_Story).internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/AHS(American_Horror_Story).internal|AHS(American_Horror_Story).internal]] 
 
-### #is_/same_as :: [AHS(American_Horror_Story).protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/AHS(American_Horror_Story).protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/AHS(American_Horror_Story).protect|AHS(American_Horror_Story).protect]] 
 
-### #is_/same_as :: [AHS(American_Horror_Story).private](/_private/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/AHS(American_Horror_Story).private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/AHS(American_Horror_Story).private|AHS(American_Horror_Story).private]] 
 
-### #is_/same_as :: [AHS(American_Horror_Story).personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/AHS(American_Horror_Story).personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/AHS(American_Horror_Story).personal|AHS(American_Horror_Story).personal]] 
 
-### #is_/same_as :: [AHS(American_Horror_Story).secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/AHS(American_Horror_Story).secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/AHS(American_Horror_Story).secret|AHS(American_Horror_Story).secret]] 
 

@@ -40,17 +40,17 @@ MeSH_tree_code: I01.880.761
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Social_Structure](/_Standards/Society/Social_Structure.md) 
+### #is_/same_as :: [[/_Standards/Society/Social_Structure|Social_Structure]] 
 
-### #is_/same_as :: [Social_Structure.public](/_public/Society/Social_Structure.public.md) 
+### #is_/same_as :: [[/_public/Society/Social_Structure.public|Social_Structure.public]] 
 
-### #is_/same_as :: [Social_Structure.internal](/_internal/Society/Social_Structure.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Social_Structure.internal|Social_Structure.internal]] 
 
-### #is_/same_as :: [Social_Structure.protect](/_protect/Society/Social_Structure.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Social_Structure.protect|Social_Structure.protect]] 
 
-### #is_/same_as :: [Social_Structure.private](/_private/Society/Social_Structure.private.md) 
+### #is_/same_as :: [[/_private/Society/Social_Structure.private|Social_Structure.private]] 
 
-### #is_/same_as :: [Social_Structure.personal](/_personal/Society/Social_Structure.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Social_Structure.personal|Social_Structure.personal]] 
 
-### #is_/same_as :: [Social_Structure.secret](/_secret/Society/Social_Structure.secret.md)
+### #is_/same_as :: [[/_secret/Society/Social_Structure.secret|Social_Structure.secret]] 
 

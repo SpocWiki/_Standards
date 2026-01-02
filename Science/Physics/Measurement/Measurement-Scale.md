@@ -104,17 +104,17 @@ Measurements bound to a range and repeating (like degrees in a circle, clock tim
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Measurement-Scale](Measurement-Scale.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Measurement/Measurement-Scale|Measurement-Scale]] 
 
-### #is_/same_as :: [Level_of_Measurement.public](/_public/Science/Physics/Measurement/Level_of_Measurement.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Measurement/Measurement-Scale.public|Measurement-Scale.public]] 
 
-### #is_/same_as :: [Level_of_Measurement.internal](/_internal/Science/Physics/Measurement/Level_of_Measurement.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Measurement/Measurement-Scale.internal|Measurement-Scale.internal]] 
 
-### #is_/same_as :: [Level_of_Measurement.protect](/_protect/Science/Physics/Measurement/Level_of_Measurement.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Measurement/Measurement-Scale.protect|Measurement-Scale.protect]] 
 
-### #is_/same_as :: [Level_of_Measurement.private](/_private/Science/Physics/Measurement/Level_of_Measurement.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Measurement/Measurement-Scale.private|Measurement-Scale.private]] 
 
-### #is_/same_as :: [Level_of_Measurement.personal](/_personal/Science/Physics/Measurement/Level_of_Measurement.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Measurement/Measurement-Scale.personal|Measurement-Scale.personal]] 
 
-### #is_/same_as :: [Level_of_Measurement.secret](/_secret/Science/Physics/Measurement/Level_of_Measurement.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Measurement/Measurement-Scale.secret|Measurement-Scale.secret]] 
 

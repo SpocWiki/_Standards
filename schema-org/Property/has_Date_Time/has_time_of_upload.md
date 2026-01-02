@@ -42,17 +42,17 @@ Formal Predicate:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_time_of_upload](/_Standards/schema-org/Property/has_Date_Time/has_time_of_upload.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_Date_Time/has_time_of_upload|has_time_of_upload]] 
 
-### #is_/same_as :: [has_time_of_upload.public](/_public/schema-org/Property/has_Date_Time/has_time_of_upload.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/has_Date_Time/has_time_of_upload.public|has_time_of_upload.public]] 
 
-### #is_/same_as :: [has_time_of_upload.internal](/_internal/schema-org/Property/has_Date_Time/has_time_of_upload.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_Date_Time/has_time_of_upload.internal|has_time_of_upload.internal]] 
 
-### #is_/same_as :: [has_time_of_upload.protect](/_protect/schema-org/Property/has_Date_Time/has_time_of_upload.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_Date_Time/has_time_of_upload.protect|has_time_of_upload.protect]] 
 
-### #is_/same_as :: [has_time_of_upload.private](/_private/schema-org/Property/has_Date_Time/has_time_of_upload.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/has_Date_Time/has_time_of_upload.private|has_time_of_upload.private]] 
 
-### #is_/same_as :: [has_time_of_upload.personal](/_personal/schema-org/Property/has_Date_Time/has_time_of_upload.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_Date_Time/has_time_of_upload.personal|has_time_of_upload.personal]] 
 
-### #is_/same_as :: [has_time_of_upload.secret](/_secret/schema-org/Property/has_Date_Time/has_time_of_upload.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/has_Date_Time/has_time_of_upload.secret|has_time_of_upload.secret]] 
 

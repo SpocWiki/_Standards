@@ -86,17 +86,17 @@ A specific branch of medical science that pertains to diagnosis and treatment of
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Dermatology](/_Standards/bio/Medicine/Medical_Business/Dermatology.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Business/Dermatology|Dermatology]] 
 
-### #is_/same_as :: [Dermatology.public](/_public/bio/Medicine/Medical_Business/Dermatology.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Business/Dermatology.public|Dermatology.public]] 
 
-### #is_/same_as :: [Dermatology.internal](/_internal/bio/Medicine/Medical_Business/Dermatology.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Business/Dermatology.internal|Dermatology.internal]] 
 
-### #is_/same_as :: [Dermatology.protect](/_protect/bio/Medicine/Medical_Business/Dermatology.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Business/Dermatology.protect|Dermatology.protect]] 
 
-### #is_/same_as :: [Dermatology.private](/_private/bio/Medicine/Medical_Business/Dermatology.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Business/Dermatology.private|Dermatology.private]] 
 
-### #is_/same_as :: [Dermatology.personal](/_personal/bio/Medicine/Medical_Business/Dermatology.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Business/Dermatology.personal|Dermatology.personal]] 
 
-### #is_/same_as :: [Dermatology.secret](/_secret/bio/Medicine/Medical_Business/Dermatology.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Business/Dermatology.secret|Dermatology.secret]] 
 

@@ -64,17 +64,17 @@ Krugosvet_article_archived_: nauka_i_tehnika/tehnologiya_i_promyshlennost/IZMERI
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Instrumentation](/_Standards/Technology/Tool/Instrumentation.md) 
+### #is_/same_as :: [[/_Standards/Technology/Tool/Instrumentation|Instrumentation]] 
 
-### #is_/same_as :: [Instrumentation.public](/_public/Technology/Tool/Instrumentation.public.md) 
+### #is_/same_as :: [[/_public/Technology/Tool/Instrumentation.public|Instrumentation.public]] 
 
-### #is_/same_as :: [Instrumentation.internal](/_internal/Technology/Tool/Instrumentation.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Tool/Instrumentation.internal|Instrumentation.internal]] 
 
-### #is_/same_as :: [Instrumentation.protect](/_protect/Technology/Tool/Instrumentation.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Tool/Instrumentation.protect|Instrumentation.protect]] 
 
-### #is_/same_as :: [Instrumentation.private](/_private/Technology/Tool/Instrumentation.private.md) 
+### #is_/same_as :: [[/_private/Technology/Tool/Instrumentation.private|Instrumentation.private]] 
 
-### #is_/same_as :: [Instrumentation.personal](/_personal/Technology/Tool/Instrumentation.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Tool/Instrumentation.personal|Instrumentation.personal]] 
 
-### #is_/same_as :: [Instrumentation.secret](/_secret/Technology/Tool/Instrumentation.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Tool/Instrumentation.secret|Instrumentation.secret]] 
 

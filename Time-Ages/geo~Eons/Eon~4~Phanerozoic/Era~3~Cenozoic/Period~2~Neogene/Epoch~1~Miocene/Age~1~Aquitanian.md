@@ -64,17 +64,17 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Age~1~Aquitanian](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~2~Neogene/Epoch~1~Miocene/Age~1~Aquitanian.md) 
+### #is_/same_as :: [[/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~2~Neogene/Epoch~1~Miocene/Age~1~Aquitanian|Age~1~Aquitanian]] 
 
-### #is_/same_as :: [Age~1~Aquitanian.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~2~Neogene/Epoch~1~Miocene/Age~1~Aquitanian.public.md) 
+### #is_/same_as :: [[/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~2~Neogene/Epoch~1~Miocene/Age~1~Aquitanian.public|Age~1~Aquitanian.public]] 
 
-### #is_/same_as :: [Age~1~Aquitanian.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~2~Neogene/Epoch~1~Miocene/Age~1~Aquitanian.internal.md) 
+### #is_/same_as :: [[/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~2~Neogene/Epoch~1~Miocene/Age~1~Aquitanian.internal|Age~1~Aquitanian.internal]] 
 
-### #is_/same_as :: [Age~1~Aquitanian.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~2~Neogene/Epoch~1~Miocene/Age~1~Aquitanian.protect.md) 
+### #is_/same_as :: [[/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~2~Neogene/Epoch~1~Miocene/Age~1~Aquitanian.protect|Age~1~Aquitanian.protect]] 
 
-### #is_/same_as :: [Age~1~Aquitanian.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~2~Neogene/Epoch~1~Miocene/Age~1~Aquitanian.private.md) 
+### #is_/same_as :: [[/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~2~Neogene/Epoch~1~Miocene/Age~1~Aquitanian.private|Age~1~Aquitanian.private]] 
 
-### #is_/same_as :: [Age~1~Aquitanian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~2~Neogene/Epoch~1~Miocene/Age~1~Aquitanian.personal.md) 
+### #is_/same_as :: [[/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~2~Neogene/Epoch~1~Miocene/Age~1~Aquitanian.personal|Age~1~Aquitanian.personal]] 
 
-### #is_/same_as :: [Age~1~Aquitanian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~2~Neogene/Epoch~1~Miocene/Age~1~Aquitanian.secret.md)
+### #is_/same_as :: [[/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~2~Neogene/Epoch~1~Miocene/Age~1~Aquitanian.secret|Age~1~Aquitanian.secret]] 
 

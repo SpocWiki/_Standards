@@ -65,17 +65,17 @@ Commons_category: Ploughs
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Plough](/_Standards/Society/Economics/Industry/Agriculture/Farm/Plough.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Industry/Agriculture/Farm/Plough|Plough]] 
 
-### #is_/same_as :: [Plough.public](/_public/Society/Economics/Industry/Agriculture/Farm/Plough.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Industry/Agriculture/Farm/Plough.public|Plough.public]] 
 
-### #is_/same_as :: [Plough.internal](/_internal/Society/Economics/Industry/Agriculture/Farm/Plough.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Industry/Agriculture/Farm/Plough.internal|Plough.internal]] 
 
-### #is_/same_as :: [Plough.protect](/_protect/Society/Economics/Industry/Agriculture/Farm/Plough.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Industry/Agriculture/Farm/Plough.protect|Plough.protect]] 
 
-### #is_/same_as :: [Plough.private](/_private/Society/Economics/Industry/Agriculture/Farm/Plough.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Industry/Agriculture/Farm/Plough.private|Plough.private]] 
 
-### #is_/same_as :: [Plough.personal](/_personal/Society/Economics/Industry/Agriculture/Farm/Plough.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Industry/Agriculture/Farm/Plough.personal|Plough.personal]] 
 
-### #is_/same_as :: [Plough.secret](/_secret/Society/Economics/Industry/Agriculture/Farm/Plough.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Industry/Agriculture/Farm/Plough.secret|Plough.secret]] 
 

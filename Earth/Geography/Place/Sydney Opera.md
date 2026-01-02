@@ -103,17 +103,17 @@ Commons_gallery: Sydney Opera House
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sydney Opera](/_Standards/Earth/Geography/Place/Sydney Opera.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geography/Place/Sydney Opera|Sydney Opera]] 
 
-### #is_/same_as :: [Sydney Opera.public](/_public/Earth/Geography/Place/Sydney Opera.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geography/Place/Sydney Opera.public|Sydney Opera.public]] 
 
-### #is_/same_as :: [Sydney Opera.internal](/_internal/Earth/Geography/Place/Sydney Opera.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geography/Place/Sydney Opera.internal|Sydney Opera.internal]] 
 
-### #is_/same_as :: [Sydney Opera.protect](/_protect/Earth/Geography/Place/Sydney Opera.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geography/Place/Sydney Opera.protect|Sydney Opera.protect]] 
 
-### #is_/same_as :: [Sydney Opera.private](/_private/Earth/Geography/Place/Sydney Opera.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geography/Place/Sydney Opera.private|Sydney Opera.private]] 
 
-### #is_/same_as :: [Sydney Opera.personal](/_personal/Earth/Geography/Place/Sydney Opera.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geography/Place/Sydney Opera.personal|Sydney Opera.personal]] 
 
-### #is_/same_as :: [Sydney Opera.secret](/_secret/Earth/Geography/Place/Sydney Opera.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geography/Place/Sydney Opera.secret|Sydney Opera.secret]] 
 

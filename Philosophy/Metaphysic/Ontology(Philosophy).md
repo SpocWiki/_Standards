@@ -92,17 +92,17 @@ Library_of_Congress_Classification: BD300-BD450
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ontology(Philosophy)](/_Standards/Philosophy/Metaphysic/Ontology(Philosophy).md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Ontology(Philosophy)|Ontology(Philosophy)]] 
 
-### #is_/same_as :: [Ontology(Philosophy).public](/_public/Philosophy/Metaphysic/Ontology(Philosophy).public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Ontology(Philosophy).public|Ontology(Philosophy).public]] 
 
-### #is_/same_as :: [Ontology(Philosophy).internal](/_internal/Philosophy/Metaphysic/Ontology(Philosophy).internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Ontology(Philosophy).internal|Ontology(Philosophy).internal]] 
 
-### #is_/same_as :: [Ontology(Philosophy).protect](/_protect/Philosophy/Metaphysic/Ontology(Philosophy).protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Ontology(Philosophy).protect|Ontology(Philosophy).protect]] 
 
-### #is_/same_as :: [Ontology(Philosophy).private](/_private/Philosophy/Metaphysic/Ontology(Philosophy).private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Ontology(Philosophy).private|Ontology(Philosophy).private]] 
 
-### #is_/same_as :: [Ontology(Philosophy).personal](/_personal/Philosophy/Metaphysic/Ontology(Philosophy).personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Ontology(Philosophy).personal|Ontology(Philosophy).personal]] 
 
-### #is_/same_as :: [Ontology(Philosophy).secret](/_secret/Philosophy/Metaphysic/Ontology(Philosophy).secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Ontology(Philosophy).secret|Ontology(Philosophy).secret]] 
 

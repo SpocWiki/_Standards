@@ -17,17 +17,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Unbearable_Lightness_of_Being](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Unbearable_Lightness_of_Being.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Unbearable_Lightness_of_Being|Unbearable_Lightness_of_Being]] 
 
-### #is_/same_as :: [Unbearable_Lightness_of_Being.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Unbearable_Lightness_of_Being.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Unbearable_Lightness_of_Being.public|Unbearable_Lightness_of_Being.public]] 
 
-### #is_/same_as :: [Unbearable_Lightness_of_Being.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Unbearable_Lightness_of_Being.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Unbearable_Lightness_of_Being.internal|Unbearable_Lightness_of_Being.internal]] 
 
-### #is_/same_as :: [Unbearable_Lightness_of_Being.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Unbearable_Lightness_of_Being.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Unbearable_Lightness_of_Being.protect|Unbearable_Lightness_of_Being.protect]] 
 
-### #is_/same_as :: [Unbearable_Lightness_of_Being.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Unbearable_Lightness_of_Being.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Unbearable_Lightness_of_Being.private|Unbearable_Lightness_of_Being.private]] 
 
-### #is_/same_as :: [Unbearable_Lightness_of_Being.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Unbearable_Lightness_of_Being.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Unbearable_Lightness_of_Being.personal|Unbearable_Lightness_of_Being.personal]] 
 
-### #is_/same_as :: [Unbearable_Lightness_of_Being.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Unbearable_Lightness_of_Being.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Unbearable_Lightness_of_Being.secret|Unbearable_Lightness_of_Being.secret]] 
 

@@ -192,17 +192,17 @@ Wolfram_Language_entity_code: Entity["Concept", "Aquinas::45zwz"]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Aquinas,Thomas](/_Standards/Philosophy/Philosopher/Middle_Ages_Philosopher/Aquinas,Thomas.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Philosopher/Middle_Ages_Philosopher/Aquinas,Thomas|Aquinas,Thomas]] 
 
-### #is_/same_as :: [Aquinas,Thomas.public](/_public/Philosophy/Philosopher/Middle_Ages_Philosopher/Aquinas,Thomas.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Philosopher/Middle_Ages_Philosopher/Aquinas,Thomas.public|Aquinas,Thomas.public]] 
 
-### #is_/same_as :: [Aquinas,Thomas.internal](/_internal/Philosophy/Philosopher/Middle_Ages_Philosopher/Aquinas,Thomas.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Philosopher/Middle_Ages_Philosopher/Aquinas,Thomas.internal|Aquinas,Thomas.internal]] 
 
-### #is_/same_as :: [Aquinas,Thomas.protect](/_protect/Philosophy/Philosopher/Middle_Ages_Philosopher/Aquinas,Thomas.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Philosopher/Middle_Ages_Philosopher/Aquinas,Thomas.protect|Aquinas,Thomas.protect]] 
 
-### #is_/same_as :: [Aquinas,Thomas.private](/_private/Philosophy/Philosopher/Middle_Ages_Philosopher/Aquinas,Thomas.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Philosopher/Middle_Ages_Philosopher/Aquinas,Thomas.private|Aquinas,Thomas.private]] 
 
-### #is_/same_as :: [Aquinas,Thomas.personal](/_personal/Philosophy/Philosopher/Middle_Ages_Philosopher/Aquinas,Thomas.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Philosopher/Middle_Ages_Philosopher/Aquinas,Thomas.personal|Aquinas,Thomas.personal]] 
 
-### #is_/same_as :: [Aquinas,Thomas.secret](/_secret/Philosophy/Philosopher/Middle_Ages_Philosopher/Aquinas,Thomas.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Philosopher/Middle_Ages_Philosopher/Aquinas,Thomas.secret|Aquinas,Thomas.secret]] 
 

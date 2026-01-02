@@ -124,17 +124,17 @@ Commons_category: Journey to the West
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Journey_to_the_West](/_Standards/Society/Communication/Media/Writing/Book/Literature/Chinese_Literature/Journey_to_the_West.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Literature/Chinese_Literature/Journey_to_the_West|Journey_to_the_West]] 
 
-### #is_/same_as :: [Journey_to_the_West.public](/_public/Society/Communication/Media/Writing/Book/Literature/Chinese_Literature/Journey_to_the_West.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Literature/Chinese_Literature/Journey_to_the_West.public|Journey_to_the_West.public]] 
 
-### #is_/same_as :: [Journey_to_the_West.internal](/_internal/Society/Communication/Media/Writing/Book/Literature/Chinese_Literature/Journey_to_the_West.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Literature/Chinese_Literature/Journey_to_the_West.internal|Journey_to_the_West.internal]] 
 
-### #is_/same_as :: [Journey_to_the_West.protect](/_protect/Society/Communication/Media/Writing/Book/Literature/Chinese_Literature/Journey_to_the_West.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Literature/Chinese_Literature/Journey_to_the_West.protect|Journey_to_the_West.protect]] 
 
-### #is_/same_as :: [Journey_to_the_West.private](/_private/Society/Communication/Media/Writing/Book/Literature/Chinese_Literature/Journey_to_the_West.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Literature/Chinese_Literature/Journey_to_the_West.private|Journey_to_the_West.private]] 
 
-### #is_/same_as :: [Journey_to_the_West.personal](/_personal/Society/Communication/Media/Writing/Book/Literature/Chinese_Literature/Journey_to_the_West.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Literature/Chinese_Literature/Journey_to_the_West.personal|Journey_to_the_West.personal]] 
 
-### #is_/same_as :: [Journey_to_the_West.secret](/_secret/Society/Communication/Media/Writing/Book/Literature/Chinese_Literature/Journey_to_the_West.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Literature/Chinese_Literature/Journey_to_the_West.secret|Journey_to_the_West.secret]] 
 

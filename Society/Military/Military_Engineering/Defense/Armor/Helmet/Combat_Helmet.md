@@ -30,19 +30,20 @@ Unicode_character: 🪖
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Combat%20helmet)
 
+
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Combat_Helmet](/_Standards/Society/Military/Military_Engineering/Defense/Armor/Helmet/Combat_Helmet.md) 
+### #is_/same_as :: [[/_Standards/Society/Military/Military_Engineering/Defense/Armor/Helmet/Combat_Helmet|Combat_Helmet]] 
 
-### #is_/same_as :: [Combat_Helmet.public](/_public/Society/Military/Military_Engineering/Defense/Armor/Helmet/Combat_Helmet.public.md) 
+### #is_/same_as :: [[/_public/Society/Military/Military_Engineering/Defense/Armor/Helmet/Combat_Helmet.public|Combat_Helmet.public]] 
 
-### #is_/same_as :: [Combat_Helmet.internal](/_internal/Society/Military/Military_Engineering/Defense/Armor/Helmet/Combat_Helmet.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Military/Military_Engineering/Defense/Armor/Helmet/Combat_Helmet.internal|Combat_Helmet.internal]] 
 
-### #is_/same_as :: [Combat_Helmet.protect](/_protect/Society/Military/Military_Engineering/Defense/Armor/Helmet/Combat_Helmet.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Military/Military_Engineering/Defense/Armor/Helmet/Combat_Helmet.protect|Combat_Helmet.protect]] 
 
-### #is_/same_as :: [Combat_Helmet.private](/_private/Society/Military/Military_Engineering/Defense/Armor/Helmet/Combat_Helmet.private.md) 
+### #is_/same_as :: [[/_private/Society/Military/Military_Engineering/Defense/Armor/Helmet/Combat_Helmet.private|Combat_Helmet.private]] 
 
-### #is_/same_as :: [Combat_Helmet.personal](/_personal/Society/Military/Military_Engineering/Defense/Armor/Helmet/Combat_Helmet.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Military/Military_Engineering/Defense/Armor/Helmet/Combat_Helmet.personal|Combat_Helmet.personal]] 
 
-### #is_/same_as :: [Combat_Helmet.secret](/_secret/Society/Military/Military_Engineering/Defense/Armor/Helmet/Combat_Helmet.secret.md)
+### #is_/same_as :: [[/_secret/Society/Military/Military_Engineering/Defense/Armor/Helmet/Combat_Helmet.secret|Combat_Helmet.secret]] 
 

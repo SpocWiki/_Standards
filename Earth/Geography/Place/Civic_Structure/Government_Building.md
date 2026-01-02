@@ -43,17 +43,17 @@ A government building.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Government_Building](/_Standards/Earth/Geography/Place/Civic_Structure/Government_Building.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geography/Place/Civic_Structure/Government_Building|Government_Building]] 
 
-### #is_/same_as :: [Government_Building.public](/_public/Earth/Geography/Place/Civic_Structure/Government_Building.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geography/Place/Civic_Structure/Government_Building.public|Government_Building.public]] 
 
-### #is_/same_as :: [Government_Building.internal](/_internal/Earth/Geography/Place/Civic_Structure/Government_Building.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geography/Place/Civic_Structure/Government_Building.internal|Government_Building.internal]] 
 
-### #is_/same_as :: [Government_Building.protect](/_protect/Earth/Geography/Place/Civic_Structure/Government_Building.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geography/Place/Civic_Structure/Government_Building.protect|Government_Building.protect]] 
 
-### #is_/same_as :: [Government_Building.private](/_private/Earth/Geography/Place/Civic_Structure/Government_Building.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geography/Place/Civic_Structure/Government_Building.private|Government_Building.private]] 
 
-### #is_/same_as :: [Government_Building.personal](/_personal/Earth/Geography/Place/Civic_Structure/Government_Building.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geography/Place/Civic_Structure/Government_Building.personal|Government_Building.personal]] 
 
-### #is_/same_as :: [Government_Building.secret](/_secret/Earth/Geography/Place/Civic_Structure/Government_Building.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geography/Place/Civic_Structure/Government_Building.secret|Government_Building.secret]] 
 

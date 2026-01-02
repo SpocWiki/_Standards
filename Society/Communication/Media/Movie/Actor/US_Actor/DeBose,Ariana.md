@@ -29,17 +29,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [DeBose,Ariana](/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/DeBose,Ariana.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/DeBose,Ariana|DeBose,Ariana]] 
 
-### #is_/same_as :: [DeBose,Ariana.public](/_public/Society/Communication/Media/Movie/Actor/US_Actor/DeBose,Ariana.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Actor/US_Actor/DeBose,Ariana.public|DeBose,Ariana.public]] 
 
-### #is_/same_as :: [DeBose,Ariana.internal](/_internal/Society/Communication/Media/Movie/Actor/US_Actor/DeBose,Ariana.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Actor/US_Actor/DeBose,Ariana.internal|DeBose,Ariana.internal]] 
 
-### #is_/same_as :: [DeBose,Ariana.protect](/_protect/Society/Communication/Media/Movie/Actor/US_Actor/DeBose,Ariana.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Actor/US_Actor/DeBose,Ariana.protect|DeBose,Ariana.protect]] 
 
-### #is_/same_as :: [DeBose,Ariana.private](/_private/Society/Communication/Media/Movie/Actor/US_Actor/DeBose,Ariana.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Actor/US_Actor/DeBose,Ariana.private|DeBose,Ariana.private]] 
 
-### #is_/same_as :: [DeBose,Ariana.personal](/_personal/Society/Communication/Media/Movie/Actor/US_Actor/DeBose,Ariana.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Actor/US_Actor/DeBose,Ariana.personal|DeBose,Ariana.personal]] 
 
-### #is_/same_as :: [DeBose,Ariana.secret](/_secret/Society/Communication/Media/Movie/Actor/US_Actor/DeBose,Ariana.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Actor/US_Actor/DeBose,Ariana.secret|DeBose,Ariana.secret]] 
 

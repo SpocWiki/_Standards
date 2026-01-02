@@ -70,7 +70,7 @@ Specimen Condition   Live Specimen
 Copyright ::            © 2006 [Erin Tripp](mailto:erin.tripp@duke.edu) 
 
 ----------------------------------------------------------------------- 
-![Ruellia paniculata](inundata/Ruellia_paniculata.jpg))
+![Ruellia paniculata](inundata/Ruellia_paniculata.jpg) 
 Scientific Name ::     Ruellia paniculata L.
 Location ::           Palo Verde Biological Station, Costa Rica
 Specimen Condition   Live Specimen
@@ -78,7 +78,7 @@ Collector            Tripp & E. Deinert
 Copyright ::            © [Erin Tripp](mailto:erin.tripp@duke.edu) 
 
 ----------------------------------------------------------------------- 
-![Ruellia_inundata](inundata/Ruellia_inundata.jpg))
+![Ruellia_inundata](inundata/Ruellia_inundata.jpg) 
 Scientific Name ::     Ruellia inundata H. B. K.
 Location ::           Palo Verde Biological Station, Costa Rica
 Specimen Condition   Live Specimen
@@ -87,7 +87,7 @@ Collector            Tripp & Deinert
 Copyright ::            © [Erin Tripp](mailto:erin.tripp@duke.edu) 
 
 ---------------------------------------------------------------------- 
-![Ruellia galeottii](inundata/Ruellia_galeottii.jpg))
+![Ruellia galeottii](inundata/Ruellia_galeottii.jpg) 
 Scientific Name ::  Ruellia galeottii Leonard
 Location ::        Oaxaca, Mexico
 Identified By     Erin A. Tripp
@@ -97,17 +97,17 @@ Copyright ::         © [Erin Tripp](mailto:erin.tripp@duke.edu)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [inundata](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Ruellieae/Ruellia/inundata.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Ruellieae/Ruellia/inundata|inundata]] 
 
-### #is_/same_as :: [inundata.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Ruellieae/Ruellia/inundata.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Ruellieae/Ruellia/inundata.public|inundata.public]] 
 
-### #is_/same_as :: [inundata.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Ruellieae/Ruellia/inundata.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Ruellieae/Ruellia/inundata.internal|inundata.internal]] 
 
-### #is_/same_as :: [inundata.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Ruellieae/Ruellia/inundata.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Ruellieae/Ruellia/inundata.protect|inundata.protect]] 
 
-### #is_/same_as :: [inundata.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Ruellieae/Ruellia/inundata.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Ruellieae/Ruellia/inundata.private|inundata.private]] 
 
-### #is_/same_as :: [inundata.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Ruellieae/Ruellia/inundata.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Ruellieae/Ruellia/inundata.personal|inundata.personal]] 
 
-### #is_/same_as :: [inundata.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Ruellieae/Ruellia/inundata.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Ruellieae/Ruellia/inundata.secret|inundata.secret]] 
 

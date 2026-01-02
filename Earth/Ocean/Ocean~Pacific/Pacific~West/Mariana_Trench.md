@@ -62,17 +62,17 @@ coordinate_location: Point(142.2 11.35)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Mariana_Trench](/_Standards/Earth/Ocean/Ocean~Pacific/Pacific~West/Mariana_Trench.md) 
+### #is_/same_as :: [[/_Standards/Earth/Ocean/Ocean~Pacific/Pacific~West/Mariana_Trench|Mariana_Trench]] 
 
-### #is_/same_as :: [Mariana_Trench.public](/_public/Earth/Ocean/Ocean~Pacific/Pacific~West/Mariana_Trench.public.md) 
+### #is_/same_as :: [[/_public/Earth/Ocean/Ocean~Pacific/Pacific~West/Mariana_Trench.public|Mariana_Trench.public]] 
 
-### #is_/same_as :: [Mariana_Trench.internal](/_internal/Earth/Ocean/Ocean~Pacific/Pacific~West/Mariana_Trench.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Ocean/Ocean~Pacific/Pacific~West/Mariana_Trench.internal|Mariana_Trench.internal]] 
 
-### #is_/same_as :: [Mariana_Trench.protect](/_protect/Earth/Ocean/Ocean~Pacific/Pacific~West/Mariana_Trench.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Ocean/Ocean~Pacific/Pacific~West/Mariana_Trench.protect|Mariana_Trench.protect]] 
 
-### #is_/same_as :: [Mariana_Trench.private](/_private/Earth/Ocean/Ocean~Pacific/Pacific~West/Mariana_Trench.private.md) 
+### #is_/same_as :: [[/_private/Earth/Ocean/Ocean~Pacific/Pacific~West/Mariana_Trench.private|Mariana_Trench.private]] 
 
-### #is_/same_as :: [Mariana_Trench.personal](/_personal/Earth/Ocean/Ocean~Pacific/Pacific~West/Mariana_Trench.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Ocean/Ocean~Pacific/Pacific~West/Mariana_Trench.personal|Mariana_Trench.personal]] 
 
-### #is_/same_as :: [Mariana_Trench.secret](/_secret/Earth/Ocean/Ocean~Pacific/Pacific~West/Mariana_Trench.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Ocean/Ocean~Pacific/Pacific~West/Mariana_Trench.secret|Mariana_Trench.secret]] 
 

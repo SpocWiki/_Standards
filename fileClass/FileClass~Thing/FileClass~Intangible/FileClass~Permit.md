@@ -117,17 +117,17 @@ ValidUntil:: {"type":"Date","options":{"dateFormat":"YYYY-MM-DD","defaultInsertA
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~Permit](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Permit.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Permit|FileClass~Permit]] 
 
-### #is_/same_as :: [FileClass~Permit.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Permit.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Permit.public|FileClass~Permit.public]] 
 
-### #is_/same_as :: [FileClass~Permit.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Permit.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Permit.internal|FileClass~Permit.internal]] 
 
-### #is_/same_as :: [FileClass~Permit.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Permit.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Permit.protect|FileClass~Permit.protect]] 
 
-### #is_/same_as :: [FileClass~Permit.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Permit.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Permit.private|FileClass~Permit.private]] 
 
-### #is_/same_as :: [FileClass~Permit.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Permit.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Permit.personal|FileClass~Permit.personal]] 
 
-### #is_/same_as :: [FileClass~Permit.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Permit.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Permit.secret|FileClass~Permit.secret]] 
 

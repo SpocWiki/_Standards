@@ -46,17 +46,17 @@ Krugosvet_article: kultura_i_obrazovanie/literatura/DETEKTIV.html
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Detective_Fiction](/_Standards/Society/Communication/Genre/Fiction/Crime_Fiction/Detective_Fiction.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Genre/Fiction/Crime_Fiction/Detective_Fiction|Detective_Fiction]] 
 
-### #is_/same_as :: [Detective_Fiction.public](/_public/Society/Communication/Genre/Fiction/Crime_Fiction/Detective_Fiction.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Genre/Fiction/Crime_Fiction/Detective_Fiction.public|Detective_Fiction.public]] 
 
-### #is_/same_as :: [Detective_Fiction.internal](/_internal/Society/Communication/Genre/Fiction/Crime_Fiction/Detective_Fiction.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Genre/Fiction/Crime_Fiction/Detective_Fiction.internal|Detective_Fiction.internal]] 
 
-### #is_/same_as :: [Detective_Fiction.protect](/_protect/Society/Communication/Genre/Fiction/Crime_Fiction/Detective_Fiction.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Genre/Fiction/Crime_Fiction/Detective_Fiction.protect|Detective_Fiction.protect]] 
 
-### #is_/same_as :: [Detective_Fiction.private](/_private/Society/Communication/Genre/Fiction/Crime_Fiction/Detective_Fiction.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Genre/Fiction/Crime_Fiction/Detective_Fiction.private|Detective_Fiction.private]] 
 
-### #is_/same_as :: [Detective_Fiction.personal](/_personal/Society/Communication/Genre/Fiction/Crime_Fiction/Detective_Fiction.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Genre/Fiction/Crime_Fiction/Detective_Fiction.personal|Detective_Fiction.personal]] 
 
-### #is_/same_as :: [Detective_Fiction.secret](/_secret/Society/Communication/Genre/Fiction/Crime_Fiction/Detective_Fiction.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Genre/Fiction/Crime_Fiction/Detective_Fiction.secret|Detective_Fiction.secret]] 
 

@@ -224,17 +224,17 @@ birth_name: Stephen Edwin King
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [King,Stephen](/_Standards/Society/Communication/Media/Writing/Book/Writer/US_Writer/King,Stephen.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Writer/US_Writer/King,Stephen|King,Stephen]] 
 
-### #is_/same_as :: [King,Stephen.public](/_public/Society/Communication/Media/Writing/Book/Writer/US_Writer/King,Stephen.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Writer/US_Writer/King,Stephen.public|King,Stephen.public]] 
 
-### #is_/same_as :: [King,Stephen.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/US_Writer/King,Stephen.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Writer/US_Writer/King,Stephen.internal|King,Stephen.internal]] 
 
-### #is_/same_as :: [King,Stephen.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/US_Writer/King,Stephen.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Writer/US_Writer/King,Stephen.protect|King,Stephen.protect]] 
 
-### #is_/same_as :: [King,Stephen.private](/_private/Society/Communication/Media/Writing/Book/Writer/US_Writer/King,Stephen.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Writer/US_Writer/King,Stephen.private|King,Stephen.private]] 
 
-### #is_/same_as :: [King,Stephen.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/US_Writer/King,Stephen.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Writer/US_Writer/King,Stephen.personal|King,Stephen.personal]] 
 
-### #is_/same_as :: [King,Stephen.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/US_Writer/King,Stephen.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Writer/US_Writer/King,Stephen.secret|King,Stephen.secret]] 
 

@@ -54,3 +54,22 @@ OpenStreetMap_tag: man_made=dyke
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Levee) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Technology/Engineering/Civil_Engineering/Hydraulic_Engineering/Levee|Levee]] 
+
+### #is_/same_as :: [[/_public/Technology/Engineering/Civil_Engineering/Hydraulic_Engineering/Levee.public|Levee.public]] 
+
+### #is_/same_as :: [[/_internal/Technology/Engineering/Civil_Engineering/Hydraulic_Engineering/Levee.internal|Levee.internal]] 
+
+### #is_/same_as :: [[/_protect/Technology/Engineering/Civil_Engineering/Hydraulic_Engineering/Levee.protect|Levee.protect]] 
+
+### #is_/same_as :: [[/_private/Technology/Engineering/Civil_Engineering/Hydraulic_Engineering/Levee.private|Levee.private]] 
+
+### #is_/same_as :: [[/_personal/Technology/Engineering/Civil_Engineering/Hydraulic_Engineering/Levee.personal|Levee.personal]] 
+
+### #is_/same_as :: [[/_secret/Technology/Engineering/Civil_Engineering/Hydraulic_Engineering/Levee.secret|Levee.secret]] 
+

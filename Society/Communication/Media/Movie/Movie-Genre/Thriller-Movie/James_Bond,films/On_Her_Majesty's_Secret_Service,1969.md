@@ -38,17 +38,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [On_Her_Majesty's_Secret_Service,1969](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/On_Her_Majesty's_Secret_Service,1969.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/On_Her_Majesty's_Secret_Service,1969|On_Her_Majesty's_Secret_Service,1969]] 
 
-### #is_/same_as :: [On_Her_Majesty's_Secret_Service,1969.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/On_Her_Majesty's_Secret_Service,1969.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/On_Her_Majesty's_Secret_Service,1969.public|On_Her_Majesty's_Secret_Service,1969.public]] 
 
-### #is_/same_as :: [On_Her_Majesty's_Secret_Service,1969.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/On_Her_Majesty's_Secret_Service,1969.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/On_Her_Majesty's_Secret_Service,1969.internal|On_Her_Majesty's_Secret_Service,1969.internal]] 
 
-### #is_/same_as :: [On_Her_Majesty's_Secret_Service,1969.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/On_Her_Majesty's_Secret_Service,1969.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/On_Her_Majesty's_Secret_Service,1969.protect|On_Her_Majesty's_Secret_Service,1969.protect]] 
 
-### #is_/same_as :: [On_Her_Majesty's_Secret_Service,1969.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/On_Her_Majesty's_Secret_Service,1969.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/On_Her_Majesty's_Secret_Service,1969.private|On_Her_Majesty's_Secret_Service,1969.private]] 
 
-### #is_/same_as :: [On_Her_Majesty's_Secret_Service,1969.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/On_Her_Majesty's_Secret_Service,1969.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/On_Her_Majesty's_Secret_Service,1969.personal|On_Her_Majesty's_Secret_Service,1969.personal]] 
 
-### #is_/same_as :: [On_Her_Majesty's_Secret_Service,1969.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/On_Her_Majesty's_Secret_Service,1969.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/On_Her_Majesty's_Secret_Service,1969.secret|On_Her_Majesty's_Secret_Service,1969.secret]] 
 

@@ -44,17 +44,17 @@ Measurement of the back section, for example of a jacket
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Wearable_Measurement_Back](/_Standards/schema-org/Enumeration/Measurement_Type_Enumeration/Wearable_Measurement_Type_Enumeration/Wearable_Measurement_Back.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Measurement_Type_Enumeration/Wearable_Measurement_Type_Enumeration/Wearable_Measurement_Back|Wearable_Measurement_Back]] 
 
-### #is_/same_as :: [Wearable_Measurement_Back.public](/_public/schema-org/Enumeration/Measurement_Type_Enumeration/Wearable_Measurement_Type_Enumeration/Wearable_Measurement_Back.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Measurement_Type_Enumeration/Wearable_Measurement_Type_Enumeration/Wearable_Measurement_Back.public|Wearable_Measurement_Back.public]] 
 
-### #is_/same_as :: [Wearable_Measurement_Back.internal](/_internal/schema-org/Enumeration/Measurement_Type_Enumeration/Wearable_Measurement_Type_Enumeration/Wearable_Measurement_Back.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Measurement_Type_Enumeration/Wearable_Measurement_Type_Enumeration/Wearable_Measurement_Back.internal|Wearable_Measurement_Back.internal]] 
 
-### #is_/same_as :: [Wearable_Measurement_Back.protect](/_protect/schema-org/Enumeration/Measurement_Type_Enumeration/Wearable_Measurement_Type_Enumeration/Wearable_Measurement_Back.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Measurement_Type_Enumeration/Wearable_Measurement_Type_Enumeration/Wearable_Measurement_Back.protect|Wearable_Measurement_Back.protect]] 
 
-### #is_/same_as :: [Wearable_Measurement_Back.private](/_private/schema-org/Enumeration/Measurement_Type_Enumeration/Wearable_Measurement_Type_Enumeration/Wearable_Measurement_Back.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Measurement_Type_Enumeration/Wearable_Measurement_Type_Enumeration/Wearable_Measurement_Back.private|Wearable_Measurement_Back.private]] 
 
-### #is_/same_as :: [Wearable_Measurement_Back.personal](/_personal/schema-org/Enumeration/Measurement_Type_Enumeration/Wearable_Measurement_Type_Enumeration/Wearable_Measurement_Back.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Measurement_Type_Enumeration/Wearable_Measurement_Type_Enumeration/Wearable_Measurement_Back.personal|Wearable_Measurement_Back.personal]] 
 
-### #is_/same_as :: [Wearable_Measurement_Back.secret](/_secret/schema-org/Enumeration/Measurement_Type_Enumeration/Wearable_Measurement_Type_Enumeration/Wearable_Measurement_Back.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Measurement_Type_Enumeration/Wearable_Measurement_Type_Enumeration/Wearable_Measurement_Back.secret|Wearable_Measurement_Back.secret]] 
 

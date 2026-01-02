@@ -233,17 +233,17 @@ Krugosvet_article_archived_: kultura_i_obrazovanie/teatr_i_kino/UILYAMS_ROBIN.ht
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Williams,Robin](/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Williams,Robin.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Williams,Robin|Williams,Robin]] 
 
-### #is_/same_as :: [Williams,Robin.public](/_public/Society/Communication/Media/Movie/Actor/US_Actor/Williams,Robin.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Actor/US_Actor/Williams,Robin.public|Williams,Robin.public]] 
 
-### #is_/same_as :: [Williams,Robin.internal](/_internal/Society/Communication/Media/Movie/Actor/US_Actor/Williams,Robin.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Actor/US_Actor/Williams,Robin.internal|Williams,Robin.internal]] 
 
-### #is_/same_as :: [Williams,Robin.protect](/_protect/Society/Communication/Media/Movie/Actor/US_Actor/Williams,Robin.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Actor/US_Actor/Williams,Robin.protect|Williams,Robin.protect]] 
 
-### #is_/same_as :: [Williams,Robin.private](/_private/Society/Communication/Media/Movie/Actor/US_Actor/Williams,Robin.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Actor/US_Actor/Williams,Robin.private|Williams,Robin.private]] 
 
-### #is_/same_as :: [Williams,Robin.personal](/_personal/Society/Communication/Media/Movie/Actor/US_Actor/Williams,Robin.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Actor/US_Actor/Williams,Robin.personal|Williams,Robin.personal]] 
 
-### #is_/same_as :: [Williams,Robin.secret](/_secret/Society/Communication/Media/Movie/Actor/US_Actor/Williams,Robin.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Actor/US_Actor/Williams,Robin.secret|Williams,Robin.secret]] 
 

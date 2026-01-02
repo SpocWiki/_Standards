@@ -62,17 +62,17 @@ Universal_Decimal_Classification: 512.5
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Abstract_algebra](/_Standards/Mathematics/Algebra/Abstract_algebra.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Algebra/Abstract_algebra|Abstract_algebra]] 
 
-### #is_/same_as :: [Abstract_algebra.public](/_public/Mathematics/Algebra/Abstract_algebra.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Algebra/Abstract_algebra.public|Abstract_algebra.public]] 
 
-### #is_/same_as :: [Abstract_algebra.internal](/_internal/Mathematics/Algebra/Abstract_algebra.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Algebra/Abstract_algebra.internal|Abstract_algebra.internal]] 
 
-### #is_/same_as :: [Abstract_algebra.protect](/_protect/Mathematics/Algebra/Abstract_algebra.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Algebra/Abstract_algebra.protect|Abstract_algebra.protect]] 
 
-### #is_/same_as :: [Abstract_algebra.private](/_private/Mathematics/Algebra/Abstract_algebra.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Algebra/Abstract_algebra.private|Abstract_algebra.private]] 
 
-### #is_/same_as :: [Abstract_algebra.personal](/_personal/Mathematics/Algebra/Abstract_algebra.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Algebra/Abstract_algebra.personal|Abstract_algebra.personal]] 
 
-### #is_/same_as :: [Abstract_algebra.secret](/_secret/Mathematics/Algebra/Abstract_algebra.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Algebra/Abstract_algebra.secret|Abstract_algebra.secret]] 
 

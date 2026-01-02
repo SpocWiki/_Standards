@@ -49,17 +49,17 @@ Commons_category: Postmodernism
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Postmodernism](/_Standards/Society/Communication/Art/Art_History/Postmodernism.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Art/Art_History/Postmodernism|Postmodernism]] 
 
-### #is_/same_as :: [Postmodernism.public](/_public/Society/Communication/Art/Art_History/Postmodernism.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Art/Art_History/Postmodernism.public|Postmodernism.public]] 
 
-### #is_/same_as :: [Postmodernism.internal](/_internal/Society/Communication/Art/Art_History/Postmodernism.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Art/Art_History/Postmodernism.internal|Postmodernism.internal]] 
 
-### #is_/same_as :: [Postmodernism.protect](/_protect/Society/Communication/Art/Art_History/Postmodernism.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Art/Art_History/Postmodernism.protect|Postmodernism.protect]] 
 
-### #is_/same_as :: [Postmodernism.private](/_private/Society/Communication/Art/Art_History/Postmodernism.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Art/Art_History/Postmodernism.private|Postmodernism.private]] 
 
-### #is_/same_as :: [Postmodernism.personal](/_personal/Society/Communication/Art/Art_History/Postmodernism.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Art/Art_History/Postmodernism.personal|Postmodernism.personal]] 
 
-### #is_/same_as :: [Postmodernism.secret](/_secret/Society/Communication/Art/Art_History/Postmodernism.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Art/Art_History/Postmodernism.secret|Postmodernism.secret]] 
 

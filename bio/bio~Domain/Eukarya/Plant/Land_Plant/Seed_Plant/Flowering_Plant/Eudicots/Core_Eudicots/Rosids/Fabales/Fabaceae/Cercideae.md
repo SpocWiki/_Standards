@@ -127,20 +127,20 @@ these genera.
 ## Title Illustrations
 
 ------------------------ 
-![Cercis chinensis](Cercideae/Cercis_chinensis.jpg))
+![Cercis chinensis](Cercideae/Cercis_chinensis.jpg) 
 Scientific Name ::     Cercis chinensis Bunge
 Specimen Condition   Live Specimen
 Body Part            flower
 Copyright ::            © [Annette Hoeggemeier](http://www.boga.ruhr-uni-bochum.de/)
 
 ------------------- 
-![Bauhinia variegata](Cercideae/Bauhinia_variegata.jpg))
+![Bauhinia variegata](Cercideae/Bauhinia_variegata.jpg) 
 Scientific Name ::     Bauhinia variegata L. (var. candida)
 Specimen Condition   Live Specimen
 Copyright ::            © [L. Ramsden](http://web.hku.hk/%7Elramsden/)
 
 --------------------------- 
-![Tylosema fassoglensis](Cercideae/Tylosema_fassoglensis.jpg))
+![Tylosema fassoglensis](Cercideae/Tylosema_fassoglensis.jpg) 
 Scientific Name ::  Tylosema fassoglensis (Kotschy) Torre & Hillc.
 Location ::        Vumba rd near Altar Site, Mutare, Zimbabwe
 Copyright ::         © 06/2006 [Mark Hyde and Bart Wursten](http://www.zimbabweflora.co.zw/)
@@ -148,17 +148,17 @@ Copyright ::         © 06/2006 [Mark Hyde and Bart Wursten](http://www.zimbabwe
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Cercideae](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Cercideae.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Cercideae|Cercideae]] 
 
-### #is_/same_as :: [Cercideae.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Cercideae.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Cercideae.public|Cercideae.public]] 
 
-### #is_/same_as :: [Cercideae.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Cercideae.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Cercideae.internal|Cercideae.internal]] 
 
-### #is_/same_as :: [Cercideae.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Cercideae.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Cercideae.protect|Cercideae.protect]] 
 
-### #is_/same_as :: [Cercideae.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Cercideae.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Cercideae.private|Cercideae.private]] 
 
-### #is_/same_as :: [Cercideae.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Cercideae.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Cercideae.personal|Cercideae.personal]] 
 
-### #is_/same_as :: [Cercideae.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Cercideae.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Cercideae.secret|Cercideae.secret]] 
 

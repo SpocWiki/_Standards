@@ -56,17 +56,17 @@ WordLift_URL: http://data.medicalrecords.com/medicalrecords/healthwise/lungs
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lung](/_Standards/bio/Medicine/Anatomy/Respiratory_System/Lung.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Anatomy/Respiratory_System/Lung|Lung]] 
 
-### #is_/same_as :: [Lung.public](/_public/bio/Medicine/Anatomy/Respiratory_System/Lung.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Anatomy/Respiratory_System/Lung.public|Lung.public]] 
 
-### #is_/same_as :: [Lung.internal](/_internal/bio/Medicine/Anatomy/Respiratory_System/Lung.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Anatomy/Respiratory_System/Lung.internal|Lung.internal]] 
 
-### #is_/same_as :: [Lung.protect](/_protect/bio/Medicine/Anatomy/Respiratory_System/Lung.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Anatomy/Respiratory_System/Lung.protect|Lung.protect]] 
 
-### #is_/same_as :: [Lung.private](/_private/bio/Medicine/Anatomy/Respiratory_System/Lung.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Anatomy/Respiratory_System/Lung.private|Lung.private]] 
 
-### #is_/same_as :: [Lung.personal](/_personal/bio/Medicine/Anatomy/Respiratory_System/Lung.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Anatomy/Respiratory_System/Lung.personal|Lung.personal]] 
 
-### #is_/same_as :: [Lung.secret](/_secret/bio/Medicine/Anatomy/Respiratory_System/Lung.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Anatomy/Respiratory_System/Lung.secret|Lung.secret]] 
 

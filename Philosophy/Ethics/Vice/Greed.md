@@ -32,3 +32,22 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/The%20worship%20of%20M
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Greed) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Philosophy/Ethics/Vice/Greed|Greed]] 
+
+### #is_/same_as :: [[/_public/Philosophy/Ethics/Vice/Greed.public|Greed.public]] 
+
+### #is_/same_as :: [[/_internal/Philosophy/Ethics/Vice/Greed.internal|Greed.internal]] 
+
+### #is_/same_as :: [[/_protect/Philosophy/Ethics/Vice/Greed.protect|Greed.protect]] 
+
+### #is_/same_as :: [[/_private/Philosophy/Ethics/Vice/Greed.private|Greed.private]] 
+
+### #is_/same_as :: [[/_personal/Philosophy/Ethics/Vice/Greed.personal|Greed.personal]] 
+
+### #is_/same_as :: [[/_secret/Philosophy/Ethics/Vice/Greed.secret|Greed.secret]] 
+

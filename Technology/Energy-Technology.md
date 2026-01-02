@@ -19,17 +19,17 @@ subclass_of: '[[_Standards/WikiData/WD~technology,11016]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Energy-Technology](/_Standards/Technology/Energy-Technology.md) 
+### #is_/same_as :: [[/_Standards/Technology/Energy-Technology|Energy-Technology]] 
 
-### #is_/same_as :: [Energy-Technology.public](/_public/Technology/Energy-Technology.public.md) 
+### #is_/same_as :: [[/_public/Technology/Energy-Technology.public|Energy-Technology.public]] 
 
-### #is_/same_as :: [Energy-Technology.internal](/_internal/Technology/Energy-Technology.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Energy-Technology.internal|Energy-Technology.internal]] 
 
-### #is_/same_as :: [Energy-Technology.protect](/_protect/Technology/Energy-Technology.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Energy-Technology.protect|Energy-Technology.protect]] 
 
-### #is_/same_as :: [Energy-Technology.private](/_private/Technology/Energy-Technology.private.md) 
+### #is_/same_as :: [[/_private/Technology/Energy-Technology.private|Energy-Technology.private]] 
 
-### #is_/same_as :: [Energy-Technology.personal](/_personal/Technology/Energy-Technology.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Energy-Technology.personal|Energy-Technology.personal]] 
 
-### #is_/same_as :: [Energy-Technology.secret](/_secret/Technology/Energy-Technology.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Energy-Technology.secret|Energy-Technology.secret]] 
 

@@ -41,17 +41,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_translator](/_Standards/schema-org/Relation/has/has_translator.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_translator|has_translator]] 
 
-### #is_/same_as :: [has_translator.public](/_public/schema-org/Relation/has/has_translator.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_translator.public|has_translator.public]] 
 
-### #is_/same_as :: [has_translator.internal](/_internal/schema-org/Relation/has/has_translator.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_translator.internal|has_translator.internal]] 
 
-### #is_/same_as :: [has_translator.protect](/_protect/schema-org/Relation/has/has_translator.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_translator.protect|has_translator.protect]] 
 
-### #is_/same_as :: [has_translator.private](/_private/schema-org/Relation/has/has_translator.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_translator.private|has_translator.private]] 
 
-### #is_/same_as :: [has_translator.personal](/_personal/schema-org/Relation/has/has_translator.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_translator.personal|has_translator.personal]] 
 
-### #is_/same_as :: [has_translator.secret](/_secret/schema-org/Relation/has/has_translator.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_translator.secret|has_translator.secret]] 
 

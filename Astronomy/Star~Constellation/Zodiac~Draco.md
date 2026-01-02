@@ -59,17 +59,17 @@ short_name: Dra
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Zodiac~Draco](/_Standards/Astronomy/Star~Constellation/Zodiac~Draco.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Star~Constellation/Zodiac~Draco|Zodiac~Draco]] 
 
-### #is_/same_as :: [Zodiac~Draco.public](/_public/Astronomy/Star~Constellation/Zodiac~Draco.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Star~Constellation/Zodiac~Draco.public|Zodiac~Draco.public]] 
 
-### #is_/same_as :: [Zodiac~Draco.internal](/_internal/Astronomy/Star~Constellation/Zodiac~Draco.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Star~Constellation/Zodiac~Draco.internal|Zodiac~Draco.internal]] 
 
-### #is_/same_as :: [Zodiac~Draco.protect](/_protect/Astronomy/Star~Constellation/Zodiac~Draco.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Star~Constellation/Zodiac~Draco.protect|Zodiac~Draco.protect]] 
 
-### #is_/same_as :: [Zodiac~Draco.private](/_private/Astronomy/Star~Constellation/Zodiac~Draco.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Star~Constellation/Zodiac~Draco.private|Zodiac~Draco.private]] 
 
-### #is_/same_as :: [Zodiac~Draco.personal](/_personal/Astronomy/Star~Constellation/Zodiac~Draco.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Star~Constellation/Zodiac~Draco.personal|Zodiac~Draco.personal]] 
 
-### #is_/same_as :: [Zodiac~Draco.secret](/_secret/Astronomy/Star~Constellation/Zodiac~Draco.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Star~Constellation/Zodiac~Draco.secret|Zodiac~Draco.secret]] 
 

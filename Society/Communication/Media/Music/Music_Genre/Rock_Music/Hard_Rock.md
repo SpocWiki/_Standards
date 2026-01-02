@@ -37,17 +37,17 @@ native_label: Hard rock
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hard_Rock](/_Standards/Society/Communication/Media/Music/Music_Genre/Rock_Music/Hard_Rock.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Music_Genre/Rock_Music/Hard_Rock|Hard_Rock]] 
 
-### #is_/same_as :: [Hard_Rock.public](/_public/Society/Communication/Media/Music/Music_Genre/Rock_Music/Hard_Rock.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Music_Genre/Rock_Music/Hard_Rock.public|Hard_Rock.public]] 
 
-### #is_/same_as :: [Hard_Rock.internal](/_internal/Society/Communication/Media/Music/Music_Genre/Rock_Music/Hard_Rock.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Music_Genre/Rock_Music/Hard_Rock.internal|Hard_Rock.internal]] 
 
-### #is_/same_as :: [Hard_Rock.protect](/_protect/Society/Communication/Media/Music/Music_Genre/Rock_Music/Hard_Rock.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Music_Genre/Rock_Music/Hard_Rock.protect|Hard_Rock.protect]] 
 
-### #is_/same_as :: [Hard_Rock.private](/_private/Society/Communication/Media/Music/Music_Genre/Rock_Music/Hard_Rock.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Music_Genre/Rock_Music/Hard_Rock.private|Hard_Rock.private]] 
 
-### #is_/same_as :: [Hard_Rock.personal](/_personal/Society/Communication/Media/Music/Music_Genre/Rock_Music/Hard_Rock.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Music_Genre/Rock_Music/Hard_Rock.personal|Hard_Rock.personal]] 
 
-### #is_/same_as :: [Hard_Rock.secret](/_secret/Society/Communication/Media/Music/Music_Genre/Rock_Music/Hard_Rock.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Music_Genre/Rock_Music/Hard_Rock.secret|Hard_Rock.secret]] 
 

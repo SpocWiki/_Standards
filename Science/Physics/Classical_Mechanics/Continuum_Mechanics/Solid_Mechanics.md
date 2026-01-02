@@ -54,17 +54,17 @@ Commons_category: Solid mechanics
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Solid_Mechanics](/_Standards/Science/Physics/Classical_Mechanics/Continuum_Mechanics/Solid_Mechanics.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Classical_Mechanics/Continuum_Mechanics/Solid_Mechanics|Solid_Mechanics]] 
 
-### #is_/same_as :: [Solid_Mechanics.public](/_public/Science/Physics/Classical_Mechanics/Continuum_Mechanics/Solid_Mechanics.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Classical_Mechanics/Continuum_Mechanics/Solid_Mechanics.public|Solid_Mechanics.public]] 
 
-### #is_/same_as :: [Solid_Mechanics.internal](/_internal/Science/Physics/Classical_Mechanics/Continuum_Mechanics/Solid_Mechanics.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Classical_Mechanics/Continuum_Mechanics/Solid_Mechanics.internal|Solid_Mechanics.internal]] 
 
-### #is_/same_as :: [Solid_Mechanics.protect](/_protect/Science/Physics/Classical_Mechanics/Continuum_Mechanics/Solid_Mechanics.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Classical_Mechanics/Continuum_Mechanics/Solid_Mechanics.protect|Solid_Mechanics.protect]] 
 
-### #is_/same_as :: [Solid_Mechanics.private](/_private/Science/Physics/Classical_Mechanics/Continuum_Mechanics/Solid_Mechanics.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Classical_Mechanics/Continuum_Mechanics/Solid_Mechanics.private|Solid_Mechanics.private]] 
 
-### #is_/same_as :: [Solid_Mechanics.personal](/_personal/Science/Physics/Classical_Mechanics/Continuum_Mechanics/Solid_Mechanics.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Classical_Mechanics/Continuum_Mechanics/Solid_Mechanics.personal|Solid_Mechanics.personal]] 
 
-### #is_/same_as :: [Solid_Mechanics.secret](/_secret/Science/Physics/Classical_Mechanics/Continuum_Mechanics/Solid_Mechanics.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Classical_Mechanics/Continuum_Mechanics/Solid_Mechanics.secret|Solid_Mechanics.secret]] 
 

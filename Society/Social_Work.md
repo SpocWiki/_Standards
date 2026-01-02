@@ -37,17 +37,17 @@ Commons_category: Social work
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Social_Work](/_Standards/Society/Social_Work.md) 
+### #is_/same_as :: [[/_Standards/Society/Social_Work|Social_Work]] 
 
-### #is_/same_as :: [Social_Work.public](/_public/Society/Social_Work.public.md) 
+### #is_/same_as :: [[/_public/Society/Social_Work.public|Social_Work.public]] 
 
-### #is_/same_as :: [Social_Work.internal](/_internal/Society/Social_Work.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Social_Work.internal|Social_Work.internal]] 
 
-### #is_/same_as :: [Social_Work.protect](/_protect/Society/Social_Work.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Social_Work.protect|Social_Work.protect]] 
 
-### #is_/same_as :: [Social_Work.private](/_private/Society/Social_Work.private.md) 
+### #is_/same_as :: [[/_private/Society/Social_Work.private|Social_Work.private]] 
 
-### #is_/same_as :: [Social_Work.personal](/_personal/Society/Social_Work.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Social_Work.personal|Social_Work.personal]] 
 
-### #is_/same_as :: [Social_Work.secret](/_secret/Society/Social_Work.secret.md)
+### #is_/same_as :: [[/_secret/Society/Social_Work.secret|Social_Work.secret]] 
 

@@ -62,17 +62,17 @@ Commons_category: Syndromes
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Syndrome](/_Standards/bio/Medicine/Medical_Condition/Medical_Sign_or_Symptom/Syndrome.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Condition/Medical_Sign_or_Symptom/Syndrome|Syndrome]] 
 
-### #is_/same_as :: [Syndrome.public](/_public/bio/Medicine/Medical_Condition/Medical_Sign_or_Symptom/Syndrome.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Condition/Medical_Sign_or_Symptom/Syndrome.public|Syndrome.public]] 
 
-### #is_/same_as :: [Syndrome.internal](/_internal/bio/Medicine/Medical_Condition/Medical_Sign_or_Symptom/Syndrome.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Condition/Medical_Sign_or_Symptom/Syndrome.internal|Syndrome.internal]] 
 
-### #is_/same_as :: [Syndrome.protect](/_protect/bio/Medicine/Medical_Condition/Medical_Sign_or_Symptom/Syndrome.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Condition/Medical_Sign_or_Symptom/Syndrome.protect|Syndrome.protect]] 
 
-### #is_/same_as :: [Syndrome.private](/_private/bio/Medicine/Medical_Condition/Medical_Sign_or_Symptom/Syndrome.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Condition/Medical_Sign_or_Symptom/Syndrome.private|Syndrome.private]] 
 
-### #is_/same_as :: [Syndrome.personal](/_personal/bio/Medicine/Medical_Condition/Medical_Sign_or_Symptom/Syndrome.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Condition/Medical_Sign_or_Symptom/Syndrome.personal|Syndrome.personal]] 
 
-### #is_/same_as :: [Syndrome.secret](/_secret/bio/Medicine/Medical_Condition/Medical_Sign_or_Symptom/Syndrome.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Condition/Medical_Sign_or_Symptom/Syndrome.secret|Syndrome.secret]] 
 

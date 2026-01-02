@@ -40,17 +40,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [TCP(Transmission_Control_Protocol)](/_Standards/Technology/IT/Computer_Network/Internet/TCP(Transmission_Control_Protocol).md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Computer_Network/Internet/TCP(Transmission_Control_Protocol)|TCP(Transmission_Control_Protocol)]] 
 
-### #is_/same_as :: [TCP(Transmission_Control_Protocol).public](/_public/Technology/IT/Computer_Network/Internet/TCP(Transmission_Control_Protocol).public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Computer_Network/Internet/TCP(Transmission_Control_Protocol).public|TCP(Transmission_Control_Protocol).public]] 
 
-### #is_/same_as :: [TCP(Transmission_Control_Protocol).internal](/_internal/Technology/IT/Computer_Network/Internet/TCP(Transmission_Control_Protocol).internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Computer_Network/Internet/TCP(Transmission_Control_Protocol).internal|TCP(Transmission_Control_Protocol).internal]] 
 
-### #is_/same_as :: [TCP(Transmission_Control_Protocol).protect](/_protect/Technology/IT/Computer_Network/Internet/TCP(Transmission_Control_Protocol).protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Computer_Network/Internet/TCP(Transmission_Control_Protocol).protect|TCP(Transmission_Control_Protocol).protect]] 
 
-### #is_/same_as :: [TCP(Transmission_Control_Protocol).private](/_private/Technology/IT/Computer_Network/Internet/TCP(Transmission_Control_Protocol).private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Computer_Network/Internet/TCP(Transmission_Control_Protocol).private|TCP(Transmission_Control_Protocol).private]] 
 
-### #is_/same_as :: [TCP(Transmission_Control_Protocol).personal](/_personal/Technology/IT/Computer_Network/Internet/TCP(Transmission_Control_Protocol).personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Computer_Network/Internet/TCP(Transmission_Control_Protocol).personal|TCP(Transmission_Control_Protocol).personal]] 
 
-### #is_/same_as :: [TCP(Transmission_Control_Protocol).secret](/_secret/Technology/IT/Computer_Network/Internet/TCP(Transmission_Control_Protocol).secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Computer_Network/Internet/TCP(Transmission_Control_Protocol).secret|TCP(Transmission_Control_Protocol).secret]] 
 

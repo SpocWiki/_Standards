@@ -66,17 +66,17 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Age~2~Valanginian](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~3~Cretaceous/Epoch~1~Early_Cretaceous/Age~2~Valanginian.md) 
+### #is_/same_as :: [[/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~3~Cretaceous/Epoch~1~Early_Cretaceous/Age~2~Valanginian|Age~2~Valanginian]] 
 
-### #is_/same_as :: [Age~2~Valanginian.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~3~Cretaceous/Epoch~1~Early_Cretaceous/Age~2~Valanginian.public.md) 
+### #is_/same_as :: [[/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~3~Cretaceous/Epoch~1~Early_Cretaceous/Age~2~Valanginian.public|Age~2~Valanginian.public]] 
 
-### #is_/same_as :: [Age~2~Valanginian.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~3~Cretaceous/Epoch~1~Early_Cretaceous/Age~2~Valanginian.internal.md) 
+### #is_/same_as :: [[/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~3~Cretaceous/Epoch~1~Early_Cretaceous/Age~2~Valanginian.internal|Age~2~Valanginian.internal]] 
 
-### #is_/same_as :: [Age~2~Valanginian.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~3~Cretaceous/Epoch~1~Early_Cretaceous/Age~2~Valanginian.protect.md) 
+### #is_/same_as :: [[/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~3~Cretaceous/Epoch~1~Early_Cretaceous/Age~2~Valanginian.protect|Age~2~Valanginian.protect]] 
 
-### #is_/same_as :: [Age~2~Valanginian.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~3~Cretaceous/Epoch~1~Early_Cretaceous/Age~2~Valanginian.private.md) 
+### #is_/same_as :: [[/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~3~Cretaceous/Epoch~1~Early_Cretaceous/Age~2~Valanginian.private|Age~2~Valanginian.private]] 
 
-### #is_/same_as :: [Age~2~Valanginian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~3~Cretaceous/Epoch~1~Early_Cretaceous/Age~2~Valanginian.personal.md) 
+### #is_/same_as :: [[/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~3~Cretaceous/Epoch~1~Early_Cretaceous/Age~2~Valanginian.personal|Age~2~Valanginian.personal]] 
 
-### #is_/same_as :: [Age~2~Valanginian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~3~Cretaceous/Epoch~1~Early_Cretaceous/Age~2~Valanginian.secret.md)
+### #is_/same_as :: [[/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~3~Cretaceous/Epoch~1~Early_Cretaceous/Age~2~Valanginian.secret|Age~2~Valanginian.secret]] 
 

@@ -40,17 +40,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Pasolini,Pier_Paolo](/_Standards/Society/Communication/Media/Movie/Movie-Director/Pasolini,Pier_Paolo.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Director/Pasolini,Pier_Paolo|Pasolini,Pier_Paolo]] 
 
-### #is_/same_as :: [Pasolini,Pier_Paolo.public](/_public/Society/Communication/Media/Movie/Movie-Director/Pasolini,Pier_Paolo.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Director/Pasolini,Pier_Paolo.public|Pasolini,Pier_Paolo.public]] 
 
-### #is_/same_as :: [Pasolini,Pier_Paolo.internal](/_internal/Society/Communication/Media/Movie/Movie-Director/Pasolini,Pier_Paolo.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Director/Pasolini,Pier_Paolo.internal|Pasolini,Pier_Paolo.internal]] 
 
-### #is_/same_as :: [Pasolini,Pier_Paolo.protect](/_protect/Society/Communication/Media/Movie/Movie-Director/Pasolini,Pier_Paolo.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Director/Pasolini,Pier_Paolo.protect|Pasolini,Pier_Paolo.protect]] 
 
-### #is_/same_as :: [Pasolini,Pier_Paolo.private](/_private/Society/Communication/Media/Movie/Movie-Director/Pasolini,Pier_Paolo.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Director/Pasolini,Pier_Paolo.private|Pasolini,Pier_Paolo.private]] 
 
-### #is_/same_as :: [Pasolini,Pier_Paolo.personal](/_personal/Society/Communication/Media/Movie/Movie-Director/Pasolini,Pier_Paolo.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Director/Pasolini,Pier_Paolo.personal|Pasolini,Pier_Paolo.personal]] 
 
-### #is_/same_as :: [Pasolini,Pier_Paolo.secret](/_secret/Society/Communication/Media/Movie/Movie-Director/Pasolini,Pier_Paolo.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Director/Pasolini,Pier_Paolo.secret|Pasolini,Pier_Paolo.secret]] 
 

@@ -40,17 +40,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_maintainer](/_Standards/schema-org/Relation/has/has_maintainer.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_maintainer|has_maintainer]] 
 
-### #is_/same_as :: [has_maintainer.public](/_public/schema-org/Relation/has/has_maintainer.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_maintainer.public|has_maintainer.public]] 
 
-### #is_/same_as :: [has_maintainer.internal](/_internal/schema-org/Relation/has/has_maintainer.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_maintainer.internal|has_maintainer.internal]] 
 
-### #is_/same_as :: [has_maintainer.protect](/_protect/schema-org/Relation/has/has_maintainer.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_maintainer.protect|has_maintainer.protect]] 
 
-### #is_/same_as :: [has_maintainer.private](/_private/schema-org/Relation/has/has_maintainer.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_maintainer.private|has_maintainer.private]] 
 
-### #is_/same_as :: [has_maintainer.personal](/_personal/schema-org/Relation/has/has_maintainer.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_maintainer.personal|has_maintainer.personal]] 
 
-### #is_/same_as :: [has_maintainer.secret](/_secret/schema-org/Relation/has/has_maintainer.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_maintainer.secret|has_maintainer.secret]] 
 

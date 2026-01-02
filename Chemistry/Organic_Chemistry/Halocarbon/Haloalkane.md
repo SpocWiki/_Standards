@@ -57,17 +57,17 @@ Commons_category: Haloalkanes
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Haloalkane](/_Standards/Chemistry/Organic_Chemistry/Halocarbon/Haloalkane.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Organic_Chemistry/Halocarbon/Haloalkane|Haloalkane]] 
 
-### #is_/same_as :: [Haloalkane.public](/_public/Chemistry/Organic_Chemistry/Halocarbon/Haloalkane.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Organic_Chemistry/Halocarbon/Haloalkane.public|Haloalkane.public]] 
 
-### #is_/same_as :: [Haloalkane.internal](/_internal/Chemistry/Organic_Chemistry/Halocarbon/Haloalkane.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Organic_Chemistry/Halocarbon/Haloalkane.internal|Haloalkane.internal]] 
 
-### #is_/same_as :: [Haloalkane.protect](/_protect/Chemistry/Organic_Chemistry/Halocarbon/Haloalkane.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Organic_Chemistry/Halocarbon/Haloalkane.protect|Haloalkane.protect]] 
 
-### #is_/same_as :: [Haloalkane.private](/_private/Chemistry/Organic_Chemistry/Halocarbon/Haloalkane.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Organic_Chemistry/Halocarbon/Haloalkane.private|Haloalkane.private]] 
 
-### #is_/same_as :: [Haloalkane.personal](/_personal/Chemistry/Organic_Chemistry/Halocarbon/Haloalkane.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Organic_Chemistry/Halocarbon/Haloalkane.personal|Haloalkane.personal]] 
 
-### #is_/same_as :: [Haloalkane.secret](/_secret/Chemistry/Organic_Chemistry/Halocarbon/Haloalkane.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Organic_Chemistry/Halocarbon/Haloalkane.secret|Haloalkane.secret]] 
 

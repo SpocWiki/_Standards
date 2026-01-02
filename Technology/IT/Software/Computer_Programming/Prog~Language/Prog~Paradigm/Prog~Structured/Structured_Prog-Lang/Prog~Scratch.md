@@ -45,17 +45,17 @@ Scratch uses 2 Notches to compose Blocks.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Prog~Scratch](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structured_Prog-Lang/Prog~Scratch.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structured_Prog-Lang/Prog~Scratch|Prog~Scratch]] 
 
-### #is_/same_as :: [Prog~Scratch.public](/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structured_Prog-Lang/Prog~Scratch.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structured_Prog-Lang/Prog~Scratch.public|Prog~Scratch.public]] 
 
-### #is_/same_as :: [Prog~Scratch.internal](/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structured_Prog-Lang/Prog~Scratch.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structured_Prog-Lang/Prog~Scratch.internal|Prog~Scratch.internal]] 
 
-### #is_/same_as :: [Prog~Scratch.protect](/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structured_Prog-Lang/Prog~Scratch.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structured_Prog-Lang/Prog~Scratch.protect|Prog~Scratch.protect]] 
 
-### #is_/same_as :: [Prog~Scratch.private](/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structured_Prog-Lang/Prog~Scratch.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structured_Prog-Lang/Prog~Scratch.private|Prog~Scratch.private]] 
 
-### #is_/same_as :: [Prog~Scratch.personal](/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structured_Prog-Lang/Prog~Scratch.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structured_Prog-Lang/Prog~Scratch.personal|Prog~Scratch.personal]] 
 
-### #is_/same_as :: [Prog~Scratch.secret](/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structured_Prog-Lang/Prog~Scratch.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structured_Prog-Lang/Prog~Scratch.secret|Prog~Scratch.secret]] 
 

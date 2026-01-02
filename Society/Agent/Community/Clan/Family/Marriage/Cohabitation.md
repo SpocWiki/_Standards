@@ -41,17 +41,17 @@ Commons_category: Cohabitation
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Cohabitation](/_Standards/Society/Agent/Community/Clan/Family/Marriage/Cohabitation.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Clan/Family/Marriage/Cohabitation|Cohabitation]] 
 
-### #is_/same_as :: [Cohabitation.public](/_public/Society/Agent/Community/Clan/Family/Marriage/Cohabitation.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Clan/Family/Marriage/Cohabitation.public|Cohabitation.public]] 
 
-### #is_/same_as :: [Cohabitation.internal](/_internal/Society/Agent/Community/Clan/Family/Marriage/Cohabitation.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Clan/Family/Marriage/Cohabitation.internal|Cohabitation.internal]] 
 
-### #is_/same_as :: [Cohabitation.protect](/_protect/Society/Agent/Community/Clan/Family/Marriage/Cohabitation.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Clan/Family/Marriage/Cohabitation.protect|Cohabitation.protect]] 
 
-### #is_/same_as :: [Cohabitation.private](/_private/Society/Agent/Community/Clan/Family/Marriage/Cohabitation.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Clan/Family/Marriage/Cohabitation.private|Cohabitation.private]] 
 
-### #is_/same_as :: [Cohabitation.personal](/_personal/Society/Agent/Community/Clan/Family/Marriage/Cohabitation.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Clan/Family/Marriage/Cohabitation.personal|Cohabitation.personal]] 
 
-### #is_/same_as :: [Cohabitation.secret](/_secret/Society/Agent/Community/Clan/Family/Marriage/Cohabitation.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Clan/Family/Marriage/Cohabitation.secret|Cohabitation.secret]] 
 

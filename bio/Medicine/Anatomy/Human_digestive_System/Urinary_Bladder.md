@@ -71,17 +71,17 @@ Dewey_Decimal_Classification: 573.49
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Urinary_Bladder](/_Standards/bio/Medicine/Anatomy/Human_digestive_System/Urinary_Bladder.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Anatomy/Human_digestive_System/Urinary_Bladder|Urinary_Bladder]] 
 
-### #is_/same_as :: [Urinary_Bladder.public](/_public/bio/Medicine/Anatomy/Human_digestive_System/Urinary_Bladder.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Anatomy/Human_digestive_System/Urinary_Bladder.public|Urinary_Bladder.public]] 
 
-### #is_/same_as :: [Urinary_Bladder.internal](/_internal/bio/Medicine/Anatomy/Human_digestive_System/Urinary_Bladder.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Anatomy/Human_digestive_System/Urinary_Bladder.internal|Urinary_Bladder.internal]] 
 
-### #is_/same_as :: [Urinary_Bladder.protect](/_protect/bio/Medicine/Anatomy/Human_digestive_System/Urinary_Bladder.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Anatomy/Human_digestive_System/Urinary_Bladder.protect|Urinary_Bladder.protect]] 
 
-### #is_/same_as :: [Urinary_Bladder.private](/_private/bio/Medicine/Anatomy/Human_digestive_System/Urinary_Bladder.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Anatomy/Human_digestive_System/Urinary_Bladder.private|Urinary_Bladder.private]] 
 
-### #is_/same_as :: [Urinary_Bladder.personal](/_personal/bio/Medicine/Anatomy/Human_digestive_System/Urinary_Bladder.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Anatomy/Human_digestive_System/Urinary_Bladder.personal|Urinary_Bladder.personal]] 
 
-### #is_/same_as :: [Urinary_Bladder.secret](/_secret/bio/Medicine/Anatomy/Human_digestive_System/Urinary_Bladder.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Anatomy/Human_digestive_System/Urinary_Bladder.secret|Urinary_Bladder.secret]] 
 

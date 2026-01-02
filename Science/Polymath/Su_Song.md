@@ -75,17 +75,17 @@ date_of_death: 1101-01-01T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Su_Song](/_Standards/Science/Polymath/Su_Song.md) 
+### #is_/same_as :: [[/_Standards/Science/Polymath/Su_Song|Su_Song]] 
 
-### #is_/same_as :: [Su_Song.public](/_public/Science/Polymath/Su_Song.public.md) 
+### #is_/same_as :: [[/_public/Science/Polymath/Su_Song.public|Su_Song.public]] 
 
-### #is_/same_as :: [Su_Song.internal](/_internal/Science/Polymath/Su_Song.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Polymath/Su_Song.internal|Su_Song.internal]] 
 
-### #is_/same_as :: [Su_Song.protect](/_protect/Science/Polymath/Su_Song.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Polymath/Su_Song.protect|Su_Song.protect]] 
 
-### #is_/same_as :: [Su_Song.private](/_private/Science/Polymath/Su_Song.private.md) 
+### #is_/same_as :: [[/_private/Science/Polymath/Su_Song.private|Su_Song.private]] 
 
-### #is_/same_as :: [Su_Song.personal](/_personal/Science/Polymath/Su_Song.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Polymath/Su_Song.personal|Su_Song.personal]] 
 
-### #is_/same_as :: [Su_Song.secret](/_secret/Science/Polymath/Su_Song.secret.md)
+### #is_/same_as :: [[/_secret/Science/Polymath/Su_Song.secret|Su_Song.secret]] 
 

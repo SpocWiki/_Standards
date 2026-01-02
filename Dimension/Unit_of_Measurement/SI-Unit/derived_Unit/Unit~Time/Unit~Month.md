@@ -83,17 +83,17 @@ Commons_category: Months
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Unit~Month](/_Standards/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Unit~Month.md) 
+### #is_/same_as :: [[/_Standards/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Unit~Month|Unit~Month]] 
 
-### #is_/same_as :: [Unit~Month.public](/_public/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Unit~Month.public.md) 
+### #is_/same_as :: [[/_public/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Unit~Month.public|Unit~Month.public]] 
 
-### #is_/same_as :: [Unit~Month.internal](/_internal/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Unit~Month.internal.md) 
+### #is_/same_as :: [[/_internal/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Unit~Month.internal|Unit~Month.internal]] 
 
-### #is_/same_as :: [Unit~Month.protect](/_protect/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Unit~Month.protect.md) 
+### #is_/same_as :: [[/_protect/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Unit~Month.protect|Unit~Month.protect]] 
 
-### #is_/same_as :: [Unit~Month.private](/_private/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Unit~Month.private.md) 
+### #is_/same_as :: [[/_private/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Unit~Month.private|Unit~Month.private]] 
 
-### #is_/same_as :: [Unit~Month.personal](/_personal/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Unit~Month.personal.md) 
+### #is_/same_as :: [[/_personal/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Unit~Month.personal|Unit~Month.personal]] 
 
-### #is_/same_as :: [Unit~Month.secret](/_secret/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Unit~Month.secret.md)
+### #is_/same_as :: [[/_secret/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Unit~Month.secret|Unit~Month.secret]] 
 

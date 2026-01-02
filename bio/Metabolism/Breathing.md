@@ -36,17 +36,17 @@ video: http://commons.wikimedia.org/wiki/Special:FilePath/So%20wichtig%20ist%20t
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Breathing](/_Standards/bio/Metabolism/Breathing.md) 
+### #is_/same_as :: [[/_Standards/bio/Metabolism/Breathing|Breathing]] 
 
-### #is_/same_as :: [Breathing.public](/_public/bio/Metabolism/Breathing.public.md) 
+### #is_/same_as :: [[/_public/bio/Metabolism/Breathing.public|Breathing.public]] 
 
-### #is_/same_as :: [Breathing.internal](/_internal/bio/Metabolism/Breathing.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Metabolism/Breathing.internal|Breathing.internal]] 
 
-### #is_/same_as :: [Breathing.protect](/_protect/bio/Metabolism/Breathing.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Metabolism/Breathing.protect|Breathing.protect]] 
 
-### #is_/same_as :: [Breathing.private](/_private/bio/Metabolism/Breathing.private.md) 
+### #is_/same_as :: [[/_private/bio/Metabolism/Breathing.private|Breathing.private]] 
 
-### #is_/same_as :: [Breathing.personal](/_personal/bio/Metabolism/Breathing.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Metabolism/Breathing.personal|Breathing.personal]] 
 
-### #is_/same_as :: [Breathing.secret](/_secret/bio/Metabolism/Breathing.secret.md)
+### #is_/same_as :: [[/_secret/bio/Metabolism/Breathing.secret|Breathing.secret]] 
 

@@ -77,3 +77,22 @@ birth_name: Ann Dustin Wilson
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Ann%20Wilson) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Musician/Music~Band/Heart(Band)/Wilson,Ann|Wilson,Ann]] 
+
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Musician/Music~Band/Heart(Band)/Wilson,Ann.public|Wilson,Ann.public]] 
+
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Musician/Music~Band/Heart(Band)/Wilson,Ann.internal|Wilson,Ann.internal]] 
+
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Musician/Music~Band/Heart(Band)/Wilson,Ann.protect|Wilson,Ann.protect]] 
+
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Musician/Music~Band/Heart(Band)/Wilson,Ann.private|Wilson,Ann.private]] 
+
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Musician/Music~Band/Heart(Band)/Wilson,Ann.personal|Wilson,Ann.personal]] 
+
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Musician/Music~Band/Heart(Band)/Wilson,Ann.secret|Wilson,Ann.secret]] 
+

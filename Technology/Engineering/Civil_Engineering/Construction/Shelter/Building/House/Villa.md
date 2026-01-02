@@ -56,17 +56,17 @@ Dewey_Decimal_Classification:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Villa](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Villa.md) 
+### #is_/same_as :: [[/_Standards/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Villa|Villa]] 
 
-### #is_/same_as :: [Villa.public](/_public/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Villa.public.md) 
+### #is_/same_as :: [[/_public/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Villa.public|Villa.public]] 
 
-### #is_/same_as :: [Villa.internal](/_internal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Villa.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Villa.internal|Villa.internal]] 
 
-### #is_/same_as :: [Villa.protect](/_protect/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Villa.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Villa.protect|Villa.protect]] 
 
-### #is_/same_as :: [Villa.private](/_private/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Villa.private.md) 
+### #is_/same_as :: [[/_private/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Villa.private|Villa.private]] 
 
-### #is_/same_as :: [Villa.personal](/_personal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Villa.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Villa.personal|Villa.personal]] 
 
-### #is_/same_as :: [Villa.secret](/_secret/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Villa.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Villa.secret|Villa.secret]] 
 

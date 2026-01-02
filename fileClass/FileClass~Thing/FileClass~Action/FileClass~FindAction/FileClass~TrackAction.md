@@ -47,17 +47,17 @@ DeliveryMethod:: {"type":"Select","options":{"valuesList":{"LockerDelivery","OnS
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~TrackAction](/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~FindAction/FileClass~TrackAction.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~FindAction/FileClass~TrackAction|FileClass~TrackAction]] 
 
-### #is_/same_as :: [FileClass~TrackAction.public](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~FindAction/FileClass~TrackAction.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~FindAction/FileClass~TrackAction.public|FileClass~TrackAction.public]] 
 
-### #is_/same_as :: [FileClass~TrackAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~FindAction/FileClass~TrackAction.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~FindAction/FileClass~TrackAction.internal|FileClass~TrackAction.internal]] 
 
-### #is_/same_as :: [FileClass~TrackAction.protect](/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~FindAction/FileClass~TrackAction.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~FindAction/FileClass~TrackAction.protect|FileClass~TrackAction.protect]] 
 
-### #is_/same_as :: [FileClass~TrackAction.private](/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~FindAction/FileClass~TrackAction.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~FindAction/FileClass~TrackAction.private|FileClass~TrackAction.private]] 
 
-### #is_/same_as :: [FileClass~TrackAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~FindAction/FileClass~TrackAction.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~FindAction/FileClass~TrackAction.personal|FileClass~TrackAction.personal]] 
 
-### #is_/same_as :: [FileClass~TrackAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~FindAction/FileClass~TrackAction.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~FindAction/FileClass~TrackAction.secret|FileClass~TrackAction.secret]] 
 

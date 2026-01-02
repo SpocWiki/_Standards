@@ -61,17 +61,17 @@ video: http://commons.wikimedia.org/wiki/Special:FilePath/Tornado%20time%20lapse
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Tornado](/_Standards/Earth/Climate/Weather/Tornado.md) 
+### #is_/same_as :: [[/_Standards/Earth/Climate/Weather/Tornado|Tornado]] 
 
-### #is_/same_as :: [Tornado.public](/_public/Earth/Climate/Weather/Tornado.public.md) 
+### #is_/same_as :: [[/_public/Earth/Climate/Weather/Tornado.public|Tornado.public]] 
 
-### #is_/same_as :: [Tornado.internal](/_internal/Earth/Climate/Weather/Tornado.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Climate/Weather/Tornado.internal|Tornado.internal]] 
 
-### #is_/same_as :: [Tornado.protect](/_protect/Earth/Climate/Weather/Tornado.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Climate/Weather/Tornado.protect|Tornado.protect]] 
 
-### #is_/same_as :: [Tornado.private](/_private/Earth/Climate/Weather/Tornado.private.md) 
+### #is_/same_as :: [[/_private/Earth/Climate/Weather/Tornado.private|Tornado.private]] 
 
-### #is_/same_as :: [Tornado.personal](/_personal/Earth/Climate/Weather/Tornado.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Climate/Weather/Tornado.personal|Tornado.personal]] 
 
-### #is_/same_as :: [Tornado.secret](/_secret/Earth/Climate/Weather/Tornado.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Climate/Weather/Tornado.secret|Tornado.secret]] 
 

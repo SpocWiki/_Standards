@@ -70,17 +70,17 @@ Krugosvet_article_archived_: nauka_i_tehnika/biologiya/PARAZITIZM.html
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Parasitism](/_Standards/bio/Metabolism/Parasitism.md) 
+### #is_/same_as :: [[/_Standards/bio/Metabolism/Parasitism|Parasitism]] 
 
-### #is_/same_as :: [Parasitism.public](/_public/bio/Metabolism/Parasitism.public.md) 
+### #is_/same_as :: [[/_public/bio/Metabolism/Parasitism.public|Parasitism.public]] 
 
-### #is_/same_as :: [Parasitism.internal](/_internal/bio/Metabolism/Parasitism.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Metabolism/Parasitism.internal|Parasitism.internal]] 
 
-### #is_/same_as :: [Parasitism.protect](/_protect/bio/Metabolism/Parasitism.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Metabolism/Parasitism.protect|Parasitism.protect]] 
 
-### #is_/same_as :: [Parasitism.private](/_private/bio/Metabolism/Parasitism.private.md) 
+### #is_/same_as :: [[/_private/bio/Metabolism/Parasitism.private|Parasitism.private]] 
 
-### #is_/same_as :: [Parasitism.personal](/_personal/bio/Metabolism/Parasitism.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Metabolism/Parasitism.personal|Parasitism.personal]] 
 
-### #is_/same_as :: [Parasitism.secret](/_secret/bio/Metabolism/Parasitism.secret.md)
+### #is_/same_as :: [[/_secret/bio/Metabolism/Parasitism.secret|Parasitism.secret]] 
 

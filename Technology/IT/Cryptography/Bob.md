@@ -24,3 +24,21 @@ in Cryptography.
 > compared to fewer than 50 in 2000.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Bob%20(given%20name)) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Technology/IT/Cryptography/Bob|Bob]] 
+
+### #is_/same_as :: [[/_public/Technology/IT/Cryptography/Bob.public|Bob.public]] 
+
+### #is_/same_as :: [[/_internal/Technology/IT/Cryptography/Bob.internal|Bob.internal]] 
+
+### #is_/same_as :: [[/_protect/Technology/IT/Cryptography/Bob.protect|Bob.protect]] 
+
+### #is_/same_as :: [[/_private/Technology/IT/Cryptography/Bob.private|Bob.private]] 
+
+### #is_/same_as :: [[/_personal/Technology/IT/Cryptography/Bob.personal|Bob.personal]] 
+
+### #is_/same_as :: [[/_secret/Technology/IT/Cryptography/Bob.secret|Bob.secret]] 
+

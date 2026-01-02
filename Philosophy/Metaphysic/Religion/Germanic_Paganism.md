@@ -30,17 +30,17 @@ Commons_category: Germanic mythology
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Germanic_Paganism](/_Standards/Philosophy/Metaphysic/Religion/Germanic_Paganism.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Germanic_Paganism|Germanic_Paganism]] 
 
-### #is_/same_as :: [Germanic_Paganism.public](/_public/Philosophy/Metaphysic/Religion/Germanic_Paganism.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Germanic_Paganism.public|Germanic_Paganism.public]] 
 
-### #is_/same_as :: [Germanic_Paganism.internal](/_internal/Philosophy/Metaphysic/Religion/Germanic_Paganism.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Germanic_Paganism.internal|Germanic_Paganism.internal]] 
 
-### #is_/same_as :: [Germanic_Paganism.protect](/_protect/Philosophy/Metaphysic/Religion/Germanic_Paganism.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Germanic_Paganism.protect|Germanic_Paganism.protect]] 
 
-### #is_/same_as :: [Germanic_Paganism.private](/_private/Philosophy/Metaphysic/Religion/Germanic_Paganism.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Germanic_Paganism.private|Germanic_Paganism.private]] 
 
-### #is_/same_as :: [Germanic_Paganism.personal](/_personal/Philosophy/Metaphysic/Religion/Germanic_Paganism.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Germanic_Paganism.personal|Germanic_Paganism.personal]] 
 
-### #is_/same_as :: [Germanic_Paganism.secret](/_secret/Philosophy/Metaphysic/Religion/Germanic_Paganism.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Germanic_Paganism.secret|Germanic_Paganism.secret]] 
 

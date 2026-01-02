@@ -61,17 +61,17 @@ name_in_native_language: Κύκλωπες
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Cyclops](/_Standards/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Cyclops.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Cyclops|Cyclops]] 
 
-### #is_/same_as :: [Cyclops.public](/_public/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Cyclops.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Cyclops.public|Cyclops.public]] 
 
-### #is_/same_as :: [Cyclops.internal](/_internal/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Cyclops.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Cyclops.internal|Cyclops.internal]] 
 
-### #is_/same_as :: [Cyclops.protect](/_protect/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Cyclops.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Cyclops.protect|Cyclops.protect]] 
 
-### #is_/same_as :: [Cyclops.private](/_private/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Cyclops.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Cyclops.private|Cyclops.private]] 
 
-### #is_/same_as :: [Cyclops.personal](/_personal/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Cyclops.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Cyclops.personal|Cyclops.personal]] 
 
-### #is_/same_as :: [Cyclops.secret](/_secret/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Cyclops.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Cyclops.secret|Cyclops.secret]] 
 

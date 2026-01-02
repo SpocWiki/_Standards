@@ -51,17 +51,17 @@ described_at_URL:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Electron_Configuration](/_Standards/Science/Physics/Atom/Electron_Configuration.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Atom/Electron_Configuration|Electron_Configuration]] 
 
-### #is_/same_as :: [Electron_Configuration.public](/_public/Science/Physics/Atom/Electron_Configuration.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Atom/Electron_Configuration.public|Electron_Configuration.public]] 
 
-### #is_/same_as :: [Electron_Configuration.internal](/_internal/Science/Physics/Atom/Electron_Configuration.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Atom/Electron_Configuration.internal|Electron_Configuration.internal]] 
 
-### #is_/same_as :: [Electron_Configuration.protect](/_protect/Science/Physics/Atom/Electron_Configuration.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Atom/Electron_Configuration.protect|Electron_Configuration.protect]] 
 
-### #is_/same_as :: [Electron_Configuration.private](/_private/Science/Physics/Atom/Electron_Configuration.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Atom/Electron_Configuration.private|Electron_Configuration.private]] 
 
-### #is_/same_as :: [Electron_Configuration.personal](/_personal/Science/Physics/Atom/Electron_Configuration.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Atom/Electron_Configuration.personal|Electron_Configuration.personal]] 
 
-### #is_/same_as :: [Electron_Configuration.secret](/_secret/Science/Physics/Atom/Electron_Configuration.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Atom/Electron_Configuration.secret|Electron_Configuration.secret]] 
 

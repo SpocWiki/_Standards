@@ -75,17 +75,17 @@ MeSH_tree_code: F01.658.780
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Power(social)](/_Standards/Society/Anthropology/Sociology/Power(social).md) 
+### #is_/same_as :: [[/_Standards/Society/Anthropology/Sociology/Power(social)|Power(social)]] 
 
-### #is_/same_as :: [Power(social).public](/_public/Society/Anthropology/Sociology/Power(social).public.md) 
+### #is_/same_as :: [[/_public/Society/Anthropology/Sociology/Power(social).public|Power(social).public]] 
 
-### #is_/same_as :: [Power(social).internal](/_internal/Society/Anthropology/Sociology/Power(social).internal.md) 
+### #is_/same_as :: [[/_internal/Society/Anthropology/Sociology/Power(social).internal|Power(social).internal]] 
 
-### #is_/same_as :: [Power(social).protect](/_protect/Society/Anthropology/Sociology/Power(social).protect.md) 
+### #is_/same_as :: [[/_protect/Society/Anthropology/Sociology/Power(social).protect|Power(social).protect]] 
 
-### #is_/same_as :: [Power(social).private](/_private/Society/Anthropology/Sociology/Power(social).private.md) 
+### #is_/same_as :: [[/_private/Society/Anthropology/Sociology/Power(social).private|Power(social).private]] 
 
-### #is_/same_as :: [Power(social).personal](/_personal/Society/Anthropology/Sociology/Power(social).personal.md) 
+### #is_/same_as :: [[/_personal/Society/Anthropology/Sociology/Power(social).personal|Power(social).personal]] 
 
-### #is_/same_as :: [Power(social).secret](/_secret/Society/Anthropology/Sociology/Power(social).secret.md)
+### #is_/same_as :: [[/_secret/Society/Anthropology/Sociology/Power(social).secret|Power(social).secret]] 
 

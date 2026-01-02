@@ -107,17 +107,17 @@ type: folder_brief_live
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Continent](/_Standards/Earth/Continent.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent|Continent]] 
 
-### #is_/same_as :: [Continent.public](/_public/Earth/Continent.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent.public|Continent.public]] 
 
-### #is_/same_as :: [Continent.internal](/_internal/Earth/Continent.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent.internal|Continent.internal]] 
 
-### #is_/same_as :: [Continent.protect](/_protect/Earth/Continent.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent.protect|Continent.protect]] 
 
-### #is_/same_as :: [Continent.private](/_private/Earth/Continent.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent.private|Continent.private]] 
 
-### #is_/same_as :: [Continent.personal](/_personal/Earth/Continent.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent.personal|Continent.personal]] 
 
-### #is_/same_as :: [Continent.secret](/_secret/Earth/Continent.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent.secret|Continent.secret]] 
 

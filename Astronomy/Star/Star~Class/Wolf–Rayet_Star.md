@@ -52,17 +52,17 @@ Commons_category: Wolf-Rayet stars
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Wolf–Rayet_Star](/_Standards/Astronomy/Star/Star~Class/Wolf–Rayet_Star.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Star/Star~Class/Wolf–Rayet_Star|Wolf–Rayet_Star]] 
 
-### #is_/same_as :: [Wolf–Rayet_Star.public](/_public/Astronomy/Star/Star~Class/Wolf–Rayet_Star.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Star/Star~Class/Wolf–Rayet_Star.public|Wolf–Rayet_Star.public]] 
 
-### #is_/same_as :: [Wolf–Rayet_Star.internal](/_internal/Astronomy/Star/Star~Class/Wolf–Rayet_Star.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Star/Star~Class/Wolf–Rayet_Star.internal|Wolf–Rayet_Star.internal]] 
 
-### #is_/same_as :: [Wolf–Rayet_Star.protect](/_protect/Astronomy/Star/Star~Class/Wolf–Rayet_Star.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Star/Star~Class/Wolf–Rayet_Star.protect|Wolf–Rayet_Star.protect]] 
 
-### #is_/same_as :: [Wolf–Rayet_Star.private](/_private/Astronomy/Star/Star~Class/Wolf–Rayet_Star.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Star/Star~Class/Wolf–Rayet_Star.private|Wolf–Rayet_Star.private]] 
 
-### #is_/same_as :: [Wolf–Rayet_Star.personal](/_personal/Astronomy/Star/Star~Class/Wolf–Rayet_Star.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Star/Star~Class/Wolf–Rayet_Star.personal|Wolf–Rayet_Star.personal]] 
 
-### #is_/same_as :: [Wolf–Rayet_Star.secret](/_secret/Astronomy/Star/Star~Class/Wolf–Rayet_Star.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Star/Star~Class/Wolf–Rayet_Star.secret|Wolf–Rayet_Star.secret]] 
 

@@ -49,17 +49,17 @@ OpenStreetMap_tag: place=polder
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Polder](/_Standards/Earth/Geology/Landform/Polder.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geology/Landform/Polder|Polder]] 
 
-### #is_/same_as :: [Polder.public](/_public/Earth/Geology/Landform/Polder.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geology/Landform/Polder.public|Polder.public]] 
 
-### #is_/same_as :: [Polder.internal](/_internal/Earth/Geology/Landform/Polder.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geology/Landform/Polder.internal|Polder.internal]] 
 
-### #is_/same_as :: [Polder.protect](/_protect/Earth/Geology/Landform/Polder.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geology/Landform/Polder.protect|Polder.protect]] 
 
-### #is_/same_as :: [Polder.private](/_private/Earth/Geology/Landform/Polder.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geology/Landform/Polder.private|Polder.private]] 
 
-### #is_/same_as :: [Polder.personal](/_personal/Earth/Geology/Landform/Polder.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geology/Landform/Polder.personal|Polder.personal]] 
 
-### #is_/same_as :: [Polder.secret](/_secret/Earth/Geology/Landform/Polder.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geology/Landform/Polder.secret|Polder.secret]] 
 

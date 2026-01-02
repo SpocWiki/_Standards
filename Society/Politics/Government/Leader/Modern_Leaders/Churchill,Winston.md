@@ -318,17 +318,17 @@ writing_language:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Churchill,Winston](/_Standards/Society/Politics/Government/Leader/Modern_Leaders/Churchill,Winston.md) 
+### #is_/same_as :: [[/_Standards/Society/Politics/Government/Leader/Modern_Leaders/Churchill,Winston|Churchill,Winston]] 
 
-### #is_/same_as :: [Churchill,Winston.public](/_public/Society/Politics/Government/Leader/Modern_Leaders/Churchill,Winston.public.md) 
+### #is_/same_as :: [[/_public/Society/Politics/Government/Leader/Modern_Leaders/Churchill,Winston.public|Churchill,Winston.public]] 
 
-### #is_/same_as :: [Churchill,Winston.internal](/_internal/Society/Politics/Government/Leader/Modern_Leaders/Churchill,Winston.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Politics/Government/Leader/Modern_Leaders/Churchill,Winston.internal|Churchill,Winston.internal]] 
 
-### #is_/same_as :: [Churchill,Winston.protect](/_protect/Society/Politics/Government/Leader/Modern_Leaders/Churchill,Winston.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Politics/Government/Leader/Modern_Leaders/Churchill,Winston.protect|Churchill,Winston.protect]] 
 
-### #is_/same_as :: [Churchill,Winston.private](/_private/Society/Politics/Government/Leader/Modern_Leaders/Churchill,Winston.private.md) 
+### #is_/same_as :: [[/_private/Society/Politics/Government/Leader/Modern_Leaders/Churchill,Winston.private|Churchill,Winston.private]] 
 
-### #is_/same_as :: [Churchill,Winston.personal](/_personal/Society/Politics/Government/Leader/Modern_Leaders/Churchill,Winston.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Politics/Government/Leader/Modern_Leaders/Churchill,Winston.personal|Churchill,Winston.personal]] 
 
-### #is_/same_as :: [Churchill,Winston.secret](/_secret/Society/Politics/Government/Leader/Modern_Leaders/Churchill,Winston.secret.md)
+### #is_/same_as :: [[/_secret/Society/Politics/Government/Leader/Modern_Leaders/Churchill,Winston.secret|Churchill,Winston.secret]] 
 

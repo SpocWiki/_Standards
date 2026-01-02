@@ -164,17 +164,17 @@ ISNI: 0000000121451116
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Rousseau,Jean-Jacques](/_Standards/Philosophy/Philosopher/Early_modern_Philosopher/Rousseau,Jean-Jacques.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Philosopher/Early_modern_Philosopher/Rousseau,Jean-Jacques|Rousseau,Jean-Jacques]] 
 
-### #is_/same_as :: [Rousseau,Jean-Jacques.public](/_public/Philosophy/Philosopher/Early_modern_Philosopher/Rousseau,Jean-Jacques.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Philosopher/Early_modern_Philosopher/Rousseau,Jean-Jacques.public|Rousseau,Jean-Jacques.public]] 
 
-### #is_/same_as :: [Rousseau,Jean-Jacques.internal](/_internal/Philosophy/Philosopher/Early_modern_Philosopher/Rousseau,Jean-Jacques.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Philosopher/Early_modern_Philosopher/Rousseau,Jean-Jacques.internal|Rousseau,Jean-Jacques.internal]] 
 
-### #is_/same_as :: [Rousseau,Jean-Jacques.protect](/_protect/Philosophy/Philosopher/Early_modern_Philosopher/Rousseau,Jean-Jacques.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Philosopher/Early_modern_Philosopher/Rousseau,Jean-Jacques.protect|Rousseau,Jean-Jacques.protect]] 
 
-### #is_/same_as :: [Rousseau,Jean-Jacques.private](/_private/Philosophy/Philosopher/Early_modern_Philosopher/Rousseau,Jean-Jacques.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Philosopher/Early_modern_Philosopher/Rousseau,Jean-Jacques.private|Rousseau,Jean-Jacques.private]] 
 
-### #is_/same_as :: [Rousseau,Jean-Jacques.personal](/_personal/Philosophy/Philosopher/Early_modern_Philosopher/Rousseau,Jean-Jacques.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Philosopher/Early_modern_Philosopher/Rousseau,Jean-Jacques.personal|Rousseau,Jean-Jacques.personal]] 
 
-### #is_/same_as :: [Rousseau,Jean-Jacques.secret](/_secret/Philosophy/Philosopher/Early_modern_Philosopher/Rousseau,Jean-Jacques.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Philosopher/Early_modern_Philosopher/Rousseau,Jean-Jacques.secret|Rousseau,Jean-Jacques.secret]] 
 

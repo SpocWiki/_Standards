@@ -49,17 +49,17 @@ subclass_of: '[[_Standards/WikiData/WD~multicellular_organismal_process,22299433
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Digestion](/_Standards/bio/Metabolism/Digestion.md) 
+### #is_/same_as :: [[/_Standards/bio/Metabolism/Digestion|Digestion]] 
 
-### #is_/same_as :: [Digestion.public](/_public/bio/Metabolism/Digestion.public.md) 
+### #is_/same_as :: [[/_public/bio/Metabolism/Digestion.public|Digestion.public]] 
 
-### #is_/same_as :: [Digestion.internal](/_internal/bio/Metabolism/Digestion.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Metabolism/Digestion.internal|Digestion.internal]] 
 
-### #is_/same_as :: [Digestion.protect](/_protect/bio/Metabolism/Digestion.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Metabolism/Digestion.protect|Digestion.protect]] 
 
-### #is_/same_as :: [Digestion.private](/_private/bio/Metabolism/Digestion.private.md) 
+### #is_/same_as :: [[/_private/bio/Metabolism/Digestion.private|Digestion.private]] 
 
-### #is_/same_as :: [Digestion.personal](/_personal/bio/Metabolism/Digestion.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Metabolism/Digestion.personal|Digestion.personal]] 
 
-### #is_/same_as :: [Digestion.secret](/_secret/bio/Metabolism/Digestion.secret.md)
+### #is_/same_as :: [[/_secret/bio/Metabolism/Digestion.secret|Digestion.secret]] 
 

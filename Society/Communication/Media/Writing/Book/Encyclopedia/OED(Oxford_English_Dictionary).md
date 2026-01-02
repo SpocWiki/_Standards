@@ -44,17 +44,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [OED(Oxford_English_Dictionary)](/_Standards/Society/Communication/Media/Writing/Book/Encyclopedia/OED(Oxford_English_Dictionary).md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Encyclopedia/OED(Oxford_English_Dictionary)|OED(Oxford_English_Dictionary)]] 
 
-### #is_/same_as :: [OED(Oxford_English_Dictionary).public](/_public/Society/Communication/Media/Writing/Book/Encyclopedia/OED(Oxford_English_Dictionary).public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Encyclopedia/OED(Oxford_English_Dictionary).public|OED(Oxford_English_Dictionary).public]] 
 
-### #is_/same_as :: [OED(Oxford_English_Dictionary).internal](/_internal/Society/Communication/Media/Writing/Book/Encyclopedia/OED(Oxford_English_Dictionary).internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Encyclopedia/OED(Oxford_English_Dictionary).internal|OED(Oxford_English_Dictionary).internal]] 
 
-### #is_/same_as :: [OED(Oxford_English_Dictionary).protect](/_protect/Society/Communication/Media/Writing/Book/Encyclopedia/OED(Oxford_English_Dictionary).protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Encyclopedia/OED(Oxford_English_Dictionary).protect|OED(Oxford_English_Dictionary).protect]] 
 
-### #is_/same_as :: [OED(Oxford_English_Dictionary).private](/_private/Society/Communication/Media/Writing/Book/Encyclopedia/OED(Oxford_English_Dictionary).private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Encyclopedia/OED(Oxford_English_Dictionary).private|OED(Oxford_English_Dictionary).private]] 
 
-### #is_/same_as :: [OED(Oxford_English_Dictionary).personal](/_personal/Society/Communication/Media/Writing/Book/Encyclopedia/OED(Oxford_English_Dictionary).personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Encyclopedia/OED(Oxford_English_Dictionary).personal|OED(Oxford_English_Dictionary).personal]] 
 
-### #is_/same_as :: [OED(Oxford_English_Dictionary).secret](/_secret/Society/Communication/Media/Writing/Book/Encyclopedia/OED(Oxford_English_Dictionary).secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Encyclopedia/OED(Oxford_English_Dictionary).secret|OED(Oxford_English_Dictionary).secret]] 
 

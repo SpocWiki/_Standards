@@ -274,17 +274,17 @@ Source Collection    [Public Health Image Library](http://phil.cdc.gov/Phil/defa
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Virus](/_Standards/bio/bio~Domain/Virus.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Virus|Virus]] 
 
-### #is_/same_as :: [Virus.public](/_public/bio/bio~Domain/Virus.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Virus.public|Virus.public]] 
 
-### #is_/same_as :: [Virus.internal](/_internal/bio/bio~Domain/Virus.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Virus.internal|Virus.internal]] 
 
-### #is_/same_as :: [Virus.protect](/_protect/bio/bio~Domain/Virus.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Virus.protect|Virus.protect]] 
 
-### #is_/same_as :: [Virus.private](/_private/bio/bio~Domain/Virus.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Virus.private|Virus.private]] 
 
-### #is_/same_as :: [Virus.personal](/_personal/bio/bio~Domain/Virus.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Virus.personal|Virus.personal]] 
 
-### #is_/same_as :: [Virus.secret](/_secret/bio/bio~Domain/Virus.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Virus.secret|Virus.secret]] 
 

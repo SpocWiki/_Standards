@@ -119,17 +119,17 @@ markerFolder: ./Southern_Ocean/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Southern_Ocean](/_Standards/Earth/Ocean/Southern_Ocean.md) 
+### #is_/same_as :: [[/_Standards/Earth/Ocean/Southern_Ocean|Southern_Ocean]] 
 
-### #is_/same_as :: [Southern_Ocean.public](/_public/Earth/Ocean/Southern_Ocean.public.md) 
+### #is_/same_as :: [[/_public/Earth/Ocean/Southern_Ocean.public|Southern_Ocean.public]] 
 
-### #is_/same_as :: [Southern_Ocean.internal](/_internal/Earth/Ocean/Southern_Ocean.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Ocean/Southern_Ocean.internal|Southern_Ocean.internal]] 
 
-### #is_/same_as :: [Southern_Ocean.protect](/_protect/Earth/Ocean/Southern_Ocean.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Ocean/Southern_Ocean.protect|Southern_Ocean.protect]] 
 
-### #is_/same_as :: [Southern_Ocean.private](/_private/Earth/Ocean/Southern_Ocean.private.md) 
+### #is_/same_as :: [[/_private/Earth/Ocean/Southern_Ocean.private|Southern_Ocean.private]] 
 
-### #is_/same_as :: [Southern_Ocean.personal](/_personal/Earth/Ocean/Southern_Ocean.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Ocean/Southern_Ocean.personal|Southern_Ocean.personal]] 
 
-### #is_/same_as :: [Southern_Ocean.secret](/_secret/Earth/Ocean/Southern_Ocean.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Ocean/Southern_Ocean.secret|Southern_Ocean.secret]] 
 

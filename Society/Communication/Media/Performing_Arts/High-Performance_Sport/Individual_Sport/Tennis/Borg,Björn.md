@@ -310,17 +310,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Borg,Björn](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Tennis/Borg,Björn.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Tennis/Borg,Björn|Borg,Björn]] 
 
-### #is_/same_as :: [Borg,Björn.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Tennis/Borg,Björn.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Tennis/Borg,Björn.public|Borg,Björn.public]] 
 
-### #is_/same_as :: [Borg,Björn.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Tennis/Borg,Björn.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Tennis/Borg,Björn.internal|Borg,Björn.internal]] 
 
-### #is_/same_as :: [Borg,Björn.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Tennis/Borg,Björn.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Tennis/Borg,Björn.protect|Borg,Björn.protect]] 
 
-### #is_/same_as :: [Borg,Björn.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Tennis/Borg,Björn.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Tennis/Borg,Björn.private|Borg,Björn.private]] 
 
-### #is_/same_as :: [Borg,Björn.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Tennis/Borg,Björn.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Tennis/Borg,Björn.personal|Borg,Björn.personal]] 
 
-### #is_/same_as :: [Borg,Björn.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Tennis/Borg,Björn.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Tennis/Borg,Björn.secret|Borg,Björn.secret]] 
 

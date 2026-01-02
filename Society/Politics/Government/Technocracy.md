@@ -50,17 +50,17 @@ Commons_category: Technocracy
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Technocracy](/_Standards/Society/Politics/Government/Technocracy.md) 
+### #is_/same_as :: [[/_Standards/Society/Politics/Government/Technocracy|Technocracy]] 
 
-### #is_/same_as :: [Technocracy.public](/_public/Society/Politics/Government/Technocracy.public.md) 
+### #is_/same_as :: [[/_public/Society/Politics/Government/Technocracy.public|Technocracy.public]] 
 
-### #is_/same_as :: [Technocracy.internal](/_internal/Society/Politics/Government/Technocracy.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Politics/Government/Technocracy.internal|Technocracy.internal]] 
 
-### #is_/same_as :: [Technocracy.protect](/_protect/Society/Politics/Government/Technocracy.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Politics/Government/Technocracy.protect|Technocracy.protect]] 
 
-### #is_/same_as :: [Technocracy.private](/_private/Society/Politics/Government/Technocracy.private.md) 
+### #is_/same_as :: [[/_private/Society/Politics/Government/Technocracy.private|Technocracy.private]] 
 
-### #is_/same_as :: [Technocracy.personal](/_personal/Society/Politics/Government/Technocracy.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Politics/Government/Technocracy.personal|Technocracy.personal]] 
 
-### #is_/same_as :: [Technocracy.secret](/_secret/Society/Politics/Government/Technocracy.secret.md)
+### #is_/same_as :: [[/_secret/Society/Politics/Government/Technocracy.secret|Technocracy.secret]] 
 

@@ -58,17 +58,17 @@ MeSH_tree_code: J01.576.423.200.387
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Food_Storage](/_Standards/Society/Economics/Home_Economics/Food_Storage.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Home_Economics/Food_Storage|Food_Storage]] 
 
-### #is_/same_as :: [Food_Storage.public](/_public/Society/Economics/Home_Economics/Food_Storage.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Home_Economics/Food_Storage.public|Food_Storage.public]] 
 
-### #is_/same_as :: [Food_Storage.internal](/_internal/Society/Economics/Home_Economics/Food_Storage.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Home_Economics/Food_Storage.internal|Food_Storage.internal]] 
 
-### #is_/same_as :: [Food_Storage.protect](/_protect/Society/Economics/Home_Economics/Food_Storage.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Home_Economics/Food_Storage.protect|Food_Storage.protect]] 
 
-### #is_/same_as :: [Food_Storage.private](/_private/Society/Economics/Home_Economics/Food_Storage.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Home_Economics/Food_Storage.private|Food_Storage.private]] 
 
-### #is_/same_as :: [Food_Storage.personal](/_personal/Society/Economics/Home_Economics/Food_Storage.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Home_Economics/Food_Storage.personal|Food_Storage.personal]] 
 
-### #is_/same_as :: [Food_Storage.secret](/_secret/Society/Economics/Home_Economics/Food_Storage.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Home_Economics/Food_Storage.secret|Food_Storage.secret]] 
 

@@ -34,17 +34,17 @@ title: Cestodaria
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Cestodaria](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Platyhelminthes/Cestodaria.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Platyhelminthes/Cestodaria|Cestodaria]] 
 
-### #is_/same_as :: [Cestodaria.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Platyhelminthes/Cestodaria.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Platyhelminthes/Cestodaria.public|Cestodaria.public]] 
 
-### #is_/same_as :: [Cestodaria.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Platyhelminthes/Cestodaria.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Platyhelminthes/Cestodaria.internal|Cestodaria.internal]] 
 
-### #is_/same_as :: [Cestodaria.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Platyhelminthes/Cestodaria.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Platyhelminthes/Cestodaria.protect|Cestodaria.protect]] 
 
-### #is_/same_as :: [Cestodaria.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Platyhelminthes/Cestodaria.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Platyhelminthes/Cestodaria.private|Cestodaria.private]] 
 
-### #is_/same_as :: [Cestodaria.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Platyhelminthes/Cestodaria.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Platyhelminthes/Cestodaria.personal|Cestodaria.personal]] 
 
-### #is_/same_as :: [Cestodaria.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Platyhelminthes/Cestodaria.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Platyhelminthes/Cestodaria.secret|Cestodaria.secret]] 
 

@@ -225,17 +225,17 @@ GitHub_topic: wuhan-coronavirus-outbreak
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [COVID-19_pandemic](/_Standards/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Pandemic/COVID-19_pandemic.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Pandemic/COVID-19_pandemic|COVID-19_pandemic]] 
 
-### #is_/same_as :: [COVID-19_pandemic.public](/_public/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Pandemic/COVID-19_pandemic.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Pandemic/COVID-19_pandemic.public|COVID-19_pandemic.public]] 
 
-### #is_/same_as :: [COVID-19_pandemic.internal](/_internal/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Pandemic/COVID-19_pandemic.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Pandemic/COVID-19_pandemic.internal|COVID-19_pandemic.internal]] 
 
-### #is_/same_as :: [COVID-19_pandemic.protect](/_protect/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Pandemic/COVID-19_pandemic.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Pandemic/COVID-19_pandemic.protect|COVID-19_pandemic.protect]] 
 
-### #is_/same_as :: [COVID-19_pandemic.private](/_private/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Pandemic/COVID-19_pandemic.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Pandemic/COVID-19_pandemic.private|COVID-19_pandemic.private]] 
 
-### #is_/same_as :: [COVID-19_pandemic.personal](/_personal/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Pandemic/COVID-19_pandemic.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Pandemic/COVID-19_pandemic.personal|COVID-19_pandemic.personal]] 
 
-### #is_/same_as :: [COVID-19_pandemic.secret](/_secret/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Pandemic/COVID-19_pandemic.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Pandemic/COVID-19_pandemic.secret|COVID-19_pandemic.secret]] 
 

@@ -45,17 +45,17 @@ PhilPapers_topic: social-contract
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Social_Contract](/_Standards/Society/Politics/Social_Contract.md) 
+### #is_/same_as :: [[/_Standards/Society/Politics/Social_Contract|Social_Contract]] 
 
-### #is_/same_as :: [Social_Contract.public](/_public/Society/Politics/Social_Contract.public.md) 
+### #is_/same_as :: [[/_public/Society/Politics/Social_Contract.public|Social_Contract.public]] 
 
-### #is_/same_as :: [Social_Contract.internal](/_internal/Society/Politics/Social_Contract.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Politics/Social_Contract.internal|Social_Contract.internal]] 
 
-### #is_/same_as :: [Social_Contract.protect](/_protect/Society/Politics/Social_Contract.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Politics/Social_Contract.protect|Social_Contract.protect]] 
 
-### #is_/same_as :: [Social_Contract.private](/_private/Society/Politics/Social_Contract.private.md) 
+### #is_/same_as :: [[/_private/Society/Politics/Social_Contract.private|Social_Contract.private]] 
 
-### #is_/same_as :: [Social_Contract.personal](/_personal/Society/Politics/Social_Contract.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Politics/Social_Contract.personal|Social_Contract.personal]] 
 
-### #is_/same_as :: [Social_Contract.secret](/_secret/Society/Politics/Social_Contract.secret.md)
+### #is_/same_as :: [[/_secret/Society/Politics/Social_Contract.secret|Social_Contract.secret]] 
 

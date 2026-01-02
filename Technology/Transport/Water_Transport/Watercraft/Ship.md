@@ -101,17 +101,17 @@ MeSH_tree_code: J01.937.817
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ship](/_Standards/Technology/Transport/Water_Transport/Watercraft/Ship.md) 
+### #is_/same_as :: [[/_Standards/Technology/Transport/Water_Transport/Watercraft/Ship|Ship]] 
 
-### #is_/same_as :: [Ship.public](/_public/Technology/Transport/Water_Transport/Watercraft/Ship.public.md) 
+### #is_/same_as :: [[/_public/Technology/Transport/Water_Transport/Watercraft/Ship.public|Ship.public]] 
 
-### #is_/same_as :: [Ship.internal](/_internal/Technology/Transport/Water_Transport/Watercraft/Ship.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Transport/Water_Transport/Watercraft/Ship.internal|Ship.internal]] 
 
-### #is_/same_as :: [Ship.protect](/_protect/Technology/Transport/Water_Transport/Watercraft/Ship.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Transport/Water_Transport/Watercraft/Ship.protect|Ship.protect]] 
 
-### #is_/same_as :: [Ship.private](/_private/Technology/Transport/Water_Transport/Watercraft/Ship.private.md) 
+### #is_/same_as :: [[/_private/Technology/Transport/Water_Transport/Watercraft/Ship.private|Ship.private]] 
 
-### #is_/same_as :: [Ship.personal](/_personal/Technology/Transport/Water_Transport/Watercraft/Ship.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Transport/Water_Transport/Watercraft/Ship.personal|Ship.personal]] 
 
-### #is_/same_as :: [Ship.secret](/_secret/Technology/Transport/Water_Transport/Watercraft/Ship.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Transport/Water_Transport/Watercraft/Ship.secret|Ship.secret]] 
 

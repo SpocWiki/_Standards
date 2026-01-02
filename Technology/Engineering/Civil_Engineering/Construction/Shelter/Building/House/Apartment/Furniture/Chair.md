@@ -70,17 +70,17 @@ Unicode_character: 🪑
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Chair](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Furniture/Chair.md) 
+### #is_/same_as :: [[/_Standards/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Furniture/Chair|Chair]] 
 
-### #is_/same_as :: [Chair.public](/_public/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Furniture/Chair.public.md) 
+### #is_/same_as :: [[/_public/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Furniture/Chair.public|Chair.public]] 
 
-### #is_/same_as :: [Chair.internal](/_internal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Furniture/Chair.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Furniture/Chair.internal|Chair.internal]] 
 
-### #is_/same_as :: [Chair.protect](/_protect/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Furniture/Chair.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Furniture/Chair.protect|Chair.protect]] 
 
-### #is_/same_as :: [Chair.private](/_private/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Furniture/Chair.private.md) 
+### #is_/same_as :: [[/_private/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Furniture/Chair.private|Chair.private]] 
 
-### #is_/same_as :: [Chair.personal](/_personal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Furniture/Chair.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Furniture/Chair.personal|Chair.personal]] 
 
-### #is_/same_as :: [Chair.secret](/_secret/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Furniture/Chair.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Furniture/Chair.secret|Chair.secret]] 
 

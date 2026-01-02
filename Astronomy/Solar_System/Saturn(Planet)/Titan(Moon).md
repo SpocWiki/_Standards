@@ -103,17 +103,17 @@ time_of_discovery_or_invention: 1655-03-25T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Titan(Moon)](/_Standards/Astronomy/Solar_System/Saturn(Planet)/Titan(Moon).md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Solar_System/Saturn(Planet)/Titan(Moon)|Titan(Moon)]] 
 
-### #is_/same_as :: [Titan(Moon).public](/_public/Astronomy/Solar_System/Saturn(Planet)/Titan(Moon).public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Solar_System/Saturn(Planet)/Titan(Moon).public|Titan(Moon).public]] 
 
-### #is_/same_as :: [Titan(Moon).internal](/_internal/Astronomy/Solar_System/Saturn(Planet)/Titan(Moon).internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Solar_System/Saturn(Planet)/Titan(Moon).internal|Titan(Moon).internal]] 
 
-### #is_/same_as :: [Titan(Moon).protect](/_protect/Astronomy/Solar_System/Saturn(Planet)/Titan(Moon).protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Solar_System/Saturn(Planet)/Titan(Moon).protect|Titan(Moon).protect]] 
 
-### #is_/same_as :: [Titan(Moon).private](/_private/Astronomy/Solar_System/Saturn(Planet)/Titan(Moon).private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Solar_System/Saturn(Planet)/Titan(Moon).private|Titan(Moon).private]] 
 
-### #is_/same_as :: [Titan(Moon).personal](/_personal/Astronomy/Solar_System/Saturn(Planet)/Titan(Moon).personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Solar_System/Saturn(Planet)/Titan(Moon).personal|Titan(Moon).personal]] 
 
-### #is_/same_as :: [Titan(Moon).secret](/_secret/Astronomy/Solar_System/Saturn(Planet)/Titan(Moon).secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Solar_System/Saturn(Planet)/Titan(Moon).secret|Titan(Moon).secret]] 
 

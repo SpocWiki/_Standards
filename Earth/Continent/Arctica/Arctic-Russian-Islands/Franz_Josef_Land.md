@@ -31,17 +31,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Franz_Josef_Land](/_Standards/Earth/Continent/Arctica/Arctic-Russian-Islands/Franz_Josef_Land.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Arctica/Arctic-Russian-Islands/Franz_Josef_Land|Franz_Josef_Land]] 
 
-### #is_/same_as :: [Franz_Josef_Land.public](/_public/Earth/Continent/Arctica/Arctic-Russian-Islands/Franz_Josef_Land.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Arctica/Arctic-Russian-Islands/Franz_Josef_Land.public|Franz_Josef_Land.public]] 
 
-### #is_/same_as :: [Franz_Josef_Land.internal](/_internal/Earth/Continent/Arctica/Arctic-Russian-Islands/Franz_Josef_Land.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Arctica/Arctic-Russian-Islands/Franz_Josef_Land.internal|Franz_Josef_Land.internal]] 
 
-### #is_/same_as :: [Franz_Josef_Land.protect](/_protect/Earth/Continent/Arctica/Arctic-Russian-Islands/Franz_Josef_Land.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Arctica/Arctic-Russian-Islands/Franz_Josef_Land.protect|Franz_Josef_Land.protect]] 
 
-### #is_/same_as :: [Franz_Josef_Land.private](/_private/Earth/Continent/Arctica/Arctic-Russian-Islands/Franz_Josef_Land.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Arctica/Arctic-Russian-Islands/Franz_Josef_Land.private|Franz_Josef_Land.private]] 
 
-### #is_/same_as :: [Franz_Josef_Land.personal](/_personal/Earth/Continent/Arctica/Arctic-Russian-Islands/Franz_Josef_Land.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Arctica/Arctic-Russian-Islands/Franz_Josef_Land.personal|Franz_Josef_Land.personal]] 
 
-### #is_/same_as :: [Franz_Josef_Land.secret](/_secret/Earth/Continent/Arctica/Arctic-Russian-Islands/Franz_Josef_Land.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Arctica/Arctic-Russian-Islands/Franz_Josef_Land.secret|Franz_Josef_Land.secret]] 
 

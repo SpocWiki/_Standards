@@ -53,17 +53,17 @@ Artillery weapon that launches explosive projectiles at high angles.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Mortar(Cannon)](/_Standards/Society/Military/Military_Engineering/Weapon/Artillery/Mortar(Cannon).md) 
+### #is_/same_as :: [[/_Standards/Society/Military/Military_Engineering/Weapon/Artillery/Mortar(Cannon)|Mortar(Cannon)]] 
 
-### #is_/same_as :: [Mortar(Cannon).public](/_public/Society/Military/Military_Engineering/Weapon/Artillery/Mortar(Cannon).public.md) 
+### #is_/same_as :: [[/_public/Society/Military/Military_Engineering/Weapon/Artillery/Mortar(Cannon).public|Mortar(Cannon).public]] 
 
-### #is_/same_as :: [Mortar(Cannon).internal](/_internal/Society/Military/Military_Engineering/Weapon/Artillery/Mortar(Cannon).internal.md) 
+### #is_/same_as :: [[/_internal/Society/Military/Military_Engineering/Weapon/Artillery/Mortar(Cannon).internal|Mortar(Cannon).internal]] 
 
-### #is_/same_as :: [Mortar(Cannon).protect](/_protect/Society/Military/Military_Engineering/Weapon/Artillery/Mortar(Cannon).protect.md) 
+### #is_/same_as :: [[/_protect/Society/Military/Military_Engineering/Weapon/Artillery/Mortar(Cannon).protect|Mortar(Cannon).protect]] 
 
-### #is_/same_as :: [Mortar(Cannon).private](/_private/Society/Military/Military_Engineering/Weapon/Artillery/Mortar(Cannon).private.md) 
+### #is_/same_as :: [[/_private/Society/Military/Military_Engineering/Weapon/Artillery/Mortar(Cannon).private|Mortar(Cannon).private]] 
 
-### #is_/same_as :: [Mortar(Cannon).personal](/_personal/Society/Military/Military_Engineering/Weapon/Artillery/Mortar(Cannon).personal.md) 
+### #is_/same_as :: [[/_personal/Society/Military/Military_Engineering/Weapon/Artillery/Mortar(Cannon).personal|Mortar(Cannon).personal]] 
 
-### #is_/same_as :: [Mortar(Cannon).secret](/_secret/Society/Military/Military_Engineering/Weapon/Artillery/Mortar(Cannon).secret.md)
+### #is_/same_as :: [[/_secret/Society/Military/Military_Engineering/Weapon/Artillery/Mortar(Cannon).secret|Mortar(Cannon).secret]] 
 

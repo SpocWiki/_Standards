@@ -37,17 +37,17 @@ An AnalysisNewsArticle is a [[NewsArticle]] that, while based on factual reporti
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~AnalysisNewsArticle](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~NewsArticle/FileClass~AnalysisNewsArticle.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~NewsArticle/FileClass~AnalysisNewsArticle|FileClass~AnalysisNewsArticle]] 
 
-### #is_/same_as :: [FileClass~AnalysisNewsArticle.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~NewsArticle/FileClass~AnalysisNewsArticle.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~NewsArticle/FileClass~AnalysisNewsArticle.public|FileClass~AnalysisNewsArticle.public]] 
 
-### #is_/same_as :: [FileClass~AnalysisNewsArticle.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~NewsArticle/FileClass~AnalysisNewsArticle.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~NewsArticle/FileClass~AnalysisNewsArticle.internal|FileClass~AnalysisNewsArticle.internal]] 
 
-### #is_/same_as :: [FileClass~AnalysisNewsArticle.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~NewsArticle/FileClass~AnalysisNewsArticle.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~NewsArticle/FileClass~AnalysisNewsArticle.protect|FileClass~AnalysisNewsArticle.protect]] 
 
-### #is_/same_as :: [FileClass~AnalysisNewsArticle.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~NewsArticle/FileClass~AnalysisNewsArticle.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~NewsArticle/FileClass~AnalysisNewsArticle.private|FileClass~AnalysisNewsArticle.private]] 
 
-### #is_/same_as :: [FileClass~AnalysisNewsArticle.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~NewsArticle/FileClass~AnalysisNewsArticle.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~NewsArticle/FileClass~AnalysisNewsArticle.personal|FileClass~AnalysisNewsArticle.personal]] 
 
-### #is_/same_as :: [FileClass~AnalysisNewsArticle.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~NewsArticle/FileClass~AnalysisNewsArticle.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~NewsArticle/FileClass~AnalysisNewsArticle.secret|FileClass~AnalysisNewsArticle.secret]] 
 

@@ -44,17 +44,17 @@ Commons_category: Cream
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Cream](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Dairy/Cream.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Home_Economics/Cooking/Food/Dairy/Cream|Cream]] 
 
-### #is_/same_as :: [Cream.public](/_public/Society/Economics/Home_Economics/Cooking/Food/Dairy/Cream.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Home_Economics/Cooking/Food/Dairy/Cream.public|Cream.public]] 
 
-### #is_/same_as :: [Cream.internal](/_internal/Society/Economics/Home_Economics/Cooking/Food/Dairy/Cream.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Home_Economics/Cooking/Food/Dairy/Cream.internal|Cream.internal]] 
 
-### #is_/same_as :: [Cream.protect](/_protect/Society/Economics/Home_Economics/Cooking/Food/Dairy/Cream.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Home_Economics/Cooking/Food/Dairy/Cream.protect|Cream.protect]] 
 
-### #is_/same_as :: [Cream.private](/_private/Society/Economics/Home_Economics/Cooking/Food/Dairy/Cream.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Home_Economics/Cooking/Food/Dairy/Cream.private|Cream.private]] 
 
-### #is_/same_as :: [Cream.personal](/_personal/Society/Economics/Home_Economics/Cooking/Food/Dairy/Cream.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Home_Economics/Cooking/Food/Dairy/Cream.personal|Cream.personal]] 
 
-### #is_/same_as :: [Cream.secret](/_secret/Society/Economics/Home_Economics/Cooking/Food/Dairy/Cream.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Home_Economics/Cooking/Food/Dairy/Cream.secret|Cream.secret]] 
 

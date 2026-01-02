@@ -34,17 +34,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Aquaculture](/_Standards/Society/Economics/Industry/Agriculture/Aquaculture.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Industry/Agriculture/Aquaculture|Aquaculture]] 
 
-### #is_/same_as :: [Aquaculture.public](/_public/Society/Economics/Industry/Agriculture/Aquaculture.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Industry/Agriculture/Aquaculture.public|Aquaculture.public]] 
 
-### #is_/same_as :: [Aquaculture.internal](/_internal/Society/Economics/Industry/Agriculture/Aquaculture.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Industry/Agriculture/Aquaculture.internal|Aquaculture.internal]] 
 
-### #is_/same_as :: [Aquaculture.protect](/_protect/Society/Economics/Industry/Agriculture/Aquaculture.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Industry/Agriculture/Aquaculture.protect|Aquaculture.protect]] 
 
-### #is_/same_as :: [Aquaculture.private](/_private/Society/Economics/Industry/Agriculture/Aquaculture.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Industry/Agriculture/Aquaculture.private|Aquaculture.private]] 
 
-### #is_/same_as :: [Aquaculture.personal](/_personal/Society/Economics/Industry/Agriculture/Aquaculture.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Industry/Agriculture/Aquaculture.personal|Aquaculture.personal]] 
 
-### #is_/same_as :: [Aquaculture.secret](/_secret/Society/Economics/Industry/Agriculture/Aquaculture.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Industry/Agriculture/Aquaculture.secret|Aquaculture.secret]] 
 

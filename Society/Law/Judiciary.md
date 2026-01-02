@@ -58,17 +58,17 @@ IPTC_NewsCode: mediatopic/20000106
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Judiciary](/_Standards/Society/Law/Judiciary.md) 
+### #is_/same_as :: [[/_Standards/Society/Law/Judiciary|Judiciary]] 
 
-### #is_/same_as :: [Judiciary.public](/_public/Society/Law/Judiciary.public.md) 
+### #is_/same_as :: [[/_public/Society/Law/Judiciary.public|Judiciary.public]] 
 
-### #is_/same_as :: [Judiciary.internal](/_internal/Society/Law/Judiciary.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Law/Judiciary.internal|Judiciary.internal]] 
 
-### #is_/same_as :: [Judiciary.protect](/_protect/Society/Law/Judiciary.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Law/Judiciary.protect|Judiciary.protect]] 
 
-### #is_/same_as :: [Judiciary.private](/_private/Society/Law/Judiciary.private.md) 
+### #is_/same_as :: [[/_private/Society/Law/Judiciary.private|Judiciary.private]] 
 
-### #is_/same_as :: [Judiciary.personal](/_personal/Society/Law/Judiciary.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Law/Judiciary.personal|Judiciary.personal]] 
 
-### #is_/same_as :: [Judiciary.secret](/_secret/Society/Law/Judiciary.secret.md)
+### #is_/same_as :: [[/_secret/Society/Law/Judiciary.secret|Judiciary.secret]] 
 

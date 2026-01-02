@@ -183,7 +183,7 @@ of the Hawaiian mesopelagic-boundary region. Pacific Science, 49:
 
 ## Title Illustrations
 
-![](Alloposidae/HaliphronSide.jpg))
+![](Alloposidae/HaliphronSide.jpg) 
 
   -------------------------------------------------------------------------------
   Scientific Name ::  Haliphron atlanticus
@@ -194,7 +194,7 @@ of the Hawaiian mesopelagic-boundary region. Pacific Science, 49:
   Copyright ::         © 2004 [Richard E. Young](http://www.soest.hawaii.edu/%7Eryoung/rey.html) 
  
   -------------------------------------------------------------------------------
-![](Alloposidae/HaliphronDraw.jpg))
+![](Alloposidae/HaliphronDraw.jpg) 
 
   ---------------------------------------------------------------------------
   Scientific Name ::  Haliphron atlanticus
@@ -206,17 +206,17 @@ of the Hawaiian mesopelagic-boundary region. Pacific Science, 49:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Alloposidae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Incirrata/Argonautoida/Alloposidae.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Incirrata/Argonautoida/Alloposidae|Alloposidae]] 
 
-### #is_/same_as :: [Alloposidae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Incirrata/Argonautoida/Alloposidae.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Incirrata/Argonautoida/Alloposidae.public|Alloposidae.public]] 
 
-### #is_/same_as :: [Alloposidae.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Incirrata/Argonautoida/Alloposidae.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Incirrata/Argonautoida/Alloposidae.internal|Alloposidae.internal]] 
 
-### #is_/same_as :: [Alloposidae.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Incirrata/Argonautoida/Alloposidae.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Incirrata/Argonautoida/Alloposidae.protect|Alloposidae.protect]] 
 
-### #is_/same_as :: [Alloposidae.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Incirrata/Argonautoida/Alloposidae.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Incirrata/Argonautoida/Alloposidae.private|Alloposidae.private]] 
 
-### #is_/same_as :: [Alloposidae.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Incirrata/Argonautoida/Alloposidae.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Incirrata/Argonautoida/Alloposidae.personal|Alloposidae.personal]] 
 
-### #is_/same_as :: [Alloposidae.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Incirrata/Argonautoida/Alloposidae.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Incirrata/Argonautoida/Alloposidae.secret|Alloposidae.secret]] 
 

@@ -47,17 +47,17 @@ Krugosvet_article: ekonomika-i-pravo/konkubinat
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Concubinage](/_Standards/Society/Agent/Community/Clan/Family/Marriage/Concubinage.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Clan/Family/Marriage/Concubinage|Concubinage]] 
 
-### #is_/same_as :: [Concubinage.public](/_public/Society/Agent/Community/Clan/Family/Marriage/Concubinage.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Clan/Family/Marriage/Concubinage.public|Concubinage.public]] 
 
-### #is_/same_as :: [Concubinage.internal](/_internal/Society/Agent/Community/Clan/Family/Marriage/Concubinage.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Clan/Family/Marriage/Concubinage.internal|Concubinage.internal]] 
 
-### #is_/same_as :: [Concubinage.protect](/_protect/Society/Agent/Community/Clan/Family/Marriage/Concubinage.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Clan/Family/Marriage/Concubinage.protect|Concubinage.protect]] 
 
-### #is_/same_as :: [Concubinage.private](/_private/Society/Agent/Community/Clan/Family/Marriage/Concubinage.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Clan/Family/Marriage/Concubinage.private|Concubinage.private]] 
 
-### #is_/same_as :: [Concubinage.personal](/_personal/Society/Agent/Community/Clan/Family/Marriage/Concubinage.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Clan/Family/Marriage/Concubinage.personal|Concubinage.personal]] 
 
-### #is_/same_as :: [Concubinage.secret](/_secret/Society/Agent/Community/Clan/Family/Marriage/Concubinage.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Clan/Family/Marriage/Concubinage.secret|Concubinage.secret]] 
 

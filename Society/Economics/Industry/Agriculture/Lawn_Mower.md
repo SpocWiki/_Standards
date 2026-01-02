@@ -61,17 +61,17 @@ IMDb_keyword: lawnmower
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lawn_Mower](/_Standards/Society/Economics/Industry/Agriculture/Lawn_Mower.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Industry/Agriculture/Lawn_Mower|Lawn_Mower]] 
 
-### #is_/same_as :: [Lawn_Mower.public](/_public/Society/Economics/Industry/Agriculture/Lawn_Mower.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Industry/Agriculture/Lawn_Mower.public|Lawn_Mower.public]] 
 
-### #is_/same_as :: [Lawn_Mower.internal](/_internal/Society/Economics/Industry/Agriculture/Lawn_Mower.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Industry/Agriculture/Lawn_Mower.internal|Lawn_Mower.internal]] 
 
-### #is_/same_as :: [Lawn_Mower.protect](/_protect/Society/Economics/Industry/Agriculture/Lawn_Mower.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Industry/Agriculture/Lawn_Mower.protect|Lawn_Mower.protect]] 
 
-### #is_/same_as :: [Lawn_Mower.private](/_private/Society/Economics/Industry/Agriculture/Lawn_Mower.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Industry/Agriculture/Lawn_Mower.private|Lawn_Mower.private]] 
 
-### #is_/same_as :: [Lawn_Mower.personal](/_personal/Society/Economics/Industry/Agriculture/Lawn_Mower.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Industry/Agriculture/Lawn_Mower.personal|Lawn_Mower.personal]] 
 
-### #is_/same_as :: [Lawn_Mower.secret](/_secret/Society/Economics/Industry/Agriculture/Lawn_Mower.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Industry/Agriculture/Lawn_Mower.secret|Lawn_Mower.secret]] 
 

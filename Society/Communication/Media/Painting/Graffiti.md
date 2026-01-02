@@ -58,17 +58,17 @@ OpenStreetMap_tag_or_key: Tag:artwork_type=graffiti
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Graffiti](/_Standards/Society/Communication/Media/Painting/Graffiti.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Painting/Graffiti|Graffiti]] 
 
-### #is_/same_as :: [Graffiti.public](/_public/Society/Communication/Media/Painting/Graffiti.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Painting/Graffiti.public|Graffiti.public]] 
 
-### #is_/same_as :: [Graffiti.internal](/_internal/Society/Communication/Media/Painting/Graffiti.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Painting/Graffiti.internal|Graffiti.internal]] 
 
-### #is_/same_as :: [Graffiti.protect](/_protect/Society/Communication/Media/Painting/Graffiti.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Painting/Graffiti.protect|Graffiti.protect]] 
 
-### #is_/same_as :: [Graffiti.private](/_private/Society/Communication/Media/Painting/Graffiti.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Painting/Graffiti.private|Graffiti.private]] 
 
-### #is_/same_as :: [Graffiti.personal](/_personal/Society/Communication/Media/Painting/Graffiti.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Painting/Graffiti.personal|Graffiti.personal]] 
 
-### #is_/same_as :: [Graffiti.secret](/_secret/Society/Communication/Media/Painting/Graffiti.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Painting/Graffiti.secret|Graffiti.secret]] 
 

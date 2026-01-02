@@ -457,17 +457,17 @@ planar, bipolar Transistors
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [OS~Unix](/_Standards/Technology/IT/Software/OS(Operating-System)/OS~Unix.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Software/OS(Operating-System)/OS~Unix|OS~Unix]] 
 
-### #is_/same_as :: [OS~Unix.public](/_public/Technology/IT/Software/OS(Operating-System)/OS~Unix.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Software/OS(Operating-System)/OS~Unix.public|OS~Unix.public]] 
 
-### #is_/same_as :: [OS~Unix.internal](/_internal/Technology/IT/Software/OS(Operating-System)/OS~Unix.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Software/OS(Operating-System)/OS~Unix.internal|OS~Unix.internal]] 
 
-### #is_/same_as :: [OS~Unix.protect](/_protect/Technology/IT/Software/OS(Operating-System)/OS~Unix.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Software/OS(Operating-System)/OS~Unix.protect|OS~Unix.protect]] 
 
-### #is_/same_as :: [OS~Unix.private](/_private/Technology/IT/Software/OS(Operating-System)/OS~Unix.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Software/OS(Operating-System)/OS~Unix.private|OS~Unix.private]] 
 
-### #is_/same_as :: [OS~Unix.personal](/_personal/Technology/IT/Software/OS(Operating-System)/OS~Unix.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Software/OS(Operating-System)/OS~Unix.personal|OS~Unix.personal]] 
 
-### #is_/same_as :: [OS~Unix.secret](/_secret/Technology/IT/Software/OS(Operating-System)/OS~Unix.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Software/OS(Operating-System)/OS~Unix.secret|OS~Unix.secret]] 
 

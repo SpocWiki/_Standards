@@ -28,17 +28,17 @@ Since the Planck-Constant combined with the Caesium Frequency yields an Energy a
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Unit~Gram](/_Standards/Dimension/Unit_of_Measurement/SI-Unit/Unit~Gram.md) 
+### #is_/same_as :: [[/_Standards/Dimension/Unit_of_Measurement/SI-Unit/Unit~Gram|Unit~Gram]] 
 
-### #is_/same_as :: [Unit~Gram.public](/_public/Dimension/Unit_of_Measurement/SI-Unit/Unit~Gram.public.md) 
+### #is_/same_as :: [[/_public/Dimension/Unit_of_Measurement/SI-Unit/Unit~Gram.public|Unit~Gram.public]] 
 
-### #is_/same_as :: [Unit~Gram.internal](/_internal/Dimension/Unit_of_Measurement/SI-Unit/Unit~Gram.internal.md) 
+### #is_/same_as :: [[/_internal/Dimension/Unit_of_Measurement/SI-Unit/Unit~Gram.internal|Unit~Gram.internal]] 
 
-### #is_/same_as :: [Unit~Gram.protect](/_protect/Dimension/Unit_of_Measurement/SI-Unit/Unit~Gram.protect.md) 
+### #is_/same_as :: [[/_protect/Dimension/Unit_of_Measurement/SI-Unit/Unit~Gram.protect|Unit~Gram.protect]] 
 
-### #is_/same_as :: [Unit~Gram.private](/_private/Dimension/Unit_of_Measurement/SI-Unit/Unit~Gram.private.md) 
+### #is_/same_as :: [[/_private/Dimension/Unit_of_Measurement/SI-Unit/Unit~Gram.private|Unit~Gram.private]] 
 
-### #is_/same_as :: [Unit~Gram.personal](/_personal/Dimension/Unit_of_Measurement/SI-Unit/Unit~Gram.personal.md) 
+### #is_/same_as :: [[/_personal/Dimension/Unit_of_Measurement/SI-Unit/Unit~Gram.personal|Unit~Gram.personal]] 
 
-### #is_/same_as :: [Unit~Gram.secret](/_secret/Dimension/Unit_of_Measurement/SI-Unit/Unit~Gram.secret.md)
+### #is_/same_as :: [[/_secret/Dimension/Unit_of_Measurement/SI-Unit/Unit~Gram.secret|Unit~Gram.secret]] 
 

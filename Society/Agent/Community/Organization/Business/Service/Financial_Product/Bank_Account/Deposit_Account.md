@@ -41,17 +41,17 @@ A type of Bank Account with a main purpose of depositing funds to gain interest 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Deposit_Account](/_Standards/Society/Agent/Community/Organization/Business/Service/Financial_Product/Bank_Account/Deposit_Account.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Business/Service/Financial_Product/Bank_Account/Deposit_Account|Deposit_Account]] 
 
-### #is_/same_as :: [Deposit_Account.public](/_public/Society/Agent/Community/Organization/Business/Service/Financial_Product/Bank_Account/Deposit_Account.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Business/Service/Financial_Product/Bank_Account/Deposit_Account.public|Deposit_Account.public]] 
 
-### #is_/same_as :: [Deposit_Account.internal](/_internal/Society/Agent/Community/Organization/Business/Service/Financial_Product/Bank_Account/Deposit_Account.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Business/Service/Financial_Product/Bank_Account/Deposit_Account.internal|Deposit_Account.internal]] 
 
-### #is_/same_as :: [Deposit_Account.protect](/_protect/Society/Agent/Community/Organization/Business/Service/Financial_Product/Bank_Account/Deposit_Account.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Business/Service/Financial_Product/Bank_Account/Deposit_Account.protect|Deposit_Account.protect]] 
 
-### #is_/same_as :: [Deposit_Account.private](/_private/Society/Agent/Community/Organization/Business/Service/Financial_Product/Bank_Account/Deposit_Account.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Business/Service/Financial_Product/Bank_Account/Deposit_Account.private|Deposit_Account.private]] 
 
-### #is_/same_as :: [Deposit_Account.personal](/_personal/Society/Agent/Community/Organization/Business/Service/Financial_Product/Bank_Account/Deposit_Account.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Business/Service/Financial_Product/Bank_Account/Deposit_Account.personal|Deposit_Account.personal]] 
 
-### #is_/same_as :: [Deposit_Account.secret](/_secret/Society/Agent/Community/Organization/Business/Service/Financial_Product/Bank_Account/Deposit_Account.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Business/Service/Financial_Product/Bank_Account/Deposit_Account.secret|Deposit_Account.secret]] 
 

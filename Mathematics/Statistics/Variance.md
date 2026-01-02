@@ -85,17 +85,17 @@ Commons_category: Variance
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Variance](/_Standards/Mathematics/Statistics/Variance.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Statistics/Variance|Variance]] 
 
-### #is_/same_as :: [Variance.public](/_public/Mathematics/Statistics/Variance.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Statistics/Variance.public|Variance.public]] 
 
-### #is_/same_as :: [Variance.internal](/_internal/Mathematics/Statistics/Variance.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Statistics/Variance.internal|Variance.internal]] 
 
-### #is_/same_as :: [Variance.protect](/_protect/Mathematics/Statistics/Variance.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Statistics/Variance.protect|Variance.protect]] 
 
-### #is_/same_as :: [Variance.private](/_private/Mathematics/Statistics/Variance.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Statistics/Variance.private|Variance.private]] 
 
-### #is_/same_as :: [Variance.personal](/_personal/Mathematics/Statistics/Variance.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Statistics/Variance.personal|Variance.personal]] 
 
-### #is_/same_as :: [Variance.secret](/_secret/Mathematics/Statistics/Variance.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Statistics/Variance.secret|Variance.secret]] 
 

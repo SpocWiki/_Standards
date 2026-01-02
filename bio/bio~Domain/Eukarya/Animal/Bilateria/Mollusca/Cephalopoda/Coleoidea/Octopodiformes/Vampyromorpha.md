@@ -8,7 +8,7 @@ title: Vampyroteuthis infernalis
 
 The Vampire Squid 
 
-![ ](Vampyromorpha/VampSeibel.jpg)![ ](Vampyromorpha/VampireDraw.jpg))
+![ ](Vampyromorpha/VampSeibel.jpg)![ ](Vampyromorpha/VampireDraw.jpg) 
 
 Only a single species is known in the Vampyromorpha.
 
@@ -135,7 +135,7 @@ posture the squid would be somewhat more difficult to injure and would
 be covered by a densely pigmented cloak. The oral surface of the arms
 and webs are the most heavily pigmented (black) regions on the animal.
 The posture, therefore, is probably a defensive one.
-![ ](Vampyromorpha/VampArmTip.jpg))
+![ ](Vampyromorpha/VampArmTip.jpg) 
 
 Arm tip from a preserved vampire squid showing the light emitting
 surface (unpigmented), as well as suckers and cirri (photograph
@@ -193,7 +193,7 @@ individuals of less than 20 mm being most abundant at the deeper peak
 suggest that the vampire is restricted to the oxygen minimum layer in
 this bay at an average depth of 690 m and oxygen levels of 0.22 ml/l
 Hunt, 1996.
-![ ](Vampyromorpha/VampireVertDist.JPG))
+![ ](Vampyromorpha/VampireVertDist.JPG) 
 
 Vertical distribution chart modified from Clarke and Lu, 1975.
 
@@ -259,7 +259,7 @@ Size              25 cm total length
 Copyright ::         © 1999 Brad Seibel
 
 ------------------------------------------------------------------------------ 
-![](Vampyromorpha/VampireDraw.jpg))
+![](Vampyromorpha/VampireDraw.jpg) 
 Scientific Name ::  Vampyroteuthis infernalis
 Reference         from Young, R. E. 1972. The systematics and areal distribution of pelagic cephalopods from the seas off Southern California. Smithson. Contr. Zool., 97: 1-159.
 Copyright ::         © [Richard E. Young](http://www.soest.hawaii.edu/%7Eryoung/rey.html) 
@@ -267,17 +267,17 @@ Copyright ::         © [Richard E. Young](http://www.soest.hawaii.edu/%7Eryoung
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Vampyromorpha](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Vampyromorpha.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Vampyromorpha|Vampyromorpha]] 
 
-### #is_/same_as :: [Vampyromorpha.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Vampyromorpha.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Vampyromorpha.public|Vampyromorpha.public]] 
 
-### #is_/same_as :: [Vampyromorpha.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Vampyromorpha.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Vampyromorpha.internal|Vampyromorpha.internal]] 
 
-### #is_/same_as :: [Vampyromorpha.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Vampyromorpha.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Vampyromorpha.protect|Vampyromorpha.protect]] 
 
-### #is_/same_as :: [Vampyromorpha.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Vampyromorpha.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Vampyromorpha.private|Vampyromorpha.private]] 
 
-### #is_/same_as :: [Vampyromorpha.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Vampyromorpha.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Vampyromorpha.personal|Vampyromorpha.personal]] 
 
-### #is_/same_as :: [Vampyromorpha.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Vampyromorpha.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Vampyromorpha.secret|Vampyromorpha.secret]] 
 

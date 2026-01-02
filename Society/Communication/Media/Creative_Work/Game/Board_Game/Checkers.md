@@ -76,17 +76,17 @@ Krugosvet_article: sport/SHASHKI.html
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Checkers](/_Standards/Society/Communication/Media/Creative_Work/Game/Board_Game/Checkers.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Creative_Work/Game/Board_Game/Checkers|Checkers]] 
 
-### #is_/same_as :: [Checkers.public](/_public/Society/Communication/Media/Creative_Work/Game/Board_Game/Checkers.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Creative_Work/Game/Board_Game/Checkers.public|Checkers.public]] 
 
-### #is_/same_as :: [Checkers.internal](/_internal/Society/Communication/Media/Creative_Work/Game/Board_Game/Checkers.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Creative_Work/Game/Board_Game/Checkers.internal|Checkers.internal]] 
 
-### #is_/same_as :: [Checkers.protect](/_protect/Society/Communication/Media/Creative_Work/Game/Board_Game/Checkers.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Creative_Work/Game/Board_Game/Checkers.protect|Checkers.protect]] 
 
-### #is_/same_as :: [Checkers.private](/_private/Society/Communication/Media/Creative_Work/Game/Board_Game/Checkers.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Creative_Work/Game/Board_Game/Checkers.private|Checkers.private]] 
 
-### #is_/same_as :: [Checkers.personal](/_personal/Society/Communication/Media/Creative_Work/Game/Board_Game/Checkers.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/Game/Board_Game/Checkers.personal|Checkers.personal]] 
 
-### #is_/same_as :: [Checkers.secret](/_secret/Society/Communication/Media/Creative_Work/Game/Board_Game/Checkers.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Game/Board_Game/Checkers.secret|Checkers.secret]] 
 

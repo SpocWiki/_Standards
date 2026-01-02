@@ -48,17 +48,17 @@ Commons_category: Livestock
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Livestock](/_Standards/Society/Economics/Industry/Agriculture/Livestock.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Industry/Agriculture/Livestock|Livestock]] 
 
-### #is_/same_as :: [Livestock.public](/_public/Society/Economics/Industry/Agriculture/Livestock.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Industry/Agriculture/Livestock.public|Livestock.public]] 
 
-### #is_/same_as :: [Livestock.internal](/_internal/Society/Economics/Industry/Agriculture/Livestock.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Industry/Agriculture/Livestock.internal|Livestock.internal]] 
 
-### #is_/same_as :: [Livestock.protect](/_protect/Society/Economics/Industry/Agriculture/Livestock.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Industry/Agriculture/Livestock.protect|Livestock.protect]] 
 
-### #is_/same_as :: [Livestock.private](/_private/Society/Economics/Industry/Agriculture/Livestock.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Industry/Agriculture/Livestock.private|Livestock.private]] 
 
-### #is_/same_as :: [Livestock.personal](/_personal/Society/Economics/Industry/Agriculture/Livestock.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Industry/Agriculture/Livestock.personal|Livestock.personal]] 
 
-### #is_/same_as :: [Livestock.secret](/_secret/Society/Economics/Industry/Agriculture/Livestock.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Industry/Agriculture/Livestock.secret|Livestock.secret]] 
 

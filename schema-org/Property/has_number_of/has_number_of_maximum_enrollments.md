@@ -45,17 +45,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_number_of_maximum_enrollments](/_Standards/schema-org/Property/has_number_of/has_number_of_maximum_enrollments.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_number_of/has_number_of_maximum_enrollments|has_number_of_maximum_enrollments]] 
 
-### #is_/same_as :: [has_number_of_maximum_enrollments.public](/_public/schema-org/Property/has_number_of/has_number_of_maximum_enrollments.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/has_number_of/has_number_of_maximum_enrollments.public|has_number_of_maximum_enrollments.public]] 
 
-### #is_/same_as :: [has_number_of_maximum_enrollments.internal](/_internal/schema-org/Property/has_number_of/has_number_of_maximum_enrollments.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_number_of/has_number_of_maximum_enrollments.internal|has_number_of_maximum_enrollments.internal]] 
 
-### #is_/same_as :: [has_number_of_maximum_enrollments.protect](/_protect/schema-org/Property/has_number_of/has_number_of_maximum_enrollments.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_number_of/has_number_of_maximum_enrollments.protect|has_number_of_maximum_enrollments.protect]] 
 
-### #is_/same_as :: [has_number_of_maximum_enrollments.private](/_private/schema-org/Property/has_number_of/has_number_of_maximum_enrollments.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/has_number_of/has_number_of_maximum_enrollments.private|has_number_of_maximum_enrollments.private]] 
 
-### #is_/same_as :: [has_number_of_maximum_enrollments.personal](/_personal/schema-org/Property/has_number_of/has_number_of_maximum_enrollments.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_number_of/has_number_of_maximum_enrollments.personal|has_number_of_maximum_enrollments.personal]] 
 
-### #is_/same_as :: [has_number_of_maximum_enrollments.secret](/_secret/schema-org/Property/has_number_of/has_number_of_maximum_enrollments.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/has_number_of/has_number_of_maximum_enrollments.secret|has_number_of_maximum_enrollments.secret]] 
 

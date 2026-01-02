@@ -32,17 +32,17 @@ Commons_category: Dwarf galaxies
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Dwarf_Galaxy](/_Standards/Astronomy/Star_System/Galaxy/Dwarf_Galaxy.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Star_System/Galaxy/Dwarf_Galaxy|Dwarf_Galaxy]] 
 
-### #is_/same_as :: [Dwarf_Galaxy.public](/_public/Astronomy/Star_System/Galaxy/Dwarf_Galaxy.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Star_System/Galaxy/Dwarf_Galaxy.public|Dwarf_Galaxy.public]] 
 
-### #is_/same_as :: [Dwarf_Galaxy.internal](/_internal/Astronomy/Star_System/Galaxy/Dwarf_Galaxy.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Star_System/Galaxy/Dwarf_Galaxy.internal|Dwarf_Galaxy.internal]] 
 
-### #is_/same_as :: [Dwarf_Galaxy.protect](/_protect/Astronomy/Star_System/Galaxy/Dwarf_Galaxy.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Star_System/Galaxy/Dwarf_Galaxy.protect|Dwarf_Galaxy.protect]] 
 
-### #is_/same_as :: [Dwarf_Galaxy.private](/_private/Astronomy/Star_System/Galaxy/Dwarf_Galaxy.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Star_System/Galaxy/Dwarf_Galaxy.private|Dwarf_Galaxy.private]] 
 
-### #is_/same_as :: [Dwarf_Galaxy.personal](/_personal/Astronomy/Star_System/Galaxy/Dwarf_Galaxy.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Star_System/Galaxy/Dwarf_Galaxy.personal|Dwarf_Galaxy.personal]] 
 
-### #is_/same_as :: [Dwarf_Galaxy.secret](/_secret/Astronomy/Star_System/Galaxy/Dwarf_Galaxy.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Star_System/Galaxy/Dwarf_Galaxy.secret|Dwarf_Galaxy.secret]] 
 

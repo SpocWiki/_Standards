@@ -48,17 +48,17 @@ Commons_category: Labour law
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Labor_Law](/_Standards/Society/Law/Common_Law/Labor_Law.md) 
+### #is_/same_as :: [[/_Standards/Society/Law/Common_Law/Labor_Law|Labor_Law]] 
 
-### #is_/same_as :: [Labor_Law.public](/_public/Society/Law/Common_Law/Labor_Law.public.md) 
+### #is_/same_as :: [[/_public/Society/Law/Common_Law/Labor_Law.public|Labor_Law.public]] 
 
-### #is_/same_as :: [Labor_Law.internal](/_internal/Society/Law/Common_Law/Labor_Law.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Law/Common_Law/Labor_Law.internal|Labor_Law.internal]] 
 
-### #is_/same_as :: [Labor_Law.protect](/_protect/Society/Law/Common_Law/Labor_Law.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Law/Common_Law/Labor_Law.protect|Labor_Law.protect]] 
 
-### #is_/same_as :: [Labor_Law.private](/_private/Society/Law/Common_Law/Labor_Law.private.md) 
+### #is_/same_as :: [[/_private/Society/Law/Common_Law/Labor_Law.private|Labor_Law.private]] 
 
-### #is_/same_as :: [Labor_Law.personal](/_personal/Society/Law/Common_Law/Labor_Law.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Law/Common_Law/Labor_Law.personal|Labor_Law.personal]] 
 
-### #is_/same_as :: [Labor_Law.secret](/_secret/Society/Law/Common_Law/Labor_Law.secret.md)
+### #is_/same_as :: [[/_secret/Society/Law/Common_Law/Labor_Law.secret|Labor_Law.secret]] 
 

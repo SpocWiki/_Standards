@@ -66,17 +66,17 @@ short_name: Sgr
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Zodiac~Sagittarius](/_Standards/Astronomy/Star~Constellation/Zodiac~Sagittarius.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Star~Constellation/Zodiac~Sagittarius|Zodiac~Sagittarius]] 
 
-### #is_/same_as :: [Zodiac~Sagittarius.public](/_public/Astronomy/Star~Constellation/Zodiac~Sagittarius.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Star~Constellation/Zodiac~Sagittarius.public|Zodiac~Sagittarius.public]] 
 
-### #is_/same_as :: [Zodiac~Sagittarius.internal](/_internal/Astronomy/Star~Constellation/Zodiac~Sagittarius.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Star~Constellation/Zodiac~Sagittarius.internal|Zodiac~Sagittarius.internal]] 
 
-### #is_/same_as :: [Zodiac~Sagittarius.protect](/_protect/Astronomy/Star~Constellation/Zodiac~Sagittarius.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Star~Constellation/Zodiac~Sagittarius.protect|Zodiac~Sagittarius.protect]] 
 
-### #is_/same_as :: [Zodiac~Sagittarius.private](/_private/Astronomy/Star~Constellation/Zodiac~Sagittarius.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Star~Constellation/Zodiac~Sagittarius.private|Zodiac~Sagittarius.private]] 
 
-### #is_/same_as :: [Zodiac~Sagittarius.personal](/_personal/Astronomy/Star~Constellation/Zodiac~Sagittarius.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Star~Constellation/Zodiac~Sagittarius.personal|Zodiac~Sagittarius.personal]] 
 
-### #is_/same_as :: [Zodiac~Sagittarius.secret](/_secret/Astronomy/Star~Constellation/Zodiac~Sagittarius.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Star~Constellation/Zodiac~Sagittarius.secret|Zodiac~Sagittarius.secret]] 
 

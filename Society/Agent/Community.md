@@ -74,17 +74,17 @@ The Structure and Processes of Communities depends very much on their Size.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Community](/_Standards/Society/Agent/Community.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community|Community]] 
 
-### #is_/same_as :: [Community.public](/_public/Society/Agent/Community.public.md) 
+### #is_/same_as :: [Community.public](/_public/Society/Agent/Community.public) 
 
-### #is_/same_as :: [Community.internal](/_internal/Society/Agent/Community.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community.internal|Community.internal]] 
 
-### #is_/same_as :: [Community.protect](/_protect/Society/Agent/Community.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community.protect|Community.protect]]
 
-### #is_/same_as :: [Community.private](/_private/Society/Agent/Community.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community.private|Community.private]] 
 
-### #is_/same_as :: [Community.personal](/_personal/Society/Agent/Community.personal.md) 
+### #is_/same_as :: [Community.personal](/_personal/Society/Agent/Community.personal) 
 
-### #is_/same_as :: [Community.secret](/_secret/Society/Agent/Community.secret.md)
+### #is_/same_as :: [Community.secret](/_secret/Society/Agent/Community.secret)
 

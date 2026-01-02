@@ -17,17 +17,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Emotional_Vampire](/_Standards/bio/Psychology/Affect/Emotion/Emotional_Vampire.md) 
+### #is_/same_as :: [[/_Standards/bio/Psychology/Affect/Emotion/Emotional_Vampire|Emotional_Vampire]] 
 
-### #is_/same_as :: [Emotional_Vampire.public](/_public/bio/Psychology/Affect/Emotion/Emotional_Vampire.public.md) 
+### #is_/same_as :: [[/_public/bio/Psychology/Affect/Emotion/Emotional_Vampire.public|Emotional_Vampire.public]] 
 
-### #is_/same_as :: [Emotional_Vampire.internal](/_internal/bio/Psychology/Affect/Emotion/Emotional_Vampire.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Psychology/Affect/Emotion/Emotional_Vampire.internal|Emotional_Vampire.internal]] 
 
-### #is_/same_as :: [Emotional_Vampire.protect](/_protect/bio/Psychology/Affect/Emotion/Emotional_Vampire.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Psychology/Affect/Emotion/Emotional_Vampire.protect|Emotional_Vampire.protect]] 
 
-### #is_/same_as :: [Emotional_Vampire.private](/_private/bio/Psychology/Affect/Emotion/Emotional_Vampire.private.md) 
+### #is_/same_as :: [[/_private/bio/Psychology/Affect/Emotion/Emotional_Vampire.private|Emotional_Vampire.private]] 
 
-### #is_/same_as :: [Emotional_Vampire.personal](/_personal/bio/Psychology/Affect/Emotion/Emotional_Vampire.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Psychology/Affect/Emotion/Emotional_Vampire.personal|Emotional_Vampire.personal]] 
 
-### #is_/same_as :: [Emotional_Vampire.secret](/_secret/bio/Psychology/Affect/Emotion/Emotional_Vampire.secret.md)
+### #is_/same_as :: [[/_secret/bio/Psychology/Affect/Emotion/Emotional_Vampire.secret|Emotional_Vampire.secret]] 
 

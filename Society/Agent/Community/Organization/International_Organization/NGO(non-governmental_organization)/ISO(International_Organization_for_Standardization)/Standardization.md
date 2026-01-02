@@ -49,17 +49,17 @@ spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Wikipedia%
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Standardization](/_Standards/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/ISO(International_Organization_for_Standardization)/Standardization.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/ISO(International_Organization_for_Standardization)/Standardization|Standardization]] 
 
-### #is_/same_as :: [Standardization.public](/_public/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/ISO(International_Organization_for_Standardization)/Standardization.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/ISO(International_Organization_for_Standardization)/Standardization.public|Standardization.public]] 
 
-### #is_/same_as :: [Standardization.internal](/_internal/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/ISO(International_Organization_for_Standardization)/Standardization.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/ISO(International_Organization_for_Standardization)/Standardization.internal|Standardization.internal]] 
 
-### #is_/same_as :: [Standardization.protect](/_protect/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/ISO(International_Organization_for_Standardization)/Standardization.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/ISO(International_Organization_for_Standardization)/Standardization.protect|Standardization.protect]] 
 
-### #is_/same_as :: [Standardization.private](/_private/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/ISO(International_Organization_for_Standardization)/Standardization.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/ISO(International_Organization_for_Standardization)/Standardization.private|Standardization.private]] 
 
-### #is_/same_as :: [Standardization.personal](/_personal/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/ISO(International_Organization_for_Standardization)/Standardization.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/ISO(International_Organization_for_Standardization)/Standardization.personal|Standardization.personal]] 
 
-### #is_/same_as :: [Standardization.secret](/_secret/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/ISO(International_Organization_for_Standardization)/Standardization.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/ISO(International_Organization_for_Standardization)/Standardization.secret|Standardization.secret]] 
 

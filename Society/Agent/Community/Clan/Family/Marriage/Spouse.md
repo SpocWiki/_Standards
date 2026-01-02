@@ -211,17 +211,17 @@ Range for the Objects in the [[../../../../../../schema-org/Relation/has/has_spo
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Spouse](/_Standards/Society/Agent/Community/Clan/Family/Marriage/Spouse.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Clan/Family/Marriage/Spouse|Spouse]] 
 
-### #is_/same_as :: [Spouse.public](/_public/Society/Agent/Community/Clan/Family/Marriage/Spouse.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Clan/Family/Marriage/Spouse.public|Spouse.public]] 
 
-### #is_/same_as :: [Spouse.internal](/_internal/Society/Agent/Community/Clan/Family/Marriage/Spouse.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Clan/Family/Marriage/Spouse.internal|Spouse.internal]] 
 
-### #is_/same_as :: [Spouse.protect](/_protect/Society/Agent/Community/Clan/Family/Marriage/Spouse.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Clan/Family/Marriage/Spouse.protect|Spouse.protect]] 
 
-### #is_/same_as :: [Spouse.private](/_private/Society/Agent/Community/Clan/Family/Marriage/Spouse.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Clan/Family/Marriage/Spouse.private|Spouse.private]] 
 
-### #is_/same_as :: [Spouse.personal](/_personal/Society/Agent/Community/Clan/Family/Marriage/Spouse.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Clan/Family/Marriage/Spouse.personal|Spouse.personal]] 
 
-### #is_/same_as :: [Spouse.secret](/_secret/Society/Agent/Community/Clan/Family/Marriage/Spouse.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Clan/Family/Marriage/Spouse.secret|Spouse.secret]] 
 

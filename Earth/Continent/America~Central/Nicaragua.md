@@ -451,17 +451,17 @@ Capital :: [[Nicaragua/Counties/Managua/City/Managua]]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Nicaragua](/_Standards/Earth/Continent/America~Central/Nicaragua.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~Central/Nicaragua|Nicaragua]] 
 
-### #is_/same_as :: [Nicaragua.public](/_public/Earth/Continent/America~Central/Nicaragua.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~Central/Nicaragua.public|Nicaragua.public]] 
 
-### #is_/same_as :: [Nicaragua.internal](/_internal/Earth/Continent/America~Central/Nicaragua.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~Central/Nicaragua.internal|Nicaragua.internal]] 
 
-### #is_/same_as :: [Nicaragua.protect](/_protect/Earth/Continent/America~Central/Nicaragua.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~Central/Nicaragua.protect|Nicaragua.protect]] 
 
-### #is_/same_as :: [Nicaragua.private](/_private/Earth/Continent/America~Central/Nicaragua.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~Central/Nicaragua.private|Nicaragua.private]] 
 
-### #is_/same_as :: [Nicaragua.personal](/_personal/Earth/Continent/America~Central/Nicaragua.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~Central/Nicaragua.personal|Nicaragua.personal]] 
 
-### #is_/same_as :: [Nicaragua.secret](/_secret/Earth/Continent/America~Central/Nicaragua.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~Central/Nicaragua.secret|Nicaragua.secret]] 
 

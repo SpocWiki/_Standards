@@ -130,7 +130,7 @@ These ants may serve to guard and protect young, developing fruits.
 ## Title Illustrations
 
 ----------------------------------------------------------------------- 
-![Ruellia biolleyi](Physiruellia/Ruellia_biolleyi.jpg))
+![Ruellia biolleyi](Physiruellia/Ruellia_biolleyi.jpg) 
 Scientific Name ::     Ruellia biolleyi Lindau
 Location ::           La Selva Biological Station, Costa Rica
 Acknowledgements     Erin A. Tripp
@@ -141,7 +141,7 @@ Collector            Tripp & McDade
 Copyright ::            © [Erin Tripp](mailto:erin.tripp@duke.edu) 
 
 ----------------------------------------------------------------------- 
-![Ruellia_macrophylla](Physiruellia/Ruellia_macrophylla.jpg))
+![Ruellia_macrophylla](Physiruellia/Ruellia_macrophylla.jpg) 
 Scientific Name ::     Ruellia macrophylla var. lutea Leonard
 Location ::           Cultivated in DUKE Greenhouses
 Specimen Condition   Live Specimen
@@ -149,7 +149,7 @@ Body Part            flower
 Copyright ::            © [Erin Tripp](mailto:erin.tripp@duke.edu) 
 
 ----------------------------------------------------------------------- 
-![](Physiruellia/Ruellia_jussieuoides.jpg))
+![](Physiruellia/Ruellia_jussieuoides.jpg) 
 Scientific Name ::     Ruellia jussieuoides Schltdl. & Cham.
 Location ::           Chiapas, Mexico
 Specimen Condition   Live Specimen
@@ -160,17 +160,17 @@ Copyright ::            © [Erin Tripp](mailto:erin.tripp@duke.edu)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Physiruellia](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Ruellieae/Ruellia/Physiruellia.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Ruellieae/Ruellia/Physiruellia|Physiruellia]] 
 
-### #is_/same_as :: [Physiruellia.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Ruellieae/Ruellia/Physiruellia.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Ruellieae/Ruellia/Physiruellia.public|Physiruellia.public]] 
 
-### #is_/same_as :: [Physiruellia.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Ruellieae/Ruellia/Physiruellia.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Ruellieae/Ruellia/Physiruellia.internal|Physiruellia.internal]] 
 
-### #is_/same_as :: [Physiruellia.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Ruellieae/Ruellia/Physiruellia.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Ruellieae/Ruellia/Physiruellia.protect|Physiruellia.protect]] 
 
-### #is_/same_as :: [Physiruellia.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Ruellieae/Ruellia/Physiruellia.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Ruellieae/Ruellia/Physiruellia.private|Physiruellia.private]] 
 
-### #is_/same_as :: [Physiruellia.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Ruellieae/Ruellia/Physiruellia.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Ruellieae/Ruellia/Physiruellia.personal|Physiruellia.personal]] 
 
-### #is_/same_as :: [Physiruellia.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Ruellieae/Ruellia/Physiruellia.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Ruellieae/Ruellia/Physiruellia.secret|Physiruellia.secret]] 
 

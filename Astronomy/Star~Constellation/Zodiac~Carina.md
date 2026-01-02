@@ -69,17 +69,17 @@ official_name: Carina
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Zodiac~Carina](/_Standards/Astronomy/Star~Constellation/Zodiac~Carina.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Star~Constellation/Zodiac~Carina|Zodiac~Carina]] 
 
-### #is_/same_as :: [Zodiac~Carina.public](/_public/Astronomy/Star~Constellation/Zodiac~Carina.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Star~Constellation/Zodiac~Carina.public|Zodiac~Carina.public]] 
 
-### #is_/same_as :: [Zodiac~Carina.internal](/_internal/Astronomy/Star~Constellation/Zodiac~Carina.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Star~Constellation/Zodiac~Carina.internal|Zodiac~Carina.internal]] 
 
-### #is_/same_as :: [Zodiac~Carina.protect](/_protect/Astronomy/Star~Constellation/Zodiac~Carina.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Star~Constellation/Zodiac~Carina.protect|Zodiac~Carina.protect]] 
 
-### #is_/same_as :: [Zodiac~Carina.private](/_private/Astronomy/Star~Constellation/Zodiac~Carina.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Star~Constellation/Zodiac~Carina.private|Zodiac~Carina.private]] 
 
-### #is_/same_as :: [Zodiac~Carina.personal](/_personal/Astronomy/Star~Constellation/Zodiac~Carina.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Star~Constellation/Zodiac~Carina.personal|Zodiac~Carina.personal]] 
 
-### #is_/same_as :: [Zodiac~Carina.secret](/_secret/Astronomy/Star~Constellation/Zodiac~Carina.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Star~Constellation/Zodiac~Carina.secret|Zodiac~Carina.secret]] 
 

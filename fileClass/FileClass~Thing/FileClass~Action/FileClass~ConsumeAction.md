@@ -59,17 +59,17 @@ ExpectsAcceptanceOf:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~ConsumeAction](/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction|FileClass~ConsumeAction]] 
 
-### #is_/same_as :: [FileClass~ConsumeAction.public](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction.public|FileClass~ConsumeAction.public]] 
 
-### #is_/same_as :: [FileClass~ConsumeAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction.internal|FileClass~ConsumeAction.internal]] 
 
-### #is_/same_as :: [FileClass~ConsumeAction.protect](/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction.protect|FileClass~ConsumeAction.protect]] 
 
-### #is_/same_as :: [FileClass~ConsumeAction.private](/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction.private|FileClass~ConsumeAction.private]] 
 
-### #is_/same_as :: [FileClass~ConsumeAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction.personal|FileClass~ConsumeAction.personal]] 
 
-### #is_/same_as :: [FileClass~ConsumeAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction.secret|FileClass~ConsumeAction.secret]] 
 

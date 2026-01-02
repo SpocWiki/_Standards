@@ -83,17 +83,17 @@ U_S_National_Archives_Identifier: 10639691
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Discrimination](/_Standards/Society/Social_Issues/Discrimination.md) 
+### #is_/same_as :: [[/_Standards/Society/Social_Issues/Discrimination|Discrimination]] 
 
-### #is_/same_as :: [Discrimination.public](/_public/Society/Social_Issues/Discrimination.public.md) 
+### #is_/same_as :: [[/_public/Society/Social_Issues/Discrimination.public|Discrimination.public]] 
 
-### #is_/same_as :: [Discrimination.internal](/_internal/Society/Social_Issues/Discrimination.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Social_Issues/Discrimination.internal|Discrimination.internal]] 
 
-### #is_/same_as :: [Discrimination.protect](/_protect/Society/Social_Issues/Discrimination.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Social_Issues/Discrimination.protect|Discrimination.protect]] 
 
-### #is_/same_as :: [Discrimination.private](/_private/Society/Social_Issues/Discrimination.private.md) 
+### #is_/same_as :: [[/_private/Society/Social_Issues/Discrimination.private|Discrimination.private]] 
 
-### #is_/same_as :: [Discrimination.personal](/_personal/Society/Social_Issues/Discrimination.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Social_Issues/Discrimination.personal|Discrimination.personal]] 
 
-### #is_/same_as :: [Discrimination.secret](/_secret/Society/Social_Issues/Discrimination.secret.md)
+### #is_/same_as :: [[/_secret/Society/Social_Issues/Discrimination.secret|Discrimination.secret]] 
 

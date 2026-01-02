@@ -116,17 +116,17 @@ Commons_category: James Webb Space Telescope
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [JWST(James_Webb_Space_Telescope)](/_Standards/Technology/Tool/Instrumentation/Telescope/JWST(James_Webb_Space_Telescope).md) 
+### #is_/same_as :: [[/_Standards/Technology/Tool/Instrumentation/Telescope/JWST(James_Webb_Space_Telescope)|JWST(James_Webb_Space_Telescope)]] 
 
-### #is_/same_as :: [JWST(James_Webb_Space_Telescope).public](/_public/Technology/Tool/Instrumentation/Telescope/JWST(James_Webb_Space_Telescope).public.md) 
+### #is_/same_as :: [[/_public/Technology/Tool/Instrumentation/Telescope/JWST(James_Webb_Space_Telescope).public|JWST(James_Webb_Space_Telescope).public]] 
 
-### #is_/same_as :: [JWST(James_Webb_Space_Telescope).internal](/_internal/Technology/Tool/Instrumentation/Telescope/JWST(James_Webb_Space_Telescope).internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Tool/Instrumentation/Telescope/JWST(James_Webb_Space_Telescope).internal|JWST(James_Webb_Space_Telescope).internal]] 
 
-### #is_/same_as :: [JWST(James_Webb_Space_Telescope).protect](/_protect/Technology/Tool/Instrumentation/Telescope/JWST(James_Webb_Space_Telescope).protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Tool/Instrumentation/Telescope/JWST(James_Webb_Space_Telescope).protect|JWST(James_Webb_Space_Telescope).protect]] 
 
-### #is_/same_as :: [JWST(James_Webb_Space_Telescope).private](/_private/Technology/Tool/Instrumentation/Telescope/JWST(James_Webb_Space_Telescope).private.md) 
+### #is_/same_as :: [[/_private/Technology/Tool/Instrumentation/Telescope/JWST(James_Webb_Space_Telescope).private|JWST(James_Webb_Space_Telescope).private]] 
 
-### #is_/same_as :: [JWST(James_Webb_Space_Telescope).personal](/_personal/Technology/Tool/Instrumentation/Telescope/JWST(James_Webb_Space_Telescope).personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Tool/Instrumentation/Telescope/JWST(James_Webb_Space_Telescope).personal|JWST(James_Webb_Space_Telescope).personal]] 
 
-### #is_/same_as :: [JWST(James_Webb_Space_Telescope).secret](/_secret/Technology/Tool/Instrumentation/Telescope/JWST(James_Webb_Space_Telescope).secret.md)
+### #is_/same_as :: [[/_secret/Technology/Tool/Instrumentation/Telescope/JWST(James_Webb_Space_Telescope).secret|JWST(James_Webb_Space_Telescope).secret]] 
 

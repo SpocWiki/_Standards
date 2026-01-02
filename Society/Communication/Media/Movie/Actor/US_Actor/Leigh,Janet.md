@@ -120,17 +120,17 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Janet%20Leigh%20Public
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Leigh,Janet](/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Leigh,Janet.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Leigh,Janet|Leigh,Janet]] 
 
-### #is_/same_as :: [Leigh,Janet.public](/_public/Society/Communication/Media/Movie/Actor/US_Actor/Leigh,Janet.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Actor/US_Actor/Leigh,Janet.public|Leigh,Janet.public]] 
 
-### #is_/same_as :: [Leigh,Janet.internal](/_internal/Society/Communication/Media/Movie/Actor/US_Actor/Leigh,Janet.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Actor/US_Actor/Leigh,Janet.internal|Leigh,Janet.internal]] 
 
-### #is_/same_as :: [Leigh,Janet.protect](/_protect/Society/Communication/Media/Movie/Actor/US_Actor/Leigh,Janet.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Actor/US_Actor/Leigh,Janet.protect|Leigh,Janet.protect]] 
 
-### #is_/same_as :: [Leigh,Janet.private](/_private/Society/Communication/Media/Movie/Actor/US_Actor/Leigh,Janet.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Actor/US_Actor/Leigh,Janet.private|Leigh,Janet.private]] 
 
-### #is_/same_as :: [Leigh,Janet.personal](/_personal/Society/Communication/Media/Movie/Actor/US_Actor/Leigh,Janet.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Actor/US_Actor/Leigh,Janet.personal|Leigh,Janet.personal]] 
 
-### #is_/same_as :: [Leigh,Janet.secret](/_secret/Society/Communication/Media/Movie/Actor/US_Actor/Leigh,Janet.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Actor/US_Actor/Leigh,Janet.secret|Leigh,Janet.secret]] 
 

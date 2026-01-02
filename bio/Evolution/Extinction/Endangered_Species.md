@@ -46,17 +46,17 @@ IPTC_NewsCode: mediatopic/20000443
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Endangered_Species](/_Standards/bio/Evolution/Extinction/Endangered_Species.md) 
+### #is_/same_as :: [[/_Standards/bio/Evolution/Extinction/Endangered_Species|Endangered_Species]] 
 
-### #is_/same_as :: [Endangered_Species.public](/_public/bio/Evolution/Extinction/Endangered_Species.public.md) 
+### #is_/same_as :: [[/_public/bio/Evolution/Extinction/Endangered_Species.public|Endangered_Species.public]] 
 
-### #is_/same_as :: [Endangered_Species.internal](/_internal/bio/Evolution/Extinction/Endangered_Species.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Evolution/Extinction/Endangered_Species.internal|Endangered_Species.internal]] 
 
-### #is_/same_as :: [Endangered_Species.protect](/_protect/bio/Evolution/Extinction/Endangered_Species.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Evolution/Extinction/Endangered_Species.protect|Endangered_Species.protect]] 
 
-### #is_/same_as :: [Endangered_Species.private](/_private/bio/Evolution/Extinction/Endangered_Species.private.md) 
+### #is_/same_as :: [[/_private/bio/Evolution/Extinction/Endangered_Species.private|Endangered_Species.private]] 
 
-### #is_/same_as :: [Endangered_Species.personal](/_personal/bio/Evolution/Extinction/Endangered_Species.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Evolution/Extinction/Endangered_Species.personal|Endangered_Species.personal]] 
 
-### #is_/same_as :: [Endangered_Species.secret](/_secret/bio/Evolution/Extinction/Endangered_Species.secret.md)
+### #is_/same_as :: [[/_secret/bio/Evolution/Extinction/Endangered_Species.secret|Endangered_Species.secret]] 
 

@@ -215,17 +215,17 @@ writing_language: '[[_Standards/WikiData/WD~German,188]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hilbert,David](/_Standards/Mathematics/Mathematician/Modern_Mathematician/Hilbert,David.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Mathematician/Modern_Mathematician/Hilbert,David|Hilbert,David]] 
 
-### #is_/same_as :: [Hilbert,David.public](/_public/Mathematics/Mathematician/Modern_Mathematician/Hilbert,David.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Mathematician/Modern_Mathematician/Hilbert,David.public|Hilbert,David.public]] 
 
-### #is_/same_as :: [Hilbert,David.internal](/_internal/Mathematics/Mathematician/Modern_Mathematician/Hilbert,David.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Mathematician/Modern_Mathematician/Hilbert,David.internal|Hilbert,David.internal]] 
 
-### #is_/same_as :: [Hilbert,David.protect](/_protect/Mathematics/Mathematician/Modern_Mathematician/Hilbert,David.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Mathematician/Modern_Mathematician/Hilbert,David.protect|Hilbert,David.protect]] 
 
-### #is_/same_as :: [Hilbert,David.private](/_private/Mathematics/Mathematician/Modern_Mathematician/Hilbert,David.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Mathematician/Modern_Mathematician/Hilbert,David.private|Hilbert,David.private]] 
 
-### #is_/same_as :: [Hilbert,David.personal](/_personal/Mathematics/Mathematician/Modern_Mathematician/Hilbert,David.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Mathematician/Modern_Mathematician/Hilbert,David.personal|Hilbert,David.personal]] 
 
-### #is_/same_as :: [Hilbert,David.secret](/_secret/Mathematics/Mathematician/Modern_Mathematician/Hilbert,David.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Mathematician/Modern_Mathematician/Hilbert,David.secret|Hilbert,David.secret]] 
 

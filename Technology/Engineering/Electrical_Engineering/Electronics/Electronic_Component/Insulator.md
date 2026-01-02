@@ -51,17 +51,17 @@ OpenStreetMap_tag: power=insulator
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Insulator](/_Standards/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Insulator.md) 
+### #is_/same_as :: [[/_Standards/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Insulator|Insulator]] 
 
-### #is_/same_as :: [Insulator.public](/_public/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Insulator.public.md) 
+### #is_/same_as :: [[/_public/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Insulator.public|Insulator.public]] 
 
-### #is_/same_as :: [Insulator.internal](/_internal/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Insulator.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Insulator.internal|Insulator.internal]] 
 
-### #is_/same_as :: [Insulator.protect](/_protect/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Insulator.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Insulator.protect|Insulator.protect]] 
 
-### #is_/same_as :: [Insulator.private](/_private/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Insulator.private.md) 
+### #is_/same_as :: [[/_private/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Insulator.private|Insulator.private]] 
 
-### #is_/same_as :: [Insulator.personal](/_personal/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Insulator.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Insulator.personal|Insulator.personal]] 
 
-### #is_/same_as :: [Insulator.secret](/_secret/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Insulator.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Insulator.secret|Insulator.secret]] 
 

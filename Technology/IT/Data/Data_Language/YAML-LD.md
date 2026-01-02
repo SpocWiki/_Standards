@@ -30,17 +30,17 @@ YAML is a very elaborate Standard and therefore harder to implement.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [YAML-LD](/_Standards/YAML-LD.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Data/Data_Language/YAML-LD|YAML-LD]] 
 
-### #is_/same_as :: [YAML-LD.public](/_public/YAML-LD.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Data/Data_Language/YAML-LD.public|YAML-LD.public]] 
 
-### #is_/same_as :: [YAML-LD.internal](/_internal/YAML-LD.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Data/Data_Language/YAML-LD.internal|YAML-LD.internal]] 
 
-### #is_/same_as :: [YAML-LD.protect](/_protect/YAML-LD.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Data/Data_Language/YAML-LD.protect|YAML-LD.protect]] 
 
-### #is_/same_as :: [YAML-LD.private](/_private/YAML-LD.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Data/Data_Language/YAML-LD.private|YAML-LD.private]] 
 
-### #is_/same_as :: [YAML-LD.personal](/_personal/YAML-LD.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Data/Data_Language/YAML-LD.personal|YAML-LD.personal]] 
 
-### #is_/same_as :: [YAML-LD.secret](/_secret/YAML-LD.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Data/Data_Language/YAML-LD.secret|YAML-LD.secret]] 
 

@@ -48,17 +48,17 @@ name_in_kana: コール・アングレ
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Cor_anglais](/_Standards/Society/Communication/Media/Music/Musical_Instrument/Wind_Instrument/Woodwind/Reed_Instrument/Cor_anglais.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Musical_Instrument/Wind_Instrument/Woodwind/Reed_Instrument/Cor_anglais|Cor_anglais]] 
 
-### #is_/same_as :: [Cor_anglais.public](/_public/Society/Communication/Media/Music/Musical_Instrument/Wind_Instrument/Woodwind/Reed_Instrument/Cor_anglais.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Musical_Instrument/Wind_Instrument/Woodwind/Reed_Instrument/Cor_anglais.public|Cor_anglais.public]] 
 
-### #is_/same_as :: [Cor_anglais.internal](/_internal/Society/Communication/Media/Music/Musical_Instrument/Wind_Instrument/Woodwind/Reed_Instrument/Cor_anglais.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Musical_Instrument/Wind_Instrument/Woodwind/Reed_Instrument/Cor_anglais.internal|Cor_anglais.internal]] 
 
-### #is_/same_as :: [Cor_anglais.protect](/_protect/Society/Communication/Media/Music/Musical_Instrument/Wind_Instrument/Woodwind/Reed_Instrument/Cor_anglais.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Musical_Instrument/Wind_Instrument/Woodwind/Reed_Instrument/Cor_anglais.protect|Cor_anglais.protect]] 
 
-### #is_/same_as :: [Cor_anglais.private](/_private/Society/Communication/Media/Music/Musical_Instrument/Wind_Instrument/Woodwind/Reed_Instrument/Cor_anglais.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Musical_Instrument/Wind_Instrument/Woodwind/Reed_Instrument/Cor_anglais.private|Cor_anglais.private]] 
 
-### #is_/same_as :: [Cor_anglais.personal](/_personal/Society/Communication/Media/Music/Musical_Instrument/Wind_Instrument/Woodwind/Reed_Instrument/Cor_anglais.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Musical_Instrument/Wind_Instrument/Woodwind/Reed_Instrument/Cor_anglais.personal|Cor_anglais.personal]] 
 
-### #is_/same_as :: [Cor_anglais.secret](/_secret/Society/Communication/Media/Music/Musical_Instrument/Wind_Instrument/Woodwind/Reed_Instrument/Cor_anglais.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Musical_Instrument/Wind_Instrument/Woodwind/Reed_Instrument/Cor_anglais.secret|Cor_anglais.secret]] 
 

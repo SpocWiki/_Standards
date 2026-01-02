@@ -132,17 +132,17 @@ sequenced_genome_URL: https://plants.ensembl.org/Phaseolus_vulgaris
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Phaseolus_vulgaris](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Faboideae/Phaseoleae/Phaseolus_vulgaris.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Faboideae/Phaseoleae/Phaseolus_vulgaris|Phaseolus_vulgaris]] 
 
-### #is_/same_as :: [Phaseolus_vulgaris.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Faboideae/Phaseoleae/Phaseolus_vulgaris.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Faboideae/Phaseoleae/Phaseolus_vulgaris.public|Phaseolus_vulgaris.public]] 
 
-### #is_/same_as :: [Phaseolus_vulgaris.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Faboideae/Phaseoleae/Phaseolus_vulgaris.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Faboideae/Phaseoleae/Phaseolus_vulgaris.internal|Phaseolus_vulgaris.internal]] 
 
-### #is_/same_as :: [Phaseolus_vulgaris.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Faboideae/Phaseoleae/Phaseolus_vulgaris.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Faboideae/Phaseoleae/Phaseolus_vulgaris.protect|Phaseolus_vulgaris.protect]] 
 
-### #is_/same_as :: [Phaseolus_vulgaris.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Faboideae/Phaseoleae/Phaseolus_vulgaris.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Faboideae/Phaseoleae/Phaseolus_vulgaris.private|Phaseolus_vulgaris.private]] 
 
-### #is_/same_as :: [Phaseolus_vulgaris.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Faboideae/Phaseoleae/Phaseolus_vulgaris.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Faboideae/Phaseoleae/Phaseolus_vulgaris.personal|Phaseolus_vulgaris.personal]] 
 
-### #is_/same_as :: [Phaseolus_vulgaris.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Faboideae/Phaseoleae/Phaseolus_vulgaris.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Faboideae/Phaseoleae/Phaseolus_vulgaris.secret|Phaseolus_vulgaris.secret]] 
 

@@ -37,17 +37,17 @@ The act of expressing a consistency of opinion with the object. An agent agrees 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~AgreeAction](/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~ReactAction/FileClass~AgreeAction.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~ReactAction/FileClass~AgreeAction|FileClass~AgreeAction]] 
 
-### #is_/same_as :: [FileClass~AgreeAction.public](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~ReactAction/FileClass~AgreeAction.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~ReactAction/FileClass~AgreeAction.public|FileClass~AgreeAction.public]] 
 
-### #is_/same_as :: [FileClass~AgreeAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~ReactAction/FileClass~AgreeAction.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~ReactAction/FileClass~AgreeAction.internal|FileClass~AgreeAction.internal]] 
 
-### #is_/same_as :: [FileClass~AgreeAction.protect](/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~ReactAction/FileClass~AgreeAction.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~ReactAction/FileClass~AgreeAction.protect|FileClass~AgreeAction.protect]] 
 
-### #is_/same_as :: [FileClass~AgreeAction.private](/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~ReactAction/FileClass~AgreeAction.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~ReactAction/FileClass~AgreeAction.private|FileClass~AgreeAction.private]] 
 
-### #is_/same_as :: [FileClass~AgreeAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~ReactAction/FileClass~AgreeAction.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~ReactAction/FileClass~AgreeAction.personal|FileClass~AgreeAction.personal]] 
 
-### #is_/same_as :: [FileClass~AgreeAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~ReactAction/FileClass~AgreeAction.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~ReactAction/FileClass~AgreeAction.secret|FileClass~AgreeAction.secret]] 
 

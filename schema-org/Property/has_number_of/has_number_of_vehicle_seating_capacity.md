@@ -47,17 +47,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_number_of_vehicle_seating_capacity](/_Standards/schema-org/Property/has_number_of/has_number_of_vehicle_seating_capacity.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_number_of/has_number_of_vehicle_seating_capacity|has_number_of_vehicle_seating_capacity]] 
 
-### #is_/same_as :: [has_number_of_vehicle_seating_capacity.public](/_public/schema-org/Property/has_number_of/has_number_of_vehicle_seating_capacity.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/has_number_of/has_number_of_vehicle_seating_capacity.public|has_number_of_vehicle_seating_capacity.public]] 
 
-### #is_/same_as :: [has_number_of_vehicle_seating_capacity.internal](/_internal/schema-org/Property/has_number_of/has_number_of_vehicle_seating_capacity.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_number_of/has_number_of_vehicle_seating_capacity.internal|has_number_of_vehicle_seating_capacity.internal]] 
 
-### #is_/same_as :: [has_number_of_vehicle_seating_capacity.protect](/_protect/schema-org/Property/has_number_of/has_number_of_vehicle_seating_capacity.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_number_of/has_number_of_vehicle_seating_capacity.protect|has_number_of_vehicle_seating_capacity.protect]] 
 
-### #is_/same_as :: [has_number_of_vehicle_seating_capacity.private](/_private/schema-org/Property/has_number_of/has_number_of_vehicle_seating_capacity.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/has_number_of/has_number_of_vehicle_seating_capacity.private|has_number_of_vehicle_seating_capacity.private]] 
 
-### #is_/same_as :: [has_number_of_vehicle_seating_capacity.personal](/_personal/schema-org/Property/has_number_of/has_number_of_vehicle_seating_capacity.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_number_of/has_number_of_vehicle_seating_capacity.personal|has_number_of_vehicle_seating_capacity.personal]] 
 
-### #is_/same_as :: [has_number_of_vehicle_seating_capacity.secret](/_secret/schema-org/Property/has_number_of/has_number_of_vehicle_seating_capacity.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/has_number_of/has_number_of_vehicle_seating_capacity.secret|has_number_of_vehicle_seating_capacity.secret]] 
 

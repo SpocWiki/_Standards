@@ -44,17 +44,17 @@ Tag Instances like this:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [User_Page_Visits](/_Standards/schema-org/Class/is_a_/Event/User_Interaction/User_Page_Visits.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Event/User_Interaction/User_Page_Visits|User_Page_Visits]] 
 
-### #is_/same_as :: [User_Page_Visits.public](/_public/schema-org/Class/is_a_/Event/User_Interaction/User_Page_Visits.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Event/User_Interaction/User_Page_Visits.public|User_Page_Visits.public]] 
 
-### #is_/same_as :: [User_Page_Visits.internal](/_internal/schema-org/Class/is_a_/Event/User_Interaction/User_Page_Visits.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Event/User_Interaction/User_Page_Visits.internal|User_Page_Visits.internal]] 
 
-### #is_/same_as :: [User_Page_Visits.protect](/_protect/schema-org/Class/is_a_/Event/User_Interaction/User_Page_Visits.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Event/User_Interaction/User_Page_Visits.protect|User_Page_Visits.protect]] 
 
-### #is_/same_as :: [User_Page_Visits.private](/_private/schema-org/Class/is_a_/Event/User_Interaction/User_Page_Visits.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Event/User_Interaction/User_Page_Visits.private|User_Page_Visits.private]] 
 
-### #is_/same_as :: [User_Page_Visits.personal](/_personal/schema-org/Class/is_a_/Event/User_Interaction/User_Page_Visits.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Event/User_Interaction/User_Page_Visits.personal|User_Page_Visits.personal]] 
 
-### #is_/same_as :: [User_Page_Visits.secret](/_secret/schema-org/Class/is_a_/Event/User_Interaction/User_Page_Visits.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Event/User_Interaction/User_Page_Visits.secret|User_Page_Visits.secret]] 
 

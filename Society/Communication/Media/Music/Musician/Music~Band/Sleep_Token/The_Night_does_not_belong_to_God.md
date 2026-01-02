@@ -68,17 +68,17 @@ The night comes down like heaven (we tangle endlessly)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [The_Night_does_not_belong_to_God](/_Standards/Society/Communication/Media/Music/Musician/Music~Band/Sleep_Token/The_Night_does_not_belong_to_God.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Musician/Music~Band/Sleep_Token/The_Night_does_not_belong_to_God|The_Night_does_not_belong_to_God]] 
 
-### #is_/same_as :: [The_Night_does_not_belong_to_God.public](/_public/Society/Communication/Media/Music/Musician/Music~Band/Sleep_Token/The_Night_does_not_belong_to_God.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Musician/Music~Band/Sleep_Token/The_Night_does_not_belong_to_God.public|The_Night_does_not_belong_to_God.public]] 
 
-### #is_/same_as :: [The_Night_does_not_belong_to_God.internal](/_internal/Society/Communication/Media/Music/Musician/Music~Band/Sleep_Token/The_Night_does_not_belong_to_God.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Musician/Music~Band/Sleep_Token/The_Night_does_not_belong_to_God.internal|The_Night_does_not_belong_to_God.internal]] 
 
-### #is_/same_as :: [The_Night_does_not_belong_to_God.protect](/_protect/Society/Communication/Media/Music/Musician/Music~Band/Sleep_Token/The_Night_does_not_belong_to_God.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Musician/Music~Band/Sleep_Token/The_Night_does_not_belong_to_God.protect|The_Night_does_not_belong_to_God.protect]] 
 
-### #is_/same_as :: [The_Night_does_not_belong_to_God.private](/_private/Society/Communication/Media/Music/Musician/Music~Band/Sleep_Token/The_Night_does_not_belong_to_God.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Musician/Music~Band/Sleep_Token/The_Night_does_not_belong_to_God.private|The_Night_does_not_belong_to_God.private]] 
 
-### #is_/same_as :: [The_Night_does_not_belong_to_God.personal](/_personal/Society/Communication/Media/Music/Musician/Music~Band/Sleep_Token/The_Night_does_not_belong_to_God.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Musician/Music~Band/Sleep_Token/The_Night_does_not_belong_to_God.personal|The_Night_does_not_belong_to_God.personal]] 
 
-### #is_/same_as :: [The_Night_does_not_belong_to_God.secret](/_secret/Society/Communication/Media/Music/Musician/Music~Band/Sleep_Token/The_Night_does_not_belong_to_God.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Musician/Music~Band/Sleep_Token/The_Night_does_not_belong_to_God.secret|The_Night_does_not_belong_to_God.secret]] 
 

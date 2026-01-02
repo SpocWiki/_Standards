@@ -37,17 +37,17 @@ A radio episode which can be part of a series or season.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~RadioEpisode](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Episode/FileClass~RadioEpisode.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Episode/FileClass~RadioEpisode|FileClass~RadioEpisode]] 
 
-### #is_/same_as :: [FileClass~RadioEpisode.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Episode/FileClass~RadioEpisode.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Episode/FileClass~RadioEpisode.public|FileClass~RadioEpisode.public]] 
 
-### #is_/same_as :: [FileClass~RadioEpisode.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Episode/FileClass~RadioEpisode.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Episode/FileClass~RadioEpisode.internal|FileClass~RadioEpisode.internal]] 
 
-### #is_/same_as :: [FileClass~RadioEpisode.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Episode/FileClass~RadioEpisode.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Episode/FileClass~RadioEpisode.protect|FileClass~RadioEpisode.protect]] 
 
-### #is_/same_as :: [FileClass~RadioEpisode.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Episode/FileClass~RadioEpisode.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Episode/FileClass~RadioEpisode.private|FileClass~RadioEpisode.private]] 
 
-### #is_/same_as :: [FileClass~RadioEpisode.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Episode/FileClass~RadioEpisode.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Episode/FileClass~RadioEpisode.personal|FileClass~RadioEpisode.personal]] 
 
-### #is_/same_as :: [FileClass~RadioEpisode.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Episode/FileClass~RadioEpisode.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Episode/FileClass~RadioEpisode.secret|FileClass~RadioEpisode.secret]] 
 

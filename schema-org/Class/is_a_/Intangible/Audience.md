@@ -43,17 +43,17 @@ Tag Instances like this:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Audience](/_Standards/schema-org/Class/is_a_/Intangible/Audience.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Intangible/Audience|Audience]] 
 
-### #is_/same_as :: [Audience.public](/_public/schema-org/Class/is_a_/Intangible/Audience.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Intangible/Audience.public|Audience.public]] 
 
-### #is_/same_as :: [Audience.internal](/_internal/schema-org/Class/is_a_/Intangible/Audience.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Intangible/Audience.internal|Audience.internal]] 
 
-### #is_/same_as :: [Audience.protect](/_protect/schema-org/Class/is_a_/Intangible/Audience.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Intangible/Audience.protect|Audience.protect]] 
 
-### #is_/same_as :: [Audience.private](/_private/schema-org/Class/is_a_/Intangible/Audience.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Intangible/Audience.private|Audience.private]] 
 
-### #is_/same_as :: [Audience.personal](/_personal/schema-org/Class/is_a_/Intangible/Audience.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Intangible/Audience.personal|Audience.personal]] 
 
-### #is_/same_as :: [Audience.secret](/_secret/schema-org/Class/is_a_/Intangible/Audience.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Intangible/Audience.secret|Audience.secret]] 
 

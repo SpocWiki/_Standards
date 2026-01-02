@@ -136,17 +136,17 @@ under high temperatures and pressures together with mineralic Sources like [[Hyd
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Life](/_Standards/bio/Life.md) 
+### #is_/same_as :: [[/_Standards/bio/Life|Life]] 
 
-### #is_/same_as :: [Life.public](/_public/bio/Life.public.md) 
+### #is_/same_as :: [[/_public/bio/Life.public|Life.public]] 
 
-### #is_/same_as :: [Life.internal](/_internal/bio/Life.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Life.internal|Life.internal]] 
 
-### #is_/same_as :: [Life.protect](/_protect/bio/Life.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Life.protect|Life.protect]] 
 
-### #is_/same_as :: [Life.private](/_private/bio/Life.private.md) 
+### #is_/same_as :: [[/_private/bio/Life.private|Life.private]] 
 
-### #is_/same_as :: [Life.personal](/_personal/bio/Life.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Life.personal|Life.personal]] 
 
-### #is_/same_as :: [Life.secret](/_secret/bio/Life.secret.md)
+### #is_/same_as :: [[/_secret/bio/Life.secret|Life.secret]] 
 

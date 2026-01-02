@@ -92,17 +92,17 @@ Archive_of_Our_Own_tag: תנ"ך | Tanakh
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Tanakh](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Judaism/Tanakh.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Judaism/Tanakh|Tanakh]] 
 
-### #is_/same_as :: [Tanakh.public](/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Judaism/Tanakh.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Judaism/Tanakh.public|Tanakh.public]] 
 
-### #is_/same_as :: [Tanakh.internal](/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Judaism/Tanakh.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Judaism/Tanakh.internal|Tanakh.internal]] 
 
-### #is_/same_as :: [Tanakh.protect](/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Judaism/Tanakh.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Judaism/Tanakh.protect|Tanakh.protect]] 
 
-### #is_/same_as :: [Tanakh.private](/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Judaism/Tanakh.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Judaism/Tanakh.private|Tanakh.private]] 
 
-### #is_/same_as :: [Tanakh.personal](/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Judaism/Tanakh.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Judaism/Tanakh.personal|Tanakh.personal]] 
 
-### #is_/same_as :: [Tanakh.secret](/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Judaism/Tanakh.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Judaism/Tanakh.secret|Tanakh.secret]] 
 

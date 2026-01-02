@@ -127,17 +127,17 @@ U_S_National_Archives_Identifier: "10675282"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hammer](/_Standards/Technology/Tool/Mechanical_Tool/Hand_Tool/Hammer.md) 
+### #is_/same_as :: [[/_Standards/Technology/Tool/Mechanical_Tool/Hand_Tool/Hammer|Hammer]] 
 
-### #is_/same_as :: [Hammer.public](/_public/Technology/Tool/Mechanical_Tool/Hand_Tool/Hammer.public.md) 
+### #is_/same_as :: [[/_public/Technology/Tool/Mechanical_Tool/Hand_Tool/Hammer.public|Hammer.public]] 
 
-### #is_/same_as :: [Hammer.internal](/_internal/Technology/Tool/Mechanical_Tool/Hand_Tool/Hammer.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Tool/Mechanical_Tool/Hand_Tool/Hammer.internal|Hammer.internal]] 
 
-### #is_/same_as :: [Hammer.protect](/_protect/Technology/Tool/Mechanical_Tool/Hand_Tool/Hammer.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Tool/Mechanical_Tool/Hand_Tool/Hammer.protect|Hammer.protect]] 
 
-### #is_/same_as :: [Hammer.private](/_private/Technology/Tool/Mechanical_Tool/Hand_Tool/Hammer.private.md) 
+### #is_/same_as :: [[/_private/Technology/Tool/Mechanical_Tool/Hand_Tool/Hammer.private|Hammer.private]] 
 
-### #is_/same_as :: [Hammer.personal](/_personal/Technology/Tool/Mechanical_Tool/Hand_Tool/Hammer.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Tool/Mechanical_Tool/Hand_Tool/Hammer.personal|Hammer.personal]] 
 
-### #is_/same_as :: [Hammer.secret](/_secret/Technology/Tool/Mechanical_Tool/Hand_Tool/Hammer.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Tool/Mechanical_Tool/Hand_Tool/Hammer.secret|Hammer.secret]] 
 

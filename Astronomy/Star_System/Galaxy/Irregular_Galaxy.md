@@ -23,17 +23,17 @@ Commons_category: Irregular galaxies
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Irregular_Galaxy](/_Standards/Astronomy/Star_System/Galaxy/Irregular_Galaxy.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Star_System/Galaxy/Irregular_Galaxy|Irregular_Galaxy]] 
 
-### #is_/same_as :: [Irregular_Galaxy.public](/_public/Astronomy/Star_System/Galaxy/Irregular_Galaxy.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Star_System/Galaxy/Irregular_Galaxy.public|Irregular_Galaxy.public]] 
 
-### #is_/same_as :: [Irregular_Galaxy.internal](/_internal/Astronomy/Star_System/Galaxy/Irregular_Galaxy.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Star_System/Galaxy/Irregular_Galaxy.internal|Irregular_Galaxy.internal]] 
 
-### #is_/same_as :: [Irregular_Galaxy.protect](/_protect/Astronomy/Star_System/Galaxy/Irregular_Galaxy.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Star_System/Galaxy/Irregular_Galaxy.protect|Irregular_Galaxy.protect]] 
 
-### #is_/same_as :: [Irregular_Galaxy.private](/_private/Astronomy/Star_System/Galaxy/Irregular_Galaxy.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Star_System/Galaxy/Irregular_Galaxy.private|Irregular_Galaxy.private]] 
 
-### #is_/same_as :: [Irregular_Galaxy.personal](/_personal/Astronomy/Star_System/Galaxy/Irregular_Galaxy.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Star_System/Galaxy/Irregular_Galaxy.personal|Irregular_Galaxy.personal]] 
 
-### #is_/same_as :: [Irregular_Galaxy.secret](/_secret/Astronomy/Star_System/Galaxy/Irregular_Galaxy.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Star_System/Galaxy/Irregular_Galaxy.secret|Irregular_Galaxy.secret]] 
 

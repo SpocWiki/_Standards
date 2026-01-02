@@ -210,17 +210,17 @@ Wolfram_Language_entity_type: Movie
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Movie](/_Standards/Society/Communication/Media/Movie.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie|Movie]] 
 
-### #is_/same_as :: [Movie.public](/_public/Society/Communication/Media/Movie.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie.public|Movie.public]] 
 
-### #is_/same_as :: [Movie.internal](/_internal/Society/Communication/Media/Movie.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie.internal|Movie.internal]] 
 
-### #is_/same_as :: [Movie.protect](/_protect/Society/Communication/Media/Movie.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie.protect|Movie.protect]] 
 
-### #is_/same_as :: [Movie.private](/_private/Society/Communication/Media/Movie.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie.private|Movie.private]] 
 
-### #is_/same_as :: [Movie.personal](/_personal/Society/Communication/Media/Movie.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie.personal|Movie.personal]] 
 
-### #is_/same_as :: [Movie.secret](/_secret/Society/Communication/Media/Movie.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie.secret|Movie.secret]] 
 

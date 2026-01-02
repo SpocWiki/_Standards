@@ -121,17 +121,17 @@ date_of_death: 1931-02-11T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Parsons,Charles_Algernon](/_Standards/Science/Inventor/Parsons,Charles_Algernon.md) 
+### #is_/same_as :: [[/_Standards/Science/Inventor/Parsons,Charles_Algernon|Parsons,Charles_Algernon]] 
 
-### #is_/same_as :: [Parsons,Charles_Algernon.public](/_public/Science/Inventor/Parsons,Charles_Algernon.public.md) 
+### #is_/same_as :: [[/_public/Science/Inventor/Parsons,Charles_Algernon.public|Parsons,Charles_Algernon.public]] 
 
-### #is_/same_as :: [Parsons,Charles_Algernon.internal](/_internal/Science/Inventor/Parsons,Charles_Algernon.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Inventor/Parsons,Charles_Algernon.internal|Parsons,Charles_Algernon.internal]] 
 
-### #is_/same_as :: [Parsons,Charles_Algernon.protect](/_protect/Science/Inventor/Parsons,Charles_Algernon.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Inventor/Parsons,Charles_Algernon.protect|Parsons,Charles_Algernon.protect]] 
 
-### #is_/same_as :: [Parsons,Charles_Algernon.private](/_private/Science/Inventor/Parsons,Charles_Algernon.private.md) 
+### #is_/same_as :: [[/_private/Science/Inventor/Parsons,Charles_Algernon.private|Parsons,Charles_Algernon.private]] 
 
-### #is_/same_as :: [Parsons,Charles_Algernon.personal](/_personal/Science/Inventor/Parsons,Charles_Algernon.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Inventor/Parsons,Charles_Algernon.personal|Parsons,Charles_Algernon.personal]] 
 
-### #is_/same_as :: [Parsons,Charles_Algernon.secret](/_secret/Science/Inventor/Parsons,Charles_Algernon.secret.md)
+### #is_/same_as :: [[/_secret/Science/Inventor/Parsons,Charles_Algernon.secret|Parsons,Charles_Algernon.secret]] 
 

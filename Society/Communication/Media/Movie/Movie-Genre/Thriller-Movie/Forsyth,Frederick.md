@@ -32,17 +32,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Forsyth,Frederick](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Forsyth,Frederick.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Forsyth,Frederick|Forsyth,Frederick]] 
 
-### #is_/same_as :: [Forsyth,Frederick.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Forsyth,Frederick.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Forsyth,Frederick.public|Forsyth,Frederick.public]] 
 
-### #is_/same_as :: [Forsyth,Frederick.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Forsyth,Frederick.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Forsyth,Frederick.internal|Forsyth,Frederick.internal]] 
 
-### #is_/same_as :: [Forsyth,Frederick.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Forsyth,Frederick.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Forsyth,Frederick.protect|Forsyth,Frederick.protect]] 
 
-### #is_/same_as :: [Forsyth,Frederick.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Forsyth,Frederick.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Forsyth,Frederick.private|Forsyth,Frederick.private]] 
 
-### #is_/same_as :: [Forsyth,Frederick.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Forsyth,Frederick.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Forsyth,Frederick.personal|Forsyth,Frederick.personal]] 
 
-### #is_/same_as :: [Forsyth,Frederick.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Forsyth,Frederick.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Forsyth,Frederick.secret|Forsyth,Frederick.secret]] 
 

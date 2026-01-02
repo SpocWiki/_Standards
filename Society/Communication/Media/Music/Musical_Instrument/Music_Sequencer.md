@@ -34,17 +34,17 @@ Commons_category: Music sequencers
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Music_Sequencer](/_Standards/Society/Communication/Media/Music/Musical_Instrument/Music_Sequencer.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Musical_Instrument/Music_Sequencer|Music_Sequencer]] 
 
-### #is_/same_as :: [Music_Sequencer.public](/_public/Society/Communication/Media/Music/Musical_Instrument/Music_Sequencer.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Musical_Instrument/Music_Sequencer.public|Music_Sequencer.public]] 
 
-### #is_/same_as :: [Music_Sequencer.internal](/_internal/Society/Communication/Media/Music/Musical_Instrument/Music_Sequencer.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Musical_Instrument/Music_Sequencer.internal|Music_Sequencer.internal]] 
 
-### #is_/same_as :: [Music_Sequencer.protect](/_protect/Society/Communication/Media/Music/Musical_Instrument/Music_Sequencer.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Musical_Instrument/Music_Sequencer.protect|Music_Sequencer.protect]] 
 
-### #is_/same_as :: [Music_Sequencer.private](/_private/Society/Communication/Media/Music/Musical_Instrument/Music_Sequencer.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Musical_Instrument/Music_Sequencer.private|Music_Sequencer.private]] 
 
-### #is_/same_as :: [Music_Sequencer.personal](/_personal/Society/Communication/Media/Music/Musical_Instrument/Music_Sequencer.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Musical_Instrument/Music_Sequencer.personal|Music_Sequencer.personal]] 
 
-### #is_/same_as :: [Music_Sequencer.secret](/_secret/Society/Communication/Media/Music/Musical_Instrument/Music_Sequencer.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Musical_Instrument/Music_Sequencer.secret|Music_Sequencer.secret]] 
 

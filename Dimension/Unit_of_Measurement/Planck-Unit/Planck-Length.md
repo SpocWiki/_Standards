@@ -19,17 +19,17 @@ would result in black hole production.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Planck-Length](/_Standards/Dimension/Unit_of_Measurement/Planck-Unit/Planck-Length.md) 
+### #is_/same_as :: [[/_Standards/Dimension/Unit_of_Measurement/Planck-Unit/Planck-Length|Planck-Length]] 
 
-### #is_/same_as :: [Planck-Length.public](/_public/Dimension/Unit_of_Measurement/Planck-Unit/Planck-Length.public.md) 
+### #is_/same_as :: [[/_public/Dimension/Unit_of_Measurement/Planck-Unit/Planck-Length.public|Planck-Length.public]] 
 
-### #is_/same_as :: [Planck-Length.internal](/_internal/Dimension/Unit_of_Measurement/Planck-Unit/Planck-Length.internal.md) 
+### #is_/same_as :: [[/_internal/Dimension/Unit_of_Measurement/Planck-Unit/Planck-Length.internal|Planck-Length.internal]] 
 
-### #is_/same_as :: [Planck-Length.protect](/_protect/Dimension/Unit_of_Measurement/Planck-Unit/Planck-Length.protect.md) 
+### #is_/same_as :: [[/_protect/Dimension/Unit_of_Measurement/Planck-Unit/Planck-Length.protect|Planck-Length.protect]] 
 
-### #is_/same_as :: [Planck-Length.private](/_private/Dimension/Unit_of_Measurement/Planck-Unit/Planck-Length.private.md) 
+### #is_/same_as :: [[/_private/Dimension/Unit_of_Measurement/Planck-Unit/Planck-Length.private|Planck-Length.private]] 
 
-### #is_/same_as :: [Planck-Length.personal](/_personal/Dimension/Unit_of_Measurement/Planck-Unit/Planck-Length.personal.md) 
+### #is_/same_as :: [[/_personal/Dimension/Unit_of_Measurement/Planck-Unit/Planck-Length.personal|Planck-Length.personal]] 
 
-### #is_/same_as :: [Planck-Length.secret](/_secret/Dimension/Unit_of_Measurement/Planck-Unit/Planck-Length.secret.md)
+### #is_/same_as :: [[/_secret/Dimension/Unit_of_Measurement/Planck-Unit/Planck-Length.secret|Planck-Length.secret]] 
 

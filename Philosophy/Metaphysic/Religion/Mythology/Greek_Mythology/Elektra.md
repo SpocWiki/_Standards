@@ -80,17 +80,17 @@ name_in_native_language: Ἠλέκτρα
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Elektra](/_Standards/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Elektra.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Elektra|Elektra]] 
 
-### #is_/same_as :: [Elektra.public](/_public/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Elektra.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Elektra.public|Elektra.public]] 
 
-### #is_/same_as :: [Elektra.internal](/_internal/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Elektra.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Elektra.internal|Elektra.internal]] 
 
-### #is_/same_as :: [Elektra.protect](/_protect/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Elektra.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Elektra.protect|Elektra.protect]] 
 
-### #is_/same_as :: [Elektra.private](/_private/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Elektra.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Elektra.private|Elektra.private]] 
 
-### #is_/same_as :: [Elektra.personal](/_personal/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Elektra.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Elektra.personal|Elektra.personal]] 
 
-### #is_/same_as :: [Elektra.secret](/_secret/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Elektra.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Elektra.secret|Elektra.secret]] 
 

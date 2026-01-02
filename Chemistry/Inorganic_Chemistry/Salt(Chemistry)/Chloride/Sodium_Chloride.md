@@ -106,17 +106,17 @@ DSSTOX_compound_identifier: DTXCID001271
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sodium_Chloride](/_Standards/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Chloride/Sodium_Chloride.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Chloride/Sodium_Chloride|Sodium_Chloride]] 
 
-### #is_/same_as :: [Sodium_Chloride.public](/_public/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Chloride/Sodium_Chloride.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Chloride/Sodium_Chloride.public|Sodium_Chloride.public]] 
 
-### #is_/same_as :: [Sodium_Chloride.internal](/_internal/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Chloride/Sodium_Chloride.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Chloride/Sodium_Chloride.internal|Sodium_Chloride.internal]] 
 
-### #is_/same_as :: [Sodium_Chloride.protect](/_protect/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Chloride/Sodium_Chloride.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Chloride/Sodium_Chloride.protect|Sodium_Chloride.protect]] 
 
-### #is_/same_as :: [Sodium_Chloride.private](/_private/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Chloride/Sodium_Chloride.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Chloride/Sodium_Chloride.private|Sodium_Chloride.private]] 
 
-### #is_/same_as :: [Sodium_Chloride.personal](/_personal/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Chloride/Sodium_Chloride.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Chloride/Sodium_Chloride.personal|Sodium_Chloride.personal]] 
 
-### #is_/same_as :: [Sodium_Chloride.secret](/_secret/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Chloride/Sodium_Chloride.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Chloride/Sodium_Chloride.secret|Sodium_Chloride.secret]] 
 

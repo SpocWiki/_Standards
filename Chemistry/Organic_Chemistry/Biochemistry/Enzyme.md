@@ -65,17 +65,17 @@ Krugosvet_article_archived_: nauka_i_tehnika/biologiya/FERMENTI.html
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Enzyme](/_Standards/Chemistry/Organic_Chemistry/Biochemistry/Enzyme.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Organic_Chemistry/Biochemistry/Enzyme|Enzyme]] 
 
-### #is_/same_as :: [Enzyme.public](/_public/Chemistry/Organic_Chemistry/Biochemistry/Enzyme.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Organic_Chemistry/Biochemistry/Enzyme.public|Enzyme.public]] 
 
-### #is_/same_as :: [Enzyme.internal](/_internal/Chemistry/Organic_Chemistry/Biochemistry/Enzyme.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Organic_Chemistry/Biochemistry/Enzyme.internal|Enzyme.internal]] 
 
-### #is_/same_as :: [Enzyme.protect](/_protect/Chemistry/Organic_Chemistry/Biochemistry/Enzyme.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Organic_Chemistry/Biochemistry/Enzyme.protect|Enzyme.protect]] 
 
-### #is_/same_as :: [Enzyme.private](/_private/Chemistry/Organic_Chemistry/Biochemistry/Enzyme.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Organic_Chemistry/Biochemistry/Enzyme.private|Enzyme.private]] 
 
-### #is_/same_as :: [Enzyme.personal](/_personal/Chemistry/Organic_Chemistry/Biochemistry/Enzyme.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Organic_Chemistry/Biochemistry/Enzyme.personal|Enzyme.personal]] 
 
-### #is_/same_as :: [Enzyme.secret](/_secret/Chemistry/Organic_Chemistry/Biochemistry/Enzyme.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Organic_Chemistry/Biochemistry/Enzyme.secret|Enzyme.secret]] 
 

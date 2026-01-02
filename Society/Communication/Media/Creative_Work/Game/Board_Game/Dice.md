@@ -74,17 +74,17 @@ Library_of_Congress_Classification: GV1303
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Dice](/_Standards/Society/Communication/Media/Creative_Work/Game/Board_Game/Dice.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Creative_Work/Game/Board_Game/Dice|Dice]] 
 
-### #is_/same_as :: [Dice.public](/_public/Society/Communication/Media/Creative_Work/Game/Board_Game/Dice.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Creative_Work/Game/Board_Game/Dice.public|Dice.public]] 
 
-### #is_/same_as :: [Dice.internal](/_internal/Society/Communication/Media/Creative_Work/Game/Board_Game/Dice.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Creative_Work/Game/Board_Game/Dice.internal|Dice.internal]] 
 
-### #is_/same_as :: [Dice.protect](/_protect/Society/Communication/Media/Creative_Work/Game/Board_Game/Dice.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Creative_Work/Game/Board_Game/Dice.protect|Dice.protect]] 
 
-### #is_/same_as :: [Dice.private](/_private/Society/Communication/Media/Creative_Work/Game/Board_Game/Dice.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Creative_Work/Game/Board_Game/Dice.private|Dice.private]] 
 
-### #is_/same_as :: [Dice.personal](/_personal/Society/Communication/Media/Creative_Work/Game/Board_Game/Dice.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/Game/Board_Game/Dice.personal|Dice.personal]] 
 
-### #is_/same_as :: [Dice.secret](/_secret/Society/Communication/Media/Creative_Work/Game/Board_Game/Dice.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Game/Board_Game/Dice.secret|Dice.secret]] 
 

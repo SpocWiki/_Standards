@@ -165,17 +165,17 @@ Libris_URI: jgvxsn523mnhbk3
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lawrence,T._E.](/_Standards/Society/Politics/Diplomacy/Diplomat/Lawrence,T._E..md) 
+### #is_/same_as :: [[/_Standards/Society/Politics/Diplomacy/Diplomat/Lawrence,T._E.|Lawrence,T._E.]] 
 
-### #is_/same_as :: [Lawrence,T._E..public](/_public/Society/Politics/Diplomacy/Diplomat/Lawrence,T._E..public.md) 
+### #is_/same_as :: [[/_public/Society/Politics/Diplomacy/Diplomat/Lawrence,T._E..public|Lawrence,T._E..public]] 
 
-### #is_/same_as :: [Lawrence,T._E..internal](/_internal/Society/Politics/Diplomacy/Diplomat/Lawrence,T._E..internal.md) 
+### #is_/same_as :: [[/_internal/Society/Politics/Diplomacy/Diplomat/Lawrence,T._E..internal|Lawrence,T._E..internal]] 
 
-### #is_/same_as :: [Lawrence,T._E..protect](/_protect/Society/Politics/Diplomacy/Diplomat/Lawrence,T._E..protect.md) 
+### #is_/same_as :: [[/_protect/Society/Politics/Diplomacy/Diplomat/Lawrence,T._E..protect|Lawrence,T._E..protect]] 
 
-### #is_/same_as :: [Lawrence,T._E..private](/_private/Society/Politics/Diplomacy/Diplomat/Lawrence,T._E..private.md) 
+### #is_/same_as :: [[/_private/Society/Politics/Diplomacy/Diplomat/Lawrence,T._E..private|Lawrence,T._E..private]] 
 
-### #is_/same_as :: [Lawrence,T._E..personal](/_personal/Society/Politics/Diplomacy/Diplomat/Lawrence,T._E..personal.md) 
+### #is_/same_as :: [[/_personal/Society/Politics/Diplomacy/Diplomat/Lawrence,T._E..personal|Lawrence,T._E..personal]] 
 
-### #is_/same_as :: [Lawrence,T._E..secret](/_secret/Society/Politics/Diplomacy/Diplomat/Lawrence,T._E..secret.md)
+### #is_/same_as :: [[/_secret/Society/Politics/Diplomacy/Diplomat/Lawrence,T._E..secret|Lawrence,T._E..secret]] 
 

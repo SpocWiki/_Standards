@@ -91,17 +91,17 @@ Ozzy Osbourne
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Revolver(Beatles)](/_Standards/Society/Communication/Media/Music/Musician/Music~Band/Beatles/Revolver(Beatles).md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Musician/Music~Band/Beatles/Revolver(Beatles)|Revolver(Beatles)]] 
 
-### #is_/same_as :: [Revolver(Beatles).public](/_public/Society/Communication/Media/Music/Musician/Music~Band/Beatles/Revolver(Beatles).public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Musician/Music~Band/Beatles/Revolver(Beatles).public|Revolver(Beatles).public]] 
 
-### #is_/same_as :: [Revolver(Beatles).internal](/_internal/Society/Communication/Media/Music/Musician/Music~Band/Beatles/Revolver(Beatles).internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Musician/Music~Band/Beatles/Revolver(Beatles).internal|Revolver(Beatles).internal]] 
 
-### #is_/same_as :: [Revolver(Beatles).protect](/_protect/Society/Communication/Media/Music/Musician/Music~Band/Beatles/Revolver(Beatles).protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Musician/Music~Band/Beatles/Revolver(Beatles).protect|Revolver(Beatles).protect]] 
 
-### #is_/same_as :: [Revolver(Beatles).private](/_private/Society/Communication/Media/Music/Musician/Music~Band/Beatles/Revolver(Beatles).private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Musician/Music~Band/Beatles/Revolver(Beatles).private|Revolver(Beatles).private]] 
 
-### #is_/same_as :: [Revolver(Beatles).personal](/_personal/Society/Communication/Media/Music/Musician/Music~Band/Beatles/Revolver(Beatles).personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Musician/Music~Band/Beatles/Revolver(Beatles).personal|Revolver(Beatles).personal]] 
 
-### #is_/same_as :: [Revolver(Beatles).secret](/_secret/Society/Communication/Media/Music/Musician/Music~Band/Beatles/Revolver(Beatles).secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Musician/Music~Band/Beatles/Revolver(Beatles).secret|Revolver(Beatles).secret]] 
 

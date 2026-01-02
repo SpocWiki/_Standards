@@ -8,17 +8,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Windows95](/_Standards/Technology/IT/Software/OS(Operating-System)/OS~Windows/Windows95.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Software/OS(Operating-System)/OS~Windows/Windows95|Windows95]] 
 
-### #is_/same_as :: [Windows95.public](/_public/Technology/IT/Software/OS(Operating-System)/OS~Windows/Windows95.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Software/OS(Operating-System)/OS~Windows/Windows95.public|Windows95.public]] 
 
-### #is_/same_as :: [Windows95.internal](/_internal/Technology/IT/Software/OS(Operating-System)/OS~Windows/Windows95.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Software/OS(Operating-System)/OS~Windows/Windows95.internal|Windows95.internal]] 
 
-### #is_/same_as :: [Windows95.protect](/_protect/Technology/IT/Software/OS(Operating-System)/OS~Windows/Windows95.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Software/OS(Operating-System)/OS~Windows/Windows95.protect|Windows95.protect]] 
 
-### #is_/same_as :: [Windows95.private](/_private/Technology/IT/Software/OS(Operating-System)/OS~Windows/Windows95.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Software/OS(Operating-System)/OS~Windows/Windows95.private|Windows95.private]] 
 
-### #is_/same_as :: [Windows95.personal](/_personal/Technology/IT/Software/OS(Operating-System)/OS~Windows/Windows95.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Software/OS(Operating-System)/OS~Windows/Windows95.personal|Windows95.personal]] 
 
-### #is_/same_as :: [Windows95.secret](/_secret/Technology/IT/Software/OS(Operating-System)/OS~Windows/Windows95.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Software/OS(Operating-System)/OS~Windows/Windows95.secret|Windows95.secret]] 
 

@@ -43,17 +43,17 @@ A single season of a podcast. Many podcasts do not break down into separate seas
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Podcast_Season](/_Standards/Society/Communication/Media/Creative_Work/Creative_Work_Season/Podcast_Season.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Creative_Work/Creative_Work_Season/Podcast_Season|Podcast_Season]] 
 
-### #is_/same_as :: [Podcast_Season.public](/_public/Society/Communication/Media/Creative_Work/Creative_Work_Season/Podcast_Season.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Creative_Work/Creative_Work_Season/Podcast_Season.public|Podcast_Season.public]] 
 
-### #is_/same_as :: [Podcast_Season.internal](/_internal/Society/Communication/Media/Creative_Work/Creative_Work_Season/Podcast_Season.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Creative_Work/Creative_Work_Season/Podcast_Season.internal|Podcast_Season.internal]] 
 
-### #is_/same_as :: [Podcast_Season.protect](/_protect/Society/Communication/Media/Creative_Work/Creative_Work_Season/Podcast_Season.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Creative_Work/Creative_Work_Season/Podcast_Season.protect|Podcast_Season.protect]] 
 
-### #is_/same_as :: [Podcast_Season.private](/_private/Society/Communication/Media/Creative_Work/Creative_Work_Season/Podcast_Season.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Creative_Work/Creative_Work_Season/Podcast_Season.private|Podcast_Season.private]] 
 
-### #is_/same_as :: [Podcast_Season.personal](/_personal/Society/Communication/Media/Creative_Work/Creative_Work_Season/Podcast_Season.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/Creative_Work_Season/Podcast_Season.personal|Podcast_Season.personal]] 
 
-### #is_/same_as :: [Podcast_Season.secret](/_secret/Society/Communication/Media/Creative_Work/Creative_Work_Season/Podcast_Season.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Creative_Work_Season/Podcast_Season.secret|Podcast_Season.secret]] 
 

@@ -107,13 +107,13 @@ of Natural History. 235:1-82.
 
 ## Title Illustrations
 
-![](Molossoidea/molossus1.gif))
+![](Molossoidea/molossus1.gif) 
 
   ----------
   Scientific Name ::  Molossus rufus
   Copyright ::         © 1998 Nancy Simmons
   ----------
-![](Molossoidea/molossus_rufus.gif))
+![](Molossoidea/molossus_rufus.gif) 
 
   ----------
   Scientific Name ::  Molossus rufus
@@ -123,17 +123,17 @@ of Natural History. 235:1-82.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Molossoidea](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Bat/Microchiroptera/Molossoidea.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Bat/Microchiroptera/Molossoidea|Molossoidea]] 
 
-### #is_/same_as :: [Molossoidea.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Bat/Microchiroptera/Molossoidea.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Bat/Microchiroptera/Molossoidea.public|Molossoidea.public]] 
 
-### #is_/same_as :: [Molossoidea.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Bat/Microchiroptera/Molossoidea.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Bat/Microchiroptera/Molossoidea.internal|Molossoidea.internal]] 
 
-### #is_/same_as :: [Molossoidea.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Bat/Microchiroptera/Molossoidea.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Bat/Microchiroptera/Molossoidea.protect|Molossoidea.protect]] 
 
-### #is_/same_as :: [Molossoidea.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Bat/Microchiroptera/Molossoidea.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Bat/Microchiroptera/Molossoidea.private|Molossoidea.private]] 
 
-### #is_/same_as :: [Molossoidea.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Bat/Microchiroptera/Molossoidea.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Bat/Microchiroptera/Molossoidea.personal|Molossoidea.personal]] 
 
-### #is_/same_as :: [Molossoidea.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Bat/Microchiroptera/Molossoidea.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Bat/Microchiroptera/Molossoidea.secret|Molossoidea.secret]] 
 

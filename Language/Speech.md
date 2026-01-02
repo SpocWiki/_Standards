@@ -81,17 +81,17 @@ Unicode_character: 🗣
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Speech](/_Standards/Language/Speech.md) 
+### #is_/same_as :: [[/_Standards/Language/Speech|Speech]] 
 
-### #is_/same_as :: [Speech.public](/_public/Language/Speech.public.md) 
+### #is_/same_as :: [[/_public/Language/Speech.public|Speech.public]] 
 
-### #is_/same_as :: [Speech.internal](/_internal/Language/Speech.internal.md) 
+### #is_/same_as :: [[/_internal/Language/Speech.internal|Speech.internal]] 
 
-### #is_/same_as :: [Speech.protect](/_protect/Language/Speech.protect.md) 
+### #is_/same_as :: [[/_protect/Language/Speech.protect|Speech.protect]] 
 
-### #is_/same_as :: [Speech.private](/_private/Language/Speech.private.md) 
+### #is_/same_as :: [[/_private/Language/Speech.private|Speech.private]] 
 
-### #is_/same_as :: [Speech.personal](/_personal/Language/Speech.personal.md) 
+### #is_/same_as :: [[/_personal/Language/Speech.personal|Speech.personal]] 
 
-### #is_/same_as :: [Speech.secret](/_secret/Language/Speech.secret.md)
+### #is_/same_as :: [[/_secret/Language/Speech.secret|Speech.secret]] 
 

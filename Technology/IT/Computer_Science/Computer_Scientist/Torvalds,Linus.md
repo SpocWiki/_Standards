@@ -122,17 +122,17 @@ birth_name: Linus Benedict Torvalds
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Torvalds,Linus](/_Standards/Technology/IT/Computer_Science/Computer_Scientist/Torvalds,Linus.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Computer_Science/Computer_Scientist/Torvalds,Linus|Torvalds,Linus]] 
 
-### #is_/same_as :: [Torvalds,Linus.public](/_public/Technology/IT/Computer_Science/Computer_Scientist/Torvalds,Linus.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Computer_Science/Computer_Scientist/Torvalds,Linus.public|Torvalds,Linus.public]] 
 
-### #is_/same_as :: [Torvalds,Linus.internal](/_internal/Technology/IT/Computer_Science/Computer_Scientist/Torvalds,Linus.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Computer_Science/Computer_Scientist/Torvalds,Linus.internal|Torvalds,Linus.internal]] 
 
-### #is_/same_as :: [Torvalds,Linus.protect](/_protect/Technology/IT/Computer_Science/Computer_Scientist/Torvalds,Linus.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Computer_Science/Computer_Scientist/Torvalds,Linus.protect|Torvalds,Linus.protect]] 
 
-### #is_/same_as :: [Torvalds,Linus.private](/_private/Technology/IT/Computer_Science/Computer_Scientist/Torvalds,Linus.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Computer_Science/Computer_Scientist/Torvalds,Linus.private|Torvalds,Linus.private]] 
 
-### #is_/same_as :: [Torvalds,Linus.personal](/_personal/Technology/IT/Computer_Science/Computer_Scientist/Torvalds,Linus.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Computer_Science/Computer_Scientist/Torvalds,Linus.personal|Torvalds,Linus.personal]] 
 
-### #is_/same_as :: [Torvalds,Linus.secret](/_secret/Technology/IT/Computer_Science/Computer_Scientist/Torvalds,Linus.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Computer_Science/Computer_Scientist/Torvalds,Linus.secret|Torvalds,Linus.secret]] 
 

@@ -37,17 +37,17 @@ A college, university, or other third-level educational institution.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~CollegeOrUniversity](/_Standards/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~CivicStructureAndOrganization/FileClass~EducationalOrganization/FileClass~CollegeOrUniversity.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~CivicStructureAndOrganization/FileClass~EducationalOrganization/FileClass~CollegeOrUniversity|FileClass~CollegeOrUniversity]] 
 
-### #is_/same_as :: [FileClass~CollegeOrUniversity.public](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~CivicStructureAndOrganization/FileClass~EducationalOrganization/FileClass~CollegeOrUniversity.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~CivicStructureAndOrganization/FileClass~EducationalOrganization/FileClass~CollegeOrUniversity.public|FileClass~CollegeOrUniversity.public]] 
 
-### #is_/same_as :: [FileClass~CollegeOrUniversity.internal](/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~CivicStructureAndOrganization/FileClass~EducationalOrganization/FileClass~CollegeOrUniversity.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~CivicStructureAndOrganization/FileClass~EducationalOrganization/FileClass~CollegeOrUniversity.internal|FileClass~CollegeOrUniversity.internal]] 
 
-### #is_/same_as :: [FileClass~CollegeOrUniversity.protect](/_protect/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~CivicStructureAndOrganization/FileClass~EducationalOrganization/FileClass~CollegeOrUniversity.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~CivicStructureAndOrganization/FileClass~EducationalOrganization/FileClass~CollegeOrUniversity.protect|FileClass~CollegeOrUniversity.protect]] 
 
-### #is_/same_as :: [FileClass~CollegeOrUniversity.private](/_private/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~CivicStructureAndOrganization/FileClass~EducationalOrganization/FileClass~CollegeOrUniversity.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~CivicStructureAndOrganization/FileClass~EducationalOrganization/FileClass~CollegeOrUniversity.private|FileClass~CollegeOrUniversity.private]] 
 
-### #is_/same_as :: [FileClass~CollegeOrUniversity.personal](/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~CivicStructureAndOrganization/FileClass~EducationalOrganization/FileClass~CollegeOrUniversity.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~CivicStructureAndOrganization/FileClass~EducationalOrganization/FileClass~CollegeOrUniversity.personal|FileClass~CollegeOrUniversity.personal]] 
 
-### #is_/same_as :: [FileClass~CollegeOrUniversity.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~CivicStructureAndOrganization/FileClass~EducationalOrganization/FileClass~CollegeOrUniversity.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~CivicStructureAndOrganization/FileClass~EducationalOrganization/FileClass~CollegeOrUniversity.secret|FileClass~CollegeOrUniversity.secret]] 
 

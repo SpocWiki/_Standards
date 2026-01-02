@@ -110,17 +110,17 @@ P1015: 90053007
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Capote,Truman](/_Standards/Society/Communication/Media/Writing/Book/Writer/US_Writer/Capote,Truman.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Writer/US_Writer/Capote,Truman|Capote,Truman]] 
 
-### #is_/same_as :: [Capote,Truman.public](/_public/Society/Communication/Media/Writing/Book/Writer/US_Writer/Capote,Truman.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Writer/US_Writer/Capote,Truman.public|Capote,Truman.public]] 
 
-### #is_/same_as :: [Capote,Truman.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/US_Writer/Capote,Truman.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Writer/US_Writer/Capote,Truman.internal|Capote,Truman.internal]] 
 
-### #is_/same_as :: [Capote,Truman.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/US_Writer/Capote,Truman.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Writer/US_Writer/Capote,Truman.protect|Capote,Truman.protect]] 
 
-### #is_/same_as :: [Capote,Truman.private](/_private/Society/Communication/Media/Writing/Book/Writer/US_Writer/Capote,Truman.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Writer/US_Writer/Capote,Truman.private|Capote,Truman.private]] 
 
-### #is_/same_as :: [Capote,Truman.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/US_Writer/Capote,Truman.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Writer/US_Writer/Capote,Truman.personal|Capote,Truman.personal]] 
 
-### #is_/same_as :: [Capote,Truman.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/US_Writer/Capote,Truman.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Writer/US_Writer/Capote,Truman.secret|Capote,Truman.secret]] 
 

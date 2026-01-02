@@ -12,17 +12,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Fabasoft](/_Standards/Society/Agent/Community/Organization/Company/Corporation/IT~Company/ISP(Internet-Service_provider)/Fabasoft.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Company/Corporation/IT~Company/ISP(Internet-Service_provider)/Fabasoft|Fabasoft]] 
 
-### #is_/same_as :: [Fabasoft.public](/_public/Society/Agent/Community/Organization/Company/Corporation/IT~Company/ISP(Internet-Service_provider)/Fabasoft.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Company/Corporation/IT~Company/ISP(Internet-Service_provider)/Fabasoft.public|Fabasoft.public]] 
 
-### #is_/same_as :: [Fabasoft.internal](/_internal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/ISP(Internet-Service_provider)/Fabasoft.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/ISP(Internet-Service_provider)/Fabasoft.internal|Fabasoft.internal]] 
 
-### #is_/same_as :: [Fabasoft.protect](/_protect/Society/Agent/Community/Organization/Company/Corporation/IT~Company/ISP(Internet-Service_provider)/Fabasoft.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Company/Corporation/IT~Company/ISP(Internet-Service_provider)/Fabasoft.protect|Fabasoft.protect]] 
 
-### #is_/same_as :: [Fabasoft.private](/_private/Society/Agent/Community/Organization/Company/Corporation/IT~Company/ISP(Internet-Service_provider)/Fabasoft.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Company/Corporation/IT~Company/ISP(Internet-Service_provider)/Fabasoft.private|Fabasoft.private]] 
 
-### #is_/same_as :: [Fabasoft.personal](/_personal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/ISP(Internet-Service_provider)/Fabasoft.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/ISP(Internet-Service_provider)/Fabasoft.personal|Fabasoft.personal]] 
 
-### #is_/same_as :: [Fabasoft.secret](/_secret/Society/Agent/Community/Organization/Company/Corporation/IT~Company/ISP(Internet-Service_provider)/Fabasoft.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Company/Corporation/IT~Company/ISP(Internet-Service_provider)/Fabasoft.secret|Fabasoft.secret]] 
 

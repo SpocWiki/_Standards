@@ -40,17 +40,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_itinerary](/_Standards/schema-org/Relation/has/has_itinerary.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_itinerary|has_itinerary]] 
 
-### #is_/same_as :: [has_itinerary.public](/_public/schema-org/Relation/has/has_itinerary.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_itinerary.public|has_itinerary.public]] 
 
-### #is_/same_as :: [has_itinerary.internal](/_internal/schema-org/Relation/has/has_itinerary.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_itinerary.internal|has_itinerary.internal]] 
 
-### #is_/same_as :: [has_itinerary.protect](/_protect/schema-org/Relation/has/has_itinerary.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_itinerary.protect|has_itinerary.protect]] 
 
-### #is_/same_as :: [has_itinerary.private](/_private/schema-org/Relation/has/has_itinerary.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_itinerary.private|has_itinerary.private]] 
 
-### #is_/same_as :: [has_itinerary.personal](/_personal/schema-org/Relation/has/has_itinerary.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_itinerary.personal|has_itinerary.personal]] 
 
-### #is_/same_as :: [has_itinerary.secret](/_secret/schema-org/Relation/has/has_itinerary.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_itinerary.secret|has_itinerary.secret]] 
 

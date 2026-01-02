@@ -55,17 +55,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Habitat](/_Standards/bio/Ecology/Habitat.md) 
+### #is_/same_as :: [[/_Standards/bio/Ecology/Habitat|Habitat]] 
 
-### #is_/same_as :: [Habitat.public](/_public/bio/Ecology/Habitat.public.md) 
+### #is_/same_as :: [[/_public/bio/Ecology/Habitat.public|Habitat.public]] 
 
-### #is_/same_as :: [Habitat.internal](/_internal/bio/Ecology/Habitat.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Ecology/Habitat.internal|Habitat.internal]] 
 
-### #is_/same_as :: [Habitat.protect](/_protect/bio/Ecology/Habitat.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Ecology/Habitat.protect|Habitat.protect]] 
 
-### #is_/same_as :: [Habitat.private](/_private/bio/Ecology/Habitat.private.md) 
+### #is_/same_as :: [[/_private/bio/Ecology/Habitat.private|Habitat.private]] 
 
-### #is_/same_as :: [Habitat.personal](/_personal/bio/Ecology/Habitat.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Ecology/Habitat.personal|Habitat.personal]] 
 
-### #is_/same_as :: [Habitat.secret](/_secret/bio/Ecology/Habitat.secret.md)
+### #is_/same_as :: [[/_secret/bio/Ecology/Habitat.secret|Habitat.secret]] 
 

@@ -39,17 +39,17 @@ Commons_category: Environmental art
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Environmental_Art](/_Standards/Society/Communication/Art/Environmental_Art.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Art/Environmental_Art|Environmental_Art]] 
 
-### #is_/same_as :: [Environmental_Art.public](/_public/Society/Communication/Art/Environmental_Art.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Art/Environmental_Art.public|Environmental_Art.public]] 
 
-### #is_/same_as :: [Environmental_Art.internal](/_internal/Society/Communication/Art/Environmental_Art.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Art/Environmental_Art.internal|Environmental_Art.internal]] 
 
-### #is_/same_as :: [Environmental_Art.protect](/_protect/Society/Communication/Art/Environmental_Art.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Art/Environmental_Art.protect|Environmental_Art.protect]] 
 
-### #is_/same_as :: [Environmental_Art.private](/_private/Society/Communication/Art/Environmental_Art.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Art/Environmental_Art.private|Environmental_Art.private]] 
 
-### #is_/same_as :: [Environmental_Art.personal](/_personal/Society/Communication/Art/Environmental_Art.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Art/Environmental_Art.personal|Environmental_Art.personal]] 
 
-### #is_/same_as :: [Environmental_Art.secret](/_secret/Society/Communication/Art/Environmental_Art.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Art/Environmental_Art.secret|Environmental_Art.secret]] 
 

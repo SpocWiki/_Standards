@@ -97,17 +97,17 @@ coordinate_location: Point(55.274166666 25.197222222)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Burj_Khalifa](/_Standards/Earth/Geography/Place/Burj_Khalifa.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geography/Place/Burj_Khalifa|Burj_Khalifa]] 
 
-### #is_/same_as :: [Burj_Khalifa.public](/_public/Earth/Geography/Place/Burj_Khalifa.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geography/Place/Burj_Khalifa.public|Burj_Khalifa.public]] 
 
-### #is_/same_as :: [Burj_Khalifa.internal](/_internal/Earth/Geography/Place/Burj_Khalifa.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geography/Place/Burj_Khalifa.internal|Burj_Khalifa.internal]] 
 
-### #is_/same_as :: [Burj_Khalifa.protect](/_protect/Earth/Geography/Place/Burj_Khalifa.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geography/Place/Burj_Khalifa.protect|Burj_Khalifa.protect]] 
 
-### #is_/same_as :: [Burj_Khalifa.private](/_private/Earth/Geography/Place/Burj_Khalifa.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geography/Place/Burj_Khalifa.private|Burj_Khalifa.private]] 
 
-### #is_/same_as :: [Burj_Khalifa.personal](/_personal/Earth/Geography/Place/Burj_Khalifa.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geography/Place/Burj_Khalifa.personal|Burj_Khalifa.personal]] 
 
-### #is_/same_as :: [Burj_Khalifa.secret](/_secret/Earth/Geography/Place/Burj_Khalifa.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geography/Place/Burj_Khalifa.secret|Burj_Khalifa.secret]] 
 

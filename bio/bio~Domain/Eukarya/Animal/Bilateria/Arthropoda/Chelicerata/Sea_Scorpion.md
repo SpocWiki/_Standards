@@ -107,23 +107,23 @@ Sea Scorpions
 Images from Ernst Haeckel\'s Kunstformen der Natur published 1899-1904
 by Verlag des Bibliographischen Instituts, Leipzig and Vienna. Scans
 courtesy of [Kurt Stüber\'s online library of historic and classical biology books.](http://caliban.mpiz-koeln.mpg.de/%7Estueber/stueber_library.html)
-![](Sea_Scorpion/Eurypterus.jpg))
+![](Sea_Scorpion/Eurypterus.jpg) 
 ![](Sea_Scorpion/Pterygotus_anglicus.jpg))
 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sea_Scorpion](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Sea_Scorpion.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Sea_Scorpion|Sea_Scorpion]] 
 
-### #is_/same_as :: [Sea_Scorpion.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Sea_Scorpion.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Sea_Scorpion.public|Sea_Scorpion.public]] 
 
-### #is_/same_as :: [Sea_Scorpion.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Sea_Scorpion.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Sea_Scorpion.internal|Sea_Scorpion.internal]] 
 
-### #is_/same_as :: [Sea_Scorpion.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Sea_Scorpion.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Sea_Scorpion.protect|Sea_Scorpion.protect]] 
 
-### #is_/same_as :: [Sea_Scorpion.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Sea_Scorpion.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Sea_Scorpion.private|Sea_Scorpion.private]] 
 
-### #is_/same_as :: [Sea_Scorpion.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Sea_Scorpion.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Sea_Scorpion.personal|Sea_Scorpion.personal]] 
 
-### #is_/same_as :: [Sea_Scorpion.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Sea_Scorpion.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Sea_Scorpion.secret|Sea_Scorpion.secret]] 
 

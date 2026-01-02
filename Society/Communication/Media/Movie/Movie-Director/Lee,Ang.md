@@ -136,17 +136,17 @@ Krugosvet_article: kultura_i_obrazovanie/teatr_i_kino/LI_ENG.html
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lee,Ang](/_Standards/Society/Communication/Media/Movie/Movie-Director/Lee,Ang.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Director/Lee,Ang|Lee,Ang]] 
 
-### #is_/same_as :: [Lee,Ang.public](/_public/Society/Communication/Media/Movie/Movie-Director/Lee,Ang.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Director/Lee,Ang.public|Lee,Ang.public]] 
 
-### #is_/same_as :: [Lee,Ang.internal](/_internal/Society/Communication/Media/Movie/Movie-Director/Lee,Ang.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Director/Lee,Ang.internal|Lee,Ang.internal]] 
 
-### #is_/same_as :: [Lee,Ang.protect](/_protect/Society/Communication/Media/Movie/Movie-Director/Lee,Ang.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Director/Lee,Ang.protect|Lee,Ang.protect]] 
 
-### #is_/same_as :: [Lee,Ang.private](/_private/Society/Communication/Media/Movie/Movie-Director/Lee,Ang.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Director/Lee,Ang.private|Lee,Ang.private]] 
 
-### #is_/same_as :: [Lee,Ang.personal](/_personal/Society/Communication/Media/Movie/Movie-Director/Lee,Ang.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Director/Lee,Ang.personal|Lee,Ang.personal]] 
 
-### #is_/same_as :: [Lee,Ang.secret](/_secret/Society/Communication/Media/Movie/Movie-Director/Lee,Ang.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Director/Lee,Ang.secret|Lee,Ang.secret]] 
 

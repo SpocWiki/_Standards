@@ -92,17 +92,17 @@ U_S_National_Archives_Identifier: 10646853
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Planet](/_Standards/Astronomy/Planet.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Planet|Planet]] 
 
-### #is_/same_as :: [Planet.public](/_public/Astronomy/Planet.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Planet.public|Planet.public]] 
 
-### #is_/same_as :: [Planet.internal](/_internal/Astronomy/Planet.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Planet.internal|Planet.internal]] 
 
-### #is_/same_as :: [Planet.protect](/_protect/Astronomy/Planet.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Planet.protect|Planet.protect]] 
 
-### #is_/same_as :: [Planet.private](/_private/Astronomy/Planet.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Planet.private|Planet.private]] 
 
-### #is_/same_as :: [Planet.personal](/_personal/Astronomy/Planet.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Planet.personal|Planet.personal]] 
 
-### #is_/same_as :: [Planet.secret](/_secret/Astronomy/Planet.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Planet.secret|Planet.secret]] 
 

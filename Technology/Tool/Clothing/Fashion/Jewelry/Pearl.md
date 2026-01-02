@@ -80,17 +80,17 @@ Baidu_Tieba_name: 珍珠
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Pearl](/_Standards/Technology/Tool/Clothing/Fashion/Jewelry/Pearl.md) 
+### #is_/same_as :: [[/_Standards/Technology/Tool/Clothing/Fashion/Jewelry/Pearl|Pearl]] 
 
-### #is_/same_as :: [Pearl.public](/_public/Technology/Tool/Clothing/Fashion/Jewelry/Pearl.public.md) 
+### #is_/same_as :: [[/_public/Technology/Tool/Clothing/Fashion/Jewelry/Pearl.public|Pearl.public]] 
 
-### #is_/same_as :: [Pearl.internal](/_internal/Technology/Tool/Clothing/Fashion/Jewelry/Pearl.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Tool/Clothing/Fashion/Jewelry/Pearl.internal|Pearl.internal]] 
 
-### #is_/same_as :: [Pearl.protect](/_protect/Technology/Tool/Clothing/Fashion/Jewelry/Pearl.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Tool/Clothing/Fashion/Jewelry/Pearl.protect|Pearl.protect]] 
 
-### #is_/same_as :: [Pearl.private](/_private/Technology/Tool/Clothing/Fashion/Jewelry/Pearl.private.md) 
+### #is_/same_as :: [[/_private/Technology/Tool/Clothing/Fashion/Jewelry/Pearl.private|Pearl.private]] 
 
-### #is_/same_as :: [Pearl.personal](/_personal/Technology/Tool/Clothing/Fashion/Jewelry/Pearl.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Tool/Clothing/Fashion/Jewelry/Pearl.personal|Pearl.personal]] 
 
-### #is_/same_as :: [Pearl.secret](/_secret/Technology/Tool/Clothing/Fashion/Jewelry/Pearl.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Tool/Clothing/Fashion/Jewelry/Pearl.secret|Pearl.secret]] 
 

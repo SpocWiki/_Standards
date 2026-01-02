@@ -44,17 +44,17 @@ Represents the distance fee (e.g., price per km or mile) part of the total price
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Distance_Fee](/_Standards/schema-org/Enumeration/Price_Component_Type_Enumeration/Distance_Fee.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Price_Component_Type_Enumeration/Distance_Fee|Distance_Fee]] 
 
-### #is_/same_as :: [Distance_Fee.public](/_public/schema-org/Enumeration/Price_Component_Type_Enumeration/Distance_Fee.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Price_Component_Type_Enumeration/Distance_Fee.public|Distance_Fee.public]] 
 
-### #is_/same_as :: [Distance_Fee.internal](/_internal/schema-org/Enumeration/Price_Component_Type_Enumeration/Distance_Fee.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Price_Component_Type_Enumeration/Distance_Fee.internal|Distance_Fee.internal]] 
 
-### #is_/same_as :: [Distance_Fee.protect](/_protect/schema-org/Enumeration/Price_Component_Type_Enumeration/Distance_Fee.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Price_Component_Type_Enumeration/Distance_Fee.protect|Distance_Fee.protect]] 
 
-### #is_/same_as :: [Distance_Fee.private](/_private/schema-org/Enumeration/Price_Component_Type_Enumeration/Distance_Fee.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Price_Component_Type_Enumeration/Distance_Fee.private|Distance_Fee.private]] 
 
-### #is_/same_as :: [Distance_Fee.personal](/_personal/schema-org/Enumeration/Price_Component_Type_Enumeration/Distance_Fee.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Price_Component_Type_Enumeration/Distance_Fee.personal|Distance_Fee.personal]] 
 
-### #is_/same_as :: [Distance_Fee.secret](/_secret/schema-org/Enumeration/Price_Component_Type_Enumeration/Distance_Fee.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Price_Component_Type_Enumeration/Distance_Fee.secret|Distance_Fee.secret]] 
 

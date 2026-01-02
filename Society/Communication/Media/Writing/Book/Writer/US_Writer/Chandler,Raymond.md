@@ -99,17 +99,17 @@ Krugosvet_article_archived_: kultura_i_obrazovanie/literatura/CHANDLER_REMOND.ht
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Chandler,Raymond](/_Standards/Society/Communication/Media/Writing/Book/Writer/US_Writer/Chandler,Raymond.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Writer/US_Writer/Chandler,Raymond|Chandler,Raymond]] 
 
-### #is_/same_as :: [Chandler,Raymond.public](/_public/Society/Communication/Media/Writing/Book/Writer/US_Writer/Chandler,Raymond.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Writer/US_Writer/Chandler,Raymond.public|Chandler,Raymond.public]] 
 
-### #is_/same_as :: [Chandler,Raymond.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/US_Writer/Chandler,Raymond.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Writer/US_Writer/Chandler,Raymond.internal|Chandler,Raymond.internal]] 
 
-### #is_/same_as :: [Chandler,Raymond.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/US_Writer/Chandler,Raymond.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Writer/US_Writer/Chandler,Raymond.protect|Chandler,Raymond.protect]] 
 
-### #is_/same_as :: [Chandler,Raymond.private](/_private/Society/Communication/Media/Writing/Book/Writer/US_Writer/Chandler,Raymond.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Writer/US_Writer/Chandler,Raymond.private|Chandler,Raymond.private]] 
 
-### #is_/same_as :: [Chandler,Raymond.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/US_Writer/Chandler,Raymond.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Writer/US_Writer/Chandler,Raymond.personal|Chandler,Raymond.personal]] 
 
-### #is_/same_as :: [Chandler,Raymond.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/US_Writer/Chandler,Raymond.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Writer/US_Writer/Chandler,Raymond.secret|Chandler,Raymond.secret]] 
 

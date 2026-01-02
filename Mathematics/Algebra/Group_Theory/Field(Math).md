@@ -54,17 +54,17 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Anillo%20c%C3%ADclico.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Field(Math)](/_Standards/Mathematics/Algebra/Group_Theory/Field(Math).md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Algebra/Group_Theory/Field(Math)|Field(Math)]] 
 
-### #is_/same_as :: [Field(Math).public](/_public/Mathematics/Algebra/Group_Theory/Field(Math).public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Algebra/Group_Theory/Field(Math).public|Field(Math).public]] 
 
-### #is_/same_as :: [Field(Math).internal](/_internal/Mathematics/Algebra/Group_Theory/Field(Math).internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Algebra/Group_Theory/Field(Math).internal|Field(Math).internal]] 
 
-### #is_/same_as :: [Field(Math).protect](/_protect/Mathematics/Algebra/Group_Theory/Field(Math).protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Algebra/Group_Theory/Field(Math).protect|Field(Math).protect]] 
 
-### #is_/same_as :: [Field(Math).private](/_private/Mathematics/Algebra/Group_Theory/Field(Math).private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Algebra/Group_Theory/Field(Math).private|Field(Math).private]] 
 
-### #is_/same_as :: [Field(Math).personal](/_personal/Mathematics/Algebra/Group_Theory/Field(Math).personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Algebra/Group_Theory/Field(Math).personal|Field(Math).personal]] 
 
-### #is_/same_as :: [Field(Math).secret](/_secret/Mathematics/Algebra/Group_Theory/Field(Math).secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Algebra/Group_Theory/Field(Math).secret|Field(Math).secret]] 
 

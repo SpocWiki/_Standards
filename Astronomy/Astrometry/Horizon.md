@@ -83,17 +83,17 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Sureal%20Horizon.jpg
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Horizon](/_Standards/Astronomy/Astrometry/Horizon.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Astrometry/Horizon|Horizon]] 
 
-### #is_/same_as :: [Horizon.public](/_public/Astronomy/Astrometry/Horizon.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Astrometry/Horizon.public|Horizon.public]] 
 
-### #is_/same_as :: [Horizon.internal](/_internal/Astronomy/Astrometry/Horizon.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Astrometry/Horizon.internal|Horizon.internal]] 
 
-### #is_/same_as :: [Horizon.protect](/_protect/Astronomy/Astrometry/Horizon.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Astrometry/Horizon.protect|Horizon.protect]] 
 
-### #is_/same_as :: [Horizon.private](/_private/Astronomy/Astrometry/Horizon.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Astrometry/Horizon.private|Horizon.private]] 
 
-### #is_/same_as :: [Horizon.personal](/_personal/Astronomy/Astrometry/Horizon.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Astrometry/Horizon.personal|Horizon.personal]] 
 
-### #is_/same_as :: [Horizon.secret](/_secret/Astronomy/Astrometry/Horizon.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Astrometry/Horizon.secret|Horizon.secret]] 
 

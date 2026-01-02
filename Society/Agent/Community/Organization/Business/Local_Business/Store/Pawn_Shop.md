@@ -41,17 +41,17 @@ A shop that will buy, or lend money against the security of, personal possession
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Pawn_Shop](/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Store/Pawn_Shop.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Store/Pawn_Shop|Pawn_Shop]] 
 
-### #is_/same_as :: [Pawn_Shop.public](/_public/Society/Agent/Community/Organization/Business/Local_Business/Store/Pawn_Shop.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Business/Local_Business/Store/Pawn_Shop.public|Pawn_Shop.public]] 
 
-### #is_/same_as :: [Pawn_Shop.internal](/_internal/Society/Agent/Community/Organization/Business/Local_Business/Store/Pawn_Shop.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Business/Local_Business/Store/Pawn_Shop.internal|Pawn_Shop.internal]] 
 
-### #is_/same_as :: [Pawn_Shop.protect](/_protect/Society/Agent/Community/Organization/Business/Local_Business/Store/Pawn_Shop.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Business/Local_Business/Store/Pawn_Shop.protect|Pawn_Shop.protect]] 
 
-### #is_/same_as :: [Pawn_Shop.private](/_private/Society/Agent/Community/Organization/Business/Local_Business/Store/Pawn_Shop.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Business/Local_Business/Store/Pawn_Shop.private|Pawn_Shop.private]] 
 
-### #is_/same_as :: [Pawn_Shop.personal](/_personal/Society/Agent/Community/Organization/Business/Local_Business/Store/Pawn_Shop.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Business/Local_Business/Store/Pawn_Shop.personal|Pawn_Shop.personal]] 
 
-### #is_/same_as :: [Pawn_Shop.secret](/_secret/Society/Agent/Community/Organization/Business/Local_Business/Store/Pawn_Shop.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Business/Local_Business/Store/Pawn_Shop.secret|Pawn_Shop.secret]] 
 

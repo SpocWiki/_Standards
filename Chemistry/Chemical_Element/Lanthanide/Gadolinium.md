@@ -94,17 +94,17 @@ ZVG_number: 7640
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Gadolinium](/_Standards/Chemistry/Chemical_Element/Lanthanide/Gadolinium.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Chemical_Element/Lanthanide/Gadolinium|Gadolinium]] 
 
-### #is_/same_as :: [Gadolinium.public](/_public/Chemistry/Chemical_Element/Lanthanide/Gadolinium.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Chemical_Element/Lanthanide/Gadolinium.public|Gadolinium.public]] 
 
-### #is_/same_as :: [Gadolinium.internal](/_internal/Chemistry/Chemical_Element/Lanthanide/Gadolinium.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Chemical_Element/Lanthanide/Gadolinium.internal|Gadolinium.internal]] 
 
-### #is_/same_as :: [Gadolinium.protect](/_protect/Chemistry/Chemical_Element/Lanthanide/Gadolinium.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Chemical_Element/Lanthanide/Gadolinium.protect|Gadolinium.protect]] 
 
-### #is_/same_as :: [Gadolinium.private](/_private/Chemistry/Chemical_Element/Lanthanide/Gadolinium.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Chemical_Element/Lanthanide/Gadolinium.private|Gadolinium.private]] 
 
-### #is_/same_as :: [Gadolinium.personal](/_personal/Chemistry/Chemical_Element/Lanthanide/Gadolinium.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Chemical_Element/Lanthanide/Gadolinium.personal|Gadolinium.personal]] 
 
-### #is_/same_as :: [Gadolinium.secret](/_secret/Chemistry/Chemical_Element/Lanthanide/Gadolinium.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Chemical_Element/Lanthanide/Gadolinium.secret|Gadolinium.secret]] 
 

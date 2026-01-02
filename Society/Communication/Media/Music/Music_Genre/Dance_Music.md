@@ -67,17 +67,17 @@ Wolfram_Language_entity_code: Entity["Concept", "DanceMusic::v37wn"]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Dance_Music](/_Standards/Society/Communication/Media/Music/Music_Genre/Dance_Music.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Music_Genre/Dance_Music|Dance_Music]] 
 
-### #is_/same_as :: [Dance_Music.public](/_public/Society/Communication/Media/Music/Music_Genre/Dance_Music.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Music_Genre/Dance_Music.public|Dance_Music.public]] 
 
-### #is_/same_as :: [Dance_Music.internal](/_internal/Society/Communication/Media/Music/Music_Genre/Dance_Music.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Music_Genre/Dance_Music.internal|Dance_Music.internal]] 
 
-### #is_/same_as :: [Dance_Music.protect](/_protect/Society/Communication/Media/Music/Music_Genre/Dance_Music.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Music_Genre/Dance_Music.protect|Dance_Music.protect]] 
 
-### #is_/same_as :: [Dance_Music.private](/_private/Society/Communication/Media/Music/Music_Genre/Dance_Music.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Music_Genre/Dance_Music.private|Dance_Music.private]] 
 
-### #is_/same_as :: [Dance_Music.personal](/_personal/Society/Communication/Media/Music/Music_Genre/Dance_Music.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Music_Genre/Dance_Music.personal|Dance_Music.personal]] 
 
-### #is_/same_as :: [Dance_Music.secret](/_secret/Society/Communication/Media/Music/Music_Genre/Dance_Music.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Music_Genre/Dance_Music.secret|Dance_Music.secret]] 
 

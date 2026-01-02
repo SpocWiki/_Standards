@@ -97,17 +97,17 @@ A synagogue.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Synagogue](/_Standards/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Synagogue.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Synagogue|Synagogue]] 
 
-### #is_/same_as :: [Synagogue.public](/_public/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Synagogue.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Synagogue.public|Synagogue.public]] 
 
-### #is_/same_as :: [Synagogue.internal](/_internal/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Synagogue.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Synagogue.internal|Synagogue.internal]] 
 
-### #is_/same_as :: [Synagogue.protect](/_protect/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Synagogue.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Synagogue.protect|Synagogue.protect]] 
 
-### #is_/same_as :: [Synagogue.private](/_private/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Synagogue.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Synagogue.private|Synagogue.private]] 
 
-### #is_/same_as :: [Synagogue.personal](/_personal/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Synagogue.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Synagogue.personal|Synagogue.personal]] 
 
-### #is_/same_as :: [Synagogue.secret](/_secret/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Synagogue.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Synagogue.secret|Synagogue.secret]] 
 

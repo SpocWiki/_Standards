@@ -105,17 +105,17 @@ Europeana_entity: agent/base/62518
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lord,Jon](/_Standards/Society/Communication/Media/Music/Musician/Music~Band/Deep_Purple/Lord,Jon.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Musician/Music~Band/Deep_Purple/Lord,Jon|Lord,Jon]] 
 
-### #is_/same_as :: [Lord,Jon.public](/_public/Society/Communication/Media/Music/Musician/Music~Band/Deep_Purple/Lord,Jon.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Musician/Music~Band/Deep_Purple/Lord,Jon.public|Lord,Jon.public]] 
 
-### #is_/same_as :: [Lord,Jon.internal](/_internal/Society/Communication/Media/Music/Musician/Music~Band/Deep_Purple/Lord,Jon.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Musician/Music~Band/Deep_Purple/Lord,Jon.internal|Lord,Jon.internal]] 
 
-### #is_/same_as :: [Lord,Jon.protect](/_protect/Society/Communication/Media/Music/Musician/Music~Band/Deep_Purple/Lord,Jon.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Musician/Music~Band/Deep_Purple/Lord,Jon.protect|Lord,Jon.protect]] 
 
-### #is_/same_as :: [Lord,Jon.private](/_private/Society/Communication/Media/Music/Musician/Music~Band/Deep_Purple/Lord,Jon.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Musician/Music~Band/Deep_Purple/Lord,Jon.private|Lord,Jon.private]] 
 
-### #is_/same_as :: [Lord,Jon.personal](/_personal/Society/Communication/Media/Music/Musician/Music~Band/Deep_Purple/Lord,Jon.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Musician/Music~Band/Deep_Purple/Lord,Jon.personal|Lord,Jon.personal]] 
 
-### #is_/same_as :: [Lord,Jon.secret](/_secret/Society/Communication/Media/Music/Musician/Music~Band/Deep_Purple/Lord,Jon.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Musician/Music~Band/Deep_Purple/Lord,Jon.secret|Lord,Jon.secret]] 
 

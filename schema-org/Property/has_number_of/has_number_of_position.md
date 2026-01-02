@@ -45,17 +45,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_number_of_position](/_Standards/schema-org/Property/has_number_of/has_number_of_position.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_number_of/has_number_of_position|has_number_of_position]] 
 
-### #is_/same_as :: [has_number_of_position.public](/_public/schema-org/Property/has_number_of/has_number_of_position.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/has_number_of/has_number_of_position.public|has_number_of_position.public]] 
 
-### #is_/same_as :: [has_number_of_position.internal](/_internal/schema-org/Property/has_number_of/has_number_of_position.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_number_of/has_number_of_position.internal|has_number_of_position.internal]] 
 
-### #is_/same_as :: [has_number_of_position.protect](/_protect/schema-org/Property/has_number_of/has_number_of_position.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_number_of/has_number_of_position.protect|has_number_of_position.protect]] 
 
-### #is_/same_as :: [has_number_of_position.private](/_private/schema-org/Property/has_number_of/has_number_of_position.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/has_number_of/has_number_of_position.private|has_number_of_position.private]] 
 
-### #is_/same_as :: [has_number_of_position.personal](/_personal/schema-org/Property/has_number_of/has_number_of_position.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_number_of/has_number_of_position.personal|has_number_of_position.personal]] 
 
-### #is_/same_as :: [has_number_of_position.secret](/_secret/schema-org/Property/has_number_of/has_number_of_position.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/has_number_of/has_number_of_position.secret|has_number_of_position.secret]] 
 

@@ -8,17 +8,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bacillales](/_Standards/bio/bio~Domain/Bacteria/Bacillati/Bacillota/Bacilli/Bacillales.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Bacteria/Bacillati/Bacillota/Bacilli/Bacillales|Bacillales]] 
 
-### #is_/same_as :: [Bacillales.public](/_public/bio/bio~Domain/Bacteria/Bacillati/Bacillota/Bacilli/Bacillales.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Bacteria/Bacillati/Bacillota/Bacilli/Bacillales.public|Bacillales.public]] 
 
-### #is_/same_as :: [Bacillales.internal](/_internal/bio/bio~Domain/Bacteria/Bacillati/Bacillota/Bacilli/Bacillales.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Bacteria/Bacillati/Bacillota/Bacilli/Bacillales.internal|Bacillales.internal]] 
 
-### #is_/same_as :: [Bacillales.protect](/_protect/bio/bio~Domain/Bacteria/Bacillati/Bacillota/Bacilli/Bacillales.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Bacteria/Bacillati/Bacillota/Bacilli/Bacillales.protect|Bacillales.protect]] 
 
-### #is_/same_as :: [Bacillales.private](/_private/bio/bio~Domain/Bacteria/Bacillati/Bacillota/Bacilli/Bacillales.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Bacteria/Bacillati/Bacillota/Bacilli/Bacillales.private|Bacillales.private]] 
 
-### #is_/same_as :: [Bacillales.personal](/_personal/bio/bio~Domain/Bacteria/Bacillati/Bacillota/Bacilli/Bacillales.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Bacteria/Bacillati/Bacillota/Bacilli/Bacillales.personal|Bacillales.personal]] 
 
-### #is_/same_as :: [Bacillales.secret](/_secret/bio/bio~Domain/Bacteria/Bacillati/Bacillota/Bacilli/Bacillales.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Bacteria/Bacillati/Bacillota/Bacilli/Bacillales.secret|Bacillales.secret]] 
 

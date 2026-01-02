@@ -51,17 +51,17 @@ Commons_category: Electrostatics
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Electrostatics](/_Standards/Science/Physics/Electricity/Electrostatics.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Electricity/Electrostatics|Electrostatics]] 
 
-### #is_/same_as :: [Electrostatics.public](/_public/Science/Physics/Electricity/Electrostatics.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Electricity/Electrostatics.public|Electrostatics.public]] 
 
-### #is_/same_as :: [Electrostatics.internal](/_internal/Science/Physics/Electricity/Electrostatics.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Electricity/Electrostatics.internal|Electrostatics.internal]] 
 
-### #is_/same_as :: [Electrostatics.protect](/_protect/Science/Physics/Electricity/Electrostatics.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Electricity/Electrostatics.protect|Electrostatics.protect]] 
 
-### #is_/same_as :: [Electrostatics.private](/_private/Science/Physics/Electricity/Electrostatics.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Electricity/Electrostatics.private|Electrostatics.private]] 
 
-### #is_/same_as :: [Electrostatics.personal](/_personal/Science/Physics/Electricity/Electrostatics.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Electricity/Electrostatics.personal|Electrostatics.personal]] 
 
-### #is_/same_as :: [Electrostatics.secret](/_secret/Science/Physics/Electricity/Electrostatics.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Electricity/Electrostatics.secret|Electrostatics.secret]] 
 

@@ -66,17 +66,17 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Age~1~Cenomanian](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~3~Cretaceous/Epoch~2~Late_Cretaceous/Age~1~Cenomanian.md) 
+### #is_/same_as :: [[/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~3~Cretaceous/Epoch~2~Late_Cretaceous/Age~1~Cenomanian|Age~1~Cenomanian]] 
 
-### #is_/same_as :: [Age~1~Cenomanian.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~3~Cretaceous/Epoch~2~Late_Cretaceous/Age~1~Cenomanian.public.md) 
+### #is_/same_as :: [[/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~3~Cretaceous/Epoch~2~Late_Cretaceous/Age~1~Cenomanian.public|Age~1~Cenomanian.public]] 
 
-### #is_/same_as :: [Age~1~Cenomanian.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~3~Cretaceous/Epoch~2~Late_Cretaceous/Age~1~Cenomanian.internal.md) 
+### #is_/same_as :: [[/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~3~Cretaceous/Epoch~2~Late_Cretaceous/Age~1~Cenomanian.internal|Age~1~Cenomanian.internal]] 
 
-### #is_/same_as :: [Age~1~Cenomanian.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~3~Cretaceous/Epoch~2~Late_Cretaceous/Age~1~Cenomanian.protect.md) 
+### #is_/same_as :: [[/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~3~Cretaceous/Epoch~2~Late_Cretaceous/Age~1~Cenomanian.protect|Age~1~Cenomanian.protect]] 
 
-### #is_/same_as :: [Age~1~Cenomanian.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~3~Cretaceous/Epoch~2~Late_Cretaceous/Age~1~Cenomanian.private.md) 
+### #is_/same_as :: [[/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~3~Cretaceous/Epoch~2~Late_Cretaceous/Age~1~Cenomanian.private|Age~1~Cenomanian.private]] 
 
-### #is_/same_as :: [Age~1~Cenomanian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~3~Cretaceous/Epoch~2~Late_Cretaceous/Age~1~Cenomanian.personal.md) 
+### #is_/same_as :: [[/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~3~Cretaceous/Epoch~2~Late_Cretaceous/Age~1~Cenomanian.personal|Age~1~Cenomanian.personal]] 
 
-### #is_/same_as :: [Age~1~Cenomanian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~3~Cretaceous/Epoch~2~Late_Cretaceous/Age~1~Cenomanian.secret.md)
+### #is_/same_as :: [[/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~3~Cretaceous/Epoch~2~Late_Cretaceous/Age~1~Cenomanian.secret|Age~1~Cenomanian.secret]] 
 

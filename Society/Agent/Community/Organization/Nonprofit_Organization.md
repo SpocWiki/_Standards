@@ -108,17 +108,17 @@ GitHub_topic: nonprofits
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Nonprofit_Organization](/_Standards/Society/Agent/Community/Organization/Nonprofit_Organization.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Nonprofit_Organization|Nonprofit_Organization]] 
 
-### #is_/same_as :: [Nonprofit_Organization.public](/_public/Society/Agent/Community/Organization/Nonprofit_Organization.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Nonprofit_Organization.public|Nonprofit_Organization.public]] 
 
-### #is_/same_as :: [Nonprofit_Organization.internal](/_internal/Society/Agent/Community/Organization/Nonprofit_Organization.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Nonprofit_Organization.internal|Nonprofit_Organization.internal]] 
 
-### #is_/same_as :: [Nonprofit_Organization.protect](/_protect/Society/Agent/Community/Organization/Nonprofit_Organization.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Nonprofit_Organization.protect|Nonprofit_Organization.protect]] 
 
-### #is_/same_as :: [Nonprofit_Organization.private](/_private/Society/Agent/Community/Organization/Nonprofit_Organization.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Nonprofit_Organization.private|Nonprofit_Organization.private]] 
 
-### #is_/same_as :: [Nonprofit_Organization.personal](/_personal/Society/Agent/Community/Organization/Nonprofit_Organization.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Nonprofit_Organization.personal|Nonprofit_Organization.personal]] 
 
-### #is_/same_as :: [Nonprofit_Organization.secret](/_secret/Society/Agent/Community/Organization/Nonprofit_Organization.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Nonprofit_Organization.secret|Nonprofit_Organization.secret]] 
 

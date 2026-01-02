@@ -62,17 +62,17 @@ Originally, URLs from <a href="http://purl.org/goodrelations/v1">GoodRelations</
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Day_of_Week](/_Standards/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Day_of_Week.md) 
+### #is_/same_as :: [[/_Standards/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Day_of_Week|Day_of_Week]] 
 
-### #is_/same_as :: [Day_of_Week.public](/_public/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Day_of_Week.public.md) 
+### #is_/same_as :: [[/_public/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Day_of_Week.public|Day_of_Week.public]] 
 
-### #is_/same_as :: [Day_of_Week.internal](/_internal/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Day_of_Week.internal.md) 
+### #is_/same_as :: [[/_internal/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Day_of_Week.internal|Day_of_Week.internal]] 
 
-### #is_/same_as :: [Day_of_Week.protect](/_protect/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Day_of_Week.protect.md) 
+### #is_/same_as :: [[/_protect/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Day_of_Week.protect|Day_of_Week.protect]] 
 
-### #is_/same_as :: [Day_of_Week.private](/_private/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Day_of_Week.private.md) 
+### #is_/same_as :: [[/_private/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Day_of_Week.private|Day_of_Week.private]] 
 
-### #is_/same_as :: [Day_of_Week.personal](/_personal/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Day_of_Week.personal.md) 
+### #is_/same_as :: [[/_personal/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Day_of_Week.personal|Day_of_Week.personal]] 
 
-### #is_/same_as :: [Day_of_Week.secret](/_secret/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Day_of_Week.secret.md)
+### #is_/same_as :: [[/_secret/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Day_of_Week.secret|Day_of_Week.secret]] 
 

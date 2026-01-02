@@ -27,17 +27,17 @@ Commons_category: Paramilitary organizations
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Paramilitary_Organization](/_Standards/Society/Military/Armed_Forces/Soldier/Mercenary/Paramilitary_Organization.md) 
+### #is_/same_as :: [[/_Standards/Society/Military/Armed_Forces/Soldier/Mercenary/Paramilitary_Organization|Paramilitary_Organization]] 
 
-### #is_/same_as :: [Paramilitary_Organization.public](/_public/Society/Military/Armed_Forces/Soldier/Mercenary/Paramilitary_Organization.public.md) 
+### #is_/same_as :: [[/_public/Society/Military/Armed_Forces/Soldier/Mercenary/Paramilitary_Organization.public|Paramilitary_Organization.public]] 
 
-### #is_/same_as :: [Paramilitary_Organization.internal](/_internal/Society/Military/Armed_Forces/Soldier/Mercenary/Paramilitary_Organization.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Military/Armed_Forces/Soldier/Mercenary/Paramilitary_Organization.internal|Paramilitary_Organization.internal]] 
 
-### #is_/same_as :: [Paramilitary_Organization.protect](/_protect/Society/Military/Armed_Forces/Soldier/Mercenary/Paramilitary_Organization.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Military/Armed_Forces/Soldier/Mercenary/Paramilitary_Organization.protect|Paramilitary_Organization.protect]] 
 
-### #is_/same_as :: [Paramilitary_Organization.private](/_private/Society/Military/Armed_Forces/Soldier/Mercenary/Paramilitary_Organization.private.md) 
+### #is_/same_as :: [[/_private/Society/Military/Armed_Forces/Soldier/Mercenary/Paramilitary_Organization.private|Paramilitary_Organization.private]] 
 
-### #is_/same_as :: [Paramilitary_Organization.personal](/_personal/Society/Military/Armed_Forces/Soldier/Mercenary/Paramilitary_Organization.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Military/Armed_Forces/Soldier/Mercenary/Paramilitary_Organization.personal|Paramilitary_Organization.personal]] 
 
-### #is_/same_as :: [Paramilitary_Organization.secret](/_secret/Society/Military/Armed_Forces/Soldier/Mercenary/Paramilitary_Organization.secret.md)
+### #is_/same_as :: [[/_secret/Society/Military/Armed_Forces/Soldier/Mercenary/Paramilitary_Organization.secret|Paramilitary_Organization.secret]] 
 

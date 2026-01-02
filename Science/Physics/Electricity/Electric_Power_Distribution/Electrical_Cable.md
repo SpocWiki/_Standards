@@ -65,17 +65,17 @@ OpenStreetMap_tag_or_key: Key:cables
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Electrical_Cable](/_Standards/Science/Physics/Electricity/Electric_Power_Distribution/Electrical_Cable.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Electricity/Electric_Power_Distribution/Electrical_Cable|Electrical_Cable]] 
 
-### #is_/same_as :: [Electrical_Cable.public](/_public/Science/Physics/Electricity/Electric_Power_Distribution/Electrical_Cable.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Electricity/Electric_Power_Distribution/Electrical_Cable.public|Electrical_Cable.public]] 
 
-### #is_/same_as :: [Electrical_Cable.internal](/_internal/Science/Physics/Electricity/Electric_Power_Distribution/Electrical_Cable.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Electricity/Electric_Power_Distribution/Electrical_Cable.internal|Electrical_Cable.internal]] 
 
-### #is_/same_as :: [Electrical_Cable.protect](/_protect/Science/Physics/Electricity/Electric_Power_Distribution/Electrical_Cable.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Electricity/Electric_Power_Distribution/Electrical_Cable.protect|Electrical_Cable.protect]] 
 
-### #is_/same_as :: [Electrical_Cable.private](/_private/Science/Physics/Electricity/Electric_Power_Distribution/Electrical_Cable.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Electricity/Electric_Power_Distribution/Electrical_Cable.private|Electrical_Cable.private]] 
 
-### #is_/same_as :: [Electrical_Cable.personal](/_personal/Science/Physics/Electricity/Electric_Power_Distribution/Electrical_Cable.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Electricity/Electric_Power_Distribution/Electrical_Cable.personal|Electrical_Cable.personal]] 
 
-### #is_/same_as :: [Electrical_Cable.secret](/_secret/Science/Physics/Electricity/Electric_Power_Distribution/Electrical_Cable.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Electricity/Electric_Power_Distribution/Electrical_Cable.secret|Electrical_Cable.secret]] 
 

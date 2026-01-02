@@ -80,17 +80,17 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/The%20Cabinet%20table.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Cabinet(Government)](/_Standards/Society/Politics/Government/Cabinet(Government).md) 
+### #is_/same_as :: [[/_Standards/Society/Politics/Government/Cabinet(Government)|Cabinet(Government)]] 
 
-### #is_/same_as :: [Cabinet(Government).public](/_public/Society/Politics/Government/Cabinet(Government).public.md) 
+### #is_/same_as :: [[/_public/Society/Politics/Government/Cabinet(Government).public|Cabinet(Government).public]] 
 
-### #is_/same_as :: [Cabinet(Government).internal](/_internal/Society/Politics/Government/Cabinet(Government).internal.md) 
+### #is_/same_as :: [[/_internal/Society/Politics/Government/Cabinet(Government).internal|Cabinet(Government).internal]] 
 
-### #is_/same_as :: [Cabinet(Government).protect](/_protect/Society/Politics/Government/Cabinet(Government).protect.md) 
+### #is_/same_as :: [[/_protect/Society/Politics/Government/Cabinet(Government).protect|Cabinet(Government).protect]] 
 
-### #is_/same_as :: [Cabinet(Government).private](/_private/Society/Politics/Government/Cabinet(Government).private.md) 
+### #is_/same_as :: [[/_private/Society/Politics/Government/Cabinet(Government).private|Cabinet(Government).private]] 
 
-### #is_/same_as :: [Cabinet(Government).personal](/_personal/Society/Politics/Government/Cabinet(Government).personal.md) 
+### #is_/same_as :: [[/_personal/Society/Politics/Government/Cabinet(Government).personal|Cabinet(Government).personal]] 
 
-### #is_/same_as :: [Cabinet(Government).secret](/_secret/Society/Politics/Government/Cabinet(Government).secret.md)
+### #is_/same_as :: [[/_secret/Society/Politics/Government/Cabinet(Government).secret|Cabinet(Government).secret]] 
 

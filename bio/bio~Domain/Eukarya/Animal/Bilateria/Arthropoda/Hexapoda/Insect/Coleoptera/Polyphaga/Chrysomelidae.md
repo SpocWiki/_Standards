@@ -32,17 +32,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Chrysomelidae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Coleoptera/Polyphaga/Chrysomelidae.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Coleoptera/Polyphaga/Chrysomelidae|Chrysomelidae]] 
 
-### #is_/same_as :: [Chrysomelidae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Coleoptera/Polyphaga/Chrysomelidae.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Coleoptera/Polyphaga/Chrysomelidae.public|Chrysomelidae.public]] 
 
-### #is_/same_as :: [Chrysomelidae.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Coleoptera/Polyphaga/Chrysomelidae.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Coleoptera/Polyphaga/Chrysomelidae.internal|Chrysomelidae.internal]] 
 
-### #is_/same_as :: [Chrysomelidae.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Coleoptera/Polyphaga/Chrysomelidae.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Coleoptera/Polyphaga/Chrysomelidae.protect|Chrysomelidae.protect]] 
 
-### #is_/same_as :: [Chrysomelidae.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Coleoptera/Polyphaga/Chrysomelidae.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Coleoptera/Polyphaga/Chrysomelidae.private|Chrysomelidae.private]] 
 
-### #is_/same_as :: [Chrysomelidae.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Coleoptera/Polyphaga/Chrysomelidae.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Coleoptera/Polyphaga/Chrysomelidae.personal|Chrysomelidae.personal]] 
 
-### #is_/same_as :: [Chrysomelidae.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Coleoptera/Polyphaga/Chrysomelidae.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Coleoptera/Polyphaga/Chrysomelidae.secret|Chrysomelidae.secret]] 
 

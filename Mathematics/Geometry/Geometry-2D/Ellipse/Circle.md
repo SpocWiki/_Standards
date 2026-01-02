@@ -80,17 +80,17 @@ Commons_category: Circle geometry
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Circle](/_Standards/Mathematics/Geometry/Geometry-2D/Ellipse/Circle.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Geometry/Geometry-2D/Ellipse/Circle|Circle]] 
 
-### #is_/same_as :: [Circle.public](/_public/Mathematics/Geometry/Geometry-2D/Ellipse/Circle.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Geometry/Geometry-2D/Ellipse/Circle.public|Circle.public]] 
 
-### #is_/same_as :: [Circle.internal](/_internal/Mathematics/Geometry/Geometry-2D/Ellipse/Circle.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Geometry/Geometry-2D/Ellipse/Circle.internal|Circle.internal]] 
 
-### #is_/same_as :: [Circle.protect](/_protect/Mathematics/Geometry/Geometry-2D/Ellipse/Circle.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Geometry/Geometry-2D/Ellipse/Circle.protect|Circle.protect]] 
 
-### #is_/same_as :: [Circle.private](/_private/Mathematics/Geometry/Geometry-2D/Ellipse/Circle.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Geometry/Geometry-2D/Ellipse/Circle.private|Circle.private]] 
 
-### #is_/same_as :: [Circle.personal](/_personal/Mathematics/Geometry/Geometry-2D/Ellipse/Circle.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Geometry/Geometry-2D/Ellipse/Circle.personal|Circle.personal]] 
 
-### #is_/same_as :: [Circle.secret](/_secret/Mathematics/Geometry/Geometry-2D/Ellipse/Circle.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Geometry/Geometry-2D/Ellipse/Circle.secret|Circle.secret]] 
 

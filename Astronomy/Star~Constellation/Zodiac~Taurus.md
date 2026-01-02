@@ -61,17 +61,17 @@ short_name: Tau
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Zodiac~Taurus](/_Standards/Astronomy/Star~Constellation/Zodiac~Taurus.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Star~Constellation/Zodiac~Taurus|Zodiac~Taurus]] 
 
-### #is_/same_as :: [Zodiac~Taurus.public](/_public/Astronomy/Star~Constellation/Zodiac~Taurus.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Star~Constellation/Zodiac~Taurus.public|Zodiac~Taurus.public]] 
 
-### #is_/same_as :: [Zodiac~Taurus.internal](/_internal/Astronomy/Star~Constellation/Zodiac~Taurus.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Star~Constellation/Zodiac~Taurus.internal|Zodiac~Taurus.internal]] 
 
-### #is_/same_as :: [Zodiac~Taurus.protect](/_protect/Astronomy/Star~Constellation/Zodiac~Taurus.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Star~Constellation/Zodiac~Taurus.protect|Zodiac~Taurus.protect]] 
 
-### #is_/same_as :: [Zodiac~Taurus.private](/_private/Astronomy/Star~Constellation/Zodiac~Taurus.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Star~Constellation/Zodiac~Taurus.private|Zodiac~Taurus.private]] 
 
-### #is_/same_as :: [Zodiac~Taurus.personal](/_personal/Astronomy/Star~Constellation/Zodiac~Taurus.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Star~Constellation/Zodiac~Taurus.personal|Zodiac~Taurus.personal]] 
 
-### #is_/same_as :: [Zodiac~Taurus.secret](/_secret/Astronomy/Star~Constellation/Zodiac~Taurus.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Star~Constellation/Zodiac~Taurus.secret|Zodiac~Taurus.secret]] 
 

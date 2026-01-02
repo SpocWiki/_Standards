@@ -87,17 +87,17 @@ Any complaint sensed and expressed by the patient (therefore defined as subjecti
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Medical_Symptom](/_Standards/bio/Medicine/Medical_Condition/Medical_Sign_or_Symptom/Medical_Symptom.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Condition/Medical_Sign_or_Symptom/Medical_Symptom|Medical_Symptom]] 
 
-### #is_/same_as :: [Medical_Symptom.public](/_public/bio/Medicine/Medical_Condition/Medical_Sign_or_Symptom/Medical_Symptom.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Condition/Medical_Sign_or_Symptom/Medical_Symptom.public|Medical_Symptom.public]] 
 
-### #is_/same_as :: [Medical_Symptom.internal](/_internal/bio/Medicine/Medical_Condition/Medical_Sign_or_Symptom/Medical_Symptom.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Condition/Medical_Sign_or_Symptom/Medical_Symptom.internal|Medical_Symptom.internal]] 
 
-### #is_/same_as :: [Medical_Symptom.protect](/_protect/bio/Medicine/Medical_Condition/Medical_Sign_or_Symptom/Medical_Symptom.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Condition/Medical_Sign_or_Symptom/Medical_Symptom.protect|Medical_Symptom.protect]] 
 
-### #is_/same_as :: [Medical_Symptom.private](/_private/bio/Medicine/Medical_Condition/Medical_Sign_or_Symptom/Medical_Symptom.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Condition/Medical_Sign_or_Symptom/Medical_Symptom.private|Medical_Symptom.private]] 
 
-### #is_/same_as :: [Medical_Symptom.personal](/_personal/bio/Medicine/Medical_Condition/Medical_Sign_or_Symptom/Medical_Symptom.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Condition/Medical_Sign_or_Symptom/Medical_Symptom.personal|Medical_Symptom.personal]] 
 
-### #is_/same_as :: [Medical_Symptom.secret](/_secret/bio/Medicine/Medical_Condition/Medical_Sign_or_Symptom/Medical_Symptom.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Condition/Medical_Sign_or_Symptom/Medical_Symptom.secret|Medical_Symptom.secret]] 
 

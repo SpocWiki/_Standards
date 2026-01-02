@@ -66,17 +66,17 @@ Commons_category: Euclidean geometry
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Euclidean_Geometry](/_Standards/Mathematics/Geometry/Euclidean_Geometry.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Geometry/Euclidean_Geometry|Euclidean_Geometry]] 
 
-### #is_/same_as :: [Euclidean_Geometry.public](/_public/Mathematics/Geometry/Euclidean_Geometry.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Geometry/Euclidean_Geometry.public|Euclidean_Geometry.public]] 
 
-### #is_/same_as :: [Euclidean_Geometry.internal](/_internal/Mathematics/Geometry/Euclidean_Geometry.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Geometry/Euclidean_Geometry.internal|Euclidean_Geometry.internal]] 
 
-### #is_/same_as :: [Euclidean_Geometry.protect](/_protect/Mathematics/Geometry/Euclidean_Geometry.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Geometry/Euclidean_Geometry.protect|Euclidean_Geometry.protect]] 
 
-### #is_/same_as :: [Euclidean_Geometry.private](/_private/Mathematics/Geometry/Euclidean_Geometry.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Geometry/Euclidean_Geometry.private|Euclidean_Geometry.private]] 
 
-### #is_/same_as :: [Euclidean_Geometry.personal](/_personal/Mathematics/Geometry/Euclidean_Geometry.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Geometry/Euclidean_Geometry.personal|Euclidean_Geometry.personal]] 
 
-### #is_/same_as :: [Euclidean_Geometry.secret](/_secret/Mathematics/Geometry/Euclidean_Geometry.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Geometry/Euclidean_Geometry.secret|Euclidean_Geometry.secret]] 
 

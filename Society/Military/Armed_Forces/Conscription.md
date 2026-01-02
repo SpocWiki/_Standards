@@ -38,17 +38,17 @@ Commons_category: Conscription
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Conscription](/_Standards/Society/Military/Armed_Forces/Conscription.md) 
+### #is_/same_as :: [[/_Standards/Society/Military/Armed_Forces/Conscription|Conscription]] 
 
-### #is_/same_as :: [Conscription.public](/_public/Society/Military/Armed_Forces/Conscription.public.md) 
+### #is_/same_as :: [[/_public/Society/Military/Armed_Forces/Conscription.public|Conscription.public]] 
 
-### #is_/same_as :: [Conscription.internal](/_internal/Society/Military/Armed_Forces/Conscription.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Military/Armed_Forces/Conscription.internal|Conscription.internal]] 
 
-### #is_/same_as :: [Conscription.protect](/_protect/Society/Military/Armed_Forces/Conscription.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Military/Armed_Forces/Conscription.protect|Conscription.protect]] 
 
-### #is_/same_as :: [Conscription.private](/_private/Society/Military/Armed_Forces/Conscription.private.md) 
+### #is_/same_as :: [[/_private/Society/Military/Armed_Forces/Conscription.private|Conscription.private]] 
 
-### #is_/same_as :: [Conscription.personal](/_personal/Society/Military/Armed_Forces/Conscription.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Military/Armed_Forces/Conscription.personal|Conscription.personal]] 
 
-### #is_/same_as :: [Conscription.secret](/_secret/Society/Military/Armed_Forces/Conscription.secret.md)
+### #is_/same_as :: [[/_secret/Society/Military/Armed_Forces/Conscription.secret|Conscription.secret]] 
 

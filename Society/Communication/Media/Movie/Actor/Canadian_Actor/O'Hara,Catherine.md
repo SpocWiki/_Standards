@@ -25,17 +25,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [O'Hara,Catherine](/_Standards/Society/Communication/Media/Movie/Actor/Canadian_Actor/O'Hara,Catherine.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Actor/Canadian_Actor/O'Hara,Catherine|O'Hara,Catherine]] 
 
-### #is_/same_as :: [O'Hara,Catherine.public](/_public/Society/Communication/Media/Movie/Actor/Canadian_Actor/O'Hara,Catherine.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Actor/Canadian_Actor/O'Hara,Catherine.public|O'Hara,Catherine.public]] 
 
-### #is_/same_as :: [O'Hara,Catherine.internal](/_internal/Society/Communication/Media/Movie/Actor/Canadian_Actor/O'Hara,Catherine.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Actor/Canadian_Actor/O'Hara,Catherine.internal|O'Hara,Catherine.internal]] 
 
-### #is_/same_as :: [O'Hara,Catherine.protect](/_protect/Society/Communication/Media/Movie/Actor/Canadian_Actor/O'Hara,Catherine.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Actor/Canadian_Actor/O'Hara,Catherine.protect|O'Hara,Catherine.protect]] 
 
-### #is_/same_as :: [O'Hara,Catherine.private](/_private/Society/Communication/Media/Movie/Actor/Canadian_Actor/O'Hara,Catherine.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Actor/Canadian_Actor/O'Hara,Catherine.private|O'Hara,Catherine.private]] 
 
-### #is_/same_as :: [O'Hara,Catherine.personal](/_personal/Society/Communication/Media/Movie/Actor/Canadian_Actor/O'Hara,Catherine.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Actor/Canadian_Actor/O'Hara,Catherine.personal|O'Hara,Catherine.personal]] 
 
-### #is_/same_as :: [O'Hara,Catherine.secret](/_secret/Society/Communication/Media/Movie/Actor/Canadian_Actor/O'Hara,Catherine.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Actor/Canadian_Actor/O'Hara,Catherine.secret|O'Hara,Catherine.secret]] 
 

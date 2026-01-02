@@ -63,17 +63,17 @@ Legal_Entity_Identifier: QKL54NQY28TCDAI75F60
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [IFC(International_Finance_Corporation)](/_Standards/UN(United_Nations)/IMF(International_Monetary_Fund)/World_Bank/IFC(International_Finance_Corporation).md) 
+### #is_/same_as :: [[/_Standards/UN(United_Nations)/IMF(International_Monetary_Fund)/World_Bank/IFC(International_Finance_Corporation)|IFC(International_Finance_Corporation)]] 
 
-### #is_/same_as :: [IFC(International_Finance_Corporation).public](/_public/UN(United_Nations)/IMF(International_Monetary_Fund)/World_Bank/IFC(International_Finance_Corporation).public.md) 
+### #is_/same_as :: [[/_public/UN(United_Nations)/IMF(International_Monetary_Fund)/World_Bank/IFC(International_Finance_Corporation).public|IFC(International_Finance_Corporation).public]] 
 
-### #is_/same_as :: [IFC(International_Finance_Corporation).internal](/_internal/UN(United_Nations)/IMF(International_Monetary_Fund)/World_Bank/IFC(International_Finance_Corporation).internal.md) 
+### #is_/same_as :: [[/_internal/UN(United_Nations)/IMF(International_Monetary_Fund)/World_Bank/IFC(International_Finance_Corporation).internal|IFC(International_Finance_Corporation).internal]] 
 
-### #is_/same_as :: [IFC(International_Finance_Corporation).protect](/_protect/UN(United_Nations)/IMF(International_Monetary_Fund)/World_Bank/IFC(International_Finance_Corporation).protect.md) 
+### #is_/same_as :: [[/_protect/UN(United_Nations)/IMF(International_Monetary_Fund)/World_Bank/IFC(International_Finance_Corporation).protect|IFC(International_Finance_Corporation).protect]] 
 
-### #is_/same_as :: [IFC(International_Finance_Corporation).private](/_private/UN(United_Nations)/IMF(International_Monetary_Fund)/World_Bank/IFC(International_Finance_Corporation).private.md) 
+### #is_/same_as :: [[/_private/UN(United_Nations)/IMF(International_Monetary_Fund)/World_Bank/IFC(International_Finance_Corporation).private|IFC(International_Finance_Corporation).private]] 
 
-### #is_/same_as :: [IFC(International_Finance_Corporation).personal](/_personal/UN(United_Nations)/IMF(International_Monetary_Fund)/World_Bank/IFC(International_Finance_Corporation).personal.md) 
+### #is_/same_as :: [[/_personal/UN(United_Nations)/IMF(International_Monetary_Fund)/World_Bank/IFC(International_Finance_Corporation).personal|IFC(International_Finance_Corporation).personal]] 
 
-### #is_/same_as :: [IFC(International_Finance_Corporation).secret](/_secret/UN(United_Nations)/IMF(International_Monetary_Fund)/World_Bank/IFC(International_Finance_Corporation).secret.md)
+### #is_/same_as :: [[/_secret/UN(United_Nations)/IMF(International_Monetary_Fund)/World_Bank/IFC(International_Finance_Corporation).secret|IFC(International_Finance_Corporation).secret]] 
 

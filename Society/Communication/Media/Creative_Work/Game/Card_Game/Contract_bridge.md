@@ -36,17 +36,17 @@ icon: http://commons.wikimedia.org/wiki/Special:FilePath/Contract%20bridge%20pic
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Contract_bridge](/_Standards/Society/Communication/Media/Creative_Work/Game/Card_Game/Contract_bridge.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Creative_Work/Game/Card_Game/Contract_bridge|Contract_bridge]] 
 
-### #is_/same_as :: [Contract_bridge.public](/_public/Society/Communication/Media/Creative_Work/Game/Card_Game/Contract_bridge.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Creative_Work/Game/Card_Game/Contract_bridge.public|Contract_bridge.public]] 
 
-### #is_/same_as :: [Contract_bridge.internal](/_internal/Society/Communication/Media/Creative_Work/Game/Card_Game/Contract_bridge.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Creative_Work/Game/Card_Game/Contract_bridge.internal|Contract_bridge.internal]] 
 
-### #is_/same_as :: [Contract_bridge.protect](/_protect/Society/Communication/Media/Creative_Work/Game/Card_Game/Contract_bridge.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Creative_Work/Game/Card_Game/Contract_bridge.protect|Contract_bridge.protect]] 
 
-### #is_/same_as :: [Contract_bridge.private](/_private/Society/Communication/Media/Creative_Work/Game/Card_Game/Contract_bridge.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Creative_Work/Game/Card_Game/Contract_bridge.private|Contract_bridge.private]] 
 
-### #is_/same_as :: [Contract_bridge.personal](/_personal/Society/Communication/Media/Creative_Work/Game/Card_Game/Contract_bridge.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/Game/Card_Game/Contract_bridge.personal|Contract_bridge.personal]] 
 
-### #is_/same_as :: [Contract_bridge.secret](/_secret/Society/Communication/Media/Creative_Work/Game/Card_Game/Contract_bridge.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Game/Card_Game/Contract_bridge.secret|Contract_bridge.secret]] 
 

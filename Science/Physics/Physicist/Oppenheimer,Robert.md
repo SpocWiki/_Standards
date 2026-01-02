@@ -213,17 +213,17 @@ spoken_text_audio:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Oppenheimer,Robert](/_Standards/Science/Physics/Physicist/Oppenheimer,Robert.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Physicist/Oppenheimer,Robert|Oppenheimer,Robert]] 
 
-### #is_/same_as :: [Oppenheimer,Robert.public](/_public/Science/Physics/Physicist/Oppenheimer,Robert.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Physicist/Oppenheimer,Robert.public|Oppenheimer,Robert.public]] 
 
-### #is_/same_as :: [Oppenheimer,Robert.internal](/_internal/Science/Physics/Physicist/Oppenheimer,Robert.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Physicist/Oppenheimer,Robert.internal|Oppenheimer,Robert.internal]] 
 
-### #is_/same_as :: [Oppenheimer,Robert.protect](/_protect/Science/Physics/Physicist/Oppenheimer,Robert.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Physicist/Oppenheimer,Robert.protect|Oppenheimer,Robert.protect]] 
 
-### #is_/same_as :: [Oppenheimer,Robert.private](/_private/Science/Physics/Physicist/Oppenheimer,Robert.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Physicist/Oppenheimer,Robert.private|Oppenheimer,Robert.private]] 
 
-### #is_/same_as :: [Oppenheimer,Robert.personal](/_personal/Science/Physics/Physicist/Oppenheimer,Robert.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Physicist/Oppenheimer,Robert.personal|Oppenheimer,Robert.personal]] 
 
-### #is_/same_as :: [Oppenheimer,Robert.secret](/_secret/Science/Physics/Physicist/Oppenheimer,Robert.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Physicist/Oppenheimer,Robert.secret|Oppenheimer,Robert.secret]] 
 

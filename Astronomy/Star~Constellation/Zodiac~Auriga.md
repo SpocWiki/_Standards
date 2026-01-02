@@ -73,17 +73,17 @@ official_name: Auriga
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Zodiac~Auriga](/_Standards/Astronomy/Star~Constellation/Zodiac~Auriga.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Star~Constellation/Zodiac~Auriga|Zodiac~Auriga]] 
 
-### #is_/same_as :: [Zodiac~Auriga.public](/_public/Astronomy/Star~Constellation/Zodiac~Auriga.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Star~Constellation/Zodiac~Auriga.public|Zodiac~Auriga.public]] 
 
-### #is_/same_as :: [Zodiac~Auriga.internal](/_internal/Astronomy/Star~Constellation/Zodiac~Auriga.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Star~Constellation/Zodiac~Auriga.internal|Zodiac~Auriga.internal]] 
 
-### #is_/same_as :: [Zodiac~Auriga.protect](/_protect/Astronomy/Star~Constellation/Zodiac~Auriga.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Star~Constellation/Zodiac~Auriga.protect|Zodiac~Auriga.protect]] 
 
-### #is_/same_as :: [Zodiac~Auriga.private](/_private/Astronomy/Star~Constellation/Zodiac~Auriga.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Star~Constellation/Zodiac~Auriga.private|Zodiac~Auriga.private]] 
 
-### #is_/same_as :: [Zodiac~Auriga.personal](/_personal/Astronomy/Star~Constellation/Zodiac~Auriga.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Star~Constellation/Zodiac~Auriga.personal|Zodiac~Auriga.personal]] 
 
-### #is_/same_as :: [Zodiac~Auriga.secret](/_secret/Astronomy/Star~Constellation/Zodiac~Auriga.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Star~Constellation/Zodiac~Auriga.secret|Zodiac~Auriga.secret]] 
 

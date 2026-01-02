@@ -53,17 +53,17 @@ Commons_category: Elementary algebra
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Elementary_Algebra](/_Standards/Mathematics/Algebra/Elementary_Algebra.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Algebra/Elementary_Algebra|Elementary_Algebra]] 
 
-### #is_/same_as :: [Elementary_Algebra.public](/_public/Mathematics/Algebra/Elementary_Algebra.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Algebra/Elementary_Algebra.public|Elementary_Algebra.public]] 
 
-### #is_/same_as :: [Elementary_Algebra.internal](/_internal/Mathematics/Algebra/Elementary_Algebra.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Algebra/Elementary_Algebra.internal|Elementary_Algebra.internal]] 
 
-### #is_/same_as :: [Elementary_Algebra.protect](/_protect/Mathematics/Algebra/Elementary_Algebra.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Algebra/Elementary_Algebra.protect|Elementary_Algebra.protect]] 
 
-### #is_/same_as :: [Elementary_Algebra.private](/_private/Mathematics/Algebra/Elementary_Algebra.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Algebra/Elementary_Algebra.private|Elementary_Algebra.private]] 
 
-### #is_/same_as :: [Elementary_Algebra.personal](/_personal/Mathematics/Algebra/Elementary_Algebra.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Algebra/Elementary_Algebra.personal|Elementary_Algebra.personal]] 
 
-### #is_/same_as :: [Elementary_Algebra.secret](/_secret/Mathematics/Algebra/Elementary_Algebra.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Algebra/Elementary_Algebra.secret|Elementary_Algebra.secret]] 
 

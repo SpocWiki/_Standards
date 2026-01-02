@@ -100,17 +100,17 @@ video: http://commons.wikimedia.org/wiki/Special:FilePath/Erik%20Mongrain-AirTap
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Guitar](/_Standards/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Guitar.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Guitar|Guitar]] 
 
-### #is_/same_as :: [Guitar.public](/_public/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Guitar.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Guitar.public|Guitar.public]] 
 
-### #is_/same_as :: [Guitar.internal](/_internal/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Guitar.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Guitar.internal|Guitar.internal]] 
 
-### #is_/same_as :: [Guitar.protect](/_protect/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Guitar.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Guitar.protect|Guitar.protect]] 
 
-### #is_/same_as :: [Guitar.private](/_private/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Guitar.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Guitar.private|Guitar.private]] 
 
-### #is_/same_as :: [Guitar.personal](/_personal/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Guitar.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Guitar.personal|Guitar.personal]] 
 
-### #is_/same_as :: [Guitar.secret](/_secret/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Guitar.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Guitar.secret|Guitar.secret]] 
 

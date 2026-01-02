@@ -140,17 +140,17 @@ U_S_National_Archives_Identifier: 10581113
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Marconi,Guglielmo](/_Standards/Science/Inventor/Marconi,Guglielmo.md) 
+### #is_/same_as :: [[/_Standards/Science/Inventor/Marconi,Guglielmo|Marconi,Guglielmo]] 
 
-### #is_/same_as :: [Marconi,Guglielmo.public](/_public/Science/Inventor/Marconi,Guglielmo.public.md) 
+### #is_/same_as :: [[/_public/Science/Inventor/Marconi,Guglielmo.public|Marconi,Guglielmo.public]] 
 
-### #is_/same_as :: [Marconi,Guglielmo.internal](/_internal/Science/Inventor/Marconi,Guglielmo.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Inventor/Marconi,Guglielmo.internal|Marconi,Guglielmo.internal]] 
 
-### #is_/same_as :: [Marconi,Guglielmo.protect](/_protect/Science/Inventor/Marconi,Guglielmo.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Inventor/Marconi,Guglielmo.protect|Marconi,Guglielmo.protect]] 
 
-### #is_/same_as :: [Marconi,Guglielmo.private](/_private/Science/Inventor/Marconi,Guglielmo.private.md) 
+### #is_/same_as :: [[/_private/Science/Inventor/Marconi,Guglielmo.private|Marconi,Guglielmo.private]] 
 
-### #is_/same_as :: [Marconi,Guglielmo.personal](/_personal/Science/Inventor/Marconi,Guglielmo.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Inventor/Marconi,Guglielmo.personal|Marconi,Guglielmo.personal]] 
 
-### #is_/same_as :: [Marconi,Guglielmo.secret](/_secret/Science/Inventor/Marconi,Guglielmo.secret.md)
+### #is_/same_as :: [[/_secret/Science/Inventor/Marconi,Guglielmo.secret|Marconi,Guglielmo.secret]] 
 

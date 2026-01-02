@@ -57,17 +57,17 @@ Commons_category: Mountaineering
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Mountaineering](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Mountaineering.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Mountaineering|Mountaineering]] 
 
-### #is_/same_as :: [Mountaineering.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Mountaineering.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Mountaineering.public|Mountaineering.public]] 
 
-### #is_/same_as :: [Mountaineering.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Mountaineering.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Mountaineering.internal|Mountaineering.internal]] 
 
-### #is_/same_as :: [Mountaineering.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Mountaineering.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Mountaineering.protect|Mountaineering.protect]] 
 
-### #is_/same_as :: [Mountaineering.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Mountaineering.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Mountaineering.private|Mountaineering.private]] 
 
-### #is_/same_as :: [Mountaineering.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Mountaineering.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Mountaineering.personal|Mountaineering.personal]] 
 
-### #is_/same_as :: [Mountaineering.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Mountaineering.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Mountaineering.secret|Mountaineering.secret]] 
 

@@ -43,17 +43,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_number_of_adults](/_Standards/schema-org/Property/has_number_of/has_number_of_adults.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_number_of/has_number_of_adults|has_number_of_adults]] 
 
-### #is_/same_as :: [has_number_of_adults.public](/_public/schema-org/Property/has_number_of/has_number_of_adults.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/has_number_of/has_number_of_adults.public|has_number_of_adults.public]] 
 
-### #is_/same_as :: [has_number_of_adults.internal](/_internal/schema-org/Property/has_number_of/has_number_of_adults.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_number_of/has_number_of_adults.internal|has_number_of_adults.internal]] 
 
-### #is_/same_as :: [has_number_of_adults.protect](/_protect/schema-org/Property/has_number_of/has_number_of_adults.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_number_of/has_number_of_adults.protect|has_number_of_adults.protect]] 
 
-### #is_/same_as :: [has_number_of_adults.private](/_private/schema-org/Property/has_number_of/has_number_of_adults.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/has_number_of/has_number_of_adults.private|has_number_of_adults.private]] 
 
-### #is_/same_as :: [has_number_of_adults.personal](/_personal/schema-org/Property/has_number_of/has_number_of_adults.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_number_of/has_number_of_adults.personal|has_number_of_adults.personal]] 
 
-### #is_/same_as :: [has_number_of_adults.secret](/_secret/schema-org/Property/has_number_of/has_number_of_adults.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/has_number_of/has_number_of_adults.secret|has_number_of_adults.secret]] 
 

@@ -230,17 +230,17 @@ Wolfram_Language_entity_code: Entity["HistoricalEvent", "CharlesDeGaulleBecomesP
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [de_Gaulle,Charles](/_Standards/Society/Politics/Government/Leader/Modern_Leaders/de_Gaulle,Charles.md) 
+### #is_/same_as :: [[/_Standards/Society/Politics/Government/Leader/Modern_Leaders/de_Gaulle,Charles|de_Gaulle,Charles]] 
 
-### #is_/same_as :: [de_Gaulle,Charles.public](/_public/Society/Politics/Government/Leader/Modern_Leaders/de_Gaulle,Charles.public.md) 
+### #is_/same_as :: [[/_public/Society/Politics/Government/Leader/Modern_Leaders/de_Gaulle,Charles.public|de_Gaulle,Charles.public]] 
 
-### #is_/same_as :: [de_Gaulle,Charles.internal](/_internal/Society/Politics/Government/Leader/Modern_Leaders/de_Gaulle,Charles.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Politics/Government/Leader/Modern_Leaders/de_Gaulle,Charles.internal|de_Gaulle,Charles.internal]] 
 
-### #is_/same_as :: [de_Gaulle,Charles.protect](/_protect/Society/Politics/Government/Leader/Modern_Leaders/de_Gaulle,Charles.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Politics/Government/Leader/Modern_Leaders/de_Gaulle,Charles.protect|de_Gaulle,Charles.protect]] 
 
-### #is_/same_as :: [de_Gaulle,Charles.private](/_private/Society/Politics/Government/Leader/Modern_Leaders/de_Gaulle,Charles.private.md) 
+### #is_/same_as :: [[/_private/Society/Politics/Government/Leader/Modern_Leaders/de_Gaulle,Charles.private|de_Gaulle,Charles.private]] 
 
-### #is_/same_as :: [de_Gaulle,Charles.personal](/_personal/Society/Politics/Government/Leader/Modern_Leaders/de_Gaulle,Charles.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Politics/Government/Leader/Modern_Leaders/de_Gaulle,Charles.personal|de_Gaulle,Charles.personal]] 
 
-### #is_/same_as :: [de_Gaulle,Charles.secret](/_secret/Society/Politics/Government/Leader/Modern_Leaders/de_Gaulle,Charles.secret.md)
+### #is_/same_as :: [[/_secret/Society/Politics/Government/Leader/Modern_Leaders/de_Gaulle,Charles.secret|de_Gaulle,Charles.secret]] 
 

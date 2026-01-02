@@ -40,17 +40,17 @@ Krugosvet_article: medicina/SOEDINITELNAYA_TKAN.html
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Connective_Tissue](/_Standards/bio/Medicine/Anatomy/Tissue(bio)/Connective_Tissue.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Anatomy/Tissue(bio)/Connective_Tissue|Connective_Tissue]] 
 
-### #is_/same_as :: [Connective_Tissue.public](/_public/bio/Medicine/Anatomy/Tissue(bio)/Connective_Tissue.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Anatomy/Tissue(bio)/Connective_Tissue.public|Connective_Tissue.public]] 
 
-### #is_/same_as :: [Connective_Tissue.internal](/_internal/bio/Medicine/Anatomy/Tissue(bio)/Connective_Tissue.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Anatomy/Tissue(bio)/Connective_Tissue.internal|Connective_Tissue.internal]] 
 
-### #is_/same_as :: [Connective_Tissue.protect](/_protect/bio/Medicine/Anatomy/Tissue(bio)/Connective_Tissue.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Anatomy/Tissue(bio)/Connective_Tissue.protect|Connective_Tissue.protect]] 
 
-### #is_/same_as :: [Connective_Tissue.private](/_private/bio/Medicine/Anatomy/Tissue(bio)/Connective_Tissue.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Anatomy/Tissue(bio)/Connective_Tissue.private|Connective_Tissue.private]] 
 
-### #is_/same_as :: [Connective_Tissue.personal](/_personal/bio/Medicine/Anatomy/Tissue(bio)/Connective_Tissue.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Anatomy/Tissue(bio)/Connective_Tissue.personal|Connective_Tissue.personal]] 
 
-### #is_/same_as :: [Connective_Tissue.secret](/_secret/bio/Medicine/Anatomy/Tissue(bio)/Connective_Tissue.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Anatomy/Tissue(bio)/Connective_Tissue.secret|Connective_Tissue.secret]] 
 

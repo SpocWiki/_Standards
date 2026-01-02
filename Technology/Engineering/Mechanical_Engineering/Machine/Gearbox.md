@@ -40,17 +40,17 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Speed1c.png
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Gearbox](/_Standards/Technology/Engineering/Mechanical_Engineering/Machine/Gearbox.md) 
+### #is_/same_as :: [[/_Standards/Technology/Engineering/Mechanical_Engineering/Machine/Gearbox|Gearbox]] 
 
-### #is_/same_as :: [Gearbox.public](/_public/Technology/Engineering/Mechanical_Engineering/Machine/Gearbox.public.md) 
+### #is_/same_as :: [[/_public/Technology/Engineering/Mechanical_Engineering/Machine/Gearbox.public|Gearbox.public]] 
 
-### #is_/same_as :: [Gearbox.internal](/_internal/Technology/Engineering/Mechanical_Engineering/Machine/Gearbox.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Engineering/Mechanical_Engineering/Machine/Gearbox.internal|Gearbox.internal]] 
 
-### #is_/same_as :: [Gearbox.protect](/_protect/Technology/Engineering/Mechanical_Engineering/Machine/Gearbox.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Engineering/Mechanical_Engineering/Machine/Gearbox.protect|Gearbox.protect]] 
 
-### #is_/same_as :: [Gearbox.private](/_private/Technology/Engineering/Mechanical_Engineering/Machine/Gearbox.private.md) 
+### #is_/same_as :: [[/_private/Technology/Engineering/Mechanical_Engineering/Machine/Gearbox.private|Gearbox.private]] 
 
-### #is_/same_as :: [Gearbox.personal](/_personal/Technology/Engineering/Mechanical_Engineering/Machine/Gearbox.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Engineering/Mechanical_Engineering/Machine/Gearbox.personal|Gearbox.personal]] 
 
-### #is_/same_as :: [Gearbox.secret](/_secret/Technology/Engineering/Mechanical_Engineering/Machine/Gearbox.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Engineering/Mechanical_Engineering/Machine/Gearbox.secret|Gearbox.secret]] 
 

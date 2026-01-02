@@ -175,17 +175,17 @@ ISNI: 000000012144125X
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Mies,Ludwig](/_Standards/Society/Communication/Art/Art_History/Bauhaus/Mies,Ludwig.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Art/Art_History/Bauhaus/Mies,Ludwig|Mies,Ludwig]] 
 
-### #is_/same_as :: [Mies,Ludwig.public](/_public/Society/Communication/Art/Art_History/Bauhaus/Mies,Ludwig.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Art/Art_History/Bauhaus/Mies,Ludwig.public|Mies,Ludwig.public]] 
 
-### #is_/same_as :: [Mies,Ludwig.internal](/_internal/Society/Communication/Art/Art_History/Bauhaus/Mies,Ludwig.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Art/Art_History/Bauhaus/Mies,Ludwig.internal|Mies,Ludwig.internal]] 
 
-### #is_/same_as :: [Mies,Ludwig.protect](/_protect/Society/Communication/Art/Art_History/Bauhaus/Mies,Ludwig.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Art/Art_History/Bauhaus/Mies,Ludwig.protect|Mies,Ludwig.protect]] 
 
-### #is_/same_as :: [Mies,Ludwig.private](/_private/Society/Communication/Art/Art_History/Bauhaus/Mies,Ludwig.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Art/Art_History/Bauhaus/Mies,Ludwig.private|Mies,Ludwig.private]] 
 
-### #is_/same_as :: [Mies,Ludwig.personal](/_personal/Society/Communication/Art/Art_History/Bauhaus/Mies,Ludwig.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Art/Art_History/Bauhaus/Mies,Ludwig.personal|Mies,Ludwig.personal]] 
 
-### #is_/same_as :: [Mies,Ludwig.secret](/_secret/Society/Communication/Art/Art_History/Bauhaus/Mies,Ludwig.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Art/Art_History/Bauhaus/Mies,Ludwig.secret|Mies,Ludwig.secret]] 
 

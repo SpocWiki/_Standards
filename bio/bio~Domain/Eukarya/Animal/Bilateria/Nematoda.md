@@ -116,17 +116,17 @@ Source Collection   [Public Health Image Library](http://phil.cdc.gov/Phil/defau
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Nematoda](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Nematoda.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Nematoda|Nematoda]] 
 
-### #is_/same_as :: [Nematoda.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Nematoda.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Nematoda.public|Nematoda.public]] 
 
-### #is_/same_as :: [Nematoda.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Nematoda.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Nematoda.internal|Nematoda.internal]] 
 
-### #is_/same_as :: [Nematoda.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Nematoda.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Nematoda.protect|Nematoda.protect]] 
 
-### #is_/same_as :: [Nematoda.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Nematoda.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Nematoda.private|Nematoda.private]] 
 
-### #is_/same_as :: [Nematoda.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Nematoda.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Nematoda.personal|Nematoda.personal]] 
 
-### #is_/same_as :: [Nematoda.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Nematoda.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Nematoda.secret|Nematoda.secret]] 
 

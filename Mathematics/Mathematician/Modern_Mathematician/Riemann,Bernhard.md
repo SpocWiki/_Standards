@@ -138,17 +138,17 @@ writing_language: "[[_Standards/WikiData/WD~German,188]]"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Riemann,Bernhard](/_Standards/Mathematics/Mathematician/Modern_Mathematician/Riemann,Bernhard.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Mathematician/Modern_Mathematician/Riemann,Bernhard|Riemann,Bernhard]] 
 
-### #is_/same_as :: [Riemann,Bernhard.public](/_public/Mathematics/Mathematician/Modern_Mathematician/Riemann,Bernhard.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Mathematician/Modern_Mathematician/Riemann,Bernhard.public|Riemann,Bernhard.public]] 
 
-### #is_/same_as :: [Riemann,Bernhard.internal](/_internal/Mathematics/Mathematician/Modern_Mathematician/Riemann,Bernhard.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Mathematician/Modern_Mathematician/Riemann,Bernhard.internal|Riemann,Bernhard.internal]] 
 
-### #is_/same_as :: [Riemann,Bernhard.protect](/_protect/Mathematics/Mathematician/Modern_Mathematician/Riemann,Bernhard.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Mathematician/Modern_Mathematician/Riemann,Bernhard.protect|Riemann,Bernhard.protect]] 
 
-### #is_/same_as :: [Riemann,Bernhard.private](/_private/Mathematics/Mathematician/Modern_Mathematician/Riemann,Bernhard.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Mathematician/Modern_Mathematician/Riemann,Bernhard.private|Riemann,Bernhard.private]] 
 
-### #is_/same_as :: [Riemann,Bernhard.personal](/_personal/Mathematics/Mathematician/Modern_Mathematician/Riemann,Bernhard.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Mathematician/Modern_Mathematician/Riemann,Bernhard.personal|Riemann,Bernhard.personal]] 
 
-### #is_/same_as :: [Riemann,Bernhard.secret](/_secret/Mathematics/Mathematician/Modern_Mathematician/Riemann,Bernhard.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Mathematician/Modern_Mathematician/Riemann,Bernhard.secret|Riemann,Bernhard.secret]] 
 

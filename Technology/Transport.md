@@ -81,17 +81,17 @@ Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_transport,7112806]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Transport](/_Standards/Technology/Transport.md) 
+### #is_/same_as :: [[/_Standards/Technology/Transport|Transport]] 
 
-### #is_/same_as :: [Transport.public](/_public/Technology/Transport.public.md) 
+### #is_/same_as :: [[/_public/Technology/Transport.public|Transport.public]] 
 
-### #is_/same_as :: [Transport.internal](/_internal/Technology/Transport.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Transport.internal|Transport.internal]] 
 
-### #is_/same_as :: [Transport.protect](/_protect/Technology/Transport.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Transport.protect|Transport.protect]] 
 
-### #is_/same_as :: [Transport.private](/_private/Technology/Transport.private.md) 
+### #is_/same_as :: [[/_private/Technology/Transport.private|Transport.private]] 
 
-### #is_/same_as :: [Transport.personal](/_personal/Technology/Transport.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Transport.personal|Transport.personal]] 
 
-### #is_/same_as :: [Transport.secret](/_secret/Technology/Transport.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Transport.secret|Transport.secret]] 
 

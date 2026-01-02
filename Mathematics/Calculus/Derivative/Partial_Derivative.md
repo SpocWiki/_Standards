@@ -49,17 +49,17 @@ defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Partial_Derivative](/_Standards/Mathematics/Calculus/Derivative/Partial_Derivative.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Calculus/Derivative/Partial_Derivative|Partial_Derivative]] 
 
-### #is_/same_as :: [Partial_Derivative.public](/_public/Mathematics/Calculus/Derivative/Partial_Derivative.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Calculus/Derivative/Partial_Derivative.public|Partial_Derivative.public]] 
 
-### #is_/same_as :: [Partial_Derivative.internal](/_internal/Mathematics/Calculus/Derivative/Partial_Derivative.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Calculus/Derivative/Partial_Derivative.internal|Partial_Derivative.internal]] 
 
-### #is_/same_as :: [Partial_Derivative.protect](/_protect/Mathematics/Calculus/Derivative/Partial_Derivative.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Calculus/Derivative/Partial_Derivative.protect|Partial_Derivative.protect]] 
 
-### #is_/same_as :: [Partial_Derivative.private](/_private/Mathematics/Calculus/Derivative/Partial_Derivative.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Calculus/Derivative/Partial_Derivative.private|Partial_Derivative.private]] 
 
-### #is_/same_as :: [Partial_Derivative.personal](/_personal/Mathematics/Calculus/Derivative/Partial_Derivative.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Calculus/Derivative/Partial_Derivative.personal|Partial_Derivative.personal]] 
 
-### #is_/same_as :: [Partial_Derivative.secret](/_secret/Mathematics/Calculus/Derivative/Partial_Derivative.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Calculus/Derivative/Partial_Derivative.secret|Partial_Derivative.secret]] 
 

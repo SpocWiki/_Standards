@@ -128,17 +128,17 @@ Poland had its own strategy:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Euro](/_Standards/Society/Economics/Currency/Euro.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Currency/Euro|Euro]] 
 
-### #is_/same_as :: [Euro.public](/_public/Society/Economics/Currency/Euro.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Currency/Euro.public|Euro.public]] 
 
-### #is_/same_as :: [Euro.internal](/_internal/Society/Economics/Currency/Euro.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Currency/Euro.internal|Euro.internal]] 
 
-### #is_/same_as :: [Euro.protect](/_protect/Society/Economics/Currency/Euro.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Currency/Euro.protect|Euro.protect]] 
 
-### #is_/same_as :: [Euro.private](/_private/Society/Economics/Currency/Euro.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Currency/Euro.private|Euro.private]] 
 
-### #is_/same_as :: [Euro.personal](/_personal/Society/Economics/Currency/Euro.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Currency/Euro.personal|Euro.personal]] 
 
-### #is_/same_as :: [Euro.secret](/_secret/Society/Economics/Currency/Euro.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Currency/Euro.secret|Euro.secret]] 
 

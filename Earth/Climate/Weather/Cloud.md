@@ -73,17 +73,17 @@ P8189: 987007283918205171
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Cloud](/_Standards/Earth/Climate/Weather/Cloud.md) 
+### #is_/same_as :: [[/_Standards/Earth/Climate/Weather/Cloud|Cloud]] 
 
-### #is_/same_as :: [Cloud.public](/_public/Earth/Climate/Weather/Cloud.public.md) 
+### #is_/same_as :: [[/_public/Earth/Climate/Weather/Cloud.public|Cloud.public]] 
 
-### #is_/same_as :: [Cloud.internal](/_internal/Earth/Climate/Weather/Cloud.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Climate/Weather/Cloud.internal|Cloud.internal]] 
 
-### #is_/same_as :: [Cloud.protect](/_protect/Earth/Climate/Weather/Cloud.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Climate/Weather/Cloud.protect|Cloud.protect]] 
 
-### #is_/same_as :: [Cloud.private](/_private/Earth/Climate/Weather/Cloud.private.md) 
+### #is_/same_as :: [[/_private/Earth/Climate/Weather/Cloud.private|Cloud.private]] 
 
-### #is_/same_as :: [Cloud.personal](/_personal/Earth/Climate/Weather/Cloud.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Climate/Weather/Cloud.personal|Cloud.personal]] 
 
-### #is_/same_as :: [Cloud.secret](/_secret/Earth/Climate/Weather/Cloud.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Climate/Weather/Cloud.secret|Cloud.secret]] 
 

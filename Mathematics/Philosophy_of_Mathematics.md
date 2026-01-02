@@ -42,17 +42,17 @@ PhilPapers_topic: philosophy-of-mathematics
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Philosophy_of_Mathematics](/_Standards/Mathematics/Philosophy_of_Mathematics.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Philosophy_of_Mathematics|Philosophy_of_Mathematics]] 
 
-### #is_/same_as :: [Philosophy_of_Mathematics.public](/_public/Mathematics/Philosophy_of_Mathematics.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Philosophy_of_Mathematics.public|Philosophy_of_Mathematics.public]] 
 
-### #is_/same_as :: [Philosophy_of_Mathematics.internal](/_internal/Mathematics/Philosophy_of_Mathematics.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Philosophy_of_Mathematics.internal|Philosophy_of_Mathematics.internal]] 
 
-### #is_/same_as :: [Philosophy_of_Mathematics.protect](/_protect/Mathematics/Philosophy_of_Mathematics.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Philosophy_of_Mathematics.protect|Philosophy_of_Mathematics.protect]] 
 
-### #is_/same_as :: [Philosophy_of_Mathematics.private](/_private/Mathematics/Philosophy_of_Mathematics.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Philosophy_of_Mathematics.private|Philosophy_of_Mathematics.private]] 
 
-### #is_/same_as :: [Philosophy_of_Mathematics.personal](/_personal/Mathematics/Philosophy_of_Mathematics.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Philosophy_of_Mathematics.personal|Philosophy_of_Mathematics.personal]] 
 
-### #is_/same_as :: [Philosophy_of_Mathematics.secret](/_secret/Mathematics/Philosophy_of_Mathematics.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Philosophy_of_Mathematics.secret|Philosophy_of_Mathematics.secret]] 
 

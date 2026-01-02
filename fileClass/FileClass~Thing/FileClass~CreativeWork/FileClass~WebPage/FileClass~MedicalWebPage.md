@@ -42,17 +42,17 @@ MedicalAudience:: {"type":"Select","options":{"valuesList":{"Clinician","Medical
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~MedicalWebPage](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~MedicalWebPage.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~MedicalWebPage|FileClass~MedicalWebPage]] 
 
-### #is_/same_as :: [FileClass~MedicalWebPage.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~MedicalWebPage.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~MedicalWebPage.public|FileClass~MedicalWebPage.public]] 
 
-### #is_/same_as :: [FileClass~MedicalWebPage.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~MedicalWebPage.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~MedicalWebPage.internal|FileClass~MedicalWebPage.internal]] 
 
-### #is_/same_as :: [FileClass~MedicalWebPage.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~MedicalWebPage.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~MedicalWebPage.protect|FileClass~MedicalWebPage.protect]] 
 
-### #is_/same_as :: [FileClass~MedicalWebPage.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~MedicalWebPage.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~MedicalWebPage.private|FileClass~MedicalWebPage.private]] 
 
-### #is_/same_as :: [FileClass~MedicalWebPage.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~MedicalWebPage.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~MedicalWebPage.personal|FileClass~MedicalWebPage.personal]] 
 
-### #is_/same_as :: [FileClass~MedicalWebPage.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~MedicalWebPage.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~MedicalWebPage.secret|FileClass~MedicalWebPage.secret]] 
 

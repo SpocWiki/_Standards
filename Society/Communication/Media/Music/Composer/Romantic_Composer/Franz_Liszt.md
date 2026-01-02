@@ -209,17 +209,17 @@ IPI_name_number: 00018232018
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Franz_Liszt](/_Standards/Society/Communication/Media/Music/Composer/Romantic_Composer/Franz_Liszt.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Composer/Romantic_Composer/Franz_Liszt|Franz_Liszt]] 
 
-### #is_/same_as :: [Franz_Liszt.public](/_public/Society/Communication/Media/Music/Composer/Romantic_Composer/Franz_Liszt.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Composer/Romantic_Composer/Franz_Liszt.public|Franz_Liszt.public]] 
 
-### #is_/same_as :: [Franz_Liszt.internal](/_internal/Society/Communication/Media/Music/Composer/Romantic_Composer/Franz_Liszt.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Composer/Romantic_Composer/Franz_Liszt.internal|Franz_Liszt.internal]] 
 
-### #is_/same_as :: [Franz_Liszt.protect](/_protect/Society/Communication/Media/Music/Composer/Romantic_Composer/Franz_Liszt.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Composer/Romantic_Composer/Franz_Liszt.protect|Franz_Liszt.protect]] 
 
-### #is_/same_as :: [Franz_Liszt.private](/_private/Society/Communication/Media/Music/Composer/Romantic_Composer/Franz_Liszt.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Composer/Romantic_Composer/Franz_Liszt.private|Franz_Liszt.private]] 
 
-### #is_/same_as :: [Franz_Liszt.personal](/_personal/Society/Communication/Media/Music/Composer/Romantic_Composer/Franz_Liszt.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Composer/Romantic_Composer/Franz_Liszt.personal|Franz_Liszt.personal]] 
 
-### #is_/same_as :: [Franz_Liszt.secret](/_secret/Society/Communication/Media/Music/Composer/Romantic_Composer/Franz_Liszt.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Composer/Romantic_Composer/Franz_Liszt.secret|Franz_Liszt.secret]] 
 

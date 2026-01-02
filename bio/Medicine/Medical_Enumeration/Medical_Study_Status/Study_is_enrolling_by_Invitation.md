@@ -42,17 +42,17 @@ Enrolling participants by invitation only.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Study_is_enrolling_by_Invitation](/_Standards/bio/Medicine/Medical_Enumeration/Medical_Study_Status/Study_is_enrolling_by_Invitation.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Enumeration/Medical_Study_Status/Study_is_enrolling_by_Invitation|Study_is_enrolling_by_Invitation]] 
 
-### #is_/same_as :: [Study_is_enrolling_by_Invitation.public](/_public/bio/Medicine/Medical_Enumeration/Medical_Study_Status/Study_is_enrolling_by_Invitation.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Enumeration/Medical_Study_Status/Study_is_enrolling_by_Invitation.public|Study_is_enrolling_by_Invitation.public]] 
 
-### #is_/same_as :: [Study_is_enrolling_by_Invitation.internal](/_internal/bio/Medicine/Medical_Enumeration/Medical_Study_Status/Study_is_enrolling_by_Invitation.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Enumeration/Medical_Study_Status/Study_is_enrolling_by_Invitation.internal|Study_is_enrolling_by_Invitation.internal]] 
 
-### #is_/same_as :: [Study_is_enrolling_by_Invitation.protect](/_protect/bio/Medicine/Medical_Enumeration/Medical_Study_Status/Study_is_enrolling_by_Invitation.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Enumeration/Medical_Study_Status/Study_is_enrolling_by_Invitation.protect|Study_is_enrolling_by_Invitation.protect]] 
 
-### #is_/same_as :: [Study_is_enrolling_by_Invitation.private](/_private/bio/Medicine/Medical_Enumeration/Medical_Study_Status/Study_is_enrolling_by_Invitation.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Enumeration/Medical_Study_Status/Study_is_enrolling_by_Invitation.private|Study_is_enrolling_by_Invitation.private]] 
 
-### #is_/same_as :: [Study_is_enrolling_by_Invitation.personal](/_personal/bio/Medicine/Medical_Enumeration/Medical_Study_Status/Study_is_enrolling_by_Invitation.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Enumeration/Medical_Study_Status/Study_is_enrolling_by_Invitation.personal|Study_is_enrolling_by_Invitation.personal]] 
 
-### #is_/same_as :: [Study_is_enrolling_by_Invitation.secret](/_secret/bio/Medicine/Medical_Enumeration/Medical_Study_Status/Study_is_enrolling_by_Invitation.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Enumeration/Medical_Study_Status/Study_is_enrolling_by_Invitation.secret|Study_is_enrolling_by_Invitation.secret]] 
 

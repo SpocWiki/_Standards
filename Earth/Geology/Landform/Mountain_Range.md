@@ -62,17 +62,17 @@ OpenStreetMap_tag: natural=mountain_range
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Mountain_Range](/_Standards/Earth/Geology/Landform/Mountain_Range.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geology/Landform/Mountain_Range|Mountain_Range]] 
 
-### #is_/same_as :: [Mountain_Range.public](/_public/Earth/Geology/Landform/Mountain_Range.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geology/Landform/Mountain_Range.public|Mountain_Range.public]] 
 
-### #is_/same_as :: [Mountain_Range.internal](/_internal/Earth/Geology/Landform/Mountain_Range.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geology/Landform/Mountain_Range.internal|Mountain_Range.internal]] 
 
-### #is_/same_as :: [Mountain_Range.protect](/_protect/Earth/Geology/Landform/Mountain_Range.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geology/Landform/Mountain_Range.protect|Mountain_Range.protect]] 
 
-### #is_/same_as :: [Mountain_Range.private](/_private/Earth/Geology/Landform/Mountain_Range.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geology/Landform/Mountain_Range.private|Mountain_Range.private]] 
 
-### #is_/same_as :: [Mountain_Range.personal](/_personal/Earth/Geology/Landform/Mountain_Range.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geology/Landform/Mountain_Range.personal|Mountain_Range.personal]] 
 
-### #is_/same_as :: [Mountain_Range.secret](/_secret/Earth/Geology/Landform/Mountain_Range.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geology/Landform/Mountain_Range.secret|Mountain_Range.secret]] 
 

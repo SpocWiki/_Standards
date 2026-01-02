@@ -14,17 +14,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [ISWIM](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structured_Prog-Lang/ISWIM.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structured_Prog-Lang/ISWIM|ISWIM]] 
 
-### #is_/same_as :: [ISWIM.public](/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structured_Prog-Lang/ISWIM.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structured_Prog-Lang/ISWIM.public|ISWIM.public]] 
 
-### #is_/same_as :: [ISWIM.internal](/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structured_Prog-Lang/ISWIM.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structured_Prog-Lang/ISWIM.internal|ISWIM.internal]] 
 
-### #is_/same_as :: [ISWIM.protect](/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structured_Prog-Lang/ISWIM.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structured_Prog-Lang/ISWIM.protect|ISWIM.protect]] 
 
-### #is_/same_as :: [ISWIM.private](/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structured_Prog-Lang/ISWIM.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structured_Prog-Lang/ISWIM.private|ISWIM.private]] 
 
-### #is_/same_as :: [ISWIM.personal](/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structured_Prog-Lang/ISWIM.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structured_Prog-Lang/ISWIM.personal|ISWIM.personal]] 
 
-### #is_/same_as :: [ISWIM.secret](/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structured_Prog-Lang/ISWIM.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structured_Prog-Lang/ISWIM.secret|ISWIM.secret]] 
 

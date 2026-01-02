@@ -37,17 +37,17 @@ A business providing entertainment.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~EntertainmentBusiness](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EntertainmentBusiness.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EntertainmentBusiness|FileClass~EntertainmentBusiness]] 
 
-### #is_/same_as :: [FileClass~EntertainmentBusiness.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EntertainmentBusiness.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EntertainmentBusiness.public|FileClass~EntertainmentBusiness.public]] 
 
-### #is_/same_as :: [FileClass~EntertainmentBusiness.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EntertainmentBusiness.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EntertainmentBusiness.internal|FileClass~EntertainmentBusiness.internal]] 
 
-### #is_/same_as :: [FileClass~EntertainmentBusiness.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EntertainmentBusiness.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EntertainmentBusiness.protect|FileClass~EntertainmentBusiness.protect]] 
 
-### #is_/same_as :: [FileClass~EntertainmentBusiness.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EntertainmentBusiness.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EntertainmentBusiness.private|FileClass~EntertainmentBusiness.private]] 
 
-### #is_/same_as :: [FileClass~EntertainmentBusiness.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EntertainmentBusiness.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EntertainmentBusiness.personal|FileClass~EntertainmentBusiness.personal]] 
 
-### #is_/same_as :: [FileClass~EntertainmentBusiness.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EntertainmentBusiness.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EntertainmentBusiness.secret|FileClass~EntertainmentBusiness.secret]] 
 

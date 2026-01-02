@@ -149,17 +149,17 @@ external_data_available_at_URL: https://www.gbif.org/dataset/93725bf2-6ada-47f9-
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Eggplant](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Solanales/Solanoideae/Solaneae/Nightshade/Eggplant.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Solanales/Solanoideae/Solaneae/Nightshade/Eggplant|Eggplant]] 
 
-### #is_/same_as :: [Eggplant.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Solanales/Solanoideae/Solaneae/Nightshade/Eggplant.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Solanales/Solanoideae/Solaneae/Nightshade/Eggplant.public|Eggplant.public]] 
 
-### #is_/same_as :: [Eggplant.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Solanales/Solanoideae/Solaneae/Nightshade/Eggplant.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Solanales/Solanoideae/Solaneae/Nightshade/Eggplant.internal|Eggplant.internal]] 
 
-### #is_/same_as :: [Eggplant.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Solanales/Solanoideae/Solaneae/Nightshade/Eggplant.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Solanales/Solanoideae/Solaneae/Nightshade/Eggplant.protect|Eggplant.protect]] 
 
-### #is_/same_as :: [Eggplant.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Solanales/Solanoideae/Solaneae/Nightshade/Eggplant.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Solanales/Solanoideae/Solaneae/Nightshade/Eggplant.private|Eggplant.private]] 
 
-### #is_/same_as :: [Eggplant.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Solanales/Solanoideae/Solaneae/Nightshade/Eggplant.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Solanales/Solanoideae/Solaneae/Nightshade/Eggplant.personal|Eggplant.personal]] 
 
-### #is_/same_as :: [Eggplant.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Solanales/Solanoideae/Solaneae/Nightshade/Eggplant.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Solanales/Solanoideae/Solaneae/Nightshade/Eggplant.secret|Eggplant.secret]] 
 

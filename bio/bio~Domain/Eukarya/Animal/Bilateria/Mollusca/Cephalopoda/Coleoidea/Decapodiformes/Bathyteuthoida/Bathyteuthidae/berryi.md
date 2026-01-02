@@ -28,7 +28,7 @@ title: Bathyteuthis berryi
 # *Bathyteuthis berryi* [Roper 1968] 
 
 [Clyde F. E. Roper]()
-![ ](berryi/BathyBerryi.jpg))
+![ ](berryi/BathyBerryi.jpg) 
 
 The holotype is housed at the Santa Barbara Museum of Natural History,
 California.
@@ -98,7 +98,7 @@ Contributions to Zoology, No. 97: 1-159
 
 ## Title Illustrations
 
-![](berryi/BathyBerryi.jpg))
+![](berryi/BathyBerryi.jpg) 
 
   ---------
   Copyright ::   © 1998 C. F. E. Roper
@@ -107,17 +107,17 @@ Contributions to Zoology, No. 97: 1-159
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [berryi](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Bathyteuthoida/Bathyteuthidae/berryi.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Bathyteuthoida/Bathyteuthidae/berryi|berryi]] 
 
-### #is_/same_as :: [berryi.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Bathyteuthoida/Bathyteuthidae/berryi.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Bathyteuthoida/Bathyteuthidae/berryi.public|berryi.public]] 
 
-### #is_/same_as :: [berryi.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Bathyteuthoida/Bathyteuthidae/berryi.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Bathyteuthoida/Bathyteuthidae/berryi.internal|berryi.internal]] 
 
-### #is_/same_as :: [berryi.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Bathyteuthoida/Bathyteuthidae/berryi.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Bathyteuthoida/Bathyteuthidae/berryi.protect|berryi.protect]] 
 
-### #is_/same_as :: [berryi.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Bathyteuthoida/Bathyteuthidae/berryi.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Bathyteuthoida/Bathyteuthidae/berryi.private|berryi.private]] 
 
-### #is_/same_as :: [berryi.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Bathyteuthoida/Bathyteuthidae/berryi.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Bathyteuthoida/Bathyteuthidae/berryi.personal|berryi.personal]] 
 
-### #is_/same_as :: [berryi.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Bathyteuthoida/Bathyteuthidae/berryi.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Bathyteuthoida/Bathyteuthidae/berryi.secret|berryi.secret]] 
 

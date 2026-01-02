@@ -41,7 +41,7 @@ taxon_common_name:
 
 # [[Mygalomorphae]]  
 
-![ ](Mygalomorphae/01082tarantula1.jpg))
+![ ](Mygalomorphae/01082tarantula1.jpg) 
 
 #is_/same_as :: [[../../../../../../../../../WikiData/WD~Mygalomorphae,12081|WD~Mygalomorphae,12081]] 
 
@@ -79,7 +79,7 @@ Antrodiaetidae). Journal of Arachnology 24:201-213.
 
 ## Title Illustrations
 
-![](Mygalomorphae/01082tarantula1.jpg))
+![](Mygalomorphae/01082tarantula1.jpg) 
 
   -----------------------------------------------------------------------------
   Scientific Name ::     Theraphosidae and Dendrobatidae
@@ -93,17 +93,17 @@ Antrodiaetidae). Journal of Arachnology 24:201-213.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Mygalomorphae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Mygalomorphae.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Mygalomorphae|Mygalomorphae]] 
 
-### #is_/same_as :: [Mygalomorphae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Mygalomorphae.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Mygalomorphae.public|Mygalomorphae.public]] 
 
-### #is_/same_as :: [Mygalomorphae.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Mygalomorphae.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Mygalomorphae.internal|Mygalomorphae.internal]] 
 
-### #is_/same_as :: [Mygalomorphae.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Mygalomorphae.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Mygalomorphae.protect|Mygalomorphae.protect]] 
 
-### #is_/same_as :: [Mygalomorphae.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Mygalomorphae.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Mygalomorphae.private|Mygalomorphae.private]] 
 
-### #is_/same_as :: [Mygalomorphae.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Mygalomorphae.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Mygalomorphae.personal|Mygalomorphae.personal]] 
 
-### #is_/same_as :: [Mygalomorphae.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Mygalomorphae.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Mygalomorphae.secret|Mygalomorphae.secret]] 
 

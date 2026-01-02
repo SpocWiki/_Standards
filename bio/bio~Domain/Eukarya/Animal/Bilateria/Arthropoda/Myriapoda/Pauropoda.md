@@ -98,7 +98,7 @@ far.\
 ## Title Illustrations
 
 --------------------------------------------------------------------------- 
-![pauropod](Pauropoda/Pauropod.jpg))
+![pauropod](Pauropoda/Pauropod.jpg) 
 Scientific Name ::     Pauropoda
 Location ::           USA: North Carolina: Eno River State Park
 Specimen Condition   Live Specimen
@@ -107,17 +107,17 @@ Copyright ::            © 2004 [David R. Maddison](http://david.bembidion.org/)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Pauropoda](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Myriapoda/Pauropoda.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Myriapoda/Pauropoda|Pauropoda]] 
 
-### #is_/same_as :: [Pauropoda.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Myriapoda/Pauropoda.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Myriapoda/Pauropoda.public|Pauropoda.public]] 
 
-### #is_/same_as :: [Pauropoda.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Myriapoda/Pauropoda.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Myriapoda/Pauropoda.internal|Pauropoda.internal]] 
 
-### #is_/same_as :: [Pauropoda.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Myriapoda/Pauropoda.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Myriapoda/Pauropoda.protect|Pauropoda.protect]] 
 
-### #is_/same_as :: [Pauropoda.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Myriapoda/Pauropoda.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Myriapoda/Pauropoda.private|Pauropoda.private]] 
 
-### #is_/same_as :: [Pauropoda.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Myriapoda/Pauropoda.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Myriapoda/Pauropoda.personal|Pauropoda.personal]] 
 
-### #is_/same_as :: [Pauropoda.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Myriapoda/Pauropoda.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Myriapoda/Pauropoda.secret|Pauropoda.secret]] 
 

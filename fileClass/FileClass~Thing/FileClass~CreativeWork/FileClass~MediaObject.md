@@ -236,17 +236,17 @@ Width:: {"type":"Number","options":{}}
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~MediaObject](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject|FileClass~MediaObject]] 
 
-### #is_/same_as :: [FileClass~MediaObject.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject.public|FileClass~MediaObject.public]] 
 
-### #is_/same_as :: [FileClass~MediaObject.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject.internal|FileClass~MediaObject.internal]] 
 
-### #is_/same_as :: [FileClass~MediaObject.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject.protect|FileClass~MediaObject.protect]] 
 
-### #is_/same_as :: [FileClass~MediaObject.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject.private|FileClass~MediaObject.private]] 
 
-### #is_/same_as :: [FileClass~MediaObject.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject.personal|FileClass~MediaObject.personal]] 
 
-### #is_/same_as :: [FileClass~MediaObject.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject.secret|FileClass~MediaObject.secret]] 
 

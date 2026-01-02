@@ -75,17 +75,17 @@ RTECS_number: WC5600000
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sodium_Nitrate](/_Standards/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Nitrate/Sodium_Nitrate.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Nitrate/Sodium_Nitrate|Sodium_Nitrate]] 
 
-### #is_/same_as :: [Sodium_Nitrate.public](/_public/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Nitrate/Sodium_Nitrate.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Nitrate/Sodium_Nitrate.public|Sodium_Nitrate.public]] 
 
-### #is_/same_as :: [Sodium_Nitrate.internal](/_internal/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Nitrate/Sodium_Nitrate.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Nitrate/Sodium_Nitrate.internal|Sodium_Nitrate.internal]] 
 
-### #is_/same_as :: [Sodium_Nitrate.protect](/_protect/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Nitrate/Sodium_Nitrate.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Nitrate/Sodium_Nitrate.protect|Sodium_Nitrate.protect]] 
 
-### #is_/same_as :: [Sodium_Nitrate.private](/_private/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Nitrate/Sodium_Nitrate.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Nitrate/Sodium_Nitrate.private|Sodium_Nitrate.private]] 
 
-### #is_/same_as :: [Sodium_Nitrate.personal](/_personal/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Nitrate/Sodium_Nitrate.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Nitrate/Sodium_Nitrate.personal|Sodium_Nitrate.personal]] 
 
-### #is_/same_as :: [Sodium_Nitrate.secret](/_secret/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Nitrate/Sodium_Nitrate.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Nitrate/Sodium_Nitrate.secret|Sodium_Nitrate.secret]] 
 

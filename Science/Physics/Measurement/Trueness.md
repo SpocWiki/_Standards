@@ -26,3 +26,22 @@ The International Organization for Standardization (ISO) defines trueness as,
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Science/Physics/Measurement/Trueness|Trueness]] 
+
+### #is_/same_as :: [[/_public/Science/Physics/Measurement/Trueness.public|Trueness.public]] 
+
+### #is_/same_as :: [[/_internal/Science/Physics/Measurement/Trueness.internal|Trueness.internal]] 
+
+### #is_/same_as :: [[/_protect/Science/Physics/Measurement/Trueness.protect|Trueness.protect]] 
+
+### #is_/same_as :: [[/_private/Science/Physics/Measurement/Trueness.private|Trueness.private]] 
+
+### #is_/same_as :: [[/_personal/Science/Physics/Measurement/Trueness.personal|Trueness.personal]] 
+
+### #is_/same_as :: [[/_secret/Science/Physics/Measurement/Trueness.secret|Trueness.secret]] 
+

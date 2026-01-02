@@ -69,17 +69,17 @@ Wolfram_Language_entity_code: Entity["Concept", "GreenRevolution::2bt99"]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Green_Revolution](/_Standards/Society/Economics/Industry/Agriculture/Green_Revolution.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Industry/Agriculture/Green_Revolution|Green_Revolution]] 
 
-### #is_/same_as :: [Green_Revolution.public](/_public/Society/Economics/Industry/Agriculture/Green_Revolution.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Industry/Agriculture/Green_Revolution.public|Green_Revolution.public]] 
 
-### #is_/same_as :: [Green_Revolution.internal](/_internal/Society/Economics/Industry/Agriculture/Green_Revolution.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Industry/Agriculture/Green_Revolution.internal|Green_Revolution.internal]] 
 
-### #is_/same_as :: [Green_Revolution.protect](/_protect/Society/Economics/Industry/Agriculture/Green_Revolution.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Industry/Agriculture/Green_Revolution.protect|Green_Revolution.protect]] 
 
-### #is_/same_as :: [Green_Revolution.private](/_private/Society/Economics/Industry/Agriculture/Green_Revolution.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Industry/Agriculture/Green_Revolution.private|Green_Revolution.private]] 
 
-### #is_/same_as :: [Green_Revolution.personal](/_personal/Society/Economics/Industry/Agriculture/Green_Revolution.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Industry/Agriculture/Green_Revolution.personal|Green_Revolution.personal]] 
 
-### #is_/same_as :: [Green_Revolution.secret](/_secret/Society/Economics/Industry/Agriculture/Green_Revolution.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Industry/Agriculture/Green_Revolution.secret|Green_Revolution.secret]] 
 

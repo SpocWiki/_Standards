@@ -63,17 +63,17 @@ UMLS_CUI: C0023779
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lipid](/_Standards/bio/Metabolism/Nutrition/Fat/Lipid.md) 
+### #is_/same_as :: [[/_Standards/bio/Metabolism/Nutrition/Fat/Lipid|Lipid]] 
 
-### #is_/same_as :: [Lipid.public](/_public/bio/Metabolism/Nutrition/Fat/Lipid.public.md) 
+### #is_/same_as :: [[/_public/bio/Metabolism/Nutrition/Fat/Lipid.public|Lipid.public]] 
 
-### #is_/same_as :: [Lipid.internal](/_internal/bio/Metabolism/Nutrition/Fat/Lipid.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Metabolism/Nutrition/Fat/Lipid.internal|Lipid.internal]] 
 
-### #is_/same_as :: [Lipid.protect](/_protect/bio/Metabolism/Nutrition/Fat/Lipid.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Metabolism/Nutrition/Fat/Lipid.protect|Lipid.protect]] 
 
-### #is_/same_as :: [Lipid.private](/_private/bio/Metabolism/Nutrition/Fat/Lipid.private.md) 
+### #is_/same_as :: [[/_private/bio/Metabolism/Nutrition/Fat/Lipid.private|Lipid.private]] 
 
-### #is_/same_as :: [Lipid.personal](/_personal/bio/Metabolism/Nutrition/Fat/Lipid.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Metabolism/Nutrition/Fat/Lipid.personal|Lipid.personal]] 
 
-### #is_/same_as :: [Lipid.secret](/_secret/bio/Metabolism/Nutrition/Fat/Lipid.secret.md)
+### #is_/same_as :: [[/_secret/bio/Metabolism/Nutrition/Fat/Lipid.secret|Lipid.secret]] 
 

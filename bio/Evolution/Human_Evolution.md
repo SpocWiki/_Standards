@@ -52,17 +52,17 @@ Krugosvet_article_archived_: nauka_i_tehnika/biologiya/EVOLYUTSIYA_CHELOVEKA.htm
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Human_Evolution](/_Standards/bio/Evolution/Human_Evolution.md) 
+### #is_/same_as :: [[/_Standards/bio/Evolution/Human_Evolution|Human_Evolution]] 
 
-### #is_/same_as :: [Human_Evolution.public](/_public/bio/Evolution/Human_Evolution.public.md) 
+### #is_/same_as :: [[/_public/bio/Evolution/Human_Evolution.public|Human_Evolution.public]] 
 
-### #is_/same_as :: [Human_Evolution.internal](/_internal/bio/Evolution/Human_Evolution.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Evolution/Human_Evolution.internal|Human_Evolution.internal]] 
 
-### #is_/same_as :: [Human_Evolution.protect](/_protect/bio/Evolution/Human_Evolution.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Evolution/Human_Evolution.protect|Human_Evolution.protect]] 
 
-### #is_/same_as :: [Human_Evolution.private](/_private/bio/Evolution/Human_Evolution.private.md) 
+### #is_/same_as :: [[/_private/bio/Evolution/Human_Evolution.private|Human_Evolution.private]] 
 
-### #is_/same_as :: [Human_Evolution.personal](/_personal/bio/Evolution/Human_Evolution.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Evolution/Human_Evolution.personal|Human_Evolution.personal]] 
 
-### #is_/same_as :: [Human_Evolution.secret](/_secret/bio/Evolution/Human_Evolution.secret.md)
+### #is_/same_as :: [[/_secret/bio/Evolution/Human_Evolution.secret|Human_Evolution.secret]] 
 

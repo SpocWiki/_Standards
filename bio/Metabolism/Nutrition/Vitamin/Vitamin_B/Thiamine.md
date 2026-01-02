@@ -18,3 +18,22 @@ aliases:
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/bio/Metabolism/Nutrition/Vitamin/Vitamin_B/Thiamine|Thiamine]] 
+
+### #is_/same_as :: [[/_public/bio/Metabolism/Nutrition/Vitamin/Vitamin_B/Thiamine.public|Thiamine.public]] 
+
+### #is_/same_as :: [[/_internal/bio/Metabolism/Nutrition/Vitamin/Vitamin_B/Thiamine.internal|Thiamine.internal]] 
+
+### #is_/same_as :: [[/_protect/bio/Metabolism/Nutrition/Vitamin/Vitamin_B/Thiamine.protect|Thiamine.protect]] 
+
+### #is_/same_as :: [[/_private/bio/Metabolism/Nutrition/Vitamin/Vitamin_B/Thiamine.private|Thiamine.private]] 
+
+### #is_/same_as :: [[/_personal/bio/Metabolism/Nutrition/Vitamin/Vitamin_B/Thiamine.personal|Thiamine.personal]] 
+
+### #is_/same_as :: [[/_secret/bio/Metabolism/Nutrition/Vitamin/Vitamin_B/Thiamine.secret|Thiamine.secret]] 
+

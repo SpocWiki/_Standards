@@ -88,17 +88,17 @@ Status:: {"type":"Select","options":{"valuesList":{"EventCancelled","EventMovedO
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~MedicalProcedure](/_Standards/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalProcedure.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalProcedure|FileClass~MedicalProcedure]] 
 
-### #is_/same_as :: [FileClass~MedicalProcedure.public](/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalProcedure.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalProcedure.public|FileClass~MedicalProcedure.public]] 
 
-### #is_/same_as :: [FileClass~MedicalProcedure.internal](/_internal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalProcedure.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalProcedure.internal|FileClass~MedicalProcedure.internal]] 
 
-### #is_/same_as :: [FileClass~MedicalProcedure.protect](/_protect/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalProcedure.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalProcedure.protect|FileClass~MedicalProcedure.protect]] 
 
-### #is_/same_as :: [FileClass~MedicalProcedure.private](/_private/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalProcedure.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalProcedure.private|FileClass~MedicalProcedure.private]] 
 
-### #is_/same_as :: [FileClass~MedicalProcedure.personal](/_personal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalProcedure.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalProcedure.personal|FileClass~MedicalProcedure.personal]] 
 
-### #is_/same_as :: [FileClass~MedicalProcedure.secret](/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalProcedure.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalProcedure.secret|FileClass~MedicalProcedure.secret]] 
 

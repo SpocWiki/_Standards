@@ -221,17 +221,17 @@ writing_language: '[[_Standards/WikiData/WD~German,188]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Klein,Felix](/_Standards/Mathematics/Mathematician/Modern_Mathematician/Klein,Felix.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Mathematician/Modern_Mathematician/Klein,Felix|Klein,Felix]] 
 
-### #is_/same_as :: [Klein,Felix.public](/_public/Mathematics/Mathematician/Modern_Mathematician/Klein,Felix.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Mathematician/Modern_Mathematician/Klein,Felix.public|Klein,Felix.public]] 
 
-### #is_/same_as :: [Klein,Felix.internal](/_internal/Mathematics/Mathematician/Modern_Mathematician/Klein,Felix.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Mathematician/Modern_Mathematician/Klein,Felix.internal|Klein,Felix.internal]] 
 
-### #is_/same_as :: [Klein,Felix.protect](/_protect/Mathematics/Mathematician/Modern_Mathematician/Klein,Felix.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Mathematician/Modern_Mathematician/Klein,Felix.protect|Klein,Felix.protect]] 
 
-### #is_/same_as :: [Klein,Felix.private](/_private/Mathematics/Mathematician/Modern_Mathematician/Klein,Felix.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Mathematician/Modern_Mathematician/Klein,Felix.private|Klein,Felix.private]] 
 
-### #is_/same_as :: [Klein,Felix.personal](/_personal/Mathematics/Mathematician/Modern_Mathematician/Klein,Felix.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Mathematician/Modern_Mathematician/Klein,Felix.personal|Klein,Felix.personal]] 
 
-### #is_/same_as :: [Klein,Felix.secret](/_secret/Mathematics/Mathematician/Modern_Mathematician/Klein,Felix.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Mathematician/Modern_Mathematician/Klein,Felix.secret|Klein,Felix.secret]] 
 

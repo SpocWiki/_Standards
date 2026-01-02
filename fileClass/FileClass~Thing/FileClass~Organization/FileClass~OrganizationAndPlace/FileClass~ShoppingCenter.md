@@ -37,17 +37,17 @@ A shopping center or mall.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~ShoppingCenter](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~ShoppingCenter.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~ShoppingCenter|FileClass~ShoppingCenter]] 
 
-### #is_/same_as :: [FileClass~ShoppingCenter.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~ShoppingCenter.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~ShoppingCenter.public|FileClass~ShoppingCenter.public]] 
 
-### #is_/same_as :: [FileClass~ShoppingCenter.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~ShoppingCenter.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~ShoppingCenter.internal|FileClass~ShoppingCenter.internal]] 
 
-### #is_/same_as :: [FileClass~ShoppingCenter.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~ShoppingCenter.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~ShoppingCenter.protect|FileClass~ShoppingCenter.protect]] 
 
-### #is_/same_as :: [FileClass~ShoppingCenter.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~ShoppingCenter.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~ShoppingCenter.private|FileClass~ShoppingCenter.private]] 
 
-### #is_/same_as :: [FileClass~ShoppingCenter.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~ShoppingCenter.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~ShoppingCenter.personal|FileClass~ShoppingCenter.personal]] 
 
-### #is_/same_as :: [FileClass~ShoppingCenter.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~ShoppingCenter.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~ShoppingCenter.secret|FileClass~ShoppingCenter.secret]] 
 

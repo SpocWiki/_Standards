@@ -42,17 +42,17 @@ Commons_category: Doctrines
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Doctrine](/_Standards/Society/Agent/Community/Organization/Educational_Organization/College_or_University/Doctrine.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Educational_Organization/College_or_University/Doctrine|Doctrine]] 
 
-### #is_/same_as :: [Doctrine.public](/_public/Society/Agent/Community/Organization/Educational_Organization/College_or_University/Doctrine.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Educational_Organization/College_or_University/Doctrine.public|Doctrine.public]] 
 
-### #is_/same_as :: [Doctrine.internal](/_internal/Society/Agent/Community/Organization/Educational_Organization/College_or_University/Doctrine.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Educational_Organization/College_or_University/Doctrine.internal|Doctrine.internal]] 
 
-### #is_/same_as :: [Doctrine.protect](/_protect/Society/Agent/Community/Organization/Educational_Organization/College_or_University/Doctrine.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Educational_Organization/College_or_University/Doctrine.protect|Doctrine.protect]] 
 
-### #is_/same_as :: [Doctrine.private](/_private/Society/Agent/Community/Organization/Educational_Organization/College_or_University/Doctrine.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Educational_Organization/College_or_University/Doctrine.private|Doctrine.private]] 
 
-### #is_/same_as :: [Doctrine.personal](/_personal/Society/Agent/Community/Organization/Educational_Organization/College_or_University/Doctrine.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Educational_Organization/College_or_University/Doctrine.personal|Doctrine.personal]] 
 
-### #is_/same_as :: [Doctrine.secret](/_secret/Society/Agent/Community/Organization/Educational_Organization/College_or_University/Doctrine.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Educational_Organization/College_or_University/Doctrine.secret|Doctrine.secret]] 
 

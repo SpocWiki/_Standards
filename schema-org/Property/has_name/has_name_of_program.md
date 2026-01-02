@@ -44,17 +44,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_name_of_program](/_Standards/schema-org/Property/has_name/has_name_of_program.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_name/has_name_of_program|has_name_of_program]] 
 
-### #is_/same_as :: [has_name_of_program.public](/_public/schema-org/Property/has_name/has_name_of_program.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/has_name/has_name_of_program.public|has_name_of_program.public]] 
 
-### #is_/same_as :: [has_name_of_program.internal](/_internal/schema-org/Property/has_name/has_name_of_program.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_name/has_name_of_program.internal|has_name_of_program.internal]] 
 
-### #is_/same_as :: [has_name_of_program.protect](/_protect/schema-org/Property/has_name/has_name_of_program.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_name/has_name_of_program.protect|has_name_of_program.protect]] 
 
-### #is_/same_as :: [has_name_of_program.private](/_private/schema-org/Property/has_name/has_name_of_program.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/has_name/has_name_of_program.private|has_name_of_program.private]] 
 
-### #is_/same_as :: [has_name_of_program.personal](/_personal/schema-org/Property/has_name/has_name_of_program.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_name/has_name_of_program.personal|has_name_of_program.personal]] 
 
-### #is_/same_as :: [has_name_of_program.secret](/_secret/schema-org/Property/has_name/has_name_of_program.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/has_name/has_name_of_program.secret|has_name_of_program.secret]] 
 

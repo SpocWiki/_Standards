@@ -70,17 +70,17 @@ Krugosvet_article: voennoe-delo/kavaleriya
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Cavalry](/_Standards/Society/Military/Military_Organization/Cavalry.md) 
+### #is_/same_as :: [[/_Standards/Society/Military/Military_Organization/Cavalry|Cavalry]] 
 
-### #is_/same_as :: [Cavalry.public](/_public/Society/Military/Military_Organization/Cavalry.public.md) 
+### #is_/same_as :: [[/_public/Society/Military/Military_Organization/Cavalry.public|Cavalry.public]] 
 
-### #is_/same_as :: [Cavalry.internal](/_internal/Society/Military/Military_Organization/Cavalry.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Military/Military_Organization/Cavalry.internal|Cavalry.internal]] 
 
-### #is_/same_as :: [Cavalry.protect](/_protect/Society/Military/Military_Organization/Cavalry.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Military/Military_Organization/Cavalry.protect|Cavalry.protect]] 
 
-### #is_/same_as :: [Cavalry.private](/_private/Society/Military/Military_Organization/Cavalry.private.md) 
+### #is_/same_as :: [[/_private/Society/Military/Military_Organization/Cavalry.private|Cavalry.private]] 
 
-### #is_/same_as :: [Cavalry.personal](/_personal/Society/Military/Military_Organization/Cavalry.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Military/Military_Organization/Cavalry.personal|Cavalry.personal]] 
 
-### #is_/same_as :: [Cavalry.secret](/_secret/Society/Military/Military_Organization/Cavalry.secret.md)
+### #is_/same_as :: [[/_secret/Society/Military/Military_Organization/Cavalry.secret|Cavalry.secret]] 
 

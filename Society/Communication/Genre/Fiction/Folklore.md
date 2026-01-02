@@ -73,17 +73,17 @@ Colon_Classification: Y:351
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Folklore](/_Standards/Society/Communication/Genre/Fiction/Folklore.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Genre/Fiction/Folklore|Folklore]] 
 
-### #is_/same_as :: [Folklore.public](/_public/Society/Communication/Genre/Fiction/Folklore.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Genre/Fiction/Folklore.public|Folklore.public]] 
 
-### #is_/same_as :: [Folklore.internal](/_internal/Society/Communication/Genre/Fiction/Folklore.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Genre/Fiction/Folklore.internal|Folklore.internal]] 
 
-### #is_/same_as :: [Folklore.protect](/_protect/Society/Communication/Genre/Fiction/Folklore.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Genre/Fiction/Folklore.protect|Folklore.protect]] 
 
-### #is_/same_as :: [Folklore.private](/_private/Society/Communication/Genre/Fiction/Folklore.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Genre/Fiction/Folklore.private|Folklore.private]] 
 
-### #is_/same_as :: [Folklore.personal](/_personal/Society/Communication/Genre/Fiction/Folklore.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Genre/Fiction/Folklore.personal|Folklore.personal]] 
 
-### #is_/same_as :: [Folklore.secret](/_secret/Society/Communication/Genre/Fiction/Folklore.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Genre/Fiction/Folklore.secret|Folklore.secret]] 
 

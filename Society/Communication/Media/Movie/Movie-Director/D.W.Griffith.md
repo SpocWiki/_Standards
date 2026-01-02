@@ -102,17 +102,17 @@ birth_name: David Llewelyn Wark Griffith
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [D.W.Griffith](/_Standards/Society/Communication/Media/Movie/Movie-Director/D.W.Griffith.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Director/D.W.Griffith|D.W.Griffith]] 
 
-### #is_/same_as :: [D.W.Griffith.public](/_public/Society/Communication/Media/Movie/Movie-Director/D.W.Griffith.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Director/D.W.Griffith.public|D.W.Griffith.public]] 
 
-### #is_/same_as :: [D.W.Griffith.internal](/_internal/Society/Communication/Media/Movie/Movie-Director/D.W.Griffith.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Director/D.W.Griffith.internal|D.W.Griffith.internal]] 
 
-### #is_/same_as :: [D.W.Griffith.protect](/_protect/Society/Communication/Media/Movie/Movie-Director/D.W.Griffith.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Director/D.W.Griffith.protect|D.W.Griffith.protect]] 
 
-### #is_/same_as :: [D.W.Griffith.private](/_private/Society/Communication/Media/Movie/Movie-Director/D.W.Griffith.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Director/D.W.Griffith.private|D.W.Griffith.private]] 
 
-### #is_/same_as :: [D.W.Griffith.personal](/_personal/Society/Communication/Media/Movie/Movie-Director/D.W.Griffith.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Director/D.W.Griffith.personal|D.W.Griffith.personal]] 
 
-### #is_/same_as :: [D.W.Griffith.secret](/_secret/Society/Communication/Media/Movie/Movie-Director/D.W.Griffith.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Director/D.W.Griffith.secret|D.W.Griffith.secret]] 
 

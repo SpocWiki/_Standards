@@ -43,17 +43,17 @@ Printed music, as opposed to performed or recorded music.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sheet_Music](/_Standards/Society/Communication/Media/Creative_Work/Sheet_Music.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Creative_Work/Sheet_Music|Sheet_Music]] 
 
-### #is_/same_as :: [Sheet_Music.public](/_public/Society/Communication/Media/Creative_Work/Sheet_Music.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Creative_Work/Sheet_Music.public|Sheet_Music.public]] 
 
-### #is_/same_as :: [Sheet_Music.internal](/_internal/Society/Communication/Media/Creative_Work/Sheet_Music.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Creative_Work/Sheet_Music.internal|Sheet_Music.internal]] 
 
-### #is_/same_as :: [Sheet_Music.protect](/_protect/Society/Communication/Media/Creative_Work/Sheet_Music.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Creative_Work/Sheet_Music.protect|Sheet_Music.protect]] 
 
-### #is_/same_as :: [Sheet_Music.private](/_private/Society/Communication/Media/Creative_Work/Sheet_Music.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Creative_Work/Sheet_Music.private|Sheet_Music.private]] 
 
-### #is_/same_as :: [Sheet_Music.personal](/_personal/Society/Communication/Media/Creative_Work/Sheet_Music.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/Sheet_Music.personal|Sheet_Music.personal]] 
 
-### #is_/same_as :: [Sheet_Music.secret](/_secret/Society/Communication/Media/Creative_Work/Sheet_Music.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Sheet_Music.secret|Sheet_Music.secret]] 
 

@@ -47,17 +47,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_post_office_box_number](/_Standards/schema-org/Property/Texts/has_post_office_box_number.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/Texts/has_post_office_box_number|has_post_office_box_number]] 
 
-### #is_/same_as :: [has_post_office_box_number.public](/_public/schema-org/Property/Texts/has_post_office_box_number.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/Texts/has_post_office_box_number.public|has_post_office_box_number.public]] 
 
-### #is_/same_as :: [has_post_office_box_number.internal](/_internal/schema-org/Property/Texts/has_post_office_box_number.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/Texts/has_post_office_box_number.internal|has_post_office_box_number.internal]] 
 
-### #is_/same_as :: [has_post_office_box_number.protect](/_protect/schema-org/Property/Texts/has_post_office_box_number.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/Texts/has_post_office_box_number.protect|has_post_office_box_number.protect]] 
 
-### #is_/same_as :: [has_post_office_box_number.private](/_private/schema-org/Property/Texts/has_post_office_box_number.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/Texts/has_post_office_box_number.private|has_post_office_box_number.private]] 
 
-### #is_/same_as :: [has_post_office_box_number.personal](/_personal/schema-org/Property/Texts/has_post_office_box_number.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/Texts/has_post_office_box_number.personal|has_post_office_box_number.personal]] 
 
-### #is_/same_as :: [has_post_office_box_number.secret](/_secret/schema-org/Property/Texts/has_post_office_box_number.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/Texts/has_post_office_box_number.secret|has_post_office_box_number.secret]] 
 

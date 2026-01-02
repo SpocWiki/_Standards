@@ -184,17 +184,17 @@ Krugosvet_article_archived_: nauka_i_tehnika/tehnologiya_i_promyshlennost/NIKEL.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Nickel](/_Standards/Chemistry/Chemical_Element/Group-10-Nickel/Nickel.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Chemical_Element/Group-10-Nickel/Nickel|Nickel]] 
 
-### #is_/same_as :: [Nickel.public](/_public/Chemistry/Chemical_Element/Group-10-Nickel/Nickel.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Chemical_Element/Group-10-Nickel/Nickel.public|Nickel.public]] 
 
-### #is_/same_as :: [Nickel.internal](/_internal/Chemistry/Chemical_Element/Group-10-Nickel/Nickel.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Chemical_Element/Group-10-Nickel/Nickel.internal|Nickel.internal]] 
 
-### #is_/same_as :: [Nickel.protect](/_protect/Chemistry/Chemical_Element/Group-10-Nickel/Nickel.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Chemical_Element/Group-10-Nickel/Nickel.protect|Nickel.protect]] 
 
-### #is_/same_as :: [Nickel.private](/_private/Chemistry/Chemical_Element/Group-10-Nickel/Nickel.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Chemical_Element/Group-10-Nickel/Nickel.private|Nickel.private]] 
 
-### #is_/same_as :: [Nickel.personal](/_personal/Chemistry/Chemical_Element/Group-10-Nickel/Nickel.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Chemical_Element/Group-10-Nickel/Nickel.personal|Nickel.personal]] 
 
-### #is_/same_as :: [Nickel.secret](/_secret/Chemistry/Chemical_Element/Group-10-Nickel/Nickel.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Chemical_Element/Group-10-Nickel/Nickel.secret|Nickel.secret]] 
 

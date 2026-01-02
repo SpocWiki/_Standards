@@ -64,17 +64,17 @@ native_label: Lex Salica
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Salic_Law](/_Standards/Society/Law/Salic_Law.md) 
+### #is_/same_as :: [[/_Standards/Society/Law/Salic_Law|Salic_Law]] 
 
-### #is_/same_as :: [Salic_Law.public](/_public/Society/Law/Salic_Law.public.md) 
+### #is_/same_as :: [[/_public/Society/Law/Salic_Law.public|Salic_Law.public]] 
 
-### #is_/same_as :: [Salic_Law.internal](/_internal/Society/Law/Salic_Law.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Law/Salic_Law.internal|Salic_Law.internal]] 
 
-### #is_/same_as :: [Salic_Law.protect](/_protect/Society/Law/Salic_Law.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Law/Salic_Law.protect|Salic_Law.protect]] 
 
-### #is_/same_as :: [Salic_Law.private](/_private/Society/Law/Salic_Law.private.md) 
+### #is_/same_as :: [[/_private/Society/Law/Salic_Law.private|Salic_Law.private]] 
 
-### #is_/same_as :: [Salic_Law.personal](/_personal/Society/Law/Salic_Law.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Law/Salic_Law.personal|Salic_Law.personal]] 
 
-### #is_/same_as :: [Salic_Law.secret](/_secret/Society/Law/Salic_Law.secret.md)
+### #is_/same_as :: [[/_secret/Society/Law/Salic_Law.secret|Salic_Law.secret]] 
 

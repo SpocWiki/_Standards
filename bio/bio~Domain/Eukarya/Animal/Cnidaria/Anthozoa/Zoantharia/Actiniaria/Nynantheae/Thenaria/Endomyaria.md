@@ -35,7 +35,7 @@ title: Endomyaria
     -   [Phymanthidae](Phymanthidae)
 
 # Endomyaria 
-![ ](Endomyaria/thalassianthidae.jpg))
+![ ](Endomyaria/thalassianthidae.jpg) 
 ![ ](Endomyaria/actiniidaesm.jpg)
 
 -   *[Aliciidae](Aliciidae)*
@@ -73,12 +73,12 @@ Picture taken in the intertidal near the Bodega Marine Lab, University
 of California.
 
 Photographs copyright © 2000, Ron Ates.
-![](Endomyaria/thalassianthidae.jpg))
+![](Endomyaria/thalassianthidae.jpg) 
 
   -------
   Copyright ::   © 2000 Ron Ates
   -------
-![](Endomyaria/actiniidaesm.jpg))
+![](Endomyaria/actiniidaesm.jpg) 
 
   -------
   Copyright ::   © 2000 Ron Ates
@@ -87,17 +87,17 @@ Photographs copyright © 2000, Ron Ates.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Endomyaria](/_Standards/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Nynantheae/Thenaria/Endomyaria.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Nynantheae/Thenaria/Endomyaria|Endomyaria]] 
 
-### #is_/same_as :: [Endomyaria.public](/_public/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Nynantheae/Thenaria/Endomyaria.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Nynantheae/Thenaria/Endomyaria.public|Endomyaria.public]] 
 
-### #is_/same_as :: [Endomyaria.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Nynantheae/Thenaria/Endomyaria.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Nynantheae/Thenaria/Endomyaria.internal|Endomyaria.internal]] 
 
-### #is_/same_as :: [Endomyaria.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Nynantheae/Thenaria/Endomyaria.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Nynantheae/Thenaria/Endomyaria.protect|Endomyaria.protect]] 
 
-### #is_/same_as :: [Endomyaria.private](/_private/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Nynantheae/Thenaria/Endomyaria.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Nynantheae/Thenaria/Endomyaria.private|Endomyaria.private]] 
 
-### #is_/same_as :: [Endomyaria.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Nynantheae/Thenaria/Endomyaria.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Nynantheae/Thenaria/Endomyaria.personal|Endomyaria.personal]] 
 
-### #is_/same_as :: [Endomyaria.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Nynantheae/Thenaria/Endomyaria.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Nynantheae/Thenaria/Endomyaria.secret|Endomyaria.secret]] 
 

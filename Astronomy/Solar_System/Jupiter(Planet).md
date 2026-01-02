@@ -241,17 +241,17 @@ Wolfram_Language_entity_code: Entity["Planet", "Jupiter"]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Jupiter(Planet)](/_Standards/Astronomy/Solar_System/Jupiter(Planet).md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Solar_System/Jupiter(Planet)|Jupiter(Planet)]] 
 
-### #is_/same_as :: [Jupiter(Planet).public](/_public/Astronomy/Solar_System/Jupiter(Planet).public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Solar_System/Jupiter(Planet).public|Jupiter(Planet).public]] 
 
-### #is_/same_as :: [Jupiter(Planet).internal](/_internal/Astronomy/Solar_System/Jupiter(Planet).internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Solar_System/Jupiter(Planet).internal|Jupiter(Planet).internal]] 
 
-### #is_/same_as :: [Jupiter(Planet).protect](/_protect/Astronomy/Solar_System/Jupiter(Planet).protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Solar_System/Jupiter(Planet).protect|Jupiter(Planet).protect]] 
 
-### #is_/same_as :: [Jupiter(Planet).private](/_private/Astronomy/Solar_System/Jupiter(Planet).private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Solar_System/Jupiter(Planet).private|Jupiter(Planet).private]] 
 
-### #is_/same_as :: [Jupiter(Planet).personal](/_personal/Astronomy/Solar_System/Jupiter(Planet).personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Solar_System/Jupiter(Planet).personal|Jupiter(Planet).personal]] 
 
-### #is_/same_as :: [Jupiter(Planet).secret](/_secret/Astronomy/Solar_System/Jupiter(Planet).secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Solar_System/Jupiter(Planet).secret|Jupiter(Planet).secret]] 
 

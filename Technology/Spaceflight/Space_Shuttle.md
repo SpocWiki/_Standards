@@ -78,17 +78,17 @@ Commons_category: Space Shuttles
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Space_Shuttle](/_Standards/Technology/Spaceflight/Space_Shuttle.md) 
+### #is_/same_as :: [[/_Standards/Technology/Spaceflight/Space_Shuttle|Space_Shuttle]] 
 
-### #is_/same_as :: [Space_Shuttle.public](/_public/Technology/Spaceflight/Space_Shuttle.public.md) 
+### #is_/same_as :: [[/_public/Technology/Spaceflight/Space_Shuttle.public|Space_Shuttle.public]] 
 
-### #is_/same_as :: [Space_Shuttle.internal](/_internal/Technology/Spaceflight/Space_Shuttle.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Spaceflight/Space_Shuttle.internal|Space_Shuttle.internal]] 
 
-### #is_/same_as :: [Space_Shuttle.protect](/_protect/Technology/Spaceflight/Space_Shuttle.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Spaceflight/Space_Shuttle.protect|Space_Shuttle.protect]] 
 
-### #is_/same_as :: [Space_Shuttle.private](/_private/Technology/Spaceflight/Space_Shuttle.private.md) 
+### #is_/same_as :: [[/_private/Technology/Spaceflight/Space_Shuttle.private|Space_Shuttle.private]] 
 
-### #is_/same_as :: [Space_Shuttle.personal](/_personal/Technology/Spaceflight/Space_Shuttle.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Spaceflight/Space_Shuttle.personal|Space_Shuttle.personal]] 
 
-### #is_/same_as :: [Space_Shuttle.secret](/_secret/Technology/Spaceflight/Space_Shuttle.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Spaceflight/Space_Shuttle.secret|Space_Shuttle.secret]] 
 

@@ -135,17 +135,17 @@ Europeana_entity: agent/base/145317
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Fichte,Johann_Gottlieb](/_Standards/Philosophy/Philosopher/Fichte,Johann_Gottlieb.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Philosopher/Fichte,Johann_Gottlieb|Fichte,Johann_Gottlieb]] 
 
-### #is_/same_as :: [Fichte,Johann_Gottlieb.public](/_public/Philosophy/Philosopher/Fichte,Johann_Gottlieb.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Philosopher/Fichte,Johann_Gottlieb.public|Fichte,Johann_Gottlieb.public]] 
 
-### #is_/same_as :: [Fichte,Johann_Gottlieb.internal](/_internal/Philosophy/Philosopher/Fichte,Johann_Gottlieb.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Philosopher/Fichte,Johann_Gottlieb.internal|Fichte,Johann_Gottlieb.internal]] 
 
-### #is_/same_as :: [Fichte,Johann_Gottlieb.protect](/_protect/Philosophy/Philosopher/Fichte,Johann_Gottlieb.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Philosopher/Fichte,Johann_Gottlieb.protect|Fichte,Johann_Gottlieb.protect]] 
 
-### #is_/same_as :: [Fichte,Johann_Gottlieb.private](/_private/Philosophy/Philosopher/Fichte,Johann_Gottlieb.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Philosopher/Fichte,Johann_Gottlieb.private|Fichte,Johann_Gottlieb.private]] 
 
-### #is_/same_as :: [Fichte,Johann_Gottlieb.personal](/_personal/Philosophy/Philosopher/Fichte,Johann_Gottlieb.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Philosopher/Fichte,Johann_Gottlieb.personal|Fichte,Johann_Gottlieb.personal]] 
 
-### #is_/same_as :: [Fichte,Johann_Gottlieb.secret](/_secret/Philosophy/Philosopher/Fichte,Johann_Gottlieb.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Philosopher/Fichte,Johann_Gottlieb.secret|Fichte,Johann_Gottlieb.secret]] 
 

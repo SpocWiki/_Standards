@@ -224,7 +224,7 @@ al. 2005).
 ## Title Illustrations
 
 ------------------------------------------------------------------------------- 
-![](Ichthyostega/ichthyostega.jpg))
+![](Ichthyostega/ichthyostega.jpg) 
 Scientific Name ::     Ichthyostega
 Comments             Skeletal reconstruction of *Ichthyostega* based on recent finds and a new interpretation of the hind limb anatomy and proportions.
 Specimen Condition   Fossil \-- Period: Devonian
@@ -233,17 +233,17 @@ Copyright ::            © 2005 [Jennifer A. Clack](http://www.zoo.cam.ac.uk/mus
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ichthyostega](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Ichthyostega.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Ichthyostega|Ichthyostega]] 
 
-### #is_/same_as :: [Ichthyostega.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Ichthyostega.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Ichthyostega.public|Ichthyostega.public]] 
 
-### #is_/same_as :: [Ichthyostega.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Ichthyostega.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Ichthyostega.internal|Ichthyostega.internal]] 
 
-### #is_/same_as :: [Ichthyostega.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Ichthyostega.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Ichthyostega.protect|Ichthyostega.protect]] 
 
-### #is_/same_as :: [Ichthyostega.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Ichthyostega.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Ichthyostega.private|Ichthyostega.private]] 
 
-### #is_/same_as :: [Ichthyostega.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Ichthyostega.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Ichthyostega.personal|Ichthyostega.personal]] 
 
-### #is_/same_as :: [Ichthyostega.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Ichthyostega.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Ichthyostega.secret|Ichthyostega.secret]] 
 

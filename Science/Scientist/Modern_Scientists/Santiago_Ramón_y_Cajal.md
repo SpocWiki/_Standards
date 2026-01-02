@@ -147,17 +147,17 @@ ISNI: 0000000121194025
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Santiago_Ramón_y_Cajal](/_Standards/Science/Scientist/Modern_Scientists/Santiago_Ramón_y_Cajal.md) 
+### #is_/same_as :: [[/_Standards/Science/Scientist/Modern_Scientists/Santiago_Ramón_y_Cajal|Santiago_Ramón_y_Cajal]] 
 
-### #is_/same_as :: [Santiago_Ramón_y_Cajal.public](/_public/Science/Scientist/Modern_Scientists/Santiago_Ramón_y_Cajal.public.md) 
+### #is_/same_as :: [[/_public/Science/Scientist/Modern_Scientists/Santiago_Ramón_y_Cajal.public|Santiago_Ramón_y_Cajal.public]] 
 
-### #is_/same_as :: [Santiago_Ramón_y_Cajal.internal](/_internal/Science/Scientist/Modern_Scientists/Santiago_Ramón_y_Cajal.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Scientist/Modern_Scientists/Santiago_Ramón_y_Cajal.internal|Santiago_Ramón_y_Cajal.internal]] 
 
-### #is_/same_as :: [Santiago_Ramón_y_Cajal.protect](/_protect/Science/Scientist/Modern_Scientists/Santiago_Ramón_y_Cajal.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Scientist/Modern_Scientists/Santiago_Ramón_y_Cajal.protect|Santiago_Ramón_y_Cajal.protect]] 
 
-### #is_/same_as :: [Santiago_Ramón_y_Cajal.private](/_private/Science/Scientist/Modern_Scientists/Santiago_Ramón_y_Cajal.private.md) 
+### #is_/same_as :: [[/_private/Science/Scientist/Modern_Scientists/Santiago_Ramón_y_Cajal.private|Santiago_Ramón_y_Cajal.private]] 
 
-### #is_/same_as :: [Santiago_Ramón_y_Cajal.personal](/_personal/Science/Scientist/Modern_Scientists/Santiago_Ramón_y_Cajal.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Scientist/Modern_Scientists/Santiago_Ramón_y_Cajal.personal|Santiago_Ramón_y_Cajal.personal]] 
 
-### #is_/same_as :: [Santiago_Ramón_y_Cajal.secret](/_secret/Science/Scientist/Modern_Scientists/Santiago_Ramón_y_Cajal.secret.md)
+### #is_/same_as :: [[/_secret/Science/Scientist/Modern_Scientists/Santiago_Ramón_y_Cajal.secret|Santiago_Ramón_y_Cajal.secret]] 
 

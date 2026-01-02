@@ -36,17 +36,17 @@ An agent controls a device or application.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~ControlAction](/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~ControlAction.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~ControlAction|FileClass~ControlAction]] 
 
-### #is_/same_as :: [FileClass~ControlAction.public](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~ControlAction.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~ControlAction.public|FileClass~ControlAction.public]] 
 
-### #is_/same_as :: [FileClass~ControlAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~ControlAction.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~ControlAction.internal|FileClass~ControlAction.internal]] 
 
-### #is_/same_as :: [FileClass~ControlAction.protect](/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~ControlAction.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~ControlAction.protect|FileClass~ControlAction.protect]] 
 
-### #is_/same_as :: [FileClass~ControlAction.private](/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~ControlAction.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~ControlAction.private|FileClass~ControlAction.private]] 
 
-### #is_/same_as :: [FileClass~ControlAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~ControlAction.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~ControlAction.personal|FileClass~ControlAction.personal]] 
 
-### #is_/same_as :: [FileClass~ControlAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~ControlAction.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~ControlAction.secret|FileClass~ControlAction.secret]] 
 

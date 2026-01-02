@@ -723,17 +723,17 @@ Capital :: [Bern](_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/S
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Switzerland](/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland|Switzerland]] 
 
-### #is_/same_as :: [Switzerland.public](/_public/Earth/Continent/Europe/Europe~Central/Switzerland.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Switzerland.public|Switzerland.public]] 
 
-### #is_/same_as :: [Switzerland.internal](/_internal/Earth/Continent/Europe/Europe~Central/Switzerland.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Switzerland.internal|Switzerland.internal]] 
 
-### #is_/same_as :: [Switzerland.protect](/_protect/Earth/Continent/Europe/Europe~Central/Switzerland.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Switzerland.protect|Switzerland.protect]] 
 
-### #is_/same_as :: [Switzerland.private](/_private/Earth/Continent/Europe/Europe~Central/Switzerland.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Switzerland.private|Switzerland.private]] 
 
-### #is_/same_as :: [Switzerland.personal](/_personal/Earth/Continent/Europe/Europe~Central/Switzerland.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Switzerland.personal|Switzerland.personal]] 
 
-### #is_/same_as :: [Switzerland.secret](/_secret/Earth/Continent/Europe/Europe~Central/Switzerland.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Switzerland.secret|Switzerland.secret]] 
 

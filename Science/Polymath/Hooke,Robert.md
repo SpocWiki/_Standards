@@ -161,17 +161,17 @@ Europeana_entity: agent/base/147024
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hooke,Robert](/_Standards/Science/Polymath/Hooke,Robert.md) 
+### #is_/same_as :: [[/_Standards/Science/Polymath/Hooke,Robert|Hooke,Robert]] 
 
-### #is_/same_as :: [Hooke,Robert.public](/_public/Science/Polymath/Hooke,Robert.public.md) 
+### #is_/same_as :: [[/_public/Science/Polymath/Hooke,Robert.public|Hooke,Robert.public]] 
 
-### #is_/same_as :: [Hooke,Robert.internal](/_internal/Science/Polymath/Hooke,Robert.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Polymath/Hooke,Robert.internal|Hooke,Robert.internal]] 
 
-### #is_/same_as :: [Hooke,Robert.protect](/_protect/Science/Polymath/Hooke,Robert.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Polymath/Hooke,Robert.protect|Hooke,Robert.protect]] 
 
-### #is_/same_as :: [Hooke,Robert.private](/_private/Science/Polymath/Hooke,Robert.private.md) 
+### #is_/same_as :: [[/_private/Science/Polymath/Hooke,Robert.private|Hooke,Robert.private]] 
 
-### #is_/same_as :: [Hooke,Robert.personal](/_personal/Science/Polymath/Hooke,Robert.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Polymath/Hooke,Robert.personal|Hooke,Robert.personal]] 
 
-### #is_/same_as :: [Hooke,Robert.secret](/_secret/Science/Polymath/Hooke,Robert.secret.md)
+### #is_/same_as :: [[/_secret/Science/Polymath/Hooke,Robert.secret|Hooke,Robert.secret]] 
 

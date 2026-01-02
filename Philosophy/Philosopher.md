@@ -125,17 +125,17 @@ type: private_note
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Philosopher](/_Standards/Philosophy/Philosopher.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Philosopher|Philosopher]] 
 
-### #is_/same_as :: [Philosopher.public](/_public/Philosophy/Philosopher.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Philosopher.public|Philosopher.public]] 
 
-### #is_/same_as :: [Philosopher.internal](/_internal/Philosophy/Philosopher.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Philosopher.internal|Philosopher.internal]] 
 
-### #is_/same_as :: [Philosopher.protect](/_protect/Philosophy/Philosopher.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Philosopher.protect|Philosopher.protect]] 
 
-### #is_/same_as :: [Philosopher.private](/_private/Philosophy/Philosopher.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Philosopher.private|Philosopher.private]] 
 
-### #is_/same_as :: [Philosopher.personal](/_personal/Philosophy/Philosopher.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Philosopher.personal|Philosopher.personal]] 
 
-### #is_/same_as :: [Philosopher.secret](/_secret/Philosophy/Philosopher.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Philosopher.secret|Philosopher.secret]] 
 

@@ -33,17 +33,17 @@ title: Palaeoscorpiones
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Palaeoscorpiones](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Scorpionida/Palaeoscorpiones.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Scorpionida/Palaeoscorpiones|Palaeoscorpiones]] 
 
-### #is_/same_as :: [Palaeoscorpiones.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Scorpionida/Palaeoscorpiones.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Scorpionida/Palaeoscorpiones.public|Palaeoscorpiones.public]] 
 
-### #is_/same_as :: [Palaeoscorpiones.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Scorpionida/Palaeoscorpiones.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Scorpionida/Palaeoscorpiones.internal|Palaeoscorpiones.internal]] 
 
-### #is_/same_as :: [Palaeoscorpiones.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Scorpionida/Palaeoscorpiones.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Scorpionida/Palaeoscorpiones.protect|Palaeoscorpiones.protect]] 
 
-### #is_/same_as :: [Palaeoscorpiones.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Scorpionida/Palaeoscorpiones.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Scorpionida/Palaeoscorpiones.private|Palaeoscorpiones.private]] 
 
-### #is_/same_as :: [Palaeoscorpiones.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Scorpionida/Palaeoscorpiones.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Scorpionida/Palaeoscorpiones.personal|Palaeoscorpiones.personal]] 
 
-### #is_/same_as :: [Palaeoscorpiones.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Scorpionida/Palaeoscorpiones.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Scorpionida/Palaeoscorpiones.secret|Palaeoscorpiones.secret]] 
 

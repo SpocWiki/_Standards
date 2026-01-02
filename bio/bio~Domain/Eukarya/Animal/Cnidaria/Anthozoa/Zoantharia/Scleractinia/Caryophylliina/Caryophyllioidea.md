@@ -27,7 +27,7 @@ title: Caryophyllioidea
 # Caryophyllioidea [Dana 1846] 
 
 [Stephen D. Cairns]()
-![ ](Caryophyllioidea/Deltocyathus_calcar.jpg))![ ](Caryophyllioidea/Cyathotrochus_pileus.jpg))
+![ ](Caryophyllioidea/Deltocyathus_calcar.jpg))![ ](Caryophyllioidea/Cyathotrochus_pileus.jpg) 
 
 -   *[Caryophylliidae](Caryophylliidae)*[
     (non-monophyletic) ]
@@ -119,17 +119,17 @@ From left to right:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Caryophyllioidea](/_Standards/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Scleractinia/Caryophylliina/Caryophyllioidea.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Scleractinia/Caryophylliina/Caryophyllioidea|Caryophyllioidea]] 
 
-### #is_/same_as :: [Caryophyllioidea.public](/_public/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Scleractinia/Caryophylliina/Caryophyllioidea.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Scleractinia/Caryophylliina/Caryophyllioidea.public|Caryophyllioidea.public]] 
 
-### #is_/same_as :: [Caryophyllioidea.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Scleractinia/Caryophylliina/Caryophyllioidea.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Scleractinia/Caryophylliina/Caryophyllioidea.internal|Caryophyllioidea.internal]] 
 
-### #is_/same_as :: [Caryophyllioidea.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Scleractinia/Caryophylliina/Caryophyllioidea.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Scleractinia/Caryophylliina/Caryophyllioidea.protect|Caryophyllioidea.protect]] 
 
-### #is_/same_as :: [Caryophyllioidea.private](/_private/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Scleractinia/Caryophylliina/Caryophyllioidea.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Scleractinia/Caryophylliina/Caryophyllioidea.private|Caryophyllioidea.private]] 
 
-### #is_/same_as :: [Caryophyllioidea.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Scleractinia/Caryophylliina/Caryophyllioidea.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Scleractinia/Caryophylliina/Caryophyllioidea.personal|Caryophyllioidea.personal]] 
 
-### #is_/same_as :: [Caryophyllioidea.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Scleractinia/Caryophylliina/Caryophyllioidea.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Scleractinia/Caryophylliina/Caryophyllioidea.secret|Caryophyllioidea.secret]] 
 

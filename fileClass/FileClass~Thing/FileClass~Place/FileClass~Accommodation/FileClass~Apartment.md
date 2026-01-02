@@ -39,17 +39,17 @@ that occupies only part of a building
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~Apartment](/_Standards/fileClass/FileClass~Thing/FileClass~Place/FileClass~Accommodation/FileClass~Apartment.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Place/FileClass~Accommodation/FileClass~Apartment|FileClass~Apartment]] 
 
-### #is_/same_as :: [FileClass~Apartment.public](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~Accommodation/FileClass~Apartment.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~Accommodation/FileClass~Apartment.public|FileClass~Apartment.public]] 
 
-### #is_/same_as :: [FileClass~Apartment.internal](/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~Accommodation/FileClass~Apartment.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~Accommodation/FileClass~Apartment.internal|FileClass~Apartment.internal]] 
 
-### #is_/same_as :: [FileClass~Apartment.protect](/_protect/fileClass/FileClass~Thing/FileClass~Place/FileClass~Accommodation/FileClass~Apartment.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Place/FileClass~Accommodation/FileClass~Apartment.protect|FileClass~Apartment.protect]] 
 
-### #is_/same_as :: [FileClass~Apartment.private](/_private/fileClass/FileClass~Thing/FileClass~Place/FileClass~Accommodation/FileClass~Apartment.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Place/FileClass~Accommodation/FileClass~Apartment.private|FileClass~Apartment.private]] 
 
-### #is_/same_as :: [FileClass~Apartment.personal](/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~Accommodation/FileClass~Apartment.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~Accommodation/FileClass~Apartment.personal|FileClass~Apartment.personal]] 
 
-### #is_/same_as :: [FileClass~Apartment.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~Accommodation/FileClass~Apartment.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~Accommodation/FileClass~Apartment.secret|FileClass~Apartment.secret]] 
 

@@ -59,17 +59,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_participants](/_Standards/schema-org/Relation/has/has_participants.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_participants|has_participants]] 
 
-### #is_/same_as :: [has_participants.public](/_public/schema-org/Relation/has/has_participants.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_participants.public|has_participants.public]] 
 
-### #is_/same_as :: [has_participants.internal](/_internal/schema-org/Relation/has/has_participants.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_participants.internal|has_participants.internal]] 
 
-### #is_/same_as :: [has_participants.protect](/_protect/schema-org/Relation/has/has_participants.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_participants.protect|has_participants.protect]] 
 
-### #is_/same_as :: [has_participants.private](/_private/schema-org/Relation/has/has_participants.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_participants.private|has_participants.private]] 
 
-### #is_/same_as :: [has_participants.personal](/_personal/schema-org/Relation/has/has_participants.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_participants.personal|has_participants.personal]] 
 
-### #is_/same_as :: [has_participants.secret](/_secret/schema-org/Relation/has/has_participants.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_participants.secret|has_participants.secret]] 
 

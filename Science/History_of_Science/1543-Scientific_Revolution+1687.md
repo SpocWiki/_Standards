@@ -27,17 +27,17 @@ Commons_category: Scientific revolution
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Scientific_Revolution](/_Standards/Science/Scientific_Revolution.md) 
+### #is_/same_as :: [[/_Standards/Science/History_of_Science/1543-Scientific_Revolution+1687|1543-Scientific_Revolution+1687]] 
 
-### #is_/same_as :: [Scientific_Revolution.public](/_public/Science/Scientific_Revolution.public.md) 
+### #is_/same_as :: [[/_public/Science/History_of_Science/1543-Scientific_Revolution+1687.public|1543-Scientific_Revolution+1687.public]] 
 
-### #is_/same_as :: [Scientific_Revolution.internal](/_internal/Science/Scientific_Revolution.internal.md) 
+### #is_/same_as :: [[/_internal/Science/History_of_Science/1543-Scientific_Revolution+1687.internal|1543-Scientific_Revolution+1687.internal]] 
 
-### #is_/same_as :: [Scientific_Revolution.protect](/_protect/Science/Scientific_Revolution.protect.md) 
+### #is_/same_as :: [[/_protect/Science/History_of_Science/1543-Scientific_Revolution+1687.protect|1543-Scientific_Revolution+1687.protect]] 
 
-### #is_/same_as :: [Scientific_Revolution.private](/_private/Science/Scientific_Revolution.private.md) 
+### #is_/same_as :: [[/_private/Science/History_of_Science/1543-Scientific_Revolution+1687.private|1543-Scientific_Revolution+1687.private]] 
 
-### #is_/same_as :: [Scientific_Revolution.personal](/_personal/Science/Scientific_Revolution.personal.md) 
+### #is_/same_as :: [[/_personal/Science/History_of_Science/1543-Scientific_Revolution+1687.personal|1543-Scientific_Revolution+1687.personal]] 
 
-### #is_/same_as :: [Scientific_Revolution.secret](/_secret/Science/Scientific_Revolution.secret.md)
+### #is_/same_as :: [[/_secret/Science/History_of_Science/1543-Scientific_Revolution+1687.secret|1543-Scientific_Revolution+1687.secret]] 
 

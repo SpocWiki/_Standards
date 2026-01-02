@@ -112,17 +112,17 @@ doubles_record: 173–72
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Graf,Steffi](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Tennis/Graf,Steffi.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Tennis/Graf,Steffi|Graf,Steffi]] 
 
-### #is_/same_as :: [Graf,Steffi.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Tennis/Graf,Steffi.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Tennis/Graf,Steffi.public|Graf,Steffi.public]] 
 
-### #is_/same_as :: [Graf,Steffi.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Tennis/Graf,Steffi.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Tennis/Graf,Steffi.internal|Graf,Steffi.internal]] 
 
-### #is_/same_as :: [Graf,Steffi.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Tennis/Graf,Steffi.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Tennis/Graf,Steffi.protect|Graf,Steffi.protect]] 
 
-### #is_/same_as :: [Graf,Steffi.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Tennis/Graf,Steffi.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Tennis/Graf,Steffi.private|Graf,Steffi.private]] 
 
-### #is_/same_as :: [Graf,Steffi.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Tennis/Graf,Steffi.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Tennis/Graf,Steffi.personal|Graf,Steffi.personal]] 
 
-### #is_/same_as :: [Graf,Steffi.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Tennis/Graf,Steffi.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Tennis/Graf,Steffi.secret|Graf,Steffi.secret]] 
 

@@ -93,17 +93,17 @@ NumberOfPages:: {"type":"Number","options":{}}
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~Book](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Book.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Book|FileClass~Book]] 
 
-### #is_/same_as :: [FileClass~Book.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Book.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Book.public|FileClass~Book.public]] 
 
-### #is_/same_as :: [FileClass~Book.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Book.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Book.internal|FileClass~Book.internal]] 
 
-### #is_/same_as :: [FileClass~Book.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Book.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Book.protect|FileClass~Book.protect]] 
 
-### #is_/same_as :: [FileClass~Book.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Book.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Book.private|FileClass~Book.private]] 
 
-### #is_/same_as :: [FileClass~Book.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Book.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Book.personal|FileClass~Book.personal]] 
 
-### #is_/same_as :: [FileClass~Book.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Book.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Book.secret|FileClass~Book.secret]] 
 

@@ -151,17 +151,17 @@ Facebook_username: louisarmstrong
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Armstrong,Louis](/_Standards/Society/Communication/Media/Music/Musician/Jazz-Musician/Armstrong,Louis.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Musician/Jazz-Musician/Armstrong,Louis|Armstrong,Louis]] 
 
-### #is_/same_as :: [Armstrong,Louis.public](/_public/Society/Communication/Media/Music/Musician/Jazz-Musician/Armstrong,Louis.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Musician/Jazz-Musician/Armstrong,Louis.public|Armstrong,Louis.public]] 
 
-### #is_/same_as :: [Armstrong,Louis.internal](/_internal/Society/Communication/Media/Music/Musician/Jazz-Musician/Armstrong,Louis.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Musician/Jazz-Musician/Armstrong,Louis.internal|Armstrong,Louis.internal]] 
 
-### #is_/same_as :: [Armstrong,Louis.protect](/_protect/Society/Communication/Media/Music/Musician/Jazz-Musician/Armstrong,Louis.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Musician/Jazz-Musician/Armstrong,Louis.protect|Armstrong,Louis.protect]] 
 
-### #is_/same_as :: [Armstrong,Louis.private](/_private/Society/Communication/Media/Music/Musician/Jazz-Musician/Armstrong,Louis.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Musician/Jazz-Musician/Armstrong,Louis.private|Armstrong,Louis.private]] 
 
-### #is_/same_as :: [Armstrong,Louis.personal](/_personal/Society/Communication/Media/Music/Musician/Jazz-Musician/Armstrong,Louis.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Musician/Jazz-Musician/Armstrong,Louis.personal|Armstrong,Louis.personal]] 
 
-### #is_/same_as :: [Armstrong,Louis.secret](/_secret/Society/Communication/Media/Music/Musician/Jazz-Musician/Armstrong,Louis.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Musician/Jazz-Musician/Armstrong,Louis.secret|Armstrong,Louis.secret]] 
 

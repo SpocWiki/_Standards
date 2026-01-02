@@ -41,17 +41,17 @@ A play is a form of literature, usually consisting of dialogue between character
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Play](/_Standards/Society/Communication/Media/Creative_Work/Play.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Creative_Work/Play|Play]] 
 
-### #is_/same_as :: [Play.public](/_public/Society/Communication/Media/Creative_Work/Play.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Creative_Work/Play.public|Play.public]] 
 
-### #is_/same_as :: [Play.internal](/_internal/Society/Communication/Media/Creative_Work/Play.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Creative_Work/Play.internal|Play.internal]] 
 
-### #is_/same_as :: [Play.protect](/_protect/Society/Communication/Media/Creative_Work/Play.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Creative_Work/Play.protect|Play.protect]] 
 
-### #is_/same_as :: [Play.private](/_private/Society/Communication/Media/Creative_Work/Play.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Creative_Work/Play.private|Play.private]] 
 
-### #is_/same_as :: [Play.personal](/_personal/Society/Communication/Media/Creative_Work/Play.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/Play.personal|Play.personal]] 
 
-### #is_/same_as :: [Play.secret](/_secret/Society/Communication/Media/Creative_Work/Play.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Play.secret|Play.secret]] 
 

@@ -41,17 +41,17 @@ The act of participating in exertive activity for the purposes of improving heal
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Exercise_Action](/_Standards/schema-org/Class/is_a_/Action/Play_Action/Exercise_Action.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Action/Play_Action/Exercise_Action|Exercise_Action]] 
 
-### #is_/same_as :: [Exercise_Action.public](/_public/schema-org/Class/is_a_/Action/Play_Action/Exercise_Action.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Action/Play_Action/Exercise_Action.public|Exercise_Action.public]] 
 
-### #is_/same_as :: [Exercise_Action.internal](/_internal/schema-org/Class/is_a_/Action/Play_Action/Exercise_Action.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Action/Play_Action/Exercise_Action.internal|Exercise_Action.internal]] 
 
-### #is_/same_as :: [Exercise_Action.protect](/_protect/schema-org/Class/is_a_/Action/Play_Action/Exercise_Action.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Action/Play_Action/Exercise_Action.protect|Exercise_Action.protect]] 
 
-### #is_/same_as :: [Exercise_Action.private](/_private/schema-org/Class/is_a_/Action/Play_Action/Exercise_Action.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Action/Play_Action/Exercise_Action.private|Exercise_Action.private]] 
 
-### #is_/same_as :: [Exercise_Action.personal](/_personal/schema-org/Class/is_a_/Action/Play_Action/Exercise_Action.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Action/Play_Action/Exercise_Action.personal|Exercise_Action.personal]] 
 
-### #is_/same_as :: [Exercise_Action.secret](/_secret/schema-org/Class/is_a_/Action/Play_Action/Exercise_Action.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Action/Play_Action/Exercise_Action.secret|Exercise_Action.secret]] 
 

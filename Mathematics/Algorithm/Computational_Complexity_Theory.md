@@ -48,17 +48,17 @@ Commons_category: Computational complexity theory
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Computational_Complexity_Theory](/_Standards/Mathematics/Algorithm/Computational_Complexity_Theory.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Algorithm/Computational_Complexity_Theory|Computational_Complexity_Theory]] 
 
-### #is_/same_as :: [Computational_Complexity_Theory.public](/_public/Mathematics/Algorithm/Computational_Complexity_Theory.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Algorithm/Computational_Complexity_Theory.public|Computational_Complexity_Theory.public]] 
 
-### #is_/same_as :: [Computational_Complexity_Theory.internal](/_internal/Mathematics/Algorithm/Computational_Complexity_Theory.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Algorithm/Computational_Complexity_Theory.internal|Computational_Complexity_Theory.internal]] 
 
-### #is_/same_as :: [Computational_Complexity_Theory.protect](/_protect/Mathematics/Algorithm/Computational_Complexity_Theory.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Algorithm/Computational_Complexity_Theory.protect|Computational_Complexity_Theory.protect]] 
 
-### #is_/same_as :: [Computational_Complexity_Theory.private](/_private/Mathematics/Algorithm/Computational_Complexity_Theory.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Algorithm/Computational_Complexity_Theory.private|Computational_Complexity_Theory.private]] 
 
-### #is_/same_as :: [Computational_Complexity_Theory.personal](/_personal/Mathematics/Algorithm/Computational_Complexity_Theory.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Algorithm/Computational_Complexity_Theory.personal|Computational_Complexity_Theory.personal]] 
 
-### #is_/same_as :: [Computational_Complexity_Theory.secret](/_secret/Mathematics/Algorithm/Computational_Complexity_Theory.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Algorithm/Computational_Complexity_Theory.secret|Computational_Complexity_Theory.secret]] 
 

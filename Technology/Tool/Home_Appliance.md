@@ -79,17 +79,17 @@ Krugosvet_article_archived_: nauka_i_tehnika/tehnologiya_i_promyshlennost/BITOVA
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Home_Appliance](/_Standards/Technology/Tool/Home_Appliance.md) 
+### #is_/same_as :: [[/_Standards/Technology/Tool/Home_Appliance|Home_Appliance]] 
 
-### #is_/same_as :: [Home_Appliance.public](/_public/Technology/Tool/Home_Appliance.public.md) 
+### #is_/same_as :: [[/_public/Technology/Tool/Home_Appliance.public|Home_Appliance.public]] 
 
-### #is_/same_as :: [Home_Appliance.internal](/_internal/Technology/Tool/Home_Appliance.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Tool/Home_Appliance.internal|Home_Appliance.internal]] 
 
-### #is_/same_as :: [Home_Appliance.protect](/_protect/Technology/Tool/Home_Appliance.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Tool/Home_Appliance.protect|Home_Appliance.protect]] 
 
-### #is_/same_as :: [Home_Appliance.private](/_private/Technology/Tool/Home_Appliance.private.md) 
+### #is_/same_as :: [[/_private/Technology/Tool/Home_Appliance.private|Home_Appliance.private]] 
 
-### #is_/same_as :: [Home_Appliance.personal](/_personal/Technology/Tool/Home_Appliance.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Tool/Home_Appliance.personal|Home_Appliance.personal]] 
 
-### #is_/same_as :: [Home_Appliance.secret](/_secret/Technology/Tool/Home_Appliance.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Tool/Home_Appliance.secret|Home_Appliance.secret]] 
 

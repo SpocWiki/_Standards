@@ -97,17 +97,17 @@ Krugosvet_article_archived_: narody-i-yazyki/kurdskiy-yazyk
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lang-kur](/_Standards/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/Lang-kur.md) 
+### #is_/same_as :: [[/_Standards/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/Lang-kur|Lang-kur]] 
 
-### #is_/same_as :: [Lang-kur.public](/_public/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/Lang-kur.public.md) 
+### #is_/same_as :: [[/_public/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/Lang-kur.public|Lang-kur.public]] 
 
-### #is_/same_as :: [Lang-kur.internal](/_internal/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/Lang-kur.internal.md) 
+### #is_/same_as :: [[/_internal/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/Lang-kur.internal|Lang-kur.internal]] 
 
-### #is_/same_as :: [Lang-kur.protect](/_protect/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/Lang-kur.protect.md) 
+### #is_/same_as :: [[/_protect/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/Lang-kur.protect|Lang-kur.protect]] 
 
-### #is_/same_as :: [Lang-kur.private](/_private/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/Lang-kur.private.md) 
+### #is_/same_as :: [[/_private/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/Lang-kur.private|Lang-kur.private]] 
 
-### #is_/same_as :: [Lang-kur.personal](/_personal/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/Lang-kur.personal.md) 
+### #is_/same_as :: [[/_personal/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/Lang-kur.personal|Lang-kur.personal]] 
 
-### #is_/same_as :: [Lang-kur.secret](/_secret/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/Lang-kur.secret.md)
+### #is_/same_as :: [[/_secret/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/Lang-kur.secret|Lang-kur.secret]] 
 

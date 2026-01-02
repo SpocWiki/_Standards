@@ -55,17 +55,17 @@ Commons_category: Mechatronics
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Mechatronics](/_Standards/Technology/Engineering/Mechatronics.md) 
+### #is_/same_as :: [[/_Standards/Technology/Engineering/Mechatronics|Mechatronics]] 
 
-### #is_/same_as :: [Mechatronics.public](/_public/Technology/Engineering/Mechatronics.public.md) 
+### #is_/same_as :: [[/_public/Technology/Engineering/Mechatronics.public|Mechatronics.public]] 
 
-### #is_/same_as :: [Mechatronics.internal](/_internal/Technology/Engineering/Mechatronics.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Engineering/Mechatronics.internal|Mechatronics.internal]] 
 
-### #is_/same_as :: [Mechatronics.protect](/_protect/Technology/Engineering/Mechatronics.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Engineering/Mechatronics.protect|Mechatronics.protect]] 
 
-### #is_/same_as :: [Mechatronics.private](/_private/Technology/Engineering/Mechatronics.private.md) 
+### #is_/same_as :: [[/_private/Technology/Engineering/Mechatronics.private|Mechatronics.private]] 
 
-### #is_/same_as :: [Mechatronics.personal](/_personal/Technology/Engineering/Mechatronics.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Engineering/Mechatronics.personal|Mechatronics.personal]] 
 
-### #is_/same_as :: [Mechatronics.secret](/_secret/Technology/Engineering/Mechatronics.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Engineering/Mechatronics.secret|Mechatronics.secret]] 
 

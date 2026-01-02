@@ -66,21 +66,21 @@ title: Cercopithecidae
 ## Title Illustrations
 
 ------------------------------------------------------------------------------ 
-![Vervet monkey](Cercopithecidae/cercopithecus.jpg))
+![Vervet monkey](Cercopithecidae/cercopithecus.jpg) 
 Scientific Name ::  Cercopithecus aethiops
 Location ::        Tanzania
 Comments          Vervet monkey
 Copyright ::         © 1999 [Greg and Marybeth Dimijian](http://www.dimijianimages.com/) 
 
 ------------------------------------------------------------------------------ 
-![Colobus monkey in yellow fever tree](Cercopithecidae/colobus.jpg))
+![Colobus monkey in yellow fever tree](Cercopithecidae/colobus.jpg) 
 Scientific Name ::  Colobus
 Location ::        Lake Naivasha, Kenya
 Comments          in yellow fever tree
 Copyright ::         © 1999 [Greg and Marybeth Dimijian](http://www.dimijianimages.com/) 
 
 ------------------------------------------------------------------------------ 
-![Patas monkey, red guenon](Cercopithecidae/Erythrocebus_patas0050.jpg))
+![Patas monkey, red guenon](Cercopithecidae/Erythrocebus_patas0050.jpg) 
 Scientific Name ::     Erythrocebus patas
 Comments             Patas monkey, red guenon
 Creator              H. Vannoy Davis
@@ -91,17 +91,17 @@ Copyright ::            © 2001 [California Academy of Sciences](http://www.cala
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Cercopithecidae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Primates/Catarrhini/Cercopithecidae.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Primates/Catarrhini/Cercopithecidae|Cercopithecidae]] 
 
-### #is_/same_as :: [Cercopithecidae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Primates/Catarrhini/Cercopithecidae.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Primates/Catarrhini/Cercopithecidae.public|Cercopithecidae.public]] 
 
-### #is_/same_as :: [Cercopithecidae.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Primates/Catarrhini/Cercopithecidae.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Primates/Catarrhini/Cercopithecidae.internal|Cercopithecidae.internal]] 
 
-### #is_/same_as :: [Cercopithecidae.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Primates/Catarrhini/Cercopithecidae.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Primates/Catarrhini/Cercopithecidae.protect|Cercopithecidae.protect]] 
 
-### #is_/same_as :: [Cercopithecidae.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Primates/Catarrhini/Cercopithecidae.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Primates/Catarrhini/Cercopithecidae.private|Cercopithecidae.private]] 
 
-### #is_/same_as :: [Cercopithecidae.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Primates/Catarrhini/Cercopithecidae.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Primates/Catarrhini/Cercopithecidae.personal|Cercopithecidae.personal]] 
 
-### #is_/same_as :: [Cercopithecidae.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Primates/Catarrhini/Cercopithecidae.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Primates/Catarrhini/Cercopithecidae.secret|Cercopithecidae.secret]] 
 

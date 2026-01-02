@@ -80,17 +80,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Intel~4004](/_Standards/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/Intel/Intel~4004.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/Intel/Intel~4004|Intel~4004]] 
 
-### #is_/same_as :: [Intel~4004.public](/_public/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/Intel/Intel~4004.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/Intel/Intel~4004.public|Intel~4004.public]] 
 
-### #is_/same_as :: [Intel~4004.internal](/_internal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/Intel/Intel~4004.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/Intel/Intel~4004.internal|Intel~4004.internal]] 
 
-### #is_/same_as :: [Intel~4004.protect](/_protect/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/Intel/Intel~4004.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/Intel/Intel~4004.protect|Intel~4004.protect]] 
 
-### #is_/same_as :: [Intel~4004.private](/_private/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/Intel/Intel~4004.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/Intel/Intel~4004.private|Intel~4004.private]] 
 
-### #is_/same_as :: [Intel~4004.personal](/_personal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/Intel/Intel~4004.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/Intel/Intel~4004.personal|Intel~4004.personal]] 
 
-### #is_/same_as :: [Intel~4004.secret](/_secret/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/Intel/Intel~4004.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/Intel/Intel~4004.secret|Intel~4004.secret]] 
 

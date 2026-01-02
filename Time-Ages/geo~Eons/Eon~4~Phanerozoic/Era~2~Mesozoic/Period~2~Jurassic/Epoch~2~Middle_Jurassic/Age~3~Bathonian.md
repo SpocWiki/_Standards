@@ -64,17 +64,17 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Age~3~Bathonian](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic/Epoch~2~Middle_Jurassic/Age~3~Bathonian.md) 
+### #is_/same_as :: [[/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic/Epoch~2~Middle_Jurassic/Age~3~Bathonian|Age~3~Bathonian]] 
 
-### #is_/same_as :: [Age~3~Bathonian.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic/Epoch~2~Middle_Jurassic/Age~3~Bathonian.public.md) 
+### #is_/same_as :: [[/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic/Epoch~2~Middle_Jurassic/Age~3~Bathonian.public|Age~3~Bathonian.public]] 
 
-### #is_/same_as :: [Age~3~Bathonian.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic/Epoch~2~Middle_Jurassic/Age~3~Bathonian.internal.md) 
+### #is_/same_as :: [[/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic/Epoch~2~Middle_Jurassic/Age~3~Bathonian.internal|Age~3~Bathonian.internal]] 
 
-### #is_/same_as :: [Age~3~Bathonian.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic/Epoch~2~Middle_Jurassic/Age~3~Bathonian.protect.md) 
+### #is_/same_as :: [[/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic/Epoch~2~Middle_Jurassic/Age~3~Bathonian.protect|Age~3~Bathonian.protect]] 
 
-### #is_/same_as :: [Age~3~Bathonian.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic/Epoch~2~Middle_Jurassic/Age~3~Bathonian.private.md) 
+### #is_/same_as :: [[/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic/Epoch~2~Middle_Jurassic/Age~3~Bathonian.private|Age~3~Bathonian.private]] 
 
-### #is_/same_as :: [Age~3~Bathonian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic/Epoch~2~Middle_Jurassic/Age~3~Bathonian.personal.md) 
+### #is_/same_as :: [[/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic/Epoch~2~Middle_Jurassic/Age~3~Bathonian.personal|Age~3~Bathonian.personal]] 
 
-### #is_/same_as :: [Age~3~Bathonian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic/Epoch~2~Middle_Jurassic/Age~3~Bathonian.secret.md)
+### #is_/same_as :: [[/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic/Epoch~2~Middle_Jurassic/Age~3~Bathonian.secret|Age~3~Bathonian.secret]] 
 

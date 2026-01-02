@@ -48,17 +48,17 @@ Related actions:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Leave_Action](/_Standards/schema-org/Class/is_a_/Action/Interact_Action/Leave_Action.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Action/Interact_Action/Leave_Action|Leave_Action]] 
 
-### #is_/same_as :: [Leave_Action.public](/_public/schema-org/Class/is_a_/Action/Interact_Action/Leave_Action.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Action/Interact_Action/Leave_Action.public|Leave_Action.public]] 
 
-### #is_/same_as :: [Leave_Action.internal](/_internal/schema-org/Class/is_a_/Action/Interact_Action/Leave_Action.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Action/Interact_Action/Leave_Action.internal|Leave_Action.internal]] 
 
-### #is_/same_as :: [Leave_Action.protect](/_protect/schema-org/Class/is_a_/Action/Interact_Action/Leave_Action.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Action/Interact_Action/Leave_Action.protect|Leave_Action.protect]] 
 
-### #is_/same_as :: [Leave_Action.private](/_private/schema-org/Class/is_a_/Action/Interact_Action/Leave_Action.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Action/Interact_Action/Leave_Action.private|Leave_Action.private]] 
 
-### #is_/same_as :: [Leave_Action.personal](/_personal/schema-org/Class/is_a_/Action/Interact_Action/Leave_Action.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Action/Interact_Action/Leave_Action.personal|Leave_Action.personal]] 
 
-### #is_/same_as :: [Leave_Action.secret](/_secret/schema-org/Class/is_a_/Action/Interact_Action/Leave_Action.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Action/Interact_Action/Leave_Action.secret|Leave_Action.secret]] 
 

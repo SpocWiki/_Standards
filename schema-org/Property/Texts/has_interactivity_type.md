@@ -45,17 +45,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_interactivity_type](/_Standards/schema-org/Property/Texts/has_interactivity_type.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/Texts/has_interactivity_type|has_interactivity_type]] 
 
-### #is_/same_as :: [has_interactivity_type.public](/_public/schema-org/Property/Texts/has_interactivity_type.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/Texts/has_interactivity_type.public|has_interactivity_type.public]] 
 
-### #is_/same_as :: [has_interactivity_type.internal](/_internal/schema-org/Property/Texts/has_interactivity_type.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/Texts/has_interactivity_type.internal|has_interactivity_type.internal]] 
 
-### #is_/same_as :: [has_interactivity_type.protect](/_protect/schema-org/Property/Texts/has_interactivity_type.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/Texts/has_interactivity_type.protect|has_interactivity_type.protect]] 
 
-### #is_/same_as :: [has_interactivity_type.private](/_private/schema-org/Property/Texts/has_interactivity_type.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/Texts/has_interactivity_type.private|has_interactivity_type.private]] 
 
-### #is_/same_as :: [has_interactivity_type.personal](/_personal/schema-org/Property/Texts/has_interactivity_type.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/Texts/has_interactivity_type.personal|has_interactivity_type.personal]] 
 
-### #is_/same_as :: [has_interactivity_type.secret](/_secret/schema-org/Property/Texts/has_interactivity_type.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/Texts/has_interactivity_type.secret|has_interactivity_type.secret]] 
 

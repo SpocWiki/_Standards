@@ -44,17 +44,17 @@ Capital :: [[Addis_Abeba]]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Eritrea_and_Ethiopia](/_Standards/Earth/Continent/Africa/Africa~East/Eritrea_and_Ethiopia.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~East/Eritrea_and_Ethiopia|Eritrea_and_Ethiopia]] 
 
-### #is_/same_as :: [Eritrea_and_Ethiopia.public](/_public/Earth/Continent/Africa/Africa~East/Eritrea_and_Ethiopia.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~East/Eritrea_and_Ethiopia.public|Eritrea_and_Ethiopia.public]] 
 
-### #is_/same_as :: [Eritrea_and_Ethiopia.internal](/_internal/Earth/Continent/Africa/Africa~East/Eritrea_and_Ethiopia.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~East/Eritrea_and_Ethiopia.internal|Eritrea_and_Ethiopia.internal]] 
 
-### #is_/same_as :: [Eritrea_and_Ethiopia.protect](/_protect/Earth/Continent/Africa/Africa~East/Eritrea_and_Ethiopia.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~East/Eritrea_and_Ethiopia.protect|Eritrea_and_Ethiopia.protect]] 
 
-### #is_/same_as :: [Eritrea_and_Ethiopia.private](/_private/Earth/Continent/Africa/Africa~East/Eritrea_and_Ethiopia.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~East/Eritrea_and_Ethiopia.private|Eritrea_and_Ethiopia.private]] 
 
-### #is_/same_as :: [Eritrea_and_Ethiopia.personal](/_personal/Earth/Continent/Africa/Africa~East/Eritrea_and_Ethiopia.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~East/Eritrea_and_Ethiopia.personal|Eritrea_and_Ethiopia.personal]] 
 
-### #is_/same_as :: [Eritrea_and_Ethiopia.secret](/_secret/Earth/Continent/Africa/Africa~East/Eritrea_and_Ethiopia.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~East/Eritrea_and_Ethiopia.secret|Eritrea_and_Ethiopia.secret]] 
 

@@ -63,17 +63,17 @@ and feel more protected in environments where it is implemented
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [push-based_MFA](/_Standards/Technology/IT/Cryptography/push-based_MFA.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Cryptography/push-based_MFA|push-based_MFA]] 
 
-### #is_/same_as :: [push-based_MFA.public](/_public/Technology/IT/Cryptography/push-based_MFA.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Cryptography/push-based_MFA.public|push-based_MFA.public]] 
 
-### #is_/same_as :: [push-based_MFA.internal](/_internal/Technology/IT/Cryptography/push-based_MFA.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Cryptography/push-based_MFA.internal|push-based_MFA.internal]] 
 
-### #is_/same_as :: [push-based_MFA.protect](/_protect/Technology/IT/Cryptography/push-based_MFA.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Cryptography/push-based_MFA.protect|push-based_MFA.protect]] 
 
-### #is_/same_as :: [push-based_MFA.private](/_private/Technology/IT/Cryptography/push-based_MFA.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Cryptography/push-based_MFA.private|push-based_MFA.private]] 
 
-### #is_/same_as :: [push-based_MFA.personal](/_personal/Technology/IT/Cryptography/push-based_MFA.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Cryptography/push-based_MFA.personal|push-based_MFA.personal]] 
 
-### #is_/same_as :: [push-based_MFA.secret](/_secret/Technology/IT/Cryptography/push-based_MFA.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Cryptography/push-based_MFA.secret|push-based_MFA.secret]] 
 

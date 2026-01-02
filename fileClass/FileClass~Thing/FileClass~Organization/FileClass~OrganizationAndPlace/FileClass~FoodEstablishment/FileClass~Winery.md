@@ -37,17 +37,17 @@ A winery.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~Winery](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FoodEstablishment/FileClass~Winery.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FoodEstablishment/FileClass~Winery|FileClass~Winery]] 
 
-### #is_/same_as :: [FileClass~Winery.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FoodEstablishment/FileClass~Winery.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FoodEstablishment/FileClass~Winery.public|FileClass~Winery.public]] 
 
-### #is_/same_as :: [FileClass~Winery.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FoodEstablishment/FileClass~Winery.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FoodEstablishment/FileClass~Winery.internal|FileClass~Winery.internal]] 
 
-### #is_/same_as :: [FileClass~Winery.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FoodEstablishment/FileClass~Winery.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FoodEstablishment/FileClass~Winery.protect|FileClass~Winery.protect]] 
 
-### #is_/same_as :: [FileClass~Winery.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FoodEstablishment/FileClass~Winery.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FoodEstablishment/FileClass~Winery.private|FileClass~Winery.private]] 
 
-### #is_/same_as :: [FileClass~Winery.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FoodEstablishment/FileClass~Winery.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FoodEstablishment/FileClass~Winery.personal|FileClass~Winery.personal]] 
 
-### #is_/same_as :: [FileClass~Winery.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FoodEstablishment/FileClass~Winery.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FoodEstablishment/FileClass~Winery.secret|FileClass~Winery.secret]] 
 

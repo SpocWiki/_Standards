@@ -65,17 +65,17 @@ catalog_code:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Great_Attractor](/_Standards/Science/Physics/Fundamental_Interaction/Gravity/Great_Attractor.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Fundamental_Interaction/Gravity/Great_Attractor|Great_Attractor]] 
 
-### #is_/same_as :: [Great_Attractor.public](/_public/Science/Physics/Fundamental_Interaction/Gravity/Great_Attractor.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Fundamental_Interaction/Gravity/Great_Attractor.public|Great_Attractor.public]] 
 
-### #is_/same_as :: [Great_Attractor.internal](/_internal/Science/Physics/Fundamental_Interaction/Gravity/Great_Attractor.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Fundamental_Interaction/Gravity/Great_Attractor.internal|Great_Attractor.internal]] 
 
-### #is_/same_as :: [Great_Attractor.protect](/_protect/Science/Physics/Fundamental_Interaction/Gravity/Great_Attractor.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Fundamental_Interaction/Gravity/Great_Attractor.protect|Great_Attractor.protect]] 
 
-### #is_/same_as :: [Great_Attractor.private](/_private/Science/Physics/Fundamental_Interaction/Gravity/Great_Attractor.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Fundamental_Interaction/Gravity/Great_Attractor.private|Great_Attractor.private]] 
 
-### #is_/same_as :: [Great_Attractor.personal](/_personal/Science/Physics/Fundamental_Interaction/Gravity/Great_Attractor.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Fundamental_Interaction/Gravity/Great_Attractor.personal|Great_Attractor.personal]] 
 
-### #is_/same_as :: [Great_Attractor.secret](/_secret/Science/Physics/Fundamental_Interaction/Gravity/Great_Attractor.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Fundamental_Interaction/Gravity/Great_Attractor.secret|Great_Attractor.secret]] 
 

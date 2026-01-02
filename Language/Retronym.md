@@ -12,17 +12,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Retronym](/_Standards/Language/Retronym.md) 
+### #is_/same_as :: [[/_Standards/Language/Retronym|Retronym]] 
 
-### #is_/same_as :: [Retronym.public](/_public/Language/Retronym.public.md) 
+### #is_/same_as :: [[/_public/Language/Retronym.public|Retronym.public]] 
 
-### #is_/same_as :: [Retronym.internal](/_internal/Language/Retronym.internal.md) 
+### #is_/same_as :: [[/_internal/Language/Retronym.internal|Retronym.internal]] 
 
-### #is_/same_as :: [Retronym.protect](/_protect/Language/Retronym.protect.md) 
+### #is_/same_as :: [[/_protect/Language/Retronym.protect|Retronym.protect]] 
 
-### #is_/same_as :: [Retronym.private](/_private/Language/Retronym.private.md) 
+### #is_/same_as :: [[/_private/Language/Retronym.private|Retronym.private]] 
 
-### #is_/same_as :: [Retronym.personal](/_personal/Language/Retronym.personal.md) 
+### #is_/same_as :: [[/_personal/Language/Retronym.personal|Retronym.personal]] 
 
-### #is_/same_as :: [Retronym.secret](/_secret/Language/Retronym.secret.md)
+### #is_/same_as :: [[/_secret/Language/Retronym.secret|Retronym.secret]] 
 

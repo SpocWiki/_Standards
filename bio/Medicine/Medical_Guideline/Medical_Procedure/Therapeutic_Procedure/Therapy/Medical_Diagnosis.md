@@ -37,17 +37,17 @@ UMLS_CUI: C0525034
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Medical_Diagnosis](/_Standards/bio/Medicine/Medical_Guideline/Medical_Procedure/Therapeutic_Procedure/Therapy/Medical_Diagnosis.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Guideline/Medical_Procedure/Therapeutic_Procedure/Therapy/Medical_Diagnosis|Medical_Diagnosis]] 
 
-### #is_/same_as :: [Medical_Diagnosis.public](/_public/bio/Medicine/Medical_Guideline/Medical_Procedure/Therapeutic_Procedure/Therapy/Medical_Diagnosis.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Guideline/Medical_Procedure/Therapeutic_Procedure/Therapy/Medical_Diagnosis.public|Medical_Diagnosis.public]] 
 
-### #is_/same_as :: [Medical_Diagnosis.internal](/_internal/bio/Medicine/Medical_Guideline/Medical_Procedure/Therapeutic_Procedure/Therapy/Medical_Diagnosis.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Guideline/Medical_Procedure/Therapeutic_Procedure/Therapy/Medical_Diagnosis.internal|Medical_Diagnosis.internal]] 
 
-### #is_/same_as :: [Medical_Diagnosis.protect](/_protect/bio/Medicine/Medical_Guideline/Medical_Procedure/Therapeutic_Procedure/Therapy/Medical_Diagnosis.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Guideline/Medical_Procedure/Therapeutic_Procedure/Therapy/Medical_Diagnosis.protect|Medical_Diagnosis.protect]] 
 
-### #is_/same_as :: [Medical_Diagnosis.private](/_private/bio/Medicine/Medical_Guideline/Medical_Procedure/Therapeutic_Procedure/Therapy/Medical_Diagnosis.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Guideline/Medical_Procedure/Therapeutic_Procedure/Therapy/Medical_Diagnosis.private|Medical_Diagnosis.private]] 
 
-### #is_/same_as :: [Medical_Diagnosis.personal](/_personal/bio/Medicine/Medical_Guideline/Medical_Procedure/Therapeutic_Procedure/Therapy/Medical_Diagnosis.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Guideline/Medical_Procedure/Therapeutic_Procedure/Therapy/Medical_Diagnosis.personal|Medical_Diagnosis.personal]] 
 
-### #is_/same_as :: [Medical_Diagnosis.secret](/_secret/bio/Medicine/Medical_Guideline/Medical_Procedure/Therapeutic_Procedure/Therapy/Medical_Diagnosis.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Guideline/Medical_Procedure/Therapeutic_Procedure/Therapy/Medical_Diagnosis.secret|Medical_Diagnosis.secret]] 
 

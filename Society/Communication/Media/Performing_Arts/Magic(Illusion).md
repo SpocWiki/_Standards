@@ -64,17 +64,17 @@ Baidu_Tieba_name: 魔术
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Magic(Illusion)](/_Standards/Society/Communication/Media/Performing_Arts/Magic(Illusion).md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Performing_Arts/Magic(Illusion)|Magic(Illusion)]] 
 
-### #is_/same_as :: [Magic(Illusion).public](/_public/Society/Communication/Media/Performing_Arts/Magic(Illusion).public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Performing_Arts/Magic(Illusion).public|Magic(Illusion).public]] 
 
-### #is_/same_as :: [Magic(Illusion).internal](/_internal/Society/Communication/Media/Performing_Arts/Magic(Illusion).internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Performing_Arts/Magic(Illusion).internal|Magic(Illusion).internal]] 
 
-### #is_/same_as :: [Magic(Illusion).protect](/_protect/Society/Communication/Media/Performing_Arts/Magic(Illusion).protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Performing_Arts/Magic(Illusion).protect|Magic(Illusion).protect]] 
 
-### #is_/same_as :: [Magic(Illusion).private](/_private/Society/Communication/Media/Performing_Arts/Magic(Illusion).private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Performing_Arts/Magic(Illusion).private|Magic(Illusion).private]] 
 
-### #is_/same_as :: [Magic(Illusion).personal](/_personal/Society/Communication/Media/Performing_Arts/Magic(Illusion).personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Performing_Arts/Magic(Illusion).personal|Magic(Illusion).personal]] 
 
-### #is_/same_as :: [Magic(Illusion).secret](/_secret/Society/Communication/Media/Performing_Arts/Magic(Illusion).secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Performing_Arts/Magic(Illusion).secret|Magic(Illusion).secret]] 
 

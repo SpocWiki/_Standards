@@ -275,17 +275,17 @@ IPA_transcription: ljoˈnel anˈdɾes ˈmesi
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Messi,Lionel](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Association_Football/Footballer/Messi,Lionel.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Association_Football/Footballer/Messi,Lionel|Messi,Lionel]] 
 
-### #is_/same_as :: [Messi,Lionel.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Association_Football/Footballer/Messi,Lionel.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Association_Football/Footballer/Messi,Lionel.public|Messi,Lionel.public]] 
 
-### #is_/same_as :: [Messi,Lionel.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Association_Football/Footballer/Messi,Lionel.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Association_Football/Footballer/Messi,Lionel.internal|Messi,Lionel.internal]] 
 
-### #is_/same_as :: [Messi,Lionel.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Association_Football/Footballer/Messi,Lionel.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Association_Football/Footballer/Messi,Lionel.protect|Messi,Lionel.protect]] 
 
-### #is_/same_as :: [Messi,Lionel.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Association_Football/Footballer/Messi,Lionel.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Association_Football/Footballer/Messi,Lionel.private|Messi,Lionel.private]] 
 
-### #is_/same_as :: [Messi,Lionel.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Association_Football/Footballer/Messi,Lionel.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Association_Football/Footballer/Messi,Lionel.personal|Messi,Lionel.personal]] 
 
-### #is_/same_as :: [Messi,Lionel.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Association_Football/Footballer/Messi,Lionel.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Association_Football/Footballer/Messi,Lionel.secret|Messi,Lionel.secret]] 
 

@@ -57,17 +57,17 @@ MeSH_tree_code: F01.100.787
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Optimism](/_Standards/bio/Psychology/Mind/Mental_State/Optimism.md) 
+### #is_/same_as :: [[/_Standards/bio/Psychology/Mind/Mental_State/Optimism|Optimism]] 
 
-### #is_/same_as :: [Optimism.public](/_public/bio/Psychology/Mind/Mental_State/Optimism.public.md) 
+### #is_/same_as :: [[/_public/bio/Psychology/Mind/Mental_State/Optimism.public|Optimism.public]] 
 
-### #is_/same_as :: [Optimism.internal](/_internal/bio/Psychology/Mind/Mental_State/Optimism.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Psychology/Mind/Mental_State/Optimism.internal|Optimism.internal]] 
 
-### #is_/same_as :: [Optimism.protect](/_protect/bio/Psychology/Mind/Mental_State/Optimism.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Psychology/Mind/Mental_State/Optimism.protect|Optimism.protect]] 
 
-### #is_/same_as :: [Optimism.private](/_private/bio/Psychology/Mind/Mental_State/Optimism.private.md) 
+### #is_/same_as :: [[/_private/bio/Psychology/Mind/Mental_State/Optimism.private|Optimism.private]] 
 
-### #is_/same_as :: [Optimism.personal](/_personal/bio/Psychology/Mind/Mental_State/Optimism.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Psychology/Mind/Mental_State/Optimism.personal|Optimism.personal]] 
 
-### #is_/same_as :: [Optimism.secret](/_secret/bio/Psychology/Mind/Mental_State/Optimism.secret.md)
+### #is_/same_as :: [[/_secret/bio/Psychology/Mind/Mental_State/Optimism.secret|Optimism.secret]] 
 

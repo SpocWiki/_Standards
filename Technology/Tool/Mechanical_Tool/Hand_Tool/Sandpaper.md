@@ -48,17 +48,17 @@ Commons_category: Sandpaper
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sandpaper](/_Standards/Technology/Tool/Mechanical_Tool/Hand_Tool/Sandpaper.md) 
+### #is_/same_as :: [[/_Standards/Technology/Tool/Mechanical_Tool/Hand_Tool/Sandpaper|Sandpaper]] 
 
-### #is_/same_as :: [Sandpaper.public](/_public/Technology/Tool/Mechanical_Tool/Hand_Tool/Sandpaper.public.md) 
+### #is_/same_as :: [[/_public/Technology/Tool/Mechanical_Tool/Hand_Tool/Sandpaper.public|Sandpaper.public]] 
 
-### #is_/same_as :: [Sandpaper.internal](/_internal/Technology/Tool/Mechanical_Tool/Hand_Tool/Sandpaper.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Tool/Mechanical_Tool/Hand_Tool/Sandpaper.internal|Sandpaper.internal]] 
 
-### #is_/same_as :: [Sandpaper.protect](/_protect/Technology/Tool/Mechanical_Tool/Hand_Tool/Sandpaper.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Tool/Mechanical_Tool/Hand_Tool/Sandpaper.protect|Sandpaper.protect]] 
 
-### #is_/same_as :: [Sandpaper.private](/_private/Technology/Tool/Mechanical_Tool/Hand_Tool/Sandpaper.private.md) 
+### #is_/same_as :: [[/_private/Technology/Tool/Mechanical_Tool/Hand_Tool/Sandpaper.private|Sandpaper.private]] 
 
-### #is_/same_as :: [Sandpaper.personal](/_personal/Technology/Tool/Mechanical_Tool/Hand_Tool/Sandpaper.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Tool/Mechanical_Tool/Hand_Tool/Sandpaper.personal|Sandpaper.personal]] 
 
-### #is_/same_as :: [Sandpaper.secret](/_secret/Technology/Tool/Mechanical_Tool/Hand_Tool/Sandpaper.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Tool/Mechanical_Tool/Hand_Tool/Sandpaper.secret|Sandpaper.secret]] 
 

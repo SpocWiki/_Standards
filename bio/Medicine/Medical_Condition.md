@@ -43,17 +43,17 @@ Any condition of the human body that affects the normal functioning of a person,
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Medical_Condition](/_Standards/bio/Medicine/Medical_Condition.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Condition|Medical_Condition]] 
 
-### #is_/same_as :: [Medical_Condition.public](/_public/bio/Medicine/Medical_Condition.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Condition.public|Medical_Condition.public]] 
 
-### #is_/same_as :: [Medical_Condition.internal](/_internal/bio/Medicine/Medical_Condition.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Condition.internal|Medical_Condition.internal]] 
 
-### #is_/same_as :: [Medical_Condition.protect](/_protect/bio/Medicine/Medical_Condition.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Condition.protect|Medical_Condition.protect]] 
 
-### #is_/same_as :: [Medical_Condition.private](/_private/bio/Medicine/Medical_Condition.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Condition.private|Medical_Condition.private]] 
 
-### #is_/same_as :: [Medical_Condition.personal](/_personal/bio/Medicine/Medical_Condition.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Condition.personal|Medical_Condition.personal]] 
 
-### #is_/same_as :: [Medical_Condition.secret](/_secret/bio/Medicine/Medical_Condition.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Condition.secret|Medical_Condition.secret]] 
 

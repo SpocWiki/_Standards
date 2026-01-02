@@ -7,7 +7,7 @@ title: Mastigoteuthis agassizii
 # *Mastigoteuthis agassizii* [Verrill, 1881] 
 
 [Michael Vecchione and Richard E. Young]()
-![ ](agassizii/MAgassShale2.jpg))
+![ ](agassizii/MAgassShale2.jpg) 
 
 Containing group:[Mastigoteuthidae](../Mastigoteuthidae.md) 
 
@@ -141,7 +141,7 @@ Academy of Sciences, 5: 259-446.
 
 ## Title Illustrations
 
-![](agassizii/MAgassShale2.jpg))
+![](agassizii/MAgassShale2.jpg) 
 
   -----------------------------------------------
   Scientific Name ::     Mastigoteuthis agassizii
@@ -155,17 +155,17 @@ Academy of Sciences, 5: 259-446.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [agassizii](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Mastigoteuthidae/agassizii.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Mastigoteuthidae/agassizii|agassizii]] 
 
-### #is_/same_as :: [agassizii.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Mastigoteuthidae/agassizii.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Mastigoteuthidae/agassizii.public|agassizii.public]] 
 
-### #is_/same_as :: [agassizii.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Mastigoteuthidae/agassizii.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Mastigoteuthidae/agassizii.internal|agassizii.internal]] 
 
-### #is_/same_as :: [agassizii.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Mastigoteuthidae/agassizii.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Mastigoteuthidae/agassizii.protect|agassizii.protect]] 
 
-### #is_/same_as :: [agassizii.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Mastigoteuthidae/agassizii.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Mastigoteuthidae/agassizii.private|agassizii.private]] 
 
-### #is_/same_as :: [agassizii.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Mastigoteuthidae/agassizii.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Mastigoteuthidae/agassizii.personal|agassizii.personal]] 
 
-### #is_/same_as :: [agassizii.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Mastigoteuthidae/agassizii.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Mastigoteuthidae/agassizii.secret|agassizii.secret]] 
 

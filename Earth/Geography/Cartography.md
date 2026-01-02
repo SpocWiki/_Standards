@@ -88,17 +88,17 @@ P8189: "987007284876105171"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Cartography](/_Standards/Earth/Geography/Cartography.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geography/Cartography|Cartography]] 
 
-### #is_/same_as :: [Cartography.public](/_public/Earth/Geography/Cartography.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geography/Cartography.public|Cartography.public]] 
 
-### #is_/same_as :: [Cartography.internal](/_internal/Earth/Geography/Cartography.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geography/Cartography.internal|Cartography.internal]] 
 
-### #is_/same_as :: [Cartography.protect](/_protect/Earth/Geography/Cartography.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geography/Cartography.protect|Cartography.protect]] 
 
-### #is_/same_as :: [Cartography.private](/_private/Earth/Geography/Cartography.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geography/Cartography.private|Cartography.private]] 
 
-### #is_/same_as :: [Cartography.personal](/_personal/Earth/Geography/Cartography.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geography/Cartography.personal|Cartography.personal]] 
 
-### #is_/same_as :: [Cartography.secret](/_secret/Earth/Geography/Cartography.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geography/Cartography.secret|Cartography.secret]] 
 

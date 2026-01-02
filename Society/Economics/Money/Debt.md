@@ -47,17 +47,17 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/1979%20%2410%2C000%20T
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Debt](/_Standards/Society/Economics/Money/Debt.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Money/Debt|Debt]] 
 
-### #is_/same_as :: [Debt.public](/_public/Society/Economics/Money/Debt.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Money/Debt.public|Debt.public]] 
 
-### #is_/same_as :: [Debt.internal](/_internal/Society/Economics/Money/Debt.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Money/Debt.internal|Debt.internal]] 
 
-### #is_/same_as :: [Debt.protect](/_protect/Society/Economics/Money/Debt.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Money/Debt.protect|Debt.protect]] 
 
-### #is_/same_as :: [Debt.private](/_private/Society/Economics/Money/Debt.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Money/Debt.private|Debt.private]] 
 
-### #is_/same_as :: [Debt.personal](/_personal/Society/Economics/Money/Debt.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Money/Debt.personal|Debt.personal]] 
 
-### #is_/same_as :: [Debt.secret](/_secret/Society/Economics/Money/Debt.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Money/Debt.secret|Debt.secret]] 
 

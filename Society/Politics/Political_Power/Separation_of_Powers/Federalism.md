@@ -79,17 +79,17 @@ Library_of_Congress_Classification: JC355
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Federalism](/_Standards/Society/Politics/Political_Power/Separation_of_Powers/Federalism.md) 
+### #is_/same_as :: [[/_Standards/Society/Politics/Political_Power/Separation_of_Powers/Federalism|Federalism]] 
 
-### #is_/same_as :: [Federalism.public](/_public/Society/Politics/Political_Power/Separation_of_Powers/Federalism.public.md) 
+### #is_/same_as :: [[/_public/Society/Politics/Political_Power/Separation_of_Powers/Federalism.public|Federalism.public]] 
 
-### #is_/same_as :: [Federalism.internal](/_internal/Society/Politics/Political_Power/Separation_of_Powers/Federalism.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Politics/Political_Power/Separation_of_Powers/Federalism.internal|Federalism.internal]] 
 
-### #is_/same_as :: [Federalism.protect](/_protect/Society/Politics/Political_Power/Separation_of_Powers/Federalism.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Politics/Political_Power/Separation_of_Powers/Federalism.protect|Federalism.protect]] 
 
-### #is_/same_as :: [Federalism.private](/_private/Society/Politics/Political_Power/Separation_of_Powers/Federalism.private.md) 
+### #is_/same_as :: [[/_private/Society/Politics/Political_Power/Separation_of_Powers/Federalism.private|Federalism.private]] 
 
-### #is_/same_as :: [Federalism.personal](/_personal/Society/Politics/Political_Power/Separation_of_Powers/Federalism.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Politics/Political_Power/Separation_of_Powers/Federalism.personal|Federalism.personal]] 
 
-### #is_/same_as :: [Federalism.secret](/_secret/Society/Politics/Political_Power/Separation_of_Powers/Federalism.secret.md)
+### #is_/same_as :: [[/_secret/Society/Politics/Political_Power/Separation_of_Powers/Federalism.secret|Federalism.secret]] 
 

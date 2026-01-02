@@ -77,17 +77,17 @@ Wikidata_property: item operated
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Tool](/_Standards/Technology/Tool.md) 
+### #is_/same_as :: [[/_Standards/Technology/Tool|Tool]] 
 
-### #is_/same_as :: [Tool.public](/_public/Technology/Tool.public.md) 
+### #is_/same_as :: [[/_public/Technology/Tool.public|Tool.public]] 
 
-### #is_/same_as :: [Tool.internal](/_internal/Technology/Tool.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Tool.internal|Tool.internal]] 
 
-### #is_/same_as :: [Tool.protect](/_protect/Technology/Tool.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Tool.protect|Tool.protect]] 
 
-### #is_/same_as :: [Tool.private](/_private/Technology/Tool.private.md) 
+### #is_/same_as :: [[/_private/Technology/Tool.private|Tool.private]] 
 
-### #is_/same_as :: [Tool.personal](/_personal/Technology/Tool.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Tool.personal|Tool.personal]] 
 
-### #is_/same_as :: [Tool.secret](/_secret/Technology/Tool.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Tool.secret|Tool.secret]] 
 

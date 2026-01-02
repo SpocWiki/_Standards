@@ -177,17 +177,17 @@ pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q3381
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [PTSD(Post-Traumatic_Stress_Disorder)](/_Standards/bio/Psychology/Mental_Disorder/PTSD(Post-Traumatic_Stress_Disorder).md) 
+### #is_/same_as :: [[/_Standards/bio/Psychology/Mental_Disorder/PTSD(Post-Traumatic_Stress_Disorder)|PTSD(Post-Traumatic_Stress_Disorder)]] 
 
-### #is_/same_as :: [PTSD(Post-Traumatic_Stress_Disorder).public](/_public/bio/Psychology/Mental_Disorder/PTSD(Post-Traumatic_Stress_Disorder).public.md) 
+### #is_/same_as :: [[/_public/bio/Psychology/Mental_Disorder/PTSD(Post-Traumatic_Stress_Disorder).public|PTSD(Post-Traumatic_Stress_Disorder).public]] 
 
-### #is_/same_as :: [PTSD(Post-Traumatic_Stress_Disorder).internal](/_internal/bio/Psychology/Mental_Disorder/PTSD(Post-Traumatic_Stress_Disorder).internal.md) 
+### #is_/same_as :: [[/_internal/bio/Psychology/Mental_Disorder/PTSD(Post-Traumatic_Stress_Disorder).internal|PTSD(Post-Traumatic_Stress_Disorder).internal]] 
 
-### #is_/same_as :: [PTSD(Post-Traumatic_Stress_Disorder).protect](/_protect/bio/Psychology/Mental_Disorder/PTSD(Post-Traumatic_Stress_Disorder).protect.md) 
+### #is_/same_as :: [[/_protect/bio/Psychology/Mental_Disorder/PTSD(Post-Traumatic_Stress_Disorder).protect|PTSD(Post-Traumatic_Stress_Disorder).protect]] 
 
-### #is_/same_as :: [PTSD(Post-Traumatic_Stress_Disorder).private](/_private/bio/Psychology/Mental_Disorder/PTSD(Post-Traumatic_Stress_Disorder).private.md) 
+### #is_/same_as :: [[/_private/bio/Psychology/Mental_Disorder/PTSD(Post-Traumatic_Stress_Disorder).private|PTSD(Post-Traumatic_Stress_Disorder).private]] 
 
-### #is_/same_as :: [PTSD(Post-Traumatic_Stress_Disorder).personal](/_personal/bio/Psychology/Mental_Disorder/PTSD(Post-Traumatic_Stress_Disorder).personal.md) 
+### #is_/same_as :: [[/_personal/bio/Psychology/Mental_Disorder/PTSD(Post-Traumatic_Stress_Disorder).personal|PTSD(Post-Traumatic_Stress_Disorder).personal]] 
 
-### #is_/same_as :: [PTSD(Post-Traumatic_Stress_Disorder).secret](/_secret/bio/Psychology/Mental_Disorder/PTSD(Post-Traumatic_Stress_Disorder).secret.md)
+### #is_/same_as :: [[/_secret/bio/Psychology/Mental_Disorder/PTSD(Post-Traumatic_Stress_Disorder).secret|PTSD(Post-Traumatic_Stress_Disorder).secret]] 
 

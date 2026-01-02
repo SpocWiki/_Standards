@@ -94,17 +94,17 @@ Europeana_entity: agent/base/147108
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Mussorgsky,Modest_Petrovich](/_Standards/Society/Communication/Media/Music/Composer/Renaissance_Composer/Mussorgsky,Modest_Petrovich.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Composer/Renaissance_Composer/Mussorgsky,Modest_Petrovich|Mussorgsky,Modest_Petrovich]] 
 
-### #is_/same_as :: [Mussorgsky,Modest_Petrovich.public](/_public/Society/Communication/Media/Music/Composer/Renaissance_Composer/Mussorgsky,Modest_Petrovich.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Composer/Renaissance_Composer/Mussorgsky,Modest_Petrovich.public|Mussorgsky,Modest_Petrovich.public]] 
 
-### #is_/same_as :: [Mussorgsky,Modest_Petrovich.internal](/_internal/Society/Communication/Media/Music/Composer/Renaissance_Composer/Mussorgsky,Modest_Petrovich.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Composer/Renaissance_Composer/Mussorgsky,Modest_Petrovich.internal|Mussorgsky,Modest_Petrovich.internal]] 
 
-### #is_/same_as :: [Mussorgsky,Modest_Petrovich.protect](/_protect/Society/Communication/Media/Music/Composer/Renaissance_Composer/Mussorgsky,Modest_Petrovich.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Composer/Renaissance_Composer/Mussorgsky,Modest_Petrovich.protect|Mussorgsky,Modest_Petrovich.protect]] 
 
-### #is_/same_as :: [Mussorgsky,Modest_Petrovich.private](/_private/Society/Communication/Media/Music/Composer/Renaissance_Composer/Mussorgsky,Modest_Petrovich.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Composer/Renaissance_Composer/Mussorgsky,Modest_Petrovich.private|Mussorgsky,Modest_Petrovich.private]] 
 
-### #is_/same_as :: [Mussorgsky,Modest_Petrovich.personal](/_personal/Society/Communication/Media/Music/Composer/Renaissance_Composer/Mussorgsky,Modest_Petrovich.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Composer/Renaissance_Composer/Mussorgsky,Modest_Petrovich.personal|Mussorgsky,Modest_Petrovich.personal]] 
 
-### #is_/same_as :: [Mussorgsky,Modest_Petrovich.secret](/_secret/Society/Communication/Media/Music/Composer/Renaissance_Composer/Mussorgsky,Modest_Petrovich.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Composer/Renaissance_Composer/Mussorgsky,Modest_Petrovich.secret|Mussorgsky,Modest_Petrovich.secret]] 
 

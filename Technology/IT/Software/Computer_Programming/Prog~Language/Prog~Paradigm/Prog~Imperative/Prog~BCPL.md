@@ -17,17 +17,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Prog~BCPL](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Imperative/Prog~BCPL.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Imperative/Prog~BCPL|Prog~BCPL]] 
 
-### #is_/same_as :: [Prog~BCPL.public](/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Imperative/Prog~BCPL.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Imperative/Prog~BCPL.public|Prog~BCPL.public]] 
 
-### #is_/same_as :: [Prog~BCPL.internal](/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Imperative/Prog~BCPL.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Imperative/Prog~BCPL.internal|Prog~BCPL.internal]] 
 
-### #is_/same_as :: [Prog~BCPL.protect](/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Imperative/Prog~BCPL.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Imperative/Prog~BCPL.protect|Prog~BCPL.protect]] 
 
-### #is_/same_as :: [Prog~BCPL.private](/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Imperative/Prog~BCPL.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Imperative/Prog~BCPL.private|Prog~BCPL.private]] 
 
-### #is_/same_as :: [Prog~BCPL.personal](/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Imperative/Prog~BCPL.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Imperative/Prog~BCPL.personal|Prog~BCPL.personal]] 
 
-### #is_/same_as :: [Prog~BCPL.secret](/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Imperative/Prog~BCPL.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Imperative/Prog~BCPL.secret|Prog~BCPL.secret]] 
 

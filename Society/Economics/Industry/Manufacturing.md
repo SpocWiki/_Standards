@@ -93,17 +93,17 @@ subreddit: ManufacturingPorn
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Manufacturing](/_Standards/Society/Economics/Industry/Manufacturing.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Industry/Manufacturing|Manufacturing]] 
 
-### #is_/same_as :: [Manufacturing.public](/_public/Society/Economics/Industry/Manufacturing.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Industry/Manufacturing.public|Manufacturing.public]] 
 
-### #is_/same_as :: [Manufacturing.internal](/_internal/Society/Economics/Industry/Manufacturing.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Industry/Manufacturing.internal|Manufacturing.internal]] 
 
-### #is_/same_as :: [Manufacturing.protect](/_protect/Society/Economics/Industry/Manufacturing.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Industry/Manufacturing.protect|Manufacturing.protect]] 
 
-### #is_/same_as :: [Manufacturing.private](/_private/Society/Economics/Industry/Manufacturing.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Industry/Manufacturing.private|Manufacturing.private]] 
 
-### #is_/same_as :: [Manufacturing.personal](/_personal/Society/Economics/Industry/Manufacturing.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Industry/Manufacturing.personal|Manufacturing.personal]] 
 
-### #is_/same_as :: [Manufacturing.secret](/_secret/Society/Economics/Industry/Manufacturing.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Industry/Manufacturing.secret|Manufacturing.secret]] 
 

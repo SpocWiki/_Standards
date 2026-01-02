@@ -154,17 +154,17 @@ Nitrogen is hard to involve chemical reactions and used to be rare.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Nitrogen](/_Standards/Chemistry/Chemical_Element/Group-15-Nitrogen/Nitrogen.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Chemical_Element/Group-15-Nitrogen/Nitrogen|Nitrogen]] 
 
-### #is_/same_as :: [Nitrogen.public](/_public/Chemistry/Chemical_Element/Group-15-Nitrogen/Nitrogen.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Chemical_Element/Group-15-Nitrogen/Nitrogen.public|Nitrogen.public]] 
 
-### #is_/same_as :: [Nitrogen.internal](/_internal/Chemistry/Chemical_Element/Group-15-Nitrogen/Nitrogen.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Chemical_Element/Group-15-Nitrogen/Nitrogen.internal|Nitrogen.internal]] 
 
-### #is_/same_as :: [Nitrogen.protect](/_protect/Chemistry/Chemical_Element/Group-15-Nitrogen/Nitrogen.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Chemical_Element/Group-15-Nitrogen/Nitrogen.protect|Nitrogen.protect]] 
 
-### #is_/same_as :: [Nitrogen.private](/_private/Chemistry/Chemical_Element/Group-15-Nitrogen/Nitrogen.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Chemical_Element/Group-15-Nitrogen/Nitrogen.private|Nitrogen.private]] 
 
-### #is_/same_as :: [Nitrogen.personal](/_personal/Chemistry/Chemical_Element/Group-15-Nitrogen/Nitrogen.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Chemical_Element/Group-15-Nitrogen/Nitrogen.personal|Nitrogen.personal]] 
 
-### #is_/same_as :: [Nitrogen.secret](/_secret/Chemistry/Chemical_Element/Group-15-Nitrogen/Nitrogen.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Chemical_Element/Group-15-Nitrogen/Nitrogen.secret|Nitrogen.secret]] 
 

@@ -14,17 +14,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Aristocracy](/_Standards/Society/Politics/Government/Aristocracy.md) 
+### #is_/same_as :: [[/_Standards/Society/Politics/Government/Aristocracy|Aristocracy]] 
 
-### #is_/same_as :: [Aristocracy.public](/_public/Society/Politics/Government/Aristocracy.public.md) 
+### #is_/same_as :: [[/_public/Society/Politics/Government/Aristocracy.public|Aristocracy.public]] 
 
-### #is_/same_as :: [Aristocracy.internal](/_internal/Society/Politics/Government/Aristocracy.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Politics/Government/Aristocracy.internal|Aristocracy.internal]] 
 
-### #is_/same_as :: [Aristocracy.protect](/_protect/Society/Politics/Government/Aristocracy.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Politics/Government/Aristocracy.protect|Aristocracy.protect]] 
 
-### #is_/same_as :: [Aristocracy.private](/_private/Society/Politics/Government/Aristocracy.private.md) 
+### #is_/same_as :: [[/_private/Society/Politics/Government/Aristocracy.private|Aristocracy.private]] 
 
-### #is_/same_as :: [Aristocracy.personal](/_personal/Society/Politics/Government/Aristocracy.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Politics/Government/Aristocracy.personal|Aristocracy.personal]] 
 
-### #is_/same_as :: [Aristocracy.secret](/_secret/Society/Politics/Government/Aristocracy.secret.md)
+### #is_/same_as :: [[/_secret/Society/Politics/Government/Aristocracy.secret|Aristocracy.secret]] 
 

@@ -37,17 +37,17 @@ An online or virtual location for attending events. For example, one may attend 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~VirtualLocation](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~VirtualLocation.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~VirtualLocation|FileClass~VirtualLocation]] 
 
-### #is_/same_as :: [FileClass~VirtualLocation.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~VirtualLocation.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~VirtualLocation.public|FileClass~VirtualLocation.public]] 
 
-### #is_/same_as :: [FileClass~VirtualLocation.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~VirtualLocation.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~VirtualLocation.internal|FileClass~VirtualLocation.internal]] 
 
-### #is_/same_as :: [FileClass~VirtualLocation.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~VirtualLocation.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~VirtualLocation.protect|FileClass~VirtualLocation.protect]] 
 
-### #is_/same_as :: [FileClass~VirtualLocation.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~VirtualLocation.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~VirtualLocation.private|FileClass~VirtualLocation.private]] 
 
-### #is_/same_as :: [FileClass~VirtualLocation.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~VirtualLocation.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~VirtualLocation.personal|FileClass~VirtualLocation.personal]] 
 
-### #is_/same_as :: [FileClass~VirtualLocation.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~VirtualLocation.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~VirtualLocation.secret|FileClass~VirtualLocation.secret]] 
 

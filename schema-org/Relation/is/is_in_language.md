@@ -44,17 +44,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [is_in_language](/_Standards/schema-org/Relation/is/is_in_language.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/is/is_in_language|is_in_language]] 
 
-### #is_/same_as :: [is_in_language.public](/_public/schema-org/Relation/is/is_in_language.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/is/is_in_language.public|is_in_language.public]] 
 
-### #is_/same_as :: [is_in_language.internal](/_internal/schema-org/Relation/is/is_in_language.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/is/is_in_language.internal|is_in_language.internal]] 
 
-### #is_/same_as :: [is_in_language.protect](/_protect/schema-org/Relation/is/is_in_language.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/is/is_in_language.protect|is_in_language.protect]] 
 
-### #is_/same_as :: [is_in_language.private](/_private/schema-org/Relation/is/is_in_language.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/is/is_in_language.private|is_in_language.private]] 
 
-### #is_/same_as :: [is_in_language.personal](/_personal/schema-org/Relation/is/is_in_language.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/is/is_in_language.personal|is_in_language.personal]] 
 
-### #is_/same_as :: [is_in_language.secret](/_secret/schema-org/Relation/is/is_in_language.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/is/is_in_language.secret|is_in_language.secret]] 
 

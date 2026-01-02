@@ -173,17 +173,17 @@ official_website: https://e-cis.info/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [CIS(Commonwealth_of_Independent_States)](/_Standards/Society/Agent/Community/Organization/International_Organization/CIS(Commonwealth_of_Independent_States).md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/International_Organization/CIS(Commonwealth_of_Independent_States)|CIS(Commonwealth_of_Independent_States)]] 
 
-### #is_/same_as :: [CIS(Commonwealth_of_Independent_States).public](/_public/Society/Agent/Community/Organization/International_Organization/CIS(Commonwealth_of_Independent_States).public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/International_Organization/CIS(Commonwealth_of_Independent_States).public|CIS(Commonwealth_of_Independent_States).public]] 
 
-### #is_/same_as :: [CIS(Commonwealth_of_Independent_States).internal](/_internal/Society/Agent/Community/Organization/International_Organization/CIS(Commonwealth_of_Independent_States).internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/International_Organization/CIS(Commonwealth_of_Independent_States).internal|CIS(Commonwealth_of_Independent_States).internal]] 
 
-### #is_/same_as :: [CIS(Commonwealth_of_Independent_States).protect](/_protect/Society/Agent/Community/Organization/International_Organization/CIS(Commonwealth_of_Independent_States).protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/International_Organization/CIS(Commonwealth_of_Independent_States).protect|CIS(Commonwealth_of_Independent_States).protect]] 
 
-### #is_/same_as :: [CIS(Commonwealth_of_Independent_States).private](/_private/Society/Agent/Community/Organization/International_Organization/CIS(Commonwealth_of_Independent_States).private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/International_Organization/CIS(Commonwealth_of_Independent_States).private|CIS(Commonwealth_of_Independent_States).private]] 
 
-### #is_/same_as :: [CIS(Commonwealth_of_Independent_States).personal](/_personal/Society/Agent/Community/Organization/International_Organization/CIS(Commonwealth_of_Independent_States).personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/International_Organization/CIS(Commonwealth_of_Independent_States).personal|CIS(Commonwealth_of_Independent_States).personal]] 
 
-### #is_/same_as :: [CIS(Commonwealth_of_Independent_States).secret](/_secret/Society/Agent/Community/Organization/International_Organization/CIS(Commonwealth_of_Independent_States).secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/International_Organization/CIS(Commonwealth_of_Independent_States).secret|CIS(Commonwealth_of_Independent_States).secret]] 
 

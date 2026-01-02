@@ -43,17 +43,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_number_of_user_interactions](/_Standards/schema-org/Property/has_number_of/has_number_of_user_interactions.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_number_of/has_number_of_user_interactions|has_number_of_user_interactions]] 
 
-### #is_/same_as :: [has_number_of_user_interactions.public](/_public/schema-org/Property/has_number_of/has_number_of_user_interactions.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/has_number_of/has_number_of_user_interactions.public|has_number_of_user_interactions.public]] 
 
-### #is_/same_as :: [has_number_of_user_interactions.internal](/_internal/schema-org/Property/has_number_of/has_number_of_user_interactions.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_number_of/has_number_of_user_interactions.internal|has_number_of_user_interactions.internal]] 
 
-### #is_/same_as :: [has_number_of_user_interactions.protect](/_protect/schema-org/Property/has_number_of/has_number_of_user_interactions.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_number_of/has_number_of_user_interactions.protect|has_number_of_user_interactions.protect]] 
 
-### #is_/same_as :: [has_number_of_user_interactions.private](/_private/schema-org/Property/has_number_of/has_number_of_user_interactions.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/has_number_of/has_number_of_user_interactions.private|has_number_of_user_interactions.private]] 
 
-### #is_/same_as :: [has_number_of_user_interactions.personal](/_personal/schema-org/Property/has_number_of/has_number_of_user_interactions.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_number_of/has_number_of_user_interactions.personal|has_number_of_user_interactions.personal]] 
 
-### #is_/same_as :: [has_number_of_user_interactions.secret](/_secret/schema-org/Property/has_number_of/has_number_of_user_interactions.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/has_number_of/has_number_of_user_interactions.secret|has_number_of_user_interactions.secret]] 
 

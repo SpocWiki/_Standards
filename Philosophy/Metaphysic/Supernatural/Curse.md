@@ -41,17 +41,17 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/A%20woman%20makes%20a%
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Curse](/_Standards/Philosophy/Metaphysic/Supernatural/Curse.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Supernatural/Curse|Curse]] 
 
-### #is_/same_as :: [Curse.public](/_public/Philosophy/Metaphysic/Supernatural/Curse.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Supernatural/Curse.public|Curse.public]] 
 
-### #is_/same_as :: [Curse.internal](/_internal/Philosophy/Metaphysic/Supernatural/Curse.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Supernatural/Curse.internal|Curse.internal]] 
 
-### #is_/same_as :: [Curse.protect](/_protect/Philosophy/Metaphysic/Supernatural/Curse.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Supernatural/Curse.protect|Curse.protect]] 
 
-### #is_/same_as :: [Curse.private](/_private/Philosophy/Metaphysic/Supernatural/Curse.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Supernatural/Curse.private|Curse.private]] 
 
-### #is_/same_as :: [Curse.personal](/_personal/Philosophy/Metaphysic/Supernatural/Curse.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Supernatural/Curse.personal|Curse.personal]] 
 
-### #is_/same_as :: [Curse.secret](/_secret/Philosophy/Metaphysic/Supernatural/Curse.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Supernatural/Curse.secret|Curse.secret]] 
 

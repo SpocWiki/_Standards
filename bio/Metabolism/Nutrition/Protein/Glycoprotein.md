@@ -46,17 +46,17 @@ Commons_category: Glycoproteins
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Glycoprotein](/_Standards/bio/Metabolism/Nutrition/Protein/Glycoprotein.md) 
+### #is_/same_as :: [[/_Standards/bio/Metabolism/Nutrition/Protein/Glycoprotein|Glycoprotein]] 
 
-### #is_/same_as :: [Glycoprotein.public](/_public/bio/Metabolism/Nutrition/Protein/Glycoprotein.public.md) 
+### #is_/same_as :: [[/_public/bio/Metabolism/Nutrition/Protein/Glycoprotein.public|Glycoprotein.public]] 
 
-### #is_/same_as :: [Glycoprotein.internal](/_internal/bio/Metabolism/Nutrition/Protein/Glycoprotein.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Metabolism/Nutrition/Protein/Glycoprotein.internal|Glycoprotein.internal]] 
 
-### #is_/same_as :: [Glycoprotein.protect](/_protect/bio/Metabolism/Nutrition/Protein/Glycoprotein.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Metabolism/Nutrition/Protein/Glycoprotein.protect|Glycoprotein.protect]] 
 
-### #is_/same_as :: [Glycoprotein.private](/_private/bio/Metabolism/Nutrition/Protein/Glycoprotein.private.md) 
+### #is_/same_as :: [[/_private/bio/Metabolism/Nutrition/Protein/Glycoprotein.private|Glycoprotein.private]] 
 
-### #is_/same_as :: [Glycoprotein.personal](/_personal/bio/Metabolism/Nutrition/Protein/Glycoprotein.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Metabolism/Nutrition/Protein/Glycoprotein.personal|Glycoprotein.personal]] 
 
-### #is_/same_as :: [Glycoprotein.secret](/_secret/bio/Metabolism/Nutrition/Protein/Glycoprotein.secret.md)
+### #is_/same_as :: [[/_secret/bio/Metabolism/Nutrition/Protein/Glycoprotein.secret|Glycoprotein.secret]] 
 

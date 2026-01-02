@@ -53,17 +53,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Magnet](/_Standards/Science/Physics/Fundamental_Interaction/Electromagnetism/Magnet.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Fundamental_Interaction/Electromagnetism/Magnet|Magnet]] 
 
-### #is_/same_as :: [Magnet.public](/_public/Science/Physics/Fundamental_Interaction/Electromagnetism/Magnet.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Fundamental_Interaction/Electromagnetism/Magnet.public|Magnet.public]] 
 
-### #is_/same_as :: [Magnet.internal](/_internal/Science/Physics/Fundamental_Interaction/Electromagnetism/Magnet.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Fundamental_Interaction/Electromagnetism/Magnet.internal|Magnet.internal]] 
 
-### #is_/same_as :: [Magnet.protect](/_protect/Science/Physics/Fundamental_Interaction/Electromagnetism/Magnet.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Fundamental_Interaction/Electromagnetism/Magnet.protect|Magnet.protect]] 
 
-### #is_/same_as :: [Magnet.private](/_private/Science/Physics/Fundamental_Interaction/Electromagnetism/Magnet.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Fundamental_Interaction/Electromagnetism/Magnet.private|Magnet.private]] 
 
-### #is_/same_as :: [Magnet.personal](/_personal/Science/Physics/Fundamental_Interaction/Electromagnetism/Magnet.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Fundamental_Interaction/Electromagnetism/Magnet.personal|Magnet.personal]] 
 
-### #is_/same_as :: [Magnet.secret](/_secret/Science/Physics/Fundamental_Interaction/Electromagnetism/Magnet.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Fundamental_Interaction/Electromagnetism/Magnet.secret|Magnet.secret]] 
 

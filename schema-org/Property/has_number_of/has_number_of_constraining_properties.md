@@ -46,17 +46,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_number_of_constraining_properties](/_Standards/schema-org/Property/has_number_of/has_number_of_constraining_properties.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_number_of/has_number_of_constraining_properties|has_number_of_constraining_properties]] 
 
-### #is_/same_as :: [has_number_of_constraining_properties.public](/_public/schema-org/Property/has_number_of/has_number_of_constraining_properties.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/has_number_of/has_number_of_constraining_properties.public|has_number_of_constraining_properties.public]] 
 
-### #is_/same_as :: [has_number_of_constraining_properties.internal](/_internal/schema-org/Property/has_number_of/has_number_of_constraining_properties.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_number_of/has_number_of_constraining_properties.internal|has_number_of_constraining_properties.internal]] 
 
-### #is_/same_as :: [has_number_of_constraining_properties.protect](/_protect/schema-org/Property/has_number_of/has_number_of_constraining_properties.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_number_of/has_number_of_constraining_properties.protect|has_number_of_constraining_properties.protect]] 
 
-### #is_/same_as :: [has_number_of_constraining_properties.private](/_private/schema-org/Property/has_number_of/has_number_of_constraining_properties.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/has_number_of/has_number_of_constraining_properties.private|has_number_of_constraining_properties.private]] 
 
-### #is_/same_as :: [has_number_of_constraining_properties.personal](/_personal/schema-org/Property/has_number_of/has_number_of_constraining_properties.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_number_of/has_number_of_constraining_properties.personal|has_number_of_constraining_properties.personal]] 
 
-### #is_/same_as :: [has_number_of_constraining_properties.secret](/_secret/schema-org/Property/has_number_of/has_number_of_constraining_properties.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/has_number_of/has_number_of_constraining_properties.secret|has_number_of_constraining_properties.secret]] 
 

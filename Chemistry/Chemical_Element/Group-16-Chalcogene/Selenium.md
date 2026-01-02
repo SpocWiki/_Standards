@@ -124,17 +124,17 @@ ZVG_number: 7340
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Selenium](/_Standards/Chemistry/Chemical_Element/Group-16-Chalcogene/Selenium.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Chemical_Element/Group-16-Chalcogene/Selenium|Selenium]] 
 
-### #is_/same_as :: [Selenium.public](/_public/Chemistry/Chemical_Element/Group-16-Chalcogene/Selenium.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Chemical_Element/Group-16-Chalcogene/Selenium.public|Selenium.public]] 
 
-### #is_/same_as :: [Selenium.internal](/_internal/Chemistry/Chemical_Element/Group-16-Chalcogene/Selenium.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Chemical_Element/Group-16-Chalcogene/Selenium.internal|Selenium.internal]] 
 
-### #is_/same_as :: [Selenium.protect](/_protect/Chemistry/Chemical_Element/Group-16-Chalcogene/Selenium.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Chemical_Element/Group-16-Chalcogene/Selenium.protect|Selenium.protect]] 
 
-### #is_/same_as :: [Selenium.private](/_private/Chemistry/Chemical_Element/Group-16-Chalcogene/Selenium.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Chemical_Element/Group-16-Chalcogene/Selenium.private|Selenium.private]] 
 
-### #is_/same_as :: [Selenium.personal](/_personal/Chemistry/Chemical_Element/Group-16-Chalcogene/Selenium.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Chemical_Element/Group-16-Chalcogene/Selenium.personal|Selenium.personal]] 
 
-### #is_/same_as :: [Selenium.secret](/_secret/Chemistry/Chemical_Element/Group-16-Chalcogene/Selenium.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Chemical_Element/Group-16-Chalcogene/Selenium.secret|Selenium.secret]] 
 

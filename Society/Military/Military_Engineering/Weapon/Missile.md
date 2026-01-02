@@ -65,17 +65,17 @@ Krugosvet_article_archived_:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Missile](/_Standards/Society/Military/Military_Engineering/Weapon/Missile.md) 
+### #is_/same_as :: [[/_Standards/Society/Military/Military_Engineering/Weapon/Missile|Missile]] 
 
-### #is_/same_as :: [Missile.public](/_public/Society/Military/Military_Engineering/Weapon/Missile.public.md) 
+### #is_/same_as :: [[/_public/Society/Military/Military_Engineering/Weapon/Missile.public|Missile.public]] 
 
-### #is_/same_as :: [Missile.internal](/_internal/Society/Military/Military_Engineering/Weapon/Missile.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Military/Military_Engineering/Weapon/Missile.internal|Missile.internal]] 
 
-### #is_/same_as :: [Missile.protect](/_protect/Society/Military/Military_Engineering/Weapon/Missile.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Military/Military_Engineering/Weapon/Missile.protect|Missile.protect]] 
 
-### #is_/same_as :: [Missile.private](/_private/Society/Military/Military_Engineering/Weapon/Missile.private.md) 
+### #is_/same_as :: [[/_private/Society/Military/Military_Engineering/Weapon/Missile.private|Missile.private]] 
 
-### #is_/same_as :: [Missile.personal](/_personal/Society/Military/Military_Engineering/Weapon/Missile.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Military/Military_Engineering/Weapon/Missile.personal|Missile.personal]] 
 
-### #is_/same_as :: [Missile.secret](/_secret/Society/Military/Military_Engineering/Weapon/Missile.secret.md)
+### #is_/same_as :: [[/_secret/Society/Military/Military_Engineering/Weapon/Missile.secret|Missile.secret]] 
 

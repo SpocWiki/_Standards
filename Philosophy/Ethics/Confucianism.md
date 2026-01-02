@@ -80,17 +80,17 @@ OpenStreetMap_tag_or_key: Tag:religion=confucian
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Confucianism](/_Standards/Philosophy/Ethics/Confucianism.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Ethics/Confucianism|Confucianism]] 
 
-### #is_/same_as :: [Confucianism.public](/_public/Philosophy/Ethics/Confucianism.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Ethics/Confucianism.public|Confucianism.public]] 
 
-### #is_/same_as :: [Confucianism.internal](/_internal/Philosophy/Ethics/Confucianism.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Ethics/Confucianism.internal|Confucianism.internal]] 
 
-### #is_/same_as :: [Confucianism.protect](/_protect/Philosophy/Ethics/Confucianism.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Ethics/Confucianism.protect|Confucianism.protect]] 
 
-### #is_/same_as :: [Confucianism.private](/_private/Philosophy/Ethics/Confucianism.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Ethics/Confucianism.private|Confucianism.private]] 
 
-### #is_/same_as :: [Confucianism.personal](/_personal/Philosophy/Ethics/Confucianism.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Ethics/Confucianism.personal|Confucianism.personal]] 
 
-### #is_/same_as :: [Confucianism.secret](/_secret/Philosophy/Ethics/Confucianism.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Ethics/Confucianism.secret|Confucianism.secret]] 
 

@@ -78,17 +78,17 @@ Commons_category: Physiologists
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Physiologist](/_Standards/bio/Physiology/Physiologist.md) 
+### #is_/same_as :: [[/_Standards/bio/Physiology/Physiologist|Physiologist]] 
 
-### #is_/same_as :: [Physiologist.public](/_public/bio/Physiology/Physiologist.public.md) 
+### #is_/same_as :: [[/_public/bio/Physiology/Physiologist.public|Physiologist.public]] 
 
-### #is_/same_as :: [Physiologist.internal](/_internal/bio/Physiology/Physiologist.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Physiology/Physiologist.internal|Physiologist.internal]] 
 
-### #is_/same_as :: [Physiologist.protect](/_protect/bio/Physiology/Physiologist.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Physiology/Physiologist.protect|Physiologist.protect]] 
 
-### #is_/same_as :: [Physiologist.private](/_private/bio/Physiology/Physiologist.private.md) 
+### #is_/same_as :: [[/_private/bio/Physiology/Physiologist.private|Physiologist.private]] 
 
-### #is_/same_as :: [Physiologist.personal](/_personal/bio/Physiology/Physiologist.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Physiology/Physiologist.personal|Physiologist.personal]] 
 
-### #is_/same_as :: [Physiologist.secret](/_secret/bio/Physiology/Physiologist.secret.md)
+### #is_/same_as :: [[/_secret/bio/Physiology/Physiologist.secret|Physiologist.secret]] 
 

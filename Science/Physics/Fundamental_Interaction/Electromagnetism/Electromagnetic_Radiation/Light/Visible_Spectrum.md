@@ -38,17 +38,17 @@ Stack_Exchange_tag: https://physics.stackexchange.com/tags/visible-light
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Visible_Spectrum](/_Standards/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Light/Visible_Spectrum.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Light/Visible_Spectrum|Visible_Spectrum]] 
 
-### #is_/same_as :: [Visible_Spectrum.public](/_public/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Light/Visible_Spectrum.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Light/Visible_Spectrum.public|Visible_Spectrum.public]] 
 
-### #is_/same_as :: [Visible_Spectrum.internal](/_internal/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Light/Visible_Spectrum.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Light/Visible_Spectrum.internal|Visible_Spectrum.internal]] 
 
-### #is_/same_as :: [Visible_Spectrum.protect](/_protect/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Light/Visible_Spectrum.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Light/Visible_Spectrum.protect|Visible_Spectrum.protect]] 
 
-### #is_/same_as :: [Visible_Spectrum.private](/_private/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Light/Visible_Spectrum.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Light/Visible_Spectrum.private|Visible_Spectrum.private]] 
 
-### #is_/same_as :: [Visible_Spectrum.personal](/_personal/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Light/Visible_Spectrum.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Light/Visible_Spectrum.personal|Visible_Spectrum.personal]] 
 
-### #is_/same_as :: [Visible_Spectrum.secret](/_secret/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Light/Visible_Spectrum.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Light/Visible_Spectrum.secret|Visible_Spectrum.secret]] 
 

@@ -43,17 +43,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_number_of_employees](/_Standards/schema-org/Property/has_number_of/has_number_of_employees.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_number_of/has_number_of_employees|has_number_of_employees]] 
 
-### #is_/same_as :: [has_number_of_employees.public](/_public/schema-org/Property/has_number_of/has_number_of_employees.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/has_number_of/has_number_of_employees.public|has_number_of_employees.public]] 
 
-### #is_/same_as :: [has_number_of_employees.internal](/_internal/schema-org/Property/has_number_of/has_number_of_employees.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_number_of/has_number_of_employees.internal|has_number_of_employees.internal]] 
 
-### #is_/same_as :: [has_number_of_employees.protect](/_protect/schema-org/Property/has_number_of/has_number_of_employees.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_number_of/has_number_of_employees.protect|has_number_of_employees.protect]] 
 
-### #is_/same_as :: [has_number_of_employees.private](/_private/schema-org/Property/has_number_of/has_number_of_employees.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/has_number_of/has_number_of_employees.private|has_number_of_employees.private]] 
 
-### #is_/same_as :: [has_number_of_employees.personal](/_personal/schema-org/Property/has_number_of/has_number_of_employees.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_number_of/has_number_of_employees.personal|has_number_of_employees.personal]] 
 
-### #is_/same_as :: [has_number_of_employees.secret](/_secret/schema-org/Property/has_number_of/has_number_of_employees.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/has_number_of/has_number_of_employees.secret|has_number_of_employees.secret]] 
 

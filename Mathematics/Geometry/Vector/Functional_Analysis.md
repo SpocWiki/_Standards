@@ -64,17 +64,17 @@ Commons_category: Functional analysis
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Functional_Analysis](/_Standards/Mathematics/Geometry/Vector/Functional_Analysis.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Geometry/Vector/Functional_Analysis|Functional_Analysis]] 
 
-### #is_/same_as :: [Functional_Analysis.public](/_public/Mathematics/Geometry/Vector/Functional_Analysis.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Geometry/Vector/Functional_Analysis.public|Functional_Analysis.public]] 
 
-### #is_/same_as :: [Functional_Analysis.internal](/_internal/Mathematics/Geometry/Vector/Functional_Analysis.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Geometry/Vector/Functional_Analysis.internal|Functional_Analysis.internal]] 
 
-### #is_/same_as :: [Functional_Analysis.protect](/_protect/Mathematics/Geometry/Vector/Functional_Analysis.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Geometry/Vector/Functional_Analysis.protect|Functional_Analysis.protect]] 
 
-### #is_/same_as :: [Functional_Analysis.private](/_private/Mathematics/Geometry/Vector/Functional_Analysis.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Geometry/Vector/Functional_Analysis.private|Functional_Analysis.private]] 
 
-### #is_/same_as :: [Functional_Analysis.personal](/_personal/Mathematics/Geometry/Vector/Functional_Analysis.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Geometry/Vector/Functional_Analysis.personal|Functional_Analysis.personal]] 
 
-### #is_/same_as :: [Functional_Analysis.secret](/_secret/Mathematics/Geometry/Vector/Functional_Analysis.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Geometry/Vector/Functional_Analysis.secret|Functional_Analysis.secret]] 
 

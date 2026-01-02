@@ -66,17 +66,17 @@ Dewey_Decimal_Classification:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sundial](/_Standards/Technology/Tool/Instrumentation/Sundial.md) 
+### #is_/same_as :: [[/_Standards/Technology/Tool/Instrumentation/Sundial|Sundial]] 
 
-### #is_/same_as :: [Sundial.public](/_public/Technology/Tool/Instrumentation/Sundial.public.md) 
+### #is_/same_as :: [[/_public/Technology/Tool/Instrumentation/Sundial.public|Sundial.public]] 
 
-### #is_/same_as :: [Sundial.internal](/_internal/Technology/Tool/Instrumentation/Sundial.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Tool/Instrumentation/Sundial.internal|Sundial.internal]] 
 
-### #is_/same_as :: [Sundial.protect](/_protect/Technology/Tool/Instrumentation/Sundial.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Tool/Instrumentation/Sundial.protect|Sundial.protect]] 
 
-### #is_/same_as :: [Sundial.private](/_private/Technology/Tool/Instrumentation/Sundial.private.md) 
+### #is_/same_as :: [[/_private/Technology/Tool/Instrumentation/Sundial.private|Sundial.private]] 
 
-### #is_/same_as :: [Sundial.personal](/_personal/Technology/Tool/Instrumentation/Sundial.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Tool/Instrumentation/Sundial.personal|Sundial.personal]] 
 
-### #is_/same_as :: [Sundial.secret](/_secret/Technology/Tool/Instrumentation/Sundial.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Tool/Instrumentation/Sundial.secret|Sundial.secret]] 
 

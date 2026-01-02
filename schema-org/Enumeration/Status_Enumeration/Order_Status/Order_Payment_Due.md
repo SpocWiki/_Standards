@@ -42,17 +42,17 @@ OrderStatus representing that payment is due on an order.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Order_Payment_Due](/_Standards/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Payment_Due.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Payment_Due|Order_Payment_Due]] 
 
-### #is_/same_as :: [Order_Payment_Due.public](/_public/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Payment_Due.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Payment_Due.public|Order_Payment_Due.public]] 
 
-### #is_/same_as :: [Order_Payment_Due.internal](/_internal/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Payment_Due.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Payment_Due.internal|Order_Payment_Due.internal]] 
 
-### #is_/same_as :: [Order_Payment_Due.protect](/_protect/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Payment_Due.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Payment_Due.protect|Order_Payment_Due.protect]] 
 
-### #is_/same_as :: [Order_Payment_Due.private](/_private/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Payment_Due.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Payment_Due.private|Order_Payment_Due.private]] 
 
-### #is_/same_as :: [Order_Payment_Due.personal](/_personal/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Payment_Due.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Payment_Due.personal|Order_Payment_Due.personal]] 
 
-### #is_/same_as :: [Order_Payment_Due.secret](/_secret/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Payment_Due.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Payment_Due.secret|Order_Payment_Due.secret]] 
 

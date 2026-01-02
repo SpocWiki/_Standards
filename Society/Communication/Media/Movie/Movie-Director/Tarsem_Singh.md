@@ -26,17 +26,17 @@ Tarsem's feature film directorial debut was _[The Cell](https://en.wikipedia.or
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Tarsem_Singh](/_Standards/Society/Communication/Media/Movie/Movie-Director/Tarsem_Singh.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Director/Tarsem_Singh|Tarsem_Singh]] 
 
-### #is_/same_as :: [Tarsem_Singh.public](/_public/Society/Communication/Media/Movie/Movie-Director/Tarsem_Singh.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Director/Tarsem_Singh.public|Tarsem_Singh.public]] 
 
-### #is_/same_as :: [Tarsem_Singh.internal](/_internal/Society/Communication/Media/Movie/Movie-Director/Tarsem_Singh.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Director/Tarsem_Singh.internal|Tarsem_Singh.internal]] 
 
-### #is_/same_as :: [Tarsem_Singh.protect](/_protect/Society/Communication/Media/Movie/Movie-Director/Tarsem_Singh.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Director/Tarsem_Singh.protect|Tarsem_Singh.protect]] 
 
-### #is_/same_as :: [Tarsem_Singh.private](/_private/Society/Communication/Media/Movie/Movie-Director/Tarsem_Singh.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Director/Tarsem_Singh.private|Tarsem_Singh.private]] 
 
-### #is_/same_as :: [Tarsem_Singh.personal](/_personal/Society/Communication/Media/Movie/Movie-Director/Tarsem_Singh.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Director/Tarsem_Singh.personal|Tarsem_Singh.personal]] 
 
-### #is_/same_as :: [Tarsem_Singh.secret](/_secret/Society/Communication/Media/Movie/Movie-Director/Tarsem_Singh.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Director/Tarsem_Singh.secret|Tarsem_Singh.secret]] 
 

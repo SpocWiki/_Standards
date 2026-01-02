@@ -57,17 +57,17 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Doncker%20sea%20atlas%
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Age_of_Discovery](/_Standards/Earth/Explorer/Age_of_Discovery.md) 
+### #is_/same_as :: [[/_Standards/Earth/Explorer/Age_of_Discovery|Age_of_Discovery]] 
 
-### #is_/same_as :: [Age_of_Discovery.public](/_public/Earth/Explorer/Age_of_Discovery.public.md) 
+### #is_/same_as :: [[/_public/Earth/Explorer/Age_of_Discovery.public|Age_of_Discovery.public]] 
 
-### #is_/same_as :: [Age_of_Discovery.internal](/_internal/Earth/Explorer/Age_of_Discovery.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Explorer/Age_of_Discovery.internal|Age_of_Discovery.internal]] 
 
-### #is_/same_as :: [Age_of_Discovery.protect](/_protect/Earth/Explorer/Age_of_Discovery.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Explorer/Age_of_Discovery.protect|Age_of_Discovery.protect]] 
 
-### #is_/same_as :: [Age_of_Discovery.private](/_private/Earth/Explorer/Age_of_Discovery.private.md) 
+### #is_/same_as :: [[/_private/Earth/Explorer/Age_of_Discovery.private|Age_of_Discovery.private]] 
 
-### #is_/same_as :: [Age_of_Discovery.personal](/_personal/Earth/Explorer/Age_of_Discovery.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Explorer/Age_of_Discovery.personal|Age_of_Discovery.personal]] 
 
-### #is_/same_as :: [Age_of_Discovery.secret](/_secret/Earth/Explorer/Age_of_Discovery.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Explorer/Age_of_Discovery.secret|Age_of_Discovery.secret]] 
 

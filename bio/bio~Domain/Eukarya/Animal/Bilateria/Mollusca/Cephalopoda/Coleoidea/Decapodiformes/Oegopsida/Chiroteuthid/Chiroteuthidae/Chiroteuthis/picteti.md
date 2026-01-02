@@ -35,7 +35,7 @@ title: Chiroteuthis picteti
 
 [Clyde F. E. Roper and Richard E. Young]()
 
-![ ](picteti/Cpicteti1.jpg)![ ](picteti/Cpicteti.jpg))
+![ ](picteti/Cpicteti1.jpg)![ ](picteti/Cpicteti.jpg) 
 
 The holotype is deposited in the Oceanographic Museum of Monaco.
 
@@ -170,14 +170,14 @@ waters. Bull. Mar. Sci., 49: 162-185.
 
 ## Title Illustrations
 
-![](picteti/Cpicteti1.jpg))
+![](picteti/Cpicteti1.jpg) 
 
   -----------
   Scientific Name ::   Chiroteuthis picteti
   Location ::         Hawaii
   Life Cycle Stage ::   young subadult
   -----------
-![](picteti/Cpicteti.jpg))
+![](picteti/Cpicteti.jpg) 
 
   ----------
   Scientific Name ::  Chiroteuthis picteti
@@ -188,17 +188,17 @@ waters. Bull. Mar. Sci., 49: 162-185.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [picteti](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Chiroteuthidae/Chiroteuthis/picteti.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Chiroteuthidae/Chiroteuthis/picteti|picteti]] 
 
-### #is_/same_as :: [picteti.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Chiroteuthidae/Chiroteuthis/picteti.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Chiroteuthidae/Chiroteuthis/picteti.public|picteti.public]] 
 
-### #is_/same_as :: [picteti.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Chiroteuthidae/Chiroteuthis/picteti.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Chiroteuthidae/Chiroteuthis/picteti.internal|picteti.internal]] 
 
-### #is_/same_as :: [picteti.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Chiroteuthidae/Chiroteuthis/picteti.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Chiroteuthidae/Chiroteuthis/picteti.protect|picteti.protect]] 
 
-### #is_/same_as :: [picteti.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Chiroteuthidae/Chiroteuthis/picteti.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Chiroteuthidae/Chiroteuthis/picteti.private|picteti.private]] 
 
-### #is_/same_as :: [picteti.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Chiroteuthidae/Chiroteuthis/picteti.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Chiroteuthidae/Chiroteuthis/picteti.personal|picteti.personal]] 
 
-### #is_/same_as :: [picteti.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Chiroteuthidae/Chiroteuthis/picteti.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Chiroteuthidae/Chiroteuthis/picteti.secret|picteti.secret]] 
 

@@ -47,17 +47,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_number_of_doors](/_Standards/schema-org/Property/has_number_of/has_number_of_doors.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_number_of/has_number_of_doors|has_number_of_doors]] 
 
-### #is_/same_as :: [has_number_of_doors.public](/_public/schema-org/Property/has_number_of/has_number_of_doors.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/has_number_of/has_number_of_doors.public|has_number_of_doors.public]] 
 
-### #is_/same_as :: [has_number_of_doors.internal](/_internal/schema-org/Property/has_number_of/has_number_of_doors.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_number_of/has_number_of_doors.internal|has_number_of_doors.internal]] 
 
-### #is_/same_as :: [has_number_of_doors.protect](/_protect/schema-org/Property/has_number_of/has_number_of_doors.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_number_of/has_number_of_doors.protect|has_number_of_doors.protect]] 
 
-### #is_/same_as :: [has_number_of_doors.private](/_private/schema-org/Property/has_number_of/has_number_of_doors.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/has_number_of/has_number_of_doors.private|has_number_of_doors.private]] 
 
-### #is_/same_as :: [has_number_of_doors.personal](/_personal/schema-org/Property/has_number_of/has_number_of_doors.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_number_of/has_number_of_doors.personal|has_number_of_doors.personal]] 
 
-### #is_/same_as :: [has_number_of_doors.secret](/_secret/schema-org/Property/has_number_of/has_number_of_doors.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/has_number_of/has_number_of_doors.secret|has_number_of_doors.secret]] 
 

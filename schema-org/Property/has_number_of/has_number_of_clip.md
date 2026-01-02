@@ -45,17 +45,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_number_of_clip](/_Standards/schema-org/Property/has_number_of/has_number_of_clip.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_number_of/has_number_of_clip|has_number_of_clip]] 
 
-### #is_/same_as :: [has_number_of_clip.public](/_public/schema-org/Property/has_number_of/has_number_of_clip.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/has_number_of/has_number_of_clip.public|has_number_of_clip.public]] 
 
-### #is_/same_as :: [has_number_of_clip.internal](/_internal/schema-org/Property/has_number_of/has_number_of_clip.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_number_of/has_number_of_clip.internal|has_number_of_clip.internal]] 
 
-### #is_/same_as :: [has_number_of_clip.protect](/_protect/schema-org/Property/has_number_of/has_number_of_clip.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_number_of/has_number_of_clip.protect|has_number_of_clip.protect]] 
 
-### #is_/same_as :: [has_number_of_clip.private](/_private/schema-org/Property/has_number_of/has_number_of_clip.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/has_number_of/has_number_of_clip.private|has_number_of_clip.private]] 
 
-### #is_/same_as :: [has_number_of_clip.personal](/_personal/schema-org/Property/has_number_of/has_number_of_clip.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_number_of/has_number_of_clip.personal|has_number_of_clip.personal]] 
 
-### #is_/same_as :: [has_number_of_clip.secret](/_secret/schema-org/Property/has_number_of/has_number_of_clip.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/has_number_of/has_number_of_clip.secret|has_number_of_clip.secret]] 
 

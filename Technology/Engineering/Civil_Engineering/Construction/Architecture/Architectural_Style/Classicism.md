@@ -38,17 +38,17 @@ start_time: 1660-01-01T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Classicism](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Style/Classicism.md) 
+### #is_/same_as :: [[/_Standards/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Style/Classicism|Classicism]] 
 
-### #is_/same_as :: [Classicism.public](/_public/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Style/Classicism.public.md) 
+### #is_/same_as :: [[/_public/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Style/Classicism.public|Classicism.public]] 
 
-### #is_/same_as :: [Classicism.internal](/_internal/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Style/Classicism.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Style/Classicism.internal|Classicism.internal]] 
 
-### #is_/same_as :: [Classicism.protect](/_protect/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Style/Classicism.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Style/Classicism.protect|Classicism.protect]] 
 
-### #is_/same_as :: [Classicism.private](/_private/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Style/Classicism.private.md) 
+### #is_/same_as :: [[/_private/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Style/Classicism.private|Classicism.private]] 
 
-### #is_/same_as :: [Classicism.personal](/_personal/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Style/Classicism.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Style/Classicism.personal|Classicism.personal]] 
 
-### #is_/same_as :: [Classicism.secret](/_secret/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Style/Classicism.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Style/Classicism.secret|Classicism.secret]] 
 

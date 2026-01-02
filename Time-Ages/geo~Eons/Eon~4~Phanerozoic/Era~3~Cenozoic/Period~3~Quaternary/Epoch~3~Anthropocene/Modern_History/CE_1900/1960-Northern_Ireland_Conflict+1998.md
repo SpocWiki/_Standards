@@ -115,17 +115,17 @@ Commons_category: Northern Ireland Troubles
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [1960-Northern_Ireland_Conflict+1998](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1960-Northern_Ireland_Conflict+1998.md) 
+### #is_/same_as :: [[/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1960-Northern_Ireland_Conflict+1998|1960-Northern_Ireland_Conflict+1998]] 
 
-### #is_/same_as :: [1960-Northern_Ireland_Conflict+1998.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1960-Northern_Ireland_Conflict+1998.public.md) 
+### #is_/same_as :: [[/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1960-Northern_Ireland_Conflict+1998.public|1960-Northern_Ireland_Conflict+1998.public]] 
 
-### #is_/same_as :: [1960-Northern_Ireland_Conflict+1998.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1960-Northern_Ireland_Conflict+1998.internal.md) 
+### #is_/same_as :: [[/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1960-Northern_Ireland_Conflict+1998.internal|1960-Northern_Ireland_Conflict+1998.internal]] 
 
-### #is_/same_as :: [1960-Northern_Ireland_Conflict+1998.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1960-Northern_Ireland_Conflict+1998.protect.md) 
+### #is_/same_as :: [[/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1960-Northern_Ireland_Conflict+1998.protect|1960-Northern_Ireland_Conflict+1998.protect]] 
 
-### #is_/same_as :: [1960-Northern_Ireland_Conflict+1998.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1960-Northern_Ireland_Conflict+1998.private.md) 
+### #is_/same_as :: [[/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1960-Northern_Ireland_Conflict+1998.private|1960-Northern_Ireland_Conflict+1998.private]] 
 
-### #is_/same_as :: [1960-Northern_Ireland_Conflict+1998.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1960-Northern_Ireland_Conflict+1998.personal.md) 
+### #is_/same_as :: [[/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1960-Northern_Ireland_Conflict+1998.personal|1960-Northern_Ireland_Conflict+1998.personal]] 
 
-### #is_/same_as :: [1960-Northern_Ireland_Conflict+1998.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1960-Northern_Ireland_Conflict+1998.secret.md)
+### #is_/same_as :: [[/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1960-Northern_Ireland_Conflict+1998.secret|1960-Northern_Ireland_Conflict+1998.secret]] 
 

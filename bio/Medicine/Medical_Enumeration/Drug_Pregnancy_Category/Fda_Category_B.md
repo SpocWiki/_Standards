@@ -42,17 +42,17 @@ A designation by the US FDA signifying that animal reproduction studies have fai
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Fda_Category_B](/_Standards/bio/Medicine/Medical_Enumeration/Drug_Pregnancy_Category/Fda_Category_B.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Enumeration/Drug_Pregnancy_Category/Fda_Category_B|Fda_Category_B]] 
 
-### #is_/same_as :: [Fda_Category_B.public](/_public/bio/Medicine/Medical_Enumeration/Drug_Pregnancy_Category/Fda_Category_B.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Enumeration/Drug_Pregnancy_Category/Fda_Category_B.public|Fda_Category_B.public]] 
 
-### #is_/same_as :: [Fda_Category_B.internal](/_internal/bio/Medicine/Medical_Enumeration/Drug_Pregnancy_Category/Fda_Category_B.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Enumeration/Drug_Pregnancy_Category/Fda_Category_B.internal|Fda_Category_B.internal]] 
 
-### #is_/same_as :: [Fda_Category_B.protect](/_protect/bio/Medicine/Medical_Enumeration/Drug_Pregnancy_Category/Fda_Category_B.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Enumeration/Drug_Pregnancy_Category/Fda_Category_B.protect|Fda_Category_B.protect]] 
 
-### #is_/same_as :: [Fda_Category_B.private](/_private/bio/Medicine/Medical_Enumeration/Drug_Pregnancy_Category/Fda_Category_B.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Enumeration/Drug_Pregnancy_Category/Fda_Category_B.private|Fda_Category_B.private]] 
 
-### #is_/same_as :: [Fda_Category_B.personal](/_personal/bio/Medicine/Medical_Enumeration/Drug_Pregnancy_Category/Fda_Category_B.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Enumeration/Drug_Pregnancy_Category/Fda_Category_B.personal|Fda_Category_B.personal]] 
 
-### #is_/same_as :: [Fda_Category_B.secret](/_secret/bio/Medicine/Medical_Enumeration/Drug_Pregnancy_Category/Fda_Category_B.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Enumeration/Drug_Pregnancy_Category/Fda_Category_B.secret|Fda_Category_B.secret]] 
 

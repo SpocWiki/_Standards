@@ -28,7 +28,7 @@ title: Sepiadariidae
 
 [Richard E. Young]()
 
-![ ](Sepiadariidae/SepLineolata.jpg)![ ](Sepiadariidae/Sepiadar.jpg))
+![ ](Sepiadariidae/SepLineolata.jpg)![ ](Sepiadariidae/Sepiadar.jpg) 
 
 This family has two genera with the following seven species:
 
@@ -94,14 +94,14 @@ No. 513: 1-282.
 
 ## Title Illustrations
 
-![](Sepiadariidae/SepLineolata.jpg))
+![](Sepiadariidae/SepLineolata.jpg) 
 
   -----------
   Scientific Name ::  Sepioloidea lineolata
   Location ::        off south Australia
   Copyright ::         © 1998 Mark Norman
   -----------
-![](Sepiadariidae/Sepiadar.jpg))
+![](Sepiadariidae/Sepiadar.jpg) 
 
   -----------
   Scientific Name ::  Sepiadarium austrinum
@@ -111,17 +111,17 @@ No. 513: 1-282.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sepiadariidae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Sepioidea/Sepiolida/Sepiadariidae.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Sepioidea/Sepiolida/Sepiadariidae|Sepiadariidae]] 
 
-### #is_/same_as :: [Sepiadariidae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Sepioidea/Sepiolida/Sepiadariidae.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Sepioidea/Sepiolida/Sepiadariidae.public|Sepiadariidae.public]] 
 
-### #is_/same_as :: [Sepiadariidae.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Sepioidea/Sepiolida/Sepiadariidae.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Sepioidea/Sepiolida/Sepiadariidae.internal|Sepiadariidae.internal]] 
 
-### #is_/same_as :: [Sepiadariidae.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Sepioidea/Sepiolida/Sepiadariidae.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Sepioidea/Sepiolida/Sepiadariidae.protect|Sepiadariidae.protect]] 
 
-### #is_/same_as :: [Sepiadariidae.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Sepioidea/Sepiolida/Sepiadariidae.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Sepioidea/Sepiolida/Sepiadariidae.private|Sepiadariidae.private]] 
 
-### #is_/same_as :: [Sepiadariidae.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Sepioidea/Sepiolida/Sepiadariidae.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Sepioidea/Sepiolida/Sepiadariidae.personal|Sepiadariidae.personal]] 
 
-### #is_/same_as :: [Sepiadariidae.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Sepioidea/Sepiolida/Sepiadariidae.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Sepioidea/Sepiolida/Sepiadariidae.secret|Sepiadariidae.secret]] 
 

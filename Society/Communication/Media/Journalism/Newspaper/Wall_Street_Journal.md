@@ -109,17 +109,17 @@ Z39_5_abbreviation: Wall St J East Ed
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Wall_Street_Journal](/_Standards/Society/Communication/Media/Journalism/Newspaper/Wall_Street_Journal.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Journalism/Newspaper/Wall_Street_Journal|Wall_Street_Journal]] 
 
-### #is_/same_as :: [Wall_Street_Journal.public](/_public/Society/Communication/Media/Journalism/Newspaper/Wall_Street_Journal.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Journalism/Newspaper/Wall_Street_Journal.public|Wall_Street_Journal.public]] 
 
-### #is_/same_as :: [Wall_Street_Journal.internal](/_internal/Society/Communication/Media/Journalism/Newspaper/Wall_Street_Journal.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Journalism/Newspaper/Wall_Street_Journal.internal|Wall_Street_Journal.internal]] 
 
-### #is_/same_as :: [Wall_Street_Journal.protect](/_protect/Society/Communication/Media/Journalism/Newspaper/Wall_Street_Journal.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Journalism/Newspaper/Wall_Street_Journal.protect|Wall_Street_Journal.protect]] 
 
-### #is_/same_as :: [Wall_Street_Journal.private](/_private/Society/Communication/Media/Journalism/Newspaper/Wall_Street_Journal.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Journalism/Newspaper/Wall_Street_Journal.private|Wall_Street_Journal.private]] 
 
-### #is_/same_as :: [Wall_Street_Journal.personal](/_personal/Society/Communication/Media/Journalism/Newspaper/Wall_Street_Journal.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Journalism/Newspaper/Wall_Street_Journal.personal|Wall_Street_Journal.personal]] 
 
-### #is_/same_as :: [Wall_Street_Journal.secret](/_secret/Society/Communication/Media/Journalism/Newspaper/Wall_Street_Journal.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Journalism/Newspaper/Wall_Street_Journal.secret|Wall_Street_Journal.secret]] 
 

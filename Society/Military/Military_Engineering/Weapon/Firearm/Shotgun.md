@@ -55,17 +55,17 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Repeterhagelgev%C3%A4r
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Shotgun](/_Standards/Society/Military/Military_Engineering/Weapon/Firearm/Shotgun.md) 
+### #is_/same_as :: [[/_Standards/Society/Military/Military_Engineering/Weapon/Firearm/Shotgun|Shotgun]] 
 
-### #is_/same_as :: [Shotgun.public](/_public/Society/Military/Military_Engineering/Weapon/Firearm/Shotgun.public.md) 
+### #is_/same_as :: [[/_public/Society/Military/Military_Engineering/Weapon/Firearm/Shotgun.public|Shotgun.public]] 
 
-### #is_/same_as :: [Shotgun.internal](/_internal/Society/Military/Military_Engineering/Weapon/Firearm/Shotgun.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Military/Military_Engineering/Weapon/Firearm/Shotgun.internal|Shotgun.internal]] 
 
-### #is_/same_as :: [Shotgun.protect](/_protect/Society/Military/Military_Engineering/Weapon/Firearm/Shotgun.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Military/Military_Engineering/Weapon/Firearm/Shotgun.protect|Shotgun.protect]] 
 
-### #is_/same_as :: [Shotgun.private](/_private/Society/Military/Military_Engineering/Weapon/Firearm/Shotgun.private.md) 
+### #is_/same_as :: [[/_private/Society/Military/Military_Engineering/Weapon/Firearm/Shotgun.private|Shotgun.private]] 
 
-### #is_/same_as :: [Shotgun.personal](/_personal/Society/Military/Military_Engineering/Weapon/Firearm/Shotgun.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Military/Military_Engineering/Weapon/Firearm/Shotgun.personal|Shotgun.personal]] 
 
-### #is_/same_as :: [Shotgun.secret](/_secret/Society/Military/Military_Engineering/Weapon/Firearm/Shotgun.secret.md)
+### #is_/same_as :: [[/_secret/Society/Military/Military_Engineering/Weapon/Firearm/Shotgun.secret|Shotgun.secret]] 
 

@@ -90,17 +90,17 @@ Neutral fermions (like neutrinos) are **not** described by QED, as they lack ele
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [QED(Quantum_Electrodynamics)](/_Standards/Science/Physics/Quantum_Mechanics/Standard_Model/Fermion/QED(Quantum_Electrodynamics).md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Quantum_Mechanics/Standard_Model/Fermion/QED(Quantum_Electrodynamics)|QED(Quantum_Electrodynamics)]] 
 
-### #is_/same_as :: [QED(Quantum_Electrodynamics).public](/_public/Science/Physics/Quantum_Mechanics/Standard_Model/Fermion/QED(Quantum_Electrodynamics).public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Quantum_Mechanics/Standard_Model/Fermion/QED(Quantum_Electrodynamics).public|QED(Quantum_Electrodynamics).public]] 
 
-### #is_/same_as :: [QED(Quantum_Electrodynamics).internal](/_internal/Science/Physics/Quantum_Mechanics/Standard_Model/Fermion/QED(Quantum_Electrodynamics).internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Quantum_Mechanics/Standard_Model/Fermion/QED(Quantum_Electrodynamics).internal|QED(Quantum_Electrodynamics).internal]] 
 
-### #is_/same_as :: [QED(Quantum_Electrodynamics).protect](/_protect/Science/Physics/Quantum_Mechanics/Standard_Model/Fermion/QED(Quantum_Electrodynamics).protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Quantum_Mechanics/Standard_Model/Fermion/QED(Quantum_Electrodynamics).protect|QED(Quantum_Electrodynamics).protect]] 
 
-### #is_/same_as :: [QED(Quantum_Electrodynamics).private](/_private/Science/Physics/Quantum_Mechanics/Standard_Model/Fermion/QED(Quantum_Electrodynamics).private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Quantum_Mechanics/Standard_Model/Fermion/QED(Quantum_Electrodynamics).private|QED(Quantum_Electrodynamics).private]] 
 
-### #is_/same_as :: [QED(Quantum_Electrodynamics).personal](/_personal/Science/Physics/Quantum_Mechanics/Standard_Model/Fermion/QED(Quantum_Electrodynamics).personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Quantum_Mechanics/Standard_Model/Fermion/QED(Quantum_Electrodynamics).personal|QED(Quantum_Electrodynamics).personal]] 
 
-### #is_/same_as :: [QED(Quantum_Electrodynamics).secret](/_secret/Science/Physics/Quantum_Mechanics/Standard_Model/Fermion/QED(Quantum_Electrodynamics).secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Quantum_Mechanics/Standard_Model/Fermion/QED(Quantum_Electrodynamics).secret|QED(Quantum_Electrodynamics).secret]] 
 

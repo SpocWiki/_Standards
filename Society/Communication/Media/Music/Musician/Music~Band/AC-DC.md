@@ -119,17 +119,17 @@ ISNI: 000000012271298X
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [AC-DC](/_Standards/Society/Communication/Media/Music/Musician/Music~Band/AC-DC.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Musician/Music~Band/AC-DC|AC-DC]] 
 
-### #is_/same_as :: [AC-DC.public](/_public/Society/Communication/Media/Music/Musician/Music~Band/AC-DC.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Musician/Music~Band/AC-DC.public|AC-DC.public]] 
 
-### #is_/same_as :: [AC-DC.internal](/_internal/Society/Communication/Media/Music/Musician/Music~Band/AC-DC.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Musician/Music~Band/AC-DC.internal|AC-DC.internal]] 
 
-### #is_/same_as :: [AC-DC.protect](/_protect/Society/Communication/Media/Music/Musician/Music~Band/AC-DC.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Musician/Music~Band/AC-DC.protect|AC-DC.protect]] 
 
-### #is_/same_as :: [AC-DC.private](/_private/Society/Communication/Media/Music/Musician/Music~Band/AC-DC.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Musician/Music~Band/AC-DC.private|AC-DC.private]] 
 
-### #is_/same_as :: [AC-DC.personal](/_personal/Society/Communication/Media/Music/Musician/Music~Band/AC-DC.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Musician/Music~Band/AC-DC.personal|AC-DC.personal]] 
 
-### #is_/same_as :: [AC-DC.secret](/_secret/Society/Communication/Media/Music/Musician/Music~Band/AC-DC.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Musician/Music~Band/AC-DC.secret|AC-DC.secret]] 
 

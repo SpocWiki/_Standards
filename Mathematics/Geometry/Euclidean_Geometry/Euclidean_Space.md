@@ -144,17 +144,17 @@ IEV_number: 102-03-19
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Euclidean_Space](/_Standards/Mathematics/Geometry/Euclidean_Geometry/Euclidean_Space.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Geometry/Euclidean_Geometry/Euclidean_Space|Euclidean_Space]] 
 
-### #is_/same_as :: [Euclidean_Space.public](/_public/Mathematics/Geometry/Euclidean_Geometry/Euclidean_Space.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Geometry/Euclidean_Geometry/Euclidean_Space.public|Euclidean_Space.public]] 
 
-### #is_/same_as :: [Euclidean_Space.internal](/_internal/Mathematics/Geometry/Euclidean_Geometry/Euclidean_Space.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Geometry/Euclidean_Geometry/Euclidean_Space.internal|Euclidean_Space.internal]] 
 
-### #is_/same_as :: [Euclidean_Space.protect](/_protect/Mathematics/Geometry/Euclidean_Geometry/Euclidean_Space.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Geometry/Euclidean_Geometry/Euclidean_Space.protect|Euclidean_Space.protect]] 
 
-### #is_/same_as :: [Euclidean_Space.private](/_private/Mathematics/Geometry/Euclidean_Geometry/Euclidean_Space.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Geometry/Euclidean_Geometry/Euclidean_Space.private|Euclidean_Space.private]] 
 
-### #is_/same_as :: [Euclidean_Space.personal](/_personal/Mathematics/Geometry/Euclidean_Geometry/Euclidean_Space.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Geometry/Euclidean_Geometry/Euclidean_Space.personal|Euclidean_Space.personal]] 
 
-### #is_/same_as :: [Euclidean_Space.secret](/_secret/Mathematics/Geometry/Euclidean_Geometry/Euclidean_Space.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Geometry/Euclidean_Geometry/Euclidean_Space.secret|Euclidean_Space.secret]] 
 

@@ -12,17 +12,17 @@ has_id_wikidata: Q{{id}}
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [WikiData.template](/_Standards/WikiData.template.md) 
+### #is_/same_as :: [[/_Standards/WikiData.template|WikiData.template]] 
 
-### #is_/same_as :: [WikiData.template.public](/_public/WikiData.template.public.md) 
+### #is_/same_as :: [[/_public/WikiData.template.public|WikiData.template.public]] 
 
-### #is_/same_as :: [WikiData.template.internal](/_internal/WikiData.template.internal.md) 
+### #is_/same_as :: [[/_internal/WikiData.template.internal|WikiData.template.internal]] 
 
-### #is_/same_as :: [WikiData.template.protect](/_protect/WikiData.template.protect.md) 
+### #is_/same_as :: [[/_protect/WikiData.template.protect|WikiData.template.protect]] 
 
-### #is_/same_as :: [WikiData.template.private](/_private/WikiData.template.private.md) 
+### #is_/same_as :: [[/_private/WikiData.template.private|WikiData.template.private]] 
 
-### #is_/same_as :: [WikiData.template.personal](/_personal/WikiData.template.personal.md) 
+### #is_/same_as :: [[/_personal/WikiData.template.personal|WikiData.template.personal]] 
 
-### #is_/same_as :: [WikiData.template.secret](/_secret/WikiData.template.secret.md)
+### #is_/same_as :: [[/_secret/WikiData.template.secret|WikiData.template.secret]] 
 

@@ -42,17 +42,17 @@ P8189: 987007285613905171
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Choreography](/_Standards/Society/Communication/Media/Performing_Arts/Dance/Choreography.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Performing_Arts/Dance/Choreography|Choreography]] 
 
-### #is_/same_as :: [Choreography.public](/_public/Society/Communication/Media/Performing_Arts/Dance/Choreography.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Performing_Arts/Dance/Choreography.public|Choreography.public]] 
 
-### #is_/same_as :: [Choreography.internal](/_internal/Society/Communication/Media/Performing_Arts/Dance/Choreography.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Performing_Arts/Dance/Choreography.internal|Choreography.internal]] 
 
-### #is_/same_as :: [Choreography.protect](/_protect/Society/Communication/Media/Performing_Arts/Dance/Choreography.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Performing_Arts/Dance/Choreography.protect|Choreography.protect]] 
 
-### #is_/same_as :: [Choreography.private](/_private/Society/Communication/Media/Performing_Arts/Dance/Choreography.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Performing_Arts/Dance/Choreography.private|Choreography.private]] 
 
-### #is_/same_as :: [Choreography.personal](/_personal/Society/Communication/Media/Performing_Arts/Dance/Choreography.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Performing_Arts/Dance/Choreography.personal|Choreography.personal]] 
 
-### #is_/same_as :: [Choreography.secret](/_secret/Society/Communication/Media/Performing_Arts/Dance/Choreography.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Performing_Arts/Dance/Choreography.secret|Choreography.secret]] 
 

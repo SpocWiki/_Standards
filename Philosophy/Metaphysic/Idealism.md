@@ -76,17 +76,17 @@ Commons_category: Idealism
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Idealism](/_Standards/Philosophy/Metaphysic/Idealism.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Idealism|Idealism]] 
 
-### #is_/same_as :: [Idealism.public](/_public/Philosophy/Metaphysic/Idealism.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Idealism.public|Idealism.public]] 
 
-### #is_/same_as :: [Idealism.internal](/_internal/Philosophy/Metaphysic/Idealism.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Idealism.internal|Idealism.internal]] 
 
-### #is_/same_as :: [Idealism.protect](/_protect/Philosophy/Metaphysic/Idealism.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Idealism.protect|Idealism.protect]] 
 
-### #is_/same_as :: [Idealism.private](/_private/Philosophy/Metaphysic/Idealism.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Idealism.private|Idealism.private]] 
 
-### #is_/same_as :: [Idealism.personal](/_personal/Philosophy/Metaphysic/Idealism.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Idealism.personal|Idealism.personal]] 
 
-### #is_/same_as :: [Idealism.secret](/_secret/Philosophy/Metaphysic/Idealism.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Idealism.secret|Idealism.secret]] 
 

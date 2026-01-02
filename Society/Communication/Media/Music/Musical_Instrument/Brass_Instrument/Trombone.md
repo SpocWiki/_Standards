@@ -76,17 +76,17 @@ Dewey_Decimal_Classification: "788.93"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Trombone](/_Standards/Society/Communication/Media/Music/Musical_Instrument/Brass_Instrument/Trombone.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Musical_Instrument/Brass_Instrument/Trombone|Trombone]] 
 
-### #is_/same_as :: [Trombone.public](/_public/Society/Communication/Media/Music/Musical_Instrument/Brass_Instrument/Trombone.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Musical_Instrument/Brass_Instrument/Trombone.public|Trombone.public]] 
 
-### #is_/same_as :: [Trombone.internal](/_internal/Society/Communication/Media/Music/Musical_Instrument/Brass_Instrument/Trombone.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Musical_Instrument/Brass_Instrument/Trombone.internal|Trombone.internal]] 
 
-### #is_/same_as :: [Trombone.protect](/_protect/Society/Communication/Media/Music/Musical_Instrument/Brass_Instrument/Trombone.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Musical_Instrument/Brass_Instrument/Trombone.protect|Trombone.protect]] 
 
-### #is_/same_as :: [Trombone.private](/_private/Society/Communication/Media/Music/Musical_Instrument/Brass_Instrument/Trombone.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Musical_Instrument/Brass_Instrument/Trombone.private|Trombone.private]] 
 
-### #is_/same_as :: [Trombone.personal](/_personal/Society/Communication/Media/Music/Musical_Instrument/Brass_Instrument/Trombone.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Musical_Instrument/Brass_Instrument/Trombone.personal|Trombone.personal]] 
 
-### #is_/same_as :: [Trombone.secret](/_secret/Society/Communication/Media/Music/Musical_Instrument/Brass_Instrument/Trombone.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Musical_Instrument/Brass_Instrument/Trombone.secret|Trombone.secret]] 
 

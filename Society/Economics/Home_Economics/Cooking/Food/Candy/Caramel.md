@@ -22,17 +22,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Caramel](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Candy/Caramel.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Home_Economics/Cooking/Food/Candy/Caramel|Caramel]] 
 
-### #is_/same_as :: [Caramel.public](/_public/Society/Economics/Home_Economics/Cooking/Food/Candy/Caramel.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Home_Economics/Cooking/Food/Candy/Caramel.public|Caramel.public]] 
 
-### #is_/same_as :: [Caramel.internal](/_internal/Society/Economics/Home_Economics/Cooking/Food/Candy/Caramel.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Home_Economics/Cooking/Food/Candy/Caramel.internal|Caramel.internal]] 
 
-### #is_/same_as :: [Caramel.protect](/_protect/Society/Economics/Home_Economics/Cooking/Food/Candy/Caramel.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Home_Economics/Cooking/Food/Candy/Caramel.protect|Caramel.protect]] 
 
-### #is_/same_as :: [Caramel.private](/_private/Society/Economics/Home_Economics/Cooking/Food/Candy/Caramel.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Home_Economics/Cooking/Food/Candy/Caramel.private|Caramel.private]] 
 
-### #is_/same_as :: [Caramel.personal](/_personal/Society/Economics/Home_Economics/Cooking/Food/Candy/Caramel.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Home_Economics/Cooking/Food/Candy/Caramel.personal|Caramel.personal]] 
 
-### #is_/same_as :: [Caramel.secret](/_secret/Society/Economics/Home_Economics/Cooking/Food/Candy/Caramel.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Home_Economics/Cooking/Food/Candy/Caramel.secret|Caramel.secret]] 
 

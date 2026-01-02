@@ -37,17 +37,17 @@ The act of momentarily pausing a device or application (e.g. pause music playbac
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~SuspendAction](/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~ControlAction/FileClass~SuspendAction.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~ControlAction/FileClass~SuspendAction|FileClass~SuspendAction]] 
 
-### #is_/same_as :: [FileClass~SuspendAction.public](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~ControlAction/FileClass~SuspendAction.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~ControlAction/FileClass~SuspendAction.public|FileClass~SuspendAction.public]] 
 
-### #is_/same_as :: [FileClass~SuspendAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~ControlAction/FileClass~SuspendAction.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~ControlAction/FileClass~SuspendAction.internal|FileClass~SuspendAction.internal]] 
 
-### #is_/same_as :: [FileClass~SuspendAction.protect](/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~ControlAction/FileClass~SuspendAction.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~ControlAction/FileClass~SuspendAction.protect|FileClass~SuspendAction.protect]] 
 
-### #is_/same_as :: [FileClass~SuspendAction.private](/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~ControlAction/FileClass~SuspendAction.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~ControlAction/FileClass~SuspendAction.private|FileClass~SuspendAction.private]] 
 
-### #is_/same_as :: [FileClass~SuspendAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~ControlAction/FileClass~SuspendAction.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~ControlAction/FileClass~SuspendAction.personal|FileClass~SuspendAction.personal]] 
 
-### #is_/same_as :: [FileClass~SuspendAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~ControlAction/FileClass~SuspendAction.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~ControlAction/FileClass~SuspendAction.secret|FileClass~SuspendAction.secret]] 
 

@@ -46,17 +46,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [is_job_immediate_start](/_Standards/schema-org/Property/Flags/is_job_immediate_start.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/Flags/is_job_immediate_start|is_job_immediate_start]] 
 
-### #is_/same_as :: [is_job_immediate_start.public](/_public/schema-org/Property/Flags/is_job_immediate_start.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/Flags/is_job_immediate_start.public|is_job_immediate_start.public]] 
 
-### #is_/same_as :: [is_job_immediate_start.internal](/_internal/schema-org/Property/Flags/is_job_immediate_start.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/Flags/is_job_immediate_start.internal|is_job_immediate_start.internal]] 
 
-### #is_/same_as :: [is_job_immediate_start.protect](/_protect/schema-org/Property/Flags/is_job_immediate_start.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/Flags/is_job_immediate_start.protect|is_job_immediate_start.protect]] 
 
-### #is_/same_as :: [is_job_immediate_start.private](/_private/schema-org/Property/Flags/is_job_immediate_start.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/Flags/is_job_immediate_start.private|is_job_immediate_start.private]] 
 
-### #is_/same_as :: [is_job_immediate_start.personal](/_personal/schema-org/Property/Flags/is_job_immediate_start.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/Flags/is_job_immediate_start.personal|is_job_immediate_start.personal]] 
 
-### #is_/same_as :: [is_job_immediate_start.secret](/_secret/schema-org/Property/Flags/is_job_immediate_start.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/Flags/is_job_immediate_start.secret|is_job_immediate_start.secret]] 
 

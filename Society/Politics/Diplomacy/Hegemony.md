@@ -50,17 +50,17 @@ Libris_URI: 75kmp4br0wqq0j7
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hegemony](/_Standards/Society/Politics/Diplomacy/Hegemony.md) 
+### #is_/same_as :: [[/_Standards/Society/Politics/Diplomacy/Hegemony|Hegemony]] 
 
-### #is_/same_as :: [Hegemony.public](/_public/Society/Politics/Diplomacy/Hegemony.public.md) 
+### #is_/same_as :: [[/_public/Society/Politics/Diplomacy/Hegemony.public|Hegemony.public]] 
 
-### #is_/same_as :: [Hegemony.internal](/_internal/Society/Politics/Diplomacy/Hegemony.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Politics/Diplomacy/Hegemony.internal|Hegemony.internal]] 
 
-### #is_/same_as :: [Hegemony.protect](/_protect/Society/Politics/Diplomacy/Hegemony.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Politics/Diplomacy/Hegemony.protect|Hegemony.protect]] 
 
-### #is_/same_as :: [Hegemony.private](/_private/Society/Politics/Diplomacy/Hegemony.private.md) 
+### #is_/same_as :: [[/_private/Society/Politics/Diplomacy/Hegemony.private|Hegemony.private]] 
 
-### #is_/same_as :: [Hegemony.personal](/_personal/Society/Politics/Diplomacy/Hegemony.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Politics/Diplomacy/Hegemony.personal|Hegemony.personal]] 
 
-### #is_/same_as :: [Hegemony.secret](/_secret/Society/Politics/Diplomacy/Hegemony.secret.md)
+### #is_/same_as :: [[/_secret/Society/Politics/Diplomacy/Hegemony.secret|Hegemony.secret]] 
 

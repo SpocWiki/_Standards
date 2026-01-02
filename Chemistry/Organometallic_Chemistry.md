@@ -32,17 +32,17 @@ Commons_category: Organometallic chemistry
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Organometallic_Chemistry](/_Standards/Chemistry/Organometallic_Chemistry.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Organometallic_Chemistry|Organometallic_Chemistry]] 
 
-### #is_/same_as :: [Organometallic_Chemistry.public](/_public/Chemistry/Organometallic_Chemistry.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Organometallic_Chemistry.public|Organometallic_Chemistry.public]] 
 
-### #is_/same_as :: [Organometallic_Chemistry.internal](/_internal/Chemistry/Organometallic_Chemistry.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Organometallic_Chemistry.internal|Organometallic_Chemistry.internal]] 
 
-### #is_/same_as :: [Organometallic_Chemistry.protect](/_protect/Chemistry/Organometallic_Chemistry.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Organometallic_Chemistry.protect|Organometallic_Chemistry.protect]] 
 
-### #is_/same_as :: [Organometallic_Chemistry.private](/_private/Chemistry/Organometallic_Chemistry.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Organometallic_Chemistry.private|Organometallic_Chemistry.private]] 
 
-### #is_/same_as :: [Organometallic_Chemistry.personal](/_personal/Chemistry/Organometallic_Chemistry.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Organometallic_Chemistry.personal|Organometallic_Chemistry.personal]] 
 
-### #is_/same_as :: [Organometallic_Chemistry.secret](/_secret/Chemistry/Organometallic_Chemistry.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Organometallic_Chemistry.secret|Organometallic_Chemistry.secret]] 
 

@@ -40,17 +40,17 @@ A system of medicine that originated in India over thousands of years and that f
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ayurvedic](/_Standards/bio/Medicine/Medical_Enumeration/Medicine_System/Ayurvedic.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Enumeration/Medicine_System/Ayurvedic|Ayurvedic]] 
 
-### #is_/same_as :: [Ayurvedic.public](/_public/bio/Medicine/Medical_Enumeration/Medicine_System/Ayurvedic.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Enumeration/Medicine_System/Ayurvedic.public|Ayurvedic.public]] 
 
-### #is_/same_as :: [Ayurvedic.internal](/_internal/bio/Medicine/Medical_Enumeration/Medicine_System/Ayurvedic.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Enumeration/Medicine_System/Ayurvedic.internal|Ayurvedic.internal]] 
 
-### #is_/same_as :: [Ayurvedic.protect](/_protect/bio/Medicine/Medical_Enumeration/Medicine_System/Ayurvedic.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Enumeration/Medicine_System/Ayurvedic.protect|Ayurvedic.protect]] 
 
-### #is_/same_as :: [Ayurvedic.private](/_private/bio/Medicine/Medical_Enumeration/Medicine_System/Ayurvedic.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Enumeration/Medicine_System/Ayurvedic.private|Ayurvedic.private]] 
 
-### #is_/same_as :: [Ayurvedic.personal](/_personal/bio/Medicine/Medical_Enumeration/Medicine_System/Ayurvedic.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Enumeration/Medicine_System/Ayurvedic.personal|Ayurvedic.personal]] 
 
-### #is_/same_as :: [Ayurvedic.secret](/_secret/bio/Medicine/Medical_Enumeration/Medicine_System/Ayurvedic.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Enumeration/Medicine_System/Ayurvedic.secret|Ayurvedic.secret]] 
 

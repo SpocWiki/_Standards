@@ -589,7 +589,7 @@ Artiodactyla (plus Cetacea). Molecular Biology and Evolution
 
 ## Title Illustrations
 
-![](Eutheria/0707elephant.jpg))
+![](Eutheria/0707elephant.jpg) 
 
   ------------------------------------------------------------------------------
   Scientific Name ::     Loxodonta africana
@@ -598,7 +598,7 @@ Artiodactyla (plus Cetacea). Molecular Biology and Evolution
   Copyright ::            © 2000 [Greg and Marybeth Dimijian](http://www.dimijianimages.com/) 
  
   ------------------------------------------------------------------------------
-![Two-toed sloth juvenile ](Eutheria/sloth.jpg))
+![Two-toed sloth juvenile ](Eutheria/sloth.jpg) 
 
   ------------------------------------------------------------------------------
   Scientific Name ::   Choloepus hoffmani
@@ -607,7 +607,7 @@ Artiodactyla (plus Cetacea). Molecular Biology and Evolution
   Copyright ::          © 2000 [Greg and Marybeth Dimijian](http://www.dimijianimages.com/) 
  
   ------------------------------------------------------------------------------
-![Killer whale](Eutheria/orca.jpg))
+![Killer whale](Eutheria/orca.jpg) 
 
   ----------
   Scientific Name ::     Orcinus orca
@@ -619,17 +619,17 @@ Artiodactyla (plus Cetacea). Molecular Biology and Evolution
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Eutheria](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria|Eutheria]] 
 
-### #is_/same_as :: [Eutheria.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria.public|Eutheria.public]] 
 
-### #is_/same_as :: [Eutheria.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria.internal|Eutheria.internal]] 
 
-### #is_/same_as :: [Eutheria.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria.protect|Eutheria.protect]] 
 
-### #is_/same_as :: [Eutheria.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria.private|Eutheria.private]] 
 
-### #is_/same_as :: [Eutheria.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria.personal|Eutheria.personal]] 
 
-### #is_/same_as :: [Eutheria.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria.secret|Eutheria.secret]] 
 

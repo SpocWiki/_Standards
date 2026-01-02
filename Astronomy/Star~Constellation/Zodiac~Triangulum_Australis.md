@@ -81,17 +81,17 @@ official_name: Triangulum Australe
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Zodiac~Triangulum_Australis](/_Standards/Astronomy/Star~Constellation/Zodiac~Triangulum_Australis.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Star~Constellation/Zodiac~Triangulum_Australis|Zodiac~Triangulum_Australis]] 
 
-### #is_/same_as :: [Zodiac~Triangulum_Australis.public](/_public/Astronomy/Star~Constellation/Zodiac~Triangulum_Australis.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Star~Constellation/Zodiac~Triangulum_Australis.public|Zodiac~Triangulum_Australis.public]] 
 
-### #is_/same_as :: [Zodiac~Triangulum_Australis.internal](/_internal/Astronomy/Star~Constellation/Zodiac~Triangulum_Australis.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Star~Constellation/Zodiac~Triangulum_Australis.internal|Zodiac~Triangulum_Australis.internal]] 
 
-### #is_/same_as :: [Zodiac~Triangulum_Australis.protect](/_protect/Astronomy/Star~Constellation/Zodiac~Triangulum_Australis.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Star~Constellation/Zodiac~Triangulum_Australis.protect|Zodiac~Triangulum_Australis.protect]] 
 
-### #is_/same_as :: [Zodiac~Triangulum_Australis.private](/_private/Astronomy/Star~Constellation/Zodiac~Triangulum_Australis.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Star~Constellation/Zodiac~Triangulum_Australis.private|Zodiac~Triangulum_Australis.private]] 
 
-### #is_/same_as :: [Zodiac~Triangulum_Australis.personal](/_personal/Astronomy/Star~Constellation/Zodiac~Triangulum_Australis.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Star~Constellation/Zodiac~Triangulum_Australis.personal|Zodiac~Triangulum_Australis.personal]] 
 
-### #is_/same_as :: [Zodiac~Triangulum_Australis.secret](/_secret/Astronomy/Star~Constellation/Zodiac~Triangulum_Australis.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Star~Constellation/Zodiac~Triangulum_Australis.secret|Zodiac~Triangulum_Australis.secret]] 
 

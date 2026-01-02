@@ -41,17 +41,17 @@ Nose function assessment with clinical examination.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Nose_Exam](/_Standards/bio/Medicine/Medical_Enumeration/Physical_Exam/Nose_Exam.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Enumeration/Physical_Exam/Nose_Exam|Nose_Exam]] 
 
-### #is_/same_as :: [Nose_Exam.public](/_public/bio/Medicine/Medical_Enumeration/Physical_Exam/Nose_Exam.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Enumeration/Physical_Exam/Nose_Exam.public|Nose_Exam.public]] 
 
-### #is_/same_as :: [Nose_Exam.internal](/_internal/bio/Medicine/Medical_Enumeration/Physical_Exam/Nose_Exam.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Enumeration/Physical_Exam/Nose_Exam.internal|Nose_Exam.internal]] 
 
-### #is_/same_as :: [Nose_Exam.protect](/_protect/bio/Medicine/Medical_Enumeration/Physical_Exam/Nose_Exam.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Enumeration/Physical_Exam/Nose_Exam.protect|Nose_Exam.protect]] 
 
-### #is_/same_as :: [Nose_Exam.private](/_private/bio/Medicine/Medical_Enumeration/Physical_Exam/Nose_Exam.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Enumeration/Physical_Exam/Nose_Exam.private|Nose_Exam.private]] 
 
-### #is_/same_as :: [Nose_Exam.personal](/_personal/bio/Medicine/Medical_Enumeration/Physical_Exam/Nose_Exam.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Enumeration/Physical_Exam/Nose_Exam.personal|Nose_Exam.personal]] 
 
-### #is_/same_as :: [Nose_Exam.secret](/_secret/bio/Medicine/Medical_Enumeration/Physical_Exam/Nose_Exam.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Enumeration/Physical_Exam/Nose_Exam.secret|Nose_Exam.secret]] 
 

@@ -91,17 +91,17 @@ student_of: '[[_Standards/WikiData/WD~Alfred_Adler,152393]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Maslow,Abraham](/_Standards/bio/Psychology/Psychologist/Maslow,Abraham.md) 
+### #is_/same_as :: [[/_Standards/bio/Psychology/Psychologist/Maslow,Abraham|Maslow,Abraham]] 
 
-### #is_/same_as :: [Maslow,Abraham.public](/_public/bio/Psychology/Psychologist/Maslow,Abraham.public.md) 
+### #is_/same_as :: [[/_public/bio/Psychology/Psychologist/Maslow,Abraham.public|Maslow,Abraham.public]] 
 
-### #is_/same_as :: [Maslow,Abraham.internal](/_internal/bio/Psychology/Psychologist/Maslow,Abraham.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Psychology/Psychologist/Maslow,Abraham.internal|Maslow,Abraham.internal]] 
 
-### #is_/same_as :: [Maslow,Abraham.protect](/_protect/bio/Psychology/Psychologist/Maslow,Abraham.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Psychology/Psychologist/Maslow,Abraham.protect|Maslow,Abraham.protect]] 
 
-### #is_/same_as :: [Maslow,Abraham.private](/_private/bio/Psychology/Psychologist/Maslow,Abraham.private.md) 
+### #is_/same_as :: [[/_private/bio/Psychology/Psychologist/Maslow,Abraham.private|Maslow,Abraham.private]] 
 
-### #is_/same_as :: [Maslow,Abraham.personal](/_personal/bio/Psychology/Psychologist/Maslow,Abraham.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Psychology/Psychologist/Maslow,Abraham.personal|Maslow,Abraham.personal]] 
 
-### #is_/same_as :: [Maslow,Abraham.secret](/_secret/bio/Psychology/Psychologist/Maslow,Abraham.secret.md)
+### #is_/same_as :: [[/_secret/bio/Psychology/Psychologist/Maslow,Abraham.secret|Maslow,Abraham.secret]] 
 

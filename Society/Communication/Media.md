@@ -13,17 +13,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Media](/_Standards/Society/Communication/Media.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media|Media]] 
 
-### #is_/same_as :: [Media.public](/_public/Society/Communication/Media.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media.public|Media.public]] 
 
-### #is_/same_as :: [Media.internal](/_internal/Society/Communication/Media.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media.internal|Media.internal]] 
 
-### #is_/same_as :: [Media.protect](/_protect/Society/Communication/Media.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media.protect|Media.protect]] 
 
-### #is_/same_as :: [Media.private](/_private/Society/Communication/Media.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media.private|Media.private]] 
 
-### #is_/same_as :: [Media.personal](/_personal/Society/Communication/Media.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media.personal|Media.personal]] 
 
-### #is_/same_as :: [Media.secret](/_secret/Society/Communication/Media.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media.secret|Media.secret]] 
 

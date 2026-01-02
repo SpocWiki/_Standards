@@ -28,13 +28,13 @@ title: Helicobasidium purpureum
 
 ## syn.: Helicobasidium brebissonii [(Desm.) Donk] 
 
-![ ](Helicobasidium_purpureum/hp.jpg)![ ](Helicobasidium_purpureum/frz.jpg))![ ](Helicobasidium_purpureum/sc.jpg))
+![ ](Helicobasidium_purpureum/hp.jpg)![ ](Helicobasidium_purpureum/frz.jpg))![ ](Helicobasidium_purpureum/sc.jpg) 
 
 Containing group:[Helicobasidiales](../Helicobasidiales.md) 
 
 ## Title Illustrations
 
-![](Helicobasidium_purpureum/hp.jpg))
+![](Helicobasidium_purpureum/hp.jpg) 
 
   -----------------------------------------------------------------------------
   Scientific Name ::     Helicobasidium purpureum Pat. on Carpinus betulus L.
@@ -46,7 +46,7 @@ Containing group:[Helicobasidiales](../Helicobasidiales.md)
   Copyright ::            © 2001 [Matthias Lutz](mailto:matthias.lutz@uni-tuebingen.de) 
  
   -----------------------------------------------------------------------------
-![](Helicobasidium_purpureum/frz.jpg))
+![](Helicobasidium_purpureum/frz.jpg) 
 
   -----------------------------------------------------------------------------
   Scientific Name ::     Tuberculina persicina (Ditmar) Sacc. on Puccinia sessilis W. G. Schneider in J. Schröt./Arum maculatum L.
@@ -58,7 +58,7 @@ Containing group:[Helicobasidiales](../Helicobasidiales.md)
   Copyright ::            © 2001 [Matthias Lutz](mailto:matthias.lutz@uni-tuebingen.de) 
  
   -----------------------------------------------------------------------------
-![](Helicobasidium_purpureum/sc.jpg))
+![](Helicobasidium_purpureum/sc.jpg) 
 
   -----------------------------------------------------------------------------
   Scientific Name ::     Tuberculina persicina (Ditmar) Sacc. on Puccinia coronata Corda/Rhamnus cathartica L.
@@ -74,17 +74,17 @@ Containing group:[Helicobasidiales](../Helicobasidiales.md)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Helicobasidium_purpureum](/_Standards/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Pucciniomycotina/Helicobasidiales/Helicobasidium_purpureum.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Pucciniomycotina/Helicobasidiales/Helicobasidium_purpureum|Helicobasidium_purpureum]] 
 
-### #is_/same_as :: [Helicobasidium_purpureum.public](/_public/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Pucciniomycotina/Helicobasidiales/Helicobasidium_purpureum.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Pucciniomycotina/Helicobasidiales/Helicobasidium_purpureum.public|Helicobasidium_purpureum.public]] 
 
-### #is_/same_as :: [Helicobasidium_purpureum.internal](/_internal/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Pucciniomycotina/Helicobasidiales/Helicobasidium_purpureum.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Pucciniomycotina/Helicobasidiales/Helicobasidium_purpureum.internal|Helicobasidium_purpureum.internal]] 
 
-### #is_/same_as :: [Helicobasidium_purpureum.protect](/_protect/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Pucciniomycotina/Helicobasidiales/Helicobasidium_purpureum.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Pucciniomycotina/Helicobasidiales/Helicobasidium_purpureum.protect|Helicobasidium_purpureum.protect]] 
 
-### #is_/same_as :: [Helicobasidium_purpureum.private](/_private/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Pucciniomycotina/Helicobasidiales/Helicobasidium_purpureum.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Pucciniomycotina/Helicobasidiales/Helicobasidium_purpureum.private|Helicobasidium_purpureum.private]] 
 
-### #is_/same_as :: [Helicobasidium_purpureum.personal](/_personal/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Pucciniomycotina/Helicobasidiales/Helicobasidium_purpureum.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Pucciniomycotina/Helicobasidiales/Helicobasidium_purpureum.personal|Helicobasidium_purpureum.personal]] 
 
-### #is_/same_as :: [Helicobasidium_purpureum.secret](/_secret/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Pucciniomycotina/Helicobasidiales/Helicobasidium_purpureum.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Pucciniomycotina/Helicobasidiales/Helicobasidium_purpureum.secret|Helicobasidium_purpureum.secret]] 
 

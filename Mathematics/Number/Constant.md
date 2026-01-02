@@ -47,17 +47,17 @@ opposite_of: "[[_Standards/WikiData/WD~variable,50701]]"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Constant](/_Standards/Mathematics/Number/Constant.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Number/Constant|Constant]] 
 
-### #is_/same_as :: [Constant.public](/_public/Mathematics/Number/Constant.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Number/Constant.public|Constant.public]] 
 
-### #is_/same_as :: [Constant.internal](/_internal/Mathematics/Number/Constant.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Number/Constant.internal|Constant.internal]] 
 
-### #is_/same_as :: [Constant.protect](/_protect/Mathematics/Number/Constant.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Number/Constant.protect|Constant.protect]] 
 
-### #is_/same_as :: [Constant.private](/_private/Mathematics/Number/Constant.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Number/Constant.private|Constant.private]] 
 
-### #is_/same_as :: [Constant.personal](/_personal/Mathematics/Number/Constant.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Number/Constant.personal|Constant.personal]] 
 
-### #is_/same_as :: [Constant.secret](/_secret/Mathematics/Number/Constant.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Number/Constant.secret|Constant.secret]] 
 

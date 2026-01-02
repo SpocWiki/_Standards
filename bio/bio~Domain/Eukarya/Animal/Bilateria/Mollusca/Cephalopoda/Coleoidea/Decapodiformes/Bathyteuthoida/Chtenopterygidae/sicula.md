@@ -123,7 +123,7 @@ species ending as ***sicula*** (not ***siculus***).\"
 The paralarval stages are similar to those of other species of
 ***Chtenopteryx**.* Chromatophore differences, if present, have not been
 identified as yet.
-![ ](sicula/ChtenSiculaParal.gif))
+![ ](sicula/ChtenSiculaParal.gif) 
 
 **Figure**. **Left** - Two very young paralarvae, ca. \...mm ML, side
 view. The circular tentacular clubs have about 20 suckers, irregularly
@@ -177,7 +177,7 @@ type repositories of Recent Cephalopoda. Smithson. Contr. Zool., No. 586
 
 ## Title Illustrations
 
-![](sicula/ChtenSicula.jpg))
+![](sicula/ChtenSicula.jpg) 
 
   -------------------------------------
   Scientific Name ::  Chtenopteryx sicula
@@ -189,17 +189,17 @@ type repositories of Recent Cephalopoda. Smithson. Contr. Zool., No. 586
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [sicula](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Bathyteuthoida/Chtenopterygidae/sicula.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Bathyteuthoida/Chtenopterygidae/sicula|sicula]] 
 
-### #is_/same_as :: [sicula.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Bathyteuthoida/Chtenopterygidae/sicula.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Bathyteuthoida/Chtenopterygidae/sicula.public|sicula.public]] 
 
-### #is_/same_as :: [sicula.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Bathyteuthoida/Chtenopterygidae/sicula.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Bathyteuthoida/Chtenopterygidae/sicula.internal|sicula.internal]] 
 
-### #is_/same_as :: [sicula.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Bathyteuthoida/Chtenopterygidae/sicula.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Bathyteuthoida/Chtenopterygidae/sicula.protect|sicula.protect]] 
 
-### #is_/same_as :: [sicula.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Bathyteuthoida/Chtenopterygidae/sicula.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Bathyteuthoida/Chtenopterygidae/sicula.private|sicula.private]] 
 
-### #is_/same_as :: [sicula.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Bathyteuthoida/Chtenopterygidae/sicula.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Bathyteuthoida/Chtenopterygidae/sicula.personal|sicula.personal]] 
 
-### #is_/same_as :: [sicula.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Bathyteuthoida/Chtenopterygidae/sicula.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Bathyteuthoida/Chtenopterygidae/sicula.secret|sicula.secret]] 
 

@@ -41,17 +41,17 @@ The act of allocating an action/event/task to some destination (someone or somet
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Assign_Action](/_Standards/schema-org/Class/is_a_/Action/Organize_Action/Allocate_Action/Assign_Action.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Action/Organize_Action/Allocate_Action/Assign_Action|Assign_Action]] 
 
-### #is_/same_as :: [Assign_Action.public](/_public/schema-org/Class/is_a_/Action/Organize_Action/Allocate_Action/Assign_Action.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Action/Organize_Action/Allocate_Action/Assign_Action.public|Assign_Action.public]] 
 
-### #is_/same_as :: [Assign_Action.internal](/_internal/schema-org/Class/is_a_/Action/Organize_Action/Allocate_Action/Assign_Action.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Action/Organize_Action/Allocate_Action/Assign_Action.internal|Assign_Action.internal]] 
 
-### #is_/same_as :: [Assign_Action.protect](/_protect/schema-org/Class/is_a_/Action/Organize_Action/Allocate_Action/Assign_Action.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Action/Organize_Action/Allocate_Action/Assign_Action.protect|Assign_Action.protect]] 
 
-### #is_/same_as :: [Assign_Action.private](/_private/schema-org/Class/is_a_/Action/Organize_Action/Allocate_Action/Assign_Action.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Action/Organize_Action/Allocate_Action/Assign_Action.private|Assign_Action.private]] 
 
-### #is_/same_as :: [Assign_Action.personal](/_personal/schema-org/Class/is_a_/Action/Organize_Action/Allocate_Action/Assign_Action.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Action/Organize_Action/Allocate_Action/Assign_Action.personal|Assign_Action.personal]] 
 
-### #is_/same_as :: [Assign_Action.secret](/_secret/schema-org/Class/is_a_/Action/Organize_Action/Allocate_Action/Assign_Action.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Action/Organize_Action/Allocate_Action/Assign_Action.secret|Assign_Action.secret]] 
 

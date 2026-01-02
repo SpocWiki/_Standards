@@ -43,17 +43,17 @@ said_to_be_the_same_as: "[[_Standards/WikiData/WD~business_activity,19862406]]"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Economic_Activity](/_Standards/Society/Economics/Economic_Activity.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Economic_Activity|Economic_Activity]] 
 
-### #is_/same_as :: [Economic_Activity.public](/_public/Society/Economics/Economic_Activity.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Economic_Activity.public|Economic_Activity.public]] 
 
-### #is_/same_as :: [Economic_Activity.internal](/_internal/Society/Economics/Economic_Activity.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Economic_Activity.internal|Economic_Activity.internal]] 
 
-### #is_/same_as :: [Economic_Activity.protect](/_protect/Society/Economics/Economic_Activity.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Economic_Activity.protect|Economic_Activity.protect]] 
 
-### #is_/same_as :: [Economic_Activity.private](/_private/Society/Economics/Economic_Activity.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Economic_Activity.private|Economic_Activity.private]] 
 
-### #is_/same_as :: [Economic_Activity.personal](/_personal/Society/Economics/Economic_Activity.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Economic_Activity.personal|Economic_Activity.personal]] 
 
-### #is_/same_as :: [Economic_Activity.secret](/_secret/Society/Economics/Economic_Activity.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Economic_Activity.secret|Economic_Activity.secret]] 
 

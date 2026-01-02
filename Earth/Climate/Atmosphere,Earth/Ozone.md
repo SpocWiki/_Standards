@@ -125,17 +125,17 @@ EC_number: 233-069-2
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ozone](/_Standards/Earth/Climate/Atmosphere,Earth/Ozone.md) 
+### #is_/same_as :: [[/_Standards/Earth/Climate/Atmosphere,Earth/Ozone|Ozone]] 
 
-### #is_/same_as :: [Ozone.public](/_public/Earth/Climate/Atmosphere,Earth/Ozone.public.md) 
+### #is_/same_as :: [[/_public/Earth/Climate/Atmosphere,Earth/Ozone.public|Ozone.public]] 
 
-### #is_/same_as :: [Ozone.internal](/_internal/Earth/Climate/Atmosphere,Earth/Ozone.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Climate/Atmosphere,Earth/Ozone.internal|Ozone.internal]] 
 
-### #is_/same_as :: [Ozone.protect](/_protect/Earth/Climate/Atmosphere,Earth/Ozone.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Climate/Atmosphere,Earth/Ozone.protect|Ozone.protect]] 
 
-### #is_/same_as :: [Ozone.private](/_private/Earth/Climate/Atmosphere,Earth/Ozone.private.md) 
+### #is_/same_as :: [[/_private/Earth/Climate/Atmosphere,Earth/Ozone.private|Ozone.private]] 
 
-### #is_/same_as :: [Ozone.personal](/_personal/Earth/Climate/Atmosphere,Earth/Ozone.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Climate/Atmosphere,Earth/Ozone.personal|Ozone.personal]] 
 
-### #is_/same_as :: [Ozone.secret](/_secret/Earth/Climate/Atmosphere,Earth/Ozone.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Climate/Atmosphere,Earth/Ozone.secret|Ozone.secret]] 
 

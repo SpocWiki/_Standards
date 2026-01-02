@@ -127,17 +127,17 @@ Libris_URI: ljx01rd432x86fs
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Rossini,Gioachino](/_Standards/Society/Communication/Media/Music/Composer/Romantic_Composer/Rossini,Gioachino.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Composer/Romantic_Composer/Rossini,Gioachino|Rossini,Gioachino]] 
 
-### #is_/same_as :: [Rossini,Gioachino.public](/_public/Society/Communication/Media/Music/Composer/Romantic_Composer/Rossini,Gioachino.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Composer/Romantic_Composer/Rossini,Gioachino.public|Rossini,Gioachino.public]] 
 
-### #is_/same_as :: [Rossini,Gioachino.internal](/_internal/Society/Communication/Media/Music/Composer/Romantic_Composer/Rossini,Gioachino.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Composer/Romantic_Composer/Rossini,Gioachino.internal|Rossini,Gioachino.internal]] 
 
-### #is_/same_as :: [Rossini,Gioachino.protect](/_protect/Society/Communication/Media/Music/Composer/Romantic_Composer/Rossini,Gioachino.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Composer/Romantic_Composer/Rossini,Gioachino.protect|Rossini,Gioachino.protect]] 
 
-### #is_/same_as :: [Rossini,Gioachino.private](/_private/Society/Communication/Media/Music/Composer/Romantic_Composer/Rossini,Gioachino.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Composer/Romantic_Composer/Rossini,Gioachino.private|Rossini,Gioachino.private]] 
 
-### #is_/same_as :: [Rossini,Gioachino.personal](/_personal/Society/Communication/Media/Music/Composer/Romantic_Composer/Rossini,Gioachino.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Composer/Romantic_Composer/Rossini,Gioachino.personal|Rossini,Gioachino.personal]] 
 
-### #is_/same_as :: [Rossini,Gioachino.secret](/_secret/Society/Communication/Media/Music/Composer/Romantic_Composer/Rossini,Gioachino.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Composer/Romantic_Composer/Rossini,Gioachino.secret|Rossini,Gioachino.secret]] 
 

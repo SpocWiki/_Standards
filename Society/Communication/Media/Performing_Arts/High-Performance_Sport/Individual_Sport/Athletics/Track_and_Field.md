@@ -45,17 +45,17 @@ subreddit: trackandfield
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Track_and_Field](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Athletics/Track_and_Field.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Athletics/Track_and_Field|Track_and_Field]] 
 
-### #is_/same_as :: [Track_and_Field.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Athletics/Track_and_Field.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Athletics/Track_and_Field.public|Track_and_Field.public]] 
 
-### #is_/same_as :: [Track_and_Field.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Athletics/Track_and_Field.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Athletics/Track_and_Field.internal|Track_and_Field.internal]] 
 
-### #is_/same_as :: [Track_and_Field.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Athletics/Track_and_Field.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Athletics/Track_and_Field.protect|Track_and_Field.protect]] 
 
-### #is_/same_as :: [Track_and_Field.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Athletics/Track_and_Field.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Athletics/Track_and_Field.private|Track_and_Field.private]] 
 
-### #is_/same_as :: [Track_and_Field.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Athletics/Track_and_Field.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Athletics/Track_and_Field.personal|Track_and_Field.personal]] 
 
-### #is_/same_as :: [Track_and_Field.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Athletics/Track_and_Field.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Athletics/Track_and_Field.secret|Track_and_Field.secret]] 
 

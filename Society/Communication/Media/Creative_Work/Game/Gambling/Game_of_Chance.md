@@ -34,17 +34,17 @@ different_from: "[[_Standards/WikiData/WD~gambling,11416]]"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Game_of_Chance](/_Standards/Society/Communication/Media/Creative_Work/Game/Gambling/Game_of_Chance.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Creative_Work/Game/Gambling/Game_of_Chance|Game_of_Chance]] 
 
-### #is_/same_as :: [Game_of_Chance.public](/_public/Society/Communication/Media/Creative_Work/Game/Gambling/Game_of_Chance.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Creative_Work/Game/Gambling/Game_of_Chance.public|Game_of_Chance.public]] 
 
-### #is_/same_as :: [Game_of_Chance.internal](/_internal/Society/Communication/Media/Creative_Work/Game/Gambling/Game_of_Chance.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Creative_Work/Game/Gambling/Game_of_Chance.internal|Game_of_Chance.internal]] 
 
-### #is_/same_as :: [Game_of_Chance.protect](/_protect/Society/Communication/Media/Creative_Work/Game/Gambling/Game_of_Chance.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Creative_Work/Game/Gambling/Game_of_Chance.protect|Game_of_Chance.protect]] 
 
-### #is_/same_as :: [Game_of_Chance.private](/_private/Society/Communication/Media/Creative_Work/Game/Gambling/Game_of_Chance.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Creative_Work/Game/Gambling/Game_of_Chance.private|Game_of_Chance.private]] 
 
-### #is_/same_as :: [Game_of_Chance.personal](/_personal/Society/Communication/Media/Creative_Work/Game/Gambling/Game_of_Chance.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/Game/Gambling/Game_of_Chance.personal|Game_of_Chance.personal]] 
 
-### #is_/same_as :: [Game_of_Chance.secret](/_secret/Society/Communication/Media/Creative_Work/Game/Gambling/Game_of_Chance.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Game/Gambling/Game_of_Chance.secret|Game_of_Chance.secret]] 
 

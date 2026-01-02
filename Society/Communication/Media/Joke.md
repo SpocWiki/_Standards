@@ -36,17 +36,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Joke](/_Standards/Society/Communication/Media/Joke.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Joke|Joke]] 
 
-### #is_/same_as :: [Joke.public](/_public/Society/Communication/Media/Joke.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Joke.public|Joke.public]] 
 
-### #is_/same_as :: [Joke.internal](/_internal/Society/Communication/Media/Joke.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Joke.internal|Joke.internal]] 
 
-### #is_/same_as :: [Joke.protect](/_protect/Society/Communication/Media/Joke.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Joke.protect|Joke.protect]] 
 
-### #is_/same_as :: [Joke.private](/_private/Society/Communication/Media/Joke.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Joke.private|Joke.private]] 
 
-### #is_/same_as :: [Joke.personal](/_personal/Society/Communication/Media/Joke.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Joke.personal|Joke.personal]] 
 
-### #is_/same_as :: [Joke.secret](/_secret/Society/Communication/Media/Joke.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Joke.secret|Joke.secret]] 
 

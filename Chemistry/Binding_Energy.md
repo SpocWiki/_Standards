@@ -36,17 +36,17 @@ IEV_number: 881-03-41
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Binding_Energy](/_Standards/Chemistry/Binding_Energy.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Binding_Energy|Binding_Energy]] 
 
-### #is_/same_as :: [Binding_Energy.public](/_public/Chemistry/Binding_Energy.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Binding_Energy.public|Binding_Energy.public]] 
 
-### #is_/same_as :: [Binding_Energy.internal](/_internal/Chemistry/Binding_Energy.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Binding_Energy.internal|Binding_Energy.internal]] 
 
-### #is_/same_as :: [Binding_Energy.protect](/_protect/Chemistry/Binding_Energy.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Binding_Energy.protect|Binding_Energy.protect]] 
 
-### #is_/same_as :: [Binding_Energy.private](/_private/Chemistry/Binding_Energy.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Binding_Energy.private|Binding_Energy.private]] 
 
-### #is_/same_as :: [Binding_Energy.personal](/_personal/Chemistry/Binding_Energy.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Binding_Energy.personal|Binding_Energy.personal]] 
 
-### #is_/same_as :: [Binding_Energy.secret](/_secret/Chemistry/Binding_Energy.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Binding_Energy.secret|Binding_Energy.secret]] 
 

@@ -53,17 +53,17 @@ Commons_category: Realism
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Realism](/_Standards/Society/Communication/Art/Art_History/Realism.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Art/Art_History/Realism|Realism]] 
 
-### #is_/same_as :: [Realism.public](/_public/Society/Communication/Art/Art_History/Realism.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Art/Art_History/Realism.public|Realism.public]] 
 
-### #is_/same_as :: [Realism.internal](/_internal/Society/Communication/Art/Art_History/Realism.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Art/Art_History/Realism.internal|Realism.internal]] 
 
-### #is_/same_as :: [Realism.protect](/_protect/Society/Communication/Art/Art_History/Realism.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Art/Art_History/Realism.protect|Realism.protect]] 
 
-### #is_/same_as :: [Realism.private](/_private/Society/Communication/Art/Art_History/Realism.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Art/Art_History/Realism.private|Realism.private]] 
 
-### #is_/same_as :: [Realism.personal](/_personal/Society/Communication/Art/Art_History/Realism.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Art/Art_History/Realism.personal|Realism.personal]] 
 
-### #is_/same_as :: [Realism.secret](/_secret/Society/Communication/Art/Art_History/Realism.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Art/Art_History/Realism.secret|Realism.secret]] 
 

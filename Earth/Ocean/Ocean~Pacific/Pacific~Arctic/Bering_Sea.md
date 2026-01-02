@@ -119,17 +119,17 @@ native_label: Берингскойе море
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bering_Sea](/_Standards/Earth/Ocean/Ocean~Pacific/Pacific~Arctic/Bering_Sea.md) 
+### #is_/same_as :: [[/_Standards/Earth/Ocean/Ocean~Pacific/Pacific~Arctic/Bering_Sea|Bering_Sea]] 
 
-### #is_/same_as :: [Bering_Sea.public](/_public/Earth/Ocean/Ocean~Pacific/Pacific~Arctic/Bering_Sea.public.md) 
+### #is_/same_as :: [[/_public/Earth/Ocean/Ocean~Pacific/Pacific~Arctic/Bering_Sea.public|Bering_Sea.public]] 
 
-### #is_/same_as :: [Bering_Sea.internal](/_internal/Earth/Ocean/Ocean~Pacific/Pacific~Arctic/Bering_Sea.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Ocean/Ocean~Pacific/Pacific~Arctic/Bering_Sea.internal|Bering_Sea.internal]] 
 
-### #is_/same_as :: [Bering_Sea.protect](/_protect/Earth/Ocean/Ocean~Pacific/Pacific~Arctic/Bering_Sea.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Ocean/Ocean~Pacific/Pacific~Arctic/Bering_Sea.protect|Bering_Sea.protect]] 
 
-### #is_/same_as :: [Bering_Sea.private](/_private/Earth/Ocean/Ocean~Pacific/Pacific~Arctic/Bering_Sea.private.md) 
+### #is_/same_as :: [[/_private/Earth/Ocean/Ocean~Pacific/Pacific~Arctic/Bering_Sea.private|Bering_Sea.private]] 
 
-### #is_/same_as :: [Bering_Sea.personal](/_personal/Earth/Ocean/Ocean~Pacific/Pacific~Arctic/Bering_Sea.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Ocean/Ocean~Pacific/Pacific~Arctic/Bering_Sea.personal|Bering_Sea.personal]] 
 
-### #is_/same_as :: [Bering_Sea.secret](/_secret/Earth/Ocean/Ocean~Pacific/Pacific~Arctic/Bering_Sea.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Ocean/Ocean~Pacific/Pacific~Arctic/Bering_Sea.secret|Bering_Sea.secret]] 
 

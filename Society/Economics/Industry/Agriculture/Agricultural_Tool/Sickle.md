@@ -54,17 +54,17 @@ Commons_category: Sickles
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sickle](/_Standards/Society/Economics/Industry/Agriculture/Agricultural_Tool/Sickle.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Industry/Agriculture/Agricultural_Tool/Sickle|Sickle]] 
 
-### #is_/same_as :: [Sickle.public](/_public/Society/Economics/Industry/Agriculture/Agricultural_Tool/Sickle.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Industry/Agriculture/Agricultural_Tool/Sickle.public|Sickle.public]] 
 
-### #is_/same_as :: [Sickle.internal](/_internal/Society/Economics/Industry/Agriculture/Agricultural_Tool/Sickle.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Industry/Agriculture/Agricultural_Tool/Sickle.internal|Sickle.internal]] 
 
-### #is_/same_as :: [Sickle.protect](/_protect/Society/Economics/Industry/Agriculture/Agricultural_Tool/Sickle.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Industry/Agriculture/Agricultural_Tool/Sickle.protect|Sickle.protect]] 
 
-### #is_/same_as :: [Sickle.private](/_private/Society/Economics/Industry/Agriculture/Agricultural_Tool/Sickle.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Industry/Agriculture/Agricultural_Tool/Sickle.private|Sickle.private]] 
 
-### #is_/same_as :: [Sickle.personal](/_personal/Society/Economics/Industry/Agriculture/Agricultural_Tool/Sickle.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Industry/Agriculture/Agricultural_Tool/Sickle.personal|Sickle.personal]] 
 
-### #is_/same_as :: [Sickle.secret](/_secret/Society/Economics/Industry/Agriculture/Agricultural_Tool/Sickle.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Industry/Agriculture/Agricultural_Tool/Sickle.secret|Sickle.secret]] 
 

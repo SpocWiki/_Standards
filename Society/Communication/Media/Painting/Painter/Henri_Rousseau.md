@@ -179,17 +179,17 @@ work_period_end_: 1910-01-01T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Henri_Rousseau](/_Standards/Society/Communication/Media/Painting/Painter/Henri_Rousseau.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Painting/Painter/Henri_Rousseau|Henri_Rousseau]] 
 
-### #is_/same_as :: [Henri_Rousseau.public](/_public/Society/Communication/Media/Painting/Painter/Henri_Rousseau.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Painting/Painter/Henri_Rousseau.public|Henri_Rousseau.public]] 
 
-### #is_/same_as :: [Henri_Rousseau.internal](/_internal/Society/Communication/Media/Painting/Painter/Henri_Rousseau.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Painting/Painter/Henri_Rousseau.internal|Henri_Rousseau.internal]] 
 
-### #is_/same_as :: [Henri_Rousseau.protect](/_protect/Society/Communication/Media/Painting/Painter/Henri_Rousseau.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Painting/Painter/Henri_Rousseau.protect|Henri_Rousseau.protect]] 
 
-### #is_/same_as :: [Henri_Rousseau.private](/_private/Society/Communication/Media/Painting/Painter/Henri_Rousseau.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Painting/Painter/Henri_Rousseau.private|Henri_Rousseau.private]] 
 
-### #is_/same_as :: [Henri_Rousseau.personal](/_personal/Society/Communication/Media/Painting/Painter/Henri_Rousseau.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Painting/Painter/Henri_Rousseau.personal|Henri_Rousseau.personal]] 
 
-### #is_/same_as :: [Henri_Rousseau.secret](/_secret/Society/Communication/Media/Painting/Painter/Henri_Rousseau.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Painting/Painter/Henri_Rousseau.secret|Henri_Rousseau.secret]] 
 

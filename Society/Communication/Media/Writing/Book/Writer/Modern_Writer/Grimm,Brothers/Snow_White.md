@@ -104,17 +104,17 @@ publication_date: 1812-01-01T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Snow_White](/_Standards/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Grimm,Brothers/Snow_White.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Grimm,Brothers/Snow_White|Snow_White]] 
 
-### #is_/same_as :: [Snow_White.public](/_public/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Grimm,Brothers/Snow_White.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Grimm,Brothers/Snow_White.public|Snow_White.public]] 
 
-### #is_/same_as :: [Snow_White.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Grimm,Brothers/Snow_White.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Grimm,Brothers/Snow_White.internal|Snow_White.internal]] 
 
-### #is_/same_as :: [Snow_White.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Grimm,Brothers/Snow_White.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Grimm,Brothers/Snow_White.protect|Snow_White.protect]] 
 
-### #is_/same_as :: [Snow_White.private](/_private/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Grimm,Brothers/Snow_White.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Grimm,Brothers/Snow_White.private|Snow_White.private]] 
 
-### #is_/same_as :: [Snow_White.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Grimm,Brothers/Snow_White.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Grimm,Brothers/Snow_White.personal|Snow_White.personal]] 
 
-### #is_/same_as :: [Snow_White.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Grimm,Brothers/Snow_White.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Grimm,Brothers/Snow_White.secret|Snow_White.secret]] 
 

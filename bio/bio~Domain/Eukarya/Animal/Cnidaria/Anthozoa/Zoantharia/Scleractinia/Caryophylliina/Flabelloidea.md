@@ -27,7 +27,7 @@ title: Flabelloidea
 # Flabelloidea [Bourne 1905] 
 
 [Stephen D. Cairns]()
-![ ](Flabelloidea/Truncatoflabellum_truncum.jpg))
+![ ](Flabelloidea/Truncatoflabellum_truncum.jpg) 
 
 -   *[Flabellidae](Flabellidae)*
 -   *[Guyniidae](Guynia_annulata)*
@@ -107,7 +107,7 @@ of Kansas Press, Lawrence.
 
 ## Title Illustrations
 
-![](Flabelloidea/Truncatoflabellum_truncum.jpg))
+![](Flabelloidea/Truncatoflabellum_truncum.jpg) 
 
   ----------------------------------------------------------------------------
   Scientific Name ::     Truncatoflabellum truncum
@@ -123,17 +123,17 @@ of Kansas Press, Lawrence.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Flabelloidea](/_Standards/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Scleractinia/Caryophylliina/Flabelloidea.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Scleractinia/Caryophylliina/Flabelloidea|Flabelloidea]] 
 
-### #is_/same_as :: [Flabelloidea.public](/_public/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Scleractinia/Caryophylliina/Flabelloidea.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Scleractinia/Caryophylliina/Flabelloidea.public|Flabelloidea.public]] 
 
-### #is_/same_as :: [Flabelloidea.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Scleractinia/Caryophylliina/Flabelloidea.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Scleractinia/Caryophylliina/Flabelloidea.internal|Flabelloidea.internal]] 
 
-### #is_/same_as :: [Flabelloidea.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Scleractinia/Caryophylliina/Flabelloidea.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Scleractinia/Caryophylliina/Flabelloidea.protect|Flabelloidea.protect]] 
 
-### #is_/same_as :: [Flabelloidea.private](/_private/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Scleractinia/Caryophylliina/Flabelloidea.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Scleractinia/Caryophylliina/Flabelloidea.private|Flabelloidea.private]] 
 
-### #is_/same_as :: [Flabelloidea.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Scleractinia/Caryophylliina/Flabelloidea.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Scleractinia/Caryophylliina/Flabelloidea.personal|Flabelloidea.personal]] 
 
-### #is_/same_as :: [Flabelloidea.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Scleractinia/Caryophylliina/Flabelloidea.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Scleractinia/Caryophylliina/Flabelloidea.secret|Flabelloidea.secret]] 
 

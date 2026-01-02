@@ -45,17 +45,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_value_for_handling_days](/_Standards/schema-org/Property/has_value_for/has_value_for_handling_days.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_value_for/has_value_for_handling_days|has_value_for_handling_days]] 
 
-### #is_/same_as :: [has_value_for_handling_days.public](/_public/schema-org/Property/has_value_for/has_value_for_handling_days.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/has_value_for/has_value_for_handling_days.public|has_value_for_handling_days.public]] 
 
-### #is_/same_as :: [has_value_for_handling_days.internal](/_internal/schema-org/Property/has_value_for/has_value_for_handling_days.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_value_for/has_value_for_handling_days.internal|has_value_for_handling_days.internal]] 
 
-### #is_/same_as :: [has_value_for_handling_days.protect](/_protect/schema-org/Property/has_value_for/has_value_for_handling_days.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_value_for/has_value_for_handling_days.protect|has_value_for_handling_days.protect]] 
 
-### #is_/same_as :: [has_value_for_handling_days.private](/_private/schema-org/Property/has_value_for/has_value_for_handling_days.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/has_value_for/has_value_for_handling_days.private|has_value_for_handling_days.private]] 
 
-### #is_/same_as :: [has_value_for_handling_days.personal](/_personal/schema-org/Property/has_value_for/has_value_for_handling_days.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_value_for/has_value_for_handling_days.personal|has_value_for_handling_days.personal]] 
 
-### #is_/same_as :: [has_value_for_handling_days.secret](/_secret/schema-org/Property/has_value_for/has_value_for_handling_days.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/has_value_for/has_value_for_handling_days.secret|has_value_for_handling_days.secret]] 
 

@@ -58,7 +58,7 @@ Wall of eye partially (unpigmented region forms a \"window\") to
 completely pigmented.
 
 Eye enclosed in gelatinous capsule.
-![ ](Pterotracheoidea/CarinariaShell1.jpg))
+![ ](Pterotracheoidea/CarinariaShell1.jpg) 
 
 **Figure**. **Left** - Side view of ***Atlanta peroni*** with
 transparent shell, Hawaiian waters. Keel surrounds the outermost shell
@@ -95,7 +95,7 @@ usually layed in mucoid egg strings which eventually break free from the
 female, except in ***Firoloida desmaresti*** which has a permanently
 attached tubular filament which holds the developing embryos (Owre,
 1964).
-![ ](Pterotracheoidea/PcoronataEggs1.jpg))
+![ ](Pterotracheoidea/PcoronataEggs1.jpg) 
 
 **Figure**. **Left** - Side view of posterior region of trunk of
 ***Carinaria japonica***, male, Hawaiian waters. Penis and penial
@@ -120,7 +120,7 @@ not known, nor is age or life span of the adults. The largest heteropods
 are the carinariids (to 500 mm in ***Carinaria cristata***) followed by
 the pterotracheids (to 330 mm in ***Pterotrachea coronata***) (Lalli and
 Gilmer, 1989).
-![ ](Pterotracheoidea/OxygyrusLarva1.jpg))
+![ ](Pterotracheoidea/OxygyrusLarva1.jpg) 
 
 **Figure**. **Left** - Oral view of veliger larva of ***Carinaria
 lamarcki*** with six slender, ciliated velar lobes. Drawing from
@@ -225,19 +225,19 @@ upward-searching predators (Seapy and Young, 1986).
 
 
 ------------------------------------------------------------------------- 
-![](Pterotracheoidea/Oxygyrus_keraudreni.jpg))
+![](Pterotracheoidea/Oxygyrus_keraudreni.jpg) 
 Scientific Name ::     Oxygyrus keraudreni
 Specimen Condition   Live Specimen
 Copyright ::            © 2005 [Roger R. Seapy](mailto:rseapy@fullerton.edu) 
 
 ------------------------------------------------------------------------- 
-![](Pterotracheoidea/Carinaria_japonica.jpg))
+![](Pterotracheoidea/Carinaria_japonica.jpg) 
 Scientific Name ::     Carinaria japonica
 Specimen Condition   Live Specimen
 Copyright ::            © 2005 [Roger R. Seapy](mailto:rseapy@fullerton.edu) 
 
 ------------------------------------------------------------------------- 
-![](Pterotracheoidea/Pterotrachea_coronata.jpg))
+![](Pterotracheoidea/Pterotrachea_coronata.jpg) 
 Scientific Name ::     Pterotrachea coronata
 Specimen Condition   Live Specimen
 Copyright ::            © 2005 [Roger R. Seapy](mailto:rseapy@fullerton.edu) 
@@ -245,17 +245,17 @@ Copyright ::            © 2005 [Roger R. Seapy](mailto:rseapy@fullerton.edu)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Pterotracheoidea](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Gastropoda/Caenogastropoda/Pterotracheoidea.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Gastropoda/Caenogastropoda/Pterotracheoidea|Pterotracheoidea]] 
 
-### #is_/same_as :: [Pterotracheoidea.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Gastropoda/Caenogastropoda/Pterotracheoidea.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Gastropoda/Caenogastropoda/Pterotracheoidea.public|Pterotracheoidea.public]] 
 
-### #is_/same_as :: [Pterotracheoidea.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Gastropoda/Caenogastropoda/Pterotracheoidea.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Gastropoda/Caenogastropoda/Pterotracheoidea.internal|Pterotracheoidea.internal]] 
 
-### #is_/same_as :: [Pterotracheoidea.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Gastropoda/Caenogastropoda/Pterotracheoidea.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Gastropoda/Caenogastropoda/Pterotracheoidea.protect|Pterotracheoidea.protect]] 
 
-### #is_/same_as :: [Pterotracheoidea.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Gastropoda/Caenogastropoda/Pterotracheoidea.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Gastropoda/Caenogastropoda/Pterotracheoidea.private|Pterotracheoidea.private]] 
 
-### #is_/same_as :: [Pterotracheoidea.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Gastropoda/Caenogastropoda/Pterotracheoidea.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Gastropoda/Caenogastropoda/Pterotracheoidea.personal|Pterotracheoidea.personal]] 
 
-### #is_/same_as :: [Pterotracheoidea.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Gastropoda/Caenogastropoda/Pterotracheoidea.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Gastropoda/Caenogastropoda/Pterotracheoidea.secret|Pterotracheoidea.secret]] 
 

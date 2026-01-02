@@ -52,17 +52,17 @@ Commons_category: Radionuclides
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Radionuclide](/_Standards/Science/Physics/Quantum_Mechanics/Nuclear_Physics/Radionuclide.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Quantum_Mechanics/Nuclear_Physics/Radionuclide|Radionuclide]] 
 
-### #is_/same_as :: [Radionuclide.public](/_public/Science/Physics/Quantum_Mechanics/Nuclear_Physics/Radionuclide.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Quantum_Mechanics/Nuclear_Physics/Radionuclide.public|Radionuclide.public]] 
 
-### #is_/same_as :: [Radionuclide.internal](/_internal/Science/Physics/Quantum_Mechanics/Nuclear_Physics/Radionuclide.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Quantum_Mechanics/Nuclear_Physics/Radionuclide.internal|Radionuclide.internal]] 
 
-### #is_/same_as :: [Radionuclide.protect](/_protect/Science/Physics/Quantum_Mechanics/Nuclear_Physics/Radionuclide.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Quantum_Mechanics/Nuclear_Physics/Radionuclide.protect|Radionuclide.protect]] 
 
-### #is_/same_as :: [Radionuclide.private](/_private/Science/Physics/Quantum_Mechanics/Nuclear_Physics/Radionuclide.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Quantum_Mechanics/Nuclear_Physics/Radionuclide.private|Radionuclide.private]] 
 
-### #is_/same_as :: [Radionuclide.personal](/_personal/Science/Physics/Quantum_Mechanics/Nuclear_Physics/Radionuclide.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Quantum_Mechanics/Nuclear_Physics/Radionuclide.personal|Radionuclide.personal]] 
 
-### #is_/same_as :: [Radionuclide.secret](/_secret/Science/Physics/Quantum_Mechanics/Nuclear_Physics/Radionuclide.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Quantum_Mechanics/Nuclear_Physics/Radionuclide.secret|Radionuclide.secret]] 
 

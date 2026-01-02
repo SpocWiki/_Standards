@@ -64,17 +64,17 @@ Dewey_Decimal_Classification: 523.01
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Dark_Energy](/_Standards/Astronomy/Dark_Energy.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Dark_Energy|Dark_Energy]] 
 
-### #is_/same_as :: [Dark_Energy.public](/_public/Astronomy/Dark_Energy.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Dark_Energy.public|Dark_Energy.public]] 
 
-### #is_/same_as :: [Dark_Energy.internal](/_internal/Astronomy/Dark_Energy.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Dark_Energy.internal|Dark_Energy.internal]] 
 
-### #is_/same_as :: [Dark_Energy.protect](/_protect/Astronomy/Dark_Energy.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Dark_Energy.protect|Dark_Energy.protect]] 
 
-### #is_/same_as :: [Dark_Energy.private](/_private/Astronomy/Dark_Energy.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Dark_Energy.private|Dark_Energy.private]] 
 
-### #is_/same_as :: [Dark_Energy.personal](/_personal/Astronomy/Dark_Energy.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Dark_Energy.personal|Dark_Energy.personal]] 
 
-### #is_/same_as :: [Dark_Energy.secret](/_secret/Astronomy/Dark_Energy.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Dark_Energy.secret|Dark_Energy.secret]] 
 

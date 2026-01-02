@@ -42,17 +42,17 @@ A set of products (either [[ProductGroup]]s or specific variants) that are liste
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [product_collection](/_Standards/schema-org/Collection/product_collection.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Collection/product_collection|product_collection]] 
 
-### #is_/same_as :: [product_collection.public](/_public/schema-org/Collection/product_collection.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Collection/product_collection.public|product_collection.public]] 
 
-### #is_/same_as :: [product_collection.internal](/_internal/schema-org/Collection/product_collection.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Collection/product_collection.internal|product_collection.internal]] 
 
-### #is_/same_as :: [product_collection.protect](/_protect/schema-org/Collection/product_collection.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Collection/product_collection.protect|product_collection.protect]] 
 
-### #is_/same_as :: [product_collection.private](/_private/schema-org/Collection/product_collection.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Collection/product_collection.private|product_collection.private]] 
 
-### #is_/same_as :: [product_collection.personal](/_personal/schema-org/Collection/product_collection.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Collection/product_collection.personal|product_collection.personal]] 
 
-### #is_/same_as :: [product_collection.secret](/_secret/schema-org/Collection/product_collection.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Collection/product_collection.secret|product_collection.secret]] 
 

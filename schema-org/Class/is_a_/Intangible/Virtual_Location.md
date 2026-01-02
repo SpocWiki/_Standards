@@ -43,17 +43,17 @@ An online or virtual location for attending events. For example, one may attend 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Virtual_Location](/_Standards/schema-org/Class/is_a_/Intangible/Virtual_Location.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Intangible/Virtual_Location|Virtual_Location]] 
 
-### #is_/same_as :: [Virtual_Location.public](/_public/schema-org/Class/is_a_/Intangible/Virtual_Location.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Intangible/Virtual_Location.public|Virtual_Location.public]] 
 
-### #is_/same_as :: [Virtual_Location.internal](/_internal/schema-org/Class/is_a_/Intangible/Virtual_Location.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Intangible/Virtual_Location.internal|Virtual_Location.internal]] 
 
-### #is_/same_as :: [Virtual_Location.protect](/_protect/schema-org/Class/is_a_/Intangible/Virtual_Location.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Intangible/Virtual_Location.protect|Virtual_Location.protect]] 
 
-### #is_/same_as :: [Virtual_Location.private](/_private/schema-org/Class/is_a_/Intangible/Virtual_Location.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Intangible/Virtual_Location.private|Virtual_Location.private]] 
 
-### #is_/same_as :: [Virtual_Location.personal](/_personal/schema-org/Class/is_a_/Intangible/Virtual_Location.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Intangible/Virtual_Location.personal|Virtual_Location.personal]] 
 
-### #is_/same_as :: [Virtual_Location.secret](/_secret/schema-org/Class/is_a_/Intangible/Virtual_Location.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Intangible/Virtual_Location.secret|Virtual_Location.secret]] 
 

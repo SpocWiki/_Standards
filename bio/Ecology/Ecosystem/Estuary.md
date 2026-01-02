@@ -48,17 +48,17 @@ OpenStreetMap_tag_or_key: Tag:estuary=yes
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Estuary](/_Standards/bio/Ecology/Ecosystem/Estuary.md) 
+### #is_/same_as :: [[/_Standards/bio/Ecology/Ecosystem/Estuary|Estuary]] 
 
-### #is_/same_as :: [Estuary.public](/_public/bio/Ecology/Ecosystem/Estuary.public.md) 
+### #is_/same_as :: [[/_public/bio/Ecology/Ecosystem/Estuary.public|Estuary.public]] 
 
-### #is_/same_as :: [Estuary.internal](/_internal/bio/Ecology/Ecosystem/Estuary.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Ecology/Ecosystem/Estuary.internal|Estuary.internal]] 
 
-### #is_/same_as :: [Estuary.protect](/_protect/bio/Ecology/Ecosystem/Estuary.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Ecology/Ecosystem/Estuary.protect|Estuary.protect]] 
 
-### #is_/same_as :: [Estuary.private](/_private/bio/Ecology/Ecosystem/Estuary.private.md) 
+### #is_/same_as :: [[/_private/bio/Ecology/Ecosystem/Estuary.private|Estuary.private]] 
 
-### #is_/same_as :: [Estuary.personal](/_personal/bio/Ecology/Ecosystem/Estuary.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Ecology/Ecosystem/Estuary.personal|Estuary.personal]] 
 
-### #is_/same_as :: [Estuary.secret](/_secret/bio/Ecology/Ecosystem/Estuary.secret.md)
+### #is_/same_as :: [[/_secret/bio/Ecology/Ecosystem/Estuary.secret|Estuary.secret]] 
 

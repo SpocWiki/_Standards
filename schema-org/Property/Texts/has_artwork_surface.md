@@ -46,17 +46,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_artwork_surface](/_Standards/schema-org/Property/Texts/has_artwork_surface.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/Texts/has_artwork_surface|has_artwork_surface]] 
 
-### #is_/same_as :: [has_artwork_surface.public](/_public/schema-org/Property/Texts/has_artwork_surface.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/Texts/has_artwork_surface.public|has_artwork_surface.public]] 
 
-### #is_/same_as :: [has_artwork_surface.internal](/_internal/schema-org/Property/Texts/has_artwork_surface.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/Texts/has_artwork_surface.internal|has_artwork_surface.internal]] 
 
-### #is_/same_as :: [has_artwork_surface.protect](/_protect/schema-org/Property/Texts/has_artwork_surface.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/Texts/has_artwork_surface.protect|has_artwork_surface.protect]] 
 
-### #is_/same_as :: [has_artwork_surface.private](/_private/schema-org/Property/Texts/has_artwork_surface.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/Texts/has_artwork_surface.private|has_artwork_surface.private]] 
 
-### #is_/same_as :: [has_artwork_surface.personal](/_personal/schema-org/Property/Texts/has_artwork_surface.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/Texts/has_artwork_surface.personal|has_artwork_surface.personal]] 
 
-### #is_/same_as :: [has_artwork_surface.secret](/_secret/schema-org/Property/Texts/has_artwork_surface.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/Texts/has_artwork_surface.secret|has_artwork_surface.secret]] 
 

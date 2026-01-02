@@ -7,7 +7,7 @@ title: Phyllodocida
 # [[Phyllodocida]] 
 
 ![Nereimyra_punctata](Phyllodocida/Nereimyra_punctata.jpg) 
-![Syllidae](Phyllodocida/Syllidae.jpg) ![](Phyllodocida/Notophyllum_foliosum.jpg))
+![Syllidae](Phyllodocida/Syllidae.jpg) ![](Phyllodocida/Notophyllum_foliosum.jpg) 
 
 ## #has_/text_of_/abstract 
 
@@ -56,7 +56,7 @@ approximately corresponding to what in earlier literature was referred
 to as \"errant polychaetes\". The exact number of described species
 within Phyllodocida is difficult to assess, but we estimate that more
 than 3500 species names are treated as valid today.
-![Sphaerodoridae](Phyllodocida/Sphaerodoridae.jpg))
+![Sphaerodoridae](Phyllodocida/Sphaerodoridae.jpg) 
 
 Figure 2. Undescribed Sphaerodoridae from Lizard Island (Australia).
 Copyright © 2002 Greg Rouse
@@ -91,7 +91,7 @@ discussed in the
 page, it has been suggested that Phyllodocida may be a basal
 paraphyletic grade of annelids, although this has generally not been
 supported by morphological data.
-![Compound chaeta of a nereidid](Phyllodocida/nereidid_chaeta.jpg))
+![Compound chaeta of a nereidid](Phyllodocida/nereidid_chaeta.jpg) 
 
 Figure 3. Compound chaeta of a nereidid with double ligaments between
 blade and shaft. Copyright © 1997 Fredrik Pleijel.
@@ -103,12 +103,12 @@ the posterior edge of the prostomium (Fig. 4). The palps and paired
 antennae may look similar, as in phyllodocids (Fig. 4) and glycerids
 (Fig. 9), or the palps may be larger and more elaborated, as in
 hesionids and nereidids (Fig. 5).
-![Sige fusigera](Phyllodocida/Sige_fusigera.jpg))
+![Sige fusigera](Phyllodocida/Sige_fusigera.jpg) 
 
 Figure 4. A phyllodocid, *Sige fusigera*, Sweden, anterior end in dorsal
 view, arrows indicate palp, paired antenna (P ANT) and nuchal organ (NO)
 on the left side. Copyright © 1987 Fredrik Pleijel.
-![Hediste diversicolor](Phyllodocida/Hediste_diversicolor.jpg))
+![Hediste diversicolor](Phyllodocida/Hediste_diversicolor.jpg) 
 
 Figure 5. A nereidid, *Hediste diversicolor*, Sweden, anterior end in
 ventral view. Arrows indicate paired antenna (PA), palpostyle (PS) and
@@ -121,7 +121,7 @@ peristomium vs. the first segment, such as in nereidids.) There is an
 axial muscular proboscis (eversible pharynx), that in many taxa is
 distally or internally equipped with one or several pairs of jaws (Fig.
 6).
-![](Phyllodocida/Perinereis_proboscis_retracted1.jpg))
+![](Phyllodocida/Perinereis_proboscis_retracted1.jpg) 
 
 Figure 6. Everted proboscis of a nereidid, *Neanthes vaalii*, showing
 jaws. When retracted (right) the jaws of nereidids are held inside the
@@ -166,7 +166,7 @@ Identified and named major subgroups in the tree above (Fig. 1) include
 Aphroditiformia, Nereidiformia, and Glyceriformia. Of these,
 Aphroditiformia are united by the obvious feature presence of elytrae
 (\"scales\") on a number of alternating segments (Fig. 7).
-![Polynoidae](Phyllodocida/commensal_scaleworm.jpg))
+![Polynoidae](Phyllodocida/commensal_scaleworm.jpg) 
 
 Figure 7. Unidentified polynoid scaleworm (Aphroditiformia) commensal on
 a crinoid. Note bright red elytrae. Copyright © 1998 Greg Rouse.
@@ -177,7 +177,7 @@ basal polytomy. Rouse and Fauchald (1997) classified them together with
 *Paralacydonia* and Glyceriformia, whereas in Pleijel and Dahlgren
 (1998) they appeared as sister to the scale-worms (see Pleijel, 2001a
 for further references).
-![Pisione](Phyllodocida/Pisione_sp.jpg))
+![Pisione](Phyllodocida/Pisione_sp.jpg) 
 
 Figure 8. *Pisione* sp. from Lizard Island (Australia). Copyright © 2002
 Greg Rouse
@@ -202,7 +202,7 @@ of which the major part anterior actually may represent the basal
 portion of the fused palps (see e.g., Orrhage, 1999). A recent, detailed
 revision of the former group by Böggemann (2002) supported the
 traditional view that Glyceridae and Goniadidae are sister taxa.
-![Glycera](Phyllodocida/Glycera_sp.jpg))
+![Glycera](Phyllodocida/Glycera_sp.jpg) 
 
 Figure 9. *Glycera* sp. from Japan. Copyright © 1998 Greg Rouse.
 
@@ -220,7 +220,7 @@ and renamed as Alciopini (Pleijel, 2001b); however, their more precise
 relationships among phyllodocids are uncertain, although Pleijel (2001b)
 suggested that they may be sought among *Pirakia*, *Pterocirrus* or
 *Sige*.
-![ ](Phyllodocida/Phyllodoce_citrina.jpg))
+![ ](Phyllodocida/Phyllodoce_citrina.jpg) 
 
 Figure 10. Left *Lacydonia*, South Australia, dorsal view, copyright ©
 2004 Greg Rouse, right *Phyllodoce citrina*, Norway, anterior end,
@@ -290,20 +290,20 @@ dorsal view, copyright © 2004 Fredrik Pleijel.
 ## Title Illustrations
 
 ---------------------------------------------------------------------- 
-![Nereimyra punctata habitus](Phyllodocida/Nereimyra_punctata.jpg))
+![Nereimyra punctata habitus](Phyllodocida/Nereimyra_punctata.jpg) 
 Scientific Name ::  Nereimyra punctata
 Location ::        south-western Iceland
 Comments          Hesionidae
 Copyright ::         © 2001 [Greg W. Rouse](http://mbrd.ucsd.edu/) 
 
 ------------------------------------------------------------------------ 
-![Syllidae](Phyllodocida/Syllidae.jpg))
+![Syllidae](Phyllodocida/Syllidae.jpg) 
 Scientific Name ::  Syllidae
 Location ::        Massachusetts, USA
 Copyright ::         © 1997 [Fredrik Pleijel](mailto:pleijel@mnhn.fr) 
 
 ------------------------------------------------------------------------ 
-![Notophyllum foliosum](Phyllodocida/Notophyllum_foliosum.jpg))
+![Notophyllum foliosum](Phyllodocida/Notophyllum_foliosum.jpg) 
 Scientific Name ::  Notophyllum foliosum
 Location ::        Trondheim, Norway
 Comments          Phyllodocidae
@@ -312,17 +312,17 @@ Copyright ::         © 2002 [Fredrik Pleijel](mailto:pleijel@mnhn.fr)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Phyllodocida](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Annelida/Phyllodocida.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Annelida/Phyllodocida|Phyllodocida]] 
 
-### #is_/same_as :: [Phyllodocida.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Annelida/Phyllodocida.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Annelida/Phyllodocida.public|Phyllodocida.public]] 
 
-### #is_/same_as :: [Phyllodocida.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Annelida/Phyllodocida.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Annelida/Phyllodocida.internal|Phyllodocida.internal]] 
 
-### #is_/same_as :: [Phyllodocida.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Annelida/Phyllodocida.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Annelida/Phyllodocida.protect|Phyllodocida.protect]] 
 
-### #is_/same_as :: [Phyllodocida.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Annelida/Phyllodocida.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Annelida/Phyllodocida.private|Phyllodocida.private]] 
 
-### #is_/same_as :: [Phyllodocida.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Annelida/Phyllodocida.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Annelida/Phyllodocida.personal|Phyllodocida.personal]] 
 
-### #is_/same_as :: [Phyllodocida.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Annelida/Phyllodocida.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Annelida/Phyllodocida.secret|Phyllodocida.secret]] 
 

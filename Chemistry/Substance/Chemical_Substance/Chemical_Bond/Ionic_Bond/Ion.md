@@ -64,17 +64,17 @@ MeSH_tree_code: D01.248.497
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ion](/_Standards/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion|Ion]] 
 
-### #is_/same_as :: [Ion.public](/_public/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion.public|Ion.public]] 
 
-### #is_/same_as :: [Ion.internal](/_internal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion.internal|Ion.internal]] 
 
-### #is_/same_as :: [Ion.protect](/_protect/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion.protect|Ion.protect]] 
 
-### #is_/same_as :: [Ion.private](/_private/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion.private|Ion.private]] 
 
-### #is_/same_as :: [Ion.personal](/_personal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion.personal|Ion.personal]] 
 
-### #is_/same_as :: [Ion.secret](/_secret/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion.secret|Ion.secret]] 
 

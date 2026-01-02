@@ -110,17 +110,17 @@ native_label: الخلافة الراشدة
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [0632-Rashidun Caliphate+0661](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/0632-Rashidun Caliphate+0661.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/0632-Rashidun Caliphate+0661|0632-Rashidun Caliphate+0661]] 
 
-### #is_/same_as :: [0632-Rashidun Caliphate+0661.public](/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/0632-Rashidun Caliphate+0661.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/0632-Rashidun Caliphate+0661.public|0632-Rashidun Caliphate+0661.public]] 
 
-### #is_/same_as :: [0632-Rashidun Caliphate+0661.internal](/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/0632-Rashidun Caliphate+0661.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/0632-Rashidun Caliphate+0661.internal|0632-Rashidun Caliphate+0661.internal]] 
 
-### #is_/same_as :: [0632-Rashidun Caliphate+0661.protect](/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/0632-Rashidun Caliphate+0661.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/0632-Rashidun Caliphate+0661.protect|0632-Rashidun Caliphate+0661.protect]] 
 
-### #is_/same_as :: [0632-Rashidun Caliphate+0661.private](/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/0632-Rashidun Caliphate+0661.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/0632-Rashidun Caliphate+0661.private|0632-Rashidun Caliphate+0661.private]] 
 
-### #is_/same_as :: [0632-Rashidun Caliphate+0661.personal](/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/0632-Rashidun Caliphate+0661.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/0632-Rashidun Caliphate+0661.personal|0632-Rashidun Caliphate+0661.personal]] 
 
-### #is_/same_as :: [0632-Rashidun Caliphate+0661.secret](/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/0632-Rashidun Caliphate+0661.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/0632-Rashidun Caliphate+0661.secret|0632-Rashidun Caliphate+0661.secret]] 
 

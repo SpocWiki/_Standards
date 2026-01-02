@@ -156,17 +156,17 @@ Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_sports,16000501]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [High-Performance_Sport](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport|High-Performance_Sport]] 
 
-### #is_/same_as :: [High-Performance_Sport.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport.public|High-Performance_Sport.public]] 
 
-### #is_/same_as :: [High-Performance_Sport.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport.internal|High-Performance_Sport.internal]] 
 
-### #is_/same_as :: [High-Performance_Sport.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport.protect|High-Performance_Sport.protect]] 
 
-### #is_/same_as :: [High-Performance_Sport.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport.private|High-Performance_Sport.private]] 
 
-### #is_/same_as :: [High-Performance_Sport.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport.personal|High-Performance_Sport.personal]] 
 
-### #is_/same_as :: [High-Performance_Sport.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport.secret|High-Performance_Sport.secret]] 
 

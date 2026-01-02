@@ -25,17 +25,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ricci-Curbastro,Gregorio](/_Standards/Mathematics/Mathematician/Ricci-Curbastro,Gregorio.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Mathematician/Ricci-Curbastro,Gregorio|Ricci-Curbastro,Gregorio]] 
 
-### #is_/same_as :: [Ricci-Curbastro,Gregorio.public](/_public/Mathematics/Mathematician/Ricci-Curbastro,Gregorio.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Mathematician/Ricci-Curbastro,Gregorio.public|Ricci-Curbastro,Gregorio.public]] 
 
-### #is_/same_as :: [Ricci-Curbastro,Gregorio.internal](/_internal/Mathematics/Mathematician/Ricci-Curbastro,Gregorio.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Mathematician/Ricci-Curbastro,Gregorio.internal|Ricci-Curbastro,Gregorio.internal]] 
 
-### #is_/same_as :: [Ricci-Curbastro,Gregorio.protect](/_protect/Mathematics/Mathematician/Ricci-Curbastro,Gregorio.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Mathematician/Ricci-Curbastro,Gregorio.protect|Ricci-Curbastro,Gregorio.protect]] 
 
-### #is_/same_as :: [Ricci-Curbastro,Gregorio.private](/_private/Mathematics/Mathematician/Ricci-Curbastro,Gregorio.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Mathematician/Ricci-Curbastro,Gregorio.private|Ricci-Curbastro,Gregorio.private]] 
 
-### #is_/same_as :: [Ricci-Curbastro,Gregorio.personal](/_personal/Mathematics/Mathematician/Ricci-Curbastro,Gregorio.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Mathematician/Ricci-Curbastro,Gregorio.personal|Ricci-Curbastro,Gregorio.personal]] 
 
-### #is_/same_as :: [Ricci-Curbastro,Gregorio.secret](/_secret/Mathematics/Mathematician/Ricci-Curbastro,Gregorio.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Mathematician/Ricci-Curbastro,Gregorio.secret|Ricci-Curbastro,Gregorio.secret]] 
 

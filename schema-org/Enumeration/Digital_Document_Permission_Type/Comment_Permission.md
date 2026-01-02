@@ -46,17 +46,17 @@ In Markdown this is even riskier, since there are no clear limits, except for th
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Comment_Permission](/_Standards/schema-org/Enumeration/Digital_Document_Permission_Type/Comment_Permission.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Digital_Document_Permission_Type/Comment_Permission|Comment_Permission]] 
 
-### #is_/same_as :: [Comment_Permission.public](/_public/schema-org/Enumeration/Digital_Document_Permission_Type/Comment_Permission.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Digital_Document_Permission_Type/Comment_Permission.public|Comment_Permission.public]] 
 
-### #is_/same_as :: [Comment_Permission.internal](/_internal/schema-org/Enumeration/Digital_Document_Permission_Type/Comment_Permission.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Digital_Document_Permission_Type/Comment_Permission.internal|Comment_Permission.internal]] 
 
-### #is_/same_as :: [Comment_Permission.protect](/_protect/schema-org/Enumeration/Digital_Document_Permission_Type/Comment_Permission.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Digital_Document_Permission_Type/Comment_Permission.protect|Comment_Permission.protect]] 
 
-### #is_/same_as :: [Comment_Permission.private](/_private/schema-org/Enumeration/Digital_Document_Permission_Type/Comment_Permission.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Digital_Document_Permission_Type/Comment_Permission.private|Comment_Permission.private]] 
 
-### #is_/same_as :: [Comment_Permission.personal](/_personal/schema-org/Enumeration/Digital_Document_Permission_Type/Comment_Permission.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Digital_Document_Permission_Type/Comment_Permission.personal|Comment_Permission.personal]] 
 
-### #is_/same_as :: [Comment_Permission.secret](/_secret/schema-org/Enumeration/Digital_Document_Permission_Type/Comment_Permission.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Digital_Document_Permission_Type/Comment_Permission.secret|Comment_Permission.secret]] 
 

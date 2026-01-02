@@ -65,17 +65,17 @@ g_factor: -2.0023318418
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Muon](/_Standards/Science/Physics/Quantum_Mechanics/Standard_Model/Fermion/Lepton/Muon.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Quantum_Mechanics/Standard_Model/Fermion/Lepton/Muon|Muon]] 
 
-### #is_/same_as :: [Muon.public](/_public/Science/Physics/Quantum_Mechanics/Standard_Model/Fermion/Lepton/Muon.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Quantum_Mechanics/Standard_Model/Fermion/Lepton/Muon.public|Muon.public]] 
 
-### #is_/same_as :: [Muon.internal](/_internal/Science/Physics/Quantum_Mechanics/Standard_Model/Fermion/Lepton/Muon.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Quantum_Mechanics/Standard_Model/Fermion/Lepton/Muon.internal|Muon.internal]] 
 
-### #is_/same_as :: [Muon.protect](/_protect/Science/Physics/Quantum_Mechanics/Standard_Model/Fermion/Lepton/Muon.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Quantum_Mechanics/Standard_Model/Fermion/Lepton/Muon.protect|Muon.protect]] 
 
-### #is_/same_as :: [Muon.private](/_private/Science/Physics/Quantum_Mechanics/Standard_Model/Fermion/Lepton/Muon.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Quantum_Mechanics/Standard_Model/Fermion/Lepton/Muon.private|Muon.private]] 
 
-### #is_/same_as :: [Muon.personal](/_personal/Science/Physics/Quantum_Mechanics/Standard_Model/Fermion/Lepton/Muon.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Quantum_Mechanics/Standard_Model/Fermion/Lepton/Muon.personal|Muon.personal]] 
 
-### #is_/same_as :: [Muon.secret](/_secret/Science/Physics/Quantum_Mechanics/Standard_Model/Fermion/Lepton/Muon.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Quantum_Mechanics/Standard_Model/Fermion/Lepton/Muon.secret|Muon.secret]] 
 

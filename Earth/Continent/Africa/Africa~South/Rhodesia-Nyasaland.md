@@ -40,17 +40,17 @@ Capital :: [[Zimbabwe/Provinces~Zimbabwe/Harare,Province]]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Rhodesia-Nyasaland](/_Standards/Earth/Continent/Africa/Africa~South/Rhodesia-Nyasaland.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~South/Rhodesia-Nyasaland|Rhodesia-Nyasaland]] 
 
-### #is_/same_as :: [Rhodesia-Nyasaland.public](/_public/Earth/Continent/Africa/Africa~South/Rhodesia-Nyasaland.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~South/Rhodesia-Nyasaland.public|Rhodesia-Nyasaland.public]] 
 
-### #is_/same_as :: [Rhodesia-Nyasaland.internal](/_internal/Earth/Continent/Africa/Africa~South/Rhodesia-Nyasaland.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~South/Rhodesia-Nyasaland.internal|Rhodesia-Nyasaland.internal]] 
 
-### #is_/same_as :: [Rhodesia-Nyasaland.protect](/_protect/Earth/Continent/Africa/Africa~South/Rhodesia-Nyasaland.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~South/Rhodesia-Nyasaland.protect|Rhodesia-Nyasaland.protect]] 
 
-### #is_/same_as :: [Rhodesia-Nyasaland.private](/_private/Earth/Continent/Africa/Africa~South/Rhodesia-Nyasaland.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~South/Rhodesia-Nyasaland.private|Rhodesia-Nyasaland.private]] 
 
-### #is_/same_as :: [Rhodesia-Nyasaland.personal](/_personal/Earth/Continent/Africa/Africa~South/Rhodesia-Nyasaland.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~South/Rhodesia-Nyasaland.personal|Rhodesia-Nyasaland.personal]] 
 
-### #is_/same_as :: [Rhodesia-Nyasaland.secret](/_secret/Earth/Continent/Africa/Africa~South/Rhodesia-Nyasaland.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~South/Rhodesia-Nyasaland.secret|Rhodesia-Nyasaland.secret]] 
 

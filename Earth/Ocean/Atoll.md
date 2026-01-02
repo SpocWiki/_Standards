@@ -72,17 +72,17 @@ GeoNames_feature_code: T.ATOL
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Atoll](/_Standards/Earth/Ocean/Atoll.md) 
+### #is_/same_as :: [[/_Standards/Earth/Ocean/Atoll|Atoll]] 
 
-### #is_/same_as :: [Atoll.public](/_public/Earth/Ocean/Atoll.public.md) 
+### #is_/same_as :: [[/_public/Earth/Ocean/Atoll.public|Atoll.public]] 
 
-### #is_/same_as :: [Atoll.internal](/_internal/Earth/Ocean/Atoll.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Ocean/Atoll.internal|Atoll.internal]] 
 
-### #is_/same_as :: [Atoll.protect](/_protect/Earth/Ocean/Atoll.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Ocean/Atoll.protect|Atoll.protect]] 
 
-### #is_/same_as :: [Atoll.private](/_private/Earth/Ocean/Atoll.private.md) 
+### #is_/same_as :: [[/_private/Earth/Ocean/Atoll.private|Atoll.private]] 
 
-### #is_/same_as :: [Atoll.personal](/_personal/Earth/Ocean/Atoll.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Ocean/Atoll.personal|Atoll.personal]] 
 
-### #is_/same_as :: [Atoll.secret](/_secret/Earth/Ocean/Atoll.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Ocean/Atoll.secret|Atoll.secret]] 
 

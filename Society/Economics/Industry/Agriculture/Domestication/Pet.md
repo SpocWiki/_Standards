@@ -49,17 +49,17 @@ Baidu_Tieba_name: 宠物
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Pet](/_Standards/Society/Economics/Industry/Agriculture/Domestication/Pet.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Industry/Agriculture/Domestication/Pet|Pet]] 
 
-### #is_/same_as :: [Pet.public](/_public/Society/Economics/Industry/Agriculture/Domestication/Pet.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Industry/Agriculture/Domestication/Pet.public|Pet.public]] 
 
-### #is_/same_as :: [Pet.internal](/_internal/Society/Economics/Industry/Agriculture/Domestication/Pet.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Industry/Agriculture/Domestication/Pet.internal|Pet.internal]] 
 
-### #is_/same_as :: [Pet.protect](/_protect/Society/Economics/Industry/Agriculture/Domestication/Pet.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Industry/Agriculture/Domestication/Pet.protect|Pet.protect]] 
 
-### #is_/same_as :: [Pet.private](/_private/Society/Economics/Industry/Agriculture/Domestication/Pet.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Industry/Agriculture/Domestication/Pet.private|Pet.private]] 
 
-### #is_/same_as :: [Pet.personal](/_personal/Society/Economics/Industry/Agriculture/Domestication/Pet.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Industry/Agriculture/Domestication/Pet.personal|Pet.personal]] 
 
-### #is_/same_as :: [Pet.secret](/_secret/Society/Economics/Industry/Agriculture/Domestication/Pet.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Industry/Agriculture/Domestication/Pet.secret|Pet.secret]] 
 

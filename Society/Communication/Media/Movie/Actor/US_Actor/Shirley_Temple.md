@@ -129,17 +129,17 @@ Krugosvet_article_archived_: kultura_i_obrazovanie/teatr_i_kino/TEMPL_SHIRLI.htm
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Shirley_Temple](/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Shirley_Temple.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Shirley_Temple|Shirley_Temple]] 
 
-### #is_/same_as :: [Shirley_Temple.public](/_public/Society/Communication/Media/Movie/Actor/US_Actor/Shirley_Temple.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Actor/US_Actor/Shirley_Temple.public|Shirley_Temple.public]] 
 
-### #is_/same_as :: [Shirley_Temple.internal](/_internal/Society/Communication/Media/Movie/Actor/US_Actor/Shirley_Temple.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Actor/US_Actor/Shirley_Temple.internal|Shirley_Temple.internal]] 
 
-### #is_/same_as :: [Shirley_Temple.protect](/_protect/Society/Communication/Media/Movie/Actor/US_Actor/Shirley_Temple.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Actor/US_Actor/Shirley_Temple.protect|Shirley_Temple.protect]] 
 
-### #is_/same_as :: [Shirley_Temple.private](/_private/Society/Communication/Media/Movie/Actor/US_Actor/Shirley_Temple.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Actor/US_Actor/Shirley_Temple.private|Shirley_Temple.private]] 
 
-### #is_/same_as :: [Shirley_Temple.personal](/_personal/Society/Communication/Media/Movie/Actor/US_Actor/Shirley_Temple.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Actor/US_Actor/Shirley_Temple.personal|Shirley_Temple.personal]] 
 
-### #is_/same_as :: [Shirley_Temple.secret](/_secret/Society/Communication/Media/Movie/Actor/US_Actor/Shirley_Temple.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Actor/US_Actor/Shirley_Temple.secret|Shirley_Temple.secret]] 
 

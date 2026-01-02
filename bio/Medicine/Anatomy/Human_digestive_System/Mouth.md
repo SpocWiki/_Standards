@@ -63,17 +63,17 @@ MeSH_tree_code:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Mouth](/_Standards/bio/Medicine/Anatomy/Human_digestive_System/Mouth.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Anatomy/Human_digestive_System/Mouth|Mouth]] 
 
-### #is_/same_as :: [Mouth.public](/_public/bio/Medicine/Anatomy/Human_digestive_System/Mouth.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Anatomy/Human_digestive_System/Mouth.public|Mouth.public]] 
 
-### #is_/same_as :: [Mouth.internal](/_internal/bio/Medicine/Anatomy/Human_digestive_System/Mouth.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Anatomy/Human_digestive_System/Mouth.internal|Mouth.internal]] 
 
-### #is_/same_as :: [Mouth.protect](/_protect/bio/Medicine/Anatomy/Human_digestive_System/Mouth.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Anatomy/Human_digestive_System/Mouth.protect|Mouth.protect]] 
 
-### #is_/same_as :: [Mouth.private](/_private/bio/Medicine/Anatomy/Human_digestive_System/Mouth.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Anatomy/Human_digestive_System/Mouth.private|Mouth.private]] 
 
-### #is_/same_as :: [Mouth.personal](/_personal/bio/Medicine/Anatomy/Human_digestive_System/Mouth.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Anatomy/Human_digestive_System/Mouth.personal|Mouth.personal]] 
 
-### #is_/same_as :: [Mouth.secret](/_secret/bio/Medicine/Anatomy/Human_digestive_System/Mouth.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Anatomy/Human_digestive_System/Mouth.secret|Mouth.secret]] 
 

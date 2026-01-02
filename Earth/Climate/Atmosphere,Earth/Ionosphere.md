@@ -45,17 +45,17 @@ Commons_category: Ionosphere
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ionosphere](/_Standards/Earth/Climate/Atmosphere,Earth/Ionosphere.md) 
+### #is_/same_as :: [[/_Standards/Earth/Climate/Atmosphere,Earth/Ionosphere|Ionosphere]] 
 
-### #is_/same_as :: [Ionosphere.public](/_public/Earth/Climate/Atmosphere,Earth/Ionosphere.public.md) 
+### #is_/same_as :: [[/_public/Earth/Climate/Atmosphere,Earth/Ionosphere.public|Ionosphere.public]] 
 
-### #is_/same_as :: [Ionosphere.internal](/_internal/Earth/Climate/Atmosphere,Earth/Ionosphere.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Climate/Atmosphere,Earth/Ionosphere.internal|Ionosphere.internal]] 
 
-### #is_/same_as :: [Ionosphere.protect](/_protect/Earth/Climate/Atmosphere,Earth/Ionosphere.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Climate/Atmosphere,Earth/Ionosphere.protect|Ionosphere.protect]] 
 
-### #is_/same_as :: [Ionosphere.private](/_private/Earth/Climate/Atmosphere,Earth/Ionosphere.private.md) 
+### #is_/same_as :: [[/_private/Earth/Climate/Atmosphere,Earth/Ionosphere.private|Ionosphere.private]] 
 
-### #is_/same_as :: [Ionosphere.personal](/_personal/Earth/Climate/Atmosphere,Earth/Ionosphere.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Climate/Atmosphere,Earth/Ionosphere.personal|Ionosphere.personal]] 
 
-### #is_/same_as :: [Ionosphere.secret](/_secret/Earth/Climate/Atmosphere,Earth/Ionosphere.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Climate/Atmosphere,Earth/Ionosphere.secret|Ionosphere.secret]] 
 

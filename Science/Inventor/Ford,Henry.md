@@ -135,17 +135,17 @@ ISNI: 0000000111509871
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ford,Henry](/_Standards/Science/Inventor/Ford,Henry.md) 
+### #is_/same_as :: [[/_Standards/Science/Inventor/Ford,Henry|Ford,Henry]] 
 
-### #is_/same_as :: [Ford,Henry.public](/_public/Science/Inventor/Ford,Henry.public.md) 
+### #is_/same_as :: [[/_public/Science/Inventor/Ford,Henry.public|Ford,Henry.public]] 
 
-### #is_/same_as :: [Ford,Henry.internal](/_internal/Science/Inventor/Ford,Henry.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Inventor/Ford,Henry.internal|Ford,Henry.internal]] 
 
-### #is_/same_as :: [Ford,Henry.protect](/_protect/Science/Inventor/Ford,Henry.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Inventor/Ford,Henry.protect|Ford,Henry.protect]] 
 
-### #is_/same_as :: [Ford,Henry.private](/_private/Science/Inventor/Ford,Henry.private.md) 
+### #is_/same_as :: [[/_private/Science/Inventor/Ford,Henry.private|Ford,Henry.private]] 
 
-### #is_/same_as :: [Ford,Henry.personal](/_personal/Science/Inventor/Ford,Henry.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Inventor/Ford,Henry.personal|Ford,Henry.personal]] 
 
-### #is_/same_as :: [Ford,Henry.secret](/_secret/Science/Inventor/Ford,Henry.secret.md)
+### #is_/same_as :: [[/_secret/Science/Inventor/Ford,Henry.secret|Ford,Henry.secret]] 
 

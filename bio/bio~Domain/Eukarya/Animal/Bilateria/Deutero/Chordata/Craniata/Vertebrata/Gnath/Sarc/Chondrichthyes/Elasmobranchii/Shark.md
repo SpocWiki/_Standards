@@ -99,17 +99,17 @@ Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_sharks,7112728]]"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Shark](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Chondrichthyes/Elasmobranchii/Shark.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Chondrichthyes/Elasmobranchii/Shark|Shark]] 
 
-### #is_/same_as :: [Shark.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Chondrichthyes/Elasmobranchii/Shark.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Chondrichthyes/Elasmobranchii/Shark.public|Shark.public]] 
 
-### #is_/same_as :: [Shark.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Chondrichthyes/Elasmobranchii/Shark.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Chondrichthyes/Elasmobranchii/Shark.internal|Shark.internal]] 
 
-### #is_/same_as :: [Shark.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Chondrichthyes/Elasmobranchii/Shark.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Chondrichthyes/Elasmobranchii/Shark.protect|Shark.protect]] 
 
-### #is_/same_as :: [Shark.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Chondrichthyes/Elasmobranchii/Shark.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Chondrichthyes/Elasmobranchii/Shark.private|Shark.private]] 
 
-### #is_/same_as :: [Shark.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Chondrichthyes/Elasmobranchii/Shark.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Chondrichthyes/Elasmobranchii/Shark.personal|Shark.personal]] 
 
-### #is_/same_as :: [Shark.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Chondrichthyes/Elasmobranchii/Shark.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Chondrichthyes/Elasmobranchii/Shark.secret|Shark.secret]] 
 

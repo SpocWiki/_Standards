@@ -60,17 +60,17 @@ IMDb_keyword: space-station
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Space_Station](/_Standards/Technology/Spaceflight/Space_Station.md) 
+### #is_/same_as :: [[/_Standards/Technology/Spaceflight/Space_Station|Space_Station]] 
 
-### #is_/same_as :: [Space_Station.public](/_public/Technology/Spaceflight/Space_Station.public.md) 
+### #is_/same_as :: [[/_public/Technology/Spaceflight/Space_Station.public|Space_Station.public]] 
 
-### #is_/same_as :: [Space_Station.internal](/_internal/Technology/Spaceflight/Space_Station.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Spaceflight/Space_Station.internal|Space_Station.internal]] 
 
-### #is_/same_as :: [Space_Station.protect](/_protect/Technology/Spaceflight/Space_Station.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Spaceflight/Space_Station.protect|Space_Station.protect]] 
 
-### #is_/same_as :: [Space_Station.private](/_private/Technology/Spaceflight/Space_Station.private.md) 
+### #is_/same_as :: [[/_private/Technology/Spaceflight/Space_Station.private|Space_Station.private]] 
 
-### #is_/same_as :: [Space_Station.personal](/_personal/Technology/Spaceflight/Space_Station.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Spaceflight/Space_Station.personal|Space_Station.personal]] 
 
-### #is_/same_as :: [Space_Station.secret](/_secret/Technology/Spaceflight/Space_Station.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Spaceflight/Space_Station.secret|Space_Station.secret]] 
 

@@ -37,17 +37,17 @@ which can eventually be used to change Societies and continuate Power Concentrat
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Political_Power](/_Standards/Society/Politics/Political_Power.md) 
+### #is_/same_as :: [[/_Standards/Society/Politics/Political_Power|Political_Power]] 
 
-### #is_/same_as :: [Political_Power.public](/_public/Society/Politics/Political_Power.public.md) 
+### #is_/same_as :: [[/_public/Society/Politics/Political_Power.public|Political_Power.public]] 
 
-### #is_/same_as :: [Political_Power.internal](/_internal/Society/Politics/Political_Power.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Politics/Political_Power.internal|Political_Power.internal]] 
 
-### #is_/same_as :: [Political_Power.protect](/_protect/Society/Politics/Political_Power.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Politics/Political_Power.protect|Political_Power.protect]] 
 
-### #is_/same_as :: [Political_Power.private](/_private/Society/Politics/Political_Power.private.md) 
+### #is_/same_as :: [[/_private/Society/Politics/Political_Power.private|Political_Power.private]] 
 
-### #is_/same_as :: [Political_Power.personal](/_personal/Society/Politics/Political_Power.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Politics/Political_Power.personal|Political_Power.personal]] 
 
-### #is_/same_as :: [Political_Power.secret](/_secret/Society/Politics/Political_Power.secret.md)
+### #is_/same_as :: [[/_secret/Society/Politics/Political_Power.secret|Political_Power.secret]] 
 

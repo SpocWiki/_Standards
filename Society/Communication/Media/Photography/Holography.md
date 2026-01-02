@@ -44,17 +44,17 @@ Krugosvet_article_archived_: nauka_i_tehnika/fizika/GOLOGRAFIYA.html
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Holography](/_Standards/Society/Communication/Media/Photography/Holography.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Photography/Holography|Holography]] 
 
-### #is_/same_as :: [Holography.public](/_public/Society/Communication/Media/Photography/Holography.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Photography/Holography.public|Holography.public]] 
 
-### #is_/same_as :: [Holography.internal](/_internal/Society/Communication/Media/Photography/Holography.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Photography/Holography.internal|Holography.internal]] 
 
-### #is_/same_as :: [Holography.protect](/_protect/Society/Communication/Media/Photography/Holography.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Photography/Holography.protect|Holography.protect]] 
 
-### #is_/same_as :: [Holography.private](/_private/Society/Communication/Media/Photography/Holography.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Photography/Holography.private|Holography.private]] 
 
-### #is_/same_as :: [Holography.personal](/_personal/Society/Communication/Media/Photography/Holography.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Photography/Holography.personal|Holography.personal]] 
 
-### #is_/same_as :: [Holography.secret](/_secret/Society/Communication/Media/Photography/Holography.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Photography/Holography.secret|Holography.secret]] 
 

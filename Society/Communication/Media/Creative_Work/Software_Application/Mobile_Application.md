@@ -41,17 +41,17 @@ A software application designed specifically to work well on a mobile device suc
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Mobile_Application](/_Standards/Society/Communication/Media/Creative_Work/Software_Application/Mobile_Application.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Creative_Work/Software_Application/Mobile_Application|Mobile_Application]] 
 
-### #is_/same_as :: [Mobile_Application.public](/_public/Society/Communication/Media/Creative_Work/Software_Application/Mobile_Application.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Creative_Work/Software_Application/Mobile_Application.public|Mobile_Application.public]] 
 
-### #is_/same_as :: [Mobile_Application.internal](/_internal/Society/Communication/Media/Creative_Work/Software_Application/Mobile_Application.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Creative_Work/Software_Application/Mobile_Application.internal|Mobile_Application.internal]] 
 
-### #is_/same_as :: [Mobile_Application.protect](/_protect/Society/Communication/Media/Creative_Work/Software_Application/Mobile_Application.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Creative_Work/Software_Application/Mobile_Application.protect|Mobile_Application.protect]] 
 
-### #is_/same_as :: [Mobile_Application.private](/_private/Society/Communication/Media/Creative_Work/Software_Application/Mobile_Application.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Creative_Work/Software_Application/Mobile_Application.private|Mobile_Application.private]] 
 
-### #is_/same_as :: [Mobile_Application.personal](/_personal/Society/Communication/Media/Creative_Work/Software_Application/Mobile_Application.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/Software_Application/Mobile_Application.personal|Mobile_Application.personal]] 
 
-### #is_/same_as :: [Mobile_Application.secret](/_secret/Society/Communication/Media/Creative_Work/Software_Application/Mobile_Application.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Software_Application/Mobile_Application.secret|Mobile_Application.secret]] 
 

@@ -62,17 +62,17 @@ MeSH_tree_code: F02.739.138
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Behaviorism](/_Standards/bio/Psychology/Psychology-Theory/Behaviorism.md) 
+### #is_/same_as :: [[/_Standards/bio/Psychology/Psychology-Theory/Behaviorism|Behaviorism]] 
 
-### #is_/same_as :: [Behaviorism.public](/_public/bio/Psychology/Psychology-Theory/Behaviorism.public.md) 
+### #is_/same_as :: [[/_public/bio/Psychology/Psychology-Theory/Behaviorism.public|Behaviorism.public]] 
 
-### #is_/same_as :: [Behaviorism.internal](/_internal/bio/Psychology/Psychology-Theory/Behaviorism.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Psychology/Psychology-Theory/Behaviorism.internal|Behaviorism.internal]] 
 
-### #is_/same_as :: [Behaviorism.protect](/_protect/bio/Psychology/Psychology-Theory/Behaviorism.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Psychology/Psychology-Theory/Behaviorism.protect|Behaviorism.protect]] 
 
-### #is_/same_as :: [Behaviorism.private](/_private/bio/Psychology/Psychology-Theory/Behaviorism.private.md) 
+### #is_/same_as :: [[/_private/bio/Psychology/Psychology-Theory/Behaviorism.private|Behaviorism.private]] 
 
-### #is_/same_as :: [Behaviorism.personal](/_personal/bio/Psychology/Psychology-Theory/Behaviorism.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Psychology/Psychology-Theory/Behaviorism.personal|Behaviorism.personal]] 
 
-### #is_/same_as :: [Behaviorism.secret](/_secret/bio/Psychology/Psychology-Theory/Behaviorism.secret.md)
+### #is_/same_as :: [[/_secret/bio/Psychology/Psychology-Theory/Behaviorism.secret|Behaviorism.secret]] 
 

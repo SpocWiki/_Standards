@@ -35,17 +35,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Morgan,Jeffrey_Dean](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Comic-Movie/Morgan,Jeffrey_Dean.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Genre/Comic-Movie/Morgan,Jeffrey_Dean|Morgan,Jeffrey_Dean]] 
 
-### #is_/same_as :: [Morgan,Jeffrey_Dean.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Comic-Movie/Morgan,Jeffrey_Dean.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Genre/Comic-Movie/Morgan,Jeffrey_Dean.public|Morgan,Jeffrey_Dean.public]] 
 
-### #is_/same_as :: [Morgan,Jeffrey_Dean.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Comic-Movie/Morgan,Jeffrey_Dean.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Genre/Comic-Movie/Morgan,Jeffrey_Dean.internal|Morgan,Jeffrey_Dean.internal]] 
 
-### #is_/same_as :: [Morgan,Jeffrey_Dean.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Comic-Movie/Morgan,Jeffrey_Dean.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Genre/Comic-Movie/Morgan,Jeffrey_Dean.protect|Morgan,Jeffrey_Dean.protect]] 
 
-### #is_/same_as :: [Morgan,Jeffrey_Dean.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Comic-Movie/Morgan,Jeffrey_Dean.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Genre/Comic-Movie/Morgan,Jeffrey_Dean.private|Morgan,Jeffrey_Dean.private]] 
 
-### #is_/same_as :: [Morgan,Jeffrey_Dean.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Comic-Movie/Morgan,Jeffrey_Dean.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Genre/Comic-Movie/Morgan,Jeffrey_Dean.personal|Morgan,Jeffrey_Dean.personal]] 
 
-### #is_/same_as :: [Morgan,Jeffrey_Dean.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Comic-Movie/Morgan,Jeffrey_Dean.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Genre/Comic-Movie/Morgan,Jeffrey_Dean.secret|Morgan,Jeffrey_Dean.secret]] 
 

@@ -297,17 +297,17 @@ Europeana_entity: agent/base/60316
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Kandinsky,Wassily](/_Standards/Society/Communication/Media/Painting/Painter/Kandinsky,Wassily.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Painting/Painter/Kandinsky,Wassily|Kandinsky,Wassily]] 
 
-### #is_/same_as :: [Kandinsky,Wassily.public](/_public/Society/Communication/Media/Painting/Painter/Kandinsky,Wassily.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Painting/Painter/Kandinsky,Wassily.public|Kandinsky,Wassily.public]] 
 
-### #is_/same_as :: [Kandinsky,Wassily.internal](/_internal/Society/Communication/Media/Painting/Painter/Kandinsky,Wassily.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Painting/Painter/Kandinsky,Wassily.internal|Kandinsky,Wassily.internal]] 
 
-### #is_/same_as :: [Kandinsky,Wassily.protect](/_protect/Society/Communication/Media/Painting/Painter/Kandinsky,Wassily.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Painting/Painter/Kandinsky,Wassily.protect|Kandinsky,Wassily.protect]] 
 
-### #is_/same_as :: [Kandinsky,Wassily.private](/_private/Society/Communication/Media/Painting/Painter/Kandinsky,Wassily.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Painting/Painter/Kandinsky,Wassily.private|Kandinsky,Wassily.private]] 
 
-### #is_/same_as :: [Kandinsky,Wassily.personal](/_personal/Society/Communication/Media/Painting/Painter/Kandinsky,Wassily.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Painting/Painter/Kandinsky,Wassily.personal|Kandinsky,Wassily.personal]] 
 
-### #is_/same_as :: [Kandinsky,Wassily.secret](/_secret/Society/Communication/Media/Painting/Painter/Kandinsky,Wassily.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Painting/Painter/Kandinsky,Wassily.secret|Kandinsky,Wassily.secret]] 
 

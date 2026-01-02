@@ -27,17 +27,17 @@ Separating date and time parts with other characters such as space is not allowe
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [ISO_8601-Date_Time](/_Standards/ISO/ISO_8601-Date_Time.md) 
+### #is_/same_as :: [[/_Standards/ISO/ISO_8601-Date_Time|ISO_8601-Date_Time]] 
 
-### #is_/same_as :: [ISO_8601-Date_Time.public](/_public/ISO/ISO_8601-Date_Time.public.md) 
+### #is_/same_as :: [[/_public/ISO/ISO_8601-Date_Time.public|ISO_8601-Date_Time.public]] 
 
-### #is_/same_as :: [ISO_8601-Date_Time.internal](/_internal/ISO/ISO_8601-Date_Time.internal.md) 
+### #is_/same_as :: [[/_internal/ISO/ISO_8601-Date_Time.internal|ISO_8601-Date_Time.internal]] 
 
-### #is_/same_as :: [ISO_8601-Date_Time.protect](/_protect/ISO/ISO_8601-Date_Time.protect.md) 
+### #is_/same_as :: [[/_protect/ISO/ISO_8601-Date_Time.protect|ISO_8601-Date_Time.protect]] 
 
-### #is_/same_as :: [ISO_8601-Date_Time.private](/_private/ISO/ISO_8601-Date_Time.private.md) 
+### #is_/same_as :: [[/_private/ISO/ISO_8601-Date_Time.private|ISO_8601-Date_Time.private]] 
 
-### #is_/same_as :: [ISO_8601-Date_Time.personal](/_personal/ISO/ISO_8601-Date_Time.personal.md) 
+### #is_/same_as :: [[/_personal/ISO/ISO_8601-Date_Time.personal|ISO_8601-Date_Time.personal]] 
 
-### #is_/same_as :: [ISO_8601-Date_Time.secret](/_secret/ISO/ISO_8601-Date_Time.secret.md)
+### #is_/same_as :: [[/_secret/ISO/ISO_8601-Date_Time.secret|ISO_8601-Date_Time.secret]] 
 

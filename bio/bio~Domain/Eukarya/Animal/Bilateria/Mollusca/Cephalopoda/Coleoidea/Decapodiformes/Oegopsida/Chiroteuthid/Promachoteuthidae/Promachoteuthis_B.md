@@ -69,7 +69,7 @@ The above discription is taken from Roper and Young (1968). [More details of the
 
 The smallest known specimen (see drawing) is 10.5 mm ML and looks much
 like the larger specimen except that the fins are relatively smaller.
-![ ](Promachoteuthis_B/PromachSmall.jpg))
+![ ](Promachoteuthis_B/PromachSmall.jpg) 
 
 **Figure**. Ventral view of ***Promachoteuthis.*** sp. B, 10.5 mm ML.
 Drawing from Roper and Young (1968).
@@ -133,7 +133,7 @@ Voss N. A. 1992. Family Promachoteuthidae. Smithson. Contr. Zool., 513:
 
 ## Title Illustrations
 
-![](Promachoteuthis_B/PromachSpBDors.jpg))
+![](Promachoteuthis_B/PromachSpBDors.jpg) 
 
   -----------------------------------------------------------------------------
   Scientific Name ::  Promachoteuthis sp. B
@@ -143,7 +143,7 @@ Voss N. A. 1992. Family Promachoteuthidae. Smithson. Contr. Zool., 513:
   Copyright ::         © 1968 [Clyde F. E. Roper](mailto:roper.clyde@nmnh.si.edu) 
  
   -----------------------------------------------------------------------------
-![](Promachoteuthis_B/Promach1Vent.jpg))
+![](Promachoteuthis_B/Promach1Vent.jpg) 
 
   -----------------------------------------------------------------------------
   Scientific Name ::  Promachoteuthis sp. B
@@ -157,17 +157,17 @@ Voss N. A. 1992. Family Promachoteuthidae. Smithson. Contr. Zool., 513:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Promachoteuthis_B](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Promachoteuthidae/Promachoteuthis_B.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Promachoteuthidae/Promachoteuthis_B|Promachoteuthis_B]] 
 
-### #is_/same_as :: [Promachoteuthis_B.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Promachoteuthidae/Promachoteuthis_B.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Promachoteuthidae/Promachoteuthis_B.public|Promachoteuthis_B.public]] 
 
-### #is_/same_as :: [Promachoteuthis_B.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Promachoteuthidae/Promachoteuthis_B.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Promachoteuthidae/Promachoteuthis_B.internal|Promachoteuthis_B.internal]] 
 
-### #is_/same_as :: [Promachoteuthis_B.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Promachoteuthidae/Promachoteuthis_B.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Promachoteuthidae/Promachoteuthis_B.protect|Promachoteuthis_B.protect]] 
 
-### #is_/same_as :: [Promachoteuthis_B.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Promachoteuthidae/Promachoteuthis_B.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Promachoteuthidae/Promachoteuthis_B.private|Promachoteuthis_B.private]] 
 
-### #is_/same_as :: [Promachoteuthis_B.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Promachoteuthidae/Promachoteuthis_B.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Promachoteuthidae/Promachoteuthis_B.personal|Promachoteuthis_B.personal]] 
 
-### #is_/same_as :: [Promachoteuthis_B.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Promachoteuthidae/Promachoteuthis_B.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Promachoteuthidae/Promachoteuthis_B.secret|Promachoteuthis_B.secret]] 
 

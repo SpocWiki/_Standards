@@ -48,17 +48,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_award](/_Standards/schema-org/Property/Texts/has_award.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/Texts/has_award|has_award]] 
 
-### #is_/same_as :: [has_award.public](/_public/schema-org/Property/Texts/has_award.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/Texts/has_award.public|has_award.public]] 
 
-### #is_/same_as :: [has_award.internal](/_internal/schema-org/Property/Texts/has_award.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/Texts/has_award.internal|has_award.internal]] 
 
-### #is_/same_as :: [has_award.protect](/_protect/schema-org/Property/Texts/has_award.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/Texts/has_award.protect|has_award.protect]] 
 
-### #is_/same_as :: [has_award.private](/_private/schema-org/Property/Texts/has_award.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/Texts/has_award.private|has_award.private]] 
 
-### #is_/same_as :: [has_award.personal](/_personal/schema-org/Property/Texts/has_award.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/Texts/has_award.personal|has_award.personal]] 
 
-### #is_/same_as :: [has_award.secret](/_secret/schema-org/Property/Texts/has_award.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/Texts/has_award.secret|has_award.secret]] 
 

@@ -99,17 +99,17 @@ male_form_of_label:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Superhero](/_Standards/Society/Communication/Genre/Fiction/Fictional_Characters/Superhero.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Genre/Fiction/Fictional_Characters/Superhero|Superhero]] 
 
-### #is_/same_as :: [Superhero.public](/_public/Society/Communication/Genre/Fiction/Fictional_Characters/Superhero.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Genre/Fiction/Fictional_Characters/Superhero.public|Superhero.public]] 
 
-### #is_/same_as :: [Superhero.internal](/_internal/Society/Communication/Genre/Fiction/Fictional_Characters/Superhero.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Genre/Fiction/Fictional_Characters/Superhero.internal|Superhero.internal]] 
 
-### #is_/same_as :: [Superhero.protect](/_protect/Society/Communication/Genre/Fiction/Fictional_Characters/Superhero.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Genre/Fiction/Fictional_Characters/Superhero.protect|Superhero.protect]] 
 
-### #is_/same_as :: [Superhero.private](/_private/Society/Communication/Genre/Fiction/Fictional_Characters/Superhero.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Genre/Fiction/Fictional_Characters/Superhero.private|Superhero.private]] 
 
-### #is_/same_as :: [Superhero.personal](/_personal/Society/Communication/Genre/Fiction/Fictional_Characters/Superhero.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Genre/Fiction/Fictional_Characters/Superhero.personal|Superhero.personal]] 
 
-### #is_/same_as :: [Superhero.secret](/_secret/Society/Communication/Genre/Fiction/Fictional_Characters/Superhero.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Genre/Fiction/Fictional_Characters/Superhero.secret|Superhero.secret]] 
 

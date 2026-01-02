@@ -42,17 +42,17 @@ female_form_of_label:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Media_Mogul](/_Standards/Society/Economics/Capital(Economics)/Investor/Media_Mogul.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Capital(Economics)/Investor/Media_Mogul|Media_Mogul]] 
 
-### #is_/same_as :: [Media_Mogul.public](/_public/Society/Economics/Capital(Economics)/Investor/Media_Mogul.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Capital(Economics)/Investor/Media_Mogul.public|Media_Mogul.public]] 
 
-### #is_/same_as :: [Media_Mogul.internal](/_internal/Society/Economics/Capital(Economics)/Investor/Media_Mogul.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Capital(Economics)/Investor/Media_Mogul.internal|Media_Mogul.internal]] 
 
-### #is_/same_as :: [Media_Mogul.protect](/_protect/Society/Economics/Capital(Economics)/Investor/Media_Mogul.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Capital(Economics)/Investor/Media_Mogul.protect|Media_Mogul.protect]] 
 
-### #is_/same_as :: [Media_Mogul.private](/_private/Society/Economics/Capital(Economics)/Investor/Media_Mogul.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Capital(Economics)/Investor/Media_Mogul.private|Media_Mogul.private]] 
 
-### #is_/same_as :: [Media_Mogul.personal](/_personal/Society/Economics/Capital(Economics)/Investor/Media_Mogul.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Capital(Economics)/Investor/Media_Mogul.personal|Media_Mogul.personal]] 
 
-### #is_/same_as :: [Media_Mogul.secret](/_secret/Society/Economics/Capital(Economics)/Investor/Media_Mogul.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Capital(Economics)/Investor/Media_Mogul.secret|Media_Mogul.secret]] 
 

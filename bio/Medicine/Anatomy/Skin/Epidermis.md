@@ -60,17 +60,17 @@ Terminologia_Histologica: H3.12.00.1.01001
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Epidermis](/_Standards/bio/Medicine/Anatomy/Skin/Epidermis.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Anatomy/Skin/Epidermis|Epidermis]] 
 
-### #is_/same_as :: [Epidermis.public](/_public/bio/Medicine/Anatomy/Skin/Epidermis.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Anatomy/Skin/Epidermis.public|Epidermis.public]] 
 
-### #is_/same_as :: [Epidermis.internal](/_internal/bio/Medicine/Anatomy/Skin/Epidermis.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Anatomy/Skin/Epidermis.internal|Epidermis.internal]] 
 
-### #is_/same_as :: [Epidermis.protect](/_protect/bio/Medicine/Anatomy/Skin/Epidermis.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Anatomy/Skin/Epidermis.protect|Epidermis.protect]] 
 
-### #is_/same_as :: [Epidermis.private](/_private/bio/Medicine/Anatomy/Skin/Epidermis.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Anatomy/Skin/Epidermis.private|Epidermis.private]] 
 
-### #is_/same_as :: [Epidermis.personal](/_personal/bio/Medicine/Anatomy/Skin/Epidermis.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Anatomy/Skin/Epidermis.personal|Epidermis.personal]] 
 
-### #is_/same_as :: [Epidermis.secret](/_secret/bio/Medicine/Anatomy/Skin/Epidermis.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Anatomy/Skin/Epidermis.secret|Epidermis.secret]] 
 

@@ -44,17 +44,17 @@ Represents the list price (the price a product is actually advertised for) of an
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [List_Price](/_Standards/schema-org/Enumeration/Price_Type_Enumeration/List_Price.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Price_Type_Enumeration/List_Price|List_Price]] 
 
-### #is_/same_as :: [List_Price.public](/_public/schema-org/Enumeration/Price_Type_Enumeration/List_Price.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Price_Type_Enumeration/List_Price.public|List_Price.public]] 
 
-### #is_/same_as :: [List_Price.internal](/_internal/schema-org/Enumeration/Price_Type_Enumeration/List_Price.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Price_Type_Enumeration/List_Price.internal|List_Price.internal]] 
 
-### #is_/same_as :: [List_Price.protect](/_protect/schema-org/Enumeration/Price_Type_Enumeration/List_Price.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Price_Type_Enumeration/List_Price.protect|List_Price.protect]] 
 
-### #is_/same_as :: [List_Price.private](/_private/schema-org/Enumeration/Price_Type_Enumeration/List_Price.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Price_Type_Enumeration/List_Price.private|List_Price.private]] 
 
-### #is_/same_as :: [List_Price.personal](/_personal/schema-org/Enumeration/Price_Type_Enumeration/List_Price.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Price_Type_Enumeration/List_Price.personal|List_Price.personal]] 
 
-### #is_/same_as :: [List_Price.secret](/_secret/schema-org/Enumeration/Price_Type_Enumeration/List_Price.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Price_Type_Enumeration/List_Price.secret|List_Price.secret]] 
 

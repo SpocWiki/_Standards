@@ -62,17 +62,17 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Age~3~Langhian](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~2~Neogene/Epoch~1~Miocene/Age~3~Langhian.md) 
+### #is_/same_as :: [[/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~2~Neogene/Epoch~1~Miocene/Age~3~Langhian|Age~3~Langhian]] 
 
-### #is_/same_as :: [Age~3~Langhian.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~2~Neogene/Epoch~1~Miocene/Age~3~Langhian.public.md) 
+### #is_/same_as :: [[/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~2~Neogene/Epoch~1~Miocene/Age~3~Langhian.public|Age~3~Langhian.public]] 
 
-### #is_/same_as :: [Age~3~Langhian.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~2~Neogene/Epoch~1~Miocene/Age~3~Langhian.internal.md) 
+### #is_/same_as :: [[/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~2~Neogene/Epoch~1~Miocene/Age~3~Langhian.internal|Age~3~Langhian.internal]] 
 
-### #is_/same_as :: [Age~3~Langhian.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~2~Neogene/Epoch~1~Miocene/Age~3~Langhian.protect.md) 
+### #is_/same_as :: [[/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~2~Neogene/Epoch~1~Miocene/Age~3~Langhian.protect|Age~3~Langhian.protect]] 
 
-### #is_/same_as :: [Age~3~Langhian.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~2~Neogene/Epoch~1~Miocene/Age~3~Langhian.private.md) 
+### #is_/same_as :: [[/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~2~Neogene/Epoch~1~Miocene/Age~3~Langhian.private|Age~3~Langhian.private]] 
 
-### #is_/same_as :: [Age~3~Langhian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~2~Neogene/Epoch~1~Miocene/Age~3~Langhian.personal.md) 
+### #is_/same_as :: [[/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~2~Neogene/Epoch~1~Miocene/Age~3~Langhian.personal|Age~3~Langhian.personal]] 
 
-### #is_/same_as :: [Age~3~Langhian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~2~Neogene/Epoch~1~Miocene/Age~3~Langhian.secret.md)
+### #is_/same_as :: [[/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~2~Neogene/Epoch~1~Miocene/Age~3~Langhian.secret|Age~3~Langhian.secret]] 
 

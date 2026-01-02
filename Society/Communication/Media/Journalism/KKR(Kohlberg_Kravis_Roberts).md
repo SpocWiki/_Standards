@@ -28,17 +28,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [KKR(Kohlberg_Kravis_Roberts)](/_Standards/Society/Communication/Media/Journalism/KKR(Kohlberg_Kravis_Roberts).md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Journalism/KKR(Kohlberg_Kravis_Roberts)|KKR(Kohlberg_Kravis_Roberts)]] 
 
-### #is_/same_as :: [KKR(Kohlberg_Kravis_Roberts).public](/_public/Society/Communication/Media/Journalism/KKR(Kohlberg_Kravis_Roberts).public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Journalism/KKR(Kohlberg_Kravis_Roberts).public|KKR(Kohlberg_Kravis_Roberts).public]] 
 
-### #is_/same_as :: [KKR(Kohlberg_Kravis_Roberts).internal](/_internal/Society/Communication/Media/Journalism/KKR(Kohlberg_Kravis_Roberts).internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Journalism/KKR(Kohlberg_Kravis_Roberts).internal|KKR(Kohlberg_Kravis_Roberts).internal]] 
 
-### #is_/same_as :: [KKR(Kohlberg_Kravis_Roberts).protect](/_protect/Society/Communication/Media/Journalism/KKR(Kohlberg_Kravis_Roberts).protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Journalism/KKR(Kohlberg_Kravis_Roberts).protect|KKR(Kohlberg_Kravis_Roberts).protect]] 
 
-### #is_/same_as :: [KKR(Kohlberg_Kravis_Roberts).private](/_private/Society/Communication/Media/Journalism/KKR(Kohlberg_Kravis_Roberts).private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Journalism/KKR(Kohlberg_Kravis_Roberts).private|KKR(Kohlberg_Kravis_Roberts).private]] 
 
-### #is_/same_as :: [KKR(Kohlberg_Kravis_Roberts).personal](/_personal/Society/Communication/Media/Journalism/KKR(Kohlberg_Kravis_Roberts).personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Journalism/KKR(Kohlberg_Kravis_Roberts).personal|KKR(Kohlberg_Kravis_Roberts).personal]] 
 
-### #is_/same_as :: [KKR(Kohlberg_Kravis_Roberts).secret](/_secret/Society/Communication/Media/Journalism/KKR(Kohlberg_Kravis_Roberts).secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Journalism/KKR(Kohlberg_Kravis_Roberts).secret|KKR(Kohlberg_Kravis_Roberts).secret]] 
 

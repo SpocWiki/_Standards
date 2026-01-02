@@ -59,17 +59,17 @@ Krugosvet_article_archived_: tehnologiya-i-promyshlennost/kraski-i-pokrytiya
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Paint](/_Standards/Society/Communication/Media/Painting/Paint.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Painting/Paint|Paint]] 
 
-### #is_/same_as :: [Paint.public](/_public/Society/Communication/Media/Painting/Paint.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Painting/Paint.public|Paint.public]] 
 
-### #is_/same_as :: [Paint.internal](/_internal/Society/Communication/Media/Painting/Paint.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Painting/Paint.internal|Paint.internal]] 
 
-### #is_/same_as :: [Paint.protect](/_protect/Society/Communication/Media/Painting/Paint.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Painting/Paint.protect|Paint.protect]] 
 
-### #is_/same_as :: [Paint.private](/_private/Society/Communication/Media/Painting/Paint.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Painting/Paint.private|Paint.private]] 
 
-### #is_/same_as :: [Paint.personal](/_personal/Society/Communication/Media/Painting/Paint.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Painting/Paint.personal|Paint.personal]] 
 
-### #is_/same_as :: [Paint.secret](/_secret/Society/Communication/Media/Painting/Paint.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Painting/Paint.secret|Paint.secret]] 
 

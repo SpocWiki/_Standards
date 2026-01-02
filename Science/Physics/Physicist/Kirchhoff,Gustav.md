@@ -147,17 +147,17 @@ name_in_native_language: Gustavo Robert Kirchhoff
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Kirchhoff,Gustav](/_Standards/Science/Physics/Physicist/Kirchhoff,Gustav.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Physicist/Kirchhoff,Gustav|Kirchhoff,Gustav]] 
 
-### #is_/same_as :: [Kirchhoff,Gustav.public](/_public/Science/Physics/Physicist/Kirchhoff,Gustav.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Physicist/Kirchhoff,Gustav.public|Kirchhoff,Gustav.public]] 
 
-### #is_/same_as :: [Kirchhoff,Gustav.internal](/_internal/Science/Physics/Physicist/Kirchhoff,Gustav.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Physicist/Kirchhoff,Gustav.internal|Kirchhoff,Gustav.internal]] 
 
-### #is_/same_as :: [Kirchhoff,Gustav.protect](/_protect/Science/Physics/Physicist/Kirchhoff,Gustav.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Physicist/Kirchhoff,Gustav.protect|Kirchhoff,Gustav.protect]] 
 
-### #is_/same_as :: [Kirchhoff,Gustav.private](/_private/Science/Physics/Physicist/Kirchhoff,Gustav.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Physicist/Kirchhoff,Gustav.private|Kirchhoff,Gustav.private]] 
 
-### #is_/same_as :: [Kirchhoff,Gustav.personal](/_personal/Science/Physics/Physicist/Kirchhoff,Gustav.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Physicist/Kirchhoff,Gustav.personal|Kirchhoff,Gustav.personal]] 
 
-### #is_/same_as :: [Kirchhoff,Gustav.secret](/_secret/Science/Physics/Physicist/Kirchhoff,Gustav.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Physicist/Kirchhoff,Gustav.secret|Kirchhoff,Gustav.secret]] 
 

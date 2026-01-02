@@ -46,17 +46,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_job_benefits](/_Standards/schema-org/Property/Texts/has_job_benefits.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/Texts/has_job_benefits|has_job_benefits]] 
 
-### #is_/same_as :: [has_job_benefits.public](/_public/schema-org/Property/Texts/has_job_benefits.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/Texts/has_job_benefits.public|has_job_benefits.public]] 
 
-### #is_/same_as :: [has_job_benefits.internal](/_internal/schema-org/Property/Texts/has_job_benefits.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/Texts/has_job_benefits.internal|has_job_benefits.internal]] 
 
-### #is_/same_as :: [has_job_benefits.protect](/_protect/schema-org/Property/Texts/has_job_benefits.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/Texts/has_job_benefits.protect|has_job_benefits.protect]] 
 
-### #is_/same_as :: [has_job_benefits.private](/_private/schema-org/Property/Texts/has_job_benefits.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/Texts/has_job_benefits.private|has_job_benefits.private]] 
 
-### #is_/same_as :: [has_job_benefits.personal](/_personal/schema-org/Property/Texts/has_job_benefits.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/Texts/has_job_benefits.personal|has_job_benefits.personal]] 
 
-### #is_/same_as :: [has_job_benefits.secret](/_secret/schema-org/Property/Texts/has_job_benefits.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/Texts/has_job_benefits.secret|has_job_benefits.secret]] 
 

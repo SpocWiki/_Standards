@@ -65,17 +65,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [is_item_in](/_Standards/schema-org/Collection/is_item_in.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Collection/is_item_in|is_item_in]] 
 
-### #is_/same_as :: [is_item_in.public](/_public/schema-org/Collection/is_item_in.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Collection/is_item_in.public|is_item_in.public]] 
 
-### #is_/same_as :: [is_item_in.internal](/_internal/schema-org/Collection/is_item_in.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Collection/is_item_in.internal|is_item_in.internal]] 
 
-### #is_/same_as :: [is_item_in.protect](/_protect/schema-org/Collection/is_item_in.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Collection/is_item_in.protect|is_item_in.protect]] 
 
-### #is_/same_as :: [is_item_in.private](/_private/schema-org/Collection/is_item_in.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Collection/is_item_in.private|is_item_in.private]] 
 
-### #is_/same_as :: [is_item_in.personal](/_personal/schema-org/Collection/is_item_in.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Collection/is_item_in.personal|is_item_in.personal]] 
 
-### #is_/same_as :: [is_item_in.secret](/_secret/schema-org/Collection/is_item_in.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Collection/is_item_in.secret|is_item_in.secret]] 
 

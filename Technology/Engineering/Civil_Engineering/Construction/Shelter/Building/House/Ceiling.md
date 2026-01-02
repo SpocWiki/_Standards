@@ -69,17 +69,17 @@ OpenStreetMap_tag: support=ceiling
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ceiling](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Ceiling.md) 
+### #is_/same_as :: [[/_Standards/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Ceiling|Ceiling]] 
 
-### #is_/same_as :: [Ceiling.public](/_public/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Ceiling.public.md) 
+### #is_/same_as :: [[/_public/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Ceiling.public|Ceiling.public]] 
 
-### #is_/same_as :: [Ceiling.internal](/_internal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Ceiling.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Ceiling.internal|Ceiling.internal]] 
 
-### #is_/same_as :: [Ceiling.protect](/_protect/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Ceiling.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Ceiling.protect|Ceiling.protect]] 
 
-### #is_/same_as :: [Ceiling.private](/_private/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Ceiling.private.md) 
+### #is_/same_as :: [[/_private/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Ceiling.private|Ceiling.private]] 
 
-### #is_/same_as :: [Ceiling.personal](/_personal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Ceiling.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Ceiling.personal|Ceiling.personal]] 
 
-### #is_/same_as :: [Ceiling.secret](/_secret/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Ceiling.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Ceiling.secret|Ceiling.secret]] 
 

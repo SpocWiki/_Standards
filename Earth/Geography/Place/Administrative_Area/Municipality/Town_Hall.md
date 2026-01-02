@@ -65,17 +65,17 @@ name_in_kana: しちょうしゃ
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Town_Hall](/_Standards/Earth/Geography/Place/Administrative_Area/Municipality/Town_Hall.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geography/Place/Administrative_Area/Municipality/Town_Hall|Town_Hall]] 
 
-### #is_/same_as :: [Town_Hall.public](/_public/Earth/Geography/Place/Administrative_Area/Municipality/Town_Hall.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geography/Place/Administrative_Area/Municipality/Town_Hall.public|Town_Hall.public]] 
 
-### #is_/same_as :: [Town_Hall.internal](/_internal/Earth/Geography/Place/Administrative_Area/Municipality/Town_Hall.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geography/Place/Administrative_Area/Municipality/Town_Hall.internal|Town_Hall.internal]] 
 
-### #is_/same_as :: [Town_Hall.protect](/_protect/Earth/Geography/Place/Administrative_Area/Municipality/Town_Hall.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geography/Place/Administrative_Area/Municipality/Town_Hall.protect|Town_Hall.protect]] 
 
-### #is_/same_as :: [Town_Hall.private](/_private/Earth/Geography/Place/Administrative_Area/Municipality/Town_Hall.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geography/Place/Administrative_Area/Municipality/Town_Hall.private|Town_Hall.private]] 
 
-### #is_/same_as :: [Town_Hall.personal](/_personal/Earth/Geography/Place/Administrative_Area/Municipality/Town_Hall.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geography/Place/Administrative_Area/Municipality/Town_Hall.personal|Town_Hall.personal]] 
 
-### #is_/same_as :: [Town_Hall.secret](/_secret/Earth/Geography/Place/Administrative_Area/Municipality/Town_Hall.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geography/Place/Administrative_Area/Municipality/Town_Hall.secret|Town_Hall.secret]] 
 

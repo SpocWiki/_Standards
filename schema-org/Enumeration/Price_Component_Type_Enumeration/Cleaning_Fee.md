@@ -44,17 +44,17 @@ Represents the cleaning fee part of the total price for an offered product, for 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Cleaning_Fee](/_Standards/schema-org/Enumeration/Price_Component_Type_Enumeration/Cleaning_Fee.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Price_Component_Type_Enumeration/Cleaning_Fee|Cleaning_Fee]] 
 
-### #is_/same_as :: [Cleaning_Fee.public](/_public/schema-org/Enumeration/Price_Component_Type_Enumeration/Cleaning_Fee.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Price_Component_Type_Enumeration/Cleaning_Fee.public|Cleaning_Fee.public]] 
 
-### #is_/same_as :: [Cleaning_Fee.internal](/_internal/schema-org/Enumeration/Price_Component_Type_Enumeration/Cleaning_Fee.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Price_Component_Type_Enumeration/Cleaning_Fee.internal|Cleaning_Fee.internal]] 
 
-### #is_/same_as :: [Cleaning_Fee.protect](/_protect/schema-org/Enumeration/Price_Component_Type_Enumeration/Cleaning_Fee.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Price_Component_Type_Enumeration/Cleaning_Fee.protect|Cleaning_Fee.protect]] 
 
-### #is_/same_as :: [Cleaning_Fee.private](/_private/schema-org/Enumeration/Price_Component_Type_Enumeration/Cleaning_Fee.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Price_Component_Type_Enumeration/Cleaning_Fee.private|Cleaning_Fee.private]] 
 
-### #is_/same_as :: [Cleaning_Fee.personal](/_personal/schema-org/Enumeration/Price_Component_Type_Enumeration/Cleaning_Fee.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Price_Component_Type_Enumeration/Cleaning_Fee.personal|Cleaning_Fee.personal]] 
 
-### #is_/same_as :: [Cleaning_Fee.secret](/_secret/schema-org/Enumeration/Price_Component_Type_Enumeration/Cleaning_Fee.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Price_Component_Type_Enumeration/Cleaning_Fee.secret|Cleaning_Fee.secret]] 
 

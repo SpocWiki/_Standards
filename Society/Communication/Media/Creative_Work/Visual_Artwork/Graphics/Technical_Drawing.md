@@ -58,17 +58,17 @@ Dewey_Decimal_Classification: "604.2"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Technical_Drawing](/_Standards/Society/Communication/Media/Creative_Work/Visual_Artwork/Graphics/Technical_Drawing.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Creative_Work/Visual_Artwork/Graphics/Technical_Drawing|Technical_Drawing]] 
 
-### #is_/same_as :: [Technical_Drawing.public](/_public/Society/Communication/Media/Creative_Work/Visual_Artwork/Graphics/Technical_Drawing.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Creative_Work/Visual_Artwork/Graphics/Technical_Drawing.public|Technical_Drawing.public]] 
 
-### #is_/same_as :: [Technical_Drawing.internal](/_internal/Society/Communication/Media/Creative_Work/Visual_Artwork/Graphics/Technical_Drawing.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Creative_Work/Visual_Artwork/Graphics/Technical_Drawing.internal|Technical_Drawing.internal]] 
 
-### #is_/same_as :: [Technical_Drawing.protect](/_protect/Society/Communication/Media/Creative_Work/Visual_Artwork/Graphics/Technical_Drawing.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Creative_Work/Visual_Artwork/Graphics/Technical_Drawing.protect|Technical_Drawing.protect]] 
 
-### #is_/same_as :: [Technical_Drawing.private](/_private/Society/Communication/Media/Creative_Work/Visual_Artwork/Graphics/Technical_Drawing.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Creative_Work/Visual_Artwork/Graphics/Technical_Drawing.private|Technical_Drawing.private]] 
 
-### #is_/same_as :: [Technical_Drawing.personal](/_personal/Society/Communication/Media/Creative_Work/Visual_Artwork/Graphics/Technical_Drawing.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/Visual_Artwork/Graphics/Technical_Drawing.personal|Technical_Drawing.personal]] 
 
-### #is_/same_as :: [Technical_Drawing.secret](/_secret/Society/Communication/Media/Creative_Work/Visual_Artwork/Graphics/Technical_Drawing.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Visual_Artwork/Graphics/Technical_Drawing.secret|Technical_Drawing.secret]] 
 

@@ -43,17 +43,17 @@ An educational or occupational credential. A diploma, academic degree, certifica
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Educational_Occupational_Credential](/_Standards/Society/Communication/Media/Creative_Work/Educational_Occupational_Credential.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Creative_Work/Educational_Occupational_Credential|Educational_Occupational_Credential]] 
 
-### #is_/same_as :: [Educational_Occupational_Credential.public](/_public/Society/Communication/Media/Creative_Work/Educational_Occupational_Credential.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Creative_Work/Educational_Occupational_Credential.public|Educational_Occupational_Credential.public]] 
 
-### #is_/same_as :: [Educational_Occupational_Credential.internal](/_internal/Society/Communication/Media/Creative_Work/Educational_Occupational_Credential.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Creative_Work/Educational_Occupational_Credential.internal|Educational_Occupational_Credential.internal]] 
 
-### #is_/same_as :: [Educational_Occupational_Credential.protect](/_protect/Society/Communication/Media/Creative_Work/Educational_Occupational_Credential.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Creative_Work/Educational_Occupational_Credential.protect|Educational_Occupational_Credential.protect]] 
 
-### #is_/same_as :: [Educational_Occupational_Credential.private](/_private/Society/Communication/Media/Creative_Work/Educational_Occupational_Credential.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Creative_Work/Educational_Occupational_Credential.private|Educational_Occupational_Credential.private]] 
 
-### #is_/same_as :: [Educational_Occupational_Credential.personal](/_personal/Society/Communication/Media/Creative_Work/Educational_Occupational_Credential.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/Educational_Occupational_Credential.personal|Educational_Occupational_Credential.personal]] 
 
-### #is_/same_as :: [Educational_Occupational_Credential.secret](/_secret/Society/Communication/Media/Creative_Work/Educational_Occupational_Credential.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Educational_Occupational_Credential.secret|Educational_Occupational_Credential.secret]] 
 

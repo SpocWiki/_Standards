@@ -68,3 +68,22 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Darwin%20Tree%201837.p
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Theory) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Science/Scientific_Method/Theory|Theory]] 
+
+### #is_/same_as :: [[/_public/Science/Scientific_Method/Theory.public|Theory.public]] 
+
+### #is_/same_as :: [[/_internal/Science/Scientific_Method/Theory.internal|Theory.internal]] 
+
+### #is_/same_as :: [[/_protect/Science/Scientific_Method/Theory.protect|Theory.protect]] 
+
+### #is_/same_as :: [[/_private/Science/Scientific_Method/Theory.private|Theory.private]] 
+
+### #is_/same_as :: [[/_personal/Science/Scientific_Method/Theory.personal|Theory.personal]] 
+
+### #is_/same_as :: [[/_secret/Science/Scientific_Method/Theory.secret|Theory.secret]] 
+

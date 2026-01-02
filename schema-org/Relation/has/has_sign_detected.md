@@ -42,17 +42,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_sign_detected](/_Standards/schema-org/Relation/has/has_sign_detected.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_sign_detected|has_sign_detected]] 
 
-### #is_/same_as :: [has_sign_detected.public](/_public/schema-org/Relation/has/has_sign_detected.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_sign_detected.public|has_sign_detected.public]] 
 
-### #is_/same_as :: [has_sign_detected.internal](/_internal/schema-org/Relation/has/has_sign_detected.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_sign_detected.internal|has_sign_detected.internal]] 
 
-### #is_/same_as :: [has_sign_detected.protect](/_protect/schema-org/Relation/has/has_sign_detected.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_sign_detected.protect|has_sign_detected.protect]] 
 
-### #is_/same_as :: [has_sign_detected.private](/_private/schema-org/Relation/has/has_sign_detected.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_sign_detected.private|has_sign_detected.private]] 
 
-### #is_/same_as :: [has_sign_detected.personal](/_personal/schema-org/Relation/has/has_sign_detected.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_sign_detected.personal|has_sign_detected.personal]] 
 
-### #is_/same_as :: [has_sign_detected.secret](/_secret/schema-org/Relation/has/has_sign_detected.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_sign_detected.secret|has_sign_detected.secret]] 
 

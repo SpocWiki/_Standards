@@ -200,7 +200,7 @@ grouping is somewhat tentative.
 ## Title Illustrations
 
 -------------- 
-![](Cryptobranchidae/cryptobranchus.jpg))
+![](Cryptobranchidae/cryptobranchus.jpg) 
 Scientific Name ::     Cryptobranchus alleghaniensis
 Location ::           Missouri
 Comments             The hellbender
@@ -210,17 +210,17 @@ Copyright ::            © 1996 Dr. Eric J. Routman
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Cryptobranchidae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Cryptobranchidae.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Cryptobranchidae|Cryptobranchidae]] 
 
-### #is_/same_as :: [Cryptobranchidae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Cryptobranchidae.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Cryptobranchidae.public|Cryptobranchidae.public]] 
 
-### #is_/same_as :: [Cryptobranchidae.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Cryptobranchidae.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Cryptobranchidae.internal|Cryptobranchidae.internal]] 
 
-### #is_/same_as :: [Cryptobranchidae.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Cryptobranchidae.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Cryptobranchidae.protect|Cryptobranchidae.protect]] 
 
-### #is_/same_as :: [Cryptobranchidae.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Cryptobranchidae.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Cryptobranchidae.private|Cryptobranchidae.private]] 
 
-### #is_/same_as :: [Cryptobranchidae.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Cryptobranchidae.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Cryptobranchidae.personal|Cryptobranchidae.personal]] 
 
-### #is_/same_as :: [Cryptobranchidae.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Cryptobranchidae.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Cryptobranchidae.secret|Cryptobranchidae.secret]] 
 

@@ -49,17 +49,17 @@ MCN_code: 9506.11.00
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ski](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Winter_Sport/Skiing/Ski.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Winter_Sport/Skiing/Ski|Ski]] 
 
-### #is_/same_as :: [Ski.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Winter_Sport/Skiing/Ski.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Winter_Sport/Skiing/Ski.public|Ski.public]] 
 
-### #is_/same_as :: [Ski.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Winter_Sport/Skiing/Ski.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Winter_Sport/Skiing/Ski.internal|Ski.internal]] 
 
-### #is_/same_as :: [Ski.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Winter_Sport/Skiing/Ski.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Winter_Sport/Skiing/Ski.protect|Ski.protect]] 
 
-### #is_/same_as :: [Ski.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Winter_Sport/Skiing/Ski.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Winter_Sport/Skiing/Ski.private|Ski.private]] 
 
-### #is_/same_as :: [Ski.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Winter_Sport/Skiing/Ski.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Winter_Sport/Skiing/Ski.personal|Ski.personal]] 
 
-### #is_/same_as :: [Ski.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Winter_Sport/Skiing/Ski.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Winter_Sport/Skiing/Ski.secret|Ski.secret]] 
 

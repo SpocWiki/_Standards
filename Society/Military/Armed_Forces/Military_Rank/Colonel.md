@@ -61,17 +61,17 @@ short_name:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Colonel](/_Standards/Society/Military/Armed_Forces/Military_Rank/Colonel.md) 
+### #is_/same_as :: [[/_Standards/Society/Military/Armed_Forces/Military_Rank/Colonel|Colonel]] 
 
-### #is_/same_as :: [Colonel.public](/_public/Society/Military/Armed_Forces/Military_Rank/Colonel.public.md) 
+### #is_/same_as :: [[/_public/Society/Military/Armed_Forces/Military_Rank/Colonel.public|Colonel.public]] 
 
-### #is_/same_as :: [Colonel.internal](/_internal/Society/Military/Armed_Forces/Military_Rank/Colonel.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Military/Armed_Forces/Military_Rank/Colonel.internal|Colonel.internal]] 
 
-### #is_/same_as :: [Colonel.protect](/_protect/Society/Military/Armed_Forces/Military_Rank/Colonel.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Military/Armed_Forces/Military_Rank/Colonel.protect|Colonel.protect]] 
 
-### #is_/same_as :: [Colonel.private](/_private/Society/Military/Armed_Forces/Military_Rank/Colonel.private.md) 
+### #is_/same_as :: [[/_private/Society/Military/Armed_Forces/Military_Rank/Colonel.private|Colonel.private]] 
 
-### #is_/same_as :: [Colonel.personal](/_personal/Society/Military/Armed_Forces/Military_Rank/Colonel.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Military/Armed_Forces/Military_Rank/Colonel.personal|Colonel.personal]] 
 
-### #is_/same_as :: [Colonel.secret](/_secret/Society/Military/Armed_Forces/Military_Rank/Colonel.secret.md)
+### #is_/same_as :: [[/_secret/Society/Military/Armed_Forces/Military_Rank/Colonel.secret|Colonel.secret]] 
 

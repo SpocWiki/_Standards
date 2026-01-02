@@ -402,17 +402,17 @@ Capital :: [[Belize/Counties/Cayo/City/Belmopan]]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Belize](/_Standards/Earth/Continent/America~Central/Belize.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~Central/Belize|Belize]] 
 
-### #is_/same_as :: [Belize.public](/_public/Earth/Continent/America~Central/Belize.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~Central/Belize.public|Belize.public]] 
 
-### #is_/same_as :: [Belize.internal](/_internal/Earth/Continent/America~Central/Belize.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~Central/Belize.internal|Belize.internal]] 
 
-### #is_/same_as :: [Belize.protect](/_protect/Earth/Continent/America~Central/Belize.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~Central/Belize.protect|Belize.protect]] 
 
-### #is_/same_as :: [Belize.private](/_private/Earth/Continent/America~Central/Belize.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~Central/Belize.private|Belize.private]] 
 
-### #is_/same_as :: [Belize.personal](/_personal/Earth/Continent/America~Central/Belize.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~Central/Belize.personal|Belize.personal]] 
 
-### #is_/same_as :: [Belize.secret](/_secret/Earth/Continent/America~Central/Belize.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~Central/Belize.secret|Belize.secret]] 
 

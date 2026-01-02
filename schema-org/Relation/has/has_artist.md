@@ -42,17 +42,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_artist](/_Standards/schema-org/Relation/has/has_artist.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_artist|has_artist]] 
 
-### #is_/same_as :: [has_artist.public](/_public/schema-org/Relation/has/has_artist.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_artist.public|has_artist.public]] 
 
-### #is_/same_as :: [has_artist.internal](/_internal/schema-org/Relation/has/has_artist.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_artist.internal|has_artist.internal]] 
 
-### #is_/same_as :: [has_artist.protect](/_protect/schema-org/Relation/has/has_artist.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_artist.protect|has_artist.protect]] 
 
-### #is_/same_as :: [has_artist.private](/_private/schema-org/Relation/has/has_artist.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_artist.private|has_artist.private]] 
 
-### #is_/same_as :: [has_artist.personal](/_personal/schema-org/Relation/has/has_artist.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_artist.personal|has_artist.personal]] 
 
-### #is_/same_as :: [has_artist.secret](/_secret/schema-org/Relation/has/has_artist.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_artist.secret|has_artist.secret]] 
 

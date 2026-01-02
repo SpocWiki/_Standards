@@ -55,17 +55,17 @@ Dewey_Decimal_Classification:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Vibraphone](/_Standards/Society/Communication/Media/Music/Musical_Instrument/Percussion_Instrument/Vibraphone.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Musical_Instrument/Percussion_Instrument/Vibraphone|Vibraphone]] 
 
-### #is_/same_as :: [Vibraphone.public](/_public/Society/Communication/Media/Music/Musical_Instrument/Percussion_Instrument/Vibraphone.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Musical_Instrument/Percussion_Instrument/Vibraphone.public|Vibraphone.public]] 
 
-### #is_/same_as :: [Vibraphone.internal](/_internal/Society/Communication/Media/Music/Musical_Instrument/Percussion_Instrument/Vibraphone.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Musical_Instrument/Percussion_Instrument/Vibraphone.internal|Vibraphone.internal]] 
 
-### #is_/same_as :: [Vibraphone.protect](/_protect/Society/Communication/Media/Music/Musical_Instrument/Percussion_Instrument/Vibraphone.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Musical_Instrument/Percussion_Instrument/Vibraphone.protect|Vibraphone.protect]] 
 
-### #is_/same_as :: [Vibraphone.private](/_private/Society/Communication/Media/Music/Musical_Instrument/Percussion_Instrument/Vibraphone.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Musical_Instrument/Percussion_Instrument/Vibraphone.private|Vibraphone.private]] 
 
-### #is_/same_as :: [Vibraphone.personal](/_personal/Society/Communication/Media/Music/Musical_Instrument/Percussion_Instrument/Vibraphone.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Musical_Instrument/Percussion_Instrument/Vibraphone.personal|Vibraphone.personal]] 
 
-### #is_/same_as :: [Vibraphone.secret](/_secret/Society/Communication/Media/Music/Musical_Instrument/Percussion_Instrument/Vibraphone.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Musical_Instrument/Percussion_Instrument/Vibraphone.secret|Vibraphone.secret]] 
 

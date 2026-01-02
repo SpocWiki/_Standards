@@ -117,21 +117,21 @@ Copyright ::         © 1995 [David Cannatella](http://www.catfishlab.org/)
 
 
 -------------------------------------------------------------------------- 
-![Agalychnis annae](Hylidae/agalychnis.jpg))
+![Agalychnis annae](Hylidae/agalychnis.jpg) 
 Scientific Name ::     Agalychnis annae
 Location ::           Costa Rica
 Specimen Condition   Live Specimen
 Copyright ::            © 1995 [David Cannatella](http://www.catfishlab.org/) 
 
 -------------------------------------------------------------------------- 
-![](Hylidae/phyllomedusa.jpg))
+![](Hylidae/phyllomedusa.jpg) 
 Scientific Name ::     Phyllomedusa tomopterna
 Location ::           Ecuador
 Specimen Condition   Live Specimen
 Copyright ::            © 1995 [David Cannatella](http://www.catfishlab.org/) 
 
 -------------------------------------------------------------------------- 
-![Hyla regilla](Hylidae/hyla.jpg))
+![Hyla regilla](Hylidae/hyla.jpg) 
 Scientific Name ::  Hyla regilla
 Location ::        California
 Copyright ::         © 1995 [David Cannatella](http://www.catfishlab.org/) 
@@ -139,17 +139,17 @@ Copyright ::         © 1995 [David Cannatella](http://www.catfishlab.org/)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hylidae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Neobatrachia/Hylidae.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Neobatrachia/Hylidae|Hylidae]] 
 
-### #is_/same_as :: [Hylidae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Neobatrachia/Hylidae.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Neobatrachia/Hylidae.public|Hylidae.public]] 
 
-### #is_/same_as :: [Hylidae.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Neobatrachia/Hylidae.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Neobatrachia/Hylidae.internal|Hylidae.internal]] 
 
-### #is_/same_as :: [Hylidae.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Neobatrachia/Hylidae.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Neobatrachia/Hylidae.protect|Hylidae.protect]] 
 
-### #is_/same_as :: [Hylidae.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Neobatrachia/Hylidae.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Neobatrachia/Hylidae.private|Hylidae.private]] 
 
-### #is_/same_as :: [Hylidae.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Neobatrachia/Hylidae.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Neobatrachia/Hylidae.personal|Hylidae.personal]] 
 
-### #is_/same_as :: [Hylidae.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Neobatrachia/Hylidae.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Neobatrachia/Hylidae.secret|Hylidae.secret]] 
 

@@ -45,17 +45,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_infectious_agent](/_Standards/schema-org/Property/Texts/has_infectious_agent.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/Texts/has_infectious_agent|has_infectious_agent]] 
 
-### #is_/same_as :: [has_infectious_agent.public](/_public/schema-org/Property/Texts/has_infectious_agent.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/Texts/has_infectious_agent.public|has_infectious_agent.public]] 
 
-### #is_/same_as :: [has_infectious_agent.internal](/_internal/schema-org/Property/Texts/has_infectious_agent.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/Texts/has_infectious_agent.internal|has_infectious_agent.internal]] 
 
-### #is_/same_as :: [has_infectious_agent.protect](/_protect/schema-org/Property/Texts/has_infectious_agent.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/Texts/has_infectious_agent.protect|has_infectious_agent.protect]] 
 
-### #is_/same_as :: [has_infectious_agent.private](/_private/schema-org/Property/Texts/has_infectious_agent.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/Texts/has_infectious_agent.private|has_infectious_agent.private]] 
 
-### #is_/same_as :: [has_infectious_agent.personal](/_personal/schema-org/Property/Texts/has_infectious_agent.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/Texts/has_infectious_agent.personal|has_infectious_agent.personal]] 
 
-### #is_/same_as :: [has_infectious_agent.secret](/_secret/schema-org/Property/Texts/has_infectious_agent.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/Texts/has_infectious_agent.secret|has_infectious_agent.secret]] 
 

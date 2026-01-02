@@ -59,17 +59,17 @@ PublishedOn:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/T
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~PublicationEvent](/_Standards/fileClass/FileClass~Thing/FileClass~Event/FileClass~PublicationEvent.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Event/FileClass~PublicationEvent|FileClass~PublicationEvent]] 
 
-### #is_/same_as :: [FileClass~PublicationEvent.public](/_public/fileClass/FileClass~Thing/FileClass~Event/FileClass~PublicationEvent.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Event/FileClass~PublicationEvent.public|FileClass~PublicationEvent.public]] 
 
-### #is_/same_as :: [FileClass~PublicationEvent.internal](/_internal/fileClass/FileClass~Thing/FileClass~Event/FileClass~PublicationEvent.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Event/FileClass~PublicationEvent.internal|FileClass~PublicationEvent.internal]] 
 
-### #is_/same_as :: [FileClass~PublicationEvent.protect](/_protect/fileClass/FileClass~Thing/FileClass~Event/FileClass~PublicationEvent.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Event/FileClass~PublicationEvent.protect|FileClass~PublicationEvent.protect]] 
 
-### #is_/same_as :: [FileClass~PublicationEvent.private](/_private/fileClass/FileClass~Thing/FileClass~Event/FileClass~PublicationEvent.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Event/FileClass~PublicationEvent.private|FileClass~PublicationEvent.private]] 
 
-### #is_/same_as :: [FileClass~PublicationEvent.personal](/_personal/fileClass/FileClass~Thing/FileClass~Event/FileClass~PublicationEvent.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Event/FileClass~PublicationEvent.personal|FileClass~PublicationEvent.personal]] 
 
-### #is_/same_as :: [FileClass~PublicationEvent.secret](/_secret/fileClass/FileClass~Thing/FileClass~Event/FileClass~PublicationEvent.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Event/FileClass~PublicationEvent.secret|FileClass~PublicationEvent.secret]] 
 

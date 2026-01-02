@@ -30,17 +30,17 @@ The Name is derived from the [[../../../../Knowledge/Languages/Natural~Languages
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_Cons](/_Standards/schema-org/Relation/has/has_Cons.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_Cons|has_Cons]] 
 
-### #is_/same_as :: [has_Cons.public](/_public/schema-org/Relation/has/has_Cons.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_Cons.public|has_Cons.public]] 
 
-### #is_/same_as :: [has_Cons.internal](/_internal/schema-org/Relation/has/has_Cons.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_Cons.internal|has_Cons.internal]] 
 
-### #is_/same_as :: [has_Cons.protect](/_protect/schema-org/Relation/has/has_Cons.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_Cons.protect|has_Cons.protect]] 
 
-### #is_/same_as :: [has_Cons.private](/_private/schema-org/Relation/has/has_Cons.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_Cons.private|has_Cons.private]] 
 
-### #is_/same_as :: [has_Cons.personal](/_personal/schema-org/Relation/has/has_Cons.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_Cons.personal|has_Cons.personal]] 
 
-### #is_/same_as :: [has_Cons.secret](/_secret/schema-org/Relation/has/has_Cons.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_Cons.secret|has_Cons.secret]] 
 

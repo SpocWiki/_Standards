@@ -69,17 +69,17 @@ Commons_category: Electric potential
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Potential,electric](/_Standards/Science/Physics/Electricity/Potential,electric.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Electricity/Potential,electric|Potential,electric]] 
 
-### #is_/same_as :: [Potential,electric.public](/_public/Science/Physics/Electricity/Potential,electric.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Electricity/Potential,electric.public|Potential,electric.public]] 
 
-### #is_/same_as :: [Potential,electric.internal](/_internal/Science/Physics/Electricity/Potential,electric.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Electricity/Potential,electric.internal|Potential,electric.internal]] 
 
-### #is_/same_as :: [Potential,electric.protect](/_protect/Science/Physics/Electricity/Potential,electric.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Electricity/Potential,electric.protect|Potential,electric.protect]] 
 
-### #is_/same_as :: [Potential,electric.private](/_private/Science/Physics/Electricity/Potential,electric.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Electricity/Potential,electric.private|Potential,electric.private]] 
 
-### #is_/same_as :: [Potential,electric.personal](/_personal/Science/Physics/Electricity/Potential,electric.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Electricity/Potential,electric.personal|Potential,electric.personal]] 
 
-### #is_/same_as :: [Potential,electric.secret](/_secret/Science/Physics/Electricity/Potential,electric.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Electricity/Potential,electric.secret|Potential,electric.secret]] 
 

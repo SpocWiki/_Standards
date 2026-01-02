@@ -86,17 +86,17 @@ P8189: 987007293069305171
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Alcoholism](/_Standards/bio/Medicine/Health/Addiction/Alcoholism.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Health/Addiction/Alcoholism|Alcoholism]] 
 
-### #is_/same_as :: [Alcoholism.public](/_public/bio/Medicine/Health/Addiction/Alcoholism.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Health/Addiction/Alcoholism.public|Alcoholism.public]] 
 
-### #is_/same_as :: [Alcoholism.internal](/_internal/bio/Medicine/Health/Addiction/Alcoholism.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Health/Addiction/Alcoholism.internal|Alcoholism.internal]] 
 
-### #is_/same_as :: [Alcoholism.protect](/_protect/bio/Medicine/Health/Addiction/Alcoholism.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Health/Addiction/Alcoholism.protect|Alcoholism.protect]] 
 
-### #is_/same_as :: [Alcoholism.private](/_private/bio/Medicine/Health/Addiction/Alcoholism.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Health/Addiction/Alcoholism.private|Alcoholism.private]] 
 
-### #is_/same_as :: [Alcoholism.personal](/_personal/bio/Medicine/Health/Addiction/Alcoholism.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Health/Addiction/Alcoholism.personal|Alcoholism.personal]] 
 
-### #is_/same_as :: [Alcoholism.secret](/_secret/bio/Medicine/Health/Addiction/Alcoholism.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Health/Addiction/Alcoholism.secret|Alcoholism.secret]] 
 

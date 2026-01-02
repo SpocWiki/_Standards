@@ -100,7 +100,7 @@ Patterson, D. J. 1999. The diversity of eukaryotes. American Naturalist
 
 ## Title Illustrations
 
-![](Apusomonads/pamasdeb.jpg))
+![](Apusomonads/pamasdeb.jpg) 
 
   ---------------------------------------------------------------------------------
   Scientific Name ::     Amastigomonas debruynei
@@ -108,7 +108,7 @@ Patterson, D. J. 1999. The diversity of eukaryotes. American Naturalist
   Copyright ::            © 2000 [David J. Patterson](http://www.bio.usyd.edu.au/Protsvil/index.htm) 
  
   ---------------------------------------------------------------------------------
-![](Apusomonads/papuprob.jpg))
+![](Apusomonads/papuprob.jpg) 
 
   ------------
   Scientific Name ::  Apusomonas proboscidea
@@ -118,17 +118,17 @@ Patterson, D. J. 1999. The diversity of eukaryotes. American Naturalist
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Apusomonads](/_Standards/bio/bio~Domain/Eukarya/Protist/Apusomonads.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Protist/Apusomonads|Apusomonads]] 
 
-### #is_/same_as :: [Apusomonads.public](/_public/bio/bio~Domain/Eukarya/Protist/Apusomonads.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Protist/Apusomonads.public|Apusomonads.public]] 
 
-### #is_/same_as :: [Apusomonads.internal](/_internal/bio/bio~Domain/Eukarya/Protist/Apusomonads.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Protist/Apusomonads.internal|Apusomonads.internal]] 
 
-### #is_/same_as :: [Apusomonads.protect](/_protect/bio/bio~Domain/Eukarya/Protist/Apusomonads.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Protist/Apusomonads.protect|Apusomonads.protect]] 
 
-### #is_/same_as :: [Apusomonads.private](/_private/bio/bio~Domain/Eukarya/Protist/Apusomonads.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Protist/Apusomonads.private|Apusomonads.private]] 
 
-### #is_/same_as :: [Apusomonads.personal](/_personal/bio/bio~Domain/Eukarya/Protist/Apusomonads.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Protist/Apusomonads.personal|Apusomonads.personal]] 
 
-### #is_/same_as :: [Apusomonads.secret](/_secret/bio/bio~Domain/Eukarya/Protist/Apusomonads.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Protist/Apusomonads.secret|Apusomonads.secret]] 
 

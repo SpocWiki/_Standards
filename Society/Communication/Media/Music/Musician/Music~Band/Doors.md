@@ -105,17 +105,17 @@ Krugosvet_article_archived_: kultura_i_obrazovanie/muzyka/DORZ.html
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Doors](/_Standards/Society/Communication/Media/Music/Musician/Music~Band/Doors.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Musician/Music~Band/Doors|Doors]] 
 
-### #is_/same_as :: [Doors.public](/_public/Society/Communication/Media/Music/Musician/Music~Band/Doors.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Musician/Music~Band/Doors.public|Doors.public]] 
 
-### #is_/same_as :: [Doors.internal](/_internal/Society/Communication/Media/Music/Musician/Music~Band/Doors.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Musician/Music~Band/Doors.internal|Doors.internal]] 
 
-### #is_/same_as :: [Doors.protect](/_protect/Society/Communication/Media/Music/Musician/Music~Band/Doors.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Musician/Music~Band/Doors.protect|Doors.protect]] 
 
-### #is_/same_as :: [Doors.private](/_private/Society/Communication/Media/Music/Musician/Music~Band/Doors.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Musician/Music~Band/Doors.private|Doors.private]] 
 
-### #is_/same_as :: [Doors.personal](/_personal/Society/Communication/Media/Music/Musician/Music~Band/Doors.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Musician/Music~Band/Doors.personal|Doors.personal]] 
 
-### #is_/same_as :: [Doors.secret](/_secret/Society/Communication/Media/Music/Musician/Music~Band/Doors.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Musician/Music~Band/Doors.secret|Doors.secret]] 
 

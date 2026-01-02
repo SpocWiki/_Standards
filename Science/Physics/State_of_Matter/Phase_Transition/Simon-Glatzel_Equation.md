@@ -27,17 +27,17 @@ has_id_wikidata: Q7520530
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Simon-Glatzel Equation](/_Standards/Simon-Glatzel Equation.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/State_of_Matter/Phase_Transition/Simon-Glatzel_Equation|Simon-Glatzel_Equation]] 
 
-### #is_/same_as :: [Simon-Glatzel Equation.public](/_public/Simon-Glatzel Equation.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/State_of_Matter/Phase_Transition/Simon-Glatzel_Equation.public|Simon-Glatzel_Equation.public]] 
 
-### #is_/same_as :: [Simon-Glatzel Equation.internal](/_internal/Simon-Glatzel Equation.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/State_of_Matter/Phase_Transition/Simon-Glatzel_Equation.internal|Simon-Glatzel_Equation.internal]] 
 
-### #is_/same_as :: [Simon-Glatzel Equation.protect](/_protect/Simon-Glatzel Equation.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/State_of_Matter/Phase_Transition/Simon-Glatzel_Equation.protect|Simon-Glatzel_Equation.protect]] 
 
-### #is_/same_as :: [Simon-Glatzel Equation.private](/_private/Simon-Glatzel Equation.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/State_of_Matter/Phase_Transition/Simon-Glatzel_Equation.private|Simon-Glatzel_Equation.private]] 
 
-### #is_/same_as :: [Simon-Glatzel Equation.personal](/_personal/Simon-Glatzel Equation.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/State_of_Matter/Phase_Transition/Simon-Glatzel_Equation.personal|Simon-Glatzel_Equation.personal]] 
 
-### #is_/same_as :: [Simon-Glatzel Equation.secret](/_secret/Simon-Glatzel Equation.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/State_of_Matter/Phase_Transition/Simon-Glatzel_Equation.secret|Simon-Glatzel_Equation.secret]] 
 

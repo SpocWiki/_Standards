@@ -42,17 +42,17 @@ CassetteFormat.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Cassette_Format](/_Standards/schema-org/Enumeration/Music_Release_Format_Type/Cassette_Format.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Music_Release_Format_Type/Cassette_Format|Cassette_Format]] 
 
-### #is_/same_as :: [Cassette_Format.public](/_public/schema-org/Enumeration/Music_Release_Format_Type/Cassette_Format.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Music_Release_Format_Type/Cassette_Format.public|Cassette_Format.public]] 
 
-### #is_/same_as :: [Cassette_Format.internal](/_internal/schema-org/Enumeration/Music_Release_Format_Type/Cassette_Format.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Music_Release_Format_Type/Cassette_Format.internal|Cassette_Format.internal]] 
 
-### #is_/same_as :: [Cassette_Format.protect](/_protect/schema-org/Enumeration/Music_Release_Format_Type/Cassette_Format.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Music_Release_Format_Type/Cassette_Format.protect|Cassette_Format.protect]] 
 
-### #is_/same_as :: [Cassette_Format.private](/_private/schema-org/Enumeration/Music_Release_Format_Type/Cassette_Format.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Music_Release_Format_Type/Cassette_Format.private|Cassette_Format.private]] 
 
-### #is_/same_as :: [Cassette_Format.personal](/_personal/schema-org/Enumeration/Music_Release_Format_Type/Cassette_Format.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Music_Release_Format_Type/Cassette_Format.personal|Cassette_Format.personal]] 
 
-### #is_/same_as :: [Cassette_Format.secret](/_secret/schema-org/Enumeration/Music_Release_Format_Type/Cassette_Format.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Music_Release_Format_Type/Cassette_Format.secret|Cassette_Format.secret]] 
 

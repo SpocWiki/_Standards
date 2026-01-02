@@ -54,17 +54,17 @@ MIL_STD_2525_Symbol_Identification_Code: 10013000001401140000
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Junk(Ship)](/_Standards/Technology/Transport/Water_Transport/Watercraft/Ship/Junk(Ship).md) 
+### #is_/same_as :: [[/_Standards/Technology/Transport/Water_Transport/Watercraft/Ship/Junk(Ship)|Junk(Ship)]] 
 
-### #is_/same_as :: [Junk(Ship).public](/_public/Technology/Transport/Water_Transport/Watercraft/Ship/Junk(Ship).public.md) 
+### #is_/same_as :: [[/_public/Technology/Transport/Water_Transport/Watercraft/Ship/Junk(Ship).public|Junk(Ship).public]] 
 
-### #is_/same_as :: [Junk(Ship).internal](/_internal/Technology/Transport/Water_Transport/Watercraft/Ship/Junk(Ship).internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Transport/Water_Transport/Watercraft/Ship/Junk(Ship).internal|Junk(Ship).internal]] 
 
-### #is_/same_as :: [Junk(Ship).protect](/_protect/Technology/Transport/Water_Transport/Watercraft/Ship/Junk(Ship).protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Transport/Water_Transport/Watercraft/Ship/Junk(Ship).protect|Junk(Ship).protect]] 
 
-### #is_/same_as :: [Junk(Ship).private](/_private/Technology/Transport/Water_Transport/Watercraft/Ship/Junk(Ship).private.md) 
+### #is_/same_as :: [[/_private/Technology/Transport/Water_Transport/Watercraft/Ship/Junk(Ship).private|Junk(Ship).private]] 
 
-### #is_/same_as :: [Junk(Ship).personal](/_personal/Technology/Transport/Water_Transport/Watercraft/Ship/Junk(Ship).personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Transport/Water_Transport/Watercraft/Ship/Junk(Ship).personal|Junk(Ship).personal]] 
 
-### #is_/same_as :: [Junk(Ship).secret](/_secret/Technology/Transport/Water_Transport/Watercraft/Ship/Junk(Ship).secret.md)
+### #is_/same_as :: [[/_secret/Technology/Transport/Water_Transport/Watercraft/Ship/Junk(Ship).secret|Junk(Ship).secret]] 
 

@@ -43,17 +43,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_number_of_repetitions](/_Standards/schema-org/Property/has_number_of/has_number_of_repetitions.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_number_of/has_number_of_repetitions|has_number_of_repetitions]] 
 
-### #is_/same_as :: [has_number_of_repetitions.public](/_public/schema-org/Property/has_number_of/has_number_of_repetitions.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/has_number_of/has_number_of_repetitions.public|has_number_of_repetitions.public]] 
 
-### #is_/same_as :: [has_number_of_repetitions.internal](/_internal/schema-org/Property/has_number_of/has_number_of_repetitions.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_number_of/has_number_of_repetitions.internal|has_number_of_repetitions.internal]] 
 
-### #is_/same_as :: [has_number_of_repetitions.protect](/_protect/schema-org/Property/has_number_of/has_number_of_repetitions.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_number_of/has_number_of_repetitions.protect|has_number_of_repetitions.protect]] 
 
-### #is_/same_as :: [has_number_of_repetitions.private](/_private/schema-org/Property/has_number_of/has_number_of_repetitions.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/has_number_of/has_number_of_repetitions.private|has_number_of_repetitions.private]] 
 
-### #is_/same_as :: [has_number_of_repetitions.personal](/_personal/schema-org/Property/has_number_of/has_number_of_repetitions.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_number_of/has_number_of_repetitions.personal|has_number_of_repetitions.personal]] 
 
-### #is_/same_as :: [has_number_of_repetitions.secret](/_secret/schema-org/Property/has_number_of/has_number_of_repetitions.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/has_number_of/has_number_of_repetitions.secret|has_number_of_repetitions.secret]] 
 

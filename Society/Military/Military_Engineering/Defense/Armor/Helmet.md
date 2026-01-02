@@ -44,17 +44,17 @@ MeSH_tree_code:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Helmet](/_Standards/Society/Military/Military_Engineering/Defense/Armor/Helmet.md) 
+### #is_/same_as :: [[/_Standards/Society/Military/Military_Engineering/Defense/Armor/Helmet|Helmet]] 
 
-### #is_/same_as :: [Helmet.public](/_public/Society/Military/Military_Engineering/Defense/Armor/Helmet.public.md) 
+### #is_/same_as :: [[/_public/Society/Military/Military_Engineering/Defense/Armor/Helmet.public|Helmet.public]] 
 
-### #is_/same_as :: [Helmet.internal](/_internal/Society/Military/Military_Engineering/Defense/Armor/Helmet.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Military/Military_Engineering/Defense/Armor/Helmet.internal|Helmet.internal]] 
 
-### #is_/same_as :: [Helmet.protect](/_protect/Society/Military/Military_Engineering/Defense/Armor/Helmet.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Military/Military_Engineering/Defense/Armor/Helmet.protect|Helmet.protect]] 
 
-### #is_/same_as :: [Helmet.private](/_private/Society/Military/Military_Engineering/Defense/Armor/Helmet.private.md) 
+### #is_/same_as :: [[/_private/Society/Military/Military_Engineering/Defense/Armor/Helmet.private|Helmet.private]] 
 
-### #is_/same_as :: [Helmet.personal](/_personal/Society/Military/Military_Engineering/Defense/Armor/Helmet.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Military/Military_Engineering/Defense/Armor/Helmet.personal|Helmet.personal]] 
 
-### #is_/same_as :: [Helmet.secret](/_secret/Society/Military/Military_Engineering/Defense/Armor/Helmet.secret.md)
+### #is_/same_as :: [[/_secret/Society/Military/Military_Engineering/Defense/Armor/Helmet.secret|Helmet.secret]] 
 

@@ -12,17 +12,17 @@ Class of [[../Predicate|Predicates]] with Date and / or Time.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_Date_Time](/_Standards/schema-org/Property/has_Date_Time.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_Date_Time|has_Date_Time]] 
 
-### #is_/same_as :: [has_Date_Time.public](/_public/schema-org/Property/has_Date_Time.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/has_Date_Time.public|has_Date_Time.public]] 
 
-### #is_/same_as :: [has_Date_Time.internal](/_internal/schema-org/Property/has_Date_Time.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_Date_Time.internal|has_Date_Time.internal]] 
 
-### #is_/same_as :: [has_Date_Time.protect](/_protect/schema-org/Property/has_Date_Time.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_Date_Time.protect|has_Date_Time.protect]] 
 
-### #is_/same_as :: [has_Date_Time.private](/_private/schema-org/Property/has_Date_Time.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/has_Date_Time.private|has_Date_Time.private]] 
 
-### #is_/same_as :: [has_Date_Time.personal](/_personal/schema-org/Property/has_Date_Time.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_Date_Time.personal|has_Date_Time.personal]] 
 
-### #is_/same_as :: [has_Date_Time.secret](/_secret/schema-org/Property/has_Date_Time.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/has_Date_Time.secret|has_Date_Time.secret]] 
 

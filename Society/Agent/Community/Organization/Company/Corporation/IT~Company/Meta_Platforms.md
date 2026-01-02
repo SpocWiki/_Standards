@@ -40,17 +40,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Meta_Platforms](/_Standards/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Meta_Platforms.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Meta_Platforms|Meta_Platforms]] 
 
-### #is_/same_as :: [Meta_Platforms.public](/_public/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Meta_Platforms.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Meta_Platforms.public|Meta_Platforms.public]] 
 
-### #is_/same_as :: [Meta_Platforms.internal](/_internal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Meta_Platforms.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Meta_Platforms.internal|Meta_Platforms.internal]] 
 
-### #is_/same_as :: [Meta_Platforms.protect](/_protect/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Meta_Platforms.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Meta_Platforms.protect|Meta_Platforms.protect]] 
 
-### #is_/same_as :: [Meta_Platforms.private](/_private/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Meta_Platforms.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Meta_Platforms.private|Meta_Platforms.private]] 
 
-### #is_/same_as :: [Meta_Platforms.personal](/_personal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Meta_Platforms.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Meta_Platforms.personal|Meta_Platforms.personal]] 
 
-### #is_/same_as :: [Meta_Platforms.secret](/_secret/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Meta_Platforms.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Meta_Platforms.secret|Meta_Platforms.secret]] 
 

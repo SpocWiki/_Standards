@@ -61,17 +61,17 @@ Krugosvet_article: nauka_i_tehnika/himiya/KATALIZ.html
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Catalysis](/_Standards/Chemistry/Chemical_Reaction/Catalysis.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Chemical_Reaction/Catalysis|Catalysis]] 
 
-### #is_/same_as :: [Catalysis.public](/_public/Chemistry/Chemical_Reaction/Catalysis.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Chemical_Reaction/Catalysis.public|Catalysis.public]] 
 
-### #is_/same_as :: [Catalysis.internal](/_internal/Chemistry/Chemical_Reaction/Catalysis.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Chemical_Reaction/Catalysis.internal|Catalysis.internal]] 
 
-### #is_/same_as :: [Catalysis.protect](/_protect/Chemistry/Chemical_Reaction/Catalysis.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Chemical_Reaction/Catalysis.protect|Catalysis.protect]] 
 
-### #is_/same_as :: [Catalysis.private](/_private/Chemistry/Chemical_Reaction/Catalysis.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Chemical_Reaction/Catalysis.private|Catalysis.private]] 
 
-### #is_/same_as :: [Catalysis.personal](/_personal/Chemistry/Chemical_Reaction/Catalysis.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Chemical_Reaction/Catalysis.personal|Catalysis.personal]] 
 
-### #is_/same_as :: [Catalysis.secret](/_secret/Chemistry/Chemical_Reaction/Catalysis.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Chemical_Reaction/Catalysis.secret|Catalysis.secret]] 
 

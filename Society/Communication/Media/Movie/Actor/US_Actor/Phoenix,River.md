@@ -39,17 +39,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Phoenix,River](/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Phoenix,River.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Phoenix,River|Phoenix,River]] 
 
-### #is_/same_as :: [Phoenix,River.public](/_public/Society/Communication/Media/Movie/Actor/US_Actor/Phoenix,River.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Actor/US_Actor/Phoenix,River.public|Phoenix,River.public]] 
 
-### #is_/same_as :: [Phoenix,River.internal](/_internal/Society/Communication/Media/Movie/Actor/US_Actor/Phoenix,River.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Actor/US_Actor/Phoenix,River.internal|Phoenix,River.internal]] 
 
-### #is_/same_as :: [Phoenix,River.protect](/_protect/Society/Communication/Media/Movie/Actor/US_Actor/Phoenix,River.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Actor/US_Actor/Phoenix,River.protect|Phoenix,River.protect]] 
 
-### #is_/same_as :: [Phoenix,River.private](/_private/Society/Communication/Media/Movie/Actor/US_Actor/Phoenix,River.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Actor/US_Actor/Phoenix,River.private|Phoenix,River.private]] 
 
-### #is_/same_as :: [Phoenix,River.personal](/_personal/Society/Communication/Media/Movie/Actor/US_Actor/Phoenix,River.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Actor/US_Actor/Phoenix,River.personal|Phoenix,River.personal]] 
 
-### #is_/same_as :: [Phoenix,River.secret](/_secret/Society/Communication/Media/Movie/Actor/US_Actor/Phoenix,River.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Actor/US_Actor/Phoenix,River.secret|Phoenix,River.secret]] 
 

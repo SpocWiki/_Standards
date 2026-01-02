@@ -161,17 +161,17 @@ Libris_URI: ljx01tz42rwzzmt
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [More,Thomas](/_Standards/Philosophy/Philosopher/Middle_Ages_Philosopher/More,Thomas.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Philosopher/Middle_Ages_Philosopher/More,Thomas|More,Thomas]] 
 
-### #is_/same_as :: [More,Thomas.public](/_public/Philosophy/Philosopher/Middle_Ages_Philosopher/More,Thomas.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Philosopher/Middle_Ages_Philosopher/More,Thomas.public|More,Thomas.public]] 
 
-### #is_/same_as :: [More,Thomas.internal](/_internal/Philosophy/Philosopher/Middle_Ages_Philosopher/More,Thomas.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Philosopher/Middle_Ages_Philosopher/More,Thomas.internal|More,Thomas.internal]] 
 
-### #is_/same_as :: [More,Thomas.protect](/_protect/Philosophy/Philosopher/Middle_Ages_Philosopher/More,Thomas.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Philosopher/Middle_Ages_Philosopher/More,Thomas.protect|More,Thomas.protect]] 
 
-### #is_/same_as :: [More,Thomas.private](/_private/Philosophy/Philosopher/Middle_Ages_Philosopher/More,Thomas.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Philosopher/Middle_Ages_Philosopher/More,Thomas.private|More,Thomas.private]] 
 
-### #is_/same_as :: [More,Thomas.personal](/_personal/Philosophy/Philosopher/Middle_Ages_Philosopher/More,Thomas.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Philosopher/Middle_Ages_Philosopher/More,Thomas.personal|More,Thomas.personal]] 
 
-### #is_/same_as :: [More,Thomas.secret](/_secret/Philosophy/Philosopher/Middle_Ages_Philosopher/More,Thomas.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Philosopher/Middle_Ages_Philosopher/More,Thomas.secret|More,Thomas.secret]] 
 

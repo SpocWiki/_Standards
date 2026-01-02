@@ -45,17 +45,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_departure_terminal](/_Standards/schema-org/Property/Texts/has_departure_terminal.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/Texts/has_departure_terminal|has_departure_terminal]] 
 
-### #is_/same_as :: [has_departure_terminal.public](/_public/schema-org/Property/Texts/has_departure_terminal.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/Texts/has_departure_terminal.public|has_departure_terminal.public]] 
 
-### #is_/same_as :: [has_departure_terminal.internal](/_internal/schema-org/Property/Texts/has_departure_terminal.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/Texts/has_departure_terminal.internal|has_departure_terminal.internal]] 
 
-### #is_/same_as :: [has_departure_terminal.protect](/_protect/schema-org/Property/Texts/has_departure_terminal.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/Texts/has_departure_terminal.protect|has_departure_terminal.protect]] 
 
-### #is_/same_as :: [has_departure_terminal.private](/_private/schema-org/Property/Texts/has_departure_terminal.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/Texts/has_departure_terminal.private|has_departure_terminal.private]] 
 
-### #is_/same_as :: [has_departure_terminal.personal](/_personal/schema-org/Property/Texts/has_departure_terminal.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/Texts/has_departure_terminal.personal|has_departure_terminal.personal]] 
 
-### #is_/same_as :: [has_departure_terminal.secret](/_secret/schema-org/Property/Texts/has_departure_terminal.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/Texts/has_departure_terminal.secret|has_departure_terminal.secret]] 
 

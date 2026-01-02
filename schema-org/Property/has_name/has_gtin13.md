@@ -46,17 +46,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_gtin13](/_Standards/schema-org/Property/has_name/has_gtin13.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_name/has_gtin13|has_gtin13]] 
 
-### #is_/same_as :: [has_gtin13.public](/_public/schema-org/Property/has_name/has_gtin13.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/has_name/has_gtin13.public|has_gtin13.public]] 
 
-### #is_/same_as :: [has_gtin13.internal](/_internal/schema-org/Property/has_name/has_gtin13.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_name/has_gtin13.internal|has_gtin13.internal]] 
 
-### #is_/same_as :: [has_gtin13.protect](/_protect/schema-org/Property/has_name/has_gtin13.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_name/has_gtin13.protect|has_gtin13.protect]] 
 
-### #is_/same_as :: [has_gtin13.private](/_private/schema-org/Property/has_name/has_gtin13.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/has_name/has_gtin13.private|has_gtin13.private]] 
 
-### #is_/same_as :: [has_gtin13.personal](/_personal/schema-org/Property/has_name/has_gtin13.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_name/has_gtin13.personal|has_gtin13.personal]] 
 
-### #is_/same_as :: [has_gtin13.secret](/_secret/schema-org/Property/has_name/has_gtin13.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/has_name/has_gtin13.secret|has_gtin13.secret]] 
 

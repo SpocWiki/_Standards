@@ -31,17 +31,17 @@ Commons_category: Environmental chemistry
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Environmental_Chemistry](/_Standards/Chemistry/Branch_of_Chemistry/Environmental_Chemistry.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Branch_of_Chemistry/Environmental_Chemistry|Environmental_Chemistry]] 
 
-### #is_/same_as :: [Environmental_Chemistry.public](/_public/Chemistry/Branch_of_Chemistry/Environmental_Chemistry.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Branch_of_Chemistry/Environmental_Chemistry.public|Environmental_Chemistry.public]] 
 
-### #is_/same_as :: [Environmental_Chemistry.internal](/_internal/Chemistry/Branch_of_Chemistry/Environmental_Chemistry.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Branch_of_Chemistry/Environmental_Chemistry.internal|Environmental_Chemistry.internal]] 
 
-### #is_/same_as :: [Environmental_Chemistry.protect](/_protect/Chemistry/Branch_of_Chemistry/Environmental_Chemistry.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Branch_of_Chemistry/Environmental_Chemistry.protect|Environmental_Chemistry.protect]] 
 
-### #is_/same_as :: [Environmental_Chemistry.private](/_private/Chemistry/Branch_of_Chemistry/Environmental_Chemistry.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Branch_of_Chemistry/Environmental_Chemistry.private|Environmental_Chemistry.private]] 
 
-### #is_/same_as :: [Environmental_Chemistry.personal](/_personal/Chemistry/Branch_of_Chemistry/Environmental_Chemistry.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Branch_of_Chemistry/Environmental_Chemistry.personal|Environmental_Chemistry.personal]] 
 
-### #is_/same_as :: [Environmental_Chemistry.secret](/_secret/Chemistry/Branch_of_Chemistry/Environmental_Chemistry.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Branch_of_Chemistry/Environmental_Chemistry.secret|Environmental_Chemistry.secret]] 
 

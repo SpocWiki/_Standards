@@ -138,17 +138,17 @@ birth_name: Κλαύδιος Πτολεμαῖος
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ptolemy](/_Standards/Astronomy/Astronomer/Ptolemy.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Astronomer/Ptolemy|Ptolemy]] 
 
-### #is_/same_as :: [Ptolemy.public](/_public/Astronomy/Astronomer/Ptolemy.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Astronomer/Ptolemy.public|Ptolemy.public]] 
 
-### #is_/same_as :: [Ptolemy.internal](/_internal/Astronomy/Astronomer/Ptolemy.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Astronomer/Ptolemy.internal|Ptolemy.internal]] 
 
-### #is_/same_as :: [Ptolemy.protect](/_protect/Astronomy/Astronomer/Ptolemy.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Astronomer/Ptolemy.protect|Ptolemy.protect]] 
 
-### #is_/same_as :: [Ptolemy.private](/_private/Astronomy/Astronomer/Ptolemy.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Astronomer/Ptolemy.private|Ptolemy.private]] 
 
-### #is_/same_as :: [Ptolemy.personal](/_personal/Astronomy/Astronomer/Ptolemy.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Astronomer/Ptolemy.personal|Ptolemy.personal]] 
 
-### #is_/same_as :: [Ptolemy.secret](/_secret/Astronomy/Astronomer/Ptolemy.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Astronomer/Ptolemy.secret|Ptolemy.secret]] 
 

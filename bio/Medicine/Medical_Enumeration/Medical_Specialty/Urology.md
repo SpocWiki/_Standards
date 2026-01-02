@@ -68,17 +68,17 @@ and the urogenital system.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Urology](/_Standards/bio/Medicine/Medical_Enumeration/Medical_Specialty/Urology.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Enumeration/Medical_Specialty/Urology|Urology]] 
 
-### #is_/same_as :: [Urology.public](/_public/bio/Medicine/Medical_Enumeration/Medical_Specialty/Urology.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Enumeration/Medical_Specialty/Urology.public|Urology.public]] 
 
-### #is_/same_as :: [Urology.internal](/_internal/bio/Medicine/Medical_Enumeration/Medical_Specialty/Urology.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Enumeration/Medical_Specialty/Urology.internal|Urology.internal]] 
 
-### #is_/same_as :: [Urology.protect](/_protect/bio/Medicine/Medical_Enumeration/Medical_Specialty/Urology.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Enumeration/Medical_Specialty/Urology.protect|Urology.protect]] 
 
-### #is_/same_as :: [Urology.private](/_private/bio/Medicine/Medical_Enumeration/Medical_Specialty/Urology.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Enumeration/Medical_Specialty/Urology.private|Urology.private]] 
 
-### #is_/same_as :: [Urology.personal](/_personal/bio/Medicine/Medical_Enumeration/Medical_Specialty/Urology.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Enumeration/Medical_Specialty/Urology.personal|Urology.personal]] 
 
-### #is_/same_as :: [Urology.secret](/_secret/bio/Medicine/Medical_Enumeration/Medical_Specialty/Urology.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Enumeration/Medical_Specialty/Urology.secret|Urology.secret]] 
 

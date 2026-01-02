@@ -41,17 +41,17 @@ A short segment/part of a movie.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Movie_Clip](/_Standards/Society/Communication/Media/Creative_Work/Clip/Movie_Clip.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Creative_Work/Clip/Movie_Clip|Movie_Clip]] 
 
-### #is_/same_as :: [Movie_Clip.public](/_public/Society/Communication/Media/Creative_Work/Clip/Movie_Clip.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Creative_Work/Clip/Movie_Clip.public|Movie_Clip.public]] 
 
-### #is_/same_as :: [Movie_Clip.internal](/_internal/Society/Communication/Media/Creative_Work/Clip/Movie_Clip.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Creative_Work/Clip/Movie_Clip.internal|Movie_Clip.internal]] 
 
-### #is_/same_as :: [Movie_Clip.protect](/_protect/Society/Communication/Media/Creative_Work/Clip/Movie_Clip.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Creative_Work/Clip/Movie_Clip.protect|Movie_Clip.protect]] 
 
-### #is_/same_as :: [Movie_Clip.private](/_private/Society/Communication/Media/Creative_Work/Clip/Movie_Clip.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Creative_Work/Clip/Movie_Clip.private|Movie_Clip.private]] 
 
-### #is_/same_as :: [Movie_Clip.personal](/_personal/Society/Communication/Media/Creative_Work/Clip/Movie_Clip.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/Clip/Movie_Clip.personal|Movie_Clip.personal]] 
 
-### #is_/same_as :: [Movie_Clip.secret](/_secret/Society/Communication/Media/Creative_Work/Clip/Movie_Clip.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Clip/Movie_Clip.secret|Movie_Clip.secret]] 
 

@@ -52,17 +52,17 @@ Commons_category: Oxidizing agents
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Oxidizing_Agent](/_Standards/Chemistry/Chemical_Reaction/Redox/Oxidizing_Agent.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Chemical_Reaction/Redox/Oxidizing_Agent|Oxidizing_Agent]] 
 
-### #is_/same_as :: [Oxidizing_Agent.public](/_public/Chemistry/Chemical_Reaction/Redox/Oxidizing_Agent.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Chemical_Reaction/Redox/Oxidizing_Agent.public|Oxidizing_Agent.public]] 
 
-### #is_/same_as :: [Oxidizing_Agent.internal](/_internal/Chemistry/Chemical_Reaction/Redox/Oxidizing_Agent.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Chemical_Reaction/Redox/Oxidizing_Agent.internal|Oxidizing_Agent.internal]] 
 
-### #is_/same_as :: [Oxidizing_Agent.protect](/_protect/Chemistry/Chemical_Reaction/Redox/Oxidizing_Agent.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Chemical_Reaction/Redox/Oxidizing_Agent.protect|Oxidizing_Agent.protect]] 
 
-### #is_/same_as :: [Oxidizing_Agent.private](/_private/Chemistry/Chemical_Reaction/Redox/Oxidizing_Agent.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Chemical_Reaction/Redox/Oxidizing_Agent.private|Oxidizing_Agent.private]] 
 
-### #is_/same_as :: [Oxidizing_Agent.personal](/_personal/Chemistry/Chemical_Reaction/Redox/Oxidizing_Agent.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Chemical_Reaction/Redox/Oxidizing_Agent.personal|Oxidizing_Agent.personal]] 
 
-### #is_/same_as :: [Oxidizing_Agent.secret](/_secret/Chemistry/Chemical_Reaction/Redox/Oxidizing_Agent.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Chemical_Reaction/Redox/Oxidizing_Agent.secret|Oxidizing_Agent.secret]] 
 

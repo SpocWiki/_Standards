@@ -144,17 +144,17 @@ U_S_National_Archives_Identifier: 10581335
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Wyler,William](/_Standards/Society/Communication/Media/Movie/Movie-Director/Wyler,William.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Director/Wyler,William|Wyler,William]] 
 
-### #is_/same_as :: [Wyler,William.public](/_public/Society/Communication/Media/Movie/Movie-Director/Wyler,William.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Director/Wyler,William.public|Wyler,William.public]] 
 
-### #is_/same_as :: [Wyler,William.internal](/_internal/Society/Communication/Media/Movie/Movie-Director/Wyler,William.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Director/Wyler,William.internal|Wyler,William.internal]] 
 
-### #is_/same_as :: [Wyler,William.protect](/_protect/Society/Communication/Media/Movie/Movie-Director/Wyler,William.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Director/Wyler,William.protect|Wyler,William.protect]] 
 
-### #is_/same_as :: [Wyler,William.private](/_private/Society/Communication/Media/Movie/Movie-Director/Wyler,William.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Director/Wyler,William.private|Wyler,William.private]] 
 
-### #is_/same_as :: [Wyler,William.personal](/_personal/Society/Communication/Media/Movie/Movie-Director/Wyler,William.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Director/Wyler,William.personal|Wyler,William.personal]] 
 
-### #is_/same_as :: [Wyler,William.secret](/_secret/Society/Communication/Media/Movie/Movie-Director/Wyler,William.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Director/Wyler,William.secret|Wyler,William.secret]] 
 

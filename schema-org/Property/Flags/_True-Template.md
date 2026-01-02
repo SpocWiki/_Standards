@@ -57,17 +57,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [_True-Template](/_Standards/schema-org/Property/Flags/_True-Template.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/Flags/_True-Template|_True-Template]] 
 
-### #is_/same_as :: [_True-Template.public](/_public/schema-org/Property/Flags/_True-Template.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/Flags/_True-Template.public|_True-Template.public]] 
 
-### #is_/same_as :: [_True-Template.internal](/_internal/schema-org/Property/Flags/_True-Template.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/Flags/_True-Template.internal|_True-Template.internal]] 
 
-### #is_/same_as :: [_True-Template.protect](/_protect/schema-org/Property/Flags/_True-Template.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/Flags/_True-Template.protect|_True-Template.protect]] 
 
-### #is_/same_as :: [_True-Template.private](/_private/schema-org/Property/Flags/_True-Template.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/Flags/_True-Template.private|_True-Template.private]] 
 
-### #is_/same_as :: [_True-Template.personal](/_personal/schema-org/Property/Flags/_True-Template.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/Flags/_True-Template.personal|_True-Template.personal]] 
 
-### #is_/same_as :: [_True-Template.secret](/_secret/schema-org/Property/Flags/_True-Template.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/Flags/_True-Template.secret|_True-Template.secret]] 
 

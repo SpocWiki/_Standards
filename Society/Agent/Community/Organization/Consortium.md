@@ -74,17 +74,17 @@ A Consortium is a membership [[../Organization]] whose members are typically Org
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Consortium](/_Standards/Society/Agent/Community/Organization/Consortium.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Consortium|Consortium]] 
 
-### #is_/same_as :: [Consortium.public](/_public/Society/Agent/Community/Organization/Consortium.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Consortium.public|Consortium.public]] 
 
-### #is_/same_as :: [Consortium.internal](/_internal/Society/Agent/Community/Organization/Consortium.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Consortium.internal|Consortium.internal]] 
 
-### #is_/same_as :: [Consortium.protect](/_protect/Society/Agent/Community/Organization/Consortium.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Consortium.protect|Consortium.protect]] 
 
-### #is_/same_as :: [Consortium.private](/_private/Society/Agent/Community/Organization/Consortium.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Consortium.private|Consortium.private]] 
 
-### #is_/same_as :: [Consortium.personal](/_personal/Society/Agent/Community/Organization/Consortium.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Consortium.personal|Consortium.personal]] 
 
-### #is_/same_as :: [Consortium.secret](/_secret/Society/Agent/Community/Organization/Consortium.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Consortium.secret|Consortium.secret]] 
 

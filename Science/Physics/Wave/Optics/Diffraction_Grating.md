@@ -37,17 +37,17 @@ Commons_category: Diffraction gratings
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Diffraction_Grating](/_Standards/Science/Physics/Wave/Optics/Diffraction_Grating.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Wave/Optics/Diffraction_Grating|Diffraction_Grating]] 
 
-### #is_/same_as :: [Diffraction_Grating.public](/_public/Science/Physics/Wave/Optics/Diffraction_Grating.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Wave/Optics/Diffraction_Grating.public|Diffraction_Grating.public]] 
 
-### #is_/same_as :: [Diffraction_Grating.internal](/_internal/Science/Physics/Wave/Optics/Diffraction_Grating.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Wave/Optics/Diffraction_Grating.internal|Diffraction_Grating.internal]] 
 
-### #is_/same_as :: [Diffraction_Grating.protect](/_protect/Science/Physics/Wave/Optics/Diffraction_Grating.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Wave/Optics/Diffraction_Grating.protect|Diffraction_Grating.protect]] 
 
-### #is_/same_as :: [Diffraction_Grating.private](/_private/Science/Physics/Wave/Optics/Diffraction_Grating.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Wave/Optics/Diffraction_Grating.private|Diffraction_Grating.private]] 
 
-### #is_/same_as :: [Diffraction_Grating.personal](/_personal/Science/Physics/Wave/Optics/Diffraction_Grating.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Wave/Optics/Diffraction_Grating.personal|Diffraction_Grating.personal]] 
 
-### #is_/same_as :: [Diffraction_Grating.secret](/_secret/Science/Physics/Wave/Optics/Diffraction_Grating.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Wave/Optics/Diffraction_Grating.secret|Diffraction_Grating.secret]] 
 

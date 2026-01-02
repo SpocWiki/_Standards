@@ -65,17 +65,17 @@ start_time: 1945-02-04T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [1945-Yalta_Conference](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1939-World_War_II/1945-Yalta_Conference.md) 
+### #is_/same_as :: [[/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1939-World_War_II/1945-Yalta_Conference|1945-Yalta_Conference]] 
 
-### #is_/same_as :: [1945-Yalta_Conference.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1939-World_War_II/1945-Yalta_Conference.public.md) 
+### #is_/same_as :: [[/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1939-World_War_II/1945-Yalta_Conference.public|1945-Yalta_Conference.public]] 
 
-### #is_/same_as :: [1945-Yalta_Conference.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1939-World_War_II/1945-Yalta_Conference.internal.md) 
+### #is_/same_as :: [[/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1939-World_War_II/1945-Yalta_Conference.internal|1945-Yalta_Conference.internal]] 
 
-### #is_/same_as :: [1945-Yalta_Conference.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1939-World_War_II/1945-Yalta_Conference.protect.md) 
+### #is_/same_as :: [[/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1939-World_War_II/1945-Yalta_Conference.protect|1945-Yalta_Conference.protect]] 
 
-### #is_/same_as :: [1945-Yalta_Conference.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1939-World_War_II/1945-Yalta_Conference.private.md) 
+### #is_/same_as :: [[/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1939-World_War_II/1945-Yalta_Conference.private|1945-Yalta_Conference.private]] 
 
-### #is_/same_as :: [1945-Yalta_Conference.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1939-World_War_II/1945-Yalta_Conference.personal.md) 
+### #is_/same_as :: [[/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1939-World_War_II/1945-Yalta_Conference.personal|1945-Yalta_Conference.personal]] 
 
-### #is_/same_as :: [1945-Yalta_Conference.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1939-World_War_II/1945-Yalta_Conference.secret.md)
+### #is_/same_as :: [[/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1939-World_War_II/1945-Yalta_Conference.secret|1945-Yalta_Conference.secret]] 
 

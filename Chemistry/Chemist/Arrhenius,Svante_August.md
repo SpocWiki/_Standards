@@ -161,17 +161,17 @@ ISNI: 000000008084414X
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Arrhenius,Svante_August](/_Standards/Chemistry/Chemist/Arrhenius,Svante_August.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Chemist/Arrhenius,Svante_August|Arrhenius,Svante_August]] 
 
-### #is_/same_as :: [Arrhenius,Svante_August.public](/_public/Chemistry/Chemist/Arrhenius,Svante_August.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Chemist/Arrhenius,Svante_August.public|Arrhenius,Svante_August.public]] 
 
-### #is_/same_as :: [Arrhenius,Svante_August.internal](/_internal/Chemistry/Chemist/Arrhenius,Svante_August.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Chemist/Arrhenius,Svante_August.internal|Arrhenius,Svante_August.internal]] 
 
-### #is_/same_as :: [Arrhenius,Svante_August.protect](/_protect/Chemistry/Chemist/Arrhenius,Svante_August.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Chemist/Arrhenius,Svante_August.protect|Arrhenius,Svante_August.protect]] 
 
-### #is_/same_as :: [Arrhenius,Svante_August.private](/_private/Chemistry/Chemist/Arrhenius,Svante_August.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Chemist/Arrhenius,Svante_August.private|Arrhenius,Svante_August.private]] 
 
-### #is_/same_as :: [Arrhenius,Svante_August.personal](/_personal/Chemistry/Chemist/Arrhenius,Svante_August.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Chemist/Arrhenius,Svante_August.personal|Arrhenius,Svante_August.personal]] 
 
-### #is_/same_as :: [Arrhenius,Svante_August.secret](/_secret/Chemistry/Chemist/Arrhenius,Svante_August.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Chemist/Arrhenius,Svante_August.secret|Arrhenius,Svante_August.secret]] 
 

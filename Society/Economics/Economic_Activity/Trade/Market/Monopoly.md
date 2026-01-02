@@ -57,17 +57,17 @@ Dewey_Decimal_Classification: "338.82"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Monopoly](/_Standards/Society/Economics/Economic_Activity/Trade/Market/Monopoly.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Economic_Activity/Trade/Market/Monopoly|Monopoly]] 
 
-### #is_/same_as :: [Monopoly.public](/_public/Society/Economics/Economic_Activity/Trade/Market/Monopoly.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Economic_Activity/Trade/Market/Monopoly.public|Monopoly.public]] 
 
-### #is_/same_as :: [Monopoly.internal](/_internal/Society/Economics/Economic_Activity/Trade/Market/Monopoly.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Economic_Activity/Trade/Market/Monopoly.internal|Monopoly.internal]] 
 
-### #is_/same_as :: [Monopoly.protect](/_protect/Society/Economics/Economic_Activity/Trade/Market/Monopoly.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Economic_Activity/Trade/Market/Monopoly.protect|Monopoly.protect]] 
 
-### #is_/same_as :: [Monopoly.private](/_private/Society/Economics/Economic_Activity/Trade/Market/Monopoly.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Economic_Activity/Trade/Market/Monopoly.private|Monopoly.private]] 
 
-### #is_/same_as :: [Monopoly.personal](/_personal/Society/Economics/Economic_Activity/Trade/Market/Monopoly.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Economic_Activity/Trade/Market/Monopoly.personal|Monopoly.personal]] 
 
-### #is_/same_as :: [Monopoly.secret](/_secret/Society/Economics/Economic_Activity/Trade/Market/Monopoly.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Economic_Activity/Trade/Market/Monopoly.secret|Monopoly.secret]] 
 

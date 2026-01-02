@@ -46,17 +46,17 @@ inception: 1914-01-01T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Technicolor](/_Standards/Society/Communication/Media/Movie/Technicolor.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Technicolor|Technicolor]] 
 
-### #is_/same_as :: [Technicolor.public](/_public/Society/Communication/Media/Movie/Technicolor.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Technicolor.public|Technicolor.public]] 
 
-### #is_/same_as :: [Technicolor.internal](/_internal/Society/Communication/Media/Movie/Technicolor.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Technicolor.internal|Technicolor.internal]] 
 
-### #is_/same_as :: [Technicolor.protect](/_protect/Society/Communication/Media/Movie/Technicolor.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Technicolor.protect|Technicolor.protect]] 
 
-### #is_/same_as :: [Technicolor.private](/_private/Society/Communication/Media/Movie/Technicolor.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Technicolor.private|Technicolor.private]] 
 
-### #is_/same_as :: [Technicolor.personal](/_personal/Society/Communication/Media/Movie/Technicolor.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Technicolor.personal|Technicolor.personal]] 
 
-### #is_/same_as :: [Technicolor.secret](/_secret/Society/Communication/Media/Movie/Technicolor.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Technicolor.secret|Technicolor.secret]] 
 

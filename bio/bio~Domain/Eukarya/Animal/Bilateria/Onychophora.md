@@ -60,17 +60,17 @@ Velvet Worms
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Onychophora](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Onychophora.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Onychophora|Onychophora]] 
 
-### #is_/same_as :: [Onychophora.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Onychophora.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Onychophora.public|Onychophora.public]] 
 
-### #is_/same_as :: [Onychophora.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Onychophora.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Onychophora.internal|Onychophora.internal]] 
 
-### #is_/same_as :: [Onychophora.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Onychophora.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Onychophora.protect|Onychophora.protect]] 
 
-### #is_/same_as :: [Onychophora.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Onychophora.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Onychophora.private|Onychophora.private]] 
 
-### #is_/same_as :: [Onychophora.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Onychophora.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Onychophora.personal|Onychophora.personal]] 
 
-### #is_/same_as :: [Onychophora.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Onychophora.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Onychophora.secret|Onychophora.secret]] 
 

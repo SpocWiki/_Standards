@@ -62,17 +62,17 @@ Commons_category: Safer sex
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Safe_Sex](/_Standards/bio/Reproduction/Sexual_Reproduction/Sex/Safe_Sex.md) 
+### #is_/same_as :: [[/_Standards/bio/Reproduction/Sexual_Reproduction/Sex/Safe_Sex|Safe_Sex]] 
 
-### #is_/same_as :: [Safe_Sex.public](/_public/bio/Reproduction/Sexual_Reproduction/Sex/Safe_Sex.public.md) 
+### #is_/same_as :: [[/_public/bio/Reproduction/Sexual_Reproduction/Sex/Safe_Sex.public|Safe_Sex.public]] 
 
-### #is_/same_as :: [Safe_Sex.internal](/_internal/bio/Reproduction/Sexual_Reproduction/Sex/Safe_Sex.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Reproduction/Sexual_Reproduction/Sex/Safe_Sex.internal|Safe_Sex.internal]] 
 
-### #is_/same_as :: [Safe_Sex.protect](/_protect/bio/Reproduction/Sexual_Reproduction/Sex/Safe_Sex.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Reproduction/Sexual_Reproduction/Sex/Safe_Sex.protect|Safe_Sex.protect]] 
 
-### #is_/same_as :: [Safe_Sex.private](/_private/bio/Reproduction/Sexual_Reproduction/Sex/Safe_Sex.private.md) 
+### #is_/same_as :: [[/_private/bio/Reproduction/Sexual_Reproduction/Sex/Safe_Sex.private|Safe_Sex.private]] 
 
-### #is_/same_as :: [Safe_Sex.personal](/_personal/bio/Reproduction/Sexual_Reproduction/Sex/Safe_Sex.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Reproduction/Sexual_Reproduction/Sex/Safe_Sex.personal|Safe_Sex.personal]] 
 
-### #is_/same_as :: [Safe_Sex.secret](/_secret/bio/Reproduction/Sexual_Reproduction/Sex/Safe_Sex.secret.md)
+### #is_/same_as :: [[/_secret/bio/Reproduction/Sexual_Reproduction/Sex/Safe_Sex.secret|Safe_Sex.secret]] 
 

@@ -41,17 +41,17 @@ Event type: Exhibition event, e.g. at a museum, library, archive, tradeshow, ...
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Exhibition_Event](/_Standards/schema-org/Class/is_a_/Event/Exhibition_Event.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Event/Exhibition_Event|Exhibition_Event]] 
 
-### #is_/same_as :: [Exhibition_Event.public](/_public/schema-org/Class/is_a_/Event/Exhibition_Event.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Event/Exhibition_Event.public|Exhibition_Event.public]] 
 
-### #is_/same_as :: [Exhibition_Event.internal](/_internal/schema-org/Class/is_a_/Event/Exhibition_Event.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Event/Exhibition_Event.internal|Exhibition_Event.internal]] 
 
-### #is_/same_as :: [Exhibition_Event.protect](/_protect/schema-org/Class/is_a_/Event/Exhibition_Event.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Event/Exhibition_Event.protect|Exhibition_Event.protect]] 
 
-### #is_/same_as :: [Exhibition_Event.private](/_private/schema-org/Class/is_a_/Event/Exhibition_Event.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Event/Exhibition_Event.private|Exhibition_Event.private]] 
 
-### #is_/same_as :: [Exhibition_Event.personal](/_personal/schema-org/Class/is_a_/Event/Exhibition_Event.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Event/Exhibition_Event.personal|Exhibition_Event.personal]] 
 
-### #is_/same_as :: [Exhibition_Event.secret](/_secret/schema-org/Class/is_a_/Event/Exhibition_Event.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Event/Exhibition_Event.secret|Exhibition_Event.secret]] 
 

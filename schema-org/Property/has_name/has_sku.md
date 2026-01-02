@@ -44,17 +44,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_sku](/_Standards/schema-org/Property/has_name/has_sku.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_name/has_sku|has_sku]] 
 
-### #is_/same_as :: [has_sku.public](/_public/schema-org/Property/has_name/has_sku.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/has_name/has_sku.public|has_sku.public]] 
 
-### #is_/same_as :: [has_sku.internal](/_internal/schema-org/Property/has_name/has_sku.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_name/has_sku.internal|has_sku.internal]] 
 
-### #is_/same_as :: [has_sku.protect](/_protect/schema-org/Property/has_name/has_sku.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_name/has_sku.protect|has_sku.protect]] 
 
-### #is_/same_as :: [has_sku.private](/_private/schema-org/Property/has_name/has_sku.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/has_name/has_sku.private|has_sku.private]] 
 
-### #is_/same_as :: [has_sku.personal](/_personal/schema-org/Property/has_name/has_sku.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_name/has_sku.personal|has_sku.personal]] 
 
-### #is_/same_as :: [has_sku.secret](/_secret/schema-org/Property/has_name/has_sku.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/has_name/has_sku.secret|has_sku.secret]] 
 

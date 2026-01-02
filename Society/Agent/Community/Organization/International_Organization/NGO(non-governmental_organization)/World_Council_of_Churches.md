@@ -110,17 +110,17 @@ Libris_URI: hftwv1w138kh9jz
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [World_Council_of_Churches](/_Standards/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/World_Council_of_Churches.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/World_Council_of_Churches|World_Council_of_Churches]] 
 
-### #is_/same_as :: [World_Council_of_Churches.public](/_public/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/World_Council_of_Churches.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/World_Council_of_Churches.public|World_Council_of_Churches.public]] 
 
-### #is_/same_as :: [World_Council_of_Churches.internal](/_internal/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/World_Council_of_Churches.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/World_Council_of_Churches.internal|World_Council_of_Churches.internal]] 
 
-### #is_/same_as :: [World_Council_of_Churches.protect](/_protect/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/World_Council_of_Churches.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/World_Council_of_Churches.protect|World_Council_of_Churches.protect]] 
 
-### #is_/same_as :: [World_Council_of_Churches.private](/_private/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/World_Council_of_Churches.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/World_Council_of_Churches.private|World_Council_of_Churches.private]] 
 
-### #is_/same_as :: [World_Council_of_Churches.personal](/_personal/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/World_Council_of_Churches.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/World_Council_of_Churches.personal|World_Council_of_Churches.personal]] 
 
-### #is_/same_as :: [World_Council_of_Churches.secret](/_secret/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/World_Council_of_Churches.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/World_Council_of_Churches.secret|World_Council_of_Churches.secret]] 
 

@@ -48,17 +48,17 @@ ISNI: 0000000122960991
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Paris_Club](/_Standards/Society/Economics/Money/Debt/Paris_Club.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Money/Debt/Paris_Club|Paris_Club]] 
 
-### #is_/same_as :: [Paris_Club.public](/_public/Society/Economics/Money/Debt/Paris_Club.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Money/Debt/Paris_Club.public|Paris_Club.public]] 
 
-### #is_/same_as :: [Paris_Club.internal](/_internal/Society/Economics/Money/Debt/Paris_Club.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Money/Debt/Paris_Club.internal|Paris_Club.internal]] 
 
-### #is_/same_as :: [Paris_Club.protect](/_protect/Society/Economics/Money/Debt/Paris_Club.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Money/Debt/Paris_Club.protect|Paris_Club.protect]] 
 
-### #is_/same_as :: [Paris_Club.private](/_private/Society/Economics/Money/Debt/Paris_Club.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Money/Debt/Paris_Club.private|Paris_Club.private]] 
 
-### #is_/same_as :: [Paris_Club.personal](/_personal/Society/Economics/Money/Debt/Paris_Club.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Money/Debt/Paris_Club.personal|Paris_Club.personal]] 
 
-### #is_/same_as :: [Paris_Club.secret](/_secret/Society/Economics/Money/Debt/Paris_Club.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Money/Debt/Paris_Club.secret|Paris_Club.secret]] 
 

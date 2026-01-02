@@ -37,17 +37,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Streaming_Services](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services|Streaming_Services]] 
 
-### #is_/same_as :: [Streaming_Services.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services.public|Streaming_Services.public]] 
 
-### #is_/same_as :: [Streaming_Services.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services.internal|Streaming_Services.internal]] 
 
-### #is_/same_as :: [Streaming_Services.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services.protect|Streaming_Services.protect]] 
 
-### #is_/same_as :: [Streaming_Services.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services.private|Streaming_Services.private]] 
 
-### #is_/same_as :: [Streaming_Services.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services.personal|Streaming_Services.personal]] 
 
-### #is_/same_as :: [Streaming_Services.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services.secret|Streaming_Services.secret]] 
 

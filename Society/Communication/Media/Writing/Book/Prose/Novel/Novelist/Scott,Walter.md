@@ -186,17 +186,17 @@ date_of_birth: 1771-08-15T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Scott,Walter](/_Standards/Society/Communication/Media/Writing/Book/Prose/Novel/Novelist/Scott,Walter.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Prose/Novel/Novelist/Scott,Walter|Scott,Walter]] 
 
-### #is_/same_as :: [Scott,Walter.public](/_public/Society/Communication/Media/Writing/Book/Prose/Novel/Novelist/Scott,Walter.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Prose/Novel/Novelist/Scott,Walter.public|Scott,Walter.public]] 
 
-### #is_/same_as :: [Scott,Walter.internal](/_internal/Society/Communication/Media/Writing/Book/Prose/Novel/Novelist/Scott,Walter.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Prose/Novel/Novelist/Scott,Walter.internal|Scott,Walter.internal]] 
 
-### #is_/same_as :: [Scott,Walter.protect](/_protect/Society/Communication/Media/Writing/Book/Prose/Novel/Novelist/Scott,Walter.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Prose/Novel/Novelist/Scott,Walter.protect|Scott,Walter.protect]] 
 
-### #is_/same_as :: [Scott,Walter.private](/_private/Society/Communication/Media/Writing/Book/Prose/Novel/Novelist/Scott,Walter.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Prose/Novel/Novelist/Scott,Walter.private|Scott,Walter.private]] 
 
-### #is_/same_as :: [Scott,Walter.personal](/_personal/Society/Communication/Media/Writing/Book/Prose/Novel/Novelist/Scott,Walter.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Prose/Novel/Novelist/Scott,Walter.personal|Scott,Walter.personal]] 
 
-### #is_/same_as :: [Scott,Walter.secret](/_secret/Society/Communication/Media/Writing/Book/Prose/Novel/Novelist/Scott,Walter.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Prose/Novel/Novelist/Scott,Walter.secret|Scott,Walter.secret]] 
 

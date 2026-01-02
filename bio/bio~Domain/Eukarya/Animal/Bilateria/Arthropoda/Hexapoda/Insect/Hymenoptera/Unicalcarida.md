@@ -15,17 +15,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Unicalcarida](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Hymenoptera/Unicalcarida.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Hymenoptera/Unicalcarida|Unicalcarida]] 
 
-### #is_/same_as :: [Unicalcarida.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Hymenoptera/Unicalcarida.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Hymenoptera/Unicalcarida.public|Unicalcarida.public]] 
 
-### #is_/same_as :: [Unicalcarida.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Hymenoptera/Unicalcarida.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Hymenoptera/Unicalcarida.internal|Unicalcarida.internal]] 
 
-### #is_/same_as :: [Unicalcarida.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Hymenoptera/Unicalcarida.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Hymenoptera/Unicalcarida.protect|Unicalcarida.protect]] 
 
-### #is_/same_as :: [Unicalcarida.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Hymenoptera/Unicalcarida.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Hymenoptera/Unicalcarida.private|Unicalcarida.private]] 
 
-### #is_/same_as :: [Unicalcarida.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Hymenoptera/Unicalcarida.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Hymenoptera/Unicalcarida.personal|Unicalcarida.personal]] 
 
-### #is_/same_as :: [Unicalcarida.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Hymenoptera/Unicalcarida.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Hymenoptera/Unicalcarida.secret|Unicalcarida.secret]] 
 

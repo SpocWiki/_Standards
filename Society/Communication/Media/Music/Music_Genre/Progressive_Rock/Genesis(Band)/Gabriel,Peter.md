@@ -48,17 +48,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Gabriel,Peter](/_Standards/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Genesis(Band)/Gabriel,Peter.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Genesis(Band)/Gabriel,Peter|Gabriel,Peter]] 
 
-### #is_/same_as :: [Gabriel,Peter.public](/_public/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Genesis(Band)/Gabriel,Peter.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Genesis(Band)/Gabriel,Peter.public|Gabriel,Peter.public]] 
 
-### #is_/same_as :: [Gabriel,Peter.internal](/_internal/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Genesis(Band)/Gabriel,Peter.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Genesis(Band)/Gabriel,Peter.internal|Gabriel,Peter.internal]] 
 
-### #is_/same_as :: [Gabriel,Peter.protect](/_protect/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Genesis(Band)/Gabriel,Peter.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Genesis(Band)/Gabriel,Peter.protect|Gabriel,Peter.protect]] 
 
-### #is_/same_as :: [Gabriel,Peter.private](/_private/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Genesis(Band)/Gabriel,Peter.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Genesis(Band)/Gabriel,Peter.private|Gabriel,Peter.private]] 
 
-### #is_/same_as :: [Gabriel,Peter.personal](/_personal/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Genesis(Band)/Gabriel,Peter.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Genesis(Band)/Gabriel,Peter.personal|Gabriel,Peter.personal]] 
 
-### #is_/same_as :: [Gabriel,Peter.secret](/_secret/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Genesis(Band)/Gabriel,Peter.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Genesis(Band)/Gabriel,Peter.secret|Gabriel,Peter.secret]] 
 

@@ -133,17 +133,17 @@ topic_s_main_category: '[[_Standards/WikiData/WD~Q7158108,7158108]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [League_of_Nations](/_Standards/UN(United_Nations)/League_of_Nations.md) 
+### #is_/same_as :: [[/_Standards/UN(United_Nations)/League_of_Nations|League_of_Nations]] 
 
-### #is_/same_as :: [League_of_Nations.public](/_public/UN(United_Nations)/League_of_Nations.public.md) 
+### #is_/same_as :: [[/_public/UN(United_Nations)/League_of_Nations.public|League_of_Nations.public]] 
 
-### #is_/same_as :: [League_of_Nations.internal](/_internal/UN(United_Nations)/League_of_Nations.internal.md) 
+### #is_/same_as :: [[/_internal/UN(United_Nations)/League_of_Nations.internal|League_of_Nations.internal]] 
 
-### #is_/same_as :: [League_of_Nations.protect](/_protect/UN(United_Nations)/League_of_Nations.protect.md) 
+### #is_/same_as :: [[/_protect/UN(United_Nations)/League_of_Nations.protect|League_of_Nations.protect]] 
 
-### #is_/same_as :: [League_of_Nations.private](/_private/UN(United_Nations)/League_of_Nations.private.md) 
+### #is_/same_as :: [[/_private/UN(United_Nations)/League_of_Nations.private|League_of_Nations.private]] 
 
-### #is_/same_as :: [League_of_Nations.personal](/_personal/UN(United_Nations)/League_of_Nations.personal.md) 
+### #is_/same_as :: [[/_personal/UN(United_Nations)/League_of_Nations.personal|League_of_Nations.personal]] 
 
-### #is_/same_as :: [League_of_Nations.secret](/_secret/UN(United_Nations)/League_of_Nations.secret.md)
+### #is_/same_as :: [[/_secret/UN(United_Nations)/League_of_Nations.secret|League_of_Nations.secret]] 
 

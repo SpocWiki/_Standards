@@ -28,17 +28,17 @@ main_subject:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Atomic_Models](/_Standards/Science/Physics/Atom/Atomic_Models.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Atom/Atomic_Models|Atomic_Models]] 
 
-### #is_/same_as :: [Atomic_Models.public](/_public/Science/Physics/Atom/Atomic_Models.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Atom/Atomic_Models.public|Atomic_Models.public]] 
 
-### #is_/same_as :: [Atomic_Models.internal](/_internal/Science/Physics/Atom/Atomic_Models.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Atom/Atomic_Models.internal|Atomic_Models.internal]] 
 
-### #is_/same_as :: [Atomic_Models.protect](/_protect/Science/Physics/Atom/Atomic_Models.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Atom/Atomic_Models.protect|Atomic_Models.protect]] 
 
-### #is_/same_as :: [Atomic_Models.private](/_private/Science/Physics/Atom/Atomic_Models.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Atom/Atomic_Models.private|Atomic_Models.private]] 
 
-### #is_/same_as :: [Atomic_Models.personal](/_personal/Science/Physics/Atom/Atomic_Models.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Atom/Atomic_Models.personal|Atomic_Models.personal]] 
 
-### #is_/same_as :: [Atomic_Models.secret](/_secret/Science/Physics/Atom/Atomic_Models.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Atom/Atomic_Models.secret|Atomic_Models.secret]] 
 

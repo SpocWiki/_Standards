@@ -163,17 +163,17 @@ title: Ὀδύσσεια
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Odyssey](/_Standards/Society/Communication/Media/Writing/Book/Literature/Greek_Literature/Odyssey.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Literature/Greek_Literature/Odyssey|Odyssey]] 
 
-### #is_/same_as :: [Odyssey.public](/_public/Society/Communication/Media/Writing/Book/Literature/Greek_Literature/Odyssey.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Literature/Greek_Literature/Odyssey.public|Odyssey.public]] 
 
-### #is_/same_as :: [Odyssey.internal](/_internal/Society/Communication/Media/Writing/Book/Literature/Greek_Literature/Odyssey.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Literature/Greek_Literature/Odyssey.internal|Odyssey.internal]] 
 
-### #is_/same_as :: [Odyssey.protect](/_protect/Society/Communication/Media/Writing/Book/Literature/Greek_Literature/Odyssey.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Literature/Greek_Literature/Odyssey.protect|Odyssey.protect]] 
 
-### #is_/same_as :: [Odyssey.private](/_private/Society/Communication/Media/Writing/Book/Literature/Greek_Literature/Odyssey.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Literature/Greek_Literature/Odyssey.private|Odyssey.private]] 
 
-### #is_/same_as :: [Odyssey.personal](/_personal/Society/Communication/Media/Writing/Book/Literature/Greek_Literature/Odyssey.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Literature/Greek_Literature/Odyssey.personal|Odyssey.personal]] 
 
-### #is_/same_as :: [Odyssey.secret](/_secret/Society/Communication/Media/Writing/Book/Literature/Greek_Literature/Odyssey.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Literature/Greek_Literature/Odyssey.secret|Odyssey.secret]] 
 

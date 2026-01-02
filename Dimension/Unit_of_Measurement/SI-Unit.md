@@ -105,17 +105,17 @@ type: folder_brief_live
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [SI-Unit](/_Standards/Dimension/Unit_of_Measurement/SI-Unit.md) 
+### #is_/same_as :: [[/_Standards/Dimension/Unit_of_Measurement/SI-Unit|SI-Unit]] 
 
-### #is_/same_as :: [SI-Unit.public](/_public/Dimension/Unit_of_Measurement/SI-Unit.public.md) 
+### #is_/same_as :: [[/_public/Dimension/Unit_of_Measurement/SI-Unit.public|SI-Unit.public]] 
 
-### #is_/same_as :: [SI-Unit.internal](/_internal/Dimension/Unit_of_Measurement/SI-Unit.internal.md) 
+### #is_/same_as :: [[/_internal/Dimension/Unit_of_Measurement/SI-Unit.internal|SI-Unit.internal]] 
 
-### #is_/same_as :: [SI-Unit.protect](/_protect/Dimension/Unit_of_Measurement/SI-Unit.protect.md) 
+### #is_/same_as :: [[/_protect/Dimension/Unit_of_Measurement/SI-Unit.protect|SI-Unit.protect]] 
 
-### #is_/same_as :: [SI-Unit.private](/_private/Dimension/Unit_of_Measurement/SI-Unit.private.md) 
+### #is_/same_as :: [[/_private/Dimension/Unit_of_Measurement/SI-Unit.private|SI-Unit.private]] 
 
-### #is_/same_as :: [SI-Unit.personal](/_personal/Dimension/Unit_of_Measurement/SI-Unit.personal.md) 
+### #is_/same_as :: [[/_personal/Dimension/Unit_of_Measurement/SI-Unit.personal|SI-Unit.personal]] 
 
-### #is_/same_as :: [SI-Unit.secret](/_secret/Dimension/Unit_of_Measurement/SI-Unit.secret.md)
+### #is_/same_as :: [[/_secret/Dimension/Unit_of_Measurement/SI-Unit.secret|SI-Unit.secret]] 
 

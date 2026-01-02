@@ -46,17 +46,17 @@ publication_date: 2001-11-06T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [SOAD~Chop_Suey!](/_Standards/Society/Communication/Media/Music/Musician/Music~Band/System_of_a_Down/SOAD~Chop_Suey!.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Musician/Music~Band/System_of_a_Down/SOAD~Chop_Suey!|SOAD~Chop_Suey!]] 
 
-### #is_/same_as :: [SOAD~Chop_Suey!.public](/_public/Society/Communication/Media/Music/Musician/Music~Band/System_of_a_Down/SOAD~Chop_Suey!.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Musician/Music~Band/System_of_a_Down/SOAD~Chop_Suey!.public|SOAD~Chop_Suey!.public]] 
 
-### #is_/same_as :: [SOAD~Chop_Suey!.internal](/_internal/Society/Communication/Media/Music/Musician/Music~Band/System_of_a_Down/SOAD~Chop_Suey!.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Musician/Music~Band/System_of_a_Down/SOAD~Chop_Suey!.internal|SOAD~Chop_Suey!.internal]] 
 
-### #is_/same_as :: [SOAD~Chop_Suey!.protect](/_protect/Society/Communication/Media/Music/Musician/Music~Band/System_of_a_Down/SOAD~Chop_Suey!.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Musician/Music~Band/System_of_a_Down/SOAD~Chop_Suey!.protect|SOAD~Chop_Suey!.protect]] 
 
-### #is_/same_as :: [SOAD~Chop_Suey!.private](/_private/Society/Communication/Media/Music/Musician/Music~Band/System_of_a_Down/SOAD~Chop_Suey!.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Musician/Music~Band/System_of_a_Down/SOAD~Chop_Suey!.private|SOAD~Chop_Suey!.private]] 
 
-### #is_/same_as :: [SOAD~Chop_Suey!.personal](/_personal/Society/Communication/Media/Music/Musician/Music~Band/System_of_a_Down/SOAD~Chop_Suey!.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Musician/Music~Band/System_of_a_Down/SOAD~Chop_Suey!.personal|SOAD~Chop_Suey!.personal]] 
 
-### #is_/same_as :: [SOAD~Chop_Suey!.secret](/_secret/Society/Communication/Media/Music/Musician/Music~Band/System_of_a_Down/SOAD~Chop_Suey!.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Musician/Music~Band/System_of_a_Down/SOAD~Chop_Suey!.secret|SOAD~Chop_Suey!.secret]] 
 

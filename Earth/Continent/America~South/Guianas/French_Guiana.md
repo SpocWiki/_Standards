@@ -143,17 +143,17 @@ Capital :: [[French_Guiana/City/Cayenne=Franz.]]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [French_Guiana](/_Standards/Earth/Continent/America~South/Guianas/French_Guiana.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~South/Guianas/French_Guiana|French_Guiana]] 
 
-### #is_/same_as :: [French_Guiana.public](/_public/Earth/Continent/America~South/Guianas/French_Guiana.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~South/Guianas/French_Guiana.public|French_Guiana.public]] 
 
-### #is_/same_as :: [French_Guiana.internal](/_internal/Earth/Continent/America~South/Guianas/French_Guiana.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~South/Guianas/French_Guiana.internal|French_Guiana.internal]] 
 
-### #is_/same_as :: [French_Guiana.protect](/_protect/Earth/Continent/America~South/Guianas/French_Guiana.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~South/Guianas/French_Guiana.protect|French_Guiana.protect]] 
 
-### #is_/same_as :: [French_Guiana.private](/_private/Earth/Continent/America~South/Guianas/French_Guiana.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~South/Guianas/French_Guiana.private|French_Guiana.private]] 
 
-### #is_/same_as :: [French_Guiana.personal](/_personal/Earth/Continent/America~South/Guianas/French_Guiana.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~South/Guianas/French_Guiana.personal|French_Guiana.personal]] 
 
-### #is_/same_as :: [French_Guiana.secret](/_secret/Earth/Continent/America~South/Guianas/French_Guiana.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~South/Guianas/French_Guiana.secret|French_Guiana.secret]] 
 

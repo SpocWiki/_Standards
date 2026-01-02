@@ -46,17 +46,17 @@ said_to_be_the_same_as: "[[_Standards/WikiData/WD~Q61421325,61421325]]"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Precedent](/_Standards/Society/Law/Precedent.md) 
+### #is_/same_as :: [[/_Standards/Society/Law/Precedent|Precedent]] 
 
-### #is_/same_as :: [Precedent.public](/_public/Society/Law/Precedent.public.md) 
+### #is_/same_as :: [[/_public/Society/Law/Precedent.public|Precedent.public]] 
 
-### #is_/same_as :: [Precedent.internal](/_internal/Society/Law/Precedent.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Law/Precedent.internal|Precedent.internal]] 
 
-### #is_/same_as :: [Precedent.protect](/_protect/Society/Law/Precedent.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Law/Precedent.protect|Precedent.protect]] 
 
-### #is_/same_as :: [Precedent.private](/_private/Society/Law/Precedent.private.md) 
+### #is_/same_as :: [[/_private/Society/Law/Precedent.private|Precedent.private]] 
 
-### #is_/same_as :: [Precedent.personal](/_personal/Society/Law/Precedent.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Law/Precedent.personal|Precedent.personal]] 
 
-### #is_/same_as :: [Precedent.secret](/_secret/Society/Law/Precedent.secret.md)
+### #is_/same_as :: [[/_secret/Society/Law/Precedent.secret|Precedent.secret]] 
 

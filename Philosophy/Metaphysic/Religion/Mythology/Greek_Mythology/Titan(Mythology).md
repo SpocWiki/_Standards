@@ -60,17 +60,17 @@ female_form_of_label:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Titan(Mythology)](/_Standards/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Titan(Mythology).md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Titan(Mythology)|Titan(Mythology)]] 
 
-### #is_/same_as :: [Titan(Mythology).public](/_public/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Titan(Mythology).public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Titan(Mythology).public|Titan(Mythology).public]] 
 
-### #is_/same_as :: [Titan(Mythology).internal](/_internal/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Titan(Mythology).internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Titan(Mythology).internal|Titan(Mythology).internal]] 
 
-### #is_/same_as :: [Titan(Mythology).protect](/_protect/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Titan(Mythology).protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Titan(Mythology).protect|Titan(Mythology).protect]] 
 
-### #is_/same_as :: [Titan(Mythology).private](/_private/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Titan(Mythology).private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Titan(Mythology).private|Titan(Mythology).private]] 
 
-### #is_/same_as :: [Titan(Mythology).personal](/_personal/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Titan(Mythology).personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Titan(Mythology).personal|Titan(Mythology).personal]] 
 
-### #is_/same_as :: [Titan(Mythology).secret](/_secret/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Titan(Mythology).secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Titan(Mythology).secret|Titan(Mythology).secret]] 
 

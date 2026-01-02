@@ -56,17 +56,17 @@ A mountain, like Mount Whitney or Mount Everest.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Mountain](/_Standards/Earth/Geology/Landform/Mountain.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geology/Landform/Mountain|Mountain]] 
 
-### #is_/same_as :: [Mountain.public](/_public/Earth/Geology/Landform/Mountain.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geology/Landform/Mountain.public|Mountain.public]] 
 
-### #is_/same_as :: [Mountain.internal](/_internal/Earth/Geology/Landform/Mountain.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geology/Landform/Mountain.internal|Mountain.internal]] 
 
-### #is_/same_as :: [Mountain.protect](/_protect/Earth/Geology/Landform/Mountain.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geology/Landform/Mountain.protect|Mountain.protect]] 
 
-### #is_/same_as :: [Mountain.private](/_private/Earth/Geology/Landform/Mountain.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geology/Landform/Mountain.private|Mountain.private]] 
 
-### #is_/same_as :: [Mountain.personal](/_personal/Earth/Geology/Landform/Mountain.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geology/Landform/Mountain.personal|Mountain.personal]] 
 
-### #is_/same_as :: [Mountain.secret](/_secret/Earth/Geology/Landform/Mountain.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geology/Landform/Mountain.secret|Mountain.secret]] 
 

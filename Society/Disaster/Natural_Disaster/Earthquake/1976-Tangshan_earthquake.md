@@ -45,17 +45,17 @@ Wolfram_Language_entity_code: Entity["HistoricalEvent", "TangshanEarthquake1976"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [1976-Tangshan_earthquake](/_Standards/Society/Disaster/Natural_Disaster/Earthquake/1976-Tangshan_earthquake.md) 
+### #is_/same_as :: [[/_Standards/Society/Disaster/Natural_Disaster/Earthquake/1976-Tangshan_earthquake|1976-Tangshan_earthquake]] 
 
-### #is_/same_as :: [1976-Tangshan_earthquake.public](/_public/Society/Disaster/Natural_Disaster/Earthquake/1976-Tangshan_earthquake.public.md) 
+### #is_/same_as :: [[/_public/Society/Disaster/Natural_Disaster/Earthquake/1976-Tangshan_earthquake.public|1976-Tangshan_earthquake.public]] 
 
-### #is_/same_as :: [1976-Tangshan_earthquake.internal](/_internal/Society/Disaster/Natural_Disaster/Earthquake/1976-Tangshan_earthquake.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Disaster/Natural_Disaster/Earthquake/1976-Tangshan_earthquake.internal|1976-Tangshan_earthquake.internal]] 
 
-### #is_/same_as :: [1976-Tangshan_earthquake.protect](/_protect/Society/Disaster/Natural_Disaster/Earthquake/1976-Tangshan_earthquake.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Disaster/Natural_Disaster/Earthquake/1976-Tangshan_earthquake.protect|1976-Tangshan_earthquake.protect]] 
 
-### #is_/same_as :: [1976-Tangshan_earthquake.private](/_private/Society/Disaster/Natural_Disaster/Earthquake/1976-Tangshan_earthquake.private.md) 
+### #is_/same_as :: [[/_private/Society/Disaster/Natural_Disaster/Earthquake/1976-Tangshan_earthquake.private|1976-Tangshan_earthquake.private]] 
 
-### #is_/same_as :: [1976-Tangshan_earthquake.personal](/_personal/Society/Disaster/Natural_Disaster/Earthquake/1976-Tangshan_earthquake.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Disaster/Natural_Disaster/Earthquake/1976-Tangshan_earthquake.personal|1976-Tangshan_earthquake.personal]] 
 
-### #is_/same_as :: [1976-Tangshan_earthquake.secret](/_secret/Society/Disaster/Natural_Disaster/Earthquake/1976-Tangshan_earthquake.secret.md)
+### #is_/same_as :: [[/_secret/Society/Disaster/Natural_Disaster/Earthquake/1976-Tangshan_earthquake.secret|1976-Tangshan_earthquake.secret]] 
 

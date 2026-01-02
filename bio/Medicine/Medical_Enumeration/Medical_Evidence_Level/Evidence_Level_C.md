@@ -42,17 +42,17 @@ Only consensus opinion of experts, case studies, or standard-of-care.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Evidence_Level_C](/_Standards/bio/Medicine/Medical_Enumeration/Medical_Evidence_Level/Evidence_Level_C.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Enumeration/Medical_Evidence_Level/Evidence_Level_C|Evidence_Level_C]] 
 
-### #is_/same_as :: [Evidence_Level_C.public](/_public/bio/Medicine/Medical_Enumeration/Medical_Evidence_Level/Evidence_Level_C.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Enumeration/Medical_Evidence_Level/Evidence_Level_C.public|Evidence_Level_C.public]] 
 
-### #is_/same_as :: [Evidence_Level_C.internal](/_internal/bio/Medicine/Medical_Enumeration/Medical_Evidence_Level/Evidence_Level_C.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Enumeration/Medical_Evidence_Level/Evidence_Level_C.internal|Evidence_Level_C.internal]] 
 
-### #is_/same_as :: [Evidence_Level_C.protect](/_protect/bio/Medicine/Medical_Enumeration/Medical_Evidence_Level/Evidence_Level_C.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Enumeration/Medical_Evidence_Level/Evidence_Level_C.protect|Evidence_Level_C.protect]] 
 
-### #is_/same_as :: [Evidence_Level_C.private](/_private/bio/Medicine/Medical_Enumeration/Medical_Evidence_Level/Evidence_Level_C.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Enumeration/Medical_Evidence_Level/Evidence_Level_C.private|Evidence_Level_C.private]] 
 
-### #is_/same_as :: [Evidence_Level_C.personal](/_personal/bio/Medicine/Medical_Enumeration/Medical_Evidence_Level/Evidence_Level_C.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Enumeration/Medical_Evidence_Level/Evidence_Level_C.personal|Evidence_Level_C.personal]] 
 
-### #is_/same_as :: [Evidence_Level_C.secret](/_secret/bio/Medicine/Medical_Enumeration/Medical_Evidence_Level/Evidence_Level_C.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Enumeration/Medical_Evidence_Level/Evidence_Level_C.secret|Evidence_Level_C.secret]] 
 

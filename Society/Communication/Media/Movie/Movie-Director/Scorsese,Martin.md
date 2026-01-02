@@ -244,17 +244,17 @@ birth_name: Martin Charles Scorsese
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Scorsese,Martin](/_Standards/Society/Communication/Media/Movie/Movie-Director/Scorsese,Martin.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Director/Scorsese,Martin|Scorsese,Martin]] 
 
-### #is_/same_as :: [Scorsese,Martin.public](/_public/Society/Communication/Media/Movie/Movie-Director/Scorsese,Martin.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Director/Scorsese,Martin.public|Scorsese,Martin.public]] 
 
-### #is_/same_as :: [Scorsese,Martin.internal](/_internal/Society/Communication/Media/Movie/Movie-Director/Scorsese,Martin.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Director/Scorsese,Martin.internal|Scorsese,Martin.internal]] 
 
-### #is_/same_as :: [Scorsese,Martin.protect](/_protect/Society/Communication/Media/Movie/Movie-Director/Scorsese,Martin.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Director/Scorsese,Martin.protect|Scorsese,Martin.protect]] 
 
-### #is_/same_as :: [Scorsese,Martin.private](/_private/Society/Communication/Media/Movie/Movie-Director/Scorsese,Martin.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Director/Scorsese,Martin.private|Scorsese,Martin.private]] 
 
-### #is_/same_as :: [Scorsese,Martin.personal](/_personal/Society/Communication/Media/Movie/Movie-Director/Scorsese,Martin.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Director/Scorsese,Martin.personal|Scorsese,Martin.personal]] 
 
-### #is_/same_as :: [Scorsese,Martin.secret](/_secret/Society/Communication/Media/Movie/Movie-Director/Scorsese,Martin.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Director/Scorsese,Martin.secret|Scorsese,Martin.secret]] 
 

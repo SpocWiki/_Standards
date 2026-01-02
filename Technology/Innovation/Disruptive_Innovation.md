@@ -34,17 +34,17 @@ time_of_discovery_or_invention: 1995-01-01T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Disruptive_Innovation](/_Standards/Technology/Innovation/Disruptive_Innovation.md) 
+### #is_/same_as :: [[/_Standards/Technology/Innovation/Disruptive_Innovation|Disruptive_Innovation]] 
 
-### #is_/same_as :: [Disruptive_Innovation.public](/_public/Technology/Innovation/Disruptive_Innovation.public.md) 
+### #is_/same_as :: [[/_public/Technology/Innovation/Disruptive_Innovation.public|Disruptive_Innovation.public]] 
 
-### #is_/same_as :: [Disruptive_Innovation.internal](/_internal/Technology/Innovation/Disruptive_Innovation.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Innovation/Disruptive_Innovation.internal|Disruptive_Innovation.internal]] 
 
-### #is_/same_as :: [Disruptive_Innovation.protect](/_protect/Technology/Innovation/Disruptive_Innovation.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Innovation/Disruptive_Innovation.protect|Disruptive_Innovation.protect]] 
 
-### #is_/same_as :: [Disruptive_Innovation.private](/_private/Technology/Innovation/Disruptive_Innovation.private.md) 
+### #is_/same_as :: [[/_private/Technology/Innovation/Disruptive_Innovation.private|Disruptive_Innovation.private]] 
 
-### #is_/same_as :: [Disruptive_Innovation.personal](/_personal/Technology/Innovation/Disruptive_Innovation.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Innovation/Disruptive_Innovation.personal|Disruptive_Innovation.personal]] 
 
-### #is_/same_as :: [Disruptive_Innovation.secret](/_secret/Technology/Innovation/Disruptive_Innovation.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Innovation/Disruptive_Innovation.secret|Disruptive_Innovation.secret]] 
 

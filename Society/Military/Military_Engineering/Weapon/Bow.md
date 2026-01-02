@@ -52,17 +52,17 @@ Commons_category: Bows (archery)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bow](/_Standards/Society/Military/Military_Engineering/Weapon/Bow.md) 
+### #is_/same_as :: [[/_Standards/Society/Military/Military_Engineering/Weapon/Bow|Bow]] 
 
-### #is_/same_as :: [Bow.public](/_public/Society/Military/Military_Engineering/Weapon/Bow.public.md) 
+### #is_/same_as :: [[/_public/Society/Military/Military_Engineering/Weapon/Bow.public|Bow.public]] 
 
-### #is_/same_as :: [Bow.internal](/_internal/Society/Military/Military_Engineering/Weapon/Bow.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Military/Military_Engineering/Weapon/Bow.internal|Bow.internal]] 
 
-### #is_/same_as :: [Bow.protect](/_protect/Society/Military/Military_Engineering/Weapon/Bow.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Military/Military_Engineering/Weapon/Bow.protect|Bow.protect]] 
 
-### #is_/same_as :: [Bow.private](/_private/Society/Military/Military_Engineering/Weapon/Bow.private.md) 
+### #is_/same_as :: [[/_private/Society/Military/Military_Engineering/Weapon/Bow.private|Bow.private]] 
 
-### #is_/same_as :: [Bow.personal](/_personal/Society/Military/Military_Engineering/Weapon/Bow.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Military/Military_Engineering/Weapon/Bow.personal|Bow.personal]] 
 
-### #is_/same_as :: [Bow.secret](/_secret/Society/Military/Military_Engineering/Weapon/Bow.secret.md)
+### #is_/same_as :: [[/_secret/Society/Military/Military_Engineering/Weapon/Bow.secret|Bow.secret]] 
 

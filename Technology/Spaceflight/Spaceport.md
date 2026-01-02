@@ -45,17 +45,17 @@ OpenStreetMap_tag: aeroway=spaceport
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Spaceport](/_Standards/Technology/Spaceflight/Spaceport.md) 
+### #is_/same_as :: [[/_Standards/Technology/Spaceflight/Spaceport|Spaceport]] 
 
-### #is_/same_as :: [Spaceport.public](/_public/Technology/Spaceflight/Spaceport.public.md) 
+### #is_/same_as :: [[/_public/Technology/Spaceflight/Spaceport.public|Spaceport.public]] 
 
-### #is_/same_as :: [Spaceport.internal](/_internal/Technology/Spaceflight/Spaceport.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Spaceflight/Spaceport.internal|Spaceport.internal]] 
 
-### #is_/same_as :: [Spaceport.protect](/_protect/Technology/Spaceflight/Spaceport.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Spaceflight/Spaceport.protect|Spaceport.protect]] 
 
-### #is_/same_as :: [Spaceport.private](/_private/Technology/Spaceflight/Spaceport.private.md) 
+### #is_/same_as :: [[/_private/Technology/Spaceflight/Spaceport.private|Spaceport.private]] 
 
-### #is_/same_as :: [Spaceport.personal](/_personal/Technology/Spaceflight/Spaceport.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Spaceflight/Spaceport.personal|Spaceport.personal]] 
 
-### #is_/same_as :: [Spaceport.secret](/_secret/Technology/Spaceflight/Spaceport.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Spaceflight/Spaceport.secret|Spaceport.secret]] 
 

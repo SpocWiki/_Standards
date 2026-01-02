@@ -87,17 +87,17 @@ topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Blues,6557994]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Blues](/_Standards/Society/Communication/Media/Music/Music_Genre/Blues.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Music_Genre/Blues|Blues]] 
 
-### #is_/same_as :: [Blues.public](/_public/Society/Communication/Media/Music/Music_Genre/Blues.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Music_Genre/Blues.public|Blues.public]] 
 
-### #is_/same_as :: [Blues.internal](/_internal/Society/Communication/Media/Music/Music_Genre/Blues.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Music_Genre/Blues.internal|Blues.internal]] 
 
-### #is_/same_as :: [Blues.protect](/_protect/Society/Communication/Media/Music/Music_Genre/Blues.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Music_Genre/Blues.protect|Blues.protect]] 
 
-### #is_/same_as :: [Blues.private](/_private/Society/Communication/Media/Music/Music_Genre/Blues.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Music_Genre/Blues.private|Blues.private]] 
 
-### #is_/same_as :: [Blues.personal](/_personal/Society/Communication/Media/Music/Music_Genre/Blues.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Music_Genre/Blues.personal|Blues.personal]] 
 
-### #is_/same_as :: [Blues.secret](/_secret/Society/Communication/Media/Music/Music_Genre/Blues.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Music_Genre/Blues.secret|Blues.secret]] 
 

@@ -58,17 +58,17 @@ IMDb_keyword: organized-crime
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Organized_Crime](/_Standards/Society/Law/Criminal_Law/Crime/Organized_Crime.md) 
+### #is_/same_as :: [[/_Standards/Society/Law/Criminal_Law/Crime/Organized_Crime|Organized_Crime]] 
 
-### #is_/same_as :: [Organized_Crime.public](/_public/Society/Law/Criminal_Law/Crime/Organized_Crime.public.md) 
+### #is_/same_as :: [[/_public/Society/Law/Criminal_Law/Crime/Organized_Crime.public|Organized_Crime.public]] 
 
-### #is_/same_as :: [Organized_Crime.internal](/_internal/Society/Law/Criminal_Law/Crime/Organized_Crime.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Law/Criminal_Law/Crime/Organized_Crime.internal|Organized_Crime.internal]] 
 
-### #is_/same_as :: [Organized_Crime.protect](/_protect/Society/Law/Criminal_Law/Crime/Organized_Crime.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Law/Criminal_Law/Crime/Organized_Crime.protect|Organized_Crime.protect]] 
 
-### #is_/same_as :: [Organized_Crime.private](/_private/Society/Law/Criminal_Law/Crime/Organized_Crime.private.md) 
+### #is_/same_as :: [[/_private/Society/Law/Criminal_Law/Crime/Organized_Crime.private|Organized_Crime.private]] 
 
-### #is_/same_as :: [Organized_Crime.personal](/_personal/Society/Law/Criminal_Law/Crime/Organized_Crime.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Law/Criminal_Law/Crime/Organized_Crime.personal|Organized_Crime.personal]] 
 
-### #is_/same_as :: [Organized_Crime.secret](/_secret/Society/Law/Criminal_Law/Crime/Organized_Crime.secret.md)
+### #is_/same_as :: [[/_secret/Society/Law/Criminal_Law/Crime/Organized_Crime.secret|Organized_Crime.secret]] 
 

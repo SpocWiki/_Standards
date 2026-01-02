@@ -168,7 +168,7 @@ exploit the new food. Should all food become depleted, sporulation is
 triggered. Although the fungal filaments and spores are microscopic, the
 colony can be very large with individuals of some species rivaling the
 mass of the largest animals or plants.
-![hyphae](Fungi/2.gif))
+![hyphae](Fungi/2.gif) 
 
 Figure 1: Hyphae of a wood-decaying fungus found growing on the
 underside of a fallen log. The metabolically active hyphae have secreted
@@ -212,13 +212,13 @@ pneumonia that affects individuals with supressed immune systems),
 Coccidioides (valley fever), Ajellomyces (blastomycosis and
 histoplasmosis), and Cryptococcus (cryptococcosis) (Kwon-Chung and
 Bennett, 1992).
-![Rhizopogon rubescens](Fungi/3.gif))
+![Rhizopogon rubescens](Fungi/3.gif) 
 
 Figure 2: The fluffy white hyphae of the mycorrhizal fungus Rhizopogon
 rubescens has enveloped the smaller roots of a Virginia pine seedling.
 Note that some of the mycelium extends out into the surrounding
 environment. Copyright © J. B. Anderson 1996.
-![Entomophthora](Fungi/4.gif))
+![Entomophthora](Fungi/4.gif) 
 
 Figure 3: Entomophthora, \"destroyer of insects\", is the agent of a
 fungual infection that kills flies. After their death the fungal growth
@@ -271,13 +271,13 @@ envelope during cell division. The characteristic wall components are
 chitin (beta-1,4-linked homopolymers of N-acetylglucosamine in
 microcrystalline state) and glucans primarily alpha-glucans (alpha-1,3-
 and alpha-1,6- linkages) (Griffin, 1994).
-![Aspergillus flavus](Fungi/5.gif))
+![Aspergillus flavus](Fungi/5.gif) 
 
 Figure 4: Portion of a hypha of a zygomycete stained with a blue dye to
 show the many nuclei present. Many other fungi have septations that
 devide the hyphae into compartments that usually contain one to several
 nuclei per compartment. Copyright © M. Blackwell 1996.
-![zygomycete](Fungi/6.gif))
+![zygomycete](Fungi/6.gif) 
 
 Figure 5: Transmission electron micrograph showing duplicated spindle
 pole body of a prophase I meiotic nucleus of a basidiomycete
@@ -474,20 +474,20 @@ Auwera et al., 1995).
 ## Title Illustrations
 
 -------------------------------------------------- 
-![Chytridium growing on a single pine pollen grain. Successive photos show zoospore release from the sporangium, and the arrow points to a flagellum.](Fungi/Chytridium.gif))
+![Chytridium growing on a single pine pollen grain. Successive photos show zoospore release from the sporangium, and the arrow points to a flagellum.](Fungi/Chytridium.gif) 
   Scientific Name ::  Chytridium (Chytridiomycota)
   Comments          Individual growing on a single pine pollen grain. Successive photos show zoospore release from the sporangium, and the arrow points to a flagellum.
   Copyright ::         © 1996 H. Whisler, M. Fuller
 
 -------------------------------------------------- 
-![Black sporangium atop swollen Pilobolus sporangiophore](Fungi/Pilobolus_crystallinus.gif))
+![Black sporangium atop swollen Pilobolus sporangiophore](Fungi/Pilobolus_crystallinus.gif) 
   Scientific Name ::     Pilobolus crystallinus (Mucoromycotina)
   Comments             Black sporangium atop swollen sporangiophore. Shortly, the swollen subsporangial vesicle will burst to send the sporangium flying. Herbivores eat the sporangium, and the enclosed mitospores germinate in the dung. The bright yellow carotenoid pigment enables the sporangium to orient to light (phototropism). If you look closely, you can see masses of nematodes on the vesicle; probably herbivore pathogens hoping to hitch a ride.
   Specimen Condition   Live Specimen
   Copyright ::            © 1996 [Meredith Blackwell](http://www.biology.lsu.edu/faculty_listings/fac_pages/mblackwell.html) 
   
 --------------------------------------------------------------------------------------------------------------------------------------------- 
-![Massed fruiting bodies of the chicken-of-the-woods](Fungi/Laetiporus_sulphureus.gif))
+![Massed fruiting bodies of the chicken-of-the-woods](Fungi/Laetiporus_sulphureus.gif) 
   Scientific Name ::     Laetiporus sulphureus (Basidiomycota, Agaricomycetes, Polyporales)
   Comments             Massed fruiting bodies of the chicken-of-the-woods. The tiny tubular filaments (hyphae) that make the body of this fungus (mycelium) are growing in the old, dead wood of a large cherry tree. Laetiporus is not a parasite, but the decay may weaken the tree so much that wind or ice storms can topple it.
   Specimen Condition   Live Specimen
@@ -503,17 +503,17 @@ Auwera et al., 1995).
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Fungi](/_Standards/bio/bio~Domain/Eukarya/Fungi.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Fungi|Fungi]] 
 
-### #is_/same_as :: [Fungi.public](/_public/bio/bio~Domain/Eukarya/Fungi.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Fungi.public|Fungi.public]] 
 
-### #is_/same_as :: [Fungi.internal](/_internal/bio/bio~Domain/Eukarya/Fungi.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Fungi.internal|Fungi.internal]] 
 
-### #is_/same_as :: [Fungi.protect](/_protect/bio/bio~Domain/Eukarya/Fungi.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Fungi.protect|Fungi.protect]] 
 
-### #is_/same_as :: [Fungi.private](/_private/bio/bio~Domain/Eukarya/Fungi.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Fungi.private|Fungi.private]] 
 
-### #is_/same_as :: [Fungi.personal](/_personal/bio/bio~Domain/Eukarya/Fungi.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Fungi.personal|Fungi.personal]] 
 
-### #is_/same_as :: [Fungi.secret](/_secret/bio/bio~Domain/Eukarya/Fungi.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Fungi.secret|Fungi.secret]] 
 

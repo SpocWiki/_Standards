@@ -40,17 +40,17 @@ Physical activity that is engaged to help maintain posture and balance.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Balance](/_Standards/schema-org/Enumeration/Physical_Activity_Category/Balance.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Physical_Activity_Category/Balance|Balance]] 
 
-### #is_/same_as :: [Balance.public](/_public/schema-org/Enumeration/Physical_Activity_Category/Balance.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Physical_Activity_Category/Balance.public|Balance.public]] 
 
-### #is_/same_as :: [Balance.internal](/_internal/schema-org/Enumeration/Physical_Activity_Category/Balance.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Physical_Activity_Category/Balance.internal|Balance.internal]] 
 
-### #is_/same_as :: [Balance.protect](/_protect/schema-org/Enumeration/Physical_Activity_Category/Balance.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Physical_Activity_Category/Balance.protect|Balance.protect]] 
 
-### #is_/same_as :: [Balance.private](/_private/schema-org/Enumeration/Physical_Activity_Category/Balance.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Physical_Activity_Category/Balance.private|Balance.private]] 
 
-### #is_/same_as :: [Balance.personal](/_personal/schema-org/Enumeration/Physical_Activity_Category/Balance.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Physical_Activity_Category/Balance.personal|Balance.personal]] 
 
-### #is_/same_as :: [Balance.secret](/_secret/schema-org/Enumeration/Physical_Activity_Category/Balance.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Physical_Activity_Category/Balance.secret|Balance.secret]] 
 

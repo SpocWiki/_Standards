@@ -101,17 +101,17 @@ Stadtwiki_Dresden_article: Siebenjähriger_Krieg
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [1756-Seven_Years_War+1763](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1700/1756-Seven_Years_War+1763.md) 
+### #is_/same_as :: [[/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1700/1756-Seven_Years_War+1763|1756-Seven_Years_War+1763]] 
 
-### #is_/same_as :: [1756-Seven_Years_War+1763.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1700/1756-Seven_Years_War+1763.public.md) 
+### #is_/same_as :: [[/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1700/1756-Seven_Years_War+1763.public|1756-Seven_Years_War+1763.public]] 
 
-### #is_/same_as :: [1756-Seven_Years_War+1763.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1700/1756-Seven_Years_War+1763.internal.md) 
+### #is_/same_as :: [[/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1700/1756-Seven_Years_War+1763.internal|1756-Seven_Years_War+1763.internal]] 
 
-### #is_/same_as :: [1756-Seven_Years_War+1763.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1700/1756-Seven_Years_War+1763.protect.md) 
+### #is_/same_as :: [[/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1700/1756-Seven_Years_War+1763.protect|1756-Seven_Years_War+1763.protect]] 
 
-### #is_/same_as :: [1756-Seven_Years_War+1763.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1700/1756-Seven_Years_War+1763.private.md) 
+### #is_/same_as :: [[/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1700/1756-Seven_Years_War+1763.private|1756-Seven_Years_War+1763.private]] 
 
-### #is_/same_as :: [1756-Seven_Years_War+1763.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1700/1756-Seven_Years_War+1763.personal.md) 
+### #is_/same_as :: [[/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1700/1756-Seven_Years_War+1763.personal|1756-Seven_Years_War+1763.personal]] 
 
-### #is_/same_as :: [1756-Seven_Years_War+1763.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1700/1756-Seven_Years_War+1763.secret.md)
+### #is_/same_as :: [[/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1700/1756-Seven_Years_War+1763.secret|1756-Seven_Years_War+1763.secret]] 
 

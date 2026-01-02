@@ -41,17 +41,17 @@ functioning as the coordinating center of sensation and intellectual and nervous
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [brain_structure](/_Standards/bio/Medicine/Anatomy/Nervous_System/brain_structure.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Anatomy/Nervous_System/Brain/Brain_Structure|Brain_Structure]] 
 
-### #is_/same_as :: [brain_structure.public](/_public/bio/Medicine/Anatomy/Nervous_System/brain_structure.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Anatomy/Nervous_System/Brain/Brain_Structure.public|Brain_Structure.public]] 
 
-### #is_/same_as :: [brain_structure.internal](/_internal/bio/Medicine/Anatomy/Nervous_System/brain_structure.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Anatomy/Nervous_System/Brain/Brain_Structure.internal|Brain_Structure.internal]] 
 
-### #is_/same_as :: [brain_structure.protect](/_protect/bio/Medicine/Anatomy/Nervous_System/brain_structure.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Anatomy/Nervous_System/Brain/Brain_Structure.protect|Brain_Structure.protect]] 
 
-### #is_/same_as :: [brain_structure.private](/_private/bio/Medicine/Anatomy/Nervous_System/brain_structure.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Anatomy/Nervous_System/Brain/Brain_Structure.private|Brain_Structure.private]] 
 
-### #is_/same_as :: [brain_structure.personal](/_personal/bio/Medicine/Anatomy/Nervous_System/brain_structure.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Anatomy/Nervous_System/Brain/Brain_Structure.personal|Brain_Structure.personal]] 
 
-### #is_/same_as :: [brain_structure.secret](/_secret/bio/Medicine/Anatomy/Nervous_System/brain_structure.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Anatomy/Nervous_System/Brain/Brain_Structure.secret|Brain_Structure.secret]] 
 

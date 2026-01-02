@@ -109,17 +109,17 @@ name_in_native_language: Περικλῆς
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Pericles](/_Standards/Philosophy/Philosopher/Ancient_Philosopher/Pericles.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Philosopher/Ancient_Philosopher/Pericles|Pericles]] 
 
-### #is_/same_as :: [Pericles.public](/_public/Philosophy/Philosopher/Ancient_Philosopher/Pericles.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Philosopher/Ancient_Philosopher/Pericles.public|Pericles.public]] 
 
-### #is_/same_as :: [Pericles.internal](/_internal/Philosophy/Philosopher/Ancient_Philosopher/Pericles.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Philosopher/Ancient_Philosopher/Pericles.internal|Pericles.internal]] 
 
-### #is_/same_as :: [Pericles.protect](/_protect/Philosophy/Philosopher/Ancient_Philosopher/Pericles.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Philosopher/Ancient_Philosopher/Pericles.protect|Pericles.protect]] 
 
-### #is_/same_as :: [Pericles.private](/_private/Philosophy/Philosopher/Ancient_Philosopher/Pericles.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Philosopher/Ancient_Philosopher/Pericles.private|Pericles.private]] 
 
-### #is_/same_as :: [Pericles.personal](/_personal/Philosophy/Philosopher/Ancient_Philosopher/Pericles.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Philosopher/Ancient_Philosopher/Pericles.personal|Pericles.personal]] 
 
-### #is_/same_as :: [Pericles.secret](/_secret/Philosophy/Philosopher/Ancient_Philosopher/Pericles.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Philosopher/Ancient_Philosopher/Pericles.secret|Pericles.secret]] 
 

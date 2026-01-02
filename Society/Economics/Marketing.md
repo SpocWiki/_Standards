@@ -73,17 +73,17 @@ MeSH_tree_code: J01.219.687
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Marketing](/_Standards/Society/Economics/Marketing.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Marketing|Marketing]] 
 
-### #is_/same_as :: [Marketing.public](/_public/Society/Economics/Marketing.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Marketing.public|Marketing.public]] 
 
-### #is_/same_as :: [Marketing.internal](/_internal/Society/Economics/Marketing.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Marketing.internal|Marketing.internal]] 
 
-### #is_/same_as :: [Marketing.protect](/_protect/Society/Economics/Marketing.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Marketing.protect|Marketing.protect]] 
 
-### #is_/same_as :: [Marketing.private](/_private/Society/Economics/Marketing.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Marketing.private|Marketing.private]] 
 
-### #is_/same_as :: [Marketing.personal](/_personal/Society/Economics/Marketing.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Marketing.personal|Marketing.personal]] 
 
-### #is_/same_as :: [Marketing.secret](/_secret/Society/Economics/Marketing.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Marketing.secret|Marketing.secret]] 
 

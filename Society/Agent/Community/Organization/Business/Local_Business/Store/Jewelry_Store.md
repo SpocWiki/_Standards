@@ -41,17 +41,17 @@ A jewelry store.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Jewelry_Store](/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Store/Jewelry_Store.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Store/Jewelry_Store|Jewelry_Store]] 
 
-### #is_/same_as :: [Jewelry_Store.public](/_public/Society/Agent/Community/Organization/Business/Local_Business/Store/Jewelry_Store.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Business/Local_Business/Store/Jewelry_Store.public|Jewelry_Store.public]] 
 
-### #is_/same_as :: [Jewelry_Store.internal](/_internal/Society/Agent/Community/Organization/Business/Local_Business/Store/Jewelry_Store.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Business/Local_Business/Store/Jewelry_Store.internal|Jewelry_Store.internal]] 
 
-### #is_/same_as :: [Jewelry_Store.protect](/_protect/Society/Agent/Community/Organization/Business/Local_Business/Store/Jewelry_Store.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Business/Local_Business/Store/Jewelry_Store.protect|Jewelry_Store.protect]] 
 
-### #is_/same_as :: [Jewelry_Store.private](/_private/Society/Agent/Community/Organization/Business/Local_Business/Store/Jewelry_Store.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Business/Local_Business/Store/Jewelry_Store.private|Jewelry_Store.private]] 
 
-### #is_/same_as :: [Jewelry_Store.personal](/_personal/Society/Agent/Community/Organization/Business/Local_Business/Store/Jewelry_Store.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Business/Local_Business/Store/Jewelry_Store.personal|Jewelry_Store.personal]] 
 
-### #is_/same_as :: [Jewelry_Store.secret](/_secret/Society/Agent/Community/Organization/Business/Local_Business/Store/Jewelry_Store.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Business/Local_Business/Store/Jewelry_Store.secret|Jewelry_Store.secret]] 
 

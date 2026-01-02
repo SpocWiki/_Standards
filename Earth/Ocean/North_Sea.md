@@ -220,17 +220,17 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [North_Sea](/_Standards/Earth/Ocean/North_Sea.md) 
+### #is_/same_as :: [[/_Standards/Earth/Ocean/North_Sea|North_Sea]] 
 
-### #is_/same_as :: [North_Sea.public](/_public/Earth/Ocean/North_Sea.public.md) 
+### #is_/same_as :: [[/_public/Earth/Ocean/North_Sea.public|North_Sea.public]] 
 
-### #is_/same_as :: [North_Sea.internal](/_internal/Earth/Ocean/North_Sea.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Ocean/North_Sea.internal|North_Sea.internal]] 
 
-### #is_/same_as :: [North_Sea.protect](/_protect/Earth/Ocean/North_Sea.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Ocean/North_Sea.protect|North_Sea.protect]] 
 
-### #is_/same_as :: [North_Sea.private](/_private/Earth/Ocean/North_Sea.private.md) 
+### #is_/same_as :: [[/_private/Earth/Ocean/North_Sea.private|North_Sea.private]] 
 
-### #is_/same_as :: [North_Sea.personal](/_personal/Earth/Ocean/North_Sea.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Ocean/North_Sea.personal|North_Sea.personal]] 
 
-### #is_/same_as :: [North_Sea.secret](/_secret/Earth/Ocean/North_Sea.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Ocean/North_Sea.secret|North_Sea.secret]] 
 

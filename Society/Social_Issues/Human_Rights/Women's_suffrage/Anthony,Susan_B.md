@@ -35,17 +35,17 @@ has_id_wikidata: Q192245
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Anthony,Susan_B.](/_Standards/Society/Social_Issues/Human_Rights/Women's_suffrage/Anthony,Susan_B..md) 
+### #is_/same_as :: [[/_Standards/Society/Social_Issues/Human_Rights/Women's_suffrage/Anthony,Susan_B|Anthony,Susan_B]] 
 
-### #is_/same_as :: [Anthony,Susan_B..public](/_public/Society/Social_Issues/Human_Rights/Women's_suffrage/Anthony,Susan_B..public.md) 
+### #is_/same_as :: [[/_public/Society/Social_Issues/Human_Rights/Women's_suffrage/Anthony,Susan_B.public|Anthony,Susan_B.public]] 
 
-### #is_/same_as :: [Anthony,Susan_B..internal](/_internal/Society/Social_Issues/Human_Rights/Women's_suffrage/Anthony,Susan_B..internal.md) 
+### #is_/same_as :: [[/_internal/Society/Social_Issues/Human_Rights/Women's_suffrage/Anthony,Susan_B.internal|Anthony,Susan_B.internal]] 
 
-### #is_/same_as :: [Anthony,Susan_B..protect](/_protect/Society/Social_Issues/Human_Rights/Women's_suffrage/Anthony,Susan_B..protect.md) 
+### #is_/same_as :: [[/_protect/Society/Social_Issues/Human_Rights/Women's_suffrage/Anthony,Susan_B.protect|Anthony,Susan_B.protect]] 
 
-### #is_/same_as :: [Anthony,Susan_B..private](/_private/Society/Social_Issues/Human_Rights/Women's_suffrage/Anthony,Susan_B..private.md) 
+### #is_/same_as :: [[/_private/Society/Social_Issues/Human_Rights/Women's_suffrage/Anthony,Susan_B.private|Anthony,Susan_B.private]] 
 
-### #is_/same_as :: [Anthony,Susan_B..personal](/_personal/Society/Social_Issues/Human_Rights/Women's_suffrage/Anthony,Susan_B..personal.md) 
+### #is_/same_as :: [[/_personal/Society/Social_Issues/Human_Rights/Women's_suffrage/Anthony,Susan_B.personal|Anthony,Susan_B.personal]] 
 
-### #is_/same_as :: [Anthony,Susan_B..secret](/_secret/Society/Social_Issues/Human_Rights/Women's_suffrage/Anthony,Susan_B..secret.md)
+### #is_/same_as :: [[/_secret/Society/Social_Issues/Human_Rights/Women's_suffrage/Anthony,Susan_B.secret|Anthony,Susan_B.secret]] 
 

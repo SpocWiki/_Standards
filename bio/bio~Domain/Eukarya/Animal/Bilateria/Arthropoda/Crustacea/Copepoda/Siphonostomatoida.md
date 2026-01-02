@@ -88,17 +88,17 @@ Scans courtesy of [Kurt Stüber\'s online library of historic and classical biol
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Siphonostomatoida](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Copepoda/Siphonostomatoida.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Copepoda/Siphonostomatoida|Siphonostomatoida]] 
 
-### #is_/same_as :: [Siphonostomatoida.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Copepoda/Siphonostomatoida.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Copepoda/Siphonostomatoida.public|Siphonostomatoida.public]] 
 
-### #is_/same_as :: [Siphonostomatoida.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Copepoda/Siphonostomatoida.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Copepoda/Siphonostomatoida.internal|Siphonostomatoida.internal]] 
 
-### #is_/same_as :: [Siphonostomatoida.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Copepoda/Siphonostomatoida.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Copepoda/Siphonostomatoida.protect|Siphonostomatoida.protect]] 
 
-### #is_/same_as :: [Siphonostomatoida.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Copepoda/Siphonostomatoida.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Copepoda/Siphonostomatoida.private|Siphonostomatoida.private]] 
 
-### #is_/same_as :: [Siphonostomatoida.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Copepoda/Siphonostomatoida.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Copepoda/Siphonostomatoida.personal|Siphonostomatoida.personal]] 
 
-### #is_/same_as :: [Siphonostomatoida.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Copepoda/Siphonostomatoida.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Copepoda/Siphonostomatoida.secret|Siphonostomatoida.secret]] 
 

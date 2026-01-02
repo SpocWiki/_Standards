@@ -37,7 +37,7 @@ title: Acontiaria
 
 # Acontiaria 
 
-![ ](Acontiaria/sagartiidaesm.jpg)![ ](Acontiaria/diadumenidaesm.jpg))
+![ ](Acontiaria/sagartiidaesm.jpg)![ ](Acontiaria/diadumenidaesm.jpg) 
 
 -   *[Acontiophoridae](Acontiophoridae)*
 -   *[Bathyphelliidae](Bathyphelliidae)*
@@ -73,7 +73,7 @@ Right:\
 Diadumene cincta (Diadumenidae). The Netherlands.
 
 Photographs copyright © 2000, Ron Ates.
-![](Acontiaria/sagartiidaesm.jpg))
+![](Acontiaria/sagartiidaesm.jpg) 
 
   -------
   Copyright ::   © 2000 Ron Ates
@@ -87,17 +87,17 @@ Photographs copyright © 2000, Ron Ates.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Acontiaria](/_Standards/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Nynantheae/Thenaria/Acontiaria.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Nynantheae/Thenaria/Acontiaria|Acontiaria]] 
 
-### #is_/same_as :: [Acontiaria.public](/_public/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Nynantheae/Thenaria/Acontiaria.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Nynantheae/Thenaria/Acontiaria.public|Acontiaria.public]] 
 
-### #is_/same_as :: [Acontiaria.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Nynantheae/Thenaria/Acontiaria.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Nynantheae/Thenaria/Acontiaria.internal|Acontiaria.internal]] 
 
-### #is_/same_as :: [Acontiaria.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Nynantheae/Thenaria/Acontiaria.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Nynantheae/Thenaria/Acontiaria.protect|Acontiaria.protect]] 
 
-### #is_/same_as :: [Acontiaria.private](/_private/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Nynantheae/Thenaria/Acontiaria.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Nynantheae/Thenaria/Acontiaria.private|Acontiaria.private]] 
 
-### #is_/same_as :: [Acontiaria.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Nynantheae/Thenaria/Acontiaria.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Nynantheae/Thenaria/Acontiaria.personal|Acontiaria.personal]] 
 
-### #is_/same_as :: [Acontiaria.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Nynantheae/Thenaria/Acontiaria.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Nynantheae/Thenaria/Acontiaria.secret|Acontiaria.secret]] 
 

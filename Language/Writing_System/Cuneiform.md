@@ -101,17 +101,17 @@ ISO_15924_alpha_4_code: Xsux
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Cuneiform](/_Standards/Language/Writing_System/Cuneiform.md) 
+### #is_/same_as :: [[/_Standards/Language/Writing_System/Cuneiform|Cuneiform]] 
 
-### #is_/same_as :: [Cuneiform.public](/_public/Language/Writing_System/Cuneiform.public.md) 
+### #is_/same_as :: [[/_public/Language/Writing_System/Cuneiform.public|Cuneiform.public]] 
 
-### #is_/same_as :: [Cuneiform.internal](/_internal/Language/Writing_System/Cuneiform.internal.md) 
+### #is_/same_as :: [[/_internal/Language/Writing_System/Cuneiform.internal|Cuneiform.internal]] 
 
-### #is_/same_as :: [Cuneiform.protect](/_protect/Language/Writing_System/Cuneiform.protect.md) 
+### #is_/same_as :: [[/_protect/Language/Writing_System/Cuneiform.protect|Cuneiform.protect]] 
 
-### #is_/same_as :: [Cuneiform.private](/_private/Language/Writing_System/Cuneiform.private.md) 
+### #is_/same_as :: [[/_private/Language/Writing_System/Cuneiform.private|Cuneiform.private]] 
 
-### #is_/same_as :: [Cuneiform.personal](/_personal/Language/Writing_System/Cuneiform.personal.md) 
+### #is_/same_as :: [[/_personal/Language/Writing_System/Cuneiform.personal|Cuneiform.personal]] 
 
-### #is_/same_as :: [Cuneiform.secret](/_secret/Language/Writing_System/Cuneiform.secret.md)
+### #is_/same_as :: [[/_secret/Language/Writing_System/Cuneiform.secret|Cuneiform.secret]] 
 

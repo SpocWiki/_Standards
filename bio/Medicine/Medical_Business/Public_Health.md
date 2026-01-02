@@ -102,17 +102,17 @@ especially epidemiology, sanitation, immunization, and preventive medicine.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Public_Health](/_Standards/bio/Medicine/Medical_Business/Public_Health.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Business/Public_Health|Public_Health]] 
 
-### #is_/same_as :: [Public_Health.public](/_public/bio/Medicine/Medical_Business/Public_Health.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Business/Public_Health.public|Public_Health.public]] 
 
-### #is_/same_as :: [Public_Health.internal](/_internal/bio/Medicine/Medical_Business/Public_Health.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Business/Public_Health.internal|Public_Health.internal]] 
 
-### #is_/same_as :: [Public_Health.protect](/_protect/bio/Medicine/Medical_Business/Public_Health.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Business/Public_Health.protect|Public_Health.protect]] 
 
-### #is_/same_as :: [Public_Health.private](/_private/bio/Medicine/Medical_Business/Public_Health.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Business/Public_Health.private|Public_Health.private]] 
 
-### #is_/same_as :: [Public_Health.personal](/_personal/bio/Medicine/Medical_Business/Public_Health.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Business/Public_Health.personal|Public_Health.personal]] 
 
-### #is_/same_as :: [Public_Health.secret](/_secret/bio/Medicine/Medical_Business/Public_Health.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Business/Public_Health.secret|Public_Health.secret]] 
 

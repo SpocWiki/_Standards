@@ -8,17 +8,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [gs1](/_Standards/Dimension/Unit_of_Measurement/gs1.md) 
+### #is_/same_as :: [[/_Standards/Dimension/Unit_of_Measurement/gs1|gs1]] 
 
-### #is_/same_as :: [gs1.public](/_public/Dimension/Unit_of_Measurement/gs1.public.md) 
+### #is_/same_as :: [[/_public/Dimension/Unit_of_Measurement/gs1.public|gs1.public]] 
 
-### #is_/same_as :: [gs1.internal](/_internal/Dimension/Unit_of_Measurement/gs1.internal.md) 
+### #is_/same_as :: [[/_internal/Dimension/Unit_of_Measurement/gs1.internal|gs1.internal]] 
 
-### #is_/same_as :: [gs1.protect](/_protect/Dimension/Unit_of_Measurement/gs1.protect.md) 
+### #is_/same_as :: [[/_protect/Dimension/Unit_of_Measurement/gs1.protect|gs1.protect]] 
 
-### #is_/same_as :: [gs1.private](/_private/Dimension/Unit_of_Measurement/gs1.private.md) 
+### #is_/same_as :: [[/_private/Dimension/Unit_of_Measurement/gs1.private|gs1.private]] 
 
-### #is_/same_as :: [gs1.personal](/_personal/Dimension/Unit_of_Measurement/gs1.personal.md) 
+### #is_/same_as :: [[/_personal/Dimension/Unit_of_Measurement/gs1.personal|gs1.personal]] 
 
-### #is_/same_as :: [gs1.secret](/_secret/Dimension/Unit_of_Measurement/gs1.secret.md)
+### #is_/same_as :: [[/_secret/Dimension/Unit_of_Measurement/gs1.secret|gs1.secret]] 
 

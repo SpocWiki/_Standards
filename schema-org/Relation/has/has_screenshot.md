@@ -38,17 +38,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_screenshot](/_Standards/schema-org/Relation/has/has_screenshot.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_screenshot|has_screenshot]] 
 
-### #is_/same_as :: [has_screenshot.public](/_public/schema-org/Relation/has/has_screenshot.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_screenshot.public|has_screenshot.public]] 
 
-### #is_/same_as :: [has_screenshot.internal](/_internal/schema-org/Relation/has/has_screenshot.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_screenshot.internal|has_screenshot.internal]] 
 
-### #is_/same_as :: [has_screenshot.protect](/_protect/schema-org/Relation/has/has_screenshot.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_screenshot.protect|has_screenshot.protect]] 
 
-### #is_/same_as :: [has_screenshot.private](/_private/schema-org/Relation/has/has_screenshot.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_screenshot.private|has_screenshot.private]] 
 
-### #is_/same_as :: [has_screenshot.personal](/_personal/schema-org/Relation/has/has_screenshot.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_screenshot.personal|has_screenshot.personal]] 
 
-### #is_/same_as :: [has_screenshot.secret](/_secret/schema-org/Relation/has/has_screenshot.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_screenshot.secret|has_screenshot.secret]] 
 

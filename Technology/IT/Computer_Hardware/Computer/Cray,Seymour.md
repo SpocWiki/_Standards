@@ -74,17 +74,17 @@ Cray Computers were individually manufactured at a cost between 15 and 80 millio
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Cray,Seymour](/_Standards/Technology/IT/Computer_Hardware/Computer/Cray,Seymour.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Computer_Hardware/Computer/Cray,Seymour|Cray,Seymour]] 
 
-### #is_/same_as :: [Cray,Seymour.public](/_public/Technology/IT/Computer_Hardware/Computer/Cray,Seymour.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Computer_Hardware/Computer/Cray,Seymour.public|Cray,Seymour.public]] 
 
-### #is_/same_as :: [Cray,Seymour.internal](/_internal/Technology/IT/Computer_Hardware/Computer/Cray,Seymour.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Computer_Hardware/Computer/Cray,Seymour.internal|Cray,Seymour.internal]] 
 
-### #is_/same_as :: [Cray,Seymour.protect](/_protect/Technology/IT/Computer_Hardware/Computer/Cray,Seymour.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Computer_Hardware/Computer/Cray,Seymour.protect|Cray,Seymour.protect]] 
 
-### #is_/same_as :: [Cray,Seymour.private](/_private/Technology/IT/Computer_Hardware/Computer/Cray,Seymour.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Computer_Hardware/Computer/Cray,Seymour.private|Cray,Seymour.private]] 
 
-### #is_/same_as :: [Cray,Seymour.personal](/_personal/Technology/IT/Computer_Hardware/Computer/Cray,Seymour.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Computer_Hardware/Computer/Cray,Seymour.personal|Cray,Seymour.personal]] 
 
-### #is_/same_as :: [Cray,Seymour.secret](/_secret/Technology/IT/Computer_Hardware/Computer/Cray,Seymour.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Computer_Hardware/Computer/Cray,Seymour.secret|Cray,Seymour.secret]] 
 

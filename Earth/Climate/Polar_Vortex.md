@@ -49,17 +49,17 @@ Commons_category: Polar vortex
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Polar_Vortex](/_Standards/Earth/Climate/Polar_Vortex.md) 
+### #is_/same_as :: [[/_Standards/Earth/Climate/Polar_Vortex|Polar_Vortex]] 
 
-### #is_/same_as :: [Polar_Vortex.public](/_public/Earth/Climate/Polar_Vortex.public.md) 
+### #is_/same_as :: [[/_public/Earth/Climate/Polar_Vortex.public|Polar_Vortex.public]] 
 
-### #is_/same_as :: [Polar_Vortex.internal](/_internal/Earth/Climate/Polar_Vortex.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Climate/Polar_Vortex.internal|Polar_Vortex.internal]] 
 
-### #is_/same_as :: [Polar_Vortex.protect](/_protect/Earth/Climate/Polar_Vortex.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Climate/Polar_Vortex.protect|Polar_Vortex.protect]] 
 
-### #is_/same_as :: [Polar_Vortex.private](/_private/Earth/Climate/Polar_Vortex.private.md) 
+### #is_/same_as :: [[/_private/Earth/Climate/Polar_Vortex.private|Polar_Vortex.private]] 
 
-### #is_/same_as :: [Polar_Vortex.personal](/_personal/Earth/Climate/Polar_Vortex.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Climate/Polar_Vortex.personal|Polar_Vortex.personal]] 
 
-### #is_/same_as :: [Polar_Vortex.secret](/_secret/Earth/Climate/Polar_Vortex.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Climate/Polar_Vortex.secret|Polar_Vortex.secret]] 
 

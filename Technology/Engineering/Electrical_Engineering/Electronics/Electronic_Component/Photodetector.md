@@ -36,17 +36,17 @@ Wolfram_Language_entity_code: Entity["MeasurementDevice", "Photodetector"]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Photodetector](/_Standards/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Photodetector.md) 
+### #is_/same_as :: [[/_Standards/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Photodetector|Photodetector]] 
 
-### #is_/same_as :: [Photodetector.public](/_public/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Photodetector.public.md) 
+### #is_/same_as :: [[/_public/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Photodetector.public|Photodetector.public]] 
 
-### #is_/same_as :: [Photodetector.internal](/_internal/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Photodetector.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Photodetector.internal|Photodetector.internal]] 
 
-### #is_/same_as :: [Photodetector.protect](/_protect/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Photodetector.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Photodetector.protect|Photodetector.protect]] 
 
-### #is_/same_as :: [Photodetector.private](/_private/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Photodetector.private.md) 
+### #is_/same_as :: [[/_private/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Photodetector.private|Photodetector.private]] 
 
-### #is_/same_as :: [Photodetector.personal](/_personal/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Photodetector.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Photodetector.personal|Photodetector.personal]] 
 
-### #is_/same_as :: [Photodetector.secret](/_secret/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Photodetector.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Photodetector.secret|Photodetector.secret]] 
 

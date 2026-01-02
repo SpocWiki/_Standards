@@ -99,17 +99,17 @@ described_at_URL:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Berliner,Emile](/_Standards/Science/Inventor/Berliner,Emile.md) 
+### #is_/same_as :: [[/_Standards/Science/Inventor/Berliner,Emile|Berliner,Emile]] 
 
-### #is_/same_as :: [Berliner,Emile.public](/_public/Science/Inventor/Berliner,Emile.public.md) 
+### #is_/same_as :: [[/_public/Science/Inventor/Berliner,Emile.public|Berliner,Emile.public]] 
 
-### #is_/same_as :: [Berliner,Emile.internal](/_internal/Science/Inventor/Berliner,Emile.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Inventor/Berliner,Emile.internal|Berliner,Emile.internal]] 
 
-### #is_/same_as :: [Berliner,Emile.protect](/_protect/Science/Inventor/Berliner,Emile.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Inventor/Berliner,Emile.protect|Berliner,Emile.protect]] 
 
-### #is_/same_as :: [Berliner,Emile.private](/_private/Science/Inventor/Berliner,Emile.private.md) 
+### #is_/same_as :: [[/_private/Science/Inventor/Berliner,Emile.private|Berliner,Emile.private]] 
 
-### #is_/same_as :: [Berliner,Emile.personal](/_personal/Science/Inventor/Berliner,Emile.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Inventor/Berliner,Emile.personal|Berliner,Emile.personal]] 
 
-### #is_/same_as :: [Berliner,Emile.secret](/_secret/Science/Inventor/Berliner,Emile.secret.md)
+### #is_/same_as :: [[/_secret/Science/Inventor/Berliner,Emile.secret|Berliner,Emile.secret]] 
 

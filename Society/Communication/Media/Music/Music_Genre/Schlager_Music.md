@@ -50,17 +50,17 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Und%20abends%20in%20di
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Schlager_Music](/_Standards/Society/Communication/Media/Music/Music_Genre/Schlager_Music.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Music_Genre/Schlager_Music|Schlager_Music]] 
 
-### #is_/same_as :: [Schlager_Music.public](/_public/Society/Communication/Media/Music/Music_Genre/Schlager_Music.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Music_Genre/Schlager_Music.public|Schlager_Music.public]] 
 
-### #is_/same_as :: [Schlager_Music.internal](/_internal/Society/Communication/Media/Music/Music_Genre/Schlager_Music.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Music_Genre/Schlager_Music.internal|Schlager_Music.internal]] 
 
-### #is_/same_as :: [Schlager_Music.protect](/_protect/Society/Communication/Media/Music/Music_Genre/Schlager_Music.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Music_Genre/Schlager_Music.protect|Schlager_Music.protect]] 
 
-### #is_/same_as :: [Schlager_Music.private](/_private/Society/Communication/Media/Music/Music_Genre/Schlager_Music.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Music_Genre/Schlager_Music.private|Schlager_Music.private]] 
 
-### #is_/same_as :: [Schlager_Music.personal](/_personal/Society/Communication/Media/Music/Music_Genre/Schlager_Music.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Music_Genre/Schlager_Music.personal|Schlager_Music.personal]] 
 
-### #is_/same_as :: [Schlager_Music.secret](/_secret/Society/Communication/Media/Music/Music_Genre/Schlager_Music.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Music_Genre/Schlager_Music.secret|Schlager_Music.secret]] 
 

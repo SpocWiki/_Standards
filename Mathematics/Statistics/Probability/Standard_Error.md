@@ -49,17 +49,17 @@ A common source of confusion occurs when failing to distinguish clearly between:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Standard_Error](/_Standards/Mathematics/Statistics/Probability/Standard_Error.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Statistics/Probability/Standard_Error|Standard_Error]] 
 
-### #is_/same_as :: [Standard_Error.public](/_public/Mathematics/Statistics/Probability/Standard_Error.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Statistics/Probability/Standard_Error.public|Standard_Error.public]] 
 
-### #is_/same_as :: [Standard_Error.internal](/_internal/Mathematics/Statistics/Probability/Standard_Error.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Statistics/Probability/Standard_Error.internal|Standard_Error.internal]] 
 
-### #is_/same_as :: [Standard_Error.protect](/_protect/Mathematics/Statistics/Probability/Standard_Error.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Statistics/Probability/Standard_Error.protect|Standard_Error.protect]] 
 
-### #is_/same_as :: [Standard_Error.private](/_private/Mathematics/Statistics/Probability/Standard_Error.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Statistics/Probability/Standard_Error.private|Standard_Error.private]] 
 
-### #is_/same_as :: [Standard_Error.personal](/_personal/Mathematics/Statistics/Probability/Standard_Error.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Statistics/Probability/Standard_Error.personal|Standard_Error.personal]] 
 
-### #is_/same_as :: [Standard_Error.secret](/_secret/Mathematics/Statistics/Probability/Standard_Error.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Statistics/Probability/Standard_Error.secret|Standard_Error.secret]] 
 

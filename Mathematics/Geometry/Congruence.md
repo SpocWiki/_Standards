@@ -54,17 +54,17 @@ Commons_category: Congruence
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Congruence](/_Standards/Mathematics/Geometry/Congruence.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Geometry/Congruence|Congruence]] 
 
-### #is_/same_as :: [Congruence.public](/_public/Mathematics/Geometry/Congruence.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Geometry/Congruence.public|Congruence.public]] 
 
-### #is_/same_as :: [Congruence.internal](/_internal/Mathematics/Geometry/Congruence.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Geometry/Congruence.internal|Congruence.internal]] 
 
-### #is_/same_as :: [Congruence.protect](/_protect/Mathematics/Geometry/Congruence.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Geometry/Congruence.protect|Congruence.protect]] 
 
-### #is_/same_as :: [Congruence.private](/_private/Mathematics/Geometry/Congruence.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Geometry/Congruence.private|Congruence.private]] 
 
-### #is_/same_as :: [Congruence.personal](/_personal/Mathematics/Geometry/Congruence.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Geometry/Congruence.personal|Congruence.personal]] 
 
-### #is_/same_as :: [Congruence.secret](/_secret/Mathematics/Geometry/Congruence.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Geometry/Congruence.secret|Congruence.secret]] 
 

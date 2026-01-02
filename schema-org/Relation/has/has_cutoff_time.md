@@ -44,17 +44,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_cutoff_time](/_Standards/schema-org/Relation/has/has_cutoff_time.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_cutoff_time|has_cutoff_time]] 
 
-### #is_/same_as :: [has_cutoff_time.public](/_public/schema-org/Relation/has/has_cutoff_time.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_cutoff_time.public|has_cutoff_time.public]] 
 
-### #is_/same_as :: [has_cutoff_time.internal](/_internal/schema-org/Relation/has/has_cutoff_time.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_cutoff_time.internal|has_cutoff_time.internal]] 
 
-### #is_/same_as :: [has_cutoff_time.protect](/_protect/schema-org/Relation/has/has_cutoff_time.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_cutoff_time.protect|has_cutoff_time.protect]] 
 
-### #is_/same_as :: [has_cutoff_time.private](/_private/schema-org/Relation/has/has_cutoff_time.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_cutoff_time.private|has_cutoff_time.private]] 
 
-### #is_/same_as :: [has_cutoff_time.personal](/_personal/schema-org/Relation/has/has_cutoff_time.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_cutoff_time.personal|has_cutoff_time.personal]] 
 
-### #is_/same_as :: [has_cutoff_time.secret](/_secret/schema-org/Relation/has/has_cutoff_time.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_cutoff_time.secret|has_cutoff_time.secret]] 
 

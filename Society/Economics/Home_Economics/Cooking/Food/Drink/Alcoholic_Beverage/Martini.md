@@ -43,17 +43,17 @@ official_website: https://iba-world.com/iba-cocktails/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Martini](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Martini.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Martini|Martini]] 
 
-### #is_/same_as :: [Martini.public](/_public/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Martini.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Martini.public|Martini.public]] 
 
-### #is_/same_as :: [Martini.internal](/_internal/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Martini.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Martini.internal|Martini.internal]] 
 
-### #is_/same_as :: [Martini.protect](/_protect/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Martini.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Martini.protect|Martini.protect]] 
 
-### #is_/same_as :: [Martini.private](/_private/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Martini.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Martini.private|Martini.private]] 
 
-### #is_/same_as :: [Martini.personal](/_personal/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Martini.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Martini.personal|Martini.personal]] 
 
-### #is_/same_as :: [Martini.secret](/_secret/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Martini.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Martini.secret|Martini.secret]] 
 

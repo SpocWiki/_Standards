@@ -71,17 +71,17 @@ official_name: light amplification by stimulated emission of radiation
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Laser](/_Standards/Technology/Tool/Laser.md) 
+### #is_/same_as :: [[/_Standards/Technology/Tool/Laser|Laser]] 
 
-### #is_/same_as :: [Laser.public](/_public/Technology/Tool/Laser.public.md) 
+### #is_/same_as :: [[/_public/Technology/Tool/Laser.public|Laser.public]] 
 
-### #is_/same_as :: [Laser.internal](/_internal/Technology/Tool/Laser.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Tool/Laser.internal|Laser.internal]] 
 
-### #is_/same_as :: [Laser.protect](/_protect/Technology/Tool/Laser.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Tool/Laser.protect|Laser.protect]] 
 
-### #is_/same_as :: [Laser.private](/_private/Technology/Tool/Laser.private.md) 
+### #is_/same_as :: [[/_private/Technology/Tool/Laser.private|Laser.private]] 
 
-### #is_/same_as :: [Laser.personal](/_personal/Technology/Tool/Laser.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Tool/Laser.personal|Laser.personal]] 
 
-### #is_/same_as :: [Laser.secret](/_secret/Technology/Tool/Laser.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Tool/Laser.secret|Laser.secret]] 
 

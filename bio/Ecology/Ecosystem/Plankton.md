@@ -75,17 +75,17 @@ name: plankton
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Plankton](/_Standards/bio/Ecology/Ecosystem/Plankton.md) 
+### #is_/same_as :: [[/_Standards/bio/Ecology/Ecosystem/Plankton|Plankton]] 
 
-### #is_/same_as :: [Plankton.public](/_public/bio/Ecology/Ecosystem/Plankton.public.md) 
+### #is_/same_as :: [[/_public/bio/Ecology/Ecosystem/Plankton.public|Plankton.public]] 
 
-### #is_/same_as :: [Plankton.internal](/_internal/bio/Ecology/Ecosystem/Plankton.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Ecology/Ecosystem/Plankton.internal|Plankton.internal]] 
 
-### #is_/same_as :: [Plankton.protect](/_protect/bio/Ecology/Ecosystem/Plankton.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Ecology/Ecosystem/Plankton.protect|Plankton.protect]] 
 
-### #is_/same_as :: [Plankton.private](/_private/bio/Ecology/Ecosystem/Plankton.private.md) 
+### #is_/same_as :: [[/_private/bio/Ecology/Ecosystem/Plankton.private|Plankton.private]] 
 
-### #is_/same_as :: [Plankton.personal](/_personal/bio/Ecology/Ecosystem/Plankton.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Ecology/Ecosystem/Plankton.personal|Plankton.personal]] 
 
-### #is_/same_as :: [Plankton.secret](/_secret/bio/Ecology/Ecosystem/Plankton.secret.md)
+### #is_/same_as :: [[/_secret/bio/Ecology/Ecosystem/Plankton.secret|Plankton.secret]] 
 

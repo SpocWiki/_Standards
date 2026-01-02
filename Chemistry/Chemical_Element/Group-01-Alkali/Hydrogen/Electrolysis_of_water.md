@@ -72,17 +72,17 @@ Rather vent some Hydrogen, reducing [[#Efficiency]].
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Electrolysis_of_water](/_Standards/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Electrolysis_of_water.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Electrolysis_of_water|Electrolysis_of_water]] 
 
-### #is_/same_as :: [Electrolysis_of_water.public](/_public/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Electrolysis_of_water.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Electrolysis_of_water.public|Electrolysis_of_water.public]] 
 
-### #is_/same_as :: [Electrolysis_of_water.internal](/_internal/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Electrolysis_of_water.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Electrolysis_of_water.internal|Electrolysis_of_water.internal]] 
 
-### #is_/same_as :: [Electrolysis_of_water.protect](/_protect/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Electrolysis_of_water.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Electrolysis_of_water.protect|Electrolysis_of_water.protect]] 
 
-### #is_/same_as :: [Electrolysis_of_water.private](/_private/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Electrolysis_of_water.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Electrolysis_of_water.private|Electrolysis_of_water.private]] 
 
-### #is_/same_as :: [Electrolysis_of_water.personal](/_personal/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Electrolysis_of_water.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Electrolysis_of_water.personal|Electrolysis_of_water.personal]] 
 
-### #is_/same_as :: [Electrolysis_of_water.secret](/_secret/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Electrolysis_of_water.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Electrolysis_of_water.secret|Electrolysis_of_water.secret]] 
 

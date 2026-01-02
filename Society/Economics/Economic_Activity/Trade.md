@@ -91,17 +91,17 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Fredmeyer%20edit%201.j
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Trade](/_Standards/Society/Economics/Economic_Activity/Trade.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Economic_Activity/Trade|Trade]] 
 
-### #is_/same_as :: [Trade.public](/_public/Society/Economics/Economic_Activity/Trade.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Economic_Activity/Trade.public|Trade.public]] 
 
-### #is_/same_as :: [Trade.internal](/_internal/Society/Economics/Economic_Activity/Trade.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Economic_Activity/Trade.internal|Trade.internal]] 
 
-### #is_/same_as :: [Trade.protect](/_protect/Society/Economics/Economic_Activity/Trade.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Economic_Activity/Trade.protect|Trade.protect]] 
 
-### #is_/same_as :: [Trade.private](/_private/Society/Economics/Economic_Activity/Trade.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Economic_Activity/Trade.private|Trade.private]] 
 
-### #is_/same_as :: [Trade.personal](/_personal/Society/Economics/Economic_Activity/Trade.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Economic_Activity/Trade.personal|Trade.personal]] 
 
-### #is_/same_as :: [Trade.secret](/_secret/Society/Economics/Economic_Activity/Trade.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Economic_Activity/Trade.secret|Trade.secret]] 
 

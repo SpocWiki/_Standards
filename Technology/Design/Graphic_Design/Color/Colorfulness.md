@@ -52,17 +52,17 @@ Saturation is the "colorfulness of an area judged in proportion to its brightnes
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Colorfulness](/_Standards/Technology/Design/Graphic_Design/Color/Colorfulness.md) 
+### #is_/same_as :: [[/_Standards/Technology/Design/Graphic_Design/Color/Colorfulness|Colorfulness]] 
 
-### #is_/same_as :: [Colorfulness.public](/_public/Technology/Design/Graphic_Design/Color/Colorfulness.public.md) 
+### #is_/same_as :: [[/_public/Technology/Design/Graphic_Design/Color/Colorfulness.public|Colorfulness.public]] 
 
-### #is_/same_as :: [Colorfulness.internal](/_internal/Technology/Design/Graphic_Design/Color/Colorfulness.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Design/Graphic_Design/Color/Colorfulness.internal|Colorfulness.internal]] 
 
-### #is_/same_as :: [Colorfulness.protect](/_protect/Technology/Design/Graphic_Design/Color/Colorfulness.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Design/Graphic_Design/Color/Colorfulness.protect|Colorfulness.protect]] 
 
-### #is_/same_as :: [Colorfulness.private](/_private/Technology/Design/Graphic_Design/Color/Colorfulness.private.md) 
+### #is_/same_as :: [[/_private/Technology/Design/Graphic_Design/Color/Colorfulness.private|Colorfulness.private]] 
 
-### #is_/same_as :: [Colorfulness.personal](/_personal/Technology/Design/Graphic_Design/Color/Colorfulness.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Design/Graphic_Design/Color/Colorfulness.personal|Colorfulness.personal]] 
 
-### #is_/same_as :: [Colorfulness.secret](/_secret/Technology/Design/Graphic_Design/Color/Colorfulness.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Design/Graphic_Design/Color/Colorfulness.secret|Colorfulness.secret]] 
 

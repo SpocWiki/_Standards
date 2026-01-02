@@ -41,17 +41,17 @@ IMDb_keyword: police-state
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Police_State](/_Standards/Society/Politics/Government/Police_State.md) 
+### #is_/same_as :: [[/_Standards/Society/Politics/Government/Police_State|Police_State]] 
 
-### #is_/same_as :: [Police_State.public](/_public/Society/Politics/Government/Police_State.public.md) 
+### #is_/same_as :: [[/_public/Society/Politics/Government/Police_State.public|Police_State.public]] 
 
-### #is_/same_as :: [Police_State.internal](/_internal/Society/Politics/Government/Police_State.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Politics/Government/Police_State.internal|Police_State.internal]] 
 
-### #is_/same_as :: [Police_State.protect](/_protect/Society/Politics/Government/Police_State.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Politics/Government/Police_State.protect|Police_State.protect]] 
 
-### #is_/same_as :: [Police_State.private](/_private/Society/Politics/Government/Police_State.private.md) 
+### #is_/same_as :: [[/_private/Society/Politics/Government/Police_State.private|Police_State.private]] 
 
-### #is_/same_as :: [Police_State.personal](/_personal/Society/Politics/Government/Police_State.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Politics/Government/Police_State.personal|Police_State.personal]] 
 
-### #is_/same_as :: [Police_State.secret](/_secret/Society/Politics/Government/Police_State.secret.md)
+### #is_/same_as :: [[/_secret/Society/Politics/Government/Police_State.secret|Police_State.secret]] 
 

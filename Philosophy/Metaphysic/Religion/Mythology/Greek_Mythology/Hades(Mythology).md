@@ -74,17 +74,17 @@ Krugosvet_article_archived_: kultura_i_obrazovanie/religiya/AID.html
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hades(Mythology)](/_Standards/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Hades(Mythology).md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Hades(Mythology)|Hades(Mythology)]] 
 
-### #is_/same_as :: [Hades(Mythology).public](/_public/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Hades(Mythology).public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Hades(Mythology).public|Hades(Mythology).public]] 
 
-### #is_/same_as :: [Hades(Mythology).internal](/_internal/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Hades(Mythology).internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Hades(Mythology).internal|Hades(Mythology).internal]] 
 
-### #is_/same_as :: [Hades(Mythology).protect](/_protect/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Hades(Mythology).protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Hades(Mythology).protect|Hades(Mythology).protect]] 
 
-### #is_/same_as :: [Hades(Mythology).private](/_private/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Hades(Mythology).private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Hades(Mythology).private|Hades(Mythology).private]] 
 
-### #is_/same_as :: [Hades(Mythology).personal](/_personal/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Hades(Mythology).personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Hades(Mythology).personal|Hades(Mythology).personal]] 
 
-### #is_/same_as :: [Hades(Mythology).secret](/_secret/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Hades(Mythology).secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Hades(Mythology).secret|Hades(Mythology).secret]] 
 

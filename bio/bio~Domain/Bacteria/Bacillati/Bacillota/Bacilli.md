@@ -11,17 +11,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bacilli](/_Standards/bio/bio~Domain/Bacteria/Bacillati/Bacillota/Bacilli.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Bacteria/Bacillati/Bacillota/Bacilli|Bacilli]] 
 
-### #is_/same_as :: [Bacilli.public](/_public/bio/bio~Domain/Bacteria/Bacillati/Bacillota/Bacilli.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Bacteria/Bacillati/Bacillota/Bacilli.public|Bacilli.public]] 
 
-### #is_/same_as :: [Bacilli.internal](/_internal/bio/bio~Domain/Bacteria/Bacillati/Bacillota/Bacilli.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Bacteria/Bacillati/Bacillota/Bacilli.internal|Bacilli.internal]] 
 
-### #is_/same_as :: [Bacilli.protect](/_protect/bio/bio~Domain/Bacteria/Bacillati/Bacillota/Bacilli.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Bacteria/Bacillati/Bacillota/Bacilli.protect|Bacilli.protect]] 
 
-### #is_/same_as :: [Bacilli.private](/_private/bio/bio~Domain/Bacteria/Bacillati/Bacillota/Bacilli.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Bacteria/Bacillati/Bacillota/Bacilli.private|Bacilli.private]] 
 
-### #is_/same_as :: [Bacilli.personal](/_personal/bio/bio~Domain/Bacteria/Bacillati/Bacillota/Bacilli.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Bacteria/Bacillati/Bacillota/Bacilli.personal|Bacilli.personal]] 
 
-### #is_/same_as :: [Bacilli.secret](/_secret/bio/bio~Domain/Bacteria/Bacillati/Bacillota/Bacilli.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Bacteria/Bacillati/Bacillota/Bacilli.secret|Bacilli.secret]] 
 

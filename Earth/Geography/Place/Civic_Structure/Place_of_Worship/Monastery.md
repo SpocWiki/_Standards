@@ -80,3 +80,22 @@ Dewey_Decimal_Classification: "206.57"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Monastery) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Monastery|Monastery]] 
+
+### #is_/same_as :: [[/_public/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Monastery.public|Monastery.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Monastery.internal|Monastery.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Monastery.protect|Monastery.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Monastery.private|Monastery.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Monastery.personal|Monastery.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Monastery.secret|Monastery.secret]] 
+

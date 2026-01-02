@@ -149,17 +149,17 @@ ISNI: 0000000121385892
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bourdieu,Pierre](/_Standards/Society/Anthropology/Sociology/Sociologist/Bourdieu,Pierre.md) 
+### #is_/same_as :: [[/_Standards/Society/Anthropology/Sociology/Sociologist/Bourdieu,Pierre|Bourdieu,Pierre]] 
 
-### #is_/same_as :: [Bourdieu,Pierre.public](/_public/Society/Anthropology/Sociology/Sociologist/Bourdieu,Pierre.public.md) 
+### #is_/same_as :: [[/_public/Society/Anthropology/Sociology/Sociologist/Bourdieu,Pierre.public|Bourdieu,Pierre.public]] 
 
-### #is_/same_as :: [Bourdieu,Pierre.internal](/_internal/Society/Anthropology/Sociology/Sociologist/Bourdieu,Pierre.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Anthropology/Sociology/Sociologist/Bourdieu,Pierre.internal|Bourdieu,Pierre.internal]] 
 
-### #is_/same_as :: [Bourdieu,Pierre.protect](/_protect/Society/Anthropology/Sociology/Sociologist/Bourdieu,Pierre.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Anthropology/Sociology/Sociologist/Bourdieu,Pierre.protect|Bourdieu,Pierre.protect]] 
 
-### #is_/same_as :: [Bourdieu,Pierre.private](/_private/Society/Anthropology/Sociology/Sociologist/Bourdieu,Pierre.private.md) 
+### #is_/same_as :: [[/_private/Society/Anthropology/Sociology/Sociologist/Bourdieu,Pierre.private|Bourdieu,Pierre.private]] 
 
-### #is_/same_as :: [Bourdieu,Pierre.personal](/_personal/Society/Anthropology/Sociology/Sociologist/Bourdieu,Pierre.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Anthropology/Sociology/Sociologist/Bourdieu,Pierre.personal|Bourdieu,Pierre.personal]] 
 
-### #is_/same_as :: [Bourdieu,Pierre.secret](/_secret/Society/Anthropology/Sociology/Sociologist/Bourdieu,Pierre.secret.md)
+### #is_/same_as :: [[/_secret/Society/Anthropology/Sociology/Sociologist/Bourdieu,Pierre.secret|Bourdieu,Pierre.secret]] 
 

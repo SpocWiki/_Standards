@@ -113,17 +113,17 @@ birth_name: Ferdinand Lewis Alcindor, Jr.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Abdul-Jabbar,Kareem](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Basketball/Abdul-Jabbar,Kareem.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Basketball/Abdul-Jabbar,Kareem|Abdul-Jabbar,Kareem]] 
 
-### #is_/same_as :: [Abdul-Jabbar,Kareem.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Basketball/Abdul-Jabbar,Kareem.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Basketball/Abdul-Jabbar,Kareem.public|Abdul-Jabbar,Kareem.public]] 
 
-### #is_/same_as :: [Abdul-Jabbar,Kareem.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Basketball/Abdul-Jabbar,Kareem.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Basketball/Abdul-Jabbar,Kareem.internal|Abdul-Jabbar,Kareem.internal]] 
 
-### #is_/same_as :: [Abdul-Jabbar,Kareem.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Basketball/Abdul-Jabbar,Kareem.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Basketball/Abdul-Jabbar,Kareem.protect|Abdul-Jabbar,Kareem.protect]] 
 
-### #is_/same_as :: [Abdul-Jabbar,Kareem.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Basketball/Abdul-Jabbar,Kareem.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Basketball/Abdul-Jabbar,Kareem.private|Abdul-Jabbar,Kareem.private]] 
 
-### #is_/same_as :: [Abdul-Jabbar,Kareem.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Basketball/Abdul-Jabbar,Kareem.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Basketball/Abdul-Jabbar,Kareem.personal|Abdul-Jabbar,Kareem.personal]] 
 
-### #is_/same_as :: [Abdul-Jabbar,Kareem.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Basketball/Abdul-Jabbar,Kareem.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Basketball/Abdul-Jabbar,Kareem.secret|Abdul-Jabbar,Kareem.secret]] 
 

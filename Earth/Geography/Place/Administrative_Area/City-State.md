@@ -57,17 +57,17 @@ Library_of_Congress_Classification: JC352
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [City-State](/_Standards/Earth/Geography/Place/Administrative_Area/City-State.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geography/Place/Administrative_Area/City-State|City-State]] 
 
-### #is_/same_as :: [City-State.public](/_public/Earth/Geography/Place/Administrative_Area/City-State.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geography/Place/Administrative_Area/City-State.public|City-State.public]] 
 
-### #is_/same_as :: [City-State.internal](/_internal/Earth/Geography/Place/Administrative_Area/City-State.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geography/Place/Administrative_Area/City-State.internal|City-State.internal]] 
 
-### #is_/same_as :: [City-State.protect](/_protect/Earth/Geography/Place/Administrative_Area/City-State.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geography/Place/Administrative_Area/City-State.protect|City-State.protect]] 
 
-### #is_/same_as :: [City-State.private](/_private/Earth/Geography/Place/Administrative_Area/City-State.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geography/Place/Administrative_Area/City-State.private|City-State.private]] 
 
-### #is_/same_as :: [City-State.personal](/_personal/Earth/Geography/Place/Administrative_Area/City-State.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geography/Place/Administrative_Area/City-State.personal|City-State.personal]] 
 
-### #is_/same_as :: [City-State.secret](/_secret/Earth/Geography/Place/Administrative_Area/City-State.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geography/Place/Administrative_Area/City-State.secret|City-State.secret]] 
 

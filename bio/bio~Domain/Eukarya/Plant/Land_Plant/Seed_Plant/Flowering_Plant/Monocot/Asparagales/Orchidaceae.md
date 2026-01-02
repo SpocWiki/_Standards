@@ -70,17 +70,17 @@ MeSH_tree_code: B01.875.800.575.912.250.618.100.640
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Orchidaceae](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Asparagales/Orchidaceae.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Asparagales/Orchidaceae|Orchidaceae]] 
 
-### #is_/same_as :: [Orchidaceae.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Asparagales/Orchidaceae.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Asparagales/Orchidaceae.public|Orchidaceae.public]] 
 
-### #is_/same_as :: [Orchidaceae.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Asparagales/Orchidaceae.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Asparagales/Orchidaceae.internal|Orchidaceae.internal]] 
 
-### #is_/same_as :: [Orchidaceae.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Asparagales/Orchidaceae.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Asparagales/Orchidaceae.protect|Orchidaceae.protect]] 
 
-### #is_/same_as :: [Orchidaceae.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Asparagales/Orchidaceae.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Asparagales/Orchidaceae.private|Orchidaceae.private]] 
 
-### #is_/same_as :: [Orchidaceae.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Asparagales/Orchidaceae.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Asparagales/Orchidaceae.personal|Orchidaceae.personal]] 
 
-### #is_/same_as :: [Orchidaceae.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Asparagales/Orchidaceae.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Asparagales/Orchidaceae.secret|Orchidaceae.secret]] 
 

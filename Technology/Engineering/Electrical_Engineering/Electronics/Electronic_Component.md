@@ -42,17 +42,17 @@ uses: '[[_Standards/WikiData/WD~lead,947546]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Electronic_Component](/_Standards/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component.md) 
+### #is_/same_as :: [[/_Standards/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component|Electronic_Component]] 
 
-### #is_/same_as :: [Electronic_Component.public](/_public/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component.public.md) 
+### #is_/same_as :: [[/_public/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component.public|Electronic_Component.public]] 
 
-### #is_/same_as :: [Electronic_Component.internal](/_internal/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component.internal|Electronic_Component.internal]] 
 
-### #is_/same_as :: [Electronic_Component.protect](/_protect/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component.protect|Electronic_Component.protect]] 
 
-### #is_/same_as :: [Electronic_Component.private](/_private/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component.private.md) 
+### #is_/same_as :: [[/_private/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component.private|Electronic_Component.private]] 
 
-### #is_/same_as :: [Electronic_Component.personal](/_personal/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component.personal|Electronic_Component.personal]] 
 
-### #is_/same_as :: [Electronic_Component.secret](/_secret/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component.secret|Electronic_Component.secret]] 
 

@@ -47,17 +47,17 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Bottom%20quark.svg
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bottom_Quark](/_Standards/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron/Quark/Bottom_Quark.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron/Quark/Bottom_Quark|Bottom_Quark]] 
 
-### #is_/same_as :: [Bottom_Quark.public](/_public/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron/Quark/Bottom_Quark.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron/Quark/Bottom_Quark.public|Bottom_Quark.public]] 
 
-### #is_/same_as :: [Bottom_Quark.internal](/_internal/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron/Quark/Bottom_Quark.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron/Quark/Bottom_Quark.internal|Bottom_Quark.internal]] 
 
-### #is_/same_as :: [Bottom_Quark.protect](/_protect/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron/Quark/Bottom_Quark.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron/Quark/Bottom_Quark.protect|Bottom_Quark.protect]] 
 
-### #is_/same_as :: [Bottom_Quark.private](/_private/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron/Quark/Bottom_Quark.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron/Quark/Bottom_Quark.private|Bottom_Quark.private]] 
 
-### #is_/same_as :: [Bottom_Quark.personal](/_personal/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron/Quark/Bottom_Quark.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron/Quark/Bottom_Quark.personal|Bottom_Quark.personal]] 
 
-### #is_/same_as :: [Bottom_Quark.secret](/_secret/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron/Quark/Bottom_Quark.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron/Quark/Bottom_Quark.secret|Bottom_Quark.secret]] 
 

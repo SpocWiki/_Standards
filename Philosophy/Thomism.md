@@ -47,17 +47,17 @@ PhilPapers_topic: thomism
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Thomism](/_Standards/Philosophy/Thomism.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Thomism|Thomism]] 
 
-### #is_/same_as :: [Thomism.public](/_public/Philosophy/Thomism.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Thomism.public|Thomism.public]] 
 
-### #is_/same_as :: [Thomism.internal](/_internal/Philosophy/Thomism.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Thomism.internal|Thomism.internal]] 
 
-### #is_/same_as :: [Thomism.protect](/_protect/Philosophy/Thomism.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Thomism.protect|Thomism.protect]] 
 
-### #is_/same_as :: [Thomism.private](/_private/Philosophy/Thomism.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Thomism.private|Thomism.private]] 
 
-### #is_/same_as :: [Thomism.personal](/_personal/Philosophy/Thomism.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Thomism.personal|Thomism.personal]] 
 
-### #is_/same_as :: [Thomism.secret](/_secret/Philosophy/Thomism.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Thomism.secret|Thomism.secret]] 
 

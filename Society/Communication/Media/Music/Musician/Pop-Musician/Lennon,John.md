@@ -244,17 +244,17 @@ date_of_birth: 1940-10-09T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lennon,John](/_Standards/Society/Communication/Media/Music/Musician/Pop-Musician/Lennon,John.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Musician/Pop-Musician/Lennon,John|Lennon,John]] 
 
-### #is_/same_as :: [Lennon,John.public](/_public/Society/Communication/Media/Music/Musician/Pop-Musician/Lennon,John.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Musician/Pop-Musician/Lennon,John.public|Lennon,John.public]] 
 
-### #is_/same_as :: [Lennon,John.internal](/_internal/Society/Communication/Media/Music/Musician/Pop-Musician/Lennon,John.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Musician/Pop-Musician/Lennon,John.internal|Lennon,John.internal]] 
 
-### #is_/same_as :: [Lennon,John.protect](/_protect/Society/Communication/Media/Music/Musician/Pop-Musician/Lennon,John.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Musician/Pop-Musician/Lennon,John.protect|Lennon,John.protect]] 
 
-### #is_/same_as :: [Lennon,John.private](/_private/Society/Communication/Media/Music/Musician/Pop-Musician/Lennon,John.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Musician/Pop-Musician/Lennon,John.private|Lennon,John.private]] 
 
-### #is_/same_as :: [Lennon,John.personal](/_personal/Society/Communication/Media/Music/Musician/Pop-Musician/Lennon,John.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Musician/Pop-Musician/Lennon,John.personal|Lennon,John.personal]] 
 
-### #is_/same_as :: [Lennon,John.secret](/_secret/Society/Communication/Media/Music/Musician/Pop-Musician/Lennon,John.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Musician/Pop-Musician/Lennon,John.secret|Lennon,John.secret]] 
 

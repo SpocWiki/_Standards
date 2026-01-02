@@ -59,17 +59,17 @@ IEV_number: 102-04-08
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Parallelism(Geometry)](/_Standards/Mathematics/Geometry/Parallelism(Geometry).md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Geometry/Parallelism(Geometry)|Parallelism(Geometry)]] 
 
-### #is_/same_as :: [Parallelism(Geometry).public](/_public/Mathematics/Geometry/Parallelism(Geometry).public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Geometry/Parallelism(Geometry).public|Parallelism(Geometry).public]] 
 
-### #is_/same_as :: [Parallelism(Geometry).internal](/_internal/Mathematics/Geometry/Parallelism(Geometry).internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Geometry/Parallelism(Geometry).internal|Parallelism(Geometry).internal]] 
 
-### #is_/same_as :: [Parallelism(Geometry).protect](/_protect/Mathematics/Geometry/Parallelism(Geometry).protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Geometry/Parallelism(Geometry).protect|Parallelism(Geometry).protect]] 
 
-### #is_/same_as :: [Parallelism(Geometry).private](/_private/Mathematics/Geometry/Parallelism(Geometry).private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Geometry/Parallelism(Geometry).private|Parallelism(Geometry).private]] 
 
-### #is_/same_as :: [Parallelism(Geometry).personal](/_personal/Mathematics/Geometry/Parallelism(Geometry).personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Geometry/Parallelism(Geometry).personal|Parallelism(Geometry).personal]] 
 
-### #is_/same_as :: [Parallelism(Geometry).secret](/_secret/Mathematics/Geometry/Parallelism(Geometry).secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Geometry/Parallelism(Geometry).secret|Parallelism(Geometry).secret]] 
 

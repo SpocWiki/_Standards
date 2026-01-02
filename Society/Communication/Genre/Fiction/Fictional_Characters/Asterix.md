@@ -119,17 +119,17 @@ Google_Doodle: asterix-comics-50th-anniversary-2009-goscinny-uderzo
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Asterix](/_Standards/Society/Communication/Genre/Fiction/Fictional_Characters/Asterix.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Genre/Fiction/Fictional_Characters/Asterix|Asterix]] 
 
-### #is_/same_as :: [Asterix.public](/_public/Society/Communication/Genre/Fiction/Fictional_Characters/Asterix.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Genre/Fiction/Fictional_Characters/Asterix.public|Asterix.public]] 
 
-### #is_/same_as :: [Asterix.internal](/_internal/Society/Communication/Genre/Fiction/Fictional_Characters/Asterix.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Genre/Fiction/Fictional_Characters/Asterix.internal|Asterix.internal]] 
 
-### #is_/same_as :: [Asterix.protect](/_protect/Society/Communication/Genre/Fiction/Fictional_Characters/Asterix.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Genre/Fiction/Fictional_Characters/Asterix.protect|Asterix.protect]] 
 
-### #is_/same_as :: [Asterix.private](/_private/Society/Communication/Genre/Fiction/Fictional_Characters/Asterix.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Genre/Fiction/Fictional_Characters/Asterix.private|Asterix.private]] 
 
-### #is_/same_as :: [Asterix.personal](/_personal/Society/Communication/Genre/Fiction/Fictional_Characters/Asterix.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Genre/Fiction/Fictional_Characters/Asterix.personal|Asterix.personal]] 
 
-### #is_/same_as :: [Asterix.secret](/_secret/Society/Communication/Genre/Fiction/Fictional_Characters/Asterix.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Genre/Fiction/Fictional_Characters/Asterix.secret|Asterix.secret]] 
 

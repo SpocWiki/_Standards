@@ -65,17 +65,17 @@ Krugosvet_article: kultura_i_obrazovanie/religiya/ANGLIKANSKIE_TSERKVI.html
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Anglicanism](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Anglicanism.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Anglicanism|Anglicanism]] 
 
-### #is_/same_as :: [Anglicanism.public](/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Anglicanism.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Anglicanism.public|Anglicanism.public]] 
 
-### #is_/same_as :: [Anglicanism.internal](/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Anglicanism.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Anglicanism.internal|Anglicanism.internal]] 
 
-### #is_/same_as :: [Anglicanism.protect](/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Anglicanism.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Anglicanism.protect|Anglicanism.protect]] 
 
-### #is_/same_as :: [Anglicanism.private](/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Anglicanism.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Anglicanism.private|Anglicanism.private]] 
 
-### #is_/same_as :: [Anglicanism.personal](/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Anglicanism.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Anglicanism.personal|Anglicanism.personal]] 
 
-### #is_/same_as :: [Anglicanism.secret](/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Anglicanism.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Anglicanism.secret|Anglicanism.secret]] 
 

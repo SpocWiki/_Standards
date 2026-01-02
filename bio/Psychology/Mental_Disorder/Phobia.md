@@ -63,17 +63,17 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Pixella15551%20%282432
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Phobia](/_Standards/bio/Psychology/Mental_Disorder/Phobia.md) 
+### #is_/same_as :: [[/_Standards/bio/Psychology/Mental_Disorder/Phobia|Phobia]] 
 
-### #is_/same_as :: [Phobia.public](/_public/bio/Psychology/Mental_Disorder/Phobia.public.md) 
+### #is_/same_as :: [[/_public/bio/Psychology/Mental_Disorder/Phobia.public|Phobia.public]] 
 
-### #is_/same_as :: [Phobia.internal](/_internal/bio/Psychology/Mental_Disorder/Phobia.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Psychology/Mental_Disorder/Phobia.internal|Phobia.internal]] 
 
-### #is_/same_as :: [Phobia.protect](/_protect/bio/Psychology/Mental_Disorder/Phobia.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Psychology/Mental_Disorder/Phobia.protect|Phobia.protect]] 
 
-### #is_/same_as :: [Phobia.private](/_private/bio/Psychology/Mental_Disorder/Phobia.private.md) 
+### #is_/same_as :: [[/_private/bio/Psychology/Mental_Disorder/Phobia.private|Phobia.private]] 
 
-### #is_/same_as :: [Phobia.personal](/_personal/bio/Psychology/Mental_Disorder/Phobia.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Psychology/Mental_Disorder/Phobia.personal|Phobia.personal]] 
 
-### #is_/same_as :: [Phobia.secret](/_secret/bio/Psychology/Mental_Disorder/Phobia.secret.md)
+### #is_/same_as :: [[/_secret/bio/Psychology/Mental_Disorder/Phobia.secret|Phobia.secret]] 
 

@@ -52,17 +52,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [1940-Benes-Decrees+1946](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1939-World_War_II/1940-Benes-Decrees+1946.md) 
+### #is_/same_as :: [[/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1939-World_War_II/1940-Benes-Decrees+1946|1940-Benes-Decrees+1946]] 
 
-### #is_/same_as :: [1940-Benes-Decrees+1946.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1939-World_War_II/1940-Benes-Decrees+1946.public.md) 
+### #is_/same_as :: [[/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1939-World_War_II/1940-Benes-Decrees+1946.public|1940-Benes-Decrees+1946.public]] 
 
-### #is_/same_as :: [1940-Benes-Decrees+1946.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1939-World_War_II/1940-Benes-Decrees+1946.internal.md) 
+### #is_/same_as :: [[/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1939-World_War_II/1940-Benes-Decrees+1946.internal|1940-Benes-Decrees+1946.internal]] 
 
-### #is_/same_as :: [1940-Benes-Decrees+1946.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1939-World_War_II/1940-Benes-Decrees+1946.protect.md) 
+### #is_/same_as :: [[/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1939-World_War_II/1940-Benes-Decrees+1946.protect|1940-Benes-Decrees+1946.protect]] 
 
-### #is_/same_as :: [1940-Benes-Decrees+1946.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1939-World_War_II/1940-Benes-Decrees+1946.private.md) 
+### #is_/same_as :: [[/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1939-World_War_II/1940-Benes-Decrees+1946.private|1940-Benes-Decrees+1946.private]] 
 
-### #is_/same_as :: [1940-Benes-Decrees+1946.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1939-World_War_II/1940-Benes-Decrees+1946.personal.md) 
+### #is_/same_as :: [[/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1939-World_War_II/1940-Benes-Decrees+1946.personal|1940-Benes-Decrees+1946.personal]] 
 
-### #is_/same_as :: [1940-Benes-Decrees+1946.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1939-World_War_II/1940-Benes-Decrees+1946.secret.md)
+### #is_/same_as :: [[/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1939-World_War_II/1940-Benes-Decrees+1946.secret|1940-Benes-Decrees+1946.secret]] 
 

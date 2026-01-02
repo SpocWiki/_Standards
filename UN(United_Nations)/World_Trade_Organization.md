@@ -80,17 +80,17 @@ X_Twitter_username: wto
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [World_Trade_Organization](/_Standards/UN(United_Nations)/World_Trade_Organization.md) 
+### #is_/same_as :: [[/_Standards/UN(United_Nations)/World_Trade_Organization|World_Trade_Organization]] 
 
-### #is_/same_as :: [World_Trade_Organization.public](/_public/UN(United_Nations)/World_Trade_Organization.public.md) 
+### #is_/same_as :: [[/_public/UN(United_Nations)/World_Trade_Organization.public|World_Trade_Organization.public]] 
 
-### #is_/same_as :: [World_Trade_Organization.internal](/_internal/UN(United_Nations)/World_Trade_Organization.internal.md) 
+### #is_/same_as :: [[/_internal/UN(United_Nations)/World_Trade_Organization.internal|World_Trade_Organization.internal]] 
 
-### #is_/same_as :: [World_Trade_Organization.protect](/_protect/UN(United_Nations)/World_Trade_Organization.protect.md) 
+### #is_/same_as :: [[/_protect/UN(United_Nations)/World_Trade_Organization.protect|World_Trade_Organization.protect]] 
 
-### #is_/same_as :: [World_Trade_Organization.private](/_private/UN(United_Nations)/World_Trade_Organization.private.md) 
+### #is_/same_as :: [[/_private/UN(United_Nations)/World_Trade_Organization.private|World_Trade_Organization.private]] 
 
-### #is_/same_as :: [World_Trade_Organization.personal](/_personal/UN(United_Nations)/World_Trade_Organization.personal.md) 
+### #is_/same_as :: [[/_personal/UN(United_Nations)/World_Trade_Organization.personal|World_Trade_Organization.personal]] 
 
-### #is_/same_as :: [World_Trade_Organization.secret](/_secret/UN(United_Nations)/World_Trade_Organization.secret.md)
+### #is_/same_as :: [[/_secret/UN(United_Nations)/World_Trade_Organization.secret|World_Trade_Organization.secret]] 
 

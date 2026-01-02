@@ -25,17 +25,17 @@ Commons_category: History of geography
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [History_of_Geography](/_Standards/Earth/Geography/History_of_Geography.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geography/History_of_Geography|History_of_Geography]] 
 
-### #is_/same_as :: [History_of_Geography.public](/_public/Earth/Geography/History_of_Geography.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geography/History_of_Geography.public|History_of_Geography.public]] 
 
-### #is_/same_as :: [History_of_Geography.internal](/_internal/Earth/Geography/History_of_Geography.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geography/History_of_Geography.internal|History_of_Geography.internal]] 
 
-### #is_/same_as :: [History_of_Geography.protect](/_protect/Earth/Geography/History_of_Geography.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geography/History_of_Geography.protect|History_of_Geography.protect]] 
 
-### #is_/same_as :: [History_of_Geography.private](/_private/Earth/Geography/History_of_Geography.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geography/History_of_Geography.private|History_of_Geography.private]] 
 
-### #is_/same_as :: [History_of_Geography.personal](/_personal/Earth/Geography/History_of_Geography.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geography/History_of_Geography.personal|History_of_Geography.personal]] 
 
-### #is_/same_as :: [History_of_Geography.secret](/_secret/Earth/Geography/History_of_Geography.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geography/History_of_Geography.secret|History_of_Geography.secret]] 
 

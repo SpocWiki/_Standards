@@ -62,17 +62,17 @@ Commons_category: Trade winds
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Trade_Wind](/_Standards/Earth/Climate/Atmosphere,Earth/Atmospheric_Circulation/Trade_Wind.md) 
+### #is_/same_as :: [[/_Standards/Earth/Climate/Atmosphere,Earth/Atmospheric_Circulation/Trade_Wind|Trade_Wind]] 
 
-### #is_/same_as :: [Trade_Wind.public](/_public/Earth/Climate/Atmosphere,Earth/Atmospheric_Circulation/Trade_Wind.public.md) 
+### #is_/same_as :: [[/_public/Earth/Climate/Atmosphere,Earth/Atmospheric_Circulation/Trade_Wind.public|Trade_Wind.public]] 
 
-### #is_/same_as :: [Trade_Wind.internal](/_internal/Earth/Climate/Atmosphere,Earth/Atmospheric_Circulation/Trade_Wind.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Climate/Atmosphere,Earth/Atmospheric_Circulation/Trade_Wind.internal|Trade_Wind.internal]] 
 
-### #is_/same_as :: [Trade_Wind.protect](/_protect/Earth/Climate/Atmosphere,Earth/Atmospheric_Circulation/Trade_Wind.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Climate/Atmosphere,Earth/Atmospheric_Circulation/Trade_Wind.protect|Trade_Wind.protect]] 
 
-### #is_/same_as :: [Trade_Wind.private](/_private/Earth/Climate/Atmosphere,Earth/Atmospheric_Circulation/Trade_Wind.private.md) 
+### #is_/same_as :: [[/_private/Earth/Climate/Atmosphere,Earth/Atmospheric_Circulation/Trade_Wind.private|Trade_Wind.private]] 
 
-### #is_/same_as :: [Trade_Wind.personal](/_personal/Earth/Climate/Atmosphere,Earth/Atmospheric_Circulation/Trade_Wind.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Climate/Atmosphere,Earth/Atmospheric_Circulation/Trade_Wind.personal|Trade_Wind.personal]] 
 
-### #is_/same_as :: [Trade_Wind.secret](/_secret/Earth/Climate/Atmosphere,Earth/Atmospheric_Circulation/Trade_Wind.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Climate/Atmosphere,Earth/Atmospheric_Circulation/Trade_Wind.secret|Trade_Wind.secret]] 
 

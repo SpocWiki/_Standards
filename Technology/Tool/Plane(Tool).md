@@ -57,17 +57,17 @@ Dewey_Decimal_Classification: "621.912"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Plane(Tool)](/_Standards/Technology/Tool/Plane(Tool).md) 
+### #is_/same_as :: [[/_Standards/Technology/Tool/Plane(Tool)|Plane(Tool)]] 
 
-### #is_/same_as :: [Plane(Tool).public](/_public/Technology/Tool/Plane(Tool).public.md) 
+### #is_/same_as :: [[/_public/Technology/Tool/Plane(Tool).public|Plane(Tool).public]] 
 
-### #is_/same_as :: [Plane(Tool).internal](/_internal/Technology/Tool/Plane(Tool).internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Tool/Plane(Tool).internal|Plane(Tool).internal]] 
 
-### #is_/same_as :: [Plane(Tool).protect](/_protect/Technology/Tool/Plane(Tool).protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Tool/Plane(Tool).protect|Plane(Tool).protect]] 
 
-### #is_/same_as :: [Plane(Tool).private](/_private/Technology/Tool/Plane(Tool).private.md) 
+### #is_/same_as :: [[/_private/Technology/Tool/Plane(Tool).private|Plane(Tool).private]] 
 
-### #is_/same_as :: [Plane(Tool).personal](/_personal/Technology/Tool/Plane(Tool).personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Tool/Plane(Tool).personal|Plane(Tool).personal]] 
 
-### #is_/same_as :: [Plane(Tool).secret](/_secret/Technology/Tool/Plane(Tool).secret.md)
+### #is_/same_as :: [[/_secret/Technology/Tool/Plane(Tool).secret|Plane(Tool).secret]] 
 

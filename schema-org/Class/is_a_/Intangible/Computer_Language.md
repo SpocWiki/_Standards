@@ -39,17 +39,17 @@ This type covers computer programming languages such as Scheme and Lisp, as well
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Computer_Language](/_Standards/schema-org/Class/is_a_/Intangible/Computer_Language.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Intangible/Computer_Language|Computer_Language]] 
 
-### #is_/same_as :: [Computer_Language.public](/_public/schema-org/Class/is_a_/Intangible/Computer_Language.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Intangible/Computer_Language.public|Computer_Language.public]] 
 
-### #is_/same_as :: [Computer_Language.internal](/_internal/schema-org/Class/is_a_/Intangible/Computer_Language.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Intangible/Computer_Language.internal|Computer_Language.internal]] 
 
-### #is_/same_as :: [Computer_Language.protect](/_protect/schema-org/Class/is_a_/Intangible/Computer_Language.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Intangible/Computer_Language.protect|Computer_Language.protect]] 
 
-### #is_/same_as :: [Computer_Language.private](/_private/schema-org/Class/is_a_/Intangible/Computer_Language.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Intangible/Computer_Language.private|Computer_Language.private]] 
 
-### #is_/same_as :: [Computer_Language.personal](/_personal/schema-org/Class/is_a_/Intangible/Computer_Language.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Intangible/Computer_Language.personal|Computer_Language.personal]] 
 
-### #is_/same_as :: [Computer_Language.secret](/_secret/schema-org/Class/is_a_/Intangible/Computer_Language.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Intangible/Computer_Language.secret|Computer_Language.secret]] 
 

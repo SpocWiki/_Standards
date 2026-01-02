@@ -161,17 +161,17 @@ writing_language: '[[_Standards/WikiData/WD~French,150]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sartre,Jean-Paul](/_Standards/Philosophy/Philosopher/Modern_Philosopher/Sartre,Jean-Paul.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Philosopher/Modern_Philosopher/Sartre,Jean-Paul|Sartre,Jean-Paul]] 
 
-### #is_/same_as :: [Sartre,Jean-Paul.public](/_public/Philosophy/Philosopher/Modern_Philosopher/Sartre,Jean-Paul.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Philosopher/Modern_Philosopher/Sartre,Jean-Paul.public|Sartre,Jean-Paul.public]] 
 
-### #is_/same_as :: [Sartre,Jean-Paul.internal](/_internal/Philosophy/Philosopher/Modern_Philosopher/Sartre,Jean-Paul.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Philosopher/Modern_Philosopher/Sartre,Jean-Paul.internal|Sartre,Jean-Paul.internal]] 
 
-### #is_/same_as :: [Sartre,Jean-Paul.protect](/_protect/Philosophy/Philosopher/Modern_Philosopher/Sartre,Jean-Paul.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Philosopher/Modern_Philosopher/Sartre,Jean-Paul.protect|Sartre,Jean-Paul.protect]] 
 
-### #is_/same_as :: [Sartre,Jean-Paul.private](/_private/Philosophy/Philosopher/Modern_Philosopher/Sartre,Jean-Paul.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Philosopher/Modern_Philosopher/Sartre,Jean-Paul.private|Sartre,Jean-Paul.private]] 
 
-### #is_/same_as :: [Sartre,Jean-Paul.personal](/_personal/Philosophy/Philosopher/Modern_Philosopher/Sartre,Jean-Paul.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Philosopher/Modern_Philosopher/Sartre,Jean-Paul.personal|Sartre,Jean-Paul.personal]] 
 
-### #is_/same_as :: [Sartre,Jean-Paul.secret](/_secret/Philosophy/Philosopher/Modern_Philosopher/Sartre,Jean-Paul.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Philosopher/Modern_Philosopher/Sartre,Jean-Paul.secret|Sartre,Jean-Paul.secret]] 
 

@@ -131,17 +131,17 @@ Libris_URI: 20dhm4zl5783jxz
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lorenz,Konrad](/_Standards/bio/Biologist/Lorenz,Konrad.md) 
+### #is_/same_as :: [[/_Standards/bio/Biologist/Lorenz,Konrad|Lorenz,Konrad]] 
 
-### #is_/same_as :: [Lorenz,Konrad.public](/_public/bio/Biologist/Lorenz,Konrad.public.md) 
+### #is_/same_as :: [[/_public/bio/Biologist/Lorenz,Konrad.public|Lorenz,Konrad.public]] 
 
-### #is_/same_as :: [Lorenz,Konrad.internal](/_internal/bio/Biologist/Lorenz,Konrad.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Biologist/Lorenz,Konrad.internal|Lorenz,Konrad.internal]] 
 
-### #is_/same_as :: [Lorenz,Konrad.protect](/_protect/bio/Biologist/Lorenz,Konrad.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Biologist/Lorenz,Konrad.protect|Lorenz,Konrad.protect]] 
 
-### #is_/same_as :: [Lorenz,Konrad.private](/_private/bio/Biologist/Lorenz,Konrad.private.md) 
+### #is_/same_as :: [[/_private/bio/Biologist/Lorenz,Konrad.private|Lorenz,Konrad.private]] 
 
-### #is_/same_as :: [Lorenz,Konrad.personal](/_personal/bio/Biologist/Lorenz,Konrad.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Biologist/Lorenz,Konrad.personal|Lorenz,Konrad.personal]] 
 
-### #is_/same_as :: [Lorenz,Konrad.secret](/_secret/bio/Biologist/Lorenz,Konrad.secret.md)
+### #is_/same_as :: [[/_secret/bio/Biologist/Lorenz,Konrad.secret|Lorenz,Konrad.secret]] 
 

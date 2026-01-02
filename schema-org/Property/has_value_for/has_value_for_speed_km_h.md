@@ -54,17 +54,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_value_for_speed_km_h](/_Standards/schema-org/Property/has_value_for/has_value_for_speed_km_h.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_value_for/has_value_for_speed_km_h|has_value_for_speed_km_h]] 
 
-### #is_/same_as :: [has_value_for_speed_km_h.public](/_public/schema-org/Property/has_value_for/has_value_for_speed_km_h.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/has_value_for/has_value_for_speed_km_h.public|has_value_for_speed_km_h.public]] 
 
-### #is_/same_as :: [has_value_for_speed_km_h.internal](/_internal/schema-org/Property/has_value_for/has_value_for_speed_km_h.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_value_for/has_value_for_speed_km_h.internal|has_value_for_speed_km_h.internal]] 
 
-### #is_/same_as :: [has_value_for_speed_km_h.protect](/_protect/schema-org/Property/has_value_for/has_value_for_speed_km_h.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_value_for/has_value_for_speed_km_h.protect|has_value_for_speed_km_h.protect]] 
 
-### #is_/same_as :: [has_value_for_speed_km_h.private](/_private/schema-org/Property/has_value_for/has_value_for_speed_km_h.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/has_value_for/has_value_for_speed_km_h.private|has_value_for_speed_km_h.private]] 
 
-### #is_/same_as :: [has_value_for_speed_km_h.personal](/_personal/schema-org/Property/has_value_for/has_value_for_speed_km_h.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_value_for/has_value_for_speed_km_h.personal|has_value_for_speed_km_h.personal]] 
 
-### #is_/same_as :: [has_value_for_speed_km_h.secret](/_secret/schema-org/Property/has_value_for/has_value_for_speed_km_h.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/has_value_for/has_value_for_speed_km_h.secret|has_value_for_speed_km_h.secret]] 
 

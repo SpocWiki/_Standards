@@ -2,10 +2,14 @@
 aliases:
   - Gorilla
 title: Gorilla
+has_id_wikidata: Q36611
 ---
 
 # [[Gorilla]] 
-![ ](Gorilla/370629527_141102ac2f_o.jpg))
+
+#is_/same_as :: [[../../../../../../../../../../../../../../../../../../../../WikiData/WD~Gorilla,36611|WD~Gorilla,36611]] 
+
+![ ](Gorilla/Gorilla_and_Baby.jpg) 
 ![ ](Gorilla/Gorilla057.jpg)
 
 ## #has_/text_of_/abstract 
@@ -62,7 +66,7 @@ title: Gorilla
 
 ## Title Illustrations
 
-![](Gorilla/370629527_141102ac2f_o.jpg))
+![](Gorilla/Gorilla_and_Baby.jpg) 
 
   ----------------------------------------------------------------
   Scientific Name ::     Gorilla beringei graueri
@@ -74,7 +78,7 @@ title: Gorilla
   Image Use ::    [Attribution-NonCommercial-NoDerivs 2.0 Creative Commons License](http://creativecommons.org/licenses/by-nc-nd/2.0/).
   Copyright ::            © 2007 [Fred](http://flickr.com/people/51928542@N00)
   ----------------------------------------------------------------
-![](Gorilla/Gorilla057.jpg))
+![](Gorilla/Gorilla057.jpg) 
 
   -------------------------------------------------------------------------
   Scientific Name ::     Gorilla gorilla
@@ -92,17 +96,17 @@ title: Gorilla
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Gorilla](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Primates/Catarrhini/Hominidae/Gorilla.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Primates/Catarrhini/Hominidae/Gorilla|Gorilla]] 
 
-### #is_/same_as :: [Gorilla.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Primates/Catarrhini/Hominidae/Gorilla.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Primates/Catarrhini/Hominidae/Gorilla.public|Gorilla.public]] 
 
-### #is_/same_as :: [Gorilla.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Primates/Catarrhini/Hominidae/Gorilla.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Primates/Catarrhini/Hominidae/Gorilla.internal|Gorilla.internal]] 
 
-### #is_/same_as :: [Gorilla.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Primates/Catarrhini/Hominidae/Gorilla.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Primates/Catarrhini/Hominidae/Gorilla.protect|Gorilla.protect]] 
 
-### #is_/same_as :: [Gorilla.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Primates/Catarrhini/Hominidae/Gorilla.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Primates/Catarrhini/Hominidae/Gorilla.private|Gorilla.private]] 
 
-### #is_/same_as :: [Gorilla.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Primates/Catarrhini/Hominidae/Gorilla.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Primates/Catarrhini/Hominidae/Gorilla.personal|Gorilla.personal]] 
 
-### #is_/same_as :: [Gorilla.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Primates/Catarrhini/Hominidae/Gorilla.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Primates/Catarrhini/Hominidae/Gorilla.secret|Gorilla.secret]] 
 

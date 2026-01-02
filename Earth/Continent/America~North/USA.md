@@ -901,17 +901,17 @@ Sources:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [USA](/_Standards/Earth/Continent/America~North/USA.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~North/USA|USA]] 
 
-### #is_/same_as :: [USA.public](/_public/Earth/Continent/America~North/USA.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~North/USA.public|USA.public]] 
 
-### #is_/same_as :: [USA.internal](/_internal/Earth/Continent/America~North/USA.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~North/USA.internal|USA.internal]] 
 
-### #is_/same_as :: [USA.protect](/_protect/Earth/Continent/America~North/USA.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~North/USA.protect|USA.protect]] 
 
-### #is_/same_as :: [USA.private](/_private/Earth/Continent/America~North/USA.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~North/USA.private|USA.private]] 
 
-### #is_/same_as :: [USA.personal](/_personal/Earth/Continent/America~North/USA.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~North/USA.personal|USA.personal]] 
 
-### #is_/same_as :: [USA.secret](/_secret/Earth/Continent/America~North/USA.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~North/USA.secret|USA.secret]] 
 

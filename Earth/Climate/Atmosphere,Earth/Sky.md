@@ -33,17 +33,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sky](/_Standards/Earth/Climate/Atmosphere,Earth/Sky.md) 
+### #is_/same_as :: [[/_Standards/Earth/Climate/Atmosphere,Earth/Sky|Sky]] 
 
-### #is_/same_as :: [Sky.public](/_public/Earth/Climate/Atmosphere,Earth/Sky.public.md) 
+### #is_/same_as :: [[/_public/Earth/Climate/Atmosphere,Earth/Sky.public|Sky.public]] 
 
-### #is_/same_as :: [Sky.internal](/_internal/Earth/Climate/Atmosphere,Earth/Sky.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Climate/Atmosphere,Earth/Sky.internal|Sky.internal]] 
 
-### #is_/same_as :: [Sky.protect](/_protect/Earth/Climate/Atmosphere,Earth/Sky.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Climate/Atmosphere,Earth/Sky.protect|Sky.protect]] 
 
-### #is_/same_as :: [Sky.private](/_private/Earth/Climate/Atmosphere,Earth/Sky.private.md) 
+### #is_/same_as :: [[/_private/Earth/Climate/Atmosphere,Earth/Sky.private|Sky.private]] 
 
-### #is_/same_as :: [Sky.personal](/_personal/Earth/Climate/Atmosphere,Earth/Sky.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Climate/Atmosphere,Earth/Sky.personal|Sky.personal]] 
 
-### #is_/same_as :: [Sky.secret](/_secret/Earth/Climate/Atmosphere,Earth/Sky.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Climate/Atmosphere,Earth/Sky.secret|Sky.secret]] 
 

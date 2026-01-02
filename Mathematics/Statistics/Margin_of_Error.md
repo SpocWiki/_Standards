@@ -32,17 +32,17 @@ defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Margin_of_Error](/_Standards/Mathematics/Statistics/Margin_of_Error.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Statistics/Margin_of_Error|Margin_of_Error]] 
 
-### #is_/same_as :: [Margin_of_Error.public](/_public/Mathematics/Statistics/Margin_of_Error.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Statistics/Margin_of_Error.public|Margin_of_Error.public]] 
 
-### #is_/same_as :: [Margin_of_Error.internal](/_internal/Mathematics/Statistics/Margin_of_Error.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Statistics/Margin_of_Error.internal|Margin_of_Error.internal]] 
 
-### #is_/same_as :: [Margin_of_Error.protect](/_protect/Mathematics/Statistics/Margin_of_Error.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Statistics/Margin_of_Error.protect|Margin_of_Error.protect]] 
 
-### #is_/same_as :: [Margin_of_Error.private](/_private/Mathematics/Statistics/Margin_of_Error.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Statistics/Margin_of_Error.private|Margin_of_Error.private]] 
 
-### #is_/same_as :: [Margin_of_Error.personal](/_personal/Mathematics/Statistics/Margin_of_Error.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Statistics/Margin_of_Error.personal|Margin_of_Error.personal]] 
 
-### #is_/same_as :: [Margin_of_Error.secret](/_secret/Mathematics/Statistics/Margin_of_Error.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Statistics/Margin_of_Error.secret|Margin_of_Error.secret]] 
 

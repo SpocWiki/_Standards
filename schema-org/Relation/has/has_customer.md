@@ -38,17 +38,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_customer](/_Standards/schema-org/Relation/has/has_customer.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_customer|has_customer]] 
 
-### #is_/same_as :: [has_customer.public](/_public/schema-org/Relation/has/has_customer.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_customer.public|has_customer.public]] 
 
-### #is_/same_as :: [has_customer.internal](/_internal/schema-org/Relation/has/has_customer.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_customer.internal|has_customer.internal]] 
 
-### #is_/same_as :: [has_customer.protect](/_protect/schema-org/Relation/has/has_customer.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_customer.protect|has_customer.protect]] 
 
-### #is_/same_as :: [has_customer.private](/_private/schema-org/Relation/has/has_customer.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_customer.private|has_customer.private]] 
 
-### #is_/same_as :: [has_customer.personal](/_personal/schema-org/Relation/has/has_customer.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_customer.personal|has_customer.personal]] 
 
-### #is_/same_as :: [has_customer.secret](/_secret/schema-org/Relation/has/has_customer.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_customer.secret|has_customer.secret]] 
 

@@ -66,17 +66,17 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Age~4~Callovian](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic/Epoch~2~Middle_Jurassic/Age~4~Callovian.md) 
+### #is_/same_as :: [[/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic/Epoch~2~Middle_Jurassic/Age~4~Callovian|Age~4~Callovian]] 
 
-### #is_/same_as :: [Age~4~Callovian.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic/Epoch~2~Middle_Jurassic/Age~4~Callovian.public.md) 
+### #is_/same_as :: [[/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic/Epoch~2~Middle_Jurassic/Age~4~Callovian.public|Age~4~Callovian.public]] 
 
-### #is_/same_as :: [Age~4~Callovian.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic/Epoch~2~Middle_Jurassic/Age~4~Callovian.internal.md) 
+### #is_/same_as :: [[/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic/Epoch~2~Middle_Jurassic/Age~4~Callovian.internal|Age~4~Callovian.internal]] 
 
-### #is_/same_as :: [Age~4~Callovian.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic/Epoch~2~Middle_Jurassic/Age~4~Callovian.protect.md) 
+### #is_/same_as :: [[/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic/Epoch~2~Middle_Jurassic/Age~4~Callovian.protect|Age~4~Callovian.protect]] 
 
-### #is_/same_as :: [Age~4~Callovian.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic/Epoch~2~Middle_Jurassic/Age~4~Callovian.private.md) 
+### #is_/same_as :: [[/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic/Epoch~2~Middle_Jurassic/Age~4~Callovian.private|Age~4~Callovian.private]] 
 
-### #is_/same_as :: [Age~4~Callovian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic/Epoch~2~Middle_Jurassic/Age~4~Callovian.personal.md) 
+### #is_/same_as :: [[/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic/Epoch~2~Middle_Jurassic/Age~4~Callovian.personal|Age~4~Callovian.personal]] 
 
-### #is_/same_as :: [Age~4~Callovian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic/Epoch~2~Middle_Jurassic/Age~4~Callovian.secret.md)
+### #is_/same_as :: [[/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic/Epoch~2~Middle_Jurassic/Age~4~Callovian.secret|Age~4~Callovian.secret]] 
 

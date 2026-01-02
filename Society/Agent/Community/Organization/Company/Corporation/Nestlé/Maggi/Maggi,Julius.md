@@ -20,17 +20,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Maggi,Julius](/_Standards/bio/Medicine/Anatomy/Nervous_System/Maggi,Julius.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Company/Corporation/Nestlé/Maggi/Maggi,Julius|Maggi,Julius]] 
 
-### #is_/same_as :: [Maggi,Julius.public](/_public/bio/Medicine/Anatomy/Nervous_System/Maggi,Julius.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Company/Corporation/Nestlé/Maggi/Maggi,Julius.public|Maggi,Julius.public]] 
 
-### #is_/same_as :: [Maggi,Julius.internal](/_internal/bio/Medicine/Anatomy/Nervous_System/Maggi,Julius.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Company/Corporation/Nestlé/Maggi/Maggi,Julius.internal|Maggi,Julius.internal]] 
 
-### #is_/same_as :: [Maggi,Julius.protect](/_protect/bio/Medicine/Anatomy/Nervous_System/Maggi,Julius.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Company/Corporation/Nestlé/Maggi/Maggi,Julius.protect|Maggi,Julius.protect]] 
 
-### #is_/same_as :: [Maggi,Julius.private](/_private/bio/Medicine/Anatomy/Nervous_System/Maggi,Julius.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Company/Corporation/Nestlé/Maggi/Maggi,Julius.private|Maggi,Julius.private]] 
 
-### #is_/same_as :: [Maggi,Julius.personal](/_personal/bio/Medicine/Anatomy/Nervous_System/Maggi,Julius.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Company/Corporation/Nestlé/Maggi/Maggi,Julius.personal|Maggi,Julius.personal]] 
 
-### #is_/same_as :: [Maggi,Julius.secret](/_secret/bio/Medicine/Anatomy/Nervous_System/Maggi,Julius.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Company/Corporation/Nestlé/Maggi/Maggi,Julius.secret|Maggi,Julius.secret]] 
 

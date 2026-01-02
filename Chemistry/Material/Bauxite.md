@@ -59,17 +59,17 @@ OpenStreetMap_tag_or_key: Tag:resource=bauxite
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bauxite](/_Standards/Chemistry/Material/Bauxite.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Material/Bauxite|Bauxite]] 
 
-### #is_/same_as :: [Bauxite.public](/_public/Chemistry/Material/Bauxite.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Material/Bauxite.public|Bauxite.public]] 
 
-### #is_/same_as :: [Bauxite.internal](/_internal/Chemistry/Material/Bauxite.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Material/Bauxite.internal|Bauxite.internal]] 
 
-### #is_/same_as :: [Bauxite.protect](/_protect/Chemistry/Material/Bauxite.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Material/Bauxite.protect|Bauxite.protect]] 
 
-### #is_/same_as :: [Bauxite.private](/_private/Chemistry/Material/Bauxite.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Material/Bauxite.private|Bauxite.private]] 
 
-### #is_/same_as :: [Bauxite.personal](/_personal/Chemistry/Material/Bauxite.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Material/Bauxite.personal|Bauxite.personal]] 
 
-### #is_/same_as :: [Bauxite.secret](/_secret/Chemistry/Material/Bauxite.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Material/Bauxite.secret|Bauxite.secret]] 
 

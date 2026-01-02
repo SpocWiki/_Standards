@@ -61,17 +61,17 @@ MeasurementTechnique:: {"type":"Select","options":{"valuesList":{"ExampleMeasure
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~DataCatalog](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~DataCatalog.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~DataCatalog|FileClass~DataCatalog]] 
 
-### #is_/same_as :: [FileClass~DataCatalog.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~DataCatalog.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~DataCatalog.public|FileClass~DataCatalog.public]] 
 
-### #is_/same_as :: [FileClass~DataCatalog.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~DataCatalog.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~DataCatalog.internal|FileClass~DataCatalog.internal]] 
 
-### #is_/same_as :: [FileClass~DataCatalog.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~DataCatalog.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~DataCatalog.protect|FileClass~DataCatalog.protect]] 
 
-### #is_/same_as :: [FileClass~DataCatalog.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~DataCatalog.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~DataCatalog.private|FileClass~DataCatalog.private]] 
 
-### #is_/same_as :: [FileClass~DataCatalog.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~DataCatalog.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~DataCatalog.personal|FileClass~DataCatalog.personal]] 
 
-### #is_/same_as :: [FileClass~DataCatalog.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~DataCatalog.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~DataCatalog.secret|FileClass~DataCatalog.secret]] 
 

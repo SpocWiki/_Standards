@@ -60,3 +60,22 @@ Commons_category: Proton (rocket)
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Proton%20(rocket%20family)) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Technology/Spaceflight/Rocket/Proton-Rocket|Proton-Rocket]] 
+
+### #is_/same_as :: [[/_public/Technology/Spaceflight/Rocket/Proton-Rocket.public|Proton-Rocket.public]] 
+
+### #is_/same_as :: [[/_internal/Technology/Spaceflight/Rocket/Proton-Rocket.internal|Proton-Rocket.internal]] 
+
+### #is_/same_as :: [[/_protect/Technology/Spaceflight/Rocket/Proton-Rocket.protect|Proton-Rocket.protect]] 
+
+### #is_/same_as :: [[/_private/Technology/Spaceflight/Rocket/Proton-Rocket.private|Proton-Rocket.private]] 
+
+### #is_/same_as :: [[/_personal/Technology/Spaceflight/Rocket/Proton-Rocket.personal|Proton-Rocket.personal]] 
+
+### #is_/same_as :: [[/_secret/Technology/Spaceflight/Rocket/Proton-Rocket.secret|Proton-Rocket.secret]] 
+

@@ -39,17 +39,17 @@ Indicates whether this drug is available by prescription or over-the-counter.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Drug_Prescription_Status](/_Standards/bio/Medicine/Medical_Enumeration/Drug_Prescription_Status.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Enumeration/Drug_Prescription_Status|Drug_Prescription_Status]] 
 
-### #is_/same_as :: [Drug_Prescription_Status.public](/_public/bio/Medicine/Medical_Enumeration/Drug_Prescription_Status.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Enumeration/Drug_Prescription_Status.public|Drug_Prescription_Status.public]] 
 
-### #is_/same_as :: [Drug_Prescription_Status.internal](/_internal/bio/Medicine/Medical_Enumeration/Drug_Prescription_Status.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Enumeration/Drug_Prescription_Status.internal|Drug_Prescription_Status.internal]] 
 
-### #is_/same_as :: [Drug_Prescription_Status.protect](/_protect/bio/Medicine/Medical_Enumeration/Drug_Prescription_Status.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Enumeration/Drug_Prescription_Status.protect|Drug_Prescription_Status.protect]] 
 
-### #is_/same_as :: [Drug_Prescription_Status.private](/_private/bio/Medicine/Medical_Enumeration/Drug_Prescription_Status.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Enumeration/Drug_Prescription_Status.private|Drug_Prescription_Status.private]] 
 
-### #is_/same_as :: [Drug_Prescription_Status.personal](/_personal/bio/Medicine/Medical_Enumeration/Drug_Prescription_Status.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Enumeration/Drug_Prescription_Status.personal|Drug_Prescription_Status.personal]] 
 
-### #is_/same_as :: [Drug_Prescription_Status.secret](/_secret/bio/Medicine/Medical_Enumeration/Drug_Prescription_Status.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Enumeration/Drug_Prescription_Status.secret|Drug_Prescription_Status.secret]] 
 

@@ -105,17 +105,17 @@ Dewey_Decimal_Classification: "516.154"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Square](/_Standards/Mathematics/Geometry/Geometry-2D/Square.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Geometry/Geometry-2D/Square|Square]] 
 
-### #is_/same_as :: [Square.public](/_public/Mathematics/Geometry/Geometry-2D/Square.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Geometry/Geometry-2D/Square.public|Square.public]] 
 
-### #is_/same_as :: [Square.internal](/_internal/Mathematics/Geometry/Geometry-2D/Square.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Geometry/Geometry-2D/Square.internal|Square.internal]] 
 
-### #is_/same_as :: [Square.protect](/_protect/Mathematics/Geometry/Geometry-2D/Square.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Geometry/Geometry-2D/Square.protect|Square.protect]] 
 
-### #is_/same_as :: [Square.private](/_private/Mathematics/Geometry/Geometry-2D/Square.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Geometry/Geometry-2D/Square.private|Square.private]] 
 
-### #is_/same_as :: [Square.personal](/_personal/Mathematics/Geometry/Geometry-2D/Square.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Geometry/Geometry-2D/Square.personal|Square.personal]] 
 
-### #is_/same_as :: [Square.secret](/_secret/Mathematics/Geometry/Geometry-2D/Square.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Geometry/Geometry-2D/Square.secret|Square.secret]] 
 

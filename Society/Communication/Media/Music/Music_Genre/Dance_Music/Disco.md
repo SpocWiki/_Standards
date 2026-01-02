@@ -47,17 +47,17 @@ Krugosvet_article: kultura_i_obrazovanie/muzyka/DISKO.html
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Disco](/_Standards/Society/Communication/Media/Music/Music_Genre/Dance_Music/Disco.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Music_Genre/Dance_Music/Disco|Disco]] 
 
-### #is_/same_as :: [Disco.public](/_public/Society/Communication/Media/Music/Music_Genre/Dance_Music/Disco.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Music_Genre/Dance_Music/Disco.public|Disco.public]] 
 
-### #is_/same_as :: [Disco.internal](/_internal/Society/Communication/Media/Music/Music_Genre/Dance_Music/Disco.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Music_Genre/Dance_Music/Disco.internal|Disco.internal]] 
 
-### #is_/same_as :: [Disco.protect](/_protect/Society/Communication/Media/Music/Music_Genre/Dance_Music/Disco.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Music_Genre/Dance_Music/Disco.protect|Disco.protect]] 
 
-### #is_/same_as :: [Disco.private](/_private/Society/Communication/Media/Music/Music_Genre/Dance_Music/Disco.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Music_Genre/Dance_Music/Disco.private|Disco.private]] 
 
-### #is_/same_as :: [Disco.personal](/_personal/Society/Communication/Media/Music/Music_Genre/Dance_Music/Disco.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Music_Genre/Dance_Music/Disco.personal|Disco.personal]] 
 
-### #is_/same_as :: [Disco.secret](/_secret/Society/Communication/Media/Music/Music_Genre/Dance_Music/Disco.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Music_Genre/Dance_Music/Disco.secret|Disco.secret]] 
 

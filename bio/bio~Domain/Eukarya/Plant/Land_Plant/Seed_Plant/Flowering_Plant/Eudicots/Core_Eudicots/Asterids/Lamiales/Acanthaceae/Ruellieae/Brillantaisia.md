@@ -75,7 +75,7 @@ morphology probably aids in the floral movement mechcanism.
 
 
 ------------------------------------------------------------------------ 
-![Brillantasia_nyanzarum](Brillantaisia/Brillantasia_nyanzarum.jpg))
+![Brillantasia_nyanzarum](Brillantaisia/Brillantasia_nyanzarum.jpg) 
 Scientific Name ::     Brillantaisia nyanzarum Burkill (Ruellieae)
 Location ::           Greenhouse, Duke University
 Specimen Condition   Live Specimen
@@ -83,7 +83,7 @@ Identified By        E. A. Tripp
 Copyright ::            © 2006 [Erin Tripp](mailto:erin.tripp@duke.edu) 
 
 ------------------------------------- 
-![](Brillantaisia/Brillantasiaowariensis.jpg))
+![](Brillantaisia/Brillantasiaowariensis.jpg) 
 Scientific Name ::     Brillantaisia owariensis P. Beauv.
 Specimen Condition   Live Specimen
 Copyright ::            © 2003 [J. B. Carroll, M. Gage, L. Hurst & N. Maddison](http://www.rbgkew.org.uk/scihort/wta/mefou.html)
@@ -91,17 +91,17 @@ Copyright ::            © 2003 [J. B. Carroll, M. Gage, L. Hurst & N. Maddison]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Brillantaisia](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Ruellieae/Brillantaisia.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Ruellieae/Brillantaisia|Brillantaisia]] 
 
-### #is_/same_as :: [Brillantaisia.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Ruellieae/Brillantaisia.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Ruellieae/Brillantaisia.public|Brillantaisia.public]] 
 
-### #is_/same_as :: [Brillantaisia.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Ruellieae/Brillantaisia.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Ruellieae/Brillantaisia.internal|Brillantaisia.internal]] 
 
-### #is_/same_as :: [Brillantaisia.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Ruellieae/Brillantaisia.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Ruellieae/Brillantaisia.protect|Brillantaisia.protect]] 
 
-### #is_/same_as :: [Brillantaisia.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Ruellieae/Brillantaisia.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Ruellieae/Brillantaisia.private|Brillantaisia.private]] 
 
-### #is_/same_as :: [Brillantaisia.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Ruellieae/Brillantaisia.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Ruellieae/Brillantaisia.personal|Brillantaisia.personal]] 
 
-### #is_/same_as :: [Brillantaisia.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Ruellieae/Brillantaisia.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Ruellieae/Brillantaisia.secret|Brillantaisia.secret]] 
 

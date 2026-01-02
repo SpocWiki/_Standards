@@ -104,17 +104,17 @@ An event happening at a certain time and location, such as a concert, lecture, o
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Event](/_Standards/schema-org/Class/is_a_/Event.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Event|Event]] 
 
-### #is_/same_as :: [Event.public](/_public/schema-org/Class/is_a_/Event.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Event.public|Event.public]] 
 
-### #is_/same_as :: [Event.internal](/_internal/schema-org/Class/is_a_/Event.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Event.internal|Event.internal]] 
 
-### #is_/same_as :: [Event.protect](/_protect/schema-org/Class/is_a_/Event.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Event.protect|Event.protect]] 
 
-### #is_/same_as :: [Event.private](/_private/schema-org/Class/is_a_/Event.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Event.private|Event.private]] 
 
-### #is_/same_as :: [Event.personal](/_personal/schema-org/Class/is_a_/Event.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Event.personal|Event.personal]] 
 
-### #is_/same_as :: [Event.secret](/_secret/schema-org/Class/is_a_/Event.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Event.secret|Event.secret]] 
 

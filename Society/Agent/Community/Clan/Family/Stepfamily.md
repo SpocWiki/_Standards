@@ -44,17 +44,17 @@ described_at_URL: https://www.nrc.nl/nieuws/2016/05/07/hart-open-en-relax-161585
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Stepfamily](/_Standards/Society/Agent/Community/Clan/Family/Stepfamily.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Clan/Family/Stepfamily|Stepfamily]] 
 
-### #is_/same_as :: [Stepfamily.public](/_public/Society/Agent/Community/Clan/Family/Stepfamily.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Clan/Family/Stepfamily.public|Stepfamily.public]] 
 
-### #is_/same_as :: [Stepfamily.internal](/_internal/Society/Agent/Community/Clan/Family/Stepfamily.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Clan/Family/Stepfamily.internal|Stepfamily.internal]] 
 
-### #is_/same_as :: [Stepfamily.protect](/_protect/Society/Agent/Community/Clan/Family/Stepfamily.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Clan/Family/Stepfamily.protect|Stepfamily.protect]] 
 
-### #is_/same_as :: [Stepfamily.private](/_private/Society/Agent/Community/Clan/Family/Stepfamily.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Clan/Family/Stepfamily.private|Stepfamily.private]] 
 
-### #is_/same_as :: [Stepfamily.personal](/_personal/Society/Agent/Community/Clan/Family/Stepfamily.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Clan/Family/Stepfamily.personal|Stepfamily.personal]] 
 
-### #is_/same_as :: [Stepfamily.secret](/_secret/Society/Agent/Community/Clan/Family/Stepfamily.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Clan/Family/Stepfamily.secret|Stepfamily.secret]] 
 

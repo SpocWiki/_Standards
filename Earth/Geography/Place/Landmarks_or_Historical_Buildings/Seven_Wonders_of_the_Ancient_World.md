@@ -72,17 +72,17 @@ Commons_category: Seven Wonders of the Ancient World
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Seven_Wonders_of_the_Ancient_World](/_Standards/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Seven_Wonders_of_the_Ancient_World.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Seven_Wonders_of_the_Ancient_World|Seven_Wonders_of_the_Ancient_World]] 
 
-### #is_/same_as :: [Seven_Wonders_of_the_Ancient_World.public](/_public/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Seven_Wonders_of_the_Ancient_World.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Seven_Wonders_of_the_Ancient_World.public|Seven_Wonders_of_the_Ancient_World.public]] 
 
-### #is_/same_as :: [Seven_Wonders_of_the_Ancient_World.internal](/_internal/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Seven_Wonders_of_the_Ancient_World.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Seven_Wonders_of_the_Ancient_World.internal|Seven_Wonders_of_the_Ancient_World.internal]] 
 
-### #is_/same_as :: [Seven_Wonders_of_the_Ancient_World.protect](/_protect/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Seven_Wonders_of_the_Ancient_World.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Seven_Wonders_of_the_Ancient_World.protect|Seven_Wonders_of_the_Ancient_World.protect]] 
 
-### #is_/same_as :: [Seven_Wonders_of_the_Ancient_World.private](/_private/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Seven_Wonders_of_the_Ancient_World.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Seven_Wonders_of_the_Ancient_World.private|Seven_Wonders_of_the_Ancient_World.private]] 
 
-### #is_/same_as :: [Seven_Wonders_of_the_Ancient_World.personal](/_personal/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Seven_Wonders_of_the_Ancient_World.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Seven_Wonders_of_the_Ancient_World.personal|Seven_Wonders_of_the_Ancient_World.personal]] 
 
-### #is_/same_as :: [Seven_Wonders_of_the_Ancient_World.secret](/_secret/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Seven_Wonders_of_the_Ancient_World.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Seven_Wonders_of_the_Ancient_World.secret|Seven_Wonders_of_the_Ancient_World.secret]] 
 

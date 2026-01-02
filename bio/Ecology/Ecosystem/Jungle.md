@@ -38,17 +38,17 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Jungle.jpg
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Jungle](/_Standards/bio/Ecology/Ecosystem/Jungle.md) 
+### #is_/same_as :: [[/_Standards/bio/Ecology/Ecosystem/Jungle|Jungle]] 
 
-### #is_/same_as :: [Jungle.public](/_public/bio/Ecology/Ecosystem/Jungle.public.md) 
+### #is_/same_as :: [[/_public/bio/Ecology/Ecosystem/Jungle.public|Jungle.public]] 
 
-### #is_/same_as :: [Jungle.internal](/_internal/bio/Ecology/Ecosystem/Jungle.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Ecology/Ecosystem/Jungle.internal|Jungle.internal]] 
 
-### #is_/same_as :: [Jungle.protect](/_protect/bio/Ecology/Ecosystem/Jungle.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Ecology/Ecosystem/Jungle.protect|Jungle.protect]] 
 
-### #is_/same_as :: [Jungle.private](/_private/bio/Ecology/Ecosystem/Jungle.private.md) 
+### #is_/same_as :: [[/_private/bio/Ecology/Ecosystem/Jungle.private|Jungle.private]] 
 
-### #is_/same_as :: [Jungle.personal](/_personal/bio/Ecology/Ecosystem/Jungle.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Ecology/Ecosystem/Jungle.personal|Jungle.personal]] 
 
-### #is_/same_as :: [Jungle.secret](/_secret/bio/Ecology/Ecosystem/Jungle.secret.md)
+### #is_/same_as :: [[/_secret/bio/Ecology/Ecosystem/Jungle.secret|Jungle.secret]] 
 

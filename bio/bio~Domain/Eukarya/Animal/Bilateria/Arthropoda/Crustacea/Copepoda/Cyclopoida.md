@@ -5,7 +5,7 @@ title: Cyclopoida
 ---
 
 # [[Cyclopoida]] 
-![Cyclops female with egg sacs](Cyclopoida/Cyclops.jpg))
+![Cyclops female with egg sacs](Cyclopoida/Cyclops.jpg) 
 
 ## #has_/text_of_/abstract 
 
@@ -61,7 +61,7 @@ title: Cyclopoida
 ## Title Illustrations
 
 --------------------------------------------------------------------------- 
-![Cyclops female with egg sacs](Cyclopoida/Cyclops.jpg))
+![Cyclops female with egg sacs](Cyclopoida/Cyclops.jpg) 
 Scientific Name ::   Cyclops
 Creator            Photograph by Jean-François Cornuet
 Sex ::              Female
@@ -71,17 +71,17 @@ Copyright ::          © [BIODIDAC](http://biodidac.bio.uottawa.ca/index.htm)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Cyclopoida](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Copepoda/Cyclopoida.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Copepoda/Cyclopoida|Cyclopoida]] 
 
-### #is_/same_as :: [Cyclopoida.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Copepoda/Cyclopoida.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Copepoda/Cyclopoida.public|Cyclopoida.public]] 
 
-### #is_/same_as :: [Cyclopoida.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Copepoda/Cyclopoida.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Copepoda/Cyclopoida.internal|Cyclopoida.internal]] 
 
-### #is_/same_as :: [Cyclopoida.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Copepoda/Cyclopoida.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Copepoda/Cyclopoida.protect|Cyclopoida.protect]] 
 
-### #is_/same_as :: [Cyclopoida.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Copepoda/Cyclopoida.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Copepoda/Cyclopoida.private|Cyclopoida.private]] 
 
-### #is_/same_as :: [Cyclopoida.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Copepoda/Cyclopoida.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Copepoda/Cyclopoida.personal|Cyclopoida.personal]] 
 
-### #is_/same_as :: [Cyclopoida.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Copepoda/Cyclopoida.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Copepoda/Cyclopoida.secret|Cyclopoida.secret]] 
 

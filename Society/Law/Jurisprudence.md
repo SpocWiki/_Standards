@@ -70,17 +70,17 @@ native_label: jūris prūdentia
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Jurisprudence](/_Standards/Society/Law/Jurisprudence.md) 
+### #is_/same_as :: [[/_Standards/Society/Law/Jurisprudence|Jurisprudence]] 
 
-### #is_/same_as :: [Jurisprudence.public](/_public/Society/Law/Jurisprudence.public.md) 
+### #is_/same_as :: [[/_public/Society/Law/Jurisprudence.public|Jurisprudence.public]] 
 
-### #is_/same_as :: [Jurisprudence.internal](/_internal/Society/Law/Jurisprudence.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Law/Jurisprudence.internal|Jurisprudence.internal]] 
 
-### #is_/same_as :: [Jurisprudence.protect](/_protect/Society/Law/Jurisprudence.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Law/Jurisprudence.protect|Jurisprudence.protect]] 
 
-### #is_/same_as :: [Jurisprudence.private](/_private/Society/Law/Jurisprudence.private.md) 
+### #is_/same_as :: [[/_private/Society/Law/Jurisprudence.private|Jurisprudence.private]] 
 
-### #is_/same_as :: [Jurisprudence.personal](/_personal/Society/Law/Jurisprudence.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Law/Jurisprudence.personal|Jurisprudence.personal]] 
 
-### #is_/same_as :: [Jurisprudence.secret](/_secret/Society/Law/Jurisprudence.secret.md)
+### #is_/same_as :: [[/_secret/Society/Law/Jurisprudence.secret|Jurisprudence.secret]] 
 

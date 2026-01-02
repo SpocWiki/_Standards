@@ -16,17 +16,17 @@ because there are multiple Grammars that generate the same Language.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Context-free_language](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Context-free_language.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Context-free_language|Context-free_language]] 
 
-### #is_/same_as :: [Context-free_language.public](/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Context-free_language.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Context-free_language.public|Context-free_language.public]] 
 
-### #is_/same_as :: [Context-free_language.internal](/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Context-free_language.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Context-free_language.internal|Context-free_language.internal]] 
 
-### #is_/same_as :: [Context-free_language.protect](/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Context-free_language.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Context-free_language.protect|Context-free_language.protect]] 
 
-### #is_/same_as :: [Context-free_language.private](/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Context-free_language.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Context-free_language.private|Context-free_language.private]] 
 
-### #is_/same_as :: [Context-free_language.personal](/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Context-free_language.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Context-free_language.personal|Context-free_language.personal]] 
 
-### #is_/same_as :: [Context-free_language.secret](/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Context-free_language.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Context-free_language.secret|Context-free_language.secret]] 
 

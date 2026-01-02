@@ -46,17 +46,17 @@ Commons_category: Plant hormones
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Plant_Hormone](/_Standards/bio/Botany/Plant_Anatomy/Plant_Hormone.md) 
+### #is_/same_as :: [[/_Standards/bio/Botany/Plant_Anatomy/Plant_Hormone|Plant_Hormone]] 
 
-### #is_/same_as :: [Plant_Hormone.public](/_public/bio/Botany/Plant_Anatomy/Plant_Hormone.public.md) 
+### #is_/same_as :: [[/_public/bio/Botany/Plant_Anatomy/Plant_Hormone.public|Plant_Hormone.public]] 
 
-### #is_/same_as :: [Plant_Hormone.internal](/_internal/bio/Botany/Plant_Anatomy/Plant_Hormone.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Botany/Plant_Anatomy/Plant_Hormone.internal|Plant_Hormone.internal]] 
 
-### #is_/same_as :: [Plant_Hormone.protect](/_protect/bio/Botany/Plant_Anatomy/Plant_Hormone.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Botany/Plant_Anatomy/Plant_Hormone.protect|Plant_Hormone.protect]] 
 
-### #is_/same_as :: [Plant_Hormone.private](/_private/bio/Botany/Plant_Anatomy/Plant_Hormone.private.md) 
+### #is_/same_as :: [[/_private/bio/Botany/Plant_Anatomy/Plant_Hormone.private|Plant_Hormone.private]] 
 
-### #is_/same_as :: [Plant_Hormone.personal](/_personal/bio/Botany/Plant_Anatomy/Plant_Hormone.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Botany/Plant_Anatomy/Plant_Hormone.personal|Plant_Hormone.personal]] 
 
-### #is_/same_as :: [Plant_Hormone.secret](/_secret/bio/Botany/Plant_Anatomy/Plant_Hormone.secret.md)
+### #is_/same_as :: [[/_secret/bio/Botany/Plant_Anatomy/Plant_Hormone.secret|Plant_Hormone.secret]] 
 

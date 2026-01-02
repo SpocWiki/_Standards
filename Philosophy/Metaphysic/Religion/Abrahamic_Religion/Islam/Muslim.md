@@ -126,17 +126,17 @@ Iconclass_notation: 12I24
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Muslim](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Muslim.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Muslim|Muslim]] 
 
-### #is_/same_as :: [Muslim.public](/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Muslim.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Muslim.public|Muslim.public]] 
 
-### #is_/same_as :: [Muslim.internal](/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Muslim.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Muslim.internal|Muslim.internal]] 
 
-### #is_/same_as :: [Muslim.protect](/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Muslim.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Muslim.protect|Muslim.protect]] 
 
-### #is_/same_as :: [Muslim.private](/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Muslim.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Muslim.private|Muslim.private]] 
 
-### #is_/same_as :: [Muslim.personal](/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Muslim.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Muslim.personal|Muslim.personal]] 
 
-### #is_/same_as :: [Muslim.secret](/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Muslim.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Muslim.secret|Muslim.secret]] 
 

@@ -42,17 +42,17 @@ The payment has been received and processed.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Payment_Complete](/_Standards/schema-org/Enumeration/Status_Enumeration/Payment_Status_Type/Payment_Complete.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Status_Enumeration/Payment_Status_Type/Payment_Complete|Payment_Complete]] 
 
-### #is_/same_as :: [Payment_Complete.public](/_public/schema-org/Enumeration/Status_Enumeration/Payment_Status_Type/Payment_Complete.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Status_Enumeration/Payment_Status_Type/Payment_Complete.public|Payment_Complete.public]] 
 
-### #is_/same_as :: [Payment_Complete.internal](/_internal/schema-org/Enumeration/Status_Enumeration/Payment_Status_Type/Payment_Complete.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Status_Enumeration/Payment_Status_Type/Payment_Complete.internal|Payment_Complete.internal]] 
 
-### #is_/same_as :: [Payment_Complete.protect](/_protect/schema-org/Enumeration/Status_Enumeration/Payment_Status_Type/Payment_Complete.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Status_Enumeration/Payment_Status_Type/Payment_Complete.protect|Payment_Complete.protect]] 
 
-### #is_/same_as :: [Payment_Complete.private](/_private/schema-org/Enumeration/Status_Enumeration/Payment_Status_Type/Payment_Complete.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Status_Enumeration/Payment_Status_Type/Payment_Complete.private|Payment_Complete.private]] 
 
-### #is_/same_as :: [Payment_Complete.personal](/_personal/schema-org/Enumeration/Status_Enumeration/Payment_Status_Type/Payment_Complete.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Status_Enumeration/Payment_Status_Type/Payment_Complete.personal|Payment_Complete.personal]] 
 
-### #is_/same_as :: [Payment_Complete.secret](/_secret/schema-org/Enumeration/Status_Enumeration/Payment_Status_Type/Payment_Complete.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Status_Enumeration/Payment_Status_Type/Payment_Complete.secret|Payment_Complete.secret]] 
 

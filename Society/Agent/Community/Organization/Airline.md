@@ -39,17 +39,17 @@ An organization that provides flights for passengers.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Airline](/_Standards/Society/Agent/Community/Organization/Airline.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Airline|Airline]] 
 
-### #is_/same_as :: [Airline.public](/_public/Society/Agent/Community/Organization/Airline.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Airline.public|Airline.public]] 
 
-### #is_/same_as :: [Airline.internal](/_internal/Society/Agent/Community/Organization/Airline.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Airline.internal|Airline.internal]] 
 
-### #is_/same_as :: [Airline.protect](/_protect/Society/Agent/Community/Organization/Airline.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Airline.protect|Airline.protect]] 
 
-### #is_/same_as :: [Airline.private](/_private/Society/Agent/Community/Organization/Airline.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Airline.private|Airline.private]] 
 
-### #is_/same_as :: [Airline.personal](/_personal/Society/Agent/Community/Organization/Airline.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Airline.personal|Airline.personal]] 
 
-### #is_/same_as :: [Airline.secret](/_secret/Society/Agent/Community/Organization/Airline.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Airline.secret|Airline.secret]] 
 

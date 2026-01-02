@@ -34,17 +34,17 @@ Commons_category: Polyols
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Polyol](/_Standards/Chemistry/Organic_Chemistry/Alcohol/Polyol.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Organic_Chemistry/Alcohol/Polyol|Polyol]] 
 
-### #is_/same_as :: [Polyol.public](/_public/Chemistry/Organic_Chemistry/Alcohol/Polyol.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Organic_Chemistry/Alcohol/Polyol.public|Polyol.public]] 
 
-### #is_/same_as :: [Polyol.internal](/_internal/Chemistry/Organic_Chemistry/Alcohol/Polyol.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Organic_Chemistry/Alcohol/Polyol.internal|Polyol.internal]] 
 
-### #is_/same_as :: [Polyol.protect](/_protect/Chemistry/Organic_Chemistry/Alcohol/Polyol.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Organic_Chemistry/Alcohol/Polyol.protect|Polyol.protect]] 
 
-### #is_/same_as :: [Polyol.private](/_private/Chemistry/Organic_Chemistry/Alcohol/Polyol.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Organic_Chemistry/Alcohol/Polyol.private|Polyol.private]] 
 
-### #is_/same_as :: [Polyol.personal](/_personal/Chemistry/Organic_Chemistry/Alcohol/Polyol.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Organic_Chemistry/Alcohol/Polyol.personal|Polyol.personal]] 
 
-### #is_/same_as :: [Polyol.secret](/_secret/Chemistry/Organic_Chemistry/Alcohol/Polyol.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Organic_Chemistry/Alcohol/Polyol.secret|Polyol.secret]] 
 

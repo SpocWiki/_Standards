@@ -51,17 +51,17 @@ Commons_category: Hebrew calendar
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hebrew_Calendar](/_Standards/ISO/Calendar/Hebrew_Calendar.md) 
+### #is_/same_as :: [[/_Standards/ISO/Calendar/Hebrew_Calendar|Hebrew_Calendar]] 
 
-### #is_/same_as :: [Hebrew_Calendar.public](/_public/ISO/Calendar/Hebrew_Calendar.public.md) 
+### #is_/same_as :: [[/_public/ISO/Calendar/Hebrew_Calendar.public|Hebrew_Calendar.public]] 
 
-### #is_/same_as :: [Hebrew_Calendar.internal](/_internal/ISO/Calendar/Hebrew_Calendar.internal.md) 
+### #is_/same_as :: [[/_internal/ISO/Calendar/Hebrew_Calendar.internal|Hebrew_Calendar.internal]] 
 
-### #is_/same_as :: [Hebrew_Calendar.protect](/_protect/ISO/Calendar/Hebrew_Calendar.protect.md) 
+### #is_/same_as :: [[/_protect/ISO/Calendar/Hebrew_Calendar.protect|Hebrew_Calendar.protect]] 
 
-### #is_/same_as :: [Hebrew_Calendar.private](/_private/ISO/Calendar/Hebrew_Calendar.private.md) 
+### #is_/same_as :: [[/_private/ISO/Calendar/Hebrew_Calendar.private|Hebrew_Calendar.private]] 
 
-### #is_/same_as :: [Hebrew_Calendar.personal](/_personal/ISO/Calendar/Hebrew_Calendar.personal.md) 
+### #is_/same_as :: [[/_personal/ISO/Calendar/Hebrew_Calendar.personal|Hebrew_Calendar.personal]] 
 
-### #is_/same_as :: [Hebrew_Calendar.secret](/_secret/ISO/Calendar/Hebrew_Calendar.secret.md)
+### #is_/same_as :: [[/_secret/ISO/Calendar/Hebrew_Calendar.secret|Hebrew_Calendar.secret]] 
 

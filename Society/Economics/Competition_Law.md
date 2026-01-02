@@ -73,17 +73,17 @@ Commons_category: Competition law
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Competition_Law](/_Standards/Society/Economics/Competition_Law.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Competition_Law|Competition_Law]] 
 
-### #is_/same_as :: [Competition_Law.public](/_public/Society/Economics/Competition_Law.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Competition_Law.public|Competition_Law.public]] 
 
-### #is_/same_as :: [Competition_Law.internal](/_internal/Society/Economics/Competition_Law.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Competition_Law.internal|Competition_Law.internal]] 
 
-### #is_/same_as :: [Competition_Law.protect](/_protect/Society/Economics/Competition_Law.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Competition_Law.protect|Competition_Law.protect]] 
 
-### #is_/same_as :: [Competition_Law.private](/_private/Society/Economics/Competition_Law.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Competition_Law.private|Competition_Law.private]] 
 
-### #is_/same_as :: [Competition_Law.personal](/_personal/Society/Economics/Competition_Law.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Competition_Law.personal|Competition_Law.personal]] 
 
-### #is_/same_as :: [Competition_Law.secret](/_secret/Society/Economics/Competition_Law.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Competition_Law.secret|Competition_Law.secret]] 
 

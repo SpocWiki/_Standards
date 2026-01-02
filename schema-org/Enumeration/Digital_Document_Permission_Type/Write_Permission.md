@@ -42,17 +42,17 @@ Permission to write or edit the document.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Write_Permission](/_Standards/schema-org/Enumeration/Digital_Document_Permission_Type/Write_Permission.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Digital_Document_Permission_Type/Write_Permission|Write_Permission]] 
 
-### #is_/same_as :: [Write_Permission.public](/_public/schema-org/Enumeration/Digital_Document_Permission_Type/Write_Permission.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Digital_Document_Permission_Type/Write_Permission.public|Write_Permission.public]] 
 
-### #is_/same_as :: [Write_Permission.internal](/_internal/schema-org/Enumeration/Digital_Document_Permission_Type/Write_Permission.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Digital_Document_Permission_Type/Write_Permission.internal|Write_Permission.internal]] 
 
-### #is_/same_as :: [Write_Permission.protect](/_protect/schema-org/Enumeration/Digital_Document_Permission_Type/Write_Permission.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Digital_Document_Permission_Type/Write_Permission.protect|Write_Permission.protect]] 
 
-### #is_/same_as :: [Write_Permission.private](/_private/schema-org/Enumeration/Digital_Document_Permission_Type/Write_Permission.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Digital_Document_Permission_Type/Write_Permission.private|Write_Permission.private]] 
 
-### #is_/same_as :: [Write_Permission.personal](/_personal/schema-org/Enumeration/Digital_Document_Permission_Type/Write_Permission.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Digital_Document_Permission_Type/Write_Permission.personal|Write_Permission.personal]] 
 
-### #is_/same_as :: [Write_Permission.secret](/_secret/schema-org/Enumeration/Digital_Document_Permission_Type/Write_Permission.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Digital_Document_Permission_Type/Write_Permission.secret|Write_Permission.secret]] 
 

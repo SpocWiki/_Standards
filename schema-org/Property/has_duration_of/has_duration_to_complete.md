@@ -44,17 +44,17 @@ Formal Predicate:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_duration_to_complete](/_Standards/schema-org/Property/has_duration_of/has_duration_to_complete.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_duration_of/has_duration_to_complete|has_duration_to_complete]] 
 
-### #is_/same_as :: [has_duration_to_complete.public](/_public/schema-org/Property/has_duration_of/has_duration_to_complete.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/has_duration_of/has_duration_to_complete.public|has_duration_to_complete.public]] 
 
-### #is_/same_as :: [has_duration_to_complete.internal](/_internal/schema-org/Property/has_duration_of/has_duration_to_complete.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_duration_of/has_duration_to_complete.internal|has_duration_to_complete.internal]] 
 
-### #is_/same_as :: [has_duration_to_complete.protect](/_protect/schema-org/Property/has_duration_of/has_duration_to_complete.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_duration_of/has_duration_to_complete.protect|has_duration_to_complete.protect]] 
 
-### #is_/same_as :: [has_duration_to_complete.private](/_private/schema-org/Property/has_duration_of/has_duration_to_complete.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/has_duration_of/has_duration_to_complete.private|has_duration_to_complete.private]] 
 
-### #is_/same_as :: [has_duration_to_complete.personal](/_personal/schema-org/Property/has_duration_of/has_duration_to_complete.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_duration_of/has_duration_to_complete.personal|has_duration_to_complete.personal]] 
 
-### #is_/same_as :: [has_duration_to_complete.secret](/_secret/schema-org/Property/has_duration_of/has_duration_to_complete.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/has_duration_of/has_duration_to_complete.secret|has_duration_to_complete.secret]] 
 

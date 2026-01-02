@@ -55,17 +55,17 @@ Dewey_Decimal_Classification: "786.843"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Xylophone](/_Standards/Society/Communication/Media/Music/Musical_Instrument/Percussion_Instrument/Xylophone.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Musical_Instrument/Percussion_Instrument/Xylophone|Xylophone]] 
 
-### #is_/same_as :: [Xylophone.public](/_public/Society/Communication/Media/Music/Musical_Instrument/Percussion_Instrument/Xylophone.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Musical_Instrument/Percussion_Instrument/Xylophone.public|Xylophone.public]] 
 
-### #is_/same_as :: [Xylophone.internal](/_internal/Society/Communication/Media/Music/Musical_Instrument/Percussion_Instrument/Xylophone.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Musical_Instrument/Percussion_Instrument/Xylophone.internal|Xylophone.internal]] 
 
-### #is_/same_as :: [Xylophone.protect](/_protect/Society/Communication/Media/Music/Musical_Instrument/Percussion_Instrument/Xylophone.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Musical_Instrument/Percussion_Instrument/Xylophone.protect|Xylophone.protect]] 
 
-### #is_/same_as :: [Xylophone.private](/_private/Society/Communication/Media/Music/Musical_Instrument/Percussion_Instrument/Xylophone.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Musical_Instrument/Percussion_Instrument/Xylophone.private|Xylophone.private]] 
 
-### #is_/same_as :: [Xylophone.personal](/_personal/Society/Communication/Media/Music/Musical_Instrument/Percussion_Instrument/Xylophone.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Musical_Instrument/Percussion_Instrument/Xylophone.personal|Xylophone.personal]] 
 
-### #is_/same_as :: [Xylophone.secret](/_secret/Society/Communication/Media/Music/Musical_Instrument/Percussion_Instrument/Xylophone.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Musical_Instrument/Percussion_Instrument/Xylophone.secret|Xylophone.secret]] 
 

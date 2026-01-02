@@ -44,17 +44,17 @@ OfflineEventAttendanceMode - an event that is primarily conducted offline.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Offline_Event_Attendance_Mode](/_Standards/schema-org/Enumeration/Event_Attendance_Mode_Enumeration/Offline_Event_Attendance_Mode.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Event_Attendance_Mode_Enumeration/Offline_Event_Attendance_Mode|Offline_Event_Attendance_Mode]] 
 
-### #is_/same_as :: [Offline_Event_Attendance_Mode.public](/_public/schema-org/Enumeration/Event_Attendance_Mode_Enumeration/Offline_Event_Attendance_Mode.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Event_Attendance_Mode_Enumeration/Offline_Event_Attendance_Mode.public|Offline_Event_Attendance_Mode.public]] 
 
-### #is_/same_as :: [Offline_Event_Attendance_Mode.internal](/_internal/schema-org/Enumeration/Event_Attendance_Mode_Enumeration/Offline_Event_Attendance_Mode.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Event_Attendance_Mode_Enumeration/Offline_Event_Attendance_Mode.internal|Offline_Event_Attendance_Mode.internal]] 
 
-### #is_/same_as :: [Offline_Event_Attendance_Mode.protect](/_protect/schema-org/Enumeration/Event_Attendance_Mode_Enumeration/Offline_Event_Attendance_Mode.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Event_Attendance_Mode_Enumeration/Offline_Event_Attendance_Mode.protect|Offline_Event_Attendance_Mode.protect]] 
 
-### #is_/same_as :: [Offline_Event_Attendance_Mode.private](/_private/schema-org/Enumeration/Event_Attendance_Mode_Enumeration/Offline_Event_Attendance_Mode.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Event_Attendance_Mode_Enumeration/Offline_Event_Attendance_Mode.private|Offline_Event_Attendance_Mode.private]] 
 
-### #is_/same_as :: [Offline_Event_Attendance_Mode.personal](/_personal/schema-org/Enumeration/Event_Attendance_Mode_Enumeration/Offline_Event_Attendance_Mode.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Event_Attendance_Mode_Enumeration/Offline_Event_Attendance_Mode.personal|Offline_Event_Attendance_Mode.personal]] 
 
-### #is_/same_as :: [Offline_Event_Attendance_Mode.secret](/_secret/schema-org/Enumeration/Event_Attendance_Mode_Enumeration/Offline_Event_Attendance_Mode.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Event_Attendance_Mode_Enumeration/Offline_Event_Attendance_Mode.secret|Offline_Event_Attendance_Mode.secret]] 
 

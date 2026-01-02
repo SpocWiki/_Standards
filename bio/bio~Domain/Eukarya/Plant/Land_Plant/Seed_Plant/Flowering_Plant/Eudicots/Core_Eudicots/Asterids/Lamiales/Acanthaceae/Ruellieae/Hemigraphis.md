@@ -86,13 +86,13 @@ several small, segregate genera of Strobilanthinae (sensu Bremekamp
 
 
 ------------------------------------- 
-![](Hemigraphis/Hemigraphisalternata.jpg))
+![](Hemigraphis/Hemigraphisalternata.jpg) 
 Scientific Name ::     Hemigraphis alternata T.Anders.
 Specimen Condition   Live Specimen
 Copyright ::            © [Missouri Botanical Garden (MO)](http://www.mobot.org/gardeninghelp/plantfinder/Plant.asp?Code=A514)
 
 ------------------------- 
-![Hemigraphis_repanda](Hemigraphis/Hemigraphis_repanda.jpg))
+![Hemigraphis_repanda](Hemigraphis/Hemigraphis_repanda.jpg) 
 Scientific Name ::     Hemigraphis repanda Lindau
 Specimen Condition   Live Specimen
 Copyright ::            © 2005 [www.akva.sk](http://www.shop.akva.sk/index.php?cPath=32)
@@ -100,17 +100,17 @@ Copyright ::            © 2005 [www.akva.sk](http://www.shop.akva.sk/index.php?
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hemigraphis](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Ruellieae/Hemigraphis.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Ruellieae/Hemigraphis|Hemigraphis]] 
 
-### #is_/same_as :: [Hemigraphis.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Ruellieae/Hemigraphis.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Ruellieae/Hemigraphis.public|Hemigraphis.public]] 
 
-### #is_/same_as :: [Hemigraphis.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Ruellieae/Hemigraphis.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Ruellieae/Hemigraphis.internal|Hemigraphis.internal]] 
 
-### #is_/same_as :: [Hemigraphis.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Ruellieae/Hemigraphis.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Ruellieae/Hemigraphis.protect|Hemigraphis.protect]] 
 
-### #is_/same_as :: [Hemigraphis.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Ruellieae/Hemigraphis.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Ruellieae/Hemigraphis.private|Hemigraphis.private]] 
 
-### #is_/same_as :: [Hemigraphis.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Ruellieae/Hemigraphis.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Ruellieae/Hemigraphis.personal|Hemigraphis.personal]] 
 
-### #is_/same_as :: [Hemigraphis.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Ruellieae/Hemigraphis.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Ruellieae/Hemigraphis.secret|Hemigraphis.secret]] 
 

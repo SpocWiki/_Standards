@@ -167,7 +167,7 @@ tropical and subtropical regions of the world\'s oceans (Nesis, 1982).
 ## Title Illustrations
 
 ------------------------------------------------------------------------------- 
-![](Vitreledonellidae/Vitreledonella.JPG))
+![](Vitreledonellidae/Vitreledonella.JPG) 
 Scientific Name ::  Vitreledonellidae
 Location ::        off Hawaii
 Sex ::             Male
@@ -176,17 +176,17 @@ Copyright ::         © 1996 [Richard E. Young](http://www.soest.hawaii.edu/%7Er
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Vitreledonellidae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Incirrata/Vitreledonellidae.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Incirrata/Vitreledonellidae|Vitreledonellidae]] 
 
-### #is_/same_as :: [Vitreledonellidae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Incirrata/Vitreledonellidae.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Incirrata/Vitreledonellidae.public|Vitreledonellidae.public]] 
 
-### #is_/same_as :: [Vitreledonellidae.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Incirrata/Vitreledonellidae.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Incirrata/Vitreledonellidae.internal|Vitreledonellidae.internal]] 
 
-### #is_/same_as :: [Vitreledonellidae.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Incirrata/Vitreledonellidae.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Incirrata/Vitreledonellidae.protect|Vitreledonellidae.protect]] 
 
-### #is_/same_as :: [Vitreledonellidae.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Incirrata/Vitreledonellidae.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Incirrata/Vitreledonellidae.private|Vitreledonellidae.private]] 
 
-### #is_/same_as :: [Vitreledonellidae.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Incirrata/Vitreledonellidae.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Incirrata/Vitreledonellidae.personal|Vitreledonellidae.personal]] 
 
-### #is_/same_as :: [Vitreledonellidae.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Incirrata/Vitreledonellidae.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Incirrata/Vitreledonellidae.secret|Vitreledonellidae.secret]] 
 

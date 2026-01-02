@@ -55,17 +55,17 @@ compared to a true [[Scalar]] or [[../Algebra/Linear_Algebra/Vector_Space/Tensor
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Pseudo-Vector](/_Standards/Mathematics/Geometry/Pseudo-Vector.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Geometry/Pseudo-Vector|Pseudo-Vector]] 
 
-### #is_/same_as :: [Pseudo-Vector.public](/_public/Mathematics/Geometry/Pseudo-Vector.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Geometry/Pseudo-Vector.public|Pseudo-Vector.public]] 
 
-### #is_/same_as :: [Pseudo-Vector.internal](/_internal/Mathematics/Geometry/Pseudo-Vector.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Geometry/Pseudo-Vector.internal|Pseudo-Vector.internal]] 
 
-### #is_/same_as :: [Pseudo-Vector.protect](/_protect/Mathematics/Geometry/Pseudo-Vector.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Geometry/Pseudo-Vector.protect|Pseudo-Vector.protect]] 
 
-### #is_/same_as :: [Pseudo-Vector.private](/_private/Mathematics/Geometry/Pseudo-Vector.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Geometry/Pseudo-Vector.private|Pseudo-Vector.private]] 
 
-### #is_/same_as :: [Pseudo-Vector.personal](/_personal/Mathematics/Geometry/Pseudo-Vector.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Geometry/Pseudo-Vector.personal|Pseudo-Vector.personal]] 
 
-### #is_/same_as :: [Pseudo-Vector.secret](/_secret/Mathematics/Geometry/Pseudo-Vector.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Geometry/Pseudo-Vector.secret|Pseudo-Vector.secret]] 
 

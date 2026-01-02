@@ -31,3 +31,22 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Midge) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Diptera/Nematocera/Midge|Midge]] 
+
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Diptera/Nematocera/Midge.public|Midge.public]] 
+
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Diptera/Nematocera/Midge.internal|Midge.internal]] 
+
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Diptera/Nematocera/Midge.protect|Midge.protect]] 
+
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Diptera/Nematocera/Midge.private|Midge.private]] 
+
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Diptera/Nematocera/Midge.personal|Midge.personal]] 
+
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Diptera/Nematocera/Midge.secret|Midge.secret]] 
+

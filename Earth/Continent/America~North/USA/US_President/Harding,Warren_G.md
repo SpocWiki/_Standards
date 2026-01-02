@@ -34,17 +34,17 @@ type: private_note
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Harding,Warren_G](/_Standards/Earth/Continent/America~North/US~President/Harding,Warren_G.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~North/USA/US_President/Harding,Warren_G|Harding,Warren_G]] 
 
-### #is_/same_as :: [Harding,Warren_G.public](/_public/Earth/Continent/America~North/US~President/Harding,Warren_G.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~North/USA/US_President/Harding,Warren_G.public|Harding,Warren_G.public]] 
 
-### #is_/same_as :: [Harding,Warren_G.internal](/_internal/Earth/Continent/America~North/US~President/Harding,Warren_G.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~North/USA/US_President/Harding,Warren_G.internal|Harding,Warren_G.internal]] 
 
-### #is_/same_as :: [Harding,Warren_G.protect](/_protect/Earth/Continent/America~North/US~President/Harding,Warren_G.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~North/USA/US_President/Harding,Warren_G.protect|Harding,Warren_G.protect]] 
 
-### #is_/same_as :: [Harding,Warren_G.private](/_private/Earth/Continent/America~North/US~President/Harding,Warren_G.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~North/USA/US_President/Harding,Warren_G.private|Harding,Warren_G.private]] 
 
-### #is_/same_as :: [Harding,Warren_G.personal](/_personal/Earth/Continent/America~North/US~President/Harding,Warren_G.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~North/USA/US_President/Harding,Warren_G.personal|Harding,Warren_G.personal]] 
 
-### #is_/same_as :: [Harding,Warren_G.secret](/_secret/Earth/Continent/America~North/US~President/Harding,Warren_G.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~North/USA/US_President/Harding,Warren_G.secret|Harding,Warren_G.secret]] 
 

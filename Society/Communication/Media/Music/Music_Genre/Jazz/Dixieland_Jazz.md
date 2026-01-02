@@ -27,17 +27,17 @@ inception: 1910-01-01T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Dixieland_Jazz](/_Standards/Society/Communication/Media/Music/Music_Genre/Jazz/Dixieland_Jazz.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Music_Genre/Jazz/Dixieland_Jazz|Dixieland_Jazz]] 
 
-### #is_/same_as :: [Dixieland_Jazz.public](/_public/Society/Communication/Media/Music/Music_Genre/Jazz/Dixieland_Jazz.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Music_Genre/Jazz/Dixieland_Jazz.public|Dixieland_Jazz.public]] 
 
-### #is_/same_as :: [Dixieland_Jazz.internal](/_internal/Society/Communication/Media/Music/Music_Genre/Jazz/Dixieland_Jazz.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Music_Genre/Jazz/Dixieland_Jazz.internal|Dixieland_Jazz.internal]] 
 
-### #is_/same_as :: [Dixieland_Jazz.protect](/_protect/Society/Communication/Media/Music/Music_Genre/Jazz/Dixieland_Jazz.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Music_Genre/Jazz/Dixieland_Jazz.protect|Dixieland_Jazz.protect]] 
 
-### #is_/same_as :: [Dixieland_Jazz.private](/_private/Society/Communication/Media/Music/Music_Genre/Jazz/Dixieland_Jazz.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Music_Genre/Jazz/Dixieland_Jazz.private|Dixieland_Jazz.private]] 
 
-### #is_/same_as :: [Dixieland_Jazz.personal](/_personal/Society/Communication/Media/Music/Music_Genre/Jazz/Dixieland_Jazz.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Music_Genre/Jazz/Dixieland_Jazz.personal|Dixieland_Jazz.personal]] 
 
-### #is_/same_as :: [Dixieland_Jazz.secret](/_secret/Society/Communication/Media/Music/Music_Genre/Jazz/Dixieland_Jazz.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Music_Genre/Jazz/Dixieland_Jazz.secret|Dixieland_Jazz.secret]] 
 

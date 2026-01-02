@@ -45,17 +45,17 @@ Krugosvet_article_archived_:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Theater_of_ancient_Greece](/_Standards/Society/Communication/Media/Performing_Arts/Theater/Theater_of_ancient_Greece.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Performing_Arts/Theater/Theater_of_ancient_Greece|Theater_of_ancient_Greece]] 
 
-### #is_/same_as :: [Theater_of_ancient_Greece.public](/_public/Society/Communication/Media/Performing_Arts/Theater/Theater_of_ancient_Greece.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Performing_Arts/Theater/Theater_of_ancient_Greece.public|Theater_of_ancient_Greece.public]] 
 
-### #is_/same_as :: [Theater_of_ancient_Greece.internal](/_internal/Society/Communication/Media/Performing_Arts/Theater/Theater_of_ancient_Greece.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Performing_Arts/Theater/Theater_of_ancient_Greece.internal|Theater_of_ancient_Greece.internal]] 
 
-### #is_/same_as :: [Theater_of_ancient_Greece.protect](/_protect/Society/Communication/Media/Performing_Arts/Theater/Theater_of_ancient_Greece.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Performing_Arts/Theater/Theater_of_ancient_Greece.protect|Theater_of_ancient_Greece.protect]] 
 
-### #is_/same_as :: [Theater_of_ancient_Greece.private](/_private/Society/Communication/Media/Performing_Arts/Theater/Theater_of_ancient_Greece.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Performing_Arts/Theater/Theater_of_ancient_Greece.private|Theater_of_ancient_Greece.private]] 
 
-### #is_/same_as :: [Theater_of_ancient_Greece.personal](/_personal/Society/Communication/Media/Performing_Arts/Theater/Theater_of_ancient_Greece.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Performing_Arts/Theater/Theater_of_ancient_Greece.personal|Theater_of_ancient_Greece.personal]] 
 
-### #is_/same_as :: [Theater_of_ancient_Greece.secret](/_secret/Society/Communication/Media/Performing_Arts/Theater/Theater_of_ancient_Greece.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Performing_Arts/Theater/Theater_of_ancient_Greece.secret|Theater_of_ancient_Greece.secret]] 
 

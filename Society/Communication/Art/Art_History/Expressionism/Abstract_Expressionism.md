@@ -33,17 +33,17 @@ subclass_of: '[[_Standards/WikiData/WD~abstract_art,128115]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Abstract_Expressionism](/_Standards/Society/Communication/Art/Art_History/Expressionism/Abstract_Expressionism.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Art/Art_History/Expressionism/Abstract_Expressionism|Abstract_Expressionism]] 
 
-### #is_/same_as :: [Abstract_Expressionism.public](/_public/Society/Communication/Art/Art_History/Expressionism/Abstract_Expressionism.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Art/Art_History/Expressionism/Abstract_Expressionism.public|Abstract_Expressionism.public]] 
 
-### #is_/same_as :: [Abstract_Expressionism.internal](/_internal/Society/Communication/Art/Art_History/Expressionism/Abstract_Expressionism.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Art/Art_History/Expressionism/Abstract_Expressionism.internal|Abstract_Expressionism.internal]] 
 
-### #is_/same_as :: [Abstract_Expressionism.protect](/_protect/Society/Communication/Art/Art_History/Expressionism/Abstract_Expressionism.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Art/Art_History/Expressionism/Abstract_Expressionism.protect|Abstract_Expressionism.protect]] 
 
-### #is_/same_as :: [Abstract_Expressionism.private](/_private/Society/Communication/Art/Art_History/Expressionism/Abstract_Expressionism.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Art/Art_History/Expressionism/Abstract_Expressionism.private|Abstract_Expressionism.private]] 
 
-### #is_/same_as :: [Abstract_Expressionism.personal](/_personal/Society/Communication/Art/Art_History/Expressionism/Abstract_Expressionism.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Art/Art_History/Expressionism/Abstract_Expressionism.personal|Abstract_Expressionism.personal]] 
 
-### #is_/same_as :: [Abstract_Expressionism.secret](/_secret/Society/Communication/Art/Art_History/Expressionism/Abstract_Expressionism.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Art/Art_History/Expressionism/Abstract_Expressionism.secret|Abstract_Expressionism.secret]] 
 

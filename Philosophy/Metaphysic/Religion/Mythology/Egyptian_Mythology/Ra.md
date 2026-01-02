@@ -69,17 +69,17 @@ name_in_hiero_markup: r:D36-ra:Z1-C2
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ra](/_Standards/Philosophy/Metaphysic/Religion/Mythology/Egyptian_Mythology/Ra.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Mythology/Egyptian_Mythology/Ra|Ra]] 
 
-### #is_/same_as :: [Ra.public](/_public/Philosophy/Metaphysic/Religion/Mythology/Egyptian_Mythology/Ra.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Mythology/Egyptian_Mythology/Ra.public|Ra.public]] 
 
-### #is_/same_as :: [Ra.internal](/_internal/Philosophy/Metaphysic/Religion/Mythology/Egyptian_Mythology/Ra.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Mythology/Egyptian_Mythology/Ra.internal|Ra.internal]] 
 
-### #is_/same_as :: [Ra.protect](/_protect/Philosophy/Metaphysic/Religion/Mythology/Egyptian_Mythology/Ra.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Mythology/Egyptian_Mythology/Ra.protect|Ra.protect]] 
 
-### #is_/same_as :: [Ra.private](/_private/Philosophy/Metaphysic/Religion/Mythology/Egyptian_Mythology/Ra.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Mythology/Egyptian_Mythology/Ra.private|Ra.private]] 
 
-### #is_/same_as :: [Ra.personal](/_personal/Philosophy/Metaphysic/Religion/Mythology/Egyptian_Mythology/Ra.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Mythology/Egyptian_Mythology/Ra.personal|Ra.personal]] 
 
-### #is_/same_as :: [Ra.secret](/_secret/Philosophy/Metaphysic/Religion/Mythology/Egyptian_Mythology/Ra.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Mythology/Egyptian_Mythology/Ra.secret|Ra.secret]] 
 

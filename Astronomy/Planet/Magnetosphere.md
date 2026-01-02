@@ -40,17 +40,17 @@ exact_match: http://purl.obolibrary.org/obo/ENVO_01001194
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Magnetosphere](/_Standards/Astronomy/Planet/Magnetosphere.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Planet/Magnetosphere|Magnetosphere]] 
 
-### #is_/same_as :: [Magnetosphere.public](/_public/Astronomy/Planet/Magnetosphere.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Planet/Magnetosphere.public|Magnetosphere.public]] 
 
-### #is_/same_as :: [Magnetosphere.internal](/_internal/Astronomy/Planet/Magnetosphere.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Planet/Magnetosphere.internal|Magnetosphere.internal]] 
 
-### #is_/same_as :: [Magnetosphere.protect](/_protect/Astronomy/Planet/Magnetosphere.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Planet/Magnetosphere.protect|Magnetosphere.protect]] 
 
-### #is_/same_as :: [Magnetosphere.private](/_private/Astronomy/Planet/Magnetosphere.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Planet/Magnetosphere.private|Magnetosphere.private]] 
 
-### #is_/same_as :: [Magnetosphere.personal](/_personal/Astronomy/Planet/Magnetosphere.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Planet/Magnetosphere.personal|Magnetosphere.personal]] 
 
-### #is_/same_as :: [Magnetosphere.secret](/_secret/Astronomy/Planet/Magnetosphere.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Planet/Magnetosphere.secret|Magnetosphere.secret]] 
 

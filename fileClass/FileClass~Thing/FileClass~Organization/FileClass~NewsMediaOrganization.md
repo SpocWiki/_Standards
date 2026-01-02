@@ -81,17 +81,17 @@ VerificationFactCheckingPolicy:: {"type":"MultiFile","options":{"dvQueryString":
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~NewsMediaOrganization](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~NewsMediaOrganization.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~NewsMediaOrganization|FileClass~NewsMediaOrganization]] 
 
-### #is_/same_as :: [FileClass~NewsMediaOrganization.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~NewsMediaOrganization.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~NewsMediaOrganization.public|FileClass~NewsMediaOrganization.public]] 
 
-### #is_/same_as :: [FileClass~NewsMediaOrganization.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~NewsMediaOrganization.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~NewsMediaOrganization.internal|FileClass~NewsMediaOrganization.internal]] 
 
-### #is_/same_as :: [FileClass~NewsMediaOrganization.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~NewsMediaOrganization.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~NewsMediaOrganization.protect|FileClass~NewsMediaOrganization.protect]] 
 
-### #is_/same_as :: [FileClass~NewsMediaOrganization.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~NewsMediaOrganization.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~NewsMediaOrganization.private|FileClass~NewsMediaOrganization.private]] 
 
-### #is_/same_as :: [FileClass~NewsMediaOrganization.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~NewsMediaOrganization.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~NewsMediaOrganization.personal|FileClass~NewsMediaOrganization.personal]] 
 
-### #is_/same_as :: [FileClass~NewsMediaOrganization.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~NewsMediaOrganization.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~NewsMediaOrganization.secret|FileClass~NewsMediaOrganization.secret]] 
 

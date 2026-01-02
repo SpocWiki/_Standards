@@ -27,17 +27,17 @@ type: folder_brief_live
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [ECOSOC](/_Standards/UN(United_Nations)/ECOSOC.md) 
+### #is_/same_as :: [[/_Standards/UN(United_Nations)/ECOSOC|ECOSOC]] 
 
-### #is_/same_as :: [ECOSOC.public](/_public/UN(United_Nations)/ECOSOC.public.md) 
+### #is_/same_as :: [[/_public/UN(United_Nations)/ECOSOC.public|ECOSOC.public]] 
 
-### #is_/same_as :: [ECOSOC.internal](/_internal/UN(United_Nations)/ECOSOC.internal.md) 
+### #is_/same_as :: [[/_internal/UN(United_Nations)/ECOSOC.internal|ECOSOC.internal]] 
 
-### #is_/same_as :: [ECOSOC.protect](/_protect/UN(United_Nations)/ECOSOC.protect.md) 
+### #is_/same_as :: [[/_protect/UN(United_Nations)/ECOSOC.protect|ECOSOC.protect]] 
 
-### #is_/same_as :: [ECOSOC.private](/_private/UN(United_Nations)/ECOSOC.private.md) 
+### #is_/same_as :: [[/_private/UN(United_Nations)/ECOSOC.private|ECOSOC.private]] 
 
-### #is_/same_as :: [ECOSOC.personal](/_personal/UN(United_Nations)/ECOSOC.personal.md) 
+### #is_/same_as :: [[/_personal/UN(United_Nations)/ECOSOC.personal|ECOSOC.personal]] 
 
-### #is_/same_as :: [ECOSOC.secret](/_secret/UN(United_Nations)/ECOSOC.secret.md)
+### #is_/same_as :: [[/_secret/UN(United_Nations)/ECOSOC.secret|ECOSOC.secret]] 
 

@@ -61,17 +61,17 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Age~4~Priabonian](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene/Epoch~2~Eocene/Age~4~Priabonian.md) 
+### #is_/same_as :: [[/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene/Epoch~2~Eocene/Age~4~Priabonian|Age~4~Priabonian]] 
 
-### #is_/same_as :: [Age~4~Priabonian.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene/Epoch~2~Eocene/Age~4~Priabonian.public.md) 
+### #is_/same_as :: [[/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene/Epoch~2~Eocene/Age~4~Priabonian.public|Age~4~Priabonian.public]] 
 
-### #is_/same_as :: [Age~4~Priabonian.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene/Epoch~2~Eocene/Age~4~Priabonian.internal.md) 
+### #is_/same_as :: [[/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene/Epoch~2~Eocene/Age~4~Priabonian.internal|Age~4~Priabonian.internal]] 
 
-### #is_/same_as :: [Age~4~Priabonian.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene/Epoch~2~Eocene/Age~4~Priabonian.protect.md) 
+### #is_/same_as :: [[/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene/Epoch~2~Eocene/Age~4~Priabonian.protect|Age~4~Priabonian.protect]] 
 
-### #is_/same_as :: [Age~4~Priabonian.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene/Epoch~2~Eocene/Age~4~Priabonian.private.md) 
+### #is_/same_as :: [[/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene/Epoch~2~Eocene/Age~4~Priabonian.private|Age~4~Priabonian.private]] 
 
-### #is_/same_as :: [Age~4~Priabonian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene/Epoch~2~Eocene/Age~4~Priabonian.personal.md) 
+### #is_/same_as :: [[/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene/Epoch~2~Eocene/Age~4~Priabonian.personal|Age~4~Priabonian.personal]] 
 
-### #is_/same_as :: [Age~4~Priabonian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene/Epoch~2~Eocene/Age~4~Priabonian.secret.md)
+### #is_/same_as :: [[/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene/Epoch~2~Eocene/Age~4~Priabonian.secret|Age~4~Priabonian.secret]] 
 

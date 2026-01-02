@@ -32,17 +32,17 @@ Commons_category: Sparkling wine
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sparkling_wine](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Sparkling_wine.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Sparkling_wine|Sparkling_wine]] 
 
-### #is_/same_as :: [Sparkling_wine.public](/_public/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Sparkling_wine.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Sparkling_wine.public|Sparkling_wine.public]] 
 
-### #is_/same_as :: [Sparkling_wine.internal](/_internal/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Sparkling_wine.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Sparkling_wine.internal|Sparkling_wine.internal]] 
 
-### #is_/same_as :: [Sparkling_wine.protect](/_protect/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Sparkling_wine.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Sparkling_wine.protect|Sparkling_wine.protect]] 
 
-### #is_/same_as :: [Sparkling_wine.private](/_private/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Sparkling_wine.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Sparkling_wine.private|Sparkling_wine.private]] 
 
-### #is_/same_as :: [Sparkling_wine.personal](/_personal/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Sparkling_wine.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Sparkling_wine.personal|Sparkling_wine.personal]] 
 
-### #is_/same_as :: [Sparkling_wine.secret](/_secret/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Sparkling_wine.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Sparkling_wine.secret|Sparkling_wine.secret]] 
 

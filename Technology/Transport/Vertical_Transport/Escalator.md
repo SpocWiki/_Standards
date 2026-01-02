@@ -16,17 +16,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Escalator](/_Standards/Technology/Transport/Vertical_Transport/Escalator.md) 
+### #is_/same_as :: [[/_Standards/Technology/Transport/Vertical_Transport/Escalator|Escalator]] 
 
-### #is_/same_as :: [Escalator.public](/_public/Technology/Transport/Vertical_Transport/Escalator.public.md) 
+### #is_/same_as :: [[/_public/Technology/Transport/Vertical_Transport/Escalator.public|Escalator.public]] 
 
-### #is_/same_as :: [Escalator.internal](/_internal/Technology/Transport/Vertical_Transport/Escalator.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Transport/Vertical_Transport/Escalator.internal|Escalator.internal]] 
 
-### #is_/same_as :: [Escalator.protect](/_protect/Technology/Transport/Vertical_Transport/Escalator.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Transport/Vertical_Transport/Escalator.protect|Escalator.protect]] 
 
-### #is_/same_as :: [Escalator.private](/_private/Technology/Transport/Vertical_Transport/Escalator.private.md) 
+### #is_/same_as :: [[/_private/Technology/Transport/Vertical_Transport/Escalator.private|Escalator.private]] 
 
-### #is_/same_as :: [Escalator.personal](/_personal/Technology/Transport/Vertical_Transport/Escalator.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Transport/Vertical_Transport/Escalator.personal|Escalator.personal]] 
 
-### #is_/same_as :: [Escalator.secret](/_secret/Technology/Transport/Vertical_Transport/Escalator.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Transport/Vertical_Transport/Escalator.secret|Escalator.secret]] 
 

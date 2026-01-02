@@ -64,17 +64,17 @@ Commons_category: The Goon Show
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Goon_Show](/_Standards/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Radio_Channel/Radio_Program/Goon_Show.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Radio_Channel/Radio_Program/Goon_Show|Goon_Show]] 
 
-### #is_/same_as :: [Goon_Show.public](/_public/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Radio_Channel/Radio_Program/Goon_Show.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Radio_Channel/Radio_Program/Goon_Show.public|Goon_Show.public]] 
 
-### #is_/same_as :: [Goon_Show.internal](/_internal/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Radio_Channel/Radio_Program/Goon_Show.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Radio_Channel/Radio_Program/Goon_Show.internal|Goon_Show.internal]] 
 
-### #is_/same_as :: [Goon_Show.protect](/_protect/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Radio_Channel/Radio_Program/Goon_Show.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Radio_Channel/Radio_Program/Goon_Show.protect|Goon_Show.protect]] 
 
-### #is_/same_as :: [Goon_Show.private](/_private/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Radio_Channel/Radio_Program/Goon_Show.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Radio_Channel/Radio_Program/Goon_Show.private|Goon_Show.private]] 
 
-### #is_/same_as :: [Goon_Show.personal](/_personal/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Radio_Channel/Radio_Program/Goon_Show.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Radio_Channel/Radio_Program/Goon_Show.personal|Goon_Show.personal]] 
 
-### #is_/same_as :: [Goon_Show.secret](/_secret/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Radio_Channel/Radio_Program/Goon_Show.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Radio_Channel/Radio_Program/Goon_Show.secret|Goon_Show.secret]] 
 

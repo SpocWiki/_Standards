@@ -55,17 +55,17 @@ because regulatory and tax rules were leaner in New York than in Boston, where A
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bell_Telephone_Company](/_Standards/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Bell_Telephone_Company.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Bell_Telephone_Company|Bell_Telephone_Company]] 
 
-### #is_/same_as :: [Bell_Telephone_Company.public](/_public/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Bell_Telephone_Company.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Bell_Telephone_Company.public|Bell_Telephone_Company.public]] 
 
-### #is_/same_as :: [Bell_Telephone_Company.internal](/_internal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Bell_Telephone_Company.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Bell_Telephone_Company.internal|Bell_Telephone_Company.internal]] 
 
-### #is_/same_as :: [Bell_Telephone_Company.protect](/_protect/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Bell_Telephone_Company.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Bell_Telephone_Company.protect|Bell_Telephone_Company.protect]] 
 
-### #is_/same_as :: [Bell_Telephone_Company.private](/_private/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Bell_Telephone_Company.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Bell_Telephone_Company.private|Bell_Telephone_Company.private]] 
 
-### #is_/same_as :: [Bell_Telephone_Company.personal](/_personal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Bell_Telephone_Company.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Bell_Telephone_Company.personal|Bell_Telephone_Company.personal]] 
 
-### #is_/same_as :: [Bell_Telephone_Company.secret](/_secret/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Bell_Telephone_Company.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Bell_Telephone_Company.secret|Bell_Telephone_Company.secret]] 
 

@@ -40,17 +40,17 @@ markerFolder: ./Tinian/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Tinian](/_Standards/Earth/Continent/Australasia/Micronesia/Northern_Mariana~Islands/Municipalities~Mariana-Islands/Tinian.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Australasia/Micronesia/Northern_Mariana~Islands/Municipalities~Mariana-Islands/Tinian|Tinian]] 
 
-### #is_/same_as :: [Tinian.public](/_public/Earth/Continent/Australasia/Micronesia/Northern_Mariana~Islands/Municipalities~Mariana-Islands/Tinian.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Australasia/Micronesia/Northern_Mariana~Islands/Municipalities~Mariana-Islands/Tinian.public|Tinian.public]] 
 
-### #is_/same_as :: [Tinian.internal](/_internal/Earth/Continent/Australasia/Micronesia/Northern_Mariana~Islands/Municipalities~Mariana-Islands/Tinian.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Australasia/Micronesia/Northern_Mariana~Islands/Municipalities~Mariana-Islands/Tinian.internal|Tinian.internal]] 
 
-### #is_/same_as :: [Tinian.protect](/_protect/Earth/Continent/Australasia/Micronesia/Northern_Mariana~Islands/Municipalities~Mariana-Islands/Tinian.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Australasia/Micronesia/Northern_Mariana~Islands/Municipalities~Mariana-Islands/Tinian.protect|Tinian.protect]] 
 
-### #is_/same_as :: [Tinian.private](/_private/Earth/Continent/Australasia/Micronesia/Northern_Mariana~Islands/Municipalities~Mariana-Islands/Tinian.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Australasia/Micronesia/Northern_Mariana~Islands/Municipalities~Mariana-Islands/Tinian.private|Tinian.private]] 
 
-### #is_/same_as :: [Tinian.personal](/_personal/Earth/Continent/Australasia/Micronesia/Northern_Mariana~Islands/Municipalities~Mariana-Islands/Tinian.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Australasia/Micronesia/Northern_Mariana~Islands/Municipalities~Mariana-Islands/Tinian.personal|Tinian.personal]] 
 
-### #is_/same_as :: [Tinian.secret](/_secret/Earth/Continent/Australasia/Micronesia/Northern_Mariana~Islands/Municipalities~Mariana-Islands/Tinian.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Australasia/Micronesia/Northern_Mariana~Islands/Municipalities~Mariana-Islands/Tinian.secret|Tinian.secret]] 
 

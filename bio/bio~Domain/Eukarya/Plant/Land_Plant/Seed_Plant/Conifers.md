@@ -98,17 +98,17 @@ Copyright ::            © 1999 [California Academy of Sciences](http://www.cala
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Conifers](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Conifers.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Conifers|Conifers]] 
 
-### #is_/same_as :: [Conifers.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Conifers.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Conifers.public|Conifers.public]] 
 
-### #is_/same_as :: [Conifers.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Conifers.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Conifers.internal|Conifers.internal]] 
 
-### #is_/same_as :: [Conifers.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Conifers.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Conifers.protect|Conifers.protect]] 
 
-### #is_/same_as :: [Conifers.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Conifers.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Conifers.private|Conifers.private]] 
 
-### #is_/same_as :: [Conifers.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Conifers.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Conifers.personal|Conifers.personal]] 
 
-### #is_/same_as :: [Conifers.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Conifers.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Conifers.secret|Conifers.secret]] 
 

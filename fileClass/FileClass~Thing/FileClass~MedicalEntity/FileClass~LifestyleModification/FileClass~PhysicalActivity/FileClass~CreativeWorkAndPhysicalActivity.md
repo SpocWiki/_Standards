@@ -1228,17 +1228,17 @@ WorkTranslation:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#cla
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~CreativeWorkAndPhysicalActivity](/_Standards/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~LifestyleModification/FileClass~PhysicalActivity/FileClass~CreativeWorkAndPhysicalActivity.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~LifestyleModification/FileClass~PhysicalActivity/FileClass~CreativeWorkAndPhysicalActivity|FileClass~CreativeWorkAndPhysicalActivity]] 
 
-### #is_/same_as :: [FileClass~CreativeWorkAndPhysicalActivity.public](/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~LifestyleModification/FileClass~PhysicalActivity/FileClass~CreativeWorkAndPhysicalActivity.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~LifestyleModification/FileClass~PhysicalActivity/FileClass~CreativeWorkAndPhysicalActivity.public|FileClass~CreativeWorkAndPhysicalActivity.public]] 
 
-### #is_/same_as :: [FileClass~CreativeWorkAndPhysicalActivity.internal](/_internal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~LifestyleModification/FileClass~PhysicalActivity/FileClass~CreativeWorkAndPhysicalActivity.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~LifestyleModification/FileClass~PhysicalActivity/FileClass~CreativeWorkAndPhysicalActivity.internal|FileClass~CreativeWorkAndPhysicalActivity.internal]] 
 
-### #is_/same_as :: [FileClass~CreativeWorkAndPhysicalActivity.protect](/_protect/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~LifestyleModification/FileClass~PhysicalActivity/FileClass~CreativeWorkAndPhysicalActivity.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~LifestyleModification/FileClass~PhysicalActivity/FileClass~CreativeWorkAndPhysicalActivity.protect|FileClass~CreativeWorkAndPhysicalActivity.protect]] 
 
-### #is_/same_as :: [FileClass~CreativeWorkAndPhysicalActivity.private](/_private/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~LifestyleModification/FileClass~PhysicalActivity/FileClass~CreativeWorkAndPhysicalActivity.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~LifestyleModification/FileClass~PhysicalActivity/FileClass~CreativeWorkAndPhysicalActivity.private|FileClass~CreativeWorkAndPhysicalActivity.private]] 
 
-### #is_/same_as :: [FileClass~CreativeWorkAndPhysicalActivity.personal](/_personal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~LifestyleModification/FileClass~PhysicalActivity/FileClass~CreativeWorkAndPhysicalActivity.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~LifestyleModification/FileClass~PhysicalActivity/FileClass~CreativeWorkAndPhysicalActivity.personal|FileClass~CreativeWorkAndPhysicalActivity.personal]] 
 
-### #is_/same_as :: [FileClass~CreativeWorkAndPhysicalActivity.secret](/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~LifestyleModification/FileClass~PhysicalActivity/FileClass~CreativeWorkAndPhysicalActivity.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~LifestyleModification/FileClass~PhysicalActivity/FileClass~CreativeWorkAndPhysicalActivity.secret|FileClass~CreativeWorkAndPhysicalActivity.secret]] 
 

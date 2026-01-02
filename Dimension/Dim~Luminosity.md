@@ -45,17 +45,17 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Inverse%20square%20law
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Dim~Luminosity](/_Standards/Dimension/Dim~Luminosity.md) 
+### #is_/same_as :: [[/_Standards/Dimension/Dim~Luminosity|Dim~Luminosity]] 
 
-### #is_/same_as :: [Dim~Luminosity.public](/_public/Dimension/Dim~Luminosity.public.md) 
+### #is_/same_as :: [[/_public/Dimension/Dim~Luminosity.public|Dim~Luminosity.public]] 
 
-### #is_/same_as :: [Dim~Luminosity.internal](/_internal/Dimension/Dim~Luminosity.internal.md) 
+### #is_/same_as :: [[/_internal/Dimension/Dim~Luminosity.internal|Dim~Luminosity.internal]] 
 
-### #is_/same_as :: [Dim~Luminosity.protect](/_protect/Dimension/Dim~Luminosity.protect.md) 
+### #is_/same_as :: [[/_protect/Dimension/Dim~Luminosity.protect|Dim~Luminosity.protect]] 
 
-### #is_/same_as :: [Dim~Luminosity.private](/_private/Dimension/Dim~Luminosity.private.md) 
+### #is_/same_as :: [[/_private/Dimension/Dim~Luminosity.private|Dim~Luminosity.private]] 
 
-### #is_/same_as :: [Dim~Luminosity.personal](/_personal/Dimension/Dim~Luminosity.personal.md) 
+### #is_/same_as :: [[/_personal/Dimension/Dim~Luminosity.personal|Dim~Luminosity.personal]] 
 
-### #is_/same_as :: [Dim~Luminosity.secret](/_secret/Dimension/Dim~Luminosity.secret.md)
+### #is_/same_as :: [[/_secret/Dimension/Dim~Luminosity.secret|Dim~Luminosity.secret]] 
 

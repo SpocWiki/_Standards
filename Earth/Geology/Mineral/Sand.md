@@ -71,17 +71,17 @@ OpenStreetMap_tag: resource=sand
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sand](/_Standards/Earth/Geology/Mineral/Sand.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geology/Mineral/Sand|Sand]] 
 
-### #is_/same_as :: [Sand.public](/_public/Earth/Geology/Mineral/Sand.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geology/Mineral/Sand.public|Sand.public]] 
 
-### #is_/same_as :: [Sand.internal](/_internal/Earth/Geology/Mineral/Sand.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geology/Mineral/Sand.internal|Sand.internal]] 
 
-### #is_/same_as :: [Sand.protect](/_protect/Earth/Geology/Mineral/Sand.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geology/Mineral/Sand.protect|Sand.protect]] 
 
-### #is_/same_as :: [Sand.private](/_private/Earth/Geology/Mineral/Sand.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geology/Mineral/Sand.private|Sand.private]] 
 
-### #is_/same_as :: [Sand.personal](/_personal/Earth/Geology/Mineral/Sand.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geology/Mineral/Sand.personal|Sand.personal]] 
 
-### #is_/same_as :: [Sand.secret](/_secret/Earth/Geology/Mineral/Sand.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geology/Mineral/Sand.secret|Sand.secret]] 
 

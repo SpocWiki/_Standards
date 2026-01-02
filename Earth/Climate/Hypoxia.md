@@ -34,17 +34,17 @@ Commons_category: Hypoxia (medical)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hypoxia](/_Standards/Earth/Climate/Hypoxia.md) 
+### #is_/same_as :: [[/_Standards/Earth/Climate/Hypoxia|Hypoxia]] 
 
-### #is_/same_as :: [Hypoxia.public](/_public/Earth/Climate/Hypoxia.public.md) 
+### #is_/same_as :: [[/_public/Earth/Climate/Hypoxia.public|Hypoxia.public]] 
 
-### #is_/same_as :: [Hypoxia.internal](/_internal/Earth/Climate/Hypoxia.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Climate/Hypoxia.internal|Hypoxia.internal]] 
 
-### #is_/same_as :: [Hypoxia.protect](/_protect/Earth/Climate/Hypoxia.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Climate/Hypoxia.protect|Hypoxia.protect]] 
 
-### #is_/same_as :: [Hypoxia.private](/_private/Earth/Climate/Hypoxia.private.md) 
+### #is_/same_as :: [[/_private/Earth/Climate/Hypoxia.private|Hypoxia.private]] 
 
-### #is_/same_as :: [Hypoxia.personal](/_personal/Earth/Climate/Hypoxia.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Climate/Hypoxia.personal|Hypoxia.personal]] 
 
-### #is_/same_as :: [Hypoxia.secret](/_secret/Earth/Climate/Hypoxia.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Climate/Hypoxia.secret|Hypoxia.secret]] 
 

@@ -21,17 +21,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Werewolf_of_London](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Werewolf_of_London.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Werewolf_of_London|Werewolf_of_London]] 
 
-### #is_/same_as :: [Werewolf_of_London.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Werewolf_of_London.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Werewolf_of_London.public|Werewolf_of_London.public]] 
 
-### #is_/same_as :: [Werewolf_of_London.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Werewolf_of_London.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Werewolf_of_London.internal|Werewolf_of_London.internal]] 
 
-### #is_/same_as :: [Werewolf_of_London.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Werewolf_of_London.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Werewolf_of_London.protect|Werewolf_of_London.protect]] 
 
-### #is_/same_as :: [Werewolf_of_London.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Werewolf_of_London.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Werewolf_of_London.private|Werewolf_of_London.private]] 
 
-### #is_/same_as :: [Werewolf_of_London.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Werewolf_of_London.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Werewolf_of_London.personal|Werewolf_of_London.personal]] 
 
-### #is_/same_as :: [Werewolf_of_London.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Werewolf_of_London.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Werewolf_of_London.secret|Werewolf_of_London.secret]] 
 

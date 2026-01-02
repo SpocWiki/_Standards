@@ -30,17 +30,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Oligosaccharide](/_Standards/bio/Metabolism/Nutrition/Carbohydrate/Oligosaccharide.md) 
+### #is_/same_as :: [[/_Standards/bio/Metabolism/Nutrition/Carbohydrate/Oligosaccharide|Oligosaccharide]] 
 
-### #is_/same_as :: [Oligosaccharide.public](/_public/bio/Metabolism/Nutrition/Carbohydrate/Oligosaccharide.public.md) 
+### #is_/same_as :: [[/_public/bio/Metabolism/Nutrition/Carbohydrate/Oligosaccharide.public|Oligosaccharide.public]] 
 
-### #is_/same_as :: [Oligosaccharide.internal](/_internal/bio/Metabolism/Nutrition/Carbohydrate/Oligosaccharide.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Metabolism/Nutrition/Carbohydrate/Oligosaccharide.internal|Oligosaccharide.internal]] 
 
-### #is_/same_as :: [Oligosaccharide.protect](/_protect/bio/Metabolism/Nutrition/Carbohydrate/Oligosaccharide.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Metabolism/Nutrition/Carbohydrate/Oligosaccharide.protect|Oligosaccharide.protect]] 
 
-### #is_/same_as :: [Oligosaccharide.private](/_private/bio/Metabolism/Nutrition/Carbohydrate/Oligosaccharide.private.md) 
+### #is_/same_as :: [[/_private/bio/Metabolism/Nutrition/Carbohydrate/Oligosaccharide.private|Oligosaccharide.private]] 
 
-### #is_/same_as :: [Oligosaccharide.personal](/_personal/bio/Metabolism/Nutrition/Carbohydrate/Oligosaccharide.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Metabolism/Nutrition/Carbohydrate/Oligosaccharide.personal|Oligosaccharide.personal]] 
 
-### #is_/same_as :: [Oligosaccharide.secret](/_secret/bio/Metabolism/Nutrition/Carbohydrate/Oligosaccharide.secret.md)
+### #is_/same_as :: [[/_secret/bio/Metabolism/Nutrition/Carbohydrate/Oligosaccharide.secret|Oligosaccharide.secret]] 
 

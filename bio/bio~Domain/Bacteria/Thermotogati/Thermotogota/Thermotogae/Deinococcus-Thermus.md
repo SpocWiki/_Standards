@@ -62,17 +62,17 @@ title: Deinococcus-Thermus
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Deinococcus-Thermus](/_Standards/bio/bio~Domain/Bacteria/Thermotogati/Thermotogota/Thermotogae/Deinococcus-Thermus.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Bacteria/Thermotogati/Thermotogota/Thermotogae/Deinococcus-Thermus|Deinococcus-Thermus]] 
 
-### #is_/same_as :: [Deinococcus-Thermus.public](/_public/bio/bio~Domain/Bacteria/Thermotogati/Thermotogota/Thermotogae/Deinococcus-Thermus.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Bacteria/Thermotogati/Thermotogota/Thermotogae/Deinococcus-Thermus.public|Deinococcus-Thermus.public]] 
 
-### #is_/same_as :: [Deinococcus-Thermus.internal](/_internal/bio/bio~Domain/Bacteria/Thermotogati/Thermotogota/Thermotogae/Deinococcus-Thermus.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Bacteria/Thermotogati/Thermotogota/Thermotogae/Deinococcus-Thermus.internal|Deinococcus-Thermus.internal]] 
 
-### #is_/same_as :: [Deinococcus-Thermus.protect](/_protect/bio/bio~Domain/Bacteria/Thermotogati/Thermotogota/Thermotogae/Deinococcus-Thermus.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Bacteria/Thermotogati/Thermotogota/Thermotogae/Deinococcus-Thermus.protect|Deinococcus-Thermus.protect]] 
 
-### #is_/same_as :: [Deinococcus-Thermus.private](/_private/bio/bio~Domain/Bacteria/Thermotogati/Thermotogota/Thermotogae/Deinococcus-Thermus.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Bacteria/Thermotogati/Thermotogota/Thermotogae/Deinococcus-Thermus.private|Deinococcus-Thermus.private]] 
 
-### #is_/same_as :: [Deinococcus-Thermus.personal](/_personal/bio/bio~Domain/Bacteria/Thermotogati/Thermotogota/Thermotogae/Deinococcus-Thermus.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Bacteria/Thermotogati/Thermotogota/Thermotogae/Deinococcus-Thermus.personal|Deinococcus-Thermus.personal]] 
 
-### #is_/same_as :: [Deinococcus-Thermus.secret](/_secret/bio/bio~Domain/Bacteria/Thermotogati/Thermotogota/Thermotogae/Deinococcus-Thermus.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Bacteria/Thermotogati/Thermotogota/Thermotogae/Deinococcus-Thermus.secret|Deinococcus-Thermus.secret]] 
 

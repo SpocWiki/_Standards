@@ -43,17 +43,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_location_death](/_Standards/schema-org/Property/has_location/has_location_death.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_location/has_location_death|has_location_death]] 
 
-### #is_/same_as :: [has_location_death.public](/_public/schema-org/Property/has_location/has_location_death.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/has_location/has_location_death.public|has_location_death.public]] 
 
-### #is_/same_as :: [has_location_death.internal](/_internal/schema-org/Property/has_location/has_location_death.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_location/has_location_death.internal|has_location_death.internal]] 
 
-### #is_/same_as :: [has_location_death.protect](/_protect/schema-org/Property/has_location/has_location_death.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_location/has_location_death.protect|has_location_death.protect]] 
 
-### #is_/same_as :: [has_location_death.private](/_private/schema-org/Property/has_location/has_location_death.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/has_location/has_location_death.private|has_location_death.private]] 
 
-### #is_/same_as :: [has_location_death.personal](/_personal/schema-org/Property/has_location/has_location_death.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_location/has_location_death.personal|has_location_death.personal]] 
 
-### #is_/same_as :: [has_location_death.secret](/_secret/schema-org/Property/has_location/has_location_death.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/has_location/has_location_death.secret|has_location_death.secret]] 
 

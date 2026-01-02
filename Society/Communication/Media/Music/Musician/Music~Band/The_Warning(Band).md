@@ -25,17 +25,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [The_Warning(Band)](/_Standards/Society/Communication/Media/Music/Musician/Music~Band/The_Warning(Band).md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Musician/Music~Band/The_Warning(Band)|The_Warning(Band)]] 
 
-### #is_/same_as :: [The_Warning(Band).public](/_public/Society/Communication/Media/Music/Musician/Music~Band/The_Warning(Band).public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Musician/Music~Band/The_Warning(Band).public|The_Warning(Band).public]] 
 
-### #is_/same_as :: [The_Warning(Band).internal](/_internal/Society/Communication/Media/Music/Musician/Music~Band/The_Warning(Band).internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Musician/Music~Band/The_Warning(Band).internal|The_Warning(Band).internal]] 
 
-### #is_/same_as :: [The_Warning(Band).protect](/_protect/Society/Communication/Media/Music/Musician/Music~Band/The_Warning(Band).protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Musician/Music~Band/The_Warning(Band).protect|The_Warning(Band).protect]] 
 
-### #is_/same_as :: [The_Warning(Band).private](/_private/Society/Communication/Media/Music/Musician/Music~Band/The_Warning(Band).private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Musician/Music~Band/The_Warning(Band).private|The_Warning(Band).private]] 
 
-### #is_/same_as :: [The_Warning(Band).personal](/_personal/Society/Communication/Media/Music/Musician/Music~Band/The_Warning(Band).personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Musician/Music~Band/The_Warning(Band).personal|The_Warning(Band).personal]] 
 
-### #is_/same_as :: [The_Warning(Band).secret](/_secret/Society/Communication/Media/Music/Musician/Music~Band/The_Warning(Band).secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Musician/Music~Band/The_Warning(Band).secret|The_Warning(Band).secret]] 
 

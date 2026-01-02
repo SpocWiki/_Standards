@@ -121,17 +121,17 @@ OpenStreetMap_tag: denomination=lutheran
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lutheranism](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Protestantism/Lutheranism.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Protestantism/Lutheranism|Lutheranism]] 
 
-### #is_/same_as :: [Lutheranism.public](/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Protestantism/Lutheranism.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Protestantism/Lutheranism.public|Lutheranism.public]] 
 
-### #is_/same_as :: [Lutheranism.internal](/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Protestantism/Lutheranism.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Protestantism/Lutheranism.internal|Lutheranism.internal]] 
 
-### #is_/same_as :: [Lutheranism.protect](/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Protestantism/Lutheranism.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Protestantism/Lutheranism.protect|Lutheranism.protect]] 
 
-### #is_/same_as :: [Lutheranism.private](/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Protestantism/Lutheranism.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Protestantism/Lutheranism.private|Lutheranism.private]] 
 
-### #is_/same_as :: [Lutheranism.personal](/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Protestantism/Lutheranism.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Protestantism/Lutheranism.personal|Lutheranism.personal]] 
 
-### #is_/same_as :: [Lutheranism.secret](/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Protestantism/Lutheranism.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Protestantism/Lutheranism.secret|Lutheranism.secret]] 
 

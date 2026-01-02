@@ -40,17 +40,17 @@ Dewey_Decimal_Classification:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Social_Stratification](/_Standards/Society/Anthropology/Sociology/Social_Stratification.md) 
+### #is_/same_as :: [[/_Standards/Society/Anthropology/Sociology/Social_Stratification|Social_Stratification]] 
 
-### #is_/same_as :: [Social_Stratification.public](/_public/Society/Anthropology/Sociology/Social_Stratification.public.md) 
+### #is_/same_as :: [[/_public/Society/Anthropology/Sociology/Social_Stratification.public|Social_Stratification.public]] 
 
-### #is_/same_as :: [Social_Stratification.internal](/_internal/Society/Anthropology/Sociology/Social_Stratification.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Anthropology/Sociology/Social_Stratification.internal|Social_Stratification.internal]] 
 
-### #is_/same_as :: [Social_Stratification.protect](/_protect/Society/Anthropology/Sociology/Social_Stratification.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Anthropology/Sociology/Social_Stratification.protect|Social_Stratification.protect]] 
 
-### #is_/same_as :: [Social_Stratification.private](/_private/Society/Anthropology/Sociology/Social_Stratification.private.md) 
+### #is_/same_as :: [[/_private/Society/Anthropology/Sociology/Social_Stratification.private|Social_Stratification.private]] 
 
-### #is_/same_as :: [Social_Stratification.personal](/_personal/Society/Anthropology/Sociology/Social_Stratification.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Anthropology/Sociology/Social_Stratification.personal|Social_Stratification.personal]] 
 
-### #is_/same_as :: [Social_Stratification.secret](/_secret/Society/Anthropology/Sociology/Social_Stratification.secret.md)
+### #is_/same_as :: [[/_secret/Society/Anthropology/Sociology/Social_Stratification.secret|Social_Stratification.secret]] 
 

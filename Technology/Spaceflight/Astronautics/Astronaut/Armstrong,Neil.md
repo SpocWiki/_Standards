@@ -164,17 +164,17 @@ ISNI: 000000012147959X
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Armstrong,Neil](/_Standards/Technology/Spaceflight/Astronautics/Astronaut/Armstrong,Neil.md) 
+### #is_/same_as :: [[/_Standards/Technology/Spaceflight/Astronautics/Astronaut/Armstrong,Neil|Armstrong,Neil]] 
 
-### #is_/same_as :: [Armstrong,Neil.public](/_public/Technology/Spaceflight/Astronautics/Astronaut/Armstrong,Neil.public.md) 
+### #is_/same_as :: [[/_public/Technology/Spaceflight/Astronautics/Astronaut/Armstrong,Neil.public|Armstrong,Neil.public]] 
 
-### #is_/same_as :: [Armstrong,Neil.internal](/_internal/Technology/Spaceflight/Astronautics/Astronaut/Armstrong,Neil.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Spaceflight/Astronautics/Astronaut/Armstrong,Neil.internal|Armstrong,Neil.internal]] 
 
-### #is_/same_as :: [Armstrong,Neil.protect](/_protect/Technology/Spaceflight/Astronautics/Astronaut/Armstrong,Neil.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Spaceflight/Astronautics/Astronaut/Armstrong,Neil.protect|Armstrong,Neil.protect]] 
 
-### #is_/same_as :: [Armstrong,Neil.private](/_private/Technology/Spaceflight/Astronautics/Astronaut/Armstrong,Neil.private.md) 
+### #is_/same_as :: [[/_private/Technology/Spaceflight/Astronautics/Astronaut/Armstrong,Neil.private|Armstrong,Neil.private]] 
 
-### #is_/same_as :: [Armstrong,Neil.personal](/_personal/Technology/Spaceflight/Astronautics/Astronaut/Armstrong,Neil.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Spaceflight/Astronautics/Astronaut/Armstrong,Neil.personal|Armstrong,Neil.personal]] 
 
-### #is_/same_as :: [Armstrong,Neil.secret](/_secret/Technology/Spaceflight/Astronautics/Astronaut/Armstrong,Neil.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Spaceflight/Astronautics/Astronaut/Armstrong,Neil.secret|Armstrong,Neil.secret]] 
 

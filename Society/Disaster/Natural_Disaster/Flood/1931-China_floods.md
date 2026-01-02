@@ -50,17 +50,17 @@ point_in_time: 1931-01-01T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [1931-China_floods](/_Standards/Society/Disaster/Natural_Disaster/Flood/1931-China_floods.md) 
+### #is_/same_as :: [[/_Standards/Society/Disaster/Natural_Disaster/Flood/1931-China_floods|1931-China_floods]] 
 
-### #is_/same_as :: [1931-China_floods.public](/_public/Society/Disaster/Natural_Disaster/Flood/1931-China_floods.public.md) 
+### #is_/same_as :: [[/_public/Society/Disaster/Natural_Disaster/Flood/1931-China_floods.public|1931-China_floods.public]] 
 
-### #is_/same_as :: [1931-China_floods.internal](/_internal/Society/Disaster/Natural_Disaster/Flood/1931-China_floods.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Disaster/Natural_Disaster/Flood/1931-China_floods.internal|1931-China_floods.internal]] 
 
-### #is_/same_as :: [1931-China_floods.protect](/_protect/Society/Disaster/Natural_Disaster/Flood/1931-China_floods.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Disaster/Natural_Disaster/Flood/1931-China_floods.protect|1931-China_floods.protect]] 
 
-### #is_/same_as :: [1931-China_floods.private](/_private/Society/Disaster/Natural_Disaster/Flood/1931-China_floods.private.md) 
+### #is_/same_as :: [[/_private/Society/Disaster/Natural_Disaster/Flood/1931-China_floods.private|1931-China_floods.private]] 
 
-### #is_/same_as :: [1931-China_floods.personal](/_personal/Society/Disaster/Natural_Disaster/Flood/1931-China_floods.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Disaster/Natural_Disaster/Flood/1931-China_floods.personal|1931-China_floods.personal]] 
 
-### #is_/same_as :: [1931-China_floods.secret](/_secret/Society/Disaster/Natural_Disaster/Flood/1931-China_floods.secret.md)
+### #is_/same_as :: [[/_secret/Society/Disaster/Natural_Disaster/Flood/1931-China_floods.secret|1931-China_floods.secret]] 
 

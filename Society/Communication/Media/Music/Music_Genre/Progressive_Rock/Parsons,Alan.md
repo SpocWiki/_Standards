@@ -78,17 +78,17 @@ X_Twitter_username: alanparsons
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Parsons,Alan](/_Standards/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Parsons,Alan.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Parsons,Alan|Parsons,Alan]] 
 
-### #is_/same_as :: [Parsons,Alan.public](/_public/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Parsons,Alan.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Parsons,Alan.public|Parsons,Alan.public]] 
 
-### #is_/same_as :: [Parsons,Alan.internal](/_internal/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Parsons,Alan.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Parsons,Alan.internal|Parsons,Alan.internal]] 
 
-### #is_/same_as :: [Parsons,Alan.protect](/_protect/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Parsons,Alan.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Parsons,Alan.protect|Parsons,Alan.protect]] 
 
-### #is_/same_as :: [Parsons,Alan.private](/_private/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Parsons,Alan.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Parsons,Alan.private|Parsons,Alan.private]] 
 
-### #is_/same_as :: [Parsons,Alan.personal](/_personal/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Parsons,Alan.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Parsons,Alan.personal|Parsons,Alan.personal]] 
 
-### #is_/same_as :: [Parsons,Alan.secret](/_secret/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Parsons,Alan.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Parsons,Alan.secret|Parsons,Alan.secret]] 
 

@@ -64,17 +64,17 @@ defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Volume](/_Standards/Dimension/Linear_Dimension/Volume.md) 
+### #is_/same_as :: [[/_Standards/Dimension/Linear_Dimension/Volume|Volume]] 
 
-### #is_/same_as :: [Volume.public](/_public/Dimension/Linear_Dimension/Volume.public.md) 
+### #is_/same_as :: [[/_public/Dimension/Linear_Dimension/Volume.public|Volume.public]] 
 
-### #is_/same_as :: [Volume.internal](/_internal/Dimension/Linear_Dimension/Volume.internal.md) 
+### #is_/same_as :: [[/_internal/Dimension/Linear_Dimension/Volume.internal|Volume.internal]] 
 
-### #is_/same_as :: [Volume.protect](/_protect/Dimension/Linear_Dimension/Volume.protect.md) 
+### #is_/same_as :: [[/_protect/Dimension/Linear_Dimension/Volume.protect|Volume.protect]] 
 
-### #is_/same_as :: [Volume.private](/_private/Dimension/Linear_Dimension/Volume.private.md) 
+### #is_/same_as :: [[/_private/Dimension/Linear_Dimension/Volume.private|Volume.private]] 
 
-### #is_/same_as :: [Volume.personal](/_personal/Dimension/Linear_Dimension/Volume.personal.md) 
+### #is_/same_as :: [[/_personal/Dimension/Linear_Dimension/Volume.personal|Volume.personal]] 
 
-### #is_/same_as :: [Volume.secret](/_secret/Dimension/Linear_Dimension/Volume.secret.md)
+### #is_/same_as :: [[/_secret/Dimension/Linear_Dimension/Volume.secret|Volume.secret]] 
 

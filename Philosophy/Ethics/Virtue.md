@@ -69,17 +69,17 @@ MeSH_tree_code:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Virtue](/_Standards/Philosophy/Ethics/Virtue.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Ethics/Virtue|Virtue]] 
 
-### #is_/same_as :: [Virtue.public](/_public/Philosophy/Ethics/Virtue.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Ethics/Virtue.public|Virtue.public]] 
 
-### #is_/same_as :: [Virtue.internal](/_internal/Philosophy/Ethics/Virtue.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Ethics/Virtue.internal|Virtue.internal]] 
 
-### #is_/same_as :: [Virtue.protect](/_protect/Philosophy/Ethics/Virtue.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Ethics/Virtue.protect|Virtue.protect]] 
 
-### #is_/same_as :: [Virtue.private](/_private/Philosophy/Ethics/Virtue.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Ethics/Virtue.private|Virtue.private]] 
 
-### #is_/same_as :: [Virtue.personal](/_personal/Philosophy/Ethics/Virtue.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Ethics/Virtue.personal|Virtue.personal]] 
 
-### #is_/same_as :: [Virtue.secret](/_secret/Philosophy/Ethics/Virtue.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Ethics/Virtue.secret|Virtue.secret]] 
 

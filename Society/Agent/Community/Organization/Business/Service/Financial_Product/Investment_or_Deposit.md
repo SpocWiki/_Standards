@@ -43,17 +43,17 @@ A type of financial product that typically requires the client to transfer funds
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Investment_or_Deposit](/_Standards/Society/Agent/Community/Organization/Business/Service/Financial_Product/Investment_or_Deposit.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Business/Service/Financial_Product/Investment_or_Deposit|Investment_or_Deposit]] 
 
-### #is_/same_as :: [Investment_or_Deposit.public](/_public/Society/Agent/Community/Organization/Business/Service/Financial_Product/Investment_or_Deposit.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Business/Service/Financial_Product/Investment_or_Deposit.public|Investment_or_Deposit.public]] 
 
-### #is_/same_as :: [Investment_or_Deposit.internal](/_internal/Society/Agent/Community/Organization/Business/Service/Financial_Product/Investment_or_Deposit.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Business/Service/Financial_Product/Investment_or_Deposit.internal|Investment_or_Deposit.internal]] 
 
-### #is_/same_as :: [Investment_or_Deposit.protect](/_protect/Society/Agent/Community/Organization/Business/Service/Financial_Product/Investment_or_Deposit.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Business/Service/Financial_Product/Investment_or_Deposit.protect|Investment_or_Deposit.protect]] 
 
-### #is_/same_as :: [Investment_or_Deposit.private](/_private/Society/Agent/Community/Organization/Business/Service/Financial_Product/Investment_or_Deposit.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Business/Service/Financial_Product/Investment_or_Deposit.private|Investment_or_Deposit.private]] 
 
-### #is_/same_as :: [Investment_or_Deposit.personal](/_personal/Society/Agent/Community/Organization/Business/Service/Financial_Product/Investment_or_Deposit.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Business/Service/Financial_Product/Investment_or_Deposit.personal|Investment_or_Deposit.personal]] 
 
-### #is_/same_as :: [Investment_or_Deposit.secret](/_secret/Society/Agent/Community/Organization/Business/Service/Financial_Product/Investment_or_Deposit.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Business/Service/Financial_Product/Investment_or_Deposit.secret|Investment_or_Deposit.secret]] 
 

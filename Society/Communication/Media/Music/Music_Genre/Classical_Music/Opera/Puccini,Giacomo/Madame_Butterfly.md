@@ -72,17 +72,17 @@ production_date: 1903-01-01T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Madame_Butterfly](/_Standards/Society/Communication/Media/Music/Music_Genre/Classical_Music/Opera/Puccini,Giacomo/Madame_Butterfly.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Music_Genre/Classical_Music/Opera/Puccini,Giacomo/Madame_Butterfly|Madame_Butterfly]] 
 
-### #is_/same_as :: [Madame_Butterfly.public](/_public/Society/Communication/Media/Music/Music_Genre/Classical_Music/Opera/Puccini,Giacomo/Madame_Butterfly.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Music_Genre/Classical_Music/Opera/Puccini,Giacomo/Madame_Butterfly.public|Madame_Butterfly.public]] 
 
-### #is_/same_as :: [Madame_Butterfly.internal](/_internal/Society/Communication/Media/Music/Music_Genre/Classical_Music/Opera/Puccini,Giacomo/Madame_Butterfly.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Music_Genre/Classical_Music/Opera/Puccini,Giacomo/Madame_Butterfly.internal|Madame_Butterfly.internal]] 
 
-### #is_/same_as :: [Madame_Butterfly.protect](/_protect/Society/Communication/Media/Music/Music_Genre/Classical_Music/Opera/Puccini,Giacomo/Madame_Butterfly.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Music_Genre/Classical_Music/Opera/Puccini,Giacomo/Madame_Butterfly.protect|Madame_Butterfly.protect]] 
 
-### #is_/same_as :: [Madame_Butterfly.private](/_private/Society/Communication/Media/Music/Music_Genre/Classical_Music/Opera/Puccini,Giacomo/Madame_Butterfly.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Music_Genre/Classical_Music/Opera/Puccini,Giacomo/Madame_Butterfly.private|Madame_Butterfly.private]] 
 
-### #is_/same_as :: [Madame_Butterfly.personal](/_personal/Society/Communication/Media/Music/Music_Genre/Classical_Music/Opera/Puccini,Giacomo/Madame_Butterfly.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Music_Genre/Classical_Music/Opera/Puccini,Giacomo/Madame_Butterfly.personal|Madame_Butterfly.personal]] 
 
-### #is_/same_as :: [Madame_Butterfly.secret](/_secret/Society/Communication/Media/Music/Music_Genre/Classical_Music/Opera/Puccini,Giacomo/Madame_Butterfly.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Music_Genre/Classical_Music/Opera/Puccini,Giacomo/Madame_Butterfly.secret|Madame_Butterfly.secret]] 
 

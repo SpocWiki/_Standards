@@ -107,17 +107,17 @@ Swedish_Open_Cultural_Heritage_URI: LSH/agents/66554
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Morton_Stanley,Henry](/_Standards/Earth/Explorer/Modern_Explorer/Morton_Stanley,Henry.md) 
+### #is_/same_as :: [[/_Standards/Earth/Explorer/Modern_Explorer/Morton_Stanley,Henry|Morton_Stanley,Henry]] 
 
-### #is_/same_as :: [Morton_Stanley,Henry.public](/_public/Earth/Explorer/Modern_Explorer/Morton_Stanley,Henry.public.md) 
+### #is_/same_as :: [[/_public/Earth/Explorer/Modern_Explorer/Morton_Stanley,Henry.public|Morton_Stanley,Henry.public]] 
 
-### #is_/same_as :: [Morton_Stanley,Henry.internal](/_internal/Earth/Explorer/Modern_Explorer/Morton_Stanley,Henry.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Explorer/Modern_Explorer/Morton_Stanley,Henry.internal|Morton_Stanley,Henry.internal]] 
 
-### #is_/same_as :: [Morton_Stanley,Henry.protect](/_protect/Earth/Explorer/Modern_Explorer/Morton_Stanley,Henry.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Explorer/Modern_Explorer/Morton_Stanley,Henry.protect|Morton_Stanley,Henry.protect]] 
 
-### #is_/same_as :: [Morton_Stanley,Henry.private](/_private/Earth/Explorer/Modern_Explorer/Morton_Stanley,Henry.private.md) 
+### #is_/same_as :: [[/_private/Earth/Explorer/Modern_Explorer/Morton_Stanley,Henry.private|Morton_Stanley,Henry.private]] 
 
-### #is_/same_as :: [Morton_Stanley,Henry.personal](/_personal/Earth/Explorer/Modern_Explorer/Morton_Stanley,Henry.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Explorer/Modern_Explorer/Morton_Stanley,Henry.personal|Morton_Stanley,Henry.personal]] 
 
-### #is_/same_as :: [Morton_Stanley,Henry.secret](/_secret/Earth/Explorer/Modern_Explorer/Morton_Stanley,Henry.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Explorer/Modern_Explorer/Morton_Stanley,Henry.secret|Morton_Stanley,Henry.secret]] 
 

@@ -44,17 +44,17 @@ Commons_category: Submarine volcanoes
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Submarine_Volcano](/_Standards/Earth/Geology/Landform/Volcano/Submarine_Volcano.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geology/Landform/Volcano/Submarine_Volcano|Submarine_Volcano]] 
 
-### #is_/same_as :: [Submarine_Volcano.public](/_public/Earth/Geology/Landform/Volcano/Submarine_Volcano.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geology/Landform/Volcano/Submarine_Volcano.public|Submarine_Volcano.public]] 
 
-### #is_/same_as :: [Submarine_Volcano.internal](/_internal/Earth/Geology/Landform/Volcano/Submarine_Volcano.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geology/Landform/Volcano/Submarine_Volcano.internal|Submarine_Volcano.internal]] 
 
-### #is_/same_as :: [Submarine_Volcano.protect](/_protect/Earth/Geology/Landform/Volcano/Submarine_Volcano.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geology/Landform/Volcano/Submarine_Volcano.protect|Submarine_Volcano.protect]] 
 
-### #is_/same_as :: [Submarine_Volcano.private](/_private/Earth/Geology/Landform/Volcano/Submarine_Volcano.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geology/Landform/Volcano/Submarine_Volcano.private|Submarine_Volcano.private]] 
 
-### #is_/same_as :: [Submarine_Volcano.personal](/_personal/Earth/Geology/Landform/Volcano/Submarine_Volcano.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geology/Landform/Volcano/Submarine_Volcano.personal|Submarine_Volcano.personal]] 
 
-### #is_/same_as :: [Submarine_Volcano.secret](/_secret/Earth/Geology/Landform/Volcano/Submarine_Volcano.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geology/Landform/Volcano/Submarine_Volcano.secret|Submarine_Volcano.secret]] 
 

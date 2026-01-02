@@ -43,17 +43,17 @@ An organization with archival holdings. An organization which keeps and preserve
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Archive_Organization](/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Archive_Organization.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Archive_Organization|Archive_Organization]] 
 
-### #is_/same_as :: [Archive_Organization.public](/_public/Society/Agent/Community/Organization/Business/Local_Business/Archive_Organization.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Business/Local_Business/Archive_Organization.public|Archive_Organization.public]] 
 
-### #is_/same_as :: [Archive_Organization.internal](/_internal/Society/Agent/Community/Organization/Business/Local_Business/Archive_Organization.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Business/Local_Business/Archive_Organization.internal|Archive_Organization.internal]] 
 
-### #is_/same_as :: [Archive_Organization.protect](/_protect/Society/Agent/Community/Organization/Business/Local_Business/Archive_Organization.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Business/Local_Business/Archive_Organization.protect|Archive_Organization.protect]] 
 
-### #is_/same_as :: [Archive_Organization.private](/_private/Society/Agent/Community/Organization/Business/Local_Business/Archive_Organization.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Business/Local_Business/Archive_Organization.private|Archive_Organization.private]] 
 
-### #is_/same_as :: [Archive_Organization.personal](/_personal/Society/Agent/Community/Organization/Business/Local_Business/Archive_Organization.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Business/Local_Business/Archive_Organization.personal|Archive_Organization.personal]] 
 
-### #is_/same_as :: [Archive_Organization.secret](/_secret/Society/Agent/Community/Organization/Business/Local_Business/Archive_Organization.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Business/Local_Business/Archive_Organization.secret|Archive_Organization.secret]] 
 

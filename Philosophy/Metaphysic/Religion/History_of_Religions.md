@@ -28,17 +28,17 @@ Commons_category: History of religion
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [History_of_Religions](/_Standards/Philosophy/Metaphysic/Religion/History_of_Religions.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/History_of_Religions|History_of_Religions]] 
 
-### #is_/same_as :: [History_of_Religions.public](/_public/Philosophy/Metaphysic/Religion/History_of_Religions.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/History_of_Religions.public|History_of_Religions.public]] 
 
-### #is_/same_as :: [History_of_Religions.internal](/_internal/Philosophy/Metaphysic/Religion/History_of_Religions.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/History_of_Religions.internal|History_of_Religions.internal]] 
 
-### #is_/same_as :: [History_of_Religions.protect](/_protect/Philosophy/Metaphysic/Religion/History_of_Religions.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/History_of_Religions.protect|History_of_Religions.protect]] 
 
-### #is_/same_as :: [History_of_Religions.private](/_private/Philosophy/Metaphysic/Religion/History_of_Religions.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/History_of_Religions.private|History_of_Religions.private]] 
 
-### #is_/same_as :: [History_of_Religions.personal](/_personal/Philosophy/Metaphysic/Religion/History_of_Religions.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/History_of_Religions.personal|History_of_Religions.personal]] 
 
-### #is_/same_as :: [History_of_Religions.secret](/_secret/Philosophy/Metaphysic/Religion/History_of_Religions.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/History_of_Religions.secret|History_of_Religions.secret]] 
 

@@ -130,17 +130,17 @@ Libris_URI: jgvxtf7217j8051
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Seneca](/_Standards/Philosophy/Philosopher/Ancient_Philosopher/Seneca.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Philosopher/Ancient_Philosopher/Seneca|Seneca]] 
 
-### #is_/same_as :: [Seneca.public](/_public/Philosophy/Philosopher/Ancient_Philosopher/Seneca.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Philosopher/Ancient_Philosopher/Seneca.public|Seneca.public]] 
 
-### #is_/same_as :: [Seneca.internal](/_internal/Philosophy/Philosopher/Ancient_Philosopher/Seneca.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Philosopher/Ancient_Philosopher/Seneca.internal|Seneca.internal]] 
 
-### #is_/same_as :: [Seneca.protect](/_protect/Philosophy/Philosopher/Ancient_Philosopher/Seneca.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Philosopher/Ancient_Philosopher/Seneca.protect|Seneca.protect]] 
 
-### #is_/same_as :: [Seneca.private](/_private/Philosophy/Philosopher/Ancient_Philosopher/Seneca.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Philosopher/Ancient_Philosopher/Seneca.private|Seneca.private]] 
 
-### #is_/same_as :: [Seneca.personal](/_personal/Philosophy/Philosopher/Ancient_Philosopher/Seneca.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Philosopher/Ancient_Philosopher/Seneca.personal|Seneca.personal]] 
 
-### #is_/same_as :: [Seneca.secret](/_secret/Philosophy/Philosopher/Ancient_Philosopher/Seneca.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Philosopher/Ancient_Philosopher/Seneca.secret|Seneca.secret]] 
 

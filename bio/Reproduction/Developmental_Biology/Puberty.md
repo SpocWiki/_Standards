@@ -45,17 +45,17 @@ MeSH_tree_code:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Puberty](/_Standards/bio/Reproduction/Developmental_Biology/Puberty.md) 
+### #is_/same_as :: [[/_Standards/bio/Reproduction/Developmental_Biology/Puberty|Puberty]] 
 
-### #is_/same_as :: [Puberty.public](/_public/bio/Reproduction/Developmental_Biology/Puberty.public.md) 
+### #is_/same_as :: [[/_public/bio/Reproduction/Developmental_Biology/Puberty.public|Puberty.public]] 
 
-### #is_/same_as :: [Puberty.internal](/_internal/bio/Reproduction/Developmental_Biology/Puberty.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Reproduction/Developmental_Biology/Puberty.internal|Puberty.internal]] 
 
-### #is_/same_as :: [Puberty.protect](/_protect/bio/Reproduction/Developmental_Biology/Puberty.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Reproduction/Developmental_Biology/Puberty.protect|Puberty.protect]] 
 
-### #is_/same_as :: [Puberty.private](/_private/bio/Reproduction/Developmental_Biology/Puberty.private.md) 
+### #is_/same_as :: [[/_private/bio/Reproduction/Developmental_Biology/Puberty.private|Puberty.private]] 
 
-### #is_/same_as :: [Puberty.personal](/_personal/bio/Reproduction/Developmental_Biology/Puberty.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Reproduction/Developmental_Biology/Puberty.personal|Puberty.personal]] 
 
-### #is_/same_as :: [Puberty.secret](/_secret/bio/Reproduction/Developmental_Biology/Puberty.secret.md)
+### #is_/same_as :: [[/_secret/bio/Reproduction/Developmental_Biology/Puberty.secret|Puberty.secret]] 
 

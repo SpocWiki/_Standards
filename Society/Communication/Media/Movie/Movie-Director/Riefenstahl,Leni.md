@@ -106,17 +106,17 @@ Europeana_entity: agent/base/146877
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Riefenstahl,Leni](/_Standards/Society/Communication/Media/Movie/Movie-Director/Riefenstahl,Leni.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Director/Riefenstahl,Leni|Riefenstahl,Leni]] 
 
-### #is_/same_as :: [Riefenstahl,Leni.public](/_public/Society/Communication/Media/Movie/Movie-Director/Riefenstahl,Leni.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Director/Riefenstahl,Leni.public|Riefenstahl,Leni.public]] 
 
-### #is_/same_as :: [Riefenstahl,Leni.internal](/_internal/Society/Communication/Media/Movie/Movie-Director/Riefenstahl,Leni.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Director/Riefenstahl,Leni.internal|Riefenstahl,Leni.internal]] 
 
-### #is_/same_as :: [Riefenstahl,Leni.protect](/_protect/Society/Communication/Media/Movie/Movie-Director/Riefenstahl,Leni.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Director/Riefenstahl,Leni.protect|Riefenstahl,Leni.protect]] 
 
-### #is_/same_as :: [Riefenstahl,Leni.private](/_private/Society/Communication/Media/Movie/Movie-Director/Riefenstahl,Leni.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Director/Riefenstahl,Leni.private|Riefenstahl,Leni.private]] 
 
-### #is_/same_as :: [Riefenstahl,Leni.personal](/_personal/Society/Communication/Media/Movie/Movie-Director/Riefenstahl,Leni.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Director/Riefenstahl,Leni.personal|Riefenstahl,Leni.personal]] 
 
-### #is_/same_as :: [Riefenstahl,Leni.secret](/_secret/Society/Communication/Media/Movie/Movie-Director/Riefenstahl,Leni.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Director/Riefenstahl,Leni.secret|Riefenstahl,Leni.secret]] 
 

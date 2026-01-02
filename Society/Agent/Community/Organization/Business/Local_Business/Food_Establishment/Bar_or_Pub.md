@@ -41,17 +41,17 @@ A bar or pub.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bar_or_Pub](/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Food_Establishment/Bar_or_Pub.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Food_Establishment/Bar_or_Pub|Bar_or_Pub]] 
 
-### #is_/same_as :: [Bar_or_Pub.public](/_public/Society/Agent/Community/Organization/Business/Local_Business/Food_Establishment/Bar_or_Pub.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Business/Local_Business/Food_Establishment/Bar_or_Pub.public|Bar_or_Pub.public]] 
 
-### #is_/same_as :: [Bar_or_Pub.internal](/_internal/Society/Agent/Community/Organization/Business/Local_Business/Food_Establishment/Bar_or_Pub.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Business/Local_Business/Food_Establishment/Bar_or_Pub.internal|Bar_or_Pub.internal]] 
 
-### #is_/same_as :: [Bar_or_Pub.protect](/_protect/Society/Agent/Community/Organization/Business/Local_Business/Food_Establishment/Bar_or_Pub.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Business/Local_Business/Food_Establishment/Bar_or_Pub.protect|Bar_or_Pub.protect]] 
 
-### #is_/same_as :: [Bar_or_Pub.private](/_private/Society/Agent/Community/Organization/Business/Local_Business/Food_Establishment/Bar_or_Pub.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Business/Local_Business/Food_Establishment/Bar_or_Pub.private|Bar_or_Pub.private]] 
 
-### #is_/same_as :: [Bar_or_Pub.personal](/_personal/Society/Agent/Community/Organization/Business/Local_Business/Food_Establishment/Bar_or_Pub.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Business/Local_Business/Food_Establishment/Bar_or_Pub.personal|Bar_or_Pub.personal]] 
 
-### #is_/same_as :: [Bar_or_Pub.secret](/_secret/Society/Agent/Community/Organization/Business/Local_Business/Food_Establishment/Bar_or_Pub.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Business/Local_Business/Food_Establishment/Bar_or_Pub.secret|Bar_or_Pub.secret]] 
 

@@ -77,17 +77,17 @@ A unique instance of a BroadcastService on a CableOrSatelliteService lineup.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Broadcast_Channel](/_Standards/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel|Broadcast_Channel]] 
 
-### #is_/same_as :: [Broadcast_Channel.public](/_public/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel.public|Broadcast_Channel.public]] 
 
-### #is_/same_as :: [Broadcast_Channel.internal](/_internal/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel.internal|Broadcast_Channel.internal]] 
 
-### #is_/same_as :: [Broadcast_Channel.protect](/_protect/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel.protect|Broadcast_Channel.protect]] 
 
-### #is_/same_as :: [Broadcast_Channel.private](/_private/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel.private|Broadcast_Channel.private]] 
 
-### #is_/same_as :: [Broadcast_Channel.personal](/_personal/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel.personal|Broadcast_Channel.personal]] 
 
-### #is_/same_as :: [Broadcast_Channel.secret](/_secret/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel.secret|Broadcast_Channel.secret]] 
 

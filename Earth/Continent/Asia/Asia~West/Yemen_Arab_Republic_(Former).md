@@ -36,17 +36,17 @@ has_place_continent:: [[Africa]]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Yemen_Arab_Republic_(Former)](/_Standards/Earth/Continent/Asia/Asia~West/Yemen_Arab_Republic_(Former).md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~West/Yemen_Arab_Republic_(Former)|Yemen_Arab_Republic_(Former)]] 
 
-### #is_/same_as :: [Yemen_Arab_Republic_(Former).public](/_public/Earth/Continent/Asia/Asia~West/Yemen_Arab_Republic_(Former).public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~West/Yemen_Arab_Republic_(Former).public|Yemen_Arab_Republic_(Former).public]] 
 
-### #is_/same_as :: [Yemen_Arab_Republic_(Former).internal](/_internal/Earth/Continent/Asia/Asia~West/Yemen_Arab_Republic_(Former).internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~West/Yemen_Arab_Republic_(Former).internal|Yemen_Arab_Republic_(Former).internal]] 
 
-### #is_/same_as :: [Yemen_Arab_Republic_(Former).protect](/_protect/Earth/Continent/Asia/Asia~West/Yemen_Arab_Republic_(Former).protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~West/Yemen_Arab_Republic_(Former).protect|Yemen_Arab_Republic_(Former).protect]] 
 
-### #is_/same_as :: [Yemen_Arab_Republic_(Former).private](/_private/Earth/Continent/Asia/Asia~West/Yemen_Arab_Republic_(Former).private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~West/Yemen_Arab_Republic_(Former).private|Yemen_Arab_Republic_(Former).private]] 
 
-### #is_/same_as :: [Yemen_Arab_Republic_(Former).personal](/_personal/Earth/Continent/Asia/Asia~West/Yemen_Arab_Republic_(Former).personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~West/Yemen_Arab_Republic_(Former).personal|Yemen_Arab_Republic_(Former).personal]] 
 
-### #is_/same_as :: [Yemen_Arab_Republic_(Former).secret](/_secret/Earth/Continent/Asia/Asia~West/Yemen_Arab_Republic_(Former).secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~West/Yemen_Arab_Republic_(Former).secret|Yemen_Arab_Republic_(Former).secret]] 
 

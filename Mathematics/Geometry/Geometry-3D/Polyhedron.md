@@ -57,17 +57,17 @@ Krugosvet_article_archived_: nauka_i_tehnika/matematika/MNOGOGRANNIK.html
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Polyhedron](/_Standards/Mathematics/Geometry/Geometry-3D/Polyhedron.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Geometry/Geometry-3D/Polyhedron|Polyhedron]] 
 
-### #is_/same_as :: [Polyhedron.public](/_public/Mathematics/Geometry/Geometry-3D/Polyhedron.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Geometry/Geometry-3D/Polyhedron.public|Polyhedron.public]] 
 
-### #is_/same_as :: [Polyhedron.internal](/_internal/Mathematics/Geometry/Geometry-3D/Polyhedron.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Geometry/Geometry-3D/Polyhedron.internal|Polyhedron.internal]] 
 
-### #is_/same_as :: [Polyhedron.protect](/_protect/Mathematics/Geometry/Geometry-3D/Polyhedron.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Geometry/Geometry-3D/Polyhedron.protect|Polyhedron.protect]] 
 
-### #is_/same_as :: [Polyhedron.private](/_private/Mathematics/Geometry/Geometry-3D/Polyhedron.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Geometry/Geometry-3D/Polyhedron.private|Polyhedron.private]] 
 
-### #is_/same_as :: [Polyhedron.personal](/_personal/Mathematics/Geometry/Geometry-3D/Polyhedron.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Geometry/Geometry-3D/Polyhedron.personal|Polyhedron.personal]] 
 
-### #is_/same_as :: [Polyhedron.secret](/_secret/Mathematics/Geometry/Geometry-3D/Polyhedron.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Geometry/Geometry-3D/Polyhedron.secret|Polyhedron.secret]] 
 

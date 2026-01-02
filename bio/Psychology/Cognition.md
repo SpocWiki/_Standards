@@ -63,17 +63,17 @@ Colon_Classification: S:4
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Cognition](/_Standards/bio/Psychology/Cognition.md) 
+### #is_/same_as :: [[/_Standards/bio/Psychology/Cognition|Cognition]] 
 
-### #is_/same_as :: [Cognition.public](/_public/bio/Psychology/Cognition.public.md) 
+### #is_/same_as :: [[/_public/bio/Psychology/Cognition.public|Cognition.public]] 
 
-### #is_/same_as :: [Cognition.internal](/_internal/bio/Psychology/Cognition.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Psychology/Cognition.internal|Cognition.internal]] 
 
-### #is_/same_as :: [Cognition.protect](/_protect/bio/Psychology/Cognition.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Psychology/Cognition.protect|Cognition.protect]] 
 
-### #is_/same_as :: [Cognition.private](/_private/bio/Psychology/Cognition.private.md) 
+### #is_/same_as :: [[/_private/bio/Psychology/Cognition.private|Cognition.private]] 
 
-### #is_/same_as :: [Cognition.personal](/_personal/bio/Psychology/Cognition.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Psychology/Cognition.personal|Cognition.personal]] 
 
-### #is_/same_as :: [Cognition.secret](/_secret/bio/Psychology/Cognition.secret.md)
+### #is_/same_as :: [[/_secret/bio/Psychology/Cognition.secret|Cognition.secret]] 
 

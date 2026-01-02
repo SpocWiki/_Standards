@@ -66,17 +66,17 @@ OpenStreetMap_tag: colour=orange
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Orange(color)](/_Standards/Technology/Design/Graphic_Design/Color/Orange(color).md) 
+### #is_/same_as :: [[/_Standards/Technology/Design/Graphic_Design/Color/Orange(color)|Orange(color)]] 
 
-### #is_/same_as :: [Orange(color).public](/_public/Technology/Design/Graphic_Design/Color/Orange(color).public.md) 
+### #is_/same_as :: [[/_public/Technology/Design/Graphic_Design/Color/Orange(color).public|Orange(color).public]] 
 
-### #is_/same_as :: [Orange(color).internal](/_internal/Technology/Design/Graphic_Design/Color/Orange(color).internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Design/Graphic_Design/Color/Orange(color).internal|Orange(color).internal]] 
 
-### #is_/same_as :: [Orange(color).protect](/_protect/Technology/Design/Graphic_Design/Color/Orange(color).protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Design/Graphic_Design/Color/Orange(color).protect|Orange(color).protect]] 
 
-### #is_/same_as :: [Orange(color).private](/_private/Technology/Design/Graphic_Design/Color/Orange(color).private.md) 
+### #is_/same_as :: [[/_private/Technology/Design/Graphic_Design/Color/Orange(color).private|Orange(color).private]] 
 
-### #is_/same_as :: [Orange(color).personal](/_personal/Technology/Design/Graphic_Design/Color/Orange(color).personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Design/Graphic_Design/Color/Orange(color).personal|Orange(color).personal]] 
 
-### #is_/same_as :: [Orange(color).secret](/_secret/Technology/Design/Graphic_Design/Color/Orange(color).secret.md)
+### #is_/same_as :: [[/_secret/Technology/Design/Graphic_Design/Color/Orange(color).secret|Orange(color).secret]] 
 

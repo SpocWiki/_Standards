@@ -22,17 +22,17 @@ type: folder_brief_live
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [IT~Company](/_Standards/Society/Agent/Community/Organization/Company/Corporation/IT~Company.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Company/Corporation/IT~Company|IT~Company]] 
 
-### #is_/same_as :: [IT~Company.public](/_public/Society/Agent/Community/Organization/Company/Corporation/IT~Company.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Company/Corporation/IT~Company.public|IT~Company.public]] 
 
-### #is_/same_as :: [IT~Company.internal](/_internal/Society/Agent/Community/Organization/Company/Corporation/IT~Company.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Company/Corporation/IT~Company.internal|IT~Company.internal]] 
 
-### #is_/same_as :: [IT~Company.protect](/_protect/Society/Agent/Community/Organization/Company/Corporation/IT~Company.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Company/Corporation/IT~Company.protect|IT~Company.protect]] 
 
-### #is_/same_as :: [IT~Company.private](/_private/Society/Agent/Community/Organization/Company/Corporation/IT~Company.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Company/Corporation/IT~Company.private|IT~Company.private]] 
 
-### #is_/same_as :: [IT~Company.personal](/_personal/Society/Agent/Community/Organization/Company/Corporation/IT~Company.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Company/Corporation/IT~Company.personal|IT~Company.personal]] 
 
-### #is_/same_as :: [IT~Company.secret](/_secret/Society/Agent/Community/Organization/Company/Corporation/IT~Company.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Company/Corporation/IT~Company.secret|IT~Company.secret]] 
 

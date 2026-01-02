@@ -59,17 +59,17 @@ Commons_category: Bit and byte
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Byte](/_Standards/Mathematics/Number/Numeral_System/Binary_numeral_System/Byte.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Number/Numeral_System/Binary_numeral_System/Byte|Byte]] 
 
-### #is_/same_as :: [Byte.public](/_public/Mathematics/Number/Numeral_System/Binary_numeral_System/Byte.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Number/Numeral_System/Binary_numeral_System/Byte.public|Byte.public]] 
 
-### #is_/same_as :: [Byte.internal](/_internal/Mathematics/Number/Numeral_System/Binary_numeral_System/Byte.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Number/Numeral_System/Binary_numeral_System/Byte.internal|Byte.internal]] 
 
-### #is_/same_as :: [Byte.protect](/_protect/Mathematics/Number/Numeral_System/Binary_numeral_System/Byte.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Number/Numeral_System/Binary_numeral_System/Byte.protect|Byte.protect]] 
 
-### #is_/same_as :: [Byte.private](/_private/Mathematics/Number/Numeral_System/Binary_numeral_System/Byte.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Number/Numeral_System/Binary_numeral_System/Byte.private|Byte.private]] 
 
-### #is_/same_as :: [Byte.personal](/_personal/Mathematics/Number/Numeral_System/Binary_numeral_System/Byte.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Number/Numeral_System/Binary_numeral_System/Byte.personal|Byte.personal]] 
 
-### #is_/same_as :: [Byte.secret](/_secret/Mathematics/Number/Numeral_System/Binary_numeral_System/Byte.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Number/Numeral_System/Binary_numeral_System/Byte.secret|Byte.secret]] 
 

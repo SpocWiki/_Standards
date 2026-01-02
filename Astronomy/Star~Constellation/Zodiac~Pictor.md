@@ -49,17 +49,17 @@ official_name: Pictor
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Zodiac~Pictor](/_Standards/Astronomy/Star~Constellation/Zodiac~Pictor.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Star~Constellation/Zodiac~Pictor|Zodiac~Pictor]] 
 
-### #is_/same_as :: [Zodiac~Pictor.public](/_public/Astronomy/Star~Constellation/Zodiac~Pictor.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Star~Constellation/Zodiac~Pictor.public|Zodiac~Pictor.public]] 
 
-### #is_/same_as :: [Zodiac~Pictor.internal](/_internal/Astronomy/Star~Constellation/Zodiac~Pictor.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Star~Constellation/Zodiac~Pictor.internal|Zodiac~Pictor.internal]] 
 
-### #is_/same_as :: [Zodiac~Pictor.protect](/_protect/Astronomy/Star~Constellation/Zodiac~Pictor.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Star~Constellation/Zodiac~Pictor.protect|Zodiac~Pictor.protect]] 
 
-### #is_/same_as :: [Zodiac~Pictor.private](/_private/Astronomy/Star~Constellation/Zodiac~Pictor.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Star~Constellation/Zodiac~Pictor.private|Zodiac~Pictor.private]] 
 
-### #is_/same_as :: [Zodiac~Pictor.personal](/_personal/Astronomy/Star~Constellation/Zodiac~Pictor.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Star~Constellation/Zodiac~Pictor.personal|Zodiac~Pictor.personal]] 
 
-### #is_/same_as :: [Zodiac~Pictor.secret](/_secret/Astronomy/Star~Constellation/Zodiac~Pictor.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Star~Constellation/Zodiac~Pictor.secret|Zodiac~Pictor.secret]] 
 

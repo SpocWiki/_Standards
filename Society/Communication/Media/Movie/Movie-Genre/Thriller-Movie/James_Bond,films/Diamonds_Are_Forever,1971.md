@@ -30,17 +30,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Diamonds_Are_Forever,1971](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Diamonds_Are_Forever,1971.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Diamonds_Are_Forever,1971|Diamonds_Are_Forever,1971]] 
 
-### #is_/same_as :: [Diamonds_Are_Forever,1971.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Diamonds_Are_Forever,1971.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Diamonds_Are_Forever,1971.public|Diamonds_Are_Forever,1971.public]] 
 
-### #is_/same_as :: [Diamonds_Are_Forever,1971.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Diamonds_Are_Forever,1971.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Diamonds_Are_Forever,1971.internal|Diamonds_Are_Forever,1971.internal]] 
 
-### #is_/same_as :: [Diamonds_Are_Forever,1971.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Diamonds_Are_Forever,1971.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Diamonds_Are_Forever,1971.protect|Diamonds_Are_Forever,1971.protect]] 
 
-### #is_/same_as :: [Diamonds_Are_Forever,1971.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Diamonds_Are_Forever,1971.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Diamonds_Are_Forever,1971.private|Diamonds_Are_Forever,1971.private]] 
 
-### #is_/same_as :: [Diamonds_Are_Forever,1971.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Diamonds_Are_Forever,1971.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Diamonds_Are_Forever,1971.personal|Diamonds_Are_Forever,1971.personal]] 
 
-### #is_/same_as :: [Diamonds_Are_Forever,1971.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Diamonds_Are_Forever,1971.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Diamonds_Are_Forever,1971.secret|Diamonds_Are_Forever,1971.secret]] 
 

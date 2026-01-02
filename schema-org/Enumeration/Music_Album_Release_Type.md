@@ -39,17 +39,17 @@ The kind of release which this album is: single, EP or album.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Music_Album_Release_Type](/_Standards/schema-org/Enumeration/Music_Album_Release_Type.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Music_Album_Release_Type|Music_Album_Release_Type]] 
 
-### #is_/same_as :: [Music_Album_Release_Type.public](/_public/schema-org/Enumeration/Music_Album_Release_Type.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Music_Album_Release_Type.public|Music_Album_Release_Type.public]] 
 
-### #is_/same_as :: [Music_Album_Release_Type.internal](/_internal/schema-org/Enumeration/Music_Album_Release_Type.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Music_Album_Release_Type.internal|Music_Album_Release_Type.internal]] 
 
-### #is_/same_as :: [Music_Album_Release_Type.protect](/_protect/schema-org/Enumeration/Music_Album_Release_Type.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Music_Album_Release_Type.protect|Music_Album_Release_Type.protect]] 
 
-### #is_/same_as :: [Music_Album_Release_Type.private](/_private/schema-org/Enumeration/Music_Album_Release_Type.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Music_Album_Release_Type.private|Music_Album_Release_Type.private]] 
 
-### #is_/same_as :: [Music_Album_Release_Type.personal](/_personal/schema-org/Enumeration/Music_Album_Release_Type.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Music_Album_Release_Type.personal|Music_Album_Release_Type.personal]] 
 
-### #is_/same_as :: [Music_Album_Release_Type.secret](/_secret/schema-org/Enumeration/Music_Album_Release_Type.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Music_Album_Release_Type.secret|Music_Album_Release_Type.secret]] 
 

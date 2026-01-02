@@ -124,17 +124,17 @@ date_of_birth: 1903-02-28T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Minnelli,Vincente](/_Standards/Society/Communication/Media/Movie/Movie-Director/Minnelli,Vincente.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Director/Minnelli,Vincente|Minnelli,Vincente]] 
 
-### #is_/same_as :: [Minnelli,Vincente.public](/_public/Society/Communication/Media/Movie/Movie-Director/Minnelli,Vincente.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Director/Minnelli,Vincente.public|Minnelli,Vincente.public]] 
 
-### #is_/same_as :: [Minnelli,Vincente.internal](/_internal/Society/Communication/Media/Movie/Movie-Director/Minnelli,Vincente.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Director/Minnelli,Vincente.internal|Minnelli,Vincente.internal]] 
 
-### #is_/same_as :: [Minnelli,Vincente.protect](/_protect/Society/Communication/Media/Movie/Movie-Director/Minnelli,Vincente.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Director/Minnelli,Vincente.protect|Minnelli,Vincente.protect]] 
 
-### #is_/same_as :: [Minnelli,Vincente.private](/_private/Society/Communication/Media/Movie/Movie-Director/Minnelli,Vincente.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Director/Minnelli,Vincente.private|Minnelli,Vincente.private]] 
 
-### #is_/same_as :: [Minnelli,Vincente.personal](/_personal/Society/Communication/Media/Movie/Movie-Director/Minnelli,Vincente.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Director/Minnelli,Vincente.personal|Minnelli,Vincente.personal]] 
 
-### #is_/same_as :: [Minnelli,Vincente.secret](/_secret/Society/Communication/Media/Movie/Movie-Director/Minnelli,Vincente.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Director/Minnelli,Vincente.secret|Minnelli,Vincente.secret]] 
 

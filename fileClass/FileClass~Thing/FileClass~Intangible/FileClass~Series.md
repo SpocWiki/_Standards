@@ -37,17 +37,17 @@ A Series in schema.org is a group of related items, typically but not necessaril
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~Series](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Series.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Series|FileClass~Series]] 
 
-### #is_/same_as :: [FileClass~Series.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Series.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Series.public|FileClass~Series.public]] 
 
-### #is_/same_as :: [FileClass~Series.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Series.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Series.internal|FileClass~Series.internal]] 
 
-### #is_/same_as :: [FileClass~Series.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Series.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Series.protect|FileClass~Series.protect]] 
 
-### #is_/same_as :: [FileClass~Series.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Series.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Series.private|FileClass~Series.private]] 
 
-### #is_/same_as :: [FileClass~Series.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Series.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Series.personal|FileClass~Series.personal]] 
 
-### #is_/same_as :: [FileClass~Series.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Series.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Series.secret|FileClass~Series.secret]] 
 

@@ -115,17 +115,17 @@ StarRating:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Th
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~LodgingBusiness](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LodgingBusiness.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LodgingBusiness|FileClass~LodgingBusiness]] 
 
-### #is_/same_as :: [FileClass~LodgingBusiness.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LodgingBusiness.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LodgingBusiness.public|FileClass~LodgingBusiness.public]] 
 
-### #is_/same_as :: [FileClass~LodgingBusiness.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LodgingBusiness.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LodgingBusiness.internal|FileClass~LodgingBusiness.internal]] 
 
-### #is_/same_as :: [FileClass~LodgingBusiness.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LodgingBusiness.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LodgingBusiness.protect|FileClass~LodgingBusiness.protect]] 
 
-### #is_/same_as :: [FileClass~LodgingBusiness.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LodgingBusiness.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LodgingBusiness.private|FileClass~LodgingBusiness.private]] 
 
-### #is_/same_as :: [FileClass~LodgingBusiness.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LodgingBusiness.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LodgingBusiness.personal|FileClass~LodgingBusiness.personal]] 
 
-### #is_/same_as :: [FileClass~LodgingBusiness.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LodgingBusiness.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LodgingBusiness.secret|FileClass~LodgingBusiness.secret]] 
 

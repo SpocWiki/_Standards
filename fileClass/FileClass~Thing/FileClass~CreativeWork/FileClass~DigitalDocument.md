@@ -48,17 +48,17 @@ HasDigitalDocumentPermission:: {"type":"MultiFile","options":{"dvQueryString":"d
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~DigitalDocument](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~DigitalDocument.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~DigitalDocument|FileClass~DigitalDocument]] 
 
-### #is_/same_as :: [FileClass~DigitalDocument.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~DigitalDocument.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~DigitalDocument.public|FileClass~DigitalDocument.public]] 
 
-### #is_/same_as :: [FileClass~DigitalDocument.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~DigitalDocument.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~DigitalDocument.internal|FileClass~DigitalDocument.internal]] 
 
-### #is_/same_as :: [FileClass~DigitalDocument.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~DigitalDocument.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~DigitalDocument.protect|FileClass~DigitalDocument.protect]] 
 
-### #is_/same_as :: [FileClass~DigitalDocument.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~DigitalDocument.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~DigitalDocument.private|FileClass~DigitalDocument.private]] 
 
-### #is_/same_as :: [FileClass~DigitalDocument.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~DigitalDocument.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~DigitalDocument.personal|FileClass~DigitalDocument.personal]] 
 
-### #is_/same_as :: [FileClass~DigitalDocument.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~DigitalDocument.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~DigitalDocument.secret|FileClass~DigitalDocument.secret]] 
 

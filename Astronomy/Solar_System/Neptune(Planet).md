@@ -199,17 +199,17 @@ Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_Neptune,30589066]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Neptune(Planet)](/_Standards/Astronomy/Solar_System/Neptune(Planet).md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Solar_System/Neptune(Planet)|Neptune(Planet)]] 
 
-### #is_/same_as :: [Neptune(Planet).public](/_public/Astronomy/Solar_System/Neptune(Planet).public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Solar_System/Neptune(Planet).public|Neptune(Planet).public]] 
 
-### #is_/same_as :: [Neptune(Planet).internal](/_internal/Astronomy/Solar_System/Neptune(Planet).internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Solar_System/Neptune(Planet).internal|Neptune(Planet).internal]] 
 
-### #is_/same_as :: [Neptune(Planet).protect](/_protect/Astronomy/Solar_System/Neptune(Planet).protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Solar_System/Neptune(Planet).protect|Neptune(Planet).protect]] 
 
-### #is_/same_as :: [Neptune(Planet).private](/_private/Astronomy/Solar_System/Neptune(Planet).private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Solar_System/Neptune(Planet).private|Neptune(Planet).private]] 
 
-### #is_/same_as :: [Neptune(Planet).personal](/_personal/Astronomy/Solar_System/Neptune(Planet).personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Solar_System/Neptune(Planet).personal|Neptune(Planet).personal]] 
 
-### #is_/same_as :: [Neptune(Planet).secret](/_secret/Astronomy/Solar_System/Neptune(Planet).secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Solar_System/Neptune(Planet).secret|Neptune(Planet).secret]] 
 

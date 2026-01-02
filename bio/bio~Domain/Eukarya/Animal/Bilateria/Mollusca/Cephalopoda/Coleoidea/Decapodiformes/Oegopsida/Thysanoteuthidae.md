@@ -41,7 +41,7 @@ title: Thysanoteuthis rhombus
 ## The diamondback squid 
 
 [Richard E. Young and Michael Vecchione]()
-![ ](Thysanoteuthidae/Thysanoteuthis.JPG))![ ](Thysanoteuthidae/ThysanoLarge.jpg))![](Thysanoteuthidae/ThysanotNaef.jpg))
+![ ](Thysanoteuthidae/Thysanoteuthis.JPG))![ ](Thysanoteuthidae/ThysanoLarge.jpg))![](Thysanoteuthidae/ThysanotNaef.jpg) 
 
 ***Thysanoteuthis*** contains a single species.
 
@@ -136,7 +136,7 @@ Zool., No. 586: 55-68.
 
 ## Title Illustrations
 
-![](Thysanoteuthidae/Thysanoteuthis.JPG))
+![](Thysanoteuthidae/Thysanoteuthis.JPG) 
 
   ------------
   Scientific Name ::     Thysanoteuthis rhombus
@@ -146,7 +146,7 @@ Zool., No. 586: 55-68.
   View                 Dorsal
   Copyright ::            © 1996 John Arnold
   ------------
-![](Thysanoteuthidae/ThysanoLarge.jpg))
+![](Thysanoteuthidae/ThysanoLarge.jpg) 
 
   --------------------------------------------------------------------------------
   Scientific Name ::   Thysanoteuthis rhombus
@@ -158,7 +158,7 @@ Zool., No. 586: 55-68.
   Copyright ::          © 1996 [Richard E. Young](http://www.soest.hawaii.edu/%7Eryoung/rey.html) 
  
   --------------------------------------------------------------------------------
-![](Thysanoteuthidae/ThysanotNaef.jpg))
+![](Thysanoteuthidae/ThysanotNaef.jpg) 
 
   ----------------------------------
   Scientific Name ::  Thysanoteuthis rhombus
@@ -170,17 +170,17 @@ Zool., No. 586: 55-68.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Thysanoteuthidae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Thysanoteuthidae.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Thysanoteuthidae|Thysanoteuthidae]] 
 
-### #is_/same_as :: [Thysanoteuthidae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Thysanoteuthidae.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Thysanoteuthidae.public|Thysanoteuthidae.public]] 
 
-### #is_/same_as :: [Thysanoteuthidae.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Thysanoteuthidae.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Thysanoteuthidae.internal|Thysanoteuthidae.internal]] 
 
-### #is_/same_as :: [Thysanoteuthidae.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Thysanoteuthidae.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Thysanoteuthidae.protect|Thysanoteuthidae.protect]] 
 
-### #is_/same_as :: [Thysanoteuthidae.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Thysanoteuthidae.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Thysanoteuthidae.private|Thysanoteuthidae.private]] 
 
-### #is_/same_as :: [Thysanoteuthidae.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Thysanoteuthidae.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Thysanoteuthidae.personal|Thysanoteuthidae.personal]] 
 
-### #is_/same_as :: [Thysanoteuthidae.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Thysanoteuthidae.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Thysanoteuthidae.secret|Thysanoteuthidae.secret]] 
 

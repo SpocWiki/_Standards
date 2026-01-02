@@ -47,17 +47,17 @@ Dewey_Decimal_Classification:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Vanilla](/_Standards/Society/Economics/Home_Economics/Cooking/Seasoning/Spice/Vanilla.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Home_Economics/Cooking/Seasoning/Spice/Vanilla|Vanilla]] 
 
-### #is_/same_as :: [Vanilla.public](/_public/Society/Economics/Home_Economics/Cooking/Seasoning/Spice/Vanilla.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Home_Economics/Cooking/Seasoning/Spice/Vanilla.public|Vanilla.public]] 
 
-### #is_/same_as :: [Vanilla.internal](/_internal/Society/Economics/Home_Economics/Cooking/Seasoning/Spice/Vanilla.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Home_Economics/Cooking/Seasoning/Spice/Vanilla.internal|Vanilla.internal]] 
 
-### #is_/same_as :: [Vanilla.protect](/_protect/Society/Economics/Home_Economics/Cooking/Seasoning/Spice/Vanilla.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Home_Economics/Cooking/Seasoning/Spice/Vanilla.protect|Vanilla.protect]] 
 
-### #is_/same_as :: [Vanilla.private](/_private/Society/Economics/Home_Economics/Cooking/Seasoning/Spice/Vanilla.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Home_Economics/Cooking/Seasoning/Spice/Vanilla.private|Vanilla.private]] 
 
-### #is_/same_as :: [Vanilla.personal](/_personal/Society/Economics/Home_Economics/Cooking/Seasoning/Spice/Vanilla.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Home_Economics/Cooking/Seasoning/Spice/Vanilla.personal|Vanilla.personal]] 
 
-### #is_/same_as :: [Vanilla.secret](/_secret/Society/Economics/Home_Economics/Cooking/Seasoning/Spice/Vanilla.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Home_Economics/Cooking/Seasoning/Spice/Vanilla.secret|Vanilla.secret]] 
 

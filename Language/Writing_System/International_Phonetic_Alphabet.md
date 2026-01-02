@@ -186,17 +186,17 @@ Commons_category: IPA charts
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [International_Phonetic_Alphabet](/_Standards/Language/Writing_System/International_Phonetic_Alphabet.md) 
+### #is_/same_as :: [[/_Standards/Language/Writing_System/International_Phonetic_Alphabet|International_Phonetic_Alphabet]] 
 
-### #is_/same_as :: [International_Phonetic_Alphabet.public](/_public/Language/Writing_System/International_Phonetic_Alphabet.public.md) 
+### #is_/same_as :: [[/_public/Language/Writing_System/International_Phonetic_Alphabet.public|International_Phonetic_Alphabet.public]] 
 
-### #is_/same_as :: [International_Phonetic_Alphabet.internal](/_internal/Language/Writing_System/International_Phonetic_Alphabet.internal.md) 
+### #is_/same_as :: [[/_internal/Language/Writing_System/International_Phonetic_Alphabet.internal|International_Phonetic_Alphabet.internal]] 
 
-### #is_/same_as :: [International_Phonetic_Alphabet.protect](/_protect/Language/Writing_System/International_Phonetic_Alphabet.protect.md) 
+### #is_/same_as :: [[/_protect/Language/Writing_System/International_Phonetic_Alphabet.protect|International_Phonetic_Alphabet.protect]] 
 
-### #is_/same_as :: [International_Phonetic_Alphabet.private](/_private/Language/Writing_System/International_Phonetic_Alphabet.private.md) 
+### #is_/same_as :: [[/_private/Language/Writing_System/International_Phonetic_Alphabet.private|International_Phonetic_Alphabet.private]] 
 
-### #is_/same_as :: [International_Phonetic_Alphabet.personal](/_personal/Language/Writing_System/International_Phonetic_Alphabet.personal.md) 
+### #is_/same_as :: [[/_personal/Language/Writing_System/International_Phonetic_Alphabet.personal|International_Phonetic_Alphabet.personal]] 
 
-### #is_/same_as :: [International_Phonetic_Alphabet.secret](/_secret/Language/Writing_System/International_Phonetic_Alphabet.secret.md)
+### #is_/same_as :: [[/_secret/Language/Writing_System/International_Phonetic_Alphabet.secret|International_Phonetic_Alphabet.secret]] 
 

@@ -443,17 +443,17 @@ Capital :: [[Jordan/Counties/Amman/City/Amman]]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Jordan](/_Standards/Earth/Continent/Asia/Asia~West/Jordan.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~West/Jordan|Jordan]] 
 
-### #is_/same_as :: [Jordan.public](/_public/Earth/Continent/Asia/Asia~West/Jordan.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~West/Jordan.public|Jordan.public]] 
 
-### #is_/same_as :: [Jordan.internal](/_internal/Earth/Continent/Asia/Asia~West/Jordan.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~West/Jordan.internal|Jordan.internal]] 
 
-### #is_/same_as :: [Jordan.protect](/_protect/Earth/Continent/Asia/Asia~West/Jordan.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~West/Jordan.protect|Jordan.protect]] 
 
-### #is_/same_as :: [Jordan.private](/_private/Earth/Continent/Asia/Asia~West/Jordan.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~West/Jordan.private|Jordan.private]] 
 
-### #is_/same_as :: [Jordan.personal](/_personal/Earth/Continent/Asia/Asia~West/Jordan.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~West/Jordan.personal|Jordan.personal]] 
 
-### #is_/same_as :: [Jordan.secret](/_secret/Earth/Continent/Asia/Asia~West/Jordan.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~West/Jordan.secret|Jordan.secret]] 
 

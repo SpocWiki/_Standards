@@ -73,17 +73,17 @@ native_label: Hip-hop
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hip_hop_Music](/_Standards/Society/Communication/Media/Music/Music_Genre/Hip_hop_Music.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Music_Genre/Hip_hop_Music|Hip_hop_Music]] 
 
-### #is_/same_as :: [Hip_hop_Music.public](/_public/Society/Communication/Media/Music/Music_Genre/Hip_hop_Music.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Music_Genre/Hip_hop_Music.public|Hip_hop_Music.public]] 
 
-### #is_/same_as :: [Hip_hop_Music.internal](/_internal/Society/Communication/Media/Music/Music_Genre/Hip_hop_Music.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Music_Genre/Hip_hop_Music.internal|Hip_hop_Music.internal]] 
 
-### #is_/same_as :: [Hip_hop_Music.protect](/_protect/Society/Communication/Media/Music/Music_Genre/Hip_hop_Music.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Music_Genre/Hip_hop_Music.protect|Hip_hop_Music.protect]] 
 
-### #is_/same_as :: [Hip_hop_Music.private](/_private/Society/Communication/Media/Music/Music_Genre/Hip_hop_Music.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Music_Genre/Hip_hop_Music.private|Hip_hop_Music.private]] 
 
-### #is_/same_as :: [Hip_hop_Music.personal](/_personal/Society/Communication/Media/Music/Music_Genre/Hip_hop_Music.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Music_Genre/Hip_hop_Music.personal|Hip_hop_Music.personal]] 
 
-### #is_/same_as :: [Hip_hop_Music.secret](/_secret/Society/Communication/Media/Music/Music_Genre/Hip_hop_Music.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Music_Genre/Hip_hop_Music.secret|Hip_hop_Music.secret]] 
 

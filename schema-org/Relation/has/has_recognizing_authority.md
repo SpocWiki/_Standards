@@ -42,17 +42,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_recognizing_authority](/_Standards/schema-org/Relation/has/has_recognizing_authority.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_recognizing_authority|has_recognizing_authority]] 
 
-### #is_/same_as :: [has_recognizing_authority.public](/_public/schema-org/Relation/has/has_recognizing_authority.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_recognizing_authority.public|has_recognizing_authority.public]] 
 
-### #is_/same_as :: [has_recognizing_authority.internal](/_internal/schema-org/Relation/has/has_recognizing_authority.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_recognizing_authority.internal|has_recognizing_authority.internal]] 
 
-### #is_/same_as :: [has_recognizing_authority.protect](/_protect/schema-org/Relation/has/has_recognizing_authority.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_recognizing_authority.protect|has_recognizing_authority.protect]] 
 
-### #is_/same_as :: [has_recognizing_authority.private](/_private/schema-org/Relation/has/has_recognizing_authority.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_recognizing_authority.private|has_recognizing_authority.private]] 
 
-### #is_/same_as :: [has_recognizing_authority.personal](/_personal/schema-org/Relation/has/has_recognizing_authority.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_recognizing_authority.personal|has_recognizing_authority.personal]] 
 
-### #is_/same_as :: [has_recognizing_authority.secret](/_secret/schema-org/Relation/has/has_recognizing_authority.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_recognizing_authority.secret|has_recognizing_authority.secret]] 
 

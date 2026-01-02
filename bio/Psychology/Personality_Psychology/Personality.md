@@ -60,17 +60,17 @@ Colon_Classification: S:7
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Personality](/_Standards/bio/Psychology/Personality_Psychology/Personality.md) 
+### #is_/same_as :: [[/_Standards/bio/Psychology/Personality_Psychology/Personality|Personality]] 
 
-### #is_/same_as :: [Personality.public](/_public/bio/Psychology/Personality_Psychology/Personality.public.md) 
+### #is_/same_as :: [[/_public/bio/Psychology/Personality_Psychology/Personality.public|Personality.public]] 
 
-### #is_/same_as :: [Personality.internal](/_internal/bio/Psychology/Personality_Psychology/Personality.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Psychology/Personality_Psychology/Personality.internal|Personality.internal]] 
 
-### #is_/same_as :: [Personality.protect](/_protect/bio/Psychology/Personality_Psychology/Personality.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Psychology/Personality_Psychology/Personality.protect|Personality.protect]] 
 
-### #is_/same_as :: [Personality.private](/_private/bio/Psychology/Personality_Psychology/Personality.private.md) 
+### #is_/same_as :: [[/_private/bio/Psychology/Personality_Psychology/Personality.private|Personality.private]] 
 
-### #is_/same_as :: [Personality.personal](/_personal/bio/Psychology/Personality_Psychology/Personality.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Psychology/Personality_Psychology/Personality.personal|Personality.personal]] 
 
-### #is_/same_as :: [Personality.secret](/_secret/bio/Psychology/Personality_Psychology/Personality.secret.md)
+### #is_/same_as :: [[/_secret/bio/Psychology/Personality_Psychology/Personality.secret|Personality.secret]] 
 

@@ -459,17 +459,17 @@ Capital :: [[Lomé]]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Togo](/_Standards/Earth/Continent/Africa/Africa~West/Togo.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~West/Togo|Togo]] 
 
-### #is_/same_as :: [Togo.public](/_public/Earth/Continent/Africa/Africa~West/Togo.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~West/Togo.public|Togo.public]] 
 
-### #is_/same_as :: [Togo.internal](/_internal/Earth/Continent/Africa/Africa~West/Togo.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~West/Togo.internal|Togo.internal]] 
 
-### #is_/same_as :: [Togo.protect](/_protect/Earth/Continent/Africa/Africa~West/Togo.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~West/Togo.protect|Togo.protect]] 
 
-### #is_/same_as :: [Togo.private](/_private/Earth/Continent/Africa/Africa~West/Togo.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~West/Togo.private|Togo.private]] 
 
-### #is_/same_as :: [Togo.personal](/_personal/Earth/Continent/Africa/Africa~West/Togo.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~West/Togo.personal|Togo.personal]] 
 
-### #is_/same_as :: [Togo.secret](/_secret/Earth/Continent/Africa/Africa~West/Togo.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~West/Togo.secret|Togo.secret]] 
 

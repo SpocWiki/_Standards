@@ -53,17 +53,17 @@ entry_in_abbreviations_table:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Conjunction](/_Standards/Language/Linguistics/Semiotics/Grammar/Conjunction.md) 
+### #is_/same_as :: [[/_Standards/Language/Linguistics/Semiotics/Grammar/Conjunction|Conjunction]] 
 
-### #is_/same_as :: [Conjunction.public](/_public/Language/Linguistics/Semiotics/Grammar/Conjunction.public.md) 
+### #is_/same_as :: [[/_public/Language/Linguistics/Semiotics/Grammar/Conjunction.public|Conjunction.public]] 
 
-### #is_/same_as :: [Conjunction.internal](/_internal/Language/Linguistics/Semiotics/Grammar/Conjunction.internal.md) 
+### #is_/same_as :: [[/_internal/Language/Linguistics/Semiotics/Grammar/Conjunction.internal|Conjunction.internal]] 
 
-### #is_/same_as :: [Conjunction.protect](/_protect/Language/Linguistics/Semiotics/Grammar/Conjunction.protect.md) 
+### #is_/same_as :: [[/_protect/Language/Linguistics/Semiotics/Grammar/Conjunction.protect|Conjunction.protect]] 
 
-### #is_/same_as :: [Conjunction.private](/_private/Language/Linguistics/Semiotics/Grammar/Conjunction.private.md) 
+### #is_/same_as :: [[/_private/Language/Linguistics/Semiotics/Grammar/Conjunction.private|Conjunction.private]] 
 
-### #is_/same_as :: [Conjunction.personal](/_personal/Language/Linguistics/Semiotics/Grammar/Conjunction.personal.md) 
+### #is_/same_as :: [[/_personal/Language/Linguistics/Semiotics/Grammar/Conjunction.personal|Conjunction.personal]] 
 
-### #is_/same_as :: [Conjunction.secret](/_secret/Language/Linguistics/Semiotics/Grammar/Conjunction.secret.md)
+### #is_/same_as :: [[/_secret/Language/Linguistics/Semiotics/Grammar/Conjunction.secret|Conjunction.secret]] 
 

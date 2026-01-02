@@ -43,17 +43,17 @@ Note: This type is for information about actual reservations, e.g. in confirmati
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Event_Reservation](/_Standards/schema-org/Class/is_a_/Intangible/Reservation/Event_Reservation.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Intangible/Reservation/Event_Reservation|Event_Reservation]] 
 
-### #is_/same_as :: [Event_Reservation.public](/_public/schema-org/Class/is_a_/Intangible/Reservation/Event_Reservation.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Intangible/Reservation/Event_Reservation.public|Event_Reservation.public]] 
 
-### #is_/same_as :: [Event_Reservation.internal](/_internal/schema-org/Class/is_a_/Intangible/Reservation/Event_Reservation.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Intangible/Reservation/Event_Reservation.internal|Event_Reservation.internal]] 
 
-### #is_/same_as :: [Event_Reservation.protect](/_protect/schema-org/Class/is_a_/Intangible/Reservation/Event_Reservation.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Intangible/Reservation/Event_Reservation.protect|Event_Reservation.protect]] 
 
-### #is_/same_as :: [Event_Reservation.private](/_private/schema-org/Class/is_a_/Intangible/Reservation/Event_Reservation.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Intangible/Reservation/Event_Reservation.private|Event_Reservation.private]] 
 
-### #is_/same_as :: [Event_Reservation.personal](/_personal/schema-org/Class/is_a_/Intangible/Reservation/Event_Reservation.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Intangible/Reservation/Event_Reservation.personal|Event_Reservation.personal]] 
 
-### #is_/same_as :: [Event_Reservation.secret](/_secret/schema-org/Class/is_a_/Intangible/Reservation/Event_Reservation.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Intangible/Reservation/Event_Reservation.secret|Event_Reservation.secret]] 
 

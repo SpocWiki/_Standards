@@ -48,17 +48,17 @@ hashtag: pacifism
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Pacifism](/_Standards/Society/Ideology/Political_Ideology/Pacifism.md) 
+### #is_/same_as :: [[/_Standards/Society/Ideology/Political_Ideology/Pacifism|Pacifism]] 
 
-### #is_/same_as :: [Pacifism.public](/_public/Society/Ideology/Political_Ideology/Pacifism.public.md) 
+### #is_/same_as :: [[/_public/Society/Ideology/Political_Ideology/Pacifism.public|Pacifism.public]] 
 
-### #is_/same_as :: [Pacifism.internal](/_internal/Society/Ideology/Political_Ideology/Pacifism.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Ideology/Political_Ideology/Pacifism.internal|Pacifism.internal]] 
 
-### #is_/same_as :: [Pacifism.protect](/_protect/Society/Ideology/Political_Ideology/Pacifism.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Ideology/Political_Ideology/Pacifism.protect|Pacifism.protect]] 
 
-### #is_/same_as :: [Pacifism.private](/_private/Society/Ideology/Political_Ideology/Pacifism.private.md) 
+### #is_/same_as :: [[/_private/Society/Ideology/Political_Ideology/Pacifism.private|Pacifism.private]] 
 
-### #is_/same_as :: [Pacifism.personal](/_personal/Society/Ideology/Political_Ideology/Pacifism.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Ideology/Political_Ideology/Pacifism.personal|Pacifism.personal]] 
 
-### #is_/same_as :: [Pacifism.secret](/_secret/Society/Ideology/Political_Ideology/Pacifism.secret.md)
+### #is_/same_as :: [[/_secret/Society/Ideology/Political_Ideology/Pacifism.secret|Pacifism.secret]] 
 

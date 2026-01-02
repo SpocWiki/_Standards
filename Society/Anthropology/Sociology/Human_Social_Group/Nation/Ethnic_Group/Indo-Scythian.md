@@ -68,17 +68,17 @@ Commons_category: Indo-Scythians
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Indo-Scythian](/_Standards/Indo-Scythian.md) 
+### #is_/same_as :: [[/_Standards/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Indo-Scythian|Indo-Scythian]] 
 
-### #is_/same_as :: [Indo-Scythian.public](/_public/Indo-Scythian.public.md) 
+### #is_/same_as :: [[/_public/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Indo-Scythian.public|Indo-Scythian.public]] 
 
-### #is_/same_as :: [Indo-Scythian.internal](/_internal/Indo-Scythian.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Indo-Scythian.internal|Indo-Scythian.internal]] 
 
-### #is_/same_as :: [Indo-Scythian.protect](/_protect/Indo-Scythian.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Indo-Scythian.protect|Indo-Scythian.protect]] 
 
-### #is_/same_as :: [Indo-Scythian.private](/_private/Indo-Scythian.private.md) 
+### #is_/same_as :: [[/_private/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Indo-Scythian.private|Indo-Scythian.private]] 
 
-### #is_/same_as :: [Indo-Scythian.personal](/_personal/Indo-Scythian.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Indo-Scythian.personal|Indo-Scythian.personal]] 
 
-### #is_/same_as :: [Indo-Scythian.secret](/_secret/Indo-Scythian.secret.md)
+### #is_/same_as :: [[/_secret/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Indo-Scythian.secret|Indo-Scythian.secret]] 
 

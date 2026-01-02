@@ -42,17 +42,17 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Blausen%200801%20Skele
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Skeletal_striated_Muscle](/_Standards/bio/Medicine/Anatomy/Skeleton/Muscle/Skeletal_striated_Muscle.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Anatomy/Skeleton/Muscle/Skeletal_striated_Muscle|Skeletal_striated_Muscle]] 
 
-### #is_/same_as :: [Skeletal_striated_Muscle.public](/_public/bio/Medicine/Anatomy/Skeleton/Muscle/Skeletal_striated_Muscle.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Anatomy/Skeleton/Muscle/Skeletal_striated_Muscle.public|Skeletal_striated_Muscle.public]] 
 
-### #is_/same_as :: [Skeletal_striated_Muscle.internal](/_internal/bio/Medicine/Anatomy/Skeleton/Muscle/Skeletal_striated_Muscle.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Anatomy/Skeleton/Muscle/Skeletal_striated_Muscle.internal|Skeletal_striated_Muscle.internal]] 
 
-### #is_/same_as :: [Skeletal_striated_Muscle.protect](/_protect/bio/Medicine/Anatomy/Skeleton/Muscle/Skeletal_striated_Muscle.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Anatomy/Skeleton/Muscle/Skeletal_striated_Muscle.protect|Skeletal_striated_Muscle.protect]] 
 
-### #is_/same_as :: [Skeletal_striated_Muscle.private](/_private/bio/Medicine/Anatomy/Skeleton/Muscle/Skeletal_striated_Muscle.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Anatomy/Skeleton/Muscle/Skeletal_striated_Muscle.private|Skeletal_striated_Muscle.private]] 
 
-### #is_/same_as :: [Skeletal_striated_Muscle.personal](/_personal/bio/Medicine/Anatomy/Skeleton/Muscle/Skeletal_striated_Muscle.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Anatomy/Skeleton/Muscle/Skeletal_striated_Muscle.personal|Skeletal_striated_Muscle.personal]] 
 
-### #is_/same_as :: [Skeletal_striated_Muscle.secret](/_secret/bio/Medicine/Anatomy/Skeleton/Muscle/Skeletal_striated_Muscle.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Anatomy/Skeleton/Muscle/Skeletal_striated_Muscle.secret|Skeletal_striated_Muscle.secret]] 
 

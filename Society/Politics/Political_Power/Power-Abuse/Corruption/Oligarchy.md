@@ -44,17 +44,17 @@ Library_of_Congress_Classification: JC419
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Oligarchy](/_Standards/Society/Politics/Political_Power/Power-Abuse/Corruption/Oligarchy.md) 
+### #is_/same_as :: [[/_Standards/Society/Politics/Political_Power/Power-Abuse/Corruption/Oligarchy|Oligarchy]] 
 
-### #is_/same_as :: [Oligarchy.public](/_public/Society/Politics/Political_Power/Power-Abuse/Corruption/Oligarchy.public.md) 
+### #is_/same_as :: [[/_public/Society/Politics/Political_Power/Power-Abuse/Corruption/Oligarchy.public|Oligarchy.public]] 
 
-### #is_/same_as :: [Oligarchy.internal](/_internal/Society/Politics/Political_Power/Power-Abuse/Corruption/Oligarchy.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Politics/Political_Power/Power-Abuse/Corruption/Oligarchy.internal|Oligarchy.internal]] 
 
-### #is_/same_as :: [Oligarchy.protect](/_protect/Society/Politics/Political_Power/Power-Abuse/Corruption/Oligarchy.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Politics/Political_Power/Power-Abuse/Corruption/Oligarchy.protect|Oligarchy.protect]] 
 
-### #is_/same_as :: [Oligarchy.private](/_private/Society/Politics/Political_Power/Power-Abuse/Corruption/Oligarchy.private.md) 
+### #is_/same_as :: [[/_private/Society/Politics/Political_Power/Power-Abuse/Corruption/Oligarchy.private|Oligarchy.private]] 
 
-### #is_/same_as :: [Oligarchy.personal](/_personal/Society/Politics/Political_Power/Power-Abuse/Corruption/Oligarchy.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Politics/Political_Power/Power-Abuse/Corruption/Oligarchy.personal|Oligarchy.personal]] 
 
-### #is_/same_as :: [Oligarchy.secret](/_secret/Society/Politics/Political_Power/Power-Abuse/Corruption/Oligarchy.secret.md)
+### #is_/same_as :: [[/_secret/Society/Politics/Political_Power/Power-Abuse/Corruption/Oligarchy.secret|Oligarchy.secret]] 
 

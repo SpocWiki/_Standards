@@ -364,17 +364,17 @@ Capital :: [[Yaren]]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Nauru](/_Standards/Earth/Continent/Australasia/Micronesia/Nauru.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Australasia/Micronesia/Nauru|Nauru]] 
 
-### #is_/same_as :: [Nauru.public](/_public/Earth/Continent/Australasia/Micronesia/Nauru.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Australasia/Micronesia/Nauru.public|Nauru.public]] 
 
-### #is_/same_as :: [Nauru.internal](/_internal/Earth/Continent/Australasia/Micronesia/Nauru.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Australasia/Micronesia/Nauru.internal|Nauru.internal]] 
 
-### #is_/same_as :: [Nauru.protect](/_protect/Earth/Continent/Australasia/Micronesia/Nauru.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Australasia/Micronesia/Nauru.protect|Nauru.protect]] 
 
-### #is_/same_as :: [Nauru.private](/_private/Earth/Continent/Australasia/Micronesia/Nauru.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Australasia/Micronesia/Nauru.private|Nauru.private]] 
 
-### #is_/same_as :: [Nauru.personal](/_personal/Earth/Continent/Australasia/Micronesia/Nauru.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Australasia/Micronesia/Nauru.personal|Nauru.personal]] 
 
-### #is_/same_as :: [Nauru.secret](/_secret/Earth/Continent/Australasia/Micronesia/Nauru.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Australasia/Micronesia/Nauru.secret|Nauru.secret]] 
 

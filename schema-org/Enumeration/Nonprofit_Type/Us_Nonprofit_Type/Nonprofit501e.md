@@ -42,17 +42,17 @@ Nonprofit501e: Non-profit type referring to Cooperative Hospital Service Organiz
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Nonprofit501e](/_Standards/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501e.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501e|Nonprofit501e]] 
 
-### #is_/same_as :: [Nonprofit501e.public](/_public/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501e.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501e.public|Nonprofit501e.public]] 
 
-### #is_/same_as :: [Nonprofit501e.internal](/_internal/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501e.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501e.internal|Nonprofit501e.internal]] 
 
-### #is_/same_as :: [Nonprofit501e.protect](/_protect/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501e.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501e.protect|Nonprofit501e.protect]] 
 
-### #is_/same_as :: [Nonprofit501e.private](/_private/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501e.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501e.private|Nonprofit501e.private]] 
 
-### #is_/same_as :: [Nonprofit501e.personal](/_personal/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501e.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501e.personal|Nonprofit501e.personal]] 
 
-### #is_/same_as :: [Nonprofit501e.secret](/_secret/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501e.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501e.secret|Nonprofit501e.secret]] 
 

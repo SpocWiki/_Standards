@@ -116,7 +116,7 @@ represent a new species. Zoologischer Anzeiger 1/2: 97 \-- 106.
 
 ## Title Illustrations
 
-![](Rana_bedriagae/beyshehir.jpg))
+![](Rana_bedriagae/beyshehir.jpg) 
 
   --------------------------------------------------------------------------
   Scientific Name ::  Rana bedriagae
@@ -128,17 +128,17 @@ represent a new species. Zoologischer Anzeiger 1/2: 97 \-- 106.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Rana_bedriagae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Neobatrachia/Ranid/Rana/Pelophylax/Western_Water_Frogs/Rana_bedriagae.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Neobatrachia/Ranid/Rana/Pelophylax/Western_Water_Frogs/Rana_bedriagae|Rana_bedriagae]] 
 
-### #is_/same_as :: [Rana_bedriagae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Neobatrachia/Ranid/Rana/Pelophylax/Western_Water_Frogs/Rana_bedriagae.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Neobatrachia/Ranid/Rana/Pelophylax/Western_Water_Frogs/Rana_bedriagae.public|Rana_bedriagae.public]] 
 
-### #is_/same_as :: [Rana_bedriagae.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Neobatrachia/Ranid/Rana/Pelophylax/Western_Water_Frogs/Rana_bedriagae.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Neobatrachia/Ranid/Rana/Pelophylax/Western_Water_Frogs/Rana_bedriagae.internal|Rana_bedriagae.internal]] 
 
-### #is_/same_as :: [Rana_bedriagae.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Neobatrachia/Ranid/Rana/Pelophylax/Western_Water_Frogs/Rana_bedriagae.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Neobatrachia/Ranid/Rana/Pelophylax/Western_Water_Frogs/Rana_bedriagae.protect|Rana_bedriagae.protect]] 
 
-### #is_/same_as :: [Rana_bedriagae.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Neobatrachia/Ranid/Rana/Pelophylax/Western_Water_Frogs/Rana_bedriagae.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Neobatrachia/Ranid/Rana/Pelophylax/Western_Water_Frogs/Rana_bedriagae.private|Rana_bedriagae.private]] 
 
-### #is_/same_as :: [Rana_bedriagae.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Neobatrachia/Ranid/Rana/Pelophylax/Western_Water_Frogs/Rana_bedriagae.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Neobatrachia/Ranid/Rana/Pelophylax/Western_Water_Frogs/Rana_bedriagae.personal|Rana_bedriagae.personal]] 
 
-### #is_/same_as :: [Rana_bedriagae.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Neobatrachia/Ranid/Rana/Pelophylax/Western_Water_Frogs/Rana_bedriagae.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Neobatrachia/Ranid/Rana/Pelophylax/Western_Water_Frogs/Rana_bedriagae.secret|Rana_bedriagae.secret]] 
 

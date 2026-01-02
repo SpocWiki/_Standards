@@ -49,17 +49,17 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/2021%20Toyota%20Coroll
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Toyota_Corolla](/_Standards/Society/Agent/Community/Organization/Company/Corporation/Automotive/Toyota/Toyota_Corolla.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Company/Corporation/Automotive/Toyota/Toyota_Corolla|Toyota_Corolla]] 
 
-### #is_/same_as :: [Toyota_Corolla.public](/_public/Society/Agent/Community/Organization/Company/Corporation/Automotive/Toyota/Toyota_Corolla.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Company/Corporation/Automotive/Toyota/Toyota_Corolla.public|Toyota_Corolla.public]] 
 
-### #is_/same_as :: [Toyota_Corolla.internal](/_internal/Society/Agent/Community/Organization/Company/Corporation/Automotive/Toyota/Toyota_Corolla.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Company/Corporation/Automotive/Toyota/Toyota_Corolla.internal|Toyota_Corolla.internal]] 
 
-### #is_/same_as :: [Toyota_Corolla.protect](/_protect/Society/Agent/Community/Organization/Company/Corporation/Automotive/Toyota/Toyota_Corolla.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Company/Corporation/Automotive/Toyota/Toyota_Corolla.protect|Toyota_Corolla.protect]] 
 
-### #is_/same_as :: [Toyota_Corolla.private](/_private/Society/Agent/Community/Organization/Company/Corporation/Automotive/Toyota/Toyota_Corolla.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Company/Corporation/Automotive/Toyota/Toyota_Corolla.private|Toyota_Corolla.private]] 
 
-### #is_/same_as :: [Toyota_Corolla.personal](/_personal/Society/Agent/Community/Organization/Company/Corporation/Automotive/Toyota/Toyota_Corolla.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Company/Corporation/Automotive/Toyota/Toyota_Corolla.personal|Toyota_Corolla.personal]] 
 
-### #is_/same_as :: [Toyota_Corolla.secret](/_secret/Society/Agent/Community/Organization/Company/Corporation/Automotive/Toyota/Toyota_Corolla.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Company/Corporation/Automotive/Toyota/Toyota_Corolla.secret|Toyota_Corolla.secret]] 
 

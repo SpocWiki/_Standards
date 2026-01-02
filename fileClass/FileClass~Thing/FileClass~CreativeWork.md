@@ -1224,17 +1224,17 @@ WorkTranslation:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#cla
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~CreativeWork](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork|FileClass~CreativeWork]] 
 
-### #is_/same_as :: [FileClass~CreativeWork.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~CreativeWork.public|FileClass~CreativeWork.public]] 
 
-### #is_/same_as :: [FileClass~CreativeWork.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork.internal|FileClass~CreativeWork.internal]] 
 
-### #is_/same_as :: [FileClass~CreativeWork.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork.protect|FileClass~CreativeWork.protect]] 
 
-### #is_/same_as :: [FileClass~CreativeWork.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~CreativeWork.private|FileClass~CreativeWork.private]] 
 
-### #is_/same_as :: [FileClass~CreativeWork.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork.personal|FileClass~CreativeWork.personal]] 
 
-### #is_/same_as :: [FileClass~CreativeWork.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork.secret|FileClass~CreativeWork.secret]] 
 

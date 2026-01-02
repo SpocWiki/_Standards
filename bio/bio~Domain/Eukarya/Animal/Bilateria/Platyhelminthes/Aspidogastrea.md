@@ -74,7 +74,7 @@ Shared characteristics of the group are a large ventral disc with a
 large number of small alveoli (suckerlets) (Fig. 1, see also [Structure of the juvenile and adult](http://www.tolweb.org/accessory/Juvenile_&_Adult_Aspidogastrea?acc_id=1791))
 or a row of suckers and a tegument with short protrusions, so-called
 microtubercles.
-![ ](Aspidogastrea/fig24as.gif))
+![ ](Aspidogastrea/fig24as.gif) 
 
 Figure 1. Whole mount of *Multicotyle purvisi* (redrawn from Rohde,
 1972).
@@ -83,7 +83,7 @@ Larvae have a posterior sucker and in some species a short posterior
 appendage; they either possess a number of ciliated patches, or they are
 non-ciliated (Fig.2), see [Structure of the larvae](http://www.tolweb.org/accessory/Structure_of_the_Aspidogastrea_Larva?acc_id=1792)
 page.
-![ ](Aspidogastrea/fig12as.gif))
+![ ](Aspidogastrea/fig12as.gif) 
 
 Figure 2. Larva of *Lobatostoma manteri* (redrawn from Rohde, 1973a).
 
@@ -184,7 +184,7 @@ of the trematodes, has not been resolved (see discussion in Rohde 2001).
 
 
 --------------------------------------------------------------------------- 
-![Micrograph of Rugogaster hyrdolagi](Aspidogastrea/Rugogaster_hyrdolagi.gif))
+![Micrograph of Rugogaster hyrdolagi](Aspidogastrea/Rugogaster_hyrdolagi.gif) 
 Scientific Name ::     Rugogaster hyrdolagi
 Creator              Shirley Dawson
 Specimen Condition   Dead Specimen
@@ -207,17 +207,17 @@ Copyright ::            © 1998 [Klaus Rohde](http://metz.une.edu.au/%7Ekrohde/)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Aspidogastrea](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Platyhelminthes/Aspidogastrea.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Platyhelminthes/Aspidogastrea|Aspidogastrea]] 
 
-### #is_/same_as :: [Aspidogastrea.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Platyhelminthes/Aspidogastrea.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Platyhelminthes/Aspidogastrea.public|Aspidogastrea.public]] 
 
-### #is_/same_as :: [Aspidogastrea.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Platyhelminthes/Aspidogastrea.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Platyhelminthes/Aspidogastrea.internal|Aspidogastrea.internal]] 
 
-### #is_/same_as :: [Aspidogastrea.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Platyhelminthes/Aspidogastrea.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Platyhelminthes/Aspidogastrea.protect|Aspidogastrea.protect]] 
 
-### #is_/same_as :: [Aspidogastrea.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Platyhelminthes/Aspidogastrea.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Platyhelminthes/Aspidogastrea.private|Aspidogastrea.private]] 
 
-### #is_/same_as :: [Aspidogastrea.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Platyhelminthes/Aspidogastrea.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Platyhelminthes/Aspidogastrea.personal|Aspidogastrea.personal]] 
 
-### #is_/same_as :: [Aspidogastrea.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Platyhelminthes/Aspidogastrea.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Platyhelminthes/Aspidogastrea.secret|Aspidogastrea.secret]] 
 

@@ -53,17 +53,17 @@ Krugosvet_article: religiya/kasty
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Caste](/_Standards/Society/Anthropology/Sociology/Social_Stratification/Caste.md) 
+### #is_/same_as :: [[/_Standards/Society/Anthropology/Sociology/Social_Stratification/Caste|Caste]] 
 
-### #is_/same_as :: [Caste.public](/_public/Society/Anthropology/Sociology/Social_Stratification/Caste.public.md) 
+### #is_/same_as :: [[/_public/Society/Anthropology/Sociology/Social_Stratification/Caste.public|Caste.public]] 
 
-### #is_/same_as :: [Caste.internal](/_internal/Society/Anthropology/Sociology/Social_Stratification/Caste.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Anthropology/Sociology/Social_Stratification/Caste.internal|Caste.internal]] 
 
-### #is_/same_as :: [Caste.protect](/_protect/Society/Anthropology/Sociology/Social_Stratification/Caste.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Anthropology/Sociology/Social_Stratification/Caste.protect|Caste.protect]] 
 
-### #is_/same_as :: [Caste.private](/_private/Society/Anthropology/Sociology/Social_Stratification/Caste.private.md) 
+### #is_/same_as :: [[/_private/Society/Anthropology/Sociology/Social_Stratification/Caste.private|Caste.private]] 
 
-### #is_/same_as :: [Caste.personal](/_personal/Society/Anthropology/Sociology/Social_Stratification/Caste.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Anthropology/Sociology/Social_Stratification/Caste.personal|Caste.personal]] 
 
-### #is_/same_as :: [Caste.secret](/_secret/Society/Anthropology/Sociology/Social_Stratification/Caste.secret.md)
+### #is_/same_as :: [[/_secret/Society/Anthropology/Sociology/Social_Stratification/Caste.secret|Caste.secret]] 
 

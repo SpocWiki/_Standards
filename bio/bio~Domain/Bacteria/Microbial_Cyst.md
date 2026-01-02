@@ -45,17 +45,17 @@ subclass_of:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Microbial_Cyst](/_Standards/bio/bio~Domain/Bacteria/Microbial_Cyst.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Bacteria/Microbial_Cyst|Microbial_Cyst]] 
 
-### #is_/same_as :: [Microbial_Cyst.public](/_public/bio/bio~Domain/Bacteria/Microbial_Cyst.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Bacteria/Microbial_Cyst.public|Microbial_Cyst.public]] 
 
-### #is_/same_as :: [Microbial_Cyst.internal](/_internal/bio/bio~Domain/Bacteria/Microbial_Cyst.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Bacteria/Microbial_Cyst.internal|Microbial_Cyst.internal]] 
 
-### #is_/same_as :: [Microbial_Cyst.protect](/_protect/bio/bio~Domain/Bacteria/Microbial_Cyst.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Bacteria/Microbial_Cyst.protect|Microbial_Cyst.protect]] 
 
-### #is_/same_as :: [Microbial_Cyst.private](/_private/bio/bio~Domain/Bacteria/Microbial_Cyst.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Bacteria/Microbial_Cyst.private|Microbial_Cyst.private]] 
 
-### #is_/same_as :: [Microbial_Cyst.personal](/_personal/bio/bio~Domain/Bacteria/Microbial_Cyst.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Bacteria/Microbial_Cyst.personal|Microbial_Cyst.personal]] 
 
-### #is_/same_as :: [Microbial_Cyst.secret](/_secret/bio/bio~Domain/Bacteria/Microbial_Cyst.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Bacteria/Microbial_Cyst.secret|Microbial_Cyst.secret]] 
 

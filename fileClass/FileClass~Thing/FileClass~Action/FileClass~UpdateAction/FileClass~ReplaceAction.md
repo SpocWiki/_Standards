@@ -59,17 +59,17 @@ Replacer:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thin
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~ReplaceAction](/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~UpdateAction/FileClass~ReplaceAction.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~UpdateAction/FileClass~ReplaceAction|FileClass~ReplaceAction]] 
 
-### #is_/same_as :: [FileClass~ReplaceAction.public](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~UpdateAction/FileClass~ReplaceAction.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~UpdateAction/FileClass~ReplaceAction.public|FileClass~ReplaceAction.public]] 
 
-### #is_/same_as :: [FileClass~ReplaceAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~UpdateAction/FileClass~ReplaceAction.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~UpdateAction/FileClass~ReplaceAction.internal|FileClass~ReplaceAction.internal]] 
 
-### #is_/same_as :: [FileClass~ReplaceAction.protect](/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~UpdateAction/FileClass~ReplaceAction.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~UpdateAction/FileClass~ReplaceAction.protect|FileClass~ReplaceAction.protect]] 
 
-### #is_/same_as :: [FileClass~ReplaceAction.private](/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~UpdateAction/FileClass~ReplaceAction.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~UpdateAction/FileClass~ReplaceAction.private|FileClass~ReplaceAction.private]] 
 
-### #is_/same_as :: [FileClass~ReplaceAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~UpdateAction/FileClass~ReplaceAction.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~UpdateAction/FileClass~ReplaceAction.personal|FileClass~ReplaceAction.personal]] 
 
-### #is_/same_as :: [FileClass~ReplaceAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~UpdateAction/FileClass~ReplaceAction.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~UpdateAction/FileClass~ReplaceAction.secret|FileClass~ReplaceAction.secret]] 
 

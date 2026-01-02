@@ -221,17 +221,17 @@ Danbooru_tag: joe_biden
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Biden,Joe](/_Standards/Earth/Continent/America~North/US~President/Biden,Joe.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~North/USA/US_President/Biden,Joe|Biden,Joe]] 
 
-### #is_/same_as :: [Biden,Joe.public](/_public/Earth/Continent/America~North/US~President/Biden,Joe.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~North/USA/US_President/Biden,Joe.public|Biden,Joe.public]] 
 
-### #is_/same_as :: [Biden,Joe.internal](/_internal/Earth/Continent/America~North/US~President/Biden,Joe.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~North/USA/US_President/Biden,Joe.internal|Biden,Joe.internal]] 
 
-### #is_/same_as :: [Biden,Joe.protect](/_protect/Earth/Continent/America~North/US~President/Biden,Joe.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~North/USA/US_President/Biden,Joe.protect|Biden,Joe.protect]] 
 
-### #is_/same_as :: [Biden,Joe.private](/_private/Earth/Continent/America~North/US~President/Biden,Joe.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~North/USA/US_President/Biden,Joe.private|Biden,Joe.private]] 
 
-### #is_/same_as :: [Biden,Joe.personal](/_personal/Earth/Continent/America~North/US~President/Biden,Joe.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~North/USA/US_President/Biden,Joe.personal|Biden,Joe.personal]] 
 
-### #is_/same_as :: [Biden,Joe.secret](/_secret/Earth/Continent/America~North/US~President/Biden,Joe.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~North/USA/US_President/Biden,Joe.secret|Biden,Joe.secret]] 
 

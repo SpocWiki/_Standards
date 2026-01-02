@@ -58,17 +58,17 @@ Wolfram_Language_entity_code: Entity["HistoricalEvent", "ShaanxiEarthquakeKillsA
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [1556-Shaanxi_earthquake](/_Standards/Society/Disaster/Natural_Disaster/Earthquake/1556-Shaanxi_earthquake.md) 
+### #is_/same_as :: [[/_Standards/Society/Disaster/Natural_Disaster/Earthquake/1556-Shaanxi_earthquake|1556-Shaanxi_earthquake]] 
 
-### #is_/same_as :: [1556-Shaanxi_earthquake.public](/_public/Society/Disaster/Natural_Disaster/Earthquake/1556-Shaanxi_earthquake.public.md) 
+### #is_/same_as :: [[/_public/Society/Disaster/Natural_Disaster/Earthquake/1556-Shaanxi_earthquake.public|1556-Shaanxi_earthquake.public]] 
 
-### #is_/same_as :: [1556-Shaanxi_earthquake.internal](/_internal/Society/Disaster/Natural_Disaster/Earthquake/1556-Shaanxi_earthquake.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Disaster/Natural_Disaster/Earthquake/1556-Shaanxi_earthquake.internal|1556-Shaanxi_earthquake.internal]] 
 
-### #is_/same_as :: [1556-Shaanxi_earthquake.protect](/_protect/Society/Disaster/Natural_Disaster/Earthquake/1556-Shaanxi_earthquake.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Disaster/Natural_Disaster/Earthquake/1556-Shaanxi_earthquake.protect|1556-Shaanxi_earthquake.protect]] 
 
-### #is_/same_as :: [1556-Shaanxi_earthquake.private](/_private/Society/Disaster/Natural_Disaster/Earthquake/1556-Shaanxi_earthquake.private.md) 
+### #is_/same_as :: [[/_private/Society/Disaster/Natural_Disaster/Earthquake/1556-Shaanxi_earthquake.private|1556-Shaanxi_earthquake.private]] 
 
-### #is_/same_as :: [1556-Shaanxi_earthquake.personal](/_personal/Society/Disaster/Natural_Disaster/Earthquake/1556-Shaanxi_earthquake.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Disaster/Natural_Disaster/Earthquake/1556-Shaanxi_earthquake.personal|1556-Shaanxi_earthquake.personal]] 
 
-### #is_/same_as :: [1556-Shaanxi_earthquake.secret](/_secret/Society/Disaster/Natural_Disaster/Earthquake/1556-Shaanxi_earthquake.secret.md)
+### #is_/same_as :: [[/_secret/Society/Disaster/Natural_Disaster/Earthquake/1556-Shaanxi_earthquake.secret|1556-Shaanxi_earthquake.secret]] 
 

@@ -41,17 +41,17 @@ A step in the instructions for how to achieve a result. It is an ordered list wi
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [How_to_Step](/_Standards/Society/Communication/Media/Creative_Work/How_To/How_to_Step.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Creative_Work/How_To/How_to_Step|How_to_Step]] 
 
-### #is_/same_as :: [How_to_Step.public](/_public/Society/Communication/Media/Creative_Work/How_To/How_to_Step.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Creative_Work/How_To/How_to_Step.public|How_to_Step.public]] 
 
-### #is_/same_as :: [How_to_Step.internal](/_internal/Society/Communication/Media/Creative_Work/How_To/How_to_Step.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Creative_Work/How_To/How_to_Step.internal|How_to_Step.internal]] 
 
-### #is_/same_as :: [How_to_Step.protect](/_protect/Society/Communication/Media/Creative_Work/How_To/How_to_Step.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Creative_Work/How_To/How_to_Step.protect|How_to_Step.protect]] 
 
-### #is_/same_as :: [How_to_Step.private](/_private/Society/Communication/Media/Creative_Work/How_To/How_to_Step.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Creative_Work/How_To/How_to_Step.private|How_to_Step.private]] 
 
-### #is_/same_as :: [How_to_Step.personal](/_personal/Society/Communication/Media/Creative_Work/How_To/How_to_Step.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/How_To/How_to_Step.personal|How_to_Step.personal]] 
 
-### #is_/same_as :: [How_to_Step.secret](/_secret/Society/Communication/Media/Creative_Work/How_To/How_to_Step.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/How_To/How_to_Step.secret|How_to_Step.secret]] 
 

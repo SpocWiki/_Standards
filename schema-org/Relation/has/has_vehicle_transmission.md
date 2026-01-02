@@ -42,17 +42,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_vehicle_transmission](/_Standards/schema-org/Relation/has/has_vehicle_transmission.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_vehicle_transmission|has_vehicle_transmission]] 
 
-### #is_/same_as :: [has_vehicle_transmission.public](/_public/schema-org/Relation/has/has_vehicle_transmission.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_vehicle_transmission.public|has_vehicle_transmission.public]] 
 
-### #is_/same_as :: [has_vehicle_transmission.internal](/_internal/schema-org/Relation/has/has_vehicle_transmission.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_vehicle_transmission.internal|has_vehicle_transmission.internal]] 
 
-### #is_/same_as :: [has_vehicle_transmission.protect](/_protect/schema-org/Relation/has/has_vehicle_transmission.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_vehicle_transmission.protect|has_vehicle_transmission.protect]] 
 
-### #is_/same_as :: [has_vehicle_transmission.private](/_private/schema-org/Relation/has/has_vehicle_transmission.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_vehicle_transmission.private|has_vehicle_transmission.private]] 
 
-### #is_/same_as :: [has_vehicle_transmission.personal](/_personal/schema-org/Relation/has/has_vehicle_transmission.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_vehicle_transmission.personal|has_vehicle_transmission.personal]] 
 
-### #is_/same_as :: [has_vehicle_transmission.secret](/_secret/schema-org/Relation/has/has_vehicle_transmission.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_vehicle_transmission.secret|has_vehicle_transmission.secret]] 
 

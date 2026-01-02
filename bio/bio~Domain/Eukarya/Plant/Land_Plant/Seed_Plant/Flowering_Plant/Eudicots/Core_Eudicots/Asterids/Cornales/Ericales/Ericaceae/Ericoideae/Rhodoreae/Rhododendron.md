@@ -51,17 +51,17 @@ NBN_System_Key: NHMSYS0000462374
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Rhododendron](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Cornales/Ericales/Ericaceae/Ericoideae/Rhodoreae/Rhododendron.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Cornales/Ericales/Ericaceae/Ericoideae/Rhodoreae/Rhododendron|Rhododendron]] 
 
-### #is_/same_as :: [Rhododendron.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Cornales/Ericales/Ericaceae/Ericoideae/Rhodoreae/Rhododendron.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Cornales/Ericales/Ericaceae/Ericoideae/Rhodoreae/Rhododendron.public|Rhododendron.public]] 
 
-### #is_/same_as :: [Rhododendron.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Cornales/Ericales/Ericaceae/Ericoideae/Rhodoreae/Rhododendron.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Cornales/Ericales/Ericaceae/Ericoideae/Rhodoreae/Rhododendron.internal|Rhododendron.internal]] 
 
-### #is_/same_as :: [Rhododendron.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Cornales/Ericales/Ericaceae/Ericoideae/Rhodoreae/Rhododendron.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Cornales/Ericales/Ericaceae/Ericoideae/Rhodoreae/Rhododendron.protect|Rhododendron.protect]] 
 
-### #is_/same_as :: [Rhododendron.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Cornales/Ericales/Ericaceae/Ericoideae/Rhodoreae/Rhododendron.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Cornales/Ericales/Ericaceae/Ericoideae/Rhodoreae/Rhododendron.private|Rhododendron.private]] 
 
-### #is_/same_as :: [Rhododendron.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Cornales/Ericales/Ericaceae/Ericoideae/Rhodoreae/Rhododendron.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Cornales/Ericales/Ericaceae/Ericoideae/Rhodoreae/Rhododendron.personal|Rhododendron.personal]] 
 
-### #is_/same_as :: [Rhododendron.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Cornales/Ericales/Ericaceae/Ericoideae/Rhodoreae/Rhododendron.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Cornales/Ericales/Ericaceae/Ericoideae/Rhodoreae/Rhododendron.secret|Rhododendron.secret]] 
 

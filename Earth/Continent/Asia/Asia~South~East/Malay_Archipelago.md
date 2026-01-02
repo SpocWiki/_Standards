@@ -86,17 +86,17 @@ type: folder_brief_live
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Malay_Archipelago](/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago|Malay_Archipelago]] 
 
-### #is_/same_as :: [Malay_Archipelago.public](/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago.public|Malay_Archipelago.public]] 
 
-### #is_/same_as :: [Malay_Archipelago.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago.internal|Malay_Archipelago.internal]] 
 
-### #is_/same_as :: [Malay_Archipelago.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago.protect|Malay_Archipelago.protect]] 
 
-### #is_/same_as :: [Malay_Archipelago.private](/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago.private|Malay_Archipelago.private]] 
 
-### #is_/same_as :: [Malay_Archipelago.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago.personal|Malay_Archipelago.personal]] 
 
-### #is_/same_as :: [Malay_Archipelago.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago.secret|Malay_Archipelago.secret]] 
 

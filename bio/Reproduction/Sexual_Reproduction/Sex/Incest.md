@@ -54,17 +54,17 @@ Commons_category: Incest
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Incest](/_Standards/bio/Reproduction/Sexual_Reproduction/Sex/Incest.md) 
+### #is_/same_as :: [[/_Standards/bio/Reproduction/Sexual_Reproduction/Sex/Incest|Incest]] 
 
-### #is_/same_as :: [Incest.public](/_public/bio/Reproduction/Sexual_Reproduction/Sex/Incest.public.md) 
+### #is_/same_as :: [[/_public/bio/Reproduction/Sexual_Reproduction/Sex/Incest.public|Incest.public]] 
 
-### #is_/same_as :: [Incest.internal](/_internal/bio/Reproduction/Sexual_Reproduction/Sex/Incest.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Reproduction/Sexual_Reproduction/Sex/Incest.internal|Incest.internal]] 
 
-### #is_/same_as :: [Incest.protect](/_protect/bio/Reproduction/Sexual_Reproduction/Sex/Incest.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Reproduction/Sexual_Reproduction/Sex/Incest.protect|Incest.protect]] 
 
-### #is_/same_as :: [Incest.private](/_private/bio/Reproduction/Sexual_Reproduction/Sex/Incest.private.md) 
+### #is_/same_as :: [[/_private/bio/Reproduction/Sexual_Reproduction/Sex/Incest.private|Incest.private]] 
 
-### #is_/same_as :: [Incest.personal](/_personal/bio/Reproduction/Sexual_Reproduction/Sex/Incest.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Reproduction/Sexual_Reproduction/Sex/Incest.personal|Incest.personal]] 
 
-### #is_/same_as :: [Incest.secret](/_secret/bio/Reproduction/Sexual_Reproduction/Sex/Incest.secret.md)
+### #is_/same_as :: [[/_secret/bio/Reproduction/Sexual_Reproduction/Sex/Incest.secret|Incest.secret]] 
 

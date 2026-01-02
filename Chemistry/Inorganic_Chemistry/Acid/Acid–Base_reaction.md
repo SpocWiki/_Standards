@@ -27,17 +27,17 @@ Commons_category: Acid-base reactions
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Acid–Base_reaction](/_Standards/Chemistry/Inorganic_Chemistry/Acid/Acid–Base_reaction.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Inorganic_Chemistry/Acid/Acid–Base_reaction|Acid–Base_reaction]] 
 
-### #is_/same_as :: [Acid–Base_reaction.public](/_public/Chemistry/Inorganic_Chemistry/Acid/Acid–Base_reaction.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Inorganic_Chemistry/Acid/Acid–Base_reaction.public|Acid–Base_reaction.public]] 
 
-### #is_/same_as :: [Acid–Base_reaction.internal](/_internal/Chemistry/Inorganic_Chemistry/Acid/Acid–Base_reaction.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Inorganic_Chemistry/Acid/Acid–Base_reaction.internal|Acid–Base_reaction.internal]] 
 
-### #is_/same_as :: [Acid–Base_reaction.protect](/_protect/Chemistry/Inorganic_Chemistry/Acid/Acid–Base_reaction.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Inorganic_Chemistry/Acid/Acid–Base_reaction.protect|Acid–Base_reaction.protect]] 
 
-### #is_/same_as :: [Acid–Base_reaction.private](/_private/Chemistry/Inorganic_Chemistry/Acid/Acid–Base_reaction.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Inorganic_Chemistry/Acid/Acid–Base_reaction.private|Acid–Base_reaction.private]] 
 
-### #is_/same_as :: [Acid–Base_reaction.personal](/_personal/Chemistry/Inorganic_Chemistry/Acid/Acid–Base_reaction.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Inorganic_Chemistry/Acid/Acid–Base_reaction.personal|Acid–Base_reaction.personal]] 
 
-### #is_/same_as :: [Acid–Base_reaction.secret](/_secret/Chemistry/Inorganic_Chemistry/Acid/Acid–Base_reaction.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Inorganic_Chemistry/Acid/Acid–Base_reaction.secret|Acid–Base_reaction.secret]] 
 

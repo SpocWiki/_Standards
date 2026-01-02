@@ -43,17 +43,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_value_for_sodium_in_milliGram](/_Standards/schema-org/Property/has_value_for/has_value_for_sodium_in_milliGram.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_value_for/has_value_for_sodium_in_milliGram|has_value_for_sodium_in_milliGram]] 
 
-### #is_/same_as :: [has_value_for_sodium_in_milliGram.public](/_public/schema-org/Property/has_value_for/has_value_for_sodium_in_milliGram.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/has_value_for/has_value_for_sodium_in_milliGram.public|has_value_for_sodium_in_milliGram.public]] 
 
-### #is_/same_as :: [has_value_for_sodium_in_milliGram.internal](/_internal/schema-org/Property/has_value_for/has_value_for_sodium_in_milliGram.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_value_for/has_value_for_sodium_in_milliGram.internal|has_value_for_sodium_in_milliGram.internal]] 
 
-### #is_/same_as :: [has_value_for_sodium_in_milliGram.protect](/_protect/schema-org/Property/has_value_for/has_value_for_sodium_in_milliGram.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_value_for/has_value_for_sodium_in_milliGram.protect|has_value_for_sodium_in_milliGram.protect]] 
 
-### #is_/same_as :: [has_value_for_sodium_in_milliGram.private](/_private/schema-org/Property/has_value_for/has_value_for_sodium_in_milliGram.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/has_value_for/has_value_for_sodium_in_milliGram.private|has_value_for_sodium_in_milliGram.private]] 
 
-### #is_/same_as :: [has_value_for_sodium_in_milliGram.personal](/_personal/schema-org/Property/has_value_for/has_value_for_sodium_in_milliGram.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_value_for/has_value_for_sodium_in_milliGram.personal|has_value_for_sodium_in_milliGram.personal]] 
 
-### #is_/same_as :: [has_value_for_sodium_in_milliGram.secret](/_secret/schema-org/Property/has_value_for/has_value_for_sodium_in_milliGram.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/has_value_for/has_value_for_sodium_in_milliGram.secret|has_value_for_sodium_in_milliGram.secret]] 
 

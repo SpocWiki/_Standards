@@ -41,17 +41,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Jerry Lewis](/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Jerry Lewis.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Jerry Lewis|Jerry Lewis]] 
 
-### #is_/same_as :: [Jerry Lewis.public](/_public/Society/Communication/Media/Movie/Actor/US_Actor/Jerry Lewis.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Actor/US_Actor/Jerry Lewis.public|Jerry Lewis.public]] 
 
-### #is_/same_as :: [Jerry Lewis.internal](/_internal/Society/Communication/Media/Movie/Actor/US_Actor/Jerry Lewis.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Actor/US_Actor/Jerry Lewis.internal|Jerry Lewis.internal]] 
 
-### #is_/same_as :: [Jerry Lewis.protect](/_protect/Society/Communication/Media/Movie/Actor/US_Actor/Jerry Lewis.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Actor/US_Actor/Jerry Lewis.protect|Jerry Lewis.protect]] 
 
-### #is_/same_as :: [Jerry Lewis.private](/_private/Society/Communication/Media/Movie/Actor/US_Actor/Jerry Lewis.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Actor/US_Actor/Jerry Lewis.private|Jerry Lewis.private]] 
 
-### #is_/same_as :: [Jerry Lewis.personal](/_personal/Society/Communication/Media/Movie/Actor/US_Actor/Jerry Lewis.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Actor/US_Actor/Jerry Lewis.personal|Jerry Lewis.personal]] 
 
-### #is_/same_as :: [Jerry Lewis.secret](/_secret/Society/Communication/Media/Movie/Actor/US_Actor/Jerry Lewis.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Actor/US_Actor/Jerry Lewis.secret|Jerry Lewis.secret]] 
 

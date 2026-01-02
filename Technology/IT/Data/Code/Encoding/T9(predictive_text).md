@@ -62,17 +62,17 @@ Most T9 devices include a key labeled **C**, **CLR**, or a left-arrow symbol.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [T9(predictive_text)](/_Standards/T9(predictive_text).md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Data/Code/Encoding/T9(predictive_text)|T9(predictive_text)]] 
 
-### #is_/same_as :: [T9(predictive_text).public](/_public/T9(predictive_text).public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Data/Code/Encoding/T9(predictive_text).public|T9(predictive_text).public]] 
 
-### #is_/same_as :: [T9(predictive_text).internal](/_internal/T9(predictive_text).internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Data/Code/Encoding/T9(predictive_text).internal|T9(predictive_text).internal]] 
 
-### #is_/same_as :: [T9(predictive_text).protect](/_protect/T9(predictive_text).protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Data/Code/Encoding/T9(predictive_text).protect|T9(predictive_text).protect]] 
 
-### #is_/same_as :: [T9(predictive_text).private](/_private/T9(predictive_text).private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Data/Code/Encoding/T9(predictive_text).private|T9(predictive_text).private]] 
 
-### #is_/same_as :: [T9(predictive_text).personal](/_personal/T9(predictive_text).personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Data/Code/Encoding/T9(predictive_text).personal|T9(predictive_text).personal]] 
 
-### #is_/same_as :: [T9(predictive_text).secret](/_secret/T9(predictive_text).secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Data/Code/Encoding/T9(predictive_text).secret|T9(predictive_text).secret]] 
 

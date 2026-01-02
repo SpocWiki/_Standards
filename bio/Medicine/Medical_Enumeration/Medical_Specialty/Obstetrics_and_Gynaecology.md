@@ -50,17 +50,17 @@ OpenStreetMap_tag: healthcare:speciality=gynaecology
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Obstetrics_and_Gynaecology](/_Standards/bio/Medicine/Medical_Enumeration/Medical_Specialty/Obstetrics_and_Gynaecology.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Enumeration/Medical_Specialty/Obstetrics_and_Gynaecology|Obstetrics_and_Gynaecology]] 
 
-### #is_/same_as :: [Obstetrics_and_Gynaecology.public](/_public/bio/Medicine/Medical_Enumeration/Medical_Specialty/Obstetrics_and_Gynaecology.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Enumeration/Medical_Specialty/Obstetrics_and_Gynaecology.public|Obstetrics_and_Gynaecology.public]] 
 
-### #is_/same_as :: [Obstetrics_and_Gynaecology.internal](/_internal/bio/Medicine/Medical_Enumeration/Medical_Specialty/Obstetrics_and_Gynaecology.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Enumeration/Medical_Specialty/Obstetrics_and_Gynaecology.internal|Obstetrics_and_Gynaecology.internal]] 
 
-### #is_/same_as :: [Obstetrics_and_Gynaecology.protect](/_protect/bio/Medicine/Medical_Enumeration/Medical_Specialty/Obstetrics_and_Gynaecology.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Enumeration/Medical_Specialty/Obstetrics_and_Gynaecology.protect|Obstetrics_and_Gynaecology.protect]] 
 
-### #is_/same_as :: [Obstetrics_and_Gynaecology.private](/_private/bio/Medicine/Medical_Enumeration/Medical_Specialty/Obstetrics_and_Gynaecology.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Enumeration/Medical_Specialty/Obstetrics_and_Gynaecology.private|Obstetrics_and_Gynaecology.private]] 
 
-### #is_/same_as :: [Obstetrics_and_Gynaecology.personal](/_personal/bio/Medicine/Medical_Enumeration/Medical_Specialty/Obstetrics_and_Gynaecology.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Enumeration/Medical_Specialty/Obstetrics_and_Gynaecology.personal|Obstetrics_and_Gynaecology.personal]] 
 
-### #is_/same_as :: [Obstetrics_and_Gynaecology.secret](/_secret/bio/Medicine/Medical_Enumeration/Medical_Specialty/Obstetrics_and_Gynaecology.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Enumeration/Medical_Specialty/Obstetrics_and_Gynaecology.secret|Obstetrics_and_Gynaecology.secret]] 
 

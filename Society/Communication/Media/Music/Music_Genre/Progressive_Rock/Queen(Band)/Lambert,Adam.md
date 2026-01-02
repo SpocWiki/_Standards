@@ -40,17 +40,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lambert,Adam](/_Standards/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Queen(Band)/Lambert,Adam.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Queen(Band)/Lambert,Adam|Lambert,Adam]] 
 
-### #is_/same_as :: [Lambert,Adam.public](/_public/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Queen(Band)/Lambert,Adam.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Queen(Band)/Lambert,Adam.public|Lambert,Adam.public]] 
 
-### #is_/same_as :: [Lambert,Adam.internal](/_internal/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Queen(Band)/Lambert,Adam.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Queen(Band)/Lambert,Adam.internal|Lambert,Adam.internal]] 
 
-### #is_/same_as :: [Lambert,Adam.protect](/_protect/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Queen(Band)/Lambert,Adam.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Queen(Band)/Lambert,Adam.protect|Lambert,Adam.protect]] 
 
-### #is_/same_as :: [Lambert,Adam.private](/_private/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Queen(Band)/Lambert,Adam.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Queen(Band)/Lambert,Adam.private|Lambert,Adam.private]] 
 
-### #is_/same_as :: [Lambert,Adam.personal](/_personal/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Queen(Band)/Lambert,Adam.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Queen(Band)/Lambert,Adam.personal|Lambert,Adam.personal]] 
 
-### #is_/same_as :: [Lambert,Adam.secret](/_secret/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Queen(Band)/Lambert,Adam.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Queen(Band)/Lambert,Adam.secret|Lambert,Adam.secret]] 
 

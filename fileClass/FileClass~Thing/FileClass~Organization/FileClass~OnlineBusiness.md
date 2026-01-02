@@ -37,17 +37,17 @@ A particular online business, either standalone or the online part of a broader 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~OnlineBusiness](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OnlineBusiness.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OnlineBusiness|FileClass~OnlineBusiness]] 
 
-### #is_/same_as :: [FileClass~OnlineBusiness.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OnlineBusiness.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OnlineBusiness.public|FileClass~OnlineBusiness.public]] 
 
-### #is_/same_as :: [FileClass~OnlineBusiness.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OnlineBusiness.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OnlineBusiness.internal|FileClass~OnlineBusiness.internal]] 
 
-### #is_/same_as :: [FileClass~OnlineBusiness.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OnlineBusiness.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OnlineBusiness.protect|FileClass~OnlineBusiness.protect]] 
 
-### #is_/same_as :: [FileClass~OnlineBusiness.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OnlineBusiness.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OnlineBusiness.private|FileClass~OnlineBusiness.private]] 
 
-### #is_/same_as :: [FileClass~OnlineBusiness.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OnlineBusiness.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OnlineBusiness.personal|FileClass~OnlineBusiness.personal]] 
 
-### #is_/same_as :: [FileClass~OnlineBusiness.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OnlineBusiness.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OnlineBusiness.secret|FileClass~OnlineBusiness.secret]] 
 

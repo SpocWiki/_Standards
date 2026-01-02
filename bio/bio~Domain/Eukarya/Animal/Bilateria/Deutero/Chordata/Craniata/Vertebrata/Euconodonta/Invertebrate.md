@@ -48,17 +48,17 @@ Krugosvet_article_archived_: nauka_i_tehnika/biologiya/BESPOZVONOCHNIE.html
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Invertebrate](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Euconodonta/Invertebrate.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Euconodonta/Invertebrate|Invertebrate]] 
 
-### #is_/same_as :: [Invertebrate.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Euconodonta/Invertebrate.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Euconodonta/Invertebrate.public|Invertebrate.public]] 
 
-### #is_/same_as :: [Invertebrate.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Euconodonta/Invertebrate.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Euconodonta/Invertebrate.internal|Invertebrate.internal]] 
 
-### #is_/same_as :: [Invertebrate.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Euconodonta/Invertebrate.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Euconodonta/Invertebrate.protect|Invertebrate.protect]] 
 
-### #is_/same_as :: [Invertebrate.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Euconodonta/Invertebrate.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Euconodonta/Invertebrate.private|Invertebrate.private]] 
 
-### #is_/same_as :: [Invertebrate.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Euconodonta/Invertebrate.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Euconodonta/Invertebrate.personal|Invertebrate.personal]] 
 
-### #is_/same_as :: [Invertebrate.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Euconodonta/Invertebrate.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Euconodonta/Invertebrate.secret|Invertebrate.secret]] 
 

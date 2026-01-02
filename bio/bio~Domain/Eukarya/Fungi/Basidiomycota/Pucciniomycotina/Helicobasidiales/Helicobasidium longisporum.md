@@ -27,7 +27,7 @@ title: Helicobasidium longisporum
 
 ## syn.: Helicobasidium compactum [Boedijn] 
 
-![ ](rr.jpg)![ ](Helicobasidium_longisporum/Hlstgt.jpg))
+![ ](rr.jpg)![ ](Helicobasidium_longisporum/Hlstgt.jpg) 
 ![ ](Helicobasidium_longisporum/TpGsTUB012677.jpg)
 
 Containing group:[Helicobasidiales](../Helicobasidiales.md) 
@@ -47,7 +47,7 @@ Containing group:[Helicobasidiales](../Helicobasidiales.md)
   Copyright ::            © 2000 [Matthias Lutz](mailto:matthias.lutz@uni-tuebingen.de) 
  
   -----------------------------------------------------------------------------
-![](Helicobasidium_longisporum/Hlstgt.jpg))
+![](Helicobasidium_longisporum/Hlstgt.jpg) 
 
   -----------------------------------------------------------------------------
   Scientific Name ::     Helicobasidium longisporum Wakef. on roots and basal parts of stem of Pyrus communis L.
@@ -60,7 +60,7 @@ Containing group:[Helicobasidiales](../Helicobasidiales.md)
   Copyright ::            © 2000 [Matthias Lutz](mailto:matthias.lutz@uni-tuebingen.de) 
  
   -----------------------------------------------------------------------------
-![](Helicobasidium_longisporum/TpGsTUB012677.jpg))
+![](Helicobasidium_longisporum/TpGsTUB012677.jpg) 
 
   -----------------------------------------------------------------------------
   Scientific Name ::     Tuberculina persicina (Ditmar) Sacc. on Gymnosporangium sabinae (Dicks.) G. Winter/Pyrus communis L.
@@ -77,17 +77,17 @@ Containing group:[Helicobasidiales](../Helicobasidiales.md)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Helicobasidium longisporum](/_Standards/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Pucciniomycotina/Helicobasidiales/Helicobasidium longisporum.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Pucciniomycotina/Helicobasidiales/Helicobasidium longisporum|Helicobasidium longisporum]] 
 
-### #is_/same_as :: [Helicobasidium longisporum.public](/_public/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Pucciniomycotina/Helicobasidiales/Helicobasidium longisporum.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Pucciniomycotina/Helicobasidiales/Helicobasidium longisporum.public|Helicobasidium longisporum.public]] 
 
-### #is_/same_as :: [Helicobasidium longisporum.internal](/_internal/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Pucciniomycotina/Helicobasidiales/Helicobasidium longisporum.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Pucciniomycotina/Helicobasidiales/Helicobasidium longisporum.internal|Helicobasidium longisporum.internal]] 
 
-### #is_/same_as :: [Helicobasidium longisporum.protect](/_protect/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Pucciniomycotina/Helicobasidiales/Helicobasidium longisporum.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Pucciniomycotina/Helicobasidiales/Helicobasidium longisporum.protect|Helicobasidium longisporum.protect]] 
 
-### #is_/same_as :: [Helicobasidium longisporum.private](/_private/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Pucciniomycotina/Helicobasidiales/Helicobasidium longisporum.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Pucciniomycotina/Helicobasidiales/Helicobasidium longisporum.private|Helicobasidium longisporum.private]] 
 
-### #is_/same_as :: [Helicobasidium longisporum.personal](/_personal/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Pucciniomycotina/Helicobasidiales/Helicobasidium longisporum.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Pucciniomycotina/Helicobasidiales/Helicobasidium longisporum.personal|Helicobasidium longisporum.personal]] 
 
-### #is_/same_as :: [Helicobasidium longisporum.secret](/_secret/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Pucciniomycotina/Helicobasidiales/Helicobasidium longisporum.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Pucciniomycotina/Helicobasidiales/Helicobasidium longisporum.secret|Helicobasidium longisporum.secret]] 
 

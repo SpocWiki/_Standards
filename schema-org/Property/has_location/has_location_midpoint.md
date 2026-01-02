@@ -43,17 +43,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_location_midpoint](/_Standards/schema-org/Property/has_location/has_location_midpoint.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_location/has_location_midpoint|has_location_midpoint]] 
 
-### #is_/same_as :: [has_location_midpoint.public](/_public/schema-org/Property/has_location/has_location_midpoint.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/has_location/has_location_midpoint.public|has_location_midpoint.public]] 
 
-### #is_/same_as :: [has_location_midpoint.internal](/_internal/schema-org/Property/has_location/has_location_midpoint.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_location/has_location_midpoint.internal|has_location_midpoint.internal]] 
 
-### #is_/same_as :: [has_location_midpoint.protect](/_protect/schema-org/Property/has_location/has_location_midpoint.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_location/has_location_midpoint.protect|has_location_midpoint.protect]] 
 
-### #is_/same_as :: [has_location_midpoint.private](/_private/schema-org/Property/has_location/has_location_midpoint.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/has_location/has_location_midpoint.private|has_location_midpoint.private]] 
 
-### #is_/same_as :: [has_location_midpoint.personal](/_personal/schema-org/Property/has_location/has_location_midpoint.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_location/has_location_midpoint.personal|has_location_midpoint.personal]] 
 
-### #is_/same_as :: [has_location_midpoint.secret](/_secret/schema-org/Property/has_location/has_location_midpoint.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/has_location/has_location_midpoint.secret|has_location_midpoint.secret]] 
 

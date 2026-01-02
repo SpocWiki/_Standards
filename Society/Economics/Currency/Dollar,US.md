@@ -96,17 +96,17 @@ OpenStreetMap_key: currency:USD
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Dollar,US](/_Standards/Society/Economics/Currency/Dollar,US.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Currency/Dollar,US|Dollar,US]] 
 
-### #is_/same_as :: [Dollar,US.public](/_public/Society/Economics/Currency/Dollar,US.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Currency/Dollar,US.public|Dollar,US.public]] 
 
-### #is_/same_as :: [Dollar,US.internal](/_internal/Society/Economics/Currency/Dollar,US.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Currency/Dollar,US.internal|Dollar,US.internal]] 
 
-### #is_/same_as :: [Dollar,US.protect](/_protect/Society/Economics/Currency/Dollar,US.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Currency/Dollar,US.protect|Dollar,US.protect]] 
 
-### #is_/same_as :: [Dollar,US.private](/_private/Society/Economics/Currency/Dollar,US.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Currency/Dollar,US.private|Dollar,US.private]] 
 
-### #is_/same_as :: [Dollar,US.personal](/_personal/Society/Economics/Currency/Dollar,US.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Currency/Dollar,US.personal|Dollar,US.personal]] 
 
-### #is_/same_as :: [Dollar,US.secret](/_secret/Society/Economics/Currency/Dollar,US.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Currency/Dollar,US.secret|Dollar,US.secret]] 
 

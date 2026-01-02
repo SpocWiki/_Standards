@@ -37,17 +37,17 @@ An auto parts store.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~AutoPartsStore](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~AutomotiveBusiness/FileClass~AutomotiveBusinessAndStore/FileClass~AutoPartsStore.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~AutomotiveBusiness/FileClass~AutomotiveBusinessAndStore/FileClass~AutoPartsStore|FileClass~AutoPartsStore]] 
 
-### #is_/same_as :: [FileClass~AutoPartsStore.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~AutomotiveBusiness/FileClass~AutomotiveBusinessAndStore/FileClass~AutoPartsStore.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~AutomotiveBusiness/FileClass~AutomotiveBusinessAndStore/FileClass~AutoPartsStore.public|FileClass~AutoPartsStore.public]] 
 
-### #is_/same_as :: [FileClass~AutoPartsStore.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~AutomotiveBusiness/FileClass~AutomotiveBusinessAndStore/FileClass~AutoPartsStore.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~AutomotiveBusiness/FileClass~AutomotiveBusinessAndStore/FileClass~AutoPartsStore.internal|FileClass~AutoPartsStore.internal]] 
 
-### #is_/same_as :: [FileClass~AutoPartsStore.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~AutomotiveBusiness/FileClass~AutomotiveBusinessAndStore/FileClass~AutoPartsStore.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~AutomotiveBusiness/FileClass~AutomotiveBusinessAndStore/FileClass~AutoPartsStore.protect|FileClass~AutoPartsStore.protect]] 
 
-### #is_/same_as :: [FileClass~AutoPartsStore.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~AutomotiveBusiness/FileClass~AutomotiveBusinessAndStore/FileClass~AutoPartsStore.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~AutomotiveBusiness/FileClass~AutomotiveBusinessAndStore/FileClass~AutoPartsStore.private|FileClass~AutoPartsStore.private]] 
 
-### #is_/same_as :: [FileClass~AutoPartsStore.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~AutomotiveBusiness/FileClass~AutomotiveBusinessAndStore/FileClass~AutoPartsStore.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~AutomotiveBusiness/FileClass~AutomotiveBusinessAndStore/FileClass~AutoPartsStore.personal|FileClass~AutoPartsStore.personal]] 
 
-### #is_/same_as :: [FileClass~AutoPartsStore.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~AutomotiveBusiness/FileClass~AutomotiveBusinessAndStore/FileClass~AutoPartsStore.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~AutomotiveBusiness/FileClass~AutomotiveBusinessAndStore/FileClass~AutoPartsStore.secret|FileClass~AutoPartsStore.secret]] 
 

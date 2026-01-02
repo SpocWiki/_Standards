@@ -169,17 +169,17 @@ writing_language: '[[_Standards/WikiData/WD~Russian,7737]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Chekhov,Anton](/_Standards/Society/Communication/Media/Writing/Book/Writer/Russian_Writer/Chekhov,Anton.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Writer/Russian_Writer/Chekhov,Anton|Chekhov,Anton]] 
 
-### #is_/same_as :: [Chekhov,Anton.public](/_public/Society/Communication/Media/Writing/Book/Writer/Russian_Writer/Chekhov,Anton.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Writer/Russian_Writer/Chekhov,Anton.public|Chekhov,Anton.public]] 
 
-### #is_/same_as :: [Chekhov,Anton.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/Russian_Writer/Chekhov,Anton.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Writer/Russian_Writer/Chekhov,Anton.internal|Chekhov,Anton.internal]] 
 
-### #is_/same_as :: [Chekhov,Anton.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/Russian_Writer/Chekhov,Anton.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Writer/Russian_Writer/Chekhov,Anton.protect|Chekhov,Anton.protect]] 
 
-### #is_/same_as :: [Chekhov,Anton.private](/_private/Society/Communication/Media/Writing/Book/Writer/Russian_Writer/Chekhov,Anton.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Writer/Russian_Writer/Chekhov,Anton.private|Chekhov,Anton.private]] 
 
-### #is_/same_as :: [Chekhov,Anton.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/Russian_Writer/Chekhov,Anton.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Writer/Russian_Writer/Chekhov,Anton.personal|Chekhov,Anton.personal]] 
 
-### #is_/same_as :: [Chekhov,Anton.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/Russian_Writer/Chekhov,Anton.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Writer/Russian_Writer/Chekhov,Anton.secret|Chekhov,Anton.secret]] 
 

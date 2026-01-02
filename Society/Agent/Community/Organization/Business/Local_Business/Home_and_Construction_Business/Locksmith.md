@@ -39,17 +39,17 @@ A locksmith.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Locksmith](/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Home_and_Construction_Business/Locksmith.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Home_and_Construction_Business/Locksmith|Locksmith]] 
 
-### #is_/same_as :: [Locksmith.public](/_public/Society/Agent/Community/Organization/Business/Local_Business/Home_and_Construction_Business/Locksmith.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Business/Local_Business/Home_and_Construction_Business/Locksmith.public|Locksmith.public]] 
 
-### #is_/same_as :: [Locksmith.internal](/_internal/Society/Agent/Community/Organization/Business/Local_Business/Home_and_Construction_Business/Locksmith.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Business/Local_Business/Home_and_Construction_Business/Locksmith.internal|Locksmith.internal]] 
 
-### #is_/same_as :: [Locksmith.protect](/_protect/Society/Agent/Community/Organization/Business/Local_Business/Home_and_Construction_Business/Locksmith.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Business/Local_Business/Home_and_Construction_Business/Locksmith.protect|Locksmith.protect]] 
 
-### #is_/same_as :: [Locksmith.private](/_private/Society/Agent/Community/Organization/Business/Local_Business/Home_and_Construction_Business/Locksmith.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Business/Local_Business/Home_and_Construction_Business/Locksmith.private|Locksmith.private]] 
 
-### #is_/same_as :: [Locksmith.personal](/_personal/Society/Agent/Community/Organization/Business/Local_Business/Home_and_Construction_Business/Locksmith.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Business/Local_Business/Home_and_Construction_Business/Locksmith.personal|Locksmith.personal]] 
 
-### #is_/same_as :: [Locksmith.secret](/_secret/Society/Agent/Community/Organization/Business/Local_Business/Home_and_Construction_Business/Locksmith.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Business/Local_Business/Home_and_Construction_Business/Locksmith.secret|Locksmith.secret]] 
 

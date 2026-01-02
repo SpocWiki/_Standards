@@ -156,17 +156,17 @@ Facebook_username: JamieLeeCurtis
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Curtis,Jamie_Lee](/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Curtis,Jamie_Lee.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Curtis,Jamie_Lee|Curtis,Jamie_Lee]] 
 
-### #is_/same_as :: [Curtis,Jamie_Lee.public](/_public/Society/Communication/Media/Movie/Actor/US_Actor/Curtis,Jamie_Lee.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Actor/US_Actor/Curtis,Jamie_Lee.public|Curtis,Jamie_Lee.public]] 
 
-### #is_/same_as :: [Curtis,Jamie_Lee.internal](/_internal/Society/Communication/Media/Movie/Actor/US_Actor/Curtis,Jamie_Lee.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Actor/US_Actor/Curtis,Jamie_Lee.internal|Curtis,Jamie_Lee.internal]] 
 
-### #is_/same_as :: [Curtis,Jamie_Lee.protect](/_protect/Society/Communication/Media/Movie/Actor/US_Actor/Curtis,Jamie_Lee.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Actor/US_Actor/Curtis,Jamie_Lee.protect|Curtis,Jamie_Lee.protect]] 
 
-### #is_/same_as :: [Curtis,Jamie_Lee.private](/_private/Society/Communication/Media/Movie/Actor/US_Actor/Curtis,Jamie_Lee.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Actor/US_Actor/Curtis,Jamie_Lee.private|Curtis,Jamie_Lee.private]] 
 
-### #is_/same_as :: [Curtis,Jamie_Lee.personal](/_personal/Society/Communication/Media/Movie/Actor/US_Actor/Curtis,Jamie_Lee.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Actor/US_Actor/Curtis,Jamie_Lee.personal|Curtis,Jamie_Lee.personal]] 
 
-### #is_/same_as :: [Curtis,Jamie_Lee.secret](/_secret/Society/Communication/Media/Movie/Actor/US_Actor/Curtis,Jamie_Lee.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Actor/US_Actor/Curtis,Jamie_Lee.secret|Curtis,Jamie_Lee.secret]] 
 

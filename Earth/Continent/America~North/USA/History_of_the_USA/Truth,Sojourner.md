@@ -113,3 +113,22 @@ Libris_URI: 20dgkxxl45jwf27
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Sojourner%20Truth) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~North/USA/History_of_the_USA/Truth,Sojourner|Truth,Sojourner]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/America~North/USA/History_of_the_USA/Truth,Sojourner.public|Truth,Sojourner.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/America~North/USA/History_of_the_USA/Truth,Sojourner.internal|Truth,Sojourner.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/America~North/USA/History_of_the_USA/Truth,Sojourner.protect|Truth,Sojourner.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/America~North/USA/History_of_the_USA/Truth,Sojourner.private|Truth,Sojourner.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/America~North/USA/History_of_the_USA/Truth,Sojourner.personal|Truth,Sojourner.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/America~North/USA/History_of_the_USA/Truth,Sojourner.secret|Truth,Sojourner.secret]] 
+

@@ -145,17 +145,17 @@ date_of_death: -0930-01-01T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Solomon](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Solomon.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Solomon|Solomon]] 
 
-### #is_/same_as :: [Solomon.public](/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Solomon.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Solomon.public|Solomon.public]] 
 
-### #is_/same_as :: [Solomon.internal](/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Solomon.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Solomon.internal|Solomon.internal]] 
 
-### #is_/same_as :: [Solomon.protect](/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Solomon.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Solomon.protect|Solomon.protect]] 
 
-### #is_/same_as :: [Solomon.private](/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Solomon.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Solomon.private|Solomon.private]] 
 
-### #is_/same_as :: [Solomon.personal](/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Solomon.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Solomon.personal|Solomon.personal]] 
 
-### #is_/same_as :: [Solomon.secret](/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Solomon.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Solomon.secret|Solomon.secret]] 
 

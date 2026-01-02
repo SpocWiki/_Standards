@@ -15,17 +15,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Saladin](/_Standards/Society/Politics/Government/Leader/Middle_Age_Leaders/Saladin.md) 
+### #is_/same_as :: [[/_Standards/Society/Politics/Government/Leader/Middle_Age_Leaders/Saladin|Saladin]] 
 
-### #is_/same_as :: [Saladin.public](/_public/Society/Politics/Government/Leader/Middle_Age_Leaders/Saladin.public.md) 
+### #is_/same_as :: [[/_public/Society/Politics/Government/Leader/Middle_Age_Leaders/Saladin.public|Saladin.public]] 
 
-### #is_/same_as :: [Saladin.internal](/_internal/Society/Politics/Government/Leader/Middle_Age_Leaders/Saladin.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Politics/Government/Leader/Middle_Age_Leaders/Saladin.internal|Saladin.internal]] 
 
-### #is_/same_as :: [Saladin.protect](/_protect/Society/Politics/Government/Leader/Middle_Age_Leaders/Saladin.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Politics/Government/Leader/Middle_Age_Leaders/Saladin.protect|Saladin.protect]] 
 
-### #is_/same_as :: [Saladin.private](/_private/Society/Politics/Government/Leader/Middle_Age_Leaders/Saladin.private.md) 
+### #is_/same_as :: [[/_private/Society/Politics/Government/Leader/Middle_Age_Leaders/Saladin.private|Saladin.private]] 
 
-### #is_/same_as :: [Saladin.personal](/_personal/Society/Politics/Government/Leader/Middle_Age_Leaders/Saladin.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Politics/Government/Leader/Middle_Age_Leaders/Saladin.personal|Saladin.personal]] 
 
-### #is_/same_as :: [Saladin.secret](/_secret/Society/Politics/Government/Leader/Middle_Age_Leaders/Saladin.secret.md)
+### #is_/same_as :: [[/_secret/Society/Politics/Government/Leader/Middle_Age_Leaders/Saladin.secret|Saladin.secret]] 
 

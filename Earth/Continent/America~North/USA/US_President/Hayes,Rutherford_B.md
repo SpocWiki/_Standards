@@ -35,17 +35,17 @@ type: private_note
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hayes,Rutherford_B](/_Standards/Earth/Continent/America~North/US~President/Hayes,Rutherford_B.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~North/USA/US_President/Hayes,Rutherford_B|Hayes,Rutherford_B]] 
 
-### #is_/same_as :: [Hayes,Rutherford_B.public](/_public/Earth/Continent/America~North/US~President/Hayes,Rutherford_B.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~North/USA/US_President/Hayes,Rutherford_B.public|Hayes,Rutherford_B.public]] 
 
-### #is_/same_as :: [Hayes,Rutherford_B.internal](/_internal/Earth/Continent/America~North/US~President/Hayes,Rutherford_B.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~North/USA/US_President/Hayes,Rutherford_B.internal|Hayes,Rutherford_B.internal]] 
 
-### #is_/same_as :: [Hayes,Rutherford_B.protect](/_protect/Earth/Continent/America~North/US~President/Hayes,Rutherford_B.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~North/USA/US_President/Hayes,Rutherford_B.protect|Hayes,Rutherford_B.protect]] 
 
-### #is_/same_as :: [Hayes,Rutherford_B.private](/_private/Earth/Continent/America~North/US~President/Hayes,Rutherford_B.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~North/USA/US_President/Hayes,Rutherford_B.private|Hayes,Rutherford_B.private]] 
 
-### #is_/same_as :: [Hayes,Rutherford_B.personal](/_personal/Earth/Continent/America~North/US~President/Hayes,Rutherford_B.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~North/USA/US_President/Hayes,Rutherford_B.personal|Hayes,Rutherford_B.personal]] 
 
-### #is_/same_as :: [Hayes,Rutherford_B.secret](/_secret/Earth/Continent/America~North/US~President/Hayes,Rutherford_B.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~North/USA/US_President/Hayes,Rutherford_B.secret|Hayes,Rutherford_B.secret]] 
 

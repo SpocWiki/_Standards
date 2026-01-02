@@ -122,17 +122,17 @@ Tag Instances like this:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sunday](/_Standards/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Day_of_Week/Sunday.md) 
+### #is_/same_as :: [[/_Standards/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Day_of_Week/Sunday|Sunday]] 
 
-### #is_/same_as :: [Sunday.public](/_public/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Day_of_Week/Sunday.public.md) 
+### #is_/same_as :: [[/_public/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Day_of_Week/Sunday.public|Sunday.public]] 
 
-### #is_/same_as :: [Sunday.internal](/_internal/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Day_of_Week/Sunday.internal.md) 
+### #is_/same_as :: [[/_internal/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Day_of_Week/Sunday.internal|Sunday.internal]] 
 
-### #is_/same_as :: [Sunday.protect](/_protect/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Day_of_Week/Sunday.protect.md) 
+### #is_/same_as :: [[/_protect/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Day_of_Week/Sunday.protect|Sunday.protect]] 
 
-### #is_/same_as :: [Sunday.private](/_private/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Day_of_Week/Sunday.private.md) 
+### #is_/same_as :: [[/_private/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Day_of_Week/Sunday.private|Sunday.private]] 
 
-### #is_/same_as :: [Sunday.personal](/_personal/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Day_of_Week/Sunday.personal.md) 
+### #is_/same_as :: [[/_personal/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Day_of_Week/Sunday.personal|Sunday.personal]] 
 
-### #is_/same_as :: [Sunday.secret](/_secret/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Day_of_Week/Sunday.secret.md)
+### #is_/same_as :: [[/_secret/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Day_of_Week/Sunday.secret|Sunday.secret]] 
 

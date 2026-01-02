@@ -41,17 +41,17 @@ pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-%C3%9
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Surprise](/_Standards/bio/Psychology/Affect/Emotion/Surprise.md) 
+### #is_/same_as :: [[/_Standards/bio/Psychology/Affect/Emotion/Surprise|Surprise]] 
 
-### #is_/same_as :: [Surprise.public](/_public/bio/Psychology/Affect/Emotion/Surprise.public.md) 
+### #is_/same_as :: [[/_public/bio/Psychology/Affect/Emotion/Surprise.public|Surprise.public]] 
 
-### #is_/same_as :: [Surprise.internal](/_internal/bio/Psychology/Affect/Emotion/Surprise.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Psychology/Affect/Emotion/Surprise.internal|Surprise.internal]] 
 
-### #is_/same_as :: [Surprise.protect](/_protect/bio/Psychology/Affect/Emotion/Surprise.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Psychology/Affect/Emotion/Surprise.protect|Surprise.protect]] 
 
-### #is_/same_as :: [Surprise.private](/_private/bio/Psychology/Affect/Emotion/Surprise.private.md) 
+### #is_/same_as :: [[/_private/bio/Psychology/Affect/Emotion/Surprise.private|Surprise.private]] 
 
-### #is_/same_as :: [Surprise.personal](/_personal/bio/Psychology/Affect/Emotion/Surprise.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Psychology/Affect/Emotion/Surprise.personal|Surprise.personal]] 
 
-### #is_/same_as :: [Surprise.secret](/_secret/bio/Psychology/Affect/Emotion/Surprise.secret.md)
+### #is_/same_as :: [[/_secret/bio/Psychology/Affect/Emotion/Surprise.secret|Surprise.secret]] 
 

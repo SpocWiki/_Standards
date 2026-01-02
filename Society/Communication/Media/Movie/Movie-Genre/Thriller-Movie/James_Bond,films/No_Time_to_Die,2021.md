@@ -51,17 +51,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [No_Time_to_Die,2021](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/No_Time_to_Die,2021.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/No_Time_to_Die,2021|No_Time_to_Die,2021]] 
 
-### #is_/same_as :: [No_Time_to_Die,2021.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/No_Time_to_Die,2021.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/No_Time_to_Die,2021.public|No_Time_to_Die,2021.public]] 
 
-### #is_/same_as :: [No_Time_to_Die,2021.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/No_Time_to_Die,2021.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/No_Time_to_Die,2021.internal|No_Time_to_Die,2021.internal]] 
 
-### #is_/same_as :: [No_Time_to_Die,2021.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/No_Time_to_Die,2021.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/No_Time_to_Die,2021.protect|No_Time_to_Die,2021.protect]] 
 
-### #is_/same_as :: [No_Time_to_Die,2021.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/No_Time_to_Die,2021.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/No_Time_to_Die,2021.private|No_Time_to_Die,2021.private]] 
 
-### #is_/same_as :: [No_Time_to_Die,2021.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/No_Time_to_Die,2021.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/No_Time_to_Die,2021.personal|No_Time_to_Die,2021.personal]] 
 
-### #is_/same_as :: [No_Time_to_Die,2021.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/No_Time_to_Die,2021.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/No_Time_to_Die,2021.secret|No_Time_to_Die,2021.secret]] 
 

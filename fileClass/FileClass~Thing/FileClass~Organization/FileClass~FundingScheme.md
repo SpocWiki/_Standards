@@ -39,17 +39,17 @@ A FundingScheme combines organizational, project and policy aspects of grant-bas
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~FundingScheme](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~FundingScheme.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~FundingScheme|FileClass~FundingScheme]] 
 
-### #is_/same_as :: [FileClass~FundingScheme.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~FundingScheme.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~FundingScheme.public|FileClass~FundingScheme.public]] 
 
-### #is_/same_as :: [FileClass~FundingScheme.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~FundingScheme.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~FundingScheme.internal|FileClass~FundingScheme.internal]] 
 
-### #is_/same_as :: [FileClass~FundingScheme.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~FundingScheme.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~FundingScheme.protect|FileClass~FundingScheme.protect]] 
 
-### #is_/same_as :: [FileClass~FundingScheme.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~FundingScheme.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~FundingScheme.private|FileClass~FundingScheme.private]] 
 
-### #is_/same_as :: [FileClass~FundingScheme.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~FundingScheme.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~FundingScheme.personal|FileClass~FundingScheme.personal]] 
 
-### #is_/same_as :: [FileClass~FundingScheme.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~FundingScheme.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~FundingScheme.secret|FileClass~FundingScheme.secret]] 
 

@@ -58,17 +58,17 @@ Wikidata_property: translation
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Translation](/_Standards/Language/Translation.md) 
+### #is_/same_as :: [[/_Standards/Language/Translation|Translation]] 
 
-### #is_/same_as :: [Translation.public](/_public/Language/Translation.public.md) 
+### #is_/same_as :: [[/_public/Language/Translation.public|Translation.public]] 
 
-### #is_/same_as :: [Translation.internal](/_internal/Language/Translation.internal.md) 
+### #is_/same_as :: [[/_internal/Language/Translation.internal|Translation.internal]] 
 
-### #is_/same_as :: [Translation.protect](/_protect/Language/Translation.protect.md) 
+### #is_/same_as :: [[/_protect/Language/Translation.protect|Translation.protect]] 
 
-### #is_/same_as :: [Translation.private](/_private/Language/Translation.private.md) 
+### #is_/same_as :: [[/_private/Language/Translation.private|Translation.private]] 
 
-### #is_/same_as :: [Translation.personal](/_personal/Language/Translation.personal.md) 
+### #is_/same_as :: [[/_personal/Language/Translation.personal|Translation.personal]] 
 
-### #is_/same_as :: [Translation.secret](/_secret/Language/Translation.secret.md)
+### #is_/same_as :: [[/_secret/Language/Translation.secret|Translation.secret]] 
 

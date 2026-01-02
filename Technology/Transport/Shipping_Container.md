@@ -94,17 +94,17 @@ time_of_discovery_or_invention: 1934-01-01T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Shipping_Container](/_Standards/Technology/Transport/Shipping_Container.md) 
+### #is_/same_as :: [[/_Standards/Technology/Transport/Shipping_Container|Shipping_Container]] 
 
-### #is_/same_as :: [Shipping_Container.public](/_public/Technology/Transport/Shipping_Container.public.md) 
+### #is_/same_as :: [[/_public/Technology/Transport/Shipping_Container.public|Shipping_Container.public]] 
 
-### #is_/same_as :: [Shipping_Container.internal](/_internal/Technology/Transport/Shipping_Container.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Transport/Shipping_Container.internal|Shipping_Container.internal]] 
 
-### #is_/same_as :: [Shipping_Container.protect](/_protect/Technology/Transport/Shipping_Container.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Transport/Shipping_Container.protect|Shipping_Container.protect]] 
 
-### #is_/same_as :: [Shipping_Container.private](/_private/Technology/Transport/Shipping_Container.private.md) 
+### #is_/same_as :: [[/_private/Technology/Transport/Shipping_Container.private|Shipping_Container.private]] 
 
-### #is_/same_as :: [Shipping_Container.personal](/_personal/Technology/Transport/Shipping_Container.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Transport/Shipping_Container.personal|Shipping_Container.personal]] 
 
-### #is_/same_as :: [Shipping_Container.secret](/_secret/Technology/Transport/Shipping_Container.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Transport/Shipping_Container.secret|Shipping_Container.secret]] 
 

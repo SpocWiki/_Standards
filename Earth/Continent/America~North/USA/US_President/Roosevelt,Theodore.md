@@ -311,17 +311,17 @@ N4IgLgngDgpiBcIYA8DGBDANgSwCYCd0B3EAGhADcZ8BnbAewDsEAmcm+gV31TkQAswYKDXgB6MQHNsY
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Roosevelt,Theodore](/_Standards/Earth/Continent/America~North/US~President/Roosevelt,Theodore.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~North/USA/US_President/Roosevelt,Theodore|Roosevelt,Theodore]] 
 
-### #is_/same_as :: [Roosevelt,Theodore.public](/_public/Earth/Continent/America~North/US~President/Roosevelt,Theodore.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~North/USA/US_President/Roosevelt,Theodore.public|Roosevelt,Theodore.public]] 
 
-### #is_/same_as :: [Roosevelt,Theodore.internal](/_internal/Earth/Continent/America~North/US~President/Roosevelt,Theodore.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~North/USA/US_President/Roosevelt,Theodore.internal|Roosevelt,Theodore.internal]] 
 
-### #is_/same_as :: [Roosevelt,Theodore.protect](/_protect/Earth/Continent/America~North/US~President/Roosevelt,Theodore.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~North/USA/US_President/Roosevelt,Theodore.protect|Roosevelt,Theodore.protect]] 
 
-### #is_/same_as :: [Roosevelt,Theodore.private](/_private/Earth/Continent/America~North/US~President/Roosevelt,Theodore.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~North/USA/US_President/Roosevelt,Theodore.private|Roosevelt,Theodore.private]] 
 
-### #is_/same_as :: [Roosevelt,Theodore.personal](/_personal/Earth/Continent/America~North/US~President/Roosevelt,Theodore.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~North/USA/US_President/Roosevelt,Theodore.personal|Roosevelt,Theodore.personal]] 
 
-### #is_/same_as :: [Roosevelt,Theodore.secret](/_secret/Earth/Continent/America~North/US~President/Roosevelt,Theodore.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~North/USA/US_President/Roosevelt,Theodore.secret|Roosevelt,Theodore.secret]] 
 

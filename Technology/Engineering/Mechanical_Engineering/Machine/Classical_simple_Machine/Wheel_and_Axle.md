@@ -41,17 +41,17 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Wheelaxle%20quackenbos
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Wheel_and_Axle](/_Standards/Technology/Engineering/Mechanical_Engineering/Machine/Classical_simple_Machine/Wheel_and_Axle.md) 
+### #is_/same_as :: [[/_Standards/Technology/Engineering/Mechanical_Engineering/Machine/Classical_simple_Machine/Wheel_and_Axle|Wheel_and_Axle]] 
 
-### #is_/same_as :: [Wheel_and_Axle.public](/_public/Technology/Engineering/Mechanical_Engineering/Machine/Classical_simple_Machine/Wheel_and_Axle.public.md) 
+### #is_/same_as :: [[/_public/Technology/Engineering/Mechanical_Engineering/Machine/Classical_simple_Machine/Wheel_and_Axle.public|Wheel_and_Axle.public]] 
 
-### #is_/same_as :: [Wheel_and_Axle.internal](/_internal/Technology/Engineering/Mechanical_Engineering/Machine/Classical_simple_Machine/Wheel_and_Axle.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Engineering/Mechanical_Engineering/Machine/Classical_simple_Machine/Wheel_and_Axle.internal|Wheel_and_Axle.internal]] 
 
-### #is_/same_as :: [Wheel_and_Axle.protect](/_protect/Technology/Engineering/Mechanical_Engineering/Machine/Classical_simple_Machine/Wheel_and_Axle.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Engineering/Mechanical_Engineering/Machine/Classical_simple_Machine/Wheel_and_Axle.protect|Wheel_and_Axle.protect]] 
 
-### #is_/same_as :: [Wheel_and_Axle.private](/_private/Technology/Engineering/Mechanical_Engineering/Machine/Classical_simple_Machine/Wheel_and_Axle.private.md) 
+### #is_/same_as :: [[/_private/Technology/Engineering/Mechanical_Engineering/Machine/Classical_simple_Machine/Wheel_and_Axle.private|Wheel_and_Axle.private]] 
 
-### #is_/same_as :: [Wheel_and_Axle.personal](/_personal/Technology/Engineering/Mechanical_Engineering/Machine/Classical_simple_Machine/Wheel_and_Axle.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Engineering/Mechanical_Engineering/Machine/Classical_simple_Machine/Wheel_and_Axle.personal|Wheel_and_Axle.personal]] 
 
-### #is_/same_as :: [Wheel_and_Axle.secret](/_secret/Technology/Engineering/Mechanical_Engineering/Machine/Classical_simple_Machine/Wheel_and_Axle.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Engineering/Mechanical_Engineering/Machine/Classical_simple_Machine/Wheel_and_Axle.secret|Wheel_and_Axle.secret]] 
 

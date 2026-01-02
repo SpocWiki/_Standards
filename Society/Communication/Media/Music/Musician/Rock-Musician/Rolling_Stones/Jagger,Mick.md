@@ -171,17 +171,17 @@ IPI_name_number:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Jagger,Mick](/_Standards/Society/Communication/Media/Music/Musician/Rock-Musician/Rolling_Stones/Jagger,Mick.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Musician/Rock-Musician/Rolling_Stones/Jagger,Mick|Jagger,Mick]] 
 
-### #is_/same_as :: [Jagger,Mick.public](/_public/Society/Communication/Media/Music/Musician/Rock-Musician/Rolling_Stones/Jagger,Mick.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Musician/Rock-Musician/Rolling_Stones/Jagger,Mick.public|Jagger,Mick.public]] 
 
-### #is_/same_as :: [Jagger,Mick.internal](/_internal/Society/Communication/Media/Music/Musician/Rock-Musician/Rolling_Stones/Jagger,Mick.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Musician/Rock-Musician/Rolling_Stones/Jagger,Mick.internal|Jagger,Mick.internal]] 
 
-### #is_/same_as :: [Jagger,Mick.protect](/_protect/Society/Communication/Media/Music/Musician/Rock-Musician/Rolling_Stones/Jagger,Mick.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Musician/Rock-Musician/Rolling_Stones/Jagger,Mick.protect|Jagger,Mick.protect]] 
 
-### #is_/same_as :: [Jagger,Mick.private](/_private/Society/Communication/Media/Music/Musician/Rock-Musician/Rolling_Stones/Jagger,Mick.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Musician/Rock-Musician/Rolling_Stones/Jagger,Mick.private|Jagger,Mick.private]] 
 
-### #is_/same_as :: [Jagger,Mick.personal](/_personal/Society/Communication/Media/Music/Musician/Rock-Musician/Rolling_Stones/Jagger,Mick.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Musician/Rock-Musician/Rolling_Stones/Jagger,Mick.personal|Jagger,Mick.personal]] 
 
-### #is_/same_as :: [Jagger,Mick.secret](/_secret/Society/Communication/Media/Music/Musician/Rock-Musician/Rolling_Stones/Jagger,Mick.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Musician/Rock-Musician/Rolling_Stones/Jagger,Mick.secret|Jagger,Mick.secret]] 
 

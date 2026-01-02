@@ -103,17 +103,17 @@ ISNI: 0000000110300013
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Platini,Michel](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Association_Football/Footballer/Platini,Michel.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Association_Football/Footballer/Platini,Michel|Platini,Michel]] 
 
-### #is_/same_as :: [Platini,Michel.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Association_Football/Footballer/Platini,Michel.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Association_Football/Footballer/Platini,Michel.public|Platini,Michel.public]] 
 
-### #is_/same_as :: [Platini,Michel.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Association_Football/Footballer/Platini,Michel.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Association_Football/Footballer/Platini,Michel.internal|Platini,Michel.internal]] 
 
-### #is_/same_as :: [Platini,Michel.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Association_Football/Footballer/Platini,Michel.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Association_Football/Footballer/Platini,Michel.protect|Platini,Michel.protect]] 
 
-### #is_/same_as :: [Platini,Michel.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Association_Football/Footballer/Platini,Michel.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Association_Football/Footballer/Platini,Michel.private|Platini,Michel.private]] 
 
-### #is_/same_as :: [Platini,Michel.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Association_Football/Footballer/Platini,Michel.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Association_Football/Footballer/Platini,Michel.personal|Platini,Michel.personal]] 
 
-### #is_/same_as :: [Platini,Michel.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Association_Football/Footballer/Platini,Michel.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Association_Football/Footballer/Platini,Michel.secret|Platini,Michel.secret]] 
 

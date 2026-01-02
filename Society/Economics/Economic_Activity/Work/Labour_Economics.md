@@ -46,17 +46,17 @@ Commons_category: Work
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Labour_Economics](/_Standards/Society/Economics/Economic_Activity/Work/Labour_Economics.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Economic_Activity/Work/Labour_Economics|Labour_Economics]] 
 
-### #is_/same_as :: [Labour_Economics.public](/_public/Society/Economics/Economic_Activity/Work/Labour_Economics.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Economic_Activity/Work/Labour_Economics.public|Labour_Economics.public]] 
 
-### #is_/same_as :: [Labour_Economics.internal](/_internal/Society/Economics/Economic_Activity/Work/Labour_Economics.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Economic_Activity/Work/Labour_Economics.internal|Labour_Economics.internal]] 
 
-### #is_/same_as :: [Labour_Economics.protect](/_protect/Society/Economics/Economic_Activity/Work/Labour_Economics.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Economic_Activity/Work/Labour_Economics.protect|Labour_Economics.protect]] 
 
-### #is_/same_as :: [Labour_Economics.private](/_private/Society/Economics/Economic_Activity/Work/Labour_Economics.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Economic_Activity/Work/Labour_Economics.private|Labour_Economics.private]] 
 
-### #is_/same_as :: [Labour_Economics.personal](/_personal/Society/Economics/Economic_Activity/Work/Labour_Economics.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Economic_Activity/Work/Labour_Economics.personal|Labour_Economics.personal]] 
 
-### #is_/same_as :: [Labour_Economics.secret](/_secret/Society/Economics/Economic_Activity/Work/Labour_Economics.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Economic_Activity/Work/Labour_Economics.secret|Labour_Economics.secret]] 
 

@@ -79,17 +79,17 @@ Dewey_Decimal_Classification:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Vinegar](/_Standards/Society/Economics/Home_Economics/Cooking/Condiment/Vinegar.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Home_Economics/Cooking/Condiment/Vinegar|Vinegar]] 
 
-### #is_/same_as :: [Vinegar.public](/_public/Society/Economics/Home_Economics/Cooking/Condiment/Vinegar.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Home_Economics/Cooking/Condiment/Vinegar.public|Vinegar.public]] 
 
-### #is_/same_as :: [Vinegar.internal](/_internal/Society/Economics/Home_Economics/Cooking/Condiment/Vinegar.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Home_Economics/Cooking/Condiment/Vinegar.internal|Vinegar.internal]] 
 
-### #is_/same_as :: [Vinegar.protect](/_protect/Society/Economics/Home_Economics/Cooking/Condiment/Vinegar.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Home_Economics/Cooking/Condiment/Vinegar.protect|Vinegar.protect]] 
 
-### #is_/same_as :: [Vinegar.private](/_private/Society/Economics/Home_Economics/Cooking/Condiment/Vinegar.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Home_Economics/Cooking/Condiment/Vinegar.private|Vinegar.private]] 
 
-### #is_/same_as :: [Vinegar.personal](/_personal/Society/Economics/Home_Economics/Cooking/Condiment/Vinegar.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Home_Economics/Cooking/Condiment/Vinegar.personal|Vinegar.personal]] 
 
-### #is_/same_as :: [Vinegar.secret](/_secret/Society/Economics/Home_Economics/Cooking/Condiment/Vinegar.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Home_Economics/Cooking/Condiment/Vinegar.secret|Vinegar.secret]] 
 

@@ -41,17 +41,17 @@ Dewey_Decimal_Classification: "541.372"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Cation](/_Standards/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Cation.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Cation|Cation]] 
 
-### #is_/same_as :: [Cation.public](/_public/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Cation.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Cation.public|Cation.public]] 
 
-### #is_/same_as :: [Cation.internal](/_internal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Cation.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Cation.internal|Cation.internal]] 
 
-### #is_/same_as :: [Cation.protect](/_protect/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Cation.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Cation.protect|Cation.protect]] 
 
-### #is_/same_as :: [Cation.private](/_private/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Cation.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Cation.private|Cation.private]] 
 
-### #is_/same_as :: [Cation.personal](/_personal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Cation.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Cation.personal|Cation.personal]] 
 
-### #is_/same_as :: [Cation.secret](/_secret/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Cation.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Cation.secret|Cation.secret]] 
 

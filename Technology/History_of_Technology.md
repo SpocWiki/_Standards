@@ -39,17 +39,17 @@ Provenio_UUID: a0035593-f8b7-450b-89c7-f92233cf7fc0
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [History_of_Technology](/_Standards/Technology/History_of_Technology.md) 
+### #is_/same_as :: [[/_Standards/Technology/History_of_Technology|History_of_Technology]] 
 
-### #is_/same_as :: [History_of_Technology.public](/_public/Technology/History_of_Technology.public.md) 
+### #is_/same_as :: [[/_public/Technology/History_of_Technology.public|History_of_Technology.public]] 
 
-### #is_/same_as :: [History_of_Technology.internal](/_internal/Technology/History_of_Technology.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/History_of_Technology.internal|History_of_Technology.internal]] 
 
-### #is_/same_as :: [History_of_Technology.protect](/_protect/Technology/History_of_Technology.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/History_of_Technology.protect|History_of_Technology.protect]] 
 
-### #is_/same_as :: [History_of_Technology.private](/_private/Technology/History_of_Technology.private.md) 
+### #is_/same_as :: [[/_private/Technology/History_of_Technology.private|History_of_Technology.private]] 
 
-### #is_/same_as :: [History_of_Technology.personal](/_personal/Technology/History_of_Technology.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/History_of_Technology.personal|History_of_Technology.personal]] 
 
-### #is_/same_as :: [History_of_Technology.secret](/_secret/Technology/History_of_Technology.secret.md)
+### #is_/same_as :: [[/_secret/Technology/History_of_Technology.secret|History_of_Technology.secret]] 
 

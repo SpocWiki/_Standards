@@ -92,17 +92,17 @@ UMLS_CUI: C0032167
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Plastic](/_Standards/Chemistry/Organic_Chemistry/Plastic.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Organic_Chemistry/Plastic|Plastic]] 
 
-### #is_/same_as :: [Plastic.public](/_public/Chemistry/Organic_Chemistry/Plastic.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Organic_Chemistry/Plastic.public|Plastic.public]] 
 
-### #is_/same_as :: [Plastic.internal](/_internal/Chemistry/Organic_Chemistry/Plastic.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Organic_Chemistry/Plastic.internal|Plastic.internal]] 
 
-### #is_/same_as :: [Plastic.protect](/_protect/Chemistry/Organic_Chemistry/Plastic.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Organic_Chemistry/Plastic.protect|Plastic.protect]] 
 
-### #is_/same_as :: [Plastic.private](/_private/Chemistry/Organic_Chemistry/Plastic.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Organic_Chemistry/Plastic.private|Plastic.private]] 
 
-### #is_/same_as :: [Plastic.personal](/_personal/Chemistry/Organic_Chemistry/Plastic.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Organic_Chemistry/Plastic.personal|Plastic.personal]] 
 
-### #is_/same_as :: [Plastic.secret](/_secret/Chemistry/Organic_Chemistry/Plastic.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Organic_Chemistry/Plastic.secret|Plastic.secret]] 
 

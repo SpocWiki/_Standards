@@ -74,17 +74,17 @@ inception: -0379-01-01T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Republic(Plato)](/_Standards/Philosophy/Philosopher/Ancient_Philosopher/Plato/Republic(Plato).md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Philosopher/Ancient_Philosopher/Plato/Republic(Plato)|Republic(Plato)]] 
 
-### #is_/same_as :: [Republic(Plato).public](/_public/Philosophy/Philosopher/Ancient_Philosopher/Plato/Republic(Plato).public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Philosopher/Ancient_Philosopher/Plato/Republic(Plato).public|Republic(Plato).public]] 
 
-### #is_/same_as :: [Republic(Plato).internal](/_internal/Philosophy/Philosopher/Ancient_Philosopher/Plato/Republic(Plato).internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Philosopher/Ancient_Philosopher/Plato/Republic(Plato).internal|Republic(Plato).internal]] 
 
-### #is_/same_as :: [Republic(Plato).protect](/_protect/Philosophy/Philosopher/Ancient_Philosopher/Plato/Republic(Plato).protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Philosopher/Ancient_Philosopher/Plato/Republic(Plato).protect|Republic(Plato).protect]] 
 
-### #is_/same_as :: [Republic(Plato).private](/_private/Philosophy/Philosopher/Ancient_Philosopher/Plato/Republic(Plato).private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Philosopher/Ancient_Philosopher/Plato/Republic(Plato).private|Republic(Plato).private]] 
 
-### #is_/same_as :: [Republic(Plato).personal](/_personal/Philosophy/Philosopher/Ancient_Philosopher/Plato/Republic(Plato).personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Philosopher/Ancient_Philosopher/Plato/Republic(Plato).personal|Republic(Plato).personal]] 
 
-### #is_/same_as :: [Republic(Plato).secret](/_secret/Philosophy/Philosopher/Ancient_Philosopher/Plato/Republic(Plato).secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Philosopher/Ancient_Philosopher/Plato/Republic(Plato).secret|Republic(Plato).secret]] 
 

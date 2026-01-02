@@ -46,17 +46,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [is_resizable](/_Standards/schema-org/Property/Flags/is_resizable.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/Flags/is_resizable|is_resizable]] 
 
-### #is_/same_as :: [is_resizable.public](/_public/schema-org/Property/Flags/is_resizable.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/Flags/is_resizable.public|is_resizable.public]] 
 
-### #is_/same_as :: [is_resizable.internal](/_internal/schema-org/Property/Flags/is_resizable.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/Flags/is_resizable.internal|is_resizable.internal]] 
 
-### #is_/same_as :: [is_resizable.protect](/_protect/schema-org/Property/Flags/is_resizable.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/Flags/is_resizable.protect|is_resizable.protect]] 
 
-### #is_/same_as :: [is_resizable.private](/_private/schema-org/Property/Flags/is_resizable.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/Flags/is_resizable.private|is_resizable.private]] 
 
-### #is_/same_as :: [is_resizable.personal](/_personal/schema-org/Property/Flags/is_resizable.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/Flags/is_resizable.personal|is_resizable.personal]] 
 
-### #is_/same_as :: [is_resizable.secret](/_secret/schema-org/Property/Flags/is_resizable.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/Flags/is_resizable.secret|is_resizable.secret]] 
 

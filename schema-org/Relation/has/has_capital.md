@@ -40,17 +40,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_capital](/_Standards/schema-org/Relation/has/has_capital.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_capital|has_capital]] 
 
-### #is_/same_as :: [has_capital.public](/_public/schema-org/Relation/has/has_capital.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_capital.public|has_capital.public]] 
 
-### #is_/same_as :: [has_capital.internal](/_internal/schema-org/Relation/has/has_capital.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_capital.internal|has_capital.internal]] 
 
-### #is_/same_as :: [has_capital.protect](/_protect/schema-org/Relation/has/has_capital.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_capital.protect|has_capital.protect]] 
 
-### #is_/same_as :: [has_capital.private](/_private/schema-org/Relation/has/has_capital.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_capital.private|has_capital.private]] 
 
-### #is_/same_as :: [has_capital.personal](/_personal/schema-org/Relation/has/has_capital.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_capital.personal|has_capital.personal]] 
 
-### #is_/same_as :: [has_capital.secret](/_secret/schema-org/Relation/has/has_capital.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_capital.secret|has_capital.secret]] 
 

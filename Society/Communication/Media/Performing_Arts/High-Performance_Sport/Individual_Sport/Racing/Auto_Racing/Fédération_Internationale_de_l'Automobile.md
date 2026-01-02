@@ -78,17 +78,17 @@ inception: 1904-06-20T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Fédération_Internationale_de_l'Automobile](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Racing/Auto_Racing/Fédération_Internationale_de_l'Automobile.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Racing/Auto_Racing/Fédération_Internationale_de_l'Automobile|Fédération_Internationale_de_l'Automobile]] 
 
-### #is_/same_as :: [Fédération_Internationale_de_l'Automobile.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Racing/Auto_Racing/Fédération_Internationale_de_l'Automobile.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Racing/Auto_Racing/Fédération_Internationale_de_l'Automobile.public|Fédération_Internationale_de_l'Automobile.public]] 
 
-### #is_/same_as :: [Fédération_Internationale_de_l'Automobile.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Racing/Auto_Racing/Fédération_Internationale_de_l'Automobile.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Racing/Auto_Racing/Fédération_Internationale_de_l'Automobile.internal|Fédération_Internationale_de_l'Automobile.internal]] 
 
-### #is_/same_as :: [Fédération_Internationale_de_l'Automobile.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Racing/Auto_Racing/Fédération_Internationale_de_l'Automobile.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Racing/Auto_Racing/Fédération_Internationale_de_l'Automobile.protect|Fédération_Internationale_de_l'Automobile.protect]] 
 
-### #is_/same_as :: [Fédération_Internationale_de_l'Automobile.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Racing/Auto_Racing/Fédération_Internationale_de_l'Automobile.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Racing/Auto_Racing/Fédération_Internationale_de_l'Automobile.private|Fédération_Internationale_de_l'Automobile.private]] 
 
-### #is_/same_as :: [Fédération_Internationale_de_l'Automobile.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Racing/Auto_Racing/Fédération_Internationale_de_l'Automobile.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Racing/Auto_Racing/Fédération_Internationale_de_l'Automobile.personal|Fédération_Internationale_de_l'Automobile.personal]] 
 
-### #is_/same_as :: [Fédération_Internationale_de_l'Automobile.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Racing/Auto_Racing/Fédération_Internationale_de_l'Automobile.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Racing/Auto_Racing/Fédération_Internationale_de_l'Automobile.secret|Fédération_Internationale_de_l'Automobile.secret]] 
 

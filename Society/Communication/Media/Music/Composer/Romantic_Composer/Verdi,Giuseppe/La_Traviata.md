@@ -91,17 +91,17 @@ name: L'esgarriada
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [La_Traviata](/_Standards/Society/Communication/Media/Music/Composer/Romantic_Composer/Verdi,Giuseppe/La_Traviata.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Composer/Romantic_Composer/Verdi,Giuseppe/La_Traviata|La_Traviata]] 
 
-### #is_/same_as :: [La_Traviata.public](/_public/Society/Communication/Media/Music/Composer/Romantic_Composer/Verdi,Giuseppe/La_Traviata.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Composer/Romantic_Composer/Verdi,Giuseppe/La_Traviata.public|La_Traviata.public]] 
 
-### #is_/same_as :: [La_Traviata.internal](/_internal/Society/Communication/Media/Music/Composer/Romantic_Composer/Verdi,Giuseppe/La_Traviata.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Composer/Romantic_Composer/Verdi,Giuseppe/La_Traviata.internal|La_Traviata.internal]] 
 
-### #is_/same_as :: [La_Traviata.protect](/_protect/Society/Communication/Media/Music/Composer/Romantic_Composer/Verdi,Giuseppe/La_Traviata.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Composer/Romantic_Composer/Verdi,Giuseppe/La_Traviata.protect|La_Traviata.protect]] 
 
-### #is_/same_as :: [La_Traviata.private](/_private/Society/Communication/Media/Music/Composer/Romantic_Composer/Verdi,Giuseppe/La_Traviata.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Composer/Romantic_Composer/Verdi,Giuseppe/La_Traviata.private|La_Traviata.private]] 
 
-### #is_/same_as :: [La_Traviata.personal](/_personal/Society/Communication/Media/Music/Composer/Romantic_Composer/Verdi,Giuseppe/La_Traviata.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Composer/Romantic_Composer/Verdi,Giuseppe/La_Traviata.personal|La_Traviata.personal]] 
 
-### #is_/same_as :: [La_Traviata.secret](/_secret/Society/Communication/Media/Music/Composer/Romantic_Composer/Verdi,Giuseppe/La_Traviata.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Composer/Romantic_Composer/Verdi,Giuseppe/La_Traviata.secret|La_Traviata.secret]] 
 

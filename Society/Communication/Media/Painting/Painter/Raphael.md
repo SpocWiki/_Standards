@@ -305,17 +305,17 @@ work_location:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Raphael](/_Standards/Society/Communication/Media/Painting/Painter/Raphael.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Painting/Painter/Raphael|Raphael]] 
 
-### #is_/same_as :: [Raphael.public](/_public/Society/Communication/Media/Painting/Painter/Raphael.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Painting/Painter/Raphael.public|Raphael.public]] 
 
-### #is_/same_as :: [Raphael.internal](/_internal/Society/Communication/Media/Painting/Painter/Raphael.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Painting/Painter/Raphael.internal|Raphael.internal]] 
 
-### #is_/same_as :: [Raphael.protect](/_protect/Society/Communication/Media/Painting/Painter/Raphael.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Painting/Painter/Raphael.protect|Raphael.protect]] 
 
-### #is_/same_as :: [Raphael.private](/_private/Society/Communication/Media/Painting/Painter/Raphael.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Painting/Painter/Raphael.private|Raphael.private]] 
 
-### #is_/same_as :: [Raphael.personal](/_personal/Society/Communication/Media/Painting/Painter/Raphael.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Painting/Painter/Raphael.personal|Raphael.personal]] 
 
-### #is_/same_as :: [Raphael.secret](/_secret/Society/Communication/Media/Painting/Painter/Raphael.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Painting/Painter/Raphael.secret|Raphael.secret]] 
 

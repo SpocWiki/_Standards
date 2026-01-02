@@ -46,17 +46,17 @@ OpenStreetMap_tag_or_key: Tag:waterway=ditch
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ditch](/_Standards/Society/Economics/Industry/Agriculture/Drainage/Ditch.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Industry/Agriculture/Drainage/Ditch|Ditch]] 
 
-### #is_/same_as :: [Ditch.public](/_public/Society/Economics/Industry/Agriculture/Drainage/Ditch.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Industry/Agriculture/Drainage/Ditch.public|Ditch.public]] 
 
-### #is_/same_as :: [Ditch.internal](/_internal/Society/Economics/Industry/Agriculture/Drainage/Ditch.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Industry/Agriculture/Drainage/Ditch.internal|Ditch.internal]] 
 
-### #is_/same_as :: [Ditch.protect](/_protect/Society/Economics/Industry/Agriculture/Drainage/Ditch.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Industry/Agriculture/Drainage/Ditch.protect|Ditch.protect]] 
 
-### #is_/same_as :: [Ditch.private](/_private/Society/Economics/Industry/Agriculture/Drainage/Ditch.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Industry/Agriculture/Drainage/Ditch.private|Ditch.private]] 
 
-### #is_/same_as :: [Ditch.personal](/_personal/Society/Economics/Industry/Agriculture/Drainage/Ditch.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Industry/Agriculture/Drainage/Ditch.personal|Ditch.personal]] 
 
-### #is_/same_as :: [Ditch.secret](/_secret/Society/Economics/Industry/Agriculture/Drainage/Ditch.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Industry/Agriculture/Drainage/Ditch.secret|Ditch.secret]] 
 

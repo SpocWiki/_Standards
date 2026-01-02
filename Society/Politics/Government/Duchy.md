@@ -40,17 +40,17 @@ Commons_category: Duchies
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Duchy](/_Standards/Society/Politics/Government/Duchy.md) 
+### #is_/same_as :: [[/_Standards/Society/Politics/Government/Duchy|Duchy]] 
 
-### #is_/same_as :: [Duchy.public](/_public/Society/Politics/Government/Duchy.public.md) 
+### #is_/same_as :: [[/_public/Society/Politics/Government/Duchy.public|Duchy.public]] 
 
-### #is_/same_as :: [Duchy.internal](/_internal/Society/Politics/Government/Duchy.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Politics/Government/Duchy.internal|Duchy.internal]] 
 
-### #is_/same_as :: [Duchy.protect](/_protect/Society/Politics/Government/Duchy.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Politics/Government/Duchy.protect|Duchy.protect]] 
 
-### #is_/same_as :: [Duchy.private](/_private/Society/Politics/Government/Duchy.private.md) 
+### #is_/same_as :: [[/_private/Society/Politics/Government/Duchy.private|Duchy.private]] 
 
-### #is_/same_as :: [Duchy.personal](/_personal/Society/Politics/Government/Duchy.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Politics/Government/Duchy.personal|Duchy.personal]] 
 
-### #is_/same_as :: [Duchy.secret](/_secret/Society/Politics/Government/Duchy.secret.md)
+### #is_/same_as :: [[/_secret/Society/Politics/Government/Duchy.secret|Duchy.secret]] 
 

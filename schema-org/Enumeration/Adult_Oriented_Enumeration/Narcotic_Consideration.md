@@ -44,17 +44,17 @@ Item is a narcotic as defined by the <a href="https://www.incb.org/incb/en/narco
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Narcotic_Consideration](/_Standards/schema-org/Enumeration/Adult_Oriented_Enumeration/Narcotic_Consideration.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Adult_Oriented_Enumeration/Narcotic_Consideration|Narcotic_Consideration]] 
 
-### #is_/same_as :: [Narcotic_Consideration.public](/_public/schema-org/Enumeration/Adult_Oriented_Enumeration/Narcotic_Consideration.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Adult_Oriented_Enumeration/Narcotic_Consideration.public|Narcotic_Consideration.public]] 
 
-### #is_/same_as :: [Narcotic_Consideration.internal](/_internal/schema-org/Enumeration/Adult_Oriented_Enumeration/Narcotic_Consideration.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Adult_Oriented_Enumeration/Narcotic_Consideration.internal|Narcotic_Consideration.internal]] 
 
-### #is_/same_as :: [Narcotic_Consideration.protect](/_protect/schema-org/Enumeration/Adult_Oriented_Enumeration/Narcotic_Consideration.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Adult_Oriented_Enumeration/Narcotic_Consideration.protect|Narcotic_Consideration.protect]] 
 
-### #is_/same_as :: [Narcotic_Consideration.private](/_private/schema-org/Enumeration/Adult_Oriented_Enumeration/Narcotic_Consideration.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Adult_Oriented_Enumeration/Narcotic_Consideration.private|Narcotic_Consideration.private]] 
 
-### #is_/same_as :: [Narcotic_Consideration.personal](/_personal/schema-org/Enumeration/Adult_Oriented_Enumeration/Narcotic_Consideration.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Adult_Oriented_Enumeration/Narcotic_Consideration.personal|Narcotic_Consideration.personal]] 
 
-### #is_/same_as :: [Narcotic_Consideration.secret](/_secret/schema-org/Enumeration/Adult_Oriented_Enumeration/Narcotic_Consideration.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Adult_Oriented_Enumeration/Narcotic_Consideration.secret|Narcotic_Consideration.secret]] 
 

@@ -37,17 +37,17 @@ A distillery.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~Distillery](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FoodEstablishment/FileClass~Distillery.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FoodEstablishment/FileClass~Distillery|FileClass~Distillery]] 
 
-### #is_/same_as :: [FileClass~Distillery.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FoodEstablishment/FileClass~Distillery.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FoodEstablishment/FileClass~Distillery.public|FileClass~Distillery.public]] 
 
-### #is_/same_as :: [FileClass~Distillery.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FoodEstablishment/FileClass~Distillery.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FoodEstablishment/FileClass~Distillery.internal|FileClass~Distillery.internal]] 
 
-### #is_/same_as :: [FileClass~Distillery.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FoodEstablishment/FileClass~Distillery.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FoodEstablishment/FileClass~Distillery.protect|FileClass~Distillery.protect]] 
 
-### #is_/same_as :: [FileClass~Distillery.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FoodEstablishment/FileClass~Distillery.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FoodEstablishment/FileClass~Distillery.private|FileClass~Distillery.private]] 
 
-### #is_/same_as :: [FileClass~Distillery.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FoodEstablishment/FileClass~Distillery.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FoodEstablishment/FileClass~Distillery.personal|FileClass~Distillery.personal]] 
 
-### #is_/same_as :: [FileClass~Distillery.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FoodEstablishment/FileClass~Distillery.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FoodEstablishment/FileClass~Distillery.secret|FileClass~Distillery.secret]] 
 

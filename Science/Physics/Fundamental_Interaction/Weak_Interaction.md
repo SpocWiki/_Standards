@@ -50,17 +50,17 @@ schematic:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Weak_Interaction](/_Standards/Science/Physics/Fundamental_Interaction/Weak_Interaction.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Fundamental_Interaction/Weak_Interaction|Weak_Interaction]] 
 
-### #is_/same_as :: [Weak_Interaction.public](/_public/Science/Physics/Fundamental_Interaction/Weak_Interaction.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Fundamental_Interaction/Weak_Interaction.public|Weak_Interaction.public]] 
 
-### #is_/same_as :: [Weak_Interaction.internal](/_internal/Science/Physics/Fundamental_Interaction/Weak_Interaction.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Fundamental_Interaction/Weak_Interaction.internal|Weak_Interaction.internal]] 
 
-### #is_/same_as :: [Weak_Interaction.protect](/_protect/Science/Physics/Fundamental_Interaction/Weak_Interaction.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Fundamental_Interaction/Weak_Interaction.protect|Weak_Interaction.protect]] 
 
-### #is_/same_as :: [Weak_Interaction.private](/_private/Science/Physics/Fundamental_Interaction/Weak_Interaction.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Fundamental_Interaction/Weak_Interaction.private|Weak_Interaction.private]] 
 
-### #is_/same_as :: [Weak_Interaction.personal](/_personal/Science/Physics/Fundamental_Interaction/Weak_Interaction.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Fundamental_Interaction/Weak_Interaction.personal|Weak_Interaction.personal]] 
 
-### #is_/same_as :: [Weak_Interaction.secret](/_secret/Science/Physics/Fundamental_Interaction/Weak_Interaction.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Fundamental_Interaction/Weak_Interaction.secret|Weak_Interaction.secret]] 
 

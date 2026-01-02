@@ -83,17 +83,17 @@ coordinate_location: Point(-0.080277777 51.514444444)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Gherkin,London](/_Standards/Earth/Geography/Place/Gherkin,London.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geography/Place/Gherkin,London|Gherkin,London]] 
 
-### #is_/same_as :: [Gherkin,London.public](/_public/Earth/Geography/Place/Gherkin,London.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geography/Place/Gherkin,London.public|Gherkin,London.public]] 
 
-### #is_/same_as :: [Gherkin,London.internal](/_internal/Earth/Geography/Place/Gherkin,London.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geography/Place/Gherkin,London.internal|Gherkin,London.internal]] 
 
-### #is_/same_as :: [Gherkin,London.protect](/_protect/Earth/Geography/Place/Gherkin,London.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geography/Place/Gherkin,London.protect|Gherkin,London.protect]] 
 
-### #is_/same_as :: [Gherkin,London.private](/_private/Earth/Geography/Place/Gherkin,London.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geography/Place/Gherkin,London.private|Gherkin,London.private]] 
 
-### #is_/same_as :: [Gherkin,London.personal](/_personal/Earth/Geography/Place/Gherkin,London.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geography/Place/Gherkin,London.personal|Gherkin,London.personal]] 
 
-### #is_/same_as :: [Gherkin,London.secret](/_secret/Earth/Geography/Place/Gherkin,London.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geography/Place/Gherkin,London.secret|Gherkin,London.secret]] 
 

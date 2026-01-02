@@ -94,17 +94,17 @@ Krugosvet_article: teatr-i-kino/karnaval
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Carnival](/_Standards/Earth/Climate/Season/Carnival.md) 
+### #is_/same_as :: [[/_Standards/Earth/Climate/Season/Carnival|Carnival]] 
 
-### #is_/same_as :: [Carnival.public](/_public/Earth/Climate/Season/Carnival.public.md) 
+### #is_/same_as :: [[/_public/Earth/Climate/Season/Carnival.public|Carnival.public]] 
 
-### #is_/same_as :: [Carnival.internal](/_internal/Earth/Climate/Season/Carnival.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Climate/Season/Carnival.internal|Carnival.internal]] 
 
-### #is_/same_as :: [Carnival.protect](/_protect/Earth/Climate/Season/Carnival.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Climate/Season/Carnival.protect|Carnival.protect]] 
 
-### #is_/same_as :: [Carnival.private](/_private/Earth/Climate/Season/Carnival.private.md) 
+### #is_/same_as :: [[/_private/Earth/Climate/Season/Carnival.private|Carnival.private]] 
 
-### #is_/same_as :: [Carnival.personal](/_personal/Earth/Climate/Season/Carnival.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Climate/Season/Carnival.personal|Carnival.personal]] 
 
-### #is_/same_as :: [Carnival.secret](/_secret/Earth/Climate/Season/Carnival.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Climate/Season/Carnival.secret|Carnival.secret]] 
 

@@ -95,17 +95,17 @@ short_name: D. melanogaster
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Drosophila_melanogaster](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Diptera/Drosophilidae/Drosophila_melanogaster.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Diptera/Drosophilidae/Drosophila_melanogaster|Drosophila_melanogaster]] 
 
-### #is_/same_as :: [Drosophila_melanogaster.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Diptera/Drosophilidae/Drosophila_melanogaster.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Diptera/Drosophilidae/Drosophila_melanogaster.public|Drosophila_melanogaster.public]] 
 
-### #is_/same_as :: [Drosophila_melanogaster.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Diptera/Drosophilidae/Drosophila_melanogaster.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Diptera/Drosophilidae/Drosophila_melanogaster.internal|Drosophila_melanogaster.internal]] 
 
-### #is_/same_as :: [Drosophila_melanogaster.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Diptera/Drosophilidae/Drosophila_melanogaster.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Diptera/Drosophilidae/Drosophila_melanogaster.protect|Drosophila_melanogaster.protect]] 
 
-### #is_/same_as :: [Drosophila_melanogaster.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Diptera/Drosophilidae/Drosophila_melanogaster.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Diptera/Drosophilidae/Drosophila_melanogaster.private|Drosophila_melanogaster.private]] 
 
-### #is_/same_as :: [Drosophila_melanogaster.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Diptera/Drosophilidae/Drosophila_melanogaster.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Diptera/Drosophilidae/Drosophila_melanogaster.personal|Drosophila_melanogaster.personal]] 
 
-### #is_/same_as :: [Drosophila_melanogaster.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Diptera/Drosophilidae/Drosophila_melanogaster.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Diptera/Drosophilidae/Drosophila_melanogaster.secret|Drosophila_melanogaster.secret]] 
 

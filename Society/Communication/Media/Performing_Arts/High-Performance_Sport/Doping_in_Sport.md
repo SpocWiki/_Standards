@@ -56,17 +56,17 @@ MeSH_tree_code: I01.880.735.265
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Doping_in_Sport](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Doping_in_Sport.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Doping_in_Sport|Doping_in_Sport]] 
 
-### #is_/same_as :: [Doping_in_Sport.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Doping_in_Sport.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Doping_in_Sport.public|Doping_in_Sport.public]] 
 
-### #is_/same_as :: [Doping_in_Sport.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Doping_in_Sport.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Doping_in_Sport.internal|Doping_in_Sport.internal]] 
 
-### #is_/same_as :: [Doping_in_Sport.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Doping_in_Sport.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Doping_in_Sport.protect|Doping_in_Sport.protect]] 
 
-### #is_/same_as :: [Doping_in_Sport.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Doping_in_Sport.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Doping_in_Sport.private|Doping_in_Sport.private]] 
 
-### #is_/same_as :: [Doping_in_Sport.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Doping_in_Sport.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Doping_in_Sport.personal|Doping_in_Sport.personal]] 
 
-### #is_/same_as :: [Doping_in_Sport.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Doping_in_Sport.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Doping_in_Sport.secret|Doping_in_Sport.secret]] 
 

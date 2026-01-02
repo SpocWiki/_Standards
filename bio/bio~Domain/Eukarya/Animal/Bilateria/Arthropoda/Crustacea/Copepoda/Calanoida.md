@@ -121,22 +121,22 @@ Calanus pavo male (Calanidae).
 Image from Ernst Haeckel\'s Kunstformen der Natur published 1899-1904 by
 Verlag des Bibliographischen Instituts, Leipzig and Vienna. Scans
 courtesy of [Kurt Stüber\'s online library of historic and classical biology books.](http://caliban.mpiz-koeln.mpg.de/%7Estueber/stueber_library.html)
-![Calanus_pavo](Calanoida/Calanus_pavo.jpg))
+![Calanus_pavo](Calanoida/Calanus_pavo.jpg) 
 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Calanoida](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Copepoda/Calanoida.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Copepoda/Calanoida|Calanoida]] 
 
-### #is_/same_as :: [Calanoida.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Copepoda/Calanoida.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Copepoda/Calanoida.public|Calanoida.public]] 
 
-### #is_/same_as :: [Calanoida.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Copepoda/Calanoida.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Copepoda/Calanoida.internal|Calanoida.internal]] 
 
-### #is_/same_as :: [Calanoida.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Copepoda/Calanoida.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Copepoda/Calanoida.protect|Calanoida.protect]] 
 
-### #is_/same_as :: [Calanoida.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Copepoda/Calanoida.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Copepoda/Calanoida.private|Calanoida.private]] 
 
-### #is_/same_as :: [Calanoida.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Copepoda/Calanoida.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Copepoda/Calanoida.personal|Calanoida.personal]] 
 
-### #is_/same_as :: [Calanoida.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Copepoda/Calanoida.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Copepoda/Calanoida.secret|Calanoida.secret]] 
 

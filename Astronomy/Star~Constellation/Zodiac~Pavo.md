@@ -52,17 +52,17 @@ official_name: Pavo
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Zodiac~Pavo](/_Standards/Astronomy/Star~Constellation/Zodiac~Pavo.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Star~Constellation/Zodiac~Pavo|Zodiac~Pavo]] 
 
-### #is_/same_as :: [Zodiac~Pavo.public](/_public/Astronomy/Star~Constellation/Zodiac~Pavo.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Star~Constellation/Zodiac~Pavo.public|Zodiac~Pavo.public]] 
 
-### #is_/same_as :: [Zodiac~Pavo.internal](/_internal/Astronomy/Star~Constellation/Zodiac~Pavo.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Star~Constellation/Zodiac~Pavo.internal|Zodiac~Pavo.internal]] 
 
-### #is_/same_as :: [Zodiac~Pavo.protect](/_protect/Astronomy/Star~Constellation/Zodiac~Pavo.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Star~Constellation/Zodiac~Pavo.protect|Zodiac~Pavo.protect]] 
 
-### #is_/same_as :: [Zodiac~Pavo.private](/_private/Astronomy/Star~Constellation/Zodiac~Pavo.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Star~Constellation/Zodiac~Pavo.private|Zodiac~Pavo.private]] 
 
-### #is_/same_as :: [Zodiac~Pavo.personal](/_personal/Astronomy/Star~Constellation/Zodiac~Pavo.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Star~Constellation/Zodiac~Pavo.personal|Zodiac~Pavo.personal]] 
 
-### #is_/same_as :: [Zodiac~Pavo.secret](/_secret/Astronomy/Star~Constellation/Zodiac~Pavo.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Star~Constellation/Zodiac~Pavo.secret|Zodiac~Pavo.secret]] 
 

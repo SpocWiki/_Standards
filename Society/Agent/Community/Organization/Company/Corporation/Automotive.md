@@ -79,17 +79,17 @@ P8189: 987007556280005171
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Automotive](/_Standards/Society/Agent/Community/Organization/Company/Corporation/Automotive.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Company/Corporation/Automotive|Automotive]] 
 
-### #is_/same_as :: [Automotive.public](/_public/Society/Agent/Community/Organization/Company/Corporation/Automotive.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Company/Corporation/Automotive.public|Automotive.public]] 
 
-### #is_/same_as :: [Automotive.internal](/_internal/Society/Agent/Community/Organization/Company/Corporation/Automotive.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Company/Corporation/Automotive.internal|Automotive.internal]] 
 
-### #is_/same_as :: [Automotive.protect](/_protect/Society/Agent/Community/Organization/Company/Corporation/Automotive.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Company/Corporation/Automotive.protect|Automotive.protect]] 
 
-### #is_/same_as :: [Automotive.private](/_private/Society/Agent/Community/Organization/Company/Corporation/Automotive.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Company/Corporation/Automotive.private|Automotive.private]] 
 
-### #is_/same_as :: [Automotive.personal](/_personal/Society/Agent/Community/Organization/Company/Corporation/Automotive.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Company/Corporation/Automotive.personal|Automotive.personal]] 
 
-### #is_/same_as :: [Automotive.secret](/_secret/Society/Agent/Community/Organization/Company/Corporation/Automotive.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Company/Corporation/Automotive.secret|Automotive.secret]] 
 

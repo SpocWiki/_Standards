@@ -117,17 +117,17 @@ Baidu_Tieba_name: 三国演义
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Romance_of_the_Three_Kingdoms](/_Standards/Society/Communication/Media/Writing/Book/Prose/Novel/Romance_of_the_Three_Kingdoms.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Prose/Novel/Romance_of_the_Three_Kingdoms|Romance_of_the_Three_Kingdoms]] 
 
-### #is_/same_as :: [Romance_of_the_Three_Kingdoms.public](/_public/Society/Communication/Media/Writing/Book/Prose/Novel/Romance_of_the_Three_Kingdoms.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Prose/Novel/Romance_of_the_Three_Kingdoms.public|Romance_of_the_Three_Kingdoms.public]] 
 
-### #is_/same_as :: [Romance_of_the_Three_Kingdoms.internal](/_internal/Society/Communication/Media/Writing/Book/Prose/Novel/Romance_of_the_Three_Kingdoms.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Prose/Novel/Romance_of_the_Three_Kingdoms.internal|Romance_of_the_Three_Kingdoms.internal]] 
 
-### #is_/same_as :: [Romance_of_the_Three_Kingdoms.protect](/_protect/Society/Communication/Media/Writing/Book/Prose/Novel/Romance_of_the_Three_Kingdoms.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Prose/Novel/Romance_of_the_Three_Kingdoms.protect|Romance_of_the_Three_Kingdoms.protect]] 
 
-### #is_/same_as :: [Romance_of_the_Three_Kingdoms.private](/_private/Society/Communication/Media/Writing/Book/Prose/Novel/Romance_of_the_Three_Kingdoms.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Prose/Novel/Romance_of_the_Three_Kingdoms.private|Romance_of_the_Three_Kingdoms.private]] 
 
-### #is_/same_as :: [Romance_of_the_Three_Kingdoms.personal](/_personal/Society/Communication/Media/Writing/Book/Prose/Novel/Romance_of_the_Three_Kingdoms.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Prose/Novel/Romance_of_the_Three_Kingdoms.personal|Romance_of_the_Three_Kingdoms.personal]] 
 
-### #is_/same_as :: [Romance_of_the_Three_Kingdoms.secret](/_secret/Society/Communication/Media/Writing/Book/Prose/Novel/Romance_of_the_Three_Kingdoms.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Prose/Novel/Romance_of_the_Three_Kingdoms.secret|Romance_of_the_Three_Kingdoms.secret]] 
 

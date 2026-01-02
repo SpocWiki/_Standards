@@ -113,17 +113,17 @@ date_of_death: 2020-11-25T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Maradona,Diego](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Association_Football/Footballer/Maradona,Diego.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Association_Football/Footballer/Maradona,Diego|Maradona,Diego]] 
 
-### #is_/same_as :: [Maradona,Diego.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Association_Football/Footballer/Maradona,Diego.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Association_Football/Footballer/Maradona,Diego.public|Maradona,Diego.public]] 
 
-### #is_/same_as :: [Maradona,Diego.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Association_Football/Footballer/Maradona,Diego.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Association_Football/Footballer/Maradona,Diego.internal|Maradona,Diego.internal]] 
 
-### #is_/same_as :: [Maradona,Diego.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Association_Football/Footballer/Maradona,Diego.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Association_Football/Footballer/Maradona,Diego.protect|Maradona,Diego.protect]] 
 
-### #is_/same_as :: [Maradona,Diego.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Association_Football/Footballer/Maradona,Diego.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Association_Football/Footballer/Maradona,Diego.private|Maradona,Diego.private]] 
 
-### #is_/same_as :: [Maradona,Diego.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Association_Football/Footballer/Maradona,Diego.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Association_Football/Footballer/Maradona,Diego.personal|Maradona,Diego.personal]] 
 
-### #is_/same_as :: [Maradona,Diego.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Association_Football/Footballer/Maradona,Diego.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Association_Football/Footballer/Maradona,Diego.secret|Maradona,Diego.secret]] 
 

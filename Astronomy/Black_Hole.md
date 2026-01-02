@@ -89,17 +89,17 @@ but rotating Holes can convert most of the mass.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Black_Hole](/_Standards/Astronomy/Black_Hole.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Black_Hole|Black_Hole]] 
 
-### #is_/same_as :: [Black_Hole.public](/_public/Astronomy/Black_Hole.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Black_Hole.public|Black_Hole.public]] 
 
-### #is_/same_as :: [Black_Hole.internal](/_internal/Astronomy/Black_Hole.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Black_Hole.internal|Black_Hole.internal]] 
 
-### #is_/same_as :: [Black_Hole.protect](/_protect/Astronomy/Black_Hole.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Black_Hole.protect|Black_Hole.protect]] 
 
-### #is_/same_as :: [Black_Hole.private](/_private/Astronomy/Black_Hole.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Black_Hole.private|Black_Hole.private]] 
 
-### #is_/same_as :: [Black_Hole.personal](/_personal/Astronomy/Black_Hole.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Black_Hole.personal|Black_Hole.personal]] 
 
-### #is_/same_as :: [Black_Hole.secret](/_secret/Astronomy/Black_Hole.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Black_Hole.secret|Black_Hole.secret]] 
 

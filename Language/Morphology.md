@@ -56,17 +56,17 @@ short_name: Morphol.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Morphology](/_Standards/Language/Morphology.md) 
+### #is_/same_as :: [[/_Standards/Language/Morphology|Morphology]] 
 
-### #is_/same_as :: [Morphology.public](/_public/Language/Morphology.public.md) 
+### #is_/same_as :: [[/_public/Language/Morphology.public|Morphology.public]] 
 
-### #is_/same_as :: [Morphology.internal](/_internal/Language/Morphology.internal.md) 
+### #is_/same_as :: [[/_internal/Language/Morphology.internal|Morphology.internal]] 
 
-### #is_/same_as :: [Morphology.protect](/_protect/Language/Morphology.protect.md) 
+### #is_/same_as :: [[/_protect/Language/Morphology.protect|Morphology.protect]] 
 
-### #is_/same_as :: [Morphology.private](/_private/Language/Morphology.private.md) 
+### #is_/same_as :: [[/_private/Language/Morphology.private|Morphology.private]] 
 
-### #is_/same_as :: [Morphology.personal](/_personal/Language/Morphology.personal.md) 
+### #is_/same_as :: [[/_personal/Language/Morphology.personal|Morphology.personal]] 
 
-### #is_/same_as :: [Morphology.secret](/_secret/Language/Morphology.secret.md)
+### #is_/same_as :: [[/_secret/Language/Morphology.secret|Morphology.secret]] 
 

@@ -37,17 +37,17 @@ A general contractor.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~GeneralContractor](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HomeAndConstructionBusiness/FileClass~GeneralContractor.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HomeAndConstructionBusiness/FileClass~GeneralContractor|FileClass~GeneralContractor]] 
 
-### #is_/same_as :: [FileClass~GeneralContractor.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HomeAndConstructionBusiness/FileClass~GeneralContractor.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HomeAndConstructionBusiness/FileClass~GeneralContractor.public|FileClass~GeneralContractor.public]] 
 
-### #is_/same_as :: [FileClass~GeneralContractor.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HomeAndConstructionBusiness/FileClass~GeneralContractor.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HomeAndConstructionBusiness/FileClass~GeneralContractor.internal|FileClass~GeneralContractor.internal]] 
 
-### #is_/same_as :: [FileClass~GeneralContractor.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HomeAndConstructionBusiness/FileClass~GeneralContractor.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HomeAndConstructionBusiness/FileClass~GeneralContractor.protect|FileClass~GeneralContractor.protect]] 
 
-### #is_/same_as :: [FileClass~GeneralContractor.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HomeAndConstructionBusiness/FileClass~GeneralContractor.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HomeAndConstructionBusiness/FileClass~GeneralContractor.private|FileClass~GeneralContractor.private]] 
 
-### #is_/same_as :: [FileClass~GeneralContractor.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HomeAndConstructionBusiness/FileClass~GeneralContractor.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HomeAndConstructionBusiness/FileClass~GeneralContractor.personal|FileClass~GeneralContractor.personal]] 
 
-### #is_/same_as :: [FileClass~GeneralContractor.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HomeAndConstructionBusiness/FileClass~GeneralContractor.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HomeAndConstructionBusiness/FileClass~GeneralContractor.secret|FileClass~GeneralContractor.secret]] 
 

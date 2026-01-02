@@ -75,17 +75,17 @@ U_S_National_Archives_Identifier: 10639595
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Abortion](/_Standards/Society/Social_Issues/Abortion.md) 
+### #is_/same_as :: [[/_Standards/Society/Social_Issues/Abortion|Abortion]] 
 
-### #is_/same_as :: [Abortion.public](/_public/Society/Social_Issues/Abortion.public.md) 
+### #is_/same_as :: [[/_public/Society/Social_Issues/Abortion.public|Abortion.public]] 
 
-### #is_/same_as :: [Abortion.internal](/_internal/Society/Social_Issues/Abortion.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Social_Issues/Abortion.internal|Abortion.internal]] 
 
-### #is_/same_as :: [Abortion.protect](/_protect/Society/Social_Issues/Abortion.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Social_Issues/Abortion.protect|Abortion.protect]] 
 
-### #is_/same_as :: [Abortion.private](/_private/Society/Social_Issues/Abortion.private.md) 
+### #is_/same_as :: [[/_private/Society/Social_Issues/Abortion.private|Abortion.private]] 
 
-### #is_/same_as :: [Abortion.personal](/_personal/Society/Social_Issues/Abortion.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Social_Issues/Abortion.personal|Abortion.personal]] 
 
-### #is_/same_as :: [Abortion.secret](/_secret/Society/Social_Issues/Abortion.secret.md)
+### #is_/same_as :: [[/_secret/Society/Social_Issues/Abortion.secret|Abortion.secret]] 
 

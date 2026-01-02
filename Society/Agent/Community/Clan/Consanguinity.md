@@ -43,17 +43,17 @@ MeSH_tree_code:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Consanguinity](/_Standards/Society/Agent/Community/Clan/Consanguinity.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Clan/Consanguinity|Consanguinity]] 
 
-### #is_/same_as :: [Consanguinity.public](/_public/Society/Agent/Community/Clan/Consanguinity.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Clan/Consanguinity.public|Consanguinity.public]] 
 
-### #is_/same_as :: [Consanguinity.internal](/_internal/Society/Agent/Community/Clan/Consanguinity.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Clan/Consanguinity.internal|Consanguinity.internal]] 
 
-### #is_/same_as :: [Consanguinity.protect](/_protect/Society/Agent/Community/Clan/Consanguinity.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Clan/Consanguinity.protect|Consanguinity.protect]] 
 
-### #is_/same_as :: [Consanguinity.private](/_private/Society/Agent/Community/Clan/Consanguinity.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Clan/Consanguinity.private|Consanguinity.private]] 
 
-### #is_/same_as :: [Consanguinity.personal](/_personal/Society/Agent/Community/Clan/Consanguinity.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Clan/Consanguinity.personal|Consanguinity.personal]] 
 
-### #is_/same_as :: [Consanguinity.secret](/_secret/Society/Agent/Community/Clan/Consanguinity.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Clan/Consanguinity.secret|Consanguinity.secret]] 
 

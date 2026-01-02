@@ -22,3 +22,22 @@ aliases:
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/bio/Metabolism/Nutrition/Vitamin/Vitamin_E|Vitamin_E]] 
+
+### #is_/same_as :: [[/_public/bio/Metabolism/Nutrition/Vitamin/Vitamin_E.public|Vitamin_E.public]] 
+
+### #is_/same_as :: [[/_internal/bio/Metabolism/Nutrition/Vitamin/Vitamin_E.internal|Vitamin_E.internal]] 
+
+### #is_/same_as :: [[/_protect/bio/Metabolism/Nutrition/Vitamin/Vitamin_E.protect|Vitamin_E.protect]] 
+
+### #is_/same_as :: [[/_private/bio/Metabolism/Nutrition/Vitamin/Vitamin_E.private|Vitamin_E.private]] 
+
+### #is_/same_as :: [[/_personal/bio/Metabolism/Nutrition/Vitamin/Vitamin_E.personal|Vitamin_E.personal]] 
+
+### #is_/same_as :: [[/_secret/bio/Metabolism/Nutrition/Vitamin/Vitamin_E.secret|Vitamin_E.secret]] 
+

@@ -68,17 +68,17 @@ video: http://commons.wikimedia.org/wiki/Special:FilePath/2.%D0%A2%D0%B5%D0%BE%D
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Pythagorean_Theorem](/_Standards/Mathematics/Theorem/Pythagorean_Theorem.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Theorem/Pythagorean_Theorem|Pythagorean_Theorem]] 
 
-### #is_/same_as :: [Pythagorean_Theorem.public](/_public/Mathematics/Theorem/Pythagorean_Theorem.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Theorem/Pythagorean_Theorem.public|Pythagorean_Theorem.public]] 
 
-### #is_/same_as :: [Pythagorean_Theorem.internal](/_internal/Mathematics/Theorem/Pythagorean_Theorem.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Theorem/Pythagorean_Theorem.internal|Pythagorean_Theorem.internal]] 
 
-### #is_/same_as :: [Pythagorean_Theorem.protect](/_protect/Mathematics/Theorem/Pythagorean_Theorem.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Theorem/Pythagorean_Theorem.protect|Pythagorean_Theorem.protect]] 
 
-### #is_/same_as :: [Pythagorean_Theorem.private](/_private/Mathematics/Theorem/Pythagorean_Theorem.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Theorem/Pythagorean_Theorem.private|Pythagorean_Theorem.private]] 
 
-### #is_/same_as :: [Pythagorean_Theorem.personal](/_personal/Mathematics/Theorem/Pythagorean_Theorem.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Theorem/Pythagorean_Theorem.personal|Pythagorean_Theorem.personal]] 
 
-### #is_/same_as :: [Pythagorean_Theorem.secret](/_secret/Mathematics/Theorem/Pythagorean_Theorem.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Theorem/Pythagorean_Theorem.secret|Pythagorean_Theorem.secret]] 
 

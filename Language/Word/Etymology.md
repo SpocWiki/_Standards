@@ -62,17 +62,17 @@ Krugosvet_article: gumanitarnye_nauki/lingvistika/ETIMOLOGIYA.html
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Etymology](/_Standards/Language/Word/Etymology.md) 
+### #is_/same_as :: [[/_Standards/Language/Word/Etymology|Etymology]] 
 
-### #is_/same_as :: [Etymology.public](/_public/Language/Word/Etymology.public.md) 
+### #is_/same_as :: [[/_public/Language/Word/Etymology.public|Etymology.public]] 
 
-### #is_/same_as :: [Etymology.internal](/_internal/Language/Word/Etymology.internal.md) 
+### #is_/same_as :: [[/_internal/Language/Word/Etymology.internal|Etymology.internal]] 
 
-### #is_/same_as :: [Etymology.protect](/_protect/Language/Word/Etymology.protect.md) 
+### #is_/same_as :: [[/_protect/Language/Word/Etymology.protect|Etymology.protect]] 
 
-### #is_/same_as :: [Etymology.private](/_private/Language/Word/Etymology.private.md) 
+### #is_/same_as :: [[/_private/Language/Word/Etymology.private|Etymology.private]] 
 
-### #is_/same_as :: [Etymology.personal](/_personal/Language/Word/Etymology.personal.md) 
+### #is_/same_as :: [[/_personal/Language/Word/Etymology.personal|Etymology.personal]] 
 
-### #is_/same_as :: [Etymology.secret](/_secret/Language/Word/Etymology.secret.md)
+### #is_/same_as :: [[/_secret/Language/Word/Etymology.secret|Etymology.secret]] 
 

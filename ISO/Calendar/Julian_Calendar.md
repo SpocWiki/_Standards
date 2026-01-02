@@ -78,17 +78,17 @@ Commons_category: Julian calendars
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Julian_Calendar](/_Standards/ISO/Calendar/Julian_Calendar.md) 
+### #is_/same_as :: [[/_Standards/ISO/Calendar/Julian_Calendar|Julian_Calendar]] 
 
-### #is_/same_as :: [Julian_Calendar.public](/_public/ISO/Calendar/Julian_Calendar.public.md) 
+### #is_/same_as :: [[/_public/ISO/Calendar/Julian_Calendar.public|Julian_Calendar.public]] 
 
-### #is_/same_as :: [Julian_Calendar.internal](/_internal/ISO/Calendar/Julian_Calendar.internal.md) 
+### #is_/same_as :: [[/_internal/ISO/Calendar/Julian_Calendar.internal|Julian_Calendar.internal]] 
 
-### #is_/same_as :: [Julian_Calendar.protect](/_protect/ISO/Calendar/Julian_Calendar.protect.md) 
+### #is_/same_as :: [[/_protect/ISO/Calendar/Julian_Calendar.protect|Julian_Calendar.protect]] 
 
-### #is_/same_as :: [Julian_Calendar.private](/_private/ISO/Calendar/Julian_Calendar.private.md) 
+### #is_/same_as :: [[/_private/ISO/Calendar/Julian_Calendar.private|Julian_Calendar.private]] 
 
-### #is_/same_as :: [Julian_Calendar.personal](/_personal/ISO/Calendar/Julian_Calendar.personal.md) 
+### #is_/same_as :: [[/_personal/ISO/Calendar/Julian_Calendar.personal|Julian_Calendar.personal]] 
 
-### #is_/same_as :: [Julian_Calendar.secret](/_secret/ISO/Calendar/Julian_Calendar.secret.md)
+### #is_/same_as :: [[/_secret/ISO/Calendar/Julian_Calendar.secret|Julian_Calendar.secret]] 
 

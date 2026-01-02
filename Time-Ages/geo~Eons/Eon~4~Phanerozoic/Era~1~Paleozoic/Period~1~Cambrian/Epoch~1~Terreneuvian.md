@@ -62,17 +62,17 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Epoch~1~Terreneuvian](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~1~Terreneuvian.md) 
+### #is_/same_as :: [[/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~1~Terreneuvian|Epoch~1~Terreneuvian]] 
 
-### #is_/same_as :: [Epoch~1~Terreneuvian.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~1~Terreneuvian.public.md) 
+### #is_/same_as :: [[/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~1~Terreneuvian.public|Epoch~1~Terreneuvian.public]] 
 
-### #is_/same_as :: [Epoch~1~Terreneuvian.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~1~Terreneuvian.internal.md) 
+### #is_/same_as :: [[/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~1~Terreneuvian.internal|Epoch~1~Terreneuvian.internal]] 
 
-### #is_/same_as :: [Epoch~1~Terreneuvian.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~1~Terreneuvian.protect.md) 
+### #is_/same_as :: [[/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~1~Terreneuvian.protect|Epoch~1~Terreneuvian.protect]] 
 
-### #is_/same_as :: [Epoch~1~Terreneuvian.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~1~Terreneuvian.private.md) 
+### #is_/same_as :: [[/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~1~Terreneuvian.private|Epoch~1~Terreneuvian.private]] 
 
-### #is_/same_as :: [Epoch~1~Terreneuvian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~1~Terreneuvian.personal.md) 
+### #is_/same_as :: [[/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~1~Terreneuvian.personal|Epoch~1~Terreneuvian.personal]] 
 
-### #is_/same_as :: [Epoch~1~Terreneuvian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~1~Terreneuvian.secret.md)
+### #is_/same_as :: [[/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~1~Terreneuvian.secret|Epoch~1~Terreneuvian.secret]] 
 

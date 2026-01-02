@@ -195,17 +195,17 @@ date_of_death: 2011-03-23T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Elizabeth_Taylor](/_Standards/Society/Communication/Media/Movie/Actor/British_Actor/Elizabeth_Taylor.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Actor/British_Actor/Elizabeth_Taylor|Elizabeth_Taylor]] 
 
-### #is_/same_as :: [Elizabeth_Taylor.public](/_public/Society/Communication/Media/Movie/Actor/British_Actor/Elizabeth_Taylor.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Actor/British_Actor/Elizabeth_Taylor.public|Elizabeth_Taylor.public]] 
 
-### #is_/same_as :: [Elizabeth_Taylor.internal](/_internal/Society/Communication/Media/Movie/Actor/British_Actor/Elizabeth_Taylor.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Actor/British_Actor/Elizabeth_Taylor.internal|Elizabeth_Taylor.internal]] 
 
-### #is_/same_as :: [Elizabeth_Taylor.protect](/_protect/Society/Communication/Media/Movie/Actor/British_Actor/Elizabeth_Taylor.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Actor/British_Actor/Elizabeth_Taylor.protect|Elizabeth_Taylor.protect]] 
 
-### #is_/same_as :: [Elizabeth_Taylor.private](/_private/Society/Communication/Media/Movie/Actor/British_Actor/Elizabeth_Taylor.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Actor/British_Actor/Elizabeth_Taylor.private|Elizabeth_Taylor.private]] 
 
-### #is_/same_as :: [Elizabeth_Taylor.personal](/_personal/Society/Communication/Media/Movie/Actor/British_Actor/Elizabeth_Taylor.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Actor/British_Actor/Elizabeth_Taylor.personal|Elizabeth_Taylor.personal]] 
 
-### #is_/same_as :: [Elizabeth_Taylor.secret](/_secret/Society/Communication/Media/Movie/Actor/British_Actor/Elizabeth_Taylor.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Actor/British_Actor/Elizabeth_Taylor.secret|Elizabeth_Taylor.secret]] 
 

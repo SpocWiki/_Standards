@@ -45,17 +45,17 @@ Commons_category: Electrical conductors
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Electrical_Conductor](/_Standards/Science/Physics/Electricity/Electric_Power_Distribution/Electrical_Conductor.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Electricity/Electric_Power_Distribution/Electrical_Conductor|Electrical_Conductor]] 
 
-### #is_/same_as :: [Electrical_Conductor.public](/_public/Science/Physics/Electricity/Electric_Power_Distribution/Electrical_Conductor.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Electricity/Electric_Power_Distribution/Electrical_Conductor.public|Electrical_Conductor.public]] 
 
-### #is_/same_as :: [Electrical_Conductor.internal](/_internal/Science/Physics/Electricity/Electric_Power_Distribution/Electrical_Conductor.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Electricity/Electric_Power_Distribution/Electrical_Conductor.internal|Electrical_Conductor.internal]] 
 
-### #is_/same_as :: [Electrical_Conductor.protect](/_protect/Science/Physics/Electricity/Electric_Power_Distribution/Electrical_Conductor.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Electricity/Electric_Power_Distribution/Electrical_Conductor.protect|Electrical_Conductor.protect]] 
 
-### #is_/same_as :: [Electrical_Conductor.private](/_private/Science/Physics/Electricity/Electric_Power_Distribution/Electrical_Conductor.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Electricity/Electric_Power_Distribution/Electrical_Conductor.private|Electrical_Conductor.private]] 
 
-### #is_/same_as :: [Electrical_Conductor.personal](/_personal/Science/Physics/Electricity/Electric_Power_Distribution/Electrical_Conductor.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Electricity/Electric_Power_Distribution/Electrical_Conductor.personal|Electrical_Conductor.personal]] 
 
-### #is_/same_as :: [Electrical_Conductor.secret](/_secret/Science/Physics/Electricity/Electric_Power_Distribution/Electrical_Conductor.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Electricity/Electric_Power_Distribution/Electrical_Conductor.secret|Electrical_Conductor.secret]] 
 

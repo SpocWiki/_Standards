@@ -114,17 +114,17 @@ Krugosvet_article_archived_: nauka_i_tehnika/himiya/TRIKARBONOVIH_KISLOT_TSIKL.h
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Tricarboxylic_Acid_Cycle](/_Standards/bio/Metabolism/Nutrition/Tricarboxylic_Acid_Cycle.md) 
+### #is_/same_as :: [[/_Standards/bio/Metabolism/Nutrition/Tricarboxylic_Acid_Cycle|Tricarboxylic_Acid_Cycle]] 
 
-### #is_/same_as :: [Tricarboxylic_Acid_Cycle.public](/_public/bio/Metabolism/Nutrition/Tricarboxylic_Acid_Cycle.public.md) 
+### #is_/same_as :: [[/_public/bio/Metabolism/Nutrition/Tricarboxylic_Acid_Cycle.public|Tricarboxylic_Acid_Cycle.public]] 
 
-### #is_/same_as :: [Tricarboxylic_Acid_Cycle.internal](/_internal/bio/Metabolism/Nutrition/Tricarboxylic_Acid_Cycle.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Metabolism/Nutrition/Tricarboxylic_Acid_Cycle.internal|Tricarboxylic_Acid_Cycle.internal]] 
 
-### #is_/same_as :: [Tricarboxylic_Acid_Cycle.protect](/_protect/bio/Metabolism/Nutrition/Tricarboxylic_Acid_Cycle.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Metabolism/Nutrition/Tricarboxylic_Acid_Cycle.protect|Tricarboxylic_Acid_Cycle.protect]] 
 
-### #is_/same_as :: [Tricarboxylic_Acid_Cycle.private](/_private/bio/Metabolism/Nutrition/Tricarboxylic_Acid_Cycle.private.md) 
+### #is_/same_as :: [[/_private/bio/Metabolism/Nutrition/Tricarboxylic_Acid_Cycle.private|Tricarboxylic_Acid_Cycle.private]] 
 
-### #is_/same_as :: [Tricarboxylic_Acid_Cycle.personal](/_personal/bio/Metabolism/Nutrition/Tricarboxylic_Acid_Cycle.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Metabolism/Nutrition/Tricarboxylic_Acid_Cycle.personal|Tricarboxylic_Acid_Cycle.personal]] 
 
-### #is_/same_as :: [Tricarboxylic_Acid_Cycle.secret](/_secret/bio/Metabolism/Nutrition/Tricarboxylic_Acid_Cycle.secret.md)
+### #is_/same_as :: [[/_secret/bio/Metabolism/Nutrition/Tricarboxylic_Acid_Cycle.secret|Tricarboxylic_Acid_Cycle.secret]] 
 

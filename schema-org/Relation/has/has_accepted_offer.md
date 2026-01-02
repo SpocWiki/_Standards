@@ -43,17 +43,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_accepted_offer](/_Standards/schema-org/Relation/has/has_accepted_offer.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_accepted_offer|has_accepted_offer]] 
 
-### #is_/same_as :: [has_accepted_offer.public](/_public/schema-org/Relation/has/has_accepted_offer.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_accepted_offer.public|has_accepted_offer.public]] 
 
-### #is_/same_as :: [has_accepted_offer.internal](/_internal/schema-org/Relation/has/has_accepted_offer.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_accepted_offer.internal|has_accepted_offer.internal]] 
 
-### #is_/same_as :: [has_accepted_offer.protect](/_protect/schema-org/Relation/has/has_accepted_offer.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_accepted_offer.protect|has_accepted_offer.protect]] 
 
-### #is_/same_as :: [has_accepted_offer.private](/_private/schema-org/Relation/has/has_accepted_offer.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_accepted_offer.private|has_accepted_offer.private]] 
 
-### #is_/same_as :: [has_accepted_offer.personal](/_personal/schema-org/Relation/has/has_accepted_offer.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_accepted_offer.personal|has_accepted_offer.personal]] 
 
-### #is_/same_as :: [has_accepted_offer.secret](/_secret/schema-org/Relation/has/has_accepted_offer.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_accepted_offer.secret|has_accepted_offer.secret]] 
 

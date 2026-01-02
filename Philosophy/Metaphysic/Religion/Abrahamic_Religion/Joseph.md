@@ -121,17 +121,17 @@ Krugosvet_article_archived_: kultura_i_obrazovanie/religiya/IOSIF.html
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Joseph](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Joseph.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Joseph|Joseph]] 
 
-### #is_/same_as :: [Joseph.public](/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Joseph.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Joseph.public|Joseph.public]] 
 
-### #is_/same_as :: [Joseph.internal](/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Joseph.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Joseph.internal|Joseph.internal]] 
 
-### #is_/same_as :: [Joseph.protect](/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Joseph.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Joseph.protect|Joseph.protect]] 
 
-### #is_/same_as :: [Joseph.private](/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Joseph.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Joseph.private|Joseph.private]] 
 
-### #is_/same_as :: [Joseph.personal](/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Joseph.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Joseph.personal|Joseph.personal]] 
 
-### #is_/same_as :: [Joseph.secret](/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Joseph.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Joseph.secret|Joseph.secret]] 
 

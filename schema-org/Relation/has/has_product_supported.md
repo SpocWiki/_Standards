@@ -42,17 +42,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_product_supported](/_Standards/schema-org/Relation/has/has_product_supported.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_product_supported|has_product_supported]] 
 
-### #is_/same_as :: [has_product_supported.public](/_public/schema-org/Relation/has/has_product_supported.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_product_supported.public|has_product_supported.public]] 
 
-### #is_/same_as :: [has_product_supported.internal](/_internal/schema-org/Relation/has/has_product_supported.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_product_supported.internal|has_product_supported.internal]] 
 
-### #is_/same_as :: [has_product_supported.protect](/_protect/schema-org/Relation/has/has_product_supported.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_product_supported.protect|has_product_supported.protect]] 
 
-### #is_/same_as :: [has_product_supported.private](/_private/schema-org/Relation/has/has_product_supported.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_product_supported.private|has_product_supported.private]] 
 
-### #is_/same_as :: [has_product_supported.personal](/_personal/schema-org/Relation/has/has_product_supported.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_product_supported.personal|has_product_supported.personal]] 
 
-### #is_/same_as :: [has_product_supported.secret](/_secret/schema-org/Relation/has/has_product_supported.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_product_supported.secret|has_product_supported.secret]] 
 

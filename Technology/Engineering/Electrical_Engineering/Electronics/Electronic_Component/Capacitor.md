@@ -85,17 +85,17 @@ subclass_of:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Capacitor](/_Standards/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Capacitor.md) 
+### #is_/same_as :: [[/_Standards/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Capacitor|Capacitor]] 
 
-### #is_/same_as :: [Capacitor.public](/_public/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Capacitor.public.md) 
+### #is_/same_as :: [[/_public/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Capacitor.public|Capacitor.public]] 
 
-### #is_/same_as :: [Capacitor.internal](/_internal/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Capacitor.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Capacitor.internal|Capacitor.internal]] 
 
-### #is_/same_as :: [Capacitor.protect](/_protect/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Capacitor.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Capacitor.protect|Capacitor.protect]] 
 
-### #is_/same_as :: [Capacitor.private](/_private/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Capacitor.private.md) 
+### #is_/same_as :: [[/_private/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Capacitor.private|Capacitor.private]] 
 
-### #is_/same_as :: [Capacitor.personal](/_personal/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Capacitor.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Capacitor.personal|Capacitor.personal]] 
 
-### #is_/same_as :: [Capacitor.secret](/_secret/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Capacitor.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Capacitor.secret|Capacitor.secret]] 
 

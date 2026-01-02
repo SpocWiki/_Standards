@@ -115,17 +115,17 @@ Wolfram_Language_entity_type: Building
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Building](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building.md) 
+### #is_/same_as :: [[/_Standards/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building|Building]] 
 
-### #is_/same_as :: [Building.public](/_public/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building.public.md) 
+### #is_/same_as :: [[/_public/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building.public|Building.public]] 
 
-### #is_/same_as :: [Building.internal](/_internal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building.internal|Building.internal]] 
 
-### #is_/same_as :: [Building.protect](/_protect/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building.protect|Building.protect]] 
 
-### #is_/same_as :: [Building.private](/_private/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building.private.md) 
+### #is_/same_as :: [[/_private/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building.private|Building.private]] 
 
-### #is_/same_as :: [Building.personal](/_personal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building.personal|Building.personal]] 
 
-### #is_/same_as :: [Building.secret](/_secret/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building.secret|Building.secret]] 
 

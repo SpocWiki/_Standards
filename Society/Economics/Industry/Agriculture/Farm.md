@@ -73,17 +73,17 @@ OpenStreetMap_tag_or_key: Tag:place=farm
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Farm](/_Standards/Society/Economics/Industry/Agriculture/Farm.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Industry/Agriculture/Farm|Farm]] 
 
-### #is_/same_as :: [Farm.public](/_public/Society/Economics/Industry/Agriculture/Farm.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Industry/Agriculture/Farm.public|Farm.public]] 
 
-### #is_/same_as :: [Farm.internal](/_internal/Society/Economics/Industry/Agriculture/Farm.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Industry/Agriculture/Farm.internal|Farm.internal]] 
 
-### #is_/same_as :: [Farm.protect](/_protect/Society/Economics/Industry/Agriculture/Farm.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Industry/Agriculture/Farm.protect|Farm.protect]] 
 
-### #is_/same_as :: [Farm.private](/_private/Society/Economics/Industry/Agriculture/Farm.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Industry/Agriculture/Farm.private|Farm.private]] 
 
-### #is_/same_as :: [Farm.personal](/_personal/Society/Economics/Industry/Agriculture/Farm.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Industry/Agriculture/Farm.personal|Farm.personal]] 
 
-### #is_/same_as :: [Farm.secret](/_secret/Society/Economics/Industry/Agriculture/Farm.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Industry/Agriculture/Farm.secret|Farm.secret]] 
 

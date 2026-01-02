@@ -100,17 +100,17 @@ Commons_category: Cardiac arrest
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Cardiac_Arrest](/_Standards/bio/Medicine/Anatomy/Circulatory_System/Heart/Cardiovascular_Disease/Cardiac_Arrest.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Anatomy/Circulatory_System/Heart/Cardiovascular_Disease/Cardiac_Arrest|Cardiac_Arrest]] 
 
-### #is_/same_as :: [Cardiac_Arrest.public](/_public/bio/Medicine/Anatomy/Circulatory_System/Heart/Cardiovascular_Disease/Cardiac_Arrest.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Anatomy/Circulatory_System/Heart/Cardiovascular_Disease/Cardiac_Arrest.public|Cardiac_Arrest.public]] 
 
-### #is_/same_as :: [Cardiac_Arrest.internal](/_internal/bio/Medicine/Anatomy/Circulatory_System/Heart/Cardiovascular_Disease/Cardiac_Arrest.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Anatomy/Circulatory_System/Heart/Cardiovascular_Disease/Cardiac_Arrest.internal|Cardiac_Arrest.internal]] 
 
-### #is_/same_as :: [Cardiac_Arrest.protect](/_protect/bio/Medicine/Anatomy/Circulatory_System/Heart/Cardiovascular_Disease/Cardiac_Arrest.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Anatomy/Circulatory_System/Heart/Cardiovascular_Disease/Cardiac_Arrest.protect|Cardiac_Arrest.protect]] 
 
-### #is_/same_as :: [Cardiac_Arrest.private](/_private/bio/Medicine/Anatomy/Circulatory_System/Heart/Cardiovascular_Disease/Cardiac_Arrest.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Anatomy/Circulatory_System/Heart/Cardiovascular_Disease/Cardiac_Arrest.private|Cardiac_Arrest.private]] 
 
-### #is_/same_as :: [Cardiac_Arrest.personal](/_personal/bio/Medicine/Anatomy/Circulatory_System/Heart/Cardiovascular_Disease/Cardiac_Arrest.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Anatomy/Circulatory_System/Heart/Cardiovascular_Disease/Cardiac_Arrest.personal|Cardiac_Arrest.personal]] 
 
-### #is_/same_as :: [Cardiac_Arrest.secret](/_secret/bio/Medicine/Anatomy/Circulatory_System/Heart/Cardiovascular_Disease/Cardiac_Arrest.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Anatomy/Circulatory_System/Heart/Cardiovascular_Disease/Cardiac_Arrest.secret|Cardiac_Arrest.secret]] 
 

@@ -31,17 +31,17 @@ These create typed
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Search_Strategy](/_Standards/Mathematics/Algorithm/Search_Strategy.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Algorithm/Search_Strategy|Search_Strategy]] 
 
-### #is_/same_as :: [Search_Strategy.public](/_public/Mathematics/Algorithm/Search_Strategy.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Algorithm/Search_Strategy.public|Search_Strategy.public]] 
 
-### #is_/same_as :: [Search_Strategy.internal](/_internal/Mathematics/Algorithm/Search_Strategy.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Algorithm/Search_Strategy.internal|Search_Strategy.internal]] 
 
-### #is_/same_as :: [Search_Strategy.protect](/_protect/Mathematics/Algorithm/Search_Strategy.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Algorithm/Search_Strategy.protect|Search_Strategy.protect]] 
 
-### #is_/same_as :: [Search_Strategy.private](/_private/Mathematics/Algorithm/Search_Strategy.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Algorithm/Search_Strategy.private|Search_Strategy.private]] 
 
-### #is_/same_as :: [Search_Strategy.personal](/_personal/Mathematics/Algorithm/Search_Strategy.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Algorithm/Search_Strategy.personal|Search_Strategy.personal]] 
 
-### #is_/same_as :: [Search_Strategy.secret](/_secret/Mathematics/Algorithm/Search_Strategy.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Algorithm/Search_Strategy.secret|Search_Strategy.secret]] 
 

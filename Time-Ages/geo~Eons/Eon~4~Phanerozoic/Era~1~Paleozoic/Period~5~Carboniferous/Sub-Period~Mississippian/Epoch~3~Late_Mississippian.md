@@ -47,17 +47,17 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Epoch~3~Late_Mississippian](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Mississippian/Epoch~3~Late_Mississippian.md) 
+### #is_/same_as :: [[/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Mississippian/Epoch~3~Late_Mississippian|Epoch~3~Late_Mississippian]] 
 
-### #is_/same_as :: [Epoch~3~Late_Mississippian.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Mississippian/Epoch~3~Late_Mississippian.public.md) 
+### #is_/same_as :: [[/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Mississippian/Epoch~3~Late_Mississippian.public|Epoch~3~Late_Mississippian.public]] 
 
-### #is_/same_as :: [Epoch~3~Late_Mississippian.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Mississippian/Epoch~3~Late_Mississippian.internal.md) 
+### #is_/same_as :: [[/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Mississippian/Epoch~3~Late_Mississippian.internal|Epoch~3~Late_Mississippian.internal]] 
 
-### #is_/same_as :: [Epoch~3~Late_Mississippian.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Mississippian/Epoch~3~Late_Mississippian.protect.md) 
+### #is_/same_as :: [[/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Mississippian/Epoch~3~Late_Mississippian.protect|Epoch~3~Late_Mississippian.protect]] 
 
-### #is_/same_as :: [Epoch~3~Late_Mississippian.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Mississippian/Epoch~3~Late_Mississippian.private.md) 
+### #is_/same_as :: [[/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Mississippian/Epoch~3~Late_Mississippian.private|Epoch~3~Late_Mississippian.private]] 
 
-### #is_/same_as :: [Epoch~3~Late_Mississippian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Mississippian/Epoch~3~Late_Mississippian.personal.md) 
+### #is_/same_as :: [[/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Mississippian/Epoch~3~Late_Mississippian.personal|Epoch~3~Late_Mississippian.personal]] 
 
-### #is_/same_as :: [Epoch~3~Late_Mississippian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Mississippian/Epoch~3~Late_Mississippian.secret.md)
+### #is_/same_as :: [[/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Mississippian/Epoch~3~Late_Mississippian.secret|Epoch~3~Late_Mississippian.secret]] 
 

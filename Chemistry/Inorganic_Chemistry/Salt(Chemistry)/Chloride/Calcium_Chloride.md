@@ -92,17 +92,17 @@ RTECS_number: EV9800000
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Calcium_Chloride](/_Standards/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Chloride/Calcium_Chloride.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Chloride/Calcium_Chloride|Calcium_Chloride]] 
 
-### #is_/same_as :: [Calcium_Chloride.public](/_public/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Chloride/Calcium_Chloride.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Chloride/Calcium_Chloride.public|Calcium_Chloride.public]] 
 
-### #is_/same_as :: [Calcium_Chloride.internal](/_internal/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Chloride/Calcium_Chloride.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Chloride/Calcium_Chloride.internal|Calcium_Chloride.internal]] 
 
-### #is_/same_as :: [Calcium_Chloride.protect](/_protect/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Chloride/Calcium_Chloride.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Chloride/Calcium_Chloride.protect|Calcium_Chloride.protect]] 
 
-### #is_/same_as :: [Calcium_Chloride.private](/_private/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Chloride/Calcium_Chloride.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Chloride/Calcium_Chloride.private|Calcium_Chloride.private]] 
 
-### #is_/same_as :: [Calcium_Chloride.personal](/_personal/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Chloride/Calcium_Chloride.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Chloride/Calcium_Chloride.personal|Calcium_Chloride.personal]] 
 
-### #is_/same_as :: [Calcium_Chloride.secret](/_secret/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Chloride/Calcium_Chloride.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Chloride/Calcium_Chloride.secret|Calcium_Chloride.secret]] 
 

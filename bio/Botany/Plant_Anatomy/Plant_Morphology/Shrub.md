@@ -82,17 +82,17 @@ OpenStreetMap_tag: natural=shrub
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Shrub](/_Standards/bio/Botany/Plant_Anatomy/Plant_Morphology/Shrub.md) 
+### #is_/same_as :: [[/_Standards/bio/Botany/Plant_Anatomy/Plant_Morphology/Shrub|Shrub]] 
 
-### #is_/same_as :: [Shrub.public](/_public/bio/Botany/Plant_Anatomy/Plant_Morphology/Shrub.public.md) 
+### #is_/same_as :: [[/_public/bio/Botany/Plant_Anatomy/Plant_Morphology/Shrub.public|Shrub.public]] 
 
-### #is_/same_as :: [Shrub.internal](/_internal/bio/Botany/Plant_Anatomy/Plant_Morphology/Shrub.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Botany/Plant_Anatomy/Plant_Morphology/Shrub.internal|Shrub.internal]] 
 
-### #is_/same_as :: [Shrub.protect](/_protect/bio/Botany/Plant_Anatomy/Plant_Morphology/Shrub.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Botany/Plant_Anatomy/Plant_Morphology/Shrub.protect|Shrub.protect]] 
 
-### #is_/same_as :: [Shrub.private](/_private/bio/Botany/Plant_Anatomy/Plant_Morphology/Shrub.private.md) 
+### #is_/same_as :: [[/_private/bio/Botany/Plant_Anatomy/Plant_Morphology/Shrub.private|Shrub.private]] 
 
-### #is_/same_as :: [Shrub.personal](/_personal/bio/Botany/Plant_Anatomy/Plant_Morphology/Shrub.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Botany/Plant_Anatomy/Plant_Morphology/Shrub.personal|Shrub.personal]] 
 
-### #is_/same_as :: [Shrub.secret](/_secret/bio/Botany/Plant_Anatomy/Plant_Morphology/Shrub.secret.md)
+### #is_/same_as :: [[/_secret/bio/Botany/Plant_Anatomy/Plant_Morphology/Shrub.secret|Shrub.secret]] 
 

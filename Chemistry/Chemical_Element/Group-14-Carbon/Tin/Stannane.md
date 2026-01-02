@@ -20,3 +20,22 @@ XUV-Lithography at [[../../../../../Knowledge/Economy/Company/ASML(Advanced_Semi
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Stannane) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Chemistry/Chemical_Element/Group-14-Carbon/Tin/Stannane|Stannane]] 
+
+### #is_/same_as :: [[/_public/Chemistry/Chemical_Element/Group-14-Carbon/Tin/Stannane.public|Stannane.public]] 
+
+### #is_/same_as :: [[/_internal/Chemistry/Chemical_Element/Group-14-Carbon/Tin/Stannane.internal|Stannane.internal]] 
+
+### #is_/same_as :: [[/_protect/Chemistry/Chemical_Element/Group-14-Carbon/Tin/Stannane.protect|Stannane.protect]] 
+
+### #is_/same_as :: [[/_private/Chemistry/Chemical_Element/Group-14-Carbon/Tin/Stannane.private|Stannane.private]] 
+
+### #is_/same_as :: [[/_personal/Chemistry/Chemical_Element/Group-14-Carbon/Tin/Stannane.personal|Stannane.personal]] 
+
+### #is_/same_as :: [[/_secret/Chemistry/Chemical_Element/Group-14-Carbon/Tin/Stannane.secret|Stannane.secret]] 
+

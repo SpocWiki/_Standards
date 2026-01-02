@@ -31,3 +31,22 @@ has_id_wikidata: Q313013
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Brian%20Wilson) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Musician/Music~Band/Beach_Boys/Wilson,Brian(Musician)|Wilson,Brian(Musician)]] 
+
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Musician/Music~Band/Beach_Boys/Wilson,Brian(Musician).public|Wilson,Brian(Musician).public]] 
+
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Musician/Music~Band/Beach_Boys/Wilson,Brian(Musician).internal|Wilson,Brian(Musician).internal]] 
+
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Musician/Music~Band/Beach_Boys/Wilson,Brian(Musician).protect|Wilson,Brian(Musician).protect]] 
+
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Musician/Music~Band/Beach_Boys/Wilson,Brian(Musician).private|Wilson,Brian(Musician).private]] 
+
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Musician/Music~Band/Beach_Boys/Wilson,Brian(Musician).personal|Wilson,Brian(Musician).personal]] 
+
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Musician/Music~Band/Beach_Boys/Wilson,Brian(Musician).secret|Wilson,Brian(Musician).secret]] 
+

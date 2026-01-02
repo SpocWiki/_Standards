@@ -37,17 +37,17 @@ A posting to a discussion forum.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~DiscussionForumPosting](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~SocialMediaPosting/FileClass~DiscussionForumPosting.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~SocialMediaPosting/FileClass~DiscussionForumPosting|FileClass~DiscussionForumPosting]] 
 
-### #is_/same_as :: [FileClass~DiscussionForumPosting.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~SocialMediaPosting/FileClass~DiscussionForumPosting.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~SocialMediaPosting/FileClass~DiscussionForumPosting.public|FileClass~DiscussionForumPosting.public]] 
 
-### #is_/same_as :: [FileClass~DiscussionForumPosting.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~SocialMediaPosting/FileClass~DiscussionForumPosting.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~SocialMediaPosting/FileClass~DiscussionForumPosting.internal|FileClass~DiscussionForumPosting.internal]] 
 
-### #is_/same_as :: [FileClass~DiscussionForumPosting.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~SocialMediaPosting/FileClass~DiscussionForumPosting.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~SocialMediaPosting/FileClass~DiscussionForumPosting.protect|FileClass~DiscussionForumPosting.protect]] 
 
-### #is_/same_as :: [FileClass~DiscussionForumPosting.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~SocialMediaPosting/FileClass~DiscussionForumPosting.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~SocialMediaPosting/FileClass~DiscussionForumPosting.private|FileClass~DiscussionForumPosting.private]] 
 
-### #is_/same_as :: [FileClass~DiscussionForumPosting.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~SocialMediaPosting/FileClass~DiscussionForumPosting.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~SocialMediaPosting/FileClass~DiscussionForumPosting.personal|FileClass~DiscussionForumPosting.personal]] 
 
-### #is_/same_as :: [FileClass~DiscussionForumPosting.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~SocialMediaPosting/FileClass~DiscussionForumPosting.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~SocialMediaPosting/FileClass~DiscussionForumPosting.secret|FileClass~DiscussionForumPosting.secret]] 
 

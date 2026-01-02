@@ -45,17 +45,17 @@ Commons_category: Fall of Communism
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [1989_Revolutions](/_Standards/Society/Politics/Government/Revolution/1989_Revolutions.md) 
+### #is_/same_as :: [[/_Standards/Society/Politics/Government/Revolution/1989_Revolutions|1989_Revolutions]] 
 
-### #is_/same_as :: [1989_Revolutions.public](/_public/Society/Politics/Government/Revolution/1989_Revolutions.public.md) 
+### #is_/same_as :: [[/_public/Society/Politics/Government/Revolution/1989_Revolutions.public|1989_Revolutions.public]] 
 
-### #is_/same_as :: [1989_Revolutions.internal](/_internal/Society/Politics/Government/Revolution/1989_Revolutions.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Politics/Government/Revolution/1989_Revolutions.internal|1989_Revolutions.internal]] 
 
-### #is_/same_as :: [1989_Revolutions.protect](/_protect/Society/Politics/Government/Revolution/1989_Revolutions.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Politics/Government/Revolution/1989_Revolutions.protect|1989_Revolutions.protect]] 
 
-### #is_/same_as :: [1989_Revolutions.private](/_private/Society/Politics/Government/Revolution/1989_Revolutions.private.md) 
+### #is_/same_as :: [[/_private/Society/Politics/Government/Revolution/1989_Revolutions.private|1989_Revolutions.private]] 
 
-### #is_/same_as :: [1989_Revolutions.personal](/_personal/Society/Politics/Government/Revolution/1989_Revolutions.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Politics/Government/Revolution/1989_Revolutions.personal|1989_Revolutions.personal]] 
 
-### #is_/same_as :: [1989_Revolutions.secret](/_secret/Society/Politics/Government/Revolution/1989_Revolutions.secret.md)
+### #is_/same_as :: [[/_secret/Society/Politics/Government/Revolution/1989_Revolutions.secret|1989_Revolutions.secret]] 
 

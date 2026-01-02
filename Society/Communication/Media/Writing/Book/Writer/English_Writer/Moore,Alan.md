@@ -149,17 +149,17 @@ Facebook_username: OfficialAlanMoore
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Moore,Alan](/_Standards/Society/Communication/Media/Writing/Book/Writer/English_Writer/Moore,Alan.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Writer/English_Writer/Moore,Alan|Moore,Alan]] 
 
-### #is_/same_as :: [Moore,Alan.public](/_public/Society/Communication/Media/Writing/Book/Writer/English_Writer/Moore,Alan.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Writer/English_Writer/Moore,Alan.public|Moore,Alan.public]] 
 
-### #is_/same_as :: [Moore,Alan.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/English_Writer/Moore,Alan.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Writer/English_Writer/Moore,Alan.internal|Moore,Alan.internal]] 
 
-### #is_/same_as :: [Moore,Alan.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/English_Writer/Moore,Alan.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Writer/English_Writer/Moore,Alan.protect|Moore,Alan.protect]] 
 
-### #is_/same_as :: [Moore,Alan.private](/_private/Society/Communication/Media/Writing/Book/Writer/English_Writer/Moore,Alan.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Writer/English_Writer/Moore,Alan.private|Moore,Alan.private]] 
 
-### #is_/same_as :: [Moore,Alan.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/English_Writer/Moore,Alan.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Writer/English_Writer/Moore,Alan.personal|Moore,Alan.personal]] 
 
-### #is_/same_as :: [Moore,Alan.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/English_Writer/Moore,Alan.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Writer/English_Writer/Moore,Alan.secret|Moore,Alan.secret]] 
 

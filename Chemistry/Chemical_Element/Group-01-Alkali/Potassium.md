@@ -182,17 +182,17 @@ ZVG_number: 8150
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Potassium](/_Standards/Chemistry/Chemical_Element/Group-01-Alkali/Potassium.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Chemical_Element/Group-01-Alkali/Potassium|Potassium]] 
 
-### #is_/same_as :: [Potassium.public](/_public/Chemistry/Chemical_Element/Group-01-Alkali/Potassium.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Chemical_Element/Group-01-Alkali/Potassium.public|Potassium.public]] 
 
-### #is_/same_as :: [Potassium.internal](/_internal/Chemistry/Chemical_Element/Group-01-Alkali/Potassium.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Chemical_Element/Group-01-Alkali/Potassium.internal|Potassium.internal]] 
 
-### #is_/same_as :: [Potassium.protect](/_protect/Chemistry/Chemical_Element/Group-01-Alkali/Potassium.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Chemical_Element/Group-01-Alkali/Potassium.protect|Potassium.protect]] 
 
-### #is_/same_as :: [Potassium.private](/_private/Chemistry/Chemical_Element/Group-01-Alkali/Potassium.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Chemical_Element/Group-01-Alkali/Potassium.private|Potassium.private]] 
 
-### #is_/same_as :: [Potassium.personal](/_personal/Chemistry/Chemical_Element/Group-01-Alkali/Potassium.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Chemical_Element/Group-01-Alkali/Potassium.personal|Potassium.personal]] 
 
-### #is_/same_as :: [Potassium.secret](/_secret/Chemistry/Chemical_Element/Group-01-Alkali/Potassium.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Chemical_Element/Group-01-Alkali/Potassium.secret|Potassium.secret]] 
 

@@ -71,17 +71,17 @@ OpenStreetMap_tag: highway=steps
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Stairs](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element/Stairs.md) 
+### #is_/same_as :: [[/_Standards/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element/Stairs|Stairs]] 
 
-### #is_/same_as :: [Stairs.public](/_public/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element/Stairs.public.md) 
+### #is_/same_as :: [[/_public/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element/Stairs.public|Stairs.public]] 
 
-### #is_/same_as :: [Stairs.internal](/_internal/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element/Stairs.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element/Stairs.internal|Stairs.internal]] 
 
-### #is_/same_as :: [Stairs.protect](/_protect/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element/Stairs.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element/Stairs.protect|Stairs.protect]] 
 
-### #is_/same_as :: [Stairs.private](/_private/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element/Stairs.private.md) 
+### #is_/same_as :: [[/_private/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element/Stairs.private|Stairs.private]] 
 
-### #is_/same_as :: [Stairs.personal](/_personal/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element/Stairs.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element/Stairs.personal|Stairs.personal]] 
 
-### #is_/same_as :: [Stairs.secret](/_secret/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element/Stairs.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element/Stairs.secret|Stairs.secret]] 
 

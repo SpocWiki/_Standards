@@ -19,17 +19,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Podcast](/_Standards/Society/Communication/Media/Podcast.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Podcast|Podcast]] 
 
-### #is_/same_as :: [Podcast.public](/_public/Society/Communication/Media/Podcast.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Podcast.public|Podcast.public]] 
 
-### #is_/same_as :: [Podcast.internal](/_internal/Society/Communication/Media/Podcast.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Podcast.internal|Podcast.internal]] 
 
-### #is_/same_as :: [Podcast.protect](/_protect/Society/Communication/Media/Podcast.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Podcast.protect|Podcast.protect]] 
 
-### #is_/same_as :: [Podcast.private](/_private/Society/Communication/Media/Podcast.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Podcast.private|Podcast.private]] 
 
-### #is_/same_as :: [Podcast.personal](/_personal/Society/Communication/Media/Podcast.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Podcast.personal|Podcast.personal]] 
 
-### #is_/same_as :: [Podcast.secret](/_secret/Society/Communication/Media/Podcast.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Podcast.secret|Podcast.secret]] 
 

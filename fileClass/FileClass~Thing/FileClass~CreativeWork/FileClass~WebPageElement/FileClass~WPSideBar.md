@@ -37,17 +37,17 @@ A sidebar section of the page.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~WPSideBar](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPageElement/FileClass~WPSideBar.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPageElement/FileClass~WPSideBar|FileClass~WPSideBar]] 
 
-### #is_/same_as :: [FileClass~WPSideBar.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPageElement/FileClass~WPSideBar.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPageElement/FileClass~WPSideBar.public|FileClass~WPSideBar.public]] 
 
-### #is_/same_as :: [FileClass~WPSideBar.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPageElement/FileClass~WPSideBar.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPageElement/FileClass~WPSideBar.internal|FileClass~WPSideBar.internal]] 
 
-### #is_/same_as :: [FileClass~WPSideBar.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPageElement/FileClass~WPSideBar.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPageElement/FileClass~WPSideBar.protect|FileClass~WPSideBar.protect]] 
 
-### #is_/same_as :: [FileClass~WPSideBar.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPageElement/FileClass~WPSideBar.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPageElement/FileClass~WPSideBar.private|FileClass~WPSideBar.private]] 
 
-### #is_/same_as :: [FileClass~WPSideBar.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPageElement/FileClass~WPSideBar.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPageElement/FileClass~WPSideBar.personal|FileClass~WPSideBar.personal]] 
 
-### #is_/same_as :: [FileClass~WPSideBar.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPageElement/FileClass~WPSideBar.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPageElement/FileClass~WPSideBar.secret|FileClass~WPSideBar.secret]] 
 

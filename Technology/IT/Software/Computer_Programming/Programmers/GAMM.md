@@ -27,17 +27,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [GAMM](/_Standards/Technology/IT/Software/Computer_Programming/Programmers/GAMM.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Software/Computer_Programming/Programmers/GAMM|GAMM]] 
 
-### #is_/same_as :: [GAMM.public](/_public/Technology/IT/Software/Computer_Programming/Programmers/GAMM.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Software/Computer_Programming/Programmers/GAMM.public|GAMM.public]] 
 
-### #is_/same_as :: [GAMM.internal](/_internal/Technology/IT/Software/Computer_Programming/Programmers/GAMM.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Software/Computer_Programming/Programmers/GAMM.internal|GAMM.internal]] 
 
-### #is_/same_as :: [GAMM.protect](/_protect/Technology/IT/Software/Computer_Programming/Programmers/GAMM.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Software/Computer_Programming/Programmers/GAMM.protect|GAMM.protect]] 
 
-### #is_/same_as :: [GAMM.private](/_private/Technology/IT/Software/Computer_Programming/Programmers/GAMM.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Software/Computer_Programming/Programmers/GAMM.private|GAMM.private]] 
 
-### #is_/same_as :: [GAMM.personal](/_personal/Technology/IT/Software/Computer_Programming/Programmers/GAMM.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Software/Computer_Programming/Programmers/GAMM.personal|GAMM.personal]] 
 
-### #is_/same_as :: [GAMM.secret](/_secret/Technology/IT/Software/Computer_Programming/Programmers/GAMM.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Software/Computer_Programming/Programmers/GAMM.secret|GAMM.secret]] 
 

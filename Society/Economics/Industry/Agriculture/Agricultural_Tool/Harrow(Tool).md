@@ -54,17 +54,17 @@ Commons_category: Harrows
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Harrow(Tool)](/_Standards/Society/Economics/Industry/Agriculture/Agricultural_Tool/Harrow(Tool).md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Industry/Agriculture/Agricultural_Tool/Harrow(Tool)|Harrow(Tool)]] 
 
-### #is_/same_as :: [Harrow(Tool).public](/_public/Society/Economics/Industry/Agriculture/Agricultural_Tool/Harrow(Tool).public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Industry/Agriculture/Agricultural_Tool/Harrow(Tool).public|Harrow(Tool).public]] 
 
-### #is_/same_as :: [Harrow(Tool).internal](/_internal/Society/Economics/Industry/Agriculture/Agricultural_Tool/Harrow(Tool).internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Industry/Agriculture/Agricultural_Tool/Harrow(Tool).internal|Harrow(Tool).internal]] 
 
-### #is_/same_as :: [Harrow(Tool).protect](/_protect/Society/Economics/Industry/Agriculture/Agricultural_Tool/Harrow(Tool).protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Industry/Agriculture/Agricultural_Tool/Harrow(Tool).protect|Harrow(Tool).protect]] 
 
-### #is_/same_as :: [Harrow(Tool).private](/_private/Society/Economics/Industry/Agriculture/Agricultural_Tool/Harrow(Tool).private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Industry/Agriculture/Agricultural_Tool/Harrow(Tool).private|Harrow(Tool).private]] 
 
-### #is_/same_as :: [Harrow(Tool).personal](/_personal/Society/Economics/Industry/Agriculture/Agricultural_Tool/Harrow(Tool).personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Industry/Agriculture/Agricultural_Tool/Harrow(Tool).personal|Harrow(Tool).personal]] 
 
-### #is_/same_as :: [Harrow(Tool).secret](/_secret/Society/Economics/Industry/Agriculture/Agricultural_Tool/Harrow(Tool).secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Industry/Agriculture/Agricultural_Tool/Harrow(Tool).secret|Harrow(Tool).secret]] 
 

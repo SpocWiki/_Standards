@@ -252,17 +252,17 @@ TermsOfService:: {"type":"Input","options":{}}
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~Service](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service|FileClass~Service]] 
 
-### #is_/same_as :: [FileClass~Service.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service.public|FileClass~Service.public]] 
 
-### #is_/same_as :: [FileClass~Service.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service.internal|FileClass~Service.internal]] 
 
-### #is_/same_as :: [FileClass~Service.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service.protect|FileClass~Service.protect]] 
 
-### #is_/same_as :: [FileClass~Service.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service.private|FileClass~Service.private]] 
 
-### #is_/same_as :: [FileClass~Service.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service.personal|FileClass~Service.personal]] 
 
-### #is_/same_as :: [FileClass~Service.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service.secret|FileClass~Service.secret]] 
 

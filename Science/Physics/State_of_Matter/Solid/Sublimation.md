@@ -20,17 +20,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sublimation](/_Standards/Science/Physics/State_of_Matter/Solid/Sublimation.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/State_of_Matter/Solid/Sublimation|Sublimation]] 
 
-### #is_/same_as :: [Sublimation.public](/_public/Science/Physics/State_of_Matter/Solid/Sublimation.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/State_of_Matter/Solid/Sublimation.public|Sublimation.public]] 
 
-### #is_/same_as :: [Sublimation.internal](/_internal/Science/Physics/State_of_Matter/Solid/Sublimation.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/State_of_Matter/Solid/Sublimation.internal|Sublimation.internal]] 
 
-### #is_/same_as :: [Sublimation.protect](/_protect/Science/Physics/State_of_Matter/Solid/Sublimation.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/State_of_Matter/Solid/Sublimation.protect|Sublimation.protect]] 
 
-### #is_/same_as :: [Sublimation.private](/_private/Science/Physics/State_of_Matter/Solid/Sublimation.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/State_of_Matter/Solid/Sublimation.private|Sublimation.private]] 
 
-### #is_/same_as :: [Sublimation.personal](/_personal/Science/Physics/State_of_Matter/Solid/Sublimation.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/State_of_Matter/Solid/Sublimation.personal|Sublimation.personal]] 
 
-### #is_/same_as :: [Sublimation.secret](/_secret/Science/Physics/State_of_Matter/Solid/Sublimation.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/State_of_Matter/Solid/Sublimation.secret|Sublimation.secret]] 
 

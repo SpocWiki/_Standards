@@ -28,17 +28,17 @@ Dewey_Decimal_Classification: "793.33"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Foxtrot](/_Standards/Society/Communication/Media/Performing_Arts/Dance/Ballroom_Dance/Standard_Dance/Foxtrot.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Performing_Arts/Dance/Ballroom_Dance/Standard_Dance/Foxtrot|Foxtrot]] 
 
-### #is_/same_as :: [Foxtrot.public](/_public/Society/Communication/Media/Performing_Arts/Dance/Ballroom_Dance/Standard_Dance/Foxtrot.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Performing_Arts/Dance/Ballroom_Dance/Standard_Dance/Foxtrot.public|Foxtrot.public]] 
 
-### #is_/same_as :: [Foxtrot.internal](/_internal/Society/Communication/Media/Performing_Arts/Dance/Ballroom_Dance/Standard_Dance/Foxtrot.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Performing_Arts/Dance/Ballroom_Dance/Standard_Dance/Foxtrot.internal|Foxtrot.internal]] 
 
-### #is_/same_as :: [Foxtrot.protect](/_protect/Society/Communication/Media/Performing_Arts/Dance/Ballroom_Dance/Standard_Dance/Foxtrot.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Performing_Arts/Dance/Ballroom_Dance/Standard_Dance/Foxtrot.protect|Foxtrot.protect]] 
 
-### #is_/same_as :: [Foxtrot.private](/_private/Society/Communication/Media/Performing_Arts/Dance/Ballroom_Dance/Standard_Dance/Foxtrot.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Performing_Arts/Dance/Ballroom_Dance/Standard_Dance/Foxtrot.private|Foxtrot.private]] 
 
-### #is_/same_as :: [Foxtrot.personal](/_personal/Society/Communication/Media/Performing_Arts/Dance/Ballroom_Dance/Standard_Dance/Foxtrot.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Performing_Arts/Dance/Ballroom_Dance/Standard_Dance/Foxtrot.personal|Foxtrot.personal]] 
 
-### #is_/same_as :: [Foxtrot.secret](/_secret/Society/Communication/Media/Performing_Arts/Dance/Ballroom_Dance/Standard_Dance/Foxtrot.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Performing_Arts/Dance/Ballroom_Dance/Standard_Dance/Foxtrot.secret|Foxtrot.secret]] 
 

@@ -57,17 +57,17 @@ Commons_category: Military operations
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Military_Operation](/_Standards/Society/Military/Military_Operation.md) 
+### #is_/same_as :: [[/_Standards/Society/Military/Military_Operation|Military_Operation]] 
 
-### #is_/same_as :: [Military_Operation.public](/_public/Society/Military/Military_Operation.public.md) 
+### #is_/same_as :: [[/_public/Society/Military/Military_Operation.public|Military_Operation.public]] 
 
-### #is_/same_as :: [Military_Operation.internal](/_internal/Society/Military/Military_Operation.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Military/Military_Operation.internal|Military_Operation.internal]] 
 
-### #is_/same_as :: [Military_Operation.protect](/_protect/Society/Military/Military_Operation.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Military/Military_Operation.protect|Military_Operation.protect]] 
 
-### #is_/same_as :: [Military_Operation.private](/_private/Society/Military/Military_Operation.private.md) 
+### #is_/same_as :: [[/_private/Society/Military/Military_Operation.private|Military_Operation.private]] 
 
-### #is_/same_as :: [Military_Operation.personal](/_personal/Society/Military/Military_Operation.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Military/Military_Operation.personal|Military_Operation.personal]] 
 
-### #is_/same_as :: [Military_Operation.secret](/_secret/Society/Military/Military_Operation.secret.md)
+### #is_/same_as :: [[/_secret/Society/Military/Military_Operation.secret|Military_Operation.secret]] 
 

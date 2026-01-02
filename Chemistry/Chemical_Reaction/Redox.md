@@ -52,17 +52,17 @@ MeSH_tree_code:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Redox](/_Standards/Chemistry/Chemical_Reaction/Redox.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Chemical_Reaction/Redox|Redox]] 
 
-### #is_/same_as :: [Redox.public](/_public/Chemistry/Chemical_Reaction/Redox.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Chemical_Reaction/Redox.public|Redox.public]] 
 
-### #is_/same_as :: [Redox.internal](/_internal/Chemistry/Chemical_Reaction/Redox.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Chemical_Reaction/Redox.internal|Redox.internal]] 
 
-### #is_/same_as :: [Redox.protect](/_protect/Chemistry/Chemical_Reaction/Redox.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Chemical_Reaction/Redox.protect|Redox.protect]] 
 
-### #is_/same_as :: [Redox.private](/_private/Chemistry/Chemical_Reaction/Redox.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Chemical_Reaction/Redox.private|Redox.private]] 
 
-### #is_/same_as :: [Redox.personal](/_personal/Chemistry/Chemical_Reaction/Redox.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Chemical_Reaction/Redox.personal|Redox.personal]] 
 
-### #is_/same_as :: [Redox.secret](/_secret/Chemistry/Chemical_Reaction/Redox.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Chemical_Reaction/Redox.secret|Redox.secret]] 
 

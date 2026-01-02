@@ -53,17 +53,17 @@ Commons_category: Semitic peoples
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Semitic_People](/_Standards/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Semitic_People.md) 
+### #is_/same_as :: [[/_Standards/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Semitic_People|Semitic_People]] 
 
-### #is_/same_as :: [Semitic_People.public](/_public/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Semitic_People.public.md) 
+### #is_/same_as :: [[/_public/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Semitic_People.public|Semitic_People.public]] 
 
-### #is_/same_as :: [Semitic_People.internal](/_internal/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Semitic_People.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Semitic_People.internal|Semitic_People.internal]] 
 
-### #is_/same_as :: [Semitic_People.protect](/_protect/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Semitic_People.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Semitic_People.protect|Semitic_People.protect]] 
 
-### #is_/same_as :: [Semitic_People.private](/_private/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Semitic_People.private.md) 
+### #is_/same_as :: [[/_private/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Semitic_People.private|Semitic_People.private]] 
 
-### #is_/same_as :: [Semitic_People.personal](/_personal/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Semitic_People.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Semitic_People.personal|Semitic_People.personal]] 
 
-### #is_/same_as :: [Semitic_People.secret](/_secret/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Semitic_People.secret.md)
+### #is_/same_as :: [[/_secret/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Semitic_People.secret|Semitic_People.secret]] 
 

@@ -104,17 +104,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Tony_Hoare](/_Standards/Mathematics/Mathematician/Tony_Hoare.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Mathematician/Tony_Hoare|Tony_Hoare]] 
 
-### #is_/same_as :: [Tony_Hoare.public](/_public/Mathematics/Mathematician/Tony_Hoare.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Mathematician/Tony_Hoare.public|Tony_Hoare.public]] 
 
-### #is_/same_as :: [Tony_Hoare.internal](/_internal/Mathematics/Mathematician/Tony_Hoare.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Mathematician/Tony_Hoare.internal|Tony_Hoare.internal]] 
 
-### #is_/same_as :: [Tony_Hoare.protect](/_protect/Mathematics/Mathematician/Tony_Hoare.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Mathematician/Tony_Hoare.protect|Tony_Hoare.protect]] 
 
-### #is_/same_as :: [Tony_Hoare.private](/_private/Mathematics/Mathematician/Tony_Hoare.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Mathematician/Tony_Hoare.private|Tony_Hoare.private]] 
 
-### #is_/same_as :: [Tony_Hoare.personal](/_personal/Mathematics/Mathematician/Tony_Hoare.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Mathematician/Tony_Hoare.personal|Tony_Hoare.personal]] 
 
-### #is_/same_as :: [Tony_Hoare.secret](/_secret/Mathematics/Mathematician/Tony_Hoare.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Mathematician/Tony_Hoare.secret|Tony_Hoare.secret]] 
 

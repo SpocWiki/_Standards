@@ -118,17 +118,17 @@ defaultZoom: 4
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Oceania](/_Standards/Earth/Continent/Oceania.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Oceania|Oceania]] 
 
-### #is_/same_as :: [Oceania.public](/_public/Earth/Continent/Oceania.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Oceania.public|Oceania.public]] 
 
-### #is_/same_as :: [Oceania.internal](/_internal/Earth/Continent/Oceania.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Oceania.internal|Oceania.internal]] 
 
-### #is_/same_as :: [Oceania.protect](/_protect/Earth/Continent/Oceania.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Oceania.protect|Oceania.protect]] 
 
-### #is_/same_as :: [Oceania.private](/_private/Earth/Continent/Oceania.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Oceania.private|Oceania.private]] 
 
-### #is_/same_as :: [Oceania.personal](/_personal/Earth/Continent/Oceania.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Oceania.personal|Oceania.personal]] 
 
-### #is_/same_as :: [Oceania.secret](/_secret/Earth/Continent/Oceania.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Oceania.secret|Oceania.secret]] 
 

@@ -21,17 +21,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Grohl,Dave](/_Standards/Society/Communication/Media/Music/Musician/Music~Band/Foo_Fighters/Grohl,Dave.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Musician/Music~Band/Foo_Fighters/Grohl,Dave|Grohl,Dave]] 
 
-### #is_/same_as :: [Grohl,Dave.public](/_public/Society/Communication/Media/Music/Musician/Music~Band/Foo_Fighters/Grohl,Dave.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Musician/Music~Band/Foo_Fighters/Grohl,Dave.public|Grohl,Dave.public]] 
 
-### #is_/same_as :: [Grohl,Dave.internal](/_internal/Society/Communication/Media/Music/Musician/Music~Band/Foo_Fighters/Grohl,Dave.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Musician/Music~Band/Foo_Fighters/Grohl,Dave.internal|Grohl,Dave.internal]] 
 
-### #is_/same_as :: [Grohl,Dave.protect](/_protect/Society/Communication/Media/Music/Musician/Music~Band/Foo_Fighters/Grohl,Dave.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Musician/Music~Band/Foo_Fighters/Grohl,Dave.protect|Grohl,Dave.protect]] 
 
-### #is_/same_as :: [Grohl,Dave.private](/_private/Society/Communication/Media/Music/Musician/Music~Band/Foo_Fighters/Grohl,Dave.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Musician/Music~Band/Foo_Fighters/Grohl,Dave.private|Grohl,Dave.private]] 
 
-### #is_/same_as :: [Grohl,Dave.personal](/_personal/Society/Communication/Media/Music/Musician/Music~Band/Foo_Fighters/Grohl,Dave.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Musician/Music~Band/Foo_Fighters/Grohl,Dave.personal|Grohl,Dave.personal]] 
 
-### #is_/same_as :: [Grohl,Dave.secret](/_secret/Society/Communication/Media/Music/Musician/Music~Band/Foo_Fighters/Grohl,Dave.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Musician/Music~Band/Foo_Fighters/Grohl,Dave.secret|Grohl,Dave.secret]] 
 

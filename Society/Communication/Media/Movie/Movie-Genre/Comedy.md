@@ -57,17 +57,17 @@ Krugosvet_article: literatura/komediya
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Comedy](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Comedy.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Genre/Comedy|Comedy]] 
 
-### #is_/same_as :: [Comedy.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Comedy.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Genre/Comedy.public|Comedy.public]] 
 
-### #is_/same_as :: [Comedy.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Comedy.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Genre/Comedy.internal|Comedy.internal]] 
 
-### #is_/same_as :: [Comedy.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Comedy.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Genre/Comedy.protect|Comedy.protect]] 
 
-### #is_/same_as :: [Comedy.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Comedy.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Genre/Comedy.private|Comedy.private]] 
 
-### #is_/same_as :: [Comedy.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Comedy.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Genre/Comedy.personal|Comedy.personal]] 
 
-### #is_/same_as :: [Comedy.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Comedy.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Genre/Comedy.secret|Comedy.secret]] 
 

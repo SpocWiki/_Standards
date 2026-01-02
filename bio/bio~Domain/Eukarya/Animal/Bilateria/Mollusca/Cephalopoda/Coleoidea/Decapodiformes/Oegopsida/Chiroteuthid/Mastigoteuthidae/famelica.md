@@ -41,7 +41,7 @@ title: Mastigoteuthis famelica
 # *Mastigoteuthis famelica* [(Berry, 1909)] 
 
 [Richard E. Young]()
-![ ](famelica/MastigoFamelicaVent.jpg))
+![ ](famelica/MastigoFamelicaVent.jpg) 
 ![](famelica/MastigoFamelicaDors.jpg)![ ](famelica/MFamelicaDraw.jpg))
 
 Containing group:[Mastigoteuthidae](../Mastigoteuthidae.md) 
@@ -144,7 +144,7 @@ Small multicuspid tubercles on mantle, funnel, head and aboral surface
 of arms seen in young of 17 - 40 mm ML. Most of the head tubercules are
 not visible in the photograph at the right but some on the funnel and
 its enlargement are visible.
-![ ](famelica/MFamelTubers.jpg))
+![ ](famelica/MFamelTubers.jpg) 
 
 **Figure**. **Left** - Lateral view of preserved head and funnel of a
 paralarva of ***M. famelica***, 35 mm ML, Hawaiian waters. **Right** -
@@ -162,7 +162,7 @@ According to Young (1978), most specimens captured in his study were
 taken at depths between 675 and 800 m, both day and night. The two
 presummed contaminants were taken at 240 m during the day; the previous
 tow had fished at 700 m and captured three specimens.
-![ ](famelica/MFamelicaVertDistr.jpg))
+![ ](famelica/MFamelicaVertDistr.jpg) 
 
 **Figure**. Vertical distribution chart of ***M. famelica***. Captures
 were made with both open and opening/closing trawls. Bar - fishing
@@ -186,7 +186,7 @@ pelagic cephalopods from Hawaiian waters. Fish. Bull., 76: 583-615.
 
 ## Title Illustrations
 
-![](famelica/MastigoFamelicaVent.jpg))
+![](famelica/MastigoFamelicaVent.jpg) 
 
   ------------
   Scientific Name ::  *Mastigoteuthis famelica*
@@ -196,7 +196,7 @@ pelagic cephalopods from Hawaiian waters. Fish. Bull., 76: 583-615.
   Size              241 mm ML
   Copyright ::         © 2004 Richard E. Young
   ------------
-![](famelica/MastigoFamelicaDors.jpg))
+![](famelica/MastigoFamelicaDors.jpg) 
 
   ------------
   Scientific Name ::  *Mastigoteuthis famelica*
@@ -206,7 +206,7 @@ pelagic cephalopods from Hawaiian waters. Fish. Bull., 76: 583-615.
   Size              241 mm ML
   Copyright ::         © 2004 Richard E. Young
   ------------
-![](famelica/MFamelicaDraw.jpg))
+![](famelica/MFamelicaDraw.jpg) 
 
   ------------
   Scientific Name ::  *Mastigoteuthis famelica*
@@ -220,17 +220,17 @@ pelagic cephalopods from Hawaiian waters. Fish. Bull., 76: 583-615.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [famelica](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Mastigoteuthidae/famelica.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Mastigoteuthidae/famelica|famelica]] 
 
-### #is_/same_as :: [famelica.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Mastigoteuthidae/famelica.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Mastigoteuthidae/famelica.public|famelica.public]] 
 
-### #is_/same_as :: [famelica.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Mastigoteuthidae/famelica.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Mastigoteuthidae/famelica.internal|famelica.internal]] 
 
-### #is_/same_as :: [famelica.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Mastigoteuthidae/famelica.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Mastigoteuthidae/famelica.protect|famelica.protect]] 
 
-### #is_/same_as :: [famelica.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Mastigoteuthidae/famelica.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Mastigoteuthidae/famelica.private|famelica.private]] 
 
-### #is_/same_as :: [famelica.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Mastigoteuthidae/famelica.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Mastigoteuthidae/famelica.personal|famelica.personal]] 
 
-### #is_/same_as :: [famelica.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Mastigoteuthidae/famelica.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Mastigoteuthidae/famelica.secret|famelica.secret]] 
 

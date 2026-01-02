@@ -41,17 +41,17 @@ An office equipment store.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Office_Equipment_Store](/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Store/Office_Equipment_Store.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Store/Office_Equipment_Store|Office_Equipment_Store]] 
 
-### #is_/same_as :: [Office_Equipment_Store.public](/_public/Society/Agent/Community/Organization/Business/Local_Business/Store/Office_Equipment_Store.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Business/Local_Business/Store/Office_Equipment_Store.public|Office_Equipment_Store.public]] 
 
-### #is_/same_as :: [Office_Equipment_Store.internal](/_internal/Society/Agent/Community/Organization/Business/Local_Business/Store/Office_Equipment_Store.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Business/Local_Business/Store/Office_Equipment_Store.internal|Office_Equipment_Store.internal]] 
 
-### #is_/same_as :: [Office_Equipment_Store.protect](/_protect/Society/Agent/Community/Organization/Business/Local_Business/Store/Office_Equipment_Store.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Business/Local_Business/Store/Office_Equipment_Store.protect|Office_Equipment_Store.protect]] 
 
-### #is_/same_as :: [Office_Equipment_Store.private](/_private/Society/Agent/Community/Organization/Business/Local_Business/Store/Office_Equipment_Store.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Business/Local_Business/Store/Office_Equipment_Store.private|Office_Equipment_Store.private]] 
 
-### #is_/same_as :: [Office_Equipment_Store.personal](/_personal/Society/Agent/Community/Organization/Business/Local_Business/Store/Office_Equipment_Store.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Business/Local_Business/Store/Office_Equipment_Store.personal|Office_Equipment_Store.personal]] 
 
-### #is_/same_as :: [Office_Equipment_Store.secret](/_secret/Society/Agent/Community/Organization/Business/Local_Business/Store/Office_Equipment_Store.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Business/Local_Business/Store/Office_Equipment_Store.secret|Office_Equipment_Store.secret]] 
 

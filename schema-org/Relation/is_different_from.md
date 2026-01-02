@@ -48,17 +48,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [is_different_from](/_Standards/schema-org/Relation/is_different_from.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/is_different_from|is_different_from]] 
 
-### #is_/same_as :: [is_different_from.public](/_public/schema-org/Relation/is_different_from.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/is_different_from.public|is_different_from.public]] 
 
-### #is_/same_as :: [is_different_from.internal](/_internal/schema-org/Relation/is_different_from.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/is_different_from.internal|is_different_from.internal]] 
 
-### #is_/same_as :: [is_different_from.protect](/_protect/schema-org/Relation/is_different_from.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/is_different_from.protect|is_different_from.protect]] 
 
-### #is_/same_as :: [is_different_from.private](/_private/schema-org/Relation/is_different_from.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/is_different_from.private|is_different_from.private]] 
 
-### #is_/same_as :: [is_different_from.personal](/_personal/schema-org/Relation/is_different_from.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/is_different_from.personal|is_different_from.personal]] 
 
-### #is_/same_as :: [is_different_from.secret](/_secret/schema-org/Relation/is_different_from.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/is_different_from.secret|is_different_from.secret]] 
 

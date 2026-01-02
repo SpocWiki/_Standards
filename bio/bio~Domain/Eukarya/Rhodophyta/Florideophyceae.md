@@ -49,19 +49,19 @@ share a majority of the following characteristics:
 -   cells with multiple nuclei and plastids (Figure 2)
 -   life histories that are some variation of a triphasic alternation of
     generations (Figure 3)
-![](Florideophyceae/florchar1.jpg))
+![](Florideophyceae/florchar1.jpg) 
 
 Figure 1. Electron micrograph of a Cumagloia andersonii (Nemaliales) pit
 plug. The pit plug occupies an aperture in the cell wall (W) and
 consists of a plug core (Co), flanked on either end by a thin inner cap
 layer (IC), and a plate-like outer cap layer (OC).\
 Image copyright © 2000, C.M. Pueschel.
-![](Florideophyceae/florchar2.jpg))
+![](Florideophyceae/florchar2.jpg) 
 
 Figure 2. DAPI stained cell of Agardhiella subulata showing multiple
 brightly fluorescing nuclei.\
 Image copyright © 2000, D.F. Kapraun.
-![Diagram of triphasic life history](Florideophyceae/lifehis.gif))
+![Diagram of triphasic life history](Florideophyceae/lifehis.gif) 
 
 Figure 3. Diagram of triphasic life history. Haploid (1N) male
 gametophytes produce spermatia that are released, while haploid female
@@ -164,17 +164,17 @@ Copyright ::         © 2000 K. T. Bird
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Florideophyceae](/_Standards/bio/bio~Domain/Eukarya/Rhodophyta/Florideophyceae.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Rhodophyta/Florideophyceae|Florideophyceae]] 
 
-### #is_/same_as :: [Florideophyceae.public](/_public/bio/bio~Domain/Eukarya/Rhodophyta/Florideophyceae.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Rhodophyta/Florideophyceae.public|Florideophyceae.public]] 
 
-### #is_/same_as :: [Florideophyceae.internal](/_internal/bio/bio~Domain/Eukarya/Rhodophyta/Florideophyceae.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Rhodophyta/Florideophyceae.internal|Florideophyceae.internal]] 
 
-### #is_/same_as :: [Florideophyceae.protect](/_protect/bio/bio~Domain/Eukarya/Rhodophyta/Florideophyceae.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Rhodophyta/Florideophyceae.protect|Florideophyceae.protect]] 
 
-### #is_/same_as :: [Florideophyceae.private](/_private/bio/bio~Domain/Eukarya/Rhodophyta/Florideophyceae.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Rhodophyta/Florideophyceae.private|Florideophyceae.private]] 
 
-### #is_/same_as :: [Florideophyceae.personal](/_personal/bio/bio~Domain/Eukarya/Rhodophyta/Florideophyceae.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Rhodophyta/Florideophyceae.personal|Florideophyceae.personal]] 
 
-### #is_/same_as :: [Florideophyceae.secret](/_secret/bio/bio~Domain/Eukarya/Rhodophyta/Florideophyceae.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Rhodophyta/Florideophyceae.secret|Florideophyceae.secret]] 
 

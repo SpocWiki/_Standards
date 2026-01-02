@@ -41,17 +41,17 @@ An email message.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Email_Message](/_Standards/Society/Communication/Media/Creative_Work/Message/Email_Message.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Creative_Work/Message/Email_Message|Email_Message]] 
 
-### #is_/same_as :: [Email_Message.public](/_public/Society/Communication/Media/Creative_Work/Message/Email_Message.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Creative_Work/Message/Email_Message.public|Email_Message.public]] 
 
-### #is_/same_as :: [Email_Message.internal](/_internal/Society/Communication/Media/Creative_Work/Message/Email_Message.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Creative_Work/Message/Email_Message.internal|Email_Message.internal]] 
 
-### #is_/same_as :: [Email_Message.protect](/_protect/Society/Communication/Media/Creative_Work/Message/Email_Message.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Creative_Work/Message/Email_Message.protect|Email_Message.protect]] 
 
-### #is_/same_as :: [Email_Message.private](/_private/Society/Communication/Media/Creative_Work/Message/Email_Message.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Creative_Work/Message/Email_Message.private|Email_Message.private]] 
 
-### #is_/same_as :: [Email_Message.personal](/_personal/Society/Communication/Media/Creative_Work/Message/Email_Message.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/Message/Email_Message.personal|Email_Message.personal]] 
 
-### #is_/same_as :: [Email_Message.secret](/_secret/Society/Communication/Media/Creative_Work/Message/Email_Message.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Message/Email_Message.secret|Email_Message.secret]] 
 

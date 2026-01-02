@@ -41,17 +41,17 @@ The header section of the page.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Wp_Header](/_Standards/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Web_Page_Element/Wp_Header.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Web_Page_Element/Wp_Header|Wp_Header]] 
 
-### #is_/same_as :: [Wp_Header.public](/_public/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Web_Page_Element/Wp_Header.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Web_Page_Element/Wp_Header.public|Wp_Header.public]] 
 
-### #is_/same_as :: [Wp_Header.internal](/_internal/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Web_Page_Element/Wp_Header.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Web_Page_Element/Wp_Header.internal|Wp_Header.internal]] 
 
-### #is_/same_as :: [Wp_Header.protect](/_protect/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Web_Page_Element/Wp_Header.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Web_Page_Element/Wp_Header.protect|Wp_Header.protect]] 
 
-### #is_/same_as :: [Wp_Header.private](/_private/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Web_Page_Element/Wp_Header.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Web_Page_Element/Wp_Header.private|Wp_Header.private]] 
 
-### #is_/same_as :: [Wp_Header.personal](/_personal/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Web_Page_Element/Wp_Header.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Web_Page_Element/Wp_Header.personal|Wp_Header.personal]] 
 
-### #is_/same_as :: [Wp_Header.secret](/_secret/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Web_Page_Element/Wp_Header.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Web_Page_Element/Wp_Header.secret|Wp_Header.secret]] 
 

@@ -55,17 +55,17 @@ booru_tag:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Printed_Circuit_Board](/_Standards/Technology/Engineering/Electrical_Engineering/Electronics/Printed_Circuit_Board.md) 
+### #is_/same_as :: [[/_Standards/Technology/Engineering/Electrical_Engineering/Electronics/Printed_Circuit_Board|Printed_Circuit_Board]] 
 
-### #is_/same_as :: [Printed_Circuit_Board.public](/_public/Technology/Engineering/Electrical_Engineering/Electronics/Printed_Circuit_Board.public.md) 
+### #is_/same_as :: [[/_public/Technology/Engineering/Electrical_Engineering/Electronics/Printed_Circuit_Board.public|Printed_Circuit_Board.public]] 
 
-### #is_/same_as :: [Printed_Circuit_Board.internal](/_internal/Technology/Engineering/Electrical_Engineering/Electronics/Printed_Circuit_Board.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Engineering/Electrical_Engineering/Electronics/Printed_Circuit_Board.internal|Printed_Circuit_Board.internal]] 
 
-### #is_/same_as :: [Printed_Circuit_Board.protect](/_protect/Technology/Engineering/Electrical_Engineering/Electronics/Printed_Circuit_Board.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Engineering/Electrical_Engineering/Electronics/Printed_Circuit_Board.protect|Printed_Circuit_Board.protect]] 
 
-### #is_/same_as :: [Printed_Circuit_Board.private](/_private/Technology/Engineering/Electrical_Engineering/Electronics/Printed_Circuit_Board.private.md) 
+### #is_/same_as :: [[/_private/Technology/Engineering/Electrical_Engineering/Electronics/Printed_Circuit_Board.private|Printed_Circuit_Board.private]] 
 
-### #is_/same_as :: [Printed_Circuit_Board.personal](/_personal/Technology/Engineering/Electrical_Engineering/Electronics/Printed_Circuit_Board.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Engineering/Electrical_Engineering/Electronics/Printed_Circuit_Board.personal|Printed_Circuit_Board.personal]] 
 
-### #is_/same_as :: [Printed_Circuit_Board.secret](/_secret/Technology/Engineering/Electrical_Engineering/Electronics/Printed_Circuit_Board.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Engineering/Electrical_Engineering/Electronics/Printed_Circuit_Board.secret|Printed_Circuit_Board.secret]] 
 

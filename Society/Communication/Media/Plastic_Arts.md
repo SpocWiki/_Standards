@@ -22,17 +22,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Plastic_Arts](/_Standards/Society/Communication/Media/Plastic_Arts.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Plastic_Arts|Plastic_Arts]] 
 
-### #is_/same_as :: [Plastic_Arts.public](/_public/Society/Communication/Media/Plastic_Arts.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Plastic_Arts.public|Plastic_Arts.public]] 
 
-### #is_/same_as :: [Plastic_Arts.internal](/_internal/Society/Communication/Media/Plastic_Arts.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Plastic_Arts.internal|Plastic_Arts.internal]] 
 
-### #is_/same_as :: [Plastic_Arts.protect](/_protect/Society/Communication/Media/Plastic_Arts.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Plastic_Arts.protect|Plastic_Arts.protect]] 
 
-### #is_/same_as :: [Plastic_Arts.private](/_private/Society/Communication/Media/Plastic_Arts.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Plastic_Arts.private|Plastic_Arts.private]] 
 
-### #is_/same_as :: [Plastic_Arts.personal](/_personal/Society/Communication/Media/Plastic_Arts.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Plastic_Arts.personal|Plastic_Arts.personal]] 
 
-### #is_/same_as :: [Plastic_Arts.secret](/_secret/Society/Communication/Media/Plastic_Arts.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Plastic_Arts.secret|Plastic_Arts.secret]] 
 

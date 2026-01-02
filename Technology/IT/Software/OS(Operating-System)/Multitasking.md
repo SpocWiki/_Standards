@@ -20,17 +20,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Multitasking](/_Standards/Technology/IT/Software/OS(Operating-System)/Multitasking.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Software/OS(Operating-System)/Multitasking|Multitasking]] 
 
-### #is_/same_as :: [Multitasking.public](/_public/Technology/IT/Software/OS(Operating-System)/Multitasking.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Software/OS(Operating-System)/Multitasking.public|Multitasking.public]] 
 
-### #is_/same_as :: [Multitasking.internal](/_internal/Technology/IT/Software/OS(Operating-System)/Multitasking.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Software/OS(Operating-System)/Multitasking.internal|Multitasking.internal]] 
 
-### #is_/same_as :: [Multitasking.protect](/_protect/Technology/IT/Software/OS(Operating-System)/Multitasking.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Software/OS(Operating-System)/Multitasking.protect|Multitasking.protect]] 
 
-### #is_/same_as :: [Multitasking.private](/_private/Technology/IT/Software/OS(Operating-System)/Multitasking.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Software/OS(Operating-System)/Multitasking.private|Multitasking.private]] 
 
-### #is_/same_as :: [Multitasking.personal](/_personal/Technology/IT/Software/OS(Operating-System)/Multitasking.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Software/OS(Operating-System)/Multitasking.personal|Multitasking.personal]] 
 
-### #is_/same_as :: [Multitasking.secret](/_secret/Technology/IT/Software/OS(Operating-System)/Multitasking.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Software/OS(Operating-System)/Multitasking.secret|Multitasking.secret]] 
 

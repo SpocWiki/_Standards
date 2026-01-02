@@ -46,17 +46,17 @@ GeoNames_feature_code:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Mesa](/_Standards/Earth/Geology/Landform/Mesa.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geology/Landform/Mesa|Mesa]] 
 
-### #is_/same_as :: [Mesa.public](/_public/Earth/Geology/Landform/Mesa.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geology/Landform/Mesa.public|Mesa.public]] 
 
-### #is_/same_as :: [Mesa.internal](/_internal/Earth/Geology/Landform/Mesa.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geology/Landform/Mesa.internal|Mesa.internal]] 
 
-### #is_/same_as :: [Mesa.protect](/_protect/Earth/Geology/Landform/Mesa.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geology/Landform/Mesa.protect|Mesa.protect]] 
 
-### #is_/same_as :: [Mesa.private](/_private/Earth/Geology/Landform/Mesa.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geology/Landform/Mesa.private|Mesa.private]] 
 
-### #is_/same_as :: [Mesa.personal](/_personal/Earth/Geology/Landform/Mesa.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geology/Landform/Mesa.personal|Mesa.personal]] 
 
-### #is_/same_as :: [Mesa.secret](/_secret/Earth/Geology/Landform/Mesa.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geology/Landform/Mesa.secret|Mesa.secret]] 
 

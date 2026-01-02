@@ -82,17 +82,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Rick Wakeman](/_Standards/Society/Communication/Media/Music/Musician/Music~Band/Yes(Band)/Rick Wakeman.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Musician/Music~Band/Yes(Band)/Rick Wakeman|Rick Wakeman]] 
 
-### #is_/same_as :: [Rick Wakeman.public](/_public/Society/Communication/Media/Music/Musician/Music~Band/Yes(Band)/Rick Wakeman.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Musician/Music~Band/Yes(Band)/Rick Wakeman.public|Rick Wakeman.public]] 
 
-### #is_/same_as :: [Rick Wakeman.internal](/_internal/Society/Communication/Media/Music/Musician/Music~Band/Yes(Band)/Rick Wakeman.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Musician/Music~Band/Yes(Band)/Rick Wakeman.internal|Rick Wakeman.internal]] 
 
-### #is_/same_as :: [Rick Wakeman.protect](/_protect/Society/Communication/Media/Music/Musician/Music~Band/Yes(Band)/Rick Wakeman.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Musician/Music~Band/Yes(Band)/Rick Wakeman.protect|Rick Wakeman.protect]] 
 
-### #is_/same_as :: [Rick Wakeman.private](/_private/Society/Communication/Media/Music/Musician/Music~Band/Yes(Band)/Rick Wakeman.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Musician/Music~Band/Yes(Band)/Rick Wakeman.private|Rick Wakeman.private]] 
 
-### #is_/same_as :: [Rick Wakeman.personal](/_personal/Society/Communication/Media/Music/Musician/Music~Band/Yes(Band)/Rick Wakeman.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Musician/Music~Band/Yes(Band)/Rick Wakeman.personal|Rick Wakeman.personal]] 
 
-### #is_/same_as :: [Rick Wakeman.secret](/_secret/Society/Communication/Media/Music/Musician/Music~Band/Yes(Band)/Rick Wakeman.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Musician/Music~Band/Yes(Band)/Rick Wakeman.secret|Rick Wakeman.secret]] 
 

@@ -37,17 +37,17 @@ One of the continents (for example, Europe or Africa).
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~Continent](/_Standards/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~Continent.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~Continent|FileClass~Continent]] 
 
-### #is_/same_as :: [FileClass~Continent.public](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~Continent.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~Continent.public|FileClass~Continent.public]] 
 
-### #is_/same_as :: [FileClass~Continent.internal](/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~Continent.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~Continent.internal|FileClass~Continent.internal]] 
 
-### #is_/same_as :: [FileClass~Continent.protect](/_protect/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~Continent.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~Continent.protect|FileClass~Continent.protect]] 
 
-### #is_/same_as :: [FileClass~Continent.private](/_private/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~Continent.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~Continent.private|FileClass~Continent.private]] 
 
-### #is_/same_as :: [FileClass~Continent.personal](/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~Continent.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~Continent.personal|FileClass~Continent.personal]] 
 
-### #is_/same_as :: [FileClass~Continent.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~Continent.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~Continent.secret|FileClass~Continent.secret]] 
 

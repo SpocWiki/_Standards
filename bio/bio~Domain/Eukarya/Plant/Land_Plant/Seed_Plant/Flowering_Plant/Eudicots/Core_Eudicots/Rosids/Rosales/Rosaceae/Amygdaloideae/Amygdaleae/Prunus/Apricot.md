@@ -120,17 +120,17 @@ taxon_name: Prunus armeniaca
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Apricot](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Rosales/Rosaceae/Amygdaloideae/Amygdaleae/Prunus/Apricot.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Rosales/Rosaceae/Amygdaloideae/Amygdaleae/Prunus/Apricot|Apricot]] 
 
-### #is_/same_as :: [Apricot.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Rosales/Rosaceae/Amygdaloideae/Amygdaleae/Prunus/Apricot.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Rosales/Rosaceae/Amygdaloideae/Amygdaleae/Prunus/Apricot.public|Apricot.public]] 
 
-### #is_/same_as :: [Apricot.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Rosales/Rosaceae/Amygdaloideae/Amygdaleae/Prunus/Apricot.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Rosales/Rosaceae/Amygdaloideae/Amygdaleae/Prunus/Apricot.internal|Apricot.internal]] 
 
-### #is_/same_as :: [Apricot.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Rosales/Rosaceae/Amygdaloideae/Amygdaleae/Prunus/Apricot.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Rosales/Rosaceae/Amygdaloideae/Amygdaleae/Prunus/Apricot.protect|Apricot.protect]] 
 
-### #is_/same_as :: [Apricot.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Rosales/Rosaceae/Amygdaloideae/Amygdaleae/Prunus/Apricot.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Rosales/Rosaceae/Amygdaloideae/Amygdaleae/Prunus/Apricot.private|Apricot.private]] 
 
-### #is_/same_as :: [Apricot.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Rosales/Rosaceae/Amygdaloideae/Amygdaleae/Prunus/Apricot.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Rosales/Rosaceae/Amygdaloideae/Amygdaleae/Prunus/Apricot.personal|Apricot.personal]] 
 
-### #is_/same_as :: [Apricot.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Rosales/Rosaceae/Amygdaloideae/Amygdaleae/Prunus/Apricot.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Rosales/Rosaceae/Amygdaloideae/Amygdaleae/Prunus/Apricot.secret|Apricot.secret]] 
 

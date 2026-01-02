@@ -38,17 +38,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_diagram](/_Standards/schema-org/Relation/has/has_diagram.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_diagram|has_diagram]] 
 
-### #is_/same_as :: [has_diagram.public](/_public/schema-org/Relation/has/has_diagram.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_diagram.public|has_diagram.public]] 
 
-### #is_/same_as :: [has_diagram.internal](/_internal/schema-org/Relation/has/has_diagram.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_diagram.internal|has_diagram.internal]] 
 
-### #is_/same_as :: [has_diagram.protect](/_protect/schema-org/Relation/has/has_diagram.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_diagram.protect|has_diagram.protect]] 
 
-### #is_/same_as :: [has_diagram.private](/_private/schema-org/Relation/has/has_diagram.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_diagram.private|has_diagram.private]] 
 
-### #is_/same_as :: [has_diagram.personal](/_personal/schema-org/Relation/has/has_diagram.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_diagram.personal|has_diagram.personal]] 
 
-### #is_/same_as :: [has_diagram.secret](/_secret/schema-org/Relation/has/has_diagram.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_diagram.secret|has_diagram.secret]] 
 

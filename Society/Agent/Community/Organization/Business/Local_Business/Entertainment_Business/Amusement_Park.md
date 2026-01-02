@@ -41,17 +41,17 @@ An amusement park.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Amusement_Park](/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Entertainment_Business/Amusement_Park.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Entertainment_Business/Amusement_Park|Amusement_Park]] 
 
-### #is_/same_as :: [Amusement_Park.public](/_public/Society/Agent/Community/Organization/Business/Local_Business/Entertainment_Business/Amusement_Park.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Business/Local_Business/Entertainment_Business/Amusement_Park.public|Amusement_Park.public]] 
 
-### #is_/same_as :: [Amusement_Park.internal](/_internal/Society/Agent/Community/Organization/Business/Local_Business/Entertainment_Business/Amusement_Park.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Business/Local_Business/Entertainment_Business/Amusement_Park.internal|Amusement_Park.internal]] 
 
-### #is_/same_as :: [Amusement_Park.protect](/_protect/Society/Agent/Community/Organization/Business/Local_Business/Entertainment_Business/Amusement_Park.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Business/Local_Business/Entertainment_Business/Amusement_Park.protect|Amusement_Park.protect]] 
 
-### #is_/same_as :: [Amusement_Park.private](/_private/Society/Agent/Community/Organization/Business/Local_Business/Entertainment_Business/Amusement_Park.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Business/Local_Business/Entertainment_Business/Amusement_Park.private|Amusement_Park.private]] 
 
-### #is_/same_as :: [Amusement_Park.personal](/_personal/Society/Agent/Community/Organization/Business/Local_Business/Entertainment_Business/Amusement_Park.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Business/Local_Business/Entertainment_Business/Amusement_Park.personal|Amusement_Park.personal]] 
 
-### #is_/same_as :: [Amusement_Park.secret](/_secret/Society/Agent/Community/Organization/Business/Local_Business/Entertainment_Business/Amusement_Park.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Business/Local_Business/Entertainment_Business/Amusement_Park.secret|Amusement_Park.secret]] 
 

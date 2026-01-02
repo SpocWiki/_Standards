@@ -40,17 +40,17 @@ markerFolder: ./Tafea/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Tafea](/_Standards/Earth/Continent/Australasia/Melanesia/Vanuatu/Provinces~Vanuatu/Tafea.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Australasia/Melanesia/Vanuatu/Provinces~Vanuatu/Tafea|Tafea]] 
 
-### #is_/same_as :: [Tafea.public](/_public/Earth/Continent/Australasia/Melanesia/Vanuatu/Provinces~Vanuatu/Tafea.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Australasia/Melanesia/Vanuatu/Provinces~Vanuatu/Tafea.public|Tafea.public]] 
 
-### #is_/same_as :: [Tafea.internal](/_internal/Earth/Continent/Australasia/Melanesia/Vanuatu/Provinces~Vanuatu/Tafea.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Australasia/Melanesia/Vanuatu/Provinces~Vanuatu/Tafea.internal|Tafea.internal]] 
 
-### #is_/same_as :: [Tafea.protect](/_protect/Earth/Continent/Australasia/Melanesia/Vanuatu/Provinces~Vanuatu/Tafea.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Australasia/Melanesia/Vanuatu/Provinces~Vanuatu/Tafea.protect|Tafea.protect]] 
 
-### #is_/same_as :: [Tafea.private](/_private/Earth/Continent/Australasia/Melanesia/Vanuatu/Provinces~Vanuatu/Tafea.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Australasia/Melanesia/Vanuatu/Provinces~Vanuatu/Tafea.private|Tafea.private]] 
 
-### #is_/same_as :: [Tafea.personal](/_personal/Earth/Continent/Australasia/Melanesia/Vanuatu/Provinces~Vanuatu/Tafea.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Australasia/Melanesia/Vanuatu/Provinces~Vanuatu/Tafea.personal|Tafea.personal]] 
 
-### #is_/same_as :: [Tafea.secret](/_secret/Earth/Continent/Australasia/Melanesia/Vanuatu/Provinces~Vanuatu/Tafea.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Australasia/Melanesia/Vanuatu/Provinces~Vanuatu/Tafea.secret|Tafea.secret]] 
 

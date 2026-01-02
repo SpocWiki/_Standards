@@ -42,17 +42,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_value_for_median](/_Standards/schema-org/Property/has_value_for/has_value_for_median.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_value_for/has_value_for_median|has_value_for_median]] 
 
-### #is_/same_as :: [has_value_for_median.public](/_public/schema-org/Property/has_value_for/has_value_for_median.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/has_value_for/has_value_for_median.public|has_value_for_median.public]] 
 
-### #is_/same_as :: [has_value_for_median.internal](/_internal/schema-org/Property/has_value_for/has_value_for_median.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_value_for/has_value_for_median.internal|has_value_for_median.internal]] 
 
-### #is_/same_as :: [has_value_for_median.protect](/_protect/schema-org/Property/has_value_for/has_value_for_median.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_value_for/has_value_for_median.protect|has_value_for_median.protect]] 
 
-### #is_/same_as :: [has_value_for_median.private](/_private/schema-org/Property/has_value_for/has_value_for_median.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/has_value_for/has_value_for_median.private|has_value_for_median.private]] 
 
-### #is_/same_as :: [has_value_for_median.personal](/_personal/schema-org/Property/has_value_for/has_value_for_median.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_value_for/has_value_for_median.personal|has_value_for_median.personal]] 
 
-### #is_/same_as :: [has_value_for_median.secret](/_secret/schema-org/Property/has_value_for/has_value_for_median.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/has_value_for/has_value_for_median.secret|has_value_for_median.secret]] 
 

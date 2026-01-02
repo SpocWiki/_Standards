@@ -106,17 +106,17 @@ Krugosvet_article_archived_: medicina/koklyush
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Pertussis](/_Standards/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Pertussis.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Pertussis|Pertussis]] 
 
-### #is_/same_as :: [Pertussis.public](/_public/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Pertussis.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Pertussis.public|Pertussis.public]] 
 
-### #is_/same_as :: [Pertussis.internal](/_internal/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Pertussis.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Pertussis.internal|Pertussis.internal]] 
 
-### #is_/same_as :: [Pertussis.protect](/_protect/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Pertussis.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Pertussis.protect|Pertussis.protect]] 
 
-### #is_/same_as :: [Pertussis.private](/_private/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Pertussis.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Pertussis.private|Pertussis.private]] 
 
-### #is_/same_as :: [Pertussis.personal](/_personal/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Pertussis.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Pertussis.personal|Pertussis.personal]] 
 
-### #is_/same_as :: [Pertussis.secret](/_secret/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Pertussis.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Pertussis.secret|Pertussis.secret]] 
 

@@ -93,17 +93,17 @@ Commons_category: Scientific theories
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Scientific_Theory](/_Standards/Science/Scientific_Theory.md) 
+### #is_/same_as :: [[/_Standards/Science/Scientific_Method/Theory/Scientific_Theory|Scientific_Theory]] 
 
-### #is_/same_as :: [Scientific_Theory.public](/_public/Science/Scientific_Theory.public.md) 
+### #is_/same_as :: [[/_public/Science/Scientific_Method/Theory/Scientific_Theory.public|Scientific_Theory.public]] 
 
-### #is_/same_as :: [Scientific_Theory.internal](/_internal/Science/Scientific_Theory.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Scientific_Method/Theory/Scientific_Theory.internal|Scientific_Theory.internal]] 
 
-### #is_/same_as :: [Scientific_Theory.protect](/_protect/Science/Scientific_Theory.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Scientific_Method/Theory/Scientific_Theory.protect|Scientific_Theory.protect]] 
 
-### #is_/same_as :: [Scientific_Theory.private](/_private/Science/Scientific_Theory.private.md) 
+### #is_/same_as :: [[/_private/Science/Scientific_Method/Theory/Scientific_Theory.private|Scientific_Theory.private]] 
 
-### #is_/same_as :: [Scientific_Theory.personal](/_personal/Science/Scientific_Theory.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Scientific_Method/Theory/Scientific_Theory.personal|Scientific_Theory.personal]] 
 
-### #is_/same_as :: [Scientific_Theory.secret](/_secret/Science/Scientific_Theory.secret.md)
+### #is_/same_as :: [[/_secret/Science/Scientific_Method/Theory/Scientific_Theory.secret|Scientific_Theory.secret]] 
 

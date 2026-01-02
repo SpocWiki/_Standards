@@ -47,17 +47,17 @@ Commons_category: Nebular hypothesis
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Nebular_Hypothesis](/_Standards/Astronomy/Solar_System/Nebular_Hypothesis.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Solar_System/Nebular_Hypothesis|Nebular_Hypothesis]] 
 
-### #is_/same_as :: [Nebular_Hypothesis.public](/_public/Astronomy/Solar_System/Nebular_Hypothesis.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Solar_System/Nebular_Hypothesis.public|Nebular_Hypothesis.public]] 
 
-### #is_/same_as :: [Nebular_Hypothesis.internal](/_internal/Astronomy/Solar_System/Nebular_Hypothesis.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Solar_System/Nebular_Hypothesis.internal|Nebular_Hypothesis.internal]] 
 
-### #is_/same_as :: [Nebular_Hypothesis.protect](/_protect/Astronomy/Solar_System/Nebular_Hypothesis.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Solar_System/Nebular_Hypothesis.protect|Nebular_Hypothesis.protect]] 
 
-### #is_/same_as :: [Nebular_Hypothesis.private](/_private/Astronomy/Solar_System/Nebular_Hypothesis.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Solar_System/Nebular_Hypothesis.private|Nebular_Hypothesis.private]] 
 
-### #is_/same_as :: [Nebular_Hypothesis.personal](/_personal/Astronomy/Solar_System/Nebular_Hypothesis.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Solar_System/Nebular_Hypothesis.personal|Nebular_Hypothesis.personal]] 
 
-### #is_/same_as :: [Nebular_Hypothesis.secret](/_secret/Astronomy/Solar_System/Nebular_Hypothesis.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Solar_System/Nebular_Hypothesis.secret|Nebular_Hypothesis.secret]] 
 

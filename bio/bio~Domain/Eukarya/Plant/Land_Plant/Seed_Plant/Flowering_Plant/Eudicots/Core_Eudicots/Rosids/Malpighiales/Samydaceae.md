@@ -109,13 +109,13 @@ or dry 3-valved capsules, occasionally indehiscent. *Seeds* arillate
 ## Title Illustrations
 
 -------------------- 
-![Casearia arborea](Samydaceae/Casearia_arborea.jpg))
+![Casearia arborea](Samydaceae/Casearia_arborea.jpg) 
 Scientific Name ::  Casearia arborea
 Location ::        Costa Rica: Heredia: Estacion Biologica La Selva
 Copyright ::         © 2004 [Lawrence M. Kelly](mailto:lkelly@nybg.org)
 
 -------------------- 
-![Casearia corymbosa](Samydaceae/Casearia_corymbosa-Leaf.jpg))
+![Casearia corymbosa](Samydaceae/Casearia_corymbosa-Leaf.jpg) 
 Scientific Name ::  Casearia corymbosa
 Location ::        Costa Rica: Guanacaste: Palo Verde
 Copyright ::         © 2003 [Lawrence M. Kelly](mailto:lkelly@nybg.org)
@@ -130,17 +130,17 @@ Copyright ::         © 2003 [Fabián Michelangeli](mailto:fabian@nybg.org)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Samydaceae](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Malpighiales/Samydaceae.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Malpighiales/Samydaceae|Samydaceae]] 
 
-### #is_/same_as :: [Samydaceae.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Malpighiales/Samydaceae.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Malpighiales/Samydaceae.public|Samydaceae.public]] 
 
-### #is_/same_as :: [Samydaceae.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Malpighiales/Samydaceae.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Malpighiales/Samydaceae.internal|Samydaceae.internal]] 
 
-### #is_/same_as :: [Samydaceae.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Malpighiales/Samydaceae.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Malpighiales/Samydaceae.protect|Samydaceae.protect]] 
 
-### #is_/same_as :: [Samydaceae.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Malpighiales/Samydaceae.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Malpighiales/Samydaceae.private|Samydaceae.private]] 
 
-### #is_/same_as :: [Samydaceae.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Malpighiales/Samydaceae.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Malpighiales/Samydaceae.personal|Samydaceae.personal]] 
 
-### #is_/same_as :: [Samydaceae.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Malpighiales/Samydaceae.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Malpighiales/Samydaceae.secret|Samydaceae.secret]] 
 

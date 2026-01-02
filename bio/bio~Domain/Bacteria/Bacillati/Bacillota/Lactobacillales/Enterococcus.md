@@ -17,17 +17,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Enterococcus](/_Standards/bio/bio~Domain/Bacteria/Bacillati/Bacillota/Lactobacillales/Enterococcus.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Bacteria/Bacillati/Bacillota/Lactobacillales/Enterococcus|Enterococcus]] 
 
-### #is_/same_as :: [Enterococcus.public](/_public/bio/bio~Domain/Bacteria/Bacillati/Bacillota/Lactobacillales/Enterococcus.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Bacteria/Bacillati/Bacillota/Lactobacillales/Enterococcus.public|Enterococcus.public]] 
 
-### #is_/same_as :: [Enterococcus.internal](/_internal/bio/bio~Domain/Bacteria/Bacillati/Bacillota/Lactobacillales/Enterococcus.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Bacteria/Bacillati/Bacillota/Lactobacillales/Enterococcus.internal|Enterococcus.internal]] 
 
-### #is_/same_as :: [Enterococcus.protect](/_protect/bio/bio~Domain/Bacteria/Bacillati/Bacillota/Lactobacillales/Enterococcus.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Bacteria/Bacillati/Bacillota/Lactobacillales/Enterococcus.protect|Enterococcus.protect]] 
 
-### #is_/same_as :: [Enterococcus.private](/_private/bio/bio~Domain/Bacteria/Bacillati/Bacillota/Lactobacillales/Enterococcus.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Bacteria/Bacillati/Bacillota/Lactobacillales/Enterococcus.private|Enterococcus.private]] 
 
-### #is_/same_as :: [Enterococcus.personal](/_personal/bio/bio~Domain/Bacteria/Bacillati/Bacillota/Lactobacillales/Enterococcus.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Bacteria/Bacillati/Bacillota/Lactobacillales/Enterococcus.personal|Enterococcus.personal]] 
 
-### #is_/same_as :: [Enterococcus.secret](/_secret/bio/bio~Domain/Bacteria/Bacillati/Bacillota/Lactobacillales/Enterococcus.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Bacteria/Bacillati/Bacillota/Lactobacillales/Enterococcus.secret|Enterococcus.secret]] 
 

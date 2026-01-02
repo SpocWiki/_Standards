@@ -31,19 +31,20 @@ NBN_System_Key: NBNSYS0000188645
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Leatherback%20sea%20turtle)
 
+
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Dermochelys](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Sauropsida/Reptile/Diapsida/Archosauromorpha/Turtle/Sea_Turtle/Dermochelys.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Sauropsida/Reptile/Diapsida/Archosauromorpha/Turtle/Sea_Turtle/Dermochelys|Dermochelys]] 
 
-### #is_/same_as :: [Dermochelys.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Sauropsida/Reptile/Diapsida/Archosauromorpha/Turtle/Sea_Turtle/Dermochelys.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Sauropsida/Reptile/Diapsida/Archosauromorpha/Turtle/Sea_Turtle/Dermochelys.public|Dermochelys.public]] 
 
-### #is_/same_as :: [Dermochelys.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Sauropsida/Reptile/Diapsida/Archosauromorpha/Turtle/Sea_Turtle/Dermochelys.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Sauropsida/Reptile/Diapsida/Archosauromorpha/Turtle/Sea_Turtle/Dermochelys.internal|Dermochelys.internal]] 
 
-### #is_/same_as :: [Dermochelys.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Sauropsida/Reptile/Diapsida/Archosauromorpha/Turtle/Sea_Turtle/Dermochelys.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Sauropsida/Reptile/Diapsida/Archosauromorpha/Turtle/Sea_Turtle/Dermochelys.protect|Dermochelys.protect]] 
 
-### #is_/same_as :: [Dermochelys.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Sauropsida/Reptile/Diapsida/Archosauromorpha/Turtle/Sea_Turtle/Dermochelys.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Sauropsida/Reptile/Diapsida/Archosauromorpha/Turtle/Sea_Turtle/Dermochelys.private|Dermochelys.private]] 
 
-### #is_/same_as :: [Dermochelys.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Sauropsida/Reptile/Diapsida/Archosauromorpha/Turtle/Sea_Turtle/Dermochelys.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Sauropsida/Reptile/Diapsida/Archosauromorpha/Turtle/Sea_Turtle/Dermochelys.personal|Dermochelys.personal]] 
 
-### #is_/same_as :: [Dermochelys.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Sauropsida/Reptile/Diapsida/Archosauromorpha/Turtle/Sea_Turtle/Dermochelys.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Sauropsida/Reptile/Diapsida/Archosauromorpha/Turtle/Sea_Turtle/Dermochelys.secret|Dermochelys.secret]] 
 

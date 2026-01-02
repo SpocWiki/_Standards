@@ -43,17 +43,17 @@ A podcast is an episodic series of digital audio or video files which a user can
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Podcast_Series](/_Standards/Society/Communication/Media/Creative_Work/Creative_Work_Series/Podcast_Series.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Creative_Work/Creative_Work_Series/Podcast_Series|Podcast_Series]] 
 
-### #is_/same_as :: [Podcast_Series.public](/_public/Society/Communication/Media/Creative_Work/Creative_Work_Series/Podcast_Series.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Creative_Work/Creative_Work_Series/Podcast_Series.public|Podcast_Series.public]] 
 
-### #is_/same_as :: [Podcast_Series.internal](/_internal/Society/Communication/Media/Creative_Work/Creative_Work_Series/Podcast_Series.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Creative_Work/Creative_Work_Series/Podcast_Series.internal|Podcast_Series.internal]] 
 
-### #is_/same_as :: [Podcast_Series.protect](/_protect/Society/Communication/Media/Creative_Work/Creative_Work_Series/Podcast_Series.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Creative_Work/Creative_Work_Series/Podcast_Series.protect|Podcast_Series.protect]] 
 
-### #is_/same_as :: [Podcast_Series.private](/_private/Society/Communication/Media/Creative_Work/Creative_Work_Series/Podcast_Series.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Creative_Work/Creative_Work_Series/Podcast_Series.private|Podcast_Series.private]] 
 
-### #is_/same_as :: [Podcast_Series.personal](/_personal/Society/Communication/Media/Creative_Work/Creative_Work_Series/Podcast_Series.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/Creative_Work_Series/Podcast_Series.personal|Podcast_Series.personal]] 
 
-### #is_/same_as :: [Podcast_Series.secret](/_secret/Society/Communication/Media/Creative_Work/Creative_Work_Series/Podcast_Series.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Creative_Work_Series/Podcast_Series.secret|Podcast_Series.secret]] 
 

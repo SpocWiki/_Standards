@@ -52,17 +52,17 @@ Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_industry,16000278]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Industry](/_Standards/Society/Economics/Industry.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Industry|Industry]] 
 
-### #is_/same_as :: [Industry.public](/_public/Society/Economics/Industry.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Industry.public|Industry.public]] 
 
-### #is_/same_as :: [Industry.internal](/_internal/Society/Economics/Industry.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Industry.internal|Industry.internal]] 
 
-### #is_/same_as :: [Industry.protect](/_protect/Society/Economics/Industry.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Industry.protect|Industry.protect]] 
 
-### #is_/same_as :: [Industry.private](/_private/Society/Economics/Industry.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Industry.private|Industry.private]] 
 
-### #is_/same_as :: [Industry.personal](/_personal/Society/Economics/Industry.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Industry.personal|Industry.personal]] 
 
-### #is_/same_as :: [Industry.secret](/_secret/Society/Economics/Industry.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Industry.secret|Industry.secret]] 
 

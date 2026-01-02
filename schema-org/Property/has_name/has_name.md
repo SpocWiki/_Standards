@@ -48,17 +48,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_name](/_Standards/schema-org/Property/has_name/has_name.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_name/has_name|has_name]] 
 
-### #is_/same_as :: [has_name.public](/_public/schema-org/Property/has_name/has_name.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/has_name/has_name.public|has_name.public]] 
 
-### #is_/same_as :: [has_name.internal](/_internal/schema-org/Property/has_name/has_name.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_name/has_name.internal|has_name.internal]] 
 
-### #is_/same_as :: [has_name.protect](/_protect/schema-org/Property/has_name/has_name.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_name/has_name.protect|has_name.protect]] 
 
-### #is_/same_as :: [has_name.private](/_private/schema-org/Property/has_name/has_name.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/has_name/has_name.private|has_name.private]] 
 
-### #is_/same_as :: [has_name.personal](/_personal/schema-org/Property/has_name/has_name.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_name/has_name.personal|has_name.personal]] 
 
-### #is_/same_as :: [has_name.secret](/_secret/schema-org/Property/has_name/has_name.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/has_name/has_name.secret|has_name.secret]] 
 

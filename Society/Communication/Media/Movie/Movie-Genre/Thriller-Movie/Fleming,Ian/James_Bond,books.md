@@ -54,17 +54,17 @@ catchphrase: The name is Bond, James Bond
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [James_Bond,books](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Fleming,Ian/James_Bond,books.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Fleming,Ian/James_Bond,books|James_Bond,books]] 
 
-### #is_/same_as :: [James_Bond,books.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Fleming,Ian/James_Bond,books.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Fleming,Ian/James_Bond,books.public|James_Bond,books.public]] 
 
-### #is_/same_as :: [James_Bond,books.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Fleming,Ian/James_Bond,books.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Fleming,Ian/James_Bond,books.internal|James_Bond,books.internal]] 
 
-### #is_/same_as :: [James_Bond,books.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Fleming,Ian/James_Bond,books.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Fleming,Ian/James_Bond,books.protect|James_Bond,books.protect]] 
 
-### #is_/same_as :: [James_Bond,books.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Fleming,Ian/James_Bond,books.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Fleming,Ian/James_Bond,books.private|James_Bond,books.private]] 
 
-### #is_/same_as :: [James_Bond,books.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Fleming,Ian/James_Bond,books.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Fleming,Ian/James_Bond,books.personal|James_Bond,books.personal]] 
 
-### #is_/same_as :: [James_Bond,books.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Fleming,Ian/James_Bond,books.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Fleming,Ian/James_Bond,books.secret|James_Bond,books.secret]] 
 

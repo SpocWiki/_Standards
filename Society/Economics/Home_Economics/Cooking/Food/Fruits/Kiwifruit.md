@@ -62,17 +62,17 @@ Unicode_character: 🥝
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Kiwifruit](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Fruits/Kiwifruit.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Home_Economics/Cooking/Food/Fruits/Kiwifruit|Kiwifruit]] 
 
-### #is_/same_as :: [Kiwifruit.public](/_public/Society/Economics/Home_Economics/Cooking/Food/Fruits/Kiwifruit.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Home_Economics/Cooking/Food/Fruits/Kiwifruit.public|Kiwifruit.public]] 
 
-### #is_/same_as :: [Kiwifruit.internal](/_internal/Society/Economics/Home_Economics/Cooking/Food/Fruits/Kiwifruit.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Home_Economics/Cooking/Food/Fruits/Kiwifruit.internal|Kiwifruit.internal]] 
 
-### #is_/same_as :: [Kiwifruit.protect](/_protect/Society/Economics/Home_Economics/Cooking/Food/Fruits/Kiwifruit.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Home_Economics/Cooking/Food/Fruits/Kiwifruit.protect|Kiwifruit.protect]] 
 
-### #is_/same_as :: [Kiwifruit.private](/_private/Society/Economics/Home_Economics/Cooking/Food/Fruits/Kiwifruit.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Home_Economics/Cooking/Food/Fruits/Kiwifruit.private|Kiwifruit.private]] 
 
-### #is_/same_as :: [Kiwifruit.personal](/_personal/Society/Economics/Home_Economics/Cooking/Food/Fruits/Kiwifruit.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Home_Economics/Cooking/Food/Fruits/Kiwifruit.personal|Kiwifruit.personal]] 
 
-### #is_/same_as :: [Kiwifruit.secret](/_secret/Society/Economics/Home_Economics/Cooking/Food/Fruits/Kiwifruit.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Home_Economics/Cooking/Food/Fruits/Kiwifruit.secret|Kiwifruit.secret]] 
 

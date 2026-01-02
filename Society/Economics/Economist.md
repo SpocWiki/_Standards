@@ -86,17 +86,17 @@ Commons_category: Economists
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Economist](/_Standards/Society/Economics/Economist.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Economist|Economist]] 
 
-### #is_/same_as :: [Economist.public](/_public/Society/Economics/Economist.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Economist.public|Economist.public]] 
 
-### #is_/same_as :: [Economist.internal](/_internal/Society/Economics/Economist.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Economist.internal|Economist.internal]] 
 
-### #is_/same_as :: [Economist.protect](/_protect/Society/Economics/Economist.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Economist.protect|Economist.protect]] 
 
-### #is_/same_as :: [Economist.private](/_private/Society/Economics/Economist.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Economist.private|Economist.private]] 
 
-### #is_/same_as :: [Economist.personal](/_personal/Society/Economics/Economist.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Economist.personal|Economist.personal]] 
 
-### #is_/same_as :: [Economist.secret](/_secret/Society/Economics/Economist.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Economist.secret|Economist.secret]] 
 

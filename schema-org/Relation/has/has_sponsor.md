@@ -40,17 +40,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_sponsor](/_Standards/schema-org/Relation/has/has_sponsor.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_sponsor|has_sponsor]] 
 
-### #is_/same_as :: [has_sponsor.public](/_public/schema-org/Relation/has/has_sponsor.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_sponsor.public|has_sponsor.public]] 
 
-### #is_/same_as :: [has_sponsor.internal](/_internal/schema-org/Relation/has/has_sponsor.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_sponsor.internal|has_sponsor.internal]] 
 
-### #is_/same_as :: [has_sponsor.protect](/_protect/schema-org/Relation/has/has_sponsor.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_sponsor.protect|has_sponsor.protect]] 
 
-### #is_/same_as :: [has_sponsor.private](/_private/schema-org/Relation/has/has_sponsor.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_sponsor.private|has_sponsor.private]] 
 
-### #is_/same_as :: [has_sponsor.personal](/_personal/schema-org/Relation/has/has_sponsor.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_sponsor.personal|has_sponsor.personal]] 
 
-### #is_/same_as :: [has_sponsor.secret](/_secret/schema-org/Relation/has/has_sponsor.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_sponsor.secret|has_sponsor.secret]] 
 

@@ -104,17 +104,17 @@ inception: -1500-01-01T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Vedas](/_Standards/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas|Vedas]] 
 
-### #is_/same_as :: [Vedas.public](/_public/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas.public|Vedas.public]] 
 
-### #is_/same_as :: [Vedas.internal](/_internal/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas.internal|Vedas.internal]] 
 
-### #is_/same_as :: [Vedas.protect](/_protect/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas.protect|Vedas.protect]] 
 
-### #is_/same_as :: [Vedas.private](/_private/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas.private|Vedas.private]] 
 
-### #is_/same_as :: [Vedas.personal](/_personal/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas.personal|Vedas.personal]] 
 
-### #is_/same_as :: [Vedas.secret](/_secret/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas.secret|Vedas.secret]] 
 

@@ -86,17 +86,17 @@ ZVG_number: 531358
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Wood](/_Standards/bio/Botany/Wood.md) 
+### #is_/same_as :: [[/_Standards/bio/Botany/Wood|Wood]] 
 
-### #is_/same_as :: [Wood.public](/_public/bio/Botany/Wood.public.md) 
+### #is_/same_as :: [[/_public/bio/Botany/Wood.public|Wood.public]] 
 
-### #is_/same_as :: [Wood.internal](/_internal/bio/Botany/Wood.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Botany/Wood.internal|Wood.internal]] 
 
-### #is_/same_as :: [Wood.protect](/_protect/bio/Botany/Wood.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Botany/Wood.protect|Wood.protect]] 
 
-### #is_/same_as :: [Wood.private](/_private/bio/Botany/Wood.private.md) 
+### #is_/same_as :: [[/_private/bio/Botany/Wood.private|Wood.private]] 
 
-### #is_/same_as :: [Wood.personal](/_personal/bio/Botany/Wood.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Botany/Wood.personal|Wood.personal]] 
 
-### #is_/same_as :: [Wood.secret](/_secret/bio/Botany/Wood.secret.md)
+### #is_/same_as :: [[/_secret/bio/Botany/Wood.secret|Wood.secret]] 
 

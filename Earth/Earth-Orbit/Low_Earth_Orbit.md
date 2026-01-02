@@ -34,17 +34,17 @@ Commons_category: Low Earth orbit
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Low_Earth_Orbit](/_Standards/Earth/Earth-Orbit/Low_Earth_Orbit.md) 
+### #is_/same_as :: [[/_Standards/Earth/Earth-Orbit/Low_Earth_Orbit|Low_Earth_Orbit]] 
 
-### #is_/same_as :: [Low_Earth_Orbit.public](/_public/Earth/Earth-Orbit/Low_Earth_Orbit.public.md) 
+### #is_/same_as :: [[/_public/Earth/Earth-Orbit/Low_Earth_Orbit.public|Low_Earth_Orbit.public]] 
 
-### #is_/same_as :: [Low_Earth_Orbit.internal](/_internal/Earth/Earth-Orbit/Low_Earth_Orbit.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Earth-Orbit/Low_Earth_Orbit.internal|Low_Earth_Orbit.internal]] 
 
-### #is_/same_as :: [Low_Earth_Orbit.protect](/_protect/Earth/Earth-Orbit/Low_Earth_Orbit.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Earth-Orbit/Low_Earth_Orbit.protect|Low_Earth_Orbit.protect]] 
 
-### #is_/same_as :: [Low_Earth_Orbit.private](/_private/Earth/Earth-Orbit/Low_Earth_Orbit.private.md) 
+### #is_/same_as :: [[/_private/Earth/Earth-Orbit/Low_Earth_Orbit.private|Low_Earth_Orbit.private]] 
 
-### #is_/same_as :: [Low_Earth_Orbit.personal](/_personal/Earth/Earth-Orbit/Low_Earth_Orbit.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Earth-Orbit/Low_Earth_Orbit.personal|Low_Earth_Orbit.personal]] 
 
-### #is_/same_as :: [Low_Earth_Orbit.secret](/_secret/Earth/Earth-Orbit/Low_Earth_Orbit.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Earth-Orbit/Low_Earth_Orbit.secret|Low_Earth_Orbit.secret]] 
 

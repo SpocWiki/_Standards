@@ -47,17 +47,17 @@ Commons_category: Optical discs
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Optical_Disc](/_Standards/Technology/IT/Data/Data_Storage/Storage_Medium/Optical_Disc.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Data/Data_Storage/Storage_Medium/Optical_Disc|Optical_Disc]] 
 
-### #is_/same_as :: [Optical_Disc.public](/_public/Technology/IT/Data/Data_Storage/Storage_Medium/Optical_Disc.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Data/Data_Storage/Storage_Medium/Optical_Disc.public|Optical_Disc.public]] 
 
-### #is_/same_as :: [Optical_Disc.internal](/_internal/Technology/IT/Data/Data_Storage/Storage_Medium/Optical_Disc.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Data/Data_Storage/Storage_Medium/Optical_Disc.internal|Optical_Disc.internal]] 
 
-### #is_/same_as :: [Optical_Disc.protect](/_protect/Technology/IT/Data/Data_Storage/Storage_Medium/Optical_Disc.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Data/Data_Storage/Storage_Medium/Optical_Disc.protect|Optical_Disc.protect]] 
 
-### #is_/same_as :: [Optical_Disc.private](/_private/Technology/IT/Data/Data_Storage/Storage_Medium/Optical_Disc.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Data/Data_Storage/Storage_Medium/Optical_Disc.private|Optical_Disc.private]] 
 
-### #is_/same_as :: [Optical_Disc.personal](/_personal/Technology/IT/Data/Data_Storage/Storage_Medium/Optical_Disc.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Data/Data_Storage/Storage_Medium/Optical_Disc.personal|Optical_Disc.personal]] 
 
-### #is_/same_as :: [Optical_Disc.secret](/_secret/Technology/IT/Data/Data_Storage/Storage_Medium/Optical_Disc.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Data/Data_Storage/Storage_Medium/Optical_Disc.secret|Optical_Disc.secret]] 
 

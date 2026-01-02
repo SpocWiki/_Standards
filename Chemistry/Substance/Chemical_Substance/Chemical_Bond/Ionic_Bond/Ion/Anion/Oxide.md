@@ -44,17 +44,17 @@ Commons_category: Oxides
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Oxide](/_Standards/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Anion/Oxide.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Anion/Oxide|Oxide]] 
 
-### #is_/same_as :: [Oxide.public](/_public/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Anion/Oxide.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Anion/Oxide.public|Oxide.public]] 
 
-### #is_/same_as :: [Oxide.internal](/_internal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Anion/Oxide.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Anion/Oxide.internal|Oxide.internal]] 
 
-### #is_/same_as :: [Oxide.protect](/_protect/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Anion/Oxide.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Anion/Oxide.protect|Oxide.protect]] 
 
-### #is_/same_as :: [Oxide.private](/_private/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Anion/Oxide.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Anion/Oxide.private|Oxide.private]] 
 
-### #is_/same_as :: [Oxide.personal](/_personal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Anion/Oxide.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Anion/Oxide.personal|Oxide.personal]] 
 
-### #is_/same_as :: [Oxide.secret](/_secret/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Anion/Oxide.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Anion/Oxide.secret|Oxide.secret]] 
 

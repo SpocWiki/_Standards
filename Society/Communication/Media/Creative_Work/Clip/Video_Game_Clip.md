@@ -41,17 +41,17 @@ A short segment/part of a video game.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Video_Game_Clip](/_Standards/Society/Communication/Media/Creative_Work/Clip/Video_Game_Clip.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Creative_Work/Clip/Video_Game_Clip|Video_Game_Clip]] 
 
-### #is_/same_as :: [Video_Game_Clip.public](/_public/Society/Communication/Media/Creative_Work/Clip/Video_Game_Clip.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Creative_Work/Clip/Video_Game_Clip.public|Video_Game_Clip.public]] 
 
-### #is_/same_as :: [Video_Game_Clip.internal](/_internal/Society/Communication/Media/Creative_Work/Clip/Video_Game_Clip.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Creative_Work/Clip/Video_Game_Clip.internal|Video_Game_Clip.internal]] 
 
-### #is_/same_as :: [Video_Game_Clip.protect](/_protect/Society/Communication/Media/Creative_Work/Clip/Video_Game_Clip.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Creative_Work/Clip/Video_Game_Clip.protect|Video_Game_Clip.protect]] 
 
-### #is_/same_as :: [Video_Game_Clip.private](/_private/Society/Communication/Media/Creative_Work/Clip/Video_Game_Clip.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Creative_Work/Clip/Video_Game_Clip.private|Video_Game_Clip.private]] 
 
-### #is_/same_as :: [Video_Game_Clip.personal](/_personal/Society/Communication/Media/Creative_Work/Clip/Video_Game_Clip.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/Clip/Video_Game_Clip.personal|Video_Game_Clip.personal]] 
 
-### #is_/same_as :: [Video_Game_Clip.secret](/_secret/Society/Communication/Media/Creative_Work/Clip/Video_Game_Clip.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Clip/Video_Game_Clip.secret|Video_Game_Clip.secret]] 
 

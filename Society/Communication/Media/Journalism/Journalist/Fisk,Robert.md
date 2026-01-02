@@ -88,17 +88,17 @@ ISNI: 0000000121417057
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Fisk,Robert](/_Standards/Society/Communication/Media/Journalism/Journalist/Fisk,Robert.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Journalism/Journalist/Fisk,Robert|Fisk,Robert]] 
 
-### #is_/same_as :: [Fisk,Robert.public](/_public/Society/Communication/Media/Journalism/Journalist/Fisk,Robert.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Journalism/Journalist/Fisk,Robert.public|Fisk,Robert.public]] 
 
-### #is_/same_as :: [Fisk,Robert.internal](/_internal/Society/Communication/Media/Journalism/Journalist/Fisk,Robert.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Journalism/Journalist/Fisk,Robert.internal|Fisk,Robert.internal]] 
 
-### #is_/same_as :: [Fisk,Robert.protect](/_protect/Society/Communication/Media/Journalism/Journalist/Fisk,Robert.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Journalism/Journalist/Fisk,Robert.protect|Fisk,Robert.protect]] 
 
-### #is_/same_as :: [Fisk,Robert.private](/_private/Society/Communication/Media/Journalism/Journalist/Fisk,Robert.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Journalism/Journalist/Fisk,Robert.private|Fisk,Robert.private]] 
 
-### #is_/same_as :: [Fisk,Robert.personal](/_personal/Society/Communication/Media/Journalism/Journalist/Fisk,Robert.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Journalism/Journalist/Fisk,Robert.personal|Fisk,Robert.personal]] 
 
-### #is_/same_as :: [Fisk,Robert.secret](/_secret/Society/Communication/Media/Journalism/Journalist/Fisk,Robert.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Journalism/Journalist/Fisk,Robert.secret|Fisk,Robert.secret]] 
 

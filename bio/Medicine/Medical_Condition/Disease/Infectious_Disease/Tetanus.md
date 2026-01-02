@@ -113,17 +113,17 @@ exact_match:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Tetanus](/_Standards/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Tetanus.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Tetanus|Tetanus]] 
 
-### #is_/same_as :: [Tetanus.public](/_public/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Tetanus.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Tetanus.public|Tetanus.public]] 
 
-### #is_/same_as :: [Tetanus.internal](/_internal/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Tetanus.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Tetanus.internal|Tetanus.internal]] 
 
-### #is_/same_as :: [Tetanus.protect](/_protect/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Tetanus.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Tetanus.protect|Tetanus.protect]] 
 
-### #is_/same_as :: [Tetanus.private](/_private/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Tetanus.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Tetanus.private|Tetanus.private]] 
 
-### #is_/same_as :: [Tetanus.personal](/_personal/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Tetanus.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Tetanus.personal|Tetanus.personal]] 
 
-### #is_/same_as :: [Tetanus.secret](/_secret/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Tetanus.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Tetanus.secret|Tetanus.secret]] 
 

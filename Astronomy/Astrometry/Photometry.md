@@ -34,17 +34,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Photometry](/_Standards/Astronomy/Astrometry/Photometry.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Astrometry/Photometry|Photometry]] 
 
-### #is_/same_as :: [Photometry.public](/_public/Astronomy/Astrometry/Photometry.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Astrometry/Photometry.public|Photometry.public]] 
 
-### #is_/same_as :: [Photometry.internal](/_internal/Astronomy/Astrometry/Photometry.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Astrometry/Photometry.internal|Photometry.internal]] 
 
-### #is_/same_as :: [Photometry.protect](/_protect/Astronomy/Astrometry/Photometry.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Astrometry/Photometry.protect|Photometry.protect]] 
 
-### #is_/same_as :: [Photometry.private](/_private/Astronomy/Astrometry/Photometry.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Astrometry/Photometry.private|Photometry.private]] 
 
-### #is_/same_as :: [Photometry.personal](/_personal/Astronomy/Astrometry/Photometry.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Astrometry/Photometry.personal|Photometry.personal]] 
 
-### #is_/same_as :: [Photometry.secret](/_secret/Astronomy/Astrometry/Photometry.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Astrometry/Photometry.secret|Photometry.secret]] 
 

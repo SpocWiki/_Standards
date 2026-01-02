@@ -46,17 +46,17 @@ P8189: 987007283365205171
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Candy](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Candy.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Home_Economics/Cooking/Food/Candy|Candy]] 
 
-### #is_/same_as :: [Candy.public](/_public/Society/Economics/Home_Economics/Cooking/Food/Candy.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Home_Economics/Cooking/Food/Candy.public|Candy.public]] 
 
-### #is_/same_as :: [Candy.internal](/_internal/Society/Economics/Home_Economics/Cooking/Food/Candy.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Home_Economics/Cooking/Food/Candy.internal|Candy.internal]] 
 
-### #is_/same_as :: [Candy.protect](/_protect/Society/Economics/Home_Economics/Cooking/Food/Candy.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Home_Economics/Cooking/Food/Candy.protect|Candy.protect]] 
 
-### #is_/same_as :: [Candy.private](/_private/Society/Economics/Home_Economics/Cooking/Food/Candy.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Home_Economics/Cooking/Food/Candy.private|Candy.private]] 
 
-### #is_/same_as :: [Candy.personal](/_personal/Society/Economics/Home_Economics/Cooking/Food/Candy.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Home_Economics/Cooking/Food/Candy.personal|Candy.personal]] 
 
-### #is_/same_as :: [Candy.secret](/_secret/Society/Economics/Home_Economics/Cooking/Food/Candy.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Home_Economics/Cooking/Food/Candy.secret|Candy.secret]] 
 

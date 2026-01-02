@@ -41,17 +41,17 @@ named_after: "[[_Standards/WikiData/WD~proletarii,1775730]]"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Proletariat](/_Standards/Society/Anthropology/Sociology/Social_Stratification/Social_Class/Proletariat.md) 
+### #is_/same_as :: [[/_Standards/Society/Anthropology/Sociology/Social_Stratification/Social_Class/Proletariat|Proletariat]] 
 
-### #is_/same_as :: [Proletariat.public](/_public/Society/Anthropology/Sociology/Social_Stratification/Social_Class/Proletariat.public.md) 
+### #is_/same_as :: [[/_public/Society/Anthropology/Sociology/Social_Stratification/Social_Class/Proletariat.public|Proletariat.public]] 
 
-### #is_/same_as :: [Proletariat.internal](/_internal/Society/Anthropology/Sociology/Social_Stratification/Social_Class/Proletariat.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Anthropology/Sociology/Social_Stratification/Social_Class/Proletariat.internal|Proletariat.internal]] 
 
-### #is_/same_as :: [Proletariat.protect](/_protect/Society/Anthropology/Sociology/Social_Stratification/Social_Class/Proletariat.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Anthropology/Sociology/Social_Stratification/Social_Class/Proletariat.protect|Proletariat.protect]] 
 
-### #is_/same_as :: [Proletariat.private](/_private/Society/Anthropology/Sociology/Social_Stratification/Social_Class/Proletariat.private.md) 
+### #is_/same_as :: [[/_private/Society/Anthropology/Sociology/Social_Stratification/Social_Class/Proletariat.private|Proletariat.private]] 
 
-### #is_/same_as :: [Proletariat.personal](/_personal/Society/Anthropology/Sociology/Social_Stratification/Social_Class/Proletariat.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Anthropology/Sociology/Social_Stratification/Social_Class/Proletariat.personal|Proletariat.personal]] 
 
-### #is_/same_as :: [Proletariat.secret](/_secret/Society/Anthropology/Sociology/Social_Stratification/Social_Class/Proletariat.secret.md)
+### #is_/same_as :: [[/_secret/Society/Anthropology/Sociology/Social_Stratification/Social_Class/Proletariat.secret|Proletariat.secret]] 
 

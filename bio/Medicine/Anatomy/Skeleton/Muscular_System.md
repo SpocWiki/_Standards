@@ -39,17 +39,17 @@ TA98_Latin_term: systema musculare
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Muscular_System](/_Standards/bio/Medicine/Anatomy/Skeleton/Muscular_System.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Anatomy/Skeleton/Muscular_System|Muscular_System]] 
 
-### #is_/same_as :: [Muscular_System.public](/_public/bio/Medicine/Anatomy/Skeleton/Muscular_System.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Anatomy/Skeleton/Muscular_System.public|Muscular_System.public]] 
 
-### #is_/same_as :: [Muscular_System.internal](/_internal/bio/Medicine/Anatomy/Skeleton/Muscular_System.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Anatomy/Skeleton/Muscular_System.internal|Muscular_System.internal]] 
 
-### #is_/same_as :: [Muscular_System.protect](/_protect/bio/Medicine/Anatomy/Skeleton/Muscular_System.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Anatomy/Skeleton/Muscular_System.protect|Muscular_System.protect]] 
 
-### #is_/same_as :: [Muscular_System.private](/_private/bio/Medicine/Anatomy/Skeleton/Muscular_System.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Anatomy/Skeleton/Muscular_System.private|Muscular_System.private]] 
 
-### #is_/same_as :: [Muscular_System.personal](/_personal/bio/Medicine/Anatomy/Skeleton/Muscular_System.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Anatomy/Skeleton/Muscular_System.personal|Muscular_System.personal]] 
 
-### #is_/same_as :: [Muscular_System.secret](/_secret/bio/Medicine/Anatomy/Skeleton/Muscular_System.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Anatomy/Skeleton/Muscular_System.secret|Muscular_System.secret]] 
 

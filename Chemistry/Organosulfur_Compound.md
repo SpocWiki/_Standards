@@ -38,17 +38,17 @@ Commons_category: Organosulfur compounds
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Organosulfur_Compound](/_Standards/Chemistry/Organosulfur_Compound.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Organosulfur_Compound|Organosulfur_Compound]] 
 
-### #is_/same_as :: [Organosulfur_Compound.public](/_public/Chemistry/Organosulfur_Compound.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Organosulfur_Compound.public|Organosulfur_Compound.public]] 
 
-### #is_/same_as :: [Organosulfur_Compound.internal](/_internal/Chemistry/Organosulfur_Compound.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Organosulfur_Compound.internal|Organosulfur_Compound.internal]] 
 
-### #is_/same_as :: [Organosulfur_Compound.protect](/_protect/Chemistry/Organosulfur_Compound.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Organosulfur_Compound.protect|Organosulfur_Compound.protect]] 
 
-### #is_/same_as :: [Organosulfur_Compound.private](/_private/Chemistry/Organosulfur_Compound.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Organosulfur_Compound.private|Organosulfur_Compound.private]] 
 
-### #is_/same_as :: [Organosulfur_Compound.personal](/_personal/Chemistry/Organosulfur_Compound.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Organosulfur_Compound.personal|Organosulfur_Compound.personal]] 
 
-### #is_/same_as :: [Organosulfur_Compound.secret](/_secret/Chemistry/Organosulfur_Compound.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Organosulfur_Compound.secret|Organosulfur_Compound.secret]] 
 

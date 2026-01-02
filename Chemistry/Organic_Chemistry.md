@@ -55,17 +55,17 @@ Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_organic_chemistry,711269
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Organic_Chemistry](/_Standards/Chemistry/Organic_Chemistry.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Organic_Chemistry|Organic_Chemistry]] 
 
-### #is_/same_as :: [Organic_Chemistry.public](/_public/Chemistry/Organic_Chemistry.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Organic_Chemistry.public|Organic_Chemistry.public]] 
 
-### #is_/same_as :: [Organic_Chemistry.internal](/_internal/Chemistry/Organic_Chemistry.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Organic_Chemistry.internal|Organic_Chemistry.internal]] 
 
-### #is_/same_as :: [Organic_Chemistry.protect](/_protect/Chemistry/Organic_Chemistry.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Organic_Chemistry.protect|Organic_Chemistry.protect]] 
 
-### #is_/same_as :: [Organic_Chemistry.private](/_private/Chemistry/Organic_Chemistry.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Organic_Chemistry.private|Organic_Chemistry.private]] 
 
-### #is_/same_as :: [Organic_Chemistry.personal](/_personal/Chemistry/Organic_Chemistry.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Organic_Chemistry.personal|Organic_Chemistry.personal]] 
 
-### #is_/same_as :: [Organic_Chemistry.secret](/_secret/Chemistry/Organic_Chemistry.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Organic_Chemistry.secret|Organic_Chemistry.secret]] 
 

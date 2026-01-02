@@ -43,17 +43,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_number_of_episodes](/_Standards/schema-org/Property/has_number_of/has_number_of_episodes.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_number_of/has_number_of_episodes|has_number_of_episodes]] 
 
-### #is_/same_as :: [has_number_of_episodes.public](/_public/schema-org/Property/has_number_of/has_number_of_episodes.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/has_number_of/has_number_of_episodes.public|has_number_of_episodes.public]] 
 
-### #is_/same_as :: [has_number_of_episodes.internal](/_internal/schema-org/Property/has_number_of/has_number_of_episodes.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_number_of/has_number_of_episodes.internal|has_number_of_episodes.internal]] 
 
-### #is_/same_as :: [has_number_of_episodes.protect](/_protect/schema-org/Property/has_number_of/has_number_of_episodes.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_number_of/has_number_of_episodes.protect|has_number_of_episodes.protect]] 
 
-### #is_/same_as :: [has_number_of_episodes.private](/_private/schema-org/Property/has_number_of/has_number_of_episodes.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/has_number_of/has_number_of_episodes.private|has_number_of_episodes.private]] 
 
-### #is_/same_as :: [has_number_of_episodes.personal](/_personal/schema-org/Property/has_number_of/has_number_of_episodes.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_number_of/has_number_of_episodes.personal|has_number_of_episodes.personal]] 
 
-### #is_/same_as :: [has_number_of_episodes.secret](/_secret/schema-org/Property/has_number_of/has_number_of_episodes.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/has_number_of/has_number_of_episodes.secret|has_number_of_episodes.secret]] 
 

@@ -55,17 +55,17 @@ Baidu_Tieba_name: 轴承
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bearing(mechanical)](/_Standards/Technology/Engineering/Mechanical_Engineering/Bearing(mechanical).md) 
+### #is_/same_as :: [[/_Standards/Technology/Engineering/Mechanical_Engineering/Bearing(mechanical)|Bearing(mechanical)]] 
 
-### #is_/same_as :: [Bearing(mechanical).public](/_public/Technology/Engineering/Mechanical_Engineering/Bearing(mechanical).public.md) 
+### #is_/same_as :: [[/_public/Technology/Engineering/Mechanical_Engineering/Bearing(mechanical).public|Bearing(mechanical).public]] 
 
-### #is_/same_as :: [Bearing(mechanical).internal](/_internal/Technology/Engineering/Mechanical_Engineering/Bearing(mechanical).internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Engineering/Mechanical_Engineering/Bearing(mechanical).internal|Bearing(mechanical).internal]] 
 
-### #is_/same_as :: [Bearing(mechanical).protect](/_protect/Technology/Engineering/Mechanical_Engineering/Bearing(mechanical).protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Engineering/Mechanical_Engineering/Bearing(mechanical).protect|Bearing(mechanical).protect]] 
 
-### #is_/same_as :: [Bearing(mechanical).private](/_private/Technology/Engineering/Mechanical_Engineering/Bearing(mechanical).private.md) 
+### #is_/same_as :: [[/_private/Technology/Engineering/Mechanical_Engineering/Bearing(mechanical).private|Bearing(mechanical).private]] 
 
-### #is_/same_as :: [Bearing(mechanical).personal](/_personal/Technology/Engineering/Mechanical_Engineering/Bearing(mechanical).personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Engineering/Mechanical_Engineering/Bearing(mechanical).personal|Bearing(mechanical).personal]] 
 
-### #is_/same_as :: [Bearing(mechanical).secret](/_secret/Technology/Engineering/Mechanical_Engineering/Bearing(mechanical).secret.md)
+### #is_/same_as :: [[/_secret/Technology/Engineering/Mechanical_Engineering/Bearing(mechanical).secret|Bearing(mechanical).secret]] 
 

@@ -46,17 +46,17 @@ OpenStreetMap_tag: natural=heath
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Heath](/_Standards/bio/Ecology/Ecosystem/Heath.md) 
+### #is_/same_as :: [[/_Standards/bio/Ecology/Ecosystem/Heath|Heath]] 
 
-### #is_/same_as :: [Heath.public](/_public/bio/Ecology/Ecosystem/Heath.public.md) 
+### #is_/same_as :: [[/_public/bio/Ecology/Ecosystem/Heath.public|Heath.public]] 
 
-### #is_/same_as :: [Heath.internal](/_internal/bio/Ecology/Ecosystem/Heath.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Ecology/Ecosystem/Heath.internal|Heath.internal]] 
 
-### #is_/same_as :: [Heath.protect](/_protect/bio/Ecology/Ecosystem/Heath.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Ecology/Ecosystem/Heath.protect|Heath.protect]] 
 
-### #is_/same_as :: [Heath.private](/_private/bio/Ecology/Ecosystem/Heath.private.md) 
+### #is_/same_as :: [[/_private/bio/Ecology/Ecosystem/Heath.private|Heath.private]] 
 
-### #is_/same_as :: [Heath.personal](/_personal/bio/Ecology/Ecosystem/Heath.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Ecology/Ecosystem/Heath.personal|Heath.personal]] 
 
-### #is_/same_as :: [Heath.secret](/_secret/bio/Ecology/Ecosystem/Heath.secret.md)
+### #is_/same_as :: [[/_secret/bio/Ecology/Ecosystem/Heath.secret|Heath.secret]] 
 

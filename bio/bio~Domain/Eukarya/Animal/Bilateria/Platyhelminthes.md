@@ -88,23 +88,23 @@ Flatworms, tapeworms, flukes
 
 Stylochus. Photograph from Gray Museum Slide Collection, copyright ©
 1995, [Marine Biological Laboratory](http://www.mbl.edu/), Woods Hole.
-![Stylochus](Platyhelminthes/stylochus.gif))
+![Stylochus](Platyhelminthes/stylochus.gif) 
 Copyright ::   © 1995 [Marine Biological Laboratory, Woods Hole](http://www.mbl.edu/) 
 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Platyhelminthes](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Platyhelminthes.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Platyhelminthes|Platyhelminthes]] 
 
-### #is_/same_as :: [Platyhelminthes.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Platyhelminthes.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Platyhelminthes.public|Platyhelminthes.public]] 
 
-### #is_/same_as :: [Platyhelminthes.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Platyhelminthes.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Platyhelminthes.internal|Platyhelminthes.internal]] 
 
-### #is_/same_as :: [Platyhelminthes.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Platyhelminthes.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Platyhelminthes.protect|Platyhelminthes.protect]] 
 
-### #is_/same_as :: [Platyhelminthes.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Platyhelminthes.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Platyhelminthes.private|Platyhelminthes.private]] 
 
-### #is_/same_as :: [Platyhelminthes.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Platyhelminthes.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Platyhelminthes.personal|Platyhelminthes.personal]] 
 
-### #is_/same_as :: [Platyhelminthes.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Platyhelminthes.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Platyhelminthes.secret|Platyhelminthes.secret]] 
 

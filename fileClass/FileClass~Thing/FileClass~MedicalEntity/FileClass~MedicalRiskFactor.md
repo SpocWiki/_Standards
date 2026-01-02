@@ -48,17 +48,17 @@ IncreasesRiskOf:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#cla
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~MedicalRiskFactor](/_Standards/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalRiskFactor.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalRiskFactor|FileClass~MedicalRiskFactor]] 
 
-### #is_/same_as :: [FileClass~MedicalRiskFactor.public](/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalRiskFactor.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalRiskFactor.public|FileClass~MedicalRiskFactor.public]] 
 
-### #is_/same_as :: [FileClass~MedicalRiskFactor.internal](/_internal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalRiskFactor.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalRiskFactor.internal|FileClass~MedicalRiskFactor.internal]] 
 
-### #is_/same_as :: [FileClass~MedicalRiskFactor.protect](/_protect/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalRiskFactor.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalRiskFactor.protect|FileClass~MedicalRiskFactor.protect]] 
 
-### #is_/same_as :: [FileClass~MedicalRiskFactor.private](/_private/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalRiskFactor.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalRiskFactor.private|FileClass~MedicalRiskFactor.private]] 
 
-### #is_/same_as :: [FileClass~MedicalRiskFactor.personal](/_personal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalRiskFactor.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalRiskFactor.personal|FileClass~MedicalRiskFactor.personal]] 
 
-### #is_/same_as :: [FileClass~MedicalRiskFactor.secret](/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalRiskFactor.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalRiskFactor.secret|FileClass~MedicalRiskFactor.secret]] 
 

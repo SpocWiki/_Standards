@@ -118,17 +118,17 @@ Libris_URI: tr5774gc3th392d
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Chanel,Coco](/_Standards/Technology/Tool/Clothing/Fashion/Chanel,Coco.md) 
+### #is_/same_as :: [[/_Standards/Technology/Tool/Clothing/Fashion/Chanel,Coco|Chanel,Coco]] 
 
-### #is_/same_as :: [Chanel,Coco.public](/_public/Technology/Tool/Clothing/Fashion/Chanel,Coco.public.md) 
+### #is_/same_as :: [[/_public/Technology/Tool/Clothing/Fashion/Chanel,Coco.public|Chanel,Coco.public]] 
 
-### #is_/same_as :: [Chanel,Coco.internal](/_internal/Technology/Tool/Clothing/Fashion/Chanel,Coco.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Tool/Clothing/Fashion/Chanel,Coco.internal|Chanel,Coco.internal]] 
 
-### #is_/same_as :: [Chanel,Coco.protect](/_protect/Technology/Tool/Clothing/Fashion/Chanel,Coco.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Tool/Clothing/Fashion/Chanel,Coco.protect|Chanel,Coco.protect]] 
 
-### #is_/same_as :: [Chanel,Coco.private](/_private/Technology/Tool/Clothing/Fashion/Chanel,Coco.private.md) 
+### #is_/same_as :: [[/_private/Technology/Tool/Clothing/Fashion/Chanel,Coco.private|Chanel,Coco.private]] 
 
-### #is_/same_as :: [Chanel,Coco.personal](/_personal/Technology/Tool/Clothing/Fashion/Chanel,Coco.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Tool/Clothing/Fashion/Chanel,Coco.personal|Chanel,Coco.personal]] 
 
-### #is_/same_as :: [Chanel,Coco.secret](/_secret/Technology/Tool/Clothing/Fashion/Chanel,Coco.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Tool/Clothing/Fashion/Chanel,Coco.secret|Chanel,Coco.secret]] 
 

@@ -37,17 +37,17 @@ A short segment/part of a video game.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~VideoGameClip](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Clip/FileClass~VideoGameClip.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Clip/FileClass~VideoGameClip|FileClass~VideoGameClip]] 
 
-### #is_/same_as :: [FileClass~VideoGameClip.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Clip/FileClass~VideoGameClip.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Clip/FileClass~VideoGameClip.public|FileClass~VideoGameClip.public]] 
 
-### #is_/same_as :: [FileClass~VideoGameClip.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Clip/FileClass~VideoGameClip.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Clip/FileClass~VideoGameClip.internal|FileClass~VideoGameClip.internal]] 
 
-### #is_/same_as :: [FileClass~VideoGameClip.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Clip/FileClass~VideoGameClip.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Clip/FileClass~VideoGameClip.protect|FileClass~VideoGameClip.protect]] 
 
-### #is_/same_as :: [FileClass~VideoGameClip.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Clip/FileClass~VideoGameClip.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Clip/FileClass~VideoGameClip.private|FileClass~VideoGameClip.private]] 
 
-### #is_/same_as :: [FileClass~VideoGameClip.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Clip/FileClass~VideoGameClip.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Clip/FileClass~VideoGameClip.personal|FileClass~VideoGameClip.personal]] 
 
-### #is_/same_as :: [FileClass~VideoGameClip.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Clip/FileClass~VideoGameClip.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Clip/FileClass~VideoGameClip.secret|FileClass~VideoGameClip.secret]] 
 

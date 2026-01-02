@@ -103,17 +103,17 @@ Krugosvet_article_archived_: medicina/BRONHIT.html
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bronchitis](/_Standards/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Bronchitis.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Bronchitis|Bronchitis]] 
 
-### #is_/same_as :: [Bronchitis.public](/_public/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Bronchitis.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Bronchitis.public|Bronchitis.public]] 
 
-### #is_/same_as :: [Bronchitis.internal](/_internal/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Bronchitis.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Bronchitis.internal|Bronchitis.internal]] 
 
-### #is_/same_as :: [Bronchitis.protect](/_protect/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Bronchitis.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Bronchitis.protect|Bronchitis.protect]] 
 
-### #is_/same_as :: [Bronchitis.private](/_private/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Bronchitis.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Bronchitis.private|Bronchitis.private]] 
 
-### #is_/same_as :: [Bronchitis.personal](/_personal/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Bronchitis.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Bronchitis.personal|Bronchitis.personal]] 
 
-### #is_/same_as :: [Bronchitis.secret](/_secret/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Bronchitis.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Bronchitis.secret|Bronchitis.secret]] 
 

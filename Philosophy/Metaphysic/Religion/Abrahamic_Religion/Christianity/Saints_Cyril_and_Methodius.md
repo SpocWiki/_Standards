@@ -50,17 +50,17 @@ Commons_category: Saints Cyril and Methodius
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Saints_Cyril_and_Methodius](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Saints_Cyril_and_Methodius.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Saints_Cyril_and_Methodius|Saints_Cyril_and_Methodius]] 
 
-### #is_/same_as :: [Saints_Cyril_and_Methodius.public](/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Saints_Cyril_and_Methodius.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Saints_Cyril_and_Methodius.public|Saints_Cyril_and_Methodius.public]] 
 
-### #is_/same_as :: [Saints_Cyril_and_Methodius.internal](/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Saints_Cyril_and_Methodius.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Saints_Cyril_and_Methodius.internal|Saints_Cyril_and_Methodius.internal]] 
 
-### #is_/same_as :: [Saints_Cyril_and_Methodius.protect](/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Saints_Cyril_and_Methodius.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Saints_Cyril_and_Methodius.protect|Saints_Cyril_and_Methodius.protect]] 
 
-### #is_/same_as :: [Saints_Cyril_and_Methodius.private](/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Saints_Cyril_and_Methodius.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Saints_Cyril_and_Methodius.private|Saints_Cyril_and_Methodius.private]] 
 
-### #is_/same_as :: [Saints_Cyril_and_Methodius.personal](/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Saints_Cyril_and_Methodius.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Saints_Cyril_and_Methodius.personal|Saints_Cyril_and_Methodius.personal]] 
 
-### #is_/same_as :: [Saints_Cyril_and_Methodius.secret](/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Saints_Cyril_and_Methodius.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Saints_Cyril_and_Methodius.secret|Saints_Cyril_and_Methodius.secret]] 
 

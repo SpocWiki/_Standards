@@ -45,17 +45,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_pregnancy_warning](/_Standards/schema-org/Property/Texts/has_pregnancy_warning.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/Texts/has_pregnancy_warning|has_pregnancy_warning]] 
 
-### #is_/same_as :: [has_pregnancy_warning.public](/_public/schema-org/Property/Texts/has_pregnancy_warning.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/Texts/has_pregnancy_warning.public|has_pregnancy_warning.public]] 
 
-### #is_/same_as :: [has_pregnancy_warning.internal](/_internal/schema-org/Property/Texts/has_pregnancy_warning.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/Texts/has_pregnancy_warning.internal|has_pregnancy_warning.internal]] 
 
-### #is_/same_as :: [has_pregnancy_warning.protect](/_protect/schema-org/Property/Texts/has_pregnancy_warning.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/Texts/has_pregnancy_warning.protect|has_pregnancy_warning.protect]] 
 
-### #is_/same_as :: [has_pregnancy_warning.private](/_private/schema-org/Property/Texts/has_pregnancy_warning.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/Texts/has_pregnancy_warning.private|has_pregnancy_warning.private]] 
 
-### #is_/same_as :: [has_pregnancy_warning.personal](/_personal/schema-org/Property/Texts/has_pregnancy_warning.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/Texts/has_pregnancy_warning.personal|has_pregnancy_warning.personal]] 
 
-### #is_/same_as :: [has_pregnancy_warning.secret](/_secret/schema-org/Property/Texts/has_pregnancy_warning.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/Texts/has_pregnancy_warning.secret|has_pregnancy_warning.secret]] 
 

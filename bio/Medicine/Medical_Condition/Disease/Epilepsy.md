@@ -156,17 +156,17 @@ Baidu_Tieba_name: 癫痫
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Epilepsy](/_Standards/bio/Medicine/Medical_Condition/Disease/Epilepsy.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Condition/Disease/Epilepsy|Epilepsy]] 
 
-### #is_/same_as :: [Epilepsy.public](/_public/bio/Medicine/Medical_Condition/Disease/Epilepsy.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Condition/Disease/Epilepsy.public|Epilepsy.public]] 
 
-### #is_/same_as :: [Epilepsy.internal](/_internal/bio/Medicine/Medical_Condition/Disease/Epilepsy.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Condition/Disease/Epilepsy.internal|Epilepsy.internal]] 
 
-### #is_/same_as :: [Epilepsy.protect](/_protect/bio/Medicine/Medical_Condition/Disease/Epilepsy.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Condition/Disease/Epilepsy.protect|Epilepsy.protect]] 
 
-### #is_/same_as :: [Epilepsy.private](/_private/bio/Medicine/Medical_Condition/Disease/Epilepsy.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Condition/Disease/Epilepsy.private|Epilepsy.private]] 
 
-### #is_/same_as :: [Epilepsy.personal](/_personal/bio/Medicine/Medical_Condition/Disease/Epilepsy.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Condition/Disease/Epilepsy.personal|Epilepsy.personal]] 
 
-### #is_/same_as :: [Epilepsy.secret](/_secret/bio/Medicine/Medical_Condition/Disease/Epilepsy.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Condition/Disease/Epilepsy.secret|Epilepsy.secret]] 
 

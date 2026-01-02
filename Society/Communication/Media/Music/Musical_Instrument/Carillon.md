@@ -61,17 +61,17 @@ Krugosvet_article: muzyka/kariyon
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Carillon](/_Standards/Society/Communication/Media/Music/Musical_Instrument/Carillon.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Musical_Instrument/Carillon|Carillon]] 
 
-### #is_/same_as :: [Carillon.public](/_public/Society/Communication/Media/Music/Musical_Instrument/Carillon.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Musical_Instrument/Carillon.public|Carillon.public]] 
 
-### #is_/same_as :: [Carillon.internal](/_internal/Society/Communication/Media/Music/Musical_Instrument/Carillon.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Musical_Instrument/Carillon.internal|Carillon.internal]] 
 
-### #is_/same_as :: [Carillon.protect](/_protect/Society/Communication/Media/Music/Musical_Instrument/Carillon.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Musical_Instrument/Carillon.protect|Carillon.protect]] 
 
-### #is_/same_as :: [Carillon.private](/_private/Society/Communication/Media/Music/Musical_Instrument/Carillon.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Musical_Instrument/Carillon.private|Carillon.private]] 
 
-### #is_/same_as :: [Carillon.personal](/_personal/Society/Communication/Media/Music/Musical_Instrument/Carillon.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Musical_Instrument/Carillon.personal|Carillon.personal]] 
 
-### #is_/same_as :: [Carillon.secret](/_secret/Society/Communication/Media/Music/Musical_Instrument/Carillon.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Musical_Instrument/Carillon.secret|Carillon.secret]] 
 

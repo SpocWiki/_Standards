@@ -67,7 +67,7 @@ turtles and teleost fish and use crustaceans as intermediate hosts. More
 detail is available on the [Life cycles](http://www.tolweb.org/accessory/Amphilinidea_Life_Cycles?acc_id=1776)
 page. They have 10 hooks of several types at the posterior end (Fig.1),
 and a posteriorly located large seminal receptacle and ovary.
-![ ](Amphilinidea/fig6am.gif))
+![ ](Amphilinidea/fig6am.gif) 
 
 Figure 1. Hooks of larval *Amphilina foliacea*. a. Arrangement of hooks
 in the larva, b. Shape of hooks in greater detail (redrawn from
@@ -77,7 +77,7 @@ The uterus extends from the ovary to the anterior end, back again to the
 posterior end, and forward to open at the anterior end. Small follicular
 yolk glands and testes are scattered over large parts of the body.
 Amphilinids lack an intestine (Fig. 2).
-![ ](Amphilinidea/fig14am.gif))
+![ ](Amphilinidea/fig14am.gif) 
 
 Figure 2. Juvenile *Amphilina foliacea*. Note uterine opening at
 anterior end, and vaginal and male pores at posterior end (redrawn from
@@ -156,17 +156,17 @@ Copyright ::            © 1998 [Klaus Rohde](http://metz.une.edu.au/%7Ekrohde/)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Amphilinidea](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Platyhelminthes/Cestodaria/Amphilinidea.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Platyhelminthes/Cestodaria/Amphilinidea|Amphilinidea]] 
 
-### #is_/same_as :: [Amphilinidea.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Platyhelminthes/Cestodaria/Amphilinidea.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Platyhelminthes/Cestodaria/Amphilinidea.public|Amphilinidea.public]] 
 
-### #is_/same_as :: [Amphilinidea.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Platyhelminthes/Cestodaria/Amphilinidea.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Platyhelminthes/Cestodaria/Amphilinidea.internal|Amphilinidea.internal]] 
 
-### #is_/same_as :: [Amphilinidea.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Platyhelminthes/Cestodaria/Amphilinidea.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Platyhelminthes/Cestodaria/Amphilinidea.protect|Amphilinidea.protect]] 
 
-### #is_/same_as :: [Amphilinidea.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Platyhelminthes/Cestodaria/Amphilinidea.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Platyhelminthes/Cestodaria/Amphilinidea.private|Amphilinidea.private]] 
 
-### #is_/same_as :: [Amphilinidea.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Platyhelminthes/Cestodaria/Amphilinidea.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Platyhelminthes/Cestodaria/Amphilinidea.personal|Amphilinidea.personal]] 
 
-### #is_/same_as :: [Amphilinidea.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Platyhelminthes/Cestodaria/Amphilinidea.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Platyhelminthes/Cestodaria/Amphilinidea.secret|Amphilinidea.secret]] 
 

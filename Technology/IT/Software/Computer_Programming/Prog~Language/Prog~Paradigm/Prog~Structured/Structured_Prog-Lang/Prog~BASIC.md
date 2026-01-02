@@ -73,17 +73,17 @@ The new language was heavily patterned on FORTRAN II; statements were one-to-a-l
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Prog~BASIC](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structured_Prog-Lang/Prog~BASIC.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structured_Prog-Lang/Prog~BASIC|Prog~BASIC]] 
 
-### #is_/same_as :: [Prog~BASIC.public](/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structured_Prog-Lang/Prog~BASIC.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structured_Prog-Lang/Prog~BASIC.public|Prog~BASIC.public]] 
 
-### #is_/same_as :: [Prog~BASIC.internal](/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structured_Prog-Lang/Prog~BASIC.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structured_Prog-Lang/Prog~BASIC.internal|Prog~BASIC.internal]] 
 
-### #is_/same_as :: [Prog~BASIC.protect](/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structured_Prog-Lang/Prog~BASIC.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structured_Prog-Lang/Prog~BASIC.protect|Prog~BASIC.protect]] 
 
-### #is_/same_as :: [Prog~BASIC.private](/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structured_Prog-Lang/Prog~BASIC.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structured_Prog-Lang/Prog~BASIC.private|Prog~BASIC.private]] 
 
-### #is_/same_as :: [Prog~BASIC.personal](/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structured_Prog-Lang/Prog~BASIC.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structured_Prog-Lang/Prog~BASIC.personal|Prog~BASIC.personal]] 
 
-### #is_/same_as :: [Prog~BASIC.secret](/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structured_Prog-Lang/Prog~BASIC.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structured_Prog-Lang/Prog~BASIC.secret|Prog~BASIC.secret]] 
 

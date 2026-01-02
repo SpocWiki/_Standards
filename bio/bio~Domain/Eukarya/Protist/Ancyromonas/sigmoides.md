@@ -58,14 +58,14 @@ London.
 
 ## Title Illustrations
 
-![](sigmoides/fancyrosig.gif))
+![](sigmoides/fancyrosig.gif) 
 
   --------------------------------------------------------------------------------
   Scientific Name ::  Ancyromonas sigmoides
   Copyright ::         © 2000 [David J. Patterson](http://www.bio.usyd.edu.au/Protsvil/index.htm) 
  
   --------------------------------------------------------------------------------
-![](sigmoides/pancyrosc.jpg))
+![](sigmoides/pancyrosc.jpg) 
 
   ---------------------------------------------------------------------------------
   Scientific Name ::     Ancyromonas sigmoides
@@ -78,17 +78,17 @@ London.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [sigmoides](/_Standards/bio/bio~Domain/Eukarya/Protist/Ancyromonas/sigmoides.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Protist/Ancyromonas/sigmoides|sigmoides]] 
 
-### #is_/same_as :: [sigmoides.public](/_public/bio/bio~Domain/Eukarya/Protist/Ancyromonas/sigmoides.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Protist/Ancyromonas/sigmoides.public|sigmoides.public]] 
 
-### #is_/same_as :: [sigmoides.internal](/_internal/bio/bio~Domain/Eukarya/Protist/Ancyromonas/sigmoides.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Protist/Ancyromonas/sigmoides.internal|sigmoides.internal]] 
 
-### #is_/same_as :: [sigmoides.protect](/_protect/bio/bio~Domain/Eukarya/Protist/Ancyromonas/sigmoides.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Protist/Ancyromonas/sigmoides.protect|sigmoides.protect]] 
 
-### #is_/same_as :: [sigmoides.private](/_private/bio/bio~Domain/Eukarya/Protist/Ancyromonas/sigmoides.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Protist/Ancyromonas/sigmoides.private|sigmoides.private]] 
 
-### #is_/same_as :: [sigmoides.personal](/_personal/bio/bio~Domain/Eukarya/Protist/Ancyromonas/sigmoides.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Protist/Ancyromonas/sigmoides.personal|sigmoides.personal]] 
 
-### #is_/same_as :: [sigmoides.secret](/_secret/bio/bio~Domain/Eukarya/Protist/Ancyromonas/sigmoides.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Protist/Ancyromonas/sigmoides.secret|sigmoides.secret]] 
 

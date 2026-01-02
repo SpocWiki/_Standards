@@ -70,17 +70,17 @@ Unicode_character: 🏅
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Medallion](/_Standards/Technology/Tool/Clothing/Fashion/Jewelry/Medallion.md) 
+### #is_/same_as :: [[/_Standards/Technology/Tool/Clothing/Fashion/Jewelry/Medallion|Medallion]] 
 
-### #is_/same_as :: [Medallion.public](/_public/Technology/Tool/Clothing/Fashion/Jewelry/Medallion.public.md) 
+### #is_/same_as :: [[/_public/Technology/Tool/Clothing/Fashion/Jewelry/Medallion.public|Medallion.public]] 
 
-### #is_/same_as :: [Medallion.internal](/_internal/Technology/Tool/Clothing/Fashion/Jewelry/Medallion.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Tool/Clothing/Fashion/Jewelry/Medallion.internal|Medallion.internal]] 
 
-### #is_/same_as :: [Medallion.protect](/_protect/Technology/Tool/Clothing/Fashion/Jewelry/Medallion.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Tool/Clothing/Fashion/Jewelry/Medallion.protect|Medallion.protect]] 
 
-### #is_/same_as :: [Medallion.private](/_private/Technology/Tool/Clothing/Fashion/Jewelry/Medallion.private.md) 
+### #is_/same_as :: [[/_private/Technology/Tool/Clothing/Fashion/Jewelry/Medallion.private|Medallion.private]] 
 
-### #is_/same_as :: [Medallion.personal](/_personal/Technology/Tool/Clothing/Fashion/Jewelry/Medallion.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Tool/Clothing/Fashion/Jewelry/Medallion.personal|Medallion.personal]] 
 
-### #is_/same_as :: [Medallion.secret](/_secret/Technology/Tool/Clothing/Fashion/Jewelry/Medallion.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Tool/Clothing/Fashion/Jewelry/Medallion.secret|Medallion.secret]] 
 

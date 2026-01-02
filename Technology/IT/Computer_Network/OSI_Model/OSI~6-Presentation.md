@@ -23,17 +23,17 @@ Stack_Exchange_tag: https://stackoverflow.com/tags/presentation-layer
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [OSI~6-Presentation](/_Standards/Technology/IT/Computer_Network/OSI_Model/OSI~6-Presentation.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Computer_Network/OSI_Model/OSI~6-Presentation|OSI~6-Presentation]] 
 
-### #is_/same_as :: [OSI~6-Presentation.public](/_public/Technology/IT/Computer_Network/OSI_Model/OSI~6-Presentation.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Computer_Network/OSI_Model/OSI~6-Presentation.public|OSI~6-Presentation.public]] 
 
-### #is_/same_as :: [OSI~6-Presentation.internal](/_internal/Technology/IT/Computer_Network/OSI_Model/OSI~6-Presentation.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Computer_Network/OSI_Model/OSI~6-Presentation.internal|OSI~6-Presentation.internal]] 
 
-### #is_/same_as :: [OSI~6-Presentation.protect](/_protect/Technology/IT/Computer_Network/OSI_Model/OSI~6-Presentation.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Computer_Network/OSI_Model/OSI~6-Presentation.protect|OSI~6-Presentation.protect]] 
 
-### #is_/same_as :: [OSI~6-Presentation.private](/_private/Technology/IT/Computer_Network/OSI_Model/OSI~6-Presentation.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Computer_Network/OSI_Model/OSI~6-Presentation.private|OSI~6-Presentation.private]] 
 
-### #is_/same_as :: [OSI~6-Presentation.personal](/_personal/Technology/IT/Computer_Network/OSI_Model/OSI~6-Presentation.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Computer_Network/OSI_Model/OSI~6-Presentation.personal|OSI~6-Presentation.personal]] 
 
-### #is_/same_as :: [OSI~6-Presentation.secret](/_secret/Technology/IT/Computer_Network/OSI_Model/OSI~6-Presentation.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Computer_Network/OSI_Model/OSI~6-Presentation.secret|OSI~6-Presentation.secret]] 
 

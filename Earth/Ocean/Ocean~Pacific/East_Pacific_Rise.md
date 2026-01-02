@@ -26,17 +26,17 @@ Commons_category: East Pacific Rise
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [East_Pacific_Rise](/_Standards/Earth/Ocean/Ocean~Pacific/East_Pacific_Rise.md) 
+### #is_/same_as :: [[/_Standards/Earth/Ocean/Ocean~Pacific/East_Pacific_Rise|East_Pacific_Rise]] 
 
-### #is_/same_as :: [East_Pacific_Rise.public](/_public/Earth/Ocean/Ocean~Pacific/East_Pacific_Rise.public.md) 
+### #is_/same_as :: [[/_public/Earth/Ocean/Ocean~Pacific/East_Pacific_Rise.public|East_Pacific_Rise.public]] 
 
-### #is_/same_as :: [East_Pacific_Rise.internal](/_internal/Earth/Ocean/Ocean~Pacific/East_Pacific_Rise.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Ocean/Ocean~Pacific/East_Pacific_Rise.internal|East_Pacific_Rise.internal]] 
 
-### #is_/same_as :: [East_Pacific_Rise.protect](/_protect/Earth/Ocean/Ocean~Pacific/East_Pacific_Rise.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Ocean/Ocean~Pacific/East_Pacific_Rise.protect|East_Pacific_Rise.protect]] 
 
-### #is_/same_as :: [East_Pacific_Rise.private](/_private/Earth/Ocean/Ocean~Pacific/East_Pacific_Rise.private.md) 
+### #is_/same_as :: [[/_private/Earth/Ocean/Ocean~Pacific/East_Pacific_Rise.private|East_Pacific_Rise.private]] 
 
-### #is_/same_as :: [East_Pacific_Rise.personal](/_personal/Earth/Ocean/Ocean~Pacific/East_Pacific_Rise.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Ocean/Ocean~Pacific/East_Pacific_Rise.personal|East_Pacific_Rise.personal]] 
 
-### #is_/same_as :: [East_Pacific_Rise.secret](/_secret/Earth/Ocean/Ocean~Pacific/East_Pacific_Rise.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Ocean/Ocean~Pacific/East_Pacific_Rise.secret|East_Pacific_Rise.secret]] 
 

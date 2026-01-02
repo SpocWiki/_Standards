@@ -105,17 +105,17 @@ GRIN_URL: https://npgsweb.ars-grin.gov/gringlobal/taxonomydetail.aspx?id=32518
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Rumex_acetosa](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Caryophyllales/Polygonaceae/Polygonoideae/Rumiceae/Rumex/Rumex_acetosa.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Caryophyllales/Polygonaceae/Polygonoideae/Rumiceae/Rumex/Rumex_acetosa|Rumex_acetosa]] 
 
-### #is_/same_as :: [Rumex_acetosa.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Caryophyllales/Polygonaceae/Polygonoideae/Rumiceae/Rumex/Rumex_acetosa.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Caryophyllales/Polygonaceae/Polygonoideae/Rumiceae/Rumex/Rumex_acetosa.public|Rumex_acetosa.public]] 
 
-### #is_/same_as :: [Rumex_acetosa.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Caryophyllales/Polygonaceae/Polygonoideae/Rumiceae/Rumex/Rumex_acetosa.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Caryophyllales/Polygonaceae/Polygonoideae/Rumiceae/Rumex/Rumex_acetosa.internal|Rumex_acetosa.internal]] 
 
-### #is_/same_as :: [Rumex_acetosa.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Caryophyllales/Polygonaceae/Polygonoideae/Rumiceae/Rumex/Rumex_acetosa.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Caryophyllales/Polygonaceae/Polygonoideae/Rumiceae/Rumex/Rumex_acetosa.protect|Rumex_acetosa.protect]] 
 
-### #is_/same_as :: [Rumex_acetosa.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Caryophyllales/Polygonaceae/Polygonoideae/Rumiceae/Rumex/Rumex_acetosa.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Caryophyllales/Polygonaceae/Polygonoideae/Rumiceae/Rumex/Rumex_acetosa.private|Rumex_acetosa.private]] 
 
-### #is_/same_as :: [Rumex_acetosa.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Caryophyllales/Polygonaceae/Polygonoideae/Rumiceae/Rumex/Rumex_acetosa.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Caryophyllales/Polygonaceae/Polygonoideae/Rumiceae/Rumex/Rumex_acetosa.personal|Rumex_acetosa.personal]] 
 
-### #is_/same_as :: [Rumex_acetosa.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Caryophyllales/Polygonaceae/Polygonoideae/Rumiceae/Rumex/Rumex_acetosa.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Caryophyllales/Polygonaceae/Polygonoideae/Rumiceae/Rumex/Rumex_acetosa.secret|Rumex_acetosa.secret]] 
 

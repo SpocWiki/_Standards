@@ -537,17 +537,17 @@ Capital :: [[Kenya/Counties/Nairobi.County]]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Kenya](/_Standards/Earth/Continent/Africa/Africa~East/Kenya.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~East/Kenya|Kenya]] 
 
-### #is_/same_as :: [Kenya.public](/_public/Earth/Continent/Africa/Africa~East/Kenya.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~East/Kenya.public|Kenya.public]] 
 
-### #is_/same_as :: [Kenya.internal](/_internal/Earth/Continent/Africa/Africa~East/Kenya.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~East/Kenya.internal|Kenya.internal]] 
 
-### #is_/same_as :: [Kenya.protect](/_protect/Earth/Continent/Africa/Africa~East/Kenya.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~East/Kenya.protect|Kenya.protect]] 
 
-### #is_/same_as :: [Kenya.private](/_private/Earth/Continent/Africa/Africa~East/Kenya.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~East/Kenya.private|Kenya.private]] 
 
-### #is_/same_as :: [Kenya.personal](/_personal/Earth/Continent/Africa/Africa~East/Kenya.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~East/Kenya.personal|Kenya.personal]] 
 
-### #is_/same_as :: [Kenya.secret](/_secret/Earth/Continent/Africa/Africa~East/Kenya.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~East/Kenya.secret|Kenya.secret]] 
 

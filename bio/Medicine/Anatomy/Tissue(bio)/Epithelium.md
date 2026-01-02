@@ -48,17 +48,17 @@ Terminologia_Histologica: H2.00.02.0.00002
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Epithelium](/_Standards/bio/Medicine/Anatomy/Tissue(bio)/Epithelium.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Anatomy/Tissue(bio)/Epithelium|Epithelium]] 
 
-### #is_/same_as :: [Epithelium.public](/_public/bio/Medicine/Anatomy/Tissue(bio)/Epithelium.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Anatomy/Tissue(bio)/Epithelium.public|Epithelium.public]] 
 
-### #is_/same_as :: [Epithelium.internal](/_internal/bio/Medicine/Anatomy/Tissue(bio)/Epithelium.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Anatomy/Tissue(bio)/Epithelium.internal|Epithelium.internal]] 
 
-### #is_/same_as :: [Epithelium.protect](/_protect/bio/Medicine/Anatomy/Tissue(bio)/Epithelium.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Anatomy/Tissue(bio)/Epithelium.protect|Epithelium.protect]] 
 
-### #is_/same_as :: [Epithelium.private](/_private/bio/Medicine/Anatomy/Tissue(bio)/Epithelium.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Anatomy/Tissue(bio)/Epithelium.private|Epithelium.private]] 
 
-### #is_/same_as :: [Epithelium.personal](/_personal/bio/Medicine/Anatomy/Tissue(bio)/Epithelium.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Anatomy/Tissue(bio)/Epithelium.personal|Epithelium.personal]] 
 
-### #is_/same_as :: [Epithelium.secret](/_secret/bio/Medicine/Anatomy/Tissue(bio)/Epithelium.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Anatomy/Tissue(bio)/Epithelium.secret|Epithelium.secret]] 
 

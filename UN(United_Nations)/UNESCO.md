@@ -172,17 +172,17 @@ X_Twitter_username:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [UNESCO](/_Standards/UN(United_Nations)/UNESCO.md) 
+### #is_/same_as :: [[/_Standards/UN(United_Nations)/UNESCO|UNESCO]] 
 
-### #is_/same_as :: [UNESCO.public](/_public/UN(United_Nations)/UNESCO.public.md) 
+### #is_/same_as :: [[/_public/UN(United_Nations)/UNESCO.public|UNESCO.public]] 
 
-### #is_/same_as :: [UNESCO.internal](/_internal/UN(United_Nations)/UNESCO.internal.md) 
+### #is_/same_as :: [[/_internal/UN(United_Nations)/UNESCO.internal|UNESCO.internal]] 
 
-### #is_/same_as :: [UNESCO.protect](/_protect/UN(United_Nations)/UNESCO.protect.md) 
+### #is_/same_as :: [[/_protect/UN(United_Nations)/UNESCO.protect|UNESCO.protect]] 
 
-### #is_/same_as :: [UNESCO.private](/_private/UN(United_Nations)/UNESCO.private.md) 
+### #is_/same_as :: [[/_private/UN(United_Nations)/UNESCO.private|UNESCO.private]] 
 
-### #is_/same_as :: [UNESCO.personal](/_personal/UN(United_Nations)/UNESCO.personal.md) 
+### #is_/same_as :: [[/_personal/UN(United_Nations)/UNESCO.personal|UNESCO.personal]] 
 
-### #is_/same_as :: [UNESCO.secret](/_secret/UN(United_Nations)/UNESCO.secret.md)
+### #is_/same_as :: [[/_secret/UN(United_Nations)/UNESCO.secret|UNESCO.secret]] 
 

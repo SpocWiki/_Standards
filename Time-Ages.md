@@ -12,17 +12,17 @@ Ages of different Planets like Mars are described there.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Time-Ages](/_Standards/Time-Ages.md) 
+### #is_/same_as :: [[/_Standards/Time-Ages|Time-Ages]] 
 
-### #is_/same_as :: [Time-Ages.public](/_public/Time-Ages.public.md) 
+### #is_/same_as :: [[/_public/Time-Ages.public|Time-Ages.public]] 
 
-### #is_/same_as :: [Time-Ages.internal](/_internal/Time-Ages.internal.md) 
+### #is_/same_as :: [[/_internal/Time-Ages.internal|Time-Ages.internal]] 
 
-### #is_/same_as :: [Time-Ages.protect](/_protect/Time-Ages.protect.md) 
+### #is_/same_as :: [[/_protect/Time-Ages.protect|Time-Ages.protect]] 
 
-### #is_/same_as :: [Time-Ages.private](/_private/Time-Ages.private.md) 
+### #is_/same_as :: [[/_private/Time-Ages.private|Time-Ages.private]] 
 
-### #is_/same_as :: [Time-Ages.personal](/_personal/Time-Ages.personal.md) 
+### #is_/same_as :: [[/_personal/Time-Ages.personal|Time-Ages.personal]] 
 
-### #is_/same_as :: [Time-Ages.secret](/_secret/Time-Ages.secret.md)
+### #is_/same_as :: [[/_secret/Time-Ages.secret|Time-Ages.secret]] 
 

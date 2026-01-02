@@ -58,17 +58,17 @@ Krugosvet_article: fizika/kristally
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Crystal](/_Standards/Science/Physics/State_of_Matter/Solid/Crystal.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/State_of_Matter/Solid/Crystal|Crystal]] 
 
-### #is_/same_as :: [Crystal.public](/_public/Science/Physics/State_of_Matter/Solid/Crystal.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/State_of_Matter/Solid/Crystal.public|Crystal.public]] 
 
-### #is_/same_as :: [Crystal.internal](/_internal/Science/Physics/State_of_Matter/Solid/Crystal.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/State_of_Matter/Solid/Crystal.internal|Crystal.internal]] 
 
-### #is_/same_as :: [Crystal.protect](/_protect/Science/Physics/State_of_Matter/Solid/Crystal.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/State_of_Matter/Solid/Crystal.protect|Crystal.protect]] 
 
-### #is_/same_as :: [Crystal.private](/_private/Science/Physics/State_of_Matter/Solid/Crystal.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/State_of_Matter/Solid/Crystal.private|Crystal.private]] 
 
-### #is_/same_as :: [Crystal.personal](/_personal/Science/Physics/State_of_Matter/Solid/Crystal.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/State_of_Matter/Solid/Crystal.personal|Crystal.personal]] 
 
-### #is_/same_as :: [Crystal.secret](/_secret/Science/Physics/State_of_Matter/Solid/Crystal.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/State_of_Matter/Solid/Crystal.secret|Crystal.secret]] 
 

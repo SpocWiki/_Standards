@@ -151,17 +151,17 @@ Facebook_username: lechwalesa
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lech_Wałęsa](/_Standards/Society/Politics/Government/Leader/Modern_Leaders/Lech_Wałęsa.md) 
+### #is_/same_as :: [[/_Standards/Society/Politics/Government/Leader/Modern_Leaders/Lech_Wałęsa|Lech_Wałęsa]] 
 
-### #is_/same_as :: [Lech_Wałęsa.public](/_public/Society/Politics/Government/Leader/Modern_Leaders/Lech_Wałęsa.public.md) 
+### #is_/same_as :: [[/_public/Society/Politics/Government/Leader/Modern_Leaders/Lech_Wałęsa.public|Lech_Wałęsa.public]] 
 
-### #is_/same_as :: [Lech_Wałęsa.internal](/_internal/Society/Politics/Government/Leader/Modern_Leaders/Lech_Wałęsa.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Politics/Government/Leader/Modern_Leaders/Lech_Wałęsa.internal|Lech_Wałęsa.internal]] 
 
-### #is_/same_as :: [Lech_Wałęsa.protect](/_protect/Society/Politics/Government/Leader/Modern_Leaders/Lech_Wałęsa.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Politics/Government/Leader/Modern_Leaders/Lech_Wałęsa.protect|Lech_Wałęsa.protect]] 
 
-### #is_/same_as :: [Lech_Wałęsa.private](/_private/Society/Politics/Government/Leader/Modern_Leaders/Lech_Wałęsa.private.md) 
+### #is_/same_as :: [[/_private/Society/Politics/Government/Leader/Modern_Leaders/Lech_Wałęsa.private|Lech_Wałęsa.private]] 
 
-### #is_/same_as :: [Lech_Wałęsa.personal](/_personal/Society/Politics/Government/Leader/Modern_Leaders/Lech_Wałęsa.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Politics/Government/Leader/Modern_Leaders/Lech_Wałęsa.personal|Lech_Wałęsa.personal]] 
 
-### #is_/same_as :: [Lech_Wałęsa.secret](/_secret/Society/Politics/Government/Leader/Modern_Leaders/Lech_Wałęsa.secret.md)
+### #is_/same_as :: [[/_secret/Society/Politics/Government/Leader/Modern_Leaders/Lech_Wałęsa.secret|Lech_Wałęsa.secret]] 
 

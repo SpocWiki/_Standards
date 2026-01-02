@@ -43,17 +43,17 @@ As a [[LocalBusiness]] it can be described as a [[provider]] of one or more [[..
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Accounting_Service](/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Financial_Service/Accounting_Service.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Financial_Service/Accounting_Service|Accounting_Service]] 
 
-### #is_/same_as :: [Accounting_Service.public](/_public/Society/Agent/Community/Organization/Business/Local_Business/Financial_Service/Accounting_Service.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Business/Local_Business/Financial_Service/Accounting_Service.public|Accounting_Service.public]] 
 
-### #is_/same_as :: [Accounting_Service.internal](/_internal/Society/Agent/Community/Organization/Business/Local_Business/Financial_Service/Accounting_Service.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Business/Local_Business/Financial_Service/Accounting_Service.internal|Accounting_Service.internal]] 
 
-### #is_/same_as :: [Accounting_Service.protect](/_protect/Society/Agent/Community/Organization/Business/Local_Business/Financial_Service/Accounting_Service.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Business/Local_Business/Financial_Service/Accounting_Service.protect|Accounting_Service.protect]] 
 
-### #is_/same_as :: [Accounting_Service.private](/_private/Society/Agent/Community/Organization/Business/Local_Business/Financial_Service/Accounting_Service.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Business/Local_Business/Financial_Service/Accounting_Service.private|Accounting_Service.private]] 
 
-### #is_/same_as :: [Accounting_Service.personal](/_personal/Society/Agent/Community/Organization/Business/Local_Business/Financial_Service/Accounting_Service.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Business/Local_Business/Financial_Service/Accounting_Service.personal|Accounting_Service.personal]] 
 
-### #is_/same_as :: [Accounting_Service.secret](/_secret/Society/Agent/Community/Organization/Business/Local_Business/Financial_Service/Accounting_Service.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Business/Local_Business/Financial_Service/Accounting_Service.secret|Accounting_Service.secret]] 
 

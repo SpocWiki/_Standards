@@ -83,17 +83,17 @@ a Distinction similar to that between [[../../Mathematics/Geometry/Position-Vect
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Momentum](/_Standards/Dimension/Linear_Dimension/Momentum.md) 
+### #is_/same_as :: [[/_Standards/Dimension/Linear_Dimension/Momentum|Momentum]] 
 
-### #is_/same_as :: [Momentum.public](/_public/Dimension/Linear_Dimension/Momentum.public.md) 
+### #is_/same_as :: [[/_public/Dimension/Linear_Dimension/Momentum.public|Momentum.public]] 
 
-### #is_/same_as :: [Momentum.internal](/_internal/Dimension/Linear_Dimension/Momentum.internal.md) 
+### #is_/same_as :: [[/_internal/Dimension/Linear_Dimension/Momentum.internal|Momentum.internal]] 
 
-### #is_/same_as :: [Momentum.protect](/_protect/Dimension/Linear_Dimension/Momentum.protect.md) 
+### #is_/same_as :: [[/_protect/Dimension/Linear_Dimension/Momentum.protect|Momentum.protect]] 
 
-### #is_/same_as :: [Momentum.private](/_private/Dimension/Linear_Dimension/Momentum.private.md) 
+### #is_/same_as :: [[/_private/Dimension/Linear_Dimension/Momentum.private|Momentum.private]] 
 
-### #is_/same_as :: [Momentum.personal](/_personal/Dimension/Linear_Dimension/Momentum.personal.md) 
+### #is_/same_as :: [[/_personal/Dimension/Linear_Dimension/Momentum.personal|Momentum.personal]] 
 
-### #is_/same_as :: [Momentum.secret](/_secret/Dimension/Linear_Dimension/Momentum.secret.md)
+### #is_/same_as :: [[/_secret/Dimension/Linear_Dimension/Momentum.secret|Momentum.secret]] 
 

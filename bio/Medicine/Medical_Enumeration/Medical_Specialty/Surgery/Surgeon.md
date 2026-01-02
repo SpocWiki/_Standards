@@ -94,17 +94,17 @@ Dewey_Decimal_Classification: 617.092
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Surgeon](/_Standards/bio/Medicine/Medical_Enumeration/Medical_Specialty/Surgery/Surgeon.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Enumeration/Medical_Specialty/Surgery/Surgeon|Surgeon]] 
 
-### #is_/same_as :: [Surgeon.public](/_public/bio/Medicine/Medical_Enumeration/Medical_Specialty/Surgery/Surgeon.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Enumeration/Medical_Specialty/Surgery/Surgeon.public|Surgeon.public]] 
 
-### #is_/same_as :: [Surgeon.internal](/_internal/bio/Medicine/Medical_Enumeration/Medical_Specialty/Surgery/Surgeon.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Enumeration/Medical_Specialty/Surgery/Surgeon.internal|Surgeon.internal]] 
 
-### #is_/same_as :: [Surgeon.protect](/_protect/bio/Medicine/Medical_Enumeration/Medical_Specialty/Surgery/Surgeon.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Enumeration/Medical_Specialty/Surgery/Surgeon.protect|Surgeon.protect]] 
 
-### #is_/same_as :: [Surgeon.private](/_private/bio/Medicine/Medical_Enumeration/Medical_Specialty/Surgery/Surgeon.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Enumeration/Medical_Specialty/Surgery/Surgeon.private|Surgeon.private]] 
 
-### #is_/same_as :: [Surgeon.personal](/_personal/bio/Medicine/Medical_Enumeration/Medical_Specialty/Surgery/Surgeon.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Enumeration/Medical_Specialty/Surgery/Surgeon.personal|Surgeon.personal]] 
 
-### #is_/same_as :: [Surgeon.secret](/_secret/bio/Medicine/Medical_Enumeration/Medical_Specialty/Surgery/Surgeon.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Enumeration/Medical_Specialty/Surgery/Surgeon.secret|Surgeon.secret]] 
 

@@ -47,17 +47,17 @@ time_of_discovery_or_invention: 1941-01-01T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hook_and_Loop_Fastener](/_Standards/Technology/Tool/Clothing/Hook_and_Loop_Fastener.md) 
+### #is_/same_as :: [[/_Standards/Technology/Tool/Clothing/Hook_and_Loop_Fastener|Hook_and_Loop_Fastener]] 
 
-### #is_/same_as :: [Hook_and_Loop_Fastener.public](/_public/Technology/Tool/Clothing/Hook_and_Loop_Fastener.public.md) 
+### #is_/same_as :: [[/_public/Technology/Tool/Clothing/Hook_and_Loop_Fastener.public|Hook_and_Loop_Fastener.public]] 
 
-### #is_/same_as :: [Hook_and_Loop_Fastener.internal](/_internal/Technology/Tool/Clothing/Hook_and_Loop_Fastener.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Tool/Clothing/Hook_and_Loop_Fastener.internal|Hook_and_Loop_Fastener.internal]] 
 
-### #is_/same_as :: [Hook_and_Loop_Fastener.protect](/_protect/Technology/Tool/Clothing/Hook_and_Loop_Fastener.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Tool/Clothing/Hook_and_Loop_Fastener.protect|Hook_and_Loop_Fastener.protect]] 
 
-### #is_/same_as :: [Hook_and_Loop_Fastener.private](/_private/Technology/Tool/Clothing/Hook_and_Loop_Fastener.private.md) 
+### #is_/same_as :: [[/_private/Technology/Tool/Clothing/Hook_and_Loop_Fastener.private|Hook_and_Loop_Fastener.private]] 
 
-### #is_/same_as :: [Hook_and_Loop_Fastener.personal](/_personal/Technology/Tool/Clothing/Hook_and_Loop_Fastener.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Tool/Clothing/Hook_and_Loop_Fastener.personal|Hook_and_Loop_Fastener.personal]] 
 
-### #is_/same_as :: [Hook_and_Loop_Fastener.secret](/_secret/Technology/Tool/Clothing/Hook_and_Loop_Fastener.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Tool/Clothing/Hook_and_Loop_Fastener.secret|Hook_and_Loop_Fastener.secret]] 
 

@@ -42,17 +42,17 @@ A designation by the US FDA signifying that animal reproduction studies have sho
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Fda_Category_C](/_Standards/bio/Medicine/Medical_Enumeration/Drug_Pregnancy_Category/Fda_Category_C.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Enumeration/Drug_Pregnancy_Category/Fda_Category_C|Fda_Category_C]] 
 
-### #is_/same_as :: [Fda_Category_C.public](/_public/bio/Medicine/Medical_Enumeration/Drug_Pregnancy_Category/Fda_Category_C.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Enumeration/Drug_Pregnancy_Category/Fda_Category_C.public|Fda_Category_C.public]] 
 
-### #is_/same_as :: [Fda_Category_C.internal](/_internal/bio/Medicine/Medical_Enumeration/Drug_Pregnancy_Category/Fda_Category_C.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Enumeration/Drug_Pregnancy_Category/Fda_Category_C.internal|Fda_Category_C.internal]] 
 
-### #is_/same_as :: [Fda_Category_C.protect](/_protect/bio/Medicine/Medical_Enumeration/Drug_Pregnancy_Category/Fda_Category_C.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Enumeration/Drug_Pregnancy_Category/Fda_Category_C.protect|Fda_Category_C.protect]] 
 
-### #is_/same_as :: [Fda_Category_C.private](/_private/bio/Medicine/Medical_Enumeration/Drug_Pregnancy_Category/Fda_Category_C.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Enumeration/Drug_Pregnancy_Category/Fda_Category_C.private|Fda_Category_C.private]] 
 
-### #is_/same_as :: [Fda_Category_C.personal](/_personal/bio/Medicine/Medical_Enumeration/Drug_Pregnancy_Category/Fda_Category_C.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Enumeration/Drug_Pregnancy_Category/Fda_Category_C.personal|Fda_Category_C.personal]] 
 
-### #is_/same_as :: [Fda_Category_C.secret](/_secret/bio/Medicine/Medical_Enumeration/Drug_Pregnancy_Category/Fda_Category_C.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Enumeration/Drug_Pregnancy_Category/Fda_Category_C.secret|Fda_Category_C.secret]] 
 

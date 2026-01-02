@@ -89,17 +89,17 @@ The anatomical location at which two or more bones make contact.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Joint](/_Standards/bio/Medicine/Anatomy/Skeleton/Joint.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Anatomy/Skeleton/Joint|Joint]] 
 
-### #is_/same_as :: [Joint.public](/_public/bio/Medicine/Anatomy/Skeleton/Joint.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Anatomy/Skeleton/Joint.public|Joint.public]] 
 
-### #is_/same_as :: [Joint.internal](/_internal/bio/Medicine/Anatomy/Skeleton/Joint.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Anatomy/Skeleton/Joint.internal|Joint.internal]] 
 
-### #is_/same_as :: [Joint.protect](/_protect/bio/Medicine/Anatomy/Skeleton/Joint.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Anatomy/Skeleton/Joint.protect|Joint.protect]] 
 
-### #is_/same_as :: [Joint.private](/_private/bio/Medicine/Anatomy/Skeleton/Joint.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Anatomy/Skeleton/Joint.private|Joint.private]] 
 
-### #is_/same_as :: [Joint.personal](/_personal/bio/Medicine/Anatomy/Skeleton/Joint.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Anatomy/Skeleton/Joint.personal|Joint.personal]] 
 
-### #is_/same_as :: [Joint.secret](/_secret/bio/Medicine/Anatomy/Skeleton/Joint.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Anatomy/Skeleton/Joint.secret|Joint.secret]] 
 

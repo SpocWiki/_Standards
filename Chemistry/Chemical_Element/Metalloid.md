@@ -50,17 +50,17 @@ Commons_category: Metalloids
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Metalloid](/_Standards/Chemistry/Chemical_Element/Metalloid.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Chemical_Element/Metalloid|Metalloid]] 
 
-### #is_/same_as :: [Metalloid.public](/_public/Chemistry/Chemical_Element/Metalloid.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Chemical_Element/Metalloid.public|Metalloid.public]] 
 
-### #is_/same_as :: [Metalloid.internal](/_internal/Chemistry/Chemical_Element/Metalloid.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Chemical_Element/Metalloid.internal|Metalloid.internal]] 
 
-### #is_/same_as :: [Metalloid.protect](/_protect/Chemistry/Chemical_Element/Metalloid.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Chemical_Element/Metalloid.protect|Metalloid.protect]] 
 
-### #is_/same_as :: [Metalloid.private](/_private/Chemistry/Chemical_Element/Metalloid.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Chemical_Element/Metalloid.private|Metalloid.private]] 
 
-### #is_/same_as :: [Metalloid.personal](/_personal/Chemistry/Chemical_Element/Metalloid.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Chemical_Element/Metalloid.personal|Metalloid.personal]] 
 
-### #is_/same_as :: [Metalloid.secret](/_secret/Chemistry/Chemical_Element/Metalloid.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Chemical_Element/Metalloid.secret|Metalloid.secret]] 
 

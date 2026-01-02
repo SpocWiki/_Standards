@@ -118,17 +118,17 @@ Libris_URI: gdsvpsv01w1kcbk
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Genghis_Khan](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages/CE_1200/Genghis_Khan.md) 
+### #is_/same_as :: [[/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages/CE_1200/Genghis_Khan|Genghis_Khan]] 
 
-### #is_/same_as :: [Genghis_Khan.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages/CE_1200/Genghis_Khan.public.md) 
+### #is_/same_as :: [[/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages/CE_1200/Genghis_Khan.public|Genghis_Khan.public]] 
 
-### #is_/same_as :: [Genghis_Khan.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages/CE_1200/Genghis_Khan.internal.md) 
+### #is_/same_as :: [[/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages/CE_1200/Genghis_Khan.internal|Genghis_Khan.internal]] 
 
-### #is_/same_as :: [Genghis_Khan.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages/CE_1200/Genghis_Khan.protect.md) 
+### #is_/same_as :: [[/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages/CE_1200/Genghis_Khan.protect|Genghis_Khan.protect]] 
 
-### #is_/same_as :: [Genghis_Khan.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages/CE_1200/Genghis_Khan.private.md) 
+### #is_/same_as :: [[/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages/CE_1200/Genghis_Khan.private|Genghis_Khan.private]] 
 
-### #is_/same_as :: [Genghis_Khan.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages/CE_1200/Genghis_Khan.personal.md) 
+### #is_/same_as :: [[/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages/CE_1200/Genghis_Khan.personal|Genghis_Khan.personal]] 
 
-### #is_/same_as :: [Genghis_Khan.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages/CE_1200/Genghis_Khan.secret.md)
+### #is_/same_as :: [[/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages/CE_1200/Genghis_Khan.secret|Genghis_Khan.secret]] 
 

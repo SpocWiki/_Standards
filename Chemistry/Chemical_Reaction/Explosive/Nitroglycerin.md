@@ -175,17 +175,17 @@ World_Health_Organisation_international_non_proprietary_name: glyceryl trinitrat
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Nitroglycerin](/_Standards/Chemistry/Chemical_Reaction/Explosive/Nitroglycerin.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Chemical_Reaction/Explosive/Nitroglycerin|Nitroglycerin]] 
 
-### #is_/same_as :: [Nitroglycerin.public](/_public/Chemistry/Chemical_Reaction/Explosive/Nitroglycerin.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Chemical_Reaction/Explosive/Nitroglycerin.public|Nitroglycerin.public]] 
 
-### #is_/same_as :: [Nitroglycerin.internal](/_internal/Chemistry/Chemical_Reaction/Explosive/Nitroglycerin.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Chemical_Reaction/Explosive/Nitroglycerin.internal|Nitroglycerin.internal]] 
 
-### #is_/same_as :: [Nitroglycerin.protect](/_protect/Chemistry/Chemical_Reaction/Explosive/Nitroglycerin.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Chemical_Reaction/Explosive/Nitroglycerin.protect|Nitroglycerin.protect]] 
 
-### #is_/same_as :: [Nitroglycerin.private](/_private/Chemistry/Chemical_Reaction/Explosive/Nitroglycerin.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Chemical_Reaction/Explosive/Nitroglycerin.private|Nitroglycerin.private]] 
 
-### #is_/same_as :: [Nitroglycerin.personal](/_personal/Chemistry/Chemical_Reaction/Explosive/Nitroglycerin.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Chemical_Reaction/Explosive/Nitroglycerin.personal|Nitroglycerin.personal]] 
 
-### #is_/same_as :: [Nitroglycerin.secret](/_secret/Chemistry/Chemical_Reaction/Explosive/Nitroglycerin.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Chemical_Reaction/Explosive/Nitroglycerin.secret|Nitroglycerin.secret]] 
 

@@ -68,17 +68,17 @@ Copyright ::   © [BIODIDAC](http://biodidac.bio.uottawa.ca/index.htm)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Gnathostomulida](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Gnathostomulida.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Gnathostomulida|Gnathostomulida]] 
 
-### #is_/same_as :: [Gnathostomulida.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Gnathostomulida.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Gnathostomulida.public|Gnathostomulida.public]] 
 
-### #is_/same_as :: [Gnathostomulida.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Gnathostomulida.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Gnathostomulida.internal|Gnathostomulida.internal]] 
 
-### #is_/same_as :: [Gnathostomulida.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Gnathostomulida.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Gnathostomulida.protect|Gnathostomulida.protect]] 
 
-### #is_/same_as :: [Gnathostomulida.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Gnathostomulida.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Gnathostomulida.private|Gnathostomulida.private]] 
 
-### #is_/same_as :: [Gnathostomulida.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Gnathostomulida.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Gnathostomulida.personal|Gnathostomulida.personal]] 
 
-### #is_/same_as :: [Gnathostomulida.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Gnathostomulida.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Gnathostomulida.secret|Gnathostomulida.secret]] 
 

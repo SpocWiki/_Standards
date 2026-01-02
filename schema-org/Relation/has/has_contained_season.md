@@ -46,17 +46,17 @@ Use it like this:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_contained_season](/_Standards/schema-org/Relation/has/has_contained_season.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_contained_season|has_contained_season]] 
 
-### #is_/same_as :: [has_contained_season.public](/_public/schema-org/Relation/has/has_contained_season.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_contained_season.public|has_contained_season.public]] 
 
-### #is_/same_as :: [has_contained_season.internal](/_internal/schema-org/Relation/has/has_contained_season.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_contained_season.internal|has_contained_season.internal]] 
 
-### #is_/same_as :: [has_contained_season.protect](/_protect/schema-org/Relation/has/has_contained_season.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_contained_season.protect|has_contained_season.protect]] 
 
-### #is_/same_as :: [has_contained_season.private](/_private/schema-org/Relation/has/has_contained_season.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_contained_season.private|has_contained_season.private]] 
 
-### #is_/same_as :: [has_contained_season.personal](/_personal/schema-org/Relation/has/has_contained_season.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_contained_season.personal|has_contained_season.personal]] 
 
-### #is_/same_as :: [has_contained_season.secret](/_secret/schema-org/Relation/has/has_contained_season.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_contained_season.secret|has_contained_season.secret]] 
 

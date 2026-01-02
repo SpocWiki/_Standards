@@ -40,17 +40,17 @@ markerFolder: ./Saltvik/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Saltvik](/_Standards/Earth/Continent/Europe/Europe~North/Åland-Islands/Countryside/counties~Countryside/Saltvik.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Åland-Islands/Countryside/counties~Countryside/Saltvik|Saltvik]] 
 
-### #is_/same_as :: [Saltvik.public](/_public/Earth/Continent/Europe/Europe~North/Åland-Islands/Countryside/counties~Countryside/Saltvik.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Åland-Islands/Countryside/counties~Countryside/Saltvik.public|Saltvik.public]] 
 
-### #is_/same_as :: [Saltvik.internal](/_internal/Earth/Continent/Europe/Europe~North/Åland-Islands/Countryside/counties~Countryside/Saltvik.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Åland-Islands/Countryside/counties~Countryside/Saltvik.internal|Saltvik.internal]] 
 
-### #is_/same_as :: [Saltvik.protect](/_protect/Earth/Continent/Europe/Europe~North/Åland-Islands/Countryside/counties~Countryside/Saltvik.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Åland-Islands/Countryside/counties~Countryside/Saltvik.protect|Saltvik.protect]] 
 
-### #is_/same_as :: [Saltvik.private](/_private/Earth/Continent/Europe/Europe~North/Åland-Islands/Countryside/counties~Countryside/Saltvik.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Åland-Islands/Countryside/counties~Countryside/Saltvik.private|Saltvik.private]] 
 
-### #is_/same_as :: [Saltvik.personal](/_personal/Earth/Continent/Europe/Europe~North/Åland-Islands/Countryside/counties~Countryside/Saltvik.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Åland-Islands/Countryside/counties~Countryside/Saltvik.personal|Saltvik.personal]] 
 
-### #is_/same_as :: [Saltvik.secret](/_secret/Earth/Continent/Europe/Europe~North/Åland-Islands/Countryside/counties~Countryside/Saltvik.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Åland-Islands/Countryside/counties~Countryside/Saltvik.secret|Saltvik.secret]] 
 

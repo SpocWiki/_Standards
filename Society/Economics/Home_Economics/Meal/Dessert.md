@@ -57,17 +57,17 @@ Baidu_Tieba_name: 西点
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Dessert](/_Standards/Society/Economics/Home_Economics/Meal/Dessert.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Home_Economics/Meal/Dessert|Dessert]] 
 
-### #is_/same_as :: [Dessert.public](/_public/Society/Economics/Home_Economics/Meal/Dessert.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Home_Economics/Meal/Dessert.public|Dessert.public]] 
 
-### #is_/same_as :: [Dessert.internal](/_internal/Society/Economics/Home_Economics/Meal/Dessert.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Home_Economics/Meal/Dessert.internal|Dessert.internal]] 
 
-### #is_/same_as :: [Dessert.protect](/_protect/Society/Economics/Home_Economics/Meal/Dessert.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Home_Economics/Meal/Dessert.protect|Dessert.protect]] 
 
-### #is_/same_as :: [Dessert.private](/_private/Society/Economics/Home_Economics/Meal/Dessert.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Home_Economics/Meal/Dessert.private|Dessert.private]] 
 
-### #is_/same_as :: [Dessert.personal](/_personal/Society/Economics/Home_Economics/Meal/Dessert.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Home_Economics/Meal/Dessert.personal|Dessert.personal]] 
 
-### #is_/same_as :: [Dessert.secret](/_secret/Society/Economics/Home_Economics/Meal/Dessert.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Home_Economics/Meal/Dessert.secret|Dessert.secret]] 
 

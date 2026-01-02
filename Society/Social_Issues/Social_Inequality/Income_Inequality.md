@@ -20,17 +20,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Income_Inequality](/_Standards/Society/Social_Issues/Social_Inequality/Income_Inequality.md) 
+### #is_/same_as :: [[/_Standards/Society/Social_Issues/Social_Inequality/Income_Inequality|Income_Inequality]] 
 
-### #is_/same_as :: [Income_Inequality.public](/_public/Society/Social_Issues/Social_Inequality/Income_Inequality.public.md) 
+### #is_/same_as :: [[/_public/Society/Social_Issues/Social_Inequality/Income_Inequality.public|Income_Inequality.public]] 
 
-### #is_/same_as :: [Income_Inequality.internal](/_internal/Society/Social_Issues/Social_Inequality/Income_Inequality.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Social_Issues/Social_Inequality/Income_Inequality.internal|Income_Inequality.internal]] 
 
-### #is_/same_as :: [Income_Inequality.protect](/_protect/Society/Social_Issues/Social_Inequality/Income_Inequality.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Social_Issues/Social_Inequality/Income_Inequality.protect|Income_Inequality.protect]] 
 
-### #is_/same_as :: [Income_Inequality.private](/_private/Society/Social_Issues/Social_Inequality/Income_Inequality.private.md) 
+### #is_/same_as :: [[/_private/Society/Social_Issues/Social_Inequality/Income_Inequality.private|Income_Inequality.private]] 
 
-### #is_/same_as :: [Income_Inequality.personal](/_personal/Society/Social_Issues/Social_Inequality/Income_Inequality.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Social_Issues/Social_Inequality/Income_Inequality.personal|Income_Inequality.personal]] 
 
-### #is_/same_as :: [Income_Inequality.secret](/_secret/Society/Social_Issues/Social_Inequality/Income_Inequality.secret.md)
+### #is_/same_as :: [[/_secret/Society/Social_Issues/Social_Inequality/Income_Inequality.secret|Income_Inequality.secret]] 
 

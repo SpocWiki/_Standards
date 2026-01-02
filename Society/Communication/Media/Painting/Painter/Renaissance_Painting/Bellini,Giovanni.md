@@ -215,17 +215,17 @@ Europeana_entity: agent/base/62238
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bellini,Giovanni](/_Standards/Society/Communication/Media/Painting/Painter/Renaissance_Painting/Bellini,Giovanni.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Painting/Painter/Renaissance_Painting/Bellini,Giovanni|Bellini,Giovanni]] 
 
-### #is_/same_as :: [Bellini,Giovanni.public](/_public/Society/Communication/Media/Painting/Painter/Renaissance_Painting/Bellini,Giovanni.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Painting/Painter/Renaissance_Painting/Bellini,Giovanni.public|Bellini,Giovanni.public]] 
 
-### #is_/same_as :: [Bellini,Giovanni.internal](/_internal/Society/Communication/Media/Painting/Painter/Renaissance_Painting/Bellini,Giovanni.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Painting/Painter/Renaissance_Painting/Bellini,Giovanni.internal|Bellini,Giovanni.internal]] 
 
-### #is_/same_as :: [Bellini,Giovanni.protect](/_protect/Society/Communication/Media/Painting/Painter/Renaissance_Painting/Bellini,Giovanni.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Painting/Painter/Renaissance_Painting/Bellini,Giovanni.protect|Bellini,Giovanni.protect]] 
 
-### #is_/same_as :: [Bellini,Giovanni.private](/_private/Society/Communication/Media/Painting/Painter/Renaissance_Painting/Bellini,Giovanni.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Painting/Painter/Renaissance_Painting/Bellini,Giovanni.private|Bellini,Giovanni.private]] 
 
-### #is_/same_as :: [Bellini,Giovanni.personal](/_personal/Society/Communication/Media/Painting/Painter/Renaissance_Painting/Bellini,Giovanni.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Painting/Painter/Renaissance_Painting/Bellini,Giovanni.personal|Bellini,Giovanni.personal]] 
 
-### #is_/same_as :: [Bellini,Giovanni.secret](/_secret/Society/Communication/Media/Painting/Painter/Renaissance_Painting/Bellini,Giovanni.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Painting/Painter/Renaissance_Painting/Bellini,Giovanni.secret|Bellini,Giovanni.secret]] 
 

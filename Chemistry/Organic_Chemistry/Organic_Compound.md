@@ -66,17 +66,17 @@ Commons_category: Organic compounds
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Organic_Compound](/_Standards/Chemistry/Organic_Chemistry/Organic_Compound.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Organic_Chemistry/Organic_Compound|Organic_Compound]] 
 
-### #is_/same_as :: [Organic_Compound.public](/_public/Chemistry/Organic_Chemistry/Organic_Compound.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Organic_Chemistry/Organic_Compound.public|Organic_Compound.public]] 
 
-### #is_/same_as :: [Organic_Compound.internal](/_internal/Chemistry/Organic_Chemistry/Organic_Compound.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Organic_Chemistry/Organic_Compound.internal|Organic_Compound.internal]] 
 
-### #is_/same_as :: [Organic_Compound.protect](/_protect/Chemistry/Organic_Chemistry/Organic_Compound.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Organic_Chemistry/Organic_Compound.protect|Organic_Compound.protect]] 
 
-### #is_/same_as :: [Organic_Compound.private](/_private/Chemistry/Organic_Chemistry/Organic_Compound.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Organic_Chemistry/Organic_Compound.private|Organic_Compound.private]] 
 
-### #is_/same_as :: [Organic_Compound.personal](/_personal/Chemistry/Organic_Chemistry/Organic_Compound.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Organic_Chemistry/Organic_Compound.personal|Organic_Compound.personal]] 
 
-### #is_/same_as :: [Organic_Compound.secret](/_secret/Chemistry/Organic_Chemistry/Organic_Compound.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Organic_Chemistry/Organic_Compound.secret|Organic_Compound.secret]] 
 

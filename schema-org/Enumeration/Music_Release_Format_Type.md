@@ -39,17 +39,17 @@ Format of this release (the type of recording media used, i.e. compact disc, dig
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Music_Release_Format_Type](/_Standards/schema-org/Enumeration/Music_Release_Format_Type.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Music_Release_Format_Type|Music_Release_Format_Type]] 
 
-### #is_/same_as :: [Music_Release_Format_Type.public](/_public/schema-org/Enumeration/Music_Release_Format_Type.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Music_Release_Format_Type.public|Music_Release_Format_Type.public]] 
 
-### #is_/same_as :: [Music_Release_Format_Type.internal](/_internal/schema-org/Enumeration/Music_Release_Format_Type.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Music_Release_Format_Type.internal|Music_Release_Format_Type.internal]] 
 
-### #is_/same_as :: [Music_Release_Format_Type.protect](/_protect/schema-org/Enumeration/Music_Release_Format_Type.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Music_Release_Format_Type.protect|Music_Release_Format_Type.protect]] 
 
-### #is_/same_as :: [Music_Release_Format_Type.private](/_private/schema-org/Enumeration/Music_Release_Format_Type.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Music_Release_Format_Type.private|Music_Release_Format_Type.private]] 
 
-### #is_/same_as :: [Music_Release_Format_Type.personal](/_personal/schema-org/Enumeration/Music_Release_Format_Type.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Music_Release_Format_Type.personal|Music_Release_Format_Type.personal]] 
 
-### #is_/same_as :: [Music_Release_Format_Type.secret](/_secret/schema-org/Enumeration/Music_Release_Format_Type.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Music_Release_Format_Type.secret|Music_Release_Format_Type.secret]] 
 

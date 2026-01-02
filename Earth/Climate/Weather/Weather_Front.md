@@ -39,17 +39,17 @@ Dewey_Decimal_Classification: 551.5512
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Weather_Front](/_Standards/Earth/Climate/Weather/Weather_Front.md) 
+### #is_/same_as :: [[/_Standards/Earth/Climate/Weather/Weather_Front|Weather_Front]] 
 
-### #is_/same_as :: [Weather_Front.public](/_public/Earth/Climate/Weather/Weather_Front.public.md) 
+### #is_/same_as :: [[/_public/Earth/Climate/Weather/Weather_Front.public|Weather_Front.public]] 
 
-### #is_/same_as :: [Weather_Front.internal](/_internal/Earth/Climate/Weather/Weather_Front.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Climate/Weather/Weather_Front.internal|Weather_Front.internal]] 
 
-### #is_/same_as :: [Weather_Front.protect](/_protect/Earth/Climate/Weather/Weather_Front.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Climate/Weather/Weather_Front.protect|Weather_Front.protect]] 
 
-### #is_/same_as :: [Weather_Front.private](/_private/Earth/Climate/Weather/Weather_Front.private.md) 
+### #is_/same_as :: [[/_private/Earth/Climate/Weather/Weather_Front.private|Weather_Front.private]] 
 
-### #is_/same_as :: [Weather_Front.personal](/_personal/Earth/Climate/Weather/Weather_Front.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Climate/Weather/Weather_Front.personal|Weather_Front.personal]] 
 
-### #is_/same_as :: [Weather_Front.secret](/_secret/Earth/Climate/Weather/Weather_Front.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Climate/Weather/Weather_Front.secret|Weather_Front.secret]] 
 

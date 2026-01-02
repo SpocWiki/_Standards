@@ -62,17 +62,17 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Age~2~Chattian](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene/Epoch~3~Oligocene/Age~2~Chattian.md) 
+### #is_/same_as :: [[/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene/Epoch~3~Oligocene/Age~2~Chattian|Age~2~Chattian]] 
 
-### #is_/same_as :: [Age~2~Chattian.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene/Epoch~3~Oligocene/Age~2~Chattian.public.md) 
+### #is_/same_as :: [[/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene/Epoch~3~Oligocene/Age~2~Chattian.public|Age~2~Chattian.public]] 
 
-### #is_/same_as :: [Age~2~Chattian.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene/Epoch~3~Oligocene/Age~2~Chattian.internal.md) 
+### #is_/same_as :: [[/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene/Epoch~3~Oligocene/Age~2~Chattian.internal|Age~2~Chattian.internal]] 
 
-### #is_/same_as :: [Age~2~Chattian.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene/Epoch~3~Oligocene/Age~2~Chattian.protect.md) 
+### #is_/same_as :: [[/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene/Epoch~3~Oligocene/Age~2~Chattian.protect|Age~2~Chattian.protect]] 
 
-### #is_/same_as :: [Age~2~Chattian.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene/Epoch~3~Oligocene/Age~2~Chattian.private.md) 
+### #is_/same_as :: [[/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene/Epoch~3~Oligocene/Age~2~Chattian.private|Age~2~Chattian.private]] 
 
-### #is_/same_as :: [Age~2~Chattian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene/Epoch~3~Oligocene/Age~2~Chattian.personal.md) 
+### #is_/same_as :: [[/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene/Epoch~3~Oligocene/Age~2~Chattian.personal|Age~2~Chattian.personal]] 
 
-### #is_/same_as :: [Age~2~Chattian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene/Epoch~3~Oligocene/Age~2~Chattian.secret.md)
+### #is_/same_as :: [[/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene/Epoch~3~Oligocene/Age~2~Chattian.secret|Age~2~Chattian.secret]] 
 

@@ -55,17 +55,17 @@ Krugosvet_article: gumanitarnye_nauki/psihologiya_i_pedagogika/SOZNANIE.html
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Consciousness](/_Standards/bio/Psychology/Cognition/Consciousness.md) 
+### #is_/same_as :: [[/_Standards/bio/Psychology/Cognition/Consciousness|Consciousness]] 
 
-### #is_/same_as :: [Consciousness.public](/_public/bio/Psychology/Cognition/Consciousness.public.md) 
+### #is_/same_as :: [[/_public/bio/Psychology/Cognition/Consciousness.public|Consciousness.public]] 
 
-### #is_/same_as :: [Consciousness.internal](/_internal/bio/Psychology/Cognition/Consciousness.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Psychology/Cognition/Consciousness.internal|Consciousness.internal]] 
 
-### #is_/same_as :: [Consciousness.protect](/_protect/bio/Psychology/Cognition/Consciousness.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Psychology/Cognition/Consciousness.protect|Consciousness.protect]] 
 
-### #is_/same_as :: [Consciousness.private](/_private/bio/Psychology/Cognition/Consciousness.private.md) 
+### #is_/same_as :: [[/_private/bio/Psychology/Cognition/Consciousness.private|Consciousness.private]] 
 
-### #is_/same_as :: [Consciousness.personal](/_personal/bio/Psychology/Cognition/Consciousness.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Psychology/Cognition/Consciousness.personal|Consciousness.personal]] 
 
-### #is_/same_as :: [Consciousness.secret](/_secret/bio/Psychology/Cognition/Consciousness.secret.md)
+### #is_/same_as :: [[/_secret/bio/Psychology/Cognition/Consciousness.secret|Consciousness.secret]] 
 

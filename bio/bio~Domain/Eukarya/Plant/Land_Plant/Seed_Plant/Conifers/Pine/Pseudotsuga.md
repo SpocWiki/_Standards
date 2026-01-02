@@ -103,17 +103,17 @@ Copyright ::            © 2004 [David S. Gernandt](http://www.reduaeh.mx/invest
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Pseudotsuga](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Conifers/Pine/Pseudotsuga.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Conifers/Pine/Pseudotsuga|Pseudotsuga]] 
 
-### #is_/same_as :: [Pseudotsuga.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Conifers/Pine/Pseudotsuga.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Conifers/Pine/Pseudotsuga.public|Pseudotsuga.public]] 
 
-### #is_/same_as :: [Pseudotsuga.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Conifers/Pine/Pseudotsuga.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Conifers/Pine/Pseudotsuga.internal|Pseudotsuga.internal]] 
 
-### #is_/same_as :: [Pseudotsuga.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Conifers/Pine/Pseudotsuga.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Conifers/Pine/Pseudotsuga.protect|Pseudotsuga.protect]] 
 
-### #is_/same_as :: [Pseudotsuga.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Conifers/Pine/Pseudotsuga.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Conifers/Pine/Pseudotsuga.private|Pseudotsuga.private]] 
 
-### #is_/same_as :: [Pseudotsuga.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Conifers/Pine/Pseudotsuga.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Conifers/Pine/Pseudotsuga.personal|Pseudotsuga.personal]] 
 
-### #is_/same_as :: [Pseudotsuga.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Conifers/Pine/Pseudotsuga.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Conifers/Pine/Pseudotsuga.secret|Pseudotsuga.secret]] 
 

@@ -62,17 +62,17 @@ WordLift_URL: http://data.medicalrecords.com/medicalrecords/healthwise/nervous_s
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Nervous_System](/_Standards/bio/Medicine/Anatomy/Nervous_System.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Anatomy/Nervous_System|Nervous_System]] 
 
-### #is_/same_as :: [Nervous_System.public](/_public/bio/Medicine/Anatomy/Nervous_System.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Anatomy/Nervous_System.public|Nervous_System.public]] 
 
-### #is_/same_as :: [Nervous_System.internal](/_internal/bio/Medicine/Anatomy/Nervous_System.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Anatomy/Nervous_System.internal|Nervous_System.internal]] 
 
-### #is_/same_as :: [Nervous_System.protect](/_protect/bio/Medicine/Anatomy/Nervous_System.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Anatomy/Nervous_System.protect|Nervous_System.protect]] 
 
-### #is_/same_as :: [Nervous_System.private](/_private/bio/Medicine/Anatomy/Nervous_System.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Anatomy/Nervous_System.private|Nervous_System.private]] 
 
-### #is_/same_as :: [Nervous_System.personal](/_personal/bio/Medicine/Anatomy/Nervous_System.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Anatomy/Nervous_System.personal|Nervous_System.personal]] 
 
-### #is_/same_as :: [Nervous_System.secret](/_secret/bio/Medicine/Anatomy/Nervous_System.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Anatomy/Nervous_System.secret|Nervous_System.secret]] 
 

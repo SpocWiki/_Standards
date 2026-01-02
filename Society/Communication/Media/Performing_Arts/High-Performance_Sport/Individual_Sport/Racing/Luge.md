@@ -62,17 +62,17 @@ OpenStreetMap_tag: sport=toboggan
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Luge](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Racing/Luge.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Racing/Luge|Luge]] 
 
-### #is_/same_as :: [Luge.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Racing/Luge.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Racing/Luge.public|Luge.public]] 
 
-### #is_/same_as :: [Luge.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Racing/Luge.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Racing/Luge.internal|Luge.internal]] 
 
-### #is_/same_as :: [Luge.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Racing/Luge.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Racing/Luge.protect|Luge.protect]] 
 
-### #is_/same_as :: [Luge.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Racing/Luge.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Racing/Luge.private|Luge.private]] 
 
-### #is_/same_as :: [Luge.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Racing/Luge.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Racing/Luge.personal|Luge.personal]] 
 
-### #is_/same_as :: [Luge.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Racing/Luge.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Racing/Luge.secret|Luge.secret]] 
 

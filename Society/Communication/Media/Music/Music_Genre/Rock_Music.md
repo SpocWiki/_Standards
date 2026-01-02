@@ -73,17 +73,17 @@ inception: 1948-01-01T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Rock_Music](/_Standards/Society/Communication/Media/Music/Music_Genre/Rock_Music.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Music_Genre/Rock_Music|Rock_Music]] 
 
-### #is_/same_as :: [Rock_Music.public](/_public/Society/Communication/Media/Music/Music_Genre/Rock_Music.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Music_Genre/Rock_Music.public|Rock_Music.public]] 
 
-### #is_/same_as :: [Rock_Music.internal](/_internal/Society/Communication/Media/Music/Music_Genre/Rock_Music.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Music_Genre/Rock_Music.internal|Rock_Music.internal]] 
 
-### #is_/same_as :: [Rock_Music.protect](/_protect/Society/Communication/Media/Music/Music_Genre/Rock_Music.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Music_Genre/Rock_Music.protect|Rock_Music.protect]] 
 
-### #is_/same_as :: [Rock_Music.private](/_private/Society/Communication/Media/Music/Music_Genre/Rock_Music.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Music_Genre/Rock_Music.private|Rock_Music.private]] 
 
-### #is_/same_as :: [Rock_Music.personal](/_personal/Society/Communication/Media/Music/Music_Genre/Rock_Music.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Music_Genre/Rock_Music.personal|Rock_Music.personal]] 
 
-### #is_/same_as :: [Rock_Music.secret](/_secret/Society/Communication/Media/Music/Music_Genre/Rock_Music.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Music_Genre/Rock_Music.secret|Rock_Music.secret]] 
 

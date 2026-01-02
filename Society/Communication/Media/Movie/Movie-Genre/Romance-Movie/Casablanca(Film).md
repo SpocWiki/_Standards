@@ -199,17 +199,17 @@ film_poster: http://commons.wikimedia.org/wiki/Special:FilePath/CasablancaPoster
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Casablanca(Film)](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Romance-Movie/Casablanca(Film).md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Genre/Romance-Movie/Casablanca(Film)|Casablanca(Film)]] 
 
-### #is_/same_as :: [Casablanca(Film).public](/_public/Society/Communication/Media/Movie/Movie-Genre/Romance-Movie/Casablanca(Film).public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Genre/Romance-Movie/Casablanca(Film).public|Casablanca(Film).public]] 
 
-### #is_/same_as :: [Casablanca(Film).internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Romance-Movie/Casablanca(Film).internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Genre/Romance-Movie/Casablanca(Film).internal|Casablanca(Film).internal]] 
 
-### #is_/same_as :: [Casablanca(Film).protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Romance-Movie/Casablanca(Film).protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Genre/Romance-Movie/Casablanca(Film).protect|Casablanca(Film).protect]] 
 
-### #is_/same_as :: [Casablanca(Film).private](/_private/Society/Communication/Media/Movie/Movie-Genre/Romance-Movie/Casablanca(Film).private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Genre/Romance-Movie/Casablanca(Film).private|Casablanca(Film).private]] 
 
-### #is_/same_as :: [Casablanca(Film).personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Romance-Movie/Casablanca(Film).personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Genre/Romance-Movie/Casablanca(Film).personal|Casablanca(Film).personal]] 
 
-### #is_/same_as :: [Casablanca(Film).secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Romance-Movie/Casablanca(Film).secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Genre/Romance-Movie/Casablanca(Film).secret|Casablanca(Film).secret]] 
 

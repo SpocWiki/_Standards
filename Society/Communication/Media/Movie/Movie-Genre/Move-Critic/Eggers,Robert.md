@@ -19,17 +19,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Eggers,Robert](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Move-Critic/Eggers,Robert.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Genre/Move-Critic/Eggers,Robert|Eggers,Robert]] 
 
-### #is_/same_as :: [Eggers,Robert.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Move-Critic/Eggers,Robert.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Genre/Move-Critic/Eggers,Robert.public|Eggers,Robert.public]] 
 
-### #is_/same_as :: [Eggers,Robert.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Move-Critic/Eggers,Robert.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Genre/Move-Critic/Eggers,Robert.internal|Eggers,Robert.internal]] 
 
-### #is_/same_as :: [Eggers,Robert.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Move-Critic/Eggers,Robert.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Genre/Move-Critic/Eggers,Robert.protect|Eggers,Robert.protect]] 
 
-### #is_/same_as :: [Eggers,Robert.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Move-Critic/Eggers,Robert.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Genre/Move-Critic/Eggers,Robert.private|Eggers,Robert.private]] 
 
-### #is_/same_as :: [Eggers,Robert.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Move-Critic/Eggers,Robert.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Genre/Move-Critic/Eggers,Robert.personal|Eggers,Robert.personal]] 
 
-### #is_/same_as :: [Eggers,Robert.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Move-Critic/Eggers,Robert.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Genre/Move-Critic/Eggers,Robert.secret|Eggers,Robert.secret]] 
 

@@ -31,17 +31,17 @@ UMLS_CUI: C1491967
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Apioideae](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Apiales/Apiaceae/Apioideae.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Apiales/Apiaceae/Apioideae|Apioideae]] 
 
-### #is_/same_as :: [Apioideae.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Apiales/Apiaceae/Apioideae.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Apiales/Apiaceae/Apioideae.public|Apioideae.public]] 
 
-### #is_/same_as :: [Apioideae.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Apiales/Apiaceae/Apioideae.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Apiales/Apiaceae/Apioideae.internal|Apioideae.internal]] 
 
-### #is_/same_as :: [Apioideae.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Apiales/Apiaceae/Apioideae.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Apiales/Apiaceae/Apioideae.protect|Apioideae.protect]] 
 
-### #is_/same_as :: [Apioideae.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Apiales/Apiaceae/Apioideae.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Apiales/Apiaceae/Apioideae.private|Apioideae.private]] 
 
-### #is_/same_as :: [Apioideae.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Apiales/Apiaceae/Apioideae.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Apiales/Apiaceae/Apioideae.personal|Apioideae.personal]] 
 
-### #is_/same_as :: [Apioideae.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Apiales/Apiaceae/Apioideae.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Apiales/Apiaceae/Apioideae.secret|Apioideae.secret]] 
 

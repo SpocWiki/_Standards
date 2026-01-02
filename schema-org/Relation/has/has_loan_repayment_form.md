@@ -45,17 +45,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_loan_repayment_form](/_Standards/schema-org/Relation/has/has_loan_repayment_form.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_loan_repayment_form|has_loan_repayment_form]] 
 
-### #is_/same_as :: [has_loan_repayment_form.public](/_public/schema-org/Relation/has/has_loan_repayment_form.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_loan_repayment_form.public|has_loan_repayment_form.public]] 
 
-### #is_/same_as :: [has_loan_repayment_form.internal](/_internal/schema-org/Relation/has/has_loan_repayment_form.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_loan_repayment_form.internal|has_loan_repayment_form.internal]] 
 
-### #is_/same_as :: [has_loan_repayment_form.protect](/_protect/schema-org/Relation/has/has_loan_repayment_form.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_loan_repayment_form.protect|has_loan_repayment_form.protect]] 
 
-### #is_/same_as :: [has_loan_repayment_form.private](/_private/schema-org/Relation/has/has_loan_repayment_form.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_loan_repayment_form.private|has_loan_repayment_form.private]] 
 
-### #is_/same_as :: [has_loan_repayment_form.personal](/_personal/schema-org/Relation/has/has_loan_repayment_form.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_loan_repayment_form.personal|has_loan_repayment_form.personal]] 
 
-### #is_/same_as :: [has_loan_repayment_form.secret](/_secret/schema-org/Relation/has/has_loan_repayment_form.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_loan_repayment_form.secret|has_loan_repayment_form.secret]] 
 

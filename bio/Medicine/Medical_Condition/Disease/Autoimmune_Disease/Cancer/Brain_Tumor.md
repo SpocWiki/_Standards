@@ -45,17 +45,17 @@ MeSH_tree_code:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Brain_Tumor](/_Standards/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Cancer/Brain_Tumor.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Cancer/Brain_Tumor|Brain_Tumor]] 
 
-### #is_/same_as :: [Brain_Tumor.public](/_public/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Cancer/Brain_Tumor.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Cancer/Brain_Tumor.public|Brain_Tumor.public]] 
 
-### #is_/same_as :: [Brain_Tumor.internal](/_internal/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Cancer/Brain_Tumor.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Cancer/Brain_Tumor.internal|Brain_Tumor.internal]] 
 
-### #is_/same_as :: [Brain_Tumor.protect](/_protect/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Cancer/Brain_Tumor.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Cancer/Brain_Tumor.protect|Brain_Tumor.protect]] 
 
-### #is_/same_as :: [Brain_Tumor.private](/_private/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Cancer/Brain_Tumor.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Cancer/Brain_Tumor.private|Brain_Tumor.private]] 
 
-### #is_/same_as :: [Brain_Tumor.personal](/_personal/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Cancer/Brain_Tumor.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Cancer/Brain_Tumor.personal|Brain_Tumor.personal]] 
 
-### #is_/same_as :: [Brain_Tumor.secret](/_secret/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Cancer/Brain_Tumor.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Cancer/Brain_Tumor.secret|Brain_Tumor.secret]] 
 

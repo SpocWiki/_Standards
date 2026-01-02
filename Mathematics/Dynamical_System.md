@@ -83,17 +83,17 @@ Commons_gallery: Dynamical system
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Dynamical_System](/_Standards/Mathematics/Dynamical_System.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Dynamical_System|Dynamical_System]] 
 
-### #is_/same_as :: [Dynamical_System.public](/_public/Mathematics/Dynamical_System.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Dynamical_System.public|Dynamical_System.public]] 
 
-### #is_/same_as :: [Dynamical_System.internal](/_internal/Mathematics/Dynamical_System.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Dynamical_System.internal|Dynamical_System.internal]] 
 
-### #is_/same_as :: [Dynamical_System.protect](/_protect/Mathematics/Dynamical_System.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Dynamical_System.protect|Dynamical_System.protect]] 
 
-### #is_/same_as :: [Dynamical_System.private](/_private/Mathematics/Dynamical_System.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Dynamical_System.private|Dynamical_System.private]] 
 
-### #is_/same_as :: [Dynamical_System.personal](/_personal/Mathematics/Dynamical_System.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Dynamical_System.personal|Dynamical_System.personal]] 
 
-### #is_/same_as :: [Dynamical_System.secret](/_secret/Mathematics/Dynamical_System.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Dynamical_System.secret|Dynamical_System.secret]] 
 

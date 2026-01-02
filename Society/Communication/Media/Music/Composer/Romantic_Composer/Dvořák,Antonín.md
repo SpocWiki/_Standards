@@ -201,17 +201,17 @@ work_location:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Dvořák,Antonín](/_Standards/Society/Communication/Media/Music/Composer/Romantic_Composer/Dvořák,Antonín.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Composer/Romantic_Composer/Dvořák,Antonín|Dvořák,Antonín]] 
 
-### #is_/same_as :: [Dvořák,Antonín.public](/_public/Society/Communication/Media/Music/Composer/Romantic_Composer/Dvořák,Antonín.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Composer/Romantic_Composer/Dvořák,Antonín.public|Dvořák,Antonín.public]] 
 
-### #is_/same_as :: [Dvořák,Antonín.internal](/_internal/Society/Communication/Media/Music/Composer/Romantic_Composer/Dvořák,Antonín.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Composer/Romantic_Composer/Dvořák,Antonín.internal|Dvořák,Antonín.internal]] 
 
-### #is_/same_as :: [Dvořák,Antonín.protect](/_protect/Society/Communication/Media/Music/Composer/Romantic_Composer/Dvořák,Antonín.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Composer/Romantic_Composer/Dvořák,Antonín.protect|Dvořák,Antonín.protect]] 
 
-### #is_/same_as :: [Dvořák,Antonín.private](/_private/Society/Communication/Media/Music/Composer/Romantic_Composer/Dvořák,Antonín.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Composer/Romantic_Composer/Dvořák,Antonín.private|Dvořák,Antonín.private]] 
 
-### #is_/same_as :: [Dvořák,Antonín.personal](/_personal/Society/Communication/Media/Music/Composer/Romantic_Composer/Dvořák,Antonín.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Composer/Romantic_Composer/Dvořák,Antonín.personal|Dvořák,Antonín.personal]] 
 
-### #is_/same_as :: [Dvořák,Antonín.secret](/_secret/Society/Communication/Media/Music/Composer/Romantic_Composer/Dvořák,Antonín.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Composer/Romantic_Composer/Dvořák,Antonín.secret|Dvořák,Antonín.secret]] 
 

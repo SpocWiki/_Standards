@@ -37,17 +37,17 @@ A house painting service.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~HousePainter](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HomeAndConstructionBusiness/FileClass~HousePainter.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HomeAndConstructionBusiness/FileClass~HousePainter|FileClass~HousePainter]] 
 
-### #is_/same_as :: [FileClass~HousePainter.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HomeAndConstructionBusiness/FileClass~HousePainter.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HomeAndConstructionBusiness/FileClass~HousePainter.public|FileClass~HousePainter.public]] 
 
-### #is_/same_as :: [FileClass~HousePainter.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HomeAndConstructionBusiness/FileClass~HousePainter.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HomeAndConstructionBusiness/FileClass~HousePainter.internal|FileClass~HousePainter.internal]] 
 
-### #is_/same_as :: [FileClass~HousePainter.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HomeAndConstructionBusiness/FileClass~HousePainter.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HomeAndConstructionBusiness/FileClass~HousePainter.protect|FileClass~HousePainter.protect]] 
 
-### #is_/same_as :: [FileClass~HousePainter.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HomeAndConstructionBusiness/FileClass~HousePainter.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HomeAndConstructionBusiness/FileClass~HousePainter.private|FileClass~HousePainter.private]] 
 
-### #is_/same_as :: [FileClass~HousePainter.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HomeAndConstructionBusiness/FileClass~HousePainter.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HomeAndConstructionBusiness/FileClass~HousePainter.personal|FileClass~HousePainter.personal]] 
 
-### #is_/same_as :: [FileClass~HousePainter.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HomeAndConstructionBusiness/FileClass~HousePainter.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HomeAndConstructionBusiness/FileClass~HousePainter.secret|FileClass~HousePainter.secret]] 
 

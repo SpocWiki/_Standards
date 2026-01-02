@@ -85,23 +85,23 @@ title: Buthidae
 
 ----------
 Centruroides vittatus. Photograph copyright © Scott A. Stockwell.
-![](../buthoidea.jpg))
+![](../buthoidea.jpg) 
 Copyright ::   © 1988 Scott A. Stockwell
 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Buthidae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Scorpionida/Scorpion/Buthoidea/Buthidae.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Scorpionida/Scorpion/Buthoidea/Buthidae|Buthidae]] 
 
-### #is_/same_as :: [Buthidae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Scorpionida/Scorpion/Buthoidea/Buthidae.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Scorpionida/Scorpion/Buthoidea/Buthidae.public|Buthidae.public]] 
 
-### #is_/same_as :: [Buthidae.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Scorpionida/Scorpion/Buthoidea/Buthidae.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Scorpionida/Scorpion/Buthoidea/Buthidae.internal|Buthidae.internal]] 
 
-### #is_/same_as :: [Buthidae.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Scorpionida/Scorpion/Buthoidea/Buthidae.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Scorpionida/Scorpion/Buthoidea/Buthidae.protect|Buthidae.protect]] 
 
-### #is_/same_as :: [Buthidae.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Scorpionida/Scorpion/Buthoidea/Buthidae.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Scorpionida/Scorpion/Buthoidea/Buthidae.private|Buthidae.private]] 
 
-### #is_/same_as :: [Buthidae.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Scorpionida/Scorpion/Buthoidea/Buthidae.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Scorpionida/Scorpion/Buthoidea/Buthidae.personal|Buthidae.personal]] 
 
-### #is_/same_as :: [Buthidae.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Scorpionida/Scorpion/Buthoidea/Buthidae.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Scorpionida/Scorpion/Buthoidea/Buthidae.secret|Buthidae.secret]] 
 

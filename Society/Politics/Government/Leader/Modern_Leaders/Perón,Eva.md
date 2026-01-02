@@ -105,17 +105,17 @@ date_of_birth: 1919-05-07T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Perón,Eva](/_Standards/Society/Politics/Government/Leader/Modern_Leaders/Perón,Eva.md) 
+### #is_/same_as :: [[/_Standards/Society/Politics/Government/Leader/Modern_Leaders/Perón,Eva|Perón,Eva]] 
 
-### #is_/same_as :: [Perón,Eva.public](/_public/Society/Politics/Government/Leader/Modern_Leaders/Perón,Eva.public.md) 
+### #is_/same_as :: [[/_public/Society/Politics/Government/Leader/Modern_Leaders/Perón,Eva.public|Perón,Eva.public]] 
 
-### #is_/same_as :: [Perón,Eva.internal](/_internal/Society/Politics/Government/Leader/Modern_Leaders/Perón,Eva.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Politics/Government/Leader/Modern_Leaders/Perón,Eva.internal|Perón,Eva.internal]] 
 
-### #is_/same_as :: [Perón,Eva.protect](/_protect/Society/Politics/Government/Leader/Modern_Leaders/Perón,Eva.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Politics/Government/Leader/Modern_Leaders/Perón,Eva.protect|Perón,Eva.protect]] 
 
-### #is_/same_as :: [Perón,Eva.private](/_private/Society/Politics/Government/Leader/Modern_Leaders/Perón,Eva.private.md) 
+### #is_/same_as :: [[/_private/Society/Politics/Government/Leader/Modern_Leaders/Perón,Eva.private|Perón,Eva.private]] 
 
-### #is_/same_as :: [Perón,Eva.personal](/_personal/Society/Politics/Government/Leader/Modern_Leaders/Perón,Eva.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Politics/Government/Leader/Modern_Leaders/Perón,Eva.personal|Perón,Eva.personal]] 
 
-### #is_/same_as :: [Perón,Eva.secret](/_secret/Society/Politics/Government/Leader/Modern_Leaders/Perón,Eva.secret.md)
+### #is_/same_as :: [[/_secret/Society/Politics/Government/Leader/Modern_Leaders/Perón,Eva.secret|Perón,Eva.secret]] 
 

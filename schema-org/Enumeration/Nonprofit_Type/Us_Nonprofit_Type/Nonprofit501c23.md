@@ -42,17 +42,17 @@ Nonprofit501c23: Non-profit type referring to Veterans Organizations.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Nonprofit501c23](/_Standards/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c23.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c23|Nonprofit501c23]] 
 
-### #is_/same_as :: [Nonprofit501c23.public](/_public/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c23.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c23.public|Nonprofit501c23.public]] 
 
-### #is_/same_as :: [Nonprofit501c23.internal](/_internal/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c23.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c23.internal|Nonprofit501c23.internal]] 
 
-### #is_/same_as :: [Nonprofit501c23.protect](/_protect/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c23.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c23.protect|Nonprofit501c23.protect]] 
 
-### #is_/same_as :: [Nonprofit501c23.private](/_private/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c23.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c23.private|Nonprofit501c23.private]] 
 
-### #is_/same_as :: [Nonprofit501c23.personal](/_personal/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c23.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c23.personal|Nonprofit501c23.personal]] 
 
-### #is_/same_as :: [Nonprofit501c23.secret](/_secret/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c23.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c23.secret|Nonprofit501c23.secret]] 
 

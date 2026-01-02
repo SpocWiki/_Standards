@@ -34,7 +34,7 @@ title: Coleoidea
 
 Octopods, squids, cuttlefishes and their relatives 
 
-![Sthenoteuthis](Coleoidea/Sthenoteuthis.jpg) ![ ](Coleoidea/Octopus2.jpg))
+![Sthenoteuthis](Coleoidea/Sthenoteuthis.jpg) ![ ](Coleoidea/Octopus2.jpg) 
 †
 
 ## #has_/text_of_/abstract 
@@ -61,7 +61,7 @@ Octopods, squids, cuttlefishes and their relatives
 The Coleoidea contains two subdivisions. One, the Belemnoidea, had
 members that were common inhabitants of neritic waters during the
 Cretaceous but became extinct and the end of this Period.
-![ ](Coleoidea/BelemnHooks.jpg))
+![ ](Coleoidea/BelemnHooks.jpg) 
 
 **Figure**. **Left** - Side view of a fossil belemnoid
 \"***Acanthoteuthis***\" from Solenhofen, Germany and in the collection
@@ -223,14 +223,14 @@ it equivocal support (Bonnaud *et al.*, 1997).
 
 
 -------------------------------------------------------------------------------- 
-![](Coleoidea/Sthenoteuthis.jpg))
+![](Coleoidea/Sthenoteuthis.jpg) 
 Scientific Name ::     Sthenoteuthis oualaniensis
 Location ::           Hawaiian waters
 Specimen Condition   Live Specimen
 View                 Side
 Size                 Estimate of 18-20 cm ML
 Copyright ::            © 1996 [Richard E. Young](http://www.soest.hawaii.edu/%7Eryoung/rey.html) 
-![Octopus2](Coleoidea/Octopus2.jpg))
+![Octopus2](Coleoidea/Octopus2.jpg) 
 Scientific Name ::     Coleoidea
 Location ::           Hawaiian waters
 Comments             Unidentified octopus
@@ -249,17 +249,17 @@ Copyright ::            © 1999 Brad Seibel
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Coleoidea](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea|Coleoidea]] 
 
-### #is_/same_as :: [Coleoidea.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea.public|Coleoidea.public]] 
 
-### #is_/same_as :: [Coleoidea.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea.internal|Coleoidea.internal]] 
 
-### #is_/same_as :: [Coleoidea.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea.protect|Coleoidea.protect]] 
 
-### #is_/same_as :: [Coleoidea.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea.private|Coleoidea.private]] 
 
-### #is_/same_as :: [Coleoidea.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea.personal|Coleoidea.personal]] 
 
-### #is_/same_as :: [Coleoidea.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea.secret|Coleoidea.secret]] 
 

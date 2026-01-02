@@ -45,17 +45,17 @@ short_name: cv.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Cultivar](/_Standards/Society/Economics/Industry/Agriculture/Crop/Cultivar.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Industry/Agriculture/Crop/Cultivar|Cultivar]] 
 
-### #is_/same_as :: [Cultivar.public](/_public/Society/Economics/Industry/Agriculture/Crop/Cultivar.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Industry/Agriculture/Crop/Cultivar.public|Cultivar.public]] 
 
-### #is_/same_as :: [Cultivar.internal](/_internal/Society/Economics/Industry/Agriculture/Crop/Cultivar.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Industry/Agriculture/Crop/Cultivar.internal|Cultivar.internal]] 
 
-### #is_/same_as :: [Cultivar.protect](/_protect/Society/Economics/Industry/Agriculture/Crop/Cultivar.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Industry/Agriculture/Crop/Cultivar.protect|Cultivar.protect]] 
 
-### #is_/same_as :: [Cultivar.private](/_private/Society/Economics/Industry/Agriculture/Crop/Cultivar.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Industry/Agriculture/Crop/Cultivar.private|Cultivar.private]] 
 
-### #is_/same_as :: [Cultivar.personal](/_personal/Society/Economics/Industry/Agriculture/Crop/Cultivar.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Industry/Agriculture/Crop/Cultivar.personal|Cultivar.personal]] 
 
-### #is_/same_as :: [Cultivar.secret](/_secret/Society/Economics/Industry/Agriculture/Crop/Cultivar.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Industry/Agriculture/Crop/Cultivar.secret|Cultivar.secret]] 
 

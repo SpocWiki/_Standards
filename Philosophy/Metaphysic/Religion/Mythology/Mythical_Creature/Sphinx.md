@@ -67,17 +67,17 @@ Commons_category: Sphinxes
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sphinx](/_Standards/Philosophy/Metaphysic/Religion/Mythology/Mythical_Creature/Sphinx.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Mythology/Mythical_Creature/Sphinx|Sphinx]] 
 
-### #is_/same_as :: [Sphinx.public](/_public/Philosophy/Metaphysic/Religion/Mythology/Mythical_Creature/Sphinx.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Mythology/Mythical_Creature/Sphinx.public|Sphinx.public]] 
 
-### #is_/same_as :: [Sphinx.internal](/_internal/Philosophy/Metaphysic/Religion/Mythology/Mythical_Creature/Sphinx.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Mythology/Mythical_Creature/Sphinx.internal|Sphinx.internal]] 
 
-### #is_/same_as :: [Sphinx.protect](/_protect/Philosophy/Metaphysic/Religion/Mythology/Mythical_Creature/Sphinx.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Mythology/Mythical_Creature/Sphinx.protect|Sphinx.protect]] 
 
-### #is_/same_as :: [Sphinx.private](/_private/Philosophy/Metaphysic/Religion/Mythology/Mythical_Creature/Sphinx.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Mythology/Mythical_Creature/Sphinx.private|Sphinx.private]] 
 
-### #is_/same_as :: [Sphinx.personal](/_personal/Philosophy/Metaphysic/Religion/Mythology/Mythical_Creature/Sphinx.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Mythology/Mythical_Creature/Sphinx.personal|Sphinx.personal]] 
 
-### #is_/same_as :: [Sphinx.secret](/_secret/Philosophy/Metaphysic/Religion/Mythology/Mythical_Creature/Sphinx.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Mythology/Mythical_Creature/Sphinx.secret|Sphinx.secret]] 
 

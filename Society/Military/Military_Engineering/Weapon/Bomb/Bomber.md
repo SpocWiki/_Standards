@@ -38,17 +38,17 @@ Commons_category: Bomber aircraft
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bomber](/_Standards/Society/Military/Military_Engineering/Weapon/Bomb/Bomber.md) 
+### #is_/same_as :: [[/_Standards/Society/Military/Military_Engineering/Weapon/Bomb/Bomber|Bomber]] 
 
-### #is_/same_as :: [Bomber.public](/_public/Society/Military/Military_Engineering/Weapon/Bomb/Bomber.public.md) 
+### #is_/same_as :: [[/_public/Society/Military/Military_Engineering/Weapon/Bomb/Bomber.public|Bomber.public]] 
 
-### #is_/same_as :: [Bomber.internal](/_internal/Society/Military/Military_Engineering/Weapon/Bomb/Bomber.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Military/Military_Engineering/Weapon/Bomb/Bomber.internal|Bomber.internal]] 
 
-### #is_/same_as :: [Bomber.protect](/_protect/Society/Military/Military_Engineering/Weapon/Bomb/Bomber.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Military/Military_Engineering/Weapon/Bomb/Bomber.protect|Bomber.protect]] 
 
-### #is_/same_as :: [Bomber.private](/_private/Society/Military/Military_Engineering/Weapon/Bomb/Bomber.private.md) 
+### #is_/same_as :: [[/_private/Society/Military/Military_Engineering/Weapon/Bomb/Bomber.private|Bomber.private]] 
 
-### #is_/same_as :: [Bomber.personal](/_personal/Society/Military/Military_Engineering/Weapon/Bomb/Bomber.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Military/Military_Engineering/Weapon/Bomb/Bomber.personal|Bomber.personal]] 
 
-### #is_/same_as :: [Bomber.secret](/_secret/Society/Military/Military_Engineering/Weapon/Bomb/Bomber.secret.md)
+### #is_/same_as :: [[/_secret/Society/Military/Military_Engineering/Weapon/Bomb/Bomber.secret|Bomber.secret]] 
 

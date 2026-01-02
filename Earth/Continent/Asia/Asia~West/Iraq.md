@@ -503,17 +503,17 @@ Capital :: [[Iraq/Counties/Baghdad/City/Baghdad]]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Iraq](/_Standards/Earth/Continent/Asia/Asia~West/Iraq.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~West/Iraq|Iraq]] 
 
-### #is_/same_as :: [Iraq.public](/_public/Earth/Continent/Asia/Asia~West/Iraq.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~West/Iraq.public|Iraq.public]] 
 
-### #is_/same_as :: [Iraq.internal](/_internal/Earth/Continent/Asia/Asia~West/Iraq.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~West/Iraq.internal|Iraq.internal]] 
 
-### #is_/same_as :: [Iraq.protect](/_protect/Earth/Continent/Asia/Asia~West/Iraq.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~West/Iraq.protect|Iraq.protect]] 
 
-### #is_/same_as :: [Iraq.private](/_private/Earth/Continent/Asia/Asia~West/Iraq.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~West/Iraq.private|Iraq.private]] 
 
-### #is_/same_as :: [Iraq.personal](/_personal/Earth/Continent/Asia/Asia~West/Iraq.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~West/Iraq.personal|Iraq.personal]] 
 
-### #is_/same_as :: [Iraq.secret](/_secret/Earth/Continent/Asia/Asia~West/Iraq.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~West/Iraq.secret|Iraq.secret]] 
 

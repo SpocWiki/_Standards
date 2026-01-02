@@ -109,17 +109,17 @@ Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_diabetes,7112608]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Diabetes_mellitus](/_Standards/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Diabetes_mellitus.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Diabetes_mellitus|Diabetes_mellitus]] 
 
-### #is_/same_as :: [Diabetes_mellitus.public](/_public/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Diabetes_mellitus.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Diabetes_mellitus.public|Diabetes_mellitus.public]] 
 
-### #is_/same_as :: [Diabetes_mellitus.internal](/_internal/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Diabetes_mellitus.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Diabetes_mellitus.internal|Diabetes_mellitus.internal]] 
 
-### #is_/same_as :: [Diabetes_mellitus.protect](/_protect/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Diabetes_mellitus.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Diabetes_mellitus.protect|Diabetes_mellitus.protect]] 
 
-### #is_/same_as :: [Diabetes_mellitus.private](/_private/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Diabetes_mellitus.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Diabetes_mellitus.private|Diabetes_mellitus.private]] 
 
-### #is_/same_as :: [Diabetes_mellitus.personal](/_personal/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Diabetes_mellitus.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Diabetes_mellitus.personal|Diabetes_mellitus.personal]] 
 
-### #is_/same_as :: [Diabetes_mellitus.secret](/_secret/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Diabetes_mellitus.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Diabetes_mellitus.secret|Diabetes_mellitus.secret]] 
 

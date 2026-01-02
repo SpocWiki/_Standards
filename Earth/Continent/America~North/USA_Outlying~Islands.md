@@ -124,17 +124,17 @@ has_place_continent:: [[North-America]]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [USA_Outlying~Islands](/_Standards/Earth/Continent/America~North/USA_Outlying~Islands.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~North/USA_Outlying~Islands|USA_Outlying~Islands]] 
 
-### #is_/same_as :: [USA_Outlying~Islands.public](/_public/Earth/Continent/America~North/USA_Outlying~Islands.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~North/USA_Outlying~Islands.public|USA_Outlying~Islands.public]] 
 
-### #is_/same_as :: [USA_Outlying~Islands.internal](/_internal/Earth/Continent/America~North/USA_Outlying~Islands.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~North/USA_Outlying~Islands.internal|USA_Outlying~Islands.internal]] 
 
-### #is_/same_as :: [USA_Outlying~Islands.protect](/_protect/Earth/Continent/America~North/USA_Outlying~Islands.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~North/USA_Outlying~Islands.protect|USA_Outlying~Islands.protect]] 
 
-### #is_/same_as :: [USA_Outlying~Islands.private](/_private/Earth/Continent/America~North/USA_Outlying~Islands.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~North/USA_Outlying~Islands.private|USA_Outlying~Islands.private]] 
 
-### #is_/same_as :: [USA_Outlying~Islands.personal](/_personal/Earth/Continent/America~North/USA_Outlying~Islands.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~North/USA_Outlying~Islands.personal|USA_Outlying~Islands.personal]] 
 
-### #is_/same_as :: [USA_Outlying~Islands.secret](/_secret/Earth/Continent/America~North/USA_Outlying~Islands.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~North/USA_Outlying~Islands.secret|USA_Outlying~Islands.secret]] 
 

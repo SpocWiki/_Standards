@@ -48,17 +48,17 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/PrimeNumberTheorem.png
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Prime_Number_Theorem](/_Standards/Mathematics/Number_Theory/Prime_Number_Theorem.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Number_Theory/Prime_Number_Theorem|Prime_Number_Theorem]] 
 
-### #is_/same_as :: [Prime_Number_Theorem.public](/_public/Mathematics/Number_Theory/Prime_Number_Theorem.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Number_Theory/Prime_Number_Theorem.public|Prime_Number_Theorem.public]] 
 
-### #is_/same_as :: [Prime_Number_Theorem.internal](/_internal/Mathematics/Number_Theory/Prime_Number_Theorem.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Number_Theory/Prime_Number_Theorem.internal|Prime_Number_Theorem.internal]] 
 
-### #is_/same_as :: [Prime_Number_Theorem.protect](/_protect/Mathematics/Number_Theory/Prime_Number_Theorem.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Number_Theory/Prime_Number_Theorem.protect|Prime_Number_Theorem.protect]] 
 
-### #is_/same_as :: [Prime_Number_Theorem.private](/_private/Mathematics/Number_Theory/Prime_Number_Theorem.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Number_Theory/Prime_Number_Theorem.private|Prime_Number_Theorem.private]] 
 
-### #is_/same_as :: [Prime_Number_Theorem.personal](/_personal/Mathematics/Number_Theory/Prime_Number_Theorem.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Number_Theory/Prime_Number_Theorem.personal|Prime_Number_Theorem.personal]] 
 
-### #is_/same_as :: [Prime_Number_Theorem.secret](/_secret/Mathematics/Number_Theory/Prime_Number_Theorem.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Number_Theory/Prime_Number_Theorem.secret|Prime_Number_Theorem.secret]] 
 

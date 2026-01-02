@@ -41,17 +41,17 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/3%20Clydesdale%20horse
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Clydesdale_Horse](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Perissodactyla/Equidae/Horse/Clydesdale_Horse.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Perissodactyla/Equidae/Horse/Clydesdale_Horse|Clydesdale_Horse]] 
 
-### #is_/same_as :: [Clydesdale_Horse.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Perissodactyla/Equidae/Horse/Clydesdale_Horse.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Perissodactyla/Equidae/Horse/Clydesdale_Horse.public|Clydesdale_Horse.public]] 
 
-### #is_/same_as :: [Clydesdale_Horse.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Perissodactyla/Equidae/Horse/Clydesdale_Horse.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Perissodactyla/Equidae/Horse/Clydesdale_Horse.internal|Clydesdale_Horse.internal]] 
 
-### #is_/same_as :: [Clydesdale_Horse.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Perissodactyla/Equidae/Horse/Clydesdale_Horse.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Perissodactyla/Equidae/Horse/Clydesdale_Horse.protect|Clydesdale_Horse.protect]] 
 
-### #is_/same_as :: [Clydesdale_Horse.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Perissodactyla/Equidae/Horse/Clydesdale_Horse.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Perissodactyla/Equidae/Horse/Clydesdale_Horse.private|Clydesdale_Horse.private]] 
 
-### #is_/same_as :: [Clydesdale_Horse.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Perissodactyla/Equidae/Horse/Clydesdale_Horse.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Perissodactyla/Equidae/Horse/Clydesdale_Horse.personal|Clydesdale_Horse.personal]] 
 
-### #is_/same_as :: [Clydesdale_Horse.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Perissodactyla/Equidae/Horse/Clydesdale_Horse.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Perissodactyla/Equidae/Horse/Clydesdale_Horse.secret|Clydesdale_Horse.secret]] 
 

@@ -45,17 +45,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_release_notes](/_Standards/schema-org/Property/Texts/has_release_notes.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/Texts/has_release_notes|has_release_notes]] 
 
-### #is_/same_as :: [has_release_notes.public](/_public/schema-org/Property/Texts/has_release_notes.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/Texts/has_release_notes.public|has_release_notes.public]] 
 
-### #is_/same_as :: [has_release_notes.internal](/_internal/schema-org/Property/Texts/has_release_notes.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/Texts/has_release_notes.internal|has_release_notes.internal]] 
 
-### #is_/same_as :: [has_release_notes.protect](/_protect/schema-org/Property/Texts/has_release_notes.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/Texts/has_release_notes.protect|has_release_notes.protect]] 
 
-### #is_/same_as :: [has_release_notes.private](/_private/schema-org/Property/Texts/has_release_notes.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/Texts/has_release_notes.private|has_release_notes.private]] 
 
-### #is_/same_as :: [has_release_notes.personal](/_personal/schema-org/Property/Texts/has_release_notes.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/Texts/has_release_notes.personal|has_release_notes.personal]] 
 
-### #is_/same_as :: [has_release_notes.secret](/_secret/schema-org/Property/Texts/has_release_notes.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/Texts/has_release_notes.secret|has_release_notes.secret]] 
 

@@ -41,17 +41,17 @@ A group of multiple reservations with common values for all sub-reservations.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Reservation_Package](/_Standards/schema-org/Class/is_a_/Intangible/Reservation/Reservation_Package.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Intangible/Reservation/Reservation_Package|Reservation_Package]] 
 
-### #is_/same_as :: [Reservation_Package.public](/_public/schema-org/Class/is_a_/Intangible/Reservation/Reservation_Package.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Intangible/Reservation/Reservation_Package.public|Reservation_Package.public]] 
 
-### #is_/same_as :: [Reservation_Package.internal](/_internal/schema-org/Class/is_a_/Intangible/Reservation/Reservation_Package.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Intangible/Reservation/Reservation_Package.internal|Reservation_Package.internal]] 
 
-### #is_/same_as :: [Reservation_Package.protect](/_protect/schema-org/Class/is_a_/Intangible/Reservation/Reservation_Package.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Intangible/Reservation/Reservation_Package.protect|Reservation_Package.protect]] 
 
-### #is_/same_as :: [Reservation_Package.private](/_private/schema-org/Class/is_a_/Intangible/Reservation/Reservation_Package.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Intangible/Reservation/Reservation_Package.private|Reservation_Package.private]] 
 
-### #is_/same_as :: [Reservation_Package.personal](/_personal/schema-org/Class/is_a_/Intangible/Reservation/Reservation_Package.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Intangible/Reservation/Reservation_Package.personal|Reservation_Package.personal]] 
 
-### #is_/same_as :: [Reservation_Package.secret](/_secret/schema-org/Class/is_a_/Intangible/Reservation/Reservation_Package.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Intangible/Reservation/Reservation_Package.secret|Reservation_Package.secret]] 
 

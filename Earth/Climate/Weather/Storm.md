@@ -70,17 +70,17 @@ Colon_Classification: U2835
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Storm](/_Standards/Earth/Climate/Weather/Storm.md) 
+### #is_/same_as :: [[/_Standards/Earth/Climate/Weather/Storm|Storm]] 
 
-### #is_/same_as :: [Storm.public](/_public/Earth/Climate/Weather/Storm.public.md) 
+### #is_/same_as :: [[/_public/Earth/Climate/Weather/Storm.public|Storm.public]] 
 
-### #is_/same_as :: [Storm.internal](/_internal/Earth/Climate/Weather/Storm.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Climate/Weather/Storm.internal|Storm.internal]] 
 
-### #is_/same_as :: [Storm.protect](/_protect/Earth/Climate/Weather/Storm.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Climate/Weather/Storm.protect|Storm.protect]] 
 
-### #is_/same_as :: [Storm.private](/_private/Earth/Climate/Weather/Storm.private.md) 
+### #is_/same_as :: [[/_private/Earth/Climate/Weather/Storm.private|Storm.private]] 
 
-### #is_/same_as :: [Storm.personal](/_personal/Earth/Climate/Weather/Storm.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Climate/Weather/Storm.personal|Storm.personal]] 
 
-### #is_/same_as :: [Storm.secret](/_secret/Earth/Climate/Weather/Storm.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Climate/Weather/Storm.secret|Storm.secret]] 
 

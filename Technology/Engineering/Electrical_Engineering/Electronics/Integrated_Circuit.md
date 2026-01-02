@@ -60,17 +60,17 @@ Krugosvet_article_archived_: nauka_i_tehnika/tehnologiya_i_promyshlennost/INTEGR
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Integrated_Circuit](/_Standards/Technology/Engineering/Electrical_Engineering/Electronics/Integrated_Circuit.md) 
+### #is_/same_as :: [[/_Standards/Technology/Engineering/Electrical_Engineering/Electronics/Integrated_Circuit|Integrated_Circuit]] 
 
-### #is_/same_as :: [Integrated_Circuit.public](/_public/Technology/Engineering/Electrical_Engineering/Electronics/Integrated_Circuit.public.md) 
+### #is_/same_as :: [[/_public/Technology/Engineering/Electrical_Engineering/Electronics/Integrated_Circuit.public|Integrated_Circuit.public]] 
 
-### #is_/same_as :: [Integrated_Circuit.internal](/_internal/Technology/Engineering/Electrical_Engineering/Electronics/Integrated_Circuit.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Engineering/Electrical_Engineering/Electronics/Integrated_Circuit.internal|Integrated_Circuit.internal]] 
 
-### #is_/same_as :: [Integrated_Circuit.protect](/_protect/Technology/Engineering/Electrical_Engineering/Electronics/Integrated_Circuit.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Engineering/Electrical_Engineering/Electronics/Integrated_Circuit.protect|Integrated_Circuit.protect]] 
 
-### #is_/same_as :: [Integrated_Circuit.private](/_private/Technology/Engineering/Electrical_Engineering/Electronics/Integrated_Circuit.private.md) 
+### #is_/same_as :: [[/_private/Technology/Engineering/Electrical_Engineering/Electronics/Integrated_Circuit.private|Integrated_Circuit.private]] 
 
-### #is_/same_as :: [Integrated_Circuit.personal](/_personal/Technology/Engineering/Electrical_Engineering/Electronics/Integrated_Circuit.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Engineering/Electrical_Engineering/Electronics/Integrated_Circuit.personal|Integrated_Circuit.personal]] 
 
-### #is_/same_as :: [Integrated_Circuit.secret](/_secret/Technology/Engineering/Electrical_Engineering/Electronics/Integrated_Circuit.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Engineering/Electrical_Engineering/Electronics/Integrated_Circuit.secret|Integrated_Circuit.secret]] 
 

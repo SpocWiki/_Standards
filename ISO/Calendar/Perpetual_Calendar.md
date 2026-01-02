@@ -53,17 +53,17 @@ Commons_category: Perpetual calendars
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Perpetual_Calendar](/_Standards/ISO/Calendar/Perpetual_Calendar.md) 
+### #is_/same_as :: [[/_Standards/ISO/Calendar/Perpetual_Calendar|Perpetual_Calendar]] 
 
-### #is_/same_as :: [Perpetual_Calendar.public](/_public/ISO/Calendar/Perpetual_Calendar.public.md) 
+### #is_/same_as :: [[/_public/ISO/Calendar/Perpetual_Calendar.public|Perpetual_Calendar.public]] 
 
-### #is_/same_as :: [Perpetual_Calendar.internal](/_internal/ISO/Calendar/Perpetual_Calendar.internal.md) 
+### #is_/same_as :: [[/_internal/ISO/Calendar/Perpetual_Calendar.internal|Perpetual_Calendar.internal]] 
 
-### #is_/same_as :: [Perpetual_Calendar.protect](/_protect/ISO/Calendar/Perpetual_Calendar.protect.md) 
+### #is_/same_as :: [[/_protect/ISO/Calendar/Perpetual_Calendar.protect|Perpetual_Calendar.protect]] 
 
-### #is_/same_as :: [Perpetual_Calendar.private](/_private/ISO/Calendar/Perpetual_Calendar.private.md) 
+### #is_/same_as :: [[/_private/ISO/Calendar/Perpetual_Calendar.private|Perpetual_Calendar.private]] 
 
-### #is_/same_as :: [Perpetual_Calendar.personal](/_personal/ISO/Calendar/Perpetual_Calendar.personal.md) 
+### #is_/same_as :: [[/_personal/ISO/Calendar/Perpetual_Calendar.personal|Perpetual_Calendar.personal]] 
 
-### #is_/same_as :: [Perpetual_Calendar.secret](/_secret/ISO/Calendar/Perpetual_Calendar.secret.md)
+### #is_/same_as :: [[/_secret/ISO/Calendar/Perpetual_Calendar.secret|Perpetual_Calendar.secret]] 
 

@@ -50,17 +50,17 @@ P8189: 987007283805505171
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Civil_Law](/_Standards/Society/Law/Civil_Law.md) 
+### #is_/same_as :: [[/_Standards/Society/Law/Civil_Law|Civil_Law]] 
 
-### #is_/same_as :: [Civil_Law.public](/_public/Society/Law/Civil_Law.public.md) 
+### #is_/same_as :: [[/_public/Society/Law/Civil_Law.public|Civil_Law.public]] 
 
-### #is_/same_as :: [Civil_Law.internal](/_internal/Society/Law/Civil_Law.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Law/Civil_Law.internal|Civil_Law.internal]] 
 
-### #is_/same_as :: [Civil_Law.protect](/_protect/Society/Law/Civil_Law.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Law/Civil_Law.protect|Civil_Law.protect]] 
 
-### #is_/same_as :: [Civil_Law.private](/_private/Society/Law/Civil_Law.private.md) 
+### #is_/same_as :: [[/_private/Society/Law/Civil_Law.private|Civil_Law.private]] 
 
-### #is_/same_as :: [Civil_Law.personal](/_personal/Society/Law/Civil_Law.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Law/Civil_Law.personal|Civil_Law.personal]] 
 
-### #is_/same_as :: [Civil_Law.secret](/_secret/Society/Law/Civil_Law.secret.md)
+### #is_/same_as :: [[/_secret/Society/Law/Civil_Law.secret|Civil_Law.secret]] 
 

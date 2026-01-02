@@ -122,17 +122,17 @@ to be occupied for habitation by humans or other creatures
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [House](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House.md) 
+### #is_/same_as :: [[/_Standards/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House|House]] 
 
-### #is_/same_as :: [House.public](/_public/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House.public.md) 
+### #is_/same_as :: [[/_public/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House.public|House.public]] 
 
-### #is_/same_as :: [House.internal](/_internal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House.internal|House.internal]] 
 
-### #is_/same_as :: [House.protect](/_protect/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House.protect|House.protect]] 
 
-### #is_/same_as :: [House.private](/_private/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House.private.md) 
+### #is_/same_as :: [[/_private/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House.private|House.private]] 
 
-### #is_/same_as :: [House.personal](/_personal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House.personal|House.personal]] 
 
-### #is_/same_as :: [House.secret](/_secret/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House.secret|House.secret]] 
 

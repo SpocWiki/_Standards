@@ -45,17 +45,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_video_format](/_Standards/schema-org/Property/Texts/has_video_format.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/Texts/has_video_format|has_video_format]] 
 
-### #is_/same_as :: [has_video_format.public](/_public/schema-org/Property/Texts/has_video_format.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/Texts/has_video_format.public|has_video_format.public]] 
 
-### #is_/same_as :: [has_video_format.internal](/_internal/schema-org/Property/Texts/has_video_format.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/Texts/has_video_format.internal|has_video_format.internal]] 
 
-### #is_/same_as :: [has_video_format.protect](/_protect/schema-org/Property/Texts/has_video_format.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/Texts/has_video_format.protect|has_video_format.protect]] 
 
-### #is_/same_as :: [has_video_format.private](/_private/schema-org/Property/Texts/has_video_format.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/Texts/has_video_format.private|has_video_format.private]] 
 
-### #is_/same_as :: [has_video_format.personal](/_personal/schema-org/Property/Texts/has_video_format.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/Texts/has_video_format.personal|has_video_format.personal]] 
 
-### #is_/same_as :: [has_video_format.secret](/_secret/schema-org/Property/Texts/has_video_format.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/Texts/has_video_format.secret|has_video_format.secret]] 
 

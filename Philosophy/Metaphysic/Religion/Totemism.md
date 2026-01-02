@@ -48,17 +48,17 @@ Krugosvet_article_archived_: kultura_i_obrazovanie/religiya/TOTEMIZM.html
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Totemism](/_Standards/Philosophy/Metaphysic/Religion/Totemism.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Totemism|Totemism]] 
 
-### #is_/same_as :: [Totemism.public](/_public/Philosophy/Metaphysic/Religion/Totemism.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Totemism.public|Totemism.public]] 
 
-### #is_/same_as :: [Totemism.internal](/_internal/Philosophy/Metaphysic/Religion/Totemism.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Totemism.internal|Totemism.internal]] 
 
-### #is_/same_as :: [Totemism.protect](/_protect/Philosophy/Metaphysic/Religion/Totemism.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Totemism.protect|Totemism.protect]] 
 
-### #is_/same_as :: [Totemism.private](/_private/Philosophy/Metaphysic/Religion/Totemism.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Totemism.private|Totemism.private]] 
 
-### #is_/same_as :: [Totemism.personal](/_personal/Philosophy/Metaphysic/Religion/Totemism.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Totemism.personal|Totemism.personal]] 
 
-### #is_/same_as :: [Totemism.secret](/_secret/Philosophy/Metaphysic/Religion/Totemism.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Totemism.secret|Totemism.secret]] 
 

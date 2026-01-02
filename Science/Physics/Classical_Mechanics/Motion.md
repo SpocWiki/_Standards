@@ -44,17 +44,17 @@ MeSH_tree_code: G01.482
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Motion](/_Standards/Science/Physics/Classical_Mechanics/Motion.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Classical_Mechanics/Motion|Motion]] 
 
-### #is_/same_as :: [Motion.public](/_public/Science/Physics/Classical_Mechanics/Motion.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Classical_Mechanics/Motion.public|Motion.public]] 
 
-### #is_/same_as :: [Motion.internal](/_internal/Science/Physics/Classical_Mechanics/Motion.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Classical_Mechanics/Motion.internal|Motion.internal]] 
 
-### #is_/same_as :: [Motion.protect](/_protect/Science/Physics/Classical_Mechanics/Motion.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Classical_Mechanics/Motion.protect|Motion.protect]] 
 
-### #is_/same_as :: [Motion.private](/_private/Science/Physics/Classical_Mechanics/Motion.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Classical_Mechanics/Motion.private|Motion.private]] 
 
-### #is_/same_as :: [Motion.personal](/_personal/Science/Physics/Classical_Mechanics/Motion.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Classical_Mechanics/Motion.personal|Motion.personal]] 
 
-### #is_/same_as :: [Motion.secret](/_secret/Science/Physics/Classical_Mechanics/Motion.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Classical_Mechanics/Motion.secret|Motion.secret]] 
 

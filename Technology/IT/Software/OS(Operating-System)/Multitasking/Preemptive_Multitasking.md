@@ -16,17 +16,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Preemptive_Multitasking](/_Standards/Technology/IT/Software/OS(Operating-System)/Multitasking/Preemptive_Multitasking.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Software/OS(Operating-System)/Multitasking/Preemptive_Multitasking|Preemptive_Multitasking]] 
 
-### #is_/same_as :: [Preemptive_Multitasking.public](/_public/Technology/IT/Software/OS(Operating-System)/Multitasking/Preemptive_Multitasking.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Software/OS(Operating-System)/Multitasking/Preemptive_Multitasking.public|Preemptive_Multitasking.public]] 
 
-### #is_/same_as :: [Preemptive_Multitasking.internal](/_internal/Technology/IT/Software/OS(Operating-System)/Multitasking/Preemptive_Multitasking.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Software/OS(Operating-System)/Multitasking/Preemptive_Multitasking.internal|Preemptive_Multitasking.internal]] 
 
-### #is_/same_as :: [Preemptive_Multitasking.protect](/_protect/Technology/IT/Software/OS(Operating-System)/Multitasking/Preemptive_Multitasking.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Software/OS(Operating-System)/Multitasking/Preemptive_Multitasking.protect|Preemptive_Multitasking.protect]] 
 
-### #is_/same_as :: [Preemptive_Multitasking.private](/_private/Technology/IT/Software/OS(Operating-System)/Multitasking/Preemptive_Multitasking.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Software/OS(Operating-System)/Multitasking/Preemptive_Multitasking.private|Preemptive_Multitasking.private]] 
 
-### #is_/same_as :: [Preemptive_Multitasking.personal](/_personal/Technology/IT/Software/OS(Operating-System)/Multitasking/Preemptive_Multitasking.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Software/OS(Operating-System)/Multitasking/Preemptive_Multitasking.personal|Preemptive_Multitasking.personal]] 
 
-### #is_/same_as :: [Preemptive_Multitasking.secret](/_secret/Technology/IT/Software/OS(Operating-System)/Multitasking/Preemptive_Multitasking.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Software/OS(Operating-System)/Multitasking/Preemptive_Multitasking.secret|Preemptive_Multitasking.secret]] 
 

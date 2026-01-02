@@ -44,17 +44,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_url_for_payment](/_Standards/schema-org/Property/has_url_for/has_url_for_payment.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_url_for/has_url_for_payment|has_url_for_payment]] 
 
-### #is_/same_as :: [has_url_for_payment.public](/_public/schema-org/Property/has_url_for/has_url_for_payment.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/has_url_for/has_url_for_payment.public|has_url_for_payment.public]] 
 
-### #is_/same_as :: [has_url_for_payment.internal](/_internal/schema-org/Property/has_url_for/has_url_for_payment.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_url_for/has_url_for_payment.internal|has_url_for_payment.internal]] 
 
-### #is_/same_as :: [has_url_for_payment.protect](/_protect/schema-org/Property/has_url_for/has_url_for_payment.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_url_for/has_url_for_payment.protect|has_url_for_payment.protect]] 
 
-### #is_/same_as :: [has_url_for_payment.private](/_private/schema-org/Property/has_url_for/has_url_for_payment.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/has_url_for/has_url_for_payment.private|has_url_for_payment.private]] 
 
-### #is_/same_as :: [has_url_for_payment.personal](/_personal/schema-org/Property/has_url_for/has_url_for_payment.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_url_for/has_url_for_payment.personal|has_url_for_payment.personal]] 
 
-### #is_/same_as :: [has_url_for_payment.secret](/_secret/schema-org/Property/has_url_for/has_url_for_payment.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/has_url_for/has_url_for_payment.secret|has_url_for_payment.secret]] 
 

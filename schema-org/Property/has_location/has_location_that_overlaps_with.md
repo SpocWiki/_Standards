@@ -51,17 +51,17 @@ but these are too granular and create unnecessary Redundancy.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_location_that_overlaps_with](/_Standards/schema-org/Property/has_location/has_location_that_overlaps_with.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_location/has_location_that_overlaps_with|has_location_that_overlaps_with]] 
 
-### #is_/same_as :: [has_location_that_overlaps_with.public](/_public/schema-org/Property/has_location/has_location_that_overlaps_with.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/has_location/has_location_that_overlaps_with.public|has_location_that_overlaps_with.public]] 
 
-### #is_/same_as :: [has_location_that_overlaps_with.internal](/_internal/schema-org/Property/has_location/has_location_that_overlaps_with.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_location/has_location_that_overlaps_with.internal|has_location_that_overlaps_with.internal]] 
 
-### #is_/same_as :: [has_location_that_overlaps_with.protect](/_protect/schema-org/Property/has_location/has_location_that_overlaps_with.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_location/has_location_that_overlaps_with.protect|has_location_that_overlaps_with.protect]] 
 
-### #is_/same_as :: [has_location_that_overlaps_with.private](/_private/schema-org/Property/has_location/has_location_that_overlaps_with.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/has_location/has_location_that_overlaps_with.private|has_location_that_overlaps_with.private]] 
 
-### #is_/same_as :: [has_location_that_overlaps_with.personal](/_personal/schema-org/Property/has_location/has_location_that_overlaps_with.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_location/has_location_that_overlaps_with.personal|has_location_that_overlaps_with.personal]] 
 
-### #is_/same_as :: [has_location_that_overlaps_with.secret](/_secret/schema-org/Property/has_location/has_location_that_overlaps_with.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/has_location/has_location_that_overlaps_with.secret|has_location_that_overlaps_with.secret]] 
 

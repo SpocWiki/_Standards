@@ -105,17 +105,17 @@ IMDb_keyword: reference-to-the-twilight-zone
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Twilight_Zone](/_Standards/Society/Communication/Media/Media_Franchise/Twilight_Zone.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Media_Franchise/Twilight_Zone|Twilight_Zone]] 
 
-### #is_/same_as :: [Twilight_Zone.public](/_public/Society/Communication/Media/Media_Franchise/Twilight_Zone.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Media_Franchise/Twilight_Zone.public|Twilight_Zone.public]] 
 
-### #is_/same_as :: [Twilight_Zone.internal](/_internal/Society/Communication/Media/Media_Franchise/Twilight_Zone.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Media_Franchise/Twilight_Zone.internal|Twilight_Zone.internal]] 
 
-### #is_/same_as :: [Twilight_Zone.protect](/_protect/Society/Communication/Media/Media_Franchise/Twilight_Zone.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Media_Franchise/Twilight_Zone.protect|Twilight_Zone.protect]] 
 
-### #is_/same_as :: [Twilight_Zone.private](/_private/Society/Communication/Media/Media_Franchise/Twilight_Zone.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Media_Franchise/Twilight_Zone.private|Twilight_Zone.private]] 
 
-### #is_/same_as :: [Twilight_Zone.personal](/_personal/Society/Communication/Media/Media_Franchise/Twilight_Zone.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Media_Franchise/Twilight_Zone.personal|Twilight_Zone.personal]] 
 
-### #is_/same_as :: [Twilight_Zone.secret](/_secret/Society/Communication/Media/Media_Franchise/Twilight_Zone.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Media_Franchise/Twilight_Zone.secret|Twilight_Zone.secret]] 
 

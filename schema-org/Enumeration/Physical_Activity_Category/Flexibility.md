@@ -40,17 +40,17 @@ Physical activity that is engaged in to improve joint and muscle flexibility.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Flexibility](/_Standards/schema-org/Enumeration/Physical_Activity_Category/Flexibility.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Physical_Activity_Category/Flexibility|Flexibility]] 
 
-### #is_/same_as :: [Flexibility.public](/_public/schema-org/Enumeration/Physical_Activity_Category/Flexibility.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Physical_Activity_Category/Flexibility.public|Flexibility.public]] 
 
-### #is_/same_as :: [Flexibility.internal](/_internal/schema-org/Enumeration/Physical_Activity_Category/Flexibility.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Physical_Activity_Category/Flexibility.internal|Flexibility.internal]] 
 
-### #is_/same_as :: [Flexibility.protect](/_protect/schema-org/Enumeration/Physical_Activity_Category/Flexibility.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Physical_Activity_Category/Flexibility.protect|Flexibility.protect]] 
 
-### #is_/same_as :: [Flexibility.private](/_private/schema-org/Enumeration/Physical_Activity_Category/Flexibility.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Physical_Activity_Category/Flexibility.private|Flexibility.private]] 
 
-### #is_/same_as :: [Flexibility.personal](/_personal/schema-org/Enumeration/Physical_Activity_Category/Flexibility.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Physical_Activity_Category/Flexibility.personal|Flexibility.personal]] 
 
-### #is_/same_as :: [Flexibility.secret](/_secret/schema-org/Enumeration/Physical_Activity_Category/Flexibility.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Physical_Activity_Category/Flexibility.secret|Flexibility.secret]] 
 

@@ -40,17 +40,17 @@ Commons_gallery: Electromagnet
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Electromagnet](/_Standards/Technology/Engineering/Electrical_Engineering/Electromagnet.md) 
+### #is_/same_as :: [[/_Standards/Technology/Engineering/Electrical_Engineering/Electromagnet|Electromagnet]] 
 
-### #is_/same_as :: [Electromagnet.public](/_public/Technology/Engineering/Electrical_Engineering/Electromagnet.public.md) 
+### #is_/same_as :: [[/_public/Technology/Engineering/Electrical_Engineering/Electromagnet.public|Electromagnet.public]] 
 
-### #is_/same_as :: [Electromagnet.internal](/_internal/Technology/Engineering/Electrical_Engineering/Electromagnet.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Engineering/Electrical_Engineering/Electromagnet.internal|Electromagnet.internal]] 
 
-### #is_/same_as :: [Electromagnet.protect](/_protect/Technology/Engineering/Electrical_Engineering/Electromagnet.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Engineering/Electrical_Engineering/Electromagnet.protect|Electromagnet.protect]] 
 
-### #is_/same_as :: [Electromagnet.private](/_private/Technology/Engineering/Electrical_Engineering/Electromagnet.private.md) 
+### #is_/same_as :: [[/_private/Technology/Engineering/Electrical_Engineering/Electromagnet.private|Electromagnet.private]] 
 
-### #is_/same_as :: [Electromagnet.personal](/_personal/Technology/Engineering/Electrical_Engineering/Electromagnet.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Engineering/Electrical_Engineering/Electromagnet.personal|Electromagnet.personal]] 
 
-### #is_/same_as :: [Electromagnet.secret](/_secret/Technology/Engineering/Electrical_Engineering/Electromagnet.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Engineering/Electrical_Engineering/Electromagnet.secret|Electromagnet.secret]] 
 

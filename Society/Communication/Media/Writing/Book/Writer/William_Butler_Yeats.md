@@ -156,17 +156,17 @@ Swedish_Royal_Theater_Archive: Person/1043
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [William_Butler_Yeats](/_Standards/Society/Communication/Media/Writing/Book/Writer/William_Butler_Yeats.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Writer/William_Butler_Yeats|William_Butler_Yeats]] 
 
-### #is_/same_as :: [William_Butler_Yeats.public](/_public/Society/Communication/Media/Writing/Book/Writer/William_Butler_Yeats.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Writer/William_Butler_Yeats.public|William_Butler_Yeats.public]] 
 
-### #is_/same_as :: [William_Butler_Yeats.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/William_Butler_Yeats.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Writer/William_Butler_Yeats.internal|William_Butler_Yeats.internal]] 
 
-### #is_/same_as :: [William_Butler_Yeats.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/William_Butler_Yeats.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Writer/William_Butler_Yeats.protect|William_Butler_Yeats.protect]] 
 
-### #is_/same_as :: [William_Butler_Yeats.private](/_private/Society/Communication/Media/Writing/Book/Writer/William_Butler_Yeats.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Writer/William_Butler_Yeats.private|William_Butler_Yeats.private]] 
 
-### #is_/same_as :: [William_Butler_Yeats.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/William_Butler_Yeats.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Writer/William_Butler_Yeats.personal|William_Butler_Yeats.personal]] 
 
-### #is_/same_as :: [William_Butler_Yeats.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/William_Butler_Yeats.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Writer/William_Butler_Yeats.secret|William_Butler_Yeats.secret]] 
 

@@ -44,17 +44,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_work_presented](/_Standards/schema-org/Relation/has/has_work_presented.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_work_presented|has_work_presented]] 
 
-### #is_/same_as :: [has_work_presented.public](/_public/schema-org/Relation/has/has_work_presented.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_work_presented.public|has_work_presented.public]] 
 
-### #is_/same_as :: [has_work_presented.internal](/_internal/schema-org/Relation/has/has_work_presented.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_work_presented.internal|has_work_presented.internal]] 
 
-### #is_/same_as :: [has_work_presented.protect](/_protect/schema-org/Relation/has/has_work_presented.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_work_presented.protect|has_work_presented.protect]] 
 
-### #is_/same_as :: [has_work_presented.private](/_private/schema-org/Relation/has/has_work_presented.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_work_presented.private|has_work_presented.private]] 
 
-### #is_/same_as :: [has_work_presented.personal](/_personal/schema-org/Relation/has/has_work_presented.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_work_presented.personal|has_work_presented.personal]] 
 
-### #is_/same_as :: [has_work_presented.secret](/_secret/schema-org/Relation/has/has_work_presented.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_work_presented.secret|has_work_presented.secret]] 
 

@@ -78,17 +78,17 @@ Commons_category: Silk Road
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Silk_Road](/_Standards/Society/Economics/Economic_Activity/Trade/Trade_Route/Silk_Road.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Economic_Activity/Trade/Trade_Route/Silk_Road|Silk_Road]] 
 
-### #is_/same_as :: [Silk_Road.public](/_public/Society/Economics/Economic_Activity/Trade/Trade_Route/Silk_Road.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Economic_Activity/Trade/Trade_Route/Silk_Road.public|Silk_Road.public]] 
 
-### #is_/same_as :: [Silk_Road.internal](/_internal/Society/Economics/Economic_Activity/Trade/Trade_Route/Silk_Road.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Economic_Activity/Trade/Trade_Route/Silk_Road.internal|Silk_Road.internal]] 
 
-### #is_/same_as :: [Silk_Road.protect](/_protect/Society/Economics/Economic_Activity/Trade/Trade_Route/Silk_Road.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Economic_Activity/Trade/Trade_Route/Silk_Road.protect|Silk_Road.protect]] 
 
-### #is_/same_as :: [Silk_Road.private](/_private/Society/Economics/Economic_Activity/Trade/Trade_Route/Silk_Road.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Economic_Activity/Trade/Trade_Route/Silk_Road.private|Silk_Road.private]] 
 
-### #is_/same_as :: [Silk_Road.personal](/_personal/Society/Economics/Economic_Activity/Trade/Trade_Route/Silk_Road.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Economic_Activity/Trade/Trade_Route/Silk_Road.personal|Silk_Road.personal]] 
 
-### #is_/same_as :: [Silk_Road.secret](/_secret/Society/Economics/Economic_Activity/Trade/Trade_Route/Silk_Road.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Economic_Activity/Trade/Trade_Route/Silk_Road.secret|Silk_Road.secret]] 
 

@@ -72,17 +72,17 @@ Copyright ::            © [Steve Hopkin](http://www.stevehopkin.co.uk/)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Tomoceridae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Springtail/Tomoceridae.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Springtail/Tomoceridae|Tomoceridae]] 
 
-### #is_/same_as :: [Tomoceridae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Springtail/Tomoceridae.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Springtail/Tomoceridae.public|Tomoceridae.public]] 
 
-### #is_/same_as :: [Tomoceridae.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Springtail/Tomoceridae.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Springtail/Tomoceridae.internal|Tomoceridae.internal]] 
 
-### #is_/same_as :: [Tomoceridae.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Springtail/Tomoceridae.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Springtail/Tomoceridae.protect|Tomoceridae.protect]] 
 
-### #is_/same_as :: [Tomoceridae.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Springtail/Tomoceridae.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Springtail/Tomoceridae.private|Tomoceridae.private]] 
 
-### #is_/same_as :: [Tomoceridae.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Springtail/Tomoceridae.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Springtail/Tomoceridae.personal|Tomoceridae.personal]] 
 
-### #is_/same_as :: [Tomoceridae.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Springtail/Tomoceridae.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Springtail/Tomoceridae.secret|Tomoceridae.secret]] 
 

@@ -14,17 +14,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Direction~Central](/_Standards/Earth/2D-Directions/Direction~Central.md) 
+### #is_/same_as :: [[/_Standards/Earth/2D-Directions/Direction~Central|Direction~Central]] 
 
-### #is_/same_as :: [Direction~Central.public](/_public/Earth/2D-Directions/Direction~Central.public.md) 
+### #is_/same_as :: [[/_public/Earth/2D-Directions/Direction~Central.public|Direction~Central.public]] 
 
-### #is_/same_as :: [Direction~Central.internal](/_internal/Earth/2D-Directions/Direction~Central.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/2D-Directions/Direction~Central.internal|Direction~Central.internal]] 
 
-### #is_/same_as :: [Direction~Central.protect](/_protect/Earth/2D-Directions/Direction~Central.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/2D-Directions/Direction~Central.protect|Direction~Central.protect]] 
 
-### #is_/same_as :: [Direction~Central.private](/_private/Earth/2D-Directions/Direction~Central.private.md) 
+### #is_/same_as :: [[/_private/Earth/2D-Directions/Direction~Central.private|Direction~Central.private]] 
 
-### #is_/same_as :: [Direction~Central.personal](/_personal/Earth/2D-Directions/Direction~Central.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/2D-Directions/Direction~Central.personal|Direction~Central.personal]] 
 
-### #is_/same_as :: [Direction~Central.secret](/_secret/Earth/2D-Directions/Direction~Central.secret.md)
+### #is_/same_as :: [[/_secret/Earth/2D-Directions/Direction~Central.secret|Direction~Central.secret]] 
 

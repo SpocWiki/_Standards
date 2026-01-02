@@ -73,17 +73,17 @@ TA98_Latin_term: pili
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hair](/_Standards/bio/Medicine/Anatomy/Skin/Hair.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Anatomy/Skin/Hair|Hair]] 
 
-### #is_/same_as :: [Hair.public](/_public/bio/Medicine/Anatomy/Skin/Hair.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Anatomy/Skin/Hair.public|Hair.public]] 
 
-### #is_/same_as :: [Hair.internal](/_internal/bio/Medicine/Anatomy/Skin/Hair.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Anatomy/Skin/Hair.internal|Hair.internal]] 
 
-### #is_/same_as :: [Hair.protect](/_protect/bio/Medicine/Anatomy/Skin/Hair.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Anatomy/Skin/Hair.protect|Hair.protect]] 
 
-### #is_/same_as :: [Hair.private](/_private/bio/Medicine/Anatomy/Skin/Hair.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Anatomy/Skin/Hair.private|Hair.private]] 
 
-### #is_/same_as :: [Hair.personal](/_personal/bio/Medicine/Anatomy/Skin/Hair.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Anatomy/Skin/Hair.personal|Hair.personal]] 
 
-### #is_/same_as :: [Hair.secret](/_secret/bio/Medicine/Anatomy/Skin/Hair.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Anatomy/Skin/Hair.secret|Hair.secret]] 
 

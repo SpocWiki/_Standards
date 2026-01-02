@@ -62,17 +62,17 @@ short_name: Gem
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Zodiac~Gemini](/_Standards/Astronomy/Star~Constellation/Zodiac~Gemini.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Star~Constellation/Zodiac~Gemini|Zodiac~Gemini]] 
 
-### #is_/same_as :: [Zodiac~Gemini.public](/_public/Astronomy/Star~Constellation/Zodiac~Gemini.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Star~Constellation/Zodiac~Gemini.public|Zodiac~Gemini.public]] 
 
-### #is_/same_as :: [Zodiac~Gemini.internal](/_internal/Astronomy/Star~Constellation/Zodiac~Gemini.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Star~Constellation/Zodiac~Gemini.internal|Zodiac~Gemini.internal]] 
 
-### #is_/same_as :: [Zodiac~Gemini.protect](/_protect/Astronomy/Star~Constellation/Zodiac~Gemini.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Star~Constellation/Zodiac~Gemini.protect|Zodiac~Gemini.protect]] 
 
-### #is_/same_as :: [Zodiac~Gemini.private](/_private/Astronomy/Star~Constellation/Zodiac~Gemini.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Star~Constellation/Zodiac~Gemini.private|Zodiac~Gemini.private]] 
 
-### #is_/same_as :: [Zodiac~Gemini.personal](/_personal/Astronomy/Star~Constellation/Zodiac~Gemini.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Star~Constellation/Zodiac~Gemini.personal|Zodiac~Gemini.personal]] 
 
-### #is_/same_as :: [Zodiac~Gemini.secret](/_secret/Astronomy/Star~Constellation/Zodiac~Gemini.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Star~Constellation/Zodiac~Gemini.secret|Zodiac~Gemini.secret]] 
 

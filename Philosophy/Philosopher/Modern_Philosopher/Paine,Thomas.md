@@ -165,17 +165,17 @@ Krugosvet_article_archived_: istoriya/PEN_TOMAS.html
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Paine,Thomas](/_Standards/Philosophy/Philosopher/Modern_Philosopher/Paine,Thomas.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Philosopher/Modern_Philosopher/Paine,Thomas|Paine,Thomas]] 
 
-### #is_/same_as :: [Paine,Thomas.public](/_public/Philosophy/Philosopher/Modern_Philosopher/Paine,Thomas.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Philosopher/Modern_Philosopher/Paine,Thomas.public|Paine,Thomas.public]] 
 
-### #is_/same_as :: [Paine,Thomas.internal](/_internal/Philosophy/Philosopher/Modern_Philosopher/Paine,Thomas.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Philosopher/Modern_Philosopher/Paine,Thomas.internal|Paine,Thomas.internal]] 
 
-### #is_/same_as :: [Paine,Thomas.protect](/_protect/Philosophy/Philosopher/Modern_Philosopher/Paine,Thomas.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Philosopher/Modern_Philosopher/Paine,Thomas.protect|Paine,Thomas.protect]] 
 
-### #is_/same_as :: [Paine,Thomas.private](/_private/Philosophy/Philosopher/Modern_Philosopher/Paine,Thomas.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Philosopher/Modern_Philosopher/Paine,Thomas.private|Paine,Thomas.private]] 
 
-### #is_/same_as :: [Paine,Thomas.personal](/_personal/Philosophy/Philosopher/Modern_Philosopher/Paine,Thomas.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Philosopher/Modern_Philosopher/Paine,Thomas.personal|Paine,Thomas.personal]] 
 
-### #is_/same_as :: [Paine,Thomas.secret](/_secret/Philosophy/Philosopher/Modern_Philosopher/Paine,Thomas.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Philosopher/Modern_Philosopher/Paine,Thomas.secret|Paine,Thomas.secret]] 
 

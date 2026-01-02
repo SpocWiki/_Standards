@@ -119,17 +119,17 @@ video:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Metal](/_Standards/Chemistry/Material/Metallurgy/Metal.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Material/Metallurgy/Metal|Metal]] 
 
-### #is_/same_as :: [Metal.public](/_public/Chemistry/Material/Metallurgy/Metal.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Material/Metallurgy/Metal.public|Metal.public]] 
 
-### #is_/same_as :: [Metal.internal](/_internal/Chemistry/Material/Metallurgy/Metal.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Material/Metallurgy/Metal.internal|Metal.internal]] 
 
-### #is_/same_as :: [Metal.protect](/_protect/Chemistry/Material/Metallurgy/Metal.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Material/Metallurgy/Metal.protect|Metal.protect]] 
 
-### #is_/same_as :: [Metal.private](/_private/Chemistry/Material/Metallurgy/Metal.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Material/Metallurgy/Metal.private|Metal.private]] 
 
-### #is_/same_as :: [Metal.personal](/_personal/Chemistry/Material/Metallurgy/Metal.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Material/Metallurgy/Metal.personal|Metal.personal]] 
 
-### #is_/same_as :: [Metal.secret](/_secret/Chemistry/Material/Metallurgy/Metal.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Material/Metallurgy/Metal.secret|Metal.secret]] 
 

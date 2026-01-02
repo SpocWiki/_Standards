@@ -33,17 +33,17 @@ montage_image: http://commons.wikimedia.org/wiki/Special:FilePath/Circumstellar%
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Circumstellar_Disk](/_Standards/Astronomy/Star/Circumstellar_Disk.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Star/Circumstellar_Disk|Circumstellar_Disk]] 
 
-### #is_/same_as :: [Circumstellar_Disk.public](/_public/Astronomy/Star/Circumstellar_Disk.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Star/Circumstellar_Disk.public|Circumstellar_Disk.public]] 
 
-### #is_/same_as :: [Circumstellar_Disk.internal](/_internal/Astronomy/Star/Circumstellar_Disk.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Star/Circumstellar_Disk.internal|Circumstellar_Disk.internal]] 
 
-### #is_/same_as :: [Circumstellar_Disk.protect](/_protect/Astronomy/Star/Circumstellar_Disk.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Star/Circumstellar_Disk.protect|Circumstellar_Disk.protect]] 
 
-### #is_/same_as :: [Circumstellar_Disk.private](/_private/Astronomy/Star/Circumstellar_Disk.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Star/Circumstellar_Disk.private|Circumstellar_Disk.private]] 
 
-### #is_/same_as :: [Circumstellar_Disk.personal](/_personal/Astronomy/Star/Circumstellar_Disk.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Star/Circumstellar_Disk.personal|Circumstellar_Disk.personal]] 
 
-### #is_/same_as :: [Circumstellar_Disk.secret](/_secret/Astronomy/Star/Circumstellar_Disk.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Star/Circumstellar_Disk.secret|Circumstellar_Disk.secret]] 
 

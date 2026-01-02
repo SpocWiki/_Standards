@@ -49,17 +49,17 @@ MeSH_tree_code:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Social_Cohesion](/_Standards/Society/Social_Relation/Group_Dynamics/Social_Cohesion.md) 
+### #is_/same_as :: [[/_Standards/Society/Social_Relation/Group_Dynamics/Social_Cohesion|Social_Cohesion]] 
 
-### #is_/same_as :: [Social_Cohesion.public](/_public/Society/Social_Relation/Group_Dynamics/Social_Cohesion.public.md) 
+### #is_/same_as :: [[/_public/Society/Social_Relation/Group_Dynamics/Social_Cohesion.public|Social_Cohesion.public]] 
 
-### #is_/same_as :: [Social_Cohesion.internal](/_internal/Society/Social_Relation/Group_Dynamics/Social_Cohesion.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Social_Relation/Group_Dynamics/Social_Cohesion.internal|Social_Cohesion.internal]] 
 
-### #is_/same_as :: [Social_Cohesion.protect](/_protect/Society/Social_Relation/Group_Dynamics/Social_Cohesion.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Social_Relation/Group_Dynamics/Social_Cohesion.protect|Social_Cohesion.protect]] 
 
-### #is_/same_as :: [Social_Cohesion.private](/_private/Society/Social_Relation/Group_Dynamics/Social_Cohesion.private.md) 
+### #is_/same_as :: [[/_private/Society/Social_Relation/Group_Dynamics/Social_Cohesion.private|Social_Cohesion.private]] 
 
-### #is_/same_as :: [Social_Cohesion.personal](/_personal/Society/Social_Relation/Group_Dynamics/Social_Cohesion.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Social_Relation/Group_Dynamics/Social_Cohesion.personal|Social_Cohesion.personal]] 
 
-### #is_/same_as :: [Social_Cohesion.secret](/_secret/Society/Social_Relation/Group_Dynamics/Social_Cohesion.secret.md)
+### #is_/same_as :: [[/_secret/Society/Social_Relation/Group_Dynamics/Social_Cohesion.secret|Social_Cohesion.secret]] 
 

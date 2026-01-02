@@ -74,17 +74,17 @@ NBN_System_Key: NHMSYS0000458877
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Fragaria](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Rosales/Rosaceae/Rosoideae/Fragaria.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Rosales/Rosaceae/Rosoideae/Fragaria|Fragaria]] 
 
-### #is_/same_as :: [Fragaria.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Rosales/Rosaceae/Rosoideae/Fragaria.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Rosales/Rosaceae/Rosoideae/Fragaria.public|Fragaria.public]] 
 
-### #is_/same_as :: [Fragaria.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Rosales/Rosaceae/Rosoideae/Fragaria.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Rosales/Rosaceae/Rosoideae/Fragaria.internal|Fragaria.internal]] 
 
-### #is_/same_as :: [Fragaria.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Rosales/Rosaceae/Rosoideae/Fragaria.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Rosales/Rosaceae/Rosoideae/Fragaria.protect|Fragaria.protect]] 
 
-### #is_/same_as :: [Fragaria.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Rosales/Rosaceae/Rosoideae/Fragaria.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Rosales/Rosaceae/Rosoideae/Fragaria.private|Fragaria.private]] 
 
-### #is_/same_as :: [Fragaria.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Rosales/Rosaceae/Rosoideae/Fragaria.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Rosales/Rosaceae/Rosoideae/Fragaria.personal|Fragaria.personal]] 
 
-### #is_/same_as :: [Fragaria.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Rosales/Rosaceae/Rosoideae/Fragaria.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Rosales/Rosaceae/Rosoideae/Fragaria.secret|Fragaria.secret]] 
 

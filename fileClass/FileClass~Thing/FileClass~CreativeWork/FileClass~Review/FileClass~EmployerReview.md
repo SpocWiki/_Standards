@@ -37,17 +37,17 @@ An [[EmployerReview]] is a review of an [[../../../../Society/Agent/Community/Or
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~EmployerReview](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Review/FileClass~EmployerReview.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Review/FileClass~EmployerReview|FileClass~EmployerReview]] 
 
-### #is_/same_as :: [FileClass~EmployerReview.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Review/FileClass~EmployerReview.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Review/FileClass~EmployerReview.public|FileClass~EmployerReview.public]] 
 
-### #is_/same_as :: [FileClass~EmployerReview.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Review/FileClass~EmployerReview.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Review/FileClass~EmployerReview.internal|FileClass~EmployerReview.internal]] 
 
-### #is_/same_as :: [FileClass~EmployerReview.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Review/FileClass~EmployerReview.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Review/FileClass~EmployerReview.protect|FileClass~EmployerReview.protect]] 
 
-### #is_/same_as :: [FileClass~EmployerReview.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Review/FileClass~EmployerReview.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Review/FileClass~EmployerReview.private|FileClass~EmployerReview.private]] 
 
-### #is_/same_as :: [FileClass~EmployerReview.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Review/FileClass~EmployerReview.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Review/FileClass~EmployerReview.personal|FileClass~EmployerReview.personal]] 
 
-### #is_/same_as :: [FileClass~EmployerReview.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Review/FileClass~EmployerReview.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Review/FileClass~EmployerReview.secret|FileClass~EmployerReview.secret]] 
 

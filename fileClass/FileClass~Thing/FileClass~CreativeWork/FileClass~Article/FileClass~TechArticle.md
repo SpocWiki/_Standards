@@ -57,17 +57,17 @@ ProficiencyLevel:: {"type":"Input","options":{}}
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~TechArticle](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~TechArticle.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~TechArticle|FileClass~TechArticle]] 
 
-### #is_/same_as :: [FileClass~TechArticle.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~TechArticle.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~TechArticle.public|FileClass~TechArticle.public]] 
 
-### #is_/same_as :: [FileClass~TechArticle.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~TechArticle.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~TechArticle.internal|FileClass~TechArticle.internal]] 
 
-### #is_/same_as :: [FileClass~TechArticle.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~TechArticle.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~TechArticle.protect|FileClass~TechArticle.protect]] 
 
-### #is_/same_as :: [FileClass~TechArticle.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~TechArticle.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~TechArticle.private|FileClass~TechArticle.private]] 
 
-### #is_/same_as :: [FileClass~TechArticle.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~TechArticle.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~TechArticle.personal|FileClass~TechArticle.personal]] 
 
-### #is_/same_as :: [FileClass~TechArticle.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~TechArticle.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~TechArticle.secret|FileClass~TechArticle.secret]] 
 

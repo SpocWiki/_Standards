@@ -158,17 +158,17 @@ ZVG_number: 8480
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Gold](/_Standards/Chemistry/Chemical_Element/Group-11-Copper/Gold.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Chemical_Element/Group-11-Copper/Gold|Gold]] 
 
-### #is_/same_as :: [Gold.public](/_public/Chemistry/Chemical_Element/Group-11-Copper/Gold.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Chemical_Element/Group-11-Copper/Gold.public|Gold.public]] 
 
-### #is_/same_as :: [Gold.internal](/_internal/Chemistry/Chemical_Element/Group-11-Copper/Gold.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Chemical_Element/Group-11-Copper/Gold.internal|Gold.internal]] 
 
-### #is_/same_as :: [Gold.protect](/_protect/Chemistry/Chemical_Element/Group-11-Copper/Gold.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Chemical_Element/Group-11-Copper/Gold.protect|Gold.protect]] 
 
-### #is_/same_as :: [Gold.private](/_private/Chemistry/Chemical_Element/Group-11-Copper/Gold.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Chemical_Element/Group-11-Copper/Gold.private|Gold.private]] 
 
-### #is_/same_as :: [Gold.personal](/_personal/Chemistry/Chemical_Element/Group-11-Copper/Gold.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Chemical_Element/Group-11-Copper/Gold.personal|Gold.personal]] 
 
-### #is_/same_as :: [Gold.secret](/_secret/Chemistry/Chemical_Element/Group-11-Copper/Gold.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Chemical_Element/Group-11-Copper/Gold.secret|Gold.secret]] 
 

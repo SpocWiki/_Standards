@@ -140,17 +140,17 @@ ZVG_number: 7550
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Caesium](/_Standards/Chemistry/Chemical_Element/Group-01-Alkali/Caesium.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Chemical_Element/Group-01-Alkali/Caesium|Caesium]] 
 
-### #is_/same_as :: [Caesium.public](/_public/Chemistry/Chemical_Element/Group-01-Alkali/Caesium.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Chemical_Element/Group-01-Alkali/Caesium.public|Caesium.public]] 
 
-### #is_/same_as :: [Caesium.internal](/_internal/Chemistry/Chemical_Element/Group-01-Alkali/Caesium.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Chemical_Element/Group-01-Alkali/Caesium.internal|Caesium.internal]] 
 
-### #is_/same_as :: [Caesium.protect](/_protect/Chemistry/Chemical_Element/Group-01-Alkali/Caesium.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Chemical_Element/Group-01-Alkali/Caesium.protect|Caesium.protect]] 
 
-### #is_/same_as :: [Caesium.private](/_private/Chemistry/Chemical_Element/Group-01-Alkali/Caesium.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Chemical_Element/Group-01-Alkali/Caesium.private|Caesium.private]] 
 
-### #is_/same_as :: [Caesium.personal](/_personal/Chemistry/Chemical_Element/Group-01-Alkali/Caesium.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Chemical_Element/Group-01-Alkali/Caesium.personal|Caesium.personal]] 
 
-### #is_/same_as :: [Caesium.secret](/_secret/Chemistry/Chemical_Element/Group-01-Alkali/Caesium.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Chemical_Element/Group-01-Alkali/Caesium.secret|Caesium.secret]] 
 

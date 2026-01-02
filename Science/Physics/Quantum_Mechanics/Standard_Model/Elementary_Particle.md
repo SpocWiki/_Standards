@@ -57,17 +57,17 @@ MeSH_tree_code: G01.249
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Elementary_Particle](/_Standards/Science/Physics/Quantum_Mechanics/Standard_Model/Elementary_Particle.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Quantum_Mechanics/Standard_Model/Elementary_Particle|Elementary_Particle]] 
 
-### #is_/same_as :: [Elementary_Particle.public](/_public/Science/Physics/Quantum_Mechanics/Standard_Model/Elementary_Particle.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Quantum_Mechanics/Standard_Model/Elementary_Particle.public|Elementary_Particle.public]] 
 
-### #is_/same_as :: [Elementary_Particle.internal](/_internal/Science/Physics/Quantum_Mechanics/Standard_Model/Elementary_Particle.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Quantum_Mechanics/Standard_Model/Elementary_Particle.internal|Elementary_Particle.internal]] 
 
-### #is_/same_as :: [Elementary_Particle.protect](/_protect/Science/Physics/Quantum_Mechanics/Standard_Model/Elementary_Particle.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Quantum_Mechanics/Standard_Model/Elementary_Particle.protect|Elementary_Particle.protect]] 
 
-### #is_/same_as :: [Elementary_Particle.private](/_private/Science/Physics/Quantum_Mechanics/Standard_Model/Elementary_Particle.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Quantum_Mechanics/Standard_Model/Elementary_Particle.private|Elementary_Particle.private]] 
 
-### #is_/same_as :: [Elementary_Particle.personal](/_personal/Science/Physics/Quantum_Mechanics/Standard_Model/Elementary_Particle.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Quantum_Mechanics/Standard_Model/Elementary_Particle.personal|Elementary_Particle.personal]] 
 
-### #is_/same_as :: [Elementary_Particle.secret](/_secret/Science/Physics/Quantum_Mechanics/Standard_Model/Elementary_Particle.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Quantum_Mechanics/Standard_Model/Elementary_Particle.secret|Elementary_Particle.secret]] 
 

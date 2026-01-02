@@ -15,3 +15,22 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Olympic%20Council%20of%20Asia) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/International_Sports_Federation/IOC(International_Olympic_Committee)/Olympic_Council_of_Asia 1|Olympic_Council_of_Asia 1]] 
+
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/International_Sports_Federation/IOC(International_Olympic_Committee)/Olympic_Council_of_Asia 1.public|Olympic_Council_of_Asia 1.public]] 
+
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/International_Sports_Federation/IOC(International_Olympic_Committee)/Olympic_Council_of_Asia 1.internal|Olympic_Council_of_Asia 1.internal]] 
+
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/International_Sports_Federation/IOC(International_Olympic_Committee)/Olympic_Council_of_Asia 1.protect|Olympic_Council_of_Asia 1.protect]] 
+
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/International_Sports_Federation/IOC(International_Olympic_Committee)/Olympic_Council_of_Asia 1.private|Olympic_Council_of_Asia 1.private]] 
+
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/International_Sports_Federation/IOC(International_Olympic_Committee)/Olympic_Council_of_Asia 1.personal|Olympic_Council_of_Asia 1.personal]] 
+
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/International_Sports_Federation/IOC(International_Olympic_Committee)/Olympic_Council_of_Asia 1.secret|Olympic_Council_of_Asia 1.secret]] 
+

@@ -73,17 +73,17 @@ native_label: European Bank for Reconstruction and Development
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [European_Bank_for_Reconstruction_and_Development](/_Standards/Earth/Continent/Europe/European_Bank_for_Reconstruction_and_Development.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/European_Bank_for_Reconstruction_and_Development|European_Bank_for_Reconstruction_and_Development]] 
 
-### #is_/same_as :: [European_Bank_for_Reconstruction_and_Development.public](/_public/Earth/Continent/Europe/European_Bank_for_Reconstruction_and_Development.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/European_Bank_for_Reconstruction_and_Development.public|European_Bank_for_Reconstruction_and_Development.public]] 
 
-### #is_/same_as :: [European_Bank_for_Reconstruction_and_Development.internal](/_internal/Earth/Continent/Europe/European_Bank_for_Reconstruction_and_Development.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/European_Bank_for_Reconstruction_and_Development.internal|European_Bank_for_Reconstruction_and_Development.internal]] 
 
-### #is_/same_as :: [European_Bank_for_Reconstruction_and_Development.protect](/_protect/Earth/Continent/Europe/European_Bank_for_Reconstruction_and_Development.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/European_Bank_for_Reconstruction_and_Development.protect|European_Bank_for_Reconstruction_and_Development.protect]] 
 
-### #is_/same_as :: [European_Bank_for_Reconstruction_and_Development.private](/_private/Earth/Continent/Europe/European_Bank_for_Reconstruction_and_Development.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/European_Bank_for_Reconstruction_and_Development.private|European_Bank_for_Reconstruction_and_Development.private]] 
 
-### #is_/same_as :: [European_Bank_for_Reconstruction_and_Development.personal](/_personal/Earth/Continent/Europe/European_Bank_for_Reconstruction_and_Development.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/European_Bank_for_Reconstruction_and_Development.personal|European_Bank_for_Reconstruction_and_Development.personal]] 
 
-### #is_/same_as :: [European_Bank_for_Reconstruction_and_Development.secret](/_secret/Earth/Continent/Europe/European_Bank_for_Reconstruction_and_Development.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/European_Bank_for_Reconstruction_and_Development.secret|European_Bank_for_Reconstruction_and_Development.secret]] 
 

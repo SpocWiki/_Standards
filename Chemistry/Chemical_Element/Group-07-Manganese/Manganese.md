@@ -167,17 +167,17 @@ Krugosvet_article_archived_: nauka_i_tehnika/himiya/MARGANETS.html
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Manganese](/_Standards/Chemistry/Chemical_Element/Group-07-Manganese/Manganese.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Chemical_Element/Group-07-Manganese/Manganese|Manganese]] 
 
-### #is_/same_as :: [Manganese.public](/_public/Chemistry/Chemical_Element/Group-07-Manganese/Manganese.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Chemical_Element/Group-07-Manganese/Manganese.public|Manganese.public]] 
 
-### #is_/same_as :: [Manganese.internal](/_internal/Chemistry/Chemical_Element/Group-07-Manganese/Manganese.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Chemical_Element/Group-07-Manganese/Manganese.internal|Manganese.internal]] 
 
-### #is_/same_as :: [Manganese.protect](/_protect/Chemistry/Chemical_Element/Group-07-Manganese/Manganese.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Chemical_Element/Group-07-Manganese/Manganese.protect|Manganese.protect]] 
 
-### #is_/same_as :: [Manganese.private](/_private/Chemistry/Chemical_Element/Group-07-Manganese/Manganese.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Chemical_Element/Group-07-Manganese/Manganese.private|Manganese.private]] 
 
-### #is_/same_as :: [Manganese.personal](/_personal/Chemistry/Chemical_Element/Group-07-Manganese/Manganese.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Chemical_Element/Group-07-Manganese/Manganese.personal|Manganese.personal]] 
 
-### #is_/same_as :: [Manganese.secret](/_secret/Chemistry/Chemical_Element/Group-07-Manganese/Manganese.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Chemical_Element/Group-07-Manganese/Manganese.secret|Manganese.secret]] 
 

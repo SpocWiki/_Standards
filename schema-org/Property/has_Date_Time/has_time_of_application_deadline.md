@@ -44,17 +44,17 @@ Formal Predicate:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_time_of_application_deadline](/_Standards/schema-org/Property/has_Date_Time/has_time_of_application_deadline.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_Date_Time/has_time_of_application_deadline|has_time_of_application_deadline]] 
 
-### #is_/same_as :: [has_time_of_application_deadline.public](/_public/schema-org/Property/has_Date_Time/has_time_of_application_deadline.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/has_Date_Time/has_time_of_application_deadline.public|has_time_of_application_deadline.public]] 
 
-### #is_/same_as :: [has_time_of_application_deadline.internal](/_internal/schema-org/Property/has_Date_Time/has_time_of_application_deadline.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_Date_Time/has_time_of_application_deadline.internal|has_time_of_application_deadline.internal]] 
 
-### #is_/same_as :: [has_time_of_application_deadline.protect](/_protect/schema-org/Property/has_Date_Time/has_time_of_application_deadline.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_Date_Time/has_time_of_application_deadline.protect|has_time_of_application_deadline.protect]] 
 
-### #is_/same_as :: [has_time_of_application_deadline.private](/_private/schema-org/Property/has_Date_Time/has_time_of_application_deadline.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/has_Date_Time/has_time_of_application_deadline.private|has_time_of_application_deadline.private]] 
 
-### #is_/same_as :: [has_time_of_application_deadline.personal](/_personal/schema-org/Property/has_Date_Time/has_time_of_application_deadline.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_Date_Time/has_time_of_application_deadline.personal|has_time_of_application_deadline.personal]] 
 
-### #is_/same_as :: [has_time_of_application_deadline.secret](/_secret/schema-org/Property/has_Date_Time/has_time_of_application_deadline.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/has_Date_Time/has_time_of_application_deadline.secret|has_time_of_application_deadline.secret]] 
 

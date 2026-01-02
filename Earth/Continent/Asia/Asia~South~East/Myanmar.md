@@ -163,17 +163,17 @@ Capital :: [[Naypyidaw]]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Myanmar](/_Standards/Earth/Continent/Asia/Asia~South~East/Myanmar.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~South~East/Myanmar|Myanmar]] 
 
-### #is_/same_as :: [Myanmar.public](/_public/Earth/Continent/Asia/Asia~South~East/Myanmar.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~South~East/Myanmar.public|Myanmar.public]] 
 
-### #is_/same_as :: [Myanmar.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Myanmar.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~South~East/Myanmar.internal|Myanmar.internal]] 
 
-### #is_/same_as :: [Myanmar.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Myanmar.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~South~East/Myanmar.protect|Myanmar.protect]] 
 
-### #is_/same_as :: [Myanmar.private](/_private/Earth/Continent/Asia/Asia~South~East/Myanmar.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~South~East/Myanmar.private|Myanmar.private]] 
 
-### #is_/same_as :: [Myanmar.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Myanmar.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~South~East/Myanmar.personal|Myanmar.personal]] 
 
-### #is_/same_as :: [Myanmar.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Myanmar.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~South~East/Myanmar.secret|Myanmar.secret]] 
 

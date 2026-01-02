@@ -37,17 +37,17 @@ A car rental business.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~AutoRental](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~AutomotiveBusiness/FileClass~AutoRental.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~AutomotiveBusiness/FileClass~AutoRental|FileClass~AutoRental]] 
 
-### #is_/same_as :: [FileClass~AutoRental.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~AutomotiveBusiness/FileClass~AutoRental.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~AutomotiveBusiness/FileClass~AutoRental.public|FileClass~AutoRental.public]] 
 
-### #is_/same_as :: [FileClass~AutoRental.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~AutomotiveBusiness/FileClass~AutoRental.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~AutomotiveBusiness/FileClass~AutoRental.internal|FileClass~AutoRental.internal]] 
 
-### #is_/same_as :: [FileClass~AutoRental.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~AutomotiveBusiness/FileClass~AutoRental.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~AutomotiveBusiness/FileClass~AutoRental.protect|FileClass~AutoRental.protect]] 
 
-### #is_/same_as :: [FileClass~AutoRental.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~AutomotiveBusiness/FileClass~AutoRental.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~AutomotiveBusiness/FileClass~AutoRental.private|FileClass~AutoRental.private]] 
 
-### #is_/same_as :: [FileClass~AutoRental.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~AutomotiveBusiness/FileClass~AutoRental.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~AutomotiveBusiness/FileClass~AutoRental.personal|FileClass~AutoRental.personal]] 
 
-### #is_/same_as :: [FileClass~AutoRental.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~AutomotiveBusiness/FileClass~AutoRental.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~AutomotiveBusiness/FileClass~AutoRental.secret|FileClass~AutoRental.secret]] 
 

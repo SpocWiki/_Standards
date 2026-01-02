@@ -74,17 +74,17 @@ USDA_NDB_number:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Apricot(Fruit)](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Fruits/Apricot(Fruit).md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Home_Economics/Cooking/Food/Fruits/Apricot(Fruit)|Apricot(Fruit)]] 
 
-### #is_/same_as :: [Apricot(Fruit).public](/_public/Society/Economics/Home_Economics/Cooking/Food/Fruits/Apricot(Fruit).public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Home_Economics/Cooking/Food/Fruits/Apricot(Fruit).public|Apricot(Fruit).public]] 
 
-### #is_/same_as :: [Apricot(Fruit).internal](/_internal/Society/Economics/Home_Economics/Cooking/Food/Fruits/Apricot(Fruit).internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Home_Economics/Cooking/Food/Fruits/Apricot(Fruit).internal|Apricot(Fruit).internal]] 
 
-### #is_/same_as :: [Apricot(Fruit).protect](/_protect/Society/Economics/Home_Economics/Cooking/Food/Fruits/Apricot(Fruit).protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Home_Economics/Cooking/Food/Fruits/Apricot(Fruit).protect|Apricot(Fruit).protect]] 
 
-### #is_/same_as :: [Apricot(Fruit).private](/_private/Society/Economics/Home_Economics/Cooking/Food/Fruits/Apricot(Fruit).private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Home_Economics/Cooking/Food/Fruits/Apricot(Fruit).private|Apricot(Fruit).private]] 
 
-### #is_/same_as :: [Apricot(Fruit).personal](/_personal/Society/Economics/Home_Economics/Cooking/Food/Fruits/Apricot(Fruit).personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Home_Economics/Cooking/Food/Fruits/Apricot(Fruit).personal|Apricot(Fruit).personal]] 
 
-### #is_/same_as :: [Apricot(Fruit).secret](/_secret/Society/Economics/Home_Economics/Cooking/Food/Fruits/Apricot(Fruit).secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Home_Economics/Cooking/Food/Fruits/Apricot(Fruit).secret|Apricot(Fruit).secret]] 
 

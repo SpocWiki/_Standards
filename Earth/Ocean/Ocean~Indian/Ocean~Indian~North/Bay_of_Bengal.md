@@ -106,17 +106,17 @@ Commons_category: Bay of Bengal
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bay_of_Bengal](/_Standards/Earth/Ocean/Ocean~Indian/Ocean~Indian~North/Bay_of_Bengal.md) 
+### #is_/same_as :: [[/_Standards/Earth/Ocean/Ocean~Indian/Ocean~Indian~North/Bay_of_Bengal|Bay_of_Bengal]] 
 
-### #is_/same_as :: [Bay_of_Bengal.public](/_public/Earth/Ocean/Ocean~Indian/Ocean~Indian~North/Bay_of_Bengal.public.md) 
+### #is_/same_as :: [[/_public/Earth/Ocean/Ocean~Indian/Ocean~Indian~North/Bay_of_Bengal.public|Bay_of_Bengal.public]] 
 
-### #is_/same_as :: [Bay_of_Bengal.internal](/_internal/Earth/Ocean/Ocean~Indian/Ocean~Indian~North/Bay_of_Bengal.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Ocean/Ocean~Indian/Ocean~Indian~North/Bay_of_Bengal.internal|Bay_of_Bengal.internal]] 
 
-### #is_/same_as :: [Bay_of_Bengal.protect](/_protect/Earth/Ocean/Ocean~Indian/Ocean~Indian~North/Bay_of_Bengal.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Ocean/Ocean~Indian/Ocean~Indian~North/Bay_of_Bengal.protect|Bay_of_Bengal.protect]] 
 
-### #is_/same_as :: [Bay_of_Bengal.private](/_private/Earth/Ocean/Ocean~Indian/Ocean~Indian~North/Bay_of_Bengal.private.md) 
+### #is_/same_as :: [[/_private/Earth/Ocean/Ocean~Indian/Ocean~Indian~North/Bay_of_Bengal.private|Bay_of_Bengal.private]] 
 
-### #is_/same_as :: [Bay_of_Bengal.personal](/_personal/Earth/Ocean/Ocean~Indian/Ocean~Indian~North/Bay_of_Bengal.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Ocean/Ocean~Indian/Ocean~Indian~North/Bay_of_Bengal.personal|Bay_of_Bengal.personal]] 
 
-### #is_/same_as :: [Bay_of_Bengal.secret](/_secret/Earth/Ocean/Ocean~Indian/Ocean~Indian~North/Bay_of_Bengal.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Ocean/Ocean~Indian/Ocean~Indian~North/Bay_of_Bengal.secret|Bay_of_Bengal.secret]] 
 

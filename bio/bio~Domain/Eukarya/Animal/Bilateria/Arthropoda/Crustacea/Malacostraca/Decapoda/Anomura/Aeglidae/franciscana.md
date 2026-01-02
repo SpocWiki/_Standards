@@ -105,7 +105,7 @@ Sao Francisco de Paula, Rio Grande do Sul, Brazil.
 
 Northeastern Rio Grande do Sul, Brazil; southeastern Santa Catarina,
 Brazil.
-![ ](franciscana/_franciscana1.jpg))
+![ ](franciscana/_franciscana1.jpg) 
 
 © 1994 Georgina Bond-Buckup, Ludwig Buckup
 ## Title Illustrations
@@ -121,17 +121,17 @@ Copyright ::         © 1994 Georgina Bond-Buckup, Ludwig Buckup
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [franciscana](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Anomura/Aeglidae/franciscana.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Anomura/Aeglidae/franciscana|franciscana]] 
 
-### #is_/same_as :: [franciscana.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Anomura/Aeglidae/franciscana.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Anomura/Aeglidae/franciscana.public|franciscana.public]] 
 
-### #is_/same_as :: [franciscana.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Anomura/Aeglidae/franciscana.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Anomura/Aeglidae/franciscana.internal|franciscana.internal]] 
 
-### #is_/same_as :: [franciscana.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Anomura/Aeglidae/franciscana.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Anomura/Aeglidae/franciscana.protect|franciscana.protect]] 
 
-### #is_/same_as :: [franciscana.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Anomura/Aeglidae/franciscana.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Anomura/Aeglidae/franciscana.private|franciscana.private]] 
 
-### #is_/same_as :: [franciscana.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Anomura/Aeglidae/franciscana.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Anomura/Aeglidae/franciscana.personal|franciscana.personal]] 
 
-### #is_/same_as :: [franciscana.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Anomura/Aeglidae/franciscana.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Anomura/Aeglidae/franciscana.secret|franciscana.secret]] 
 

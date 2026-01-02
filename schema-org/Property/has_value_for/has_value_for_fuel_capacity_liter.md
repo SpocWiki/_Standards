@@ -49,17 +49,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_value_for_fuel_capacity_liter](/_Standards/schema-org/Property/has_value_for/has_value_for_fuel_capacity_liter.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_value_for/has_value_for_fuel_capacity_liter|has_value_for_fuel_capacity_liter]] 
 
-### #is_/same_as :: [has_value_for_fuel_capacity_liter.public](/_public/schema-org/Property/has_value_for/has_value_for_fuel_capacity_liter.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/has_value_for/has_value_for_fuel_capacity_liter.public|has_value_for_fuel_capacity_liter.public]] 
 
-### #is_/same_as :: [has_value_for_fuel_capacity_liter.internal](/_internal/schema-org/Property/has_value_for/has_value_for_fuel_capacity_liter.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_value_for/has_value_for_fuel_capacity_liter.internal|has_value_for_fuel_capacity_liter.internal]] 
 
-### #is_/same_as :: [has_value_for_fuel_capacity_liter.protect](/_protect/schema-org/Property/has_value_for/has_value_for_fuel_capacity_liter.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_value_for/has_value_for_fuel_capacity_liter.protect|has_value_for_fuel_capacity_liter.protect]] 
 
-### #is_/same_as :: [has_value_for_fuel_capacity_liter.private](/_private/schema-org/Property/has_value_for/has_value_for_fuel_capacity_liter.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/has_value_for/has_value_for_fuel_capacity_liter.private|has_value_for_fuel_capacity_liter.private]] 
 
-### #is_/same_as :: [has_value_for_fuel_capacity_liter.personal](/_personal/schema-org/Property/has_value_for/has_value_for_fuel_capacity_liter.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_value_for/has_value_for_fuel_capacity_liter.personal|has_value_for_fuel_capacity_liter.personal]] 
 
-### #is_/same_as :: [has_value_for_fuel_capacity_liter.secret](/_secret/schema-org/Property/has_value_for/has_value_for_fuel_capacity_liter.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/has_value_for/has_value_for_fuel_capacity_liter.secret|has_value_for_fuel_capacity_liter.secret]] 
 

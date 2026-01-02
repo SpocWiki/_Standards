@@ -42,17 +42,17 @@ Nonprofit501d: Non-profit type referring to Religious and Apostolic Associations
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Nonprofit501d](/_Standards/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501d.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501d|Nonprofit501d]] 
 
-### #is_/same_as :: [Nonprofit501d.public](/_public/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501d.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501d.public|Nonprofit501d.public]] 
 
-### #is_/same_as :: [Nonprofit501d.internal](/_internal/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501d.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501d.internal|Nonprofit501d.internal]] 
 
-### #is_/same_as :: [Nonprofit501d.protect](/_protect/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501d.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501d.protect|Nonprofit501d.protect]] 
 
-### #is_/same_as :: [Nonprofit501d.private](/_private/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501d.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501d.private|Nonprofit501d.private]] 
 
-### #is_/same_as :: [Nonprofit501d.personal](/_personal/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501d.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501d.personal|Nonprofit501d.personal]] 
 
-### #is_/same_as :: [Nonprofit501d.secret](/_secret/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501d.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501d.secret|Nonprofit501d.secret]] 
 

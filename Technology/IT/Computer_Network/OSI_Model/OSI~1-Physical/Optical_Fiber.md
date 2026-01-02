@@ -80,17 +80,17 @@ short_name: LWL
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Optical_Fiber](/_Standards/Technology/IT/Computer_Network/OSI_Model/OSI~1-Physical/Optical_Fiber.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Computer_Network/OSI_Model/OSI~1-Physical/Optical_Fiber|Optical_Fiber]] 
 
-### #is_/same_as :: [Optical_Fiber.public](/_public/Technology/IT/Computer_Network/OSI_Model/OSI~1-Physical/Optical_Fiber.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Computer_Network/OSI_Model/OSI~1-Physical/Optical_Fiber.public|Optical_Fiber.public]] 
 
-### #is_/same_as :: [Optical_Fiber.internal](/_internal/Technology/IT/Computer_Network/OSI_Model/OSI~1-Physical/Optical_Fiber.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Computer_Network/OSI_Model/OSI~1-Physical/Optical_Fiber.internal|Optical_Fiber.internal]] 
 
-### #is_/same_as :: [Optical_Fiber.protect](/_protect/Technology/IT/Computer_Network/OSI_Model/OSI~1-Physical/Optical_Fiber.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Computer_Network/OSI_Model/OSI~1-Physical/Optical_Fiber.protect|Optical_Fiber.protect]] 
 
-### #is_/same_as :: [Optical_Fiber.private](/_private/Technology/IT/Computer_Network/OSI_Model/OSI~1-Physical/Optical_Fiber.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Computer_Network/OSI_Model/OSI~1-Physical/Optical_Fiber.private|Optical_Fiber.private]] 
 
-### #is_/same_as :: [Optical_Fiber.personal](/_personal/Technology/IT/Computer_Network/OSI_Model/OSI~1-Physical/Optical_Fiber.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Computer_Network/OSI_Model/OSI~1-Physical/Optical_Fiber.personal|Optical_Fiber.personal]] 
 
-### #is_/same_as :: [Optical_Fiber.secret](/_secret/Technology/IT/Computer_Network/OSI_Model/OSI~1-Physical/Optical_Fiber.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Computer_Network/OSI_Model/OSI~1-Physical/Optical_Fiber.secret|Optical_Fiber.secret]] 
 

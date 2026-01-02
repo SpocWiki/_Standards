@@ -18,3 +18,22 @@ Cicero attributes this question to Lucius Cassius.
 
 ![[../../../../../assets/Bosses’_Cookie.png]] 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Society/Law/Judiciary/Court/Cui_bono|Cui_bono]] 
+
+### #is_/same_as :: [[/_public/Society/Law/Judiciary/Court/Cui_bono.public|Cui_bono.public]] 
+
+### #is_/same_as :: [[/_internal/Society/Law/Judiciary/Court/Cui_bono.internal|Cui_bono.internal]] 
+
+### #is_/same_as :: [[/_protect/Society/Law/Judiciary/Court/Cui_bono.protect|Cui_bono.protect]] 
+
+### #is_/same_as :: [[/_private/Society/Law/Judiciary/Court/Cui_bono.private|Cui_bono.private]] 
+
+### #is_/same_as :: [[/_personal/Society/Law/Judiciary/Court/Cui_bono.personal|Cui_bono.personal]] 
+
+### #is_/same_as :: [[/_secret/Society/Law/Judiciary/Court/Cui_bono.secret|Cui_bono.secret]] 
+

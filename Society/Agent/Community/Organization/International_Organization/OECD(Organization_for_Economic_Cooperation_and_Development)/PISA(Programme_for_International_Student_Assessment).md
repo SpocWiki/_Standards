@@ -39,17 +39,17 @@ short_name: PISA
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [PISA(Programme_for_International_Student_Assessment)](/_Standards/Society/Agent/Community/Organization/International_Organization/OECD(Organization_for_Economic_Cooperation_and_Development)/PISA(Programme_for_International_Student_Assessment).md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/International_Organization/OECD(Organization_for_Economic_Cooperation_and_Development)/PISA(Programme_for_International_Student_Assessment)|PISA(Programme_for_International_Student_Assessment)]] 
 
-### #is_/same_as :: [PISA(Programme_for_International_Student_Assessment).public](/_public/Society/Agent/Community/Organization/International_Organization/OECD(Organization_for_Economic_Cooperation_and_Development)/PISA(Programme_for_International_Student_Assessment).public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/International_Organization/OECD(Organization_for_Economic_Cooperation_and_Development)/PISA(Programme_for_International_Student_Assessment).public|PISA(Programme_for_International_Student_Assessment).public]] 
 
-### #is_/same_as :: [PISA(Programme_for_International_Student_Assessment).internal](/_internal/Society/Agent/Community/Organization/International_Organization/OECD(Organization_for_Economic_Cooperation_and_Development)/PISA(Programme_for_International_Student_Assessment).internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/International_Organization/OECD(Organization_for_Economic_Cooperation_and_Development)/PISA(Programme_for_International_Student_Assessment).internal|PISA(Programme_for_International_Student_Assessment).internal]] 
 
-### #is_/same_as :: [PISA(Programme_for_International_Student_Assessment).protect](/_protect/Society/Agent/Community/Organization/International_Organization/OECD(Organization_for_Economic_Cooperation_and_Development)/PISA(Programme_for_International_Student_Assessment).protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/International_Organization/OECD(Organization_for_Economic_Cooperation_and_Development)/PISA(Programme_for_International_Student_Assessment).protect|PISA(Programme_for_International_Student_Assessment).protect]] 
 
-### #is_/same_as :: [PISA(Programme_for_International_Student_Assessment).private](/_private/Society/Agent/Community/Organization/International_Organization/OECD(Organization_for_Economic_Cooperation_and_Development)/PISA(Programme_for_International_Student_Assessment).private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/International_Organization/OECD(Organization_for_Economic_Cooperation_and_Development)/PISA(Programme_for_International_Student_Assessment).private|PISA(Programme_for_International_Student_Assessment).private]] 
 
-### #is_/same_as :: [PISA(Programme_for_International_Student_Assessment).personal](/_personal/Society/Agent/Community/Organization/International_Organization/OECD(Organization_for_Economic_Cooperation_and_Development)/PISA(Programme_for_International_Student_Assessment).personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/International_Organization/OECD(Organization_for_Economic_Cooperation_and_Development)/PISA(Programme_for_International_Student_Assessment).personal|PISA(Programme_for_International_Student_Assessment).personal]] 
 
-### #is_/same_as :: [PISA(Programme_for_International_Student_Assessment).secret](/_secret/Society/Agent/Community/Organization/International_Organization/OECD(Organization_for_Economic_Cooperation_and_Development)/PISA(Programme_for_International_Student_Assessment).secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/International_Organization/OECD(Organization_for_Economic_Cooperation_and_Development)/PISA(Programme_for_International_Student_Assessment).secret|PISA(Programme_for_International_Student_Assessment).secret]] 
 

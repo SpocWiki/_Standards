@@ -53,17 +53,17 @@ quantity_symbol_LaTeX_:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Right_Ascension](/_Standards/Astronomy/Astrometry/Right_Ascension.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Astrometry/Right_Ascension|Right_Ascension]] 
 
-### #is_/same_as :: [Right_Ascension.public](/_public/Astronomy/Astrometry/Right_Ascension.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Astrometry/Right_Ascension.public|Right_Ascension.public]] 
 
-### #is_/same_as :: [Right_Ascension.internal](/_internal/Astronomy/Astrometry/Right_Ascension.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Astrometry/Right_Ascension.internal|Right_Ascension.internal]] 
 
-### #is_/same_as :: [Right_Ascension.protect](/_protect/Astronomy/Astrometry/Right_Ascension.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Astrometry/Right_Ascension.protect|Right_Ascension.protect]] 
 
-### #is_/same_as :: [Right_Ascension.private](/_private/Astronomy/Astrometry/Right_Ascension.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Astrometry/Right_Ascension.private|Right_Ascension.private]] 
 
-### #is_/same_as :: [Right_Ascension.personal](/_personal/Astronomy/Astrometry/Right_Ascension.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Astrometry/Right_Ascension.personal|Right_Ascension.personal]] 
 
-### #is_/same_as :: [Right_Ascension.secret](/_secret/Astronomy/Astrometry/Right_Ascension.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Astrometry/Right_Ascension.secret|Right_Ascension.secret]] 
 

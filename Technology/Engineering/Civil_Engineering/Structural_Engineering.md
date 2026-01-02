@@ -41,17 +41,17 @@ Commons_category: Structural engineering
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Structural_Engineering](/_Standards/Technology/Engineering/Civil_Engineering/Structural_Engineering.md) 
+### #is_/same_as :: [[/_Standards/Technology/Engineering/Civil_Engineering/Structural_Engineering|Structural_Engineering]] 
 
-### #is_/same_as :: [Structural_Engineering.public](/_public/Technology/Engineering/Civil_Engineering/Structural_Engineering.public.md) 
+### #is_/same_as :: [[/_public/Technology/Engineering/Civil_Engineering/Structural_Engineering.public|Structural_Engineering.public]] 
 
-### #is_/same_as :: [Structural_Engineering.internal](/_internal/Technology/Engineering/Civil_Engineering/Structural_Engineering.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Engineering/Civil_Engineering/Structural_Engineering.internal|Structural_Engineering.internal]] 
 
-### #is_/same_as :: [Structural_Engineering.protect](/_protect/Technology/Engineering/Civil_Engineering/Structural_Engineering.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Engineering/Civil_Engineering/Structural_Engineering.protect|Structural_Engineering.protect]] 
 
-### #is_/same_as :: [Structural_Engineering.private](/_private/Technology/Engineering/Civil_Engineering/Structural_Engineering.private.md) 
+### #is_/same_as :: [[/_private/Technology/Engineering/Civil_Engineering/Structural_Engineering.private|Structural_Engineering.private]] 
 
-### #is_/same_as :: [Structural_Engineering.personal](/_personal/Technology/Engineering/Civil_Engineering/Structural_Engineering.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Engineering/Civil_Engineering/Structural_Engineering.personal|Structural_Engineering.personal]] 
 
-### #is_/same_as :: [Structural_Engineering.secret](/_secret/Technology/Engineering/Civil_Engineering/Structural_Engineering.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Engineering/Civil_Engineering/Structural_Engineering.secret|Structural_Engineering.secret]] 
 

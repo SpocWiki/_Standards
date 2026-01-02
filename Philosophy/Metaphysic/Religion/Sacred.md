@@ -44,17 +44,17 @@ pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sacred](/_Standards/Philosophy/Metaphysic/Religion/Sacred.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Sacred|Sacred]] 
 
-### #is_/same_as :: [Sacred.public](/_public/Philosophy/Metaphysic/Religion/Sacred.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Sacred.public|Sacred.public]] 
 
-### #is_/same_as :: [Sacred.internal](/_internal/Philosophy/Metaphysic/Religion/Sacred.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Sacred.internal|Sacred.internal]] 
 
-### #is_/same_as :: [Sacred.protect](/_protect/Philosophy/Metaphysic/Religion/Sacred.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Sacred.protect|Sacred.protect]] 
 
-### #is_/same_as :: [Sacred.private](/_private/Philosophy/Metaphysic/Religion/Sacred.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Sacred.private|Sacred.private]] 
 
-### #is_/same_as :: [Sacred.personal](/_personal/Philosophy/Metaphysic/Religion/Sacred.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Sacred.personal|Sacred.personal]] 
 
-### #is_/same_as :: [Sacred.secret](/_secret/Philosophy/Metaphysic/Religion/Sacred.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Sacred.secret|Sacred.secret]] 
 

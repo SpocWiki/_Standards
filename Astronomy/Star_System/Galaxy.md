@@ -56,17 +56,17 @@ Wolfram_Language_entity_type: Galaxy
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Galaxy](/_Standards/Astronomy/Star_System/Galaxy.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Star_System/Galaxy|Galaxy]] 
 
-### #is_/same_as :: [Galaxy.public](/_public/Astronomy/Star_System/Galaxy.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Star_System/Galaxy.public|Galaxy.public]] 
 
-### #is_/same_as :: [Galaxy.internal](/_internal/Astronomy/Star_System/Galaxy.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Star_System/Galaxy.internal|Galaxy.internal]] 
 
-### #is_/same_as :: [Galaxy.protect](/_protect/Astronomy/Star_System/Galaxy.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Star_System/Galaxy.protect|Galaxy.protect]] 
 
-### #is_/same_as :: [Galaxy.private](/_private/Astronomy/Star_System/Galaxy.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Star_System/Galaxy.private|Galaxy.private]] 
 
-### #is_/same_as :: [Galaxy.personal](/_personal/Astronomy/Star_System/Galaxy.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Star_System/Galaxy.personal|Galaxy.personal]] 
 
-### #is_/same_as :: [Galaxy.secret](/_secret/Astronomy/Star_System/Galaxy.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Star_System/Galaxy.secret|Galaxy.secret]] 
 

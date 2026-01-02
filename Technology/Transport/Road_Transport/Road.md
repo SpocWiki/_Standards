@@ -119,17 +119,17 @@ OpenStreetMap_tag:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Road](/_Standards/Technology/Transport/Road_Transport/Road.md) 
+### #is_/same_as :: [[/_Standards/Technology/Transport/Road_Transport/Road|Road]] 
 
-### #is_/same_as :: [Road.public](/_public/Technology/Transport/Road_Transport/Road.public.md) 
+### #is_/same_as :: [[/_public/Technology/Transport/Road_Transport/Road.public|Road.public]] 
 
-### #is_/same_as :: [Road.internal](/_internal/Technology/Transport/Road_Transport/Road.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Transport/Road_Transport/Road.internal|Road.internal]] 
 
-### #is_/same_as :: [Road.protect](/_protect/Technology/Transport/Road_Transport/Road.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Transport/Road_Transport/Road.protect|Road.protect]] 
 
-### #is_/same_as :: [Road.private](/_private/Technology/Transport/Road_Transport/Road.private.md) 
+### #is_/same_as :: [[/_private/Technology/Transport/Road_Transport/Road.private|Road.private]] 
 
-### #is_/same_as :: [Road.personal](/_personal/Technology/Transport/Road_Transport/Road.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Transport/Road_Transport/Road.personal|Road.personal]] 
 
-### #is_/same_as :: [Road.secret](/_secret/Technology/Transport/Road_Transport/Road.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Transport/Road_Transport/Road.secret|Road.secret]] 
 

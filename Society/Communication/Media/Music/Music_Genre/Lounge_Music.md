@@ -22,17 +22,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lounge_Music](/_Standards/Society/Communication/Media/Music/Music_Genre/Lounge_Music.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Music_Genre/Lounge_Music|Lounge_Music]] 
 
-### #is_/same_as :: [Lounge_Music.public](/_public/Society/Communication/Media/Music/Music_Genre/Lounge_Music.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Music_Genre/Lounge_Music.public|Lounge_Music.public]] 
 
-### #is_/same_as :: [Lounge_Music.internal](/_internal/Society/Communication/Media/Music/Music_Genre/Lounge_Music.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Music_Genre/Lounge_Music.internal|Lounge_Music.internal]] 
 
-### #is_/same_as :: [Lounge_Music.protect](/_protect/Society/Communication/Media/Music/Music_Genre/Lounge_Music.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Music_Genre/Lounge_Music.protect|Lounge_Music.protect]] 
 
-### #is_/same_as :: [Lounge_Music.private](/_private/Society/Communication/Media/Music/Music_Genre/Lounge_Music.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Music_Genre/Lounge_Music.private|Lounge_Music.private]] 
 
-### #is_/same_as :: [Lounge_Music.personal](/_personal/Society/Communication/Media/Music/Music_Genre/Lounge_Music.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Music_Genre/Lounge_Music.personal|Lounge_Music.personal]] 
 
-### #is_/same_as :: [Lounge_Music.secret](/_secret/Society/Communication/Media/Music/Music_Genre/Lounge_Music.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Music_Genre/Lounge_Music.secret|Lounge_Music.secret]] 
 

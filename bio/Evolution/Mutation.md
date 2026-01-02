@@ -63,17 +63,17 @@ Dewey_Decimal_Classification: "576.549"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Mutation](/_Standards/bio/Evolution/Mutation.md) 
+### #is_/same_as :: [[/_Standards/bio/Evolution/Mutation|Mutation]] 
 
-### #is_/same_as :: [Mutation.public](/_public/bio/Evolution/Mutation.public.md) 
+### #is_/same_as :: [[/_public/bio/Evolution/Mutation.public|Mutation.public]] 
 
-### #is_/same_as :: [Mutation.internal](/_internal/bio/Evolution/Mutation.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Evolution/Mutation.internal|Mutation.internal]] 
 
-### #is_/same_as :: [Mutation.protect](/_protect/bio/Evolution/Mutation.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Evolution/Mutation.protect|Mutation.protect]] 
 
-### #is_/same_as :: [Mutation.private](/_private/bio/Evolution/Mutation.private.md) 
+### #is_/same_as :: [[/_private/bio/Evolution/Mutation.private|Mutation.private]] 
 
-### #is_/same_as :: [Mutation.personal](/_personal/bio/Evolution/Mutation.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Evolution/Mutation.personal|Mutation.personal]] 
 
-### #is_/same_as :: [Mutation.secret](/_secret/bio/Evolution/Mutation.secret.md)
+### #is_/same_as :: [[/_secret/bio/Evolution/Mutation.secret|Mutation.secret]] 
 

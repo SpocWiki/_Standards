@@ -42,17 +42,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_educational_use](/_Standards/schema-org/Relation/has/has_educational_use.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_educational_use|has_educational_use]] 
 
-### #is_/same_as :: [has_educational_use.public](/_public/schema-org/Relation/has/has_educational_use.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_educational_use.public|has_educational_use.public]] 
 
-### #is_/same_as :: [has_educational_use.internal](/_internal/schema-org/Relation/has/has_educational_use.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_educational_use.internal|has_educational_use.internal]] 
 
-### #is_/same_as :: [has_educational_use.protect](/_protect/schema-org/Relation/has/has_educational_use.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_educational_use.protect|has_educational_use.protect]] 
 
-### #is_/same_as :: [has_educational_use.private](/_private/schema-org/Relation/has/has_educational_use.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_educational_use.private|has_educational_use.private]] 
 
-### #is_/same_as :: [has_educational_use.personal](/_personal/schema-org/Relation/has/has_educational_use.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_educational_use.personal|has_educational_use.personal]] 
 
-### #is_/same_as :: [has_educational_use.secret](/_secret/schema-org/Relation/has/has_educational_use.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_educational_use.secret|has_educational_use.secret]] 
 

@@ -16,17 +16,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Anti-Meridian](/_Standards/Earth/Geography/Cartography/Meridian/Anti-Meridian.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geography/Cartography/Meridian/Anti-Meridian|Anti-Meridian]] 
 
-### #is_/same_as :: [Anti-Meridian.public](/_public/Earth/Geography/Cartography/Meridian/Anti-Meridian.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geography/Cartography/Meridian/Anti-Meridian.public|Anti-Meridian.public]] 
 
-### #is_/same_as :: [Anti-Meridian.internal](/_internal/Earth/Geography/Cartography/Meridian/Anti-Meridian.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geography/Cartography/Meridian/Anti-Meridian.internal|Anti-Meridian.internal]] 
 
-### #is_/same_as :: [Anti-Meridian.protect](/_protect/Earth/Geography/Cartography/Meridian/Anti-Meridian.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geography/Cartography/Meridian/Anti-Meridian.protect|Anti-Meridian.protect]] 
 
-### #is_/same_as :: [Anti-Meridian.private](/_private/Earth/Geography/Cartography/Meridian/Anti-Meridian.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geography/Cartography/Meridian/Anti-Meridian.private|Anti-Meridian.private]] 
 
-### #is_/same_as :: [Anti-Meridian.personal](/_personal/Earth/Geography/Cartography/Meridian/Anti-Meridian.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geography/Cartography/Meridian/Anti-Meridian.personal|Anti-Meridian.personal]] 
 
-### #is_/same_as :: [Anti-Meridian.secret](/_secret/Earth/Geography/Cartography/Meridian/Anti-Meridian.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geography/Cartography/Meridian/Anti-Meridian.secret|Anti-Meridian.secret]] 
 

@@ -56,17 +56,17 @@ flag_image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%2
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Maasai](/_Standards/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Maasai.md) 
+### #is_/same_as :: [[/_Standards/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Maasai|Maasai]] 
 
-### #is_/same_as :: [Maasai.public](/_public/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Maasai.public.md) 
+### #is_/same_as :: [[/_public/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Maasai.public|Maasai.public]] 
 
-### #is_/same_as :: [Maasai.internal](/_internal/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Maasai.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Maasai.internal|Maasai.internal]] 
 
-### #is_/same_as :: [Maasai.protect](/_protect/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Maasai.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Maasai.protect|Maasai.protect]] 
 
-### #is_/same_as :: [Maasai.private](/_private/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Maasai.private.md) 
+### #is_/same_as :: [[/_private/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Maasai.private|Maasai.private]] 
 
-### #is_/same_as :: [Maasai.personal](/_personal/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Maasai.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Maasai.personal|Maasai.personal]] 
 
-### #is_/same_as :: [Maasai.secret](/_secret/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Maasai.secret.md)
+### #is_/same_as :: [[/_secret/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Maasai.secret|Maasai.secret]] 
 

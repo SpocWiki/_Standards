@@ -80,17 +80,17 @@ Moving / zipping Folder loses Details but that may be an advantage.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [SW~Discourse](/_Standards/Society/Agent/Community/Organization/Company/Corporation/IT~Company/SW~Discourse.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Company/Corporation/IT~Company/SW~Discourse|SW~Discourse]] 
 
-### #is_/same_as :: [SW~Discourse.public](/_public/Society/Agent/Community/Organization/Company/Corporation/IT~Company/SW~Discourse.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Company/Corporation/IT~Company/SW~Discourse.public|SW~Discourse.public]] 
 
-### #is_/same_as :: [SW~Discourse.internal](/_internal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/SW~Discourse.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/SW~Discourse.internal|SW~Discourse.internal]] 
 
-### #is_/same_as :: [SW~Discourse.protect](/_protect/Society/Agent/Community/Organization/Company/Corporation/IT~Company/SW~Discourse.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Company/Corporation/IT~Company/SW~Discourse.protect|SW~Discourse.protect]] 
 
-### #is_/same_as :: [SW~Discourse.private](/_private/Society/Agent/Community/Organization/Company/Corporation/IT~Company/SW~Discourse.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Company/Corporation/IT~Company/SW~Discourse.private|SW~Discourse.private]] 
 
-### #is_/same_as :: [SW~Discourse.personal](/_personal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/SW~Discourse.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/SW~Discourse.personal|SW~Discourse.personal]] 
 
-### #is_/same_as :: [SW~Discourse.secret](/_secret/Society/Agent/Community/Organization/Company/Corporation/IT~Company/SW~Discourse.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Company/Corporation/IT~Company/SW~Discourse.secret|SW~Discourse.secret]] 
 

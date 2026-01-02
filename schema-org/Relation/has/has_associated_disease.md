@@ -42,17 +42,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_associated_disease](/_Standards/schema-org/Relation/has/has_associated_disease.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_associated_disease|has_associated_disease]] 
 
-### #is_/same_as :: [has_associated_disease.public](/_public/schema-org/Relation/has/has_associated_disease.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_associated_disease.public|has_associated_disease.public]] 
 
-### #is_/same_as :: [has_associated_disease.internal](/_internal/schema-org/Relation/has/has_associated_disease.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_associated_disease.internal|has_associated_disease.internal]] 
 
-### #is_/same_as :: [has_associated_disease.protect](/_protect/schema-org/Relation/has/has_associated_disease.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_associated_disease.protect|has_associated_disease.protect]] 
 
-### #is_/same_as :: [has_associated_disease.private](/_private/schema-org/Relation/has/has_associated_disease.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_associated_disease.private|has_associated_disease.private]] 
 
-### #is_/same_as :: [has_associated_disease.personal](/_personal/schema-org/Relation/has/has_associated_disease.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_associated_disease.personal|has_associated_disease.personal]] 
 
-### #is_/same_as :: [has_associated_disease.secret](/_secret/schema-org/Relation/has/has_associated_disease.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_associated_disease.secret|has_associated_disease.secret]] 
 

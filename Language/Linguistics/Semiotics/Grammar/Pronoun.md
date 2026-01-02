@@ -54,17 +54,17 @@ entry_in_abbreviations_table: vnw.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Pronoun](/_Standards/Language/Linguistics/Semiotics/Grammar/Pronoun.md) 
+### #is_/same_as :: [[/_Standards/Language/Linguistics/Semiotics/Grammar/Pronoun|Pronoun]] 
 
-### #is_/same_as :: [Pronoun.public](/_public/Language/Linguistics/Semiotics/Grammar/Pronoun.public.md) 
+### #is_/same_as :: [[/_public/Language/Linguistics/Semiotics/Grammar/Pronoun.public|Pronoun.public]] 
 
-### #is_/same_as :: [Pronoun.internal](/_internal/Language/Linguistics/Semiotics/Grammar/Pronoun.internal.md) 
+### #is_/same_as :: [[/_internal/Language/Linguistics/Semiotics/Grammar/Pronoun.internal|Pronoun.internal]] 
 
-### #is_/same_as :: [Pronoun.protect](/_protect/Language/Linguistics/Semiotics/Grammar/Pronoun.protect.md) 
+### #is_/same_as :: [[/_protect/Language/Linguistics/Semiotics/Grammar/Pronoun.protect|Pronoun.protect]] 
 
-### #is_/same_as :: [Pronoun.private](/_private/Language/Linguistics/Semiotics/Grammar/Pronoun.private.md) 
+### #is_/same_as :: [[/_private/Language/Linguistics/Semiotics/Grammar/Pronoun.private|Pronoun.private]] 
 
-### #is_/same_as :: [Pronoun.personal](/_personal/Language/Linguistics/Semiotics/Grammar/Pronoun.personal.md) 
+### #is_/same_as :: [[/_personal/Language/Linguistics/Semiotics/Grammar/Pronoun.personal|Pronoun.personal]] 
 
-### #is_/same_as :: [Pronoun.secret](/_secret/Language/Linguistics/Semiotics/Grammar/Pronoun.secret.md)
+### #is_/same_as :: [[/_secret/Language/Linguistics/Semiotics/Grammar/Pronoun.secret|Pronoun.secret]] 
 

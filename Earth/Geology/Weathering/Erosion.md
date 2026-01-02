@@ -44,17 +44,17 @@ Krugosvet_article: Earth_sciences/geologiya/EROZIYA.html
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Erosion](/_Standards/Earth/Geology/Weathering/Erosion.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geology/Weathering/Erosion|Erosion]] 
 
-### #is_/same_as :: [Erosion.public](/_public/Earth/Geology/Weathering/Erosion.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geology/Weathering/Erosion.public|Erosion.public]] 
 
-### #is_/same_as :: [Erosion.internal](/_internal/Earth/Geology/Weathering/Erosion.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geology/Weathering/Erosion.internal|Erosion.internal]] 
 
-### #is_/same_as :: [Erosion.protect](/_protect/Earth/Geology/Weathering/Erosion.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geology/Weathering/Erosion.protect|Erosion.protect]] 
 
-### #is_/same_as :: [Erosion.private](/_private/Earth/Geology/Weathering/Erosion.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geology/Weathering/Erosion.private|Erosion.private]] 
 
-### #is_/same_as :: [Erosion.personal](/_personal/Earth/Geology/Weathering/Erosion.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geology/Weathering/Erosion.personal|Erosion.personal]] 
 
-### #is_/same_as :: [Erosion.secret](/_secret/Earth/Geology/Weathering/Erosion.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geology/Weathering/Erosion.secret|Erosion.secret]] 
 

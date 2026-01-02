@@ -39,17 +39,17 @@ Commons_category: Social security
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Social_Security](/_Standards/Society/Politics/Government/Social_Security.md) 
+### #is_/same_as :: [[/_Standards/Society/Politics/Government/Social_Security|Social_Security]] 
 
-### #is_/same_as :: [Social_Security.public](/_public/Society/Politics/Government/Social_Security.public.md) 
+### #is_/same_as :: [[/_public/Society/Politics/Government/Social_Security.public|Social_Security.public]] 
 
-### #is_/same_as :: [Social_Security.internal](/_internal/Society/Politics/Government/Social_Security.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Politics/Government/Social_Security.internal|Social_Security.internal]] 
 
-### #is_/same_as :: [Social_Security.protect](/_protect/Society/Politics/Government/Social_Security.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Politics/Government/Social_Security.protect|Social_Security.protect]] 
 
-### #is_/same_as :: [Social_Security.private](/_private/Society/Politics/Government/Social_Security.private.md) 
+### #is_/same_as :: [[/_private/Society/Politics/Government/Social_Security.private|Social_Security.private]] 
 
-### #is_/same_as :: [Social_Security.personal](/_personal/Society/Politics/Government/Social_Security.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Politics/Government/Social_Security.personal|Social_Security.personal]] 
 
-### #is_/same_as :: [Social_Security.secret](/_secret/Society/Politics/Government/Social_Security.secret.md)
+### #is_/same_as :: [[/_secret/Society/Politics/Government/Social_Security.secret|Social_Security.secret]] 
 

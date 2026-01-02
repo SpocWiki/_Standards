@@ -37,17 +37,17 @@ Commons_category: Homology
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Homology](/_Standards/Mathematics/Algebra/Homology.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Algebra/Homology|Homology]] 
 
-### #is_/same_as :: [Homology.public](/_public/Mathematics/Algebra/Homology.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Algebra/Homology.public|Homology.public]] 
 
-### #is_/same_as :: [Homology.internal](/_internal/Mathematics/Algebra/Homology.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Algebra/Homology.internal|Homology.internal]] 
 
-### #is_/same_as :: [Homology.protect](/_protect/Mathematics/Algebra/Homology.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Algebra/Homology.protect|Homology.protect]] 
 
-### #is_/same_as :: [Homology.private](/_private/Mathematics/Algebra/Homology.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Algebra/Homology.private|Homology.private]] 
 
-### #is_/same_as :: [Homology.personal](/_personal/Mathematics/Algebra/Homology.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Algebra/Homology.personal|Homology.personal]] 
 
-### #is_/same_as :: [Homology.secret](/_secret/Mathematics/Algebra/Homology.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Algebra/Homology.secret|Homology.secret]] 
 

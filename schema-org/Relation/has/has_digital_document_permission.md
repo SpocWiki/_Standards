@@ -44,17 +44,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_digital_document_permission](/_Standards/schema-org/Relation/has/has_digital_document_permission.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_digital_document_permission|has_digital_document_permission]] 
 
-### #is_/same_as :: [has_digital_document_permission.public](/_public/schema-org/Relation/has/has_digital_document_permission.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_digital_document_permission.public|has_digital_document_permission.public]] 
 
-### #is_/same_as :: [has_digital_document_permission.internal](/_internal/schema-org/Relation/has/has_digital_document_permission.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_digital_document_permission.internal|has_digital_document_permission.internal]] 
 
-### #is_/same_as :: [has_digital_document_permission.protect](/_protect/schema-org/Relation/has/has_digital_document_permission.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_digital_document_permission.protect|has_digital_document_permission.protect]] 
 
-### #is_/same_as :: [has_digital_document_permission.private](/_private/schema-org/Relation/has/has_digital_document_permission.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_digital_document_permission.private|has_digital_document_permission.private]] 
 
-### #is_/same_as :: [has_digital_document_permission.personal](/_personal/schema-org/Relation/has/has_digital_document_permission.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_digital_document_permission.personal|has_digital_document_permission.personal]] 
 
-### #is_/same_as :: [has_digital_document_permission.secret](/_secret/schema-org/Relation/has/has_digital_document_permission.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_digital_document_permission.secret|has_digital_document_permission.secret]] 
 

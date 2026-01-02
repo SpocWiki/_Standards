@@ -89,17 +89,17 @@ OpenStreetMap_tag: diplomatic:services:passport=yes
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Passport](/_Standards/Earth/Geography/Place/Administrative_Area/Country/Passport.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geography/Place/Administrative_Area/Country/Passport|Passport]] 
 
-### #is_/same_as :: [Passport.public](/_public/Earth/Geography/Place/Administrative_Area/Country/Passport.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geography/Place/Administrative_Area/Country/Passport.public|Passport.public]] 
 
-### #is_/same_as :: [Passport.internal](/_internal/Earth/Geography/Place/Administrative_Area/Country/Passport.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geography/Place/Administrative_Area/Country/Passport.internal|Passport.internal]] 
 
-### #is_/same_as :: [Passport.protect](/_protect/Earth/Geography/Place/Administrative_Area/Country/Passport.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geography/Place/Administrative_Area/Country/Passport.protect|Passport.protect]] 
 
-### #is_/same_as :: [Passport.private](/_private/Earth/Geography/Place/Administrative_Area/Country/Passport.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geography/Place/Administrative_Area/Country/Passport.private|Passport.private]] 
 
-### #is_/same_as :: [Passport.personal](/_personal/Earth/Geography/Place/Administrative_Area/Country/Passport.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geography/Place/Administrative_Area/Country/Passport.personal|Passport.personal]] 
 
-### #is_/same_as :: [Passport.secret](/_secret/Earth/Geography/Place/Administrative_Area/Country/Passport.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geography/Place/Administrative_Area/Country/Passport.secret|Passport.secret]] 
 

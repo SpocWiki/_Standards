@@ -41,17 +41,17 @@ The mailing address.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Postal_Address](/_Standards/schema-org/Class/is_a_/Intangible/Structured_Value/Contact_Point/Postal_Address.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Intangible/Structured_Value/Contact_Point/Postal_Address|Postal_Address]] 
 
-### #is_/same_as :: [Postal_Address.public](/_public/schema-org/Class/is_a_/Intangible/Structured_Value/Contact_Point/Postal_Address.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Intangible/Structured_Value/Contact_Point/Postal_Address.public|Postal_Address.public]] 
 
-### #is_/same_as :: [Postal_Address.internal](/_internal/schema-org/Class/is_a_/Intangible/Structured_Value/Contact_Point/Postal_Address.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Intangible/Structured_Value/Contact_Point/Postal_Address.internal|Postal_Address.internal]] 
 
-### #is_/same_as :: [Postal_Address.protect](/_protect/schema-org/Class/is_a_/Intangible/Structured_Value/Contact_Point/Postal_Address.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Intangible/Structured_Value/Contact_Point/Postal_Address.protect|Postal_Address.protect]] 
 
-### #is_/same_as :: [Postal_Address.private](/_private/schema-org/Class/is_a_/Intangible/Structured_Value/Contact_Point/Postal_Address.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Intangible/Structured_Value/Contact_Point/Postal_Address.private|Postal_Address.private]] 
 
-### #is_/same_as :: [Postal_Address.personal](/_personal/schema-org/Class/is_a_/Intangible/Structured_Value/Contact_Point/Postal_Address.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Intangible/Structured_Value/Contact_Point/Postal_Address.personal|Postal_Address.personal]] 
 
-### #is_/same_as :: [Postal_Address.secret](/_secret/schema-org/Class/is_a_/Intangible/Structured_Value/Contact_Point/Postal_Address.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Intangible/Structured_Value/Contact_Point/Postal_Address.secret|Postal_Address.secret]] 
 

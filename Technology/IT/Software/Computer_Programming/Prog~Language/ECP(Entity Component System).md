@@ -35,17 +35,17 @@ This corresponds to a relational Design, AOP, SOA and Microservices.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [ECP(Entity Component System)](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/ECP(Entity Component System).md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/ECP(Entity Component System)|ECP(Entity Component System)]] 
 
-### #is_/same_as :: [ECP(Entity Component System).public](/_public/Technology/IT/Software/Computer_Programming/Prog~Language/ECP(Entity Component System).public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Software/Computer_Programming/Prog~Language/ECP(Entity Component System).public|ECP(Entity Component System).public]] 
 
-### #is_/same_as :: [ECP(Entity Component System).internal](/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/ECP(Entity Component System).internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/ECP(Entity Component System).internal|ECP(Entity Component System).internal]] 
 
-### #is_/same_as :: [ECP(Entity Component System).protect](/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/ECP(Entity Component System).protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/ECP(Entity Component System).protect|ECP(Entity Component System).protect]] 
 
-### #is_/same_as :: [ECP(Entity Component System).private](/_private/Technology/IT/Software/Computer_Programming/Prog~Language/ECP(Entity Component System).private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Software/Computer_Programming/Prog~Language/ECP(Entity Component System).private|ECP(Entity Component System).private]] 
 
-### #is_/same_as :: [ECP(Entity Component System).personal](/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/ECP(Entity Component System).personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/ECP(Entity Component System).personal|ECP(Entity Component System).personal]] 
 
-### #is_/same_as :: [ECP(Entity Component System).secret](/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/ECP(Entity Component System).secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/ECP(Entity Component System).secret|ECP(Entity Component System).secret]] 
 

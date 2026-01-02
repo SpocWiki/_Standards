@@ -45,17 +45,17 @@ See also [[CreativeWorkSeries]], [[EventSeries]].
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Series](/_Standards/schema-org/Class/is_a_/Intangible/Series.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Intangible/Series|Series]] 
 
-### #is_/same_as :: [Series.public](/_public/schema-org/Class/is_a_/Intangible/Series.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Intangible/Series.public|Series.public]] 
 
-### #is_/same_as :: [Series.internal](/_internal/schema-org/Class/is_a_/Intangible/Series.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Intangible/Series.internal|Series.internal]] 
 
-### #is_/same_as :: [Series.protect](/_protect/schema-org/Class/is_a_/Intangible/Series.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Intangible/Series.protect|Series.protect]] 
 
-### #is_/same_as :: [Series.private](/_private/schema-org/Class/is_a_/Intangible/Series.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Intangible/Series.private|Series.private]] 
 
-### #is_/same_as :: [Series.personal](/_personal/schema-org/Class/is_a_/Intangible/Series.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Intangible/Series.personal|Series.personal]] 
 
-### #is_/same_as :: [Series.secret](/_secret/schema-org/Class/is_a_/Intangible/Series.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Intangible/Series.secret|Series.secret]] 
 

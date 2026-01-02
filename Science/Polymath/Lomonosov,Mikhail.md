@@ -136,17 +136,17 @@ Krugosvet_article_archived_: nauka_i_tehnika/himiya/LOMONOSOV_MIHAIL_VASILEVICH.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lomonosov,Mikhail](/_Standards/Science/Polymath/Lomonosov,Mikhail.md) 
+### #is_/same_as :: [[/_Standards/Science/Polymath/Lomonosov,Mikhail|Lomonosov,Mikhail]] 
 
-### #is_/same_as :: [Lomonosov,Mikhail.public](/_public/Science/Polymath/Lomonosov,Mikhail.public.md) 
+### #is_/same_as :: [[/_public/Science/Polymath/Lomonosov,Mikhail.public|Lomonosov,Mikhail.public]] 
 
-### #is_/same_as :: [Lomonosov,Mikhail.internal](/_internal/Science/Polymath/Lomonosov,Mikhail.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Polymath/Lomonosov,Mikhail.internal|Lomonosov,Mikhail.internal]] 
 
-### #is_/same_as :: [Lomonosov,Mikhail.protect](/_protect/Science/Polymath/Lomonosov,Mikhail.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Polymath/Lomonosov,Mikhail.protect|Lomonosov,Mikhail.protect]] 
 
-### #is_/same_as :: [Lomonosov,Mikhail.private](/_private/Science/Polymath/Lomonosov,Mikhail.private.md) 
+### #is_/same_as :: [[/_private/Science/Polymath/Lomonosov,Mikhail.private|Lomonosov,Mikhail.private]] 
 
-### #is_/same_as :: [Lomonosov,Mikhail.personal](/_personal/Science/Polymath/Lomonosov,Mikhail.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Polymath/Lomonosov,Mikhail.personal|Lomonosov,Mikhail.personal]] 
 
-### #is_/same_as :: [Lomonosov,Mikhail.secret](/_secret/Science/Polymath/Lomonosov,Mikhail.secret.md)
+### #is_/same_as :: [[/_secret/Science/Polymath/Lomonosov,Mikhail.secret|Lomonosov,Mikhail.secret]] 
 

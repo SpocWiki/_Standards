@@ -40,17 +40,17 @@ markerFolder: ./Geta/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Geta](/_Standards/Earth/Continent/Europe/Europe~North/Åland-Islands/Countryside/counties~Countryside/Geta.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Åland-Islands/Countryside/counties~Countryside/Geta|Geta]] 
 
-### #is_/same_as :: [Geta.public](/_public/Earth/Continent/Europe/Europe~North/Åland-Islands/Countryside/counties~Countryside/Geta.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Åland-Islands/Countryside/counties~Countryside/Geta.public|Geta.public]] 
 
-### #is_/same_as :: [Geta.internal](/_internal/Earth/Continent/Europe/Europe~North/Åland-Islands/Countryside/counties~Countryside/Geta.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Åland-Islands/Countryside/counties~Countryside/Geta.internal|Geta.internal]] 
 
-### #is_/same_as :: [Geta.protect](/_protect/Earth/Continent/Europe/Europe~North/Åland-Islands/Countryside/counties~Countryside/Geta.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Åland-Islands/Countryside/counties~Countryside/Geta.protect|Geta.protect]] 
 
-### #is_/same_as :: [Geta.private](/_private/Earth/Continent/Europe/Europe~North/Åland-Islands/Countryside/counties~Countryside/Geta.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Åland-Islands/Countryside/counties~Countryside/Geta.private|Geta.private]] 
 
-### #is_/same_as :: [Geta.personal](/_personal/Earth/Continent/Europe/Europe~North/Åland-Islands/Countryside/counties~Countryside/Geta.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Åland-Islands/Countryside/counties~Countryside/Geta.personal|Geta.personal]] 
 
-### #is_/same_as :: [Geta.secret](/_secret/Earth/Continent/Europe/Europe~North/Åland-Islands/Countryside/counties~Countryside/Geta.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Åland-Islands/Countryside/counties~Countryside/Geta.secret|Geta.secret]] 
 

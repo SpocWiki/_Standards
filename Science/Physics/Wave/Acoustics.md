@@ -59,17 +59,17 @@ MeSH_tree_code: H01.671.031
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Acoustics](/_Standards/Science/Physics/Wave/Acoustics.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Wave/Acoustics|Acoustics]] 
 
-### #is_/same_as :: [Acoustics.public](/_public/Science/Physics/Wave/Acoustics.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Wave/Acoustics.public|Acoustics.public]] 
 
-### #is_/same_as :: [Acoustics.internal](/_internal/Science/Physics/Wave/Acoustics.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Wave/Acoustics.internal|Acoustics.internal]] 
 
-### #is_/same_as :: [Acoustics.protect](/_protect/Science/Physics/Wave/Acoustics.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Wave/Acoustics.protect|Acoustics.protect]] 
 
-### #is_/same_as :: [Acoustics.private](/_private/Science/Physics/Wave/Acoustics.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Wave/Acoustics.private|Acoustics.private]] 
 
-### #is_/same_as :: [Acoustics.personal](/_personal/Science/Physics/Wave/Acoustics.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Wave/Acoustics.personal|Acoustics.personal]] 
 
-### #is_/same_as :: [Acoustics.secret](/_secret/Science/Physics/Wave/Acoustics.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Wave/Acoustics.secret|Acoustics.secret]] 
 

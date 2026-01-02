@@ -118,17 +118,17 @@ Krugosvet_article: meditsina/ebola
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ebola_hemorrhagic_Fever](/_Standards/bio/Medicine/Medical_Condition/Disease/Ebola_hemorrhagic_Fever.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Condition/Disease/Ebola_hemorrhagic_Fever|Ebola_hemorrhagic_Fever]] 
 
-### #is_/same_as :: [Ebola_hemorrhagic_Fever.public](/_public/bio/Medicine/Medical_Condition/Disease/Ebola_hemorrhagic_Fever.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Condition/Disease/Ebola_hemorrhagic_Fever.public|Ebola_hemorrhagic_Fever.public]] 
 
-### #is_/same_as :: [Ebola_hemorrhagic_Fever.internal](/_internal/bio/Medicine/Medical_Condition/Disease/Ebola_hemorrhagic_Fever.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Condition/Disease/Ebola_hemorrhagic_Fever.internal|Ebola_hemorrhagic_Fever.internal]] 
 
-### #is_/same_as :: [Ebola_hemorrhagic_Fever.protect](/_protect/bio/Medicine/Medical_Condition/Disease/Ebola_hemorrhagic_Fever.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Condition/Disease/Ebola_hemorrhagic_Fever.protect|Ebola_hemorrhagic_Fever.protect]] 
 
-### #is_/same_as :: [Ebola_hemorrhagic_Fever.private](/_private/bio/Medicine/Medical_Condition/Disease/Ebola_hemorrhagic_Fever.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Condition/Disease/Ebola_hemorrhagic_Fever.private|Ebola_hemorrhagic_Fever.private]] 
 
-### #is_/same_as :: [Ebola_hemorrhagic_Fever.personal](/_personal/bio/Medicine/Medical_Condition/Disease/Ebola_hemorrhagic_Fever.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Condition/Disease/Ebola_hemorrhagic_Fever.personal|Ebola_hemorrhagic_Fever.personal]] 
 
-### #is_/same_as :: [Ebola_hemorrhagic_Fever.secret](/_secret/bio/Medicine/Medical_Condition/Disease/Ebola_hemorrhagic_Fever.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Condition/Disease/Ebola_hemorrhagic_Fever.secret|Ebola_hemorrhagic_Fever.secret]] 
 

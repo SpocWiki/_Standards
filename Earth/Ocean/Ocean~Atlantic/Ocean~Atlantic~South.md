@@ -35,17 +35,17 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ocean~Atlantic~South](/_Standards/Earth/Ocean/Ocean~Atlantic/Ocean~Atlantic~South.md) 
+### #is_/same_as :: [[/_Standards/Earth/Ocean/Ocean~Atlantic/Ocean~Atlantic~South|Ocean~Atlantic~South]] 
 
-### #is_/same_as :: [Ocean~Atlantic~South.public](/_public/Earth/Ocean/Ocean~Atlantic/Ocean~Atlantic~South.public.md) 
+### #is_/same_as :: [[/_public/Earth/Ocean/Ocean~Atlantic/Ocean~Atlantic~South.public|Ocean~Atlantic~South.public]] 
 
-### #is_/same_as :: [Ocean~Atlantic~South.internal](/_internal/Earth/Ocean/Ocean~Atlantic/Ocean~Atlantic~South.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Ocean/Ocean~Atlantic/Ocean~Atlantic~South.internal|Ocean~Atlantic~South.internal]] 
 
-### #is_/same_as :: [Ocean~Atlantic~South.protect](/_protect/Earth/Ocean/Ocean~Atlantic/Ocean~Atlantic~South.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Ocean/Ocean~Atlantic/Ocean~Atlantic~South.protect|Ocean~Atlantic~South.protect]] 
 
-### #is_/same_as :: [Ocean~Atlantic~South.private](/_private/Earth/Ocean/Ocean~Atlantic/Ocean~Atlantic~South.private.md) 
+### #is_/same_as :: [[/_private/Earth/Ocean/Ocean~Atlantic/Ocean~Atlantic~South.private|Ocean~Atlantic~South.private]] 
 
-### #is_/same_as :: [Ocean~Atlantic~South.personal](/_personal/Earth/Ocean/Ocean~Atlantic/Ocean~Atlantic~South.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Ocean/Ocean~Atlantic/Ocean~Atlantic~South.personal|Ocean~Atlantic~South.personal]] 
 
-### #is_/same_as :: [Ocean~Atlantic~South.secret](/_secret/Earth/Ocean/Ocean~Atlantic/Ocean~Atlantic~South.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Ocean/Ocean~Atlantic/Ocean~Atlantic~South.secret|Ocean~Atlantic~South.secret]] 
 

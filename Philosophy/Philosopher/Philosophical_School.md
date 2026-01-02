@@ -4,17 +4,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Philosophical_School](/_Standards/Philosophy/Philosopher/Philosophical_School.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Philosopher/Philosophical_School|Philosophical_School]] 
 
-### #is_/same_as :: [Philosophical_School.public](/_public/Philosophy/Philosopher/Philosophical_School.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Philosopher/Philosophical_School.public|Philosophical_School.public]] 
 
-### #is_/same_as :: [Philosophical_School.internal](/_internal/Philosophy/Philosopher/Philosophical_School.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Philosopher/Philosophical_School.internal|Philosophical_School.internal]] 
 
-### #is_/same_as :: [Philosophical_School.protect](/_protect/Philosophy/Philosopher/Philosophical_School.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Philosopher/Philosophical_School.protect|Philosophical_School.protect]] 
 
-### #is_/same_as :: [Philosophical_School.private](/_private/Philosophy/Philosopher/Philosophical_School.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Philosopher/Philosophical_School.private|Philosophical_School.private]] 
 
-### #is_/same_as :: [Philosophical_School.personal](/_personal/Philosophy/Philosopher/Philosophical_School.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Philosopher/Philosophical_School.personal|Philosophical_School.personal]] 
 
-### #is_/same_as :: [Philosophical_School.secret](/_secret/Philosophy/Philosopher/Philosophical_School.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Philosopher/Philosophical_School.secret|Philosophical_School.secret]] 
 

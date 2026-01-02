@@ -51,17 +51,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Monty_Python](/_Standards/Society/Communication/Media/Movie/Actor/British_Actor/Monty_Python.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Actor/British_Actor/Monty_Python|Monty_Python]] 
 
-### #is_/same_as :: [Monty_Python.public](/_public/Society/Communication/Media/Movie/Actor/British_Actor/Monty_Python.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Actor/British_Actor/Monty_Python.public|Monty_Python.public]] 
 
-### #is_/same_as :: [Monty_Python.internal](/_internal/Society/Communication/Media/Movie/Actor/British_Actor/Monty_Python.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Actor/British_Actor/Monty_Python.internal|Monty_Python.internal]] 
 
-### #is_/same_as :: [Monty_Python.protect](/_protect/Society/Communication/Media/Movie/Actor/British_Actor/Monty_Python.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Actor/British_Actor/Monty_Python.protect|Monty_Python.protect]] 
 
-### #is_/same_as :: [Monty_Python.private](/_private/Society/Communication/Media/Movie/Actor/British_Actor/Monty_Python.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Actor/British_Actor/Monty_Python.private|Monty_Python.private]] 
 
-### #is_/same_as :: [Monty_Python.personal](/_personal/Society/Communication/Media/Movie/Actor/British_Actor/Monty_Python.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Actor/British_Actor/Monty_Python.personal|Monty_Python.personal]] 
 
-### #is_/same_as :: [Monty_Python.secret](/_secret/Society/Communication/Media/Movie/Actor/British_Actor/Monty_Python.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Actor/British_Actor/Monty_Python.secret|Monty_Python.secret]] 
 

@@ -43,17 +43,17 @@ A PerformanceRole is a Role that some entity places with regard to a theatrical 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Performance_Role](/_Standards/Society/Agent/Community/Organization/Role/Performance_Role.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Role/Performance_Role|Performance_Role]] 
 
-### #is_/same_as :: [Performance_Role.public](/_public/Society/Agent/Community/Organization/Role/Performance_Role.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Role/Performance_Role.public|Performance_Role.public]] 
 
-### #is_/same_as :: [Performance_Role.internal](/_internal/Society/Agent/Community/Organization/Role/Performance_Role.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Role/Performance_Role.internal|Performance_Role.internal]] 
 
-### #is_/same_as :: [Performance_Role.protect](/_protect/Society/Agent/Community/Organization/Role/Performance_Role.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Role/Performance_Role.protect|Performance_Role.protect]] 
 
-### #is_/same_as :: [Performance_Role.private](/_private/Society/Agent/Community/Organization/Role/Performance_Role.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Role/Performance_Role.private|Performance_Role.private]] 
 
-### #is_/same_as :: [Performance_Role.personal](/_personal/Society/Agent/Community/Organization/Role/Performance_Role.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Role/Performance_Role.personal|Performance_Role.personal]] 
 
-### #is_/same_as :: [Performance_Role.secret](/_secret/Society/Agent/Community/Organization/Role/Performance_Role.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Role/Performance_Role.secret|Performance_Role.secret]] 
 

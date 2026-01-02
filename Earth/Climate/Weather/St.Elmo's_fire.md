@@ -57,17 +57,17 @@ icon: http://commons.wikimedia.org/wiki/Special:FilePath/Symbol%20Saint%20Elmo%2
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [St.Elmo's_fire](/_Standards/Earth/Climate/Weather/St.Elmo's_fire.md) 
+### #is_/same_as :: [[/_Standards/Earth/Climate/Weather/St.Elmo's_fire|St.Elmo's_fire]] 
 
-### #is_/same_as :: [St.Elmo's_fire.public](/_public/Earth/Climate/Weather/St.Elmo's_fire.public.md) 
+### #is_/same_as :: [[/_public/Earth/Climate/Weather/St.Elmo's_fire.public|St.Elmo's_fire.public]] 
 
-### #is_/same_as :: [St.Elmo's_fire.internal](/_internal/Earth/Climate/Weather/St.Elmo's_fire.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Climate/Weather/St.Elmo's_fire.internal|St.Elmo's_fire.internal]] 
 
-### #is_/same_as :: [St.Elmo's_fire.protect](/_protect/Earth/Climate/Weather/St.Elmo's_fire.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Climate/Weather/St.Elmo's_fire.protect|St.Elmo's_fire.protect]] 
 
-### #is_/same_as :: [St.Elmo's_fire.private](/_private/Earth/Climate/Weather/St.Elmo's_fire.private.md) 
+### #is_/same_as :: [[/_private/Earth/Climate/Weather/St.Elmo's_fire.private|St.Elmo's_fire.private]] 
 
-### #is_/same_as :: [St.Elmo's_fire.personal](/_personal/Earth/Climate/Weather/St.Elmo's_fire.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Climate/Weather/St.Elmo's_fire.personal|St.Elmo's_fire.personal]] 
 
-### #is_/same_as :: [St.Elmo's_fire.secret](/_secret/Earth/Climate/Weather/St.Elmo's_fire.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Climate/Weather/St.Elmo's_fire.secret|St.Elmo's_fire.secret]] 
 

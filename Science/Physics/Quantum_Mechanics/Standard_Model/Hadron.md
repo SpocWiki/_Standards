@@ -63,17 +63,17 @@ time_of_discovery_or_invention: 1962-01-01T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hadron](/_Standards/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron|Hadron]] 
 
-### #is_/same_as :: [Hadron.public](/_public/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron.public|Hadron.public]] 
 
-### #is_/same_as :: [Hadron.internal](/_internal/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron.internal|Hadron.internal]] 
 
-### #is_/same_as :: [Hadron.protect](/_protect/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron.protect|Hadron.protect]] 
 
-### #is_/same_as :: [Hadron.private](/_private/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron.private|Hadron.private]] 
 
-### #is_/same_as :: [Hadron.personal](/_personal/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron.personal|Hadron.personal]] 
 
-### #is_/same_as :: [Hadron.secret](/_secret/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron.secret|Hadron.secret]] 
 

@@ -47,17 +47,17 @@ Gujarati_Vishwakosh_entry: વાક્-3-નાટ્યશાસ્ત્ર
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Dialogue](/_Standards/Society/Communication/Dialogue.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Dialogue|Dialogue]] 
 
-### #is_/same_as :: [Dialogue.public](/_public/Society/Communication/Dialogue.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Dialogue.public|Dialogue.public]] 
 
-### #is_/same_as :: [Dialogue.internal](/_internal/Society/Communication/Dialogue.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Dialogue.internal|Dialogue.internal]] 
 
-### #is_/same_as :: [Dialogue.protect](/_protect/Society/Communication/Dialogue.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Dialogue.protect|Dialogue.protect]] 
 
-### #is_/same_as :: [Dialogue.private](/_private/Society/Communication/Dialogue.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Dialogue.private|Dialogue.private]] 
 
-### #is_/same_as :: [Dialogue.personal](/_personal/Society/Communication/Dialogue.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Dialogue.personal|Dialogue.personal]] 
 
-### #is_/same_as :: [Dialogue.secret](/_secret/Society/Communication/Dialogue.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Dialogue.secret|Dialogue.secret]] 
 

@@ -44,17 +44,17 @@ Metric size system.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Size_System_Metric](/_Standards/schema-org/Enumeration/Size_System_Enumeration/Size_System_Metric.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Size_System_Enumeration/Size_System_Metric|Size_System_Metric]] 
 
-### #is_/same_as :: [Size_System_Metric.public](/_public/schema-org/Enumeration/Size_System_Enumeration/Size_System_Metric.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Size_System_Enumeration/Size_System_Metric.public|Size_System_Metric.public]] 
 
-### #is_/same_as :: [Size_System_Metric.internal](/_internal/schema-org/Enumeration/Size_System_Enumeration/Size_System_Metric.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Size_System_Enumeration/Size_System_Metric.internal|Size_System_Metric.internal]] 
 
-### #is_/same_as :: [Size_System_Metric.protect](/_protect/schema-org/Enumeration/Size_System_Enumeration/Size_System_Metric.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Size_System_Enumeration/Size_System_Metric.protect|Size_System_Metric.protect]] 
 
-### #is_/same_as :: [Size_System_Metric.private](/_private/schema-org/Enumeration/Size_System_Enumeration/Size_System_Metric.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Size_System_Enumeration/Size_System_Metric.private|Size_System_Metric.private]] 
 
-### #is_/same_as :: [Size_System_Metric.personal](/_personal/schema-org/Enumeration/Size_System_Enumeration/Size_System_Metric.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Size_System_Enumeration/Size_System_Metric.personal|Size_System_Metric.personal]] 
 
-### #is_/same_as :: [Size_System_Metric.secret](/_secret/schema-org/Enumeration/Size_System_Enumeration/Size_System_Metric.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Size_System_Enumeration/Size_System_Metric.secret|Size_System_Metric.secret]] 
 

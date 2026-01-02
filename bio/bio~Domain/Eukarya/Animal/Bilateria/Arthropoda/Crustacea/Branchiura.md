@@ -47,17 +47,17 @@ Sea lice, fish lice, tongue worms
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Branchiura](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Branchiura.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Branchiura|Branchiura]] 
 
-### #is_/same_as :: [Branchiura.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Branchiura.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Branchiura.public|Branchiura.public]] 
 
-### #is_/same_as :: [Branchiura.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Branchiura.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Branchiura.internal|Branchiura.internal]] 
 
-### #is_/same_as :: [Branchiura.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Branchiura.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Branchiura.protect|Branchiura.protect]] 
 
-### #is_/same_as :: [Branchiura.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Branchiura.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Branchiura.private|Branchiura.private]] 
 
-### #is_/same_as :: [Branchiura.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Branchiura.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Branchiura.personal|Branchiura.personal]] 
 
-### #is_/same_as :: [Branchiura.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Branchiura.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Branchiura.secret|Branchiura.secret]] 
 

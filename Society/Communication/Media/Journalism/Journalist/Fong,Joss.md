@@ -19,3 +19,22 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Joss%20Fong%20in%20the
 
 Fong was a founding Member of Vox, but left it after 9 years to create her own channel. 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Journalism/Journalist/Fong,Joss|Fong,Joss]] 
+
+### #is_/same_as :: [[/_public/Society/Communication/Media/Journalism/Journalist/Fong,Joss.public|Fong,Joss.public]] 
+
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Journalism/Journalist/Fong,Joss.internal|Fong,Joss.internal]] 
+
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Journalism/Journalist/Fong,Joss.protect|Fong,Joss.protect]] 
+
+### #is_/same_as :: [[/_private/Society/Communication/Media/Journalism/Journalist/Fong,Joss.private|Fong,Joss.private]] 
+
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Journalism/Journalist/Fong,Joss.personal|Fong,Joss.personal]] 
+
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Journalism/Journalist/Fong,Joss.secret|Fong,Joss.secret]] 
+

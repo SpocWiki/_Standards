@@ -73,17 +73,17 @@ In summary, while both terms relate to systems where power ultimately resides wi
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Republic](/_Standards/Society/Politics/Government/Republic.md) 
+### #is_/same_as :: [[/_Standards/Society/Politics/Government/Republic|Republic]] 
 
-### #is_/same_as :: [Republic.public](/_public/Society/Politics/Government/Republic.public.md) 
+### #is_/same_as :: [[/_public/Society/Politics/Government/Republic.public|Republic.public]] 
 
-### #is_/same_as :: [Republic.internal](/_internal/Society/Politics/Government/Republic.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Politics/Government/Republic.internal|Republic.internal]] 
 
-### #is_/same_as :: [Republic.protect](/_protect/Society/Politics/Government/Republic.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Politics/Government/Republic.protect|Republic.protect]] 
 
-### #is_/same_as :: [Republic.private](/_private/Society/Politics/Government/Republic.private.md) 
+### #is_/same_as :: [[/_private/Society/Politics/Government/Republic.private|Republic.private]] 
 
-### #is_/same_as :: [Republic.personal](/_personal/Society/Politics/Government/Republic.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Politics/Government/Republic.personal|Republic.personal]] 
 
-### #is_/same_as :: [Republic.secret](/_secret/Society/Politics/Government/Republic.secret.md)
+### #is_/same_as :: [[/_secret/Society/Politics/Government/Republic.secret|Republic.secret]] 
 

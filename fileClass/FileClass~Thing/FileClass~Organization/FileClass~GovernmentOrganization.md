@@ -37,17 +37,17 @@ A governmental organization or agency.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~GovernmentOrganization](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~GovernmentOrganization.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~GovernmentOrganization|FileClass~GovernmentOrganization]] 
 
-### #is_/same_as :: [FileClass~GovernmentOrganization.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~GovernmentOrganization.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~GovernmentOrganization.public|FileClass~GovernmentOrganization.public]] 
 
-### #is_/same_as :: [FileClass~GovernmentOrganization.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~GovernmentOrganization.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~GovernmentOrganization.internal|FileClass~GovernmentOrganization.internal]] 
 
-### #is_/same_as :: [FileClass~GovernmentOrganization.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~GovernmentOrganization.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~GovernmentOrganization.protect|FileClass~GovernmentOrganization.protect]] 
 
-### #is_/same_as :: [FileClass~GovernmentOrganization.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~GovernmentOrganization.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~GovernmentOrganization.private|FileClass~GovernmentOrganization.private]] 
 
-### #is_/same_as :: [FileClass~GovernmentOrganization.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~GovernmentOrganization.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~GovernmentOrganization.personal|FileClass~GovernmentOrganization.personal]] 
 
-### #is_/same_as :: [FileClass~GovernmentOrganization.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~GovernmentOrganization.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~GovernmentOrganization.secret|FileClass~GovernmentOrganization.secret]] 
 

@@ -47,17 +47,17 @@ MonthsOfExperience:: {"type":"Number","options":{}}
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~OccupationalExperienceRequirements](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~OccupationalExperienceRequirements.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~OccupationalExperienceRequirements|FileClass~OccupationalExperienceRequirements]] 
 
-### #is_/same_as :: [FileClass~OccupationalExperienceRequirements.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~OccupationalExperienceRequirements.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~OccupationalExperienceRequirements.public|FileClass~OccupationalExperienceRequirements.public]] 
 
-### #is_/same_as :: [FileClass~OccupationalExperienceRequirements.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~OccupationalExperienceRequirements.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~OccupationalExperienceRequirements.internal|FileClass~OccupationalExperienceRequirements.internal]] 
 
-### #is_/same_as :: [FileClass~OccupationalExperienceRequirements.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~OccupationalExperienceRequirements.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~OccupationalExperienceRequirements.protect|FileClass~OccupationalExperienceRequirements.protect]] 
 
-### #is_/same_as :: [FileClass~OccupationalExperienceRequirements.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~OccupationalExperienceRequirements.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~OccupationalExperienceRequirements.private|FileClass~OccupationalExperienceRequirements.private]] 
 
-### #is_/same_as :: [FileClass~OccupationalExperienceRequirements.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~OccupationalExperienceRequirements.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~OccupationalExperienceRequirements.personal|FileClass~OccupationalExperienceRequirements.personal]] 
 
-### #is_/same_as :: [FileClass~OccupationalExperienceRequirements.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~OccupationalExperienceRequirements.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~OccupationalExperienceRequirements.secret|FileClass~OccupationalExperienceRequirements.secret]] 
 

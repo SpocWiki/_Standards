@@ -67,17 +67,17 @@ MeSH_tree_code:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Chlorophyll](/_Standards/bio/bio~Domain/Eukarya/Plant/Chlorophyll.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Plant/Chlorophyll|Chlorophyll]] 
 
-### #is_/same_as :: [Chlorophyll.public](/_public/bio/bio~Domain/Eukarya/Plant/Chlorophyll.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Plant/Chlorophyll.public|Chlorophyll.public]] 
 
-### #is_/same_as :: [Chlorophyll.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Chlorophyll.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Plant/Chlorophyll.internal|Chlorophyll.internal]] 
 
-### #is_/same_as :: [Chlorophyll.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Chlorophyll.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Plant/Chlorophyll.protect|Chlorophyll.protect]] 
 
-### #is_/same_as :: [Chlorophyll.private](/_private/bio/bio~Domain/Eukarya/Plant/Chlorophyll.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Plant/Chlorophyll.private|Chlorophyll.private]] 
 
-### #is_/same_as :: [Chlorophyll.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Chlorophyll.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Plant/Chlorophyll.personal|Chlorophyll.personal]] 
 
-### #is_/same_as :: [Chlorophyll.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Chlorophyll.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Plant/Chlorophyll.secret|Chlorophyll.secret]] 
 

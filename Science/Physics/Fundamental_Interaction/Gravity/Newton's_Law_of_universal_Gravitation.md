@@ -32,17 +32,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Newton's_Law_of_universal_Gravitation](/_Standards/Science/Physics/Fundamental_Interaction/Gravity/Newton's_Law_of_universal_Gravitation.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Fundamental_Interaction/Gravity/Newton's_Law_of_universal_Gravitation|Newton's_Law_of_universal_Gravitation]] 
 
-### #is_/same_as :: [Newton's_Law_of_universal_Gravitation.public](/_public/Science/Physics/Fundamental_Interaction/Gravity/Newton's_Law_of_universal_Gravitation.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Fundamental_Interaction/Gravity/Newton's_Law_of_universal_Gravitation.public|Newton's_Law_of_universal_Gravitation.public]] 
 
-### #is_/same_as :: [Newton's_Law_of_universal_Gravitation.internal](/_internal/Science/Physics/Fundamental_Interaction/Gravity/Newton's_Law_of_universal_Gravitation.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Fundamental_Interaction/Gravity/Newton's_Law_of_universal_Gravitation.internal|Newton's_Law_of_universal_Gravitation.internal]] 
 
-### #is_/same_as :: [Newton's_Law_of_universal_Gravitation.protect](/_protect/Science/Physics/Fundamental_Interaction/Gravity/Newton's_Law_of_universal_Gravitation.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Fundamental_Interaction/Gravity/Newton's_Law_of_universal_Gravitation.protect|Newton's_Law_of_universal_Gravitation.protect]] 
 
-### #is_/same_as :: [Newton's_Law_of_universal_Gravitation.private](/_private/Science/Physics/Fundamental_Interaction/Gravity/Newton's_Law_of_universal_Gravitation.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Fundamental_Interaction/Gravity/Newton's_Law_of_universal_Gravitation.private|Newton's_Law_of_universal_Gravitation.private]] 
 
-### #is_/same_as :: [Newton's_Law_of_universal_Gravitation.personal](/_personal/Science/Physics/Fundamental_Interaction/Gravity/Newton's_Law_of_universal_Gravitation.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Fundamental_Interaction/Gravity/Newton's_Law_of_universal_Gravitation.personal|Newton's_Law_of_universal_Gravitation.personal]] 
 
-### #is_/same_as :: [Newton's_Law_of_universal_Gravitation.secret](/_secret/Science/Physics/Fundamental_Interaction/Gravity/Newton's_Law_of_universal_Gravitation.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Fundamental_Interaction/Gravity/Newton's_Law_of_universal_Gravitation.secret|Newton's_Law_of_universal_Gravitation.secret]] 
 

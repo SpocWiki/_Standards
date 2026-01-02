@@ -84,17 +84,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Dartmouth_College](/_Standards/Technology/IT/Software/OS(Operating-System)/Dartmouth_College.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Software/OS(Operating-System)/Dartmouth_College|Dartmouth_College]] 
 
-### #is_/same_as :: [Dartmouth_College.public](/_public/Technology/IT/Software/OS(Operating-System)/Dartmouth_College.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Software/OS(Operating-System)/Dartmouth_College.public|Dartmouth_College.public]] 
 
-### #is_/same_as :: [Dartmouth_College.internal](/_internal/Technology/IT/Software/OS(Operating-System)/Dartmouth_College.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Software/OS(Operating-System)/Dartmouth_College.internal|Dartmouth_College.internal]] 
 
-### #is_/same_as :: [Dartmouth_College.protect](/_protect/Technology/IT/Software/OS(Operating-System)/Dartmouth_College.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Software/OS(Operating-System)/Dartmouth_College.protect|Dartmouth_College.protect]] 
 
-### #is_/same_as :: [Dartmouth_College.private](/_private/Technology/IT/Software/OS(Operating-System)/Dartmouth_College.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Software/OS(Operating-System)/Dartmouth_College.private|Dartmouth_College.private]] 
 
-### #is_/same_as :: [Dartmouth_College.personal](/_personal/Technology/IT/Software/OS(Operating-System)/Dartmouth_College.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Software/OS(Operating-System)/Dartmouth_College.personal|Dartmouth_College.personal]] 
 
-### #is_/same_as :: [Dartmouth_College.secret](/_secret/Technology/IT/Software/OS(Operating-System)/Dartmouth_College.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Software/OS(Operating-System)/Dartmouth_College.secret|Dartmouth_College.secret]] 
 

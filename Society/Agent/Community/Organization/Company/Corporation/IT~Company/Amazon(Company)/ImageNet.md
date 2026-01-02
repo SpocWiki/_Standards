@@ -23,17 +23,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [ImageNet](/_Standards/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Amazon(Company)/ImageNet.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Amazon(Company)/ImageNet|ImageNet]] 
 
-### #is_/same_as :: [ImageNet.public](/_public/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Amazon(Company)/ImageNet.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Amazon(Company)/ImageNet.public|ImageNet.public]] 
 
-### #is_/same_as :: [ImageNet.internal](/_internal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Amazon(Company)/ImageNet.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Amazon(Company)/ImageNet.internal|ImageNet.internal]] 
 
-### #is_/same_as :: [ImageNet.protect](/_protect/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Amazon(Company)/ImageNet.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Amazon(Company)/ImageNet.protect|ImageNet.protect]] 
 
-### #is_/same_as :: [ImageNet.private](/_private/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Amazon(Company)/ImageNet.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Amazon(Company)/ImageNet.private|ImageNet.private]] 
 
-### #is_/same_as :: [ImageNet.personal](/_personal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Amazon(Company)/ImageNet.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Amazon(Company)/ImageNet.personal|ImageNet.personal]] 
 
-### #is_/same_as :: [ImageNet.secret](/_secret/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Amazon(Company)/ImageNet.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Amazon(Company)/ImageNet.secret|ImageNet.secret]] 
 

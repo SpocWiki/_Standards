@@ -48,17 +48,17 @@ official_name: Caelum
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Zodiac~Caelum](/_Standards/Astronomy/Star~Constellation/Zodiac~Caelum.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Star~Constellation/Zodiac~Caelum|Zodiac~Caelum]] 
 
-### #is_/same_as :: [Zodiac~Caelum.public](/_public/Astronomy/Star~Constellation/Zodiac~Caelum.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Star~Constellation/Zodiac~Caelum.public|Zodiac~Caelum.public]] 
 
-### #is_/same_as :: [Zodiac~Caelum.internal](/_internal/Astronomy/Star~Constellation/Zodiac~Caelum.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Star~Constellation/Zodiac~Caelum.internal|Zodiac~Caelum.internal]] 
 
-### #is_/same_as :: [Zodiac~Caelum.protect](/_protect/Astronomy/Star~Constellation/Zodiac~Caelum.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Star~Constellation/Zodiac~Caelum.protect|Zodiac~Caelum.protect]] 
 
-### #is_/same_as :: [Zodiac~Caelum.private](/_private/Astronomy/Star~Constellation/Zodiac~Caelum.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Star~Constellation/Zodiac~Caelum.private|Zodiac~Caelum.private]] 
 
-### #is_/same_as :: [Zodiac~Caelum.personal](/_personal/Astronomy/Star~Constellation/Zodiac~Caelum.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Star~Constellation/Zodiac~Caelum.personal|Zodiac~Caelum.personal]] 
 
-### #is_/same_as :: [Zodiac~Caelum.secret](/_secret/Astronomy/Star~Constellation/Zodiac~Caelum.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Star~Constellation/Zodiac~Caelum.secret|Zodiac~Caelum.secret]] 
 

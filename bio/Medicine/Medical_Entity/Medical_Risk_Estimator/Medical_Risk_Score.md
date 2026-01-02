@@ -41,17 +41,17 @@ A simple system that adds up the number of risk factors to yield a score that is
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Medical_Risk_Score](/_Standards/bio/Medicine/Medical_Entity/Medical_Risk_Estimator/Medical_Risk_Score.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Entity/Medical_Risk_Estimator/Medical_Risk_Score|Medical_Risk_Score]] 
 
-### #is_/same_as :: [Medical_Risk_Score.public](/_public/bio/Medicine/Medical_Entity/Medical_Risk_Estimator/Medical_Risk_Score.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Entity/Medical_Risk_Estimator/Medical_Risk_Score.public|Medical_Risk_Score.public]] 
 
-### #is_/same_as :: [Medical_Risk_Score.internal](/_internal/bio/Medicine/Medical_Entity/Medical_Risk_Estimator/Medical_Risk_Score.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Entity/Medical_Risk_Estimator/Medical_Risk_Score.internal|Medical_Risk_Score.internal]] 
 
-### #is_/same_as :: [Medical_Risk_Score.protect](/_protect/bio/Medicine/Medical_Entity/Medical_Risk_Estimator/Medical_Risk_Score.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Entity/Medical_Risk_Estimator/Medical_Risk_Score.protect|Medical_Risk_Score.protect]] 
 
-### #is_/same_as :: [Medical_Risk_Score.private](/_private/bio/Medicine/Medical_Entity/Medical_Risk_Estimator/Medical_Risk_Score.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Entity/Medical_Risk_Estimator/Medical_Risk_Score.private|Medical_Risk_Score.private]] 
 
-### #is_/same_as :: [Medical_Risk_Score.personal](/_personal/bio/Medicine/Medical_Entity/Medical_Risk_Estimator/Medical_Risk_Score.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Entity/Medical_Risk_Estimator/Medical_Risk_Score.personal|Medical_Risk_Score.personal]] 
 
-### #is_/same_as :: [Medical_Risk_Score.secret](/_secret/bio/Medicine/Medical_Entity/Medical_Risk_Estimator/Medical_Risk_Score.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Entity/Medical_Risk_Estimator/Medical_Risk_Score.secret|Medical_Risk_Score.secret]] 
 

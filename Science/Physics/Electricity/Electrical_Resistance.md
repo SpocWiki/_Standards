@@ -76,17 +76,17 @@ Commons_category: Electrical resistance
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Electrical_Resistance](/_Standards/Science/Physics/Electricity/Electrical_Resistance.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Electricity/Electrical_Resistance|Electrical_Resistance]] 
 
-### #is_/same_as :: [Electrical_Resistance.public](/_public/Science/Physics/Electricity/Electrical_Resistance.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Electricity/Electrical_Resistance.public|Electrical_Resistance.public]] 
 
-### #is_/same_as :: [Electrical_Resistance.internal](/_internal/Science/Physics/Electricity/Electrical_Resistance.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Electricity/Electrical_Resistance.internal|Electrical_Resistance.internal]] 
 
-### #is_/same_as :: [Electrical_Resistance.protect](/_protect/Science/Physics/Electricity/Electrical_Resistance.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Electricity/Electrical_Resistance.protect|Electrical_Resistance.protect]] 
 
-### #is_/same_as :: [Electrical_Resistance.private](/_private/Science/Physics/Electricity/Electrical_Resistance.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Electricity/Electrical_Resistance.private|Electrical_Resistance.private]] 
 
-### #is_/same_as :: [Electrical_Resistance.personal](/_personal/Science/Physics/Electricity/Electrical_Resistance.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Electricity/Electrical_Resistance.personal|Electrical_Resistance.personal]] 
 
-### #is_/same_as :: [Electrical_Resistance.secret](/_secret/Science/Physics/Electricity/Electrical_Resistance.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Electricity/Electrical_Resistance.secret|Electrical_Resistance.secret]] 
 

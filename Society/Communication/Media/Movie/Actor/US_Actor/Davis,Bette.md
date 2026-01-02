@@ -130,17 +130,17 @@ U_S_National_Archives_Identifier: 16703221
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Davis,Bette](/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Davis,Bette.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Davis,Bette|Davis,Bette]] 
 
-### #is_/same_as :: [Davis,Bette.public](/_public/Society/Communication/Media/Movie/Actor/US_Actor/Davis,Bette.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Actor/US_Actor/Davis,Bette.public|Davis,Bette.public]] 
 
-### #is_/same_as :: [Davis,Bette.internal](/_internal/Society/Communication/Media/Movie/Actor/US_Actor/Davis,Bette.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Actor/US_Actor/Davis,Bette.internal|Davis,Bette.internal]] 
 
-### #is_/same_as :: [Davis,Bette.protect](/_protect/Society/Communication/Media/Movie/Actor/US_Actor/Davis,Bette.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Actor/US_Actor/Davis,Bette.protect|Davis,Bette.protect]] 
 
-### #is_/same_as :: [Davis,Bette.private](/_private/Society/Communication/Media/Movie/Actor/US_Actor/Davis,Bette.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Actor/US_Actor/Davis,Bette.private|Davis,Bette.private]] 
 
-### #is_/same_as :: [Davis,Bette.personal](/_personal/Society/Communication/Media/Movie/Actor/US_Actor/Davis,Bette.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Actor/US_Actor/Davis,Bette.personal|Davis,Bette.personal]] 
 
-### #is_/same_as :: [Davis,Bette.secret](/_secret/Society/Communication/Media/Movie/Actor/US_Actor/Davis,Bette.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Actor/US_Actor/Davis,Bette.secret|Davis,Bette.secret]] 
 

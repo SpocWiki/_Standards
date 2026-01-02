@@ -107,3 +107,22 @@ Google_Doodle: mohammed-rafis-93th-birthday
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Mohammed%20Rafi) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Musician/Singer/Rafi,Mohammed|Rafi,Mohammed]] 
+
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Musician/Singer/Rafi,Mohammed.public|Rafi,Mohammed.public]] 
+
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Musician/Singer/Rafi,Mohammed.internal|Rafi,Mohammed.internal]] 
+
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Musician/Singer/Rafi,Mohammed.protect|Rafi,Mohammed.protect]] 
+
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Musician/Singer/Rafi,Mohammed.private|Rafi,Mohammed.private]] 
+
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Musician/Singer/Rafi,Mohammed.personal|Rafi,Mohammed.personal]] 
+
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Musician/Singer/Rafi,Mohammed.secret|Rafi,Mohammed.secret]] 
+

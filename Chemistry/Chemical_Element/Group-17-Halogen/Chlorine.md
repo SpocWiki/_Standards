@@ -123,17 +123,17 @@ Unicode_character: 氯
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Chlorine](/_Standards/Chemistry/Chemical_Element/Group-17-Halogen/Chlorine.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Chemical_Element/Group-17-Halogen/Chlorine|Chlorine]] 
 
-### #is_/same_as :: [Chlorine.public](/_public/Chemistry/Chemical_Element/Group-17-Halogen/Chlorine.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Chemical_Element/Group-17-Halogen/Chlorine.public|Chlorine.public]] 
 
-### #is_/same_as :: [Chlorine.internal](/_internal/Chemistry/Chemical_Element/Group-17-Halogen/Chlorine.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Chemical_Element/Group-17-Halogen/Chlorine.internal|Chlorine.internal]] 
 
-### #is_/same_as :: [Chlorine.protect](/_protect/Chemistry/Chemical_Element/Group-17-Halogen/Chlorine.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Chemical_Element/Group-17-Halogen/Chlorine.protect|Chlorine.protect]] 
 
-### #is_/same_as :: [Chlorine.private](/_private/Chemistry/Chemical_Element/Group-17-Halogen/Chlorine.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Chemical_Element/Group-17-Halogen/Chlorine.private|Chlorine.private]] 
 
-### #is_/same_as :: [Chlorine.personal](/_personal/Chemistry/Chemical_Element/Group-17-Halogen/Chlorine.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Chemical_Element/Group-17-Halogen/Chlorine.personal|Chlorine.personal]] 
 
-### #is_/same_as :: [Chlorine.secret](/_secret/Chemistry/Chemical_Element/Group-17-Halogen/Chlorine.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Chemical_Element/Group-17-Halogen/Chlorine.secret|Chlorine.secret]] 
 

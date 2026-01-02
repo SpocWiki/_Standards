@@ -48,17 +48,17 @@ Commons_category: Radio galaxies
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Radio_Galaxy](/_Standards/Astronomy/Star_System/Galaxy/Radio_Galaxy.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Star_System/Galaxy/Radio_Galaxy|Radio_Galaxy]] 
 
-### #is_/same_as :: [Radio_Galaxy.public](/_public/Astronomy/Star_System/Galaxy/Radio_Galaxy.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Star_System/Galaxy/Radio_Galaxy.public|Radio_Galaxy.public]] 
 
-### #is_/same_as :: [Radio_Galaxy.internal](/_internal/Astronomy/Star_System/Galaxy/Radio_Galaxy.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Star_System/Galaxy/Radio_Galaxy.internal|Radio_Galaxy.internal]] 
 
-### #is_/same_as :: [Radio_Galaxy.protect](/_protect/Astronomy/Star_System/Galaxy/Radio_Galaxy.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Star_System/Galaxy/Radio_Galaxy.protect|Radio_Galaxy.protect]] 
 
-### #is_/same_as :: [Radio_Galaxy.private](/_private/Astronomy/Star_System/Galaxy/Radio_Galaxy.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Star_System/Galaxy/Radio_Galaxy.private|Radio_Galaxy.private]] 
 
-### #is_/same_as :: [Radio_Galaxy.personal](/_personal/Astronomy/Star_System/Galaxy/Radio_Galaxy.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Star_System/Galaxy/Radio_Galaxy.personal|Radio_Galaxy.personal]] 
 
-### #is_/same_as :: [Radio_Galaxy.secret](/_secret/Astronomy/Star_System/Galaxy/Radio_Galaxy.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Star_System/Galaxy/Radio_Galaxy.secret|Radio_Galaxy.secret]] 
 

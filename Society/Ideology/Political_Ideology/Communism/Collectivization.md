@@ -31,17 +31,17 @@ Commons_category: Collectivization
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Collectivization](/_Standards/Society/Ideology/Political_Ideology/Communism/Collectivization.md) 
+### #is_/same_as :: [[/_Standards/Society/Ideology/Political_Ideology/Communism/Collectivization|Collectivization]] 
 
-### #is_/same_as :: [Collectivization.public](/_public/Society/Ideology/Political_Ideology/Communism/Collectivization.public.md) 
+### #is_/same_as :: [[/_public/Society/Ideology/Political_Ideology/Communism/Collectivization.public|Collectivization.public]] 
 
-### #is_/same_as :: [Collectivization.internal](/_internal/Society/Ideology/Political_Ideology/Communism/Collectivization.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Ideology/Political_Ideology/Communism/Collectivization.internal|Collectivization.internal]] 
 
-### #is_/same_as :: [Collectivization.protect](/_protect/Society/Ideology/Political_Ideology/Communism/Collectivization.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Ideology/Political_Ideology/Communism/Collectivization.protect|Collectivization.protect]] 
 
-### #is_/same_as :: [Collectivization.private](/_private/Society/Ideology/Political_Ideology/Communism/Collectivization.private.md) 
+### #is_/same_as :: [[/_private/Society/Ideology/Political_Ideology/Communism/Collectivization.private|Collectivization.private]] 
 
-### #is_/same_as :: [Collectivization.personal](/_personal/Society/Ideology/Political_Ideology/Communism/Collectivization.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Ideology/Political_Ideology/Communism/Collectivization.personal|Collectivization.personal]] 
 
-### #is_/same_as :: [Collectivization.secret](/_secret/Society/Ideology/Political_Ideology/Communism/Collectivization.secret.md)
+### #is_/same_as :: [[/_secret/Society/Ideology/Political_Ideology/Communism/Collectivization.secret|Collectivization.secret]] 
 

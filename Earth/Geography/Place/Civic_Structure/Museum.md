@@ -161,17 +161,17 @@ A museum.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Museum](/_Standards/Earth/Geography/Place/Civic_Structure/Museum.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geography/Place/Civic_Structure/Museum|Museum]] 
 
-### #is_/same_as :: [Museum.public](/_public/Earth/Geography/Place/Civic_Structure/Museum.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geography/Place/Civic_Structure/Museum.public|Museum.public]] 
 
-### #is_/same_as :: [Museum.internal](/_internal/Earth/Geography/Place/Civic_Structure/Museum.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geography/Place/Civic_Structure/Museum.internal|Museum.internal]] 
 
-### #is_/same_as :: [Museum.protect](/_protect/Earth/Geography/Place/Civic_Structure/Museum.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geography/Place/Civic_Structure/Museum.protect|Museum.protect]] 
 
-### #is_/same_as :: [Museum.private](/_private/Earth/Geography/Place/Civic_Structure/Museum.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geography/Place/Civic_Structure/Museum.private|Museum.private]] 
 
-### #is_/same_as :: [Museum.personal](/_personal/Earth/Geography/Place/Civic_Structure/Museum.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geography/Place/Civic_Structure/Museum.personal|Museum.personal]] 
 
-### #is_/same_as :: [Museum.secret](/_secret/Earth/Geography/Place/Civic_Structure/Museum.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geography/Place/Civic_Structure/Museum.secret|Museum.secret]] 
 

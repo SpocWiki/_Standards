@@ -43,17 +43,17 @@ for Best Supporting Actress for playing a recovering drug addict in Birdman (201
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Stone,Emma](/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Stone,Emma.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Stone,Emma|Stone,Emma]] 
 
-### #is_/same_as :: [Stone,Emma.public](/_public/Society/Communication/Media/Movie/Actor/US_Actor/Stone,Emma.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Actor/US_Actor/Stone,Emma.public|Stone,Emma.public]] 
 
-### #is_/same_as :: [Stone,Emma.internal](/_internal/Society/Communication/Media/Movie/Actor/US_Actor/Stone,Emma.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Actor/US_Actor/Stone,Emma.internal|Stone,Emma.internal]] 
 
-### #is_/same_as :: [Stone,Emma.protect](/_protect/Society/Communication/Media/Movie/Actor/US_Actor/Stone,Emma.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Actor/US_Actor/Stone,Emma.protect|Stone,Emma.protect]] 
 
-### #is_/same_as :: [Stone,Emma.private](/_private/Society/Communication/Media/Movie/Actor/US_Actor/Stone,Emma.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Actor/US_Actor/Stone,Emma.private|Stone,Emma.private]] 
 
-### #is_/same_as :: [Stone,Emma.personal](/_personal/Society/Communication/Media/Movie/Actor/US_Actor/Stone,Emma.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Actor/US_Actor/Stone,Emma.personal|Stone,Emma.personal]] 
 
-### #is_/same_as :: [Stone,Emma.secret](/_secret/Society/Communication/Media/Movie/Actor/US_Actor/Stone,Emma.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Actor/US_Actor/Stone,Emma.secret|Stone,Emma.secret]] 
 

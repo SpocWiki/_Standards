@@ -60,17 +60,17 @@ Facebook_username: TimesofIndia
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Times_of_India](/_Standards/Society/Communication/Media/Journalism/Newspaper/Times_of_India.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Journalism/Newspaper/Times_of_India|Times_of_India]] 
 
-### #is_/same_as :: [Times_of_India.public](/_public/Society/Communication/Media/Journalism/Newspaper/Times_of_India.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Journalism/Newspaper/Times_of_India.public|Times_of_India.public]] 
 
-### #is_/same_as :: [Times_of_India.internal](/_internal/Society/Communication/Media/Journalism/Newspaper/Times_of_India.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Journalism/Newspaper/Times_of_India.internal|Times_of_India.internal]] 
 
-### #is_/same_as :: [Times_of_India.protect](/_protect/Society/Communication/Media/Journalism/Newspaper/Times_of_India.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Journalism/Newspaper/Times_of_India.protect|Times_of_India.protect]] 
 
-### #is_/same_as :: [Times_of_India.private](/_private/Society/Communication/Media/Journalism/Newspaper/Times_of_India.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Journalism/Newspaper/Times_of_India.private|Times_of_India.private]] 
 
-### #is_/same_as :: [Times_of_India.personal](/_personal/Society/Communication/Media/Journalism/Newspaper/Times_of_India.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Journalism/Newspaper/Times_of_India.personal|Times_of_India.personal]] 
 
-### #is_/same_as :: [Times_of_India.secret](/_secret/Society/Communication/Media/Journalism/Newspaper/Times_of_India.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Journalism/Newspaper/Times_of_India.secret|Times_of_India.secret]] 
 

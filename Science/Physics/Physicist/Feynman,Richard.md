@@ -196,17 +196,17 @@ ISNI: "0000000120960218"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Feynman,Richard](/_Standards/Science/Physics/Physicist/Feynman,Richard.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Physicist/Feynman,Richard|Feynman,Richard]] 
 
-### #is_/same_as :: [Feynman,Richard.public](/_public/Science/Physics/Physicist/Feynman,Richard.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Physicist/Feynman,Richard.public|Feynman,Richard.public]] 
 
-### #is_/same_as :: [Feynman,Richard.internal](/_internal/Science/Physics/Physicist/Feynman,Richard.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Physicist/Feynman,Richard.internal|Feynman,Richard.internal]] 
 
-### #is_/same_as :: [Feynman,Richard.protect](/_protect/Science/Physics/Physicist/Feynman,Richard.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Physicist/Feynman,Richard.protect|Feynman,Richard.protect]] 
 
-### #is_/same_as :: [Feynman,Richard.private](/_private/Science/Physics/Physicist/Feynman,Richard.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Physicist/Feynman,Richard.private|Feynman,Richard.private]] 
 
-### #is_/same_as :: [Feynman,Richard.personal](/_personal/Science/Physics/Physicist/Feynman,Richard.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Physicist/Feynman,Richard.personal|Feynman,Richard.personal]] 
 
-### #is_/same_as :: [Feynman,Richard.secret](/_secret/Science/Physics/Physicist/Feynman,Richard.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Physicist/Feynman,Richard.secret|Feynman,Richard.secret]] 
 

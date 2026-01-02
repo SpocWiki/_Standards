@@ -53,17 +53,17 @@ Binary Operators allow for a **convenient infix Notation**:  op(a, b) = a op b
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Operator~binary](/_Standards/Mathematics/Function(Math)/Function~binary/Operator~binary.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Function(Math)/Function~binary/Operator~binary|Operator~binary]] 
 
-### #is_/same_as :: [Operator~binary.public](/_public/Mathematics/Function(Math)/Function~binary/Operator~binary.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Function(Math)/Function~binary/Operator~binary.public|Operator~binary.public]] 
 
-### #is_/same_as :: [Operator~binary.internal](/_internal/Mathematics/Function(Math)/Function~binary/Operator~binary.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Function(Math)/Function~binary/Operator~binary.internal|Operator~binary.internal]] 
 
-### #is_/same_as :: [Operator~binary.protect](/_protect/Mathematics/Function(Math)/Function~binary/Operator~binary.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Function(Math)/Function~binary/Operator~binary.protect|Operator~binary.protect]] 
 
-### #is_/same_as :: [Operator~binary.private](/_private/Mathematics/Function(Math)/Function~binary/Operator~binary.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Function(Math)/Function~binary/Operator~binary.private|Operator~binary.private]] 
 
-### #is_/same_as :: [Operator~binary.personal](/_personal/Mathematics/Function(Math)/Function~binary/Operator~binary.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Function(Math)/Function~binary/Operator~binary.personal|Operator~binary.personal]] 
 
-### #is_/same_as :: [Operator~binary.secret](/_secret/Mathematics/Function(Math)/Function~binary/Operator~binary.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Function(Math)/Function~binary/Operator~binary.secret|Operator~binary.secret]] 
 

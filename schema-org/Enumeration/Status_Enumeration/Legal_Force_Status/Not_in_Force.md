@@ -44,17 +44,17 @@ Indicates that a legislation is currently not in force.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Not_in_Force](/_Standards/schema-org/Enumeration/Status_Enumeration/Legal_Force_Status/Not_in_Force.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Status_Enumeration/Legal_Force_Status/Not_in_Force|Not_in_Force]] 
 
-### #is_/same_as :: [Not_in_Force.public](/_public/schema-org/Enumeration/Status_Enumeration/Legal_Force_Status/Not_in_Force.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Status_Enumeration/Legal_Force_Status/Not_in_Force.public|Not_in_Force.public]] 
 
-### #is_/same_as :: [Not_in_Force.internal](/_internal/schema-org/Enumeration/Status_Enumeration/Legal_Force_Status/Not_in_Force.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Status_Enumeration/Legal_Force_Status/Not_in_Force.internal|Not_in_Force.internal]] 
 
-### #is_/same_as :: [Not_in_Force.protect](/_protect/schema-org/Enumeration/Status_Enumeration/Legal_Force_Status/Not_in_Force.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Status_Enumeration/Legal_Force_Status/Not_in_Force.protect|Not_in_Force.protect]] 
 
-### #is_/same_as :: [Not_in_Force.private](/_private/schema-org/Enumeration/Status_Enumeration/Legal_Force_Status/Not_in_Force.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Status_Enumeration/Legal_Force_Status/Not_in_Force.private|Not_in_Force.private]] 
 
-### #is_/same_as :: [Not_in_Force.personal](/_personal/schema-org/Enumeration/Status_Enumeration/Legal_Force_Status/Not_in_Force.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Status_Enumeration/Legal_Force_Status/Not_in_Force.personal|Not_in_Force.personal]] 
 
-### #is_/same_as :: [Not_in_Force.secret](/_secret/schema-org/Enumeration/Status_Enumeration/Legal_Force_Status/Not_in_Force.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Status_Enumeration/Legal_Force_Status/Not_in_Force.secret|Not_in_Force.secret]] 
 

@@ -50,17 +50,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Davis,Geena](/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Davis,Geena.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Davis,Geena|Davis,Geena]] 
 
-### #is_/same_as :: [Davis,Geena.public](/_public/Society/Communication/Media/Movie/Actor/US_Actor/Davis,Geena.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Actor/US_Actor/Davis,Geena.public|Davis,Geena.public]] 
 
-### #is_/same_as :: [Davis,Geena.internal](/_internal/Society/Communication/Media/Movie/Actor/US_Actor/Davis,Geena.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Actor/US_Actor/Davis,Geena.internal|Davis,Geena.internal]] 
 
-### #is_/same_as :: [Davis,Geena.protect](/_protect/Society/Communication/Media/Movie/Actor/US_Actor/Davis,Geena.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Actor/US_Actor/Davis,Geena.protect|Davis,Geena.protect]] 
 
-### #is_/same_as :: [Davis,Geena.private](/_private/Society/Communication/Media/Movie/Actor/US_Actor/Davis,Geena.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Actor/US_Actor/Davis,Geena.private|Davis,Geena.private]] 
 
-### #is_/same_as :: [Davis,Geena.personal](/_personal/Society/Communication/Media/Movie/Actor/US_Actor/Davis,Geena.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Actor/US_Actor/Davis,Geena.personal|Davis,Geena.personal]] 
 
-### #is_/same_as :: [Davis,Geena.secret](/_secret/Society/Communication/Media/Movie/Actor/US_Actor/Davis,Geena.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Actor/US_Actor/Davis,Geena.secret|Davis,Geena.secret]] 
 

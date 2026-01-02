@@ -261,17 +261,17 @@ SupportingData:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#clas
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~SoftwareApplication](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~SoftwareApplication.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~SoftwareApplication|FileClass~SoftwareApplication]] 
 
-### #is_/same_as :: [FileClass~SoftwareApplication.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~SoftwareApplication.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~SoftwareApplication.public|FileClass~SoftwareApplication.public]] 
 
-### #is_/same_as :: [FileClass~SoftwareApplication.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~SoftwareApplication.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~SoftwareApplication.internal|FileClass~SoftwareApplication.internal]] 
 
-### #is_/same_as :: [FileClass~SoftwareApplication.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~SoftwareApplication.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~SoftwareApplication.protect|FileClass~SoftwareApplication.protect]] 
 
-### #is_/same_as :: [FileClass~SoftwareApplication.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~SoftwareApplication.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~SoftwareApplication.private|FileClass~SoftwareApplication.private]] 
 
-### #is_/same_as :: [FileClass~SoftwareApplication.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~SoftwareApplication.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~SoftwareApplication.personal|FileClass~SoftwareApplication.personal]] 
 
-### #is_/same_as :: [FileClass~SoftwareApplication.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~SoftwareApplication.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~SoftwareApplication.secret|FileClass~SoftwareApplication.secret]] 
 

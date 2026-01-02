@@ -42,17 +42,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_pregnancy_category](/_Standards/schema-org/Relation/has/has_pregnancy_category.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_pregnancy_category|has_pregnancy_category]] 
 
-### #is_/same_as :: [has_pregnancy_category.public](/_public/schema-org/Relation/has/has_pregnancy_category.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_pregnancy_category.public|has_pregnancy_category.public]] 
 
-### #is_/same_as :: [has_pregnancy_category.internal](/_internal/schema-org/Relation/has/has_pregnancy_category.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_pregnancy_category.internal|has_pregnancy_category.internal]] 
 
-### #is_/same_as :: [has_pregnancy_category.protect](/_protect/schema-org/Relation/has/has_pregnancy_category.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_pregnancy_category.protect|has_pregnancy_category.protect]] 
 
-### #is_/same_as :: [has_pregnancy_category.private](/_private/schema-org/Relation/has/has_pregnancy_category.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_pregnancy_category.private|has_pregnancy_category.private]] 
 
-### #is_/same_as :: [has_pregnancy_category.personal](/_personal/schema-org/Relation/has/has_pregnancy_category.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_pregnancy_category.personal|has_pregnancy_category.personal]] 
 
-### #is_/same_as :: [has_pregnancy_category.secret](/_secret/schema-org/Relation/has/has_pregnancy_category.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_pregnancy_category.secret|has_pregnancy_category.secret]] 
 

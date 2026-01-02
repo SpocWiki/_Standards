@@ -73,17 +73,17 @@ Krugosvet_article_archived_: Earth_sciences/geografiya/METEOROLOGIYA_I_KLIMATOLO
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Meteorology](/_Standards/Earth/Climate/Atmosphere,Earth/Meteorology.md) 
+### #is_/same_as :: [[/_Standards/Earth/Climate/Atmosphere,Earth/Meteorology|Meteorology]] 
 
-### #is_/same_as :: [Meteorology.public](/_public/Earth/Climate/Atmosphere,Earth/Meteorology.public.md) 
+### #is_/same_as :: [[/_public/Earth/Climate/Atmosphere,Earth/Meteorology.public|Meteorology.public]] 
 
-### #is_/same_as :: [Meteorology.internal](/_internal/Earth/Climate/Atmosphere,Earth/Meteorology.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Climate/Atmosphere,Earth/Meteorology.internal|Meteorology.internal]] 
 
-### #is_/same_as :: [Meteorology.protect](/_protect/Earth/Climate/Atmosphere,Earth/Meteorology.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Climate/Atmosphere,Earth/Meteorology.protect|Meteorology.protect]] 
 
-### #is_/same_as :: [Meteorology.private](/_private/Earth/Climate/Atmosphere,Earth/Meteorology.private.md) 
+### #is_/same_as :: [[/_private/Earth/Climate/Atmosphere,Earth/Meteorology.private|Meteorology.private]] 
 
-### #is_/same_as :: [Meteorology.personal](/_personal/Earth/Climate/Atmosphere,Earth/Meteorology.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Climate/Atmosphere,Earth/Meteorology.personal|Meteorology.personal]] 
 
-### #is_/same_as :: [Meteorology.secret](/_secret/Earth/Climate/Atmosphere,Earth/Meteorology.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Climate/Atmosphere,Earth/Meteorology.secret|Meteorology.secret]] 
 

@@ -47,17 +47,17 @@ type: Lang
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lang-tel](/_Standards/Language/Language_Family/LangFamily-Dravidian/Lang-tel.md) 
+### #is_/same_as :: [[/_Standards/Language/Language_Family/LangFamily-Dravidian/Lang-tel|Lang-tel]] 
 
-### #is_/same_as :: [Lang-tel.public](/_public/Language/Language_Family/LangFamily-Dravidian/Lang-tel.public.md) 
+### #is_/same_as :: [[/_public/Language/Language_Family/LangFamily-Dravidian/Lang-tel.public|Lang-tel.public]] 
 
-### #is_/same_as :: [Lang-tel.internal](/_internal/Language/Language_Family/LangFamily-Dravidian/Lang-tel.internal.md) 
+### #is_/same_as :: [[/_internal/Language/Language_Family/LangFamily-Dravidian/Lang-tel.internal|Lang-tel.internal]] 
 
-### #is_/same_as :: [Lang-tel.protect](/_protect/Language/Language_Family/LangFamily-Dravidian/Lang-tel.protect.md) 
+### #is_/same_as :: [[/_protect/Language/Language_Family/LangFamily-Dravidian/Lang-tel.protect|Lang-tel.protect]] 
 
-### #is_/same_as :: [Lang-tel.private](/_private/Language/Language_Family/LangFamily-Dravidian/Lang-tel.private.md) 
+### #is_/same_as :: [[/_private/Language/Language_Family/LangFamily-Dravidian/Lang-tel.private|Lang-tel.private]] 
 
-### #is_/same_as :: [Lang-tel.personal](/_personal/Language/Language_Family/LangFamily-Dravidian/Lang-tel.personal.md) 
+### #is_/same_as :: [[/_personal/Language/Language_Family/LangFamily-Dravidian/Lang-tel.personal|Lang-tel.personal]] 
 
-### #is_/same_as :: [Lang-tel.secret](/_secret/Language/Language_Family/LangFamily-Dravidian/Lang-tel.secret.md)
+### #is_/same_as :: [[/_secret/Language/Language_Family/LangFamily-Dravidian/Lang-tel.secret|Lang-tel.secret]] 
 

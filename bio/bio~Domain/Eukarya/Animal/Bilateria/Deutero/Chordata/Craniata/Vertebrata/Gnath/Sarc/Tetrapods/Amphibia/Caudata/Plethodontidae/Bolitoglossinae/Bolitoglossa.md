@@ -176,7 +176,7 @@ sister to a clade containing *Nototriton* and *Oedipina , Bradytriton*.
 ## Title Illustrations
 
 ------------------------------------------------------------------ 
-![](Bolitoglossa/103881968_74ffee5d5b_o.jpg))
+![](Bolitoglossa/103881968_74ffee5d5b_o.jpg) 
 Scientific Name ::     Bolitoglossa striatula
 Location ::           Costa Rica
 Acknowledgements     This image is licensed under the [Attribution-NonCommercial-ShareAlike 2.0 Creative Commons License](http://creativecommons.org/licenses/by-nc-sa/2.0/).
@@ -187,17 +187,17 @@ Copyright ::            © 2006 [Jack Goldfarb](http://flickr.com/people/the_hor
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bolitoglossa](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Plethodontidae/Bolitoglossinae/Bolitoglossa.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Plethodontidae/Bolitoglossinae/Bolitoglossa|Bolitoglossa]] 
 
-### #is_/same_as :: [Bolitoglossa.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Plethodontidae/Bolitoglossinae/Bolitoglossa.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Plethodontidae/Bolitoglossinae/Bolitoglossa.public|Bolitoglossa.public]] 
 
-### #is_/same_as :: [Bolitoglossa.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Plethodontidae/Bolitoglossinae/Bolitoglossa.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Plethodontidae/Bolitoglossinae/Bolitoglossa.internal|Bolitoglossa.internal]] 
 
-### #is_/same_as :: [Bolitoglossa.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Plethodontidae/Bolitoglossinae/Bolitoglossa.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Plethodontidae/Bolitoglossinae/Bolitoglossa.protect|Bolitoglossa.protect]] 
 
-### #is_/same_as :: [Bolitoglossa.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Plethodontidae/Bolitoglossinae/Bolitoglossa.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Plethodontidae/Bolitoglossinae/Bolitoglossa.private|Bolitoglossa.private]] 
 
-### #is_/same_as :: [Bolitoglossa.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Plethodontidae/Bolitoglossinae/Bolitoglossa.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Plethodontidae/Bolitoglossinae/Bolitoglossa.personal|Bolitoglossa.personal]] 
 
-### #is_/same_as :: [Bolitoglossa.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Plethodontidae/Bolitoglossinae/Bolitoglossa.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Plethodontidae/Bolitoglossinae/Bolitoglossa.secret|Bolitoglossa.secret]] 
 

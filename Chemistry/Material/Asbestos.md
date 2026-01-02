@@ -105,17 +105,17 @@ UMLS_CUI: C0003947
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Asbestos](/_Standards/Chemistry/Material/Asbestos.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Material/Asbestos|Asbestos]] 
 
-### #is_/same_as :: [Asbestos.public](/_public/Chemistry/Material/Asbestos.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Material/Asbestos.public|Asbestos.public]] 
 
-### #is_/same_as :: [Asbestos.internal](/_internal/Chemistry/Material/Asbestos.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Material/Asbestos.internal|Asbestos.internal]] 
 
-### #is_/same_as :: [Asbestos.protect](/_protect/Chemistry/Material/Asbestos.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Material/Asbestos.protect|Asbestos.protect]] 
 
-### #is_/same_as :: [Asbestos.private](/_private/Chemistry/Material/Asbestos.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Material/Asbestos.private|Asbestos.private]] 
 
-### #is_/same_as :: [Asbestos.personal](/_personal/Chemistry/Material/Asbestos.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Material/Asbestos.personal|Asbestos.personal]] 
 
-### #is_/same_as :: [Asbestos.secret](/_secret/Chemistry/Material/Asbestos.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Material/Asbestos.secret|Asbestos.secret]] 
 

@@ -51,17 +51,17 @@ Dewey_Decimal_Classification: "305.235"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Youth](/_Standards/bio/Reproduction/Developmental_Biology/Youth.md) 
+### #is_/same_as :: [[/_Standards/bio/Reproduction/Developmental_Biology/Youth|Youth]] 
 
-### #is_/same_as :: [Youth.public](/_public/bio/Reproduction/Developmental_Biology/Youth.public.md) 
+### #is_/same_as :: [[/_public/bio/Reproduction/Developmental_Biology/Youth.public|Youth.public]] 
 
-### #is_/same_as :: [Youth.internal](/_internal/bio/Reproduction/Developmental_Biology/Youth.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Reproduction/Developmental_Biology/Youth.internal|Youth.internal]] 
 
-### #is_/same_as :: [Youth.protect](/_protect/bio/Reproduction/Developmental_Biology/Youth.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Reproduction/Developmental_Biology/Youth.protect|Youth.protect]] 
 
-### #is_/same_as :: [Youth.private](/_private/bio/Reproduction/Developmental_Biology/Youth.private.md) 
+### #is_/same_as :: [[/_private/bio/Reproduction/Developmental_Biology/Youth.private|Youth.private]] 
 
-### #is_/same_as :: [Youth.personal](/_personal/bio/Reproduction/Developmental_Biology/Youth.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Reproduction/Developmental_Biology/Youth.personal|Youth.personal]] 
 
-### #is_/same_as :: [Youth.secret](/_secret/bio/Reproduction/Developmental_Biology/Youth.secret.md)
+### #is_/same_as :: [[/_secret/bio/Reproduction/Developmental_Biology/Youth.secret|Youth.secret]] 
 

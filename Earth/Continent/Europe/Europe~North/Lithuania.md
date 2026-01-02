@@ -467,17 +467,17 @@ Capital :: [[Vilnius]]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lithuania](/_Standards/Earth/Continent/Europe/Europe~North/Lithuania.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Lithuania|Lithuania]] 
 
-### #is_/same_as :: [Lithuania.public](/_public/Earth/Continent/Europe/Europe~North/Lithuania.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Lithuania.public|Lithuania.public]] 
 
-### #is_/same_as :: [Lithuania.internal](/_internal/Earth/Continent/Europe/Europe~North/Lithuania.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Lithuania.internal|Lithuania.internal]] 
 
-### #is_/same_as :: [Lithuania.protect](/_protect/Earth/Continent/Europe/Europe~North/Lithuania.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Lithuania.protect|Lithuania.protect]] 
 
-### #is_/same_as :: [Lithuania.private](/_private/Earth/Continent/Europe/Europe~North/Lithuania.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Lithuania.private|Lithuania.private]] 
 
-### #is_/same_as :: [Lithuania.personal](/_personal/Earth/Continent/Europe/Europe~North/Lithuania.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Lithuania.personal|Lithuania.personal]] 
 
-### #is_/same_as :: [Lithuania.secret](/_secret/Earth/Continent/Europe/Europe~North/Lithuania.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Lithuania.secret|Lithuania.secret]] 
 

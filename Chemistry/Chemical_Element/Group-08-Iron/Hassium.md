@@ -65,17 +65,17 @@ DSSTOX_compound_identifier: DTXCID601323015
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hassium](/_Standards/Chemistry/Chemical_Element/Group-08-Iron/Hassium.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Chemical_Element/Group-08-Iron/Hassium|Hassium]] 
 
-### #is_/same_as :: [Hassium.public](/_public/Chemistry/Chemical_Element/Group-08-Iron/Hassium.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Chemical_Element/Group-08-Iron/Hassium.public|Hassium.public]] 
 
-### #is_/same_as :: [Hassium.internal](/_internal/Chemistry/Chemical_Element/Group-08-Iron/Hassium.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Chemical_Element/Group-08-Iron/Hassium.internal|Hassium.internal]] 
 
-### #is_/same_as :: [Hassium.protect](/_protect/Chemistry/Chemical_Element/Group-08-Iron/Hassium.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Chemical_Element/Group-08-Iron/Hassium.protect|Hassium.protect]] 
 
-### #is_/same_as :: [Hassium.private](/_private/Chemistry/Chemical_Element/Group-08-Iron/Hassium.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Chemical_Element/Group-08-Iron/Hassium.private|Hassium.private]] 
 
-### #is_/same_as :: [Hassium.personal](/_personal/Chemistry/Chemical_Element/Group-08-Iron/Hassium.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Chemical_Element/Group-08-Iron/Hassium.personal|Hassium.personal]] 
 
-### #is_/same_as :: [Hassium.secret](/_secret/Chemistry/Chemical_Element/Group-08-Iron/Hassium.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Chemical_Element/Group-08-Iron/Hassium.secret|Hassium.secret]] 
 

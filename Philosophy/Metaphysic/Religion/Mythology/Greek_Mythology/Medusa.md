@@ -80,17 +80,17 @@ name_in_native_language: Μεδουσα
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Medusa](/_Standards/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Medusa.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Medusa|Medusa]] 
 
-### #is_/same_as :: [Medusa.public](/_public/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Medusa.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Medusa.public|Medusa.public]] 
 
-### #is_/same_as :: [Medusa.internal](/_internal/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Medusa.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Medusa.internal|Medusa.internal]] 
 
-### #is_/same_as :: [Medusa.protect](/_protect/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Medusa.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Medusa.protect|Medusa.protect]] 
 
-### #is_/same_as :: [Medusa.private](/_private/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Medusa.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Medusa.private|Medusa.private]] 
 
-### #is_/same_as :: [Medusa.personal](/_personal/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Medusa.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Medusa.personal|Medusa.personal]] 
 
-### #is_/same_as :: [Medusa.secret](/_secret/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Medusa.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Medusa.secret|Medusa.secret]] 
 

@@ -87,17 +87,17 @@ U_S_National_Archives_Identifier: 10641755
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Weapon](/_Standards/Society/Military/Military_Engineering/Weapon.md) 
+### #is_/same_as :: [[/_Standards/Society/Military/Military_Engineering/Weapon|Weapon]] 
 
-### #is_/same_as :: [Weapon.public](/_public/Society/Military/Military_Engineering/Weapon.public.md) 
+### #is_/same_as :: [[/_public/Society/Military/Military_Engineering/Weapon.public|Weapon.public]] 
 
-### #is_/same_as :: [Weapon.internal](/_internal/Society/Military/Military_Engineering/Weapon.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Military/Military_Engineering/Weapon.internal|Weapon.internal]] 
 
-### #is_/same_as :: [Weapon.protect](/_protect/Society/Military/Military_Engineering/Weapon.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Military/Military_Engineering/Weapon.protect|Weapon.protect]] 
 
-### #is_/same_as :: [Weapon.private](/_private/Society/Military/Military_Engineering/Weapon.private.md) 
+### #is_/same_as :: [[/_private/Society/Military/Military_Engineering/Weapon.private|Weapon.private]] 
 
-### #is_/same_as :: [Weapon.personal](/_personal/Society/Military/Military_Engineering/Weapon.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Military/Military_Engineering/Weapon.personal|Weapon.personal]] 
 
-### #is_/same_as :: [Weapon.secret](/_secret/Society/Military/Military_Engineering/Weapon.secret.md)
+### #is_/same_as :: [[/_secret/Society/Military/Military_Engineering/Weapon.secret|Weapon.secret]] 
 

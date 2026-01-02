@@ -56,17 +56,17 @@ HTML Meta-Tags are often used to describe Web Pages using
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Microformat](/_Standards/W3C(World_Wide_Web_Consortium)/RDF(Resource_Description_Framework)/Microformat.md) 
+### #is_/same_as :: [[/_Standards/W3C(World_Wide_Web_Consortium)/RDF(Resource_Description_Framework)/Microformat|Microformat]] 
 
-### #is_/same_as :: [Microformat.public](/_public/W3C(World_Wide_Web_Consortium)/RDF(Resource_Description_Framework)/Microformat.public.md) 
+### #is_/same_as :: [[/_public/W3C(World_Wide_Web_Consortium)/RDF(Resource_Description_Framework)/Microformat.public|Microformat.public]] 
 
-### #is_/same_as :: [Microformat.internal](/_internal/W3C(World_Wide_Web_Consortium)/RDF(Resource_Description_Framework)/Microformat.internal.md) 
+### #is_/same_as :: [[/_internal/W3C(World_Wide_Web_Consortium)/RDF(Resource_Description_Framework)/Microformat.internal|Microformat.internal]] 
 
-### #is_/same_as :: [Microformat.protect](/_protect/W3C(World_Wide_Web_Consortium)/RDF(Resource_Description_Framework)/Microformat.protect.md) 
+### #is_/same_as :: [[/_protect/W3C(World_Wide_Web_Consortium)/RDF(Resource_Description_Framework)/Microformat.protect|Microformat.protect]] 
 
-### #is_/same_as :: [Microformat.private](/_private/W3C(World_Wide_Web_Consortium)/RDF(Resource_Description_Framework)/Microformat.private.md) 
+### #is_/same_as :: [[/_private/W3C(World_Wide_Web_Consortium)/RDF(Resource_Description_Framework)/Microformat.private|Microformat.private]] 
 
-### #is_/same_as :: [Microformat.personal](/_personal/W3C(World_Wide_Web_Consortium)/RDF(Resource_Description_Framework)/Microformat.personal.md) 
+### #is_/same_as :: [[/_personal/W3C(World_Wide_Web_Consortium)/RDF(Resource_Description_Framework)/Microformat.personal|Microformat.personal]] 
 
-### #is_/same_as :: [Microformat.secret](/_secret/W3C(World_Wide_Web_Consortium)/RDF(Resource_Description_Framework)/Microformat.secret.md)
+### #is_/same_as :: [[/_secret/W3C(World_Wide_Web_Consortium)/RDF(Resource_Description_Framework)/Microformat.secret|Microformat.secret]] 
 

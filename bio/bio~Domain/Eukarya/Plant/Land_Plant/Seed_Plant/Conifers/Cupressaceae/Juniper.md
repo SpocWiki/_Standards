@@ -71,17 +71,17 @@ NBN_System_Key: NHMSYS0000459997
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Juniper](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Conifers/Cupressaceae/Juniper.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Conifers/Cupressaceae/Juniper|Juniper]] 
 
-### #is_/same_as :: [Juniper.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Conifers/Cupressaceae/Juniper.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Conifers/Cupressaceae/Juniper.public|Juniper.public]] 
 
-### #is_/same_as :: [Juniper.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Conifers/Cupressaceae/Juniper.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Conifers/Cupressaceae/Juniper.internal|Juniper.internal]] 
 
-### #is_/same_as :: [Juniper.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Conifers/Cupressaceae/Juniper.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Conifers/Cupressaceae/Juniper.protect|Juniper.protect]] 
 
-### #is_/same_as :: [Juniper.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Conifers/Cupressaceae/Juniper.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Conifers/Cupressaceae/Juniper.private|Juniper.private]] 
 
-### #is_/same_as :: [Juniper.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Conifers/Cupressaceae/Juniper.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Conifers/Cupressaceae/Juniper.personal|Juniper.personal]] 
 
-### #is_/same_as :: [Juniper.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Conifers/Cupressaceae/Juniper.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Conifers/Cupressaceae/Juniper.secret|Juniper.secret]] 
 

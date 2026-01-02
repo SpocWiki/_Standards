@@ -39,17 +39,17 @@ A dentist.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Dentist](/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Dentist.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Dentist|Dentist]] 
 
-### #is_/same_as :: [Dentist.public](/_public/Society/Agent/Community/Organization/Business/Local_Business/Dentist.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Business/Local_Business/Dentist.public|Dentist.public]] 
 
-### #is_/same_as :: [Dentist.internal](/_internal/Society/Agent/Community/Organization/Business/Local_Business/Dentist.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Business/Local_Business/Dentist.internal|Dentist.internal]] 
 
-### #is_/same_as :: [Dentist.protect](/_protect/Society/Agent/Community/Organization/Business/Local_Business/Dentist.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Business/Local_Business/Dentist.protect|Dentist.protect]] 
 
-### #is_/same_as :: [Dentist.private](/_private/Society/Agent/Community/Organization/Business/Local_Business/Dentist.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Business/Local_Business/Dentist.private|Dentist.private]] 
 
-### #is_/same_as :: [Dentist.personal](/_personal/Society/Agent/Community/Organization/Business/Local_Business/Dentist.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Business/Local_Business/Dentist.personal|Dentist.personal]] 
 
-### #is_/same_as :: [Dentist.secret](/_secret/Society/Agent/Community/Organization/Business/Local_Business/Dentist.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Business/Local_Business/Dentist.secret|Dentist.secret]] 
 

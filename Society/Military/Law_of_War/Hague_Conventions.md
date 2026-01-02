@@ -36,17 +36,17 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/The%20First%20Internat
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hague_Conventions](/_Standards/Society/Military/Law_of_War/Hague_Conventions.md) 
+### #is_/same_as :: [[/_Standards/Society/Military/Law_of_War/Hague_Conventions|Hague_Conventions]] 
 
-### #is_/same_as :: [Hague_Conventions.public](/_public/Society/Military/Law_of_War/Hague_Conventions.public.md) 
+### #is_/same_as :: [[/_public/Society/Military/Law_of_War/Hague_Conventions.public|Hague_Conventions.public]] 
 
-### #is_/same_as :: [Hague_Conventions.internal](/_internal/Society/Military/Law_of_War/Hague_Conventions.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Military/Law_of_War/Hague_Conventions.internal|Hague_Conventions.internal]] 
 
-### #is_/same_as :: [Hague_Conventions.protect](/_protect/Society/Military/Law_of_War/Hague_Conventions.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Military/Law_of_War/Hague_Conventions.protect|Hague_Conventions.protect]] 
 
-### #is_/same_as :: [Hague_Conventions.private](/_private/Society/Military/Law_of_War/Hague_Conventions.private.md) 
+### #is_/same_as :: [[/_private/Society/Military/Law_of_War/Hague_Conventions.private|Hague_Conventions.private]] 
 
-### #is_/same_as :: [Hague_Conventions.personal](/_personal/Society/Military/Law_of_War/Hague_Conventions.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Military/Law_of_War/Hague_Conventions.personal|Hague_Conventions.personal]] 
 
-### #is_/same_as :: [Hague_Conventions.secret](/_secret/Society/Military/Law_of_War/Hague_Conventions.secret.md)
+### #is_/same_as :: [[/_secret/Society/Military/Law_of_War/Hague_Conventions.secret|Hague_Conventions.secret]] 
 

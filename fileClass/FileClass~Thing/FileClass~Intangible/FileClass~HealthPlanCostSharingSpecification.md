@@ -88,17 +88,17 @@ HealthPlanPharmacyCategory:: {"type":"Input","options":{}}
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~HealthPlanCostSharingSpecification](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~HealthPlanCostSharingSpecification.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~HealthPlanCostSharingSpecification|FileClass~HealthPlanCostSharingSpecification]] 
 
-### #is_/same_as :: [FileClass~HealthPlanCostSharingSpecification.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~HealthPlanCostSharingSpecification.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~HealthPlanCostSharingSpecification.public|FileClass~HealthPlanCostSharingSpecification.public]] 
 
-### #is_/same_as :: [FileClass~HealthPlanCostSharingSpecification.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~HealthPlanCostSharingSpecification.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~HealthPlanCostSharingSpecification.internal|FileClass~HealthPlanCostSharingSpecification.internal]] 
 
-### #is_/same_as :: [FileClass~HealthPlanCostSharingSpecification.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~HealthPlanCostSharingSpecification.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~HealthPlanCostSharingSpecification.protect|FileClass~HealthPlanCostSharingSpecification.protect]] 
 
-### #is_/same_as :: [FileClass~HealthPlanCostSharingSpecification.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~HealthPlanCostSharingSpecification.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~HealthPlanCostSharingSpecification.private|FileClass~HealthPlanCostSharingSpecification.private]] 
 
-### #is_/same_as :: [FileClass~HealthPlanCostSharingSpecification.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~HealthPlanCostSharingSpecification.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~HealthPlanCostSharingSpecification.personal|FileClass~HealthPlanCostSharingSpecification.personal]] 
 
-### #is_/same_as :: [FileClass~HealthPlanCostSharingSpecification.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~HealthPlanCostSharingSpecification.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~HealthPlanCostSharingSpecification.secret|FileClass~HealthPlanCostSharingSpecification.secret]] 
 

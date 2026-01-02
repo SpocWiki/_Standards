@@ -37,17 +37,17 @@ An aggregate rating of an Organization related to its role as an employer.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~EmployerAggregateRating](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Rating/FileClass~AggregateRating/FileClass~EmployerAggregateRating.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Rating/FileClass~AggregateRating/FileClass~EmployerAggregateRating|FileClass~EmployerAggregateRating]] 
 
-### #is_/same_as :: [FileClass~EmployerAggregateRating.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Rating/FileClass~AggregateRating/FileClass~EmployerAggregateRating.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Rating/FileClass~AggregateRating/FileClass~EmployerAggregateRating.public|FileClass~EmployerAggregateRating.public]] 
 
-### #is_/same_as :: [FileClass~EmployerAggregateRating.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Rating/FileClass~AggregateRating/FileClass~EmployerAggregateRating.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Rating/FileClass~AggregateRating/FileClass~EmployerAggregateRating.internal|FileClass~EmployerAggregateRating.internal]] 
 
-### #is_/same_as :: [FileClass~EmployerAggregateRating.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Rating/FileClass~AggregateRating/FileClass~EmployerAggregateRating.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Rating/FileClass~AggregateRating/FileClass~EmployerAggregateRating.protect|FileClass~EmployerAggregateRating.protect]] 
 
-### #is_/same_as :: [FileClass~EmployerAggregateRating.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Rating/FileClass~AggregateRating/FileClass~EmployerAggregateRating.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Rating/FileClass~AggregateRating/FileClass~EmployerAggregateRating.private|FileClass~EmployerAggregateRating.private]] 
 
-### #is_/same_as :: [FileClass~EmployerAggregateRating.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Rating/FileClass~AggregateRating/FileClass~EmployerAggregateRating.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Rating/FileClass~AggregateRating/FileClass~EmployerAggregateRating.personal|FileClass~EmployerAggregateRating.personal]] 
 
-### #is_/same_as :: [FileClass~EmployerAggregateRating.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Rating/FileClass~AggregateRating/FileClass~EmployerAggregateRating.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Rating/FileClass~AggregateRating/FileClass~EmployerAggregateRating.secret|FileClass~EmployerAggregateRating.secret]] 
 

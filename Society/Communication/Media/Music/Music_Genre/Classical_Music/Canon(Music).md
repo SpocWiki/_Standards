@@ -50,17 +50,17 @@ Krugosvet_article: kultura_i_obrazovanie/muzyka/KANON.html
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Canon(Music)](/_Standards/Society/Communication/Media/Music/Music_Genre/Classical_Music/Canon(Music).md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Music_Genre/Classical_Music/Canon(Music)|Canon(Music)]] 
 
-### #is_/same_as :: [Canon(Music).public](/_public/Society/Communication/Media/Music/Music_Genre/Classical_Music/Canon(Music).public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Music_Genre/Classical_Music/Canon(Music).public|Canon(Music).public]] 
 
-### #is_/same_as :: [Canon(Music).internal](/_internal/Society/Communication/Media/Music/Music_Genre/Classical_Music/Canon(Music).internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Music_Genre/Classical_Music/Canon(Music).internal|Canon(Music).internal]] 
 
-### #is_/same_as :: [Canon(Music).protect](/_protect/Society/Communication/Media/Music/Music_Genre/Classical_Music/Canon(Music).protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Music_Genre/Classical_Music/Canon(Music).protect|Canon(Music).protect]] 
 
-### #is_/same_as :: [Canon(Music).private](/_private/Society/Communication/Media/Music/Music_Genre/Classical_Music/Canon(Music).private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Music_Genre/Classical_Music/Canon(Music).private|Canon(Music).private]] 
 
-### #is_/same_as :: [Canon(Music).personal](/_personal/Society/Communication/Media/Music/Music_Genre/Classical_Music/Canon(Music).personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Music_Genre/Classical_Music/Canon(Music).personal|Canon(Music).personal]] 
 
-### #is_/same_as :: [Canon(Music).secret](/_secret/Society/Communication/Media/Music/Music_Genre/Classical_Music/Canon(Music).secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Music_Genre/Classical_Music/Canon(Music).secret|Canon(Music).secret]] 
 

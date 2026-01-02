@@ -67,17 +67,17 @@ inception: 1912-01-01T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Modern_Pentathlon](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Olympic_Games/Modern_Pentathlon.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Olympic_Games/Modern_Pentathlon|Modern_Pentathlon]] 
 
-### #is_/same_as :: [Modern_Pentathlon.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Olympic_Games/Modern_Pentathlon.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Olympic_Games/Modern_Pentathlon.public|Modern_Pentathlon.public]] 
 
-### #is_/same_as :: [Modern_Pentathlon.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Olympic_Games/Modern_Pentathlon.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Olympic_Games/Modern_Pentathlon.internal|Modern_Pentathlon.internal]] 
 
-### #is_/same_as :: [Modern_Pentathlon.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Olympic_Games/Modern_Pentathlon.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Olympic_Games/Modern_Pentathlon.protect|Modern_Pentathlon.protect]] 
 
-### #is_/same_as :: [Modern_Pentathlon.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Olympic_Games/Modern_Pentathlon.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Olympic_Games/Modern_Pentathlon.private|Modern_Pentathlon.private]] 
 
-### #is_/same_as :: [Modern_Pentathlon.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Olympic_Games/Modern_Pentathlon.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Olympic_Games/Modern_Pentathlon.personal|Modern_Pentathlon.personal]] 
 
-### #is_/same_as :: [Modern_Pentathlon.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Olympic_Games/Modern_Pentathlon.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Olympic_Games/Modern_Pentathlon.secret|Modern_Pentathlon.secret]] 
 

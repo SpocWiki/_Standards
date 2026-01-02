@@ -40,17 +40,17 @@ P8189: 987007283981505200
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Boy](/_Standards/Society/Agent/Community/Clan/Family/Child/Boy.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Clan/Family/Child/Boy|Boy]] 
 
-### #is_/same_as :: [Boy.public](/_public/Society/Agent/Community/Clan/Family/Child/Boy.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Clan/Family/Child/Boy.public|Boy.public]] 
 
-### #is_/same_as :: [Boy.internal](/_internal/Society/Agent/Community/Clan/Family/Child/Boy.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Clan/Family/Child/Boy.internal|Boy.internal]] 
 
-### #is_/same_as :: [Boy.protect](/_protect/Society/Agent/Community/Clan/Family/Child/Boy.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Clan/Family/Child/Boy.protect|Boy.protect]] 
 
-### #is_/same_as :: [Boy.private](/_private/Society/Agent/Community/Clan/Family/Child/Boy.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Clan/Family/Child/Boy.private|Boy.private]] 
 
-### #is_/same_as :: [Boy.personal](/_personal/Society/Agent/Community/Clan/Family/Child/Boy.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Clan/Family/Child/Boy.personal|Boy.personal]] 
 
-### #is_/same_as :: [Boy.secret](/_secret/Society/Agent/Community/Clan/Family/Child/Boy.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Clan/Family/Child/Boy.secret|Boy.secret]] 
 

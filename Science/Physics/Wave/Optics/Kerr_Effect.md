@@ -41,17 +41,17 @@ Wolfram_Language_entity_code: Entity["PhysicalEffect", "KerrEffect"]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Kerr_Effect](/_Standards/Science/Physics/Wave/Optics/Kerr_Effect.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Wave/Optics/Kerr_Effect|Kerr_Effect]] 
 
-### #is_/same_as :: [Kerr_Effect.public](/_public/Science/Physics/Wave/Optics/Kerr_Effect.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Wave/Optics/Kerr_Effect.public|Kerr_Effect.public]] 
 
-### #is_/same_as :: [Kerr_Effect.internal](/_internal/Science/Physics/Wave/Optics/Kerr_Effect.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Wave/Optics/Kerr_Effect.internal|Kerr_Effect.internal]] 
 
-### #is_/same_as :: [Kerr_Effect.protect](/_protect/Science/Physics/Wave/Optics/Kerr_Effect.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Wave/Optics/Kerr_Effect.protect|Kerr_Effect.protect]] 
 
-### #is_/same_as :: [Kerr_Effect.private](/_private/Science/Physics/Wave/Optics/Kerr_Effect.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Wave/Optics/Kerr_Effect.private|Kerr_Effect.private]] 
 
-### #is_/same_as :: [Kerr_Effect.personal](/_personal/Science/Physics/Wave/Optics/Kerr_Effect.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Wave/Optics/Kerr_Effect.personal|Kerr_Effect.personal]] 
 
-### #is_/same_as :: [Kerr_Effect.secret](/_secret/Science/Physics/Wave/Optics/Kerr_Effect.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Wave/Optics/Kerr_Effect.secret|Kerr_Effect.secret]] 
 

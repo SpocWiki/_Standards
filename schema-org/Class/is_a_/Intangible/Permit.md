@@ -41,17 +41,17 @@ A permit issued by an organization, e.g. a parking pass.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Permit](/_Standards/schema-org/Class/is_a_/Intangible/Permit.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Intangible/Permit|Permit]] 
 
-### #is_/same_as :: [Permit.public](/_public/schema-org/Class/is_a_/Intangible/Permit.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Intangible/Permit.public|Permit.public]] 
 
-### #is_/same_as :: [Permit.internal](/_internal/schema-org/Class/is_a_/Intangible/Permit.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Intangible/Permit.internal|Permit.internal]] 
 
-### #is_/same_as :: [Permit.protect](/_protect/schema-org/Class/is_a_/Intangible/Permit.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Intangible/Permit.protect|Permit.protect]] 
 
-### #is_/same_as :: [Permit.private](/_private/schema-org/Class/is_a_/Intangible/Permit.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Intangible/Permit.private|Permit.private]] 
 
-### #is_/same_as :: [Permit.personal](/_personal/schema-org/Class/is_a_/Intangible/Permit.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Intangible/Permit.personal|Permit.personal]] 
 
-### #is_/same_as :: [Permit.secret](/_secret/schema-org/Class/is_a_/Intangible/Permit.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Intangible/Permit.secret|Permit.secret]] 
 

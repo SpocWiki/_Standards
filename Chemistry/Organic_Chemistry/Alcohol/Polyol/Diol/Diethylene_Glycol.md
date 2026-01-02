@@ -50,17 +50,17 @@ Several bulk-bottled German wines were contaminated
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Diethylene_Glycol](/_Standards/Chemistry/Organic_Chemistry/Alcohol/Polyol/Diol/Diethylene_Glycol.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Organic_Chemistry/Alcohol/Polyol/Diol/Diethylene_Glycol|Diethylene_Glycol]] 
 
-### #is_/same_as :: [Diethylene_Glycol.public](/_public/Chemistry/Organic_Chemistry/Alcohol/Polyol/Diol/Diethylene_Glycol.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Organic_Chemistry/Alcohol/Polyol/Diol/Diethylene_Glycol.public|Diethylene_Glycol.public]] 
 
-### #is_/same_as :: [Diethylene_Glycol.internal](/_internal/Chemistry/Organic_Chemistry/Alcohol/Polyol/Diol/Diethylene_Glycol.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Organic_Chemistry/Alcohol/Polyol/Diol/Diethylene_Glycol.internal|Diethylene_Glycol.internal]] 
 
-### #is_/same_as :: [Diethylene_Glycol.protect](/_protect/Chemistry/Organic_Chemistry/Alcohol/Polyol/Diol/Diethylene_Glycol.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Organic_Chemistry/Alcohol/Polyol/Diol/Diethylene_Glycol.protect|Diethylene_Glycol.protect]] 
 
-### #is_/same_as :: [Diethylene_Glycol.private](/_private/Chemistry/Organic_Chemistry/Alcohol/Polyol/Diol/Diethylene_Glycol.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Organic_Chemistry/Alcohol/Polyol/Diol/Diethylene_Glycol.private|Diethylene_Glycol.private]] 
 
-### #is_/same_as :: [Diethylene_Glycol.personal](/_personal/Chemistry/Organic_Chemistry/Alcohol/Polyol/Diol/Diethylene_Glycol.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Organic_Chemistry/Alcohol/Polyol/Diol/Diethylene_Glycol.personal|Diethylene_Glycol.personal]] 
 
-### #is_/same_as :: [Diethylene_Glycol.secret](/_secret/Chemistry/Organic_Chemistry/Alcohol/Polyol/Diol/Diethylene_Glycol.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Organic_Chemistry/Alcohol/Polyol/Diol/Diethylene_Glycol.secret|Diethylene_Glycol.secret]] 
 

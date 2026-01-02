@@ -55,17 +55,17 @@ Commons_category: Weathering
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Weathering](/_Standards/Earth/Geology/Weathering.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geology/Weathering|Weathering]] 
 
-### #is_/same_as :: [Weathering.public](/_public/Earth/Geology/Weathering.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geology/Weathering.public|Weathering.public]] 
 
-### #is_/same_as :: [Weathering.internal](/_internal/Earth/Geology/Weathering.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geology/Weathering.internal|Weathering.internal]] 
 
-### #is_/same_as :: [Weathering.protect](/_protect/Earth/Geology/Weathering.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geology/Weathering.protect|Weathering.protect]] 
 
-### #is_/same_as :: [Weathering.private](/_private/Earth/Geology/Weathering.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geology/Weathering.private|Weathering.private]] 
 
-### #is_/same_as :: [Weathering.personal](/_personal/Earth/Geology/Weathering.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geology/Weathering.personal|Weathering.personal]] 
 
-### #is_/same_as :: [Weathering.secret](/_secret/Earth/Geology/Weathering.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geology/Weathering.secret|Weathering.secret]] 
 

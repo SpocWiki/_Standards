@@ -166,17 +166,17 @@ writing_language: '[[_Standards/WikiData/WD~English,1860]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Huxley,Aldous](/_Standards/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Huxley,Aldous.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Huxley,Aldous|Huxley,Aldous]] 
 
-### #is_/same_as :: [Huxley,Aldous.public](/_public/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Huxley,Aldous.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Huxley,Aldous.public|Huxley,Aldous.public]] 
 
-### #is_/same_as :: [Huxley,Aldous.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Huxley,Aldous.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Huxley,Aldous.internal|Huxley,Aldous.internal]] 
 
-### #is_/same_as :: [Huxley,Aldous.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Huxley,Aldous.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Huxley,Aldous.protect|Huxley,Aldous.protect]] 
 
-### #is_/same_as :: [Huxley,Aldous.private](/_private/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Huxley,Aldous.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Huxley,Aldous.private|Huxley,Aldous.private]] 
 
-### #is_/same_as :: [Huxley,Aldous.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Huxley,Aldous.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Huxley,Aldous.personal|Huxley,Aldous.personal]] 
 
-### #is_/same_as :: [Huxley,Aldous.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Huxley,Aldous.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Huxley,Aldous.secret|Huxley,Aldous.secret]] 
 

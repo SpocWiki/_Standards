@@ -35,17 +35,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Psyllium](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Psyllium.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Home_Economics/Cooking/Food/Psyllium|Psyllium]] 
 
-### #is_/same_as :: [Psyllium.public](/_public/Society/Economics/Home_Economics/Cooking/Food/Psyllium.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Home_Economics/Cooking/Food/Psyllium.public|Psyllium.public]] 
 
-### #is_/same_as :: [Psyllium.internal](/_internal/Society/Economics/Home_Economics/Cooking/Food/Psyllium.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Home_Economics/Cooking/Food/Psyllium.internal|Psyllium.internal]] 
 
-### #is_/same_as :: [Psyllium.protect](/_protect/Society/Economics/Home_Economics/Cooking/Food/Psyllium.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Home_Economics/Cooking/Food/Psyllium.protect|Psyllium.protect]] 
 
-### #is_/same_as :: [Psyllium.private](/_private/Society/Economics/Home_Economics/Cooking/Food/Psyllium.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Home_Economics/Cooking/Food/Psyllium.private|Psyllium.private]] 
 
-### #is_/same_as :: [Psyllium.personal](/_personal/Society/Economics/Home_Economics/Cooking/Food/Psyllium.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Home_Economics/Cooking/Food/Psyllium.personal|Psyllium.personal]] 
 
-### #is_/same_as :: [Psyllium.secret](/_secret/Society/Economics/Home_Economics/Cooking/Food/Psyllium.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Home_Economics/Cooking/Food/Psyllium.secret|Psyllium.secret]] 
 

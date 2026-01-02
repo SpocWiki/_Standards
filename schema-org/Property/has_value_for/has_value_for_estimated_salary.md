@@ -43,17 +43,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_value_for_estimated_salary](/_Standards/schema-org/Property/has_value_for/has_value_for_estimated_salary.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_value_for/has_value_for_estimated_salary|has_value_for_estimated_salary]] 
 
-### #is_/same_as :: [has_value_for_estimated_salary.public](/_public/schema-org/Property/has_value_for/has_value_for_estimated_salary.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/has_value_for/has_value_for_estimated_salary.public|has_value_for_estimated_salary.public]] 
 
-### #is_/same_as :: [has_value_for_estimated_salary.internal](/_internal/schema-org/Property/has_value_for/has_value_for_estimated_salary.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_value_for/has_value_for_estimated_salary.internal|has_value_for_estimated_salary.internal]] 
 
-### #is_/same_as :: [has_value_for_estimated_salary.protect](/_protect/schema-org/Property/has_value_for/has_value_for_estimated_salary.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_value_for/has_value_for_estimated_salary.protect|has_value_for_estimated_salary.protect]] 
 
-### #is_/same_as :: [has_value_for_estimated_salary.private](/_private/schema-org/Property/has_value_for/has_value_for_estimated_salary.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/has_value_for/has_value_for_estimated_salary.private|has_value_for_estimated_salary.private]] 
 
-### #is_/same_as :: [has_value_for_estimated_salary.personal](/_personal/schema-org/Property/has_value_for/has_value_for_estimated_salary.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_value_for/has_value_for_estimated_salary.personal|has_value_for_estimated_salary.personal]] 
 
-### #is_/same_as :: [has_value_for_estimated_salary.secret](/_secret/schema-org/Property/has_value_for/has_value_for_estimated_salary.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/has_value_for/has_value_for_estimated_salary.secret|has_value_for_estimated_salary.secret]] 
 

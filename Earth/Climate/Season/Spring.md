@@ -89,17 +89,17 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Krokusse%20violett.jpg
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Spring](/_Standards/Earth/Climate/Season/Spring.md) 
+### #is_/same_as :: [[/_Standards/Earth/Climate/Season/Spring|Spring]] 
 
-### #is_/same_as :: [Spring.public](/_public/Earth/Climate/Season/Spring.public.md) 
+### #is_/same_as :: [[/_public/Earth/Climate/Season/Spring.public|Spring.public]] 
 
-### #is_/same_as :: [Spring.internal](/_internal/Earth/Climate/Season/Spring.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Climate/Season/Spring.internal|Spring.internal]] 
 
-### #is_/same_as :: [Spring.protect](/_protect/Earth/Climate/Season/Spring.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Climate/Season/Spring.protect|Spring.protect]] 
 
-### #is_/same_as :: [Spring.private](/_private/Earth/Climate/Season/Spring.private.md) 
+### #is_/same_as :: [[/_private/Earth/Climate/Season/Spring.private|Spring.private]] 
 
-### #is_/same_as :: [Spring.personal](/_personal/Earth/Climate/Season/Spring.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Climate/Season/Spring.personal|Spring.personal]] 
 
-### #is_/same_as :: [Spring.secret](/_secret/Earth/Climate/Season/Spring.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Climate/Season/Spring.secret|Spring.secret]] 
 

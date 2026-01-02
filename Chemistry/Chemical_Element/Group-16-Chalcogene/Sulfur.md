@@ -151,17 +151,17 @@ ZVG_number: 8130
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sulfur](/_Standards/Chemistry/Chemical_Element/Group-16-Chalcogene/Sulfur.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Chemical_Element/Group-16-Chalcogene/Sulfur|Sulfur]] 
 
-### #is_/same_as :: [Sulfur.public](/_public/Chemistry/Chemical_Element/Group-16-Chalcogene/Sulfur.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Chemical_Element/Group-16-Chalcogene/Sulfur.public|Sulfur.public]] 
 
-### #is_/same_as :: [Sulfur.internal](/_internal/Chemistry/Chemical_Element/Group-16-Chalcogene/Sulfur.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Chemical_Element/Group-16-Chalcogene/Sulfur.internal|Sulfur.internal]] 
 
-### #is_/same_as :: [Sulfur.protect](/_protect/Chemistry/Chemical_Element/Group-16-Chalcogene/Sulfur.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Chemical_Element/Group-16-Chalcogene/Sulfur.protect|Sulfur.protect]] 
 
-### #is_/same_as :: [Sulfur.private](/_private/Chemistry/Chemical_Element/Group-16-Chalcogene/Sulfur.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Chemical_Element/Group-16-Chalcogene/Sulfur.private|Sulfur.private]] 
 
-### #is_/same_as :: [Sulfur.personal](/_personal/Chemistry/Chemical_Element/Group-16-Chalcogene/Sulfur.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Chemical_Element/Group-16-Chalcogene/Sulfur.personal|Sulfur.personal]] 
 
-### #is_/same_as :: [Sulfur.secret](/_secret/Chemistry/Chemical_Element/Group-16-Chalcogene/Sulfur.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Chemical_Element/Group-16-Chalcogene/Sulfur.secret|Sulfur.secret]] 
 

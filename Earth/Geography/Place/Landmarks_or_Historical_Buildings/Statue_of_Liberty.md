@@ -161,17 +161,17 @@ By <a href="//commons.wikimedia.org/w/index.php?title=User:AskALotl&amp;action=e
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Statue_of_Liberty](/_Standards/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Statue_of_Liberty.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Statue_of_Liberty|Statue_of_Liberty]] 
 
-### #is_/same_as :: [Statue_of_Liberty.public](/_public/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Statue_of_Liberty.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Statue_of_Liberty.public|Statue_of_Liberty.public]] 
 
-### #is_/same_as :: [Statue_of_Liberty.internal](/_internal/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Statue_of_Liberty.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Statue_of_Liberty.internal|Statue_of_Liberty.internal]] 
 
-### #is_/same_as :: [Statue_of_Liberty.protect](/_protect/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Statue_of_Liberty.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Statue_of_Liberty.protect|Statue_of_Liberty.protect]] 
 
-### #is_/same_as :: [Statue_of_Liberty.private](/_private/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Statue_of_Liberty.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Statue_of_Liberty.private|Statue_of_Liberty.private]] 
 
-### #is_/same_as :: [Statue_of_Liberty.personal](/_personal/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Statue_of_Liberty.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Statue_of_Liberty.personal|Statue_of_Liberty.personal]] 
 
-### #is_/same_as :: [Statue_of_Liberty.secret](/_secret/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Statue_of_Liberty.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Statue_of_Liberty.secret|Statue_of_Liberty.secret]] 
 

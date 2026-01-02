@@ -97,17 +97,17 @@ Wolfram_Language_entity_code: Entity["Concept", "Mathematician::42t84"]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Mathematician](/_Standards/Mathematics/Mathematician.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Mathematician|Mathematician]] 
 
-### #is_/same_as :: [Mathematician.public](/_public/Mathematics/Mathematician.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Mathematician.public|Mathematician.public]] 
 
-### #is_/same_as :: [Mathematician.internal](/_internal/Mathematics/Mathematician.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Mathematician.internal|Mathematician.internal]] 
 
-### #is_/same_as :: [Mathematician.protect](/_protect/Mathematics/Mathematician.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Mathematician.protect|Mathematician.protect]] 
 
-### #is_/same_as :: [Mathematician.private](/_private/Mathematics/Mathematician.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Mathematician.private|Mathematician.private]] 
 
-### #is_/same_as :: [Mathematician.personal](/_personal/Mathematics/Mathematician.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Mathematician.personal|Mathematician.personal]] 
 
-### #is_/same_as :: [Mathematician.secret](/_secret/Mathematics/Mathematician.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Mathematician.secret|Mathematician.secret]] 
 

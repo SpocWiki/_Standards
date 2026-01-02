@@ -40,17 +40,17 @@ Colon_Classification: Q:45
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Worship](/_Standards/Philosophy/Metaphysic/Religion/Worship.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Worship|Worship]] 
 
-### #is_/same_as :: [Worship.public](/_public/Philosophy/Metaphysic/Religion/Worship.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Worship.public|Worship.public]] 
 
-### #is_/same_as :: [Worship.internal](/_internal/Philosophy/Metaphysic/Religion/Worship.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Worship.internal|Worship.internal]] 
 
-### #is_/same_as :: [Worship.protect](/_protect/Philosophy/Metaphysic/Religion/Worship.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Worship.protect|Worship.protect]] 
 
-### #is_/same_as :: [Worship.private](/_private/Philosophy/Metaphysic/Religion/Worship.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Worship.private|Worship.private]] 
 
-### #is_/same_as :: [Worship.personal](/_personal/Philosophy/Metaphysic/Religion/Worship.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Worship.personal|Worship.personal]] 
 
-### #is_/same_as :: [Worship.secret](/_secret/Philosophy/Metaphysic/Religion/Worship.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Worship.secret|Worship.secret]] 
 

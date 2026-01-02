@@ -185,17 +185,17 @@ ISNI: 0000000110810865
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Debye,Peter](/_Standards/Science/Physics/Physicist/Debye,Peter.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Physicist/Debye,Peter|Debye,Peter]] 
 
-### #is_/same_as :: [Debye,Peter.public](/_public/Science/Physics/Physicist/Debye,Peter.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Physicist/Debye,Peter.public|Debye,Peter.public]] 
 
-### #is_/same_as :: [Debye,Peter.internal](/_internal/Science/Physics/Physicist/Debye,Peter.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Physicist/Debye,Peter.internal|Debye,Peter.internal]] 
 
-### #is_/same_as :: [Debye,Peter.protect](/_protect/Science/Physics/Physicist/Debye,Peter.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Physicist/Debye,Peter.protect|Debye,Peter.protect]] 
 
-### #is_/same_as :: [Debye,Peter.private](/_private/Science/Physics/Physicist/Debye,Peter.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Physicist/Debye,Peter.private|Debye,Peter.private]] 
 
-### #is_/same_as :: [Debye,Peter.personal](/_personal/Science/Physics/Physicist/Debye,Peter.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Physicist/Debye,Peter.personal|Debye,Peter.personal]] 
 
-### #is_/same_as :: [Debye,Peter.secret](/_secret/Science/Physics/Physicist/Debye,Peter.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Physicist/Debye,Peter.secret|Debye,Peter.secret]] 
 

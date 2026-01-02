@@ -109,17 +109,17 @@ UNII: 975X05H15A
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Californium](/_Standards/Chemistry/Chemical_Element/Actinide/Californium.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Chemical_Element/Actinide/Californium|Californium]] 
 
-### #is_/same_as :: [Californium.public](/_public/Chemistry/Chemical_Element/Actinide/Californium.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Chemical_Element/Actinide/Californium.public|Californium.public]] 
 
-### #is_/same_as :: [Californium.internal](/_internal/Chemistry/Chemical_Element/Actinide/Californium.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Chemical_Element/Actinide/Californium.internal|Californium.internal]] 
 
-### #is_/same_as :: [Californium.protect](/_protect/Chemistry/Chemical_Element/Actinide/Californium.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Chemical_Element/Actinide/Californium.protect|Californium.protect]] 
 
-### #is_/same_as :: [Californium.private](/_private/Chemistry/Chemical_Element/Actinide/Californium.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Chemical_Element/Actinide/Californium.private|Californium.private]] 
 
-### #is_/same_as :: [Californium.personal](/_personal/Chemistry/Chemical_Element/Actinide/Californium.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Chemical_Element/Actinide/Californium.personal|Californium.personal]] 
 
-### #is_/same_as :: [Californium.secret](/_secret/Chemistry/Chemical_Element/Actinide/Californium.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Chemical_Element/Actinide/Californium.secret|Californium.secret]] 
 

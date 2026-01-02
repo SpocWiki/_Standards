@@ -68,17 +68,17 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Search-engine-diagram-
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Web_Search_Engine](/_Standards/Technology/IT/Software/Software_Category/Web_Search_Engine.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Software/Software_Category/Web_Search_Engine|Web_Search_Engine]] 
 
-### #is_/same_as :: [Web_Search_Engine.public](/_public/Technology/IT/Software/Software_Category/Web_Search_Engine.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Software/Software_Category/Web_Search_Engine.public|Web_Search_Engine.public]] 
 
-### #is_/same_as :: [Web_Search_Engine.internal](/_internal/Technology/IT/Software/Software_Category/Web_Search_Engine.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Software/Software_Category/Web_Search_Engine.internal|Web_Search_Engine.internal]] 
 
-### #is_/same_as :: [Web_Search_Engine.protect](/_protect/Technology/IT/Software/Software_Category/Web_Search_Engine.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Software/Software_Category/Web_Search_Engine.protect|Web_Search_Engine.protect]] 
 
-### #is_/same_as :: [Web_Search_Engine.private](/_private/Technology/IT/Software/Software_Category/Web_Search_Engine.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Software/Software_Category/Web_Search_Engine.private|Web_Search_Engine.private]] 
 
-### #is_/same_as :: [Web_Search_Engine.personal](/_personal/Technology/IT/Software/Software_Category/Web_Search_Engine.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Software/Software_Category/Web_Search_Engine.personal|Web_Search_Engine.personal]] 
 
-### #is_/same_as :: [Web_Search_Engine.secret](/_secret/Technology/IT/Software/Software_Category/Web_Search_Engine.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Software/Software_Category/Web_Search_Engine.secret|Web_Search_Engine.secret]] 
 

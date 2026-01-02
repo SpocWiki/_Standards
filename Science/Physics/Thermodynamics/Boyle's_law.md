@@ -56,17 +56,17 @@ Wolfram_Language_entity_code: Entity["PhysicalEffect", "BoylesLaw"]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Boyle's_law](/_Standards/Science/Physics/Thermodynamics/Boyle's_law.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Thermodynamics/Boyle's_law|Boyle's_law]] 
 
-### #is_/same_as :: [Boyle's_law.public](/_public/Science/Physics/Thermodynamics/Boyle's_law.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Thermodynamics/Boyle's_law.public|Boyle's_law.public]] 
 
-### #is_/same_as :: [Boyle's_law.internal](/_internal/Science/Physics/Thermodynamics/Boyle's_law.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Thermodynamics/Boyle's_law.internal|Boyle's_law.internal]] 
 
-### #is_/same_as :: [Boyle's_law.protect](/_protect/Science/Physics/Thermodynamics/Boyle's_law.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Thermodynamics/Boyle's_law.protect|Boyle's_law.protect]] 
 
-### #is_/same_as :: [Boyle's_law.private](/_private/Science/Physics/Thermodynamics/Boyle's_law.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Thermodynamics/Boyle's_law.private|Boyle's_law.private]] 
 
-### #is_/same_as :: [Boyle's_law.personal](/_personal/Science/Physics/Thermodynamics/Boyle's_law.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Thermodynamics/Boyle's_law.personal|Boyle's_law.personal]] 
 
-### #is_/same_as :: [Boyle's_law.secret](/_secret/Science/Physics/Thermodynamics/Boyle's_law.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Thermodynamics/Boyle's_law.secret|Boyle's_law.secret]] 
 

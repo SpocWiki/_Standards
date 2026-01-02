@@ -73,17 +73,17 @@ Unicode_character: 🕯
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Candle](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Candle.md) 
+### #is_/same_as :: [[/_Standards/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Candle|Candle]] 
 
-### #is_/same_as :: [Candle.public](/_public/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Candle.public.md) 
+### #is_/same_as :: [[/_public/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Candle.public|Candle.public]] 
 
-### #is_/same_as :: [Candle.internal](/_internal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Candle.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Candle.internal|Candle.internal]] 
 
-### #is_/same_as :: [Candle.protect](/_protect/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Candle.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Candle.protect|Candle.protect]] 
 
-### #is_/same_as :: [Candle.private](/_private/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Candle.private.md) 
+### #is_/same_as :: [[/_private/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Candle.private|Candle.private]] 
 
-### #is_/same_as :: [Candle.personal](/_personal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Candle.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Candle.personal|Candle.personal]] 
 
-### #is_/same_as :: [Candle.secret](/_secret/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Candle.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Candle.secret|Candle.secret]] 
 

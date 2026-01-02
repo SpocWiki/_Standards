@@ -105,17 +105,17 @@ ZVG_number: 12570
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Cellulose](/_Standards/bio/Metabolism/Nutrition/Carbohydrate/Polysaccharide/Cellulose.md) 
+### #is_/same_as :: [[/_Standards/bio/Metabolism/Nutrition/Carbohydrate/Polysaccharide/Cellulose|Cellulose]] 
 
-### #is_/same_as :: [Cellulose.public](/_public/bio/Metabolism/Nutrition/Carbohydrate/Polysaccharide/Cellulose.public.md) 
+### #is_/same_as :: [[/_public/bio/Metabolism/Nutrition/Carbohydrate/Polysaccharide/Cellulose.public|Cellulose.public]] 
 
-### #is_/same_as :: [Cellulose.internal](/_internal/bio/Metabolism/Nutrition/Carbohydrate/Polysaccharide/Cellulose.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Metabolism/Nutrition/Carbohydrate/Polysaccharide/Cellulose.internal|Cellulose.internal]] 
 
-### #is_/same_as :: [Cellulose.protect](/_protect/bio/Metabolism/Nutrition/Carbohydrate/Polysaccharide/Cellulose.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Metabolism/Nutrition/Carbohydrate/Polysaccharide/Cellulose.protect|Cellulose.protect]] 
 
-### #is_/same_as :: [Cellulose.private](/_private/bio/Metabolism/Nutrition/Carbohydrate/Polysaccharide/Cellulose.private.md) 
+### #is_/same_as :: [[/_private/bio/Metabolism/Nutrition/Carbohydrate/Polysaccharide/Cellulose.private|Cellulose.private]] 
 
-### #is_/same_as :: [Cellulose.personal](/_personal/bio/Metabolism/Nutrition/Carbohydrate/Polysaccharide/Cellulose.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Metabolism/Nutrition/Carbohydrate/Polysaccharide/Cellulose.personal|Cellulose.personal]] 
 
-### #is_/same_as :: [Cellulose.secret](/_secret/bio/Metabolism/Nutrition/Carbohydrate/Polysaccharide/Cellulose.secret.md)
+### #is_/same_as :: [[/_secret/bio/Metabolism/Nutrition/Carbohydrate/Polysaccharide/Cellulose.secret|Cellulose.secret]] 
 

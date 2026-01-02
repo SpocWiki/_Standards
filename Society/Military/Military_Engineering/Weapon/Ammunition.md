@@ -48,17 +48,17 @@ short_name: Mun.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ammunition](/_Standards/Society/Military/Military_Engineering/Weapon/Ammunition.md) 
+### #is_/same_as :: [[/_Standards/Society/Military/Military_Engineering/Weapon/Ammunition|Ammunition]] 
 
-### #is_/same_as :: [Ammunition.public](/_public/Society/Military/Military_Engineering/Weapon/Ammunition.public.md) 
+### #is_/same_as :: [[/_public/Society/Military/Military_Engineering/Weapon/Ammunition.public|Ammunition.public]] 
 
-### #is_/same_as :: [Ammunition.internal](/_internal/Society/Military/Military_Engineering/Weapon/Ammunition.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Military/Military_Engineering/Weapon/Ammunition.internal|Ammunition.internal]] 
 
-### #is_/same_as :: [Ammunition.protect](/_protect/Society/Military/Military_Engineering/Weapon/Ammunition.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Military/Military_Engineering/Weapon/Ammunition.protect|Ammunition.protect]] 
 
-### #is_/same_as :: [Ammunition.private](/_private/Society/Military/Military_Engineering/Weapon/Ammunition.private.md) 
+### #is_/same_as :: [[/_private/Society/Military/Military_Engineering/Weapon/Ammunition.private|Ammunition.private]] 
 
-### #is_/same_as :: [Ammunition.personal](/_personal/Society/Military/Military_Engineering/Weapon/Ammunition.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Military/Military_Engineering/Weapon/Ammunition.personal|Ammunition.personal]] 
 
-### #is_/same_as :: [Ammunition.secret](/_secret/Society/Military/Military_Engineering/Weapon/Ammunition.secret.md)
+### #is_/same_as :: [[/_secret/Society/Military/Military_Engineering/Weapon/Ammunition.secret|Ammunition.secret]] 
 

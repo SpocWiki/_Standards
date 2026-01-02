@@ -120,17 +120,17 @@ Krugosvet_article_archived_: kultura_i_obrazovanie/teatr_i_kino/MASTROYANNI_MARC
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Mastroianni,Marcello](/_Standards/Society/Communication/Media/Movie/Actor/Italian_Actor/Mastroianni,Marcello.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Actor/Italian_Actor/Mastroianni,Marcello|Mastroianni,Marcello]] 
 
-### #is_/same_as :: [Mastroianni,Marcello.public](/_public/Society/Communication/Media/Movie/Actor/Italian_Actor/Mastroianni,Marcello.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Actor/Italian_Actor/Mastroianni,Marcello.public|Mastroianni,Marcello.public]] 
 
-### #is_/same_as :: [Mastroianni,Marcello.internal](/_internal/Society/Communication/Media/Movie/Actor/Italian_Actor/Mastroianni,Marcello.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Actor/Italian_Actor/Mastroianni,Marcello.internal|Mastroianni,Marcello.internal]] 
 
-### #is_/same_as :: [Mastroianni,Marcello.protect](/_protect/Society/Communication/Media/Movie/Actor/Italian_Actor/Mastroianni,Marcello.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Actor/Italian_Actor/Mastroianni,Marcello.protect|Mastroianni,Marcello.protect]] 
 
-### #is_/same_as :: [Mastroianni,Marcello.private](/_private/Society/Communication/Media/Movie/Actor/Italian_Actor/Mastroianni,Marcello.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Actor/Italian_Actor/Mastroianni,Marcello.private|Mastroianni,Marcello.private]] 
 
-### #is_/same_as :: [Mastroianni,Marcello.personal](/_personal/Society/Communication/Media/Movie/Actor/Italian_Actor/Mastroianni,Marcello.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Actor/Italian_Actor/Mastroianni,Marcello.personal|Mastroianni,Marcello.personal]] 
 
-### #is_/same_as :: [Mastroianni,Marcello.secret](/_secret/Society/Communication/Media/Movie/Actor/Italian_Actor/Mastroianni,Marcello.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Actor/Italian_Actor/Mastroianni,Marcello.secret|Mastroianni,Marcello.secret]] 
 

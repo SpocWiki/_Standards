@@ -57,17 +57,17 @@ ChildMinAge:: {"type":"Number","options":{}}
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~ParentAudience](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Audience/FileClass~PeopleAudience/FileClass~ParentAudience.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Audience/FileClass~PeopleAudience/FileClass~ParentAudience|FileClass~ParentAudience]] 
 
-### #is_/same_as :: [FileClass~ParentAudience.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Audience/FileClass~PeopleAudience/FileClass~ParentAudience.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Audience/FileClass~PeopleAudience/FileClass~ParentAudience.public|FileClass~ParentAudience.public]] 
 
-### #is_/same_as :: [FileClass~ParentAudience.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Audience/FileClass~PeopleAudience/FileClass~ParentAudience.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Audience/FileClass~PeopleAudience/FileClass~ParentAudience.internal|FileClass~ParentAudience.internal]] 
 
-### #is_/same_as :: [FileClass~ParentAudience.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Audience/FileClass~PeopleAudience/FileClass~ParentAudience.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Audience/FileClass~PeopleAudience/FileClass~ParentAudience.protect|FileClass~ParentAudience.protect]] 
 
-### #is_/same_as :: [FileClass~ParentAudience.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Audience/FileClass~PeopleAudience/FileClass~ParentAudience.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Audience/FileClass~PeopleAudience/FileClass~ParentAudience.private|FileClass~ParentAudience.private]] 
 
-### #is_/same_as :: [FileClass~ParentAudience.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Audience/FileClass~PeopleAudience/FileClass~ParentAudience.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Audience/FileClass~PeopleAudience/FileClass~ParentAudience.personal|FileClass~ParentAudience.personal]] 
 
-### #is_/same_as :: [FileClass~ParentAudience.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Audience/FileClass~PeopleAudience/FileClass~ParentAudience.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Audience/FileClass~PeopleAudience/FileClass~ParentAudience.secret|FileClass~ParentAudience.secret]] 
 

@@ -33,17 +33,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Clifford,William_Kingdon](/_Standards/Mathematics/Mathematician/Modern_Mathematician/Clifford,William_Kingdon.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Mathematician/Modern_Mathematician/Clifford,William_Kingdon|Clifford,William_Kingdon]] 
 
-### #is_/same_as :: [Clifford,William_Kingdon.public](/_public/Mathematics/Mathematician/Modern_Mathematician/Clifford,William_Kingdon.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Mathematician/Modern_Mathematician/Clifford,William_Kingdon.public|Clifford,William_Kingdon.public]] 
 
-### #is_/same_as :: [Clifford,William_Kingdon.internal](/_internal/Mathematics/Mathematician/Modern_Mathematician/Clifford,William_Kingdon.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Mathematician/Modern_Mathematician/Clifford,William_Kingdon.internal|Clifford,William_Kingdon.internal]] 
 
-### #is_/same_as :: [Clifford,William_Kingdon.protect](/_protect/Mathematics/Mathematician/Modern_Mathematician/Clifford,William_Kingdon.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Mathematician/Modern_Mathematician/Clifford,William_Kingdon.protect|Clifford,William_Kingdon.protect]] 
 
-### #is_/same_as :: [Clifford,William_Kingdon.private](/_private/Mathematics/Mathematician/Modern_Mathematician/Clifford,William_Kingdon.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Mathematician/Modern_Mathematician/Clifford,William_Kingdon.private|Clifford,William_Kingdon.private]] 
 
-### #is_/same_as :: [Clifford,William_Kingdon.personal](/_personal/Mathematics/Mathematician/Modern_Mathematician/Clifford,William_Kingdon.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Mathematician/Modern_Mathematician/Clifford,William_Kingdon.personal|Clifford,William_Kingdon.personal]] 
 
-### #is_/same_as :: [Clifford,William_Kingdon.secret](/_secret/Mathematics/Mathematician/Modern_Mathematician/Clifford,William_Kingdon.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Mathematician/Modern_Mathematician/Clifford,William_Kingdon.secret|Clifford,William_Kingdon.secret]] 
 

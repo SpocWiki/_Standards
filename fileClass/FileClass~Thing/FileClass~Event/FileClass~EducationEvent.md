@@ -70,17 +70,17 @@ Teaches:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~EducationEvent](/_Standards/fileClass/FileClass~Thing/FileClass~Event/FileClass~EducationEvent.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Event/FileClass~EducationEvent|FileClass~EducationEvent]] 
 
-### #is_/same_as :: [FileClass~EducationEvent.public](/_public/fileClass/FileClass~Thing/FileClass~Event/FileClass~EducationEvent.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Event/FileClass~EducationEvent.public|FileClass~EducationEvent.public]] 
 
-### #is_/same_as :: [FileClass~EducationEvent.internal](/_internal/fileClass/FileClass~Thing/FileClass~Event/FileClass~EducationEvent.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Event/FileClass~EducationEvent.internal|FileClass~EducationEvent.internal]] 
 
-### #is_/same_as :: [FileClass~EducationEvent.protect](/_protect/fileClass/FileClass~Thing/FileClass~Event/FileClass~EducationEvent.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Event/FileClass~EducationEvent.protect|FileClass~EducationEvent.protect]] 
 
-### #is_/same_as :: [FileClass~EducationEvent.private](/_private/fileClass/FileClass~Thing/FileClass~Event/FileClass~EducationEvent.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Event/FileClass~EducationEvent.private|FileClass~EducationEvent.private]] 
 
-### #is_/same_as :: [FileClass~EducationEvent.personal](/_personal/fileClass/FileClass~Thing/FileClass~Event/FileClass~EducationEvent.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Event/FileClass~EducationEvent.personal|FileClass~EducationEvent.personal]] 
 
-### #is_/same_as :: [FileClass~EducationEvent.secret](/_secret/fileClass/FileClass~Thing/FileClass~Event/FileClass~EducationEvent.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Event/FileClass~EducationEvent.secret|FileClass~EducationEvent.secret]] 
 

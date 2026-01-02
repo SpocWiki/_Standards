@@ -12,17 +12,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Astronomical_Event](/_Standards/Astronomy/Astronomical_Event.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Astronomical_Event|Astronomical_Event]] 
 
-### #is_/same_as :: [Astronomical_Event.public](/_public/Astronomy/Astronomical_Event.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Astronomical_Event.public|Astronomical_Event.public]] 
 
-### #is_/same_as :: [Astronomical_Event.internal](/_internal/Astronomy/Astronomical_Event.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Astronomical_Event.internal|Astronomical_Event.internal]] 
 
-### #is_/same_as :: [Astronomical_Event.protect](/_protect/Astronomy/Astronomical_Event.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Astronomical_Event.protect|Astronomical_Event.protect]] 
 
-### #is_/same_as :: [Astronomical_Event.private](/_private/Astronomy/Astronomical_Event.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Astronomical_Event.private|Astronomical_Event.private]] 
 
-### #is_/same_as :: [Astronomical_Event.personal](/_personal/Astronomy/Astronomical_Event.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Astronomical_Event.personal|Astronomical_Event.personal]] 
 
-### #is_/same_as :: [Astronomical_Event.secret](/_secret/Astronomy/Astronomical_Event.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Astronomical_Event.secret|Astronomical_Event.secret]] 
 

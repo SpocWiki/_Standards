@@ -53,17 +53,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_asin](/_Standards/schema-org/Property/has_name/has_asin.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_name/has_asin|has_asin]] 
 
-### #is_/same_as :: [has_asin.public](/_public/schema-org/Property/has_name/has_asin.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/has_name/has_asin.public|has_asin.public]] 
 
-### #is_/same_as :: [has_asin.internal](/_internal/schema-org/Property/has_name/has_asin.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_name/has_asin.internal|has_asin.internal]] 
 
-### #is_/same_as :: [has_asin.protect](/_protect/schema-org/Property/has_name/has_asin.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_name/has_asin.protect|has_asin.protect]] 
 
-### #is_/same_as :: [has_asin.private](/_private/schema-org/Property/has_name/has_asin.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/has_name/has_asin.private|has_asin.private]] 
 
-### #is_/same_as :: [has_asin.personal](/_personal/schema-org/Property/has_name/has_asin.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_name/has_asin.personal|has_asin.personal]] 
 
-### #is_/same_as :: [has_asin.secret](/_secret/schema-org/Property/has_name/has_asin.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/has_name/has_asin.secret|has_asin.secret]] 
 

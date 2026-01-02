@@ -44,17 +44,17 @@ Girth of body just below the bust. Used, for example, to fit women's swimwear.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Body_Measurement_Underbust](/_Standards/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Underbust.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Underbust|Body_Measurement_Underbust]] 
 
-### #is_/same_as :: [Body_Measurement_Underbust.public](/_public/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Underbust.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Underbust.public|Body_Measurement_Underbust.public]] 
 
-### #is_/same_as :: [Body_Measurement_Underbust.internal](/_internal/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Underbust.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Underbust.internal|Body_Measurement_Underbust.internal]] 
 
-### #is_/same_as :: [Body_Measurement_Underbust.protect](/_protect/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Underbust.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Underbust.protect|Body_Measurement_Underbust.protect]] 
 
-### #is_/same_as :: [Body_Measurement_Underbust.private](/_private/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Underbust.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Underbust.private|Body_Measurement_Underbust.private]] 
 
-### #is_/same_as :: [Body_Measurement_Underbust.personal](/_personal/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Underbust.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Underbust.personal|Body_Measurement_Underbust.personal]] 
 
-### #is_/same_as :: [Body_Measurement_Underbust.secret](/_secret/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Underbust.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Underbust.secret|Body_Measurement_Underbust.secret]] 
 

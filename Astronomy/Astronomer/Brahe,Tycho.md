@@ -168,17 +168,17 @@ ISNI: 0000000117701389
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Brahe,Tycho](/_Standards/Astronomy/Astronomer/Brahe,Tycho.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Astronomer/Brahe,Tycho|Brahe,Tycho]] 
 
-### #is_/same_as :: [Brahe,Tycho.public](/_public/Astronomy/Astronomer/Brahe,Tycho.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Astronomer/Brahe,Tycho.public|Brahe,Tycho.public]] 
 
-### #is_/same_as :: [Brahe,Tycho.internal](/_internal/Astronomy/Astronomer/Brahe,Tycho.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Astronomer/Brahe,Tycho.internal|Brahe,Tycho.internal]] 
 
-### #is_/same_as :: [Brahe,Tycho.protect](/_protect/Astronomy/Astronomer/Brahe,Tycho.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Astronomer/Brahe,Tycho.protect|Brahe,Tycho.protect]] 
 
-### #is_/same_as :: [Brahe,Tycho.private](/_private/Astronomy/Astronomer/Brahe,Tycho.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Astronomer/Brahe,Tycho.private|Brahe,Tycho.private]] 
 
-### #is_/same_as :: [Brahe,Tycho.personal](/_personal/Astronomy/Astronomer/Brahe,Tycho.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Astronomer/Brahe,Tycho.personal|Brahe,Tycho.personal]] 
 
-### #is_/same_as :: [Brahe,Tycho.secret](/_secret/Astronomy/Astronomer/Brahe,Tycho.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Astronomer/Brahe,Tycho.secret|Brahe,Tycho.secret]] 
 

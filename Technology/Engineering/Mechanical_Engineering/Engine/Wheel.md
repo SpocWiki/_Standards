@@ -59,17 +59,17 @@ New Research indicates that the wheel was used for transport first around the Bl
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Wheel](/_Standards/Technology/Engineering/Mechanical_Engineering/Engine/Wheel.md) 
+### #is_/same_as :: [[/_Standards/Technology/Engineering/Mechanical_Engineering/Engine/Wheel|Wheel]] 
 
-### #is_/same_as :: [Wheel.public](/_public/Technology/Engineering/Mechanical_Engineering/Engine/Wheel.public.md) 
+### #is_/same_as :: [[/_public/Technology/Engineering/Mechanical_Engineering/Engine/Wheel.public|Wheel.public]] 
 
-### #is_/same_as :: [Wheel.internal](/_internal/Technology/Engineering/Mechanical_Engineering/Engine/Wheel.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Engineering/Mechanical_Engineering/Engine/Wheel.internal|Wheel.internal]] 
 
-### #is_/same_as :: [Wheel.protect](/_protect/Technology/Engineering/Mechanical_Engineering/Engine/Wheel.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Engineering/Mechanical_Engineering/Engine/Wheel.protect|Wheel.protect]] 
 
-### #is_/same_as :: [Wheel.private](/_private/Technology/Engineering/Mechanical_Engineering/Engine/Wheel.private.md) 
+### #is_/same_as :: [[/_private/Technology/Engineering/Mechanical_Engineering/Engine/Wheel.private|Wheel.private]] 
 
-### #is_/same_as :: [Wheel.personal](/_personal/Technology/Engineering/Mechanical_Engineering/Engine/Wheel.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Engineering/Mechanical_Engineering/Engine/Wheel.personal|Wheel.personal]] 
 
-### #is_/same_as :: [Wheel.secret](/_secret/Technology/Engineering/Mechanical_Engineering/Engine/Wheel.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Engineering/Mechanical_Engineering/Engine/Wheel.secret|Wheel.secret]] 
 

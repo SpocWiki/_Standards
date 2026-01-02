@@ -52,17 +52,17 @@ can be indicated using [[image]].
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Floor_Plan](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Floor_Plan.md) 
+### #is_/same_as :: [[/_Standards/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Floor_Plan|Floor_Plan]] 
 
-### #is_/same_as :: [Floor_Plan.public](/_public/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Floor_Plan.public.md) 
+### #is_/same_as :: [[/_public/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Floor_Plan.public|Floor_Plan.public]] 
 
-### #is_/same_as :: [Floor_Plan.internal](/_internal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Floor_Plan.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Floor_Plan.internal|Floor_Plan.internal]] 
 
-### #is_/same_as :: [Floor_Plan.protect](/_protect/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Floor_Plan.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Floor_Plan.protect|Floor_Plan.protect]] 
 
-### #is_/same_as :: [Floor_Plan.private](/_private/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Floor_Plan.private.md) 
+### #is_/same_as :: [[/_private/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Floor_Plan.private|Floor_Plan.private]] 
 
-### #is_/same_as :: [Floor_Plan.personal](/_personal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Floor_Plan.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Floor_Plan.personal|Floor_Plan.personal]] 
 
-### #is_/same_as :: [Floor_Plan.secret](/_secret/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Floor_Plan.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Floor_Plan.secret|Floor_Plan.secret]] 
 

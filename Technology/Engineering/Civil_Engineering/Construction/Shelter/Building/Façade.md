@@ -54,17 +54,17 @@ described_at_URL: https://web.archive.org/web/20230624225034/https://www.hamburg
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Façade](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/Façade.md) 
+### #is_/same_as :: [[/_Standards/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/Façade|Façade]] 
 
-### #is_/same_as :: [Façade.public](/_public/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/Façade.public.md) 
+### #is_/same_as :: [[/_public/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/Façade.public|Façade.public]] 
 
-### #is_/same_as :: [Façade.internal](/_internal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/Façade.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/Façade.internal|Façade.internal]] 
 
-### #is_/same_as :: [Façade.protect](/_protect/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/Façade.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/Façade.protect|Façade.protect]] 
 
-### #is_/same_as :: [Façade.private](/_private/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/Façade.private.md) 
+### #is_/same_as :: [[/_private/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/Façade.private|Façade.private]] 
 
-### #is_/same_as :: [Façade.personal](/_personal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/Façade.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/Façade.personal|Façade.personal]] 
 
-### #is_/same_as :: [Façade.secret](/_secret/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/Façade.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/Façade.secret|Façade.secret]] 
 

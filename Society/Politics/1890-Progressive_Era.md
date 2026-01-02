@@ -32,17 +32,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [1890-Progressive_Era](/_Standards/Society/Politics/1890-Progressive_Era.md) 
+### #is_/same_as :: [[/_Standards/Society/Politics/1890-Progressive_Era|1890-Progressive_Era]] 
 
-### #is_/same_as :: [1890-Progressive_Era.public](/_public/Society/Politics/1890-Progressive_Era.public.md) 
+### #is_/same_as :: [[/_public/Society/Politics/1890-Progressive_Era.public|1890-Progressive_Era.public]] 
 
-### #is_/same_as :: [1890-Progressive_Era.internal](/_internal/Society/Politics/1890-Progressive_Era.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Politics/1890-Progressive_Era.internal|1890-Progressive_Era.internal]] 
 
-### #is_/same_as :: [1890-Progressive_Era.protect](/_protect/Society/Politics/1890-Progressive_Era.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Politics/1890-Progressive_Era.protect|1890-Progressive_Era.protect]] 
 
-### #is_/same_as :: [1890-Progressive_Era.private](/_private/Society/Politics/1890-Progressive_Era.private.md) 
+### #is_/same_as :: [[/_private/Society/Politics/1890-Progressive_Era.private|1890-Progressive_Era.private]] 
 
-### #is_/same_as :: [1890-Progressive_Era.personal](/_personal/Society/Politics/1890-Progressive_Era.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Politics/1890-Progressive_Era.personal|1890-Progressive_Era.personal]] 
 
-### #is_/same_as :: [1890-Progressive_Era.secret](/_secret/Society/Politics/1890-Progressive_Era.secret.md)
+### #is_/same_as :: [[/_secret/Society/Politics/1890-Progressive_Era.secret|1890-Progressive_Era.secret]] 
 

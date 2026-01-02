@@ -35,17 +35,17 @@ Commons_category: Homological algebra
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Homological_Algebra](/_Standards/Mathematics/Algebra/Homological_Algebra.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Algebra/Homological_Algebra|Homological_Algebra]] 
 
-### #is_/same_as :: [Homological_Algebra.public](/_public/Mathematics/Algebra/Homological_Algebra.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Algebra/Homological_Algebra.public|Homological_Algebra.public]] 
 
-### #is_/same_as :: [Homological_Algebra.internal](/_internal/Mathematics/Algebra/Homological_Algebra.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Algebra/Homological_Algebra.internal|Homological_Algebra.internal]] 
 
-### #is_/same_as :: [Homological_Algebra.protect](/_protect/Mathematics/Algebra/Homological_Algebra.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Algebra/Homological_Algebra.protect|Homological_Algebra.protect]] 
 
-### #is_/same_as :: [Homological_Algebra.private](/_private/Mathematics/Algebra/Homological_Algebra.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Algebra/Homological_Algebra.private|Homological_Algebra.private]] 
 
-### #is_/same_as :: [Homological_Algebra.personal](/_personal/Mathematics/Algebra/Homological_Algebra.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Algebra/Homological_Algebra.personal|Homological_Algebra.personal]] 
 
-### #is_/same_as :: [Homological_Algebra.secret](/_secret/Mathematics/Algebra/Homological_Algebra.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Algebra/Homological_Algebra.secret|Homological_Algebra.secret]] 
 

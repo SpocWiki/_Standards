@@ -40,17 +40,17 @@ disjoint_union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,237664
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Unpaid_Work](/_Standards/Society/Economics/Economic_Activity/Work/Unpaid_Work.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Economic_Activity/Work/Unpaid_Work|Unpaid_Work]] 
 
-### #is_/same_as :: [Unpaid_Work.public](/_public/Society/Economics/Economic_Activity/Work/Unpaid_Work.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Economic_Activity/Work/Unpaid_Work.public|Unpaid_Work.public]] 
 
-### #is_/same_as :: [Unpaid_Work.internal](/_internal/Society/Economics/Economic_Activity/Work/Unpaid_Work.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Economic_Activity/Work/Unpaid_Work.internal|Unpaid_Work.internal]] 
 
-### #is_/same_as :: [Unpaid_Work.protect](/_protect/Society/Economics/Economic_Activity/Work/Unpaid_Work.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Economic_Activity/Work/Unpaid_Work.protect|Unpaid_Work.protect]] 
 
-### #is_/same_as :: [Unpaid_Work.private](/_private/Society/Economics/Economic_Activity/Work/Unpaid_Work.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Economic_Activity/Work/Unpaid_Work.private|Unpaid_Work.private]] 
 
-### #is_/same_as :: [Unpaid_Work.personal](/_personal/Society/Economics/Economic_Activity/Work/Unpaid_Work.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Economic_Activity/Work/Unpaid_Work.personal|Unpaid_Work.personal]] 
 
-### #is_/same_as :: [Unpaid_Work.secret](/_secret/Society/Economics/Economic_Activity/Work/Unpaid_Work.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Economic_Activity/Work/Unpaid_Work.secret|Unpaid_Work.secret]] 
 

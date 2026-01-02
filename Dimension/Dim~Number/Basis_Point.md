@@ -47,17 +47,17 @@ unit_symbol: ‱
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Basis_Point](/_Standards/Dimension/Dim~Number/Basis_Point.md) 
+### #is_/same_as :: [[/_Standards/Dimension/Dim~Number/Basis_Point|Basis_Point]] 
 
-### #is_/same_as :: [Basis_Point.public](/_public/Dimension/Dim~Number/Basis_Point.public.md) 
+### #is_/same_as :: [[/_public/Dimension/Dim~Number/Basis_Point.public|Basis_Point.public]] 
 
-### #is_/same_as :: [Basis_Point.internal](/_internal/Dimension/Dim~Number/Basis_Point.internal.md) 
+### #is_/same_as :: [[/_internal/Dimension/Dim~Number/Basis_Point.internal|Basis_Point.internal]] 
 
-### #is_/same_as :: [Basis_Point.protect](/_protect/Dimension/Dim~Number/Basis_Point.protect.md) 
+### #is_/same_as :: [[/_protect/Dimension/Dim~Number/Basis_Point.protect|Basis_Point.protect]] 
 
-### #is_/same_as :: [Basis_Point.private](/_private/Dimension/Dim~Number/Basis_Point.private.md) 
+### #is_/same_as :: [[/_private/Dimension/Dim~Number/Basis_Point.private|Basis_Point.private]] 
 
-### #is_/same_as :: [Basis_Point.personal](/_personal/Dimension/Dim~Number/Basis_Point.personal.md) 
+### #is_/same_as :: [[/_personal/Dimension/Dim~Number/Basis_Point.personal|Basis_Point.personal]] 
 
-### #is_/same_as :: [Basis_Point.secret](/_secret/Dimension/Dim~Number/Basis_Point.secret.md)
+### #is_/same_as :: [[/_secret/Dimension/Dim~Number/Basis_Point.secret|Basis_Point.secret]] 
 

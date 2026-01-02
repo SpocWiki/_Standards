@@ -93,17 +93,17 @@ birth_name: Gustav Theodor Fechner
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Gustav_Fechner](/_Standards/bio/Psychology/Psychologist/Gustav_Fechner.md) 
+### #is_/same_as :: [[/_Standards/bio/Psychology/Psychologist/Gustav_Fechner|Gustav_Fechner]] 
 
-### #is_/same_as :: [Gustav_Fechner.public](/_public/bio/Psychology/Psychologist/Gustav_Fechner.public.md) 
+### #is_/same_as :: [[/_public/bio/Psychology/Psychologist/Gustav_Fechner.public|Gustav_Fechner.public]] 
 
-### #is_/same_as :: [Gustav_Fechner.internal](/_internal/bio/Psychology/Psychologist/Gustav_Fechner.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Psychology/Psychologist/Gustav_Fechner.internal|Gustav_Fechner.internal]] 
 
-### #is_/same_as :: [Gustav_Fechner.protect](/_protect/bio/Psychology/Psychologist/Gustav_Fechner.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Psychology/Psychologist/Gustav_Fechner.protect|Gustav_Fechner.protect]] 
 
-### #is_/same_as :: [Gustav_Fechner.private](/_private/bio/Psychology/Psychologist/Gustav_Fechner.private.md) 
+### #is_/same_as :: [[/_private/bio/Psychology/Psychologist/Gustav_Fechner.private|Gustav_Fechner.private]] 
 
-### #is_/same_as :: [Gustav_Fechner.personal](/_personal/bio/Psychology/Psychologist/Gustav_Fechner.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Psychology/Psychologist/Gustav_Fechner.personal|Gustav_Fechner.personal]] 
 
-### #is_/same_as :: [Gustav_Fechner.secret](/_secret/bio/Psychology/Psychologist/Gustav_Fechner.secret.md)
+### #is_/same_as :: [[/_secret/bio/Psychology/Psychologist/Gustav_Fechner.secret|Gustav_Fechner.secret]] 
 

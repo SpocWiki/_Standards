@@ -79,17 +79,17 @@ date_of_death: 1520-01-01T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Pedro_Álvares_Cabral](/_Standards/Earth/Explorer/Age_of_Discovery/Pedro_Álvares_Cabral.md) 
+### #is_/same_as :: [[/_Standards/Earth/Explorer/Age_of_Discovery/Pedro_Álvares_Cabral|Pedro_Álvares_Cabral]] 
 
-### #is_/same_as :: [Pedro_Álvares_Cabral.public](/_public/Earth/Explorer/Age_of_Discovery/Pedro_Álvares_Cabral.public.md) 
+### #is_/same_as :: [[/_public/Earth/Explorer/Age_of_Discovery/Pedro_Álvares_Cabral.public|Pedro_Álvares_Cabral.public]] 
 
-### #is_/same_as :: [Pedro_Álvares_Cabral.internal](/_internal/Earth/Explorer/Age_of_Discovery/Pedro_Álvares_Cabral.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Explorer/Age_of_Discovery/Pedro_Álvares_Cabral.internal|Pedro_Álvares_Cabral.internal]] 
 
-### #is_/same_as :: [Pedro_Álvares_Cabral.protect](/_protect/Earth/Explorer/Age_of_Discovery/Pedro_Álvares_Cabral.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Explorer/Age_of_Discovery/Pedro_Álvares_Cabral.protect|Pedro_Álvares_Cabral.protect]] 
 
-### #is_/same_as :: [Pedro_Álvares_Cabral.private](/_private/Earth/Explorer/Age_of_Discovery/Pedro_Álvares_Cabral.private.md) 
+### #is_/same_as :: [[/_private/Earth/Explorer/Age_of_Discovery/Pedro_Álvares_Cabral.private|Pedro_Álvares_Cabral.private]] 
 
-### #is_/same_as :: [Pedro_Álvares_Cabral.personal](/_personal/Earth/Explorer/Age_of_Discovery/Pedro_Álvares_Cabral.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Explorer/Age_of_Discovery/Pedro_Álvares_Cabral.personal|Pedro_Álvares_Cabral.personal]] 
 
-### #is_/same_as :: [Pedro_Álvares_Cabral.secret](/_secret/Earth/Explorer/Age_of_Discovery/Pedro_Álvares_Cabral.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Explorer/Age_of_Discovery/Pedro_Álvares_Cabral.secret|Pedro_Álvares_Cabral.secret]] 
 

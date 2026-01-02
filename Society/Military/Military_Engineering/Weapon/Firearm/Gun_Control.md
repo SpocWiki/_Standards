@@ -26,17 +26,17 @@ Since then there has been none.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Gun_Control](/_Standards/Society/Military/Military_Engineering/Weapon/Firearm/Gun_Control.md) 
+### #is_/same_as :: [[/_Standards/Society/Military/Military_Engineering/Weapon/Firearm/Gun_Control|Gun_Control]] 
 
-### #is_/same_as :: [Gun_Control.public](/_public/Society/Military/Military_Engineering/Weapon/Firearm/Gun_Control.public.md) 
+### #is_/same_as :: [[/_public/Society/Military/Military_Engineering/Weapon/Firearm/Gun_Control.public|Gun_Control.public]] 
 
-### #is_/same_as :: [Gun_Control.internal](/_internal/Society/Military/Military_Engineering/Weapon/Firearm/Gun_Control.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Military/Military_Engineering/Weapon/Firearm/Gun_Control.internal|Gun_Control.internal]] 
 
-### #is_/same_as :: [Gun_Control.protect](/_protect/Society/Military/Military_Engineering/Weapon/Firearm/Gun_Control.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Military/Military_Engineering/Weapon/Firearm/Gun_Control.protect|Gun_Control.protect]] 
 
-### #is_/same_as :: [Gun_Control.private](/_private/Society/Military/Military_Engineering/Weapon/Firearm/Gun_Control.private.md) 
+### #is_/same_as :: [[/_private/Society/Military/Military_Engineering/Weapon/Firearm/Gun_Control.private|Gun_Control.private]] 
 
-### #is_/same_as :: [Gun_Control.personal](/_personal/Society/Military/Military_Engineering/Weapon/Firearm/Gun_Control.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Military/Military_Engineering/Weapon/Firearm/Gun_Control.personal|Gun_Control.personal]] 
 
-### #is_/same_as :: [Gun_Control.secret](/_secret/Society/Military/Military_Engineering/Weapon/Firearm/Gun_Control.secret.md)
+### #is_/same_as :: [[/_secret/Society/Military/Military_Engineering/Weapon/Firearm/Gun_Control.secret|Gun_Control.secret]] 
 

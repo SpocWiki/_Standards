@@ -48,17 +48,17 @@ described_by_source: '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ceasefire](/_Standards/Society/Military/Military_Operation/Combat/War/Ceasefire.md) 
+### #is_/same_as :: [[/_Standards/Society/Military/Military_Operation/Combat/War/Ceasefire|Ceasefire]] 
 
-### #is_/same_as :: [Ceasefire.public](/_public/Society/Military/Military_Operation/Combat/War/Ceasefire.public.md) 
+### #is_/same_as :: [[/_public/Society/Military/Military_Operation/Combat/War/Ceasefire.public|Ceasefire.public]] 
 
-### #is_/same_as :: [Ceasefire.internal](/_internal/Society/Military/Military_Operation/Combat/War/Ceasefire.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Military/Military_Operation/Combat/War/Ceasefire.internal|Ceasefire.internal]] 
 
-### #is_/same_as :: [Ceasefire.protect](/_protect/Society/Military/Military_Operation/Combat/War/Ceasefire.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Military/Military_Operation/Combat/War/Ceasefire.protect|Ceasefire.protect]] 
 
-### #is_/same_as :: [Ceasefire.private](/_private/Society/Military/Military_Operation/Combat/War/Ceasefire.private.md) 
+### #is_/same_as :: [[/_private/Society/Military/Military_Operation/Combat/War/Ceasefire.private|Ceasefire.private]] 
 
-### #is_/same_as :: [Ceasefire.personal](/_personal/Society/Military/Military_Operation/Combat/War/Ceasefire.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Military/Military_Operation/Combat/War/Ceasefire.personal|Ceasefire.personal]] 
 
-### #is_/same_as :: [Ceasefire.secret](/_secret/Society/Military/Military_Operation/Combat/War/Ceasefire.secret.md)
+### #is_/same_as :: [[/_secret/Society/Military/Military_Operation/Combat/War/Ceasefire.secret|Ceasefire.secret]] 
 

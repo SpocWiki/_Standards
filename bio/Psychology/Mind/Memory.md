@@ -212,36 +212,17 @@ and shows that not all memory is consciously activated,
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Memory](/_Standards/bio/Psychology/Mind/Memory.md) 
+### #is_/same_as :: [[/_Standards/bio/Psychology/Mind/Memory|Memory]] 
 
-### #is_/same_as :: [Memory.public](/_public/bio/Psychology/Mind/Memory.public.md) 
+### #is_/same_as :: [[/_public/bio/Psychology/Mind/Memory.public|Memory.public]] 
 
-### #is_/same_as :: [Memory.internal](/_internal/bio/Psychology/Mind/Memory.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Psychology/Mind/Memory.internal|Memory.internal]] 
 
-### #is_/same_as :: [Memory.protect](/_protect/bio/Psychology/Mind/Memory.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Psychology/Mind/Memory.protect|Memory.protect]] 
 
-### #is_/same_as :: [Memory.private](/_private/bio/Psychology/Mind/Memory.private.md) 
+### #is_/same_as :: [[/_private/bio/Psychology/Mind/Memory.private|Memory.private]] 
 
-### #is_/same_as :: [Memory.personal](/_personal/bio/Psychology/Mind/Memory.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Psychology/Mind/Memory.personal|Memory.personal]] 
 
-### #is_/same_as :: [Memory.secret](/_secret/bio/Psychology/Mind/Memory.secret.md)
+### #is_/same_as :: [[/_secret/bio/Psychology/Mind/Memory.secret|Memory.secret]] 
 
-
-# [[Memory]] 
-
-#is_/part_of :: [[Memory]] 
-
-![[Memory.svg]]
-
- 
-
-## Embedded Graph 
-
-![[Memory.svg]] 
-
-
-%%
-## Drawing
-```compressed-json
-N4IgLgngDgpiBcIYA8DGBDANgSwCYCd0B3EAGhADcZ8BnbAewDsEAmcm+gV31TkQAswYKDXgB6MQHNsYfpwBGAOlT0AtmIBeNCtlQbs6RmPry6uA4wC0KDDgLFLUTJ2lH8MTDHQ0YNMWHRJMRZFAA5FFjIkT1UYRjAaBABtAF1ydCgoAGUAsD5QSXw8LOwNPkZOTExyHRgiACF0VABrQq5GXABhekx6fAQQAGIAM1GxkABfCaA==
-```

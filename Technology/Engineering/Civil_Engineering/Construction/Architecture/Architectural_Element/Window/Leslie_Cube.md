@@ -24,3 +24,22 @@ and 4 different Surfaces:
 
 white only reflects visible Light. it still emits a lot of IR! 
 € is the Emission Ratio 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element/Window/Leslie_Cube|Leslie_Cube]] 
+
+### #is_/same_as :: [[/_public/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element/Window/Leslie_Cube.public|Leslie_Cube.public]] 
+
+### #is_/same_as :: [[/_internal/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element/Window/Leslie_Cube.internal|Leslie_Cube.internal]] 
+
+### #is_/same_as :: [[/_protect/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element/Window/Leslie_Cube.protect|Leslie_Cube.protect]] 
+
+### #is_/same_as :: [[/_private/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element/Window/Leslie_Cube.private|Leslie_Cube.private]] 
+
+### #is_/same_as :: [[/_personal/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element/Window/Leslie_Cube.personal|Leslie_Cube.personal]] 
+
+### #is_/same_as :: [[/_secret/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element/Window/Leslie_Cube.secret|Leslie_Cube.secret]] 
+

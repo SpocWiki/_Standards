@@ -29,17 +29,17 @@ Commons_category: Religious law
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Religious_Law](/_Standards/Society/Law/Religious_Law.md) 
+### #is_/same_as :: [[/_Standards/Society/Law/Religious_Law|Religious_Law]] 
 
-### #is_/same_as :: [Religious_Law.public](/_public/Society/Law/Religious_Law.public.md) 
+### #is_/same_as :: [[/_public/Society/Law/Religious_Law.public|Religious_Law.public]] 
 
-### #is_/same_as :: [Religious_Law.internal](/_internal/Society/Law/Religious_Law.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Law/Religious_Law.internal|Religious_Law.internal]] 
 
-### #is_/same_as :: [Religious_Law.protect](/_protect/Society/Law/Religious_Law.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Law/Religious_Law.protect|Religious_Law.protect]] 
 
-### #is_/same_as :: [Religious_Law.private](/_private/Society/Law/Religious_Law.private.md) 
+### #is_/same_as :: [[/_private/Society/Law/Religious_Law.private|Religious_Law.private]] 
 
-### #is_/same_as :: [Religious_Law.personal](/_personal/Society/Law/Religious_Law.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Law/Religious_Law.personal|Religious_Law.personal]] 
 
-### #is_/same_as :: [Religious_Law.secret](/_secret/Society/Law/Religious_Law.secret.md)
+### #is_/same_as :: [[/_secret/Society/Law/Religious_Law.secret|Religious_Law.secret]] 
 

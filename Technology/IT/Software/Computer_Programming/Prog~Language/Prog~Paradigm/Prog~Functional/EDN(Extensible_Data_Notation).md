@@ -32,17 +32,17 @@ avoids relying on either **convention** or **context** to convey elements not in
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [EDN(Extensible_Data_Notation)](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/EDN(Extensible_Data_Notation).md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/EDN(Extensible_Data_Notation)|EDN(Extensible_Data_Notation)]] 
 
-### #is_/same_as :: [EDN(Extensible_Data_Notation).public](/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/EDN(Extensible_Data_Notation).public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/EDN(Extensible_Data_Notation).public|EDN(Extensible_Data_Notation).public]] 
 
-### #is_/same_as :: [EDN(Extensible_Data_Notation).internal](/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/EDN(Extensible_Data_Notation).internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/EDN(Extensible_Data_Notation).internal|EDN(Extensible_Data_Notation).internal]] 
 
-### #is_/same_as :: [EDN(Extensible_Data_Notation).protect](/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/EDN(Extensible_Data_Notation).protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/EDN(Extensible_Data_Notation).protect|EDN(Extensible_Data_Notation).protect]] 
 
-### #is_/same_as :: [EDN(Extensible_Data_Notation).private](/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/EDN(Extensible_Data_Notation).private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/EDN(Extensible_Data_Notation).private|EDN(Extensible_Data_Notation).private]] 
 
-### #is_/same_as :: [EDN(Extensible_Data_Notation).personal](/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/EDN(Extensible_Data_Notation).personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/EDN(Extensible_Data_Notation).personal|EDN(Extensible_Data_Notation).personal]] 
 
-### #is_/same_as :: [EDN(Extensible_Data_Notation).secret](/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/EDN(Extensible_Data_Notation).secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/EDN(Extensible_Data_Notation).secret|EDN(Extensible_Data_Notation).secret]] 
 

@@ -57,17 +57,17 @@ Baidu_Tieba_name: 穿越
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Time_Travel](/_Standards/Society/Communication/Genre/Fiction/Science_Fiction/Time_Travel.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Genre/Fiction/Science_Fiction/Time_Travel|Time_Travel]] 
 
-### #is_/same_as :: [Time_Travel.public](/_public/Society/Communication/Genre/Fiction/Science_Fiction/Time_Travel.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Genre/Fiction/Science_Fiction/Time_Travel.public|Time_Travel.public]] 
 
-### #is_/same_as :: [Time_Travel.internal](/_internal/Society/Communication/Genre/Fiction/Science_Fiction/Time_Travel.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Genre/Fiction/Science_Fiction/Time_Travel.internal|Time_Travel.internal]] 
 
-### #is_/same_as :: [Time_Travel.protect](/_protect/Society/Communication/Genre/Fiction/Science_Fiction/Time_Travel.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Genre/Fiction/Science_Fiction/Time_Travel.protect|Time_Travel.protect]] 
 
-### #is_/same_as :: [Time_Travel.private](/_private/Society/Communication/Genre/Fiction/Science_Fiction/Time_Travel.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Genre/Fiction/Science_Fiction/Time_Travel.private|Time_Travel.private]] 
 
-### #is_/same_as :: [Time_Travel.personal](/_personal/Society/Communication/Genre/Fiction/Science_Fiction/Time_Travel.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Genre/Fiction/Science_Fiction/Time_Travel.personal|Time_Travel.personal]] 
 
-### #is_/same_as :: [Time_Travel.secret](/_secret/Society/Communication/Genre/Fiction/Science_Fiction/Time_Travel.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Genre/Fiction/Science_Fiction/Time_Travel.secret|Time_Travel.secret]] 
 

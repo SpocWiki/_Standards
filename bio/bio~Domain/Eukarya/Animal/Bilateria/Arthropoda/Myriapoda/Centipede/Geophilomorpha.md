@@ -46,17 +46,17 @@ Chichester, Weinheim, Brisbane, Singapore, Toronto.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Geophilomorpha](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Myriapoda/Centipede/Geophilomorpha.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Myriapoda/Centipede/Geophilomorpha|Geophilomorpha]] 
 
-### #is_/same_as :: [Geophilomorpha.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Myriapoda/Centipede/Geophilomorpha.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Myriapoda/Centipede/Geophilomorpha.public|Geophilomorpha.public]] 
 
-### #is_/same_as :: [Geophilomorpha.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Myriapoda/Centipede/Geophilomorpha.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Myriapoda/Centipede/Geophilomorpha.internal|Geophilomorpha.internal]] 
 
-### #is_/same_as :: [Geophilomorpha.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Myriapoda/Centipede/Geophilomorpha.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Myriapoda/Centipede/Geophilomorpha.protect|Geophilomorpha.protect]] 
 
-### #is_/same_as :: [Geophilomorpha.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Myriapoda/Centipede/Geophilomorpha.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Myriapoda/Centipede/Geophilomorpha.private|Geophilomorpha.private]] 
 
-### #is_/same_as :: [Geophilomorpha.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Myriapoda/Centipede/Geophilomorpha.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Myriapoda/Centipede/Geophilomorpha.personal|Geophilomorpha.personal]] 
 
-### #is_/same_as :: [Geophilomorpha.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Myriapoda/Centipede/Geophilomorpha.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Myriapoda/Centipede/Geophilomorpha.secret|Geophilomorpha.secret]] 
 

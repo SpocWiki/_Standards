@@ -574,17 +574,17 @@ Capital :: [[Korea~North/City/Pyongyang]] ]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Korea~North](/_Standards/Earth/Continent/Asia/Asia~East/Korean_Peninsula/Korea~North.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~East/Korean_Peninsula/Korea~North|Korea~North]] 
 
-### #is_/same_as :: [Korea~North.public](/_public/Earth/Continent/Asia/Asia~East/Korean_Peninsula/Korea~North.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~East/Korean_Peninsula/Korea~North.public|Korea~North.public]] 
 
-### #is_/same_as :: [Korea~North.internal](/_internal/Earth/Continent/Asia/Asia~East/Korean_Peninsula/Korea~North.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~East/Korean_Peninsula/Korea~North.internal|Korea~North.internal]] 
 
-### #is_/same_as :: [Korea~North.protect](/_protect/Earth/Continent/Asia/Asia~East/Korean_Peninsula/Korea~North.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~East/Korean_Peninsula/Korea~North.protect|Korea~North.protect]] 
 
-### #is_/same_as :: [Korea~North.private](/_private/Earth/Continent/Asia/Asia~East/Korean_Peninsula/Korea~North.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~East/Korean_Peninsula/Korea~North.private|Korea~North.private]] 
 
-### #is_/same_as :: [Korea~North.personal](/_personal/Earth/Continent/Asia/Asia~East/Korean_Peninsula/Korea~North.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~East/Korean_Peninsula/Korea~North.personal|Korea~North.personal]] 
 
-### #is_/same_as :: [Korea~North.secret](/_secret/Earth/Continent/Asia/Asia~East/Korean_Peninsula/Korea~North.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~East/Korean_Peninsula/Korea~North.secret|Korea~North.secret]] 
 

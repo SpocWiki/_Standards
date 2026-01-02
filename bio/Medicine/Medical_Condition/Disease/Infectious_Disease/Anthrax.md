@@ -156,17 +156,17 @@ Dewey_Decimal_Classification:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Anthrax](/_Standards/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Anthrax.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Anthrax|Anthrax]] 
 
-### #is_/same_as :: [Anthrax.public](/_public/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Anthrax.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Anthrax.public|Anthrax.public]] 
 
-### #is_/same_as :: [Anthrax.internal](/_internal/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Anthrax.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Anthrax.internal|Anthrax.internal]] 
 
-### #is_/same_as :: [Anthrax.protect](/_protect/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Anthrax.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Anthrax.protect|Anthrax.protect]] 
 
-### #is_/same_as :: [Anthrax.private](/_private/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Anthrax.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Anthrax.private|Anthrax.private]] 
 
-### #is_/same_as :: [Anthrax.personal](/_personal/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Anthrax.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Anthrax.personal|Anthrax.personal]] 
 
-### #is_/same_as :: [Anthrax.secret](/_secret/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Anthrax.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Anthrax.secret|Anthrax.secret]] 
 

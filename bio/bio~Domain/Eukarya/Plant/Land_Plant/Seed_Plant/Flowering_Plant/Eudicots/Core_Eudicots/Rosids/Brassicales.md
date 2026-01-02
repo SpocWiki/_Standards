@@ -98,7 +98,7 @@ taxon_common_name: 十字花目
 
 ## Title Illustrations
 
-![Coast wallflower, Erysimum ammophilum](Brassicales/Erysimum_ammophilum.jpg))
+![Coast wallflower, Erysimum ammophilum](Brassicales/Erysimum_ammophilum.jpg) 
 
   -------------------------------
   Scientific Name ::     Erysimum ammophilum
@@ -108,7 +108,7 @@ taxon_common_name: 十字花目
   Source Collection    [CalPhotos](http://calphotos.berkeley.edu/)
   Copyright ::            © 1995 [Dean Wm. Taylor, Jepson Herbarium, UC Berkeley](mailto:dwtaylor@cruzers.com)
   -------------------------------
-![Indian cress, Tropaeolum minus](Brassicales/Tropaeolum_minus05199.jpg))
+![Indian cress, Tropaeolum minus](Brassicales/Tropaeolum_minus05199.jpg) 
 
   ---------------------------------------------------------------------
   Scientific Name ::  Tropaeolum minus
@@ -116,7 +116,7 @@ taxon_common_name: 十字花目
   Copyright ::         © [Kurt Stüber](http://www.biolib.de/) 
  
   ---------------------------------------------------------------------
-![Papaya tree, Carica papaya](Brassicales/Carica_papaya2193.jpg))
+![Papaya tree, Carica papaya](Brassicales/Carica_papaya2193.jpg) 
 
   ------------------------------------------------------------------------
   Scientific Name ::   Carica papaya
@@ -129,17 +129,17 @@ taxon_common_name: 十字花目
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Brassicales](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Brassicales.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Brassicales|Brassicales]] 
 
-### #is_/same_as :: [Brassicales.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Brassicales.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Brassicales.public|Brassicales.public]] 
 
-### #is_/same_as :: [Brassicales.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Brassicales.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Brassicales.internal|Brassicales.internal]] 
 
-### #is_/same_as :: [Brassicales.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Brassicales.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Brassicales.protect|Brassicales.protect]] 
 
-### #is_/same_as :: [Brassicales.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Brassicales.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Brassicales.private|Brassicales.private]] 
 
-### #is_/same_as :: [Brassicales.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Brassicales.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Brassicales.personal|Brassicales.personal]] 
 
-### #is_/same_as :: [Brassicales.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Brassicales.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Brassicales.secret|Brassicales.secret]] 
 

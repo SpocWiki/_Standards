@@ -584,17 +584,17 @@ Capital :: [[Pretoria]]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [South_Africa](/_Standards/Earth/Continent/Africa/Africa~South/South_Africa.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~South/South_Africa|South_Africa]] 
 
-### #is_/same_as :: [South_Africa.public](/_public/Earth/Continent/Africa/Africa~South/South_Africa.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~South/South_Africa.public|South_Africa.public]] 
 
-### #is_/same_as :: [South_Africa.internal](/_internal/Earth/Continent/Africa/Africa~South/South_Africa.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~South/South_Africa.internal|South_Africa.internal]] 
 
-### #is_/same_as :: [South_Africa.protect](/_protect/Earth/Continent/Africa/Africa~South/South_Africa.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~South/South_Africa.protect|South_Africa.protect]] 
 
-### #is_/same_as :: [South_Africa.private](/_private/Earth/Continent/Africa/Africa~South/South_Africa.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~South/South_Africa.private|South_Africa.private]] 
 
-### #is_/same_as :: [South_Africa.personal](/_personal/Earth/Continent/Africa/Africa~South/South_Africa.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~South/South_Africa.personal|South_Africa.personal]] 
 
-### #is_/same_as :: [South_Africa.secret](/_secret/Earth/Continent/Africa/Africa~South/South_Africa.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~South/South_Africa.secret|South_Africa.secret]] 
 

@@ -80,17 +80,17 @@ inception: 2005-01-01T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Pastafari](/_Standards/Philosophy/Metaphysic/Religion/Pastafari.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Pastafari|Pastafari]] 
 
-### #is_/same_as :: [Pastafari.public](/_public/Philosophy/Metaphysic/Religion/Pastafari.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Pastafari.public|Pastafari.public]] 
 
-### #is_/same_as :: [Pastafari.internal](/_internal/Philosophy/Metaphysic/Religion/Pastafari.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Pastafari.internal|Pastafari.internal]] 
 
-### #is_/same_as :: [Pastafari.protect](/_protect/Philosophy/Metaphysic/Religion/Pastafari.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Pastafari.protect|Pastafari.protect]] 
 
-### #is_/same_as :: [Pastafari.private](/_private/Philosophy/Metaphysic/Religion/Pastafari.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Pastafari.private|Pastafari.private]] 
 
-### #is_/same_as :: [Pastafari.personal](/_personal/Philosophy/Metaphysic/Religion/Pastafari.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Pastafari.personal|Pastafari.personal]] 
 
-### #is_/same_as :: [Pastafari.secret](/_secret/Philosophy/Metaphysic/Religion/Pastafari.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Pastafari.secret|Pastafari.secret]] 
 

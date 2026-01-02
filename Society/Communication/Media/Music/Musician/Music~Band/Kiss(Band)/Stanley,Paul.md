@@ -22,17 +22,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Stanley,Paul](/_Standards/Society/Communication/Media/Music/Musician/Music~Band/Kiss(Band)/Stanley,Paul.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Musician/Music~Band/Kiss(Band)/Stanley,Paul|Stanley,Paul]] 
 
-### #is_/same_as :: [Stanley,Paul.public](/_public/Society/Communication/Media/Music/Musician/Music~Band/Kiss(Band)/Stanley,Paul.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Musician/Music~Band/Kiss(Band)/Stanley,Paul.public|Stanley,Paul.public]] 
 
-### #is_/same_as :: [Stanley,Paul.internal](/_internal/Society/Communication/Media/Music/Musician/Music~Band/Kiss(Band)/Stanley,Paul.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Musician/Music~Band/Kiss(Band)/Stanley,Paul.internal|Stanley,Paul.internal]] 
 
-### #is_/same_as :: [Stanley,Paul.protect](/_protect/Society/Communication/Media/Music/Musician/Music~Band/Kiss(Band)/Stanley,Paul.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Musician/Music~Band/Kiss(Band)/Stanley,Paul.protect|Stanley,Paul.protect]] 
 
-### #is_/same_as :: [Stanley,Paul.private](/_private/Society/Communication/Media/Music/Musician/Music~Band/Kiss(Band)/Stanley,Paul.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Musician/Music~Band/Kiss(Band)/Stanley,Paul.private|Stanley,Paul.private]] 
 
-### #is_/same_as :: [Stanley,Paul.personal](/_personal/Society/Communication/Media/Music/Musician/Music~Band/Kiss(Band)/Stanley,Paul.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Musician/Music~Band/Kiss(Band)/Stanley,Paul.personal|Stanley,Paul.personal]] 
 
-### #is_/same_as :: [Stanley,Paul.secret](/_secret/Society/Communication/Media/Music/Musician/Music~Band/Kiss(Band)/Stanley,Paul.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Musician/Music~Band/Kiss(Band)/Stanley,Paul.secret|Stanley,Paul.secret]] 
 

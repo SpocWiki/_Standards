@@ -47,17 +47,17 @@ EducationalRole:: {"type":"Input","options":{}}
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~EducationalAudience](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Audience/FileClass~EducationalAudience.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Audience/FileClass~EducationalAudience|FileClass~EducationalAudience]] 
 
-### #is_/same_as :: [FileClass~EducationalAudience.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Audience/FileClass~EducationalAudience.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Audience/FileClass~EducationalAudience.public|FileClass~EducationalAudience.public]] 
 
-### #is_/same_as :: [FileClass~EducationalAudience.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Audience/FileClass~EducationalAudience.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Audience/FileClass~EducationalAudience.internal|FileClass~EducationalAudience.internal]] 
 
-### #is_/same_as :: [FileClass~EducationalAudience.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Audience/FileClass~EducationalAudience.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Audience/FileClass~EducationalAudience.protect|FileClass~EducationalAudience.protect]] 
 
-### #is_/same_as :: [FileClass~EducationalAudience.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Audience/FileClass~EducationalAudience.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Audience/FileClass~EducationalAudience.private|FileClass~EducationalAudience.private]] 
 
-### #is_/same_as :: [FileClass~EducationalAudience.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Audience/FileClass~EducationalAudience.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Audience/FileClass~EducationalAudience.personal|FileClass~EducationalAudience.personal]] 
 
-### #is_/same_as :: [FileClass~EducationalAudience.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Audience/FileClass~EducationalAudience.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Audience/FileClass~EducationalAudience.secret|FileClass~EducationalAudience.secret]] 
 

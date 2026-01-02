@@ -100,17 +100,17 @@ The day of the week between Thursday and Saturday.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Friday](/_Standards/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Day_of_Week/Friday.md) 
+### #is_/same_as :: [[/_Standards/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Day_of_Week/Friday|Friday]] 
 
-### #is_/same_as :: [Friday.public](/_public/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Day_of_Week/Friday.public.md) 
+### #is_/same_as :: [[/_public/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Day_of_Week/Friday.public|Friday.public]] 
 
-### #is_/same_as :: [Friday.internal](/_internal/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Day_of_Week/Friday.internal.md) 
+### #is_/same_as :: [[/_internal/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Day_of_Week/Friday.internal|Friday.internal]] 
 
-### #is_/same_as :: [Friday.protect](/_protect/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Day_of_Week/Friday.protect.md) 
+### #is_/same_as :: [[/_protect/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Day_of_Week/Friday.protect|Friday.protect]] 
 
-### #is_/same_as :: [Friday.private](/_private/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Day_of_Week/Friday.private.md) 
+### #is_/same_as :: [[/_private/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Day_of_Week/Friday.private|Friday.private]] 
 
-### #is_/same_as :: [Friday.personal](/_personal/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Day_of_Week/Friday.personal.md) 
+### #is_/same_as :: [[/_personal/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Day_of_Week/Friday.personal|Friday.personal]] 
 
-### #is_/same_as :: [Friday.secret](/_secret/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Day_of_Week/Friday.secret.md)
+### #is_/same_as :: [[/_secret/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Day_of_Week/Friday.secret|Friday.secret]] 
 

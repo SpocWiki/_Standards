@@ -37,17 +37,17 @@ A pet store.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~PetStore](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~PetStore.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~PetStore|FileClass~PetStore]] 
 
-### #is_/same_as :: [FileClass~PetStore.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~PetStore.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~PetStore.public|FileClass~PetStore.public]] 
 
-### #is_/same_as :: [FileClass~PetStore.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~PetStore.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~PetStore.internal|FileClass~PetStore.internal]] 
 
-### #is_/same_as :: [FileClass~PetStore.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~PetStore.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~PetStore.protect|FileClass~PetStore.protect]] 
 
-### #is_/same_as :: [FileClass~PetStore.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~PetStore.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~PetStore.private|FileClass~PetStore.private]] 
 
-### #is_/same_as :: [FileClass~PetStore.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~PetStore.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~PetStore.personal|FileClass~PetStore.personal]] 
 
-### #is_/same_as :: [FileClass~PetStore.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~PetStore.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~PetStore.secret|FileClass~PetStore.secret]] 
 

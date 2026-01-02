@@ -44,17 +44,17 @@ Commons_category: Gneiss
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Gneiss](/_Standards/Earth/Geology/Mineral/Gneiss.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geology/Mineral/Gneiss|Gneiss]] 
 
-### #is_/same_as :: [Gneiss.public](/_public/Earth/Geology/Mineral/Gneiss.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geology/Mineral/Gneiss.public|Gneiss.public]] 
 
-### #is_/same_as :: [Gneiss.internal](/_internal/Earth/Geology/Mineral/Gneiss.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geology/Mineral/Gneiss.internal|Gneiss.internal]] 
 
-### #is_/same_as :: [Gneiss.protect](/_protect/Earth/Geology/Mineral/Gneiss.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geology/Mineral/Gneiss.protect|Gneiss.protect]] 
 
-### #is_/same_as :: [Gneiss.private](/_private/Earth/Geology/Mineral/Gneiss.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geology/Mineral/Gneiss.private|Gneiss.private]] 
 
-### #is_/same_as :: [Gneiss.personal](/_personal/Earth/Geology/Mineral/Gneiss.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geology/Mineral/Gneiss.personal|Gneiss.personal]] 
 
-### #is_/same_as :: [Gneiss.secret](/_secret/Earth/Geology/Mineral/Gneiss.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geology/Mineral/Gneiss.secret|Gneiss.secret]] 
 

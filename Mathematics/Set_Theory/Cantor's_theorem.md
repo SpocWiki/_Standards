@@ -43,17 +43,17 @@ Commons_category: Cantor's theorem
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Cantor's_theorem](/_Standards/Mathematics/Set_Theory/Cantor's_theorem.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Set_Theory/Cantor's_theorem|Cantor's_theorem]] 
 
-### #is_/same_as :: [Cantor's_theorem.public](/_public/Mathematics/Set_Theory/Cantor's_theorem.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Set_Theory/Cantor's_theorem.public|Cantor's_theorem.public]] 
 
-### #is_/same_as :: [Cantor's_theorem.internal](/_internal/Mathematics/Set_Theory/Cantor's_theorem.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Set_Theory/Cantor's_theorem.internal|Cantor's_theorem.internal]] 
 
-### #is_/same_as :: [Cantor's_theorem.protect](/_protect/Mathematics/Set_Theory/Cantor's_theorem.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Set_Theory/Cantor's_theorem.protect|Cantor's_theorem.protect]] 
 
-### #is_/same_as :: [Cantor's_theorem.private](/_private/Mathematics/Set_Theory/Cantor's_theorem.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Set_Theory/Cantor's_theorem.private|Cantor's_theorem.private]] 
 
-### #is_/same_as :: [Cantor's_theorem.personal](/_personal/Mathematics/Set_Theory/Cantor's_theorem.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Set_Theory/Cantor's_theorem.personal|Cantor's_theorem.personal]] 
 
-### #is_/same_as :: [Cantor's_theorem.secret](/_secret/Mathematics/Set_Theory/Cantor's_theorem.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Set_Theory/Cantor's_theorem.secret|Cantor's_theorem.secret]] 
 

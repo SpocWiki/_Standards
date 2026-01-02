@@ -35,17 +35,17 @@ type: private_note
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Garfield,James_A](/_Standards/Earth/Continent/America~North/US~President/Garfield,James_A.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~North/USA/US_President/Garfield,James_A|Garfield,James_A]] 
 
-### #is_/same_as :: [Garfield,James_A.public](/_public/Earth/Continent/America~North/US~President/Garfield,James_A.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~North/USA/US_President/Garfield,James_A.public|Garfield,James_A.public]] 
 
-### #is_/same_as :: [Garfield,James_A.internal](/_internal/Earth/Continent/America~North/US~President/Garfield,James_A.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~North/USA/US_President/Garfield,James_A.internal|Garfield,James_A.internal]] 
 
-### #is_/same_as :: [Garfield,James_A.protect](/_protect/Earth/Continent/America~North/US~President/Garfield,James_A.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~North/USA/US_President/Garfield,James_A.protect|Garfield,James_A.protect]] 
 
-### #is_/same_as :: [Garfield,James_A.private](/_private/Earth/Continent/America~North/US~President/Garfield,James_A.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~North/USA/US_President/Garfield,James_A.private|Garfield,James_A.private]] 
 
-### #is_/same_as :: [Garfield,James_A.personal](/_personal/Earth/Continent/America~North/US~President/Garfield,James_A.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~North/USA/US_President/Garfield,James_A.personal|Garfield,James_A.personal]] 
 
-### #is_/same_as :: [Garfield,James_A.secret](/_secret/Earth/Continent/America~North/US~President/Garfield,James_A.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~North/USA/US_President/Garfield,James_A.secret|Garfield,James_A.secret]] 
 

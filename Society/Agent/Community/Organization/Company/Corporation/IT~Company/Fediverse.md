@@ -20,17 +20,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Fediverse](/_Standards/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Fediverse.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Fediverse|Fediverse]] 
 
-### #is_/same_as :: [Fediverse.public](/_public/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Fediverse.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Fediverse.public|Fediverse.public]] 
 
-### #is_/same_as :: [Fediverse.internal](/_internal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Fediverse.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Fediverse.internal|Fediverse.internal]] 
 
-### #is_/same_as :: [Fediverse.protect](/_protect/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Fediverse.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Fediverse.protect|Fediverse.protect]] 
 
-### #is_/same_as :: [Fediverse.private](/_private/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Fediverse.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Fediverse.private|Fediverse.private]] 
 
-### #is_/same_as :: [Fediverse.personal](/_personal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Fediverse.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Fediverse.personal|Fediverse.personal]] 
 
-### #is_/same_as :: [Fediverse.secret](/_secret/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Fediverse.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Fediverse.secret|Fediverse.secret]] 
 

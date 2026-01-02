@@ -76,17 +76,17 @@ Copyright ::   © 1996 [BIODIDAC](http://biodidac.bio.uottawa.ca/index.htm)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Kinorhyncha](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Kinorhyncha.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Kinorhyncha|Kinorhyncha]] 
 
-### #is_/same_as :: [Kinorhyncha.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Kinorhyncha.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Kinorhyncha.public|Kinorhyncha.public]] 
 
-### #is_/same_as :: [Kinorhyncha.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Kinorhyncha.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Kinorhyncha.internal|Kinorhyncha.internal]] 
 
-### #is_/same_as :: [Kinorhyncha.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Kinorhyncha.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Kinorhyncha.protect|Kinorhyncha.protect]] 
 
-### #is_/same_as :: [Kinorhyncha.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Kinorhyncha.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Kinorhyncha.private|Kinorhyncha.private]] 
 
-### #is_/same_as :: [Kinorhyncha.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Kinorhyncha.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Kinorhyncha.personal|Kinorhyncha.personal]] 
 
-### #is_/same_as :: [Kinorhyncha.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Kinorhyncha.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Kinorhyncha.secret|Kinorhyncha.secret]] 
 

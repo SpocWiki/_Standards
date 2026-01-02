@@ -59,17 +59,17 @@ IPTC_NewsCode: mediatopic/20000346
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Macroeconomics](/_Standards/Society/Economics/Macroeconomics.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Macroeconomics|Macroeconomics]] 
 
-### #is_/same_as :: [Macroeconomics.public](/_public/Society/Economics/Macroeconomics.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Macroeconomics.public|Macroeconomics.public]] 
 
-### #is_/same_as :: [Macroeconomics.internal](/_internal/Society/Economics/Macroeconomics.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Macroeconomics.internal|Macroeconomics.internal]] 
 
-### #is_/same_as :: [Macroeconomics.protect](/_protect/Society/Economics/Macroeconomics.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Macroeconomics.protect|Macroeconomics.protect]] 
 
-### #is_/same_as :: [Macroeconomics.private](/_private/Society/Economics/Macroeconomics.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Macroeconomics.private|Macroeconomics.private]] 
 
-### #is_/same_as :: [Macroeconomics.personal](/_personal/Society/Economics/Macroeconomics.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Macroeconomics.personal|Macroeconomics.personal]] 
 
-### #is_/same_as :: [Macroeconomics.secret](/_secret/Society/Economics/Macroeconomics.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Macroeconomics.secret|Macroeconomics.secret]] 
 

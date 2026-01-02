@@ -63,17 +63,17 @@ IEV_number: 171-04-05
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Central_Processing_Unit](/_Standards/Technology/IT/Computer_Hardware/Central_Processing_Unit.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Computer_Hardware/Central_Processing_Unit|Central_Processing_Unit]] 
 
-### #is_/same_as :: [Central_Processing_Unit.public](/_public/Technology/IT/Computer_Hardware/Central_Processing_Unit.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Computer_Hardware/Central_Processing_Unit.public|Central_Processing_Unit.public]] 
 
-### #is_/same_as :: [Central_Processing_Unit.internal](/_internal/Technology/IT/Computer_Hardware/Central_Processing_Unit.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Computer_Hardware/Central_Processing_Unit.internal|Central_Processing_Unit.internal]] 
 
-### #is_/same_as :: [Central_Processing_Unit.protect](/_protect/Technology/IT/Computer_Hardware/Central_Processing_Unit.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Computer_Hardware/Central_Processing_Unit.protect|Central_Processing_Unit.protect]] 
 
-### #is_/same_as :: [Central_Processing_Unit.private](/_private/Technology/IT/Computer_Hardware/Central_Processing_Unit.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Computer_Hardware/Central_Processing_Unit.private|Central_Processing_Unit.private]] 
 
-### #is_/same_as :: [Central_Processing_Unit.personal](/_personal/Technology/IT/Computer_Hardware/Central_Processing_Unit.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Computer_Hardware/Central_Processing_Unit.personal|Central_Processing_Unit.personal]] 
 
-### #is_/same_as :: [Central_Processing_Unit.secret](/_secret/Technology/IT/Computer_Hardware/Central_Processing_Unit.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Computer_Hardware/Central_Processing_Unit.secret|Central_Processing_Unit.secret]] 
 

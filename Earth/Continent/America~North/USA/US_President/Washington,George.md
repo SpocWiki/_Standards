@@ -234,17 +234,17 @@ IMDb_keyword: reference-to-george-washington
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Washington,George](/_Standards/Earth/Continent/America~North/US~President/Washington,George.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~North/USA/US_President/Washington,George|Washington,George]] 
 
-### #is_/same_as :: [Washington,George.public](/_public/Earth/Continent/America~North/US~President/Washington,George.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~North/USA/US_President/Washington,George.public|Washington,George.public]] 
 
-### #is_/same_as :: [Washington,George.internal](/_internal/Earth/Continent/America~North/US~President/Washington,George.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~North/USA/US_President/Washington,George.internal|Washington,George.internal]] 
 
-### #is_/same_as :: [Washington,George.protect](/_protect/Earth/Continent/America~North/US~President/Washington,George.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~North/USA/US_President/Washington,George.protect|Washington,George.protect]] 
 
-### #is_/same_as :: [Washington,George.private](/_private/Earth/Continent/America~North/US~President/Washington,George.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~North/USA/US_President/Washington,George.private|Washington,George.private]] 
 
-### #is_/same_as :: [Washington,George.personal](/_personal/Earth/Continent/America~North/US~President/Washington,George.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~North/USA/US_President/Washington,George.personal|Washington,George.personal]] 
 
-### #is_/same_as :: [Washington,George.secret](/_secret/Earth/Continent/America~North/US~President/Washington,George.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~North/USA/US_President/Washington,George.secret|Washington,George.secret]] 
 

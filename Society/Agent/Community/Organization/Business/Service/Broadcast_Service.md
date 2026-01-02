@@ -43,17 +43,17 @@ A delivery service through which content is provided via broadcast over the air 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Broadcast_Service](/_Standards/Society/Agent/Community/Organization/Business/Service/Broadcast_Service.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Business/Service/Broadcast_Service|Broadcast_Service]] 
 
-### #is_/same_as :: [Broadcast_Service.public](/_public/Society/Agent/Community/Organization/Business/Service/Broadcast_Service.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Business/Service/Broadcast_Service.public|Broadcast_Service.public]] 
 
-### #is_/same_as :: [Broadcast_Service.internal](/_internal/Society/Agent/Community/Organization/Business/Service/Broadcast_Service.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Business/Service/Broadcast_Service.internal|Broadcast_Service.internal]] 
 
-### #is_/same_as :: [Broadcast_Service.protect](/_protect/Society/Agent/Community/Organization/Business/Service/Broadcast_Service.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Business/Service/Broadcast_Service.protect|Broadcast_Service.protect]] 
 
-### #is_/same_as :: [Broadcast_Service.private](/_private/Society/Agent/Community/Organization/Business/Service/Broadcast_Service.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Business/Service/Broadcast_Service.private|Broadcast_Service.private]] 
 
-### #is_/same_as :: [Broadcast_Service.personal](/_personal/Society/Agent/Community/Organization/Business/Service/Broadcast_Service.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Business/Service/Broadcast_Service.personal|Broadcast_Service.personal]] 
 
-### #is_/same_as :: [Broadcast_Service.secret](/_secret/Society/Agent/Community/Organization/Business/Service/Broadcast_Service.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Business/Service/Broadcast_Service.secret|Broadcast_Service.secret]] 
 

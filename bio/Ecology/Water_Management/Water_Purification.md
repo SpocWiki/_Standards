@@ -68,17 +68,17 @@ Dewey_Decimal_Classification: "628.162"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Water_Purification](/_Standards/bio/Ecology/Water_Management/Water_Purification.md) 
+### #is_/same_as :: [[/_Standards/bio/Ecology/Water_Management/Water_Purification|Water_Purification]] 
 
-### #is_/same_as :: [Water_Purification.public](/_public/bio/Ecology/Water_Management/Water_Purification.public.md) 
+### #is_/same_as :: [[/_public/bio/Ecology/Water_Management/Water_Purification.public|Water_Purification.public]] 
 
-### #is_/same_as :: [Water_Purification.internal](/_internal/bio/Ecology/Water_Management/Water_Purification.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Ecology/Water_Management/Water_Purification.internal|Water_Purification.internal]] 
 
-### #is_/same_as :: [Water_Purification.protect](/_protect/bio/Ecology/Water_Management/Water_Purification.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Ecology/Water_Management/Water_Purification.protect|Water_Purification.protect]] 
 
-### #is_/same_as :: [Water_Purification.private](/_private/bio/Ecology/Water_Management/Water_Purification.private.md) 
+### #is_/same_as :: [[/_private/bio/Ecology/Water_Management/Water_Purification.private|Water_Purification.private]] 
 
-### #is_/same_as :: [Water_Purification.personal](/_personal/bio/Ecology/Water_Management/Water_Purification.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Ecology/Water_Management/Water_Purification.personal|Water_Purification.personal]] 
 
-### #is_/same_as :: [Water_Purification.secret](/_secret/bio/Ecology/Water_Management/Water_Purification.secret.md)
+### #is_/same_as :: [[/_secret/bio/Ecology/Water_Management/Water_Purification.secret|Water_Purification.secret]] 
 

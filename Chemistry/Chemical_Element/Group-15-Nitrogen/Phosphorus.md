@@ -171,17 +171,17 @@ so-called sp³d hybridization with [[Trigonal_bipyramidal_Geometry]].
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Phosphorus](/_Standards/Chemistry/Chemical_Element/Group-15-Nitrogen/Phosphorus.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Chemical_Element/Group-15-Nitrogen/Phosphorus|Phosphorus]] 
 
-### #is_/same_as :: [Phosphorus.public](/_public/Chemistry/Chemical_Element/Group-15-Nitrogen/Phosphorus.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Chemical_Element/Group-15-Nitrogen/Phosphorus.public|Phosphorus.public]] 
 
-### #is_/same_as :: [Phosphorus.internal](/_internal/Chemistry/Chemical_Element/Group-15-Nitrogen/Phosphorus.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Chemical_Element/Group-15-Nitrogen/Phosphorus.internal|Phosphorus.internal]] 
 
-### #is_/same_as :: [Phosphorus.protect](/_protect/Chemistry/Chemical_Element/Group-15-Nitrogen/Phosphorus.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Chemical_Element/Group-15-Nitrogen/Phosphorus.protect|Phosphorus.protect]] 
 
-### #is_/same_as :: [Phosphorus.private](/_private/Chemistry/Chemical_Element/Group-15-Nitrogen/Phosphorus.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Chemical_Element/Group-15-Nitrogen/Phosphorus.private|Phosphorus.private]] 
 
-### #is_/same_as :: [Phosphorus.personal](/_personal/Chemistry/Chemical_Element/Group-15-Nitrogen/Phosphorus.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Chemical_Element/Group-15-Nitrogen/Phosphorus.personal|Phosphorus.personal]] 
 
-### #is_/same_as :: [Phosphorus.secret](/_secret/Chemistry/Chemical_Element/Group-15-Nitrogen/Phosphorus.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Chemical_Element/Group-15-Nitrogen/Phosphorus.secret|Phosphorus.secret]] 
 

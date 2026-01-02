@@ -7,17 +7,17 @@ Each time you call `createObjectURL()`, a new object URL is created, even if you
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [blob-URL](/_Standards/Technology/IT/Computer_Science/Computer_Scientist/blob-URL.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Computer_Science/Computer_Scientist/blob-URL|blob-URL]] 
 
-### #is_/same_as :: [blob-URL.public](/_public/Technology/IT/Computer_Science/Computer_Scientist/blob-URL.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Computer_Science/Computer_Scientist/blob-URL.public|blob-URL.public]] 
 
-### #is_/same_as :: [blob-URL.internal](/_internal/Technology/IT/Computer_Science/Computer_Scientist/blob-URL.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Computer_Science/Computer_Scientist/blob-URL.internal|blob-URL.internal]] 
 
-### #is_/same_as :: [blob-URL.protect](/_protect/Technology/IT/Computer_Science/Computer_Scientist/blob-URL.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Computer_Science/Computer_Scientist/blob-URL.protect|blob-URL.protect]] 
 
-### #is_/same_as :: [blob-URL.private](/_private/Technology/IT/Computer_Science/Computer_Scientist/blob-URL.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Computer_Science/Computer_Scientist/blob-URL.private|blob-URL.private]] 
 
-### #is_/same_as :: [blob-URL.personal](/_personal/Technology/IT/Computer_Science/Computer_Scientist/blob-URL.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Computer_Science/Computer_Scientist/blob-URL.personal|blob-URL.personal]] 
 
-### #is_/same_as :: [blob-URL.secret](/_secret/Technology/IT/Computer_Science/Computer_Scientist/blob-URL.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Computer_Science/Computer_Scientist/blob-URL.secret|blob-URL.secret]] 
 

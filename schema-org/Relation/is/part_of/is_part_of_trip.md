@@ -47,17 +47,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [is_part_of_trip](/_Standards/schema-org/Relation/is/part_of/is_part_of_trip.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/is/part_of/is_part_of_trip|is_part_of_trip]] 
 
-### #is_/same_as :: [is_part_of_trip.public](/_public/schema-org/Relation/is/part_of/is_part_of_trip.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/is/part_of/is_part_of_trip.public|is_part_of_trip.public]] 
 
-### #is_/same_as :: [is_part_of_trip.internal](/_internal/schema-org/Relation/is/part_of/is_part_of_trip.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/is/part_of/is_part_of_trip.internal|is_part_of_trip.internal]] 
 
-### #is_/same_as :: [is_part_of_trip.protect](/_protect/schema-org/Relation/is/part_of/is_part_of_trip.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/is/part_of/is_part_of_trip.protect|is_part_of_trip.protect]] 
 
-### #is_/same_as :: [is_part_of_trip.private](/_private/schema-org/Relation/is/part_of/is_part_of_trip.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/is/part_of/is_part_of_trip.private|is_part_of_trip.private]] 
 
-### #is_/same_as :: [is_part_of_trip.personal](/_personal/schema-org/Relation/is/part_of/is_part_of_trip.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/is/part_of/is_part_of_trip.personal|is_part_of_trip.personal]] 
 
-### #is_/same_as :: [is_part_of_trip.secret](/_secret/schema-org/Relation/is/part_of/is_part_of_trip.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/is/part_of/is_part_of_trip.secret|is_part_of_trip.secret]] 
 

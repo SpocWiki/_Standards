@@ -232,17 +232,17 @@ Wolfram_Language_entity_code: Entity["MusicAct", "DollyParton::34d56"]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Parton,Dolly](/_Standards/Society/Communication/Media/Music/Musician/Singer/Country_Singer/Parton,Dolly.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Musician/Singer/Country_Singer/Parton,Dolly|Parton,Dolly]] 
 
-### #is_/same_as :: [Parton,Dolly.public](/_public/Society/Communication/Media/Music/Musician/Singer/Country_Singer/Parton,Dolly.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Musician/Singer/Country_Singer/Parton,Dolly.public|Parton,Dolly.public]] 
 
-### #is_/same_as :: [Parton,Dolly.internal](/_internal/Society/Communication/Media/Music/Musician/Singer/Country_Singer/Parton,Dolly.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Musician/Singer/Country_Singer/Parton,Dolly.internal|Parton,Dolly.internal]] 
 
-### #is_/same_as :: [Parton,Dolly.protect](/_protect/Society/Communication/Media/Music/Musician/Singer/Country_Singer/Parton,Dolly.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Musician/Singer/Country_Singer/Parton,Dolly.protect|Parton,Dolly.protect]] 
 
-### #is_/same_as :: [Parton,Dolly.private](/_private/Society/Communication/Media/Music/Musician/Singer/Country_Singer/Parton,Dolly.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Musician/Singer/Country_Singer/Parton,Dolly.private|Parton,Dolly.private]] 
 
-### #is_/same_as :: [Parton,Dolly.personal](/_personal/Society/Communication/Media/Music/Musician/Singer/Country_Singer/Parton,Dolly.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Musician/Singer/Country_Singer/Parton,Dolly.personal|Parton,Dolly.personal]] 
 
-### #is_/same_as :: [Parton,Dolly.secret](/_secret/Society/Communication/Media/Music/Musician/Singer/Country_Singer/Parton,Dolly.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Musician/Singer/Country_Singer/Parton,Dolly.secret|Parton,Dolly.secret]] 
 

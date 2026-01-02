@@ -49,17 +49,17 @@ IMA_Mineral_Symbol: Kln
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Kaolinite](/_Standards/Earth/Geology/Mineral/Kaolinite.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geology/Mineral/Kaolinite|Kaolinite]] 
 
-### #is_/same_as :: [Kaolinite.public](/_public/Earth/Geology/Mineral/Kaolinite.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geology/Mineral/Kaolinite.public|Kaolinite.public]] 
 
-### #is_/same_as :: [Kaolinite.internal](/_internal/Earth/Geology/Mineral/Kaolinite.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geology/Mineral/Kaolinite.internal|Kaolinite.internal]] 
 
-### #is_/same_as :: [Kaolinite.protect](/_protect/Earth/Geology/Mineral/Kaolinite.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geology/Mineral/Kaolinite.protect|Kaolinite.protect]] 
 
-### #is_/same_as :: [Kaolinite.private](/_private/Earth/Geology/Mineral/Kaolinite.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geology/Mineral/Kaolinite.private|Kaolinite.private]] 
 
-### #is_/same_as :: [Kaolinite.personal](/_personal/Earth/Geology/Mineral/Kaolinite.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geology/Mineral/Kaolinite.personal|Kaolinite.personal]] 
 
-### #is_/same_as :: [Kaolinite.secret](/_secret/Earth/Geology/Mineral/Kaolinite.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geology/Mineral/Kaolinite.secret|Kaolinite.secret]] 
 

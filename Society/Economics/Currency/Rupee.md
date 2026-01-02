@@ -32,17 +32,17 @@ Commons_category: Rupees
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Rupee](/_Standards/Society/Economics/Currency/Rupee.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Currency/Rupee|Rupee]] 
 
-### #is_/same_as :: [Rupee.public](/_public/Society/Economics/Currency/Rupee.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Currency/Rupee.public|Rupee.public]] 
 
-### #is_/same_as :: [Rupee.internal](/_internal/Society/Economics/Currency/Rupee.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Currency/Rupee.internal|Rupee.internal]] 
 
-### #is_/same_as :: [Rupee.protect](/_protect/Society/Economics/Currency/Rupee.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Currency/Rupee.protect|Rupee.protect]] 
 
-### #is_/same_as :: [Rupee.private](/_private/Society/Economics/Currency/Rupee.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Currency/Rupee.private|Rupee.private]] 
 
-### #is_/same_as :: [Rupee.personal](/_personal/Society/Economics/Currency/Rupee.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Currency/Rupee.personal|Rupee.personal]] 
 
-### #is_/same_as :: [Rupee.secret](/_secret/Society/Economics/Currency/Rupee.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Currency/Rupee.secret|Rupee.secret]] 
 

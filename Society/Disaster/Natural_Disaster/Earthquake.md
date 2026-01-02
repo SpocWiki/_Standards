@@ -152,17 +152,17 @@ N4IgLgngDgpiBcIYA8DGBDANgSwCYCd0B3EAGhADcZ8BnbAewDsEAmcm+gV31TkQAswYKDXgB6MQHNsY
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Earthquake](/_Standards/Society/Disaster/Natural_Disaster/Earthquake.md) 
+### #is_/same_as :: [[/_Standards/Society/Disaster/Natural_Disaster/Earthquake|Earthquake]] 
 
-### #is_/same_as :: [Earthquake.public](/_public/Society/Disaster/Natural_Disaster/Earthquake.public.md) 
+### #is_/same_as :: [[/_public/Society/Disaster/Natural_Disaster/Earthquake.public|Earthquake.public]] 
 
-### #is_/same_as :: [Earthquake.internal](/_internal/Society/Disaster/Natural_Disaster/Earthquake.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Disaster/Natural_Disaster/Earthquake.internal|Earthquake.internal]] 
 
-### #is_/same_as :: [Earthquake.protect](/_protect/Society/Disaster/Natural_Disaster/Earthquake.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Disaster/Natural_Disaster/Earthquake.protect|Earthquake.protect]] 
 
-### #is_/same_as :: [Earthquake.private](/_private/Society/Disaster/Natural_Disaster/Earthquake.private.md) 
+### #is_/same_as :: [[/_private/Society/Disaster/Natural_Disaster/Earthquake.private|Earthquake.private]] 
 
-### #is_/same_as :: [Earthquake.personal](/_personal/Society/Disaster/Natural_Disaster/Earthquake.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Disaster/Natural_Disaster/Earthquake.personal|Earthquake.personal]] 
 
-### #is_/same_as :: [Earthquake.secret](/_secret/Society/Disaster/Natural_Disaster/Earthquake.secret.md)
+### #is_/same_as :: [[/_secret/Society/Disaster/Natural_Disaster/Earthquake.secret|Earthquake.secret]] 
 

@@ -200,17 +200,17 @@ described_at_URL:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sommerfeld,Arnold](/_Standards/Science/Physics/Physicist/Sommerfeld,Arnold.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Physicist/Sommerfeld,Arnold|Sommerfeld,Arnold]] 
 
-### #is_/same_as :: [Sommerfeld,Arnold.public](/_public/Science/Physics/Physicist/Sommerfeld,Arnold.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Physicist/Sommerfeld,Arnold.public|Sommerfeld,Arnold.public]] 
 
-### #is_/same_as :: [Sommerfeld,Arnold.internal](/_internal/Science/Physics/Physicist/Sommerfeld,Arnold.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Physicist/Sommerfeld,Arnold.internal|Sommerfeld,Arnold.internal]] 
 
-### #is_/same_as :: [Sommerfeld,Arnold.protect](/_protect/Science/Physics/Physicist/Sommerfeld,Arnold.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Physicist/Sommerfeld,Arnold.protect|Sommerfeld,Arnold.protect]] 
 
-### #is_/same_as :: [Sommerfeld,Arnold.private](/_private/Science/Physics/Physicist/Sommerfeld,Arnold.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Physicist/Sommerfeld,Arnold.private|Sommerfeld,Arnold.private]] 
 
-### #is_/same_as :: [Sommerfeld,Arnold.personal](/_personal/Science/Physics/Physicist/Sommerfeld,Arnold.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Physicist/Sommerfeld,Arnold.personal|Sommerfeld,Arnold.personal]] 
 
-### #is_/same_as :: [Sommerfeld,Arnold.secret](/_secret/Science/Physics/Physicist/Sommerfeld,Arnold.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Physicist/Sommerfeld,Arnold.secret|Sommerfeld,Arnold.secret]] 
 

@@ -83,17 +83,17 @@ date_of_death: 1521-01-01T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ponce_de_León,Juan](/_Standards/Earth/Explorer/Age_of_Discovery/Ponce_de_León,Juan.md) 
+### #is_/same_as :: [[/_Standards/Earth/Explorer/Age_of_Discovery/Ponce_de_León,Juan|Ponce_de_León,Juan]] 
 
-### #is_/same_as :: [Ponce_de_León,Juan.public](/_public/Earth/Explorer/Age_of_Discovery/Ponce_de_León,Juan.public.md) 
+### #is_/same_as :: [[/_public/Earth/Explorer/Age_of_Discovery/Ponce_de_León,Juan.public|Ponce_de_León,Juan.public]] 
 
-### #is_/same_as :: [Ponce_de_León,Juan.internal](/_internal/Earth/Explorer/Age_of_Discovery/Ponce_de_León,Juan.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Explorer/Age_of_Discovery/Ponce_de_León,Juan.internal|Ponce_de_León,Juan.internal]] 
 
-### #is_/same_as :: [Ponce_de_León,Juan.protect](/_protect/Earth/Explorer/Age_of_Discovery/Ponce_de_León,Juan.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Explorer/Age_of_Discovery/Ponce_de_León,Juan.protect|Ponce_de_León,Juan.protect]] 
 
-### #is_/same_as :: [Ponce_de_León,Juan.private](/_private/Earth/Explorer/Age_of_Discovery/Ponce_de_León,Juan.private.md) 
+### #is_/same_as :: [[/_private/Earth/Explorer/Age_of_Discovery/Ponce_de_León,Juan.private|Ponce_de_León,Juan.private]] 
 
-### #is_/same_as :: [Ponce_de_León,Juan.personal](/_personal/Earth/Explorer/Age_of_Discovery/Ponce_de_León,Juan.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Explorer/Age_of_Discovery/Ponce_de_León,Juan.personal|Ponce_de_León,Juan.personal]] 
 
-### #is_/same_as :: [Ponce_de_León,Juan.secret](/_secret/Earth/Explorer/Age_of_Discovery/Ponce_de_León,Juan.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Explorer/Age_of_Discovery/Ponce_de_León,Juan.secret|Ponce_de_León,Juan.secret]] 
 

@@ -57,17 +57,17 @@ Commons_gallery: Cultivator
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Cultivator](/_Standards/Society/Economics/Industry/Agriculture/Cultivator.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Industry/Agriculture/Cultivator|Cultivator]] 
 
-### #is_/same_as :: [Cultivator.public](/_public/Society/Economics/Industry/Agriculture/Cultivator.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Industry/Agriculture/Cultivator.public|Cultivator.public]] 
 
-### #is_/same_as :: [Cultivator.internal](/_internal/Society/Economics/Industry/Agriculture/Cultivator.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Industry/Agriculture/Cultivator.internal|Cultivator.internal]] 
 
-### #is_/same_as :: [Cultivator.protect](/_protect/Society/Economics/Industry/Agriculture/Cultivator.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Industry/Agriculture/Cultivator.protect|Cultivator.protect]] 
 
-### #is_/same_as :: [Cultivator.private](/_private/Society/Economics/Industry/Agriculture/Cultivator.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Industry/Agriculture/Cultivator.private|Cultivator.private]] 
 
-### #is_/same_as :: [Cultivator.personal](/_personal/Society/Economics/Industry/Agriculture/Cultivator.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Industry/Agriculture/Cultivator.personal|Cultivator.personal]] 
 
-### #is_/same_as :: [Cultivator.secret](/_secret/Society/Economics/Industry/Agriculture/Cultivator.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Industry/Agriculture/Cultivator.secret|Cultivator.secret]] 
 

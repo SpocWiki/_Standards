@@ -186,17 +186,17 @@ Wolfram_Language_entity_code:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Mickey_Mouse](/_Standards/Society/Communication/Media/Movie/Movie-Director/Disney,Walt/Mickey_Mouse.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Director/Disney,Walt/Mickey_Mouse|Mickey_Mouse]] 
 
-### #is_/same_as :: [Mickey_Mouse.public](/_public/Society/Communication/Media/Movie/Movie-Director/Disney,Walt/Mickey_Mouse.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Director/Disney,Walt/Mickey_Mouse.public|Mickey_Mouse.public]] 
 
-### #is_/same_as :: [Mickey_Mouse.internal](/_internal/Society/Communication/Media/Movie/Movie-Director/Disney,Walt/Mickey_Mouse.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Director/Disney,Walt/Mickey_Mouse.internal|Mickey_Mouse.internal]] 
 
-### #is_/same_as :: [Mickey_Mouse.protect](/_protect/Society/Communication/Media/Movie/Movie-Director/Disney,Walt/Mickey_Mouse.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Director/Disney,Walt/Mickey_Mouse.protect|Mickey_Mouse.protect]] 
 
-### #is_/same_as :: [Mickey_Mouse.private](/_private/Society/Communication/Media/Movie/Movie-Director/Disney,Walt/Mickey_Mouse.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Director/Disney,Walt/Mickey_Mouse.private|Mickey_Mouse.private]] 
 
-### #is_/same_as :: [Mickey_Mouse.personal](/_personal/Society/Communication/Media/Movie/Movie-Director/Disney,Walt/Mickey_Mouse.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Director/Disney,Walt/Mickey_Mouse.personal|Mickey_Mouse.personal]] 
 
-### #is_/same_as :: [Mickey_Mouse.secret](/_secret/Society/Communication/Media/Movie/Movie-Director/Disney,Walt/Mickey_Mouse.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Director/Disney,Walt/Mickey_Mouse.secret|Mickey_Mouse.secret]] 
 

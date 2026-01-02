@@ -16,17 +16,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Huey_Lewis](/_Standards/Society/Communication/Media/Music/Musician/Pop-Musician/Huey_Lewis.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Musician/Pop-Musician/Huey_Lewis|Huey_Lewis]] 
 
-### #is_/same_as :: [Huey_Lewis.public](/_public/Society/Communication/Media/Music/Musician/Pop-Musician/Huey_Lewis.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Musician/Pop-Musician/Huey_Lewis.public|Huey_Lewis.public]] 
 
-### #is_/same_as :: [Huey_Lewis.internal](/_internal/Society/Communication/Media/Music/Musician/Pop-Musician/Huey_Lewis.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Musician/Pop-Musician/Huey_Lewis.internal|Huey_Lewis.internal]] 
 
-### #is_/same_as :: [Huey_Lewis.protect](/_protect/Society/Communication/Media/Music/Musician/Pop-Musician/Huey_Lewis.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Musician/Pop-Musician/Huey_Lewis.protect|Huey_Lewis.protect]] 
 
-### #is_/same_as :: [Huey_Lewis.private](/_private/Society/Communication/Media/Music/Musician/Pop-Musician/Huey_Lewis.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Musician/Pop-Musician/Huey_Lewis.private|Huey_Lewis.private]] 
 
-### #is_/same_as :: [Huey_Lewis.personal](/_personal/Society/Communication/Media/Music/Musician/Pop-Musician/Huey_Lewis.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Musician/Pop-Musician/Huey_Lewis.personal|Huey_Lewis.personal]] 
 
-### #is_/same_as :: [Huey_Lewis.secret](/_secret/Society/Communication/Media/Music/Musician/Pop-Musician/Huey_Lewis.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Musician/Pop-Musician/Huey_Lewis.secret|Huey_Lewis.secret]] 
 

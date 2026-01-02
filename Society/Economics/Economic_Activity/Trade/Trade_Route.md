@@ -30,17 +30,17 @@ Commons_category: Trade routes
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Trade_Route](/_Standards/Society/Economics/Economic_Activity/Trade/Trade_Route.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Economic_Activity/Trade/Trade_Route|Trade_Route]] 
 
-### #is_/same_as :: [Trade_Route.public](/_public/Society/Economics/Economic_Activity/Trade/Trade_Route.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Economic_Activity/Trade/Trade_Route.public|Trade_Route.public]] 
 
-### #is_/same_as :: [Trade_Route.internal](/_internal/Society/Economics/Economic_Activity/Trade/Trade_Route.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Economic_Activity/Trade/Trade_Route.internal|Trade_Route.internal]] 
 
-### #is_/same_as :: [Trade_Route.protect](/_protect/Society/Economics/Economic_Activity/Trade/Trade_Route.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Economic_Activity/Trade/Trade_Route.protect|Trade_Route.protect]] 
 
-### #is_/same_as :: [Trade_Route.private](/_private/Society/Economics/Economic_Activity/Trade/Trade_Route.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Economic_Activity/Trade/Trade_Route.private|Trade_Route.private]] 
 
-### #is_/same_as :: [Trade_Route.personal](/_personal/Society/Economics/Economic_Activity/Trade/Trade_Route.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Economic_Activity/Trade/Trade_Route.personal|Trade_Route.personal]] 
 
-### #is_/same_as :: [Trade_Route.secret](/_secret/Society/Economics/Economic_Activity/Trade/Trade_Route.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Economic_Activity/Trade/Trade_Route.secret|Trade_Route.secret]] 
 

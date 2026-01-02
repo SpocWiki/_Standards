@@ -44,17 +44,17 @@ GS1 (formerly NRF) size system for wearables.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Wearable_Size_System_Gs1](/_Standards/schema-org/Enumeration/Size_System_Enumeration/Wearable_Size_System_Enumeration/Wearable_Size_System_Gs1.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Size_System_Enumeration/Wearable_Size_System_Enumeration/Wearable_Size_System_Gs1|Wearable_Size_System_Gs1]] 
 
-### #is_/same_as :: [Wearable_Size_System_Gs1.public](/_public/schema-org/Enumeration/Size_System_Enumeration/Wearable_Size_System_Enumeration/Wearable_Size_System_Gs1.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Size_System_Enumeration/Wearable_Size_System_Enumeration/Wearable_Size_System_Gs1.public|Wearable_Size_System_Gs1.public]] 
 
-### #is_/same_as :: [Wearable_Size_System_Gs1.internal](/_internal/schema-org/Enumeration/Size_System_Enumeration/Wearable_Size_System_Enumeration/Wearable_Size_System_Gs1.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Size_System_Enumeration/Wearable_Size_System_Enumeration/Wearable_Size_System_Gs1.internal|Wearable_Size_System_Gs1.internal]] 
 
-### #is_/same_as :: [Wearable_Size_System_Gs1.protect](/_protect/schema-org/Enumeration/Size_System_Enumeration/Wearable_Size_System_Enumeration/Wearable_Size_System_Gs1.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Size_System_Enumeration/Wearable_Size_System_Enumeration/Wearable_Size_System_Gs1.protect|Wearable_Size_System_Gs1.protect]] 
 
-### #is_/same_as :: [Wearable_Size_System_Gs1.private](/_private/schema-org/Enumeration/Size_System_Enumeration/Wearable_Size_System_Enumeration/Wearable_Size_System_Gs1.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Size_System_Enumeration/Wearable_Size_System_Enumeration/Wearable_Size_System_Gs1.private|Wearable_Size_System_Gs1.private]] 
 
-### #is_/same_as :: [Wearable_Size_System_Gs1.personal](/_personal/schema-org/Enumeration/Size_System_Enumeration/Wearable_Size_System_Enumeration/Wearable_Size_System_Gs1.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Size_System_Enumeration/Wearable_Size_System_Enumeration/Wearable_Size_System_Gs1.personal|Wearable_Size_System_Gs1.personal]] 
 
-### #is_/same_as :: [Wearable_Size_System_Gs1.secret](/_secret/schema-org/Enumeration/Size_System_Enumeration/Wearable_Size_System_Enumeration/Wearable_Size_System_Gs1.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Size_System_Enumeration/Wearable_Size_System_Enumeration/Wearable_Size_System_Gs1.secret|Wearable_Size_System_Gs1.secret]] 
 

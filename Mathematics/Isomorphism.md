@@ -79,17 +79,17 @@ GitHub_topic: isomorphism
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Isomorphism](/_Standards/Mathematics/Isomorphism.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Isomorphism|Isomorphism]] 
 
-### #is_/same_as :: [Isomorphism.public](/_public/Mathematics/Isomorphism.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Isomorphism.public|Isomorphism.public]] 
 
-### #is_/same_as :: [Isomorphism.internal](/_internal/Mathematics/Isomorphism.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Isomorphism.internal|Isomorphism.internal]] 
 
-### #is_/same_as :: [Isomorphism.protect](/_protect/Mathematics/Isomorphism.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Isomorphism.protect|Isomorphism.protect]] 
 
-### #is_/same_as :: [Isomorphism.private](/_private/Mathematics/Isomorphism.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Isomorphism.private|Isomorphism.private]] 
 
-### #is_/same_as :: [Isomorphism.personal](/_personal/Mathematics/Isomorphism.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Isomorphism.personal|Isomorphism.personal]] 
 
-### #is_/same_as :: [Isomorphism.secret](/_secret/Mathematics/Isomorphism.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Isomorphism.secret|Isomorphism.secret]] 
 

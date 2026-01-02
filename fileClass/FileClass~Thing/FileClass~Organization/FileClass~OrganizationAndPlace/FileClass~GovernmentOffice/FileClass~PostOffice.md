@@ -37,17 +37,17 @@ A post office.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~PostOffice](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~GovernmentOffice/FileClass~PostOffice.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~GovernmentOffice/FileClass~PostOffice|FileClass~PostOffice]] 
 
-### #is_/same_as :: [FileClass~PostOffice.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~GovernmentOffice/FileClass~PostOffice.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~GovernmentOffice/FileClass~PostOffice.public|FileClass~PostOffice.public]] 
 
-### #is_/same_as :: [FileClass~PostOffice.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~GovernmentOffice/FileClass~PostOffice.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~GovernmentOffice/FileClass~PostOffice.internal|FileClass~PostOffice.internal]] 
 
-### #is_/same_as :: [FileClass~PostOffice.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~GovernmentOffice/FileClass~PostOffice.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~GovernmentOffice/FileClass~PostOffice.protect|FileClass~PostOffice.protect]] 
 
-### #is_/same_as :: [FileClass~PostOffice.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~GovernmentOffice/FileClass~PostOffice.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~GovernmentOffice/FileClass~PostOffice.private|FileClass~PostOffice.private]] 
 
-### #is_/same_as :: [FileClass~PostOffice.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~GovernmentOffice/FileClass~PostOffice.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~GovernmentOffice/FileClass~PostOffice.personal|FileClass~PostOffice.personal]] 
 
-### #is_/same_as :: [FileClass~PostOffice.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~GovernmentOffice/FileClass~PostOffice.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~GovernmentOffice/FileClass~PostOffice.secret|FileClass~PostOffice.secret]] 
 

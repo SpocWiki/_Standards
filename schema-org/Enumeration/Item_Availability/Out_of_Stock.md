@@ -42,17 +42,17 @@ Indicates that the item is out of stock.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Out_of_Stock](/_Standards/schema-org/Enumeration/Item_Availability/Out_of_Stock.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Item_Availability/Out_of_Stock|Out_of_Stock]] 
 
-### #is_/same_as :: [Out_of_Stock.public](/_public/schema-org/Enumeration/Item_Availability/Out_of_Stock.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Item_Availability/Out_of_Stock.public|Out_of_Stock.public]] 
 
-### #is_/same_as :: [Out_of_Stock.internal](/_internal/schema-org/Enumeration/Item_Availability/Out_of_Stock.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Item_Availability/Out_of_Stock.internal|Out_of_Stock.internal]] 
 
-### #is_/same_as :: [Out_of_Stock.protect](/_protect/schema-org/Enumeration/Item_Availability/Out_of_Stock.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Item_Availability/Out_of_Stock.protect|Out_of_Stock.protect]] 
 
-### #is_/same_as :: [Out_of_Stock.private](/_private/schema-org/Enumeration/Item_Availability/Out_of_Stock.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Item_Availability/Out_of_Stock.private|Out_of_Stock.private]] 
 
-### #is_/same_as :: [Out_of_Stock.personal](/_personal/schema-org/Enumeration/Item_Availability/Out_of_Stock.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Item_Availability/Out_of_Stock.personal|Out_of_Stock.personal]] 
 
-### #is_/same_as :: [Out_of_Stock.secret](/_secret/schema-org/Enumeration/Item_Availability/Out_of_Stock.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Item_Availability/Out_of_Stock.secret|Out_of_Stock.secret]] 
 

@@ -58,17 +58,17 @@ defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Melting](/_Standards/Science/Physics/State_of_Matter/Phase_Transition/Melting.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/State_of_Matter/Phase_Transition/Melting|Melting]] 
 
-### #is_/same_as :: [Melting.public](/_public/Science/Physics/State_of_Matter/Phase_Transition/Melting.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/State_of_Matter/Phase_Transition/Melting.public|Melting.public]] 
 
-### #is_/same_as :: [Melting.internal](/_internal/Science/Physics/State_of_Matter/Phase_Transition/Melting.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/State_of_Matter/Phase_Transition/Melting.internal|Melting.internal]] 
 
-### #is_/same_as :: [Melting.protect](/_protect/Science/Physics/State_of_Matter/Phase_Transition/Melting.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/State_of_Matter/Phase_Transition/Melting.protect|Melting.protect]] 
 
-### #is_/same_as :: [Melting.private](/_private/Science/Physics/State_of_Matter/Phase_Transition/Melting.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/State_of_Matter/Phase_Transition/Melting.private|Melting.private]] 
 
-### #is_/same_as :: [Melting.personal](/_personal/Science/Physics/State_of_Matter/Phase_Transition/Melting.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/State_of_Matter/Phase_Transition/Melting.personal|Melting.personal]] 
 
-### #is_/same_as :: [Melting.secret](/_secret/Science/Physics/State_of_Matter/Phase_Transition/Melting.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/State_of_Matter/Phase_Transition/Melting.secret|Melting.secret]] 
 

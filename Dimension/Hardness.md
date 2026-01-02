@@ -55,17 +55,17 @@ Commons_category: Hardness
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hardness](/_Standards/Dimension/Hardness.md) 
+### #is_/same_as :: [[/_Standards/Dimension/Hardness|Hardness]] 
 
-### #is_/same_as :: [Hardness.public](/_public/Dimension/Hardness.public.md) 
+### #is_/same_as :: [[/_public/Dimension/Hardness.public|Hardness.public]] 
 
-### #is_/same_as :: [Hardness.internal](/_internal/Dimension/Hardness.internal.md) 
+### #is_/same_as :: [[/_internal/Dimension/Hardness.internal|Hardness.internal]] 
 
-### #is_/same_as :: [Hardness.protect](/_protect/Dimension/Hardness.protect.md) 
+### #is_/same_as :: [[/_protect/Dimension/Hardness.protect|Hardness.protect]] 
 
-### #is_/same_as :: [Hardness.private](/_private/Dimension/Hardness.private.md) 
+### #is_/same_as :: [[/_private/Dimension/Hardness.private|Hardness.private]] 
 
-### #is_/same_as :: [Hardness.personal](/_personal/Dimension/Hardness.personal.md) 
+### #is_/same_as :: [[/_personal/Dimension/Hardness.personal|Hardness.personal]] 
 
-### #is_/same_as :: [Hardness.secret](/_secret/Dimension/Hardness.secret.md)
+### #is_/same_as :: [[/_secret/Dimension/Hardness.secret|Hardness.secret]] 
 

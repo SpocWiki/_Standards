@@ -94,17 +94,17 @@ A sea (for example, the Caspian sea).
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sea](/_Standards/Earth/Ocean/Sea.md) 
+### #is_/same_as :: [[/_Standards/Earth/Ocean/Sea|Sea]] 
 
-### #is_/same_as :: [Sea.public](/_public/Earth/Ocean/Sea.public.md) 
+### #is_/same_as :: [[/_public/Earth/Ocean/Sea.public|Sea.public]] 
 
-### #is_/same_as :: [Sea.internal](/_internal/Earth/Ocean/Sea.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Ocean/Sea.internal|Sea.internal]] 
 
-### #is_/same_as :: [Sea.protect](/_protect/Earth/Ocean/Sea.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Ocean/Sea.protect|Sea.protect]] 
 
-### #is_/same_as :: [Sea.private](/_private/Earth/Ocean/Sea.private.md) 
+### #is_/same_as :: [[/_private/Earth/Ocean/Sea.private|Sea.private]] 
 
-### #is_/same_as :: [Sea.personal](/_personal/Earth/Ocean/Sea.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Ocean/Sea.personal|Sea.personal]] 
 
-### #is_/same_as :: [Sea.secret](/_secret/Earth/Ocean/Sea.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Ocean/Sea.secret|Sea.secret]] 
 

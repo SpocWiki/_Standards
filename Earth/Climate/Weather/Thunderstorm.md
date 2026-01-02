@@ -125,17 +125,17 @@ Dewey_Decimal_Classification: 551.554
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Thunderstorm](/_Standards/Earth/Climate/Weather/Thunderstorm.md) 
+### #is_/same_as :: [[/_Standards/Earth/Climate/Weather/Thunderstorm|Thunderstorm]] 
 
-### #is_/same_as :: [Thunderstorm.public](/_public/Earth/Climate/Weather/Thunderstorm.public.md) 
+### #is_/same_as :: [[/_public/Earth/Climate/Weather/Thunderstorm.public|Thunderstorm.public]] 
 
-### #is_/same_as :: [Thunderstorm.internal](/_internal/Earth/Climate/Weather/Thunderstorm.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Climate/Weather/Thunderstorm.internal|Thunderstorm.internal]] 
 
-### #is_/same_as :: [Thunderstorm.protect](/_protect/Earth/Climate/Weather/Thunderstorm.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Climate/Weather/Thunderstorm.protect|Thunderstorm.protect]] 
 
-### #is_/same_as :: [Thunderstorm.private](/_private/Earth/Climate/Weather/Thunderstorm.private.md) 
+### #is_/same_as :: [[/_private/Earth/Climate/Weather/Thunderstorm.private|Thunderstorm.private]] 
 
-### #is_/same_as :: [Thunderstorm.personal](/_personal/Earth/Climate/Weather/Thunderstorm.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Climate/Weather/Thunderstorm.personal|Thunderstorm.personal]] 
 
-### #is_/same_as :: [Thunderstorm.secret](/_secret/Earth/Climate/Weather/Thunderstorm.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Climate/Weather/Thunderstorm.secret|Thunderstorm.secret]] 
 

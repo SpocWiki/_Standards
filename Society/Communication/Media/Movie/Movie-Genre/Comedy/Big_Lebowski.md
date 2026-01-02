@@ -175,17 +175,17 @@ subreddit: thebiglebowski
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Big_Lebowski](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Comedy/Big_Lebowski.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Genre/Comedy/Big_Lebowski|Big_Lebowski]] 
 
-### #is_/same_as :: [Big_Lebowski.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Comedy/Big_Lebowski.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Genre/Comedy/Big_Lebowski.public|Big_Lebowski.public]] 
 
-### #is_/same_as :: [Big_Lebowski.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Comedy/Big_Lebowski.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Genre/Comedy/Big_Lebowski.internal|Big_Lebowski.internal]] 
 
-### #is_/same_as :: [Big_Lebowski.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Comedy/Big_Lebowski.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Genre/Comedy/Big_Lebowski.protect|Big_Lebowski.protect]] 
 
-### #is_/same_as :: [Big_Lebowski.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Comedy/Big_Lebowski.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Genre/Comedy/Big_Lebowski.private|Big_Lebowski.private]] 
 
-### #is_/same_as :: [Big_Lebowski.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Comedy/Big_Lebowski.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Genre/Comedy/Big_Lebowski.personal|Big_Lebowski.personal]] 
 
-### #is_/same_as :: [Big_Lebowski.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Comedy/Big_Lebowski.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Genre/Comedy/Big_Lebowski.secret|Big_Lebowski.secret]] 
 

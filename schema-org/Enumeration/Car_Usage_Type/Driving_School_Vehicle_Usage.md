@@ -44,17 +44,17 @@ Indicates the usage of the vehicle for driving school.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Driving_School_Vehicle_Usage](/_Standards/schema-org/Enumeration/Car_Usage_Type/Driving_School_Vehicle_Usage.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Car_Usage_Type/Driving_School_Vehicle_Usage|Driving_School_Vehicle_Usage]] 
 
-### #is_/same_as :: [Driving_School_Vehicle_Usage.public](/_public/schema-org/Enumeration/Car_Usage_Type/Driving_School_Vehicle_Usage.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Car_Usage_Type/Driving_School_Vehicle_Usage.public|Driving_School_Vehicle_Usage.public]] 
 
-### #is_/same_as :: [Driving_School_Vehicle_Usage.internal](/_internal/schema-org/Enumeration/Car_Usage_Type/Driving_School_Vehicle_Usage.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Car_Usage_Type/Driving_School_Vehicle_Usage.internal|Driving_School_Vehicle_Usage.internal]] 
 
-### #is_/same_as :: [Driving_School_Vehicle_Usage.protect](/_protect/schema-org/Enumeration/Car_Usage_Type/Driving_School_Vehicle_Usage.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Car_Usage_Type/Driving_School_Vehicle_Usage.protect|Driving_School_Vehicle_Usage.protect]] 
 
-### #is_/same_as :: [Driving_School_Vehicle_Usage.private](/_private/schema-org/Enumeration/Car_Usage_Type/Driving_School_Vehicle_Usage.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Car_Usage_Type/Driving_School_Vehicle_Usage.private|Driving_School_Vehicle_Usage.private]] 
 
-### #is_/same_as :: [Driving_School_Vehicle_Usage.personal](/_personal/schema-org/Enumeration/Car_Usage_Type/Driving_School_Vehicle_Usage.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Car_Usage_Type/Driving_School_Vehicle_Usage.personal|Driving_School_Vehicle_Usage.personal]] 
 
-### #is_/same_as :: [Driving_School_Vehicle_Usage.secret](/_secret/schema-org/Enumeration/Car_Usage_Type/Driving_School_Vehicle_Usage.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Car_Usage_Type/Driving_School_Vehicle_Usage.secret|Driving_School_Vehicle_Usage.secret]] 
 

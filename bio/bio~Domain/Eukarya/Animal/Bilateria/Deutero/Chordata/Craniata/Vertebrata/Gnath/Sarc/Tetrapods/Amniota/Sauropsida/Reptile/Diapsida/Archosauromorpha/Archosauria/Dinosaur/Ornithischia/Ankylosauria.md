@@ -303,7 +303,7 @@ acetabulum, and reduction of the pubis to a small rectangular block.
 ## Title Illustrations
 
 ---------------------------------------------------------------- 
-![Two Edmontonia males in a shoving contest of strength](Ankylosauria/edmontonia.jpg))
+![Two Edmontonia males in a shoving contest of strength](Ankylosauria/edmontonia.jpg) 
 Scientific Name ::     Edmontonia
 Location ::           North America
 Comments             Life restoration. Two males are shown in a shoving contest of strength.
@@ -314,17 +314,17 @@ Copyright ::            © 1983 Brian Franczak
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ankylosauria](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Sauropsida/Reptile/Diapsida/Archosauromorpha/Archosauria/Dinosaur/Ornithischia/Ankylosauria.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Sauropsida/Reptile/Diapsida/Archosauromorpha/Archosauria/Dinosaur/Ornithischia/Ankylosauria|Ankylosauria]] 
 
-### #is_/same_as :: [Ankylosauria.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Sauropsida/Reptile/Diapsida/Archosauromorpha/Archosauria/Dinosaur/Ornithischia/Ankylosauria.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Sauropsida/Reptile/Diapsida/Archosauromorpha/Archosauria/Dinosaur/Ornithischia/Ankylosauria.public|Ankylosauria.public]] 
 
-### #is_/same_as :: [Ankylosauria.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Sauropsida/Reptile/Diapsida/Archosauromorpha/Archosauria/Dinosaur/Ornithischia/Ankylosauria.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Sauropsida/Reptile/Diapsida/Archosauromorpha/Archosauria/Dinosaur/Ornithischia/Ankylosauria.internal|Ankylosauria.internal]] 
 
-### #is_/same_as :: [Ankylosauria.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Sauropsida/Reptile/Diapsida/Archosauromorpha/Archosauria/Dinosaur/Ornithischia/Ankylosauria.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Sauropsida/Reptile/Diapsida/Archosauromorpha/Archosauria/Dinosaur/Ornithischia/Ankylosauria.protect|Ankylosauria.protect]] 
 
-### #is_/same_as :: [Ankylosauria.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Sauropsida/Reptile/Diapsida/Archosauromorpha/Archosauria/Dinosaur/Ornithischia/Ankylosauria.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Sauropsida/Reptile/Diapsida/Archosauromorpha/Archosauria/Dinosaur/Ornithischia/Ankylosauria.private|Ankylosauria.private]] 
 
-### #is_/same_as :: [Ankylosauria.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Sauropsida/Reptile/Diapsida/Archosauromorpha/Archosauria/Dinosaur/Ornithischia/Ankylosauria.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Sauropsida/Reptile/Diapsida/Archosauromorpha/Archosauria/Dinosaur/Ornithischia/Ankylosauria.personal|Ankylosauria.personal]] 
 
-### #is_/same_as :: [Ankylosauria.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Sauropsida/Reptile/Diapsida/Archosauromorpha/Archosauria/Dinosaur/Ornithischia/Ankylosauria.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Sauropsida/Reptile/Diapsida/Archosauromorpha/Archosauria/Dinosaur/Ornithischia/Ankylosauria.secret|Ankylosauria.secret]] 
 

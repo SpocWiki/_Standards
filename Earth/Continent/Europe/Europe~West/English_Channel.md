@@ -186,17 +186,17 @@ Commons_gallery: La Manche - English Channel
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [English_Channel](/_Standards/Earth/Continent/Europe/Europe~West/English_Channel.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~West/English_Channel|English_Channel]] 
 
-### #is_/same_as :: [English_Channel.public](/_public/Earth/Continent/Europe/Europe~West/English_Channel.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~West/English_Channel.public|English_Channel.public]] 
 
-### #is_/same_as :: [English_Channel.internal](/_internal/Earth/Continent/Europe/Europe~West/English_Channel.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~West/English_Channel.internal|English_Channel.internal]] 
 
-### #is_/same_as :: [English_Channel.protect](/_protect/Earth/Continent/Europe/Europe~West/English_Channel.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~West/English_Channel.protect|English_Channel.protect]] 
 
-### #is_/same_as :: [English_Channel.private](/_private/Earth/Continent/Europe/Europe~West/English_Channel.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~West/English_Channel.private|English_Channel.private]] 
 
-### #is_/same_as :: [English_Channel.personal](/_personal/Earth/Continent/Europe/Europe~West/English_Channel.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~West/English_Channel.personal|English_Channel.personal]] 
 
-### #is_/same_as :: [English_Channel.secret](/_secret/Earth/Continent/Europe/Europe~West/English_Channel.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~West/English_Channel.secret|English_Channel.secret]] 
 

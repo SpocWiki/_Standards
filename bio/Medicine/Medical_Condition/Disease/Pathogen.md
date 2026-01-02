@@ -56,17 +56,17 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Shigella%20stool.jpg
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Pathogen](/_Standards/bio/Medicine/Medical_Condition/Disease/Pathogen.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Condition/Disease/Pathogen|Pathogen]] 
 
-### #is_/same_as :: [Pathogen.public](/_public/bio/Medicine/Medical_Condition/Disease/Pathogen.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Condition/Disease/Pathogen.public|Pathogen.public]] 
 
-### #is_/same_as :: [Pathogen.internal](/_internal/bio/Medicine/Medical_Condition/Disease/Pathogen.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Condition/Disease/Pathogen.internal|Pathogen.internal]] 
 
-### #is_/same_as :: [Pathogen.protect](/_protect/bio/Medicine/Medical_Condition/Disease/Pathogen.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Condition/Disease/Pathogen.protect|Pathogen.protect]] 
 
-### #is_/same_as :: [Pathogen.private](/_private/bio/Medicine/Medical_Condition/Disease/Pathogen.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Condition/Disease/Pathogen.private|Pathogen.private]] 
 
-### #is_/same_as :: [Pathogen.personal](/_personal/bio/Medicine/Medical_Condition/Disease/Pathogen.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Condition/Disease/Pathogen.personal|Pathogen.personal]] 
 
-### #is_/same_as :: [Pathogen.secret](/_secret/bio/Medicine/Medical_Condition/Disease/Pathogen.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Condition/Disease/Pathogen.secret|Pathogen.secret]] 
 

@@ -89,17 +89,17 @@ OpenStreetMap_tag_or_key: Tag:colour=blue
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Blue](/_Standards/Technology/Design/Graphic_Design/Color/Blue.md) 
+### #is_/same_as :: [[/_Standards/Technology/Design/Graphic_Design/Color/Blue|Blue]] 
 
-### #is_/same_as :: [Blue.public](/_public/Technology/Design/Graphic_Design/Color/Blue.public.md) 
+### #is_/same_as :: [[/_public/Technology/Design/Graphic_Design/Color/Blue.public|Blue.public]] 
 
-### #is_/same_as :: [Blue.internal](/_internal/Technology/Design/Graphic_Design/Color/Blue.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Design/Graphic_Design/Color/Blue.internal|Blue.internal]] 
 
-### #is_/same_as :: [Blue.protect](/_protect/Technology/Design/Graphic_Design/Color/Blue.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Design/Graphic_Design/Color/Blue.protect|Blue.protect]] 
 
-### #is_/same_as :: [Blue.private](/_private/Technology/Design/Graphic_Design/Color/Blue.private.md) 
+### #is_/same_as :: [[/_private/Technology/Design/Graphic_Design/Color/Blue.private|Blue.private]] 
 
-### #is_/same_as :: [Blue.personal](/_personal/Technology/Design/Graphic_Design/Color/Blue.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Design/Graphic_Design/Color/Blue.personal|Blue.personal]] 
 
-### #is_/same_as :: [Blue.secret](/_secret/Technology/Design/Graphic_Design/Color/Blue.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Design/Graphic_Design/Color/Blue.secret|Blue.secret]] 
 

@@ -152,17 +152,17 @@ motto_text: Good food, Good life
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Nestlé](/_Standards/Society/Agent/Community/Organization/Company/Corporation/Nestlé.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Company/Corporation/Nestlé|Nestlé]] 
 
-### #is_/same_as :: [Nestlé.public](/_public/Society/Agent/Community/Organization/Company/Corporation/Nestlé.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Company/Corporation/Nestlé.public|Nestlé.public]] 
 
-### #is_/same_as :: [Nestlé.internal](/_internal/Society/Agent/Community/Organization/Company/Corporation/Nestlé.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Company/Corporation/Nestlé.internal|Nestlé.internal]] 
 
-### #is_/same_as :: [Nestlé.protect](/_protect/Society/Agent/Community/Organization/Company/Corporation/Nestlé.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Company/Corporation/Nestlé.protect|Nestlé.protect]] 
 
-### #is_/same_as :: [Nestlé.private](/_private/Society/Agent/Community/Organization/Company/Corporation/Nestlé.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Company/Corporation/Nestlé.private|Nestlé.private]] 
 
-### #is_/same_as :: [Nestlé.personal](/_personal/Society/Agent/Community/Organization/Company/Corporation/Nestlé.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Company/Corporation/Nestlé.personal|Nestlé.personal]] 
 
-### #is_/same_as :: [Nestlé.secret](/_secret/Society/Agent/Community/Organization/Company/Corporation/Nestlé.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Company/Corporation/Nestlé.secret|Nestlé.secret]] 
 

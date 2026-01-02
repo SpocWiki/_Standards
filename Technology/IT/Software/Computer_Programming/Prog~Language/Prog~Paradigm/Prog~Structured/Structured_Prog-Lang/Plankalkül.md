@@ -21,17 +21,17 @@ Zuse devoted his time to the development of a higher-level programming model and
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Plankalkül](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structured_Prog-Lang/Plankalkül.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structured_Prog-Lang/Plankalkül|Plankalkül]] 
 
-### #is_/same_as :: [Plankalkül.public](/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structured_Prog-Lang/Plankalkül.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structured_Prog-Lang/Plankalkül.public|Plankalkül.public]] 
 
-### #is_/same_as :: [Plankalkül.internal](/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structured_Prog-Lang/Plankalkül.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structured_Prog-Lang/Plankalkül.internal|Plankalkül.internal]] 
 
-### #is_/same_as :: [Plankalkül.protect](/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structured_Prog-Lang/Plankalkül.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structured_Prog-Lang/Plankalkül.protect|Plankalkül.protect]] 
 
-### #is_/same_as :: [Plankalkül.private](/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structured_Prog-Lang/Plankalkül.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structured_Prog-Lang/Plankalkül.private|Plankalkül.private]] 
 
-### #is_/same_as :: [Plankalkül.personal](/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structured_Prog-Lang/Plankalkül.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structured_Prog-Lang/Plankalkül.personal|Plankalkül.personal]] 
 
-### #is_/same_as :: [Plankalkül.secret](/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structured_Prog-Lang/Plankalkül.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structured_Prog-Lang/Plankalkül.secret|Plankalkül.secret]] 
 

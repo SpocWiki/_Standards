@@ -40,17 +40,17 @@ markerFolder: ./Fiji~Central//
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Fiji~Central](/_Standards/Earth/Continent/Australasia/Melanesia/Fiji/Divisions~Fiji/Fiji~Central.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Australasia/Melanesia/Fiji/Divisions~Fiji/Fiji~Central|Fiji~Central]] 
 
-### #is_/same_as :: [Fiji~Central.public](/_public/Earth/Continent/Australasia/Melanesia/Fiji/Divisions~Fiji/Fiji~Central.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Australasia/Melanesia/Fiji/Divisions~Fiji/Fiji~Central.public|Fiji~Central.public]] 
 
-### #is_/same_as :: [Fiji~Central.internal](/_internal/Earth/Continent/Australasia/Melanesia/Fiji/Divisions~Fiji/Fiji~Central.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Australasia/Melanesia/Fiji/Divisions~Fiji/Fiji~Central.internal|Fiji~Central.internal]] 
 
-### #is_/same_as :: [Fiji~Central.protect](/_protect/Earth/Continent/Australasia/Melanesia/Fiji/Divisions~Fiji/Fiji~Central.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Australasia/Melanesia/Fiji/Divisions~Fiji/Fiji~Central.protect|Fiji~Central.protect]] 
 
-### #is_/same_as :: [Fiji~Central.private](/_private/Earth/Continent/Australasia/Melanesia/Fiji/Divisions~Fiji/Fiji~Central.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Australasia/Melanesia/Fiji/Divisions~Fiji/Fiji~Central.private|Fiji~Central.private]] 
 
-### #is_/same_as :: [Fiji~Central.personal](/_personal/Earth/Continent/Australasia/Melanesia/Fiji/Divisions~Fiji/Fiji~Central.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Australasia/Melanesia/Fiji/Divisions~Fiji/Fiji~Central.personal|Fiji~Central.personal]] 
 
-### #is_/same_as :: [Fiji~Central.secret](/_secret/Earth/Continent/Australasia/Melanesia/Fiji/Divisions~Fiji/Fiji~Central.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Australasia/Melanesia/Fiji/Divisions~Fiji/Fiji~Central.secret|Fiji~Central.secret]] 
 

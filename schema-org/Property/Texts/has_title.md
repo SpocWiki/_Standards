@@ -44,17 +44,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_title](/_Standards/schema-org/Property/Texts/has_title.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/Texts/has_title|has_title]] 
 
-### #is_/same_as :: [has_title.public](/_public/schema-org/Property/Texts/has_title.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/Texts/has_title.public|has_title.public]] 
 
-### #is_/same_as :: [has_title.internal](/_internal/schema-org/Property/Texts/has_title.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/Texts/has_title.internal|has_title.internal]] 
 
-### #is_/same_as :: [has_title.protect](/_protect/schema-org/Property/Texts/has_title.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/Texts/has_title.protect|has_title.protect]] 
 
-### #is_/same_as :: [has_title.private](/_private/schema-org/Property/Texts/has_title.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/Texts/has_title.private|has_title.private]] 
 
-### #is_/same_as :: [has_title.personal](/_personal/schema-org/Property/Texts/has_title.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/Texts/has_title.personal|has_title.personal]] 
 
-### #is_/same_as :: [has_title.secret](/_secret/schema-org/Property/Texts/has_title.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/Texts/has_title.secret|has_title.secret]] 
 

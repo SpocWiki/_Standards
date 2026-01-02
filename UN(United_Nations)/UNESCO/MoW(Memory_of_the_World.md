@@ -48,17 +48,17 @@ Love Bombing
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [MoW(Memory_of_the_World](/_Standards/UN(United_Nations)/UNESCO/MoW(Memory_of_the_World.md) 
+### #is_/same_as :: [[/_Standards/UN(United_Nations)/UNESCO/MoW(Memory_of_the_World|MoW(Memory_of_the_World]] 
 
-### #is_/same_as :: [MoW(Memory_of_the_World.public](/_public/UN(United_Nations)/UNESCO/MoW(Memory_of_the_World.public.md) 
+### #is_/same_as :: [[/_public/UN(United_Nations)/UNESCO/MoW(Memory_of_the_World.public|MoW(Memory_of_the_World.public]] 
 
-### #is_/same_as :: [MoW(Memory_of_the_World.internal](/_internal/UN(United_Nations)/UNESCO/MoW(Memory_of_the_World.internal.md) 
+### #is_/same_as :: [[/_internal/UN(United_Nations)/UNESCO/MoW(Memory_of_the_World.internal|MoW(Memory_of_the_World.internal]] 
 
-### #is_/same_as :: [MoW(Memory_of_the_World.protect](/_protect/UN(United_Nations)/UNESCO/MoW(Memory_of_the_World.protect.md) 
+### #is_/same_as :: [[/_protect/UN(United_Nations)/UNESCO/MoW(Memory_of_the_World.protect|MoW(Memory_of_the_World.protect]] 
 
-### #is_/same_as :: [MoW(Memory_of_the_World.private](/_private/UN(United_Nations)/UNESCO/MoW(Memory_of_the_World.private.md) 
+### #is_/same_as :: [[/_private/UN(United_Nations)/UNESCO/MoW(Memory_of_the_World.private|MoW(Memory_of_the_World.private]] 
 
-### #is_/same_as :: [MoW(Memory_of_the_World.personal](/_personal/UN(United_Nations)/UNESCO/MoW(Memory_of_the_World.personal.md) 
+### #is_/same_as :: [[/_personal/UN(United_Nations)/UNESCO/MoW(Memory_of_the_World.personal|MoW(Memory_of_the_World.personal]] 
 
-### #is_/same_as :: [MoW(Memory_of_the_World.secret](/_secret/UN(United_Nations)/UNESCO/MoW(Memory_of_the_World.secret.md)
+### #is_/same_as :: [[/_secret/UN(United_Nations)/UNESCO/MoW(Memory_of_the_World.secret|MoW(Memory_of_the_World.secret]] 
 

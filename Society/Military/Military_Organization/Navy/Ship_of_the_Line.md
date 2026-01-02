@@ -46,17 +46,17 @@ Commons_category: Ships of the line
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ship_of_the_Line](/_Standards/Society/Military/Military_Organization/Navy/Ship_of_the_Line.md) 
+### #is_/same_as :: [[/_Standards/Society/Military/Military_Organization/Navy/Ship_of_the_Line|Ship_of_the_Line]] 
 
-### #is_/same_as :: [Ship_of_the_Line.public](/_public/Society/Military/Military_Organization/Navy/Ship_of_the_Line.public.md) 
+### #is_/same_as :: [[/_public/Society/Military/Military_Organization/Navy/Ship_of_the_Line.public|Ship_of_the_Line.public]] 
 
-### #is_/same_as :: [Ship_of_the_Line.internal](/_internal/Society/Military/Military_Organization/Navy/Ship_of_the_Line.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Military/Military_Organization/Navy/Ship_of_the_Line.internal|Ship_of_the_Line.internal]] 
 
-### #is_/same_as :: [Ship_of_the_Line.protect](/_protect/Society/Military/Military_Organization/Navy/Ship_of_the_Line.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Military/Military_Organization/Navy/Ship_of_the_Line.protect|Ship_of_the_Line.protect]] 
 
-### #is_/same_as :: [Ship_of_the_Line.private](/_private/Society/Military/Military_Organization/Navy/Ship_of_the_Line.private.md) 
+### #is_/same_as :: [[/_private/Society/Military/Military_Organization/Navy/Ship_of_the_Line.private|Ship_of_the_Line.private]] 
 
-### #is_/same_as :: [Ship_of_the_Line.personal](/_personal/Society/Military/Military_Organization/Navy/Ship_of_the_Line.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Military/Military_Organization/Navy/Ship_of_the_Line.personal|Ship_of_the_Line.personal]] 
 
-### #is_/same_as :: [Ship_of_the_Line.secret](/_secret/Society/Military/Military_Organization/Navy/Ship_of_the_Line.secret.md)
+### #is_/same_as :: [[/_secret/Society/Military/Military_Organization/Navy/Ship_of_the_Line.secret|Ship_of_the_Line.secret]] 
 

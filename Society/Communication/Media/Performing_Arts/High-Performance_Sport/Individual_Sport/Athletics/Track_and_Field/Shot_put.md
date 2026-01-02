@@ -42,17 +42,17 @@ OpenStreetMap_tag: athletics=shot_put
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Shot_put](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Athletics/Track_and_Field/Shot_put.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Athletics/Track_and_Field/Shot_put|Shot_put]] 
 
-### #is_/same_as :: [Shot_put.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Athletics/Track_and_Field/Shot_put.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Athletics/Track_and_Field/Shot_put.public|Shot_put.public]] 
 
-### #is_/same_as :: [Shot_put.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Athletics/Track_and_Field/Shot_put.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Athletics/Track_and_Field/Shot_put.internal|Shot_put.internal]] 
 
-### #is_/same_as :: [Shot_put.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Athletics/Track_and_Field/Shot_put.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Athletics/Track_and_Field/Shot_put.protect|Shot_put.protect]] 
 
-### #is_/same_as :: [Shot_put.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Athletics/Track_and_Field/Shot_put.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Athletics/Track_and_Field/Shot_put.private|Shot_put.private]] 
 
-### #is_/same_as :: [Shot_put.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Athletics/Track_and_Field/Shot_put.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Athletics/Track_and_Field/Shot_put.personal|Shot_put.personal]] 
 
-### #is_/same_as :: [Shot_put.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Athletics/Track_and_Field/Shot_put.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Athletics/Track_and_Field/Shot_put.secret|Shot_put.secret]] 
 

@@ -124,17 +124,17 @@ unlike Structs / Objects  on the [[Call-Stack]].
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Thing](/_Standards/schema-org/Class/Thing.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Class/Thing|Thing]] 
 
-### #is_/same_as :: [Thing.public](/_public/schema-org/Class/Thing.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Class/Thing.public|Thing.public]] 
 
-### #is_/same_as :: [Thing.internal](/_internal/schema-org/Class/Thing.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Class/Thing.internal|Thing.internal]] 
 
-### #is_/same_as :: [Thing.protect](/_protect/schema-org/Class/Thing.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Class/Thing.protect|Thing.protect]] 
 
-### #is_/same_as :: [Thing.private](/_private/schema-org/Class/Thing.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Class/Thing.private|Thing.private]] 
 
-### #is_/same_as :: [Thing.personal](/_personal/schema-org/Class/Thing.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Class/Thing.personal|Thing.personal]] 
 
-### #is_/same_as :: [Thing.secret](/_secret/schema-org/Class/Thing.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Class/Thing.secret|Thing.secret]] 
 

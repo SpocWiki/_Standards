@@ -76,17 +76,17 @@ PhilPapers_topic: nonfiction
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Non-Fiction](/_Standards/Society/Communication/Genre/Non-Fiction.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Genre/Non-Fiction|Non-Fiction]] 
 
-### #is_/same_as :: [Non-Fiction.public](/_public/Society/Communication/Genre/Non-Fiction.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Genre/Non-Fiction.public|Non-Fiction.public]] 
 
-### #is_/same_as :: [Non-Fiction.internal](/_internal/Society/Communication/Genre/Non-Fiction.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Genre/Non-Fiction.internal|Non-Fiction.internal]] 
 
-### #is_/same_as :: [Non-Fiction.protect](/_protect/Society/Communication/Genre/Non-Fiction.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Genre/Non-Fiction.protect|Non-Fiction.protect]] 
 
-### #is_/same_as :: [Non-Fiction.private](/_private/Society/Communication/Genre/Non-Fiction.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Genre/Non-Fiction.private|Non-Fiction.private]] 
 
-### #is_/same_as :: [Non-Fiction.personal](/_personal/Society/Communication/Genre/Non-Fiction.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Genre/Non-Fiction.personal|Non-Fiction.personal]] 
 
-### #is_/same_as :: [Non-Fiction.secret](/_secret/Society/Communication/Genre/Non-Fiction.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Genre/Non-Fiction.secret|Non-Fiction.secret]] 
 

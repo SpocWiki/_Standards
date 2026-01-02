@@ -48,17 +48,17 @@ A video game is an electronic game that involves human interaction with a user i
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Video_Game](/_Standards/Society/Communication/Media/Creative_Work/Game/Video_Game.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Creative_Work/Game/Video_Game|Video_Game]] 
 
-### #is_/same_as :: [Video_Game.public](/_public/Society/Communication/Media/Creative_Work/Game/Video_Game.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Creative_Work/Game/Video_Game.public|Video_Game.public]] 
 
-### #is_/same_as :: [Video_Game.internal](/_internal/Society/Communication/Media/Creative_Work/Game/Video_Game.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Creative_Work/Game/Video_Game.internal|Video_Game.internal]] 
 
-### #is_/same_as :: [Video_Game.protect](/_protect/Society/Communication/Media/Creative_Work/Game/Video_Game.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Creative_Work/Game/Video_Game.protect|Video_Game.protect]] 
 
-### #is_/same_as :: [Video_Game.private](/_private/Society/Communication/Media/Creative_Work/Game/Video_Game.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Creative_Work/Game/Video_Game.private|Video_Game.private]] 
 
-### #is_/same_as :: [Video_Game.personal](/_personal/Society/Communication/Media/Creative_Work/Game/Video_Game.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/Game/Video_Game.personal|Video_Game.personal]] 
 
-### #is_/same_as :: [Video_Game.secret](/_secret/Society/Communication/Media/Creative_Work/Game/Video_Game.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Game/Video_Game.secret|Video_Game.secret]] 
 

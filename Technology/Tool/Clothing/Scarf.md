@@ -41,17 +41,17 @@ Unicode_character: 🧣
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Scarf](/_Standards/Technology/Tool/Clothing/Scarf.md) 
+### #is_/same_as :: [[/_Standards/Technology/Tool/Clothing/Scarf|Scarf]] 
 
-### #is_/same_as :: [Scarf.public](/_public/Technology/Tool/Clothing/Scarf.public.md) 
+### #is_/same_as :: [[/_public/Technology/Tool/Clothing/Scarf.public|Scarf.public]] 
 
-### #is_/same_as :: [Scarf.internal](/_internal/Technology/Tool/Clothing/Scarf.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Tool/Clothing/Scarf.internal|Scarf.internal]] 
 
-### #is_/same_as :: [Scarf.protect](/_protect/Technology/Tool/Clothing/Scarf.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Tool/Clothing/Scarf.protect|Scarf.protect]] 
 
-### #is_/same_as :: [Scarf.private](/_private/Technology/Tool/Clothing/Scarf.private.md) 
+### #is_/same_as :: [[/_private/Technology/Tool/Clothing/Scarf.private|Scarf.private]] 
 
-### #is_/same_as :: [Scarf.personal](/_personal/Technology/Tool/Clothing/Scarf.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Tool/Clothing/Scarf.personal|Scarf.personal]] 
 
-### #is_/same_as :: [Scarf.secret](/_secret/Technology/Tool/Clothing/Scarf.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Tool/Clothing/Scarf.secret|Scarf.secret]] 
 

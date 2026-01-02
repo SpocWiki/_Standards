@@ -154,17 +154,17 @@ P8189: 987007259660905171
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Cleopatra](/_Standards/Society/Politics/Government/Leader/Ancient_Leaders/Cleopatra.md) 
+### #is_/same_as :: [[/_Standards/Society/Politics/Government/Leader/Ancient_Leaders/Cleopatra|Cleopatra]] 
 
-### #is_/same_as :: [Cleopatra.public](/_public/Society/Politics/Government/Leader/Ancient_Leaders/Cleopatra.public.md) 
+### #is_/same_as :: [[/_public/Society/Politics/Government/Leader/Ancient_Leaders/Cleopatra.public|Cleopatra.public]] 
 
-### #is_/same_as :: [Cleopatra.internal](/_internal/Society/Politics/Government/Leader/Ancient_Leaders/Cleopatra.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Politics/Government/Leader/Ancient_Leaders/Cleopatra.internal|Cleopatra.internal]] 
 
-### #is_/same_as :: [Cleopatra.protect](/_protect/Society/Politics/Government/Leader/Ancient_Leaders/Cleopatra.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Politics/Government/Leader/Ancient_Leaders/Cleopatra.protect|Cleopatra.protect]] 
 
-### #is_/same_as :: [Cleopatra.private](/_private/Society/Politics/Government/Leader/Ancient_Leaders/Cleopatra.private.md) 
+### #is_/same_as :: [[/_private/Society/Politics/Government/Leader/Ancient_Leaders/Cleopatra.private|Cleopatra.private]] 
 
-### #is_/same_as :: [Cleopatra.personal](/_personal/Society/Politics/Government/Leader/Ancient_Leaders/Cleopatra.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Politics/Government/Leader/Ancient_Leaders/Cleopatra.personal|Cleopatra.personal]] 
 
-### #is_/same_as :: [Cleopatra.secret](/_secret/Society/Politics/Government/Leader/Ancient_Leaders/Cleopatra.secret.md)
+### #is_/same_as :: [[/_secret/Society/Politics/Government/Leader/Ancient_Leaders/Cleopatra.secret|Cleopatra.secret]] 
 

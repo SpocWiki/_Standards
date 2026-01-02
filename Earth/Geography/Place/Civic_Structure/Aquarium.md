@@ -39,17 +39,17 @@ Aquarium.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Aquarium](/_Standards/Earth/Geography/Place/Civic_Structure/Aquarium.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geography/Place/Civic_Structure/Aquarium|Aquarium]] 
 
-### #is_/same_as :: [Aquarium.public](/_public/Earth/Geography/Place/Civic_Structure/Aquarium.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geography/Place/Civic_Structure/Aquarium.public|Aquarium.public]] 
 
-### #is_/same_as :: [Aquarium.internal](/_internal/Earth/Geography/Place/Civic_Structure/Aquarium.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geography/Place/Civic_Structure/Aquarium.internal|Aquarium.internal]] 
 
-### #is_/same_as :: [Aquarium.protect](/_protect/Earth/Geography/Place/Civic_Structure/Aquarium.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geography/Place/Civic_Structure/Aquarium.protect|Aquarium.protect]] 
 
-### #is_/same_as :: [Aquarium.private](/_private/Earth/Geography/Place/Civic_Structure/Aquarium.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geography/Place/Civic_Structure/Aquarium.private|Aquarium.private]] 
 
-### #is_/same_as :: [Aquarium.personal](/_personal/Earth/Geography/Place/Civic_Structure/Aquarium.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geography/Place/Civic_Structure/Aquarium.personal|Aquarium.personal]] 
 
-### #is_/same_as :: [Aquarium.secret](/_secret/Earth/Geography/Place/Civic_Structure/Aquarium.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geography/Place/Civic_Structure/Aquarium.secret|Aquarium.secret]] 
 

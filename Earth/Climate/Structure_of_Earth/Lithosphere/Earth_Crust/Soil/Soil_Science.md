@@ -46,17 +46,17 @@ Commons_category: Soil science
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Soil_Science](/_Standards/Earth/Climate/Structure_of_Earth/Lithosphere/Earth_Crust/Soil/Soil_Science.md) 
+### #is_/same_as :: [[/_Standards/Earth/Climate/Structure_of_Earth/Lithosphere/Earth_Crust/Soil/Soil_Science|Soil_Science]] 
 
-### #is_/same_as :: [Soil_Science.public](/_public/Earth/Climate/Structure_of_Earth/Lithosphere/Earth_Crust/Soil/Soil_Science.public.md) 
+### #is_/same_as :: [[/_public/Earth/Climate/Structure_of_Earth/Lithosphere/Earth_Crust/Soil/Soil_Science.public|Soil_Science.public]] 
 
-### #is_/same_as :: [Soil_Science.internal](/_internal/Earth/Climate/Structure_of_Earth/Lithosphere/Earth_Crust/Soil/Soil_Science.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Climate/Structure_of_Earth/Lithosphere/Earth_Crust/Soil/Soil_Science.internal|Soil_Science.internal]] 
 
-### #is_/same_as :: [Soil_Science.protect](/_protect/Earth/Climate/Structure_of_Earth/Lithosphere/Earth_Crust/Soil/Soil_Science.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Climate/Structure_of_Earth/Lithosphere/Earth_Crust/Soil/Soil_Science.protect|Soil_Science.protect]] 
 
-### #is_/same_as :: [Soil_Science.private](/_private/Earth/Climate/Structure_of_Earth/Lithosphere/Earth_Crust/Soil/Soil_Science.private.md) 
+### #is_/same_as :: [[/_private/Earth/Climate/Structure_of_Earth/Lithosphere/Earth_Crust/Soil/Soil_Science.private|Soil_Science.private]] 
 
-### #is_/same_as :: [Soil_Science.personal](/_personal/Earth/Climate/Structure_of_Earth/Lithosphere/Earth_Crust/Soil/Soil_Science.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Climate/Structure_of_Earth/Lithosphere/Earth_Crust/Soil/Soil_Science.personal|Soil_Science.personal]] 
 
-### #is_/same_as :: [Soil_Science.secret](/_secret/Earth/Climate/Structure_of_Earth/Lithosphere/Earth_Crust/Soil/Soil_Science.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Climate/Structure_of_Earth/Lithosphere/Earth_Crust/Soil/Soil_Science.secret|Soil_Science.secret]] 
 

@@ -86,17 +86,17 @@ Wolfram_Language_entity_code: Entity["PhysicalEffect", "CoulombsLaw"]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Coulomb's_Law](/_Standards/Science/Physics/Electricity/Coulomb's_Law.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Electricity/Coulomb's_Law|Coulomb's_Law]] 
 
-### #is_/same_as :: [Coulomb's_Law.public](/_public/Science/Physics/Electricity/Coulomb's_Law.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Electricity/Coulomb's_Law.public|Coulomb's_Law.public]] 
 
-### #is_/same_as :: [Coulomb's_Law.internal](/_internal/Science/Physics/Electricity/Coulomb's_Law.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Electricity/Coulomb's_Law.internal|Coulomb's_Law.internal]] 
 
-### #is_/same_as :: [Coulomb's_Law.protect](/_protect/Science/Physics/Electricity/Coulomb's_Law.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Electricity/Coulomb's_Law.protect|Coulomb's_Law.protect]] 
 
-### #is_/same_as :: [Coulomb's_Law.private](/_private/Science/Physics/Electricity/Coulomb's_Law.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Electricity/Coulomb's_Law.private|Coulomb's_Law.private]] 
 
-### #is_/same_as :: [Coulomb's_Law.personal](/_personal/Science/Physics/Electricity/Coulomb's_Law.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Electricity/Coulomb's_Law.personal|Coulomb's_Law.personal]] 
 
-### #is_/same_as :: [Coulomb's_Law.secret](/_secret/Science/Physics/Electricity/Coulomb's_Law.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Electricity/Coulomb's_Law.secret|Coulomb's_Law.secret]] 
 

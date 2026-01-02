@@ -580,17 +580,17 @@ Capital :: [[Taiwan/Counties/Taipei_City/City/Taipei]]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Taiwan](/_Standards/Earth/Continent/Asia/Asia~East/Taiwan.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~East/Taiwan|Taiwan]] 
 
-### #is_/same_as :: [Taiwan.public](/_public/Earth/Continent/Asia/Asia~East/Taiwan.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~East/Taiwan.public|Taiwan.public]] 
 
-### #is_/same_as :: [Taiwan.internal](/_internal/Earth/Continent/Asia/Asia~East/Taiwan.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~East/Taiwan.internal|Taiwan.internal]] 
 
-### #is_/same_as :: [Taiwan.protect](/_protect/Earth/Continent/Asia/Asia~East/Taiwan.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~East/Taiwan.protect|Taiwan.protect]] 
 
-### #is_/same_as :: [Taiwan.private](/_private/Earth/Continent/Asia/Asia~East/Taiwan.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~East/Taiwan.private|Taiwan.private]] 
 
-### #is_/same_as :: [Taiwan.personal](/_personal/Earth/Continent/Asia/Asia~East/Taiwan.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~East/Taiwan.personal|Taiwan.personal]] 
 
-### #is_/same_as :: [Taiwan.secret](/_secret/Earth/Continent/Asia/Asia~East/Taiwan.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~East/Taiwan.secret|Taiwan.secret]] 
 

@@ -86,17 +86,17 @@ Krugosvet_article_archived_: gumanitarnye_nauki/ekonomika_i_pravo/VIKRI_UILYAM.h
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Vickrey,William](/_Standards/Society/Economics/Economist/Vickrey,William.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Economist/Vickrey,William|Vickrey,William]] 
 
-### #is_/same_as :: [Vickrey,William.public](/_public/Society/Economics/Economist/Vickrey,William.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Economist/Vickrey,William.public|Vickrey,William.public]] 
 
-### #is_/same_as :: [Vickrey,William.internal](/_internal/Society/Economics/Economist/Vickrey,William.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Economist/Vickrey,William.internal|Vickrey,William.internal]] 
 
-### #is_/same_as :: [Vickrey,William.protect](/_protect/Society/Economics/Economist/Vickrey,William.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Economist/Vickrey,William.protect|Vickrey,William.protect]] 
 
-### #is_/same_as :: [Vickrey,William.private](/_private/Society/Economics/Economist/Vickrey,William.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Economist/Vickrey,William.private|Vickrey,William.private]] 
 
-### #is_/same_as :: [Vickrey,William.personal](/_personal/Society/Economics/Economist/Vickrey,William.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Economist/Vickrey,William.personal|Vickrey,William.personal]] 
 
-### #is_/same_as :: [Vickrey,William.secret](/_secret/Society/Economics/Economist/Vickrey,William.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Economist/Vickrey,William.secret|Vickrey,William.secret]] 
 

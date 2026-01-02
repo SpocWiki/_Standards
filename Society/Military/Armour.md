@@ -55,17 +55,17 @@ Commons_category: Personal armour
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Armour](/_Standards/Society/Military/Armour.md) 
+### #is_/same_as :: [[/_Standards/Society/Military/Armour|Armour]] 
 
-### #is_/same_as :: [Armour.public](/_public/Society/Military/Armour.public.md) 
+### #is_/same_as :: [[/_public/Society/Military/Armour.public|Armour.public]] 
 
-### #is_/same_as :: [Armour.internal](/_internal/Society/Military/Armour.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Military/Armour.internal|Armour.internal]] 
 
-### #is_/same_as :: [Armour.protect](/_protect/Society/Military/Armour.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Military/Armour.protect|Armour.protect]] 
 
-### #is_/same_as :: [Armour.private](/_private/Society/Military/Armour.private.md) 
+### #is_/same_as :: [[/_private/Society/Military/Armour.private|Armour.private]] 
 
-### #is_/same_as :: [Armour.personal](/_personal/Society/Military/Armour.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Military/Armour.personal|Armour.personal]] 
 
-### #is_/same_as :: [Armour.secret](/_secret/Society/Military/Armour.secret.md)
+### #is_/same_as :: [[/_secret/Society/Military/Armour.secret|Armour.secret]] 
 

@@ -62,17 +62,17 @@ Colon_Classification: L87
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Skin](/_Standards/bio/Medicine/Anatomy/Skin.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Anatomy/Skin|Skin]] 
 
-### #is_/same_as :: [Skin.public](/_public/bio/Medicine/Anatomy/Skin.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Anatomy/Skin.public|Skin.public]] 
 
-### #is_/same_as :: [Skin.internal](/_internal/bio/Medicine/Anatomy/Skin.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Anatomy/Skin.internal|Skin.internal]] 
 
-### #is_/same_as :: [Skin.protect](/_protect/bio/Medicine/Anatomy/Skin.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Anatomy/Skin.protect|Skin.protect]] 
 
-### #is_/same_as :: [Skin.private](/_private/bio/Medicine/Anatomy/Skin.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Anatomy/Skin.private|Skin.private]] 
 
-### #is_/same_as :: [Skin.personal](/_personal/bio/Medicine/Anatomy/Skin.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Anatomy/Skin.personal|Skin.personal]] 
 
-### #is_/same_as :: [Skin.secret](/_secret/bio/Medicine/Anatomy/Skin.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Anatomy/Skin.secret|Skin.secret]] 
 

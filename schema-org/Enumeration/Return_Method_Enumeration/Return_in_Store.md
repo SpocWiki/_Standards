@@ -44,17 +44,17 @@ Specifies that product returns must be made in a store.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Return_in_Store](/_Standards/schema-org/Enumeration/Return_Method_Enumeration/Return_in_Store.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Return_Method_Enumeration/Return_in_Store|Return_in_Store]] 
 
-### #is_/same_as :: [Return_in_Store.public](/_public/schema-org/Enumeration/Return_Method_Enumeration/Return_in_Store.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Return_Method_Enumeration/Return_in_Store.public|Return_in_Store.public]] 
 
-### #is_/same_as :: [Return_in_Store.internal](/_internal/schema-org/Enumeration/Return_Method_Enumeration/Return_in_Store.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Return_Method_Enumeration/Return_in_Store.internal|Return_in_Store.internal]] 
 
-### #is_/same_as :: [Return_in_Store.protect](/_protect/schema-org/Enumeration/Return_Method_Enumeration/Return_in_Store.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Return_Method_Enumeration/Return_in_Store.protect|Return_in_Store.protect]] 
 
-### #is_/same_as :: [Return_in_Store.private](/_private/schema-org/Enumeration/Return_Method_Enumeration/Return_in_Store.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Return_Method_Enumeration/Return_in_Store.private|Return_in_Store.private]] 
 
-### #is_/same_as :: [Return_in_Store.personal](/_personal/schema-org/Enumeration/Return_Method_Enumeration/Return_in_Store.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Return_Method_Enumeration/Return_in_Store.personal|Return_in_Store.personal]] 
 
-### #is_/same_as :: [Return_in_Store.secret](/_secret/schema-org/Enumeration/Return_Method_Enumeration/Return_in_Store.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Return_Method_Enumeration/Return_in_Store.secret|Return_in_Store.secret]] 
 

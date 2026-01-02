@@ -34,17 +34,17 @@ Commons_category: Legal history
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Legal_History](/_Standards/Society/Law/Legal_History.md) 
+### #is_/same_as :: [[/_Standards/Society/Law/Legal_History|Legal_History]] 
 
-### #is_/same_as :: [Legal_History.public](/_public/Society/Law/Legal_History.public.md) 
+### #is_/same_as :: [[/_public/Society/Law/Legal_History.public|Legal_History.public]] 
 
-### #is_/same_as :: [Legal_History.internal](/_internal/Society/Law/Legal_History.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Law/Legal_History.internal|Legal_History.internal]] 
 
-### #is_/same_as :: [Legal_History.protect](/_protect/Society/Law/Legal_History.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Law/Legal_History.protect|Legal_History.protect]] 
 
-### #is_/same_as :: [Legal_History.private](/_private/Society/Law/Legal_History.private.md) 
+### #is_/same_as :: [[/_private/Society/Law/Legal_History.private|Legal_History.private]] 
 
-### #is_/same_as :: [Legal_History.personal](/_personal/Society/Law/Legal_History.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Law/Legal_History.personal|Legal_History.personal]] 
 
-### #is_/same_as :: [Legal_History.secret](/_secret/Society/Law/Legal_History.secret.md)
+### #is_/same_as :: [[/_secret/Society/Law/Legal_History.secret|Legal_History.secret]] 
 

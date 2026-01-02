@@ -57,17 +57,17 @@ PhilPapers_topic: religious-studies
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Religious_Studies](/_Standards/Society/Anthropology/Sociology/Religious_Studies.md) 
+### #is_/same_as :: [[/_Standards/Society/Anthropology/Sociology/Religious_Studies|Religious_Studies]] 
 
-### #is_/same_as :: [Religious_Studies.public](/_public/Society/Anthropology/Sociology/Religious_Studies.public.md) 
+### #is_/same_as :: [[/_public/Society/Anthropology/Sociology/Religious_Studies.public|Religious_Studies.public]] 
 
-### #is_/same_as :: [Religious_Studies.internal](/_internal/Society/Anthropology/Sociology/Religious_Studies.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Anthropology/Sociology/Religious_Studies.internal|Religious_Studies.internal]] 
 
-### #is_/same_as :: [Religious_Studies.protect](/_protect/Society/Anthropology/Sociology/Religious_Studies.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Anthropology/Sociology/Religious_Studies.protect|Religious_Studies.protect]] 
 
-### #is_/same_as :: [Religious_Studies.private](/_private/Society/Anthropology/Sociology/Religious_Studies.private.md) 
+### #is_/same_as :: [[/_private/Society/Anthropology/Sociology/Religious_Studies.private|Religious_Studies.private]] 
 
-### #is_/same_as :: [Religious_Studies.personal](/_personal/Society/Anthropology/Sociology/Religious_Studies.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Anthropology/Sociology/Religious_Studies.personal|Religious_Studies.personal]] 
 
-### #is_/same_as :: [Religious_Studies.secret](/_secret/Society/Anthropology/Sociology/Religious_Studies.secret.md)
+### #is_/same_as :: [[/_secret/Society/Anthropology/Sociology/Religious_Studies.secret|Religious_Studies.secret]] 
 

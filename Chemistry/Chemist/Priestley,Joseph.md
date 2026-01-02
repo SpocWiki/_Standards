@@ -166,17 +166,17 @@ Regensburg_Classification: BF 4435
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Priestley,Joseph](/_Standards/Chemistry/Chemist/Priestley,Joseph.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Chemist/Priestley,Joseph|Priestley,Joseph]] 
 
-### #is_/same_as :: [Priestley,Joseph.public](/_public/Chemistry/Chemist/Priestley,Joseph.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Chemist/Priestley,Joseph.public|Priestley,Joseph.public]] 
 
-### #is_/same_as :: [Priestley,Joseph.internal](/_internal/Chemistry/Chemist/Priestley,Joseph.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Chemist/Priestley,Joseph.internal|Priestley,Joseph.internal]] 
 
-### #is_/same_as :: [Priestley,Joseph.protect](/_protect/Chemistry/Chemist/Priestley,Joseph.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Chemist/Priestley,Joseph.protect|Priestley,Joseph.protect]] 
 
-### #is_/same_as :: [Priestley,Joseph.private](/_private/Chemistry/Chemist/Priestley,Joseph.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Chemist/Priestley,Joseph.private|Priestley,Joseph.private]] 
 
-### #is_/same_as :: [Priestley,Joseph.personal](/_personal/Chemistry/Chemist/Priestley,Joseph.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Chemist/Priestley,Joseph.personal|Priestley,Joseph.personal]] 
 
-### #is_/same_as :: [Priestley,Joseph.secret](/_secret/Chemistry/Chemist/Priestley,Joseph.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Chemist/Priestley,Joseph.secret|Priestley,Joseph.secret]] 
 

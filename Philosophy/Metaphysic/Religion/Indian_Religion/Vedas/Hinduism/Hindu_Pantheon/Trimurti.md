@@ -48,17 +48,17 @@ Krugosvet_article_archived_: kultura_i_obrazovanie/religiya/TRIMURTI.html
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Trimurti](/_Standards/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism/Hindu_Pantheon/Trimurti.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism/Hindu_Pantheon/Trimurti|Trimurti]] 
 
-### #is_/same_as :: [Trimurti.public](/_public/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism/Hindu_Pantheon/Trimurti.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism/Hindu_Pantheon/Trimurti.public|Trimurti.public]] 
 
-### #is_/same_as :: [Trimurti.internal](/_internal/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism/Hindu_Pantheon/Trimurti.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism/Hindu_Pantheon/Trimurti.internal|Trimurti.internal]] 
 
-### #is_/same_as :: [Trimurti.protect](/_protect/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism/Hindu_Pantheon/Trimurti.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism/Hindu_Pantheon/Trimurti.protect|Trimurti.protect]] 
 
-### #is_/same_as :: [Trimurti.private](/_private/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism/Hindu_Pantheon/Trimurti.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism/Hindu_Pantheon/Trimurti.private|Trimurti.private]] 
 
-### #is_/same_as :: [Trimurti.personal](/_personal/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism/Hindu_Pantheon/Trimurti.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism/Hindu_Pantheon/Trimurti.personal|Trimurti.personal]] 
 
-### #is_/same_as :: [Trimurti.secret](/_secret/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism/Hindu_Pantheon/Trimurti.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism/Hindu_Pantheon/Trimurti.secret|Trimurti.secret]] 
 

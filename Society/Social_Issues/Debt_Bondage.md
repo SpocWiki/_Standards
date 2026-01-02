@@ -59,17 +59,17 @@ on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Human_
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Debt_Bondage](/_Standards/Society/Social_Issues/Debt_Bondage.md) 
+### #is_/same_as :: [[/_Standards/Society/Social_Issues/Debt_Bondage|Debt_Bondage]] 
 
-### #is_/same_as :: [Debt_Bondage.public](/_public/Society/Social_Issues/Debt_Bondage.public.md) 
+### #is_/same_as :: [[/_public/Society/Social_Issues/Debt_Bondage.public|Debt_Bondage.public]] 
 
-### #is_/same_as :: [Debt_Bondage.internal](/_internal/Society/Social_Issues/Debt_Bondage.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Social_Issues/Debt_Bondage.internal|Debt_Bondage.internal]] 
 
-### #is_/same_as :: [Debt_Bondage.protect](/_protect/Society/Social_Issues/Debt_Bondage.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Social_Issues/Debt_Bondage.protect|Debt_Bondage.protect]] 
 
-### #is_/same_as :: [Debt_Bondage.private](/_private/Society/Social_Issues/Debt_Bondage.private.md) 
+### #is_/same_as :: [[/_private/Society/Social_Issues/Debt_Bondage.private|Debt_Bondage.private]] 
 
-### #is_/same_as :: [Debt_Bondage.personal](/_personal/Society/Social_Issues/Debt_Bondage.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Social_Issues/Debt_Bondage.personal|Debt_Bondage.personal]] 
 
-### #is_/same_as :: [Debt_Bondage.secret](/_secret/Society/Social_Issues/Debt_Bondage.secret.md)
+### #is_/same_as :: [[/_secret/Society/Social_Issues/Debt_Bondage.secret|Debt_Bondage.secret]] 
 

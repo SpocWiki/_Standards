@@ -53,17 +53,17 @@ Krugosvet_article: kultura_i_obrazovanie/religiya/AGNOSTITSIZM.html
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Agnosticism](/_Standards/Philosophy/Metaphysic/Religion/Agnosticism.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Agnosticism|Agnosticism]] 
 
-### #is_/same_as :: [Agnosticism.public](/_public/Philosophy/Metaphysic/Religion/Agnosticism.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Agnosticism.public|Agnosticism.public]] 
 
-### #is_/same_as :: [Agnosticism.internal](/_internal/Philosophy/Metaphysic/Religion/Agnosticism.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Agnosticism.internal|Agnosticism.internal]] 
 
-### #is_/same_as :: [Agnosticism.protect](/_protect/Philosophy/Metaphysic/Religion/Agnosticism.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Agnosticism.protect|Agnosticism.protect]] 
 
-### #is_/same_as :: [Agnosticism.private](/_private/Philosophy/Metaphysic/Religion/Agnosticism.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Agnosticism.private|Agnosticism.private]] 
 
-### #is_/same_as :: [Agnosticism.personal](/_personal/Philosophy/Metaphysic/Religion/Agnosticism.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Agnosticism.personal|Agnosticism.personal]] 
 
-### #is_/same_as :: [Agnosticism.secret](/_secret/Philosophy/Metaphysic/Religion/Agnosticism.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Agnosticism.secret|Agnosticism.secret]] 
 

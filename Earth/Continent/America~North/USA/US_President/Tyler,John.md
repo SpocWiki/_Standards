@@ -38,17 +38,17 @@ type: private_note
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Tyler,John](/_Standards/Earth/Continent/America~North/US~President/Tyler,John.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~North/USA/US_President/Tyler,John|Tyler,John]] 
 
-### #is_/same_as :: [Tyler,John.public](/_public/Earth/Continent/America~North/US~President/Tyler,John.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~North/USA/US_President/Tyler,John.public|Tyler,John.public]] 
 
-### #is_/same_as :: [Tyler,John.internal](/_internal/Earth/Continent/America~North/US~President/Tyler,John.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~North/USA/US_President/Tyler,John.internal|Tyler,John.internal]] 
 
-### #is_/same_as :: [Tyler,John.protect](/_protect/Earth/Continent/America~North/US~President/Tyler,John.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~North/USA/US_President/Tyler,John.protect|Tyler,John.protect]] 
 
-### #is_/same_as :: [Tyler,John.private](/_private/Earth/Continent/America~North/US~President/Tyler,John.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~North/USA/US_President/Tyler,John.private|Tyler,John.private]] 
 
-### #is_/same_as :: [Tyler,John.personal](/_personal/Earth/Continent/America~North/US~President/Tyler,John.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~North/USA/US_President/Tyler,John.personal|Tyler,John.personal]] 
 
-### #is_/same_as :: [Tyler,John.secret](/_secret/Earth/Continent/America~North/US~President/Tyler,John.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~North/USA/US_President/Tyler,John.secret|Tyler,John.secret]] 
 

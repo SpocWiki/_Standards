@@ -139,17 +139,17 @@ Examples include FOXP2 (Forkhead box protein P2), SCARNA21 (small Cajal body-spe
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Gene](/_Standards/bio/Genetics/Gene.md) 
+### #is_/same_as :: [[/_Standards/bio/Genetics/Gene|Gene]] 
 
-### #is_/same_as :: [Gene.public](/_public/bio/Genetics/Gene.public.md) 
+### #is_/same_as :: [[/_public/bio/Genetics/Gene.public|Gene.public]] 
 
-### #is_/same_as :: [Gene.internal](/_internal/bio/Genetics/Gene.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Genetics/Gene.internal|Gene.internal]] 
 
-### #is_/same_as :: [Gene.protect](/_protect/bio/Genetics/Gene.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Genetics/Gene.protect|Gene.protect]] 
 
-### #is_/same_as :: [Gene.private](/_private/bio/Genetics/Gene.private.md) 
+### #is_/same_as :: [[/_private/bio/Genetics/Gene.private|Gene.private]] 
 
-### #is_/same_as :: [Gene.personal](/_personal/bio/Genetics/Gene.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Genetics/Gene.personal|Gene.personal]] 
 
-### #is_/same_as :: [Gene.secret](/_secret/bio/Genetics/Gene.secret.md)
+### #is_/same_as :: [[/_secret/bio/Genetics/Gene.secret|Gene.secret]] 
 

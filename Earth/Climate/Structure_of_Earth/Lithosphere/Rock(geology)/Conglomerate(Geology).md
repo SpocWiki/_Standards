@@ -41,17 +41,17 @@ Krugosvet_article: Earth_sciences/geologiya/KONGLOMERAT.html
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Conglomerate(Geology)](/_Standards/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Conglomerate(Geology).md) 
+### #is_/same_as :: [[/_Standards/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Conglomerate(Geology)|Conglomerate(Geology)]] 
 
-### #is_/same_as :: [Conglomerate(Geology).public](/_public/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Conglomerate(Geology).public.md) 
+### #is_/same_as :: [[/_public/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Conglomerate(Geology).public|Conglomerate(Geology).public]] 
 
-### #is_/same_as :: [Conglomerate(Geology).internal](/_internal/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Conglomerate(Geology).internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Conglomerate(Geology).internal|Conglomerate(Geology).internal]] 
 
-### #is_/same_as :: [Conglomerate(Geology).protect](/_protect/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Conglomerate(Geology).protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Conglomerate(Geology).protect|Conglomerate(Geology).protect]] 
 
-### #is_/same_as :: [Conglomerate(Geology).private](/_private/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Conglomerate(Geology).private.md) 
+### #is_/same_as :: [[/_private/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Conglomerate(Geology).private|Conglomerate(Geology).private]] 
 
-### #is_/same_as :: [Conglomerate(Geology).personal](/_personal/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Conglomerate(Geology).personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Conglomerate(Geology).personal|Conglomerate(Geology).personal]] 
 
-### #is_/same_as :: [Conglomerate(Geology).secret](/_secret/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Conglomerate(Geology).secret.md)
+### #is_/same_as :: [[/_secret/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Conglomerate(Geology).secret|Conglomerate(Geology).secret]] 
 

@@ -51,17 +51,17 @@ defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Module(Math)](/_Standards/Mathematics/Algebra/Group_Theory/Module(Math).md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Algebra/Group_Theory/Module(Math)|Module(Math)]] 
 
-### #is_/same_as :: [Module(Math).public](/_public/Mathematics/Algebra/Group_Theory/Module(Math).public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Algebra/Group_Theory/Module(Math).public|Module(Math).public]] 
 
-### #is_/same_as :: [Module(Math).internal](/_internal/Mathematics/Algebra/Group_Theory/Module(Math).internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Algebra/Group_Theory/Module(Math).internal|Module(Math).internal]] 
 
-### #is_/same_as :: [Module(Math).protect](/_protect/Mathematics/Algebra/Group_Theory/Module(Math).protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Algebra/Group_Theory/Module(Math).protect|Module(Math).protect]] 
 
-### #is_/same_as :: [Module(Math).private](/_private/Mathematics/Algebra/Group_Theory/Module(Math).private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Algebra/Group_Theory/Module(Math).private|Module(Math).private]] 
 
-### #is_/same_as :: [Module(Math).personal](/_personal/Mathematics/Algebra/Group_Theory/Module(Math).personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Algebra/Group_Theory/Module(Math).personal|Module(Math).personal]] 
 
-### #is_/same_as :: [Module(Math).secret](/_secret/Mathematics/Algebra/Group_Theory/Module(Math).secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Algebra/Group_Theory/Module(Math).secret|Module(Math).secret]] 
 

@@ -73,17 +73,17 @@ XML has the broadest Definition of Unicode Whitespace Characters:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Whitespace](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Whitespace.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Whitespace|Whitespace]] 
 
-### #is_/same_as :: [Whitespace.public](/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Whitespace.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Whitespace.public|Whitespace.public]] 
 
-### #is_/same_as :: [Whitespace.internal](/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Whitespace.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Whitespace.internal|Whitespace.internal]] 
 
-### #is_/same_as :: [Whitespace.protect](/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Whitespace.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Whitespace.protect|Whitespace.protect]] 
 
-### #is_/same_as :: [Whitespace.private](/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Whitespace.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Whitespace.private|Whitespace.private]] 
 
-### #is_/same_as :: [Whitespace.personal](/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Whitespace.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Whitespace.personal|Whitespace.personal]] 
 
-### #is_/same_as :: [Whitespace.secret](/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Whitespace.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Whitespace.secret|Whitespace.secret]] 
 

@@ -79,7 +79,7 @@ pollinators although empirical studies are few.
 
 
 -------------------------------------------------------------------------- 
-![Salpixantha coccinea](Stenandrium/Salpix.jpg))
+![Salpixantha coccinea](Stenandrium/Salpix.jpg) 
 Scientific Name ::     Salpixantha coccinea Hook.
 Reference            British Museum (BM)
 Specimen Condition   Dead Specimen
@@ -94,7 +94,7 @@ Specimen Condition   Live Specimen
 Copyright ::            © [Lucinda A. McDade](mailto:lucinda.mcdade@cgu.edu) 
 
 --------------------------------------------------------------------------- 
-![Holographis ehrenbergiana](Stenandrium/holographis.jpg))
+![Holographis ehrenbergiana](Stenandrium/holographis.jpg) 
 Scientific Name ::     Holographis ehrenbergiana Nees
 Location ::           Mexico
 Reference            Kew Botanical Gardens (KEW)
@@ -106,17 +106,17 @@ Copyright ::            © 2006 [Lucinda A. McDade](mailto:lucinda.mcdade@cgu.ed
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Stenandrium](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Acantheae/Stenandrium.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Acantheae/Stenandrium|Stenandrium]] 
 
-### #is_/same_as :: [Stenandrium.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Acantheae/Stenandrium.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Acantheae/Stenandrium.public|Stenandrium.public]] 
 
-### #is_/same_as :: [Stenandrium.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Acantheae/Stenandrium.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Acantheae/Stenandrium.internal|Stenandrium.internal]] 
 
-### #is_/same_as :: [Stenandrium.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Acantheae/Stenandrium.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Acantheae/Stenandrium.protect|Stenandrium.protect]] 
 
-### #is_/same_as :: [Stenandrium.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Acantheae/Stenandrium.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Acantheae/Stenandrium.private|Stenandrium.private]] 
 
-### #is_/same_as :: [Stenandrium.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Acantheae/Stenandrium.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Acantheae/Stenandrium.personal|Stenandrium.personal]] 
 
-### #is_/same_as :: [Stenandrium.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Acantheae/Stenandrium.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Acantheae/Stenandrium.secret|Stenandrium.secret]] 
 

@@ -12,17 +12,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Whole_Wheat_Bread](/_Standards/bio/Metabolism/Digestion/Whole_Wheat_Bread.md) 
+### #is_/same_as :: [[/_Standards/bio/Metabolism/Digestion/Whole_Wheat_Bread|Whole_Wheat_Bread]] 
 
-### #is_/same_as :: [Whole_Wheat_Bread.public](/_public/bio/Metabolism/Digestion/Whole_Wheat_Bread.public.md) 
+### #is_/same_as :: [[/_public/bio/Metabolism/Digestion/Whole_Wheat_Bread.public|Whole_Wheat_Bread.public]] 
 
-### #is_/same_as :: [Whole_Wheat_Bread.internal](/_internal/bio/Metabolism/Digestion/Whole_Wheat_Bread.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Metabolism/Digestion/Whole_Wheat_Bread.internal|Whole_Wheat_Bread.internal]] 
 
-### #is_/same_as :: [Whole_Wheat_Bread.protect](/_protect/bio/Metabolism/Digestion/Whole_Wheat_Bread.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Metabolism/Digestion/Whole_Wheat_Bread.protect|Whole_Wheat_Bread.protect]] 
 
-### #is_/same_as :: [Whole_Wheat_Bread.private](/_private/bio/Metabolism/Digestion/Whole_Wheat_Bread.private.md) 
+### #is_/same_as :: [[/_private/bio/Metabolism/Digestion/Whole_Wheat_Bread.private|Whole_Wheat_Bread.private]] 
 
-### #is_/same_as :: [Whole_Wheat_Bread.personal](/_personal/bio/Metabolism/Digestion/Whole_Wheat_Bread.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Metabolism/Digestion/Whole_Wheat_Bread.personal|Whole_Wheat_Bread.personal]] 
 
-### #is_/same_as :: [Whole_Wheat_Bread.secret](/_secret/bio/Metabolism/Digestion/Whole_Wheat_Bread.secret.md)
+### #is_/same_as :: [[/_secret/bio/Metabolism/Digestion/Whole_Wheat_Bread.secret|Whole_Wheat_Bread.secret]] 
 

@@ -45,17 +45,17 @@ Krugosvet_article_archived_: nauka_i_tehnika/fizika/FOTOELEKTRICHESKI_EFFEKT.htm
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Photoelectric_Effect](/_Standards/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Light/Photoelectric_Effect.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Light/Photoelectric_Effect|Photoelectric_Effect]] 
 
-### #is_/same_as :: [Photoelectric_Effect.public](/_public/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Light/Photoelectric_Effect.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Light/Photoelectric_Effect.public|Photoelectric_Effect.public]] 
 
-### #is_/same_as :: [Photoelectric_Effect.internal](/_internal/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Light/Photoelectric_Effect.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Light/Photoelectric_Effect.internal|Photoelectric_Effect.internal]] 
 
-### #is_/same_as :: [Photoelectric_Effect.protect](/_protect/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Light/Photoelectric_Effect.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Light/Photoelectric_Effect.protect|Photoelectric_Effect.protect]] 
 
-### #is_/same_as :: [Photoelectric_Effect.private](/_private/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Light/Photoelectric_Effect.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Light/Photoelectric_Effect.private|Photoelectric_Effect.private]] 
 
-### #is_/same_as :: [Photoelectric_Effect.personal](/_personal/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Light/Photoelectric_Effect.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Light/Photoelectric_Effect.personal|Photoelectric_Effect.personal]] 
 
-### #is_/same_as :: [Photoelectric_Effect.secret](/_secret/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Light/Photoelectric_Effect.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Light/Photoelectric_Effect.secret|Photoelectric_Effect.secret]] 
 

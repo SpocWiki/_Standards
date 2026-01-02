@@ -50,17 +50,17 @@ Krugosvet_article_archived_: nauka_i_tehnika/tehnologiya_i_promyshlennost/GIDROE
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hydroelectricity](/_Standards/Technology/Energy-Technology/Hydroelectricity.md) 
+### #is_/same_as :: [[/_Standards/Technology/Energy-Technology/Hydroelectricity|Hydroelectricity]] 
 
-### #is_/same_as :: [Hydroelectricity.public](/_public/Technology/Energy-Technology/Hydroelectricity.public.md) 
+### #is_/same_as :: [[/_public/Technology/Energy-Technology/Hydroelectricity.public|Hydroelectricity.public]] 
 
-### #is_/same_as :: [Hydroelectricity.internal](/_internal/Technology/Energy-Technology/Hydroelectricity.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Energy-Technology/Hydroelectricity.internal|Hydroelectricity.internal]] 
 
-### #is_/same_as :: [Hydroelectricity.protect](/_protect/Technology/Energy-Technology/Hydroelectricity.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Energy-Technology/Hydroelectricity.protect|Hydroelectricity.protect]] 
 
-### #is_/same_as :: [Hydroelectricity.private](/_private/Technology/Energy-Technology/Hydroelectricity.private.md) 
+### #is_/same_as :: [[/_private/Technology/Energy-Technology/Hydroelectricity.private|Hydroelectricity.private]] 
 
-### #is_/same_as :: [Hydroelectricity.personal](/_personal/Technology/Energy-Technology/Hydroelectricity.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Energy-Technology/Hydroelectricity.personal|Hydroelectricity.personal]] 
 
-### #is_/same_as :: [Hydroelectricity.secret](/_secret/Technology/Energy-Technology/Hydroelectricity.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Energy-Technology/Hydroelectricity.secret|Hydroelectricity.secret]] 
 

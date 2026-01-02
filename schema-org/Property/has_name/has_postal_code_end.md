@@ -48,17 +48,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_postal_code_end](/_Standards/schema-org/Property/has_name/has_postal_code_end.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_name/has_postal_code_end|has_postal_code_end]] 
 
-### #is_/same_as :: [has_postal_code_end.public](/_public/schema-org/Property/has_name/has_postal_code_end.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/has_name/has_postal_code_end.public|has_postal_code_end.public]] 
 
-### #is_/same_as :: [has_postal_code_end.internal](/_internal/schema-org/Property/has_name/has_postal_code_end.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_name/has_postal_code_end.internal|has_postal_code_end.internal]] 
 
-### #is_/same_as :: [has_postal_code_end.protect](/_protect/schema-org/Property/has_name/has_postal_code_end.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_name/has_postal_code_end.protect|has_postal_code_end.protect]] 
 
-### #is_/same_as :: [has_postal_code_end.private](/_private/schema-org/Property/has_name/has_postal_code_end.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/has_name/has_postal_code_end.private|has_postal_code_end.private]] 
 
-### #is_/same_as :: [has_postal_code_end.personal](/_personal/schema-org/Property/has_name/has_postal_code_end.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_name/has_postal_code_end.personal|has_postal_code_end.personal]] 
 
-### #is_/same_as :: [has_postal_code_end.secret](/_secret/schema-org/Property/has_name/has_postal_code_end.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/has_name/has_postal_code_end.secret|has_postal_code_end.secret]] 
 

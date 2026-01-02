@@ -74,17 +74,17 @@ title: Chlamydiae
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Chlamydiae](/_Standards/bio/bio~Domain/Bacteria/Pseudomonadati/Chlamydiae.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Bacteria/Pseudomonadati/Chlamydiae|Chlamydiae]] 
 
-### #is_/same_as :: [Chlamydiae.public](/_public/bio/bio~Domain/Bacteria/Pseudomonadati/Chlamydiae.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Bacteria/Pseudomonadati/Chlamydiae.public|Chlamydiae.public]] 
 
-### #is_/same_as :: [Chlamydiae.internal](/_internal/bio/bio~Domain/Bacteria/Pseudomonadati/Chlamydiae.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Bacteria/Pseudomonadati/Chlamydiae.internal|Chlamydiae.internal]] 
 
-### #is_/same_as :: [Chlamydiae.protect](/_protect/bio/bio~Domain/Bacteria/Pseudomonadati/Chlamydiae.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Bacteria/Pseudomonadati/Chlamydiae.protect|Chlamydiae.protect]] 
 
-### #is_/same_as :: [Chlamydiae.private](/_private/bio/bio~Domain/Bacteria/Pseudomonadati/Chlamydiae.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Bacteria/Pseudomonadati/Chlamydiae.private|Chlamydiae.private]] 
 
-### #is_/same_as :: [Chlamydiae.personal](/_personal/bio/bio~Domain/Bacteria/Pseudomonadati/Chlamydiae.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Bacteria/Pseudomonadati/Chlamydiae.personal|Chlamydiae.personal]] 
 
-### #is_/same_as :: [Chlamydiae.secret](/_secret/bio/bio~Domain/Bacteria/Pseudomonadati/Chlamydiae.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Bacteria/Pseudomonadati/Chlamydiae.secret|Chlamydiae.secret]] 
 

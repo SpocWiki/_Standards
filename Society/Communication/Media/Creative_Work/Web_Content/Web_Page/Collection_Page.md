@@ -43,17 +43,17 @@ Web page type: Collection page.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Collection_Page](/_Standards/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Collection_Page.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Collection_Page|Collection_Page]] 
 
-### #is_/same_as :: [Collection_Page.public](/_public/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Collection_Page.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Collection_Page.public|Collection_Page.public]] 
 
-### #is_/same_as :: [Collection_Page.internal](/_internal/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Collection_Page.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Collection_Page.internal|Collection_Page.internal]] 
 
-### #is_/same_as :: [Collection_Page.protect](/_protect/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Collection_Page.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Collection_Page.protect|Collection_Page.protect]] 
 
-### #is_/same_as :: [Collection_Page.private](/_private/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Collection_Page.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Collection_Page.private|Collection_Page.private]] 
 
-### #is_/same_as :: [Collection_Page.personal](/_personal/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Collection_Page.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Collection_Page.personal|Collection_Page.personal]] 
 
-### #is_/same_as :: [Collection_Page.secret](/_secret/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Collection_Page.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Collection_Page.secret|Collection_Page.secret]] 
 

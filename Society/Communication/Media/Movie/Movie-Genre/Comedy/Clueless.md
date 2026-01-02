@@ -29,17 +29,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Clueless](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Comedy/Clueless.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Genre/Comedy/Clueless|Clueless]] 
 
-### #is_/same_as :: [Clueless.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Comedy/Clueless.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Genre/Comedy/Clueless.public|Clueless.public]] 
 
-### #is_/same_as :: [Clueless.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Comedy/Clueless.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Genre/Comedy/Clueless.internal|Clueless.internal]] 
 
-### #is_/same_as :: [Clueless.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Comedy/Clueless.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Genre/Comedy/Clueless.protect|Clueless.protect]] 
 
-### #is_/same_as :: [Clueless.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Comedy/Clueless.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Genre/Comedy/Clueless.private|Clueless.private]] 
 
-### #is_/same_as :: [Clueless.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Comedy/Clueless.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Genre/Comedy/Clueless.personal|Clueless.personal]] 
 
-### #is_/same_as :: [Clueless.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Comedy/Clueless.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Genre/Comedy/Clueless.secret|Clueless.secret]] 
 

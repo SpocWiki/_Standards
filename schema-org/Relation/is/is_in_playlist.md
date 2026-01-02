@@ -42,17 +42,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [is_in_playlist](/_Standards/schema-org/Relation/is/is_in_playlist.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/is/is_in_playlist|is_in_playlist]] 
 
-### #is_/same_as :: [is_in_playlist.public](/_public/schema-org/Relation/is/is_in_playlist.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/is/is_in_playlist.public|is_in_playlist.public]] 
 
-### #is_/same_as :: [is_in_playlist.internal](/_internal/schema-org/Relation/is/is_in_playlist.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/is/is_in_playlist.internal|is_in_playlist.internal]] 
 
-### #is_/same_as :: [is_in_playlist.protect](/_protect/schema-org/Relation/is/is_in_playlist.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/is/is_in_playlist.protect|is_in_playlist.protect]] 
 
-### #is_/same_as :: [is_in_playlist.private](/_private/schema-org/Relation/is/is_in_playlist.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/is/is_in_playlist.private|is_in_playlist.private]] 
 
-### #is_/same_as :: [is_in_playlist.personal](/_personal/schema-org/Relation/is/is_in_playlist.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/is/is_in_playlist.personal|is_in_playlist.personal]] 
 
-### #is_/same_as :: [is_in_playlist.secret](/_secret/schema-org/Relation/is/is_in_playlist.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/is/is_in_playlist.secret|is_in_playlist.secret]] 
 

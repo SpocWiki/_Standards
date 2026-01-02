@@ -88,17 +88,17 @@ Wolfram_Language_entity_code: Entity["FoodType", "Poultry"]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Poultry](/_Standards/Society/Economics/Industry/Agriculture/Domestication/Poultry.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Industry/Agriculture/Domestication/Poultry|Poultry]] 
 
-### #is_/same_as :: [Poultry.public](/_public/Society/Economics/Industry/Agriculture/Domestication/Poultry.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Industry/Agriculture/Domestication/Poultry.public|Poultry.public]] 
 
-### #is_/same_as :: [Poultry.internal](/_internal/Society/Economics/Industry/Agriculture/Domestication/Poultry.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Industry/Agriculture/Domestication/Poultry.internal|Poultry.internal]] 
 
-### #is_/same_as :: [Poultry.protect](/_protect/Society/Economics/Industry/Agriculture/Domestication/Poultry.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Industry/Agriculture/Domestication/Poultry.protect|Poultry.protect]] 
 
-### #is_/same_as :: [Poultry.private](/_private/Society/Economics/Industry/Agriculture/Domestication/Poultry.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Industry/Agriculture/Domestication/Poultry.private|Poultry.private]] 
 
-### #is_/same_as :: [Poultry.personal](/_personal/Society/Economics/Industry/Agriculture/Domestication/Poultry.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Industry/Agriculture/Domestication/Poultry.personal|Poultry.personal]] 
 
-### #is_/same_as :: [Poultry.secret](/_secret/Society/Economics/Industry/Agriculture/Domestication/Poultry.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Industry/Agriculture/Domestication/Poultry.secret|Poultry.secret]] 
 

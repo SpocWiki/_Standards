@@ -51,17 +51,17 @@ end_time: 1124-01-01T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [1076-Investiture_Controversy+1122](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages/CE_1000/1076-Investiture_Controversy+1122.md) 
+### #is_/same_as :: [[/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages/CE_1000/1076-Investiture_Controversy+1122|1076-Investiture_Controversy+1122]] 
 
-### #is_/same_as :: [1076-Investiture_Controversy+1122.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages/CE_1000/1076-Investiture_Controversy+1122.public.md) 
+### #is_/same_as :: [[/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages/CE_1000/1076-Investiture_Controversy+1122.public|1076-Investiture_Controversy+1122.public]] 
 
-### #is_/same_as :: [1076-Investiture_Controversy+1122.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages/CE_1000/1076-Investiture_Controversy+1122.internal.md) 
+### #is_/same_as :: [[/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages/CE_1000/1076-Investiture_Controversy+1122.internal|1076-Investiture_Controversy+1122.internal]] 
 
-### #is_/same_as :: [1076-Investiture_Controversy+1122.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages/CE_1000/1076-Investiture_Controversy+1122.protect.md) 
+### #is_/same_as :: [[/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages/CE_1000/1076-Investiture_Controversy+1122.protect|1076-Investiture_Controversy+1122.protect]] 
 
-### #is_/same_as :: [1076-Investiture_Controversy+1122.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages/CE_1000/1076-Investiture_Controversy+1122.private.md) 
+### #is_/same_as :: [[/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages/CE_1000/1076-Investiture_Controversy+1122.private|1076-Investiture_Controversy+1122.private]] 
 
-### #is_/same_as :: [1076-Investiture_Controversy+1122.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages/CE_1000/1076-Investiture_Controversy+1122.personal.md) 
+### #is_/same_as :: [[/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages/CE_1000/1076-Investiture_Controversy+1122.personal|1076-Investiture_Controversy+1122.personal]] 
 
-### #is_/same_as :: [1076-Investiture_Controversy+1122.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages/CE_1000/1076-Investiture_Controversy+1122.secret.md)
+### #is_/same_as :: [[/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages/CE_1000/1076-Investiture_Controversy+1122.secret|1076-Investiture_Controversy+1122.secret]] 
 

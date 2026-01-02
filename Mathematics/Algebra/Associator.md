@@ -56,17 +56,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Associator](/_Standards/Mathematics/Algebra/Associator.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Algebra/Associator|Associator]] 
 
-### #is_/same_as :: [Associator.public](/_public/Mathematics/Algebra/Associator.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Algebra/Associator.public|Associator.public]] 
 
-### #is_/same_as :: [Associator.internal](/_internal/Mathematics/Algebra/Associator.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Algebra/Associator.internal|Associator.internal]] 
 
-### #is_/same_as :: [Associator.protect](/_protect/Mathematics/Algebra/Associator.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Algebra/Associator.protect|Associator.protect]] 
 
-### #is_/same_as :: [Associator.private](/_private/Mathematics/Algebra/Associator.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Algebra/Associator.private|Associator.private]] 
 
-### #is_/same_as :: [Associator.personal](/_personal/Mathematics/Algebra/Associator.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Algebra/Associator.personal|Associator.personal]] 
 
-### #is_/same_as :: [Associator.secret](/_secret/Mathematics/Algebra/Associator.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Algebra/Associator.secret|Associator.secret]] 
 

@@ -46,17 +46,17 @@ A Star powered by fusion of hydrogen in shell with an inactive core of helium.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Red_Giant](/_Standards/Astronomy/Star/Star~Class/Red_Giant.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Star/Star~Class/Red_Giant|Red_Giant]] 
 
-### #is_/same_as :: [Red_Giant.public](/_public/Astronomy/Star/Star~Class/Red_Giant.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Star/Star~Class/Red_Giant.public|Red_Giant.public]] 
 
-### #is_/same_as :: [Red_Giant.internal](/_internal/Astronomy/Star/Star~Class/Red_Giant.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Star/Star~Class/Red_Giant.internal|Red_Giant.internal]] 
 
-### #is_/same_as :: [Red_Giant.protect](/_protect/Astronomy/Star/Star~Class/Red_Giant.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Star/Star~Class/Red_Giant.protect|Red_Giant.protect]] 
 
-### #is_/same_as :: [Red_Giant.private](/_private/Astronomy/Star/Star~Class/Red_Giant.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Star/Star~Class/Red_Giant.private|Red_Giant.private]] 
 
-### #is_/same_as :: [Red_Giant.personal](/_personal/Astronomy/Star/Star~Class/Red_Giant.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Star/Star~Class/Red_Giant.personal|Red_Giant.personal]] 
 
-### #is_/same_as :: [Red_Giant.secret](/_secret/Astronomy/Star/Star~Class/Red_Giant.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Star/Star~Class/Red_Giant.secret|Red_Giant.secret]] 
 

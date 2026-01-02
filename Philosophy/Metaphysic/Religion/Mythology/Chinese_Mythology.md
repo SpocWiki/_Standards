@@ -51,17 +51,17 @@ Commons_category: Mythology of China
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Chinese_Mythology](/_Standards/Philosophy/Metaphysic/Religion/Mythology/Chinese_Mythology.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Mythology/Chinese_Mythology|Chinese_Mythology]] 
 
-### #is_/same_as :: [Chinese_Mythology.public](/_public/Philosophy/Metaphysic/Religion/Mythology/Chinese_Mythology.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Mythology/Chinese_Mythology.public|Chinese_Mythology.public]] 
 
-### #is_/same_as :: [Chinese_Mythology.internal](/_internal/Philosophy/Metaphysic/Religion/Mythology/Chinese_Mythology.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Mythology/Chinese_Mythology.internal|Chinese_Mythology.internal]] 
 
-### #is_/same_as :: [Chinese_Mythology.protect](/_protect/Philosophy/Metaphysic/Religion/Mythology/Chinese_Mythology.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Mythology/Chinese_Mythology.protect|Chinese_Mythology.protect]] 
 
-### #is_/same_as :: [Chinese_Mythology.private](/_private/Philosophy/Metaphysic/Religion/Mythology/Chinese_Mythology.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Mythology/Chinese_Mythology.private|Chinese_Mythology.private]] 
 
-### #is_/same_as :: [Chinese_Mythology.personal](/_personal/Philosophy/Metaphysic/Religion/Mythology/Chinese_Mythology.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Mythology/Chinese_Mythology.personal|Chinese_Mythology.personal]] 
 
-### #is_/same_as :: [Chinese_Mythology.secret](/_secret/Philosophy/Metaphysic/Religion/Mythology/Chinese_Mythology.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Mythology/Chinese_Mythology.secret|Chinese_Mythology.secret]] 
 

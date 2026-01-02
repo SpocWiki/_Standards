@@ -26,17 +26,17 @@ has_id_wikidata: ''
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Romantic_Composer](/_Standards/Society/Communication/Media/Music/Composer/Romantic_Composer.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Composer/Romantic_Composer|Romantic_Composer]] 
 
-### #is_/same_as :: [Romantic_Composer.public](/_public/Society/Communication/Media/Music/Composer/Romantic_Composer.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Composer/Romantic_Composer.public|Romantic_Composer.public]] 
 
-### #is_/same_as :: [Romantic_Composer.internal](/_internal/Society/Communication/Media/Music/Composer/Romantic_Composer.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Composer/Romantic_Composer.internal|Romantic_Composer.internal]] 
 
-### #is_/same_as :: [Romantic_Composer.protect](/_protect/Society/Communication/Media/Music/Composer/Romantic_Composer.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Composer/Romantic_Composer.protect|Romantic_Composer.protect]] 
 
-### #is_/same_as :: [Romantic_Composer.private](/_private/Society/Communication/Media/Music/Composer/Romantic_Composer.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Composer/Romantic_Composer.private|Romantic_Composer.private]] 
 
-### #is_/same_as :: [Romantic_Composer.personal](/_personal/Society/Communication/Media/Music/Composer/Romantic_Composer.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Composer/Romantic_Composer.personal|Romantic_Composer.personal]] 
 
-### #is_/same_as :: [Romantic_Composer.secret](/_secret/Society/Communication/Media/Music/Composer/Romantic_Composer.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Composer/Romantic_Composer.secret|Romantic_Composer.secret]] 
 

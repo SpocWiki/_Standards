@@ -44,17 +44,17 @@ Imperial size system.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Size_System_Imperial](/_Standards/schema-org/Enumeration/Size_System_Enumeration/Size_System_Imperial.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Size_System_Enumeration/Size_System_Imperial|Size_System_Imperial]] 
 
-### #is_/same_as :: [Size_System_Imperial.public](/_public/schema-org/Enumeration/Size_System_Enumeration/Size_System_Imperial.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Size_System_Enumeration/Size_System_Imperial.public|Size_System_Imperial.public]] 
 
-### #is_/same_as :: [Size_System_Imperial.internal](/_internal/schema-org/Enumeration/Size_System_Enumeration/Size_System_Imperial.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Size_System_Enumeration/Size_System_Imperial.internal|Size_System_Imperial.internal]] 
 
-### #is_/same_as :: [Size_System_Imperial.protect](/_protect/schema-org/Enumeration/Size_System_Enumeration/Size_System_Imperial.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Size_System_Enumeration/Size_System_Imperial.protect|Size_System_Imperial.protect]] 
 
-### #is_/same_as :: [Size_System_Imperial.private](/_private/schema-org/Enumeration/Size_System_Enumeration/Size_System_Imperial.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Size_System_Enumeration/Size_System_Imperial.private|Size_System_Imperial.private]] 
 
-### #is_/same_as :: [Size_System_Imperial.personal](/_personal/schema-org/Enumeration/Size_System_Enumeration/Size_System_Imperial.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Size_System_Enumeration/Size_System_Imperial.personal|Size_System_Imperial.personal]] 
 
-### #is_/same_as :: [Size_System_Imperial.secret](/_secret/schema-org/Enumeration/Size_System_Enumeration/Size_System_Imperial.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Size_System_Enumeration/Size_System_Imperial.secret|Size_System_Imperial.secret]] 
 

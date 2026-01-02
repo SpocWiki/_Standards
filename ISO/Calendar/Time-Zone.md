@@ -46,17 +46,17 @@ Wolfram_Language_entity_type: TimeZone
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Time-Zone](/_Standards/ISO/Calendar/Time-Zone.md) 
+### #is_/same_as :: [[/_Standards/ISO/Calendar/Time-Zone|Time-Zone]] 
 
-### #is_/same_as :: [Time-Zone.public](/_public/ISO/Calendar/Time-Zone.public.md) 
+### #is_/same_as :: [[/_public/ISO/Calendar/Time-Zone.public|Time-Zone.public]] 
 
-### #is_/same_as :: [Time-Zone.internal](/_internal/ISO/Calendar/Time-Zone.internal.md) 
+### #is_/same_as :: [[/_internal/ISO/Calendar/Time-Zone.internal|Time-Zone.internal]] 
 
-### #is_/same_as :: [Time-Zone.protect](/_protect/ISO/Calendar/Time-Zone.protect.md) 
+### #is_/same_as :: [[/_protect/ISO/Calendar/Time-Zone.protect|Time-Zone.protect]] 
 
-### #is_/same_as :: [Time-Zone.private](/_private/ISO/Calendar/Time-Zone.private.md) 
+### #is_/same_as :: [[/_private/ISO/Calendar/Time-Zone.private|Time-Zone.private]] 
 
-### #is_/same_as :: [Time-Zone.personal](/_personal/ISO/Calendar/Time-Zone.personal.md) 
+### #is_/same_as :: [[/_personal/ISO/Calendar/Time-Zone.personal|Time-Zone.personal]] 
 
-### #is_/same_as :: [Time-Zone.secret](/_secret/ISO/Calendar/Time-Zone.secret.md)
+### #is_/same_as :: [[/_secret/ISO/Calendar/Time-Zone.secret|Time-Zone.secret]] 
 

@@ -60,17 +60,17 @@ type: private_note
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Jackson,Andrew](/_Standards/Earth/Continent/America~North/US~President/Jackson,Andrew.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~North/USA/US_President/Jackson,Andrew|Jackson,Andrew]] 
 
-### #is_/same_as :: [Jackson,Andrew.public](/_public/Earth/Continent/America~North/US~President/Jackson,Andrew.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~North/USA/US_President/Jackson,Andrew.public|Jackson,Andrew.public]] 
 
-### #is_/same_as :: [Jackson,Andrew.internal](/_internal/Earth/Continent/America~North/US~President/Jackson,Andrew.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~North/USA/US_President/Jackson,Andrew.internal|Jackson,Andrew.internal]] 
 
-### #is_/same_as :: [Jackson,Andrew.protect](/_protect/Earth/Continent/America~North/US~President/Jackson,Andrew.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~North/USA/US_President/Jackson,Andrew.protect|Jackson,Andrew.protect]] 
 
-### #is_/same_as :: [Jackson,Andrew.private](/_private/Earth/Continent/America~North/US~President/Jackson,Andrew.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~North/USA/US_President/Jackson,Andrew.private|Jackson,Andrew.private]] 
 
-### #is_/same_as :: [Jackson,Andrew.personal](/_personal/Earth/Continent/America~North/US~President/Jackson,Andrew.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~North/USA/US_President/Jackson,Andrew.personal|Jackson,Andrew.personal]] 
 
-### #is_/same_as :: [Jackson,Andrew.secret](/_secret/Earth/Continent/America~North/US~President/Jackson,Andrew.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~North/USA/US_President/Jackson,Andrew.secret|Jackson,Andrew.secret]] 
 

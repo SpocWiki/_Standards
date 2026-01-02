@@ -35,17 +35,17 @@ Krugosvet_article_archived_: teatr-i-kino/kino-istoriya
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [History_of_Film](/_Standards/Society/Communication/Media/Film/History_of_Film.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Film/History_of_Film|History_of_Film]] 
 
-### #is_/same_as :: [History_of_Film.public](/_public/Society/Communication/Media/Film/History_of_Film.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Film/History_of_Film.public|History_of_Film.public]] 
 
-### #is_/same_as :: [History_of_Film.internal](/_internal/Society/Communication/Media/Film/History_of_Film.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Film/History_of_Film.internal|History_of_Film.internal]] 
 
-### #is_/same_as :: [History_of_Film.protect](/_protect/Society/Communication/Media/Film/History_of_Film.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Film/History_of_Film.protect|History_of_Film.protect]] 
 
-### #is_/same_as :: [History_of_Film.private](/_private/Society/Communication/Media/Film/History_of_Film.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Film/History_of_Film.private|History_of_Film.private]] 
 
-### #is_/same_as :: [History_of_Film.personal](/_personal/Society/Communication/Media/Film/History_of_Film.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Film/History_of_Film.personal|History_of_Film.personal]] 
 
-### #is_/same_as :: [History_of_Film.secret](/_secret/Society/Communication/Media/Film/History_of_Film.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Film/History_of_Film.secret|History_of_Film.secret]] 
 

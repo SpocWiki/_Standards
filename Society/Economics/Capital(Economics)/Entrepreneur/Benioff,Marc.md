@@ -21,17 +21,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Benioff,Marc](/_Standards/Society/Economics/Capital(Economics)/Entrepreneur/Benioff,Marc.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Capital(Economics)/Entrepreneur/Benioff,Marc|Benioff,Marc]] 
 
-### #is_/same_as :: [Benioff,Marc.public](/_public/Society/Economics/Capital(Economics)/Entrepreneur/Benioff,Marc.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Capital(Economics)/Entrepreneur/Benioff,Marc.public|Benioff,Marc.public]] 
 
-### #is_/same_as :: [Benioff,Marc.internal](/_internal/Society/Economics/Capital(Economics)/Entrepreneur/Benioff,Marc.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Capital(Economics)/Entrepreneur/Benioff,Marc.internal|Benioff,Marc.internal]] 
 
-### #is_/same_as :: [Benioff,Marc.protect](/_protect/Society/Economics/Capital(Economics)/Entrepreneur/Benioff,Marc.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Capital(Economics)/Entrepreneur/Benioff,Marc.protect|Benioff,Marc.protect]] 
 
-### #is_/same_as :: [Benioff,Marc.private](/_private/Society/Economics/Capital(Economics)/Entrepreneur/Benioff,Marc.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Capital(Economics)/Entrepreneur/Benioff,Marc.private|Benioff,Marc.private]] 
 
-### #is_/same_as :: [Benioff,Marc.personal](/_personal/Society/Economics/Capital(Economics)/Entrepreneur/Benioff,Marc.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Capital(Economics)/Entrepreneur/Benioff,Marc.personal|Benioff,Marc.personal]] 
 
-### #is_/same_as :: [Benioff,Marc.secret](/_secret/Society/Economics/Capital(Economics)/Entrepreneur/Benioff,Marc.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Capital(Economics)/Entrepreneur/Benioff,Marc.secret|Benioff,Marc.secret]] 
 

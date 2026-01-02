@@ -45,17 +45,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_value_for_months_of_experience](/_Standards/schema-org/Property/has_value_for/has_value_for_months_of_experience.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_value_for/has_value_for_months_of_experience|has_value_for_months_of_experience]] 
 
-### #is_/same_as :: [has_value_for_months_of_experience.public](/_public/schema-org/Property/has_value_for/has_value_for_months_of_experience.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/has_value_for/has_value_for_months_of_experience.public|has_value_for_months_of_experience.public]] 
 
-### #is_/same_as :: [has_value_for_months_of_experience.internal](/_internal/schema-org/Property/has_value_for/has_value_for_months_of_experience.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_value_for/has_value_for_months_of_experience.internal|has_value_for_months_of_experience.internal]] 
 
-### #is_/same_as :: [has_value_for_months_of_experience.protect](/_protect/schema-org/Property/has_value_for/has_value_for_months_of_experience.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_value_for/has_value_for_months_of_experience.protect|has_value_for_months_of_experience.protect]] 
 
-### #is_/same_as :: [has_value_for_months_of_experience.private](/_private/schema-org/Property/has_value_for/has_value_for_months_of_experience.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/has_value_for/has_value_for_months_of_experience.private|has_value_for_months_of_experience.private]] 
 
-### #is_/same_as :: [has_value_for_months_of_experience.personal](/_personal/schema-org/Property/has_value_for/has_value_for_months_of_experience.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_value_for/has_value_for_months_of_experience.personal|has_value_for_months_of_experience.personal]] 
 
-### #is_/same_as :: [has_value_for_months_of_experience.secret](/_secret/schema-org/Property/has_value_for/has_value_for_months_of_experience.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/has_value_for/has_value_for_months_of_experience.secret|has_value_for_months_of_experience.secret]] 
 

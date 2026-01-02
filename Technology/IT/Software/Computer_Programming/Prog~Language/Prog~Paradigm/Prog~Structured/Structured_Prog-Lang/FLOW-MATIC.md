@@ -20,17 +20,17 @@ The A-0 system was followed by the A-1, A-2, A-3 (released as [ARITH-MATIC](htt
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FLOW-MATIC](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structured_Prog-Lang/FLOW-MATIC.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structured_Prog-Lang/FLOW-MATIC|FLOW-MATIC]] 
 
-### #is_/same_as :: [FLOW-MATIC.public](/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structured_Prog-Lang/FLOW-MATIC.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structured_Prog-Lang/FLOW-MATIC.public|FLOW-MATIC.public]] 
 
-### #is_/same_as :: [FLOW-MATIC.internal](/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structured_Prog-Lang/FLOW-MATIC.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structured_Prog-Lang/FLOW-MATIC.internal|FLOW-MATIC.internal]] 
 
-### #is_/same_as :: [FLOW-MATIC.protect](/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structured_Prog-Lang/FLOW-MATIC.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structured_Prog-Lang/FLOW-MATIC.protect|FLOW-MATIC.protect]] 
 
-### #is_/same_as :: [FLOW-MATIC.private](/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structured_Prog-Lang/FLOW-MATIC.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structured_Prog-Lang/FLOW-MATIC.private|FLOW-MATIC.private]] 
 
-### #is_/same_as :: [FLOW-MATIC.personal](/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structured_Prog-Lang/FLOW-MATIC.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structured_Prog-Lang/FLOW-MATIC.personal|FLOW-MATIC.personal]] 
 
-### #is_/same_as :: [FLOW-MATIC.secret](/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structured_Prog-Lang/FLOW-MATIC.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structured_Prog-Lang/FLOW-MATIC.secret|FLOW-MATIC.secret]] 
 

@@ -31,17 +31,17 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Kazimierz%20Nowak%20in
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Exploration](/_Standards/Earth/Explorer/Exploration.md) 
+### #is_/same_as :: [[/_Standards/Earth/Explorer/Exploration|Exploration]] 
 
-### #is_/same_as :: [Exploration.public](/_public/Earth/Explorer/Exploration.public.md) 
+### #is_/same_as :: [[/_public/Earth/Explorer/Exploration.public|Exploration.public]] 
 
-### #is_/same_as :: [Exploration.internal](/_internal/Earth/Explorer/Exploration.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Explorer/Exploration.internal|Exploration.internal]] 
 
-### #is_/same_as :: [Exploration.protect](/_protect/Earth/Explorer/Exploration.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Explorer/Exploration.protect|Exploration.protect]] 
 
-### #is_/same_as :: [Exploration.private](/_private/Earth/Explorer/Exploration.private.md) 
+### #is_/same_as :: [[/_private/Earth/Explorer/Exploration.private|Exploration.private]] 
 
-### #is_/same_as :: [Exploration.personal](/_personal/Earth/Explorer/Exploration.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Explorer/Exploration.personal|Exploration.personal]] 
 
-### #is_/same_as :: [Exploration.secret](/_secret/Earth/Explorer/Exploration.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Explorer/Exploration.secret|Exploration.secret]] 
 

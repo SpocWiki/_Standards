@@ -137,17 +137,17 @@ date_of_birth: 1778-12-06T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Gay-Lussac,Joseph_Louis](/_Standards/Science/Physics/Physicist/Gay-Lussac,Joseph_Louis.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Physicist/Gay-Lussac,Joseph_Louis|Gay-Lussac,Joseph_Louis]] 
 
-### #is_/same_as :: [Gay-Lussac,Joseph_Louis.public](/_public/Science/Physics/Physicist/Gay-Lussac,Joseph_Louis.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Physicist/Gay-Lussac,Joseph_Louis.public|Gay-Lussac,Joseph_Louis.public]] 
 
-### #is_/same_as :: [Gay-Lussac,Joseph_Louis.internal](/_internal/Science/Physics/Physicist/Gay-Lussac,Joseph_Louis.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Physicist/Gay-Lussac,Joseph_Louis.internal|Gay-Lussac,Joseph_Louis.internal]] 
 
-### #is_/same_as :: [Gay-Lussac,Joseph_Louis.protect](/_protect/Science/Physics/Physicist/Gay-Lussac,Joseph_Louis.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Physicist/Gay-Lussac,Joseph_Louis.protect|Gay-Lussac,Joseph_Louis.protect]] 
 
-### #is_/same_as :: [Gay-Lussac,Joseph_Louis.private](/_private/Science/Physics/Physicist/Gay-Lussac,Joseph_Louis.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Physicist/Gay-Lussac,Joseph_Louis.private|Gay-Lussac,Joseph_Louis.private]] 
 
-### #is_/same_as :: [Gay-Lussac,Joseph_Louis.personal](/_personal/Science/Physics/Physicist/Gay-Lussac,Joseph_Louis.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Physicist/Gay-Lussac,Joseph_Louis.personal|Gay-Lussac,Joseph_Louis.personal]] 
 
-### #is_/same_as :: [Gay-Lussac,Joseph_Louis.secret](/_secret/Science/Physics/Physicist/Gay-Lussac,Joseph_Louis.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Physicist/Gay-Lussac,Joseph_Louis.secret|Gay-Lussac,Joseph_Louis.secret]] 
 

@@ -85,17 +85,17 @@ A reservoir of water, typically an artificially created lake, like the Lake Kari
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [reservoir](/_Standards/Earth/Geology/Landform/body_of_water/reservoir.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geology/Landform/body_of_water/reservoir|reservoir]] 
 
-### #is_/same_as :: [reservoir.public](/_public/Earth/Geology/Landform/body_of_water/reservoir.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geology/Landform/body_of_water/reservoir.public|reservoir.public]] 
 
-### #is_/same_as :: [reservoir.internal](/_internal/Earth/Geology/Landform/body_of_water/reservoir.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geology/Landform/body_of_water/reservoir.internal|reservoir.internal]] 
 
-### #is_/same_as :: [reservoir.protect](/_protect/Earth/Geology/Landform/body_of_water/reservoir.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geology/Landform/body_of_water/reservoir.protect|reservoir.protect]] 
 
-### #is_/same_as :: [reservoir.private](/_private/Earth/Geology/Landform/body_of_water/reservoir.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geology/Landform/body_of_water/reservoir.private|reservoir.private]] 
 
-### #is_/same_as :: [reservoir.personal](/_personal/Earth/Geology/Landform/body_of_water/reservoir.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geology/Landform/body_of_water/reservoir.personal|reservoir.personal]] 
 
-### #is_/same_as :: [reservoir.secret](/_secret/Earth/Geology/Landform/body_of_water/reservoir.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geology/Landform/body_of_water/reservoir.secret|reservoir.secret]] 
 

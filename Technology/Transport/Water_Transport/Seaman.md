@@ -52,17 +52,17 @@ male_form_of_label: Matrous
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Seaman](/_Standards/Technology/Transport/Water_Transport/Seaman.md) 
+### #is_/same_as :: [[/_Standards/Technology/Transport/Water_Transport/Seaman|Seaman]] 
 
-### #is_/same_as :: [Seaman.public](/_public/Technology/Transport/Water_Transport/Seaman.public.md) 
+### #is_/same_as :: [[/_public/Technology/Transport/Water_Transport/Seaman.public|Seaman.public]] 
 
-### #is_/same_as :: [Seaman.internal](/_internal/Technology/Transport/Water_Transport/Seaman.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Transport/Water_Transport/Seaman.internal|Seaman.internal]] 
 
-### #is_/same_as :: [Seaman.protect](/_protect/Technology/Transport/Water_Transport/Seaman.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Transport/Water_Transport/Seaman.protect|Seaman.protect]] 
 
-### #is_/same_as :: [Seaman.private](/_private/Technology/Transport/Water_Transport/Seaman.private.md) 
+### #is_/same_as :: [[/_private/Technology/Transport/Water_Transport/Seaman.private|Seaman.private]] 
 
-### #is_/same_as :: [Seaman.personal](/_personal/Technology/Transport/Water_Transport/Seaman.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Transport/Water_Transport/Seaman.personal|Seaman.personal]] 
 
-### #is_/same_as :: [Seaman.secret](/_secret/Technology/Transport/Water_Transport/Seaman.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Transport/Water_Transport/Seaman.secret|Seaman.secret]] 
 

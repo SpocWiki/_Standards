@@ -256,17 +256,17 @@ Wolfram_Language_entity_code: Entity["MusicAct", "PaulMcCartney::35xtf"]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [McCartney,Paul](/_Standards/Society/Communication/Media/Music/Musician/Music~Band/Beatles/McCartney,Paul.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Musician/Music~Band/Beatles/McCartney,Paul|McCartney,Paul]] 
 
-### #is_/same_as :: [McCartney,Paul.public](/_public/Society/Communication/Media/Music/Musician/Music~Band/Beatles/McCartney,Paul.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Musician/Music~Band/Beatles/McCartney,Paul.public|McCartney,Paul.public]] 
 
-### #is_/same_as :: [McCartney,Paul.internal](/_internal/Society/Communication/Media/Music/Musician/Music~Band/Beatles/McCartney,Paul.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Musician/Music~Band/Beatles/McCartney,Paul.internal|McCartney,Paul.internal]] 
 
-### #is_/same_as :: [McCartney,Paul.protect](/_protect/Society/Communication/Media/Music/Musician/Music~Band/Beatles/McCartney,Paul.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Musician/Music~Band/Beatles/McCartney,Paul.protect|McCartney,Paul.protect]] 
 
-### #is_/same_as :: [McCartney,Paul.private](/_private/Society/Communication/Media/Music/Musician/Music~Band/Beatles/McCartney,Paul.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Musician/Music~Band/Beatles/McCartney,Paul.private|McCartney,Paul.private]] 
 
-### #is_/same_as :: [McCartney,Paul.personal](/_personal/Society/Communication/Media/Music/Musician/Music~Band/Beatles/McCartney,Paul.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Musician/Music~Band/Beatles/McCartney,Paul.personal|McCartney,Paul.personal]] 
 
-### #is_/same_as :: [McCartney,Paul.secret](/_secret/Society/Communication/Media/Music/Musician/Music~Band/Beatles/McCartney,Paul.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Musician/Music~Band/Beatles/McCartney,Paul.secret|McCartney,Paul.secret]] 
 

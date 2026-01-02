@@ -41,17 +41,17 @@ earliest_date: -400000-01-01T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Pigment](/_Standards/Society/Communication/Media/Painting/Pigment.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Painting/Pigment|Pigment]] 
 
-### #is_/same_as :: [Pigment.public](/_public/Society/Communication/Media/Painting/Pigment.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Painting/Pigment.public|Pigment.public]] 
 
-### #is_/same_as :: [Pigment.internal](/_internal/Society/Communication/Media/Painting/Pigment.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Painting/Pigment.internal|Pigment.internal]] 
 
-### #is_/same_as :: [Pigment.protect](/_protect/Society/Communication/Media/Painting/Pigment.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Painting/Pigment.protect|Pigment.protect]] 
 
-### #is_/same_as :: [Pigment.private](/_private/Society/Communication/Media/Painting/Pigment.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Painting/Pigment.private|Pigment.private]] 
 
-### #is_/same_as :: [Pigment.personal](/_personal/Society/Communication/Media/Painting/Pigment.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Painting/Pigment.personal|Pigment.personal]] 
 
-### #is_/same_as :: [Pigment.secret](/_secret/Society/Communication/Media/Painting/Pigment.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Painting/Pigment.secret|Pigment.secret]] 
 

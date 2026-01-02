@@ -36,7 +36,7 @@ title: Pimoidae
 -   » Sub-Groups 
 
 # Pimoidae 
-![ ](Pimoidae/pimoidae_0730.jpg))
+![ ](Pimoidae/pimoidae_0730.jpg) 
 ![ ](Pimoidae/pimoidae_0988.jpg)
 
 Containing group:[Orbiculariae](../Orbiculariae.md) 
@@ -74,7 +74,7 @@ World. Musée Royal de l\'Afrique Centrale, Tevuren. 336pp.
 
 ## Title Illustrations
 
-![](Pimoidae/pimoidae_0730.jpg))
+![](Pimoidae/pimoidae_0730.jpg) 
 
   ---------------------------------------------------------------------------------
   Scientific Name ::   Pimoa sp.
@@ -87,7 +87,7 @@ World. Musée Royal de l\'Afrique Centrale, Tevuren. 336pp.
   Copyright ::          © [Jonathan Coddington](http://entomology.si.edu/StaffPages/coddington.html) 
  
   ---------------------------------------------------------------------------------
-![](Pimoidae/pimoidae_0988.jpg))
+![](Pimoidae/pimoidae_0988.jpg) 
 
   ---------------------------------------------------------------------------------
   Scientific Name ::     Pimoa sp.
@@ -105,17 +105,17 @@ World. Musée Royal de l\'Afrique Centrale, Tevuren. 336pp.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Pimoidae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Orbiculariae/Pimoidae.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Orbiculariae/Pimoidae|Pimoidae]] 
 
-### #is_/same_as :: [Pimoidae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Orbiculariae/Pimoidae.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Orbiculariae/Pimoidae.public|Pimoidae.public]] 
 
-### #is_/same_as :: [Pimoidae.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Orbiculariae/Pimoidae.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Orbiculariae/Pimoidae.internal|Pimoidae.internal]] 
 
-### #is_/same_as :: [Pimoidae.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Orbiculariae/Pimoidae.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Orbiculariae/Pimoidae.protect|Pimoidae.protect]] 
 
-### #is_/same_as :: [Pimoidae.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Orbiculariae/Pimoidae.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Orbiculariae/Pimoidae.private|Pimoidae.private]] 
 
-### #is_/same_as :: [Pimoidae.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Orbiculariae/Pimoidae.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Orbiculariae/Pimoidae.personal|Pimoidae.personal]] 
 
-### #is_/same_as :: [Pimoidae.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Orbiculariae/Pimoidae.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Orbiculariae/Pimoidae.secret|Pimoidae.secret]] 
 

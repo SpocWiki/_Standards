@@ -44,17 +44,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_url_for_service](/_Standards/schema-org/Property/has_url_for/has_url_for_service.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_url_for/has_url_for_service|has_url_for_service]] 
 
-### #is_/same_as :: [has_url_for_service.public](/_public/schema-org/Property/has_url_for/has_url_for_service.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/has_url_for/has_url_for_service.public|has_url_for_service.public]] 
 
-### #is_/same_as :: [has_url_for_service.internal](/_internal/schema-org/Property/has_url_for/has_url_for_service.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_url_for/has_url_for_service.internal|has_url_for_service.internal]] 
 
-### #is_/same_as :: [has_url_for_service.protect](/_protect/schema-org/Property/has_url_for/has_url_for_service.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_url_for/has_url_for_service.protect|has_url_for_service.protect]] 
 
-### #is_/same_as :: [has_url_for_service.private](/_private/schema-org/Property/has_url_for/has_url_for_service.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/has_url_for/has_url_for_service.private|has_url_for_service.private]] 
 
-### #is_/same_as :: [has_url_for_service.personal](/_personal/schema-org/Property/has_url_for/has_url_for_service.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_url_for/has_url_for_service.personal|has_url_for_service.personal]] 
 
-### #is_/same_as :: [has_url_for_service.secret](/_secret/schema-org/Property/has_url_for/has_url_for_service.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/has_url_for/has_url_for_service.secret|has_url_for_service.secret]] 
 

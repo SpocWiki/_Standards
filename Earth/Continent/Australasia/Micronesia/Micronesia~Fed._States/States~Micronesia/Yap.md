@@ -39,17 +39,17 @@ markerFolder: ./Yap/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Yap](/_Standards/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Yap.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Yap|Yap]] 
 
-### #is_/same_as :: [Yap.public](/_public/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Yap.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Yap.public|Yap.public]] 
 
-### #is_/same_as :: [Yap.internal](/_internal/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Yap.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Yap.internal|Yap.internal]] 
 
-### #is_/same_as :: [Yap.protect](/_protect/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Yap.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Yap.protect|Yap.protect]] 
 
-### #is_/same_as :: [Yap.private](/_private/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Yap.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Yap.private|Yap.private]] 
 
-### #is_/same_as :: [Yap.personal](/_personal/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Yap.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Yap.personal|Yap.personal]] 
 
-### #is_/same_as :: [Yap.secret](/_secret/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Yap.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Yap.secret|Yap.secret]] 
 

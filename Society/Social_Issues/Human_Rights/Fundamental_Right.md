@@ -29,17 +29,17 @@ IPTC_NewsCode: mediatopic/20000587
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Fundamental_Right](/_Standards/Society/Social_Issues/Human_Rights/Fundamental_Right.md) 
+### #is_/same_as :: [[/_Standards/Society/Social_Issues/Human_Rights/Fundamental_Right|Fundamental_Right]] 
 
-### #is_/same_as :: [Fundamental_Right.public](/_public/Society/Social_Issues/Human_Rights/Fundamental_Right.public.md) 
+### #is_/same_as :: [[/_public/Society/Social_Issues/Human_Rights/Fundamental_Right.public|Fundamental_Right.public]] 
 
-### #is_/same_as :: [Fundamental_Right.internal](/_internal/Society/Social_Issues/Human_Rights/Fundamental_Right.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Social_Issues/Human_Rights/Fundamental_Right.internal|Fundamental_Right.internal]] 
 
-### #is_/same_as :: [Fundamental_Right.protect](/_protect/Society/Social_Issues/Human_Rights/Fundamental_Right.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Social_Issues/Human_Rights/Fundamental_Right.protect|Fundamental_Right.protect]] 
 
-### #is_/same_as :: [Fundamental_Right.private](/_private/Society/Social_Issues/Human_Rights/Fundamental_Right.private.md) 
+### #is_/same_as :: [[/_private/Society/Social_Issues/Human_Rights/Fundamental_Right.private|Fundamental_Right.private]] 
 
-### #is_/same_as :: [Fundamental_Right.personal](/_personal/Society/Social_Issues/Human_Rights/Fundamental_Right.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Social_Issues/Human_Rights/Fundamental_Right.personal|Fundamental_Right.personal]] 
 
-### #is_/same_as :: [Fundamental_Right.secret](/_secret/Society/Social_Issues/Human_Rights/Fundamental_Right.secret.md)
+### #is_/same_as :: [[/_secret/Society/Social_Issues/Human_Rights/Fundamental_Right.secret|Fundamental_Right.secret]] 
 

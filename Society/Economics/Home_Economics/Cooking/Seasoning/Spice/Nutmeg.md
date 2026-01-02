@@ -73,17 +73,17 @@ Whole dry mace consists of flat pieces—smooth, horn-like, and brittle—about 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Nutmeg](/_Standards/Society/Economics/Home_Economics/Cooking/Seasoning/Spice/Nutmeg.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Home_Economics/Cooking/Seasoning/Spice/Nutmeg|Nutmeg]] 
 
-### #is_/same_as :: [Nutmeg.public](/_public/Society/Economics/Home_Economics/Cooking/Seasoning/Spice/Nutmeg.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Home_Economics/Cooking/Seasoning/Spice/Nutmeg.public|Nutmeg.public]] 
 
-### #is_/same_as :: [Nutmeg.internal](/_internal/Society/Economics/Home_Economics/Cooking/Seasoning/Spice/Nutmeg.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Home_Economics/Cooking/Seasoning/Spice/Nutmeg.internal|Nutmeg.internal]] 
 
-### #is_/same_as :: [Nutmeg.protect](/_protect/Society/Economics/Home_Economics/Cooking/Seasoning/Spice/Nutmeg.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Home_Economics/Cooking/Seasoning/Spice/Nutmeg.protect|Nutmeg.protect]] 
 
-### #is_/same_as :: [Nutmeg.private](/_private/Society/Economics/Home_Economics/Cooking/Seasoning/Spice/Nutmeg.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Home_Economics/Cooking/Seasoning/Spice/Nutmeg.private|Nutmeg.private]] 
 
-### #is_/same_as :: [Nutmeg.personal](/_personal/Society/Economics/Home_Economics/Cooking/Seasoning/Spice/Nutmeg.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Home_Economics/Cooking/Seasoning/Spice/Nutmeg.personal|Nutmeg.personal]] 
 
-### #is_/same_as :: [Nutmeg.secret](/_secret/Society/Economics/Home_Economics/Cooking/Seasoning/Spice/Nutmeg.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Home_Economics/Cooking/Seasoning/Spice/Nutmeg.secret|Nutmeg.secret]] 
 

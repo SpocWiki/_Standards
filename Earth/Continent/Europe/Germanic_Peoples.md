@@ -22,17 +22,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Germanic_Peoples](/_Standards/Earth/Continent/Europe/Germanic_Peoples.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Germanic_Peoples|Germanic_Peoples]] 
 
-### #is_/same_as :: [Germanic_Peoples.public](/_public/Earth/Continent/Europe/Germanic_Peoples.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Germanic_Peoples.public|Germanic_Peoples.public]] 
 
-### #is_/same_as :: [Germanic_Peoples.internal](/_internal/Earth/Continent/Europe/Germanic_Peoples.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Germanic_Peoples.internal|Germanic_Peoples.internal]] 
 
-### #is_/same_as :: [Germanic_Peoples.protect](/_protect/Earth/Continent/Europe/Germanic_Peoples.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Germanic_Peoples.protect|Germanic_Peoples.protect]] 
 
-### #is_/same_as :: [Germanic_Peoples.private](/_private/Earth/Continent/Europe/Germanic_Peoples.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Germanic_Peoples.private|Germanic_Peoples.private]] 
 
-### #is_/same_as :: [Germanic_Peoples.personal](/_personal/Earth/Continent/Europe/Germanic_Peoples.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Germanic_Peoples.personal|Germanic_Peoples.personal]] 
 
-### #is_/same_as :: [Germanic_Peoples.secret](/_secret/Earth/Continent/Europe/Germanic_Peoples.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Germanic_Peoples.secret|Germanic_Peoples.secret]] 
 

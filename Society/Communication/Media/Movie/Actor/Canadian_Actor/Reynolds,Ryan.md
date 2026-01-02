@@ -49,17 +49,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Reynolds,Ryan](/_Standards/Society/Communication/Media/Movie/Actor/Canadian_Actor/Reynolds,Ryan.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Actor/Canadian_Actor/Reynolds,Ryan|Reynolds,Ryan]] 
 
-### #is_/same_as :: [Reynolds,Ryan.public](/_public/Society/Communication/Media/Movie/Actor/Canadian_Actor/Reynolds,Ryan.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Actor/Canadian_Actor/Reynolds,Ryan.public|Reynolds,Ryan.public]] 
 
-### #is_/same_as :: [Reynolds,Ryan.internal](/_internal/Society/Communication/Media/Movie/Actor/Canadian_Actor/Reynolds,Ryan.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Actor/Canadian_Actor/Reynolds,Ryan.internal|Reynolds,Ryan.internal]] 
 
-### #is_/same_as :: [Reynolds,Ryan.protect](/_protect/Society/Communication/Media/Movie/Actor/Canadian_Actor/Reynolds,Ryan.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Actor/Canadian_Actor/Reynolds,Ryan.protect|Reynolds,Ryan.protect]] 
 
-### #is_/same_as :: [Reynolds,Ryan.private](/_private/Society/Communication/Media/Movie/Actor/Canadian_Actor/Reynolds,Ryan.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Actor/Canadian_Actor/Reynolds,Ryan.private|Reynolds,Ryan.private]] 
 
-### #is_/same_as :: [Reynolds,Ryan.personal](/_personal/Society/Communication/Media/Movie/Actor/Canadian_Actor/Reynolds,Ryan.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Actor/Canadian_Actor/Reynolds,Ryan.personal|Reynolds,Ryan.personal]] 
 
-### #is_/same_as :: [Reynolds,Ryan.secret](/_secret/Society/Communication/Media/Movie/Actor/Canadian_Actor/Reynolds,Ryan.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Actor/Canadian_Actor/Reynolds,Ryan.secret|Reynolds,Ryan.secret]] 
 

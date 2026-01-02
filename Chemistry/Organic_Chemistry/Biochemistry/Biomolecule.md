@@ -33,17 +33,17 @@ Commons_category: Biomolecules
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Biomolecule](/_Standards/Chemistry/Organic_Chemistry/Biochemistry/Biomolecule.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Organic_Chemistry/Biochemistry/Biomolecule|Biomolecule]] 
 
-### #is_/same_as :: [Biomolecule.public](/_public/Chemistry/Organic_Chemistry/Biochemistry/Biomolecule.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Organic_Chemistry/Biochemistry/Biomolecule.public|Biomolecule.public]] 
 
-### #is_/same_as :: [Biomolecule.internal](/_internal/Chemistry/Organic_Chemistry/Biochemistry/Biomolecule.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Organic_Chemistry/Biochemistry/Biomolecule.internal|Biomolecule.internal]] 
 
-### #is_/same_as :: [Biomolecule.protect](/_protect/Chemistry/Organic_Chemistry/Biochemistry/Biomolecule.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Organic_Chemistry/Biochemistry/Biomolecule.protect|Biomolecule.protect]] 
 
-### #is_/same_as :: [Biomolecule.private](/_private/Chemistry/Organic_Chemistry/Biochemistry/Biomolecule.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Organic_Chemistry/Biochemistry/Biomolecule.private|Biomolecule.private]] 
 
-### #is_/same_as :: [Biomolecule.personal](/_personal/Chemistry/Organic_Chemistry/Biochemistry/Biomolecule.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Organic_Chemistry/Biochemistry/Biomolecule.personal|Biomolecule.personal]] 
 
-### #is_/same_as :: [Biomolecule.secret](/_secret/Chemistry/Organic_Chemistry/Biochemistry/Biomolecule.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Organic_Chemistry/Biochemistry/Biomolecule.secret|Biomolecule.secret]] 
 

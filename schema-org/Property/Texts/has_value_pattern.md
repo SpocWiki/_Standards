@@ -45,17 +45,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_value_pattern](/_Standards/schema-org/Property/Texts/has_value_pattern.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/Texts/has_value_pattern|has_value_pattern]] 
 
-### #is_/same_as :: [has_value_pattern.public](/_public/schema-org/Property/Texts/has_value_pattern.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/Texts/has_value_pattern.public|has_value_pattern.public]] 
 
-### #is_/same_as :: [has_value_pattern.internal](/_internal/schema-org/Property/Texts/has_value_pattern.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/Texts/has_value_pattern.internal|has_value_pattern.internal]] 
 
-### #is_/same_as :: [has_value_pattern.protect](/_protect/schema-org/Property/Texts/has_value_pattern.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/Texts/has_value_pattern.protect|has_value_pattern.protect]] 
 
-### #is_/same_as :: [has_value_pattern.private](/_private/schema-org/Property/Texts/has_value_pattern.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/Texts/has_value_pattern.private|has_value_pattern.private]] 
 
-### #is_/same_as :: [has_value_pattern.personal](/_personal/schema-org/Property/Texts/has_value_pattern.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/Texts/has_value_pattern.personal|has_value_pattern.personal]] 
 
-### #is_/same_as :: [has_value_pattern.secret](/_secret/schema-org/Property/Texts/has_value_pattern.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/Texts/has_value_pattern.secret|has_value_pattern.secret]] 
 

@@ -113,17 +113,17 @@ defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Information_Entropy](/_Standards/Dimension/Information_Entropy.md) 
+### #is_/same_as :: [[/_Standards/Dimension/Information_Entropy|Information_Entropy]] 
 
-### #is_/same_as :: [Information_Entropy.public](/_public/Dimension/Information_Entropy.public.md) 
+### #is_/same_as :: [[/_public/Dimension/Information_Entropy.public|Information_Entropy.public]] 
 
-### #is_/same_as :: [Information_Entropy.internal](/_internal/Dimension/Information_Entropy.internal.md) 
+### #is_/same_as :: [[/_internal/Dimension/Information_Entropy.internal|Information_Entropy.internal]] 
 
-### #is_/same_as :: [Information_Entropy.protect](/_protect/Dimension/Information_Entropy.protect.md) 
+### #is_/same_as :: [[/_protect/Dimension/Information_Entropy.protect|Information_Entropy.protect]] 
 
-### #is_/same_as :: [Information_Entropy.private](/_private/Dimension/Information_Entropy.private.md) 
+### #is_/same_as :: [[/_private/Dimension/Information_Entropy.private|Information_Entropy.private]] 
 
-### #is_/same_as :: [Information_Entropy.personal](/_personal/Dimension/Information_Entropy.personal.md) 
+### #is_/same_as :: [[/_personal/Dimension/Information_Entropy.personal|Information_Entropy.personal]] 
 
-### #is_/same_as :: [Information_Entropy.secret](/_secret/Dimension/Information_Entropy.secret.md)
+### #is_/same_as :: [[/_secret/Dimension/Information_Entropy.secret|Information_Entropy.secret]] 
 

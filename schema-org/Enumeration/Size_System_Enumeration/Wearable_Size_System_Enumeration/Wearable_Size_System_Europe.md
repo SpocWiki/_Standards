@@ -44,17 +44,17 @@ European size system for wearables.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Wearable_Size_System_Europe](/_Standards/schema-org/Enumeration/Size_System_Enumeration/Wearable_Size_System_Enumeration/Wearable_Size_System_Europe.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Size_System_Enumeration/Wearable_Size_System_Enumeration/Wearable_Size_System_Europe|Wearable_Size_System_Europe]] 
 
-### #is_/same_as :: [Wearable_Size_System_Europe.public](/_public/schema-org/Enumeration/Size_System_Enumeration/Wearable_Size_System_Enumeration/Wearable_Size_System_Europe.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Size_System_Enumeration/Wearable_Size_System_Enumeration/Wearable_Size_System_Europe.public|Wearable_Size_System_Europe.public]] 
 
-### #is_/same_as :: [Wearable_Size_System_Europe.internal](/_internal/schema-org/Enumeration/Size_System_Enumeration/Wearable_Size_System_Enumeration/Wearable_Size_System_Europe.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Size_System_Enumeration/Wearable_Size_System_Enumeration/Wearable_Size_System_Europe.internal|Wearable_Size_System_Europe.internal]] 
 
-### #is_/same_as :: [Wearable_Size_System_Europe.protect](/_protect/schema-org/Enumeration/Size_System_Enumeration/Wearable_Size_System_Enumeration/Wearable_Size_System_Europe.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Size_System_Enumeration/Wearable_Size_System_Enumeration/Wearable_Size_System_Europe.protect|Wearable_Size_System_Europe.protect]] 
 
-### #is_/same_as :: [Wearable_Size_System_Europe.private](/_private/schema-org/Enumeration/Size_System_Enumeration/Wearable_Size_System_Enumeration/Wearable_Size_System_Europe.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Size_System_Enumeration/Wearable_Size_System_Enumeration/Wearable_Size_System_Europe.private|Wearable_Size_System_Europe.private]] 
 
-### #is_/same_as :: [Wearable_Size_System_Europe.personal](/_personal/schema-org/Enumeration/Size_System_Enumeration/Wearable_Size_System_Enumeration/Wearable_Size_System_Europe.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Size_System_Enumeration/Wearable_Size_System_Enumeration/Wearable_Size_System_Europe.personal|Wearable_Size_System_Europe.personal]] 
 
-### #is_/same_as :: [Wearable_Size_System_Europe.secret](/_secret/schema-org/Enumeration/Size_System_Enumeration/Wearable_Size_System_Enumeration/Wearable_Size_System_Europe.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Size_System_Enumeration/Wearable_Size_System_Enumeration/Wearable_Size_System_Europe.secret|Wearable_Size_System_Europe.secret]] 
 

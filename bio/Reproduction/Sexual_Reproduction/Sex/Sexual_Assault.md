@@ -34,17 +34,17 @@ Archive_of_Our_Own_tag: Sexual Assault
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sexual_Assault](/_Standards/bio/Reproduction/Sexual_Reproduction/Sex/Sexual_Assault.md) 
+### #is_/same_as :: [[/_Standards/bio/Reproduction/Sexual_Reproduction/Sex/Sexual_Assault|Sexual_Assault]] 
 
-### #is_/same_as :: [Sexual_Assault.public](/_public/bio/Reproduction/Sexual_Reproduction/Sex/Sexual_Assault.public.md) 
+### #is_/same_as :: [[/_public/bio/Reproduction/Sexual_Reproduction/Sex/Sexual_Assault.public|Sexual_Assault.public]] 
 
-### #is_/same_as :: [Sexual_Assault.internal](/_internal/bio/Reproduction/Sexual_Reproduction/Sex/Sexual_Assault.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Reproduction/Sexual_Reproduction/Sex/Sexual_Assault.internal|Sexual_Assault.internal]] 
 
-### #is_/same_as :: [Sexual_Assault.protect](/_protect/bio/Reproduction/Sexual_Reproduction/Sex/Sexual_Assault.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Reproduction/Sexual_Reproduction/Sex/Sexual_Assault.protect|Sexual_Assault.protect]] 
 
-### #is_/same_as :: [Sexual_Assault.private](/_private/bio/Reproduction/Sexual_Reproduction/Sex/Sexual_Assault.private.md) 
+### #is_/same_as :: [[/_private/bio/Reproduction/Sexual_Reproduction/Sex/Sexual_Assault.private|Sexual_Assault.private]] 
 
-### #is_/same_as :: [Sexual_Assault.personal](/_personal/bio/Reproduction/Sexual_Reproduction/Sex/Sexual_Assault.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Reproduction/Sexual_Reproduction/Sex/Sexual_Assault.personal|Sexual_Assault.personal]] 
 
-### #is_/same_as :: [Sexual_Assault.secret](/_secret/bio/Reproduction/Sexual_Reproduction/Sex/Sexual_Assault.secret.md)
+### #is_/same_as :: [[/_secret/bio/Reproduction/Sexual_Reproduction/Sex/Sexual_Assault.secret|Sexual_Assault.secret]] 
 

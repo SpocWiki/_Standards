@@ -34,7 +34,7 @@ title: Chiroteuthis spoeli
 # *Chiroteuthis spoeli* [Salcedo-Vargas, 1996] 
 
 [Clyde F. E. Roper and Richard E. Young]()
-![ ](spoeli/CspB1.jpg))
+![ ](spoeli/CspB1.jpg) 
 ![ ](spoeli/CspoeliLive.jpg)
 
 The illustrated squid is deposited in the National Museum of Natural
@@ -130,7 +130,7 @@ known from a few squid captured off Hawaii. The three captures made
 during the day suggest a habitat between depths of 700 and 800 m. At
 night captures were scattered from the surface to 750 m with most from
 the upper 200 m.
-![ ](spoeli/ChiroBVertDist.JPG))
+![ ](spoeli/ChiroBVertDist.JPG) 
 
 **Figure**. Depth chart of the vertical distribution of ***C. spoeli***,
 Hawaiian waters. Captures were made with both open and opening/closing
@@ -158,7 +158,7 @@ waters. Bull. Mar. Sci., 49: 162-185.
 
 ## Title Illustrations
 
-![](spoeli/CspB1.jpg))
+![](spoeli/CspB1.jpg) 
 
   -------------------------------------------------------------------------
   Scientific Name ::  Chiroteuthis spoeli
@@ -167,7 +167,7 @@ waters. Bull. Mar. Sci., 49: 162-185.
   Copyright ::         © [Clyde F. E. Roper](mailto:roper.clyde@nmnh.si.edu) 
  
   -------------------------------------------------------------------------
-![](spoeli/CspoeliLive.jpg))
+![](spoeli/CspoeliLive.jpg) 
 
   ------------
   Scientific Name ::  Chiroteuthis spoeli
@@ -178,17 +178,17 @@ waters. Bull. Mar. Sci., 49: 162-185.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [spoeli](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Chiroteuthidae/Chiroteuthis/spoeli.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Chiroteuthidae/Chiroteuthis/spoeli|spoeli]] 
 
-### #is_/same_as :: [spoeli.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Chiroteuthidae/Chiroteuthis/spoeli.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Chiroteuthidae/Chiroteuthis/spoeli.public|spoeli.public]] 
 
-### #is_/same_as :: [spoeli.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Chiroteuthidae/Chiroteuthis/spoeli.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Chiroteuthidae/Chiroteuthis/spoeli.internal|spoeli.internal]] 
 
-### #is_/same_as :: [spoeli.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Chiroteuthidae/Chiroteuthis/spoeli.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Chiroteuthidae/Chiroteuthis/spoeli.protect|spoeli.protect]] 
 
-### #is_/same_as :: [spoeli.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Chiroteuthidae/Chiroteuthis/spoeli.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Chiroteuthidae/Chiroteuthis/spoeli.private|spoeli.private]] 
 
-### #is_/same_as :: [spoeli.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Chiroteuthidae/Chiroteuthis/spoeli.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Chiroteuthidae/Chiroteuthis/spoeli.personal|spoeli.personal]] 
 
-### #is_/same_as :: [spoeli.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Chiroteuthidae/Chiroteuthis/spoeli.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Chiroteuthidae/Chiroteuthis/spoeli.secret|spoeli.secret]] 
 

@@ -41,17 +41,17 @@ Event type: Visual arts event.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Visual_Arts_Event](/_Standards/schema-org/Class/is_a_/Event/Visual_Arts_Event.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Event/Visual_Arts_Event|Visual_Arts_Event]] 
 
-### #is_/same_as :: [Visual_Arts_Event.public](/_public/schema-org/Class/is_a_/Event/Visual_Arts_Event.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Event/Visual_Arts_Event.public|Visual_Arts_Event.public]] 
 
-### #is_/same_as :: [Visual_Arts_Event.internal](/_internal/schema-org/Class/is_a_/Event/Visual_Arts_Event.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Event/Visual_Arts_Event.internal|Visual_Arts_Event.internal]] 
 
-### #is_/same_as :: [Visual_Arts_Event.protect](/_protect/schema-org/Class/is_a_/Event/Visual_Arts_Event.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Event/Visual_Arts_Event.protect|Visual_Arts_Event.protect]] 
 
-### #is_/same_as :: [Visual_Arts_Event.private](/_private/schema-org/Class/is_a_/Event/Visual_Arts_Event.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Event/Visual_Arts_Event.private|Visual_Arts_Event.private]] 
 
-### #is_/same_as :: [Visual_Arts_Event.personal](/_personal/schema-org/Class/is_a_/Event/Visual_Arts_Event.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Event/Visual_Arts_Event.personal|Visual_Arts_Event.personal]] 
 
-### #is_/same_as :: [Visual_Arts_Event.secret](/_secret/schema-org/Class/is_a_/Event/Visual_Arts_Event.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Event/Visual_Arts_Event.secret|Visual_Arts_Event.secret]] 
 

@@ -41,17 +41,17 @@ A direction indicating a single action to do in the instructions for how to achi
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [How_to_Direction](/_Standards/Society/Communication/Media/Creative_Work/How_To/How_to_Direction.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Creative_Work/How_To/How_to_Direction|How_to_Direction]] 
 
-### #is_/same_as :: [How_to_Direction.public](/_public/Society/Communication/Media/Creative_Work/How_To/How_to_Direction.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Creative_Work/How_To/How_to_Direction.public|How_to_Direction.public]] 
 
-### #is_/same_as :: [How_to_Direction.internal](/_internal/Society/Communication/Media/Creative_Work/How_To/How_to_Direction.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Creative_Work/How_To/How_to_Direction.internal|How_to_Direction.internal]] 
 
-### #is_/same_as :: [How_to_Direction.protect](/_protect/Society/Communication/Media/Creative_Work/How_To/How_to_Direction.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Creative_Work/How_To/How_to_Direction.protect|How_to_Direction.protect]] 
 
-### #is_/same_as :: [How_to_Direction.private](/_private/Society/Communication/Media/Creative_Work/How_To/How_to_Direction.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Creative_Work/How_To/How_to_Direction.private|How_to_Direction.private]] 
 
-### #is_/same_as :: [How_to_Direction.personal](/_personal/Society/Communication/Media/Creative_Work/How_To/How_to_Direction.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/How_To/How_to_Direction.personal|How_to_Direction.personal]] 
 
-### #is_/same_as :: [How_to_Direction.secret](/_secret/Society/Communication/Media/Creative_Work/How_To/How_to_Direction.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/How_To/How_to_Direction.secret|How_to_Direction.secret]] 
 

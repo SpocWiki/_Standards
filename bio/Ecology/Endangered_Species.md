@@ -29,17 +29,17 @@ U_S_National_Archives_Identifier: 10638906
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Endangered_Species](/_Standards/bio/Ecology/Endangered_Species.md) 
+### #is_/same_as :: [[/_Standards/bio/Ecology/Endangered_Species|Endangered_Species]] 
 
-### #is_/same_as :: [Endangered_Species.public](/_public/bio/Ecology/Endangered_Species.public.md) 
+### #is_/same_as :: [[/_public/bio/Ecology/Endangered_Species.public|Endangered_Species.public]] 
 
-### #is_/same_as :: [Endangered_Species.internal](/_internal/bio/Ecology/Endangered_Species.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Ecology/Endangered_Species.internal|Endangered_Species.internal]] 
 
-### #is_/same_as :: [Endangered_Species.protect](/_protect/bio/Ecology/Endangered_Species.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Ecology/Endangered_Species.protect|Endangered_Species.protect]] 
 
-### #is_/same_as :: [Endangered_Species.private](/_private/bio/Ecology/Endangered_Species.private.md) 
+### #is_/same_as :: [[/_private/bio/Ecology/Endangered_Species.private|Endangered_Species.private]] 
 
-### #is_/same_as :: [Endangered_Species.personal](/_personal/bio/Ecology/Endangered_Species.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Ecology/Endangered_Species.personal|Endangered_Species.personal]] 
 
-### #is_/same_as :: [Endangered_Species.secret](/_secret/bio/Ecology/Endangered_Species.secret.md)
+### #is_/same_as :: [[/_secret/bio/Ecology/Endangered_Species.secret|Endangered_Species.secret]] 
 

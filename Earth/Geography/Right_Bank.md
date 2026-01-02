@@ -13,17 +13,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Right_Bank](/_Standards/Earth/Geography/Right_Bank.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geography/Right_Bank|Right_Bank]] 
 
-### #is_/same_as :: [Right_Bank.public](/_public/Earth/Geography/Right_Bank.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geography/Right_Bank.public|Right_Bank.public]] 
 
-### #is_/same_as :: [Right_Bank.internal](/_internal/Earth/Geography/Right_Bank.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geography/Right_Bank.internal|Right_Bank.internal]] 
 
-### #is_/same_as :: [Right_Bank.protect](/_protect/Earth/Geography/Right_Bank.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geography/Right_Bank.protect|Right_Bank.protect]] 
 
-### #is_/same_as :: [Right_Bank.private](/_private/Earth/Geography/Right_Bank.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geography/Right_Bank.private|Right_Bank.private]] 
 
-### #is_/same_as :: [Right_Bank.personal](/_personal/Earth/Geography/Right_Bank.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geography/Right_Bank.personal|Right_Bank.personal]] 
 
-### #is_/same_as :: [Right_Bank.secret](/_secret/Earth/Geography/Right_Bank.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geography/Right_Bank.secret|Right_Bank.secret]] 
 

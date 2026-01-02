@@ -29,17 +29,17 @@ Commons_category: Slalom skiing
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Slalom_Skiing](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Winter_Sport/Skiing/Slalom_Skiing.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Winter_Sport/Skiing/Slalom_Skiing|Slalom_Skiing]] 
 
-### #is_/same_as :: [Slalom_Skiing.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Winter_Sport/Skiing/Slalom_Skiing.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Winter_Sport/Skiing/Slalom_Skiing.public|Slalom_Skiing.public]] 
 
-### #is_/same_as :: [Slalom_Skiing.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Winter_Sport/Skiing/Slalom_Skiing.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Winter_Sport/Skiing/Slalom_Skiing.internal|Slalom_Skiing.internal]] 
 
-### #is_/same_as :: [Slalom_Skiing.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Winter_Sport/Skiing/Slalom_Skiing.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Winter_Sport/Skiing/Slalom_Skiing.protect|Slalom_Skiing.protect]] 
 
-### #is_/same_as :: [Slalom_Skiing.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Winter_Sport/Skiing/Slalom_Skiing.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Winter_Sport/Skiing/Slalom_Skiing.private|Slalom_Skiing.private]] 
 
-### #is_/same_as :: [Slalom_Skiing.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Winter_Sport/Skiing/Slalom_Skiing.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Winter_Sport/Skiing/Slalom_Skiing.personal|Slalom_Skiing.personal]] 
 
-### #is_/same_as :: [Slalom_Skiing.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Winter_Sport/Skiing/Slalom_Skiing.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Winter_Sport/Skiing/Slalom_Skiing.secret|Slalom_Skiing.secret]] 
 

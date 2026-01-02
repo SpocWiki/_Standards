@@ -15,17 +15,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [BMG_Rights_Management](/_Standards/Society/Communication/Media/Writing/Book/Publisher/BMG_Rights_Management.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Publisher/BMG_Rights_Management|BMG_Rights_Management]] 
 
-### #is_/same_as :: [BMG_Rights_Management.public](/_public/Society/Communication/Media/Writing/Book/Publisher/BMG_Rights_Management.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Publisher/BMG_Rights_Management.public|BMG_Rights_Management.public]] 
 
-### #is_/same_as :: [BMG_Rights_Management.internal](/_internal/Society/Communication/Media/Writing/Book/Publisher/BMG_Rights_Management.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Publisher/BMG_Rights_Management.internal|BMG_Rights_Management.internal]] 
 
-### #is_/same_as :: [BMG_Rights_Management.protect](/_protect/Society/Communication/Media/Writing/Book/Publisher/BMG_Rights_Management.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Publisher/BMG_Rights_Management.protect|BMG_Rights_Management.protect]] 
 
-### #is_/same_as :: [BMG_Rights_Management.private](/_private/Society/Communication/Media/Writing/Book/Publisher/BMG_Rights_Management.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Publisher/BMG_Rights_Management.private|BMG_Rights_Management.private]] 
 
-### #is_/same_as :: [BMG_Rights_Management.personal](/_personal/Society/Communication/Media/Writing/Book/Publisher/BMG_Rights_Management.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Publisher/BMG_Rights_Management.personal|BMG_Rights_Management.personal]] 
 
-### #is_/same_as :: [BMG_Rights_Management.secret](/_secret/Society/Communication/Media/Writing/Book/Publisher/BMG_Rights_Management.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Publisher/BMG_Rights_Management.secret|BMG_Rights_Management.secret]] 
 

@@ -55,17 +55,17 @@ dissolved_abolished_or_demolished_date: -0538-01-01T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [-0625-Neo-Babylonian_Empire-0538](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-0625-Neo-Babylonian_Empire-0538.md) 
+### #is_/same_as :: [[/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-0625-Neo-Babylonian_Empire-0538|-0625-Neo-Babylonian_Empire-0538]] 
 
-### #is_/same_as :: [-0625-Neo-Babylonian_Empire-0538.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-0625-Neo-Babylonian_Empire-0538.public.md) 
+### #is_/same_as :: [[/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-0625-Neo-Babylonian_Empire-0538.public|-0625-Neo-Babylonian_Empire-0538.public]] 
 
-### #is_/same_as :: [-0625-Neo-Babylonian_Empire-0538.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-0625-Neo-Babylonian_Empire-0538.internal.md) 
+### #is_/same_as :: [[/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-0625-Neo-Babylonian_Empire-0538.internal|-0625-Neo-Babylonian_Empire-0538.internal]] 
 
-### #is_/same_as :: [-0625-Neo-Babylonian_Empire-0538.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-0625-Neo-Babylonian_Empire-0538.protect.md) 
+### #is_/same_as :: [[/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-0625-Neo-Babylonian_Empire-0538.protect|-0625-Neo-Babylonian_Empire-0538.protect]] 
 
-### #is_/same_as :: [-0625-Neo-Babylonian_Empire-0538.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-0625-Neo-Babylonian_Empire-0538.private.md) 
+### #is_/same_as :: [[/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-0625-Neo-Babylonian_Empire-0538.private|-0625-Neo-Babylonian_Empire-0538.private]] 
 
-### #is_/same_as :: [-0625-Neo-Babylonian_Empire-0538.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-0625-Neo-Babylonian_Empire-0538.personal.md) 
+### #is_/same_as :: [[/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-0625-Neo-Babylonian_Empire-0538.personal|-0625-Neo-Babylonian_Empire-0538.personal]] 
 
-### #is_/same_as :: [-0625-Neo-Babylonian_Empire-0538.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-0625-Neo-Babylonian_Empire-0538.secret.md)
+### #is_/same_as :: [[/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-0625-Neo-Babylonian_Empire-0538.secret|-0625-Neo-Babylonian_Empire-0538.secret]] 
 

@@ -91,17 +91,17 @@ Commons_gallery: Measles
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Measles](/_Standards/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Pandemic/Measles.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Pandemic/Measles|Measles]] 
 
-### #is_/same_as :: [Measles.public](/_public/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Pandemic/Measles.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Pandemic/Measles.public|Measles.public]] 
 
-### #is_/same_as :: [Measles.internal](/_internal/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Pandemic/Measles.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Pandemic/Measles.internal|Measles.internal]] 
 
-### #is_/same_as :: [Measles.protect](/_protect/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Pandemic/Measles.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Pandemic/Measles.protect|Measles.protect]] 
 
-### #is_/same_as :: [Measles.private](/_private/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Pandemic/Measles.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Pandemic/Measles.private|Measles.private]] 
 
-### #is_/same_as :: [Measles.personal](/_personal/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Pandemic/Measles.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Pandemic/Measles.personal|Measles.personal]] 
 
-### #is_/same_as :: [Measles.secret](/_secret/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Pandemic/Measles.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Pandemic/Measles.secret|Measles.secret]] 
 

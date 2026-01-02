@@ -98,17 +98,17 @@ U_S_National_Archives_Identifier: 10640804
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Drought](/_Standards/Earth/Climate/Drought.md) 
+### #is_/same_as :: [[/_Standards/Earth/Climate/Drought|Drought]] 
 
-### #is_/same_as :: [Drought.public](/_public/Earth/Climate/Drought.public.md) 
+### #is_/same_as :: [[/_public/Earth/Climate/Drought.public|Drought.public]] 
 
-### #is_/same_as :: [Drought.internal](/_internal/Earth/Climate/Drought.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Climate/Drought.internal|Drought.internal]] 
 
-### #is_/same_as :: [Drought.protect](/_protect/Earth/Climate/Drought.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Climate/Drought.protect|Drought.protect]] 
 
-### #is_/same_as :: [Drought.private](/_private/Earth/Climate/Drought.private.md) 
+### #is_/same_as :: [[/_private/Earth/Climate/Drought.private|Drought.private]] 
 
-### #is_/same_as :: [Drought.personal](/_personal/Earth/Climate/Drought.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Climate/Drought.personal|Drought.personal]] 
 
-### #is_/same_as :: [Drought.secret](/_secret/Earth/Climate/Drought.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Climate/Drought.secret|Drought.secret]] 
 

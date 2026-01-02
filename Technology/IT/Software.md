@@ -141,17 +141,17 @@ Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_software,18922260]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Software](/_Standards/Technology/IT/Software.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Software|Software]] 
 
-### #is_/same_as :: [Software.public](/_public/Technology/IT/Software.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Software.public|Software.public]] 
 
-### #is_/same_as :: [Software.internal](/_internal/Technology/IT/Software.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Software.internal|Software.internal]] 
 
-### #is_/same_as :: [Software.protect](/_protect/Technology/IT/Software.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Software.protect|Software.protect]] 
 
-### #is_/same_as :: [Software.private](/_private/Technology/IT/Software.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Software.private|Software.private]] 
 
-### #is_/same_as :: [Software.personal](/_personal/Technology/IT/Software.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Software.personal|Software.personal]] 
 
-### #is_/same_as :: [Software.secret](/_secret/Technology/IT/Software.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Software.secret|Software.secret]] 
 

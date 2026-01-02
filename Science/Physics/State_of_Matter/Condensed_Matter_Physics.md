@@ -70,17 +70,17 @@ PhilPapers_topic: condensed-matter-physics
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Condensed_Matter_Physics](/_Standards/Science/Physics/State_of_Matter/Condensed_Matter_Physics.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/State_of_Matter/Condensed_Matter_Physics|Condensed_Matter_Physics]] 
 
-### #is_/same_as :: [Condensed_Matter_Physics.public](/_public/Science/Physics/State_of_Matter/Condensed_Matter_Physics.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/State_of_Matter/Condensed_Matter_Physics.public|Condensed_Matter_Physics.public]] 
 
-### #is_/same_as :: [Condensed_Matter_Physics.internal](/_internal/Science/Physics/State_of_Matter/Condensed_Matter_Physics.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/State_of_Matter/Condensed_Matter_Physics.internal|Condensed_Matter_Physics.internal]] 
 
-### #is_/same_as :: [Condensed_Matter_Physics.protect](/_protect/Science/Physics/State_of_Matter/Condensed_Matter_Physics.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/State_of_Matter/Condensed_Matter_Physics.protect|Condensed_Matter_Physics.protect]] 
 
-### #is_/same_as :: [Condensed_Matter_Physics.private](/_private/Science/Physics/State_of_Matter/Condensed_Matter_Physics.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/State_of_Matter/Condensed_Matter_Physics.private|Condensed_Matter_Physics.private]] 
 
-### #is_/same_as :: [Condensed_Matter_Physics.personal](/_personal/Science/Physics/State_of_Matter/Condensed_Matter_Physics.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/State_of_Matter/Condensed_Matter_Physics.personal|Condensed_Matter_Physics.personal]] 
 
-### #is_/same_as :: [Condensed_Matter_Physics.secret](/_secret/Science/Physics/State_of_Matter/Condensed_Matter_Physics.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/State_of_Matter/Condensed_Matter_Physics.secret|Condensed_Matter_Physics.secret]] 
 

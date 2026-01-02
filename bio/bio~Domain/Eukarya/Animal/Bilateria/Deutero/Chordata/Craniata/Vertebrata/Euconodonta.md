@@ -122,23 +122,23 @@ body shape, and tail stucture of the euconodonta are strikingly
 vertebrate-like. (After Purnell et al. 1995.)
 
 ---------- 
-![euconodonta](Euconodonta/euconodonta.gif))
+![euconodonta](Euconodonta/euconodonta.gif) 
 Copyright ::   © 1997 Philippe Janvier
 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Euconodonta](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Euconodonta.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Euconodonta|Euconodonta]] 
 
-### #is_/same_as :: [Euconodonta.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Euconodonta.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Euconodonta.public|Euconodonta.public]] 
 
-### #is_/same_as :: [Euconodonta.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Euconodonta.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Euconodonta.internal|Euconodonta.internal]] 
 
-### #is_/same_as :: [Euconodonta.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Euconodonta.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Euconodonta.protect|Euconodonta.protect]] 
 
-### #is_/same_as :: [Euconodonta.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Euconodonta.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Euconodonta.private|Euconodonta.private]] 
 
-### #is_/same_as :: [Euconodonta.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Euconodonta.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Euconodonta.personal|Euconodonta.personal]] 
 
-### #is_/same_as :: [Euconodonta.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Euconodonta.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Euconodonta.secret|Euconodonta.secret]] 
 

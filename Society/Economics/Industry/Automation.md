@@ -66,17 +66,17 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/RobotMintCanb.jpg
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Automation](/_Standards/Society/Economics/Industry/Automation.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Industry/Automation|Automation]] 
 
-### #is_/same_as :: [Automation.public](/_public/Society/Economics/Industry/Automation.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Industry/Automation.public|Automation.public]] 
 
-### #is_/same_as :: [Automation.internal](/_internal/Society/Economics/Industry/Automation.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Industry/Automation.internal|Automation.internal]] 
 
-### #is_/same_as :: [Automation.protect](/_protect/Society/Economics/Industry/Automation.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Industry/Automation.protect|Automation.protect]] 
 
-### #is_/same_as :: [Automation.private](/_private/Society/Economics/Industry/Automation.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Industry/Automation.private|Automation.private]] 
 
-### #is_/same_as :: [Automation.personal](/_personal/Society/Economics/Industry/Automation.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Industry/Automation.personal|Automation.personal]] 
 
-### #is_/same_as :: [Automation.secret](/_secret/Society/Economics/Industry/Automation.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Industry/Automation.secret|Automation.secret]] 
 

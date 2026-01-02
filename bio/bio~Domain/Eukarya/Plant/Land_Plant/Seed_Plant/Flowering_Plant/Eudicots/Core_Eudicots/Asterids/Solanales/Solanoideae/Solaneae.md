@@ -37,17 +37,17 @@ UMLS_CUI: C1902798
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Solaneae](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Solanales/Solanoideae/Solaneae.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Solanales/Solanoideae/Solaneae|Solaneae]] 
 
-### #is_/same_as :: [Solaneae.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Solanales/Solanoideae/Solaneae.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Solanales/Solanoideae/Solaneae.public|Solaneae.public]] 
 
-### #is_/same_as :: [Solaneae.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Solanales/Solanoideae/Solaneae.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Solanales/Solanoideae/Solaneae.internal|Solaneae.internal]] 
 
-### #is_/same_as :: [Solaneae.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Solanales/Solanoideae/Solaneae.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Solanales/Solanoideae/Solaneae.protect|Solaneae.protect]] 
 
-### #is_/same_as :: [Solaneae.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Solanales/Solanoideae/Solaneae.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Solanales/Solanoideae/Solaneae.private|Solaneae.private]] 
 
-### #is_/same_as :: [Solaneae.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Solanales/Solanoideae/Solaneae.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Solanales/Solanoideae/Solaneae.personal|Solaneae.personal]] 
 
-### #is_/same_as :: [Solaneae.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Solanales/Solanoideae/Solaneae.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Solanales/Solanoideae/Solaneae.secret|Solaneae.secret]] 
 

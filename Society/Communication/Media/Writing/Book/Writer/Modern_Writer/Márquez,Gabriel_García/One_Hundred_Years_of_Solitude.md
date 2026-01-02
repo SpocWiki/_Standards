@@ -64,17 +64,17 @@ first_line: Muchos años después, frente al pelotón de fusilamiento, el corone
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [One_Hundred_Years_of_Solitude](/_Standards/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Márquez,Gabriel_García/One_Hundred_Years_of_Solitude.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Márquez,Gabriel_García/One_Hundred_Years_of_Solitude|One_Hundred_Years_of_Solitude]] 
 
-### #is_/same_as :: [One_Hundred_Years_of_Solitude.public](/_public/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Márquez,Gabriel_García/One_Hundred_Years_of_Solitude.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Márquez,Gabriel_García/One_Hundred_Years_of_Solitude.public|One_Hundred_Years_of_Solitude.public]] 
 
-### #is_/same_as :: [One_Hundred_Years_of_Solitude.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Márquez,Gabriel_García/One_Hundred_Years_of_Solitude.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Márquez,Gabriel_García/One_Hundred_Years_of_Solitude.internal|One_Hundred_Years_of_Solitude.internal]] 
 
-### #is_/same_as :: [One_Hundred_Years_of_Solitude.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Márquez,Gabriel_García/One_Hundred_Years_of_Solitude.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Márquez,Gabriel_García/One_Hundred_Years_of_Solitude.protect|One_Hundred_Years_of_Solitude.protect]] 
 
-### #is_/same_as :: [One_Hundred_Years_of_Solitude.private](/_private/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Márquez,Gabriel_García/One_Hundred_Years_of_Solitude.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Márquez,Gabriel_García/One_Hundred_Years_of_Solitude.private|One_Hundred_Years_of_Solitude.private]] 
 
-### #is_/same_as :: [One_Hundred_Years_of_Solitude.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Márquez,Gabriel_García/One_Hundred_Years_of_Solitude.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Márquez,Gabriel_García/One_Hundred_Years_of_Solitude.personal|One_Hundred_Years_of_Solitude.personal]] 
 
-### #is_/same_as :: [One_Hundred_Years_of_Solitude.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Márquez,Gabriel_García/One_Hundred_Years_of_Solitude.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Márquez,Gabriel_García/One_Hundred_Years_of_Solitude.secret|One_Hundred_Years_of_Solitude.secret]] 
 

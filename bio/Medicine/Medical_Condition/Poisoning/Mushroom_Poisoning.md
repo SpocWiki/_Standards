@@ -43,17 +43,17 @@ MeSH_tree_code:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Mushroom_Poisoning](/_Standards/bio/Medicine/Medical_Condition/Poisoning/Mushroom_Poisoning.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Condition/Poisoning/Mushroom_Poisoning|Mushroom_Poisoning]] 
 
-### #is_/same_as :: [Mushroom_Poisoning.public](/_public/bio/Medicine/Medical_Condition/Poisoning/Mushroom_Poisoning.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Condition/Poisoning/Mushroom_Poisoning.public|Mushroom_Poisoning.public]] 
 
-### #is_/same_as :: [Mushroom_Poisoning.internal](/_internal/bio/Medicine/Medical_Condition/Poisoning/Mushroom_Poisoning.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Condition/Poisoning/Mushroom_Poisoning.internal|Mushroom_Poisoning.internal]] 
 
-### #is_/same_as :: [Mushroom_Poisoning.protect](/_protect/bio/Medicine/Medical_Condition/Poisoning/Mushroom_Poisoning.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Condition/Poisoning/Mushroom_Poisoning.protect|Mushroom_Poisoning.protect]] 
 
-### #is_/same_as :: [Mushroom_Poisoning.private](/_private/bio/Medicine/Medical_Condition/Poisoning/Mushroom_Poisoning.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Condition/Poisoning/Mushroom_Poisoning.private|Mushroom_Poisoning.private]] 
 
-### #is_/same_as :: [Mushroom_Poisoning.personal](/_personal/bio/Medicine/Medical_Condition/Poisoning/Mushroom_Poisoning.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Condition/Poisoning/Mushroom_Poisoning.personal|Mushroom_Poisoning.personal]] 
 
-### #is_/same_as :: [Mushroom_Poisoning.secret](/_secret/bio/Medicine/Medical_Condition/Poisoning/Mushroom_Poisoning.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Condition/Poisoning/Mushroom_Poisoning.secret|Mushroom_Poisoning.secret]] 
 

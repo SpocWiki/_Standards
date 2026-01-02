@@ -39,17 +39,17 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Zuckerfabrik01.jpg
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Big Sugar](/_Standards/Society/Economics/Economic_Activity/Trade/Market/Monopoly/Big Sugar.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Economic_Activity/Trade/Market/Monopoly/Big Sugar|Big Sugar]] 
 
-### #is_/same_as :: [Big Sugar.public](/_public/Society/Economics/Economic_Activity/Trade/Market/Monopoly/Big Sugar.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Economic_Activity/Trade/Market/Monopoly/Big Sugar.public|Big Sugar.public]] 
 
-### #is_/same_as :: [Big Sugar.internal](/_internal/Society/Economics/Economic_Activity/Trade/Market/Monopoly/Big Sugar.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Economic_Activity/Trade/Market/Monopoly/Big Sugar.internal|Big Sugar.internal]] 
 
-### #is_/same_as :: [Big Sugar.protect](/_protect/Society/Economics/Economic_Activity/Trade/Market/Monopoly/Big Sugar.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Economic_Activity/Trade/Market/Monopoly/Big Sugar.protect|Big Sugar.protect]] 
 
-### #is_/same_as :: [Big Sugar.private](/_private/Society/Economics/Economic_Activity/Trade/Market/Monopoly/Big Sugar.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Economic_Activity/Trade/Market/Monopoly/Big Sugar.private|Big Sugar.private]] 
 
-### #is_/same_as :: [Big Sugar.personal](/_personal/Society/Economics/Economic_Activity/Trade/Market/Monopoly/Big Sugar.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Economic_Activity/Trade/Market/Monopoly/Big Sugar.personal|Big Sugar.personal]] 
 
-### #is_/same_as :: [Big Sugar.secret](/_secret/Society/Economics/Economic_Activity/Trade/Market/Monopoly/Big Sugar.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Economic_Activity/Trade/Market/Monopoly/Big Sugar.secret|Big Sugar.secret]] 
 

@@ -88,17 +88,17 @@ IPTC_NewsCode: mediatopic/20000068
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Revolution](/_Standards/Society/Politics/Government/Revolution.md) 
+### #is_/same_as :: [[/_Standards/Society/Politics/Government/Revolution|Revolution]] 
 
-### #is_/same_as :: [Revolution.public](/_public/Society/Politics/Government/Revolution.public.md) 
+### #is_/same_as :: [[/_public/Society/Politics/Government/Revolution.public|Revolution.public]] 
 
-### #is_/same_as :: [Revolution.internal](/_internal/Society/Politics/Government/Revolution.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Politics/Government/Revolution.internal|Revolution.internal]] 
 
-### #is_/same_as :: [Revolution.protect](/_protect/Society/Politics/Government/Revolution.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Politics/Government/Revolution.protect|Revolution.protect]] 
 
-### #is_/same_as :: [Revolution.private](/_private/Society/Politics/Government/Revolution.private.md) 
+### #is_/same_as :: [[/_private/Society/Politics/Government/Revolution.private|Revolution.private]] 
 
-### #is_/same_as :: [Revolution.personal](/_personal/Society/Politics/Government/Revolution.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Politics/Government/Revolution.personal|Revolution.personal]] 
 
-### #is_/same_as :: [Revolution.secret](/_secret/Society/Politics/Government/Revolution.secret.md)
+### #is_/same_as :: [[/_secret/Society/Politics/Government/Revolution.secret|Revolution.secret]] 
 

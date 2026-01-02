@@ -123,17 +123,17 @@ coordinate_location: Point(9.170833333 45.466666666)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Last_Supper(Painting)](/_Standards/Society/Communication/Media/Painting/Painter/Vinci,Leonardo_da/Last_Supper(Painting).md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Painting/Painter/Vinci,Leonardo_da/Last_Supper(Painting)|Last_Supper(Painting)]] 
 
-### #is_/same_as :: [Last_Supper(Painting).public](/_public/Society/Communication/Media/Painting/Painter/Vinci,Leonardo_da/Last_Supper(Painting).public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Painting/Painter/Vinci,Leonardo_da/Last_Supper(Painting).public|Last_Supper(Painting).public]] 
 
-### #is_/same_as :: [Last_Supper(Painting).internal](/_internal/Society/Communication/Media/Painting/Painter/Vinci,Leonardo_da/Last_Supper(Painting).internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Painting/Painter/Vinci,Leonardo_da/Last_Supper(Painting).internal|Last_Supper(Painting).internal]] 
 
-### #is_/same_as :: [Last_Supper(Painting).protect](/_protect/Society/Communication/Media/Painting/Painter/Vinci,Leonardo_da/Last_Supper(Painting).protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Painting/Painter/Vinci,Leonardo_da/Last_Supper(Painting).protect|Last_Supper(Painting).protect]] 
 
-### #is_/same_as :: [Last_Supper(Painting).private](/_private/Society/Communication/Media/Painting/Painter/Vinci,Leonardo_da/Last_Supper(Painting).private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Painting/Painter/Vinci,Leonardo_da/Last_Supper(Painting).private|Last_Supper(Painting).private]] 
 
-### #is_/same_as :: [Last_Supper(Painting).personal](/_personal/Society/Communication/Media/Painting/Painter/Vinci,Leonardo_da/Last_Supper(Painting).personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Painting/Painter/Vinci,Leonardo_da/Last_Supper(Painting).personal|Last_Supper(Painting).personal]] 
 
-### #is_/same_as :: [Last_Supper(Painting).secret](/_secret/Society/Communication/Media/Painting/Painter/Vinci,Leonardo_da/Last_Supper(Painting).secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Painting/Painter/Vinci,Leonardo_da/Last_Supper(Painting).secret|Last_Supper(Painting).secret]] 
 

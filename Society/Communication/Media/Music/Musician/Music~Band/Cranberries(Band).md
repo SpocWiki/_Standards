@@ -23,3 +23,22 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/The%20Cranberries) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Musician/Music~Band/Cranberries(Band)|Cranberries(Band)]] 
+
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Musician/Music~Band/Cranberries(Band).public|Cranberries(Band).public]] 
+
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Musician/Music~Band/Cranberries(Band).internal|Cranberries(Band).internal]] 
+
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Musician/Music~Band/Cranberries(Band).protect|Cranberries(Band).protect]] 
+
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Musician/Music~Band/Cranberries(Band).private|Cranberries(Band).private]] 
+
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Musician/Music~Band/Cranberries(Band).personal|Cranberries(Band).personal]] 
+
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Musician/Music~Band/Cranberries(Band).secret|Cranberries(Band).secret]] 
+

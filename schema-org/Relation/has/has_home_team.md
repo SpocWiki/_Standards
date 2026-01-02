@@ -44,17 +44,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_home_team](/_Standards/schema-org/Relation/has/has_home_team.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_home_team|has_home_team]] 
 
-### #is_/same_as :: [has_home_team.public](/_public/schema-org/Relation/has/has_home_team.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_home_team.public|has_home_team.public]] 
 
-### #is_/same_as :: [has_home_team.internal](/_internal/schema-org/Relation/has/has_home_team.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_home_team.internal|has_home_team.internal]] 
 
-### #is_/same_as :: [has_home_team.protect](/_protect/schema-org/Relation/has/has_home_team.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_home_team.protect|has_home_team.protect]] 
 
-### #is_/same_as :: [has_home_team.private](/_private/schema-org/Relation/has/has_home_team.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_home_team.private|has_home_team.private]] 
 
-### #is_/same_as :: [has_home_team.personal](/_personal/schema-org/Relation/has/has_home_team.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_home_team.personal|has_home_team.personal]] 
 
-### #is_/same_as :: [has_home_team.secret](/_secret/schema-org/Relation/has/has_home_team.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_home_team.secret|has_home_team.secret]] 
 

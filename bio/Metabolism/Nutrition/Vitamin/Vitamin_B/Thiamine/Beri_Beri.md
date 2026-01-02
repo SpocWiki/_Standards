@@ -46,17 +46,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Beri_Beri](Beri_Beri.md) 
+### #is_/same_as :: [[/_Standards/bio/Metabolism/Nutrition/Vitamin/Vitamin_B/Thiamine/Beri_Beri|Beri_Beri]] 
 
-### #is_/same_as :: [Beri_Beri.public](/_public/bio/Metabolism/Nutrition/Vitamin/Beri_Beri.public.md) 
+### #is_/same_as :: [[/_public/bio/Metabolism/Nutrition/Vitamin/Vitamin_B/Thiamine/Beri_Beri.public|Beri_Beri.public]] 
 
-### #is_/same_as :: [Beri_Beri.internal](/_internal/bio/Metabolism/Nutrition/Vitamin/Beri_Beri.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Metabolism/Nutrition/Vitamin/Vitamin_B/Thiamine/Beri_Beri.internal|Beri_Beri.internal]] 
 
-### #is_/same_as :: [Beri_Beri.protect](/_protect/bio/Metabolism/Nutrition/Vitamin/Beri_Beri.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Metabolism/Nutrition/Vitamin/Vitamin_B/Thiamine/Beri_Beri.protect|Beri_Beri.protect]] 
 
-### #is_/same_as :: [Beri_Beri.private](/_private/bio/Metabolism/Nutrition/Vitamin/Beri_Beri.private.md) 
+### #is_/same_as :: [[/_private/bio/Metabolism/Nutrition/Vitamin/Vitamin_B/Thiamine/Beri_Beri.private|Beri_Beri.private]] 
 
-### #is_/same_as :: [Beri_Beri.personal](/_personal/bio/Metabolism/Nutrition/Vitamin/Beri_Beri.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Metabolism/Nutrition/Vitamin/Vitamin_B/Thiamine/Beri_Beri.personal|Beri_Beri.personal]] 
 
-### #is_/same_as :: [Beri_Beri.secret](/_secret/bio/Metabolism/Nutrition/Vitamin/Beri_Beri.secret.md)
+### #is_/same_as :: [[/_secret/bio/Metabolism/Nutrition/Vitamin/Vitamin_B/Thiamine/Beri_Beri.secret|Beri_Beri.secret]] 
 

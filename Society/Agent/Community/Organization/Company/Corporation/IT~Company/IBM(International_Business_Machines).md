@@ -278,17 +278,17 @@ IPv4_routing_prefix: 9.0.0.0/8
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [IBM(International_Business_Machines)](/_Standards/Society/Agent/Community/Organization/Company/Corporation/IT~Company/IBM(International_Business_Machines).md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Company/Corporation/IT~Company/IBM(International_Business_Machines)|IBM(International_Business_Machines)]] 
 
-### #is_/same_as :: [IBM(International_Business_Machines).public](/_public/Society/Agent/Community/Organization/Company/Corporation/IT~Company/IBM(International_Business_Machines).public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Company/Corporation/IT~Company/IBM(International_Business_Machines).public|IBM(International_Business_Machines).public]] 
 
-### #is_/same_as :: [IBM(International_Business_Machines).internal](/_internal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/IBM(International_Business_Machines).internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/IBM(International_Business_Machines).internal|IBM(International_Business_Machines).internal]] 
 
-### #is_/same_as :: [IBM(International_Business_Machines).protect](/_protect/Society/Agent/Community/Organization/Company/Corporation/IT~Company/IBM(International_Business_Machines).protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Company/Corporation/IT~Company/IBM(International_Business_Machines).protect|IBM(International_Business_Machines).protect]] 
 
-### #is_/same_as :: [IBM(International_Business_Machines).private](/_private/Society/Agent/Community/Organization/Company/Corporation/IT~Company/IBM(International_Business_Machines).private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Company/Corporation/IT~Company/IBM(International_Business_Machines).private|IBM(International_Business_Machines).private]] 
 
-### #is_/same_as :: [IBM(International_Business_Machines).personal](/_personal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/IBM(International_Business_Machines).personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/IBM(International_Business_Machines).personal|IBM(International_Business_Machines).personal]] 
 
-### #is_/same_as :: [IBM(International_Business_Machines).secret](/_secret/Society/Agent/Community/Organization/Company/Corporation/IT~Company/IBM(International_Business_Machines).secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Company/Corporation/IT~Company/IBM(International_Business_Machines).secret|IBM(International_Business_Machines).secret]] 
 

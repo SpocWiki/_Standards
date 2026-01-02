@@ -86,17 +86,17 @@ EPPO_Code: 1ROSG
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Rose](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Rosales/Rosaceae/Rosoideae/Rose.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Rosales/Rosaceae/Rosoideae/Rose|Rose]] 
 
-### #is_/same_as :: [Rose.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Rosales/Rosaceae/Rosoideae/Rose.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Rosales/Rosaceae/Rosoideae/Rose.public|Rose.public]] 
 
-### #is_/same_as :: [Rose.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Rosales/Rosaceae/Rosoideae/Rose.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Rosales/Rosaceae/Rosoideae/Rose.internal|Rose.internal]] 
 
-### #is_/same_as :: [Rose.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Rosales/Rosaceae/Rosoideae/Rose.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Rosales/Rosaceae/Rosoideae/Rose.protect|Rose.protect]] 
 
-### #is_/same_as :: [Rose.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Rosales/Rosaceae/Rosoideae/Rose.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Rosales/Rosaceae/Rosoideae/Rose.private|Rose.private]] 
 
-### #is_/same_as :: [Rose.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Rosales/Rosaceae/Rosoideae/Rose.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Rosales/Rosaceae/Rosoideae/Rose.personal|Rose.personal]] 
 
-### #is_/same_as :: [Rose.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Rosales/Rosaceae/Rosoideae/Rose.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Rosales/Rosaceae/Rosoideae/Rose.secret|Rose.secret]] 
 

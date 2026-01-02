@@ -42,17 +42,17 @@ A trial that takes place at a single center.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Single_Center_Trial](/_Standards/bio/Medicine/Medical_Enumeration/Medical_Trial_Design/Single_Center_Trial.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Enumeration/Medical_Trial_Design/Single_Center_Trial|Single_Center_Trial]] 
 
-### #is_/same_as :: [Single_Center_Trial.public](/_public/bio/Medicine/Medical_Enumeration/Medical_Trial_Design/Single_Center_Trial.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Enumeration/Medical_Trial_Design/Single_Center_Trial.public|Single_Center_Trial.public]] 
 
-### #is_/same_as :: [Single_Center_Trial.internal](/_internal/bio/Medicine/Medical_Enumeration/Medical_Trial_Design/Single_Center_Trial.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Enumeration/Medical_Trial_Design/Single_Center_Trial.internal|Single_Center_Trial.internal]] 
 
-### #is_/same_as :: [Single_Center_Trial.protect](/_protect/bio/Medicine/Medical_Enumeration/Medical_Trial_Design/Single_Center_Trial.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Enumeration/Medical_Trial_Design/Single_Center_Trial.protect|Single_Center_Trial.protect]] 
 
-### #is_/same_as :: [Single_Center_Trial.private](/_private/bio/Medicine/Medical_Enumeration/Medical_Trial_Design/Single_Center_Trial.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Enumeration/Medical_Trial_Design/Single_Center_Trial.private|Single_Center_Trial.private]] 
 
-### #is_/same_as :: [Single_Center_Trial.personal](/_personal/bio/Medicine/Medical_Enumeration/Medical_Trial_Design/Single_Center_Trial.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Enumeration/Medical_Trial_Design/Single_Center_Trial.personal|Single_Center_Trial.personal]] 
 
-### #is_/same_as :: [Single_Center_Trial.secret](/_secret/bio/Medicine/Medical_Enumeration/Medical_Trial_Design/Single_Center_Trial.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Enumeration/Medical_Trial_Design/Single_Center_Trial.secret|Single_Center_Trial.secret]] 
 

@@ -45,17 +45,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bathtub_Curve](/_Standards/Technology/Engineering/Electrical_Engineering/Electronics/Bathtub_Curve.md) 
+### #is_/same_as :: [[/_Standards/Technology/Engineering/Electrical_Engineering/Electronics/Bathtub_Curve|Bathtub_Curve]] 
 
-### #is_/same_as :: [Bathtub_Curve.public](/_public/Technology/Engineering/Electrical_Engineering/Electronics/Bathtub_Curve.public.md) 
+### #is_/same_as :: [[/_public/Technology/Engineering/Electrical_Engineering/Electronics/Bathtub_Curve.public|Bathtub_Curve.public]] 
 
-### #is_/same_as :: [Bathtub_Curve.internal](/_internal/Technology/Engineering/Electrical_Engineering/Electronics/Bathtub_Curve.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Engineering/Electrical_Engineering/Electronics/Bathtub_Curve.internal|Bathtub_Curve.internal]] 
 
-### #is_/same_as :: [Bathtub_Curve.protect](/_protect/Technology/Engineering/Electrical_Engineering/Electronics/Bathtub_Curve.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Engineering/Electrical_Engineering/Electronics/Bathtub_Curve.protect|Bathtub_Curve.protect]] 
 
-### #is_/same_as :: [Bathtub_Curve.private](/_private/Technology/Engineering/Electrical_Engineering/Electronics/Bathtub_Curve.private.md) 
+### #is_/same_as :: [[/_private/Technology/Engineering/Electrical_Engineering/Electronics/Bathtub_Curve.private|Bathtub_Curve.private]] 
 
-### #is_/same_as :: [Bathtub_Curve.personal](/_personal/Technology/Engineering/Electrical_Engineering/Electronics/Bathtub_Curve.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Engineering/Electrical_Engineering/Electronics/Bathtub_Curve.personal|Bathtub_Curve.personal]] 
 
-### #is_/same_as :: [Bathtub_Curve.secret](/_secret/Technology/Engineering/Electrical_Engineering/Electronics/Bathtub_Curve.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Engineering/Electrical_Engineering/Electronics/Bathtub_Curve.secret|Bathtub_Curve.secret]] 
 

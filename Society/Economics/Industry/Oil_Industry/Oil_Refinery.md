@@ -62,17 +62,17 @@ OpenStreetMap_tag: industrial=refinery
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Oil_Refinery](/_Standards/Society/Economics/Industry/Oil_Industry/Oil_Refinery.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Industry/Oil_Industry/Oil_Refinery|Oil_Refinery]] 
 
-### #is_/same_as :: [Oil_Refinery.public](/_public/Society/Economics/Industry/Oil_Industry/Oil_Refinery.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Industry/Oil_Industry/Oil_Refinery.public|Oil_Refinery.public]] 
 
-### #is_/same_as :: [Oil_Refinery.internal](/_internal/Society/Economics/Industry/Oil_Industry/Oil_Refinery.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Industry/Oil_Industry/Oil_Refinery.internal|Oil_Refinery.internal]] 
 
-### #is_/same_as :: [Oil_Refinery.protect](/_protect/Society/Economics/Industry/Oil_Industry/Oil_Refinery.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Industry/Oil_Industry/Oil_Refinery.protect|Oil_Refinery.protect]] 
 
-### #is_/same_as :: [Oil_Refinery.private](/_private/Society/Economics/Industry/Oil_Industry/Oil_Refinery.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Industry/Oil_Industry/Oil_Refinery.private|Oil_Refinery.private]] 
 
-### #is_/same_as :: [Oil_Refinery.personal](/_personal/Society/Economics/Industry/Oil_Industry/Oil_Refinery.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Industry/Oil_Industry/Oil_Refinery.personal|Oil_Refinery.personal]] 
 
-### #is_/same_as :: [Oil_Refinery.secret](/_secret/Society/Economics/Industry/Oil_Industry/Oil_Refinery.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Industry/Oil_Industry/Oil_Refinery.secret|Oil_Refinery.secret]] 
 

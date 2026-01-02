@@ -35,17 +35,17 @@ Commons_category: Central European Free Trade Agreement
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [CEFTA(Central_European_Free_Trade_Agreement)](/_Standards/Earth/Continent/Europe/CEFTA(Central_European_Free_Trade_Agreement).md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/CEFTA(Central_European_Free_Trade_Agreement)|CEFTA(Central_European_Free_Trade_Agreement)]] 
 
-### #is_/same_as :: [CEFTA(Central_European_Free_Trade_Agreement).public](/_public/Earth/Continent/Europe/CEFTA(Central_European_Free_Trade_Agreement).public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/CEFTA(Central_European_Free_Trade_Agreement).public|CEFTA(Central_European_Free_Trade_Agreement).public]] 
 
-### #is_/same_as :: [CEFTA(Central_European_Free_Trade_Agreement).internal](/_internal/Earth/Continent/Europe/CEFTA(Central_European_Free_Trade_Agreement).internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/CEFTA(Central_European_Free_Trade_Agreement).internal|CEFTA(Central_European_Free_Trade_Agreement).internal]] 
 
-### #is_/same_as :: [CEFTA(Central_European_Free_Trade_Agreement).protect](/_protect/Earth/Continent/Europe/CEFTA(Central_European_Free_Trade_Agreement).protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/CEFTA(Central_European_Free_Trade_Agreement).protect|CEFTA(Central_European_Free_Trade_Agreement).protect]] 
 
-### #is_/same_as :: [CEFTA(Central_European_Free_Trade_Agreement).private](/_private/Earth/Continent/Europe/CEFTA(Central_European_Free_Trade_Agreement).private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/CEFTA(Central_European_Free_Trade_Agreement).private|CEFTA(Central_European_Free_Trade_Agreement).private]] 
 
-### #is_/same_as :: [CEFTA(Central_European_Free_Trade_Agreement).personal](/_personal/Earth/Continent/Europe/CEFTA(Central_European_Free_Trade_Agreement).personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/CEFTA(Central_European_Free_Trade_Agreement).personal|CEFTA(Central_European_Free_Trade_Agreement).personal]] 
 
-### #is_/same_as :: [CEFTA(Central_European_Free_Trade_Agreement).secret](/_secret/Earth/Continent/Europe/CEFTA(Central_European_Free_Trade_Agreement).secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/CEFTA(Central_European_Free_Trade_Agreement).secret|CEFTA(Central_European_Free_Trade_Agreement).secret]] 
 

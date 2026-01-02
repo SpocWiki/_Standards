@@ -33,17 +33,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Impulse](/_Standards/Dimension/Linear_Dimension/Velocity/Impulse.md) 
+### #is_/same_as :: [[/_Standards/Dimension/Linear_Dimension/Velocity/Impulse|Impulse]] 
 
-### #is_/same_as :: [Impulse.public](/_public/Dimension/Linear_Dimension/Velocity/Impulse.public.md) 
+### #is_/same_as :: [[/_public/Dimension/Linear_Dimension/Velocity/Impulse.public|Impulse.public]] 
 
-### #is_/same_as :: [Impulse.internal](/_internal/Dimension/Linear_Dimension/Velocity/Impulse.internal.md) 
+### #is_/same_as :: [[/_internal/Dimension/Linear_Dimension/Velocity/Impulse.internal|Impulse.internal]] 
 
-### #is_/same_as :: [Impulse.protect](/_protect/Dimension/Linear_Dimension/Velocity/Impulse.protect.md) 
+### #is_/same_as :: [[/_protect/Dimension/Linear_Dimension/Velocity/Impulse.protect|Impulse.protect]] 
 
-### #is_/same_as :: [Impulse.private](/_private/Dimension/Linear_Dimension/Velocity/Impulse.private.md) 
+### #is_/same_as :: [[/_private/Dimension/Linear_Dimension/Velocity/Impulse.private|Impulse.private]] 
 
-### #is_/same_as :: [Impulse.personal](/_personal/Dimension/Linear_Dimension/Velocity/Impulse.personal.md) 
+### #is_/same_as :: [[/_personal/Dimension/Linear_Dimension/Velocity/Impulse.personal|Impulse.personal]] 
 
-### #is_/same_as :: [Impulse.secret](/_secret/Dimension/Linear_Dimension/Velocity/Impulse.secret.md)
+### #is_/same_as :: [[/_secret/Dimension/Linear_Dimension/Velocity/Impulse.secret|Impulse.secret]] 
 

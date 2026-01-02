@@ -132,17 +132,17 @@ ZVG_number: 7370
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Rubidium](/_Standards/Chemistry/Chemical_Element/Group-01-Alkali/Rubidium.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Chemical_Element/Group-01-Alkali/Rubidium|Rubidium]] 
 
-### #is_/same_as :: [Rubidium.public](/_public/Chemistry/Chemical_Element/Group-01-Alkali/Rubidium.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Chemical_Element/Group-01-Alkali/Rubidium.public|Rubidium.public]] 
 
-### #is_/same_as :: [Rubidium.internal](/_internal/Chemistry/Chemical_Element/Group-01-Alkali/Rubidium.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Chemical_Element/Group-01-Alkali/Rubidium.internal|Rubidium.internal]] 
 
-### #is_/same_as :: [Rubidium.protect](/_protect/Chemistry/Chemical_Element/Group-01-Alkali/Rubidium.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Chemical_Element/Group-01-Alkali/Rubidium.protect|Rubidium.protect]] 
 
-### #is_/same_as :: [Rubidium.private](/_private/Chemistry/Chemical_Element/Group-01-Alkali/Rubidium.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Chemical_Element/Group-01-Alkali/Rubidium.private|Rubidium.private]] 
 
-### #is_/same_as :: [Rubidium.personal](/_personal/Chemistry/Chemical_Element/Group-01-Alkali/Rubidium.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Chemical_Element/Group-01-Alkali/Rubidium.personal|Rubidium.personal]] 
 
-### #is_/same_as :: [Rubidium.secret](/_secret/Chemistry/Chemical_Element/Group-01-Alkali/Rubidium.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Chemical_Element/Group-01-Alkali/Rubidium.secret|Rubidium.secret]] 
 

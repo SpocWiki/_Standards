@@ -65,17 +65,17 @@ Commons_category: Electric motors
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Electric_Motor](/_Standards/Technology/Engine/Electric_Motor.md) 
+### #is_/same_as :: [[/_Standards/Technology/Engine/Electric_Motor|Electric_Motor]] 
 
-### #is_/same_as :: [Electric_Motor.public](/_public/Technology/Engine/Electric_Motor.public.md) 
+### #is_/same_as :: [[/_public/Technology/Engine/Electric_Motor.public|Electric_Motor.public]] 
 
-### #is_/same_as :: [Electric_Motor.internal](/_internal/Technology/Engine/Electric_Motor.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Engine/Electric_Motor.internal|Electric_Motor.internal]] 
 
-### #is_/same_as :: [Electric_Motor.protect](/_protect/Technology/Engine/Electric_Motor.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Engine/Electric_Motor.protect|Electric_Motor.protect]] 
 
-### #is_/same_as :: [Electric_Motor.private](/_private/Technology/Engine/Electric_Motor.private.md) 
+### #is_/same_as :: [[/_private/Technology/Engine/Electric_Motor.private|Electric_Motor.private]] 
 
-### #is_/same_as :: [Electric_Motor.personal](/_personal/Technology/Engine/Electric_Motor.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Engine/Electric_Motor.personal|Electric_Motor.personal]] 
 
-### #is_/same_as :: [Electric_Motor.secret](/_secret/Technology/Engine/Electric_Motor.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Engine/Electric_Motor.secret|Electric_Motor.secret]] 
 

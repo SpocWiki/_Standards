@@ -92,17 +92,17 @@ Copyright ::   © 1994 [BIODIDAC](http://biodidac.bio.uottawa.ca/index.htm)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Phoronida](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Phoronida.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Phoronida|Phoronida]] 
 
-### #is_/same_as :: [Phoronida.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Phoronida.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Phoronida.public|Phoronida.public]] 
 
-### #is_/same_as :: [Phoronida.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Phoronida.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Phoronida.internal|Phoronida.internal]] 
 
-### #is_/same_as :: [Phoronida.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Phoronida.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Phoronida.protect|Phoronida.protect]] 
 
-### #is_/same_as :: [Phoronida.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Phoronida.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Phoronida.private|Phoronida.private]] 
 
-### #is_/same_as :: [Phoronida.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Phoronida.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Phoronida.personal|Phoronida.personal]] 
 
-### #is_/same_as :: [Phoronida.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Phoronida.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Phoronida.secret|Phoronida.secret]] 
 

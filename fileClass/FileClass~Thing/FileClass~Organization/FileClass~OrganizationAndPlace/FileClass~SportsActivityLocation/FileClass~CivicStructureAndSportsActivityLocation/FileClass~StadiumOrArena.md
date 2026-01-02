@@ -37,17 +37,17 @@ A stadium.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~StadiumOrArena](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SportsActivityLocation/FileClass~CivicStructureAndSportsActivityLocation/FileClass~StadiumOrArena.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SportsActivityLocation/FileClass~CivicStructureAndSportsActivityLocation/FileClass~StadiumOrArena|FileClass~StadiumOrArena]] 
 
-### #is_/same_as :: [FileClass~StadiumOrArena.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SportsActivityLocation/FileClass~CivicStructureAndSportsActivityLocation/FileClass~StadiumOrArena.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SportsActivityLocation/FileClass~CivicStructureAndSportsActivityLocation/FileClass~StadiumOrArena.public|FileClass~StadiumOrArena.public]] 
 
-### #is_/same_as :: [FileClass~StadiumOrArena.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SportsActivityLocation/FileClass~CivicStructureAndSportsActivityLocation/FileClass~StadiumOrArena.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SportsActivityLocation/FileClass~CivicStructureAndSportsActivityLocation/FileClass~StadiumOrArena.internal|FileClass~StadiumOrArena.internal]] 
 
-### #is_/same_as :: [FileClass~StadiumOrArena.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SportsActivityLocation/FileClass~CivicStructureAndSportsActivityLocation/FileClass~StadiumOrArena.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SportsActivityLocation/FileClass~CivicStructureAndSportsActivityLocation/FileClass~StadiumOrArena.protect|FileClass~StadiumOrArena.protect]] 
 
-### #is_/same_as :: [FileClass~StadiumOrArena.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SportsActivityLocation/FileClass~CivicStructureAndSportsActivityLocation/FileClass~StadiumOrArena.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SportsActivityLocation/FileClass~CivicStructureAndSportsActivityLocation/FileClass~StadiumOrArena.private|FileClass~StadiumOrArena.private]] 
 
-### #is_/same_as :: [FileClass~StadiumOrArena.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SportsActivityLocation/FileClass~CivicStructureAndSportsActivityLocation/FileClass~StadiumOrArena.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SportsActivityLocation/FileClass~CivicStructureAndSportsActivityLocation/FileClass~StadiumOrArena.personal|FileClass~StadiumOrArena.personal]] 
 
-### #is_/same_as :: [FileClass~StadiumOrArena.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SportsActivityLocation/FileClass~CivicStructureAndSportsActivityLocation/FileClass~StadiumOrArena.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SportsActivityLocation/FileClass~CivicStructureAndSportsActivityLocation/FileClass~StadiumOrArena.secret|FileClass~StadiumOrArena.secret]] 
 

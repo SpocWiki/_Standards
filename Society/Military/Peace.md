@@ -63,17 +63,17 @@ Unicode_character: ☮
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Peace](/_Standards/Society/Military/Peace.md) 
+### #is_/same_as :: [[/_Standards/Society/Military/Peace|Peace]] 
 
-### #is_/same_as :: [Peace.public](/_public/Society/Military/Peace.public.md) 
+### #is_/same_as :: [[/_public/Society/Military/Peace.public|Peace.public]] 
 
-### #is_/same_as :: [Peace.internal](/_internal/Society/Military/Peace.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Military/Peace.internal|Peace.internal]] 
 
-### #is_/same_as :: [Peace.protect](/_protect/Society/Military/Peace.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Military/Peace.protect|Peace.protect]] 
 
-### #is_/same_as :: [Peace.private](/_private/Society/Military/Peace.private.md) 
+### #is_/same_as :: [[/_private/Society/Military/Peace.private|Peace.private]] 
 
-### #is_/same_as :: [Peace.personal](/_personal/Society/Military/Peace.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Military/Peace.personal|Peace.personal]] 
 
-### #is_/same_as :: [Peace.secret](/_secret/Society/Military/Peace.secret.md)
+### #is_/same_as :: [[/_secret/Society/Military/Peace.secret|Peace.secret]] 
 

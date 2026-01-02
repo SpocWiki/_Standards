@@ -107,17 +107,17 @@ This series was broadcast
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Water_Margin(Novel)](/_Standards/Society/Communication/Media/Writing/Book/Prose/Novel/Water_Margin(Novel).md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Prose/Novel/Water_Margin(Novel)|Water_Margin(Novel)]] 
 
-### #is_/same_as :: [Water_Margin(Novel).public](/_public/Society/Communication/Media/Writing/Book/Prose/Novel/Water_Margin(Novel).public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Prose/Novel/Water_Margin(Novel).public|Water_Margin(Novel).public]] 
 
-### #is_/same_as :: [Water_Margin(Novel).internal](/_internal/Society/Communication/Media/Writing/Book/Prose/Novel/Water_Margin(Novel).internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Prose/Novel/Water_Margin(Novel).internal|Water_Margin(Novel).internal]] 
 
-### #is_/same_as :: [Water_Margin(Novel).protect](/_protect/Society/Communication/Media/Writing/Book/Prose/Novel/Water_Margin(Novel).protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Prose/Novel/Water_Margin(Novel).protect|Water_Margin(Novel).protect]] 
 
-### #is_/same_as :: [Water_Margin(Novel).private](/_private/Society/Communication/Media/Writing/Book/Prose/Novel/Water_Margin(Novel).private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Prose/Novel/Water_Margin(Novel).private|Water_Margin(Novel).private]] 
 
-### #is_/same_as :: [Water_Margin(Novel).personal](/_personal/Society/Communication/Media/Writing/Book/Prose/Novel/Water_Margin(Novel).personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Prose/Novel/Water_Margin(Novel).personal|Water_Margin(Novel).personal]] 
 
-### #is_/same_as :: [Water_Margin(Novel).secret](/_secret/Society/Communication/Media/Writing/Book/Prose/Novel/Water_Margin(Novel).secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Prose/Novel/Water_Margin(Novel).secret|Water_Margin(Novel).secret]] 
 

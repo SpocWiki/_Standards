@@ -41,17 +41,17 @@ Krugosvet_article_archived_: nauka_i_tehnika/biologiya/NASLEDSTVENNOST.html
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Heredity](/_Standards/bio/Genetics/Heredity.md) 
+### #is_/same_as :: [[/_Standards/bio/Genetics/Heredity|Heredity]] 
 
-### #is_/same_as :: [Heredity.public](/_public/bio/Genetics/Heredity.public.md) 
+### #is_/same_as :: [[/_public/bio/Genetics/Heredity.public|Heredity.public]] 
 
-### #is_/same_as :: [Heredity.internal](/_internal/bio/Genetics/Heredity.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Genetics/Heredity.internal|Heredity.internal]] 
 
-### #is_/same_as :: [Heredity.protect](/_protect/bio/Genetics/Heredity.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Genetics/Heredity.protect|Heredity.protect]] 
 
-### #is_/same_as :: [Heredity.private](/_private/bio/Genetics/Heredity.private.md) 
+### #is_/same_as :: [[/_private/bio/Genetics/Heredity.private|Heredity.private]] 
 
-### #is_/same_as :: [Heredity.personal](/_personal/bio/Genetics/Heredity.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Genetics/Heredity.personal|Heredity.personal]] 
 
-### #is_/same_as :: [Heredity.secret](/_secret/bio/Genetics/Heredity.secret.md)
+### #is_/same_as :: [[/_secret/bio/Genetics/Heredity.secret|Heredity.secret]] 
 

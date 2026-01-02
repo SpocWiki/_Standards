@@ -66,17 +66,17 @@ Commons_category: Sericulture
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sericulture](/_Standards/Technology/Tool/Clothing/Sericulture.md) 
+### #is_/same_as :: [[/_Standards/Technology/Tool/Clothing/Sericulture|Sericulture]] 
 
-### #is_/same_as :: [Sericulture.public](/_public/Technology/Tool/Clothing/Sericulture.public.md) 
+### #is_/same_as :: [[/_public/Technology/Tool/Clothing/Sericulture.public|Sericulture.public]] 
 
-### #is_/same_as :: [Sericulture.internal](/_internal/Technology/Tool/Clothing/Sericulture.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Tool/Clothing/Sericulture.internal|Sericulture.internal]] 
 
-### #is_/same_as :: [Sericulture.protect](/_protect/Technology/Tool/Clothing/Sericulture.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Tool/Clothing/Sericulture.protect|Sericulture.protect]] 
 
-### #is_/same_as :: [Sericulture.private](/_private/Technology/Tool/Clothing/Sericulture.private.md) 
+### #is_/same_as :: [[/_private/Technology/Tool/Clothing/Sericulture.private|Sericulture.private]] 
 
-### #is_/same_as :: [Sericulture.personal](/_personal/Technology/Tool/Clothing/Sericulture.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Tool/Clothing/Sericulture.personal|Sericulture.personal]] 
 
-### #is_/same_as :: [Sericulture.secret](/_secret/Technology/Tool/Clothing/Sericulture.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Tool/Clothing/Sericulture.secret|Sericulture.secret]] 
 

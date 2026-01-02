@@ -76,17 +76,17 @@ hashtag_: geometry
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Geometry](/_Standards/Mathematics/Geometry.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Geometry|Geometry]] 
 
-### #is_/same_as :: [Geometry.public](/_public/Mathematics/Geometry.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Geometry.public|Geometry.public]] 
 
-### #is_/same_as :: [Geometry.internal](/_internal/Mathematics/Geometry.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Geometry.internal|Geometry.internal]] 
 
-### #is_/same_as :: [Geometry.protect](/_protect/Mathematics/Geometry.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Geometry.protect|Geometry.protect]] 
 
-### #is_/same_as :: [Geometry.private](/_private/Mathematics/Geometry.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Geometry.private|Geometry.private]] 
 
-### #is_/same_as :: [Geometry.personal](/_personal/Mathematics/Geometry.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Geometry.personal|Geometry.personal]] 
 
-### #is_/same_as :: [Geometry.secret](/_secret/Mathematics/Geometry.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Geometry.secret|Geometry.secret]] 
 

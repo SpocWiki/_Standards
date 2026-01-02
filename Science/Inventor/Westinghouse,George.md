@@ -76,17 +76,17 @@ date_of_death: 1914-03-12T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Westinghouse,George](/_Standards/Science/Inventor/Westinghouse,George.md) 
+### #is_/same_as :: [[/_Standards/Science/Inventor/Westinghouse,George|Westinghouse,George]] 
 
-### #is_/same_as :: [Westinghouse,George.public](/_public/Science/Inventor/Westinghouse,George.public.md) 
+### #is_/same_as :: [[/_public/Science/Inventor/Westinghouse,George.public|Westinghouse,George.public]] 
 
-### #is_/same_as :: [Westinghouse,George.internal](/_internal/Science/Inventor/Westinghouse,George.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Inventor/Westinghouse,George.internal|Westinghouse,George.internal]] 
 
-### #is_/same_as :: [Westinghouse,George.protect](/_protect/Science/Inventor/Westinghouse,George.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Inventor/Westinghouse,George.protect|Westinghouse,George.protect]] 
 
-### #is_/same_as :: [Westinghouse,George.private](/_private/Science/Inventor/Westinghouse,George.private.md) 
+### #is_/same_as :: [[/_private/Science/Inventor/Westinghouse,George.private|Westinghouse,George.private]] 
 
-### #is_/same_as :: [Westinghouse,George.personal](/_personal/Science/Inventor/Westinghouse,George.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Inventor/Westinghouse,George.personal|Westinghouse,George.personal]] 
 
-### #is_/same_as :: [Westinghouse,George.secret](/_secret/Science/Inventor/Westinghouse,George.secret.md)
+### #is_/same_as :: [[/_secret/Science/Inventor/Westinghouse,George.secret|Westinghouse,George.secret]] 
 

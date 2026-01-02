@@ -53,17 +53,17 @@ inception: 1807-01-01T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Symphony_5(Beethoven)](/_Standards/Society/Communication/Media/Music/Composer/Classic_Composer/Beethoven,Ludwig_van/Symphony_5(Beethoven).md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Composer/Classic_Composer/Beethoven,Ludwig_van/Symphony_5(Beethoven)|Symphony_5(Beethoven)]] 
 
-### #is_/same_as :: [Symphony_5(Beethoven).public](/_public/Society/Communication/Media/Music/Composer/Classic_Composer/Beethoven,Ludwig_van/Symphony_5(Beethoven).public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Composer/Classic_Composer/Beethoven,Ludwig_van/Symphony_5(Beethoven).public|Symphony_5(Beethoven).public]] 
 
-### #is_/same_as :: [Symphony_5(Beethoven).internal](/_internal/Society/Communication/Media/Music/Composer/Classic_Composer/Beethoven,Ludwig_van/Symphony_5(Beethoven).internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Composer/Classic_Composer/Beethoven,Ludwig_van/Symphony_5(Beethoven).internal|Symphony_5(Beethoven).internal]] 
 
-### #is_/same_as :: [Symphony_5(Beethoven).protect](/_protect/Society/Communication/Media/Music/Composer/Classic_Composer/Beethoven,Ludwig_van/Symphony_5(Beethoven).protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Composer/Classic_Composer/Beethoven,Ludwig_van/Symphony_5(Beethoven).protect|Symphony_5(Beethoven).protect]] 
 
-### #is_/same_as :: [Symphony_5(Beethoven).private](/_private/Society/Communication/Media/Music/Composer/Classic_Composer/Beethoven,Ludwig_van/Symphony_5(Beethoven).private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Composer/Classic_Composer/Beethoven,Ludwig_van/Symphony_5(Beethoven).private|Symphony_5(Beethoven).private]] 
 
-### #is_/same_as :: [Symphony_5(Beethoven).personal](/_personal/Society/Communication/Media/Music/Composer/Classic_Composer/Beethoven,Ludwig_van/Symphony_5(Beethoven).personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Composer/Classic_Composer/Beethoven,Ludwig_van/Symphony_5(Beethoven).personal|Symphony_5(Beethoven).personal]] 
 
-### #is_/same_as :: [Symphony_5(Beethoven).secret](/_secret/Society/Communication/Media/Music/Composer/Classic_Composer/Beethoven,Ludwig_van/Symphony_5(Beethoven).secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Composer/Classic_Composer/Beethoven,Ludwig_van/Symphony_5(Beethoven).secret|Symphony_5(Beethoven).secret]] 
 

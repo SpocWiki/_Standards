@@ -40,17 +40,17 @@ Individuals considered members of _The Martians_ group include:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Martians(scientists)](/_Standards/Technology/IT/Computer_Science/Computer_Scientist/Martians(scientists).md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Computer_Science/Computer_Scientist/Martians(scientists)|Martians(scientists)]] 
 
-### #is_/same_as :: [Martians(scientists).public](/_public/Technology/IT/Computer_Science/Computer_Scientist/Martians(scientists).public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Computer_Science/Computer_Scientist/Martians(scientists).public|Martians(scientists).public]] 
 
-### #is_/same_as :: [Martians(scientists).internal](/_internal/Technology/IT/Computer_Science/Computer_Scientist/Martians(scientists).internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Computer_Science/Computer_Scientist/Martians(scientists).internal|Martians(scientists).internal]] 
 
-### #is_/same_as :: [Martians(scientists).protect](/_protect/Technology/IT/Computer_Science/Computer_Scientist/Martians(scientists).protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Computer_Science/Computer_Scientist/Martians(scientists).protect|Martians(scientists).protect]] 
 
-### #is_/same_as :: [Martians(scientists).private](/_private/Technology/IT/Computer_Science/Computer_Scientist/Martians(scientists).private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Computer_Science/Computer_Scientist/Martians(scientists).private|Martians(scientists).private]] 
 
-### #is_/same_as :: [Martians(scientists).personal](/_personal/Technology/IT/Computer_Science/Computer_Scientist/Martians(scientists).personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Computer_Science/Computer_Scientist/Martians(scientists).personal|Martians(scientists).personal]] 
 
-### #is_/same_as :: [Martians(scientists).secret](/_secret/Technology/IT/Computer_Science/Computer_Scientist/Martians(scientists).secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Computer_Science/Computer_Scientist/Martians(scientists).secret|Martians(scientists).secret]] 
 

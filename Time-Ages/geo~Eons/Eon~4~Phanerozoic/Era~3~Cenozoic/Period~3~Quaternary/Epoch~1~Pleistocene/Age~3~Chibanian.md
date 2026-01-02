@@ -70,17 +70,17 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Age~3~Chibanian](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~1~Pleistocene/Age~3~Chibanian.md) 
+### #is_/same_as :: [[/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~1~Pleistocene/Age~3~Chibanian|Age~3~Chibanian]] 
 
-### #is_/same_as :: [Age~3~Chibanian.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~1~Pleistocene/Age~3~Chibanian.public.md) 
+### #is_/same_as :: [[/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~1~Pleistocene/Age~3~Chibanian.public|Age~3~Chibanian.public]] 
 
-### #is_/same_as :: [Age~3~Chibanian.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~1~Pleistocene/Age~3~Chibanian.internal.md) 
+### #is_/same_as :: [[/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~1~Pleistocene/Age~3~Chibanian.internal|Age~3~Chibanian.internal]] 
 
-### #is_/same_as :: [Age~3~Chibanian.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~1~Pleistocene/Age~3~Chibanian.protect.md) 
+### #is_/same_as :: [[/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~1~Pleistocene/Age~3~Chibanian.protect|Age~3~Chibanian.protect]] 
 
-### #is_/same_as :: [Age~3~Chibanian.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~1~Pleistocene/Age~3~Chibanian.private.md) 
+### #is_/same_as :: [[/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~1~Pleistocene/Age~3~Chibanian.private|Age~3~Chibanian.private]] 
 
-### #is_/same_as :: [Age~3~Chibanian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~1~Pleistocene/Age~3~Chibanian.personal.md) 
+### #is_/same_as :: [[/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~1~Pleistocene/Age~3~Chibanian.personal|Age~3~Chibanian.personal]] 
 
-### #is_/same_as :: [Age~3~Chibanian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~1~Pleistocene/Age~3~Chibanian.secret.md)
+### #is_/same_as :: [[/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~1~Pleistocene/Age~3~Chibanian.secret|Age~3~Chibanian.secret]] 
 

@@ -47,17 +47,17 @@ UNII: Z38C7FBM49
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Turnip](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Vegetable/Turnip.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Home_Economics/Cooking/Food/Vegetable/Turnip|Turnip]] 
 
-### #is_/same_as :: [Turnip.public](/_public/Society/Economics/Home_Economics/Cooking/Food/Vegetable/Turnip.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Home_Economics/Cooking/Food/Vegetable/Turnip.public|Turnip.public]] 
 
-### #is_/same_as :: [Turnip.internal](/_internal/Society/Economics/Home_Economics/Cooking/Food/Vegetable/Turnip.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Home_Economics/Cooking/Food/Vegetable/Turnip.internal|Turnip.internal]] 
 
-### #is_/same_as :: [Turnip.protect](/_protect/Society/Economics/Home_Economics/Cooking/Food/Vegetable/Turnip.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Home_Economics/Cooking/Food/Vegetable/Turnip.protect|Turnip.protect]] 
 
-### #is_/same_as :: [Turnip.private](/_private/Society/Economics/Home_Economics/Cooking/Food/Vegetable/Turnip.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Home_Economics/Cooking/Food/Vegetable/Turnip.private|Turnip.private]] 
 
-### #is_/same_as :: [Turnip.personal](/_personal/Society/Economics/Home_Economics/Cooking/Food/Vegetable/Turnip.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Home_Economics/Cooking/Food/Vegetable/Turnip.personal|Turnip.personal]] 
 
-### #is_/same_as :: [Turnip.secret](/_secret/Society/Economics/Home_Economics/Cooking/Food/Vegetable/Turnip.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Home_Economics/Cooking/Food/Vegetable/Turnip.secret|Turnip.secret]] 
 

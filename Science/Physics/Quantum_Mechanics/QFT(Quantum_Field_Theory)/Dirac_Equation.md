@@ -272,17 +272,17 @@ $$
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Dirac_Equation](/_Standards/Science/Physics/Quantum_Mechanics/QFT(Quantum_Field_Theory)/Dirac_Equation.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Quantum_Mechanics/QFT(Quantum_Field_Theory)/Dirac_Equation|Dirac_Equation]] 
 
-### #is_/same_as :: [Dirac_Equation.public](/_public/Science/Physics/Quantum_Mechanics/QFT(Quantum_Field_Theory)/Dirac_Equation.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Quantum_Mechanics/QFT(Quantum_Field_Theory)/Dirac_Equation.public|Dirac_Equation.public]] 
 
-### #is_/same_as :: [Dirac_Equation.internal](/_internal/Science/Physics/Quantum_Mechanics/QFT(Quantum_Field_Theory)/Dirac_Equation.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Quantum_Mechanics/QFT(Quantum_Field_Theory)/Dirac_Equation.internal|Dirac_Equation.internal]] 
 
-### #is_/same_as :: [Dirac_Equation.protect](/_protect/Science/Physics/Quantum_Mechanics/QFT(Quantum_Field_Theory)/Dirac_Equation.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Quantum_Mechanics/QFT(Quantum_Field_Theory)/Dirac_Equation.protect|Dirac_Equation.protect]] 
 
-### #is_/same_as :: [Dirac_Equation.private](/_private/Science/Physics/Quantum_Mechanics/QFT(Quantum_Field_Theory)/Dirac_Equation.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Quantum_Mechanics/QFT(Quantum_Field_Theory)/Dirac_Equation.private|Dirac_Equation.private]] 
 
-### #is_/same_as :: [Dirac_Equation.personal](/_personal/Science/Physics/Quantum_Mechanics/QFT(Quantum_Field_Theory)/Dirac_Equation.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Quantum_Mechanics/QFT(Quantum_Field_Theory)/Dirac_Equation.personal|Dirac_Equation.personal]] 
 
-### #is_/same_as :: [Dirac_Equation.secret](/_secret/Science/Physics/Quantum_Mechanics/QFT(Quantum_Field_Theory)/Dirac_Equation.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Quantum_Mechanics/QFT(Quantum_Field_Theory)/Dirac_Equation.secret|Dirac_Equation.secret]] 
 

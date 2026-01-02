@@ -52,17 +52,17 @@ time_of_discovery_or_invention: 1920-01-01T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Beach_Volleyball](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Volleyball/Beach_Volleyball.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Volleyball/Beach_Volleyball|Beach_Volleyball]] 
 
-### #is_/same_as :: [Beach_Volleyball.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Volleyball/Beach_Volleyball.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Volleyball/Beach_Volleyball.public|Beach_Volleyball.public]] 
 
-### #is_/same_as :: [Beach_Volleyball.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Volleyball/Beach_Volleyball.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Volleyball/Beach_Volleyball.internal|Beach_Volleyball.internal]] 
 
-### #is_/same_as :: [Beach_Volleyball.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Volleyball/Beach_Volleyball.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Volleyball/Beach_Volleyball.protect|Beach_Volleyball.protect]] 
 
-### #is_/same_as :: [Beach_Volleyball.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Volleyball/Beach_Volleyball.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Volleyball/Beach_Volleyball.private|Beach_Volleyball.private]] 
 
-### #is_/same_as :: [Beach_Volleyball.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Volleyball/Beach_Volleyball.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Volleyball/Beach_Volleyball.personal|Beach_Volleyball.personal]] 
 
-### #is_/same_as :: [Beach_Volleyball.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Volleyball/Beach_Volleyball.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Volleyball/Beach_Volleyball.secret|Beach_Volleyball.secret]] 
 

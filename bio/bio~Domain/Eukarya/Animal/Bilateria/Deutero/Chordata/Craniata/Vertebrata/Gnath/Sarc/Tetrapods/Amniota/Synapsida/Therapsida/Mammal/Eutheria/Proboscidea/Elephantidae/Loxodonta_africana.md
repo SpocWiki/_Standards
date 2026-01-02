@@ -8,7 +8,7 @@ title: Loxodonta africana
 # Loxodonta africana
 
 ## African Elephant 
-![ ](Loxodonta_africana/0706elephants.jpg))
+![ ](Loxodonta_africana/0706elephants.jpg) 
 
 
 ### Information on the Internet
@@ -54,7 +54,7 @@ title: Loxodonta africana
 ## Title Illustrations
 
 ------------------------------------------------------------------------------ 
-![](Loxodonta_africana/0706elephants.jpg))
+![](Loxodonta_africana/0706elephants.jpg) 
 Scientific Name ::  Loxodonta africana
 Location ::        Khwai, Okavango Delta, Botswana
 Comments          elephant breeding herd
@@ -63,17 +63,17 @@ Copyright ::         © 2000 [Greg and Marybeth Dimijian](http://www.dimijianima
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Loxodonta_africana](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Proboscidea/Elephantidae/Loxodonta_africana.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Proboscidea/Elephantidae/Loxodonta_africana|Loxodonta_africana]] 
 
-### #is_/same_as :: [Loxodonta_africana.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Proboscidea/Elephantidae/Loxodonta_africana.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Proboscidea/Elephantidae/Loxodonta_africana.public|Loxodonta_africana.public]] 
 
-### #is_/same_as :: [Loxodonta_africana.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Proboscidea/Elephantidae/Loxodonta_africana.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Proboscidea/Elephantidae/Loxodonta_africana.internal|Loxodonta_africana.internal]] 
 
-### #is_/same_as :: [Loxodonta_africana.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Proboscidea/Elephantidae/Loxodonta_africana.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Proboscidea/Elephantidae/Loxodonta_africana.protect|Loxodonta_africana.protect]] 
 
-### #is_/same_as :: [Loxodonta_africana.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Proboscidea/Elephantidae/Loxodonta_africana.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Proboscidea/Elephantidae/Loxodonta_africana.private|Loxodonta_africana.private]] 
 
-### #is_/same_as :: [Loxodonta_africana.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Proboscidea/Elephantidae/Loxodonta_africana.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Proboscidea/Elephantidae/Loxodonta_africana.personal|Loxodonta_africana.personal]] 
 
-### #is_/same_as :: [Loxodonta_africana.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Proboscidea/Elephantidae/Loxodonta_africana.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Proboscidea/Elephantidae/Loxodonta_africana.secret|Loxodonta_africana.secret]] 
 

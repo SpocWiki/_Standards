@@ -130,17 +130,17 @@ external_data_available_at_URL:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ginger](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Zingiberales/Zingiberaceae/Zingiber/Ginger.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Zingiberales/Zingiberaceae/Zingiber/Ginger|Ginger]] 
 
-### #is_/same_as :: [Ginger.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Zingiberales/Zingiberaceae/Zingiber/Ginger.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Zingiberales/Zingiberaceae/Zingiber/Ginger.public|Ginger.public]] 
 
-### #is_/same_as :: [Ginger.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Zingiberales/Zingiberaceae/Zingiber/Ginger.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Zingiberales/Zingiberaceae/Zingiber/Ginger.internal|Ginger.internal]] 
 
-### #is_/same_as :: [Ginger.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Zingiberales/Zingiberaceae/Zingiber/Ginger.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Zingiberales/Zingiberaceae/Zingiber/Ginger.protect|Ginger.protect]] 
 
-### #is_/same_as :: [Ginger.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Zingiberales/Zingiberaceae/Zingiber/Ginger.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Zingiberales/Zingiberaceae/Zingiber/Ginger.private|Ginger.private]] 
 
-### #is_/same_as :: [Ginger.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Zingiberales/Zingiberaceae/Zingiber/Ginger.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Zingiberales/Zingiberaceae/Zingiber/Ginger.personal|Ginger.personal]] 
 
-### #is_/same_as :: [Ginger.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Zingiberales/Zingiberaceae/Zingiber/Ginger.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Zingiberales/Zingiberaceae/Zingiber/Ginger.secret|Ginger.secret]] 
 

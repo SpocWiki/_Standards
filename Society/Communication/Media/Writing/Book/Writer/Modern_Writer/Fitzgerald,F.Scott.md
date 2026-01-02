@@ -98,17 +98,17 @@ Plex_person_key: 5d77684a2ec6b5001f6bf04a
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Fitzgerald,F.Scott](/_Standards/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Fitzgerald,F.Scott.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Fitzgerald,F.Scott|Fitzgerald,F.Scott]] 
 
-### #is_/same_as :: [Fitzgerald,F.Scott.public](/_public/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Fitzgerald,F.Scott.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Fitzgerald,F.Scott.public|Fitzgerald,F.Scott.public]] 
 
-### #is_/same_as :: [Fitzgerald,F.Scott.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Fitzgerald,F.Scott.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Fitzgerald,F.Scott.internal|Fitzgerald,F.Scott.internal]] 
 
-### #is_/same_as :: [Fitzgerald,F.Scott.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Fitzgerald,F.Scott.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Fitzgerald,F.Scott.protect|Fitzgerald,F.Scott.protect]] 
 
-### #is_/same_as :: [Fitzgerald,F.Scott.private](/_private/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Fitzgerald,F.Scott.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Fitzgerald,F.Scott.private|Fitzgerald,F.Scott.private]] 
 
-### #is_/same_as :: [Fitzgerald,F.Scott.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Fitzgerald,F.Scott.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Fitzgerald,F.Scott.personal|Fitzgerald,F.Scott.personal]] 
 
-### #is_/same_as :: [Fitzgerald,F.Scott.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Fitzgerald,F.Scott.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Fitzgerald,F.Scott.secret|Fitzgerald,F.Scott.secret]] 
 

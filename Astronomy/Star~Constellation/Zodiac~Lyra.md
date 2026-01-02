@@ -82,17 +82,17 @@ official_name: Lyra
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Zodiac~Lyra](/_Standards/Astronomy/Star~Constellation/Zodiac~Lyra.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Star~Constellation/Zodiac~Lyra|Zodiac~Lyra]] 
 
-### #is_/same_as :: [Zodiac~Lyra.public](/_public/Astronomy/Star~Constellation/Zodiac~Lyra.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Star~Constellation/Zodiac~Lyra.public|Zodiac~Lyra.public]] 
 
-### #is_/same_as :: [Zodiac~Lyra.internal](/_internal/Astronomy/Star~Constellation/Zodiac~Lyra.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Star~Constellation/Zodiac~Lyra.internal|Zodiac~Lyra.internal]] 
 
-### #is_/same_as :: [Zodiac~Lyra.protect](/_protect/Astronomy/Star~Constellation/Zodiac~Lyra.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Star~Constellation/Zodiac~Lyra.protect|Zodiac~Lyra.protect]] 
 
-### #is_/same_as :: [Zodiac~Lyra.private](/_private/Astronomy/Star~Constellation/Zodiac~Lyra.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Star~Constellation/Zodiac~Lyra.private|Zodiac~Lyra.private]] 
 
-### #is_/same_as :: [Zodiac~Lyra.personal](/_personal/Astronomy/Star~Constellation/Zodiac~Lyra.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Star~Constellation/Zodiac~Lyra.personal|Zodiac~Lyra.personal]] 
 
-### #is_/same_as :: [Zodiac~Lyra.secret](/_secret/Astronomy/Star~Constellation/Zodiac~Lyra.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Star~Constellation/Zodiac~Lyra.secret|Zodiac~Lyra.secret]] 
 

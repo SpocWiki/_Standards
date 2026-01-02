@@ -124,7 +124,7 @@ der Deutschen Tiefsee Expedition auf dem Dampfer \"Valdivia\" 1898-1899,
 
 ## Title Illustrations
 
-![](glaukopis/MastGlaukop.jpg))
+![](glaukopis/MastGlaukop.jpg) 
 
   ------------------------------------------------------
   Scientific Name ::  Mastigoteuthis glaukopis
@@ -134,7 +134,7 @@ der Deutschen Tiefsee Expedition auf dem Dampfer \"Valdivia\" 1898-1899,
   Size              37 mm ML
   Type              Holotype
   ------------------------------------------------------
-![](glaukopis/MGlaukopHolo798.jpg))
+![](glaukopis/MGlaukopHolo798.jpg) 
 
   ------------------------------------------------------------------------------
   Scientific Name ::     Mastigoteuthis glaukopis
@@ -149,17 +149,17 @@ der Deutschen Tiefsee Expedition auf dem Dampfer \"Valdivia\" 1898-1899,
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [glaukopis](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Mastigoteuthidae/glaukopis.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Mastigoteuthidae/glaukopis|glaukopis]] 
 
-### #is_/same_as :: [glaukopis.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Mastigoteuthidae/glaukopis.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Mastigoteuthidae/glaukopis.public|glaukopis.public]] 
 
-### #is_/same_as :: [glaukopis.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Mastigoteuthidae/glaukopis.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Mastigoteuthidae/glaukopis.internal|glaukopis.internal]] 
 
-### #is_/same_as :: [glaukopis.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Mastigoteuthidae/glaukopis.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Mastigoteuthidae/glaukopis.protect|glaukopis.protect]] 
 
-### #is_/same_as :: [glaukopis.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Mastigoteuthidae/glaukopis.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Mastigoteuthidae/glaukopis.private|glaukopis.private]] 
 
-### #is_/same_as :: [glaukopis.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Mastigoteuthidae/glaukopis.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Mastigoteuthidae/glaukopis.personal|glaukopis.personal]] 
 
-### #is_/same_as :: [glaukopis.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Mastigoteuthidae/glaukopis.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Mastigoteuthidae/glaukopis.secret|glaukopis.secret]] 
 

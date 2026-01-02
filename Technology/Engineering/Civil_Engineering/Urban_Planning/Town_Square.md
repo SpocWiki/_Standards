@@ -72,17 +72,17 @@ Dewey_Decimal_Classification: 711.55
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Town_Square](/_Standards/Technology/Engineering/Civil_Engineering/Urban_Planning/Town_Square.md) 
+### #is_/same_as :: [[/_Standards/Technology/Engineering/Civil_Engineering/Urban_Planning/Town_Square|Town_Square]] 
 
-### #is_/same_as :: [Town_Square.public](/_public/Technology/Engineering/Civil_Engineering/Urban_Planning/Town_Square.public.md) 
+### #is_/same_as :: [[/_public/Technology/Engineering/Civil_Engineering/Urban_Planning/Town_Square.public|Town_Square.public]] 
 
-### #is_/same_as :: [Town_Square.internal](/_internal/Technology/Engineering/Civil_Engineering/Urban_Planning/Town_Square.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Engineering/Civil_Engineering/Urban_Planning/Town_Square.internal|Town_Square.internal]] 
 
-### #is_/same_as :: [Town_Square.protect](/_protect/Technology/Engineering/Civil_Engineering/Urban_Planning/Town_Square.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Engineering/Civil_Engineering/Urban_Planning/Town_Square.protect|Town_Square.protect]] 
 
-### #is_/same_as :: [Town_Square.private](/_private/Technology/Engineering/Civil_Engineering/Urban_Planning/Town_Square.private.md) 
+### #is_/same_as :: [[/_private/Technology/Engineering/Civil_Engineering/Urban_Planning/Town_Square.private|Town_Square.private]] 
 
-### #is_/same_as :: [Town_Square.personal](/_personal/Technology/Engineering/Civil_Engineering/Urban_Planning/Town_Square.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Engineering/Civil_Engineering/Urban_Planning/Town_Square.personal|Town_Square.personal]] 
 
-### #is_/same_as :: [Town_Square.secret](/_secret/Technology/Engineering/Civil_Engineering/Urban_Planning/Town_Square.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Engineering/Civil_Engineering/Urban_Planning/Town_Square.secret|Town_Square.secret]] 
 

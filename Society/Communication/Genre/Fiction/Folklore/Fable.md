@@ -57,17 +57,17 @@ Krugosvet_article: kultura_i_obrazovanie/literatura/BASNYA.html
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Fable](/_Standards/Society/Communication/Genre/Fiction/Folklore/Fable.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Genre/Fiction/Folklore/Fable|Fable]] 
 
-### #is_/same_as :: [Fable.public](/_public/Society/Communication/Genre/Fiction/Folklore/Fable.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Genre/Fiction/Folklore/Fable.public|Fable.public]] 
 
-### #is_/same_as :: [Fable.internal](/_internal/Society/Communication/Genre/Fiction/Folklore/Fable.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Genre/Fiction/Folklore/Fable.internal|Fable.internal]] 
 
-### #is_/same_as :: [Fable.protect](/_protect/Society/Communication/Genre/Fiction/Folklore/Fable.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Genre/Fiction/Folklore/Fable.protect|Fable.protect]] 
 
-### #is_/same_as :: [Fable.private](/_private/Society/Communication/Genre/Fiction/Folklore/Fable.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Genre/Fiction/Folklore/Fable.private|Fable.private]] 
 
-### #is_/same_as :: [Fable.personal](/_personal/Society/Communication/Genre/Fiction/Folklore/Fable.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Genre/Fiction/Folklore/Fable.personal|Fable.personal]] 
 
-### #is_/same_as :: [Fable.secret](/_secret/Society/Communication/Genre/Fiction/Folklore/Fable.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Genre/Fiction/Folklore/Fable.secret|Fable.secret]] 
 

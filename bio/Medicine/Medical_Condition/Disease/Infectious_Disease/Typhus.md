@@ -68,17 +68,17 @@ taxon_name: Typhus group
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Typhus](/_Standards/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Typhus.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Typhus|Typhus]] 
 
-### #is_/same_as :: [Typhus.public](/_public/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Typhus.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Typhus.public|Typhus.public]] 
 
-### #is_/same_as :: [Typhus.internal](/_internal/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Typhus.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Typhus.internal|Typhus.internal]] 
 
-### #is_/same_as :: [Typhus.protect](/_protect/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Typhus.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Typhus.protect|Typhus.protect]] 
 
-### #is_/same_as :: [Typhus.private](/_private/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Typhus.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Typhus.private|Typhus.private]] 
 
-### #is_/same_as :: [Typhus.personal](/_personal/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Typhus.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Typhus.personal|Typhus.personal]] 
 
-### #is_/same_as :: [Typhus.secret](/_secret/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Typhus.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Typhus.secret|Typhus.secret]] 
 

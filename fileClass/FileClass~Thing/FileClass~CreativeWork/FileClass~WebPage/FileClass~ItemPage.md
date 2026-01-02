@@ -37,17 +37,17 @@ A page devoted to a single item, such as a particular product or hotel.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~ItemPage](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~ItemPage.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~ItemPage|FileClass~ItemPage]] 
 
-### #is_/same_as :: [FileClass~ItemPage.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~ItemPage.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~ItemPage.public|FileClass~ItemPage.public]] 
 
-### #is_/same_as :: [FileClass~ItemPage.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~ItemPage.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~ItemPage.internal|FileClass~ItemPage.internal]] 
 
-### #is_/same_as :: [FileClass~ItemPage.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~ItemPage.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~ItemPage.protect|FileClass~ItemPage.protect]] 
 
-### #is_/same_as :: [FileClass~ItemPage.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~ItemPage.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~ItemPage.private|FileClass~ItemPage.private]] 
 
-### #is_/same_as :: [FileClass~ItemPage.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~ItemPage.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~ItemPage.personal|FileClass~ItemPage.personal]] 
 
-### #is_/same_as :: [FileClass~ItemPage.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~ItemPage.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~ItemPage.secret|FileClass~ItemPage.secret]] 
 

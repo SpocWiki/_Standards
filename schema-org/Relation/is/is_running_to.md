@@ -40,17 +40,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [is_running_to](/_Standards/schema-org/Relation/is/is_running_to.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/is/is_running_to|is_running_to]] 
 
-### #is_/same_as :: [is_running_to.public](/_public/schema-org/Relation/is/is_running_to.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/is/is_running_to.public|is_running_to.public]] 
 
-### #is_/same_as :: [is_running_to.internal](/_internal/schema-org/Relation/is/is_running_to.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/is/is_running_to.internal|is_running_to.internal]] 
 
-### #is_/same_as :: [is_running_to.protect](/_protect/schema-org/Relation/is/is_running_to.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/is/is_running_to.protect|is_running_to.protect]] 
 
-### #is_/same_as :: [is_running_to.private](/_private/schema-org/Relation/is/is_running_to.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/is/is_running_to.private|is_running_to.private]] 
 
-### #is_/same_as :: [is_running_to.personal](/_personal/schema-org/Relation/is/is_running_to.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/is/is_running_to.personal|is_running_to.personal]] 
 
-### #is_/same_as :: [is_running_to.secret](/_secret/schema-org/Relation/is/is_running_to.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/is/is_running_to.secret|is_running_to.secret]] 
 

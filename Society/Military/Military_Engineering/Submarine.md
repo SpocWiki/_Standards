@@ -68,17 +68,17 @@ U_S_National_Archives_Identifier: 10644594
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Submarine](/_Standards/Society/Military/Military_Engineering/Submarine.md) 
+### #is_/same_as :: [[/_Standards/Society/Military/Military_Engineering/Submarine|Submarine]] 
 
-### #is_/same_as :: [Submarine.public](/_public/Society/Military/Military_Engineering/Submarine.public.md) 
+### #is_/same_as :: [[/_public/Society/Military/Military_Engineering/Submarine.public|Submarine.public]] 
 
-### #is_/same_as :: [Submarine.internal](/_internal/Society/Military/Military_Engineering/Submarine.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Military/Military_Engineering/Submarine.internal|Submarine.internal]] 
 
-### #is_/same_as :: [Submarine.protect](/_protect/Society/Military/Military_Engineering/Submarine.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Military/Military_Engineering/Submarine.protect|Submarine.protect]] 
 
-### #is_/same_as :: [Submarine.private](/_private/Society/Military/Military_Engineering/Submarine.private.md) 
+### #is_/same_as :: [[/_private/Society/Military/Military_Engineering/Submarine.private|Submarine.private]] 
 
-### #is_/same_as :: [Submarine.personal](/_personal/Society/Military/Military_Engineering/Submarine.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Military/Military_Engineering/Submarine.personal|Submarine.personal]] 
 
-### #is_/same_as :: [Submarine.secret](/_secret/Society/Military/Military_Engineering/Submarine.secret.md)
+### #is_/same_as :: [[/_secret/Society/Military/Military_Engineering/Submarine.secret|Submarine.secret]] 
 

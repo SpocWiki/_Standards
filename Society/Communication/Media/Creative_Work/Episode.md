@@ -41,17 +41,17 @@ A media episode (e.g. TV, radio, video game) which can be part of a series or se
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Episode](/_Standards/Society/Communication/Media/Creative_Work/Episode.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Creative_Work/Episode|Episode]] 
 
-### #is_/same_as :: [Episode.public](/_public/Society/Communication/Media/Creative_Work/Episode.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Creative_Work/Episode.public|Episode.public]] 
 
-### #is_/same_as :: [Episode.internal](/_internal/Society/Communication/Media/Creative_Work/Episode.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Creative_Work/Episode.internal|Episode.internal]] 
 
-### #is_/same_as :: [Episode.protect](/_protect/Society/Communication/Media/Creative_Work/Episode.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Creative_Work/Episode.protect|Episode.protect]] 
 
-### #is_/same_as :: [Episode.private](/_private/Society/Communication/Media/Creative_Work/Episode.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Creative_Work/Episode.private|Episode.private]] 
 
-### #is_/same_as :: [Episode.personal](/_personal/Society/Communication/Media/Creative_Work/Episode.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/Episode.personal|Episode.personal]] 
 
-### #is_/same_as :: [Episode.secret](/_secret/Society/Communication/Media/Creative_Work/Episode.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Episode.secret|Episode.secret]] 
 

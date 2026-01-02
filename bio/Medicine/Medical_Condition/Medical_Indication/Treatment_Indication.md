@@ -41,17 +41,17 @@ An indication for treating an underlying condition, symptom, etc.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Treatment_Indication](/_Standards/bio/Medicine/Medical_Condition/Medical_Indication/Treatment_Indication.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Condition/Medical_Indication/Treatment_Indication|Treatment_Indication]] 
 
-### #is_/same_as :: [Treatment_Indication.public](/_public/bio/Medicine/Medical_Condition/Medical_Indication/Treatment_Indication.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Condition/Medical_Indication/Treatment_Indication.public|Treatment_Indication.public]] 
 
-### #is_/same_as :: [Treatment_Indication.internal](/_internal/bio/Medicine/Medical_Condition/Medical_Indication/Treatment_Indication.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Condition/Medical_Indication/Treatment_Indication.internal|Treatment_Indication.internal]] 
 
-### #is_/same_as :: [Treatment_Indication.protect](/_protect/bio/Medicine/Medical_Condition/Medical_Indication/Treatment_Indication.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Condition/Medical_Indication/Treatment_Indication.protect|Treatment_Indication.protect]] 
 
-### #is_/same_as :: [Treatment_Indication.private](/_private/bio/Medicine/Medical_Condition/Medical_Indication/Treatment_Indication.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Condition/Medical_Indication/Treatment_Indication.private|Treatment_Indication.private]] 
 
-### #is_/same_as :: [Treatment_Indication.personal](/_personal/bio/Medicine/Medical_Condition/Medical_Indication/Treatment_Indication.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Condition/Medical_Indication/Treatment_Indication.personal|Treatment_Indication.personal]] 
 
-### #is_/same_as :: [Treatment_Indication.secret](/_secret/bio/Medicine/Medical_Condition/Medical_Indication/Treatment_Indication.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Condition/Medical_Indication/Treatment_Indication.secret|Treatment_Indication.secret]] 
 

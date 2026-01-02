@@ -110,17 +110,17 @@ name_in_hiero_markup: st:D4-A40
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Osiris](/_Standards/Philosophy/Metaphysic/Religion/Mythology/Egyptian_Mythology/Osiris.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Mythology/Egyptian_Mythology/Osiris|Osiris]] 
 
-### #is_/same_as :: [Osiris.public](/_public/Philosophy/Metaphysic/Religion/Mythology/Egyptian_Mythology/Osiris.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Mythology/Egyptian_Mythology/Osiris.public|Osiris.public]] 
 
-### #is_/same_as :: [Osiris.internal](/_internal/Philosophy/Metaphysic/Religion/Mythology/Egyptian_Mythology/Osiris.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Mythology/Egyptian_Mythology/Osiris.internal|Osiris.internal]] 
 
-### #is_/same_as :: [Osiris.protect](/_protect/Philosophy/Metaphysic/Religion/Mythology/Egyptian_Mythology/Osiris.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Mythology/Egyptian_Mythology/Osiris.protect|Osiris.protect]] 
 
-### #is_/same_as :: [Osiris.private](/_private/Philosophy/Metaphysic/Religion/Mythology/Egyptian_Mythology/Osiris.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Mythology/Egyptian_Mythology/Osiris.private|Osiris.private]] 
 
-### #is_/same_as :: [Osiris.personal](/_personal/Philosophy/Metaphysic/Religion/Mythology/Egyptian_Mythology/Osiris.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Mythology/Egyptian_Mythology/Osiris.personal|Osiris.personal]] 
 
-### #is_/same_as :: [Osiris.secret](/_secret/Philosophy/Metaphysic/Religion/Mythology/Egyptian_Mythology/Osiris.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Mythology/Egyptian_Mythology/Osiris.secret|Osiris.secret]] 
 

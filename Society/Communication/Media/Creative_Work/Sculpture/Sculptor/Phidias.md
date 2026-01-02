@@ -103,17 +103,17 @@ name_in_native_language: Φειδίας
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Phidias](/_Standards/Society/Communication/Media/Creative_Work/Sculpture/Sculptor/Phidias.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Creative_Work/Sculpture/Sculptor/Phidias|Phidias]] 
 
-### #is_/same_as :: [Phidias.public](/_public/Society/Communication/Media/Creative_Work/Sculpture/Sculptor/Phidias.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Creative_Work/Sculpture/Sculptor/Phidias.public|Phidias.public]] 
 
-### #is_/same_as :: [Phidias.internal](/_internal/Society/Communication/Media/Creative_Work/Sculpture/Sculptor/Phidias.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Creative_Work/Sculpture/Sculptor/Phidias.internal|Phidias.internal]] 
 
-### #is_/same_as :: [Phidias.protect](/_protect/Society/Communication/Media/Creative_Work/Sculpture/Sculptor/Phidias.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Creative_Work/Sculpture/Sculptor/Phidias.protect|Phidias.protect]] 
 
-### #is_/same_as :: [Phidias.private](/_private/Society/Communication/Media/Creative_Work/Sculpture/Sculptor/Phidias.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Creative_Work/Sculpture/Sculptor/Phidias.private|Phidias.private]] 
 
-### #is_/same_as :: [Phidias.personal](/_personal/Society/Communication/Media/Creative_Work/Sculpture/Sculptor/Phidias.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/Sculpture/Sculptor/Phidias.personal|Phidias.personal]] 
 
-### #is_/same_as :: [Phidias.secret](/_secret/Society/Communication/Media/Creative_Work/Sculpture/Sculptor/Phidias.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Sculpture/Sculptor/Phidias.secret|Phidias.secret]] 
 

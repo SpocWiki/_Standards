@@ -42,17 +42,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [is_alternative_to](/_Standards/schema-org/Relation/is/is_alternative_to.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/is/is_alternative_to|is_alternative_to]] 
 
-### #is_/same_as :: [is_alternative_to.public](/_public/schema-org/Relation/is/is_alternative_to.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/is/is_alternative_to.public|is_alternative_to.public]] 
 
-### #is_/same_as :: [is_alternative_to.internal](/_internal/schema-org/Relation/is/is_alternative_to.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/is/is_alternative_to.internal|is_alternative_to.internal]] 
 
-### #is_/same_as :: [is_alternative_to.protect](/_protect/schema-org/Relation/is/is_alternative_to.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/is/is_alternative_to.protect|is_alternative_to.protect]] 
 
-### #is_/same_as :: [is_alternative_to.private](/_private/schema-org/Relation/is/is_alternative_to.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/is/is_alternative_to.private|is_alternative_to.private]] 
 
-### #is_/same_as :: [is_alternative_to.personal](/_personal/schema-org/Relation/is/is_alternative_to.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/is/is_alternative_to.personal|is_alternative_to.personal]] 
 
-### #is_/same_as :: [is_alternative_to.secret](/_secret/schema-org/Relation/is/is_alternative_to.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/is/is_alternative_to.secret|is_alternative_to.secret]] 
 

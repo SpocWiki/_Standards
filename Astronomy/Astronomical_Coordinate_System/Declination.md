@@ -45,17 +45,17 @@ quantity_symbol_LaTeX_: <math class="mwe-math-element mwe-math-element-inline" x
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Declination](/_Standards/Astronomy/Astronomical_Coordinate_System/Declination.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Astronomical_Coordinate_System/Declination|Declination]] 
 
-### #is_/same_as :: [Declination.public](/_public/Astronomy/Astronomical_Coordinate_System/Declination.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Astronomical_Coordinate_System/Declination.public|Declination.public]] 
 
-### #is_/same_as :: [Declination.internal](/_internal/Astronomy/Astronomical_Coordinate_System/Declination.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Astronomical_Coordinate_System/Declination.internal|Declination.internal]] 
 
-### #is_/same_as :: [Declination.protect](/_protect/Astronomy/Astronomical_Coordinate_System/Declination.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Astronomical_Coordinate_System/Declination.protect|Declination.protect]] 
 
-### #is_/same_as :: [Declination.private](/_private/Astronomy/Astronomical_Coordinate_System/Declination.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Astronomical_Coordinate_System/Declination.private|Declination.private]] 
 
-### #is_/same_as :: [Declination.personal](/_personal/Astronomy/Astronomical_Coordinate_System/Declination.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Astronomical_Coordinate_System/Declination.personal|Declination.personal]] 
 
-### #is_/same_as :: [Declination.secret](/_secret/Astronomy/Astronomical_Coordinate_System/Declination.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Astronomical_Coordinate_System/Declination.secret|Declination.secret]] 
 

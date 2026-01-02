@@ -76,17 +76,17 @@ name_in_kana: ステファニー・クオレク
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Kwolek,Stephanie_L.](/_Standards/Chemistry/Chemist/Kwolek,Stephanie_L..md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Chemist/Kwolek,Stephanie_L.|Kwolek,Stephanie_L.]] 
 
-### #is_/same_as :: [Kwolek,Stephanie_L..public](/_public/Chemistry/Chemist/Kwolek,Stephanie_L..public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Chemist/Kwolek,Stephanie_L..public|Kwolek,Stephanie_L..public]] 
 
-### #is_/same_as :: [Kwolek,Stephanie_L..internal](/_internal/Chemistry/Chemist/Kwolek,Stephanie_L..internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Chemist/Kwolek,Stephanie_L..internal|Kwolek,Stephanie_L..internal]] 
 
-### #is_/same_as :: [Kwolek,Stephanie_L..protect](/_protect/Chemistry/Chemist/Kwolek,Stephanie_L..protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Chemist/Kwolek,Stephanie_L..protect|Kwolek,Stephanie_L..protect]] 
 
-### #is_/same_as :: [Kwolek,Stephanie_L..private](/_private/Chemistry/Chemist/Kwolek,Stephanie_L..private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Chemist/Kwolek,Stephanie_L..private|Kwolek,Stephanie_L..private]] 
 
-### #is_/same_as :: [Kwolek,Stephanie_L..personal](/_personal/Chemistry/Chemist/Kwolek,Stephanie_L..personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Chemist/Kwolek,Stephanie_L..personal|Kwolek,Stephanie_L..personal]] 
 
-### #is_/same_as :: [Kwolek,Stephanie_L..secret](/_secret/Chemistry/Chemist/Kwolek,Stephanie_L..secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Chemist/Kwolek,Stephanie_L..secret|Kwolek,Stephanie_L..secret]] 
 

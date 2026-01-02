@@ -40,7 +40,7 @@ title: Ommastrephidae
 # Ommastrephidae [Steenstrup 1857] 
 
 [Richard E. Young, Michael Vecchione, and Martina A. Compagno Roeleveld (ca. 1946-2006)]()
-![ ](Ommastrephidae/Nototodarus.JPG))![ ](Ommastrephidae/eucleoteuthis.jpg))
+![ ](Ommastrephidae/Nototodarus.JPG))![ ](Ommastrephidae/eucleoteuthis.jpg) 
 
 This family is generally divided into three subfamilies and eleven
 genera that contain 22 species.
@@ -152,7 +152,7 @@ Contr. Zool., No. 586:373-384..
 
 ## Title Illustrations
 
-![](Ommastrephidae/Nototodarus.JPG))
+![](Ommastrephidae/Nototodarus.JPG) 
 
   -------------------------------------------------------------------------------
   Scientific Name ::  Nototodarus hawaiiensis
@@ -160,7 +160,7 @@ Contr. Zool., No. 586:373-384..
   Copyright ::         © 1996 [Richard E. Young](http://www.soest.hawaii.edu/%7Eryoung/rey.html) 
  
   -------------------------------------------------------------------------------
-![](Ommastrephidae/eucleoteuthis.jpg))
+![](Ommastrephidae/eucleoteuthis.jpg) 
 
   ------------------------------------------------------------------------
   Scientific Name ::  Eucleoteuthis luminosa
@@ -172,17 +172,17 @@ Contr. Zool., No. 586:373-384..
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ommastrephidae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Ommastrephidae.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Ommastrephidae|Ommastrephidae]] 
 
-### #is_/same_as :: [Ommastrephidae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Ommastrephidae.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Ommastrephidae.public|Ommastrephidae.public]] 
 
-### #is_/same_as :: [Ommastrephidae.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Ommastrephidae.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Ommastrephidae.internal|Ommastrephidae.internal]] 
 
-### #is_/same_as :: [Ommastrephidae.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Ommastrephidae.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Ommastrephidae.protect|Ommastrephidae.protect]] 
 
-### #is_/same_as :: [Ommastrephidae.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Ommastrephidae.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Ommastrephidae.private|Ommastrephidae.private]] 
 
-### #is_/same_as :: [Ommastrephidae.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Ommastrephidae.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Ommastrephidae.personal|Ommastrephidae.personal]] 
 
-### #is_/same_as :: [Ommastrephidae.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Ommastrephidae.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Ommastrephidae.secret|Ommastrephidae.secret]] 
 

@@ -52,17 +52,17 @@ time_of_discovery_or_invention: 1947-01-01T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sheaf(Math)](/_Standards/Mathematics/Category_Theory/Sheaf(Math).md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Category_Theory/Sheaf(Math)|Sheaf(Math)]] 
 
-### #is_/same_as :: [Sheaf(Math).public](/_public/Mathematics/Category_Theory/Sheaf(Math).public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Category_Theory/Sheaf(Math).public|Sheaf(Math).public]] 
 
-### #is_/same_as :: [Sheaf(Math).internal](/_internal/Mathematics/Category_Theory/Sheaf(Math).internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Category_Theory/Sheaf(Math).internal|Sheaf(Math).internal]] 
 
-### #is_/same_as :: [Sheaf(Math).protect](/_protect/Mathematics/Category_Theory/Sheaf(Math).protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Category_Theory/Sheaf(Math).protect|Sheaf(Math).protect]] 
 
-### #is_/same_as :: [Sheaf(Math).private](/_private/Mathematics/Category_Theory/Sheaf(Math).private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Category_Theory/Sheaf(Math).private|Sheaf(Math).private]] 
 
-### #is_/same_as :: [Sheaf(Math).personal](/_personal/Mathematics/Category_Theory/Sheaf(Math).personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Category_Theory/Sheaf(Math).personal|Sheaf(Math).personal]] 
 
-### #is_/same_as :: [Sheaf(Math).secret](/_secret/Mathematics/Category_Theory/Sheaf(Math).secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Category_Theory/Sheaf(Math).secret|Sheaf(Math).secret]] 
 

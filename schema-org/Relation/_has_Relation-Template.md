@@ -54,17 +54,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [_has_Relation-Template](/_Standards/schema-org/Relation/_has_Relation-Template.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/_has_Relation-Template|_has_Relation-Template]] 
 
-### #is_/same_as :: [_has_Relation-Template.public](/_public/schema-org/Relation/_has_Relation-Template.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/_has_Relation-Template.public|_has_Relation-Template.public]] 
 
-### #is_/same_as :: [_has_Relation-Template.internal](/_internal/schema-org/Relation/_has_Relation-Template.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/_has_Relation-Template.internal|_has_Relation-Template.internal]] 
 
-### #is_/same_as :: [_has_Relation-Template.protect](/_protect/schema-org/Relation/_has_Relation-Template.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/_has_Relation-Template.protect|_has_Relation-Template.protect]] 
 
-### #is_/same_as :: [_has_Relation-Template.private](/_private/schema-org/Relation/_has_Relation-Template.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/_has_Relation-Template.private|_has_Relation-Template.private]] 
 
-### #is_/same_as :: [_has_Relation-Template.personal](/_personal/schema-org/Relation/_has_Relation-Template.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/_has_Relation-Template.personal|_has_Relation-Template.personal]] 
 
-### #is_/same_as :: [_has_Relation-Template.secret](/_secret/schema-org/Relation/_has_Relation-Template.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/_has_Relation-Template.secret|_has_Relation-Template.secret]] 
 

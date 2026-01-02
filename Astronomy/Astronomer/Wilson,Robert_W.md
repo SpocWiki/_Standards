@@ -73,17 +73,17 @@ date_of_birth: 1936-01-10T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Wilson,Robert_W](/_Standards/Astronomy/Astronomer/Wilson,Robert_W.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Astronomer/Wilson,Robert_W|Wilson,Robert_W]] 
 
-### #is_/same_as :: [Wilson,Robert_W.public](/_public/Astronomy/Astronomer/Wilson,Robert_W.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Astronomer/Wilson,Robert_W.public|Wilson,Robert_W.public]] 
 
-### #is_/same_as :: [Wilson,Robert_W.internal](/_internal/Astronomy/Astronomer/Wilson,Robert_W.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Astronomer/Wilson,Robert_W.internal|Wilson,Robert_W.internal]] 
 
-### #is_/same_as :: [Wilson,Robert_W.protect](/_protect/Astronomy/Astronomer/Wilson,Robert_W.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Astronomer/Wilson,Robert_W.protect|Wilson,Robert_W.protect]] 
 
-### #is_/same_as :: [Wilson,Robert_W.private](/_private/Astronomy/Astronomer/Wilson,Robert_W.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Astronomer/Wilson,Robert_W.private|Wilson,Robert_W.private]] 
 
-### #is_/same_as :: [Wilson,Robert_W.personal](/_personal/Astronomy/Astronomer/Wilson,Robert_W.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Astronomer/Wilson,Robert_W.personal|Wilson,Robert_W.personal]] 
 
-### #is_/same_as :: [Wilson,Robert_W.secret](/_secret/Astronomy/Astronomer/Wilson,Robert_W.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Astronomer/Wilson,Robert_W.secret|Wilson,Robert_W.secret]] 
 

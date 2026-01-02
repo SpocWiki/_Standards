@@ -61,17 +61,17 @@ OpenStreetMap_tag:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Trail](/_Standards/Technology/Transport/Road_Transport/Trail.md) 
+### #is_/same_as :: [[/_Standards/Technology/Transport/Road_Transport/Trail|Trail]] 
 
-### #is_/same_as :: [Trail.public](/_public/Technology/Transport/Road_Transport/Trail.public.md) 
+### #is_/same_as :: [[/_public/Technology/Transport/Road_Transport/Trail.public|Trail.public]] 
 
-### #is_/same_as :: [Trail.internal](/_internal/Technology/Transport/Road_Transport/Trail.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Transport/Road_Transport/Trail.internal|Trail.internal]] 
 
-### #is_/same_as :: [Trail.protect](/_protect/Technology/Transport/Road_Transport/Trail.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Transport/Road_Transport/Trail.protect|Trail.protect]] 
 
-### #is_/same_as :: [Trail.private](/_private/Technology/Transport/Road_Transport/Trail.private.md) 
+### #is_/same_as :: [[/_private/Technology/Transport/Road_Transport/Trail.private|Trail.private]] 
 
-### #is_/same_as :: [Trail.personal](/_personal/Technology/Transport/Road_Transport/Trail.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Transport/Road_Transport/Trail.personal|Trail.personal]] 
 
-### #is_/same_as :: [Trail.secret](/_secret/Technology/Transport/Road_Transport/Trail.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Transport/Road_Transport/Trail.secret|Trail.secret]] 
 

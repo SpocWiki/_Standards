@@ -34,7 +34,7 @@ union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
 #is_/same_as :: [[../../../../../../../../../../../WikiData/WD~Tetrapoda,19159|WD~Tetrapoda,19159]]  
 
 Stegocephalians: Tetrapods and other digit-bearing vertebrates 
-![Ichthyostegalia](Tetrapods/Ichthyostegalia.jpg))
+![Ichthyostegalia](Tetrapods/Ichthyostegalia.jpg) 
 
 Terrestrial vertebrates, also known as tetrapods, 
 are distinguished from their parent group within the superclass Osteichthyes (bony fish) 
@@ -502,17 +502,17 @@ Copyright ::            © 1995 Alfred Kamajian
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Tetrapods](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods|Tetrapods]] 
 
-### #is_/same_as :: [Tetrapods.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods.public|Tetrapods.public]] 
 
-### #is_/same_as :: [Tetrapods.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods.internal|Tetrapods.internal]] 
 
-### #is_/same_as :: [Tetrapods.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods.protect|Tetrapods.protect]] 
 
-### #is_/same_as :: [Tetrapods.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods.private|Tetrapods.private]] 
 
-### #is_/same_as :: [Tetrapods.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods.personal|Tetrapods.personal]] 
 
-### #is_/same_as :: [Tetrapods.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods.secret|Tetrapods.secret]] 
 

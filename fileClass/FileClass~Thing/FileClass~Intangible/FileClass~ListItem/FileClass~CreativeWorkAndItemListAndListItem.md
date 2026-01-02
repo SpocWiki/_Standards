@@ -1260,17 +1260,17 @@ NumberOfItems:: {"type":"Number","options":{}}
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~CreativeWorkAndItemListAndListItem](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ListItem/FileClass~CreativeWorkAndItemListAndListItem.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ListItem/FileClass~CreativeWorkAndItemListAndListItem|FileClass~CreativeWorkAndItemListAndListItem]] 
 
-### #is_/same_as :: [FileClass~CreativeWorkAndItemListAndListItem.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ListItem/FileClass~CreativeWorkAndItemListAndListItem.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ListItem/FileClass~CreativeWorkAndItemListAndListItem.public|FileClass~CreativeWorkAndItemListAndListItem.public]] 
 
-### #is_/same_as :: [FileClass~CreativeWorkAndItemListAndListItem.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ListItem/FileClass~CreativeWorkAndItemListAndListItem.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ListItem/FileClass~CreativeWorkAndItemListAndListItem.internal|FileClass~CreativeWorkAndItemListAndListItem.internal]] 
 
-### #is_/same_as :: [FileClass~CreativeWorkAndItemListAndListItem.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ListItem/FileClass~CreativeWorkAndItemListAndListItem.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ListItem/FileClass~CreativeWorkAndItemListAndListItem.protect|FileClass~CreativeWorkAndItemListAndListItem.protect]] 
 
-### #is_/same_as :: [FileClass~CreativeWorkAndItemListAndListItem.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ListItem/FileClass~CreativeWorkAndItemListAndListItem.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ListItem/FileClass~CreativeWorkAndItemListAndListItem.private|FileClass~CreativeWorkAndItemListAndListItem.private]] 
 
-### #is_/same_as :: [FileClass~CreativeWorkAndItemListAndListItem.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ListItem/FileClass~CreativeWorkAndItemListAndListItem.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ListItem/FileClass~CreativeWorkAndItemListAndListItem.personal|FileClass~CreativeWorkAndItemListAndListItem.personal]] 
 
-### #is_/same_as :: [FileClass~CreativeWorkAndItemListAndListItem.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ListItem/FileClass~CreativeWorkAndItemListAndListItem.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ListItem/FileClass~CreativeWorkAndItemListAndListItem.secret|FileClass~CreativeWorkAndItemListAndListItem.secret]] 
 

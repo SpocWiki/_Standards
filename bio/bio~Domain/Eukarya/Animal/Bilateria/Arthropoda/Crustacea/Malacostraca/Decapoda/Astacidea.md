@@ -41,7 +41,7 @@ Mexico. The Parastacidae are distributed in Australia, New Zealand,
 South America, and Madagascar.
 
 ------------------------
-![ ](Astacidea/world_dist.gif))
+![ ](Astacidea/world_dist.gif) 
 
 Figure 1. World distributions of the three crayfish families.
 
@@ -93,17 +93,17 @@ Copyright ::         © 1998 [Keith A. Crandall](http://inbio.byu.edu/Faculty/ka
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Astacidea](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Astacidea.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Astacidea|Astacidea]] 
 
-### #is_/same_as :: [Astacidea.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Astacidea.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Astacidea.public|Astacidea.public]] 
 
-### #is_/same_as :: [Astacidea.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Astacidea.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Astacidea.internal|Astacidea.internal]] 
 
-### #is_/same_as :: [Astacidea.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Astacidea.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Astacidea.protect|Astacidea.protect]] 
 
-### #is_/same_as :: [Astacidea.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Astacidea.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Astacidea.private|Astacidea.private]] 
 
-### #is_/same_as :: [Astacidea.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Astacidea.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Astacidea.personal|Astacidea.personal]] 
 
-### #is_/same_as :: [Astacidea.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Astacidea.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Astacidea.secret|Astacidea.secret]] 
 

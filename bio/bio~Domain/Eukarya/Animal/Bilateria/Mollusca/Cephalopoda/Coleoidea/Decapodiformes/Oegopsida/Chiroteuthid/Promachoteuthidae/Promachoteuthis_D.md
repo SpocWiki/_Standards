@@ -11,7 +11,7 @@ title: Promachoteuthis sp. D
 
 [Richard E. Young and Michael Vecchione]()
 
-![ ](D/PromachSpDdraw.jpg)![ ](D/PromachSpDdors.jpg))
+![ ](D/PromachSpDdraw.jpg)![ ](D/PromachSpDdors.jpg) 
 ![](D/PromachSpDvent.jpg)
 
 The catalogue number of the holotype is: USNM 00730701.
@@ -63,7 +63,7 @@ and placed in a separate vial. The vial contains mostly large, free,
 equally-sized, mature eggs (ca. 170 eggs at 1.8 mm x 1.5 mm) with very
 few intermediate size and a small number of small oocytes still attached
 to the ovarian strands. The photograph on the right shows
-![ ](D/PromachSpDEggs.jpg))
+![ ](D/PromachSpDEggs.jpg) 
 
 **Figure**. Ventral view of most of the mantle cavity and two eggs of
 ***Promachoteuthis*** sp. D placed beside it for size comparison. The
@@ -102,7 +102,7 @@ from the WALTHER HERWIG at 1550 m depth.
 
 ## Title Illustrations
 
-![](D/PromachSpDdraw.jpg))
+![](D/PromachSpDdraw.jpg) 
 
   -----------------------------------------------------------------------
   Scientific Name ::     Promachoteuthis sp. D
@@ -116,7 +116,7 @@ from the WALTHER HERWIG at 1550 m depth.
   Copyright ::            © [Michael Vecchione](mailto:vecchiom@si.edu) 
  
   -----------------------------------------------------------------------
-![](D/PromachSpDdors.jpg))
+![](D/PromachSpDdors.jpg) 
 
   --------------------------------------------------------------------------------
   Scientific Name ::     Promachoteuthis sp. D
@@ -126,7 +126,7 @@ from the WALTHER HERWIG at 1550 m depth.
   Copyright ::            © 2003 [Richard E. Young](http://www.soest.hawaii.edu/%7Eryoung/rey.html) 
  
   --------------------------------------------------------------------------------
-![](D/PromachSpDvent.jpg))
+![](D/PromachSpDvent.jpg) 
 
   --------------------------------------------------------------------------------
   Scientific Name ::     Promachoteuthis sp. D
@@ -140,17 +140,17 @@ from the WALTHER HERWIG at 1550 m depth.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Promachoteuthis_D](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Promachoteuthidae/Promachoteuthis_D.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Promachoteuthidae/Promachoteuthis_D|Promachoteuthis_D]] 
 
-### #is_/same_as :: [Promachoteuthis_D.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Promachoteuthidae/Promachoteuthis_D.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Promachoteuthidae/Promachoteuthis_D.public|Promachoteuthis_D.public]] 
 
-### #is_/same_as :: [Promachoteuthis_D.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Promachoteuthidae/Promachoteuthis_D.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Promachoteuthidae/Promachoteuthis_D.internal|Promachoteuthis_D.internal]] 
 
-### #is_/same_as :: [Promachoteuthis_D.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Promachoteuthidae/Promachoteuthis_D.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Promachoteuthidae/Promachoteuthis_D.protect|Promachoteuthis_D.protect]] 
 
-### #is_/same_as :: [Promachoteuthis_D.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Promachoteuthidae/Promachoteuthis_D.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Promachoteuthidae/Promachoteuthis_D.private|Promachoteuthis_D.private]] 
 
-### #is_/same_as :: [Promachoteuthis_D.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Promachoteuthidae/Promachoteuthis_D.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Promachoteuthidae/Promachoteuthis_D.personal|Promachoteuthis_D.personal]] 
 
-### #is_/same_as :: [Promachoteuthis_D.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Promachoteuthidae/Promachoteuthis_D.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Promachoteuthidae/Promachoteuthis_D.secret|Promachoteuthis_D.secret]] 
 

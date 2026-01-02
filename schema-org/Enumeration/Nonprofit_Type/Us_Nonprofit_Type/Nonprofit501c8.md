@@ -42,17 +42,17 @@ Nonprofit501c8: Non-profit type referring to Fraternal Beneficiary Societies and
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Nonprofit501c8](/_Standards/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c8.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c8|Nonprofit501c8]] 
 
-### #is_/same_as :: [Nonprofit501c8.public](/_public/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c8.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c8.public|Nonprofit501c8.public]] 
 
-### #is_/same_as :: [Nonprofit501c8.internal](/_internal/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c8.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c8.internal|Nonprofit501c8.internal]] 
 
-### #is_/same_as :: [Nonprofit501c8.protect](/_protect/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c8.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c8.protect|Nonprofit501c8.protect]] 
 
-### #is_/same_as :: [Nonprofit501c8.private](/_private/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c8.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c8.private|Nonprofit501c8.private]] 
 
-### #is_/same_as :: [Nonprofit501c8.personal](/_personal/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c8.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c8.personal|Nonprofit501c8.personal]] 
 
-### #is_/same_as :: [Nonprofit501c8.secret](/_secret/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c8.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c8.secret|Nonprofit501c8.secret]] 
 

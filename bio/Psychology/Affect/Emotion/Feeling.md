@@ -45,3 +45,22 @@ Krugosvet_article_archived_: gumanitarnye_nauki/psihologiya_i_pedagogika/CHUVSTV
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Feeling) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/bio/Psychology/Affect/Emotion/Feeling|Feeling]] 
+
+### #is_/same_as :: [[/_public/bio/Psychology/Affect/Emotion/Feeling.public|Feeling.public]] 
+
+### #is_/same_as :: [[/_internal/bio/Psychology/Affect/Emotion/Feeling.internal|Feeling.internal]] 
+
+### #is_/same_as :: [[/_protect/bio/Psychology/Affect/Emotion/Feeling.protect|Feeling.protect]] 
+
+### #is_/same_as :: [[/_private/bio/Psychology/Affect/Emotion/Feeling.private|Feeling.private]] 
+
+### #is_/same_as :: [[/_personal/bio/Psychology/Affect/Emotion/Feeling.personal|Feeling.personal]] 
+
+### #is_/same_as :: [[/_secret/bio/Psychology/Affect/Emotion/Feeling.secret|Feeling.secret]] 
+

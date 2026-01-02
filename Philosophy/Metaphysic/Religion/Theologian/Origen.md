@@ -92,17 +92,17 @@ Libris_URI: c9prs53w5m8hkvv
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Origen](/_Standards/Philosophy/Metaphysic/Religion/Theologian/Origen.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Theologian/Origen|Origen]] 
 
-### #is_/same_as :: [Origen.public](/_public/Philosophy/Metaphysic/Religion/Theologian/Origen.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Theologian/Origen.public|Origen.public]] 
 
-### #is_/same_as :: [Origen.internal](/_internal/Philosophy/Metaphysic/Religion/Theologian/Origen.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Theologian/Origen.internal|Origen.internal]] 
 
-### #is_/same_as :: [Origen.protect](/_protect/Philosophy/Metaphysic/Religion/Theologian/Origen.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Theologian/Origen.protect|Origen.protect]] 
 
-### #is_/same_as :: [Origen.private](/_private/Philosophy/Metaphysic/Religion/Theologian/Origen.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Theologian/Origen.private|Origen.private]] 
 
-### #is_/same_as :: [Origen.personal](/_personal/Philosophy/Metaphysic/Religion/Theologian/Origen.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Theologian/Origen.personal|Origen.personal]] 
 
-### #is_/same_as :: [Origen.secret](/_secret/Philosophy/Metaphysic/Religion/Theologian/Origen.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Theologian/Origen.secret|Origen.secret]] 
 

@@ -57,17 +57,17 @@ UMLS_CUI: C0816871
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Skeleton](/_Standards/bio/Medicine/Anatomy/Skeleton.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Anatomy/Skeleton|Skeleton]] 
 
-### #is_/same_as :: [Skeleton.public](/_public/bio/Medicine/Anatomy/Skeleton.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Anatomy/Skeleton.public|Skeleton.public]] 
 
-### #is_/same_as :: [Skeleton.internal](/_internal/bio/Medicine/Anatomy/Skeleton.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Anatomy/Skeleton.internal|Skeleton.internal]] 
 
-### #is_/same_as :: [Skeleton.protect](/_protect/bio/Medicine/Anatomy/Skeleton.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Anatomy/Skeleton.protect|Skeleton.protect]] 
 
-### #is_/same_as :: [Skeleton.private](/_private/bio/Medicine/Anatomy/Skeleton.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Anatomy/Skeleton.private|Skeleton.private]] 
 
-### #is_/same_as :: [Skeleton.personal](/_personal/bio/Medicine/Anatomy/Skeleton.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Anatomy/Skeleton.personal|Skeleton.personal]] 
 
-### #is_/same_as :: [Skeleton.secret](/_secret/bio/Medicine/Anatomy/Skeleton.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Anatomy/Skeleton.secret|Skeleton.secret]] 
 

@@ -41,17 +41,17 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Quark%20structure%20an
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Antineutron](/_Standards/Science/Physics/Quantum_Mechanics/Antimatter/Antineutron.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Quantum_Mechanics/Antimatter/Antineutron|Antineutron]] 
 
-### #is_/same_as :: [Antineutron.public](/_public/Science/Physics/Quantum_Mechanics/Antimatter/Antineutron.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Quantum_Mechanics/Antimatter/Antineutron.public|Antineutron.public]] 
 
-### #is_/same_as :: [Antineutron.internal](/_internal/Science/Physics/Quantum_Mechanics/Antimatter/Antineutron.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Quantum_Mechanics/Antimatter/Antineutron.internal|Antineutron.internal]] 
 
-### #is_/same_as :: [Antineutron.protect](/_protect/Science/Physics/Quantum_Mechanics/Antimatter/Antineutron.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Quantum_Mechanics/Antimatter/Antineutron.protect|Antineutron.protect]] 
 
-### #is_/same_as :: [Antineutron.private](/_private/Science/Physics/Quantum_Mechanics/Antimatter/Antineutron.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Quantum_Mechanics/Antimatter/Antineutron.private|Antineutron.private]] 
 
-### #is_/same_as :: [Antineutron.personal](/_personal/Science/Physics/Quantum_Mechanics/Antimatter/Antineutron.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Quantum_Mechanics/Antimatter/Antineutron.personal|Antineutron.personal]] 
 
-### #is_/same_as :: [Antineutron.secret](/_secret/Science/Physics/Quantum_Mechanics/Antimatter/Antineutron.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Quantum_Mechanics/Antimatter/Antineutron.secret|Antineutron.secret]] 
 

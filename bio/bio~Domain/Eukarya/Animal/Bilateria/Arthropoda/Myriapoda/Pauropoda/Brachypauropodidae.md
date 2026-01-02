@@ -37,17 +37,17 @@ title: Brachypauropodidae
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Brachypauropodidae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Myriapoda/Pauropoda/Brachypauropodidae.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Myriapoda/Pauropoda/Brachypauropodidae|Brachypauropodidae]] 
 
-### #is_/same_as :: [Brachypauropodidae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Myriapoda/Pauropoda/Brachypauropodidae.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Myriapoda/Pauropoda/Brachypauropodidae.public|Brachypauropodidae.public]] 
 
-### #is_/same_as :: [Brachypauropodidae.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Myriapoda/Pauropoda/Brachypauropodidae.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Myriapoda/Pauropoda/Brachypauropodidae.internal|Brachypauropodidae.internal]] 
 
-### #is_/same_as :: [Brachypauropodidae.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Myriapoda/Pauropoda/Brachypauropodidae.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Myriapoda/Pauropoda/Brachypauropodidae.protect|Brachypauropodidae.protect]] 
 
-### #is_/same_as :: [Brachypauropodidae.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Myriapoda/Pauropoda/Brachypauropodidae.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Myriapoda/Pauropoda/Brachypauropodidae.private|Brachypauropodidae.private]] 
 
-### #is_/same_as :: [Brachypauropodidae.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Myriapoda/Pauropoda/Brachypauropodidae.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Myriapoda/Pauropoda/Brachypauropodidae.personal|Brachypauropodidae.personal]] 
 
-### #is_/same_as :: [Brachypauropodidae.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Myriapoda/Pauropoda/Brachypauropodidae.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Myriapoda/Pauropoda/Brachypauropodidae.secret|Brachypauropodidae.secret]] 
 

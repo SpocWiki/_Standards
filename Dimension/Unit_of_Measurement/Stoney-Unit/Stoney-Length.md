@@ -8,17 +8,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Stoney-Length](/_Standards/Dimension/Unit_of_Measurement/Stoney-Unit/Stoney-Length.md) 
+### #is_/same_as :: [[/_Standards/Dimension/Unit_of_Measurement/Stoney-Unit/Stoney-Length|Stoney-Length]] 
 
-### #is_/same_as :: [Stoney-Length.public](/_public/Dimension/Unit_of_Measurement/Stoney-Unit/Stoney-Length.public.md) 
+### #is_/same_as :: [[/_public/Dimension/Unit_of_Measurement/Stoney-Unit/Stoney-Length.public|Stoney-Length.public]] 
 
-### #is_/same_as :: [Stoney-Length.internal](/_internal/Dimension/Unit_of_Measurement/Stoney-Unit/Stoney-Length.internal.md) 
+### #is_/same_as :: [[/_internal/Dimension/Unit_of_Measurement/Stoney-Unit/Stoney-Length.internal|Stoney-Length.internal]] 
 
-### #is_/same_as :: [Stoney-Length.protect](/_protect/Dimension/Unit_of_Measurement/Stoney-Unit/Stoney-Length.protect.md) 
+### #is_/same_as :: [[/_protect/Dimension/Unit_of_Measurement/Stoney-Unit/Stoney-Length.protect|Stoney-Length.protect]] 
 
-### #is_/same_as :: [Stoney-Length.private](/_private/Dimension/Unit_of_Measurement/Stoney-Unit/Stoney-Length.private.md) 
+### #is_/same_as :: [[/_private/Dimension/Unit_of_Measurement/Stoney-Unit/Stoney-Length.private|Stoney-Length.private]] 
 
-### #is_/same_as :: [Stoney-Length.personal](/_personal/Dimension/Unit_of_Measurement/Stoney-Unit/Stoney-Length.personal.md) 
+### #is_/same_as :: [[/_personal/Dimension/Unit_of_Measurement/Stoney-Unit/Stoney-Length.personal|Stoney-Length.personal]] 
 
-### #is_/same_as :: [Stoney-Length.secret](/_secret/Dimension/Unit_of_Measurement/Stoney-Unit/Stoney-Length.secret.md)
+### #is_/same_as :: [[/_secret/Dimension/Unit_of_Measurement/Stoney-Unit/Stoney-Length.secret|Stoney-Length.secret]] 
 

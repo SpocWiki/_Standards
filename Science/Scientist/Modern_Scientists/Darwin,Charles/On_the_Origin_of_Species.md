@@ -137,17 +137,17 @@ Commons_category: On the Origin of Species
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [On_the_Origin_of_Species](/_Standards/Science/Scientist/Modern_Scientists/Darwin,Charles/On_the_Origin_of_Species.md) 
+### #is_/same_as :: [[/_Standards/Science/Scientist/Modern_Scientists/Darwin,Charles/On_the_Origin_of_Species|On_the_Origin_of_Species]] 
 
-### #is_/same_as :: [On_the_Origin_of_Species.public](/_public/Science/Scientist/Modern_Scientists/Darwin,Charles/On_the_Origin_of_Species.public.md) 
+### #is_/same_as :: [[/_public/Science/Scientist/Modern_Scientists/Darwin,Charles/On_the_Origin_of_Species.public|On_the_Origin_of_Species.public]] 
 
-### #is_/same_as :: [On_the_Origin_of_Species.internal](/_internal/Science/Scientist/Modern_Scientists/Darwin,Charles/On_the_Origin_of_Species.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Scientist/Modern_Scientists/Darwin,Charles/On_the_Origin_of_Species.internal|On_the_Origin_of_Species.internal]] 
 
-### #is_/same_as :: [On_the_Origin_of_Species.protect](/_protect/Science/Scientist/Modern_Scientists/Darwin,Charles/On_the_Origin_of_Species.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Scientist/Modern_Scientists/Darwin,Charles/On_the_Origin_of_Species.protect|On_the_Origin_of_Species.protect]] 
 
-### #is_/same_as :: [On_the_Origin_of_Species.private](/_private/Science/Scientist/Modern_Scientists/Darwin,Charles/On_the_Origin_of_Species.private.md) 
+### #is_/same_as :: [[/_private/Science/Scientist/Modern_Scientists/Darwin,Charles/On_the_Origin_of_Species.private|On_the_Origin_of_Species.private]] 
 
-### #is_/same_as :: [On_the_Origin_of_Species.personal](/_personal/Science/Scientist/Modern_Scientists/Darwin,Charles/On_the_Origin_of_Species.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Scientist/Modern_Scientists/Darwin,Charles/On_the_Origin_of_Species.personal|On_the_Origin_of_Species.personal]] 
 
-### #is_/same_as :: [On_the_Origin_of_Species.secret](/_secret/Science/Scientist/Modern_Scientists/Darwin,Charles/On_the_Origin_of_Species.secret.md)
+### #is_/same_as :: [[/_secret/Science/Scientist/Modern_Scientists/Darwin,Charles/On_the_Origin_of_Species.secret|On_the_Origin_of_Species.secret]] 
 

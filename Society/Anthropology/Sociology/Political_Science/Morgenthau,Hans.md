@@ -90,17 +90,17 @@ ISNI: 0000000108553556
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Morgenthau,Hans](/_Standards/Society/Anthropology/Sociology/Political_Science/Morgenthau,Hans.md) 
+### #is_/same_as :: [[/_Standards/Society/Anthropology/Sociology/Political_Science/Morgenthau,Hans|Morgenthau,Hans]] 
 
-### #is_/same_as :: [Morgenthau,Hans.public](/_public/Society/Anthropology/Sociology/Political_Science/Morgenthau,Hans.public.md) 
+### #is_/same_as :: [[/_public/Society/Anthropology/Sociology/Political_Science/Morgenthau,Hans.public|Morgenthau,Hans.public]] 
 
-### #is_/same_as :: [Morgenthau,Hans.internal](/_internal/Society/Anthropology/Sociology/Political_Science/Morgenthau,Hans.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Anthropology/Sociology/Political_Science/Morgenthau,Hans.internal|Morgenthau,Hans.internal]] 
 
-### #is_/same_as :: [Morgenthau,Hans.protect](/_protect/Society/Anthropology/Sociology/Political_Science/Morgenthau,Hans.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Anthropology/Sociology/Political_Science/Morgenthau,Hans.protect|Morgenthau,Hans.protect]] 
 
-### #is_/same_as :: [Morgenthau,Hans.private](/_private/Society/Anthropology/Sociology/Political_Science/Morgenthau,Hans.private.md) 
+### #is_/same_as :: [[/_private/Society/Anthropology/Sociology/Political_Science/Morgenthau,Hans.private|Morgenthau,Hans.private]] 
 
-### #is_/same_as :: [Morgenthau,Hans.personal](/_personal/Society/Anthropology/Sociology/Political_Science/Morgenthau,Hans.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Anthropology/Sociology/Political_Science/Morgenthau,Hans.personal|Morgenthau,Hans.personal]] 
 
-### #is_/same_as :: [Morgenthau,Hans.secret](/_secret/Society/Anthropology/Sociology/Political_Science/Morgenthau,Hans.secret.md)
+### #is_/same_as :: [[/_secret/Society/Anthropology/Sociology/Political_Science/Morgenthau,Hans.secret|Morgenthau,Hans.secret]] 
 

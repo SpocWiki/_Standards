@@ -52,17 +52,17 @@ Commons_category: Yurts
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Yurt](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Shelter/Yurt.md) 
+### #is_/same_as :: [[/_Standards/Technology/Engineering/Civil_Engineering/Construction/Shelter/Yurt|Yurt]] 
 
-### #is_/same_as :: [Yurt.public](/_public/Technology/Engineering/Civil_Engineering/Construction/Shelter/Yurt.public.md) 
+### #is_/same_as :: [[/_public/Technology/Engineering/Civil_Engineering/Construction/Shelter/Yurt.public|Yurt.public]] 
 
-### #is_/same_as :: [Yurt.internal](/_internal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Yurt.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Yurt.internal|Yurt.internal]] 
 
-### #is_/same_as :: [Yurt.protect](/_protect/Technology/Engineering/Civil_Engineering/Construction/Shelter/Yurt.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Engineering/Civil_Engineering/Construction/Shelter/Yurt.protect|Yurt.protect]] 
 
-### #is_/same_as :: [Yurt.private](/_private/Technology/Engineering/Civil_Engineering/Construction/Shelter/Yurt.private.md) 
+### #is_/same_as :: [[/_private/Technology/Engineering/Civil_Engineering/Construction/Shelter/Yurt.private|Yurt.private]] 
 
-### #is_/same_as :: [Yurt.personal](/_personal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Yurt.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Yurt.personal|Yurt.personal]] 
 
-### #is_/same_as :: [Yurt.secret](/_secret/Technology/Engineering/Civil_Engineering/Construction/Shelter/Yurt.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Engineering/Civil_Engineering/Construction/Shelter/Yurt.secret|Yurt.secret]] 
 

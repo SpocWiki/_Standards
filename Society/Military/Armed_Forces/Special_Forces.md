@@ -54,17 +54,17 @@ Commons_category: Special forces
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Special_Forces](/_Standards/Society/Military/Armed_Forces/Special_Forces.md) 
+### #is_/same_as :: [[/_Standards/Society/Military/Armed_Forces/Special_Forces|Special_Forces]] 
 
-### #is_/same_as :: [Special_Forces.public](/_public/Society/Military/Armed_Forces/Special_Forces.public.md) 
+### #is_/same_as :: [[/_public/Society/Military/Armed_Forces/Special_Forces.public|Special_Forces.public]] 
 
-### #is_/same_as :: [Special_Forces.internal](/_internal/Society/Military/Armed_Forces/Special_Forces.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Military/Armed_Forces/Special_Forces.internal|Special_Forces.internal]] 
 
-### #is_/same_as :: [Special_Forces.protect](/_protect/Society/Military/Armed_Forces/Special_Forces.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Military/Armed_Forces/Special_Forces.protect|Special_Forces.protect]] 
 
-### #is_/same_as :: [Special_Forces.private](/_private/Society/Military/Armed_Forces/Special_Forces.private.md) 
+### #is_/same_as :: [[/_private/Society/Military/Armed_Forces/Special_Forces.private|Special_Forces.private]] 
 
-### #is_/same_as :: [Special_Forces.personal](/_personal/Society/Military/Armed_Forces/Special_Forces.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Military/Armed_Forces/Special_Forces.personal|Special_Forces.personal]] 
 
-### #is_/same_as :: [Special_Forces.secret](/_secret/Society/Military/Armed_Forces/Special_Forces.secret.md)
+### #is_/same_as :: [[/_secret/Society/Military/Armed_Forces/Special_Forces.secret|Special_Forces.secret]] 
 

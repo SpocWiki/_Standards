@@ -102,17 +102,17 @@ EPPO_Code: PSIGU
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Psidium_guajava](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Myrtales/Myrtaceae/Myrtoideae/Myrteae/Psidium/Psidium_guajava.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Myrtales/Myrtaceae/Myrtoideae/Myrteae/Psidium/Psidium_guajava|Psidium_guajava]] 
 
-### #is_/same_as :: [Psidium_guajava.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Myrtales/Myrtaceae/Myrtoideae/Myrteae/Psidium/Psidium_guajava.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Myrtales/Myrtaceae/Myrtoideae/Myrteae/Psidium/Psidium_guajava.public|Psidium_guajava.public]] 
 
-### #is_/same_as :: [Psidium_guajava.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Myrtales/Myrtaceae/Myrtoideae/Myrteae/Psidium/Psidium_guajava.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Myrtales/Myrtaceae/Myrtoideae/Myrteae/Psidium/Psidium_guajava.internal|Psidium_guajava.internal]] 
 
-### #is_/same_as :: [Psidium_guajava.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Myrtales/Myrtaceae/Myrtoideae/Myrteae/Psidium/Psidium_guajava.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Myrtales/Myrtaceae/Myrtoideae/Myrteae/Psidium/Psidium_guajava.protect|Psidium_guajava.protect]] 
 
-### #is_/same_as :: [Psidium_guajava.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Myrtales/Myrtaceae/Myrtoideae/Myrteae/Psidium/Psidium_guajava.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Myrtales/Myrtaceae/Myrtoideae/Myrteae/Psidium/Psidium_guajava.private|Psidium_guajava.private]] 
 
-### #is_/same_as :: [Psidium_guajava.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Myrtales/Myrtaceae/Myrtoideae/Myrteae/Psidium/Psidium_guajava.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Myrtales/Myrtaceae/Myrtoideae/Myrteae/Psidium/Psidium_guajava.personal|Psidium_guajava.personal]] 
 
-### #is_/same_as :: [Psidium_guajava.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Myrtales/Myrtaceae/Myrtoideae/Myrteae/Psidium/Psidium_guajava.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Myrtales/Myrtaceae/Myrtoideae/Myrteae/Psidium/Psidium_guajava.secret|Psidium_guajava.secret]] 
 

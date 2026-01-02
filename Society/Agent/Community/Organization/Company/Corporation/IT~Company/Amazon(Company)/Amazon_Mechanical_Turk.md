@@ -37,17 +37,17 @@ No new Sources of Wealth. => all Slack will be removed from existing Sources => 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Amazon_Mechanical_Turk](/_Standards/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Amazon(Company)/Amazon_Mechanical_Turk.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Amazon(Company)/Amazon_Mechanical_Turk|Amazon_Mechanical_Turk]] 
 
-### #is_/same_as :: [Amazon_Mechanical_Turk.public](/_public/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Amazon(Company)/Amazon_Mechanical_Turk.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Amazon(Company)/Amazon_Mechanical_Turk.public|Amazon_Mechanical_Turk.public]] 
 
-### #is_/same_as :: [Amazon_Mechanical_Turk.internal](/_internal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Amazon(Company)/Amazon_Mechanical_Turk.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Amazon(Company)/Amazon_Mechanical_Turk.internal|Amazon_Mechanical_Turk.internal]] 
 
-### #is_/same_as :: [Amazon_Mechanical_Turk.protect](/_protect/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Amazon(Company)/Amazon_Mechanical_Turk.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Amazon(Company)/Amazon_Mechanical_Turk.protect|Amazon_Mechanical_Turk.protect]] 
 
-### #is_/same_as :: [Amazon_Mechanical_Turk.private](/_private/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Amazon(Company)/Amazon_Mechanical_Turk.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Amazon(Company)/Amazon_Mechanical_Turk.private|Amazon_Mechanical_Turk.private]] 
 
-### #is_/same_as :: [Amazon_Mechanical_Turk.personal](/_personal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Amazon(Company)/Amazon_Mechanical_Turk.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Amazon(Company)/Amazon_Mechanical_Turk.personal|Amazon_Mechanical_Turk.personal]] 
 
-### #is_/same_as :: [Amazon_Mechanical_Turk.secret](/_secret/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Amazon(Company)/Amazon_Mechanical_Turk.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Amazon(Company)/Amazon_Mechanical_Turk.secret|Amazon_Mechanical_Turk.secret]] 
 

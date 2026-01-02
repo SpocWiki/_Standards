@@ -71,17 +71,17 @@ official_name: Ursa Minor
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Zodiac~Ursa_Minor](/_Standards/Astronomy/Star~Constellation/Zodiac~Ursa_Minor.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Star~Constellation/Zodiac~Ursa_Minor|Zodiac~Ursa_Minor]] 
 
-### #is_/same_as :: [Zodiac~Ursa_Minor.public](/_public/Astronomy/Star~Constellation/Zodiac~Ursa_Minor.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Star~Constellation/Zodiac~Ursa_Minor.public|Zodiac~Ursa_Minor.public]] 
 
-### #is_/same_as :: [Zodiac~Ursa_Minor.internal](/_internal/Astronomy/Star~Constellation/Zodiac~Ursa_Minor.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Star~Constellation/Zodiac~Ursa_Minor.internal|Zodiac~Ursa_Minor.internal]] 
 
-### #is_/same_as :: [Zodiac~Ursa_Minor.protect](/_protect/Astronomy/Star~Constellation/Zodiac~Ursa_Minor.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Star~Constellation/Zodiac~Ursa_Minor.protect|Zodiac~Ursa_Minor.protect]] 
 
-### #is_/same_as :: [Zodiac~Ursa_Minor.private](/_private/Astronomy/Star~Constellation/Zodiac~Ursa_Minor.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Star~Constellation/Zodiac~Ursa_Minor.private|Zodiac~Ursa_Minor.private]] 
 
-### #is_/same_as :: [Zodiac~Ursa_Minor.personal](/_personal/Astronomy/Star~Constellation/Zodiac~Ursa_Minor.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Star~Constellation/Zodiac~Ursa_Minor.personal|Zodiac~Ursa_Minor.personal]] 
 
-### #is_/same_as :: [Zodiac~Ursa_Minor.secret](/_secret/Astronomy/Star~Constellation/Zodiac~Ursa_Minor.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Star~Constellation/Zodiac~Ursa_Minor.secret|Zodiac~Ursa_Minor.secret]] 
 

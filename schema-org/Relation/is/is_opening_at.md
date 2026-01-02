@@ -41,17 +41,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [is_opening_at](/_Standards/schema-org/Relation/is/is_opening_at.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/is/is_opening_at|is_opening_at]] 
 
-### #is_/same_as :: [is_opening_at.public](/_public/schema-org/Relation/is/is_opening_at.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/is/is_opening_at.public|is_opening_at.public]] 
 
-### #is_/same_as :: [is_opening_at.internal](/_internal/schema-org/Relation/is/is_opening_at.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/is/is_opening_at.internal|is_opening_at.internal]] 
 
-### #is_/same_as :: [is_opening_at.protect](/_protect/schema-org/Relation/is/is_opening_at.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/is/is_opening_at.protect|is_opening_at.protect]] 
 
-### #is_/same_as :: [is_opening_at.private](/_private/schema-org/Relation/is/is_opening_at.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/is/is_opening_at.private|is_opening_at.private]] 
 
-### #is_/same_as :: [is_opening_at.personal](/_personal/schema-org/Relation/is/is_opening_at.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/is/is_opening_at.personal|is_opening_at.personal]] 
 
-### #is_/same_as :: [is_opening_at.secret](/_secret/schema-org/Relation/is/is_opening_at.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/is/is_opening_at.secret|is_opening_at.secret]] 
 

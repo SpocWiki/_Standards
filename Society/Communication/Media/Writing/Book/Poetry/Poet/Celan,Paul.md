@@ -111,17 +111,17 @@ Europeana_entity: agent/base/62523
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Celan,Paul](/_Standards/Society/Communication/Media/Writing/Book/Poetry/Poet/Celan,Paul.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Poetry/Poet/Celan,Paul|Celan,Paul]] 
 
-### #is_/same_as :: [Celan,Paul.public](/_public/Society/Communication/Media/Writing/Book/Poetry/Poet/Celan,Paul.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Poetry/Poet/Celan,Paul.public|Celan,Paul.public]] 
 
-### #is_/same_as :: [Celan,Paul.internal](/_internal/Society/Communication/Media/Writing/Book/Poetry/Poet/Celan,Paul.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Poetry/Poet/Celan,Paul.internal|Celan,Paul.internal]] 
 
-### #is_/same_as :: [Celan,Paul.protect](/_protect/Society/Communication/Media/Writing/Book/Poetry/Poet/Celan,Paul.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Poetry/Poet/Celan,Paul.protect|Celan,Paul.protect]] 
 
-### #is_/same_as :: [Celan,Paul.private](/_private/Society/Communication/Media/Writing/Book/Poetry/Poet/Celan,Paul.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Poetry/Poet/Celan,Paul.private|Celan,Paul.private]] 
 
-### #is_/same_as :: [Celan,Paul.personal](/_personal/Society/Communication/Media/Writing/Book/Poetry/Poet/Celan,Paul.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Poetry/Poet/Celan,Paul.personal|Celan,Paul.personal]] 
 
-### #is_/same_as :: [Celan,Paul.secret](/_secret/Society/Communication/Media/Writing/Book/Poetry/Poet/Celan,Paul.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Poetry/Poet/Celan,Paul.secret|Celan,Paul.secret]] 
 

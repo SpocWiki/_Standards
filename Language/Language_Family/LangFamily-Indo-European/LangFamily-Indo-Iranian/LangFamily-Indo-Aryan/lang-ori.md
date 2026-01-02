@@ -107,17 +107,17 @@ Gujarati_Vishwakosh_entry: ઊડિયા-ભાષા-અને-સાહિ�
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [lang-ori](/_Standards/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/lang-ori.md) 
+### #is_/same_as :: [[/_Standards/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/lang-ori|lang-ori]] 
 
-### #is_/same_as :: [lang-ori.public](/_public/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/lang-ori.public.md) 
+### #is_/same_as :: [[/_public/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/lang-ori.public|lang-ori.public]] 
 
-### #is_/same_as :: [lang-ori.internal](/_internal/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/lang-ori.internal.md) 
+### #is_/same_as :: [[/_internal/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/lang-ori.internal|lang-ori.internal]] 
 
-### #is_/same_as :: [lang-ori.protect](/_protect/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/lang-ori.protect.md) 
+### #is_/same_as :: [[/_protect/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/lang-ori.protect|lang-ori.protect]] 
 
-### #is_/same_as :: [lang-ori.private](/_private/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/lang-ori.private.md) 
+### #is_/same_as :: [[/_private/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/lang-ori.private|lang-ori.private]] 
 
-### #is_/same_as :: [lang-ori.personal](/_personal/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/lang-ori.personal.md) 
+### #is_/same_as :: [[/_personal/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/lang-ori.personal|lang-ori.personal]] 
 
-### #is_/same_as :: [lang-ori.secret](/_secret/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/lang-ori.secret.md)
+### #is_/same_as :: [[/_secret/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/lang-ori.secret|lang-ori.secret]] 
 

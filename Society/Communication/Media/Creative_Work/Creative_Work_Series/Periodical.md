@@ -44,17 +44,17 @@ See also <a href="http://blog.schema.org/2014/09/schemaorg-support-for-bibliogra
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Periodical](/_Standards/Society/Communication/Media/Creative_Work/Creative_Work_Series/Periodical.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Creative_Work/Creative_Work_Series/Periodical|Periodical]] 
 
-### #is_/same_as :: [Periodical.public](/_public/Society/Communication/Media/Creative_Work/Creative_Work_Series/Periodical.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Creative_Work/Creative_Work_Series/Periodical.public|Periodical.public]] 
 
-### #is_/same_as :: [Periodical.internal](/_internal/Society/Communication/Media/Creative_Work/Creative_Work_Series/Periodical.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Creative_Work/Creative_Work_Series/Periodical.internal|Periodical.internal]] 
 
-### #is_/same_as :: [Periodical.protect](/_protect/Society/Communication/Media/Creative_Work/Creative_Work_Series/Periodical.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Creative_Work/Creative_Work_Series/Periodical.protect|Periodical.protect]] 
 
-### #is_/same_as :: [Periodical.private](/_private/Society/Communication/Media/Creative_Work/Creative_Work_Series/Periodical.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Creative_Work/Creative_Work_Series/Periodical.private|Periodical.private]] 
 
-### #is_/same_as :: [Periodical.personal](/_personal/Society/Communication/Media/Creative_Work/Creative_Work_Series/Periodical.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/Creative_Work_Series/Periodical.personal|Periodical.personal]] 
 
-### #is_/same_as :: [Periodical.secret](/_secret/Society/Communication/Media/Creative_Work/Creative_Work_Series/Periodical.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Creative_Work_Series/Periodical.secret|Periodical.secret]] 
 

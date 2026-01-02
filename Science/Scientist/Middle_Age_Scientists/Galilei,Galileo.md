@@ -203,17 +203,17 @@ writing_language:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Galilei,Galileo](/_Standards/Science/Scientist/Middle_Age_Scientists/Galilei,Galileo.md) 
+### #is_/same_as :: [[/_Standards/Science/Scientist/Middle_Age_Scientists/Galilei,Galileo|Galilei,Galileo]] 
 
-### #is_/same_as :: [Galilei,Galileo.public](/_public/Science/Scientist/Middle_Age_Scientists/Galilei,Galileo.public.md) 
+### #is_/same_as :: [[/_public/Science/Scientist/Middle_Age_Scientists/Galilei,Galileo.public|Galilei,Galileo.public]] 
 
-### #is_/same_as :: [Galilei,Galileo.internal](/_internal/Science/Scientist/Middle_Age_Scientists/Galilei,Galileo.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Scientist/Middle_Age_Scientists/Galilei,Galileo.internal|Galilei,Galileo.internal]] 
 
-### #is_/same_as :: [Galilei,Galileo.protect](/_protect/Science/Scientist/Middle_Age_Scientists/Galilei,Galileo.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Scientist/Middle_Age_Scientists/Galilei,Galileo.protect|Galilei,Galileo.protect]] 
 
-### #is_/same_as :: [Galilei,Galileo.private](/_private/Science/Scientist/Middle_Age_Scientists/Galilei,Galileo.private.md) 
+### #is_/same_as :: [[/_private/Science/Scientist/Middle_Age_Scientists/Galilei,Galileo.private|Galilei,Galileo.private]] 
 
-### #is_/same_as :: [Galilei,Galileo.personal](/_personal/Science/Scientist/Middle_Age_Scientists/Galilei,Galileo.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Scientist/Middle_Age_Scientists/Galilei,Galileo.personal|Galilei,Galileo.personal]] 
 
-### #is_/same_as :: [Galilei,Galileo.secret](/_secret/Science/Scientist/Middle_Age_Scientists/Galilei,Galileo.secret.md)
+### #is_/same_as :: [[/_secret/Science/Scientist/Middle_Age_Scientists/Galilei,Galileo.secret|Galilei,Galileo.secret]] 
 

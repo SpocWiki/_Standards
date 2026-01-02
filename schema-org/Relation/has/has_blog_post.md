@@ -43,17 +43,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_blog_post](/_Standards/schema-org/Relation/has/has_blog_post.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_blog_post|has_blog_post]] 
 
-### #is_/same_as :: [has_blog_post.public](/_public/schema-org/Relation/has/has_blog_post.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_blog_post.public|has_blog_post.public]] 
 
-### #is_/same_as :: [has_blog_post.internal](/_internal/schema-org/Relation/has/has_blog_post.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_blog_post.internal|has_blog_post.internal]] 
 
-### #is_/same_as :: [has_blog_post.protect](/_protect/schema-org/Relation/has/has_blog_post.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_blog_post.protect|has_blog_post.protect]] 
 
-### #is_/same_as :: [has_blog_post.private](/_private/schema-org/Relation/has/has_blog_post.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_blog_post.private|has_blog_post.private]] 
 
-### #is_/same_as :: [has_blog_post.personal](/_personal/schema-org/Relation/has/has_blog_post.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_blog_post.personal|has_blog_post.personal]] 
 
-### #is_/same_as :: [has_blog_post.secret](/_secret/schema-org/Relation/has/has_blog_post.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_blog_post.secret|has_blog_post.secret]] 
 

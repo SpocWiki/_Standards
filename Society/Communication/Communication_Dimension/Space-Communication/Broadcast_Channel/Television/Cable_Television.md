@@ -61,17 +61,17 @@ P8189: 987007293764905171
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Cable_Television](/_Standards/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Cable_Television.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Cable_Television|Cable_Television]] 
 
-### #is_/same_as :: [Cable_Television.public](/_public/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Cable_Television.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Cable_Television.public|Cable_Television.public]] 
 
-### #is_/same_as :: [Cable_Television.internal](/_internal/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Cable_Television.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Cable_Television.internal|Cable_Television.internal]] 
 
-### #is_/same_as :: [Cable_Television.protect](/_protect/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Cable_Television.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Cable_Television.protect|Cable_Television.protect]] 
 
-### #is_/same_as :: [Cable_Television.private](/_private/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Cable_Television.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Cable_Television.private|Cable_Television.private]] 
 
-### #is_/same_as :: [Cable_Television.personal](/_personal/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Cable_Television.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Cable_Television.personal|Cable_Television.personal]] 
 
-### #is_/same_as :: [Cable_Television.secret](/_secret/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Cable_Television.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Cable_Television.secret|Cable_Television.secret]] 
 

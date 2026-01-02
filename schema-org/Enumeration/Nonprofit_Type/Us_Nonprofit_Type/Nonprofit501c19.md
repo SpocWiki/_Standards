@@ -42,17 +42,17 @@ Nonprofit501c19: Non-profit type referring to Post or Organization of Past or Pr
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Nonprofit501c19](/_Standards/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c19.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c19|Nonprofit501c19]] 
 
-### #is_/same_as :: [Nonprofit501c19.public](/_public/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c19.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c19.public|Nonprofit501c19.public]] 
 
-### #is_/same_as :: [Nonprofit501c19.internal](/_internal/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c19.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c19.internal|Nonprofit501c19.internal]] 
 
-### #is_/same_as :: [Nonprofit501c19.protect](/_protect/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c19.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c19.protect|Nonprofit501c19.protect]] 
 
-### #is_/same_as :: [Nonprofit501c19.private](/_private/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c19.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c19.private|Nonprofit501c19.private]] 
 
-### #is_/same_as :: [Nonprofit501c19.personal](/_personal/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c19.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c19.personal|Nonprofit501c19.personal]] 
 
-### #is_/same_as :: [Nonprofit501c19.secret](/_secret/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c19.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c19.secret|Nonprofit501c19.secret]] 
 

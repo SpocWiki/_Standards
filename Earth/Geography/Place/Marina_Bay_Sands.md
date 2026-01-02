@@ -94,17 +94,17 @@ By <a rel="nofollow" class="external text" href="https://www.flickr.com/people/8
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Marina_Bay_Sands](/_Standards/Earth/Geography/Place/Marina_Bay_Sands.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geography/Place/Marina_Bay_Sands|Marina_Bay_Sands]] 
 
-### #is_/same_as :: [Marina_Bay_Sands.public](/_public/Earth/Geography/Place/Marina_Bay_Sands.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geography/Place/Marina_Bay_Sands.public|Marina_Bay_Sands.public]] 
 
-### #is_/same_as :: [Marina_Bay_Sands.internal](/_internal/Earth/Geography/Place/Marina_Bay_Sands.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geography/Place/Marina_Bay_Sands.internal|Marina_Bay_Sands.internal]] 
 
-### #is_/same_as :: [Marina_Bay_Sands.protect](/_protect/Earth/Geography/Place/Marina_Bay_Sands.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geography/Place/Marina_Bay_Sands.protect|Marina_Bay_Sands.protect]] 
 
-### #is_/same_as :: [Marina_Bay_Sands.private](/_private/Earth/Geography/Place/Marina_Bay_Sands.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geography/Place/Marina_Bay_Sands.private|Marina_Bay_Sands.private]] 
 
-### #is_/same_as :: [Marina_Bay_Sands.personal](/_personal/Earth/Geography/Place/Marina_Bay_Sands.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geography/Place/Marina_Bay_Sands.personal|Marina_Bay_Sands.personal]] 
 
-### #is_/same_as :: [Marina_Bay_Sands.secret](/_secret/Earth/Geography/Place/Marina_Bay_Sands.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geography/Place/Marina_Bay_Sands.secret|Marina_Bay_Sands.secret]] 
 

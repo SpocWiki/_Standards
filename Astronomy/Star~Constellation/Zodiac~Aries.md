@@ -57,17 +57,17 @@ official_name: Aries
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Zodiac~Aries](/_Standards/Astronomy/Star~Constellation/Zodiac~Aries.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Star~Constellation/Zodiac~Aries|Zodiac~Aries]] 
 
-### #is_/same_as :: [Zodiac~Aries.public](/_public/Astronomy/Star~Constellation/Zodiac~Aries.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Star~Constellation/Zodiac~Aries.public|Zodiac~Aries.public]] 
 
-### #is_/same_as :: [Zodiac~Aries.internal](/_internal/Astronomy/Star~Constellation/Zodiac~Aries.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Star~Constellation/Zodiac~Aries.internal|Zodiac~Aries.internal]] 
 
-### #is_/same_as :: [Zodiac~Aries.protect](/_protect/Astronomy/Star~Constellation/Zodiac~Aries.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Star~Constellation/Zodiac~Aries.protect|Zodiac~Aries.protect]] 
 
-### #is_/same_as :: [Zodiac~Aries.private](/_private/Astronomy/Star~Constellation/Zodiac~Aries.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Star~Constellation/Zodiac~Aries.private|Zodiac~Aries.private]] 
 
-### #is_/same_as :: [Zodiac~Aries.personal](/_personal/Astronomy/Star~Constellation/Zodiac~Aries.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Star~Constellation/Zodiac~Aries.personal|Zodiac~Aries.personal]] 
 
-### #is_/same_as :: [Zodiac~Aries.secret](/_secret/Astronomy/Star~Constellation/Zodiac~Aries.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Star~Constellation/Zodiac~Aries.secret|Zodiac~Aries.secret]] 
 

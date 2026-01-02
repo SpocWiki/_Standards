@@ -42,17 +42,17 @@ Dewey_Decimal_Classification: 632.5
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Weed](/_Standards/Society/Economics/Industry/Agriculture/Crop/Weed.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Industry/Agriculture/Crop/Weed|Weed]] 
 
-### #is_/same_as :: [Weed.public](/_public/Society/Economics/Industry/Agriculture/Crop/Weed.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Industry/Agriculture/Crop/Weed.public|Weed.public]] 
 
-### #is_/same_as :: [Weed.internal](/_internal/Society/Economics/Industry/Agriculture/Crop/Weed.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Industry/Agriculture/Crop/Weed.internal|Weed.internal]] 
 
-### #is_/same_as :: [Weed.protect](/_protect/Society/Economics/Industry/Agriculture/Crop/Weed.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Industry/Agriculture/Crop/Weed.protect|Weed.protect]] 
 
-### #is_/same_as :: [Weed.private](/_private/Society/Economics/Industry/Agriculture/Crop/Weed.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Industry/Agriculture/Crop/Weed.private|Weed.private]] 
 
-### #is_/same_as :: [Weed.personal](/_personal/Society/Economics/Industry/Agriculture/Crop/Weed.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Industry/Agriculture/Crop/Weed.personal|Weed.personal]] 
 
-### #is_/same_as :: [Weed.secret](/_secret/Society/Economics/Industry/Agriculture/Crop/Weed.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Industry/Agriculture/Crop/Weed.secret|Weed.secret]] 
 

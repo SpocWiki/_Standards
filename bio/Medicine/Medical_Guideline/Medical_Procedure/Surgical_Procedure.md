@@ -42,17 +42,17 @@ A medical procedure involving an incision with instruments; performed for diagno
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Surgical_Procedure](/_Standards/bio/Medicine/Medical_Guideline/Medical_Procedure/Surgical_Procedure.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Guideline/Medical_Procedure/Surgical_Procedure|Surgical_Procedure]] 
 
-### #is_/same_as :: [Surgical_Procedure.public](/_public/bio/Medicine/Medical_Guideline/Medical_Procedure/Surgical_Procedure.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Guideline/Medical_Procedure/Surgical_Procedure.public|Surgical_Procedure.public]] 
 
-### #is_/same_as :: [Surgical_Procedure.internal](/_internal/bio/Medicine/Medical_Guideline/Medical_Procedure/Surgical_Procedure.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Guideline/Medical_Procedure/Surgical_Procedure.internal|Surgical_Procedure.internal]] 
 
-### #is_/same_as :: [Surgical_Procedure.protect](/_protect/bio/Medicine/Medical_Guideline/Medical_Procedure/Surgical_Procedure.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Guideline/Medical_Procedure/Surgical_Procedure.protect|Surgical_Procedure.protect]] 
 
-### #is_/same_as :: [Surgical_Procedure.private](/_private/bio/Medicine/Medical_Guideline/Medical_Procedure/Surgical_Procedure.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Guideline/Medical_Procedure/Surgical_Procedure.private|Surgical_Procedure.private]] 
 
-### #is_/same_as :: [Surgical_Procedure.personal](/_personal/bio/Medicine/Medical_Guideline/Medical_Procedure/Surgical_Procedure.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Guideline/Medical_Procedure/Surgical_Procedure.personal|Surgical_Procedure.personal]] 
 
-### #is_/same_as :: [Surgical_Procedure.secret](/_secret/bio/Medicine/Medical_Guideline/Medical_Procedure/Surgical_Procedure.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Guideline/Medical_Procedure/Surgical_Procedure.secret|Surgical_Procedure.secret]] 
 

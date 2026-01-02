@@ -189,17 +189,17 @@ X_Twitter_username:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [New_York_Times](/_Standards/Society/Communication/Media/Journalism/Newspaper/New_York_Times.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Journalism/Newspaper/New_York_Times|New_York_Times]] 
 
-### #is_/same_as :: [New_York_Times.public](/_public/Society/Communication/Media/Journalism/Newspaper/New_York_Times.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Journalism/Newspaper/New_York_Times.public|New_York_Times.public]] 
 
-### #is_/same_as :: [New_York_Times.internal](/_internal/Society/Communication/Media/Journalism/Newspaper/New_York_Times.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Journalism/Newspaper/New_York_Times.internal|New_York_Times.internal]] 
 
-### #is_/same_as :: [New_York_Times.protect](/_protect/Society/Communication/Media/Journalism/Newspaper/New_York_Times.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Journalism/Newspaper/New_York_Times.protect|New_York_Times.protect]] 
 
-### #is_/same_as :: [New_York_Times.private](/_private/Society/Communication/Media/Journalism/Newspaper/New_York_Times.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Journalism/Newspaper/New_York_Times.private|New_York_Times.private]] 
 
-### #is_/same_as :: [New_York_Times.personal](/_personal/Society/Communication/Media/Journalism/Newspaper/New_York_Times.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Journalism/Newspaper/New_York_Times.personal|New_York_Times.personal]] 
 
-### #is_/same_as :: [New_York_Times.secret](/_secret/Society/Communication/Media/Journalism/Newspaper/New_York_Times.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Journalism/Newspaper/New_York_Times.secret|New_York_Times.secret]] 
 

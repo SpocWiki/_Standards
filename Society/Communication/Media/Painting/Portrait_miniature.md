@@ -39,17 +39,17 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Jean%20Fouquet%20-%20S
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Portrait_miniature](/_Standards/Society/Communication/Media/Painting/Portrait_miniature.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Painting/Portrait_miniature|Portrait_miniature]] 
 
-### #is_/same_as :: [Portrait_miniature.public](/_public/Society/Communication/Media/Painting/Portrait_miniature.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Painting/Portrait_miniature.public|Portrait_miniature.public]] 
 
-### #is_/same_as :: [Portrait_miniature.internal](/_internal/Society/Communication/Media/Painting/Portrait_miniature.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Painting/Portrait_miniature.internal|Portrait_miniature.internal]] 
 
-### #is_/same_as :: [Portrait_miniature.protect](/_protect/Society/Communication/Media/Painting/Portrait_miniature.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Painting/Portrait_miniature.protect|Portrait_miniature.protect]] 
 
-### #is_/same_as :: [Portrait_miniature.private](/_private/Society/Communication/Media/Painting/Portrait_miniature.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Painting/Portrait_miniature.private|Portrait_miniature.private]] 
 
-### #is_/same_as :: [Portrait_miniature.personal](/_personal/Society/Communication/Media/Painting/Portrait_miniature.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Painting/Portrait_miniature.personal|Portrait_miniature.personal]] 
 
-### #is_/same_as :: [Portrait_miniature.secret](/_secret/Society/Communication/Media/Painting/Portrait_miniature.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Painting/Portrait_miniature.secret|Portrait_miniature.secret]] 
 

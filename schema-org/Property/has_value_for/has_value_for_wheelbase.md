@@ -49,17 +49,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_value_for_wheelbase](/_Standards/schema-org/Property/has_value_for/has_value_for_wheelbase.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_value_for/has_value_for_wheelbase|has_value_for_wheelbase]] 
 
-### #is_/same_as :: [has_value_for_wheelbase.public](/_public/schema-org/Property/has_value_for/has_value_for_wheelbase.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/has_value_for/has_value_for_wheelbase.public|has_value_for_wheelbase.public]] 
 
-### #is_/same_as :: [has_value_for_wheelbase.internal](/_internal/schema-org/Property/has_value_for/has_value_for_wheelbase.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_value_for/has_value_for_wheelbase.internal|has_value_for_wheelbase.internal]] 
 
-### #is_/same_as :: [has_value_for_wheelbase.protect](/_protect/schema-org/Property/has_value_for/has_value_for_wheelbase.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_value_for/has_value_for_wheelbase.protect|has_value_for_wheelbase.protect]] 
 
-### #is_/same_as :: [has_value_for_wheelbase.private](/_private/schema-org/Property/has_value_for/has_value_for_wheelbase.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/has_value_for/has_value_for_wheelbase.private|has_value_for_wheelbase.private]] 
 
-### #is_/same_as :: [has_value_for_wheelbase.personal](/_personal/schema-org/Property/has_value_for/has_value_for_wheelbase.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_value_for/has_value_for_wheelbase.personal|has_value_for_wheelbase.personal]] 
 
-### #is_/same_as :: [has_value_for_wheelbase.secret](/_secret/schema-org/Property/has_value_for/has_value_for_wheelbase.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/has_value_for/has_value_for_wheelbase.secret|has_value_for_wheelbase.secret]] 
 

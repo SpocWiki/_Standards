@@ -42,17 +42,17 @@ A [[FAQPage]] is a [[WebPage]] presenting one or more "<a href="https://en.wikip
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Faq_Page](/_Standards/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Faq_Page.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Faq_Page|Faq_Page]] 
 
-### #is_/same_as :: [Faq_Page.public](/_public/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Faq_Page.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Faq_Page.public|Faq_Page.public]] 
 
-### #is_/same_as :: [Faq_Page.internal](/_internal/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Faq_Page.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Faq_Page.internal|Faq_Page.internal]] 
 
-### #is_/same_as :: [Faq_Page.protect](/_protect/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Faq_Page.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Faq_Page.protect|Faq_Page.protect]] 
 
-### #is_/same_as :: [Faq_Page.private](/_private/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Faq_Page.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Faq_Page.private|Faq_Page.private]] 
 
-### #is_/same_as :: [Faq_Page.personal](/_personal/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Faq_Page.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Faq_Page.personal|Faq_Page.personal]] 
 
-### #is_/same_as :: [Faq_Page.secret](/_secret/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Faq_Page.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Faq_Page.secret|Faq_Page.secret]] 
 

@@ -52,17 +52,17 @@ pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-Senso
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sensor](/_Standards/Technology/Tool/Instrumentation/Sensor.md) 
+### #is_/same_as :: [[/_Standards/Technology/Tool/Instrumentation/Sensor|Sensor]] 
 
-### #is_/same_as :: [Sensor.public](/_public/Technology/Tool/Instrumentation/Sensor.public.md) 
+### #is_/same_as :: [[/_public/Technology/Tool/Instrumentation/Sensor.public|Sensor.public]] 
 
-### #is_/same_as :: [Sensor.internal](/_internal/Technology/Tool/Instrumentation/Sensor.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Tool/Instrumentation/Sensor.internal|Sensor.internal]] 
 
-### #is_/same_as :: [Sensor.protect](/_protect/Technology/Tool/Instrumentation/Sensor.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Tool/Instrumentation/Sensor.protect|Sensor.protect]] 
 
-### #is_/same_as :: [Sensor.private](/_private/Technology/Tool/Instrumentation/Sensor.private.md) 
+### #is_/same_as :: [[/_private/Technology/Tool/Instrumentation/Sensor.private|Sensor.private]] 
 
-### #is_/same_as :: [Sensor.personal](/_personal/Technology/Tool/Instrumentation/Sensor.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Tool/Instrumentation/Sensor.personal|Sensor.personal]] 
 
-### #is_/same_as :: [Sensor.secret](/_secret/Technology/Tool/Instrumentation/Sensor.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Tool/Instrumentation/Sensor.secret|Sensor.secret]] 
 

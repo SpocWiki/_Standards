@@ -168,17 +168,17 @@ birth_name: Sir Lord Robert Cecil Stephenson Smith Baden Powell Of Gilwell
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Baden-Powell,Robert](/_Standards/Society/Communication/Media/Writing/Book/Writer/English_Writer/Baden-Powell,Robert.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Writer/English_Writer/Baden-Powell,Robert|Baden-Powell,Robert]] 
 
-### #is_/same_as :: [Baden-Powell,Robert.public](/_public/Society/Communication/Media/Writing/Book/Writer/English_Writer/Baden-Powell,Robert.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Writer/English_Writer/Baden-Powell,Robert.public|Baden-Powell,Robert.public]] 
 
-### #is_/same_as :: [Baden-Powell,Robert.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/English_Writer/Baden-Powell,Robert.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Writer/English_Writer/Baden-Powell,Robert.internal|Baden-Powell,Robert.internal]] 
 
-### #is_/same_as :: [Baden-Powell,Robert.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/English_Writer/Baden-Powell,Robert.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Writer/English_Writer/Baden-Powell,Robert.protect|Baden-Powell,Robert.protect]] 
 
-### #is_/same_as :: [Baden-Powell,Robert.private](/_private/Society/Communication/Media/Writing/Book/Writer/English_Writer/Baden-Powell,Robert.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Writer/English_Writer/Baden-Powell,Robert.private|Baden-Powell,Robert.private]] 
 
-### #is_/same_as :: [Baden-Powell,Robert.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/English_Writer/Baden-Powell,Robert.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Writer/English_Writer/Baden-Powell,Robert.personal|Baden-Powell,Robert.personal]] 
 
-### #is_/same_as :: [Baden-Powell,Robert.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/English_Writer/Baden-Powell,Robert.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Writer/English_Writer/Baden-Powell,Robert.secret|Baden-Powell,Robert.secret]] 
 

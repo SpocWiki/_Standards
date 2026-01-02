@@ -215,17 +215,17 @@ Wolfram_Language_entity_code: Entity["HistoricalEvent", "ArtificialIntelligence"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Artificial_Intelligence](/_Standards/Technology/IT/Artificial_Intelligence.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/AI(Artificial_Intelligence)|AI(Artificial_Intelligence)]] 
 
-### #is_/same_as :: [Artificial_Intelligence.public](/_public/Technology/IT/Artificial_Intelligence.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/AI(Artificial_Intelligence).public|AI(Artificial_Intelligence).public]] 
 
-### #is_/same_as :: [Artificial_Intelligence.internal](/_internal/Technology/IT/Artificial_Intelligence.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/AI(Artificial_Intelligence).internal|AI(Artificial_Intelligence).internal]] 
 
-### #is_/same_as :: [Artificial_Intelligence.protect](/_protect/Technology/IT/Artificial_Intelligence.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/AI(Artificial_Intelligence).protect|AI(Artificial_Intelligence).protect]] 
 
-### #is_/same_as :: [Artificial_Intelligence.private](/_private/Technology/IT/Artificial_Intelligence.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/AI(Artificial_Intelligence).private|AI(Artificial_Intelligence).private]] 
 
-### #is_/same_as :: [Artificial_Intelligence.personal](/_personal/Technology/IT/Artificial_Intelligence.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/AI(Artificial_Intelligence).personal|AI(Artificial_Intelligence).personal]] 
 
-### #is_/same_as :: [Artificial_Intelligence.secret](/_secret/Technology/IT/Artificial_Intelligence.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/AI(Artificial_Intelligence).secret|AI(Artificial_Intelligence).secret]] 
 

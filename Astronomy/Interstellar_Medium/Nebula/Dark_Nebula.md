@@ -57,17 +57,17 @@ Commons_category: Dark nebulae
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Dark_Nebula](/_Standards/Astronomy/Interstellar_Medium/Nebula/Dark_Nebula.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Interstellar_Medium/Nebula/Dark_Nebula|Dark_Nebula]] 
 
-### #is_/same_as :: [Dark_Nebula.public](/_public/Astronomy/Interstellar_Medium/Nebula/Dark_Nebula.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Interstellar_Medium/Nebula/Dark_Nebula.public|Dark_Nebula.public]] 
 
-### #is_/same_as :: [Dark_Nebula.internal](/_internal/Astronomy/Interstellar_Medium/Nebula/Dark_Nebula.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Interstellar_Medium/Nebula/Dark_Nebula.internal|Dark_Nebula.internal]] 
 
-### #is_/same_as :: [Dark_Nebula.protect](/_protect/Astronomy/Interstellar_Medium/Nebula/Dark_Nebula.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Interstellar_Medium/Nebula/Dark_Nebula.protect|Dark_Nebula.protect]] 
 
-### #is_/same_as :: [Dark_Nebula.private](/_private/Astronomy/Interstellar_Medium/Nebula/Dark_Nebula.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Interstellar_Medium/Nebula/Dark_Nebula.private|Dark_Nebula.private]] 
 
-### #is_/same_as :: [Dark_Nebula.personal](/_personal/Astronomy/Interstellar_Medium/Nebula/Dark_Nebula.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Interstellar_Medium/Nebula/Dark_Nebula.personal|Dark_Nebula.personal]] 
 
-### #is_/same_as :: [Dark_Nebula.secret](/_secret/Astronomy/Interstellar_Medium/Nebula/Dark_Nebula.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Interstellar_Medium/Nebula/Dark_Nebula.secret|Dark_Nebula.secret]] 
 

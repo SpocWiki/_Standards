@@ -66,17 +66,17 @@ time_of_discovery_or_invention: 1687-01-01T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Zodiac~Sextans](/_Standards/Astronomy/Star~Constellation/Zodiac~Sextans.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Star~Constellation/Zodiac~Sextans|Zodiac~Sextans]] 
 
-### #is_/same_as :: [Zodiac~Sextans.public](/_public/Astronomy/Star~Constellation/Zodiac~Sextans.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Star~Constellation/Zodiac~Sextans.public|Zodiac~Sextans.public]] 
 
-### #is_/same_as :: [Zodiac~Sextans.internal](/_internal/Astronomy/Star~Constellation/Zodiac~Sextans.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Star~Constellation/Zodiac~Sextans.internal|Zodiac~Sextans.internal]] 
 
-### #is_/same_as :: [Zodiac~Sextans.protect](/_protect/Astronomy/Star~Constellation/Zodiac~Sextans.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Star~Constellation/Zodiac~Sextans.protect|Zodiac~Sextans.protect]] 
 
-### #is_/same_as :: [Zodiac~Sextans.private](/_private/Astronomy/Star~Constellation/Zodiac~Sextans.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Star~Constellation/Zodiac~Sextans.private|Zodiac~Sextans.private]] 
 
-### #is_/same_as :: [Zodiac~Sextans.personal](/_personal/Astronomy/Star~Constellation/Zodiac~Sextans.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Star~Constellation/Zodiac~Sextans.personal|Zodiac~Sextans.personal]] 
 
-### #is_/same_as :: [Zodiac~Sextans.secret](/_secret/Astronomy/Star~Constellation/Zodiac~Sextans.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Star~Constellation/Zodiac~Sextans.secret|Zodiac~Sextans.secret]] 
 

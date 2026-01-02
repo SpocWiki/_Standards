@@ -53,17 +53,17 @@ Copyright ::            © [Diego Alarcon](http://www.chilebosque.cl/)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Gomortega_nitida](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Magnoliids/Laurales/Gomortega_nitida.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Magnoliids/Laurales/Gomortega_nitida|Gomortega_nitida]] 
 
-### #is_/same_as :: [Gomortega_nitida.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Magnoliids/Laurales/Gomortega_nitida.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Magnoliids/Laurales/Gomortega_nitida.public|Gomortega_nitida.public]] 
 
-### #is_/same_as :: [Gomortega_nitida.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Magnoliids/Laurales/Gomortega_nitida.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Magnoliids/Laurales/Gomortega_nitida.internal|Gomortega_nitida.internal]] 
 
-### #is_/same_as :: [Gomortega_nitida.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Magnoliids/Laurales/Gomortega_nitida.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Magnoliids/Laurales/Gomortega_nitida.protect|Gomortega_nitida.protect]] 
 
-### #is_/same_as :: [Gomortega_nitida.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Magnoliids/Laurales/Gomortega_nitida.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Magnoliids/Laurales/Gomortega_nitida.private|Gomortega_nitida.private]] 
 
-### #is_/same_as :: [Gomortega_nitida.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Magnoliids/Laurales/Gomortega_nitida.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Magnoliids/Laurales/Gomortega_nitida.personal|Gomortega_nitida.personal]] 
 
-### #is_/same_as :: [Gomortega_nitida.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Magnoliids/Laurales/Gomortega_nitida.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Magnoliids/Laurales/Gomortega_nitida.secret|Gomortega_nitida.secret]] 
 

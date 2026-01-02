@@ -42,17 +42,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_broadcast_frequency](/_Standards/schema-org/Relation/has/has_broadcast_frequency.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_broadcast_frequency|has_broadcast_frequency]] 
 
-### #is_/same_as :: [has_broadcast_frequency.public](/_public/schema-org/Relation/has/has_broadcast_frequency.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_broadcast_frequency.public|has_broadcast_frequency.public]] 
 
-### #is_/same_as :: [has_broadcast_frequency.internal](/_internal/schema-org/Relation/has/has_broadcast_frequency.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_broadcast_frequency.internal|has_broadcast_frequency.internal]] 
 
-### #is_/same_as :: [has_broadcast_frequency.protect](/_protect/schema-org/Relation/has/has_broadcast_frequency.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_broadcast_frequency.protect|has_broadcast_frequency.protect]] 
 
-### #is_/same_as :: [has_broadcast_frequency.private](/_private/schema-org/Relation/has/has_broadcast_frequency.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_broadcast_frequency.private|has_broadcast_frequency.private]] 
 
-### #is_/same_as :: [has_broadcast_frequency.personal](/_personal/schema-org/Relation/has/has_broadcast_frequency.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_broadcast_frequency.personal|has_broadcast_frequency.personal]] 
 
-### #is_/same_as :: [has_broadcast_frequency.secret](/_secret/schema-org/Relation/has/has_broadcast_frequency.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_broadcast_frequency.secret|has_broadcast_frequency.secret]] 
 

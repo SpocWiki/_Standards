@@ -33,17 +33,17 @@ MeSH_tree_code: H01.181.590
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Computational_Chemistry](/_Standards/Chemistry/Branch_of_Chemistry/Computational_Chemistry.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Branch_of_Chemistry/Computational_Chemistry|Computational_Chemistry]] 
 
-### #is_/same_as :: [Computational_Chemistry.public](/_public/Chemistry/Branch_of_Chemistry/Computational_Chemistry.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Branch_of_Chemistry/Computational_Chemistry.public|Computational_Chemistry.public]] 
 
-### #is_/same_as :: [Computational_Chemistry.internal](/_internal/Chemistry/Branch_of_Chemistry/Computational_Chemistry.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Branch_of_Chemistry/Computational_Chemistry.internal|Computational_Chemistry.internal]] 
 
-### #is_/same_as :: [Computational_Chemistry.protect](/_protect/Chemistry/Branch_of_Chemistry/Computational_Chemistry.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Branch_of_Chemistry/Computational_Chemistry.protect|Computational_Chemistry.protect]] 
 
-### #is_/same_as :: [Computational_Chemistry.private](/_private/Chemistry/Branch_of_Chemistry/Computational_Chemistry.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Branch_of_Chemistry/Computational_Chemistry.private|Computational_Chemistry.private]] 
 
-### #is_/same_as :: [Computational_Chemistry.personal](/_personal/Chemistry/Branch_of_Chemistry/Computational_Chemistry.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Branch_of_Chemistry/Computational_Chemistry.personal|Computational_Chemistry.personal]] 
 
-### #is_/same_as :: [Computational_Chemistry.secret](/_secret/Chemistry/Branch_of_Chemistry/Computational_Chemistry.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Branch_of_Chemistry/Computational_Chemistry.secret|Computational_Chemistry.secret]] 
 

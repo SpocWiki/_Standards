@@ -44,17 +44,17 @@ Maximum hand girth (measured over the knuckles of the open right hand excluding 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Body_Measurement_Hand](/_Standards/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Hand.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Hand|Body_Measurement_Hand]] 
 
-### #is_/same_as :: [Body_Measurement_Hand.public](/_public/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Hand.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Hand.public|Body_Measurement_Hand.public]] 
 
-### #is_/same_as :: [Body_Measurement_Hand.internal](/_internal/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Hand.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Hand.internal|Body_Measurement_Hand.internal]] 
 
-### #is_/same_as :: [Body_Measurement_Hand.protect](/_protect/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Hand.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Hand.protect|Body_Measurement_Hand.protect]] 
 
-### #is_/same_as :: [Body_Measurement_Hand.private](/_private/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Hand.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Hand.private|Body_Measurement_Hand.private]] 
 
-### #is_/same_as :: [Body_Measurement_Hand.personal](/_personal/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Hand.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Hand.personal|Body_Measurement_Hand.personal]] 
 
-### #is_/same_as :: [Body_Measurement_Hand.secret](/_secret/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Hand.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Hand.secret|Body_Measurement_Hand.secret]] 
 

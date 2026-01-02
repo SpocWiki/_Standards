@@ -73,17 +73,17 @@ A piece of sculpture.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sculpture](/_Standards/Society/Communication/Media/Creative_Work/Sculpture.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Creative_Work/Sculpture|Sculpture]] 
 
-### #is_/same_as :: [Sculpture.public](/_public/Society/Communication/Media/Creative_Work/Sculpture.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Creative_Work/Sculpture.public|Sculpture.public]] 
 
-### #is_/same_as :: [Sculpture.internal](/_internal/Society/Communication/Media/Creative_Work/Sculpture.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Creative_Work/Sculpture.internal|Sculpture.internal]] 
 
-### #is_/same_as :: [Sculpture.protect](/_protect/Society/Communication/Media/Creative_Work/Sculpture.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Creative_Work/Sculpture.protect|Sculpture.protect]] 
 
-### #is_/same_as :: [Sculpture.private](/_private/Society/Communication/Media/Creative_Work/Sculpture.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Creative_Work/Sculpture.private|Sculpture.private]] 
 
-### #is_/same_as :: [Sculpture.personal](/_personal/Society/Communication/Media/Creative_Work/Sculpture.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/Sculpture.personal|Sculpture.personal]] 
 
-### #is_/same_as :: [Sculpture.secret](/_secret/Society/Communication/Media/Creative_Work/Sculpture.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Sculpture.secret|Sculpture.secret]] 
 

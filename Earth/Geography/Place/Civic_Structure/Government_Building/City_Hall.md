@@ -41,17 +41,17 @@ A city hall.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [City_Hall](/_Standards/Earth/Geography/Place/Civic_Structure/Government_Building/City_Hall.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geography/Place/Civic_Structure/Government_Building/City_Hall|City_Hall]] 
 
-### #is_/same_as :: [City_Hall.public](/_public/Earth/Geography/Place/Civic_Structure/Government_Building/City_Hall.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geography/Place/Civic_Structure/Government_Building/City_Hall.public|City_Hall.public]] 
 
-### #is_/same_as :: [City_Hall.internal](/_internal/Earth/Geography/Place/Civic_Structure/Government_Building/City_Hall.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geography/Place/Civic_Structure/Government_Building/City_Hall.internal|City_Hall.internal]] 
 
-### #is_/same_as :: [City_Hall.protect](/_protect/Earth/Geography/Place/Civic_Structure/Government_Building/City_Hall.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geography/Place/Civic_Structure/Government_Building/City_Hall.protect|City_Hall.protect]] 
 
-### #is_/same_as :: [City_Hall.private](/_private/Earth/Geography/Place/Civic_Structure/Government_Building/City_Hall.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geography/Place/Civic_Structure/Government_Building/City_Hall.private|City_Hall.private]] 
 
-### #is_/same_as :: [City_Hall.personal](/_personal/Earth/Geography/Place/Civic_Structure/Government_Building/City_Hall.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geography/Place/Civic_Structure/Government_Building/City_Hall.personal|City_Hall.personal]] 
 
-### #is_/same_as :: [City_Hall.secret](/_secret/Earth/Geography/Place/Civic_Structure/Government_Building/City_Hall.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geography/Place/Civic_Structure/Government_Building/City_Hall.secret|City_Hall.secret]] 
 

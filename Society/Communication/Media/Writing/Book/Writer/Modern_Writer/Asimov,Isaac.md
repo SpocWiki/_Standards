@@ -174,17 +174,17 @@ date_of_birth: 1920-01-02T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Asimov,Isaac](/_Standards/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Asimov,Isaac.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Asimov,Isaac|Asimov,Isaac]] 
 
-### #is_/same_as :: [Asimov,Isaac.public](/_public/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Asimov,Isaac.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Asimov,Isaac.public|Asimov,Isaac.public]] 
 
-### #is_/same_as :: [Asimov,Isaac.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Asimov,Isaac.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Asimov,Isaac.internal|Asimov,Isaac.internal]] 
 
-### #is_/same_as :: [Asimov,Isaac.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Asimov,Isaac.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Asimov,Isaac.protect|Asimov,Isaac.protect]] 
 
-### #is_/same_as :: [Asimov,Isaac.private](/_private/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Asimov,Isaac.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Asimov,Isaac.private|Asimov,Isaac.private]] 
 
-### #is_/same_as :: [Asimov,Isaac.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Asimov,Isaac.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Asimov,Isaac.personal|Asimov,Isaac.personal]] 
 
-### #is_/same_as :: [Asimov,Isaac.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Asimov,Isaac.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Asimov,Isaac.secret|Asimov,Isaac.secret]] 
 

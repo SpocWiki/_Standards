@@ -38,17 +38,17 @@ Commons_category: Selfishness
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Egoism](/_Standards/Society/Social_Relation/Egoism.md) 
+### #is_/same_as :: [[/_Standards/Society/Social_Relation/Egoism|Egoism]] 
 
-### #is_/same_as :: [Egoism.public](/_public/Society/Social_Relation/Egoism.public.md) 
+### #is_/same_as :: [[/_public/Society/Social_Relation/Egoism.public|Egoism.public]] 
 
-### #is_/same_as :: [Egoism.internal](/_internal/Society/Social_Relation/Egoism.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Social_Relation/Egoism.internal|Egoism.internal]] 
 
-### #is_/same_as :: [Egoism.protect](/_protect/Society/Social_Relation/Egoism.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Social_Relation/Egoism.protect|Egoism.protect]] 
 
-### #is_/same_as :: [Egoism.private](/_private/Society/Social_Relation/Egoism.private.md) 
+### #is_/same_as :: [[/_private/Society/Social_Relation/Egoism.private|Egoism.private]] 
 
-### #is_/same_as :: [Egoism.personal](/_personal/Society/Social_Relation/Egoism.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Social_Relation/Egoism.personal|Egoism.personal]] 
 
-### #is_/same_as :: [Egoism.secret](/_secret/Society/Social_Relation/Egoism.secret.md)
+### #is_/same_as :: [[/_secret/Society/Social_Relation/Egoism.secret|Egoism.secret]] 
 

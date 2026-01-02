@@ -143,17 +143,17 @@ Dewey_Decimal_Classification: 439.7
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lang-swe](/_Standards/Language/Language_Family/LangFamily-Indo-European/LangFamily-Germanic/Lang-swe.md) 
+### #is_/same_as :: [[/_Standards/Language/Language_Family/LangFamily-Indo-European/LangFamily-Germanic/Lang-swe|Lang-swe]] 
 
-### #is_/same_as :: [Lang-swe.public](/_public/Language/Language_Family/LangFamily-Indo-European/LangFamily-Germanic/Lang-swe.public.md) 
+### #is_/same_as :: [[/_public/Language/Language_Family/LangFamily-Indo-European/LangFamily-Germanic/Lang-swe.public|Lang-swe.public]] 
 
-### #is_/same_as :: [Lang-swe.internal](/_internal/Language/Language_Family/LangFamily-Indo-European/LangFamily-Germanic/Lang-swe.internal.md) 
+### #is_/same_as :: [[/_internal/Language/Language_Family/LangFamily-Indo-European/LangFamily-Germanic/Lang-swe.internal|Lang-swe.internal]] 
 
-### #is_/same_as :: [Lang-swe.protect](/_protect/Language/Language_Family/LangFamily-Indo-European/LangFamily-Germanic/Lang-swe.protect.md) 
+### #is_/same_as :: [[/_protect/Language/Language_Family/LangFamily-Indo-European/LangFamily-Germanic/Lang-swe.protect|Lang-swe.protect]] 
 
-### #is_/same_as :: [Lang-swe.private](/_private/Language/Language_Family/LangFamily-Indo-European/LangFamily-Germanic/Lang-swe.private.md) 
+### #is_/same_as :: [[/_private/Language/Language_Family/LangFamily-Indo-European/LangFamily-Germanic/Lang-swe.private|Lang-swe.private]] 
 
-### #is_/same_as :: [Lang-swe.personal](/_personal/Language/Language_Family/LangFamily-Indo-European/LangFamily-Germanic/Lang-swe.personal.md) 
+### #is_/same_as :: [[/_personal/Language/Language_Family/LangFamily-Indo-European/LangFamily-Germanic/Lang-swe.personal|Lang-swe.personal]] 
 
-### #is_/same_as :: [Lang-swe.secret](/_secret/Language/Language_Family/LangFamily-Indo-European/LangFamily-Germanic/Lang-swe.secret.md)
+### #is_/same_as :: [[/_secret/Language/Language_Family/LangFamily-Indo-European/LangFamily-Germanic/Lang-swe.secret|Lang-swe.secret]] 
 

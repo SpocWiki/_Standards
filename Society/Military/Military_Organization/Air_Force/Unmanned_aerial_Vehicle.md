@@ -96,17 +96,17 @@ Commons_gallery: Unmanned aerial vehicle
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Unmanned_aerial_Vehicle](/_Standards/Society/Military/Military_Organization/Air_Force/Unmanned_aerial_Vehicle.md) 
+### #is_/same_as :: [[/_Standards/Society/Military/Military_Organization/Air_Force/Unmanned_aerial_Vehicle|Unmanned_aerial_Vehicle]] 
 
-### #is_/same_as :: [Unmanned_aerial_Vehicle.public](/_public/Society/Military/Military_Organization/Air_Force/Unmanned_aerial_Vehicle.public.md) 
+### #is_/same_as :: [[/_public/Society/Military/Military_Organization/Air_Force/Unmanned_aerial_Vehicle.public|Unmanned_aerial_Vehicle.public]] 
 
-### #is_/same_as :: [Unmanned_aerial_Vehicle.internal](/_internal/Society/Military/Military_Organization/Air_Force/Unmanned_aerial_Vehicle.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Military/Military_Organization/Air_Force/Unmanned_aerial_Vehicle.internal|Unmanned_aerial_Vehicle.internal]] 
 
-### #is_/same_as :: [Unmanned_aerial_Vehicle.protect](/_protect/Society/Military/Military_Organization/Air_Force/Unmanned_aerial_Vehicle.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Military/Military_Organization/Air_Force/Unmanned_aerial_Vehicle.protect|Unmanned_aerial_Vehicle.protect]] 
 
-### #is_/same_as :: [Unmanned_aerial_Vehicle.private](/_private/Society/Military/Military_Organization/Air_Force/Unmanned_aerial_Vehicle.private.md) 
+### #is_/same_as :: [[/_private/Society/Military/Military_Organization/Air_Force/Unmanned_aerial_Vehicle.private|Unmanned_aerial_Vehicle.private]] 
 
-### #is_/same_as :: [Unmanned_aerial_Vehicle.personal](/_personal/Society/Military/Military_Organization/Air_Force/Unmanned_aerial_Vehicle.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Military/Military_Organization/Air_Force/Unmanned_aerial_Vehicle.personal|Unmanned_aerial_Vehicle.personal]] 
 
-### #is_/same_as :: [Unmanned_aerial_Vehicle.secret](/_secret/Society/Military/Military_Organization/Air_Force/Unmanned_aerial_Vehicle.secret.md)
+### #is_/same_as :: [[/_secret/Society/Military/Military_Organization/Air_Force/Unmanned_aerial_Vehicle.secret|Unmanned_aerial_Vehicle.secret]] 
 

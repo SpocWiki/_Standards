@@ -203,23 +203,23 @@ to the eyes. One of the earliest known fossil lamprey, Mayomyzon
 (bottom), from the Late Carboniferous of Illinois, may not have been
 such a parasitic form and had a stouter body than modern lampreys)
 (after Bardack & Zangerl 1971).
-![](Hyperoartia/hyperoartia.gif))
+![](Hyperoartia/hyperoartia.gif) 
 Copyright ::   © 1997 Philippe Janvier
 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hyperoartia](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Hyperoartia.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Hyperoartia|Hyperoartia]] 
 
-### #is_/same_as :: [Hyperoartia.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Hyperoartia.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Hyperoartia.public|Hyperoartia.public]] 
 
-### #is_/same_as :: [Hyperoartia.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Hyperoartia.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Hyperoartia.internal|Hyperoartia.internal]] 
 
-### #is_/same_as :: [Hyperoartia.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Hyperoartia.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Hyperoartia.protect|Hyperoartia.protect]] 
 
-### #is_/same_as :: [Hyperoartia.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Hyperoartia.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Hyperoartia.private|Hyperoartia.private]] 
 
-### #is_/same_as :: [Hyperoartia.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Hyperoartia.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Hyperoartia.personal|Hyperoartia.personal]] 
 
-### #is_/same_as :: [Hyperoartia.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Hyperoartia.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Hyperoartia.secret|Hyperoartia.secret]] 
 

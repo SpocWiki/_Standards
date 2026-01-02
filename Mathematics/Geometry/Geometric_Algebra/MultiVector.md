@@ -46,17 +46,17 @@ Commons_category: Multivectors
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [MultiVector](/_Standards/Mathematics/Geometry/Geometric_Algebra/MultiVector.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Geometry/Geometric_Algebra/MultiVector|MultiVector]] 
 
-### #is_/same_as :: [MultiVector.public](/_public/Mathematics/Geometry/Geometric_Algebra/MultiVector.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Geometry/Geometric_Algebra/MultiVector.public|MultiVector.public]] 
 
-### #is_/same_as :: [MultiVector.internal](/_internal/Mathematics/Geometry/Geometric_Algebra/MultiVector.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Geometry/Geometric_Algebra/MultiVector.internal|MultiVector.internal]] 
 
-### #is_/same_as :: [MultiVector.protect](/_protect/Mathematics/Geometry/Geometric_Algebra/MultiVector.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Geometry/Geometric_Algebra/MultiVector.protect|MultiVector.protect]] 
 
-### #is_/same_as :: [MultiVector.private](/_private/Mathematics/Geometry/Geometric_Algebra/MultiVector.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Geometry/Geometric_Algebra/MultiVector.private|MultiVector.private]] 
 
-### #is_/same_as :: [MultiVector.personal](/_personal/Mathematics/Geometry/Geometric_Algebra/MultiVector.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Geometry/Geometric_Algebra/MultiVector.personal|MultiVector.personal]] 
 
-### #is_/same_as :: [MultiVector.secret](/_secret/Mathematics/Geometry/Geometric_Algebra/MultiVector.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Geometry/Geometric_Algebra/MultiVector.secret|MultiVector.secret]] 
 

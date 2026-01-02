@@ -23,7 +23,7 @@ start_time: -37000000-06
 # Dermoptera
 
 ## Colugos or flying lemurs and their extinct relatives 
-![ ](Dermoptera/453554996_ec252c76e5_o.jpg))
+![ ](Dermoptera/453554996_ec252c76e5_o.jpg) 
 
 #is_/same_as :: [[../../../../../../../../../../../../../../../../../WikiData/WD~Dermoptera,183383|WD~Dermoptera,183383]] 
 
@@ -94,7 +94,7 @@ start_time: -37000000-06
 ## Title Illustrations
 
 ---------------------------------------------------------------- 
-![](Dermoptera/453554996_ec252c76e5_o.jpg))
+![](Dermoptera/453554996_ec252c76e5_o.jpg) 
 Scientific Name ::     Cynocephalus variegatus
 Location ::           Central Catchment area, Singapore
 Specimen Condition   Live Specimen
@@ -106,7 +106,7 @@ Image Use ::    [Attribution-NonCommercial-NoDerivs 2.0 Creative Commons License
 Copyright ::            © 2006 [Lip Kee Yap](http://flickr.com/people/64565252@N00)
 
 ---------------------------------------------------------------- 
-![](Dermoptera/143391931_24b3a608ff_b.jpg))
+![](Dermoptera/143391931_24b3a608ff_b.jpg) 
 Scientific Name ::     Cynocephalus variegatus
 Location ::           Langkawi Island, Malaysia
 Specimen Condition   Live Specimen
@@ -116,7 +116,7 @@ Image Use ::    [Attribution-NoDerivs 2.0 Creative Commons License](http://creat
 Copyright ::            © 2006 [Peter MacDonald](http://flickr.com/people/petermacdonald/)
 
 ------------------------------------------------------------ 
-![](Dermoptera/296191800_deaec8342c_o.jpg))
+![](Dermoptera/296191800_deaec8342c_o.jpg) 
 Scientific Name ::     Cynocephalus variegatus
 Location ::           MacRitchie Reservoir, Singapore
 Specimen Condition   Live Specimen
@@ -128,17 +128,17 @@ Copyright ::            © 2006 [Jwee](http://flickr.com/people/64684201@N00)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Dermoptera](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Dermoptera.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Dermoptera|Dermoptera]] 
 
-### #is_/same_as :: [Dermoptera.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Dermoptera.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Dermoptera.public|Dermoptera.public]] 
 
-### #is_/same_as :: [Dermoptera.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Dermoptera.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Dermoptera.internal|Dermoptera.internal]] 
 
-### #is_/same_as :: [Dermoptera.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Dermoptera.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Dermoptera.protect|Dermoptera.protect]] 
 
-### #is_/same_as :: [Dermoptera.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Dermoptera.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Dermoptera.private|Dermoptera.private]] 
 
-### #is_/same_as :: [Dermoptera.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Dermoptera.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Dermoptera.personal|Dermoptera.personal]] 
 
-### #is_/same_as :: [Dermoptera.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Dermoptera.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Dermoptera.secret|Dermoptera.secret]] 
 

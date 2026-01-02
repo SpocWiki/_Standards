@@ -119,17 +119,17 @@ UMLS_CUI: C0221460
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Farmer](/_Standards/Society/Economics/Industry/Agriculture/Farm/Farmer.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Industry/Agriculture/Farm/Farmer|Farmer]] 
 
-### #is_/same_as :: [Farmer.public](/_public/Society/Economics/Industry/Agriculture/Farm/Farmer.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Industry/Agriculture/Farm/Farmer.public|Farmer.public]] 
 
-### #is_/same_as :: [Farmer.internal](/_internal/Society/Economics/Industry/Agriculture/Farm/Farmer.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Industry/Agriculture/Farm/Farmer.internal|Farmer.internal]] 
 
-### #is_/same_as :: [Farmer.protect](/_protect/Society/Economics/Industry/Agriculture/Farm/Farmer.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Industry/Agriculture/Farm/Farmer.protect|Farmer.protect]] 
 
-### #is_/same_as :: [Farmer.private](/_private/Society/Economics/Industry/Agriculture/Farm/Farmer.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Industry/Agriculture/Farm/Farmer.private|Farmer.private]] 
 
-### #is_/same_as :: [Farmer.personal](/_personal/Society/Economics/Industry/Agriculture/Farm/Farmer.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Industry/Agriculture/Farm/Farmer.personal|Farmer.personal]] 
 
-### #is_/same_as :: [Farmer.secret](/_secret/Society/Economics/Industry/Agriculture/Farm/Farmer.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Industry/Agriculture/Farm/Farmer.secret|Farmer.secret]] 
 

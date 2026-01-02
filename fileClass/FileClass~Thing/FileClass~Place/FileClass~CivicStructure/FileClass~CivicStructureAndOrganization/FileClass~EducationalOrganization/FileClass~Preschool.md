@@ -37,17 +37,17 @@ A preschool.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~Preschool](/_Standards/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~CivicStructureAndOrganization/FileClass~EducationalOrganization/FileClass~Preschool.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~CivicStructureAndOrganization/FileClass~EducationalOrganization/FileClass~Preschool|FileClass~Preschool]] 
 
-### #is_/same_as :: [FileClass~Preschool.public](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~CivicStructureAndOrganization/FileClass~EducationalOrganization/FileClass~Preschool.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~CivicStructureAndOrganization/FileClass~EducationalOrganization/FileClass~Preschool.public|FileClass~Preschool.public]] 
 
-### #is_/same_as :: [FileClass~Preschool.internal](/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~CivicStructureAndOrganization/FileClass~EducationalOrganization/FileClass~Preschool.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~CivicStructureAndOrganization/FileClass~EducationalOrganization/FileClass~Preschool.internal|FileClass~Preschool.internal]] 
 
-### #is_/same_as :: [FileClass~Preschool.protect](/_protect/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~CivicStructureAndOrganization/FileClass~EducationalOrganization/FileClass~Preschool.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~CivicStructureAndOrganization/FileClass~EducationalOrganization/FileClass~Preschool.protect|FileClass~Preschool.protect]] 
 
-### #is_/same_as :: [FileClass~Preschool.private](/_private/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~CivicStructureAndOrganization/FileClass~EducationalOrganization/FileClass~Preschool.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~CivicStructureAndOrganization/FileClass~EducationalOrganization/FileClass~Preschool.private|FileClass~Preschool.private]] 
 
-### #is_/same_as :: [FileClass~Preschool.personal](/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~CivicStructureAndOrganization/FileClass~EducationalOrganization/FileClass~Preschool.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~CivicStructureAndOrganization/FileClass~EducationalOrganization/FileClass~Preschool.personal|FileClass~Preschool.personal]] 
 
-### #is_/same_as :: [FileClass~Preschool.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~CivicStructureAndOrganization/FileClass~EducationalOrganization/FileClass~Preschool.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~CivicStructureAndOrganization/FileClass~EducationalOrganization/FileClass~Preschool.secret|FileClass~Preschool.secret]] 
 

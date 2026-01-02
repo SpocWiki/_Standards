@@ -61,17 +61,17 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Top%20quark.svg
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Top_Quark](/_Standards/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron/Quark/Top_Quark.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron/Quark/Top_Quark|Top_Quark]] 
 
-### #is_/same_as :: [Top_Quark.public](/_public/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron/Quark/Top_Quark.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron/Quark/Top_Quark.public|Top_Quark.public]] 
 
-### #is_/same_as :: [Top_Quark.internal](/_internal/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron/Quark/Top_Quark.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron/Quark/Top_Quark.internal|Top_Quark.internal]] 
 
-### #is_/same_as :: [Top_Quark.protect](/_protect/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron/Quark/Top_Quark.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron/Quark/Top_Quark.protect|Top_Quark.protect]] 
 
-### #is_/same_as :: [Top_Quark.private](/_private/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron/Quark/Top_Quark.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron/Quark/Top_Quark.private|Top_Quark.private]] 
 
-### #is_/same_as :: [Top_Quark.personal](/_personal/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron/Quark/Top_Quark.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron/Quark/Top_Quark.personal|Top_Quark.personal]] 
 
-### #is_/same_as :: [Top_Quark.secret](/_secret/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron/Quark/Top_Quark.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron/Quark/Top_Quark.secret|Top_Quark.secret]] 
 

@@ -58,17 +58,17 @@ Dewey_Decimal_Classification:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Doll](/_Standards/Society/Communication/Media/Creative_Work/Game/Toy/Doll.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Creative_Work/Game/Toy/Doll|Doll]] 
 
-### #is_/same_as :: [Doll.public](/_public/Society/Communication/Media/Creative_Work/Game/Toy/Doll.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Creative_Work/Game/Toy/Doll.public|Doll.public]] 
 
-### #is_/same_as :: [Doll.internal](/_internal/Society/Communication/Media/Creative_Work/Game/Toy/Doll.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Creative_Work/Game/Toy/Doll.internal|Doll.internal]] 
 
-### #is_/same_as :: [Doll.protect](/_protect/Society/Communication/Media/Creative_Work/Game/Toy/Doll.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Creative_Work/Game/Toy/Doll.protect|Doll.protect]] 
 
-### #is_/same_as :: [Doll.private](/_private/Society/Communication/Media/Creative_Work/Game/Toy/Doll.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Creative_Work/Game/Toy/Doll.private|Doll.private]] 
 
-### #is_/same_as :: [Doll.personal](/_personal/Society/Communication/Media/Creative_Work/Game/Toy/Doll.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/Game/Toy/Doll.personal|Doll.personal]] 
 
-### #is_/same_as :: [Doll.secret](/_secret/Society/Communication/Media/Creative_Work/Game/Toy/Doll.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Game/Toy/Doll.secret|Doll.secret]] 
 

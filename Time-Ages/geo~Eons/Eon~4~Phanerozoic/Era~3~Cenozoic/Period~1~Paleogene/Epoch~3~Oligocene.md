@@ -72,17 +72,17 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Epoch~3~Oligocene](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene/Epoch~3~Oligocene.md) 
+### #is_/same_as :: [[/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene/Epoch~3~Oligocene|Epoch~3~Oligocene]] 
 
-### #is_/same_as :: [Epoch~3~Oligocene.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene/Epoch~3~Oligocene.public.md) 
+### #is_/same_as :: [[/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene/Epoch~3~Oligocene.public|Epoch~3~Oligocene.public]] 
 
-### #is_/same_as :: [Epoch~3~Oligocene.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene/Epoch~3~Oligocene.internal.md) 
+### #is_/same_as :: [[/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene/Epoch~3~Oligocene.internal|Epoch~3~Oligocene.internal]] 
 
-### #is_/same_as :: [Epoch~3~Oligocene.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene/Epoch~3~Oligocene.protect.md) 
+### #is_/same_as :: [[/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene/Epoch~3~Oligocene.protect|Epoch~3~Oligocene.protect]] 
 
-### #is_/same_as :: [Epoch~3~Oligocene.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene/Epoch~3~Oligocene.private.md) 
+### #is_/same_as :: [[/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene/Epoch~3~Oligocene.private|Epoch~3~Oligocene.private]] 
 
-### #is_/same_as :: [Epoch~3~Oligocene.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene/Epoch~3~Oligocene.personal.md) 
+### #is_/same_as :: [[/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene/Epoch~3~Oligocene.personal|Epoch~3~Oligocene.personal]] 
 
-### #is_/same_as :: [Epoch~3~Oligocene.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene/Epoch~3~Oligocene.secret.md)
+### #is_/same_as :: [[/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene/Epoch~3~Oligocene.secret|Epoch~3~Oligocene.secret]] 
 

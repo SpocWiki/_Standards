@@ -117,17 +117,17 @@ service_retirement: 2020-01-30T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Spitzer_Space_Telescope](/_Standards/Technology/Tool/Instrumentation/Telescope/Spitzer_Space_Telescope.md) 
+### #is_/same_as :: [[/_Standards/Technology/Tool/Instrumentation/Telescope/Spitzer_Space_Telescope|Spitzer_Space_Telescope]] 
 
-### #is_/same_as :: [Spitzer_Space_Telescope.public](/_public/Technology/Tool/Instrumentation/Telescope/Spitzer_Space_Telescope.public.md) 
+### #is_/same_as :: [[/_public/Technology/Tool/Instrumentation/Telescope/Spitzer_Space_Telescope.public|Spitzer_Space_Telescope.public]] 
 
-### #is_/same_as :: [Spitzer_Space_Telescope.internal](/_internal/Technology/Tool/Instrumentation/Telescope/Spitzer_Space_Telescope.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Tool/Instrumentation/Telescope/Spitzer_Space_Telescope.internal|Spitzer_Space_Telescope.internal]] 
 
-### #is_/same_as :: [Spitzer_Space_Telescope.protect](/_protect/Technology/Tool/Instrumentation/Telescope/Spitzer_Space_Telescope.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Tool/Instrumentation/Telescope/Spitzer_Space_Telescope.protect|Spitzer_Space_Telescope.protect]] 
 
-### #is_/same_as :: [Spitzer_Space_Telescope.private](/_private/Technology/Tool/Instrumentation/Telescope/Spitzer_Space_Telescope.private.md) 
+### #is_/same_as :: [[/_private/Technology/Tool/Instrumentation/Telescope/Spitzer_Space_Telescope.private|Spitzer_Space_Telescope.private]] 
 
-### #is_/same_as :: [Spitzer_Space_Telescope.personal](/_personal/Technology/Tool/Instrumentation/Telescope/Spitzer_Space_Telescope.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Tool/Instrumentation/Telescope/Spitzer_Space_Telescope.personal|Spitzer_Space_Telescope.personal]] 
 
-### #is_/same_as :: [Spitzer_Space_Telescope.secret](/_secret/Technology/Tool/Instrumentation/Telescope/Spitzer_Space_Telescope.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Tool/Instrumentation/Telescope/Spitzer_Space_Telescope.secret|Spitzer_Space_Telescope.secret]] 
 

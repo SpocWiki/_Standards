@@ -53,17 +53,17 @@ Eye or ophthalmological function assessment with clinical examination.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Eye_Exam](/_Standards/bio/Medicine/Medical_Enumeration/Physical_Exam/Eye_Exam.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Enumeration/Physical_Exam/Eye_Exam|Eye_Exam]] 
 
-### #is_/same_as :: [Eye_Exam.public](/_public/bio/Medicine/Medical_Enumeration/Physical_Exam/Eye_Exam.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Enumeration/Physical_Exam/Eye_Exam.public|Eye_Exam.public]] 
 
-### #is_/same_as :: [Eye_Exam.internal](/_internal/bio/Medicine/Medical_Enumeration/Physical_Exam/Eye_Exam.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Enumeration/Physical_Exam/Eye_Exam.internal|Eye_Exam.internal]] 
 
-### #is_/same_as :: [Eye_Exam.protect](/_protect/bio/Medicine/Medical_Enumeration/Physical_Exam/Eye_Exam.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Enumeration/Physical_Exam/Eye_Exam.protect|Eye_Exam.protect]] 
 
-### #is_/same_as :: [Eye_Exam.private](/_private/bio/Medicine/Medical_Enumeration/Physical_Exam/Eye_Exam.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Enumeration/Physical_Exam/Eye_Exam.private|Eye_Exam.private]] 
 
-### #is_/same_as :: [Eye_Exam.personal](/_personal/bio/Medicine/Medical_Enumeration/Physical_Exam/Eye_Exam.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Enumeration/Physical_Exam/Eye_Exam.personal|Eye_Exam.personal]] 
 
-### #is_/same_as :: [Eye_Exam.secret](/_secret/bio/Medicine/Medical_Enumeration/Physical_Exam/Eye_Exam.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Enumeration/Physical_Exam/Eye_Exam.secret|Eye_Exam.secret]] 
 

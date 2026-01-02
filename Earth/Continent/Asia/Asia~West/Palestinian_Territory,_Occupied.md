@@ -41,17 +41,17 @@ Capital :: [[Israel/Counties/Jerusalem]]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Palestinian_Territory,_Occupied](/_Standards/Earth/Continent/Asia/Asia~West/Palestinian_Territory,_Occupied.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~West/Palestinian_Territory,_Occupied|Palestinian_Territory,_Occupied]] 
 
-### #is_/same_as :: [Palestinian_Territory,_Occupied.public](/_public/Earth/Continent/Asia/Asia~West/Palestinian_Territory,_Occupied.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~West/Palestinian_Territory,_Occupied.public|Palestinian_Territory,_Occupied.public]] 
 
-### #is_/same_as :: [Palestinian_Territory,_Occupied.internal](/_internal/Earth/Continent/Asia/Asia~West/Palestinian_Territory,_Occupied.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~West/Palestinian_Territory,_Occupied.internal|Palestinian_Territory,_Occupied.internal]] 
 
-### #is_/same_as :: [Palestinian_Territory,_Occupied.protect](/_protect/Earth/Continent/Asia/Asia~West/Palestinian_Territory,_Occupied.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~West/Palestinian_Territory,_Occupied.protect|Palestinian_Territory,_Occupied.protect]] 
 
-### #is_/same_as :: [Palestinian_Territory,_Occupied.private](/_private/Earth/Continent/Asia/Asia~West/Palestinian_Territory,_Occupied.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~West/Palestinian_Territory,_Occupied.private|Palestinian_Territory,_Occupied.private]] 
 
-### #is_/same_as :: [Palestinian_Territory,_Occupied.personal](/_personal/Earth/Continent/Asia/Asia~West/Palestinian_Territory,_Occupied.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~West/Palestinian_Territory,_Occupied.personal|Palestinian_Territory,_Occupied.personal]] 
 
-### #is_/same_as :: [Palestinian_Territory,_Occupied.secret](/_secret/Earth/Continent/Asia/Asia~West/Palestinian_Territory,_Occupied.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~West/Palestinian_Territory,_Occupied.secret|Palestinian_Territory,_Occupied.secret]] 
 

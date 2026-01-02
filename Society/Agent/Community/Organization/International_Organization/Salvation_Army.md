@@ -202,17 +202,17 @@ Instagram_username: salvationarmyus
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Salvation_Army](/_Standards/Society/Agent/Community/Organization/International_Organization/Salvation_Army.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/International_Organization/Salvation_Army|Salvation_Army]] 
 
-### #is_/same_as :: [Salvation_Army.public](/_public/Society/Agent/Community/Organization/International_Organization/Salvation_Army.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/International_Organization/Salvation_Army.public|Salvation_Army.public]] 
 
-### #is_/same_as :: [Salvation_Army.internal](/_internal/Society/Agent/Community/Organization/International_Organization/Salvation_Army.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/International_Organization/Salvation_Army.internal|Salvation_Army.internal]] 
 
-### #is_/same_as :: [Salvation_Army.protect](/_protect/Society/Agent/Community/Organization/International_Organization/Salvation_Army.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/International_Organization/Salvation_Army.protect|Salvation_Army.protect]] 
 
-### #is_/same_as :: [Salvation_Army.private](/_private/Society/Agent/Community/Organization/International_Organization/Salvation_Army.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/International_Organization/Salvation_Army.private|Salvation_Army.private]] 
 
-### #is_/same_as :: [Salvation_Army.personal](/_personal/Society/Agent/Community/Organization/International_Organization/Salvation_Army.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/International_Organization/Salvation_Army.personal|Salvation_Army.personal]] 
 
-### #is_/same_as :: [Salvation_Army.secret](/_secret/Society/Agent/Community/Organization/International_Organization/Salvation_Army.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/International_Organization/Salvation_Army.secret|Salvation_Army.secret]] 
 

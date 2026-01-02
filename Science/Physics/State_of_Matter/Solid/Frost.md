@@ -56,17 +56,17 @@ image:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Frost](/_Standards/Science/Physics/State_of_Matter/Solid/Frost.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/State_of_Matter/Solid/Frost|Frost]] 
 
-### #is_/same_as :: [Frost.public](/_public/Science/Physics/State_of_Matter/Solid/Frost.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/State_of_Matter/Solid/Frost.public|Frost.public]] 
 
-### #is_/same_as :: [Frost.internal](/_internal/Science/Physics/State_of_Matter/Solid/Frost.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/State_of_Matter/Solid/Frost.internal|Frost.internal]] 
 
-### #is_/same_as :: [Frost.protect](/_protect/Science/Physics/State_of_Matter/Solid/Frost.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/State_of_Matter/Solid/Frost.protect|Frost.protect]] 
 
-### #is_/same_as :: [Frost.private](/_private/Science/Physics/State_of_Matter/Solid/Frost.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/State_of_Matter/Solid/Frost.private|Frost.private]] 
 
-### #is_/same_as :: [Frost.personal](/_personal/Science/Physics/State_of_Matter/Solid/Frost.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/State_of_Matter/Solid/Frost.personal|Frost.personal]] 
 
-### #is_/same_as :: [Frost.secret](/_secret/Science/Physics/State_of_Matter/Solid/Frost.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/State_of_Matter/Solid/Frost.secret|Frost.secret]] 
 

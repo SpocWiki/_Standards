@@ -39,7 +39,7 @@ title: Nataloidea
 # Nataloidea 
 
 [Nancy B. Simmons and Tenley Conway]()
-![ ](Nataloidea/thyroptera_tricolor.gif))![ ](Nataloidea/furipterus_horrens.gif))
+![ ](Nataloidea/thyroptera_tricolor.gif))![ ](Nataloidea/furipterus_horrens.gif) 
 
 Tree from Simmons (1998) and Simmons and Geisler (1998).
 
@@ -84,7 +84,7 @@ Relationships within the only two speciouse groups, Thyropteridae and
 Natalidae, have never been formally analyzed.
 
 ### Geographic Distribution
-![ ](Nataloidea/nataloidea.gif))
+![ ](Nataloidea/nataloidea.gif) 
 
 The geographical distribution of Nataloidea is shown in red.
 Distribution from Hill and Smith (1984).
@@ -116,13 +116,13 @@ of Natural History. 235:1-182.
 
 Thyroptera tricolor (Thyropteridae) and Furipterus horrens
 (Furipteridae). Copyright © Nancy Simmons 1998
-![](Nataloidea/thyroptera_tricolor.gif))
+![](Nataloidea/thyroptera_tricolor.gif) 
 
   ----------
   Scientific Name ::  Thyroptera tricolor
   Copyright ::         © 1998 Nancy Simmons
   ----------
-![](Nataloidea/furipterus_horrens.gif))
+![](Nataloidea/furipterus_horrens.gif) 
 
   ----------
   Scientific Name ::  Furipterus horrens
@@ -132,17 +132,17 @@ Thyroptera tricolor (Thyropteridae) and Furipterus horrens
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Nataloidea](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Bat/Microchiroptera/Nataloidea.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Bat/Microchiroptera/Nataloidea|Nataloidea]] 
 
-### #is_/same_as :: [Nataloidea.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Bat/Microchiroptera/Nataloidea.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Bat/Microchiroptera/Nataloidea.public|Nataloidea.public]] 
 
-### #is_/same_as :: [Nataloidea.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Bat/Microchiroptera/Nataloidea.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Bat/Microchiroptera/Nataloidea.internal|Nataloidea.internal]] 
 
-### #is_/same_as :: [Nataloidea.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Bat/Microchiroptera/Nataloidea.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Bat/Microchiroptera/Nataloidea.protect|Nataloidea.protect]] 
 
-### #is_/same_as :: [Nataloidea.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Bat/Microchiroptera/Nataloidea.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Bat/Microchiroptera/Nataloidea.private|Nataloidea.private]] 
 
-### #is_/same_as :: [Nataloidea.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Bat/Microchiroptera/Nataloidea.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Bat/Microchiroptera/Nataloidea.personal|Nataloidea.personal]] 
 
-### #is_/same_as :: [Nataloidea.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Bat/Microchiroptera/Nataloidea.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Bat/Microchiroptera/Nataloidea.secret|Nataloidea.secret]] 
 

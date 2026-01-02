@@ -40,17 +40,17 @@ markerFolder: ./Aimeliik/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Aimeliik](/_Standards/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Aimeliik.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Aimeliik|Aimeliik]] 
 
-### #is_/same_as :: [Aimeliik.public](/_public/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Aimeliik.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Aimeliik.public|Aimeliik.public]] 
 
-### #is_/same_as :: [Aimeliik.internal](/_internal/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Aimeliik.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Aimeliik.internal|Aimeliik.internal]] 
 
-### #is_/same_as :: [Aimeliik.protect](/_protect/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Aimeliik.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Aimeliik.protect|Aimeliik.protect]] 
 
-### #is_/same_as :: [Aimeliik.private](/_private/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Aimeliik.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Aimeliik.private|Aimeliik.private]] 
 
-### #is_/same_as :: [Aimeliik.personal](/_personal/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Aimeliik.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Aimeliik.personal|Aimeliik.personal]] 
 
-### #is_/same_as :: [Aimeliik.secret](/_secret/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Aimeliik.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Aimeliik.secret|Aimeliik.secret]] 
 

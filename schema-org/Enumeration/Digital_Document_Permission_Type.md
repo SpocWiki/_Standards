@@ -39,17 +39,17 @@ A type of permission which can be granted for accessing a digital document.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Digital_Document_Permission_Type](/_Standards/schema-org/Enumeration/Digital_Document_Permission_Type.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Digital_Document_Permission_Type|Digital_Document_Permission_Type]] 
 
-### #is_/same_as :: [Digital_Document_Permission_Type.public](/_public/schema-org/Enumeration/Digital_Document_Permission_Type.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Digital_Document_Permission_Type.public|Digital_Document_Permission_Type.public]] 
 
-### #is_/same_as :: [Digital_Document_Permission_Type.internal](/_internal/schema-org/Enumeration/Digital_Document_Permission_Type.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Digital_Document_Permission_Type.internal|Digital_Document_Permission_Type.internal]] 
 
-### #is_/same_as :: [Digital_Document_Permission_Type.protect](/_protect/schema-org/Enumeration/Digital_Document_Permission_Type.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Digital_Document_Permission_Type.protect|Digital_Document_Permission_Type.protect]] 
 
-### #is_/same_as :: [Digital_Document_Permission_Type.private](/_private/schema-org/Enumeration/Digital_Document_Permission_Type.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Digital_Document_Permission_Type.private|Digital_Document_Permission_Type.private]] 
 
-### #is_/same_as :: [Digital_Document_Permission_Type.personal](/_personal/schema-org/Enumeration/Digital_Document_Permission_Type.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Digital_Document_Permission_Type.personal|Digital_Document_Permission_Type.personal]] 
 
-### #is_/same_as :: [Digital_Document_Permission_Type.secret](/_secret/schema-org/Enumeration/Digital_Document_Permission_Type.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Digital_Document_Permission_Type.secret|Digital_Document_Permission_Type.secret]] 
 

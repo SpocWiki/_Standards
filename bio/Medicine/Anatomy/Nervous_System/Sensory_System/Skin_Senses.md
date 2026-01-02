@@ -9,17 +9,17 @@ sending information through the **somatosensory cortex**.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Skin_Senses](/_Standards/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Skin_Senses.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Skin_Senses|Skin_Senses]] 
 
-### #is_/same_as :: [Skin_Senses.public](/_public/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Skin_Senses.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Skin_Senses.public|Skin_Senses.public]] 
 
-### #is_/same_as :: [Skin_Senses.internal](/_internal/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Skin_Senses.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Skin_Senses.internal|Skin_Senses.internal]] 
 
-### #is_/same_as :: [Skin_Senses.protect](/_protect/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Skin_Senses.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Skin_Senses.protect|Skin_Senses.protect]] 
 
-### #is_/same_as :: [Skin_Senses.private](/_private/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Skin_Senses.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Skin_Senses.private|Skin_Senses.private]] 
 
-### #is_/same_as :: [Skin_Senses.personal](/_personal/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Skin_Senses.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Skin_Senses.personal|Skin_Senses.personal]] 
 
-### #is_/same_as :: [Skin_Senses.secret](/_secret/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Skin_Senses.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Skin_Senses.secret|Skin_Senses.secret]] 
 

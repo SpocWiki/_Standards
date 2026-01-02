@@ -39,17 +39,17 @@ Commons_category: Literature of the Czech Republic
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Czech_Literature](/_Standards/Society/Communication/Media/Writing/Book/Literature/Czech_Literature.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Literature/Czech_Literature|Czech_Literature]] 
 
-### #is_/same_as :: [Czech_Literature.public](/_public/Society/Communication/Media/Writing/Book/Literature/Czech_Literature.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Literature/Czech_Literature.public|Czech_Literature.public]] 
 
-### #is_/same_as :: [Czech_Literature.internal](/_internal/Society/Communication/Media/Writing/Book/Literature/Czech_Literature.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Literature/Czech_Literature.internal|Czech_Literature.internal]] 
 
-### #is_/same_as :: [Czech_Literature.protect](/_protect/Society/Communication/Media/Writing/Book/Literature/Czech_Literature.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Literature/Czech_Literature.protect|Czech_Literature.protect]] 
 
-### #is_/same_as :: [Czech_Literature.private](/_private/Society/Communication/Media/Writing/Book/Literature/Czech_Literature.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Literature/Czech_Literature.private|Czech_Literature.private]] 
 
-### #is_/same_as :: [Czech_Literature.personal](/_personal/Society/Communication/Media/Writing/Book/Literature/Czech_Literature.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Literature/Czech_Literature.personal|Czech_Literature.personal]] 
 
-### #is_/same_as :: [Czech_Literature.secret](/_secret/Society/Communication/Media/Writing/Book/Literature/Czech_Literature.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Literature/Czech_Literature.secret|Czech_Literature.secret]] 
 

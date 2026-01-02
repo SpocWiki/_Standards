@@ -56,17 +56,17 @@ UNII: X72Z47861V
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Paprika](/_Standards/Society/Economics/Home_Economics/Cooking/Seasoning/Spice/Paprika.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Home_Economics/Cooking/Seasoning/Spice/Paprika|Paprika]] 
 
-### #is_/same_as :: [Paprika.public](/_public/Society/Economics/Home_Economics/Cooking/Seasoning/Spice/Paprika.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Home_Economics/Cooking/Seasoning/Spice/Paprika.public|Paprika.public]] 
 
-### #is_/same_as :: [Paprika.internal](/_internal/Society/Economics/Home_Economics/Cooking/Seasoning/Spice/Paprika.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Home_Economics/Cooking/Seasoning/Spice/Paprika.internal|Paprika.internal]] 
 
-### #is_/same_as :: [Paprika.protect](/_protect/Society/Economics/Home_Economics/Cooking/Seasoning/Spice/Paprika.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Home_Economics/Cooking/Seasoning/Spice/Paprika.protect|Paprika.protect]] 
 
-### #is_/same_as :: [Paprika.private](/_private/Society/Economics/Home_Economics/Cooking/Seasoning/Spice/Paprika.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Home_Economics/Cooking/Seasoning/Spice/Paprika.private|Paprika.private]] 
 
-### #is_/same_as :: [Paprika.personal](/_personal/Society/Economics/Home_Economics/Cooking/Seasoning/Spice/Paprika.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Home_Economics/Cooking/Seasoning/Spice/Paprika.personal|Paprika.personal]] 
 
-### #is_/same_as :: [Paprika.secret](/_secret/Society/Economics/Home_Economics/Cooking/Seasoning/Spice/Paprika.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Home_Economics/Cooking/Seasoning/Spice/Paprika.secret|Paprika.secret]] 
 

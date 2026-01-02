@@ -77,17 +77,17 @@ MeSH_tree_code: G08.686.784.769
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Human_Pregnancy](/_Standards/bio/Reproduction/Sexual_Reproduction/Female_Organism/Human_Pregnancy.md) 
+### #is_/same_as :: [[/_Standards/bio/Reproduction/Sexual_Reproduction/Female_Organism/Human_Pregnancy|Human_Pregnancy]] 
 
-### #is_/same_as :: [Human_Pregnancy.public](/_public/bio/Reproduction/Sexual_Reproduction/Female_Organism/Human_Pregnancy.public.md) 
+### #is_/same_as :: [[/_public/bio/Reproduction/Sexual_Reproduction/Female_Organism/Human_Pregnancy.public|Human_Pregnancy.public]] 
 
-### #is_/same_as :: [Human_Pregnancy.internal](/_internal/bio/Reproduction/Sexual_Reproduction/Female_Organism/Human_Pregnancy.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Reproduction/Sexual_Reproduction/Female_Organism/Human_Pregnancy.internal|Human_Pregnancy.internal]] 
 
-### #is_/same_as :: [Human_Pregnancy.protect](/_protect/bio/Reproduction/Sexual_Reproduction/Female_Organism/Human_Pregnancy.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Reproduction/Sexual_Reproduction/Female_Organism/Human_Pregnancy.protect|Human_Pregnancy.protect]] 
 
-### #is_/same_as :: [Human_Pregnancy.private](/_private/bio/Reproduction/Sexual_Reproduction/Female_Organism/Human_Pregnancy.private.md) 
+### #is_/same_as :: [[/_private/bio/Reproduction/Sexual_Reproduction/Female_Organism/Human_Pregnancy.private|Human_Pregnancy.private]] 
 
-### #is_/same_as :: [Human_Pregnancy.personal](/_personal/bio/Reproduction/Sexual_Reproduction/Female_Organism/Human_Pregnancy.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Reproduction/Sexual_Reproduction/Female_Organism/Human_Pregnancy.personal|Human_Pregnancy.personal]] 
 
-### #is_/same_as :: [Human_Pregnancy.secret](/_secret/bio/Reproduction/Sexual_Reproduction/Female_Organism/Human_Pregnancy.secret.md)
+### #is_/same_as :: [[/_secret/bio/Reproduction/Sexual_Reproduction/Female_Organism/Human_Pregnancy.secret|Human_Pregnancy.secret]] 
 

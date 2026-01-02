@@ -42,17 +42,17 @@ Physical activity that is of high-intensity which utilizes the anaerobic metabol
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Anaerobic_Activity](/_Standards/schema-org/Enumeration/Physical_Activity_Category/Anaerobic_Activity.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Physical_Activity_Category/Anaerobic_Activity|Anaerobic_Activity]] 
 
-### #is_/same_as :: [Anaerobic_Activity.public](/_public/schema-org/Enumeration/Physical_Activity_Category/Anaerobic_Activity.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Physical_Activity_Category/Anaerobic_Activity.public|Anaerobic_Activity.public]] 
 
-### #is_/same_as :: [Anaerobic_Activity.internal](/_internal/schema-org/Enumeration/Physical_Activity_Category/Anaerobic_Activity.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Physical_Activity_Category/Anaerobic_Activity.internal|Anaerobic_Activity.internal]] 
 
-### #is_/same_as :: [Anaerobic_Activity.protect](/_protect/schema-org/Enumeration/Physical_Activity_Category/Anaerobic_Activity.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Physical_Activity_Category/Anaerobic_Activity.protect|Anaerobic_Activity.protect]] 
 
-### #is_/same_as :: [Anaerobic_Activity.private](/_private/schema-org/Enumeration/Physical_Activity_Category/Anaerobic_Activity.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Physical_Activity_Category/Anaerobic_Activity.private|Anaerobic_Activity.private]] 
 
-### #is_/same_as :: [Anaerobic_Activity.personal](/_personal/schema-org/Enumeration/Physical_Activity_Category/Anaerobic_Activity.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Physical_Activity_Category/Anaerobic_Activity.personal|Anaerobic_Activity.personal]] 
 
-### #is_/same_as :: [Anaerobic_Activity.secret](/_secret/schema-org/Enumeration/Physical_Activity_Category/Anaerobic_Activity.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Physical_Activity_Category/Anaerobic_Activity.secret|Anaerobic_Activity.secret]] 
 

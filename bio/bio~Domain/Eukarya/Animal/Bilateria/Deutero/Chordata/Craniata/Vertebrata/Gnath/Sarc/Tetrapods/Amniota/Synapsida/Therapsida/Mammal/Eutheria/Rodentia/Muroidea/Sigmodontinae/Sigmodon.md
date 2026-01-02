@@ -7,7 +7,7 @@ title: Sigmodon
 # [[Sigmodon]]
 
 ## Sigmodontini: cotton rats 
-![The hispid cotton rat](Sigmodon/Sigmodon1.jpg))
+![The hispid cotton rat](Sigmodon/Sigmodon1.jpg) 
 
 ## #has_/text_of_/abstract 
 
@@ -45,7 +45,7 @@ high fever leading to hemorrhagic organ failure with a 30% mortality
 rate. (Strauss and Strauss, 2002)
 
 ### Characteristics
-![ ](Sigmodon/sigmodon.jpg))
+![ ](Sigmodon/sigmodon.jpg) 
 
 *Sigmodon hispidus*, a *Sigmodon* species commonly occurring in the
 United States.
@@ -70,7 +70,7 @@ reproduction happens in the late summer with litter sizes ranging from
 two to fifteen (Voss, 1992).
 
 ### Morphology
-![ ](Sigmodon/sigmodon.jpg))
+![ ](Sigmodon/sigmodon.jpg) 
 
 Lower molars of *Sigmodon hispidus*. Note S-shaped pattern of last
 molar. © [Phil Myers, University of Michigan Animal Diversity Web](http://animaldiversity.ummz.umich.edu/)
@@ -169,7 +169,7 @@ taxon sampling is needed (Carroll and Bradley, 2005).
 
 ## Title Illustrations
 
-![The hispid cotton rat](Sigmodon/Sigmodon1.jpg))
+![The hispid cotton rat](Sigmodon/Sigmodon1.jpg) 
 
 -----------
 Scientific Name ::  Sigmodon hispidus
@@ -180,17 +180,17 @@ Copyright ::         © 1996 R. H. Baker
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sigmodon](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Rodentia/Muroidea/Sigmodontinae/Sigmodon.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Rodentia/Muroidea/Sigmodontinae/Sigmodon|Sigmodon]] 
 
-### #is_/same_as :: [Sigmodon.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Rodentia/Muroidea/Sigmodontinae/Sigmodon.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Rodentia/Muroidea/Sigmodontinae/Sigmodon.public|Sigmodon.public]] 
 
-### #is_/same_as :: [Sigmodon.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Rodentia/Muroidea/Sigmodontinae/Sigmodon.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Rodentia/Muroidea/Sigmodontinae/Sigmodon.internal|Sigmodon.internal]] 
 
-### #is_/same_as :: [Sigmodon.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Rodentia/Muroidea/Sigmodontinae/Sigmodon.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Rodentia/Muroidea/Sigmodontinae/Sigmodon.protect|Sigmodon.protect]] 
 
-### #is_/same_as :: [Sigmodon.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Rodentia/Muroidea/Sigmodontinae/Sigmodon.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Rodentia/Muroidea/Sigmodontinae/Sigmodon.private|Sigmodon.private]] 
 
-### #is_/same_as :: [Sigmodon.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Rodentia/Muroidea/Sigmodontinae/Sigmodon.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Rodentia/Muroidea/Sigmodontinae/Sigmodon.personal|Sigmodon.personal]] 
 
-### #is_/same_as :: [Sigmodon.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Rodentia/Muroidea/Sigmodontinae/Sigmodon.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Rodentia/Muroidea/Sigmodontinae/Sigmodon.secret|Sigmodon.secret]] 
 

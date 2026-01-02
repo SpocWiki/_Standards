@@ -56,17 +56,17 @@ Wolfram_Language_entity_code: Entity["Concept", "GaloisTheory::dbyz3"]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Galois_Theory](/_Standards/Mathematics/Algebra/Galois_Theory.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Algebra/Galois_Theory|Galois_Theory]] 
 
-### #is_/same_as :: [Galois_Theory.public](/_public/Mathematics/Algebra/Galois_Theory.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Algebra/Galois_Theory.public|Galois_Theory.public]] 
 
-### #is_/same_as :: [Galois_Theory.internal](/_internal/Mathematics/Algebra/Galois_Theory.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Algebra/Galois_Theory.internal|Galois_Theory.internal]] 
 
-### #is_/same_as :: [Galois_Theory.protect](/_protect/Mathematics/Algebra/Galois_Theory.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Algebra/Galois_Theory.protect|Galois_Theory.protect]] 
 
-### #is_/same_as :: [Galois_Theory.private](/_private/Mathematics/Algebra/Galois_Theory.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Algebra/Galois_Theory.private|Galois_Theory.private]] 
 
-### #is_/same_as :: [Galois_Theory.personal](/_personal/Mathematics/Algebra/Galois_Theory.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Algebra/Galois_Theory.personal|Galois_Theory.personal]] 
 
-### #is_/same_as :: [Galois_Theory.secret](/_secret/Mathematics/Algebra/Galois_Theory.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Algebra/Galois_Theory.secret|Galois_Theory.secret]] 
 

@@ -47,17 +47,17 @@ OpenStreetMap_tag: natural=cliff
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Cliff](/_Standards/Earth/Geology/Landform/Cliff.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geology/Landform/Cliff|Cliff]] 
 
-### #is_/same_as :: [Cliff.public](/_public/Earth/Geology/Landform/Cliff.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geology/Landform/Cliff.public|Cliff.public]] 
 
-### #is_/same_as :: [Cliff.internal](/_internal/Earth/Geology/Landform/Cliff.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geology/Landform/Cliff.internal|Cliff.internal]] 
 
-### #is_/same_as :: [Cliff.protect](/_protect/Earth/Geology/Landform/Cliff.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geology/Landform/Cliff.protect|Cliff.protect]] 
 
-### #is_/same_as :: [Cliff.private](/_private/Earth/Geology/Landform/Cliff.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geology/Landform/Cliff.private|Cliff.private]] 
 
-### #is_/same_as :: [Cliff.personal](/_personal/Earth/Geology/Landform/Cliff.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geology/Landform/Cliff.personal|Cliff.personal]] 
 
-### #is_/same_as :: [Cliff.secret](/_secret/Earth/Geology/Landform/Cliff.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geology/Landform/Cliff.secret|Cliff.secret]] 
 

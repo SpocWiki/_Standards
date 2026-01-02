@@ -64,17 +64,17 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Angel%20playing%20bagp
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bagpipe](/_Standards/Society/Communication/Media/Music/Musical_Instrument/Bagpipe.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Musical_Instrument/Bagpipe|Bagpipe]] 
 
-### #is_/same_as :: [Bagpipe.public](/_public/Society/Communication/Media/Music/Musical_Instrument/Bagpipe.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Musical_Instrument/Bagpipe.public|Bagpipe.public]] 
 
-### #is_/same_as :: [Bagpipe.internal](/_internal/Society/Communication/Media/Music/Musical_Instrument/Bagpipe.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Musical_Instrument/Bagpipe.internal|Bagpipe.internal]] 
 
-### #is_/same_as :: [Bagpipe.protect](/_protect/Society/Communication/Media/Music/Musical_Instrument/Bagpipe.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Musical_Instrument/Bagpipe.protect|Bagpipe.protect]] 
 
-### #is_/same_as :: [Bagpipe.private](/_private/Society/Communication/Media/Music/Musical_Instrument/Bagpipe.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Musical_Instrument/Bagpipe.private|Bagpipe.private]] 
 
-### #is_/same_as :: [Bagpipe.personal](/_personal/Society/Communication/Media/Music/Musical_Instrument/Bagpipe.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Musical_Instrument/Bagpipe.personal|Bagpipe.personal]] 
 
-### #is_/same_as :: [Bagpipe.secret](/_secret/Society/Communication/Media/Music/Musical_Instrument/Bagpipe.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Musical_Instrument/Bagpipe.secret|Bagpipe.secret]] 
 

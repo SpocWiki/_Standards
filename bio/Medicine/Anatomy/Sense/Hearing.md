@@ -62,17 +62,17 @@ Colon_Classification: S:23
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hearing](/_Standards/bio/Medicine/Anatomy/Sense/Hearing.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Anatomy/Sense/Hearing|Hearing]] 
 
-### #is_/same_as :: [Hearing.public](/_public/bio/Medicine/Anatomy/Sense/Hearing.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Anatomy/Sense/Hearing.public|Hearing.public]] 
 
-### #is_/same_as :: [Hearing.internal](/_internal/bio/Medicine/Anatomy/Sense/Hearing.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Anatomy/Sense/Hearing.internal|Hearing.internal]] 
 
-### #is_/same_as :: [Hearing.protect](/_protect/bio/Medicine/Anatomy/Sense/Hearing.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Anatomy/Sense/Hearing.protect|Hearing.protect]] 
 
-### #is_/same_as :: [Hearing.private](/_private/bio/Medicine/Anatomy/Sense/Hearing.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Anatomy/Sense/Hearing.private|Hearing.private]] 
 
-### #is_/same_as :: [Hearing.personal](/_personal/bio/Medicine/Anatomy/Sense/Hearing.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Anatomy/Sense/Hearing.personal|Hearing.personal]] 
 
-### #is_/same_as :: [Hearing.secret](/_secret/bio/Medicine/Anatomy/Sense/Hearing.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Anatomy/Sense/Hearing.secret|Hearing.secret]] 
 

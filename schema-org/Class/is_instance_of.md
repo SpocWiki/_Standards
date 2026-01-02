@@ -86,17 +86,17 @@ to the actual Class Definition harder.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [is_instance_of](/_Standards/schema-org/Class/is_instance_of.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_instance_of|is_instance_of]] 
 
-### #is_/same_as :: [is_instance_of.public](/_public/schema-org/Class/is_instance_of.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Class/is_instance_of.public|is_instance_of.public]] 
 
-### #is_/same_as :: [is_instance_of.internal](/_internal/schema-org/Class/is_instance_of.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_instance_of.internal|is_instance_of.internal]] 
 
-### #is_/same_as :: [is_instance_of.protect](/_protect/schema-org/Class/is_instance_of.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_instance_of.protect|is_instance_of.protect]] 
 
-### #is_/same_as :: [is_instance_of.private](/_private/schema-org/Class/is_instance_of.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Class/is_instance_of.private|is_instance_of.private]] 
 
-### #is_/same_as :: [is_instance_of.personal](/_personal/schema-org/Class/is_instance_of.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_instance_of.personal|is_instance_of.personal]] 
 
-### #is_/same_as :: [is_instance_of.secret](/_secret/schema-org/Class/is_instance_of.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Class/is_instance_of.secret|is_instance_of.secret]] 
 

@@ -17,17 +17,17 @@ Ungermann had a falling-out with [[Exxon]] and left Zilog in 1978.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Zilog](/_Standards/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/Zilog.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/Zilog|Zilog]] 
 
-### #is_/same_as :: [Zilog.public](/_public/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/Zilog.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/Zilog.public|Zilog.public]] 
 
-### #is_/same_as :: [Zilog.internal](/_internal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/Zilog.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/Zilog.internal|Zilog.internal]] 
 
-### #is_/same_as :: [Zilog.protect](/_protect/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/Zilog.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/Zilog.protect|Zilog.protect]] 
 
-### #is_/same_as :: [Zilog.private](/_private/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/Zilog.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/Zilog.private|Zilog.private]] 
 
-### #is_/same_as :: [Zilog.personal](/_personal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/Zilog.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/Zilog.personal|Zilog.personal]] 
 
-### #is_/same_as :: [Zilog.secret](/_secret/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/Zilog.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/Zilog.secret|Zilog.secret]] 
 

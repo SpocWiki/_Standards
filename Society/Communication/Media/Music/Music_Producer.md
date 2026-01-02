@@ -36,17 +36,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Music_Producer](/_Standards/Society/Communication/Media/Music/Music_Producer.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Music_Producer|Music_Producer]] 
 
-### #is_/same_as :: [Music_Producer.public](/_public/Society/Communication/Media/Music/Music_Producer.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Music_Producer.public|Music_Producer.public]] 
 
-### #is_/same_as :: [Music_Producer.internal](/_internal/Society/Communication/Media/Music/Music_Producer.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Music_Producer.internal|Music_Producer.internal]] 
 
-### #is_/same_as :: [Music_Producer.protect](/_protect/Society/Communication/Media/Music/Music_Producer.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Music_Producer.protect|Music_Producer.protect]] 
 
-### #is_/same_as :: [Music_Producer.private](/_private/Society/Communication/Media/Music/Music_Producer.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Music_Producer.private|Music_Producer.private]] 
 
-### #is_/same_as :: [Music_Producer.personal](/_personal/Society/Communication/Media/Music/Music_Producer.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Music_Producer.personal|Music_Producer.personal]] 
 
-### #is_/same_as :: [Music_Producer.secret](/_secret/Society/Communication/Media/Music/Music_Producer.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Music_Producer.secret|Music_Producer.secret]] 
 

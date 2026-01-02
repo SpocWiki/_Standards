@@ -98,17 +98,17 @@ spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Wikipedia%
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Biological_Sex](/_Standards/bio/Reproduction/Sexual_Reproduction/Sex/Biological_Sex.md) 
+### #is_/same_as :: [[/_Standards/bio/Reproduction/Sexual_Reproduction/Sex/Biological_Sex|Biological_Sex]] 
 
-### #is_/same_as :: [Biological_Sex.public](/_public/bio/Reproduction/Sexual_Reproduction/Sex/Biological_Sex.public.md) 
+### #is_/same_as :: [[/_public/bio/Reproduction/Sexual_Reproduction/Sex/Biological_Sex.public|Biological_Sex.public]] 
 
-### #is_/same_as :: [Biological_Sex.internal](/_internal/bio/Reproduction/Sexual_Reproduction/Sex/Biological_Sex.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Reproduction/Sexual_Reproduction/Sex/Biological_Sex.internal|Biological_Sex.internal]] 
 
-### #is_/same_as :: [Biological_Sex.protect](/_protect/bio/Reproduction/Sexual_Reproduction/Sex/Biological_Sex.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Reproduction/Sexual_Reproduction/Sex/Biological_Sex.protect|Biological_Sex.protect]] 
 
-### #is_/same_as :: [Biological_Sex.private](/_private/bio/Reproduction/Sexual_Reproduction/Sex/Biological_Sex.private.md) 
+### #is_/same_as :: [[/_private/bio/Reproduction/Sexual_Reproduction/Sex/Biological_Sex.private|Biological_Sex.private]] 
 
-### #is_/same_as :: [Biological_Sex.personal](/_personal/bio/Reproduction/Sexual_Reproduction/Sex/Biological_Sex.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Reproduction/Sexual_Reproduction/Sex/Biological_Sex.personal|Biological_Sex.personal]] 
 
-### #is_/same_as :: [Biological_Sex.secret](/_secret/bio/Reproduction/Sexual_Reproduction/Sex/Biological_Sex.secret.md)
+### #is_/same_as :: [[/_secret/bio/Reproduction/Sexual_Reproduction/Sex/Biological_Sex.secret|Biological_Sex.secret]] 
 

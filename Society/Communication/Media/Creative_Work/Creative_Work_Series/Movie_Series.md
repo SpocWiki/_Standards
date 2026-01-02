@@ -41,17 +41,17 @@ A series of movies. Included movies can be indicated with the hasPart property.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Movie_Series](/_Standards/Society/Communication/Media/Creative_Work/Creative_Work_Series/Movie_Series.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Creative_Work/Creative_Work_Series/Movie_Series|Movie_Series]] 
 
-### #is_/same_as :: [Movie_Series.public](/_public/Society/Communication/Media/Creative_Work/Creative_Work_Series/Movie_Series.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Creative_Work/Creative_Work_Series/Movie_Series.public|Movie_Series.public]] 
 
-### #is_/same_as :: [Movie_Series.internal](/_internal/Society/Communication/Media/Creative_Work/Creative_Work_Series/Movie_Series.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Creative_Work/Creative_Work_Series/Movie_Series.internal|Movie_Series.internal]] 
 
-### #is_/same_as :: [Movie_Series.protect](/_protect/Society/Communication/Media/Creative_Work/Creative_Work_Series/Movie_Series.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Creative_Work/Creative_Work_Series/Movie_Series.protect|Movie_Series.protect]] 
 
-### #is_/same_as :: [Movie_Series.private](/_private/Society/Communication/Media/Creative_Work/Creative_Work_Series/Movie_Series.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Creative_Work/Creative_Work_Series/Movie_Series.private|Movie_Series.private]] 
 
-### #is_/same_as :: [Movie_Series.personal](/_personal/Society/Communication/Media/Creative_Work/Creative_Work_Series/Movie_Series.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/Creative_Work_Series/Movie_Series.personal|Movie_Series.personal]] 
 
-### #is_/same_as :: [Movie_Series.secret](/_secret/Society/Communication/Media/Creative_Work/Creative_Work_Series/Movie_Series.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Creative_Work_Series/Movie_Series.secret|Movie_Series.secret]] 
 

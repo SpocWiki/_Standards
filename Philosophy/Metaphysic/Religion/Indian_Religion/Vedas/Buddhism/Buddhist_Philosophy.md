@@ -42,17 +42,17 @@ P8189: 987007541111005171
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Buddhist_Philosophy](/_Standards/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism/Buddhist_Philosophy.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism/Buddhist_Philosophy|Buddhist_Philosophy]] 
 
-### #is_/same_as :: [Buddhist_Philosophy.public](/_public/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism/Buddhist_Philosophy.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism/Buddhist_Philosophy.public|Buddhist_Philosophy.public]] 
 
-### #is_/same_as :: [Buddhist_Philosophy.internal](/_internal/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism/Buddhist_Philosophy.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism/Buddhist_Philosophy.internal|Buddhist_Philosophy.internal]] 
 
-### #is_/same_as :: [Buddhist_Philosophy.protect](/_protect/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism/Buddhist_Philosophy.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism/Buddhist_Philosophy.protect|Buddhist_Philosophy.protect]] 
 
-### #is_/same_as :: [Buddhist_Philosophy.private](/_private/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism/Buddhist_Philosophy.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism/Buddhist_Philosophy.private|Buddhist_Philosophy.private]] 
 
-### #is_/same_as :: [Buddhist_Philosophy.personal](/_personal/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism/Buddhist_Philosophy.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism/Buddhist_Philosophy.personal|Buddhist_Philosophy.personal]] 
 
-### #is_/same_as :: [Buddhist_Philosophy.secret](/_secret/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism/Buddhist_Philosophy.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism/Buddhist_Philosophy.secret|Buddhist_Philosophy.secret]] 
 

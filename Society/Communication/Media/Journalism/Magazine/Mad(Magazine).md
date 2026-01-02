@@ -59,17 +59,17 @@ Facebook_username: MADMagazine
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Mad(Magazine)](/_Standards/Society/Communication/Media/Journalism/Magazine/Mad(Magazine).md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Journalism/Magazine/Mad(Magazine)|Mad(Magazine)]] 
 
-### #is_/same_as :: [Mad(Magazine).public](/_public/Society/Communication/Media/Journalism/Magazine/Mad(Magazine).public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Journalism/Magazine/Mad(Magazine).public|Mad(Magazine).public]] 
 
-### #is_/same_as :: [Mad(Magazine).internal](/_internal/Society/Communication/Media/Journalism/Magazine/Mad(Magazine).internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Journalism/Magazine/Mad(Magazine).internal|Mad(Magazine).internal]] 
 
-### #is_/same_as :: [Mad(Magazine).protect](/_protect/Society/Communication/Media/Journalism/Magazine/Mad(Magazine).protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Journalism/Magazine/Mad(Magazine).protect|Mad(Magazine).protect]] 
 
-### #is_/same_as :: [Mad(Magazine).private](/_private/Society/Communication/Media/Journalism/Magazine/Mad(Magazine).private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Journalism/Magazine/Mad(Magazine).private|Mad(Magazine).private]] 
 
-### #is_/same_as :: [Mad(Magazine).personal](/_personal/Society/Communication/Media/Journalism/Magazine/Mad(Magazine).personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Journalism/Magazine/Mad(Magazine).personal|Mad(Magazine).personal]] 
 
-### #is_/same_as :: [Mad(Magazine).secret](/_secret/Society/Communication/Media/Journalism/Magazine/Mad(Magazine).secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Journalism/Magazine/Mad(Magazine).secret|Mad(Magazine).secret]] 
 

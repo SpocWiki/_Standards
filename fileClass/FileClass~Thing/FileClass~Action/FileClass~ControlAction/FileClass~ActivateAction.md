@@ -37,17 +37,17 @@ The act of starting or activating a device or application (e.g. starting a timer
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~ActivateAction](/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~ControlAction/FileClass~ActivateAction.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~ControlAction/FileClass~ActivateAction|FileClass~ActivateAction]] 
 
-### #is_/same_as :: [FileClass~ActivateAction.public](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~ControlAction/FileClass~ActivateAction.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~ControlAction/FileClass~ActivateAction.public|FileClass~ActivateAction.public]] 
 
-### #is_/same_as :: [FileClass~ActivateAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~ControlAction/FileClass~ActivateAction.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~ControlAction/FileClass~ActivateAction.internal|FileClass~ActivateAction.internal]] 
 
-### #is_/same_as :: [FileClass~ActivateAction.protect](/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~ControlAction/FileClass~ActivateAction.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~ControlAction/FileClass~ActivateAction.protect|FileClass~ActivateAction.protect]] 
 
-### #is_/same_as :: [FileClass~ActivateAction.private](/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~ControlAction/FileClass~ActivateAction.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~ControlAction/FileClass~ActivateAction.private|FileClass~ActivateAction.private]] 
 
-### #is_/same_as :: [FileClass~ActivateAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~ControlAction/FileClass~ActivateAction.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~ControlAction/FileClass~ActivateAction.personal|FileClass~ActivateAction.personal]] 
 
-### #is_/same_as :: [FileClass~ActivateAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~ControlAction/FileClass~ActivateAction.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~ControlAction/FileClass~ActivateAction.secret|FileClass~ActivateAction.secret]] 
 

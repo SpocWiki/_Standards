@@ -26,17 +26,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [USA_Today](/_Standards/Society/Communication/Media/Journalism/Newspaper/USA_Today.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Journalism/Newspaper/USA_Today|USA_Today]] 
 
-### #is_/same_as :: [USA_Today.public](/_public/Society/Communication/Media/Journalism/Newspaper/USA_Today.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Journalism/Newspaper/USA_Today.public|USA_Today.public]] 
 
-### #is_/same_as :: [USA_Today.internal](/_internal/Society/Communication/Media/Journalism/Newspaper/USA_Today.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Journalism/Newspaper/USA_Today.internal|USA_Today.internal]] 
 
-### #is_/same_as :: [USA_Today.protect](/_protect/Society/Communication/Media/Journalism/Newspaper/USA_Today.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Journalism/Newspaper/USA_Today.protect|USA_Today.protect]] 
 
-### #is_/same_as :: [USA_Today.private](/_private/Society/Communication/Media/Journalism/Newspaper/USA_Today.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Journalism/Newspaper/USA_Today.private|USA_Today.private]] 
 
-### #is_/same_as :: [USA_Today.personal](/_personal/Society/Communication/Media/Journalism/Newspaper/USA_Today.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Journalism/Newspaper/USA_Today.personal|USA_Today.personal]] 
 
-### #is_/same_as :: [USA_Today.secret](/_secret/Society/Communication/Media/Journalism/Newspaper/USA_Today.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Journalism/Newspaper/USA_Today.secret|USA_Today.secret]] 
 

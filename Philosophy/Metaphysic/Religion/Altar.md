@@ -49,17 +49,17 @@ EAGLE_id: decor/lod/44
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Altar](/_Standards/Philosophy/Metaphysic/Religion/Altar.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Altar|Altar]] 
 
-### #is_/same_as :: [Altar.public](/_public/Philosophy/Metaphysic/Religion/Altar.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Altar.public|Altar.public]] 
 
-### #is_/same_as :: [Altar.internal](/_internal/Philosophy/Metaphysic/Religion/Altar.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Altar.internal|Altar.internal]] 
 
-### #is_/same_as :: [Altar.protect](/_protect/Philosophy/Metaphysic/Religion/Altar.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Altar.protect|Altar.protect]] 
 
-### #is_/same_as :: [Altar.private](/_private/Philosophy/Metaphysic/Religion/Altar.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Altar.private|Altar.private]] 
 
-### #is_/same_as :: [Altar.personal](/_personal/Philosophy/Metaphysic/Religion/Altar.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Altar.personal|Altar.personal]] 
 
-### #is_/same_as :: [Altar.secret](/_secret/Philosophy/Metaphysic/Religion/Altar.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Altar.secret|Altar.secret]] 
 

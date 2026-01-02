@@ -80,7 +80,7 @@ Young, 1972, both from the Pacific Ocean. The identification of the
 species upon which this vertical distribution is based needs
 confirmation. We know of no other records of ***P. danae*** in the
 Atlantic Ocean. The data could refer to ***P. lippula***.
-![ ](Planctoteuthis_danae/PlanctoDanaeDist.jpg))
+![ ](Planctoteuthis_danae/PlanctoDanaeDist.jpg) 
 
 **Figure**. Vertical distribution graph based on opening/closing nets
 with tows at two localities, one at 11°N Lat. and the other at 18°N
@@ -125,7 +125,7 @@ Lu, 1975 and Lu and Clarke, 1975).
 ## Title Illustrations
 
 ------------------------------------------------------------------------------ 
-![](Planctoteuthis_danae/PDanaeType.jpg))
+![](Planctoteuthis_danae/PDanaeType.jpg) 
 Scientific Name ::     Planctoteuthis danae
 Reference            Joubin, L. 1931. Notes preliminaires sur les cephalopodes des croiseires du "Dana" (1921-1922). Annales de l'Institut Oceanographique, 10: 169-211.
 Specimen Condition   Preserved
@@ -137,17 +137,17 @@ Copyright ::            © [Richard E. Young](http://www.soest.hawaii.edu/%7Eryo
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Planctoteuthis_danae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Chiroteuthidae/Planctoteuthis/Planctoteuthis_danae.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Chiroteuthidae/Planctoteuthis/Planctoteuthis_danae|Planctoteuthis_danae]] 
 
-### #is_/same_as :: [Planctoteuthis_danae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Chiroteuthidae/Planctoteuthis/Planctoteuthis_danae.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Chiroteuthidae/Planctoteuthis/Planctoteuthis_danae.public|Planctoteuthis_danae.public]] 
 
-### #is_/same_as :: [Planctoteuthis_danae.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Chiroteuthidae/Planctoteuthis/Planctoteuthis_danae.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Chiroteuthidae/Planctoteuthis/Planctoteuthis_danae.internal|Planctoteuthis_danae.internal]] 
 
-### #is_/same_as :: [Planctoteuthis_danae.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Chiroteuthidae/Planctoteuthis/Planctoteuthis_danae.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Chiroteuthidae/Planctoteuthis/Planctoteuthis_danae.protect|Planctoteuthis_danae.protect]] 
 
-### #is_/same_as :: [Planctoteuthis_danae.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Chiroteuthidae/Planctoteuthis/Planctoteuthis_danae.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Chiroteuthidae/Planctoteuthis/Planctoteuthis_danae.private|Planctoteuthis_danae.private]] 
 
-### #is_/same_as :: [Planctoteuthis_danae.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Chiroteuthidae/Planctoteuthis/Planctoteuthis_danae.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Chiroteuthidae/Planctoteuthis/Planctoteuthis_danae.personal|Planctoteuthis_danae.personal]] 
 
-### #is_/same_as :: [Planctoteuthis_danae.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Chiroteuthidae/Planctoteuthis/Planctoteuthis_danae.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Chiroteuthidae/Planctoteuthis/Planctoteuthis_danae.secret|Planctoteuthis_danae.secret]] 
 

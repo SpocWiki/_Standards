@@ -55,3 +55,22 @@ Stack_Exchange_tag: https://christianity.stackexchange.com/tags/oriental-orthodo
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Oriental%20Orthodox%20Churches) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Eastern_Orthodoxy/Oriental_Orthodox_Churches|Oriental_Orthodox_Churches]] 
+
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Eastern_Orthodoxy/Oriental_Orthodox_Churches.public|Oriental_Orthodox_Churches.public]] 
+
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Eastern_Orthodoxy/Oriental_Orthodox_Churches.internal|Oriental_Orthodox_Churches.internal]] 
+
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Eastern_Orthodoxy/Oriental_Orthodox_Churches.protect|Oriental_Orthodox_Churches.protect]] 
+
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Eastern_Orthodoxy/Oriental_Orthodox_Churches.private|Oriental_Orthodox_Churches.private]] 
+
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Eastern_Orthodoxy/Oriental_Orthodox_Churches.personal|Oriental_Orthodox_Churches.personal]] 
+
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Eastern_Orthodoxy/Oriental_Orthodox_Churches.secret|Oriental_Orthodox_Churches.secret]] 
+

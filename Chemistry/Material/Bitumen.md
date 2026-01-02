@@ -49,17 +49,17 @@ P8189: "987007282683105171"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bitumen](/_Standards/Chemistry/Material/Bitumen.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Material/Bitumen|Bitumen]] 
 
-### #is_/same_as :: [Bitumen.public](/_public/Chemistry/Material/Bitumen.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Material/Bitumen.public|Bitumen.public]] 
 
-### #is_/same_as :: [Bitumen.internal](/_internal/Chemistry/Material/Bitumen.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Material/Bitumen.internal|Bitumen.internal]] 
 
-### #is_/same_as :: [Bitumen.protect](/_protect/Chemistry/Material/Bitumen.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Material/Bitumen.protect|Bitumen.protect]] 
 
-### #is_/same_as :: [Bitumen.private](/_private/Chemistry/Material/Bitumen.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Material/Bitumen.private|Bitumen.private]] 
 
-### #is_/same_as :: [Bitumen.personal](/_personal/Chemistry/Material/Bitumen.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Material/Bitumen.personal|Bitumen.personal]] 
 
-### #is_/same_as :: [Bitumen.secret](/_secret/Chemistry/Material/Bitumen.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Material/Bitumen.secret|Bitumen.secret]] 
 

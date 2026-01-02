@@ -228,17 +228,17 @@ long: 10
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Africa](/_Standards/Earth/Continent/Africa.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa|Africa]] 
 
-### #is_/same_as :: [Africa.public](/_public/Earth/Continent/Africa.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa.public|Africa.public]] 
 
-### #is_/same_as :: [Africa.internal](/_internal/Earth/Continent/Africa.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa.internal|Africa.internal]] 
 
-### #is_/same_as :: [Africa.protect](/_protect/Earth/Continent/Africa.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa.protect|Africa.protect]] 
 
-### #is_/same_as :: [Africa.private](/_private/Earth/Continent/Africa.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa.private|Africa.private]] 
 
-### #is_/same_as :: [Africa.personal](/_personal/Earth/Continent/Africa.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa.personal|Africa.personal]] 
 
-### #is_/same_as :: [Africa.secret](/_secret/Earth/Continent/Africa.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa.secret|Africa.secret]] 
 

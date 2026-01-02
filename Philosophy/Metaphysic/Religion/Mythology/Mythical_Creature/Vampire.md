@@ -75,17 +75,17 @@ Dewey_Decimal_Classification: "398.21"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Vampire](/_Standards/Philosophy/Metaphysic/Religion/Mythology/Mythical_Creature/Vampire.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Mythology/Mythical_Creature/Vampire|Vampire]] 
 
-### #is_/same_as :: [Vampire.public](/_public/Philosophy/Metaphysic/Religion/Mythology/Mythical_Creature/Vampire.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Mythology/Mythical_Creature/Vampire.public|Vampire.public]] 
 
-### #is_/same_as :: [Vampire.internal](/_internal/Philosophy/Metaphysic/Religion/Mythology/Mythical_Creature/Vampire.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Mythology/Mythical_Creature/Vampire.internal|Vampire.internal]] 
 
-### #is_/same_as :: [Vampire.protect](/_protect/Philosophy/Metaphysic/Religion/Mythology/Mythical_Creature/Vampire.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Mythology/Mythical_Creature/Vampire.protect|Vampire.protect]] 
 
-### #is_/same_as :: [Vampire.private](/_private/Philosophy/Metaphysic/Religion/Mythology/Mythical_Creature/Vampire.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Mythology/Mythical_Creature/Vampire.private|Vampire.private]] 
 
-### #is_/same_as :: [Vampire.personal](/_personal/Philosophy/Metaphysic/Religion/Mythology/Mythical_Creature/Vampire.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Mythology/Mythical_Creature/Vampire.personal|Vampire.personal]] 
 
-### #is_/same_as :: [Vampire.secret](/_secret/Philosophy/Metaphysic/Religion/Mythology/Mythical_Creature/Vampire.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Mythology/Mythical_Creature/Vampire.secret|Vampire.secret]] 
 

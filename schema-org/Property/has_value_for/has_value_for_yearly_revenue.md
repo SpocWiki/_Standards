@@ -43,17 +43,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_value_for_yearly_revenue](/_Standards/schema-org/Property/has_value_for/has_value_for_yearly_revenue.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_value_for/has_value_for_yearly_revenue|has_value_for_yearly_revenue]] 
 
-### #is_/same_as :: [has_value_for_yearly_revenue.public](/_public/schema-org/Property/has_value_for/has_value_for_yearly_revenue.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/has_value_for/has_value_for_yearly_revenue.public|has_value_for_yearly_revenue.public]] 
 
-### #is_/same_as :: [has_value_for_yearly_revenue.internal](/_internal/schema-org/Property/has_value_for/has_value_for_yearly_revenue.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_value_for/has_value_for_yearly_revenue.internal|has_value_for_yearly_revenue.internal]] 
 
-### #is_/same_as :: [has_value_for_yearly_revenue.protect](/_protect/schema-org/Property/has_value_for/has_value_for_yearly_revenue.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_value_for/has_value_for_yearly_revenue.protect|has_value_for_yearly_revenue.protect]] 
 
-### #is_/same_as :: [has_value_for_yearly_revenue.private](/_private/schema-org/Property/has_value_for/has_value_for_yearly_revenue.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/has_value_for/has_value_for_yearly_revenue.private|has_value_for_yearly_revenue.private]] 
 
-### #is_/same_as :: [has_value_for_yearly_revenue.personal](/_personal/schema-org/Property/has_value_for/has_value_for_yearly_revenue.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_value_for/has_value_for_yearly_revenue.personal|has_value_for_yearly_revenue.personal]] 
 
-### #is_/same_as :: [has_value_for_yearly_revenue.secret](/_secret/schema-org/Property/has_value_for/has_value_for_yearly_revenue.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/has_value_for/has_value_for_yearly_revenue.secret|has_value_for_yearly_revenue.secret]] 
 

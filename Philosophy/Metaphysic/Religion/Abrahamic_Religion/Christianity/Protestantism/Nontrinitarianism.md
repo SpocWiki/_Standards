@@ -52,17 +52,17 @@ Stack_Exchange_tag: https://christianity.stackexchange.com/tags/non-trinitarian
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Nontrinitarianism](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Protestantism/Nontrinitarianism.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Protestantism/Nontrinitarianism|Nontrinitarianism]] 
 
-### #is_/same_as :: [Nontrinitarianism.public](/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Protestantism/Nontrinitarianism.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Protestantism/Nontrinitarianism.public|Nontrinitarianism.public]] 
 
-### #is_/same_as :: [Nontrinitarianism.internal](/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Protestantism/Nontrinitarianism.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Protestantism/Nontrinitarianism.internal|Nontrinitarianism.internal]] 
 
-### #is_/same_as :: [Nontrinitarianism.protect](/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Protestantism/Nontrinitarianism.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Protestantism/Nontrinitarianism.protect|Nontrinitarianism.protect]] 
 
-### #is_/same_as :: [Nontrinitarianism.private](/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Protestantism/Nontrinitarianism.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Protestantism/Nontrinitarianism.private|Nontrinitarianism.private]] 
 
-### #is_/same_as :: [Nontrinitarianism.personal](/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Protestantism/Nontrinitarianism.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Protestantism/Nontrinitarianism.personal|Nontrinitarianism.personal]] 
 
-### #is_/same_as :: [Nontrinitarianism.secret](/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Protestantism/Nontrinitarianism.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Protestantism/Nontrinitarianism.secret|Nontrinitarianism.secret]] 
 

@@ -42,17 +42,17 @@ SingleRelease.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Single_Release](/_Standards/schema-org/Enumeration/Music_Album_Release_Type/Single_Release.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Music_Album_Release_Type/Single_Release|Single_Release]] 
 
-### #is_/same_as :: [Single_Release.public](/_public/schema-org/Enumeration/Music_Album_Release_Type/Single_Release.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Music_Album_Release_Type/Single_Release.public|Single_Release.public]] 
 
-### #is_/same_as :: [Single_Release.internal](/_internal/schema-org/Enumeration/Music_Album_Release_Type/Single_Release.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Music_Album_Release_Type/Single_Release.internal|Single_Release.internal]] 
 
-### #is_/same_as :: [Single_Release.protect](/_protect/schema-org/Enumeration/Music_Album_Release_Type/Single_Release.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Music_Album_Release_Type/Single_Release.protect|Single_Release.protect]] 
 
-### #is_/same_as :: [Single_Release.private](/_private/schema-org/Enumeration/Music_Album_Release_Type/Single_Release.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Music_Album_Release_Type/Single_Release.private|Single_Release.private]] 
 
-### #is_/same_as :: [Single_Release.personal](/_personal/schema-org/Enumeration/Music_Album_Release_Type/Single_Release.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Music_Album_Release_Type/Single_Release.personal|Single_Release.personal]] 
 
-### #is_/same_as :: [Single_Release.secret](/_secret/schema-org/Enumeration/Music_Album_Release_Type/Single_Release.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Music_Album_Release_Type/Single_Release.secret|Single_Release.secret]] 
 

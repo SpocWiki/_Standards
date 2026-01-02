@@ -67,17 +67,17 @@ seal_image: http://commons.wikimedia.org/wiki/Special:FilePath/Sigil%20of%20Lili
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lilith](/_Standards/Philosophy/Metaphysic/Religion/Mythology/Jewish_Mythology/Lilith.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Mythology/Jewish_Mythology/Lilith|Lilith]] 
 
-### #is_/same_as :: [Lilith.public](/_public/Philosophy/Metaphysic/Religion/Mythology/Jewish_Mythology/Lilith.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Mythology/Jewish_Mythology/Lilith.public|Lilith.public]] 
 
-### #is_/same_as :: [Lilith.internal](/_internal/Philosophy/Metaphysic/Religion/Mythology/Jewish_Mythology/Lilith.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Mythology/Jewish_Mythology/Lilith.internal|Lilith.internal]] 
 
-### #is_/same_as :: [Lilith.protect](/_protect/Philosophy/Metaphysic/Religion/Mythology/Jewish_Mythology/Lilith.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Mythology/Jewish_Mythology/Lilith.protect|Lilith.protect]] 
 
-### #is_/same_as :: [Lilith.private](/_private/Philosophy/Metaphysic/Religion/Mythology/Jewish_Mythology/Lilith.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Mythology/Jewish_Mythology/Lilith.private|Lilith.private]] 
 
-### #is_/same_as :: [Lilith.personal](/_personal/Philosophy/Metaphysic/Religion/Mythology/Jewish_Mythology/Lilith.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Mythology/Jewish_Mythology/Lilith.personal|Lilith.personal]] 
 
-### #is_/same_as :: [Lilith.secret](/_secret/Philosophy/Metaphysic/Religion/Mythology/Jewish_Mythology/Lilith.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Mythology/Jewish_Mythology/Lilith.secret|Lilith.secret]] 
 

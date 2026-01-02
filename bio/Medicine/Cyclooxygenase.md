@@ -23,17 +23,17 @@ Cyclooxygenase generates Prostaglandine which is detected by Pain Receptors.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Cyclooxygenase](/_Standards/bio/Medicine/Cyclooxygenase.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Cyclooxygenase|Cyclooxygenase]] 
 
-### #is_/same_as :: [Cyclooxygenase.public](/_public/bio/Medicine/Cyclooxygenase.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Cyclooxygenase.public|Cyclooxygenase.public]] 
 
-### #is_/same_as :: [Cyclooxygenase.internal](/_internal/bio/Medicine/Cyclooxygenase.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Cyclooxygenase.internal|Cyclooxygenase.internal]] 
 
-### #is_/same_as :: [Cyclooxygenase.protect](/_protect/bio/Medicine/Cyclooxygenase.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Cyclooxygenase.protect|Cyclooxygenase.protect]] 
 
-### #is_/same_as :: [Cyclooxygenase.private](/_private/bio/Medicine/Cyclooxygenase.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Cyclooxygenase.private|Cyclooxygenase.private]] 
 
-### #is_/same_as :: [Cyclooxygenase.personal](/_personal/bio/Medicine/Cyclooxygenase.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Cyclooxygenase.personal|Cyclooxygenase.personal]] 
 
-### #is_/same_as :: [Cyclooxygenase.secret](/_secret/bio/Medicine/Cyclooxygenase.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Cyclooxygenase.secret|Cyclooxygenase.secret]] 
 

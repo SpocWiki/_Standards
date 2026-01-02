@@ -44,17 +44,17 @@ Indicates full game availability.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Full_Game_Availability](/_Standards/schema-org/Enumeration/Game_Availability_Enumeration/Full_Game_Availability.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Game_Availability_Enumeration/Full_Game_Availability|Full_Game_Availability]] 
 
-### #is_/same_as :: [Full_Game_Availability.public](/_public/schema-org/Enumeration/Game_Availability_Enumeration/Full_Game_Availability.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Game_Availability_Enumeration/Full_Game_Availability.public|Full_Game_Availability.public]] 
 
-### #is_/same_as :: [Full_Game_Availability.internal](/_internal/schema-org/Enumeration/Game_Availability_Enumeration/Full_Game_Availability.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Game_Availability_Enumeration/Full_Game_Availability.internal|Full_Game_Availability.internal]] 
 
-### #is_/same_as :: [Full_Game_Availability.protect](/_protect/schema-org/Enumeration/Game_Availability_Enumeration/Full_Game_Availability.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Game_Availability_Enumeration/Full_Game_Availability.protect|Full_Game_Availability.protect]] 
 
-### #is_/same_as :: [Full_Game_Availability.private](/_private/schema-org/Enumeration/Game_Availability_Enumeration/Full_Game_Availability.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Game_Availability_Enumeration/Full_Game_Availability.private|Full_Game_Availability.private]] 
 
-### #is_/same_as :: [Full_Game_Availability.personal](/_personal/schema-org/Enumeration/Game_Availability_Enumeration/Full_Game_Availability.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Game_Availability_Enumeration/Full_Game_Availability.personal|Full_Game_Availability.personal]] 
 
-### #is_/same_as :: [Full_Game_Availability.secret](/_secret/schema-org/Enumeration/Game_Availability_Enumeration/Full_Game_Availability.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Game_Availability_Enumeration/Full_Game_Availability.secret|Full_Game_Availability.secret]] 
 

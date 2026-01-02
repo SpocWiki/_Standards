@@ -18,17 +18,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Limnology](/_Standards/Earth/Geology/Hydrology/Limnology.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geology/Hydrology/Limnology|Limnology]] 
 
-### #is_/same_as :: [Limnology.public](/_public/Earth/Geology/Hydrology/Limnology.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geology/Hydrology/Limnology.public|Limnology.public]] 
 
-### #is_/same_as :: [Limnology.internal](/_internal/Earth/Geology/Hydrology/Limnology.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geology/Hydrology/Limnology.internal|Limnology.internal]] 
 
-### #is_/same_as :: [Limnology.protect](/_protect/Earth/Geology/Hydrology/Limnology.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geology/Hydrology/Limnology.protect|Limnology.protect]] 
 
-### #is_/same_as :: [Limnology.private](/_private/Earth/Geology/Hydrology/Limnology.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geology/Hydrology/Limnology.private|Limnology.private]] 
 
-### #is_/same_as :: [Limnology.personal](/_personal/Earth/Geology/Hydrology/Limnology.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geology/Hydrology/Limnology.personal|Limnology.personal]] 
 
-### #is_/same_as :: [Limnology.secret](/_secret/Earth/Geology/Hydrology/Limnology.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geology/Hydrology/Limnology.secret|Limnology.secret]] 
 

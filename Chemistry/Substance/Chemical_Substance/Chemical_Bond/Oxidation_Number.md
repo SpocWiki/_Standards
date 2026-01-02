@@ -39,17 +39,17 @@ Commons_category: Oxidation states
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Oxidation_Number](/_Standards/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Oxidation_Number.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Oxidation_Number|Oxidation_Number]] 
 
-### #is_/same_as :: [Oxidation_Number.public](/_public/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Oxidation_Number.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Oxidation_Number.public|Oxidation_Number.public]] 
 
-### #is_/same_as :: [Oxidation_Number.internal](/_internal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Oxidation_Number.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Oxidation_Number.internal|Oxidation_Number.internal]] 
 
-### #is_/same_as :: [Oxidation_Number.protect](/_protect/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Oxidation_Number.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Oxidation_Number.protect|Oxidation_Number.protect]] 
 
-### #is_/same_as :: [Oxidation_Number.private](/_private/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Oxidation_Number.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Oxidation_Number.private|Oxidation_Number.private]] 
 
-### #is_/same_as :: [Oxidation_Number.personal](/_personal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Oxidation_Number.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Oxidation_Number.personal|Oxidation_Number.personal]] 
 
-### #is_/same_as :: [Oxidation_Number.secret](/_secret/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Oxidation_Number.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Oxidation_Number.secret|Oxidation_Number.secret]] 
 

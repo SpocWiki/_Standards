@@ -67,17 +67,17 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/H%C3%A1zasp%C3%A1r.jpg
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Old_Age](/_Standards/bio/Reproduction/Developmental_Biology/Ageing/Old_Age.md) 
+### #is_/same_as :: [[/_Standards/bio/Reproduction/Developmental_Biology/Ageing/Old_Age|Old_Age]] 
 
-### #is_/same_as :: [Old_Age.public](/_public/bio/Reproduction/Developmental_Biology/Ageing/Old_Age.public.md) 
+### #is_/same_as :: [[/_public/bio/Reproduction/Developmental_Biology/Ageing/Old_Age.public|Old_Age.public]] 
 
-### #is_/same_as :: [Old_Age.internal](/_internal/bio/Reproduction/Developmental_Biology/Ageing/Old_Age.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Reproduction/Developmental_Biology/Ageing/Old_Age.internal|Old_Age.internal]] 
 
-### #is_/same_as :: [Old_Age.protect](/_protect/bio/Reproduction/Developmental_Biology/Ageing/Old_Age.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Reproduction/Developmental_Biology/Ageing/Old_Age.protect|Old_Age.protect]] 
 
-### #is_/same_as :: [Old_Age.private](/_private/bio/Reproduction/Developmental_Biology/Ageing/Old_Age.private.md) 
+### #is_/same_as :: [[/_private/bio/Reproduction/Developmental_Biology/Ageing/Old_Age.private|Old_Age.private]] 
 
-### #is_/same_as :: [Old_Age.personal](/_personal/bio/Reproduction/Developmental_Biology/Ageing/Old_Age.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Reproduction/Developmental_Biology/Ageing/Old_Age.personal|Old_Age.personal]] 
 
-### #is_/same_as :: [Old_Age.secret](/_secret/bio/Reproduction/Developmental_Biology/Ageing/Old_Age.secret.md)
+### #is_/same_as :: [[/_secret/bio/Reproduction/Developmental_Biology/Ageing/Old_Age.secret|Old_Age.secret]] 
 

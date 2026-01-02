@@ -60,17 +60,17 @@ booru_tag: american_flag_mask
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Mask](/_Standards/Technology/Tool/Clothing/Mask.md) 
+### #is_/same_as :: [[/_Standards/Technology/Tool/Clothing/Mask|Mask]] 
 
-### #is_/same_as :: [Mask.public](/_public/Technology/Tool/Clothing/Mask.public.md) 
+### #is_/same_as :: [[/_public/Technology/Tool/Clothing/Mask.public|Mask.public]] 
 
-### #is_/same_as :: [Mask.internal](/_internal/Technology/Tool/Clothing/Mask.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Tool/Clothing/Mask.internal|Mask.internal]] 
 
-### #is_/same_as :: [Mask.protect](/_protect/Technology/Tool/Clothing/Mask.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Tool/Clothing/Mask.protect|Mask.protect]] 
 
-### #is_/same_as :: [Mask.private](/_private/Technology/Tool/Clothing/Mask.private.md) 
+### #is_/same_as :: [[/_private/Technology/Tool/Clothing/Mask.private|Mask.private]] 
 
-### #is_/same_as :: [Mask.personal](/_personal/Technology/Tool/Clothing/Mask.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Tool/Clothing/Mask.personal|Mask.personal]] 
 
-### #is_/same_as :: [Mask.secret](/_secret/Technology/Tool/Clothing/Mask.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Tool/Clothing/Mask.secret|Mask.secret]] 
 

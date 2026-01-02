@@ -105,17 +105,17 @@ Libris_URI: 31fhk94m0s4wkg7
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Antonioni,Michelangelo](/_Standards/Society/Communication/Media/Movie/Movie-Director/Antonioni,Michelangelo.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Director/Antonioni,Michelangelo|Antonioni,Michelangelo]] 
 
-### #is_/same_as :: [Antonioni,Michelangelo.public](/_public/Society/Communication/Media/Movie/Movie-Director/Antonioni,Michelangelo.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Director/Antonioni,Michelangelo.public|Antonioni,Michelangelo.public]] 
 
-### #is_/same_as :: [Antonioni,Michelangelo.internal](/_internal/Society/Communication/Media/Movie/Movie-Director/Antonioni,Michelangelo.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Director/Antonioni,Michelangelo.internal|Antonioni,Michelangelo.internal]] 
 
-### #is_/same_as :: [Antonioni,Michelangelo.protect](/_protect/Society/Communication/Media/Movie/Movie-Director/Antonioni,Michelangelo.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Director/Antonioni,Michelangelo.protect|Antonioni,Michelangelo.protect]] 
 
-### #is_/same_as :: [Antonioni,Michelangelo.private](/_private/Society/Communication/Media/Movie/Movie-Director/Antonioni,Michelangelo.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Director/Antonioni,Michelangelo.private|Antonioni,Michelangelo.private]] 
 
-### #is_/same_as :: [Antonioni,Michelangelo.personal](/_personal/Society/Communication/Media/Movie/Movie-Director/Antonioni,Michelangelo.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Director/Antonioni,Michelangelo.personal|Antonioni,Michelangelo.personal]] 
 
-### #is_/same_as :: [Antonioni,Michelangelo.secret](/_secret/Society/Communication/Media/Movie/Movie-Director/Antonioni,Michelangelo.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Director/Antonioni,Michelangelo.secret|Antonioni,Michelangelo.secret]] 
 

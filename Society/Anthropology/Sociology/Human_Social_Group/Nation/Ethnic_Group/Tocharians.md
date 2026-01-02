@@ -61,17 +61,17 @@ Commons_category: Tocharians
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Tocharians](/_Standards/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Tocharians.md) 
+### #is_/same_as :: [[/_Standards/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Tocharians|Tocharians]] 
 
-### #is_/same_as :: [Tocharians.public](/_public/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Tocharians.public.md) 
+### #is_/same_as :: [[/_public/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Tocharians.public|Tocharians.public]] 
 
-### #is_/same_as :: [Tocharians.internal](/_internal/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Tocharians.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Tocharians.internal|Tocharians.internal]] 
 
-### #is_/same_as :: [Tocharians.protect](/_protect/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Tocharians.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Tocharians.protect|Tocharians.protect]] 
 
-### #is_/same_as :: [Tocharians.private](/_private/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Tocharians.private.md) 
+### #is_/same_as :: [[/_private/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Tocharians.private|Tocharians.private]] 
 
-### #is_/same_as :: [Tocharians.personal](/_personal/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Tocharians.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Tocharians.personal|Tocharians.personal]] 
 
-### #is_/same_as :: [Tocharians.secret](/_secret/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Tocharians.secret.md)
+### #is_/same_as :: [[/_secret/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Tocharians.secret|Tocharians.secret]] 
 

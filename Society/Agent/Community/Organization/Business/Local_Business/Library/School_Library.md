@@ -39,17 +39,17 @@ Commons_category: School libraries
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [School_Library](/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Library/School_Library.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Library/School_Library|School_Library]] 
 
-### #is_/same_as :: [School_Library.public](/_public/Society/Agent/Community/Organization/Business/Local_Business/Library/School_Library.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Business/Local_Business/Library/School_Library.public|School_Library.public]] 
 
-### #is_/same_as :: [School_Library.internal](/_internal/Society/Agent/Community/Organization/Business/Local_Business/Library/School_Library.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Business/Local_Business/Library/School_Library.internal|School_Library.internal]] 
 
-### #is_/same_as :: [School_Library.protect](/_protect/Society/Agent/Community/Organization/Business/Local_Business/Library/School_Library.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Business/Local_Business/Library/School_Library.protect|School_Library.protect]] 
 
-### #is_/same_as :: [School_Library.private](/_private/Society/Agent/Community/Organization/Business/Local_Business/Library/School_Library.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Business/Local_Business/Library/School_Library.private|School_Library.private]] 
 
-### #is_/same_as :: [School_Library.personal](/_personal/Society/Agent/Community/Organization/Business/Local_Business/Library/School_Library.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Business/Local_Business/Library/School_Library.personal|School_Library.personal]] 
 
-### #is_/same_as :: [School_Library.secret](/_secret/Society/Agent/Community/Organization/Business/Local_Business/Library/School_Library.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Business/Local_Business/Library/School_Library.secret|School_Library.secret]] 
 

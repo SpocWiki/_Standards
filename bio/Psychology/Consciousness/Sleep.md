@@ -90,17 +90,17 @@ Krugosvet_article_archived_: medicina/SON.html
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sleep](/_Standards/bio/Psychology/Consciousness/Sleep.md) 
+### #is_/same_as :: [[/_Standards/bio/Psychology/Consciousness/Sleep|Sleep]] 
 
-### #is_/same_as :: [Sleep.public](/_public/bio/Psychology/Consciousness/Sleep.public.md) 
+### #is_/same_as :: [[/_public/bio/Psychology/Consciousness/Sleep.public|Sleep.public]] 
 
-### #is_/same_as :: [Sleep.internal](/_internal/bio/Psychology/Consciousness/Sleep.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Psychology/Consciousness/Sleep.internal|Sleep.internal]] 
 
-### #is_/same_as :: [Sleep.protect](/_protect/bio/Psychology/Consciousness/Sleep.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Psychology/Consciousness/Sleep.protect|Sleep.protect]] 
 
-### #is_/same_as :: [Sleep.private](/_private/bio/Psychology/Consciousness/Sleep.private.md) 
+### #is_/same_as :: [[/_private/bio/Psychology/Consciousness/Sleep.private|Sleep.private]] 
 
-### #is_/same_as :: [Sleep.personal](/_personal/bio/Psychology/Consciousness/Sleep.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Psychology/Consciousness/Sleep.personal|Sleep.personal]] 
 
-### #is_/same_as :: [Sleep.secret](/_secret/bio/Psychology/Consciousness/Sleep.secret.md)
+### #is_/same_as :: [[/_secret/bio/Psychology/Consciousness/Sleep.secret|Sleep.secret]] 
 

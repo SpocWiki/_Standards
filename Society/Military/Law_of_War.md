@@ -59,17 +59,17 @@ Commons_category: Laws of war
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Law_of_War](/_Standards/Society/Military/Law_of_War.md) 
+### #is_/same_as :: [[/_Standards/Society/Military/Law_of_War|Law_of_War]] 
 
-### #is_/same_as :: [Law_of_War.public](/_public/Society/Military/Law_of_War.public.md) 
+### #is_/same_as :: [[/_public/Society/Military/Law_of_War.public|Law_of_War.public]] 
 
-### #is_/same_as :: [Law_of_War.internal](/_internal/Society/Military/Law_of_War.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Military/Law_of_War.internal|Law_of_War.internal]] 
 
-### #is_/same_as :: [Law_of_War.protect](/_protect/Society/Military/Law_of_War.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Military/Law_of_War.protect|Law_of_War.protect]] 
 
-### #is_/same_as :: [Law_of_War.private](/_private/Society/Military/Law_of_War.private.md) 
+### #is_/same_as :: [[/_private/Society/Military/Law_of_War.private|Law_of_War.private]] 
 
-### #is_/same_as :: [Law_of_War.personal](/_personal/Society/Military/Law_of_War.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Military/Law_of_War.personal|Law_of_War.personal]] 
 
-### #is_/same_as :: [Law_of_War.secret](/_secret/Society/Military/Law_of_War.secret.md)
+### #is_/same_as :: [[/_secret/Society/Military/Law_of_War.secret|Law_of_War.secret]] 
 

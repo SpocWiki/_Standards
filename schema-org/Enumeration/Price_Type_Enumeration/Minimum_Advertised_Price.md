@@ -44,17 +44,17 @@ Represents the minimum advertised price ("MAP") (as dictated by the manufacturer
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Minimum_Advertised_Price](/_Standards/schema-org/Enumeration/Price_Type_Enumeration/Minimum_Advertised_Price.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Price_Type_Enumeration/Minimum_Advertised_Price|Minimum_Advertised_Price]] 
 
-### #is_/same_as :: [Minimum_Advertised_Price.public](/_public/schema-org/Enumeration/Price_Type_Enumeration/Minimum_Advertised_Price.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Price_Type_Enumeration/Minimum_Advertised_Price.public|Minimum_Advertised_Price.public]] 
 
-### #is_/same_as :: [Minimum_Advertised_Price.internal](/_internal/schema-org/Enumeration/Price_Type_Enumeration/Minimum_Advertised_Price.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Price_Type_Enumeration/Minimum_Advertised_Price.internal|Minimum_Advertised_Price.internal]] 
 
-### #is_/same_as :: [Minimum_Advertised_Price.protect](/_protect/schema-org/Enumeration/Price_Type_Enumeration/Minimum_Advertised_Price.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Price_Type_Enumeration/Minimum_Advertised_Price.protect|Minimum_Advertised_Price.protect]] 
 
-### #is_/same_as :: [Minimum_Advertised_Price.private](/_private/schema-org/Enumeration/Price_Type_Enumeration/Minimum_Advertised_Price.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Price_Type_Enumeration/Minimum_Advertised_Price.private|Minimum_Advertised_Price.private]] 
 
-### #is_/same_as :: [Minimum_Advertised_Price.personal](/_personal/schema-org/Enumeration/Price_Type_Enumeration/Minimum_Advertised_Price.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Price_Type_Enumeration/Minimum_Advertised_Price.personal|Minimum_Advertised_Price.personal]] 
 
-### #is_/same_as :: [Minimum_Advertised_Price.secret](/_secret/schema-org/Enumeration/Price_Type_Enumeration/Minimum_Advertised_Price.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Price_Type_Enumeration/Minimum_Advertised_Price.secret|Minimum_Advertised_Price.secret]] 
 

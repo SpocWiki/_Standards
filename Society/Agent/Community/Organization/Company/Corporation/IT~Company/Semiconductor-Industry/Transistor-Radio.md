@@ -38,17 +38,17 @@ and thus fit into the Pocket.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Transistor-Radio](/_Standards/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/Transistor-Radio.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/Transistor-Radio|Transistor-Radio]] 
 
-### #is_/same_as :: [Transistor-Radio.public](/_public/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/Transistor-Radio.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/Transistor-Radio.public|Transistor-Radio.public]] 
 
-### #is_/same_as :: [Transistor-Radio.internal](/_internal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/Transistor-Radio.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/Transistor-Radio.internal|Transistor-Radio.internal]] 
 
-### #is_/same_as :: [Transistor-Radio.protect](/_protect/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/Transistor-Radio.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/Transistor-Radio.protect|Transistor-Radio.protect]] 
 
-### #is_/same_as :: [Transistor-Radio.private](/_private/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/Transistor-Radio.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/Transistor-Radio.private|Transistor-Radio.private]] 
 
-### #is_/same_as :: [Transistor-Radio.personal](/_personal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/Transistor-Radio.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/Transistor-Radio.personal|Transistor-Radio.personal]] 
 
-### #is_/same_as :: [Transistor-Radio.secret](/_secret/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/Transistor-Radio.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/Transistor-Radio.secret|Transistor-Radio.secret]] 
 

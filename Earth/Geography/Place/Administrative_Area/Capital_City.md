@@ -57,17 +57,17 @@ OpenStreetMap_tag: capital=yes
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Capital_City](/_Standards/Earth/Geography/Place/Administrative_Area/Capital_City.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geography/Place/Administrative_Area/Capital_City|Capital_City]] 
 
-### #is_/same_as :: [Capital_City.public](/_public/Earth/Geography/Place/Administrative_Area/Capital_City.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geography/Place/Administrative_Area/Capital_City.public|Capital_City.public]] 
 
-### #is_/same_as :: [Capital_City.internal](/_internal/Earth/Geography/Place/Administrative_Area/Capital_City.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geography/Place/Administrative_Area/Capital_City.internal|Capital_City.internal]] 
 
-### #is_/same_as :: [Capital_City.protect](/_protect/Earth/Geography/Place/Administrative_Area/Capital_City.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geography/Place/Administrative_Area/Capital_City.protect|Capital_City.protect]] 
 
-### #is_/same_as :: [Capital_City.private](/_private/Earth/Geography/Place/Administrative_Area/Capital_City.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geography/Place/Administrative_Area/Capital_City.private|Capital_City.private]] 
 
-### #is_/same_as :: [Capital_City.personal](/_personal/Earth/Geography/Place/Administrative_Area/Capital_City.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geography/Place/Administrative_Area/Capital_City.personal|Capital_City.personal]] 
 
-### #is_/same_as :: [Capital_City.secret](/_secret/Earth/Geography/Place/Administrative_Area/Capital_City.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geography/Place/Administrative_Area/Capital_City.secret|Capital_City.secret]] 
 

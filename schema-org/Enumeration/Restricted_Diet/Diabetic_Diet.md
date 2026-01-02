@@ -42,17 +42,17 @@ A diet appropriate for people with diabetes.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Diabetic_Diet](/_Standards/schema-org/Enumeration/Restricted_Diet/Diabetic_Diet.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Restricted_Diet/Diabetic_Diet|Diabetic_Diet]] 
 
-### #is_/same_as :: [Diabetic_Diet.public](/_public/schema-org/Enumeration/Restricted_Diet/Diabetic_Diet.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Restricted_Diet/Diabetic_Diet.public|Diabetic_Diet.public]] 
 
-### #is_/same_as :: [Diabetic_Diet.internal](/_internal/schema-org/Enumeration/Restricted_Diet/Diabetic_Diet.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Restricted_Diet/Diabetic_Diet.internal|Diabetic_Diet.internal]] 
 
-### #is_/same_as :: [Diabetic_Diet.protect](/_protect/schema-org/Enumeration/Restricted_Diet/Diabetic_Diet.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Restricted_Diet/Diabetic_Diet.protect|Diabetic_Diet.protect]] 
 
-### #is_/same_as :: [Diabetic_Diet.private](/_private/schema-org/Enumeration/Restricted_Diet/Diabetic_Diet.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Restricted_Diet/Diabetic_Diet.private|Diabetic_Diet.private]] 
 
-### #is_/same_as :: [Diabetic_Diet.personal](/_personal/schema-org/Enumeration/Restricted_Diet/Diabetic_Diet.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Restricted_Diet/Diabetic_Diet.personal|Diabetic_Diet.personal]] 
 
-### #is_/same_as :: [Diabetic_Diet.secret](/_secret/schema-org/Enumeration/Restricted_Diet/Diabetic_Diet.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Restricted_Diet/Diabetic_Diet.secret|Diabetic_Diet.secret]] 
 

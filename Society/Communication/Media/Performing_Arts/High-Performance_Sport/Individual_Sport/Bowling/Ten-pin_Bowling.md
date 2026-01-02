@@ -69,17 +69,17 @@ Dewey_Decimal_Classification: "794.6"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ten-pin_Bowling](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Bowling/Ten-pin_Bowling.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Bowling/Ten-pin_Bowling|Ten-pin_Bowling]] 
 
-### #is_/same_as :: [Ten-pin_Bowling.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Bowling/Ten-pin_Bowling.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Bowling/Ten-pin_Bowling.public|Ten-pin_Bowling.public]] 
 
-### #is_/same_as :: [Ten-pin_Bowling.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Bowling/Ten-pin_Bowling.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Bowling/Ten-pin_Bowling.internal|Ten-pin_Bowling.internal]] 
 
-### #is_/same_as :: [Ten-pin_Bowling.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Bowling/Ten-pin_Bowling.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Bowling/Ten-pin_Bowling.protect|Ten-pin_Bowling.protect]] 
 
-### #is_/same_as :: [Ten-pin_Bowling.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Bowling/Ten-pin_Bowling.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Bowling/Ten-pin_Bowling.private|Ten-pin_Bowling.private]] 
 
-### #is_/same_as :: [Ten-pin_Bowling.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Bowling/Ten-pin_Bowling.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Bowling/Ten-pin_Bowling.personal|Ten-pin_Bowling.personal]] 
 
-### #is_/same_as :: [Ten-pin_Bowling.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Bowling/Ten-pin_Bowling.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Bowling/Ten-pin_Bowling.secret|Ten-pin_Bowling.secret]] 
 

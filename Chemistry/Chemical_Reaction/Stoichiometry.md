@@ -60,17 +60,17 @@ Dewey_Decimal_Classification: 541.26
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Stoichiometry](/_Standards/Chemistry/Chemical_Reaction/Stoichiometry.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Chemical_Reaction/Stoichiometry|Stoichiometry]] 
 
-### #is_/same_as :: [Stoichiometry.public](/_public/Chemistry/Chemical_Reaction/Stoichiometry.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Chemical_Reaction/Stoichiometry.public|Stoichiometry.public]] 
 
-### #is_/same_as :: [Stoichiometry.internal](/_internal/Chemistry/Chemical_Reaction/Stoichiometry.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Chemical_Reaction/Stoichiometry.internal|Stoichiometry.internal]] 
 
-### #is_/same_as :: [Stoichiometry.protect](/_protect/Chemistry/Chemical_Reaction/Stoichiometry.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Chemical_Reaction/Stoichiometry.protect|Stoichiometry.protect]] 
 
-### #is_/same_as :: [Stoichiometry.private](/_private/Chemistry/Chemical_Reaction/Stoichiometry.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Chemical_Reaction/Stoichiometry.private|Stoichiometry.private]] 
 
-### #is_/same_as :: [Stoichiometry.personal](/_personal/Chemistry/Chemical_Reaction/Stoichiometry.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Chemical_Reaction/Stoichiometry.personal|Stoichiometry.personal]] 
 
-### #is_/same_as :: [Stoichiometry.secret](/_secret/Chemistry/Chemical_Reaction/Stoichiometry.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Chemical_Reaction/Stoichiometry.secret|Stoichiometry.secret]] 
 

@@ -41,17 +41,17 @@ Skin assessment with clinical examination.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Skin_Exam](/_Standards/bio/Medicine/Medical_Enumeration/Physical_Exam/Skin_Exam.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Enumeration/Physical_Exam/Skin_Exam|Skin_Exam]] 
 
-### #is_/same_as :: [Skin_Exam.public](/_public/bio/Medicine/Medical_Enumeration/Physical_Exam/Skin_Exam.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Enumeration/Physical_Exam/Skin_Exam.public|Skin_Exam.public]] 
 
-### #is_/same_as :: [Skin_Exam.internal](/_internal/bio/Medicine/Medical_Enumeration/Physical_Exam/Skin_Exam.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Enumeration/Physical_Exam/Skin_Exam.internal|Skin_Exam.internal]] 
 
-### #is_/same_as :: [Skin_Exam.protect](/_protect/bio/Medicine/Medical_Enumeration/Physical_Exam/Skin_Exam.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Enumeration/Physical_Exam/Skin_Exam.protect|Skin_Exam.protect]] 
 
-### #is_/same_as :: [Skin_Exam.private](/_private/bio/Medicine/Medical_Enumeration/Physical_Exam/Skin_Exam.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Enumeration/Physical_Exam/Skin_Exam.private|Skin_Exam.private]] 
 
-### #is_/same_as :: [Skin_Exam.personal](/_personal/bio/Medicine/Medical_Enumeration/Physical_Exam/Skin_Exam.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Enumeration/Physical_Exam/Skin_Exam.personal|Skin_Exam.personal]] 
 
-### #is_/same_as :: [Skin_Exam.secret](/_secret/bio/Medicine/Medical_Enumeration/Physical_Exam/Skin_Exam.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Enumeration/Physical_Exam/Skin_Exam.secret|Skin_Exam.secret]] 
 

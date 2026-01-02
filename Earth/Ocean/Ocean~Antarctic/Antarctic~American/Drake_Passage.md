@@ -56,17 +56,17 @@ coordinate_location: Point(-62.909444444 -58.580277777)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Drake_Passage](/_Standards/Earth/Ocean/Ocean~Antarctic/Antarctic~American/Drake_Passage.md) 
+### #is_/same_as :: [[/_Standards/Earth/Ocean/Ocean~Antarctic/Antarctic~American/Drake_Passage|Drake_Passage]] 
 
-### #is_/same_as :: [Drake_Passage.public](/_public/Earth/Ocean/Ocean~Antarctic/Antarctic~American/Drake_Passage.public.md) 
+### #is_/same_as :: [[/_public/Earth/Ocean/Ocean~Antarctic/Antarctic~American/Drake_Passage.public|Drake_Passage.public]] 
 
-### #is_/same_as :: [Drake_Passage.internal](/_internal/Earth/Ocean/Ocean~Antarctic/Antarctic~American/Drake_Passage.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Ocean/Ocean~Antarctic/Antarctic~American/Drake_Passage.internal|Drake_Passage.internal]] 
 
-### #is_/same_as :: [Drake_Passage.protect](/_protect/Earth/Ocean/Ocean~Antarctic/Antarctic~American/Drake_Passage.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Ocean/Ocean~Antarctic/Antarctic~American/Drake_Passage.protect|Drake_Passage.protect]] 
 
-### #is_/same_as :: [Drake_Passage.private](/_private/Earth/Ocean/Ocean~Antarctic/Antarctic~American/Drake_Passage.private.md) 
+### #is_/same_as :: [[/_private/Earth/Ocean/Ocean~Antarctic/Antarctic~American/Drake_Passage.private|Drake_Passage.private]] 
 
-### #is_/same_as :: [Drake_Passage.personal](/_personal/Earth/Ocean/Ocean~Antarctic/Antarctic~American/Drake_Passage.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Ocean/Ocean~Antarctic/Antarctic~American/Drake_Passage.personal|Drake_Passage.personal]] 
 
-### #is_/same_as :: [Drake_Passage.secret](/_secret/Earth/Ocean/Ocean~Antarctic/Antarctic~American/Drake_Passage.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Ocean/Ocean~Antarctic/Antarctic~American/Drake_Passage.secret|Drake_Passage.secret]] 
 

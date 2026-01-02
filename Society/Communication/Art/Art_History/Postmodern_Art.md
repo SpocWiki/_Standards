@@ -28,17 +28,17 @@ Commons_category: Postmodern art
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Postmodern_Art](/_Standards/Society/Communication/Art/Art_History/Postmodern_Art.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Art/Art_History/Postmodern_Art|Postmodern_Art]] 
 
-### #is_/same_as :: [Postmodern_Art.public](/_public/Society/Communication/Art/Art_History/Postmodern_Art.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Art/Art_History/Postmodern_Art.public|Postmodern_Art.public]] 
 
-### #is_/same_as :: [Postmodern_Art.internal](/_internal/Society/Communication/Art/Art_History/Postmodern_Art.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Art/Art_History/Postmodern_Art.internal|Postmodern_Art.internal]] 
 
-### #is_/same_as :: [Postmodern_Art.protect](/_protect/Society/Communication/Art/Art_History/Postmodern_Art.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Art/Art_History/Postmodern_Art.protect|Postmodern_Art.protect]] 
 
-### #is_/same_as :: [Postmodern_Art.private](/_private/Society/Communication/Art/Art_History/Postmodern_Art.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Art/Art_History/Postmodern_Art.private|Postmodern_Art.private]] 
 
-### #is_/same_as :: [Postmodern_Art.personal](/_personal/Society/Communication/Art/Art_History/Postmodern_Art.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Art/Art_History/Postmodern_Art.personal|Postmodern_Art.personal]] 
 
-### #is_/same_as :: [Postmodern_Art.secret](/_secret/Society/Communication/Art/Art_History/Postmodern_Art.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Art/Art_History/Postmodern_Art.secret|Postmodern_Art.secret]] 
 

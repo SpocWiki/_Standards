@@ -28,17 +28,17 @@ Commons_category: Neo-expressionism
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Neo-Expressionism](/_Standards/Society/Communication/Art/History_of_Art/Neo-Expressionism.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Art/History_of_Art/Neo-Expressionism|Neo-Expressionism]] 
 
-### #is_/same_as :: [Neo-Expressionism.public](/_public/Society/Communication/Art/History_of_Art/Neo-Expressionism.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Art/History_of_Art/Neo-Expressionism.public|Neo-Expressionism.public]] 
 
-### #is_/same_as :: [Neo-Expressionism.internal](/_internal/Society/Communication/Art/History_of_Art/Neo-Expressionism.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Art/History_of_Art/Neo-Expressionism.internal|Neo-Expressionism.internal]] 
 
-### #is_/same_as :: [Neo-Expressionism.protect](/_protect/Society/Communication/Art/History_of_Art/Neo-Expressionism.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Art/History_of_Art/Neo-Expressionism.protect|Neo-Expressionism.protect]] 
 
-### #is_/same_as :: [Neo-Expressionism.private](/_private/Society/Communication/Art/History_of_Art/Neo-Expressionism.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Art/History_of_Art/Neo-Expressionism.private|Neo-Expressionism.private]] 
 
-### #is_/same_as :: [Neo-Expressionism.personal](/_personal/Society/Communication/Art/History_of_Art/Neo-Expressionism.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Art/History_of_Art/Neo-Expressionism.personal|Neo-Expressionism.personal]] 
 
-### #is_/same_as :: [Neo-Expressionism.secret](/_secret/Society/Communication/Art/History_of_Art/Neo-Expressionism.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Art/History_of_Art/Neo-Expressionism.secret|Neo-Expressionism.secret]] 
 

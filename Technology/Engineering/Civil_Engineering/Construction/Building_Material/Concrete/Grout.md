@@ -42,17 +42,17 @@ Commons_category: Grouting
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Grout](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Building_Material/Concrete/Grout.md) 
+### #is_/same_as :: [[/_Standards/Technology/Engineering/Civil_Engineering/Construction/Building_Material/Concrete/Grout|Grout]] 
 
-### #is_/same_as :: [Grout.public](/_public/Technology/Engineering/Civil_Engineering/Construction/Building_Material/Concrete/Grout.public.md) 
+### #is_/same_as :: [[/_public/Technology/Engineering/Civil_Engineering/Construction/Building_Material/Concrete/Grout.public|Grout.public]] 
 
-### #is_/same_as :: [Grout.internal](/_internal/Technology/Engineering/Civil_Engineering/Construction/Building_Material/Concrete/Grout.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Engineering/Civil_Engineering/Construction/Building_Material/Concrete/Grout.internal|Grout.internal]] 
 
-### #is_/same_as :: [Grout.protect](/_protect/Technology/Engineering/Civil_Engineering/Construction/Building_Material/Concrete/Grout.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Engineering/Civil_Engineering/Construction/Building_Material/Concrete/Grout.protect|Grout.protect]] 
 
-### #is_/same_as :: [Grout.private](/_private/Technology/Engineering/Civil_Engineering/Construction/Building_Material/Concrete/Grout.private.md) 
+### #is_/same_as :: [[/_private/Technology/Engineering/Civil_Engineering/Construction/Building_Material/Concrete/Grout.private|Grout.private]] 
 
-### #is_/same_as :: [Grout.personal](/_personal/Technology/Engineering/Civil_Engineering/Construction/Building_Material/Concrete/Grout.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Engineering/Civil_Engineering/Construction/Building_Material/Concrete/Grout.personal|Grout.personal]] 
 
-### #is_/same_as :: [Grout.secret](/_secret/Technology/Engineering/Civil_Engineering/Construction/Building_Material/Concrete/Grout.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Engineering/Civil_Engineering/Construction/Building_Material/Concrete/Grout.secret|Grout.secret]] 
 

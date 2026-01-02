@@ -24,17 +24,17 @@ has_id_wikidata: 40754
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Subtraction](/_Standards/Mathematics/Arithmetic/Subtraction.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Arithmetic/Subtraction|Subtraction]] 
 
-### #is_/same_as :: [Subtraction.public](/_public/Mathematics/Arithmetic/Subtraction.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Arithmetic/Subtraction.public|Subtraction.public]] 
 
-### #is_/same_as :: [Subtraction.internal](/_internal/Mathematics/Arithmetic/Subtraction.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Arithmetic/Subtraction.internal|Subtraction.internal]] 
 
-### #is_/same_as :: [Subtraction.protect](/_protect/Mathematics/Arithmetic/Subtraction.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Arithmetic/Subtraction.protect|Subtraction.protect]] 
 
-### #is_/same_as :: [Subtraction.private](/_private/Mathematics/Arithmetic/Subtraction.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Arithmetic/Subtraction.private|Subtraction.private]] 
 
-### #is_/same_as :: [Subtraction.personal](/_personal/Mathematics/Arithmetic/Subtraction.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Arithmetic/Subtraction.personal|Subtraction.personal]] 
 
-### #is_/same_as :: [Subtraction.secret](/_secret/Mathematics/Arithmetic/Subtraction.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Arithmetic/Subtraction.secret|Subtraction.secret]] 
 

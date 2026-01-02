@@ -81,17 +81,17 @@ right_ascension: 23.46206906218
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Triangulum_Galaxy](/_Standards/Astronomy/Star_System/Galaxy/Spiral_Galaxy/Triangulum_Galaxy.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Star_System/Galaxy/Spiral_Galaxy/Triangulum_Galaxy|Triangulum_Galaxy]] 
 
-### #is_/same_as :: [Triangulum_Galaxy.public](/_public/Astronomy/Star_System/Galaxy/Spiral_Galaxy/Triangulum_Galaxy.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Star_System/Galaxy/Spiral_Galaxy/Triangulum_Galaxy.public|Triangulum_Galaxy.public]] 
 
-### #is_/same_as :: [Triangulum_Galaxy.internal](/_internal/Astronomy/Star_System/Galaxy/Spiral_Galaxy/Triangulum_Galaxy.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Star_System/Galaxy/Spiral_Galaxy/Triangulum_Galaxy.internal|Triangulum_Galaxy.internal]] 
 
-### #is_/same_as :: [Triangulum_Galaxy.protect](/_protect/Astronomy/Star_System/Galaxy/Spiral_Galaxy/Triangulum_Galaxy.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Star_System/Galaxy/Spiral_Galaxy/Triangulum_Galaxy.protect|Triangulum_Galaxy.protect]] 
 
-### #is_/same_as :: [Triangulum_Galaxy.private](/_private/Astronomy/Star_System/Galaxy/Spiral_Galaxy/Triangulum_Galaxy.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Star_System/Galaxy/Spiral_Galaxy/Triangulum_Galaxy.private|Triangulum_Galaxy.private]] 
 
-### #is_/same_as :: [Triangulum_Galaxy.personal](/_personal/Astronomy/Star_System/Galaxy/Spiral_Galaxy/Triangulum_Galaxy.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Star_System/Galaxy/Spiral_Galaxy/Triangulum_Galaxy.personal|Triangulum_Galaxy.personal]] 
 
-### #is_/same_as :: [Triangulum_Galaxy.secret](/_secret/Astronomy/Star_System/Galaxy/Spiral_Galaxy/Triangulum_Galaxy.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Star_System/Galaxy/Spiral_Galaxy/Triangulum_Galaxy.secret|Triangulum_Galaxy.secret]] 
 

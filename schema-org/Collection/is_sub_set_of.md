@@ -43,17 +43,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [is_sub_set_of](/_Standards/schema-org/Collection/is_sub_set_of.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Collection/is_sub_set_of|is_sub_set_of]] 
 
-### #is_/same_as :: [is_sub_set_of.public](/_public/schema-org/Collection/is_sub_set_of.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Collection/is_sub_set_of.public|is_sub_set_of.public]] 
 
-### #is_/same_as :: [is_sub_set_of.internal](/_internal/schema-org/Collection/is_sub_set_of.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Collection/is_sub_set_of.internal|is_sub_set_of.internal]] 
 
-### #is_/same_as :: [is_sub_set_of.protect](/_protect/schema-org/Collection/is_sub_set_of.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Collection/is_sub_set_of.protect|is_sub_set_of.protect]] 
 
-### #is_/same_as :: [is_sub_set_of.private](/_private/schema-org/Collection/is_sub_set_of.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Collection/is_sub_set_of.private|is_sub_set_of.private]] 
 
-### #is_/same_as :: [is_sub_set_of.personal](/_personal/schema-org/Collection/is_sub_set_of.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Collection/is_sub_set_of.personal|is_sub_set_of.personal]] 
 
-### #is_/same_as :: [is_sub_set_of.secret](/_secret/schema-org/Collection/is_sub_set_of.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Collection/is_sub_set_of.secret|is_sub_set_of.secret]] 
 

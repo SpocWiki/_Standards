@@ -43,17 +43,17 @@ The act of adding at a specific location in an ordered collection.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Insert_Action](/_Standards/schema-org/Class/is_a_/Action/Update_Action/Add_Action/Insert_Action.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Action/Update_Action/Add_Action/Insert_Action|Insert_Action]] 
 
-### #is_/same_as :: [Insert_Action.public](/_public/schema-org/Class/is_a_/Action/Update_Action/Add_Action/Insert_Action.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Action/Update_Action/Add_Action/Insert_Action.public|Insert_Action.public]] 
 
-### #is_/same_as :: [Insert_Action.internal](/_internal/schema-org/Class/is_a_/Action/Update_Action/Add_Action/Insert_Action.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Action/Update_Action/Add_Action/Insert_Action.internal|Insert_Action.internal]] 
 
-### #is_/same_as :: [Insert_Action.protect](/_protect/schema-org/Class/is_a_/Action/Update_Action/Add_Action/Insert_Action.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Action/Update_Action/Add_Action/Insert_Action.protect|Insert_Action.protect]] 
 
-### #is_/same_as :: [Insert_Action.private](/_private/schema-org/Class/is_a_/Action/Update_Action/Add_Action/Insert_Action.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Action/Update_Action/Add_Action/Insert_Action.private|Insert_Action.private]] 
 
-### #is_/same_as :: [Insert_Action.personal](/_personal/schema-org/Class/is_a_/Action/Update_Action/Add_Action/Insert_Action.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Action/Update_Action/Add_Action/Insert_Action.personal|Insert_Action.personal]] 
 
-### #is_/same_as :: [Insert_Action.secret](/_secret/schema-org/Class/is_a_/Action/Update_Action/Add_Action/Insert_Action.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Action/Update_Action/Add_Action/Insert_Action.secret|Insert_Action.secret]] 
 

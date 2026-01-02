@@ -65,17 +65,17 @@ Commons_category: Nationality
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Nationality](/_Standards/Society/Anthropology/Sociology/Human_Social_Group/Nationality.md) 
+### #is_/same_as :: [[/_Standards/Society/Anthropology/Sociology/Human_Social_Group/Nationality|Nationality]] 
 
-### #is_/same_as :: [Nationality.public](/_public/Society/Anthropology/Sociology/Human_Social_Group/Nationality.public.md) 
+### #is_/same_as :: [[/_public/Society/Anthropology/Sociology/Human_Social_Group/Nationality.public|Nationality.public]] 
 
-### #is_/same_as :: [Nationality.internal](/_internal/Society/Anthropology/Sociology/Human_Social_Group/Nationality.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Anthropology/Sociology/Human_Social_Group/Nationality.internal|Nationality.internal]] 
 
-### #is_/same_as :: [Nationality.protect](/_protect/Society/Anthropology/Sociology/Human_Social_Group/Nationality.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Anthropology/Sociology/Human_Social_Group/Nationality.protect|Nationality.protect]] 
 
-### #is_/same_as :: [Nationality.private](/_private/Society/Anthropology/Sociology/Human_Social_Group/Nationality.private.md) 
+### #is_/same_as :: [[/_private/Society/Anthropology/Sociology/Human_Social_Group/Nationality.private|Nationality.private]] 
 
-### #is_/same_as :: [Nationality.personal](/_personal/Society/Anthropology/Sociology/Human_Social_Group/Nationality.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Anthropology/Sociology/Human_Social_Group/Nationality.personal|Nationality.personal]] 
 
-### #is_/same_as :: [Nationality.secret](/_secret/Society/Anthropology/Sociology/Human_Social_Group/Nationality.secret.md)
+### #is_/same_as :: [[/_secret/Society/Anthropology/Sociology/Human_Social_Group/Nationality.secret|Nationality.secret]] 
 

@@ -41,17 +41,17 @@ A screening of a movie or other video.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Screening_Event](/_Standards/schema-org/Class/is_a_/Event/Screening_Event.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Event/Screening_Event|Screening_Event]] 
 
-### #is_/same_as :: [Screening_Event.public](/_public/schema-org/Class/is_a_/Event/Screening_Event.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Event/Screening_Event.public|Screening_Event.public]] 
 
-### #is_/same_as :: [Screening_Event.internal](/_internal/schema-org/Class/is_a_/Event/Screening_Event.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Event/Screening_Event.internal|Screening_Event.internal]] 
 
-### #is_/same_as :: [Screening_Event.protect](/_protect/schema-org/Class/is_a_/Event/Screening_Event.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Event/Screening_Event.protect|Screening_Event.protect]] 
 
-### #is_/same_as :: [Screening_Event.private](/_private/schema-org/Class/is_a_/Event/Screening_Event.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Event/Screening_Event.private|Screening_Event.private]] 
 
-### #is_/same_as :: [Screening_Event.personal](/_personal/schema-org/Class/is_a_/Event/Screening_Event.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Event/Screening_Event.personal|Screening_Event.personal]] 
 
-### #is_/same_as :: [Screening_Event.secret](/_secret/schema-org/Class/is_a_/Event/Screening_Event.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Event/Screening_Event.secret|Screening_Event.secret]] 
 

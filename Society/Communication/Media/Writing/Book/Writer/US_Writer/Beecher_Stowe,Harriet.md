@@ -137,17 +137,17 @@ U_S_National_Archives_Identifier: 10580997
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Beecher_Stowe,Harriet](/_Standards/Society/Communication/Media/Writing/Book/Writer/US_Writer/Beecher_Stowe,Harriet.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Writer/US_Writer/Beecher_Stowe,Harriet|Beecher_Stowe,Harriet]] 
 
-### #is_/same_as :: [Beecher_Stowe,Harriet.public](/_public/Society/Communication/Media/Writing/Book/Writer/US_Writer/Beecher_Stowe,Harriet.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Writer/US_Writer/Beecher_Stowe,Harriet.public|Beecher_Stowe,Harriet.public]] 
 
-### #is_/same_as :: [Beecher_Stowe,Harriet.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/US_Writer/Beecher_Stowe,Harriet.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Writer/US_Writer/Beecher_Stowe,Harriet.internal|Beecher_Stowe,Harriet.internal]] 
 
-### #is_/same_as :: [Beecher_Stowe,Harriet.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/US_Writer/Beecher_Stowe,Harriet.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Writer/US_Writer/Beecher_Stowe,Harriet.protect|Beecher_Stowe,Harriet.protect]] 
 
-### #is_/same_as :: [Beecher_Stowe,Harriet.private](/_private/Society/Communication/Media/Writing/Book/Writer/US_Writer/Beecher_Stowe,Harriet.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Writer/US_Writer/Beecher_Stowe,Harriet.private|Beecher_Stowe,Harriet.private]] 
 
-### #is_/same_as :: [Beecher_Stowe,Harriet.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/US_Writer/Beecher_Stowe,Harriet.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Writer/US_Writer/Beecher_Stowe,Harriet.personal|Beecher_Stowe,Harriet.personal]] 
 
-### #is_/same_as :: [Beecher_Stowe,Harriet.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/US_Writer/Beecher_Stowe,Harriet.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Writer/US_Writer/Beecher_Stowe,Harriet.secret|Beecher_Stowe,Harriet.secret]] 
 

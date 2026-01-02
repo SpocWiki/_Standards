@@ -57,17 +57,17 @@ defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ideal_Gas_Law](/_Standards/Science/Physics/Thermodynamics/Ideal_Gas/Ideal_Gas_Law.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Thermodynamics/Ideal_Gas/Ideal_Gas_Law|Ideal_Gas_Law]] 
 
-### #is_/same_as :: [Ideal_Gas_Law.public](/_public/Science/Physics/Thermodynamics/Ideal_Gas/Ideal_Gas_Law.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Thermodynamics/Ideal_Gas/Ideal_Gas_Law.public|Ideal_Gas_Law.public]] 
 
-### #is_/same_as :: [Ideal_Gas_Law.internal](/_internal/Science/Physics/Thermodynamics/Ideal_Gas/Ideal_Gas_Law.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Thermodynamics/Ideal_Gas/Ideal_Gas_Law.internal|Ideal_Gas_Law.internal]] 
 
-### #is_/same_as :: [Ideal_Gas_Law.protect](/_protect/Science/Physics/Thermodynamics/Ideal_Gas/Ideal_Gas_Law.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Thermodynamics/Ideal_Gas/Ideal_Gas_Law.protect|Ideal_Gas_Law.protect]] 
 
-### #is_/same_as :: [Ideal_Gas_Law.private](/_private/Science/Physics/Thermodynamics/Ideal_Gas/Ideal_Gas_Law.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Thermodynamics/Ideal_Gas/Ideal_Gas_Law.private|Ideal_Gas_Law.private]] 
 
-### #is_/same_as :: [Ideal_Gas_Law.personal](/_personal/Science/Physics/Thermodynamics/Ideal_Gas/Ideal_Gas_Law.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Thermodynamics/Ideal_Gas/Ideal_Gas_Law.personal|Ideal_Gas_Law.personal]] 
 
-### #is_/same_as :: [Ideal_Gas_Law.secret](/_secret/Science/Physics/Thermodynamics/Ideal_Gas/Ideal_Gas_Law.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Thermodynamics/Ideal_Gas/Ideal_Gas_Law.secret|Ideal_Gas_Law.secret]] 
 

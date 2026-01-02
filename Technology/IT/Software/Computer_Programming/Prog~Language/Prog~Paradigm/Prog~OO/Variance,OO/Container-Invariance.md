@@ -41,17 +41,17 @@ for high IRR rather take the nth root of it or, as a first Approximation:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Container-Invariance](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/Variance,OO/Container-Invariance.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/Variance,OO/Container-Invariance|Container-Invariance]] 
 
-### #is_/same_as :: [Container-Invariance.public](/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/Variance,OO/Container-Invariance.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/Variance,OO/Container-Invariance.public|Container-Invariance.public]] 
 
-### #is_/same_as :: [Container-Invariance.internal](/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/Variance,OO/Container-Invariance.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/Variance,OO/Container-Invariance.internal|Container-Invariance.internal]] 
 
-### #is_/same_as :: [Container-Invariance.protect](/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/Variance,OO/Container-Invariance.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/Variance,OO/Container-Invariance.protect|Container-Invariance.protect]] 
 
-### #is_/same_as :: [Container-Invariance.private](/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/Variance,OO/Container-Invariance.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/Variance,OO/Container-Invariance.private|Container-Invariance.private]] 
 
-### #is_/same_as :: [Container-Invariance.personal](/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/Variance,OO/Container-Invariance.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/Variance,OO/Container-Invariance.personal|Container-Invariance.personal]] 
 
-### #is_/same_as :: [Container-Invariance.secret](/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/Variance,OO/Container-Invariance.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/Variance,OO/Container-Invariance.secret|Container-Invariance.secret]] 
 

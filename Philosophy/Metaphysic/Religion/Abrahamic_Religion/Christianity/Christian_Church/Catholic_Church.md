@@ -158,17 +158,17 @@ Krugosvet_article: kultura_i_obrazovanie/religiya/RIMSKO-KATOLICHESKAYA_TSERKOV.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Catholic_Church](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church|Catholic_Church]] 
 
-### #is_/same_as :: [Catholic_Church.public](/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church.public|Catholic_Church.public]] 
 
-### #is_/same_as :: [Catholic_Church.internal](/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church.internal|Catholic_Church.internal]] 
 
-### #is_/same_as :: [Catholic_Church.protect](/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church.protect|Catholic_Church.protect]] 
 
-### #is_/same_as :: [Catholic_Church.private](/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church.private|Catholic_Church.private]] 
 
-### #is_/same_as :: [Catholic_Church.personal](/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church.personal|Catholic_Church.personal]] 
 
-### #is_/same_as :: [Catholic_Church.secret](/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church.secret|Catholic_Church.secret]] 
 

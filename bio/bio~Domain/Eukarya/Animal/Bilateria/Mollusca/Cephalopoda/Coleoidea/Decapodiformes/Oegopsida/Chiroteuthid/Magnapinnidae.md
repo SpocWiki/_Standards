@@ -7,7 +7,7 @@ title: Magnapinna
 ## Magnapinnidae [Vecchione and Young, 1998] 
 
 # *Magnapinna* [Vecchione and Young, 1998] 
-![ ](Magnapinnidae/LongArmSquid1.jpg))
+![ ](Magnapinnidae/LongArmSquid1.jpg) 
 
 Containing group:[Chiroteuthid families](../Chiroteuthid.md) 
 
@@ -119,7 +119,7 @@ arms/tentacles is far greater than in any other squid. The head appears
 to be small. Fin Length of the specimen pictured below is about 80% of
 the ML. Guerra et al (2002) estimated the fin length of their specimen
 at about two thirds of the ML. The fin position is terminal.
-![ ](Magnapinnidae/LongArmVidClose1.jpg))
+![ ](Magnapinnidae/LongArmVidClose1.jpg) 
 
 **Figure**. In-situ images of ***Magnapinna*** sp., Gulf of Mexico.
 **Left** - Side view showing long appendages. **Right** - Dorsal view
@@ -222,7 +222,7 @@ Magnapinna atlantica, n. sp. Proc. Biol. Soc. Wash. 119 (3): 365-372.
 
 ## Title Illustrations
 
-![](Magnapinnidae/LongArmSquid1.jpg))
+![](Magnapinnidae/LongArmSquid1.jpg) 
 
   ------------------------------------
   Scientific Name ::     Magnapinna sp.
@@ -236,17 +236,17 @@ Magnapinna atlantica, n. sp. Proc. Biol. Soc. Wash. 119 (3): 365-372.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Magnapinnidae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Magnapinnidae.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Magnapinnidae|Magnapinnidae]] 
 
-### #is_/same_as :: [Magnapinnidae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Magnapinnidae.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Magnapinnidae.public|Magnapinnidae.public]] 
 
-### #is_/same_as :: [Magnapinnidae.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Magnapinnidae.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Magnapinnidae.internal|Magnapinnidae.internal]] 
 
-### #is_/same_as :: [Magnapinnidae.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Magnapinnidae.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Magnapinnidae.protect|Magnapinnidae.protect]] 
 
-### #is_/same_as :: [Magnapinnidae.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Magnapinnidae.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Magnapinnidae.private|Magnapinnidae.private]] 
 
-### #is_/same_as :: [Magnapinnidae.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Magnapinnidae.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Magnapinnidae.personal|Magnapinnidae.personal]] 
 
-### #is_/same_as :: [Magnapinnidae.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Magnapinnidae.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Magnapinnidae.secret|Magnapinnidae.secret]] 
 

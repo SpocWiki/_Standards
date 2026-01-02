@@ -35,17 +35,17 @@ Commons_category: Winnowing
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Winnowing](/_Standards/Society/Economics/Industry/Agriculture/Crop/Winnowing.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Industry/Agriculture/Crop/Winnowing|Winnowing]] 
 
-### #is_/same_as :: [Winnowing.public](/_public/Society/Economics/Industry/Agriculture/Crop/Winnowing.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Industry/Agriculture/Crop/Winnowing.public|Winnowing.public]] 
 
-### #is_/same_as :: [Winnowing.internal](/_internal/Society/Economics/Industry/Agriculture/Crop/Winnowing.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Industry/Agriculture/Crop/Winnowing.internal|Winnowing.internal]] 
 
-### #is_/same_as :: [Winnowing.protect](/_protect/Society/Economics/Industry/Agriculture/Crop/Winnowing.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Industry/Agriculture/Crop/Winnowing.protect|Winnowing.protect]] 
 
-### #is_/same_as :: [Winnowing.private](/_private/Society/Economics/Industry/Agriculture/Crop/Winnowing.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Industry/Agriculture/Crop/Winnowing.private|Winnowing.private]] 
 
-### #is_/same_as :: [Winnowing.personal](/_personal/Society/Economics/Industry/Agriculture/Crop/Winnowing.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Industry/Agriculture/Crop/Winnowing.personal|Winnowing.personal]] 
 
-### #is_/same_as :: [Winnowing.secret](/_secret/Society/Economics/Industry/Agriculture/Crop/Winnowing.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Industry/Agriculture/Crop/Winnowing.secret|Winnowing.secret]] 
 

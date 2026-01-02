@@ -43,17 +43,17 @@ A trip on a commercial ferry line.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Boat_Trip](/_Standards/schema-org/Class/is_a_/Intangible/Trip/Boat_Trip.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Intangible/Trip/Boat_Trip|Boat_Trip]] 
 
-### #is_/same_as :: [Boat_Trip.public](/_public/schema-org/Class/is_a_/Intangible/Trip/Boat_Trip.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Intangible/Trip/Boat_Trip.public|Boat_Trip.public]] 
 
-### #is_/same_as :: [Boat_Trip.internal](/_internal/schema-org/Class/is_a_/Intangible/Trip/Boat_Trip.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Intangible/Trip/Boat_Trip.internal|Boat_Trip.internal]] 
 
-### #is_/same_as :: [Boat_Trip.protect](/_protect/schema-org/Class/is_a_/Intangible/Trip/Boat_Trip.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Intangible/Trip/Boat_Trip.protect|Boat_Trip.protect]] 
 
-### #is_/same_as :: [Boat_Trip.private](/_private/schema-org/Class/is_a_/Intangible/Trip/Boat_Trip.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Intangible/Trip/Boat_Trip.private|Boat_Trip.private]] 
 
-### #is_/same_as :: [Boat_Trip.personal](/_personal/schema-org/Class/is_a_/Intangible/Trip/Boat_Trip.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Intangible/Trip/Boat_Trip.personal|Boat_Trip.personal]] 
 
-### #is_/same_as :: [Boat_Trip.secret](/_secret/schema-org/Class/is_a_/Intangible/Trip/Boat_Trip.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Intangible/Trip/Boat_Trip.secret|Boat_Trip.secret]] 
 

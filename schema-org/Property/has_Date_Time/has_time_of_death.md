@@ -48,17 +48,17 @@ Formal Predicate:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_time_of_death](/_Standards/schema-org/Property/has_Date_Time/has_time_of_death.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_Date_Time/has_time_of_death|has_time_of_death]] 
 
-### #is_/same_as :: [has_time_of_death.public](/_public/schema-org/Property/has_Date_Time/has_time_of_death.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/has_Date_Time/has_time_of_death.public|has_time_of_death.public]] 
 
-### #is_/same_as :: [has_time_of_death.internal](/_internal/schema-org/Property/has_Date_Time/has_time_of_death.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_Date_Time/has_time_of_death.internal|has_time_of_death.internal]] 
 
-### #is_/same_as :: [has_time_of_death.protect](/_protect/schema-org/Property/has_Date_Time/has_time_of_death.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_Date_Time/has_time_of_death.protect|has_time_of_death.protect]] 
 
-### #is_/same_as :: [has_time_of_death.private](/_private/schema-org/Property/has_Date_Time/has_time_of_death.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/has_Date_Time/has_time_of_death.private|has_time_of_death.private]] 
 
-### #is_/same_as :: [has_time_of_death.personal](/_personal/schema-org/Property/has_Date_Time/has_time_of_death.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_Date_Time/has_time_of_death.personal|has_time_of_death.personal]] 
 
-### #is_/same_as :: [has_time_of_death.secret](/_secret/schema-org/Property/has_Date_Time/has_time_of_death.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/has_Date_Time/has_time_of_death.secret|has_time_of_death.secret]] 
 

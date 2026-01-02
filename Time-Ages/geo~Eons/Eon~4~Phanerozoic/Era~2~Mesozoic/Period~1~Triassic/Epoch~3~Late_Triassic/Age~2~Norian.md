@@ -66,17 +66,17 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Age~2~Norian](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~1~Triassic/Epoch~3~Late_Triassic/Age~2~Norian.md) 
+### #is_/same_as :: [[/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~1~Triassic/Epoch~3~Late_Triassic/Age~2~Norian|Age~2~Norian]] 
 
-### #is_/same_as :: [Age~2~Norian.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~1~Triassic/Epoch~3~Late_Triassic/Age~2~Norian.public.md) 
+### #is_/same_as :: [[/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~1~Triassic/Epoch~3~Late_Triassic/Age~2~Norian.public|Age~2~Norian.public]] 
 
-### #is_/same_as :: [Age~2~Norian.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~1~Triassic/Epoch~3~Late_Triassic/Age~2~Norian.internal.md) 
+### #is_/same_as :: [[/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~1~Triassic/Epoch~3~Late_Triassic/Age~2~Norian.internal|Age~2~Norian.internal]] 
 
-### #is_/same_as :: [Age~2~Norian.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~1~Triassic/Epoch~3~Late_Triassic/Age~2~Norian.protect.md) 
+### #is_/same_as :: [[/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~1~Triassic/Epoch~3~Late_Triassic/Age~2~Norian.protect|Age~2~Norian.protect]] 
 
-### #is_/same_as :: [Age~2~Norian.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~1~Triassic/Epoch~3~Late_Triassic/Age~2~Norian.private.md) 
+### #is_/same_as :: [[/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~1~Triassic/Epoch~3~Late_Triassic/Age~2~Norian.private|Age~2~Norian.private]] 
 
-### #is_/same_as :: [Age~2~Norian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~1~Triassic/Epoch~3~Late_Triassic/Age~2~Norian.personal.md) 
+### #is_/same_as :: [[/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~1~Triassic/Epoch~3~Late_Triassic/Age~2~Norian.personal|Age~2~Norian.personal]] 
 
-### #is_/same_as :: [Age~2~Norian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~1~Triassic/Epoch~3~Late_Triassic/Age~2~Norian.secret.md)
+### #is_/same_as :: [[/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~1~Triassic/Epoch~3~Late_Triassic/Age~2~Norian.secret|Age~2~Norian.secret]] 
 

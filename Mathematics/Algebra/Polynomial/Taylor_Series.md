@@ -64,17 +64,17 @@ defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Taylor_Series](/_Standards/Mathematics/Algebra/Polynomial/Taylor_Series.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Algebra/Polynomial/Taylor_Series|Taylor_Series]] 
 
-### #is_/same_as :: [Taylor_Series.public](/_public/Mathematics/Algebra/Polynomial/Taylor_Series.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Algebra/Polynomial/Taylor_Series.public|Taylor_Series.public]] 
 
-### #is_/same_as :: [Taylor_Series.internal](/_internal/Mathematics/Algebra/Polynomial/Taylor_Series.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Algebra/Polynomial/Taylor_Series.internal|Taylor_Series.internal]] 
 
-### #is_/same_as :: [Taylor_Series.protect](/_protect/Mathematics/Algebra/Polynomial/Taylor_Series.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Algebra/Polynomial/Taylor_Series.protect|Taylor_Series.protect]] 
 
-### #is_/same_as :: [Taylor_Series.private](/_private/Mathematics/Algebra/Polynomial/Taylor_Series.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Algebra/Polynomial/Taylor_Series.private|Taylor_Series.private]] 
 
-### #is_/same_as :: [Taylor_Series.personal](/_personal/Mathematics/Algebra/Polynomial/Taylor_Series.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Algebra/Polynomial/Taylor_Series.personal|Taylor_Series.personal]] 
 
-### #is_/same_as :: [Taylor_Series.secret](/_secret/Mathematics/Algebra/Polynomial/Taylor_Series.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Algebra/Polynomial/Taylor_Series.secret|Taylor_Series.secret]] 
 

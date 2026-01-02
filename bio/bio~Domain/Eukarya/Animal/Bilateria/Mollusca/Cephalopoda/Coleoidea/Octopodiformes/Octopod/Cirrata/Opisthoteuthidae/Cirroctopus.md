@@ -183,12 +183,12 @@ Vecchione and Young, 1997).
 -   Dorsal and ventral views of the shell of **G. glacialis**.
     Photograph of stained, preserved shell by R. Young.
 -   Distribution map. Modified slightly from O\'Shea (1999).
-![](Cirroctopus/Cirroctopus.jpg))
+![](Cirroctopus/Cirroctopus.jpg) 
 
   ------
   Copyright ::   © E. McSweeny
   ------
-![](Cirroctopus/CirroctopusDraw.jpg))
+![](Cirroctopus/CirroctopusDraw.jpg) 
 
   -----------------------------------------------------------------------
   Copyright ::   © 1997 [Michael Vecchione](mailto:vecchiom@si.edu) 
@@ -198,17 +198,17 @@ Vecchione and Young, 1997).
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Cirroctopus](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Cirrata/Opisthoteuthidae/Cirroctopus.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Cirrata/Opisthoteuthidae/Cirroctopus|Cirroctopus]] 
 
-### #is_/same_as :: [Cirroctopus.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Cirrata/Opisthoteuthidae/Cirroctopus.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Cirrata/Opisthoteuthidae/Cirroctopus.public|Cirroctopus.public]] 
 
-### #is_/same_as :: [Cirroctopus.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Cirrata/Opisthoteuthidae/Cirroctopus.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Cirrata/Opisthoteuthidae/Cirroctopus.internal|Cirroctopus.internal]] 
 
-### #is_/same_as :: [Cirroctopus.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Cirrata/Opisthoteuthidae/Cirroctopus.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Cirrata/Opisthoteuthidae/Cirroctopus.protect|Cirroctopus.protect]] 
 
-### #is_/same_as :: [Cirroctopus.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Cirrata/Opisthoteuthidae/Cirroctopus.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Cirrata/Opisthoteuthidae/Cirroctopus.private|Cirroctopus.private]] 
 
-### #is_/same_as :: [Cirroctopus.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Cirrata/Opisthoteuthidae/Cirroctopus.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Cirrata/Opisthoteuthidae/Cirroctopus.personal|Cirroctopus.personal]] 
 
-### #is_/same_as :: [Cirroctopus.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Cirrata/Opisthoteuthidae/Cirroctopus.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Cirrata/Opisthoteuthidae/Cirroctopus.secret|Cirroctopus.secret]] 
 

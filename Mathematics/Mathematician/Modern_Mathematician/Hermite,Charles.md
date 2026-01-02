@@ -122,17 +122,17 @@ Libris_URI: xv8bd78g15kpl3r
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hermite,Charles](/_Standards/Mathematics/Mathematician/Modern_Mathematician/Hermite,Charles.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Mathematician/Modern_Mathematician/Hermite,Charles|Hermite,Charles]] 
 
-### #is_/same_as :: [Hermite,Charles.public](/_public/Mathematics/Mathematician/Modern_Mathematician/Hermite,Charles.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Mathematician/Modern_Mathematician/Hermite,Charles.public|Hermite,Charles.public]] 
 
-### #is_/same_as :: [Hermite,Charles.internal](/_internal/Mathematics/Mathematician/Modern_Mathematician/Hermite,Charles.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Mathematician/Modern_Mathematician/Hermite,Charles.internal|Hermite,Charles.internal]] 
 
-### #is_/same_as :: [Hermite,Charles.protect](/_protect/Mathematics/Mathematician/Modern_Mathematician/Hermite,Charles.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Mathematician/Modern_Mathematician/Hermite,Charles.protect|Hermite,Charles.protect]] 
 
-### #is_/same_as :: [Hermite,Charles.private](/_private/Mathematics/Mathematician/Modern_Mathematician/Hermite,Charles.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Mathematician/Modern_Mathematician/Hermite,Charles.private|Hermite,Charles.private]] 
 
-### #is_/same_as :: [Hermite,Charles.personal](/_personal/Mathematics/Mathematician/Modern_Mathematician/Hermite,Charles.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Mathematician/Modern_Mathematician/Hermite,Charles.personal|Hermite,Charles.personal]] 
 
-### #is_/same_as :: [Hermite,Charles.secret](/_secret/Mathematics/Mathematician/Modern_Mathematician/Hermite,Charles.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Mathematician/Modern_Mathematician/Hermite,Charles.secret|Hermite,Charles.secret]] 
 

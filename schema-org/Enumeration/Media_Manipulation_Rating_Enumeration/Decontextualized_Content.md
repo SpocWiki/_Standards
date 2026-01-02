@@ -61,17 +61,17 @@ For example, using incorrect dates or locations, or sharing brief clips from a l
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Decontextualized_Content](/_Standards/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration/Decontextualized_Content.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration/Decontextualized_Content|Decontextualized_Content]] 
 
-### #is_/same_as :: [Decontextualized_Content.public](/_public/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration/Decontextualized_Content.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration/Decontextualized_Content.public|Decontextualized_Content.public]] 
 
-### #is_/same_as :: [Decontextualized_Content.internal](/_internal/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration/Decontextualized_Content.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration/Decontextualized_Content.internal|Decontextualized_Content.internal]] 
 
-### #is_/same_as :: [Decontextualized_Content.protect](/_protect/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration/Decontextualized_Content.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration/Decontextualized_Content.protect|Decontextualized_Content.protect]] 
 
-### #is_/same_as :: [Decontextualized_Content.private](/_private/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration/Decontextualized_Content.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration/Decontextualized_Content.private|Decontextualized_Content.private]] 
 
-### #is_/same_as :: [Decontextualized_Content.personal](/_personal/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration/Decontextualized_Content.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration/Decontextualized_Content.personal|Decontextualized_Content.personal]] 
 
-### #is_/same_as :: [Decontextualized_Content.secret](/_secret/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration/Decontextualized_Content.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration/Decontextualized_Content.secret|Decontextualized_Content.secret]] 
 

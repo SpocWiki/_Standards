@@ -45,17 +45,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_diet_features](/_Standards/schema-org/Property/Texts/has_diet_features.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/Texts/has_diet_features|has_diet_features]] 
 
-### #is_/same_as :: [has_diet_features.public](/_public/schema-org/Property/Texts/has_diet_features.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/Texts/has_diet_features.public|has_diet_features.public]] 
 
-### #is_/same_as :: [has_diet_features.internal](/_internal/schema-org/Property/Texts/has_diet_features.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/Texts/has_diet_features.internal|has_diet_features.internal]] 
 
-### #is_/same_as :: [has_diet_features.protect](/_protect/schema-org/Property/Texts/has_diet_features.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/Texts/has_diet_features.protect|has_diet_features.protect]] 
 
-### #is_/same_as :: [has_diet_features.private](/_private/schema-org/Property/Texts/has_diet_features.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/Texts/has_diet_features.private|has_diet_features.private]] 
 
-### #is_/same_as :: [has_diet_features.personal](/_personal/schema-org/Property/Texts/has_diet_features.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/Texts/has_diet_features.personal|has_diet_features.personal]] 
 
-### #is_/same_as :: [has_diet_features.secret](/_secret/schema-org/Property/Texts/has_diet_features.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/Texts/has_diet_features.secret|has_diet_features.secret]] 
 

@@ -85,17 +85,17 @@ Provenio_UUID: df9c532e-cbf1-4c79-af65-a7704a2e6962
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Art_History](/_Standards/Society/Communication/Art/Art_History.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Art/Art_History|Art_History]] 
 
-### #is_/same_as :: [Art_History.public](/_public/Society/Communication/Art/Art_History.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Art/Art_History.public|Art_History.public]] 
 
-### #is_/same_as :: [Art_History.internal](/_internal/Society/Communication/Art/Art_History.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Art/Art_History.internal|Art_History.internal]] 
 
-### #is_/same_as :: [Art_History.protect](/_protect/Society/Communication/Art/Art_History.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Art/Art_History.protect|Art_History.protect]] 
 
-### #is_/same_as :: [Art_History.private](/_private/Society/Communication/Art/Art_History.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Art/Art_History.private|Art_History.private]] 
 
-### #is_/same_as :: [Art_History.personal](/_personal/Society/Communication/Art/Art_History.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Art/Art_History.personal|Art_History.personal]] 
 
-### #is_/same_as :: [Art_History.secret](/_secret/Society/Communication/Art/Art_History.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Art/Art_History.secret|Art_History.secret]] 
 

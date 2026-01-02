@@ -48,17 +48,17 @@ Commons_category: Kinematics
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Kinematics](/_Standards/Science/Physics/Classical_Mechanics/Kinematics.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Classical_Mechanics/Kinematics|Kinematics]] 
 
-### #is_/same_as :: [Kinematics.public](/_public/Science/Physics/Classical_Mechanics/Kinematics.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Classical_Mechanics/Kinematics.public|Kinematics.public]] 
 
-### #is_/same_as :: [Kinematics.internal](/_internal/Science/Physics/Classical_Mechanics/Kinematics.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Classical_Mechanics/Kinematics.internal|Kinematics.internal]] 
 
-### #is_/same_as :: [Kinematics.protect](/_protect/Science/Physics/Classical_Mechanics/Kinematics.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Classical_Mechanics/Kinematics.protect|Kinematics.protect]] 
 
-### #is_/same_as :: [Kinematics.private](/_private/Science/Physics/Classical_Mechanics/Kinematics.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Classical_Mechanics/Kinematics.private|Kinematics.private]] 
 
-### #is_/same_as :: [Kinematics.personal](/_personal/Science/Physics/Classical_Mechanics/Kinematics.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Classical_Mechanics/Kinematics.personal|Kinematics.personal]] 
 
-### #is_/same_as :: [Kinematics.secret](/_secret/Science/Physics/Classical_Mechanics/Kinematics.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Classical_Mechanics/Kinematics.secret|Kinematics.secret]] 
 

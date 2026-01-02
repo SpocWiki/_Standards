@@ -127,17 +127,17 @@ and need to spend fuel to actively change position, while also aligning with oth
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Atmosphere,Earth](/_Standards/Earth/Climate/Atmosphere,Earth.md) 
+### #is_/same_as :: [[/_Standards/Earth/Climate/Atmosphere,Earth|Atmosphere,Earth]] 
 
-### #is_/same_as :: [Atmosphere,Earth.public](/_public/Earth/Climate/Atmosphere,Earth.public.md) 
+### #is_/same_as :: [[/_public/Earth/Climate/Atmosphere,Earth.public|Atmosphere,Earth.public]] 
 
-### #is_/same_as :: [Atmosphere,Earth.internal](/_internal/Earth/Climate/Atmosphere,Earth.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Climate/Atmosphere,Earth.internal|Atmosphere,Earth.internal]] 
 
-### #is_/same_as :: [Atmosphere,Earth.protect](/_protect/Earth/Climate/Atmosphere,Earth.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Climate/Atmosphere,Earth.protect|Atmosphere,Earth.protect]] 
 
-### #is_/same_as :: [Atmosphere,Earth.private](/_private/Earth/Climate/Atmosphere,Earth.private.md) 
+### #is_/same_as :: [[/_private/Earth/Climate/Atmosphere,Earth.private|Atmosphere,Earth.private]] 
 
-### #is_/same_as :: [Atmosphere,Earth.personal](/_personal/Earth/Climate/Atmosphere,Earth.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Climate/Atmosphere,Earth.personal|Atmosphere,Earth.personal]] 
 
-### #is_/same_as :: [Atmosphere,Earth.secret](/_secret/Earth/Climate/Atmosphere,Earth.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Climate/Atmosphere,Earth.secret|Atmosphere,Earth.secret]] 
 

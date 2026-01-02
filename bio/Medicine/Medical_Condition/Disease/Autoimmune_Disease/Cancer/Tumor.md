@@ -53,17 +53,17 @@ Commons_category: Tumors
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Tumor](/_Standards/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Cancer/Tumor.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Cancer/Tumor|Tumor]] 
 
-### #is_/same_as :: [Tumor.public](/_public/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Cancer/Tumor.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Cancer/Tumor.public|Tumor.public]] 
 
-### #is_/same_as :: [Tumor.internal](/_internal/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Cancer/Tumor.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Cancer/Tumor.internal|Tumor.internal]] 
 
-### #is_/same_as :: [Tumor.protect](/_protect/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Cancer/Tumor.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Cancer/Tumor.protect|Tumor.protect]] 
 
-### #is_/same_as :: [Tumor.private](/_private/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Cancer/Tumor.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Cancer/Tumor.private|Tumor.private]] 
 
-### #is_/same_as :: [Tumor.personal](/_personal/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Cancer/Tumor.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Cancer/Tumor.personal|Tumor.personal]] 
 
-### #is_/same_as :: [Tumor.secret](/_secret/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Cancer/Tumor.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Cancer/Tumor.secret|Tumor.secret]] 
 

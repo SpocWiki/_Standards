@@ -42,17 +42,17 @@ pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-Netz.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Net](/_Standards/Technology/Tool/Mechanical_Tool/Net.md) 
+### #is_/same_as :: [[/_Standards/Technology/Tool/Mechanical_Tool/Net|Net]] 
 
-### #is_/same_as :: [Net.public](/_public/Technology/Tool/Mechanical_Tool/Net.public.md) 
+### #is_/same_as :: [[/_public/Technology/Tool/Mechanical_Tool/Net.public|Net.public]] 
 
-### #is_/same_as :: [Net.internal](/_internal/Technology/Tool/Mechanical_Tool/Net.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Tool/Mechanical_Tool/Net.internal|Net.internal]] 
 
-### #is_/same_as :: [Net.protect](/_protect/Technology/Tool/Mechanical_Tool/Net.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Tool/Mechanical_Tool/Net.protect|Net.protect]] 
 
-### #is_/same_as :: [Net.private](/_private/Technology/Tool/Mechanical_Tool/Net.private.md) 
+### #is_/same_as :: [[/_private/Technology/Tool/Mechanical_Tool/Net.private|Net.private]] 
 
-### #is_/same_as :: [Net.personal](/_personal/Technology/Tool/Mechanical_Tool/Net.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Tool/Mechanical_Tool/Net.personal|Net.personal]] 
 
-### #is_/same_as :: [Net.secret](/_secret/Technology/Tool/Mechanical_Tool/Net.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Tool/Mechanical_Tool/Net.secret|Net.secret]] 
 

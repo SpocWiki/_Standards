@@ -76,17 +76,17 @@ WordLift_URL: http://data.thenextweb.com/tnw/entity/go
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Go(Game)](/_Standards/Society/Communication/Media/Creative_Work/Game/Board_Game/Go(Game).md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Creative_Work/Game/Board_Game/Go(Game)|Go(Game)]] 
 
-### #is_/same_as :: [Go(Game).public](/_public/Society/Communication/Media/Creative_Work/Game/Board_Game/Go(Game).public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Creative_Work/Game/Board_Game/Go(Game).public|Go(Game).public]] 
 
-### #is_/same_as :: [Go(Game).internal](/_internal/Society/Communication/Media/Creative_Work/Game/Board_Game/Go(Game).internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Creative_Work/Game/Board_Game/Go(Game).internal|Go(Game).internal]] 
 
-### #is_/same_as :: [Go(Game).protect](/_protect/Society/Communication/Media/Creative_Work/Game/Board_Game/Go(Game).protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Creative_Work/Game/Board_Game/Go(Game).protect|Go(Game).protect]] 
 
-### #is_/same_as :: [Go(Game).private](/_private/Society/Communication/Media/Creative_Work/Game/Board_Game/Go(Game).private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Creative_Work/Game/Board_Game/Go(Game).private|Go(Game).private]] 
 
-### #is_/same_as :: [Go(Game).personal](/_personal/Society/Communication/Media/Creative_Work/Game/Board_Game/Go(Game).personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/Game/Board_Game/Go(Game).personal|Go(Game).personal]] 
 
-### #is_/same_as :: [Go(Game).secret](/_secret/Society/Communication/Media/Creative_Work/Game/Board_Game/Go(Game).secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Game/Board_Game/Go(Game).secret|Go(Game).secret]] 
 

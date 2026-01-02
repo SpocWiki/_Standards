@@ -56,17 +56,17 @@ Commons_gallery: Electrical switch
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Electrical_Switch](/_Standards/Science/Physics/Electricity/Electric_Power_Distribution/Electrical_Switch.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Electricity/Electric_Power_Distribution/Electrical_Switch|Electrical_Switch]] 
 
-### #is_/same_as :: [Electrical_Switch.public](/_public/Science/Physics/Electricity/Electric_Power_Distribution/Electrical_Switch.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Electricity/Electric_Power_Distribution/Electrical_Switch.public|Electrical_Switch.public]] 
 
-### #is_/same_as :: [Electrical_Switch.internal](/_internal/Science/Physics/Electricity/Electric_Power_Distribution/Electrical_Switch.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Electricity/Electric_Power_Distribution/Electrical_Switch.internal|Electrical_Switch.internal]] 
 
-### #is_/same_as :: [Electrical_Switch.protect](/_protect/Science/Physics/Electricity/Electric_Power_Distribution/Electrical_Switch.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Electricity/Electric_Power_Distribution/Electrical_Switch.protect|Electrical_Switch.protect]] 
 
-### #is_/same_as :: [Electrical_Switch.private](/_private/Science/Physics/Electricity/Electric_Power_Distribution/Electrical_Switch.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Electricity/Electric_Power_Distribution/Electrical_Switch.private|Electrical_Switch.private]] 
 
-### #is_/same_as :: [Electrical_Switch.personal](/_personal/Science/Physics/Electricity/Electric_Power_Distribution/Electrical_Switch.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Electricity/Electric_Power_Distribution/Electrical_Switch.personal|Electrical_Switch.personal]] 
 
-### #is_/same_as :: [Electrical_Switch.secret](/_secret/Science/Physics/Electricity/Electric_Power_Distribution/Electrical_Switch.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Electricity/Electric_Power_Distribution/Electrical_Switch.secret|Electrical_Switch.secret]] 
 

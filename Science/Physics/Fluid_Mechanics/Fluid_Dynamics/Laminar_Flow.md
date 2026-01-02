@@ -28,17 +28,17 @@ Commons_category: Laminar flow
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Laminar_Flow](/_Standards/Science/Physics/Fluid_Mechanics/Fluid_Dynamics/Laminar_Flow.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Fluid_Mechanics/Fluid_Dynamics/Laminar_Flow|Laminar_Flow]] 
 
-### #is_/same_as :: [Laminar_Flow.public](/_public/Science/Physics/Fluid_Mechanics/Fluid_Dynamics/Laminar_Flow.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Fluid_Mechanics/Fluid_Dynamics/Laminar_Flow.public|Laminar_Flow.public]] 
 
-### #is_/same_as :: [Laminar_Flow.internal](/_internal/Science/Physics/Fluid_Mechanics/Fluid_Dynamics/Laminar_Flow.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Fluid_Mechanics/Fluid_Dynamics/Laminar_Flow.internal|Laminar_Flow.internal]] 
 
-### #is_/same_as :: [Laminar_Flow.protect](/_protect/Science/Physics/Fluid_Mechanics/Fluid_Dynamics/Laminar_Flow.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Fluid_Mechanics/Fluid_Dynamics/Laminar_Flow.protect|Laminar_Flow.protect]] 
 
-### #is_/same_as :: [Laminar_Flow.private](/_private/Science/Physics/Fluid_Mechanics/Fluid_Dynamics/Laminar_Flow.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Fluid_Mechanics/Fluid_Dynamics/Laminar_Flow.private|Laminar_Flow.private]] 
 
-### #is_/same_as :: [Laminar_Flow.personal](/_personal/Science/Physics/Fluid_Mechanics/Fluid_Dynamics/Laminar_Flow.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Fluid_Mechanics/Fluid_Dynamics/Laminar_Flow.personal|Laminar_Flow.personal]] 
 
-### #is_/same_as :: [Laminar_Flow.secret](/_secret/Science/Physics/Fluid_Mechanics/Fluid_Dynamics/Laminar_Flow.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Fluid_Mechanics/Fluid_Dynamics/Laminar_Flow.secret|Laminar_Flow.secret]] 
 

@@ -80,17 +80,17 @@ because was shunned by the scientific community in Harvard and the US east coast
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Peirce,Charles_Sanders](/_Standards/Mathematics/Mathematician/Peirce,Charles_Sanders.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Mathematician/Peirce,Charles_Sanders|Peirce,Charles_Sanders]] 
 
-### #is_/same_as :: [Peirce,Charles_Sanders.public](/_public/Mathematics/Mathematician/Peirce,Charles_Sanders.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Mathematician/Peirce,Charles_Sanders.public|Peirce,Charles_Sanders.public]] 
 
-### #is_/same_as :: [Peirce,Charles_Sanders.internal](/_internal/Mathematics/Mathematician/Peirce,Charles_Sanders.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Mathematician/Peirce,Charles_Sanders.internal|Peirce,Charles_Sanders.internal]] 
 
-### #is_/same_as :: [Peirce,Charles_Sanders.protect](/_protect/Mathematics/Mathematician/Peirce,Charles_Sanders.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Mathematician/Peirce,Charles_Sanders.protect|Peirce,Charles_Sanders.protect]] 
 
-### #is_/same_as :: [Peirce,Charles_Sanders.private](/_private/Mathematics/Mathematician/Peirce,Charles_Sanders.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Mathematician/Peirce,Charles_Sanders.private|Peirce,Charles_Sanders.private]] 
 
-### #is_/same_as :: [Peirce,Charles_Sanders.personal](/_personal/Mathematics/Mathematician/Peirce,Charles_Sanders.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Mathematician/Peirce,Charles_Sanders.personal|Peirce,Charles_Sanders.personal]] 
 
-### #is_/same_as :: [Peirce,Charles_Sanders.secret](/_secret/Mathematics/Mathematician/Peirce,Charles_Sanders.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Mathematician/Peirce,Charles_Sanders.secret|Peirce,Charles_Sanders.secret]] 
 

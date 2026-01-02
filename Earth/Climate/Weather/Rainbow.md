@@ -60,17 +60,17 @@ Commons_category: Rainbows
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Rainbow](/_Standards/Earth/Climate/Weather/Rainbow.md) 
+### #is_/same_as :: [[/_Standards/Earth/Climate/Weather/Rainbow|Rainbow]] 
 
-### #is_/same_as :: [Rainbow.public](/_public/Earth/Climate/Weather/Rainbow.public.md) 
+### #is_/same_as :: [[/_public/Earth/Climate/Weather/Rainbow.public|Rainbow.public]] 
 
-### #is_/same_as :: [Rainbow.internal](/_internal/Earth/Climate/Weather/Rainbow.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Climate/Weather/Rainbow.internal|Rainbow.internal]] 
 
-### #is_/same_as :: [Rainbow.protect](/_protect/Earth/Climate/Weather/Rainbow.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Climate/Weather/Rainbow.protect|Rainbow.protect]] 
 
-### #is_/same_as :: [Rainbow.private](/_private/Earth/Climate/Weather/Rainbow.private.md) 
+### #is_/same_as :: [[/_private/Earth/Climate/Weather/Rainbow.private|Rainbow.private]] 
 
-### #is_/same_as :: [Rainbow.personal](/_personal/Earth/Climate/Weather/Rainbow.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Climate/Weather/Rainbow.personal|Rainbow.personal]] 
 
-### #is_/same_as :: [Rainbow.secret](/_secret/Earth/Climate/Weather/Rainbow.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Climate/Weather/Rainbow.secret|Rainbow.secret]] 
 

@@ -25,17 +25,17 @@ markerFile: [[USA~6-Central]]
 
 ## Confidential Links & Embeds: 
 
-### [USA~Central](/_Standards/Earth/Continent/America~North/USA/USA~Central.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~North/USA/USA~6-Central|USA~6-Central]] 
 
-### [USA~Central.public](/_public/Earth/Continent/America~North/USA/USA~Central.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~North/USA/USA~6-Central.public|USA~6-Central.public]] 
 
-### [USA~Central.internal](/_internal/Earth/Continent/America~North/USA/USA~Central.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~North/USA/USA~6-Central.internal|USA~6-Central.internal]] 
 
-### [USA~Central.protect](/_protect/Earth/Continent/America~North/USA/USA~Central.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~North/USA/USA~6-Central.protect|USA~6-Central.protect]] 
 
-### [USA~Central.private](/_private/Earth/Continent/America~North/USA/USA~Central.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~North/USA/USA~6-Central.private|USA~6-Central.private]] 
 
-### [USA~Central.personal](/_personal/Earth/Continent/America~North/USA/USA~Central.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~North/USA/USA~6-Central.personal|USA~6-Central.personal]] 
 
-### [USA~Central.secret](/_secret/Earth/Continent/America~North/USA/USA~Central.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~North/USA/USA~6-Central.secret|USA~6-Central.secret]] 
 

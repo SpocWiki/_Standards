@@ -32,17 +32,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Schmeling,Max](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Boxing/Schmeling,Max.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Boxing/Schmeling,Max|Schmeling,Max]] 
 
-### #is_/same_as :: [Schmeling,Max.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Boxing/Schmeling,Max.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Boxing/Schmeling,Max.public|Schmeling,Max.public]] 
 
-### #is_/same_as :: [Schmeling,Max.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Boxing/Schmeling,Max.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Boxing/Schmeling,Max.internal|Schmeling,Max.internal]] 
 
-### #is_/same_as :: [Schmeling,Max.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Boxing/Schmeling,Max.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Boxing/Schmeling,Max.protect|Schmeling,Max.protect]] 
 
-### #is_/same_as :: [Schmeling,Max.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Boxing/Schmeling,Max.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Boxing/Schmeling,Max.private|Schmeling,Max.private]] 
 
-### #is_/same_as :: [Schmeling,Max.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Boxing/Schmeling,Max.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Boxing/Schmeling,Max.personal|Schmeling,Max.personal]] 
 
-### #is_/same_as :: [Schmeling,Max.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Boxing/Schmeling,Max.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Boxing/Schmeling,Max.secret|Schmeling,Max.secret]] 
 

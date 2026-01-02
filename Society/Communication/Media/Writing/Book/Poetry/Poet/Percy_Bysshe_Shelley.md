@@ -146,17 +146,17 @@ Krugosvet_article_archived_: kultura_i_obrazovanie/literatura/SHELLI_PERSI_BISH.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Percy_Bysshe_Shelley](/_Standards/Society/Communication/Media/Writing/Book/Poetry/Poet/Percy_Bysshe_Shelley.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Poetry/Poet/Percy_Bysshe_Shelley|Percy_Bysshe_Shelley]] 
 
-### #is_/same_as :: [Percy_Bysshe_Shelley.public](/_public/Society/Communication/Media/Writing/Book/Poetry/Poet/Percy_Bysshe_Shelley.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Poetry/Poet/Percy_Bysshe_Shelley.public|Percy_Bysshe_Shelley.public]] 
 
-### #is_/same_as :: [Percy_Bysshe_Shelley.internal](/_internal/Society/Communication/Media/Writing/Book/Poetry/Poet/Percy_Bysshe_Shelley.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Poetry/Poet/Percy_Bysshe_Shelley.internal|Percy_Bysshe_Shelley.internal]] 
 
-### #is_/same_as :: [Percy_Bysshe_Shelley.protect](/_protect/Society/Communication/Media/Writing/Book/Poetry/Poet/Percy_Bysshe_Shelley.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Poetry/Poet/Percy_Bysshe_Shelley.protect|Percy_Bysshe_Shelley.protect]] 
 
-### #is_/same_as :: [Percy_Bysshe_Shelley.private](/_private/Society/Communication/Media/Writing/Book/Poetry/Poet/Percy_Bysshe_Shelley.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Poetry/Poet/Percy_Bysshe_Shelley.private|Percy_Bysshe_Shelley.private]] 
 
-### #is_/same_as :: [Percy_Bysshe_Shelley.personal](/_personal/Society/Communication/Media/Writing/Book/Poetry/Poet/Percy_Bysshe_Shelley.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Poetry/Poet/Percy_Bysshe_Shelley.personal|Percy_Bysshe_Shelley.personal]] 
 
-### #is_/same_as :: [Percy_Bysshe_Shelley.secret](/_secret/Society/Communication/Media/Writing/Book/Poetry/Poet/Percy_Bysshe_Shelley.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Poetry/Poet/Percy_Bysshe_Shelley.secret|Percy_Bysshe_Shelley.secret]] 
 

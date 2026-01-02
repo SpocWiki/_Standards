@@ -71,17 +71,17 @@ P8189: 987007282406205171
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Beaufort_Sea](/_Standards/Earth/Ocean/Ocean~Arctic/Beaufort_Sea.md) 
+### #is_/same_as :: [[/_Standards/Earth/Ocean/Ocean~Arctic/Beaufort_Sea|Beaufort_Sea]] 
 
-### #is_/same_as :: [Beaufort_Sea.public](/_public/Earth/Ocean/Ocean~Arctic/Beaufort_Sea.public.md) 
+### #is_/same_as :: [[/_public/Earth/Ocean/Ocean~Arctic/Beaufort_Sea.public|Beaufort_Sea.public]] 
 
-### #is_/same_as :: [Beaufort_Sea.internal](/_internal/Earth/Ocean/Ocean~Arctic/Beaufort_Sea.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Ocean/Ocean~Arctic/Beaufort_Sea.internal|Beaufort_Sea.internal]] 
 
-### #is_/same_as :: [Beaufort_Sea.protect](/_protect/Earth/Ocean/Ocean~Arctic/Beaufort_Sea.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Ocean/Ocean~Arctic/Beaufort_Sea.protect|Beaufort_Sea.protect]] 
 
-### #is_/same_as :: [Beaufort_Sea.private](/_private/Earth/Ocean/Ocean~Arctic/Beaufort_Sea.private.md) 
+### #is_/same_as :: [[/_private/Earth/Ocean/Ocean~Arctic/Beaufort_Sea.private|Beaufort_Sea.private]] 
 
-### #is_/same_as :: [Beaufort_Sea.personal](/_personal/Earth/Ocean/Ocean~Arctic/Beaufort_Sea.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Ocean/Ocean~Arctic/Beaufort_Sea.personal|Beaufort_Sea.personal]] 
 
-### #is_/same_as :: [Beaufort_Sea.secret](/_secret/Earth/Ocean/Ocean~Arctic/Beaufort_Sea.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Ocean/Ocean~Arctic/Beaufort_Sea.secret|Beaufort_Sea.secret]] 
 

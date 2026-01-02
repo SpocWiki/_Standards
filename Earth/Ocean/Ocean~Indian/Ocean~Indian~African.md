@@ -36,17 +36,17 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ocean~Indian~African](/_Standards/Earth/Ocean/Ocean~Indian/Ocean~Indian~African.md) 
+### #is_/same_as :: [[/_Standards/Earth/Ocean/Ocean~Indian/Ocean~Indian~African|Ocean~Indian~African]] 
 
-### #is_/same_as :: [Ocean~Indian~African.public](/_public/Earth/Ocean/Ocean~Indian/Ocean~Indian~African.public.md) 
+### #is_/same_as :: [[/_public/Earth/Ocean/Ocean~Indian/Ocean~Indian~African.public|Ocean~Indian~African.public]] 
 
-### #is_/same_as :: [Ocean~Indian~African.internal](/_internal/Earth/Ocean/Ocean~Indian/Ocean~Indian~African.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Ocean/Ocean~Indian/Ocean~Indian~African.internal|Ocean~Indian~African.internal]] 
 
-### #is_/same_as :: [Ocean~Indian~African.protect](/_protect/Earth/Ocean/Ocean~Indian/Ocean~Indian~African.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Ocean/Ocean~Indian/Ocean~Indian~African.protect|Ocean~Indian~African.protect]] 
 
-### #is_/same_as :: [Ocean~Indian~African.private](/_private/Earth/Ocean/Ocean~Indian/Ocean~Indian~African.private.md) 
+### #is_/same_as :: [[/_private/Earth/Ocean/Ocean~Indian/Ocean~Indian~African.private|Ocean~Indian~African.private]] 
 
-### #is_/same_as :: [Ocean~Indian~African.personal](/_personal/Earth/Ocean/Ocean~Indian/Ocean~Indian~African.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Ocean/Ocean~Indian/Ocean~Indian~African.personal|Ocean~Indian~African.personal]] 
 
-### #is_/same_as :: [Ocean~Indian~African.secret](/_secret/Earth/Ocean/Ocean~Indian/Ocean~Indian~African.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Ocean/Ocean~Indian/Ocean~Indian~African.secret|Ocean~Indian~African.secret]] 
 

@@ -213,17 +213,17 @@ zoomFeatures: false
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [America~North](/_Standards/Earth/Continent/America~North.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~North|America~North]] 
 
-### #is_/same_as :: [America~North.public](/_public/Earth/Continent/America~North.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~North.public|America~North.public]] 
 
-### #is_/same_as :: [America~North.internal](/_internal/Earth/Continent/America~North.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~North.internal|America~North.internal]] 
 
-### #is_/same_as :: [America~North.protect](/_protect/Earth/Continent/America~North.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~North.protect|America~North.protect]] 
 
-### #is_/same_as :: [America~North.private](/_private/Earth/Continent/America~North.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~North.private|America~North.private]] 
 
-### #is_/same_as :: [America~North.personal](/_personal/Earth/Continent/America~North.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~North.personal|America~North.personal]] 
 
-### #is_/same_as :: [America~North.secret](/_secret/Earth/Continent/America~North.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~North.secret|America~North.secret]] 
 

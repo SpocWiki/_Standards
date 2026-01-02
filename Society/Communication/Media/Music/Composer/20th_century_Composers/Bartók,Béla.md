@@ -137,17 +137,17 @@ Google_Doodle: bela-bartoks-127th-birthday
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bartók,Béla](/_Standards/Society/Communication/Media/Music/Composer/20th_century_Composers/Bartók,Béla.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Composer/20th_century_Composers/Bartók,Béla|Bartók,Béla]] 
 
-### #is_/same_as :: [Bartók,Béla.public](/_public/Society/Communication/Media/Music/Composer/20th_century_Composers/Bartók,Béla.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Composer/20th_century_Composers/Bartók,Béla.public|Bartók,Béla.public]] 
 
-### #is_/same_as :: [Bartók,Béla.internal](/_internal/Society/Communication/Media/Music/Composer/20th_century_Composers/Bartók,Béla.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Composer/20th_century_Composers/Bartók,Béla.internal|Bartók,Béla.internal]] 
 
-### #is_/same_as :: [Bartók,Béla.protect](/_protect/Society/Communication/Media/Music/Composer/20th_century_Composers/Bartók,Béla.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Composer/20th_century_Composers/Bartók,Béla.protect|Bartók,Béla.protect]] 
 
-### #is_/same_as :: [Bartók,Béla.private](/_private/Society/Communication/Media/Music/Composer/20th_century_Composers/Bartók,Béla.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Composer/20th_century_Composers/Bartók,Béla.private|Bartók,Béla.private]] 
 
-### #is_/same_as :: [Bartók,Béla.personal](/_personal/Society/Communication/Media/Music/Composer/20th_century_Composers/Bartók,Béla.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Composer/20th_century_Composers/Bartók,Béla.personal|Bartók,Béla.personal]] 
 
-### #is_/same_as :: [Bartók,Béla.secret](/_secret/Society/Communication/Media/Music/Composer/20th_century_Composers/Bartók,Béla.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Composer/20th_century_Composers/Bartók,Béla.secret|Bartók,Béla.secret]] 
 

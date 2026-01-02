@@ -25,17 +25,17 @@ is_the_study_of: "[[_Standards/WikiData/WD~family,8436]]"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sociology_of_the_Family](/_Standards/Society/Anthropology/Sociology/Sociology_of_the_Family.md) 
+### #is_/same_as :: [[/_Standards/Society/Anthropology/Sociology/Sociology_of_the_Family|Sociology_of_the_Family]] 
 
-### #is_/same_as :: [Sociology_of_the_Family.public](/_public/Society/Anthropology/Sociology/Sociology_of_the_Family.public.md) 
+### #is_/same_as :: [[/_public/Society/Anthropology/Sociology/Sociology_of_the_Family.public|Sociology_of_the_Family.public]] 
 
-### #is_/same_as :: [Sociology_of_the_Family.internal](/_internal/Society/Anthropology/Sociology/Sociology_of_the_Family.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Anthropology/Sociology/Sociology_of_the_Family.internal|Sociology_of_the_Family.internal]] 
 
-### #is_/same_as :: [Sociology_of_the_Family.protect](/_protect/Society/Anthropology/Sociology/Sociology_of_the_Family.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Anthropology/Sociology/Sociology_of_the_Family.protect|Sociology_of_the_Family.protect]] 
 
-### #is_/same_as :: [Sociology_of_the_Family.private](/_private/Society/Anthropology/Sociology/Sociology_of_the_Family.private.md) 
+### #is_/same_as :: [[/_private/Society/Anthropology/Sociology/Sociology_of_the_Family.private|Sociology_of_the_Family.private]] 
 
-### #is_/same_as :: [Sociology_of_the_Family.personal](/_personal/Society/Anthropology/Sociology/Sociology_of_the_Family.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Anthropology/Sociology/Sociology_of_the_Family.personal|Sociology_of_the_Family.personal]] 
 
-### #is_/same_as :: [Sociology_of_the_Family.secret](/_secret/Society/Anthropology/Sociology/Sociology_of_the_Family.secret.md)
+### #is_/same_as :: [[/_secret/Society/Anthropology/Sociology/Sociology_of_the_Family.secret|Sociology_of_the_Family.secret]] 
 

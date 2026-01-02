@@ -43,17 +43,17 @@ Any medical test, typically performed for diagnostic purposes.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Medical_Test](/_Standards/bio/Medicine/Medical_Entity/Medical_Test.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Entity/Medical_Test|Medical_Test]] 
 
-### #is_/same_as :: [Medical_Test.public](/_public/bio/Medicine/Medical_Entity/Medical_Test.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Entity/Medical_Test.public|Medical_Test.public]] 
 
-### #is_/same_as :: [Medical_Test.internal](/_internal/bio/Medicine/Medical_Entity/Medical_Test.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Entity/Medical_Test.internal|Medical_Test.internal]] 
 
-### #is_/same_as :: [Medical_Test.protect](/_protect/bio/Medicine/Medical_Entity/Medical_Test.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Entity/Medical_Test.protect|Medical_Test.protect]] 
 
-### #is_/same_as :: [Medical_Test.private](/_private/bio/Medicine/Medical_Entity/Medical_Test.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Entity/Medical_Test.private|Medical_Test.private]] 
 
-### #is_/same_as :: [Medical_Test.personal](/_personal/bio/Medicine/Medical_Entity/Medical_Test.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Entity/Medical_Test.personal|Medical_Test.personal]] 
 
-### #is_/same_as :: [Medical_Test.secret](/_secret/bio/Medicine/Medical_Entity/Medical_Test.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Entity/Medical_Test.secret|Medical_Test.secret]] 
 

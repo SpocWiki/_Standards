@@ -78,17 +78,17 @@ date_of_birth: -0514-01-01T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Parmenides](/_Standards/Philosophy/Philosopher/Parmenides.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Philosopher/Parmenides|Parmenides]] 
 
-### #is_/same_as :: [Parmenides.public](/_public/Philosophy/Philosopher/Parmenides.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Philosopher/Parmenides.public|Parmenides.public]] 
 
-### #is_/same_as :: [Parmenides.internal](/_internal/Philosophy/Philosopher/Parmenides.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Philosopher/Parmenides.internal|Parmenides.internal]] 
 
-### #is_/same_as :: [Parmenides.protect](/_protect/Philosophy/Philosopher/Parmenides.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Philosopher/Parmenides.protect|Parmenides.protect]] 
 
-### #is_/same_as :: [Parmenides.private](/_private/Philosophy/Philosopher/Parmenides.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Philosopher/Parmenides.private|Parmenides.private]] 
 
-### #is_/same_as :: [Parmenides.personal](/_personal/Philosophy/Philosopher/Parmenides.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Philosopher/Parmenides.personal|Parmenides.personal]] 
 
-### #is_/same_as :: [Parmenides.secret](/_secret/Philosophy/Philosopher/Parmenides.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Philosopher/Parmenides.secret|Parmenides.secret]] 
 

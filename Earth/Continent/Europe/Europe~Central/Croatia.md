@@ -530,17 +530,17 @@ Capital :: [[Zagreb]]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Croatia](/_Standards/Earth/Continent/Europe/Europe~Central/Croatia.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Croatia|Croatia]] 
 
-### #is_/same_as :: [Croatia.public](/_public/Earth/Continent/Europe/Europe~Central/Croatia.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Croatia.public|Croatia.public]] 
 
-### #is_/same_as :: [Croatia.internal](/_internal/Earth/Continent/Europe/Europe~Central/Croatia.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Croatia.internal|Croatia.internal]] 
 
-### #is_/same_as :: [Croatia.protect](/_protect/Earth/Continent/Europe/Europe~Central/Croatia.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Croatia.protect|Croatia.protect]] 
 
-### #is_/same_as :: [Croatia.private](/_private/Earth/Continent/Europe/Europe~Central/Croatia.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Croatia.private|Croatia.private]] 
 
-### #is_/same_as :: [Croatia.personal](/_personal/Earth/Continent/Europe/Europe~Central/Croatia.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Croatia.personal|Croatia.personal]] 
 
-### #is_/same_as :: [Croatia.secret](/_secret/Earth/Continent/Europe/Europe~Central/Croatia.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Croatia.secret|Croatia.secret]] 
 

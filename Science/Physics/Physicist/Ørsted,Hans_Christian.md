@@ -123,17 +123,17 @@ date_of_birth: 1777-08-14T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ørsted,Hans_Christian](/_Standards/Science/Physics/Physicist/Ørsted,Hans_Christian.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Physicist/Ørsted,Hans_Christian|Ørsted,Hans_Christian]] 
 
-### #is_/same_as :: [Ørsted,Hans_Christian.public](/_public/Science/Physics/Physicist/Ørsted,Hans_Christian.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Physicist/Ørsted,Hans_Christian.public|Ørsted,Hans_Christian.public]] 
 
-### #is_/same_as :: [Ørsted,Hans_Christian.internal](/_internal/Science/Physics/Physicist/Ørsted,Hans_Christian.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Physicist/Ørsted,Hans_Christian.internal|Ørsted,Hans_Christian.internal]] 
 
-### #is_/same_as :: [Ørsted,Hans_Christian.protect](/_protect/Science/Physics/Physicist/Ørsted,Hans_Christian.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Physicist/Ørsted,Hans_Christian.protect|Ørsted,Hans_Christian.protect]] 
 
-### #is_/same_as :: [Ørsted,Hans_Christian.private](/_private/Science/Physics/Physicist/Ørsted,Hans_Christian.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Physicist/Ørsted,Hans_Christian.private|Ørsted,Hans_Christian.private]] 
 
-### #is_/same_as :: [Ørsted,Hans_Christian.personal](/_personal/Science/Physics/Physicist/Ørsted,Hans_Christian.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Physicist/Ørsted,Hans_Christian.personal|Ørsted,Hans_Christian.personal]] 
 
-### #is_/same_as :: [Ørsted,Hans_Christian.secret](/_secret/Science/Physics/Physicist/Ørsted,Hans_Christian.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Physicist/Ørsted,Hans_Christian.secret|Ørsted,Hans_Christian.secret]] 
 

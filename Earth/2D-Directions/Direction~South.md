@@ -58,17 +58,17 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/CompassRose%20%28mul%2
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Direction~South](/_Standards/Earth/2D-Directions/Direction~South.md) 
+### #is_/same_as :: [[/_Standards/Earth/2D-Directions/Direction~South|Direction~South]] 
 
-### #is_/same_as :: [Direction~South.public](/_public/Earth/2D-Directions/Direction~South.public.md) 
+### #is_/same_as :: [[/_public/Earth/2D-Directions/Direction~South.public|Direction~South.public]] 
 
-### #is_/same_as :: [Direction~South.internal](/_internal/Earth/2D-Directions/Direction~South.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/2D-Directions/Direction~South.internal|Direction~South.internal]] 
 
-### #is_/same_as :: [Direction~South.protect](/_protect/Earth/2D-Directions/Direction~South.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/2D-Directions/Direction~South.protect|Direction~South.protect]] 
 
-### #is_/same_as :: [Direction~South.private](/_private/Earth/2D-Directions/Direction~South.private.md) 
+### #is_/same_as :: [[/_private/Earth/2D-Directions/Direction~South.private|Direction~South.private]] 
 
-### #is_/same_as :: [Direction~South.personal](/_personal/Earth/2D-Directions/Direction~South.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/2D-Directions/Direction~South.personal|Direction~South.personal]] 
 
-### #is_/same_as :: [Direction~South.secret](/_secret/Earth/2D-Directions/Direction~South.secret.md)
+### #is_/same_as :: [[/_secret/Earth/2D-Directions/Direction~South.secret|Direction~South.secret]] 
 

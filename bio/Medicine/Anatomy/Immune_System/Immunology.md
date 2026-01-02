@@ -99,17 +99,17 @@ OpenStreetMap_tag: healthcare:speciality=immunology
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Immunology](/_Standards/bio/Medicine/Anatomy/Immune_System/Immunology.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Anatomy/Immune_System/Immunology|Immunology]] 
 
-### #is_/same_as :: [Immunology.public](/_public/bio/Medicine/Anatomy/Immune_System/Immunology.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Anatomy/Immune_System/Immunology.public|Immunology.public]] 
 
-### #is_/same_as :: [Immunology.internal](/_internal/bio/Medicine/Anatomy/Immune_System/Immunology.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Anatomy/Immune_System/Immunology.internal|Immunology.internal]] 
 
-### #is_/same_as :: [Immunology.protect](/_protect/bio/Medicine/Anatomy/Immune_System/Immunology.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Anatomy/Immune_System/Immunology.protect|Immunology.protect]] 
 
-### #is_/same_as :: [Immunology.private](/_private/bio/Medicine/Anatomy/Immune_System/Immunology.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Anatomy/Immune_System/Immunology.private|Immunology.private]] 
 
-### #is_/same_as :: [Immunology.personal](/_personal/bio/Medicine/Anatomy/Immune_System/Immunology.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Anatomy/Immune_System/Immunology.personal|Immunology.personal]] 
 
-### #is_/same_as :: [Immunology.secret](/_secret/bio/Medicine/Anatomy/Immune_System/Immunology.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Anatomy/Immune_System/Immunology.secret|Immunology.secret]] 
 

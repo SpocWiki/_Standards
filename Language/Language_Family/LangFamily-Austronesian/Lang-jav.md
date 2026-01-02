@@ -39,17 +39,17 @@ type: Lang
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lang-jav](/_Standards/Language/Language_Family/LangFamily-Austronesian/Lang-jav.md) 
+### #is_/same_as :: [[/_Standards/Language/Language_Family/LangFamily-Austronesian/Lang-jav|Lang-jav]] 
 
-### #is_/same_as :: [Lang-jav.public](/_public/Language/Language_Family/LangFamily-Austronesian/Lang-jav.public.md) 
+### #is_/same_as :: [[/_public/Language/Language_Family/LangFamily-Austronesian/Lang-jav.public|Lang-jav.public]] 
 
-### #is_/same_as :: [Lang-jav.internal](/_internal/Language/Language_Family/LangFamily-Austronesian/Lang-jav.internal.md) 
+### #is_/same_as :: [[/_internal/Language/Language_Family/LangFamily-Austronesian/Lang-jav.internal|Lang-jav.internal]] 
 
-### #is_/same_as :: [Lang-jav.protect](/_protect/Language/Language_Family/LangFamily-Austronesian/Lang-jav.protect.md) 
+### #is_/same_as :: [[/_protect/Language/Language_Family/LangFamily-Austronesian/Lang-jav.protect|Lang-jav.protect]] 
 
-### #is_/same_as :: [Lang-jav.private](/_private/Language/Language_Family/LangFamily-Austronesian/Lang-jav.private.md) 
+### #is_/same_as :: [[/_private/Language/Language_Family/LangFamily-Austronesian/Lang-jav.private|Lang-jav.private]] 
 
-### #is_/same_as :: [Lang-jav.personal](/_personal/Language/Language_Family/LangFamily-Austronesian/Lang-jav.personal.md) 
+### #is_/same_as :: [[/_personal/Language/Language_Family/LangFamily-Austronesian/Lang-jav.personal|Lang-jav.personal]] 
 
-### #is_/same_as :: [Lang-jav.secret](/_secret/Language/Language_Family/LangFamily-Austronesian/Lang-jav.secret.md)
+### #is_/same_as :: [[/_secret/Language/Language_Family/LangFamily-Austronesian/Lang-jav.secret|Lang-jav.secret]] 
 

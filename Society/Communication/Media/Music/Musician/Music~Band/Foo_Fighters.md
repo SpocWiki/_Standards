@@ -48,17 +48,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Foo_Fighters](/_Standards/Society/Communication/Media/Music/Musician/Music~Band/Foo_Fighters.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Musician/Music~Band/Foo_Fighters|Foo_Fighters]] 
 
-### #is_/same_as :: [Foo_Fighters.public](/_public/Society/Communication/Media/Music/Musician/Music~Band/Foo_Fighters.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Musician/Music~Band/Foo_Fighters.public|Foo_Fighters.public]] 
 
-### #is_/same_as :: [Foo_Fighters.internal](/_internal/Society/Communication/Media/Music/Musician/Music~Band/Foo_Fighters.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Musician/Music~Band/Foo_Fighters.internal|Foo_Fighters.internal]] 
 
-### #is_/same_as :: [Foo_Fighters.protect](/_protect/Society/Communication/Media/Music/Musician/Music~Band/Foo_Fighters.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Musician/Music~Band/Foo_Fighters.protect|Foo_Fighters.protect]] 
 
-### #is_/same_as :: [Foo_Fighters.private](/_private/Society/Communication/Media/Music/Musician/Music~Band/Foo_Fighters.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Musician/Music~Band/Foo_Fighters.private|Foo_Fighters.private]] 
 
-### #is_/same_as :: [Foo_Fighters.personal](/_personal/Society/Communication/Media/Music/Musician/Music~Band/Foo_Fighters.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Musician/Music~Band/Foo_Fighters.personal|Foo_Fighters.personal]] 
 
-### #is_/same_as :: [Foo_Fighters.secret](/_secret/Society/Communication/Media/Music/Musician/Music~Band/Foo_Fighters.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Musician/Music~Band/Foo_Fighters.secret|Foo_Fighters.secret]] 
 

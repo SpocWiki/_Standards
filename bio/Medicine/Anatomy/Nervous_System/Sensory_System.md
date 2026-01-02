@@ -29,17 +29,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sensory_System](/_Standards/bio/Medicine/Anatomy/Nervous_System/Sensory_System.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Anatomy/Nervous_System/Sensory_System|Sensory_System]] 
 
-### #is_/same_as :: [Sensory_System.public](/_public/bio/Medicine/Anatomy/Nervous_System/Sensory_System.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Anatomy/Nervous_System/Sensory_System.public|Sensory_System.public]] 
 
-### #is_/same_as :: [Sensory_System.internal](/_internal/bio/Medicine/Anatomy/Nervous_System/Sensory_System.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Anatomy/Nervous_System/Sensory_System.internal|Sensory_System.internal]] 
 
-### #is_/same_as :: [Sensory_System.protect](/_protect/bio/Medicine/Anatomy/Nervous_System/Sensory_System.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Anatomy/Nervous_System/Sensory_System.protect|Sensory_System.protect]] 
 
-### #is_/same_as :: [Sensory_System.private](/_private/bio/Medicine/Anatomy/Nervous_System/Sensory_System.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Anatomy/Nervous_System/Sensory_System.private|Sensory_System.private]] 
 
-### #is_/same_as :: [Sensory_System.personal](/_personal/bio/Medicine/Anatomy/Nervous_System/Sensory_System.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Anatomy/Nervous_System/Sensory_System.personal|Sensory_System.personal]] 
 
-### #is_/same_as :: [Sensory_System.secret](/_secret/bio/Medicine/Anatomy/Nervous_System/Sensory_System.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Anatomy/Nervous_System/Sensory_System.secret|Sensory_System.secret]] 
 

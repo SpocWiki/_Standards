@@ -27,17 +27,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Vapor](/_Standards/Science/Physics/State_of_Matter/Vapor.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/State_of_Matter/Vapor|Vapor]] 
 
-### #is_/same_as :: [Vapor.public](/_public/Science/Physics/State_of_Matter/Vapor.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/State_of_Matter/Vapor.public|Vapor.public]] 
 
-### #is_/same_as :: [Vapor.internal](/_internal/Science/Physics/State_of_Matter/Vapor.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/State_of_Matter/Vapor.internal|Vapor.internal]] 
 
-### #is_/same_as :: [Vapor.protect](/_protect/Science/Physics/State_of_Matter/Vapor.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/State_of_Matter/Vapor.protect|Vapor.protect]] 
 
-### #is_/same_as :: [Vapor.private](/_private/Science/Physics/State_of_Matter/Vapor.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/State_of_Matter/Vapor.private|Vapor.private]] 
 
-### #is_/same_as :: [Vapor.personal](/_personal/Science/Physics/State_of_Matter/Vapor.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/State_of_Matter/Vapor.personal|Vapor.personal]] 
 
-### #is_/same_as :: [Vapor.secret](/_secret/Science/Physics/State_of_Matter/Vapor.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/State_of_Matter/Vapor.secret|Vapor.secret]] 
 

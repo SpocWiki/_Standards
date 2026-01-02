@@ -42,17 +42,17 @@ An ItemList ordered with no explicit order.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Item_List_Unordered](/_Standards/schema-org/Enumeration/Item_List_Order_Type/Item_List_Unordered.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Item_List_Order_Type/Item_List_Unordered|Item_List_Unordered]] 
 
-### #is_/same_as :: [Item_List_Unordered.public](/_public/schema-org/Enumeration/Item_List_Order_Type/Item_List_Unordered.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Item_List_Order_Type/Item_List_Unordered.public|Item_List_Unordered.public]] 
 
-### #is_/same_as :: [Item_List_Unordered.internal](/_internal/schema-org/Enumeration/Item_List_Order_Type/Item_List_Unordered.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Item_List_Order_Type/Item_List_Unordered.internal|Item_List_Unordered.internal]] 
 
-### #is_/same_as :: [Item_List_Unordered.protect](/_protect/schema-org/Enumeration/Item_List_Order_Type/Item_List_Unordered.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Item_List_Order_Type/Item_List_Unordered.protect|Item_List_Unordered.protect]] 
 
-### #is_/same_as :: [Item_List_Unordered.private](/_private/schema-org/Enumeration/Item_List_Order_Type/Item_List_Unordered.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Item_List_Order_Type/Item_List_Unordered.private|Item_List_Unordered.private]] 
 
-### #is_/same_as :: [Item_List_Unordered.personal](/_personal/schema-org/Enumeration/Item_List_Order_Type/Item_List_Unordered.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Item_List_Order_Type/Item_List_Unordered.personal|Item_List_Unordered.personal]] 
 
-### #is_/same_as :: [Item_List_Unordered.secret](/_secret/schema-org/Enumeration/Item_List_Order_Type/Item_List_Unordered.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Item_List_Order_Type/Item_List_Unordered.secret|Item_List_Unordered.secret]] 
 

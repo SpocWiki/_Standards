@@ -17,17 +17,17 @@ Kanji Script is used in [[../../Earth/Continent/Asia/Asia~East/Japan|Japan]].
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Script~Jpan](/_Standards/Language/Writing_System/Script~Jpan.md) 
+### #is_/same_as :: [[/_Standards/Language/Writing_System/Script~Jpan|Script~Jpan]] 
 
-### #is_/same_as :: [Script~Jpan.public](/_public/Language/Writing_System/Script~Jpan.public.md) 
+### #is_/same_as :: [[/_public/Language/Writing_System/Script~Jpan.public|Script~Jpan.public]] 
 
-### #is_/same_as :: [Script~Jpan.internal](/_internal/Language/Writing_System/Script~Jpan.internal.md) 
+### #is_/same_as :: [[/_internal/Language/Writing_System/Script~Jpan.internal|Script~Jpan.internal]] 
 
-### #is_/same_as :: [Script~Jpan.protect](/_protect/Language/Writing_System/Script~Jpan.protect.md) 
+### #is_/same_as :: [[/_protect/Language/Writing_System/Script~Jpan.protect|Script~Jpan.protect]] 
 
-### #is_/same_as :: [Script~Jpan.private](/_private/Language/Writing_System/Script~Jpan.private.md) 
+### #is_/same_as :: [[/_private/Language/Writing_System/Script~Jpan.private|Script~Jpan.private]] 
 
-### #is_/same_as :: [Script~Jpan.personal](/_personal/Language/Writing_System/Script~Jpan.personal.md) 
+### #is_/same_as :: [[/_personal/Language/Writing_System/Script~Jpan.personal|Script~Jpan.personal]] 
 
-### #is_/same_as :: [Script~Jpan.secret](/_secret/Language/Writing_System/Script~Jpan.secret.md)
+### #is_/same_as :: [[/_secret/Language/Writing_System/Script~Jpan.secret|Script~Jpan.secret]] 
 

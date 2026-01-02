@@ -76,17 +76,17 @@ P8189: 987007285591405171
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Christian_Democracy](/_Standards/Society/Politics/Government/Democracy/Political_Party/Christian_Democracy.md) 
+### #is_/same_as :: [[/_Standards/Society/Politics/Government/Democracy/Political_Party/Christian_Democracy|Christian_Democracy]] 
 
-### #is_/same_as :: [Christian_Democracy.public](/_public/Society/Politics/Government/Democracy/Political_Party/Christian_Democracy.public.md) 
+### #is_/same_as :: [[/_public/Society/Politics/Government/Democracy/Political_Party/Christian_Democracy.public|Christian_Democracy.public]] 
 
-### #is_/same_as :: [Christian_Democracy.internal](/_internal/Society/Politics/Government/Democracy/Political_Party/Christian_Democracy.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Politics/Government/Democracy/Political_Party/Christian_Democracy.internal|Christian_Democracy.internal]] 
 
-### #is_/same_as :: [Christian_Democracy.protect](/_protect/Society/Politics/Government/Democracy/Political_Party/Christian_Democracy.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Politics/Government/Democracy/Political_Party/Christian_Democracy.protect|Christian_Democracy.protect]] 
 
-### #is_/same_as :: [Christian_Democracy.private](/_private/Society/Politics/Government/Democracy/Political_Party/Christian_Democracy.private.md) 
+### #is_/same_as :: [[/_private/Society/Politics/Government/Democracy/Political_Party/Christian_Democracy.private|Christian_Democracy.private]] 
 
-### #is_/same_as :: [Christian_Democracy.personal](/_personal/Society/Politics/Government/Democracy/Political_Party/Christian_Democracy.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Politics/Government/Democracy/Political_Party/Christian_Democracy.personal|Christian_Democracy.personal]] 
 
-### #is_/same_as :: [Christian_Democracy.secret](/_secret/Society/Politics/Government/Democracy/Political_Party/Christian_Democracy.secret.md)
+### #is_/same_as :: [[/_secret/Society/Politics/Government/Democracy/Political_Party/Christian_Democracy.secret|Christian_Democracy.secret]] 
 

@@ -63,17 +63,17 @@ IMDb_keyword:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Experiment](/_Standards/Mathematics/Statistics/Experiment.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Statistics/Experiment|Experiment]] 
 
-### #is_/same_as :: [Experiment.public](/_public/Mathematics/Statistics/Experiment.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Statistics/Experiment.public|Experiment.public]] 
 
-### #is_/same_as :: [Experiment.internal](/_internal/Mathematics/Statistics/Experiment.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Statistics/Experiment.internal|Experiment.internal]] 
 
-### #is_/same_as :: [Experiment.protect](/_protect/Mathematics/Statistics/Experiment.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Statistics/Experiment.protect|Experiment.protect]] 
 
-### #is_/same_as :: [Experiment.private](/_private/Mathematics/Statistics/Experiment.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Statistics/Experiment.private|Experiment.private]] 
 
-### #is_/same_as :: [Experiment.personal](/_personal/Mathematics/Statistics/Experiment.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Statistics/Experiment.personal|Experiment.personal]] 
 
-### #is_/same_as :: [Experiment.secret](/_secret/Mathematics/Statistics/Experiment.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Statistics/Experiment.secret|Experiment.secret]] 
 

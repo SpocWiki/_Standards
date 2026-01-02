@@ -78,17 +78,17 @@ ISNI: 0000000049272569
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Walton,Ernest](/_Standards/Science/Physics/Physicist/Walton,Ernest.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Physicist/Walton,Ernest|Walton,Ernest]] 
 
-### #is_/same_as :: [Walton,Ernest.public](/_public/Science/Physics/Physicist/Walton,Ernest.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Physicist/Walton,Ernest.public|Walton,Ernest.public]] 
 
-### #is_/same_as :: [Walton,Ernest.internal](/_internal/Science/Physics/Physicist/Walton,Ernest.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Physicist/Walton,Ernest.internal|Walton,Ernest.internal]] 
 
-### #is_/same_as :: [Walton,Ernest.protect](/_protect/Science/Physics/Physicist/Walton,Ernest.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Physicist/Walton,Ernest.protect|Walton,Ernest.protect]] 
 
-### #is_/same_as :: [Walton,Ernest.private](/_private/Science/Physics/Physicist/Walton,Ernest.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Physicist/Walton,Ernest.private|Walton,Ernest.private]] 
 
-### #is_/same_as :: [Walton,Ernest.personal](/_personal/Science/Physics/Physicist/Walton,Ernest.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Physicist/Walton,Ernest.personal|Walton,Ernest.personal]] 
 
-### #is_/same_as :: [Walton,Ernest.secret](/_secret/Science/Physics/Physicist/Walton,Ernest.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Physicist/Walton,Ernest.secret|Walton,Ernest.secret]] 
 

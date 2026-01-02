@@ -45,17 +45,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_number_of_credits](/_Standards/schema-org/Property/has_number_of/has_number_of_credits.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_number_of/has_number_of_credits|has_number_of_credits]] 
 
-### #is_/same_as :: [has_number_of_credits.public](/_public/schema-org/Property/has_number_of/has_number_of_credits.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/has_number_of/has_number_of_credits.public|has_number_of_credits.public]] 
 
-### #is_/same_as :: [has_number_of_credits.internal](/_internal/schema-org/Property/has_number_of/has_number_of_credits.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_number_of/has_number_of_credits.internal|has_number_of_credits.internal]] 
 
-### #is_/same_as :: [has_number_of_credits.protect](/_protect/schema-org/Property/has_number_of/has_number_of_credits.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_number_of/has_number_of_credits.protect|has_number_of_credits.protect]] 
 
-### #is_/same_as :: [has_number_of_credits.private](/_private/schema-org/Property/has_number_of/has_number_of_credits.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/has_number_of/has_number_of_credits.private|has_number_of_credits.private]] 
 
-### #is_/same_as :: [has_number_of_credits.personal](/_personal/schema-org/Property/has_number_of/has_number_of_credits.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_number_of/has_number_of_credits.personal|has_number_of_credits.personal]] 
 
-### #is_/same_as :: [has_number_of_credits.secret](/_secret/schema-org/Property/has_number_of/has_number_of_credits.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/has_number_of/has_number_of_credits.secret|has_number_of_credits.secret]] 
 

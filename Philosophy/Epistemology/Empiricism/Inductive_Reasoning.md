@@ -39,17 +39,17 @@ Commons_category: Inductive reasoning
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Inductive_Reasoning](/_Standards/Philosophy/Epistemology/Empiricism/Inductive_Reasoning.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Epistemology/Empiricism/Inductive_Reasoning|Inductive_Reasoning]] 
 
-### #is_/same_as :: [Inductive_Reasoning.public](/_public/Philosophy/Epistemology/Empiricism/Inductive_Reasoning.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Epistemology/Empiricism/Inductive_Reasoning.public|Inductive_Reasoning.public]] 
 
-### #is_/same_as :: [Inductive_Reasoning.internal](/_internal/Philosophy/Epistemology/Empiricism/Inductive_Reasoning.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Epistemology/Empiricism/Inductive_Reasoning.internal|Inductive_Reasoning.internal]] 
 
-### #is_/same_as :: [Inductive_Reasoning.protect](/_protect/Philosophy/Epistemology/Empiricism/Inductive_Reasoning.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Epistemology/Empiricism/Inductive_Reasoning.protect|Inductive_Reasoning.protect]] 
 
-### #is_/same_as :: [Inductive_Reasoning.private](/_private/Philosophy/Epistemology/Empiricism/Inductive_Reasoning.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Epistemology/Empiricism/Inductive_Reasoning.private|Inductive_Reasoning.private]] 
 
-### #is_/same_as :: [Inductive_Reasoning.personal](/_personal/Philosophy/Epistemology/Empiricism/Inductive_Reasoning.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Epistemology/Empiricism/Inductive_Reasoning.personal|Inductive_Reasoning.personal]] 
 
-### #is_/same_as :: [Inductive_Reasoning.secret](/_secret/Philosophy/Epistemology/Empiricism/Inductive_Reasoning.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Epistemology/Empiricism/Inductive_Reasoning.secret|Inductive_Reasoning.secret]] 
 

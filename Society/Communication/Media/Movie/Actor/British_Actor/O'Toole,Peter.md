@@ -146,17 +146,17 @@ Plex_person_key: 5d7768276f4521001ea990c8
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [O'Toole,Peter](/_Standards/Society/Communication/Media/Movie/Actor/British_Actor/O'Toole,Peter.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Actor/British_Actor/O'Toole,Peter|O'Toole,Peter]] 
 
-### #is_/same_as :: [O'Toole,Peter.public](/_public/Society/Communication/Media/Movie/Actor/British_Actor/O'Toole,Peter.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Actor/British_Actor/O'Toole,Peter.public|O'Toole,Peter.public]] 
 
-### #is_/same_as :: [O'Toole,Peter.internal](/_internal/Society/Communication/Media/Movie/Actor/British_Actor/O'Toole,Peter.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Actor/British_Actor/O'Toole,Peter.internal|O'Toole,Peter.internal]] 
 
-### #is_/same_as :: [O'Toole,Peter.protect](/_protect/Society/Communication/Media/Movie/Actor/British_Actor/O'Toole,Peter.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Actor/British_Actor/O'Toole,Peter.protect|O'Toole,Peter.protect]] 
 
-### #is_/same_as :: [O'Toole,Peter.private](/_private/Society/Communication/Media/Movie/Actor/British_Actor/O'Toole,Peter.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Actor/British_Actor/O'Toole,Peter.private|O'Toole,Peter.private]] 
 
-### #is_/same_as :: [O'Toole,Peter.personal](/_personal/Society/Communication/Media/Movie/Actor/British_Actor/O'Toole,Peter.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Actor/British_Actor/O'Toole,Peter.personal|O'Toole,Peter.personal]] 
 
-### #is_/same_as :: [O'Toole,Peter.secret](/_secret/Society/Communication/Media/Movie/Actor/British_Actor/O'Toole,Peter.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Actor/British_Actor/O'Toole,Peter.secret|O'Toole,Peter.secret]] 
 

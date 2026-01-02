@@ -46,17 +46,17 @@ female_form_of_label:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Commander-in-Chief](/_Standards/Society/Military/Armed_Forces/Military_Rank/Commander-in-Chief.md) 
+### #is_/same_as :: [[/_Standards/Society/Military/Armed_Forces/Military_Rank/Commander-in-Chief|Commander-in-Chief]] 
 
-### #is_/same_as :: [Commander-in-Chief.public](/_public/Society/Military/Armed_Forces/Military_Rank/Commander-in-Chief.public.md) 
+### #is_/same_as :: [[/_public/Society/Military/Armed_Forces/Military_Rank/Commander-in-Chief.public|Commander-in-Chief.public]] 
 
-### #is_/same_as :: [Commander-in-Chief.internal](/_internal/Society/Military/Armed_Forces/Military_Rank/Commander-in-Chief.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Military/Armed_Forces/Military_Rank/Commander-in-Chief.internal|Commander-in-Chief.internal]] 
 
-### #is_/same_as :: [Commander-in-Chief.protect](/_protect/Society/Military/Armed_Forces/Military_Rank/Commander-in-Chief.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Military/Armed_Forces/Military_Rank/Commander-in-Chief.protect|Commander-in-Chief.protect]] 
 
-### #is_/same_as :: [Commander-in-Chief.private](/_private/Society/Military/Armed_Forces/Military_Rank/Commander-in-Chief.private.md) 
+### #is_/same_as :: [[/_private/Society/Military/Armed_Forces/Military_Rank/Commander-in-Chief.private|Commander-in-Chief.private]] 
 
-### #is_/same_as :: [Commander-in-Chief.personal](/_personal/Society/Military/Armed_Forces/Military_Rank/Commander-in-Chief.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Military/Armed_Forces/Military_Rank/Commander-in-Chief.personal|Commander-in-Chief.personal]] 
 
-### #is_/same_as :: [Commander-in-Chief.secret](/_secret/Society/Military/Armed_Forces/Military_Rank/Commander-in-Chief.secret.md)
+### #is_/same_as :: [[/_secret/Society/Military/Armed_Forces/Military_Rank/Commander-in-Chief.secret|Commander-in-Chief.secret]] 
 

@@ -27,17 +27,17 @@ has_id_wikidata: Q493109
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Cryosphere](/_Standards/Earth/Climate/Cryosphere.md) 
+### #is_/same_as :: [[/_Standards/Earth/Climate/Cryosphere|Cryosphere]] 
 
-### #is_/same_as :: [Cryosphere.public](/_public/Earth/Climate/Cryosphere.public.md) 
+### #is_/same_as :: [[/_public/Earth/Climate/Cryosphere.public|Cryosphere.public]] 
 
-### #is_/same_as :: [Cryosphere.internal](/_internal/Earth/Climate/Cryosphere.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Climate/Cryosphere.internal|Cryosphere.internal]] 
 
-### #is_/same_as :: [Cryosphere.protect](/_protect/Earth/Climate/Cryosphere.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Climate/Cryosphere.protect|Cryosphere.protect]] 
 
-### #is_/same_as :: [Cryosphere.private](/_private/Earth/Climate/Cryosphere.private.md) 
+### #is_/same_as :: [[/_private/Earth/Climate/Cryosphere.private|Cryosphere.private]] 
 
-### #is_/same_as :: [Cryosphere.personal](/_personal/Earth/Climate/Cryosphere.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Climate/Cryosphere.personal|Cryosphere.personal]] 
 
-### #is_/same_as :: [Cryosphere.secret](/_secret/Earth/Climate/Cryosphere.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Climate/Cryosphere.secret|Cryosphere.secret]] 
 

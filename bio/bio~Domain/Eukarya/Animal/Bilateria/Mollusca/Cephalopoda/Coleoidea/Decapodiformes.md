@@ -157,7 +157,7 @@ phylogenic position. While the relationships are still unresolved,
 Young, *et al*. (1998) support its close relationship to the Sepiidae
 and other sepioid families based on arguments mostly put forward by Naef
 (1922). A cladistic study based on morphology has not been made.
-![ ](Decapodiformes/fossilSepioids.JPG))
+![ ](Decapodiformes/fossilSepioids.JPG) 
 
 **Figure**. Drawings from Young et al. (1998) modified from Naef (1922)
 show the similarities between ***Spirulirostra**,* ***Spirulirostrina***
@@ -212,14 +212,14 @@ relationships is badly needed (Young, *et al.*, 1999).
 
 
 ------------------------------------------------------------------------------- 
-![](Decapodiformes/Histioteuthis.jpg))
+![](Decapodiformes/Histioteuthis.jpg) 
 Scientific Name ::  Histioteuthis
 Location ::        Hawaii
 View              Oral view showing eight arms and two tentacles
 Copyright ::         © 1995 [Richard E. Young](http://www.soest.hawaii.edu/%7Eryoung/rey.html) 
 
 ------------------------------------------------------------------------------- 
-![Pyroteuthis addolux](Decapodiformes/Pyroteuthis_addolux.jpg))
+![Pyroteuthis addolux](Decapodiformes/Pyroteuthis_addolux.jpg) 
 Scientific Name ::  Pyroteuthis addolux
 Location ::        Hawaii
 View              Dorsal view showing eight arms and two tentacles
@@ -228,17 +228,17 @@ Copyright ::         © 1995 [Richard E. Young](http://www.soest.hawaii.edu/%7Er
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Decapodiformes](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes|Decapodiformes]] 
 
-### #is_/same_as :: [Decapodiformes.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes.public|Decapodiformes.public]] 
 
-### #is_/same_as :: [Decapodiformes.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes.internal|Decapodiformes.internal]] 
 
-### #is_/same_as :: [Decapodiformes.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes.protect|Decapodiformes.protect]] 
 
-### #is_/same_as :: [Decapodiformes.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes.private|Decapodiformes.private]] 
 
-### #is_/same_as :: [Decapodiformes.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes.personal|Decapodiformes.personal]] 
 
-### #is_/same_as :: [Decapodiformes.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes.secret|Decapodiformes.secret]] 
 

@@ -61,17 +61,17 @@ Iconclass_notation: 25A144
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Direction~West](/_Standards/Earth/2D-Directions/Direction~West.md) 
+### #is_/same_as :: [[/_Standards/Earth/2D-Directions/Direction~West|Direction~West]] 
 
-### #is_/same_as :: [Direction~West.public](/_public/Earth/2D-Directions/Direction~West.public.md) 
+### #is_/same_as :: [[/_public/Earth/2D-Directions/Direction~West.public|Direction~West.public]] 
 
-### #is_/same_as :: [Direction~West.internal](/_internal/Earth/2D-Directions/Direction~West.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/2D-Directions/Direction~West.internal|Direction~West.internal]] 
 
-### #is_/same_as :: [Direction~West.protect](/_protect/Earth/2D-Directions/Direction~West.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/2D-Directions/Direction~West.protect|Direction~West.protect]] 
 
-### #is_/same_as :: [Direction~West.private](/_private/Earth/2D-Directions/Direction~West.private.md) 
+### #is_/same_as :: [[/_private/Earth/2D-Directions/Direction~West.private|Direction~West.private]] 
 
-### #is_/same_as :: [Direction~West.personal](/_personal/Earth/2D-Directions/Direction~West.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/2D-Directions/Direction~West.personal|Direction~West.personal]] 
 
-### #is_/same_as :: [Direction~West.secret](/_secret/Earth/2D-Directions/Direction~West.secret.md)
+### #is_/same_as :: [[/_secret/Earth/2D-Directions/Direction~West.secret|Direction~West.secret]] 
 

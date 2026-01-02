@@ -44,17 +44,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_observed_node](/_Standards/schema-org/Relation/has/has_observed_node.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_observed_node|has_observed_node]] 
 
-### #is_/same_as :: [has_observed_node.public](/_public/schema-org/Relation/has/has_observed_node.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_observed_node.public|has_observed_node.public]] 
 
-### #is_/same_as :: [has_observed_node.internal](/_internal/schema-org/Relation/has/has_observed_node.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_observed_node.internal|has_observed_node.internal]] 
 
-### #is_/same_as :: [has_observed_node.protect](/_protect/schema-org/Relation/has/has_observed_node.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_observed_node.protect|has_observed_node.protect]] 
 
-### #is_/same_as :: [has_observed_node.private](/_private/schema-org/Relation/has/has_observed_node.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_observed_node.private|has_observed_node.private]] 
 
-### #is_/same_as :: [has_observed_node.personal](/_personal/schema-org/Relation/has/has_observed_node.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_observed_node.personal|has_observed_node.personal]] 
 
-### #is_/same_as :: [has_observed_node.secret](/_secret/schema-org/Relation/has/has_observed_node.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_observed_node.secret|has_observed_node.secret]] 
 

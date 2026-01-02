@@ -51,17 +51,17 @@ Dewey_Decimal_Classification: "523.844"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Variable_Star](/_Standards/Astronomy/Star/Variable_Star.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Star/Variable_Star|Variable_Star]] 
 
-### #is_/same_as :: [Variable_Star.public](/_public/Astronomy/Star/Variable_Star.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Star/Variable_Star.public|Variable_Star.public]] 
 
-### #is_/same_as :: [Variable_Star.internal](/_internal/Astronomy/Star/Variable_Star.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Star/Variable_Star.internal|Variable_Star.internal]] 
 
-### #is_/same_as :: [Variable_Star.protect](/_protect/Astronomy/Star/Variable_Star.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Star/Variable_Star.protect|Variable_Star.protect]] 
 
-### #is_/same_as :: [Variable_Star.private](/_private/Astronomy/Star/Variable_Star.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Star/Variable_Star.private|Variable_Star.private]] 
 
-### #is_/same_as :: [Variable_Star.personal](/_personal/Astronomy/Star/Variable_Star.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Star/Variable_Star.personal|Variable_Star.personal]] 
 
-### #is_/same_as :: [Variable_Star.secret](/_secret/Astronomy/Star/Variable_Star.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Star/Variable_Star.secret|Variable_Star.secret]] 
 

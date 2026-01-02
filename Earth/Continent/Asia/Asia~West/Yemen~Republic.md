@@ -386,17 +386,17 @@ Capital :: [[Yemen~Republic/City/Sana‘a]] ]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Yemen~Republic](/_Standards/Earth/Continent/Asia/Asia~West/Yemen~Republic.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~West/Yemen~Republic|Yemen~Republic]] 
 
-### #is_/same_as :: [Yemen~Republic.public](/_public/Earth/Continent/Asia/Asia~West/Yemen~Republic.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~West/Yemen~Republic.public|Yemen~Republic.public]] 
 
-### #is_/same_as :: [Yemen~Republic.internal](/_internal/Earth/Continent/Asia/Asia~West/Yemen~Republic.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~West/Yemen~Republic.internal|Yemen~Republic.internal]] 
 
-### #is_/same_as :: [Yemen~Republic.protect](/_protect/Earth/Continent/Asia/Asia~West/Yemen~Republic.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~West/Yemen~Republic.protect|Yemen~Republic.protect]] 
 
-### #is_/same_as :: [Yemen~Republic.private](/_private/Earth/Continent/Asia/Asia~West/Yemen~Republic.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~West/Yemen~Republic.private|Yemen~Republic.private]] 
 
-### #is_/same_as :: [Yemen~Republic.personal](/_personal/Earth/Continent/Asia/Asia~West/Yemen~Republic.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~West/Yemen~Republic.personal|Yemen~Republic.personal]] 
 
-### #is_/same_as :: [Yemen~Republic.secret](/_secret/Earth/Continent/Asia/Asia~West/Yemen~Republic.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~West/Yemen~Republic.secret|Yemen~Republic.secret]] 
 

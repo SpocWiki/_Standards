@@ -32,17 +32,17 @@ Commons_category: Architectural theory
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Architectural_Theory](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Theory.md) 
+### #is_/same_as :: [[/_Standards/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Theory|Architectural_Theory]] 
 
-### #is_/same_as :: [Architectural_Theory.public](/_public/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Theory.public.md) 
+### #is_/same_as :: [[/_public/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Theory.public|Architectural_Theory.public]] 
 
-### #is_/same_as :: [Architectural_Theory.internal](/_internal/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Theory.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Theory.internal|Architectural_Theory.internal]] 
 
-### #is_/same_as :: [Architectural_Theory.protect](/_protect/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Theory.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Theory.protect|Architectural_Theory.protect]] 
 
-### #is_/same_as :: [Architectural_Theory.private](/_private/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Theory.private.md) 
+### #is_/same_as :: [[/_private/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Theory.private|Architectural_Theory.private]] 
 
-### #is_/same_as :: [Architectural_Theory.personal](/_personal/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Theory.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Theory.personal|Architectural_Theory.personal]] 
 
-### #is_/same_as :: [Architectural_Theory.secret](/_secret/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Theory.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Theory.secret|Architectural_Theory.secret]] 
 

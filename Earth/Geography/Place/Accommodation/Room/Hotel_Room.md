@@ -43,17 +43,17 @@ See also the <a href="https://schema.org/docs/hotels.html">dedicated document on
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hotel_Room](/_Standards/Earth/Geography/Place/Accommodation/Room/Hotel_Room.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geography/Place/Accommodation/Room/Hotel_Room|Hotel_Room]] 
 
-### #is_/same_as :: [Hotel_Room.public](/_public/Earth/Geography/Place/Accommodation/Room/Hotel_Room.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geography/Place/Accommodation/Room/Hotel_Room.public|Hotel_Room.public]] 
 
-### #is_/same_as :: [Hotel_Room.internal](/_internal/Earth/Geography/Place/Accommodation/Room/Hotel_Room.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geography/Place/Accommodation/Room/Hotel_Room.internal|Hotel_Room.internal]] 
 
-### #is_/same_as :: [Hotel_Room.protect](/_protect/Earth/Geography/Place/Accommodation/Room/Hotel_Room.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geography/Place/Accommodation/Room/Hotel_Room.protect|Hotel_Room.protect]] 
 
-### #is_/same_as :: [Hotel_Room.private](/_private/Earth/Geography/Place/Accommodation/Room/Hotel_Room.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geography/Place/Accommodation/Room/Hotel_Room.private|Hotel_Room.private]] 
 
-### #is_/same_as :: [Hotel_Room.personal](/_personal/Earth/Geography/Place/Accommodation/Room/Hotel_Room.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geography/Place/Accommodation/Room/Hotel_Room.personal|Hotel_Room.personal]] 
 
-### #is_/same_as :: [Hotel_Room.secret](/_secret/Earth/Geography/Place/Accommodation/Room/Hotel_Room.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geography/Place/Accommodation/Room/Hotel_Room.secret|Hotel_Room.secret]] 
 

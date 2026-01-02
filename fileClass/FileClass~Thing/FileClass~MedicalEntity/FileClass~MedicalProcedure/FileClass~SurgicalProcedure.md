@@ -37,17 +37,17 @@ A medical procedure involving an incision with instruments; performed for diagno
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~SurgicalProcedure](/_Standards/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalProcedure/FileClass~SurgicalProcedure.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalProcedure/FileClass~SurgicalProcedure|FileClass~SurgicalProcedure]] 
 
-### #is_/same_as :: [FileClass~SurgicalProcedure.public](/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalProcedure/FileClass~SurgicalProcedure.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalProcedure/FileClass~SurgicalProcedure.public|FileClass~SurgicalProcedure.public]] 
 
-### #is_/same_as :: [FileClass~SurgicalProcedure.internal](/_internal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalProcedure/FileClass~SurgicalProcedure.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalProcedure/FileClass~SurgicalProcedure.internal|FileClass~SurgicalProcedure.internal]] 
 
-### #is_/same_as :: [FileClass~SurgicalProcedure.protect](/_protect/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalProcedure/FileClass~SurgicalProcedure.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalProcedure/FileClass~SurgicalProcedure.protect|FileClass~SurgicalProcedure.protect]] 
 
-### #is_/same_as :: [FileClass~SurgicalProcedure.private](/_private/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalProcedure/FileClass~SurgicalProcedure.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalProcedure/FileClass~SurgicalProcedure.private|FileClass~SurgicalProcedure.private]] 
 
-### #is_/same_as :: [FileClass~SurgicalProcedure.personal](/_personal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalProcedure/FileClass~SurgicalProcedure.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalProcedure/FileClass~SurgicalProcedure.personal|FileClass~SurgicalProcedure.personal]] 
 
-### #is_/same_as :: [FileClass~SurgicalProcedure.secret](/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalProcedure/FileClass~SurgicalProcedure.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalProcedure/FileClass~SurgicalProcedure.secret|FileClass~SurgicalProcedure.secret]] 
 

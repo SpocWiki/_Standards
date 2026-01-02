@@ -37,17 +37,17 @@ A publication containing information about varied topics that are pertinent to g
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~Newspaper](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Series/FileClass~CreativeWorkAndSeries/FileClass~CreativeWorkSeries/FileClass~Periodical/FileClass~Newspaper.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Series/FileClass~CreativeWorkAndSeries/FileClass~CreativeWorkSeries/FileClass~Periodical/FileClass~Newspaper|FileClass~Newspaper]] 
 
-### #is_/same_as :: [FileClass~Newspaper.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Series/FileClass~CreativeWorkAndSeries/FileClass~CreativeWorkSeries/FileClass~Periodical/FileClass~Newspaper.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Series/FileClass~CreativeWorkAndSeries/FileClass~CreativeWorkSeries/FileClass~Periodical/FileClass~Newspaper.public|FileClass~Newspaper.public]] 
 
-### #is_/same_as :: [FileClass~Newspaper.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Series/FileClass~CreativeWorkAndSeries/FileClass~CreativeWorkSeries/FileClass~Periodical/FileClass~Newspaper.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Series/FileClass~CreativeWorkAndSeries/FileClass~CreativeWorkSeries/FileClass~Periodical/FileClass~Newspaper.internal|FileClass~Newspaper.internal]] 
 
-### #is_/same_as :: [FileClass~Newspaper.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Series/FileClass~CreativeWorkAndSeries/FileClass~CreativeWorkSeries/FileClass~Periodical/FileClass~Newspaper.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Series/FileClass~CreativeWorkAndSeries/FileClass~CreativeWorkSeries/FileClass~Periodical/FileClass~Newspaper.protect|FileClass~Newspaper.protect]] 
 
-### #is_/same_as :: [FileClass~Newspaper.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Series/FileClass~CreativeWorkAndSeries/FileClass~CreativeWorkSeries/FileClass~Periodical/FileClass~Newspaper.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Series/FileClass~CreativeWorkAndSeries/FileClass~CreativeWorkSeries/FileClass~Periodical/FileClass~Newspaper.private|FileClass~Newspaper.private]] 
 
-### #is_/same_as :: [FileClass~Newspaper.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Series/FileClass~CreativeWorkAndSeries/FileClass~CreativeWorkSeries/FileClass~Periodical/FileClass~Newspaper.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Series/FileClass~CreativeWorkAndSeries/FileClass~CreativeWorkSeries/FileClass~Periodical/FileClass~Newspaper.personal|FileClass~Newspaper.personal]] 
 
-### #is_/same_as :: [FileClass~Newspaper.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Series/FileClass~CreativeWorkAndSeries/FileClass~CreativeWorkSeries/FileClass~Periodical/FileClass~Newspaper.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Series/FileClass~CreativeWorkAndSeries/FileClass~CreativeWorkSeries/FileClass~Periodical/FileClass~Newspaper.secret|FileClass~Newspaper.secret]] 
 

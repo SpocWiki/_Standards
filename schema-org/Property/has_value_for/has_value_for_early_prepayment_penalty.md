@@ -45,17 +45,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_value_for_early_prepayment_penalty](/_Standards/schema-org/Property/has_value_for/has_value_for_early_prepayment_penalty.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_value_for/has_value_for_early_prepayment_penalty|has_value_for_early_prepayment_penalty]] 
 
-### #is_/same_as :: [has_value_for_early_prepayment_penalty.public](/_public/schema-org/Property/has_value_for/has_value_for_early_prepayment_penalty.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/has_value_for/has_value_for_early_prepayment_penalty.public|has_value_for_early_prepayment_penalty.public]] 
 
-### #is_/same_as :: [has_value_for_early_prepayment_penalty.internal](/_internal/schema-org/Property/has_value_for/has_value_for_early_prepayment_penalty.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_value_for/has_value_for_early_prepayment_penalty.internal|has_value_for_early_prepayment_penalty.internal]] 
 
-### #is_/same_as :: [has_value_for_early_prepayment_penalty.protect](/_protect/schema-org/Property/has_value_for/has_value_for_early_prepayment_penalty.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_value_for/has_value_for_early_prepayment_penalty.protect|has_value_for_early_prepayment_penalty.protect]] 
 
-### #is_/same_as :: [has_value_for_early_prepayment_penalty.private](/_private/schema-org/Property/has_value_for/has_value_for_early_prepayment_penalty.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/has_value_for/has_value_for_early_prepayment_penalty.private|has_value_for_early_prepayment_penalty.private]] 
 
-### #is_/same_as :: [has_value_for_early_prepayment_penalty.personal](/_personal/schema-org/Property/has_value_for/has_value_for_early_prepayment_penalty.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_value_for/has_value_for_early_prepayment_penalty.personal|has_value_for_early_prepayment_penalty.personal]] 
 
-### #is_/same_as :: [has_value_for_early_prepayment_penalty.secret](/_secret/schema-org/Property/has_value_for/has_value_for_early_prepayment_penalty.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/has_value_for/has_value_for_early_prepayment_penalty.secret|has_value_for_early_prepayment_penalty.secret]] 
 

@@ -53,17 +53,17 @@ UNII: RCU76P419D
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Leek](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Asparagales/Amaryllidaceae/Allium/Leek.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Asparagales/Amaryllidaceae/Allium/Leek|Leek]] 
 
-### #is_/same_as :: [Leek.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Asparagales/Amaryllidaceae/Allium/Leek.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Asparagales/Amaryllidaceae/Allium/Leek.public|Leek.public]] 
 
-### #is_/same_as :: [Leek.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Asparagales/Amaryllidaceae/Allium/Leek.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Asparagales/Amaryllidaceae/Allium/Leek.internal|Leek.internal]] 
 
-### #is_/same_as :: [Leek.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Asparagales/Amaryllidaceae/Allium/Leek.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Asparagales/Amaryllidaceae/Allium/Leek.protect|Leek.protect]] 
 
-### #is_/same_as :: [Leek.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Asparagales/Amaryllidaceae/Allium/Leek.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Asparagales/Amaryllidaceae/Allium/Leek.private|Leek.private]] 
 
-### #is_/same_as :: [Leek.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Asparagales/Amaryllidaceae/Allium/Leek.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Asparagales/Amaryllidaceae/Allium/Leek.personal|Leek.personal]] 
 
-### #is_/same_as :: [Leek.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Asparagales/Amaryllidaceae/Allium/Leek.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Asparagales/Amaryllidaceae/Allium/Leek.secret|Leek.secret]] 
 

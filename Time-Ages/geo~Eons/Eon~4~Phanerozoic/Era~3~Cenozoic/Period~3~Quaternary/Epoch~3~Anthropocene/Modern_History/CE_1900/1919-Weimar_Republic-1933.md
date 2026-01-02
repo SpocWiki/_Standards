@@ -137,17 +137,17 @@ inception: 1918-11-09T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [1919-Weimar_Republic-1933](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1919-Weimar_Republic-1933.md) 
+### #is_/same_as :: [[/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1919-Weimar_Republic-1933|1919-Weimar_Republic-1933]] 
 
-### #is_/same_as :: [1919-Weimar_Republic-1933.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1919-Weimar_Republic-1933.public.md) 
+### #is_/same_as :: [[/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1919-Weimar_Republic-1933.public|1919-Weimar_Republic-1933.public]] 
 
-### #is_/same_as :: [1919-Weimar_Republic-1933.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1919-Weimar_Republic-1933.internal.md) 
+### #is_/same_as :: [[/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1919-Weimar_Republic-1933.internal|1919-Weimar_Republic-1933.internal]] 
 
-### #is_/same_as :: [1919-Weimar_Republic-1933.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1919-Weimar_Republic-1933.protect.md) 
+### #is_/same_as :: [[/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1919-Weimar_Republic-1933.protect|1919-Weimar_Republic-1933.protect]] 
 
-### #is_/same_as :: [1919-Weimar_Republic-1933.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1919-Weimar_Republic-1933.private.md) 
+### #is_/same_as :: [[/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1919-Weimar_Republic-1933.private|1919-Weimar_Republic-1933.private]] 
 
-### #is_/same_as :: [1919-Weimar_Republic-1933.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1919-Weimar_Republic-1933.personal.md) 
+### #is_/same_as :: [[/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1919-Weimar_Republic-1933.personal|1919-Weimar_Republic-1933.personal]] 
 
-### #is_/same_as :: [1919-Weimar_Republic-1933.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1919-Weimar_Republic-1933.secret.md)
+### #is_/same_as :: [[/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1919-Weimar_Republic-1933.secret|1919-Weimar_Republic-1933.secret]] 
 

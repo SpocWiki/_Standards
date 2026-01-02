@@ -37,17 +37,17 @@ The act of editing a recipient by removing one of its objects.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~DeleteAction](/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~UpdateAction/FileClass~DeleteAction.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~UpdateAction/FileClass~DeleteAction|FileClass~DeleteAction]] 
 
-### #is_/same_as :: [FileClass~DeleteAction.public](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~UpdateAction/FileClass~DeleteAction.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~UpdateAction/FileClass~DeleteAction.public|FileClass~DeleteAction.public]] 
 
-### #is_/same_as :: [FileClass~DeleteAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~UpdateAction/FileClass~DeleteAction.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~UpdateAction/FileClass~DeleteAction.internal|FileClass~DeleteAction.internal]] 
 
-### #is_/same_as :: [FileClass~DeleteAction.protect](/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~UpdateAction/FileClass~DeleteAction.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~UpdateAction/FileClass~DeleteAction.protect|FileClass~DeleteAction.protect]] 
 
-### #is_/same_as :: [FileClass~DeleteAction.private](/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~UpdateAction/FileClass~DeleteAction.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~UpdateAction/FileClass~DeleteAction.private|FileClass~DeleteAction.private]] 
 
-### #is_/same_as :: [FileClass~DeleteAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~UpdateAction/FileClass~DeleteAction.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~UpdateAction/FileClass~DeleteAction.personal|FileClass~DeleteAction.personal]] 
 
-### #is_/same_as :: [FileClass~DeleteAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~UpdateAction/FileClass~DeleteAction.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~UpdateAction/FileClass~DeleteAction.secret|FileClass~DeleteAction.secret]] 
 

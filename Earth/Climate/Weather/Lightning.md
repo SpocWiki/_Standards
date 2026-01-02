@@ -76,17 +76,17 @@ Krugosvet_article_archived_: nauka_i_tehnika/fizika/MOLNIYA.html
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lightning](/_Standards/Earth/Climate/Weather/Lightning.md) 
+### #is_/same_as :: [[/_Standards/Earth/Climate/Weather/Lightning|Lightning]] 
 
-### #is_/same_as :: [Lightning.public](/_public/Earth/Climate/Weather/Lightning.public.md) 
+### #is_/same_as :: [[/_public/Earth/Climate/Weather/Lightning.public|Lightning.public]] 
 
-### #is_/same_as :: [Lightning.internal](/_internal/Earth/Climate/Weather/Lightning.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Climate/Weather/Lightning.internal|Lightning.internal]] 
 
-### #is_/same_as :: [Lightning.protect](/_protect/Earth/Climate/Weather/Lightning.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Climate/Weather/Lightning.protect|Lightning.protect]] 
 
-### #is_/same_as :: [Lightning.private](/_private/Earth/Climate/Weather/Lightning.private.md) 
+### #is_/same_as :: [[/_private/Earth/Climate/Weather/Lightning.private|Lightning.private]] 
 
-### #is_/same_as :: [Lightning.personal](/_personal/Earth/Climate/Weather/Lightning.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Climate/Weather/Lightning.personal|Lightning.personal]] 
 
-### #is_/same_as :: [Lightning.secret](/_secret/Earth/Climate/Weather/Lightning.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Climate/Weather/Lightning.secret|Lightning.secret]] 
 

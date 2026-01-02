@@ -44,17 +44,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_url_for_reply_to](/_Standards/schema-org/Property/has_url_for/has_url_for_reply_to.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_url_for/has_url_for_reply_to|has_url_for_reply_to]] 
 
-### #is_/same_as :: [has_url_for_reply_to.public](/_public/schema-org/Property/has_url_for/has_url_for_reply_to.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/has_url_for/has_url_for_reply_to.public|has_url_for_reply_to.public]] 
 
-### #is_/same_as :: [has_url_for_reply_to.internal](/_internal/schema-org/Property/has_url_for/has_url_for_reply_to.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_url_for/has_url_for_reply_to.internal|has_url_for_reply_to.internal]] 
 
-### #is_/same_as :: [has_url_for_reply_to.protect](/_protect/schema-org/Property/has_url_for/has_url_for_reply_to.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_url_for/has_url_for_reply_to.protect|has_url_for_reply_to.protect]] 
 
-### #is_/same_as :: [has_url_for_reply_to.private](/_private/schema-org/Property/has_url_for/has_url_for_reply_to.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/has_url_for/has_url_for_reply_to.private|has_url_for_reply_to.private]] 
 
-### #is_/same_as :: [has_url_for_reply_to.personal](/_personal/schema-org/Property/has_url_for/has_url_for_reply_to.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_url_for/has_url_for_reply_to.personal|has_url_for_reply_to.personal]] 
 
-### #is_/same_as :: [has_url_for_reply_to.secret](/_secret/schema-org/Property/has_url_for/has_url_for_reply_to.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/has_url_for/has_url_for_reply_to.secret|has_url_for_reply_to.secret]] 
 

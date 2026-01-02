@@ -56,17 +56,17 @@ Wolfram_Language_unit_code: '"Passengers"'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Passenger](/_Standards/Technology/Transport/Passenger.md) 
+### #is_/same_as :: [[/_Standards/Technology/Transport/Passenger|Passenger]] 
 
-### #is_/same_as :: [Passenger.public](/_public/Technology/Transport/Passenger.public.md) 
+### #is_/same_as :: [[/_public/Technology/Transport/Passenger.public|Passenger.public]] 
 
-### #is_/same_as :: [Passenger.internal](/_internal/Technology/Transport/Passenger.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Transport/Passenger.internal|Passenger.internal]] 
 
-### #is_/same_as :: [Passenger.protect](/_protect/Technology/Transport/Passenger.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Transport/Passenger.protect|Passenger.protect]] 
 
-### #is_/same_as :: [Passenger.private](/_private/Technology/Transport/Passenger.private.md) 
+### #is_/same_as :: [[/_private/Technology/Transport/Passenger.private|Passenger.private]] 
 
-### #is_/same_as :: [Passenger.personal](/_personal/Technology/Transport/Passenger.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Transport/Passenger.personal|Passenger.personal]] 
 
-### #is_/same_as :: [Passenger.secret](/_secret/Technology/Transport/Passenger.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Transport/Passenger.secret|Passenger.secret]] 
 

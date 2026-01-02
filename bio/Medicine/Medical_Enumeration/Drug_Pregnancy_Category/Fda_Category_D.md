@@ -42,17 +42,17 @@ A designation by the US FDA signifying that there is positive evidence of human 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Fda_Category_D](/_Standards/bio/Medicine/Medical_Enumeration/Drug_Pregnancy_Category/Fda_Category_D.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Enumeration/Drug_Pregnancy_Category/Fda_Category_D|Fda_Category_D]] 
 
-### #is_/same_as :: [Fda_Category_D.public](/_public/bio/Medicine/Medical_Enumeration/Drug_Pregnancy_Category/Fda_Category_D.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Enumeration/Drug_Pregnancy_Category/Fda_Category_D.public|Fda_Category_D.public]] 
 
-### #is_/same_as :: [Fda_Category_D.internal](/_internal/bio/Medicine/Medical_Enumeration/Drug_Pregnancy_Category/Fda_Category_D.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Enumeration/Drug_Pregnancy_Category/Fda_Category_D.internal|Fda_Category_D.internal]] 
 
-### #is_/same_as :: [Fda_Category_D.protect](/_protect/bio/Medicine/Medical_Enumeration/Drug_Pregnancy_Category/Fda_Category_D.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Enumeration/Drug_Pregnancy_Category/Fda_Category_D.protect|Fda_Category_D.protect]] 
 
-### #is_/same_as :: [Fda_Category_D.private](/_private/bio/Medicine/Medical_Enumeration/Drug_Pregnancy_Category/Fda_Category_D.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Enumeration/Drug_Pregnancy_Category/Fda_Category_D.private|Fda_Category_D.private]] 
 
-### #is_/same_as :: [Fda_Category_D.personal](/_personal/bio/Medicine/Medical_Enumeration/Drug_Pregnancy_Category/Fda_Category_D.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Enumeration/Drug_Pregnancy_Category/Fda_Category_D.personal|Fda_Category_D.personal]] 
 
-### #is_/same_as :: [Fda_Category_D.secret](/_secret/bio/Medicine/Medical_Enumeration/Drug_Pregnancy_Category/Fda_Category_D.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Enumeration/Drug_Pregnancy_Category/Fda_Category_D.secret|Fda_Category_D.secret]] 
 

@@ -69,17 +69,17 @@ date_of_death: 1929-11-17T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hollerith,Herman](/_Standards/Technology/IT/Computer_Hardware/Hollerith,Herman.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Computer_Hardware/Hollerith,Herman|Hollerith,Herman]] 
 
-### #is_/same_as :: [Hollerith,Herman.public](/_public/Technology/IT/Computer_Hardware/Hollerith,Herman.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Computer_Hardware/Hollerith,Herman.public|Hollerith,Herman.public]] 
 
-### #is_/same_as :: [Hollerith,Herman.internal](/_internal/Technology/IT/Computer_Hardware/Hollerith,Herman.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Computer_Hardware/Hollerith,Herman.internal|Hollerith,Herman.internal]] 
 
-### #is_/same_as :: [Hollerith,Herman.protect](/_protect/Technology/IT/Computer_Hardware/Hollerith,Herman.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Computer_Hardware/Hollerith,Herman.protect|Hollerith,Herman.protect]] 
 
-### #is_/same_as :: [Hollerith,Herman.private](/_private/Technology/IT/Computer_Hardware/Hollerith,Herman.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Computer_Hardware/Hollerith,Herman.private|Hollerith,Herman.private]] 
 
-### #is_/same_as :: [Hollerith,Herman.personal](/_personal/Technology/IT/Computer_Hardware/Hollerith,Herman.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Computer_Hardware/Hollerith,Herman.personal|Hollerith,Herman.personal]] 
 
-### #is_/same_as :: [Hollerith,Herman.secret](/_secret/Technology/IT/Computer_Hardware/Hollerith,Herman.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Computer_Hardware/Hollerith,Herman.secret|Hollerith,Herman.secret]] 
 

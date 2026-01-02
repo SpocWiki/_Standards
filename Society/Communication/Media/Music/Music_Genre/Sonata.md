@@ -46,17 +46,17 @@ Commons_category: Sonatas
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sonata](/_Standards/Society/Communication/Media/Music/Music_Genre/Sonata.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Music_Genre/Sonata|Sonata]] 
 
-### #is_/same_as :: [Sonata.public](/_public/Society/Communication/Media/Music/Music_Genre/Sonata.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Music_Genre/Sonata.public|Sonata.public]] 
 
-### #is_/same_as :: [Sonata.internal](/_internal/Society/Communication/Media/Music/Music_Genre/Sonata.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Music_Genre/Sonata.internal|Sonata.internal]] 
 
-### #is_/same_as :: [Sonata.protect](/_protect/Society/Communication/Media/Music/Music_Genre/Sonata.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Music_Genre/Sonata.protect|Sonata.protect]] 
 
-### #is_/same_as :: [Sonata.private](/_private/Society/Communication/Media/Music/Music_Genre/Sonata.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Music_Genre/Sonata.private|Sonata.private]] 
 
-### #is_/same_as :: [Sonata.personal](/_personal/Society/Communication/Media/Music/Music_Genre/Sonata.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Music_Genre/Sonata.personal|Sonata.personal]] 
 
-### #is_/same_as :: [Sonata.secret](/_secret/Society/Communication/Media/Music/Music_Genre/Sonata.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Music_Genre/Sonata.secret|Sonata.secret]] 
 

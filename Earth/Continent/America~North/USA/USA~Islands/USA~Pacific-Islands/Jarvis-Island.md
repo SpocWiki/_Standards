@@ -45,17 +45,17 @@ markerFile: [[Jarvis-Island]]
 
 ## Confidential Links & Embeds: 
 
-### [Jarvis-Island](/_Standards/Earth/Continent/America~North/USA/USA~Islands/Counties/Jarvis-Island.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~North/USA/USA~Islands/USA~Pacific-Islands/Jarvis-Island|Jarvis-Island]] 
 
-### [Jarvis-Island.public](/_public/Earth/Continent/America~North/USA/USA~Islands/Counties/Jarvis-Island.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~North/USA/USA~Islands/USA~Pacific-Islands/Jarvis-Island.public|Jarvis-Island.public]] 
 
-### [Jarvis-Island.internal](/_internal/Earth/Continent/America~North/USA/USA~Islands/Counties/Jarvis-Island.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~North/USA/USA~Islands/USA~Pacific-Islands/Jarvis-Island.internal|Jarvis-Island.internal]] 
 
-### [Jarvis-Island.protect](/_protect/Earth/Continent/America~North/USA/USA~Islands/Counties/Jarvis-Island.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~North/USA/USA~Islands/USA~Pacific-Islands/Jarvis-Island.protect|Jarvis-Island.protect]] 
 
-### [Jarvis-Island.private](/_private/Earth/Continent/America~North/USA/USA~Islands/Counties/Jarvis-Island.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~North/USA/USA~Islands/USA~Pacific-Islands/Jarvis-Island.private|Jarvis-Island.private]] 
 
-### [Jarvis-Island.personal](/_personal/Earth/Continent/America~North/USA/USA~Islands/Counties/Jarvis-Island.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~North/USA/USA~Islands/USA~Pacific-Islands/Jarvis-Island.personal|Jarvis-Island.personal]] 
 
-### [Jarvis-Island.secret](/_secret/Earth/Continent/America~North/USA/USA~Islands/Counties/Jarvis-Island.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~North/USA/USA~Islands/USA~Pacific-Islands/Jarvis-Island.secret|Jarvis-Island.secret]] 
 

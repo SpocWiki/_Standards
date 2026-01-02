@@ -37,17 +37,17 @@ A graveyard.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~Cemetery](/_Standards/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Cemetery.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Cemetery|FileClass~Cemetery]] 
 
-### #is_/same_as :: [FileClass~Cemetery.public](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Cemetery.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Cemetery.public|FileClass~Cemetery.public]] 
 
-### #is_/same_as :: [FileClass~Cemetery.internal](/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Cemetery.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Cemetery.internal|FileClass~Cemetery.internal]] 
 
-### #is_/same_as :: [FileClass~Cemetery.protect](/_protect/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Cemetery.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Cemetery.protect|FileClass~Cemetery.protect]] 
 
-### #is_/same_as :: [FileClass~Cemetery.private](/_private/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Cemetery.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Cemetery.private|FileClass~Cemetery.private]] 
 
-### #is_/same_as :: [FileClass~Cemetery.personal](/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Cemetery.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Cemetery.personal|FileClass~Cemetery.personal]] 
 
-### #is_/same_as :: [FileClass~Cemetery.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Cemetery.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Cemetery.secret|FileClass~Cemetery.secret]] 
 

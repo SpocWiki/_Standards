@@ -58,17 +58,17 @@ Commons_category: Electrical fuses
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Fuse](/_Standards/Science/Physics/Electricity/Electrical_Network/Fuse.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Electricity/Electrical_Network/Fuse|Fuse]] 
 
-### #is_/same_as :: [Fuse.public](/_public/Science/Physics/Electricity/Electrical_Network/Fuse.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Electricity/Electrical_Network/Fuse.public|Fuse.public]] 
 
-### #is_/same_as :: [Fuse.internal](/_internal/Science/Physics/Electricity/Electrical_Network/Fuse.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Electricity/Electrical_Network/Fuse.internal|Fuse.internal]] 
 
-### #is_/same_as :: [Fuse.protect](/_protect/Science/Physics/Electricity/Electrical_Network/Fuse.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Electricity/Electrical_Network/Fuse.protect|Fuse.protect]] 
 
-### #is_/same_as :: [Fuse.private](/_private/Science/Physics/Electricity/Electrical_Network/Fuse.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Electricity/Electrical_Network/Fuse.private|Fuse.private]] 
 
-### #is_/same_as :: [Fuse.personal](/_personal/Science/Physics/Electricity/Electrical_Network/Fuse.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Electricity/Electrical_Network/Fuse.personal|Fuse.personal]] 
 
-### #is_/same_as :: [Fuse.secret](/_secret/Science/Physics/Electricity/Electrical_Network/Fuse.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Electricity/Electrical_Network/Fuse.secret|Fuse.secret]] 
 

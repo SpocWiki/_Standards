@@ -43,17 +43,17 @@ See also the <a href="https://schema.org/docs/hotels.html">dedicated document on
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Resort](/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Lodging_Business/Resort.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Lodging_Business/Resort|Resort]] 
 
-### #is_/same_as :: [Resort.public](/_public/Society/Agent/Community/Organization/Business/Local_Business/Lodging_Business/Resort.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Business/Local_Business/Lodging_Business/Resort.public|Resort.public]] 
 
-### #is_/same_as :: [Resort.internal](/_internal/Society/Agent/Community/Organization/Business/Local_Business/Lodging_Business/Resort.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Business/Local_Business/Lodging_Business/Resort.internal|Resort.internal]] 
 
-### #is_/same_as :: [Resort.protect](/_protect/Society/Agent/Community/Organization/Business/Local_Business/Lodging_Business/Resort.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Business/Local_Business/Lodging_Business/Resort.protect|Resort.protect]] 
 
-### #is_/same_as :: [Resort.private](/_private/Society/Agent/Community/Organization/Business/Local_Business/Lodging_Business/Resort.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Business/Local_Business/Lodging_Business/Resort.private|Resort.private]] 
 
-### #is_/same_as :: [Resort.personal](/_personal/Society/Agent/Community/Organization/Business/Local_Business/Lodging_Business/Resort.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Business/Local_Business/Lodging_Business/Resort.personal|Resort.personal]] 
 
-### #is_/same_as :: [Resort.secret](/_secret/Society/Agent/Community/Organization/Business/Local_Business/Lodging_Business/Resort.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Business/Local_Business/Lodging_Business/Resort.secret|Resort.secret]] 
 

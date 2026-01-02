@@ -41,17 +41,17 @@ markerFolder: ./Spratly_Islands/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Spratly_Islands](/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Spratly_Islands.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Spratly_Islands|Spratly_Islands]] 
 
-### #is_/same_as :: [Spratly_Islands.public](/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Spratly_Islands.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Spratly_Islands.public|Spratly_Islands.public]] 
 
-### #is_/same_as :: [Spratly_Islands.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Spratly_Islands.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Spratly_Islands.internal|Spratly_Islands.internal]] 
 
-### #is_/same_as :: [Spratly_Islands.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Spratly_Islands.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Spratly_Islands.protect|Spratly_Islands.protect]] 
 
-### #is_/same_as :: [Spratly_Islands.private](/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Spratly_Islands.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Spratly_Islands.private|Spratly_Islands.private]] 
 
-### #is_/same_as :: [Spratly_Islands.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Spratly_Islands.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Spratly_Islands.personal|Spratly_Islands.personal]] 
 
-### #is_/same_as :: [Spratly_Islands.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Spratly_Islands.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Spratly_Islands.secret|Spratly_Islands.secret]] 
 

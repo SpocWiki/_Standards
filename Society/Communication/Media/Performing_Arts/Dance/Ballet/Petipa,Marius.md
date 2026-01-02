@@ -113,17 +113,17 @@ signature: http://commons.wikimedia.org/wiki/Special:FilePath/Marius%20Petipa%20
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Petipa,Marius](/_Standards/Society/Communication/Media/Performing_Arts/Dance/Ballet/Petipa,Marius.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Performing_Arts/Dance/Ballet/Petipa,Marius|Petipa,Marius]] 
 
-### #is_/same_as :: [Petipa,Marius.public](/_public/Society/Communication/Media/Performing_Arts/Dance/Ballet/Petipa,Marius.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Performing_Arts/Dance/Ballet/Petipa,Marius.public|Petipa,Marius.public]] 
 
-### #is_/same_as :: [Petipa,Marius.internal](/_internal/Society/Communication/Media/Performing_Arts/Dance/Ballet/Petipa,Marius.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Performing_Arts/Dance/Ballet/Petipa,Marius.internal|Petipa,Marius.internal]] 
 
-### #is_/same_as :: [Petipa,Marius.protect](/_protect/Society/Communication/Media/Performing_Arts/Dance/Ballet/Petipa,Marius.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Performing_Arts/Dance/Ballet/Petipa,Marius.protect|Petipa,Marius.protect]] 
 
-### #is_/same_as :: [Petipa,Marius.private](/_private/Society/Communication/Media/Performing_Arts/Dance/Ballet/Petipa,Marius.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Performing_Arts/Dance/Ballet/Petipa,Marius.private|Petipa,Marius.private]] 
 
-### #is_/same_as :: [Petipa,Marius.personal](/_personal/Society/Communication/Media/Performing_Arts/Dance/Ballet/Petipa,Marius.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Performing_Arts/Dance/Ballet/Petipa,Marius.personal|Petipa,Marius.personal]] 
 
-### #is_/same_as :: [Petipa,Marius.secret](/_secret/Society/Communication/Media/Performing_Arts/Dance/Ballet/Petipa,Marius.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Performing_Arts/Dance/Ballet/Petipa,Marius.secret|Petipa,Marius.secret]] 
 

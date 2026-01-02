@@ -137,17 +137,17 @@ date_of_birth: 1910-05-12T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hodgkin,Dorothy](/_Standards/Chemistry/Chemist/Hodgkin,Dorothy.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Chemist/Hodgkin,Dorothy|Hodgkin,Dorothy]] 
 
-### #is_/same_as :: [Hodgkin,Dorothy.public](/_public/Chemistry/Chemist/Hodgkin,Dorothy.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Chemist/Hodgkin,Dorothy.public|Hodgkin,Dorothy.public]] 
 
-### #is_/same_as :: [Hodgkin,Dorothy.internal](/_internal/Chemistry/Chemist/Hodgkin,Dorothy.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Chemist/Hodgkin,Dorothy.internal|Hodgkin,Dorothy.internal]] 
 
-### #is_/same_as :: [Hodgkin,Dorothy.protect](/_protect/Chemistry/Chemist/Hodgkin,Dorothy.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Chemist/Hodgkin,Dorothy.protect|Hodgkin,Dorothy.protect]] 
 
-### #is_/same_as :: [Hodgkin,Dorothy.private](/_private/Chemistry/Chemist/Hodgkin,Dorothy.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Chemist/Hodgkin,Dorothy.private|Hodgkin,Dorothy.private]] 
 
-### #is_/same_as :: [Hodgkin,Dorothy.personal](/_personal/Chemistry/Chemist/Hodgkin,Dorothy.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Chemist/Hodgkin,Dorothy.personal|Hodgkin,Dorothy.personal]] 
 
-### #is_/same_as :: [Hodgkin,Dorothy.secret](/_secret/Chemistry/Chemist/Hodgkin,Dorothy.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Chemist/Hodgkin,Dorothy.secret|Hodgkin,Dorothy.secret]] 
 

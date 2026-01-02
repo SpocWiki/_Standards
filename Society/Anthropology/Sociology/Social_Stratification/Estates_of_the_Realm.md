@@ -64,17 +64,17 @@ Commons_category: Estates of the realm
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Estates_of_the_Realm](/_Standards/Society/Anthropology/Sociology/Social_Stratification/Estates_of_the_Realm.md) 
+### #is_/same_as :: [[/_Standards/Society/Anthropology/Sociology/Social_Stratification/Estates_of_the_Realm|Estates_of_the_Realm]] 
 
-### #is_/same_as :: [Estates_of_the_Realm.public](/_public/Society/Anthropology/Sociology/Social_Stratification/Estates_of_the_Realm.public.md) 
+### #is_/same_as :: [[/_public/Society/Anthropology/Sociology/Social_Stratification/Estates_of_the_Realm.public|Estates_of_the_Realm.public]] 
 
-### #is_/same_as :: [Estates_of_the_Realm.internal](/_internal/Society/Anthropology/Sociology/Social_Stratification/Estates_of_the_Realm.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Anthropology/Sociology/Social_Stratification/Estates_of_the_Realm.internal|Estates_of_the_Realm.internal]] 
 
-### #is_/same_as :: [Estates_of_the_Realm.protect](/_protect/Society/Anthropology/Sociology/Social_Stratification/Estates_of_the_Realm.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Anthropology/Sociology/Social_Stratification/Estates_of_the_Realm.protect|Estates_of_the_Realm.protect]] 
 
-### #is_/same_as :: [Estates_of_the_Realm.private](/_private/Society/Anthropology/Sociology/Social_Stratification/Estates_of_the_Realm.private.md) 
+### #is_/same_as :: [[/_private/Society/Anthropology/Sociology/Social_Stratification/Estates_of_the_Realm.private|Estates_of_the_Realm.private]] 
 
-### #is_/same_as :: [Estates_of_the_Realm.personal](/_personal/Society/Anthropology/Sociology/Social_Stratification/Estates_of_the_Realm.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Anthropology/Sociology/Social_Stratification/Estates_of_the_Realm.personal|Estates_of_the_Realm.personal]] 
 
-### #is_/same_as :: [Estates_of_the_Realm.secret](/_secret/Society/Anthropology/Sociology/Social_Stratification/Estates_of_the_Realm.secret.md)
+### #is_/same_as :: [[/_secret/Society/Anthropology/Sociology/Social_Stratification/Estates_of_the_Realm.secret|Estates_of_the_Realm.secret]] 
 

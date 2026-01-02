@@ -190,17 +190,17 @@ inception: 1800-01-01T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Pride_and_Prejudice](/_Standards/Society/Communication/Media/Writing/Book/Writer/English_Writer/Austen,Jane/Pride_and_Prejudice.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Writer/English_Writer/Austen,Jane/Pride_and_Prejudice|Pride_and_Prejudice]] 
 
-### #is_/same_as :: [Pride_and_Prejudice.public](/_public/Society/Communication/Media/Writing/Book/Writer/English_Writer/Austen,Jane/Pride_and_Prejudice.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Writer/English_Writer/Austen,Jane/Pride_and_Prejudice.public|Pride_and_Prejudice.public]] 
 
-### #is_/same_as :: [Pride_and_Prejudice.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/English_Writer/Austen,Jane/Pride_and_Prejudice.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Writer/English_Writer/Austen,Jane/Pride_and_Prejudice.internal|Pride_and_Prejudice.internal]] 
 
-### #is_/same_as :: [Pride_and_Prejudice.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/English_Writer/Austen,Jane/Pride_and_Prejudice.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Writer/English_Writer/Austen,Jane/Pride_and_Prejudice.protect|Pride_and_Prejudice.protect]] 
 
-### #is_/same_as :: [Pride_and_Prejudice.private](/_private/Society/Communication/Media/Writing/Book/Writer/English_Writer/Austen,Jane/Pride_and_Prejudice.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Writer/English_Writer/Austen,Jane/Pride_and_Prejudice.private|Pride_and_Prejudice.private]] 
 
-### #is_/same_as :: [Pride_and_Prejudice.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/English_Writer/Austen,Jane/Pride_and_Prejudice.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Writer/English_Writer/Austen,Jane/Pride_and_Prejudice.personal|Pride_and_Prejudice.personal]] 
 
-### #is_/same_as :: [Pride_and_Prejudice.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/English_Writer/Austen,Jane/Pride_and_Prejudice.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Writer/English_Writer/Austen,Jane/Pride_and_Prejudice.secret|Pride_and_Prejudice.secret]] 
 

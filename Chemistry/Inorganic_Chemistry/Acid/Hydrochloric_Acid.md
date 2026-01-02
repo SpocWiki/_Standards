@@ -77,17 +77,17 @@ Commons_category: Hydrochloric acid
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hydrochloric_Acid](/_Standards/Chemistry/Inorganic_Chemistry/Acid/Hydrochloric_Acid.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Inorganic_Chemistry/Acid/Hydrochloric_Acid|Hydrochloric_Acid]] 
 
-### #is_/same_as :: [Hydrochloric_Acid.public](/_public/Chemistry/Inorganic_Chemistry/Acid/Hydrochloric_Acid.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Inorganic_Chemistry/Acid/Hydrochloric_Acid.public|Hydrochloric_Acid.public]] 
 
-### #is_/same_as :: [Hydrochloric_Acid.internal](/_internal/Chemistry/Inorganic_Chemistry/Acid/Hydrochloric_Acid.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Inorganic_Chemistry/Acid/Hydrochloric_Acid.internal|Hydrochloric_Acid.internal]] 
 
-### #is_/same_as :: [Hydrochloric_Acid.protect](/_protect/Chemistry/Inorganic_Chemistry/Acid/Hydrochloric_Acid.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Inorganic_Chemistry/Acid/Hydrochloric_Acid.protect|Hydrochloric_Acid.protect]] 
 
-### #is_/same_as :: [Hydrochloric_Acid.private](/_private/Chemistry/Inorganic_Chemistry/Acid/Hydrochloric_Acid.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Inorganic_Chemistry/Acid/Hydrochloric_Acid.private|Hydrochloric_Acid.private]] 
 
-### #is_/same_as :: [Hydrochloric_Acid.personal](/_personal/Chemistry/Inorganic_Chemistry/Acid/Hydrochloric_Acid.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Inorganic_Chemistry/Acid/Hydrochloric_Acid.personal|Hydrochloric_Acid.personal]] 
 
-### #is_/same_as :: [Hydrochloric_Acid.secret](/_secret/Chemistry/Inorganic_Chemistry/Acid/Hydrochloric_Acid.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Inorganic_Chemistry/Acid/Hydrochloric_Acid.secret|Hydrochloric_Acid.secret]] 
 

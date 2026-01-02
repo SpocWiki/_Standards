@@ -26,17 +26,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Nebula](/_Standards/Astronomy/Interstellar_Medium/Nebula.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Interstellar_Medium/Nebula|Nebula]] 
 
-### #is_/same_as :: [Nebula.public](/_public/Astronomy/Interstellar_Medium/Nebula.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Interstellar_Medium/Nebula.public|Nebula.public]] 
 
-### #is_/same_as :: [Nebula.internal](/_internal/Astronomy/Interstellar_Medium/Nebula.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Interstellar_Medium/Nebula.internal|Nebula.internal]] 
 
-### #is_/same_as :: [Nebula.protect](/_protect/Astronomy/Interstellar_Medium/Nebula.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Interstellar_Medium/Nebula.protect|Nebula.protect]] 
 
-### #is_/same_as :: [Nebula.private](/_private/Astronomy/Interstellar_Medium/Nebula.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Interstellar_Medium/Nebula.private|Nebula.private]] 
 
-### #is_/same_as :: [Nebula.personal](/_personal/Astronomy/Interstellar_Medium/Nebula.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Interstellar_Medium/Nebula.personal|Nebula.personal]] 
 
-### #is_/same_as :: [Nebula.secret](/_secret/Astronomy/Interstellar_Medium/Nebula.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Interstellar_Medium/Nebula.secret|Nebula.secret]] 
 

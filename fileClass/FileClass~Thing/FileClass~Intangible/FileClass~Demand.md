@@ -393,17 +393,17 @@ Warranty:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thin
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~Demand](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Demand.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Demand|FileClass~Demand]] 
 
-### #is_/same_as :: [FileClass~Demand.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Demand.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Demand.public|FileClass~Demand.public]] 
 
-### #is_/same_as :: [FileClass~Demand.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Demand.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Demand.internal|FileClass~Demand.internal]] 
 
-### #is_/same_as :: [FileClass~Demand.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Demand.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Demand.protect|FileClass~Demand.protect]] 
 
-### #is_/same_as :: [FileClass~Demand.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Demand.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Demand.private|FileClass~Demand.private]] 
 
-### #is_/same_as :: [FileClass~Demand.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Demand.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Demand.personal|FileClass~Demand.personal]] 
 
-### #is_/same_as :: [FileClass~Demand.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Demand.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Demand.secret|FileClass~Demand.secret]] 
 

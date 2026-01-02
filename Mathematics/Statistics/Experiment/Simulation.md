@@ -74,17 +74,17 @@ Commons_category: Simulation
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Simulation](/_Standards/Mathematics/Statistics/Experiment/Simulation.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Statistics/Experiment/Simulation|Simulation]] 
 
-### #is_/same_as :: [Simulation.public](/_public/Mathematics/Statistics/Experiment/Simulation.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Statistics/Experiment/Simulation.public|Simulation.public]] 
 
-### #is_/same_as :: [Simulation.internal](/_internal/Mathematics/Statistics/Experiment/Simulation.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Statistics/Experiment/Simulation.internal|Simulation.internal]] 
 
-### #is_/same_as :: [Simulation.protect](/_protect/Mathematics/Statistics/Experiment/Simulation.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Statistics/Experiment/Simulation.protect|Simulation.protect]] 
 
-### #is_/same_as :: [Simulation.private](/_private/Mathematics/Statistics/Experiment/Simulation.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Statistics/Experiment/Simulation.private|Simulation.private]] 
 
-### #is_/same_as :: [Simulation.personal](/_personal/Mathematics/Statistics/Experiment/Simulation.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Statistics/Experiment/Simulation.personal|Simulation.personal]] 
 
-### #is_/same_as :: [Simulation.secret](/_secret/Mathematics/Statistics/Experiment/Simulation.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Statistics/Experiment/Simulation.secret|Simulation.secret]] 
 

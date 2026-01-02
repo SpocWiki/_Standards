@@ -66,17 +66,17 @@ U_S_National_Archives_Identifier: 10646133
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Accordion](/_Standards/Society/Communication/Media/Music/Musical_Instrument/Accordion.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Musical_Instrument/Accordion|Accordion]] 
 
-### #is_/same_as :: [Accordion.public](/_public/Society/Communication/Media/Music/Musical_Instrument/Accordion.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Musical_Instrument/Accordion.public|Accordion.public]] 
 
-### #is_/same_as :: [Accordion.internal](/_internal/Society/Communication/Media/Music/Musical_Instrument/Accordion.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Musical_Instrument/Accordion.internal|Accordion.internal]] 
 
-### #is_/same_as :: [Accordion.protect](/_protect/Society/Communication/Media/Music/Musical_Instrument/Accordion.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Musical_Instrument/Accordion.protect|Accordion.protect]] 
 
-### #is_/same_as :: [Accordion.private](/_private/Society/Communication/Media/Music/Musical_Instrument/Accordion.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Musical_Instrument/Accordion.private|Accordion.private]] 
 
-### #is_/same_as :: [Accordion.personal](/_personal/Society/Communication/Media/Music/Musical_Instrument/Accordion.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Musical_Instrument/Accordion.personal|Accordion.personal]] 
 
-### #is_/same_as :: [Accordion.secret](/_secret/Society/Communication/Media/Music/Musical_Instrument/Accordion.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Musical_Instrument/Accordion.secret|Accordion.secret]] 
 

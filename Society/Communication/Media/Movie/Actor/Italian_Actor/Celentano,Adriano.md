@@ -115,17 +115,17 @@ X_Twitter_username: clancelentano
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Celentano,Adriano](/_Standards/Society/Communication/Media/Movie/Actor/Italian_Actor/Celentano,Adriano.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Actor/Italian_Actor/Celentano,Adriano|Celentano,Adriano]] 
 
-### #is_/same_as :: [Celentano,Adriano.public](/_public/Society/Communication/Media/Movie/Actor/Italian_Actor/Celentano,Adriano.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Actor/Italian_Actor/Celentano,Adriano.public|Celentano,Adriano.public]] 
 
-### #is_/same_as :: [Celentano,Adriano.internal](/_internal/Society/Communication/Media/Movie/Actor/Italian_Actor/Celentano,Adriano.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Actor/Italian_Actor/Celentano,Adriano.internal|Celentano,Adriano.internal]] 
 
-### #is_/same_as :: [Celentano,Adriano.protect](/_protect/Society/Communication/Media/Movie/Actor/Italian_Actor/Celentano,Adriano.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Actor/Italian_Actor/Celentano,Adriano.protect|Celentano,Adriano.protect]] 
 
-### #is_/same_as :: [Celentano,Adriano.private](/_private/Society/Communication/Media/Movie/Actor/Italian_Actor/Celentano,Adriano.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Actor/Italian_Actor/Celentano,Adriano.private|Celentano,Adriano.private]] 
 
-### #is_/same_as :: [Celentano,Adriano.personal](/_personal/Society/Communication/Media/Movie/Actor/Italian_Actor/Celentano,Adriano.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Actor/Italian_Actor/Celentano,Adriano.personal|Celentano,Adriano.personal]] 
 
-### #is_/same_as :: [Celentano,Adriano.secret](/_secret/Society/Communication/Media/Movie/Actor/Italian_Actor/Celentano,Adriano.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Actor/Italian_Actor/Celentano,Adriano.secret|Celentano,Adriano.secret]] 
 

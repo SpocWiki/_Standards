@@ -91,17 +91,17 @@ date_of_official_opening: 2008-10-21T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Large_Hadron_Collider](/_Standards/Science/Physics/Quantum_Mechanics/Nuclear_Physics/Particle_Accelerator/Large_Hadron_Collider.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Quantum_Mechanics/Nuclear_Physics/Particle_Accelerator/Large_Hadron_Collider|Large_Hadron_Collider]] 
 
-### #is_/same_as :: [Large_Hadron_Collider.public](/_public/Science/Physics/Quantum_Mechanics/Nuclear_Physics/Particle_Accelerator/Large_Hadron_Collider.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Quantum_Mechanics/Nuclear_Physics/Particle_Accelerator/Large_Hadron_Collider.public|Large_Hadron_Collider.public]] 
 
-### #is_/same_as :: [Large_Hadron_Collider.internal](/_internal/Science/Physics/Quantum_Mechanics/Nuclear_Physics/Particle_Accelerator/Large_Hadron_Collider.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Quantum_Mechanics/Nuclear_Physics/Particle_Accelerator/Large_Hadron_Collider.internal|Large_Hadron_Collider.internal]] 
 
-### #is_/same_as :: [Large_Hadron_Collider.protect](/_protect/Science/Physics/Quantum_Mechanics/Nuclear_Physics/Particle_Accelerator/Large_Hadron_Collider.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Quantum_Mechanics/Nuclear_Physics/Particle_Accelerator/Large_Hadron_Collider.protect|Large_Hadron_Collider.protect]] 
 
-### #is_/same_as :: [Large_Hadron_Collider.private](/_private/Science/Physics/Quantum_Mechanics/Nuclear_Physics/Particle_Accelerator/Large_Hadron_Collider.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Quantum_Mechanics/Nuclear_Physics/Particle_Accelerator/Large_Hadron_Collider.private|Large_Hadron_Collider.private]] 
 
-### #is_/same_as :: [Large_Hadron_Collider.personal](/_personal/Science/Physics/Quantum_Mechanics/Nuclear_Physics/Particle_Accelerator/Large_Hadron_Collider.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Quantum_Mechanics/Nuclear_Physics/Particle_Accelerator/Large_Hadron_Collider.personal|Large_Hadron_Collider.personal]] 
 
-### #is_/same_as :: [Large_Hadron_Collider.secret](/_secret/Science/Physics/Quantum_Mechanics/Nuclear_Physics/Particle_Accelerator/Large_Hadron_Collider.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Quantum_Mechanics/Nuclear_Physics/Particle_Accelerator/Large_Hadron_Collider.secret|Large_Hadron_Collider.secret]] 
 

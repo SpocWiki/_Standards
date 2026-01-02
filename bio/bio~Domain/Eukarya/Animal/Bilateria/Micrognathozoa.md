@@ -63,17 +63,17 @@ title: Limnognathia maerski
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Micrognathozoa](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Micrognathozoa.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Micrognathozoa|Micrognathozoa]] 
 
-### #is_/same_as :: [Micrognathozoa.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Micrognathozoa.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Micrognathozoa.public|Micrognathozoa.public]] 
 
-### #is_/same_as :: [Micrognathozoa.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Micrognathozoa.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Micrognathozoa.internal|Micrognathozoa.internal]] 
 
-### #is_/same_as :: [Micrognathozoa.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Micrognathozoa.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Micrognathozoa.protect|Micrognathozoa.protect]] 
 
-### #is_/same_as :: [Micrognathozoa.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Micrognathozoa.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Micrognathozoa.private|Micrognathozoa.private]] 
 
-### #is_/same_as :: [Micrognathozoa.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Micrognathozoa.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Micrognathozoa.personal|Micrognathozoa.personal]] 
 
-### #is_/same_as :: [Micrognathozoa.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Micrognathozoa.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Micrognathozoa.secret|Micrognathozoa.secret]] 
 

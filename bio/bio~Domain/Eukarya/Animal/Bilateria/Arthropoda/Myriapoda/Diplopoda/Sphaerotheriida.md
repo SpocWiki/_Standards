@@ -47,17 +47,17 @@ title: Sphaerotheriida
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sphaerotheriida](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Myriapoda/Diplopoda/Sphaerotheriida.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Myriapoda/Diplopoda/Sphaerotheriida|Sphaerotheriida]] 
 
-### #is_/same_as :: [Sphaerotheriida.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Myriapoda/Diplopoda/Sphaerotheriida.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Myriapoda/Diplopoda/Sphaerotheriida.public|Sphaerotheriida.public]] 
 
-### #is_/same_as :: [Sphaerotheriida.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Myriapoda/Diplopoda/Sphaerotheriida.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Myriapoda/Diplopoda/Sphaerotheriida.internal|Sphaerotheriida.internal]] 
 
-### #is_/same_as :: [Sphaerotheriida.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Myriapoda/Diplopoda/Sphaerotheriida.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Myriapoda/Diplopoda/Sphaerotheriida.protect|Sphaerotheriida.protect]] 
 
-### #is_/same_as :: [Sphaerotheriida.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Myriapoda/Diplopoda/Sphaerotheriida.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Myriapoda/Diplopoda/Sphaerotheriida.private|Sphaerotheriida.private]] 
 
-### #is_/same_as :: [Sphaerotheriida.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Myriapoda/Diplopoda/Sphaerotheriida.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Myriapoda/Diplopoda/Sphaerotheriida.personal|Sphaerotheriida.personal]] 
 
-### #is_/same_as :: [Sphaerotheriida.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Myriapoda/Diplopoda/Sphaerotheriida.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Myriapoda/Diplopoda/Sphaerotheriida.secret|Sphaerotheriida.secret]] 
 

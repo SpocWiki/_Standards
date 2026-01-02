@@ -43,17 +43,17 @@ Any physical manifestation of a person's medical condition discoverable by objec
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Medical_Sign](/_Standards/bio/Medicine/Medical_Condition/Medical_Sign_or_Symptom/Medical_Sign.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Condition/Medical_Sign_or_Symptom/Medical_Sign|Medical_Sign]] 
 
-### #is_/same_as :: [Medical_Sign.public](/_public/bio/Medicine/Medical_Condition/Medical_Sign_or_Symptom/Medical_Sign.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Condition/Medical_Sign_or_Symptom/Medical_Sign.public|Medical_Sign.public]] 
 
-### #is_/same_as :: [Medical_Sign.internal](/_internal/bio/Medicine/Medical_Condition/Medical_Sign_or_Symptom/Medical_Sign.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Condition/Medical_Sign_or_Symptom/Medical_Sign.internal|Medical_Sign.internal]] 
 
-### #is_/same_as :: [Medical_Sign.protect](/_protect/bio/Medicine/Medical_Condition/Medical_Sign_or_Symptom/Medical_Sign.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Condition/Medical_Sign_or_Symptom/Medical_Sign.protect|Medical_Sign.protect]] 
 
-### #is_/same_as :: [Medical_Sign.private](/_private/bio/Medicine/Medical_Condition/Medical_Sign_or_Symptom/Medical_Sign.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Condition/Medical_Sign_or_Symptom/Medical_Sign.private|Medical_Sign.private]] 
 
-### #is_/same_as :: [Medical_Sign.personal](/_personal/bio/Medicine/Medical_Condition/Medical_Sign_or_Symptom/Medical_Sign.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Condition/Medical_Sign_or_Symptom/Medical_Sign.personal|Medical_Sign.personal]] 
 
-### #is_/same_as :: [Medical_Sign.secret](/_secret/bio/Medicine/Medical_Condition/Medical_Sign_or_Symptom/Medical_Sign.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Condition/Medical_Sign_or_Symptom/Medical_Sign.secret|Medical_Sign.secret]] 
 

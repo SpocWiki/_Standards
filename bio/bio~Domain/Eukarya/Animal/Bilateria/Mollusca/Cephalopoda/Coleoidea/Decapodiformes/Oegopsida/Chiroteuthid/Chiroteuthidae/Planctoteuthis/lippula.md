@@ -33,7 +33,7 @@ title: Planctoteuthis lippula
 
 [Richard E. Young and Clyde F. E. Roper]()
 
-![ ](lippula/PlanctoteuthisHaw1.jpg)![ ](lippula/P.jpg))
+![ ](lippula/PlanctoteuthisHaw1.jpg)![ ](lippula/P.jpg) 
 
 Containing group: [Planctoteuthis](../Planctoteuthis.md))*
 
@@ -176,7 +176,7 @@ der Plankton-Expedition der Humboldt-Stiftung. 2: 1-815.
 
 ## Title Illustrations
 
-![](lippula/PlanctoteuthisHaw1.jpg))
+![](lippula/PlanctoteuthisHaw1.jpg) 
 
   ------------------------------------------------------------------------------
   Scientific Name ::     Planctoteuthis lippula
@@ -187,7 +187,7 @@ der Plankton-Expedition der Humboldt-Stiftung. 2: 1-815.
   Copyright ::            © [Richard E. Young](http://www.soest.hawaii.edu/%7Eryoung/rey.html) 
  
   ------------------------------------------------------------------------------
-![](levimana/P.jpg))
+![](levimana/P.jpg) 
 
   ------------
   Scientific Name ::     Planctoteuthis lippula
@@ -202,17 +202,17 @@ der Plankton-Expedition der Humboldt-Stiftung. 2: 1-815.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [lippula](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Chiroteuthidae/Planctoteuthis/lippula.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Chiroteuthidae/Planctoteuthis/lippula|lippula]] 
 
-### #is_/same_as :: [lippula.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Chiroteuthidae/Planctoteuthis/lippula.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Chiroteuthidae/Planctoteuthis/lippula.public|lippula.public]] 
 
-### #is_/same_as :: [lippula.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Chiroteuthidae/Planctoteuthis/lippula.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Chiroteuthidae/Planctoteuthis/lippula.internal|lippula.internal]] 
 
-### #is_/same_as :: [lippula.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Chiroteuthidae/Planctoteuthis/lippula.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Chiroteuthidae/Planctoteuthis/lippula.protect|lippula.protect]] 
 
-### #is_/same_as :: [lippula.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Chiroteuthidae/Planctoteuthis/lippula.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Chiroteuthidae/Planctoteuthis/lippula.private|lippula.private]] 
 
-### #is_/same_as :: [lippula.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Chiroteuthidae/Planctoteuthis/lippula.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Chiroteuthidae/Planctoteuthis/lippula.personal|lippula.personal]] 
 
-### #is_/same_as :: [lippula.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Chiroteuthidae/Planctoteuthis/lippula.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Chiroteuthidae/Planctoteuthis/lippula.secret|lippula.secret]] 
 

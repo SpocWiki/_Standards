@@ -54,17 +54,17 @@ Krugosvet_article: sport/BIATLON.html
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Biathlon](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Biathlon.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Biathlon|Biathlon]] 
 
-### #is_/same_as :: [Biathlon.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Biathlon.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Biathlon.public|Biathlon.public]] 
 
-### #is_/same_as :: [Biathlon.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Biathlon.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Biathlon.internal|Biathlon.internal]] 
 
-### #is_/same_as :: [Biathlon.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Biathlon.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Biathlon.protect|Biathlon.protect]] 
 
-### #is_/same_as :: [Biathlon.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Biathlon.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Biathlon.private|Biathlon.private]] 
 
-### #is_/same_as :: [Biathlon.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Biathlon.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Biathlon.personal|Biathlon.personal]] 
 
-### #is_/same_as :: [Biathlon.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Biathlon.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Biathlon.secret|Biathlon.secret]] 
 

@@ -74,17 +74,17 @@ date_of_birth: 0972-01-01T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Erikson,Leif](/_Standards/Earth/Explorer/Erikson,Leif.md) 
+### #is_/same_as :: [[/_Standards/Earth/Explorer/Erikson,Leif|Erikson,Leif]] 
 
-### #is_/same_as :: [Erikson,Leif.public](/_public/Earth/Explorer/Erikson,Leif.public.md) 
+### #is_/same_as :: [[/_public/Earth/Explorer/Erikson,Leif.public|Erikson,Leif.public]] 
 
-### #is_/same_as :: [Erikson,Leif.internal](/_internal/Earth/Explorer/Erikson,Leif.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Explorer/Erikson,Leif.internal|Erikson,Leif.internal]] 
 
-### #is_/same_as :: [Erikson,Leif.protect](/_protect/Earth/Explorer/Erikson,Leif.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Explorer/Erikson,Leif.protect|Erikson,Leif.protect]] 
 
-### #is_/same_as :: [Erikson,Leif.private](/_private/Earth/Explorer/Erikson,Leif.private.md) 
+### #is_/same_as :: [[/_private/Earth/Explorer/Erikson,Leif.private|Erikson,Leif.private]] 
 
-### #is_/same_as :: [Erikson,Leif.personal](/_personal/Earth/Explorer/Erikson,Leif.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Explorer/Erikson,Leif.personal|Erikson,Leif.personal]] 
 
-### #is_/same_as :: [Erikson,Leif.secret](/_secret/Earth/Explorer/Erikson,Leif.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Explorer/Erikson,Leif.secret|Erikson,Leif.secret]] 
 

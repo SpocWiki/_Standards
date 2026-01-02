@@ -34,7 +34,7 @@ title: Latrodectus indistinctus
 # *Latrodectus indistinctus* 
 
 [Jeremy Miller]()
-![ ](indistinctus/dsc_0180.jpg))
+![ ](indistinctus/dsc_0180.jpg) 
 ![ ](indistinctus/dsc_0185.jpg)
 ![](indistinctus/dsc_0083.jpg)
 
@@ -42,7 +42,7 @@ Containing group: [Latrodectus](../Latrodectus.md))*
 
 ## Title Illustrations
 
-![](indistinctus/dsc_0180.jpg))
+![](indistinctus/dsc_0180.jpg) 
 
   ---------------------------------------------------------------------------------------
   Scientific Name ::     Latrodectus indistinctus
@@ -54,7 +54,7 @@ Containing group: [Latrodectus](../Latrodectus.md))*
   Copyright ::            © [Jeremy Miller](http://www.calacademy.org/research/entomology/personnel/jmiller/index.htm) 
  
   ---------------------------------------------------------------------------------------
-![](indistinctus/dsc_0185.jpg))
+![](indistinctus/dsc_0185.jpg) 
 
   ---------------------------------------------------------------------------------------
   Scientific Name ::     Latrodectus indistinctus
@@ -66,7 +66,7 @@ Containing group: [Latrodectus](../Latrodectus.md))*
   Copyright ::            © [Jeremy Miller](http://www.calacademy.org/research/entomology/personnel/jmiller/index.htm) 
  
   ---------------------------------------------------------------------------------------
-![](indistinctus/dsc_0083.jpg))
+![](indistinctus/dsc_0083.jpg) 
 
   ---------------------------------------------------------------------------------------
   Scientific Name ::     Latrodectus indistinctus
@@ -80,17 +80,17 @@ Containing group: [Latrodectus](../Latrodectus.md))*
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [indistinctus](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Orbiculariae/Theridiidae/Latrodectus/indistinctus.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Orbiculariae/Theridiidae/Latrodectus/indistinctus|indistinctus]] 
 
-### #is_/same_as :: [indistinctus.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Orbiculariae/Theridiidae/Latrodectus/indistinctus.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Orbiculariae/Theridiidae/Latrodectus/indistinctus.public|indistinctus.public]] 
 
-### #is_/same_as :: [indistinctus.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Orbiculariae/Theridiidae/Latrodectus/indistinctus.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Orbiculariae/Theridiidae/Latrodectus/indistinctus.internal|indistinctus.internal]] 
 
-### #is_/same_as :: [indistinctus.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Orbiculariae/Theridiidae/Latrodectus/indistinctus.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Orbiculariae/Theridiidae/Latrodectus/indistinctus.protect|indistinctus.protect]] 
 
-### #is_/same_as :: [indistinctus.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Orbiculariae/Theridiidae/Latrodectus/indistinctus.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Orbiculariae/Theridiidae/Latrodectus/indistinctus.private|indistinctus.private]] 
 
-### #is_/same_as :: [indistinctus.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Orbiculariae/Theridiidae/Latrodectus/indistinctus.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Orbiculariae/Theridiidae/Latrodectus/indistinctus.personal|indistinctus.personal]] 
 
-### #is_/same_as :: [indistinctus.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Orbiculariae/Theridiidae/Latrodectus/indistinctus.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Orbiculariae/Theridiidae/Latrodectus/indistinctus.secret|indistinctus.secret]] 
 

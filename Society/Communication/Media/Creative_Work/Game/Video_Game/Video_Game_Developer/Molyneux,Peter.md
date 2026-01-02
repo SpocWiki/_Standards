@@ -68,17 +68,17 @@ birth_name: Peter Douglas Molyneux
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Molyneux,Peter](/_Standards/Society/Communication/Media/Creative_Work/Game/Video_Game/Video_Game_Developer/Molyneux,Peter.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Creative_Work/Game/Video_Game/Video_Game_Developer/Molyneux,Peter|Molyneux,Peter]] 
 
-### #is_/same_as :: [Molyneux,Peter.public](/_public/Society/Communication/Media/Creative_Work/Game/Video_Game/Video_Game_Developer/Molyneux,Peter.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Creative_Work/Game/Video_Game/Video_Game_Developer/Molyneux,Peter.public|Molyneux,Peter.public]] 
 
-### #is_/same_as :: [Molyneux,Peter.internal](/_internal/Society/Communication/Media/Creative_Work/Game/Video_Game/Video_Game_Developer/Molyneux,Peter.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Creative_Work/Game/Video_Game/Video_Game_Developer/Molyneux,Peter.internal|Molyneux,Peter.internal]] 
 
-### #is_/same_as :: [Molyneux,Peter.protect](/_protect/Society/Communication/Media/Creative_Work/Game/Video_Game/Video_Game_Developer/Molyneux,Peter.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Creative_Work/Game/Video_Game/Video_Game_Developer/Molyneux,Peter.protect|Molyneux,Peter.protect]] 
 
-### #is_/same_as :: [Molyneux,Peter.private](/_private/Society/Communication/Media/Creative_Work/Game/Video_Game/Video_Game_Developer/Molyneux,Peter.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Creative_Work/Game/Video_Game/Video_Game_Developer/Molyneux,Peter.private|Molyneux,Peter.private]] 
 
-### #is_/same_as :: [Molyneux,Peter.personal](/_personal/Society/Communication/Media/Creative_Work/Game/Video_Game/Video_Game_Developer/Molyneux,Peter.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/Game/Video_Game/Video_Game_Developer/Molyneux,Peter.personal|Molyneux,Peter.personal]] 
 
-### #is_/same_as :: [Molyneux,Peter.secret](/_secret/Society/Communication/Media/Creative_Work/Game/Video_Game/Video_Game_Developer/Molyneux,Peter.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Game/Video_Game/Video_Game_Developer/Molyneux,Peter.secret|Molyneux,Peter.secret]] 
 

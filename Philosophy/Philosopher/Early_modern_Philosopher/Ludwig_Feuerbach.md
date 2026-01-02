@@ -123,17 +123,17 @@ German philosopher and anthropologist (1804–1872)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ludwig_Feuerbach](/_Standards/Philosophy/Philosopher/Early_modern_Philosopher/Ludwig_Feuerbach.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Philosopher/Early_modern_Philosopher/Ludwig_Feuerbach|Ludwig_Feuerbach]] 
 
-### #is_/same_as :: [Ludwig_Feuerbach.public](/_public/Philosophy/Philosopher/Early_modern_Philosopher/Ludwig_Feuerbach.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Philosopher/Early_modern_Philosopher/Ludwig_Feuerbach.public|Ludwig_Feuerbach.public]] 
 
-### #is_/same_as :: [Ludwig_Feuerbach.internal](/_internal/Philosophy/Philosopher/Early_modern_Philosopher/Ludwig_Feuerbach.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Philosopher/Early_modern_Philosopher/Ludwig_Feuerbach.internal|Ludwig_Feuerbach.internal]] 
 
-### #is_/same_as :: [Ludwig_Feuerbach.protect](/_protect/Philosophy/Philosopher/Early_modern_Philosopher/Ludwig_Feuerbach.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Philosopher/Early_modern_Philosopher/Ludwig_Feuerbach.protect|Ludwig_Feuerbach.protect]] 
 
-### #is_/same_as :: [Ludwig_Feuerbach.private](/_private/Philosophy/Philosopher/Early_modern_Philosopher/Ludwig_Feuerbach.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Philosopher/Early_modern_Philosopher/Ludwig_Feuerbach.private|Ludwig_Feuerbach.private]] 
 
-### #is_/same_as :: [Ludwig_Feuerbach.personal](/_personal/Philosophy/Philosopher/Early_modern_Philosopher/Ludwig_Feuerbach.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Philosopher/Early_modern_Philosopher/Ludwig_Feuerbach.personal|Ludwig_Feuerbach.personal]] 
 
-### #is_/same_as :: [Ludwig_Feuerbach.secret](/_secret/Philosophy/Philosopher/Early_modern_Philosopher/Ludwig_Feuerbach.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Philosopher/Early_modern_Philosopher/Ludwig_Feuerbach.secret|Ludwig_Feuerbach.secret]] 
 

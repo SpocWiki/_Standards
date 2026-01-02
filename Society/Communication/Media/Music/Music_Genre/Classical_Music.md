@@ -64,17 +64,17 @@ audio: http://commons.wikimedia.org/wiki/Special:FilePath/Magic%20Flute%20Overtu
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Classical_Music](/_Standards/Society/Communication/Media/Music/Music_Genre/Classical_Music.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Music_Genre/Classical_Music|Classical_Music]] 
 
-### #is_/same_as :: [Classical_Music.public](/_public/Society/Communication/Media/Music/Music_Genre/Classical_Music.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Music_Genre/Classical_Music.public|Classical_Music.public]] 
 
-### #is_/same_as :: [Classical_Music.internal](/_internal/Society/Communication/Media/Music/Music_Genre/Classical_Music.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Music_Genre/Classical_Music.internal|Classical_Music.internal]] 
 
-### #is_/same_as :: [Classical_Music.protect](/_protect/Society/Communication/Media/Music/Music_Genre/Classical_Music.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Music_Genre/Classical_Music.protect|Classical_Music.protect]] 
 
-### #is_/same_as :: [Classical_Music.private](/_private/Society/Communication/Media/Music/Music_Genre/Classical_Music.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Music_Genre/Classical_Music.private|Classical_Music.private]] 
 
-### #is_/same_as :: [Classical_Music.personal](/_personal/Society/Communication/Media/Music/Music_Genre/Classical_Music.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Music_Genre/Classical_Music.personal|Classical_Music.personal]] 
 
-### #is_/same_as :: [Classical_Music.secret](/_secret/Society/Communication/Media/Music/Music_Genre/Classical_Music.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Music_Genre/Classical_Music.secret|Classical_Music.secret]] 
 

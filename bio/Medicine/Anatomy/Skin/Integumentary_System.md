@@ -51,17 +51,17 @@ Commons_category: Integumentary system
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Integumentary_System](/_Standards/bio/Medicine/Anatomy/Skin/Integumentary_System.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Anatomy/Skin/Integumentary_System|Integumentary_System]] 
 
-### #is_/same_as :: [Integumentary_System.public](/_public/bio/Medicine/Anatomy/Skin/Integumentary_System.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Anatomy/Skin/Integumentary_System.public|Integumentary_System.public]] 
 
-### #is_/same_as :: [Integumentary_System.internal](/_internal/bio/Medicine/Anatomy/Skin/Integumentary_System.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Anatomy/Skin/Integumentary_System.internal|Integumentary_System.internal]] 
 
-### #is_/same_as :: [Integumentary_System.protect](/_protect/bio/Medicine/Anatomy/Skin/Integumentary_System.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Anatomy/Skin/Integumentary_System.protect|Integumentary_System.protect]] 
 
-### #is_/same_as :: [Integumentary_System.private](/_private/bio/Medicine/Anatomy/Skin/Integumentary_System.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Anatomy/Skin/Integumentary_System.private|Integumentary_System.private]] 
 
-### #is_/same_as :: [Integumentary_System.personal](/_personal/bio/Medicine/Anatomy/Skin/Integumentary_System.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Anatomy/Skin/Integumentary_System.personal|Integumentary_System.personal]] 
 
-### #is_/same_as :: [Integumentary_System.secret](/_secret/bio/Medicine/Anatomy/Skin/Integumentary_System.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Anatomy/Skin/Integumentary_System.secret|Integumentary_System.secret]] 
 

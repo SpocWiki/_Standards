@@ -31,17 +31,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Iceberg](/_Standards/Earth/Geology/Landform/Glacier/Iceberg.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geology/Landform/Glacier/Iceberg|Iceberg]] 
 
-### #is_/same_as :: [Iceberg.public](/_public/Earth/Geology/Landform/Glacier/Iceberg.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geology/Landform/Glacier/Iceberg.public|Iceberg.public]] 
 
-### #is_/same_as :: [Iceberg.internal](/_internal/Earth/Geology/Landform/Glacier/Iceberg.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geology/Landform/Glacier/Iceberg.internal|Iceberg.internal]] 
 
-### #is_/same_as :: [Iceberg.protect](/_protect/Earth/Geology/Landform/Glacier/Iceberg.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geology/Landform/Glacier/Iceberg.protect|Iceberg.protect]] 
 
-### #is_/same_as :: [Iceberg.private](/_private/Earth/Geology/Landform/Glacier/Iceberg.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geology/Landform/Glacier/Iceberg.private|Iceberg.private]] 
 
-### #is_/same_as :: [Iceberg.personal](/_personal/Earth/Geology/Landform/Glacier/Iceberg.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geology/Landform/Glacier/Iceberg.personal|Iceberg.personal]] 
 
-### #is_/same_as :: [Iceberg.secret](/_secret/Earth/Geology/Landform/Glacier/Iceberg.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geology/Landform/Glacier/Iceberg.secret|Iceberg.secret]] 
 

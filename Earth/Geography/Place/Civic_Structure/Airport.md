@@ -44,17 +44,17 @@ An airport.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Airport](/_Standards/Earth/Geography/Place/Civic_Structure/Airport.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geography/Place/Civic_Structure/Airport|Airport]] 
 
-### #is_/same_as :: [Airport.public](/_public/Earth/Geography/Place/Civic_Structure/Airport.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geography/Place/Civic_Structure/Airport.public|Airport.public]] 
 
-### #is_/same_as :: [Airport.internal](/_internal/Earth/Geography/Place/Civic_Structure/Airport.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geography/Place/Civic_Structure/Airport.internal|Airport.internal]] 
 
-### #is_/same_as :: [Airport.protect](/_protect/Earth/Geography/Place/Civic_Structure/Airport.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geography/Place/Civic_Structure/Airport.protect|Airport.protect]] 
 
-### #is_/same_as :: [Airport.private](/_private/Earth/Geography/Place/Civic_Structure/Airport.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geography/Place/Civic_Structure/Airport.private|Airport.private]] 
 
-### #is_/same_as :: [Airport.personal](/_personal/Earth/Geography/Place/Civic_Structure/Airport.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geography/Place/Civic_Structure/Airport.personal|Airport.personal]] 
 
-### #is_/same_as :: [Airport.secret](/_secret/Earth/Geography/Place/Civic_Structure/Airport.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geography/Place/Civic_Structure/Airport.secret|Airport.secret]] 
 

@@ -42,17 +42,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_hours_available](/_Standards/schema-org/Relation/has/has_hours_available.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_hours_available|has_hours_available]] 
 
-### #is_/same_as :: [has_hours_available.public](/_public/schema-org/Relation/has/has_hours_available.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_hours_available.public|has_hours_available.public]] 
 
-### #is_/same_as :: [has_hours_available.internal](/_internal/schema-org/Relation/has/has_hours_available.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_hours_available.internal|has_hours_available.internal]] 
 
-### #is_/same_as :: [has_hours_available.protect](/_protect/schema-org/Relation/has/has_hours_available.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_hours_available.protect|has_hours_available.protect]] 
 
-### #is_/same_as :: [has_hours_available.private](/_private/schema-org/Relation/has/has_hours_available.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_hours_available.private|has_hours_available.private]] 
 
-### #is_/same_as :: [has_hours_available.personal](/_personal/schema-org/Relation/has/has_hours_available.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_hours_available.personal|has_hours_available.personal]] 
 
-### #is_/same_as :: [has_hours_available.secret](/_secret/schema-org/Relation/has/has_hours_available.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_hours_available.secret|has_hours_available.secret]] 
 

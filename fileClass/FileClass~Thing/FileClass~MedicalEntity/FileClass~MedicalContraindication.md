@@ -37,17 +37,17 @@ A condition or factor that serves as a reason to withhold a certain medical ther
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~MedicalContraindication](/_Standards/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalContraindication.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalContraindication|FileClass~MedicalContraindication]] 
 
-### #is_/same_as :: [FileClass~MedicalContraindication.public](/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalContraindication.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalContraindication.public|FileClass~MedicalContraindication.public]] 
 
-### #is_/same_as :: [FileClass~MedicalContraindication.internal](/_internal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalContraindication.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalContraindication.internal|FileClass~MedicalContraindication.internal]] 
 
-### #is_/same_as :: [FileClass~MedicalContraindication.protect](/_protect/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalContraindication.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalContraindication.protect|FileClass~MedicalContraindication.protect]] 
 
-### #is_/same_as :: [FileClass~MedicalContraindication.private](/_private/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalContraindication.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalContraindication.private|FileClass~MedicalContraindication.private]] 
 
-### #is_/same_as :: [FileClass~MedicalContraindication.personal](/_personal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalContraindication.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalContraindication.personal|FileClass~MedicalContraindication.personal]] 
 
-### #is_/same_as :: [FileClass~MedicalContraindication.secret](/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalContraindication.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalContraindication.secret|FileClass~MedicalContraindication.secret]] 
 

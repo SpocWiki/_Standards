@@ -126,17 +126,17 @@ Europeana_entity: agent/base/146819
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Kelly,Gene](/_Standards/Society/Communication/Media/Performing_Arts/Dance/Dancer/Kelly,Gene.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Performing_Arts/Dance/Dancer/Kelly,Gene|Kelly,Gene]] 
 
-### #is_/same_as :: [Kelly,Gene.public](/_public/Society/Communication/Media/Performing_Arts/Dance/Dancer/Kelly,Gene.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Performing_Arts/Dance/Dancer/Kelly,Gene.public|Kelly,Gene.public]] 
 
-### #is_/same_as :: [Kelly,Gene.internal](/_internal/Society/Communication/Media/Performing_Arts/Dance/Dancer/Kelly,Gene.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Performing_Arts/Dance/Dancer/Kelly,Gene.internal|Kelly,Gene.internal]] 
 
-### #is_/same_as :: [Kelly,Gene.protect](/_protect/Society/Communication/Media/Performing_Arts/Dance/Dancer/Kelly,Gene.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Performing_Arts/Dance/Dancer/Kelly,Gene.protect|Kelly,Gene.protect]] 
 
-### #is_/same_as :: [Kelly,Gene.private](/_private/Society/Communication/Media/Performing_Arts/Dance/Dancer/Kelly,Gene.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Performing_Arts/Dance/Dancer/Kelly,Gene.private|Kelly,Gene.private]] 
 
-### #is_/same_as :: [Kelly,Gene.personal](/_personal/Society/Communication/Media/Performing_Arts/Dance/Dancer/Kelly,Gene.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Performing_Arts/Dance/Dancer/Kelly,Gene.personal|Kelly,Gene.personal]] 
 
-### #is_/same_as :: [Kelly,Gene.secret](/_secret/Society/Communication/Media/Performing_Arts/Dance/Dancer/Kelly,Gene.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Performing_Arts/Dance/Dancer/Kelly,Gene.secret|Kelly,Gene.secret]] 
 

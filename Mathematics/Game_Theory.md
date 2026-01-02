@@ -87,17 +87,17 @@ Krugosvet_article: nauka_i_tehnika/matematika/IGR_TEORIYA.html
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Game_Theory](/_Standards/Mathematics/Game_Theory.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Game_Theory|Game_Theory]] 
 
-### #is_/same_as :: [Game_Theory.public](/_public/Mathematics/Game_Theory.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Game_Theory.public|Game_Theory.public]] 
 
-### #is_/same_as :: [Game_Theory.internal](/_internal/Mathematics/Game_Theory.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Game_Theory.internal|Game_Theory.internal]] 
 
-### #is_/same_as :: [Game_Theory.protect](/_protect/Mathematics/Game_Theory.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Game_Theory.protect|Game_Theory.protect]] 
 
-### #is_/same_as :: [Game_Theory.private](/_private/Mathematics/Game_Theory.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Game_Theory.private|Game_Theory.private]] 
 
-### #is_/same_as :: [Game_Theory.personal](/_personal/Mathematics/Game_Theory.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Game_Theory.personal|Game_Theory.personal]] 
 
-### #is_/same_as :: [Game_Theory.secret](/_secret/Mathematics/Game_Theory.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Game_Theory.secret|Game_Theory.secret]] 
 

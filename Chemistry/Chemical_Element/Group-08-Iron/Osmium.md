@@ -114,17 +114,17 @@ ZVG_number: 7760
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Osmium](/_Standards/Chemistry/Chemical_Element/Group-08-Iron/Osmium.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Chemical_Element/Group-08-Iron/Osmium|Osmium]] 
 
-### #is_/same_as :: [Osmium.public](/_public/Chemistry/Chemical_Element/Group-08-Iron/Osmium.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Chemical_Element/Group-08-Iron/Osmium.public|Osmium.public]] 
 
-### #is_/same_as :: [Osmium.internal](/_internal/Chemistry/Chemical_Element/Group-08-Iron/Osmium.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Chemical_Element/Group-08-Iron/Osmium.internal|Osmium.internal]] 
 
-### #is_/same_as :: [Osmium.protect](/_protect/Chemistry/Chemical_Element/Group-08-Iron/Osmium.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Chemical_Element/Group-08-Iron/Osmium.protect|Osmium.protect]] 
 
-### #is_/same_as :: [Osmium.private](/_private/Chemistry/Chemical_Element/Group-08-Iron/Osmium.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Chemical_Element/Group-08-Iron/Osmium.private|Osmium.private]] 
 
-### #is_/same_as :: [Osmium.personal](/_personal/Chemistry/Chemical_Element/Group-08-Iron/Osmium.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Chemical_Element/Group-08-Iron/Osmium.personal|Osmium.personal]] 
 
-### #is_/same_as :: [Osmium.secret](/_secret/Chemistry/Chemical_Element/Group-08-Iron/Osmium.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Chemical_Element/Group-08-Iron/Osmium.secret|Osmium.secret]] 
 

@@ -143,17 +143,17 @@ type: private_note
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Mental_Disorder](/_Standards/bio/Psychology/Mental_Disorder.md) 
+### #is_/same_as :: [[/_Standards/bio/Psychology/Mental_Disorder|Mental_Disorder]] 
 
-### #is_/same_as :: [Mental_Disorder.public](/_public/bio/Psychology/Mental_Disorder.public.md) 
+### #is_/same_as :: [[/_public/bio/Psychology/Mental_Disorder.public|Mental_Disorder.public]] 
 
-### #is_/same_as :: [Mental_Disorder.internal](/_internal/bio/Psychology/Mental_Disorder.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Psychology/Mental_Disorder.internal|Mental_Disorder.internal]] 
 
-### #is_/same_as :: [Mental_Disorder.protect](/_protect/bio/Psychology/Mental_Disorder.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Psychology/Mental_Disorder.protect|Mental_Disorder.protect]] 
 
-### #is_/same_as :: [Mental_Disorder.private](/_private/bio/Psychology/Mental_Disorder.private.md) 
+### #is_/same_as :: [[/_private/bio/Psychology/Mental_Disorder.private|Mental_Disorder.private]] 
 
-### #is_/same_as :: [Mental_Disorder.personal](/_personal/bio/Psychology/Mental_Disorder.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Psychology/Mental_Disorder.personal|Mental_Disorder.personal]] 
 
-### #is_/same_as :: [Mental_Disorder.secret](/_secret/bio/Psychology/Mental_Disorder.secret.md)
+### #is_/same_as :: [[/_secret/bio/Psychology/Mental_Disorder.secret|Mental_Disorder.secret]] 
 

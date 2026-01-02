@@ -39,17 +39,17 @@ Wolfram_Language_entity_code: Entity["Concept", "CivilUnion::m6653"]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Civil_Union](/_Standards/Society/Agent/Community/Clan/Family/Marriage/Civil_Union.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Clan/Family/Marriage/Civil_Union|Civil_Union]] 
 
-### #is_/same_as :: [Civil_Union.public](/_public/Society/Agent/Community/Clan/Family/Marriage/Civil_Union.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Clan/Family/Marriage/Civil_Union.public|Civil_Union.public]] 
 
-### #is_/same_as :: [Civil_Union.internal](/_internal/Society/Agent/Community/Clan/Family/Marriage/Civil_Union.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Clan/Family/Marriage/Civil_Union.internal|Civil_Union.internal]] 
 
-### #is_/same_as :: [Civil_Union.protect](/_protect/Society/Agent/Community/Clan/Family/Marriage/Civil_Union.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Clan/Family/Marriage/Civil_Union.protect|Civil_Union.protect]] 
 
-### #is_/same_as :: [Civil_Union.private](/_private/Society/Agent/Community/Clan/Family/Marriage/Civil_Union.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Clan/Family/Marriage/Civil_Union.private|Civil_Union.private]] 
 
-### #is_/same_as :: [Civil_Union.personal](/_personal/Society/Agent/Community/Clan/Family/Marriage/Civil_Union.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Clan/Family/Marriage/Civil_Union.personal|Civil_Union.personal]] 
 
-### #is_/same_as :: [Civil_Union.secret](/_secret/Society/Agent/Community/Clan/Family/Marriage/Civil_Union.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Clan/Family/Marriage/Civil_Union.secret|Civil_Union.secret]] 
 

@@ -645,17 +645,17 @@ chemical_structure: http://commons.wikimedia.org/wiki/Special:FilePath/Structura
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Cholesterol](/_Standards/bio/Cell(Biology)/Cholesterol.md) 
+### #is_/same_as :: [[/_Standards/bio/Cell(Biology)/Cholesterol|Cholesterol]] 
 
-### #is_/same_as :: [Cholesterol.public](/_public/bio/Cell(Biology)/Cholesterol.public.md) 
+### #is_/same_as :: [[/_public/bio/Cell(Biology)/Cholesterol.public|Cholesterol.public]] 
 
-### #is_/same_as :: [Cholesterol.internal](/_internal/bio/Cell(Biology)/Cholesterol.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Cell(Biology)/Cholesterol.internal|Cholesterol.internal]] 
 
-### #is_/same_as :: [Cholesterol.protect](/_protect/bio/Cell(Biology)/Cholesterol.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Cell(Biology)/Cholesterol.protect|Cholesterol.protect]] 
 
-### #is_/same_as :: [Cholesterol.private](/_private/bio/Cell(Biology)/Cholesterol.private.md) 
+### #is_/same_as :: [[/_private/bio/Cell(Biology)/Cholesterol.private|Cholesterol.private]] 
 
-### #is_/same_as :: [Cholesterol.personal](/_personal/bio/Cell(Biology)/Cholesterol.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Cell(Biology)/Cholesterol.personal|Cholesterol.personal]] 
 
-### #is_/same_as :: [Cholesterol.secret](/_secret/bio/Cell(Biology)/Cholesterol.secret.md)
+### #is_/same_as :: [[/_secret/bio/Cell(Biology)/Cholesterol.secret|Cholesterol.secret]] 
 

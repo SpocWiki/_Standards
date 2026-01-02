@@ -44,17 +44,17 @@ Commons_category: Fermions
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Fermion](/_Standards/Science/Physics/Quantum_Mechanics/Standard_Model/Fermion.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Quantum_Mechanics/Standard_Model/Fermion|Fermion]] 
 
-### #is_/same_as :: [Fermion.public](/_public/Science/Physics/Quantum_Mechanics/Standard_Model/Fermion.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Quantum_Mechanics/Standard_Model/Fermion.public|Fermion.public]] 
 
-### #is_/same_as :: [Fermion.internal](/_internal/Science/Physics/Quantum_Mechanics/Standard_Model/Fermion.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Quantum_Mechanics/Standard_Model/Fermion.internal|Fermion.internal]] 
 
-### #is_/same_as :: [Fermion.protect](/_protect/Science/Physics/Quantum_Mechanics/Standard_Model/Fermion.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Quantum_Mechanics/Standard_Model/Fermion.protect|Fermion.protect]] 
 
-### #is_/same_as :: [Fermion.private](/_private/Science/Physics/Quantum_Mechanics/Standard_Model/Fermion.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Quantum_Mechanics/Standard_Model/Fermion.private|Fermion.private]] 
 
-### #is_/same_as :: [Fermion.personal](/_personal/Science/Physics/Quantum_Mechanics/Standard_Model/Fermion.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Quantum_Mechanics/Standard_Model/Fermion.personal|Fermion.personal]] 
 
-### #is_/same_as :: [Fermion.secret](/_secret/Science/Physics/Quantum_Mechanics/Standard_Model/Fermion.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Quantum_Mechanics/Standard_Model/Fermion.secret|Fermion.secret]] 
 

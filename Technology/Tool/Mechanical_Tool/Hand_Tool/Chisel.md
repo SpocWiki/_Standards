@@ -50,17 +50,17 @@ EAGLE_id: decor/lod/64
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Chisel](/_Standards/Technology/Tool/Mechanical_Tool/Hand_Tool/Chisel.md) 
+### #is_/same_as :: [[/_Standards/Technology/Tool/Mechanical_Tool/Hand_Tool/Chisel|Chisel]] 
 
-### #is_/same_as :: [Chisel.public](/_public/Technology/Tool/Mechanical_Tool/Hand_Tool/Chisel.public.md) 
+### #is_/same_as :: [[/_public/Technology/Tool/Mechanical_Tool/Hand_Tool/Chisel.public|Chisel.public]] 
 
-### #is_/same_as :: [Chisel.internal](/_internal/Technology/Tool/Mechanical_Tool/Hand_Tool/Chisel.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Tool/Mechanical_Tool/Hand_Tool/Chisel.internal|Chisel.internal]] 
 
-### #is_/same_as :: [Chisel.protect](/_protect/Technology/Tool/Mechanical_Tool/Hand_Tool/Chisel.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Tool/Mechanical_Tool/Hand_Tool/Chisel.protect|Chisel.protect]] 
 
-### #is_/same_as :: [Chisel.private](/_private/Technology/Tool/Mechanical_Tool/Hand_Tool/Chisel.private.md) 
+### #is_/same_as :: [[/_private/Technology/Tool/Mechanical_Tool/Hand_Tool/Chisel.private|Chisel.private]] 
 
-### #is_/same_as :: [Chisel.personal](/_personal/Technology/Tool/Mechanical_Tool/Hand_Tool/Chisel.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Tool/Mechanical_Tool/Hand_Tool/Chisel.personal|Chisel.personal]] 
 
-### #is_/same_as :: [Chisel.secret](/_secret/Technology/Tool/Mechanical_Tool/Hand_Tool/Chisel.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Tool/Mechanical_Tool/Hand_Tool/Chisel.secret|Chisel.secret]] 
 

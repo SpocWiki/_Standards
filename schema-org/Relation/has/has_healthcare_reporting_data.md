@@ -45,17 +45,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_healthcare_reporting_data](/_Standards/schema-org/Relation/has/has_healthcare_reporting_data.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_healthcare_reporting_data|has_healthcare_reporting_data]] 
 
-### #is_/same_as :: [has_healthcare_reporting_data.public](/_public/schema-org/Relation/has/has_healthcare_reporting_data.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_healthcare_reporting_data.public|has_healthcare_reporting_data.public]] 
 
-### #is_/same_as :: [has_healthcare_reporting_data.internal](/_internal/schema-org/Relation/has/has_healthcare_reporting_data.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_healthcare_reporting_data.internal|has_healthcare_reporting_data.internal]] 
 
-### #is_/same_as :: [has_healthcare_reporting_data.protect](/_protect/schema-org/Relation/has/has_healthcare_reporting_data.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_healthcare_reporting_data.protect|has_healthcare_reporting_data.protect]] 
 
-### #is_/same_as :: [has_healthcare_reporting_data.private](/_private/schema-org/Relation/has/has_healthcare_reporting_data.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_healthcare_reporting_data.private|has_healthcare_reporting_data.private]] 
 
-### #is_/same_as :: [has_healthcare_reporting_data.personal](/_personal/schema-org/Relation/has/has_healthcare_reporting_data.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_healthcare_reporting_data.personal|has_healthcare_reporting_data.personal]] 
 
-### #is_/same_as :: [has_healthcare_reporting_data.secret](/_secret/schema-org/Relation/has/has_healthcare_reporting_data.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_healthcare_reporting_data.secret|has_healthcare_reporting_data.secret]] 
 

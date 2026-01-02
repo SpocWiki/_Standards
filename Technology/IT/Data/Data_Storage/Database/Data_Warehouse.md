@@ -44,17 +44,17 @@ MeSH_tree_code:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Data_Warehouse](/_Standards/Technology/IT/Data/Data_Storage/Database/Data_Warehouse.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Data/Data_Storage/Database/Data_Warehouse|Data_Warehouse]] 
 
-### #is_/same_as :: [Data_Warehouse.public](/_public/Technology/IT/Data/Data_Storage/Database/Data_Warehouse.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Data/Data_Storage/Database/Data_Warehouse.public|Data_Warehouse.public]] 
 
-### #is_/same_as :: [Data_Warehouse.internal](/_internal/Technology/IT/Data/Data_Storage/Database/Data_Warehouse.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Data/Data_Storage/Database/Data_Warehouse.internal|Data_Warehouse.internal]] 
 
-### #is_/same_as :: [Data_Warehouse.protect](/_protect/Technology/IT/Data/Data_Storage/Database/Data_Warehouse.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Data/Data_Storage/Database/Data_Warehouse.protect|Data_Warehouse.protect]] 
 
-### #is_/same_as :: [Data_Warehouse.private](/_private/Technology/IT/Data/Data_Storage/Database/Data_Warehouse.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Data/Data_Storage/Database/Data_Warehouse.private|Data_Warehouse.private]] 
 
-### #is_/same_as :: [Data_Warehouse.personal](/_personal/Technology/IT/Data/Data_Storage/Database/Data_Warehouse.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Data/Data_Storage/Database/Data_Warehouse.personal|Data_Warehouse.personal]] 
 
-### #is_/same_as :: [Data_Warehouse.secret](/_secret/Technology/IT/Data/Data_Storage/Database/Data_Warehouse.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Data/Data_Storage/Database/Data_Warehouse.secret|Data_Warehouse.secret]] 
 

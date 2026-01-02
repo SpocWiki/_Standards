@@ -48,17 +48,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_verification_fact_checking_policy](/_Standards/schema-org/Relation/has/has_verification_fact_checking_policy.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_verification_fact_checking_policy|has_verification_fact_checking_policy]] 
 
-### #is_/same_as :: [has_verification_fact_checking_policy.public](/_public/schema-org/Relation/has/has_verification_fact_checking_policy.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_verification_fact_checking_policy.public|has_verification_fact_checking_policy.public]] 
 
-### #is_/same_as :: [has_verification_fact_checking_policy.internal](/_internal/schema-org/Relation/has/has_verification_fact_checking_policy.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_verification_fact_checking_policy.internal|has_verification_fact_checking_policy.internal]] 
 
-### #is_/same_as :: [has_verification_fact_checking_policy.protect](/_protect/schema-org/Relation/has/has_verification_fact_checking_policy.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_verification_fact_checking_policy.protect|has_verification_fact_checking_policy.protect]] 
 
-### #is_/same_as :: [has_verification_fact_checking_policy.private](/_private/schema-org/Relation/has/has_verification_fact_checking_policy.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_verification_fact_checking_policy.private|has_verification_fact_checking_policy.private]] 
 
-### #is_/same_as :: [has_verification_fact_checking_policy.personal](/_personal/schema-org/Relation/has/has_verification_fact_checking_policy.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_verification_fact_checking_policy.personal|has_verification_fact_checking_policy.personal]] 
 
-### #is_/same_as :: [has_verification_fact_checking_policy.secret](/_secret/schema-org/Relation/has/has_verification_fact_checking_policy.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_verification_fact_checking_policy.secret|has_verification_fact_checking_policy.secret]] 
 

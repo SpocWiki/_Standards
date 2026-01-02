@@ -42,17 +42,17 @@ The conventional Western system of medicine, that aims to apply the best availab
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Western_Conventional](/_Standards/bio/Medicine/Medical_Enumeration/Medicine_System/Western_Conventional.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Enumeration/Medicine_System/Western_Conventional|Western_Conventional]] 
 
-### #is_/same_as :: [Western_Conventional.public](/_public/bio/Medicine/Medical_Enumeration/Medicine_System/Western_Conventional.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Enumeration/Medicine_System/Western_Conventional.public|Western_Conventional.public]] 
 
-### #is_/same_as :: [Western_Conventional.internal](/_internal/bio/Medicine/Medical_Enumeration/Medicine_System/Western_Conventional.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Enumeration/Medicine_System/Western_Conventional.internal|Western_Conventional.internal]] 
 
-### #is_/same_as :: [Western_Conventional.protect](/_protect/bio/Medicine/Medical_Enumeration/Medicine_System/Western_Conventional.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Enumeration/Medicine_System/Western_Conventional.protect|Western_Conventional.protect]] 
 
-### #is_/same_as :: [Western_Conventional.private](/_private/bio/Medicine/Medical_Enumeration/Medicine_System/Western_Conventional.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Enumeration/Medicine_System/Western_Conventional.private|Western_Conventional.private]] 
 
-### #is_/same_as :: [Western_Conventional.personal](/_personal/bio/Medicine/Medical_Enumeration/Medicine_System/Western_Conventional.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Enumeration/Medicine_System/Western_Conventional.personal|Western_Conventional.personal]] 
 
-### #is_/same_as :: [Western_Conventional.secret](/_secret/bio/Medicine/Medical_Enumeration/Medicine_System/Western_Conventional.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Enumeration/Medicine_System/Western_Conventional.secret|Western_Conventional.secret]] 
 

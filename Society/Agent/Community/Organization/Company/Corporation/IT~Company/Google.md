@@ -655,17 +655,17 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Google](/_Standards/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Google.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Google|Google]] 
 
-### #is_/same_as :: [Google.public](/_public/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Google.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Google.public|Google.public]] 
 
-### #is_/same_as :: [Google.internal](/_internal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Google.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Google.internal|Google.internal]] 
 
-### #is_/same_as :: [Google.protect](/_protect/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Google.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Google.protect|Google.protect]] 
 
-### #is_/same_as :: [Google.private](/_private/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Google.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Google.private|Google.private]] 
 
-### #is_/same_as :: [Google.personal](/_personal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Google.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Google.personal|Google.personal]] 
 
-### #is_/same_as :: [Google.secret](/_secret/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Google.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Google.secret|Google.secret]] 
 

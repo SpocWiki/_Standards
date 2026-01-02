@@ -23,17 +23,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sodium_Carbonate](/_Standards/Chemistry/Inorganic_Chemistry/Carbon_Dioxide/Carbonate/Sodium_Carbonate.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Inorganic_Chemistry/Carbon_Dioxide/Carbonate/Sodium_Carbonate|Sodium_Carbonate]] 
 
-### #is_/same_as :: [Sodium_Carbonate.public](/_public/Chemistry/Inorganic_Chemistry/Carbon_Dioxide/Carbonate/Sodium_Carbonate.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Inorganic_Chemistry/Carbon_Dioxide/Carbonate/Sodium_Carbonate.public|Sodium_Carbonate.public]] 
 
-### #is_/same_as :: [Sodium_Carbonate.internal](/_internal/Chemistry/Inorganic_Chemistry/Carbon_Dioxide/Carbonate/Sodium_Carbonate.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Inorganic_Chemistry/Carbon_Dioxide/Carbonate/Sodium_Carbonate.internal|Sodium_Carbonate.internal]] 
 
-### #is_/same_as :: [Sodium_Carbonate.protect](/_protect/Chemistry/Inorganic_Chemistry/Carbon_Dioxide/Carbonate/Sodium_Carbonate.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Inorganic_Chemistry/Carbon_Dioxide/Carbonate/Sodium_Carbonate.protect|Sodium_Carbonate.protect]] 
 
-### #is_/same_as :: [Sodium_Carbonate.private](/_private/Chemistry/Inorganic_Chemistry/Carbon_Dioxide/Carbonate/Sodium_Carbonate.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Inorganic_Chemistry/Carbon_Dioxide/Carbonate/Sodium_Carbonate.private|Sodium_Carbonate.private]] 
 
-### #is_/same_as :: [Sodium_Carbonate.personal](/_personal/Chemistry/Inorganic_Chemistry/Carbon_Dioxide/Carbonate/Sodium_Carbonate.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Inorganic_Chemistry/Carbon_Dioxide/Carbonate/Sodium_Carbonate.personal|Sodium_Carbonate.personal]] 
 
-### #is_/same_as :: [Sodium_Carbonate.secret](/_secret/Chemistry/Inorganic_Chemistry/Carbon_Dioxide/Carbonate/Sodium_Carbonate.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Inorganic_Chemistry/Carbon_Dioxide/Carbonate/Sodium_Carbonate.secret|Sodium_Carbonate.secret]] 
 

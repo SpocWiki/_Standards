@@ -111,17 +111,17 @@ MeSH_tree_code:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Torture](/_Standards/schema-org/Class/is_a_/Action/Aggression/Violence/Torture.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Action/Aggression/Violence/Torture|Torture]] 
 
-### #is_/same_as :: [Torture.public](/_public/schema-org/Class/is_a_/Action/Aggression/Violence/Torture.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Action/Aggression/Violence/Torture.public|Torture.public]] 
 
-### #is_/same_as :: [Torture.internal](/_internal/schema-org/Class/is_a_/Action/Aggression/Violence/Torture.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Action/Aggression/Violence/Torture.internal|Torture.internal]] 
 
-### #is_/same_as :: [Torture.protect](/_protect/schema-org/Class/is_a_/Action/Aggression/Violence/Torture.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Action/Aggression/Violence/Torture.protect|Torture.protect]] 
 
-### #is_/same_as :: [Torture.private](/_private/schema-org/Class/is_a_/Action/Aggression/Violence/Torture.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Action/Aggression/Violence/Torture.private|Torture.private]] 
 
-### #is_/same_as :: [Torture.personal](/_personal/schema-org/Class/is_a_/Action/Aggression/Violence/Torture.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Action/Aggression/Violence/Torture.personal|Torture.personal]] 
 
-### #is_/same_as :: [Torture.secret](/_secret/schema-org/Class/is_a_/Action/Aggression/Violence/Torture.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Action/Aggression/Violence/Torture.secret|Torture.secret]] 
 

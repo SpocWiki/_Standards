@@ -42,17 +42,17 @@ Indicates that the event was changed to allow online participation. See [[eventA
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Event_Moved_Online](/_Standards/schema-org/Enumeration/Status_Enumeration/Event_Status_Type/Event_Moved_Online.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Status_Enumeration/Event_Status_Type/Event_Moved_Online|Event_Moved_Online]] 
 
-### #is_/same_as :: [Event_Moved_Online.public](/_public/schema-org/Enumeration/Status_Enumeration/Event_Status_Type/Event_Moved_Online.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Status_Enumeration/Event_Status_Type/Event_Moved_Online.public|Event_Moved_Online.public]] 
 
-### #is_/same_as :: [Event_Moved_Online.internal](/_internal/schema-org/Enumeration/Status_Enumeration/Event_Status_Type/Event_Moved_Online.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Status_Enumeration/Event_Status_Type/Event_Moved_Online.internal|Event_Moved_Online.internal]] 
 
-### #is_/same_as :: [Event_Moved_Online.protect](/_protect/schema-org/Enumeration/Status_Enumeration/Event_Status_Type/Event_Moved_Online.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Status_Enumeration/Event_Status_Type/Event_Moved_Online.protect|Event_Moved_Online.protect]] 
 
-### #is_/same_as :: [Event_Moved_Online.private](/_private/schema-org/Enumeration/Status_Enumeration/Event_Status_Type/Event_Moved_Online.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Status_Enumeration/Event_Status_Type/Event_Moved_Online.private|Event_Moved_Online.private]] 
 
-### #is_/same_as :: [Event_Moved_Online.personal](/_personal/schema-org/Enumeration/Status_Enumeration/Event_Status_Type/Event_Moved_Online.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Status_Enumeration/Event_Status_Type/Event_Moved_Online.personal|Event_Moved_Online.personal]] 
 
-### #is_/same_as :: [Event_Moved_Online.secret](/_secret/schema-org/Enumeration/Status_Enumeration/Event_Status_Type/Event_Moved_Online.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Status_Enumeration/Event_Status_Type/Event_Moved_Online.secret|Event_Moved_Online.secret]] 
 

@@ -196,17 +196,17 @@ translator:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Tale_of_Genji](/_Standards/Society/Communication/Genre/Fiction/Historical_Fiction/Tale_of_Genji.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Genre/Fiction/Historical_Fiction/Tale_of_Genji|Tale_of_Genji]] 
 
-### #is_/same_as :: [Tale_of_Genji.public](/_public/Society/Communication/Genre/Fiction/Historical_Fiction/Tale_of_Genji.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Genre/Fiction/Historical_Fiction/Tale_of_Genji.public|Tale_of_Genji.public]] 
 
-### #is_/same_as :: [Tale_of_Genji.internal](/_internal/Society/Communication/Genre/Fiction/Historical_Fiction/Tale_of_Genji.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Genre/Fiction/Historical_Fiction/Tale_of_Genji.internal|Tale_of_Genji.internal]] 
 
-### #is_/same_as :: [Tale_of_Genji.protect](/_protect/Society/Communication/Genre/Fiction/Historical_Fiction/Tale_of_Genji.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Genre/Fiction/Historical_Fiction/Tale_of_Genji.protect|Tale_of_Genji.protect]] 
 
-### #is_/same_as :: [Tale_of_Genji.private](/_private/Society/Communication/Genre/Fiction/Historical_Fiction/Tale_of_Genji.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Genre/Fiction/Historical_Fiction/Tale_of_Genji.private|Tale_of_Genji.private]] 
 
-### #is_/same_as :: [Tale_of_Genji.personal](/_personal/Society/Communication/Genre/Fiction/Historical_Fiction/Tale_of_Genji.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Genre/Fiction/Historical_Fiction/Tale_of_Genji.personal|Tale_of_Genji.personal]] 
 
-### #is_/same_as :: [Tale_of_Genji.secret](/_secret/Society/Communication/Genre/Fiction/Historical_Fiction/Tale_of_Genji.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Genre/Fiction/Historical_Fiction/Tale_of_Genji.secret|Tale_of_Genji.secret]] 
 

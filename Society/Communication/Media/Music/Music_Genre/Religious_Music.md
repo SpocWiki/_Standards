@@ -51,17 +51,17 @@ Dewey_Decimal_Classification: "781.7"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Religious_Music](/_Standards/Society/Communication/Media/Music/Music_Genre/Religious_Music.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Music_Genre/Religious_Music|Religious_Music]] 
 
-### #is_/same_as :: [Religious_Music.public](/_public/Society/Communication/Media/Music/Music_Genre/Religious_Music.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Music_Genre/Religious_Music.public|Religious_Music.public]] 
 
-### #is_/same_as :: [Religious_Music.internal](/_internal/Society/Communication/Media/Music/Music_Genre/Religious_Music.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Music_Genre/Religious_Music.internal|Religious_Music.internal]] 
 
-### #is_/same_as :: [Religious_Music.protect](/_protect/Society/Communication/Media/Music/Music_Genre/Religious_Music.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Music_Genre/Religious_Music.protect|Religious_Music.protect]] 
 
-### #is_/same_as :: [Religious_Music.private](/_private/Society/Communication/Media/Music/Music_Genre/Religious_Music.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Music_Genre/Religious_Music.private|Religious_Music.private]] 
 
-### #is_/same_as :: [Religious_Music.personal](/_personal/Society/Communication/Media/Music/Music_Genre/Religious_Music.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Music_Genre/Religious_Music.personal|Religious_Music.personal]] 
 
-### #is_/same_as :: [Religious_Music.secret](/_secret/Society/Communication/Media/Music/Music_Genre/Religious_Music.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Music_Genre/Religious_Music.secret|Religious_Music.secret]] 
 

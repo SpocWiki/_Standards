@@ -10,7 +10,7 @@ title: Magnapinna sp. B
 # *Magnapinna sp. B* 
 
 [Michael Vecchione and Richard E. Young]()
-![ ](Magnapinna_B/MagnaPinMEtitle.jpg))
+![ ](Magnapinna_B/MagnaPinMEtitle.jpg) 
 
 Containing group:[Magnapinnidae](../Magnapinnidae.md) 
 
@@ -87,7 +87,7 @@ Vecchione, M. and R. E. Young. 2006. The squid family Magnapinnidae
 
 ## Title Illustrations
 
-![](Magnapinna_B/MagnaPinMEtitle.jpg))
+![](Magnapinna_B/MagnaPinMEtitle.jpg) 
 
   -----------------------------------------------------------------------
   Scientific Name ::     Magnapinna sp. B
@@ -102,17 +102,17 @@ Vecchione, M. and R. E. Young. 2006. The squid family Magnapinnidae
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Magnapinna_B](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Magnapinnidae/Magnapinna_B.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Magnapinnidae/Magnapinna_B|Magnapinna_B]] 
 
-### #is_/same_as :: [Magnapinna_B.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Magnapinnidae/Magnapinna_B.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Magnapinnidae/Magnapinna_B.public|Magnapinna_B.public]] 
 
-### #is_/same_as :: [Magnapinna_B.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Magnapinnidae/Magnapinna_B.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Magnapinnidae/Magnapinna_B.internal|Magnapinna_B.internal]] 
 
-### #is_/same_as :: [Magnapinna_B.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Magnapinnidae/Magnapinna_B.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Magnapinnidae/Magnapinna_B.protect|Magnapinna_B.protect]] 
 
-### #is_/same_as :: [Magnapinna_B.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Magnapinnidae/Magnapinna_B.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Magnapinnidae/Magnapinna_B.private|Magnapinna_B.private]] 
 
-### #is_/same_as :: [Magnapinna_B.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Magnapinnidae/Magnapinna_B.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Magnapinnidae/Magnapinna_B.personal|Magnapinna_B.personal]] 
 
-### #is_/same_as :: [Magnapinna_B.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Magnapinnidae/Magnapinna_B.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Magnapinnidae/Magnapinna_B.secret|Magnapinna_B.secret]] 
 

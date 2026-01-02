@@ -36,17 +36,17 @@ PhilPapers_topic: gestalt-theory
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Gestalt_Psychology](/_Standards/bio/Psychology/Gestalt_Psychology.md) 
+### #is_/same_as :: [[/_Standards/bio/Psychology/Gestalt_Psychology|Gestalt_Psychology]] 
 
-### #is_/same_as :: [Gestalt_Psychology.public](/_public/bio/Psychology/Gestalt_Psychology.public.md) 
+### #is_/same_as :: [[/_public/bio/Psychology/Gestalt_Psychology.public|Gestalt_Psychology.public]] 
 
-### #is_/same_as :: [Gestalt_Psychology.internal](/_internal/bio/Psychology/Gestalt_Psychology.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Psychology/Gestalt_Psychology.internal|Gestalt_Psychology.internal]] 
 
-### #is_/same_as :: [Gestalt_Psychology.protect](/_protect/bio/Psychology/Gestalt_Psychology.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Psychology/Gestalt_Psychology.protect|Gestalt_Psychology.protect]] 
 
-### #is_/same_as :: [Gestalt_Psychology.private](/_private/bio/Psychology/Gestalt_Psychology.private.md) 
+### #is_/same_as :: [[/_private/bio/Psychology/Gestalt_Psychology.private|Gestalt_Psychology.private]] 
 
-### #is_/same_as :: [Gestalt_Psychology.personal](/_personal/bio/Psychology/Gestalt_Psychology.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Psychology/Gestalt_Psychology.personal|Gestalt_Psychology.personal]] 
 
-### #is_/same_as :: [Gestalt_Psychology.secret](/_secret/bio/Psychology/Gestalt_Psychology.secret.md)
+### #is_/same_as :: [[/_secret/bio/Psychology/Gestalt_Psychology.secret|Gestalt_Psychology.secret]] 
 

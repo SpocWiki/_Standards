@@ -72,17 +72,17 @@ IPTC_NewsCode: mediatopic/20000610
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Head_of_State](/_Standards/Society/Politics/Government/Leader/Head_of_State.md) 
+### #is_/same_as :: [[/_Standards/Society/Politics/Government/Leader/Head_of_State|Head_of_State]] 
 
-### #is_/same_as :: [Head_of_State.public](/_public/Society/Politics/Government/Leader/Head_of_State.public.md) 
+### #is_/same_as :: [[/_public/Society/Politics/Government/Leader/Head_of_State.public|Head_of_State.public]] 
 
-### #is_/same_as :: [Head_of_State.internal](/_internal/Society/Politics/Government/Leader/Head_of_State.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Politics/Government/Leader/Head_of_State.internal|Head_of_State.internal]] 
 
-### #is_/same_as :: [Head_of_State.protect](/_protect/Society/Politics/Government/Leader/Head_of_State.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Politics/Government/Leader/Head_of_State.protect|Head_of_State.protect]] 
 
-### #is_/same_as :: [Head_of_State.private](/_private/Society/Politics/Government/Leader/Head_of_State.private.md) 
+### #is_/same_as :: [[/_private/Society/Politics/Government/Leader/Head_of_State.private|Head_of_State.private]] 
 
-### #is_/same_as :: [Head_of_State.personal](/_personal/Society/Politics/Government/Leader/Head_of_State.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Politics/Government/Leader/Head_of_State.personal|Head_of_State.personal]] 
 
-### #is_/same_as :: [Head_of_State.secret](/_secret/Society/Politics/Government/Leader/Head_of_State.secret.md)
+### #is_/same_as :: [[/_secret/Society/Politics/Government/Leader/Head_of_State.secret|Head_of_State.secret]] 
 

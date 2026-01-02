@@ -53,17 +53,17 @@ MeSH_tree_code: E05.196.181
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Chromatography](/_Standards/Chemistry/Substance/Mixture/Chromatography.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Substance/Mixture/Chromatography|Chromatography]] 
 
-### #is_/same_as :: [Chromatography.public](/_public/Chemistry/Substance/Mixture/Chromatography.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Substance/Mixture/Chromatography.public|Chromatography.public]] 
 
-### #is_/same_as :: [Chromatography.internal](/_internal/Chemistry/Substance/Mixture/Chromatography.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Substance/Mixture/Chromatography.internal|Chromatography.internal]] 
 
-### #is_/same_as :: [Chromatography.protect](/_protect/Chemistry/Substance/Mixture/Chromatography.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Substance/Mixture/Chromatography.protect|Chromatography.protect]] 
 
-### #is_/same_as :: [Chromatography.private](/_private/Chemistry/Substance/Mixture/Chromatography.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Substance/Mixture/Chromatography.private|Chromatography.private]] 
 
-### #is_/same_as :: [Chromatography.personal](/_personal/Chemistry/Substance/Mixture/Chromatography.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Substance/Mixture/Chromatography.personal|Chromatography.personal]] 
 
-### #is_/same_as :: [Chromatography.secret](/_secret/Chemistry/Substance/Mixture/Chromatography.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Substance/Mixture/Chromatography.secret|Chromatography.secret]] 
 

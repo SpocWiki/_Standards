@@ -41,17 +41,17 @@ As a [[LocalBusiness]] it can be described as a [[provider]] of one or more [[..
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~HomeAndConstructionBusiness](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HomeAndConstructionBusiness.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HomeAndConstructionBusiness|FileClass~HomeAndConstructionBusiness]] 
 
-### #is_/same_as :: [FileClass~HomeAndConstructionBusiness.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HomeAndConstructionBusiness.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HomeAndConstructionBusiness.public|FileClass~HomeAndConstructionBusiness.public]] 
 
-### #is_/same_as :: [FileClass~HomeAndConstructionBusiness.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HomeAndConstructionBusiness.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HomeAndConstructionBusiness.internal|FileClass~HomeAndConstructionBusiness.internal]] 
 
-### #is_/same_as :: [FileClass~HomeAndConstructionBusiness.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HomeAndConstructionBusiness.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HomeAndConstructionBusiness.protect|FileClass~HomeAndConstructionBusiness.protect]] 
 
-### #is_/same_as :: [FileClass~HomeAndConstructionBusiness.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HomeAndConstructionBusiness.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HomeAndConstructionBusiness.private|FileClass~HomeAndConstructionBusiness.private]] 
 
-### #is_/same_as :: [FileClass~HomeAndConstructionBusiness.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HomeAndConstructionBusiness.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HomeAndConstructionBusiness.personal|FileClass~HomeAndConstructionBusiness.personal]] 
 
-### #is_/same_as :: [FileClass~HomeAndConstructionBusiness.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HomeAndConstructionBusiness.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HomeAndConstructionBusiness.secret|FileClass~HomeAndConstructionBusiness.secret]] 
 

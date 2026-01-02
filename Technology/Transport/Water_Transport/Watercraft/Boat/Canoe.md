@@ -57,17 +57,17 @@ name: kom
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Canoe](/_Standards/Technology/Transport/Water_Transport/Watercraft/Boat/Canoe.md) 
+### #is_/same_as :: [[/_Standards/Technology/Transport/Water_Transport/Watercraft/Boat/Canoe|Canoe]] 
 
-### #is_/same_as :: [Canoe.public](/_public/Technology/Transport/Water_Transport/Watercraft/Boat/Canoe.public.md) 
+### #is_/same_as :: [[/_public/Technology/Transport/Water_Transport/Watercraft/Boat/Canoe.public|Canoe.public]] 
 
-### #is_/same_as :: [Canoe.internal](/_internal/Technology/Transport/Water_Transport/Watercraft/Boat/Canoe.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Transport/Water_Transport/Watercraft/Boat/Canoe.internal|Canoe.internal]] 
 
-### #is_/same_as :: [Canoe.protect](/_protect/Technology/Transport/Water_Transport/Watercraft/Boat/Canoe.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Transport/Water_Transport/Watercraft/Boat/Canoe.protect|Canoe.protect]] 
 
-### #is_/same_as :: [Canoe.private](/_private/Technology/Transport/Water_Transport/Watercraft/Boat/Canoe.private.md) 
+### #is_/same_as :: [[/_private/Technology/Transport/Water_Transport/Watercraft/Boat/Canoe.private|Canoe.private]] 
 
-### #is_/same_as :: [Canoe.personal](/_personal/Technology/Transport/Water_Transport/Watercraft/Boat/Canoe.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Transport/Water_Transport/Watercraft/Boat/Canoe.personal|Canoe.personal]] 
 
-### #is_/same_as :: [Canoe.secret](/_secret/Technology/Transport/Water_Transport/Watercraft/Boat/Canoe.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Transport/Water_Transport/Watercraft/Boat/Canoe.secret|Canoe.secret]] 
 

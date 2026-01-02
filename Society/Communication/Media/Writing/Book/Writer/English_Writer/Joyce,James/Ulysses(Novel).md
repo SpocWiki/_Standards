@@ -56,17 +56,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ulysses(Novel)](/_Standards/Society/Communication/Media/Writing/Book/Writer/English_Writer/Joyce,James/Ulysses(Novel).md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Writer/English_Writer/Joyce,James/Ulysses(Novel)|Ulysses(Novel)]] 
 
-### #is_/same_as :: [Ulysses(Novel).public](/_public/Society/Communication/Media/Writing/Book/Writer/English_Writer/Joyce,James/Ulysses(Novel).public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Writer/English_Writer/Joyce,James/Ulysses(Novel).public|Ulysses(Novel).public]] 
 
-### #is_/same_as :: [Ulysses(Novel).internal](/_internal/Society/Communication/Media/Writing/Book/Writer/English_Writer/Joyce,James/Ulysses(Novel).internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Writer/English_Writer/Joyce,James/Ulysses(Novel).internal|Ulysses(Novel).internal]] 
 
-### #is_/same_as :: [Ulysses(Novel).protect](/_protect/Society/Communication/Media/Writing/Book/Writer/English_Writer/Joyce,James/Ulysses(Novel).protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Writer/English_Writer/Joyce,James/Ulysses(Novel).protect|Ulysses(Novel).protect]] 
 
-### #is_/same_as :: [Ulysses(Novel).private](/_private/Society/Communication/Media/Writing/Book/Writer/English_Writer/Joyce,James/Ulysses(Novel).private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Writer/English_Writer/Joyce,James/Ulysses(Novel).private|Ulysses(Novel).private]] 
 
-### #is_/same_as :: [Ulysses(Novel).personal](/_personal/Society/Communication/Media/Writing/Book/Writer/English_Writer/Joyce,James/Ulysses(Novel).personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Writer/English_Writer/Joyce,James/Ulysses(Novel).personal|Ulysses(Novel).personal]] 
 
-### #is_/same_as :: [Ulysses(Novel).secret](/_secret/Society/Communication/Media/Writing/Book/Writer/English_Writer/Joyce,James/Ulysses(Novel).secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Writer/English_Writer/Joyce,James/Ulysses(Novel).secret|Ulysses(Novel).secret]] 
 

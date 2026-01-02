@@ -40,17 +40,17 @@ inception: -0677-01-01T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Medes](/_Standards/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Medes.md) 
+### #is_/same_as :: [[/_Standards/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Medes|Medes]] 
 
-### #is_/same_as :: [Medes.public](/_public/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Medes.public.md) 
+### #is_/same_as :: [[/_public/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Medes.public|Medes.public]] 
 
-### #is_/same_as :: [Medes.internal](/_internal/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Medes.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Medes.internal|Medes.internal]] 
 
-### #is_/same_as :: [Medes.protect](/_protect/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Medes.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Medes.protect|Medes.protect]] 
 
-### #is_/same_as :: [Medes.private](/_private/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Medes.private.md) 
+### #is_/same_as :: [[/_private/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Medes.private|Medes.private]] 
 
-### #is_/same_as :: [Medes.personal](/_personal/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Medes.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Medes.personal|Medes.personal]] 
 
-### #is_/same_as :: [Medes.secret](/_secret/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Medes.secret.md)
+### #is_/same_as :: [[/_secret/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Medes.secret|Medes.secret]] 
 

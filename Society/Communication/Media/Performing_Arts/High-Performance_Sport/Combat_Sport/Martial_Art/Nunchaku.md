@@ -54,17 +54,17 @@ IMDb_keyword: nunchaku
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Nunchaku](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Martial_Art/Nunchaku.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Martial_Art/Nunchaku|Nunchaku]] 
 
-### #is_/same_as :: [Nunchaku.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Martial_Art/Nunchaku.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Martial_Art/Nunchaku.public|Nunchaku.public]] 
 
-### #is_/same_as :: [Nunchaku.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Martial_Art/Nunchaku.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Martial_Art/Nunchaku.internal|Nunchaku.internal]] 
 
-### #is_/same_as :: [Nunchaku.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Martial_Art/Nunchaku.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Martial_Art/Nunchaku.protect|Nunchaku.protect]] 
 
-### #is_/same_as :: [Nunchaku.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Martial_Art/Nunchaku.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Martial_Art/Nunchaku.private|Nunchaku.private]] 
 
-### #is_/same_as :: [Nunchaku.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Martial_Art/Nunchaku.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Martial_Art/Nunchaku.personal|Nunchaku.personal]] 
 
-### #is_/same_as :: [Nunchaku.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Martial_Art/Nunchaku.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Martial_Art/Nunchaku.secret|Nunchaku.secret]] 
 

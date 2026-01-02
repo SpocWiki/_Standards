@@ -33,17 +33,17 @@ Stack_Exchange_tag: https://astronomy.stackexchange.com/tags/protostar
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Protostar](/_Standards/Astronomy/Star/Star~Class/Protostar.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Star/Star~Class/Protostar|Protostar]] 
 
-### #is_/same_as :: [Protostar.public](/_public/Astronomy/Star/Star~Class/Protostar.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Star/Star~Class/Protostar.public|Protostar.public]] 
 
-### #is_/same_as :: [Protostar.internal](/_internal/Astronomy/Star/Star~Class/Protostar.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Star/Star~Class/Protostar.internal|Protostar.internal]] 
 
-### #is_/same_as :: [Protostar.protect](/_protect/Astronomy/Star/Star~Class/Protostar.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Star/Star~Class/Protostar.protect|Protostar.protect]] 
 
-### #is_/same_as :: [Protostar.private](/_private/Astronomy/Star/Star~Class/Protostar.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Star/Star~Class/Protostar.private|Protostar.private]] 
 
-### #is_/same_as :: [Protostar.personal](/_personal/Astronomy/Star/Star~Class/Protostar.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Star/Star~Class/Protostar.personal|Protostar.personal]] 
 
-### #is_/same_as :: [Protostar.secret](/_secret/Astronomy/Star/Star~Class/Protostar.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Star/Star~Class/Protostar.secret|Protostar.secret]] 
 

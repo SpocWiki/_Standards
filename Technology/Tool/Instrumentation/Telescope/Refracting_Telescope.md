@@ -44,17 +44,17 @@ Commons_category: Refracting telescopes
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Refracting_Telescope](/_Standards/Technology/Tool/Instrumentation/Telescope/Refracting_Telescope.md) 
+### #is_/same_as :: [[/_Standards/Technology/Tool/Instrumentation/Telescope/Refracting_Telescope|Refracting_Telescope]] 
 
-### #is_/same_as :: [Refracting_Telescope.public](/_public/Technology/Tool/Instrumentation/Telescope/Refracting_Telescope.public.md) 
+### #is_/same_as :: [[/_public/Technology/Tool/Instrumentation/Telescope/Refracting_Telescope.public|Refracting_Telescope.public]] 
 
-### #is_/same_as :: [Refracting_Telescope.internal](/_internal/Technology/Tool/Instrumentation/Telescope/Refracting_Telescope.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Tool/Instrumentation/Telescope/Refracting_Telescope.internal|Refracting_Telescope.internal]] 
 
-### #is_/same_as :: [Refracting_Telescope.protect](/_protect/Technology/Tool/Instrumentation/Telescope/Refracting_Telescope.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Tool/Instrumentation/Telescope/Refracting_Telescope.protect|Refracting_Telescope.protect]] 
 
-### #is_/same_as :: [Refracting_Telescope.private](/_private/Technology/Tool/Instrumentation/Telescope/Refracting_Telescope.private.md) 
+### #is_/same_as :: [[/_private/Technology/Tool/Instrumentation/Telescope/Refracting_Telescope.private|Refracting_Telescope.private]] 
 
-### #is_/same_as :: [Refracting_Telescope.personal](/_personal/Technology/Tool/Instrumentation/Telescope/Refracting_Telescope.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Tool/Instrumentation/Telescope/Refracting_Telescope.personal|Refracting_Telescope.personal]] 
 
-### #is_/same_as :: [Refracting_Telescope.secret](/_secret/Technology/Tool/Instrumentation/Telescope/Refracting_Telescope.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Tool/Instrumentation/Telescope/Refracting_Telescope.secret|Refracting_Telescope.secret]] 
 

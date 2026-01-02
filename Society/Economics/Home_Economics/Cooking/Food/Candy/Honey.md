@@ -100,17 +100,17 @@ Wolfram_Language_entity_code: Entity["Concept", "Honey::5y246"]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Honey](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Candy/Honey.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Home_Economics/Cooking/Food/Candy/Honey|Honey]] 
 
-### #is_/same_as :: [Honey.public](/_public/Society/Economics/Home_Economics/Cooking/Food/Candy/Honey.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Home_Economics/Cooking/Food/Candy/Honey.public|Honey.public]] 
 
-### #is_/same_as :: [Honey.internal](/_internal/Society/Economics/Home_Economics/Cooking/Food/Candy/Honey.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Home_Economics/Cooking/Food/Candy/Honey.internal|Honey.internal]] 
 
-### #is_/same_as :: [Honey.protect](/_protect/Society/Economics/Home_Economics/Cooking/Food/Candy/Honey.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Home_Economics/Cooking/Food/Candy/Honey.protect|Honey.protect]] 
 
-### #is_/same_as :: [Honey.private](/_private/Society/Economics/Home_Economics/Cooking/Food/Candy/Honey.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Home_Economics/Cooking/Food/Candy/Honey.private|Honey.private]] 
 
-### #is_/same_as :: [Honey.personal](/_personal/Society/Economics/Home_Economics/Cooking/Food/Candy/Honey.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Home_Economics/Cooking/Food/Candy/Honey.personal|Honey.personal]] 
 
-### #is_/same_as :: [Honey.secret](/_secret/Society/Economics/Home_Economics/Cooking/Food/Candy/Honey.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Home_Economics/Cooking/Food/Candy/Honey.secret|Honey.secret]] 
 

@@ -73,17 +73,17 @@ Krugosvet_article: kultura_i_obrazovanie/muzyka/AKKORD.html
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Chord](/_Standards/Society/Communication/Media/Music/Chord.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Chord|Chord]] 
 
-### #is_/same_as :: [Chord.public](/_public/Society/Communication/Media/Music/Chord.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Chord.public|Chord.public]] 
 
-### #is_/same_as :: [Chord.internal](/_internal/Society/Communication/Media/Music/Chord.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Chord.internal|Chord.internal]] 
 
-### #is_/same_as :: [Chord.protect](/_protect/Society/Communication/Media/Music/Chord.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Chord.protect|Chord.protect]] 
 
-### #is_/same_as :: [Chord.private](/_private/Society/Communication/Media/Music/Chord.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Chord.private|Chord.private]] 
 
-### #is_/same_as :: [Chord.personal](/_personal/Society/Communication/Media/Music/Chord.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Chord.personal|Chord.personal]] 
 
-### #is_/same_as :: [Chord.secret](/_secret/Society/Communication/Media/Music/Chord.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Chord.secret|Chord.secret]] 
 

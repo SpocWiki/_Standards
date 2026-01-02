@@ -41,17 +41,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Spartacus,film](/_Standards/Society/Communication/Media/Movie/Movie-Director/Kubrick,Stanley/Spartacus,film.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Director/Kubrick,Stanley/Spartacus,film|Spartacus,film]] 
 
-### #is_/same_as :: [Spartacus,film.public](/_public/Society/Communication/Media/Movie/Movie-Director/Kubrick,Stanley/Spartacus,film.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Director/Kubrick,Stanley/Spartacus,film.public|Spartacus,film.public]] 
 
-### #is_/same_as :: [Spartacus,film.internal](/_internal/Society/Communication/Media/Movie/Movie-Director/Kubrick,Stanley/Spartacus,film.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Director/Kubrick,Stanley/Spartacus,film.internal|Spartacus,film.internal]] 
 
-### #is_/same_as :: [Spartacus,film.protect](/_protect/Society/Communication/Media/Movie/Movie-Director/Kubrick,Stanley/Spartacus,film.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Director/Kubrick,Stanley/Spartacus,film.protect|Spartacus,film.protect]] 
 
-### #is_/same_as :: [Spartacus,film.private](/_private/Society/Communication/Media/Movie/Movie-Director/Kubrick,Stanley/Spartacus,film.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Director/Kubrick,Stanley/Spartacus,film.private|Spartacus,film.private]] 
 
-### #is_/same_as :: [Spartacus,film.personal](/_personal/Society/Communication/Media/Movie/Movie-Director/Kubrick,Stanley/Spartacus,film.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Director/Kubrick,Stanley/Spartacus,film.personal|Spartacus,film.personal]] 
 
-### #is_/same_as :: [Spartacus,film.secret](/_secret/Society/Communication/Media/Movie/Movie-Director/Kubrick,Stanley/Spartacus,film.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Director/Kubrick,Stanley/Spartacus,film.secret|Spartacus,film.secret]] 
 

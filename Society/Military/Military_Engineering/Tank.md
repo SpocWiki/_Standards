@@ -84,17 +84,17 @@ Dewey_Decimal_Classification: 358.1883
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Tank](/_Standards/Society/Military/Military_Engineering/Tank.md) 
+### #is_/same_as :: [[/_Standards/Society/Military/Military_Engineering/Tank|Tank]] 
 
-### #is_/same_as :: [Tank.public](/_public/Society/Military/Military_Engineering/Tank.public.md) 
+### #is_/same_as :: [[/_public/Society/Military/Military_Engineering/Tank.public|Tank.public]] 
 
-### #is_/same_as :: [Tank.internal](/_internal/Society/Military/Military_Engineering/Tank.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Military/Military_Engineering/Tank.internal|Tank.internal]] 
 
-### #is_/same_as :: [Tank.protect](/_protect/Society/Military/Military_Engineering/Tank.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Military/Military_Engineering/Tank.protect|Tank.protect]] 
 
-### #is_/same_as :: [Tank.private](/_private/Society/Military/Military_Engineering/Tank.private.md) 
+### #is_/same_as :: [[/_private/Society/Military/Military_Engineering/Tank.private|Tank.private]] 
 
-### #is_/same_as :: [Tank.personal](/_personal/Society/Military/Military_Engineering/Tank.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Military/Military_Engineering/Tank.personal|Tank.personal]] 
 
-### #is_/same_as :: [Tank.secret](/_secret/Society/Military/Military_Engineering/Tank.secret.md)
+### #is_/same_as :: [[/_secret/Society/Military/Military_Engineering/Tank.secret|Tank.secret]] 
 

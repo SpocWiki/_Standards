@@ -77,17 +77,17 @@ ISNI: 0000000113390245
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Cavalieri,Bonaventura](/_Standards/Mathematics/Mathematician/Classical_Mathematician/Cavalieri,Bonaventura.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Mathematician/Classical_Mathematician/Cavalieri,Bonaventura|Cavalieri,Bonaventura]] 
 
-### #is_/same_as :: [Cavalieri,Bonaventura.public](/_public/Mathematics/Mathematician/Classical_Mathematician/Cavalieri,Bonaventura.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Mathematician/Classical_Mathematician/Cavalieri,Bonaventura.public|Cavalieri,Bonaventura.public]] 
 
-### #is_/same_as :: [Cavalieri,Bonaventura.internal](/_internal/Mathematics/Mathematician/Classical_Mathematician/Cavalieri,Bonaventura.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Mathematician/Classical_Mathematician/Cavalieri,Bonaventura.internal|Cavalieri,Bonaventura.internal]] 
 
-### #is_/same_as :: [Cavalieri,Bonaventura.protect](/_protect/Mathematics/Mathematician/Classical_Mathematician/Cavalieri,Bonaventura.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Mathematician/Classical_Mathematician/Cavalieri,Bonaventura.protect|Cavalieri,Bonaventura.protect]] 
 
-### #is_/same_as :: [Cavalieri,Bonaventura.private](/_private/Mathematics/Mathematician/Classical_Mathematician/Cavalieri,Bonaventura.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Mathematician/Classical_Mathematician/Cavalieri,Bonaventura.private|Cavalieri,Bonaventura.private]] 
 
-### #is_/same_as :: [Cavalieri,Bonaventura.personal](/_personal/Mathematics/Mathematician/Classical_Mathematician/Cavalieri,Bonaventura.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Mathematician/Classical_Mathematician/Cavalieri,Bonaventura.personal|Cavalieri,Bonaventura.personal]] 
 
-### #is_/same_as :: [Cavalieri,Bonaventura.secret](/_secret/Mathematics/Mathematician/Classical_Mathematician/Cavalieri,Bonaventura.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Mathematician/Classical_Mathematician/Cavalieri,Bonaventura.secret|Cavalieri,Bonaventura.secret]] 
 

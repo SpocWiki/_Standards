@@ -67,17 +67,17 @@ Unit :: #Unit/SI/rad
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Radian](/_Standards/Dimension/Unit_of_Measurement/SI-Unit/Radian.md) 
+### #is_/same_as :: [[/_Standards/Dimension/Unit_of_Measurement/SI-Unit/Radian|Radian]] 
 
-### #is_/same_as :: [Radian.public](/_public/Dimension/Unit_of_Measurement/SI-Unit/Radian.public.md) 
+### #is_/same_as :: [[/_public/Dimension/Unit_of_Measurement/SI-Unit/Radian.public|Radian.public]] 
 
-### #is_/same_as :: [Radian.internal](/_internal/Dimension/Unit_of_Measurement/SI-Unit/Radian.internal.md) 
+### #is_/same_as :: [[/_internal/Dimension/Unit_of_Measurement/SI-Unit/Radian.internal|Radian.internal]] 
 
-### #is_/same_as :: [Radian.protect](/_protect/Dimension/Unit_of_Measurement/SI-Unit/Radian.protect.md) 
+### #is_/same_as :: [[/_protect/Dimension/Unit_of_Measurement/SI-Unit/Radian.protect|Radian.protect]] 
 
-### #is_/same_as :: [Radian.private](/_private/Dimension/Unit_of_Measurement/SI-Unit/Radian.private.md) 
+### #is_/same_as :: [[/_private/Dimension/Unit_of_Measurement/SI-Unit/Radian.private|Radian.private]] 
 
-### #is_/same_as :: [Radian.personal](/_personal/Dimension/Unit_of_Measurement/SI-Unit/Radian.personal.md) 
+### #is_/same_as :: [[/_personal/Dimension/Unit_of_Measurement/SI-Unit/Radian.personal|Radian.personal]] 
 
-### #is_/same_as :: [Radian.secret](/_secret/Dimension/Unit_of_Measurement/SI-Unit/Radian.secret.md)
+### #is_/same_as :: [[/_secret/Dimension/Unit_of_Measurement/SI-Unit/Radian.secret|Radian.secret]] 
 

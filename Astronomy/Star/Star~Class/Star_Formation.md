@@ -39,17 +39,17 @@ Commons_category: Star formation
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Star_Formation](/_Standards/Astronomy/Star/Star~Class/Star_Formation.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Star/Star~Class/Star_Formation|Star_Formation]] 
 
-### #is_/same_as :: [Star_Formation.public](/_public/Astronomy/Star/Star~Class/Star_Formation.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Star/Star~Class/Star_Formation.public|Star_Formation.public]] 
 
-### #is_/same_as :: [Star_Formation.internal](/_internal/Astronomy/Star/Star~Class/Star_Formation.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Star/Star~Class/Star_Formation.internal|Star_Formation.internal]] 
 
-### #is_/same_as :: [Star_Formation.protect](/_protect/Astronomy/Star/Star~Class/Star_Formation.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Star/Star~Class/Star_Formation.protect|Star_Formation.protect]] 
 
-### #is_/same_as :: [Star_Formation.private](/_private/Astronomy/Star/Star~Class/Star_Formation.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Star/Star~Class/Star_Formation.private|Star_Formation.private]] 
 
-### #is_/same_as :: [Star_Formation.personal](/_personal/Astronomy/Star/Star~Class/Star_Formation.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Star/Star~Class/Star_Formation.personal|Star_Formation.personal]] 
 
-### #is_/same_as :: [Star_Formation.secret](/_secret/Astronomy/Star/Star~Class/Star_Formation.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Star/Star~Class/Star_Formation.secret|Star_Formation.secret]] 
 

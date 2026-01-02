@@ -254,17 +254,17 @@ Krugosvet_article: kultura_i_obrazovanie/izobrazitelnoe_iskusstvo/MUNK_EDVARD.ht
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Munch,Edvard](/_Standards/Society/Communication/Media/Painting/Painter/Munch,Edvard.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Painting/Painter/Munch,Edvard|Munch,Edvard]] 
 
-### #is_/same_as :: [Munch,Edvard.public](/_public/Society/Communication/Media/Painting/Painter/Munch,Edvard.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Painting/Painter/Munch,Edvard.public|Munch,Edvard.public]] 
 
-### #is_/same_as :: [Munch,Edvard.internal](/_internal/Society/Communication/Media/Painting/Painter/Munch,Edvard.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Painting/Painter/Munch,Edvard.internal|Munch,Edvard.internal]] 
 
-### #is_/same_as :: [Munch,Edvard.protect](/_protect/Society/Communication/Media/Painting/Painter/Munch,Edvard.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Painting/Painter/Munch,Edvard.protect|Munch,Edvard.protect]] 
 
-### #is_/same_as :: [Munch,Edvard.private](/_private/Society/Communication/Media/Painting/Painter/Munch,Edvard.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Painting/Painter/Munch,Edvard.private|Munch,Edvard.private]] 
 
-### #is_/same_as :: [Munch,Edvard.personal](/_personal/Society/Communication/Media/Painting/Painter/Munch,Edvard.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Painting/Painter/Munch,Edvard.personal|Munch,Edvard.personal]] 
 
-### #is_/same_as :: [Munch,Edvard.secret](/_secret/Society/Communication/Media/Painting/Painter/Munch,Edvard.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Painting/Painter/Munch,Edvard.secret|Munch,Edvard.secret]] 
 

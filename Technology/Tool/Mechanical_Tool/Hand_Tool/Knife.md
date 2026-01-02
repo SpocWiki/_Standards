@@ -82,17 +82,17 @@ subreddit: knives
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Knife](/_Standards/Technology/Tool/Mechanical_Tool/Hand_Tool/Knife.md) 
+### #is_/same_as :: [[/_Standards/Technology/Tool/Mechanical_Tool/Hand_Tool/Knife|Knife]] 
 
-### #is_/same_as :: [Knife.public](/_public/Technology/Tool/Mechanical_Tool/Hand_Tool/Knife.public.md) 
+### #is_/same_as :: [[/_public/Technology/Tool/Mechanical_Tool/Hand_Tool/Knife.public|Knife.public]] 
 
-### #is_/same_as :: [Knife.internal](/_internal/Technology/Tool/Mechanical_Tool/Hand_Tool/Knife.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Tool/Mechanical_Tool/Hand_Tool/Knife.internal|Knife.internal]] 
 
-### #is_/same_as :: [Knife.protect](/_protect/Technology/Tool/Mechanical_Tool/Hand_Tool/Knife.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Tool/Mechanical_Tool/Hand_Tool/Knife.protect|Knife.protect]] 
 
-### #is_/same_as :: [Knife.private](/_private/Technology/Tool/Mechanical_Tool/Hand_Tool/Knife.private.md) 
+### #is_/same_as :: [[/_private/Technology/Tool/Mechanical_Tool/Hand_Tool/Knife.private|Knife.private]] 
 
-### #is_/same_as :: [Knife.personal](/_personal/Technology/Tool/Mechanical_Tool/Hand_Tool/Knife.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Tool/Mechanical_Tool/Hand_Tool/Knife.personal|Knife.personal]] 
 
-### #is_/same_as :: [Knife.secret](/_secret/Technology/Tool/Mechanical_Tool/Hand_Tool/Knife.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Tool/Mechanical_Tool/Hand_Tool/Knife.secret|Knife.secret]] 
 

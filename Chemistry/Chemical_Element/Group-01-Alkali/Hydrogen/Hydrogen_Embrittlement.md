@@ -43,17 +43,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hydrogen_Embrittlement](/_Standards/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Hydrogen_Embrittlement.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Hydrogen_Embrittlement|Hydrogen_Embrittlement]] 
 
-### #is_/same_as :: [Hydrogen_Embrittlement.public](/_public/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Hydrogen_Embrittlement.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Hydrogen_Embrittlement.public|Hydrogen_Embrittlement.public]] 
 
-### #is_/same_as :: [Hydrogen_Embrittlement.internal](/_internal/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Hydrogen_Embrittlement.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Hydrogen_Embrittlement.internal|Hydrogen_Embrittlement.internal]] 
 
-### #is_/same_as :: [Hydrogen_Embrittlement.protect](/_protect/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Hydrogen_Embrittlement.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Hydrogen_Embrittlement.protect|Hydrogen_Embrittlement.protect]] 
 
-### #is_/same_as :: [Hydrogen_Embrittlement.private](/_private/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Hydrogen_Embrittlement.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Hydrogen_Embrittlement.private|Hydrogen_Embrittlement.private]] 
 
-### #is_/same_as :: [Hydrogen_Embrittlement.personal](/_personal/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Hydrogen_Embrittlement.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Hydrogen_Embrittlement.personal|Hydrogen_Embrittlement.personal]] 
 
-### #is_/same_as :: [Hydrogen_Embrittlement.secret](/_secret/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Hydrogen_Embrittlement.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Hydrogen_Embrittlement.secret|Hydrogen_Embrittlement.secret]] 
 

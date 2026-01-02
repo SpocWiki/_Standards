@@ -130,17 +130,17 @@ date_of_birth: 1921-07-18T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Glenn,John](/_Standards/Technology/Spaceflight/Astronautics/Astronaut/Glenn,John.md) 
+### #is_/same_as :: [[/_Standards/Technology/Spaceflight/Astronautics/Astronaut/Glenn,John|Glenn,John]] 
 
-### #is_/same_as :: [Glenn,John.public](/_public/Technology/Spaceflight/Astronautics/Astronaut/Glenn,John.public.md) 
+### #is_/same_as :: [[/_public/Technology/Spaceflight/Astronautics/Astronaut/Glenn,John.public|Glenn,John.public]] 
 
-### #is_/same_as :: [Glenn,John.internal](/_internal/Technology/Spaceflight/Astronautics/Astronaut/Glenn,John.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Spaceflight/Astronautics/Astronaut/Glenn,John.internal|Glenn,John.internal]] 
 
-### #is_/same_as :: [Glenn,John.protect](/_protect/Technology/Spaceflight/Astronautics/Astronaut/Glenn,John.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Spaceflight/Astronautics/Astronaut/Glenn,John.protect|Glenn,John.protect]] 
 
-### #is_/same_as :: [Glenn,John.private](/_private/Technology/Spaceflight/Astronautics/Astronaut/Glenn,John.private.md) 
+### #is_/same_as :: [[/_private/Technology/Spaceflight/Astronautics/Astronaut/Glenn,John.private|Glenn,John.private]] 
 
-### #is_/same_as :: [Glenn,John.personal](/_personal/Technology/Spaceflight/Astronautics/Astronaut/Glenn,John.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Spaceflight/Astronautics/Astronaut/Glenn,John.personal|Glenn,John.personal]] 
 
-### #is_/same_as :: [Glenn,John.secret](/_secret/Technology/Spaceflight/Astronautics/Astronaut/Glenn,John.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Spaceflight/Astronautics/Astronaut/Glenn,John.secret|Glenn,John.secret]] 
 

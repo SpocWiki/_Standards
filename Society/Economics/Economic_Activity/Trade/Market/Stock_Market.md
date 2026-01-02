@@ -37,17 +37,17 @@ subreddit: StockMarket
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Stock_Market](/_Standards/Society/Economics/Economic_Activity/Trade/Market/Stock_Market.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Economic_Activity/Trade/Market/Stock_Market|Stock_Market]] 
 
-### #is_/same_as :: [Stock_Market.public](/_public/Society/Economics/Economic_Activity/Trade/Market/Stock_Market.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Economic_Activity/Trade/Market/Stock_Market.public|Stock_Market.public]] 
 
-### #is_/same_as :: [Stock_Market.internal](/_internal/Society/Economics/Economic_Activity/Trade/Market/Stock_Market.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Economic_Activity/Trade/Market/Stock_Market.internal|Stock_Market.internal]] 
 
-### #is_/same_as :: [Stock_Market.protect](/_protect/Society/Economics/Economic_Activity/Trade/Market/Stock_Market.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Economic_Activity/Trade/Market/Stock_Market.protect|Stock_Market.protect]] 
 
-### #is_/same_as :: [Stock_Market.private](/_private/Society/Economics/Economic_Activity/Trade/Market/Stock_Market.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Economic_Activity/Trade/Market/Stock_Market.private|Stock_Market.private]] 
 
-### #is_/same_as :: [Stock_Market.personal](/_personal/Society/Economics/Economic_Activity/Trade/Market/Stock_Market.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Economic_Activity/Trade/Market/Stock_Market.personal|Stock_Market.personal]] 
 
-### #is_/same_as :: [Stock_Market.secret](/_secret/Society/Economics/Economic_Activity/Trade/Market/Stock_Market.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Economic_Activity/Trade/Market/Stock_Market.secret|Stock_Market.secret]] 
 

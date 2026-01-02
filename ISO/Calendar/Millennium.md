@@ -49,17 +49,17 @@ Commons_category: Millennia
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Millennium](/_Standards/ISO/Calendar/Millennium.md) 
+### #is_/same_as :: [[/_Standards/ISO/Calendar/Millennium|Millennium]] 
 
-### #is_/same_as :: [Millennium.public](/_public/ISO/Calendar/Millennium.public.md) 
+### #is_/same_as :: [[/_public/ISO/Calendar/Millennium.public|Millennium.public]] 
 
-### #is_/same_as :: [Millennium.internal](/_internal/ISO/Calendar/Millennium.internal.md) 
+### #is_/same_as :: [[/_internal/ISO/Calendar/Millennium.internal|Millennium.internal]] 
 
-### #is_/same_as :: [Millennium.protect](/_protect/ISO/Calendar/Millennium.protect.md) 
+### #is_/same_as :: [[/_protect/ISO/Calendar/Millennium.protect|Millennium.protect]] 
 
-### #is_/same_as :: [Millennium.private](/_private/ISO/Calendar/Millennium.private.md) 
+### #is_/same_as :: [[/_private/ISO/Calendar/Millennium.private|Millennium.private]] 
 
-### #is_/same_as :: [Millennium.personal](/_personal/ISO/Calendar/Millennium.personal.md) 
+### #is_/same_as :: [[/_personal/ISO/Calendar/Millennium.personal|Millennium.personal]] 
 
-### #is_/same_as :: [Millennium.secret](/_secret/ISO/Calendar/Millennium.secret.md)
+### #is_/same_as :: [[/_secret/ISO/Calendar/Millennium.secret|Millennium.secret]] 
 

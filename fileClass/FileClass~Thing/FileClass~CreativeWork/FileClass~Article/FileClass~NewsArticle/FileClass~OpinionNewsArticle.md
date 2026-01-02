@@ -37,17 +37,17 @@ An [[OpinionNewsArticle]] is a [[NewsArticle]] that primarily expresses opinions
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~OpinionNewsArticle](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~NewsArticle/FileClass~OpinionNewsArticle.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~NewsArticle/FileClass~OpinionNewsArticle|FileClass~OpinionNewsArticle]] 
 
-### #is_/same_as :: [FileClass~OpinionNewsArticle.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~NewsArticle/FileClass~OpinionNewsArticle.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~NewsArticle/FileClass~OpinionNewsArticle.public|FileClass~OpinionNewsArticle.public]] 
 
-### #is_/same_as :: [FileClass~OpinionNewsArticle.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~NewsArticle/FileClass~OpinionNewsArticle.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~NewsArticle/FileClass~OpinionNewsArticle.internal|FileClass~OpinionNewsArticle.internal]] 
 
-### #is_/same_as :: [FileClass~OpinionNewsArticle.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~NewsArticle/FileClass~OpinionNewsArticle.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~NewsArticle/FileClass~OpinionNewsArticle.protect|FileClass~OpinionNewsArticle.protect]] 
 
-### #is_/same_as :: [FileClass~OpinionNewsArticle.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~NewsArticle/FileClass~OpinionNewsArticle.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~NewsArticle/FileClass~OpinionNewsArticle.private|FileClass~OpinionNewsArticle.private]] 
 
-### #is_/same_as :: [FileClass~OpinionNewsArticle.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~NewsArticle/FileClass~OpinionNewsArticle.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~NewsArticle/FileClass~OpinionNewsArticle.personal|FileClass~OpinionNewsArticle.personal]] 
 
-### #is_/same_as :: [FileClass~OpinionNewsArticle.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~NewsArticle/FileClass~OpinionNewsArticle.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~NewsArticle/FileClass~OpinionNewsArticle.secret|FileClass~OpinionNewsArticle.secret]] 
 

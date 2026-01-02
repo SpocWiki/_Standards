@@ -42,17 +42,17 @@ Nonprofit501c25: Non-profit type referring to Real Property Title-Holding Corpor
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Nonprofit501c25](/_Standards/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c25.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c25|Nonprofit501c25]] 
 
-### #is_/same_as :: [Nonprofit501c25.public](/_public/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c25.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c25.public|Nonprofit501c25.public]] 
 
-### #is_/same_as :: [Nonprofit501c25.internal](/_internal/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c25.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c25.internal|Nonprofit501c25.internal]] 
 
-### #is_/same_as :: [Nonprofit501c25.protect](/_protect/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c25.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c25.protect|Nonprofit501c25.protect]] 
 
-### #is_/same_as :: [Nonprofit501c25.private](/_private/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c25.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c25.private|Nonprofit501c25.private]] 
 
-### #is_/same_as :: [Nonprofit501c25.personal](/_personal/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c25.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c25.personal|Nonprofit501c25.personal]] 
 
-### #is_/same_as :: [Nonprofit501c25.secret](/_secret/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c25.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c25.secret|Nonprofit501c25.secret]] 
 

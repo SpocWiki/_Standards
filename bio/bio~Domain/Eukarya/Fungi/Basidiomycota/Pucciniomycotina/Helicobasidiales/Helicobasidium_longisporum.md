@@ -27,7 +27,7 @@ title: Helicobasidium longisporum
 # *Helicobasidium longisporum* [Wakef.]
 
 ## syn.: Helicobasidium compactum [Boedijn] 
-![ ](Helicobasidium_longisporum/rr.jpg))![ ](Helicobasidium_longisporum/Hlstgt.jpg))
+![ ](Helicobasidium_longisporum/rr.jpg))![ ](Helicobasidium_longisporum/Hlstgt.jpg) 
 ![](Helicobasidium_longisporum/TpGsTUB012677.jpg)
 
 Containing group:[Helicobasidiales](../Helicobasidiales.md) 
@@ -47,7 +47,7 @@ Containing group:[Helicobasidiales](../Helicobasidiales.md)
   Copyright ::            © 2000 [Matthias Lutz](mailto:matthias.lutz@uni-tuebingen.de) 
  
   -----------------------------------------------------------------------------
-![](Helicobasidium_longisporum/Hlstgt.jpg))
+![](Helicobasidium_longisporum/Hlstgt.jpg) 
 
   -----------------------------------------------------------------------------
   Scientific Name ::     Helicobasidium longisporum Wakef. on roots and basal parts of stem of Pyrus communis L.
@@ -60,7 +60,7 @@ Containing group:[Helicobasidiales](../Helicobasidiales.md)
   Copyright ::            © 2000 [Matthias Lutz](mailto:matthias.lutz@uni-tuebingen.de) 
  
   -----------------------------------------------------------------------------
-![](Helicobasidium_longisporum/TpGsTUB012677.jpg))
+![](Helicobasidium_longisporum/TpGsTUB012677.jpg) 
 
   -----------------------------------------------------------------------------
   Scientific Name ::     Tuberculina persicina (Ditmar) Sacc. on Gymnosporangium sabinae (Dicks.) G. Winter/Pyrus communis L.
@@ -77,17 +77,17 @@ Containing group:[Helicobasidiales](../Helicobasidiales.md)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Helicobasidium_longisporum](/_Standards/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Pucciniomycotina/Helicobasidiales/Helicobasidium_longisporum.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Pucciniomycotina/Helicobasidiales/Helicobasidium_longisporum|Helicobasidium_longisporum]] 
 
-### #is_/same_as :: [Helicobasidium_longisporum.public](/_public/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Pucciniomycotina/Helicobasidiales/Helicobasidium_longisporum.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Pucciniomycotina/Helicobasidiales/Helicobasidium_longisporum.public|Helicobasidium_longisporum.public]] 
 
-### #is_/same_as :: [Helicobasidium_longisporum.internal](/_internal/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Pucciniomycotina/Helicobasidiales/Helicobasidium_longisporum.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Pucciniomycotina/Helicobasidiales/Helicobasidium_longisporum.internal|Helicobasidium_longisporum.internal]] 
 
-### #is_/same_as :: [Helicobasidium_longisporum.protect](/_protect/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Pucciniomycotina/Helicobasidiales/Helicobasidium_longisporum.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Pucciniomycotina/Helicobasidiales/Helicobasidium_longisporum.protect|Helicobasidium_longisporum.protect]] 
 
-### #is_/same_as :: [Helicobasidium_longisporum.private](/_private/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Pucciniomycotina/Helicobasidiales/Helicobasidium_longisporum.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Pucciniomycotina/Helicobasidiales/Helicobasidium_longisporum.private|Helicobasidium_longisporum.private]] 
 
-### #is_/same_as :: [Helicobasidium_longisporum.personal](/_personal/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Pucciniomycotina/Helicobasidiales/Helicobasidium_longisporum.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Pucciniomycotina/Helicobasidiales/Helicobasidium_longisporum.personal|Helicobasidium_longisporum.personal]] 
 
-### #is_/same_as :: [Helicobasidium_longisporum.secret](/_secret/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Pucciniomycotina/Helicobasidiales/Helicobasidium_longisporum.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Pucciniomycotina/Helicobasidiales/Helicobasidium_longisporum.secret|Helicobasidium_longisporum.secret]] 
 

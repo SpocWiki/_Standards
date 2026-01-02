@@ -44,17 +44,17 @@ Carmack later left id Software as he was hired as Oculus VR's [chief technology
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Oculus_VR](/_Standards/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Meta_Platforms/Oculus_VR.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Meta_Platforms/Oculus_VR|Oculus_VR]] 
 
-### #is_/same_as :: [Oculus_VR.public](/_public/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Meta_Platforms/Oculus_VR.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Meta_Platforms/Oculus_VR.public|Oculus_VR.public]] 
 
-### #is_/same_as :: [Oculus_VR.internal](/_internal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Meta_Platforms/Oculus_VR.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Meta_Platforms/Oculus_VR.internal|Oculus_VR.internal]] 
 
-### #is_/same_as :: [Oculus_VR.protect](/_protect/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Meta_Platforms/Oculus_VR.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Meta_Platforms/Oculus_VR.protect|Oculus_VR.protect]] 
 
-### #is_/same_as :: [Oculus_VR.private](/_private/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Meta_Platforms/Oculus_VR.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Meta_Platforms/Oculus_VR.private|Oculus_VR.private]] 
 
-### #is_/same_as :: [Oculus_VR.personal](/_personal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Meta_Platforms/Oculus_VR.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Meta_Platforms/Oculus_VR.personal|Oculus_VR.personal]] 
 
-### #is_/same_as :: [Oculus_VR.secret](/_secret/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Meta_Platforms/Oculus_VR.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Meta_Platforms/Oculus_VR.secret|Oculus_VR.secret]] 
 

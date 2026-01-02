@@ -56,17 +56,17 @@ U_S_National_Archives_Identifier: 10640041
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Home_Economics](/_Standards/Society/Economics/Home_Economics.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Home_Economics|Home_Economics]] 
 
-### #is_/same_as :: [Home_Economics.public](/_public/Society/Economics/Home_Economics.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Home_Economics.public|Home_Economics.public]] 
 
-### #is_/same_as :: [Home_Economics.internal](/_internal/Society/Economics/Home_Economics.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Home_Economics.internal|Home_Economics.internal]] 
 
-### #is_/same_as :: [Home_Economics.protect](/_protect/Society/Economics/Home_Economics.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Home_Economics.protect|Home_Economics.protect]] 
 
-### #is_/same_as :: [Home_Economics.private](/_private/Society/Economics/Home_Economics.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Home_Economics.private|Home_Economics.private]] 
 
-### #is_/same_as :: [Home_Economics.personal](/_personal/Society/Economics/Home_Economics.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Home_Economics.personal|Home_Economics.personal]] 
 
-### #is_/same_as :: [Home_Economics.secret](/_secret/Society/Economics/Home_Economics.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Home_Economics.secret|Home_Economics.secret]] 
 

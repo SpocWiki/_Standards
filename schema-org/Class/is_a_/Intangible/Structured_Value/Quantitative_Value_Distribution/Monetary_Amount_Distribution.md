@@ -41,17 +41,17 @@ A statistical distribution of monetary amounts.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Monetary_Amount_Distribution](/_Standards/schema-org/Class/is_a_/Intangible/Structured_Value/Quantitative_Value_Distribution/Monetary_Amount_Distribution.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Intangible/Structured_Value/Quantitative_Value_Distribution/Monetary_Amount_Distribution|Monetary_Amount_Distribution]] 
 
-### #is_/same_as :: [Monetary_Amount_Distribution.public](/_public/schema-org/Class/is_a_/Intangible/Structured_Value/Quantitative_Value_Distribution/Monetary_Amount_Distribution.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Intangible/Structured_Value/Quantitative_Value_Distribution/Monetary_Amount_Distribution.public|Monetary_Amount_Distribution.public]] 
 
-### #is_/same_as :: [Monetary_Amount_Distribution.internal](/_internal/schema-org/Class/is_a_/Intangible/Structured_Value/Quantitative_Value_Distribution/Monetary_Amount_Distribution.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Intangible/Structured_Value/Quantitative_Value_Distribution/Monetary_Amount_Distribution.internal|Monetary_Amount_Distribution.internal]] 
 
-### #is_/same_as :: [Monetary_Amount_Distribution.protect](/_protect/schema-org/Class/is_a_/Intangible/Structured_Value/Quantitative_Value_Distribution/Monetary_Amount_Distribution.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Intangible/Structured_Value/Quantitative_Value_Distribution/Monetary_Amount_Distribution.protect|Monetary_Amount_Distribution.protect]] 
 
-### #is_/same_as :: [Monetary_Amount_Distribution.private](/_private/schema-org/Class/is_a_/Intangible/Structured_Value/Quantitative_Value_Distribution/Monetary_Amount_Distribution.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Intangible/Structured_Value/Quantitative_Value_Distribution/Monetary_Amount_Distribution.private|Monetary_Amount_Distribution.private]] 
 
-### #is_/same_as :: [Monetary_Amount_Distribution.personal](/_personal/schema-org/Class/is_a_/Intangible/Structured_Value/Quantitative_Value_Distribution/Monetary_Amount_Distribution.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Intangible/Structured_Value/Quantitative_Value_Distribution/Monetary_Amount_Distribution.personal|Monetary_Amount_Distribution.personal]] 
 
-### #is_/same_as :: [Monetary_Amount_Distribution.secret](/_secret/schema-org/Class/is_a_/Intangible/Structured_Value/Quantitative_Value_Distribution/Monetary_Amount_Distribution.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Intangible/Structured_Value/Quantitative_Value_Distribution/Monetary_Amount_Distribution.secret|Monetary_Amount_Distribution.secret]] 
 

@@ -91,17 +91,17 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Period~1~Cambrian](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian.md) 
+### #is_/same_as :: [[/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian|Period~1~Cambrian]] 
 
-### #is_/same_as :: [Period~1~Cambrian.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian.public.md) 
+### #is_/same_as :: [[/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian.public|Period~1~Cambrian.public]] 
 
-### #is_/same_as :: [Period~1~Cambrian.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian.internal.md) 
+### #is_/same_as :: [[/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian.internal|Period~1~Cambrian.internal]] 
 
-### #is_/same_as :: [Period~1~Cambrian.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian.protect.md) 
+### #is_/same_as :: [[/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian.protect|Period~1~Cambrian.protect]] 
 
-### #is_/same_as :: [Period~1~Cambrian.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian.private.md) 
+### #is_/same_as :: [[/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian.private|Period~1~Cambrian.private]] 
 
-### #is_/same_as :: [Period~1~Cambrian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian.personal.md) 
+### #is_/same_as :: [[/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian.personal|Period~1~Cambrian.personal]] 
 
-### #is_/same_as :: [Period~1~Cambrian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian.secret.md)
+### #is_/same_as :: [[/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian.secret|Period~1~Cambrian.secret]] 
 

@@ -65,17 +65,17 @@ Unicode_character: 🥧
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Pie](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Dish/Pie.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Home_Economics/Cooking/Food/Dish/Pie|Pie]] 
 
-### #is_/same_as :: [Pie.public](/_public/Society/Economics/Home_Economics/Cooking/Food/Dish/Pie.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Home_Economics/Cooking/Food/Dish/Pie.public|Pie.public]] 
 
-### #is_/same_as :: [Pie.internal](/_internal/Society/Economics/Home_Economics/Cooking/Food/Dish/Pie.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Home_Economics/Cooking/Food/Dish/Pie.internal|Pie.internal]] 
 
-### #is_/same_as :: [Pie.protect](/_protect/Society/Economics/Home_Economics/Cooking/Food/Dish/Pie.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Home_Economics/Cooking/Food/Dish/Pie.protect|Pie.protect]] 
 
-### #is_/same_as :: [Pie.private](/_private/Society/Economics/Home_Economics/Cooking/Food/Dish/Pie.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Home_Economics/Cooking/Food/Dish/Pie.private|Pie.private]] 
 
-### #is_/same_as :: [Pie.personal](/_personal/Society/Economics/Home_Economics/Cooking/Food/Dish/Pie.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Home_Economics/Cooking/Food/Dish/Pie.personal|Pie.personal]] 
 
-### #is_/same_as :: [Pie.secret](/_secret/Society/Economics/Home_Economics/Cooking/Food/Dish/Pie.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Home_Economics/Cooking/Food/Dish/Pie.secret|Pie.secret]] 
 

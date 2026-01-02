@@ -50,17 +50,17 @@ Dewey_Decimal_Classification: 368.4
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Welfare_Spending](/_Standards/Society/Politics/Government/Welfare_State/Welfare_Spending.md) 
+### #is_/same_as :: [[/_Standards/Society/Politics/Government/Welfare_State/Welfare_Spending|Welfare_Spending]] 
 
-### #is_/same_as :: [Welfare_Spending.public](/_public/Society/Politics/Government/Welfare_State/Welfare_Spending.public.md) 
+### #is_/same_as :: [[/_public/Society/Politics/Government/Welfare_State/Welfare_Spending.public|Welfare_Spending.public]] 
 
-### #is_/same_as :: [Welfare_Spending.internal](/_internal/Society/Politics/Government/Welfare_State/Welfare_Spending.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Politics/Government/Welfare_State/Welfare_Spending.internal|Welfare_Spending.internal]] 
 
-### #is_/same_as :: [Welfare_Spending.protect](/_protect/Society/Politics/Government/Welfare_State/Welfare_Spending.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Politics/Government/Welfare_State/Welfare_Spending.protect|Welfare_Spending.protect]] 
 
-### #is_/same_as :: [Welfare_Spending.private](/_private/Society/Politics/Government/Welfare_State/Welfare_Spending.private.md) 
+### #is_/same_as :: [[/_private/Society/Politics/Government/Welfare_State/Welfare_Spending.private|Welfare_Spending.private]] 
 
-### #is_/same_as :: [Welfare_Spending.personal](/_personal/Society/Politics/Government/Welfare_State/Welfare_Spending.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Politics/Government/Welfare_State/Welfare_Spending.personal|Welfare_Spending.personal]] 
 
-### #is_/same_as :: [Welfare_Spending.secret](/_secret/Society/Politics/Government/Welfare_State/Welfare_Spending.secret.md)
+### #is_/same_as :: [[/_secret/Society/Politics/Government/Welfare_State/Welfare_Spending.secret|Welfare_Spending.secret]] 
 

@@ -40,17 +40,17 @@ OpenStreetMap_tag: healthcare:speciality=humanistic
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Humanistic_Psychology](/_Standards/bio/Psychology/Humanistic_Psychology.md) 
+### #is_/same_as :: [[/_Standards/bio/Psychology/Humanistic_Psychology|Humanistic_Psychology]] 
 
-### #is_/same_as :: [Humanistic_Psychology.public](/_public/bio/Psychology/Humanistic_Psychology.public.md) 
+### #is_/same_as :: [[/_public/bio/Psychology/Humanistic_Psychology.public|Humanistic_Psychology.public]] 
 
-### #is_/same_as :: [Humanistic_Psychology.internal](/_internal/bio/Psychology/Humanistic_Psychology.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Psychology/Humanistic_Psychology.internal|Humanistic_Psychology.internal]] 
 
-### #is_/same_as :: [Humanistic_Psychology.protect](/_protect/bio/Psychology/Humanistic_Psychology.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Psychology/Humanistic_Psychology.protect|Humanistic_Psychology.protect]] 
 
-### #is_/same_as :: [Humanistic_Psychology.private](/_private/bio/Psychology/Humanistic_Psychology.private.md) 
+### #is_/same_as :: [[/_private/bio/Psychology/Humanistic_Psychology.private|Humanistic_Psychology.private]] 
 
-### #is_/same_as :: [Humanistic_Psychology.personal](/_personal/bio/Psychology/Humanistic_Psychology.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Psychology/Humanistic_Psychology.personal|Humanistic_Psychology.personal]] 
 
-### #is_/same_as :: [Humanistic_Psychology.secret](/_secret/bio/Psychology/Humanistic_Psychology.secret.md)
+### #is_/same_as :: [[/_secret/bio/Psychology/Humanistic_Psychology.secret|Humanistic_Psychology.secret]] 
 

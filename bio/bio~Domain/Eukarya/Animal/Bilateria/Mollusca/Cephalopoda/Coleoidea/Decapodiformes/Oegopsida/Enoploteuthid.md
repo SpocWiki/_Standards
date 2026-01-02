@@ -41,7 +41,7 @@ title: Enoploteuthid families
 # Enoploteuthid families 
 
 [Richard E. Young and Michael Vecchione]()
-![ ](Enoploteuthid/EnoploFams.jpg))
+![ ](Enoploteuthid/EnoploFams.jpg) 
 
 Containing group:[Oegopsida](../Oegopsida.md) 
 
@@ -146,7 +146,7 @@ families.\" Smithson. Contr. Zool., No. 586: 257-270.
 
 ## Title Illustrations
 
-![](Enoploteuthid/EnoploFams.jpg))
+![](Enoploteuthid/EnoploFams.jpg) 
 
   -------------------------------------------------------------------------------
   Scientific Name ::  *Ancistrocheirus lesueurii, Abralia trigonura, Selenoteuthis scintillans, Pyroteuthis addolux*
@@ -159,17 +159,17 @@ families.\" Smithson. Contr. Zool., No. 586: 257-270.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Enoploteuthid](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Enoploteuthid.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Enoploteuthid|Enoploteuthid]] 
 
-### #is_/same_as :: [Enoploteuthid.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Enoploteuthid.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Enoploteuthid.public|Enoploteuthid.public]] 
 
-### #is_/same_as :: [Enoploteuthid.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Enoploteuthid.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Enoploteuthid.internal|Enoploteuthid.internal]] 
 
-### #is_/same_as :: [Enoploteuthid.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Enoploteuthid.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Enoploteuthid.protect|Enoploteuthid.protect]] 
 
-### #is_/same_as :: [Enoploteuthid.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Enoploteuthid.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Enoploteuthid.private|Enoploteuthid.private]] 
 
-### #is_/same_as :: [Enoploteuthid.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Enoploteuthid.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Enoploteuthid.personal|Enoploteuthid.personal]] 
 
-### #is_/same_as :: [Enoploteuthid.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Enoploteuthid.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Enoploteuthid.secret|Enoploteuthid.secret]] 
 

@@ -53,17 +53,17 @@ Unicode_character: 🛦
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Military_Aircraft](/_Standards/Society/Military/Military_Organization/Air_Force/Military_Aircraft.md) 
+### #is_/same_as :: [[/_Standards/Society/Military/Military_Organization/Air_Force/Military_Aircraft|Military_Aircraft]] 
 
-### #is_/same_as :: [Military_Aircraft.public](/_public/Society/Military/Military_Organization/Air_Force/Military_Aircraft.public.md) 
+### #is_/same_as :: [[/_public/Society/Military/Military_Organization/Air_Force/Military_Aircraft.public|Military_Aircraft.public]] 
 
-### #is_/same_as :: [Military_Aircraft.internal](/_internal/Society/Military/Military_Organization/Air_Force/Military_Aircraft.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Military/Military_Organization/Air_Force/Military_Aircraft.internal|Military_Aircraft.internal]] 
 
-### #is_/same_as :: [Military_Aircraft.protect](/_protect/Society/Military/Military_Organization/Air_Force/Military_Aircraft.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Military/Military_Organization/Air_Force/Military_Aircraft.protect|Military_Aircraft.protect]] 
 
-### #is_/same_as :: [Military_Aircraft.private](/_private/Society/Military/Military_Organization/Air_Force/Military_Aircraft.private.md) 
+### #is_/same_as :: [[/_private/Society/Military/Military_Organization/Air_Force/Military_Aircraft.private|Military_Aircraft.private]] 
 
-### #is_/same_as :: [Military_Aircraft.personal](/_personal/Society/Military/Military_Organization/Air_Force/Military_Aircraft.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Military/Military_Organization/Air_Force/Military_Aircraft.personal|Military_Aircraft.personal]] 
 
-### #is_/same_as :: [Military_Aircraft.secret](/_secret/Society/Military/Military_Organization/Air_Force/Military_Aircraft.secret.md)
+### #is_/same_as :: [[/_secret/Society/Military/Military_Organization/Air_Force/Military_Aircraft.secret|Military_Aircraft.secret]] 
 

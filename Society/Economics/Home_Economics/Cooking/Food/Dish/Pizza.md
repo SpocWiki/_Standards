@@ -90,17 +90,17 @@ Commons_category: Pizzas
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Pizza](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Dish/Pizza.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Home_Economics/Cooking/Food/Dish/Pizza|Pizza]] 
 
-### #is_/same_as :: [Pizza.public](/_public/Society/Economics/Home_Economics/Cooking/Food/Dish/Pizza.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Home_Economics/Cooking/Food/Dish/Pizza.public|Pizza.public]] 
 
-### #is_/same_as :: [Pizza.internal](/_internal/Society/Economics/Home_Economics/Cooking/Food/Dish/Pizza.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Home_Economics/Cooking/Food/Dish/Pizza.internal|Pizza.internal]] 
 
-### #is_/same_as :: [Pizza.protect](/_protect/Society/Economics/Home_Economics/Cooking/Food/Dish/Pizza.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Home_Economics/Cooking/Food/Dish/Pizza.protect|Pizza.protect]] 
 
-### #is_/same_as :: [Pizza.private](/_private/Society/Economics/Home_Economics/Cooking/Food/Dish/Pizza.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Home_Economics/Cooking/Food/Dish/Pizza.private|Pizza.private]] 
 
-### #is_/same_as :: [Pizza.personal](/_personal/Society/Economics/Home_Economics/Cooking/Food/Dish/Pizza.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Home_Economics/Cooking/Food/Dish/Pizza.personal|Pizza.personal]] 
 
-### #is_/same_as :: [Pizza.secret](/_secret/Society/Economics/Home_Economics/Cooking/Food/Dish/Pizza.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Home_Economics/Cooking/Food/Dish/Pizza.secret|Pizza.secret]] 
 

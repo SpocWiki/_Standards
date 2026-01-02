@@ -41,17 +41,17 @@ Stack_Exchange_tag: https://hermeneutics.stackexchange.com/tags/theophany
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Theophany](/_Standards/Philosophy/Metaphysic/Religion/Theophany.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Theophany|Theophany]] 
 
-### #is_/same_as :: [Theophany.public](/_public/Philosophy/Metaphysic/Religion/Theophany.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Theophany.public|Theophany.public]] 
 
-### #is_/same_as :: [Theophany.internal](/_internal/Philosophy/Metaphysic/Religion/Theophany.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Theophany.internal|Theophany.internal]] 
 
-### #is_/same_as :: [Theophany.protect](/_protect/Philosophy/Metaphysic/Religion/Theophany.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Theophany.protect|Theophany.protect]] 
 
-### #is_/same_as :: [Theophany.private](/_private/Philosophy/Metaphysic/Religion/Theophany.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Theophany.private|Theophany.private]] 
 
-### #is_/same_as :: [Theophany.personal](/_personal/Philosophy/Metaphysic/Religion/Theophany.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Theophany.personal|Theophany.personal]] 
 
-### #is_/same_as :: [Theophany.secret](/_secret/Philosophy/Metaphysic/Religion/Theophany.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Theophany.secret|Theophany.secret]] 
 

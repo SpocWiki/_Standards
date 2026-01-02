@@ -69,17 +69,17 @@ With P the first letter of the Planet it orbits.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Satellite](/_Standards/Earth/Satellite.md) 
+### #is_/same_as :: [[/_Standards/Earth/Satellite|Satellite]] 
 
-### #is_/same_as :: [Satellite.public](/_public/Earth/Satellite.public.md) 
+### #is_/same_as :: [[/_public/Earth/Satellite.public|Satellite.public]] 
 
-### #is_/same_as :: [Satellite.internal](/_internal/Earth/Satellite.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Satellite.internal|Satellite.internal]] 
 
-### #is_/same_as :: [Satellite.protect](/_protect/Earth/Satellite.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Satellite.protect|Satellite.protect]] 
 
-### #is_/same_as :: [Satellite.private](/_private/Earth/Satellite.private.md) 
+### #is_/same_as :: [[/_private/Earth/Satellite.private|Satellite.private]] 
 
-### #is_/same_as :: [Satellite.personal](/_personal/Earth/Satellite.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Satellite.personal|Satellite.personal]] 
 
-### #is_/same_as :: [Satellite.secret](/_secret/Earth/Satellite.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Satellite.secret|Satellite.secret]] 
 

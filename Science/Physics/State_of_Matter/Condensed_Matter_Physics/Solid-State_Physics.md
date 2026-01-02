@@ -38,17 +38,17 @@ Krugosvet_article_archived_: nauka_i_tehnika/fizika/FIZIKA_TVERDOGO_TELA.html
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Solid-State_Physics](/_Standards/Science/Physics/State_of_Matter/Condensed_Matter_Physics/Solid-State_Physics.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/State_of_Matter/Condensed_Matter_Physics/Solid-State_Physics|Solid-State_Physics]] 
 
-### #is_/same_as :: [Solid-State_Physics.public](/_public/Science/Physics/State_of_Matter/Condensed_Matter_Physics/Solid-State_Physics.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/State_of_Matter/Condensed_Matter_Physics/Solid-State_Physics.public|Solid-State_Physics.public]] 
 
-### #is_/same_as :: [Solid-State_Physics.internal](/_internal/Science/Physics/State_of_Matter/Condensed_Matter_Physics/Solid-State_Physics.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/State_of_Matter/Condensed_Matter_Physics/Solid-State_Physics.internal|Solid-State_Physics.internal]] 
 
-### #is_/same_as :: [Solid-State_Physics.protect](/_protect/Science/Physics/State_of_Matter/Condensed_Matter_Physics/Solid-State_Physics.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/State_of_Matter/Condensed_Matter_Physics/Solid-State_Physics.protect|Solid-State_Physics.protect]] 
 
-### #is_/same_as :: [Solid-State_Physics.private](/_private/Science/Physics/State_of_Matter/Condensed_Matter_Physics/Solid-State_Physics.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/State_of_Matter/Condensed_Matter_Physics/Solid-State_Physics.private|Solid-State_Physics.private]] 
 
-### #is_/same_as :: [Solid-State_Physics.personal](/_personal/Science/Physics/State_of_Matter/Condensed_Matter_Physics/Solid-State_Physics.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/State_of_Matter/Condensed_Matter_Physics/Solid-State_Physics.personal|Solid-State_Physics.personal]] 
 
-### #is_/same_as :: [Solid-State_Physics.secret](/_secret/Science/Physics/State_of_Matter/Condensed_Matter_Physics/Solid-State_Physics.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/State_of_Matter/Condensed_Matter_Physics/Solid-State_Physics.secret|Solid-State_Physics.secret]] 
 

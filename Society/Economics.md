@@ -207,36 +207,17 @@ For Information about actual Economies see [[Economics/Economy]]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Economics](/_Standards/Society/Economics.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics|Economics]] 
 
-### #is_/same_as :: [Economics.public](/_public/Society/Economics.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics.public|Economics.public]] 
 
-### #is_/same_as :: [Economics.internal](/_internal/Society/Economics.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics.internal|Economics.internal]] 
 
-### #is_/same_as :: [Economics.protect](/_protect/Society/Economics.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics.protect|Economics.protect]] 
 
-### #is_/same_as :: [Economics.private](/_private/Society/Economics.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics.private|Economics.private]] 
 
-### #is_/same_as :: [Economics.personal](/_personal/Society/Economics.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics.personal|Economics.personal]] 
 
-### #is_/same_as :: [Economics.secret](/_secret/Society/Economics.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics.secret|Economics.secret]] 
 
-
-# [[Economics]] 
-
-#is_/part_of :: [[Economics]] 
-
-![[Economics.svg]]
-
- 
-
-## Embedded Graph 
-
-![[Economics.svg]] 
-
-
-%%
-## Drawing
-```compressed-json
-N4IgLgngDgpiBcIYA8DGBDANgSwCYCd0B3EAGhADcZ8BnbAewDsEAmcm+gV31TkQAswYKDXgB6MQHNsYfpwBGAOlT0AtmIBeNCtlQbs6RmPry6uA4wC0KDDgLFLUTJ2lH8MTDHQ0YNMWHRJMRZFAA5FFjIkT1UYRjAaBABtAF1ydCgoAGUAsD5QSXw8LOwNPkZOTExyHRgiACF0VABrQq5GXABhekx6fAQQAGIAM1GxkABfCaA==
-```

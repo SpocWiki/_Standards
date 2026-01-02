@@ -142,17 +142,17 @@ IPI_name_number:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lloyd_Webber,Andrew](/_Standards/Society/Communication/Media/Music/Musician/Pop-Musician/Lloyd_Webber,Andrew.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Musician/Pop-Musician/Lloyd_Webber,Andrew|Lloyd_Webber,Andrew]] 
 
-### #is_/same_as :: [Lloyd_Webber,Andrew.public](/_public/Society/Communication/Media/Music/Musician/Pop-Musician/Lloyd_Webber,Andrew.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Musician/Pop-Musician/Lloyd_Webber,Andrew.public|Lloyd_Webber,Andrew.public]] 
 
-### #is_/same_as :: [Lloyd_Webber,Andrew.internal](/_internal/Society/Communication/Media/Music/Musician/Pop-Musician/Lloyd_Webber,Andrew.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Musician/Pop-Musician/Lloyd_Webber,Andrew.internal|Lloyd_Webber,Andrew.internal]] 
 
-### #is_/same_as :: [Lloyd_Webber,Andrew.protect](/_protect/Society/Communication/Media/Music/Musician/Pop-Musician/Lloyd_Webber,Andrew.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Musician/Pop-Musician/Lloyd_Webber,Andrew.protect|Lloyd_Webber,Andrew.protect]] 
 
-### #is_/same_as :: [Lloyd_Webber,Andrew.private](/_private/Society/Communication/Media/Music/Musician/Pop-Musician/Lloyd_Webber,Andrew.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Musician/Pop-Musician/Lloyd_Webber,Andrew.private|Lloyd_Webber,Andrew.private]] 
 
-### #is_/same_as :: [Lloyd_Webber,Andrew.personal](/_personal/Society/Communication/Media/Music/Musician/Pop-Musician/Lloyd_Webber,Andrew.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Musician/Pop-Musician/Lloyd_Webber,Andrew.personal|Lloyd_Webber,Andrew.personal]] 
 
-### #is_/same_as :: [Lloyd_Webber,Andrew.secret](/_secret/Society/Communication/Media/Music/Musician/Pop-Musician/Lloyd_Webber,Andrew.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Musician/Pop-Musician/Lloyd_Webber,Andrew.secret|Lloyd_Webber,Andrew.secret]] 
 

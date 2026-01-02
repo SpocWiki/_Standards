@@ -73,17 +73,17 @@ Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_ecology,7112610]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ecology](/_Standards/bio/Ecology.md) 
+### #is_/same_as :: [[/_Standards/bio/Ecology|Ecology]] 
 
-### #is_/same_as :: [Ecology.public](/_public/bio/Ecology.public.md) 
+### #is_/same_as :: [[/_public/bio/Ecology.public|Ecology.public]] 
 
-### #is_/same_as :: [Ecology.internal](/_internal/bio/Ecology.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Ecology.internal|Ecology.internal]] 
 
-### #is_/same_as :: [Ecology.protect](/_protect/bio/Ecology.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Ecology.protect|Ecology.protect]] 
 
-### #is_/same_as :: [Ecology.private](/_private/bio/Ecology.private.md) 
+### #is_/same_as :: [[/_private/bio/Ecology.private|Ecology.private]] 
 
-### #is_/same_as :: [Ecology.personal](/_personal/bio/Ecology.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Ecology.personal|Ecology.personal]] 
 
-### #is_/same_as :: [Ecology.secret](/_secret/bio/Ecology.secret.md)
+### #is_/same_as :: [[/_secret/bio/Ecology.secret|Ecology.secret]] 
 

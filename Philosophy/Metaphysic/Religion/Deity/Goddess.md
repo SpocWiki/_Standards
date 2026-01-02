@@ -44,17 +44,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Goddess](/_Standards/Philosophy/Metaphysic/Religion/Deity/Goddess.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Deity/Goddess|Goddess]] 
 
-### #is_/same_as :: [Goddess.public](/_public/Philosophy/Metaphysic/Religion/Deity/Goddess.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Deity/Goddess.public|Goddess.public]] 
 
-### #is_/same_as :: [Goddess.internal](/_internal/Philosophy/Metaphysic/Religion/Deity/Goddess.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Deity/Goddess.internal|Goddess.internal]] 
 
-### #is_/same_as :: [Goddess.protect](/_protect/Philosophy/Metaphysic/Religion/Deity/Goddess.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Deity/Goddess.protect|Goddess.protect]] 
 
-### #is_/same_as :: [Goddess.private](/_private/Philosophy/Metaphysic/Religion/Deity/Goddess.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Deity/Goddess.private|Goddess.private]] 
 
-### #is_/same_as :: [Goddess.personal](/_personal/Philosophy/Metaphysic/Religion/Deity/Goddess.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Deity/Goddess.personal|Goddess.personal]] 
 
-### #is_/same_as :: [Goddess.secret](/_secret/Philosophy/Metaphysic/Religion/Deity/Goddess.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Deity/Goddess.secret|Goddess.secret]] 
 

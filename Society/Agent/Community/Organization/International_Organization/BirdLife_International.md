@@ -82,17 +82,17 @@ inception: 1922-01-01T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [BirdLife_International](/_Standards/Society/Agent/Community/Organization/International_Organization/BirdLife_International.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/International_Organization/BirdLife_International|BirdLife_International]] 
 
-### #is_/same_as :: [BirdLife_International.public](/_public/Society/Agent/Community/Organization/International_Organization/BirdLife_International.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/International_Organization/BirdLife_International.public|BirdLife_International.public]] 
 
-### #is_/same_as :: [BirdLife_International.internal](/_internal/Society/Agent/Community/Organization/International_Organization/BirdLife_International.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/International_Organization/BirdLife_International.internal|BirdLife_International.internal]] 
 
-### #is_/same_as :: [BirdLife_International.protect](/_protect/Society/Agent/Community/Organization/International_Organization/BirdLife_International.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/International_Organization/BirdLife_International.protect|BirdLife_International.protect]] 
 
-### #is_/same_as :: [BirdLife_International.private](/_private/Society/Agent/Community/Organization/International_Organization/BirdLife_International.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/International_Organization/BirdLife_International.private|BirdLife_International.private]] 
 
-### #is_/same_as :: [BirdLife_International.personal](/_personal/Society/Agent/Community/Organization/International_Organization/BirdLife_International.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/International_Organization/BirdLife_International.personal|BirdLife_International.personal]] 
 
-### #is_/same_as :: [BirdLife_International.secret](/_secret/Society/Agent/Community/Organization/International_Organization/BirdLife_International.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/International_Organization/BirdLife_International.secret|BirdLife_International.secret]] 
 

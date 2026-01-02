@@ -43,17 +43,17 @@ Size related properties of a product, typically a size code ([[name]]) and optio
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Size_Specification](/_Standards/schema-org/Enumeration/Qualitative_Value/Size_Specification.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Qualitative_Value/Size_Specification|Size_Specification]] 
 
-### #is_/same_as :: [Size_Specification.public](/_public/schema-org/Enumeration/Qualitative_Value/Size_Specification.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Qualitative_Value/Size_Specification.public|Size_Specification.public]] 
 
-### #is_/same_as :: [Size_Specification.internal](/_internal/schema-org/Enumeration/Qualitative_Value/Size_Specification.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Qualitative_Value/Size_Specification.internal|Size_Specification.internal]] 
 
-### #is_/same_as :: [Size_Specification.protect](/_protect/schema-org/Enumeration/Qualitative_Value/Size_Specification.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Qualitative_Value/Size_Specification.protect|Size_Specification.protect]] 
 
-### #is_/same_as :: [Size_Specification.private](/_private/schema-org/Enumeration/Qualitative_Value/Size_Specification.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Qualitative_Value/Size_Specification.private|Size_Specification.private]] 
 
-### #is_/same_as :: [Size_Specification.personal](/_personal/schema-org/Enumeration/Qualitative_Value/Size_Specification.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Qualitative_Value/Size_Specification.personal|Size_Specification.personal]] 
 
-### #is_/same_as :: [Size_Specification.secret](/_secret/schema-org/Enumeration/Qualitative_Value/Size_Specification.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Qualitative_Value/Size_Specification.secret|Size_Specification.secret]] 
 

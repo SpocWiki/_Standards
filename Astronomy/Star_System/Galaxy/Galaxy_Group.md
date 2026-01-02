@@ -34,17 +34,17 @@ Commons_category: Galaxy groups
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Galaxy_Group](/_Standards/Astronomy/Star_System/Galaxy/Galaxy_Group.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Star_System/Galaxy/Galaxy_Group|Galaxy_Group]] 
 
-### #is_/same_as :: [Galaxy_Group.public](/_public/Astronomy/Star_System/Galaxy/Galaxy_Group.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Star_System/Galaxy/Galaxy_Group.public|Galaxy_Group.public]] 
 
-### #is_/same_as :: [Galaxy_Group.internal](/_internal/Astronomy/Star_System/Galaxy/Galaxy_Group.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Star_System/Galaxy/Galaxy_Group.internal|Galaxy_Group.internal]] 
 
-### #is_/same_as :: [Galaxy_Group.protect](/_protect/Astronomy/Star_System/Galaxy/Galaxy_Group.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Star_System/Galaxy/Galaxy_Group.protect|Galaxy_Group.protect]] 
 
-### #is_/same_as :: [Galaxy_Group.private](/_private/Astronomy/Star_System/Galaxy/Galaxy_Group.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Star_System/Galaxy/Galaxy_Group.private|Galaxy_Group.private]] 
 
-### #is_/same_as :: [Galaxy_Group.personal](/_personal/Astronomy/Star_System/Galaxy/Galaxy_Group.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Star_System/Galaxy/Galaxy_Group.personal|Galaxy_Group.personal]] 
 
-### #is_/same_as :: [Galaxy_Group.secret](/_secret/Astronomy/Star_System/Galaxy/Galaxy_Group.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Star_System/Galaxy/Galaxy_Group.secret|Galaxy_Group.secret]] 
 

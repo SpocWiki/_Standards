@@ -86,17 +86,17 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [0000-Mesolithic](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/0000-Greenlandian/0000-Mesolithic.md) 
+### #is_/same_as :: [[/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/0000-Greenlandian/0000-Mesolithic|0000-Mesolithic]] 
 
-### #is_/same_as :: [0000-Mesolithic.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/0000-Greenlandian/0000-Mesolithic.public.md) 
+### #is_/same_as :: [[/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/0000-Greenlandian/0000-Mesolithic.public|0000-Mesolithic.public]] 
 
-### #is_/same_as :: [0000-Mesolithic.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/0000-Greenlandian/0000-Mesolithic.internal.md) 
+### #is_/same_as :: [[/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/0000-Greenlandian/0000-Mesolithic.internal|0000-Mesolithic.internal]] 
 
-### #is_/same_as :: [0000-Mesolithic.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/0000-Greenlandian/0000-Mesolithic.protect.md) 
+### #is_/same_as :: [[/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/0000-Greenlandian/0000-Mesolithic.protect|0000-Mesolithic.protect]] 
 
-### #is_/same_as :: [0000-Mesolithic.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/0000-Greenlandian/0000-Mesolithic.private.md) 
+### #is_/same_as :: [[/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/0000-Greenlandian/0000-Mesolithic.private|0000-Mesolithic.private]] 
 
-### #is_/same_as :: [0000-Mesolithic.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/0000-Greenlandian/0000-Mesolithic.personal.md) 
+### #is_/same_as :: [[/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/0000-Greenlandian/0000-Mesolithic.personal|0000-Mesolithic.personal]] 
 
-### #is_/same_as :: [0000-Mesolithic.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/0000-Greenlandian/0000-Mesolithic.secret.md)
+### #is_/same_as :: [[/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/0000-Greenlandian/0000-Mesolithic.secret|0000-Mesolithic.secret]] 
 

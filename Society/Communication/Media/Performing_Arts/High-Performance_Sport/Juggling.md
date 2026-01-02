@@ -56,17 +56,17 @@ Dewey_Decimal_Classification: "791.3"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Juggling](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Juggling.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Juggling|Juggling]] 
 
-### #is_/same_as :: [Juggling.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Juggling.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Juggling.public|Juggling.public]] 
 
-### #is_/same_as :: [Juggling.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Juggling.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Juggling.internal|Juggling.internal]] 
 
-### #is_/same_as :: [Juggling.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Juggling.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Juggling.protect|Juggling.protect]] 
 
-### #is_/same_as :: [Juggling.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Juggling.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Juggling.private|Juggling.private]] 
 
-### #is_/same_as :: [Juggling.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Juggling.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Juggling.personal|Juggling.personal]] 
 
-### #is_/same_as :: [Juggling.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Juggling.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Juggling.secret|Juggling.secret]] 
 

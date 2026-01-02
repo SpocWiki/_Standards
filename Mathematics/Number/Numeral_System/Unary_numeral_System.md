@@ -37,17 +37,17 @@ b0+b1 * 1^1 + b2 * 1^2 + ...
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Unary_numeral_System](/_Standards/Mathematics/Number/Numeral_System/Unary_numeral_System.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Number/Numeral_System/Unary_numeral_System|Unary_numeral_System]] 
 
-### #is_/same_as :: [Unary_numeral_System.public](/_public/Mathematics/Number/Numeral_System/Unary_numeral_System.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Number/Numeral_System/Unary_numeral_System.public|Unary_numeral_System.public]] 
 
-### #is_/same_as :: [Unary_numeral_System.internal](/_internal/Mathematics/Number/Numeral_System/Unary_numeral_System.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Number/Numeral_System/Unary_numeral_System.internal|Unary_numeral_System.internal]] 
 
-### #is_/same_as :: [Unary_numeral_System.protect](/_protect/Mathematics/Number/Numeral_System/Unary_numeral_System.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Number/Numeral_System/Unary_numeral_System.protect|Unary_numeral_System.protect]] 
 
-### #is_/same_as :: [Unary_numeral_System.private](/_private/Mathematics/Number/Numeral_System/Unary_numeral_System.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Number/Numeral_System/Unary_numeral_System.private|Unary_numeral_System.private]] 
 
-### #is_/same_as :: [Unary_numeral_System.personal](/_personal/Mathematics/Number/Numeral_System/Unary_numeral_System.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Number/Numeral_System/Unary_numeral_System.personal|Unary_numeral_System.personal]] 
 
-### #is_/same_as :: [Unary_numeral_System.secret](/_secret/Mathematics/Number/Numeral_System/Unary_numeral_System.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Number/Numeral_System/Unary_numeral_System.secret|Unary_numeral_System.secret]] 
 

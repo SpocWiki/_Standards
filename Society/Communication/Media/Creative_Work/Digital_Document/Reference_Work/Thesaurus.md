@@ -53,17 +53,17 @@ native_label: linguistic thesaurus
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Thesaurus](/_Standards/Society/Communication/Media/Creative_Work/Digital_Document/Reference_Work/Thesaurus.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Creative_Work/Digital_Document/Reference_Work/Thesaurus|Thesaurus]] 
 
-### #is_/same_as :: [Thesaurus.public](/_public/Society/Communication/Media/Creative_Work/Digital_Document/Reference_Work/Thesaurus.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Creative_Work/Digital_Document/Reference_Work/Thesaurus.public|Thesaurus.public]] 
 
-### #is_/same_as :: [Thesaurus.internal](/_internal/Society/Communication/Media/Creative_Work/Digital_Document/Reference_Work/Thesaurus.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Creative_Work/Digital_Document/Reference_Work/Thesaurus.internal|Thesaurus.internal]] 
 
-### #is_/same_as :: [Thesaurus.protect](/_protect/Society/Communication/Media/Creative_Work/Digital_Document/Reference_Work/Thesaurus.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Creative_Work/Digital_Document/Reference_Work/Thesaurus.protect|Thesaurus.protect]] 
 
-### #is_/same_as :: [Thesaurus.private](/_private/Society/Communication/Media/Creative_Work/Digital_Document/Reference_Work/Thesaurus.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Creative_Work/Digital_Document/Reference_Work/Thesaurus.private|Thesaurus.private]] 
 
-### #is_/same_as :: [Thesaurus.personal](/_personal/Society/Communication/Media/Creative_Work/Digital_Document/Reference_Work/Thesaurus.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/Digital_Document/Reference_Work/Thesaurus.personal|Thesaurus.personal]] 
 
-### #is_/same_as :: [Thesaurus.secret](/_secret/Society/Communication/Media/Creative_Work/Digital_Document/Reference_Work/Thesaurus.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Digital_Document/Reference_Work/Thesaurus.secret|Thesaurus.secret]] 
 

@@ -96,17 +96,17 @@ coordinate_location: Point(6.1352313 49.6202892)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [European_Investment_Bank](/_Standards/Earth/Continent/Europe/EU(European_Union)/European_Investment_Bank.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/EU(European_Union)/European_Investment_Bank|European_Investment_Bank]] 
 
-### #is_/same_as :: [European_Investment_Bank.public](/_public/Earth/Continent/Europe/EU(European_Union)/European_Investment_Bank.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/EU(European_Union)/European_Investment_Bank.public|European_Investment_Bank.public]] 
 
-### #is_/same_as :: [European_Investment_Bank.internal](/_internal/Earth/Continent/Europe/EU(European_Union)/European_Investment_Bank.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/EU(European_Union)/European_Investment_Bank.internal|European_Investment_Bank.internal]] 
 
-### #is_/same_as :: [European_Investment_Bank.protect](/_protect/Earth/Continent/Europe/EU(European_Union)/European_Investment_Bank.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/EU(European_Union)/European_Investment_Bank.protect|European_Investment_Bank.protect]] 
 
-### #is_/same_as :: [European_Investment_Bank.private](/_private/Earth/Continent/Europe/EU(European_Union)/European_Investment_Bank.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/EU(European_Union)/European_Investment_Bank.private|European_Investment_Bank.private]] 
 
-### #is_/same_as :: [European_Investment_Bank.personal](/_personal/Earth/Continent/Europe/EU(European_Union)/European_Investment_Bank.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/EU(European_Union)/European_Investment_Bank.personal|European_Investment_Bank.personal]] 
 
-### #is_/same_as :: [European_Investment_Bank.secret](/_secret/Earth/Continent/Europe/EU(European_Union)/European_Investment_Bank.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/EU(European_Union)/European_Investment_Bank.secret|European_Investment_Bank.secret]] 
 

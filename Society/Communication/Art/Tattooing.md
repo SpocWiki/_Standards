@@ -64,17 +64,17 @@ Library_of_Congress_Classification: GN419.3
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Tattooing](/_Standards/Society/Communication/Art/Tattooing.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Art/Tattooing|Tattooing]] 
 
-### #is_/same_as :: [Tattooing.public](/_public/Society/Communication/Art/Tattooing.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Art/Tattooing.public|Tattooing.public]] 
 
-### #is_/same_as :: [Tattooing.internal](/_internal/Society/Communication/Art/Tattooing.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Art/Tattooing.internal|Tattooing.internal]] 
 
-### #is_/same_as :: [Tattooing.protect](/_protect/Society/Communication/Art/Tattooing.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Art/Tattooing.protect|Tattooing.protect]] 
 
-### #is_/same_as :: [Tattooing.private](/_private/Society/Communication/Art/Tattooing.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Art/Tattooing.private|Tattooing.private]] 
 
-### #is_/same_as :: [Tattooing.personal](/_personal/Society/Communication/Art/Tattooing.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Art/Tattooing.personal|Tattooing.personal]] 
 
-### #is_/same_as :: [Tattooing.secret](/_secret/Society/Communication/Art/Tattooing.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Art/Tattooing.secret|Tattooing.secret]] 
 

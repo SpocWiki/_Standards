@@ -127,17 +127,17 @@ Information is Data with Relationships and Context
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Information](/_Standards/Philosophy/Epistemology/Information.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Epistemology/Information|Information]] 
 
-### #is_/same_as :: [Information.public](/_public/Philosophy/Epistemology/Information.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Epistemology/Information.public|Information.public]] 
 
-### #is_/same_as :: [Information.internal](/_internal/Philosophy/Epistemology/Information.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Epistemology/Information.internal|Information.internal]] 
 
-### #is_/same_as :: [Information.protect](/_protect/Philosophy/Epistemology/Information.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Epistemology/Information.protect|Information.protect]] 
 
-### #is_/same_as :: [Information.private](/_private/Philosophy/Epistemology/Information.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Epistemology/Information.private|Information.private]] 
 
-### #is_/same_as :: [Information.personal](/_personal/Philosophy/Epistemology/Information.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Epistemology/Information.personal|Information.personal]] 
 
-### #is_/same_as :: [Information.secret](/_secret/Philosophy/Epistemology/Information.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Epistemology/Information.secret|Information.secret]] 
 

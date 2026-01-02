@@ -65,17 +65,17 @@ Krugosvet_article: kultura_i_obrazovanie/religiya/GAVRIIL.html
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Gabriel](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Angel/Gabriel.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Angel/Gabriel|Gabriel]] 
 
-### #is_/same_as :: [Gabriel.public](/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Angel/Gabriel.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Angel/Gabriel.public|Gabriel.public]] 
 
-### #is_/same_as :: [Gabriel.internal](/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Angel/Gabriel.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Angel/Gabriel.internal|Gabriel.internal]] 
 
-### #is_/same_as :: [Gabriel.protect](/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Angel/Gabriel.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Angel/Gabriel.protect|Gabriel.protect]] 
 
-### #is_/same_as :: [Gabriel.private](/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Angel/Gabriel.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Angel/Gabriel.private|Gabriel.private]] 
 
-### #is_/same_as :: [Gabriel.personal](/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Angel/Gabriel.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Angel/Gabriel.personal|Gabriel.personal]] 
 
-### #is_/same_as :: [Gabriel.secret](/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Angel/Gabriel.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Angel/Gabriel.secret|Gabriel.secret]] 
 

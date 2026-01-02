@@ -77,3 +77,22 @@ P1015: "98063187"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Jean-Pierre%20Jeunet) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Director/Jeunet,Jean-Pierre|Jeunet,Jean-Pierre]] 
+
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Director/Jeunet,Jean-Pierre.public|Jeunet,Jean-Pierre.public]] 
+
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Director/Jeunet,Jean-Pierre.internal|Jeunet,Jean-Pierre.internal]] 
+
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Director/Jeunet,Jean-Pierre.protect|Jeunet,Jean-Pierre.protect]] 
+
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Director/Jeunet,Jean-Pierre.private|Jeunet,Jean-Pierre.private]] 
+
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Director/Jeunet,Jean-Pierre.personal|Jeunet,Jean-Pierre.personal]] 
+
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Director/Jeunet,Jean-Pierre.secret|Jeunet,Jean-Pierre.secret]] 
+

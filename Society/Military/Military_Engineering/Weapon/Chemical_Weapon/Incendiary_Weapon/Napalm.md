@@ -54,17 +54,17 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/US%20riverboat%20using
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Napalm](/_Standards/Society/Military/Military_Engineering/Weapon/Chemical_Weapon/Incendiary_Weapon/Napalm.md) 
+### #is_/same_as :: [[/_Standards/Society/Military/Military_Engineering/Weapon/Chemical_Weapon/Incendiary_Weapon/Napalm|Napalm]] 
 
-### #is_/same_as :: [Napalm.public](/_public/Society/Military/Military_Engineering/Weapon/Chemical_Weapon/Incendiary_Weapon/Napalm.public.md) 
+### #is_/same_as :: [[/_public/Society/Military/Military_Engineering/Weapon/Chemical_Weapon/Incendiary_Weapon/Napalm.public|Napalm.public]] 
 
-### #is_/same_as :: [Napalm.internal](/_internal/Society/Military/Military_Engineering/Weapon/Chemical_Weapon/Incendiary_Weapon/Napalm.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Military/Military_Engineering/Weapon/Chemical_Weapon/Incendiary_Weapon/Napalm.internal|Napalm.internal]] 
 
-### #is_/same_as :: [Napalm.protect](/_protect/Society/Military/Military_Engineering/Weapon/Chemical_Weapon/Incendiary_Weapon/Napalm.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Military/Military_Engineering/Weapon/Chemical_Weapon/Incendiary_Weapon/Napalm.protect|Napalm.protect]] 
 
-### #is_/same_as :: [Napalm.private](/_private/Society/Military/Military_Engineering/Weapon/Chemical_Weapon/Incendiary_Weapon/Napalm.private.md) 
+### #is_/same_as :: [[/_private/Society/Military/Military_Engineering/Weapon/Chemical_Weapon/Incendiary_Weapon/Napalm.private|Napalm.private]] 
 
-### #is_/same_as :: [Napalm.personal](/_personal/Society/Military/Military_Engineering/Weapon/Chemical_Weapon/Incendiary_Weapon/Napalm.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Military/Military_Engineering/Weapon/Chemical_Weapon/Incendiary_Weapon/Napalm.personal|Napalm.personal]] 
 
-### #is_/same_as :: [Napalm.secret](/_secret/Society/Military/Military_Engineering/Weapon/Chemical_Weapon/Incendiary_Weapon/Napalm.secret.md)
+### #is_/same_as :: [[/_secret/Society/Military/Military_Engineering/Weapon/Chemical_Weapon/Incendiary_Weapon/Napalm.secret|Napalm.secret]] 
 

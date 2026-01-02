@@ -57,17 +57,17 @@ MeSH_tree_code:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Meal](/_Standards/Society/Economics/Home_Economics/Meal.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Home_Economics/Meal|Meal]] 
 
-### #is_/same_as :: [Meal.public](/_public/Society/Economics/Home_Economics/Meal.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Home_Economics/Meal.public|Meal.public]] 
 
-### #is_/same_as :: [Meal.internal](/_internal/Society/Economics/Home_Economics/Meal.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Home_Economics/Meal.internal|Meal.internal]] 
 
-### #is_/same_as :: [Meal.protect](/_protect/Society/Economics/Home_Economics/Meal.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Home_Economics/Meal.protect|Meal.protect]] 
 
-### #is_/same_as :: [Meal.private](/_private/Society/Economics/Home_Economics/Meal.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Home_Economics/Meal.private|Meal.private]] 
 
-### #is_/same_as :: [Meal.personal](/_personal/Society/Economics/Home_Economics/Meal.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Home_Economics/Meal.personal|Meal.personal]] 
 
-### #is_/same_as :: [Meal.secret](/_secret/Society/Economics/Home_Economics/Meal.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Home_Economics/Meal.secret|Meal.secret]] 
 

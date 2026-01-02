@@ -56,17 +56,17 @@ Provenio_UUID: 8514681b-affa-4ef7-9c88-a1c979215351
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Poetics](/_Standards/Society/Communication/Media/Writing/Book/Poetry/Poetics.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Poetry/Poetics|Poetics]] 
 
-### #is_/same_as :: [Poetics.public](/_public/Society/Communication/Media/Writing/Book/Poetry/Poetics.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Poetry/Poetics.public|Poetics.public]] 
 
-### #is_/same_as :: [Poetics.internal](/_internal/Society/Communication/Media/Writing/Book/Poetry/Poetics.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Poetry/Poetics.internal|Poetics.internal]] 
 
-### #is_/same_as :: [Poetics.protect](/_protect/Society/Communication/Media/Writing/Book/Poetry/Poetics.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Poetry/Poetics.protect|Poetics.protect]] 
 
-### #is_/same_as :: [Poetics.private](/_private/Society/Communication/Media/Writing/Book/Poetry/Poetics.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Poetry/Poetics.private|Poetics.private]] 
 
-### #is_/same_as :: [Poetics.personal](/_personal/Society/Communication/Media/Writing/Book/Poetry/Poetics.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Poetry/Poetics.personal|Poetics.personal]] 
 
-### #is_/same_as :: [Poetics.secret](/_secret/Society/Communication/Media/Writing/Book/Poetry/Poetics.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Poetry/Poetics.secret|Poetics.secret]] 
 

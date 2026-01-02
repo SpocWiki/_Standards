@@ -41,17 +41,17 @@ Dewey_Decimal_Classification: "532.05"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Fluid_Dynamics](/_Standards/Science/Physics/Fluid_Mechanics/Fluid_Dynamics.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Fluid_Mechanics/Fluid_Dynamics|Fluid_Dynamics]] 
 
-### #is_/same_as :: [Fluid_Dynamics.public](/_public/Science/Physics/Fluid_Mechanics/Fluid_Dynamics.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Fluid_Mechanics/Fluid_Dynamics.public|Fluid_Dynamics.public]] 
 
-### #is_/same_as :: [Fluid_Dynamics.internal](/_internal/Science/Physics/Fluid_Mechanics/Fluid_Dynamics.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Fluid_Mechanics/Fluid_Dynamics.internal|Fluid_Dynamics.internal]] 
 
-### #is_/same_as :: [Fluid_Dynamics.protect](/_protect/Science/Physics/Fluid_Mechanics/Fluid_Dynamics.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Fluid_Mechanics/Fluid_Dynamics.protect|Fluid_Dynamics.protect]] 
 
-### #is_/same_as :: [Fluid_Dynamics.private](/_private/Science/Physics/Fluid_Mechanics/Fluid_Dynamics.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Fluid_Mechanics/Fluid_Dynamics.private|Fluid_Dynamics.private]] 
 
-### #is_/same_as :: [Fluid_Dynamics.personal](/_personal/Science/Physics/Fluid_Mechanics/Fluid_Dynamics.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Fluid_Mechanics/Fluid_Dynamics.personal|Fluid_Dynamics.personal]] 
 
-### #is_/same_as :: [Fluid_Dynamics.secret](/_secret/Science/Physics/Fluid_Mechanics/Fluid_Dynamics.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Fluid_Mechanics/Fluid_Dynamics.secret|Fluid_Dynamics.secret]] 
 

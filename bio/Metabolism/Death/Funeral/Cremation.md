@@ -54,17 +54,17 @@ earliest_date: -40000-06
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Cremation](/_Standards/bio/Metabolism/Death/Funeral/Cremation.md) 
+### #is_/same_as :: [[/_Standards/bio/Metabolism/Death/Funeral/Cremation|Cremation]] 
 
-### #is_/same_as :: [Cremation.public](/_public/bio/Metabolism/Death/Funeral/Cremation.public.md) 
+### #is_/same_as :: [[/_public/bio/Metabolism/Death/Funeral/Cremation.public|Cremation.public]] 
 
-### #is_/same_as :: [Cremation.internal](/_internal/bio/Metabolism/Death/Funeral/Cremation.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Metabolism/Death/Funeral/Cremation.internal|Cremation.internal]] 
 
-### #is_/same_as :: [Cremation.protect](/_protect/bio/Metabolism/Death/Funeral/Cremation.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Metabolism/Death/Funeral/Cremation.protect|Cremation.protect]] 
 
-### #is_/same_as :: [Cremation.private](/_private/bio/Metabolism/Death/Funeral/Cremation.private.md) 
+### #is_/same_as :: [[/_private/bio/Metabolism/Death/Funeral/Cremation.private|Cremation.private]] 
 
-### #is_/same_as :: [Cremation.personal](/_personal/bio/Metabolism/Death/Funeral/Cremation.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Metabolism/Death/Funeral/Cremation.personal|Cremation.personal]] 
 
-### #is_/same_as :: [Cremation.secret](/_secret/bio/Metabolism/Death/Funeral/Cremation.secret.md)
+### #is_/same_as :: [[/_secret/bio/Metabolism/Death/Funeral/Cremation.secret|Cremation.secret]] 
 

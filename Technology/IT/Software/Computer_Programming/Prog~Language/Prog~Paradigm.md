@@ -59,17 +59,17 @@ Commons_category: Programming language by paradigm
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Prog~Paradigm](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm|Prog~Paradigm]] 
 
-### #is_/same_as :: [Prog~Paradigm.public](/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm.public|Prog~Paradigm.public]] 
 
-### #is_/same_as :: [Prog~Paradigm.internal](/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm.internal|Prog~Paradigm.internal]] 
 
-### #is_/same_as :: [Prog~Paradigm.protect](/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm.protect|Prog~Paradigm.protect]] 
 
-### #is_/same_as :: [Prog~Paradigm.private](/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm.private|Prog~Paradigm.private]] 
 
-### #is_/same_as :: [Prog~Paradigm.personal](/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm.personal|Prog~Paradigm.personal]] 
 
-### #is_/same_as :: [Prog~Paradigm.secret](/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm.secret|Prog~Paradigm.secret]] 
 

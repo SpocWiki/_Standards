@@ -119,17 +119,17 @@ ISNI: 0000000121215105
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lang,Fritz](/_Standards/Society/Communication/Media/Movie/Movie-Director/Lang,Fritz.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Director/Lang,Fritz|Lang,Fritz]] 
 
-### #is_/same_as :: [Lang,Fritz.public](/_public/Society/Communication/Media/Movie/Movie-Director/Lang,Fritz.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Director/Lang,Fritz.public|Lang,Fritz.public]] 
 
-### #is_/same_as :: [Lang,Fritz.internal](/_internal/Society/Communication/Media/Movie/Movie-Director/Lang,Fritz.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Director/Lang,Fritz.internal|Lang,Fritz.internal]] 
 
-### #is_/same_as :: [Lang,Fritz.protect](/_protect/Society/Communication/Media/Movie/Movie-Director/Lang,Fritz.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Director/Lang,Fritz.protect|Lang,Fritz.protect]] 
 
-### #is_/same_as :: [Lang,Fritz.private](/_private/Society/Communication/Media/Movie/Movie-Director/Lang,Fritz.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Director/Lang,Fritz.private|Lang,Fritz.private]] 
 
-### #is_/same_as :: [Lang,Fritz.personal](/_personal/Society/Communication/Media/Movie/Movie-Director/Lang,Fritz.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Director/Lang,Fritz.personal|Lang,Fritz.personal]] 
 
-### #is_/same_as :: [Lang,Fritz.secret](/_secret/Society/Communication/Media/Movie/Movie-Director/Lang,Fritz.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Director/Lang,Fritz.secret|Lang,Fritz.secret]] 
 

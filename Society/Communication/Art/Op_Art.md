@@ -37,17 +37,17 @@ Commons_category: Op art
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Op_Art](/_Standards/Society/Communication/Art/Op_Art.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Art/Op_Art|Op_Art]] 
 
-### #is_/same_as :: [Op_Art.public](/_public/Society/Communication/Art/Op_Art.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Art/Op_Art.public|Op_Art.public]] 
 
-### #is_/same_as :: [Op_Art.internal](/_internal/Society/Communication/Art/Op_Art.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Art/Op_Art.internal|Op_Art.internal]] 
 
-### #is_/same_as :: [Op_Art.protect](/_protect/Society/Communication/Art/Op_Art.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Art/Op_Art.protect|Op_Art.protect]] 
 
-### #is_/same_as :: [Op_Art.private](/_private/Society/Communication/Art/Op_Art.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Art/Op_Art.private|Op_Art.private]] 
 
-### #is_/same_as :: [Op_Art.personal](/_personal/Society/Communication/Art/Op_Art.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Art/Op_Art.personal|Op_Art.personal]] 
 
-### #is_/same_as :: [Op_Art.secret](/_secret/Society/Communication/Art/Op_Art.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Art/Op_Art.secret|Op_Art.secret]] 
 

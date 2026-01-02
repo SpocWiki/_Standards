@@ -29,17 +29,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Cooperative_Multitasking](/_Standards/Technology/IT/Software/OS(Operating-System)/Multitasking/Cooperative_Multitasking.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Software/OS(Operating-System)/Multitasking/Cooperative_Multitasking|Cooperative_Multitasking]] 
 
-### #is_/same_as :: [Cooperative_Multitasking.public](/_public/Technology/IT/Software/OS(Operating-System)/Multitasking/Cooperative_Multitasking.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Software/OS(Operating-System)/Multitasking/Cooperative_Multitasking.public|Cooperative_Multitasking.public]] 
 
-### #is_/same_as :: [Cooperative_Multitasking.internal](/_internal/Technology/IT/Software/OS(Operating-System)/Multitasking/Cooperative_Multitasking.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Software/OS(Operating-System)/Multitasking/Cooperative_Multitasking.internal|Cooperative_Multitasking.internal]] 
 
-### #is_/same_as :: [Cooperative_Multitasking.protect](/_protect/Technology/IT/Software/OS(Operating-System)/Multitasking/Cooperative_Multitasking.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Software/OS(Operating-System)/Multitasking/Cooperative_Multitasking.protect|Cooperative_Multitasking.protect]] 
 
-### #is_/same_as :: [Cooperative_Multitasking.private](/_private/Technology/IT/Software/OS(Operating-System)/Multitasking/Cooperative_Multitasking.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Software/OS(Operating-System)/Multitasking/Cooperative_Multitasking.private|Cooperative_Multitasking.private]] 
 
-### #is_/same_as :: [Cooperative_Multitasking.personal](/_personal/Technology/IT/Software/OS(Operating-System)/Multitasking/Cooperative_Multitasking.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Software/OS(Operating-System)/Multitasking/Cooperative_Multitasking.personal|Cooperative_Multitasking.personal]] 
 
-### #is_/same_as :: [Cooperative_Multitasking.secret](/_secret/Technology/IT/Software/OS(Operating-System)/Multitasking/Cooperative_Multitasking.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Software/OS(Operating-System)/Multitasking/Cooperative_Multitasking.secret|Cooperative_Multitasking.secret]] 
 

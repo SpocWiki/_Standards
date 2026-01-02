@@ -58,17 +58,17 @@ Dewey_Decimal_Classification:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Rechtsstaat](/_Standards/Society/Politics/Government/Constitutionalism/Rechtsstaat.md) 
+### #is_/same_as :: [[/_Standards/Society/Politics/Government/Constitutionalism/Rechtsstaat|Rechtsstaat]] 
 
-### #is_/same_as :: [Rechtsstaat.public](/_public/Society/Politics/Government/Constitutionalism/Rechtsstaat.public.md) 
+### #is_/same_as :: [[/_public/Society/Politics/Government/Constitutionalism/Rechtsstaat.public|Rechtsstaat.public]] 
 
-### #is_/same_as :: [Rechtsstaat.internal](/_internal/Society/Politics/Government/Constitutionalism/Rechtsstaat.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Politics/Government/Constitutionalism/Rechtsstaat.internal|Rechtsstaat.internal]] 
 
-### #is_/same_as :: [Rechtsstaat.protect](/_protect/Society/Politics/Government/Constitutionalism/Rechtsstaat.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Politics/Government/Constitutionalism/Rechtsstaat.protect|Rechtsstaat.protect]] 
 
-### #is_/same_as :: [Rechtsstaat.private](/_private/Society/Politics/Government/Constitutionalism/Rechtsstaat.private.md) 
+### #is_/same_as :: [[/_private/Society/Politics/Government/Constitutionalism/Rechtsstaat.private|Rechtsstaat.private]] 
 
-### #is_/same_as :: [Rechtsstaat.personal](/_personal/Society/Politics/Government/Constitutionalism/Rechtsstaat.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Politics/Government/Constitutionalism/Rechtsstaat.personal|Rechtsstaat.personal]] 
 
-### #is_/same_as :: [Rechtsstaat.secret](/_secret/Society/Politics/Government/Constitutionalism/Rechtsstaat.secret.md)
+### #is_/same_as :: [[/_secret/Society/Politics/Government/Constitutionalism/Rechtsstaat.secret|Rechtsstaat.secret]] 
 

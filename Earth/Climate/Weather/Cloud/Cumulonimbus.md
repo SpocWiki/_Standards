@@ -43,17 +43,17 @@ hashtag_: cumulonimbus_cloud
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Cumulonimbus](/_Standards/Earth/Climate/Weather/Cloud/Cumulonimbus.md) 
+### #is_/same_as :: [[/_Standards/Earth/Climate/Weather/Cloud/Cumulonimbus|Cumulonimbus]] 
 
-### #is_/same_as :: [Cumulonimbus.public](/_public/Earth/Climate/Weather/Cloud/Cumulonimbus.public.md) 
+### #is_/same_as :: [[/_public/Earth/Climate/Weather/Cloud/Cumulonimbus.public|Cumulonimbus.public]] 
 
-### #is_/same_as :: [Cumulonimbus.internal](/_internal/Earth/Climate/Weather/Cloud/Cumulonimbus.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Climate/Weather/Cloud/Cumulonimbus.internal|Cumulonimbus.internal]] 
 
-### #is_/same_as :: [Cumulonimbus.protect](/_protect/Earth/Climate/Weather/Cloud/Cumulonimbus.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Climate/Weather/Cloud/Cumulonimbus.protect|Cumulonimbus.protect]] 
 
-### #is_/same_as :: [Cumulonimbus.private](/_private/Earth/Climate/Weather/Cloud/Cumulonimbus.private.md) 
+### #is_/same_as :: [[/_private/Earth/Climate/Weather/Cloud/Cumulonimbus.private|Cumulonimbus.private]] 
 
-### #is_/same_as :: [Cumulonimbus.personal](/_personal/Earth/Climate/Weather/Cloud/Cumulonimbus.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Climate/Weather/Cloud/Cumulonimbus.personal|Cumulonimbus.personal]] 
 
-### #is_/same_as :: [Cumulonimbus.secret](/_secret/Earth/Climate/Weather/Cloud/Cumulonimbus.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Climate/Weather/Cloud/Cumulonimbus.secret|Cumulonimbus.secret]] 
 

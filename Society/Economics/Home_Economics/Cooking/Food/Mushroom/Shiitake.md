@@ -75,17 +75,17 @@ UNII: NW7F4358J8
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Shiitake](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Mushroom/Shiitake.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Home_Economics/Cooking/Food/Mushroom/Shiitake|Shiitake]] 
 
-### #is_/same_as :: [Shiitake.public](/_public/Society/Economics/Home_Economics/Cooking/Food/Mushroom/Shiitake.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Home_Economics/Cooking/Food/Mushroom/Shiitake.public|Shiitake.public]] 
 
-### #is_/same_as :: [Shiitake.internal](/_internal/Society/Economics/Home_Economics/Cooking/Food/Mushroom/Shiitake.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Home_Economics/Cooking/Food/Mushroom/Shiitake.internal|Shiitake.internal]] 
 
-### #is_/same_as :: [Shiitake.protect](/_protect/Society/Economics/Home_Economics/Cooking/Food/Mushroom/Shiitake.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Home_Economics/Cooking/Food/Mushroom/Shiitake.protect|Shiitake.protect]] 
 
-### #is_/same_as :: [Shiitake.private](/_private/Society/Economics/Home_Economics/Cooking/Food/Mushroom/Shiitake.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Home_Economics/Cooking/Food/Mushroom/Shiitake.private|Shiitake.private]] 
 
-### #is_/same_as :: [Shiitake.personal](/_personal/Society/Economics/Home_Economics/Cooking/Food/Mushroom/Shiitake.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Home_Economics/Cooking/Food/Mushroom/Shiitake.personal|Shiitake.personal]] 
 
-### #is_/same_as :: [Shiitake.secret](/_secret/Society/Economics/Home_Economics/Cooking/Food/Mushroom/Shiitake.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Home_Economics/Cooking/Food/Mushroom/Shiitake.secret|Shiitake.secret]] 
 

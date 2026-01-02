@@ -62,17 +62,17 @@ IEV_number: 103-10-01
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Wave](/_Standards/Science/Physics/Wave.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Wave|Wave]] 
 
-### #is_/same_as :: [Wave.public](/_public/Science/Physics/Wave.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Wave.public|Wave.public]] 
 
-### #is_/same_as :: [Wave.internal](/_internal/Science/Physics/Wave.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Wave.internal|Wave.internal]] 
 
-### #is_/same_as :: [Wave.protect](/_protect/Science/Physics/Wave.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Wave.protect|Wave.protect]] 
 
-### #is_/same_as :: [Wave.private](/_private/Science/Physics/Wave.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Wave.private|Wave.private]] 
 
-### #is_/same_as :: [Wave.personal](/_personal/Science/Physics/Wave.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Wave.personal|Wave.personal]] 
 
-### #is_/same_as :: [Wave.secret](/_secret/Science/Physics/Wave.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Wave.secret|Wave.secret]] 
 

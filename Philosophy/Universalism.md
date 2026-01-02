@@ -55,17 +55,17 @@ that universalism seeks to achieve but does not inherently guarantee.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Universality(Philosophy)](/_Standards/Philosophy/Universality(Philosophy).md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Universalism|Universalism]] 
 
-### #is_/same_as :: [Universality(Philosophy).public](/_public/Philosophy/Universality(Philosophy).public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Universalism.public|Universalism.public]] 
 
-### #is_/same_as :: [Universality(Philosophy).internal](/_internal/Philosophy/Universality(Philosophy).internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Universalism.internal|Universalism.internal]] 
 
-### #is_/same_as :: [Universality(Philosophy).protect](/_protect/Philosophy/Universality(Philosophy).protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Universalism.protect|Universalism.protect]] 
 
-### #is_/same_as :: [Universality(Philosophy).private](/_private/Philosophy/Universality(Philosophy).private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Universalism.private|Universalism.private]] 
 
-### #is_/same_as :: [Universality(Philosophy).personal](/_personal/Philosophy/Universality(Philosophy).personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Universalism.personal|Universalism.personal]] 
 
-### #is_/same_as :: [Universality(Philosophy).secret](/_secret/Philosophy/Universality(Philosophy).secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Universalism.secret|Universalism.secret]] 
 

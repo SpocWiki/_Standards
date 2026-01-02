@@ -30,17 +30,17 @@ Commons_category: History of linguistics
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [History_of_Linguistics](/_Standards/Language/Linguistics/History_of_Linguistics.md) 
+### #is_/same_as :: [[/_Standards/Language/Linguistics/History_of_Linguistics|History_of_Linguistics]] 
 
-### #is_/same_as :: [History_of_Linguistics.public](/_public/Language/Linguistics/History_of_Linguistics.public.md) 
+### #is_/same_as :: [[/_public/Language/Linguistics/History_of_Linguistics.public|History_of_Linguistics.public]] 
 
-### #is_/same_as :: [History_of_Linguistics.internal](/_internal/Language/Linguistics/History_of_Linguistics.internal.md) 
+### #is_/same_as :: [[/_internal/Language/Linguistics/History_of_Linguistics.internal|History_of_Linguistics.internal]] 
 
-### #is_/same_as :: [History_of_Linguistics.protect](/_protect/Language/Linguistics/History_of_Linguistics.protect.md) 
+### #is_/same_as :: [[/_protect/Language/Linguistics/History_of_Linguistics.protect|History_of_Linguistics.protect]] 
 
-### #is_/same_as :: [History_of_Linguistics.private](/_private/Language/Linguistics/History_of_Linguistics.private.md) 
+### #is_/same_as :: [[/_private/Language/Linguistics/History_of_Linguistics.private|History_of_Linguistics.private]] 
 
-### #is_/same_as :: [History_of_Linguistics.personal](/_personal/Language/Linguistics/History_of_Linguistics.personal.md) 
+### #is_/same_as :: [[/_personal/Language/Linguistics/History_of_Linguistics.personal|History_of_Linguistics.personal]] 
 
-### #is_/same_as :: [History_of_Linguistics.secret](/_secret/Language/Linguistics/History_of_Linguistics.secret.md)
+### #is_/same_as :: [[/_secret/Language/Linguistics/History_of_Linguistics.secret|History_of_Linguistics.secret]] 
 

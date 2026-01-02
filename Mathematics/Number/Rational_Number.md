@@ -82,17 +82,17 @@ Commons_category: Rational numbers
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Rational_Number](/_Standards/Mathematics/Number/Rational_Number.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Number/Rational_Number|Rational_Number]] 
 
-### #is_/same_as :: [Rational_Number.public](/_public/Mathematics/Number/Rational_Number.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Number/Rational_Number.public|Rational_Number.public]] 
 
-### #is_/same_as :: [Rational_Number.internal](/_internal/Mathematics/Number/Rational_Number.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Number/Rational_Number.internal|Rational_Number.internal]] 
 
-### #is_/same_as :: [Rational_Number.protect](/_protect/Mathematics/Number/Rational_Number.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Number/Rational_Number.protect|Rational_Number.protect]] 
 
-### #is_/same_as :: [Rational_Number.private](/_private/Mathematics/Number/Rational_Number.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Number/Rational_Number.private|Rational_Number.private]] 
 
-### #is_/same_as :: [Rational_Number.personal](/_personal/Mathematics/Number/Rational_Number.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Number/Rational_Number.personal|Rational_Number.personal]] 
 
-### #is_/same_as :: [Rational_Number.secret](/_secret/Mathematics/Number/Rational_Number.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Number/Rational_Number.secret|Rational_Number.secret]] 
 

@@ -58,17 +58,17 @@ Commons_category: Dresses
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Dress](/_Standards/Technology/Tool/Clothing/Dress.md) 
+### #is_/same_as :: [[/_Standards/Technology/Tool/Clothing/Dress|Dress]] 
 
-### #is_/same_as :: [Dress.public](/_public/Technology/Tool/Clothing/Dress.public.md) 
+### #is_/same_as :: [[/_public/Technology/Tool/Clothing/Dress.public|Dress.public]] 
 
-### #is_/same_as :: [Dress.internal](/_internal/Technology/Tool/Clothing/Dress.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Tool/Clothing/Dress.internal|Dress.internal]] 
 
-### #is_/same_as :: [Dress.protect](/_protect/Technology/Tool/Clothing/Dress.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Tool/Clothing/Dress.protect|Dress.protect]] 
 
-### #is_/same_as :: [Dress.private](/_private/Technology/Tool/Clothing/Dress.private.md) 
+### #is_/same_as :: [[/_private/Technology/Tool/Clothing/Dress.private|Dress.private]] 
 
-### #is_/same_as :: [Dress.personal](/_personal/Technology/Tool/Clothing/Dress.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Tool/Clothing/Dress.personal|Dress.personal]] 
 
-### #is_/same_as :: [Dress.secret](/_secret/Technology/Tool/Clothing/Dress.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Tool/Clothing/Dress.secret|Dress.secret]] 
 

@@ -57,17 +57,17 @@ Commons_category: Separation of powers
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Separation_of_Powers](/_Standards/Society/Politics/Political_Power/Separation_of_Powers.md) 
+### #is_/same_as :: [[/_Standards/Society/Politics/Political_Power/Separation_of_Powers|Separation_of_Powers]] 
 
-### #is_/same_as :: [Separation_of_Powers.public](/_public/Society/Politics/Political_Power/Separation_of_Powers.public.md) 
+### #is_/same_as :: [[/_public/Society/Politics/Political_Power/Separation_of_Powers.public|Separation_of_Powers.public]] 
 
-### #is_/same_as :: [Separation_of_Powers.internal](/_internal/Society/Politics/Political_Power/Separation_of_Powers.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Politics/Political_Power/Separation_of_Powers.internal|Separation_of_Powers.internal]] 
 
-### #is_/same_as :: [Separation_of_Powers.protect](/_protect/Society/Politics/Political_Power/Separation_of_Powers.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Politics/Political_Power/Separation_of_Powers.protect|Separation_of_Powers.protect]] 
 
-### #is_/same_as :: [Separation_of_Powers.private](/_private/Society/Politics/Political_Power/Separation_of_Powers.private.md) 
+### #is_/same_as :: [[/_private/Society/Politics/Political_Power/Separation_of_Powers.private|Separation_of_Powers.private]] 
 
-### #is_/same_as :: [Separation_of_Powers.personal](/_personal/Society/Politics/Political_Power/Separation_of_Powers.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Politics/Political_Power/Separation_of_Powers.personal|Separation_of_Powers.personal]] 
 
-### #is_/same_as :: [Separation_of_Powers.secret](/_secret/Society/Politics/Political_Power/Separation_of_Powers.secret.md)
+### #is_/same_as :: [[/_secret/Society/Politics/Political_Power/Separation_of_Powers.secret|Separation_of_Powers.secret]] 
 

@@ -235,17 +235,17 @@ Libris_URI: 1zcff2jk33lctb6
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Tenzin_Gyatso](/_Standards/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism/Tenzin_Gyatso.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism/Tenzin_Gyatso|Tenzin_Gyatso]] 
 
-### #is_/same_as :: [Tenzin_Gyatso.public](/_public/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism/Tenzin_Gyatso.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism/Tenzin_Gyatso.public|Tenzin_Gyatso.public]] 
 
-### #is_/same_as :: [Tenzin_Gyatso.internal](/_internal/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism/Tenzin_Gyatso.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism/Tenzin_Gyatso.internal|Tenzin_Gyatso.internal]] 
 
-### #is_/same_as :: [Tenzin_Gyatso.protect](/_protect/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism/Tenzin_Gyatso.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism/Tenzin_Gyatso.protect|Tenzin_Gyatso.protect]] 
 
-### #is_/same_as :: [Tenzin_Gyatso.private](/_private/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism/Tenzin_Gyatso.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism/Tenzin_Gyatso.private|Tenzin_Gyatso.private]] 
 
-### #is_/same_as :: [Tenzin_Gyatso.personal](/_personal/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism/Tenzin_Gyatso.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism/Tenzin_Gyatso.personal|Tenzin_Gyatso.personal]] 
 
-### #is_/same_as :: [Tenzin_Gyatso.secret](/_secret/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism/Tenzin_Gyatso.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism/Tenzin_Gyatso.secret|Tenzin_Gyatso.secret]] 
 

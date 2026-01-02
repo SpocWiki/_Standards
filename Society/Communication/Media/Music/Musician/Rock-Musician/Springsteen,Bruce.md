@@ -174,17 +174,17 @@ IPI_name_number: 00076333277
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Springsteen,Bruce](/_Standards/Society/Communication/Media/Music/Musician/Rock-Musician/Springsteen,Bruce.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Musician/Rock-Musician/Springsteen,Bruce|Springsteen,Bruce]] 
 
-### #is_/same_as :: [Springsteen,Bruce.public](/_public/Society/Communication/Media/Music/Musician/Rock-Musician/Springsteen,Bruce.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Musician/Rock-Musician/Springsteen,Bruce.public|Springsteen,Bruce.public]] 
 
-### #is_/same_as :: [Springsteen,Bruce.internal](/_internal/Society/Communication/Media/Music/Musician/Rock-Musician/Springsteen,Bruce.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Musician/Rock-Musician/Springsteen,Bruce.internal|Springsteen,Bruce.internal]] 
 
-### #is_/same_as :: [Springsteen,Bruce.protect](/_protect/Society/Communication/Media/Music/Musician/Rock-Musician/Springsteen,Bruce.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Musician/Rock-Musician/Springsteen,Bruce.protect|Springsteen,Bruce.protect]] 
 
-### #is_/same_as :: [Springsteen,Bruce.private](/_private/Society/Communication/Media/Music/Musician/Rock-Musician/Springsteen,Bruce.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Musician/Rock-Musician/Springsteen,Bruce.private|Springsteen,Bruce.private]] 
 
-### #is_/same_as :: [Springsteen,Bruce.personal](/_personal/Society/Communication/Media/Music/Musician/Rock-Musician/Springsteen,Bruce.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Musician/Rock-Musician/Springsteen,Bruce.personal|Springsteen,Bruce.personal]] 
 
-### #is_/same_as :: [Springsteen,Bruce.secret](/_secret/Society/Communication/Media/Music/Musician/Rock-Musician/Springsteen,Bruce.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Musician/Rock-Musician/Springsteen,Bruce.secret|Springsteen,Bruce.secret]] 
 

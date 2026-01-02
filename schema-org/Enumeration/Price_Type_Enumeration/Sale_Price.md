@@ -44,17 +44,17 @@ Represents a sale price (usually active for a limited period) of an offered prod
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sale_Price](/_Standards/schema-org/Enumeration/Price_Type_Enumeration/Sale_Price.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Price_Type_Enumeration/Sale_Price|Sale_Price]] 
 
-### #is_/same_as :: [Sale_Price.public](/_public/schema-org/Enumeration/Price_Type_Enumeration/Sale_Price.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Price_Type_Enumeration/Sale_Price.public|Sale_Price.public]] 
 
-### #is_/same_as :: [Sale_Price.internal](/_internal/schema-org/Enumeration/Price_Type_Enumeration/Sale_Price.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Price_Type_Enumeration/Sale_Price.internal|Sale_Price.internal]] 
 
-### #is_/same_as :: [Sale_Price.protect](/_protect/schema-org/Enumeration/Price_Type_Enumeration/Sale_Price.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Price_Type_Enumeration/Sale_Price.protect|Sale_Price.protect]] 
 
-### #is_/same_as :: [Sale_Price.private](/_private/schema-org/Enumeration/Price_Type_Enumeration/Sale_Price.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Price_Type_Enumeration/Sale_Price.private|Sale_Price.private]] 
 
-### #is_/same_as :: [Sale_Price.personal](/_personal/schema-org/Enumeration/Price_Type_Enumeration/Sale_Price.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Price_Type_Enumeration/Sale_Price.personal|Sale_Price.personal]] 
 
-### #is_/same_as :: [Sale_Price.secret](/_secret/schema-org/Enumeration/Price_Type_Enumeration/Sale_Price.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Price_Type_Enumeration/Sale_Price.secret|Sale_Price.secret]] 
 

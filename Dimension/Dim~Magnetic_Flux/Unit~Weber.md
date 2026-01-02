@@ -48,3 +48,22 @@ unit_symbol:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Weber%20(unit)) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Dimension/Dim~Magnetic_Flux/Unit~Weber|Unit~Weber]] 
+
+### #is_/same_as :: [[/_public/Dimension/Dim~Magnetic_Flux/Unit~Weber.public|Unit~Weber.public]] 
+
+### #is_/same_as :: [[/_internal/Dimension/Dim~Magnetic_Flux/Unit~Weber.internal|Unit~Weber.internal]] 
+
+### #is_/same_as :: [[/_protect/Dimension/Dim~Magnetic_Flux/Unit~Weber.protect|Unit~Weber.protect]] 
+
+### #is_/same_as :: [[/_private/Dimension/Dim~Magnetic_Flux/Unit~Weber.private|Unit~Weber.private]] 
+
+### #is_/same_as :: [[/_personal/Dimension/Dim~Magnetic_Flux/Unit~Weber.personal|Unit~Weber.personal]] 
+
+### #is_/same_as :: [[/_secret/Dimension/Dim~Magnetic_Flux/Unit~Weber.secret|Unit~Weber.secret]] 
+

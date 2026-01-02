@@ -51,7 +51,7 @@ title: Gastropoda
 
 
 -------------------------------------------------------------------------- 
-![Nudibranchia](Gastropoda/Nudibranchia.jpg))
+![Nudibranchia](Gastropoda/Nudibranchia.jpg) 
 Scientific Name ::  Nudibranchia
 Comments          Silver cloud nudibranch
 Creator           P. Crawford & D. Giberson, UPEI
@@ -75,17 +75,17 @@ Copyright ::         © [BIODIDAC](http://biodidac.bio.uottawa.ca/index.htm)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Gastropoda](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Gastropoda.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Gastropoda|Gastropoda]] 
 
-### #is_/same_as :: [Gastropoda.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Gastropoda.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Gastropoda.public|Gastropoda.public]] 
 
-### #is_/same_as :: [Gastropoda.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Gastropoda.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Gastropoda.internal|Gastropoda.internal]] 
 
-### #is_/same_as :: [Gastropoda.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Gastropoda.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Gastropoda.protect|Gastropoda.protect]] 
 
-### #is_/same_as :: [Gastropoda.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Gastropoda.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Gastropoda.private|Gastropoda.private]] 
 
-### #is_/same_as :: [Gastropoda.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Gastropoda.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Gastropoda.personal|Gastropoda.personal]] 
 
-### #is_/same_as :: [Gastropoda.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Gastropoda.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Gastropoda.secret|Gastropoda.secret]] 
 

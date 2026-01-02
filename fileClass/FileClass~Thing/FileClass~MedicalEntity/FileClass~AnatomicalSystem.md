@@ -91,17 +91,17 @@ RelatedTherapy:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#clas
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~AnatomicalSystem](/_Standards/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~AnatomicalSystem.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~AnatomicalSystem|FileClass~AnatomicalSystem]] 
 
-### #is_/same_as :: [FileClass~AnatomicalSystem.public](/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~AnatomicalSystem.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~AnatomicalSystem.public|FileClass~AnatomicalSystem.public]] 
 
-### #is_/same_as :: [FileClass~AnatomicalSystem.internal](/_internal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~AnatomicalSystem.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~AnatomicalSystem.internal|FileClass~AnatomicalSystem.internal]] 
 
-### #is_/same_as :: [FileClass~AnatomicalSystem.protect](/_protect/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~AnatomicalSystem.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~AnatomicalSystem.protect|FileClass~AnatomicalSystem.protect]] 
 
-### #is_/same_as :: [FileClass~AnatomicalSystem.private](/_private/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~AnatomicalSystem.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~AnatomicalSystem.private|FileClass~AnatomicalSystem.private]] 
 
-### #is_/same_as :: [FileClass~AnatomicalSystem.personal](/_personal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~AnatomicalSystem.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~AnatomicalSystem.personal|FileClass~AnatomicalSystem.personal]] 
 
-### #is_/same_as :: [FileClass~AnatomicalSystem.secret](/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~AnatomicalSystem.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~AnatomicalSystem.secret|FileClass~AnatomicalSystem.secret]] 
 

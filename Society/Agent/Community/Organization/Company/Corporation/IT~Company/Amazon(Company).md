@@ -25,17 +25,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Amazon(Company)](/_Standards/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Amazon(Company).md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Amazon(Company)|Amazon(Company)]] 
 
-### #is_/same_as :: [Amazon(Company).public](/_public/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Amazon(Company).public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Amazon(Company).public|Amazon(Company).public]] 
 
-### #is_/same_as :: [Amazon(Company).internal](/_internal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Amazon(Company).internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Amazon(Company).internal|Amazon(Company).internal]] 
 
-### #is_/same_as :: [Amazon(Company).protect](/_protect/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Amazon(Company).protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Amazon(Company).protect|Amazon(Company).protect]] 
 
-### #is_/same_as :: [Amazon(Company).private](/_private/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Amazon(Company).private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Amazon(Company).private|Amazon(Company).private]] 
 
-### #is_/same_as :: [Amazon(Company).personal](/_personal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Amazon(Company).personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Amazon(Company).personal|Amazon(Company).personal]] 
 
-### #is_/same_as :: [Amazon(Company).secret](/_secret/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Amazon(Company).secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Amazon(Company).secret|Amazon(Company).secret]] 
 

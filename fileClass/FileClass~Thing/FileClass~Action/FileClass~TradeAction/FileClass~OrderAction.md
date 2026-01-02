@@ -42,17 +42,17 @@ DeliveryMethod:: {"type":"Select","options":{"valuesList":{"LockerDelivery","OnS
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~OrderAction](/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~TradeAction/FileClass~OrderAction.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~TradeAction/FileClass~OrderAction|FileClass~OrderAction]] 
 
-### #is_/same_as :: [FileClass~OrderAction.public](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~TradeAction/FileClass~OrderAction.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~TradeAction/FileClass~OrderAction.public|FileClass~OrderAction.public]] 
 
-### #is_/same_as :: [FileClass~OrderAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~TradeAction/FileClass~OrderAction.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~TradeAction/FileClass~OrderAction.internal|FileClass~OrderAction.internal]] 
 
-### #is_/same_as :: [FileClass~OrderAction.protect](/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~TradeAction/FileClass~OrderAction.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~TradeAction/FileClass~OrderAction.protect|FileClass~OrderAction.protect]] 
 
-### #is_/same_as :: [FileClass~OrderAction.private](/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~TradeAction/FileClass~OrderAction.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~TradeAction/FileClass~OrderAction.private|FileClass~OrderAction.private]] 
 
-### #is_/same_as :: [FileClass~OrderAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~TradeAction/FileClass~OrderAction.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~TradeAction/FileClass~OrderAction.personal|FileClass~OrderAction.personal]] 
 
-### #is_/same_as :: [FileClass~OrderAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~TradeAction/FileClass~OrderAction.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~TradeAction/FileClass~OrderAction.secret|FileClass~OrderAction.secret]] 
 

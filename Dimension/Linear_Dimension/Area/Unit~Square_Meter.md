@@ -83,17 +83,17 @@ Wikidata_SPARQL_query_equivalent: wd:Q25343 p:P2370/psn:P2370 [wikibase:quantity
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Unit~Square_Meter](/_Standards/Dimension/Linear_Dimension/Area/Unit~Square_Meter.md) 
+### #is_/same_as :: [[/_Standards/Dimension/Linear_Dimension/Area/Unit~Square_Meter|Unit~Square_Meter]] 
 
-### #is_/same_as :: [Unit~Square_Meter.public](/_public/Dimension/Linear_Dimension/Area/Unit~Square_Meter.public.md) 
+### #is_/same_as :: [[/_public/Dimension/Linear_Dimension/Area/Unit~Square_Meter.public|Unit~Square_Meter.public]] 
 
-### #is_/same_as :: [Unit~Square_Meter.internal](/_internal/Dimension/Linear_Dimension/Area/Unit~Square_Meter.internal.md) 
+### #is_/same_as :: [[/_internal/Dimension/Linear_Dimension/Area/Unit~Square_Meter.internal|Unit~Square_Meter.internal]] 
 
-### #is_/same_as :: [Unit~Square_Meter.protect](/_protect/Dimension/Linear_Dimension/Area/Unit~Square_Meter.protect.md) 
+### #is_/same_as :: [[/_protect/Dimension/Linear_Dimension/Area/Unit~Square_Meter.protect|Unit~Square_Meter.protect]] 
 
-### #is_/same_as :: [Unit~Square_Meter.private](/_private/Dimension/Linear_Dimension/Area/Unit~Square_Meter.private.md) 
+### #is_/same_as :: [[/_private/Dimension/Linear_Dimension/Area/Unit~Square_Meter.private|Unit~Square_Meter.private]] 
 
-### #is_/same_as :: [Unit~Square_Meter.personal](/_personal/Dimension/Linear_Dimension/Area/Unit~Square_Meter.personal.md) 
+### #is_/same_as :: [[/_personal/Dimension/Linear_Dimension/Area/Unit~Square_Meter.personal|Unit~Square_Meter.personal]] 
 
-### #is_/same_as :: [Unit~Square_Meter.secret](/_secret/Dimension/Linear_Dimension/Area/Unit~Square_Meter.secret.md)
+### #is_/same_as :: [[/_secret/Dimension/Linear_Dimension/Area/Unit~Square_Meter.secret|Unit~Square_Meter.secret]] 
 

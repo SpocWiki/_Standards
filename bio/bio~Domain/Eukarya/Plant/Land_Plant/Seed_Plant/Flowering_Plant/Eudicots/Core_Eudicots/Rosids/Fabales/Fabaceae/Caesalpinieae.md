@@ -119,7 +119,7 @@ still poorly resolved.
 
 
 --------------------- 
-![Senna marilandica](Caesalpinieae/Senna_marilandica.jpg))
+![Senna marilandica](Caesalpinieae/Senna_marilandica.jpg) 
 Scientific Name ::     Senna marilandica (L.) \[=Cassia marilandica L.\]
 Location ::           Konza Prairie, Riley County, Kansas
 Comments             Commonly called Wild Senna or Maryland Senna.
@@ -127,14 +127,14 @@ Specimen Condition   Live Specimen
 Copyright ::            © [Eva Horne](http://www.lib.ksu.edu/wildflower/)
 
 ---------------------- 
-![Caesalpinia pulcherrima](Caesalpinieae/Caesalpinia_pulcherrima.jpg))
+![Caesalpinia pulcherrima](Caesalpinieae/Caesalpinia_pulcherrima.jpg) 
 Scientific Name ::     Caesalpinia pulcherrima Sw.
 Location ::           Arizona
 Specimen Condition   Live Specimen
 Copyright ::            © [Chris Martin](http://www.public.asu.edu/%7Ecamartin/)
 
 --------------------------- 
-![Ceratonia siliqua](Caesalpinieae/Ceratonia_siliqua.jpg))
+![Ceratonia siliqua](Caesalpinieae/Ceratonia_siliqua.jpg) 
 Scientific Name ::     Ceratonia siliqua L.
 Specimen Condition   Live Specimen
 Copyright ::            © [Annette Hoggemeier](http://www.boga.ruhr-uni-bochum.de/index.html)
@@ -142,17 +142,17 @@ Copyright ::            © [Annette Hoggemeier](http://www.boga.ruhr-uni-bochum.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Caesalpinieae](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Caesalpinieae.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Caesalpinieae|Caesalpinieae]] 
 
-### #is_/same_as :: [Caesalpinieae.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Caesalpinieae.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Caesalpinieae.public|Caesalpinieae.public]] 
 
-### #is_/same_as :: [Caesalpinieae.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Caesalpinieae.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Caesalpinieae.internal|Caesalpinieae.internal]] 
 
-### #is_/same_as :: [Caesalpinieae.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Caesalpinieae.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Caesalpinieae.protect|Caesalpinieae.protect]] 
 
-### #is_/same_as :: [Caesalpinieae.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Caesalpinieae.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Caesalpinieae.private|Caesalpinieae.private]] 
 
-### #is_/same_as :: [Caesalpinieae.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Caesalpinieae.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Caesalpinieae.personal|Caesalpinieae.personal]] 
 
-### #is_/same_as :: [Caesalpinieae.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Caesalpinieae.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Caesalpinieae.secret|Caesalpinieae.secret]] 
 

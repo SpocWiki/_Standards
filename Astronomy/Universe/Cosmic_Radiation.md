@@ -56,17 +56,17 @@ MeSH_tree_code:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Cosmic_Radiation](/_Standards/Astronomy/Universe/Cosmic_Radiation.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Universe/Cosmic_Radiation|Cosmic_Radiation]] 
 
-### #is_/same_as :: [Cosmic_Radiation.public](/_public/Astronomy/Universe/Cosmic_Radiation.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Universe/Cosmic_Radiation.public|Cosmic_Radiation.public]] 
 
-### #is_/same_as :: [Cosmic_Radiation.internal](/_internal/Astronomy/Universe/Cosmic_Radiation.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Universe/Cosmic_Radiation.internal|Cosmic_Radiation.internal]] 
 
-### #is_/same_as :: [Cosmic_Radiation.protect](/_protect/Astronomy/Universe/Cosmic_Radiation.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Universe/Cosmic_Radiation.protect|Cosmic_Radiation.protect]] 
 
-### #is_/same_as :: [Cosmic_Radiation.private](/_private/Astronomy/Universe/Cosmic_Radiation.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Universe/Cosmic_Radiation.private|Cosmic_Radiation.private]] 
 
-### #is_/same_as :: [Cosmic_Radiation.personal](/_personal/Astronomy/Universe/Cosmic_Radiation.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Universe/Cosmic_Radiation.personal|Cosmic_Radiation.personal]] 
 
-### #is_/same_as :: [Cosmic_Radiation.secret](/_secret/Astronomy/Universe/Cosmic_Radiation.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Universe/Cosmic_Radiation.secret|Cosmic_Radiation.secret]] 
 

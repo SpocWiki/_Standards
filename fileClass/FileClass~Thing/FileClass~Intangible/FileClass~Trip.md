@@ -116,17 +116,17 @@ SubTrip:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~Trip](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Trip.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Trip|FileClass~Trip]] 
 
-### #is_/same_as :: [FileClass~Trip.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Trip.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Trip.public|FileClass~Trip.public]] 
 
-### #is_/same_as :: [FileClass~Trip.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Trip.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Trip.internal|FileClass~Trip.internal]] 
 
-### #is_/same_as :: [FileClass~Trip.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Trip.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Trip.protect|FileClass~Trip.protect]] 
 
-### #is_/same_as :: [FileClass~Trip.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Trip.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Trip.private|FileClass~Trip.private]] 
 
-### #is_/same_as :: [FileClass~Trip.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Trip.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Trip.personal|FileClass~Trip.personal]] 
 
-### #is_/same_as :: [FileClass~Trip.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Trip.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Trip.secret|FileClass~Trip.secret]] 
 

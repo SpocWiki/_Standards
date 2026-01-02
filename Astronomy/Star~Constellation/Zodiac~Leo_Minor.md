@@ -71,17 +71,17 @@ time_of_discovery_or_invention: 1687-01-01T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Zodiac~Leo_Minor](/_Standards/Astronomy/Star~Constellation/Zodiac~Leo_Minor.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Star~Constellation/Zodiac~Leo_Minor|Zodiac~Leo_Minor]] 
 
-### #is_/same_as :: [Zodiac~Leo_Minor.public](/_public/Astronomy/Star~Constellation/Zodiac~Leo_Minor.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Star~Constellation/Zodiac~Leo_Minor.public|Zodiac~Leo_Minor.public]] 
 
-### #is_/same_as :: [Zodiac~Leo_Minor.internal](/_internal/Astronomy/Star~Constellation/Zodiac~Leo_Minor.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Star~Constellation/Zodiac~Leo_Minor.internal|Zodiac~Leo_Minor.internal]] 
 
-### #is_/same_as :: [Zodiac~Leo_Minor.protect](/_protect/Astronomy/Star~Constellation/Zodiac~Leo_Minor.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Star~Constellation/Zodiac~Leo_Minor.protect|Zodiac~Leo_Minor.protect]] 
 
-### #is_/same_as :: [Zodiac~Leo_Minor.private](/_private/Astronomy/Star~Constellation/Zodiac~Leo_Minor.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Star~Constellation/Zodiac~Leo_Minor.private|Zodiac~Leo_Minor.private]] 
 
-### #is_/same_as :: [Zodiac~Leo_Minor.personal](/_personal/Astronomy/Star~Constellation/Zodiac~Leo_Minor.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Star~Constellation/Zodiac~Leo_Minor.personal|Zodiac~Leo_Minor.personal]] 
 
-### #is_/same_as :: [Zodiac~Leo_Minor.secret](/_secret/Astronomy/Star~Constellation/Zodiac~Leo_Minor.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Star~Constellation/Zodiac~Leo_Minor.secret|Zodiac~Leo_Minor.secret]] 
 

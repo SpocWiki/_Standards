@@ -45,17 +45,17 @@ inception: 1908-01-01T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Expressionist_Music](/_Standards/Society/Communication/Media/Music/Music_Genre/Expressionist_Music.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Music_Genre/Expressionist_Music|Expressionist_Music]] 
 
-### #is_/same_as :: [Expressionist_Music.public](/_public/Society/Communication/Media/Music/Music_Genre/Expressionist_Music.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Music_Genre/Expressionist_Music.public|Expressionist_Music.public]] 
 
-### #is_/same_as :: [Expressionist_Music.internal](/_internal/Society/Communication/Media/Music/Music_Genre/Expressionist_Music.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Music_Genre/Expressionist_Music.internal|Expressionist_Music.internal]] 
 
-### #is_/same_as :: [Expressionist_Music.protect](/_protect/Society/Communication/Media/Music/Music_Genre/Expressionist_Music.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Music_Genre/Expressionist_Music.protect|Expressionist_Music.protect]] 
 
-### #is_/same_as :: [Expressionist_Music.private](/_private/Society/Communication/Media/Music/Music_Genre/Expressionist_Music.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Music_Genre/Expressionist_Music.private|Expressionist_Music.private]] 
 
-### #is_/same_as :: [Expressionist_Music.personal](/_personal/Society/Communication/Media/Music/Music_Genre/Expressionist_Music.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Music_Genre/Expressionist_Music.personal|Expressionist_Music.personal]] 
 
-### #is_/same_as :: [Expressionist_Music.secret](/_secret/Society/Communication/Media/Music/Music_Genre/Expressionist_Music.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Music_Genre/Expressionist_Music.secret|Expressionist_Music.secret]] 
 

@@ -33,17 +33,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Katzenjammer_Kids](/_Standards/Society/Communication/Media/Writing/Book/Writer/German_Writer/Busch,Wilhelm/Katzenjammer_Kids.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Writer/German_Writer/Busch,Wilhelm/Katzenjammer_Kids|Katzenjammer_Kids]] 
 
-### #is_/same_as :: [Katzenjammer_Kids.public](/_public/Society/Communication/Media/Writing/Book/Writer/German_Writer/Busch,Wilhelm/Katzenjammer_Kids.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Writer/German_Writer/Busch,Wilhelm/Katzenjammer_Kids.public|Katzenjammer_Kids.public]] 
 
-### #is_/same_as :: [Katzenjammer_Kids.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/German_Writer/Busch,Wilhelm/Katzenjammer_Kids.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Writer/German_Writer/Busch,Wilhelm/Katzenjammer_Kids.internal|Katzenjammer_Kids.internal]] 
 
-### #is_/same_as :: [Katzenjammer_Kids.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/German_Writer/Busch,Wilhelm/Katzenjammer_Kids.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Writer/German_Writer/Busch,Wilhelm/Katzenjammer_Kids.protect|Katzenjammer_Kids.protect]] 
 
-### #is_/same_as :: [Katzenjammer_Kids.private](/_private/Society/Communication/Media/Writing/Book/Writer/German_Writer/Busch,Wilhelm/Katzenjammer_Kids.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Writer/German_Writer/Busch,Wilhelm/Katzenjammer_Kids.private|Katzenjammer_Kids.private]] 
 
-### #is_/same_as :: [Katzenjammer_Kids.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/German_Writer/Busch,Wilhelm/Katzenjammer_Kids.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Writer/German_Writer/Busch,Wilhelm/Katzenjammer_Kids.personal|Katzenjammer_Kids.personal]] 
 
-### #is_/same_as :: [Katzenjammer_Kids.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/German_Writer/Busch,Wilhelm/Katzenjammer_Kids.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Writer/German_Writer/Busch,Wilhelm/Katzenjammer_Kids.secret|Katzenjammer_Kids.secret]] 
 

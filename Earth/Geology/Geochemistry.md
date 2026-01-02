@@ -34,17 +34,17 @@ Stack_Exchange_tag: https://earthscience.stackexchange.com/tags/geochemistry
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Geochemistry](/_Standards/Earth/Geology/Geochemistry.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geology/Geochemistry|Geochemistry]] 
 
-### #is_/same_as :: [Geochemistry.public](/_public/Earth/Geology/Geochemistry.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geology/Geochemistry.public|Geochemistry.public]] 
 
-### #is_/same_as :: [Geochemistry.internal](/_internal/Earth/Geology/Geochemistry.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geology/Geochemistry.internal|Geochemistry.internal]] 
 
-### #is_/same_as :: [Geochemistry.protect](/_protect/Earth/Geology/Geochemistry.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geology/Geochemistry.protect|Geochemistry.protect]] 
 
-### #is_/same_as :: [Geochemistry.private](/_private/Earth/Geology/Geochemistry.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geology/Geochemistry.private|Geochemistry.private]] 
 
-### #is_/same_as :: [Geochemistry.personal](/_personal/Earth/Geology/Geochemistry.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geology/Geochemistry.personal|Geochemistry.personal]] 
 
-### #is_/same_as :: [Geochemistry.secret](/_secret/Earth/Geology/Geochemistry.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geology/Geochemistry.secret|Geochemistry.secret]] 
 

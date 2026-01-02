@@ -37,17 +37,17 @@ A school.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~School](/_Standards/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~CivicStructureAndOrganization/FileClass~EducationalOrganization/FileClass~School.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~CivicStructureAndOrganization/FileClass~EducationalOrganization/FileClass~School|FileClass~School]] 
 
-### #is_/same_as :: [FileClass~School.public](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~CivicStructureAndOrganization/FileClass~EducationalOrganization/FileClass~School.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~CivicStructureAndOrganization/FileClass~EducationalOrganization/FileClass~School.public|FileClass~School.public]] 
 
-### #is_/same_as :: [FileClass~School.internal](/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~CivicStructureAndOrganization/FileClass~EducationalOrganization/FileClass~School.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~CivicStructureAndOrganization/FileClass~EducationalOrganization/FileClass~School.internal|FileClass~School.internal]] 
 
-### #is_/same_as :: [FileClass~School.protect](/_protect/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~CivicStructureAndOrganization/FileClass~EducationalOrganization/FileClass~School.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~CivicStructureAndOrganization/FileClass~EducationalOrganization/FileClass~School.protect|FileClass~School.protect]] 
 
-### #is_/same_as :: [FileClass~School.private](/_private/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~CivicStructureAndOrganization/FileClass~EducationalOrganization/FileClass~School.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~CivicStructureAndOrganization/FileClass~EducationalOrganization/FileClass~School.private|FileClass~School.private]] 
 
-### #is_/same_as :: [FileClass~School.personal](/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~CivicStructureAndOrganization/FileClass~EducationalOrganization/FileClass~School.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~CivicStructureAndOrganization/FileClass~EducationalOrganization/FileClass~School.personal|FileClass~School.personal]] 
 
-### #is_/same_as :: [FileClass~School.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~CivicStructureAndOrganization/FileClass~EducationalOrganization/FileClass~School.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~CivicStructureAndOrganization/FileClass~EducationalOrganization/FileClass~School.secret|FileClass~School.secret]] 
 

@@ -62,17 +62,17 @@ Commons_category: Cardinal direction
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [2D-Directions](/_Standards/Earth/2D-Directions.md) 
+### #is_/same_as :: [[/_Standards/Earth/2D-Directions|2D-Directions]] 
 
-### #is_/same_as :: [2D-Directions.public](/_public/Earth/2D-Directions.public.md) 
+### #is_/same_as :: [[/_public/Earth/2D-Directions.public|2D-Directions.public]] 
 
-### #is_/same_as :: [2D-Directions.internal](/_internal/Earth/2D-Directions.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/2D-Directions.internal|2D-Directions.internal]] 
 
-### #is_/same_as :: [2D-Directions.protect](/_protect/Earth/2D-Directions.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/2D-Directions.protect|2D-Directions.protect]] 
 
-### #is_/same_as :: [2D-Directions.private](/_private/Earth/2D-Directions.private.md) 
+### #is_/same_as :: [[/_private/Earth/2D-Directions.private|2D-Directions.private]] 
 
-### #is_/same_as :: [2D-Directions.personal](/_personal/Earth/2D-Directions.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/2D-Directions.personal|2D-Directions.personal]] 
 
-### #is_/same_as :: [2D-Directions.secret](/_secret/Earth/2D-Directions.secret.md)
+### #is_/same_as :: [[/_secret/Earth/2D-Directions.secret|2D-Directions.secret]] 
 

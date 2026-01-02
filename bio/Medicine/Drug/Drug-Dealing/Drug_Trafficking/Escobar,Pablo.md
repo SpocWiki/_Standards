@@ -142,17 +142,17 @@ ISNI: 0000000122792940
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Escobar,Pablo](/_Standards/bio/Medicine/Drug/Drug-Dealing/Drug_Trafficking/Escobar,Pablo.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Drug/Drug-Dealing/Drug_Trafficking/Escobar,Pablo|Escobar,Pablo]] 
 
-### #is_/same_as :: [Escobar,Pablo.public](/_public/bio/Medicine/Drug/Drug-Dealing/Drug_Trafficking/Escobar,Pablo.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Drug/Drug-Dealing/Drug_Trafficking/Escobar,Pablo.public|Escobar,Pablo.public]] 
 
-### #is_/same_as :: [Escobar,Pablo.internal](/_internal/bio/Medicine/Drug/Drug-Dealing/Drug_Trafficking/Escobar,Pablo.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Drug/Drug-Dealing/Drug_Trafficking/Escobar,Pablo.internal|Escobar,Pablo.internal]] 
 
-### #is_/same_as :: [Escobar,Pablo.protect](/_protect/bio/Medicine/Drug/Drug-Dealing/Drug_Trafficking/Escobar,Pablo.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Drug/Drug-Dealing/Drug_Trafficking/Escobar,Pablo.protect|Escobar,Pablo.protect]] 
 
-### #is_/same_as :: [Escobar,Pablo.private](/_private/bio/Medicine/Drug/Drug-Dealing/Drug_Trafficking/Escobar,Pablo.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Drug/Drug-Dealing/Drug_Trafficking/Escobar,Pablo.private|Escobar,Pablo.private]] 
 
-### #is_/same_as :: [Escobar,Pablo.personal](/_personal/bio/Medicine/Drug/Drug-Dealing/Drug_Trafficking/Escobar,Pablo.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Drug/Drug-Dealing/Drug_Trafficking/Escobar,Pablo.personal|Escobar,Pablo.personal]] 
 
-### #is_/same_as :: [Escobar,Pablo.secret](/_secret/bio/Medicine/Drug/Drug-Dealing/Drug_Trafficking/Escobar,Pablo.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Drug/Drug-Dealing/Drug_Trafficking/Escobar,Pablo.secret|Escobar,Pablo.secret]] 
 

@@ -62,17 +62,17 @@ QueryInput:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Js
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~SearchAction](/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~SearchAction.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~SearchAction|FileClass~SearchAction]] 
 
-### #is_/same_as :: [FileClass~SearchAction.public](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~SearchAction.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~SearchAction.public|FileClass~SearchAction.public]] 
 
-### #is_/same_as :: [FileClass~SearchAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~SearchAction.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~SearchAction.internal|FileClass~SearchAction.internal]] 
 
-### #is_/same_as :: [FileClass~SearchAction.protect](/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~SearchAction.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~SearchAction.protect|FileClass~SearchAction.protect]] 
 
-### #is_/same_as :: [FileClass~SearchAction.private](/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~SearchAction.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~SearchAction.private|FileClass~SearchAction.private]] 
 
-### #is_/same_as :: [FileClass~SearchAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~SearchAction.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~SearchAction.personal|FileClass~SearchAction.personal]] 
 
-### #is_/same_as :: [FileClass~SearchAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~SearchAction.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~SearchAction.secret|FileClass~SearchAction.secret]] 
 

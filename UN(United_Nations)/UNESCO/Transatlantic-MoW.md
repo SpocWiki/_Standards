@@ -1791,17 +1791,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Transatlantic-MoW](/_Standards/UN(United_Nations)/UNESCO/Transatlantic-MoW.md) 
+### #is_/same_as :: [[/_Standards/UN(United_Nations)/UNESCO/Transatlantic-MoW|Transatlantic-MoW]] 
 
-### #is_/same_as :: [Transatlantic-MoW.public](/_public/UN(United_Nations)/UNESCO/Transatlantic-MoW.public.md) 
+### #is_/same_as :: [[/_public/UN(United_Nations)/UNESCO/Transatlantic-MoW.public|Transatlantic-MoW.public]] 
 
-### #is_/same_as :: [Transatlantic-MoW.internal](/_internal/UN(United_Nations)/UNESCO/Transatlantic-MoW.internal.md) 
+### #is_/same_as :: [[/_internal/UN(United_Nations)/UNESCO/Transatlantic-MoW.internal|Transatlantic-MoW.internal]] 
 
-### #is_/same_as :: [Transatlantic-MoW.protect](/_protect/UN(United_Nations)/UNESCO/Transatlantic-MoW.protect.md) 
+### #is_/same_as :: [[/_protect/UN(United_Nations)/UNESCO/Transatlantic-MoW.protect|Transatlantic-MoW.protect]] 
 
-### #is_/same_as :: [Transatlantic-MoW.private](/_private/UN(United_Nations)/UNESCO/Transatlantic-MoW.private.md) 
+### #is_/same_as :: [[/_private/UN(United_Nations)/UNESCO/Transatlantic-MoW.private|Transatlantic-MoW.private]] 
 
-### #is_/same_as :: [Transatlantic-MoW.personal](/_personal/UN(United_Nations)/UNESCO/Transatlantic-MoW.personal.md) 
+### #is_/same_as :: [[/_personal/UN(United_Nations)/UNESCO/Transatlantic-MoW.personal|Transatlantic-MoW.personal]] 
 
-### #is_/same_as :: [Transatlantic-MoW.secret](/_secret/UN(United_Nations)/UNESCO/Transatlantic-MoW.secret.md)
+### #is_/same_as :: [[/_secret/UN(United_Nations)/UNESCO/Transatlantic-MoW.secret|Transatlantic-MoW.secret]] 
 

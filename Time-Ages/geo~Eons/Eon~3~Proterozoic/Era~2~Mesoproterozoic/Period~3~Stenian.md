@@ -65,17 +65,17 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Period~3~Stenian](/_Standards/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~2~Mesoproterozoic/Period~3~Stenian.md) 
+### #is_/same_as :: [[/_Standards/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~2~Mesoproterozoic/Period~3~Stenian|Period~3~Stenian]] 
 
-### #is_/same_as :: [Period~3~Stenian.public](/_public/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~2~Mesoproterozoic/Period~3~Stenian.public.md) 
+### #is_/same_as :: [[/_public/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~2~Mesoproterozoic/Period~3~Stenian.public|Period~3~Stenian.public]] 
 
-### #is_/same_as :: [Period~3~Stenian.internal](/_internal/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~2~Mesoproterozoic/Period~3~Stenian.internal.md) 
+### #is_/same_as :: [[/_internal/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~2~Mesoproterozoic/Period~3~Stenian.internal|Period~3~Stenian.internal]] 
 
-### #is_/same_as :: [Period~3~Stenian.protect](/_protect/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~2~Mesoproterozoic/Period~3~Stenian.protect.md) 
+### #is_/same_as :: [[/_protect/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~2~Mesoproterozoic/Period~3~Stenian.protect|Period~3~Stenian.protect]] 
 
-### #is_/same_as :: [Period~3~Stenian.private](/_private/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~2~Mesoproterozoic/Period~3~Stenian.private.md) 
+### #is_/same_as :: [[/_private/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~2~Mesoproterozoic/Period~3~Stenian.private|Period~3~Stenian.private]] 
 
-### #is_/same_as :: [Period~3~Stenian.personal](/_personal/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~2~Mesoproterozoic/Period~3~Stenian.personal.md) 
+### #is_/same_as :: [[/_personal/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~2~Mesoproterozoic/Period~3~Stenian.personal|Period~3~Stenian.personal]] 
 
-### #is_/same_as :: [Period~3~Stenian.secret](/_secret/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~2~Mesoproterozoic/Period~3~Stenian.secret.md)
+### #is_/same_as :: [[/_secret/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~2~Mesoproterozoic/Period~3~Stenian.secret|Period~3~Stenian.secret]] 
 

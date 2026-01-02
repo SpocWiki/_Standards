@@ -74,17 +74,17 @@ coordinate_location: Point(-3.68333333 40.41666667)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [1492-Spanish_Empire+1976](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1492-Spanish_Empire+1976.md) 
+### #is_/same_as :: [[/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1492-Spanish_Empire+1976|1492-Spanish_Empire+1976]] 
 
-### #is_/same_as :: [1492-Spanish_Empire+1976.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1492-Spanish_Empire+1976.public.md) 
+### #is_/same_as :: [[/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1492-Spanish_Empire+1976.public|1492-Spanish_Empire+1976.public]] 
 
-### #is_/same_as :: [1492-Spanish_Empire+1976.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1492-Spanish_Empire+1976.internal.md) 
+### #is_/same_as :: [[/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1492-Spanish_Empire+1976.internal|1492-Spanish_Empire+1976.internal]] 
 
-### #is_/same_as :: [1492-Spanish_Empire+1976.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1492-Spanish_Empire+1976.protect.md) 
+### #is_/same_as :: [[/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1492-Spanish_Empire+1976.protect|1492-Spanish_Empire+1976.protect]] 
 
-### #is_/same_as :: [1492-Spanish_Empire+1976.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1492-Spanish_Empire+1976.private.md) 
+### #is_/same_as :: [[/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1492-Spanish_Empire+1976.private|1492-Spanish_Empire+1976.private]] 
 
-### #is_/same_as :: [1492-Spanish_Empire+1976.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1492-Spanish_Empire+1976.personal.md) 
+### #is_/same_as :: [[/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1492-Spanish_Empire+1976.personal|1492-Spanish_Empire+1976.personal]] 
 
-### #is_/same_as :: [1492-Spanish_Empire+1976.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1492-Spanish_Empire+1976.secret.md)
+### #is_/same_as :: [[/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1492-Spanish_Empire+1976.secret|1492-Spanish_Empire+1976.secret]] 
 

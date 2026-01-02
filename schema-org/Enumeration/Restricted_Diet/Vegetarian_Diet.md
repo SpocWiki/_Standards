@@ -42,17 +42,17 @@ A diet exclusive of animal meat.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Vegetarian_Diet](/_Standards/schema-org/Enumeration/Restricted_Diet/Vegetarian_Diet.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Restricted_Diet/Vegetarian_Diet|Vegetarian_Diet]] 
 
-### #is_/same_as :: [Vegetarian_Diet.public](/_public/schema-org/Enumeration/Restricted_Diet/Vegetarian_Diet.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Restricted_Diet/Vegetarian_Diet.public|Vegetarian_Diet.public]] 
 
-### #is_/same_as :: [Vegetarian_Diet.internal](/_internal/schema-org/Enumeration/Restricted_Diet/Vegetarian_Diet.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Restricted_Diet/Vegetarian_Diet.internal|Vegetarian_Diet.internal]] 
 
-### #is_/same_as :: [Vegetarian_Diet.protect](/_protect/schema-org/Enumeration/Restricted_Diet/Vegetarian_Diet.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Restricted_Diet/Vegetarian_Diet.protect|Vegetarian_Diet.protect]] 
 
-### #is_/same_as :: [Vegetarian_Diet.private](/_private/schema-org/Enumeration/Restricted_Diet/Vegetarian_Diet.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Restricted_Diet/Vegetarian_Diet.private|Vegetarian_Diet.private]] 
 
-### #is_/same_as :: [Vegetarian_Diet.personal](/_personal/schema-org/Enumeration/Restricted_Diet/Vegetarian_Diet.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Restricted_Diet/Vegetarian_Diet.personal|Vegetarian_Diet.personal]] 
 
-### #is_/same_as :: [Vegetarian_Diet.secret](/_secret/schema-org/Enumeration/Restricted_Diet/Vegetarian_Diet.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Restricted_Diet/Vegetarian_Diet.secret|Vegetarian_Diet.secret]] 
 

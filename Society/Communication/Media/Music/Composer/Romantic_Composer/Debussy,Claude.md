@@ -156,17 +156,17 @@ Google_Doodle: claude-debussys-151st-birthday
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Debussy,Claude](/_Standards/Society/Communication/Media/Music/Composer/Romantic_Composer/Debussy,Claude.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Composer/Romantic_Composer/Debussy,Claude|Debussy,Claude]] 
 
-### #is_/same_as :: [Debussy,Claude.public](/_public/Society/Communication/Media/Music/Composer/Romantic_Composer/Debussy,Claude.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Composer/Romantic_Composer/Debussy,Claude.public|Debussy,Claude.public]] 
 
-### #is_/same_as :: [Debussy,Claude.internal](/_internal/Society/Communication/Media/Music/Composer/Romantic_Composer/Debussy,Claude.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Composer/Romantic_Composer/Debussy,Claude.internal|Debussy,Claude.internal]] 
 
-### #is_/same_as :: [Debussy,Claude.protect](/_protect/Society/Communication/Media/Music/Composer/Romantic_Composer/Debussy,Claude.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Composer/Romantic_Composer/Debussy,Claude.protect|Debussy,Claude.protect]] 
 
-### #is_/same_as :: [Debussy,Claude.private](/_private/Society/Communication/Media/Music/Composer/Romantic_Composer/Debussy,Claude.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Composer/Romantic_Composer/Debussy,Claude.private|Debussy,Claude.private]] 
 
-### #is_/same_as :: [Debussy,Claude.personal](/_personal/Society/Communication/Media/Music/Composer/Romantic_Composer/Debussy,Claude.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Composer/Romantic_Composer/Debussy,Claude.personal|Debussy,Claude.personal]] 
 
-### #is_/same_as :: [Debussy,Claude.secret](/_secret/Society/Communication/Media/Music/Composer/Romantic_Composer/Debussy,Claude.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Composer/Romantic_Composer/Debussy,Claude.secret|Debussy,Claude.secret]] 
 

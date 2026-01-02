@@ -43,17 +43,17 @@ IMDb_keyword: marriage-of-convenience
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Marriage_of_Convenience](/_Standards/Society/Agent/Community/Clan/Family/Marriage/Marriage_of_Convenience.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Clan/Family/Marriage/Marriage_of_Convenience|Marriage_of_Convenience]] 
 
-### #is_/same_as :: [Marriage_of_Convenience.public](/_public/Society/Agent/Community/Clan/Family/Marriage/Marriage_of_Convenience.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Clan/Family/Marriage/Marriage_of_Convenience.public|Marriage_of_Convenience.public]] 
 
-### #is_/same_as :: [Marriage_of_Convenience.internal](/_internal/Society/Agent/Community/Clan/Family/Marriage/Marriage_of_Convenience.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Clan/Family/Marriage/Marriage_of_Convenience.internal|Marriage_of_Convenience.internal]] 
 
-### #is_/same_as :: [Marriage_of_Convenience.protect](/_protect/Society/Agent/Community/Clan/Family/Marriage/Marriage_of_Convenience.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Clan/Family/Marriage/Marriage_of_Convenience.protect|Marriage_of_Convenience.protect]] 
 
-### #is_/same_as :: [Marriage_of_Convenience.private](/_private/Society/Agent/Community/Clan/Family/Marriage/Marriage_of_Convenience.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Clan/Family/Marriage/Marriage_of_Convenience.private|Marriage_of_Convenience.private]] 
 
-### #is_/same_as :: [Marriage_of_Convenience.personal](/_personal/Society/Agent/Community/Clan/Family/Marriage/Marriage_of_Convenience.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Clan/Family/Marriage/Marriage_of_Convenience.personal|Marriage_of_Convenience.personal]] 
 
-### #is_/same_as :: [Marriage_of_Convenience.secret](/_secret/Society/Agent/Community/Clan/Family/Marriage/Marriage_of_Convenience.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Clan/Family/Marriage/Marriage_of_Convenience.secret|Marriage_of_Convenience.secret]] 
 

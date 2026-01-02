@@ -28,17 +28,17 @@ Adson is an abbreviated form of Watson
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Name_of_the_Rose](/_Standards/Society/Communication/Media/Writing/Book/Writer/Italian_Writer/Eco,Umberto/Name_of_the_Rose.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Writer/Italian_Writer/Eco,Umberto/Name_of_the_Rose|Name_of_the_Rose]] 
 
-### #is_/same_as :: [Name_of_the_Rose.public](/_public/Society/Communication/Media/Writing/Book/Writer/Italian_Writer/Eco,Umberto/Name_of_the_Rose.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Writer/Italian_Writer/Eco,Umberto/Name_of_the_Rose.public|Name_of_the_Rose.public]] 
 
-### #is_/same_as :: [Name_of_the_Rose.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/Italian_Writer/Eco,Umberto/Name_of_the_Rose.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Writer/Italian_Writer/Eco,Umberto/Name_of_the_Rose.internal|Name_of_the_Rose.internal]] 
 
-### #is_/same_as :: [Name_of_the_Rose.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/Italian_Writer/Eco,Umberto/Name_of_the_Rose.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Writer/Italian_Writer/Eco,Umberto/Name_of_the_Rose.protect|Name_of_the_Rose.protect]] 
 
-### #is_/same_as :: [Name_of_the_Rose.private](/_private/Society/Communication/Media/Writing/Book/Writer/Italian_Writer/Eco,Umberto/Name_of_the_Rose.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Writer/Italian_Writer/Eco,Umberto/Name_of_the_Rose.private|Name_of_the_Rose.private]] 
 
-### #is_/same_as :: [Name_of_the_Rose.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/Italian_Writer/Eco,Umberto/Name_of_the_Rose.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Writer/Italian_Writer/Eco,Umberto/Name_of_the_Rose.personal|Name_of_the_Rose.personal]] 
 
-### #is_/same_as :: [Name_of_the_Rose.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/Italian_Writer/Eco,Umberto/Name_of_the_Rose.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Writer/Italian_Writer/Eco,Umberto/Name_of_the_Rose.secret|Name_of_the_Rose.secret]] 
 

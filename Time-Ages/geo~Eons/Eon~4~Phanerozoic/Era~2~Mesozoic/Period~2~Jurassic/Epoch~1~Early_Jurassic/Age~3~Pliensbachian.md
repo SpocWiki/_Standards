@@ -72,17 +72,17 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Age~3~Pliensbachian](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic/Epoch~1~Early_Jurassic/Age~3~Pliensbachian.md) 
+### #is_/same_as :: [[/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic/Epoch~1~Early_Jurassic/Age~3~Pliensbachian|Age~3~Pliensbachian]] 
 
-### #is_/same_as :: [Age~3~Pliensbachian.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic/Epoch~1~Early_Jurassic/Age~3~Pliensbachian.public.md) 
+### #is_/same_as :: [[/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic/Epoch~1~Early_Jurassic/Age~3~Pliensbachian.public|Age~3~Pliensbachian.public]] 
 
-### #is_/same_as :: [Age~3~Pliensbachian.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic/Epoch~1~Early_Jurassic/Age~3~Pliensbachian.internal.md) 
+### #is_/same_as :: [[/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic/Epoch~1~Early_Jurassic/Age~3~Pliensbachian.internal|Age~3~Pliensbachian.internal]] 
 
-### #is_/same_as :: [Age~3~Pliensbachian.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic/Epoch~1~Early_Jurassic/Age~3~Pliensbachian.protect.md) 
+### #is_/same_as :: [[/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic/Epoch~1~Early_Jurassic/Age~3~Pliensbachian.protect|Age~3~Pliensbachian.protect]] 
 
-### #is_/same_as :: [Age~3~Pliensbachian.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic/Epoch~1~Early_Jurassic/Age~3~Pliensbachian.private.md) 
+### #is_/same_as :: [[/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic/Epoch~1~Early_Jurassic/Age~3~Pliensbachian.private|Age~3~Pliensbachian.private]] 
 
-### #is_/same_as :: [Age~3~Pliensbachian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic/Epoch~1~Early_Jurassic/Age~3~Pliensbachian.personal.md) 
+### #is_/same_as :: [[/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic/Epoch~1~Early_Jurassic/Age~3~Pliensbachian.personal|Age~3~Pliensbachian.personal]] 
 
-### #is_/same_as :: [Age~3~Pliensbachian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic/Epoch~1~Early_Jurassic/Age~3~Pliensbachian.secret.md)
+### #is_/same_as :: [[/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic/Epoch~1~Early_Jurassic/Age~3~Pliensbachian.secret|Age~3~Pliensbachian.secret]] 
 

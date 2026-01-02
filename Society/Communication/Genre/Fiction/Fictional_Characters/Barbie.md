@@ -61,17 +61,17 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/BARB65%20%288080739384
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Barbie](/_Standards/Society/Communication/Genre/Fiction/Fictional_Characters/Barbie.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Genre/Fiction/Fictional_Characters/Barbie|Barbie]] 
 
-### #is_/same_as :: [Barbie.public](/_public/Society/Communication/Genre/Fiction/Fictional_Characters/Barbie.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Genre/Fiction/Fictional_Characters/Barbie.public|Barbie.public]] 
 
-### #is_/same_as :: [Barbie.internal](/_internal/Society/Communication/Genre/Fiction/Fictional_Characters/Barbie.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Genre/Fiction/Fictional_Characters/Barbie.internal|Barbie.internal]] 
 
-### #is_/same_as :: [Barbie.protect](/_protect/Society/Communication/Genre/Fiction/Fictional_Characters/Barbie.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Genre/Fiction/Fictional_Characters/Barbie.protect|Barbie.protect]] 
 
-### #is_/same_as :: [Barbie.private](/_private/Society/Communication/Genre/Fiction/Fictional_Characters/Barbie.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Genre/Fiction/Fictional_Characters/Barbie.private|Barbie.private]] 
 
-### #is_/same_as :: [Barbie.personal](/_personal/Society/Communication/Genre/Fiction/Fictional_Characters/Barbie.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Genre/Fiction/Fictional_Characters/Barbie.personal|Barbie.personal]] 
 
-### #is_/same_as :: [Barbie.secret](/_secret/Society/Communication/Genre/Fiction/Fictional_Characters/Barbie.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Genre/Fiction/Fictional_Characters/Barbie.secret|Barbie.secret]] 
 

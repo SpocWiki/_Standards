@@ -21,17 +21,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bell_Labs](/_Standards/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Bell_Telephone_Company/Bell_Labs.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Bell_Telephone_Company/Bell_Labs|Bell_Labs]] 
 
-### #is_/same_as :: [Bell_Labs.public](/_public/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Bell_Telephone_Company/Bell_Labs.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Bell_Telephone_Company/Bell_Labs.public|Bell_Labs.public]] 
 
-### #is_/same_as :: [Bell_Labs.internal](/_internal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Bell_Telephone_Company/Bell_Labs.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Bell_Telephone_Company/Bell_Labs.internal|Bell_Labs.internal]] 
 
-### #is_/same_as :: [Bell_Labs.protect](/_protect/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Bell_Telephone_Company/Bell_Labs.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Bell_Telephone_Company/Bell_Labs.protect|Bell_Labs.protect]] 
 
-### #is_/same_as :: [Bell_Labs.private](/_private/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Bell_Telephone_Company/Bell_Labs.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Bell_Telephone_Company/Bell_Labs.private|Bell_Labs.private]] 
 
-### #is_/same_as :: [Bell_Labs.personal](/_personal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Bell_Telephone_Company/Bell_Labs.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Bell_Telephone_Company/Bell_Labs.personal|Bell_Labs.personal]] 
 
-### #is_/same_as :: [Bell_Labs.secret](/_secret/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Bell_Telephone_Company/Bell_Labs.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Bell_Telephone_Company/Bell_Labs.secret|Bell_Labs.secret]] 
 

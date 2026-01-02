@@ -41,17 +41,17 @@ Related actions:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~FindAction](/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~FindAction.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~FindAction|FileClass~FindAction]] 
 
-### #is_/same_as :: [FileClass~FindAction.public](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~FindAction.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~FindAction.public|FileClass~FindAction.public]] 
 
-### #is_/same_as :: [FileClass~FindAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~FindAction.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~FindAction.internal|FileClass~FindAction.internal]] 
 
-### #is_/same_as :: [FileClass~FindAction.protect](/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~FindAction.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~FindAction.protect|FileClass~FindAction.protect]] 
 
-### #is_/same_as :: [FileClass~FindAction.private](/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~FindAction.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~FindAction.private|FileClass~FindAction.private]] 
 
-### #is_/same_as :: [FileClass~FindAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~FindAction.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~FindAction.personal|FileClass~FindAction.personal]] 
 
-### #is_/same_as :: [FileClass~FindAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~FindAction.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~FindAction.secret|FileClass~FindAction.secret]] 
 

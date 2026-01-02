@@ -32,17 +32,17 @@ subclass_of: '[[_Standards/WikiData/WD~discourse,190539]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Dialectic](/_Standards/Philosophy/Logic/Dialectic.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Logic/Dialectic|Dialectic]] 
 
-### #is_/same_as :: [Dialectic.public](/_public/Philosophy/Logic/Dialectic.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Logic/Dialectic.public|Dialectic.public]] 
 
-### #is_/same_as :: [Dialectic.internal](/_internal/Philosophy/Logic/Dialectic.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Logic/Dialectic.internal|Dialectic.internal]] 
 
-### #is_/same_as :: [Dialectic.protect](/_protect/Philosophy/Logic/Dialectic.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Logic/Dialectic.protect|Dialectic.protect]] 
 
-### #is_/same_as :: [Dialectic.private](/_private/Philosophy/Logic/Dialectic.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Logic/Dialectic.private|Dialectic.private]] 
 
-### #is_/same_as :: [Dialectic.personal](/_personal/Philosophy/Logic/Dialectic.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Logic/Dialectic.personal|Dialectic.personal]] 
 
-### #is_/same_as :: [Dialectic.secret](/_secret/Philosophy/Logic/Dialectic.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Logic/Dialectic.secret|Dialectic.secret]] 
 

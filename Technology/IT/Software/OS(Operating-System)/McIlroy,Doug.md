@@ -26,17 +26,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [McIlroy,Doug](/_Standards/Technology/IT/Software/OS(Operating-System)/McIlroy,Doug.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Software/OS(Operating-System)/McIlroy,Doug|McIlroy,Doug]] 
 
-### #is_/same_as :: [McIlroy,Doug.public](/_public/Technology/IT/Software/OS(Operating-System)/McIlroy,Doug.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Software/OS(Operating-System)/McIlroy,Doug.public|McIlroy,Doug.public]] 
 
-### #is_/same_as :: [McIlroy,Doug.internal](/_internal/Technology/IT/Software/OS(Operating-System)/McIlroy,Doug.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Software/OS(Operating-System)/McIlroy,Doug.internal|McIlroy,Doug.internal]] 
 
-### #is_/same_as :: [McIlroy,Doug.protect](/_protect/Technology/IT/Software/OS(Operating-System)/McIlroy,Doug.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Software/OS(Operating-System)/McIlroy,Doug.protect|McIlroy,Doug.protect]] 
 
-### #is_/same_as :: [McIlroy,Doug.private](/_private/Technology/IT/Software/OS(Operating-System)/McIlroy,Doug.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Software/OS(Operating-System)/McIlroy,Doug.private|McIlroy,Doug.private]] 
 
-### #is_/same_as :: [McIlroy,Doug.personal](/_personal/Technology/IT/Software/OS(Operating-System)/McIlroy,Doug.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Software/OS(Operating-System)/McIlroy,Doug.personal|McIlroy,Doug.personal]] 
 
-### #is_/same_as :: [McIlroy,Doug.secret](/_secret/Technology/IT/Software/OS(Operating-System)/McIlroy,Doug.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Software/OS(Operating-System)/McIlroy,Doug.secret|McIlroy,Doug.secret]] 
 

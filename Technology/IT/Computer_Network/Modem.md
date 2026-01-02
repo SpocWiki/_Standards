@@ -89,17 +89,17 @@ Commons_category: Modems
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Modem](/_Standards/Technology/IT/Computer_Network/Modem.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Computer_Network/Modem|Modem]] 
 
-### #is_/same_as :: [Modem.public](/_public/Technology/IT/Computer_Network/Modem.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Computer_Network/Modem.public|Modem.public]] 
 
-### #is_/same_as :: [Modem.internal](/_internal/Technology/IT/Computer_Network/Modem.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Computer_Network/Modem.internal|Modem.internal]] 
 
-### #is_/same_as :: [Modem.protect](/_protect/Technology/IT/Computer_Network/Modem.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Computer_Network/Modem.protect|Modem.protect]] 
 
-### #is_/same_as :: [Modem.private](/_private/Technology/IT/Computer_Network/Modem.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Computer_Network/Modem.private|Modem.private]] 
 
-### #is_/same_as :: [Modem.personal](/_personal/Technology/IT/Computer_Network/Modem.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Computer_Network/Modem.personal|Modem.personal]] 
 
-### #is_/same_as :: [Modem.secret](/_secret/Technology/IT/Computer_Network/Modem.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Computer_Network/Modem.secret|Modem.secret]] 
 

@@ -138,17 +138,17 @@ catchphrase: It is better to be a human being dissatisfied than a pig satisfied
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Mill,John_Stuart](/_Standards/Philosophy/Philosopher/Mill,John_Stuart.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Philosopher/Mill,John_Stuart|Mill,John_Stuart]] 
 
-### #is_/same_as :: [Mill,John_Stuart.public](/_public/Philosophy/Philosopher/Mill,John_Stuart.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Philosopher/Mill,John_Stuart.public|Mill,John_Stuart.public]] 
 
-### #is_/same_as :: [Mill,John_Stuart.internal](/_internal/Philosophy/Philosopher/Mill,John_Stuart.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Philosopher/Mill,John_Stuart.internal|Mill,John_Stuart.internal]] 
 
-### #is_/same_as :: [Mill,John_Stuart.protect](/_protect/Philosophy/Philosopher/Mill,John_Stuart.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Philosopher/Mill,John_Stuart.protect|Mill,John_Stuart.protect]] 
 
-### #is_/same_as :: [Mill,John_Stuart.private](/_private/Philosophy/Philosopher/Mill,John_Stuart.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Philosopher/Mill,John_Stuart.private|Mill,John_Stuart.private]] 
 
-### #is_/same_as :: [Mill,John_Stuart.personal](/_personal/Philosophy/Philosopher/Mill,John_Stuart.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Philosopher/Mill,John_Stuart.personal|Mill,John_Stuart.personal]] 
 
-### #is_/same_as :: [Mill,John_Stuart.secret](/_secret/Philosophy/Philosopher/Mill,John_Stuart.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Philosopher/Mill,John_Stuart.secret|Mill,John_Stuart.secret]] 
 

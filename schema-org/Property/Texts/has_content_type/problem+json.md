@@ -29,17 +29,17 @@ The `problem+json` document type structures error details in a standardized JSON
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [problem+json](/_Standards/schema-org/Property/Texts/has_content_type/problem+json.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/Texts/has_content_type/problem+json|problem+json]] 
 
-### #is_/same_as :: [problem+json.public](/_public/schema-org/Property/Texts/has_content_type/problem+json.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/Texts/has_content_type/problem+json.public|problem+json.public]] 
 
-### #is_/same_as :: [problem+json.internal](/_internal/schema-org/Property/Texts/has_content_type/problem+json.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/Texts/has_content_type/problem+json.internal|problem+json.internal]] 
 
-### #is_/same_as :: [problem+json.protect](/_protect/schema-org/Property/Texts/has_content_type/problem+json.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/Texts/has_content_type/problem+json.protect|problem+json.protect]] 
 
-### #is_/same_as :: [problem+json.private](/_private/schema-org/Property/Texts/has_content_type/problem+json.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/Texts/has_content_type/problem+json.private|problem+json.private]] 
 
-### #is_/same_as :: [problem+json.personal](/_personal/schema-org/Property/Texts/has_content_type/problem+json.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/Texts/has_content_type/problem+json.personal|problem+json.personal]] 
 
-### #is_/same_as :: [problem+json.secret](/_secret/schema-org/Property/Texts/has_content_type/problem+json.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/Texts/has_content_type/problem+json.secret|problem+json.secret]] 
 

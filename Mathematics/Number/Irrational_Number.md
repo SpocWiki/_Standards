@@ -62,17 +62,17 @@ Commons_category: Irrational numbers
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Irrational_Number](/_Standards/Mathematics/Number/Irrational_Number.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Number/Irrational_Number|Irrational_Number]] 
 
-### #is_/same_as :: [Irrational_Number.public](/_public/Mathematics/Number/Irrational_Number.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Number/Irrational_Number.public|Irrational_Number.public]] 
 
-### #is_/same_as :: [Irrational_Number.internal](/_internal/Mathematics/Number/Irrational_Number.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Number/Irrational_Number.internal|Irrational_Number.internal]] 
 
-### #is_/same_as :: [Irrational_Number.protect](/_protect/Mathematics/Number/Irrational_Number.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Number/Irrational_Number.protect|Irrational_Number.protect]] 
 
-### #is_/same_as :: [Irrational_Number.private](/_private/Mathematics/Number/Irrational_Number.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Number/Irrational_Number.private|Irrational_Number.private]] 
 
-### #is_/same_as :: [Irrational_Number.personal](/_personal/Mathematics/Number/Irrational_Number.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Number/Irrational_Number.personal|Irrational_Number.personal]] 
 
-### #is_/same_as :: [Irrational_Number.secret](/_secret/Mathematics/Number/Irrational_Number.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Number/Irrational_Number.secret|Irrational_Number.secret]] 
 

@@ -43,17 +43,17 @@ Commons_category: Dishwashers
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Dishwasher](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Kitchen/Dishwasher.md) 
+### #is_/same_as :: [[/_Standards/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Kitchen/Dishwasher|Dishwasher]] 
 
-### #is_/same_as :: [Dishwasher.public](/_public/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Kitchen/Dishwasher.public.md) 
+### #is_/same_as :: [[/_public/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Kitchen/Dishwasher.public|Dishwasher.public]] 
 
-### #is_/same_as :: [Dishwasher.internal](/_internal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Kitchen/Dishwasher.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Kitchen/Dishwasher.internal|Dishwasher.internal]] 
 
-### #is_/same_as :: [Dishwasher.protect](/_protect/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Kitchen/Dishwasher.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Kitchen/Dishwasher.protect|Dishwasher.protect]] 
 
-### #is_/same_as :: [Dishwasher.private](/_private/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Kitchen/Dishwasher.private.md) 
+### #is_/same_as :: [[/_private/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Kitchen/Dishwasher.private|Dishwasher.private]] 
 
-### #is_/same_as :: [Dishwasher.personal](/_personal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Kitchen/Dishwasher.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Kitchen/Dishwasher.personal|Dishwasher.personal]] 
 
-### #is_/same_as :: [Dishwasher.secret](/_secret/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Kitchen/Dishwasher.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Kitchen/Dishwasher.secret|Dishwasher.secret]] 
 

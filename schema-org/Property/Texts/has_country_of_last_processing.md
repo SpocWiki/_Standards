@@ -49,17 +49,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_country_of_last_processing](/_Standards/schema-org/Property/Texts/has_country_of_last_processing.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/Texts/has_country_of_last_processing|has_country_of_last_processing]] 
 
-### #is_/same_as :: [has_country_of_last_processing.public](/_public/schema-org/Property/Texts/has_country_of_last_processing.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/Texts/has_country_of_last_processing.public|has_country_of_last_processing.public]] 
 
-### #is_/same_as :: [has_country_of_last_processing.internal](/_internal/schema-org/Property/Texts/has_country_of_last_processing.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/Texts/has_country_of_last_processing.internal|has_country_of_last_processing.internal]] 
 
-### #is_/same_as :: [has_country_of_last_processing.protect](/_protect/schema-org/Property/Texts/has_country_of_last_processing.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/Texts/has_country_of_last_processing.protect|has_country_of_last_processing.protect]] 
 
-### #is_/same_as :: [has_country_of_last_processing.private](/_private/schema-org/Property/Texts/has_country_of_last_processing.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/Texts/has_country_of_last_processing.private|has_country_of_last_processing.private]] 
 
-### #is_/same_as :: [has_country_of_last_processing.personal](/_personal/schema-org/Property/Texts/has_country_of_last_processing.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/Texts/has_country_of_last_processing.personal|has_country_of_last_processing.personal]] 
 
-### #is_/same_as :: [has_country_of_last_processing.secret](/_secret/schema-org/Property/Texts/has_country_of_last_processing.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/Texts/has_country_of_last_processing.secret|has_country_of_last_processing.secret]] 
 

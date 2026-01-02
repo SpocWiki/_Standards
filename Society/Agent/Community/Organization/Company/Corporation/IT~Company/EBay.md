@@ -125,17 +125,17 @@ official_name: eBay Inc.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [EBay](/_Standards/Society/Agent/Community/Organization/Company/Corporation/IT~Company/EBay.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Company/Corporation/IT~Company/EBay|EBay]] 
 
-### #is_/same_as :: [EBay.public](/_public/Society/Agent/Community/Organization/Company/Corporation/IT~Company/EBay.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Company/Corporation/IT~Company/EBay.public|EBay.public]] 
 
-### #is_/same_as :: [EBay.internal](/_internal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/EBay.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/EBay.internal|EBay.internal]] 
 
-### #is_/same_as :: [EBay.protect](/_protect/Society/Agent/Community/Organization/Company/Corporation/IT~Company/EBay.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Company/Corporation/IT~Company/EBay.protect|EBay.protect]] 
 
-### #is_/same_as :: [EBay.private](/_private/Society/Agent/Community/Organization/Company/Corporation/IT~Company/EBay.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Company/Corporation/IT~Company/EBay.private|EBay.private]] 
 
-### #is_/same_as :: [EBay.personal](/_personal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/EBay.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/EBay.personal|EBay.personal]] 
 
-### #is_/same_as :: [EBay.secret](/_secret/Society/Agent/Community/Organization/Company/Corporation/IT~Company/EBay.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Company/Corporation/IT~Company/EBay.secret|EBay.secret]] 
 

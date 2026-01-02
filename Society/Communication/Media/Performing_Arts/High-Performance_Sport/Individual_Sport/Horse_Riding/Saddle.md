@@ -56,17 +56,17 @@ Commons_category: Saddles
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Saddle](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Horse_Riding/Saddle.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Horse_Riding/Saddle|Saddle]] 
 
-### #is_/same_as :: [Saddle.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Horse_Riding/Saddle.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Horse_Riding/Saddle.public|Saddle.public]] 
 
-### #is_/same_as :: [Saddle.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Horse_Riding/Saddle.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Horse_Riding/Saddle.internal|Saddle.internal]] 
 
-### #is_/same_as :: [Saddle.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Horse_Riding/Saddle.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Horse_Riding/Saddle.protect|Saddle.protect]] 
 
-### #is_/same_as :: [Saddle.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Horse_Riding/Saddle.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Horse_Riding/Saddle.private|Saddle.private]] 
 
-### #is_/same_as :: [Saddle.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Horse_Riding/Saddle.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Horse_Riding/Saddle.personal|Saddle.personal]] 
 
-### #is_/same_as :: [Saddle.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Horse_Riding/Saddle.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Horse_Riding/Saddle.secret|Saddle.secret]] 
 

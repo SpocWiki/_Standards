@@ -263,17 +263,17 @@ official_name: Union cycliste internationale
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Union_Cycliste_Internationale](/_Standards/Society/Agent/Community/Organization/Sports_Organization/Union_Cycliste_Internationale.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Sports_Organization/Union_Cycliste_Internationale|Union_Cycliste_Internationale]] 
 
-### #is_/same_as :: [Union_Cycliste_Internationale.public](/_public/Society/Agent/Community/Organization/Sports_Organization/Union_Cycliste_Internationale.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Sports_Organization/Union_Cycliste_Internationale.public|Union_Cycliste_Internationale.public]] 
 
-### #is_/same_as :: [Union_Cycliste_Internationale.internal](/_internal/Society/Agent/Community/Organization/Sports_Organization/Union_Cycliste_Internationale.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Sports_Organization/Union_Cycliste_Internationale.internal|Union_Cycliste_Internationale.internal]] 
 
-### #is_/same_as :: [Union_Cycliste_Internationale.protect](/_protect/Society/Agent/Community/Organization/Sports_Organization/Union_Cycliste_Internationale.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Sports_Organization/Union_Cycliste_Internationale.protect|Union_Cycliste_Internationale.protect]] 
 
-### #is_/same_as :: [Union_Cycliste_Internationale.private](/_private/Society/Agent/Community/Organization/Sports_Organization/Union_Cycliste_Internationale.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Sports_Organization/Union_Cycliste_Internationale.private|Union_Cycliste_Internationale.private]] 
 
-### #is_/same_as :: [Union_Cycliste_Internationale.personal](/_personal/Society/Agent/Community/Organization/Sports_Organization/Union_Cycliste_Internationale.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Sports_Organization/Union_Cycliste_Internationale.personal|Union_Cycliste_Internationale.personal]] 
 
-### #is_/same_as :: [Union_Cycliste_Internationale.secret](/_secret/Society/Agent/Community/Organization/Sports_Organization/Union_Cycliste_Internationale.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Sports_Organization/Union_Cycliste_Internationale.secret|Union_Cycliste_Internationale.secret]] 
 

@@ -65,17 +65,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Serotonin](/_Standards/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Serotonin.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Serotonin|Serotonin]] 
 
-### #is_/same_as :: [Serotonin.public](/_public/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Serotonin.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Serotonin.public|Serotonin.public]] 
 
-### #is_/same_as :: [Serotonin.internal](/_internal/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Serotonin.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Serotonin.internal|Serotonin.internal]] 
 
-### #is_/same_as :: [Serotonin.protect](/_protect/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Serotonin.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Serotonin.protect|Serotonin.protect]] 
 
-### #is_/same_as :: [Serotonin.private](/_private/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Serotonin.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Serotonin.private|Serotonin.private]] 
 
-### #is_/same_as :: [Serotonin.personal](/_personal/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Serotonin.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Serotonin.personal|Serotonin.personal]] 
 
-### #is_/same_as :: [Serotonin.secret](/_secret/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Serotonin.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Serotonin.secret|Serotonin.secret]] 
 

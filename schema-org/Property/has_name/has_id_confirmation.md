@@ -46,17 +46,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_id_confirmation](/_Standards/schema-org/Property/has_name/has_id_confirmation.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_name/has_id_confirmation|has_id_confirmation]] 
 
-### #is_/same_as :: [has_id_confirmation.public](/_public/schema-org/Property/has_name/has_id_confirmation.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/has_name/has_id_confirmation.public|has_id_confirmation.public]] 
 
-### #is_/same_as :: [has_id_confirmation.internal](/_internal/schema-org/Property/has_name/has_id_confirmation.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_name/has_id_confirmation.internal|has_id_confirmation.internal]] 
 
-### #is_/same_as :: [has_id_confirmation.protect](/_protect/schema-org/Property/has_name/has_id_confirmation.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_name/has_id_confirmation.protect|has_id_confirmation.protect]] 
 
-### #is_/same_as :: [has_id_confirmation.private](/_private/schema-org/Property/has_name/has_id_confirmation.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/has_name/has_id_confirmation.private|has_id_confirmation.private]] 
 
-### #is_/same_as :: [has_id_confirmation.personal](/_personal/schema-org/Property/has_name/has_id_confirmation.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_name/has_id_confirmation.personal|has_id_confirmation.personal]] 
 
-### #is_/same_as :: [has_id_confirmation.secret](/_secret/schema-org/Property/has_name/has_id_confirmation.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/has_name/has_id_confirmation.secret|has_id_confirmation.secret]] 
 

@@ -969,17 +969,17 @@ Capital :: [[Brazil/Counties/Distrito_Federal/City/Brasilia]]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Brazil](/_Standards/Earth/Continent/America~South/Brazil.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~South/Brazil|Brazil]] 
 
-### #is_/same_as :: [Brazil.public](/_public/Earth/Continent/America~South/Brazil.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~South/Brazil.public|Brazil.public]] 
 
-### #is_/same_as :: [Brazil.internal](/_internal/Earth/Continent/America~South/Brazil.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~South/Brazil.internal|Brazil.internal]] 
 
-### #is_/same_as :: [Brazil.protect](/_protect/Earth/Continent/America~South/Brazil.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~South/Brazil.protect|Brazil.protect]] 
 
-### #is_/same_as :: [Brazil.private](/_private/Earth/Continent/America~South/Brazil.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~South/Brazil.private|Brazil.private]] 
 
-### #is_/same_as :: [Brazil.personal](/_personal/Earth/Continent/America~South/Brazil.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~South/Brazil.personal|Brazil.personal]] 
 
-### #is_/same_as :: [Brazil.secret](/_secret/Earth/Continent/America~South/Brazil.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~South/Brazil.secret|Brazil.secret]] 
 

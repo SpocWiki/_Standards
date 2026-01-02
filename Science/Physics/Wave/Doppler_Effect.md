@@ -69,17 +69,17 @@ Krugosvet_article: nauka_i_tehnika/fizika/DOPLERA_EFFEKT.html
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Doppler_Effect](/_Standards/Science/Physics/Wave/Doppler_Effect.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Wave/Doppler_Effect|Doppler_Effect]] 
 
-### #is_/same_as :: [Doppler_Effect.public](/_public/Science/Physics/Wave/Doppler_Effect.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Wave/Doppler_Effect.public|Doppler_Effect.public]] 
 
-### #is_/same_as :: [Doppler_Effect.internal](/_internal/Science/Physics/Wave/Doppler_Effect.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Wave/Doppler_Effect.internal|Doppler_Effect.internal]] 
 
-### #is_/same_as :: [Doppler_Effect.protect](/_protect/Science/Physics/Wave/Doppler_Effect.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Wave/Doppler_Effect.protect|Doppler_Effect.protect]] 
 
-### #is_/same_as :: [Doppler_Effect.private](/_private/Science/Physics/Wave/Doppler_Effect.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Wave/Doppler_Effect.private|Doppler_Effect.private]] 
 
-### #is_/same_as :: [Doppler_Effect.personal](/_personal/Science/Physics/Wave/Doppler_Effect.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Wave/Doppler_Effect.personal|Doppler_Effect.personal]] 
 
-### #is_/same_as :: [Doppler_Effect.secret](/_secret/Science/Physics/Wave/Doppler_Effect.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Wave/Doppler_Effect.secret|Doppler_Effect.secret]] 
 

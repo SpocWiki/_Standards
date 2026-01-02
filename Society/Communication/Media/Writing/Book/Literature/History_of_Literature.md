@@ -29,17 +29,17 @@ Commons_category: History of literature
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [History_of_Literature](/_Standards/Society/Communication/Media/Writing/Book/Literature/History_of_Literature.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Literature/History_of_Literature|History_of_Literature]] 
 
-### #is_/same_as :: [History_of_Literature.public](/_public/Society/Communication/Media/Writing/Book/Literature/History_of_Literature.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Literature/History_of_Literature.public|History_of_Literature.public]] 
 
-### #is_/same_as :: [History_of_Literature.internal](/_internal/Society/Communication/Media/Writing/Book/Literature/History_of_Literature.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Literature/History_of_Literature.internal|History_of_Literature.internal]] 
 
-### #is_/same_as :: [History_of_Literature.protect](/_protect/Society/Communication/Media/Writing/Book/Literature/History_of_Literature.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Literature/History_of_Literature.protect|History_of_Literature.protect]] 
 
-### #is_/same_as :: [History_of_Literature.private](/_private/Society/Communication/Media/Writing/Book/Literature/History_of_Literature.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Literature/History_of_Literature.private|History_of_Literature.private]] 
 
-### #is_/same_as :: [History_of_Literature.personal](/_personal/Society/Communication/Media/Writing/Book/Literature/History_of_Literature.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Literature/History_of_Literature.personal|History_of_Literature.personal]] 
 
-### #is_/same_as :: [History_of_Literature.secret](/_secret/Society/Communication/Media/Writing/Book/Literature/History_of_Literature.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Literature/History_of_Literature.secret|History_of_Literature.secret]] 
 

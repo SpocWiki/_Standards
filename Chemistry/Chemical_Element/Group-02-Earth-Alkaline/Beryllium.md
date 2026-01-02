@@ -163,17 +163,17 @@ ZVG_number: 8020
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Beryllium](/_Standards/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Beryllium.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Beryllium|Beryllium]] 
 
-### #is_/same_as :: [Beryllium.public](/_public/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Beryllium.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Beryllium.public|Beryllium.public]] 
 
-### #is_/same_as :: [Beryllium.internal](/_internal/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Beryllium.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Beryllium.internal|Beryllium.internal]] 
 
-### #is_/same_as :: [Beryllium.protect](/_protect/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Beryllium.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Beryllium.protect|Beryllium.protect]] 
 
-### #is_/same_as :: [Beryllium.private](/_private/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Beryllium.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Beryllium.private|Beryllium.private]] 
 
-### #is_/same_as :: [Beryllium.personal](/_personal/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Beryllium.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Beryllium.personal|Beryllium.personal]] 
 
-### #is_/same_as :: [Beryllium.secret](/_secret/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Beryllium.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Beryllium.secret|Beryllium.secret]] 
 

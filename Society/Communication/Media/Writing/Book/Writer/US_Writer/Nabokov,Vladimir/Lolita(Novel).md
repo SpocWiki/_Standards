@@ -220,17 +220,17 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Lolita%201955.JPG
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lolita(Novel)](/_Standards/Society/Communication/Media/Writing/Book/Writer/US_Writer/Nabokov,Vladimir/Lolita(Novel).md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Writer/US_Writer/Nabokov,Vladimir/Lolita(Novel)|Lolita(Novel)]] 
 
-### #is_/same_as :: [Lolita(Novel).public](/_public/Society/Communication/Media/Writing/Book/Writer/US_Writer/Nabokov,Vladimir/Lolita(Novel).public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Writer/US_Writer/Nabokov,Vladimir/Lolita(Novel).public|Lolita(Novel).public]] 
 
-### #is_/same_as :: [Lolita(Novel).internal](/_internal/Society/Communication/Media/Writing/Book/Writer/US_Writer/Nabokov,Vladimir/Lolita(Novel).internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Writer/US_Writer/Nabokov,Vladimir/Lolita(Novel).internal|Lolita(Novel).internal]] 
 
-### #is_/same_as :: [Lolita(Novel).protect](/_protect/Society/Communication/Media/Writing/Book/Writer/US_Writer/Nabokov,Vladimir/Lolita(Novel).protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Writer/US_Writer/Nabokov,Vladimir/Lolita(Novel).protect|Lolita(Novel).protect]] 
 
-### #is_/same_as :: [Lolita(Novel).private](/_private/Society/Communication/Media/Writing/Book/Writer/US_Writer/Nabokov,Vladimir/Lolita(Novel).private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Writer/US_Writer/Nabokov,Vladimir/Lolita(Novel).private|Lolita(Novel).private]] 
 
-### #is_/same_as :: [Lolita(Novel).personal](/_personal/Society/Communication/Media/Writing/Book/Writer/US_Writer/Nabokov,Vladimir/Lolita(Novel).personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Writer/US_Writer/Nabokov,Vladimir/Lolita(Novel).personal|Lolita(Novel).personal]] 
 
-### #is_/same_as :: [Lolita(Novel).secret](/_secret/Society/Communication/Media/Writing/Book/Writer/US_Writer/Nabokov,Vladimir/Lolita(Novel).secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Writer/US_Writer/Nabokov,Vladimir/Lolita(Novel).secret|Lolita(Novel).secret]] 
 

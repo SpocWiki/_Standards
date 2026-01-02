@@ -127,17 +127,17 @@ plaque_image: http://commons.wikimedia.org/wiki/Special:FilePath/Dr.%20Samuel%20
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Johnson,Samuel](/_Standards/Society/Communication/Media/Writing/Book/Writer/English_Writer/Johnson,Samuel.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Writer/English_Writer/Johnson,Samuel|Johnson,Samuel]] 
 
-### #is_/same_as :: [Johnson,Samuel.public](/_public/Society/Communication/Media/Writing/Book/Writer/English_Writer/Johnson,Samuel.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Writer/English_Writer/Johnson,Samuel.public|Johnson,Samuel.public]] 
 
-### #is_/same_as :: [Johnson,Samuel.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/English_Writer/Johnson,Samuel.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Writer/English_Writer/Johnson,Samuel.internal|Johnson,Samuel.internal]] 
 
-### #is_/same_as :: [Johnson,Samuel.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/English_Writer/Johnson,Samuel.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Writer/English_Writer/Johnson,Samuel.protect|Johnson,Samuel.protect]] 
 
-### #is_/same_as :: [Johnson,Samuel.private](/_private/Society/Communication/Media/Writing/Book/Writer/English_Writer/Johnson,Samuel.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Writer/English_Writer/Johnson,Samuel.private|Johnson,Samuel.private]] 
 
-### #is_/same_as :: [Johnson,Samuel.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/English_Writer/Johnson,Samuel.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Writer/English_Writer/Johnson,Samuel.personal|Johnson,Samuel.personal]] 
 
-### #is_/same_as :: [Johnson,Samuel.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/English_Writer/Johnson,Samuel.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Writer/English_Writer/Johnson,Samuel.secret|Johnson,Samuel.secret]] 
 

@@ -132,7 +132,7 @@ have been able to place it with certainty.
 ## Title Illustrations
 
 ------------------------------------------------------------------------------ 
-![Rock rose, Cistus](Malvales/Cistus.jpg))
+![Rock rose, Cistus](Malvales/Cistus.jpg) 
 Scientific Name ::     Cistus
 Location ::           Golden Gate Park, Strybing Arboretum (San Francisco County, California, USA)
 Comments             Rock rose (Cistaceae)
@@ -142,7 +142,7 @@ Source Collection    [CalPhotos](http://calphotos.berkeley.edu/)
 Copyright ::            © 1999 [California Academy of Sciences](http://www.calacademy.org/) 
 
 ------------------------------------------------------------------------------ 
-![Baobab tree, Adansonia digitata](Malvales/Adansonia_digitata.jpg))
+![Baobab tree, Adansonia digitata](Malvales/Adansonia_digitata.jpg) 
 Scientific Name ::     Adansonia digitata
 Location ::           East Africa
 Comments             Baobab tree (Core Malvales).
@@ -152,7 +152,7 @@ Source Collection    [CalPhotos](http://calphotos.berkeley.edu/)
 Copyright ::            © 1999 [California Academy of Sciences](http://www.calacademy.org/) 
 
 --------------------------------------------------------------------------------- 
-![High mallow, Malva sylvestris](Malvales/Malva_sylvestris.jpg))
+![High mallow, Malva sylvestris](Malvales/Malva_sylvestris.jpg) 
 Scientific Name ::     Malva sylvestris (Core Malvales)
 Location ::           Bodega Bay (Sonoma County, California, USA)
 Comments             High mallow
@@ -164,17 +164,17 @@ Copyright ::            © 1995 [Saint Mary\'s College of California](mailto:rpo
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Malvales](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Malvales.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Malvales|Malvales]] 
 
-### #is_/same_as :: [Malvales.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Malvales.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Malvales.public|Malvales.public]] 
 
-### #is_/same_as :: [Malvales.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Malvales.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Malvales.internal|Malvales.internal]] 
 
-### #is_/same_as :: [Malvales.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Malvales.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Malvales.protect|Malvales.protect]] 
 
-### #is_/same_as :: [Malvales.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Malvales.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Malvales.private|Malvales.private]] 
 
-### #is_/same_as :: [Malvales.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Malvales.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Malvales.personal|Malvales.personal]] 
 
-### #is_/same_as :: [Malvales.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Malvales.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Malvales.secret|Malvales.secret]] 
 

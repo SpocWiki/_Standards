@@ -72,17 +72,17 @@ UMLS_CUI: C0030797
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Pelvis](/_Standards/bio/Medicine/Anatomy/Skeleton/Pelvis.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Anatomy/Skeleton/Pelvis|Pelvis]] 
 
-### #is_/same_as :: [Pelvis.public](/_public/bio/Medicine/Anatomy/Skeleton/Pelvis.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Anatomy/Skeleton/Pelvis.public|Pelvis.public]] 
 
-### #is_/same_as :: [Pelvis.internal](/_internal/bio/Medicine/Anatomy/Skeleton/Pelvis.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Anatomy/Skeleton/Pelvis.internal|Pelvis.internal]] 
 
-### #is_/same_as :: [Pelvis.protect](/_protect/bio/Medicine/Anatomy/Skeleton/Pelvis.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Anatomy/Skeleton/Pelvis.protect|Pelvis.protect]] 
 
-### #is_/same_as :: [Pelvis.private](/_private/bio/Medicine/Anatomy/Skeleton/Pelvis.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Anatomy/Skeleton/Pelvis.private|Pelvis.private]] 
 
-### #is_/same_as :: [Pelvis.personal](/_personal/bio/Medicine/Anatomy/Skeleton/Pelvis.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Anatomy/Skeleton/Pelvis.personal|Pelvis.personal]] 
 
-### #is_/same_as :: [Pelvis.secret](/_secret/bio/Medicine/Anatomy/Skeleton/Pelvis.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Anatomy/Skeleton/Pelvis.secret|Pelvis.secret]] 
 

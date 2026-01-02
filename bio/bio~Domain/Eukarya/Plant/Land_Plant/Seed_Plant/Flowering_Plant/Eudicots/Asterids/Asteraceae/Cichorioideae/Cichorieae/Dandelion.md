@@ -148,17 +148,17 @@ taxon_name: Taraxacum
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Dandelion](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Asterids/Asteraceae/Cichorioideae/Cichorieae/Dandelion.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Asterids/Asteraceae/Cichorioideae/Cichorieae/Dandelion|Dandelion]] 
 
-### #is_/same_as :: [Dandelion.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Asterids/Asteraceae/Cichorioideae/Cichorieae/Dandelion.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Asterids/Asteraceae/Cichorioideae/Cichorieae/Dandelion.public|Dandelion.public]] 
 
-### #is_/same_as :: [Dandelion.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Asterids/Asteraceae/Cichorioideae/Cichorieae/Dandelion.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Asterids/Asteraceae/Cichorioideae/Cichorieae/Dandelion.internal|Dandelion.internal]] 
 
-### #is_/same_as :: [Dandelion.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Asterids/Asteraceae/Cichorioideae/Cichorieae/Dandelion.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Asterids/Asteraceae/Cichorioideae/Cichorieae/Dandelion.protect|Dandelion.protect]] 
 
-### #is_/same_as :: [Dandelion.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Asterids/Asteraceae/Cichorioideae/Cichorieae/Dandelion.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Asterids/Asteraceae/Cichorioideae/Cichorieae/Dandelion.private|Dandelion.private]] 
 
-### #is_/same_as :: [Dandelion.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Asterids/Asteraceae/Cichorioideae/Cichorieae/Dandelion.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Asterids/Asteraceae/Cichorioideae/Cichorieae/Dandelion.personal|Dandelion.personal]] 
 
-### #is_/same_as :: [Dandelion.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Asterids/Asteraceae/Cichorioideae/Cichorieae/Dandelion.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Asterids/Asteraceae/Cichorioideae/Cichorieae/Dandelion.secret|Dandelion.secret]] 
 

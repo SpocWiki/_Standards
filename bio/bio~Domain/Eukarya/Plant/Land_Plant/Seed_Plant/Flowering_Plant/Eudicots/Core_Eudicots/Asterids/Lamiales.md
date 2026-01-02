@@ -73,7 +73,7 @@ NBN_System_Key: NHMSYS0021060389
 
 
 ------------------------------------------------------------------------------ 
-![Cream sacs, Castilleja rubicundula ssp. lithospermoides](Lamiales/Castilleja_rubicundula.jpg))
+![Cream sacs, Castilleja rubicundula ssp. lithospermoides](Lamiales/Castilleja_rubicundula.jpg) 
 Scientific Name ::     Castilleja rubicundula ssp. lithospermoides
 Location ::           Napa County, California, US.
 Comments             Cream sacs (Scrophulariaceae)
@@ -83,7 +83,7 @@ Source Collection    [CalPhotos](http://calphotos.berkeley.edu/)
 Copyright ::            © 1999 [California Academy of Sciences](http://www.calacademy.org/) 
 
 ------------------------------------------------------------------------ 
-![Satureja thymbra](Lamiales/Satureja_thymbra.jpg))
+![Satureja thymbra](Lamiales/Satureja_thymbra.jpg) 
 Scientific Name ::   Satureja thymbra
 Location ::         Samos, Greece.
 Comments           Lamiaceae
@@ -91,7 +91,7 @@ Acknowledgements   courtesy [Botanical Image Database](http://www.unibas.ch/boti
 Copyright ::          © 2001 University of Basel, Basel, Switzerland 
 
 ------------------------------------------------------------------------ 
-![Globularia punctata](Lamiales/Globularia_punctata.jpg))
+![Globularia punctata](Lamiales/Globularia_punctata.jpg) 
 Scientific Name ::   Globularia punctata
 Location ::         Strangenberg, Haut-Rhin, Dép. Westhalten, France.
 Comments           Antirrhinaceae
@@ -101,17 +101,17 @@ Copyright ::          © 2001 University of Basel, Basel, Switzerland
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lamiales](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales|Lamiales]] 
 
-### #is_/same_as :: [Lamiales.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales.public|Lamiales.public]] 
 
-### #is_/same_as :: [Lamiales.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales.internal|Lamiales.internal]] 
 
-### #is_/same_as :: [Lamiales.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales.protect|Lamiales.protect]] 
 
-### #is_/same_as :: [Lamiales.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales.private|Lamiales.private]] 
 
-### #is_/same_as :: [Lamiales.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales.personal|Lamiales.personal]] 
 
-### #is_/same_as :: [Lamiales.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales.secret|Lamiales.secret]] 
 

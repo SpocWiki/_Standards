@@ -109,17 +109,17 @@ UNII: 15TEQ7D2QF
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Francium](/_Standards/Chemistry/Chemical_Element/Group-01-Alkali/Francium.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Chemical_Element/Group-01-Alkali/Francium|Francium]] 
 
-### #is_/same_as :: [Francium.public](/_public/Chemistry/Chemical_Element/Group-01-Alkali/Francium.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Chemical_Element/Group-01-Alkali/Francium.public|Francium.public]] 
 
-### #is_/same_as :: [Francium.internal](/_internal/Chemistry/Chemical_Element/Group-01-Alkali/Francium.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Chemical_Element/Group-01-Alkali/Francium.internal|Francium.internal]] 
 
-### #is_/same_as :: [Francium.protect](/_protect/Chemistry/Chemical_Element/Group-01-Alkali/Francium.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Chemical_Element/Group-01-Alkali/Francium.protect|Francium.protect]] 
 
-### #is_/same_as :: [Francium.private](/_private/Chemistry/Chemical_Element/Group-01-Alkali/Francium.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Chemical_Element/Group-01-Alkali/Francium.private|Francium.private]] 
 
-### #is_/same_as :: [Francium.personal](/_personal/Chemistry/Chemical_Element/Group-01-Alkali/Francium.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Chemical_Element/Group-01-Alkali/Francium.personal|Francium.personal]] 
 
-### #is_/same_as :: [Francium.secret](/_secret/Chemistry/Chemical_Element/Group-01-Alkali/Francium.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Chemical_Element/Group-01-Alkali/Francium.secret|Francium.secret]] 
 

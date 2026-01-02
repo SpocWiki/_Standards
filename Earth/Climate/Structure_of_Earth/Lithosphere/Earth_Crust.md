@@ -45,17 +45,17 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Erdkruste-i.png
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Earth_Crust](/_Standards/Earth/Climate/Structure_of_Earth/Lithosphere/Earth_Crust.md) 
+### #is_/same_as :: [[/_Standards/Earth/Climate/Structure_of_Earth/Lithosphere/Earth_Crust|Earth_Crust]] 
 
-### #is_/same_as :: [Earth_Crust.public](/_public/Earth/Climate/Structure_of_Earth/Lithosphere/Earth_Crust.public.md) 
+### #is_/same_as :: [[/_public/Earth/Climate/Structure_of_Earth/Lithosphere/Earth_Crust.public|Earth_Crust.public]] 
 
-### #is_/same_as :: [Earth_Crust.internal](/_internal/Earth/Climate/Structure_of_Earth/Lithosphere/Earth_Crust.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Climate/Structure_of_Earth/Lithosphere/Earth_Crust.internal|Earth_Crust.internal]] 
 
-### #is_/same_as :: [Earth_Crust.protect](/_protect/Earth/Climate/Structure_of_Earth/Lithosphere/Earth_Crust.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Climate/Structure_of_Earth/Lithosphere/Earth_Crust.protect|Earth_Crust.protect]] 
 
-### #is_/same_as :: [Earth_Crust.private](/_private/Earth/Climate/Structure_of_Earth/Lithosphere/Earth_Crust.private.md) 
+### #is_/same_as :: [[/_private/Earth/Climate/Structure_of_Earth/Lithosphere/Earth_Crust.private|Earth_Crust.private]] 
 
-### #is_/same_as :: [Earth_Crust.personal](/_personal/Earth/Climate/Structure_of_Earth/Lithosphere/Earth_Crust.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Climate/Structure_of_Earth/Lithosphere/Earth_Crust.personal|Earth_Crust.personal]] 
 
-### #is_/same_as :: [Earth_Crust.secret](/_secret/Earth/Climate/Structure_of_Earth/Lithosphere/Earth_Crust.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Climate/Structure_of_Earth/Lithosphere/Earth_Crust.secret|Earth_Crust.secret]] 
 

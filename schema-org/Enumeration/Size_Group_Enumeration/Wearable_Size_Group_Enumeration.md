@@ -41,17 +41,17 @@ Enumerates common size groups (also known as "size types") for wearable products
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Wearable_Size_Group_Enumeration](/_Standards/schema-org/Enumeration/Size_Group_Enumeration/Wearable_Size_Group_Enumeration.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Size_Group_Enumeration/Wearable_Size_Group_Enumeration|Wearable_Size_Group_Enumeration]] 
 
-### #is_/same_as :: [Wearable_Size_Group_Enumeration.public](/_public/schema-org/Enumeration/Size_Group_Enumeration/Wearable_Size_Group_Enumeration.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Size_Group_Enumeration/Wearable_Size_Group_Enumeration.public|Wearable_Size_Group_Enumeration.public]] 
 
-### #is_/same_as :: [Wearable_Size_Group_Enumeration.internal](/_internal/schema-org/Enumeration/Size_Group_Enumeration/Wearable_Size_Group_Enumeration.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Size_Group_Enumeration/Wearable_Size_Group_Enumeration.internal|Wearable_Size_Group_Enumeration.internal]] 
 
-### #is_/same_as :: [Wearable_Size_Group_Enumeration.protect](/_protect/schema-org/Enumeration/Size_Group_Enumeration/Wearable_Size_Group_Enumeration.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Size_Group_Enumeration/Wearable_Size_Group_Enumeration.protect|Wearable_Size_Group_Enumeration.protect]] 
 
-### #is_/same_as :: [Wearable_Size_Group_Enumeration.private](/_private/schema-org/Enumeration/Size_Group_Enumeration/Wearable_Size_Group_Enumeration.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Size_Group_Enumeration/Wearable_Size_Group_Enumeration.private|Wearable_Size_Group_Enumeration.private]] 
 
-### #is_/same_as :: [Wearable_Size_Group_Enumeration.personal](/_personal/schema-org/Enumeration/Size_Group_Enumeration/Wearable_Size_Group_Enumeration.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Size_Group_Enumeration/Wearable_Size_Group_Enumeration.personal|Wearable_Size_Group_Enumeration.personal]] 
 
-### #is_/same_as :: [Wearable_Size_Group_Enumeration.secret](/_secret/schema-org/Enumeration/Size_Group_Enumeration/Wearable_Size_Group_Enumeration.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Size_Group_Enumeration/Wearable_Size_Group_Enumeration.secret|Wearable_Size_Group_Enumeration.secret]] 
 

@@ -37,17 +37,17 @@ Event type: A social dance.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~DanceEvent](/_Standards/fileClass/FileClass~Thing/FileClass~Event/FileClass~DanceEvent.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Event/FileClass~DanceEvent|FileClass~DanceEvent]] 
 
-### #is_/same_as :: [FileClass~DanceEvent.public](/_public/fileClass/FileClass~Thing/FileClass~Event/FileClass~DanceEvent.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Event/FileClass~DanceEvent.public|FileClass~DanceEvent.public]] 
 
-### #is_/same_as :: [FileClass~DanceEvent.internal](/_internal/fileClass/FileClass~Thing/FileClass~Event/FileClass~DanceEvent.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Event/FileClass~DanceEvent.internal|FileClass~DanceEvent.internal]] 
 
-### #is_/same_as :: [FileClass~DanceEvent.protect](/_protect/fileClass/FileClass~Thing/FileClass~Event/FileClass~DanceEvent.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Event/FileClass~DanceEvent.protect|FileClass~DanceEvent.protect]] 
 
-### #is_/same_as :: [FileClass~DanceEvent.private](/_private/fileClass/FileClass~Thing/FileClass~Event/FileClass~DanceEvent.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Event/FileClass~DanceEvent.private|FileClass~DanceEvent.private]] 
 
-### #is_/same_as :: [FileClass~DanceEvent.personal](/_personal/fileClass/FileClass~Thing/FileClass~Event/FileClass~DanceEvent.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Event/FileClass~DanceEvent.personal|FileClass~DanceEvent.personal]] 
 
-### #is_/same_as :: [FileClass~DanceEvent.secret](/_secret/fileClass/FileClass~Thing/FileClass~Event/FileClass~DanceEvent.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Event/FileClass~DanceEvent.secret|FileClass~DanceEvent.secret]] 
 

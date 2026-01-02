@@ -114,17 +114,17 @@ Commons_category: Nuclear power
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Nuclear_Power](/_Standards/Technology/Energy-Technology/Nuclear_Power.md) 
+### #is_/same_as :: [[/_Standards/Technology/Energy-Technology/Nuclear_Power|Nuclear_Power]] 
 
-### #is_/same_as :: [Nuclear_Power.public](/_public/Technology/Energy-Technology/Nuclear_Power.public.md) 
+### #is_/same_as :: [[/_public/Technology/Energy-Technology/Nuclear_Power.public|Nuclear_Power.public]] 
 
-### #is_/same_as :: [Nuclear_Power.internal](/_internal/Technology/Energy-Technology/Nuclear_Power.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Energy-Technology/Nuclear_Power.internal|Nuclear_Power.internal]] 
 
-### #is_/same_as :: [Nuclear_Power.protect](/_protect/Technology/Energy-Technology/Nuclear_Power.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Energy-Technology/Nuclear_Power.protect|Nuclear_Power.protect]] 
 
-### #is_/same_as :: [Nuclear_Power.private](/_private/Technology/Energy-Technology/Nuclear_Power.private.md) 
+### #is_/same_as :: [[/_private/Technology/Energy-Technology/Nuclear_Power.private|Nuclear_Power.private]] 
 
-### #is_/same_as :: [Nuclear_Power.personal](/_personal/Technology/Energy-Technology/Nuclear_Power.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Energy-Technology/Nuclear_Power.personal|Nuclear_Power.personal]] 
 
-### #is_/same_as :: [Nuclear_Power.secret](/_secret/Technology/Energy-Technology/Nuclear_Power.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Energy-Technology/Nuclear_Power.secret|Nuclear_Power.secret]] 
 

@@ -37,17 +37,17 @@ A car wash business.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~AutoWash](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~AutomotiveBusiness/FileClass~AutoWash.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~AutomotiveBusiness/FileClass~AutoWash|FileClass~AutoWash]] 
 
-### #is_/same_as :: [FileClass~AutoWash.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~AutomotiveBusiness/FileClass~AutoWash.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~AutomotiveBusiness/FileClass~AutoWash.public|FileClass~AutoWash.public]] 
 
-### #is_/same_as :: [FileClass~AutoWash.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~AutomotiveBusiness/FileClass~AutoWash.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~AutomotiveBusiness/FileClass~AutoWash.internal|FileClass~AutoWash.internal]] 
 
-### #is_/same_as :: [FileClass~AutoWash.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~AutomotiveBusiness/FileClass~AutoWash.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~AutomotiveBusiness/FileClass~AutoWash.protect|FileClass~AutoWash.protect]] 
 
-### #is_/same_as :: [FileClass~AutoWash.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~AutomotiveBusiness/FileClass~AutoWash.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~AutomotiveBusiness/FileClass~AutoWash.private|FileClass~AutoWash.private]] 
 
-### #is_/same_as :: [FileClass~AutoWash.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~AutomotiveBusiness/FileClass~AutoWash.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~AutomotiveBusiness/FileClass~AutoWash.personal|FileClass~AutoWash.personal]] 
 
-### #is_/same_as :: [FileClass~AutoWash.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~AutomotiveBusiness/FileClass~AutoWash.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~AutomotiveBusiness/FileClass~AutoWash.secret|FileClass~AutoWash.secret]] 
 

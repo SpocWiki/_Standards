@@ -113,17 +113,17 @@ Facebook_username: bbking
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [B.B.King](/_Standards/Society/Communication/Media/Music/Music_Genre/Blues/B.B.King.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Music_Genre/Blues/B.B.King|B.B.King]] 
 
-### #is_/same_as :: [B.B.King.public](/_public/Society/Communication/Media/Music/Music_Genre/Blues/B.B.King.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Music_Genre/Blues/B.B.King.public|B.B.King.public]] 
 
-### #is_/same_as :: [B.B.King.internal](/_internal/Society/Communication/Media/Music/Music_Genre/Blues/B.B.King.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Music_Genre/Blues/B.B.King.internal|B.B.King.internal]] 
 
-### #is_/same_as :: [B.B.King.protect](/_protect/Society/Communication/Media/Music/Music_Genre/Blues/B.B.King.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Music_Genre/Blues/B.B.King.protect|B.B.King.protect]] 
 
-### #is_/same_as :: [B.B.King.private](/_private/Society/Communication/Media/Music/Music_Genre/Blues/B.B.King.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Music_Genre/Blues/B.B.King.private|B.B.King.private]] 
 
-### #is_/same_as :: [B.B.King.personal](/_personal/Society/Communication/Media/Music/Music_Genre/Blues/B.B.King.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Music_Genre/Blues/B.B.King.personal|B.B.King.personal]] 
 
-### #is_/same_as :: [B.B.King.secret](/_secret/Society/Communication/Media/Music/Music_Genre/Blues/B.B.King.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Music_Genre/Blues/B.B.King.secret|B.B.King.secret]] 
 

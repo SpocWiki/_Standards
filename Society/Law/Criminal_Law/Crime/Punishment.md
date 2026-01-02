@@ -106,17 +106,17 @@ Commons_category: Punishments
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Punishment](/_Standards/Society/Law/Criminal_Law/Crime/Punishment.md) 
+### #is_/same_as :: [[/_Standards/Society/Law/Criminal_Law/Crime/Punishment|Punishment]] 
 
-### #is_/same_as :: [Punishment.public](/_public/Society/Law/Criminal_Law/Crime/Punishment.public.md) 
+### #is_/same_as :: [[/_public/Society/Law/Criminal_Law/Crime/Punishment.public|Punishment.public]] 
 
-### #is_/same_as :: [Punishment.internal](/_internal/Society/Law/Criminal_Law/Crime/Punishment.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Law/Criminal_Law/Crime/Punishment.internal|Punishment.internal]] 
 
-### #is_/same_as :: [Punishment.protect](/_protect/Society/Law/Criminal_Law/Crime/Punishment.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Law/Criminal_Law/Crime/Punishment.protect|Punishment.protect]] 
 
-### #is_/same_as :: [Punishment.private](/_private/Society/Law/Criminal_Law/Crime/Punishment.private.md) 
+### #is_/same_as :: [[/_private/Society/Law/Criminal_Law/Crime/Punishment.private|Punishment.private]] 
 
-### #is_/same_as :: [Punishment.personal](/_personal/Society/Law/Criminal_Law/Crime/Punishment.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Law/Criminal_Law/Crime/Punishment.personal|Punishment.personal]] 
 
-### #is_/same_as :: [Punishment.secret](/_secret/Society/Law/Criminal_Law/Crime/Punishment.secret.md)
+### #is_/same_as :: [[/_secret/Society/Law/Criminal_Law/Crime/Punishment.secret|Punishment.secret]] 
 

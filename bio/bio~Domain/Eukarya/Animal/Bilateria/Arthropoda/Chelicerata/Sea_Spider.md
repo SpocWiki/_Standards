@@ -98,17 +98,17 @@ Copyright ::                           © 2006 [Asbjørn Hansen](http://flickr.c
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sea_Spider](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Sea_Spider.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Sea_Spider|Sea_Spider]] 
 
-### #is_/same_as :: [Sea_Spider.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Sea_Spider.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Sea_Spider.public|Sea_Spider.public]] 
 
-### #is_/same_as :: [Sea_Spider.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Sea_Spider.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Sea_Spider.internal|Sea_Spider.internal]] 
 
-### #is_/same_as :: [Sea_Spider.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Sea_Spider.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Sea_Spider.protect|Sea_Spider.protect]] 
 
-### #is_/same_as :: [Sea_Spider.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Sea_Spider.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Sea_Spider.private|Sea_Spider.private]] 
 
-### #is_/same_as :: [Sea_Spider.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Sea_Spider.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Sea_Spider.personal|Sea_Spider.personal]] 
 
-### #is_/same_as :: [Sea_Spider.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Sea_Spider.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Sea_Spider.secret|Sea_Spider.secret]] 
 

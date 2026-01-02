@@ -25,17 +25,17 @@ markerFile: [[USA~5-Eastern]]
 
 ## Confidential Links & Embeds: 
 
-### [USA~Eastern](/_Standards/Earth/Continent/America~North/USA/USA~Eastern.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~North/USA/USA~5-Eastern|USA~5-Eastern]] 
 
-### [USA~Eastern.public](/_public/Earth/Continent/America~North/USA/USA~Eastern.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~North/USA/USA~5-Eastern.public|USA~5-Eastern.public]] 
 
-### [USA~Eastern.internal](/_internal/Earth/Continent/America~North/USA/USA~Eastern.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~North/USA/USA~5-Eastern.internal|USA~5-Eastern.internal]] 
 
-### [USA~Eastern.protect](/_protect/Earth/Continent/America~North/USA/USA~Eastern.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~North/USA/USA~5-Eastern.protect|USA~5-Eastern.protect]] 
 
-### [USA~Eastern.private](/_private/Earth/Continent/America~North/USA/USA~Eastern.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~North/USA/USA~5-Eastern.private|USA~5-Eastern.private]] 
 
-### [USA~Eastern.personal](/_personal/Earth/Continent/America~North/USA/USA~Eastern.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~North/USA/USA~5-Eastern.personal|USA~5-Eastern.personal]] 
 
-### [USA~Eastern.secret](/_secret/Earth/Continent/America~North/USA/USA~Eastern.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~North/USA/USA~5-Eastern.secret|USA~5-Eastern.secret]] 
 

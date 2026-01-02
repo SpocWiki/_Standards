@@ -62,17 +62,17 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Age~1~Sandbian](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~2~Ordovician/Epoch~3~Late_Ordovician/Age~1~Sandbian.md) 
+### #is_/same_as :: [[/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~2~Ordovician/Epoch~3~Late_Ordovician/Age~1~Sandbian|Age~1~Sandbian]] 
 
-### #is_/same_as :: [Age~1~Sandbian.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~2~Ordovician/Epoch~3~Late_Ordovician/Age~1~Sandbian.public.md) 
+### #is_/same_as :: [[/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~2~Ordovician/Epoch~3~Late_Ordovician/Age~1~Sandbian.public|Age~1~Sandbian.public]] 
 
-### #is_/same_as :: [Age~1~Sandbian.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~2~Ordovician/Epoch~3~Late_Ordovician/Age~1~Sandbian.internal.md) 
+### #is_/same_as :: [[/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~2~Ordovician/Epoch~3~Late_Ordovician/Age~1~Sandbian.internal|Age~1~Sandbian.internal]] 
 
-### #is_/same_as :: [Age~1~Sandbian.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~2~Ordovician/Epoch~3~Late_Ordovician/Age~1~Sandbian.protect.md) 
+### #is_/same_as :: [[/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~2~Ordovician/Epoch~3~Late_Ordovician/Age~1~Sandbian.protect|Age~1~Sandbian.protect]] 
 
-### #is_/same_as :: [Age~1~Sandbian.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~2~Ordovician/Epoch~3~Late_Ordovician/Age~1~Sandbian.private.md) 
+### #is_/same_as :: [[/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~2~Ordovician/Epoch~3~Late_Ordovician/Age~1~Sandbian.private|Age~1~Sandbian.private]] 
 
-### #is_/same_as :: [Age~1~Sandbian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~2~Ordovician/Epoch~3~Late_Ordovician/Age~1~Sandbian.personal.md) 
+### #is_/same_as :: [[/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~2~Ordovician/Epoch~3~Late_Ordovician/Age~1~Sandbian.personal|Age~1~Sandbian.personal]] 
 
-### #is_/same_as :: [Age~1~Sandbian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~2~Ordovician/Epoch~3~Late_Ordovician/Age~1~Sandbian.secret.md)
+### #is_/same_as :: [[/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~2~Ordovician/Epoch~3~Late_Ordovician/Age~1~Sandbian.secret|Age~1~Sandbian.secret]] 
 

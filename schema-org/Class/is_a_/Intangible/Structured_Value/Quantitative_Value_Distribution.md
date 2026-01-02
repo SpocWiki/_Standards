@@ -43,17 +43,17 @@ A statistical distribution of values.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Quantitative_Value_Distribution](/_Standards/schema-org/Class/is_a_/Intangible/Structured_Value/Quantitative_Value_Distribution.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Intangible/Structured_Value/Quantitative_Value_Distribution|Quantitative_Value_Distribution]] 
 
-### #is_/same_as :: [Quantitative_Value_Distribution.public](/_public/schema-org/Class/is_a_/Intangible/Structured_Value/Quantitative_Value_Distribution.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Intangible/Structured_Value/Quantitative_Value_Distribution.public|Quantitative_Value_Distribution.public]] 
 
-### #is_/same_as :: [Quantitative_Value_Distribution.internal](/_internal/schema-org/Class/is_a_/Intangible/Structured_Value/Quantitative_Value_Distribution.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Intangible/Structured_Value/Quantitative_Value_Distribution.internal|Quantitative_Value_Distribution.internal]] 
 
-### #is_/same_as :: [Quantitative_Value_Distribution.protect](/_protect/schema-org/Class/is_a_/Intangible/Structured_Value/Quantitative_Value_Distribution.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Intangible/Structured_Value/Quantitative_Value_Distribution.protect|Quantitative_Value_Distribution.protect]] 
 
-### #is_/same_as :: [Quantitative_Value_Distribution.private](/_private/schema-org/Class/is_a_/Intangible/Structured_Value/Quantitative_Value_Distribution.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Intangible/Structured_Value/Quantitative_Value_Distribution.private|Quantitative_Value_Distribution.private]] 
 
-### #is_/same_as :: [Quantitative_Value_Distribution.personal](/_personal/schema-org/Class/is_a_/Intangible/Structured_Value/Quantitative_Value_Distribution.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Intangible/Structured_Value/Quantitative_Value_Distribution.personal|Quantitative_Value_Distribution.personal]] 
 
-### #is_/same_as :: [Quantitative_Value_Distribution.secret](/_secret/schema-org/Class/is_a_/Intangible/Structured_Value/Quantitative_Value_Distribution.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Intangible/Structured_Value/Quantitative_Value_Distribution.secret|Quantitative_Value_Distribution.secret]] 
 

@@ -88,17 +88,17 @@ Wikidata_SPARQL_query_equivalent: wd:Q253276 p:P2370/psn:P2370 [wikibase:quantit
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Unit~Mile](/_Standards/Dimension/Dim~Length/Unit~Mile.md) 
+### #is_/same_as :: [[/_Standards/Dimension/Dim~Length/Unit~Mile|Unit~Mile]] 
 
-### #is_/same_as :: [Unit~Mile.public](/_public/Dimension/Dim~Length/Unit~Mile.public.md) 
+### #is_/same_as :: [[/_public/Dimension/Dim~Length/Unit~Mile.public|Unit~Mile.public]] 
 
-### #is_/same_as :: [Unit~Mile.internal](/_internal/Dimension/Dim~Length/Unit~Mile.internal.md) 
+### #is_/same_as :: [[/_internal/Dimension/Dim~Length/Unit~Mile.internal|Unit~Mile.internal]] 
 
-### #is_/same_as :: [Unit~Mile.protect](/_protect/Dimension/Dim~Length/Unit~Mile.protect.md) 
+### #is_/same_as :: [[/_protect/Dimension/Dim~Length/Unit~Mile.protect|Unit~Mile.protect]] 
 
-### #is_/same_as :: [Unit~Mile.private](/_private/Dimension/Dim~Length/Unit~Mile.private.md) 
+### #is_/same_as :: [[/_private/Dimension/Dim~Length/Unit~Mile.private|Unit~Mile.private]] 
 
-### #is_/same_as :: [Unit~Mile.personal](/_personal/Dimension/Dim~Length/Unit~Mile.personal.md) 
+### #is_/same_as :: [[/_personal/Dimension/Dim~Length/Unit~Mile.personal|Unit~Mile.personal]] 
 
-### #is_/same_as :: [Unit~Mile.secret](/_secret/Dimension/Dim~Length/Unit~Mile.secret.md)
+### #is_/same_as :: [[/_secret/Dimension/Dim~Length/Unit~Mile.secret|Unit~Mile.secret]] 
 

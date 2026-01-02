@@ -36,17 +36,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bikini](/_Standards/Earth/Continent/Australasia/Micronesia/Marshall_Islands/Counties/Railik_Chain/Bikini.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Australasia/Micronesia/Marshall_Islands/Counties/Railik_Chain/Bikini|Bikini]] 
 
-### #is_/same_as :: [Bikini.public](/_public/Earth/Continent/Australasia/Micronesia/Marshall_Islands/Counties/Railik_Chain/Bikini.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Australasia/Micronesia/Marshall_Islands/Counties/Railik_Chain/Bikini.public|Bikini.public]] 
 
-### #is_/same_as :: [Bikini.internal](/_internal/Earth/Continent/Australasia/Micronesia/Marshall_Islands/Counties/Railik_Chain/Bikini.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Australasia/Micronesia/Marshall_Islands/Counties/Railik_Chain/Bikini.internal|Bikini.internal]] 
 
-### #is_/same_as :: [Bikini.protect](/_protect/Earth/Continent/Australasia/Micronesia/Marshall_Islands/Counties/Railik_Chain/Bikini.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Australasia/Micronesia/Marshall_Islands/Counties/Railik_Chain/Bikini.protect|Bikini.protect]] 
 
-### #is_/same_as :: [Bikini.private](/_private/Earth/Continent/Australasia/Micronesia/Marshall_Islands/Counties/Railik_Chain/Bikini.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Australasia/Micronesia/Marshall_Islands/Counties/Railik_Chain/Bikini.private|Bikini.private]] 
 
-### #is_/same_as :: [Bikini.personal](/_personal/Earth/Continent/Australasia/Micronesia/Marshall_Islands/Counties/Railik_Chain/Bikini.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Australasia/Micronesia/Marshall_Islands/Counties/Railik_Chain/Bikini.personal|Bikini.personal]] 
 
-### #is_/same_as :: [Bikini.secret](/_secret/Earth/Continent/Australasia/Micronesia/Marshall_Islands/Counties/Railik_Chain/Bikini.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Australasia/Micronesia/Marshall_Islands/Counties/Railik_Chain/Bikini.secret|Bikini.secret]] 
 

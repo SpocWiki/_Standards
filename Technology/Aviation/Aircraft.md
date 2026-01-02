@@ -76,17 +76,17 @@ Wolfram_Language_entity_type: Aircraft
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Aircraft](/_Standards/Technology/Aviation/Aircraft.md) 
+### #is_/same_as :: [[/_Standards/Technology/Aviation/Aircraft|Aircraft]] 
 
-### #is_/same_as :: [Aircraft.public](/_public/Technology/Aviation/Aircraft.public.md) 
+### #is_/same_as :: [[/_public/Technology/Aviation/Aircraft.public|Aircraft.public]] 
 
-### #is_/same_as :: [Aircraft.internal](/_internal/Technology/Aviation/Aircraft.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Aviation/Aircraft.internal|Aircraft.internal]] 
 
-### #is_/same_as :: [Aircraft.protect](/_protect/Technology/Aviation/Aircraft.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Aviation/Aircraft.protect|Aircraft.protect]] 
 
-### #is_/same_as :: [Aircraft.private](/_private/Technology/Aviation/Aircraft.private.md) 
+### #is_/same_as :: [[/_private/Technology/Aviation/Aircraft.private|Aircraft.private]] 
 
-### #is_/same_as :: [Aircraft.personal](/_personal/Technology/Aviation/Aircraft.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Aviation/Aircraft.personal|Aircraft.personal]] 
 
-### #is_/same_as :: [Aircraft.secret](/_secret/Technology/Aviation/Aircraft.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Aviation/Aircraft.secret|Aircraft.secret]] 
 

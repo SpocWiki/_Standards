@@ -11,17 +11,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Godparent](/_Standards/Society/Agent/Community/Clan/Godparent.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Clan/Godparent|Godparent]] 
 
-### #is_/same_as :: [Godparent.public](/_public/Society/Agent/Community/Clan/Godparent.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Clan/Godparent.public|Godparent.public]] 
 
-### #is_/same_as :: [Godparent.internal](/_internal/Society/Agent/Community/Clan/Godparent.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Clan/Godparent.internal|Godparent.internal]] 
 
-### #is_/same_as :: [Godparent.protect](/_protect/Society/Agent/Community/Clan/Godparent.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Clan/Godparent.protect|Godparent.protect]] 
 
-### #is_/same_as :: [Godparent.private](/_private/Society/Agent/Community/Clan/Godparent.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Clan/Godparent.private|Godparent.private]] 
 
-### #is_/same_as :: [Godparent.personal](/_personal/Society/Agent/Community/Clan/Godparent.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Clan/Godparent.personal|Godparent.personal]] 
 
-### #is_/same_as :: [Godparent.secret](/_secret/Society/Agent/Community/Clan/Godparent.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Clan/Godparent.secret|Godparent.secret]] 
 

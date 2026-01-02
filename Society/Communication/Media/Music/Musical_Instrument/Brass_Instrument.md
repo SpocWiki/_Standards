@@ -58,17 +58,17 @@ Wolfram_Language_entity_code: Entity["Concept", "BrassInstrument::ssx22"]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Brass_Instrument](/_Standards/Society/Communication/Media/Music/Musical_Instrument/Brass_Instrument.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Musical_Instrument/Brass_Instrument|Brass_Instrument]] 
 
-### #is_/same_as :: [Brass_Instrument.public](/_public/Society/Communication/Media/Music/Musical_Instrument/Brass_Instrument.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Musical_Instrument/Brass_Instrument.public|Brass_Instrument.public]] 
 
-### #is_/same_as :: [Brass_Instrument.internal](/_internal/Society/Communication/Media/Music/Musical_Instrument/Brass_Instrument.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Musical_Instrument/Brass_Instrument.internal|Brass_Instrument.internal]] 
 
-### #is_/same_as :: [Brass_Instrument.protect](/_protect/Society/Communication/Media/Music/Musical_Instrument/Brass_Instrument.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Musical_Instrument/Brass_Instrument.protect|Brass_Instrument.protect]] 
 
-### #is_/same_as :: [Brass_Instrument.private](/_private/Society/Communication/Media/Music/Musical_Instrument/Brass_Instrument.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Musical_Instrument/Brass_Instrument.private|Brass_Instrument.private]] 
 
-### #is_/same_as :: [Brass_Instrument.personal](/_personal/Society/Communication/Media/Music/Musical_Instrument/Brass_Instrument.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Musical_Instrument/Brass_Instrument.personal|Brass_Instrument.personal]] 
 
-### #is_/same_as :: [Brass_Instrument.secret](/_secret/Society/Communication/Media/Music/Musical_Instrument/Brass_Instrument.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Musical_Instrument/Brass_Instrument.secret|Brass_Instrument.secret]] 
 

@@ -59,17 +59,17 @@ IMDb_keyword: roman-numeral-in-title
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Roman_Numeral](/_Standards/Mathematics/Number/Numeral_System/Roman_Numeral.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Number/Numeral_System/Roman_Numeral|Roman_Numeral]] 
 
-### #is_/same_as :: [Roman_Numeral.public](/_public/Mathematics/Number/Numeral_System/Roman_Numeral.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Number/Numeral_System/Roman_Numeral.public|Roman_Numeral.public]] 
 
-### #is_/same_as :: [Roman_Numeral.internal](/_internal/Mathematics/Number/Numeral_System/Roman_Numeral.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Number/Numeral_System/Roman_Numeral.internal|Roman_Numeral.internal]] 
 
-### #is_/same_as :: [Roman_Numeral.protect](/_protect/Mathematics/Number/Numeral_System/Roman_Numeral.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Number/Numeral_System/Roman_Numeral.protect|Roman_Numeral.protect]] 
 
-### #is_/same_as :: [Roman_Numeral.private](/_private/Mathematics/Number/Numeral_System/Roman_Numeral.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Number/Numeral_System/Roman_Numeral.private|Roman_Numeral.private]] 
 
-### #is_/same_as :: [Roman_Numeral.personal](/_personal/Mathematics/Number/Numeral_System/Roman_Numeral.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Number/Numeral_System/Roman_Numeral.personal|Roman_Numeral.personal]] 
 
-### #is_/same_as :: [Roman_Numeral.secret](/_secret/Mathematics/Number/Numeral_System/Roman_Numeral.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Number/Numeral_System/Roman_Numeral.secret|Roman_Numeral.secret]] 
 

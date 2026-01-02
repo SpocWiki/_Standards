@@ -65,17 +65,17 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Age~3~Hauterivian](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~3~Cretaceous/Epoch~1~Early_Cretaceous/Age~3~Hauterivian.md) 
+### #is_/same_as :: [[/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~3~Cretaceous/Epoch~1~Early_Cretaceous/Age~3~Hauterivian|Age~3~Hauterivian]] 
 
-### #is_/same_as :: [Age~3~Hauterivian.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~3~Cretaceous/Epoch~1~Early_Cretaceous/Age~3~Hauterivian.public.md) 
+### #is_/same_as :: [[/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~3~Cretaceous/Epoch~1~Early_Cretaceous/Age~3~Hauterivian.public|Age~3~Hauterivian.public]] 
 
-### #is_/same_as :: [Age~3~Hauterivian.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~3~Cretaceous/Epoch~1~Early_Cretaceous/Age~3~Hauterivian.internal.md) 
+### #is_/same_as :: [[/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~3~Cretaceous/Epoch~1~Early_Cretaceous/Age~3~Hauterivian.internal|Age~3~Hauterivian.internal]] 
 
-### #is_/same_as :: [Age~3~Hauterivian.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~3~Cretaceous/Epoch~1~Early_Cretaceous/Age~3~Hauterivian.protect.md) 
+### #is_/same_as :: [[/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~3~Cretaceous/Epoch~1~Early_Cretaceous/Age~3~Hauterivian.protect|Age~3~Hauterivian.protect]] 
 
-### #is_/same_as :: [Age~3~Hauterivian.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~3~Cretaceous/Epoch~1~Early_Cretaceous/Age~3~Hauterivian.private.md) 
+### #is_/same_as :: [[/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~3~Cretaceous/Epoch~1~Early_Cretaceous/Age~3~Hauterivian.private|Age~3~Hauterivian.private]] 
 
-### #is_/same_as :: [Age~3~Hauterivian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~3~Cretaceous/Epoch~1~Early_Cretaceous/Age~3~Hauterivian.personal.md) 
+### #is_/same_as :: [[/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~3~Cretaceous/Epoch~1~Early_Cretaceous/Age~3~Hauterivian.personal|Age~3~Hauterivian.personal]] 
 
-### #is_/same_as :: [Age~3~Hauterivian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~3~Cretaceous/Epoch~1~Early_Cretaceous/Age~3~Hauterivian.secret.md)
+### #is_/same_as :: [[/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~3~Cretaceous/Epoch~1~Early_Cretaceous/Age~3~Hauterivian.secret|Age~3~Hauterivian.secret]] 
 

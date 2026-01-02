@@ -56,17 +56,17 @@ Commons_category: Robotics
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Robotics](/_Standards/Technology/IT/Robotics.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Robotics|Robotics]] 
 
-### #is_/same_as :: [Robotics.public](/_public/Technology/IT/Robotics.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Robotics.public|Robotics.public]] 
 
-### #is_/same_as :: [Robotics.internal](/_internal/Technology/IT/Robotics.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Robotics.internal|Robotics.internal]] 
 
-### #is_/same_as :: [Robotics.protect](/_protect/Technology/IT/Robotics.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Robotics.protect|Robotics.protect]] 
 
-### #is_/same_as :: [Robotics.private](/_private/Technology/IT/Robotics.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Robotics.private|Robotics.private]] 
 
-### #is_/same_as :: [Robotics.personal](/_personal/Technology/IT/Robotics.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Robotics.personal|Robotics.personal]] 
 
-### #is_/same_as :: [Robotics.secret](/_secret/Technology/IT/Robotics.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Robotics.secret|Robotics.secret]] 
 

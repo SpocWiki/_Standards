@@ -78,7 +78,7 @@ more data and/or study of additional characters clarifies these enigmas.
 
 
 --------------------------------------------------------------------------- 
-![Sclerochiton harveyanus Nees](Sclerochiton/sclerochiton.jpg))
+![Sclerochiton harveyanus Nees](Sclerochiton/sclerochiton.jpg) 
 Scientific Name ::     Sclerochiton harveyanus Nees
 Specimen Condition   Live Specimen
 Copyright ::            © 2006 [Lucinda A. McDade](mailto:lucinda.mcdade@cgu.edu) 
@@ -94,7 +94,7 @@ Collector            Meeuse 9657
 Copyright ::            © 2006 [Lucinda A. McDade](mailto:lucinda.mcdade@cgu.edu) 
 
 --------------------------------------------------------------------------- 
-![Sclerochiton bequaertii](Sclerochiton/Streptosiphon1.jpg))
+![Sclerochiton bequaertii](Sclerochiton/Streptosiphon1.jpg) 
 Scientific Name ::  Sclerochiton bequaertii De Wild.
 Reference         Vollesen, Kaj. 1991. A revision of the African genus Sclerochiton (Acanthaceae: Acantheae). Kew Bulletin 46(1):38.
 Creator           Drawn by Eleanor Catherine
@@ -110,17 +110,17 @@ Copyright ::            © 2006 [Lucinda A. McDade](mailto:lucinda.mcdade@cgu.ed
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sclerochiton](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Acantheae/Sclerochiton.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Acantheae/Sclerochiton|Sclerochiton]] 
 
-### #is_/same_as :: [Sclerochiton.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Acantheae/Sclerochiton.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Acantheae/Sclerochiton.public|Sclerochiton.public]] 
 
-### #is_/same_as :: [Sclerochiton.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Acantheae/Sclerochiton.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Acantheae/Sclerochiton.internal|Sclerochiton.internal]] 
 
-### #is_/same_as :: [Sclerochiton.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Acantheae/Sclerochiton.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Acantheae/Sclerochiton.protect|Sclerochiton.protect]] 
 
-### #is_/same_as :: [Sclerochiton.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Acantheae/Sclerochiton.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Acantheae/Sclerochiton.private|Sclerochiton.private]] 
 
-### #is_/same_as :: [Sclerochiton.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Acantheae/Sclerochiton.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Acantheae/Sclerochiton.personal|Sclerochiton.personal]] 
 
-### #is_/same_as :: [Sclerochiton.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Acantheae/Sclerochiton.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Acantheae/Sclerochiton.secret|Sclerochiton.secret]] 
 

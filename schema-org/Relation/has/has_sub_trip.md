@@ -46,17 +46,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_sub_trip](/_Standards/schema-org/Relation/has/has_sub_trip.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_sub_trip|has_sub_trip]] 
 
-### #is_/same_as :: [has_sub_trip.public](/_public/schema-org/Relation/has/has_sub_trip.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_sub_trip.public|has_sub_trip.public]] 
 
-### #is_/same_as :: [has_sub_trip.internal](/_internal/schema-org/Relation/has/has_sub_trip.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_sub_trip.internal|has_sub_trip.internal]] 
 
-### #is_/same_as :: [has_sub_trip.protect](/_protect/schema-org/Relation/has/has_sub_trip.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_sub_trip.protect|has_sub_trip.protect]] 
 
-### #is_/same_as :: [has_sub_trip.private](/_private/schema-org/Relation/has/has_sub_trip.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_sub_trip.private|has_sub_trip.private]] 
 
-### #is_/same_as :: [has_sub_trip.personal](/_personal/schema-org/Relation/has/has_sub_trip.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_sub_trip.personal|has_sub_trip.personal]] 
 
-### #is_/same_as :: [has_sub_trip.secret](/_secret/schema-org/Relation/has/has_sub_trip.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_sub_trip.secret|has_sub_trip.secret]] 
 

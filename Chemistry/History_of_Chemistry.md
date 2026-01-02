@@ -43,17 +43,17 @@ Krugosvet_article_archived_: nauka_i_tehnika/himiya/HIMII_ISTORIYA.html
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [History_of_Chemistry](/_Standards/Chemistry/History_of_Chemistry.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/History_of_Chemistry|History_of_Chemistry]] 
 
-### #is_/same_as :: [History_of_Chemistry.public](/_public/Chemistry/History_of_Chemistry.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/History_of_Chemistry.public|History_of_Chemistry.public]] 
 
-### #is_/same_as :: [History_of_Chemistry.internal](/_internal/Chemistry/History_of_Chemistry.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/History_of_Chemistry.internal|History_of_Chemistry.internal]] 
 
-### #is_/same_as :: [History_of_Chemistry.protect](/_protect/Chemistry/History_of_Chemistry.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/History_of_Chemistry.protect|History_of_Chemistry.protect]] 
 
-### #is_/same_as :: [History_of_Chemistry.private](/_private/Chemistry/History_of_Chemistry.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/History_of_Chemistry.private|History_of_Chemistry.private]] 
 
-### #is_/same_as :: [History_of_Chemistry.personal](/_personal/Chemistry/History_of_Chemistry.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/History_of_Chemistry.personal|History_of_Chemistry.personal]] 
 
-### #is_/same_as :: [History_of_Chemistry.secret](/_secret/Chemistry/History_of_Chemistry.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/History_of_Chemistry.secret|History_of_Chemistry.secret]] 
 

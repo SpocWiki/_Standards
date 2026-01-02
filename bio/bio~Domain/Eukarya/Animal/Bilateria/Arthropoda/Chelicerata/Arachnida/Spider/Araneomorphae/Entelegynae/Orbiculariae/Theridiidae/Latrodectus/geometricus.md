@@ -34,13 +34,13 @@ title: Latrodectus geometricus
 # *Latrodectus geometricus* 
 
 [Jeremy Miller]()
-![ ](geometricus/dsc_0039.jpg))![ ](geometricus/dsc_0060.jpg))![](geometricus/latrogeometricuseggcaseusa_al_ms02_0_71x9f.jpg))
+![ ](geometricus/dsc_0039.jpg))![ ](geometricus/dsc_0060.jpg))![](geometricus/latrogeometricuseggcaseusa_al_ms02_0_71x9f.jpg) 
 
 Containing group: [Latrodectus](../Latrodectus.md))*
 
 ## Title Illustrations
 
-![](geometricus/dsc_0039.jpg))
+![](geometricus/dsc_0039.jpg) 
 
   ---------------------------------------------------------------------------------------
   Scientific Name ::     Latrodectus geometricus
@@ -52,7 +52,7 @@ Containing group: [Latrodectus](../Latrodectus.md))*
   Copyright ::            © [Jeremy Miller](http://www.calacademy.org/research/entomology/personnel/jmiller/index.htm) 
  
   ---------------------------------------------------------------------------------------
-![](geometricus/dsc_0060.jpg))
+![](geometricus/dsc_0060.jpg) 
 
   ---------------------------------------------------------------------------------------
   Scientific Name ::     Latrodectus geometricus
@@ -64,7 +64,7 @@ Containing group: [Latrodectus](../Latrodectus.md))*
   Copyright ::            © [Jeremy Miller](http://www.calacademy.org/research/entomology/personnel/jmiller/index.htm) 
  
   ---------------------------------------------------------------------------------------
-![](geometricus/latrogeometricuseggcaseusa_al_ms02_0_71x9f.jpg))
+![](geometricus/latrogeometricuseggcaseusa_al_ms02_0_71x9f.jpg) 
 
   ---------------------------------------------------------------------------------------
   Scientific Name ::     Latrodectus geometricus
@@ -78,17 +78,17 @@ Containing group: [Latrodectus](../Latrodectus.md))*
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [geometricus](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Orbiculariae/Theridiidae/Latrodectus/geometricus.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Orbiculariae/Theridiidae/Latrodectus/geometricus|geometricus]] 
 
-### #is_/same_as :: [geometricus.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Orbiculariae/Theridiidae/Latrodectus/geometricus.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Orbiculariae/Theridiidae/Latrodectus/geometricus.public|geometricus.public]] 
 
-### #is_/same_as :: [geometricus.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Orbiculariae/Theridiidae/Latrodectus/geometricus.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Orbiculariae/Theridiidae/Latrodectus/geometricus.internal|geometricus.internal]] 
 
-### #is_/same_as :: [geometricus.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Orbiculariae/Theridiidae/Latrodectus/geometricus.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Orbiculariae/Theridiidae/Latrodectus/geometricus.protect|geometricus.protect]] 
 
-### #is_/same_as :: [geometricus.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Orbiculariae/Theridiidae/Latrodectus/geometricus.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Orbiculariae/Theridiidae/Latrodectus/geometricus.private|geometricus.private]] 
 
-### #is_/same_as :: [geometricus.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Orbiculariae/Theridiidae/Latrodectus/geometricus.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Orbiculariae/Theridiidae/Latrodectus/geometricus.personal|geometricus.personal]] 
 
-### #is_/same_as :: [geometricus.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Orbiculariae/Theridiidae/Latrodectus/geometricus.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Orbiculariae/Theridiidae/Latrodectus/geometricus.secret|geometricus.secret]] 
 

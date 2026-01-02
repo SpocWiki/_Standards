@@ -207,17 +207,17 @@ ISNI: 0000000121364370
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Maxwell,James_Clerk](/_Standards/Science/Scientist/Modern_Scientists/Maxwell,James_Clerk.md) 
+### #is_/same_as :: [[/_Standards/Science/Scientist/Modern_Scientists/Maxwell,James_Clerk|Maxwell,James_Clerk]] 
 
-### #is_/same_as :: [Maxwell,James_Clerk.public](/_public/Science/Scientist/Modern_Scientists/Maxwell,James_Clerk.public.md) 
+### #is_/same_as :: [[/_public/Science/Scientist/Modern_Scientists/Maxwell,James_Clerk.public|Maxwell,James_Clerk.public]] 
 
-### #is_/same_as :: [Maxwell,James_Clerk.internal](/_internal/Science/Scientist/Modern_Scientists/Maxwell,James_Clerk.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Scientist/Modern_Scientists/Maxwell,James_Clerk.internal|Maxwell,James_Clerk.internal]] 
 
-### #is_/same_as :: [Maxwell,James_Clerk.protect](/_protect/Science/Scientist/Modern_Scientists/Maxwell,James_Clerk.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Scientist/Modern_Scientists/Maxwell,James_Clerk.protect|Maxwell,James_Clerk.protect]] 
 
-### #is_/same_as :: [Maxwell,James_Clerk.private](/_private/Science/Scientist/Modern_Scientists/Maxwell,James_Clerk.private.md) 
+### #is_/same_as :: [[/_private/Science/Scientist/Modern_Scientists/Maxwell,James_Clerk.private|Maxwell,James_Clerk.private]] 
 
-### #is_/same_as :: [Maxwell,James_Clerk.personal](/_personal/Science/Scientist/Modern_Scientists/Maxwell,James_Clerk.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Scientist/Modern_Scientists/Maxwell,James_Clerk.personal|Maxwell,James_Clerk.personal]] 
 
-### #is_/same_as :: [Maxwell,James_Clerk.secret](/_secret/Science/Scientist/Modern_Scientists/Maxwell,James_Clerk.secret.md)
+### #is_/same_as :: [[/_secret/Science/Scientist/Modern_Scientists/Maxwell,James_Clerk.secret|Maxwell,James_Clerk.secret]] 
 

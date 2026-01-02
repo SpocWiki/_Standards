@@ -83,17 +83,17 @@ Wolfram_Language_entity_type: MusicalInstrument
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Musical_Instrument](/_Standards/Society/Communication/Media/Music/Musical_Instrument.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Musical_Instrument|Musical_Instrument]] 
 
-### #is_/same_as :: [Musical_Instrument.public](/_public/Society/Communication/Media/Music/Musical_Instrument.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Musical_Instrument.public|Musical_Instrument.public]] 
 
-### #is_/same_as :: [Musical_Instrument.internal](/_internal/Society/Communication/Media/Music/Musical_Instrument.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Musical_Instrument.internal|Musical_Instrument.internal]] 
 
-### #is_/same_as :: [Musical_Instrument.protect](/_protect/Society/Communication/Media/Music/Musical_Instrument.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Musical_Instrument.protect|Musical_Instrument.protect]] 
 
-### #is_/same_as :: [Musical_Instrument.private](/_private/Society/Communication/Media/Music/Musical_Instrument.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Musical_Instrument.private|Musical_Instrument.private]] 
 
-### #is_/same_as :: [Musical_Instrument.personal](/_personal/Society/Communication/Media/Music/Musical_Instrument.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Musical_Instrument.personal|Musical_Instrument.personal]] 
 
-### #is_/same_as :: [Musical_Instrument.secret](/_secret/Society/Communication/Media/Music/Musical_Instrument.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Musical_Instrument.secret|Musical_Instrument.secret]] 
 

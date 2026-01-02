@@ -42,17 +42,17 @@ MeSH_tree_code: G15.713
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Transpiration](/_Standards/bio/Botany/Plant_Anatomy/Transpiration.md) 
+### #is_/same_as :: [[/_Standards/bio/Botany/Plant_Anatomy/Transpiration|Transpiration]] 
 
-### #is_/same_as :: [Transpiration.public](/_public/bio/Botany/Plant_Anatomy/Transpiration.public.md) 
+### #is_/same_as :: [[/_public/bio/Botany/Plant_Anatomy/Transpiration.public|Transpiration.public]] 
 
-### #is_/same_as :: [Transpiration.internal](/_internal/bio/Botany/Plant_Anatomy/Transpiration.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Botany/Plant_Anatomy/Transpiration.internal|Transpiration.internal]] 
 
-### #is_/same_as :: [Transpiration.protect](/_protect/bio/Botany/Plant_Anatomy/Transpiration.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Botany/Plant_Anatomy/Transpiration.protect|Transpiration.protect]] 
 
-### #is_/same_as :: [Transpiration.private](/_private/bio/Botany/Plant_Anatomy/Transpiration.private.md) 
+### #is_/same_as :: [[/_private/bio/Botany/Plant_Anatomy/Transpiration.private|Transpiration.private]] 
 
-### #is_/same_as :: [Transpiration.personal](/_personal/bio/Botany/Plant_Anatomy/Transpiration.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Botany/Plant_Anatomy/Transpiration.personal|Transpiration.personal]] 
 
-### #is_/same_as :: [Transpiration.secret](/_secret/bio/Botany/Plant_Anatomy/Transpiration.secret.md)
+### #is_/same_as :: [[/_secret/bio/Botany/Plant_Anatomy/Transpiration.secret|Transpiration.secret]] 
 

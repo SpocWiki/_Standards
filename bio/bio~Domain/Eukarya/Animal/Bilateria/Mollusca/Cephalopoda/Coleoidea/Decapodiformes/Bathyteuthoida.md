@@ -31,7 +31,7 @@ title: Bathyteuthoida
 # Bathyteuthoida [Vecchione, Young and Sweeney, 2004] 
 
 [Richard E. Young and Michael Vecchione](http://www.tolweb.org/)
-![ ](Bathyteuthoida/Bathyteuthis.JPG))
+![ ](Bathyteuthoida/Bathyteuthis.JPG) 
 ![ ](Bathyteuthoida/Chtenopteryx.JPG)
 
 -   *[Bathyteuthidae](Bathyteuthis)*[
@@ -135,7 +135,7 @@ the United States National Museum, 291:1-210.
 
 ## Title Illustrations
 
-![](Bathyteuthoida/Bathyteuthis.JPG))
+![](Bathyteuthoida/Bathyteuthis.JPG) 
 
   ----------------
   Scientific Name ::  Bathyteuthis abyssicola
@@ -157,17 +157,17 @@ the United States National Museum, 291:1-210.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bathyteuthoida](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Bathyteuthoida.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Bathyteuthoida|Bathyteuthoida]] 
 
-### #is_/same_as :: [Bathyteuthoida.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Bathyteuthoida.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Bathyteuthoida.public|Bathyteuthoida.public]] 
 
-### #is_/same_as :: [Bathyteuthoida.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Bathyteuthoida.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Bathyteuthoida.internal|Bathyteuthoida.internal]] 
 
-### #is_/same_as :: [Bathyteuthoida.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Bathyteuthoida.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Bathyteuthoida.protect|Bathyteuthoida.protect]] 
 
-### #is_/same_as :: [Bathyteuthoida.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Bathyteuthoida.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Bathyteuthoida.private|Bathyteuthoida.private]] 
 
-### #is_/same_as :: [Bathyteuthoida.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Bathyteuthoida.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Bathyteuthoida.personal|Bathyteuthoida.personal]] 
 
-### #is_/same_as :: [Bathyteuthoida.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Bathyteuthoida.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Bathyteuthoida.secret|Bathyteuthoida.secret]] 
 

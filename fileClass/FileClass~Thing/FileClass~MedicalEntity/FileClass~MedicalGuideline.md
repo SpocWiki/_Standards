@@ -75,17 +75,17 @@ GuidelineSubject:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#cl
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~MedicalGuideline](/_Standards/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalGuideline.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalGuideline|FileClass~MedicalGuideline]] 
 
-### #is_/same_as :: [FileClass~MedicalGuideline.public](/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalGuideline.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalGuideline.public|FileClass~MedicalGuideline.public]] 
 
-### #is_/same_as :: [FileClass~MedicalGuideline.internal](/_internal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalGuideline.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalGuideline.internal|FileClass~MedicalGuideline.internal]] 
 
-### #is_/same_as :: [FileClass~MedicalGuideline.protect](/_protect/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalGuideline.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalGuideline.protect|FileClass~MedicalGuideline.protect]] 
 
-### #is_/same_as :: [FileClass~MedicalGuideline.private](/_private/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalGuideline.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalGuideline.private|FileClass~MedicalGuideline.private]] 
 
-### #is_/same_as :: [FileClass~MedicalGuideline.personal](/_personal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalGuideline.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalGuideline.personal|FileClass~MedicalGuideline.personal]] 
 
-### #is_/same_as :: [FileClass~MedicalGuideline.secret](/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalGuideline.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalGuideline.secret|FileClass~MedicalGuideline.secret]] 
 

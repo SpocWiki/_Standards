@@ -98,7 +98,7 @@ and their important role in the primary establishment and maintenance of
 coral reefs. Some red algae are economically important as providers of
 food and gels. For this reason, extensive farming and natural harvest of
 red algae occurs in numerous areas of the world.
-![](Rhodophyta/redintro1a.jpg))
+![](Rhodophyta/redintro1a.jpg) 
 
 Figure 1. Seaweed farmers tending a Kappaphycus line culture in the
 Philippines.\
@@ -118,13 +118,13 @@ distinguish them from other eukaryotic groups:
     pigments
 -   unstacked thylakoids in plastids (Figure 3)
 -   no chloroplast endoplasmic reticulum
-![Griffithsia pacifica](Rhodophyta/redchar1.jpg))
+![Griffithsia pacifica](Rhodophyta/redchar1.jpg) 
 
 Figure 2. Griffithsia pacifica (Florideophyceae). Electron micrograph
 showing cytoplasm with numerous chloroplasts (C) and starch (S). Starch
 is the photosynthetic reserve and is deposited free in the cytoplasm.\
 Image copyright © 2000, C. M. Pueschel.
-![Griffithsia pacifica](Rhodophyta/redchar2.jpg))
+![Griffithsia pacifica](Rhodophyta/redchar2.jpg) 
 
 Figure 3. Griffithsia pacifica (Florideophyceae). Close-up of figure 2
 electron micrograph showing a chloroplast with unstacked photosynthetic
@@ -169,17 +169,17 @@ Gabrielson 1990 \[and references within\], Ragan et al. 1994).
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Rhodophyta](/_Standards/bio/bio~Domain/Eukarya/Rhodophyta.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Rhodophyta|Rhodophyta]] 
 
-### #is_/same_as :: [Rhodophyta.public](/_public/bio/bio~Domain/Eukarya/Rhodophyta.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Rhodophyta.public|Rhodophyta.public]] 
 
-### #is_/same_as :: [Rhodophyta.internal](/_internal/bio/bio~Domain/Eukarya/Rhodophyta.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Rhodophyta.internal|Rhodophyta.internal]] 
 
-### #is_/same_as :: [Rhodophyta.protect](/_protect/bio/bio~Domain/Eukarya/Rhodophyta.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Rhodophyta.protect|Rhodophyta.protect]] 
 
-### #is_/same_as :: [Rhodophyta.private](/_private/bio/bio~Domain/Eukarya/Rhodophyta.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Rhodophyta.private|Rhodophyta.private]] 
 
-### #is_/same_as :: [Rhodophyta.personal](/_personal/bio/bio~Domain/Eukarya/Rhodophyta.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Rhodophyta.personal|Rhodophyta.personal]] 
 
-### #is_/same_as :: [Rhodophyta.secret](/_secret/bio/bio~Domain/Eukarya/Rhodophyta.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Rhodophyta.secret|Rhodophyta.secret]] 
 

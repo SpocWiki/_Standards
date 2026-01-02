@@ -60,17 +60,17 @@ MeSH_tree_code:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Atmospheric_Pressure](/_Standards/Earth/Climate/Atmosphere,Earth/Atmospheric_Pressure.md) 
+### #is_/same_as :: [[/_Standards/Earth/Climate/Atmosphere,Earth/Atmospheric_Pressure|Atmospheric_Pressure]] 
 
-### #is_/same_as :: [Atmospheric_Pressure.public](/_public/Earth/Climate/Atmosphere,Earth/Atmospheric_Pressure.public.md) 
+### #is_/same_as :: [[/_public/Earth/Climate/Atmosphere,Earth/Atmospheric_Pressure.public|Atmospheric_Pressure.public]] 
 
-### #is_/same_as :: [Atmospheric_Pressure.internal](/_internal/Earth/Climate/Atmosphere,Earth/Atmospheric_Pressure.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Climate/Atmosphere,Earth/Atmospheric_Pressure.internal|Atmospheric_Pressure.internal]] 
 
-### #is_/same_as :: [Atmospheric_Pressure.protect](/_protect/Earth/Climate/Atmosphere,Earth/Atmospheric_Pressure.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Climate/Atmosphere,Earth/Atmospheric_Pressure.protect|Atmospheric_Pressure.protect]] 
 
-### #is_/same_as :: [Atmospheric_Pressure.private](/_private/Earth/Climate/Atmosphere,Earth/Atmospheric_Pressure.private.md) 
+### #is_/same_as :: [[/_private/Earth/Climate/Atmosphere,Earth/Atmospheric_Pressure.private|Atmospheric_Pressure.private]] 
 
-### #is_/same_as :: [Atmospheric_Pressure.personal](/_personal/Earth/Climate/Atmosphere,Earth/Atmospheric_Pressure.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Climate/Atmosphere,Earth/Atmospheric_Pressure.personal|Atmospheric_Pressure.personal]] 
 
-### #is_/same_as :: [Atmospheric_Pressure.secret](/_secret/Earth/Climate/Atmosphere,Earth/Atmospheric_Pressure.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Climate/Atmosphere,Earth/Atmospheric_Pressure.secret|Atmospheric_Pressure.secret]] 
 

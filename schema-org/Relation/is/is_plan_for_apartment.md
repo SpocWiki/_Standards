@@ -42,17 +42,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [is_plan_for_apartment](/_Standards/schema-org/Relation/is/is_plan_for_apartment.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/is/is_plan_for_apartment|is_plan_for_apartment]] 
 
-### #is_/same_as :: [is_plan_for_apartment.public](/_public/schema-org/Relation/is/is_plan_for_apartment.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/is/is_plan_for_apartment.public|is_plan_for_apartment.public]] 
 
-### #is_/same_as :: [is_plan_for_apartment.internal](/_internal/schema-org/Relation/is/is_plan_for_apartment.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/is/is_plan_for_apartment.internal|is_plan_for_apartment.internal]] 
 
-### #is_/same_as :: [is_plan_for_apartment.protect](/_protect/schema-org/Relation/is/is_plan_for_apartment.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/is/is_plan_for_apartment.protect|is_plan_for_apartment.protect]] 
 
-### #is_/same_as :: [is_plan_for_apartment.private](/_private/schema-org/Relation/is/is_plan_for_apartment.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/is/is_plan_for_apartment.private|is_plan_for_apartment.private]] 
 
-### #is_/same_as :: [is_plan_for_apartment.personal](/_personal/schema-org/Relation/is/is_plan_for_apartment.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/is/is_plan_for_apartment.personal|is_plan_for_apartment.personal]] 
 
-### #is_/same_as :: [is_plan_for_apartment.secret](/_secret/schema-org/Relation/is/is_plan_for_apartment.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/is/is_plan_for_apartment.secret|is_plan_for_apartment.secret]] 
 

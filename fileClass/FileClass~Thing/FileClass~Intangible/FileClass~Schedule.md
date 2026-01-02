@@ -186,17 +186,17 @@ StartTime:: {"type":"Date","options":{"dateFormat":"YYYY-MM-DD","defaultInsertAs
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~Schedule](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Schedule.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Schedule|FileClass~Schedule]] 
 
-### #is_/same_as :: [FileClass~Schedule.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Schedule.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Schedule.public|FileClass~Schedule.public]] 
 
-### #is_/same_as :: [FileClass~Schedule.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Schedule.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Schedule.internal|FileClass~Schedule.internal]] 
 
-### #is_/same_as :: [FileClass~Schedule.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Schedule.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Schedule.protect|FileClass~Schedule.protect]] 
 
-### #is_/same_as :: [FileClass~Schedule.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Schedule.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Schedule.private|FileClass~Schedule.private]] 
 
-### #is_/same_as :: [FileClass~Schedule.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Schedule.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Schedule.personal|FileClass~Schedule.personal]] 
 
-### #is_/same_as :: [FileClass~Schedule.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Schedule.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Schedule.secret|FileClass~Schedule.secret]] 
 

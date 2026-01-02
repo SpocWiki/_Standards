@@ -127,17 +127,17 @@ U_S_National_Archives_Identifier: 10637981
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Art](/_Standards/Society/Communication/Art.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Art|Art]] 
 
-### #is_/same_as :: [Art.public](/_public/Society/Communication/Art.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Art.public|Art.public]] 
 
-### #is_/same_as :: [Art.internal](/_internal/Society/Communication/Art.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Art.internal|Art.internal]] 
 
-### #is_/same_as :: [Art.protect](/_protect/Society/Communication/Art.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Art.protect|Art.protect]] 
 
-### #is_/same_as :: [Art.private](/_private/Society/Communication/Art.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Art.private|Art.private]] 
 
-### #is_/same_as :: [Art.personal](/_personal/Society/Communication/Art.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Art.personal|Art.personal]] 
 
-### #is_/same_as :: [Art.secret](/_secret/Society/Communication/Art.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Art.secret|Art.secret]] 
 

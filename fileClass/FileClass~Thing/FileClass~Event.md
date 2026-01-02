@@ -447,17 +447,17 @@ WorkPerformed:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~Event](/_Standards/fileClass/FileClass~Thing/FileClass~Event.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Event|FileClass~Event]] 
 
-### #is_/same_as :: [FileClass~Event.public](/_public/fileClass/FileClass~Thing/FileClass~Event.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Event.public|FileClass~Event.public]] 
 
-### #is_/same_as :: [FileClass~Event.internal](/_internal/fileClass/FileClass~Thing/FileClass~Event.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Event.internal|FileClass~Event.internal]] 
 
-### #is_/same_as :: [FileClass~Event.protect](/_protect/fileClass/FileClass~Thing/FileClass~Event.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Event.protect|FileClass~Event.protect]] 
 
-### #is_/same_as :: [FileClass~Event.private](/_private/fileClass/FileClass~Thing/FileClass~Event.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Event.private|FileClass~Event.private]] 
 
-### #is_/same_as :: [FileClass~Event.personal](/_personal/fileClass/FileClass~Thing/FileClass~Event.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Event.personal|FileClass~Event.personal]] 
 
-### #is_/same_as :: [FileClass~Event.secret](/_secret/fileClass/FileClass~Thing/FileClass~Event.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Event.secret|FileClass~Event.secret]] 
 

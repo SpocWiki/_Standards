@@ -50,17 +50,17 @@ Commons_category: Functional groups
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Functional_Group](/_Standards/Chemistry/Organic_Chemistry/Functional_Group.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Organic_Chemistry/Functional_Group|Functional_Group]] 
 
-### #is_/same_as :: [Functional_Group.public](/_public/Chemistry/Organic_Chemistry/Functional_Group.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Organic_Chemistry/Functional_Group.public|Functional_Group.public]] 
 
-### #is_/same_as :: [Functional_Group.internal](/_internal/Chemistry/Organic_Chemistry/Functional_Group.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Organic_Chemistry/Functional_Group.internal|Functional_Group.internal]] 
 
-### #is_/same_as :: [Functional_Group.protect](/_protect/Chemistry/Organic_Chemistry/Functional_Group.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Organic_Chemistry/Functional_Group.protect|Functional_Group.protect]] 
 
-### #is_/same_as :: [Functional_Group.private](/_private/Chemistry/Organic_Chemistry/Functional_Group.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Organic_Chemistry/Functional_Group.private|Functional_Group.private]] 
 
-### #is_/same_as :: [Functional_Group.personal](/_personal/Chemistry/Organic_Chemistry/Functional_Group.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Organic_Chemistry/Functional_Group.personal|Functional_Group.personal]] 
 
-### #is_/same_as :: [Functional_Group.secret](/_secret/Chemistry/Organic_Chemistry/Functional_Group.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Organic_Chemistry/Functional_Group.secret|Functional_Group.secret]] 
 

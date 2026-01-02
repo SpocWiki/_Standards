@@ -42,17 +42,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [is_sourced_from](/_Standards/schema-org/Relation/is/is_sourced_from.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/is/is_sourced_from|is_sourced_from]] 
 
-### #is_/same_as :: [is_sourced_from.public](/_public/schema-org/Relation/is/is_sourced_from.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/is/is_sourced_from.public|is_sourced_from.public]] 
 
-### #is_/same_as :: [is_sourced_from.internal](/_internal/schema-org/Relation/is/is_sourced_from.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/is/is_sourced_from.internal|is_sourced_from.internal]] 
 
-### #is_/same_as :: [is_sourced_from.protect](/_protect/schema-org/Relation/is/is_sourced_from.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/is/is_sourced_from.protect|is_sourced_from.protect]] 
 
-### #is_/same_as :: [is_sourced_from.private](/_private/schema-org/Relation/is/is_sourced_from.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/is/is_sourced_from.private|is_sourced_from.private]] 
 
-### #is_/same_as :: [is_sourced_from.personal](/_personal/schema-org/Relation/is/is_sourced_from.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/is/is_sourced_from.personal|is_sourced_from.personal]] 
 
-### #is_/same_as :: [is_sourced_from.secret](/_secret/schema-org/Relation/is/is_sourced_from.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/is/is_sourced_from.secret|is_sourced_from.secret]] 
 

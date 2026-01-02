@@ -41,17 +41,17 @@ A list of possible levels for the legal validity of a legislation.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Legal_Value_Level](/_Standards/schema-org/Enumeration/Legal_Value_Level.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Legal_Value_Level|Legal_Value_Level]] 
 
-### #is_/same_as :: [Legal_Value_Level.public](/_public/schema-org/Enumeration/Legal_Value_Level.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Legal_Value_Level.public|Legal_Value_Level.public]] 
 
-### #is_/same_as :: [Legal_Value_Level.internal](/_internal/schema-org/Enumeration/Legal_Value_Level.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Legal_Value_Level.internal|Legal_Value_Level.internal]] 
 
-### #is_/same_as :: [Legal_Value_Level.protect](/_protect/schema-org/Enumeration/Legal_Value_Level.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Legal_Value_Level.protect|Legal_Value_Level.protect]] 
 
-### #is_/same_as :: [Legal_Value_Level.private](/_private/schema-org/Enumeration/Legal_Value_Level.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Legal_Value_Level.private|Legal_Value_Level.private]] 
 
-### #is_/same_as :: [Legal_Value_Level.personal](/_personal/schema-org/Enumeration/Legal_Value_Level.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Legal_Value_Level.personal|Legal_Value_Level.personal]] 
 
-### #is_/same_as :: [Legal_Value_Level.secret](/_secret/schema-org/Enumeration/Legal_Value_Level.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Legal_Value_Level.secret|Legal_Value_Level.secret]] 
 

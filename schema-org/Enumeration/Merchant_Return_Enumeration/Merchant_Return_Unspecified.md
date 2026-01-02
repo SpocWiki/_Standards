@@ -45,17 +45,17 @@ Specifies that a product return policy is not provided.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Merchant_Return_Unspecified](/_Standards/schema-org/Enumeration/Merchant_Return_Enumeration/Merchant_Return_Unspecified.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Merchant_Return_Enumeration/Merchant_Return_Unspecified|Merchant_Return_Unspecified]] 
 
-### #is_/same_as :: [Merchant_Return_Unspecified.public](/_public/schema-org/Enumeration/Merchant_Return_Enumeration/Merchant_Return_Unspecified.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Merchant_Return_Enumeration/Merchant_Return_Unspecified.public|Merchant_Return_Unspecified.public]] 
 
-### #is_/same_as :: [Merchant_Return_Unspecified.internal](/_internal/schema-org/Enumeration/Merchant_Return_Enumeration/Merchant_Return_Unspecified.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Merchant_Return_Enumeration/Merchant_Return_Unspecified.internal|Merchant_Return_Unspecified.internal]] 
 
-### #is_/same_as :: [Merchant_Return_Unspecified.protect](/_protect/schema-org/Enumeration/Merchant_Return_Enumeration/Merchant_Return_Unspecified.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Merchant_Return_Enumeration/Merchant_Return_Unspecified.protect|Merchant_Return_Unspecified.protect]] 
 
-### #is_/same_as :: [Merchant_Return_Unspecified.private](/_private/schema-org/Enumeration/Merchant_Return_Enumeration/Merchant_Return_Unspecified.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Merchant_Return_Enumeration/Merchant_Return_Unspecified.private|Merchant_Return_Unspecified.private]] 
 
-### #is_/same_as :: [Merchant_Return_Unspecified.personal](/_personal/schema-org/Enumeration/Merchant_Return_Enumeration/Merchant_Return_Unspecified.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Merchant_Return_Enumeration/Merchant_Return_Unspecified.personal|Merchant_Return_Unspecified.personal]] 
 
-### #is_/same_as :: [Merchant_Return_Unspecified.secret](/_secret/schema-org/Enumeration/Merchant_Return_Enumeration/Merchant_Return_Unspecified.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Merchant_Return_Enumeration/Merchant_Return_Unspecified.secret|Merchant_Return_Unspecified.secret]] 
 

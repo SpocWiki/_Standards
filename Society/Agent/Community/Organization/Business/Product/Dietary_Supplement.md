@@ -42,17 +42,17 @@ A product taken by mouth that contains a dietary ingredient intended to suppleme
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Dietary_Supplement](/_Standards/Society/Agent/Community/Organization/Business/Product/Dietary_Supplement.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Business/Product/Dietary_Supplement|Dietary_Supplement]] 
 
-### #is_/same_as :: [Dietary_Supplement.public](/_public/Society/Agent/Community/Organization/Business/Product/Dietary_Supplement.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Business/Product/Dietary_Supplement.public|Dietary_Supplement.public]] 
 
-### #is_/same_as :: [Dietary_Supplement.internal](/_internal/Society/Agent/Community/Organization/Business/Product/Dietary_Supplement.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Business/Product/Dietary_Supplement.internal|Dietary_Supplement.internal]] 
 
-### #is_/same_as :: [Dietary_Supplement.protect](/_protect/Society/Agent/Community/Organization/Business/Product/Dietary_Supplement.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Business/Product/Dietary_Supplement.protect|Dietary_Supplement.protect]] 
 
-### #is_/same_as :: [Dietary_Supplement.private](/_private/Society/Agent/Community/Organization/Business/Product/Dietary_Supplement.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Business/Product/Dietary_Supplement.private|Dietary_Supplement.private]] 
 
-### #is_/same_as :: [Dietary_Supplement.personal](/_personal/Society/Agent/Community/Organization/Business/Product/Dietary_Supplement.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Business/Product/Dietary_Supplement.personal|Dietary_Supplement.personal]] 
 
-### #is_/same_as :: [Dietary_Supplement.secret](/_secret/Society/Agent/Community/Organization/Business/Product/Dietary_Supplement.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Business/Product/Dietary_Supplement.secret|Dietary_Supplement.secret]] 
 

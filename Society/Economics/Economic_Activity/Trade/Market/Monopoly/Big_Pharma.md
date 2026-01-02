@@ -57,17 +57,17 @@ Dewey_Decimal_Classification: 338.476151
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Big_Pharma](/_Standards/Society/Economics/Economic_Activity/Trade/Market/Monopoly/Big_Pharma.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Economic_Activity/Trade/Market/Monopoly/Big_Pharma|Big_Pharma]] 
 
-### #is_/same_as :: [Big_Pharma.public](/_public/Society/Economics/Economic_Activity/Trade/Market/Monopoly/Big_Pharma.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Economic_Activity/Trade/Market/Monopoly/Big_Pharma.public|Big_Pharma.public]] 
 
-### #is_/same_as :: [Big_Pharma.internal](/_internal/Society/Economics/Economic_Activity/Trade/Market/Monopoly/Big_Pharma.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Economic_Activity/Trade/Market/Monopoly/Big_Pharma.internal|Big_Pharma.internal]] 
 
-### #is_/same_as :: [Big_Pharma.protect](/_protect/Society/Economics/Economic_Activity/Trade/Market/Monopoly/Big_Pharma.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Economic_Activity/Trade/Market/Monopoly/Big_Pharma.protect|Big_Pharma.protect]] 
 
-### #is_/same_as :: [Big_Pharma.private](/_private/Society/Economics/Economic_Activity/Trade/Market/Monopoly/Big_Pharma.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Economic_Activity/Trade/Market/Monopoly/Big_Pharma.private|Big_Pharma.private]] 
 
-### #is_/same_as :: [Big_Pharma.personal](/_personal/Society/Economics/Economic_Activity/Trade/Market/Monopoly/Big_Pharma.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Economic_Activity/Trade/Market/Monopoly/Big_Pharma.personal|Big_Pharma.personal]] 
 
-### #is_/same_as :: [Big_Pharma.secret](/_secret/Society/Economics/Economic_Activity/Trade/Market/Monopoly/Big_Pharma.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Economic_Activity/Trade/Market/Monopoly/Big_Pharma.secret|Big_Pharma.secret]] 
 

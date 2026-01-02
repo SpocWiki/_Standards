@@ -59,17 +59,17 @@ locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Scandinavi
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Scandinavian_Peninsula](/_Standards/Earth/Continent/Europe/Europe~North/Scandinavia/Scandinavian_Peninsula.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Scandinavia/Scandinavian_Peninsula|Scandinavian_Peninsula]] 
 
-### #is_/same_as :: [Scandinavian_Peninsula.public](/_public/Earth/Continent/Europe/Europe~North/Scandinavia/Scandinavian_Peninsula.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Scandinavia/Scandinavian_Peninsula.public|Scandinavian_Peninsula.public]] 
 
-### #is_/same_as :: [Scandinavian_Peninsula.internal](/_internal/Earth/Continent/Europe/Europe~North/Scandinavia/Scandinavian_Peninsula.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Scandinavia/Scandinavian_Peninsula.internal|Scandinavian_Peninsula.internal]] 
 
-### #is_/same_as :: [Scandinavian_Peninsula.protect](/_protect/Earth/Continent/Europe/Europe~North/Scandinavia/Scandinavian_Peninsula.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Scandinavia/Scandinavian_Peninsula.protect|Scandinavian_Peninsula.protect]] 
 
-### #is_/same_as :: [Scandinavian_Peninsula.private](/_private/Earth/Continent/Europe/Europe~North/Scandinavia/Scandinavian_Peninsula.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Scandinavia/Scandinavian_Peninsula.private|Scandinavian_Peninsula.private]] 
 
-### #is_/same_as :: [Scandinavian_Peninsula.personal](/_personal/Earth/Continent/Europe/Europe~North/Scandinavia/Scandinavian_Peninsula.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Scandinavia/Scandinavian_Peninsula.personal|Scandinavian_Peninsula.personal]] 
 
-### #is_/same_as :: [Scandinavian_Peninsula.secret](/_secret/Earth/Continent/Europe/Europe~North/Scandinavia/Scandinavian_Peninsula.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Scandinavia/Scandinavian_Peninsula.secret|Scandinavian_Peninsula.secret]] 
 

@@ -68,17 +68,17 @@ MeSH_tree_code: B01.875.800.575.912.250.100
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Asteraceae](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Asterids/Asteraceae.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Asterids/Asteraceae|Asteraceae]] 
 
-### #is_/same_as :: [Asteraceae.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Asterids/Asteraceae.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Asterids/Asteraceae.public|Asteraceae.public]] 
 
-### #is_/same_as :: [Asteraceae.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Asterids/Asteraceae.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Asterids/Asteraceae.internal|Asteraceae.internal]] 
 
-### #is_/same_as :: [Asteraceae.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Asterids/Asteraceae.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Asterids/Asteraceae.protect|Asteraceae.protect]] 
 
-### #is_/same_as :: [Asteraceae.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Asterids/Asteraceae.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Asterids/Asteraceae.private|Asteraceae.private]] 
 
-### #is_/same_as :: [Asteraceae.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Asterids/Asteraceae.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Asterids/Asteraceae.personal|Asteraceae.personal]] 
 
-### #is_/same_as :: [Asteraceae.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Asterids/Asteraceae.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Asterids/Asteraceae.secret|Asteraceae.secret]] 
 

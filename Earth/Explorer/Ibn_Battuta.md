@@ -76,17 +76,17 @@ ISNI: "0000000121432476"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ibn_Battuta](/_Standards/Earth/Explorer/Ibn_Battuta.md) 
+### #is_/same_as :: [[/_Standards/Earth/Explorer/Ibn_Battuta|Ibn_Battuta]] 
 
-### #is_/same_as :: [Ibn_Battuta.public](/_public/Earth/Explorer/Ibn_Battuta.public.md) 
+### #is_/same_as :: [[/_public/Earth/Explorer/Ibn_Battuta.public|Ibn_Battuta.public]] 
 
-### #is_/same_as :: [Ibn_Battuta.internal](/_internal/Earth/Explorer/Ibn_Battuta.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Explorer/Ibn_Battuta.internal|Ibn_Battuta.internal]] 
 
-### #is_/same_as :: [Ibn_Battuta.protect](/_protect/Earth/Explorer/Ibn_Battuta.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Explorer/Ibn_Battuta.protect|Ibn_Battuta.protect]] 
 
-### #is_/same_as :: [Ibn_Battuta.private](/_private/Earth/Explorer/Ibn_Battuta.private.md) 
+### #is_/same_as :: [[/_private/Earth/Explorer/Ibn_Battuta.private|Ibn_Battuta.private]] 
 
-### #is_/same_as :: [Ibn_Battuta.personal](/_personal/Earth/Explorer/Ibn_Battuta.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Explorer/Ibn_Battuta.personal|Ibn_Battuta.personal]] 
 
-### #is_/same_as :: [Ibn_Battuta.secret](/_secret/Earth/Explorer/Ibn_Battuta.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Explorer/Ibn_Battuta.secret|Ibn_Battuta.secret]] 
 

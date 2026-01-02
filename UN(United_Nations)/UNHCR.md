@@ -18,17 +18,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [UNHCR](/_Standards/UN(United_Nations)/UNHCR.md) 
+### #is_/same_as :: [[/_Standards/UN(United_Nations)/UNHCR|UNHCR]] 
 
-### #is_/same_as :: [UNHCR.public](/_public/UN(United_Nations)/UNHCR.public.md) 
+### #is_/same_as :: [[/_public/UN(United_Nations)/UNHCR.public|UNHCR.public]] 
 
-### #is_/same_as :: [UNHCR.internal](/_internal/UN(United_Nations)/UNHCR.internal.md) 
+### #is_/same_as :: [[/_internal/UN(United_Nations)/UNHCR.internal|UNHCR.internal]] 
 
-### #is_/same_as :: [UNHCR.protect](/_protect/UN(United_Nations)/UNHCR.protect.md) 
+### #is_/same_as :: [[/_protect/UN(United_Nations)/UNHCR.protect|UNHCR.protect]] 
 
-### #is_/same_as :: [UNHCR.private](/_private/UN(United_Nations)/UNHCR.private.md) 
+### #is_/same_as :: [[/_private/UN(United_Nations)/UNHCR.private|UNHCR.private]] 
 
-### #is_/same_as :: [UNHCR.personal](/_personal/UN(United_Nations)/UNHCR.personal.md) 
+### #is_/same_as :: [[/_personal/UN(United_Nations)/UNHCR.personal|UNHCR.personal]] 
 
-### #is_/same_as :: [UNHCR.secret](/_secret/UN(United_Nations)/UNHCR.secret.md)
+### #is_/same_as :: [[/_secret/UN(United_Nations)/UNHCR.secret|UNHCR.secret]] 
 

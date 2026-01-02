@@ -4,17 +4,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sudan](/_Standards/Earth/Continent/Africa/Africa~East/Sudan.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~East/Sudan|Sudan]] 
 
-### #is_/same_as :: [Sudan.public](/_public/Earth/Continent/Africa/Africa~East/Sudan.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~East/Sudan.public|Sudan.public]] 
 
-### #is_/same_as :: [Sudan.internal](/_internal/Earth/Continent/Africa/Africa~East/Sudan.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~East/Sudan.internal|Sudan.internal]] 
 
-### #is_/same_as :: [Sudan.protect](/_protect/Earth/Continent/Africa/Africa~East/Sudan.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~East/Sudan.protect|Sudan.protect]] 
 
-### #is_/same_as :: [Sudan.private](/_private/Earth/Continent/Africa/Africa~East/Sudan.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~East/Sudan.private|Sudan.private]] 
 
-### #is_/same_as :: [Sudan.personal](/_personal/Earth/Continent/Africa/Africa~East/Sudan.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~East/Sudan.personal|Sudan.personal]] 
 
-### #is_/same_as :: [Sudan.secret](/_secret/Earth/Continent/Africa/Africa~East/Sudan.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~East/Sudan.secret|Sudan.secret]] 
 

@@ -53,17 +53,17 @@ Dewey_Decimal_Classification: "539.752"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Radioactive_Decay](/_Standards/Science/Physics/Radioactive_Decay.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Radioactive_Decay|Radioactive_Decay]] 
 
-### #is_/same_as :: [Radioactive_Decay.public](/_public/Science/Physics/Radioactive_Decay.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Radioactive_Decay.public|Radioactive_Decay.public]] 
 
-### #is_/same_as :: [Radioactive_Decay.internal](/_internal/Science/Physics/Radioactive_Decay.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Radioactive_Decay.internal|Radioactive_Decay.internal]] 
 
-### #is_/same_as :: [Radioactive_Decay.protect](/_protect/Science/Physics/Radioactive_Decay.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Radioactive_Decay.protect|Radioactive_Decay.protect]] 
 
-### #is_/same_as :: [Radioactive_Decay.private](/_private/Science/Physics/Radioactive_Decay.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Radioactive_Decay.private|Radioactive_Decay.private]] 
 
-### #is_/same_as :: [Radioactive_Decay.personal](/_personal/Science/Physics/Radioactive_Decay.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Radioactive_Decay.personal|Radioactive_Decay.personal]] 
 
-### #is_/same_as :: [Radioactive_Decay.secret](/_secret/Science/Physics/Radioactive_Decay.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Radioactive_Decay.secret|Radioactive_Decay.secret]] 
 

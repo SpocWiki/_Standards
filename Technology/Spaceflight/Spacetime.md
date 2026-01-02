@@ -54,17 +54,17 @@ IEV_number: 113-01-01
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Spacetime](/_Standards/Technology/Spaceflight/Spacetime.md) 
+### #is_/same_as :: [[/_Standards/Technology/Spaceflight/Spacetime|Spacetime]] 
 
-### #is_/same_as :: [Spacetime.public](/_public/Technology/Spaceflight/Spacetime.public.md) 
+### #is_/same_as :: [[/_public/Technology/Spaceflight/Spacetime.public|Spacetime.public]] 
 
-### #is_/same_as :: [Spacetime.internal](/_internal/Technology/Spaceflight/Spacetime.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Spaceflight/Spacetime.internal|Spacetime.internal]] 
 
-### #is_/same_as :: [Spacetime.protect](/_protect/Technology/Spaceflight/Spacetime.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Spaceflight/Spacetime.protect|Spacetime.protect]] 
 
-### #is_/same_as :: [Spacetime.private](/_private/Technology/Spaceflight/Spacetime.private.md) 
+### #is_/same_as :: [[/_private/Technology/Spaceflight/Spacetime.private|Spacetime.private]] 
 
-### #is_/same_as :: [Spacetime.personal](/_personal/Technology/Spaceflight/Spacetime.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Spaceflight/Spacetime.personal|Spacetime.personal]] 
 
-### #is_/same_as :: [Spacetime.secret](/_secret/Technology/Spaceflight/Spacetime.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Spaceflight/Spacetime.secret|Spacetime.secret]] 
 

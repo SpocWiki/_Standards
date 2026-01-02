@@ -58,17 +58,17 @@ Krugosvet_article_archived_: kultura_i_obrazovanie/muzyka/LADI.html
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Mode(Music)](/_Standards/Society/Communication/Media/Music/Music_Theory/Scale(Music)/Mode(Music).md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Music_Theory/Scale(Music)/Mode(Music)|Mode(Music)]] 
 
-### #is_/same_as :: [Mode(Music).public](/_public/Society/Communication/Media/Music/Music_Theory/Scale(Music)/Mode(Music).public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Music_Theory/Scale(Music)/Mode(Music).public|Mode(Music).public]] 
 
-### #is_/same_as :: [Mode(Music).internal](/_internal/Society/Communication/Media/Music/Music_Theory/Scale(Music)/Mode(Music).internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Music_Theory/Scale(Music)/Mode(Music).internal|Mode(Music).internal]] 
 
-### #is_/same_as :: [Mode(Music).protect](/_protect/Society/Communication/Media/Music/Music_Theory/Scale(Music)/Mode(Music).protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Music_Theory/Scale(Music)/Mode(Music).protect|Mode(Music).protect]] 
 
-### #is_/same_as :: [Mode(Music).private](/_private/Society/Communication/Media/Music/Music_Theory/Scale(Music)/Mode(Music).private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Music_Theory/Scale(Music)/Mode(Music).private|Mode(Music).private]] 
 
-### #is_/same_as :: [Mode(Music).personal](/_personal/Society/Communication/Media/Music/Music_Theory/Scale(Music)/Mode(Music).personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Music_Theory/Scale(Music)/Mode(Music).personal|Mode(Music).personal]] 
 
-### #is_/same_as :: [Mode(Music).secret](/_secret/Society/Communication/Media/Music/Music_Theory/Scale(Music)/Mode(Music).secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Music_Theory/Scale(Music)/Mode(Music).secret|Mode(Music).secret]] 
 

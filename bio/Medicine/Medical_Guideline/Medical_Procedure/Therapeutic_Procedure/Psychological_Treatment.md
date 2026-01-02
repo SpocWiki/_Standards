@@ -41,17 +41,17 @@ A process of care relying upon counseling, dialogue and communication  aimed at 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Psychological_Treatment](/_Standards/bio/Medicine/Medical_Guideline/Medical_Procedure/Therapeutic_Procedure/Psychological_Treatment.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Guideline/Medical_Procedure/Therapeutic_Procedure/Psychological_Treatment|Psychological_Treatment]] 
 
-### #is_/same_as :: [Psychological_Treatment.public](/_public/bio/Medicine/Medical_Guideline/Medical_Procedure/Therapeutic_Procedure/Psychological_Treatment.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Guideline/Medical_Procedure/Therapeutic_Procedure/Psychological_Treatment.public|Psychological_Treatment.public]] 
 
-### #is_/same_as :: [Psychological_Treatment.internal](/_internal/bio/Medicine/Medical_Guideline/Medical_Procedure/Therapeutic_Procedure/Psychological_Treatment.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Guideline/Medical_Procedure/Therapeutic_Procedure/Psychological_Treatment.internal|Psychological_Treatment.internal]] 
 
-### #is_/same_as :: [Psychological_Treatment.protect](/_protect/bio/Medicine/Medical_Guideline/Medical_Procedure/Therapeutic_Procedure/Psychological_Treatment.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Guideline/Medical_Procedure/Therapeutic_Procedure/Psychological_Treatment.protect|Psychological_Treatment.protect]] 
 
-### #is_/same_as :: [Psychological_Treatment.private](/_private/bio/Medicine/Medical_Guideline/Medical_Procedure/Therapeutic_Procedure/Psychological_Treatment.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Guideline/Medical_Procedure/Therapeutic_Procedure/Psychological_Treatment.private|Psychological_Treatment.private]] 
 
-### #is_/same_as :: [Psychological_Treatment.personal](/_personal/bio/Medicine/Medical_Guideline/Medical_Procedure/Therapeutic_Procedure/Psychological_Treatment.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Guideline/Medical_Procedure/Therapeutic_Procedure/Psychological_Treatment.personal|Psychological_Treatment.personal]] 
 
-### #is_/same_as :: [Psychological_Treatment.secret](/_secret/bio/Medicine/Medical_Guideline/Medical_Procedure/Therapeutic_Procedure/Psychological_Treatment.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Guideline/Medical_Procedure/Therapeutic_Procedure/Psychological_Treatment.secret|Psychological_Treatment.secret]] 
 

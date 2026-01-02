@@ -52,17 +52,17 @@ U_S_National_Archives_Identifier: 10639679
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Crop](/_Standards/Society/Economics/Industry/Agriculture/Crop.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Industry/Agriculture/Crop|Crop]] 
 
-### #is_/same_as :: [Crop.public](/_public/Society/Economics/Industry/Agriculture/Crop.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Industry/Agriculture/Crop.public|Crop.public]] 
 
-### #is_/same_as :: [Crop.internal](/_internal/Society/Economics/Industry/Agriculture/Crop.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Industry/Agriculture/Crop.internal|Crop.internal]] 
 
-### #is_/same_as :: [Crop.protect](/_protect/Society/Economics/Industry/Agriculture/Crop.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Industry/Agriculture/Crop.protect|Crop.protect]] 
 
-### #is_/same_as :: [Crop.private](/_private/Society/Economics/Industry/Agriculture/Crop.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Industry/Agriculture/Crop.private|Crop.private]] 
 
-### #is_/same_as :: [Crop.personal](/_personal/Society/Economics/Industry/Agriculture/Crop.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Industry/Agriculture/Crop.personal|Crop.personal]] 
 
-### #is_/same_as :: [Crop.secret](/_secret/Society/Economics/Industry/Agriculture/Crop.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Industry/Agriculture/Crop.secret|Crop.secret]] 
 

@@ -74,17 +74,17 @@ Commons_category: Great Plains
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Great_Plains](/_Standards/Earth/Continent/America~North/Plain-North_America/Great_Plains.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~North/Plain-North_America/Great_Plains|Great_Plains]] 
 
-### #is_/same_as :: [Great_Plains.public](/_public/Earth/Continent/America~North/Plain-North_America/Great_Plains.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~North/Plain-North_America/Great_Plains.public|Great_Plains.public]] 
 
-### #is_/same_as :: [Great_Plains.internal](/_internal/Earth/Continent/America~North/Plain-North_America/Great_Plains.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~North/Plain-North_America/Great_Plains.internal|Great_Plains.internal]] 
 
-### #is_/same_as :: [Great_Plains.protect](/_protect/Earth/Continent/America~North/Plain-North_America/Great_Plains.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~North/Plain-North_America/Great_Plains.protect|Great_Plains.protect]] 
 
-### #is_/same_as :: [Great_Plains.private](/_private/Earth/Continent/America~North/Plain-North_America/Great_Plains.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~North/Plain-North_America/Great_Plains.private|Great_Plains.private]] 
 
-### #is_/same_as :: [Great_Plains.personal](/_personal/Earth/Continent/America~North/Plain-North_America/Great_Plains.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~North/Plain-North_America/Great_Plains.personal|Great_Plains.personal]] 
 
-### #is_/same_as :: [Great_Plains.secret](/_secret/Earth/Continent/America~North/Plain-North_America/Great_Plains.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~North/Plain-North_America/Great_Plains.secret|Great_Plains.secret]] 
 

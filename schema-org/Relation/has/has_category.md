@@ -54,17 +54,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_category](/_Standards/schema-org/Relation/has/has_category.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_category|has_category]] 
 
-### #is_/same_as :: [has_category.public](/_public/schema-org/Relation/has/has_category.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_category.public|has_category.public]] 
 
-### #is_/same_as :: [has_category.internal](/_internal/schema-org/Relation/has/has_category.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_category.internal|has_category.internal]] 
 
-### #is_/same_as :: [has_category.protect](/_protect/schema-org/Relation/has/has_category.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_category.protect|has_category.protect]] 
 
-### #is_/same_as :: [has_category.private](/_private/schema-org/Relation/has/has_category.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_category.private|has_category.private]] 
 
-### #is_/same_as :: [has_category.personal](/_personal/schema-org/Relation/has/has_category.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_category.personal|has_category.personal]] 
 
-### #is_/same_as :: [has_category.secret](/_secret/schema-org/Relation/has/has_category.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_category.secret|has_category.secret]] 
 

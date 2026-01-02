@@ -239,17 +239,17 @@ MeSH_tree_code: F03.700.750
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Schizophrenia](/_Standards/bio/Psychology/Mental_Disorder/Schizophrenia.md) 
+### #is_/same_as :: [[/_Standards/bio/Psychology/Mental_Disorder/Schizophrenia|Schizophrenia]] 
 
-### #is_/same_as :: [Schizophrenia.public](/_public/bio/Psychology/Mental_Disorder/Schizophrenia.public.md) 
+### #is_/same_as :: [[/_public/bio/Psychology/Mental_Disorder/Schizophrenia.public|Schizophrenia.public]] 
 
-### #is_/same_as :: [Schizophrenia.internal](/_internal/bio/Psychology/Mental_Disorder/Schizophrenia.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Psychology/Mental_Disorder/Schizophrenia.internal|Schizophrenia.internal]] 
 
-### #is_/same_as :: [Schizophrenia.protect](/_protect/bio/Psychology/Mental_Disorder/Schizophrenia.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Psychology/Mental_Disorder/Schizophrenia.protect|Schizophrenia.protect]] 
 
-### #is_/same_as :: [Schizophrenia.private](/_private/bio/Psychology/Mental_Disorder/Schizophrenia.private.md) 
+### #is_/same_as :: [[/_private/bio/Psychology/Mental_Disorder/Schizophrenia.private|Schizophrenia.private]] 
 
-### #is_/same_as :: [Schizophrenia.personal](/_personal/bio/Psychology/Mental_Disorder/Schizophrenia.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Psychology/Mental_Disorder/Schizophrenia.personal|Schizophrenia.personal]] 
 
-### #is_/same_as :: [Schizophrenia.secret](/_secret/bio/Psychology/Mental_Disorder/Schizophrenia.secret.md)
+### #is_/same_as :: [[/_secret/bio/Psychology/Mental_Disorder/Schizophrenia.secret|Schizophrenia.secret]] 
 

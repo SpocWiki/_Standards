@@ -142,17 +142,17 @@ ReviewRating:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~ArticleAndReview](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~ArticleAndReview.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~ArticleAndReview|FileClass~ArticleAndReview]] 
 
-### #is_/same_as :: [FileClass~ArticleAndReview.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~ArticleAndReview.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~ArticleAndReview.public|FileClass~ArticleAndReview.public]] 
 
-### #is_/same_as :: [FileClass~ArticleAndReview.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~ArticleAndReview.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~ArticleAndReview.internal|FileClass~ArticleAndReview.internal]] 
 
-### #is_/same_as :: [FileClass~ArticleAndReview.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~ArticleAndReview.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~ArticleAndReview.protect|FileClass~ArticleAndReview.protect]] 
 
-### #is_/same_as :: [FileClass~ArticleAndReview.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~ArticleAndReview.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~ArticleAndReview.private|FileClass~ArticleAndReview.private]] 
 
-### #is_/same_as :: [FileClass~ArticleAndReview.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~ArticleAndReview.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~ArticleAndReview.personal|FileClass~ArticleAndReview.personal]] 
 
-### #is_/same_as :: [FileClass~ArticleAndReview.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~ArticleAndReview.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~ArticleAndReview.secret|FileClass~ArticleAndReview.secret]] 
 

@@ -78,17 +78,17 @@ Baidu_Tieba_name: 密码
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Cryptography](/_Standards/Technology/IT/Cryptography.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Cryptography|Cryptography]] 
 
-### #is_/same_as :: [Cryptography.public](/_public/Technology/IT/Cryptography.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Cryptography.public|Cryptography.public]] 
 
-### #is_/same_as :: [Cryptography.internal](/_internal/Technology/IT/Cryptography.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Cryptography.internal|Cryptography.internal]] 
 
-### #is_/same_as :: [Cryptography.protect](/_protect/Technology/IT/Cryptography.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Cryptography.protect|Cryptography.protect]] 
 
-### #is_/same_as :: [Cryptography.private](/_private/Technology/IT/Cryptography.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Cryptography.private|Cryptography.private]] 
 
-### #is_/same_as :: [Cryptography.personal](/_personal/Technology/IT/Cryptography.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Cryptography.personal|Cryptography.personal]] 
 
-### #is_/same_as :: [Cryptography.secret](/_secret/Technology/IT/Cryptography.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Cryptography.secret|Cryptography.secret]] 
 

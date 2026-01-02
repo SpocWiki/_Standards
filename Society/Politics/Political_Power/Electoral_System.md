@@ -63,17 +63,17 @@ Commons_category: Voting systems
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Electoral_System](/_Standards/Society/Politics/Political_Power/Electoral_System.md) 
+### #is_/same_as :: [[/_Standards/Society/Politics/Political_Power/Electoral_System|Electoral_System]] 
 
-### #is_/same_as :: [Electoral_System.public](/_public/Society/Politics/Political_Power/Electoral_System.public.md) 
+### #is_/same_as :: [[/_public/Society/Politics/Political_Power/Electoral_System.public|Electoral_System.public]] 
 
-### #is_/same_as :: [Electoral_System.internal](/_internal/Society/Politics/Political_Power/Electoral_System.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Politics/Political_Power/Electoral_System.internal|Electoral_System.internal]] 
 
-### #is_/same_as :: [Electoral_System.protect](/_protect/Society/Politics/Political_Power/Electoral_System.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Politics/Political_Power/Electoral_System.protect|Electoral_System.protect]] 
 
-### #is_/same_as :: [Electoral_System.private](/_private/Society/Politics/Political_Power/Electoral_System.private.md) 
+### #is_/same_as :: [[/_private/Society/Politics/Political_Power/Electoral_System.private|Electoral_System.private]] 
 
-### #is_/same_as :: [Electoral_System.personal](/_personal/Society/Politics/Political_Power/Electoral_System.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Politics/Political_Power/Electoral_System.personal|Electoral_System.personal]] 
 
-### #is_/same_as :: [Electoral_System.secret](/_secret/Society/Politics/Political_Power/Electoral_System.secret.md)
+### #is_/same_as :: [[/_secret/Society/Politics/Political_Power/Electoral_System.secret|Electoral_System.secret]] 
 

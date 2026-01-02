@@ -210,17 +210,17 @@ Plex_person_key: 5d77682b2e80df001ebdd55e
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Nixon,Richard](/_Standards/Earth/Continent/America~North/US~President/Nixon,Richard.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~North/USA/US_President/Nixon,Richard|Nixon,Richard]] 
 
-### #is_/same_as :: [Nixon,Richard.public](/_public/Earth/Continent/America~North/US~President/Nixon,Richard.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~North/USA/US_President/Nixon,Richard.public|Nixon,Richard.public]] 
 
-### #is_/same_as :: [Nixon,Richard.internal](/_internal/Earth/Continent/America~North/US~President/Nixon,Richard.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~North/USA/US_President/Nixon,Richard.internal|Nixon,Richard.internal]] 
 
-### #is_/same_as :: [Nixon,Richard.protect](/_protect/Earth/Continent/America~North/US~President/Nixon,Richard.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~North/USA/US_President/Nixon,Richard.protect|Nixon,Richard.protect]] 
 
-### #is_/same_as :: [Nixon,Richard.private](/_private/Earth/Continent/America~North/US~President/Nixon,Richard.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~North/USA/US_President/Nixon,Richard.private|Nixon,Richard.private]] 
 
-### #is_/same_as :: [Nixon,Richard.personal](/_personal/Earth/Continent/America~North/US~President/Nixon,Richard.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~North/USA/US_President/Nixon,Richard.personal|Nixon,Richard.personal]] 
 
-### #is_/same_as :: [Nixon,Richard.secret](/_secret/Earth/Continent/America~North/US~President/Nixon,Richard.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~North/USA/US_President/Nixon,Richard.secret|Nixon,Richard.secret]] 
 

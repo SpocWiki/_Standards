@@ -90,17 +90,17 @@ RTECS_number: TT3700000
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Potassium_Nitrate](/_Standards/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Nitrate/Potassium_Nitrate.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Nitrate/Potassium_Nitrate|Potassium_Nitrate]] 
 
-### #is_/same_as :: [Potassium_Nitrate.public](/_public/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Nitrate/Potassium_Nitrate.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Nitrate/Potassium_Nitrate.public|Potassium_Nitrate.public]] 
 
-### #is_/same_as :: [Potassium_Nitrate.internal](/_internal/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Nitrate/Potassium_Nitrate.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Nitrate/Potassium_Nitrate.internal|Potassium_Nitrate.internal]] 
 
-### #is_/same_as :: [Potassium_Nitrate.protect](/_protect/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Nitrate/Potassium_Nitrate.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Nitrate/Potassium_Nitrate.protect|Potassium_Nitrate.protect]] 
 
-### #is_/same_as :: [Potassium_Nitrate.private](/_private/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Nitrate/Potassium_Nitrate.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Nitrate/Potassium_Nitrate.private|Potassium_Nitrate.private]] 
 
-### #is_/same_as :: [Potassium_Nitrate.personal](/_personal/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Nitrate/Potassium_Nitrate.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Nitrate/Potassium_Nitrate.personal|Potassium_Nitrate.personal]] 
 
-### #is_/same_as :: [Potassium_Nitrate.secret](/_secret/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Nitrate/Potassium_Nitrate.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Nitrate/Potassium_Nitrate.secret|Potassium_Nitrate.secret]] 
 

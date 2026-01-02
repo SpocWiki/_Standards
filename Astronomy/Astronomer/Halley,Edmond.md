@@ -135,17 +135,17 @@ Google_Doodle: edmond-halleys-355th-birthday
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Edmond_Halley](/_Standards/Astronomy/Astronomer/Edmond_Halley.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Astronomer/Halley,Edmond|Halley,Edmond]] 
 
-### #is_/same_as :: [Edmond_Halley.public](/_public/Astronomy/Astronomer/Edmond_Halley.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Astronomer/Halley,Edmond.public|Halley,Edmond.public]] 
 
-### #is_/same_as :: [Edmond_Halley.internal](/_internal/Astronomy/Astronomer/Edmond_Halley.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Astronomer/Halley,Edmond.internal|Halley,Edmond.internal]] 
 
-### #is_/same_as :: [Edmond_Halley.protect](/_protect/Astronomy/Astronomer/Edmond_Halley.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Astronomer/Halley,Edmond.protect|Halley,Edmond.protect]] 
 
-### #is_/same_as :: [Edmond_Halley.private](/_private/Astronomy/Astronomer/Edmond_Halley.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Astronomer/Halley,Edmond.private|Halley,Edmond.private]] 
 
-### #is_/same_as :: [Edmond_Halley.personal](/_personal/Astronomy/Astronomer/Edmond_Halley.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Astronomer/Halley,Edmond.personal|Halley,Edmond.personal]] 
 
-### #is_/same_as :: [Edmond_Halley.secret](/_secret/Astronomy/Astronomer/Edmond_Halley.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Astronomer/Halley,Edmond.secret|Halley,Edmond.secret]] 
 

@@ -43,17 +43,17 @@ Commons_category: Military logistics
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Military_Logistics](/_Standards/Society/Military/Military_Logistics.md) 
+### #is_/same_as :: [[/_Standards/Society/Military/Military_Logistics|Military_Logistics]] 
 
-### #is_/same_as :: [Military_Logistics.public](/_public/Society/Military/Military_Logistics.public.md) 
+### #is_/same_as :: [[/_public/Society/Military/Military_Logistics.public|Military_Logistics.public]] 
 
-### #is_/same_as :: [Military_Logistics.internal](/_internal/Society/Military/Military_Logistics.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Military/Military_Logistics.internal|Military_Logistics.internal]] 
 
-### #is_/same_as :: [Military_Logistics.protect](/_protect/Society/Military/Military_Logistics.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Military/Military_Logistics.protect|Military_Logistics.protect]] 
 
-### #is_/same_as :: [Military_Logistics.private](/_private/Society/Military/Military_Logistics.private.md) 
+### #is_/same_as :: [[/_private/Society/Military/Military_Logistics.private|Military_Logistics.private]] 
 
-### #is_/same_as :: [Military_Logistics.personal](/_personal/Society/Military/Military_Logistics.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Military/Military_Logistics.personal|Military_Logistics.personal]] 
 
-### #is_/same_as :: [Military_Logistics.secret](/_secret/Society/Military/Military_Logistics.secret.md)
+### #is_/same_as :: [[/_secret/Society/Military/Military_Logistics.secret|Military_Logistics.secret]] 
 

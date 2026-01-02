@@ -35,17 +35,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Mitten](/_Standards/Technology/Tool/Clothing/Mitten.md) 
+### #is_/same_as :: [[/_Standards/Technology/Tool/Clothing/Mitten|Mitten]] 
 
-### #is_/same_as :: [Mitten.public](/_public/Technology/Tool/Clothing/Mitten.public.md) 
+### #is_/same_as :: [[/_public/Technology/Tool/Clothing/Mitten.public|Mitten.public]] 
 
-### #is_/same_as :: [Mitten.internal](/_internal/Technology/Tool/Clothing/Mitten.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Tool/Clothing/Mitten.internal|Mitten.internal]] 
 
-### #is_/same_as :: [Mitten.protect](/_protect/Technology/Tool/Clothing/Mitten.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Tool/Clothing/Mitten.protect|Mitten.protect]] 
 
-### #is_/same_as :: [Mitten.private](/_private/Technology/Tool/Clothing/Mitten.private.md) 
+### #is_/same_as :: [[/_private/Technology/Tool/Clothing/Mitten.private|Mitten.private]] 
 
-### #is_/same_as :: [Mitten.personal](/_personal/Technology/Tool/Clothing/Mitten.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Tool/Clothing/Mitten.personal|Mitten.personal]] 
 
-### #is_/same_as :: [Mitten.secret](/_secret/Technology/Tool/Clothing/Mitten.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Tool/Clothing/Mitten.secret|Mitten.secret]] 
 

@@ -52,17 +52,17 @@ IPTC_NewsCode: mediatopic/20000611
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Impeachment](/_Standards/Society/Politics/Government/Democracy/Impeachment.md) 
+### #is_/same_as :: [[/_Standards/Society/Politics/Government/Democracy/Impeachment|Impeachment]] 
 
-### #is_/same_as :: [Impeachment.public](/_public/Society/Politics/Government/Democracy/Impeachment.public.md) 
+### #is_/same_as :: [[/_public/Society/Politics/Government/Democracy/Impeachment.public|Impeachment.public]] 
 
-### #is_/same_as :: [Impeachment.internal](/_internal/Society/Politics/Government/Democracy/Impeachment.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Politics/Government/Democracy/Impeachment.internal|Impeachment.internal]] 
 
-### #is_/same_as :: [Impeachment.protect](/_protect/Society/Politics/Government/Democracy/Impeachment.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Politics/Government/Democracy/Impeachment.protect|Impeachment.protect]] 
 
-### #is_/same_as :: [Impeachment.private](/_private/Society/Politics/Government/Democracy/Impeachment.private.md) 
+### #is_/same_as :: [[/_private/Society/Politics/Government/Democracy/Impeachment.private|Impeachment.private]] 
 
-### #is_/same_as :: [Impeachment.personal](/_personal/Society/Politics/Government/Democracy/Impeachment.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Politics/Government/Democracy/Impeachment.personal|Impeachment.personal]] 
 
-### #is_/same_as :: [Impeachment.secret](/_secret/Society/Politics/Government/Democracy/Impeachment.secret.md)
+### #is_/same_as :: [[/_secret/Society/Politics/Government/Democracy/Impeachment.secret|Impeachment.secret]] 
 

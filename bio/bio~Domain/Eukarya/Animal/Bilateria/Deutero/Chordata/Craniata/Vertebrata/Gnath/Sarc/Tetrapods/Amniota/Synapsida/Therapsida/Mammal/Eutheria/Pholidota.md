@@ -7,7 +7,7 @@ title: Pholidota
 # [[Pholidota]]
 
 ## Pangolins and their extinct relatives 
-![Cape pangolin](Pholidota/Pangolin01.jpg))
+![Cape pangolin](Pholidota/Pangolin01.jpg) 
 
 ## #has_/text_of_/abstract 
 
@@ -73,7 +73,7 @@ title: Pholidota
 ## Title Illustrations
 
 ------------------------------------------------------------------------- 
-![Cape pangolin](Pholidota/Pangolin01.jpg))
+![Cape pangolin](Pholidota/Pangolin01.jpg) 
 Scientific Name ::     Manis temmincki
 Location ::           Serengeti NP, Tanzania
 Specimen Condition   Live Specimen
@@ -85,7 +85,7 @@ View                 side
 Copyright ::            © 2006 [David Bygott](mailto:davidbygott@yahoo.com) 
 
 ------------------------------------------------------------------------- 
-![Cape pangolin](Pholidota/Pangolin02.jpg))
+![Cape pangolin](Pholidota/Pangolin02.jpg) 
 Scientific Name ::     Manis temmincki
 Location ::           Serengeti NP, Tanzania
 Specimen Condition   Live Specimen
@@ -99,17 +99,17 @@ Copyright ::            © 2006 [David Bygott](mailto:davidbygott@yahoo.com)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Pholidota](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Pholidota.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Pholidota|Pholidota]] 
 
-### #is_/same_as :: [Pholidota.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Pholidota.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Pholidota.public|Pholidota.public]] 
 
-### #is_/same_as :: [Pholidota.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Pholidota.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Pholidota.internal|Pholidota.internal]] 
 
-### #is_/same_as :: [Pholidota.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Pholidota.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Pholidota.protect|Pholidota.protect]] 
 
-### #is_/same_as :: [Pholidota.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Pholidota.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Pholidota.private|Pholidota.private]] 
 
-### #is_/same_as :: [Pholidota.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Pholidota.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Pholidota.personal|Pholidota.personal]] 
 
-### #is_/same_as :: [Pholidota.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Pholidota.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Pholidota.secret|Pholidota.secret]] 
 

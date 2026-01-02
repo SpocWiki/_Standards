@@ -193,17 +193,17 @@ official_website: https://brucelee.com/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lee,Bruce](/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Lee,Bruce.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Lee,Bruce|Lee,Bruce]] 
 
-### #is_/same_as :: [Lee,Bruce.public](/_public/Society/Communication/Media/Movie/Actor/US_Actor/Lee,Bruce.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Actor/US_Actor/Lee,Bruce.public|Lee,Bruce.public]] 
 
-### #is_/same_as :: [Lee,Bruce.internal](/_internal/Society/Communication/Media/Movie/Actor/US_Actor/Lee,Bruce.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Actor/US_Actor/Lee,Bruce.internal|Lee,Bruce.internal]] 
 
-### #is_/same_as :: [Lee,Bruce.protect](/_protect/Society/Communication/Media/Movie/Actor/US_Actor/Lee,Bruce.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Actor/US_Actor/Lee,Bruce.protect|Lee,Bruce.protect]] 
 
-### #is_/same_as :: [Lee,Bruce.private](/_private/Society/Communication/Media/Movie/Actor/US_Actor/Lee,Bruce.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Actor/US_Actor/Lee,Bruce.private|Lee,Bruce.private]] 
 
-### #is_/same_as :: [Lee,Bruce.personal](/_personal/Society/Communication/Media/Movie/Actor/US_Actor/Lee,Bruce.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Actor/US_Actor/Lee,Bruce.personal|Lee,Bruce.personal]] 
 
-### #is_/same_as :: [Lee,Bruce.secret](/_secret/Society/Communication/Media/Movie/Actor/US_Actor/Lee,Bruce.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Actor/US_Actor/Lee,Bruce.secret|Lee,Bruce.secret]] 
 

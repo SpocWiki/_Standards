@@ -97,17 +97,17 @@ MeSH_tree_code:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Quartz](/_Standards/Chemistry/Chemical_Element/Group-14-Carbon/Silicon/Quartz.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Chemical_Element/Group-14-Carbon/Silicon/Quartz|Quartz]] 
 
-### #is_/same_as :: [Quartz.public](/_public/Chemistry/Chemical_Element/Group-14-Carbon/Silicon/Quartz.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Chemical_Element/Group-14-Carbon/Silicon/Quartz.public|Quartz.public]] 
 
-### #is_/same_as :: [Quartz.internal](/_internal/Chemistry/Chemical_Element/Group-14-Carbon/Silicon/Quartz.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Chemical_Element/Group-14-Carbon/Silicon/Quartz.internal|Quartz.internal]] 
 
-### #is_/same_as :: [Quartz.protect](/_protect/Chemistry/Chemical_Element/Group-14-Carbon/Silicon/Quartz.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Chemical_Element/Group-14-Carbon/Silicon/Quartz.protect|Quartz.protect]] 
 
-### #is_/same_as :: [Quartz.private](/_private/Chemistry/Chemical_Element/Group-14-Carbon/Silicon/Quartz.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Chemical_Element/Group-14-Carbon/Silicon/Quartz.private|Quartz.private]] 
 
-### #is_/same_as :: [Quartz.personal](/_personal/Chemistry/Chemical_Element/Group-14-Carbon/Silicon/Quartz.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Chemical_Element/Group-14-Carbon/Silicon/Quartz.personal|Quartz.personal]] 
 
-### #is_/same_as :: [Quartz.secret](/_secret/Chemistry/Chemical_Element/Group-14-Carbon/Silicon/Quartz.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Chemical_Element/Group-14-Carbon/Silicon/Quartz.secret|Quartz.secret]] 
 

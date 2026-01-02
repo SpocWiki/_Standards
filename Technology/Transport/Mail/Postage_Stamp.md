@@ -137,17 +137,17 @@ UNSPSC_Code: 44121513
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Postage_Stamp](/_Standards/Technology/Transport/Mail/Postage_Stamp.md) 
+### #is_/same_as :: [[/_Standards/Technology/Transport/Mail/Postage_Stamp|Postage_Stamp]] 
 
-### #is_/same_as :: [Postage_Stamp.public](/_public/Technology/Transport/Mail/Postage_Stamp.public.md) 
+### #is_/same_as :: [[/_public/Technology/Transport/Mail/Postage_Stamp.public|Postage_Stamp.public]] 
 
-### #is_/same_as :: [Postage_Stamp.internal](/_internal/Technology/Transport/Mail/Postage_Stamp.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Transport/Mail/Postage_Stamp.internal|Postage_Stamp.internal]] 
 
-### #is_/same_as :: [Postage_Stamp.protect](/_protect/Technology/Transport/Mail/Postage_Stamp.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Transport/Mail/Postage_Stamp.protect|Postage_Stamp.protect]] 
 
-### #is_/same_as :: [Postage_Stamp.private](/_private/Technology/Transport/Mail/Postage_Stamp.private.md) 
+### #is_/same_as :: [[/_private/Technology/Transport/Mail/Postage_Stamp.private|Postage_Stamp.private]] 
 
-### #is_/same_as :: [Postage_Stamp.personal](/_personal/Technology/Transport/Mail/Postage_Stamp.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Transport/Mail/Postage_Stamp.personal|Postage_Stamp.personal]] 
 
-### #is_/same_as :: [Postage_Stamp.secret](/_secret/Technology/Transport/Mail/Postage_Stamp.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Transport/Mail/Postage_Stamp.secret|Postage_Stamp.secret]] 
 

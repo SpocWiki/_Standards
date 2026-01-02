@@ -71,17 +71,17 @@ A person (alive, dead, undead, or fictional).
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Person](/_Standards/Society/Agent/Person.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Person|Person]] 
 
-### #is_/same_as :: [Person.public](/_public/Society/Agent/Person.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Person.public|Person.public]] 
 
-### #is_/same_as :: [Person.internal](/_internal/Society/Agent/Person.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Person.internal|Person.internal]] 
 
-### #is_/same_as :: [Person.protect](/_protect/Society/Agent/Person.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Person.protect|Person.protect]] 
 
-### #is_/same_as :: [Person.private](/_private/Society/Agent/Person.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Person.private|Person.private]] 
 
-### #is_/same_as :: [Person.personal](/_personal/Society/Agent/Person.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Person.personal|Person.personal]] 
 
-### #is_/same_as :: [Person.secret](/_secret/Society/Agent/Person.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Person.secret|Person.secret]] 
 

@@ -42,17 +42,17 @@ Commons_category: Sampling (statistics)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sampling](/_Standards/Mathematics/Statistics/Experiment/Sampling.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Statistics/Experiment/Sampling|Sampling]] 
 
-### #is_/same_as :: [Sampling.public](/_public/Mathematics/Statistics/Experiment/Sampling.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Statistics/Experiment/Sampling.public|Sampling.public]] 
 
-### #is_/same_as :: [Sampling.internal](/_internal/Mathematics/Statistics/Experiment/Sampling.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Statistics/Experiment/Sampling.internal|Sampling.internal]] 
 
-### #is_/same_as :: [Sampling.protect](/_protect/Mathematics/Statistics/Experiment/Sampling.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Statistics/Experiment/Sampling.protect|Sampling.protect]] 
 
-### #is_/same_as :: [Sampling.private](/_private/Mathematics/Statistics/Experiment/Sampling.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Statistics/Experiment/Sampling.private|Sampling.private]] 
 
-### #is_/same_as :: [Sampling.personal](/_personal/Mathematics/Statistics/Experiment/Sampling.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Statistics/Experiment/Sampling.personal|Sampling.personal]] 
 
-### #is_/same_as :: [Sampling.secret](/_secret/Mathematics/Statistics/Experiment/Sampling.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Statistics/Experiment/Sampling.secret|Sampling.secret]] 
 

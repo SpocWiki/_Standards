@@ -92,17 +92,17 @@ IEV_number: 171-04-05
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [CPU(Central_Processing_Unit)](/_Standards/Technology/IT/Computer_Hardware/Processor/CPU(Central_Processing_Unit).md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Computer_Hardware/Processor/CPU(Central_Processing_Unit)|CPU(Central_Processing_Unit)]] 
 
-### #is_/same_as :: [CPU(Central_Processing_Unit).public](/_public/Technology/IT/Computer_Hardware/Processor/CPU(Central_Processing_Unit).public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Computer_Hardware/Processor/CPU(Central_Processing_Unit).public|CPU(Central_Processing_Unit).public]] 
 
-### #is_/same_as :: [CPU(Central_Processing_Unit).internal](/_internal/Technology/IT/Computer_Hardware/Processor/CPU(Central_Processing_Unit).internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Computer_Hardware/Processor/CPU(Central_Processing_Unit).internal|CPU(Central_Processing_Unit).internal]] 
 
-### #is_/same_as :: [CPU(Central_Processing_Unit).protect](/_protect/Technology/IT/Computer_Hardware/Processor/CPU(Central_Processing_Unit).protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Computer_Hardware/Processor/CPU(Central_Processing_Unit).protect|CPU(Central_Processing_Unit).protect]] 
 
-### #is_/same_as :: [CPU(Central_Processing_Unit).private](/_private/Technology/IT/Computer_Hardware/Processor/CPU(Central_Processing_Unit).private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Computer_Hardware/Processor/CPU(Central_Processing_Unit).private|CPU(Central_Processing_Unit).private]] 
 
-### #is_/same_as :: [CPU(Central_Processing_Unit).personal](/_personal/Technology/IT/Computer_Hardware/Processor/CPU(Central_Processing_Unit).personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Computer_Hardware/Processor/CPU(Central_Processing_Unit).personal|CPU(Central_Processing_Unit).personal]] 
 
-### #is_/same_as :: [CPU(Central_Processing_Unit).secret](/_secret/Technology/IT/Computer_Hardware/Processor/CPU(Central_Processing_Unit).secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Computer_Hardware/Processor/CPU(Central_Processing_Unit).secret|CPU(Central_Processing_Unit).secret]] 
 

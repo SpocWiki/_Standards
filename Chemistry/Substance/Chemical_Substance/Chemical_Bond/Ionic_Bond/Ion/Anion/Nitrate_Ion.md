@@ -67,17 +67,17 @@ SPLASH:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Nitrate_Ion](/_Standards/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Anion/Nitrate_Ion.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Anion/Nitrate_Ion|Nitrate_Ion]] 
 
-### #is_/same_as :: [Nitrate_Ion.public](/_public/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Anion/Nitrate_Ion.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Anion/Nitrate_Ion.public|Nitrate_Ion.public]] 
 
-### #is_/same_as :: [Nitrate_Ion.internal](/_internal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Anion/Nitrate_Ion.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Anion/Nitrate_Ion.internal|Nitrate_Ion.internal]] 
 
-### #is_/same_as :: [Nitrate_Ion.protect](/_protect/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Anion/Nitrate_Ion.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Anion/Nitrate_Ion.protect|Nitrate_Ion.protect]] 
 
-### #is_/same_as :: [Nitrate_Ion.private](/_private/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Anion/Nitrate_Ion.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Anion/Nitrate_Ion.private|Nitrate_Ion.private]] 
 
-### #is_/same_as :: [Nitrate_Ion.personal](/_personal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Anion/Nitrate_Ion.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Anion/Nitrate_Ion.personal|Nitrate_Ion.personal]] 
 
-### #is_/same_as :: [Nitrate_Ion.secret](/_secret/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Anion/Nitrate_Ion.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Anion/Nitrate_Ion.secret|Nitrate_Ion.secret]] 
 

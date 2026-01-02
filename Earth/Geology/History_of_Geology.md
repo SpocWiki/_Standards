@@ -24,17 +24,17 @@ Commons_category: History of geology
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [History_of_Geology](/_Standards/Earth/Geology/History_of_Geology.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geology/History_of_Geology|History_of_Geology]] 
 
-### #is_/same_as :: [History_of_Geology.public](/_public/Earth/Geology/History_of_Geology.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geology/History_of_Geology.public|History_of_Geology.public]] 
 
-### #is_/same_as :: [History_of_Geology.internal](/_internal/Earth/Geology/History_of_Geology.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geology/History_of_Geology.internal|History_of_Geology.internal]] 
 
-### #is_/same_as :: [History_of_Geology.protect](/_protect/Earth/Geology/History_of_Geology.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geology/History_of_Geology.protect|History_of_Geology.protect]] 
 
-### #is_/same_as :: [History_of_Geology.private](/_private/Earth/Geology/History_of_Geology.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geology/History_of_Geology.private|History_of_Geology.private]] 
 
-### #is_/same_as :: [History_of_Geology.personal](/_personal/Earth/Geology/History_of_Geology.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geology/History_of_Geology.personal|History_of_Geology.personal]] 
 
-### #is_/same_as :: [History_of_Geology.secret](/_secret/Earth/Geology/History_of_Geology.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geology/History_of_Geology.secret|History_of_Geology.secret]] 
 

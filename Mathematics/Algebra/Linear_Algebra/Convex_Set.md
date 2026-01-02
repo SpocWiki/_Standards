@@ -44,17 +44,17 @@ defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Convex_Set](/_Standards/Mathematics/Algebra/Linear_Algebra/Convex_Set.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Algebra/Linear_Algebra/Convex_Set|Convex_Set]] 
 
-### #is_/same_as :: [Convex_Set.public](/_public/Mathematics/Algebra/Linear_Algebra/Convex_Set.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Algebra/Linear_Algebra/Convex_Set.public|Convex_Set.public]] 
 
-### #is_/same_as :: [Convex_Set.internal](/_internal/Mathematics/Algebra/Linear_Algebra/Convex_Set.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Algebra/Linear_Algebra/Convex_Set.internal|Convex_Set.internal]] 
 
-### #is_/same_as :: [Convex_Set.protect](/_protect/Mathematics/Algebra/Linear_Algebra/Convex_Set.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Algebra/Linear_Algebra/Convex_Set.protect|Convex_Set.protect]] 
 
-### #is_/same_as :: [Convex_Set.private](/_private/Mathematics/Algebra/Linear_Algebra/Convex_Set.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Algebra/Linear_Algebra/Convex_Set.private|Convex_Set.private]] 
 
-### #is_/same_as :: [Convex_Set.personal](/_personal/Mathematics/Algebra/Linear_Algebra/Convex_Set.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Algebra/Linear_Algebra/Convex_Set.personal|Convex_Set.personal]] 
 
-### #is_/same_as :: [Convex_Set.secret](/_secret/Mathematics/Algebra/Linear_Algebra/Convex_Set.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Algebra/Linear_Algebra/Convex_Set.secret|Convex_Set.secret]] 
 

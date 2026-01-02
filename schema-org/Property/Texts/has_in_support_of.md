@@ -48,17 +48,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_in_support_of](/_Standards/schema-org/Property/Texts/has_in_support_of.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/Texts/has_in_support_of|has_in_support_of]] 
 
-### #is_/same_as :: [has_in_support_of.public](/_public/schema-org/Property/Texts/has_in_support_of.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/Texts/has_in_support_of.public|has_in_support_of.public]] 
 
-### #is_/same_as :: [has_in_support_of.internal](/_internal/schema-org/Property/Texts/has_in_support_of.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/Texts/has_in_support_of.internal|has_in_support_of.internal]] 
 
-### #is_/same_as :: [has_in_support_of.protect](/_protect/schema-org/Property/Texts/has_in_support_of.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/Texts/has_in_support_of.protect|has_in_support_of.protect]] 
 
-### #is_/same_as :: [has_in_support_of.private](/_private/schema-org/Property/Texts/has_in_support_of.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/Texts/has_in_support_of.private|has_in_support_of.private]] 
 
-### #is_/same_as :: [has_in_support_of.personal](/_personal/schema-org/Property/Texts/has_in_support_of.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/Texts/has_in_support_of.personal|has_in_support_of.personal]] 
 
-### #is_/same_as :: [has_in_support_of.secret](/_secret/schema-org/Property/Texts/has_in_support_of.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/Texts/has_in_support_of.secret|has_in_support_of.secret]] 
 

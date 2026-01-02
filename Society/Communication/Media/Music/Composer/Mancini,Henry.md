@@ -119,17 +119,17 @@ date_of_birth: 1924-04-16T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Mancini,Henry](/_Standards/Society/Communication/Media/Music/Composer/Mancini,Henry.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Composer/Mancini,Henry|Mancini,Henry]] 
 
-### #is_/same_as :: [Mancini,Henry.public](/_public/Society/Communication/Media/Music/Composer/Mancini,Henry.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Composer/Mancini,Henry.public|Mancini,Henry.public]] 
 
-### #is_/same_as :: [Mancini,Henry.internal](/_internal/Society/Communication/Media/Music/Composer/Mancini,Henry.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Composer/Mancini,Henry.internal|Mancini,Henry.internal]] 
 
-### #is_/same_as :: [Mancini,Henry.protect](/_protect/Society/Communication/Media/Music/Composer/Mancini,Henry.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Composer/Mancini,Henry.protect|Mancini,Henry.protect]] 
 
-### #is_/same_as :: [Mancini,Henry.private](/_private/Society/Communication/Media/Music/Composer/Mancini,Henry.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Composer/Mancini,Henry.private|Mancini,Henry.private]] 
 
-### #is_/same_as :: [Mancini,Henry.personal](/_personal/Society/Communication/Media/Music/Composer/Mancini,Henry.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Composer/Mancini,Henry.personal|Mancini,Henry.personal]] 
 
-### #is_/same_as :: [Mancini,Henry.secret](/_secret/Society/Communication/Media/Music/Composer/Mancini,Henry.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Composer/Mancini,Henry.secret|Mancini,Henry.secret]] 
 

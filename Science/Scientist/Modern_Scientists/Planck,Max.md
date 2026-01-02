@@ -217,17 +217,17 @@ writing_language: '[[_Standards/WikiData/WD~German,188]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Planck,Max](/_Standards/Science/Scientist/Modern_Scientists/Planck,Max.md) 
+### #is_/same_as :: [[/_Standards/Science/Scientist/Modern_Scientists/Planck,Max|Planck,Max]] 
 
-### #is_/same_as :: [Planck,Max.public](/_public/Science/Scientist/Modern_Scientists/Planck,Max.public.md) 
+### #is_/same_as :: [[/_public/Science/Scientist/Modern_Scientists/Planck,Max.public|Planck,Max.public]] 
 
-### #is_/same_as :: [Planck,Max.internal](/_internal/Science/Scientist/Modern_Scientists/Planck,Max.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Scientist/Modern_Scientists/Planck,Max.internal|Planck,Max.internal]] 
 
-### #is_/same_as :: [Planck,Max.protect](/_protect/Science/Scientist/Modern_Scientists/Planck,Max.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Scientist/Modern_Scientists/Planck,Max.protect|Planck,Max.protect]] 
 
-### #is_/same_as :: [Planck,Max.private](/_private/Science/Scientist/Modern_Scientists/Planck,Max.private.md) 
+### #is_/same_as :: [[/_private/Science/Scientist/Modern_Scientists/Planck,Max.private|Planck,Max.private]] 
 
-### #is_/same_as :: [Planck,Max.personal](/_personal/Science/Scientist/Modern_Scientists/Planck,Max.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Scientist/Modern_Scientists/Planck,Max.personal|Planck,Max.personal]] 
 
-### #is_/same_as :: [Planck,Max.secret](/_secret/Science/Scientist/Modern_Scientists/Planck,Max.secret.md)
+### #is_/same_as :: [[/_secret/Science/Scientist/Modern_Scientists/Planck,Max.secret|Planck,Max.secret]] 
 

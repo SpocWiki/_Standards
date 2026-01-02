@@ -76,17 +76,17 @@ Colon_Classification: J374
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Grape](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Fruits/Berry/Grape.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Home_Economics/Cooking/Food/Fruits/Berry/Grape|Grape]] 
 
-### #is_/same_as :: [Grape.public](/_public/Society/Economics/Home_Economics/Cooking/Food/Fruits/Berry/Grape.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Home_Economics/Cooking/Food/Fruits/Berry/Grape.public|Grape.public]] 
 
-### #is_/same_as :: [Grape.internal](/_internal/Society/Economics/Home_Economics/Cooking/Food/Fruits/Berry/Grape.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Home_Economics/Cooking/Food/Fruits/Berry/Grape.internal|Grape.internal]] 
 
-### #is_/same_as :: [Grape.protect](/_protect/Society/Economics/Home_Economics/Cooking/Food/Fruits/Berry/Grape.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Home_Economics/Cooking/Food/Fruits/Berry/Grape.protect|Grape.protect]] 
 
-### #is_/same_as :: [Grape.private](/_private/Society/Economics/Home_Economics/Cooking/Food/Fruits/Berry/Grape.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Home_Economics/Cooking/Food/Fruits/Berry/Grape.private|Grape.private]] 
 
-### #is_/same_as :: [Grape.personal](/_personal/Society/Economics/Home_Economics/Cooking/Food/Fruits/Berry/Grape.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Home_Economics/Cooking/Food/Fruits/Berry/Grape.personal|Grape.personal]] 
 
-### #is_/same_as :: [Grape.secret](/_secret/Society/Economics/Home_Economics/Cooking/Food/Fruits/Berry/Grape.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Home_Economics/Cooking/Food/Fruits/Berry/Grape.secret|Grape.secret]] 
 

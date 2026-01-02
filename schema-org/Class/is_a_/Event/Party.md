@@ -43,17 +43,17 @@ Baidu_Tieba_name: 聚会
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Party](/_Standards/schema-org/Class/is_a_/Event/Party.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Event/Party|Party]] 
 
-### #is_/same_as :: [Party.public](/_public/schema-org/Class/is_a_/Event/Party.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Event/Party.public|Party.public]] 
 
-### #is_/same_as :: [Party.internal](/_internal/schema-org/Class/is_a_/Event/Party.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Event/Party.internal|Party.internal]] 
 
-### #is_/same_as :: [Party.protect](/_protect/schema-org/Class/is_a_/Event/Party.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Event/Party.protect|Party.protect]] 
 
-### #is_/same_as :: [Party.private](/_private/schema-org/Class/is_a_/Event/Party.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Event/Party.private|Party.private]] 
 
-### #is_/same_as :: [Party.personal](/_personal/schema-org/Class/is_a_/Event/Party.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Event/Party.personal|Party.personal]] 
 
-### #is_/same_as :: [Party.secret](/_secret/schema-org/Class/is_a_/Event/Party.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Event/Party.secret|Party.secret]] 
 

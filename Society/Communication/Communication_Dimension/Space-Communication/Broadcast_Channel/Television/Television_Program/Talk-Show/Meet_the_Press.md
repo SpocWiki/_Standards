@@ -86,17 +86,17 @@ start_time: 1947-11-06T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Meet_the_Press](/_Standards/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/Talk-Show/Meet_the_Press.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/Talk-Show/Meet_the_Press|Meet_the_Press]] 
 
-### #is_/same_as :: [Meet_the_Press.public](/_public/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/Talk-Show/Meet_the_Press.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/Talk-Show/Meet_the_Press.public|Meet_the_Press.public]] 
 
-### #is_/same_as :: [Meet_the_Press.internal](/_internal/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/Talk-Show/Meet_the_Press.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/Talk-Show/Meet_the_Press.internal|Meet_the_Press.internal]] 
 
-### #is_/same_as :: [Meet_the_Press.protect](/_protect/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/Talk-Show/Meet_the_Press.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/Talk-Show/Meet_the_Press.protect|Meet_the_Press.protect]] 
 
-### #is_/same_as :: [Meet_the_Press.private](/_private/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/Talk-Show/Meet_the_Press.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/Talk-Show/Meet_the_Press.private|Meet_the_Press.private]] 
 
-### #is_/same_as :: [Meet_the_Press.personal](/_personal/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/Talk-Show/Meet_the_Press.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/Talk-Show/Meet_the_Press.personal|Meet_the_Press.personal]] 
 
-### #is_/same_as :: [Meet_the_Press.secret](/_secret/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/Talk-Show/Meet_the_Press.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/Talk-Show/Meet_the_Press.secret|Meet_the_Press.secret]] 
 

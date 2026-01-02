@@ -44,17 +44,17 @@ Body weight. Used, for example, to measure pantyhose.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Body_Measurement_Weight](/_Standards/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Weight.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Weight|Body_Measurement_Weight]] 
 
-### #is_/same_as :: [Body_Measurement_Weight.public](/_public/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Weight.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Weight.public|Body_Measurement_Weight.public]] 
 
-### #is_/same_as :: [Body_Measurement_Weight.internal](/_internal/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Weight.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Weight.internal|Body_Measurement_Weight.internal]] 
 
-### #is_/same_as :: [Body_Measurement_Weight.protect](/_protect/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Weight.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Weight.protect|Body_Measurement_Weight.protect]] 
 
-### #is_/same_as :: [Body_Measurement_Weight.private](/_private/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Weight.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Weight.private|Body_Measurement_Weight.private]] 
 
-### #is_/same_as :: [Body_Measurement_Weight.personal](/_personal/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Weight.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Weight.personal|Body_Measurement_Weight.personal]] 
 
-### #is_/same_as :: [Body_Measurement_Weight.secret](/_secret/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Weight.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Weight.secret|Body_Measurement_Weight.secret]] 
 

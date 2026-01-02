@@ -57,17 +57,17 @@ name_in_native_language: Johannes Georg Bednorz
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bednorz,Georg](/_Standards/Science/Physics/Physicist/Bednorz,Georg.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Physicist/Bednorz,Georg|Bednorz,Georg]] 
 
-### #is_/same_as :: [Bednorz,Georg.public](/_public/Science/Physics/Physicist/Bednorz,Georg.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Physicist/Bednorz,Georg.public|Bednorz,Georg.public]] 
 
-### #is_/same_as :: [Bednorz,Georg.internal](/_internal/Science/Physics/Physicist/Bednorz,Georg.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Physicist/Bednorz,Georg.internal|Bednorz,Georg.internal]] 
 
-### #is_/same_as :: [Bednorz,Georg.protect](/_protect/Science/Physics/Physicist/Bednorz,Georg.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Physicist/Bednorz,Georg.protect|Bednorz,Georg.protect]] 
 
-### #is_/same_as :: [Bednorz,Georg.private](/_private/Science/Physics/Physicist/Bednorz,Georg.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Physicist/Bednorz,Georg.private|Bednorz,Georg.private]] 
 
-### #is_/same_as :: [Bednorz,Georg.personal](/_personal/Science/Physics/Physicist/Bednorz,Georg.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Physicist/Bednorz,Georg.personal|Bednorz,Georg.personal]] 
 
-### #is_/same_as :: [Bednorz,Georg.secret](/_secret/Science/Physics/Physicist/Bednorz,Georg.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Physicist/Bednorz,Georg.secret|Bednorz,Georg.secret]] 
 

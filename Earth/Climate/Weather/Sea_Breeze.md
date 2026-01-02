@@ -50,17 +50,17 @@ Commons_category: Sea and land breezes
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sea_Breeze](/_Standards/Earth/Climate/Weather/Sea_Breeze.md) 
+### #is_/same_as :: [[/_Standards/Earth/Climate/Weather/Sea_Breeze|Sea_Breeze]] 
 
-### #is_/same_as :: [Sea_Breeze.public](/_public/Earth/Climate/Weather/Sea_Breeze.public.md) 
+### #is_/same_as :: [[/_public/Earth/Climate/Weather/Sea_Breeze.public|Sea_Breeze.public]] 
 
-### #is_/same_as :: [Sea_Breeze.internal](/_internal/Earth/Climate/Weather/Sea_Breeze.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Climate/Weather/Sea_Breeze.internal|Sea_Breeze.internal]] 
 
-### #is_/same_as :: [Sea_Breeze.protect](/_protect/Earth/Climate/Weather/Sea_Breeze.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Climate/Weather/Sea_Breeze.protect|Sea_Breeze.protect]] 
 
-### #is_/same_as :: [Sea_Breeze.private](/_private/Earth/Climate/Weather/Sea_Breeze.private.md) 
+### #is_/same_as :: [[/_private/Earth/Climate/Weather/Sea_Breeze.private|Sea_Breeze.private]] 
 
-### #is_/same_as :: [Sea_Breeze.personal](/_personal/Earth/Climate/Weather/Sea_Breeze.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Climate/Weather/Sea_Breeze.personal|Sea_Breeze.personal]] 
 
-### #is_/same_as :: [Sea_Breeze.secret](/_secret/Earth/Climate/Weather/Sea_Breeze.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Climate/Weather/Sea_Breeze.secret|Sea_Breeze.secret]] 
 

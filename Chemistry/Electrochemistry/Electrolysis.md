@@ -33,17 +33,17 @@ time_of_discovery_or_invention: 1787-01-01T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Electrolysis](/_Standards/Chemistry/Electrochemistry/Electrolysis.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Electrochemistry/Electrolysis|Electrolysis]] 
 
-### #is_/same_as :: [Electrolysis.public](/_public/Chemistry/Electrochemistry/Electrolysis.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Electrochemistry/Electrolysis.public|Electrolysis.public]] 
 
-### #is_/same_as :: [Electrolysis.internal](/_internal/Chemistry/Electrochemistry/Electrolysis.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Electrochemistry/Electrolysis.internal|Electrolysis.internal]] 
 
-### #is_/same_as :: [Electrolysis.protect](/_protect/Chemistry/Electrochemistry/Electrolysis.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Electrochemistry/Electrolysis.protect|Electrolysis.protect]] 
 
-### #is_/same_as :: [Electrolysis.private](/_private/Chemistry/Electrochemistry/Electrolysis.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Electrochemistry/Electrolysis.private|Electrolysis.private]] 
 
-### #is_/same_as :: [Electrolysis.personal](/_personal/Chemistry/Electrochemistry/Electrolysis.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Electrochemistry/Electrolysis.personal|Electrolysis.personal]] 
 
-### #is_/same_as :: [Electrolysis.secret](/_secret/Chemistry/Electrochemistry/Electrolysis.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Electrochemistry/Electrolysis.secret|Electrolysis.secret]] 
 

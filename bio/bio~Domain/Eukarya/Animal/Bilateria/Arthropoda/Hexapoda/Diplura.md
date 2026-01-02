@@ -73,7 +73,7 @@ Other characteristics:
 
 The lack of eyes, color, and long, slender antennae can be seen in the
 following japygid from the Santa Catalina Mountains of Arizona:
-![ ](Diplura/japygid.gif))
+![ ](Diplura/japygid.gif) 
 
 ### References
 
@@ -191,7 +191,7 @@ der Schweiz. Denkschr. Schweiz. Naturforsch. Ges. 74(2):113-227.
 
 ## Title Illustrations
 
-![](Diplura/japygid.jpg))
+![](Diplura/japygid.jpg) 
 
   ---------------------------------------------------------------------------
   Scientific Name ::     Japygidae
@@ -214,17 +214,17 @@ der Schweiz. Denkschr. Schweiz. Naturforsch. Ges. 74(2):113-227.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Diplura](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Diplura.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Diplura|Diplura]] 
 
-### #is_/same_as :: [Diplura.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Diplura.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Diplura.public|Diplura.public]] 
 
-### #is_/same_as :: [Diplura.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Diplura.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Diplura.internal|Diplura.internal]] 
 
-### #is_/same_as :: [Diplura.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Diplura.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Diplura.protect|Diplura.protect]] 
 
-### #is_/same_as :: [Diplura.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Diplura.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Diplura.private|Diplura.private]] 
 
-### #is_/same_as :: [Diplura.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Diplura.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Diplura.personal|Diplura.personal]] 
 
-### #is_/same_as :: [Diplura.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Diplura.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Diplura.secret|Diplura.secret]] 
 

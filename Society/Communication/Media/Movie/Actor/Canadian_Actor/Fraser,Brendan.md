@@ -37,17 +37,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Fraser,Brendan](/_Standards/Society/Communication/Media/Movie/Actor/Canadian_Actor/Fraser,Brendan.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Actor/Canadian_Actor/Fraser,Brendan|Fraser,Brendan]] 
 
-### #is_/same_as :: [Fraser,Brendan.public](/_public/Society/Communication/Media/Movie/Actor/Canadian_Actor/Fraser,Brendan.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Actor/Canadian_Actor/Fraser,Brendan.public|Fraser,Brendan.public]] 
 
-### #is_/same_as :: [Fraser,Brendan.internal](/_internal/Society/Communication/Media/Movie/Actor/Canadian_Actor/Fraser,Brendan.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Actor/Canadian_Actor/Fraser,Brendan.internal|Fraser,Brendan.internal]] 
 
-### #is_/same_as :: [Fraser,Brendan.protect](/_protect/Society/Communication/Media/Movie/Actor/Canadian_Actor/Fraser,Brendan.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Actor/Canadian_Actor/Fraser,Brendan.protect|Fraser,Brendan.protect]] 
 
-### #is_/same_as :: [Fraser,Brendan.private](/_private/Society/Communication/Media/Movie/Actor/Canadian_Actor/Fraser,Brendan.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Actor/Canadian_Actor/Fraser,Brendan.private|Fraser,Brendan.private]] 
 
-### #is_/same_as :: [Fraser,Brendan.personal](/_personal/Society/Communication/Media/Movie/Actor/Canadian_Actor/Fraser,Brendan.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Actor/Canadian_Actor/Fraser,Brendan.personal|Fraser,Brendan.personal]] 
 
-### #is_/same_as :: [Fraser,Brendan.secret](/_secret/Society/Communication/Media/Movie/Actor/Canadian_Actor/Fraser,Brendan.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Actor/Canadian_Actor/Fraser,Brendan.secret|Fraser,Brendan.secret]] 
 

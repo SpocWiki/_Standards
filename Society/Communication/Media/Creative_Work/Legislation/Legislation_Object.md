@@ -43,17 +43,17 @@ A specific object or file containing a Legislation. Note that the same Legislati
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Legislation_Object](/_Standards/Society/Communication/Media/Creative_Work/Legislation/Legislation_Object.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Creative_Work/Legislation/Legislation_Object|Legislation_Object]] 
 
-### #is_/same_as :: [Legislation_Object.public](/_public/Society/Communication/Media/Creative_Work/Legislation/Legislation_Object.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Creative_Work/Legislation/Legislation_Object.public|Legislation_Object.public]] 
 
-### #is_/same_as :: [Legislation_Object.internal](/_internal/Society/Communication/Media/Creative_Work/Legislation/Legislation_Object.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Creative_Work/Legislation/Legislation_Object.internal|Legislation_Object.internal]] 
 
-### #is_/same_as :: [Legislation_Object.protect](/_protect/Society/Communication/Media/Creative_Work/Legislation/Legislation_Object.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Creative_Work/Legislation/Legislation_Object.protect|Legislation_Object.protect]] 
 
-### #is_/same_as :: [Legislation_Object.private](/_private/Society/Communication/Media/Creative_Work/Legislation/Legislation_Object.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Creative_Work/Legislation/Legislation_Object.private|Legislation_Object.private]] 
 
-### #is_/same_as :: [Legislation_Object.personal](/_personal/Society/Communication/Media/Creative_Work/Legislation/Legislation_Object.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/Legislation/Legislation_Object.personal|Legislation_Object.personal]] 
 
-### #is_/same_as :: [Legislation_Object.secret](/_secret/Society/Communication/Media/Creative_Work/Legislation/Legislation_Object.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Legislation/Legislation_Object.secret|Legislation_Object.secret]] 
 

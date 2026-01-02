@@ -32,17 +32,17 @@ Commons_category: Tightrope walking
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Tightrope_Walking](/_Standards/Society/Communication/Media/Performing_Arts/Performer/Tightrope_Walking.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Performing_Arts/Performer/Tightrope_Walking|Tightrope_Walking]] 
 
-### #is_/same_as :: [Tightrope_Walking.public](/_public/Society/Communication/Media/Performing_Arts/Performer/Tightrope_Walking.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Performing_Arts/Performer/Tightrope_Walking.public|Tightrope_Walking.public]] 
 
-### #is_/same_as :: [Tightrope_Walking.internal](/_internal/Society/Communication/Media/Performing_Arts/Performer/Tightrope_Walking.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Performing_Arts/Performer/Tightrope_Walking.internal|Tightrope_Walking.internal]] 
 
-### #is_/same_as :: [Tightrope_Walking.protect](/_protect/Society/Communication/Media/Performing_Arts/Performer/Tightrope_Walking.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Performing_Arts/Performer/Tightrope_Walking.protect|Tightrope_Walking.protect]] 
 
-### #is_/same_as :: [Tightrope_Walking.private](/_private/Society/Communication/Media/Performing_Arts/Performer/Tightrope_Walking.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Performing_Arts/Performer/Tightrope_Walking.private|Tightrope_Walking.private]] 
 
-### #is_/same_as :: [Tightrope_Walking.personal](/_personal/Society/Communication/Media/Performing_Arts/Performer/Tightrope_Walking.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Performing_Arts/Performer/Tightrope_Walking.personal|Tightrope_Walking.personal]] 
 
-### #is_/same_as :: [Tightrope_Walking.secret](/_secret/Society/Communication/Media/Performing_Arts/Performer/Tightrope_Walking.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Performing_Arts/Performer/Tightrope_Walking.secret|Tightrope_Walking.secret]] 
 

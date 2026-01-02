@@ -46,17 +46,17 @@ Commons_category: Trapezoids
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Trapezoid](/_Standards/Mathematics/Geometry/Geometry-2D/Trapezoid.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Geometry/Geometry-2D/Trapezoid|Trapezoid]] 
 
-### #is_/same_as :: [Trapezoid.public](/_public/Mathematics/Geometry/Geometry-2D/Trapezoid.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Geometry/Geometry-2D/Trapezoid.public|Trapezoid.public]] 
 
-### #is_/same_as :: [Trapezoid.internal](/_internal/Mathematics/Geometry/Geometry-2D/Trapezoid.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Geometry/Geometry-2D/Trapezoid.internal|Trapezoid.internal]] 
 
-### #is_/same_as :: [Trapezoid.protect](/_protect/Mathematics/Geometry/Geometry-2D/Trapezoid.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Geometry/Geometry-2D/Trapezoid.protect|Trapezoid.protect]] 
 
-### #is_/same_as :: [Trapezoid.private](/_private/Mathematics/Geometry/Geometry-2D/Trapezoid.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Geometry/Geometry-2D/Trapezoid.private|Trapezoid.private]] 
 
-### #is_/same_as :: [Trapezoid.personal](/_personal/Mathematics/Geometry/Geometry-2D/Trapezoid.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Geometry/Geometry-2D/Trapezoid.personal|Trapezoid.personal]] 
 
-### #is_/same_as :: [Trapezoid.secret](/_secret/Mathematics/Geometry/Geometry-2D/Trapezoid.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Geometry/Geometry-2D/Trapezoid.secret|Trapezoid.secret]] 
 

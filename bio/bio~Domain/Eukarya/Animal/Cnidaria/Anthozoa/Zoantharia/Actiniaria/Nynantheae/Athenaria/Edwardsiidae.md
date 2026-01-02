@@ -40,7 +40,7 @@ title: Edwardsiidae
     -   [Metedwardsia](Metedwardsia)
 
 # Edwardsiidae 
-![ ](Edwardsiidae/edwardsiidae.jpg))
+![ ](Edwardsiidae/edwardsiidae.jpg) 
 
 -   *[Edwardsia](Edwardsia)*
 -   *[Isoedwardsia](Isoedwardsia)*
@@ -84,7 +84,7 @@ Nematostella vectensis with egg masses.\
 Photo copyright © 2000, Ron Ates.\
 Permission by Prof. C. Hand to take this picture in the Bodega Marine
 Lab, University of California is gratefully acknowledged.
-![](Edwardsiidae/edwardsiidae.jpg))
+![](Edwardsiidae/edwardsiidae.jpg) 
 
   -------
   Copyright ::   © 2000 Ron Ates
@@ -93,17 +93,17 @@ Lab, University of California is gratefully acknowledged.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Edwardsiidae](/_Standards/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Nynantheae/Athenaria/Edwardsiidae.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Nynantheae/Athenaria/Edwardsiidae|Edwardsiidae]] 
 
-### #is_/same_as :: [Edwardsiidae.public](/_public/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Nynantheae/Athenaria/Edwardsiidae.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Nynantheae/Athenaria/Edwardsiidae.public|Edwardsiidae.public]] 
 
-### #is_/same_as :: [Edwardsiidae.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Nynantheae/Athenaria/Edwardsiidae.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Nynantheae/Athenaria/Edwardsiidae.internal|Edwardsiidae.internal]] 
 
-### #is_/same_as :: [Edwardsiidae.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Nynantheae/Athenaria/Edwardsiidae.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Nynantheae/Athenaria/Edwardsiidae.protect|Edwardsiidae.protect]] 
 
-### #is_/same_as :: [Edwardsiidae.private](/_private/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Nynantheae/Athenaria/Edwardsiidae.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Nynantheae/Athenaria/Edwardsiidae.private|Edwardsiidae.private]] 
 
-### #is_/same_as :: [Edwardsiidae.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Nynantheae/Athenaria/Edwardsiidae.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Nynantheae/Athenaria/Edwardsiidae.personal|Edwardsiidae.personal]] 
 
-### #is_/same_as :: [Edwardsiidae.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Nynantheae/Athenaria/Edwardsiidae.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Nynantheae/Athenaria/Edwardsiidae.secret|Edwardsiidae.secret]] 
 

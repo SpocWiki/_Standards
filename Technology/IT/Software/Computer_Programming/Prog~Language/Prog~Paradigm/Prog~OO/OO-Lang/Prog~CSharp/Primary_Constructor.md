@@ -30,17 +30,17 @@ https://learn.microsoft.com/en-us/dotnet/csharp/whats-new/tutorials/primary-cons
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Primary_Constructor](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO-Lang/Prog~CSharp/Primary_Constructor.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO-Lang/Prog~CSharp/Primary_Constructor|Primary_Constructor]] 
 
-### #is_/same_as :: [Primary_Constructor.public](/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO-Lang/Prog~CSharp/Primary_Constructor.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO-Lang/Prog~CSharp/Primary_Constructor.public|Primary_Constructor.public]] 
 
-### #is_/same_as :: [Primary_Constructor.internal](/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO-Lang/Prog~CSharp/Primary_Constructor.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO-Lang/Prog~CSharp/Primary_Constructor.internal|Primary_Constructor.internal]] 
 
-### #is_/same_as :: [Primary_Constructor.protect](/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO-Lang/Prog~CSharp/Primary_Constructor.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO-Lang/Prog~CSharp/Primary_Constructor.protect|Primary_Constructor.protect]] 
 
-### #is_/same_as :: [Primary_Constructor.private](/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO-Lang/Prog~CSharp/Primary_Constructor.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO-Lang/Prog~CSharp/Primary_Constructor.private|Primary_Constructor.private]] 
 
-### #is_/same_as :: [Primary_Constructor.personal](/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO-Lang/Prog~CSharp/Primary_Constructor.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO-Lang/Prog~CSharp/Primary_Constructor.personal|Primary_Constructor.personal]] 
 
-### #is_/same_as :: [Primary_Constructor.secret](/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO-Lang/Prog~CSharp/Primary_Constructor.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO-Lang/Prog~CSharp/Primary_Constructor.secret|Primary_Constructor.secret]] 
 

@@ -59,7 +59,7 @@ title: Asterids
 
 
 ------------------------------------------------------------------------ 
-![European ash, Fraxinus excelsior](Asterids/Lamiales/Oleaceae/Fraxinus/Fraxinus_excelsior.jpg))
+![European ash, Fraxinus excelsior](Asterids/Lamiales/Oleaceae/Fraxinus/Fraxinus_excelsior.jpg) 
 Scientific Name ::   Fraxinus excelsior
 Location ::         Allschwil, Basel, Switzerland.
 Comments           European ash (Lamiales, Oleaceae)
@@ -67,13 +67,13 @@ Acknowledgements   courtesy [Botanical Image Database](http://www.unibas.ch/boti
 Copyright ::          © 2001 University of Basel, Basel, Switzerland 
 
 --------------------------------------------------------------------- 
-![Bell heather, Erica cinera](Asterids/Erica_cinera.jpg))
+![Bell heather, Erica cinera](Asterids/Erica_cinera.jpg) 
 Scientific Name ::  Erica cinera
 Comments          Bell heather (Ericales, Ericaceae)
 Copyright ::         © [Kurt Stüber](http://www.biolib.de/) 
 
 ------------------------------------------------------------------------- 
-![Lactuca](Asterids/Lactuca.jpg))
+![Lactuca](Asterids/Lactuca.jpg) 
 Scientific Name ::     Lactuca
 Location ::           Vladivostok city, Primorsky Territory (Russian Federation)
 Comments             Asterales, Asteraceae
@@ -84,17 +84,17 @@ Copyright ::            © 1999 [Nick Kurzenko](mailto:kurzenko@ibss.dvo.ru)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Asterids](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids|Asterids]] 
 
-### #is_/same_as :: [Asterids.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids.public|Asterids.public]] 
 
-### #is_/same_as :: [Asterids.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids.internal|Asterids.internal]] 
 
-### #is_/same_as :: [Asterids.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids.protect|Asterids.protect]] 
 
-### #is_/same_as :: [Asterids.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids.private|Asterids.private]] 
 
-### #is_/same_as :: [Asterids.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids.personal|Asterids.personal]] 
 
-### #is_/same_as :: [Asterids.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids.secret|Asterids.secret]] 
 

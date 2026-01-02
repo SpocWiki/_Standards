@@ -43,17 +43,17 @@ Health and beauty.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Health_and_Beauty_Business](/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Health_and_Beauty_Business.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Health_and_Beauty_Business|Health_and_Beauty_Business]] 
 
-### #is_/same_as :: [Health_and_Beauty_Business.public](/_public/Society/Agent/Community/Organization/Business/Local_Business/Health_and_Beauty_Business.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Business/Local_Business/Health_and_Beauty_Business.public|Health_and_Beauty_Business.public]] 
 
-### #is_/same_as :: [Health_and_Beauty_Business.internal](/_internal/Society/Agent/Community/Organization/Business/Local_Business/Health_and_Beauty_Business.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Business/Local_Business/Health_and_Beauty_Business.internal|Health_and_Beauty_Business.internal]] 
 
-### #is_/same_as :: [Health_and_Beauty_Business.protect](/_protect/Society/Agent/Community/Organization/Business/Local_Business/Health_and_Beauty_Business.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Business/Local_Business/Health_and_Beauty_Business.protect|Health_and_Beauty_Business.protect]] 
 
-### #is_/same_as :: [Health_and_Beauty_Business.private](/_private/Society/Agent/Community/Organization/Business/Local_Business/Health_and_Beauty_Business.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Business/Local_Business/Health_and_Beauty_Business.private|Health_and_Beauty_Business.private]] 
 
-### #is_/same_as :: [Health_and_Beauty_Business.personal](/_personal/Society/Agent/Community/Organization/Business/Local_Business/Health_and_Beauty_Business.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Business/Local_Business/Health_and_Beauty_Business.personal|Health_and_Beauty_Business.personal]] 
 
-### #is_/same_as :: [Health_and_Beauty_Business.secret](/_secret/Society/Agent/Community/Organization/Business/Local_Business/Health_and_Beauty_Business.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Business/Local_Business/Health_and_Beauty_Business.secret|Health_and_Beauty_Business.secret]] 
 

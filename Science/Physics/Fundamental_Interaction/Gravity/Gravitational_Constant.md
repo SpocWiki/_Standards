@@ -52,17 +52,17 @@ Commons_category: Gravitational constant
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Gravitational_Constant](/_Standards/Science/Physics/Fundamental_Interaction/Gravity/Gravitational_Constant.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Fundamental_Interaction/Gravity/Gravitational_Constant|Gravitational_Constant]] 
 
-### #is_/same_as :: [Gravitational_Constant.public](/_public/Science/Physics/Fundamental_Interaction/Gravity/Gravitational_Constant.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Fundamental_Interaction/Gravity/Gravitational_Constant.public|Gravitational_Constant.public]] 
 
-### #is_/same_as :: [Gravitational_Constant.internal](/_internal/Science/Physics/Fundamental_Interaction/Gravity/Gravitational_Constant.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Fundamental_Interaction/Gravity/Gravitational_Constant.internal|Gravitational_Constant.internal]] 
 
-### #is_/same_as :: [Gravitational_Constant.protect](/_protect/Science/Physics/Fundamental_Interaction/Gravity/Gravitational_Constant.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Fundamental_Interaction/Gravity/Gravitational_Constant.protect|Gravitational_Constant.protect]] 
 
-### #is_/same_as :: [Gravitational_Constant.private](/_private/Science/Physics/Fundamental_Interaction/Gravity/Gravitational_Constant.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Fundamental_Interaction/Gravity/Gravitational_Constant.private|Gravitational_Constant.private]] 
 
-### #is_/same_as :: [Gravitational_Constant.personal](/_personal/Science/Physics/Fundamental_Interaction/Gravity/Gravitational_Constant.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Fundamental_Interaction/Gravity/Gravitational_Constant.personal|Gravitational_Constant.personal]] 
 
-### #is_/same_as :: [Gravitational_Constant.secret](/_secret/Science/Physics/Fundamental_Interaction/Gravity/Gravitational_Constant.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Fundamental_Interaction/Gravity/Gravitational_Constant.secret|Gravitational_Constant.secret]] 
 

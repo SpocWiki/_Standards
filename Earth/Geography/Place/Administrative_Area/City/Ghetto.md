@@ -36,17 +36,17 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Bundesarchiv%20N%20157
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ghetto](/_Standards/Earth/Geography/Place/Administrative_Area/City/Ghetto.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geography/Place/Administrative_Area/City/Ghetto|Ghetto]] 
 
-### #is_/same_as :: [Ghetto.public](/_public/Earth/Geography/Place/Administrative_Area/City/Ghetto.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geography/Place/Administrative_Area/City/Ghetto.public|Ghetto.public]] 
 
-### #is_/same_as :: [Ghetto.internal](/_internal/Earth/Geography/Place/Administrative_Area/City/Ghetto.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geography/Place/Administrative_Area/City/Ghetto.internal|Ghetto.internal]] 
 
-### #is_/same_as :: [Ghetto.protect](/_protect/Earth/Geography/Place/Administrative_Area/City/Ghetto.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geography/Place/Administrative_Area/City/Ghetto.protect|Ghetto.protect]] 
 
-### #is_/same_as :: [Ghetto.private](/_private/Earth/Geography/Place/Administrative_Area/City/Ghetto.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geography/Place/Administrative_Area/City/Ghetto.private|Ghetto.private]] 
 
-### #is_/same_as :: [Ghetto.personal](/_personal/Earth/Geography/Place/Administrative_Area/City/Ghetto.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geography/Place/Administrative_Area/City/Ghetto.personal|Ghetto.personal]] 
 
-### #is_/same_as :: [Ghetto.secret](/_secret/Earth/Geography/Place/Administrative_Area/City/Ghetto.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geography/Place/Administrative_Area/City/Ghetto.secret|Ghetto.secret]] 
 

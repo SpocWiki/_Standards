@@ -23,17 +23,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Object-Pascal](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/Object-Pascal.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/Object-Pascal|Object-Pascal]] 
 
-### #is_/same_as :: [Object-Pascal.public](/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/Object-Pascal.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/Object-Pascal.public|Object-Pascal.public]] 
 
-### #is_/same_as :: [Object-Pascal.internal](/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/Object-Pascal.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/Object-Pascal.internal|Object-Pascal.internal]] 
 
-### #is_/same_as :: [Object-Pascal.protect](/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/Object-Pascal.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/Object-Pascal.protect|Object-Pascal.protect]] 
 
-### #is_/same_as :: [Object-Pascal.private](/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/Object-Pascal.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/Object-Pascal.private|Object-Pascal.private]] 
 
-### #is_/same_as :: [Object-Pascal.personal](/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/Object-Pascal.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/Object-Pascal.personal|Object-Pascal.personal]] 
 
-### #is_/same_as :: [Object-Pascal.secret](/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/Object-Pascal.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/Object-Pascal.secret|Object-Pascal.secret]] 
 

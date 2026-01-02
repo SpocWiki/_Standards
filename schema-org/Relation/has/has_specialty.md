@@ -38,17 +38,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_specialty](/_Standards/schema-org/Relation/has/has_specialty.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_specialty|has_specialty]] 
 
-### #is_/same_as :: [has_specialty.public](/_public/schema-org/Relation/has/has_specialty.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_specialty.public|has_specialty.public]] 
 
-### #is_/same_as :: [has_specialty.internal](/_internal/schema-org/Relation/has/has_specialty.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_specialty.internal|has_specialty.internal]] 
 
-### #is_/same_as :: [has_specialty.protect](/_protect/schema-org/Relation/has/has_specialty.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_specialty.protect|has_specialty.protect]] 
 
-### #is_/same_as :: [has_specialty.private](/_private/schema-org/Relation/has/has_specialty.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_specialty.private|has_specialty.private]] 
 
-### #is_/same_as :: [has_specialty.personal](/_personal/schema-org/Relation/has/has_specialty.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_specialty.personal|has_specialty.personal]] 
 
-### #is_/same_as :: [has_specialty.secret](/_secret/schema-org/Relation/has/has_specialty.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_specialty.secret|has_specialty.secret]] 
 

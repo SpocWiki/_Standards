@@ -37,17 +37,17 @@ A service to convert funds from one currency to another currency.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~CurrencyConversionService](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FinancialProduct/FileClass~CurrencyConversionService.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FinancialProduct/FileClass~CurrencyConversionService|FileClass~CurrencyConversionService]] 
 
-### #is_/same_as :: [FileClass~CurrencyConversionService.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FinancialProduct/FileClass~CurrencyConversionService.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FinancialProduct/FileClass~CurrencyConversionService.public|FileClass~CurrencyConversionService.public]] 
 
-### #is_/same_as :: [FileClass~CurrencyConversionService.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FinancialProduct/FileClass~CurrencyConversionService.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FinancialProduct/FileClass~CurrencyConversionService.internal|FileClass~CurrencyConversionService.internal]] 
 
-### #is_/same_as :: [FileClass~CurrencyConversionService.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FinancialProduct/FileClass~CurrencyConversionService.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FinancialProduct/FileClass~CurrencyConversionService.protect|FileClass~CurrencyConversionService.protect]] 
 
-### #is_/same_as :: [FileClass~CurrencyConversionService.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FinancialProduct/FileClass~CurrencyConversionService.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FinancialProduct/FileClass~CurrencyConversionService.private|FileClass~CurrencyConversionService.private]] 
 
-### #is_/same_as :: [FileClass~CurrencyConversionService.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FinancialProduct/FileClass~CurrencyConversionService.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FinancialProduct/FileClass~CurrencyConversionService.personal|FileClass~CurrencyConversionService.personal]] 
 
-### #is_/same_as :: [FileClass~CurrencyConversionService.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FinancialProduct/FileClass~CurrencyConversionService.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FinancialProduct/FileClass~CurrencyConversionService.secret|FileClass~CurrencyConversionService.secret]] 
 

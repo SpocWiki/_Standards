@@ -43,17 +43,17 @@ MeSH_tree_code: G08.686.605
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Menstrual_Cycle](/_Standards/bio/Reproduction/Sexual_Reproduction/Female_Organism/Menstruation/Menstrual_Cycle.md) 
+### #is_/same_as :: [[/_Standards/bio/Reproduction/Sexual_Reproduction/Female_Organism/Menstruation/Menstrual_Cycle|Menstrual_Cycle]] 
 
-### #is_/same_as :: [Menstrual_Cycle.public](/_public/bio/Reproduction/Sexual_Reproduction/Female_Organism/Menstruation/Menstrual_Cycle.public.md) 
+### #is_/same_as :: [[/_public/bio/Reproduction/Sexual_Reproduction/Female_Organism/Menstruation/Menstrual_Cycle.public|Menstrual_Cycle.public]] 
 
-### #is_/same_as :: [Menstrual_Cycle.internal](/_internal/bio/Reproduction/Sexual_Reproduction/Female_Organism/Menstruation/Menstrual_Cycle.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Reproduction/Sexual_Reproduction/Female_Organism/Menstruation/Menstrual_Cycle.internal|Menstrual_Cycle.internal]] 
 
-### #is_/same_as :: [Menstrual_Cycle.protect](/_protect/bio/Reproduction/Sexual_Reproduction/Female_Organism/Menstruation/Menstrual_Cycle.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Reproduction/Sexual_Reproduction/Female_Organism/Menstruation/Menstrual_Cycle.protect|Menstrual_Cycle.protect]] 
 
-### #is_/same_as :: [Menstrual_Cycle.private](/_private/bio/Reproduction/Sexual_Reproduction/Female_Organism/Menstruation/Menstrual_Cycle.private.md) 
+### #is_/same_as :: [[/_private/bio/Reproduction/Sexual_Reproduction/Female_Organism/Menstruation/Menstrual_Cycle.private|Menstrual_Cycle.private]] 
 
-### #is_/same_as :: [Menstrual_Cycle.personal](/_personal/bio/Reproduction/Sexual_Reproduction/Female_Organism/Menstruation/Menstrual_Cycle.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Reproduction/Sexual_Reproduction/Female_Organism/Menstruation/Menstrual_Cycle.personal|Menstrual_Cycle.personal]] 
 
-### #is_/same_as :: [Menstrual_Cycle.secret](/_secret/bio/Reproduction/Sexual_Reproduction/Female_Organism/Menstruation/Menstrual_Cycle.secret.md)
+### #is_/same_as :: [[/_secret/bio/Reproduction/Sexual_Reproduction/Female_Organism/Menstruation/Menstrual_Cycle.secret|Menstrual_Cycle.secret]] 
 

@@ -145,17 +145,17 @@ Plex_person_key: 5d776825880197001ec9050e
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Stone,Oliver](/_Standards/Society/Communication/Media/Movie/Movie-Director/Stone,Oliver.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Director/Stone,Oliver|Stone,Oliver]] 
 
-### #is_/same_as :: [Stone,Oliver.public](/_public/Society/Communication/Media/Movie/Movie-Director/Stone,Oliver.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Director/Stone,Oliver.public|Stone,Oliver.public]] 
 
-### #is_/same_as :: [Stone,Oliver.internal](/_internal/Society/Communication/Media/Movie/Movie-Director/Stone,Oliver.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Director/Stone,Oliver.internal|Stone,Oliver.internal]] 
 
-### #is_/same_as :: [Stone,Oliver.protect](/_protect/Society/Communication/Media/Movie/Movie-Director/Stone,Oliver.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Director/Stone,Oliver.protect|Stone,Oliver.protect]] 
 
-### #is_/same_as :: [Stone,Oliver.private](/_private/Society/Communication/Media/Movie/Movie-Director/Stone,Oliver.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Director/Stone,Oliver.private|Stone,Oliver.private]] 
 
-### #is_/same_as :: [Stone,Oliver.personal](/_personal/Society/Communication/Media/Movie/Movie-Director/Stone,Oliver.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Director/Stone,Oliver.personal|Stone,Oliver.personal]] 
 
-### #is_/same_as :: [Stone,Oliver.secret](/_secret/Society/Communication/Media/Movie/Movie-Director/Stone,Oliver.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Director/Stone,Oliver.secret|Stone,Oliver.secret]] 
 

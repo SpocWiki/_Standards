@@ -59,17 +59,17 @@ topic_s_main_template: '[[_Standards/WikiData/WD~Template_Philosophy_of_science,
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Philosophy_of_Science](/_Standards/Philosophy/Philosopher/Philosophy_of_Science.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Philosopher/Philosophy_of_Science|Philosophy_of_Science]] 
 
-### #is_/same_as :: [Philosophy_of_Science.public](/_public/Philosophy/Philosopher/Philosophy_of_Science.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Philosopher/Philosophy_of_Science.public|Philosophy_of_Science.public]] 
 
-### #is_/same_as :: [Philosophy_of_Science.internal](/_internal/Philosophy/Philosopher/Philosophy_of_Science.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Philosopher/Philosophy_of_Science.internal|Philosophy_of_Science.internal]] 
 
-### #is_/same_as :: [Philosophy_of_Science.protect](/_protect/Philosophy/Philosopher/Philosophy_of_Science.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Philosopher/Philosophy_of_Science.protect|Philosophy_of_Science.protect]] 
 
-### #is_/same_as :: [Philosophy_of_Science.private](/_private/Philosophy/Philosopher/Philosophy_of_Science.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Philosopher/Philosophy_of_Science.private|Philosophy_of_Science.private]] 
 
-### #is_/same_as :: [Philosophy_of_Science.personal](/_personal/Philosophy/Philosopher/Philosophy_of_Science.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Philosopher/Philosophy_of_Science.personal|Philosophy_of_Science.personal]] 
 
-### #is_/same_as :: [Philosophy_of_Science.secret](/_secret/Philosophy/Philosopher/Philosophy_of_Science.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Philosopher/Philosophy_of_Science.secret|Philosophy_of_Science.secret]] 
 

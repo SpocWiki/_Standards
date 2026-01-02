@@ -227,17 +227,17 @@ A book.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Book](/_Standards/Society/Communication/Media/Writing/Book.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book|Book]] 
 
-### #is_/same_as :: [Book.public](/_public/Society/Communication/Media/Writing/Book.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book.public|Book.public]] 
 
-### #is_/same_as :: [Book.internal](/_internal/Society/Communication/Media/Writing/Book.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book.internal|Book.internal]] 
 
-### #is_/same_as :: [Book.protect](/_protect/Society/Communication/Media/Writing/Book.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book.protect|Book.protect]] 
 
-### #is_/same_as :: [Book.private](/_private/Society/Communication/Media/Writing/Book.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book.private|Book.private]] 
 
-### #is_/same_as :: [Book.personal](/_personal/Society/Communication/Media/Writing/Book.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book.personal|Book.personal]] 
 
-### #is_/same_as :: [Book.secret](/_secret/Society/Communication/Media/Writing/Book.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book.secret|Book.secret]] 
 

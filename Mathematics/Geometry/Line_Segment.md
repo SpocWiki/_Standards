@@ -51,17 +51,17 @@ Commons_category: Line segment
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Line_Segment](/_Standards/Mathematics/Geometry/Line_Segment.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Geometry/Line_Segment|Line_Segment]] 
 
-### #is_/same_as :: [Line_Segment.public](/_public/Mathematics/Geometry/Line_Segment.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Geometry/Line_Segment.public|Line_Segment.public]] 
 
-### #is_/same_as :: [Line_Segment.internal](/_internal/Mathematics/Geometry/Line_Segment.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Geometry/Line_Segment.internal|Line_Segment.internal]] 
 
-### #is_/same_as :: [Line_Segment.protect](/_protect/Mathematics/Geometry/Line_Segment.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Geometry/Line_Segment.protect|Line_Segment.protect]] 
 
-### #is_/same_as :: [Line_Segment.private](/_private/Mathematics/Geometry/Line_Segment.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Geometry/Line_Segment.private|Line_Segment.private]] 
 
-### #is_/same_as :: [Line_Segment.personal](/_personal/Mathematics/Geometry/Line_Segment.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Geometry/Line_Segment.personal|Line_Segment.personal]] 
 
-### #is_/same_as :: [Line_Segment.secret](/_secret/Mathematics/Geometry/Line_Segment.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Geometry/Line_Segment.secret|Line_Segment.secret]] 
 

@@ -35,3 +35,22 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Dolores%20O'Riordan) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Musician/Music~Band/Cranberries(Band)/O'Riordan,Dolores|O'Riordan,Dolores]] 
+
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Musician/Music~Band/Cranberries(Band)/O'Riordan,Dolores.public|O'Riordan,Dolores.public]] 
+
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Musician/Music~Band/Cranberries(Band)/O'Riordan,Dolores.internal|O'Riordan,Dolores.internal]] 
+
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Musician/Music~Band/Cranberries(Band)/O'Riordan,Dolores.protect|O'Riordan,Dolores.protect]] 
+
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Musician/Music~Band/Cranberries(Band)/O'Riordan,Dolores.private|O'Riordan,Dolores.private]] 
+
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Musician/Music~Band/Cranberries(Band)/O'Riordan,Dolores.personal|O'Riordan,Dolores.personal]] 
+
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Musician/Music~Band/Cranberries(Band)/O'Riordan,Dolores.secret|O'Riordan,Dolores.secret]] 
+

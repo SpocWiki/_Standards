@@ -37,17 +37,17 @@ A nail salon.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~NailSalon](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HealthAndBeautyBusiness/FileClass~NailSalon.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HealthAndBeautyBusiness/FileClass~NailSalon|FileClass~NailSalon]] 
 
-### #is_/same_as :: [FileClass~NailSalon.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HealthAndBeautyBusiness/FileClass~NailSalon.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HealthAndBeautyBusiness/FileClass~NailSalon.public|FileClass~NailSalon.public]] 
 
-### #is_/same_as :: [FileClass~NailSalon.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HealthAndBeautyBusiness/FileClass~NailSalon.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HealthAndBeautyBusiness/FileClass~NailSalon.internal|FileClass~NailSalon.internal]] 
 
-### #is_/same_as :: [FileClass~NailSalon.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HealthAndBeautyBusiness/FileClass~NailSalon.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HealthAndBeautyBusiness/FileClass~NailSalon.protect|FileClass~NailSalon.protect]] 
 
-### #is_/same_as :: [FileClass~NailSalon.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HealthAndBeautyBusiness/FileClass~NailSalon.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HealthAndBeautyBusiness/FileClass~NailSalon.private|FileClass~NailSalon.private]] 
 
-### #is_/same_as :: [FileClass~NailSalon.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HealthAndBeautyBusiness/FileClass~NailSalon.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HealthAndBeautyBusiness/FileClass~NailSalon.personal|FileClass~NailSalon.personal]] 
 
-### #is_/same_as :: [FileClass~NailSalon.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HealthAndBeautyBusiness/FileClass~NailSalon.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HealthAndBeautyBusiness/FileClass~NailSalon.secret|FileClass~NailSalon.secret]] 
 

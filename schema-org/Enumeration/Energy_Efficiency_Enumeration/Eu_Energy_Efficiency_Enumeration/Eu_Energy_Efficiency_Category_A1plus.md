@@ -44,17 +44,17 @@ Represents EU Energy Efficiency Class A+ as defined in EU energy labeling regula
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Eu_Energy_Efficiency_Category_A1plus](/_Standards/schema-org/Enumeration/Energy_Efficiency_Enumeration/Eu_Energy_Efficiency_Enumeration/Eu_Energy_Efficiency_Category_A1plus.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Energy_Efficiency_Enumeration/Eu_Energy_Efficiency_Enumeration/Eu_Energy_Efficiency_Category_A1plus|Eu_Energy_Efficiency_Category_A1plus]] 
 
-### #is_/same_as :: [Eu_Energy_Efficiency_Category_A1plus.public](/_public/schema-org/Enumeration/Energy_Efficiency_Enumeration/Eu_Energy_Efficiency_Enumeration/Eu_Energy_Efficiency_Category_A1plus.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Energy_Efficiency_Enumeration/Eu_Energy_Efficiency_Enumeration/Eu_Energy_Efficiency_Category_A1plus.public|Eu_Energy_Efficiency_Category_A1plus.public]] 
 
-### #is_/same_as :: [Eu_Energy_Efficiency_Category_A1plus.internal](/_internal/schema-org/Enumeration/Energy_Efficiency_Enumeration/Eu_Energy_Efficiency_Enumeration/Eu_Energy_Efficiency_Category_A1plus.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Energy_Efficiency_Enumeration/Eu_Energy_Efficiency_Enumeration/Eu_Energy_Efficiency_Category_A1plus.internal|Eu_Energy_Efficiency_Category_A1plus.internal]] 
 
-### #is_/same_as :: [Eu_Energy_Efficiency_Category_A1plus.protect](/_protect/schema-org/Enumeration/Energy_Efficiency_Enumeration/Eu_Energy_Efficiency_Enumeration/Eu_Energy_Efficiency_Category_A1plus.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Energy_Efficiency_Enumeration/Eu_Energy_Efficiency_Enumeration/Eu_Energy_Efficiency_Category_A1plus.protect|Eu_Energy_Efficiency_Category_A1plus.protect]] 
 
-### #is_/same_as :: [Eu_Energy_Efficiency_Category_A1plus.private](/_private/schema-org/Enumeration/Energy_Efficiency_Enumeration/Eu_Energy_Efficiency_Enumeration/Eu_Energy_Efficiency_Category_A1plus.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Energy_Efficiency_Enumeration/Eu_Energy_Efficiency_Enumeration/Eu_Energy_Efficiency_Category_A1plus.private|Eu_Energy_Efficiency_Category_A1plus.private]] 
 
-### #is_/same_as :: [Eu_Energy_Efficiency_Category_A1plus.personal](/_personal/schema-org/Enumeration/Energy_Efficiency_Enumeration/Eu_Energy_Efficiency_Enumeration/Eu_Energy_Efficiency_Category_A1plus.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Energy_Efficiency_Enumeration/Eu_Energy_Efficiency_Enumeration/Eu_Energy_Efficiency_Category_A1plus.personal|Eu_Energy_Efficiency_Category_A1plus.personal]] 
 
-### #is_/same_as :: [Eu_Energy_Efficiency_Category_A1plus.secret](/_secret/schema-org/Enumeration/Energy_Efficiency_Enumeration/Eu_Energy_Efficiency_Enumeration/Eu_Energy_Efficiency_Category_A1plus.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Energy_Efficiency_Enumeration/Eu_Energy_Efficiency_Enumeration/Eu_Energy_Efficiency_Category_A1plus.secret|Eu_Energy_Efficiency_Category_A1plus.secret]] 
 

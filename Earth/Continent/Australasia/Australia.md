@@ -1095,17 +1095,17 @@ Capital :: [[Canberra]]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Australia](/_Standards/Earth/Continent/Australasia/Australia.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Australasia/Australia|Australia]] 
 
-### #is_/same_as :: [Australia.public](/_public/Earth/Continent/Australasia/Australia.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Australasia/Australia.public|Australia.public]] 
 
-### #is_/same_as :: [Australia.internal](/_internal/Earth/Continent/Australasia/Australia.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Australasia/Australia.internal|Australia.internal]] 
 
-### #is_/same_as :: [Australia.protect](/_protect/Earth/Continent/Australasia/Australia.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Australasia/Australia.protect|Australia.protect]] 
 
-### #is_/same_as :: [Australia.private](/_private/Earth/Continent/Australasia/Australia.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Australasia/Australia.private|Australia.private]] 
 
-### #is_/same_as :: [Australia.personal](/_personal/Earth/Continent/Australasia/Australia.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Australasia/Australia.personal|Australia.personal]] 
 
-### #is_/same_as :: [Australia.secret](/_secret/Earth/Continent/Australasia/Australia.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Australasia/Australia.secret|Australia.secret]] 
 

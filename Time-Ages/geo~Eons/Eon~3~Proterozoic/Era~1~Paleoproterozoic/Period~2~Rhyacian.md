@@ -60,17 +60,17 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Period~2~Rhyacian](/_Standards/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~1~Paleoproterozoic/Period~2~Rhyacian.md) 
+### #is_/same_as :: [[/_Standards/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~1~Paleoproterozoic/Period~2~Rhyacian|Period~2~Rhyacian]] 
 
-### #is_/same_as :: [Period~2~Rhyacian.public](/_public/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~1~Paleoproterozoic/Period~2~Rhyacian.public.md) 
+### #is_/same_as :: [[/_public/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~1~Paleoproterozoic/Period~2~Rhyacian.public|Period~2~Rhyacian.public]] 
 
-### #is_/same_as :: [Period~2~Rhyacian.internal](/_internal/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~1~Paleoproterozoic/Period~2~Rhyacian.internal.md) 
+### #is_/same_as :: [[/_internal/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~1~Paleoproterozoic/Period~2~Rhyacian.internal|Period~2~Rhyacian.internal]] 
 
-### #is_/same_as :: [Period~2~Rhyacian.protect](/_protect/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~1~Paleoproterozoic/Period~2~Rhyacian.protect.md) 
+### #is_/same_as :: [[/_protect/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~1~Paleoproterozoic/Period~2~Rhyacian.protect|Period~2~Rhyacian.protect]] 
 
-### #is_/same_as :: [Period~2~Rhyacian.private](/_private/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~1~Paleoproterozoic/Period~2~Rhyacian.private.md) 
+### #is_/same_as :: [[/_private/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~1~Paleoproterozoic/Period~2~Rhyacian.private|Period~2~Rhyacian.private]] 
 
-### #is_/same_as :: [Period~2~Rhyacian.personal](/_personal/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~1~Paleoproterozoic/Period~2~Rhyacian.personal.md) 
+### #is_/same_as :: [[/_personal/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~1~Paleoproterozoic/Period~2~Rhyacian.personal|Period~2~Rhyacian.personal]] 
 
-### #is_/same_as :: [Period~2~Rhyacian.secret](/_secret/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~1~Paleoproterozoic/Period~2~Rhyacian.secret.md)
+### #is_/same_as :: [[/_secret/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~1~Paleoproterozoic/Period~2~Rhyacian.secret|Period~2~Rhyacian.secret]] 
 

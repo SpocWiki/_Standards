@@ -62,17 +62,17 @@ Commons_category: Freethought
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Freethought](/_Standards/Philosophy/Epistemology/Freethought.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Epistemology/Freethought|Freethought]] 
 
-### #is_/same_as :: [Freethought.public](/_public/Philosophy/Epistemology/Freethought.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Epistemology/Freethought.public|Freethought.public]] 
 
-### #is_/same_as :: [Freethought.internal](/_internal/Philosophy/Epistemology/Freethought.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Epistemology/Freethought.internal|Freethought.internal]] 
 
-### #is_/same_as :: [Freethought.protect](/_protect/Philosophy/Epistemology/Freethought.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Epistemology/Freethought.protect|Freethought.protect]] 
 
-### #is_/same_as :: [Freethought.private](/_private/Philosophy/Epistemology/Freethought.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Epistemology/Freethought.private|Freethought.private]] 
 
-### #is_/same_as :: [Freethought.personal](/_personal/Philosophy/Epistemology/Freethought.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Epistemology/Freethought.personal|Freethought.personal]] 
 
-### #is_/same_as :: [Freethought.secret](/_secret/Philosophy/Epistemology/Freethought.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Epistemology/Freethought.secret|Freethought.secret]] 
 

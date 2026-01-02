@@ -36,17 +36,17 @@ inception: 1950-01-01T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Pop_Art](/_Standards/Society/Communication/Art/Pop_Art.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Art/Pop_Art|Pop_Art]] 
 
-### #is_/same_as :: [Pop_Art.public](/_public/Society/Communication/Art/Pop_Art.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Art/Pop_Art.public|Pop_Art.public]] 
 
-### #is_/same_as :: [Pop_Art.internal](/_internal/Society/Communication/Art/Pop_Art.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Art/Pop_Art.internal|Pop_Art.internal]] 
 
-### #is_/same_as :: [Pop_Art.protect](/_protect/Society/Communication/Art/Pop_Art.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Art/Pop_Art.protect|Pop_Art.protect]] 
 
-### #is_/same_as :: [Pop_Art.private](/_private/Society/Communication/Art/Pop_Art.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Art/Pop_Art.private|Pop_Art.private]] 
 
-### #is_/same_as :: [Pop_Art.personal](/_personal/Society/Communication/Art/Pop_Art.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Art/Pop_Art.personal|Pop_Art.personal]] 
 
-### #is_/same_as :: [Pop_Art.secret](/_secret/Society/Communication/Art/Pop_Art.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Art/Pop_Art.secret|Pop_Art.secret]] 
 

@@ -95,17 +95,17 @@ inception: 1931-01-01T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hoover_Dam](/_Standards/Earth/Geography/Place/Hoover_Dam.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geography/Place/Hoover_Dam|Hoover_Dam]] 
 
-### #is_/same_as :: [Hoover_Dam.public](/_public/Earth/Geography/Place/Hoover_Dam.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geography/Place/Hoover_Dam.public|Hoover_Dam.public]] 
 
-### #is_/same_as :: [Hoover_Dam.internal](/_internal/Earth/Geography/Place/Hoover_Dam.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geography/Place/Hoover_Dam.internal|Hoover_Dam.internal]] 
 
-### #is_/same_as :: [Hoover_Dam.protect](/_protect/Earth/Geography/Place/Hoover_Dam.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geography/Place/Hoover_Dam.protect|Hoover_Dam.protect]] 
 
-### #is_/same_as :: [Hoover_Dam.private](/_private/Earth/Geography/Place/Hoover_Dam.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geography/Place/Hoover_Dam.private|Hoover_Dam.private]] 
 
-### #is_/same_as :: [Hoover_Dam.personal](/_personal/Earth/Geography/Place/Hoover_Dam.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geography/Place/Hoover_Dam.personal|Hoover_Dam.personal]] 
 
-### #is_/same_as :: [Hoover_Dam.secret](/_secret/Earth/Geography/Place/Hoover_Dam.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geography/Place/Hoover_Dam.secret|Hoover_Dam.secret]] 
 

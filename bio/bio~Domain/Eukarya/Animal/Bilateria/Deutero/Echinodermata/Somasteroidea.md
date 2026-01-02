@@ -217,7 +217,7 @@ shown above.
 
 
 ------------------------------------ 
-![Villebrunaster thorali ventral side showing schematic of oral test](Somasteroidea/Villebrunaster_thoral.jpg))
+![Villebrunaster thorali ventral side showing schematic of oral test](Somasteroidea/Villebrunaster_thoral.jpg) 
 Scientific Name ::     Villebrunaster thorali (Villebrunasteridae)
 Location ::           from south France
 Reference            After Spencer, W.K. 1951. Early Paleozoic starfish. Phil. Trans. R. Soc. Lond., ser. B 235:87-129.
@@ -226,7 +226,7 @@ Body Part            ventral side showing schematic of oral test
 Copyright ::            © 1951 Royal Society of London
 
 ------------------------------------ 
-![Archegonaster pentagonus ventral side showing schematic of oral test](Somasteroidea/Archegonaster_pentagonus.jpg))
+![Archegonaster pentagonus ventral side showing schematic of oral test](Somasteroidea/Archegonaster_pentagonus.jpg) 
 Scientific Name ::     Archegonaster pentagonus (Archegonasteridae)
 Location ::           from former Czechoslovakia
 Reference            After Spencer, W.K. 1951. Early Paleozoic starfish. Phil. Trans. R. Soc. Lond., ser. B 235:87-129.
@@ -235,7 +235,7 @@ Body Part            ventral side showing schematic of oral test
 Copyright ::            © 1951 Royal Society of London
 
 ------------------------------------ 
-![Chinianaster levyi ventral side showing schematic of oral test](Somasteroidea/Chinianaster_levy.jpg))
+![Chinianaster levyi ventral side showing schematic of oral test](Somasteroidea/Chinianaster_levy.jpg) 
 Scientific Name ::     Chinianaster levyi (Chinianasteridae)
 Location ::           from south France
 Reference            After Spencer, W.K. 1951. Early Paleozoic starfish. Phil. Trans. R. Soc. Lond., ser. B 235:87-129.
@@ -246,17 +246,17 @@ Copyright ::            © 1951 Royal Society of London
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Somasteroidea](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Echinodermata/Somasteroidea.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Echinodermata/Somasteroidea|Somasteroidea]] 
 
-### #is_/same_as :: [Somasteroidea.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Echinodermata/Somasteroidea.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Echinodermata/Somasteroidea.public|Somasteroidea.public]] 
 
-### #is_/same_as :: [Somasteroidea.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Echinodermata/Somasteroidea.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Echinodermata/Somasteroidea.internal|Somasteroidea.internal]] 
 
-### #is_/same_as :: [Somasteroidea.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Echinodermata/Somasteroidea.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Echinodermata/Somasteroidea.protect|Somasteroidea.protect]] 
 
-### #is_/same_as :: [Somasteroidea.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Echinodermata/Somasteroidea.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Echinodermata/Somasteroidea.private|Somasteroidea.private]] 
 
-### #is_/same_as :: [Somasteroidea.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Echinodermata/Somasteroidea.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Echinodermata/Somasteroidea.personal|Somasteroidea.personal]] 
 
-### #is_/same_as :: [Somasteroidea.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Echinodermata/Somasteroidea.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Echinodermata/Somasteroidea.secret|Somasteroidea.secret]] 
 

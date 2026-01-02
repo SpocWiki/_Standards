@@ -21,17 +21,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lidl](/_Standards/Society/Agent/Community/Organization/Company/Corporation/Retail/Lidl.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Company/Corporation/Retail/Lidl|Lidl]] 
 
-### #is_/same_as :: [Lidl.public](/_public/Society/Agent/Community/Organization/Company/Corporation/Retail/Lidl.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Company/Corporation/Retail/Lidl.public|Lidl.public]] 
 
-### #is_/same_as :: [Lidl.internal](/_internal/Society/Agent/Community/Organization/Company/Corporation/Retail/Lidl.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Company/Corporation/Retail/Lidl.internal|Lidl.internal]] 
 
-### #is_/same_as :: [Lidl.protect](/_protect/Society/Agent/Community/Organization/Company/Corporation/Retail/Lidl.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Company/Corporation/Retail/Lidl.protect|Lidl.protect]] 
 
-### #is_/same_as :: [Lidl.private](/_private/Society/Agent/Community/Organization/Company/Corporation/Retail/Lidl.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Company/Corporation/Retail/Lidl.private|Lidl.private]] 
 
-### #is_/same_as :: [Lidl.personal](/_personal/Society/Agent/Community/Organization/Company/Corporation/Retail/Lidl.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Company/Corporation/Retail/Lidl.personal|Lidl.personal]] 
 
-### #is_/same_as :: [Lidl.secret](/_secret/Society/Agent/Community/Organization/Company/Corporation/Retail/Lidl.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Company/Corporation/Retail/Lidl.secret|Lidl.secret]] 
 

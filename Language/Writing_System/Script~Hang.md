@@ -109,17 +109,17 @@ Hangul Script is used in [[../Language_Family/LangFamily-Koreanic/Lang-kor|Korea
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Script~Hang](/_Standards/Language/Writing_System/Script~Hang.md) 
+### #is_/same_as :: [[/_Standards/Language/Writing_System/Script~Hang|Script~Hang]] 
 
-### #is_/same_as :: [Script~Hang.public](/_public/Language/Writing_System/Script~Hang.public.md) 
+### #is_/same_as :: [[/_public/Language/Writing_System/Script~Hang.public|Script~Hang.public]] 
 
-### #is_/same_as :: [Script~Hang.internal](/_internal/Language/Writing_System/Script~Hang.internal.md) 
+### #is_/same_as :: [[/_internal/Language/Writing_System/Script~Hang.internal|Script~Hang.internal]] 
 
-### #is_/same_as :: [Script~Hang.protect](/_protect/Language/Writing_System/Script~Hang.protect.md) 
+### #is_/same_as :: [[/_protect/Language/Writing_System/Script~Hang.protect|Script~Hang.protect]] 
 
-### #is_/same_as :: [Script~Hang.private](/_private/Language/Writing_System/Script~Hang.private.md) 
+### #is_/same_as :: [[/_private/Language/Writing_System/Script~Hang.private|Script~Hang.private]] 
 
-### #is_/same_as :: [Script~Hang.personal](/_personal/Language/Writing_System/Script~Hang.personal.md) 
+### #is_/same_as :: [[/_personal/Language/Writing_System/Script~Hang.personal|Script~Hang.personal]] 
 
-### #is_/same_as :: [Script~Hang.secret](/_secret/Language/Writing_System/Script~Hang.secret.md)
+### #is_/same_as :: [[/_secret/Language/Writing_System/Script~Hang.secret|Script~Hang.secret]] 
 

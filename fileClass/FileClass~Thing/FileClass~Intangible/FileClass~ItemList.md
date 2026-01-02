@@ -67,17 +67,17 @@ NumberOfItems:: {"type":"Number","options":{}}
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~ItemList](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ItemList.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ItemList|FileClass~ItemList]] 
 
-### #is_/same_as :: [FileClass~ItemList.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ItemList.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ItemList.public|FileClass~ItemList.public]] 
 
-### #is_/same_as :: [FileClass~ItemList.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ItemList.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ItemList.internal|FileClass~ItemList.internal]] 
 
-### #is_/same_as :: [FileClass~ItemList.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ItemList.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ItemList.protect|FileClass~ItemList.protect]] 
 
-### #is_/same_as :: [FileClass~ItemList.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ItemList.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ItemList.private|FileClass~ItemList.private]] 
 
-### #is_/same_as :: [FileClass~ItemList.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ItemList.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ItemList.personal|FileClass~ItemList.personal]] 
 
-### #is_/same_as :: [FileClass~ItemList.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ItemList.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ItemList.secret|FileClass~ItemList.secret]] 
 

@@ -35,17 +35,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Vodafone_Germany](/_Standards/Society/Agent/Community/Organization/Company/Corporation/IT~Company/ISP(Internet-Service_provider)/Vodafone_Germany.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Company/Corporation/IT~Company/ISP(Internet-Service_provider)/Vodafone_Germany|Vodafone_Germany]] 
 
-### #is_/same_as :: [Vodafone_Germany.public](/_public/Society/Agent/Community/Organization/Company/Corporation/IT~Company/ISP(Internet-Service_provider)/Vodafone_Germany.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Company/Corporation/IT~Company/ISP(Internet-Service_provider)/Vodafone_Germany.public|Vodafone_Germany.public]] 
 
-### #is_/same_as :: [Vodafone_Germany.internal](/_internal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/ISP(Internet-Service_provider)/Vodafone_Germany.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/ISP(Internet-Service_provider)/Vodafone_Germany.internal|Vodafone_Germany.internal]] 
 
-### #is_/same_as :: [Vodafone_Germany.protect](/_protect/Society/Agent/Community/Organization/Company/Corporation/IT~Company/ISP(Internet-Service_provider)/Vodafone_Germany.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Company/Corporation/IT~Company/ISP(Internet-Service_provider)/Vodafone_Germany.protect|Vodafone_Germany.protect]] 
 
-### #is_/same_as :: [Vodafone_Germany.private](/_private/Society/Agent/Community/Organization/Company/Corporation/IT~Company/ISP(Internet-Service_provider)/Vodafone_Germany.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Company/Corporation/IT~Company/ISP(Internet-Service_provider)/Vodafone_Germany.private|Vodafone_Germany.private]] 
 
-### #is_/same_as :: [Vodafone_Germany.personal](/_personal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/ISP(Internet-Service_provider)/Vodafone_Germany.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/ISP(Internet-Service_provider)/Vodafone_Germany.personal|Vodafone_Germany.personal]] 
 
-### #is_/same_as :: [Vodafone_Germany.secret](/_secret/Society/Agent/Community/Organization/Company/Corporation/IT~Company/ISP(Internet-Service_provider)/Vodafone_Germany.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Company/Corporation/IT~Company/ISP(Internet-Service_provider)/Vodafone_Germany.secret|Vodafone_Germany.secret]] 
 

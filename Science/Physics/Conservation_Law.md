@@ -32,17 +32,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Conservation_Law](/_Standards/Science/Physics/Conservation_Law.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Conservation_Law|Conservation_Law]] 
 
-### #is_/same_as :: [Conservation_Law.public](/_public/Science/Physics/Conservation_Law.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Conservation_Law.public|Conservation_Law.public]] 
 
-### #is_/same_as :: [Conservation_Law.internal](/_internal/Science/Physics/Conservation_Law.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Conservation_Law.internal|Conservation_Law.internal]] 
 
-### #is_/same_as :: [Conservation_Law.protect](/_protect/Science/Physics/Conservation_Law.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Conservation_Law.protect|Conservation_Law.protect]] 
 
-### #is_/same_as :: [Conservation_Law.private](/_private/Science/Physics/Conservation_Law.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Conservation_Law.private|Conservation_Law.private]] 
 
-### #is_/same_as :: [Conservation_Law.personal](/_personal/Science/Physics/Conservation_Law.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Conservation_Law.personal|Conservation_Law.personal]] 
 
-### #is_/same_as :: [Conservation_Law.secret](/_secret/Science/Physics/Conservation_Law.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Conservation_Law.secret|Conservation_Law.secret]] 
 

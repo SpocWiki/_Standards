@@ -59,17 +59,17 @@ OpenStreetMap_tag:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [College](/_Standards/Society/Agent/Community/Organization/Educational_Organization/College_or_University/College.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Educational_Organization/College_or_University/College|College]] 
 
-### #is_/same_as :: [College.public](/_public/Society/Agent/Community/Organization/Educational_Organization/College_or_University/College.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Educational_Organization/College_or_University/College.public|College.public]] 
 
-### #is_/same_as :: [College.internal](/_internal/Society/Agent/Community/Organization/Educational_Organization/College_or_University/College.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Educational_Organization/College_or_University/College.internal|College.internal]] 
 
-### #is_/same_as :: [College.protect](/_protect/Society/Agent/Community/Organization/Educational_Organization/College_or_University/College.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Educational_Organization/College_or_University/College.protect|College.protect]] 
 
-### #is_/same_as :: [College.private](/_private/Society/Agent/Community/Organization/Educational_Organization/College_or_University/College.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Educational_Organization/College_or_University/College.private|College.private]] 
 
-### #is_/same_as :: [College.personal](/_personal/Society/Agent/Community/Organization/Educational_Organization/College_or_University/College.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Educational_Organization/College_or_University/College.personal|College.personal]] 
 
-### #is_/same_as :: [College.secret](/_secret/Society/Agent/Community/Organization/Educational_Organization/College_or_University/College.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Educational_Organization/College_or_University/College.secret|College.secret]] 
 

@@ -48,17 +48,17 @@ official_name: Telescopium
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Zodiac~Telescopium](/_Standards/Astronomy/Star~Constellation/Zodiac~Telescopium.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Star~Constellation/Zodiac~Telescopium|Zodiac~Telescopium]] 
 
-### #is_/same_as :: [Zodiac~Telescopium.public](/_public/Astronomy/Star~Constellation/Zodiac~Telescopium.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Star~Constellation/Zodiac~Telescopium.public|Zodiac~Telescopium.public]] 
 
-### #is_/same_as :: [Zodiac~Telescopium.internal](/_internal/Astronomy/Star~Constellation/Zodiac~Telescopium.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Star~Constellation/Zodiac~Telescopium.internal|Zodiac~Telescopium.internal]] 
 
-### #is_/same_as :: [Zodiac~Telescopium.protect](/_protect/Astronomy/Star~Constellation/Zodiac~Telescopium.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Star~Constellation/Zodiac~Telescopium.protect|Zodiac~Telescopium.protect]] 
 
-### #is_/same_as :: [Zodiac~Telescopium.private](/_private/Astronomy/Star~Constellation/Zodiac~Telescopium.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Star~Constellation/Zodiac~Telescopium.private|Zodiac~Telescopium.private]] 
 
-### #is_/same_as :: [Zodiac~Telescopium.personal](/_personal/Astronomy/Star~Constellation/Zodiac~Telescopium.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Star~Constellation/Zodiac~Telescopium.personal|Zodiac~Telescopium.personal]] 
 
-### #is_/same_as :: [Zodiac~Telescopium.secret](/_secret/Astronomy/Star~Constellation/Zodiac~Telescopium.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Star~Constellation/Zodiac~Telescopium.secret|Zodiac~Telescopium.secret]] 
 

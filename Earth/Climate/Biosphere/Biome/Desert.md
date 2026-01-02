@@ -21,17 +21,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Desert](/_Standards/Earth/Climate/Biosphere/Biomes/Desert.md) 
+### #is_/same_as :: [[/_Standards/Earth/Climate/Biosphere/Biome/Desert|Desert]] 
 
-### #is_/same_as :: [Desert.public](/_public/Earth/Climate/Biosphere/Biomes/Desert.public.md) 
+### #is_/same_as :: [[/_public/Earth/Climate/Biosphere/Biome/Desert.public|Desert.public]] 
 
-### #is_/same_as :: [Desert.internal](/_internal/Earth/Climate/Biosphere/Biomes/Desert.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Climate/Biosphere/Biome/Desert.internal|Desert.internal]] 
 
-### #is_/same_as :: [Desert.protect](/_protect/Earth/Climate/Biosphere/Biomes/Desert.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Climate/Biosphere/Biome/Desert.protect|Desert.protect]] 
 
-### #is_/same_as :: [Desert.private](/_private/Earth/Climate/Biosphere/Biomes/Desert.private.md) 
+### #is_/same_as :: [[/_private/Earth/Climate/Biosphere/Biome/Desert.private|Desert.private]] 
 
-### #is_/same_as :: [Desert.personal](/_personal/Earth/Climate/Biosphere/Biomes/Desert.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Climate/Biosphere/Biome/Desert.personal|Desert.personal]] 
 
-### #is_/same_as :: [Desert.secret](/_secret/Earth/Climate/Biosphere/Biomes/Desert.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Climate/Biosphere/Biome/Desert.secret|Desert.secret]] 
 

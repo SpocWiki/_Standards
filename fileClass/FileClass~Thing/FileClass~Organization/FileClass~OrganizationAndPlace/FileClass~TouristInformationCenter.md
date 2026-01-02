@@ -37,17 +37,17 @@ A tourist information center.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~TouristInformationCenter](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~TouristInformationCenter.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~TouristInformationCenter|FileClass~TouristInformationCenter]] 
 
-### #is_/same_as :: [FileClass~TouristInformationCenter.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~TouristInformationCenter.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~TouristInformationCenter.public|FileClass~TouristInformationCenter.public]] 
 
-### #is_/same_as :: [FileClass~TouristInformationCenter.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~TouristInformationCenter.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~TouristInformationCenter.internal|FileClass~TouristInformationCenter.internal]] 
 
-### #is_/same_as :: [FileClass~TouristInformationCenter.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~TouristInformationCenter.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~TouristInformationCenter.protect|FileClass~TouristInformationCenter.protect]] 
 
-### #is_/same_as :: [FileClass~TouristInformationCenter.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~TouristInformationCenter.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~TouristInformationCenter.private|FileClass~TouristInformationCenter.private]] 
 
-### #is_/same_as :: [FileClass~TouristInformationCenter.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~TouristInformationCenter.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~TouristInformationCenter.personal|FileClass~TouristInformationCenter.personal]] 
 
-### #is_/same_as :: [FileClass~TouristInformationCenter.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~TouristInformationCenter.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~TouristInformationCenter.secret|FileClass~TouristInformationCenter.secret]] 
 

@@ -52,17 +52,17 @@ Krugosvet_article_archived_: kultura_i_obrazovanie/religiya/NIRVANA.html
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Nirvana](/_Standards/Philosophy/Metaphysic/Religion/Nirvana.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Nirvana|Nirvana]] 
 
-### #is_/same_as :: [Nirvana.public](/_public/Philosophy/Metaphysic/Religion/Nirvana.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Nirvana.public|Nirvana.public]] 
 
-### #is_/same_as :: [Nirvana.internal](/_internal/Philosophy/Metaphysic/Religion/Nirvana.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Nirvana.internal|Nirvana.internal]] 
 
-### #is_/same_as :: [Nirvana.protect](/_protect/Philosophy/Metaphysic/Religion/Nirvana.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Nirvana.protect|Nirvana.protect]] 
 
-### #is_/same_as :: [Nirvana.private](/_private/Philosophy/Metaphysic/Religion/Nirvana.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Nirvana.private|Nirvana.private]] 
 
-### #is_/same_as :: [Nirvana.personal](/_personal/Philosophy/Metaphysic/Religion/Nirvana.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Nirvana.personal|Nirvana.personal]] 
 
-### #is_/same_as :: [Nirvana.secret](/_secret/Philosophy/Metaphysic/Religion/Nirvana.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Nirvana.secret|Nirvana.secret]] 
 

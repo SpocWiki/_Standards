@@ -56,17 +56,17 @@ U_S_National_Archives_Identifier: 10643231
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Military_Engineering](/_Standards/Society/Military/Military_Engineering.md) 
+### #is_/same_as :: [[/_Standards/Society/Military/Military_Engineering|Military_Engineering]] 
 
-### #is_/same_as :: [Military_Engineering.public](/_public/Society/Military/Military_Engineering.public.md) 
+### #is_/same_as :: [[/_public/Society/Military/Military_Engineering.public|Military_Engineering.public]] 
 
-### #is_/same_as :: [Military_Engineering.internal](/_internal/Society/Military/Military_Engineering.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Military/Military_Engineering.internal|Military_Engineering.internal]] 
 
-### #is_/same_as :: [Military_Engineering.protect](/_protect/Society/Military/Military_Engineering.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Military/Military_Engineering.protect|Military_Engineering.protect]] 
 
-### #is_/same_as :: [Military_Engineering.private](/_private/Society/Military/Military_Engineering.private.md) 
+### #is_/same_as :: [[/_private/Society/Military/Military_Engineering.private|Military_Engineering.private]] 
 
-### #is_/same_as :: [Military_Engineering.personal](/_personal/Society/Military/Military_Engineering.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Military/Military_Engineering.personal|Military_Engineering.personal]] 
 
-### #is_/same_as :: [Military_Engineering.secret](/_secret/Society/Military/Military_Engineering.secret.md)
+### #is_/same_as :: [[/_secret/Society/Military/Military_Engineering.secret|Military_Engineering.secret]] 
 

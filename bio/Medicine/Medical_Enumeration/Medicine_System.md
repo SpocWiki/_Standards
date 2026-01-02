@@ -39,17 +39,17 @@ Systems of medical practice.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Medicine_System](/_Standards/bio/Medicine/Medical_Enumeration/Medicine_System.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Enumeration/Medicine_System|Medicine_System]] 
 
-### #is_/same_as :: [Medicine_System.public](/_public/bio/Medicine/Medical_Enumeration/Medicine_System.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Enumeration/Medicine_System.public|Medicine_System.public]] 
 
-### #is_/same_as :: [Medicine_System.internal](/_internal/bio/Medicine/Medical_Enumeration/Medicine_System.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Enumeration/Medicine_System.internal|Medicine_System.internal]] 
 
-### #is_/same_as :: [Medicine_System.protect](/_protect/bio/Medicine/Medical_Enumeration/Medicine_System.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Enumeration/Medicine_System.protect|Medicine_System.protect]] 
 
-### #is_/same_as :: [Medicine_System.private](/_private/bio/Medicine/Medical_Enumeration/Medicine_System.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Enumeration/Medicine_System.private|Medicine_System.private]] 
 
-### #is_/same_as :: [Medicine_System.personal](/_personal/bio/Medicine/Medical_Enumeration/Medicine_System.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Enumeration/Medicine_System.personal|Medicine_System.personal]] 
 
-### #is_/same_as :: [Medicine_System.secret](/_secret/bio/Medicine/Medical_Enumeration/Medicine_System.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Enumeration/Medicine_System.secret|Medicine_System.secret]] 
 

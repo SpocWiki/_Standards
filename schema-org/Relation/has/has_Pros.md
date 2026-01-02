@@ -33,17 +33,17 @@ The Name is from the [[../../../../Knowledge/Languages/Natural~Languages/Latin|L
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_Pros](/_Standards/schema-org/Relation/has/has_Pros.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_Pros|has_Pros]] 
 
-### #is_/same_as :: [has_Pros.public](/_public/schema-org/Relation/has/has_Pros.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_Pros.public|has_Pros.public]] 
 
-### #is_/same_as :: [has_Pros.internal](/_internal/schema-org/Relation/has/has_Pros.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_Pros.internal|has_Pros.internal]] 
 
-### #is_/same_as :: [has_Pros.protect](/_protect/schema-org/Relation/has/has_Pros.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_Pros.protect|has_Pros.protect]] 
 
-### #is_/same_as :: [has_Pros.private](/_private/schema-org/Relation/has/has_Pros.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_Pros.private|has_Pros.private]] 
 
-### #is_/same_as :: [has_Pros.personal](/_personal/schema-org/Relation/has/has_Pros.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_Pros.personal|has_Pros.personal]] 
 
-### #is_/same_as :: [has_Pros.secret](/_secret/schema-org/Relation/has/has_Pros.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_Pros.secret|has_Pros.secret]] 
 

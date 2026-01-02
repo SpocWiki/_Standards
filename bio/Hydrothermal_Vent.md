@@ -46,17 +46,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hydrothermal_Vent](/_Standards/bio/Hydrothermal_Vent.md) 
+### #is_/same_as :: [[/_Standards/bio/Hydrothermal_Vent|Hydrothermal_Vent]] 
 
-### #is_/same_as :: [Hydrothermal_Vent.public](/_public/bio/Hydrothermal_Vent.public.md) 
+### #is_/same_as :: [[/_public/bio/Hydrothermal_Vent.public|Hydrothermal_Vent.public]] 
 
-### #is_/same_as :: [Hydrothermal_Vent.internal](/_internal/bio/Hydrothermal_Vent.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Hydrothermal_Vent.internal|Hydrothermal_Vent.internal]] 
 
-### #is_/same_as :: [Hydrothermal_Vent.protect](/_protect/bio/Hydrothermal_Vent.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Hydrothermal_Vent.protect|Hydrothermal_Vent.protect]] 
 
-### #is_/same_as :: [Hydrothermal_Vent.private](/_private/bio/Hydrothermal_Vent.private.md) 
+### #is_/same_as :: [[/_private/bio/Hydrothermal_Vent.private|Hydrothermal_Vent.private]] 
 
-### #is_/same_as :: [Hydrothermal_Vent.personal](/_personal/bio/Hydrothermal_Vent.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Hydrothermal_Vent.personal|Hydrothermal_Vent.personal]] 
 
-### #is_/same_as :: [Hydrothermal_Vent.secret](/_secret/bio/Hydrothermal_Vent.secret.md)
+### #is_/same_as :: [[/_secret/bio/Hydrothermal_Vent.secret|Hydrothermal_Vent.secret]] 
 

@@ -136,17 +136,17 @@ Krugosvet_article_archived_: kultura_i_obrazovanie/muzyka/SHTRAUS_RIHARD.html
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Strauss,Richard](/_Standards/Society/Communication/Media/Music/Composer/Strauss,Richard.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Composer/Strauss,Richard|Strauss,Richard]] 
 
-### #is_/same_as :: [Strauss,Richard.public](/_public/Society/Communication/Media/Music/Composer/Strauss,Richard.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Composer/Strauss,Richard.public|Strauss,Richard.public]] 
 
-### #is_/same_as :: [Strauss,Richard.internal](/_internal/Society/Communication/Media/Music/Composer/Strauss,Richard.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Composer/Strauss,Richard.internal|Strauss,Richard.internal]] 
 
-### #is_/same_as :: [Strauss,Richard.protect](/_protect/Society/Communication/Media/Music/Composer/Strauss,Richard.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Composer/Strauss,Richard.protect|Strauss,Richard.protect]] 
 
-### #is_/same_as :: [Strauss,Richard.private](/_private/Society/Communication/Media/Music/Composer/Strauss,Richard.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Composer/Strauss,Richard.private|Strauss,Richard.private]] 
 
-### #is_/same_as :: [Strauss,Richard.personal](/_personal/Society/Communication/Media/Music/Composer/Strauss,Richard.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Composer/Strauss,Richard.personal|Strauss,Richard.personal]] 
 
-### #is_/same_as :: [Strauss,Richard.secret](/_secret/Society/Communication/Media/Music/Composer/Strauss,Richard.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Composer/Strauss,Richard.secret|Strauss,Richard.secret]] 
 

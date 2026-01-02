@@ -36,17 +36,17 @@ has_place_continent:: [[Africa]]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FRENCH_WEST_AFRICA](/_Standards/Earth/Continent/Africa/Africa~West/FRENCH_WEST_AFRICA.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~West/FRENCH_WEST_AFRICA|FRENCH_WEST_AFRICA]] 
 
-### #is_/same_as :: [FRENCH_WEST_AFRICA.public](/_public/Earth/Continent/Africa/Africa~West/FRENCH_WEST_AFRICA.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~West/FRENCH_WEST_AFRICA.public|FRENCH_WEST_AFRICA.public]] 
 
-### #is_/same_as :: [FRENCH_WEST_AFRICA.internal](/_internal/Earth/Continent/Africa/Africa~West/FRENCH_WEST_AFRICA.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~West/FRENCH_WEST_AFRICA.internal|FRENCH_WEST_AFRICA.internal]] 
 
-### #is_/same_as :: [FRENCH_WEST_AFRICA.protect](/_protect/Earth/Continent/Africa/Africa~West/FRENCH_WEST_AFRICA.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~West/FRENCH_WEST_AFRICA.protect|FRENCH_WEST_AFRICA.protect]] 
 
-### #is_/same_as :: [FRENCH_WEST_AFRICA.private](/_private/Earth/Continent/Africa/Africa~West/FRENCH_WEST_AFRICA.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~West/FRENCH_WEST_AFRICA.private|FRENCH_WEST_AFRICA.private]] 
 
-### #is_/same_as :: [FRENCH_WEST_AFRICA.personal](/_personal/Earth/Continent/Africa/Africa~West/FRENCH_WEST_AFRICA.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~West/FRENCH_WEST_AFRICA.personal|FRENCH_WEST_AFRICA.personal]] 
 
-### #is_/same_as :: [FRENCH_WEST_AFRICA.secret](/_secret/Earth/Continent/Africa/Africa~West/FRENCH_WEST_AFRICA.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~West/FRENCH_WEST_AFRICA.secret|FRENCH_WEST_AFRICA.secret]] 
 

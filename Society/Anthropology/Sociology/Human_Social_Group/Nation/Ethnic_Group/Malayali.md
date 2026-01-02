@@ -33,17 +33,17 @@ Commons_category: Malayali people
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Malayali](/_Standards/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Malayali.md) 
+### #is_/same_as :: [[/_Standards/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Malayali|Malayali]] 
 
-### #is_/same_as :: [Malayali.public](/_public/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Malayali.public.md) 
+### #is_/same_as :: [[/_public/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Malayali.public|Malayali.public]] 
 
-### #is_/same_as :: [Malayali.internal](/_internal/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Malayali.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Malayali.internal|Malayali.internal]] 
 
-### #is_/same_as :: [Malayali.protect](/_protect/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Malayali.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Malayali.protect|Malayali.protect]] 
 
-### #is_/same_as :: [Malayali.private](/_private/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Malayali.private.md) 
+### #is_/same_as :: [[/_private/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Malayali.private|Malayali.private]] 
 
-### #is_/same_as :: [Malayali.personal](/_personal/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Malayali.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Malayali.personal|Malayali.personal]] 
 
-### #is_/same_as :: [Malayali.secret](/_secret/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Malayali.secret.md)
+### #is_/same_as :: [[/_secret/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Malayali.secret|Malayali.secret]] 
 

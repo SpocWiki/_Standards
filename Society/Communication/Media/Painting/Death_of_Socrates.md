@@ -85,17 +85,17 @@ inception: 1787-01-01T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Death_of_Socrates](/_Standards/Society/Communication/Media/Painting/Death_of_Socrates.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Painting/Death_of_Socrates|Death_of_Socrates]] 
 
-### #is_/same_as :: [Death_of_Socrates.public](/_public/Society/Communication/Media/Painting/Death_of_Socrates.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Painting/Death_of_Socrates.public|Death_of_Socrates.public]] 
 
-### #is_/same_as :: [Death_of_Socrates.internal](/_internal/Society/Communication/Media/Painting/Death_of_Socrates.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Painting/Death_of_Socrates.internal|Death_of_Socrates.internal]] 
 
-### #is_/same_as :: [Death_of_Socrates.protect](/_protect/Society/Communication/Media/Painting/Death_of_Socrates.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Painting/Death_of_Socrates.protect|Death_of_Socrates.protect]] 
 
-### #is_/same_as :: [Death_of_Socrates.private](/_private/Society/Communication/Media/Painting/Death_of_Socrates.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Painting/Death_of_Socrates.private|Death_of_Socrates.private]] 
 
-### #is_/same_as :: [Death_of_Socrates.personal](/_personal/Society/Communication/Media/Painting/Death_of_Socrates.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Painting/Death_of_Socrates.personal|Death_of_Socrates.personal]] 
 
-### #is_/same_as :: [Death_of_Socrates.secret](/_secret/Society/Communication/Media/Painting/Death_of_Socrates.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Painting/Death_of_Socrates.secret|Death_of_Socrates.secret]] 
 

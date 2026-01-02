@@ -255,17 +255,17 @@ IPI_base_code: I-002459487-2
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Miró,Joan](/_Standards/Society/Communication/Media/Painting/Painter/Miró,Joan.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Painting/Painter/Miró,Joan|Miró,Joan]] 
 
-### #is_/same_as :: [Miró,Joan.public](/_public/Society/Communication/Media/Painting/Painter/Miró,Joan.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Painting/Painter/Miró,Joan.public|Miró,Joan.public]] 
 
-### #is_/same_as :: [Miró,Joan.internal](/_internal/Society/Communication/Media/Painting/Painter/Miró,Joan.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Painting/Painter/Miró,Joan.internal|Miró,Joan.internal]] 
 
-### #is_/same_as :: [Miró,Joan.protect](/_protect/Society/Communication/Media/Painting/Painter/Miró,Joan.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Painting/Painter/Miró,Joan.protect|Miró,Joan.protect]] 
 
-### #is_/same_as :: [Miró,Joan.private](/_private/Society/Communication/Media/Painting/Painter/Miró,Joan.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Painting/Painter/Miró,Joan.private|Miró,Joan.private]] 
 
-### #is_/same_as :: [Miró,Joan.personal](/_personal/Society/Communication/Media/Painting/Painter/Miró,Joan.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Painting/Painter/Miró,Joan.personal|Miró,Joan.personal]] 
 
-### #is_/same_as :: [Miró,Joan.secret](/_secret/Society/Communication/Media/Painting/Painter/Miró,Joan.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Painting/Painter/Miró,Joan.secret|Miró,Joan.secret]] 
 

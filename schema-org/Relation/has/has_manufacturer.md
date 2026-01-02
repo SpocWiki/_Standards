@@ -41,17 +41,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_manufacturer](/_Standards/schema-org/Relation/has/has_manufacturer.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_manufacturer|has_manufacturer]] 
 
-### #is_/same_as :: [has_manufacturer.public](/_public/schema-org/Relation/has/has_manufacturer.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_manufacturer.public|has_manufacturer.public]] 
 
-### #is_/same_as :: [has_manufacturer.internal](/_internal/schema-org/Relation/has/has_manufacturer.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_manufacturer.internal|has_manufacturer.internal]] 
 
-### #is_/same_as :: [has_manufacturer.protect](/_protect/schema-org/Relation/has/has_manufacturer.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_manufacturer.protect|has_manufacturer.protect]] 
 
-### #is_/same_as :: [has_manufacturer.private](/_private/schema-org/Relation/has/has_manufacturer.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_manufacturer.private|has_manufacturer.private]] 
 
-### #is_/same_as :: [has_manufacturer.personal](/_personal/schema-org/Relation/has/has_manufacturer.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_manufacturer.personal|has_manufacturer.personal]] 
 
-### #is_/same_as :: [has_manufacturer.secret](/_secret/schema-org/Relation/has/has_manufacturer.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_manufacturer.secret|has_manufacturer.secret]] 
 

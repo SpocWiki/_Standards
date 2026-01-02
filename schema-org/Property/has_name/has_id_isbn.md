@@ -46,17 +46,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_id_isbn](/_Standards/schema-org/Property/has_name/has_id_isbn.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_name/has_id_isbn|has_id_isbn]] 
 
-### #is_/same_as :: [has_id_isbn.public](/_public/schema-org/Property/has_name/has_id_isbn.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/has_name/has_id_isbn.public|has_id_isbn.public]] 
 
-### #is_/same_as :: [has_id_isbn.internal](/_internal/schema-org/Property/has_name/has_id_isbn.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_name/has_id_isbn.internal|has_id_isbn.internal]] 
 
-### #is_/same_as :: [has_id_isbn.protect](/_protect/schema-org/Property/has_name/has_id_isbn.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_name/has_id_isbn.protect|has_id_isbn.protect]] 
 
-### #is_/same_as :: [has_id_isbn.private](/_private/schema-org/Property/has_name/has_id_isbn.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/has_name/has_id_isbn.private|has_id_isbn.private]] 
 
-### #is_/same_as :: [has_id_isbn.personal](/_personal/schema-org/Property/has_name/has_id_isbn.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_name/has_id_isbn.personal|has_id_isbn.personal]] 
 
-### #is_/same_as :: [has_id_isbn.secret](/_secret/schema-org/Property/has_name/has_id_isbn.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/has_name/has_id_isbn.secret|has_id_isbn.secret]] 
 

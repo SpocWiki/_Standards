@@ -25,13 +25,13 @@ title: Helicobasidium mompa
 -   » Sub-Groups 
 
 # *Helicobasidium mompa* [Tanaka] 
-![ ](Helicobasidium_mompa/hm.jpg))
+![ ](Helicobasidium_mompa/hm.jpg) 
 
 Containing group:[Helicobasidiales](../Helicobasidiales.md) 
 
 ## Title Illustrations
 
-![](Helicobasidium_mompa/hm.jpg))
+![](Helicobasidium_mompa/hm.jpg) 
 
   -----------------------------------------------------------------------------
   Scientific Name ::     Helicobasidium mompa Tanaka on the roots of Picea abies (L.) Karst.
@@ -47,17 +47,17 @@ Containing group:[Helicobasidiales](../Helicobasidiales.md)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Helicobasidium_mompa](/_Standards/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Pucciniomycotina/Helicobasidiales/Helicobasidium_mompa.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Pucciniomycotina/Helicobasidiales/Helicobasidium_mompa|Helicobasidium_mompa]] 
 
-### #is_/same_as :: [Helicobasidium_mompa.public](/_public/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Pucciniomycotina/Helicobasidiales/Helicobasidium_mompa.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Pucciniomycotina/Helicobasidiales/Helicobasidium_mompa.public|Helicobasidium_mompa.public]] 
 
-### #is_/same_as :: [Helicobasidium_mompa.internal](/_internal/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Pucciniomycotina/Helicobasidiales/Helicobasidium_mompa.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Pucciniomycotina/Helicobasidiales/Helicobasidium_mompa.internal|Helicobasidium_mompa.internal]] 
 
-### #is_/same_as :: [Helicobasidium_mompa.protect](/_protect/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Pucciniomycotina/Helicobasidiales/Helicobasidium_mompa.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Pucciniomycotina/Helicobasidiales/Helicobasidium_mompa.protect|Helicobasidium_mompa.protect]] 
 
-### #is_/same_as :: [Helicobasidium_mompa.private](/_private/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Pucciniomycotina/Helicobasidiales/Helicobasidium_mompa.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Pucciniomycotina/Helicobasidiales/Helicobasidium_mompa.private|Helicobasidium_mompa.private]] 
 
-### #is_/same_as :: [Helicobasidium_mompa.personal](/_personal/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Pucciniomycotina/Helicobasidiales/Helicobasidium_mompa.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Pucciniomycotina/Helicobasidiales/Helicobasidium_mompa.personal|Helicobasidium_mompa.personal]] 
 
-### #is_/same_as :: [Helicobasidium_mompa.secret](/_secret/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Pucciniomycotina/Helicobasidiales/Helicobasidium_mompa.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Pucciniomycotina/Helicobasidiales/Helicobasidium_mompa.secret|Helicobasidium_mompa.secret]] 
 

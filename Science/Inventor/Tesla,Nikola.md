@@ -188,17 +188,17 @@ writing_language: '[[_Standards/WikiData/WD~English,1860]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Tesla,Nikola](/_Standards/Science/Inventor/Tesla,Nikola.md) 
+### #is_/same_as :: [[/_Standards/Science/Inventor/Tesla,Nikola|Tesla,Nikola]] 
 
-### #is_/same_as :: [Tesla,Nikola.public](/_public/Science/Inventor/Tesla,Nikola.public.md) 
+### #is_/same_as :: [[/_public/Science/Inventor/Tesla,Nikola.public|Tesla,Nikola.public]] 
 
-### #is_/same_as :: [Tesla,Nikola.internal](/_internal/Science/Inventor/Tesla,Nikola.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Inventor/Tesla,Nikola.internal|Tesla,Nikola.internal]] 
 
-### #is_/same_as :: [Tesla,Nikola.protect](/_protect/Science/Inventor/Tesla,Nikola.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Inventor/Tesla,Nikola.protect|Tesla,Nikola.protect]] 
 
-### #is_/same_as :: [Tesla,Nikola.private](/_private/Science/Inventor/Tesla,Nikola.private.md) 
+### #is_/same_as :: [[/_private/Science/Inventor/Tesla,Nikola.private|Tesla,Nikola.private]] 
 
-### #is_/same_as :: [Tesla,Nikola.personal](/_personal/Science/Inventor/Tesla,Nikola.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Inventor/Tesla,Nikola.personal|Tesla,Nikola.personal]] 
 
-### #is_/same_as :: [Tesla,Nikola.secret](/_secret/Science/Inventor/Tesla,Nikola.secret.md)
+### #is_/same_as :: [[/_secret/Science/Inventor/Tesla,Nikola.secret|Tesla,Nikola.secret]] 
 

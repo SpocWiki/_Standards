@@ -50,17 +50,17 @@ coordinate_location: Point(2.335861111 48.861)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Louvre_Pyramid](/_Standards/Earth/Geography/Place/Louvre_Pyramid.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geography/Place/Louvre_Pyramid|Louvre_Pyramid]] 
 
-### #is_/same_as :: [Louvre_Pyramid.public](/_public/Earth/Geography/Place/Louvre_Pyramid.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geography/Place/Louvre_Pyramid.public|Louvre_Pyramid.public]] 
 
-### #is_/same_as :: [Louvre_Pyramid.internal](/_internal/Earth/Geography/Place/Louvre_Pyramid.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geography/Place/Louvre_Pyramid.internal|Louvre_Pyramid.internal]] 
 
-### #is_/same_as :: [Louvre_Pyramid.protect](/_protect/Earth/Geography/Place/Louvre_Pyramid.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geography/Place/Louvre_Pyramid.protect|Louvre_Pyramid.protect]] 
 
-### #is_/same_as :: [Louvre_Pyramid.private](/_private/Earth/Geography/Place/Louvre_Pyramid.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geography/Place/Louvre_Pyramid.private|Louvre_Pyramid.private]] 
 
-### #is_/same_as :: [Louvre_Pyramid.personal](/_personal/Earth/Geography/Place/Louvre_Pyramid.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geography/Place/Louvre_Pyramid.personal|Louvre_Pyramid.personal]] 
 
-### #is_/same_as :: [Louvre_Pyramid.secret](/_secret/Earth/Geography/Place/Louvre_Pyramid.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geography/Place/Louvre_Pyramid.secret|Louvre_Pyramid.secret]] 
 

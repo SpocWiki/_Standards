@@ -97,17 +97,17 @@ ReleaseOf:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thi
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~MusicRelease](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MusicPlaylist/FileClass~MusicRelease.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MusicPlaylist/FileClass~MusicRelease|FileClass~MusicRelease]] 
 
-### #is_/same_as :: [FileClass~MusicRelease.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MusicPlaylist/FileClass~MusicRelease.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MusicPlaylist/FileClass~MusicRelease.public|FileClass~MusicRelease.public]] 
 
-### #is_/same_as :: [FileClass~MusicRelease.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MusicPlaylist/FileClass~MusicRelease.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MusicPlaylist/FileClass~MusicRelease.internal|FileClass~MusicRelease.internal]] 
 
-### #is_/same_as :: [FileClass~MusicRelease.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MusicPlaylist/FileClass~MusicRelease.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MusicPlaylist/FileClass~MusicRelease.protect|FileClass~MusicRelease.protect]] 
 
-### #is_/same_as :: [FileClass~MusicRelease.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MusicPlaylist/FileClass~MusicRelease.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MusicPlaylist/FileClass~MusicRelease.private|FileClass~MusicRelease.private]] 
 
-### #is_/same_as :: [FileClass~MusicRelease.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MusicPlaylist/FileClass~MusicRelease.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MusicPlaylist/FileClass~MusicRelease.personal|FileClass~MusicRelease.personal]] 
 
-### #is_/same_as :: [FileClass~MusicRelease.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MusicPlaylist/FileClass~MusicRelease.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MusicPlaylist/FileClass~MusicRelease.secret|FileClass~MusicRelease.secret]] 
 

@@ -12,17 +12,17 @@ type: LangFamily
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [LangFamily-Tai–Kadai](/_Standards/Language/Language_Family/LangFamily-Tai–Kadai.md) 
+### #is_/same_as :: [[/_Standards/Language/Language_Family/LangFamily-Tai–Kadai|LangFamily-Tai–Kadai]] 
 
-### #is_/same_as :: [LangFamily-Tai–Kadai.public](/_public/Language/Language_Family/LangFamily-Tai–Kadai.public.md) 
+### #is_/same_as :: [[/_public/Language/Language_Family/LangFamily-Tai–Kadai.public|LangFamily-Tai–Kadai.public]] 
 
-### #is_/same_as :: [LangFamily-Tai–Kadai.internal](/_internal/Language/Language_Family/LangFamily-Tai–Kadai.internal.md) 
+### #is_/same_as :: [[/_internal/Language/Language_Family/LangFamily-Tai–Kadai.internal|LangFamily-Tai–Kadai.internal]] 
 
-### #is_/same_as :: [LangFamily-Tai–Kadai.protect](/_protect/Language/Language_Family/LangFamily-Tai–Kadai.protect.md) 
+### #is_/same_as :: [[/_protect/Language/Language_Family/LangFamily-Tai–Kadai.protect|LangFamily-Tai–Kadai.protect]] 
 
-### #is_/same_as :: [LangFamily-Tai–Kadai.private](/_private/Language/Language_Family/LangFamily-Tai–Kadai.private.md) 
+### #is_/same_as :: [[/_private/Language/Language_Family/LangFamily-Tai–Kadai.private|LangFamily-Tai–Kadai.private]] 
 
-### #is_/same_as :: [LangFamily-Tai–Kadai.personal](/_personal/Language/Language_Family/LangFamily-Tai–Kadai.personal.md) 
+### #is_/same_as :: [[/_personal/Language/Language_Family/LangFamily-Tai–Kadai.personal|LangFamily-Tai–Kadai.personal]] 
 
-### #is_/same_as :: [LangFamily-Tai–Kadai.secret](/_secret/Language/Language_Family/LangFamily-Tai–Kadai.secret.md)
+### #is_/same_as :: [[/_secret/Language/Language_Family/LangFamily-Tai–Kadai.secret|LangFamily-Tai–Kadai.secret]] 
 

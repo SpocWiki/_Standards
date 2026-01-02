@@ -54,17 +54,17 @@ image:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Exotic_Hadron](/_Standards/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron/Exotic_Hadron.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron/Exotic_Hadron|Exotic_Hadron]] 
 
-### #is_/same_as :: [Exotic_Hadron.public](/_public/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron/Exotic_Hadron.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron/Exotic_Hadron.public|Exotic_Hadron.public]] 
 
-### #is_/same_as :: [Exotic_Hadron.internal](/_internal/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron/Exotic_Hadron.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron/Exotic_Hadron.internal|Exotic_Hadron.internal]] 
 
-### #is_/same_as :: [Exotic_Hadron.protect](/_protect/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron/Exotic_Hadron.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron/Exotic_Hadron.protect|Exotic_Hadron.protect]] 
 
-### #is_/same_as :: [Exotic_Hadron.private](/_private/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron/Exotic_Hadron.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron/Exotic_Hadron.private|Exotic_Hadron.private]] 
 
-### #is_/same_as :: [Exotic_Hadron.personal](/_personal/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron/Exotic_Hadron.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron/Exotic_Hadron.personal|Exotic_Hadron.personal]] 
 
-### #is_/same_as :: [Exotic_Hadron.secret](/_secret/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron/Exotic_Hadron.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron/Exotic_Hadron.secret|Exotic_Hadron.secret]] 
 

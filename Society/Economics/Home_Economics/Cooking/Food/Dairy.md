@@ -40,17 +40,17 @@ subclass_of:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Dairy](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Dairy.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Home_Economics/Cooking/Food/Dairy|Dairy]] 
 
-### #is_/same_as :: [Dairy.public](/_public/Society/Economics/Home_Economics/Cooking/Food/Dairy.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Home_Economics/Cooking/Food/Dairy.public|Dairy.public]] 
 
-### #is_/same_as :: [Dairy.internal](/_internal/Society/Economics/Home_Economics/Cooking/Food/Dairy.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Home_Economics/Cooking/Food/Dairy.internal|Dairy.internal]] 
 
-### #is_/same_as :: [Dairy.protect](/_protect/Society/Economics/Home_Economics/Cooking/Food/Dairy.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Home_Economics/Cooking/Food/Dairy.protect|Dairy.protect]] 
 
-### #is_/same_as :: [Dairy.private](/_private/Society/Economics/Home_Economics/Cooking/Food/Dairy.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Home_Economics/Cooking/Food/Dairy.private|Dairy.private]] 
 
-### #is_/same_as :: [Dairy.personal](/_personal/Society/Economics/Home_Economics/Cooking/Food/Dairy.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Home_Economics/Cooking/Food/Dairy.personal|Dairy.personal]] 
 
-### #is_/same_as :: [Dairy.secret](/_secret/Society/Economics/Home_Economics/Cooking/Food/Dairy.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Home_Economics/Cooking/Food/Dairy.secret|Dairy.secret]] 
 

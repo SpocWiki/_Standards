@@ -39,17 +39,17 @@ instance_of: '[[_Standards/WikiData/WD~type_of_war,124867660]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Total_War](/_Standards/Society/Military/Military_Operation/Combat/War/Total_War.md) 
+### #is_/same_as :: [[/_Standards/Society/Military/Military_Operation/Combat/War/Total_War|Total_War]] 
 
-### #is_/same_as :: [Total_War.public](/_public/Society/Military/Military_Operation/Combat/War/Total_War.public.md) 
+### #is_/same_as :: [[/_public/Society/Military/Military_Operation/Combat/War/Total_War.public|Total_War.public]] 
 
-### #is_/same_as :: [Total_War.internal](/_internal/Society/Military/Military_Operation/Combat/War/Total_War.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Military/Military_Operation/Combat/War/Total_War.internal|Total_War.internal]] 
 
-### #is_/same_as :: [Total_War.protect](/_protect/Society/Military/Military_Operation/Combat/War/Total_War.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Military/Military_Operation/Combat/War/Total_War.protect|Total_War.protect]] 
 
-### #is_/same_as :: [Total_War.private](/_private/Society/Military/Military_Operation/Combat/War/Total_War.private.md) 
+### #is_/same_as :: [[/_private/Society/Military/Military_Operation/Combat/War/Total_War.private|Total_War.private]] 
 
-### #is_/same_as :: [Total_War.personal](/_personal/Society/Military/Military_Operation/Combat/War/Total_War.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Military/Military_Operation/Combat/War/Total_War.personal|Total_War.personal]] 
 
-### #is_/same_as :: [Total_War.secret](/_secret/Society/Military/Military_Operation/Combat/War/Total_War.secret.md)
+### #is_/same_as :: [[/_secret/Society/Military/Military_Operation/Combat/War/Total_War.secret|Total_War.secret]] 
 

@@ -46,17 +46,17 @@ topic_s_main_template: '[[_Standards/WikiData/WD~Q95622972,95622972]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Afterlife](/_Standards/Philosophy/Metaphysic/Religion/Mythology/Afterlife.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Mythology/Afterlife|Afterlife]] 
 
-### #is_/same_as :: [Afterlife.public](/_public/Philosophy/Metaphysic/Religion/Mythology/Afterlife.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Mythology/Afterlife.public|Afterlife.public]] 
 
-### #is_/same_as :: [Afterlife.internal](/_internal/Philosophy/Metaphysic/Religion/Mythology/Afterlife.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Mythology/Afterlife.internal|Afterlife.internal]] 
 
-### #is_/same_as :: [Afterlife.protect](/_protect/Philosophy/Metaphysic/Religion/Mythology/Afterlife.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Mythology/Afterlife.protect|Afterlife.protect]] 
 
-### #is_/same_as :: [Afterlife.private](/_private/Philosophy/Metaphysic/Religion/Mythology/Afterlife.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Mythology/Afterlife.private|Afterlife.private]] 
 
-### #is_/same_as :: [Afterlife.personal](/_personal/Philosophy/Metaphysic/Religion/Mythology/Afterlife.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Mythology/Afterlife.personal|Afterlife.personal]] 
 
-### #is_/same_as :: [Afterlife.secret](/_secret/Philosophy/Metaphysic/Religion/Mythology/Afterlife.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Mythology/Afterlife.secret|Afterlife.secret]] 
 

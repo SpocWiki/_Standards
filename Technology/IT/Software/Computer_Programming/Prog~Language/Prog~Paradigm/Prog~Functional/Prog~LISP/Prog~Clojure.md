@@ -55,17 +55,17 @@ type: folder_brief_live
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Prog~Clojure](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~LISP/Prog~Clojure.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~LISP/Prog~Clojure|Prog~Clojure]] 
 
-### #is_/same_as :: [Prog~Clojure.public](/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~LISP/Prog~Clojure.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~LISP/Prog~Clojure.public|Prog~Clojure.public]] 
 
-### #is_/same_as :: [Prog~Clojure.internal](/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~LISP/Prog~Clojure.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~LISP/Prog~Clojure.internal|Prog~Clojure.internal]] 
 
-### #is_/same_as :: [Prog~Clojure.protect](/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~LISP/Prog~Clojure.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~LISP/Prog~Clojure.protect|Prog~Clojure.protect]] 
 
-### #is_/same_as :: [Prog~Clojure.private](/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~LISP/Prog~Clojure.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~LISP/Prog~Clojure.private|Prog~Clojure.private]] 
 
-### #is_/same_as :: [Prog~Clojure.personal](/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~LISP/Prog~Clojure.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~LISP/Prog~Clojure.personal|Prog~Clojure.personal]] 
 
-### #is_/same_as :: [Prog~Clojure.secret](/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~LISP/Prog~Clojure.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~LISP/Prog~Clojure.secret|Prog~Clojure.secret]] 
 

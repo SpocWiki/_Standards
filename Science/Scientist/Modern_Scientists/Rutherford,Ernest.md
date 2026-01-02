@@ -225,17 +225,17 @@ writing_language: '[[_Standards/WikiData/WD~English,1860]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Rutherford,Ernest](/_Standards/Science/Scientist/Modern_Scientists/Rutherford,Ernest.md) 
+### #is_/same_as :: [[/_Standards/Science/Scientist/Modern_Scientists/Rutherford,Ernest|Rutherford,Ernest]] 
 
-### #is_/same_as :: [Rutherford,Ernest.public](/_public/Science/Scientist/Modern_Scientists/Rutherford,Ernest.public.md) 
+### #is_/same_as :: [[/_public/Science/Scientist/Modern_Scientists/Rutherford,Ernest.public|Rutherford,Ernest.public]] 
 
-### #is_/same_as :: [Rutherford,Ernest.internal](/_internal/Science/Scientist/Modern_Scientists/Rutherford,Ernest.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Scientist/Modern_Scientists/Rutherford,Ernest.internal|Rutherford,Ernest.internal]] 
 
-### #is_/same_as :: [Rutherford,Ernest.protect](/_protect/Science/Scientist/Modern_Scientists/Rutherford,Ernest.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Scientist/Modern_Scientists/Rutherford,Ernest.protect|Rutherford,Ernest.protect]] 
 
-### #is_/same_as :: [Rutherford,Ernest.private](/_private/Science/Scientist/Modern_Scientists/Rutherford,Ernest.private.md) 
+### #is_/same_as :: [[/_private/Science/Scientist/Modern_Scientists/Rutherford,Ernest.private|Rutherford,Ernest.private]] 
 
-### #is_/same_as :: [Rutherford,Ernest.personal](/_personal/Science/Scientist/Modern_Scientists/Rutherford,Ernest.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Scientist/Modern_Scientists/Rutherford,Ernest.personal|Rutherford,Ernest.personal]] 
 
-### #is_/same_as :: [Rutherford,Ernest.secret](/_secret/Science/Scientist/Modern_Scientists/Rutherford,Ernest.secret.md)
+### #is_/same_as :: [[/_secret/Science/Scientist/Modern_Scientists/Rutherford,Ernest.secret|Rutherford,Ernest.secret]] 
 

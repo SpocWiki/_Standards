@@ -418,17 +418,17 @@ For more Details, check out this Repository into this Subfolder:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lesotho](/_Standards/Earth/Continent/Africa/Africa~South/Lesotho.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~South/Lesotho|Lesotho]] 
 
-### #is_/same_as :: [Lesotho.public](/_public/Earth/Continent/Africa/Africa~South/Lesotho.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~South/Lesotho.public|Lesotho.public]] 
 
-### #is_/same_as :: [Lesotho.internal](/_internal/Earth/Continent/Africa/Africa~South/Lesotho.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~South/Lesotho.internal|Lesotho.internal]] 
 
-### #is_/same_as :: [Lesotho.protect](/_protect/Earth/Continent/Africa/Africa~South/Lesotho.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~South/Lesotho.protect|Lesotho.protect]] 
 
-### #is_/same_as :: [Lesotho.private](/_private/Earth/Continent/Africa/Africa~South/Lesotho.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~South/Lesotho.private|Lesotho.private]] 
 
-### #is_/same_as :: [Lesotho.personal](/_personal/Earth/Continent/Africa/Africa~South/Lesotho.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~South/Lesotho.personal|Lesotho.personal]] 
 
-### #is_/same_as :: [Lesotho.secret](/_secret/Earth/Continent/Africa/Africa~South/Lesotho.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~South/Lesotho.secret|Lesotho.secret]] 
 

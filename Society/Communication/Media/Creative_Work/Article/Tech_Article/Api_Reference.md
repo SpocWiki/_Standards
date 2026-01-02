@@ -41,17 +41,17 @@ Reference documentation for application programming interfaces (APIs).
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Api_Reference](/_Standards/Society/Communication/Media/Creative_Work/Article/Tech_Article/Api_Reference.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Creative_Work/Article/Tech_Article/Api_Reference|Api_Reference]] 
 
-### #is_/same_as :: [Api_Reference.public](/_public/Society/Communication/Media/Creative_Work/Article/Tech_Article/Api_Reference.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Creative_Work/Article/Tech_Article/Api_Reference.public|Api_Reference.public]] 
 
-### #is_/same_as :: [Api_Reference.internal](/_internal/Society/Communication/Media/Creative_Work/Article/Tech_Article/Api_Reference.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Creative_Work/Article/Tech_Article/Api_Reference.internal|Api_Reference.internal]] 
 
-### #is_/same_as :: [Api_Reference.protect](/_protect/Society/Communication/Media/Creative_Work/Article/Tech_Article/Api_Reference.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Creative_Work/Article/Tech_Article/Api_Reference.protect|Api_Reference.protect]] 
 
-### #is_/same_as :: [Api_Reference.private](/_private/Society/Communication/Media/Creative_Work/Article/Tech_Article/Api_Reference.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Creative_Work/Article/Tech_Article/Api_Reference.private|Api_Reference.private]] 
 
-### #is_/same_as :: [Api_Reference.personal](/_personal/Society/Communication/Media/Creative_Work/Article/Tech_Article/Api_Reference.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/Article/Tech_Article/Api_Reference.personal|Api_Reference.personal]] 
 
-### #is_/same_as :: [Api_Reference.secret](/_secret/Society/Communication/Media/Creative_Work/Article/Tech_Article/Api_Reference.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Article/Tech_Article/Api_Reference.secret|Api_Reference.secret]] 
 

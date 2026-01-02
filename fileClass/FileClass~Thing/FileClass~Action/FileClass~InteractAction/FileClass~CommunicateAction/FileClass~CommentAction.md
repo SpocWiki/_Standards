@@ -48,17 +48,17 @@ ResultComment:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~CommentAction](/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~CommunicateAction/FileClass~CommentAction.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~CommunicateAction/FileClass~CommentAction|FileClass~CommentAction]] 
 
-### #is_/same_as :: [FileClass~CommentAction.public](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~CommunicateAction/FileClass~CommentAction.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~CommunicateAction/FileClass~CommentAction.public|FileClass~CommentAction.public]] 
 
-### #is_/same_as :: [FileClass~CommentAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~CommunicateAction/FileClass~CommentAction.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~CommunicateAction/FileClass~CommentAction.internal|FileClass~CommentAction.internal]] 
 
-### #is_/same_as :: [FileClass~CommentAction.protect](/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~CommunicateAction/FileClass~CommentAction.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~CommunicateAction/FileClass~CommentAction.protect|FileClass~CommentAction.protect]] 
 
-### #is_/same_as :: [FileClass~CommentAction.private](/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~CommunicateAction/FileClass~CommentAction.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~CommunicateAction/FileClass~CommentAction.private|FileClass~CommentAction.private]] 
 
-### #is_/same_as :: [FileClass~CommentAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~CommunicateAction/FileClass~CommentAction.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~CommunicateAction/FileClass~CommentAction.personal|FileClass~CommentAction.personal]] 
 
-### #is_/same_as :: [FileClass~CommentAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~CommunicateAction/FileClass~CommentAction.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~CommunicateAction/FileClass~CommentAction.secret|FileClass~CommentAction.secret]] 
 

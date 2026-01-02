@@ -18,17 +18,17 @@ markerFile: [[Islands-Malay]]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Islands-Malay](/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Islands-Malay.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Islands-Malay|Islands-Malay]] 
 
-### #is_/same_as :: [Islands-Malay.public](/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Islands-Malay.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Islands-Malay.public|Islands-Malay.public]] 
 
-### #is_/same_as :: [Islands-Malay.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Islands-Malay.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Islands-Malay.internal|Islands-Malay.internal]] 
 
-### #is_/same_as :: [Islands-Malay.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Islands-Malay.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Islands-Malay.protect|Islands-Malay.protect]] 
 
-### #is_/same_as :: [Islands-Malay.private](/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Islands-Malay.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Islands-Malay.private|Islands-Malay.private]] 
 
-### #is_/same_as :: [Islands-Malay.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Islands-Malay.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Islands-Malay.personal|Islands-Malay.personal]] 
 
-### #is_/same_as :: [Islands-Malay.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Islands-Malay.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Islands-Malay.secret|Islands-Malay.secret]] 
 

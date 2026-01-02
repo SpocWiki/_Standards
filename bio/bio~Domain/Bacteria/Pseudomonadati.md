@@ -20,17 +20,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Pseudomonadati](/_Standards/bio/bio~Domain/Bacteria/Pseudomonadati.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Bacteria/Pseudomonadati|Pseudomonadati]] 
 
-### #is_/same_as :: [Pseudomonadati.public](/_public/bio/bio~Domain/Bacteria/Pseudomonadati.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Bacteria/Pseudomonadati.public|Pseudomonadati.public]] 
 
-### #is_/same_as :: [Pseudomonadati.internal](/_internal/bio/bio~Domain/Bacteria/Pseudomonadati.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Bacteria/Pseudomonadati.internal|Pseudomonadati.internal]] 
 
-### #is_/same_as :: [Pseudomonadati.protect](/_protect/bio/bio~Domain/Bacteria/Pseudomonadati.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Bacteria/Pseudomonadati.protect|Pseudomonadati.protect]] 
 
-### #is_/same_as :: [Pseudomonadati.private](/_private/bio/bio~Domain/Bacteria/Pseudomonadati.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Bacteria/Pseudomonadati.private|Pseudomonadati.private]] 
 
-### #is_/same_as :: [Pseudomonadati.personal](/_personal/bio/bio~Domain/Bacteria/Pseudomonadati.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Bacteria/Pseudomonadati.personal|Pseudomonadati.personal]] 
 
-### #is_/same_as :: [Pseudomonadati.secret](/_secret/bio/bio~Domain/Bacteria/Pseudomonadati.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Bacteria/Pseudomonadati.secret|Pseudomonadati.secret]] 
 

@@ -85,17 +85,17 @@ RTECS_number: LX3300000
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Gasoline](/_Standards/Chemistry/Material/Fuel/Gasoline.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Material/Fuel/Fossil_Fuel/Gasoline|Gasoline]] 
 
-### #is_/same_as :: [Gasoline.public](/_public/Chemistry/Material/Fuel/Gasoline.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Material/Fuel/Fossil_Fuel/Gasoline.public|Gasoline.public]] 
 
-### #is_/same_as :: [Gasoline.internal](/_internal/Chemistry/Material/Fuel/Gasoline.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Material/Fuel/Fossil_Fuel/Gasoline.internal|Gasoline.internal]] 
 
-### #is_/same_as :: [Gasoline.protect](/_protect/Chemistry/Material/Fuel/Gasoline.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Material/Fuel/Fossil_Fuel/Gasoline.protect|Gasoline.protect]] 
 
-### #is_/same_as :: [Gasoline.private](/_private/Chemistry/Material/Fuel/Gasoline.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Material/Fuel/Fossil_Fuel/Gasoline.private|Gasoline.private]] 
 
-### #is_/same_as :: [Gasoline.personal](/_personal/Chemistry/Material/Fuel/Gasoline.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Material/Fuel/Fossil_Fuel/Gasoline.personal|Gasoline.personal]] 
 
-### #is_/same_as :: [Gasoline.secret](/_secret/Chemistry/Material/Fuel/Gasoline.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Material/Fuel/Fossil_Fuel/Gasoline.secret|Gasoline.secret]] 
 

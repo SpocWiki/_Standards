@@ -54,17 +54,17 @@ IMDb_keyword: crying
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Crying](/_Standards/bio/Psychology/Affect/Emotion/Crying.md) 
+### #is_/same_as :: [[/_Standards/bio/Psychology/Affect/Emotion/Crying|Crying]] 
 
-### #is_/same_as :: [Crying.public](/_public/bio/Psychology/Affect/Emotion/Crying.public.md) 
+### #is_/same_as :: [[/_public/bio/Psychology/Affect/Emotion/Crying.public|Crying.public]] 
 
-### #is_/same_as :: [Crying.internal](/_internal/bio/Psychology/Affect/Emotion/Crying.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Psychology/Affect/Emotion/Crying.internal|Crying.internal]] 
 
-### #is_/same_as :: [Crying.protect](/_protect/bio/Psychology/Affect/Emotion/Crying.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Psychology/Affect/Emotion/Crying.protect|Crying.protect]] 
 
-### #is_/same_as :: [Crying.private](/_private/bio/Psychology/Affect/Emotion/Crying.private.md) 
+### #is_/same_as :: [[/_private/bio/Psychology/Affect/Emotion/Crying.private|Crying.private]] 
 
-### #is_/same_as :: [Crying.personal](/_personal/bio/Psychology/Affect/Emotion/Crying.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Psychology/Affect/Emotion/Crying.personal|Crying.personal]] 
 
-### #is_/same_as :: [Crying.secret](/_secret/bio/Psychology/Affect/Emotion/Crying.secret.md)
+### #is_/same_as :: [[/_secret/bio/Psychology/Affect/Emotion/Crying.secret|Crying.secret]] 
 

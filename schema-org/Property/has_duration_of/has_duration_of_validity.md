@@ -42,17 +42,17 @@ Formal Predicate:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_duration_of_validity](/_Standards/schema-org/Property/has_duration_of/has_duration_of_validity.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_duration_of/has_duration_of_validity|has_duration_of_validity]] 
 
-### #is_/same_as :: [has_duration_of_validity.public](/_public/schema-org/Property/has_duration_of/has_duration_of_validity.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/has_duration_of/has_duration_of_validity.public|has_duration_of_validity.public]] 
 
-### #is_/same_as :: [has_duration_of_validity.internal](/_internal/schema-org/Property/has_duration_of/has_duration_of_validity.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_duration_of/has_duration_of_validity.internal|has_duration_of_validity.internal]] 
 
-### #is_/same_as :: [has_duration_of_validity.protect](/_protect/schema-org/Property/has_duration_of/has_duration_of_validity.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_duration_of/has_duration_of_validity.protect|has_duration_of_validity.protect]] 
 
-### #is_/same_as :: [has_duration_of_validity.private](/_private/schema-org/Property/has_duration_of/has_duration_of_validity.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/has_duration_of/has_duration_of_validity.private|has_duration_of_validity.private]] 
 
-### #is_/same_as :: [has_duration_of_validity.personal](/_personal/schema-org/Property/has_duration_of/has_duration_of_validity.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_duration_of/has_duration_of_validity.personal|has_duration_of_validity.personal]] 
 
-### #is_/same_as :: [has_duration_of_validity.secret](/_secret/schema-org/Property/has_duration_of/has_duration_of_validity.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/has_duration_of/has_duration_of_validity.secret|has_duration_of_validity.secret]] 
 

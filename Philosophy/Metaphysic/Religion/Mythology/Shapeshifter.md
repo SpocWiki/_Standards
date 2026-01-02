@@ -38,17 +38,17 @@ Commons_category: Shapeshifting
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Shapeshifter](/_Standards/Philosophy/Metaphysic/Religion/Mythology/Shapeshifter.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Mythology/Shapeshifter|Shapeshifter]] 
 
-### #is_/same_as :: [Shapeshifter.public](/_public/Philosophy/Metaphysic/Religion/Mythology/Shapeshifter.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Mythology/Shapeshifter.public|Shapeshifter.public]] 
 
-### #is_/same_as :: [Shapeshifter.internal](/_internal/Philosophy/Metaphysic/Religion/Mythology/Shapeshifter.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Mythology/Shapeshifter.internal|Shapeshifter.internal]] 
 
-### #is_/same_as :: [Shapeshifter.protect](/_protect/Philosophy/Metaphysic/Religion/Mythology/Shapeshifter.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Mythology/Shapeshifter.protect|Shapeshifter.protect]] 
 
-### #is_/same_as :: [Shapeshifter.private](/_private/Philosophy/Metaphysic/Religion/Mythology/Shapeshifter.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Mythology/Shapeshifter.private|Shapeshifter.private]] 
 
-### #is_/same_as :: [Shapeshifter.personal](/_personal/Philosophy/Metaphysic/Religion/Mythology/Shapeshifter.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Mythology/Shapeshifter.personal|Shapeshifter.personal]] 
 
-### #is_/same_as :: [Shapeshifter.secret](/_secret/Philosophy/Metaphysic/Religion/Mythology/Shapeshifter.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Mythology/Shapeshifter.secret|Shapeshifter.secret]] 
 

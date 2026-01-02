@@ -194,17 +194,17 @@ PhilPapers_topic: karl-popper
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Popper,Karl](/_Standards/Philosophy/Philosopher/Modern_Philosopher/Popper,Karl.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Philosopher/Modern_Philosopher/Popper,Karl|Popper,Karl]] 
 
-### #is_/same_as :: [Popper,Karl.public](/_public/Philosophy/Philosopher/Modern_Philosopher/Popper,Karl.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Philosopher/Modern_Philosopher/Popper,Karl.public|Popper,Karl.public]] 
 
-### #is_/same_as :: [Popper,Karl.internal](/_internal/Philosophy/Philosopher/Modern_Philosopher/Popper,Karl.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Philosopher/Modern_Philosopher/Popper,Karl.internal|Popper,Karl.internal]] 
 
-### #is_/same_as :: [Popper,Karl.protect](/_protect/Philosophy/Philosopher/Modern_Philosopher/Popper,Karl.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Philosopher/Modern_Philosopher/Popper,Karl.protect|Popper,Karl.protect]] 
 
-### #is_/same_as :: [Popper,Karl.private](/_private/Philosophy/Philosopher/Modern_Philosopher/Popper,Karl.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Philosopher/Modern_Philosopher/Popper,Karl.private|Popper,Karl.private]] 
 
-### #is_/same_as :: [Popper,Karl.personal](/_personal/Philosophy/Philosopher/Modern_Philosopher/Popper,Karl.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Philosopher/Modern_Philosopher/Popper,Karl.personal|Popper,Karl.personal]] 
 
-### #is_/same_as :: [Popper,Karl.secret](/_secret/Philosophy/Philosopher/Modern_Philosopher/Popper,Karl.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Philosopher/Modern_Philosopher/Popper,Karl.secret|Popper,Karl.secret]] 
 

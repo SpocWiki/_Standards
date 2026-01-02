@@ -53,17 +53,17 @@ Amazon_com_browse_node: 18770272011
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Pastry](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Dish/Pastry.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Home_Economics/Cooking/Food/Dish/Pastry|Pastry]] 
 
-### #is_/same_as :: [Pastry.public](/_public/Society/Economics/Home_Economics/Cooking/Food/Dish/Pastry.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Home_Economics/Cooking/Food/Dish/Pastry.public|Pastry.public]] 
 
-### #is_/same_as :: [Pastry.internal](/_internal/Society/Economics/Home_Economics/Cooking/Food/Dish/Pastry.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Home_Economics/Cooking/Food/Dish/Pastry.internal|Pastry.internal]] 
 
-### #is_/same_as :: [Pastry.protect](/_protect/Society/Economics/Home_Economics/Cooking/Food/Dish/Pastry.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Home_Economics/Cooking/Food/Dish/Pastry.protect|Pastry.protect]] 
 
-### #is_/same_as :: [Pastry.private](/_private/Society/Economics/Home_Economics/Cooking/Food/Dish/Pastry.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Home_Economics/Cooking/Food/Dish/Pastry.private|Pastry.private]] 
 
-### #is_/same_as :: [Pastry.personal](/_personal/Society/Economics/Home_Economics/Cooking/Food/Dish/Pastry.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Home_Economics/Cooking/Food/Dish/Pastry.personal|Pastry.personal]] 
 
-### #is_/same_as :: [Pastry.secret](/_secret/Society/Economics/Home_Economics/Cooking/Food/Dish/Pastry.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Home_Economics/Cooking/Food/Dish/Pastry.secret|Pastry.secret]] 
 

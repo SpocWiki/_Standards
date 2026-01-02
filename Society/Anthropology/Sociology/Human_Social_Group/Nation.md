@@ -50,17 +50,17 @@ Commons_category: Nations
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Nation](/_Standards/Society/Anthropology/Sociology/Human_Social_Group/Nation.md) 
+### #is_/same_as :: [[/_Standards/Society/Anthropology/Sociology/Human_Social_Group/Nation|Nation]] 
 
-### #is_/same_as :: [Nation.public](/_public/Society/Anthropology/Sociology/Human_Social_Group/Nation.public.md) 
+### #is_/same_as :: [[/_public/Society/Anthropology/Sociology/Human_Social_Group/Nation.public|Nation.public]] 
 
-### #is_/same_as :: [Nation.internal](/_internal/Society/Anthropology/Sociology/Human_Social_Group/Nation.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Anthropology/Sociology/Human_Social_Group/Nation.internal|Nation.internal]] 
 
-### #is_/same_as :: [Nation.protect](/_protect/Society/Anthropology/Sociology/Human_Social_Group/Nation.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Anthropology/Sociology/Human_Social_Group/Nation.protect|Nation.protect]] 
 
-### #is_/same_as :: [Nation.private](/_private/Society/Anthropology/Sociology/Human_Social_Group/Nation.private.md) 
+### #is_/same_as :: [[/_private/Society/Anthropology/Sociology/Human_Social_Group/Nation.private|Nation.private]] 
 
-### #is_/same_as :: [Nation.personal](/_personal/Society/Anthropology/Sociology/Human_Social_Group/Nation.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Anthropology/Sociology/Human_Social_Group/Nation.personal|Nation.personal]] 
 
-### #is_/same_as :: [Nation.secret](/_secret/Society/Anthropology/Sociology/Human_Social_Group/Nation.secret.md)
+### #is_/same_as :: [[/_secret/Society/Anthropology/Sociology/Human_Social_Group/Nation.secret|Nation.secret]] 
 

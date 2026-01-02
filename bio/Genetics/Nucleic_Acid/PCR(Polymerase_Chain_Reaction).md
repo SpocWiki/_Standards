@@ -51,17 +51,17 @@ Commons_category: Polymerase chain reaction
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [PCR(Polymerase_Chain_Reaction)](/_Standards/bio/Genetics/Nucleic_Acid/PCR(Polymerase_Chain_Reaction).md) 
+### #is_/same_as :: [[/_Standards/bio/Genetics/Nucleic_Acid/PCR(Polymerase_Chain_Reaction)|PCR(Polymerase_Chain_Reaction)]] 
 
-### #is_/same_as :: [PCR(Polymerase_Chain_Reaction).public](/_public/bio/Genetics/Nucleic_Acid/PCR(Polymerase_Chain_Reaction).public.md) 
+### #is_/same_as :: [[/_public/bio/Genetics/Nucleic_Acid/PCR(Polymerase_Chain_Reaction).public|PCR(Polymerase_Chain_Reaction).public]] 
 
-### #is_/same_as :: [PCR(Polymerase_Chain_Reaction).internal](/_internal/bio/Genetics/Nucleic_Acid/PCR(Polymerase_Chain_Reaction).internal.md) 
+### #is_/same_as :: [[/_internal/bio/Genetics/Nucleic_Acid/PCR(Polymerase_Chain_Reaction).internal|PCR(Polymerase_Chain_Reaction).internal]] 
 
-### #is_/same_as :: [PCR(Polymerase_Chain_Reaction).protect](/_protect/bio/Genetics/Nucleic_Acid/PCR(Polymerase_Chain_Reaction).protect.md) 
+### #is_/same_as :: [[/_protect/bio/Genetics/Nucleic_Acid/PCR(Polymerase_Chain_Reaction).protect|PCR(Polymerase_Chain_Reaction).protect]] 
 
-### #is_/same_as :: [PCR(Polymerase_Chain_Reaction).private](/_private/bio/Genetics/Nucleic_Acid/PCR(Polymerase_Chain_Reaction).private.md) 
+### #is_/same_as :: [[/_private/bio/Genetics/Nucleic_Acid/PCR(Polymerase_Chain_Reaction).private|PCR(Polymerase_Chain_Reaction).private]] 
 
-### #is_/same_as :: [PCR(Polymerase_Chain_Reaction).personal](/_personal/bio/Genetics/Nucleic_Acid/PCR(Polymerase_Chain_Reaction).personal.md) 
+### #is_/same_as :: [[/_personal/bio/Genetics/Nucleic_Acid/PCR(Polymerase_Chain_Reaction).personal|PCR(Polymerase_Chain_Reaction).personal]] 
 
-### #is_/same_as :: [PCR(Polymerase_Chain_Reaction).secret](/_secret/bio/Genetics/Nucleic_Acid/PCR(Polymerase_Chain_Reaction).secret.md)
+### #is_/same_as :: [[/_secret/bio/Genetics/Nucleic_Acid/PCR(Polymerase_Chain_Reaction).secret|PCR(Polymerase_Chain_Reaction).secret]] 
 

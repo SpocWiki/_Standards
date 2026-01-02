@@ -6,7 +6,7 @@ title: Rhynchocyon
 
 # [[Rhynchocyon]] 
 
-![Rhynchocyon chrysopygus](Rhynchocyon/Rhynchocyon_chrysopygus.jpg) ![ ](Rhynchocyon/210618830_bd29523f8b_o.jpg))
+![Rhynchocyon chrysopygus](Rhynchocyon/Rhynchocyon_chrysopygus.jpg) ![ ](Rhynchocyon/210618830_bd29523f8b_o.jpg) 
 
 ## #has_/text_of_/abstract 
 
@@ -68,7 +68,7 @@ Scientific Name ::  Rhynchocyon chrysopygus
 Creator           Joseph Smit (1836--1929)
 
 ----------------------------- 
-![](Rhynchocyon/210618830_bd29523f8b_o.jpg))
+![](Rhynchocyon/210618830_bd29523f8b_o.jpg) 
 Scientific Name ::                    Rhynchocyon petersi
 Location ::                          Philadelphia Zoo
 Acknowledgements                    This image is licensed under the
@@ -81,17 +81,17 @@ Copyright ::                           © 2006 [zeandroid](http://flickr.com/peo
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Rhynchocyon](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Macroscelididae/Rhynchocyon.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Macroscelididae/Rhynchocyon|Rhynchocyon]] 
 
-### #is_/same_as :: [Rhynchocyon.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Macroscelididae/Rhynchocyon.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Macroscelididae/Rhynchocyon.public|Rhynchocyon.public]] 
 
-### #is_/same_as :: [Rhynchocyon.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Macroscelididae/Rhynchocyon.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Macroscelididae/Rhynchocyon.internal|Rhynchocyon.internal]] 
 
-### #is_/same_as :: [Rhynchocyon.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Macroscelididae/Rhynchocyon.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Macroscelididae/Rhynchocyon.protect|Rhynchocyon.protect]] 
 
-### #is_/same_as :: [Rhynchocyon.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Macroscelididae/Rhynchocyon.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Macroscelididae/Rhynchocyon.private|Rhynchocyon.private]] 
 
-### #is_/same_as :: [Rhynchocyon.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Macroscelididae/Rhynchocyon.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Macroscelididae/Rhynchocyon.personal|Rhynchocyon.personal]] 
 
-### #is_/same_as :: [Rhynchocyon.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Macroscelididae/Rhynchocyon.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Macroscelididae/Rhynchocyon.secret|Rhynchocyon.secret]] 
 

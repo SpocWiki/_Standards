@@ -120,17 +120,17 @@ ZVG_number: 8460
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Iridium](/_Standards/Chemistry/Chemical_Element/Group-09-Cobalt/Iridium.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Chemical_Element/Group-09-Cobalt/Iridium|Iridium]] 
 
-### #is_/same_as :: [Iridium.public](/_public/Chemistry/Chemical_Element/Group-09-Cobalt/Iridium.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Chemical_Element/Group-09-Cobalt/Iridium.public|Iridium.public]] 
 
-### #is_/same_as :: [Iridium.internal](/_internal/Chemistry/Chemical_Element/Group-09-Cobalt/Iridium.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Chemical_Element/Group-09-Cobalt/Iridium.internal|Iridium.internal]] 
 
-### #is_/same_as :: [Iridium.protect](/_protect/Chemistry/Chemical_Element/Group-09-Cobalt/Iridium.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Chemical_Element/Group-09-Cobalt/Iridium.protect|Iridium.protect]] 
 
-### #is_/same_as :: [Iridium.private](/_private/Chemistry/Chemical_Element/Group-09-Cobalt/Iridium.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Chemical_Element/Group-09-Cobalt/Iridium.private|Iridium.private]] 
 
-### #is_/same_as :: [Iridium.personal](/_personal/Chemistry/Chemical_Element/Group-09-Cobalt/Iridium.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Chemical_Element/Group-09-Cobalt/Iridium.personal|Iridium.personal]] 
 
-### #is_/same_as :: [Iridium.secret](/_secret/Chemistry/Chemical_Element/Group-09-Cobalt/Iridium.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Chemical_Element/Group-09-Cobalt/Iridium.secret|Iridium.secret]] 
 

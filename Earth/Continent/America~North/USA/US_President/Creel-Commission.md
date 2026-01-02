@@ -29,17 +29,17 @@ The[[../../../../../Knowledge/Military.internal/War-Theater/Cognitive-Force/Prop
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Creel-Commission](/_Standards/Earth/Continent/America~North/US~President/Creel-Commission.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~North/USA/US_President/Creel-Commission|Creel-Commission]] 
 
-### #is_/same_as :: [Creel-Commission.public](/_public/Earth/Continent/America~North/US~President/Creel-Commission.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~North/USA/US_President/Creel-Commission.public|Creel-Commission.public]] 
 
-### #is_/same_as :: [Creel-Commission.internal](/_internal/Earth/Continent/America~North/US~President/Creel-Commission.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~North/USA/US_President/Creel-Commission.internal|Creel-Commission.internal]] 
 
-### #is_/same_as :: [Creel-Commission.protect](/_protect/Earth/Continent/America~North/US~President/Creel-Commission.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~North/USA/US_President/Creel-Commission.protect|Creel-Commission.protect]] 
 
-### #is_/same_as :: [Creel-Commission.private](/_private/Earth/Continent/America~North/US~President/Creel-Commission.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~North/USA/US_President/Creel-Commission.private|Creel-Commission.private]] 
 
-### #is_/same_as :: [Creel-Commission.personal](/_personal/Earth/Continent/America~North/US~President/Creel-Commission.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~North/USA/US_President/Creel-Commission.personal|Creel-Commission.personal]] 
 
-### #is_/same_as :: [Creel-Commission.secret](/_secret/Earth/Continent/America~North/US~President/Creel-Commission.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~North/USA/US_President/Creel-Commission.secret|Creel-Commission.secret]] 
 

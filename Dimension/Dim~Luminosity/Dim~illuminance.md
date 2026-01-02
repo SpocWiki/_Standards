@@ -63,3 +63,22 @@ Commons_category: Illuminance
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Illuminance)  
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Dimension/Dim~Luminosity/Dim~illuminance|Dim~illuminance]] 
+
+### #is_/same_as :: [[/_public/Dimension/Dim~Luminosity/Dim~illuminance.public|Dim~illuminance.public]] 
+
+### #is_/same_as :: [[/_internal/Dimension/Dim~Luminosity/Dim~illuminance.internal|Dim~illuminance.internal]] 
+
+### #is_/same_as :: [[/_protect/Dimension/Dim~Luminosity/Dim~illuminance.protect|Dim~illuminance.protect]] 
+
+### #is_/same_as :: [[/_private/Dimension/Dim~Luminosity/Dim~illuminance.private|Dim~illuminance.private]] 
+
+### #is_/same_as :: [[/_personal/Dimension/Dim~Luminosity/Dim~illuminance.personal|Dim~illuminance.personal]] 
+
+### #is_/same_as :: [[/_secret/Dimension/Dim~Luminosity/Dim~illuminance.secret|Dim~illuminance.secret]] 
+

@@ -70,17 +70,17 @@ Commons_category: Battering rams
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Battering_Ram](/_Standards/Society/Military/Military_Engineering/Battering_Ram.md) 
+### #is_/same_as :: [[/_Standards/Society/Military/Military_Engineering/Battering_Ram|Battering_Ram]] 
 
-### #is_/same_as :: [Battering_Ram.public](/_public/Society/Military/Military_Engineering/Battering_Ram.public.md) 
+### #is_/same_as :: [[/_public/Society/Military/Military_Engineering/Battering_Ram.public|Battering_Ram.public]] 
 
-### #is_/same_as :: [Battering_Ram.internal](/_internal/Society/Military/Military_Engineering/Battering_Ram.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Military/Military_Engineering/Battering_Ram.internal|Battering_Ram.internal]] 
 
-### #is_/same_as :: [Battering_Ram.protect](/_protect/Society/Military/Military_Engineering/Battering_Ram.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Military/Military_Engineering/Battering_Ram.protect|Battering_Ram.protect]] 
 
-### #is_/same_as :: [Battering_Ram.private](/_private/Society/Military/Military_Engineering/Battering_Ram.private.md) 
+### #is_/same_as :: [[/_private/Society/Military/Military_Engineering/Battering_Ram.private|Battering_Ram.private]] 
 
-### #is_/same_as :: [Battering_Ram.personal](/_personal/Society/Military/Military_Engineering/Battering_Ram.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Military/Military_Engineering/Battering_Ram.personal|Battering_Ram.personal]] 
 
-### #is_/same_as :: [Battering_Ram.secret](/_secret/Society/Military/Military_Engineering/Battering_Ram.secret.md)
+### #is_/same_as :: [[/_secret/Society/Military/Military_Engineering/Battering_Ram.secret|Battering_Ram.secret]] 
 

@@ -18,17 +18,17 @@ type: folder_brief_live
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [fileClass](/_Standards/fileClass.md) 
+### #is_/same_as :: [[/_Standards/fileClass|fileClass]] 
 
-### #is_/same_as :: [fileClass.public](/_public/fileClass.public.md) 
+### #is_/same_as :: [[/_public/fileClass.public|fileClass.public]] 
 
-### #is_/same_as :: [fileClass.internal](/_internal/fileClass.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass.internal|fileClass.internal]] 
 
-### #is_/same_as :: [fileClass.protect](/_protect/fileClass.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass.protect|fileClass.protect]] 
 
-### #is_/same_as :: [fileClass.private](/_private/fileClass.private.md) 
+### #is_/same_as :: [[/_private/fileClass.private|fileClass.private]] 
 
-### #is_/same_as :: [fileClass.personal](/_personal/fileClass.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass.personal|fileClass.personal]] 
 
-### #is_/same_as :: [fileClass.secret](/_secret/fileClass.secret.md)
+### #is_/same_as :: [[/_secret/fileClass.secret|fileClass.secret]] 
 

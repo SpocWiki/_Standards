@@ -41,17 +41,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_action_application](/_Standards/schema-org/Relation/has/has_action_application.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_action_application|has_action_application]] 
 
-### #is_/same_as :: [has_action_application.public](/_public/schema-org/Relation/has/has_action_application.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_action_application.public|has_action_application.public]] 
 
-### #is_/same_as :: [has_action_application.internal](/_internal/schema-org/Relation/has/has_action_application.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_action_application.internal|has_action_application.internal]] 
 
-### #is_/same_as :: [has_action_application.protect](/_protect/schema-org/Relation/has/has_action_application.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_action_application.protect|has_action_application.protect]] 
 
-### #is_/same_as :: [has_action_application.private](/_private/schema-org/Relation/has/has_action_application.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_action_application.private|has_action_application.private]] 
 
-### #is_/same_as :: [has_action_application.personal](/_personal/schema-org/Relation/has/has_action_application.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_action_application.personal|has_action_application.personal]] 
 
-### #is_/same_as :: [has_action_application.secret](/_secret/schema-org/Relation/has/has_action_application.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_action_application.secret|has_action_application.secret]] 
 

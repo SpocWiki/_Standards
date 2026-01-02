@@ -41,17 +41,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Vitamin_C](/_Standards/bio/Metabolism/Nutrition/Vitamin/Vitamin_C.md) 
+### #is_/same_as :: [[/_Standards/bio/Metabolism/Nutrition/Vitamin/Vitamin_C|Vitamin_C]] 
 
-### #is_/same_as :: [Vitamin_C.public](/_public/bio/Metabolism/Nutrition/Vitamin/Vitamin_C.public.md) 
+### #is_/same_as :: [[/_public/bio/Metabolism/Nutrition/Vitamin/Vitamin_C.public|Vitamin_C.public]] 
 
-### #is_/same_as :: [Vitamin_C.internal](/_internal/bio/Metabolism/Nutrition/Vitamin/Vitamin_C.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Metabolism/Nutrition/Vitamin/Vitamin_C.internal|Vitamin_C.internal]] 
 
-### #is_/same_as :: [Vitamin_C.protect](/_protect/bio/Metabolism/Nutrition/Vitamin/Vitamin_C.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Metabolism/Nutrition/Vitamin/Vitamin_C.protect|Vitamin_C.protect]] 
 
-### #is_/same_as :: [Vitamin_C.private](/_private/bio/Metabolism/Nutrition/Vitamin/Vitamin_C.private.md) 
+### #is_/same_as :: [[/_private/bio/Metabolism/Nutrition/Vitamin/Vitamin_C.private|Vitamin_C.private]] 
 
-### #is_/same_as :: [Vitamin_C.personal](/_personal/bio/Metabolism/Nutrition/Vitamin/Vitamin_C.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Metabolism/Nutrition/Vitamin/Vitamin_C.personal|Vitamin_C.personal]] 
 
-### #is_/same_as :: [Vitamin_C.secret](/_secret/bio/Metabolism/Nutrition/Vitamin/Vitamin_C.secret.md)
+### #is_/same_as :: [[/_secret/bio/Metabolism/Nutrition/Vitamin/Vitamin_C.secret|Vitamin_C.secret]] 
 

@@ -99,17 +99,17 @@ coordinate_location: Point(91.746833333 26.200722222)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Brahmaputra_River](/_Standards/Earth/Continent/Asia/Indian_Subcontinent/Brahmaputra_River.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Indian_Subcontinent/Brahmaputra_River|Brahmaputra_River]] 
 
-### #is_/same_as :: [Brahmaputra_River.public](/_public/Earth/Continent/Asia/Indian_Subcontinent/Brahmaputra_River.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Indian_Subcontinent/Brahmaputra_River.public|Brahmaputra_River.public]] 
 
-### #is_/same_as :: [Brahmaputra_River.internal](/_internal/Earth/Continent/Asia/Indian_Subcontinent/Brahmaputra_River.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Indian_Subcontinent/Brahmaputra_River.internal|Brahmaputra_River.internal]] 
 
-### #is_/same_as :: [Brahmaputra_River.protect](/_protect/Earth/Continent/Asia/Indian_Subcontinent/Brahmaputra_River.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Indian_Subcontinent/Brahmaputra_River.protect|Brahmaputra_River.protect]] 
 
-### #is_/same_as :: [Brahmaputra_River.private](/_private/Earth/Continent/Asia/Indian_Subcontinent/Brahmaputra_River.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Indian_Subcontinent/Brahmaputra_River.private|Brahmaputra_River.private]] 
 
-### #is_/same_as :: [Brahmaputra_River.personal](/_personal/Earth/Continent/Asia/Indian_Subcontinent/Brahmaputra_River.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Indian_Subcontinent/Brahmaputra_River.personal|Brahmaputra_River.personal]] 
 
-### #is_/same_as :: [Brahmaputra_River.secret](/_secret/Earth/Continent/Asia/Indian_Subcontinent/Brahmaputra_River.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Indian_Subcontinent/Brahmaputra_River.secret|Brahmaputra_River.secret]] 
 

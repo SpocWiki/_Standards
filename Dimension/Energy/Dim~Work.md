@@ -84,17 +84,17 @@ Iconclass_notation: "49E2211"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Dim~Work](/_Standards/Dimension/Energy/Dim~Work.md) 
+### #is_/same_as :: [[/_Standards/Dimension/Energy/Dim~Work|Dim~Work]] 
 
-### #is_/same_as :: [Dim~Work.public](/_public/Dimension/Energy/Dim~Work.public.md) 
+### #is_/same_as :: [[/_public/Dimension/Energy/Dim~Work.public|Dim~Work.public]] 
 
-### #is_/same_as :: [Dim~Work.internal](/_internal/Dimension/Energy/Dim~Work.internal.md) 
+### #is_/same_as :: [[/_internal/Dimension/Energy/Dim~Work.internal|Dim~Work.internal]] 
 
-### #is_/same_as :: [Dim~Work.protect](/_protect/Dimension/Energy/Dim~Work.protect.md) 
+### #is_/same_as :: [[/_protect/Dimension/Energy/Dim~Work.protect|Dim~Work.protect]] 
 
-### #is_/same_as :: [Dim~Work.private](/_private/Dimension/Energy/Dim~Work.private.md) 
+### #is_/same_as :: [[/_private/Dimension/Energy/Dim~Work.private|Dim~Work.private]] 
 
-### #is_/same_as :: [Dim~Work.personal](/_personal/Dimension/Energy/Dim~Work.personal.md) 
+### #is_/same_as :: [[/_personal/Dimension/Energy/Dim~Work.personal|Dim~Work.personal]] 
 
-### #is_/same_as :: [Dim~Work.secret](/_secret/Dimension/Energy/Dim~Work.secret.md)
+### #is_/same_as :: [[/_secret/Dimension/Energy/Dim~Work.secret|Dim~Work.secret]] 
 

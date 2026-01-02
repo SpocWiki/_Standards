@@ -24,17 +24,17 @@ But conservative Forces either
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [No_Glory_in_Prevention](/_Standards/Society/Politics/No_Glory_in_Prevention.md) 
+### #is_/same_as :: [[/_Standards/Society/Politics/No_Glory_in_Prevention|No_Glory_in_Prevention]] 
 
-### #is_/same_as :: [No_Glory_in_Prevention.public](/_public/Society/Politics/No_Glory_in_Prevention.public.md) 
+### #is_/same_as :: [[/_public/Society/Politics/No_Glory_in_Prevention.public|No_Glory_in_Prevention.public]] 
 
-### #is_/same_as :: [No_Glory_in_Prevention.internal](/_internal/Society/Politics/No_Glory_in_Prevention.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Politics/No_Glory_in_Prevention.internal|No_Glory_in_Prevention.internal]] 
 
-### #is_/same_as :: [No_Glory_in_Prevention.protect](/_protect/Society/Politics/No_Glory_in_Prevention.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Politics/No_Glory_in_Prevention.protect|No_Glory_in_Prevention.protect]] 
 
-### #is_/same_as :: [No_Glory_in_Prevention.private](/_private/Society/Politics/No_Glory_in_Prevention.private.md) 
+### #is_/same_as :: [[/_private/Society/Politics/No_Glory_in_Prevention.private|No_Glory_in_Prevention.private]] 
 
-### #is_/same_as :: [No_Glory_in_Prevention.personal](/_personal/Society/Politics/No_Glory_in_Prevention.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Politics/No_Glory_in_Prevention.personal|No_Glory_in_Prevention.personal]] 
 
-### #is_/same_as :: [No_Glory_in_Prevention.secret](/_secret/Society/Politics/No_Glory_in_Prevention.secret.md)
+### #is_/same_as :: [[/_secret/Society/Politics/No_Glory_in_Prevention.secret|No_Glory_in_Prevention.secret]] 
 

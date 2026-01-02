@@ -35,17 +35,17 @@ Commons_category: Modern art
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [1860-Modern_Art-1970](/_Standards/Society/Communication/Art/History_of_Art/1860-Modern_Art-1970.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Art/History_of_Art/1860-Modern_Art-1970|1860-Modern_Art-1970]] 
 
-### #is_/same_as :: [1860-Modern_Art-1970.public](/_public/Society/Communication/Art/History_of_Art/1860-Modern_Art-1970.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Art/History_of_Art/1860-Modern_Art-1970.public|1860-Modern_Art-1970.public]] 
 
-### #is_/same_as :: [1860-Modern_Art-1970.internal](/_internal/Society/Communication/Art/History_of_Art/1860-Modern_Art-1970.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Art/History_of_Art/1860-Modern_Art-1970.internal|1860-Modern_Art-1970.internal]] 
 
-### #is_/same_as :: [1860-Modern_Art-1970.protect](/_protect/Society/Communication/Art/History_of_Art/1860-Modern_Art-1970.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Art/History_of_Art/1860-Modern_Art-1970.protect|1860-Modern_Art-1970.protect]] 
 
-### #is_/same_as :: [1860-Modern_Art-1970.private](/_private/Society/Communication/Art/History_of_Art/1860-Modern_Art-1970.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Art/History_of_Art/1860-Modern_Art-1970.private|1860-Modern_Art-1970.private]] 
 
-### #is_/same_as :: [1860-Modern_Art-1970.personal](/_personal/Society/Communication/Art/History_of_Art/1860-Modern_Art-1970.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Art/History_of_Art/1860-Modern_Art-1970.personal|1860-Modern_Art-1970.personal]] 
 
-### #is_/same_as :: [1860-Modern_Art-1970.secret](/_secret/Society/Communication/Art/History_of_Art/1860-Modern_Art-1970.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Art/History_of_Art/1860-Modern_Art-1970.secret|1860-Modern_Art-1970.secret]] 
 

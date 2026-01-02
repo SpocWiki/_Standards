@@ -52,17 +52,17 @@ official_name: Volans
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Zodiac~Volans](/_Standards/Astronomy/Star~Constellation/Zodiac~Volans.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Star~Constellation/Zodiac~Volans|Zodiac~Volans]] 
 
-### #is_/same_as :: [Zodiac~Volans.public](/_public/Astronomy/Star~Constellation/Zodiac~Volans.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Star~Constellation/Zodiac~Volans.public|Zodiac~Volans.public]] 
 
-### #is_/same_as :: [Zodiac~Volans.internal](/_internal/Astronomy/Star~Constellation/Zodiac~Volans.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Star~Constellation/Zodiac~Volans.internal|Zodiac~Volans.internal]] 
 
-### #is_/same_as :: [Zodiac~Volans.protect](/_protect/Astronomy/Star~Constellation/Zodiac~Volans.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Star~Constellation/Zodiac~Volans.protect|Zodiac~Volans.protect]] 
 
-### #is_/same_as :: [Zodiac~Volans.private](/_private/Astronomy/Star~Constellation/Zodiac~Volans.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Star~Constellation/Zodiac~Volans.private|Zodiac~Volans.private]] 
 
-### #is_/same_as :: [Zodiac~Volans.personal](/_personal/Astronomy/Star~Constellation/Zodiac~Volans.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Star~Constellation/Zodiac~Volans.personal|Zodiac~Volans.personal]] 
 
-### #is_/same_as :: [Zodiac~Volans.secret](/_secret/Astronomy/Star~Constellation/Zodiac~Volans.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Star~Constellation/Zodiac~Volans.secret|Zodiac~Volans.secret]] 
 

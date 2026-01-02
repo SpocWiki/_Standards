@@ -111,17 +111,17 @@ UNII: 6200K977BQ
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Neptunium](/_Standards/Chemistry/Chemical_Element/Actinide/Neptunium.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Chemical_Element/Actinide/Neptunium|Neptunium]] 
 
-### #is_/same_as :: [Neptunium.public](/_public/Chemistry/Chemical_Element/Actinide/Neptunium.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Chemical_Element/Actinide/Neptunium.public|Neptunium.public]] 
 
-### #is_/same_as :: [Neptunium.internal](/_internal/Chemistry/Chemical_Element/Actinide/Neptunium.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Chemical_Element/Actinide/Neptunium.internal|Neptunium.internal]] 
 
-### #is_/same_as :: [Neptunium.protect](/_protect/Chemistry/Chemical_Element/Actinide/Neptunium.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Chemical_Element/Actinide/Neptunium.protect|Neptunium.protect]] 
 
-### #is_/same_as :: [Neptunium.private](/_private/Chemistry/Chemical_Element/Actinide/Neptunium.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Chemical_Element/Actinide/Neptunium.private|Neptunium.private]] 
 
-### #is_/same_as :: [Neptunium.personal](/_personal/Chemistry/Chemical_Element/Actinide/Neptunium.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Chemical_Element/Actinide/Neptunium.personal|Neptunium.personal]] 
 
-### #is_/same_as :: [Neptunium.secret](/_secret/Chemistry/Chemical_Element/Actinide/Neptunium.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Chemical_Element/Actinide/Neptunium.secret|Neptunium.secret]] 
 

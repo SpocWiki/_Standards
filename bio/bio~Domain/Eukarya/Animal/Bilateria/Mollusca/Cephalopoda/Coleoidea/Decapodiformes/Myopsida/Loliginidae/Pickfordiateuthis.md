@@ -37,7 +37,7 @@ title: Pickfordiateuthis
 ## Grass squid 
 
 [Michael Vecchione]()
-![ ](Pickfordiateuthis/Pickfordiateuthis075.jpg))
+![ ](Pickfordiateuthis/Pickfordiateuthis075.jpg) 
 
 The following four species have been described (one has not been named)
 in ***Pickfordiateuthis***.
@@ -73,7 +73,7 @@ Tentacles
 
 Club suckers on manus in two series; suckers on dactylus in four series
 or in two series.
-![ ](Pickfordiateuthis/PickfordBayeri2.jpg))
+![ ](Pickfordiateuthis/PickfordBayeri2.jpg) 
 
 **Figure**. Dorsal view of ***P. bayeri*** in a shipboard aquarium.
 
@@ -92,7 +92,7 @@ the Florida keys. Bull. Mar. Sci. Gulf Carib. 2: 602-609.
 
 ## Title Illustrations
 
-![](Pickfordiateuthis/Pickfordiateuthis075.jpg))
+![](Pickfordiateuthis/Pickfordiateuthis075.jpg) 
 
   ---------------------------------------------------------------------------
   Scientific Name ::     Pickfordiateuthis pulchella
@@ -105,17 +105,17 @@ the Florida keys. Bull. Mar. Sci. Gulf Carib. 2: 602-609.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Pickfordiateuthis](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Myopsida/Loliginidae/Pickfordiateuthis.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Myopsida/Loliginidae/Pickfordiateuthis|Pickfordiateuthis]] 
 
-### #is_/same_as :: [Pickfordiateuthis.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Myopsida/Loliginidae/Pickfordiateuthis.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Myopsida/Loliginidae/Pickfordiateuthis.public|Pickfordiateuthis.public]] 
 
-### #is_/same_as :: [Pickfordiateuthis.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Myopsida/Loliginidae/Pickfordiateuthis.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Myopsida/Loliginidae/Pickfordiateuthis.internal|Pickfordiateuthis.internal]] 
 
-### #is_/same_as :: [Pickfordiateuthis.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Myopsida/Loliginidae/Pickfordiateuthis.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Myopsida/Loliginidae/Pickfordiateuthis.protect|Pickfordiateuthis.protect]] 
 
-### #is_/same_as :: [Pickfordiateuthis.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Myopsida/Loliginidae/Pickfordiateuthis.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Myopsida/Loliginidae/Pickfordiateuthis.private|Pickfordiateuthis.private]] 
 
-### #is_/same_as :: [Pickfordiateuthis.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Myopsida/Loliginidae/Pickfordiateuthis.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Myopsida/Loliginidae/Pickfordiateuthis.personal|Pickfordiateuthis.personal]] 
 
-### #is_/same_as :: [Pickfordiateuthis.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Myopsida/Loliginidae/Pickfordiateuthis.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Myopsida/Loliginidae/Pickfordiateuthis.secret|Pickfordiateuthis.secret]] 
 

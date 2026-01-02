@@ -44,17 +44,17 @@ Body height (measured between crown of head and soles of feet). Used, for exampl
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Body_Measurement_Height](/_Standards/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Height.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Height|Body_Measurement_Height]] 
 
-### #is_/same_as :: [Body_Measurement_Height.public](/_public/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Height.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Height.public|Body_Measurement_Height.public]] 
 
-### #is_/same_as :: [Body_Measurement_Height.internal](/_internal/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Height.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Height.internal|Body_Measurement_Height.internal]] 
 
-### #is_/same_as :: [Body_Measurement_Height.protect](/_protect/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Height.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Height.protect|Body_Measurement_Height.protect]] 
 
-### #is_/same_as :: [Body_Measurement_Height.private](/_private/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Height.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Height.private|Body_Measurement_Height.private]] 
 
-### #is_/same_as :: [Body_Measurement_Height.personal](/_personal/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Height.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Height.personal|Body_Measurement_Height.personal]] 
 
-### #is_/same_as :: [Body_Measurement_Height.secret](/_secret/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Height.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Height.secret|Body_Measurement_Height.secret]] 
 

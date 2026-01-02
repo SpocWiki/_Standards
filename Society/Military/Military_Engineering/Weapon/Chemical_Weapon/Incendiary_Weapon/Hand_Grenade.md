@@ -87,17 +87,17 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Victory%20Show%20Cosby
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hand_Grenade](/_Standards/Society/Military/Military_Engineering/Weapon/Chemical_Weapon/Incendiary_Weapon/Hand_Grenade.md) 
+### #is_/same_as :: [[/_Standards/Society/Military/Military_Engineering/Weapon/Chemical_Weapon/Incendiary_Weapon/Hand_Grenade|Hand_Grenade]] 
 
-### #is_/same_as :: [Hand_Grenade.public](/_public/Society/Military/Military_Engineering/Weapon/Chemical_Weapon/Incendiary_Weapon/Hand_Grenade.public.md) 
+### #is_/same_as :: [[/_public/Society/Military/Military_Engineering/Weapon/Chemical_Weapon/Incendiary_Weapon/Hand_Grenade.public|Hand_Grenade.public]] 
 
-### #is_/same_as :: [Hand_Grenade.internal](/_internal/Society/Military/Military_Engineering/Weapon/Chemical_Weapon/Incendiary_Weapon/Hand_Grenade.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Military/Military_Engineering/Weapon/Chemical_Weapon/Incendiary_Weapon/Hand_Grenade.internal|Hand_Grenade.internal]] 
 
-### #is_/same_as :: [Hand_Grenade.protect](/_protect/Society/Military/Military_Engineering/Weapon/Chemical_Weapon/Incendiary_Weapon/Hand_Grenade.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Military/Military_Engineering/Weapon/Chemical_Weapon/Incendiary_Weapon/Hand_Grenade.protect|Hand_Grenade.protect]] 
 
-### #is_/same_as :: [Hand_Grenade.private](/_private/Society/Military/Military_Engineering/Weapon/Chemical_Weapon/Incendiary_Weapon/Hand_Grenade.private.md) 
+### #is_/same_as :: [[/_private/Society/Military/Military_Engineering/Weapon/Chemical_Weapon/Incendiary_Weapon/Hand_Grenade.private|Hand_Grenade.private]] 
 
-### #is_/same_as :: [Hand_Grenade.personal](/_personal/Society/Military/Military_Engineering/Weapon/Chemical_Weapon/Incendiary_Weapon/Hand_Grenade.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Military/Military_Engineering/Weapon/Chemical_Weapon/Incendiary_Weapon/Hand_Grenade.personal|Hand_Grenade.personal]] 
 
-### #is_/same_as :: [Hand_Grenade.secret](/_secret/Society/Military/Military_Engineering/Weapon/Chemical_Weapon/Incendiary_Weapon/Hand_Grenade.secret.md)
+### #is_/same_as :: [[/_secret/Society/Military/Military_Engineering/Weapon/Chemical_Weapon/Incendiary_Weapon/Hand_Grenade.secret|Hand_Grenade.secret]] 
 

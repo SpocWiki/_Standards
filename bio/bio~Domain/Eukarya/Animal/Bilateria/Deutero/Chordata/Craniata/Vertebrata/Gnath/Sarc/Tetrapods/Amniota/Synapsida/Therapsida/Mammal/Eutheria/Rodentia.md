@@ -121,7 +121,7 @@ U_S_National_Archives_Identifier:
 
 ## Rodents: mice, rats, hamsters, squirrels, gophers, porcupines, beavers, etc. 
 
-![](Rodentia/porcufam.jpg)![ ](Rodentia/Spermophilus-parryii.jpg))
+![](Rodentia/porcufam.jpg)![ ](Rodentia/Spermophilus-parryii.jpg) 
 
 
 ## #has_/text_of_/abstract 
@@ -203,7 +203,7 @@ U_S_National_Archives_Identifier:
 ## Title Illustrations
 
 ------------------------------------------------------------------------- 
-![Crested Porcupine ( Hystrix cristata ) family, Serengeti](Rodentia/porcufam.jpg))
+![Crested Porcupine ( Hystrix cristata ) family, Serengeti](Rodentia/porcufam.jpg) 
 Scientific Name ::     Hystrix cristata
 Location ::           Serengeti National Park
 Comments             This was an unusual sighting, not only of a pair with young, but in open country at mid-day. Crested porcupines are mainly nocturnal.
@@ -216,7 +216,7 @@ View                 Frontal/lateral
 Copyright ::            © 2005 [David Bygott](mailto:davidbygott@yahoo.com) 
 
 ------------------------------------------------------------------------- 
-![](Rodentia/Spermophilus-parryii.jpg))
+![](Rodentia/Spermophilus-parryii.jpg) 
 Scientific Name ::     Spermophilus parryii
 Comments             Arctic ground squirrel
 Creator              Jim McCarthy
@@ -226,17 +226,17 @@ Specimen Condition   Live Specimen
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Rodentia](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Rodentia.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Rodentia|Rodentia]] 
 
-### #is_/same_as :: [Rodentia.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Rodentia.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Rodentia.public|Rodentia.public]] 
 
-### #is_/same_as :: [Rodentia.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Rodentia.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Rodentia.internal|Rodentia.internal]] 
 
-### #is_/same_as :: [Rodentia.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Rodentia.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Rodentia.protect|Rodentia.protect]] 
 
-### #is_/same_as :: [Rodentia.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Rodentia.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Rodentia.private|Rodentia.private]] 
 
-### #is_/same_as :: [Rodentia.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Rodentia.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Rodentia.personal|Rodentia.personal]] 
 
-### #is_/same_as :: [Rodentia.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Rodentia.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Rodentia.secret|Rodentia.secret]] 
 

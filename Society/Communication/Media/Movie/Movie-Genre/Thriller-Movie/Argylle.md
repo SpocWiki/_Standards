@@ -24,17 +24,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Argylle](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Argylle.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Argylle|Argylle]] 
 
-### #is_/same_as :: [Argylle.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Argylle.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Argylle.public|Argylle.public]] 
 
-### #is_/same_as :: [Argylle.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Argylle.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Argylle.internal|Argylle.internal]] 
 
-### #is_/same_as :: [Argylle.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Argylle.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Argylle.protect|Argylle.protect]] 
 
-### #is_/same_as :: [Argylle.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Argylle.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Argylle.private|Argylle.private]] 
 
-### #is_/same_as :: [Argylle.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Argylle.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Argylle.personal|Argylle.personal]] 
 
-### #is_/same_as :: [Argylle.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Argylle.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Argylle.secret|Argylle.secret]] 
 

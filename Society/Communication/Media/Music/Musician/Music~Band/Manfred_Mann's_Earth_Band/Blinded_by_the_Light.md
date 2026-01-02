@@ -15,17 +15,17 @@ and the Keyboard Chopstick Harmonization before the finale, both with [[../../..
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Blinded_by_the_Light](/_Standards/Society/Communication/Media/Music/Musician/Music~Band/Manfred_Mann's_Earth_Band/Blinded_by_the_Light.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Musician/Music~Band/Manfred_Mann's_Earth_Band/Blinded_by_the_Light|Blinded_by_the_Light]] 
 
-### #is_/same_as :: [Blinded_by_the_Light.public](/_public/Society/Communication/Media/Music/Musician/Music~Band/Manfred_Mann's_Earth_Band/Blinded_by_the_Light.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Musician/Music~Band/Manfred_Mann's_Earth_Band/Blinded_by_the_Light.public|Blinded_by_the_Light.public]] 
 
-### #is_/same_as :: [Blinded_by_the_Light.internal](/_internal/Society/Communication/Media/Music/Musician/Music~Band/Manfred_Mann's_Earth_Band/Blinded_by_the_Light.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Musician/Music~Band/Manfred_Mann's_Earth_Band/Blinded_by_the_Light.internal|Blinded_by_the_Light.internal]] 
 
-### #is_/same_as :: [Blinded_by_the_Light.protect](/_protect/Society/Communication/Media/Music/Musician/Music~Band/Manfred_Mann's_Earth_Band/Blinded_by_the_Light.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Musician/Music~Band/Manfred_Mann's_Earth_Band/Blinded_by_the_Light.protect|Blinded_by_the_Light.protect]] 
 
-### #is_/same_as :: [Blinded_by_the_Light.private](/_private/Society/Communication/Media/Music/Musician/Music~Band/Manfred_Mann's_Earth_Band/Blinded_by_the_Light.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Musician/Music~Band/Manfred_Mann's_Earth_Band/Blinded_by_the_Light.private|Blinded_by_the_Light.private]] 
 
-### #is_/same_as :: [Blinded_by_the_Light.personal](/_personal/Society/Communication/Media/Music/Musician/Music~Band/Manfred_Mann's_Earth_Band/Blinded_by_the_Light.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Musician/Music~Band/Manfred_Mann's_Earth_Band/Blinded_by_the_Light.personal|Blinded_by_the_Light.personal]] 
 
-### #is_/same_as :: [Blinded_by_the_Light.secret](/_secret/Society/Communication/Media/Music/Musician/Music~Band/Manfred_Mann's_Earth_Band/Blinded_by_the_Light.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Musician/Music~Band/Manfred_Mann's_Earth_Band/Blinded_by_the_Light.secret|Blinded_by_the_Light.secret]] 
 

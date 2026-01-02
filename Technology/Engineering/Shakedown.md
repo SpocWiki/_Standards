@@ -27,17 +27,17 @@ It originates from nautical and industrial testing practices but has evolved in 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Shakedown](/_Standards/Technology/Engineering/Shakedown.md) 
+### #is_/same_as :: [[/_Standards/Technology/Engineering/Shakedown|Shakedown]] 
 
-### #is_/same_as :: [Shakedown.public](/_public/Technology/Engineering/Shakedown.public.md) 
+### #is_/same_as :: [[/_public/Technology/Engineering/Shakedown.public|Shakedown.public]] 
 
-### #is_/same_as :: [Shakedown.internal](/_internal/Technology/Engineering/Shakedown.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Engineering/Shakedown.internal|Shakedown.internal]] 
 
-### #is_/same_as :: [Shakedown.protect](/_protect/Technology/Engineering/Shakedown.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Engineering/Shakedown.protect|Shakedown.protect]] 
 
-### #is_/same_as :: [Shakedown.private](/_private/Technology/Engineering/Shakedown.private.md) 
+### #is_/same_as :: [[/_private/Technology/Engineering/Shakedown.private|Shakedown.private]] 
 
-### #is_/same_as :: [Shakedown.personal](/_personal/Technology/Engineering/Shakedown.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Engineering/Shakedown.personal|Shakedown.personal]] 
 
-### #is_/same_as :: [Shakedown.secret](/_secret/Technology/Engineering/Shakedown.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Engineering/Shakedown.secret|Shakedown.secret]] 
 

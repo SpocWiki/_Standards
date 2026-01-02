@@ -50,17 +50,17 @@ Unicode_character: 🧮
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Abacus](/_Standards/Mathematics/Arithmetic/Abacus.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Arithmetic/Abacus|Abacus]] 
 
-### #is_/same_as :: [Abacus.public](/_public/Mathematics/Arithmetic/Abacus.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Arithmetic/Abacus.public|Abacus.public]] 
 
-### #is_/same_as :: [Abacus.internal](/_internal/Mathematics/Arithmetic/Abacus.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Arithmetic/Abacus.internal|Abacus.internal]] 
 
-### #is_/same_as :: [Abacus.protect](/_protect/Mathematics/Arithmetic/Abacus.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Arithmetic/Abacus.protect|Abacus.protect]] 
 
-### #is_/same_as :: [Abacus.private](/_private/Mathematics/Arithmetic/Abacus.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Arithmetic/Abacus.private|Abacus.private]] 
 
-### #is_/same_as :: [Abacus.personal](/_personal/Mathematics/Arithmetic/Abacus.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Arithmetic/Abacus.personal|Abacus.personal]] 
 
-### #is_/same_as :: [Abacus.secret](/_secret/Mathematics/Arithmetic/Abacus.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Arithmetic/Abacus.secret|Abacus.secret]] 
 

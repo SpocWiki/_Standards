@@ -57,17 +57,17 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Formation%20of%20a%20L
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Fighter_Aircraft](/_Standards/Society/Military/Military_Organization/Air_Force/Fighter_Aircraft.md) 
+### #is_/same_as :: [[/_Standards/Society/Military/Military_Organization/Air_Force/Fighter_Aircraft|Fighter_Aircraft]] 
 
-### #is_/same_as :: [Fighter_Aircraft.public](/_public/Society/Military/Military_Organization/Air_Force/Fighter_Aircraft.public.md) 
+### #is_/same_as :: [[/_public/Society/Military/Military_Organization/Air_Force/Fighter_Aircraft.public|Fighter_Aircraft.public]] 
 
-### #is_/same_as :: [Fighter_Aircraft.internal](/_internal/Society/Military/Military_Organization/Air_Force/Fighter_Aircraft.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Military/Military_Organization/Air_Force/Fighter_Aircraft.internal|Fighter_Aircraft.internal]] 
 
-### #is_/same_as :: [Fighter_Aircraft.protect](/_protect/Society/Military/Military_Organization/Air_Force/Fighter_Aircraft.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Military/Military_Organization/Air_Force/Fighter_Aircraft.protect|Fighter_Aircraft.protect]] 
 
-### #is_/same_as :: [Fighter_Aircraft.private](/_private/Society/Military/Military_Organization/Air_Force/Fighter_Aircraft.private.md) 
+### #is_/same_as :: [[/_private/Society/Military/Military_Organization/Air_Force/Fighter_Aircraft.private|Fighter_Aircraft.private]] 
 
-### #is_/same_as :: [Fighter_Aircraft.personal](/_personal/Society/Military/Military_Organization/Air_Force/Fighter_Aircraft.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Military/Military_Organization/Air_Force/Fighter_Aircraft.personal|Fighter_Aircraft.personal]] 
 
-### #is_/same_as :: [Fighter_Aircraft.secret](/_secret/Society/Military/Military_Organization/Air_Force/Fighter_Aircraft.secret.md)
+### #is_/same_as :: [[/_secret/Society/Military/Military_Organization/Air_Force/Fighter_Aircraft.secret|Fighter_Aircraft.secret]] 
 

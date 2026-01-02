@@ -42,17 +42,17 @@ OrderStatus representing that an order is being processed.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Order_Processing](/_Standards/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Processing.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Processing|Order_Processing]] 
 
-### #is_/same_as :: [Order_Processing.public](/_public/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Processing.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Processing.public|Order_Processing.public]] 
 
-### #is_/same_as :: [Order_Processing.internal](/_internal/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Processing.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Processing.internal|Order_Processing.internal]] 
 
-### #is_/same_as :: [Order_Processing.protect](/_protect/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Processing.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Processing.protect|Order_Processing.protect]] 
 
-### #is_/same_as :: [Order_Processing.private](/_private/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Processing.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Processing.private|Order_Processing.private]] 
 
-### #is_/same_as :: [Order_Processing.personal](/_personal/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Processing.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Processing.personal|Order_Processing.personal]] 
 
-### #is_/same_as :: [Order_Processing.secret](/_secret/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Processing.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Processing.secret|Order_Processing.secret]] 
 

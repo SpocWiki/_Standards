@@ -93,17 +93,17 @@ motto_text:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Petrobras](/_Standards/Society/Agent/Community/Organization/Company/Corporation/Oil_Company/Petrobras.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Company/Corporation/Oil_Company/Petrobras|Petrobras]] 
 
-### #is_/same_as :: [Petrobras.public](/_public/Society/Agent/Community/Organization/Company/Corporation/Oil_Company/Petrobras.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Company/Corporation/Oil_Company/Petrobras.public|Petrobras.public]] 
 
-### #is_/same_as :: [Petrobras.internal](/_internal/Society/Agent/Community/Organization/Company/Corporation/Oil_Company/Petrobras.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Company/Corporation/Oil_Company/Petrobras.internal|Petrobras.internal]] 
 
-### #is_/same_as :: [Petrobras.protect](/_protect/Society/Agent/Community/Organization/Company/Corporation/Oil_Company/Petrobras.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Company/Corporation/Oil_Company/Petrobras.protect|Petrobras.protect]] 
 
-### #is_/same_as :: [Petrobras.private](/_private/Society/Agent/Community/Organization/Company/Corporation/Oil_Company/Petrobras.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Company/Corporation/Oil_Company/Petrobras.private|Petrobras.private]] 
 
-### #is_/same_as :: [Petrobras.personal](/_personal/Society/Agent/Community/Organization/Company/Corporation/Oil_Company/Petrobras.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Company/Corporation/Oil_Company/Petrobras.personal|Petrobras.personal]] 
 
-### #is_/same_as :: [Petrobras.secret](/_secret/Society/Agent/Community/Organization/Company/Corporation/Oil_Company/Petrobras.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Company/Corporation/Oil_Company/Petrobras.secret|Petrobras.secret]] 
 

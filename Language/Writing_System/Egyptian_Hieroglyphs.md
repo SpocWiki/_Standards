@@ -97,17 +97,17 @@ Commons_category: Egyptian hieroglyphs
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Egyptian_Hieroglyphs](/_Standards/Language/Writing_System/Egyptian_Hieroglyphs.md) 
+### #is_/same_as :: [[/_Standards/Language/Writing_System/Egyptian_Hieroglyphs|Egyptian_Hieroglyphs]] 
 
-### #is_/same_as :: [Egyptian_Hieroglyphs.public](/_public/Language/Writing_System/Egyptian_Hieroglyphs.public.md) 
+### #is_/same_as :: [[/_public/Language/Writing_System/Egyptian_Hieroglyphs.public|Egyptian_Hieroglyphs.public]] 
 
-### #is_/same_as :: [Egyptian_Hieroglyphs.internal](/_internal/Language/Writing_System/Egyptian_Hieroglyphs.internal.md) 
+### #is_/same_as :: [[/_internal/Language/Writing_System/Egyptian_Hieroglyphs.internal|Egyptian_Hieroglyphs.internal]] 
 
-### #is_/same_as :: [Egyptian_Hieroglyphs.protect](/_protect/Language/Writing_System/Egyptian_Hieroglyphs.protect.md) 
+### #is_/same_as :: [[/_protect/Language/Writing_System/Egyptian_Hieroglyphs.protect|Egyptian_Hieroglyphs.protect]] 
 
-### #is_/same_as :: [Egyptian_Hieroglyphs.private](/_private/Language/Writing_System/Egyptian_Hieroglyphs.private.md) 
+### #is_/same_as :: [[/_private/Language/Writing_System/Egyptian_Hieroglyphs.private|Egyptian_Hieroglyphs.private]] 
 
-### #is_/same_as :: [Egyptian_Hieroglyphs.personal](/_personal/Language/Writing_System/Egyptian_Hieroglyphs.personal.md) 
+### #is_/same_as :: [[/_personal/Language/Writing_System/Egyptian_Hieroglyphs.personal|Egyptian_Hieroglyphs.personal]] 
 
-### #is_/same_as :: [Egyptian_Hieroglyphs.secret](/_secret/Language/Writing_System/Egyptian_Hieroglyphs.secret.md)
+### #is_/same_as :: [[/_secret/Language/Writing_System/Egyptian_Hieroglyphs.secret|Egyptian_Hieroglyphs.secret]] 
 

@@ -91,17 +91,17 @@ type: Lang
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lang-ben](/_Standards/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Lang-ben.md) 
+### #is_/same_as :: [[/_Standards/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Lang-ben|Lang-ben]] 
 
-### #is_/same_as :: [Lang-ben.public](/_public/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Lang-ben.public.md) 
+### #is_/same_as :: [[/_public/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Lang-ben.public|Lang-ben.public]] 
 
-### #is_/same_as :: [Lang-ben.internal](/_internal/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Lang-ben.internal.md) 
+### #is_/same_as :: [[/_internal/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Lang-ben.internal|Lang-ben.internal]] 
 
-### #is_/same_as :: [Lang-ben.protect](/_protect/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Lang-ben.protect.md) 
+### #is_/same_as :: [[/_protect/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Lang-ben.protect|Lang-ben.protect]] 
 
-### #is_/same_as :: [Lang-ben.private](/_private/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Lang-ben.private.md) 
+### #is_/same_as :: [[/_private/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Lang-ben.private|Lang-ben.private]] 
 
-### #is_/same_as :: [Lang-ben.personal](/_personal/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Lang-ben.personal.md) 
+### #is_/same_as :: [[/_personal/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Lang-ben.personal|Lang-ben.personal]] 
 
-### #is_/same_as :: [Lang-ben.secret](/_secret/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Lang-ben.secret.md)
+### #is_/same_as :: [[/_secret/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Lang-ben.secret|Lang-ben.secret]] 
 

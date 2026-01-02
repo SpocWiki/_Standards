@@ -69,17 +69,17 @@ Colon_Classification: SG--54
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Iberia](/_Standards/Earth/Continent/Europe/Iberia.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Iberia|Iberia]] 
 
-### #is_/same_as :: [Iberia.public](/_public/Earth/Continent/Europe/Iberia.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Iberia.public|Iberia.public]] 
 
-### #is_/same_as :: [Iberia.internal](/_internal/Earth/Continent/Europe/Iberia.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Iberia.internal|Iberia.internal]] 
 
-### #is_/same_as :: [Iberia.protect](/_protect/Earth/Continent/Europe/Iberia.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Iberia.protect|Iberia.protect]] 
 
-### #is_/same_as :: [Iberia.private](/_private/Earth/Continent/Europe/Iberia.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Iberia.private|Iberia.private]] 
 
-### #is_/same_as :: [Iberia.personal](/_personal/Earth/Continent/Europe/Iberia.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Iberia.personal|Iberia.personal]] 
 
-### #is_/same_as :: [Iberia.secret](/_secret/Earth/Continent/Europe/Iberia.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Iberia.secret|Iberia.secret]] 
 

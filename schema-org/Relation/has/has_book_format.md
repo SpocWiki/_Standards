@@ -42,17 +42,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_book_format](/_Standards/schema-org/Relation/has/has_book_format.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_book_format|has_book_format]] 
 
-### #is_/same_as :: [has_book_format.public](/_public/schema-org/Relation/has/has_book_format.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_book_format.public|has_book_format.public]] 
 
-### #is_/same_as :: [has_book_format.internal](/_internal/schema-org/Relation/has/has_book_format.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_book_format.internal|has_book_format.internal]] 
 
-### #is_/same_as :: [has_book_format.protect](/_protect/schema-org/Relation/has/has_book_format.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_book_format.protect|has_book_format.protect]] 
 
-### #is_/same_as :: [has_book_format.private](/_private/schema-org/Relation/has/has_book_format.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_book_format.private|has_book_format.private]] 
 
-### #is_/same_as :: [has_book_format.personal](/_personal/schema-org/Relation/has/has_book_format.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_book_format.personal|has_book_format.personal]] 
 
-### #is_/same_as :: [has_book_format.secret](/_secret/schema-org/Relation/has/has_book_format.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_book_format.secret|has_book_format.secret]] 
 

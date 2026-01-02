@@ -45,17 +45,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_legislation_legal_force](/_Standards/schema-org/Relation/has/has_legislation_legal_force.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_legislation_legal_force|has_legislation_legal_force]] 
 
-### #is_/same_as :: [has_legislation_legal_force.public](/_public/schema-org/Relation/has/has_legislation_legal_force.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_legislation_legal_force.public|has_legislation_legal_force.public]] 
 
-### #is_/same_as :: [has_legislation_legal_force.internal](/_internal/schema-org/Relation/has/has_legislation_legal_force.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_legislation_legal_force.internal|has_legislation_legal_force.internal]] 
 
-### #is_/same_as :: [has_legislation_legal_force.protect](/_protect/schema-org/Relation/has/has_legislation_legal_force.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_legislation_legal_force.protect|has_legislation_legal_force.protect]] 
 
-### #is_/same_as :: [has_legislation_legal_force.private](/_private/schema-org/Relation/has/has_legislation_legal_force.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_legislation_legal_force.private|has_legislation_legal_force.private]] 
 
-### #is_/same_as :: [has_legislation_legal_force.personal](/_personal/schema-org/Relation/has/has_legislation_legal_force.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_legislation_legal_force.personal|has_legislation_legal_force.personal]] 
 
-### #is_/same_as :: [has_legislation_legal_force.secret](/_secret/schema-org/Relation/has/has_legislation_legal_force.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_legislation_legal_force.secret|has_legislation_legal_force.secret]] 
 

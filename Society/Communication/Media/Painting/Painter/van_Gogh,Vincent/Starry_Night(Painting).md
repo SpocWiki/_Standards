@@ -119,17 +119,17 @@ Commons_category: The Starry Night by van Gogh
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Starry_Night(Painting)](/_Standards/Society/Communication/Media/Painting/Painter/van_Gogh,Vincent/Starry_Night(Painting).md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Painting/Painter/van_Gogh,Vincent/Starry_Night(Painting)|Starry_Night(Painting)]] 
 
-### #is_/same_as :: [Starry_Night(Painting).public](/_public/Society/Communication/Media/Painting/Painter/van_Gogh,Vincent/Starry_Night(Painting).public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Painting/Painter/van_Gogh,Vincent/Starry_Night(Painting).public|Starry_Night(Painting).public]] 
 
-### #is_/same_as :: [Starry_Night(Painting).internal](/_internal/Society/Communication/Media/Painting/Painter/van_Gogh,Vincent/Starry_Night(Painting).internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Painting/Painter/van_Gogh,Vincent/Starry_Night(Painting).internal|Starry_Night(Painting).internal]] 
 
-### #is_/same_as :: [Starry_Night(Painting).protect](/_protect/Society/Communication/Media/Painting/Painter/van_Gogh,Vincent/Starry_Night(Painting).protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Painting/Painter/van_Gogh,Vincent/Starry_Night(Painting).protect|Starry_Night(Painting).protect]] 
 
-### #is_/same_as :: [Starry_Night(Painting).private](/_private/Society/Communication/Media/Painting/Painter/van_Gogh,Vincent/Starry_Night(Painting).private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Painting/Painter/van_Gogh,Vincent/Starry_Night(Painting).private|Starry_Night(Painting).private]] 
 
-### #is_/same_as :: [Starry_Night(Painting).personal](/_personal/Society/Communication/Media/Painting/Painter/van_Gogh,Vincent/Starry_Night(Painting).personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Painting/Painter/van_Gogh,Vincent/Starry_Night(Painting).personal|Starry_Night(Painting).personal]] 
 
-### #is_/same_as :: [Starry_Night(Painting).secret](/_secret/Society/Communication/Media/Painting/Painter/van_Gogh,Vincent/Starry_Night(Painting).secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Painting/Painter/van_Gogh,Vincent/Starry_Night(Painting).secret|Starry_Night(Painting).secret]] 
 

@@ -51,17 +51,17 @@ GOST_7_75_97_code: них 497
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [LangFamily-Nilo-Saharan](/_Standards/Language/Language_Family/LangFamily-Nilo-Saharan.md) 
+### #is_/same_as :: [[/_Standards/Language/Language_Family/LangFamily-Nilo-Saharan|LangFamily-Nilo-Saharan]] 
 
-### #is_/same_as :: [LangFamily-Nilo-Saharan.public](/_public/Language/Language_Family/LangFamily-Nilo-Saharan.public.md) 
+### #is_/same_as :: [[/_public/Language/Language_Family/LangFamily-Nilo-Saharan.public|LangFamily-Nilo-Saharan.public]] 
 
-### #is_/same_as :: [LangFamily-Nilo-Saharan.internal](/_internal/Language/Language_Family/LangFamily-Nilo-Saharan.internal.md) 
+### #is_/same_as :: [[/_internal/Language/Language_Family/LangFamily-Nilo-Saharan.internal|LangFamily-Nilo-Saharan.internal]] 
 
-### #is_/same_as :: [LangFamily-Nilo-Saharan.protect](/_protect/Language/Language_Family/LangFamily-Nilo-Saharan.protect.md) 
+### #is_/same_as :: [[/_protect/Language/Language_Family/LangFamily-Nilo-Saharan.protect|LangFamily-Nilo-Saharan.protect]] 
 
-### #is_/same_as :: [LangFamily-Nilo-Saharan.private](/_private/Language/Language_Family/LangFamily-Nilo-Saharan.private.md) 
+### #is_/same_as :: [[/_private/Language/Language_Family/LangFamily-Nilo-Saharan.private|LangFamily-Nilo-Saharan.private]] 
 
-### #is_/same_as :: [LangFamily-Nilo-Saharan.personal](/_personal/Language/Language_Family/LangFamily-Nilo-Saharan.personal.md) 
+### #is_/same_as :: [[/_personal/Language/Language_Family/LangFamily-Nilo-Saharan.personal|LangFamily-Nilo-Saharan.personal]] 
 
-### #is_/same_as :: [LangFamily-Nilo-Saharan.secret](/_secret/Language/Language_Family/LangFamily-Nilo-Saharan.secret.md)
+### #is_/same_as :: [[/_secret/Language/Language_Family/LangFamily-Nilo-Saharan.secret|LangFamily-Nilo-Saharan.secret]] 
 

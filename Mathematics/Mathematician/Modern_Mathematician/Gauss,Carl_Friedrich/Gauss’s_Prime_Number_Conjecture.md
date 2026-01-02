@@ -11,17 +11,17 @@ than x / Ln(x) which approximates it from above.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Gauss’s_Prime_Number_Conjecture](/_Standards/Mathematics/Mathematician/Modern_Mathematician/Gauss,Carl_Friedrich/Gauss’s_Prime_Number_Conjecture.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Mathematician/Modern_Mathematician/Gauss,Carl_Friedrich/Gauss’s_Prime_Number_Conjecture|Gauss’s_Prime_Number_Conjecture]] 
 
-### #is_/same_as :: [Gauss’s_Prime_Number_Conjecture.public](/_public/Mathematics/Mathematician/Modern_Mathematician/Gauss,Carl_Friedrich/Gauss’s_Prime_Number_Conjecture.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Mathematician/Modern_Mathematician/Gauss,Carl_Friedrich/Gauss’s_Prime_Number_Conjecture.public|Gauss’s_Prime_Number_Conjecture.public]] 
 
-### #is_/same_as :: [Gauss’s_Prime_Number_Conjecture.internal](/_internal/Mathematics/Mathematician/Modern_Mathematician/Gauss,Carl_Friedrich/Gauss’s_Prime_Number_Conjecture.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Mathematician/Modern_Mathematician/Gauss,Carl_Friedrich/Gauss’s_Prime_Number_Conjecture.internal|Gauss’s_Prime_Number_Conjecture.internal]] 
 
-### #is_/same_as :: [Gauss’s_Prime_Number_Conjecture.protect](/_protect/Mathematics/Mathematician/Modern_Mathematician/Gauss,Carl_Friedrich/Gauss’s_Prime_Number_Conjecture.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Mathematician/Modern_Mathematician/Gauss,Carl_Friedrich/Gauss’s_Prime_Number_Conjecture.protect|Gauss’s_Prime_Number_Conjecture.protect]] 
 
-### #is_/same_as :: [Gauss’s_Prime_Number_Conjecture.private](/_private/Mathematics/Mathematician/Modern_Mathematician/Gauss,Carl_Friedrich/Gauss’s_Prime_Number_Conjecture.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Mathematician/Modern_Mathematician/Gauss,Carl_Friedrich/Gauss’s_Prime_Number_Conjecture.private|Gauss’s_Prime_Number_Conjecture.private]] 
 
-### #is_/same_as :: [Gauss’s_Prime_Number_Conjecture.personal](/_personal/Mathematics/Mathematician/Modern_Mathematician/Gauss,Carl_Friedrich/Gauss’s_Prime_Number_Conjecture.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Mathematician/Modern_Mathematician/Gauss,Carl_Friedrich/Gauss’s_Prime_Number_Conjecture.personal|Gauss’s_Prime_Number_Conjecture.personal]] 
 
-### #is_/same_as :: [Gauss’s_Prime_Number_Conjecture.secret](/_secret/Mathematics/Mathematician/Modern_Mathematician/Gauss,Carl_Friedrich/Gauss’s_Prime_Number_Conjecture.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Mathematician/Modern_Mathematician/Gauss,Carl_Friedrich/Gauss’s_Prime_Number_Conjecture.secret|Gauss’s_Prime_Number_Conjecture.secret]] 
 

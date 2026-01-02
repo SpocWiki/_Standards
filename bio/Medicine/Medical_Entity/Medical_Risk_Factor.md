@@ -41,17 +41,17 @@ A risk factor is anything that increases a person's likelihood of developing or 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Medical_Risk_Factor](/_Standards/bio/Medicine/Medical_Entity/Medical_Risk_Factor.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Entity/Medical_Risk_Factor|Medical_Risk_Factor]] 
 
-### #is_/same_as :: [Medical_Risk_Factor.public](/_public/bio/Medicine/Medical_Entity/Medical_Risk_Factor.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Entity/Medical_Risk_Factor.public|Medical_Risk_Factor.public]] 
 
-### #is_/same_as :: [Medical_Risk_Factor.internal](/_internal/bio/Medicine/Medical_Entity/Medical_Risk_Factor.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Entity/Medical_Risk_Factor.internal|Medical_Risk_Factor.internal]] 
 
-### #is_/same_as :: [Medical_Risk_Factor.protect](/_protect/bio/Medicine/Medical_Entity/Medical_Risk_Factor.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Entity/Medical_Risk_Factor.protect|Medical_Risk_Factor.protect]] 
 
-### #is_/same_as :: [Medical_Risk_Factor.private](/_private/bio/Medicine/Medical_Entity/Medical_Risk_Factor.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Entity/Medical_Risk_Factor.private|Medical_Risk_Factor.private]] 
 
-### #is_/same_as :: [Medical_Risk_Factor.personal](/_personal/bio/Medicine/Medical_Entity/Medical_Risk_Factor.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Entity/Medical_Risk_Factor.personal|Medical_Risk_Factor.personal]] 
 
-### #is_/same_as :: [Medical_Risk_Factor.secret](/_secret/bio/Medicine/Medical_Entity/Medical_Risk_Factor.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Entity/Medical_Risk_Factor.secret|Medical_Risk_Factor.secret]] 
 

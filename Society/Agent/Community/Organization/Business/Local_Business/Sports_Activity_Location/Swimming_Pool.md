@@ -104,17 +104,17 @@ A public swimming pool.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Swimming_Pool](/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Sports_Activity_Location/Swimming_Pool.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Sports_Activity_Location/Swimming_Pool|Swimming_Pool]] 
 
-### #is_/same_as :: [Swimming_Pool.public](/_public/Society/Agent/Community/Organization/Business/Local_Business/Sports_Activity_Location/Swimming_Pool.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Business/Local_Business/Sports_Activity_Location/Swimming_Pool.public|Swimming_Pool.public]] 
 
-### #is_/same_as :: [Swimming_Pool.internal](/_internal/Society/Agent/Community/Organization/Business/Local_Business/Sports_Activity_Location/Swimming_Pool.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Business/Local_Business/Sports_Activity_Location/Swimming_Pool.internal|Swimming_Pool.internal]] 
 
-### #is_/same_as :: [Swimming_Pool.protect](/_protect/Society/Agent/Community/Organization/Business/Local_Business/Sports_Activity_Location/Swimming_Pool.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Business/Local_Business/Sports_Activity_Location/Swimming_Pool.protect|Swimming_Pool.protect]] 
 
-### #is_/same_as :: [Swimming_Pool.private](/_private/Society/Agent/Community/Organization/Business/Local_Business/Sports_Activity_Location/Swimming_Pool.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Business/Local_Business/Sports_Activity_Location/Swimming_Pool.private|Swimming_Pool.private]] 
 
-### #is_/same_as :: [Swimming_Pool.personal](/_personal/Society/Agent/Community/Organization/Business/Local_Business/Sports_Activity_Location/Swimming_Pool.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Business/Local_Business/Sports_Activity_Location/Swimming_Pool.personal|Swimming_Pool.personal]] 
 
-### #is_/same_as :: [Swimming_Pool.secret](/_secret/Society/Agent/Community/Organization/Business/Local_Business/Sports_Activity_Location/Swimming_Pool.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Business/Local_Business/Sports_Activity_Location/Swimming_Pool.secret|Swimming_Pool.secret]] 
 

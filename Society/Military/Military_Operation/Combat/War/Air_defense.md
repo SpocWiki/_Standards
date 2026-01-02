@@ -33,17 +33,17 @@ Krugosvet_article_archived_: nauka_i_tehnika/voennaya_tehnika/PROTIVOVOZDUSHNAYA
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Air_defense](/_Standards/Society/Military/Military_Operation/Combat/War/Air_defense.md) 
+### #is_/same_as :: [[/_Standards/Society/Military/Military_Operation/Combat/War/Air_defense|Air_defense]] 
 
-### #is_/same_as :: [Air_defense.public](/_public/Society/Military/Military_Operation/Combat/War/Air_defense.public.md) 
+### #is_/same_as :: [[/_public/Society/Military/Military_Operation/Combat/War/Air_defense.public|Air_defense.public]] 
 
-### #is_/same_as :: [Air_defense.internal](/_internal/Society/Military/Military_Operation/Combat/War/Air_defense.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Military/Military_Operation/Combat/War/Air_defense.internal|Air_defense.internal]] 
 
-### #is_/same_as :: [Air_defense.protect](/_protect/Society/Military/Military_Operation/Combat/War/Air_defense.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Military/Military_Operation/Combat/War/Air_defense.protect|Air_defense.protect]] 
 
-### #is_/same_as :: [Air_defense.private](/_private/Society/Military/Military_Operation/Combat/War/Air_defense.private.md) 
+### #is_/same_as :: [[/_private/Society/Military/Military_Operation/Combat/War/Air_defense.private|Air_defense.private]] 
 
-### #is_/same_as :: [Air_defense.personal](/_personal/Society/Military/Military_Operation/Combat/War/Air_defense.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Military/Military_Operation/Combat/War/Air_defense.personal|Air_defense.personal]] 
 
-### #is_/same_as :: [Air_defense.secret](/_secret/Society/Military/Military_Operation/Combat/War/Air_defense.secret.md)
+### #is_/same_as :: [[/_secret/Society/Military/Military_Operation/Combat/War/Air_defense.secret|Air_defense.secret]] 
 

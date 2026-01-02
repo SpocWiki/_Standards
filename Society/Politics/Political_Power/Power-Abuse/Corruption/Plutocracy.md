@@ -42,17 +42,17 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Thomas%20Theodor%20Hei
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Plutocracy](/_Standards/Society/Politics/Political_Power/Power-Abuse/Corruption/Plutocracy.md) 
+### #is_/same_as :: [[/_Standards/Society/Politics/Political_Power/Power-Abuse/Corruption/Plutocracy|Plutocracy]] 
 
-### #is_/same_as :: [Plutocracy.public](/_public/Society/Politics/Political_Power/Power-Abuse/Corruption/Plutocracy.public.md) 
+### #is_/same_as :: [[/_public/Society/Politics/Political_Power/Power-Abuse/Corruption/Plutocracy.public|Plutocracy.public]] 
 
-### #is_/same_as :: [Plutocracy.internal](/_internal/Society/Politics/Political_Power/Power-Abuse/Corruption/Plutocracy.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Politics/Political_Power/Power-Abuse/Corruption/Plutocracy.internal|Plutocracy.internal]] 
 
-### #is_/same_as :: [Plutocracy.protect](/_protect/Society/Politics/Political_Power/Power-Abuse/Corruption/Plutocracy.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Politics/Political_Power/Power-Abuse/Corruption/Plutocracy.protect|Plutocracy.protect]] 
 
-### #is_/same_as :: [Plutocracy.private](/_private/Society/Politics/Political_Power/Power-Abuse/Corruption/Plutocracy.private.md) 
+### #is_/same_as :: [[/_private/Society/Politics/Political_Power/Power-Abuse/Corruption/Plutocracy.private|Plutocracy.private]] 
 
-### #is_/same_as :: [Plutocracy.personal](/_personal/Society/Politics/Political_Power/Power-Abuse/Corruption/Plutocracy.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Politics/Political_Power/Power-Abuse/Corruption/Plutocracy.personal|Plutocracy.personal]] 
 
-### #is_/same_as :: [Plutocracy.secret](/_secret/Society/Politics/Political_Power/Power-Abuse/Corruption/Plutocracy.secret.md)
+### #is_/same_as :: [[/_secret/Society/Politics/Political_Power/Power-Abuse/Corruption/Plutocracy.secret|Plutocracy.secret]] 
 

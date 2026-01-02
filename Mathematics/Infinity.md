@@ -78,17 +78,17 @@ topic_s_main_template: '[[_Standards/WikiData/WD~Template_Infinity,15603314]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Infinity](/_Standards/Mathematics/Infinity.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Infinity|Infinity]] 
 
-### #is_/same_as :: [Infinity.public](/_public/Mathematics/Infinity.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Infinity.public|Infinity.public]] 
 
-### #is_/same_as :: [Infinity.internal](/_internal/Mathematics/Infinity.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Infinity.internal|Infinity.internal]] 
 
-### #is_/same_as :: [Infinity.protect](/_protect/Mathematics/Infinity.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Infinity.protect|Infinity.protect]] 
 
-### #is_/same_as :: [Infinity.private](/_private/Mathematics/Infinity.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Infinity.private|Infinity.private]] 
 
-### #is_/same_as :: [Infinity.personal](/_personal/Mathematics/Infinity.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Infinity.personal|Infinity.personal]] 
 
-### #is_/same_as :: [Infinity.secret](/_secret/Mathematics/Infinity.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Infinity.secret|Infinity.secret]] 
 

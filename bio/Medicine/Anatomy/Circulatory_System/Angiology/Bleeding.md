@@ -50,17 +50,17 @@ MeSH_tree_code: C23.550.414
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bleeding](/_Standards/bio/Medicine/Anatomy/Circulatory_System/Angiology/Bleeding.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Anatomy/Circulatory_System/Angiology/Bleeding|Bleeding]] 
 
-### #is_/same_as :: [Bleeding.public](/_public/bio/Medicine/Anatomy/Circulatory_System/Angiology/Bleeding.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Anatomy/Circulatory_System/Angiology/Bleeding.public|Bleeding.public]] 
 
-### #is_/same_as :: [Bleeding.internal](/_internal/bio/Medicine/Anatomy/Circulatory_System/Angiology/Bleeding.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Anatomy/Circulatory_System/Angiology/Bleeding.internal|Bleeding.internal]] 
 
-### #is_/same_as :: [Bleeding.protect](/_protect/bio/Medicine/Anatomy/Circulatory_System/Angiology/Bleeding.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Anatomy/Circulatory_System/Angiology/Bleeding.protect|Bleeding.protect]] 
 
-### #is_/same_as :: [Bleeding.private](/_private/bio/Medicine/Anatomy/Circulatory_System/Angiology/Bleeding.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Anatomy/Circulatory_System/Angiology/Bleeding.private|Bleeding.private]] 
 
-### #is_/same_as :: [Bleeding.personal](/_personal/bio/Medicine/Anatomy/Circulatory_System/Angiology/Bleeding.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Anatomy/Circulatory_System/Angiology/Bleeding.personal|Bleeding.personal]] 
 
-### #is_/same_as :: [Bleeding.secret](/_secret/bio/Medicine/Anatomy/Circulatory_System/Angiology/Bleeding.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Anatomy/Circulatory_System/Angiology/Bleeding.secret|Bleeding.secret]] 
 

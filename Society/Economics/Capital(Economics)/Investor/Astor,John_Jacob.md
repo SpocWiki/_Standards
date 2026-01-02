@@ -117,17 +117,17 @@ ISNI: 0000000073755923
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Astor,John_Jacob](/_Standards/Society/Economics/Capital(Economics)/Investor/Astor,John_Jacob.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Capital(Economics)/Investor/Astor,John_Jacob|Astor,John_Jacob]] 
 
-### #is_/same_as :: [Astor,John_Jacob.public](/_public/Society/Economics/Capital(Economics)/Investor/Astor,John_Jacob.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Capital(Economics)/Investor/Astor,John_Jacob.public|Astor,John_Jacob.public]] 
 
-### #is_/same_as :: [Astor,John_Jacob.internal](/_internal/Society/Economics/Capital(Economics)/Investor/Astor,John_Jacob.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Capital(Economics)/Investor/Astor,John_Jacob.internal|Astor,John_Jacob.internal]] 
 
-### #is_/same_as :: [Astor,John_Jacob.protect](/_protect/Society/Economics/Capital(Economics)/Investor/Astor,John_Jacob.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Capital(Economics)/Investor/Astor,John_Jacob.protect|Astor,John_Jacob.protect]] 
 
-### #is_/same_as :: [Astor,John_Jacob.private](/_private/Society/Economics/Capital(Economics)/Investor/Astor,John_Jacob.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Capital(Economics)/Investor/Astor,John_Jacob.private|Astor,John_Jacob.private]] 
 
-### #is_/same_as :: [Astor,John_Jacob.personal](/_personal/Society/Economics/Capital(Economics)/Investor/Astor,John_Jacob.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Capital(Economics)/Investor/Astor,John_Jacob.personal|Astor,John_Jacob.personal]] 
 
-### #is_/same_as :: [Astor,John_Jacob.secret](/_secret/Society/Economics/Capital(Economics)/Investor/Astor,John_Jacob.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Capital(Economics)/Investor/Astor,John_Jacob.secret|Astor,John_Jacob.secret]] 
 

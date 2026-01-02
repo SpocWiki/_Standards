@@ -142,17 +142,17 @@ panoramic_view: http://commons.wikimedia.org/wiki/Special:FilePath/Monumento%20a
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Strauss,Johann_II](/_Standards/Society/Communication/Media/Music/Composer/Romantic_Composer/Strauss,Johann_II.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Composer/Romantic_Composer/Strauss,Johann_II|Strauss,Johann_II]] 
 
-### #is_/same_as :: [Strauss,Johann_II.public](/_public/Society/Communication/Media/Music/Composer/Romantic_Composer/Strauss,Johann_II.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Composer/Romantic_Composer/Strauss,Johann_II.public|Strauss,Johann_II.public]] 
 
-### #is_/same_as :: [Strauss,Johann_II.internal](/_internal/Society/Communication/Media/Music/Composer/Romantic_Composer/Strauss,Johann_II.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Composer/Romantic_Composer/Strauss,Johann_II.internal|Strauss,Johann_II.internal]] 
 
-### #is_/same_as :: [Strauss,Johann_II.protect](/_protect/Society/Communication/Media/Music/Composer/Romantic_Composer/Strauss,Johann_II.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Composer/Romantic_Composer/Strauss,Johann_II.protect|Strauss,Johann_II.protect]] 
 
-### #is_/same_as :: [Strauss,Johann_II.private](/_private/Society/Communication/Media/Music/Composer/Romantic_Composer/Strauss,Johann_II.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Composer/Romantic_Composer/Strauss,Johann_II.private|Strauss,Johann_II.private]] 
 
-### #is_/same_as :: [Strauss,Johann_II.personal](/_personal/Society/Communication/Media/Music/Composer/Romantic_Composer/Strauss,Johann_II.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Composer/Romantic_Composer/Strauss,Johann_II.personal|Strauss,Johann_II.personal]] 
 
-### #is_/same_as :: [Strauss,Johann_II.secret](/_secret/Society/Communication/Media/Music/Composer/Romantic_Composer/Strauss,Johann_II.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Composer/Romantic_Composer/Strauss,Johann_II.secret|Strauss,Johann_II.secret]] 
 

@@ -82,7 +82,7 @@ drives water into the coelenteron. In most sea anemones and corals, two
 siphonoglyphs are situated diametrically opposite one another in the
 actinopharynx. Siphonoglyphs and their associated structures impart a
 bilateral or biradial symmetry to the polyp (e.g. Shick 1991).
-![ ](Anthozoa/crossup.jpg))
+![ ](Anthozoa/crossup.jpg) 
 ![ ](Anthozoa/crossdown.jpg))
 
 Figure 1. Cross-section of an anthozoan, the sea anemone *Megalactis*
@@ -279,7 +279,7 @@ Kansas Press, Lawrence.
 
 ## Title Illustrations
 
-![](Anthozoa/img0077.jpg))
+![](Anthozoa/img0077.jpg) 
 
   ------------------------
   Scientific Name ::     Stichodactyla mertensii
@@ -287,7 +287,7 @@ Kansas Press, Lawrence.
   Specimen Condition   Live Specimen
   Copyright ::            © 1999 Gerald R. Allen
   ------------------------
-![](Anthozoa/octocorallia.jpg))
+![](Anthozoa/octocorallia.jpg) 
 
   ----------------------------
   Scientific Name ::  Alcyonaria
@@ -298,17 +298,17 @@ Kansas Press, Lawrence.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Anthozoa](/_Standards/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa|Anthozoa]] 
 
-### #is_/same_as :: [Anthozoa.public](/_public/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa.public|Anthozoa.public]] 
 
-### #is_/same_as :: [Anthozoa.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa.internal|Anthozoa.internal]] 
 
-### #is_/same_as :: [Anthozoa.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa.protect|Anthozoa.protect]] 
 
-### #is_/same_as :: [Anthozoa.private](/_private/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa.private|Anthozoa.private]] 
 
-### #is_/same_as :: [Anthozoa.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa.personal|Anthozoa.personal]] 
 
-### #is_/same_as :: [Anthozoa.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa.secret|Anthozoa.secret]] 
 

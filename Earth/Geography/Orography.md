@@ -21,17 +21,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Orography](/_Standards/Earth/Geography/Orography.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geography/Orography|Orography]] 
 
-### #is_/same_as :: [Orography.public](/_public/Earth/Geography/Orography.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geography/Orography.public|Orography.public]] 
 
-### #is_/same_as :: [Orography.internal](/_internal/Earth/Geography/Orography.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geography/Orography.internal|Orography.internal]] 
 
-### #is_/same_as :: [Orography.protect](/_protect/Earth/Geography/Orography.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geography/Orography.protect|Orography.protect]] 
 
-### #is_/same_as :: [Orography.private](/_private/Earth/Geography/Orography.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geography/Orography.private|Orography.private]] 
 
-### #is_/same_as :: [Orography.personal](/_personal/Earth/Geography/Orography.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geography/Orography.personal|Orography.personal]] 
 
-### #is_/same_as :: [Orography.secret](/_secret/Earth/Geography/Orography.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geography/Orography.secret|Orography.secret]] 
 

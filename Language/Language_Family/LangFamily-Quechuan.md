@@ -109,17 +109,17 @@ native_label: Qhichwa simi
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [LangFamily-Quechuan](/_Standards/Language/Language_Family/LangFamily-Quechuan.md) 
+### #is_/same_as :: [[/_Standards/Language/Language_Family/LangFamily-Quechuan|LangFamily-Quechuan]] 
 
-### #is_/same_as :: [LangFamily-Quechuan.public](/_public/Language/Language_Family/LangFamily-Quechuan.public.md) 
+### #is_/same_as :: [[/_public/Language/Language_Family/LangFamily-Quechuan.public|LangFamily-Quechuan.public]] 
 
-### #is_/same_as :: [LangFamily-Quechuan.internal](/_internal/Language/Language_Family/LangFamily-Quechuan.internal.md) 
+### #is_/same_as :: [[/_internal/Language/Language_Family/LangFamily-Quechuan.internal|LangFamily-Quechuan.internal]] 
 
-### #is_/same_as :: [LangFamily-Quechuan.protect](/_protect/Language/Language_Family/LangFamily-Quechuan.protect.md) 
+### #is_/same_as :: [[/_protect/Language/Language_Family/LangFamily-Quechuan.protect|LangFamily-Quechuan.protect]] 
 
-### #is_/same_as :: [LangFamily-Quechuan.private](/_private/Language/Language_Family/LangFamily-Quechuan.private.md) 
+### #is_/same_as :: [[/_private/Language/Language_Family/LangFamily-Quechuan.private|LangFamily-Quechuan.private]] 
 
-### #is_/same_as :: [LangFamily-Quechuan.personal](/_personal/Language/Language_Family/LangFamily-Quechuan.personal.md) 
+### #is_/same_as :: [[/_personal/Language/Language_Family/LangFamily-Quechuan.personal|LangFamily-Quechuan.personal]] 
 
-### #is_/same_as :: [LangFamily-Quechuan.secret](/_secret/Language/Language_Family/LangFamily-Quechuan.secret.md)
+### #is_/same_as :: [[/_secret/Language/Language_Family/LangFamily-Quechuan.secret|LangFamily-Quechuan.secret]] 
 

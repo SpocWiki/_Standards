@@ -67,17 +67,17 @@ Copyright ::   © 1995 [BIODIDAC](http://biodidac.bio.uottawa.ca/index.htm)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Gastrotricha](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Gastrotricha.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Gastrotricha|Gastrotricha]] 
 
-### #is_/same_as :: [Gastrotricha.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Gastrotricha.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Gastrotricha.public|Gastrotricha.public]] 
 
-### #is_/same_as :: [Gastrotricha.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Gastrotricha.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Gastrotricha.internal|Gastrotricha.internal]] 
 
-### #is_/same_as :: [Gastrotricha.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Gastrotricha.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Gastrotricha.protect|Gastrotricha.protect]] 
 
-### #is_/same_as :: [Gastrotricha.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Gastrotricha.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Gastrotricha.private|Gastrotricha.private]] 
 
-### #is_/same_as :: [Gastrotricha.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Gastrotricha.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Gastrotricha.personal|Gastrotricha.personal]] 
 
-### #is_/same_as :: [Gastrotricha.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Gastrotricha.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Gastrotricha.secret|Gastrotricha.secret]] 
 

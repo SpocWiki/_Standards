@@ -91,17 +91,17 @@ title: Fusobacteria
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Fusobacteria](/_Standards/bio/bio~Domain/Bacteria/Fusobacteria.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Bacteria/Fusobacteria|Fusobacteria]] 
 
-### #is_/same_as :: [Fusobacteria.public](/_public/bio/bio~Domain/Bacteria/Fusobacteria.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Bacteria/Fusobacteria.public|Fusobacteria.public]] 
 
-### #is_/same_as :: [Fusobacteria.internal](/_internal/bio/bio~Domain/Bacteria/Fusobacteria.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Bacteria/Fusobacteria.internal|Fusobacteria.internal]] 
 
-### #is_/same_as :: [Fusobacteria.protect](/_protect/bio/bio~Domain/Bacteria/Fusobacteria.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Bacteria/Fusobacteria.protect|Fusobacteria.protect]] 
 
-### #is_/same_as :: [Fusobacteria.private](/_private/bio/bio~Domain/Bacteria/Fusobacteria.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Bacteria/Fusobacteria.private|Fusobacteria.private]] 
 
-### #is_/same_as :: [Fusobacteria.personal](/_personal/bio/bio~Domain/Bacteria/Fusobacteria.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Bacteria/Fusobacteria.personal|Fusobacteria.personal]] 
 
-### #is_/same_as :: [Fusobacteria.secret](/_secret/bio/bio~Domain/Bacteria/Fusobacteria.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Bacteria/Fusobacteria.secret|Fusobacteria.secret]] 
 

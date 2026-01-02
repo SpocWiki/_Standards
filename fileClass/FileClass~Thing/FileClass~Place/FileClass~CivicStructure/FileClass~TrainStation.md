@@ -37,17 +37,17 @@ A train station.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~TrainStation](/_Standards/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~TrainStation.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~TrainStation|FileClass~TrainStation]] 
 
-### #is_/same_as :: [FileClass~TrainStation.public](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~TrainStation.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~TrainStation.public|FileClass~TrainStation.public]] 
 
-### #is_/same_as :: [FileClass~TrainStation.internal](/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~TrainStation.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~TrainStation.internal|FileClass~TrainStation.internal]] 
 
-### #is_/same_as :: [FileClass~TrainStation.protect](/_protect/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~TrainStation.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~TrainStation.protect|FileClass~TrainStation.protect]] 
 
-### #is_/same_as :: [FileClass~TrainStation.private](/_private/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~TrainStation.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~TrainStation.private|FileClass~TrainStation.private]] 
 
-### #is_/same_as :: [FileClass~TrainStation.personal](/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~TrainStation.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~TrainStation.personal|FileClass~TrainStation.personal]] 
 
-### #is_/same_as :: [FileClass~TrainStation.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~TrainStation.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~TrainStation.secret|FileClass~TrainStation.secret]] 
 

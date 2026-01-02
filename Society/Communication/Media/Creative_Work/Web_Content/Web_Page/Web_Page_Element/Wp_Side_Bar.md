@@ -41,17 +41,17 @@ A sidebar section of the page.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Wp_Side_Bar](/_Standards/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Web_Page_Element/Wp_Side_Bar.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Web_Page_Element/Wp_Side_Bar|Wp_Side_Bar]] 
 
-### #is_/same_as :: [Wp_Side_Bar.public](/_public/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Web_Page_Element/Wp_Side_Bar.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Web_Page_Element/Wp_Side_Bar.public|Wp_Side_Bar.public]] 
 
-### #is_/same_as :: [Wp_Side_Bar.internal](/_internal/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Web_Page_Element/Wp_Side_Bar.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Web_Page_Element/Wp_Side_Bar.internal|Wp_Side_Bar.internal]] 
 
-### #is_/same_as :: [Wp_Side_Bar.protect](/_protect/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Web_Page_Element/Wp_Side_Bar.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Web_Page_Element/Wp_Side_Bar.protect|Wp_Side_Bar.protect]] 
 
-### #is_/same_as :: [Wp_Side_Bar.private](/_private/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Web_Page_Element/Wp_Side_Bar.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Web_Page_Element/Wp_Side_Bar.private|Wp_Side_Bar.private]] 
 
-### #is_/same_as :: [Wp_Side_Bar.personal](/_personal/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Web_Page_Element/Wp_Side_Bar.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Web_Page_Element/Wp_Side_Bar.personal|Wp_Side_Bar.personal]] 
 
-### #is_/same_as :: [Wp_Side_Bar.secret](/_secret/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Web_Page_Element/Wp_Side_Bar.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Web_Page_Element/Wp_Side_Bar.secret|Wp_Side_Bar.secret]] 
 

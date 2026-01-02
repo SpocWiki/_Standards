@@ -15,17 +15,17 @@ Several Languages, especially [[../Language_Family/LangFamily-Afro-Asiatic/LangF
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Script~Arab](/_Standards/Language/Writing_System/Script~Arab.md) 
+### #is_/same_as :: [[/_Standards/Language/Writing_System/Script~Arab|Script~Arab]] 
 
-### #is_/same_as :: [Script~Arab.public](/_public/Language/Writing_System/Script~Arab.public.md) 
+### #is_/same_as :: [[/_public/Language/Writing_System/Script~Arab.public|Script~Arab.public]] 
 
-### #is_/same_as :: [Script~Arab.internal](/_internal/Language/Writing_System/Script~Arab.internal.md) 
+### #is_/same_as :: [[/_internal/Language/Writing_System/Script~Arab.internal|Script~Arab.internal]] 
 
-### #is_/same_as :: [Script~Arab.protect](/_protect/Language/Writing_System/Script~Arab.protect.md) 
+### #is_/same_as :: [[/_protect/Language/Writing_System/Script~Arab.protect|Script~Arab.protect]] 
 
-### #is_/same_as :: [Script~Arab.private](/_private/Language/Writing_System/Script~Arab.private.md) 
+### #is_/same_as :: [[/_private/Language/Writing_System/Script~Arab.private|Script~Arab.private]] 
 
-### #is_/same_as :: [Script~Arab.personal](/_personal/Language/Writing_System/Script~Arab.personal.md) 
+### #is_/same_as :: [[/_personal/Language/Writing_System/Script~Arab.personal|Script~Arab.personal]] 
 
-### #is_/same_as :: [Script~Arab.secret](/_secret/Language/Writing_System/Script~Arab.secret.md)
+### #is_/same_as :: [[/_secret/Language/Writing_System/Script~Arab.secret|Script~Arab.secret]] 
 

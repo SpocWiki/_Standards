@@ -45,17 +45,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_value_for_exchange_rate_spread](/_Standards/schema-org/Property/has_value_for/has_value_for_exchange_rate_spread.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_value_for/has_value_for_exchange_rate_spread|has_value_for_exchange_rate_spread]] 
 
-### #is_/same_as :: [has_value_for_exchange_rate_spread.public](/_public/schema-org/Property/has_value_for/has_value_for_exchange_rate_spread.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/has_value_for/has_value_for_exchange_rate_spread.public|has_value_for_exchange_rate_spread.public]] 
 
-### #is_/same_as :: [has_value_for_exchange_rate_spread.internal](/_internal/schema-org/Property/has_value_for/has_value_for_exchange_rate_spread.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_value_for/has_value_for_exchange_rate_spread.internal|has_value_for_exchange_rate_spread.internal]] 
 
-### #is_/same_as :: [has_value_for_exchange_rate_spread.protect](/_protect/schema-org/Property/has_value_for/has_value_for_exchange_rate_spread.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_value_for/has_value_for_exchange_rate_spread.protect|has_value_for_exchange_rate_spread.protect]] 
 
-### #is_/same_as :: [has_value_for_exchange_rate_spread.private](/_private/schema-org/Property/has_value_for/has_value_for_exchange_rate_spread.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/has_value_for/has_value_for_exchange_rate_spread.private|has_value_for_exchange_rate_spread.private]] 
 
-### #is_/same_as :: [has_value_for_exchange_rate_spread.personal](/_personal/schema-org/Property/has_value_for/has_value_for_exchange_rate_spread.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_value_for/has_value_for_exchange_rate_spread.personal|has_value_for_exchange_rate_spread.personal]] 
 
-### #is_/same_as :: [has_value_for_exchange_rate_spread.secret](/_secret/schema-org/Property/has_value_for/has_value_for_exchange_rate_spread.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/has_value_for/has_value_for_exchange_rate_spread.secret|has_value_for_exchange_rate_spread.secret]] 
 

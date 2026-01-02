@@ -221,17 +221,17 @@ writing_system:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lang-deu](/_Standards/Language/Language_Family/LangFamily-Indo-European/LangFamily-Germanic/Lang-deu.md) 
+### #is_/same_as :: [[/_Standards/Language/Language_Family/LangFamily-Indo-European/LangFamily-Germanic/Lang-deu|Lang-deu]] 
 
-### #is_/same_as :: [Lang-deu.public](/_public/Language/Language_Family/LangFamily-Indo-European/LangFamily-Germanic/Lang-deu.public.md) 
+### #is_/same_as :: [[/_public/Language/Language_Family/LangFamily-Indo-European/LangFamily-Germanic/Lang-deu.public|Lang-deu.public]] 
 
-### #is_/same_as :: [Lang-deu.internal](/_internal/Language/Language_Family/LangFamily-Indo-European/LangFamily-Germanic/Lang-deu.internal.md) 
+### #is_/same_as :: [[/_internal/Language/Language_Family/LangFamily-Indo-European/LangFamily-Germanic/Lang-deu.internal|Lang-deu.internal]] 
 
-### #is_/same_as :: [Lang-deu.protect](/_protect/Language/Language_Family/LangFamily-Indo-European/LangFamily-Germanic/Lang-deu.protect.md) 
+### #is_/same_as :: [[/_protect/Language/Language_Family/LangFamily-Indo-European/LangFamily-Germanic/Lang-deu.protect|Lang-deu.protect]] 
 
-### #is_/same_as :: [Lang-deu.private](/_private/Language/Language_Family/LangFamily-Indo-European/LangFamily-Germanic/Lang-deu.private.md) 
+### #is_/same_as :: [[/_private/Language/Language_Family/LangFamily-Indo-European/LangFamily-Germanic/Lang-deu.private|Lang-deu.private]] 
 
-### #is_/same_as :: [Lang-deu.personal](/_personal/Language/Language_Family/LangFamily-Indo-European/LangFamily-Germanic/Lang-deu.personal.md) 
+### #is_/same_as :: [[/_personal/Language/Language_Family/LangFamily-Indo-European/LangFamily-Germanic/Lang-deu.personal|Lang-deu.personal]] 
 
-### #is_/same_as :: [Lang-deu.secret](/_secret/Language/Language_Family/LangFamily-Indo-European/LangFamily-Germanic/Lang-deu.secret.md)
+### #is_/same_as :: [[/_secret/Language/Language_Family/LangFamily-Indo-European/LangFamily-Germanic/Lang-deu.secret|Lang-deu.secret]] 
 

@@ -123,17 +123,17 @@ families with smooth, unsculptured walls may be polyphyletic.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Zygnematales](/_Standards/bio/bio~Domain/Eukarya/Plant/Zygnematales.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Plant/Zygnematales|Zygnematales]] 
 
-### #is_/same_as :: [Zygnematales.public](/_public/bio/bio~Domain/Eukarya/Plant/Zygnematales.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Plant/Zygnematales.public|Zygnematales.public]] 
 
-### #is_/same_as :: [Zygnematales.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Zygnematales.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Plant/Zygnematales.internal|Zygnematales.internal]] 
 
-### #is_/same_as :: [Zygnematales.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Zygnematales.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Plant/Zygnematales.protect|Zygnematales.protect]] 
 
-### #is_/same_as :: [Zygnematales.private](/_private/bio/bio~Domain/Eukarya/Plant/Zygnematales.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Plant/Zygnematales.private|Zygnematales.private]] 
 
-### #is_/same_as :: [Zygnematales.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Zygnematales.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Plant/Zygnematales.personal|Zygnematales.personal]] 
 
-### #is_/same_as :: [Zygnematales.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Zygnematales.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Plant/Zygnematales.secret|Zygnematales.secret]] 
 

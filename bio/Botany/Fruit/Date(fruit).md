@@ -74,17 +74,17 @@ UNII: H3O7QI5HY7
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Date(fruit)](/_Standards/bio/Botany/Fruit/Date(fruit).md) 
+### #is_/same_as :: [[/_Standards/bio/Botany/Fruit/Date(fruit)|Date(fruit)]] 
 
-### #is_/same_as :: [Date(fruit).public](/_public/bio/Botany/Fruit/Date(fruit).public.md) 
+### #is_/same_as :: [[/_public/bio/Botany/Fruit/Date(fruit).public|Date(fruit).public]] 
 
-### #is_/same_as :: [Date(fruit).internal](/_internal/bio/Botany/Fruit/Date(fruit).internal.md) 
+### #is_/same_as :: [[/_internal/bio/Botany/Fruit/Date(fruit).internal|Date(fruit).internal]] 
 
-### #is_/same_as :: [Date(fruit).protect](/_protect/bio/Botany/Fruit/Date(fruit).protect.md) 
+### #is_/same_as :: [[/_protect/bio/Botany/Fruit/Date(fruit).protect|Date(fruit).protect]] 
 
-### #is_/same_as :: [Date(fruit).private](/_private/bio/Botany/Fruit/Date(fruit).private.md) 
+### #is_/same_as :: [[/_private/bio/Botany/Fruit/Date(fruit).private|Date(fruit).private]] 
 
-### #is_/same_as :: [Date(fruit).personal](/_personal/bio/Botany/Fruit/Date(fruit).personal.md) 
+### #is_/same_as :: [[/_personal/bio/Botany/Fruit/Date(fruit).personal|Date(fruit).personal]] 
 
-### #is_/same_as :: [Date(fruit).secret](/_secret/bio/Botany/Fruit/Date(fruit).secret.md)
+### #is_/same_as :: [[/_secret/bio/Botany/Fruit/Date(fruit).secret|Date(fruit).secret]] 
 

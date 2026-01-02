@@ -45,17 +45,17 @@ But typically it is a typed [[../Collection/item_list|item_list]] with sub-prope
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_sub_properties](/_Standards/schema-org/Property/has_sub_properties.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_sub_properties|has_sub_properties]] 
 
-### #is_/same_as :: [has_sub_properties.public](/_public/schema-org/Property/has_sub_properties.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/has_sub_properties.public|has_sub_properties.public]] 
 
-### #is_/same_as :: [has_sub_properties.internal](/_internal/schema-org/Property/has_sub_properties.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_sub_properties.internal|has_sub_properties.internal]] 
 
-### #is_/same_as :: [has_sub_properties.protect](/_protect/schema-org/Property/has_sub_properties.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_sub_properties.protect|has_sub_properties.protect]] 
 
-### #is_/same_as :: [has_sub_properties.private](/_private/schema-org/Property/has_sub_properties.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/has_sub_properties.private|has_sub_properties.private]] 
 
-### #is_/same_as :: [has_sub_properties.personal](/_personal/schema-org/Property/has_sub_properties.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_sub_properties.personal|has_sub_properties.personal]] 
 
-### #is_/same_as :: [has_sub_properties.secret](/_secret/schema-org/Property/has_sub_properties.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/has_sub_properties.secret|has_sub_properties.secret]] 
 

@@ -63,17 +63,17 @@ Wolfram_Language_entity_code: Entity["Concept", "Disability::d5f7d"]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Disability](/_Standards/bio/Medicine/Medical_Condition/Disability.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Condition/Disability|Disability]] 
 
-### #is_/same_as :: [Disability.public](/_public/bio/Medicine/Medical_Condition/Disability.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Condition/Disability.public|Disability.public]] 
 
-### #is_/same_as :: [Disability.internal](/_internal/bio/Medicine/Medical_Condition/Disability.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Condition/Disability.internal|Disability.internal]] 
 
-### #is_/same_as :: [Disability.protect](/_protect/bio/Medicine/Medical_Condition/Disability.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Condition/Disability.protect|Disability.protect]] 
 
-### #is_/same_as :: [Disability.private](/_private/bio/Medicine/Medical_Condition/Disability.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Condition/Disability.private|Disability.private]] 
 
-### #is_/same_as :: [Disability.personal](/_personal/bio/Medicine/Medical_Condition/Disability.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Condition/Disability.personal|Disability.personal]] 
 
-### #is_/same_as :: [Disability.secret](/_secret/bio/Medicine/Medical_Condition/Disability.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Condition/Disability.secret|Disability.secret]] 
 

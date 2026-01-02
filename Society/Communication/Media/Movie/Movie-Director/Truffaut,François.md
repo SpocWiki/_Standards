@@ -130,17 +130,17 @@ Libris_URI: 64jlnq3q1q4bds2
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Truffaut,François](/_Standards/Society/Communication/Media/Movie/Movie-Director/Truffaut,François.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Director/Truffaut,François|Truffaut,François]] 
 
-### #is_/same_as :: [Truffaut,François.public](/_public/Society/Communication/Media/Movie/Movie-Director/Truffaut,François.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Director/Truffaut,François.public|Truffaut,François.public]] 
 
-### #is_/same_as :: [Truffaut,François.internal](/_internal/Society/Communication/Media/Movie/Movie-Director/Truffaut,François.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Director/Truffaut,François.internal|Truffaut,François.internal]] 
 
-### #is_/same_as :: [Truffaut,François.protect](/_protect/Society/Communication/Media/Movie/Movie-Director/Truffaut,François.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Director/Truffaut,François.protect|Truffaut,François.protect]] 
 
-### #is_/same_as :: [Truffaut,François.private](/_private/Society/Communication/Media/Movie/Movie-Director/Truffaut,François.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Director/Truffaut,François.private|Truffaut,François.private]] 
 
-### #is_/same_as :: [Truffaut,François.personal](/_personal/Society/Communication/Media/Movie/Movie-Director/Truffaut,François.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Director/Truffaut,François.personal|Truffaut,François.personal]] 
 
-### #is_/same_as :: [Truffaut,François.secret](/_secret/Society/Communication/Media/Movie/Movie-Director/Truffaut,François.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Director/Truffaut,François.secret|Truffaut,François.secret]] 
 

@@ -78,17 +78,17 @@ subreddit:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Urban_Planning](/_Standards/Technology/Engineering/Civil_Engineering/Urban_Planning.md) 
+### #is_/same_as :: [[/_Standards/Technology/Engineering/Civil_Engineering/Urban_Planning|Urban_Planning]] 
 
-### #is_/same_as :: [Urban_Planning.public](/_public/Technology/Engineering/Civil_Engineering/Urban_Planning.public.md) 
+### #is_/same_as :: [[/_public/Technology/Engineering/Civil_Engineering/Urban_Planning.public|Urban_Planning.public]] 
 
-### #is_/same_as :: [Urban_Planning.internal](/_internal/Technology/Engineering/Civil_Engineering/Urban_Planning.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Engineering/Civil_Engineering/Urban_Planning.internal|Urban_Planning.internal]] 
 
-### #is_/same_as :: [Urban_Planning.protect](/_protect/Technology/Engineering/Civil_Engineering/Urban_Planning.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Engineering/Civil_Engineering/Urban_Planning.protect|Urban_Planning.protect]] 
 
-### #is_/same_as :: [Urban_Planning.private](/_private/Technology/Engineering/Civil_Engineering/Urban_Planning.private.md) 
+### #is_/same_as :: [[/_private/Technology/Engineering/Civil_Engineering/Urban_Planning.private|Urban_Planning.private]] 
 
-### #is_/same_as :: [Urban_Planning.personal](/_personal/Technology/Engineering/Civil_Engineering/Urban_Planning.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Engineering/Civil_Engineering/Urban_Planning.personal|Urban_Planning.personal]] 
 
-### #is_/same_as :: [Urban_Planning.secret](/_secret/Technology/Engineering/Civil_Engineering/Urban_Planning.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Engineering/Civil_Engineering/Urban_Planning.secret|Urban_Planning.secret]] 
 

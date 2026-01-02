@@ -93,17 +93,17 @@ Commons_category: Ellipses
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ellipse](/_Standards/Mathematics/Geometry/Geometry-2D/Ellipse.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Geometry/Geometry-2D/Ellipse|Ellipse]] 
 
-### #is_/same_as :: [Ellipse.public](/_public/Mathematics/Geometry/Geometry-2D/Ellipse.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Geometry/Geometry-2D/Ellipse.public|Ellipse.public]] 
 
-### #is_/same_as :: [Ellipse.internal](/_internal/Mathematics/Geometry/Geometry-2D/Ellipse.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Geometry/Geometry-2D/Ellipse.internal|Ellipse.internal]] 
 
-### #is_/same_as :: [Ellipse.protect](/_protect/Mathematics/Geometry/Geometry-2D/Ellipse.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Geometry/Geometry-2D/Ellipse.protect|Ellipse.protect]] 
 
-### #is_/same_as :: [Ellipse.private](/_private/Mathematics/Geometry/Geometry-2D/Ellipse.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Geometry/Geometry-2D/Ellipse.private|Ellipse.private]] 
 
-### #is_/same_as :: [Ellipse.personal](/_personal/Mathematics/Geometry/Geometry-2D/Ellipse.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Geometry/Geometry-2D/Ellipse.personal|Ellipse.personal]] 
 
-### #is_/same_as :: [Ellipse.secret](/_secret/Mathematics/Geometry/Geometry-2D/Ellipse.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Geometry/Geometry-2D/Ellipse.secret|Ellipse.secret]] 
 

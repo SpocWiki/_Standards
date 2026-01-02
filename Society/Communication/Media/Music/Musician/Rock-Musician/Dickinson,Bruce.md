@@ -60,17 +60,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Dickinson,Bruce](/_Standards/Society/Communication/Media/Music/Musician/Rock-Musician/Dickinson,Bruce.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Musician/Rock-Musician/Dickinson,Bruce|Dickinson,Bruce]] 
 
-### #is_/same_as :: [Dickinson,Bruce.public](/_public/Society/Communication/Media/Music/Musician/Rock-Musician/Dickinson,Bruce.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Musician/Rock-Musician/Dickinson,Bruce.public|Dickinson,Bruce.public]] 
 
-### #is_/same_as :: [Dickinson,Bruce.internal](/_internal/Society/Communication/Media/Music/Musician/Rock-Musician/Dickinson,Bruce.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Musician/Rock-Musician/Dickinson,Bruce.internal|Dickinson,Bruce.internal]] 
 
-### #is_/same_as :: [Dickinson,Bruce.protect](/_protect/Society/Communication/Media/Music/Musician/Rock-Musician/Dickinson,Bruce.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Musician/Rock-Musician/Dickinson,Bruce.protect|Dickinson,Bruce.protect]] 
 
-### #is_/same_as :: [Dickinson,Bruce.private](/_private/Society/Communication/Media/Music/Musician/Rock-Musician/Dickinson,Bruce.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Musician/Rock-Musician/Dickinson,Bruce.private|Dickinson,Bruce.private]] 
 
-### #is_/same_as :: [Dickinson,Bruce.personal](/_personal/Society/Communication/Media/Music/Musician/Rock-Musician/Dickinson,Bruce.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Musician/Rock-Musician/Dickinson,Bruce.personal|Dickinson,Bruce.personal]] 
 
-### #is_/same_as :: [Dickinson,Bruce.secret](/_secret/Society/Communication/Media/Music/Musician/Rock-Musician/Dickinson,Bruce.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Musician/Rock-Musician/Dickinson,Bruce.secret|Dickinson,Bruce.secret]] 
 

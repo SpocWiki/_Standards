@@ -55,17 +55,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hindustani](/_Standards/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Hindustani.md) 
+### #is_/same_as :: [[/_Standards/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Hindustani|Hindustani]] 
 
-### #is_/same_as :: [Hindustani.public](/_public/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Hindustani.public.md) 
+### #is_/same_as :: [[/_public/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Hindustani.public|Hindustani.public]] 
 
-### #is_/same_as :: [Hindustani.internal](/_internal/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Hindustani.internal.md) 
+### #is_/same_as :: [[/_internal/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Hindustani.internal|Hindustani.internal]] 
 
-### #is_/same_as :: [Hindustani.protect](/_protect/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Hindustani.protect.md) 
+### #is_/same_as :: [[/_protect/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Hindustani.protect|Hindustani.protect]] 
 
-### #is_/same_as :: [Hindustani.private](/_private/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Hindustani.private.md) 
+### #is_/same_as :: [[/_private/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Hindustani.private|Hindustani.private]] 
 
-### #is_/same_as :: [Hindustani.personal](/_personal/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Hindustani.personal.md) 
+### #is_/same_as :: [[/_personal/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Hindustani.personal|Hindustani.personal]] 
 
-### #is_/same_as :: [Hindustani.secret](/_secret/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Hindustani.secret.md)
+### #is_/same_as :: [[/_secret/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Hindustani.secret|Hindustani.secret]] 
 

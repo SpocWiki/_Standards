@@ -62,17 +62,17 @@ time_of_earliest_written_record: -1751-01-01T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Homicide](/_Standards/Society/Law/Homicide.md) 
+### #is_/same_as :: [[/_Standards/Society/Law/Homicide|Homicide]] 
 
-### #is_/same_as :: [Homicide.public](/_public/Society/Law/Homicide.public.md) 
+### #is_/same_as :: [[/_public/Society/Law/Homicide.public|Homicide.public]] 
 
-### #is_/same_as :: [Homicide.internal](/_internal/Society/Law/Homicide.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Law/Homicide.internal|Homicide.internal]] 
 
-### #is_/same_as :: [Homicide.protect](/_protect/Society/Law/Homicide.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Law/Homicide.protect|Homicide.protect]] 
 
-### #is_/same_as :: [Homicide.private](/_private/Society/Law/Homicide.private.md) 
+### #is_/same_as :: [[/_private/Society/Law/Homicide.private|Homicide.private]] 
 
-### #is_/same_as :: [Homicide.personal](/_personal/Society/Law/Homicide.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Law/Homicide.personal|Homicide.personal]] 
 
-### #is_/same_as :: [Homicide.secret](/_secret/Society/Law/Homicide.secret.md)
+### #is_/same_as :: [[/_secret/Society/Law/Homicide.secret|Homicide.secret]] 
 

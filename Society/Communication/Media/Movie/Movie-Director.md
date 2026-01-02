@@ -62,17 +62,17 @@ type: private_note
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Movie-Director](/_Standards/Society/Communication/Media/Movie/Movie-Director.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Director|Movie-Director]] 
 
-### #is_/same_as :: [Movie-Director.public](/_public/Society/Communication/Media/Movie/Movie-Director.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Director.public|Movie-Director.public]] 
 
-### #is_/same_as :: [Movie-Director.internal](/_internal/Society/Communication/Media/Movie/Movie-Director.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Director.internal|Movie-Director.internal]] 
 
-### #is_/same_as :: [Movie-Director.protect](/_protect/Society/Communication/Media/Movie/Movie-Director.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Director.protect|Movie-Director.protect]] 
 
-### #is_/same_as :: [Movie-Director.private](/_private/Society/Communication/Media/Movie/Movie-Director.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Director.private|Movie-Director.private]] 
 
-### #is_/same_as :: [Movie-Director.personal](/_personal/Society/Communication/Media/Movie/Movie-Director.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Director.personal|Movie-Director.personal]] 
 
-### #is_/same_as :: [Movie-Director.secret](/_secret/Society/Communication/Media/Movie/Movie-Director.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Director.secret|Movie-Director.secret]] 
 

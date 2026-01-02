@@ -41,17 +41,17 @@ Insight is associated with [[../../bio/Psychology/Cognition/Intelligence|Intelli
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Insight](/_Standards/Philosophy/Epistemology/Insight.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Epistemology/Insight|Insight]] 
 
-### #is_/same_as :: [Insight.public](/_public/Philosophy/Epistemology/Insight.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Epistemology/Insight.public|Insight.public]] 
 
-### #is_/same_as :: [Insight.internal](/_internal/Philosophy/Epistemology/Insight.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Epistemology/Insight.internal|Insight.internal]] 
 
-### #is_/same_as :: [Insight.protect](/_protect/Philosophy/Epistemology/Insight.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Epistemology/Insight.protect|Insight.protect]] 
 
-### #is_/same_as :: [Insight.private](/_private/Philosophy/Epistemology/Insight.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Epistemology/Insight.private|Insight.private]] 
 
-### #is_/same_as :: [Insight.personal](/_personal/Philosophy/Epistemology/Insight.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Epistemology/Insight.personal|Insight.personal]] 
 
-### #is_/same_as :: [Insight.secret](/_secret/Philosophy/Epistemology/Insight.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Epistemology/Insight.secret|Insight.secret]] 
 

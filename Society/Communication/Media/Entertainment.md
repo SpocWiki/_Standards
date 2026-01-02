@@ -90,17 +90,17 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Metropolitan%20Opera%2
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Entertainment](/_Standards/Society/Communication/Media/Entertainment.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Entertainment|Entertainment]] 
 
-### #is_/same_as :: [Entertainment.public](/_public/Society/Communication/Media/Entertainment.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Entertainment.public|Entertainment.public]] 
 
-### #is_/same_as :: [Entertainment.internal](/_internal/Society/Communication/Media/Entertainment.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Entertainment.internal|Entertainment.internal]] 
 
-### #is_/same_as :: [Entertainment.protect](/_protect/Society/Communication/Media/Entertainment.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Entertainment.protect|Entertainment.protect]] 
 
-### #is_/same_as :: [Entertainment.private](/_private/Society/Communication/Media/Entertainment.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Entertainment.private|Entertainment.private]] 
 
-### #is_/same_as :: [Entertainment.personal](/_personal/Society/Communication/Media/Entertainment.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Entertainment.personal|Entertainment.personal]] 
 
-### #is_/same_as :: [Entertainment.secret](/_secret/Society/Communication/Media/Entertainment.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Entertainment.secret|Entertainment.secret]] 
 

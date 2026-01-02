@@ -21,17 +21,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Corrosion](/_Standards/Chemistry/Chemical_Reaction/Corrosion.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Chemical_Reaction/Corrosion|Corrosion]] 
 
-### #is_/same_as :: [Corrosion.public](/_public/Chemistry/Chemical_Reaction/Corrosion.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Chemical_Reaction/Corrosion.public|Corrosion.public]] 
 
-### #is_/same_as :: [Corrosion.internal](/_internal/Chemistry/Chemical_Reaction/Corrosion.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Chemical_Reaction/Corrosion.internal|Corrosion.internal]] 
 
-### #is_/same_as :: [Corrosion.protect](/_protect/Chemistry/Chemical_Reaction/Corrosion.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Chemical_Reaction/Corrosion.protect|Corrosion.protect]] 
 
-### #is_/same_as :: [Corrosion.private](/_private/Chemistry/Chemical_Reaction/Corrosion.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Chemical_Reaction/Corrosion.private|Corrosion.private]] 
 
-### #is_/same_as :: [Corrosion.personal](/_personal/Chemistry/Chemical_Reaction/Corrosion.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Chemical_Reaction/Corrosion.personal|Corrosion.personal]] 
 
-### #is_/same_as :: [Corrosion.secret](/_secret/Chemistry/Chemical_Reaction/Corrosion.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Chemical_Reaction/Corrosion.secret|Corrosion.secret]] 
 

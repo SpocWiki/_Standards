@@ -45,17 +45,17 @@ IMDb_keyword: assault-rifle
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Assault_Rifle](/_Standards/Society/Military/Military_Engineering/Weapon/Firearm/Assault_Rifle.md) 
+### #is_/same_as :: [[/_Standards/Society/Military/Military_Engineering/Weapon/Firearm/Assault_Rifle|Assault_Rifle]] 
 
-### #is_/same_as :: [Assault_Rifle.public](/_public/Society/Military/Military_Engineering/Weapon/Firearm/Assault_Rifle.public.md) 
+### #is_/same_as :: [[/_public/Society/Military/Military_Engineering/Weapon/Firearm/Assault_Rifle.public|Assault_Rifle.public]] 
 
-### #is_/same_as :: [Assault_Rifle.internal](/_internal/Society/Military/Military_Engineering/Weapon/Firearm/Assault_Rifle.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Military/Military_Engineering/Weapon/Firearm/Assault_Rifle.internal|Assault_Rifle.internal]] 
 
-### #is_/same_as :: [Assault_Rifle.protect](/_protect/Society/Military/Military_Engineering/Weapon/Firearm/Assault_Rifle.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Military/Military_Engineering/Weapon/Firearm/Assault_Rifle.protect|Assault_Rifle.protect]] 
 
-### #is_/same_as :: [Assault_Rifle.private](/_private/Society/Military/Military_Engineering/Weapon/Firearm/Assault_Rifle.private.md) 
+### #is_/same_as :: [[/_private/Society/Military/Military_Engineering/Weapon/Firearm/Assault_Rifle.private|Assault_Rifle.private]] 
 
-### #is_/same_as :: [Assault_Rifle.personal](/_personal/Society/Military/Military_Engineering/Weapon/Firearm/Assault_Rifle.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Military/Military_Engineering/Weapon/Firearm/Assault_Rifle.personal|Assault_Rifle.personal]] 
 
-### #is_/same_as :: [Assault_Rifle.secret](/_secret/Society/Military/Military_Engineering/Weapon/Firearm/Assault_Rifle.secret.md)
+### #is_/same_as :: [[/_secret/Society/Military/Military_Engineering/Weapon/Firearm/Assault_Rifle.secret|Assault_Rifle.secret]] 
 

@@ -100,7 +100,7 @@ hypothesis which is compatible with available morphological data.
  
 
 ### Geographic Distribution
-![ ](Noctilionoidea/noctilionoidea.gif))
+![ ](Noctilionoidea/noctilionoidea.gif) 
 
 The geographical distribution of Noctilionoidea is shown in red.
 Distribution from Hill and Smith (1984).
@@ -144,12 +144,12 @@ Van Valen, T. A. 1979. The evolution of bats. Evolutionary Theory,
 
 Mimon bennettii (Phyllostomidae) and Noctilio leporinus (Noctilionidae).
 Copyright © Nancy Simmons 1998
-![](Noctilionoidea/mimon1.gif))
+![](Noctilionoidea/mimon1.gif) 
 
   ---------
   Copyright ::   © 1998 Nancy Simmons
   ---------
-![](Noctilionoidea/noctilio_leporinus.gif))
+![](Noctilionoidea/noctilio_leporinus.gif) 
 
   ---------
   Copyright ::   © 1998 Nancy Simmons
@@ -158,17 +158,17 @@ Copyright © Nancy Simmons 1998
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Noctilionoidea](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Bat/Microchiroptera/Noctilionoidea.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Bat/Microchiroptera/Noctilionoidea|Noctilionoidea]] 
 
-### #is_/same_as :: [Noctilionoidea.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Bat/Microchiroptera/Noctilionoidea.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Bat/Microchiroptera/Noctilionoidea.public|Noctilionoidea.public]] 
 
-### #is_/same_as :: [Noctilionoidea.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Bat/Microchiroptera/Noctilionoidea.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Bat/Microchiroptera/Noctilionoidea.internal|Noctilionoidea.internal]] 
 
-### #is_/same_as :: [Noctilionoidea.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Bat/Microchiroptera/Noctilionoidea.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Bat/Microchiroptera/Noctilionoidea.protect|Noctilionoidea.protect]] 
 
-### #is_/same_as :: [Noctilionoidea.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Bat/Microchiroptera/Noctilionoidea.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Bat/Microchiroptera/Noctilionoidea.private|Noctilionoidea.private]] 
 
-### #is_/same_as :: [Noctilionoidea.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Bat/Microchiroptera/Noctilionoidea.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Bat/Microchiroptera/Noctilionoidea.personal|Noctilionoidea.personal]] 
 
-### #is_/same_as :: [Noctilionoidea.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Bat/Microchiroptera/Noctilionoidea.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Bat/Microchiroptera/Noctilionoidea.secret|Noctilionoidea.secret]] 
 

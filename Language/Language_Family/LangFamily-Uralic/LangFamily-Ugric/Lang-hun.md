@@ -175,17 +175,17 @@ entry_in_abbreviations_table: венг.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lang-hun](/_Standards/Language/Language_Family/LangFamily-Uralic/LangFamily-Ugric/Lang-hun.md) 
+### #is_/same_as :: [[/_Standards/Language/Language_Family/LangFamily-Uralic/LangFamily-Ugric/Lang-hun|Lang-hun]] 
 
-### #is_/same_as :: [Lang-hun.public](/_public/Language/Language_Family/LangFamily-Uralic/LangFamily-Ugric/Lang-hun.public.md) 
+### #is_/same_as :: [[/_public/Language/Language_Family/LangFamily-Uralic/LangFamily-Ugric/Lang-hun.public|Lang-hun.public]] 
 
-### #is_/same_as :: [Lang-hun.internal](/_internal/Language/Language_Family/LangFamily-Uralic/LangFamily-Ugric/Lang-hun.internal.md) 
+### #is_/same_as :: [[/_internal/Language/Language_Family/LangFamily-Uralic/LangFamily-Ugric/Lang-hun.internal|Lang-hun.internal]] 
 
-### #is_/same_as :: [Lang-hun.protect](/_protect/Language/Language_Family/LangFamily-Uralic/LangFamily-Ugric/Lang-hun.protect.md) 
+### #is_/same_as :: [[/_protect/Language/Language_Family/LangFamily-Uralic/LangFamily-Ugric/Lang-hun.protect|Lang-hun.protect]] 
 
-### #is_/same_as :: [Lang-hun.private](/_private/Language/Language_Family/LangFamily-Uralic/LangFamily-Ugric/Lang-hun.private.md) 
+### #is_/same_as :: [[/_private/Language/Language_Family/LangFamily-Uralic/LangFamily-Ugric/Lang-hun.private|Lang-hun.private]] 
 
-### #is_/same_as :: [Lang-hun.personal](/_personal/Language/Language_Family/LangFamily-Uralic/LangFamily-Ugric/Lang-hun.personal.md) 
+### #is_/same_as :: [[/_personal/Language/Language_Family/LangFamily-Uralic/LangFamily-Ugric/Lang-hun.personal|Lang-hun.personal]] 
 
-### #is_/same_as :: [Lang-hun.secret](/_secret/Language/Language_Family/LangFamily-Uralic/LangFamily-Ugric/Lang-hun.secret.md)
+### #is_/same_as :: [[/_secret/Language/Language_Family/LangFamily-Uralic/LangFamily-Ugric/Lang-hun.secret|Lang-hun.secret]] 
 

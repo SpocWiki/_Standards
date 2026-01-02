@@ -29,17 +29,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [CCC(Chaos_Computer_Club)](/_Standards/Society/Agent/Community/Organization/Company/Corporation/IT~Company/CCC(Chaos_Computer_Club).md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Company/Corporation/IT~Company/CCC(Chaos_Computer_Club)|CCC(Chaos_Computer_Club)]] 
 
-### #is_/same_as :: [CCC(Chaos_Computer_Club).public](/_public/Society/Agent/Community/Organization/Company/Corporation/IT~Company/CCC(Chaos_Computer_Club).public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Company/Corporation/IT~Company/CCC(Chaos_Computer_Club).public|CCC(Chaos_Computer_Club).public]] 
 
-### #is_/same_as :: [CCC(Chaos_Computer_Club).internal](/_internal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/CCC(Chaos_Computer_Club).internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/CCC(Chaos_Computer_Club).internal|CCC(Chaos_Computer_Club).internal]] 
 
-### #is_/same_as :: [CCC(Chaos_Computer_Club).protect](/_protect/Society/Agent/Community/Organization/Company/Corporation/IT~Company/CCC(Chaos_Computer_Club).protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Company/Corporation/IT~Company/CCC(Chaos_Computer_Club).protect|CCC(Chaos_Computer_Club).protect]] 
 
-### #is_/same_as :: [CCC(Chaos_Computer_Club).private](/_private/Society/Agent/Community/Organization/Company/Corporation/IT~Company/CCC(Chaos_Computer_Club).private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Company/Corporation/IT~Company/CCC(Chaos_Computer_Club).private|CCC(Chaos_Computer_Club).private]] 
 
-### #is_/same_as :: [CCC(Chaos_Computer_Club).personal](/_personal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/CCC(Chaos_Computer_Club).personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/CCC(Chaos_Computer_Club).personal|CCC(Chaos_Computer_Club).personal]] 
 
-### #is_/same_as :: [CCC(Chaos_Computer_Club).secret](/_secret/Society/Agent/Community/Organization/Company/Corporation/IT~Company/CCC(Chaos_Computer_Club).secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Company/Corporation/IT~Company/CCC(Chaos_Computer_Club).secret|CCC(Chaos_Computer_Club).secret]] 
 

@@ -80,17 +80,17 @@ Wolfram_Language_entity_code: Entity["Word", "hajj"]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hajj](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Hajj.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Hajj|Hajj]] 
 
-### #is_/same_as :: [Hajj.public](/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Hajj.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Hajj.public|Hajj.public]] 
 
-### #is_/same_as :: [Hajj.internal](/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Hajj.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Hajj.internal|Hajj.internal]] 
 
-### #is_/same_as :: [Hajj.protect](/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Hajj.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Hajj.protect|Hajj.protect]] 
 
-### #is_/same_as :: [Hajj.private](/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Hajj.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Hajj.private|Hajj.private]] 
 
-### #is_/same_as :: [Hajj.personal](/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Hajj.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Hajj.personal|Hajj.personal]] 
 
-### #is_/same_as :: [Hajj.secret](/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Hajj.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Hajj.secret|Hajj.secret]] 
 

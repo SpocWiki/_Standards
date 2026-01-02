@@ -26,17 +26,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [ASMR](/_Standards/Society/Communication/Media/Movie/Actor/British_Actor/ASMR.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Actor/British_Actor/ASMR|ASMR]] 
 
-### #is_/same_as :: [ASMR.public](/_public/Society/Communication/Media/Movie/Actor/British_Actor/ASMR.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Actor/British_Actor/ASMR.public|ASMR.public]] 
 
-### #is_/same_as :: [ASMR.internal](/_internal/Society/Communication/Media/Movie/Actor/British_Actor/ASMR.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Actor/British_Actor/ASMR.internal|ASMR.internal]] 
 
-### #is_/same_as :: [ASMR.protect](/_protect/Society/Communication/Media/Movie/Actor/British_Actor/ASMR.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Actor/British_Actor/ASMR.protect|ASMR.protect]] 
 
-### #is_/same_as :: [ASMR.private](/_private/Society/Communication/Media/Movie/Actor/British_Actor/ASMR.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Actor/British_Actor/ASMR.private|ASMR.private]] 
 
-### #is_/same_as :: [ASMR.personal](/_personal/Society/Communication/Media/Movie/Actor/British_Actor/ASMR.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Actor/British_Actor/ASMR.personal|ASMR.personal]] 
 
-### #is_/same_as :: [ASMR.secret](/_secret/Society/Communication/Media/Movie/Actor/British_Actor/ASMR.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Actor/British_Actor/ASMR.secret|ASMR.secret]] 
 

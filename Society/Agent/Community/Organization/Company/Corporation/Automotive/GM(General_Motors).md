@@ -158,17 +158,17 @@ official_name: General Motors Company
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [GM(General_Motors)](/_Standards/Society/Agent/Community/Organization/Company/Corporation/Automotive/GM(General_Motors).md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Company/Corporation/Automotive/GM(General_Motors)|GM(General_Motors)]] 
 
-### #is_/same_as :: [GM(General_Motors).public](/_public/Society/Agent/Community/Organization/Company/Corporation/Automotive/GM(General_Motors).public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Company/Corporation/Automotive/GM(General_Motors).public|GM(General_Motors).public]] 
 
-### #is_/same_as :: [GM(General_Motors).internal](/_internal/Society/Agent/Community/Organization/Company/Corporation/Automotive/GM(General_Motors).internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Company/Corporation/Automotive/GM(General_Motors).internal|GM(General_Motors).internal]] 
 
-### #is_/same_as :: [GM(General_Motors).protect](/_protect/Society/Agent/Community/Organization/Company/Corporation/Automotive/GM(General_Motors).protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Company/Corporation/Automotive/GM(General_Motors).protect|GM(General_Motors).protect]] 
 
-### #is_/same_as :: [GM(General_Motors).private](/_private/Society/Agent/Community/Organization/Company/Corporation/Automotive/GM(General_Motors).private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Company/Corporation/Automotive/GM(General_Motors).private|GM(General_Motors).private]] 
 
-### #is_/same_as :: [GM(General_Motors).personal](/_personal/Society/Agent/Community/Organization/Company/Corporation/Automotive/GM(General_Motors).personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Company/Corporation/Automotive/GM(General_Motors).personal|GM(General_Motors).personal]] 
 
-### #is_/same_as :: [GM(General_Motors).secret](/_secret/Society/Agent/Community/Organization/Company/Corporation/Automotive/GM(General_Motors).secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Company/Corporation/Automotive/GM(General_Motors).secret|GM(General_Motors).secret]] 
 

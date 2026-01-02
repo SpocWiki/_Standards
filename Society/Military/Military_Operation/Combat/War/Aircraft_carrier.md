@@ -45,17 +45,17 @@ U_S_National_Archives_Identifier: 10638244
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Aircraft_carrier](/_Standards/Society/Military/Military_Operation/Combat/War/Aircraft_carrier.md) 
+### #is_/same_as :: [[/_Standards/Society/Military/Military_Operation/Combat/War/Aircraft_carrier|Aircraft_carrier]] 
 
-### #is_/same_as :: [Aircraft_carrier.public](/_public/Society/Military/Military_Operation/Combat/War/Aircraft_carrier.public.md) 
+### #is_/same_as :: [[/_public/Society/Military/Military_Operation/Combat/War/Aircraft_carrier.public|Aircraft_carrier.public]] 
 
-### #is_/same_as :: [Aircraft_carrier.internal](/_internal/Society/Military/Military_Operation/Combat/War/Aircraft_carrier.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Military/Military_Operation/Combat/War/Aircraft_carrier.internal|Aircraft_carrier.internal]] 
 
-### #is_/same_as :: [Aircraft_carrier.protect](/_protect/Society/Military/Military_Operation/Combat/War/Aircraft_carrier.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Military/Military_Operation/Combat/War/Aircraft_carrier.protect|Aircraft_carrier.protect]] 
 
-### #is_/same_as :: [Aircraft_carrier.private](/_private/Society/Military/Military_Operation/Combat/War/Aircraft_carrier.private.md) 
+### #is_/same_as :: [[/_private/Society/Military/Military_Operation/Combat/War/Aircraft_carrier.private|Aircraft_carrier.private]] 
 
-### #is_/same_as :: [Aircraft_carrier.personal](/_personal/Society/Military/Military_Operation/Combat/War/Aircraft_carrier.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Military/Military_Operation/Combat/War/Aircraft_carrier.personal|Aircraft_carrier.personal]] 
 
-### #is_/same_as :: [Aircraft_carrier.secret](/_secret/Society/Military/Military_Operation/Combat/War/Aircraft_carrier.secret.md)
+### #is_/same_as :: [[/_secret/Society/Military/Military_Operation/Combat/War/Aircraft_carrier.secret|Aircraft_carrier.secret]] 
 

@@ -54,17 +54,17 @@ IEV_number: 121-11-30
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Electromagnetic_Induction](/_Standards/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Field/Electromagnetic_Induction.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Field/Electromagnetic_Induction|Electromagnetic_Induction]] 
 
-### #is_/same_as :: [Electromagnetic_Induction.public](/_public/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Field/Electromagnetic_Induction.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Field/Electromagnetic_Induction.public|Electromagnetic_Induction.public]] 
 
-### #is_/same_as :: [Electromagnetic_Induction.internal](/_internal/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Field/Electromagnetic_Induction.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Field/Electromagnetic_Induction.internal|Electromagnetic_Induction.internal]] 
 
-### #is_/same_as :: [Electromagnetic_Induction.protect](/_protect/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Field/Electromagnetic_Induction.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Field/Electromagnetic_Induction.protect|Electromagnetic_Induction.protect]] 
 
-### #is_/same_as :: [Electromagnetic_Induction.private](/_private/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Field/Electromagnetic_Induction.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Field/Electromagnetic_Induction.private|Electromagnetic_Induction.private]] 
 
-### #is_/same_as :: [Electromagnetic_Induction.personal](/_personal/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Field/Electromagnetic_Induction.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Field/Electromagnetic_Induction.personal|Electromagnetic_Induction.personal]] 
 
-### #is_/same_as :: [Electromagnetic_Induction.secret](/_secret/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Field/Electromagnetic_Induction.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Field/Electromagnetic_Induction.secret|Electromagnetic_Induction.secret]] 
 

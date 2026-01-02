@@ -6,7 +6,7 @@ title: Lemuridae
 
 # [[Lemuridae]] 
 
-![ ](Lemuridae/Sportive_lemur_Lepilemur.jpg)![ ](Lemuridae/CROWNE~2.JPG))
+![ ](Lemuridae/Sportive_lemur_Lepilemur.jpg)![ ](Lemuridae/CROWNE~2.JPG) 
 
 
 ## #has_/text_of_/abstract 
@@ -52,7 +52,7 @@ title: Lemuridae
 
 
 --------------------------------------------------------------------------------- 
-![](Lemuridae/Sportive_lemur_Lepilemur.jpg))
+![](Lemuridae/Sportive_lemur_Lepilemur.jpg) 
 Scientific Name ::     Lepilemur
 Location ::           Ankarafantsika nature reserve, Madagascar
 Comments             Sportive lemur
@@ -62,7 +62,7 @@ Identified By        Jean-Francois Dallaire with the help of a guide
 Copyright ::            © 2006 [Jean-François Dallaire](mailto:jeanfrancois_dallaire@hotmail.com) 
 
 --------------------------------------------------------------------------------- 
-![](Lemuridae/CROWNE~2.JPG))
+![](Lemuridae/CROWNE~2.JPG) 
 Scientific Name ::     Eulemur coronatus
 Location ::           Ankarana special reserve, Madagascar
 Comments             Crowned lemur
@@ -75,17 +75,17 @@ Copyright ::            © 2006 [Jean-François Dallaire](mailto:jeanfrancois_da
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lemuridae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Primates/Strepsirrhini/Lemuridae.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Primates/Strepsirrhini/Lemuridae|Lemuridae]] 
 
-### #is_/same_as :: [Lemuridae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Primates/Strepsirrhini/Lemuridae.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Primates/Strepsirrhini/Lemuridae.public|Lemuridae.public]] 
 
-### #is_/same_as :: [Lemuridae.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Primates/Strepsirrhini/Lemuridae.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Primates/Strepsirrhini/Lemuridae.internal|Lemuridae.internal]] 
 
-### #is_/same_as :: [Lemuridae.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Primates/Strepsirrhini/Lemuridae.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Primates/Strepsirrhini/Lemuridae.protect|Lemuridae.protect]] 
 
-### #is_/same_as :: [Lemuridae.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Primates/Strepsirrhini/Lemuridae.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Primates/Strepsirrhini/Lemuridae.private|Lemuridae.private]] 
 
-### #is_/same_as :: [Lemuridae.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Primates/Strepsirrhini/Lemuridae.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Primates/Strepsirrhini/Lemuridae.personal|Lemuridae.personal]] 
 
-### #is_/same_as :: [Lemuridae.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Primates/Strepsirrhini/Lemuridae.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Primates/Strepsirrhini/Lemuridae.secret|Lemuridae.secret]] 
 

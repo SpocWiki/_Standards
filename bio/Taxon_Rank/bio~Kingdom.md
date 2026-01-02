@@ -51,17 +51,17 @@ topic_s_main_template: '[[_Standards/WikiData/WD~Template_Full_biological_kingdo
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [bio~Kingdom](/_Standards/bio/Taxon_Rank/bio~Kingdom.md) 
+### #is_/same_as :: [[/_Standards/bio/Taxon_Rank/bio~Kingdom|bio~Kingdom]] 
 
-### #is_/same_as :: [bio~Kingdom.public](/_public/bio/Taxon_Rank/bio~Kingdom.public.md) 
+### #is_/same_as :: [[/_public/bio/Taxon_Rank/bio~Kingdom.public|bio~Kingdom.public]] 
 
-### #is_/same_as :: [bio~Kingdom.internal](/_internal/bio/Taxon_Rank/bio~Kingdom.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Taxon_Rank/bio~Kingdom.internal|bio~Kingdom.internal]] 
 
-### #is_/same_as :: [bio~Kingdom.protect](/_protect/bio/Taxon_Rank/bio~Kingdom.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Taxon_Rank/bio~Kingdom.protect|bio~Kingdom.protect]] 
 
-### #is_/same_as :: [bio~Kingdom.private](/_private/bio/Taxon_Rank/bio~Kingdom.private.md) 
+### #is_/same_as :: [[/_private/bio/Taxon_Rank/bio~Kingdom.private|bio~Kingdom.private]] 
 
-### #is_/same_as :: [bio~Kingdom.personal](/_personal/bio/Taxon_Rank/bio~Kingdom.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Taxon_Rank/bio~Kingdom.personal|bio~Kingdom.personal]] 
 
-### #is_/same_as :: [bio~Kingdom.secret](/_secret/bio/Taxon_Rank/bio~Kingdom.secret.md)
+### #is_/same_as :: [[/_secret/bio/Taxon_Rank/bio~Kingdom.secret|bio~Kingdom.secret]] 
 

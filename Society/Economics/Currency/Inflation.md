@@ -81,17 +81,17 @@ video: http://commons.wikimedia.org/wiki/Special:FilePath/Kurzerkl%C3%A4rt%2C%20
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Inflation](/_Standards/Society/Economics/Currency/Inflation.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Currency/Inflation|Inflation]] 
 
-### #is_/same_as :: [Inflation.public](/_public/Society/Economics/Currency/Inflation.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Currency/Inflation.public|Inflation.public]] 
 
-### #is_/same_as :: [Inflation.internal](/_internal/Society/Economics/Currency/Inflation.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Currency/Inflation.internal|Inflation.internal]] 
 
-### #is_/same_as :: [Inflation.protect](/_protect/Society/Economics/Currency/Inflation.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Currency/Inflation.protect|Inflation.protect]] 
 
-### #is_/same_as :: [Inflation.private](/_private/Society/Economics/Currency/Inflation.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Currency/Inflation.private|Inflation.private]] 
 
-### #is_/same_as :: [Inflation.personal](/_personal/Society/Economics/Currency/Inflation.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Currency/Inflation.personal|Inflation.personal]] 
 
-### #is_/same_as :: [Inflation.secret](/_secret/Society/Economics/Currency/Inflation.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Currency/Inflation.secret|Inflation.secret]] 
 

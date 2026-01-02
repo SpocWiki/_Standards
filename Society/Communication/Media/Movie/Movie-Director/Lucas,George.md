@@ -122,17 +122,17 @@ ISNI:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lucas,George](/_Standards/Society/Communication/Media/Movie/Movie-Director/Lucas,George.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Director/Lucas,George|Lucas,George]] 
 
-### #is_/same_as :: [Lucas,George.public](/_public/Society/Communication/Media/Movie/Movie-Director/Lucas,George.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Director/Lucas,George.public|Lucas,George.public]] 
 
-### #is_/same_as :: [Lucas,George.internal](/_internal/Society/Communication/Media/Movie/Movie-Director/Lucas,George.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Director/Lucas,George.internal|Lucas,George.internal]] 
 
-### #is_/same_as :: [Lucas,George.protect](/_protect/Society/Communication/Media/Movie/Movie-Director/Lucas,George.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Director/Lucas,George.protect|Lucas,George.protect]] 
 
-### #is_/same_as :: [Lucas,George.private](/_private/Society/Communication/Media/Movie/Movie-Director/Lucas,George.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Director/Lucas,George.private|Lucas,George.private]] 
 
-### #is_/same_as :: [Lucas,George.personal](/_personal/Society/Communication/Media/Movie/Movie-Director/Lucas,George.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Director/Lucas,George.personal|Lucas,George.personal]] 
 
-### #is_/same_as :: [Lucas,George.secret](/_secret/Society/Communication/Media/Movie/Movie-Director/Lucas,George.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Director/Lucas,George.secret|Lucas,George.secret]] 
 

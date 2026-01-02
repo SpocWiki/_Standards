@@ -191,17 +191,17 @@ signature: http://commons.wikimedia.org/wiki/Special:FilePath/Roman%20Polanski%2
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Polanski,Roman](/_Standards/Society/Communication/Media/Movie/Movie-Director/Polanski,Roman.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Director/Polanski,Roman|Polanski,Roman]] 
 
-### #is_/same_as :: [Polanski,Roman.public](/_public/Society/Communication/Media/Movie/Movie-Director/Polanski,Roman.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Director/Polanski,Roman.public|Polanski,Roman.public]] 
 
-### #is_/same_as :: [Polanski,Roman.internal](/_internal/Society/Communication/Media/Movie/Movie-Director/Polanski,Roman.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Director/Polanski,Roman.internal|Polanski,Roman.internal]] 
 
-### #is_/same_as :: [Polanski,Roman.protect](/_protect/Society/Communication/Media/Movie/Movie-Director/Polanski,Roman.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Director/Polanski,Roman.protect|Polanski,Roman.protect]] 
 
-### #is_/same_as :: [Polanski,Roman.private](/_private/Society/Communication/Media/Movie/Movie-Director/Polanski,Roman.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Director/Polanski,Roman.private|Polanski,Roman.private]] 
 
-### #is_/same_as :: [Polanski,Roman.personal](/_personal/Society/Communication/Media/Movie/Movie-Director/Polanski,Roman.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Director/Polanski,Roman.personal|Polanski,Roman.personal]] 
 
-### #is_/same_as :: [Polanski,Roman.secret](/_secret/Society/Communication/Media/Movie/Movie-Director/Polanski,Roman.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Director/Polanski,Roman.secret|Polanski,Roman.secret]] 
 

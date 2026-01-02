@@ -45,17 +45,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_number_of_Covid_beds_occ](/_Standards/schema-org/Property/has_number_of/has_number_of_Covid_beds_occ.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_number_of/has_number_of_Covid_beds_occ|has_number_of_Covid_beds_occ]] 
 
-### #is_/same_as :: [has_number_of_Covid_beds_occ.public](/_public/schema-org/Property/has_number_of/has_number_of_Covid_beds_occ.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/has_number_of/has_number_of_Covid_beds_occ.public|has_number_of_Covid_beds_occ.public]] 
 
-### #is_/same_as :: [has_number_of_Covid_beds_occ.internal](/_internal/schema-org/Property/has_number_of/has_number_of_Covid_beds_occ.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_number_of/has_number_of_Covid_beds_occ.internal|has_number_of_Covid_beds_occ.internal]] 
 
-### #is_/same_as :: [has_number_of_Covid_beds_occ.protect](/_protect/schema-org/Property/has_number_of/has_number_of_Covid_beds_occ.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_number_of/has_number_of_Covid_beds_occ.protect|has_number_of_Covid_beds_occ.protect]] 
 
-### #is_/same_as :: [has_number_of_Covid_beds_occ.private](/_private/schema-org/Property/has_number_of/has_number_of_Covid_beds_occ.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/has_number_of/has_number_of_Covid_beds_occ.private|has_number_of_Covid_beds_occ.private]] 
 
-### #is_/same_as :: [has_number_of_Covid_beds_occ.personal](/_personal/schema-org/Property/has_number_of/has_number_of_Covid_beds_occ.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_number_of/has_number_of_Covid_beds_occ.personal|has_number_of_Covid_beds_occ.personal]] 
 
-### #is_/same_as :: [has_number_of_Covid_beds_occ.secret](/_secret/schema-org/Property/has_number_of/has_number_of_Covid_beds_occ.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/has_number_of/has_number_of_Covid_beds_occ.secret|has_number_of_Covid_beds_occ.secret]] 
 

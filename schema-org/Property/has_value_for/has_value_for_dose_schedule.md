@@ -43,17 +43,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_value_for_dose_schedule](/_Standards/schema-org/Property/has_value_for/has_value_for_dose_schedule.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_value_for/has_value_for_dose_schedule|has_value_for_dose_schedule]] 
 
-### #is_/same_as :: [has_value_for_dose_schedule.public](/_public/schema-org/Property/has_value_for/has_value_for_dose_schedule.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/has_value_for/has_value_for_dose_schedule.public|has_value_for_dose_schedule.public]] 
 
-### #is_/same_as :: [has_value_for_dose_schedule.internal](/_internal/schema-org/Property/has_value_for/has_value_for_dose_schedule.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_value_for/has_value_for_dose_schedule.internal|has_value_for_dose_schedule.internal]] 
 
-### #is_/same_as :: [has_value_for_dose_schedule.protect](/_protect/schema-org/Property/has_value_for/has_value_for_dose_schedule.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_value_for/has_value_for_dose_schedule.protect|has_value_for_dose_schedule.protect]] 
 
-### #is_/same_as :: [has_value_for_dose_schedule.private](/_private/schema-org/Property/has_value_for/has_value_for_dose_schedule.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/has_value_for/has_value_for_dose_schedule.private|has_value_for_dose_schedule.private]] 
 
-### #is_/same_as :: [has_value_for_dose_schedule.personal](/_personal/schema-org/Property/has_value_for/has_value_for_dose_schedule.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_value_for/has_value_for_dose_schedule.personal|has_value_for_dose_schedule.personal]] 
 
-### #is_/same_as :: [has_value_for_dose_schedule.secret](/_secret/schema-org/Property/has_value_for/has_value_for_dose_schedule.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/has_value_for/has_value_for_dose_schedule.secret|has_value_for_dose_schedule.secret]] 
 

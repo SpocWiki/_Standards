@@ -91,17 +91,17 @@ Krugosvet_article_archived_: gosudarstvo-i-politika/sionizm
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Zionism](/_Standards/Society/Ideology/Political_Ideology/Nationalism/Zionism.md) 
+### #is_/same_as :: [[/_Standards/Society/Ideology/Political_Ideology/Nationalism/Zionism|Zionism]] 
 
-### #is_/same_as :: [Zionism.public](/_public/Society/Ideology/Political_Ideology/Nationalism/Zionism.public.md) 
+### #is_/same_as :: [[/_public/Society/Ideology/Political_Ideology/Nationalism/Zionism.public|Zionism.public]] 
 
-### #is_/same_as :: [Zionism.internal](/_internal/Society/Ideology/Political_Ideology/Nationalism/Zionism.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Ideology/Political_Ideology/Nationalism/Zionism.internal|Zionism.internal]] 
 
-### #is_/same_as :: [Zionism.protect](/_protect/Society/Ideology/Political_Ideology/Nationalism/Zionism.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Ideology/Political_Ideology/Nationalism/Zionism.protect|Zionism.protect]] 
 
-### #is_/same_as :: [Zionism.private](/_private/Society/Ideology/Political_Ideology/Nationalism/Zionism.private.md) 
+### #is_/same_as :: [[/_private/Society/Ideology/Political_Ideology/Nationalism/Zionism.private|Zionism.private]] 
 
-### #is_/same_as :: [Zionism.personal](/_personal/Society/Ideology/Political_Ideology/Nationalism/Zionism.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Ideology/Political_Ideology/Nationalism/Zionism.personal|Zionism.personal]] 
 
-### #is_/same_as :: [Zionism.secret](/_secret/Society/Ideology/Political_Ideology/Nationalism/Zionism.secret.md)
+### #is_/same_as :: [[/_secret/Society/Ideology/Political_Ideology/Nationalism/Zionism.secret|Zionism.secret]] 
 

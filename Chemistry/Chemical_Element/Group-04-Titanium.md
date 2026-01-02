@@ -42,17 +42,17 @@ type: ElementGroup
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Group-04-Titanium](/_Standards/Chemistry/Chemical_Element/Group-04-Titanium.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Chemical_Element/Group-04-Titanium|Group-04-Titanium]] 
 
-### #is_/same_as :: [Group-04-Titanium.public](/_public/Chemistry/Chemical_Element/Group-04-Titanium.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Chemical_Element/Group-04-Titanium.public|Group-04-Titanium.public]] 
 
-### #is_/same_as :: [Group-04-Titanium.internal](/_internal/Chemistry/Chemical_Element/Group-04-Titanium.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Chemical_Element/Group-04-Titanium.internal|Group-04-Titanium.internal]] 
 
-### #is_/same_as :: [Group-04-Titanium.protect](/_protect/Chemistry/Chemical_Element/Group-04-Titanium.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Chemical_Element/Group-04-Titanium.protect|Group-04-Titanium.protect]] 
 
-### #is_/same_as :: [Group-04-Titanium.private](/_private/Chemistry/Chemical_Element/Group-04-Titanium.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Chemical_Element/Group-04-Titanium.private|Group-04-Titanium.private]] 
 
-### #is_/same_as :: [Group-04-Titanium.personal](/_personal/Chemistry/Chemical_Element/Group-04-Titanium.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Chemical_Element/Group-04-Titanium.personal|Group-04-Titanium.personal]] 
 
-### #is_/same_as :: [Group-04-Titanium.secret](/_secret/Chemistry/Chemical_Element/Group-04-Titanium.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Chemical_Element/Group-04-Titanium.secret|Group-04-Titanium.secret]] 
 

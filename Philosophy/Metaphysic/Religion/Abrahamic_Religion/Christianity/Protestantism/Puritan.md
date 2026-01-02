@@ -93,17 +93,17 @@ Commons_category: Puritans
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Puritan](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Protestantism/Puritan.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Protestantism/Puritan|Puritan]] 
 
-### #is_/same_as :: [Puritan.public](/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Protestantism/Puritan.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Protestantism/Puritan.public|Puritan.public]] 
 
-### #is_/same_as :: [Puritan.internal](/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Protestantism/Puritan.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Protestantism/Puritan.internal|Puritan.internal]] 
 
-### #is_/same_as :: [Puritan.protect](/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Protestantism/Puritan.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Protestantism/Puritan.protect|Puritan.protect]] 
 
-### #is_/same_as :: [Puritan.private](/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Protestantism/Puritan.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Protestantism/Puritan.private|Puritan.private]] 
 
-### #is_/same_as :: [Puritan.personal](/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Protestantism/Puritan.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Protestantism/Puritan.personal|Puritan.personal]] 
 
-### #is_/same_as :: [Puritan.secret](/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Protestantism/Puritan.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Protestantism/Puritan.secret|Puritan.secret]] 
 

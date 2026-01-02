@@ -44,17 +44,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [is_live](/_Standards/schema-org/Property/Flags/is_live.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/Flags/is_live|is_live]] 
 
-### #is_/same_as :: [is_live.public](/_public/schema-org/Property/Flags/is_live.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/Flags/is_live.public|is_live.public]] 
 
-### #is_/same_as :: [is_live.internal](/_internal/schema-org/Property/Flags/is_live.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/Flags/is_live.internal|is_live.internal]] 
 
-### #is_/same_as :: [is_live.protect](/_protect/schema-org/Property/Flags/is_live.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/Flags/is_live.protect|is_live.protect]] 
 
-### #is_/same_as :: [is_live.private](/_private/schema-org/Property/Flags/is_live.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/Flags/is_live.private|is_live.private]] 
 
-### #is_/same_as :: [is_live.personal](/_personal/schema-org/Property/Flags/is_live.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/Flags/is_live.personal|is_live.personal]] 
 
-### #is_/same_as :: [is_live.secret](/_secret/schema-org/Property/Flags/is_live.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/Flags/is_live.secret|is_live.secret]] 
 

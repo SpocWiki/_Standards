@@ -46,17 +46,17 @@ Krugosvet_article_archived_: kultura_i_obrazovanie/muzyka/MUZIKALNAYA_FORMA.html
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Musical_Form](/_Standards/Society/Communication/Media/Music/Music_Theory/Musical_Form.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Music_Theory/Musical_Form|Musical_Form]] 
 
-### #is_/same_as :: [Musical_Form.public](/_public/Society/Communication/Media/Music/Music_Theory/Musical_Form.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Music_Theory/Musical_Form.public|Musical_Form.public]] 
 
-### #is_/same_as :: [Musical_Form.internal](/_internal/Society/Communication/Media/Music/Music_Theory/Musical_Form.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Music_Theory/Musical_Form.internal|Musical_Form.internal]] 
 
-### #is_/same_as :: [Musical_Form.protect](/_protect/Society/Communication/Media/Music/Music_Theory/Musical_Form.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Music_Theory/Musical_Form.protect|Musical_Form.protect]] 
 
-### #is_/same_as :: [Musical_Form.private](/_private/Society/Communication/Media/Music/Music_Theory/Musical_Form.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Music_Theory/Musical_Form.private|Musical_Form.private]] 
 
-### #is_/same_as :: [Musical_Form.personal](/_personal/Society/Communication/Media/Music/Music_Theory/Musical_Form.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Music_Theory/Musical_Form.personal|Musical_Form.personal]] 
 
-### #is_/same_as :: [Musical_Form.secret](/_secret/Society/Communication/Media/Music/Music_Theory/Musical_Form.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Music_Theory/Musical_Form.secret|Musical_Form.secret]] 
 

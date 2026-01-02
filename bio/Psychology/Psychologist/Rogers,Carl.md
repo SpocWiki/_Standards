@@ -79,17 +79,17 @@ ISNI: "0000000110314570"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Rogers,Carl](/_Standards/bio/Psychology/Psychologist/Rogers,Carl.md) 
+### #is_/same_as :: [[/_Standards/bio/Psychology/Psychologist/Rogers,Carl|Rogers,Carl]] 
 
-### #is_/same_as :: [Rogers,Carl.public](/_public/bio/Psychology/Psychologist/Rogers,Carl.public.md) 
+### #is_/same_as :: [[/_public/bio/Psychology/Psychologist/Rogers,Carl.public|Rogers,Carl.public]] 
 
-### #is_/same_as :: [Rogers,Carl.internal](/_internal/bio/Psychology/Psychologist/Rogers,Carl.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Psychology/Psychologist/Rogers,Carl.internal|Rogers,Carl.internal]] 
 
-### #is_/same_as :: [Rogers,Carl.protect](/_protect/bio/Psychology/Psychologist/Rogers,Carl.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Psychology/Psychologist/Rogers,Carl.protect|Rogers,Carl.protect]] 
 
-### #is_/same_as :: [Rogers,Carl.private](/_private/bio/Psychology/Psychologist/Rogers,Carl.private.md) 
+### #is_/same_as :: [[/_private/bio/Psychology/Psychologist/Rogers,Carl.private|Rogers,Carl.private]] 
 
-### #is_/same_as :: [Rogers,Carl.personal](/_personal/bio/Psychology/Psychologist/Rogers,Carl.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Psychology/Psychologist/Rogers,Carl.personal|Rogers,Carl.personal]] 
 
-### #is_/same_as :: [Rogers,Carl.secret](/_secret/bio/Psychology/Psychologist/Rogers,Carl.secret.md)
+### #is_/same_as :: [[/_secret/bio/Psychology/Psychologist/Rogers,Carl.secret|Rogers,Carl.secret]] 
 

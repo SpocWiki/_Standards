@@ -116,17 +116,17 @@ ISNI: "0000000121382034"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Euripides](/_Standards/Society/Communication/Media/Writing/Book/Writer/Ancient_Writer/Euripides.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Writer/Ancient_Writer/Euripides|Euripides]] 
 
-### #is_/same_as :: [Euripides.public](/_public/Society/Communication/Media/Writing/Book/Writer/Ancient_Writer/Euripides.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Writer/Ancient_Writer/Euripides.public|Euripides.public]] 
 
-### #is_/same_as :: [Euripides.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/Ancient_Writer/Euripides.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Writer/Ancient_Writer/Euripides.internal|Euripides.internal]] 
 
-### #is_/same_as :: [Euripides.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/Ancient_Writer/Euripides.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Writer/Ancient_Writer/Euripides.protect|Euripides.protect]] 
 
-### #is_/same_as :: [Euripides.private](/_private/Society/Communication/Media/Writing/Book/Writer/Ancient_Writer/Euripides.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Writer/Ancient_Writer/Euripides.private|Euripides.private]] 
 
-### #is_/same_as :: [Euripides.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/Ancient_Writer/Euripides.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Writer/Ancient_Writer/Euripides.personal|Euripides.personal]] 
 
-### #is_/same_as :: [Euripides.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/Ancient_Writer/Euripides.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Writer/Ancient_Writer/Euripides.secret|Euripides.secret]] 
 

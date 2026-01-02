@@ -34,17 +34,17 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/US%20Navy%20021106-N-7
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Drilling](/_Standards/Technology/Tool/Mechanical_Tool/Drill/Drilling.md) 
+### #is_/same_as :: [[/_Standards/Technology/Tool/Mechanical_Tool/Drill/Drilling|Drilling]] 
 
-### #is_/same_as :: [Drilling.public](/_public/Technology/Tool/Mechanical_Tool/Drill/Drilling.public.md) 
+### #is_/same_as :: [[/_public/Technology/Tool/Mechanical_Tool/Drill/Drilling.public|Drilling.public]] 
 
-### #is_/same_as :: [Drilling.internal](/_internal/Technology/Tool/Mechanical_Tool/Drill/Drilling.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Tool/Mechanical_Tool/Drill/Drilling.internal|Drilling.internal]] 
 
-### #is_/same_as :: [Drilling.protect](/_protect/Technology/Tool/Mechanical_Tool/Drill/Drilling.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Tool/Mechanical_Tool/Drill/Drilling.protect|Drilling.protect]] 
 
-### #is_/same_as :: [Drilling.private](/_private/Technology/Tool/Mechanical_Tool/Drill/Drilling.private.md) 
+### #is_/same_as :: [[/_private/Technology/Tool/Mechanical_Tool/Drill/Drilling.private|Drilling.private]] 
 
-### #is_/same_as :: [Drilling.personal](/_personal/Technology/Tool/Mechanical_Tool/Drill/Drilling.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Tool/Mechanical_Tool/Drill/Drilling.personal|Drilling.personal]] 
 
-### #is_/same_as :: [Drilling.secret](/_secret/Technology/Tool/Mechanical_Tool/Drill/Drilling.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Tool/Mechanical_Tool/Drill/Drilling.secret|Drilling.secret]] 
 

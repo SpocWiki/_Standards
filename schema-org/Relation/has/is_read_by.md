@@ -47,17 +47,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [is_read_by](/_Standards/schema-org/Relation/has/is_read_by.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/is_read_by|is_read_by]] 
 
-### #is_/same_as :: [is_read_by.public](/_public/schema-org/Relation/has/is_read_by.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/is_read_by.public|is_read_by.public]] 
 
-### #is_/same_as :: [is_read_by.internal](/_internal/schema-org/Relation/has/is_read_by.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/is_read_by.internal|is_read_by.internal]] 
 
-### #is_/same_as :: [is_read_by.protect](/_protect/schema-org/Relation/has/is_read_by.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/is_read_by.protect|is_read_by.protect]] 
 
-### #is_/same_as :: [is_read_by.private](/_private/schema-org/Relation/has/is_read_by.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/is_read_by.private|is_read_by.private]] 
 
-### #is_/same_as :: [is_read_by.personal](/_personal/schema-org/Relation/has/is_read_by.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/is_read_by.personal|is_read_by.personal]] 
 
-### #is_/same_as :: [is_read_by.secret](/_secret/schema-org/Relation/has/is_read_by.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/is_read_by.secret|is_read_by.secret]] 
 

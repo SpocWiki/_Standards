@@ -45,17 +45,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_sub_event](/_Standards/schema-org/Relation/has/has_sub_event.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_sub_event|has_sub_event]] 
 
-### #is_/same_as :: [has_sub_event.public](/_public/schema-org/Relation/has/has_sub_event.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_sub_event.public|has_sub_event.public]] 
 
-### #is_/same_as :: [has_sub_event.internal](/_internal/schema-org/Relation/has/has_sub_event.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_sub_event.internal|has_sub_event.internal]] 
 
-### #is_/same_as :: [has_sub_event.protect](/_protect/schema-org/Relation/has/has_sub_event.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_sub_event.protect|has_sub_event.protect]] 
 
-### #is_/same_as :: [has_sub_event.private](/_private/schema-org/Relation/has/has_sub_event.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_sub_event.private|has_sub_event.private]] 
 
-### #is_/same_as :: [has_sub_event.personal](/_personal/schema-org/Relation/has/has_sub_event.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_sub_event.personal|has_sub_event.personal]] 
 
-### #is_/same_as :: [has_sub_event.secret](/_secret/schema-org/Relation/has/has_sub_event.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_sub_event.secret|has_sub_event.secret]] 
 

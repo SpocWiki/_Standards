@@ -64,17 +64,17 @@ Dewey_Decimal_Classification: 573.655
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Testicle](/_Standards/bio/Reproduction/Sexual_Reproduction/Sex_Organ/Testicle.md) 
+### #is_/same_as :: [[/_Standards/bio/Reproduction/Sexual_Reproduction/Sex_Organ/Testicle|Testicle]] 
 
-### #is_/same_as :: [Testicle.public](/_public/bio/Reproduction/Sexual_Reproduction/Sex_Organ/Testicle.public.md) 
+### #is_/same_as :: [[/_public/bio/Reproduction/Sexual_Reproduction/Sex_Organ/Testicle.public|Testicle.public]] 
 
-### #is_/same_as :: [Testicle.internal](/_internal/bio/Reproduction/Sexual_Reproduction/Sex_Organ/Testicle.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Reproduction/Sexual_Reproduction/Sex_Organ/Testicle.internal|Testicle.internal]] 
 
-### #is_/same_as :: [Testicle.protect](/_protect/bio/Reproduction/Sexual_Reproduction/Sex_Organ/Testicle.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Reproduction/Sexual_Reproduction/Sex_Organ/Testicle.protect|Testicle.protect]] 
 
-### #is_/same_as :: [Testicle.private](/_private/bio/Reproduction/Sexual_Reproduction/Sex_Organ/Testicle.private.md) 
+### #is_/same_as :: [[/_private/bio/Reproduction/Sexual_Reproduction/Sex_Organ/Testicle.private|Testicle.private]] 
 
-### #is_/same_as :: [Testicle.personal](/_personal/bio/Reproduction/Sexual_Reproduction/Sex_Organ/Testicle.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Reproduction/Sexual_Reproduction/Sex_Organ/Testicle.personal|Testicle.personal]] 
 
-### #is_/same_as :: [Testicle.secret](/_secret/bio/Reproduction/Sexual_Reproduction/Sex_Organ/Testicle.secret.md)
+### #is_/same_as :: [[/_secret/bio/Reproduction/Sexual_Reproduction/Sex_Organ/Testicle.secret|Testicle.secret]] 
 

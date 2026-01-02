@@ -34,17 +34,17 @@ Commons_category: Organosilicon compounds
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Organosilicon_Compound](/_Standards/Chemistry/Organosilicon_Compound.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Organosilicon_Compound|Organosilicon_Compound]] 
 
-### #is_/same_as :: [Organosilicon_Compound.public](/_public/Chemistry/Organosilicon_Compound.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Organosilicon_Compound.public|Organosilicon_Compound.public]] 
 
-### #is_/same_as :: [Organosilicon_Compound.internal](/_internal/Chemistry/Organosilicon_Compound.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Organosilicon_Compound.internal|Organosilicon_Compound.internal]] 
 
-### #is_/same_as :: [Organosilicon_Compound.protect](/_protect/Chemistry/Organosilicon_Compound.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Organosilicon_Compound.protect|Organosilicon_Compound.protect]] 
 
-### #is_/same_as :: [Organosilicon_Compound.private](/_private/Chemistry/Organosilicon_Compound.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Organosilicon_Compound.private|Organosilicon_Compound.private]] 
 
-### #is_/same_as :: [Organosilicon_Compound.personal](/_personal/Chemistry/Organosilicon_Compound.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Organosilicon_Compound.personal|Organosilicon_Compound.personal]] 
 
-### #is_/same_as :: [Organosilicon_Compound.secret](/_secret/Chemistry/Organosilicon_Compound.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Organosilicon_Compound.secret|Organosilicon_Compound.secret]] 
 

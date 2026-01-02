@@ -70,17 +70,17 @@ IPTC_NewsCode: mediatopic/20000097
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Fraud](/_Standards/Society/Law/Criminal_Law/Crime/Fraud.md) 
+### #is_/same_as :: [[/_Standards/Society/Law/Criminal_Law/Crime/Fraud|Fraud]] 
 
-### #is_/same_as :: [Fraud.public](/_public/Society/Law/Criminal_Law/Crime/Fraud.public.md) 
+### #is_/same_as :: [[/_public/Society/Law/Criminal_Law/Crime/Fraud.public|Fraud.public]] 
 
-### #is_/same_as :: [Fraud.internal](/_internal/Society/Law/Criminal_Law/Crime/Fraud.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Law/Criminal_Law/Crime/Fraud.internal|Fraud.internal]] 
 
-### #is_/same_as :: [Fraud.protect](/_protect/Society/Law/Criminal_Law/Crime/Fraud.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Law/Criminal_Law/Crime/Fraud.protect|Fraud.protect]] 
 
-### #is_/same_as :: [Fraud.private](/_private/Society/Law/Criminal_Law/Crime/Fraud.private.md) 
+### #is_/same_as :: [[/_private/Society/Law/Criminal_Law/Crime/Fraud.private|Fraud.private]] 
 
-### #is_/same_as :: [Fraud.personal](/_personal/Society/Law/Criminal_Law/Crime/Fraud.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Law/Criminal_Law/Crime/Fraud.personal|Fraud.personal]] 
 
-### #is_/same_as :: [Fraud.secret](/_secret/Society/Law/Criminal_Law/Crime/Fraud.secret.md)
+### #is_/same_as :: [[/_secret/Society/Law/Criminal_Law/Crime/Fraud.secret|Fraud.secret]] 
 

@@ -134,17 +134,17 @@ topic_s_main_template: '[[_Standards/WikiData/WD~Template_Shahnameh,8084688]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Shahnameh](/_Standards/Society/Communication/Media/Writing/Book/Literary_Works/Shahnameh.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Literary_Works/Shahnameh|Shahnameh]] 
 
-### #is_/same_as :: [Shahnameh.public](/_public/Society/Communication/Media/Writing/Book/Literary_Works/Shahnameh.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Literary_Works/Shahnameh.public|Shahnameh.public]] 
 
-### #is_/same_as :: [Shahnameh.internal](/_internal/Society/Communication/Media/Writing/Book/Literary_Works/Shahnameh.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Literary_Works/Shahnameh.internal|Shahnameh.internal]] 
 
-### #is_/same_as :: [Shahnameh.protect](/_protect/Society/Communication/Media/Writing/Book/Literary_Works/Shahnameh.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Literary_Works/Shahnameh.protect|Shahnameh.protect]] 
 
-### #is_/same_as :: [Shahnameh.private](/_private/Society/Communication/Media/Writing/Book/Literary_Works/Shahnameh.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Literary_Works/Shahnameh.private|Shahnameh.private]] 
 
-### #is_/same_as :: [Shahnameh.personal](/_personal/Society/Communication/Media/Writing/Book/Literary_Works/Shahnameh.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Literary_Works/Shahnameh.personal|Shahnameh.personal]] 
 
-### #is_/same_as :: [Shahnameh.secret](/_secret/Society/Communication/Media/Writing/Book/Literary_Works/Shahnameh.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Literary_Works/Shahnameh.secret|Shahnameh.secret]] 
 

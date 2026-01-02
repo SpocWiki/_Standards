@@ -216,7 +216,7 @@ union_of: "[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]"
 ## Title Illustrations
 
 ------------------------------------------------------------------------------ 
-![Eumorpha achemon moth](Arthropoda/Eumorpha_achemon.jpg))
+![Eumorpha achemon moth](Arthropoda/Eumorpha_achemon.jpg) 
 Scientific Name ::     Eumorpha achemon
 Creator              Photograph by George W. Robinson
 Specimen Condition   Live Specimen
@@ -224,12 +224,12 @@ Source Collection    [CalPhotos](http://calphotos.berkeley.edu/)
 Copyright ::            © 1999 [California Academy of Sciences](http://www.calacademy.org/) 
 
 --------------------------------------------------------------------------- 
-![Habronattus jumping spider and schizomid](Arthropoda/jumping_spider.gif))
+![Habronattus jumping spider and schizomid](Arthropoda/jumping_spider.gif) 
 Scientific Name ::  Habronattus, schizomid
 Copyright ::         © 1995 [Wayne Maddison](http://salticidae.org/wpm/home.html) 
 
 -------------------------------------------------------------------------------- 
-![Crangon septemspinosa](Arthropoda/Crangon_septemspinosa.gif))
+![Crangon septemspinosa](Arthropoda/Crangon_septemspinosa.gif) 
 Scientific Name ::   Crangon septemspinosa
 Acknowledgements   from the Gray Museum Slide Collection
 Copyright ::          © 1995 [Marine Biological Laboratory, Woods Hole](http://www.mbl.edu/) 
@@ -237,17 +237,17 @@ Copyright ::          © 1995 [Marine Biological Laboratory, Woods Hole](http://
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Arthropoda](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda|Arthropoda]] 
 
-### #is_/same_as :: [Arthropoda.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda.public|Arthropoda.public]] 
 
-### #is_/same_as :: [Arthropoda.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda.internal|Arthropoda.internal]] 
 
-### #is_/same_as :: [Arthropoda.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda.protect|Arthropoda.protect]] 
 
-### #is_/same_as :: [Arthropoda.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda.private|Arthropoda.private]] 
 
-### #is_/same_as :: [Arthropoda.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda.personal|Arthropoda.personal]] 
 
-### #is_/same_as :: [Arthropoda.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda.secret|Arthropoda.secret]] 
 

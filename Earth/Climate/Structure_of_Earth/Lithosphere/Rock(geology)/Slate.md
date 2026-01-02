@@ -22,17 +22,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Slate](/_Standards/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Slate.md) 
+### #is_/same_as :: [[/_Standards/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Slate|Slate]] 
 
-### #is_/same_as :: [Slate.public](/_public/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Slate.public.md) 
+### #is_/same_as :: [[/_public/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Slate.public|Slate.public]] 
 
-### #is_/same_as :: [Slate.internal](/_internal/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Slate.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Slate.internal|Slate.internal]] 
 
-### #is_/same_as :: [Slate.protect](/_protect/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Slate.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Slate.protect|Slate.protect]] 
 
-### #is_/same_as :: [Slate.private](/_private/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Slate.private.md) 
+### #is_/same_as :: [[/_private/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Slate.private|Slate.private]] 
 
-### #is_/same_as :: [Slate.personal](/_personal/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Slate.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Slate.personal|Slate.personal]] 
 
-### #is_/same_as :: [Slate.secret](/_secret/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Slate.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Slate.secret|Slate.secret]] 
 

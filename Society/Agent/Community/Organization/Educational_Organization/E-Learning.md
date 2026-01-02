@@ -53,17 +53,17 @@ GitHub_topic: elearning
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [E-Learning](/_Standards/Society/Agent/Community/Organization/Educational_Organization/E-Learning.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Educational_Organization/E-Learning|E-Learning]] 
 
-### #is_/same_as :: [E-Learning.public](/_public/Society/Agent/Community/Organization/Educational_Organization/E-Learning.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Educational_Organization/E-Learning.public|E-Learning.public]] 
 
-### #is_/same_as :: [E-Learning.internal](/_internal/Society/Agent/Community/Organization/Educational_Organization/E-Learning.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Educational_Organization/E-Learning.internal|E-Learning.internal]] 
 
-### #is_/same_as :: [E-Learning.protect](/_protect/Society/Agent/Community/Organization/Educational_Organization/E-Learning.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Educational_Organization/E-Learning.protect|E-Learning.protect]] 
 
-### #is_/same_as :: [E-Learning.private](/_private/Society/Agent/Community/Organization/Educational_Organization/E-Learning.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Educational_Organization/E-Learning.private|E-Learning.private]] 
 
-### #is_/same_as :: [E-Learning.personal](/_personal/Society/Agent/Community/Organization/Educational_Organization/E-Learning.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Educational_Organization/E-Learning.personal|E-Learning.personal]] 
 
-### #is_/same_as :: [E-Learning.secret](/_secret/Society/Agent/Community/Organization/Educational_Organization/E-Learning.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Educational_Organization/E-Learning.secret|E-Learning.secret]] 
 

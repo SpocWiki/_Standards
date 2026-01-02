@@ -44,17 +44,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_shipping_origin](/_Standards/schema-org/Relation/has/has_shipping_origin.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_shipping_origin|has_shipping_origin]] 
 
-### #is_/same_as :: [has_shipping_origin.public](/_public/schema-org/Relation/has/has_shipping_origin.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_shipping_origin.public|has_shipping_origin.public]] 
 
-### #is_/same_as :: [has_shipping_origin.internal](/_internal/schema-org/Relation/has/has_shipping_origin.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_shipping_origin.internal|has_shipping_origin.internal]] 
 
-### #is_/same_as :: [has_shipping_origin.protect](/_protect/schema-org/Relation/has/has_shipping_origin.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_shipping_origin.protect|has_shipping_origin.protect]] 
 
-### #is_/same_as :: [has_shipping_origin.private](/_private/schema-org/Relation/has/has_shipping_origin.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_shipping_origin.private|has_shipping_origin.private]] 
 
-### #is_/same_as :: [has_shipping_origin.personal](/_personal/schema-org/Relation/has/has_shipping_origin.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_shipping_origin.personal|has_shipping_origin.personal]] 
 
-### #is_/same_as :: [has_shipping_origin.secret](/_secret/schema-org/Relation/has/has_shipping_origin.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_shipping_origin.secret|has_shipping_origin.secret]] 
 

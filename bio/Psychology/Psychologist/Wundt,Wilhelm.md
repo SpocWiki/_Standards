@@ -193,17 +193,17 @@ date_of_death: 1920-08-31T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Wundt,Wilhelm](/_Standards/bio/Psychology/Psychologist/Wundt,Wilhelm.md) 
+### #is_/same_as :: [[/_Standards/bio/Psychology/Psychologist/Wundt,Wilhelm|Wundt,Wilhelm]] 
 
-### #is_/same_as :: [Wundt,Wilhelm.public](/_public/bio/Psychology/Psychologist/Wundt,Wilhelm.public.md) 
+### #is_/same_as :: [[/_public/bio/Psychology/Psychologist/Wundt,Wilhelm.public|Wundt,Wilhelm.public]] 
 
-### #is_/same_as :: [Wundt,Wilhelm.internal](/_internal/bio/Psychology/Psychologist/Wundt,Wilhelm.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Psychology/Psychologist/Wundt,Wilhelm.internal|Wundt,Wilhelm.internal]] 
 
-### #is_/same_as :: [Wundt,Wilhelm.protect](/_protect/bio/Psychology/Psychologist/Wundt,Wilhelm.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Psychology/Psychologist/Wundt,Wilhelm.protect|Wundt,Wilhelm.protect]] 
 
-### #is_/same_as :: [Wundt,Wilhelm.private](/_private/bio/Psychology/Psychologist/Wundt,Wilhelm.private.md) 
+### #is_/same_as :: [[/_private/bio/Psychology/Psychologist/Wundt,Wilhelm.private|Wundt,Wilhelm.private]] 
 
-### #is_/same_as :: [Wundt,Wilhelm.personal](/_personal/bio/Psychology/Psychologist/Wundt,Wilhelm.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Psychology/Psychologist/Wundt,Wilhelm.personal|Wundt,Wilhelm.personal]] 
 
-### #is_/same_as :: [Wundt,Wilhelm.secret](/_secret/bio/Psychology/Psychologist/Wundt,Wilhelm.secret.md)
+### #is_/same_as :: [[/_secret/bio/Psychology/Psychologist/Wundt,Wilhelm.secret|Wundt,Wilhelm.secret]] 
 

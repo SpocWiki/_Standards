@@ -179,7 +179,7 @@ chordate evolution with new LSU and SSU ribosomal DNA data. Molecular
 Biology and Evolution 19:762-776.
 
 ## Title Illustrations
-![Smilisca phaeota frog standing on a leaf](Deutero/1147smilisca1.jpg))
+![Smilisca phaeota frog standing on a leaf](Deutero/1147smilisca1.jpg) 
 
   ----------------------------------------------------------------------------
   Scientific Name ::  Smilisca phaeota
@@ -187,7 +187,7 @@ Biology and Evolution 19:762-776.
   Copyright ::         © [Greg and Marybeth Dimijian](http://www.dimijianimages.com/) 
  
   ----------------------------------------------------------------------------
-![Saccoglossus kowalevskii](Deutero/saccoglossus.jpg))
+![Saccoglossus kowalevskii](Deutero/saccoglossus.jpg) 
 
   -------------------------------------------------------------------------------
   Scientific Name ::  Saccoglossus kowalevskii
@@ -195,7 +195,7 @@ Biology and Evolution 19:762-776.
   Copyright ::         © 1995 [Marine Biological Laboratory, Woods Hole](http://www.mbl.edu/) 
  
   -------------------------------------------------------------------------------
-![](Deutero/ophio02p.jpg))
+![](Deutero/ophio02p.jpg) 
 
   ---------------------------------------------------------------------------
   Scientific Name ::     Ophiuroidea
@@ -208,17 +208,17 @@ Biology and Evolution 19:762-776.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Deutero](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero|Deutero]] 
 
-### #is_/same_as :: [Deutero.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero.public|Deutero.public]] 
 
-### #is_/same_as :: [Deutero.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero.internal|Deutero.internal]] 
 
-### #is_/same_as :: [Deutero.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero.protect|Deutero.protect]] 
 
-### #is_/same_as :: [Deutero.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero.private|Deutero.private]] 
 
-### #is_/same_as :: [Deutero.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero.personal|Deutero.personal]] 
 
-### #is_/same_as :: [Deutero.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero.secret|Deutero.secret]] 
 

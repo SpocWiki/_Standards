@@ -40,17 +40,17 @@ Unicode_character: 📼
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Videotape](/_Standards/Science/Physics/Wave/Optics/Camera/Video_Recording/Videotape.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Wave/Optics/Camera/Video_Recording/Videotape|Videotape]] 
 
-### #is_/same_as :: [Videotape.public](/_public/Science/Physics/Wave/Optics/Camera/Video_Recording/Videotape.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Wave/Optics/Camera/Video_Recording/Videotape.public|Videotape.public]] 
 
-### #is_/same_as :: [Videotape.internal](/_internal/Science/Physics/Wave/Optics/Camera/Video_Recording/Videotape.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Wave/Optics/Camera/Video_Recording/Videotape.internal|Videotape.internal]] 
 
-### #is_/same_as :: [Videotape.protect](/_protect/Science/Physics/Wave/Optics/Camera/Video_Recording/Videotape.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Wave/Optics/Camera/Video_Recording/Videotape.protect|Videotape.protect]] 
 
-### #is_/same_as :: [Videotape.private](/_private/Science/Physics/Wave/Optics/Camera/Video_Recording/Videotape.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Wave/Optics/Camera/Video_Recording/Videotape.private|Videotape.private]] 
 
-### #is_/same_as :: [Videotape.personal](/_personal/Science/Physics/Wave/Optics/Camera/Video_Recording/Videotape.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Wave/Optics/Camera/Video_Recording/Videotape.personal|Videotape.personal]] 
 
-### #is_/same_as :: [Videotape.secret](/_secret/Science/Physics/Wave/Optics/Camera/Video_Recording/Videotape.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Wave/Optics/Camera/Video_Recording/Videotape.secret|Videotape.secret]] 
 

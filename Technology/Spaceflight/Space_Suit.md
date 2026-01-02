@@ -25,17 +25,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Space_Suit](/_Standards/Technology/Spaceflight/Space_Suit.md) 
+### #is_/same_as :: [[/_Standards/Technology/Spaceflight/Space_Suit|Space_Suit]] 
 
-### #is_/same_as :: [Space_Suit.public](/_public/Technology/Spaceflight/Space_Suit.public.md) 
+### #is_/same_as :: [[/_public/Technology/Spaceflight/Space_Suit.public|Space_Suit.public]] 
 
-### #is_/same_as :: [Space_Suit.internal](/_internal/Technology/Spaceflight/Space_Suit.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Spaceflight/Space_Suit.internal|Space_Suit.internal]] 
 
-### #is_/same_as :: [Space_Suit.protect](/_protect/Technology/Spaceflight/Space_Suit.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Spaceflight/Space_Suit.protect|Space_Suit.protect]] 
 
-### #is_/same_as :: [Space_Suit.private](/_private/Technology/Spaceflight/Space_Suit.private.md) 
+### #is_/same_as :: [[/_private/Technology/Spaceflight/Space_Suit.private|Space_Suit.private]] 
 
-### #is_/same_as :: [Space_Suit.personal](/_personal/Technology/Spaceflight/Space_Suit.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Spaceflight/Space_Suit.personal|Space_Suit.personal]] 
 
-### #is_/same_as :: [Space_Suit.secret](/_secret/Technology/Spaceflight/Space_Suit.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Spaceflight/Space_Suit.secret|Space_Suit.secret]] 
 

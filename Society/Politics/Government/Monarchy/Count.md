@@ -82,17 +82,17 @@ Commons_category: Counts
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Count](/_Standards/Society/Politics/Government/Monarchy/Count.md) 
+### #is_/same_as :: [[/_Standards/Society/Politics/Government/Monarchy/Count|Count]] 
 
-### #is_/same_as :: [Count.public](/_public/Society/Politics/Government/Monarchy/Count.public.md) 
+### #is_/same_as :: [[/_public/Society/Politics/Government/Monarchy/Count.public|Count.public]] 
 
-### #is_/same_as :: [Count.internal](/_internal/Society/Politics/Government/Monarchy/Count.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Politics/Government/Monarchy/Count.internal|Count.internal]] 
 
-### #is_/same_as :: [Count.protect](/_protect/Society/Politics/Government/Monarchy/Count.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Politics/Government/Monarchy/Count.protect|Count.protect]] 
 
-### #is_/same_as :: [Count.private](/_private/Society/Politics/Government/Monarchy/Count.private.md) 
+### #is_/same_as :: [[/_private/Society/Politics/Government/Monarchy/Count.private|Count.private]] 
 
-### #is_/same_as :: [Count.personal](/_personal/Society/Politics/Government/Monarchy/Count.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Politics/Government/Monarchy/Count.personal|Count.personal]] 
 
-### #is_/same_as :: [Count.secret](/_secret/Society/Politics/Government/Monarchy/Count.secret.md)
+### #is_/same_as :: [[/_secret/Society/Politics/Government/Monarchy/Count.secret|Count.secret]] 
 

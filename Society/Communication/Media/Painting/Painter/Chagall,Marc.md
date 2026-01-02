@@ -336,17 +336,17 @@ ISNI: 0000000121462341
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Chagall,Marc](/_Standards/Society/Communication/Media/Painting/Painter/Chagall,Marc.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Painting/Painter/Chagall,Marc|Chagall,Marc]] 
 
-### #is_/same_as :: [Chagall,Marc.public](/_public/Society/Communication/Media/Painting/Painter/Chagall,Marc.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Painting/Painter/Chagall,Marc.public|Chagall,Marc.public]] 
 
-### #is_/same_as :: [Chagall,Marc.internal](/_internal/Society/Communication/Media/Painting/Painter/Chagall,Marc.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Painting/Painter/Chagall,Marc.internal|Chagall,Marc.internal]] 
 
-### #is_/same_as :: [Chagall,Marc.protect](/_protect/Society/Communication/Media/Painting/Painter/Chagall,Marc.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Painting/Painter/Chagall,Marc.protect|Chagall,Marc.protect]] 
 
-### #is_/same_as :: [Chagall,Marc.private](/_private/Society/Communication/Media/Painting/Painter/Chagall,Marc.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Painting/Painter/Chagall,Marc.private|Chagall,Marc.private]] 
 
-### #is_/same_as :: [Chagall,Marc.personal](/_personal/Society/Communication/Media/Painting/Painter/Chagall,Marc.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Painting/Painter/Chagall,Marc.personal|Chagall,Marc.personal]] 
 
-### #is_/same_as :: [Chagall,Marc.secret](/_secret/Society/Communication/Media/Painting/Painter/Chagall,Marc.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Painting/Painter/Chagall,Marc.secret|Chagall,Marc.secret]] 
 

@@ -37,17 +37,17 @@ A cafe or coffee shop.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~CafeOrCoffeeShop](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FoodEstablishment/FileClass~CafeOrCoffeeShop.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FoodEstablishment/FileClass~CafeOrCoffeeShop|FileClass~CafeOrCoffeeShop]] 
 
-### #is_/same_as :: [FileClass~CafeOrCoffeeShop.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FoodEstablishment/FileClass~CafeOrCoffeeShop.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FoodEstablishment/FileClass~CafeOrCoffeeShop.public|FileClass~CafeOrCoffeeShop.public]] 
 
-### #is_/same_as :: [FileClass~CafeOrCoffeeShop.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FoodEstablishment/FileClass~CafeOrCoffeeShop.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FoodEstablishment/FileClass~CafeOrCoffeeShop.internal|FileClass~CafeOrCoffeeShop.internal]] 
 
-### #is_/same_as :: [FileClass~CafeOrCoffeeShop.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FoodEstablishment/FileClass~CafeOrCoffeeShop.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FoodEstablishment/FileClass~CafeOrCoffeeShop.protect|FileClass~CafeOrCoffeeShop.protect]] 
 
-### #is_/same_as :: [FileClass~CafeOrCoffeeShop.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FoodEstablishment/FileClass~CafeOrCoffeeShop.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FoodEstablishment/FileClass~CafeOrCoffeeShop.private|FileClass~CafeOrCoffeeShop.private]] 
 
-### #is_/same_as :: [FileClass~CafeOrCoffeeShop.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FoodEstablishment/FileClass~CafeOrCoffeeShop.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FoodEstablishment/FileClass~CafeOrCoffeeShop.personal|FileClass~CafeOrCoffeeShop.personal]] 
 
-### #is_/same_as :: [FileClass~CafeOrCoffeeShop.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FoodEstablishment/FileClass~CafeOrCoffeeShop.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FoodEstablishment/FileClass~CafeOrCoffeeShop.secret|FileClass~CafeOrCoffeeShop.secret]] 
 

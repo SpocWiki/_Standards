@@ -72,17 +72,17 @@ Dewey_Decimal_Classification:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sabotage](/_Standards/Society/Military/Military_Operation/Sabotage.md) 
+### #is_/same_as :: [[/_Standards/Society/Military/Military_Operation/Sabotage|Sabotage]] 
 
-### #is_/same_as :: [Sabotage.public](/_public/Society/Military/Military_Operation/Sabotage.public.md) 
+### #is_/same_as :: [[/_public/Society/Military/Military_Operation/Sabotage.public|Sabotage.public]] 
 
-### #is_/same_as :: [Sabotage.internal](/_internal/Society/Military/Military_Operation/Sabotage.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Military/Military_Operation/Sabotage.internal|Sabotage.internal]] 
 
-### #is_/same_as :: [Sabotage.protect](/_protect/Society/Military/Military_Operation/Sabotage.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Military/Military_Operation/Sabotage.protect|Sabotage.protect]] 
 
-### #is_/same_as :: [Sabotage.private](/_private/Society/Military/Military_Operation/Sabotage.private.md) 
+### #is_/same_as :: [[/_private/Society/Military/Military_Operation/Sabotage.private|Sabotage.private]] 
 
-### #is_/same_as :: [Sabotage.personal](/_personal/Society/Military/Military_Operation/Sabotage.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Military/Military_Operation/Sabotage.personal|Sabotage.personal]] 
 
-### #is_/same_as :: [Sabotage.secret](/_secret/Society/Military/Military_Operation/Sabotage.secret.md)
+### #is_/same_as :: [[/_secret/Society/Military/Military_Operation/Sabotage.secret|Sabotage.secret]] 
 

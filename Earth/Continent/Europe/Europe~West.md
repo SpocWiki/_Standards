@@ -32,17 +32,17 @@ type: folder_brief_live
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Europe~West](/_Standards/Earth/Continent/Europe/Europe~West.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~West|Europe~West]] 
 
-### #is_/same_as :: [Europe~West.public](/_public/Earth/Continent/Europe/Europe~West.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~West.public|Europe~West.public]] 
 
-### #is_/same_as :: [Europe~West.internal](/_internal/Earth/Continent/Europe/Europe~West.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~West.internal|Europe~West.internal]] 
 
-### #is_/same_as :: [Europe~West.protect](/_protect/Earth/Continent/Europe/Europe~West.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~West.protect|Europe~West.protect]] 
 
-### #is_/same_as :: [Europe~West.private](/_private/Earth/Continent/Europe/Europe~West.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~West.private|Europe~West.private]] 
 
-### #is_/same_as :: [Europe~West.personal](/_personal/Earth/Continent/Europe/Europe~West.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~West.personal|Europe~West.personal]] 
 
-### #is_/same_as :: [Europe~West.secret](/_secret/Earth/Continent/Europe/Europe~West.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~West.secret|Europe~West.secret]] 
 

@@ -84,17 +84,17 @@ Copyright ::            © [BIODIDAC](http://biodidac.bio.uottawa.ca/index.htm)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Alveolates](/_Standards/bio/bio~Domain/Eukarya/Alveolates.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Alveolate|Alveolate]] 
 
-### #is_/same_as :: [Alveolates.public](/_public/bio/bio~Domain/Eukarya/Alveolates.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Alveolate.public|Alveolate.public]] 
 
-### #is_/same_as :: [Alveolates.internal](/_internal/bio/bio~Domain/Eukarya/Alveolates.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Alveolate.internal|Alveolate.internal]] 
 
-### #is_/same_as :: [Alveolates.protect](/_protect/bio/bio~Domain/Eukarya/Alveolates.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Alveolate.protect|Alveolate.protect]] 
 
-### #is_/same_as :: [Alveolates.private](/_private/bio/bio~Domain/Eukarya/Alveolates.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Alveolate.private|Alveolate.private]] 
 
-### #is_/same_as :: [Alveolates.personal](/_personal/bio/bio~Domain/Eukarya/Alveolates.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Alveolate.personal|Alveolate.personal]] 
 
-### #is_/same_as :: [Alveolates.secret](/_secret/bio/bio~Domain/Eukarya/Alveolates.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Alveolate.secret|Alveolate.secret]] 
 

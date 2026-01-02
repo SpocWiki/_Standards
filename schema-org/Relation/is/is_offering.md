@@ -54,17 +54,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [is_offering](/_Standards/schema-org/Relation/is/is_offering.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/is/is_offering|is_offering]] 
 
-### #is_/same_as :: [is_offering.public](/_public/schema-org/Relation/is/is_offering.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/is/is_offering.public|is_offering.public]] 
 
-### #is_/same_as :: [is_offering.internal](/_internal/schema-org/Relation/is/is_offering.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/is/is_offering.internal|is_offering.internal]] 
 
-### #is_/same_as :: [is_offering.protect](/_protect/schema-org/Relation/is/is_offering.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/is/is_offering.protect|is_offering.protect]] 
 
-### #is_/same_as :: [is_offering.private](/_private/schema-org/Relation/is/is_offering.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/is/is_offering.private|is_offering.private]] 
 
-### #is_/same_as :: [is_offering.personal](/_personal/schema-org/Relation/is/is_offering.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/is/is_offering.personal|is_offering.personal]] 
 
-### #is_/same_as :: [is_offering.secret](/_secret/schema-org/Relation/is/is_offering.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/is/is_offering.secret|is_offering.secret]] 
 

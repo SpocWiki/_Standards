@@ -52,17 +52,17 @@ Krugosvet_article_archived_: geografiya/musson
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Monsoon](/_Standards/Earth/Climate/Season/Monsoon.md) 
+### #is_/same_as :: [[/_Standards/Earth/Climate/Season/Monsoon|Monsoon]] 
 
-### #is_/same_as :: [Monsoon.public](/_public/Earth/Climate/Season/Monsoon.public.md) 
+### #is_/same_as :: [[/_public/Earth/Climate/Season/Monsoon.public|Monsoon.public]] 
 
-### #is_/same_as :: [Monsoon.internal](/_internal/Earth/Climate/Season/Monsoon.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Climate/Season/Monsoon.internal|Monsoon.internal]] 
 
-### #is_/same_as :: [Monsoon.protect](/_protect/Earth/Climate/Season/Monsoon.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Climate/Season/Monsoon.protect|Monsoon.protect]] 
 
-### #is_/same_as :: [Monsoon.private](/_private/Earth/Climate/Season/Monsoon.private.md) 
+### #is_/same_as :: [[/_private/Earth/Climate/Season/Monsoon.private|Monsoon.private]] 
 
-### #is_/same_as :: [Monsoon.personal](/_personal/Earth/Climate/Season/Monsoon.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Climate/Season/Monsoon.personal|Monsoon.personal]] 
 
-### #is_/same_as :: [Monsoon.secret](/_secret/Earth/Climate/Season/Monsoon.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Climate/Season/Monsoon.secret|Monsoon.secret]] 
 

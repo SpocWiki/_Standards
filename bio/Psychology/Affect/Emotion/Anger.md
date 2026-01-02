@@ -98,17 +98,17 @@ MeSH_tree_code: F01.470.093
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Anger](/_Standards/bio/Psychology/Affect/Emotion/Anger.md) 
+### #is_/same_as :: [[/_Standards/bio/Psychology/Affect/Emotion/Anger|Anger]] 
 
-### #is_/same_as :: [Anger.public](/_public/bio/Psychology/Affect/Emotion/Anger.public.md) 
+### #is_/same_as :: [[/_public/bio/Psychology/Affect/Emotion/Anger.public|Anger.public]] 
 
-### #is_/same_as :: [Anger.internal](/_internal/bio/Psychology/Affect/Emotion/Anger.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Psychology/Affect/Emotion/Anger.internal|Anger.internal]] 
 
-### #is_/same_as :: [Anger.protect](/_protect/bio/Psychology/Affect/Emotion/Anger.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Psychology/Affect/Emotion/Anger.protect|Anger.protect]] 
 
-### #is_/same_as :: [Anger.private](/_private/bio/Psychology/Affect/Emotion/Anger.private.md) 
+### #is_/same_as :: [[/_private/bio/Psychology/Affect/Emotion/Anger.private|Anger.private]] 
 
-### #is_/same_as :: [Anger.personal](/_personal/bio/Psychology/Affect/Emotion/Anger.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Psychology/Affect/Emotion/Anger.personal|Anger.personal]] 
 
-### #is_/same_as :: [Anger.secret](/_secret/bio/Psychology/Affect/Emotion/Anger.secret.md)
+### #is_/same_as :: [[/_secret/bio/Psychology/Affect/Emotion/Anger.secret|Anger.secret]] 
 

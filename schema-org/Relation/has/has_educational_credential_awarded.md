@@ -43,17 +43,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_educational_credential_awarded](/_Standards/schema-org/Relation/has/has_educational_credential_awarded.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_educational_credential_awarded|has_educational_credential_awarded]] 
 
-### #is_/same_as :: [has_educational_credential_awarded.public](/_public/schema-org/Relation/has/has_educational_credential_awarded.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_educational_credential_awarded.public|has_educational_credential_awarded.public]] 
 
-### #is_/same_as :: [has_educational_credential_awarded.internal](/_internal/schema-org/Relation/has/has_educational_credential_awarded.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_educational_credential_awarded.internal|has_educational_credential_awarded.internal]] 
 
-### #is_/same_as :: [has_educational_credential_awarded.protect](/_protect/schema-org/Relation/has/has_educational_credential_awarded.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_educational_credential_awarded.protect|has_educational_credential_awarded.protect]] 
 
-### #is_/same_as :: [has_educational_credential_awarded.private](/_private/schema-org/Relation/has/has_educational_credential_awarded.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_educational_credential_awarded.private|has_educational_credential_awarded.private]] 
 
-### #is_/same_as :: [has_educational_credential_awarded.personal](/_personal/schema-org/Relation/has/has_educational_credential_awarded.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_educational_credential_awarded.personal|has_educational_credential_awarded.personal]] 
 
-### #is_/same_as :: [has_educational_credential_awarded.secret](/_secret/schema-org/Relation/has/has_educational_credential_awarded.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_educational_credential_awarded.secret|has_educational_credential_awarded.secret]] 
 

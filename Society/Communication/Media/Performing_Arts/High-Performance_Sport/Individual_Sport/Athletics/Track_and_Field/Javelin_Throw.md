@@ -35,17 +35,17 @@ OpenStreetMap_tag: athletics=javelin_throw
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Javelin_Throw](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Athletics/Track_and_Field/Javelin_Throw.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Athletics/Track_and_Field/Javelin_Throw|Javelin_Throw]] 
 
-### #is_/same_as :: [Javelin_Throw.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Athletics/Track_and_Field/Javelin_Throw.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Athletics/Track_and_Field/Javelin_Throw.public|Javelin_Throw.public]] 
 
-### #is_/same_as :: [Javelin_Throw.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Athletics/Track_and_Field/Javelin_Throw.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Athletics/Track_and_Field/Javelin_Throw.internal|Javelin_Throw.internal]] 
 
-### #is_/same_as :: [Javelin_Throw.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Athletics/Track_and_Field/Javelin_Throw.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Athletics/Track_and_Field/Javelin_Throw.protect|Javelin_Throw.protect]] 
 
-### #is_/same_as :: [Javelin_Throw.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Athletics/Track_and_Field/Javelin_Throw.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Athletics/Track_and_Field/Javelin_Throw.private|Javelin_Throw.private]] 
 
-### #is_/same_as :: [Javelin_Throw.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Athletics/Track_and_Field/Javelin_Throw.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Athletics/Track_and_Field/Javelin_Throw.personal|Javelin_Throw.personal]] 
 
-### #is_/same_as :: [Javelin_Throw.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Athletics/Track_and_Field/Javelin_Throw.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Athletics/Track_and_Field/Javelin_Throw.secret|Javelin_Throw.secret]] 
 

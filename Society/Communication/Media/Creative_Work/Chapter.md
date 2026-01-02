@@ -41,17 +41,17 @@ One of the sections into which a book is divided. A chapter usually has a sectio
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Chapter](/_Standards/Society/Communication/Media/Creative_Work/Chapter.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Creative_Work/Chapter|Chapter]] 
 
-### #is_/same_as :: [Chapter.public](/_public/Society/Communication/Media/Creative_Work/Chapter.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Creative_Work/Chapter.public|Chapter.public]] 
 
-### #is_/same_as :: [Chapter.internal](/_internal/Society/Communication/Media/Creative_Work/Chapter.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Creative_Work/Chapter.internal|Chapter.internal]] 
 
-### #is_/same_as :: [Chapter.protect](/_protect/Society/Communication/Media/Creative_Work/Chapter.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Creative_Work/Chapter.protect|Chapter.protect]] 
 
-### #is_/same_as :: [Chapter.private](/_private/Society/Communication/Media/Creative_Work/Chapter.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Creative_Work/Chapter.private|Chapter.private]] 
 
-### #is_/same_as :: [Chapter.personal](/_personal/Society/Communication/Media/Creative_Work/Chapter.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/Chapter.personal|Chapter.personal]] 
 
-### #is_/same_as :: [Chapter.secret](/_secret/Society/Communication/Media/Creative_Work/Chapter.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Chapter.secret|Chapter.secret]] 
 

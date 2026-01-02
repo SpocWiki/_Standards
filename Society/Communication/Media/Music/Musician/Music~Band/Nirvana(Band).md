@@ -121,17 +121,17 @@ work_period_end_: 1994-01-01T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Nirvana(Band)](/_Standards/Society/Communication/Media/Music/Musician/Music~Band/Nirvana(Band).md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Musician/Music~Band/Nirvana(Band)|Nirvana(Band)]] 
 
-### #is_/same_as :: [Nirvana(Band).public](/_public/Society/Communication/Media/Music/Musician/Music~Band/Nirvana(Band).public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Musician/Music~Band/Nirvana(Band).public|Nirvana(Band).public]] 
 
-### #is_/same_as :: [Nirvana(Band).internal](/_internal/Society/Communication/Media/Music/Musician/Music~Band/Nirvana(Band).internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Musician/Music~Band/Nirvana(Band).internal|Nirvana(Band).internal]] 
 
-### #is_/same_as :: [Nirvana(Band).protect](/_protect/Society/Communication/Media/Music/Musician/Music~Band/Nirvana(Band).protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Musician/Music~Band/Nirvana(Band).protect|Nirvana(Band).protect]] 
 
-### #is_/same_as :: [Nirvana(Band).private](/_private/Society/Communication/Media/Music/Musician/Music~Band/Nirvana(Band).private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Musician/Music~Band/Nirvana(Band).private|Nirvana(Band).private]] 
 
-### #is_/same_as :: [Nirvana(Band).personal](/_personal/Society/Communication/Media/Music/Musician/Music~Band/Nirvana(Band).personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Musician/Music~Band/Nirvana(Band).personal|Nirvana(Band).personal]] 
 
-### #is_/same_as :: [Nirvana(Band).secret](/_secret/Society/Communication/Media/Music/Musician/Music~Band/Nirvana(Band).secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Musician/Music~Band/Nirvana(Band).secret|Nirvana(Band).secret]] 
 

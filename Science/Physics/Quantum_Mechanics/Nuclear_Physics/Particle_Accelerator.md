@@ -39,17 +39,17 @@ Wolfram_Language_entity_type: ParticleAccelerator
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Particle_Accelerator](/_Standards/Science/Physics/Quantum_Mechanics/Nuclear_Physics/Particle_Accelerator.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Quantum_Mechanics/Nuclear_Physics/Particle_Accelerator|Particle_Accelerator]] 
 
-### #is_/same_as :: [Particle_Accelerator.public](/_public/Science/Physics/Quantum_Mechanics/Nuclear_Physics/Particle_Accelerator.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Quantum_Mechanics/Nuclear_Physics/Particle_Accelerator.public|Particle_Accelerator.public]] 
 
-### #is_/same_as :: [Particle_Accelerator.internal](/_internal/Science/Physics/Quantum_Mechanics/Nuclear_Physics/Particle_Accelerator.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Quantum_Mechanics/Nuclear_Physics/Particle_Accelerator.internal|Particle_Accelerator.internal]] 
 
-### #is_/same_as :: [Particle_Accelerator.protect](/_protect/Science/Physics/Quantum_Mechanics/Nuclear_Physics/Particle_Accelerator.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Quantum_Mechanics/Nuclear_Physics/Particle_Accelerator.protect|Particle_Accelerator.protect]] 
 
-### #is_/same_as :: [Particle_Accelerator.private](/_private/Science/Physics/Quantum_Mechanics/Nuclear_Physics/Particle_Accelerator.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Quantum_Mechanics/Nuclear_Physics/Particle_Accelerator.private|Particle_Accelerator.private]] 
 
-### #is_/same_as :: [Particle_Accelerator.personal](/_personal/Science/Physics/Quantum_Mechanics/Nuclear_Physics/Particle_Accelerator.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Quantum_Mechanics/Nuclear_Physics/Particle_Accelerator.personal|Particle_Accelerator.personal]] 
 
-### #is_/same_as :: [Particle_Accelerator.secret](/_secret/Science/Physics/Quantum_Mechanics/Nuclear_Physics/Particle_Accelerator.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Quantum_Mechanics/Nuclear_Physics/Particle_Accelerator.secret|Particle_Accelerator.secret]] 
 

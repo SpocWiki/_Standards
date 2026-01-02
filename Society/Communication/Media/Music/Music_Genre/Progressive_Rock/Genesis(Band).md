@@ -58,17 +58,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Genesis(Band)](/_Standards/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Genesis(Band).md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Genesis(Band)|Genesis(Band)]] 
 
-### #is_/same_as :: [Genesis(Band).public](/_public/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Genesis(Band).public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Genesis(Band).public|Genesis(Band).public]] 
 
-### #is_/same_as :: [Genesis(Band).internal](/_internal/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Genesis(Band).internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Genesis(Band).internal|Genesis(Band).internal]] 
 
-### #is_/same_as :: [Genesis(Band).protect](/_protect/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Genesis(Band).protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Genesis(Band).protect|Genesis(Band).protect]] 
 
-### #is_/same_as :: [Genesis(Band).private](/_private/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Genesis(Band).private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Genesis(Band).private|Genesis(Band).private]] 
 
-### #is_/same_as :: [Genesis(Band).personal](/_personal/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Genesis(Band).personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Genesis(Band).personal|Genesis(Band).personal]] 
 
-### #is_/same_as :: [Genesis(Band).secret](/_secret/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Genesis(Band).secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Genesis(Band).secret|Genesis(Band).secret]] 
 

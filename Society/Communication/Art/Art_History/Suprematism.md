@@ -43,17 +43,17 @@ inception: 1913-01-01T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Suprematism](/_Standards/Society/Communication/Art/Art_History/Suprematism.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Art/Art_History/Suprematism|Suprematism]] 
 
-### #is_/same_as :: [Suprematism.public](/_public/Society/Communication/Art/Art_History/Suprematism.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Art/Art_History/Suprematism.public|Suprematism.public]] 
 
-### #is_/same_as :: [Suprematism.internal](/_internal/Society/Communication/Art/Art_History/Suprematism.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Art/Art_History/Suprematism.internal|Suprematism.internal]] 
 
-### #is_/same_as :: [Suprematism.protect](/_protect/Society/Communication/Art/Art_History/Suprematism.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Art/Art_History/Suprematism.protect|Suprematism.protect]] 
 
-### #is_/same_as :: [Suprematism.private](/_private/Society/Communication/Art/Art_History/Suprematism.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Art/Art_History/Suprematism.private|Suprematism.private]] 
 
-### #is_/same_as :: [Suprematism.personal](/_personal/Society/Communication/Art/Art_History/Suprematism.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Art/Art_History/Suprematism.personal|Suprematism.personal]] 
 
-### #is_/same_as :: [Suprematism.secret](/_secret/Society/Communication/Art/Art_History/Suprematism.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Art/Art_History/Suprematism.secret|Suprematism.secret]] 
 

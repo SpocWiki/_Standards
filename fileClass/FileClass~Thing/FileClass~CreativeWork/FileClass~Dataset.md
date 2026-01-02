@@ -93,17 +93,17 @@ VariableMeasured:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#cl
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~Dataset](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Dataset.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Dataset|FileClass~Dataset]] 
 
-### #is_/same_as :: [FileClass~Dataset.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Dataset.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Dataset.public|FileClass~Dataset.public]] 
 
-### #is_/same_as :: [FileClass~Dataset.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Dataset.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Dataset.internal|FileClass~Dataset.internal]] 
 
-### #is_/same_as :: [FileClass~Dataset.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Dataset.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Dataset.protect|FileClass~Dataset.protect]] 
 
-### #is_/same_as :: [FileClass~Dataset.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Dataset.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Dataset.private|FileClass~Dataset.private]] 
 
-### #is_/same_as :: [FileClass~Dataset.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Dataset.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Dataset.personal|FileClass~Dataset.personal]] 
 
-### #is_/same_as :: [FileClass~Dataset.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Dataset.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Dataset.secret|FileClass~Dataset.secret]] 
 

@@ -69,17 +69,17 @@ Krugosvet_article_archived_: kultura_i_obrazovanie/izobrazitelnoe_iskusstvo/ALEK
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lighthouse_of_Alexandria](/_Standards/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Seven_Wonders_of_the_Ancient_World/Lighthouse_of_Alexandria.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Seven_Wonders_of_the_Ancient_World/Lighthouse_of_Alexandria|Lighthouse_of_Alexandria]] 
 
-### #is_/same_as :: [Lighthouse_of_Alexandria.public](/_public/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Seven_Wonders_of_the_Ancient_World/Lighthouse_of_Alexandria.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Seven_Wonders_of_the_Ancient_World/Lighthouse_of_Alexandria.public|Lighthouse_of_Alexandria.public]] 
 
-### #is_/same_as :: [Lighthouse_of_Alexandria.internal](/_internal/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Seven_Wonders_of_the_Ancient_World/Lighthouse_of_Alexandria.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Seven_Wonders_of_the_Ancient_World/Lighthouse_of_Alexandria.internal|Lighthouse_of_Alexandria.internal]] 
 
-### #is_/same_as :: [Lighthouse_of_Alexandria.protect](/_protect/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Seven_Wonders_of_the_Ancient_World/Lighthouse_of_Alexandria.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Seven_Wonders_of_the_Ancient_World/Lighthouse_of_Alexandria.protect|Lighthouse_of_Alexandria.protect]] 
 
-### #is_/same_as :: [Lighthouse_of_Alexandria.private](/_private/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Seven_Wonders_of_the_Ancient_World/Lighthouse_of_Alexandria.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Seven_Wonders_of_the_Ancient_World/Lighthouse_of_Alexandria.private|Lighthouse_of_Alexandria.private]] 
 
-### #is_/same_as :: [Lighthouse_of_Alexandria.personal](/_personal/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Seven_Wonders_of_the_Ancient_World/Lighthouse_of_Alexandria.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Seven_Wonders_of_the_Ancient_World/Lighthouse_of_Alexandria.personal|Lighthouse_of_Alexandria.personal]] 
 
-### #is_/same_as :: [Lighthouse_of_Alexandria.secret](/_secret/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Seven_Wonders_of_the_Ancient_World/Lighthouse_of_Alexandria.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Seven_Wonders_of_the_Ancient_World/Lighthouse_of_Alexandria.secret|Lighthouse_of_Alexandria.secret]] 
 

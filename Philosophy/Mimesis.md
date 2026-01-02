@@ -46,17 +46,17 @@ Dewey_Decimal_Classification:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Mimesis](/_Standards/Philosophy/Mimesis.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Mimesis|Mimesis]] 
 
-### #is_/same_as :: [Mimesis.public](/_public/Philosophy/Mimesis.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Mimesis.public|Mimesis.public]] 
 
-### #is_/same_as :: [Mimesis.internal](/_internal/Philosophy/Mimesis.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Mimesis.internal|Mimesis.internal]] 
 
-### #is_/same_as :: [Mimesis.protect](/_protect/Philosophy/Mimesis.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Mimesis.protect|Mimesis.protect]] 
 
-### #is_/same_as :: [Mimesis.private](/_private/Philosophy/Mimesis.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Mimesis.private|Mimesis.private]] 
 
-### #is_/same_as :: [Mimesis.personal](/_personal/Philosophy/Mimesis.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Mimesis.personal|Mimesis.personal]] 
 
-### #is_/same_as :: [Mimesis.secret](/_secret/Philosophy/Mimesis.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Mimesis.secret|Mimesis.secret]] 
 

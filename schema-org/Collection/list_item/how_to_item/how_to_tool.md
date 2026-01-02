@@ -40,17 +40,17 @@ A tool used (but not consumed) when performing instructions for how to achieve a
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [how_to_tool](/_Standards/schema-org/Collection/list_item/how_to_item/how_to_tool.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Collection/list_item/how_to_item/how_to_tool|how_to_tool]] 
 
-### #is_/same_as :: [how_to_tool.public](/_public/schema-org/Collection/list_item/how_to_item/how_to_tool.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Collection/list_item/how_to_item/how_to_tool.public|how_to_tool.public]] 
 
-### #is_/same_as :: [how_to_tool.internal](/_internal/schema-org/Collection/list_item/how_to_item/how_to_tool.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Collection/list_item/how_to_item/how_to_tool.internal|how_to_tool.internal]] 
 
-### #is_/same_as :: [how_to_tool.protect](/_protect/schema-org/Collection/list_item/how_to_item/how_to_tool.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Collection/list_item/how_to_item/how_to_tool.protect|how_to_tool.protect]] 
 
-### #is_/same_as :: [how_to_tool.private](/_private/schema-org/Collection/list_item/how_to_item/how_to_tool.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Collection/list_item/how_to_item/how_to_tool.private|how_to_tool.private]] 
 
-### #is_/same_as :: [how_to_tool.personal](/_personal/schema-org/Collection/list_item/how_to_item/how_to_tool.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Collection/list_item/how_to_item/how_to_tool.personal|how_to_tool.personal]] 
 
-### #is_/same_as :: [how_to_tool.secret](/_secret/schema-org/Collection/list_item/how_to_item/how_to_tool.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Collection/list_item/how_to_item/how_to_tool.secret|how_to_tool.secret]] 
 

@@ -7,17 +7,17 @@ The seven 3D crystal systems are [_triclinic_](https://en.wikipedia.org/wiki/Tr
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Crystal_System-3D](/_Standards/Science/Physics/State_of_Matter/Solid/Crystal/Crystal_System/Crystal_System-3D.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/State_of_Matter/Solid/Crystal/Crystal_System/Crystal_System-3D|Crystal_System-3D]] 
 
-### #is_/same_as :: [Crystal_System-3D.public](/_public/Science/Physics/State_of_Matter/Solid/Crystal/Crystal_System/Crystal_System-3D.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/State_of_Matter/Solid/Crystal/Crystal_System/Crystal_System-3D.public|Crystal_System-3D.public]] 
 
-### #is_/same_as :: [Crystal_System-3D.internal](/_internal/Science/Physics/State_of_Matter/Solid/Crystal/Crystal_System/Crystal_System-3D.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/State_of_Matter/Solid/Crystal/Crystal_System/Crystal_System-3D.internal|Crystal_System-3D.internal]] 
 
-### #is_/same_as :: [Crystal_System-3D.protect](/_protect/Science/Physics/State_of_Matter/Solid/Crystal/Crystal_System/Crystal_System-3D.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/State_of_Matter/Solid/Crystal/Crystal_System/Crystal_System-3D.protect|Crystal_System-3D.protect]] 
 
-### #is_/same_as :: [Crystal_System-3D.private](/_private/Science/Physics/State_of_Matter/Solid/Crystal/Crystal_System/Crystal_System-3D.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/State_of_Matter/Solid/Crystal/Crystal_System/Crystal_System-3D.private|Crystal_System-3D.private]] 
 
-### #is_/same_as :: [Crystal_System-3D.personal](/_personal/Science/Physics/State_of_Matter/Solid/Crystal/Crystal_System/Crystal_System-3D.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/State_of_Matter/Solid/Crystal/Crystal_System/Crystal_System-3D.personal|Crystal_System-3D.personal]] 
 
-### #is_/same_as :: [Crystal_System-3D.secret](/_secret/Science/Physics/State_of_Matter/Solid/Crystal/Crystal_System/Crystal_System-3D.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/State_of_Matter/Solid/Crystal/Crystal_System/Crystal_System-3D.secret|Crystal_System-3D.secret]] 
 

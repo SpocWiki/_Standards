@@ -116,17 +116,17 @@ ISNI: 0000000109435287
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Deep_Purple](/_Standards/Society/Communication/Media/Music/Musician/Music~Band/Deep_Purple.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Musician/Music~Band/Deep_Purple|Deep_Purple]] 
 
-### #is_/same_as :: [Deep_Purple.public](/_public/Society/Communication/Media/Music/Musician/Music~Band/Deep_Purple.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Musician/Music~Band/Deep_Purple.public|Deep_Purple.public]] 
 
-### #is_/same_as :: [Deep_Purple.internal](/_internal/Society/Communication/Media/Music/Musician/Music~Band/Deep_Purple.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Musician/Music~Band/Deep_Purple.internal|Deep_Purple.internal]] 
 
-### #is_/same_as :: [Deep_Purple.protect](/_protect/Society/Communication/Media/Music/Musician/Music~Band/Deep_Purple.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Musician/Music~Band/Deep_Purple.protect|Deep_Purple.protect]] 
 
-### #is_/same_as :: [Deep_Purple.private](/_private/Society/Communication/Media/Music/Musician/Music~Band/Deep_Purple.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Musician/Music~Band/Deep_Purple.private|Deep_Purple.private]] 
 
-### #is_/same_as :: [Deep_Purple.personal](/_personal/Society/Communication/Media/Music/Musician/Music~Band/Deep_Purple.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Musician/Music~Band/Deep_Purple.personal|Deep_Purple.personal]] 
 
-### #is_/same_as :: [Deep_Purple.secret](/_secret/Society/Communication/Media/Music/Musician/Music~Band/Deep_Purple.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Musician/Music~Band/Deep_Purple.secret|Deep_Purple.secret]] 
 

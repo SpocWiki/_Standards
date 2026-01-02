@@ -78,17 +78,17 @@ Genetic factors and adverse childhood experiences (Abuse or Neglect) cause this.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Borderline_Personality_Disorder](/_Standards/bio/Psychology/Psychosis/Borderline_Personality_Disorder.md) 
+### #is_/same_as :: [[/_Standards/bio/Psychology/Psychosis/Borderline_Personality_Disorder|Borderline_Personality_Disorder]] 
 
-### #is_/same_as :: [Borderline_Personality_Disorder.public](/_public/bio/Psychology/Psychosis/Borderline_Personality_Disorder.public.md) 
+### #is_/same_as :: [[/_public/bio/Psychology/Psychosis/Borderline_Personality_Disorder.public|Borderline_Personality_Disorder.public]] 
 
-### #is_/same_as :: [Borderline_Personality_Disorder.internal](/_internal/bio/Psychology/Psychosis/Borderline_Personality_Disorder.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Psychology/Psychosis/Borderline_Personality_Disorder.internal|Borderline_Personality_Disorder.internal]] 
 
-### #is_/same_as :: [Borderline_Personality_Disorder.protect](/_protect/bio/Psychology/Psychosis/Borderline_Personality_Disorder.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Psychology/Psychosis/Borderline_Personality_Disorder.protect|Borderline_Personality_Disorder.protect]] 
 
-### #is_/same_as :: [Borderline_Personality_Disorder.private](/_private/bio/Psychology/Psychosis/Borderline_Personality_Disorder.private.md) 
+### #is_/same_as :: [[/_private/bio/Psychology/Psychosis/Borderline_Personality_Disorder.private|Borderline_Personality_Disorder.private]] 
 
-### #is_/same_as :: [Borderline_Personality_Disorder.personal](/_personal/bio/Psychology/Psychosis/Borderline_Personality_Disorder.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Psychology/Psychosis/Borderline_Personality_Disorder.personal|Borderline_Personality_Disorder.personal]] 
 
-### #is_/same_as :: [Borderline_Personality_Disorder.secret](/_secret/bio/Psychology/Psychosis/Borderline_Personality_Disorder.secret.md)
+### #is_/same_as :: [[/_secret/bio/Psychology/Psychosis/Borderline_Personality_Disorder.secret|Borderline_Personality_Disorder.secret]] 
 

@@ -30,7 +30,7 @@ title: Urediniomycotina
 ## A diverse group of fungi, including rusts, yeasts, smut-like and jelly-like fungi 
 
 [Elizabeth M. Frieders, David J. McLaughlin, and Les J. Szabo]()
-![ ](Pucciniomycotina/Eo-MIN864444.jpg))
+![ ](Pucciniomycotina/Eo-MIN864444.jpg) 
 ![ ](Pucciniomycotina/CoffeeRust21.jpg)![](Pucciniomycotina/HpMLutz.jpg))
 
 Containing group:[Basidiomycota](../Basidiomycota.md) 
@@ -94,7 +94,7 @@ urediniomycetous yeasts.
 
 ## Title Illustrations
 
-![](Pucciniomycotina/Eo-MIN864444.jpg))
+![](Pucciniomycotina/Eo-MIN864444.jpg) 
 
   ------------------------
   Scientific Name ::     Eocronartium muscicola
@@ -105,7 +105,7 @@ urediniomycetous yeasts.
   Collector            David J. McLaughlin
   Copyright ::            © 2001 [Bell Museum of Natural History](http://fungi.umn.edu/)
   ------------------------
-![](Pucciniomycotina/CoffeeRust21.jpg))
+![](Pucciniomycotina/CoffeeRust21.jpg) 
 
   ------------------------------------------------------------------------------------
   Scientific Name ::     Hemileia vastatrix, Coffee Rust
@@ -118,7 +118,7 @@ urediniomycetous yeasts.
   Copyright ::            © 1995 [Elizabeth M. Frieders](http://www.uwplatt.edu/biology/staff/frieders.html) 
  
   ------------------------------------------------------------------------------------
-![](Pucciniomycotina/HpMLutz.jpg))
+![](Pucciniomycotina/HpMLutz.jpg) 
 
   -----------------------------------------------------------------------------
   Scientific Name ::     Helicobasidium purpureum on Picea abies (L.) Karst.
@@ -135,17 +135,17 @@ urediniomycetous yeasts.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Pucciniomycotina](/_Standards/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Pucciniomycotina.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Pucciniomycotina|Pucciniomycotina]] 
 
-### #is_/same_as :: [Pucciniomycotina.public](/_public/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Pucciniomycotina.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Pucciniomycotina.public|Pucciniomycotina.public]] 
 
-### #is_/same_as :: [Pucciniomycotina.internal](/_internal/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Pucciniomycotina.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Pucciniomycotina.internal|Pucciniomycotina.internal]] 
 
-### #is_/same_as :: [Pucciniomycotina.protect](/_protect/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Pucciniomycotina.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Pucciniomycotina.protect|Pucciniomycotina.protect]] 
 
-### #is_/same_as :: [Pucciniomycotina.private](/_private/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Pucciniomycotina.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Pucciniomycotina.private|Pucciniomycotina.private]] 
 
-### #is_/same_as :: [Pucciniomycotina.personal](/_personal/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Pucciniomycotina.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Pucciniomycotina.personal|Pucciniomycotina.personal]] 
 
-### #is_/same_as :: [Pucciniomycotina.secret](/_secret/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Pucciniomycotina.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Pucciniomycotina.secret|Pucciniomycotina.secret]] 
 

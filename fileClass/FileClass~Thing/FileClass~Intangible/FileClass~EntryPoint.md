@@ -93,17 +93,17 @@ UrlTemplate:: {"type":"Input","options":{}}
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~EntryPoint](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~EntryPoint.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~EntryPoint|FileClass~EntryPoint]] 
 
-### #is_/same_as :: [FileClass~EntryPoint.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~EntryPoint.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~EntryPoint.public|FileClass~EntryPoint.public]] 
 
-### #is_/same_as :: [FileClass~EntryPoint.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~EntryPoint.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~EntryPoint.internal|FileClass~EntryPoint.internal]] 
 
-### #is_/same_as :: [FileClass~EntryPoint.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~EntryPoint.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~EntryPoint.protect|FileClass~EntryPoint.protect]] 
 
-### #is_/same_as :: [FileClass~EntryPoint.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~EntryPoint.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~EntryPoint.private|FileClass~EntryPoint.private]] 
 
-### #is_/same_as :: [FileClass~EntryPoint.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~EntryPoint.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~EntryPoint.personal|FileClass~EntryPoint.personal]] 
 
-### #is_/same_as :: [FileClass~EntryPoint.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~EntryPoint.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~EntryPoint.secret|FileClass~EntryPoint.secret]] 
 

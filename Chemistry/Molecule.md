@@ -84,17 +84,17 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Molecule](/_Standards/Chemistry/Molecule.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Molecule|Molecule]] 
 
-### #is_/same_as :: [Molecule.public](/_public/Chemistry/Molecule.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Molecule.public|Molecule.public]] 
 
-### #is_/same_as :: [Molecule.internal](/_internal/Chemistry/Molecule.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Molecule.internal|Molecule.internal]] 
 
-### #is_/same_as :: [Molecule.protect](/_protect/Chemistry/Molecule.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Molecule.protect|Molecule.protect]] 
 
-### #is_/same_as :: [Molecule.private](/_private/Chemistry/Molecule.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Molecule.private|Molecule.private]] 
 
-### #is_/same_as :: [Molecule.personal](/_personal/Chemistry/Molecule.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Molecule.personal|Molecule.personal]] 
 
-### #is_/same_as :: [Molecule.secret](/_secret/Chemistry/Molecule.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Molecule.secret|Molecule.secret]] 
 

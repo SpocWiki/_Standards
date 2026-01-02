@@ -47,17 +47,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_disambiguating_description](/_Standards/schema-org/Property/Texts/has_disambiguating_description.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/Texts/has_disambiguating_description|has_disambiguating_description]] 
 
-### #is_/same_as :: [has_disambiguating_description.public](/_public/schema-org/Property/Texts/has_disambiguating_description.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/Texts/has_disambiguating_description.public|has_disambiguating_description.public]] 
 
-### #is_/same_as :: [has_disambiguating_description.internal](/_internal/schema-org/Property/Texts/has_disambiguating_description.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/Texts/has_disambiguating_description.internal|has_disambiguating_description.internal]] 
 
-### #is_/same_as :: [has_disambiguating_description.protect](/_protect/schema-org/Property/Texts/has_disambiguating_description.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/Texts/has_disambiguating_description.protect|has_disambiguating_description.protect]] 
 
-### #is_/same_as :: [has_disambiguating_description.private](/_private/schema-org/Property/Texts/has_disambiguating_description.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/Texts/has_disambiguating_description.private|has_disambiguating_description.private]] 
 
-### #is_/same_as :: [has_disambiguating_description.personal](/_personal/schema-org/Property/Texts/has_disambiguating_description.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/Texts/has_disambiguating_description.personal|has_disambiguating_description.personal]] 
 
-### #is_/same_as :: [has_disambiguating_description.secret](/_secret/schema-org/Property/Texts/has_disambiguating_description.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/Texts/has_disambiguating_description.secret|has_disambiguating_description.secret]] 
 

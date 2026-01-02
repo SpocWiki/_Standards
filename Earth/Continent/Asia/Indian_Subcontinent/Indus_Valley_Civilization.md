@@ -64,17 +64,17 @@ subreddit: IndusValley
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Indus_Valley_Civilization](/_Standards/Earth/Continent/Asia/Indian_Subcontinent/Indus_Valley_Civilization.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Indian_Subcontinent/Indus_Valley_Civilization|Indus_Valley_Civilization]] 
 
-### #is_/same_as :: [Indus_Valley_Civilization.public](/_public/Earth/Continent/Asia/Indian_Subcontinent/Indus_Valley_Civilization.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Indian_Subcontinent/Indus_Valley_Civilization.public|Indus_Valley_Civilization.public]] 
 
-### #is_/same_as :: [Indus_Valley_Civilization.internal](/_internal/Earth/Continent/Asia/Indian_Subcontinent/Indus_Valley_Civilization.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Indian_Subcontinent/Indus_Valley_Civilization.internal|Indus_Valley_Civilization.internal]] 
 
-### #is_/same_as :: [Indus_Valley_Civilization.protect](/_protect/Earth/Continent/Asia/Indian_Subcontinent/Indus_Valley_Civilization.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Indian_Subcontinent/Indus_Valley_Civilization.protect|Indus_Valley_Civilization.protect]] 
 
-### #is_/same_as :: [Indus_Valley_Civilization.private](/_private/Earth/Continent/Asia/Indian_Subcontinent/Indus_Valley_Civilization.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Indian_Subcontinent/Indus_Valley_Civilization.private|Indus_Valley_Civilization.private]] 
 
-### #is_/same_as :: [Indus_Valley_Civilization.personal](/_personal/Earth/Continent/Asia/Indian_Subcontinent/Indus_Valley_Civilization.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Indian_Subcontinent/Indus_Valley_Civilization.personal|Indus_Valley_Civilization.personal]] 
 
-### #is_/same_as :: [Indus_Valley_Civilization.secret](/_secret/Earth/Continent/Asia/Indian_Subcontinent/Indus_Valley_Civilization.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Indian_Subcontinent/Indus_Valley_Civilization.secret|Indus_Valley_Civilization.secret]] 
 

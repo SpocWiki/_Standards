@@ -191,17 +191,17 @@ search_formatter_URL: https://www.gnu.org/cgi-bin/estseek.cgi?phrase=$1
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [GNU_Project](/_Standards/Technology/IT/Software/OS(Operating-System)/OS~Linux/GNU_Project.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Software/OS(Operating-System)/OS~Linux/GNU_Project|GNU_Project]] 
 
-### #is_/same_as :: [GNU_Project.public](/_public/Technology/IT/Software/OS(Operating-System)/OS~Linux/GNU_Project.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Software/OS(Operating-System)/OS~Linux/GNU_Project.public|GNU_Project.public]] 
 
-### #is_/same_as :: [GNU_Project.internal](/_internal/Technology/IT/Software/OS(Operating-System)/OS~Linux/GNU_Project.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Software/OS(Operating-System)/OS~Linux/GNU_Project.internal|GNU_Project.internal]] 
 
-### #is_/same_as :: [GNU_Project.protect](/_protect/Technology/IT/Software/OS(Operating-System)/OS~Linux/GNU_Project.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Software/OS(Operating-System)/OS~Linux/GNU_Project.protect|GNU_Project.protect]] 
 
-### #is_/same_as :: [GNU_Project.private](/_private/Technology/IT/Software/OS(Operating-System)/OS~Linux/GNU_Project.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Software/OS(Operating-System)/OS~Linux/GNU_Project.private|GNU_Project.private]] 
 
-### #is_/same_as :: [GNU_Project.personal](/_personal/Technology/IT/Software/OS(Operating-System)/OS~Linux/GNU_Project.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Software/OS(Operating-System)/OS~Linux/GNU_Project.personal|GNU_Project.personal]] 
 
-### #is_/same_as :: [GNU_Project.secret](/_secret/Technology/IT/Software/OS(Operating-System)/OS~Linux/GNU_Project.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Software/OS(Operating-System)/OS~Linux/GNU_Project.secret|GNU_Project.secret]] 
 

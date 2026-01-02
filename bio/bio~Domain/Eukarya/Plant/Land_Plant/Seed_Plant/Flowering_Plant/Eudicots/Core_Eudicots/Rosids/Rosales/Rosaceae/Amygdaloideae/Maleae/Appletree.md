@@ -200,17 +200,17 @@ NBN_System_Key: NHMSYS0000460566
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Appletree](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Rosales/Rosaceae/Amygdaloideae/Maleae/Appletree.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Rosales/Rosaceae/Amygdaloideae/Maleae/Appletree|Appletree]] 
 
-### #is_/same_as :: [Appletree.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Rosales/Rosaceae/Amygdaloideae/Maleae/Appletree.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Rosales/Rosaceae/Amygdaloideae/Maleae/Appletree.public|Appletree.public]] 
 
-### #is_/same_as :: [Appletree.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Rosales/Rosaceae/Amygdaloideae/Maleae/Appletree.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Rosales/Rosaceae/Amygdaloideae/Maleae/Appletree.internal|Appletree.internal]] 
 
-### #is_/same_as :: [Appletree.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Rosales/Rosaceae/Amygdaloideae/Maleae/Appletree.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Rosales/Rosaceae/Amygdaloideae/Maleae/Appletree.protect|Appletree.protect]] 
 
-### #is_/same_as :: [Appletree.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Rosales/Rosaceae/Amygdaloideae/Maleae/Appletree.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Rosales/Rosaceae/Amygdaloideae/Maleae/Appletree.private|Appletree.private]] 
 
-### #is_/same_as :: [Appletree.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Rosales/Rosaceae/Amygdaloideae/Maleae/Appletree.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Rosales/Rosaceae/Amygdaloideae/Maleae/Appletree.personal|Appletree.personal]] 
 
-### #is_/same_as :: [Appletree.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Rosales/Rosaceae/Amygdaloideae/Maleae/Appletree.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Rosales/Rosaceae/Amygdaloideae/Maleae/Appletree.secret|Appletree.secret]] 
 

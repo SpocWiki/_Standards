@@ -39,17 +39,17 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Toni%20Frissell%20in%2
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Curiosity](/_Standards/bio/Psychology/Affect/Emotion/Curiosity.md) 
+### #is_/same_as :: [[/_Standards/bio/Psychology/Affect/Emotion/Curiosity|Curiosity]] 
 
-### #is_/same_as :: [Curiosity.public](/_public/bio/Psychology/Affect/Emotion/Curiosity.public.md) 
+### #is_/same_as :: [[/_public/bio/Psychology/Affect/Emotion/Curiosity.public|Curiosity.public]] 
 
-### #is_/same_as :: [Curiosity.internal](/_internal/bio/Psychology/Affect/Emotion/Curiosity.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Psychology/Affect/Emotion/Curiosity.internal|Curiosity.internal]] 
 
-### #is_/same_as :: [Curiosity.protect](/_protect/bio/Psychology/Affect/Emotion/Curiosity.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Psychology/Affect/Emotion/Curiosity.protect|Curiosity.protect]] 
 
-### #is_/same_as :: [Curiosity.private](/_private/bio/Psychology/Affect/Emotion/Curiosity.private.md) 
+### #is_/same_as :: [[/_private/bio/Psychology/Affect/Emotion/Curiosity.private|Curiosity.private]] 
 
-### #is_/same_as :: [Curiosity.personal](/_personal/bio/Psychology/Affect/Emotion/Curiosity.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Psychology/Affect/Emotion/Curiosity.personal|Curiosity.personal]] 
 
-### #is_/same_as :: [Curiosity.secret](/_secret/bio/Psychology/Affect/Emotion/Curiosity.secret.md)
+### #is_/same_as :: [[/_secret/bio/Psychology/Affect/Emotion/Curiosity.secret|Curiosity.secret]] 
 

@@ -62,17 +62,17 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Pirate%20street%20vend
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Copyright_Infringement](/_Standards/Society/Law/Civil_Law/Intellectual_Property/Copyright/Copyright_Infringement.md) 
+### #is_/same_as :: [[/_Standards/Society/Law/Civil_Law/Intellectual_Property/Copyright/Copyright_Infringement|Copyright_Infringement]] 
 
-### #is_/same_as :: [Copyright_Infringement.public](/_public/Society/Law/Civil_Law/Intellectual_Property/Copyright/Copyright_Infringement.public.md) 
+### #is_/same_as :: [[/_public/Society/Law/Civil_Law/Intellectual_Property/Copyright/Copyright_Infringement.public|Copyright_Infringement.public]] 
 
-### #is_/same_as :: [Copyright_Infringement.internal](/_internal/Society/Law/Civil_Law/Intellectual_Property/Copyright/Copyright_Infringement.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Law/Civil_Law/Intellectual_Property/Copyright/Copyright_Infringement.internal|Copyright_Infringement.internal]] 
 
-### #is_/same_as :: [Copyright_Infringement.protect](/_protect/Society/Law/Civil_Law/Intellectual_Property/Copyright/Copyright_Infringement.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Law/Civil_Law/Intellectual_Property/Copyright/Copyright_Infringement.protect|Copyright_Infringement.protect]] 
 
-### #is_/same_as :: [Copyright_Infringement.private](/_private/Society/Law/Civil_Law/Intellectual_Property/Copyright/Copyright_Infringement.private.md) 
+### #is_/same_as :: [[/_private/Society/Law/Civil_Law/Intellectual_Property/Copyright/Copyright_Infringement.private|Copyright_Infringement.private]] 
 
-### #is_/same_as :: [Copyright_Infringement.personal](/_personal/Society/Law/Civil_Law/Intellectual_Property/Copyright/Copyright_Infringement.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Law/Civil_Law/Intellectual_Property/Copyright/Copyright_Infringement.personal|Copyright_Infringement.personal]] 
 
-### #is_/same_as :: [Copyright_Infringement.secret](/_secret/Society/Law/Civil_Law/Intellectual_Property/Copyright/Copyright_Infringement.secret.md)
+### #is_/same_as :: [[/_secret/Society/Law/Civil_Law/Intellectual_Property/Copyright/Copyright_Infringement.secret|Copyright_Infringement.secret]] 
 

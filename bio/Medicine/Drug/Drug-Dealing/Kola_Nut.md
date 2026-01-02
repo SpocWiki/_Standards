@@ -16,17 +16,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Kola_Nut](/_Standards/bio/Medicine/Drug/Drug-Dealing/Kola_Nut.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Drug/Drug-Dealing/Kola_Nut|Kola_Nut]] 
 
-### #is_/same_as :: [Kola_Nut.public](/_public/bio/Medicine/Drug/Drug-Dealing/Kola_Nut.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Drug/Drug-Dealing/Kola_Nut.public|Kola_Nut.public]] 
 
-### #is_/same_as :: [Kola_Nut.internal](/_internal/bio/Medicine/Drug/Drug-Dealing/Kola_Nut.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Drug/Drug-Dealing/Kola_Nut.internal|Kola_Nut.internal]] 
 
-### #is_/same_as :: [Kola_Nut.protect](/_protect/bio/Medicine/Drug/Drug-Dealing/Kola_Nut.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Drug/Drug-Dealing/Kola_Nut.protect|Kola_Nut.protect]] 
 
-### #is_/same_as :: [Kola_Nut.private](/_private/bio/Medicine/Drug/Drug-Dealing/Kola_Nut.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Drug/Drug-Dealing/Kola_Nut.private|Kola_Nut.private]] 
 
-### #is_/same_as :: [Kola_Nut.personal](/_personal/bio/Medicine/Drug/Drug-Dealing/Kola_Nut.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Drug/Drug-Dealing/Kola_Nut.personal|Kola_Nut.personal]] 
 
-### #is_/same_as :: [Kola_Nut.secret](/_secret/bio/Medicine/Drug/Drug-Dealing/Kola_Nut.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Drug/Drug-Dealing/Kola_Nut.secret|Kola_Nut.secret]] 
 

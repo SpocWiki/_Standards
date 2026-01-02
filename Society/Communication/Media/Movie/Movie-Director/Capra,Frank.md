@@ -106,17 +106,17 @@ ISNI: 0000000122767999
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Capra,Frank](/_Standards/Society/Communication/Media/Movie/Movie-Director/Capra,Frank.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Director/Capra,Frank|Capra,Frank]] 
 
-### #is_/same_as :: [Capra,Frank.public](/_public/Society/Communication/Media/Movie/Movie-Director/Capra,Frank.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Director/Capra,Frank.public|Capra,Frank.public]] 
 
-### #is_/same_as :: [Capra,Frank.internal](/_internal/Society/Communication/Media/Movie/Movie-Director/Capra,Frank.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Director/Capra,Frank.internal|Capra,Frank.internal]] 
 
-### #is_/same_as :: [Capra,Frank.protect](/_protect/Society/Communication/Media/Movie/Movie-Director/Capra,Frank.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Director/Capra,Frank.protect|Capra,Frank.protect]] 
 
-### #is_/same_as :: [Capra,Frank.private](/_private/Society/Communication/Media/Movie/Movie-Director/Capra,Frank.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Director/Capra,Frank.private|Capra,Frank.private]] 
 
-### #is_/same_as :: [Capra,Frank.personal](/_personal/Society/Communication/Media/Movie/Movie-Director/Capra,Frank.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Director/Capra,Frank.personal|Capra,Frank.personal]] 
 
-### #is_/same_as :: [Capra,Frank.secret](/_secret/Society/Communication/Media/Movie/Movie-Director/Capra,Frank.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Director/Capra,Frank.secret|Capra,Frank.secret]] 
 

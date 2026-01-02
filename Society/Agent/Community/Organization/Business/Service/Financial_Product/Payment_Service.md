@@ -41,17 +41,17 @@ A Service to transfer funds from a person or organization to a beneficiary perso
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Payment_Service](/_Standards/Society/Agent/Community/Organization/Business/Service/Financial_Product/Payment_Service.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Business/Service/Financial_Product/Payment_Service|Payment_Service]] 
 
-### #is_/same_as :: [Payment_Service.public](/_public/Society/Agent/Community/Organization/Business/Service/Financial_Product/Payment_Service.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Business/Service/Financial_Product/Payment_Service.public|Payment_Service.public]] 
 
-### #is_/same_as :: [Payment_Service.internal](/_internal/Society/Agent/Community/Organization/Business/Service/Financial_Product/Payment_Service.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Business/Service/Financial_Product/Payment_Service.internal|Payment_Service.internal]] 
 
-### #is_/same_as :: [Payment_Service.protect](/_protect/Society/Agent/Community/Organization/Business/Service/Financial_Product/Payment_Service.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Business/Service/Financial_Product/Payment_Service.protect|Payment_Service.protect]] 
 
-### #is_/same_as :: [Payment_Service.private](/_private/Society/Agent/Community/Organization/Business/Service/Financial_Product/Payment_Service.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Business/Service/Financial_Product/Payment_Service.private|Payment_Service.private]] 
 
-### #is_/same_as :: [Payment_Service.personal](/_personal/Society/Agent/Community/Organization/Business/Service/Financial_Product/Payment_Service.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Business/Service/Financial_Product/Payment_Service.personal|Payment_Service.personal]] 
 
-### #is_/same_as :: [Payment_Service.secret](/_secret/Society/Agent/Community/Organization/Business/Service/Financial_Product/Payment_Service.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Business/Service/Financial_Product/Payment_Service.secret|Payment_Service.secret]] 
 

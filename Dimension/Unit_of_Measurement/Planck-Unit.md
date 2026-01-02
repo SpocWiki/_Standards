@@ -45,17 +45,17 @@ such as [[Stoney-Unit]] which set the elementary Charge to 1.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Planck-Unit](/_Standards/Dimension/Unit_of_Measurement/Planck-Unit.md) 
+### #is_/same_as :: [[/_Standards/Dimension/Unit_of_Measurement/Planck-Unit|Planck-Unit]] 
 
-### #is_/same_as :: [Planck-Unit.public](/_public/Dimension/Unit_of_Measurement/Planck-Unit.public.md) 
+### #is_/same_as :: [[/_public/Dimension/Unit_of_Measurement/Planck-Unit.public|Planck-Unit.public]] 
 
-### #is_/same_as :: [Planck-Unit.internal](/_internal/Dimension/Unit_of_Measurement/Planck-Unit.internal.md) 
+### #is_/same_as :: [[/_internal/Dimension/Unit_of_Measurement/Planck-Unit.internal|Planck-Unit.internal]] 
 
-### #is_/same_as :: [Planck-Unit.protect](/_protect/Dimension/Unit_of_Measurement/Planck-Unit.protect.md) 
+### #is_/same_as :: [[/_protect/Dimension/Unit_of_Measurement/Planck-Unit.protect|Planck-Unit.protect]] 
 
-### #is_/same_as :: [Planck-Unit.private](/_private/Dimension/Unit_of_Measurement/Planck-Unit.private.md) 
+### #is_/same_as :: [[/_private/Dimension/Unit_of_Measurement/Planck-Unit.private|Planck-Unit.private]] 
 
-### #is_/same_as :: [Planck-Unit.personal](/_personal/Dimension/Unit_of_Measurement/Planck-Unit.personal.md) 
+### #is_/same_as :: [[/_personal/Dimension/Unit_of_Measurement/Planck-Unit.personal|Planck-Unit.personal]] 
 
-### #is_/same_as :: [Planck-Unit.secret](/_secret/Dimension/Unit_of_Measurement/Planck-Unit.secret.md)
+### #is_/same_as :: [[/_secret/Dimension/Unit_of_Measurement/Planck-Unit.secret|Planck-Unit.secret]] 
 

@@ -24,17 +24,17 @@ so each Object can be considered a class of its own and Class boundaries can be 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Inheritance,prototypal](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/Inheritance,prototypal.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/Inheritance,prototypal|Inheritance,prototypal]] 
 
-### #is_/same_as :: [Inheritance,prototypal.public](/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/Inheritance,prototypal.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/Inheritance,prototypal.public|Inheritance,prototypal.public]] 
 
-### #is_/same_as :: [Inheritance,prototypal.internal](/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/Inheritance,prototypal.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/Inheritance,prototypal.internal|Inheritance,prototypal.internal]] 
 
-### #is_/same_as :: [Inheritance,prototypal.protect](/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/Inheritance,prototypal.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/Inheritance,prototypal.protect|Inheritance,prototypal.protect]] 
 
-### #is_/same_as :: [Inheritance,prototypal.private](/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/Inheritance,prototypal.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/Inheritance,prototypal.private|Inheritance,prototypal.private]] 
 
-### #is_/same_as :: [Inheritance,prototypal.personal](/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/Inheritance,prototypal.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/Inheritance,prototypal.personal|Inheritance,prototypal.personal]] 
 
-### #is_/same_as :: [Inheritance,prototypal.secret](/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/Inheritance,prototypal.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/Inheritance,prototypal.secret|Inheritance,prototypal.secret]] 
 

@@ -41,17 +41,17 @@ A tire shop.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Tire_Shop](/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Store/Tire_Shop.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Store/Tire_Shop|Tire_Shop]] 
 
-### #is_/same_as :: [Tire_Shop.public](/_public/Society/Agent/Community/Organization/Business/Local_Business/Store/Tire_Shop.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Business/Local_Business/Store/Tire_Shop.public|Tire_Shop.public]] 
 
-### #is_/same_as :: [Tire_Shop.internal](/_internal/Society/Agent/Community/Organization/Business/Local_Business/Store/Tire_Shop.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Business/Local_Business/Store/Tire_Shop.internal|Tire_Shop.internal]] 
 
-### #is_/same_as :: [Tire_Shop.protect](/_protect/Society/Agent/Community/Organization/Business/Local_Business/Store/Tire_Shop.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Business/Local_Business/Store/Tire_Shop.protect|Tire_Shop.protect]] 
 
-### #is_/same_as :: [Tire_Shop.private](/_private/Society/Agent/Community/Organization/Business/Local_Business/Store/Tire_Shop.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Business/Local_Business/Store/Tire_Shop.private|Tire_Shop.private]] 
 
-### #is_/same_as :: [Tire_Shop.personal](/_personal/Society/Agent/Community/Organization/Business/Local_Business/Store/Tire_Shop.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Business/Local_Business/Store/Tire_Shop.personal|Tire_Shop.personal]] 
 
-### #is_/same_as :: [Tire_Shop.secret](/_secret/Society/Agent/Community/Organization/Business/Local_Business/Store/Tire_Shop.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Business/Local_Business/Store/Tire_Shop.secret|Tire_Shop.secret]] 
 

@@ -53,17 +53,17 @@ PhilPapers_topic: chemical-bonding
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Chemical_Bond](/_Standards/Chemistry/Substance/Chemical_Substance/Chemical_Bond.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Substance/Chemical_Substance/Chemical_Bond|Chemical_Bond]] 
 
-### #is_/same_as :: [Chemical_Bond.public](/_public/Chemistry/Substance/Chemical_Substance/Chemical_Bond.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Substance/Chemical_Substance/Chemical_Bond.public|Chemical_Bond.public]] 
 
-### #is_/same_as :: [Chemical_Bond.internal](/_internal/Chemistry/Substance/Chemical_Substance/Chemical_Bond.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Substance/Chemical_Substance/Chemical_Bond.internal|Chemical_Bond.internal]] 
 
-### #is_/same_as :: [Chemical_Bond.protect](/_protect/Chemistry/Substance/Chemical_Substance/Chemical_Bond.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Substance/Chemical_Substance/Chemical_Bond.protect|Chemical_Bond.protect]] 
 
-### #is_/same_as :: [Chemical_Bond.private](/_private/Chemistry/Substance/Chemical_Substance/Chemical_Bond.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Substance/Chemical_Substance/Chemical_Bond.private|Chemical_Bond.private]] 
 
-### #is_/same_as :: [Chemical_Bond.personal](/_personal/Chemistry/Substance/Chemical_Substance/Chemical_Bond.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Substance/Chemical_Substance/Chemical_Bond.personal|Chemical_Bond.personal]] 
 
-### #is_/same_as :: [Chemical_Bond.secret](/_secret/Chemistry/Substance/Chemical_Substance/Chemical_Bond.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Substance/Chemical_Substance/Chemical_Bond.secret|Chemical_Bond.secret]] 
 

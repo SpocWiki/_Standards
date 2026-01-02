@@ -222,17 +222,17 @@ writing_language: '[[_Standards/WikiData/WD~Russian,7737]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Dostoyevsky,Fyodor](/_Standards/Society/Communication/Media/Writing/Book/Writer/Russian_Writer/Dostoyevsky,Fyodor.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Writer/Russian_Writer/Dostoyevsky,Fyodor|Dostoyevsky,Fyodor]] 
 
-### #is_/same_as :: [Dostoyevsky,Fyodor.public](/_public/Society/Communication/Media/Writing/Book/Writer/Russian_Writer/Dostoyevsky,Fyodor.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Writer/Russian_Writer/Dostoyevsky,Fyodor.public|Dostoyevsky,Fyodor.public]] 
 
-### #is_/same_as :: [Dostoyevsky,Fyodor.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/Russian_Writer/Dostoyevsky,Fyodor.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Writer/Russian_Writer/Dostoyevsky,Fyodor.internal|Dostoyevsky,Fyodor.internal]] 
 
-### #is_/same_as :: [Dostoyevsky,Fyodor.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/Russian_Writer/Dostoyevsky,Fyodor.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Writer/Russian_Writer/Dostoyevsky,Fyodor.protect|Dostoyevsky,Fyodor.protect]] 
 
-### #is_/same_as :: [Dostoyevsky,Fyodor.private](/_private/Society/Communication/Media/Writing/Book/Writer/Russian_Writer/Dostoyevsky,Fyodor.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Writer/Russian_Writer/Dostoyevsky,Fyodor.private|Dostoyevsky,Fyodor.private]] 
 
-### #is_/same_as :: [Dostoyevsky,Fyodor.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/Russian_Writer/Dostoyevsky,Fyodor.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Writer/Russian_Writer/Dostoyevsky,Fyodor.personal|Dostoyevsky,Fyodor.personal]] 
 
-### #is_/same_as :: [Dostoyevsky,Fyodor.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/Russian_Writer/Dostoyevsky,Fyodor.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Writer/Russian_Writer/Dostoyevsky,Fyodor.secret|Dostoyevsky,Fyodor.secret]] 
 

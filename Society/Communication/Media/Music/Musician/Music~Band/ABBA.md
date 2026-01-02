@@ -289,17 +289,17 @@ X_Twitter_username:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [ABBA](/_Standards/Society/Communication/Media/Music/Musician/Music~Band/ABBA.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Musician/Music~Band/ABBA|ABBA]] 
 
-### #is_/same_as :: [ABBA.public](/_public/Society/Communication/Media/Music/Musician/Music~Band/ABBA.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Musician/Music~Band/ABBA.public|ABBA.public]] 
 
-### #is_/same_as :: [ABBA.internal](/_internal/Society/Communication/Media/Music/Musician/Music~Band/ABBA.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Musician/Music~Band/ABBA.internal|ABBA.internal]] 
 
-### #is_/same_as :: [ABBA.protect](/_protect/Society/Communication/Media/Music/Musician/Music~Band/ABBA.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Musician/Music~Band/ABBA.protect|ABBA.protect]] 
 
-### #is_/same_as :: [ABBA.private](/_private/Society/Communication/Media/Music/Musician/Music~Band/ABBA.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Musician/Music~Band/ABBA.private|ABBA.private]] 
 
-### #is_/same_as :: [ABBA.personal](/_personal/Society/Communication/Media/Music/Musician/Music~Band/ABBA.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Musician/Music~Band/ABBA.personal|ABBA.personal]] 
 
-### #is_/same_as :: [ABBA.secret](/_secret/Society/Communication/Media/Music/Musician/Music~Band/ABBA.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Musician/Music~Band/ABBA.secret|ABBA.secret]] 
 

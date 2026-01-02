@@ -42,17 +42,17 @@ StudioAlbum.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Studio_Album](/_Standards/schema-org/Enumeration/Music_Album_Production_Type/Studio_Album.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Music_Album_Production_Type/Studio_Album|Studio_Album]] 
 
-### #is_/same_as :: [Studio_Album.public](/_public/schema-org/Enumeration/Music_Album_Production_Type/Studio_Album.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Music_Album_Production_Type/Studio_Album.public|Studio_Album.public]] 
 
-### #is_/same_as :: [Studio_Album.internal](/_internal/schema-org/Enumeration/Music_Album_Production_Type/Studio_Album.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Music_Album_Production_Type/Studio_Album.internal|Studio_Album.internal]] 
 
-### #is_/same_as :: [Studio_Album.protect](/_protect/schema-org/Enumeration/Music_Album_Production_Type/Studio_Album.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Music_Album_Production_Type/Studio_Album.protect|Studio_Album.protect]] 
 
-### #is_/same_as :: [Studio_Album.private](/_private/schema-org/Enumeration/Music_Album_Production_Type/Studio_Album.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Music_Album_Production_Type/Studio_Album.private|Studio_Album.private]] 
 
-### #is_/same_as :: [Studio_Album.personal](/_personal/schema-org/Enumeration/Music_Album_Production_Type/Studio_Album.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Music_Album_Production_Type/Studio_Album.personal|Studio_Album.personal]] 
 
-### #is_/same_as :: [Studio_Album.secret](/_secret/schema-org/Enumeration/Music_Album_Production_Type/Studio_Album.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Music_Album_Production_Type/Studio_Album.secret|Studio_Album.secret]] 
 

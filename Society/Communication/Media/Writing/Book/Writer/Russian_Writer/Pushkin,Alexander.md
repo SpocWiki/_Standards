@@ -217,17 +217,17 @@ writing_language:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Pushkin,Alexander](/_Standards/Society/Communication/Media/Writing/Book/Writer/Russian_Writer/Pushkin,Alexander.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Writer/Russian_Writer/Pushkin,Alexander|Pushkin,Alexander]] 
 
-### #is_/same_as :: [Pushkin,Alexander.public](/_public/Society/Communication/Media/Writing/Book/Writer/Russian_Writer/Pushkin,Alexander.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Writer/Russian_Writer/Pushkin,Alexander.public|Pushkin,Alexander.public]] 
 
-### #is_/same_as :: [Pushkin,Alexander.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/Russian_Writer/Pushkin,Alexander.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Writer/Russian_Writer/Pushkin,Alexander.internal|Pushkin,Alexander.internal]] 
 
-### #is_/same_as :: [Pushkin,Alexander.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/Russian_Writer/Pushkin,Alexander.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Writer/Russian_Writer/Pushkin,Alexander.protect|Pushkin,Alexander.protect]] 
 
-### #is_/same_as :: [Pushkin,Alexander.private](/_private/Society/Communication/Media/Writing/Book/Writer/Russian_Writer/Pushkin,Alexander.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Writer/Russian_Writer/Pushkin,Alexander.private|Pushkin,Alexander.private]] 
 
-### #is_/same_as :: [Pushkin,Alexander.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/Russian_Writer/Pushkin,Alexander.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Writer/Russian_Writer/Pushkin,Alexander.personal|Pushkin,Alexander.personal]] 
 
-### #is_/same_as :: [Pushkin,Alexander.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/Russian_Writer/Pushkin,Alexander.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Writer/Russian_Writer/Pushkin,Alexander.secret|Pushkin,Alexander.secret]] 
 

@@ -160,17 +160,17 @@ P8189: 987007546150905171
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Singer](/_Standards/Society/Communication/Media/Music/Musician/Singer.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Musician/Singer|Singer]] 
 
-### #is_/same_as :: [Singer.public](/_public/Society/Communication/Media/Music/Musician/Singer.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Musician/Singer.public|Singer.public]] 
 
-### #is_/same_as :: [Singer.internal](/_internal/Society/Communication/Media/Music/Musician/Singer.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Musician/Singer.internal|Singer.internal]] 
 
-### #is_/same_as :: [Singer.protect](/_protect/Society/Communication/Media/Music/Musician/Singer.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Musician/Singer.protect|Singer.protect]] 
 
-### #is_/same_as :: [Singer.private](/_private/Society/Communication/Media/Music/Musician/Singer.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Musician/Singer.private|Singer.private]] 
 
-### #is_/same_as :: [Singer.personal](/_personal/Society/Communication/Media/Music/Musician/Singer.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Musician/Singer.personal|Singer.personal]] 
 
-### #is_/same_as :: [Singer.secret](/_secret/Society/Communication/Media/Music/Musician/Singer.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Musician/Singer.secret|Singer.secret]] 
 

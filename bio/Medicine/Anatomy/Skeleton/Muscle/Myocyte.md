@@ -38,17 +38,17 @@ native_label: myocytus
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Myocyte](/_Standards/bio/Medicine/Anatomy/Skeleton/Muscle/Myocyte.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Anatomy/Skeleton/Muscle/Myocyte|Myocyte]] 
 
-### #is_/same_as :: [Myocyte.public](/_public/bio/Medicine/Anatomy/Skeleton/Muscle/Myocyte.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Anatomy/Skeleton/Muscle/Myocyte.public|Myocyte.public]] 
 
-### #is_/same_as :: [Myocyte.internal](/_internal/bio/Medicine/Anatomy/Skeleton/Muscle/Myocyte.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Anatomy/Skeleton/Muscle/Myocyte.internal|Myocyte.internal]] 
 
-### #is_/same_as :: [Myocyte.protect](/_protect/bio/Medicine/Anatomy/Skeleton/Muscle/Myocyte.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Anatomy/Skeleton/Muscle/Myocyte.protect|Myocyte.protect]] 
 
-### #is_/same_as :: [Myocyte.private](/_private/bio/Medicine/Anatomy/Skeleton/Muscle/Myocyte.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Anatomy/Skeleton/Muscle/Myocyte.private|Myocyte.private]] 
 
-### #is_/same_as :: [Myocyte.personal](/_personal/bio/Medicine/Anatomy/Skeleton/Muscle/Myocyte.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Anatomy/Skeleton/Muscle/Myocyte.personal|Myocyte.personal]] 
 
-### #is_/same_as :: [Myocyte.secret](/_secret/bio/Medicine/Anatomy/Skeleton/Muscle/Myocyte.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Anatomy/Skeleton/Muscle/Myocyte.secret|Myocyte.secret]] 
 

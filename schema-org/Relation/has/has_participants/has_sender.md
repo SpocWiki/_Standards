@@ -41,17 +41,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_sender](has_sender.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_participants/has_sender|has_sender]] 
 
-### #is_/same_as :: [has_sender.public](/_public/schema-org/Relation/has/has_sender.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_participants/has_sender.public|has_sender.public]] 
 
-### #is_/same_as :: [has_sender.internal](/_internal/schema-org/Relation/has/has_sender.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_participants/has_sender.internal|has_sender.internal]] 
 
-### #is_/same_as :: [has_sender.protect](/_protect/schema-org/Relation/has/has_sender.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_participants/has_sender.protect|has_sender.protect]] 
 
-### #is_/same_as :: [has_sender.private](/_private/schema-org/Relation/has/has_sender.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_participants/has_sender.private|has_sender.private]] 
 
-### #is_/same_as :: [has_sender.personal](/_personal/schema-org/Relation/has/has_sender.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_participants/has_sender.personal|has_sender.personal]] 
 
-### #is_/same_as :: [has_sender.secret](/_secret/schema-org/Relation/has/has_sender.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_participants/has_sender.secret|has_sender.secret]] 
 

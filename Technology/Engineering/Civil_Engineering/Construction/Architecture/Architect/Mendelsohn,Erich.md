@@ -88,17 +88,17 @@ name_in_native_language: Erich Mendelsohn
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Mendelsohn,Erich](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Mendelsohn,Erich.md) 
+### #is_/same_as :: [[/_Standards/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Mendelsohn,Erich|Mendelsohn,Erich]] 
 
-### #is_/same_as :: [Mendelsohn,Erich.public](/_public/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Mendelsohn,Erich.public.md) 
+### #is_/same_as :: [[/_public/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Mendelsohn,Erich.public|Mendelsohn,Erich.public]] 
 
-### #is_/same_as :: [Mendelsohn,Erich.internal](/_internal/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Mendelsohn,Erich.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Mendelsohn,Erich.internal|Mendelsohn,Erich.internal]] 
 
-### #is_/same_as :: [Mendelsohn,Erich.protect](/_protect/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Mendelsohn,Erich.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Mendelsohn,Erich.protect|Mendelsohn,Erich.protect]] 
 
-### #is_/same_as :: [Mendelsohn,Erich.private](/_private/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Mendelsohn,Erich.private.md) 
+### #is_/same_as :: [[/_private/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Mendelsohn,Erich.private|Mendelsohn,Erich.private]] 
 
-### #is_/same_as :: [Mendelsohn,Erich.personal](/_personal/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Mendelsohn,Erich.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Mendelsohn,Erich.personal|Mendelsohn,Erich.personal]] 
 
-### #is_/same_as :: [Mendelsohn,Erich.secret](/_secret/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Mendelsohn,Erich.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Mendelsohn,Erich.secret|Mendelsohn,Erich.secret]] 
 

@@ -57,17 +57,17 @@ PhilPapers_topic: philosophy-of-mind
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Philosophy_of_Mind](/_Standards/bio/Psychology/Mind/Philosophy_of_Mind.md) 
+### #is_/same_as :: [[/_Standards/bio/Psychology/Mind/Philosophy_of_Mind|Philosophy_of_Mind]] 
 
-### #is_/same_as :: [Philosophy_of_Mind.public](/_public/bio/Psychology/Mind/Philosophy_of_Mind.public.md) 
+### #is_/same_as :: [[/_public/bio/Psychology/Mind/Philosophy_of_Mind.public|Philosophy_of_Mind.public]] 
 
-### #is_/same_as :: [Philosophy_of_Mind.internal](/_internal/bio/Psychology/Mind/Philosophy_of_Mind.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Psychology/Mind/Philosophy_of_Mind.internal|Philosophy_of_Mind.internal]] 
 
-### #is_/same_as :: [Philosophy_of_Mind.protect](/_protect/bio/Psychology/Mind/Philosophy_of_Mind.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Psychology/Mind/Philosophy_of_Mind.protect|Philosophy_of_Mind.protect]] 
 
-### #is_/same_as :: [Philosophy_of_Mind.private](/_private/bio/Psychology/Mind/Philosophy_of_Mind.private.md) 
+### #is_/same_as :: [[/_private/bio/Psychology/Mind/Philosophy_of_Mind.private|Philosophy_of_Mind.private]] 
 
-### #is_/same_as :: [Philosophy_of_Mind.personal](/_personal/bio/Psychology/Mind/Philosophy_of_Mind.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Psychology/Mind/Philosophy_of_Mind.personal|Philosophy_of_Mind.personal]] 
 
-### #is_/same_as :: [Philosophy_of_Mind.secret](/_secret/bio/Psychology/Mind/Philosophy_of_Mind.secret.md)
+### #is_/same_as :: [[/_secret/bio/Psychology/Mind/Philosophy_of_Mind.secret|Philosophy_of_Mind.secret]] 
 

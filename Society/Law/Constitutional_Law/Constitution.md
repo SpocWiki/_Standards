@@ -63,17 +63,17 @@ Wikidata_property: main regulatory text
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Constitution](/_Standards/Society/Law/Constitutional_Law/Constitution.md) 
+### #is_/same_as :: [[/_Standards/Society/Law/Constitutional_Law/Constitution|Constitution]] 
 
-### #is_/same_as :: [Constitution.public](/_public/Society/Law/Constitutional_Law/Constitution.public.md) 
+### #is_/same_as :: [[/_public/Society/Law/Constitutional_Law/Constitution.public|Constitution.public]] 
 
-### #is_/same_as :: [Constitution.internal](/_internal/Society/Law/Constitutional_Law/Constitution.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Law/Constitutional_Law/Constitution.internal|Constitution.internal]] 
 
-### #is_/same_as :: [Constitution.protect](/_protect/Society/Law/Constitutional_Law/Constitution.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Law/Constitutional_Law/Constitution.protect|Constitution.protect]] 
 
-### #is_/same_as :: [Constitution.private](/_private/Society/Law/Constitutional_Law/Constitution.private.md) 
+### #is_/same_as :: [[/_private/Society/Law/Constitutional_Law/Constitution.private|Constitution.private]] 
 
-### #is_/same_as :: [Constitution.personal](/_personal/Society/Law/Constitutional_Law/Constitution.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Law/Constitutional_Law/Constitution.personal|Constitution.personal]] 
 
-### #is_/same_as :: [Constitution.secret](/_secret/Society/Law/Constitutional_Law/Constitution.secret.md)
+### #is_/same_as :: [[/_secret/Society/Law/Constitutional_Law/Constitution.secret|Constitution.secret]] 
 

@@ -49,17 +49,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_speech_to_text_markup](/_Standards/schema-org/Property/Texts/has_speech_to_text_markup.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/Texts/has_speech_to_text_markup|has_speech_to_text_markup]] 
 
-### #is_/same_as :: [has_speech_to_text_markup.public](/_public/schema-org/Property/Texts/has_speech_to_text_markup.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/Texts/has_speech_to_text_markup.public|has_speech_to_text_markup.public]] 
 
-### #is_/same_as :: [has_speech_to_text_markup.internal](/_internal/schema-org/Property/Texts/has_speech_to_text_markup.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/Texts/has_speech_to_text_markup.internal|has_speech_to_text_markup.internal]] 
 
-### #is_/same_as :: [has_speech_to_text_markup.protect](/_protect/schema-org/Property/Texts/has_speech_to_text_markup.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/Texts/has_speech_to_text_markup.protect|has_speech_to_text_markup.protect]] 
 
-### #is_/same_as :: [has_speech_to_text_markup.private](/_private/schema-org/Property/Texts/has_speech_to_text_markup.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/Texts/has_speech_to_text_markup.private|has_speech_to_text_markup.private]] 
 
-### #is_/same_as :: [has_speech_to_text_markup.personal](/_personal/schema-org/Property/Texts/has_speech_to_text_markup.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/Texts/has_speech_to_text_markup.personal|has_speech_to_text_markup.personal]] 
 
-### #is_/same_as :: [has_speech_to_text_markup.secret](/_secret/schema-org/Property/Texts/has_speech_to_text_markup.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/Texts/has_speech_to_text_markup.secret|has_speech_to_text_markup.secret]] 
 

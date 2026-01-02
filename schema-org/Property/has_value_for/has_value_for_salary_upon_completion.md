@@ -45,17 +45,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_value_for_salary_upon_completion](/_Standards/schema-org/Property/has_value_for/has_value_for_salary_upon_completion.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_value_for/has_value_for_salary_upon_completion|has_value_for_salary_upon_completion]] 
 
-### #is_/same_as :: [has_value_for_salary_upon_completion.public](/_public/schema-org/Property/has_value_for/has_value_for_salary_upon_completion.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/has_value_for/has_value_for_salary_upon_completion.public|has_value_for_salary_upon_completion.public]] 
 
-### #is_/same_as :: [has_value_for_salary_upon_completion.internal](/_internal/schema-org/Property/has_value_for/has_value_for_salary_upon_completion.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_value_for/has_value_for_salary_upon_completion.internal|has_value_for_salary_upon_completion.internal]] 
 
-### #is_/same_as :: [has_value_for_salary_upon_completion.protect](/_protect/schema-org/Property/has_value_for/has_value_for_salary_upon_completion.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_value_for/has_value_for_salary_upon_completion.protect|has_value_for_salary_upon_completion.protect]] 
 
-### #is_/same_as :: [has_value_for_salary_upon_completion.private](/_private/schema-org/Property/has_value_for/has_value_for_salary_upon_completion.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/has_value_for/has_value_for_salary_upon_completion.private|has_value_for_salary_upon_completion.private]] 
 
-### #is_/same_as :: [has_value_for_salary_upon_completion.personal](/_personal/schema-org/Property/has_value_for/has_value_for_salary_upon_completion.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_value_for/has_value_for_salary_upon_completion.personal|has_value_for_salary_upon_completion.personal]] 
 
-### #is_/same_as :: [has_value_for_salary_upon_completion.secret](/_secret/schema-org/Property/has_value_for/has_value_for_salary_upon_completion.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/has_value_for/has_value_for_salary_upon_completion.secret|has_value_for_salary_upon_completion.secret]] 
 

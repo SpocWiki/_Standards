@@ -52,17 +52,17 @@ Commons_category: Monarchs of Persia
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Shah](/_Standards/Society/Politics/Government/Monarchy/Empire/Shah.md) 
+### #is_/same_as :: [[/_Standards/Society/Politics/Government/Monarchy/Empire/Shah|Shah]] 
 
-### #is_/same_as :: [Shah.public](/_public/Society/Politics/Government/Monarchy/Empire/Shah.public.md) 
+### #is_/same_as :: [[/_public/Society/Politics/Government/Monarchy/Empire/Shah.public|Shah.public]] 
 
-### #is_/same_as :: [Shah.internal](/_internal/Society/Politics/Government/Monarchy/Empire/Shah.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Politics/Government/Monarchy/Empire/Shah.internal|Shah.internal]] 
 
-### #is_/same_as :: [Shah.protect](/_protect/Society/Politics/Government/Monarchy/Empire/Shah.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Politics/Government/Monarchy/Empire/Shah.protect|Shah.protect]] 
 
-### #is_/same_as :: [Shah.private](/_private/Society/Politics/Government/Monarchy/Empire/Shah.private.md) 
+### #is_/same_as :: [[/_private/Society/Politics/Government/Monarchy/Empire/Shah.private|Shah.private]] 
 
-### #is_/same_as :: [Shah.personal](/_personal/Society/Politics/Government/Monarchy/Empire/Shah.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Politics/Government/Monarchy/Empire/Shah.personal|Shah.personal]] 
 
-### #is_/same_as :: [Shah.secret](/_secret/Society/Politics/Government/Monarchy/Empire/Shah.secret.md)
+### #is_/same_as :: [[/_secret/Society/Politics/Government/Monarchy/Empire/Shah.secret|Shah.secret]] 
 

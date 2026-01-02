@@ -57,17 +57,17 @@ Colon_Classification: MY2146
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Polo](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Polo.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Polo|Polo]] 
 
-### #is_/same_as :: [Polo.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Polo.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Polo.public|Polo.public]] 
 
-### #is_/same_as :: [Polo.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Polo.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Polo.internal|Polo.internal]] 
 
-### #is_/same_as :: [Polo.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Polo.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Polo.protect|Polo.protect]] 
 
-### #is_/same_as :: [Polo.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Polo.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Polo.private|Polo.private]] 
 
-### #is_/same_as :: [Polo.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Polo.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Polo.personal|Polo.personal]] 
 
-### #is_/same_as :: [Polo.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Polo.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Polo.secret|Polo.secret]] 
 

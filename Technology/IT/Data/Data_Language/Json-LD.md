@@ -164,17 +164,17 @@ NewtonSoft Json uses `#text` Array to collect the inner Text of XML Nodes.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Json-LD](/_Standards/Json-LD.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Data/Data_Language/Json-LD|Json-LD]] 
 
-### #is_/same_as :: [Json-LD.public](/_public/Json-LD.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Data/Data_Language/Json-LD.public|Json-LD.public]] 
 
-### #is_/same_as :: [Json-LD.internal](/_internal/Json-LD.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Data/Data_Language/Json-LD.internal|Json-LD.internal]] 
 
-### #is_/same_as :: [Json-LD.protect](/_protect/Json-LD.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Data/Data_Language/Json-LD.protect|Json-LD.protect]] 
 
-### #is_/same_as :: [Json-LD.private](/_private/Json-LD.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Data/Data_Language/Json-LD.private|Json-LD.private]] 
 
-### #is_/same_as :: [Json-LD.personal](/_personal/Json-LD.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Data/Data_Language/Json-LD.personal|Json-LD.personal]] 
 
-### #is_/same_as :: [Json-LD.secret](/_secret/Json-LD.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Data/Data_Language/Json-LD.secret|Json-LD.secret]] 
 

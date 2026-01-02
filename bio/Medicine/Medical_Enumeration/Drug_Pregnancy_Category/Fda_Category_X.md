@@ -42,17 +42,17 @@ A designation by the US FDA signifying that studies in animals or humans have de
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Fda_Category_X](/_Standards/bio/Medicine/Medical_Enumeration/Drug_Pregnancy_Category/Fda_Category_X.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Enumeration/Drug_Pregnancy_Category/Fda_Category_X|Fda_Category_X]] 
 
-### #is_/same_as :: [Fda_Category_X.public](/_public/bio/Medicine/Medical_Enumeration/Drug_Pregnancy_Category/Fda_Category_X.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Enumeration/Drug_Pregnancy_Category/Fda_Category_X.public|Fda_Category_X.public]] 
 
-### #is_/same_as :: [Fda_Category_X.internal](/_internal/bio/Medicine/Medical_Enumeration/Drug_Pregnancy_Category/Fda_Category_X.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Enumeration/Drug_Pregnancy_Category/Fda_Category_X.internal|Fda_Category_X.internal]] 
 
-### #is_/same_as :: [Fda_Category_X.protect](/_protect/bio/Medicine/Medical_Enumeration/Drug_Pregnancy_Category/Fda_Category_X.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Enumeration/Drug_Pregnancy_Category/Fda_Category_X.protect|Fda_Category_X.protect]] 
 
-### #is_/same_as :: [Fda_Category_X.private](/_private/bio/Medicine/Medical_Enumeration/Drug_Pregnancy_Category/Fda_Category_X.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Enumeration/Drug_Pregnancy_Category/Fda_Category_X.private|Fda_Category_X.private]] 
 
-### #is_/same_as :: [Fda_Category_X.personal](/_personal/bio/Medicine/Medical_Enumeration/Drug_Pregnancy_Category/Fda_Category_X.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Enumeration/Drug_Pregnancy_Category/Fda_Category_X.personal|Fda_Category_X.personal]] 
 
-### #is_/same_as :: [Fda_Category_X.secret](/_secret/bio/Medicine/Medical_Enumeration/Drug_Pregnancy_Category/Fda_Category_X.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Enumeration/Drug_Pregnancy_Category/Fda_Category_X.secret|Fda_Category_X.secret]] 
 

@@ -55,17 +55,17 @@ Wolfram_Language_entity_code: Entity["FoodType", "Pomegranate"]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Pomegranate](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Fruits/Pomegranate.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Home_Economics/Cooking/Food/Fruits/Pomegranate|Pomegranate]] 
 
-### #is_/same_as :: [Pomegranate.public](/_public/Society/Economics/Home_Economics/Cooking/Food/Fruits/Pomegranate.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Home_Economics/Cooking/Food/Fruits/Pomegranate.public|Pomegranate.public]] 
 
-### #is_/same_as :: [Pomegranate.internal](/_internal/Society/Economics/Home_Economics/Cooking/Food/Fruits/Pomegranate.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Home_Economics/Cooking/Food/Fruits/Pomegranate.internal|Pomegranate.internal]] 
 
-### #is_/same_as :: [Pomegranate.protect](/_protect/Society/Economics/Home_Economics/Cooking/Food/Fruits/Pomegranate.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Home_Economics/Cooking/Food/Fruits/Pomegranate.protect|Pomegranate.protect]] 
 
-### #is_/same_as :: [Pomegranate.private](/_private/Society/Economics/Home_Economics/Cooking/Food/Fruits/Pomegranate.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Home_Economics/Cooking/Food/Fruits/Pomegranate.private|Pomegranate.private]] 
 
-### #is_/same_as :: [Pomegranate.personal](/_personal/Society/Economics/Home_Economics/Cooking/Food/Fruits/Pomegranate.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Home_Economics/Cooking/Food/Fruits/Pomegranate.personal|Pomegranate.personal]] 
 
-### #is_/same_as :: [Pomegranate.secret](/_secret/Society/Economics/Home_Economics/Cooking/Food/Fruits/Pomegranate.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Home_Economics/Cooking/Food/Fruits/Pomegranate.secret|Pomegranate.secret]] 
 

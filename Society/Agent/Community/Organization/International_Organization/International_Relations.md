@@ -65,17 +65,17 @@ IPTC_NewsCode: mediatopic/20000638
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [International_Relations](/_Standards/Society/Agent/Community/Organization/International_Organization/International_Relations.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/International_Organization/International_Relations|International_Relations]] 
 
-### #is_/same_as :: [International_Relations.public](/_public/Society/Agent/Community/Organization/International_Organization/International_Relations.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/International_Organization/International_Relations.public|International_Relations.public]] 
 
-### #is_/same_as :: [International_Relations.internal](/_internal/Society/Agent/Community/Organization/International_Organization/International_Relations.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/International_Organization/International_Relations.internal|International_Relations.internal]] 
 
-### #is_/same_as :: [International_Relations.protect](/_protect/Society/Agent/Community/Organization/International_Organization/International_Relations.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/International_Organization/International_Relations.protect|International_Relations.protect]] 
 
-### #is_/same_as :: [International_Relations.private](/_private/Society/Agent/Community/Organization/International_Organization/International_Relations.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/International_Organization/International_Relations.private|International_Relations.private]] 
 
-### #is_/same_as :: [International_Relations.personal](/_personal/Society/Agent/Community/Organization/International_Organization/International_Relations.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/International_Organization/International_Relations.personal|International_Relations.personal]] 
 
-### #is_/same_as :: [International_Relations.secret](/_secret/Society/Agent/Community/Organization/International_Organization/International_Relations.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/International_Organization/International_Relations.secret|International_Relations.secret]] 
 

@@ -40,17 +40,17 @@ markerFolder: ./Anabar/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Anabar](/_Standards/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Anabar.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Anabar|Anabar]] 
 
-### #is_/same_as :: [Anabar.public](/_public/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Anabar.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Anabar.public|Anabar.public]] 
 
-### #is_/same_as :: [Anabar.internal](/_internal/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Anabar.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Anabar.internal|Anabar.internal]] 
 
-### #is_/same_as :: [Anabar.protect](/_protect/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Anabar.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Anabar.protect|Anabar.protect]] 
 
-### #is_/same_as :: [Anabar.private](/_private/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Anabar.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Anabar.private|Anabar.private]] 
 
-### #is_/same_as :: [Anabar.personal](/_personal/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Anabar.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Anabar.personal|Anabar.personal]] 
 
-### #is_/same_as :: [Anabar.secret](/_secret/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Anabar.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Anabar.secret|Anabar.secret]] 
 

@@ -65,3 +65,22 @@ aliases:
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~North/USA/History_of_the_USA/1803-Louisiana_Purchase|1803-Louisiana_Purchase]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/America~North/USA/History_of_the_USA/1803-Louisiana_Purchase.public|1803-Louisiana_Purchase.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/America~North/USA/History_of_the_USA/1803-Louisiana_Purchase.internal|1803-Louisiana_Purchase.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/America~North/USA/History_of_the_USA/1803-Louisiana_Purchase.protect|1803-Louisiana_Purchase.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/America~North/USA/History_of_the_USA/1803-Louisiana_Purchase.private|1803-Louisiana_Purchase.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/America~North/USA/History_of_the_USA/1803-Louisiana_Purchase.personal|1803-Louisiana_Purchase.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/America~North/USA/History_of_the_USA/1803-Louisiana_Purchase.secret|1803-Louisiana_Purchase.secret]] 
+

@@ -46,17 +46,17 @@ Krugosvet_article: nauka_i_tehnika/himiya/HIMICHESKOE_RAVNOVESIE.html
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Chemical_Equilibrium](/_Standards/Chemistry/Chemical_Reaction/Chemical_Equilibrium.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Chemical_Reaction/Chemical_Equilibrium|Chemical_Equilibrium]] 
 
-### #is_/same_as :: [Chemical_Equilibrium.public](/_public/Chemistry/Chemical_Reaction/Chemical_Equilibrium.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Chemical_Reaction/Chemical_Equilibrium.public|Chemical_Equilibrium.public]] 
 
-### #is_/same_as :: [Chemical_Equilibrium.internal](/_internal/Chemistry/Chemical_Reaction/Chemical_Equilibrium.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Chemical_Reaction/Chemical_Equilibrium.internal|Chemical_Equilibrium.internal]] 
 
-### #is_/same_as :: [Chemical_Equilibrium.protect](/_protect/Chemistry/Chemical_Reaction/Chemical_Equilibrium.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Chemical_Reaction/Chemical_Equilibrium.protect|Chemical_Equilibrium.protect]] 
 
-### #is_/same_as :: [Chemical_Equilibrium.private](/_private/Chemistry/Chemical_Reaction/Chemical_Equilibrium.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Chemical_Reaction/Chemical_Equilibrium.private|Chemical_Equilibrium.private]] 
 
-### #is_/same_as :: [Chemical_Equilibrium.personal](/_personal/Chemistry/Chemical_Reaction/Chemical_Equilibrium.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Chemical_Reaction/Chemical_Equilibrium.personal|Chemical_Equilibrium.personal]] 
 
-### #is_/same_as :: [Chemical_Equilibrium.secret](/_secret/Chemistry/Chemical_Reaction/Chemical_Equilibrium.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Chemical_Reaction/Chemical_Equilibrium.secret|Chemical_Equilibrium.secret]] 
 

@@ -101,17 +101,17 @@ OpenStreetMap_tag: building:architecture=bauhaus
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bauhaus](/_Standards/Society/Communication/Art/Art_History/Bauhaus.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Art/Art_History/Bauhaus|Bauhaus]] 
 
-### #is_/same_as :: [Bauhaus.public](/_public/Society/Communication/Art/Art_History/Bauhaus.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Art/Art_History/Bauhaus.public|Bauhaus.public]] 
 
-### #is_/same_as :: [Bauhaus.internal](/_internal/Society/Communication/Art/Art_History/Bauhaus.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Art/Art_History/Bauhaus.internal|Bauhaus.internal]] 
 
-### #is_/same_as :: [Bauhaus.protect](/_protect/Society/Communication/Art/Art_History/Bauhaus.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Art/Art_History/Bauhaus.protect|Bauhaus.protect]] 
 
-### #is_/same_as :: [Bauhaus.private](/_private/Society/Communication/Art/Art_History/Bauhaus.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Art/Art_History/Bauhaus.private|Bauhaus.private]] 
 
-### #is_/same_as :: [Bauhaus.personal](/_personal/Society/Communication/Art/Art_History/Bauhaus.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Art/Art_History/Bauhaus.personal|Bauhaus.personal]] 
 
-### #is_/same_as :: [Bauhaus.secret](/_secret/Society/Communication/Art/Art_History/Bauhaus.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Art/Art_History/Bauhaus.secret|Bauhaus.secret]] 
 

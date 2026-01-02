@@ -40,17 +40,17 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Apollo%2015%20launch.j
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Launch_Vehicle](/_Standards/Technology/Spaceflight/Launch_Vehicle.md) 
+### #is_/same_as :: [[/_Standards/Technology/Spaceflight/Launch_Vehicle|Launch_Vehicle]] 
 
-### #is_/same_as :: [Launch_Vehicle.public](/_public/Technology/Spaceflight/Launch_Vehicle.public.md) 
+### #is_/same_as :: [[/_public/Technology/Spaceflight/Launch_Vehicle.public|Launch_Vehicle.public]] 
 
-### #is_/same_as :: [Launch_Vehicle.internal](/_internal/Technology/Spaceflight/Launch_Vehicle.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Spaceflight/Launch_Vehicle.internal|Launch_Vehicle.internal]] 
 
-### #is_/same_as :: [Launch_Vehicle.protect](/_protect/Technology/Spaceflight/Launch_Vehicle.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Spaceflight/Launch_Vehicle.protect|Launch_Vehicle.protect]] 
 
-### #is_/same_as :: [Launch_Vehicle.private](/_private/Technology/Spaceflight/Launch_Vehicle.private.md) 
+### #is_/same_as :: [[/_private/Technology/Spaceflight/Launch_Vehicle.private|Launch_Vehicle.private]] 
 
-### #is_/same_as :: [Launch_Vehicle.personal](/_personal/Technology/Spaceflight/Launch_Vehicle.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Spaceflight/Launch_Vehicle.personal|Launch_Vehicle.personal]] 
 
-### #is_/same_as :: [Launch_Vehicle.secret](/_secret/Technology/Spaceflight/Launch_Vehicle.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Spaceflight/Launch_Vehicle.secret|Launch_Vehicle.secret]] 
 

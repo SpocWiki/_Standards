@@ -67,17 +67,17 @@ video: http://commons.wikimedia.org/wiki/Special:FilePath/Wie%20entsteht%20Wind%
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Wind](/_Standards/Earth/Climate/Weather/Wind.md) 
+### #is_/same_as :: [[/_Standards/Earth/Climate/Weather/Wind|Wind]] 
 
-### #is_/same_as :: [Wind.public](/_public/Earth/Climate/Weather/Wind.public.md) 
+### #is_/same_as :: [[/_public/Earth/Climate/Weather/Wind.public|Wind.public]] 
 
-### #is_/same_as :: [Wind.internal](/_internal/Earth/Climate/Weather/Wind.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Climate/Weather/Wind.internal|Wind.internal]] 
 
-### #is_/same_as :: [Wind.protect](/_protect/Earth/Climate/Weather/Wind.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Climate/Weather/Wind.protect|Wind.protect]] 
 
-### #is_/same_as :: [Wind.private](/_private/Earth/Climate/Weather/Wind.private.md) 
+### #is_/same_as :: [[/_private/Earth/Climate/Weather/Wind.private|Wind.private]] 
 
-### #is_/same_as :: [Wind.personal](/_personal/Earth/Climate/Weather/Wind.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Climate/Weather/Wind.personal|Wind.personal]] 
 
-### #is_/same_as :: [Wind.secret](/_secret/Earth/Climate/Weather/Wind.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Climate/Weather/Wind.secret|Wind.secret]] 
 

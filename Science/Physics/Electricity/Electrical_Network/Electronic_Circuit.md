@@ -50,17 +50,17 @@ Krugosvet_article: nauka_i_tehnika/tehnologiya_i_promyshlennost/ELEKTRONNIE_SHEM
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Electronic_Circuit](/_Standards/Science/Physics/Electricity/Electrical_Network/Electronic_Circuit.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Electricity/Electrical_Network/Electronic_Circuit|Electronic_Circuit]] 
 
-### #is_/same_as :: [Electronic_Circuit.public](/_public/Science/Physics/Electricity/Electrical_Network/Electronic_Circuit.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Electricity/Electrical_Network/Electronic_Circuit.public|Electronic_Circuit.public]] 
 
-### #is_/same_as :: [Electronic_Circuit.internal](/_internal/Science/Physics/Electricity/Electrical_Network/Electronic_Circuit.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Electricity/Electrical_Network/Electronic_Circuit.internal|Electronic_Circuit.internal]] 
 
-### #is_/same_as :: [Electronic_Circuit.protect](/_protect/Science/Physics/Electricity/Electrical_Network/Electronic_Circuit.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Electricity/Electrical_Network/Electronic_Circuit.protect|Electronic_Circuit.protect]] 
 
-### #is_/same_as :: [Electronic_Circuit.private](/_private/Science/Physics/Electricity/Electrical_Network/Electronic_Circuit.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Electricity/Electrical_Network/Electronic_Circuit.private|Electronic_Circuit.private]] 
 
-### #is_/same_as :: [Electronic_Circuit.personal](/_personal/Science/Physics/Electricity/Electrical_Network/Electronic_Circuit.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Electricity/Electrical_Network/Electronic_Circuit.personal|Electronic_Circuit.personal]] 
 
-### #is_/same_as :: [Electronic_Circuit.secret](/_secret/Science/Physics/Electricity/Electrical_Network/Electronic_Circuit.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Electricity/Electrical_Network/Electronic_Circuit.secret|Electronic_Circuit.secret]] 
 

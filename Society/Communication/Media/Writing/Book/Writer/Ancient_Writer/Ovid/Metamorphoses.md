@@ -159,17 +159,17 @@ inception: 0001-01-01T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Metamorphoses](/_Standards/Society/Communication/Media/Writing/Book/Writer/Ancient_Writer/Ovid/Metamorphoses.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Writer/Ancient_Writer/Ovid/Metamorphoses|Metamorphoses]] 
 
-### #is_/same_as :: [Metamorphoses.public](/_public/Society/Communication/Media/Writing/Book/Writer/Ancient_Writer/Ovid/Metamorphoses.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Writer/Ancient_Writer/Ovid/Metamorphoses.public|Metamorphoses.public]] 
 
-### #is_/same_as :: [Metamorphoses.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/Ancient_Writer/Ovid/Metamorphoses.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Writer/Ancient_Writer/Ovid/Metamorphoses.internal|Metamorphoses.internal]] 
 
-### #is_/same_as :: [Metamorphoses.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/Ancient_Writer/Ovid/Metamorphoses.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Writer/Ancient_Writer/Ovid/Metamorphoses.protect|Metamorphoses.protect]] 
 
-### #is_/same_as :: [Metamorphoses.private](/_private/Society/Communication/Media/Writing/Book/Writer/Ancient_Writer/Ovid/Metamorphoses.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Writer/Ancient_Writer/Ovid/Metamorphoses.private|Metamorphoses.private]] 
 
-### #is_/same_as :: [Metamorphoses.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/Ancient_Writer/Ovid/Metamorphoses.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Writer/Ancient_Writer/Ovid/Metamorphoses.personal|Metamorphoses.personal]] 
 
-### #is_/same_as :: [Metamorphoses.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/Ancient_Writer/Ovid/Metamorphoses.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Writer/Ancient_Writer/Ovid/Metamorphoses.secret|Metamorphoses.secret]] 
 

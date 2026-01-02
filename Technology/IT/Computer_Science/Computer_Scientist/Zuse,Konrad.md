@@ -125,17 +125,17 @@ date_of_birth: 1910-06-22T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Zuse,Konrad](/_Standards/Technology/IT/Computer_Science/Computer_Scientist/Zuse,Konrad.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Computer_Science/Computer_Scientist/Zuse,Konrad|Zuse,Konrad]] 
 
-### #is_/same_as :: [Zuse,Konrad.public](/_public/Technology/IT/Computer_Science/Computer_Scientist/Zuse,Konrad.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Computer_Science/Computer_Scientist/Zuse,Konrad.public|Zuse,Konrad.public]] 
 
-### #is_/same_as :: [Zuse,Konrad.internal](/_internal/Technology/IT/Computer_Science/Computer_Scientist/Zuse,Konrad.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Computer_Science/Computer_Scientist/Zuse,Konrad.internal|Zuse,Konrad.internal]] 
 
-### #is_/same_as :: [Zuse,Konrad.protect](/_protect/Technology/IT/Computer_Science/Computer_Scientist/Zuse,Konrad.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Computer_Science/Computer_Scientist/Zuse,Konrad.protect|Zuse,Konrad.protect]] 
 
-### #is_/same_as :: [Zuse,Konrad.private](/_private/Technology/IT/Computer_Science/Computer_Scientist/Zuse,Konrad.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Computer_Science/Computer_Scientist/Zuse,Konrad.private|Zuse,Konrad.private]] 
 
-### #is_/same_as :: [Zuse,Konrad.personal](/_personal/Technology/IT/Computer_Science/Computer_Scientist/Zuse,Konrad.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Computer_Science/Computer_Scientist/Zuse,Konrad.personal|Zuse,Konrad.personal]] 
 
-### #is_/same_as :: [Zuse,Konrad.secret](/_secret/Technology/IT/Computer_Science/Computer_Scientist/Zuse,Konrad.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Computer_Science/Computer_Scientist/Zuse,Konrad.secret|Zuse,Konrad.secret]] 
 

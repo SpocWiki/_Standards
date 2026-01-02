@@ -84,17 +84,17 @@ U_S_National_Archives_Identifier: 10638161
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Literature](/_Standards/Society/Communication/Media/Writing/Book/Literature.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Literature|Literature]] 
 
-### #is_/same_as :: [Literature.public](/_public/Society/Communication/Media/Writing/Book/Literature.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Literature.public|Literature.public]] 
 
-### #is_/same_as :: [Literature.internal](/_internal/Society/Communication/Media/Writing/Book/Literature.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Literature.internal|Literature.internal]] 
 
-### #is_/same_as :: [Literature.protect](/_protect/Society/Communication/Media/Writing/Book/Literature.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Literature.protect|Literature.protect]] 
 
-### #is_/same_as :: [Literature.private](/_private/Society/Communication/Media/Writing/Book/Literature.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Literature.private|Literature.private]] 
 
-### #is_/same_as :: [Literature.personal](/_personal/Society/Communication/Media/Writing/Book/Literature.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Literature.personal|Literature.personal]] 
 
-### #is_/same_as :: [Literature.secret](/_secret/Society/Communication/Media/Writing/Book/Literature.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Literature.secret|Literature.secret]] 
 

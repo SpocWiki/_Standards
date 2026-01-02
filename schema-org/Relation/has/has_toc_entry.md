@@ -46,17 +46,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_toc_entry](/_Standards/schema-org/Relation/has/has_toc_entry.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_toc_entry|has_toc_entry]] 
 
-### #is_/same_as :: [has_toc_entry.public](/_public/schema-org/Relation/has/has_toc_entry.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_toc_entry.public|has_toc_entry.public]] 
 
-### #is_/same_as :: [has_toc_entry.internal](/_internal/schema-org/Relation/has/has_toc_entry.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_toc_entry.internal|has_toc_entry.internal]] 
 
-### #is_/same_as :: [has_toc_entry.protect](/_protect/schema-org/Relation/has/has_toc_entry.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_toc_entry.protect|has_toc_entry.protect]] 
 
-### #is_/same_as :: [has_toc_entry.private](/_private/schema-org/Relation/has/has_toc_entry.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_toc_entry.private|has_toc_entry.private]] 
 
-### #is_/same_as :: [has_toc_entry.personal](/_personal/schema-org/Relation/has/has_toc_entry.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_toc_entry.personal|has_toc_entry.personal]] 
 
-### #is_/same_as :: [has_toc_entry.secret](/_secret/schema-org/Relation/has/has_toc_entry.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_toc_entry.secret|has_toc_entry.secret]] 
 

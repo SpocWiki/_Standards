@@ -129,7 +129,7 @@ waters. Invertebrate Taxonomy 6: 567-82
 ## Title Illustrations 
 
 --------------------------------------------------------------------------- 
-![](Ameloctopus/AmeloctI.JPG))
+![](Ameloctopus/AmeloctI.JPG) 
 Scientific Name ::     Ameloctopus litoralis
 Specimen Condition   Live Specimen
 Copyright ::            © 1996 [Mark D. Norman](mailto:mnorman@unimelb.edu.au) 
@@ -137,17 +137,17 @@ Copyright ::            © 1996 [Mark D. Norman](mailto:mnorman@unimelb.edu.au)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ameloctopus](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Incirrata/Octopodidae/Ameloctopus.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Incirrata/Octopodidae/Ameloctopus|Ameloctopus]] 
 
-### #is_/same_as :: [Ameloctopus.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Incirrata/Octopodidae/Ameloctopus.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Incirrata/Octopodidae/Ameloctopus.public|Ameloctopus.public]] 
 
-### #is_/same_as :: [Ameloctopus.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Incirrata/Octopodidae/Ameloctopus.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Incirrata/Octopodidae/Ameloctopus.internal|Ameloctopus.internal]] 
 
-### #is_/same_as :: [Ameloctopus.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Incirrata/Octopodidae/Ameloctopus.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Incirrata/Octopodidae/Ameloctopus.protect|Ameloctopus.protect]] 
 
-### #is_/same_as :: [Ameloctopus.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Incirrata/Octopodidae/Ameloctopus.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Incirrata/Octopodidae/Ameloctopus.private|Ameloctopus.private]] 
 
-### #is_/same_as :: [Ameloctopus.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Incirrata/Octopodidae/Ameloctopus.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Incirrata/Octopodidae/Ameloctopus.personal|Ameloctopus.personal]] 
 
-### #is_/same_as :: [Ameloctopus.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Incirrata/Octopodidae/Ameloctopus.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Incirrata/Octopodidae/Ameloctopus.secret|Ameloctopus.secret]] 
 

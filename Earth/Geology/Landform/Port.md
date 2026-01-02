@@ -81,17 +81,17 @@ GeoNames_feature_code: L.PRT
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Port](/_Standards/Earth/Geology/Landform/Port.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geology/Landform/Port|Port]] 
 
-### #is_/same_as :: [Port.public](/_public/Earth/Geology/Landform/Port.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geology/Landform/Port.public|Port.public]] 
 
-### #is_/same_as :: [Port.internal](/_internal/Earth/Geology/Landform/Port.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geology/Landform/Port.internal|Port.internal]] 
 
-### #is_/same_as :: [Port.protect](/_protect/Earth/Geology/Landform/Port.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geology/Landform/Port.protect|Port.protect]] 
 
-### #is_/same_as :: [Port.private](/_private/Earth/Geology/Landform/Port.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geology/Landform/Port.private|Port.private]] 
 
-### #is_/same_as :: [Port.personal](/_personal/Earth/Geology/Landform/Port.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geology/Landform/Port.personal|Port.personal]] 
 
-### #is_/same_as :: [Port.secret](/_secret/Earth/Geology/Landform/Port.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geology/Landform/Port.secret|Port.secret]] 
 

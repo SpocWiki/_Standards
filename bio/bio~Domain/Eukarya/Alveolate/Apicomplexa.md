@@ -63,17 +63,17 @@ Source Collection    [Public Health Image Library](http://phil.cdc.gov/Phil/defa
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Euapicomplexa](/_Standards/bio/bio~Domain/Eukarya/Alveolates/Euapicomplexa.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Alveolate/Apicomplexa|Apicomplexa]] 
 
-### #is_/same_as :: [Euapicomplexa.public](/_public/bio/bio~Domain/Eukarya/Alveolates/Euapicomplexa.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Alveolate/Apicomplexa.public|Apicomplexa.public]] 
 
-### #is_/same_as :: [Euapicomplexa.internal](/_internal/bio/bio~Domain/Eukarya/Alveolates/Euapicomplexa.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Alveolate/Apicomplexa.internal|Apicomplexa.internal]] 
 
-### #is_/same_as :: [Euapicomplexa.protect](/_protect/bio/bio~Domain/Eukarya/Alveolates/Euapicomplexa.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Alveolate/Apicomplexa.protect|Apicomplexa.protect]] 
 
-### #is_/same_as :: [Euapicomplexa.private](/_private/bio/bio~Domain/Eukarya/Alveolates/Euapicomplexa.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Alveolate/Apicomplexa.private|Apicomplexa.private]] 
 
-### #is_/same_as :: [Euapicomplexa.personal](/_personal/bio/bio~Domain/Eukarya/Alveolates/Euapicomplexa.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Alveolate/Apicomplexa.personal|Apicomplexa.personal]] 
 
-### #is_/same_as :: [Euapicomplexa.secret](/_secret/bio/bio~Domain/Eukarya/Alveolates/Euapicomplexa.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Alveolate/Apicomplexa.secret|Apicomplexa.secret]] 
 

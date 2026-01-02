@@ -13,3 +13,22 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Magnetic%20flux) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Dimension/Dim~Magnetic_Flux|Dim~Magnetic_Flux]] 
+
+### #is_/same_as :: [[/_public/Dimension/Dim~Magnetic_Flux.public|Dim~Magnetic_Flux.public]] 
+
+### #is_/same_as :: [[/_internal/Dimension/Dim~Magnetic_Flux.internal|Dim~Magnetic_Flux.internal]] 
+
+### #is_/same_as :: [[/_protect/Dimension/Dim~Magnetic_Flux.protect|Dim~Magnetic_Flux.protect]] 
+
+### #is_/same_as :: [[/_private/Dimension/Dim~Magnetic_Flux.private|Dim~Magnetic_Flux.private]] 
+
+### #is_/same_as :: [[/_personal/Dimension/Dim~Magnetic_Flux.personal|Dim~Magnetic_Flux.personal]] 
+
+### #is_/same_as :: [[/_secret/Dimension/Dim~Magnetic_Flux.secret|Dim~Magnetic_Flux.secret]] 
+

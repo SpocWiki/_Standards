@@ -41,17 +41,17 @@ Related actions:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~AcceptAction](/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~OrganizeAction/FileClass~AllocateAction/FileClass~AcceptAction.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~OrganizeAction/FileClass~AllocateAction/FileClass~AcceptAction|FileClass~AcceptAction]] 
 
-### #is_/same_as :: [FileClass~AcceptAction.public](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~OrganizeAction/FileClass~AllocateAction/FileClass~AcceptAction.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~OrganizeAction/FileClass~AllocateAction/FileClass~AcceptAction.public|FileClass~AcceptAction.public]] 
 
-### #is_/same_as :: [FileClass~AcceptAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~OrganizeAction/FileClass~AllocateAction/FileClass~AcceptAction.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~OrganizeAction/FileClass~AllocateAction/FileClass~AcceptAction.internal|FileClass~AcceptAction.internal]] 
 
-### #is_/same_as :: [FileClass~AcceptAction.protect](/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~OrganizeAction/FileClass~AllocateAction/FileClass~AcceptAction.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~OrganizeAction/FileClass~AllocateAction/FileClass~AcceptAction.protect|FileClass~AcceptAction.protect]] 
 
-### #is_/same_as :: [FileClass~AcceptAction.private](/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~OrganizeAction/FileClass~AllocateAction/FileClass~AcceptAction.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~OrganizeAction/FileClass~AllocateAction/FileClass~AcceptAction.private|FileClass~AcceptAction.private]] 
 
-### #is_/same_as :: [FileClass~AcceptAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~OrganizeAction/FileClass~AllocateAction/FileClass~AcceptAction.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~OrganizeAction/FileClass~AllocateAction/FileClass~AcceptAction.personal|FileClass~AcceptAction.personal]] 
 
-### #is_/same_as :: [FileClass~AcceptAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~OrganizeAction/FileClass~AllocateAction/FileClass~AcceptAction.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~OrganizeAction/FileClass~AllocateAction/FileClass~AcceptAction.secret|FileClass~AcceptAction.secret]] 
 

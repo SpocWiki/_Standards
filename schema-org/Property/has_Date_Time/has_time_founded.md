@@ -46,17 +46,17 @@ Formal Predicate:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_time_founded](/_Standards/schema-org/Property/has_Date_Time/has_time_founded.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_Date_Time/has_time_founded|has_time_founded]] 
 
-### #is_/same_as :: [has_time_founded.public](/_public/schema-org/Property/has_Date_Time/has_time_founded.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/has_Date_Time/has_time_founded.public|has_time_founded.public]] 
 
-### #is_/same_as :: [has_time_founded.internal](/_internal/schema-org/Property/has_Date_Time/has_time_founded.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_Date_Time/has_time_founded.internal|has_time_founded.internal]] 
 
-### #is_/same_as :: [has_time_founded.protect](/_protect/schema-org/Property/has_Date_Time/has_time_founded.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_Date_Time/has_time_founded.protect|has_time_founded.protect]] 
 
-### #is_/same_as :: [has_time_founded.private](/_private/schema-org/Property/has_Date_Time/has_time_founded.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/has_Date_Time/has_time_founded.private|has_time_founded.private]] 
 
-### #is_/same_as :: [has_time_founded.personal](/_personal/schema-org/Property/has_Date_Time/has_time_founded.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_Date_Time/has_time_founded.personal|has_time_founded.personal]] 
 
-### #is_/same_as :: [has_time_founded.secret](/_secret/schema-org/Property/has_Date_Time/has_time_founded.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/has_Date_Time/has_time_founded.secret|has_time_founded.secret]] 
 

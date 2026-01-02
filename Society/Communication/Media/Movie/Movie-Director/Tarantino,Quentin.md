@@ -169,17 +169,17 @@ Krugosvet_article_archived_: kultura_i_obrazovanie/teatr_i_kino/TARANTINO_KVENTI
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Tarantino,Quentin](/_Standards/Society/Communication/Media/Movie/Movie-Director/Tarantino,Quentin.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Director/Tarantino,Quentin|Tarantino,Quentin]] 
 
-### #is_/same_as :: [Tarantino,Quentin.public](/_public/Society/Communication/Media/Movie/Movie-Director/Tarantino,Quentin.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Director/Tarantino,Quentin.public|Tarantino,Quentin.public]] 
 
-### #is_/same_as :: [Tarantino,Quentin.internal](/_internal/Society/Communication/Media/Movie/Movie-Director/Tarantino,Quentin.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Director/Tarantino,Quentin.internal|Tarantino,Quentin.internal]] 
 
-### #is_/same_as :: [Tarantino,Quentin.protect](/_protect/Society/Communication/Media/Movie/Movie-Director/Tarantino,Quentin.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Director/Tarantino,Quentin.protect|Tarantino,Quentin.protect]] 
 
-### #is_/same_as :: [Tarantino,Quentin.private](/_private/Society/Communication/Media/Movie/Movie-Director/Tarantino,Quentin.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Director/Tarantino,Quentin.private|Tarantino,Quentin.private]] 
 
-### #is_/same_as :: [Tarantino,Quentin.personal](/_personal/Society/Communication/Media/Movie/Movie-Director/Tarantino,Quentin.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Director/Tarantino,Quentin.personal|Tarantino,Quentin.personal]] 
 
-### #is_/same_as :: [Tarantino,Quentin.secret](/_secret/Society/Communication/Media/Movie/Movie-Director/Tarantino,Quentin.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Director/Tarantino,Quentin.secret|Tarantino,Quentin.secret]] 
 

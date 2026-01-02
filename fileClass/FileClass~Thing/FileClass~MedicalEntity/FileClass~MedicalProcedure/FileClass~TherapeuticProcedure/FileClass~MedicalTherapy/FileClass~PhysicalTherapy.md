@@ -37,17 +37,17 @@ A process of progressive physical care and rehabilitation aimed at improving a h
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~PhysicalTherapy](/_Standards/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalProcedure/FileClass~TherapeuticProcedure/FileClass~MedicalTherapy/FileClass~PhysicalTherapy.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalProcedure/FileClass~TherapeuticProcedure/FileClass~MedicalTherapy/FileClass~PhysicalTherapy|FileClass~PhysicalTherapy]] 
 
-### #is_/same_as :: [FileClass~PhysicalTherapy.public](/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalProcedure/FileClass~TherapeuticProcedure/FileClass~MedicalTherapy/FileClass~PhysicalTherapy.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalProcedure/FileClass~TherapeuticProcedure/FileClass~MedicalTherapy/FileClass~PhysicalTherapy.public|FileClass~PhysicalTherapy.public]] 
 
-### #is_/same_as :: [FileClass~PhysicalTherapy.internal](/_internal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalProcedure/FileClass~TherapeuticProcedure/FileClass~MedicalTherapy/FileClass~PhysicalTherapy.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalProcedure/FileClass~TherapeuticProcedure/FileClass~MedicalTherapy/FileClass~PhysicalTherapy.internal|FileClass~PhysicalTherapy.internal]] 
 
-### #is_/same_as :: [FileClass~PhysicalTherapy.protect](/_protect/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalProcedure/FileClass~TherapeuticProcedure/FileClass~MedicalTherapy/FileClass~PhysicalTherapy.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalProcedure/FileClass~TherapeuticProcedure/FileClass~MedicalTherapy/FileClass~PhysicalTherapy.protect|FileClass~PhysicalTherapy.protect]] 
 
-### #is_/same_as :: [FileClass~PhysicalTherapy.private](/_private/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalProcedure/FileClass~TherapeuticProcedure/FileClass~MedicalTherapy/FileClass~PhysicalTherapy.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalProcedure/FileClass~TherapeuticProcedure/FileClass~MedicalTherapy/FileClass~PhysicalTherapy.private|FileClass~PhysicalTherapy.private]] 
 
-### #is_/same_as :: [FileClass~PhysicalTherapy.personal](/_personal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalProcedure/FileClass~TherapeuticProcedure/FileClass~MedicalTherapy/FileClass~PhysicalTherapy.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalProcedure/FileClass~TherapeuticProcedure/FileClass~MedicalTherapy/FileClass~PhysicalTherapy.personal|FileClass~PhysicalTherapy.personal]] 
 
-### #is_/same_as :: [FileClass~PhysicalTherapy.secret](/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalProcedure/FileClass~TherapeuticProcedure/FileClass~MedicalTherapy/FileClass~PhysicalTherapy.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalProcedure/FileClass~TherapeuticProcedure/FileClass~MedicalTherapy/FileClass~PhysicalTherapy.secret|FileClass~PhysicalTherapy.secret]] 
 

@@ -44,17 +44,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_business_days](/_Standards/schema-org/Relation/has/has_business_days.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_business_days|has_business_days]] 
 
-### #is_/same_as :: [has_business_days.public](/_public/schema-org/Relation/has/has_business_days.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_business_days.public|has_business_days.public]] 
 
-### #is_/same_as :: [has_business_days.internal](/_internal/schema-org/Relation/has/has_business_days.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_business_days.internal|has_business_days.internal]] 
 
-### #is_/same_as :: [has_business_days.protect](/_protect/schema-org/Relation/has/has_business_days.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_business_days.protect|has_business_days.protect]] 
 
-### #is_/same_as :: [has_business_days.private](/_private/schema-org/Relation/has/has_business_days.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_business_days.private|has_business_days.private]] 
 
-### #is_/same_as :: [has_business_days.personal](/_personal/schema-org/Relation/has/has_business_days.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_business_days.personal|has_business_days.personal]] 
 
-### #is_/same_as :: [has_business_days.secret](/_secret/schema-org/Relation/has/has_business_days.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_business_days.secret|has_business_days.secret]] 
 

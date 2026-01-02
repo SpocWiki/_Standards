@@ -63,17 +63,17 @@ Wolfram_Language_entity_code: Entity["Book", "LordOfTheFlies"]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lord_of_the_Flies](/_Standards/Society/Communication/Media/Writing/Book/Writer/English_Writer/Golding,William/Lord_of_the_Flies.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Writer/English_Writer/Golding,William/Lord_of_the_Flies|Lord_of_the_Flies]] 
 
-### #is_/same_as :: [Lord_of_the_Flies.public](/_public/Society/Communication/Media/Writing/Book/Writer/English_Writer/Golding,William/Lord_of_the_Flies.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Writer/English_Writer/Golding,William/Lord_of_the_Flies.public|Lord_of_the_Flies.public]] 
 
-### #is_/same_as :: [Lord_of_the_Flies.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/English_Writer/Golding,William/Lord_of_the_Flies.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Writer/English_Writer/Golding,William/Lord_of_the_Flies.internal|Lord_of_the_Flies.internal]] 
 
-### #is_/same_as :: [Lord_of_the_Flies.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/English_Writer/Golding,William/Lord_of_the_Flies.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Writer/English_Writer/Golding,William/Lord_of_the_Flies.protect|Lord_of_the_Flies.protect]] 
 
-### #is_/same_as :: [Lord_of_the_Flies.private](/_private/Society/Communication/Media/Writing/Book/Writer/English_Writer/Golding,William/Lord_of_the_Flies.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Writer/English_Writer/Golding,William/Lord_of_the_Flies.private|Lord_of_the_Flies.private]] 
 
-### #is_/same_as :: [Lord_of_the_Flies.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/English_Writer/Golding,William/Lord_of_the_Flies.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Writer/English_Writer/Golding,William/Lord_of_the_Flies.personal|Lord_of_the_Flies.personal]] 
 
-### #is_/same_as :: [Lord_of_the_Flies.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/English_Writer/Golding,William/Lord_of_the_Flies.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Writer/English_Writer/Golding,William/Lord_of_the_Flies.secret|Lord_of_the_Flies.secret]] 
 

@@ -50,17 +50,17 @@ Commons_category: Principal component analysis
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Principal_Component_Analysis](/_Standards/Mathematics/Statistics/Correlation/Principal_Component_Analysis.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Statistics/Correlation/Principal_Component_Analysis|Principal_Component_Analysis]] 
 
-### #is_/same_as :: [Principal_Component_Analysis.public](/_public/Mathematics/Statistics/Correlation/Principal_Component_Analysis.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Statistics/Correlation/Principal_Component_Analysis.public|Principal_Component_Analysis.public]] 
 
-### #is_/same_as :: [Principal_Component_Analysis.internal](/_internal/Mathematics/Statistics/Correlation/Principal_Component_Analysis.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Statistics/Correlation/Principal_Component_Analysis.internal|Principal_Component_Analysis.internal]] 
 
-### #is_/same_as :: [Principal_Component_Analysis.protect](/_protect/Mathematics/Statistics/Correlation/Principal_Component_Analysis.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Statistics/Correlation/Principal_Component_Analysis.protect|Principal_Component_Analysis.protect]] 
 
-### #is_/same_as :: [Principal_Component_Analysis.private](/_private/Mathematics/Statistics/Correlation/Principal_Component_Analysis.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Statistics/Correlation/Principal_Component_Analysis.private|Principal_Component_Analysis.private]] 
 
-### #is_/same_as :: [Principal_Component_Analysis.personal](/_personal/Mathematics/Statistics/Correlation/Principal_Component_Analysis.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Statistics/Correlation/Principal_Component_Analysis.personal|Principal_Component_Analysis.personal]] 
 
-### #is_/same_as :: [Principal_Component_Analysis.secret](/_secret/Mathematics/Statistics/Correlation/Principal_Component_Analysis.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Statistics/Correlation/Principal_Component_Analysis.secret|Principal_Component_Analysis.secret]] 
 

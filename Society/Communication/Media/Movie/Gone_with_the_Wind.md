@@ -244,17 +244,17 @@ Wolfram_Language_entity_code: Entity["Movie", "GoneWithTheWind::55mm5"]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Gone_with_the_Wind](/_Standards/Society/Communication/Media/Movie/Gone_with_the_Wind.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Gone_with_the_Wind|Gone_with_the_Wind]] 
 
-### #is_/same_as :: [Gone_with_the_Wind.public](/_public/Society/Communication/Media/Movie/Gone_with_the_Wind.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Gone_with_the_Wind.public|Gone_with_the_Wind.public]] 
 
-### #is_/same_as :: [Gone_with_the_Wind.internal](/_internal/Society/Communication/Media/Movie/Gone_with_the_Wind.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Gone_with_the_Wind.internal|Gone_with_the_Wind.internal]] 
 
-### #is_/same_as :: [Gone_with_the_Wind.protect](/_protect/Society/Communication/Media/Movie/Gone_with_the_Wind.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Gone_with_the_Wind.protect|Gone_with_the_Wind.protect]] 
 
-### #is_/same_as :: [Gone_with_the_Wind.private](/_private/Society/Communication/Media/Movie/Gone_with_the_Wind.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Gone_with_the_Wind.private|Gone_with_the_Wind.private]] 
 
-### #is_/same_as :: [Gone_with_the_Wind.personal](/_personal/Society/Communication/Media/Movie/Gone_with_the_Wind.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Gone_with_the_Wind.personal|Gone_with_the_Wind.personal]] 
 
-### #is_/same_as :: [Gone_with_the_Wind.secret](/_secret/Society/Communication/Media/Movie/Gone_with_the_Wind.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Gone_with_the_Wind.secret|Gone_with_the_Wind.secret]] 
 

@@ -264,17 +264,17 @@ type: private_note
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Beatles](/_Standards/Society/Communication/Media/Music/Musician/Music~Band/Beatles.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Musician/Music~Band/Beatles|Beatles]] 
 
-### #is_/same_as :: [Beatles.public](/_public/Society/Communication/Media/Music/Musician/Music~Band/Beatles.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Musician/Music~Band/Beatles.public|Beatles.public]] 
 
-### #is_/same_as :: [Beatles.internal](/_internal/Society/Communication/Media/Music/Musician/Music~Band/Beatles.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Musician/Music~Band/Beatles.internal|Beatles.internal]] 
 
-### #is_/same_as :: [Beatles.protect](/_protect/Society/Communication/Media/Music/Musician/Music~Band/Beatles.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Musician/Music~Band/Beatles.protect|Beatles.protect]] 
 
-### #is_/same_as :: [Beatles.private](/_private/Society/Communication/Media/Music/Musician/Music~Band/Beatles.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Musician/Music~Band/Beatles.private|Beatles.private]] 
 
-### #is_/same_as :: [Beatles.personal](/_personal/Society/Communication/Media/Music/Musician/Music~Band/Beatles.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Musician/Music~Band/Beatles.personal|Beatles.personal]] 
 
-### #is_/same_as :: [Beatles.secret](/_secret/Society/Communication/Media/Music/Musician/Music~Band/Beatles.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Musician/Music~Band/Beatles.secret|Beatles.secret]] 
 

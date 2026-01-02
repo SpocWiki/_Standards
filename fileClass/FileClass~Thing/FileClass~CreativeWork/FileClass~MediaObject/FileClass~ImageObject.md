@@ -79,17 +79,17 @@ RepresentativeOfPage:: {"type":"Boolean","options":{}}
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~ImageObject](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject/FileClass~ImageObject.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject/FileClass~ImageObject|FileClass~ImageObject]] 
 
-### #is_/same_as :: [FileClass~ImageObject.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject/FileClass~ImageObject.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject/FileClass~ImageObject.public|FileClass~ImageObject.public]] 
 
-### #is_/same_as :: [FileClass~ImageObject.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject/FileClass~ImageObject.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject/FileClass~ImageObject.internal|FileClass~ImageObject.internal]] 
 
-### #is_/same_as :: [FileClass~ImageObject.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject/FileClass~ImageObject.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject/FileClass~ImageObject.protect|FileClass~ImageObject.protect]] 
 
-### #is_/same_as :: [FileClass~ImageObject.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject/FileClass~ImageObject.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject/FileClass~ImageObject.private|FileClass~ImageObject.private]] 
 
-### #is_/same_as :: [FileClass~ImageObject.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject/FileClass~ImageObject.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject/FileClass~ImageObject.personal|FileClass~ImageObject.personal]] 
 
-### #is_/same_as :: [FileClass~ImageObject.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject/FileClass~ImageObject.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject/FileClass~ImageObject.secret|FileClass~ImageObject.secret]] 
 

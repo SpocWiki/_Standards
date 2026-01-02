@@ -561,17 +561,17 @@ Capital :: [[Africa~North/Algeria/Counties/Alger/City/Algier=Algiers]]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Algeria](/_Standards/Earth/Continent/Africa/Africa~North/Algeria.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~North/Algeria|Algeria]] 
 
-### #is_/same_as :: [Algeria.public](/_public/Earth/Continent/Africa/Africa~North/Algeria.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~North/Algeria.public|Algeria.public]] 
 
-### #is_/same_as :: [Algeria.internal](/_internal/Earth/Continent/Africa/Africa~North/Algeria.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~North/Algeria.internal|Algeria.internal]] 
 
-### #is_/same_as :: [Algeria.protect](/_protect/Earth/Continent/Africa/Africa~North/Algeria.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~North/Algeria.protect|Algeria.protect]] 
 
-### #is_/same_as :: [Algeria.private](/_private/Earth/Continent/Africa/Africa~North/Algeria.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~North/Algeria.private|Algeria.private]] 
 
-### #is_/same_as :: [Algeria.personal](/_personal/Earth/Continent/Africa/Africa~North/Algeria.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~North/Algeria.personal|Algeria.personal]] 
 
-### #is_/same_as :: [Algeria.secret](/_secret/Earth/Continent/Africa/Africa~North/Algeria.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~North/Algeria.secret|Algeria.secret]] 
 

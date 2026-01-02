@@ -47,17 +47,17 @@ NumberedPosition:: {"type":"Number","options":{}}
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~OrganizationRole](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Role/FileClass~OrganizationRole.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Role/FileClass~OrganizationRole|FileClass~OrganizationRole]] 
 
-### #is_/same_as :: [FileClass~OrganizationRole.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Role/FileClass~OrganizationRole.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Role/FileClass~OrganizationRole.public|FileClass~OrganizationRole.public]] 
 
-### #is_/same_as :: [FileClass~OrganizationRole.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Role/FileClass~OrganizationRole.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Role/FileClass~OrganizationRole.internal|FileClass~OrganizationRole.internal]] 
 
-### #is_/same_as :: [FileClass~OrganizationRole.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Role/FileClass~OrganizationRole.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Role/FileClass~OrganizationRole.protect|FileClass~OrganizationRole.protect]] 
 
-### #is_/same_as :: [FileClass~OrganizationRole.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Role/FileClass~OrganizationRole.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Role/FileClass~OrganizationRole.private|FileClass~OrganizationRole.private]] 
 
-### #is_/same_as :: [FileClass~OrganizationRole.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Role/FileClass~OrganizationRole.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Role/FileClass~OrganizationRole.personal|FileClass~OrganizationRole.personal]] 
 
-### #is_/same_as :: [FileClass~OrganizationRole.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Role/FileClass~OrganizationRole.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Role/FileClass~OrganizationRole.secret|FileClass~OrganizationRole.secret]] 
 

@@ -23,17 +23,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Diophantine_Equation](/_Standards/Mathematics/Diophantine_Equation.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Diophantine_Equation|Diophantine_Equation]] 
 
-### #is_/same_as :: [Diophantine_Equation.public](/_public/Mathematics/Diophantine_Equation.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Diophantine_Equation.public|Diophantine_Equation.public]] 
 
-### #is_/same_as :: [Diophantine_Equation.internal](/_internal/Mathematics/Diophantine_Equation.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Diophantine_Equation.internal|Diophantine_Equation.internal]] 
 
-### #is_/same_as :: [Diophantine_Equation.protect](/_protect/Mathematics/Diophantine_Equation.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Diophantine_Equation.protect|Diophantine_Equation.protect]] 
 
-### #is_/same_as :: [Diophantine_Equation.private](/_private/Mathematics/Diophantine_Equation.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Diophantine_Equation.private|Diophantine_Equation.private]] 
 
-### #is_/same_as :: [Diophantine_Equation.personal](/_personal/Mathematics/Diophantine_Equation.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Diophantine_Equation.personal|Diophantine_Equation.personal]] 
 
-### #is_/same_as :: [Diophantine_Equation.secret](/_secret/Mathematics/Diophantine_Equation.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Diophantine_Equation.secret|Diophantine_Equation.secret]] 
 

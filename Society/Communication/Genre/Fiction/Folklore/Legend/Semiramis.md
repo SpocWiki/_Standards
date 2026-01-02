@@ -89,17 +89,17 @@ name_in_native_language:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Semiramis](/_Standards/Society/Communication/Genre/Fiction/Folklore/Legend/Semiramis.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Genre/Fiction/Folklore/Legend/Semiramis|Semiramis]] 
 
-### #is_/same_as :: [Semiramis.public](/_public/Society/Communication/Genre/Fiction/Folklore/Legend/Semiramis.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Genre/Fiction/Folklore/Legend/Semiramis.public|Semiramis.public]] 
 
-### #is_/same_as :: [Semiramis.internal](/_internal/Society/Communication/Genre/Fiction/Folklore/Legend/Semiramis.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Genre/Fiction/Folklore/Legend/Semiramis.internal|Semiramis.internal]] 
 
-### #is_/same_as :: [Semiramis.protect](/_protect/Society/Communication/Genre/Fiction/Folklore/Legend/Semiramis.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Genre/Fiction/Folklore/Legend/Semiramis.protect|Semiramis.protect]] 
 
-### #is_/same_as :: [Semiramis.private](/_private/Society/Communication/Genre/Fiction/Folklore/Legend/Semiramis.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Genre/Fiction/Folklore/Legend/Semiramis.private|Semiramis.private]] 
 
-### #is_/same_as :: [Semiramis.personal](/_personal/Society/Communication/Genre/Fiction/Folklore/Legend/Semiramis.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Genre/Fiction/Folklore/Legend/Semiramis.personal|Semiramis.personal]] 
 
-### #is_/same_as :: [Semiramis.secret](/_secret/Society/Communication/Genre/Fiction/Folklore/Legend/Semiramis.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Genre/Fiction/Folklore/Legend/Semiramis.secret|Semiramis.secret]] 
 

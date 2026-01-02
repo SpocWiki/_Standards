@@ -45,17 +45,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_value_for_monoisotopic_molecular_weight](/_Standards/schema-org/Property/has_value_for/has_value_for_monoisotopic_molecular_weight.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_value_for/has_value_for_monoisotopic_molecular_weight|has_value_for_monoisotopic_molecular_weight]] 
 
-### #is_/same_as :: [has_value_for_monoisotopic_molecular_weight.public](/_public/schema-org/Property/has_value_for/has_value_for_monoisotopic_molecular_weight.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/has_value_for/has_value_for_monoisotopic_molecular_weight.public|has_value_for_monoisotopic_molecular_weight.public]] 
 
-### #is_/same_as :: [has_value_for_monoisotopic_molecular_weight.internal](/_internal/schema-org/Property/has_value_for/has_value_for_monoisotopic_molecular_weight.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_value_for/has_value_for_monoisotopic_molecular_weight.internal|has_value_for_monoisotopic_molecular_weight.internal]] 
 
-### #is_/same_as :: [has_value_for_monoisotopic_molecular_weight.protect](/_protect/schema-org/Property/has_value_for/has_value_for_monoisotopic_molecular_weight.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_value_for/has_value_for_monoisotopic_molecular_weight.protect|has_value_for_monoisotopic_molecular_weight.protect]] 
 
-### #is_/same_as :: [has_value_for_monoisotopic_molecular_weight.private](/_private/schema-org/Property/has_value_for/has_value_for_monoisotopic_molecular_weight.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/has_value_for/has_value_for_monoisotopic_molecular_weight.private|has_value_for_monoisotopic_molecular_weight.private]] 
 
-### #is_/same_as :: [has_value_for_monoisotopic_molecular_weight.personal](/_personal/schema-org/Property/has_value_for/has_value_for_monoisotopic_molecular_weight.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_value_for/has_value_for_monoisotopic_molecular_weight.personal|has_value_for_monoisotopic_molecular_weight.personal]] 
 
-### #is_/same_as :: [has_value_for_monoisotopic_molecular_weight.secret](/_secret/schema-org/Property/has_value_for/has_value_for_monoisotopic_molecular_weight.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/has_value_for/has_value_for_monoisotopic_molecular_weight.secret|has_value_for_monoisotopic_molecular_weight.secret]] 
 

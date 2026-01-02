@@ -128,17 +128,17 @@ ISNI: "0000000083561989"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [McCarthy,John](/_Standards/Technology/IT/Computer_Science/Computer_Scientist/McCarthy,John.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Computer_Science/Computer_Scientist/McCarthy,John|McCarthy,John]] 
 
-### #is_/same_as :: [McCarthy,John.public](/_public/Technology/IT/Computer_Science/Computer_Scientist/McCarthy,John.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Computer_Science/Computer_Scientist/McCarthy,John.public|McCarthy,John.public]] 
 
-### #is_/same_as :: [McCarthy,John.internal](/_internal/Technology/IT/Computer_Science/Computer_Scientist/McCarthy,John.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Computer_Science/Computer_Scientist/McCarthy,John.internal|McCarthy,John.internal]] 
 
-### #is_/same_as :: [McCarthy,John.protect](/_protect/Technology/IT/Computer_Science/Computer_Scientist/McCarthy,John.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Computer_Science/Computer_Scientist/McCarthy,John.protect|McCarthy,John.protect]] 
 
-### #is_/same_as :: [McCarthy,John.private](/_private/Technology/IT/Computer_Science/Computer_Scientist/McCarthy,John.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Computer_Science/Computer_Scientist/McCarthy,John.private|McCarthy,John.private]] 
 
-### #is_/same_as :: [McCarthy,John.personal](/_personal/Technology/IT/Computer_Science/Computer_Scientist/McCarthy,John.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Computer_Science/Computer_Scientist/McCarthy,John.personal|McCarthy,John.personal]] 
 
-### #is_/same_as :: [McCarthy,John.secret](/_secret/Technology/IT/Computer_Science/Computer_Scientist/McCarthy,John.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Computer_Science/Computer_Scientist/McCarthy,John.secret|McCarthy,John.secret]] 
 

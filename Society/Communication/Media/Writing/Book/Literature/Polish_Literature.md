@@ -52,17 +52,17 @@ Krugosvet_article_archived_: kultura_i_obrazovanie/literatura/POLSKAYA_LITERATUR
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Polish_Literature](/_Standards/Society/Communication/Media/Writing/Book/Literature/Polish_Literature.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Literature/Polish_Literature|Polish_Literature]] 
 
-### #is_/same_as :: [Polish_Literature.public](/_public/Society/Communication/Media/Writing/Book/Literature/Polish_Literature.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Literature/Polish_Literature.public|Polish_Literature.public]] 
 
-### #is_/same_as :: [Polish_Literature.internal](/_internal/Society/Communication/Media/Writing/Book/Literature/Polish_Literature.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Literature/Polish_Literature.internal|Polish_Literature.internal]] 
 
-### #is_/same_as :: [Polish_Literature.protect](/_protect/Society/Communication/Media/Writing/Book/Literature/Polish_Literature.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Literature/Polish_Literature.protect|Polish_Literature.protect]] 
 
-### #is_/same_as :: [Polish_Literature.private](/_private/Society/Communication/Media/Writing/Book/Literature/Polish_Literature.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Literature/Polish_Literature.private|Polish_Literature.private]] 
 
-### #is_/same_as :: [Polish_Literature.personal](/_personal/Society/Communication/Media/Writing/Book/Literature/Polish_Literature.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Literature/Polish_Literature.personal|Polish_Literature.personal]] 
 
-### #is_/same_as :: [Polish_Literature.secret](/_secret/Society/Communication/Media/Writing/Book/Literature/Polish_Literature.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Literature/Polish_Literature.secret|Polish_Literature.secret]] 
 

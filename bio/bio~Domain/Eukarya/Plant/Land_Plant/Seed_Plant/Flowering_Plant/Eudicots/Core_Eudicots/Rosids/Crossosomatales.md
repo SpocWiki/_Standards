@@ -52,7 +52,7 @@ title: Crossosomatales
 
 
 ------------------------------------------------------------------------------ 
-![California rockflower, Crossosoma californicum](Crossosomatales/Crossosoma_californicum.jpg))
+![California rockflower, Crossosoma californicum](Crossosomatales/Crossosoma_californicum.jpg) 
 Scientific Name ::     Crossosoma californicum
 Location ::           Forrestal Quarry, Rancho Palos Verdes, \~560\' elev. (Los Angeles County, California, USA)
 Comments             California rockflower (Crossosomataceae)
@@ -62,13 +62,13 @@ Source Collection    [CalPhotos](http://calphotos.berkeley.edu/)
 Copyright ::            © 1990 [California Native Plant Society](mailto:dtibor@CNPS.org) 
 
 --------------------------------------------------------------------- 
-![Stachyurus chinensis](Crossosomatales/Stachyurus_chinensis.jpg))
+![Stachyurus chinensis](Crossosomatales/Stachyurus_chinensis.jpg) 
 Scientific Name ::  Stachyurus chinensis
 Comments          Stachyuraceae
 Copyright ::         © [Kurt Stüber](http://www.biolib.de/) 
 
 --------------------------------------------------------------------------------- 
-![Bladdernut, Staphylea bolanderi ](Crossosomatales/Staphylea_bolanderi.jpg))
+![Bladdernut, Staphylea bolanderi ](Crossosomatales/Staphylea_bolanderi.jpg) 
 Scientific Name ::     Staphylea bolanderi
 Location ::           California, USA
 Comments             Bladdernut (Staphyleaceae)
@@ -80,17 +80,17 @@ Copyright ::            © 1995 [Saint Mary\'s College of California](mailto:rpo
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Crossosomatales](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Crossosomatales.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Crossosomatales|Crossosomatales]] 
 
-### #is_/same_as :: [Crossosomatales.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Crossosomatales.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Crossosomatales.public|Crossosomatales.public]] 
 
-### #is_/same_as :: [Crossosomatales.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Crossosomatales.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Crossosomatales.internal|Crossosomatales.internal]] 
 
-### #is_/same_as :: [Crossosomatales.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Crossosomatales.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Crossosomatales.protect|Crossosomatales.protect]] 
 
-### #is_/same_as :: [Crossosomatales.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Crossosomatales.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Crossosomatales.private|Crossosomatales.private]] 
 
-### #is_/same_as :: [Crossosomatales.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Crossosomatales.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Crossosomatales.personal|Crossosomatales.personal]] 
 
-### #is_/same_as :: [Crossosomatales.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Crossosomatales.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Crossosomatales.secret|Crossosomatales.secret]] 
 

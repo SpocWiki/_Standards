@@ -65,17 +65,17 @@ the latter is the Property to assign the Value for this Dimension
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Longitude](/_Standards/Dimension/Angular_Dimension/Longitude.md) 
+### #is_/same_as :: [[/_Standards/Dimension/Angular_Dimension/Longitude|Longitude]] 
 
-### #is_/same_as :: [Longitude.public](/_public/Dimension/Angular_Dimension/Longitude.public.md) 
+### #is_/same_as :: [[/_public/Dimension/Angular_Dimension/Longitude.public|Longitude.public]] 
 
-### #is_/same_as :: [Longitude.internal](/_internal/Dimension/Angular_Dimension/Longitude.internal.md) 
+### #is_/same_as :: [[/_internal/Dimension/Angular_Dimension/Longitude.internal|Longitude.internal]] 
 
-### #is_/same_as :: [Longitude.protect](/_protect/Dimension/Angular_Dimension/Longitude.protect.md) 
+### #is_/same_as :: [[/_protect/Dimension/Angular_Dimension/Longitude.protect|Longitude.protect]] 
 
-### #is_/same_as :: [Longitude.private](/_private/Dimension/Angular_Dimension/Longitude.private.md) 
+### #is_/same_as :: [[/_private/Dimension/Angular_Dimension/Longitude.private|Longitude.private]] 
 
-### #is_/same_as :: [Longitude.personal](/_personal/Dimension/Angular_Dimension/Longitude.personal.md) 
+### #is_/same_as :: [[/_personal/Dimension/Angular_Dimension/Longitude.personal|Longitude.personal]] 
 
-### #is_/same_as :: [Longitude.secret](/_secret/Dimension/Angular_Dimension/Longitude.secret.md)
+### #is_/same_as :: [[/_secret/Dimension/Angular_Dimension/Longitude.secret|Longitude.secret]] 
 

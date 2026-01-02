@@ -42,17 +42,17 @@ Terminated.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Study_is_terminated](/_Standards/bio/Medicine/Medical_Enumeration/Medical_Study_Status/Study_is_terminated.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Enumeration/Medical_Study_Status/Study_is_terminated|Study_is_terminated]] 
 
-### #is_/same_as :: [Study_is_terminated.public](/_public/bio/Medicine/Medical_Enumeration/Medical_Study_Status/Study_is_terminated.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Enumeration/Medical_Study_Status/Study_is_terminated.public|Study_is_terminated.public]] 
 
-### #is_/same_as :: [Study_is_terminated.internal](/_internal/bio/Medicine/Medical_Enumeration/Medical_Study_Status/Study_is_terminated.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Enumeration/Medical_Study_Status/Study_is_terminated.internal|Study_is_terminated.internal]] 
 
-### #is_/same_as :: [Study_is_terminated.protect](/_protect/bio/Medicine/Medical_Enumeration/Medical_Study_Status/Study_is_terminated.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Enumeration/Medical_Study_Status/Study_is_terminated.protect|Study_is_terminated.protect]] 
 
-### #is_/same_as :: [Study_is_terminated.private](/_private/bio/Medicine/Medical_Enumeration/Medical_Study_Status/Study_is_terminated.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Enumeration/Medical_Study_Status/Study_is_terminated.private|Study_is_terminated.private]] 
 
-### #is_/same_as :: [Study_is_terminated.personal](/_personal/bio/Medicine/Medical_Enumeration/Medical_Study_Status/Study_is_terminated.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Enumeration/Medical_Study_Status/Study_is_terminated.personal|Study_is_terminated.personal]] 
 
-### #is_/same_as :: [Study_is_terminated.secret](/_secret/bio/Medicine/Medical_Enumeration/Medical_Study_Status/Study_is_terminated.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Enumeration/Medical_Study_Status/Study_is_terminated.secret|Study_is_terminated.secret]] 
 

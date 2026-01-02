@@ -26,17 +26,17 @@ Commons_category: Giant stars
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Giant_Star](/_Standards/Astronomy/Star/Giant_Star.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Star/Giant_Star|Giant_Star]] 
 
-### #is_/same_as :: [Giant_Star.public](/_public/Astronomy/Star/Giant_Star.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Star/Giant_Star.public|Giant_Star.public]] 
 
-### #is_/same_as :: [Giant_Star.internal](/_internal/Astronomy/Star/Giant_Star.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Star/Giant_Star.internal|Giant_Star.internal]] 
 
-### #is_/same_as :: [Giant_Star.protect](/_protect/Astronomy/Star/Giant_Star.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Star/Giant_Star.protect|Giant_Star.protect]] 
 
-### #is_/same_as :: [Giant_Star.private](/_private/Astronomy/Star/Giant_Star.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Star/Giant_Star.private|Giant_Star.private]] 
 
-### #is_/same_as :: [Giant_Star.personal](/_personal/Astronomy/Star/Giant_Star.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Star/Giant_Star.personal|Giant_Star.personal]] 
 
-### #is_/same_as :: [Giant_Star.secret](/_secret/Astronomy/Star/Giant_Star.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Star/Giant_Star.secret|Giant_Star.secret]] 
 

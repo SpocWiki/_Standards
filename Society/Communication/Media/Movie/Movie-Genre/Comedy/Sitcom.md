@@ -39,17 +39,17 @@ Dies hat zur Folge, dass Sitcoms prinzipiell eine eher konservative Ausrichtung 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sitcom](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Comedy/Sitcom.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Genre/Comedy/Sitcom|Sitcom]] 
 
-### #is_/same_as :: [Sitcom.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Comedy/Sitcom.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Genre/Comedy/Sitcom.public|Sitcom.public]] 
 
-### #is_/same_as :: [Sitcom.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Comedy/Sitcom.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Genre/Comedy/Sitcom.internal|Sitcom.internal]] 
 
-### #is_/same_as :: [Sitcom.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Comedy/Sitcom.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Genre/Comedy/Sitcom.protect|Sitcom.protect]] 
 
-### #is_/same_as :: [Sitcom.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Comedy/Sitcom.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Genre/Comedy/Sitcom.private|Sitcom.private]] 
 
-### #is_/same_as :: [Sitcom.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Comedy/Sitcom.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Genre/Comedy/Sitcom.personal|Sitcom.personal]] 
 
-### #is_/same_as :: [Sitcom.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Comedy/Sitcom.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Genre/Comedy/Sitcom.secret|Sitcom.secret]] 
 

@@ -62,17 +62,17 @@ Universal_Decimal_Classification: 341.326.12
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Espionage](/_Standards/Society/Military/Military_Operation/Espionage.md) 
+### #is_/same_as :: [[/_Standards/Society/Military/Military_Operation/Espionage|Espionage]] 
 
-### #is_/same_as :: [Espionage.public](/_public/Society/Military/Military_Operation/Espionage.public.md) 
+### #is_/same_as :: [[/_public/Society/Military/Military_Operation/Espionage.public|Espionage.public]] 
 
-### #is_/same_as :: [Espionage.internal](/_internal/Society/Military/Military_Operation/Espionage.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Military/Military_Operation/Espionage.internal|Espionage.internal]] 
 
-### #is_/same_as :: [Espionage.protect](/_protect/Society/Military/Military_Operation/Espionage.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Military/Military_Operation/Espionage.protect|Espionage.protect]] 
 
-### #is_/same_as :: [Espionage.private](/_private/Society/Military/Military_Operation/Espionage.private.md) 
+### #is_/same_as :: [[/_private/Society/Military/Military_Operation/Espionage.private|Espionage.private]] 
 
-### #is_/same_as :: [Espionage.personal](/_personal/Society/Military/Military_Operation/Espionage.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Military/Military_Operation/Espionage.personal|Espionage.personal]] 
 
-### #is_/same_as :: [Espionage.secret](/_secret/Society/Military/Military_Operation/Espionage.secret.md)
+### #is_/same_as :: [[/_secret/Society/Military/Military_Operation/Espionage.secret|Espionage.secret]] 
 

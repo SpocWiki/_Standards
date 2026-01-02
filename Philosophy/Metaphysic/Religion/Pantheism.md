@@ -59,17 +59,17 @@ Commons_category: Pantheism
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Pantheism](/_Standards/Philosophy/Metaphysic/Religion/Pantheism.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Pantheism|Pantheism]] 
 
-### #is_/same_as :: [Pantheism.public](/_public/Philosophy/Metaphysic/Religion/Pantheism.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Pantheism.public|Pantheism.public]] 
 
-### #is_/same_as :: [Pantheism.internal](/_internal/Philosophy/Metaphysic/Religion/Pantheism.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Pantheism.internal|Pantheism.internal]] 
 
-### #is_/same_as :: [Pantheism.protect](/_protect/Philosophy/Metaphysic/Religion/Pantheism.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Pantheism.protect|Pantheism.protect]] 
 
-### #is_/same_as :: [Pantheism.private](/_private/Philosophy/Metaphysic/Religion/Pantheism.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Pantheism.private|Pantheism.private]] 
 
-### #is_/same_as :: [Pantheism.personal](/_personal/Philosophy/Metaphysic/Religion/Pantheism.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Pantheism.personal|Pantheism.personal]] 
 
-### #is_/same_as :: [Pantheism.secret](/_secret/Philosophy/Metaphysic/Religion/Pantheism.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Pantheism.secret|Pantheism.secret]] 
 

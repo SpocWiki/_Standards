@@ -58,17 +58,17 @@ Unicode_character: 🧉
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Mate(Drink)](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Drink/Mate(Drink).md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Home_Economics/Cooking/Food/Drink/Mate(Drink)|Mate(Drink)]] 
 
-### #is_/same_as :: [Mate(Drink).public](/_public/Society/Economics/Home_Economics/Cooking/Food/Drink/Mate(Drink).public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Home_Economics/Cooking/Food/Drink/Mate(Drink).public|Mate(Drink).public]] 
 
-### #is_/same_as :: [Mate(Drink).internal](/_internal/Society/Economics/Home_Economics/Cooking/Food/Drink/Mate(Drink).internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Home_Economics/Cooking/Food/Drink/Mate(Drink).internal|Mate(Drink).internal]] 
 
-### #is_/same_as :: [Mate(Drink).protect](/_protect/Society/Economics/Home_Economics/Cooking/Food/Drink/Mate(Drink).protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Home_Economics/Cooking/Food/Drink/Mate(Drink).protect|Mate(Drink).protect]] 
 
-### #is_/same_as :: [Mate(Drink).private](/_private/Society/Economics/Home_Economics/Cooking/Food/Drink/Mate(Drink).private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Home_Economics/Cooking/Food/Drink/Mate(Drink).private|Mate(Drink).private]] 
 
-### #is_/same_as :: [Mate(Drink).personal](/_personal/Society/Economics/Home_Economics/Cooking/Food/Drink/Mate(Drink).personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Home_Economics/Cooking/Food/Drink/Mate(Drink).personal|Mate(Drink).personal]] 
 
-### #is_/same_as :: [Mate(Drink).secret](/_secret/Society/Economics/Home_Economics/Cooking/Food/Drink/Mate(Drink).secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Home_Economics/Cooking/Food/Drink/Mate(Drink).secret|Mate(Drink).secret]] 
 

@@ -26,17 +26,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Red_Bull](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Red_Bull.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Red_Bull|Red_Bull]] 
 
-### #is_/same_as :: [Red_Bull.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Red_Bull.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Red_Bull.public|Red_Bull.public]] 
 
-### #is_/same_as :: [Red_Bull.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Red_Bull.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Red_Bull.internal|Red_Bull.internal]] 
 
-### #is_/same_as :: [Red_Bull.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Red_Bull.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Red_Bull.protect|Red_Bull.protect]] 
 
-### #is_/same_as :: [Red_Bull.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Red_Bull.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Red_Bull.private|Red_Bull.private]] 
 
-### #is_/same_as :: [Red_Bull.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Red_Bull.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Red_Bull.personal|Red_Bull.personal]] 
 
-### #is_/same_as :: [Red_Bull.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Red_Bull.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Red_Bull.secret|Red_Bull.secret]] 
 

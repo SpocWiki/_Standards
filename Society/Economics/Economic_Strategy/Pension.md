@@ -30,17 +30,17 @@ This is exacerbated by inflation which makes earlier pension even more valuable.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Pension](/_Standards/Society/Economics/Economic_Strategy/Pension.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Economic_Strategy/Pension|Pension]] 
 
-### #is_/same_as :: [Pension.public](/_public/Society/Economics/Economic_Strategy/Pension.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Economic_Strategy/Pension.public|Pension.public]] 
 
-### #is_/same_as :: [Pension.internal](/_internal/Society/Economics/Economic_Strategy/Pension.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Economic_Strategy/Pension.internal|Pension.internal]] 
 
-### #is_/same_as :: [Pension.protect](/_protect/Society/Economics/Economic_Strategy/Pension.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Economic_Strategy/Pension.protect|Pension.protect]] 
 
-### #is_/same_as :: [Pension.private](/_private/Society/Economics/Economic_Strategy/Pension.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Economic_Strategy/Pension.private|Pension.private]] 
 
-### #is_/same_as :: [Pension.personal](/_personal/Society/Economics/Economic_Strategy/Pension.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Economic_Strategy/Pension.personal|Pension.personal]] 
 
-### #is_/same_as :: [Pension.secret](/_secret/Society/Economics/Economic_Strategy/Pension.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Economic_Strategy/Pension.secret|Pension.secret]] 
 

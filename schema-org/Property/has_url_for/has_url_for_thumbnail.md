@@ -47,17 +47,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_url_for_thumbnail](/_Standards/schema-org/Property/has_url_for/has_url_for_thumbnail.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_url_for/has_url_for_thumbnail|has_url_for_thumbnail]] 
 
-### #is_/same_as :: [has_url_for_thumbnail.public](/_public/schema-org/Property/has_url_for/has_url_for_thumbnail.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/has_url_for/has_url_for_thumbnail.public|has_url_for_thumbnail.public]] 
 
-### #is_/same_as :: [has_url_for_thumbnail.internal](/_internal/schema-org/Property/has_url_for/has_url_for_thumbnail.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_url_for/has_url_for_thumbnail.internal|has_url_for_thumbnail.internal]] 
 
-### #is_/same_as :: [has_url_for_thumbnail.protect](/_protect/schema-org/Property/has_url_for/has_url_for_thumbnail.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_url_for/has_url_for_thumbnail.protect|has_url_for_thumbnail.protect]] 
 
-### #is_/same_as :: [has_url_for_thumbnail.private](/_private/schema-org/Property/has_url_for/has_url_for_thumbnail.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/has_url_for/has_url_for_thumbnail.private|has_url_for_thumbnail.private]] 
 
-### #is_/same_as :: [has_url_for_thumbnail.personal](/_personal/schema-org/Property/has_url_for/has_url_for_thumbnail.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_url_for/has_url_for_thumbnail.personal|has_url_for_thumbnail.personal]] 
 
-### #is_/same_as :: [has_url_for_thumbnail.secret](/_secret/schema-org/Property/has_url_for/has_url_for_thumbnail.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/has_url_for/has_url_for_thumbnail.secret|has_url_for_thumbnail.secret]] 
 

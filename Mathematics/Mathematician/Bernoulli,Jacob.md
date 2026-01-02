@@ -114,17 +114,17 @@ date_of_birth:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bernoulli,Jacob](/_Standards/Mathematics/Mathematician/Bernoulli,Jacob.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Mathematician/Bernoulli,Jacob|Bernoulli,Jacob]] 
 
-### #is_/same_as :: [Bernoulli,Jacob.public](/_public/Mathematics/Mathematician/Bernoulli,Jacob.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Mathematician/Bernoulli,Jacob.public|Bernoulli,Jacob.public]] 
 
-### #is_/same_as :: [Bernoulli,Jacob.internal](/_internal/Mathematics/Mathematician/Bernoulli,Jacob.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Mathematician/Bernoulli,Jacob.internal|Bernoulli,Jacob.internal]] 
 
-### #is_/same_as :: [Bernoulli,Jacob.protect](/_protect/Mathematics/Mathematician/Bernoulli,Jacob.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Mathematician/Bernoulli,Jacob.protect|Bernoulli,Jacob.protect]] 
 
-### #is_/same_as :: [Bernoulli,Jacob.private](/_private/Mathematics/Mathematician/Bernoulli,Jacob.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Mathematician/Bernoulli,Jacob.private|Bernoulli,Jacob.private]] 
 
-### #is_/same_as :: [Bernoulli,Jacob.personal](/_personal/Mathematics/Mathematician/Bernoulli,Jacob.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Mathematician/Bernoulli,Jacob.personal|Bernoulli,Jacob.personal]] 
 
-### #is_/same_as :: [Bernoulli,Jacob.secret](/_secret/Mathematics/Mathematician/Bernoulli,Jacob.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Mathematician/Bernoulli,Jacob.secret|Bernoulli,Jacob.secret]] 
 

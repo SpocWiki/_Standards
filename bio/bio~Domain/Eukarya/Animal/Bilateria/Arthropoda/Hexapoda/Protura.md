@@ -5,7 +5,7 @@ title: Protura
 ---
 
 # [[Protura]] 
-![ ](Protura/DSCN1510.jpg))
+![ ](Protura/DSCN1510.jpg) 
 
 ## #has_/text_of_/abstract 
 
@@ -91,7 +91,7 @@ Other characteristics:
 ## Title Illustrations
 
 --------------------------------------------------------------------------- 
-![](Protura/DSCN1510.jpg))
+![](Protura/DSCN1510.jpg) 
 Scientific Name ::     Protura
 Location ::           USA: North Carolina: Durham
 Specimen Condition   Live Specimen
@@ -100,17 +100,17 @@ Copyright ::            © 2004 [David R. Maddison](http://david.bembidion.org/)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Protura](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Protura.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Protura|Protura]] 
 
-### #is_/same_as :: [Protura.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Protura.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Protura.public|Protura.public]] 
 
-### #is_/same_as :: [Protura.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Protura.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Protura.internal|Protura.internal]] 
 
-### #is_/same_as :: [Protura.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Protura.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Protura.protect|Protura.protect]] 
 
-### #is_/same_as :: [Protura.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Protura.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Protura.private|Protura.private]] 
 
-### #is_/same_as :: [Protura.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Protura.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Protura.personal|Protura.personal]] 
 
-### #is_/same_as :: [Protura.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Protura.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Protura.secret|Protura.secret]] 
 

@@ -67,17 +67,17 @@ Wolfram_Language_entity_type: PlanetaryMoon
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Natural_Satellite](/_Standards/Earth/Satellite/Natural_Satellite.md) 
+### #is_/same_as :: [[/_Standards/Earth/Satellite/Natural_Satellite|Natural_Satellite]] 
 
-### #is_/same_as :: [Natural_Satellite.public](/_public/Earth/Satellite/Natural_Satellite.public.md) 
+### #is_/same_as :: [[/_public/Earth/Satellite/Natural_Satellite.public|Natural_Satellite.public]] 
 
-### #is_/same_as :: [Natural_Satellite.internal](/_internal/Earth/Satellite/Natural_Satellite.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Satellite/Natural_Satellite.internal|Natural_Satellite.internal]] 
 
-### #is_/same_as :: [Natural_Satellite.protect](/_protect/Earth/Satellite/Natural_Satellite.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Satellite/Natural_Satellite.protect|Natural_Satellite.protect]] 
 
-### #is_/same_as :: [Natural_Satellite.private](/_private/Earth/Satellite/Natural_Satellite.private.md) 
+### #is_/same_as :: [[/_private/Earth/Satellite/Natural_Satellite.private|Natural_Satellite.private]] 
 
-### #is_/same_as :: [Natural_Satellite.personal](/_personal/Earth/Satellite/Natural_Satellite.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Satellite/Natural_Satellite.personal|Natural_Satellite.personal]] 
 
-### #is_/same_as :: [Natural_Satellite.secret](/_secret/Earth/Satellite/Natural_Satellite.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Satellite/Natural_Satellite.secret|Natural_Satellite.secret]] 
 

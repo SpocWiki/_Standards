@@ -44,17 +44,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Wright,Robin](/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Wright,Robin.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Wright,Robin|Wright,Robin]] 
 
-### #is_/same_as :: [Wright,Robin.public](/_public/Society/Communication/Media/Movie/Actor/US_Actor/Wright,Robin.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Actor/US_Actor/Wright,Robin.public|Wright,Robin.public]] 
 
-### #is_/same_as :: [Wright,Robin.internal](/_internal/Society/Communication/Media/Movie/Actor/US_Actor/Wright,Robin.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Actor/US_Actor/Wright,Robin.internal|Wright,Robin.internal]] 
 
-### #is_/same_as :: [Wright,Robin.protect](/_protect/Society/Communication/Media/Movie/Actor/US_Actor/Wright,Robin.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Actor/US_Actor/Wright,Robin.protect|Wright,Robin.protect]] 
 
-### #is_/same_as :: [Wright,Robin.private](/_private/Society/Communication/Media/Movie/Actor/US_Actor/Wright,Robin.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Actor/US_Actor/Wright,Robin.private|Wright,Robin.private]] 
 
-### #is_/same_as :: [Wright,Robin.personal](/_personal/Society/Communication/Media/Movie/Actor/US_Actor/Wright,Robin.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Actor/US_Actor/Wright,Robin.personal|Wright,Robin.personal]] 
 
-### #is_/same_as :: [Wright,Robin.secret](/_secret/Society/Communication/Media/Movie/Actor/US_Actor/Wright,Robin.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Actor/US_Actor/Wright,Robin.secret|Wright,Robin.secret]] 
 

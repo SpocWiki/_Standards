@@ -110,17 +110,17 @@ RTECS_number: WB4900000
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sodium_Hydroxide](/_Standards/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Hydroxide/Sodium_Hydroxide.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Hydroxide/Sodium_Hydroxide|Sodium_Hydroxide]] 
 
-### #is_/same_as :: [Sodium_Hydroxide.public](/_public/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Hydroxide/Sodium_Hydroxide.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Hydroxide/Sodium_Hydroxide.public|Sodium_Hydroxide.public]] 
 
-### #is_/same_as :: [Sodium_Hydroxide.internal](/_internal/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Hydroxide/Sodium_Hydroxide.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Hydroxide/Sodium_Hydroxide.internal|Sodium_Hydroxide.internal]] 
 
-### #is_/same_as :: [Sodium_Hydroxide.protect](/_protect/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Hydroxide/Sodium_Hydroxide.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Hydroxide/Sodium_Hydroxide.protect|Sodium_Hydroxide.protect]] 
 
-### #is_/same_as :: [Sodium_Hydroxide.private](/_private/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Hydroxide/Sodium_Hydroxide.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Hydroxide/Sodium_Hydroxide.private|Sodium_Hydroxide.private]] 
 
-### #is_/same_as :: [Sodium_Hydroxide.personal](/_personal/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Hydroxide/Sodium_Hydroxide.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Hydroxide/Sodium_Hydroxide.personal|Sodium_Hydroxide.personal]] 
 
-### #is_/same_as :: [Sodium_Hydroxide.secret](/_secret/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Hydroxide/Sodium_Hydroxide.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Hydroxide/Sodium_Hydroxide.secret|Sodium_Hydroxide.secret]] 
 

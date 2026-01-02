@@ -47,17 +47,17 @@ Krugosvet_article_archived_: nauka_i_tehnika/fizika/ULTRAZVUK.html
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ultrasound](/_Standards/Science/Physics/Wave/Acoustics/Sound/Ultrasound.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Wave/Acoustics/Sound/Ultrasound|Ultrasound]] 
 
-### #is_/same_as :: [Ultrasound.public](/_public/Science/Physics/Wave/Acoustics/Sound/Ultrasound.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Wave/Acoustics/Sound/Ultrasound.public|Ultrasound.public]] 
 
-### #is_/same_as :: [Ultrasound.internal](/_internal/Science/Physics/Wave/Acoustics/Sound/Ultrasound.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Wave/Acoustics/Sound/Ultrasound.internal|Ultrasound.internal]] 
 
-### #is_/same_as :: [Ultrasound.protect](/_protect/Science/Physics/Wave/Acoustics/Sound/Ultrasound.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Wave/Acoustics/Sound/Ultrasound.protect|Ultrasound.protect]] 
 
-### #is_/same_as :: [Ultrasound.private](/_private/Science/Physics/Wave/Acoustics/Sound/Ultrasound.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Wave/Acoustics/Sound/Ultrasound.private|Ultrasound.private]] 
 
-### #is_/same_as :: [Ultrasound.personal](/_personal/Science/Physics/Wave/Acoustics/Sound/Ultrasound.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Wave/Acoustics/Sound/Ultrasound.personal|Ultrasound.personal]] 
 
-### #is_/same_as :: [Ultrasound.secret](/_secret/Science/Physics/Wave/Acoustics/Sound/Ultrasound.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Wave/Acoustics/Sound/Ultrasound.secret|Ultrasound.secret]] 
 

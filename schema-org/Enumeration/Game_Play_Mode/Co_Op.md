@@ -42,17 +42,17 @@ Play mode: CoOp. Co-operative games, where you play on the same team with friend
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Co_Op](/_Standards/schema-org/Enumeration/Game_Play_Mode/Co_Op.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Game_Play_Mode/Co_Op|Co_Op]] 
 
-### #is_/same_as :: [Co_Op.public](/_public/schema-org/Enumeration/Game_Play_Mode/Co_Op.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Game_Play_Mode/Co_Op.public|Co_Op.public]] 
 
-### #is_/same_as :: [Co_Op.internal](/_internal/schema-org/Enumeration/Game_Play_Mode/Co_Op.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Game_Play_Mode/Co_Op.internal|Co_Op.internal]] 
 
-### #is_/same_as :: [Co_Op.protect](/_protect/schema-org/Enumeration/Game_Play_Mode/Co_Op.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Game_Play_Mode/Co_Op.protect|Co_Op.protect]] 
 
-### #is_/same_as :: [Co_Op.private](/_private/schema-org/Enumeration/Game_Play_Mode/Co_Op.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Game_Play_Mode/Co_Op.private|Co_Op.private]] 
 
-### #is_/same_as :: [Co_Op.personal](/_personal/schema-org/Enumeration/Game_Play_Mode/Co_Op.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Game_Play_Mode/Co_Op.personal|Co_Op.personal]] 
 
-### #is_/same_as :: [Co_Op.secret](/_secret/schema-org/Enumeration/Game_Play_Mode/Co_Op.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Game_Play_Mode/Co_Op.secret|Co_Op.secret]] 
 

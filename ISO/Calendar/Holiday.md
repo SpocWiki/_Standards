@@ -56,17 +56,17 @@ pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-Feier
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Holiday](/_Standards/ISO/Calendar/Holiday.md) 
+### #is_/same_as :: [[/_Standards/ISO/Calendar/Holiday|Holiday]] 
 
-### #is_/same_as :: [Holiday.public](/_public/ISO/Calendar/Holiday.public.md) 
+### #is_/same_as :: [[/_public/ISO/Calendar/Holiday.public|Holiday.public]] 
 
-### #is_/same_as :: [Holiday.internal](/_internal/ISO/Calendar/Holiday.internal.md) 
+### #is_/same_as :: [[/_internal/ISO/Calendar/Holiday.internal|Holiday.internal]] 
 
-### #is_/same_as :: [Holiday.protect](/_protect/ISO/Calendar/Holiday.protect.md) 
+### #is_/same_as :: [[/_protect/ISO/Calendar/Holiday.protect|Holiday.protect]] 
 
-### #is_/same_as :: [Holiday.private](/_private/ISO/Calendar/Holiday.private.md) 
+### #is_/same_as :: [[/_private/ISO/Calendar/Holiday.private|Holiday.private]] 
 
-### #is_/same_as :: [Holiday.personal](/_personal/ISO/Calendar/Holiday.personal.md) 
+### #is_/same_as :: [[/_personal/ISO/Calendar/Holiday.personal|Holiday.personal]] 
 
-### #is_/same_as :: [Holiday.secret](/_secret/ISO/Calendar/Holiday.secret.md)
+### #is_/same_as :: [[/_secret/ISO/Calendar/Holiday.secret|Holiday.secret]] 
 

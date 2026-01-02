@@ -67,17 +67,17 @@ official_name: Perseus
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Zodiac~Perseus](/_Standards/Astronomy/Star~Constellation/Zodiac~Perseus.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Star~Constellation/Zodiac~Perseus|Zodiac~Perseus]] 
 
-### #is_/same_as :: [Zodiac~Perseus.public](/_public/Astronomy/Star~Constellation/Zodiac~Perseus.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Star~Constellation/Zodiac~Perseus.public|Zodiac~Perseus.public]] 
 
-### #is_/same_as :: [Zodiac~Perseus.internal](/_internal/Astronomy/Star~Constellation/Zodiac~Perseus.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Star~Constellation/Zodiac~Perseus.internal|Zodiac~Perseus.internal]] 
 
-### #is_/same_as :: [Zodiac~Perseus.protect](/_protect/Astronomy/Star~Constellation/Zodiac~Perseus.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Star~Constellation/Zodiac~Perseus.protect|Zodiac~Perseus.protect]] 
 
-### #is_/same_as :: [Zodiac~Perseus.private](/_private/Astronomy/Star~Constellation/Zodiac~Perseus.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Star~Constellation/Zodiac~Perseus.private|Zodiac~Perseus.private]] 
 
-### #is_/same_as :: [Zodiac~Perseus.personal](/_personal/Astronomy/Star~Constellation/Zodiac~Perseus.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Star~Constellation/Zodiac~Perseus.personal|Zodiac~Perseus.personal]] 
 
-### #is_/same_as :: [Zodiac~Perseus.secret](/_secret/Astronomy/Star~Constellation/Zodiac~Perseus.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Star~Constellation/Zodiac~Perseus.secret|Zodiac~Perseus.secret]] 
 

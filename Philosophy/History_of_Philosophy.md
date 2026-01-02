@@ -47,17 +47,17 @@ Provenio_UUID: 998e0a6d-dc2e-4ca7-92ed-1f853a4faf6f
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [History_of_Philosophy](/_Standards/Philosophy/History_of_Philosophy.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/History_of_Philosophy|History_of_Philosophy]] 
 
-### #is_/same_as :: [History_of_Philosophy.public](/_public/Philosophy/History_of_Philosophy.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/History_of_Philosophy.public|History_of_Philosophy.public]] 
 
-### #is_/same_as :: [History_of_Philosophy.internal](/_internal/Philosophy/History_of_Philosophy.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/History_of_Philosophy.internal|History_of_Philosophy.internal]] 
 
-### #is_/same_as :: [History_of_Philosophy.protect](/_protect/Philosophy/History_of_Philosophy.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/History_of_Philosophy.protect|History_of_Philosophy.protect]] 
 
-### #is_/same_as :: [History_of_Philosophy.private](/_private/Philosophy/History_of_Philosophy.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/History_of_Philosophy.private|History_of_Philosophy.private]] 
 
-### #is_/same_as :: [History_of_Philosophy.personal](/_personal/Philosophy/History_of_Philosophy.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/History_of_Philosophy.personal|History_of_Philosophy.personal]] 
 
-### #is_/same_as :: [History_of_Philosophy.secret](/_secret/Philosophy/History_of_Philosophy.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/History_of_Philosophy.secret|History_of_Philosophy.secret]] 
 

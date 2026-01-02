@@ -21,17 +21,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Nuclear_Reactor](/_Standards/Technology/Energy-Technology/Nuclear_Power/Nuclear_Reactor.md) 
+### #is_/same_as :: [[/_Standards/Technology/Energy-Technology/Nuclear_Power/Nuclear_Reactor|Nuclear_Reactor]] 
 
-### #is_/same_as :: [Nuclear_Reactor.public](/_public/Technology/Energy-Technology/Nuclear_Power/Nuclear_Reactor.public.md) 
+### #is_/same_as :: [[/_public/Technology/Energy-Technology/Nuclear_Power/Nuclear_Reactor.public|Nuclear_Reactor.public]] 
 
-### #is_/same_as :: [Nuclear_Reactor.internal](/_internal/Technology/Energy-Technology/Nuclear_Power/Nuclear_Reactor.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Energy-Technology/Nuclear_Power/Nuclear_Reactor.internal|Nuclear_Reactor.internal]] 
 
-### #is_/same_as :: [Nuclear_Reactor.protect](/_protect/Technology/Energy-Technology/Nuclear_Power/Nuclear_Reactor.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Energy-Technology/Nuclear_Power/Nuclear_Reactor.protect|Nuclear_Reactor.protect]] 
 
-### #is_/same_as :: [Nuclear_Reactor.private](/_private/Technology/Energy-Technology/Nuclear_Power/Nuclear_Reactor.private.md) 
+### #is_/same_as :: [[/_private/Technology/Energy-Technology/Nuclear_Power/Nuclear_Reactor.private|Nuclear_Reactor.private]] 
 
-### #is_/same_as :: [Nuclear_Reactor.personal](/_personal/Technology/Energy-Technology/Nuclear_Power/Nuclear_Reactor.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Energy-Technology/Nuclear_Power/Nuclear_Reactor.personal|Nuclear_Reactor.personal]] 
 
-### #is_/same_as :: [Nuclear_Reactor.secret](/_secret/Technology/Energy-Technology/Nuclear_Power/Nuclear_Reactor.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Energy-Technology/Nuclear_Power/Nuclear_Reactor.secret|Nuclear_Reactor.secret]] 
 

@@ -55,17 +55,17 @@ UMLS_CUI: C0206763
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Group-16-Chalcogene](/_Standards/Chemistry/Chemical_Element/Group-16-Chalcogene.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Chemical_Element/Group-16-Chalcogene|Group-16-Chalcogene]] 
 
-### #is_/same_as :: [Group-16-Chalcogene.public](/_public/Chemistry/Chemical_Element/Group-16-Chalcogene.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Chemical_Element/Group-16-Chalcogene.public|Group-16-Chalcogene.public]] 
 
-### #is_/same_as :: [Group-16-Chalcogene.internal](/_internal/Chemistry/Chemical_Element/Group-16-Chalcogene.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Chemical_Element/Group-16-Chalcogene.internal|Group-16-Chalcogene.internal]] 
 
-### #is_/same_as :: [Group-16-Chalcogene.protect](/_protect/Chemistry/Chemical_Element/Group-16-Chalcogene.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Chemical_Element/Group-16-Chalcogene.protect|Group-16-Chalcogene.protect]] 
 
-### #is_/same_as :: [Group-16-Chalcogene.private](/_private/Chemistry/Chemical_Element/Group-16-Chalcogene.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Chemical_Element/Group-16-Chalcogene.private|Group-16-Chalcogene.private]] 
 
-### #is_/same_as :: [Group-16-Chalcogene.personal](/_personal/Chemistry/Chemical_Element/Group-16-Chalcogene.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Chemical_Element/Group-16-Chalcogene.personal|Group-16-Chalcogene.personal]] 
 
-### #is_/same_as :: [Group-16-Chalcogene.secret](/_secret/Chemistry/Chemical_Element/Group-16-Chalcogene.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Chemical_Element/Group-16-Chalcogene.secret|Group-16-Chalcogene.secret]] 
 

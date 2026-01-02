@@ -73,17 +73,17 @@ small_logo_or_icon: http://commons.wikimedia.org/wiki/Special:FilePath/Font%20Aw
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Dragon](/_Standards/Philosophy/Metaphysic/Religion/Mythology/Mythical_Creature/Dragon.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Mythology/Mythical_Creature/Dragon|Dragon]] 
 
-### #is_/same_as :: [Dragon.public](/_public/Philosophy/Metaphysic/Religion/Mythology/Mythical_Creature/Dragon.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Mythology/Mythical_Creature/Dragon.public|Dragon.public]] 
 
-### #is_/same_as :: [Dragon.internal](/_internal/Philosophy/Metaphysic/Religion/Mythology/Mythical_Creature/Dragon.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Mythology/Mythical_Creature/Dragon.internal|Dragon.internal]] 
 
-### #is_/same_as :: [Dragon.protect](/_protect/Philosophy/Metaphysic/Religion/Mythology/Mythical_Creature/Dragon.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Mythology/Mythical_Creature/Dragon.protect|Dragon.protect]] 
 
-### #is_/same_as :: [Dragon.private](/_private/Philosophy/Metaphysic/Religion/Mythology/Mythical_Creature/Dragon.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Mythology/Mythical_Creature/Dragon.private|Dragon.private]] 
 
-### #is_/same_as :: [Dragon.personal](/_personal/Philosophy/Metaphysic/Religion/Mythology/Mythical_Creature/Dragon.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Mythology/Mythical_Creature/Dragon.personal|Dragon.personal]] 
 
-### #is_/same_as :: [Dragon.secret](/_secret/Philosophy/Metaphysic/Religion/Mythology/Mythical_Creature/Dragon.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Mythology/Mythical_Creature/Dragon.secret|Dragon.secret]] 
 

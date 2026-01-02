@@ -74,17 +74,17 @@ UMLS_CUI: C0009372
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Colonialism](/_Standards/Society/Politics/Government/Colonialism.md) 
+### #is_/same_as :: [[/_Standards/Society/Politics/Government/Colonialism|Colonialism]] 
 
-### #is_/same_as :: [Colonialism.public](/_public/Society/Politics/Government/Colonialism.public.md) 
+### #is_/same_as :: [[/_public/Society/Politics/Government/Colonialism.public|Colonialism.public]] 
 
-### #is_/same_as :: [Colonialism.internal](/_internal/Society/Politics/Government/Colonialism.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Politics/Government/Colonialism.internal|Colonialism.internal]] 
 
-### #is_/same_as :: [Colonialism.protect](/_protect/Society/Politics/Government/Colonialism.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Politics/Government/Colonialism.protect|Colonialism.protect]] 
 
-### #is_/same_as :: [Colonialism.private](/_private/Society/Politics/Government/Colonialism.private.md) 
+### #is_/same_as :: [[/_private/Society/Politics/Government/Colonialism.private|Colonialism.private]] 
 
-### #is_/same_as :: [Colonialism.personal](/_personal/Society/Politics/Government/Colonialism.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Politics/Government/Colonialism.personal|Colonialism.personal]] 
 
-### #is_/same_as :: [Colonialism.secret](/_secret/Society/Politics/Government/Colonialism.secret.md)
+### #is_/same_as :: [[/_secret/Society/Politics/Government/Colonialism.secret|Colonialism.secret]] 
 

@@ -254,17 +254,17 @@ Europeana_entity: agent/base/146840
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Newton,Isaac](/_Standards/Science/Scientist/Early_Modern_Scientists/Newton,Isaac.md) 
+### #is_/same_as :: [[/_Standards/Science/Scientist/Early_Modern_Scientists/Newton,Isaac|Newton,Isaac]] 
 
-### #is_/same_as :: [Newton,Isaac.public](/_public/Science/Scientist/Early_Modern_Scientists/Newton,Isaac.public.md) 
+### #is_/same_as :: [[/_public/Science/Scientist/Early_Modern_Scientists/Newton,Isaac.public|Newton,Isaac.public]] 
 
-### #is_/same_as :: [Newton,Isaac.internal](/_internal/Science/Scientist/Early_Modern_Scientists/Newton,Isaac.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Scientist/Early_Modern_Scientists/Newton,Isaac.internal|Newton,Isaac.internal]] 
 
-### #is_/same_as :: [Newton,Isaac.protect](/_protect/Science/Scientist/Early_Modern_Scientists/Newton,Isaac.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Scientist/Early_Modern_Scientists/Newton,Isaac.protect|Newton,Isaac.protect]] 
 
-### #is_/same_as :: [Newton,Isaac.private](/_private/Science/Scientist/Early_Modern_Scientists/Newton,Isaac.private.md) 
+### #is_/same_as :: [[/_private/Science/Scientist/Early_Modern_Scientists/Newton,Isaac.private|Newton,Isaac.private]] 
 
-### #is_/same_as :: [Newton,Isaac.personal](/_personal/Science/Scientist/Early_Modern_Scientists/Newton,Isaac.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Scientist/Early_Modern_Scientists/Newton,Isaac.personal|Newton,Isaac.personal]] 
 
-### #is_/same_as :: [Newton,Isaac.secret](/_secret/Science/Scientist/Early_Modern_Scientists/Newton,Isaac.secret.md)
+### #is_/same_as :: [[/_secret/Science/Scientist/Early_Modern_Scientists/Newton,Isaac.secret|Newton,Isaac.secret]] 
 

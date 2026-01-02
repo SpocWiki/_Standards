@@ -34,17 +34,17 @@ Biology_Online_Biology_Dictionary_entry: noble-element
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Noble_metal](/_Standards/Chemistry/Chemical_Element/Noble_metal.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Chemical_Element/Noble_metal|Noble_metal]] 
 
-### #is_/same_as :: [Noble_metal.public](/_public/Chemistry/Chemical_Element/Noble_metal.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Chemical_Element/Noble_metal.public|Noble_metal.public]] 
 
-### #is_/same_as :: [Noble_metal.internal](/_internal/Chemistry/Chemical_Element/Noble_metal.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Chemical_Element/Noble_metal.internal|Noble_metal.internal]] 
 
-### #is_/same_as :: [Noble_metal.protect](/_protect/Chemistry/Chemical_Element/Noble_metal.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Chemical_Element/Noble_metal.protect|Noble_metal.protect]] 
 
-### #is_/same_as :: [Noble_metal.private](/_private/Chemistry/Chemical_Element/Noble_metal.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Chemical_Element/Noble_metal.private|Noble_metal.private]] 
 
-### #is_/same_as :: [Noble_metal.personal](/_personal/Chemistry/Chemical_Element/Noble_metal.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Chemical_Element/Noble_metal.personal|Noble_metal.personal]] 
 
-### #is_/same_as :: [Noble_metal.secret](/_secret/Chemistry/Chemical_Element/Noble_metal.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Chemical_Element/Noble_metal.secret|Noble_metal.secret]] 
 

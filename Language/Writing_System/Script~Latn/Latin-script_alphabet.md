@@ -73,17 +73,17 @@ Unicode_range:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Latin-script_alphabet](/_Standards/Language/Writing_System/Script~Latn/Latin-script_alphabet.md) 
+### #is_/same_as :: [[/_Standards/Language/Writing_System/Script~Latn/Latin-script_alphabet|Latin-script_alphabet]] 
 
-### #is_/same_as :: [Latin-script_alphabet.public](/_public/Language/Writing_System/Script~Latn/Latin-script_alphabet.public.md) 
+### #is_/same_as :: [[/_public/Language/Writing_System/Script~Latn/Latin-script_alphabet.public|Latin-script_alphabet.public]] 
 
-### #is_/same_as :: [Latin-script_alphabet.internal](/_internal/Language/Writing_System/Script~Latn/Latin-script_alphabet.internal.md) 
+### #is_/same_as :: [[/_internal/Language/Writing_System/Script~Latn/Latin-script_alphabet.internal|Latin-script_alphabet.internal]] 
 
-### #is_/same_as :: [Latin-script_alphabet.protect](/_protect/Language/Writing_System/Script~Latn/Latin-script_alphabet.protect.md) 
+### #is_/same_as :: [[/_protect/Language/Writing_System/Script~Latn/Latin-script_alphabet.protect|Latin-script_alphabet.protect]] 
 
-### #is_/same_as :: [Latin-script_alphabet.private](/_private/Language/Writing_System/Script~Latn/Latin-script_alphabet.private.md) 
+### #is_/same_as :: [[/_private/Language/Writing_System/Script~Latn/Latin-script_alphabet.private|Latin-script_alphabet.private]] 
 
-### #is_/same_as :: [Latin-script_alphabet.personal](/_personal/Language/Writing_System/Script~Latn/Latin-script_alphabet.personal.md) 
+### #is_/same_as :: [[/_personal/Language/Writing_System/Script~Latn/Latin-script_alphabet.personal|Latin-script_alphabet.personal]] 
 
-### #is_/same_as :: [Latin-script_alphabet.secret](/_secret/Language/Writing_System/Script~Latn/Latin-script_alphabet.secret.md)
+### #is_/same_as :: [[/_secret/Language/Writing_System/Script~Latn/Latin-script_alphabet.secret|Latin-script_alphabet.secret]] 
 

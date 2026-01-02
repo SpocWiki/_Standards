@@ -76,17 +76,17 @@ IPTC_NewsCode: mediatopic/20000428
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Waste](/_Standards/bio/Ecology/Waste_Management/Waste.md) 
+### #is_/same_as :: [[/_Standards/bio/Ecology/Waste_Management/Waste|Waste]] 
 
-### #is_/same_as :: [Waste.public](/_public/bio/Ecology/Waste_Management/Waste.public.md) 
+### #is_/same_as :: [[/_public/bio/Ecology/Waste_Management/Waste.public|Waste.public]] 
 
-### #is_/same_as :: [Waste.internal](/_internal/bio/Ecology/Waste_Management/Waste.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Ecology/Waste_Management/Waste.internal|Waste.internal]] 
 
-### #is_/same_as :: [Waste.protect](/_protect/bio/Ecology/Waste_Management/Waste.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Ecology/Waste_Management/Waste.protect|Waste.protect]] 
 
-### #is_/same_as :: [Waste.private](/_private/bio/Ecology/Waste_Management/Waste.private.md) 
+### #is_/same_as :: [[/_private/bio/Ecology/Waste_Management/Waste.private|Waste.private]] 
 
-### #is_/same_as :: [Waste.personal](/_personal/bio/Ecology/Waste_Management/Waste.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Ecology/Waste_Management/Waste.personal|Waste.personal]] 
 
-### #is_/same_as :: [Waste.secret](/_secret/bio/Ecology/Waste_Management/Waste.secret.md)
+### #is_/same_as :: [[/_secret/bio/Ecology/Waste_Management/Waste.secret|Waste.secret]] 
 

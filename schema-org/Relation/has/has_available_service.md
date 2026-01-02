@@ -40,17 +40,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_available_service](/_Standards/schema-org/Relation/has/has_available_service.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_available_service|has_available_service]] 
 
-### #is_/same_as :: [has_available_service.public](/_public/schema-org/Relation/has/has_available_service.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_available_service.public|has_available_service.public]] 
 
-### #is_/same_as :: [has_available_service.internal](/_internal/schema-org/Relation/has/has_available_service.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_available_service.internal|has_available_service.internal]] 
 
-### #is_/same_as :: [has_available_service.protect](/_protect/schema-org/Relation/has/has_available_service.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_available_service.protect|has_available_service.protect]] 
 
-### #is_/same_as :: [has_available_service.private](/_private/schema-org/Relation/has/has_available_service.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_available_service.private|has_available_service.private]] 
 
-### #is_/same_as :: [has_available_service.personal](/_personal/schema-org/Relation/has/has_available_service.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_available_service.personal|has_available_service.personal]] 
 
-### #is_/same_as :: [has_available_service.secret](/_secret/schema-org/Relation/has/has_available_service.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_available_service.secret|has_available_service.secret]] 
 

@@ -41,17 +41,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Activated_Carbon](/_Standards/Chemistry/Chemical_Element/Group-14-Carbon/Carbon/Activated_Carbon.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Chemical_Element/Group-14-Carbon/Carbon/Activated_Carbon|Activated_Carbon]] 
 
-### #is_/same_as :: [Activated_Carbon.public](/_public/Chemistry/Chemical_Element/Group-14-Carbon/Carbon/Activated_Carbon.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Chemical_Element/Group-14-Carbon/Carbon/Activated_Carbon.public|Activated_Carbon.public]] 
 
-### #is_/same_as :: [Activated_Carbon.internal](/_internal/Chemistry/Chemical_Element/Group-14-Carbon/Carbon/Activated_Carbon.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Chemical_Element/Group-14-Carbon/Carbon/Activated_Carbon.internal|Activated_Carbon.internal]] 
 
-### #is_/same_as :: [Activated_Carbon.protect](/_protect/Chemistry/Chemical_Element/Group-14-Carbon/Carbon/Activated_Carbon.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Chemical_Element/Group-14-Carbon/Carbon/Activated_Carbon.protect|Activated_Carbon.protect]] 
 
-### #is_/same_as :: [Activated_Carbon.private](/_private/Chemistry/Chemical_Element/Group-14-Carbon/Carbon/Activated_Carbon.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Chemical_Element/Group-14-Carbon/Carbon/Activated_Carbon.private|Activated_Carbon.private]] 
 
-### #is_/same_as :: [Activated_Carbon.personal](/_personal/Chemistry/Chemical_Element/Group-14-Carbon/Carbon/Activated_Carbon.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Chemical_Element/Group-14-Carbon/Carbon/Activated_Carbon.personal|Activated_Carbon.personal]] 
 
-### #is_/same_as :: [Activated_Carbon.secret](/_secret/Chemistry/Chemical_Element/Group-14-Carbon/Carbon/Activated_Carbon.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Chemical_Element/Group-14-Carbon/Carbon/Activated_Carbon.secret|Activated_Carbon.secret]] 
 

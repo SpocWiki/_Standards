@@ -56,17 +56,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [West,Kanye](/_Standards/Society/Communication/Media/Music/Musician/Rapper/West,Kanye.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Musician/Rapper/West,Kanye|West,Kanye]] 
 
-### #is_/same_as :: [West,Kanye.public](/_public/Society/Communication/Media/Music/Musician/Rapper/West,Kanye.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Musician/Rapper/West,Kanye.public|West,Kanye.public]] 
 
-### #is_/same_as :: [West,Kanye.internal](/_internal/Society/Communication/Media/Music/Musician/Rapper/West,Kanye.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Musician/Rapper/West,Kanye.internal|West,Kanye.internal]] 
 
-### #is_/same_as :: [West,Kanye.protect](/_protect/Society/Communication/Media/Music/Musician/Rapper/West,Kanye.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Musician/Rapper/West,Kanye.protect|West,Kanye.protect]] 
 
-### #is_/same_as :: [West,Kanye.private](/_private/Society/Communication/Media/Music/Musician/Rapper/West,Kanye.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Musician/Rapper/West,Kanye.private|West,Kanye.private]] 
 
-### #is_/same_as :: [West,Kanye.personal](/_personal/Society/Communication/Media/Music/Musician/Rapper/West,Kanye.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Musician/Rapper/West,Kanye.personal|West,Kanye.personal]] 
 
-### #is_/same_as :: [West,Kanye.secret](/_secret/Society/Communication/Media/Music/Musician/Rapper/West,Kanye.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Musician/Rapper/West,Kanye.secret|West,Kanye.secret]] 
 

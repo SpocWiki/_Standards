@@ -154,17 +154,17 @@ Wolfram_Language_entity_code: Entity["Concept", "Capitalism::qk623"]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Capitalism](/_Standards/Society/Ideology/Economic_Ideology/Capitalism.md) 
+### #is_/same_as :: [[/_Standards/Society/Ideology/Economic_Ideology/Capitalism|Capitalism]] 
 
-### #is_/same_as :: [Capitalism.public](/_public/Society/Ideology/Economic_Ideology/Capitalism.public.md) 
+### #is_/same_as :: [[/_public/Society/Ideology/Economic_Ideology/Capitalism.public|Capitalism.public]] 
 
-### #is_/same_as :: [Capitalism.internal](/_internal/Society/Ideology/Economic_Ideology/Capitalism.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Ideology/Economic_Ideology/Capitalism.internal|Capitalism.internal]] 
 
-### #is_/same_as :: [Capitalism.protect](/_protect/Society/Ideology/Economic_Ideology/Capitalism.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Ideology/Economic_Ideology/Capitalism.protect|Capitalism.protect]] 
 
-### #is_/same_as :: [Capitalism.private](/_private/Society/Ideology/Economic_Ideology/Capitalism.private.md) 
+### #is_/same_as :: [[/_private/Society/Ideology/Economic_Ideology/Capitalism.private|Capitalism.private]] 
 
-### #is_/same_as :: [Capitalism.personal](/_personal/Society/Ideology/Economic_Ideology/Capitalism.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Ideology/Economic_Ideology/Capitalism.personal|Capitalism.personal]] 
 
-### #is_/same_as :: [Capitalism.secret](/_secret/Society/Ideology/Economic_Ideology/Capitalism.secret.md)
+### #is_/same_as :: [[/_secret/Society/Ideology/Economic_Ideology/Capitalism.secret|Capitalism.secret]] 
 

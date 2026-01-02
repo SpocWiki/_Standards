@@ -69,17 +69,17 @@ MeSH_tree_code: G01.374.715
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Dim~Pressure](/_Standards/Dimension/Dim~Pressure.md) 
+### #is_/same_as :: [[/_Standards/Dimension/Dim~Pressure|Dim~Pressure]] 
 
-### #is_/same_as :: [Dim~Pressure.public](/_public/Dimension/Dim~Pressure.public.md) 
+### #is_/same_as :: [[/_public/Dimension/Dim~Pressure.public|Dim~Pressure.public]] 
 
-### #is_/same_as :: [Dim~Pressure.internal](/_internal/Dimension/Dim~Pressure.internal.md) 
+### #is_/same_as :: [[/_internal/Dimension/Dim~Pressure.internal|Dim~Pressure.internal]] 
 
-### #is_/same_as :: [Dim~Pressure.protect](/_protect/Dimension/Dim~Pressure.protect.md) 
+### #is_/same_as :: [[/_protect/Dimension/Dim~Pressure.protect|Dim~Pressure.protect]] 
 
-### #is_/same_as :: [Dim~Pressure.private](/_private/Dimension/Dim~Pressure.private.md) 
+### #is_/same_as :: [[/_private/Dimension/Dim~Pressure.private|Dim~Pressure.private]] 
 
-### #is_/same_as :: [Dim~Pressure.personal](/_personal/Dimension/Dim~Pressure.personal.md) 
+### #is_/same_as :: [[/_personal/Dimension/Dim~Pressure.personal|Dim~Pressure.personal]] 
 
-### #is_/same_as :: [Dim~Pressure.secret](/_secret/Dimension/Dim~Pressure.secret.md)
+### #is_/same_as :: [[/_secret/Dimension/Dim~Pressure.secret|Dim~Pressure.secret]] 
 

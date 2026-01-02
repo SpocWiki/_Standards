@@ -73,17 +73,17 @@ OpenStreetMap_tag: denomination=shia
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Shia_Islam](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Shia_Islam.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Shia_Islam|Shia_Islam]] 
 
-### #is_/same_as :: [Shia_Islam.public](/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Shia_Islam.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Shia_Islam.public|Shia_Islam.public]] 
 
-### #is_/same_as :: [Shia_Islam.internal](/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Shia_Islam.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Shia_Islam.internal|Shia_Islam.internal]] 
 
-### #is_/same_as :: [Shia_Islam.protect](/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Shia_Islam.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Shia_Islam.protect|Shia_Islam.protect]] 
 
-### #is_/same_as :: [Shia_Islam.private](/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Shia_Islam.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Shia_Islam.private|Shia_Islam.private]] 
 
-### #is_/same_as :: [Shia_Islam.personal](/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Shia_Islam.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Shia_Islam.personal|Shia_Islam.personal]] 
 
-### #is_/same_as :: [Shia_Islam.secret](/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Shia_Islam.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Shia_Islam.secret|Shia_Islam.secret]] 
 

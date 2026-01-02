@@ -275,17 +275,17 @@ Libris_URI: pm148zw7138dng9
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Veronese,Paolo](/_Standards/Society/Communication/Media/Painting/Painter/Renaissance_Painting/Veronese,Paolo.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Painting/Painter/Renaissance_Painting/Veronese,Paolo|Veronese,Paolo]] 
 
-### #is_/same_as :: [Veronese,Paolo.public](/_public/Society/Communication/Media/Painting/Painter/Renaissance_Painting/Veronese,Paolo.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Painting/Painter/Renaissance_Painting/Veronese,Paolo.public|Veronese,Paolo.public]] 
 
-### #is_/same_as :: [Veronese,Paolo.internal](/_internal/Society/Communication/Media/Painting/Painter/Renaissance_Painting/Veronese,Paolo.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Painting/Painter/Renaissance_Painting/Veronese,Paolo.internal|Veronese,Paolo.internal]] 
 
-### #is_/same_as :: [Veronese,Paolo.protect](/_protect/Society/Communication/Media/Painting/Painter/Renaissance_Painting/Veronese,Paolo.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Painting/Painter/Renaissance_Painting/Veronese,Paolo.protect|Veronese,Paolo.protect]] 
 
-### #is_/same_as :: [Veronese,Paolo.private](/_private/Society/Communication/Media/Painting/Painter/Renaissance_Painting/Veronese,Paolo.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Painting/Painter/Renaissance_Painting/Veronese,Paolo.private|Veronese,Paolo.private]] 
 
-### #is_/same_as :: [Veronese,Paolo.personal](/_personal/Society/Communication/Media/Painting/Painter/Renaissance_Painting/Veronese,Paolo.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Painting/Painter/Renaissance_Painting/Veronese,Paolo.personal|Veronese,Paolo.personal]] 
 
-### #is_/same_as :: [Veronese,Paolo.secret](/_secret/Society/Communication/Media/Painting/Painter/Renaissance_Painting/Veronese,Paolo.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Painting/Painter/Renaissance_Painting/Veronese,Paolo.secret|Veronese,Paolo.secret]] 
 

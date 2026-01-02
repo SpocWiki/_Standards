@@ -63,17 +63,17 @@ ServerStatus:: {"type":"Select","options":{"valuesList":{"OfflinePermanently","O
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~GameServer](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~GameServer.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~GameServer|FileClass~GameServer]] 
 
-### #is_/same_as :: [FileClass~GameServer.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~GameServer.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~GameServer.public|FileClass~GameServer.public]] 
 
-### #is_/same_as :: [FileClass~GameServer.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~GameServer.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~GameServer.internal|FileClass~GameServer.internal]] 
 
-### #is_/same_as :: [FileClass~GameServer.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~GameServer.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~GameServer.protect|FileClass~GameServer.protect]] 
 
-### #is_/same_as :: [FileClass~GameServer.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~GameServer.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~GameServer.private|FileClass~GameServer.private]] 
 
-### #is_/same_as :: [FileClass~GameServer.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~GameServer.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~GameServer.personal|FileClass~GameServer.personal]] 
 
-### #is_/same_as :: [FileClass~GameServer.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~GameServer.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~GameServer.secret|FileClass~GameServer.secret]] 
 

@@ -123,17 +123,17 @@ Workload:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thin
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~ExercisePlan](/_Standards/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~LifestyleModification/FileClass~PhysicalActivity/FileClass~CreativeWorkAndPhysicalActivity/FileClass~ExercisePlan.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~LifestyleModification/FileClass~PhysicalActivity/FileClass~CreativeWorkAndPhysicalActivity/FileClass~ExercisePlan|FileClass~ExercisePlan]] 
 
-### #is_/same_as :: [FileClass~ExercisePlan.public](/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~LifestyleModification/FileClass~PhysicalActivity/FileClass~CreativeWorkAndPhysicalActivity/FileClass~ExercisePlan.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~LifestyleModification/FileClass~PhysicalActivity/FileClass~CreativeWorkAndPhysicalActivity/FileClass~ExercisePlan.public|FileClass~ExercisePlan.public]] 
 
-### #is_/same_as :: [FileClass~ExercisePlan.internal](/_internal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~LifestyleModification/FileClass~PhysicalActivity/FileClass~CreativeWorkAndPhysicalActivity/FileClass~ExercisePlan.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~LifestyleModification/FileClass~PhysicalActivity/FileClass~CreativeWorkAndPhysicalActivity/FileClass~ExercisePlan.internal|FileClass~ExercisePlan.internal]] 
 
-### #is_/same_as :: [FileClass~ExercisePlan.protect](/_protect/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~LifestyleModification/FileClass~PhysicalActivity/FileClass~CreativeWorkAndPhysicalActivity/FileClass~ExercisePlan.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~LifestyleModification/FileClass~PhysicalActivity/FileClass~CreativeWorkAndPhysicalActivity/FileClass~ExercisePlan.protect|FileClass~ExercisePlan.protect]] 
 
-### #is_/same_as :: [FileClass~ExercisePlan.private](/_private/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~LifestyleModification/FileClass~PhysicalActivity/FileClass~CreativeWorkAndPhysicalActivity/FileClass~ExercisePlan.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~LifestyleModification/FileClass~PhysicalActivity/FileClass~CreativeWorkAndPhysicalActivity/FileClass~ExercisePlan.private|FileClass~ExercisePlan.private]] 
 
-### #is_/same_as :: [FileClass~ExercisePlan.personal](/_personal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~LifestyleModification/FileClass~PhysicalActivity/FileClass~CreativeWorkAndPhysicalActivity/FileClass~ExercisePlan.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~LifestyleModification/FileClass~PhysicalActivity/FileClass~CreativeWorkAndPhysicalActivity/FileClass~ExercisePlan.personal|FileClass~ExercisePlan.personal]] 
 
-### #is_/same_as :: [FileClass~ExercisePlan.secret](/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~LifestyleModification/FileClass~PhysicalActivity/FileClass~CreativeWorkAndPhysicalActivity/FileClass~ExercisePlan.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~LifestyleModification/FileClass~PhysicalActivity/FileClass~CreativeWorkAndPhysicalActivity/FileClass~ExercisePlan.secret|FileClass~ExercisePlan.secret]] 
 

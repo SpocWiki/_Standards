@@ -91,17 +91,17 @@ UMLS_CUI: C0085081
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Forestry](/_Standards/Society/Economics/Industry/Forestry.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Industry/Forestry|Forestry]] 
 
-### #is_/same_as :: [Forestry.public](/_public/Society/Economics/Industry/Forestry.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Industry/Forestry.public|Forestry.public]] 
 
-### #is_/same_as :: [Forestry.internal](/_internal/Society/Economics/Industry/Forestry.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Industry/Forestry.internal|Forestry.internal]] 
 
-### #is_/same_as :: [Forestry.protect](/_protect/Society/Economics/Industry/Forestry.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Industry/Forestry.protect|Forestry.protect]] 
 
-### #is_/same_as :: [Forestry.private](/_private/Society/Economics/Industry/Forestry.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Industry/Forestry.private|Forestry.private]] 
 
-### #is_/same_as :: [Forestry.personal](/_personal/Society/Economics/Industry/Forestry.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Industry/Forestry.personal|Forestry.personal]] 
 
-### #is_/same_as :: [Forestry.secret](/_secret/Society/Economics/Industry/Forestry.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Industry/Forestry.secret|Forestry.secret]] 
 

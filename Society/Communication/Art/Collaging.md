@@ -51,17 +51,17 @@ pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-Colla
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Collaging](/_Standards/Society/Communication/Art/Collaging.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Art/Collaging|Collaging]] 
 
-### #is_/same_as :: [Collaging.public](/_public/Society/Communication/Art/Collaging.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Art/Collaging.public|Collaging.public]] 
 
-### #is_/same_as :: [Collaging.internal](/_internal/Society/Communication/Art/Collaging.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Art/Collaging.internal|Collaging.internal]] 
 
-### #is_/same_as :: [Collaging.protect](/_protect/Society/Communication/Art/Collaging.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Art/Collaging.protect|Collaging.protect]] 
 
-### #is_/same_as :: [Collaging.private](/_private/Society/Communication/Art/Collaging.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Art/Collaging.private|Collaging.private]] 
 
-### #is_/same_as :: [Collaging.personal](/_personal/Society/Communication/Art/Collaging.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Art/Collaging.personal|Collaging.personal]] 
 
-### #is_/same_as :: [Collaging.secret](/_secret/Society/Communication/Art/Collaging.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Art/Collaging.secret|Collaging.secret]] 
 

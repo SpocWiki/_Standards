@@ -54,17 +54,17 @@ Dewey_Decimal_Classification:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Dynamite](/_Standards/Chemistry/Inorganic_Chemistry/Dynamite.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Inorganic_Chemistry/Dynamite|Dynamite]] 
 
-### #is_/same_as :: [Dynamite.public](/_public/Chemistry/Inorganic_Chemistry/Dynamite.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Inorganic_Chemistry/Dynamite.public|Dynamite.public]] 
 
-### #is_/same_as :: [Dynamite.internal](/_internal/Chemistry/Inorganic_Chemistry/Dynamite.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Inorganic_Chemistry/Dynamite.internal|Dynamite.internal]] 
 
-### #is_/same_as :: [Dynamite.protect](/_protect/Chemistry/Inorganic_Chemistry/Dynamite.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Inorganic_Chemistry/Dynamite.protect|Dynamite.protect]] 
 
-### #is_/same_as :: [Dynamite.private](/_private/Chemistry/Inorganic_Chemistry/Dynamite.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Inorganic_Chemistry/Dynamite.private|Dynamite.private]] 
 
-### #is_/same_as :: [Dynamite.personal](/_personal/Chemistry/Inorganic_Chemistry/Dynamite.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Inorganic_Chemistry/Dynamite.personal|Dynamite.personal]] 
 
-### #is_/same_as :: [Dynamite.secret](/_secret/Chemistry/Inorganic_Chemistry/Dynamite.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Inorganic_Chemistry/Dynamite.secret|Dynamite.secret]] 
 

@@ -101,17 +101,17 @@ date_of_birth: 1902-12-13T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Parsons,Talcott](/_Standards/Society/Anthropology/Sociology/Sociologist/Parsons,Talcott.md) 
+### #is_/same_as :: [[/_Standards/Society/Anthropology/Sociology/Sociologist/Parsons,Talcott|Parsons,Talcott]] 
 
-### #is_/same_as :: [Parsons,Talcott.public](/_public/Society/Anthropology/Sociology/Sociologist/Parsons,Talcott.public.md) 
+### #is_/same_as :: [[/_public/Society/Anthropology/Sociology/Sociologist/Parsons,Talcott.public|Parsons,Talcott.public]] 
 
-### #is_/same_as :: [Parsons,Talcott.internal](/_internal/Society/Anthropology/Sociology/Sociologist/Parsons,Talcott.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Anthropology/Sociology/Sociologist/Parsons,Talcott.internal|Parsons,Talcott.internal]] 
 
-### #is_/same_as :: [Parsons,Talcott.protect](/_protect/Society/Anthropology/Sociology/Sociologist/Parsons,Talcott.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Anthropology/Sociology/Sociologist/Parsons,Talcott.protect|Parsons,Talcott.protect]] 
 
-### #is_/same_as :: [Parsons,Talcott.private](/_private/Society/Anthropology/Sociology/Sociologist/Parsons,Talcott.private.md) 
+### #is_/same_as :: [[/_private/Society/Anthropology/Sociology/Sociologist/Parsons,Talcott.private|Parsons,Talcott.private]] 
 
-### #is_/same_as :: [Parsons,Talcott.personal](/_personal/Society/Anthropology/Sociology/Sociologist/Parsons,Talcott.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Anthropology/Sociology/Sociologist/Parsons,Talcott.personal|Parsons,Talcott.personal]] 
 
-### #is_/same_as :: [Parsons,Talcott.secret](/_secret/Society/Anthropology/Sociology/Sociologist/Parsons,Talcott.secret.md)
+### #is_/same_as :: [[/_secret/Society/Anthropology/Sociology/Sociologist/Parsons,Talcott.secret|Parsons,Talcott.secret]] 
 

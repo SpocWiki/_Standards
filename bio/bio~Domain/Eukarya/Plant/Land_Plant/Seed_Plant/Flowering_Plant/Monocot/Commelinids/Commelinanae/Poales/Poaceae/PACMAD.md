@@ -28,17 +28,17 @@ taxon_name: PACMAD clade
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [PACMAD](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinids/Commelinanae/Poales/Poaceae/PACMAD.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinids/Commelinanae/Poales/Poaceae/PACMAD|PACMAD]] 
 
-### #is_/same_as :: [PACMAD.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinids/Commelinanae/Poales/Poaceae/PACMAD.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinids/Commelinanae/Poales/Poaceae/PACMAD.public|PACMAD.public]] 
 
-### #is_/same_as :: [PACMAD.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinids/Commelinanae/Poales/Poaceae/PACMAD.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinids/Commelinanae/Poales/Poaceae/PACMAD.internal|PACMAD.internal]] 
 
-### #is_/same_as :: [PACMAD.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinids/Commelinanae/Poales/Poaceae/PACMAD.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinids/Commelinanae/Poales/Poaceae/PACMAD.protect|PACMAD.protect]] 
 
-### #is_/same_as :: [PACMAD.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinids/Commelinanae/Poales/Poaceae/PACMAD.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinids/Commelinanae/Poales/Poaceae/PACMAD.private|PACMAD.private]] 
 
-### #is_/same_as :: [PACMAD.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinids/Commelinanae/Poales/Poaceae/PACMAD.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinids/Commelinanae/Poales/Poaceae/PACMAD.personal|PACMAD.personal]] 
 
-### #is_/same_as :: [PACMAD.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinids/Commelinanae/Poales/Poaceae/PACMAD.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinids/Commelinanae/Poales/Poaceae/PACMAD.secret|PACMAD.secret]] 
 

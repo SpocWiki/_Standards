@@ -28,17 +28,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hindley–Milner_type-system](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Hindley–Milner_type-system.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Hindley–Milner_type-system|Hindley–Milner_type-system]] 
 
-### #is_/same_as :: [Hindley–Milner_type-system.public](/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Hindley–Milner_type-system.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Hindley–Milner_type-system.public|Hindley–Milner_type-system.public]] 
 
-### #is_/same_as :: [Hindley–Milner_type-system.internal](/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Hindley–Milner_type-system.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Hindley–Milner_type-system.internal|Hindley–Milner_type-system.internal]] 
 
-### #is_/same_as :: [Hindley–Milner_type-system.protect](/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Hindley–Milner_type-system.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Hindley–Milner_type-system.protect|Hindley–Milner_type-system.protect]] 
 
-### #is_/same_as :: [Hindley–Milner_type-system.private](/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Hindley–Milner_type-system.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Hindley–Milner_type-system.private|Hindley–Milner_type-system.private]] 
 
-### #is_/same_as :: [Hindley–Milner_type-system.personal](/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Hindley–Milner_type-system.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Hindley–Milner_type-system.personal|Hindley–Milner_type-system.personal]] 
 
-### #is_/same_as :: [Hindley–Milner_type-system.secret](/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Hindley–Milner_type-system.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Hindley–Milner_type-system.secret|Hindley–Milner_type-system.secret]] 
 

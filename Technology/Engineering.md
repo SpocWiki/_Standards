@@ -71,17 +71,17 @@ UMLS_CUI: C0014279
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Engineering](/_Standards/Technology/Engineering.md) 
+### #is_/same_as :: [[/_Standards/Technology/Engineering|Engineering]] 
 
-### #is_/same_as :: [Engineering.public](/_public/Technology/Engineering.public.md) 
+### #is_/same_as :: [[/_public/Technology/Engineering.public|Engineering.public]] 
 
-### #is_/same_as :: [Engineering.internal](/_internal/Technology/Engineering.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Engineering.internal|Engineering.internal]] 
 
-### #is_/same_as :: [Engineering.protect](/_protect/Technology/Engineering.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Engineering.protect|Engineering.protect]] 
 
-### #is_/same_as :: [Engineering.private](/_private/Technology/Engineering.private.md) 
+### #is_/same_as :: [[/_private/Technology/Engineering.private|Engineering.private]] 
 
-### #is_/same_as :: [Engineering.personal](/_personal/Technology/Engineering.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Engineering.personal|Engineering.personal]] 
 
-### #is_/same_as :: [Engineering.secret](/_secret/Technology/Engineering.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Engineering.secret|Engineering.secret]] 
 

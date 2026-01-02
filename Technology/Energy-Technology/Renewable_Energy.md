@@ -60,17 +60,17 @@ subreddit: RenewableEnergy
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Renewable_Energy](/_Standards/Technology/Energy-Technology/Renewable_Energy.md) 
+### #is_/same_as :: [[/_Standards/Technology/Energy-Technology/Renewable_Energy|Renewable_Energy]] 
 
-### #is_/same_as :: [Renewable_Energy.public](/_public/Technology/Energy-Technology/Renewable_Energy.public.md) 
+### #is_/same_as :: [[/_public/Technology/Energy-Technology/Renewable_Energy.public|Renewable_Energy.public]] 
 
-### #is_/same_as :: [Renewable_Energy.internal](/_internal/Technology/Energy-Technology/Renewable_Energy.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Energy-Technology/Renewable_Energy.internal|Renewable_Energy.internal]] 
 
-### #is_/same_as :: [Renewable_Energy.protect](/_protect/Technology/Energy-Technology/Renewable_Energy.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Energy-Technology/Renewable_Energy.protect|Renewable_Energy.protect]] 
 
-### #is_/same_as :: [Renewable_Energy.private](/_private/Technology/Energy-Technology/Renewable_Energy.private.md) 
+### #is_/same_as :: [[/_private/Technology/Energy-Technology/Renewable_Energy.private|Renewable_Energy.private]] 
 
-### #is_/same_as :: [Renewable_Energy.personal](/_personal/Technology/Energy-Technology/Renewable_Energy.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Energy-Technology/Renewable_Energy.personal|Renewable_Energy.personal]] 
 
-### #is_/same_as :: [Renewable_Energy.secret](/_secret/Technology/Energy-Technology/Renewable_Energy.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Energy-Technology/Renewable_Energy.secret|Renewable_Energy.secret]] 
 

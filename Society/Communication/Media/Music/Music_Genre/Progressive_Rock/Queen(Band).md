@@ -63,17 +63,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Queen(Band)](/_Standards/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Queen(Band).md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Queen(Band)|Queen(Band)]] 
 
-### #is_/same_as :: [Queen(Band).public](/_public/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Queen(Band).public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Queen(Band).public|Queen(Band).public]] 
 
-### #is_/same_as :: [Queen(Band).internal](/_internal/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Queen(Band).internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Queen(Band).internal|Queen(Band).internal]] 
 
-### #is_/same_as :: [Queen(Band).protect](/_protect/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Queen(Band).protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Queen(Band).protect|Queen(Band).protect]] 
 
-### #is_/same_as :: [Queen(Band).private](/_private/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Queen(Band).private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Queen(Band).private|Queen(Band).private]] 
 
-### #is_/same_as :: [Queen(Band).personal](/_personal/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Queen(Band).personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Queen(Band).personal|Queen(Band).personal]] 
 
-### #is_/same_as :: [Queen(Band).secret](/_secret/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Queen(Band).secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Queen(Band).secret|Queen(Band).secret]] 
 

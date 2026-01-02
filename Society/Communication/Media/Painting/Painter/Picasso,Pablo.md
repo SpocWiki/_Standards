@@ -416,17 +416,17 @@ Krugosvet_article_archived_: kultura_i_obrazovanie/izobrazitelnoe_iskusstvo/PIKA
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Picasso,Pablo](/_Standards/Society/Communication/Media/Painting/Painter/Picasso,Pablo.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Painting/Painter/Picasso,Pablo|Picasso,Pablo]] 
 
-### #is_/same_as :: [Picasso,Pablo.public](/_public/Society/Communication/Media/Painting/Painter/Picasso,Pablo.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Painting/Painter/Picasso,Pablo.public|Picasso,Pablo.public]] 
 
-### #is_/same_as :: [Picasso,Pablo.internal](/_internal/Society/Communication/Media/Painting/Painter/Picasso,Pablo.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Painting/Painter/Picasso,Pablo.internal|Picasso,Pablo.internal]] 
 
-### #is_/same_as :: [Picasso,Pablo.protect](/_protect/Society/Communication/Media/Painting/Painter/Picasso,Pablo.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Painting/Painter/Picasso,Pablo.protect|Picasso,Pablo.protect]] 
 
-### #is_/same_as :: [Picasso,Pablo.private](/_private/Society/Communication/Media/Painting/Painter/Picasso,Pablo.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Painting/Painter/Picasso,Pablo.private|Picasso,Pablo.private]] 
 
-### #is_/same_as :: [Picasso,Pablo.personal](/_personal/Society/Communication/Media/Painting/Painter/Picasso,Pablo.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Painting/Painter/Picasso,Pablo.personal|Picasso,Pablo.personal]] 
 
-### #is_/same_as :: [Picasso,Pablo.secret](/_secret/Society/Communication/Media/Painting/Painter/Picasso,Pablo.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Painting/Painter/Picasso,Pablo.secret|Picasso,Pablo.secret]] 
 

@@ -125,17 +125,17 @@ date_of_birth: 1943-12-18T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Richards,Keith](/_Standards/Society/Communication/Media/Music/Musician/Rock-Musician/Rolling_Stones/Richards,Keith.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Musician/Rock-Musician/Rolling_Stones/Richards,Keith|Richards,Keith]] 
 
-### #is_/same_as :: [Richards,Keith.public](/_public/Society/Communication/Media/Music/Musician/Rock-Musician/Rolling_Stones/Richards,Keith.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Musician/Rock-Musician/Rolling_Stones/Richards,Keith.public|Richards,Keith.public]] 
 
-### #is_/same_as :: [Richards,Keith.internal](/_internal/Society/Communication/Media/Music/Musician/Rock-Musician/Rolling_Stones/Richards,Keith.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Musician/Rock-Musician/Rolling_Stones/Richards,Keith.internal|Richards,Keith.internal]] 
 
-### #is_/same_as :: [Richards,Keith.protect](/_protect/Society/Communication/Media/Music/Musician/Rock-Musician/Rolling_Stones/Richards,Keith.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Musician/Rock-Musician/Rolling_Stones/Richards,Keith.protect|Richards,Keith.protect]] 
 
-### #is_/same_as :: [Richards,Keith.private](/_private/Society/Communication/Media/Music/Musician/Rock-Musician/Rolling_Stones/Richards,Keith.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Musician/Rock-Musician/Rolling_Stones/Richards,Keith.private|Richards,Keith.private]] 
 
-### #is_/same_as :: [Richards,Keith.personal](/_personal/Society/Communication/Media/Music/Musician/Rock-Musician/Rolling_Stones/Richards,Keith.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Musician/Rock-Musician/Rolling_Stones/Richards,Keith.personal|Richards,Keith.personal]] 
 
-### #is_/same_as :: [Richards,Keith.secret](/_secret/Society/Communication/Media/Music/Musician/Rock-Musician/Rolling_Stones/Richards,Keith.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Musician/Rock-Musician/Rolling_Stones/Richards,Keith.secret|Richards,Keith.secret]] 
 

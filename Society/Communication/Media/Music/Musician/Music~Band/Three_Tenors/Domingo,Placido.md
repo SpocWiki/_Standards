@@ -190,17 +190,17 @@ date_of_birth: 1941-01-21T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Domingo,Placido](/_Standards/Society/Communication/Media/Music/Musician/Music~Band/Three_Tenors/Domingo,Placido.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Musician/Music~Band/Three_Tenors/Domingo,Placido|Domingo,Placido]] 
 
-### #is_/same_as :: [Domingo,Placido.public](/_public/Society/Communication/Media/Music/Musician/Music~Band/Three_Tenors/Domingo,Placido.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Musician/Music~Band/Three_Tenors/Domingo,Placido.public|Domingo,Placido.public]] 
 
-### #is_/same_as :: [Domingo,Placido.internal](/_internal/Society/Communication/Media/Music/Musician/Music~Band/Three_Tenors/Domingo,Placido.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Musician/Music~Band/Three_Tenors/Domingo,Placido.internal|Domingo,Placido.internal]] 
 
-### #is_/same_as :: [Domingo,Placido.protect](/_protect/Society/Communication/Media/Music/Musician/Music~Band/Three_Tenors/Domingo,Placido.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Musician/Music~Band/Three_Tenors/Domingo,Placido.protect|Domingo,Placido.protect]] 
 
-### #is_/same_as :: [Domingo,Placido.private](/_private/Society/Communication/Media/Music/Musician/Music~Band/Three_Tenors/Domingo,Placido.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Musician/Music~Band/Three_Tenors/Domingo,Placido.private|Domingo,Placido.private]] 
 
-### #is_/same_as :: [Domingo,Placido.personal](/_personal/Society/Communication/Media/Music/Musician/Music~Band/Three_Tenors/Domingo,Placido.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Musician/Music~Band/Three_Tenors/Domingo,Placido.personal|Domingo,Placido.personal]] 
 
-### #is_/same_as :: [Domingo,Placido.secret](/_secret/Society/Communication/Media/Music/Musician/Music~Band/Three_Tenors/Domingo,Placido.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Musician/Music~Band/Three_Tenors/Domingo,Placido.secret|Domingo,Placido.secret]] 
 

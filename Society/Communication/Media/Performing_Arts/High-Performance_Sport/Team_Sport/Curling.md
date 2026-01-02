@@ -55,17 +55,17 @@ Baidu_Tieba_name: 冰壶
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Curling](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Curling.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Curling|Curling]] 
 
-### #is_/same_as :: [Curling.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Curling.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Curling.public|Curling.public]] 
 
-### #is_/same_as :: [Curling.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Curling.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Curling.internal|Curling.internal]] 
 
-### #is_/same_as :: [Curling.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Curling.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Curling.protect|Curling.protect]] 
 
-### #is_/same_as :: [Curling.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Curling.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Curling.private|Curling.private]] 
 
-### #is_/same_as :: [Curling.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Curling.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Curling.personal|Curling.personal]] 
 
-### #is_/same_as :: [Curling.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Curling.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Curling.secret|Curling.secret]] 
 

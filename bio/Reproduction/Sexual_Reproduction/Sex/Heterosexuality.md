@@ -61,17 +61,17 @@ IMDb_keyword: heterosexual-sex
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Heterosexuality](/_Standards/bio/Reproduction/Sexual_Reproduction/Sex/Heterosexuality.md) 
+### #is_/same_as :: [[/_Standards/bio/Reproduction/Sexual_Reproduction/Sex/Heterosexuality|Heterosexuality]] 
 
-### #is_/same_as :: [Heterosexuality.public](/_public/bio/Reproduction/Sexual_Reproduction/Sex/Heterosexuality.public.md) 
+### #is_/same_as :: [[/_public/bio/Reproduction/Sexual_Reproduction/Sex/Heterosexuality.public|Heterosexuality.public]] 
 
-### #is_/same_as :: [Heterosexuality.internal](/_internal/bio/Reproduction/Sexual_Reproduction/Sex/Heterosexuality.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Reproduction/Sexual_Reproduction/Sex/Heterosexuality.internal|Heterosexuality.internal]] 
 
-### #is_/same_as :: [Heterosexuality.protect](/_protect/bio/Reproduction/Sexual_Reproduction/Sex/Heterosexuality.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Reproduction/Sexual_Reproduction/Sex/Heterosexuality.protect|Heterosexuality.protect]] 
 
-### #is_/same_as :: [Heterosexuality.private](/_private/bio/Reproduction/Sexual_Reproduction/Sex/Heterosexuality.private.md) 
+### #is_/same_as :: [[/_private/bio/Reproduction/Sexual_Reproduction/Sex/Heterosexuality.private|Heterosexuality.private]] 
 
-### #is_/same_as :: [Heterosexuality.personal](/_personal/bio/Reproduction/Sexual_Reproduction/Sex/Heterosexuality.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Reproduction/Sexual_Reproduction/Sex/Heterosexuality.personal|Heterosexuality.personal]] 
 
-### #is_/same_as :: [Heterosexuality.secret](/_secret/bio/Reproduction/Sexual_Reproduction/Sex/Heterosexuality.secret.md)
+### #is_/same_as :: [[/_secret/bio/Reproduction/Sexual_Reproduction/Sex/Heterosexuality.secret|Heterosexuality.secret]] 
 

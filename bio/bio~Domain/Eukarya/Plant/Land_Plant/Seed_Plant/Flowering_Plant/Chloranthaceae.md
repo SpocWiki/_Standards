@@ -54,7 +54,7 @@ title: Chloranthaceae
 ## Title Illustrations
 
 -------------------------------------------------------- 
-![Sarcandra glabra](Chloranthaceae/Sarcandra_glabra.jpg))
+![Sarcandra glabra](Chloranthaceae/Sarcandra_glabra.jpg) 
 Scientific Name ::     Sarcandra glabra
 Specimen Condition   Live Specimen
 Body Part            fruits
@@ -76,17 +76,17 @@ Copyright ::           © 2001 [Nick Kurzenko](mailto:kurzenko@ibss.dvo.ru)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Chloranthaceae](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Chloranthaceae.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Chloranthaceae|Chloranthaceae]] 
 
-### #is_/same_as :: [Chloranthaceae.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Chloranthaceae.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Chloranthaceae.public|Chloranthaceae.public]] 
 
-### #is_/same_as :: [Chloranthaceae.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Chloranthaceae.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Chloranthaceae.internal|Chloranthaceae.internal]] 
 
-### #is_/same_as :: [Chloranthaceae.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Chloranthaceae.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Chloranthaceae.protect|Chloranthaceae.protect]] 
 
-### #is_/same_as :: [Chloranthaceae.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Chloranthaceae.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Chloranthaceae.private|Chloranthaceae.private]] 
 
-### #is_/same_as :: [Chloranthaceae.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Chloranthaceae.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Chloranthaceae.personal|Chloranthaceae.personal]] 
 
-### #is_/same_as :: [Chloranthaceae.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Chloranthaceae.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Chloranthaceae.secret|Chloranthaceae.secret]] 
 

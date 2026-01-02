@@ -193,17 +193,17 @@ Libris_URI: 31fhj8wm55gk2h8
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Handel,George_Frideric](/_Standards/Society/Communication/Media/Music/Composer/Baroque_Composers/Handel,George_Frideric.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Composer/Baroque_Composers/Handel,George_Frideric|Handel,George_Frideric]] 
 
-### #is_/same_as :: [Handel,George_Frideric.public](/_public/Society/Communication/Media/Music/Composer/Baroque_Composers/Handel,George_Frideric.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Composer/Baroque_Composers/Handel,George_Frideric.public|Handel,George_Frideric.public]] 
 
-### #is_/same_as :: [Handel,George_Frideric.internal](/_internal/Society/Communication/Media/Music/Composer/Baroque_Composers/Handel,George_Frideric.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Composer/Baroque_Composers/Handel,George_Frideric.internal|Handel,George_Frideric.internal]] 
 
-### #is_/same_as :: [Handel,George_Frideric.protect](/_protect/Society/Communication/Media/Music/Composer/Baroque_Composers/Handel,George_Frideric.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Composer/Baroque_Composers/Handel,George_Frideric.protect|Handel,George_Frideric.protect]] 
 
-### #is_/same_as :: [Handel,George_Frideric.private](/_private/Society/Communication/Media/Music/Composer/Baroque_Composers/Handel,George_Frideric.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Composer/Baroque_Composers/Handel,George_Frideric.private|Handel,George_Frideric.private]] 
 
-### #is_/same_as :: [Handel,George_Frideric.personal](/_personal/Society/Communication/Media/Music/Composer/Baroque_Composers/Handel,George_Frideric.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Composer/Baroque_Composers/Handel,George_Frideric.personal|Handel,George_Frideric.personal]] 
 
-### #is_/same_as :: [Handel,George_Frideric.secret](/_secret/Society/Communication/Media/Music/Composer/Baroque_Composers/Handel,George_Frideric.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Composer/Baroque_Composers/Handel,George_Frideric.secret|Handel,George_Frideric.secret]] 
 

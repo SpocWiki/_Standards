@@ -98,17 +98,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Suva](/_Standards/Earth/Continent/Australasia/Melanesia/Fiji/Divisions~Fiji/Fiji~Central/counties~Central/Rewa/Suva.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Australasia/Melanesia/Fiji/Divisions~Fiji/Fiji~Central/counties~Central/Rewa/Suva|Suva]] 
 
-### #is_/same_as :: [Suva.public](/_public/Earth/Continent/Australasia/Melanesia/Fiji/Divisions~Fiji/Fiji~Central/counties~Central/Rewa/Suva.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Australasia/Melanesia/Fiji/Divisions~Fiji/Fiji~Central/counties~Central/Rewa/Suva.public|Suva.public]] 
 
-### #is_/same_as :: [Suva.internal](/_internal/Earth/Continent/Australasia/Melanesia/Fiji/Divisions~Fiji/Fiji~Central/counties~Central/Rewa/Suva.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Australasia/Melanesia/Fiji/Divisions~Fiji/Fiji~Central/counties~Central/Rewa/Suva.internal|Suva.internal]] 
 
-### #is_/same_as :: [Suva.protect](/_protect/Earth/Continent/Australasia/Melanesia/Fiji/Divisions~Fiji/Fiji~Central/counties~Central/Rewa/Suva.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Australasia/Melanesia/Fiji/Divisions~Fiji/Fiji~Central/counties~Central/Rewa/Suva.protect|Suva.protect]] 
 
-### #is_/same_as :: [Suva.private](/_private/Earth/Continent/Australasia/Melanesia/Fiji/Divisions~Fiji/Fiji~Central/counties~Central/Rewa/Suva.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Australasia/Melanesia/Fiji/Divisions~Fiji/Fiji~Central/counties~Central/Rewa/Suva.private|Suva.private]] 
 
-### #is_/same_as :: [Suva.personal](/_personal/Earth/Continent/Australasia/Melanesia/Fiji/Divisions~Fiji/Fiji~Central/counties~Central/Rewa/Suva.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Australasia/Melanesia/Fiji/Divisions~Fiji/Fiji~Central/counties~Central/Rewa/Suva.personal|Suva.personal]] 
 
-### #is_/same_as :: [Suva.secret](/_secret/Earth/Continent/Australasia/Melanesia/Fiji/Divisions~Fiji/Fiji~Central/counties~Central/Rewa/Suva.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Australasia/Melanesia/Fiji/Divisions~Fiji/Fiji~Central/counties~Central/Rewa/Suva.secret|Suva.secret]] 
 

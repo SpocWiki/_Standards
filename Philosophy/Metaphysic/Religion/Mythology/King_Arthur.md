@@ -52,17 +52,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [King_Arthur](/_Standards/Philosophy/Metaphysic/Religion/Mythology/King_Arthur.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Mythology/King_Arthur|King_Arthur]] 
 
-### #is_/same_as :: [King_Arthur.public](/_public/Philosophy/Metaphysic/Religion/Mythology/King_Arthur.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Mythology/King_Arthur.public|King_Arthur.public]] 
 
-### #is_/same_as :: [King_Arthur.internal](/_internal/Philosophy/Metaphysic/Religion/Mythology/King_Arthur.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Mythology/King_Arthur.internal|King_Arthur.internal]] 
 
-### #is_/same_as :: [King_Arthur.protect](/_protect/Philosophy/Metaphysic/Religion/Mythology/King_Arthur.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Mythology/King_Arthur.protect|King_Arthur.protect]] 
 
-### #is_/same_as :: [King_Arthur.private](/_private/Philosophy/Metaphysic/Religion/Mythology/King_Arthur.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Mythology/King_Arthur.private|King_Arthur.private]] 
 
-### #is_/same_as :: [King_Arthur.personal](/_personal/Philosophy/Metaphysic/Religion/Mythology/King_Arthur.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Mythology/King_Arthur.personal|King_Arthur.personal]] 
 
-### #is_/same_as :: [King_Arthur.secret](/_secret/Philosophy/Metaphysic/Religion/Mythology/King_Arthur.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Mythology/King_Arthur.secret|King_Arthur.secret]] 
 

@@ -202,17 +202,17 @@ Dewey_Decimal_Classification:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Yellow_Fever](/_Standards/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Yellow_Fever.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Yellow_Fever|Yellow_Fever]] 
 
-### #is_/same_as :: [Yellow_Fever.public](/_public/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Yellow_Fever.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Yellow_Fever.public|Yellow_Fever.public]] 
 
-### #is_/same_as :: [Yellow_Fever.internal](/_internal/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Yellow_Fever.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Yellow_Fever.internal|Yellow_Fever.internal]] 
 
-### #is_/same_as :: [Yellow_Fever.protect](/_protect/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Yellow_Fever.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Yellow_Fever.protect|Yellow_Fever.protect]] 
 
-### #is_/same_as :: [Yellow_Fever.private](/_private/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Yellow_Fever.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Yellow_Fever.private|Yellow_Fever.private]] 
 
-### #is_/same_as :: [Yellow_Fever.personal](/_personal/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Yellow_Fever.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Yellow_Fever.personal|Yellow_Fever.personal]] 
 
-### #is_/same_as :: [Yellow_Fever.secret](/_secret/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Yellow_Fever.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Yellow_Fever.secret|Yellow_Fever.secret]] 
 

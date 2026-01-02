@@ -47,17 +47,17 @@ Commons_category: Marbles
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Marble(Toy)](/_Standards/Society/Communication/Media/Creative_Work/Game/Toy/Marble(Toy).md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Creative_Work/Game/Toy/Marble(Toy)|Marble(Toy)]] 
 
-### #is_/same_as :: [Marble(Toy).public](/_public/Society/Communication/Media/Creative_Work/Game/Toy/Marble(Toy).public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Creative_Work/Game/Toy/Marble(Toy).public|Marble(Toy).public]] 
 
-### #is_/same_as :: [Marble(Toy).internal](/_internal/Society/Communication/Media/Creative_Work/Game/Toy/Marble(Toy).internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Creative_Work/Game/Toy/Marble(Toy).internal|Marble(Toy).internal]] 
 
-### #is_/same_as :: [Marble(Toy).protect](/_protect/Society/Communication/Media/Creative_Work/Game/Toy/Marble(Toy).protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Creative_Work/Game/Toy/Marble(Toy).protect|Marble(Toy).protect]] 
 
-### #is_/same_as :: [Marble(Toy).private](/_private/Society/Communication/Media/Creative_Work/Game/Toy/Marble(Toy).private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Creative_Work/Game/Toy/Marble(Toy).private|Marble(Toy).private]] 
 
-### #is_/same_as :: [Marble(Toy).personal](/_personal/Society/Communication/Media/Creative_Work/Game/Toy/Marble(Toy).personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/Game/Toy/Marble(Toy).personal|Marble(Toy).personal]] 
 
-### #is_/same_as :: [Marble(Toy).secret](/_secret/Society/Communication/Media/Creative_Work/Game/Toy/Marble(Toy).secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Game/Toy/Marble(Toy).secret|Marble(Toy).secret]] 
 

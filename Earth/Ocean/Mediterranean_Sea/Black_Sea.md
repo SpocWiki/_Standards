@@ -255,17 +255,17 @@ MeSH_tree_code: Z01.756.217
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Black_Sea](/_Standards/Earth/Ocean/Mediterranean_Sea/Black_Sea.md) 
+### #is_/same_as :: [[/_Standards/Earth/Ocean/Mediterranean_Sea/Black_Sea|Black_Sea]] 
 
-### #is_/same_as :: [Black_Sea.public](/_public/Earth/Ocean/Mediterranean_Sea/Black_Sea.public.md) 
+### #is_/same_as :: [[/_public/Earth/Ocean/Mediterranean_Sea/Black_Sea.public|Black_Sea.public]] 
 
-### #is_/same_as :: [Black_Sea.internal](/_internal/Earth/Ocean/Mediterranean_Sea/Black_Sea.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Ocean/Mediterranean_Sea/Black_Sea.internal|Black_Sea.internal]] 
 
-### #is_/same_as :: [Black_Sea.protect](/_protect/Earth/Ocean/Mediterranean_Sea/Black_Sea.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Ocean/Mediterranean_Sea/Black_Sea.protect|Black_Sea.protect]] 
 
-### #is_/same_as :: [Black_Sea.private](/_private/Earth/Ocean/Mediterranean_Sea/Black_Sea.private.md) 
+### #is_/same_as :: [[/_private/Earth/Ocean/Mediterranean_Sea/Black_Sea.private|Black_Sea.private]] 
 
-### #is_/same_as :: [Black_Sea.personal](/_personal/Earth/Ocean/Mediterranean_Sea/Black_Sea.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Ocean/Mediterranean_Sea/Black_Sea.personal|Black_Sea.personal]] 
 
-### #is_/same_as :: [Black_Sea.secret](/_secret/Earth/Ocean/Mediterranean_Sea/Black_Sea.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Ocean/Mediterranean_Sea/Black_Sea.secret|Black_Sea.secret]] 
 

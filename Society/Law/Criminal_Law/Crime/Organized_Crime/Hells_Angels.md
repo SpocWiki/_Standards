@@ -48,17 +48,17 @@ Instagram_username: hellsangelsmcworld_official
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hells_Angels](/_Standards/Society/Law/Criminal_Law/Crime/Organized_Crime/Hells_Angels.md) 
+### #is_/same_as :: [[/_Standards/Society/Law/Criminal_Law/Crime/Organized_Crime/Hells_Angels|Hells_Angels]] 
 
-### #is_/same_as :: [Hells_Angels.public](/_public/Society/Law/Criminal_Law/Crime/Organized_Crime/Hells_Angels.public.md) 
+### #is_/same_as :: [[/_public/Society/Law/Criminal_Law/Crime/Organized_Crime/Hells_Angels.public|Hells_Angels.public]] 
 
-### #is_/same_as :: [Hells_Angels.internal](/_internal/Society/Law/Criminal_Law/Crime/Organized_Crime/Hells_Angels.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Law/Criminal_Law/Crime/Organized_Crime/Hells_Angels.internal|Hells_Angels.internal]] 
 
-### #is_/same_as :: [Hells_Angels.protect](/_protect/Society/Law/Criminal_Law/Crime/Organized_Crime/Hells_Angels.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Law/Criminal_Law/Crime/Organized_Crime/Hells_Angels.protect|Hells_Angels.protect]] 
 
-### #is_/same_as :: [Hells_Angels.private](/_private/Society/Law/Criminal_Law/Crime/Organized_Crime/Hells_Angels.private.md) 
+### #is_/same_as :: [[/_private/Society/Law/Criminal_Law/Crime/Organized_Crime/Hells_Angels.private|Hells_Angels.private]] 
 
-### #is_/same_as :: [Hells_Angels.personal](/_personal/Society/Law/Criminal_Law/Crime/Organized_Crime/Hells_Angels.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Law/Criminal_Law/Crime/Organized_Crime/Hells_Angels.personal|Hells_Angels.personal]] 
 
-### #is_/same_as :: [Hells_Angels.secret](/_secret/Society/Law/Criminal_Law/Crime/Organized_Crime/Hells_Angels.secret.md)
+### #is_/same_as :: [[/_secret/Society/Law/Criminal_Law/Crime/Organized_Crime/Hells_Angels.secret|Hells_Angels.secret]] 
 

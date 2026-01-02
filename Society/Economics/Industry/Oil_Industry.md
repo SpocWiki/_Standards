@@ -59,17 +59,17 @@ OpenStreetMap_tag: industrial=oil
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Oil_Industry](/_Standards/Society/Economics/Industry/Oil_Industry.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Industry/Oil_Industry|Oil_Industry]] 
 
-### #is_/same_as :: [Oil_Industry.public](/_public/Society/Economics/Industry/Oil_Industry.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Industry/Oil_Industry.public|Oil_Industry.public]] 
 
-### #is_/same_as :: [Oil_Industry.internal](/_internal/Society/Economics/Industry/Oil_Industry.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Industry/Oil_Industry.internal|Oil_Industry.internal]] 
 
-### #is_/same_as :: [Oil_Industry.protect](/_protect/Society/Economics/Industry/Oil_Industry.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Industry/Oil_Industry.protect|Oil_Industry.protect]] 
 
-### #is_/same_as :: [Oil_Industry.private](/_private/Society/Economics/Industry/Oil_Industry.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Industry/Oil_Industry.private|Oil_Industry.private]] 
 
-### #is_/same_as :: [Oil_Industry.personal](/_personal/Society/Economics/Industry/Oil_Industry.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Industry/Oil_Industry.personal|Oil_Industry.personal]] 
 
-### #is_/same_as :: [Oil_Industry.secret](/_secret/Society/Economics/Industry/Oil_Industry.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Industry/Oil_Industry.secret|Oil_Industry.secret]] 
 

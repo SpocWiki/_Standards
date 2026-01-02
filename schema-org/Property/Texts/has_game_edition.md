@@ -45,17 +45,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_game_edition](/_Standards/schema-org/Property/Texts/has_game_edition.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/Texts/has_game_edition|has_game_edition]] 
 
-### #is_/same_as :: [has_game_edition.public](/_public/schema-org/Property/Texts/has_game_edition.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/Texts/has_game_edition.public|has_game_edition.public]] 
 
-### #is_/same_as :: [has_game_edition.internal](/_internal/schema-org/Property/Texts/has_game_edition.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/Texts/has_game_edition.internal|has_game_edition.internal]] 
 
-### #is_/same_as :: [has_game_edition.protect](/_protect/schema-org/Property/Texts/has_game_edition.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/Texts/has_game_edition.protect|has_game_edition.protect]] 
 
-### #is_/same_as :: [has_game_edition.private](/_private/schema-org/Property/Texts/has_game_edition.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/Texts/has_game_edition.private|has_game_edition.private]] 
 
-### #is_/same_as :: [has_game_edition.personal](/_personal/schema-org/Property/Texts/has_game_edition.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/Texts/has_game_edition.personal|has_game_edition.personal]] 
 
-### #is_/same_as :: [has_game_edition.secret](/_secret/schema-org/Property/Texts/has_game_edition.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/Texts/has_game_edition.secret|has_game_edition.secret]] 
 

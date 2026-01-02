@@ -72,17 +72,17 @@ Colon_Classification: T:551
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Test](/_Standards/Society/Communication/Media/Creative_Work/Test.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Creative_Work/Test|Test]] 
 
-### #is_/same_as :: [Test.public](/_public/Society/Communication/Media/Creative_Work/Test.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Creative_Work/Test.public|Test.public]] 
 
-### #is_/same_as :: [Test.internal](/_internal/Society/Communication/Media/Creative_Work/Test.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Creative_Work/Test.internal|Test.internal]] 
 
-### #is_/same_as :: [Test.protect](/_protect/Society/Communication/Media/Creative_Work/Test.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Creative_Work/Test.protect|Test.protect]] 
 
-### #is_/same_as :: [Test.private](/_private/Society/Communication/Media/Creative_Work/Test.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Creative_Work/Test.private|Test.private]] 
 
-### #is_/same_as :: [Test.personal](/_personal/Society/Communication/Media/Creative_Work/Test.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/Test.personal|Test.personal]] 
 
-### #is_/same_as :: [Test.secret](/_secret/Society/Communication/Media/Creative_Work/Test.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Test.secret|Test.secret]] 
 

@@ -83,17 +83,17 @@ MeSH_tree_code:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Family_Planning](/_Standards/Society/Agent/Community/Clan/Family/Marriage/Family_Planning.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Clan/Family/Marriage/Family_Planning|Family_Planning]] 
 
-### #is_/same_as :: [Family_Planning.public](/_public/Society/Agent/Community/Clan/Family/Marriage/Family_Planning.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Clan/Family/Marriage/Family_Planning.public|Family_Planning.public]] 
 
-### #is_/same_as :: [Family_Planning.internal](/_internal/Society/Agent/Community/Clan/Family/Marriage/Family_Planning.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Clan/Family/Marriage/Family_Planning.internal|Family_Planning.internal]] 
 
-### #is_/same_as :: [Family_Planning.protect](/_protect/Society/Agent/Community/Clan/Family/Marriage/Family_Planning.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Clan/Family/Marriage/Family_Planning.protect|Family_Planning.protect]] 
 
-### #is_/same_as :: [Family_Planning.private](/_private/Society/Agent/Community/Clan/Family/Marriage/Family_Planning.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Clan/Family/Marriage/Family_Planning.private|Family_Planning.private]] 
 
-### #is_/same_as :: [Family_Planning.personal](/_personal/Society/Agent/Community/Clan/Family/Marriage/Family_Planning.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Clan/Family/Marriage/Family_Planning.personal|Family_Planning.personal]] 
 
-### #is_/same_as :: [Family_Planning.secret](/_secret/Society/Agent/Community/Clan/Family/Marriage/Family_Planning.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Clan/Family/Marriage/Family_Planning.secret|Family_Planning.secret]] 
 

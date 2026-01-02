@@ -21,17 +21,17 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [New_Caledonia](/_Standards/Earth/Continent/Australasia/New_Caledonia.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Australasia/New_Caledonia|New_Caledonia]] 
 
-### #is_/same_as :: [New_Caledonia.public](/_public/Earth/Continent/Australasia/New_Caledonia.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Australasia/New_Caledonia.public|New_Caledonia.public]] 
 
-### #is_/same_as :: [New_Caledonia.internal](/_internal/Earth/Continent/Australasia/New_Caledonia.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Australasia/New_Caledonia.internal|New_Caledonia.internal]] 
 
-### #is_/same_as :: [New_Caledonia.protect](/_protect/Earth/Continent/Australasia/New_Caledonia.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Australasia/New_Caledonia.protect|New_Caledonia.protect]] 
 
-### #is_/same_as :: [New_Caledonia.private](/_private/Earth/Continent/Australasia/New_Caledonia.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Australasia/New_Caledonia.private|New_Caledonia.private]] 
 
-### #is_/same_as :: [New_Caledonia.personal](/_personal/Earth/Continent/Australasia/New_Caledonia.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Australasia/New_Caledonia.personal|New_Caledonia.personal]] 
 
-### #is_/same_as :: [New_Caledonia.secret](/_secret/Earth/Continent/Australasia/New_Caledonia.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Australasia/New_Caledonia.secret|New_Caledonia.secret]] 
 

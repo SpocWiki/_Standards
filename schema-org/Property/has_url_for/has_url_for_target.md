@@ -44,17 +44,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_url_for_target](/_Standards/schema-org/Property/has_url_for/has_url_for_target.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_url_for/has_url_for_target|has_url_for_target]] 
 
-### #is_/same_as :: [has_url_for_target.public](/_public/schema-org/Property/has_url_for/has_url_for_target.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/has_url_for/has_url_for_target.public|has_url_for_target.public]] 
 
-### #is_/same_as :: [has_url_for_target.internal](/_internal/schema-org/Property/has_url_for/has_url_for_target.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_url_for/has_url_for_target.internal|has_url_for_target.internal]] 
 
-### #is_/same_as :: [has_url_for_target.protect](/_protect/schema-org/Property/has_url_for/has_url_for_target.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_url_for/has_url_for_target.protect|has_url_for_target.protect]] 
 
-### #is_/same_as :: [has_url_for_target.private](/_private/schema-org/Property/has_url_for/has_url_for_target.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/has_url_for/has_url_for_target.private|has_url_for_target.private]] 
 
-### #is_/same_as :: [has_url_for_target.personal](/_personal/schema-org/Property/has_url_for/has_url_for_target.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_url_for/has_url_for_target.personal|has_url_for_target.personal]] 
 
-### #is_/same_as :: [has_url_for_target.secret](/_secret/schema-org/Property/has_url_for/has_url_for_target.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/has_url_for/has_url_for_target.secret|has_url_for_target.secret]] 
 

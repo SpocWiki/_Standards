@@ -49,17 +49,17 @@ Commons_category: Killed in action
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Killed_in_Action](/_Standards/Society/Military/Military_Operation/Combat/Killed_in_Action.md) 
+### #is_/same_as :: [[/_Standards/Society/Military/Military_Operation/Combat/Killed_in_Action|Killed_in_Action]] 
 
-### #is_/same_as :: [Killed_in_Action.public](/_public/Society/Military/Military_Operation/Combat/Killed_in_Action.public.md) 
+### #is_/same_as :: [[/_public/Society/Military/Military_Operation/Combat/Killed_in_Action.public|Killed_in_Action.public]] 
 
-### #is_/same_as :: [Killed_in_Action.internal](/_internal/Society/Military/Military_Operation/Combat/Killed_in_Action.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Military/Military_Operation/Combat/Killed_in_Action.internal|Killed_in_Action.internal]] 
 
-### #is_/same_as :: [Killed_in_Action.protect](/_protect/Society/Military/Military_Operation/Combat/Killed_in_Action.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Military/Military_Operation/Combat/Killed_in_Action.protect|Killed_in_Action.protect]] 
 
-### #is_/same_as :: [Killed_in_Action.private](/_private/Society/Military/Military_Operation/Combat/Killed_in_Action.private.md) 
+### #is_/same_as :: [[/_private/Society/Military/Military_Operation/Combat/Killed_in_Action.private|Killed_in_Action.private]] 
 
-### #is_/same_as :: [Killed_in_Action.personal](/_personal/Society/Military/Military_Operation/Combat/Killed_in_Action.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Military/Military_Operation/Combat/Killed_in_Action.personal|Killed_in_Action.personal]] 
 
-### #is_/same_as :: [Killed_in_Action.secret](/_secret/Society/Military/Military_Operation/Combat/Killed_in_Action.secret.md)
+### #is_/same_as :: [[/_secret/Society/Military/Military_Operation/Combat/Killed_in_Action.secret|Killed_in_Action.secret]] 
 

@@ -14,3 +14,22 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Pantothenic%20acid)  
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/bio/Metabolism/Nutrition/Vitamin/Vitamin_B/Pantothenic_Acid|Pantothenic_Acid]] 
+
+### #is_/same_as :: [[/_public/bio/Metabolism/Nutrition/Vitamin/Vitamin_B/Pantothenic_Acid.public|Pantothenic_Acid.public]] 
+
+### #is_/same_as :: [[/_internal/bio/Metabolism/Nutrition/Vitamin/Vitamin_B/Pantothenic_Acid.internal|Pantothenic_Acid.internal]] 
+
+### #is_/same_as :: [[/_protect/bio/Metabolism/Nutrition/Vitamin/Vitamin_B/Pantothenic_Acid.protect|Pantothenic_Acid.protect]] 
+
+### #is_/same_as :: [[/_private/bio/Metabolism/Nutrition/Vitamin/Vitamin_B/Pantothenic_Acid.private|Pantothenic_Acid.private]] 
+
+### #is_/same_as :: [[/_personal/bio/Metabolism/Nutrition/Vitamin/Vitamin_B/Pantothenic_Acid.personal|Pantothenic_Acid.personal]] 
+
+### #is_/same_as :: [[/_secret/bio/Metabolism/Nutrition/Vitamin/Vitamin_B/Pantothenic_Acid.secret|Pantothenic_Acid.secret]] 
+

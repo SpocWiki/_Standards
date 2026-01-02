@@ -133,17 +133,17 @@ Krugosvet_article_archived_: kultura_i_obrazovanie/religiya/TSVINGLI_HULDRIH.htm
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Zwingli,Huldrych](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Protestantism/Zwingli,Huldrych.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Protestantism/Zwingli,Huldrych|Zwingli,Huldrych]] 
 
-### #is_/same_as :: [Zwingli,Huldrych.public](/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Protestantism/Zwingli,Huldrych.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Protestantism/Zwingli,Huldrych.public|Zwingli,Huldrych.public]] 
 
-### #is_/same_as :: [Zwingli,Huldrych.internal](/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Protestantism/Zwingli,Huldrych.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Protestantism/Zwingli,Huldrych.internal|Zwingli,Huldrych.internal]] 
 
-### #is_/same_as :: [Zwingli,Huldrych.protect](/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Protestantism/Zwingli,Huldrych.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Protestantism/Zwingli,Huldrych.protect|Zwingli,Huldrych.protect]] 
 
-### #is_/same_as :: [Zwingli,Huldrych.private](/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Protestantism/Zwingli,Huldrych.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Protestantism/Zwingli,Huldrych.private|Zwingli,Huldrych.private]] 
 
-### #is_/same_as :: [Zwingli,Huldrych.personal](/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Protestantism/Zwingli,Huldrych.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Protestantism/Zwingli,Huldrych.personal|Zwingli,Huldrych.personal]] 
 
-### #is_/same_as :: [Zwingli,Huldrych.secret](/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Protestantism/Zwingli,Huldrych.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Protestantism/Zwingli,Huldrych.secret|Zwingli,Huldrych.secret]] 
 

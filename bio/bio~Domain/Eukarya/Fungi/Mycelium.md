@@ -41,17 +41,17 @@ Commons_category: Mycelium
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Mycelium](/_Standards/bio/bio~Domain/Eukarya/Fungi/Mycelium.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Fungi/Mycelium|Mycelium]] 
 
-### #is_/same_as :: [Mycelium.public](/_public/bio/bio~Domain/Eukarya/Fungi/Mycelium.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Fungi/Mycelium.public|Mycelium.public]] 
 
-### #is_/same_as :: [Mycelium.internal](/_internal/bio/bio~Domain/Eukarya/Fungi/Mycelium.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Fungi/Mycelium.internal|Mycelium.internal]] 
 
-### #is_/same_as :: [Mycelium.protect](/_protect/bio/bio~Domain/Eukarya/Fungi/Mycelium.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Fungi/Mycelium.protect|Mycelium.protect]] 
 
-### #is_/same_as :: [Mycelium.private](/_private/bio/bio~Domain/Eukarya/Fungi/Mycelium.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Fungi/Mycelium.private|Mycelium.private]] 
 
-### #is_/same_as :: [Mycelium.personal](/_personal/bio/bio~Domain/Eukarya/Fungi/Mycelium.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Fungi/Mycelium.personal|Mycelium.personal]] 
 
-### #is_/same_as :: [Mycelium.secret](/_secret/bio/bio~Domain/Eukarya/Fungi/Mycelium.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Fungi/Mycelium.secret|Mycelium.secret]] 
 

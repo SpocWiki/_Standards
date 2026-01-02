@@ -62,17 +62,17 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/OrionCC.jpg
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Zodiac~Orion](/_Standards/Astronomy/Star~Constellation/Zodiac~Orion.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Star~Constellation/Zodiac~Orion|Zodiac~Orion]] 
 
-### #is_/same_as :: [Zodiac~Orion.public](/_public/Astronomy/Star~Constellation/Zodiac~Orion.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Star~Constellation/Zodiac~Orion.public|Zodiac~Orion.public]] 
 
-### #is_/same_as :: [Zodiac~Orion.internal](/_internal/Astronomy/Star~Constellation/Zodiac~Orion.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Star~Constellation/Zodiac~Orion.internal|Zodiac~Orion.internal]] 
 
-### #is_/same_as :: [Zodiac~Orion.protect](/_protect/Astronomy/Star~Constellation/Zodiac~Orion.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Star~Constellation/Zodiac~Orion.protect|Zodiac~Orion.protect]] 
 
-### #is_/same_as :: [Zodiac~Orion.private](/_private/Astronomy/Star~Constellation/Zodiac~Orion.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Star~Constellation/Zodiac~Orion.private|Zodiac~Orion.private]] 
 
-### #is_/same_as :: [Zodiac~Orion.personal](/_personal/Astronomy/Star~Constellation/Zodiac~Orion.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Star~Constellation/Zodiac~Orion.personal|Zodiac~Orion.personal]] 
 
-### #is_/same_as :: [Zodiac~Orion.secret](/_secret/Astronomy/Star~Constellation/Zodiac~Orion.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Star~Constellation/Zodiac~Orion.secret|Zodiac~Orion.secret]] 
 

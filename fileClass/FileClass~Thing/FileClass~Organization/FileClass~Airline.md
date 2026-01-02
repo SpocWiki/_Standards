@@ -52,17 +52,17 @@ IataCode:: {"type":"Input","options":{}}
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~Airline](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~Airline.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~Airline|FileClass~Airline]] 
 
-### #is_/same_as :: [FileClass~Airline.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~Airline.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~Airline.public|FileClass~Airline.public]] 
 
-### #is_/same_as :: [FileClass~Airline.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~Airline.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~Airline.internal|FileClass~Airline.internal]] 
 
-### #is_/same_as :: [FileClass~Airline.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~Airline.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~Airline.protect|FileClass~Airline.protect]] 
 
-### #is_/same_as :: [FileClass~Airline.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~Airline.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~Airline.private|FileClass~Airline.private]] 
 
-### #is_/same_as :: [FileClass~Airline.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~Airline.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~Airline.personal|FileClass~Airline.personal]] 
 
-### #is_/same_as :: [FileClass~Airline.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~Airline.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~Airline.secret|FileClass~Airline.secret]] 
 

@@ -46,17 +46,17 @@ start_time: 1808-09-25T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [1808-Spanish_American_Wars_of_Independence+1835](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1800/1808-Spanish_American_Wars_of_Independence+1835.md) 
+### #is_/same_as :: [[/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1800/1808-Spanish_American_Wars_of_Independence+1835|1808-Spanish_American_Wars_of_Independence+1835]] 
 
-### #is_/same_as :: [1808-Spanish_American_Wars_of_Independence+1835.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1800/1808-Spanish_American_Wars_of_Independence+1835.public.md) 
+### #is_/same_as :: [[/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1800/1808-Spanish_American_Wars_of_Independence+1835.public|1808-Spanish_American_Wars_of_Independence+1835.public]] 
 
-### #is_/same_as :: [1808-Spanish_American_Wars_of_Independence+1835.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1800/1808-Spanish_American_Wars_of_Independence+1835.internal.md) 
+### #is_/same_as :: [[/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1800/1808-Spanish_American_Wars_of_Independence+1835.internal|1808-Spanish_American_Wars_of_Independence+1835.internal]] 
 
-### #is_/same_as :: [1808-Spanish_American_Wars_of_Independence+1835.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1800/1808-Spanish_American_Wars_of_Independence+1835.protect.md) 
+### #is_/same_as :: [[/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1800/1808-Spanish_American_Wars_of_Independence+1835.protect|1808-Spanish_American_Wars_of_Independence+1835.protect]] 
 
-### #is_/same_as :: [1808-Spanish_American_Wars_of_Independence+1835.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1800/1808-Spanish_American_Wars_of_Independence+1835.private.md) 
+### #is_/same_as :: [[/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1800/1808-Spanish_American_Wars_of_Independence+1835.private|1808-Spanish_American_Wars_of_Independence+1835.private]] 
 
-### #is_/same_as :: [1808-Spanish_American_Wars_of_Independence+1835.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1800/1808-Spanish_American_Wars_of_Independence+1835.personal.md) 
+### #is_/same_as :: [[/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1800/1808-Spanish_American_Wars_of_Independence+1835.personal|1808-Spanish_American_Wars_of_Independence+1835.personal]] 
 
-### #is_/same_as :: [1808-Spanish_American_Wars_of_Independence+1835.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1800/1808-Spanish_American_Wars_of_Independence+1835.secret.md)
+### #is_/same_as :: [[/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1800/1808-Spanish_American_Wars_of_Independence+1835.secret|1808-Spanish_American_Wars_of_Independence+1835.secret]] 
 

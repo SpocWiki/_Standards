@@ -182,17 +182,17 @@ P1015: "90055304"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Eco,Umberto](/_Standards/Society/Communication/Media/Writing/Book/Writer/Italian_Writer/Eco,Umberto.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Writer/Italian_Writer/Eco,Umberto|Eco,Umberto]] 
 
-### #is_/same_as :: [Eco,Umberto.public](/_public/Society/Communication/Media/Writing/Book/Writer/Italian_Writer/Eco,Umberto.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Writer/Italian_Writer/Eco,Umberto.public|Eco,Umberto.public]] 
 
-### #is_/same_as :: [Eco,Umberto.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/Italian_Writer/Eco,Umberto.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Writer/Italian_Writer/Eco,Umberto.internal|Eco,Umberto.internal]] 
 
-### #is_/same_as :: [Eco,Umberto.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/Italian_Writer/Eco,Umberto.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Writer/Italian_Writer/Eco,Umberto.protect|Eco,Umberto.protect]] 
 
-### #is_/same_as :: [Eco,Umberto.private](/_private/Society/Communication/Media/Writing/Book/Writer/Italian_Writer/Eco,Umberto.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Writer/Italian_Writer/Eco,Umberto.private|Eco,Umberto.private]] 
 
-### #is_/same_as :: [Eco,Umberto.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/Italian_Writer/Eco,Umberto.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Writer/Italian_Writer/Eco,Umberto.personal|Eco,Umberto.personal]] 
 
-### #is_/same_as :: [Eco,Umberto.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/Italian_Writer/Eco,Umberto.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Writer/Italian_Writer/Eco,Umberto.secret|Eco,Umberto.secret]] 
 

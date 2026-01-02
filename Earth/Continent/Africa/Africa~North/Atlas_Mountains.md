@@ -50,17 +50,17 @@ Wolfram_Language_entity_code: Entity["Concept", "AtlasMountains::339j9"]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Atlas_Mountains](/_Standards/Earth/Continent/Africa/Africa~North/Atlas_Mountains.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~North/Atlas_Mountains|Atlas_Mountains]] 
 
-### #is_/same_as :: [Atlas_Mountains.public](/_public/Earth/Continent/Africa/Africa~North/Atlas_Mountains.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~North/Atlas_Mountains.public|Atlas_Mountains.public]] 
 
-### #is_/same_as :: [Atlas_Mountains.internal](/_internal/Earth/Continent/Africa/Africa~North/Atlas_Mountains.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~North/Atlas_Mountains.internal|Atlas_Mountains.internal]] 
 
-### #is_/same_as :: [Atlas_Mountains.protect](/_protect/Earth/Continent/Africa/Africa~North/Atlas_Mountains.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~North/Atlas_Mountains.protect|Atlas_Mountains.protect]] 
 
-### #is_/same_as :: [Atlas_Mountains.private](/_private/Earth/Continent/Africa/Africa~North/Atlas_Mountains.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~North/Atlas_Mountains.private|Atlas_Mountains.private]] 
 
-### #is_/same_as :: [Atlas_Mountains.personal](/_personal/Earth/Continent/Africa/Africa~North/Atlas_Mountains.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~North/Atlas_Mountains.personal|Atlas_Mountains.personal]] 
 
-### #is_/same_as :: [Atlas_Mountains.secret](/_secret/Earth/Continent/Africa/Africa~North/Atlas_Mountains.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~North/Atlas_Mountains.secret|Atlas_Mountains.secret]] 
 

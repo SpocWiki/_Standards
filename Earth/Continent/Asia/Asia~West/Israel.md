@@ -643,17 +643,17 @@ Capital :: [[Israel/Counties/Jerusalem]]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Israel](/_Standards/Earth/Continent/Asia/Asia~West/Israel.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~West/Israel|Israel]] 
 
-### #is_/same_as :: [Israel.public](/_public/Earth/Continent/Asia/Asia~West/Israel.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~West/Israel.public|Israel.public]] 
 
-### #is_/same_as :: [Israel.internal](/_internal/Earth/Continent/Asia/Asia~West/Israel.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~West/Israel.internal|Israel.internal]] 
 
-### #is_/same_as :: [Israel.protect](/_protect/Earth/Continent/Asia/Asia~West/Israel.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~West/Israel.protect|Israel.protect]] 
 
-### #is_/same_as :: [Israel.private](/_private/Earth/Continent/Asia/Asia~West/Israel.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~West/Israel.private|Israel.private]] 
 
-### #is_/same_as :: [Israel.personal](/_personal/Earth/Continent/Asia/Asia~West/Israel.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~West/Israel.personal|Israel.personal]] 
 
-### #is_/same_as :: [Israel.secret](/_secret/Earth/Continent/Asia/Asia~West/Israel.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~West/Israel.secret|Israel.secret]] 
 

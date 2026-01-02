@@ -44,17 +44,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_archive_held](/_Standards/schema-org/Relation/has/has_archive_held.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_archive_held|has_archive_held]] 
 
-### #is_/same_as :: [has_archive_held.public](/_public/schema-org/Relation/has/has_archive_held.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_archive_held.public|has_archive_held.public]] 
 
-### #is_/same_as :: [has_archive_held.internal](/_internal/schema-org/Relation/has/has_archive_held.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_archive_held.internal|has_archive_held.internal]] 
 
-### #is_/same_as :: [has_archive_held.protect](/_protect/schema-org/Relation/has/has_archive_held.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_archive_held.protect|has_archive_held.protect]] 
 
-### #is_/same_as :: [has_archive_held.private](/_private/schema-org/Relation/has/has_archive_held.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_archive_held.private|has_archive_held.private]] 
 
-### #is_/same_as :: [has_archive_held.personal](/_personal/schema-org/Relation/has/has_archive_held.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_archive_held.personal|has_archive_held.personal]] 
 
-### #is_/same_as :: [has_archive_held.secret](/_secret/schema-org/Relation/has/has_archive_held.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_archive_held.secret|has_archive_held.secret]] 
 

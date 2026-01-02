@@ -76,17 +76,17 @@ Commons_category: Visual perception
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Visual_Perception](/_Standards/bio/Psychology/Consciousness/Perception/Visual_Perception.md) 
+### #is_/same_as :: [[/_Standards/bio/Psychology/Consciousness/Perception/Visual_Perception|Visual_Perception]] 
 
-### #is_/same_as :: [Visual_Perception.public](/_public/bio/Psychology/Consciousness/Perception/Visual_Perception.public.md) 
+### #is_/same_as :: [[/_public/bio/Psychology/Consciousness/Perception/Visual_Perception.public|Visual_Perception.public]] 
 
-### #is_/same_as :: [Visual_Perception.internal](/_internal/bio/Psychology/Consciousness/Perception/Visual_Perception.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Psychology/Consciousness/Perception/Visual_Perception.internal|Visual_Perception.internal]] 
 
-### #is_/same_as :: [Visual_Perception.protect](/_protect/bio/Psychology/Consciousness/Perception/Visual_Perception.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Psychology/Consciousness/Perception/Visual_Perception.protect|Visual_Perception.protect]] 
 
-### #is_/same_as :: [Visual_Perception.private](/_private/bio/Psychology/Consciousness/Perception/Visual_Perception.private.md) 
+### #is_/same_as :: [[/_private/bio/Psychology/Consciousness/Perception/Visual_Perception.private|Visual_Perception.private]] 
 
-### #is_/same_as :: [Visual_Perception.personal](/_personal/bio/Psychology/Consciousness/Perception/Visual_Perception.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Psychology/Consciousness/Perception/Visual_Perception.personal|Visual_Perception.personal]] 
 
-### #is_/same_as :: [Visual_Perception.secret](/_secret/bio/Psychology/Consciousness/Perception/Visual_Perception.secret.md)
+### #is_/same_as :: [[/_secret/bio/Psychology/Consciousness/Perception/Visual_Perception.secret|Visual_Perception.secret]] 
 

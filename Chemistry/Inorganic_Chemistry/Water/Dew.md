@@ -44,17 +44,17 @@ icon: http://commons.wikimedia.org/wiki/Special:FilePath/Symbol%20dew%20proper%2
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Dew](/_Standards/Chemistry/Inorganic_Chemistry/Water/Dew.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Inorganic_Chemistry/Water/Dew|Dew]] 
 
-### #is_/same_as :: [Dew.public](/_public/Chemistry/Inorganic_Chemistry/Water/Dew.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Inorganic_Chemistry/Water/Dew.public|Dew.public]] 
 
-### #is_/same_as :: [Dew.internal](/_internal/Chemistry/Inorganic_Chemistry/Water/Dew.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Inorganic_Chemistry/Water/Dew.internal|Dew.internal]] 
 
-### #is_/same_as :: [Dew.protect](/_protect/Chemistry/Inorganic_Chemistry/Water/Dew.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Inorganic_Chemistry/Water/Dew.protect|Dew.protect]] 
 
-### #is_/same_as :: [Dew.private](/_private/Chemistry/Inorganic_Chemistry/Water/Dew.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Inorganic_Chemistry/Water/Dew.private|Dew.private]] 
 
-### #is_/same_as :: [Dew.personal](/_personal/Chemistry/Inorganic_Chemistry/Water/Dew.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Inorganic_Chemistry/Water/Dew.personal|Dew.personal]] 
 
-### #is_/same_as :: [Dew.secret](/_secret/Chemistry/Inorganic_Chemistry/Water/Dew.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Inorganic_Chemistry/Water/Dew.secret|Dew.secret]] 
 

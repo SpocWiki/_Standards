@@ -141,17 +141,17 @@ Commons_gallery: Gonorrhoea
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Gonorrhea](/_Standards/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Gonorrhea.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Gonorrhea|Gonorrhea]] 
 
-### #is_/same_as :: [Gonorrhea.public](/_public/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Gonorrhea.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Gonorrhea.public|Gonorrhea.public]] 
 
-### #is_/same_as :: [Gonorrhea.internal](/_internal/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Gonorrhea.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Gonorrhea.internal|Gonorrhea.internal]] 
 
-### #is_/same_as :: [Gonorrhea.protect](/_protect/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Gonorrhea.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Gonorrhea.protect|Gonorrhea.protect]] 
 
-### #is_/same_as :: [Gonorrhea.private](/_private/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Gonorrhea.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Gonorrhea.private|Gonorrhea.private]] 
 
-### #is_/same_as :: [Gonorrhea.personal](/_personal/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Gonorrhea.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Gonorrhea.personal|Gonorrhea.personal]] 
 
-### #is_/same_as :: [Gonorrhea.secret](/_secret/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Gonorrhea.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Gonorrhea.secret|Gonorrhea.secret]] 
 

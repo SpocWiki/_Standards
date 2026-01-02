@@ -189,17 +189,17 @@ filters:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Zodiac_DbFolder](/_Standards/Astronomy/Star~Constellation/Zodiac_DbFolder.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Star~Constellation/Zodiac_DbFolder|Zodiac_DbFolder]] 
 
-### #is_/same_as :: [Zodiac_DbFolder.public](/_public/Astronomy/Star~Constellation/Zodiac_DbFolder.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Star~Constellation/Zodiac_DbFolder.public|Zodiac_DbFolder.public]] 
 
-### #is_/same_as :: [Zodiac_DbFolder.internal](/_internal/Astronomy/Star~Constellation/Zodiac_DbFolder.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Star~Constellation/Zodiac_DbFolder.internal|Zodiac_DbFolder.internal]] 
 
-### #is_/same_as :: [Zodiac_DbFolder.protect](/_protect/Astronomy/Star~Constellation/Zodiac_DbFolder.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Star~Constellation/Zodiac_DbFolder.protect|Zodiac_DbFolder.protect]] 
 
-### #is_/same_as :: [Zodiac_DbFolder.private](/_private/Astronomy/Star~Constellation/Zodiac_DbFolder.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Star~Constellation/Zodiac_DbFolder.private|Zodiac_DbFolder.private]] 
 
-### #is_/same_as :: [Zodiac_DbFolder.personal](/_personal/Astronomy/Star~Constellation/Zodiac_DbFolder.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Star~Constellation/Zodiac_DbFolder.personal|Zodiac_DbFolder.personal]] 
 
-### #is_/same_as :: [Zodiac_DbFolder.secret](/_secret/Astronomy/Star~Constellation/Zodiac_DbFolder.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Star~Constellation/Zodiac_DbFolder.secret|Zodiac_DbFolder.secret]] 
 

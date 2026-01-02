@@ -31,17 +31,17 @@ IMDb_keyword: reputation
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Reputation](/_Standards/Society/Social_Relation/Reputation.md) 
+### #is_/same_as :: [[/_Standards/Society/Social_Relation/Reputation|Reputation]] 
 
-### #is_/same_as :: [Reputation.public](/_public/Society/Social_Relation/Reputation.public.md) 
+### #is_/same_as :: [[/_public/Society/Social_Relation/Reputation.public|Reputation.public]] 
 
-### #is_/same_as :: [Reputation.internal](/_internal/Society/Social_Relation/Reputation.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Social_Relation/Reputation.internal|Reputation.internal]] 
 
-### #is_/same_as :: [Reputation.protect](/_protect/Society/Social_Relation/Reputation.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Social_Relation/Reputation.protect|Reputation.protect]] 
 
-### #is_/same_as :: [Reputation.private](/_private/Society/Social_Relation/Reputation.private.md) 
+### #is_/same_as :: [[/_private/Society/Social_Relation/Reputation.private|Reputation.private]] 
 
-### #is_/same_as :: [Reputation.personal](/_personal/Society/Social_Relation/Reputation.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Social_Relation/Reputation.personal|Reputation.personal]] 
 
-### #is_/same_as :: [Reputation.secret](/_secret/Society/Social_Relation/Reputation.secret.md)
+### #is_/same_as :: [[/_secret/Society/Social_Relation/Reputation.secret|Reputation.secret]] 
 

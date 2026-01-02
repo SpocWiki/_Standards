@@ -123,17 +123,17 @@ Monogamy prevents diseases and jealousy and arguments about inheritance.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Religion](/_Standards/Philosophy/Metaphysic/Religion.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion|Religion]] 
 
-### #is_/same_as :: [Religion.public](/_public/Philosophy/Metaphysic/Religion.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion.public|Religion.public]] 
 
-### #is_/same_as :: [Religion.internal](/_internal/Philosophy/Metaphysic/Religion.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion.internal|Religion.internal]] 
 
-### #is_/same_as :: [Religion.protect](/_protect/Philosophy/Metaphysic/Religion.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion.protect|Religion.protect]] 
 
-### #is_/same_as :: [Religion.private](/_private/Philosophy/Metaphysic/Religion.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion.private|Religion.private]] 
 
-### #is_/same_as :: [Religion.personal](/_personal/Philosophy/Metaphysic/Religion.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion.personal|Religion.personal]] 
 
-### #is_/same_as :: [Religion.secret](/_secret/Philosophy/Metaphysic/Religion.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion.secret|Religion.secret]] 
 

@@ -62,17 +62,17 @@ OpenStreetMap_tag:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Limestone](/_Standards/Earth/Geology/Mineral/Limestone.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geology/Mineral/Limestone|Limestone]] 
 
-### #is_/same_as :: [Limestone.public](/_public/Earth/Geology/Mineral/Limestone.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geology/Mineral/Limestone.public|Limestone.public]] 
 
-### #is_/same_as :: [Limestone.internal](/_internal/Earth/Geology/Mineral/Limestone.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geology/Mineral/Limestone.internal|Limestone.internal]] 
 
-### #is_/same_as :: [Limestone.protect](/_protect/Earth/Geology/Mineral/Limestone.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geology/Mineral/Limestone.protect|Limestone.protect]] 
 
-### #is_/same_as :: [Limestone.private](/_private/Earth/Geology/Mineral/Limestone.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geology/Mineral/Limestone.private|Limestone.private]] 
 
-### #is_/same_as :: [Limestone.personal](/_personal/Earth/Geology/Mineral/Limestone.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geology/Mineral/Limestone.personal|Limestone.personal]] 
 
-### #is_/same_as :: [Limestone.secret](/_secret/Earth/Geology/Mineral/Limestone.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geology/Mineral/Limestone.secret|Limestone.secret]] 
 

@@ -71,17 +71,17 @@ variance_of_a_probability_distribution: <math class="mwe-math-element mwe-math-e
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Student_Distribution](/_Standards/Mathematics/Statistics/Probability/Probability_Distribution/Student_Distribution.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Statistics/Probability/Probability_Distribution/Student_Distribution|Student_Distribution]] 
 
-### #is_/same_as :: [Student_Distribution.public](/_public/Mathematics/Statistics/Probability/Probability_Distribution/Student_Distribution.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Statistics/Probability/Probability_Distribution/Student_Distribution.public|Student_Distribution.public]] 
 
-### #is_/same_as :: [Student_Distribution.internal](/_internal/Mathematics/Statistics/Probability/Probability_Distribution/Student_Distribution.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Statistics/Probability/Probability_Distribution/Student_Distribution.internal|Student_Distribution.internal]] 
 
-### #is_/same_as :: [Student_Distribution.protect](/_protect/Mathematics/Statistics/Probability/Probability_Distribution/Student_Distribution.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Statistics/Probability/Probability_Distribution/Student_Distribution.protect|Student_Distribution.protect]] 
 
-### #is_/same_as :: [Student_Distribution.private](/_private/Mathematics/Statistics/Probability/Probability_Distribution/Student_Distribution.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Statistics/Probability/Probability_Distribution/Student_Distribution.private|Student_Distribution.private]] 
 
-### #is_/same_as :: [Student_Distribution.personal](/_personal/Mathematics/Statistics/Probability/Probability_Distribution/Student_Distribution.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Statistics/Probability/Probability_Distribution/Student_Distribution.personal|Student_Distribution.personal]] 
 
-### #is_/same_as :: [Student_Distribution.secret](/_secret/Mathematics/Statistics/Probability/Probability_Distribution/Student_Distribution.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Statistics/Probability/Probability_Distribution/Student_Distribution.secret|Student_Distribution.secret]] 
 

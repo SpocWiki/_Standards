@@ -124,17 +124,17 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Military](/_Standards/Society/Military.md) 
+### #is_/same_as :: [[/_Standards/Society/Military|Military]] 
 
-### #is_/same_as :: [Military.public](/_public/Society/Military.public.md) 
+### #is_/same_as :: [[/_public/Society/Military.public|Military.public]] 
 
-### #is_/same_as :: [Military.internal](/_internal/Society/Military.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Military.internal|Military.internal]] 
 
-### #is_/same_as :: [Military.protect](/_protect/Society/Military.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Military.protect|Military.protect]] 
 
-### #is_/same_as :: [Military.private](/_private/Society/Military.private.md) 
+### #is_/same_as :: [[/_private/Society/Military.private|Military.private]] 
 
-### #is_/same_as :: [Military.personal](/_personal/Society/Military.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Military.personal|Military.personal]] 
 
-### #is_/same_as :: [Military.secret](/_secret/Society/Military.secret.md)
+### #is_/same_as :: [[/_secret/Society/Military.secret|Military.secret]] 
 

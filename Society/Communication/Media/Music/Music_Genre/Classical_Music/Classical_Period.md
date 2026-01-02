@@ -59,17 +59,17 @@ Commons_category: Classical music (period)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Classical_Period](/_Standards/Society/Communication/Media/Music/Music_Genre/Classical_Music/Classical_Period.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Music_Genre/Classical_Music/Classical_Period|Classical_Period]] 
 
-### #is_/same_as :: [Classical_Period.public](/_public/Society/Communication/Media/Music/Music_Genre/Classical_Music/Classical_Period.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Music_Genre/Classical_Music/Classical_Period.public|Classical_Period.public]] 
 
-### #is_/same_as :: [Classical_Period.internal](/_internal/Society/Communication/Media/Music/Music_Genre/Classical_Music/Classical_Period.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Music_Genre/Classical_Music/Classical_Period.internal|Classical_Period.internal]] 
 
-### #is_/same_as :: [Classical_Period.protect](/_protect/Society/Communication/Media/Music/Music_Genre/Classical_Music/Classical_Period.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Music_Genre/Classical_Music/Classical_Period.protect|Classical_Period.protect]] 
 
-### #is_/same_as :: [Classical_Period.private](/_private/Society/Communication/Media/Music/Music_Genre/Classical_Music/Classical_Period.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Music_Genre/Classical_Music/Classical_Period.private|Classical_Period.private]] 
 
-### #is_/same_as :: [Classical_Period.personal](/_personal/Society/Communication/Media/Music/Music_Genre/Classical_Music/Classical_Period.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Music_Genre/Classical_Music/Classical_Period.personal|Classical_Period.personal]] 
 
-### #is_/same_as :: [Classical_Period.secret](/_secret/Society/Communication/Media/Music/Music_Genre/Classical_Music/Classical_Period.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Music_Genre/Classical_Music/Classical_Period.secret|Classical_Period.secret]] 
 

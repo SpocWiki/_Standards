@@ -96,17 +96,17 @@ Penciler:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thin
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~ComicStory](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~ComicStory.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~ComicStory|FileClass~ComicStory]] 
 
-### #is_/same_as :: [FileClass~ComicStory.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~ComicStory.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~ComicStory.public|FileClass~ComicStory.public]] 
 
-### #is_/same_as :: [FileClass~ComicStory.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~ComicStory.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~ComicStory.internal|FileClass~ComicStory.internal]] 
 
-### #is_/same_as :: [FileClass~ComicStory.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~ComicStory.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~ComicStory.protect|FileClass~ComicStory.protect]] 
 
-### #is_/same_as :: [FileClass~ComicStory.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~ComicStory.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~ComicStory.private|FileClass~ComicStory.private]] 
 
-### #is_/same_as :: [FileClass~ComicStory.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~ComicStory.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~ComicStory.personal|FileClass~ComicStory.personal]] 
 
-### #is_/same_as :: [FileClass~ComicStory.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~ComicStory.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~ComicStory.secret|FileClass~ComicStory.secret]] 
 

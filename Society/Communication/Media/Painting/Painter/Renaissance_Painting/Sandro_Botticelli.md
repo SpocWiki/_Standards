@@ -234,17 +234,17 @@ ISNI: 0000000120994768
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sandro_Botticelli](/_Standards/Society/Communication/Media/Painting/Painter/Renaissance_Painting/Sandro_Botticelli.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Painting/Painter/Renaissance_Painting/Sandro_Botticelli|Sandro_Botticelli]] 
 
-### #is_/same_as :: [Sandro_Botticelli.public](/_public/Society/Communication/Media/Painting/Painter/Renaissance_Painting/Sandro_Botticelli.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Painting/Painter/Renaissance_Painting/Sandro_Botticelli.public|Sandro_Botticelli.public]] 
 
-### #is_/same_as :: [Sandro_Botticelli.internal](/_internal/Society/Communication/Media/Painting/Painter/Renaissance_Painting/Sandro_Botticelli.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Painting/Painter/Renaissance_Painting/Sandro_Botticelli.internal|Sandro_Botticelli.internal]] 
 
-### #is_/same_as :: [Sandro_Botticelli.protect](/_protect/Society/Communication/Media/Painting/Painter/Renaissance_Painting/Sandro_Botticelli.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Painting/Painter/Renaissance_Painting/Sandro_Botticelli.protect|Sandro_Botticelli.protect]] 
 
-### #is_/same_as :: [Sandro_Botticelli.private](/_private/Society/Communication/Media/Painting/Painter/Renaissance_Painting/Sandro_Botticelli.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Painting/Painter/Renaissance_Painting/Sandro_Botticelli.private|Sandro_Botticelli.private]] 
 
-### #is_/same_as :: [Sandro_Botticelli.personal](/_personal/Society/Communication/Media/Painting/Painter/Renaissance_Painting/Sandro_Botticelli.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Painting/Painter/Renaissance_Painting/Sandro_Botticelli.personal|Sandro_Botticelli.personal]] 
 
-### #is_/same_as :: [Sandro_Botticelli.secret](/_secret/Society/Communication/Media/Painting/Painter/Renaissance_Painting/Sandro_Botticelli.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Painting/Painter/Renaissance_Painting/Sandro_Botticelli.secret|Sandro_Botticelli.secret]] 
 

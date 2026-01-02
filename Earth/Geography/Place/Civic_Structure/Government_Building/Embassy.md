@@ -39,17 +39,17 @@ An embassy.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Embassy](/_Standards/Earth/Geography/Place/Civic_Structure/Government_Building/Embassy.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geography/Place/Civic_Structure/Government_Building/Embassy|Embassy]] 
 
-### #is_/same_as :: [Embassy.public](/_public/Earth/Geography/Place/Civic_Structure/Government_Building/Embassy.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geography/Place/Civic_Structure/Government_Building/Embassy.public|Embassy.public]] 
 
-### #is_/same_as :: [Embassy.internal](/_internal/Earth/Geography/Place/Civic_Structure/Government_Building/Embassy.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geography/Place/Civic_Structure/Government_Building/Embassy.internal|Embassy.internal]] 
 
-### #is_/same_as :: [Embassy.protect](/_protect/Earth/Geography/Place/Civic_Structure/Government_Building/Embassy.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geography/Place/Civic_Structure/Government_Building/Embassy.protect|Embassy.protect]] 
 
-### #is_/same_as :: [Embassy.private](/_private/Earth/Geography/Place/Civic_Structure/Government_Building/Embassy.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geography/Place/Civic_Structure/Government_Building/Embassy.private|Embassy.private]] 
 
-### #is_/same_as :: [Embassy.personal](/_personal/Earth/Geography/Place/Civic_Structure/Government_Building/Embassy.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geography/Place/Civic_Structure/Government_Building/Embassy.personal|Embassy.personal]] 
 
-### #is_/same_as :: [Embassy.secret](/_secret/Earth/Geography/Place/Civic_Structure/Government_Building/Embassy.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geography/Place/Civic_Structure/Government_Building/Embassy.secret|Embassy.secret]] 
 

@@ -108,17 +108,17 @@ MeSH_tree_code:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [BMI(Body_Mass_Index)](/_Standards/bio/Medicine/Health/BMI(Body_Mass_Index).md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Health/BMI(Body_Mass_Index)|BMI(Body_Mass_Index)]] 
 
-### #is_/same_as :: [BMI(Body_Mass_Index).public](/_public/bio/Medicine/Health/BMI(Body_Mass_Index).public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Health/BMI(Body_Mass_Index).public|BMI(Body_Mass_Index).public]] 
 
-### #is_/same_as :: [BMI(Body_Mass_Index).internal](/_internal/bio/Medicine/Health/BMI(Body_Mass_Index).internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Health/BMI(Body_Mass_Index).internal|BMI(Body_Mass_Index).internal]] 
 
-### #is_/same_as :: [BMI(Body_Mass_Index).protect](/_protect/bio/Medicine/Health/BMI(Body_Mass_Index).protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Health/BMI(Body_Mass_Index).protect|BMI(Body_Mass_Index).protect]] 
 
-### #is_/same_as :: [BMI(Body_Mass_Index).private](/_private/bio/Medicine/Health/BMI(Body_Mass_Index).private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Health/BMI(Body_Mass_Index).private|BMI(Body_Mass_Index).private]] 
 
-### #is_/same_as :: [BMI(Body_Mass_Index).personal](/_personal/bio/Medicine/Health/BMI(Body_Mass_Index).personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Health/BMI(Body_Mass_Index).personal|BMI(Body_Mass_Index).personal]] 
 
-### #is_/same_as :: [BMI(Body_Mass_Index).secret](/_secret/bio/Medicine/Health/BMI(Body_Mass_Index).secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Health/BMI(Body_Mass_Index).secret|BMI(Body_Mass_Index).secret]] 
 

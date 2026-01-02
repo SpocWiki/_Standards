@@ -63,17 +63,17 @@ OpenStreetMap_tag: healthcare:speciality=hypnosis
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hypnosis](/_Standards/bio/Psychology/Mind/Mental_State/Hypnosis.md) 
+### #is_/same_as :: [[/_Standards/bio/Psychology/Mind/Mental_State/Hypnosis|Hypnosis]] 
 
-### #is_/same_as :: [Hypnosis.public](/_public/bio/Psychology/Mind/Mental_State/Hypnosis.public.md) 
+### #is_/same_as :: [[/_public/bio/Psychology/Mind/Mental_State/Hypnosis.public|Hypnosis.public]] 
 
-### #is_/same_as :: [Hypnosis.internal](/_internal/bio/Psychology/Mind/Mental_State/Hypnosis.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Psychology/Mind/Mental_State/Hypnosis.internal|Hypnosis.internal]] 
 
-### #is_/same_as :: [Hypnosis.protect](/_protect/bio/Psychology/Mind/Mental_State/Hypnosis.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Psychology/Mind/Mental_State/Hypnosis.protect|Hypnosis.protect]] 
 
-### #is_/same_as :: [Hypnosis.private](/_private/bio/Psychology/Mind/Mental_State/Hypnosis.private.md) 
+### #is_/same_as :: [[/_private/bio/Psychology/Mind/Mental_State/Hypnosis.private|Hypnosis.private]] 
 
-### #is_/same_as :: [Hypnosis.personal](/_personal/bio/Psychology/Mind/Mental_State/Hypnosis.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Psychology/Mind/Mental_State/Hypnosis.personal|Hypnosis.personal]] 
 
-### #is_/same_as :: [Hypnosis.secret](/_secret/bio/Psychology/Mind/Mental_State/Hypnosis.secret.md)
+### #is_/same_as :: [[/_secret/bio/Psychology/Mind/Mental_State/Hypnosis.secret|Hypnosis.secret]] 
 

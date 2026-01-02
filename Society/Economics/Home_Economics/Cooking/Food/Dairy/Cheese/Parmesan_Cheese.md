@@ -68,17 +68,17 @@ native_label: Parmigiano Reggiano
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Parmesan_Cheese](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Dairy/Cheese/Parmesan_Cheese.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Home_Economics/Cooking/Food/Dairy/Cheese/Parmesan_Cheese|Parmesan_Cheese]] 
 
-### #is_/same_as :: [Parmesan_Cheese.public](/_public/Society/Economics/Home_Economics/Cooking/Food/Dairy/Cheese/Parmesan_Cheese.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Home_Economics/Cooking/Food/Dairy/Cheese/Parmesan_Cheese.public|Parmesan_Cheese.public]] 
 
-### #is_/same_as :: [Parmesan_Cheese.internal](/_internal/Society/Economics/Home_Economics/Cooking/Food/Dairy/Cheese/Parmesan_Cheese.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Home_Economics/Cooking/Food/Dairy/Cheese/Parmesan_Cheese.internal|Parmesan_Cheese.internal]] 
 
-### #is_/same_as :: [Parmesan_Cheese.protect](/_protect/Society/Economics/Home_Economics/Cooking/Food/Dairy/Cheese/Parmesan_Cheese.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Home_Economics/Cooking/Food/Dairy/Cheese/Parmesan_Cheese.protect|Parmesan_Cheese.protect]] 
 
-### #is_/same_as :: [Parmesan_Cheese.private](/_private/Society/Economics/Home_Economics/Cooking/Food/Dairy/Cheese/Parmesan_Cheese.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Home_Economics/Cooking/Food/Dairy/Cheese/Parmesan_Cheese.private|Parmesan_Cheese.private]] 
 
-### #is_/same_as :: [Parmesan_Cheese.personal](/_personal/Society/Economics/Home_Economics/Cooking/Food/Dairy/Cheese/Parmesan_Cheese.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Home_Economics/Cooking/Food/Dairy/Cheese/Parmesan_Cheese.personal|Parmesan_Cheese.personal]] 
 
-### #is_/same_as :: [Parmesan_Cheese.secret](/_secret/Society/Economics/Home_Economics/Cooking/Food/Dairy/Cheese/Parmesan_Cheese.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Home_Economics/Cooking/Food/Dairy/Cheese/Parmesan_Cheese.secret|Parmesan_Cheese.secret]] 
 

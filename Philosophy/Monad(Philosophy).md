@@ -17,17 +17,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Monad(Philosophy)](/_Standards/Philosophy/Monad(Philosophy).md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Monad(Philosophy)|Monad(Philosophy)]] 
 
-### #is_/same_as :: [Monad(Philosophy).public](/_public/Philosophy/Monad(Philosophy).public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Monad(Philosophy).public|Monad(Philosophy).public]] 
 
-### #is_/same_as :: [Monad(Philosophy).internal](/_internal/Philosophy/Monad(Philosophy).internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Monad(Philosophy).internal|Monad(Philosophy).internal]] 
 
-### #is_/same_as :: [Monad(Philosophy).protect](/_protect/Philosophy/Monad(Philosophy).protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Monad(Philosophy).protect|Monad(Philosophy).protect]] 
 
-### #is_/same_as :: [Monad(Philosophy).private](/_private/Philosophy/Monad(Philosophy).private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Monad(Philosophy).private|Monad(Philosophy).private]] 
 
-### #is_/same_as :: [Monad(Philosophy).personal](/_personal/Philosophy/Monad(Philosophy).personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Monad(Philosophy).personal|Monad(Philosophy).personal]] 
 
-### #is_/same_as :: [Monad(Philosophy).secret](/_secret/Philosophy/Monad(Philosophy).secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Monad(Philosophy).secret|Monad(Philosophy).secret]] 
 

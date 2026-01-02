@@ -40,17 +40,17 @@ Library_of_Congress_Classification: PN2071.I5
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Improvisational_Theatre](/_Standards/Society/Communication/Media/Performing_Arts/Theater/Improvisational_Theatre.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Performing_Arts/Theater/Improvisational_Theatre|Improvisational_Theatre]] 
 
-### #is_/same_as :: [Improvisational_Theatre.public](/_public/Society/Communication/Media/Performing_Arts/Theater/Improvisational_Theatre.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Performing_Arts/Theater/Improvisational_Theatre.public|Improvisational_Theatre.public]] 
 
-### #is_/same_as :: [Improvisational_Theatre.internal](/_internal/Society/Communication/Media/Performing_Arts/Theater/Improvisational_Theatre.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Performing_Arts/Theater/Improvisational_Theatre.internal|Improvisational_Theatre.internal]] 
 
-### #is_/same_as :: [Improvisational_Theatre.protect](/_protect/Society/Communication/Media/Performing_Arts/Theater/Improvisational_Theatre.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Performing_Arts/Theater/Improvisational_Theatre.protect|Improvisational_Theatre.protect]] 
 
-### #is_/same_as :: [Improvisational_Theatre.private](/_private/Society/Communication/Media/Performing_Arts/Theater/Improvisational_Theatre.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Performing_Arts/Theater/Improvisational_Theatre.private|Improvisational_Theatre.private]] 
 
-### #is_/same_as :: [Improvisational_Theatre.personal](/_personal/Society/Communication/Media/Performing_Arts/Theater/Improvisational_Theatre.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Performing_Arts/Theater/Improvisational_Theatre.personal|Improvisational_Theatre.personal]] 
 
-### #is_/same_as :: [Improvisational_Theatre.secret](/_secret/Society/Communication/Media/Performing_Arts/Theater/Improvisational_Theatre.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Performing_Arts/Theater/Improvisational_Theatre.secret|Improvisational_Theatre.secret]] 
 

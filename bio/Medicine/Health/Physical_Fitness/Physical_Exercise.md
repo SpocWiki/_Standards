@@ -59,17 +59,17 @@ OpenStreetMap_tag:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Physical_Exercise](/_Standards/bio/Medicine/Health/Physical_Fitness/Physical_Exercise.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Health/Physical_Fitness/Physical_Exercise|Physical_Exercise]] 
 
-### #is_/same_as :: [Physical_Exercise.public](/_public/bio/Medicine/Health/Physical_Fitness/Physical_Exercise.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Health/Physical_Fitness/Physical_Exercise.public|Physical_Exercise.public]] 
 
-### #is_/same_as :: [Physical_Exercise.internal](/_internal/bio/Medicine/Health/Physical_Fitness/Physical_Exercise.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Health/Physical_Fitness/Physical_Exercise.internal|Physical_Exercise.internal]] 
 
-### #is_/same_as :: [Physical_Exercise.protect](/_protect/bio/Medicine/Health/Physical_Fitness/Physical_Exercise.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Health/Physical_Fitness/Physical_Exercise.protect|Physical_Exercise.protect]] 
 
-### #is_/same_as :: [Physical_Exercise.private](/_private/bio/Medicine/Health/Physical_Fitness/Physical_Exercise.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Health/Physical_Fitness/Physical_Exercise.private|Physical_Exercise.private]] 
 
-### #is_/same_as :: [Physical_Exercise.personal](/_personal/bio/Medicine/Health/Physical_Fitness/Physical_Exercise.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Health/Physical_Fitness/Physical_Exercise.personal|Physical_Exercise.personal]] 
 
-### #is_/same_as :: [Physical_Exercise.secret](/_secret/bio/Medicine/Health/Physical_Fitness/Physical_Exercise.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Health/Physical_Fitness/Physical_Exercise.secret|Physical_Exercise.secret]] 
 

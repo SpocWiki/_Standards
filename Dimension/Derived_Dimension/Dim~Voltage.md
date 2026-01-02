@@ -51,17 +51,17 @@ It's SI Unit is the [[../Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Volt]].
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Dim~Voltage](/_Standards/Dimension/Derived_Dimension/Dim~Voltage.md) 
+### #is_/same_as :: [[/_Standards/Dimension/Derived_Dimension/Dim~Voltage|Dim~Voltage]] 
 
-### #is_/same_as :: [Dim~Voltage.public](/_public/Dimension/Derived_Dimension/Dim~Voltage.public.md) 
+### #is_/same_as :: [[/_public/Dimension/Derived_Dimension/Dim~Voltage.public|Dim~Voltage.public]] 
 
-### #is_/same_as :: [Dim~Voltage.internal](/_internal/Dimension/Derived_Dimension/Dim~Voltage.internal.md) 
+### #is_/same_as :: [[/_internal/Dimension/Derived_Dimension/Dim~Voltage.internal|Dim~Voltage.internal]] 
 
-### #is_/same_as :: [Dim~Voltage.protect](/_protect/Dimension/Derived_Dimension/Dim~Voltage.protect.md) 
+### #is_/same_as :: [[/_protect/Dimension/Derived_Dimension/Dim~Voltage.protect|Dim~Voltage.protect]] 
 
-### #is_/same_as :: [Dim~Voltage.private](/_private/Dimension/Derived_Dimension/Dim~Voltage.private.md) 
+### #is_/same_as :: [[/_private/Dimension/Derived_Dimension/Dim~Voltage.private|Dim~Voltage.private]] 
 
-### #is_/same_as :: [Dim~Voltage.personal](/_personal/Dimension/Derived_Dimension/Dim~Voltage.personal.md) 
+### #is_/same_as :: [[/_personal/Dimension/Derived_Dimension/Dim~Voltage.personal|Dim~Voltage.personal]] 
 
-### #is_/same_as :: [Dim~Voltage.secret](/_secret/Dimension/Derived_Dimension/Dim~Voltage.secret.md)
+### #is_/same_as :: [[/_secret/Dimension/Derived_Dimension/Dim~Voltage.secret|Dim~Voltage.secret]] 
 

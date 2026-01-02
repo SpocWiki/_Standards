@@ -113,17 +113,17 @@ writing_language: '[[_Standards/WikiData/WD~French,150]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Durkheim,Émile 1](/_Standards/Society/Anthropology/Sociology/Sociologist/Durkheim,Émile 1.md) 
+### #is_/same_as :: [[/_Standards/Society/Anthropology/Sociology/Sociologist/Durkheim,Émile 1|Durkheim,Émile 1]] 
 
-### #is_/same_as :: [Durkheim,Émile 1.public](/_public/Society/Anthropology/Sociology/Sociologist/Durkheim,Émile 1.public.md) 
+### #is_/same_as :: [[/_public/Society/Anthropology/Sociology/Sociologist/Durkheim,Émile 1.public|Durkheim,Émile 1.public]] 
 
-### #is_/same_as :: [Durkheim,Émile 1.internal](/_internal/Society/Anthropology/Sociology/Sociologist/Durkheim,Émile 1.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Anthropology/Sociology/Sociologist/Durkheim,Émile 1.internal|Durkheim,Émile 1.internal]] 
 
-### #is_/same_as :: [Durkheim,Émile 1.protect](/_protect/Society/Anthropology/Sociology/Sociologist/Durkheim,Émile 1.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Anthropology/Sociology/Sociologist/Durkheim,Émile 1.protect|Durkheim,Émile 1.protect]] 
 
-### #is_/same_as :: [Durkheim,Émile 1.private](/_private/Society/Anthropology/Sociology/Sociologist/Durkheim,Émile 1.private.md) 
+### #is_/same_as :: [[/_private/Society/Anthropology/Sociology/Sociologist/Durkheim,Émile 1.private|Durkheim,Émile 1.private]] 
 
-### #is_/same_as :: [Durkheim,Émile 1.personal](/_personal/Society/Anthropology/Sociology/Sociologist/Durkheim,Émile 1.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Anthropology/Sociology/Sociologist/Durkheim,Émile 1.personal|Durkheim,Émile 1.personal]] 
 
-### #is_/same_as :: [Durkheim,Émile 1.secret](/_secret/Society/Anthropology/Sociology/Sociologist/Durkheim,Émile 1.secret.md)
+### #is_/same_as :: [[/_secret/Society/Anthropology/Sociology/Sociologist/Durkheim,Émile 1.secret|Durkheim,Émile 1.secret]] 
 

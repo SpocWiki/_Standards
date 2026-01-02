@@ -73,17 +73,17 @@ date_of_official_opening: 2029-01-01T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Fehmarn_Belt_fixed_link](/_Standards/Earth/Continent/Europe/Europe~North/Fehmarn_Belt_fixed_link.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Fehmarn_Belt_fixed_link|Fehmarn_Belt_fixed_link]] 
 
-### #is_/same_as :: [Fehmarn_Belt_fixed_link.public](/_public/Earth/Continent/Europe/Europe~North/Fehmarn_Belt_fixed_link.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Fehmarn_Belt_fixed_link.public|Fehmarn_Belt_fixed_link.public]] 
 
-### #is_/same_as :: [Fehmarn_Belt_fixed_link.internal](/_internal/Earth/Continent/Europe/Europe~North/Fehmarn_Belt_fixed_link.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Fehmarn_Belt_fixed_link.internal|Fehmarn_Belt_fixed_link.internal]] 
 
-### #is_/same_as :: [Fehmarn_Belt_fixed_link.protect](/_protect/Earth/Continent/Europe/Europe~North/Fehmarn_Belt_fixed_link.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Fehmarn_Belt_fixed_link.protect|Fehmarn_Belt_fixed_link.protect]] 
 
-### #is_/same_as :: [Fehmarn_Belt_fixed_link.private](/_private/Earth/Continent/Europe/Europe~North/Fehmarn_Belt_fixed_link.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Fehmarn_Belt_fixed_link.private|Fehmarn_Belt_fixed_link.private]] 
 
-### #is_/same_as :: [Fehmarn_Belt_fixed_link.personal](/_personal/Earth/Continent/Europe/Europe~North/Fehmarn_Belt_fixed_link.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Fehmarn_Belt_fixed_link.personal|Fehmarn_Belt_fixed_link.personal]] 
 
-### #is_/same_as :: [Fehmarn_Belt_fixed_link.secret](/_secret/Earth/Continent/Europe/Europe~North/Fehmarn_Belt_fixed_link.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Fehmarn_Belt_fixed_link.secret|Fehmarn_Belt_fixed_link.secret]] 
 

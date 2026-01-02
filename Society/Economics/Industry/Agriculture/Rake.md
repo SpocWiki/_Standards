@@ -55,17 +55,17 @@ Commons_category: Hand rakes
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Rake](/_Standards/Society/Economics/Industry/Agriculture/Rake.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Industry/Agriculture/Rake|Rake]] 
 
-### #is_/same_as :: [Rake.public](/_public/Society/Economics/Industry/Agriculture/Rake.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Industry/Agriculture/Rake.public|Rake.public]] 
 
-### #is_/same_as :: [Rake.internal](/_internal/Society/Economics/Industry/Agriculture/Rake.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Industry/Agriculture/Rake.internal|Rake.internal]] 
 
-### #is_/same_as :: [Rake.protect](/_protect/Society/Economics/Industry/Agriculture/Rake.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Industry/Agriculture/Rake.protect|Rake.protect]] 
 
-### #is_/same_as :: [Rake.private](/_private/Society/Economics/Industry/Agriculture/Rake.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Industry/Agriculture/Rake.private|Rake.private]] 
 
-### #is_/same_as :: [Rake.personal](/_personal/Society/Economics/Industry/Agriculture/Rake.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Industry/Agriculture/Rake.personal|Rake.personal]] 
 
-### #is_/same_as :: [Rake.secret](/_secret/Society/Economics/Industry/Agriculture/Rake.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Industry/Agriculture/Rake.secret|Rake.secret]] 
 

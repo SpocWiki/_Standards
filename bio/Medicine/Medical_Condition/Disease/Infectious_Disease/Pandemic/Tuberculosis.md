@@ -155,17 +155,17 @@ U_S_National_Archives_Identifier: 10646685
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Tuberculosis](/_Standards/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Pandemic/Tuberculosis.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Pandemic/Tuberculosis|Tuberculosis]] 
 
-### #is_/same_as :: [Tuberculosis.public](/_public/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Pandemic/Tuberculosis.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Pandemic/Tuberculosis.public|Tuberculosis.public]] 
 
-### #is_/same_as :: [Tuberculosis.internal](/_internal/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Pandemic/Tuberculosis.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Pandemic/Tuberculosis.internal|Tuberculosis.internal]] 
 
-### #is_/same_as :: [Tuberculosis.protect](/_protect/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Pandemic/Tuberculosis.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Pandemic/Tuberculosis.protect|Tuberculosis.protect]] 
 
-### #is_/same_as :: [Tuberculosis.private](/_private/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Pandemic/Tuberculosis.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Pandemic/Tuberculosis.private|Tuberculosis.private]] 
 
-### #is_/same_as :: [Tuberculosis.personal](/_personal/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Pandemic/Tuberculosis.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Pandemic/Tuberculosis.personal|Tuberculosis.personal]] 
 
-### #is_/same_as :: [Tuberculosis.secret](/_secret/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Pandemic/Tuberculosis.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Pandemic/Tuberculosis.secret|Tuberculosis.secret]] 
 

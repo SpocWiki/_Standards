@@ -37,17 +37,17 @@ taxon_name: Psidium
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Psidium](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Myrtales/Myrtaceae/Myrtoideae/Myrteae/Psidium.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Myrtales/Myrtaceae/Myrtoideae/Myrteae/Psidium|Psidium]] 
 
-### #is_/same_as :: [Psidium.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Myrtales/Myrtaceae/Myrtoideae/Myrteae/Psidium.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Myrtales/Myrtaceae/Myrtoideae/Myrteae/Psidium.public|Psidium.public]] 
 
-### #is_/same_as :: [Psidium.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Myrtales/Myrtaceae/Myrtoideae/Myrteae/Psidium.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Myrtales/Myrtaceae/Myrtoideae/Myrteae/Psidium.internal|Psidium.internal]] 
 
-### #is_/same_as :: [Psidium.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Myrtales/Myrtaceae/Myrtoideae/Myrteae/Psidium.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Myrtales/Myrtaceae/Myrtoideae/Myrteae/Psidium.protect|Psidium.protect]] 
 
-### #is_/same_as :: [Psidium.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Myrtales/Myrtaceae/Myrtoideae/Myrteae/Psidium.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Myrtales/Myrtaceae/Myrtoideae/Myrteae/Psidium.private|Psidium.private]] 
 
-### #is_/same_as :: [Psidium.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Myrtales/Myrtaceae/Myrtoideae/Myrteae/Psidium.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Myrtales/Myrtaceae/Myrtoideae/Myrteae/Psidium.personal|Psidium.personal]] 
 
-### #is_/same_as :: [Psidium.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Myrtales/Myrtaceae/Myrtoideae/Myrteae/Psidium.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Myrtales/Myrtaceae/Myrtoideae/Myrteae/Psidium.secret|Psidium.secret]] 
 

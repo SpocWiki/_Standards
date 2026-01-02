@@ -45,17 +45,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_url_for_disease_prevention_info](/_Standards/schema-org/Property/has_url_for/has_url_for_disease_prevention_info.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_url_for/has_url_for_disease_prevention_info|has_url_for_disease_prevention_info]] 
 
-### #is_/same_as :: [has_url_for_disease_prevention_info.public](/_public/schema-org/Property/has_url_for/has_url_for_disease_prevention_info.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/has_url_for/has_url_for_disease_prevention_info.public|has_url_for_disease_prevention_info.public]] 
 
-### #is_/same_as :: [has_url_for_disease_prevention_info.internal](/_internal/schema-org/Property/has_url_for/has_url_for_disease_prevention_info.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_url_for/has_url_for_disease_prevention_info.internal|has_url_for_disease_prevention_info.internal]] 
 
-### #is_/same_as :: [has_url_for_disease_prevention_info.protect](/_protect/schema-org/Property/has_url_for/has_url_for_disease_prevention_info.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_url_for/has_url_for_disease_prevention_info.protect|has_url_for_disease_prevention_info.protect]] 
 
-### #is_/same_as :: [has_url_for_disease_prevention_info.private](/_private/schema-org/Property/has_url_for/has_url_for_disease_prevention_info.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/has_url_for/has_url_for_disease_prevention_info.private|has_url_for_disease_prevention_info.private]] 
 
-### #is_/same_as :: [has_url_for_disease_prevention_info.personal](/_personal/schema-org/Property/has_url_for/has_url_for_disease_prevention_info.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_url_for/has_url_for_disease_prevention_info.personal|has_url_for_disease_prevention_info.personal]] 
 
-### #is_/same_as :: [has_url_for_disease_prevention_info.secret](/_secret/schema-org/Property/has_url_for/has_url_for_disease_prevention_info.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/has_url_for/has_url_for_disease_prevention_info.secret|has_url_for_disease_prevention_info.secret]] 
 

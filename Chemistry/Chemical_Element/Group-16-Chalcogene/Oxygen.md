@@ -183,17 +183,17 @@ Krugosvet_article_archived_: himiya/kislorod
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Oxygen](/_Standards/Chemistry/Chemical_Element/Group-16-Chalcogene/Oxygen.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Chemical_Element/Group-16-Chalcogene/Oxygen|Oxygen]] 
 
-### #is_/same_as :: [Oxygen.public](/_public/Chemistry/Chemical_Element/Group-16-Chalcogene/Oxygen.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Chemical_Element/Group-16-Chalcogene/Oxygen.public|Oxygen.public]] 
 
-### #is_/same_as :: [Oxygen.internal](/_internal/Chemistry/Chemical_Element/Group-16-Chalcogene/Oxygen.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Chemical_Element/Group-16-Chalcogene/Oxygen.internal|Oxygen.internal]] 
 
-### #is_/same_as :: [Oxygen.protect](/_protect/Chemistry/Chemical_Element/Group-16-Chalcogene/Oxygen.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Chemical_Element/Group-16-Chalcogene/Oxygen.protect|Oxygen.protect]] 
 
-### #is_/same_as :: [Oxygen.private](/_private/Chemistry/Chemical_Element/Group-16-Chalcogene/Oxygen.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Chemical_Element/Group-16-Chalcogene/Oxygen.private|Oxygen.private]] 
 
-### #is_/same_as :: [Oxygen.personal](/_personal/Chemistry/Chemical_Element/Group-16-Chalcogene/Oxygen.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Chemical_Element/Group-16-Chalcogene/Oxygen.personal|Oxygen.personal]] 
 
-### #is_/same_as :: [Oxygen.secret](/_secret/Chemistry/Chemical_Element/Group-16-Chalcogene/Oxygen.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Chemical_Element/Group-16-Chalcogene/Oxygen.secret|Oxygen.secret]] 
 

@@ -39,17 +39,17 @@ U_S_National_Archives_Identifier:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Water_Sport](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Water_Sport.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Water_Sport|Water_Sport]] 
 
-### #is_/same_as :: [Water_Sport.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Water_Sport.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Water_Sport.public|Water_Sport.public]] 
 
-### #is_/same_as :: [Water_Sport.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Water_Sport.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Water_Sport.internal|Water_Sport.internal]] 
 
-### #is_/same_as :: [Water_Sport.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Water_Sport.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Water_Sport.protect|Water_Sport.protect]] 
 
-### #is_/same_as :: [Water_Sport.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Water_Sport.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Water_Sport.private|Water_Sport.private]] 
 
-### #is_/same_as :: [Water_Sport.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Water_Sport.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Water_Sport.personal|Water_Sport.personal]] 
 
-### #is_/same_as :: [Water_Sport.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Water_Sport.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Water_Sport.secret|Water_Sport.secret]] 
 

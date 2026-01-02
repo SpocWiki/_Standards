@@ -42,17 +42,17 @@ The event is taking place or has taken place on the startDate as scheduled. Use 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Event_Scheduled](/_Standards/schema-org/Enumeration/Status_Enumeration/Event_Status_Type/Event_Scheduled.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Status_Enumeration/Event_Status_Type/Event_Scheduled|Event_Scheduled]] 
 
-### #is_/same_as :: [Event_Scheduled.public](/_public/schema-org/Enumeration/Status_Enumeration/Event_Status_Type/Event_Scheduled.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Status_Enumeration/Event_Status_Type/Event_Scheduled.public|Event_Scheduled.public]] 
 
-### #is_/same_as :: [Event_Scheduled.internal](/_internal/schema-org/Enumeration/Status_Enumeration/Event_Status_Type/Event_Scheduled.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Status_Enumeration/Event_Status_Type/Event_Scheduled.internal|Event_Scheduled.internal]] 
 
-### #is_/same_as :: [Event_Scheduled.protect](/_protect/schema-org/Enumeration/Status_Enumeration/Event_Status_Type/Event_Scheduled.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Status_Enumeration/Event_Status_Type/Event_Scheduled.protect|Event_Scheduled.protect]] 
 
-### #is_/same_as :: [Event_Scheduled.private](/_private/schema-org/Enumeration/Status_Enumeration/Event_Status_Type/Event_Scheduled.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Status_Enumeration/Event_Status_Type/Event_Scheduled.private|Event_Scheduled.private]] 
 
-### #is_/same_as :: [Event_Scheduled.personal](/_personal/schema-org/Enumeration/Status_Enumeration/Event_Status_Type/Event_Scheduled.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Status_Enumeration/Event_Status_Type/Event_Scheduled.personal|Event_Scheduled.personal]] 
 
-### #is_/same_as :: [Event_Scheduled.secret](/_secret/schema-org/Enumeration/Status_Enumeration/Event_Status_Type/Event_Scheduled.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Status_Enumeration/Event_Status_Type/Event_Scheduled.secret|Event_Scheduled.secret]] 
 

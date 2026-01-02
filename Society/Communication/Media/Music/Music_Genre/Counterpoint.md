@@ -45,17 +45,17 @@ has_id_wikidata: Q186393
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Counterpoint](/_Standards/Society/Communication/Media/Music/Music_Genre/Counterpoint.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Music_Genre/Counterpoint|Counterpoint]] 
 
-### #is_/same_as :: [Counterpoint.public](/_public/Society/Communication/Media/Music/Music_Genre/Counterpoint.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Music_Genre/Counterpoint.public|Counterpoint.public]] 
 
-### #is_/same_as :: [Counterpoint.internal](/_internal/Society/Communication/Media/Music/Music_Genre/Counterpoint.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Music_Genre/Counterpoint.internal|Counterpoint.internal]] 
 
-### #is_/same_as :: [Counterpoint.protect](/_protect/Society/Communication/Media/Music/Music_Genre/Counterpoint.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Music_Genre/Counterpoint.protect|Counterpoint.protect]] 
 
-### #is_/same_as :: [Counterpoint.private](/_private/Society/Communication/Media/Music/Music_Genre/Counterpoint.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Music_Genre/Counterpoint.private|Counterpoint.private]] 
 
-### #is_/same_as :: [Counterpoint.personal](/_personal/Society/Communication/Media/Music/Music_Genre/Counterpoint.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Music_Genre/Counterpoint.personal|Counterpoint.personal]] 
 
-### #is_/same_as :: [Counterpoint.secret](/_secret/Society/Communication/Media/Music/Music_Genre/Counterpoint.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Music_Genre/Counterpoint.secret|Counterpoint.secret]] 
 

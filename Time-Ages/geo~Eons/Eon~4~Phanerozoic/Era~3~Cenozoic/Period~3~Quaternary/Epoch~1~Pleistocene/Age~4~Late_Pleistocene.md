@@ -66,17 +66,17 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Age~4~Late_Pleistocene](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~1~Pleistocene/Age~4~Late_Pleistocene.md) 
+### #is_/same_as :: [[/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~1~Pleistocene/Age~4~Late_Pleistocene|Age~4~Late_Pleistocene]] 
 
-### #is_/same_as :: [Age~4~Late_Pleistocene.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~1~Pleistocene/Age~4~Late_Pleistocene.public.md) 
+### #is_/same_as :: [[/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~1~Pleistocene/Age~4~Late_Pleistocene.public|Age~4~Late_Pleistocene.public]] 
 
-### #is_/same_as :: [Age~4~Late_Pleistocene.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~1~Pleistocene/Age~4~Late_Pleistocene.internal.md) 
+### #is_/same_as :: [[/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~1~Pleistocene/Age~4~Late_Pleistocene.internal|Age~4~Late_Pleistocene.internal]] 
 
-### #is_/same_as :: [Age~4~Late_Pleistocene.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~1~Pleistocene/Age~4~Late_Pleistocene.protect.md) 
+### #is_/same_as :: [[/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~1~Pleistocene/Age~4~Late_Pleistocene.protect|Age~4~Late_Pleistocene.protect]] 
 
-### #is_/same_as :: [Age~4~Late_Pleistocene.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~1~Pleistocene/Age~4~Late_Pleistocene.private.md) 
+### #is_/same_as :: [[/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~1~Pleistocene/Age~4~Late_Pleistocene.private|Age~4~Late_Pleistocene.private]] 
 
-### #is_/same_as :: [Age~4~Late_Pleistocene.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~1~Pleistocene/Age~4~Late_Pleistocene.personal.md) 
+### #is_/same_as :: [[/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~1~Pleistocene/Age~4~Late_Pleistocene.personal|Age~4~Late_Pleistocene.personal]] 
 
-### #is_/same_as :: [Age~4~Late_Pleistocene.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~1~Pleistocene/Age~4~Late_Pleistocene.secret.md)
+### #is_/same_as :: [[/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~1~Pleistocene/Age~4~Late_Pleistocene.secret|Age~4~Late_Pleistocene.secret]] 
 

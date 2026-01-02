@@ -17,17 +17,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bacillus_anthracis](/_Standards/bio/bio~Domain/Bacteria/Bacillati/Bacillota/Bacillus_anthracis.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Bacteria/Bacillati/Bacillota/Bacillus_anthracis|Bacillus_anthracis]] 
 
-### #is_/same_as :: [Bacillus_anthracis.public](/_public/bio/bio~Domain/Bacteria/Bacillati/Bacillota/Bacillus_anthracis.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Bacteria/Bacillati/Bacillota/Bacillus_anthracis.public|Bacillus_anthracis.public]] 
 
-### #is_/same_as :: [Bacillus_anthracis.internal](/_internal/bio/bio~Domain/Bacteria/Bacillati/Bacillota/Bacillus_anthracis.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Bacteria/Bacillati/Bacillota/Bacillus_anthracis.internal|Bacillus_anthracis.internal]] 
 
-### #is_/same_as :: [Bacillus_anthracis.protect](/_protect/bio/bio~Domain/Bacteria/Bacillati/Bacillota/Bacillus_anthracis.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Bacteria/Bacillati/Bacillota/Bacillus_anthracis.protect|Bacillus_anthracis.protect]] 
 
-### #is_/same_as :: [Bacillus_anthracis.private](/_private/bio/bio~Domain/Bacteria/Bacillati/Bacillota/Bacillus_anthracis.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Bacteria/Bacillati/Bacillota/Bacillus_anthracis.private|Bacillus_anthracis.private]] 
 
-### #is_/same_as :: [Bacillus_anthracis.personal](/_personal/bio/bio~Domain/Bacteria/Bacillati/Bacillota/Bacillus_anthracis.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Bacteria/Bacillati/Bacillota/Bacillus_anthracis.personal|Bacillus_anthracis.personal]] 
 
-### #is_/same_as :: [Bacillus_anthracis.secret](/_secret/bio/bio~Domain/Bacteria/Bacillati/Bacillota/Bacillus_anthracis.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Bacteria/Bacillati/Bacillota/Bacillus_anthracis.secret|Bacillus_anthracis.secret]] 
 

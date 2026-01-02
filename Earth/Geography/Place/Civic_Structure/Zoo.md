@@ -81,17 +81,17 @@ Tag Instances like this:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Zoo](/_Standards/Earth/Geography/Place/Civic_Structure/Zoo.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geography/Place/Civic_Structure/Zoo|Zoo]] 
 
-### #is_/same_as :: [Zoo.public](/_public/Earth/Geography/Place/Civic_Structure/Zoo.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geography/Place/Civic_Structure/Zoo.public|Zoo.public]] 
 
-### #is_/same_as :: [Zoo.internal](/_internal/Earth/Geography/Place/Civic_Structure/Zoo.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geography/Place/Civic_Structure/Zoo.internal|Zoo.internal]] 
 
-### #is_/same_as :: [Zoo.protect](/_protect/Earth/Geography/Place/Civic_Structure/Zoo.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geography/Place/Civic_Structure/Zoo.protect|Zoo.protect]] 
 
-### #is_/same_as :: [Zoo.private](/_private/Earth/Geography/Place/Civic_Structure/Zoo.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geography/Place/Civic_Structure/Zoo.private|Zoo.private]] 
 
-### #is_/same_as :: [Zoo.personal](/_personal/Earth/Geography/Place/Civic_Structure/Zoo.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geography/Place/Civic_Structure/Zoo.personal|Zoo.personal]] 
 
-### #is_/same_as :: [Zoo.secret](/_secret/Earth/Geography/Place/Civic_Structure/Zoo.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geography/Place/Civic_Structure/Zoo.secret|Zoo.secret]] 
 

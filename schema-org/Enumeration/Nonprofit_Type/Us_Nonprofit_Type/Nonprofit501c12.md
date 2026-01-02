@@ -42,17 +42,17 @@ Nonprofit501c12: Non-profit type referring to Benevolent Life Insurance Associat
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Nonprofit501c12](/_Standards/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c12.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c12|Nonprofit501c12]] 
 
-### #is_/same_as :: [Nonprofit501c12.public](/_public/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c12.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c12.public|Nonprofit501c12.public]] 
 
-### #is_/same_as :: [Nonprofit501c12.internal](/_internal/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c12.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c12.internal|Nonprofit501c12.internal]] 
 
-### #is_/same_as :: [Nonprofit501c12.protect](/_protect/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c12.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c12.protect|Nonprofit501c12.protect]] 
 
-### #is_/same_as :: [Nonprofit501c12.private](/_private/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c12.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c12.private|Nonprofit501c12.private]] 
 
-### #is_/same_as :: [Nonprofit501c12.personal](/_personal/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c12.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c12.personal|Nonprofit501c12.personal]] 
 
-### #is_/same_as :: [Nonprofit501c12.secret](/_secret/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c12.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c12.secret|Nonprofit501c12.secret]] 
 

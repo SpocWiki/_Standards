@@ -45,17 +45,17 @@ Terminologia_Embryologica: E1.0.0.0.0.0.20
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ontogeny](/_Standards/bio/Reproduction/Developmental_Biology/Ontogeny.md) 
+### #is_/same_as :: [[/_Standards/bio/Reproduction/Developmental_Biology/Ontogeny|Ontogeny]] 
 
-### #is_/same_as :: [Ontogeny.public](/_public/bio/Reproduction/Developmental_Biology/Ontogeny.public.md) 
+### #is_/same_as :: [[/_public/bio/Reproduction/Developmental_Biology/Ontogeny.public|Ontogeny.public]] 
 
-### #is_/same_as :: [Ontogeny.internal](/_internal/bio/Reproduction/Developmental_Biology/Ontogeny.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Reproduction/Developmental_Biology/Ontogeny.internal|Ontogeny.internal]] 
 
-### #is_/same_as :: [Ontogeny.protect](/_protect/bio/Reproduction/Developmental_Biology/Ontogeny.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Reproduction/Developmental_Biology/Ontogeny.protect|Ontogeny.protect]] 
 
-### #is_/same_as :: [Ontogeny.private](/_private/bio/Reproduction/Developmental_Biology/Ontogeny.private.md) 
+### #is_/same_as :: [[/_private/bio/Reproduction/Developmental_Biology/Ontogeny.private|Ontogeny.private]] 
 
-### #is_/same_as :: [Ontogeny.personal](/_personal/bio/Reproduction/Developmental_Biology/Ontogeny.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Reproduction/Developmental_Biology/Ontogeny.personal|Ontogeny.personal]] 
 
-### #is_/same_as :: [Ontogeny.secret](/_secret/bio/Reproduction/Developmental_Biology/Ontogeny.secret.md)
+### #is_/same_as :: [[/_secret/bio/Reproduction/Developmental_Biology/Ontogeny.secret|Ontogeny.secret]] 
 

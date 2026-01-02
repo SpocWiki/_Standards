@@ -57,17 +57,17 @@ Tag Instances like this:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [MRI(Magnetic_Resonance_Imaging)](/_Standards/bio/Medicine/Medical_Enumeration/Medical_Imaging_Technique/MRI(Magnetic_Resonance_Imaging).md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Enumeration/Medical_Imaging_Technique/MRI(Magnetic_Resonance_Imaging)|MRI(Magnetic_Resonance_Imaging)]] 
 
-### #is_/same_as :: [MRI(Magnetic_Resonance_Imaging).public](/_public/bio/Medicine/Medical_Enumeration/Medical_Imaging_Technique/MRI(Magnetic_Resonance_Imaging).public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Enumeration/Medical_Imaging_Technique/MRI(Magnetic_Resonance_Imaging).public|MRI(Magnetic_Resonance_Imaging).public]] 
 
-### #is_/same_as :: [MRI(Magnetic_Resonance_Imaging).internal](/_internal/bio/Medicine/Medical_Enumeration/Medical_Imaging_Technique/MRI(Magnetic_Resonance_Imaging).internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Enumeration/Medical_Imaging_Technique/MRI(Magnetic_Resonance_Imaging).internal|MRI(Magnetic_Resonance_Imaging).internal]] 
 
-### #is_/same_as :: [MRI(Magnetic_Resonance_Imaging).protect](/_protect/bio/Medicine/Medical_Enumeration/Medical_Imaging_Technique/MRI(Magnetic_Resonance_Imaging).protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Enumeration/Medical_Imaging_Technique/MRI(Magnetic_Resonance_Imaging).protect|MRI(Magnetic_Resonance_Imaging).protect]] 
 
-### #is_/same_as :: [MRI(Magnetic_Resonance_Imaging).private](/_private/bio/Medicine/Medical_Enumeration/Medical_Imaging_Technique/MRI(Magnetic_Resonance_Imaging).private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Enumeration/Medical_Imaging_Technique/MRI(Magnetic_Resonance_Imaging).private|MRI(Magnetic_Resonance_Imaging).private]] 
 
-### #is_/same_as :: [MRI(Magnetic_Resonance_Imaging).personal](/_personal/bio/Medicine/Medical_Enumeration/Medical_Imaging_Technique/MRI(Magnetic_Resonance_Imaging).personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Enumeration/Medical_Imaging_Technique/MRI(Magnetic_Resonance_Imaging).personal|MRI(Magnetic_Resonance_Imaging).personal]] 
 
-### #is_/same_as :: [MRI(Magnetic_Resonance_Imaging).secret](/_secret/bio/Medicine/Medical_Enumeration/Medical_Imaging_Technique/MRI(Magnetic_Resonance_Imaging).secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Enumeration/Medical_Imaging_Technique/MRI(Magnetic_Resonance_Imaging).secret|MRI(Magnetic_Resonance_Imaging).secret]] 
 

@@ -116,17 +116,17 @@ A stadium.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Stadium_or_Arena](/_Standards/Earth/Geography/Place/Civic_Structure/Stadium_or_Arena.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geography/Place/Civic_Structure/Stadium_or_Arena|Stadium_or_Arena]] 
 
-### #is_/same_as :: [Stadium_or_Arena.public](/_public/Earth/Geography/Place/Civic_Structure/Stadium_or_Arena.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geography/Place/Civic_Structure/Stadium_or_Arena.public|Stadium_or_Arena.public]] 
 
-### #is_/same_as :: [Stadium_or_Arena.internal](/_internal/Earth/Geography/Place/Civic_Structure/Stadium_or_Arena.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geography/Place/Civic_Structure/Stadium_or_Arena.internal|Stadium_or_Arena.internal]] 
 
-### #is_/same_as :: [Stadium_or_Arena.protect](/_protect/Earth/Geography/Place/Civic_Structure/Stadium_or_Arena.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geography/Place/Civic_Structure/Stadium_or_Arena.protect|Stadium_or_Arena.protect]] 
 
-### #is_/same_as :: [Stadium_or_Arena.private](/_private/Earth/Geography/Place/Civic_Structure/Stadium_or_Arena.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geography/Place/Civic_Structure/Stadium_or_Arena.private|Stadium_or_Arena.private]] 
 
-### #is_/same_as :: [Stadium_or_Arena.personal](/_personal/Earth/Geography/Place/Civic_Structure/Stadium_or_Arena.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geography/Place/Civic_Structure/Stadium_or_Arena.personal|Stadium_or_Arena.personal]] 
 
-### #is_/same_as :: [Stadium_or_Arena.secret](/_secret/Earth/Geography/Place/Civic_Structure/Stadium_or_Arena.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geography/Place/Civic_Structure/Stadium_or_Arena.secret|Stadium_or_Arena.secret]] 
 

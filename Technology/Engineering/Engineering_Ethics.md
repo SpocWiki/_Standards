@@ -29,17 +29,17 @@ facet_of: "[[_Standards/WikiData/WD~engineering,11023]]"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Engineering_Ethics](/_Standards/Technology/Engineering/Engineering_Ethics.md) 
+### #is_/same_as :: [[/_Standards/Technology/Engineering/Engineering_Ethics|Engineering_Ethics]] 
 
-### #is_/same_as :: [Engineering_Ethics.public](/_public/Technology/Engineering/Engineering_Ethics.public.md) 
+### #is_/same_as :: [[/_public/Technology/Engineering/Engineering_Ethics.public|Engineering_Ethics.public]] 
 
-### #is_/same_as :: [Engineering_Ethics.internal](/_internal/Technology/Engineering/Engineering_Ethics.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Engineering/Engineering_Ethics.internal|Engineering_Ethics.internal]] 
 
-### #is_/same_as :: [Engineering_Ethics.protect](/_protect/Technology/Engineering/Engineering_Ethics.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Engineering/Engineering_Ethics.protect|Engineering_Ethics.protect]] 
 
-### #is_/same_as :: [Engineering_Ethics.private](/_private/Technology/Engineering/Engineering_Ethics.private.md) 
+### #is_/same_as :: [[/_private/Technology/Engineering/Engineering_Ethics.private|Engineering_Ethics.private]] 
 
-### #is_/same_as :: [Engineering_Ethics.personal](/_personal/Technology/Engineering/Engineering_Ethics.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Engineering/Engineering_Ethics.personal|Engineering_Ethics.personal]] 
 
-### #is_/same_as :: [Engineering_Ethics.secret](/_secret/Technology/Engineering/Engineering_Ethics.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Engineering/Engineering_Ethics.secret|Engineering_Ethics.secret]] 
 

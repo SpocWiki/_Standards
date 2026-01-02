@@ -34,17 +34,17 @@ END:VCALENDAR
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [hCalendar](/_Standards/W3C(World_Wide_Web_Consortium)/RDF(Resource_Description_Framework)/hCalendar.md) 
+### #is_/same_as :: [[/_Standards/W3C(World_Wide_Web_Consortium)/RDF(Resource_Description_Framework)/hCalendar|hCalendar]] 
 
-### #is_/same_as :: [hCalendar.public](/_public/W3C(World_Wide_Web_Consortium)/RDF(Resource_Description_Framework)/hCalendar.public.md) 
+### #is_/same_as :: [[/_public/W3C(World_Wide_Web_Consortium)/RDF(Resource_Description_Framework)/hCalendar.public|hCalendar.public]] 
 
-### #is_/same_as :: [hCalendar.internal](/_internal/W3C(World_Wide_Web_Consortium)/RDF(Resource_Description_Framework)/hCalendar.internal.md) 
+### #is_/same_as :: [[/_internal/W3C(World_Wide_Web_Consortium)/RDF(Resource_Description_Framework)/hCalendar.internal|hCalendar.internal]] 
 
-### #is_/same_as :: [hCalendar.protect](/_protect/W3C(World_Wide_Web_Consortium)/RDF(Resource_Description_Framework)/hCalendar.protect.md) 
+### #is_/same_as :: [[/_protect/W3C(World_Wide_Web_Consortium)/RDF(Resource_Description_Framework)/hCalendar.protect|hCalendar.protect]] 
 
-### #is_/same_as :: [hCalendar.private](/_private/W3C(World_Wide_Web_Consortium)/RDF(Resource_Description_Framework)/hCalendar.private.md) 
+### #is_/same_as :: [[/_private/W3C(World_Wide_Web_Consortium)/RDF(Resource_Description_Framework)/hCalendar.private|hCalendar.private]] 
 
-### #is_/same_as :: [hCalendar.personal](/_personal/W3C(World_Wide_Web_Consortium)/RDF(Resource_Description_Framework)/hCalendar.personal.md) 
+### #is_/same_as :: [[/_personal/W3C(World_Wide_Web_Consortium)/RDF(Resource_Description_Framework)/hCalendar.personal|hCalendar.personal]] 
 
-### #is_/same_as :: [hCalendar.secret](/_secret/W3C(World_Wide_Web_Consortium)/RDF(Resource_Description_Framework)/hCalendar.secret.md)
+### #is_/same_as :: [[/_secret/W3C(World_Wide_Web_Consortium)/RDF(Resource_Description_Framework)/hCalendar.secret|hCalendar.secret]] 
 

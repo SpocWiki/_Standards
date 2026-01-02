@@ -156,17 +156,17 @@ ISNI: "0000000121181187"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hopkins,Anthony](/_Standards/Society/Communication/Media/Movie/Actor/British_Actor/Hopkins,Anthony.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Actor/British_Actor/Hopkins,Anthony|Hopkins,Anthony]] 
 
-### #is_/same_as :: [Hopkins,Anthony.public](/_public/Society/Communication/Media/Movie/Actor/British_Actor/Hopkins,Anthony.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Actor/British_Actor/Hopkins,Anthony.public|Hopkins,Anthony.public]] 
 
-### #is_/same_as :: [Hopkins,Anthony.internal](/_internal/Society/Communication/Media/Movie/Actor/British_Actor/Hopkins,Anthony.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Actor/British_Actor/Hopkins,Anthony.internal|Hopkins,Anthony.internal]] 
 
-### #is_/same_as :: [Hopkins,Anthony.protect](/_protect/Society/Communication/Media/Movie/Actor/British_Actor/Hopkins,Anthony.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Actor/British_Actor/Hopkins,Anthony.protect|Hopkins,Anthony.protect]] 
 
-### #is_/same_as :: [Hopkins,Anthony.private](/_private/Society/Communication/Media/Movie/Actor/British_Actor/Hopkins,Anthony.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Actor/British_Actor/Hopkins,Anthony.private|Hopkins,Anthony.private]] 
 
-### #is_/same_as :: [Hopkins,Anthony.personal](/_personal/Society/Communication/Media/Movie/Actor/British_Actor/Hopkins,Anthony.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Actor/British_Actor/Hopkins,Anthony.personal|Hopkins,Anthony.personal]] 
 
-### #is_/same_as :: [Hopkins,Anthony.secret](/_secret/Society/Communication/Media/Movie/Actor/British_Actor/Hopkins,Anthony.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Actor/British_Actor/Hopkins,Anthony.secret|Hopkins,Anthony.secret]] 
 

@@ -44,17 +44,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_measured_property](/_Standards/schema-org/Relation/has/has_measured_property.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_measured_property|has_measured_property]] 
 
-### #is_/same_as :: [has_measured_property.public](/_public/schema-org/Relation/has/has_measured_property.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_measured_property.public|has_measured_property.public]] 
 
-### #is_/same_as :: [has_measured_property.internal](/_internal/schema-org/Relation/has/has_measured_property.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_measured_property.internal|has_measured_property.internal]] 
 
-### #is_/same_as :: [has_measured_property.protect](/_protect/schema-org/Relation/has/has_measured_property.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_measured_property.protect|has_measured_property.protect]] 
 
-### #is_/same_as :: [has_measured_property.private](/_private/schema-org/Relation/has/has_measured_property.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_measured_property.private|has_measured_property.private]] 
 
-### #is_/same_as :: [has_measured_property.personal](/_personal/schema-org/Relation/has/has_measured_property.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_measured_property.personal|has_measured_property.personal]] 
 
-### #is_/same_as :: [has_measured_property.secret](/_secret/schema-org/Relation/has/has_measured_property.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_measured_property.secret|has_measured_property.secret]] 
 

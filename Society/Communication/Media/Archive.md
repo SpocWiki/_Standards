@@ -85,17 +85,17 @@ Commons_gallery: Archive
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Archive](/_Standards/Society/Communication/Media/Archive.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Archive|Archive]] 
 
-### #is_/same_as :: [Archive.public](/_public/Society/Communication/Media/Archive.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Archive.public|Archive.public]] 
 
-### #is_/same_as :: [Archive.internal](/_internal/Society/Communication/Media/Archive.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Archive.internal|Archive.internal]] 
 
-### #is_/same_as :: [Archive.protect](/_protect/Society/Communication/Media/Archive.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Archive.protect|Archive.protect]] 
 
-### #is_/same_as :: [Archive.private](/_private/Society/Communication/Media/Archive.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Archive.private|Archive.private]] 
 
-### #is_/same_as :: [Archive.personal](/_personal/Society/Communication/Media/Archive.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Archive.personal|Archive.personal]] 
 
-### #is_/same_as :: [Archive.secret](/_secret/Society/Communication/Media/Archive.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Archive.secret|Archive.secret]] 
 

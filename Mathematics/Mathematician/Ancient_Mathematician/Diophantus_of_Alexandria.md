@@ -71,17 +71,17 @@ ISNI: 0000000423366849
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Diophantus_of_Alexandria](/_Standards/Mathematics/Mathematician/Ancient_Mathematician/Diophantus_of_Alexandria.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Mathematician/Ancient_Mathematician/Diophantus_of_Alexandria|Diophantus_of_Alexandria]] 
 
-### #is_/same_as :: [Diophantus_of_Alexandria.public](/_public/Mathematics/Mathematician/Ancient_Mathematician/Diophantus_of_Alexandria.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Mathematician/Ancient_Mathematician/Diophantus_of_Alexandria.public|Diophantus_of_Alexandria.public]] 
 
-### #is_/same_as :: [Diophantus_of_Alexandria.internal](/_internal/Mathematics/Mathematician/Ancient_Mathematician/Diophantus_of_Alexandria.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Mathematician/Ancient_Mathematician/Diophantus_of_Alexandria.internal|Diophantus_of_Alexandria.internal]] 
 
-### #is_/same_as :: [Diophantus_of_Alexandria.protect](/_protect/Mathematics/Mathematician/Ancient_Mathematician/Diophantus_of_Alexandria.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Mathematician/Ancient_Mathematician/Diophantus_of_Alexandria.protect|Diophantus_of_Alexandria.protect]] 
 
-### #is_/same_as :: [Diophantus_of_Alexandria.private](/_private/Mathematics/Mathematician/Ancient_Mathematician/Diophantus_of_Alexandria.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Mathematician/Ancient_Mathematician/Diophantus_of_Alexandria.private|Diophantus_of_Alexandria.private]] 
 
-### #is_/same_as :: [Diophantus_of_Alexandria.personal](/_personal/Mathematics/Mathematician/Ancient_Mathematician/Diophantus_of_Alexandria.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Mathematician/Ancient_Mathematician/Diophantus_of_Alexandria.personal|Diophantus_of_Alexandria.personal]] 
 
-### #is_/same_as :: [Diophantus_of_Alexandria.secret](/_secret/Mathematics/Mathematician/Ancient_Mathematician/Diophantus_of_Alexandria.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Mathematician/Ancient_Mathematician/Diophantus_of_Alexandria.secret|Diophantus_of_Alexandria.secret]] 
 

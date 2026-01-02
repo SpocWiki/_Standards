@@ -35,17 +35,17 @@ dissolved_abolished_or_demolished_date: 2001-01-01T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bullfrog_Productions](/_Standards/Society/Communication/Media/Creative_Work/Game/Video_Game/Video_Game_Publisher/Bullfrog_Productions.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Creative_Work/Game/Video_Game/Video_Game_Publisher/Bullfrog_Productions|Bullfrog_Productions]] 
 
-### #is_/same_as :: [Bullfrog_Productions.public](/_public/Society/Communication/Media/Creative_Work/Game/Video_Game/Video_Game_Publisher/Bullfrog_Productions.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Creative_Work/Game/Video_Game/Video_Game_Publisher/Bullfrog_Productions.public|Bullfrog_Productions.public]] 
 
-### #is_/same_as :: [Bullfrog_Productions.internal](/_internal/Society/Communication/Media/Creative_Work/Game/Video_Game/Video_Game_Publisher/Bullfrog_Productions.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Creative_Work/Game/Video_Game/Video_Game_Publisher/Bullfrog_Productions.internal|Bullfrog_Productions.internal]] 
 
-### #is_/same_as :: [Bullfrog_Productions.protect](/_protect/Society/Communication/Media/Creative_Work/Game/Video_Game/Video_Game_Publisher/Bullfrog_Productions.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Creative_Work/Game/Video_Game/Video_Game_Publisher/Bullfrog_Productions.protect|Bullfrog_Productions.protect]] 
 
-### #is_/same_as :: [Bullfrog_Productions.private](/_private/Society/Communication/Media/Creative_Work/Game/Video_Game/Video_Game_Publisher/Bullfrog_Productions.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Creative_Work/Game/Video_Game/Video_Game_Publisher/Bullfrog_Productions.private|Bullfrog_Productions.private]] 
 
-### #is_/same_as :: [Bullfrog_Productions.personal](/_personal/Society/Communication/Media/Creative_Work/Game/Video_Game/Video_Game_Publisher/Bullfrog_Productions.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/Game/Video_Game/Video_Game_Publisher/Bullfrog_Productions.personal|Bullfrog_Productions.personal]] 
 
-### #is_/same_as :: [Bullfrog_Productions.secret](/_secret/Society/Communication/Media/Creative_Work/Game/Video_Game/Video_Game_Publisher/Bullfrog_Productions.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Game/Video_Game/Video_Game_Publisher/Bullfrog_Productions.secret|Bullfrog_Productions.secret]] 
 

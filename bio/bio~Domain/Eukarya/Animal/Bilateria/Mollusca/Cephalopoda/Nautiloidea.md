@@ -9,7 +9,7 @@ title: Nautilidae
 # Nautilidae [Blainville 1825]
 
 Pearly nautiluses 
-![ ](Nautiloidea/NautilusFront.JPG))![ ](Nautiloidea/NautilusInSitu.JPG))
+![ ](Nautiloidea/NautilusFront.JPG))![ ](Nautiloidea/NautilusInSitu.JPG) 
 
 Only these few living species represent this once abundant subclass.
 
@@ -67,7 +67,7 @@ current status, type repository and type locality of all species and all
 pertinent references.
 
 ### Life History
-![ ](Nautiloidea/NautilusEmbryo.jpg))
+![ ](Nautiloidea/NautilusEmbryo.jpg) 
 
 **Figure**. Embryo of ***Nautilus*** sp. removed from the egg case.
 Photograph by J. Arnold.\
@@ -98,7 +98,7 @@ Photograph by J. Arnold.\
 
 
 ------------------------------------------------------------------------- 
-![](Nautiloidea/NautilusFront.JPG))
+![](Nautiloidea/NautilusFront.JPG) 
 Scientific Name ::     Nautilus
 Location ::           Photographed at the U.S. National Zoo in Washington, D.C.
 Specimen Condition   Live Specimen
@@ -106,7 +106,7 @@ View                 frontal
 Copyright ::            © 1996 [Michael Vecchione](mailto:vecchiom@si.edu) 
 
 --------------------------------------------------------------------------- 
-![](Nautiloidea/NautilusInSitu.JPG))
+![](Nautiloidea/NautilusInSitu.JPG) 
 Scientific Name ::     Nautilus pompilius
 Location ::           Osprey Reef, Coral Sea
 Specimen Condition   Live Specimen
@@ -115,17 +115,17 @@ Copyright ::            © 1996 [Mark D. Norman](mailto:mnorman@unimelb.edu.au)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Nautiloidea](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Nautiloidea.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Nautiloidea|Nautiloidea]] 
 
-### #is_/same_as :: [Nautiloidea.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Nautiloidea.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Nautiloidea.public|Nautiloidea.public]] 
 
-### #is_/same_as :: [Nautiloidea.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Nautiloidea.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Nautiloidea.internal|Nautiloidea.internal]] 
 
-### #is_/same_as :: [Nautiloidea.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Nautiloidea.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Nautiloidea.protect|Nautiloidea.protect]] 
 
-### #is_/same_as :: [Nautiloidea.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Nautiloidea.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Nautiloidea.private|Nautiloidea.private]] 
 
-### #is_/same_as :: [Nautiloidea.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Nautiloidea.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Nautiloidea.personal|Nautiloidea.personal]] 
 
-### #is_/same_as :: [Nautiloidea.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Nautiloidea.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Nautiloidea.secret|Nautiloidea.secret]] 
 

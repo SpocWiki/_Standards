@@ -194,17 +194,17 @@ Normdaten (Person): [GND](https://de.wikipedia.org/wiki/Gemeinsame_Normdatei "
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Stuckrad-Barre,Benjamin_von](/_Standards/Society/Communication/Media/Writing/Book/Writer/German_Writer/Stuckrad-Barre,Benjamin_von.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Writer/German_Writer/Stuckrad-Barre,Benjamin_von|Stuckrad-Barre,Benjamin_von]] 
 
-### #is_/same_as :: [Stuckrad-Barre,Benjamin_von.public](/_public/Society/Communication/Media/Writing/Book/Writer/German_Writer/Stuckrad-Barre,Benjamin_von.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Writer/German_Writer/Stuckrad-Barre,Benjamin_von.public|Stuckrad-Barre,Benjamin_von.public]] 
 
-### #is_/same_as :: [Stuckrad-Barre,Benjamin_von.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/German_Writer/Stuckrad-Barre,Benjamin_von.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Writer/German_Writer/Stuckrad-Barre,Benjamin_von.internal|Stuckrad-Barre,Benjamin_von.internal]] 
 
-### #is_/same_as :: [Stuckrad-Barre,Benjamin_von.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/German_Writer/Stuckrad-Barre,Benjamin_von.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Writer/German_Writer/Stuckrad-Barre,Benjamin_von.protect|Stuckrad-Barre,Benjamin_von.protect]] 
 
-### #is_/same_as :: [Stuckrad-Barre,Benjamin_von.private](/_private/Society/Communication/Media/Writing/Book/Writer/German_Writer/Stuckrad-Barre,Benjamin_von.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Writer/German_Writer/Stuckrad-Barre,Benjamin_von.private|Stuckrad-Barre,Benjamin_von.private]] 
 
-### #is_/same_as :: [Stuckrad-Barre,Benjamin_von.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/German_Writer/Stuckrad-Barre,Benjamin_von.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Writer/German_Writer/Stuckrad-Barre,Benjamin_von.personal|Stuckrad-Barre,Benjamin_von.personal]] 
 
-### #is_/same_as :: [Stuckrad-Barre,Benjamin_von.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/German_Writer/Stuckrad-Barre,Benjamin_von.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Writer/German_Writer/Stuckrad-Barre,Benjamin_von.secret|Stuckrad-Barre,Benjamin_von.secret]] 
 

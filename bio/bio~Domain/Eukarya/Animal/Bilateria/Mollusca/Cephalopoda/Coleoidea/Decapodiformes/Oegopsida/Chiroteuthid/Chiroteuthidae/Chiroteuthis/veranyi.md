@@ -34,7 +34,7 @@ title: Chiroteuthis veranyi
 # *Chiroteuthis veranyi* [(Ferussac, 1835)] 
 
 [Clyde F. E. Roper and Richard E. Young](http://www.tolweb.org/)
-![ ](veranyi/C.jpg))
+![ ](veranyi/C.jpg) 
 ![ ](veranyi/Cveranyi.jpg)
 
 The holotype was deposited in the Museum of Natural History, Nice,
@@ -98,7 +98,7 @@ The appearance of the visceral photophores are very different from those
 of ***C. spoeli*** (see Life History on the *Chiroteuthis* page). In
 ***C. veranyi*** the photophores are more imbedded in the ink sac and
 seem to have a different internal structure.
-![ ](veranyi/CveranyiVisPhot138MV.jpg))
+![ ](veranyi/CveranyiVisPhot138MV.jpg) 
 
 **Figure**. Ventral view of the visceral photophores of ***C.
 veranyi***. Photograph by M. Vecchione.\
@@ -213,7 +213,7 @@ Zool., 97: 1-159.
   Location ::        Antarctic waters
   Creator           E. McSweeny
   ----------
-![](veranyi/Cveranyi.jpg))
+![](veranyi/Cveranyi.jpg) 
 
   ----------
   Scientific Name ::  Chiroteuthis veranyi
@@ -223,17 +223,17 @@ Zool., 97: 1-159.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [veranyi](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Chiroteuthidae/Chiroteuthis/veranyi.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Chiroteuthidae/Chiroteuthis/veranyi|veranyi]] 
 
-### #is_/same_as :: [veranyi.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Chiroteuthidae/Chiroteuthis/veranyi.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Chiroteuthidae/Chiroteuthis/veranyi.public|veranyi.public]] 
 
-### #is_/same_as :: [veranyi.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Chiroteuthidae/Chiroteuthis/veranyi.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Chiroteuthidae/Chiroteuthis/veranyi.internal|veranyi.internal]] 
 
-### #is_/same_as :: [veranyi.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Chiroteuthidae/Chiroteuthis/veranyi.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Chiroteuthidae/Chiroteuthis/veranyi.protect|veranyi.protect]] 
 
-### #is_/same_as :: [veranyi.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Chiroteuthidae/Chiroteuthis/veranyi.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Chiroteuthidae/Chiroteuthis/veranyi.private|veranyi.private]] 
 
-### #is_/same_as :: [veranyi.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Chiroteuthidae/Chiroteuthis/veranyi.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Chiroteuthidae/Chiroteuthis/veranyi.personal|veranyi.personal]] 
 
-### #is_/same_as :: [veranyi.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Chiroteuthidae/Chiroteuthis/veranyi.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Chiroteuthidae/Chiroteuthis/veranyi.secret|veranyi.secret]] 
 

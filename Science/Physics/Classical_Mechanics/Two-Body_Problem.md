@@ -37,17 +37,17 @@ Commons_category: Two-body problem
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Two-Body_Problem](/_Standards/Science/Physics/Classical_Mechanics/Two-Body_Problem.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Classical_Mechanics/Two-Body_Problem|Two-Body_Problem]] 
 
-### #is_/same_as :: [Two-Body_Problem.public](/_public/Science/Physics/Classical_Mechanics/Two-Body_Problem.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Classical_Mechanics/Two-Body_Problem.public|Two-Body_Problem.public]] 
 
-### #is_/same_as :: [Two-Body_Problem.internal](/_internal/Science/Physics/Classical_Mechanics/Two-Body_Problem.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Classical_Mechanics/Two-Body_Problem.internal|Two-Body_Problem.internal]] 
 
-### #is_/same_as :: [Two-Body_Problem.protect](/_protect/Science/Physics/Classical_Mechanics/Two-Body_Problem.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Classical_Mechanics/Two-Body_Problem.protect|Two-Body_Problem.protect]] 
 
-### #is_/same_as :: [Two-Body_Problem.private](/_private/Science/Physics/Classical_Mechanics/Two-Body_Problem.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Classical_Mechanics/Two-Body_Problem.private|Two-Body_Problem.private]] 
 
-### #is_/same_as :: [Two-Body_Problem.personal](/_personal/Science/Physics/Classical_Mechanics/Two-Body_Problem.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Classical_Mechanics/Two-Body_Problem.personal|Two-Body_Problem.personal]] 
 
-### #is_/same_as :: [Two-Body_Problem.secret](/_secret/Science/Physics/Classical_Mechanics/Two-Body_Problem.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Classical_Mechanics/Two-Body_Problem.secret|Two-Body_Problem.secret]] 
 

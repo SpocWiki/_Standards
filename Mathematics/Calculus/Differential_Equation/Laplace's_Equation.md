@@ -55,17 +55,17 @@ Commons_category: Laplace's equation
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Laplace's_Equation](/_Standards/Mathematics/Calculus/Differential_Equation/Laplace's_Equation.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Calculus/Differential_Equation/Laplace's_Equation|Laplace's_Equation]] 
 
-### #is_/same_as :: [Laplace's_Equation.public](/_public/Mathematics/Calculus/Differential_Equation/Laplace's_Equation.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Calculus/Differential_Equation/Laplace's_Equation.public|Laplace's_Equation.public]] 
 
-### #is_/same_as :: [Laplace's_Equation.internal](/_internal/Mathematics/Calculus/Differential_Equation/Laplace's_Equation.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Calculus/Differential_Equation/Laplace's_Equation.internal|Laplace's_Equation.internal]] 
 
-### #is_/same_as :: [Laplace's_Equation.protect](/_protect/Mathematics/Calculus/Differential_Equation/Laplace's_Equation.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Calculus/Differential_Equation/Laplace's_Equation.protect|Laplace's_Equation.protect]] 
 
-### #is_/same_as :: [Laplace's_Equation.private](/_private/Mathematics/Calculus/Differential_Equation/Laplace's_Equation.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Calculus/Differential_Equation/Laplace's_Equation.private|Laplace's_Equation.private]] 
 
-### #is_/same_as :: [Laplace's_Equation.personal](/_personal/Mathematics/Calculus/Differential_Equation/Laplace's_Equation.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Calculus/Differential_Equation/Laplace's_Equation.personal|Laplace's_Equation.personal]] 
 
-### #is_/same_as :: [Laplace's_Equation.secret](/_secret/Mathematics/Calculus/Differential_Equation/Laplace's_Equation.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Calculus/Differential_Equation/Laplace's_Equation.secret|Laplace's_Equation.secret]] 
 

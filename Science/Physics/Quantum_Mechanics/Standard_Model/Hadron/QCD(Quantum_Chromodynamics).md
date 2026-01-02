@@ -62,17 +62,17 @@ PhilPapers_topic: quantum-chromodynamics
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [QCD(Quantum_Chromodynamics)](/_Standards/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron/QCD(Quantum_Chromodynamics).md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron/QCD(Quantum_Chromodynamics)|QCD(Quantum_Chromodynamics)]] 
 
-### #is_/same_as :: [QCD(Quantum_Chromodynamics).public](/_public/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron/QCD(Quantum_Chromodynamics).public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron/QCD(Quantum_Chromodynamics).public|QCD(Quantum_Chromodynamics).public]] 
 
-### #is_/same_as :: [QCD(Quantum_Chromodynamics).internal](/_internal/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron/QCD(Quantum_Chromodynamics).internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron/QCD(Quantum_Chromodynamics).internal|QCD(Quantum_Chromodynamics).internal]] 
 
-### #is_/same_as :: [QCD(Quantum_Chromodynamics).protect](/_protect/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron/QCD(Quantum_Chromodynamics).protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron/QCD(Quantum_Chromodynamics).protect|QCD(Quantum_Chromodynamics).protect]] 
 
-### #is_/same_as :: [QCD(Quantum_Chromodynamics).private](/_private/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron/QCD(Quantum_Chromodynamics).private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron/QCD(Quantum_Chromodynamics).private|QCD(Quantum_Chromodynamics).private]] 
 
-### #is_/same_as :: [QCD(Quantum_Chromodynamics).personal](/_personal/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron/QCD(Quantum_Chromodynamics).personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron/QCD(Quantum_Chromodynamics).personal|QCD(Quantum_Chromodynamics).personal]] 
 
-### #is_/same_as :: [QCD(Quantum_Chromodynamics).secret](/_secret/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron/QCD(Quantum_Chromodynamics).secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron/QCD(Quantum_Chromodynamics).secret|QCD(Quantum_Chromodynamics).secret]] 
 

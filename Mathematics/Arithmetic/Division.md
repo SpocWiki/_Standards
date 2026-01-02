@@ -50,17 +50,17 @@ Commons_category: Division (mathematics)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Division](/_Standards/Mathematics/Arithmetic/Division.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Arithmetic/Division|Division]] 
 
-### #is_/same_as :: [Division.public](/_public/Mathematics/Arithmetic/Division.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Arithmetic/Division.public|Division.public]] 
 
-### #is_/same_as :: [Division.internal](/_internal/Mathematics/Arithmetic/Division.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Arithmetic/Division.internal|Division.internal]] 
 
-### #is_/same_as :: [Division.protect](/_protect/Mathematics/Arithmetic/Division.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Arithmetic/Division.protect|Division.protect]] 
 
-### #is_/same_as :: [Division.private](/_private/Mathematics/Arithmetic/Division.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Arithmetic/Division.private|Division.private]] 
 
-### #is_/same_as :: [Division.personal](/_personal/Mathematics/Arithmetic/Division.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Arithmetic/Division.personal|Division.personal]] 
 
-### #is_/same_as :: [Division.secret](/_secret/Mathematics/Arithmetic/Division.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Arithmetic/Division.secret|Division.secret]] 
 

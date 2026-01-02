@@ -112,17 +112,17 @@ X_Twitter_username: cij_icj
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [ICJ(International_Court_of_Justice)](/_Standards/UN(United_Nations)/ICJ(International_Court_of_Justice).md) 
+### #is_/same_as :: [[/_Standards/UN(United_Nations)/ICJ(International_Court_of_Justice)|ICJ(International_Court_of_Justice)]] 
 
-### #is_/same_as :: [ICJ(International_Court_of_Justice).public](/_public/UN(United_Nations)/ICJ(International_Court_of_Justice).public.md) 
+### #is_/same_as :: [[/_public/UN(United_Nations)/ICJ(International_Court_of_Justice).public|ICJ(International_Court_of_Justice).public]] 
 
-### #is_/same_as :: [ICJ(International_Court_of_Justice).internal](/_internal/UN(United_Nations)/ICJ(International_Court_of_Justice).internal.md) 
+### #is_/same_as :: [[/_internal/UN(United_Nations)/ICJ(International_Court_of_Justice).internal|ICJ(International_Court_of_Justice).internal]] 
 
-### #is_/same_as :: [ICJ(International_Court_of_Justice).protect](/_protect/UN(United_Nations)/ICJ(International_Court_of_Justice).protect.md) 
+### #is_/same_as :: [[/_protect/UN(United_Nations)/ICJ(International_Court_of_Justice).protect|ICJ(International_Court_of_Justice).protect]] 
 
-### #is_/same_as :: [ICJ(International_Court_of_Justice).private](/_private/UN(United_Nations)/ICJ(International_Court_of_Justice).private.md) 
+### #is_/same_as :: [[/_private/UN(United_Nations)/ICJ(International_Court_of_Justice).private|ICJ(International_Court_of_Justice).private]] 
 
-### #is_/same_as :: [ICJ(International_Court_of_Justice).personal](/_personal/UN(United_Nations)/ICJ(International_Court_of_Justice).personal.md) 
+### #is_/same_as :: [[/_personal/UN(United_Nations)/ICJ(International_Court_of_Justice).personal|ICJ(International_Court_of_Justice).personal]] 
 
-### #is_/same_as :: [ICJ(International_Court_of_Justice).secret](/_secret/UN(United_Nations)/ICJ(International_Court_of_Justice).secret.md)
+### #is_/same_as :: [[/_secret/UN(United_Nations)/ICJ(International_Court_of_Justice).secret|ICJ(International_Court_of_Justice).secret]] 
 

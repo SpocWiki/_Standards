@@ -72,17 +72,17 @@ Commons_category: Hertzsprung–Russell diagram
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hertzsprung–Russell_Diagram](/_Standards/Astronomy/Star/Star~Class/Stellar_Evolution/Hertzsprung–Russell_Diagram.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Star/Star~Class/Stellar_Evolution/Hertzsprung–Russell_Diagram|Hertzsprung–Russell_Diagram]] 
 
-### #is_/same_as :: [Hertzsprung–Russell_Diagram.public](/_public/Astronomy/Star/Star~Class/Stellar_Evolution/Hertzsprung–Russell_Diagram.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Star/Star~Class/Stellar_Evolution/Hertzsprung–Russell_Diagram.public|Hertzsprung–Russell_Diagram.public]] 
 
-### #is_/same_as :: [Hertzsprung–Russell_Diagram.internal](/_internal/Astronomy/Star/Star~Class/Stellar_Evolution/Hertzsprung–Russell_Diagram.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Star/Star~Class/Stellar_Evolution/Hertzsprung–Russell_Diagram.internal|Hertzsprung–Russell_Diagram.internal]] 
 
-### #is_/same_as :: [Hertzsprung–Russell_Diagram.protect](/_protect/Astronomy/Star/Star~Class/Stellar_Evolution/Hertzsprung–Russell_Diagram.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Star/Star~Class/Stellar_Evolution/Hertzsprung–Russell_Diagram.protect|Hertzsprung–Russell_Diagram.protect]] 
 
-### #is_/same_as :: [Hertzsprung–Russell_Diagram.private](/_private/Astronomy/Star/Star~Class/Stellar_Evolution/Hertzsprung–Russell_Diagram.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Star/Star~Class/Stellar_Evolution/Hertzsprung–Russell_Diagram.private|Hertzsprung–Russell_Diagram.private]] 
 
-### #is_/same_as :: [Hertzsprung–Russell_Diagram.personal](/_personal/Astronomy/Star/Star~Class/Stellar_Evolution/Hertzsprung–Russell_Diagram.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Star/Star~Class/Stellar_Evolution/Hertzsprung–Russell_Diagram.personal|Hertzsprung–Russell_Diagram.personal]] 
 
-### #is_/same_as :: [Hertzsprung–Russell_Diagram.secret](/_secret/Astronomy/Star/Star~Class/Stellar_Evolution/Hertzsprung–Russell_Diagram.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Star/Star~Class/Stellar_Evolution/Hertzsprung–Russell_Diagram.secret|Hertzsprung–Russell_Diagram.secret]] 
 

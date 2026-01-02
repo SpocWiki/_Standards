@@ -37,17 +37,17 @@ Commons_category: Igloos
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Igloo](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/Igloo.md) 
+### #is_/same_as :: [[/_Standards/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/Igloo|Igloo]] 
 
-### #is_/same_as :: [Igloo.public](/_public/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/Igloo.public.md) 
+### #is_/same_as :: [[/_public/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/Igloo.public|Igloo.public]] 
 
-### #is_/same_as :: [Igloo.internal](/_internal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/Igloo.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/Igloo.internal|Igloo.internal]] 
 
-### #is_/same_as :: [Igloo.protect](/_protect/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/Igloo.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/Igloo.protect|Igloo.protect]] 
 
-### #is_/same_as :: [Igloo.private](/_private/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/Igloo.private.md) 
+### #is_/same_as :: [[/_private/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/Igloo.private|Igloo.private]] 
 
-### #is_/same_as :: [Igloo.personal](/_personal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/Igloo.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/Igloo.personal|Igloo.personal]] 
 
-### #is_/same_as :: [Igloo.secret](/_secret/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/Igloo.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/Igloo.secret|Igloo.secret]] 
 

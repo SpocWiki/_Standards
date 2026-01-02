@@ -50,17 +50,17 @@ Unicode_character: 🪚
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Saw](/_Standards/Technology/Tool/Mechanical_Tool/Saw.md) 
+### #is_/same_as :: [[/_Standards/Technology/Tool/Mechanical_Tool/Saw|Saw]] 
 
-### #is_/same_as :: [Saw.public](/_public/Technology/Tool/Mechanical_Tool/Saw.public.md) 
+### #is_/same_as :: [[/_public/Technology/Tool/Mechanical_Tool/Saw.public|Saw.public]] 
 
-### #is_/same_as :: [Saw.internal](/_internal/Technology/Tool/Mechanical_Tool/Saw.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Tool/Mechanical_Tool/Saw.internal|Saw.internal]] 
 
-### #is_/same_as :: [Saw.protect](/_protect/Technology/Tool/Mechanical_Tool/Saw.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Tool/Mechanical_Tool/Saw.protect|Saw.protect]] 
 
-### #is_/same_as :: [Saw.private](/_private/Technology/Tool/Mechanical_Tool/Saw.private.md) 
+### #is_/same_as :: [[/_private/Technology/Tool/Mechanical_Tool/Saw.private|Saw.private]] 
 
-### #is_/same_as :: [Saw.personal](/_personal/Technology/Tool/Mechanical_Tool/Saw.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Tool/Mechanical_Tool/Saw.personal|Saw.personal]] 
 
-### #is_/same_as :: [Saw.secret](/_secret/Technology/Tool/Mechanical_Tool/Saw.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Tool/Mechanical_Tool/Saw.secret|Saw.secret]] 
 

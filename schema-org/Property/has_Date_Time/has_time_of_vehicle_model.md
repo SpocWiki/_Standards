@@ -42,17 +42,17 @@ Formal Predicate:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_time_of_vehicle_model](/_Standards/schema-org/Property/has_Date_Time/has_time_of_vehicle_model.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_Date_Time/has_time_of_vehicle_model|has_time_of_vehicle_model]] 
 
-### #is_/same_as :: [has_time_of_vehicle_model.public](/_public/schema-org/Property/has_Date_Time/has_time_of_vehicle_model.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/has_Date_Time/has_time_of_vehicle_model.public|has_time_of_vehicle_model.public]] 
 
-### #is_/same_as :: [has_time_of_vehicle_model.internal](/_internal/schema-org/Property/has_Date_Time/has_time_of_vehicle_model.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_Date_Time/has_time_of_vehicle_model.internal|has_time_of_vehicle_model.internal]] 
 
-### #is_/same_as :: [has_time_of_vehicle_model.protect](/_protect/schema-org/Property/has_Date_Time/has_time_of_vehicle_model.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_Date_Time/has_time_of_vehicle_model.protect|has_time_of_vehicle_model.protect]] 
 
-### #is_/same_as :: [has_time_of_vehicle_model.private](/_private/schema-org/Property/has_Date_Time/has_time_of_vehicle_model.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/has_Date_Time/has_time_of_vehicle_model.private|has_time_of_vehicle_model.private]] 
 
-### #is_/same_as :: [has_time_of_vehicle_model.personal](/_personal/schema-org/Property/has_Date_Time/has_time_of_vehicle_model.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_Date_Time/has_time_of_vehicle_model.personal|has_time_of_vehicle_model.personal]] 
 
-### #is_/same_as :: [has_time_of_vehicle_model.secret](/_secret/schema-org/Property/has_Date_Time/has_time_of_vehicle_model.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/has_Date_Time/has_time_of_vehicle_model.secret|has_time_of_vehicle_model.secret]] 
 

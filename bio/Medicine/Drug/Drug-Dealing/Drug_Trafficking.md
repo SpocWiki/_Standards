@@ -52,17 +52,17 @@ IPTC_NewsCode: mediatopic/20000096
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Drug_Trafficking](/_Standards/bio/Medicine/Drug/Drug-Dealing/Drug_Trafficking.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Drug/Drug-Dealing/Drug_Trafficking|Drug_Trafficking]] 
 
-### #is_/same_as :: [Drug_Trafficking.public](/_public/bio/Medicine/Drug/Drug-Dealing/Drug_Trafficking.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Drug/Drug-Dealing/Drug_Trafficking.public|Drug_Trafficking.public]] 
 
-### #is_/same_as :: [Drug_Trafficking.internal](/_internal/bio/Medicine/Drug/Drug-Dealing/Drug_Trafficking.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Drug/Drug-Dealing/Drug_Trafficking.internal|Drug_Trafficking.internal]] 
 
-### #is_/same_as :: [Drug_Trafficking.protect](/_protect/bio/Medicine/Drug/Drug-Dealing/Drug_Trafficking.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Drug/Drug-Dealing/Drug_Trafficking.protect|Drug_Trafficking.protect]] 
 
-### #is_/same_as :: [Drug_Trafficking.private](/_private/bio/Medicine/Drug/Drug-Dealing/Drug_Trafficking.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Drug/Drug-Dealing/Drug_Trafficking.private|Drug_Trafficking.private]] 
 
-### #is_/same_as :: [Drug_Trafficking.personal](/_personal/bio/Medicine/Drug/Drug-Dealing/Drug_Trafficking.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Drug/Drug-Dealing/Drug_Trafficking.personal|Drug_Trafficking.personal]] 
 
-### #is_/same_as :: [Drug_Trafficking.secret](/_secret/bio/Medicine/Drug/Drug-Dealing/Drug_Trafficking.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Drug/Drug-Dealing/Drug_Trafficking.secret|Drug_Trafficking.secret]] 
 

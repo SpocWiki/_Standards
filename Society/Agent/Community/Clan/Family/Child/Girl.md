@@ -46,17 +46,17 @@ hashtag_: girl
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Girl](/_Standards/Society/Agent/Community/Clan/Family/Child/Girl.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Clan/Family/Child/Girl|Girl]] 
 
-### #is_/same_as :: [Girl.public](/_public/Society/Agent/Community/Clan/Family/Child/Girl.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Clan/Family/Child/Girl.public|Girl.public]] 
 
-### #is_/same_as :: [Girl.internal](/_internal/Society/Agent/Community/Clan/Family/Child/Girl.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Clan/Family/Child/Girl.internal|Girl.internal]] 
 
-### #is_/same_as :: [Girl.protect](/_protect/Society/Agent/Community/Clan/Family/Child/Girl.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Clan/Family/Child/Girl.protect|Girl.protect]] 
 
-### #is_/same_as :: [Girl.private](/_private/Society/Agent/Community/Clan/Family/Child/Girl.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Clan/Family/Child/Girl.private|Girl.private]] 
 
-### #is_/same_as :: [Girl.personal](/_personal/Society/Agent/Community/Clan/Family/Child/Girl.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Clan/Family/Child/Girl.personal|Girl.personal]] 
 
-### #is_/same_as :: [Girl.secret](/_secret/Society/Agent/Community/Clan/Family/Child/Girl.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Clan/Family/Child/Girl.secret|Girl.secret]] 
 

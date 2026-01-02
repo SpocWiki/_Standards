@@ -51,17 +51,17 @@ P8189: 987007412643405171
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Baba_Yaga](/_Standards/Philosophy/Metaphysic/Religion/Mythology/Slavic_Mythology/Baba_Yaga.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Mythology/Slavic_Mythology/Baba_Yaga|Baba_Yaga]] 
 
-### #is_/same_as :: [Baba_Yaga.public](/_public/Philosophy/Metaphysic/Religion/Mythology/Slavic_Mythology/Baba_Yaga.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Mythology/Slavic_Mythology/Baba_Yaga.public|Baba_Yaga.public]] 
 
-### #is_/same_as :: [Baba_Yaga.internal](/_internal/Philosophy/Metaphysic/Religion/Mythology/Slavic_Mythology/Baba_Yaga.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Mythology/Slavic_Mythology/Baba_Yaga.internal|Baba_Yaga.internal]] 
 
-### #is_/same_as :: [Baba_Yaga.protect](/_protect/Philosophy/Metaphysic/Religion/Mythology/Slavic_Mythology/Baba_Yaga.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Mythology/Slavic_Mythology/Baba_Yaga.protect|Baba_Yaga.protect]] 
 
-### #is_/same_as :: [Baba_Yaga.private](/_private/Philosophy/Metaphysic/Religion/Mythology/Slavic_Mythology/Baba_Yaga.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Mythology/Slavic_Mythology/Baba_Yaga.private|Baba_Yaga.private]] 
 
-### #is_/same_as :: [Baba_Yaga.personal](/_personal/Philosophy/Metaphysic/Religion/Mythology/Slavic_Mythology/Baba_Yaga.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Mythology/Slavic_Mythology/Baba_Yaga.personal|Baba_Yaga.personal]] 
 
-### #is_/same_as :: [Baba_Yaga.secret](/_secret/Philosophy/Metaphysic/Religion/Mythology/Slavic_Mythology/Baba_Yaga.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Mythology/Slavic_Mythology/Baba_Yaga.secret|Baba_Yaga.secret]] 
 

@@ -96,17 +96,17 @@ Wolfram_Language_entity_code: Entity["Concept", "Electric::y39j2"]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Electric_Car](/_Standards/Technology/Transport/Road_Transport/Car/Electric_Car.md) 
+### #is_/same_as :: [[/_Standards/Technology/Transport/Road_Transport/Car/Electric_Car|Electric_Car]] 
 
-### #is_/same_as :: [Electric_Car.public](/_public/Technology/Transport/Road_Transport/Car/Electric_Car.public.md) 
+### #is_/same_as :: [[/_public/Technology/Transport/Road_Transport/Car/Electric_Car.public|Electric_Car.public]] 
 
-### #is_/same_as :: [Electric_Car.internal](/_internal/Technology/Transport/Road_Transport/Car/Electric_Car.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Transport/Road_Transport/Car/Electric_Car.internal|Electric_Car.internal]] 
 
-### #is_/same_as :: [Electric_Car.protect](/_protect/Technology/Transport/Road_Transport/Car/Electric_Car.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Transport/Road_Transport/Car/Electric_Car.protect|Electric_Car.protect]] 
 
-### #is_/same_as :: [Electric_Car.private](/_private/Technology/Transport/Road_Transport/Car/Electric_Car.private.md) 
+### #is_/same_as :: [[/_private/Technology/Transport/Road_Transport/Car/Electric_Car.private|Electric_Car.private]] 
 
-### #is_/same_as :: [Electric_Car.personal](/_personal/Technology/Transport/Road_Transport/Car/Electric_Car.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Transport/Road_Transport/Car/Electric_Car.personal|Electric_Car.personal]] 
 
-### #is_/same_as :: [Electric_Car.secret](/_secret/Technology/Transport/Road_Transport/Car/Electric_Car.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Transport/Road_Transport/Car/Electric_Car.secret|Electric_Car.secret]] 
 

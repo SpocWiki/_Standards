@@ -37,17 +37,17 @@ Commons_gallery: Jovian planet
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Gas_Giant](/_Standards/Astronomy/Planet/Gas_Giant.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Planet/Gas_Giant|Gas_Giant]] 
 
-### #is_/same_as :: [Gas_Giant.public](/_public/Astronomy/Planet/Gas_Giant.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Planet/Gas_Giant.public|Gas_Giant.public]] 
 
-### #is_/same_as :: [Gas_Giant.internal](/_internal/Astronomy/Planet/Gas_Giant.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Planet/Gas_Giant.internal|Gas_Giant.internal]] 
 
-### #is_/same_as :: [Gas_Giant.protect](/_protect/Astronomy/Planet/Gas_Giant.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Planet/Gas_Giant.protect|Gas_Giant.protect]] 
 
-### #is_/same_as :: [Gas_Giant.private](/_private/Astronomy/Planet/Gas_Giant.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Planet/Gas_Giant.private|Gas_Giant.private]] 
 
-### #is_/same_as :: [Gas_Giant.personal](/_personal/Astronomy/Planet/Gas_Giant.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Planet/Gas_Giant.personal|Gas_Giant.personal]] 
 
-### #is_/same_as :: [Gas_Giant.secret](/_secret/Astronomy/Planet/Gas_Giant.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Planet/Gas_Giant.secret|Gas_Giant.secret]] 
 

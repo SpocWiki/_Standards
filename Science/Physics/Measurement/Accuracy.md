@@ -29,3 +29,22 @@ Accuracy describes the Influence of **systematic errors**.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Accuracy%20and%20precision) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Science/Physics/Measurement/Accuracy|Accuracy]] 
+
+### #is_/same_as :: [[/_public/Science/Physics/Measurement/Accuracy.public|Accuracy.public]] 
+
+### #is_/same_as :: [[/_internal/Science/Physics/Measurement/Accuracy.internal|Accuracy.internal]] 
+
+### #is_/same_as :: [[/_protect/Science/Physics/Measurement/Accuracy.protect|Accuracy.protect]] 
+
+### #is_/same_as :: [[/_private/Science/Physics/Measurement/Accuracy.private|Accuracy.private]] 
+
+### #is_/same_as :: [[/_personal/Science/Physics/Measurement/Accuracy.personal|Accuracy.personal]] 
+
+### #is_/same_as :: [[/_secret/Science/Physics/Measurement/Accuracy.secret|Accuracy.secret]] 
+

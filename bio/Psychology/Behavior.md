@@ -55,17 +55,17 @@ U_S_National_Archives_Identifier: 10676224
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Behavior](/_Standards/bio/Psychology/Behavior.md) 
+### #is_/same_as :: [[/_Standards/bio/Psychology/Behavior|Behavior]] 
 
-### #is_/same_as :: [Behavior.public](/_public/bio/Psychology/Behavior.public.md) 
+### #is_/same_as :: [[/_public/bio/Psychology/Behavior.public|Behavior.public]] 
 
-### #is_/same_as :: [Behavior.internal](/_internal/bio/Psychology/Behavior.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Psychology/Behavior.internal|Behavior.internal]] 
 
-### #is_/same_as :: [Behavior.protect](/_protect/bio/Psychology/Behavior.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Psychology/Behavior.protect|Behavior.protect]] 
 
-### #is_/same_as :: [Behavior.private](/_private/bio/Psychology/Behavior.private.md) 
+### #is_/same_as :: [[/_private/bio/Psychology/Behavior.private|Behavior.private]] 
 
-### #is_/same_as :: [Behavior.personal](/_personal/bio/Psychology/Behavior.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Psychology/Behavior.personal|Behavior.personal]] 
 
-### #is_/same_as :: [Behavior.secret](/_secret/bio/Psychology/Behavior.secret.md)
+### #is_/same_as :: [[/_secret/bio/Psychology/Behavior.secret|Behavior.secret]] 
 

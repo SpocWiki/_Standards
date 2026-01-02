@@ -7,7 +7,7 @@ title: Lepilemur
 # [[Lepilemur]]
 
 ## Lepilemuridae: Sportive Lemurs, Weasel Lemurs 
-![](Lepilemur/Lepilemur_mustelinus_dr.jpg))
+![](Lepilemur/Lepilemur_mustelinus_dr.jpg) 
 
 ## #has_/text_of_/abstract 
 
@@ -59,7 +59,7 @@ title: Lepilemur
 ## Title Illustrations
 
 ------------------------------------------------ 
-![drawing of a sportive lemur](Lepilemur/Lepilemur_mustelinus_dr.jpg))
+![drawing of a sportive lemur](Lepilemur/Lepilemur_mustelinus_dr.jpg) 
   Scientific Name ::  Lepilemur mustelinus
   Location ::        Madagascar
   Reference         Pollen, F. P. L. and van Dam, D. C. 1868. Récherches sur la Faune de Madagascar et de ses Dépendances. 2me partie. J. K. Steenhoff ed. Leyden.
@@ -67,17 +67,17 @@ title: Lepilemur
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lepilemur](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Primates/Strepsirrhini/Lepilemur.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Primates/Strepsirrhini/Lepilemur|Lepilemur]] 
 
-### #is_/same_as :: [Lepilemur.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Primates/Strepsirrhini/Lepilemur.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Primates/Strepsirrhini/Lepilemur.public|Lepilemur.public]] 
 
-### #is_/same_as :: [Lepilemur.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Primates/Strepsirrhini/Lepilemur.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Primates/Strepsirrhini/Lepilemur.internal|Lepilemur.internal]] 
 
-### #is_/same_as :: [Lepilemur.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Primates/Strepsirrhini/Lepilemur.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Primates/Strepsirrhini/Lepilemur.protect|Lepilemur.protect]] 
 
-### #is_/same_as :: [Lepilemur.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Primates/Strepsirrhini/Lepilemur.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Primates/Strepsirrhini/Lepilemur.private|Lepilemur.private]] 
 
-### #is_/same_as :: [Lepilemur.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Primates/Strepsirrhini/Lepilemur.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Primates/Strepsirrhini/Lepilemur.personal|Lepilemur.personal]] 
 
-### #is_/same_as :: [Lepilemur.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Primates/Strepsirrhini/Lepilemur.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Primates/Strepsirrhini/Lepilemur.secret|Lepilemur.secret]] 
 

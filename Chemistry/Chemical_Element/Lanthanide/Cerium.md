@@ -261,17 +261,17 @@ ZVG_number: 8430
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Cerium](/_Standards/Chemistry/Chemical_Element/Lanthanide/Cerium.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Chemical_Element/Lanthanide/Cerium|Cerium]] 
 
-### #is_/same_as :: [Cerium.public](/_public/Chemistry/Chemical_Element/Lanthanide/Cerium.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Chemical_Element/Lanthanide/Cerium.public|Cerium.public]] 
 
-### #is_/same_as :: [Cerium.internal](/_internal/Chemistry/Chemical_Element/Lanthanide/Cerium.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Chemical_Element/Lanthanide/Cerium.internal|Cerium.internal]] 
 
-### #is_/same_as :: [Cerium.protect](/_protect/Chemistry/Chemical_Element/Lanthanide/Cerium.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Chemical_Element/Lanthanide/Cerium.protect|Cerium.protect]] 
 
-### #is_/same_as :: [Cerium.private](/_private/Chemistry/Chemical_Element/Lanthanide/Cerium.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Chemical_Element/Lanthanide/Cerium.private|Cerium.private]] 
 
-### #is_/same_as :: [Cerium.personal](/_personal/Chemistry/Chemical_Element/Lanthanide/Cerium.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Chemical_Element/Lanthanide/Cerium.personal|Cerium.personal]] 
 
-### #is_/same_as :: [Cerium.secret](/_secret/Chemistry/Chemical_Element/Lanthanide/Cerium.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Chemical_Element/Lanthanide/Cerium.secret|Cerium.secret]] 
 

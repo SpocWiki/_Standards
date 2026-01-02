@@ -51,17 +51,17 @@ Wolfram_Language_entity_type: MinorPlanet
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Minor_Planet](/_Standards/Astronomy/Planet/Minor_Planet.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Planet/Minor_Planet|Minor_Planet]] 
 
-### #is_/same_as :: [Minor_Planet.public](/_public/Astronomy/Planet/Minor_Planet.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Planet/Minor_Planet.public|Minor_Planet.public]] 
 
-### #is_/same_as :: [Minor_Planet.internal](/_internal/Astronomy/Planet/Minor_Planet.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Planet/Minor_Planet.internal|Minor_Planet.internal]] 
 
-### #is_/same_as :: [Minor_Planet.protect](/_protect/Astronomy/Planet/Minor_Planet.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Planet/Minor_Planet.protect|Minor_Planet.protect]] 
 
-### #is_/same_as :: [Minor_Planet.private](/_private/Astronomy/Planet/Minor_Planet.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Planet/Minor_Planet.private|Minor_Planet.private]] 
 
-### #is_/same_as :: [Minor_Planet.personal](/_personal/Astronomy/Planet/Minor_Planet.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Planet/Minor_Planet.personal|Minor_Planet.personal]] 
 
-### #is_/same_as :: [Minor_Planet.secret](/_secret/Astronomy/Planet/Minor_Planet.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Planet/Minor_Planet.secret|Minor_Planet.secret]] 
 

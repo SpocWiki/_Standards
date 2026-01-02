@@ -90,17 +90,17 @@ Commons_category: Titanium dioxide
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Titanium_Dioxide](/_Standards/Chemistry/Chemical_Element/Group-04-Titanium/Titanium/Titanium_Dioxide.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Chemical_Element/Group-04-Titanium/Titanium/Titanium_Dioxide|Titanium_Dioxide]] 
 
-### #is_/same_as :: [Titanium_Dioxide.public](/_public/Chemistry/Chemical_Element/Group-04-Titanium/Titanium/Titanium_Dioxide.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Chemical_Element/Group-04-Titanium/Titanium/Titanium_Dioxide.public|Titanium_Dioxide.public]] 
 
-### #is_/same_as :: [Titanium_Dioxide.internal](/_internal/Chemistry/Chemical_Element/Group-04-Titanium/Titanium/Titanium_Dioxide.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Chemical_Element/Group-04-Titanium/Titanium/Titanium_Dioxide.internal|Titanium_Dioxide.internal]] 
 
-### #is_/same_as :: [Titanium_Dioxide.protect](/_protect/Chemistry/Chemical_Element/Group-04-Titanium/Titanium/Titanium_Dioxide.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Chemical_Element/Group-04-Titanium/Titanium/Titanium_Dioxide.protect|Titanium_Dioxide.protect]] 
 
-### #is_/same_as :: [Titanium_Dioxide.private](/_private/Chemistry/Chemical_Element/Group-04-Titanium/Titanium/Titanium_Dioxide.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Chemical_Element/Group-04-Titanium/Titanium/Titanium_Dioxide.private|Titanium_Dioxide.private]] 
 
-### #is_/same_as :: [Titanium_Dioxide.personal](/_personal/Chemistry/Chemical_Element/Group-04-Titanium/Titanium/Titanium_Dioxide.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Chemical_Element/Group-04-Titanium/Titanium/Titanium_Dioxide.personal|Titanium_Dioxide.personal]] 
 
-### #is_/same_as :: [Titanium_Dioxide.secret](/_secret/Chemistry/Chemical_Element/Group-04-Titanium/Titanium/Titanium_Dioxide.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Chemical_Element/Group-04-Titanium/Titanium/Titanium_Dioxide.secret|Titanium_Dioxide.secret]] 
 

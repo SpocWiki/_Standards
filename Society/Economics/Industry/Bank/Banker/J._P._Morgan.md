@@ -123,17 +123,17 @@ date_of_death: 1913-03-31T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [J._P._Morgan](/_Standards/Society/Economics/Industry/Bank/Banker/J._P._Morgan.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Industry/Bank/Banker/J._P._Morgan|J._P._Morgan]] 
 
-### #is_/same_as :: [J._P._Morgan.public](/_public/Society/Economics/Industry/Bank/Banker/J._P._Morgan.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Industry/Bank/Banker/J._P._Morgan.public|J._P._Morgan.public]] 
 
-### #is_/same_as :: [J._P._Morgan.internal](/_internal/Society/Economics/Industry/Bank/Banker/J._P._Morgan.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Industry/Bank/Banker/J._P._Morgan.internal|J._P._Morgan.internal]] 
 
-### #is_/same_as :: [J._P._Morgan.protect](/_protect/Society/Economics/Industry/Bank/Banker/J._P._Morgan.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Industry/Bank/Banker/J._P._Morgan.protect|J._P._Morgan.protect]] 
 
-### #is_/same_as :: [J._P._Morgan.private](/_private/Society/Economics/Industry/Bank/Banker/J._P._Morgan.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Industry/Bank/Banker/J._P._Morgan.private|J._P._Morgan.private]] 
 
-### #is_/same_as :: [J._P._Morgan.personal](/_personal/Society/Economics/Industry/Bank/Banker/J._P._Morgan.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Industry/Bank/Banker/J._P._Morgan.personal|J._P._Morgan.personal]] 
 
-### #is_/same_as :: [J._P._Morgan.secret](/_secret/Society/Economics/Industry/Bank/Banker/J._P._Morgan.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Industry/Bank/Banker/J._P._Morgan.secret|J._P._Morgan.secret]] 
 

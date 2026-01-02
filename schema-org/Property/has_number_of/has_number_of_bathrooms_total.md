@@ -45,17 +45,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_number_of_bathrooms_total](/_Standards/schema-org/Property/has_number_of/has_number_of_bathrooms_total.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_number_of/has_number_of_bathrooms_total|has_number_of_bathrooms_total]] 
 
-### #is_/same_as :: [has_number_of_bathrooms_total.public](/_public/schema-org/Property/has_number_of/has_number_of_bathrooms_total.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/has_number_of/has_number_of_bathrooms_total.public|has_number_of_bathrooms_total.public]] 
 
-### #is_/same_as :: [has_number_of_bathrooms_total.internal](/_internal/schema-org/Property/has_number_of/has_number_of_bathrooms_total.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_number_of/has_number_of_bathrooms_total.internal|has_number_of_bathrooms_total.internal]] 
 
-### #is_/same_as :: [has_number_of_bathrooms_total.protect](/_protect/schema-org/Property/has_number_of/has_number_of_bathrooms_total.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_number_of/has_number_of_bathrooms_total.protect|has_number_of_bathrooms_total.protect]] 
 
-### #is_/same_as :: [has_number_of_bathrooms_total.private](/_private/schema-org/Property/has_number_of/has_number_of_bathrooms_total.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/has_number_of/has_number_of_bathrooms_total.private|has_number_of_bathrooms_total.private]] 
 
-### #is_/same_as :: [has_number_of_bathrooms_total.personal](/_personal/schema-org/Property/has_number_of/has_number_of_bathrooms_total.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_number_of/has_number_of_bathrooms_total.personal|has_number_of_bathrooms_total.personal]] 
 
-### #is_/same_as :: [has_number_of_bathrooms_total.secret](/_secret/schema-org/Property/has_number_of/has_number_of_bathrooms_total.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/has_number_of/has_number_of_bathrooms_total.secret|has_number_of_bathrooms_total.secret]] 
 

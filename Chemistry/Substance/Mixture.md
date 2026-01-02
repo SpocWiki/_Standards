@@ -87,17 +87,17 @@ Eiswein
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Mixture](/_Standards/Chemistry/Substance/Mixture.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Substance/Mixture|Mixture]] 
 
-### #is_/same_as :: [Mixture.public](/_public/Chemistry/Substance/Mixture.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Substance/Mixture.public|Mixture.public]] 
 
-### #is_/same_as :: [Mixture.internal](/_internal/Chemistry/Substance/Mixture.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Substance/Mixture.internal|Mixture.internal]] 
 
-### #is_/same_as :: [Mixture.protect](/_protect/Chemistry/Substance/Mixture.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Substance/Mixture.protect|Mixture.protect]] 
 
-### #is_/same_as :: [Mixture.private](/_private/Chemistry/Substance/Mixture.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Substance/Mixture.private|Mixture.private]] 
 
-### #is_/same_as :: [Mixture.personal](/_personal/Chemistry/Substance/Mixture.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Substance/Mixture.personal|Mixture.personal]] 
 
-### #is_/same_as :: [Mixture.secret](/_secret/Chemistry/Substance/Mixture.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Substance/Mixture.secret|Mixture.secret]] 
 

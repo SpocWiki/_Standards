@@ -50,17 +50,17 @@ Commons_category: Magellanic Clouds
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Magellanic_Clouds](/_Standards/Astronomy/Star_System/Galaxy/Magellanic_Clouds.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Star_System/Galaxy/Magellanic_Clouds|Magellanic_Clouds]] 
 
-### #is_/same_as :: [Magellanic_Clouds.public](/_public/Astronomy/Star_System/Galaxy/Magellanic_Clouds.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Star_System/Galaxy/Magellanic_Clouds.public|Magellanic_Clouds.public]] 
 
-### #is_/same_as :: [Magellanic_Clouds.internal](/_internal/Astronomy/Star_System/Galaxy/Magellanic_Clouds.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Star_System/Galaxy/Magellanic_Clouds.internal|Magellanic_Clouds.internal]] 
 
-### #is_/same_as :: [Magellanic_Clouds.protect](/_protect/Astronomy/Star_System/Galaxy/Magellanic_Clouds.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Star_System/Galaxy/Magellanic_Clouds.protect|Magellanic_Clouds.protect]] 
 
-### #is_/same_as :: [Magellanic_Clouds.private](/_private/Astronomy/Star_System/Galaxy/Magellanic_Clouds.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Star_System/Galaxy/Magellanic_Clouds.private|Magellanic_Clouds.private]] 
 
-### #is_/same_as :: [Magellanic_Clouds.personal](/_personal/Astronomy/Star_System/Galaxy/Magellanic_Clouds.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Star_System/Galaxy/Magellanic_Clouds.personal|Magellanic_Clouds.personal]] 
 
-### #is_/same_as :: [Magellanic_Clouds.secret](/_secret/Astronomy/Star_System/Galaxy/Magellanic_Clouds.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Star_System/Galaxy/Magellanic_Clouds.secret|Magellanic_Clouds.secret]] 
 

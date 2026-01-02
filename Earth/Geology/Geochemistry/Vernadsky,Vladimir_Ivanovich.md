@@ -161,17 +161,17 @@ Google_Doodle: vladimir-vernadskys-150th-birthday
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Vernadsky,Vladimir_Ivanovich](/_Standards/Earth/Geology/Geochemistry/Vernadsky,Vladimir_Ivanovich.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geology/Geochemistry/Vernadsky,Vladimir_Ivanovich|Vernadsky,Vladimir_Ivanovich]] 
 
-### #is_/same_as :: [Vernadsky,Vladimir_Ivanovich.public](/_public/Earth/Geology/Geochemistry/Vernadsky,Vladimir_Ivanovich.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geology/Geochemistry/Vernadsky,Vladimir_Ivanovich.public|Vernadsky,Vladimir_Ivanovich.public]] 
 
-### #is_/same_as :: [Vernadsky,Vladimir_Ivanovich.internal](/_internal/Earth/Geology/Geochemistry/Vernadsky,Vladimir_Ivanovich.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geology/Geochemistry/Vernadsky,Vladimir_Ivanovich.internal|Vernadsky,Vladimir_Ivanovich.internal]] 
 
-### #is_/same_as :: [Vernadsky,Vladimir_Ivanovich.protect](/_protect/Earth/Geology/Geochemistry/Vernadsky,Vladimir_Ivanovich.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geology/Geochemistry/Vernadsky,Vladimir_Ivanovich.protect|Vernadsky,Vladimir_Ivanovich.protect]] 
 
-### #is_/same_as :: [Vernadsky,Vladimir_Ivanovich.private](/_private/Earth/Geology/Geochemistry/Vernadsky,Vladimir_Ivanovich.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geology/Geochemistry/Vernadsky,Vladimir_Ivanovich.private|Vernadsky,Vladimir_Ivanovich.private]] 
 
-### #is_/same_as :: [Vernadsky,Vladimir_Ivanovich.personal](/_personal/Earth/Geology/Geochemistry/Vernadsky,Vladimir_Ivanovich.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geology/Geochemistry/Vernadsky,Vladimir_Ivanovich.personal|Vernadsky,Vladimir_Ivanovich.personal]] 
 
-### #is_/same_as :: [Vernadsky,Vladimir_Ivanovich.secret](/_secret/Earth/Geology/Geochemistry/Vernadsky,Vladimir_Ivanovich.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geology/Geochemistry/Vernadsky,Vladimir_Ivanovich.secret|Vernadsky,Vladimir_Ivanovich.secret]] 
 

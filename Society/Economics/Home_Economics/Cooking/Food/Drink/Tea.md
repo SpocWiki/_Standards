@@ -113,17 +113,17 @@ water_footprint: 8856
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Tea](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Drink/Tea.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Home_Economics/Cooking/Food/Drink/Tea|Tea]] 
 
-### #is_/same_as :: [Tea.public](/_public/Society/Economics/Home_Economics/Cooking/Food/Drink/Tea.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Home_Economics/Cooking/Food/Drink/Tea.public|Tea.public]] 
 
-### #is_/same_as :: [Tea.internal](/_internal/Society/Economics/Home_Economics/Cooking/Food/Drink/Tea.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Home_Economics/Cooking/Food/Drink/Tea.internal|Tea.internal]] 
 
-### #is_/same_as :: [Tea.protect](/_protect/Society/Economics/Home_Economics/Cooking/Food/Drink/Tea.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Home_Economics/Cooking/Food/Drink/Tea.protect|Tea.protect]] 
 
-### #is_/same_as :: [Tea.private](/_private/Society/Economics/Home_Economics/Cooking/Food/Drink/Tea.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Home_Economics/Cooking/Food/Drink/Tea.private|Tea.private]] 
 
-### #is_/same_as :: [Tea.personal](/_personal/Society/Economics/Home_Economics/Cooking/Food/Drink/Tea.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Home_Economics/Cooking/Food/Drink/Tea.personal|Tea.personal]] 
 
-### #is_/same_as :: [Tea.secret](/_secret/Society/Economics/Home_Economics/Cooking/Food/Drink/Tea.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Home_Economics/Cooking/Food/Drink/Tea.secret|Tea.secret]] 
 

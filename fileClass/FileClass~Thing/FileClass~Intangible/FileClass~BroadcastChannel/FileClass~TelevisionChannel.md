@@ -37,17 +37,17 @@ A unique instance of a television BroadcastService on a CableOrSatelliteService 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~TelevisionChannel](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~BroadcastChannel/FileClass~TelevisionChannel.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~BroadcastChannel/FileClass~TelevisionChannel|FileClass~TelevisionChannel]] 
 
-### #is_/same_as :: [FileClass~TelevisionChannel.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~BroadcastChannel/FileClass~TelevisionChannel.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~BroadcastChannel/FileClass~TelevisionChannel.public|FileClass~TelevisionChannel.public]] 
 
-### #is_/same_as :: [FileClass~TelevisionChannel.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~BroadcastChannel/FileClass~TelevisionChannel.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~BroadcastChannel/FileClass~TelevisionChannel.internal|FileClass~TelevisionChannel.internal]] 
 
-### #is_/same_as :: [FileClass~TelevisionChannel.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~BroadcastChannel/FileClass~TelevisionChannel.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~BroadcastChannel/FileClass~TelevisionChannel.protect|FileClass~TelevisionChannel.protect]] 
 
-### #is_/same_as :: [FileClass~TelevisionChannel.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~BroadcastChannel/FileClass~TelevisionChannel.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~BroadcastChannel/FileClass~TelevisionChannel.private|FileClass~TelevisionChannel.private]] 
 
-### #is_/same_as :: [FileClass~TelevisionChannel.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~BroadcastChannel/FileClass~TelevisionChannel.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~BroadcastChannel/FileClass~TelevisionChannel.personal|FileClass~TelevisionChannel.personal]] 
 
-### #is_/same_as :: [FileClass~TelevisionChannel.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~BroadcastChannel/FileClass~TelevisionChannel.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~BroadcastChannel/FileClass~TelevisionChannel.secret|FileClass~TelevisionChannel.secret]] 
 

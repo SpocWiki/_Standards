@@ -43,17 +43,17 @@ A sports location, such as a playing field.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sports_Activity_Location](/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Sports_Activity_Location.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Sports_Activity_Location|Sports_Activity_Location]] 
 
-### #is_/same_as :: [Sports_Activity_Location.public](/_public/Society/Agent/Community/Organization/Business/Local_Business/Sports_Activity_Location.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Business/Local_Business/Sports_Activity_Location.public|Sports_Activity_Location.public]] 
 
-### #is_/same_as :: [Sports_Activity_Location.internal](/_internal/Society/Agent/Community/Organization/Business/Local_Business/Sports_Activity_Location.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Business/Local_Business/Sports_Activity_Location.internal|Sports_Activity_Location.internal]] 
 
-### #is_/same_as :: [Sports_Activity_Location.protect](/_protect/Society/Agent/Community/Organization/Business/Local_Business/Sports_Activity_Location.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Business/Local_Business/Sports_Activity_Location.protect|Sports_Activity_Location.protect]] 
 
-### #is_/same_as :: [Sports_Activity_Location.private](/_private/Society/Agent/Community/Organization/Business/Local_Business/Sports_Activity_Location.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Business/Local_Business/Sports_Activity_Location.private|Sports_Activity_Location.private]] 
 
-### #is_/same_as :: [Sports_Activity_Location.personal](/_personal/Society/Agent/Community/Organization/Business/Local_Business/Sports_Activity_Location.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Business/Local_Business/Sports_Activity_Location.personal|Sports_Activity_Location.personal]] 
 
-### #is_/same_as :: [Sports_Activity_Location.secret](/_secret/Society/Agent/Community/Organization/Business/Local_Business/Sports_Activity_Location.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Business/Local_Business/Sports_Activity_Location.secret|Sports_Activity_Location.secret]] 
 

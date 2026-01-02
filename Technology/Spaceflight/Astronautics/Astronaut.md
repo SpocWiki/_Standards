@@ -114,17 +114,17 @@ UMLS_CUI: C0242688
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Astronaut](/_Standards/Technology/Spaceflight/Astronautics/Astronaut.md) 
+### #is_/same_as :: [[/_Standards/Technology/Spaceflight/Astronautics/Astronaut|Astronaut]] 
 
-### #is_/same_as :: [Astronaut.public](/_public/Technology/Spaceflight/Astronautics/Astronaut.public.md) 
+### #is_/same_as :: [[/_public/Technology/Spaceflight/Astronautics/Astronaut.public|Astronaut.public]] 
 
-### #is_/same_as :: [Astronaut.internal](/_internal/Technology/Spaceflight/Astronautics/Astronaut.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Spaceflight/Astronautics/Astronaut.internal|Astronaut.internal]] 
 
-### #is_/same_as :: [Astronaut.protect](/_protect/Technology/Spaceflight/Astronautics/Astronaut.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Spaceflight/Astronautics/Astronaut.protect|Astronaut.protect]] 
 
-### #is_/same_as :: [Astronaut.private](/_private/Technology/Spaceflight/Astronautics/Astronaut.private.md) 
+### #is_/same_as :: [[/_private/Technology/Spaceflight/Astronautics/Astronaut.private|Astronaut.private]] 
 
-### #is_/same_as :: [Astronaut.personal](/_personal/Technology/Spaceflight/Astronautics/Astronaut.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Spaceflight/Astronautics/Astronaut.personal|Astronaut.personal]] 
 
-### #is_/same_as :: [Astronaut.secret](/_secret/Technology/Spaceflight/Astronautics/Astronaut.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Spaceflight/Astronautics/Astronaut.secret|Astronaut.secret]] 
 

@@ -47,17 +47,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_course_workload](/_Standards/schema-org/Property/Texts/has_course_workload.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/Texts/has_course_workload|has_course_workload]] 
 
-### #is_/same_as :: [has_course_workload.public](/_public/schema-org/Property/Texts/has_course_workload.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/Texts/has_course_workload.public|has_course_workload.public]] 
 
-### #is_/same_as :: [has_course_workload.internal](/_internal/schema-org/Property/Texts/has_course_workload.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/Texts/has_course_workload.internal|has_course_workload.internal]] 
 
-### #is_/same_as :: [has_course_workload.protect](/_protect/schema-org/Property/Texts/has_course_workload.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/Texts/has_course_workload.protect|has_course_workload.protect]] 
 
-### #is_/same_as :: [has_course_workload.private](/_private/schema-org/Property/Texts/has_course_workload.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/Texts/has_course_workload.private|has_course_workload.private]] 
 
-### #is_/same_as :: [has_course_workload.personal](/_personal/schema-org/Property/Texts/has_course_workload.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/Texts/has_course_workload.personal|has_course_workload.personal]] 
 
-### #is_/same_as :: [has_course_workload.secret](/_secret/schema-org/Property/Texts/has_course_workload.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/Texts/has_course_workload.secret|has_course_workload.secret]] 
 

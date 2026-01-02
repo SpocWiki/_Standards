@@ -80,17 +80,17 @@ dissolved_abolished_or_demolished_date: 1918-11-09T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [1871-1918_German_Empire](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1800/1871-1918_German_Empire.md) 
+### #is_/same_as :: [[/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1800/1871-1918_German_Empire|1871-1918_German_Empire]] 
 
-### #is_/same_as :: [1871-1918_German_Empire.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1800/1871-1918_German_Empire.public.md) 
+### #is_/same_as :: [[/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1800/1871-1918_German_Empire.public|1871-1918_German_Empire.public]] 
 
-### #is_/same_as :: [1871-1918_German_Empire.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1800/1871-1918_German_Empire.internal.md) 
+### #is_/same_as :: [[/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1800/1871-1918_German_Empire.internal|1871-1918_German_Empire.internal]] 
 
-### #is_/same_as :: [1871-1918_German_Empire.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1800/1871-1918_German_Empire.protect.md) 
+### #is_/same_as :: [[/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1800/1871-1918_German_Empire.protect|1871-1918_German_Empire.protect]] 
 
-### #is_/same_as :: [1871-1918_German_Empire.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1800/1871-1918_German_Empire.private.md) 
+### #is_/same_as :: [[/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1800/1871-1918_German_Empire.private|1871-1918_German_Empire.private]] 
 
-### #is_/same_as :: [1871-1918_German_Empire.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1800/1871-1918_German_Empire.personal.md) 
+### #is_/same_as :: [[/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1800/1871-1918_German_Empire.personal|1871-1918_German_Empire.personal]] 
 
-### #is_/same_as :: [1871-1918_German_Empire.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1800/1871-1918_German_Empire.secret.md)
+### #is_/same_as :: [[/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1800/1871-1918_German_Empire.secret|1871-1918_German_Empire.secret]] 
 

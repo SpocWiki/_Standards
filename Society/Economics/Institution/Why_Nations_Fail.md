@@ -26,17 +26,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Why_Nations_Fail](/_Standards/Society/Economics/Institution/Why_Nations_Fail.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Institution/Why_Nations_Fail|Why_Nations_Fail]] 
 
-### #is_/same_as :: [Why_Nations_Fail.public](/_public/Society/Economics/Institution/Why_Nations_Fail.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Institution/Why_Nations_Fail.public|Why_Nations_Fail.public]] 
 
-### #is_/same_as :: [Why_Nations_Fail.internal](/_internal/Society/Economics/Institution/Why_Nations_Fail.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Institution/Why_Nations_Fail.internal|Why_Nations_Fail.internal]] 
 
-### #is_/same_as :: [Why_Nations_Fail.protect](/_protect/Society/Economics/Institution/Why_Nations_Fail.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Institution/Why_Nations_Fail.protect|Why_Nations_Fail.protect]] 
 
-### #is_/same_as :: [Why_Nations_Fail.private](/_private/Society/Economics/Institution/Why_Nations_Fail.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Institution/Why_Nations_Fail.private|Why_Nations_Fail.private]] 
 
-### #is_/same_as :: [Why_Nations_Fail.personal](/_personal/Society/Economics/Institution/Why_Nations_Fail.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Institution/Why_Nations_Fail.personal|Why_Nations_Fail.personal]] 
 
-### #is_/same_as :: [Why_Nations_Fail.secret](/_secret/Society/Economics/Institution/Why_Nations_Fail.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Institution/Why_Nations_Fail.secret|Why_Nations_Fail.secret]] 
 

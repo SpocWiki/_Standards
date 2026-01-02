@@ -109,17 +109,17 @@ UNII: M5LL84MZ2W
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Curium](/_Standards/Chemistry/Chemical_Element/Actinide/Curium.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Chemical_Element/Actinide/Curium|Curium]] 
 
-### #is_/same_as :: [Curium.public](/_public/Chemistry/Chemical_Element/Actinide/Curium.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Chemical_Element/Actinide/Curium.public|Curium.public]] 
 
-### #is_/same_as :: [Curium.internal](/_internal/Chemistry/Chemical_Element/Actinide/Curium.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Chemical_Element/Actinide/Curium.internal|Curium.internal]] 
 
-### #is_/same_as :: [Curium.protect](/_protect/Chemistry/Chemical_Element/Actinide/Curium.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Chemical_Element/Actinide/Curium.protect|Curium.protect]] 
 
-### #is_/same_as :: [Curium.private](/_private/Chemistry/Chemical_Element/Actinide/Curium.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Chemical_Element/Actinide/Curium.private|Curium.private]] 
 
-### #is_/same_as :: [Curium.personal](/_personal/Chemistry/Chemical_Element/Actinide/Curium.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Chemical_Element/Actinide/Curium.personal|Curium.personal]] 
 
-### #is_/same_as :: [Curium.secret](/_secret/Chemistry/Chemical_Element/Actinide/Curium.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Chemical_Element/Actinide/Curium.secret|Curium.secret]] 
 

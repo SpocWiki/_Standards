@@ -23,17 +23,17 @@ Graphical Representation:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Structure~Sequence](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structure~Sequence.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structure~Sequence|Structure~Sequence]] 
 
-### #is_/same_as :: [Structure~Sequence.public](/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structure~Sequence.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structure~Sequence.public|Structure~Sequence.public]] 
 
-### #is_/same_as :: [Structure~Sequence.internal](/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structure~Sequence.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structure~Sequence.internal|Structure~Sequence.internal]] 
 
-### #is_/same_as :: [Structure~Sequence.protect](/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structure~Sequence.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structure~Sequence.protect|Structure~Sequence.protect]] 
 
-### #is_/same_as :: [Structure~Sequence.private](/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structure~Sequence.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structure~Sequence.private|Structure~Sequence.private]] 
 
-### #is_/same_as :: [Structure~Sequence.personal](/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structure~Sequence.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structure~Sequence.personal|Structure~Sequence.personal]] 
 
-### #is_/same_as :: [Structure~Sequence.secret](/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structure~Sequence.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structure~Sequence.secret|Structure~Sequence.secret]] 
 

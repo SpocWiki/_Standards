@@ -15,17 +15,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Gloria(1980)](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Gloria(1980).md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Gloria(1980)|Gloria(1980)]] 
 
-### #is_/same_as :: [Gloria(1980).public](/_public/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Gloria(1980).public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Gloria(1980).public|Gloria(1980).public]] 
 
-### #is_/same_as :: [Gloria(1980).internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Gloria(1980).internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Gloria(1980).internal|Gloria(1980).internal]] 
 
-### #is_/same_as :: [Gloria(1980).protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Gloria(1980).protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Gloria(1980).protect|Gloria(1980).protect]] 
 
-### #is_/same_as :: [Gloria(1980).private](/_private/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Gloria(1980).private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Gloria(1980).private|Gloria(1980).private]] 
 
-### #is_/same_as :: [Gloria(1980).personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Gloria(1980).personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Gloria(1980).personal|Gloria(1980).personal]] 
 
-### #is_/same_as :: [Gloria(1980).secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Gloria(1980).secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Gloria(1980).secret|Gloria(1980).secret]] 
 

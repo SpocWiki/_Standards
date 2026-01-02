@@ -51,17 +51,17 @@ GitHub_topic: mass-spectrometry
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Mass_Spectrometry](/_Standards/Chemistry/Mass_Spectrometry.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Mass_Spectrometry|Mass_Spectrometry]] 
 
-### #is_/same_as :: [Mass_Spectrometry.public](/_public/Chemistry/Mass_Spectrometry.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Mass_Spectrometry.public|Mass_Spectrometry.public]] 
 
-### #is_/same_as :: [Mass_Spectrometry.internal](/_internal/Chemistry/Mass_Spectrometry.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Mass_Spectrometry.internal|Mass_Spectrometry.internal]] 
 
-### #is_/same_as :: [Mass_Spectrometry.protect](/_protect/Chemistry/Mass_Spectrometry.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Mass_Spectrometry.protect|Mass_Spectrometry.protect]] 
 
-### #is_/same_as :: [Mass_Spectrometry.private](/_private/Chemistry/Mass_Spectrometry.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Mass_Spectrometry.private|Mass_Spectrometry.private]] 
 
-### #is_/same_as :: [Mass_Spectrometry.personal](/_personal/Chemistry/Mass_Spectrometry.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Mass_Spectrometry.personal|Mass_Spectrometry.personal]] 
 
-### #is_/same_as :: [Mass_Spectrometry.secret](/_secret/Chemistry/Mass_Spectrometry.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Mass_Spectrometry.secret|Mass_Spectrometry.secret]] 
 

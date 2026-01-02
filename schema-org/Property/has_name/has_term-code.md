@@ -49,17 +49,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_term-code](/_Standards/schema-org/Property/has_name/has_term-code.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_name/has_term-code|has_term-code]] 
 
-### #is_/same_as :: [has_term-code.public](/_public/schema-org/Property/has_name/has_term-code.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/has_name/has_term-code.public|has_term-code.public]] 
 
-### #is_/same_as :: [has_term-code.internal](/_internal/schema-org/Property/has_name/has_term-code.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_name/has_term-code.internal|has_term-code.internal]] 
 
-### #is_/same_as :: [has_term-code.protect](/_protect/schema-org/Property/has_name/has_term-code.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_name/has_term-code.protect|has_term-code.protect]] 
 
-### #is_/same_as :: [has_term-code.private](/_private/schema-org/Property/has_name/has_term-code.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/has_name/has_term-code.private|has_term-code.private]] 
 
-### #is_/same_as :: [has_term-code.personal](/_personal/schema-org/Property/has_name/has_term-code.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_name/has_term-code.personal|has_term-code.personal]] 
 
-### #is_/same_as :: [has_term-code.secret](/_secret/schema-org/Property/has_name/has_term-code.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/has_name/has_term-code.secret|has_term-code.secret]] 
 

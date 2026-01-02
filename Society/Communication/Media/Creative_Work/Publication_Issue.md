@@ -46,17 +46,17 @@ See also <a href="http://blog.schema.org/2014/09/schemaorg-support-for-bibliogra
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Publication_Issue](/_Standards/Society/Communication/Media/Creative_Work/Publication_Issue.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Creative_Work/Publication_Issue|Publication_Issue]] 
 
-### #is_/same_as :: [Publication_Issue.public](/_public/Society/Communication/Media/Creative_Work/Publication_Issue.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Creative_Work/Publication_Issue.public|Publication_Issue.public]] 
 
-### #is_/same_as :: [Publication_Issue.internal](/_internal/Society/Communication/Media/Creative_Work/Publication_Issue.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Creative_Work/Publication_Issue.internal|Publication_Issue.internal]] 
 
-### #is_/same_as :: [Publication_Issue.protect](/_protect/Society/Communication/Media/Creative_Work/Publication_Issue.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Creative_Work/Publication_Issue.protect|Publication_Issue.protect]] 
 
-### #is_/same_as :: [Publication_Issue.private](/_private/Society/Communication/Media/Creative_Work/Publication_Issue.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Creative_Work/Publication_Issue.private|Publication_Issue.private]] 
 
-### #is_/same_as :: [Publication_Issue.personal](/_personal/Society/Communication/Media/Creative_Work/Publication_Issue.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/Publication_Issue.personal|Publication_Issue.personal]] 
 
-### #is_/same_as :: [Publication_Issue.secret](/_secret/Society/Communication/Media/Creative_Work/Publication_Issue.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Publication_Issue.secret|Publication_Issue.secret]] 
 

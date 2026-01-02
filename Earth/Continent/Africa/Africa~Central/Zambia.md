@@ -510,17 +510,17 @@ Capital :: [[Zambia/Provinces~Zambia/Lusaka,District]]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Zambia](/_Standards/Earth/Continent/Africa/Africa~Central/Zambia.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~Central/Zambia|Zambia]] 
 
-### #is_/same_as :: [Zambia.public](/_public/Earth/Continent/Africa/Africa~Central/Zambia.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~Central/Zambia.public|Zambia.public]] 
 
-### #is_/same_as :: [Zambia.internal](/_internal/Earth/Continent/Africa/Africa~Central/Zambia.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~Central/Zambia.internal|Zambia.internal]] 
 
-### #is_/same_as :: [Zambia.protect](/_protect/Earth/Continent/Africa/Africa~Central/Zambia.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~Central/Zambia.protect|Zambia.protect]] 
 
-### #is_/same_as :: [Zambia.private](/_private/Earth/Continent/Africa/Africa~Central/Zambia.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~Central/Zambia.private|Zambia.private]] 
 
-### #is_/same_as :: [Zambia.personal](/_personal/Earth/Continent/Africa/Africa~Central/Zambia.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~Central/Zambia.personal|Zambia.personal]] 
 
-### #is_/same_as :: [Zambia.secret](/_secret/Earth/Continent/Africa/Africa~Central/Zambia.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~Central/Zambia.secret|Zambia.secret]] 
 

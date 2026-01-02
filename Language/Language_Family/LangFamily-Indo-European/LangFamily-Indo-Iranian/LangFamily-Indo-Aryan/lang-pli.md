@@ -76,17 +76,17 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Pali%20language.svg
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [lang-pli](/_Standards/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/lang-pli.md) 
+### #is_/same_as :: [[/_Standards/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/lang-pli|lang-pli]] 
 
-### #is_/same_as :: [lang-pli.public](/_public/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/lang-pli.public.md) 
+### #is_/same_as :: [[/_public/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/lang-pli.public|lang-pli.public]] 
 
-### #is_/same_as :: [lang-pli.internal](/_internal/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/lang-pli.internal.md) 
+### #is_/same_as :: [[/_internal/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/lang-pli.internal|lang-pli.internal]] 
 
-### #is_/same_as :: [lang-pli.protect](/_protect/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/lang-pli.protect.md) 
+### #is_/same_as :: [[/_protect/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/lang-pli.protect|lang-pli.protect]] 
 
-### #is_/same_as :: [lang-pli.private](/_private/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/lang-pli.private.md) 
+### #is_/same_as :: [[/_private/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/lang-pli.private|lang-pli.private]] 
 
-### #is_/same_as :: [lang-pli.personal](/_personal/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/lang-pli.personal.md) 
+### #is_/same_as :: [[/_personal/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/lang-pli.personal|lang-pli.personal]] 
 
-### #is_/same_as :: [lang-pli.secret](/_secret/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/lang-pli.secret.md)
+### #is_/same_as :: [[/_secret/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/lang-pli.secret|lang-pli.secret]] 
 

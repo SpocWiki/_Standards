@@ -16,17 +16,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [There_will_be_Blood](/_Standards/Society/Communication/Media/Movie/Movie-Director/Anderson,Paul_Thomas/There_will_be_Blood.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Director/Anderson,Paul_Thomas/There_will_be_Blood|There_will_be_Blood]] 
 
-### #is_/same_as :: [There_will_be_Blood.public](/_public/Society/Communication/Media/Movie/Movie-Director/Anderson,Paul_Thomas/There_will_be_Blood.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Director/Anderson,Paul_Thomas/There_will_be_Blood.public|There_will_be_Blood.public]] 
 
-### #is_/same_as :: [There_will_be_Blood.internal](/_internal/Society/Communication/Media/Movie/Movie-Director/Anderson,Paul_Thomas/There_will_be_Blood.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Director/Anderson,Paul_Thomas/There_will_be_Blood.internal|There_will_be_Blood.internal]] 
 
-### #is_/same_as :: [There_will_be_Blood.protect](/_protect/Society/Communication/Media/Movie/Movie-Director/Anderson,Paul_Thomas/There_will_be_Blood.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Director/Anderson,Paul_Thomas/There_will_be_Blood.protect|There_will_be_Blood.protect]] 
 
-### #is_/same_as :: [There_will_be_Blood.private](/_private/Society/Communication/Media/Movie/Movie-Director/Anderson,Paul_Thomas/There_will_be_Blood.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Director/Anderson,Paul_Thomas/There_will_be_Blood.private|There_will_be_Blood.private]] 
 
-### #is_/same_as :: [There_will_be_Blood.personal](/_personal/Society/Communication/Media/Movie/Movie-Director/Anderson,Paul_Thomas/There_will_be_Blood.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Director/Anderson,Paul_Thomas/There_will_be_Blood.personal|There_will_be_Blood.personal]] 
 
-### #is_/same_as :: [There_will_be_Blood.secret](/_secret/Society/Communication/Media/Movie/Movie-Director/Anderson,Paul_Thomas/There_will_be_Blood.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Director/Anderson,Paul_Thomas/There_will_be_Blood.secret|There_will_be_Blood.secret]] 
 

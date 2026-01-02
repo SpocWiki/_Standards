@@ -15,17 +15,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Barclay_James_Harvest](/_Standards/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Barclay_James_Harvest.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Barclay_James_Harvest|Barclay_James_Harvest]] 
 
-### #is_/same_as :: [Barclay_James_Harvest.public](/_public/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Barclay_James_Harvest.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Barclay_James_Harvest.public|Barclay_James_Harvest.public]] 
 
-### #is_/same_as :: [Barclay_James_Harvest.internal](/_internal/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Barclay_James_Harvest.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Barclay_James_Harvest.internal|Barclay_James_Harvest.internal]] 
 
-### #is_/same_as :: [Barclay_James_Harvest.protect](/_protect/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Barclay_James_Harvest.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Barclay_James_Harvest.protect|Barclay_James_Harvest.protect]] 
 
-### #is_/same_as :: [Barclay_James_Harvest.private](/_private/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Barclay_James_Harvest.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Barclay_James_Harvest.private|Barclay_James_Harvest.private]] 
 
-### #is_/same_as :: [Barclay_James_Harvest.personal](/_personal/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Barclay_James_Harvest.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Barclay_James_Harvest.personal|Barclay_James_Harvest.personal]] 
 
-### #is_/same_as :: [Barclay_James_Harvest.secret](/_secret/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Barclay_James_Harvest.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Barclay_James_Harvest.secret|Barclay_James_Harvest.secret]] 
 

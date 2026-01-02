@@ -160,17 +160,17 @@ date_of_birth: 1908-01-15T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Teller,Edward](/_Standards/Science/Physics/Physicist/Teller,Edward.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Physicist/Teller,Edward|Teller,Edward]] 
 
-### #is_/same_as :: [Teller,Edward.public](/_public/Science/Physics/Physicist/Teller,Edward.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Physicist/Teller,Edward.public|Teller,Edward.public]] 
 
-### #is_/same_as :: [Teller,Edward.internal](/_internal/Science/Physics/Physicist/Teller,Edward.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Physicist/Teller,Edward.internal|Teller,Edward.internal]] 
 
-### #is_/same_as :: [Teller,Edward.protect](/_protect/Science/Physics/Physicist/Teller,Edward.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Physicist/Teller,Edward.protect|Teller,Edward.protect]] 
 
-### #is_/same_as :: [Teller,Edward.private](/_private/Science/Physics/Physicist/Teller,Edward.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Physicist/Teller,Edward.private|Teller,Edward.private]] 
 
-### #is_/same_as :: [Teller,Edward.personal](/_personal/Science/Physics/Physicist/Teller,Edward.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Physicist/Teller,Edward.personal|Teller,Edward.personal]] 
 
-### #is_/same_as :: [Teller,Edward.secret](/_secret/Science/Physics/Physicist/Teller,Edward.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Physicist/Teller,Edward.secret|Teller,Edward.secret]] 
 

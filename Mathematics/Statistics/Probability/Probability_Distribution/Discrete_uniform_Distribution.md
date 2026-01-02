@@ -311,17 +311,17 @@ maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,848
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Discrete_uniform_Distribution](/_Standards/Mathematics/Statistics/Probability/Probability_Distribution/Discrete_uniform_Distribution.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Statistics/Probability/Probability_Distribution/Discrete_uniform_Distribution|Discrete_uniform_Distribution]] 
 
-### #is_/same_as :: [Discrete_uniform_Distribution.public](/_public/Mathematics/Statistics/Probability/Probability_Distribution/Discrete_uniform_Distribution.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Statistics/Probability/Probability_Distribution/Discrete_uniform_Distribution.public|Discrete_uniform_Distribution.public]] 
 
-### #is_/same_as :: [Discrete_uniform_Distribution.internal](/_internal/Mathematics/Statistics/Probability/Probability_Distribution/Discrete_uniform_Distribution.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Statistics/Probability/Probability_Distribution/Discrete_uniform_Distribution.internal|Discrete_uniform_Distribution.internal]] 
 
-### #is_/same_as :: [Discrete_uniform_Distribution.protect](/_protect/Mathematics/Statistics/Probability/Probability_Distribution/Discrete_uniform_Distribution.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Statistics/Probability/Probability_Distribution/Discrete_uniform_Distribution.protect|Discrete_uniform_Distribution.protect]] 
 
-### #is_/same_as :: [Discrete_uniform_Distribution.private](/_private/Mathematics/Statistics/Probability/Probability_Distribution/Discrete_uniform_Distribution.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Statistics/Probability/Probability_Distribution/Discrete_uniform_Distribution.private|Discrete_uniform_Distribution.private]] 
 
-### #is_/same_as :: [Discrete_uniform_Distribution.personal](/_personal/Mathematics/Statistics/Probability/Probability_Distribution/Discrete_uniform_Distribution.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Statistics/Probability/Probability_Distribution/Discrete_uniform_Distribution.personal|Discrete_uniform_Distribution.personal]] 
 
-### #is_/same_as :: [Discrete_uniform_Distribution.secret](/_secret/Mathematics/Statistics/Probability/Probability_Distribution/Discrete_uniform_Distribution.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Statistics/Probability/Probability_Distribution/Discrete_uniform_Distribution.secret|Discrete_uniform_Distribution.secret]] 
 

@@ -37,17 +37,17 @@ A subway station.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~SubwayStation](/_Standards/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~SubwayStation.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~SubwayStation|FileClass~SubwayStation]] 
 
-### #is_/same_as :: [FileClass~SubwayStation.public](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~SubwayStation.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~SubwayStation.public|FileClass~SubwayStation.public]] 
 
-### #is_/same_as :: [FileClass~SubwayStation.internal](/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~SubwayStation.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~SubwayStation.internal|FileClass~SubwayStation.internal]] 
 
-### #is_/same_as :: [FileClass~SubwayStation.protect](/_protect/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~SubwayStation.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~SubwayStation.protect|FileClass~SubwayStation.protect]] 
 
-### #is_/same_as :: [FileClass~SubwayStation.private](/_private/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~SubwayStation.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~SubwayStation.private|FileClass~SubwayStation.private]] 
 
-### #is_/same_as :: [FileClass~SubwayStation.personal](/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~SubwayStation.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~SubwayStation.personal|FileClass~SubwayStation.personal]] 
 
-### #is_/same_as :: [FileClass~SubwayStation.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~SubwayStation.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~SubwayStation.secret|FileClass~SubwayStation.secret]] 
 

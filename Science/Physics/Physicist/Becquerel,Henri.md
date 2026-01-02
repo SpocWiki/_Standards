@@ -114,17 +114,17 @@ date_of_death: 1908-08-25T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Becquerel,Henri](/_Standards/Science/Physics/Physicist/Becquerel,Henri.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Physicist/Becquerel,Henri|Becquerel,Henri]] 
 
-### #is_/same_as :: [Becquerel,Henri.public](/_public/Science/Physics/Physicist/Becquerel,Henri.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Physicist/Becquerel,Henri.public|Becquerel,Henri.public]] 
 
-### #is_/same_as :: [Becquerel,Henri.internal](/_internal/Science/Physics/Physicist/Becquerel,Henri.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Physicist/Becquerel,Henri.internal|Becquerel,Henri.internal]] 
 
-### #is_/same_as :: [Becquerel,Henri.protect](/_protect/Science/Physics/Physicist/Becquerel,Henri.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Physicist/Becquerel,Henri.protect|Becquerel,Henri.protect]] 
 
-### #is_/same_as :: [Becquerel,Henri.private](/_private/Science/Physics/Physicist/Becquerel,Henri.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Physicist/Becquerel,Henri.private|Becquerel,Henri.private]] 
 
-### #is_/same_as :: [Becquerel,Henri.personal](/_personal/Science/Physics/Physicist/Becquerel,Henri.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Physicist/Becquerel,Henri.personal|Becquerel,Henri.personal]] 
 
-### #is_/same_as :: [Becquerel,Henri.secret](/_secret/Science/Physics/Physicist/Becquerel,Henri.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Physicist/Becquerel,Henri.secret|Becquerel,Henri.secret]] 
 

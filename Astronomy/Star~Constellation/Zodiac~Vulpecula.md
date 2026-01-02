@@ -52,17 +52,17 @@ time_of_discovery_or_invention: 1683-01-01T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Zodiac~Vulpecula](/_Standards/Astronomy/Star~Constellation/Zodiac~Vulpecula.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Star~Constellation/Zodiac~Vulpecula|Zodiac~Vulpecula]] 
 
-### #is_/same_as :: [Zodiac~Vulpecula.public](/_public/Astronomy/Star~Constellation/Zodiac~Vulpecula.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Star~Constellation/Zodiac~Vulpecula.public|Zodiac~Vulpecula.public]] 
 
-### #is_/same_as :: [Zodiac~Vulpecula.internal](/_internal/Astronomy/Star~Constellation/Zodiac~Vulpecula.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Star~Constellation/Zodiac~Vulpecula.internal|Zodiac~Vulpecula.internal]] 
 
-### #is_/same_as :: [Zodiac~Vulpecula.protect](/_protect/Astronomy/Star~Constellation/Zodiac~Vulpecula.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Star~Constellation/Zodiac~Vulpecula.protect|Zodiac~Vulpecula.protect]] 
 
-### #is_/same_as :: [Zodiac~Vulpecula.private](/_private/Astronomy/Star~Constellation/Zodiac~Vulpecula.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Star~Constellation/Zodiac~Vulpecula.private|Zodiac~Vulpecula.private]] 
 
-### #is_/same_as :: [Zodiac~Vulpecula.personal](/_personal/Astronomy/Star~Constellation/Zodiac~Vulpecula.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Star~Constellation/Zodiac~Vulpecula.personal|Zodiac~Vulpecula.personal]] 
 
-### #is_/same_as :: [Zodiac~Vulpecula.secret](/_secret/Astronomy/Star~Constellation/Zodiac~Vulpecula.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Star~Constellation/Zodiac~Vulpecula.secret|Zodiac~Vulpecula.secret]] 
 

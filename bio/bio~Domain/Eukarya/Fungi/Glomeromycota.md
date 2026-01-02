@@ -116,7 +116,7 @@ roots of a plant growing on a sterile nutrient medium in a petri dish
 cultures usually does not contain other microorganisms, and this is
 therefore the method of choice for certain molecular biological
 experiments.
-![ ](Glomeromycota/scutellospora_sm.jpg))
+![ ](Glomeromycota/scutellospora_sm.jpg) 
 
 Figure 1: Spores of *Scutellospora castanea* (isolate BEG1, photo ©
 Annemarie Brennwald). Spore diameter approximately 220 µm.
@@ -245,7 +245,7 @@ formation\") has been important to circumscribe genera and families, and
 the layer structure of the spore wall to distinguish species (Walker,
 1983; Morton, 1988). Some species have a richly ornamented spore surface
 (see Figure 2).
-![ ](Glomeromycota/agrd_bw1.jpg))
+![ ](Glomeromycota/agrd_bw1.jpg) 
 
 Figure 2: Spore of *Archaeospora leptoticha* (isolate NC176) cracked
 open under a microscope cover slide. The spore wall is multilayered with
@@ -284,7 +284,7 @@ Molecular phylogenetic analysis has also shown that species which form
 complex sporocarps formerly placed in the genus *Sclerocystis* (Fig.3)
 are actually phylogenetically nested within well-characterized *Glomus*
 species with simple spores (Redecker et al., 2000b).
-![ ](Glomeromycota/sinuosum_adj2.jpg))
+![ ](Glomeromycota/sinuosum_adj2.jpg) 
 
 Fig. 3: Section of a sporocarp of *Glomus sinuosum* (isolate MD126,
 formerly *Sclerocystis sinuosa*). Spores are arranged around a center of
@@ -313,7 +313,7 @@ therefore, predates the split of the Ascomycota and Basidiomycota
 glomalean fungi were discovered in 460 million year old rocks from the
 Ordovician (Redecker et al., 2000b), thus they are among the oldest
 recognized fungal fossils to date.
-![ ](Glomeromycota/fossilspore2.jpg))
+![ ](Glomeromycota/fossilspore2.jpg) 
 
 Fig. 4: Fossil glomeromycotan spore from the Ordovician of Wisconsin
 (size bar 50 µm, © American Association for the Advancement of Science
@@ -506,7 +506,7 @@ taxa in the Glomeromycota. Mycological Research 108, in press.
 
 ## Title Illustrations
 
-![](Glomeromycota/s328_small.jpg))
+![](Glomeromycota/s328_small.jpg) 
 
   ------------------------------------------------------------------------------------
   Scientific Name ::  Glomus sp. S328
@@ -515,7 +515,7 @@ taxa in the Glomeromycota. Mycological Research 108, in press.
   Copyright ::         © 2000 [American Association for the Advancement of Science](http://www.sciencemag.org/) 
  
   ------------------------------------------------------------------------------------
-![](Glomeromycota/arbuscule.jpg))
+![](Glomeromycota/arbuscule.jpg) 
 
   -----------------------
   Scientific Name ::  Glomeromycota
@@ -523,7 +523,7 @@ taxa in the Glomeromycota. Mycological Research 108, in press.
   Size              Arbuscule diameter is approximately 19 µm
   Copyright ::         © Kerstin Wex
   -----------------------
-![](Glomeromycota/lclr_myc.jpg))
+![](Glomeromycota/lclr_myc.jpg) 
 
   ---------------------------------------------------------------------------------
   Scientific Name ::  Plantago media, Glomus clarum
@@ -536,17 +536,17 @@ taxa in the Glomeromycota. Mycological Research 108, in press.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Glomeromycota](/_Standards/bio/bio~Domain/Eukarya/Fungi/Glomeromycota.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Fungi/Glomeromycota|Glomeromycota]] 
 
-### #is_/same_as :: [Glomeromycota.public](/_public/bio/bio~Domain/Eukarya/Fungi/Glomeromycota.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Fungi/Glomeromycota.public|Glomeromycota.public]] 
 
-### #is_/same_as :: [Glomeromycota.internal](/_internal/bio/bio~Domain/Eukarya/Fungi/Glomeromycota.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Fungi/Glomeromycota.internal|Glomeromycota.internal]] 
 
-### #is_/same_as :: [Glomeromycota.protect](/_protect/bio/bio~Domain/Eukarya/Fungi/Glomeromycota.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Fungi/Glomeromycota.protect|Glomeromycota.protect]] 
 
-### #is_/same_as :: [Glomeromycota.private](/_private/bio/bio~Domain/Eukarya/Fungi/Glomeromycota.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Fungi/Glomeromycota.private|Glomeromycota.private]] 
 
-### #is_/same_as :: [Glomeromycota.personal](/_personal/bio/bio~Domain/Eukarya/Fungi/Glomeromycota.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Fungi/Glomeromycota.personal|Glomeromycota.personal]] 
 
-### #is_/same_as :: [Glomeromycota.secret](/_secret/bio/bio~Domain/Eukarya/Fungi/Glomeromycota.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Fungi/Glomeromycota.secret|Glomeromycota.secret]] 
 

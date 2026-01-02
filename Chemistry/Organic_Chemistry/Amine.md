@@ -73,17 +73,17 @@ Dewey_Decimal_Classification:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Amine](/_Standards/Chemistry/Organic_Chemistry/Amine.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Organic_Chemistry/Amine|Amine]] 
 
-### #is_/same_as :: [Amine.public](/_public/Chemistry/Organic_Chemistry/Amine.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Organic_Chemistry/Amine.public|Amine.public]] 
 
-### #is_/same_as :: [Amine.internal](/_internal/Chemistry/Organic_Chemistry/Amine.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Organic_Chemistry/Amine.internal|Amine.internal]] 
 
-### #is_/same_as :: [Amine.protect](/_protect/Chemistry/Organic_Chemistry/Amine.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Organic_Chemistry/Amine.protect|Amine.protect]] 
 
-### #is_/same_as :: [Amine.private](/_private/Chemistry/Organic_Chemistry/Amine.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Organic_Chemistry/Amine.private|Amine.private]] 
 
-### #is_/same_as :: [Amine.personal](/_personal/Chemistry/Organic_Chemistry/Amine.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Organic_Chemistry/Amine.personal|Amine.personal]] 
 
-### #is_/same_as :: [Amine.secret](/_secret/Chemistry/Organic_Chemistry/Amine.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Organic_Chemistry/Amine.secret|Amine.secret]] 
 

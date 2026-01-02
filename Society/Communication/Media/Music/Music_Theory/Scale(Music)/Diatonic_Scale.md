@@ -40,3 +40,22 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Diatonic%20scale) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Music_Theory/Scale(Music)/Diatonic_Scale|Diatonic_Scale]] 
+
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Music_Theory/Scale(Music)/Diatonic_Scale.public|Diatonic_Scale.public]] 
+
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Music_Theory/Scale(Music)/Diatonic_Scale.internal|Diatonic_Scale.internal]] 
+
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Music_Theory/Scale(Music)/Diatonic_Scale.protect|Diatonic_Scale.protect]] 
+
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Music_Theory/Scale(Music)/Diatonic_Scale.private|Diatonic_Scale.private]] 
+
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Music_Theory/Scale(Music)/Diatonic_Scale.personal|Diatonic_Scale.personal]] 
+
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Music_Theory/Scale(Music)/Diatonic_Scale.secret|Diatonic_Scale.secret]] 
+

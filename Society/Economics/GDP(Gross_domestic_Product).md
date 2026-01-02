@@ -68,17 +68,17 @@ IPTC_NewsCode: mediatopic/20000359
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [GDP(Gross_domestic_Product)](/_Standards/Society/Economics/GDP(Gross_domestic_Product).md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/GDP(Gross_domestic_Product)|GDP(Gross_domestic_Product)]] 
 
-### #is_/same_as :: [GDP(Gross_domestic_Product).public](/_public/Society/Economics/GDP(Gross_domestic_Product).public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/GDP(Gross_domestic_Product).public|GDP(Gross_domestic_Product).public]] 
 
-### #is_/same_as :: [GDP(Gross_domestic_Product).internal](/_internal/Society/Economics/GDP(Gross_domestic_Product).internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/GDP(Gross_domestic_Product).internal|GDP(Gross_domestic_Product).internal]] 
 
-### #is_/same_as :: [GDP(Gross_domestic_Product).protect](/_protect/Society/Economics/GDP(Gross_domestic_Product).protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/GDP(Gross_domestic_Product).protect|GDP(Gross_domestic_Product).protect]] 
 
-### #is_/same_as :: [GDP(Gross_domestic_Product).private](/_private/Society/Economics/GDP(Gross_domestic_Product).private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/GDP(Gross_domestic_Product).private|GDP(Gross_domestic_Product).private]] 
 
-### #is_/same_as :: [GDP(Gross_domestic_Product).personal](/_personal/Society/Economics/GDP(Gross_domestic_Product).personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/GDP(Gross_domestic_Product).personal|GDP(Gross_domestic_Product).personal]] 
 
-### #is_/same_as :: [GDP(Gross_domestic_Product).secret](/_secret/Society/Economics/GDP(Gross_domestic_Product).secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/GDP(Gross_domestic_Product).secret|GDP(Gross_domestic_Product).secret]] 
 

@@ -48,17 +48,17 @@ conversion_to_SI_unit: 0.5144444444444445
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Knot(speed)](/_Standards/Dimension/Linear_Dimension/Velocity/Knot(speed).md) 
+### #is_/same_as :: [[/_Standards/Dimension/Linear_Dimension/Velocity/Knot(speed)|Knot(speed)]] 
 
-### #is_/same_as :: [Knot(speed).public](/_public/Dimension/Linear_Dimension/Velocity/Knot(speed).public.md) 
+### #is_/same_as :: [[/_public/Dimension/Linear_Dimension/Velocity/Knot(speed).public|Knot(speed).public]] 
 
-### #is_/same_as :: [Knot(speed).internal](/_internal/Dimension/Linear_Dimension/Velocity/Knot(speed).internal.md) 
+### #is_/same_as :: [[/_internal/Dimension/Linear_Dimension/Velocity/Knot(speed).internal|Knot(speed).internal]] 
 
-### #is_/same_as :: [Knot(speed).protect](/_protect/Dimension/Linear_Dimension/Velocity/Knot(speed).protect.md) 
+### #is_/same_as :: [[/_protect/Dimension/Linear_Dimension/Velocity/Knot(speed).protect|Knot(speed).protect]] 
 
-### #is_/same_as :: [Knot(speed).private](/_private/Dimension/Linear_Dimension/Velocity/Knot(speed).private.md) 
+### #is_/same_as :: [[/_private/Dimension/Linear_Dimension/Velocity/Knot(speed).private|Knot(speed).private]] 
 
-### #is_/same_as :: [Knot(speed).personal](/_personal/Dimension/Linear_Dimension/Velocity/Knot(speed).personal.md) 
+### #is_/same_as :: [[/_personal/Dimension/Linear_Dimension/Velocity/Knot(speed).personal|Knot(speed).personal]] 
 
-### #is_/same_as :: [Knot(speed).secret](/_secret/Dimension/Linear_Dimension/Velocity/Knot(speed).secret.md)
+### #is_/same_as :: [[/_secret/Dimension/Linear_Dimension/Velocity/Knot(speed).secret|Knot(speed).secret]] 
 

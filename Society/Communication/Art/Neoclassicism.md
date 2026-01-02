@@ -51,17 +51,17 @@ OpenStreetMap_tag: building:architecture=neoclassicism
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Neoclassicism](/_Standards/Society/Communication/Art/Neoclassicism.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Art/Neoclassicism|Neoclassicism]] 
 
-### #is_/same_as :: [Neoclassicism.public](/_public/Society/Communication/Art/Neoclassicism.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Art/Neoclassicism.public|Neoclassicism.public]] 
 
-### #is_/same_as :: [Neoclassicism.internal](/_internal/Society/Communication/Art/Neoclassicism.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Art/Neoclassicism.internal|Neoclassicism.internal]] 
 
-### #is_/same_as :: [Neoclassicism.protect](/_protect/Society/Communication/Art/Neoclassicism.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Art/Neoclassicism.protect|Neoclassicism.protect]] 
 
-### #is_/same_as :: [Neoclassicism.private](/_private/Society/Communication/Art/Neoclassicism.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Art/Neoclassicism.private|Neoclassicism.private]] 
 
-### #is_/same_as :: [Neoclassicism.personal](/_personal/Society/Communication/Art/Neoclassicism.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Art/Neoclassicism.personal|Neoclassicism.personal]] 
 
-### #is_/same_as :: [Neoclassicism.secret](/_secret/Society/Communication/Art/Neoclassicism.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Art/Neoclassicism.secret|Neoclassicism.secret]] 
 

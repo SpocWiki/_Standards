@@ -17,17 +17,17 @@ Hiragana Script is used in [[../../Earth/Continent/Asia/Asia~East/Japan|Japan]].
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Script~Hira](/_Standards/Language/Writing_System/Script~Hira.md) 
+### #is_/same_as :: [[/_Standards/Language/Writing_System/Script~Hira|Script~Hira]] 
 
-### #is_/same_as :: [Script~Hira.public](/_public/Language/Writing_System/Script~Hira.public.md) 
+### #is_/same_as :: [[/_public/Language/Writing_System/Script~Hira.public|Script~Hira.public]] 
 
-### #is_/same_as :: [Script~Hira.internal](/_internal/Language/Writing_System/Script~Hira.internal.md) 
+### #is_/same_as :: [[/_internal/Language/Writing_System/Script~Hira.internal|Script~Hira.internal]] 
 
-### #is_/same_as :: [Script~Hira.protect](/_protect/Language/Writing_System/Script~Hira.protect.md) 
+### #is_/same_as :: [[/_protect/Language/Writing_System/Script~Hira.protect|Script~Hira.protect]] 
 
-### #is_/same_as :: [Script~Hira.private](/_private/Language/Writing_System/Script~Hira.private.md) 
+### #is_/same_as :: [[/_private/Language/Writing_System/Script~Hira.private|Script~Hira.private]] 
 
-### #is_/same_as :: [Script~Hira.personal](/_personal/Language/Writing_System/Script~Hira.personal.md) 
+### #is_/same_as :: [[/_personal/Language/Writing_System/Script~Hira.personal|Script~Hira.personal]] 
 
-### #is_/same_as :: [Script~Hira.secret](/_secret/Language/Writing_System/Script~Hira.secret.md)
+### #is_/same_as :: [[/_secret/Language/Writing_System/Script~Hira.secret|Script~Hira.secret]] 
 

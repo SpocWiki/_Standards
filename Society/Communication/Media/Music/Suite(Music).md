@@ -46,17 +46,17 @@ Commons_category: Suites (music)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Suite(Music)](/_Standards/Society/Communication/Media/Music/Suite(Music).md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Suite(Music)|Suite(Music)]] 
 
-### #is_/same_as :: [Suite(Music).public](/_public/Society/Communication/Media/Music/Suite(Music).public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Suite(Music).public|Suite(Music).public]] 
 
-### #is_/same_as :: [Suite(Music).internal](/_internal/Society/Communication/Media/Music/Suite(Music).internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Suite(Music).internal|Suite(Music).internal]] 
 
-### #is_/same_as :: [Suite(Music).protect](/_protect/Society/Communication/Media/Music/Suite(Music).protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Suite(Music).protect|Suite(Music).protect]] 
 
-### #is_/same_as :: [Suite(Music).private](/_private/Society/Communication/Media/Music/Suite(Music).private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Suite(Music).private|Suite(Music).private]] 
 
-### #is_/same_as :: [Suite(Music).personal](/_personal/Society/Communication/Media/Music/Suite(Music).personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Suite(Music).personal|Suite(Music).personal]] 
 
-### #is_/same_as :: [Suite(Music).secret](/_secret/Society/Communication/Media/Music/Suite(Music).secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Suite(Music).secret|Suite(Music).secret]] 
 

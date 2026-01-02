@@ -71,17 +71,17 @@ social_media_followers: 46971499
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [UEFA_Champions_League](/_Standards/Society/Agent/Community/Organization/Sports_Organization/UEFA/UEFA_Champions_League.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Sports_Organization/UEFA/UEFA_Champions_League|UEFA_Champions_League]] 
 
-### #is_/same_as :: [UEFA_Champions_League.public](/_public/Society/Agent/Community/Organization/Sports_Organization/UEFA/UEFA_Champions_League.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Sports_Organization/UEFA/UEFA_Champions_League.public|UEFA_Champions_League.public]] 
 
-### #is_/same_as :: [UEFA_Champions_League.internal](/_internal/Society/Agent/Community/Organization/Sports_Organization/UEFA/UEFA_Champions_League.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Sports_Organization/UEFA/UEFA_Champions_League.internal|UEFA_Champions_League.internal]] 
 
-### #is_/same_as :: [UEFA_Champions_League.protect](/_protect/Society/Agent/Community/Organization/Sports_Organization/UEFA/UEFA_Champions_League.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Sports_Organization/UEFA/UEFA_Champions_League.protect|UEFA_Champions_League.protect]] 
 
-### #is_/same_as :: [UEFA_Champions_League.private](/_private/Society/Agent/Community/Organization/Sports_Organization/UEFA/UEFA_Champions_League.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Sports_Organization/UEFA/UEFA_Champions_League.private|UEFA_Champions_League.private]] 
 
-### #is_/same_as :: [UEFA_Champions_League.personal](/_personal/Society/Agent/Community/Organization/Sports_Organization/UEFA/UEFA_Champions_League.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Sports_Organization/UEFA/UEFA_Champions_League.personal|UEFA_Champions_League.personal]] 
 
-### #is_/same_as :: [UEFA_Champions_League.secret](/_secret/Society/Agent/Community/Organization/Sports_Organization/UEFA/UEFA_Champions_League.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Sports_Organization/UEFA/UEFA_Champions_League.secret|UEFA_Champions_League.secret]] 
 

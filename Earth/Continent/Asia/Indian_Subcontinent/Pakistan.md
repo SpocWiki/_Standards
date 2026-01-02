@@ -604,17 +604,17 @@ Capital :: [[Pakistan/Counties/F.C.T/City/Islamabad]]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Pakistan](/_Standards/Earth/Continent/Asia/Indian_Subcontinent/Pakistan.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Indian_Subcontinent/Pakistan|Pakistan]] 
 
-### #is_/same_as :: [Pakistan.public](/_public/Earth/Continent/Asia/Indian_Subcontinent/Pakistan.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Indian_Subcontinent/Pakistan.public|Pakistan.public]] 
 
-### #is_/same_as :: [Pakistan.internal](/_internal/Earth/Continent/Asia/Indian_Subcontinent/Pakistan.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Indian_Subcontinent/Pakistan.internal|Pakistan.internal]] 
 
-### #is_/same_as :: [Pakistan.protect](/_protect/Earth/Continent/Asia/Indian_Subcontinent/Pakistan.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Indian_Subcontinent/Pakistan.protect|Pakistan.protect]] 
 
-### #is_/same_as :: [Pakistan.private](/_private/Earth/Continent/Asia/Indian_Subcontinent/Pakistan.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Indian_Subcontinent/Pakistan.private|Pakistan.private]] 
 
-### #is_/same_as :: [Pakistan.personal](/_personal/Earth/Continent/Asia/Indian_Subcontinent/Pakistan.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Indian_Subcontinent/Pakistan.personal|Pakistan.personal]] 
 
-### #is_/same_as :: [Pakistan.secret](/_secret/Earth/Continent/Asia/Indian_Subcontinent/Pakistan.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Indian_Subcontinent/Pakistan.secret|Pakistan.secret]] 
 

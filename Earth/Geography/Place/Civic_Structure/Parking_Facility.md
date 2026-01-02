@@ -41,17 +41,17 @@ A parking lot or other parking facility.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Parking_Facility](/_Standards/Earth/Geography/Place/Civic_Structure/Parking_Facility.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geography/Place/Civic_Structure/Parking_Facility|Parking_Facility]] 
 
-### #is_/same_as :: [Parking_Facility.public](/_public/Earth/Geography/Place/Civic_Structure/Parking_Facility.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geography/Place/Civic_Structure/Parking_Facility.public|Parking_Facility.public]] 
 
-### #is_/same_as :: [Parking_Facility.internal](/_internal/Earth/Geography/Place/Civic_Structure/Parking_Facility.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geography/Place/Civic_Structure/Parking_Facility.internal|Parking_Facility.internal]] 
 
-### #is_/same_as :: [Parking_Facility.protect](/_protect/Earth/Geography/Place/Civic_Structure/Parking_Facility.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geography/Place/Civic_Structure/Parking_Facility.protect|Parking_Facility.protect]] 
 
-### #is_/same_as :: [Parking_Facility.private](/_private/Earth/Geography/Place/Civic_Structure/Parking_Facility.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geography/Place/Civic_Structure/Parking_Facility.private|Parking_Facility.private]] 
 
-### #is_/same_as :: [Parking_Facility.personal](/_personal/Earth/Geography/Place/Civic_Structure/Parking_Facility.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geography/Place/Civic_Structure/Parking_Facility.personal|Parking_Facility.personal]] 
 
-### #is_/same_as :: [Parking_Facility.secret](/_secret/Earth/Geography/Place/Civic_Structure/Parking_Facility.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geography/Place/Civic_Structure/Parking_Facility.secret|Parking_Facility.secret]] 
 

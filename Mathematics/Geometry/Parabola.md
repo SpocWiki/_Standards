@@ -72,17 +72,17 @@ Commons_category: Parabolas
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Parabola](/_Standards/Mathematics/Geometry/Parabola.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Geometry/Parabola|Parabola]] 
 
-### #is_/same_as :: [Parabola.public](/_public/Mathematics/Geometry/Parabola.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Geometry/Parabola.public|Parabola.public]] 
 
-### #is_/same_as :: [Parabola.internal](/_internal/Mathematics/Geometry/Parabola.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Geometry/Parabola.internal|Parabola.internal]] 
 
-### #is_/same_as :: [Parabola.protect](/_protect/Mathematics/Geometry/Parabola.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Geometry/Parabola.protect|Parabola.protect]] 
 
-### #is_/same_as :: [Parabola.private](/_private/Mathematics/Geometry/Parabola.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Geometry/Parabola.private|Parabola.private]] 
 
-### #is_/same_as :: [Parabola.personal](/_personal/Mathematics/Geometry/Parabola.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Geometry/Parabola.personal|Parabola.personal]] 
 
-### #is_/same_as :: [Parabola.secret](/_secret/Mathematics/Geometry/Parabola.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Geometry/Parabola.secret|Parabola.secret]] 
 

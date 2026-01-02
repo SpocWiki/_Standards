@@ -41,17 +41,17 @@ A value indicating a special usage of a car, e.g. commercial rental, driving sch
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Car_Usage_Type](/_Standards/schema-org/Enumeration/Car_Usage_Type.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Car_Usage_Type|Car_Usage_Type]] 
 
-### #is_/same_as :: [Car_Usage_Type.public](/_public/schema-org/Enumeration/Car_Usage_Type.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Car_Usage_Type.public|Car_Usage_Type.public]] 
 
-### #is_/same_as :: [Car_Usage_Type.internal](/_internal/schema-org/Enumeration/Car_Usage_Type.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Car_Usage_Type.internal|Car_Usage_Type.internal]] 
 
-### #is_/same_as :: [Car_Usage_Type.protect](/_protect/schema-org/Enumeration/Car_Usage_Type.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Car_Usage_Type.protect|Car_Usage_Type.protect]] 
 
-### #is_/same_as :: [Car_Usage_Type.private](/_private/schema-org/Enumeration/Car_Usage_Type.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Car_Usage_Type.private|Car_Usage_Type.private]] 
 
-### #is_/same_as :: [Car_Usage_Type.personal](/_personal/schema-org/Enumeration/Car_Usage_Type.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Car_Usage_Type.personal|Car_Usage_Type.personal]] 
 
-### #is_/same_as :: [Car_Usage_Type.secret](/_secret/schema-org/Enumeration/Car_Usage_Type.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Car_Usage_Type.secret|Car_Usage_Type.secret]] 
 

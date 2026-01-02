@@ -89,17 +89,17 @@ native_label: Qhichwa simi
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Physiology](/_Standards/bio/Physiology.md) 
+### #is_/same_as :: [[/_Standards/bio/Physiology|Physiology]] 
 
-### #is_/same_as :: [Physiology.public](/_public/bio/Physiology.public.md) 
+### #is_/same_as :: [[/_public/bio/Physiology.public|Physiology.public]] 
 
-### #is_/same_as :: [Physiology.internal](/_internal/bio/Physiology.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Physiology.internal|Physiology.internal]] 
 
-### #is_/same_as :: [Physiology.protect](/_protect/bio/Physiology.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Physiology.protect|Physiology.protect]] 
 
-### #is_/same_as :: [Physiology.private](/_private/bio/Physiology.private.md) 
+### #is_/same_as :: [[/_private/bio/Physiology.private|Physiology.private]] 
 
-### #is_/same_as :: [Physiology.personal](/_personal/bio/Physiology.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Physiology.personal|Physiology.personal]] 
 
-### #is_/same_as :: [Physiology.secret](/_secret/bio/Physiology.secret.md)
+### #is_/same_as :: [[/_secret/bio/Physiology.secret|Physiology.secret]] 
 

@@ -14,17 +14,17 @@ Examples are:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [BDfL(benevolent_dictator_for_life)](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/BDfL(benevolent_dictator_for_life).md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/BDfL(benevolent_dictator_for_life)|BDfL(benevolent_dictator_for_life)]] 
 
-### #is_/same_as :: [BDfL(benevolent_dictator_for_life).public](/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/BDfL(benevolent_dictator_for_life).public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/BDfL(benevolent_dictator_for_life).public|BDfL(benevolent_dictator_for_life).public]] 
 
-### #is_/same_as :: [BDfL(benevolent_dictator_for_life).internal](/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/BDfL(benevolent_dictator_for_life).internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/BDfL(benevolent_dictator_for_life).internal|BDfL(benevolent_dictator_for_life).internal]] 
 
-### #is_/same_as :: [BDfL(benevolent_dictator_for_life).protect](/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/BDfL(benevolent_dictator_for_life).protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/BDfL(benevolent_dictator_for_life).protect|BDfL(benevolent_dictator_for_life).protect]] 
 
-### #is_/same_as :: [BDfL(benevolent_dictator_for_life).private](/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/BDfL(benevolent_dictator_for_life).private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/BDfL(benevolent_dictator_for_life).private|BDfL(benevolent_dictator_for_life).private]] 
 
-### #is_/same_as :: [BDfL(benevolent_dictator_for_life).personal](/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/BDfL(benevolent_dictator_for_life).personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/BDfL(benevolent_dictator_for_life).personal|BDfL(benevolent_dictator_for_life).personal]] 
 
-### #is_/same_as :: [BDfL(benevolent_dictator_for_life).secret](/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/BDfL(benevolent_dictator_for_life).secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/BDfL(benevolent_dictator_for_life).secret|BDfL(benevolent_dictator_for_life).secret]] 
 

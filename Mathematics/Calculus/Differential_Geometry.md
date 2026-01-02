@@ -58,17 +58,17 @@ Krugosvet_article: nauka_i_tehnika/matematika/DIFFERENTSIALNAYA_GEOMETRIYA.html
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Differential_Geometry](/_Standards/Mathematics/Calculus/Differential_Geometry.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Calculus/Differential_Geometry|Differential_Geometry]] 
 
-### #is_/same_as :: [Differential_Geometry.public](/_public/Mathematics/Calculus/Differential_Geometry.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Calculus/Differential_Geometry.public|Differential_Geometry.public]] 
 
-### #is_/same_as :: [Differential_Geometry.internal](/_internal/Mathematics/Calculus/Differential_Geometry.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Calculus/Differential_Geometry.internal|Differential_Geometry.internal]] 
 
-### #is_/same_as :: [Differential_Geometry.protect](/_protect/Mathematics/Calculus/Differential_Geometry.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Calculus/Differential_Geometry.protect|Differential_Geometry.protect]] 
 
-### #is_/same_as :: [Differential_Geometry.private](/_private/Mathematics/Calculus/Differential_Geometry.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Calculus/Differential_Geometry.private|Differential_Geometry.private]] 
 
-### #is_/same_as :: [Differential_Geometry.personal](/_personal/Mathematics/Calculus/Differential_Geometry.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Calculus/Differential_Geometry.personal|Differential_Geometry.personal]] 
 
-### #is_/same_as :: [Differential_Geometry.secret](/_secret/Mathematics/Calculus/Differential_Geometry.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Calculus/Differential_Geometry.secret|Differential_Geometry.secret]] 
 

@@ -40,17 +40,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [is_providing_service](/_Standards/schema-org/Relation/is/is_providing_service.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/is/is_providing_service|is_providing_service]] 
 
-### #is_/same_as :: [is_providing_service.public](/_public/schema-org/Relation/is/is_providing_service.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/is/is_providing_service.public|is_providing_service.public]] 
 
-### #is_/same_as :: [is_providing_service.internal](/_internal/schema-org/Relation/is/is_providing_service.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/is/is_providing_service.internal|is_providing_service.internal]] 
 
-### #is_/same_as :: [is_providing_service.protect](/_protect/schema-org/Relation/is/is_providing_service.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/is/is_providing_service.protect|is_providing_service.protect]] 
 
-### #is_/same_as :: [is_providing_service.private](/_private/schema-org/Relation/is/is_providing_service.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/is/is_providing_service.private|is_providing_service.private]] 
 
-### #is_/same_as :: [is_providing_service.personal](/_personal/schema-org/Relation/is/is_providing_service.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/is/is_providing_service.personal|is_providing_service.personal]] 
 
-### #is_/same_as :: [is_providing_service.secret](/_secret/schema-org/Relation/is/is_providing_service.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/is/is_providing_service.secret|is_providing_service.secret]] 
 

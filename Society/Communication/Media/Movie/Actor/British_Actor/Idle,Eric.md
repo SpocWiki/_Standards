@@ -50,17 +50,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Idle,Eric](/_Standards/Society/Communication/Media/Movie/Actor/British_Actor/Idle,Eric.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Actor/British_Actor/Idle,Eric|Idle,Eric]] 
 
-### #is_/same_as :: [Idle,Eric.public](/_public/Society/Communication/Media/Movie/Actor/British_Actor/Idle,Eric.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Actor/British_Actor/Idle,Eric.public|Idle,Eric.public]] 
 
-### #is_/same_as :: [Idle,Eric.internal](/_internal/Society/Communication/Media/Movie/Actor/British_Actor/Idle,Eric.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Actor/British_Actor/Idle,Eric.internal|Idle,Eric.internal]] 
 
-### #is_/same_as :: [Idle,Eric.protect](/_protect/Society/Communication/Media/Movie/Actor/British_Actor/Idle,Eric.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Actor/British_Actor/Idle,Eric.protect|Idle,Eric.protect]] 
 
-### #is_/same_as :: [Idle,Eric.private](/_private/Society/Communication/Media/Movie/Actor/British_Actor/Idle,Eric.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Actor/British_Actor/Idle,Eric.private|Idle,Eric.private]] 
 
-### #is_/same_as :: [Idle,Eric.personal](/_personal/Society/Communication/Media/Movie/Actor/British_Actor/Idle,Eric.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Actor/British_Actor/Idle,Eric.personal|Idle,Eric.personal]] 
 
-### #is_/same_as :: [Idle,Eric.secret](/_secret/Society/Communication/Media/Movie/Actor/British_Actor/Idle,Eric.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Actor/British_Actor/Idle,Eric.secret|Idle,Eric.secret]] 
 

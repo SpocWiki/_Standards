@@ -165,17 +165,17 @@ writing_language: '[[_Standards/WikiData/WD~Latin,397]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hippo,Augustine_of](/_Standards/Philosophy/Philosopher/Ancient_Philosopher/Hippo,Augustine_of.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Philosopher/Ancient_Philosopher/Hippo,Augustine_of|Hippo,Augustine_of]] 
 
-### #is_/same_as :: [Hippo,Augustine_of.public](/_public/Philosophy/Philosopher/Ancient_Philosopher/Hippo,Augustine_of.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Philosopher/Ancient_Philosopher/Hippo,Augustine_of.public|Hippo,Augustine_of.public]] 
 
-### #is_/same_as :: [Hippo,Augustine_of.internal](/_internal/Philosophy/Philosopher/Ancient_Philosopher/Hippo,Augustine_of.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Philosopher/Ancient_Philosopher/Hippo,Augustine_of.internal|Hippo,Augustine_of.internal]] 
 
-### #is_/same_as :: [Hippo,Augustine_of.protect](/_protect/Philosophy/Philosopher/Ancient_Philosopher/Hippo,Augustine_of.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Philosopher/Ancient_Philosopher/Hippo,Augustine_of.protect|Hippo,Augustine_of.protect]] 
 
-### #is_/same_as :: [Hippo,Augustine_of.private](/_private/Philosophy/Philosopher/Ancient_Philosopher/Hippo,Augustine_of.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Philosopher/Ancient_Philosopher/Hippo,Augustine_of.private|Hippo,Augustine_of.private]] 
 
-### #is_/same_as :: [Hippo,Augustine_of.personal](/_personal/Philosophy/Philosopher/Ancient_Philosopher/Hippo,Augustine_of.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Philosopher/Ancient_Philosopher/Hippo,Augustine_of.personal|Hippo,Augustine_of.personal]] 
 
-### #is_/same_as :: [Hippo,Augustine_of.secret](/_secret/Philosophy/Philosopher/Ancient_Philosopher/Hippo,Augustine_of.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Philosopher/Ancient_Philosopher/Hippo,Augustine_of.secret|Hippo,Augustine_of.secret]] 
 

@@ -41,17 +41,17 @@ exact_match: https://baike.baidu.com/item/跨媒体制作/3802974
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Media_Franchise](/_Standards/Society/Communication/Media/Media_Franchise.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Media_Franchise|Media_Franchise]] 
 
-### #is_/same_as :: [Media_Franchise.public](/_public/Society/Communication/Media/Media_Franchise.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Media_Franchise.public|Media_Franchise.public]] 
 
-### #is_/same_as :: [Media_Franchise.internal](/_internal/Society/Communication/Media/Media_Franchise.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Media_Franchise.internal|Media_Franchise.internal]] 
 
-### #is_/same_as :: [Media_Franchise.protect](/_protect/Society/Communication/Media/Media_Franchise.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Media_Franchise.protect|Media_Franchise.protect]] 
 
-### #is_/same_as :: [Media_Franchise.private](/_private/Society/Communication/Media/Media_Franchise.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Media_Franchise.private|Media_Franchise.private]] 
 
-### #is_/same_as :: [Media_Franchise.personal](/_personal/Society/Communication/Media/Media_Franchise.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Media_Franchise.personal|Media_Franchise.personal]] 
 
-### #is_/same_as :: [Media_Franchise.secret](/_secret/Society/Communication/Media/Media_Franchise.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Media_Franchise.secret|Media_Franchise.secret]] 
 

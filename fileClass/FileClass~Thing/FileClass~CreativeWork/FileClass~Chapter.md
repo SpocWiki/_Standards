@@ -67,17 +67,17 @@ Pagination:: {"type":"Input","options":{}}
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~Chapter](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Chapter.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Chapter|FileClass~Chapter]] 
 
-### #is_/same_as :: [FileClass~Chapter.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Chapter.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Chapter.public|FileClass~Chapter.public]] 
 
-### #is_/same_as :: [FileClass~Chapter.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Chapter.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Chapter.internal|FileClass~Chapter.internal]] 
 
-### #is_/same_as :: [FileClass~Chapter.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Chapter.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Chapter.protect|FileClass~Chapter.protect]] 
 
-### #is_/same_as :: [FileClass~Chapter.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Chapter.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Chapter.private|FileClass~Chapter.private]] 
 
-### #is_/same_as :: [FileClass~Chapter.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Chapter.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Chapter.personal|FileClass~Chapter.personal]] 
 
-### #is_/same_as :: [FileClass~Chapter.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Chapter.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Chapter.secret|FileClass~Chapter.secret]] 
 

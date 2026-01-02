@@ -46,17 +46,17 @@ Dewey_Decimal_Classification: 294.5
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Brahmanism](/_Standards/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Brahmanism.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Brahmanism|Brahmanism]] 
 
-### #is_/same_as :: [Brahmanism.public](/_public/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Brahmanism.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Brahmanism.public|Brahmanism.public]] 
 
-### #is_/same_as :: [Brahmanism.internal](/_internal/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Brahmanism.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Brahmanism.internal|Brahmanism.internal]] 
 
-### #is_/same_as :: [Brahmanism.protect](/_protect/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Brahmanism.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Brahmanism.protect|Brahmanism.protect]] 
 
-### #is_/same_as :: [Brahmanism.private](/_private/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Brahmanism.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Brahmanism.private|Brahmanism.private]] 
 
-### #is_/same_as :: [Brahmanism.personal](/_personal/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Brahmanism.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Brahmanism.personal|Brahmanism.personal]] 
 
-### #is_/same_as :: [Brahmanism.secret](/_secret/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Brahmanism.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Brahmanism.secret|Brahmanism.secret]] 
 

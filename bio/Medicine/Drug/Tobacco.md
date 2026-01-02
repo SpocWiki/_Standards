@@ -49,17 +49,17 @@ water_footprint: 2925
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Tobacco](/_Standards/bio/Medicine/Drug/Tobacco.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Drug/Tobacco|Tobacco]] 
 
-### #is_/same_as :: [Tobacco.public](/_public/bio/Medicine/Drug/Tobacco.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Drug/Tobacco.public|Tobacco.public]] 
 
-### #is_/same_as :: [Tobacco.internal](/_internal/bio/Medicine/Drug/Tobacco.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Drug/Tobacco.internal|Tobacco.internal]] 
 
-### #is_/same_as :: [Tobacco.protect](/_protect/bio/Medicine/Drug/Tobacco.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Drug/Tobacco.protect|Tobacco.protect]] 
 
-### #is_/same_as :: [Tobacco.private](/_private/bio/Medicine/Drug/Tobacco.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Drug/Tobacco.private|Tobacco.private]] 
 
-### #is_/same_as :: [Tobacco.personal](/_personal/bio/Medicine/Drug/Tobacco.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Drug/Tobacco.personal|Tobacco.personal]] 
 
-### #is_/same_as :: [Tobacco.secret](/_secret/bio/Medicine/Drug/Tobacco.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Drug/Tobacco.secret|Tobacco.secret]] 
 

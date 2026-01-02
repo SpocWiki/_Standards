@@ -39,17 +39,17 @@ A preschool.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Preschool](/_Standards/Society/Agent/Community/Organization/Educational_Organization/Preschool.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Educational_Organization/Preschool|Preschool]] 
 
-### #is_/same_as :: [Preschool.public](/_public/Society/Agent/Community/Organization/Educational_Organization/Preschool.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Educational_Organization/Preschool.public|Preschool.public]] 
 
-### #is_/same_as :: [Preschool.internal](/_internal/Society/Agent/Community/Organization/Educational_Organization/Preschool.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Educational_Organization/Preschool.internal|Preschool.internal]] 
 
-### #is_/same_as :: [Preschool.protect](/_protect/Society/Agent/Community/Organization/Educational_Organization/Preschool.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Educational_Organization/Preschool.protect|Preschool.protect]] 
 
-### #is_/same_as :: [Preschool.private](/_private/Society/Agent/Community/Organization/Educational_Organization/Preschool.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Educational_Organization/Preschool.private|Preschool.private]] 
 
-### #is_/same_as :: [Preschool.personal](/_personal/Society/Agent/Community/Organization/Educational_Organization/Preschool.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Educational_Organization/Preschool.personal|Preschool.personal]] 
 
-### #is_/same_as :: [Preschool.secret](/_secret/Society/Agent/Community/Organization/Educational_Organization/Preschool.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Educational_Organization/Preschool.secret|Preschool.secret]] 
 

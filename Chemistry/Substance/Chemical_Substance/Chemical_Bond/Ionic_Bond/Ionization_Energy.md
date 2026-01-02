@@ -60,17 +60,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ionization_Energy](/_Standards/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ionization_Energy.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ionization_Energy|Ionization_Energy]] 
 
-### #is_/same_as :: [Ionization_Energy.public](/_public/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ionization_Energy.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ionization_Energy.public|Ionization_Energy.public]] 
 
-### #is_/same_as :: [Ionization_Energy.internal](/_internal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ionization_Energy.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ionization_Energy.internal|Ionization_Energy.internal]] 
 
-### #is_/same_as :: [Ionization_Energy.protect](/_protect/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ionization_Energy.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ionization_Energy.protect|Ionization_Energy.protect]] 
 
-### #is_/same_as :: [Ionization_Energy.private](/_private/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ionization_Energy.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ionization_Energy.private|Ionization_Energy.private]] 
 
-### #is_/same_as :: [Ionization_Energy.personal](/_personal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ionization_Energy.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ionization_Energy.personal|Ionization_Energy.personal]] 
 
-### #is_/same_as :: [Ionization_Energy.secret](/_secret/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ionization_Energy.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ionization_Energy.secret|Ionization_Energy.secret]] 
 

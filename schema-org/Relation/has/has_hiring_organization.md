@@ -42,17 +42,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_hiring_organization](/_Standards/schema-org/Relation/has/has_hiring_organization.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_hiring_organization|has_hiring_organization]] 
 
-### #is_/same_as :: [has_hiring_organization.public](/_public/schema-org/Relation/has/has_hiring_organization.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_hiring_organization.public|has_hiring_organization.public]] 
 
-### #is_/same_as :: [has_hiring_organization.internal](/_internal/schema-org/Relation/has/has_hiring_organization.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_hiring_organization.internal|has_hiring_organization.internal]] 
 
-### #is_/same_as :: [has_hiring_organization.protect](/_protect/schema-org/Relation/has/has_hiring_organization.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_hiring_organization.protect|has_hiring_organization.protect]] 
 
-### #is_/same_as :: [has_hiring_organization.private](/_private/schema-org/Relation/has/has_hiring_organization.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_hiring_organization.private|has_hiring_organization.private]] 
 
-### #is_/same_as :: [has_hiring_organization.personal](/_personal/schema-org/Relation/has/has_hiring_organization.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_hiring_organization.personal|has_hiring_organization.personal]] 
 
-### #is_/same_as :: [has_hiring_organization.secret](/_secret/schema-org/Relation/has/has_hiring_organization.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_hiring_organization.secret|has_hiring_organization.secret]] 
 

@@ -62,17 +62,17 @@ Copyright ::         © [Kurt Stüber](http://www.biolib.de/)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Nymphaeaceae](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Nymphaeaceae.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Nymphaeaceae|Nymphaeaceae]] 
 
-### #is_/same_as :: [Nymphaeaceae.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Nymphaeaceae.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Nymphaeaceae.public|Nymphaeaceae.public]] 
 
-### #is_/same_as :: [Nymphaeaceae.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Nymphaeaceae.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Nymphaeaceae.internal|Nymphaeaceae.internal]] 
 
-### #is_/same_as :: [Nymphaeaceae.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Nymphaeaceae.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Nymphaeaceae.protect|Nymphaeaceae.protect]] 
 
-### #is_/same_as :: [Nymphaeaceae.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Nymphaeaceae.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Nymphaeaceae.private|Nymphaeaceae.private]] 
 
-### #is_/same_as :: [Nymphaeaceae.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Nymphaeaceae.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Nymphaeaceae.personal|Nymphaeaceae.personal]] 
 
-### #is_/same_as :: [Nymphaeaceae.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Nymphaeaceae.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Nymphaeaceae.secret|Nymphaeaceae.secret]] 
 

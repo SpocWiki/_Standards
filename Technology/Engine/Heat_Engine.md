@@ -94,17 +94,17 @@ Energy --> Electricity --> Work
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Heat_Engine](/_Standards/Technology/Engine/Heat_Engine.md) 
+### #is_/same_as :: [[/_Standards/Technology/Engine/Heat_Engine|Heat_Engine]] 
 
-### #is_/same_as :: [Heat_Engine.public](/_public/Technology/Engine/Heat_Engine.public.md) 
+### #is_/same_as :: [[/_public/Technology/Engine/Heat_Engine.public|Heat_Engine.public]] 
 
-### #is_/same_as :: [Heat_Engine.internal](/_internal/Technology/Engine/Heat_Engine.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Engine/Heat_Engine.internal|Heat_Engine.internal]] 
 
-### #is_/same_as :: [Heat_Engine.protect](/_protect/Technology/Engine/Heat_Engine.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Engine/Heat_Engine.protect|Heat_Engine.protect]] 
 
-### #is_/same_as :: [Heat_Engine.private](/_private/Technology/Engine/Heat_Engine.private.md) 
+### #is_/same_as :: [[/_private/Technology/Engine/Heat_Engine.private|Heat_Engine.private]] 
 
-### #is_/same_as :: [Heat_Engine.personal](/_personal/Technology/Engine/Heat_Engine.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Engine/Heat_Engine.personal|Heat_Engine.personal]] 
 
-### #is_/same_as :: [Heat_Engine.secret](/_secret/Technology/Engine/Heat_Engine.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Engine/Heat_Engine.secret|Heat_Engine.secret]] 
 

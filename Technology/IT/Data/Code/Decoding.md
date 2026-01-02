@@ -19,17 +19,17 @@ opposite_of: "[[_Standards/WikiData/WD~encoding,5375490]]"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Decoding](/_Standards/Technology/IT/Data/Code/Decoding.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Data/Code/Decoding|Decoding]] 
 
-### #is_/same_as :: [Decoding.public](/_public/Technology/IT/Data/Code/Decoding.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Data/Code/Decoding.public|Decoding.public]] 
 
-### #is_/same_as :: [Decoding.internal](/_internal/Technology/IT/Data/Code/Decoding.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Data/Code/Decoding.internal|Decoding.internal]] 
 
-### #is_/same_as :: [Decoding.protect](/_protect/Technology/IT/Data/Code/Decoding.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Data/Code/Decoding.protect|Decoding.protect]] 
 
-### #is_/same_as :: [Decoding.private](/_private/Technology/IT/Data/Code/Decoding.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Data/Code/Decoding.private|Decoding.private]] 
 
-### #is_/same_as :: [Decoding.personal](/_personal/Technology/IT/Data/Code/Decoding.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Data/Code/Decoding.personal|Decoding.personal]] 
 
-### #is_/same_as :: [Decoding.secret](/_secret/Technology/IT/Data/Code/Decoding.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Data/Code/Decoding.secret|Decoding.secret]] 
 

@@ -68,17 +68,17 @@ MeSH_tree_code:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Menopause](/_Standards/bio/Reproduction/Sexual_Reproduction/Sex/Menopause.md) 
+### #is_/same_as :: [[/_Standards/bio/Reproduction/Sexual_Reproduction/Sex/Menopause|Menopause]] 
 
-### #is_/same_as :: [Menopause.public](/_public/bio/Reproduction/Sexual_Reproduction/Sex/Menopause.public.md) 
+### #is_/same_as :: [[/_public/bio/Reproduction/Sexual_Reproduction/Sex/Menopause.public|Menopause.public]] 
 
-### #is_/same_as :: [Menopause.internal](/_internal/bio/Reproduction/Sexual_Reproduction/Sex/Menopause.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Reproduction/Sexual_Reproduction/Sex/Menopause.internal|Menopause.internal]] 
 
-### #is_/same_as :: [Menopause.protect](/_protect/bio/Reproduction/Sexual_Reproduction/Sex/Menopause.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Reproduction/Sexual_Reproduction/Sex/Menopause.protect|Menopause.protect]] 
 
-### #is_/same_as :: [Menopause.private](/_private/bio/Reproduction/Sexual_Reproduction/Sex/Menopause.private.md) 
+### #is_/same_as :: [[/_private/bio/Reproduction/Sexual_Reproduction/Sex/Menopause.private|Menopause.private]] 
 
-### #is_/same_as :: [Menopause.personal](/_personal/bio/Reproduction/Sexual_Reproduction/Sex/Menopause.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Reproduction/Sexual_Reproduction/Sex/Menopause.personal|Menopause.personal]] 
 
-### #is_/same_as :: [Menopause.secret](/_secret/bio/Reproduction/Sexual_Reproduction/Sex/Menopause.secret.md)
+### #is_/same_as :: [[/_secret/bio/Reproduction/Sexual_Reproduction/Sex/Menopause.secret|Menopause.secret]] 
 

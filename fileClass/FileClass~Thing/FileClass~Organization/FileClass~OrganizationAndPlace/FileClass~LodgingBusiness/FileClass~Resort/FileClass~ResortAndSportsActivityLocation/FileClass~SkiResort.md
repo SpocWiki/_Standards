@@ -37,17 +37,17 @@ A ski resort.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~SkiResort](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LodgingBusiness/FileClass~Resort/FileClass~ResortAndSportsActivityLocation/FileClass~SkiResort.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LodgingBusiness/FileClass~Resort/FileClass~ResortAndSportsActivityLocation/FileClass~SkiResort|FileClass~SkiResort]] 
 
-### #is_/same_as :: [FileClass~SkiResort.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LodgingBusiness/FileClass~Resort/FileClass~ResortAndSportsActivityLocation/FileClass~SkiResort.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LodgingBusiness/FileClass~Resort/FileClass~ResortAndSportsActivityLocation/FileClass~SkiResort.public|FileClass~SkiResort.public]] 
 
-### #is_/same_as :: [FileClass~SkiResort.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LodgingBusiness/FileClass~Resort/FileClass~ResortAndSportsActivityLocation/FileClass~SkiResort.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LodgingBusiness/FileClass~Resort/FileClass~ResortAndSportsActivityLocation/FileClass~SkiResort.internal|FileClass~SkiResort.internal]] 
 
-### #is_/same_as :: [FileClass~SkiResort.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LodgingBusiness/FileClass~Resort/FileClass~ResortAndSportsActivityLocation/FileClass~SkiResort.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LodgingBusiness/FileClass~Resort/FileClass~ResortAndSportsActivityLocation/FileClass~SkiResort.protect|FileClass~SkiResort.protect]] 
 
-### #is_/same_as :: [FileClass~SkiResort.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LodgingBusiness/FileClass~Resort/FileClass~ResortAndSportsActivityLocation/FileClass~SkiResort.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LodgingBusiness/FileClass~Resort/FileClass~ResortAndSportsActivityLocation/FileClass~SkiResort.private|FileClass~SkiResort.private]] 
 
-### #is_/same_as :: [FileClass~SkiResort.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LodgingBusiness/FileClass~Resort/FileClass~ResortAndSportsActivityLocation/FileClass~SkiResort.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LodgingBusiness/FileClass~Resort/FileClass~ResortAndSportsActivityLocation/FileClass~SkiResort.personal|FileClass~SkiResort.personal]] 
 
-### #is_/same_as :: [FileClass~SkiResort.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LodgingBusiness/FileClass~Resort/FileClass~ResortAndSportsActivityLocation/FileClass~SkiResort.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LodgingBusiness/FileClass~Resort/FileClass~ResortAndSportsActivityLocation/FileClass~SkiResort.secret|FileClass~SkiResort.secret]] 
 

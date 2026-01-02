@@ -176,17 +176,17 @@ Krugosvet_article_archived_: nauka_i_tehnika/fizika/BETE_HANS_ALBREHT.html
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bethe,Hans](/_Standards/Science/Physics/Physicist/Bethe,Hans.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Physicist/Bethe,Hans|Bethe,Hans]] 
 
-### #is_/same_as :: [Bethe,Hans.public](/_public/Science/Physics/Physicist/Bethe,Hans.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Physicist/Bethe,Hans.public|Bethe,Hans.public]] 
 
-### #is_/same_as :: [Bethe,Hans.internal](/_internal/Science/Physics/Physicist/Bethe,Hans.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Physicist/Bethe,Hans.internal|Bethe,Hans.internal]] 
 
-### #is_/same_as :: [Bethe,Hans.protect](/_protect/Science/Physics/Physicist/Bethe,Hans.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Physicist/Bethe,Hans.protect|Bethe,Hans.protect]] 
 
-### #is_/same_as :: [Bethe,Hans.private](/_private/Science/Physics/Physicist/Bethe,Hans.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Physicist/Bethe,Hans.private|Bethe,Hans.private]] 
 
-### #is_/same_as :: [Bethe,Hans.personal](/_personal/Science/Physics/Physicist/Bethe,Hans.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Physicist/Bethe,Hans.personal|Bethe,Hans.personal]] 
 
-### #is_/same_as :: [Bethe,Hans.secret](/_secret/Science/Physics/Physicist/Bethe,Hans.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Physicist/Bethe,Hans.secret|Bethe,Hans.secret]] 
 

@@ -41,17 +41,17 @@ Animal shelter.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Animal_Shelter](/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Animal_Shelter.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Animal_Shelter|Animal_Shelter]] 
 
-### #is_/same_as :: [Animal_Shelter.public](/_public/Society/Agent/Community/Organization/Business/Local_Business/Animal_Shelter.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Business/Local_Business/Animal_Shelter.public|Animal_Shelter.public]] 
 
-### #is_/same_as :: [Animal_Shelter.internal](/_internal/Society/Agent/Community/Organization/Business/Local_Business/Animal_Shelter.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Business/Local_Business/Animal_Shelter.internal|Animal_Shelter.internal]] 
 
-### #is_/same_as :: [Animal_Shelter.protect](/_protect/Society/Agent/Community/Organization/Business/Local_Business/Animal_Shelter.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Business/Local_Business/Animal_Shelter.protect|Animal_Shelter.protect]] 
 
-### #is_/same_as :: [Animal_Shelter.private](/_private/Society/Agent/Community/Organization/Business/Local_Business/Animal_Shelter.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Business/Local_Business/Animal_Shelter.private|Animal_Shelter.private]] 
 
-### #is_/same_as :: [Animal_Shelter.personal](/_personal/Society/Agent/Community/Organization/Business/Local_Business/Animal_Shelter.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Business/Local_Business/Animal_Shelter.personal|Animal_Shelter.personal]] 
 
-### #is_/same_as :: [Animal_Shelter.secret](/_secret/Society/Agent/Community/Organization/Business/Local_Business/Animal_Shelter.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Business/Local_Business/Animal_Shelter.secret|Animal_Shelter.secret]] 
 

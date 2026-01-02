@@ -132,17 +132,17 @@ N4IgLgngDgpiBcIYA8DGBDANgSwCYCd0B3EAGhADcZ8BnbAewDsEAmcm+gV31TkQAswYKDXgB6MQHNsY
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ant](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Hymenoptera/Unicalcarida/Apocrita/Aculeata/Ant.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Hymenoptera/Unicalcarida/Apocrita/Aculeata/Ant|Ant]] 
 
-### #is_/same_as :: [Ant.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Hymenoptera/Unicalcarida/Apocrita/Aculeata/Ant.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Hymenoptera/Unicalcarida/Apocrita/Aculeata/Ant.public|Ant.public]] 
 
-### #is_/same_as :: [Ant.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Hymenoptera/Unicalcarida/Apocrita/Aculeata/Ant.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Hymenoptera/Unicalcarida/Apocrita/Aculeata/Ant.internal|Ant.internal]] 
 
-### #is_/same_as :: [Ant.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Hymenoptera/Unicalcarida/Apocrita/Aculeata/Ant.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Hymenoptera/Unicalcarida/Apocrita/Aculeata/Ant.protect|Ant.protect]] 
 
-### #is_/same_as :: [Ant.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Hymenoptera/Unicalcarida/Apocrita/Aculeata/Ant.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Hymenoptera/Unicalcarida/Apocrita/Aculeata/Ant.private|Ant.private]] 
 
-### #is_/same_as :: [Ant.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Hymenoptera/Unicalcarida/Apocrita/Aculeata/Ant.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Hymenoptera/Unicalcarida/Apocrita/Aculeata/Ant.personal|Ant.personal]] 
 
-### #is_/same_as :: [Ant.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Hymenoptera/Unicalcarida/Apocrita/Aculeata/Ant.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Hymenoptera/Unicalcarida/Apocrita/Aculeata/Ant.secret|Ant.secret]] 
 

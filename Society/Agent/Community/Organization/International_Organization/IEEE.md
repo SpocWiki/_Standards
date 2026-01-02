@@ -176,17 +176,17 @@ X_Twitter_username: ieeeorg
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [IEEE](/_Standards/Society/Agent/Community/Organization/International_Organization/IEEE.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/International_Organization/IEEE|IEEE]] 
 
-### #is_/same_as :: [IEEE.public](/_public/Society/Agent/Community/Organization/International_Organization/IEEE.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/International_Organization/IEEE.public|IEEE.public]] 
 
-### #is_/same_as :: [IEEE.internal](/_internal/Society/Agent/Community/Organization/International_Organization/IEEE.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/International_Organization/IEEE.internal|IEEE.internal]] 
 
-### #is_/same_as :: [IEEE.protect](/_protect/Society/Agent/Community/Organization/International_Organization/IEEE.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/International_Organization/IEEE.protect|IEEE.protect]] 
 
-### #is_/same_as :: [IEEE.private](/_private/Society/Agent/Community/Organization/International_Organization/IEEE.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/International_Organization/IEEE.private|IEEE.private]] 
 
-### #is_/same_as :: [IEEE.personal](/_personal/Society/Agent/Community/Organization/International_Organization/IEEE.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/International_Organization/IEEE.personal|IEEE.personal]] 
 
-### #is_/same_as :: [IEEE.secret](/_secret/Society/Agent/Community/Organization/International_Organization/IEEE.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/International_Organization/IEEE.secret|IEEE.secret]] 
 

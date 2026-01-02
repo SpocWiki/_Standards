@@ -48,17 +48,17 @@ OpenStreetMap_tag_or_key:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Garage](/_Standards/Technology/Transport/Road_Transport/Garage.md) 
+### #is_/same_as :: [[/_Standards/Technology/Transport/Road_Transport/Garage|Garage]] 
 
-### #is_/same_as :: [Garage.public](/_public/Technology/Transport/Road_Transport/Garage.public.md) 
+### #is_/same_as :: [[/_public/Technology/Transport/Road_Transport/Garage.public|Garage.public]] 
 
-### #is_/same_as :: [Garage.internal](/_internal/Technology/Transport/Road_Transport/Garage.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Transport/Road_Transport/Garage.internal|Garage.internal]] 
 
-### #is_/same_as :: [Garage.protect](/_protect/Technology/Transport/Road_Transport/Garage.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Transport/Road_Transport/Garage.protect|Garage.protect]] 
 
-### #is_/same_as :: [Garage.private](/_private/Technology/Transport/Road_Transport/Garage.private.md) 
+### #is_/same_as :: [[/_private/Technology/Transport/Road_Transport/Garage.private|Garage.private]] 
 
-### #is_/same_as :: [Garage.personal](/_personal/Technology/Transport/Road_Transport/Garage.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Transport/Road_Transport/Garage.personal|Garage.personal]] 
 
-### #is_/same_as :: [Garage.secret](/_secret/Technology/Transport/Road_Transport/Garage.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Transport/Road_Transport/Garage.secret|Garage.secret]] 
 

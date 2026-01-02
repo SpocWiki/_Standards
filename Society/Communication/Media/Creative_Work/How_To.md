@@ -43,17 +43,17 @@ Instructions that explain how to achieve a result by performing a sequence of st
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [How_To](/_Standards/Society/Communication/Media/Creative_Work/How_To.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Creative_Work/How_To|How_To]] 
 
-### #is_/same_as :: [How_To.public](/_public/Society/Communication/Media/Creative_Work/How_To.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Creative_Work/How_To.public|How_To.public]] 
 
-### #is_/same_as :: [How_To.internal](/_internal/Society/Communication/Media/Creative_Work/How_To.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Creative_Work/How_To.internal|How_To.internal]] 
 
-### #is_/same_as :: [How_To.protect](/_protect/Society/Communication/Media/Creative_Work/How_To.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Creative_Work/How_To.protect|How_To.protect]] 
 
-### #is_/same_as :: [How_To.private](/_private/Society/Communication/Media/Creative_Work/How_To.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Creative_Work/How_To.private|How_To.private]] 
 
-### #is_/same_as :: [How_To.personal](/_personal/Society/Communication/Media/Creative_Work/How_To.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/How_To.personal|How_To.personal]] 
 
-### #is_/same_as :: [How_To.secret](/_secret/Society/Communication/Media/Creative_Work/How_To.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/How_To.secret|How_To.secret]] 
 

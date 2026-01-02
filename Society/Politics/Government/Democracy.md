@@ -116,17 +116,17 @@ Each characteristic is given a binary distinction, representing possible alterna
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Democracy](/_Standards/Society/Politics/Government/Democracy.md) 
+### #is_/same_as :: [[/_Standards/Society/Politics/Government/Democracy|Democracy]] 
 
-### #is_/same_as :: [Democracy.public](/_public/Society/Politics/Government/Democracy.public.md) 
+### #is_/same_as :: [[/_public/Society/Politics/Government/Democracy.public|Democracy.public]] 
 
-### #is_/same_as :: [Democracy.internal](/_internal/Society/Politics/Government/Democracy.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Politics/Government/Democracy.internal|Democracy.internal]] 
 
-### #is_/same_as :: [Democracy.protect](/_protect/Society/Politics/Government/Democracy.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Politics/Government/Democracy.protect|Democracy.protect]] 
 
-### #is_/same_as :: [Democracy.private](/_private/Society/Politics/Government/Democracy.private.md) 
+### #is_/same_as :: [[/_private/Society/Politics/Government/Democracy.private|Democracy.private]] 
 
-### #is_/same_as :: [Democracy.personal](/_personal/Society/Politics/Government/Democracy.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Politics/Government/Democracy.personal|Democracy.personal]] 
 
-### #is_/same_as :: [Democracy.secret](/_secret/Society/Politics/Government/Democracy.secret.md)
+### #is_/same_as :: [[/_secret/Society/Politics/Government/Democracy.secret|Democracy.secret]] 
 

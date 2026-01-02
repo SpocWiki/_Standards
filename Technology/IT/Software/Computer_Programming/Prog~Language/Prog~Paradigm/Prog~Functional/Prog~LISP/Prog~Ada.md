@@ -84,17 +84,17 @@ Commons_category: Ada (programming language)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Prog~Ada](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~LISP/Prog~Ada.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~LISP/Prog~Ada|Prog~Ada]] 
 
-### #is_/same_as :: [Prog~Ada.public](/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~LISP/Prog~Ada.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~LISP/Prog~Ada.public|Prog~Ada.public]] 
 
-### #is_/same_as :: [Prog~Ada.internal](/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~LISP/Prog~Ada.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~LISP/Prog~Ada.internal|Prog~Ada.internal]] 
 
-### #is_/same_as :: [Prog~Ada.protect](/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~LISP/Prog~Ada.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~LISP/Prog~Ada.protect|Prog~Ada.protect]] 
 
-### #is_/same_as :: [Prog~Ada.private](/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~LISP/Prog~Ada.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~LISP/Prog~Ada.private|Prog~Ada.private]] 
 
-### #is_/same_as :: [Prog~Ada.personal](/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~LISP/Prog~Ada.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~LISP/Prog~Ada.personal|Prog~Ada.personal]] 
 
-### #is_/same_as :: [Prog~Ada.secret](/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~LISP/Prog~Ada.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~LISP/Prog~Ada.secret|Prog~Ada.secret]] 
 

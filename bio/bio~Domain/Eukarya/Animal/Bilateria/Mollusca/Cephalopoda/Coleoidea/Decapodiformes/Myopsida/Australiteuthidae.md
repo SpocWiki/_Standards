@@ -28,7 +28,7 @@ title: Australiteuthis aldrichi
 # *Australiteuthis aldrichi* [Lu, 2005] 
 
 [Chung Cheng Lu and Richard E. Young]()
-![ ](Australiteuthidae/AustAldrichiDV2.jpg))![ ](Australiteuthidae/AustAldrichiDraw.jpg))
+![ ](Australiteuthidae/AustAldrichiDV2.jpg))![ ](Australiteuthidae/AustAldrichiDraw.jpg) 
 
 Containing group:[Myopsida](../Myopsida.md) 
 
@@ -102,7 +102,7 @@ pp.
 
 ## Title Illustrations
 
-![](Australiteuthidae/AustAldrichiDV2.jpg))
+![](Australiteuthidae/AustAldrichiDV2.jpg) 
 
   -------------------------------------------------------------------------
   Scientific Name ::     Australiteuthis aldrichi
@@ -115,7 +115,7 @@ pp.
   Copyright ::            © [Chung Cheng Lu](mailto:cclu@dragon.nchu.edu.tw) 
  
   -------------------------------------------------------------------------
-![](Australiteuthidae/AustAldrichiDraw.jpg))
+![](Australiteuthidae/AustAldrichiDraw.jpg) 
 
   -------------------------------------------------------------------------
   Scientific Name ::     Australiteuthis aldrichi
@@ -133,17 +133,17 @@ pp.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Australiteuthidae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Myopsida/Australiteuthidae.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Myopsida/Australiteuthidae|Australiteuthidae]] 
 
-### #is_/same_as :: [Australiteuthidae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Myopsida/Australiteuthidae.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Myopsida/Australiteuthidae.public|Australiteuthidae.public]] 
 
-### #is_/same_as :: [Australiteuthidae.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Myopsida/Australiteuthidae.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Myopsida/Australiteuthidae.internal|Australiteuthidae.internal]] 
 
-### #is_/same_as :: [Australiteuthidae.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Myopsida/Australiteuthidae.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Myopsida/Australiteuthidae.protect|Australiteuthidae.protect]] 
 
-### #is_/same_as :: [Australiteuthidae.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Myopsida/Australiteuthidae.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Myopsida/Australiteuthidae.private|Australiteuthidae.private]] 
 
-### #is_/same_as :: [Australiteuthidae.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Myopsida/Australiteuthidae.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Myopsida/Australiteuthidae.personal|Australiteuthidae.personal]] 
 
-### #is_/same_as :: [Australiteuthidae.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Myopsida/Australiteuthidae.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Myopsida/Australiteuthidae.secret|Australiteuthidae.secret]] 
 

@@ -43,17 +43,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_value_for_interest_rate](/_Standards/schema-org/Property/has_value_for/has_value_for_interest_rate.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_value_for/has_value_for_interest_rate|has_value_for_interest_rate]] 
 
-### #is_/same_as :: [has_value_for_interest_rate.public](/_public/schema-org/Property/has_value_for/has_value_for_interest_rate.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/has_value_for/has_value_for_interest_rate.public|has_value_for_interest_rate.public]] 
 
-### #is_/same_as :: [has_value_for_interest_rate.internal](/_internal/schema-org/Property/has_value_for/has_value_for_interest_rate.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_value_for/has_value_for_interest_rate.internal|has_value_for_interest_rate.internal]] 
 
-### #is_/same_as :: [has_value_for_interest_rate.protect](/_protect/schema-org/Property/has_value_for/has_value_for_interest_rate.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_value_for/has_value_for_interest_rate.protect|has_value_for_interest_rate.protect]] 
 
-### #is_/same_as :: [has_value_for_interest_rate.private](/_private/schema-org/Property/has_value_for/has_value_for_interest_rate.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/has_value_for/has_value_for_interest_rate.private|has_value_for_interest_rate.private]] 
 
-### #is_/same_as :: [has_value_for_interest_rate.personal](/_personal/schema-org/Property/has_value_for/has_value_for_interest_rate.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_value_for/has_value_for_interest_rate.personal|has_value_for_interest_rate.personal]] 
 
-### #is_/same_as :: [has_value_for_interest_rate.secret](/_secret/schema-org/Property/has_value_for/has_value_for_interest_rate.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/has_value_for/has_value_for_interest_rate.secret|has_value_for_interest_rate.secret]] 
 

@@ -162,17 +162,17 @@ ZVG_number: 7740
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Tungsten](/_Standards/Chemistry/Chemical_Element/Group-06-Chromium/Tungsten.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Chemical_Element/Group-06-Chromium/Tungsten|Tungsten]] 
 
-### #is_/same_as :: [Tungsten.public](/_public/Chemistry/Chemical_Element/Group-06-Chromium/Tungsten.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Chemical_Element/Group-06-Chromium/Tungsten.public|Tungsten.public]] 
 
-### #is_/same_as :: [Tungsten.internal](/_internal/Chemistry/Chemical_Element/Group-06-Chromium/Tungsten.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Chemical_Element/Group-06-Chromium/Tungsten.internal|Tungsten.internal]] 
 
-### #is_/same_as :: [Tungsten.protect](/_protect/Chemistry/Chemical_Element/Group-06-Chromium/Tungsten.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Chemical_Element/Group-06-Chromium/Tungsten.protect|Tungsten.protect]] 
 
-### #is_/same_as :: [Tungsten.private](/_private/Chemistry/Chemical_Element/Group-06-Chromium/Tungsten.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Chemical_Element/Group-06-Chromium/Tungsten.private|Tungsten.private]] 
 
-### #is_/same_as :: [Tungsten.personal](/_personal/Chemistry/Chemical_Element/Group-06-Chromium/Tungsten.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Chemical_Element/Group-06-Chromium/Tungsten.personal|Tungsten.personal]] 
 
-### #is_/same_as :: [Tungsten.secret](/_secret/Chemistry/Chemical_Element/Group-06-Chromium/Tungsten.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Chemical_Element/Group-06-Chromium/Tungsten.secret|Tungsten.secret]] 
 

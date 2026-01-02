@@ -78,17 +78,17 @@ VK_username: soad_band
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [System_of_a_Down](/_Standards/Society/Communication/Media/Music/Musician/Music~Band/System_of_a_Down.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Musician/Music~Band/System_of_a_Down|System_of_a_Down]] 
 
-### #is_/same_as :: [System_of_a_Down.public](/_public/Society/Communication/Media/Music/Musician/Music~Band/System_of_a_Down.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Musician/Music~Band/System_of_a_Down.public|System_of_a_Down.public]] 
 
-### #is_/same_as :: [System_of_a_Down.internal](/_internal/Society/Communication/Media/Music/Musician/Music~Band/System_of_a_Down.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Musician/Music~Band/System_of_a_Down.internal|System_of_a_Down.internal]] 
 
-### #is_/same_as :: [System_of_a_Down.protect](/_protect/Society/Communication/Media/Music/Musician/Music~Band/System_of_a_Down.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Musician/Music~Band/System_of_a_Down.protect|System_of_a_Down.protect]] 
 
-### #is_/same_as :: [System_of_a_Down.private](/_private/Society/Communication/Media/Music/Musician/Music~Band/System_of_a_Down.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Musician/Music~Band/System_of_a_Down.private|System_of_a_Down.private]] 
 
-### #is_/same_as :: [System_of_a_Down.personal](/_personal/Society/Communication/Media/Music/Musician/Music~Band/System_of_a_Down.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Musician/Music~Band/System_of_a_Down.personal|System_of_a_Down.personal]] 
 
-### #is_/same_as :: [System_of_a_Down.secret](/_secret/Society/Communication/Media/Music/Musician/Music~Band/System_of_a_Down.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Musician/Music~Band/System_of_a_Down.secret|System_of_a_Down.secret]] 
 

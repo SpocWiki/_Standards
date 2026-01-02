@@ -25,19 +25,20 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/The%20City%20of%20Lost%20Children) 
 > 
 
+
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Die Stadt der verlorenen Kinder](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Steampunk/Die Stadt der verlorenen Kinder.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Genre/Steampunk/City_of_Lost_Children|City_of_Lost_Children]] 
 
-### #is_/same_as :: [Die Stadt der verlorenen Kinder.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Steampunk/Die Stadt der verlorenen Kinder.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Genre/Steampunk/City_of_Lost_Children.public|City_of_Lost_Children.public]] 
 
-### #is_/same_as :: [Die Stadt der verlorenen Kinder.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Steampunk/Die Stadt der verlorenen Kinder.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Genre/Steampunk/City_of_Lost_Children.internal|City_of_Lost_Children.internal]] 
 
-### #is_/same_as :: [Die Stadt der verlorenen Kinder.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Steampunk/Die Stadt der verlorenen Kinder.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Genre/Steampunk/City_of_Lost_Children.protect|City_of_Lost_Children.protect]] 
 
-### #is_/same_as :: [Die Stadt der verlorenen Kinder.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Steampunk/Die Stadt der verlorenen Kinder.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Genre/Steampunk/City_of_Lost_Children.private|City_of_Lost_Children.private]] 
 
-### #is_/same_as :: [Die Stadt der verlorenen Kinder.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Steampunk/Die Stadt der verlorenen Kinder.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Genre/Steampunk/City_of_Lost_Children.personal|City_of_Lost_Children.personal]] 
 
-### #is_/same_as :: [Die Stadt der verlorenen Kinder.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Steampunk/Die Stadt der verlorenen Kinder.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Genre/Steampunk/City_of_Lost_Children.secret|City_of_Lost_Children.secret]] 
 

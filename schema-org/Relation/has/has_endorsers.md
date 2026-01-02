@@ -38,17 +38,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_endorsers](/_Standards/schema-org/Relation/has/has_endorsers.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_endorsers|has_endorsers]] 
 
-### #is_/same_as :: [has_endorsers.public](/_public/schema-org/Relation/has/has_endorsers.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_endorsers.public|has_endorsers.public]] 
 
-### #is_/same_as :: [has_endorsers.internal](/_internal/schema-org/Relation/has/has_endorsers.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_endorsers.internal|has_endorsers.internal]] 
 
-### #is_/same_as :: [has_endorsers.protect](/_protect/schema-org/Relation/has/has_endorsers.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_endorsers.protect|has_endorsers.protect]] 
 
-### #is_/same_as :: [has_endorsers.private](/_private/schema-org/Relation/has/has_endorsers.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_endorsers.private|has_endorsers.private]] 
 
-### #is_/same_as :: [has_endorsers.personal](/_personal/schema-org/Relation/has/has_endorsers.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_endorsers.personal|has_endorsers.personal]] 
 
-### #is_/same_as :: [has_endorsers.secret](/_secret/schema-org/Relation/has/has_endorsers.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_endorsers.secret|has_endorsers.secret]] 
 

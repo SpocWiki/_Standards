@@ -35,17 +35,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Braveheart](/_Standards/Society/Communication/Media/Movie/Braveheart.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Braveheart|Braveheart]] 
 
-### #is_/same_as :: [Braveheart.public](/_public/Society/Communication/Media/Movie/Braveheart.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Braveheart.public|Braveheart.public]] 
 
-### #is_/same_as :: [Braveheart.internal](/_internal/Society/Communication/Media/Movie/Braveheart.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Braveheart.internal|Braveheart.internal]] 
 
-### #is_/same_as :: [Braveheart.protect](/_protect/Society/Communication/Media/Movie/Braveheart.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Braveheart.protect|Braveheart.protect]] 
 
-### #is_/same_as :: [Braveheart.private](/_private/Society/Communication/Media/Movie/Braveheart.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Braveheart.private|Braveheart.private]] 
 
-### #is_/same_as :: [Braveheart.personal](/_personal/Society/Communication/Media/Movie/Braveheart.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Braveheart.personal|Braveheart.personal]] 
 
-### #is_/same_as :: [Braveheart.secret](/_secret/Society/Communication/Media/Movie/Braveheart.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Braveheart.secret|Braveheart.secret]] 
 

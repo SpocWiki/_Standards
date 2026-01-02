@@ -116,17 +116,17 @@ WordLift_URL: http://data.thenextweb.com/tnw/entity/milk
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Milk](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Dairy/Milk.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Home_Economics/Cooking/Food/Dairy/Milk|Milk]] 
 
-### #is_/same_as :: [Milk.public](/_public/Society/Economics/Home_Economics/Cooking/Food/Dairy/Milk.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Home_Economics/Cooking/Food/Dairy/Milk.public|Milk.public]] 
 
-### #is_/same_as :: [Milk.internal](/_internal/Society/Economics/Home_Economics/Cooking/Food/Dairy/Milk.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Home_Economics/Cooking/Food/Dairy/Milk.internal|Milk.internal]] 
 
-### #is_/same_as :: [Milk.protect](/_protect/Society/Economics/Home_Economics/Cooking/Food/Dairy/Milk.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Home_Economics/Cooking/Food/Dairy/Milk.protect|Milk.protect]] 
 
-### #is_/same_as :: [Milk.private](/_private/Society/Economics/Home_Economics/Cooking/Food/Dairy/Milk.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Home_Economics/Cooking/Food/Dairy/Milk.private|Milk.private]] 
 
-### #is_/same_as :: [Milk.personal](/_personal/Society/Economics/Home_Economics/Cooking/Food/Dairy/Milk.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Home_Economics/Cooking/Food/Dairy/Milk.personal|Milk.personal]] 
 
-### #is_/same_as :: [Milk.secret](/_secret/Society/Economics/Home_Economics/Cooking/Food/Dairy/Milk.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Home_Economics/Cooking/Food/Dairy/Milk.secret|Milk.secret]] 
 

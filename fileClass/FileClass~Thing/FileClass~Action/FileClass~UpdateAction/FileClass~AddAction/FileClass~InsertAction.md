@@ -48,17 +48,17 @@ ToLocation:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Th
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~InsertAction](/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~UpdateAction/FileClass~AddAction/FileClass~InsertAction.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~UpdateAction/FileClass~AddAction/FileClass~InsertAction|FileClass~InsertAction]] 
 
-### #is_/same_as :: [FileClass~InsertAction.public](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~UpdateAction/FileClass~AddAction/FileClass~InsertAction.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~UpdateAction/FileClass~AddAction/FileClass~InsertAction.public|FileClass~InsertAction.public]] 
 
-### #is_/same_as :: [FileClass~InsertAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~UpdateAction/FileClass~AddAction/FileClass~InsertAction.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~UpdateAction/FileClass~AddAction/FileClass~InsertAction.internal|FileClass~InsertAction.internal]] 
 
-### #is_/same_as :: [FileClass~InsertAction.protect](/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~UpdateAction/FileClass~AddAction/FileClass~InsertAction.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~UpdateAction/FileClass~AddAction/FileClass~InsertAction.protect|FileClass~InsertAction.protect]] 
 
-### #is_/same_as :: [FileClass~InsertAction.private](/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~UpdateAction/FileClass~AddAction/FileClass~InsertAction.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~UpdateAction/FileClass~AddAction/FileClass~InsertAction.private|FileClass~InsertAction.private]] 
 
-### #is_/same_as :: [FileClass~InsertAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~UpdateAction/FileClass~AddAction/FileClass~InsertAction.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~UpdateAction/FileClass~AddAction/FileClass~InsertAction.personal|FileClass~InsertAction.personal]] 
 
-### #is_/same_as :: [FileClass~InsertAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~UpdateAction/FileClass~AddAction/FileClass~InsertAction.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~UpdateAction/FileClass~AddAction/FileClass~InsertAction.secret|FileClass~InsertAction.secret]] 
 

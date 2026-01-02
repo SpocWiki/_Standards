@@ -448,17 +448,17 @@ filters:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [_Australia-CountryDb](/_Standards/Earth/Continent/Australasia/_Australia-CountryDb.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Australasia/_Australia-CountryDb|_Australia-CountryDb]] 
 
-### #is_/same_as :: [_Australia-CountryDb.public](/_public/Earth/Continent/Australasia/_Australia-CountryDb.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Australasia/_Australia-CountryDb.public|_Australia-CountryDb.public]] 
 
-### #is_/same_as :: [_Australia-CountryDb.internal](/_internal/Earth/Continent/Australasia/_Australia-CountryDb.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Australasia/_Australia-CountryDb.internal|_Australia-CountryDb.internal]] 
 
-### #is_/same_as :: [_Australia-CountryDb.protect](/_protect/Earth/Continent/Australasia/_Australia-CountryDb.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Australasia/_Australia-CountryDb.protect|_Australia-CountryDb.protect]] 
 
-### #is_/same_as :: [_Australia-CountryDb.private](/_private/Earth/Continent/Australasia/_Australia-CountryDb.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Australasia/_Australia-CountryDb.private|_Australia-CountryDb.private]] 
 
-### #is_/same_as :: [_Australia-CountryDb.personal](/_personal/Earth/Continent/Australasia/_Australia-CountryDb.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Australasia/_Australia-CountryDb.personal|_Australia-CountryDb.personal]] 
 
-### #is_/same_as :: [_Australia-CountryDb.secret](/_secret/Earth/Continent/Australasia/_Australia-CountryDb.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Australasia/_Australia-CountryDb.secret|_Australia-CountryDb.secret]] 
 

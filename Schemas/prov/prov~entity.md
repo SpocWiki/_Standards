@@ -4,17 +4,17 @@ It is synonymous with [Thing](../schema.org/Class/Thing.md).
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [prov~entity](/_Standards/Schemas/prov/prov~entity.md) 
+### #is_/same_as :: [[/_Standards/Schemas/prov/prov~entity|prov~entity]] 
 
-### #is_/same_as :: [prov~entity.public](/_public/Schemas/prov/prov~entity.public.md) 
+### #is_/same_as :: [[/_public/Schemas/prov/prov~entity.public|prov~entity.public]] 
 
-### #is_/same_as :: [prov~entity.internal](/_internal/Schemas/prov/prov~entity.internal.md) 
+### #is_/same_as :: [[/_internal/Schemas/prov/prov~entity.internal|prov~entity.internal]] 
 
-### #is_/same_as :: [prov~entity.protect](/_protect/Schemas/prov/prov~entity.protect.md) 
+### #is_/same_as :: [[/_protect/Schemas/prov/prov~entity.protect|prov~entity.protect]] 
 
-### #is_/same_as :: [prov~entity.private](/_private/Schemas/prov/prov~entity.private.md) 
+### #is_/same_as :: [[/_private/Schemas/prov/prov~entity.private|prov~entity.private]] 
 
-### #is_/same_as :: [prov~entity.personal](/_personal/Schemas/prov/prov~entity.personal.md) 
+### #is_/same_as :: [[/_personal/Schemas/prov/prov~entity.personal|prov~entity.personal]] 
 
-### #is_/same_as :: [prov~entity.secret](/_secret/Schemas/prov/prov~entity.secret.md)
+### #is_/same_as :: [[/_secret/Schemas/prov/prov~entity.secret|prov~entity.secret]] 
 

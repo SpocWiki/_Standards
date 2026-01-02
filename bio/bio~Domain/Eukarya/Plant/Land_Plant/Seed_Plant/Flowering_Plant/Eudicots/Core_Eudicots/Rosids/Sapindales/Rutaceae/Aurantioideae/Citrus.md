@@ -65,17 +65,17 @@ U_S_National_Archives_Identifier: 10645807
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Citrus](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Sapindales/Rutaceae/Aurantioideae/Citrus.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Sapindales/Rutaceae/Aurantioideae/Citrus|Citrus]] 
 
-### #is_/same_as :: [Citrus.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Sapindales/Rutaceae/Aurantioideae/Citrus.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Sapindales/Rutaceae/Aurantioideae/Citrus.public|Citrus.public]] 
 
-### #is_/same_as :: [Citrus.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Sapindales/Rutaceae/Aurantioideae/Citrus.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Sapindales/Rutaceae/Aurantioideae/Citrus.internal|Citrus.internal]] 
 
-### #is_/same_as :: [Citrus.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Sapindales/Rutaceae/Aurantioideae/Citrus.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Sapindales/Rutaceae/Aurantioideae/Citrus.protect|Citrus.protect]] 
 
-### #is_/same_as :: [Citrus.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Sapindales/Rutaceae/Aurantioideae/Citrus.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Sapindales/Rutaceae/Aurantioideae/Citrus.private|Citrus.private]] 
 
-### #is_/same_as :: [Citrus.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Sapindales/Rutaceae/Aurantioideae/Citrus.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Sapindales/Rutaceae/Aurantioideae/Citrus.personal|Citrus.personal]] 
 
-### #is_/same_as :: [Citrus.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Sapindales/Rutaceae/Aurantioideae/Citrus.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Sapindales/Rutaceae/Aurantioideae/Citrus.secret|Citrus.secret]] 
 

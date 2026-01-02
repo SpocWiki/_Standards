@@ -55,17 +55,17 @@ OpenStreetMap_tag: healthcare:speciality=palliative
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Palliative_Care](/_Standards/bio/Medicine/Medical_Guideline/Medical_Procedure/Palliative_Care.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Guideline/Medical_Procedure/Palliative_Care|Palliative_Care]] 
 
-### #is_/same_as :: [Palliative_Care.public](/_public/bio/Medicine/Medical_Guideline/Medical_Procedure/Palliative_Care.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Guideline/Medical_Procedure/Palliative_Care.public|Palliative_Care.public]] 
 
-### #is_/same_as :: [Palliative_Care.internal](/_internal/bio/Medicine/Medical_Guideline/Medical_Procedure/Palliative_Care.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Guideline/Medical_Procedure/Palliative_Care.internal|Palliative_Care.internal]] 
 
-### #is_/same_as :: [Palliative_Care.protect](/_protect/bio/Medicine/Medical_Guideline/Medical_Procedure/Palliative_Care.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Guideline/Medical_Procedure/Palliative_Care.protect|Palliative_Care.protect]] 
 
-### #is_/same_as :: [Palliative_Care.private](/_private/bio/Medicine/Medical_Guideline/Medical_Procedure/Palliative_Care.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Guideline/Medical_Procedure/Palliative_Care.private|Palliative_Care.private]] 
 
-### #is_/same_as :: [Palliative_Care.personal](/_personal/bio/Medicine/Medical_Guideline/Medical_Procedure/Palliative_Care.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Guideline/Medical_Procedure/Palliative_Care.personal|Palliative_Care.personal]] 
 
-### #is_/same_as :: [Palliative_Care.secret](/_secret/bio/Medicine/Medical_Guideline/Medical_Procedure/Palliative_Care.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Guideline/Medical_Procedure/Palliative_Care.secret|Palliative_Care.secret]] 
 

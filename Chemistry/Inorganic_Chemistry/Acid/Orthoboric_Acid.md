@@ -93,17 +93,17 @@ DSSTOX_compound_identifier: DTXCID10194
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Orthoboric_Acid](/_Standards/Chemistry/Inorganic_Chemistry/Acid/Orthoboric_Acid.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Inorganic_Chemistry/Acid/Orthoboric_Acid|Orthoboric_Acid]] 
 
-### #is_/same_as :: [Orthoboric_Acid.public](/_public/Chemistry/Inorganic_Chemistry/Acid/Orthoboric_Acid.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Inorganic_Chemistry/Acid/Orthoboric_Acid.public|Orthoboric_Acid.public]] 
 
-### #is_/same_as :: [Orthoboric_Acid.internal](/_internal/Chemistry/Inorganic_Chemistry/Acid/Orthoboric_Acid.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Inorganic_Chemistry/Acid/Orthoboric_Acid.internal|Orthoboric_Acid.internal]] 
 
-### #is_/same_as :: [Orthoboric_Acid.protect](/_protect/Chemistry/Inorganic_Chemistry/Acid/Orthoboric_Acid.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Inorganic_Chemistry/Acid/Orthoboric_Acid.protect|Orthoboric_Acid.protect]] 
 
-### #is_/same_as :: [Orthoboric_Acid.private](/_private/Chemistry/Inorganic_Chemistry/Acid/Orthoboric_Acid.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Inorganic_Chemistry/Acid/Orthoboric_Acid.private|Orthoboric_Acid.private]] 
 
-### #is_/same_as :: [Orthoboric_Acid.personal](/_personal/Chemistry/Inorganic_Chemistry/Acid/Orthoboric_Acid.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Inorganic_Chemistry/Acid/Orthoboric_Acid.personal|Orthoboric_Acid.personal]] 
 
-### #is_/same_as :: [Orthoboric_Acid.secret](/_secret/Chemistry/Inorganic_Chemistry/Acid/Orthoboric_Acid.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Inorganic_Chemistry/Acid/Orthoboric_Acid.secret|Orthoboric_Acid.secret]] 
 

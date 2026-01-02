@@ -96,7 +96,7 @@ Vertebrate Paleontology 16 (4): 653-665.
 
 ## Title Illustrations
 
-![](Ariekanerpeton_sigalovi/Ariekanerpeton.gif))
+![](Ariekanerpeton_sigalovi/Ariekanerpeton.gif) 
 
   ---------------------------------------------------------------------------------
   Scientific Name ::     Ariekanerpeton sigalovi
@@ -110,17 +110,17 @@ Vertebrate Paleontology 16 (4): 653-665.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ariekanerpeton sigalovi](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Seymouriamorpha/Ariekanerpeton sigalovi.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Seymouriamorpha/Ariekanerpeton sigalovi|Ariekanerpeton sigalovi]] 
 
-### #is_/same_as :: [Ariekanerpeton sigalovi.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Seymouriamorpha/Ariekanerpeton sigalovi.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Seymouriamorpha/Ariekanerpeton sigalovi.public|Ariekanerpeton sigalovi.public]] 
 
-### #is_/same_as :: [Ariekanerpeton sigalovi.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Seymouriamorpha/Ariekanerpeton sigalovi.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Seymouriamorpha/Ariekanerpeton sigalovi.internal|Ariekanerpeton sigalovi.internal]] 
 
-### #is_/same_as :: [Ariekanerpeton sigalovi.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Seymouriamorpha/Ariekanerpeton sigalovi.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Seymouriamorpha/Ariekanerpeton sigalovi.protect|Ariekanerpeton sigalovi.protect]] 
 
-### #is_/same_as :: [Ariekanerpeton sigalovi.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Seymouriamorpha/Ariekanerpeton sigalovi.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Seymouriamorpha/Ariekanerpeton sigalovi.private|Ariekanerpeton sigalovi.private]] 
 
-### #is_/same_as :: [Ariekanerpeton sigalovi.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Seymouriamorpha/Ariekanerpeton sigalovi.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Seymouriamorpha/Ariekanerpeton sigalovi.personal|Ariekanerpeton sigalovi.personal]] 
 
-### #is_/same_as :: [Ariekanerpeton sigalovi.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Seymouriamorpha/Ariekanerpeton sigalovi.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Seymouriamorpha/Ariekanerpeton sigalovi.secret|Ariekanerpeton sigalovi.secret]] 
 

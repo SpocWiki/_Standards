@@ -62,17 +62,17 @@ Commons_category: Serfdom
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Serfdom](/_Standards/Society/Politics/Government/Monarchy/Feudalism/Serfdom.md) 
+### #is_/same_as :: [[/_Standards/Society/Politics/Government/Monarchy/Feudalism/Serfdom|Serfdom]] 
 
-### #is_/same_as :: [Serfdom.public](/_public/Society/Politics/Government/Monarchy/Feudalism/Serfdom.public.md) 
+### #is_/same_as :: [[/_public/Society/Politics/Government/Monarchy/Feudalism/Serfdom.public|Serfdom.public]] 
 
-### #is_/same_as :: [Serfdom.internal](/_internal/Society/Politics/Government/Monarchy/Feudalism/Serfdom.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Politics/Government/Monarchy/Feudalism/Serfdom.internal|Serfdom.internal]] 
 
-### #is_/same_as :: [Serfdom.protect](/_protect/Society/Politics/Government/Monarchy/Feudalism/Serfdom.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Politics/Government/Monarchy/Feudalism/Serfdom.protect|Serfdom.protect]] 
 
-### #is_/same_as :: [Serfdom.private](/_private/Society/Politics/Government/Monarchy/Feudalism/Serfdom.private.md) 
+### #is_/same_as :: [[/_private/Society/Politics/Government/Monarchy/Feudalism/Serfdom.private|Serfdom.private]] 
 
-### #is_/same_as :: [Serfdom.personal](/_personal/Society/Politics/Government/Monarchy/Feudalism/Serfdom.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Politics/Government/Monarchy/Feudalism/Serfdom.personal|Serfdom.personal]] 
 
-### #is_/same_as :: [Serfdom.secret](/_secret/Society/Politics/Government/Monarchy/Feudalism/Serfdom.secret.md)
+### #is_/same_as :: [[/_secret/Society/Politics/Government/Monarchy/Feudalism/Serfdom.secret|Serfdom.secret]] 
 

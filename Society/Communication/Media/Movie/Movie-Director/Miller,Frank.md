@@ -30,17 +30,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Miller,Frank](/_Standards/Society/Communication/Media/Movie/Movie-Director/Miller,Frank.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Director/Miller,Frank|Miller,Frank]] 
 
-### #is_/same_as :: [Miller,Frank.public](/_public/Society/Communication/Media/Movie/Movie-Director/Miller,Frank.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Director/Miller,Frank.public|Miller,Frank.public]] 
 
-### #is_/same_as :: [Miller,Frank.internal](/_internal/Society/Communication/Media/Movie/Movie-Director/Miller,Frank.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Director/Miller,Frank.internal|Miller,Frank.internal]] 
 
-### #is_/same_as :: [Miller,Frank.protect](/_protect/Society/Communication/Media/Movie/Movie-Director/Miller,Frank.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Director/Miller,Frank.protect|Miller,Frank.protect]] 
 
-### #is_/same_as :: [Miller,Frank.private](/_private/Society/Communication/Media/Movie/Movie-Director/Miller,Frank.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Director/Miller,Frank.private|Miller,Frank.private]] 
 
-### #is_/same_as :: [Miller,Frank.personal](/_personal/Society/Communication/Media/Movie/Movie-Director/Miller,Frank.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Director/Miller,Frank.personal|Miller,Frank.personal]] 
 
-### #is_/same_as :: [Miller,Frank.secret](/_secret/Society/Communication/Media/Movie/Movie-Director/Miller,Frank.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Director/Miller,Frank.secret|Miller,Frank.secret]] 
 

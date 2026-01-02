@@ -43,17 +43,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_number_of_art_edition](/_Standards/schema-org/Property/has_number_of/has_number_of_art_edition.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_number_of/has_number_of_art_edition|has_number_of_art_edition]] 
 
-### #is_/same_as :: [has_number_of_art_edition.public](/_public/schema-org/Property/has_number_of/has_number_of_art_edition.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/has_number_of/has_number_of_art_edition.public|has_number_of_art_edition.public]] 
 
-### #is_/same_as :: [has_number_of_art_edition.internal](/_internal/schema-org/Property/has_number_of/has_number_of_art_edition.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_number_of/has_number_of_art_edition.internal|has_number_of_art_edition.internal]] 
 
-### #is_/same_as :: [has_number_of_art_edition.protect](/_protect/schema-org/Property/has_number_of/has_number_of_art_edition.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_number_of/has_number_of_art_edition.protect|has_number_of_art_edition.protect]] 
 
-### #is_/same_as :: [has_number_of_art_edition.private](/_private/schema-org/Property/has_number_of/has_number_of_art_edition.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/has_number_of/has_number_of_art_edition.private|has_number_of_art_edition.private]] 
 
-### #is_/same_as :: [has_number_of_art_edition.personal](/_personal/schema-org/Property/has_number_of/has_number_of_art_edition.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_number_of/has_number_of_art_edition.personal|has_number_of_art_edition.personal]] 
 
-### #is_/same_as :: [has_number_of_art_edition.secret](/_secret/schema-org/Property/has_number_of/has_number_of_art_edition.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/has_number_of/has_number_of_art_edition.secret|has_number_of_art_edition.secret]] 
 

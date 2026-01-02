@@ -37,17 +37,17 @@ A motorized bicycle is a bicycle with an attached motor used to power the vehicl
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~MotorizedBicycle](/_Standards/fileClass/FileClass~Thing/FileClass~Product/FileClass~Vehicle/FileClass~MotorizedBicycle.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Product/FileClass~Vehicle/FileClass~MotorizedBicycle|FileClass~MotorizedBicycle]] 
 
-### #is_/same_as :: [FileClass~MotorizedBicycle.public](/_public/fileClass/FileClass~Thing/FileClass~Product/FileClass~Vehicle/FileClass~MotorizedBicycle.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Product/FileClass~Vehicle/FileClass~MotorizedBicycle.public|FileClass~MotorizedBicycle.public]] 
 
-### #is_/same_as :: [FileClass~MotorizedBicycle.internal](/_internal/fileClass/FileClass~Thing/FileClass~Product/FileClass~Vehicle/FileClass~MotorizedBicycle.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Product/FileClass~Vehicle/FileClass~MotorizedBicycle.internal|FileClass~MotorizedBicycle.internal]] 
 
-### #is_/same_as :: [FileClass~MotorizedBicycle.protect](/_protect/fileClass/FileClass~Thing/FileClass~Product/FileClass~Vehicle/FileClass~MotorizedBicycle.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Product/FileClass~Vehicle/FileClass~MotorizedBicycle.protect|FileClass~MotorizedBicycle.protect]] 
 
-### #is_/same_as :: [FileClass~MotorizedBicycle.private](/_private/fileClass/FileClass~Thing/FileClass~Product/FileClass~Vehicle/FileClass~MotorizedBicycle.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Product/FileClass~Vehicle/FileClass~MotorizedBicycle.private|FileClass~MotorizedBicycle.private]] 
 
-### #is_/same_as :: [FileClass~MotorizedBicycle.personal](/_personal/fileClass/FileClass~Thing/FileClass~Product/FileClass~Vehicle/FileClass~MotorizedBicycle.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Product/FileClass~Vehicle/FileClass~MotorizedBicycle.personal|FileClass~MotorizedBicycle.personal]] 
 
-### #is_/same_as :: [FileClass~MotorizedBicycle.secret](/_secret/fileClass/FileClass~Thing/FileClass~Product/FileClass~Vehicle/FileClass~MotorizedBicycle.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Product/FileClass~Vehicle/FileClass~MotorizedBicycle.secret|FileClass~MotorizedBicycle.secret]] 
 

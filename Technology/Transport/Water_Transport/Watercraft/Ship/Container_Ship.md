@@ -43,17 +43,17 @@ Commons_category: Container ships
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Container_Ship](/_Standards/Technology/Transport/Water_Transport/Watercraft/Ship/Container_Ship.md) 
+### #is_/same_as :: [[/_Standards/Technology/Transport/Water_Transport/Watercraft/Ship/Container_Ship|Container_Ship]] 
 
-### #is_/same_as :: [Container_Ship.public](/_public/Technology/Transport/Water_Transport/Watercraft/Ship/Container_Ship.public.md) 
+### #is_/same_as :: [[/_public/Technology/Transport/Water_Transport/Watercraft/Ship/Container_Ship.public|Container_Ship.public]] 
 
-### #is_/same_as :: [Container_Ship.internal](/_internal/Technology/Transport/Water_Transport/Watercraft/Ship/Container_Ship.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Transport/Water_Transport/Watercraft/Ship/Container_Ship.internal|Container_Ship.internal]] 
 
-### #is_/same_as :: [Container_Ship.protect](/_protect/Technology/Transport/Water_Transport/Watercraft/Ship/Container_Ship.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Transport/Water_Transport/Watercraft/Ship/Container_Ship.protect|Container_Ship.protect]] 
 
-### #is_/same_as :: [Container_Ship.private](/_private/Technology/Transport/Water_Transport/Watercraft/Ship/Container_Ship.private.md) 
+### #is_/same_as :: [[/_private/Technology/Transport/Water_Transport/Watercraft/Ship/Container_Ship.private|Container_Ship.private]] 
 
-### #is_/same_as :: [Container_Ship.personal](/_personal/Technology/Transport/Water_Transport/Watercraft/Ship/Container_Ship.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Transport/Water_Transport/Watercraft/Ship/Container_Ship.personal|Container_Ship.personal]] 
 
-### #is_/same_as :: [Container_Ship.secret](/_secret/Technology/Transport/Water_Transport/Watercraft/Ship/Container_Ship.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Transport/Water_Transport/Watercraft/Ship/Container_Ship.secret|Container_Ship.secret]] 
 

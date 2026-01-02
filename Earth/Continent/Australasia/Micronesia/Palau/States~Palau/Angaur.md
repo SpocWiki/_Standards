@@ -40,17 +40,17 @@ markerFolder: ./Angaur/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Angaur](/_Standards/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Angaur.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Angaur|Angaur]] 
 
-### #is_/same_as :: [Angaur.public](/_public/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Angaur.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Angaur.public|Angaur.public]] 
 
-### #is_/same_as :: [Angaur.internal](/_internal/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Angaur.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Angaur.internal|Angaur.internal]] 
 
-### #is_/same_as :: [Angaur.protect](/_protect/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Angaur.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Angaur.protect|Angaur.protect]] 
 
-### #is_/same_as :: [Angaur.private](/_private/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Angaur.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Angaur.private|Angaur.private]] 
 
-### #is_/same_as :: [Angaur.personal](/_personal/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Angaur.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Angaur.personal|Angaur.personal]] 
 
-### #is_/same_as :: [Angaur.secret](/_secret/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Angaur.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Angaur.secret|Angaur.secret]] 
 

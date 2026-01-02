@@ -64,17 +64,17 @@ page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Egyptian%20soldi
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Combat](/_Standards/Society/Military/Military_Operation/Combat.md) 
+### #is_/same_as :: [[/_Standards/Society/Military/Military_Operation/Combat|Combat]] 
 
-### #is_/same_as :: [Combat.public](/_public/Society/Military/Military_Operation/Combat.public.md) 
+### #is_/same_as :: [[/_public/Society/Military/Military_Operation/Combat.public|Combat.public]] 
 
-### #is_/same_as :: [Combat.internal](/_internal/Society/Military/Military_Operation/Combat.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Military/Military_Operation/Combat.internal|Combat.internal]] 
 
-### #is_/same_as :: [Combat.protect](/_protect/Society/Military/Military_Operation/Combat.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Military/Military_Operation/Combat.protect|Combat.protect]] 
 
-### #is_/same_as :: [Combat.private](/_private/Society/Military/Military_Operation/Combat.private.md) 
+### #is_/same_as :: [[/_private/Society/Military/Military_Operation/Combat.private|Combat.private]] 
 
-### #is_/same_as :: [Combat.personal](/_personal/Society/Military/Military_Operation/Combat.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Military/Military_Operation/Combat.personal|Combat.personal]] 
 
-### #is_/same_as :: [Combat.secret](/_secret/Society/Military/Military_Operation/Combat.secret.md)
+### #is_/same_as :: [[/_secret/Society/Military/Military_Operation/Combat.secret|Combat.secret]] 
 

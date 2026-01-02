@@ -42,17 +42,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [is_based_on](/_Standards/schema-org/Relation/is/is_based_on.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/is/is_based_on|is_based_on]] 
 
-### #is_/same_as :: [is_based_on.public](/_public/schema-org/Relation/is/is_based_on.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/is/is_based_on.public|is_based_on.public]] 
 
-### #is_/same_as :: [is_based_on.internal](/_internal/schema-org/Relation/is/is_based_on.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/is/is_based_on.internal|is_based_on.internal]] 
 
-### #is_/same_as :: [is_based_on.protect](/_protect/schema-org/Relation/is/is_based_on.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/is/is_based_on.protect|is_based_on.protect]] 
 
-### #is_/same_as :: [is_based_on.private](/_private/schema-org/Relation/is/is_based_on.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/is/is_based_on.private|is_based_on.private]] 
 
-### #is_/same_as :: [is_based_on.personal](/_personal/schema-org/Relation/is/is_based_on.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/is/is_based_on.personal|is_based_on.personal]] 
 
-### #is_/same_as :: [is_based_on.secret](/_secret/schema-org/Relation/is/is_based_on.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/is/is_based_on.secret|is_based_on.secret]] 
 

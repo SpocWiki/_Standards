@@ -45,17 +45,17 @@ A pond.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [pond](/_Standards/Earth/Geology/Landform/body_of_water/pond.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geology/Landform/body_of_water/pond|pond]] 
 
-### #is_/same_as :: [pond.public](/_public/Earth/Geology/Landform/body_of_water/pond.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geology/Landform/body_of_water/pond.public|pond.public]] 
 
-### #is_/same_as :: [pond.internal](/_internal/Earth/Geology/Landform/body_of_water/pond.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geology/Landform/body_of_water/pond.internal|pond.internal]] 
 
-### #is_/same_as :: [pond.protect](/_protect/Earth/Geology/Landform/body_of_water/pond.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geology/Landform/body_of_water/pond.protect|pond.protect]] 
 
-### #is_/same_as :: [pond.private](/_private/Earth/Geology/Landform/body_of_water/pond.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geology/Landform/body_of_water/pond.private|pond.private]] 
 
-### #is_/same_as :: [pond.personal](/_personal/Earth/Geology/Landform/body_of_water/pond.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geology/Landform/body_of_water/pond.personal|pond.personal]] 
 
-### #is_/same_as :: [pond.secret](/_secret/Earth/Geology/Landform/body_of_water/pond.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geology/Landform/body_of_water/pond.secret|pond.secret]] 
 

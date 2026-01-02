@@ -63,17 +63,17 @@ Commons_category: Köppen-Geiger
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Köppen_Climate_Classification](/_Standards/Earth/Climate/Köppen_Climate_Classification.md) 
+### #is_/same_as :: [[/_Standards/Earth/Climate/Köppen_Climate_Classification|Köppen_Climate_Classification]] 
 
-### #is_/same_as :: [Köppen_Climate_Classification.public](/_public/Earth/Climate/Köppen_Climate_Classification.public.md) 
+### #is_/same_as :: [[/_public/Earth/Climate/Köppen_Climate_Classification.public|Köppen_Climate_Classification.public]] 
 
-### #is_/same_as :: [Köppen_Climate_Classification.internal](/_internal/Earth/Climate/Köppen_Climate_Classification.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Climate/Köppen_Climate_Classification.internal|Köppen_Climate_Classification.internal]] 
 
-### #is_/same_as :: [Köppen_Climate_Classification.protect](/_protect/Earth/Climate/Köppen_Climate_Classification.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Climate/Köppen_Climate_Classification.protect|Köppen_Climate_Classification.protect]] 
 
-### #is_/same_as :: [Köppen_Climate_Classification.private](/_private/Earth/Climate/Köppen_Climate_Classification.private.md) 
+### #is_/same_as :: [[/_private/Earth/Climate/Köppen_Climate_Classification.private|Köppen_Climate_Classification.private]] 
 
-### #is_/same_as :: [Köppen_Climate_Classification.personal](/_personal/Earth/Climate/Köppen_Climate_Classification.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Climate/Köppen_Climate_Classification.personal|Köppen_Climate_Classification.personal]] 
 
-### #is_/same_as :: [Köppen_Climate_Classification.secret](/_secret/Earth/Climate/Köppen_Climate_Classification.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Climate/Köppen_Climate_Classification.secret|Köppen_Climate_Classification.secret]] 
 

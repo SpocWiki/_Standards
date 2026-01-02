@@ -65,17 +65,17 @@ Wikidata_property: cash
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Money](/_Standards/Society/Economics/Money.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Money|Money]] 
 
-### #is_/same_as :: [Money.public](/_public/Society/Economics/Money.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Money.public|Money.public]] 
 
-### #is_/same_as :: [Money.internal](/_internal/Society/Economics/Money.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Money.internal|Money.internal]] 
 
-### #is_/same_as :: [Money.protect](/_protect/Society/Economics/Money.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Money.protect|Money.protect]] 
 
-### #is_/same_as :: [Money.private](/_private/Society/Economics/Money.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Money.private|Money.private]] 
 
-### #is_/same_as :: [Money.personal](/_personal/Society/Economics/Money.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Money.personal|Money.personal]] 
 
-### #is_/same_as :: [Money.secret](/_secret/Society/Economics/Money.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Money.secret|Money.secret]] 
 

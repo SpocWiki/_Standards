@@ -113,17 +113,17 @@ Commons_category: Treaties
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Treaty](/_Standards/Society/Law/Contract/Treaty.md) 
+### #is_/same_as :: [[/_Standards/Society/Law/Contract/Treaty|Treaty]] 
 
-### #is_/same_as :: [Treaty.public](/_public/Society/Law/Contract/Treaty.public.md) 
+### #is_/same_as :: [[/_public/Society/Law/Contract/Treaty.public|Treaty.public]] 
 
-### #is_/same_as :: [Treaty.internal](/_internal/Society/Law/Contract/Treaty.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Law/Contract/Treaty.internal|Treaty.internal]] 
 
-### #is_/same_as :: [Treaty.protect](/_protect/Society/Law/Contract/Treaty.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Law/Contract/Treaty.protect|Treaty.protect]] 
 
-### #is_/same_as :: [Treaty.private](/_private/Society/Law/Contract/Treaty.private.md) 
+### #is_/same_as :: [[/_private/Society/Law/Contract/Treaty.private|Treaty.private]] 
 
-### #is_/same_as :: [Treaty.personal](/_personal/Society/Law/Contract/Treaty.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Law/Contract/Treaty.personal|Treaty.personal]] 
 
-### #is_/same_as :: [Treaty.secret](/_secret/Society/Law/Contract/Treaty.secret.md)
+### #is_/same_as :: [[/_secret/Society/Law/Contract/Treaty.secret|Treaty.secret]] 
 

@@ -39,17 +39,17 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/US-Bajonette%20verschi
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bayonet](/_Standards/Society/Military/Military_Engineering/Weapon/Firearm/Bayonet.md) 
+### #is_/same_as :: [[/_Standards/Society/Military/Military_Engineering/Weapon/Firearm/Bayonet|Bayonet]] 
 
-### #is_/same_as :: [Bayonet.public](/_public/Society/Military/Military_Engineering/Weapon/Firearm/Bayonet.public.md) 
+### #is_/same_as :: [[/_public/Society/Military/Military_Engineering/Weapon/Firearm/Bayonet.public|Bayonet.public]] 
 
-### #is_/same_as :: [Bayonet.internal](/_internal/Society/Military/Military_Engineering/Weapon/Firearm/Bayonet.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Military/Military_Engineering/Weapon/Firearm/Bayonet.internal|Bayonet.internal]] 
 
-### #is_/same_as :: [Bayonet.protect](/_protect/Society/Military/Military_Engineering/Weapon/Firearm/Bayonet.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Military/Military_Engineering/Weapon/Firearm/Bayonet.protect|Bayonet.protect]] 
 
-### #is_/same_as :: [Bayonet.private](/_private/Society/Military/Military_Engineering/Weapon/Firearm/Bayonet.private.md) 
+### #is_/same_as :: [[/_private/Society/Military/Military_Engineering/Weapon/Firearm/Bayonet.private|Bayonet.private]] 
 
-### #is_/same_as :: [Bayonet.personal](/_personal/Society/Military/Military_Engineering/Weapon/Firearm/Bayonet.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Military/Military_Engineering/Weapon/Firearm/Bayonet.personal|Bayonet.personal]] 
 
-### #is_/same_as :: [Bayonet.secret](/_secret/Society/Military/Military_Engineering/Weapon/Firearm/Bayonet.secret.md)
+### #is_/same_as :: [[/_secret/Society/Military/Military_Engineering/Weapon/Firearm/Bayonet.secret|Bayonet.secret]] 
 

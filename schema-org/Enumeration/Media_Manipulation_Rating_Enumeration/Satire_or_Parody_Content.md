@@ -84,17 +84,17 @@ are more likely to fall under the missing context rating.)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Satire_or_Parody_Content](/_Standards/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration/Satire_or_Parody_Content.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration/Satire_or_Parody_Content|Satire_or_Parody_Content]] 
 
-### #is_/same_as :: [Satire_or_Parody_Content.public](/_public/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration/Satire_or_Parody_Content.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration/Satire_or_Parody_Content.public|Satire_or_Parody_Content.public]] 
 
-### #is_/same_as :: [Satire_or_Parody_Content.internal](/_internal/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration/Satire_or_Parody_Content.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration/Satire_or_Parody_Content.internal|Satire_or_Parody_Content.internal]] 
 
-### #is_/same_as :: [Satire_or_Parody_Content.protect](/_protect/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration/Satire_or_Parody_Content.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration/Satire_or_Parody_Content.protect|Satire_or_Parody_Content.protect]] 
 
-### #is_/same_as :: [Satire_or_Parody_Content.private](/_private/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration/Satire_or_Parody_Content.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration/Satire_or_Parody_Content.private|Satire_or_Parody_Content.private]] 
 
-### #is_/same_as :: [Satire_or_Parody_Content.personal](/_personal/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration/Satire_or_Parody_Content.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration/Satire_or_Parody_Content.personal|Satire_or_Parody_Content.personal]] 
 
-### #is_/same_as :: [Satire_or_Parody_Content.secret](/_secret/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration/Satire_or_Parody_Content.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration/Satire_or_Parody_Content.secret|Satire_or_Parody_Content.secret]] 
 

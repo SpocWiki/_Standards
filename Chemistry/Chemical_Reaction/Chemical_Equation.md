@@ -42,17 +42,17 @@ Krugosvet_article: nauka_i_tehnika/himiya/HIMICHESKOE_URAVNENIE.html
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Chemical_Equation](/_Standards/Chemistry/Chemical_Reaction/Chemical_Equation.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Chemical_Reaction/Chemical_Equation|Chemical_Equation]] 
 
-### #is_/same_as :: [Chemical_Equation.public](/_public/Chemistry/Chemical_Reaction/Chemical_Equation.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Chemical_Reaction/Chemical_Equation.public|Chemical_Equation.public]] 
 
-### #is_/same_as :: [Chemical_Equation.internal](/_internal/Chemistry/Chemical_Reaction/Chemical_Equation.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Chemical_Reaction/Chemical_Equation.internal|Chemical_Equation.internal]] 
 
-### #is_/same_as :: [Chemical_Equation.protect](/_protect/Chemistry/Chemical_Reaction/Chemical_Equation.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Chemical_Reaction/Chemical_Equation.protect|Chemical_Equation.protect]] 
 
-### #is_/same_as :: [Chemical_Equation.private](/_private/Chemistry/Chemical_Reaction/Chemical_Equation.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Chemical_Reaction/Chemical_Equation.private|Chemical_Equation.private]] 
 
-### #is_/same_as :: [Chemical_Equation.personal](/_personal/Chemistry/Chemical_Reaction/Chemical_Equation.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Chemical_Reaction/Chemical_Equation.personal|Chemical_Equation.personal]] 
 
-### #is_/same_as :: [Chemical_Equation.secret](/_secret/Chemistry/Chemical_Reaction/Chemical_Equation.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Chemical_Reaction/Chemical_Equation.secret|Chemical_Equation.secret]] 
 

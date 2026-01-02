@@ -65,17 +65,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Watchmen(film)](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Fantasy-Movie/Watchmen(film).md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Genre/Fantasy-Movie/Watchmen(film)|Watchmen(film)]] 
 
-### #is_/same_as :: [Watchmen(film).public](/_public/Society/Communication/Media/Movie/Movie-Genre/Fantasy-Movie/Watchmen(film).public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Genre/Fantasy-Movie/Watchmen(film).public|Watchmen(film).public]] 
 
-### #is_/same_as :: [Watchmen(film).internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Fantasy-Movie/Watchmen(film).internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Genre/Fantasy-Movie/Watchmen(film).internal|Watchmen(film).internal]] 
 
-### #is_/same_as :: [Watchmen(film).protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Fantasy-Movie/Watchmen(film).protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Genre/Fantasy-Movie/Watchmen(film).protect|Watchmen(film).protect]] 
 
-### #is_/same_as :: [Watchmen(film).private](/_private/Society/Communication/Media/Movie/Movie-Genre/Fantasy-Movie/Watchmen(film).private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Genre/Fantasy-Movie/Watchmen(film).private|Watchmen(film).private]] 
 
-### #is_/same_as :: [Watchmen(film).personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Fantasy-Movie/Watchmen(film).personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Genre/Fantasy-Movie/Watchmen(film).personal|Watchmen(film).personal]] 
 
-### #is_/same_as :: [Watchmen(film).secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Fantasy-Movie/Watchmen(film).secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Genre/Fantasy-Movie/Watchmen(film).secret|Watchmen(film).secret]] 
 

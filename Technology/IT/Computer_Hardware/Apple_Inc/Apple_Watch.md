@@ -103,17 +103,17 @@ I have an SE (1st) LTE
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Apple_Watch](/_Standards/Technology/IT/Computer_Hardware/Apple_Inc/Apple_Watch.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Computer_Hardware/Apple_Inc/Apple_Watch|Apple_Watch]] 
 
-### #is_/same_as :: [Apple_Watch.public](/_public/Technology/IT/Computer_Hardware/Apple_Inc/Apple_Watch.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Computer_Hardware/Apple_Inc/Apple_Watch.public|Apple_Watch.public]] 
 
-### #is_/same_as :: [Apple_Watch.internal](/_internal/Technology/IT/Computer_Hardware/Apple_Inc/Apple_Watch.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Computer_Hardware/Apple_Inc/Apple_Watch.internal|Apple_Watch.internal]] 
 
-### #is_/same_as :: [Apple_Watch.protect](/_protect/Technology/IT/Computer_Hardware/Apple_Inc/Apple_Watch.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Computer_Hardware/Apple_Inc/Apple_Watch.protect|Apple_Watch.protect]] 
 
-### #is_/same_as :: [Apple_Watch.private](/_private/Technology/IT/Computer_Hardware/Apple_Inc/Apple_Watch.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Computer_Hardware/Apple_Inc/Apple_Watch.private|Apple_Watch.private]] 
 
-### #is_/same_as :: [Apple_Watch.personal](/_personal/Technology/IT/Computer_Hardware/Apple_Inc/Apple_Watch.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Computer_Hardware/Apple_Inc/Apple_Watch.personal|Apple_Watch.personal]] 
 
-### #is_/same_as :: [Apple_Watch.secret](/_secret/Technology/IT/Computer_Hardware/Apple_Inc/Apple_Watch.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Computer_Hardware/Apple_Inc/Apple_Watch.secret|Apple_Watch.secret]] 
 

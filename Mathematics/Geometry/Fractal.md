@@ -55,17 +55,17 @@ subreddit: fractals
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Fractal](/_Standards/Mathematics/Geometry/Fractal.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Geometry/Fractal|Fractal]] 
 
-### #is_/same_as :: [Fractal.public](/_public/Mathematics/Geometry/Fractal.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Geometry/Fractal.public|Fractal.public]] 
 
-### #is_/same_as :: [Fractal.internal](/_internal/Mathematics/Geometry/Fractal.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Geometry/Fractal.internal|Fractal.internal]] 
 
-### #is_/same_as :: [Fractal.protect](/_protect/Mathematics/Geometry/Fractal.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Geometry/Fractal.protect|Fractal.protect]] 
 
-### #is_/same_as :: [Fractal.private](/_private/Mathematics/Geometry/Fractal.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Geometry/Fractal.private|Fractal.private]] 
 
-### #is_/same_as :: [Fractal.personal](/_personal/Mathematics/Geometry/Fractal.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Geometry/Fractal.personal|Fractal.personal]] 
 
-### #is_/same_as :: [Fractal.secret](/_secret/Mathematics/Geometry/Fractal.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Geometry/Fractal.secret|Fractal.secret]] 
 

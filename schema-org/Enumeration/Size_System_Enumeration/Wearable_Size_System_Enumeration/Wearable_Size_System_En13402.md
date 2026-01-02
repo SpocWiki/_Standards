@@ -44,17 +44,17 @@ EN 13402 (joint European standard for size labelling of clothes).
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Wearable_Size_System_En13402](/_Standards/schema-org/Enumeration/Size_System_Enumeration/Wearable_Size_System_Enumeration/Wearable_Size_System_En13402.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Size_System_Enumeration/Wearable_Size_System_Enumeration/Wearable_Size_System_En13402|Wearable_Size_System_En13402]] 
 
-### #is_/same_as :: [Wearable_Size_System_En13402.public](/_public/schema-org/Enumeration/Size_System_Enumeration/Wearable_Size_System_Enumeration/Wearable_Size_System_En13402.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Size_System_Enumeration/Wearable_Size_System_Enumeration/Wearable_Size_System_En13402.public|Wearable_Size_System_En13402.public]] 
 
-### #is_/same_as :: [Wearable_Size_System_En13402.internal](/_internal/schema-org/Enumeration/Size_System_Enumeration/Wearable_Size_System_Enumeration/Wearable_Size_System_En13402.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Size_System_Enumeration/Wearable_Size_System_Enumeration/Wearable_Size_System_En13402.internal|Wearable_Size_System_En13402.internal]] 
 
-### #is_/same_as :: [Wearable_Size_System_En13402.protect](/_protect/schema-org/Enumeration/Size_System_Enumeration/Wearable_Size_System_Enumeration/Wearable_Size_System_En13402.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Size_System_Enumeration/Wearable_Size_System_Enumeration/Wearable_Size_System_En13402.protect|Wearable_Size_System_En13402.protect]] 
 
-### #is_/same_as :: [Wearable_Size_System_En13402.private](/_private/schema-org/Enumeration/Size_System_Enumeration/Wearable_Size_System_Enumeration/Wearable_Size_System_En13402.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Size_System_Enumeration/Wearable_Size_System_Enumeration/Wearable_Size_System_En13402.private|Wearable_Size_System_En13402.private]] 
 
-### #is_/same_as :: [Wearable_Size_System_En13402.personal](/_personal/schema-org/Enumeration/Size_System_Enumeration/Wearable_Size_System_Enumeration/Wearable_Size_System_En13402.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Size_System_Enumeration/Wearable_Size_System_Enumeration/Wearable_Size_System_En13402.personal|Wearable_Size_System_En13402.personal]] 
 
-### #is_/same_as :: [Wearable_Size_System_En13402.secret](/_secret/schema-org/Enumeration/Size_System_Enumeration/Wearable_Size_System_Enumeration/Wearable_Size_System_En13402.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Size_System_Enumeration/Wearable_Size_System_Enumeration/Wearable_Size_System_En13402.secret|Wearable_Size_System_En13402.secret]] 
 

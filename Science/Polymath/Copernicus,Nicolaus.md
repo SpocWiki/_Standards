@@ -188,17 +188,17 @@ work_location: '[[_Standards/WikiData/WD~Frombork,497115]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Copernicus,Nicolaus](/_Standards/Science/Polymath/Copernicus,Nicolaus.md) 
+### #is_/same_as :: [[/_Standards/Science/Polymath/Copernicus,Nicolaus|Copernicus,Nicolaus]] 
 
-### #is_/same_as :: [Copernicus,Nicolaus.public](/_public/Science/Polymath/Copernicus,Nicolaus.public.md) 
+### #is_/same_as :: [[/_public/Science/Polymath/Copernicus,Nicolaus.public|Copernicus,Nicolaus.public]] 
 
-### #is_/same_as :: [Copernicus,Nicolaus.internal](/_internal/Science/Polymath/Copernicus,Nicolaus.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Polymath/Copernicus,Nicolaus.internal|Copernicus,Nicolaus.internal]] 
 
-### #is_/same_as :: [Copernicus,Nicolaus.protect](/_protect/Science/Polymath/Copernicus,Nicolaus.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Polymath/Copernicus,Nicolaus.protect|Copernicus,Nicolaus.protect]] 
 
-### #is_/same_as :: [Copernicus,Nicolaus.private](/_private/Science/Polymath/Copernicus,Nicolaus.private.md) 
+### #is_/same_as :: [[/_private/Science/Polymath/Copernicus,Nicolaus.private|Copernicus,Nicolaus.private]] 
 
-### #is_/same_as :: [Copernicus,Nicolaus.personal](/_personal/Science/Polymath/Copernicus,Nicolaus.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Polymath/Copernicus,Nicolaus.personal|Copernicus,Nicolaus.personal]] 
 
-### #is_/same_as :: [Copernicus,Nicolaus.secret](/_secret/Science/Polymath/Copernicus,Nicolaus.secret.md)
+### #is_/same_as :: [[/_secret/Science/Polymath/Copernicus,Nicolaus.secret|Copernicus,Nicolaus.secret]] 
 

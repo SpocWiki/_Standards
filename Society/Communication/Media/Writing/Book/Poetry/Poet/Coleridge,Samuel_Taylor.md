@@ -148,17 +148,17 @@ image_of_grave: http://commons.wikimedia.org/wiki/Special:FilePath/St%20Michael%
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Coleridge,Samuel_Taylor](/_Standards/Society/Communication/Media/Writing/Book/Poetry/Poet/Coleridge,Samuel_Taylor.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Poetry/Poet/Coleridge,Samuel_Taylor|Coleridge,Samuel_Taylor]] 
 
-### #is_/same_as :: [Coleridge,Samuel_Taylor.public](/_public/Society/Communication/Media/Writing/Book/Poetry/Poet/Coleridge,Samuel_Taylor.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Poetry/Poet/Coleridge,Samuel_Taylor.public|Coleridge,Samuel_Taylor.public]] 
 
-### #is_/same_as :: [Coleridge,Samuel_Taylor.internal](/_internal/Society/Communication/Media/Writing/Book/Poetry/Poet/Coleridge,Samuel_Taylor.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Poetry/Poet/Coleridge,Samuel_Taylor.internal|Coleridge,Samuel_Taylor.internal]] 
 
-### #is_/same_as :: [Coleridge,Samuel_Taylor.protect](/_protect/Society/Communication/Media/Writing/Book/Poetry/Poet/Coleridge,Samuel_Taylor.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Poetry/Poet/Coleridge,Samuel_Taylor.protect|Coleridge,Samuel_Taylor.protect]] 
 
-### #is_/same_as :: [Coleridge,Samuel_Taylor.private](/_private/Society/Communication/Media/Writing/Book/Poetry/Poet/Coleridge,Samuel_Taylor.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Poetry/Poet/Coleridge,Samuel_Taylor.private|Coleridge,Samuel_Taylor.private]] 
 
-### #is_/same_as :: [Coleridge,Samuel_Taylor.personal](/_personal/Society/Communication/Media/Writing/Book/Poetry/Poet/Coleridge,Samuel_Taylor.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Poetry/Poet/Coleridge,Samuel_Taylor.personal|Coleridge,Samuel_Taylor.personal]] 
 
-### #is_/same_as :: [Coleridge,Samuel_Taylor.secret](/_secret/Society/Communication/Media/Writing/Book/Poetry/Poet/Coleridge,Samuel_Taylor.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Poetry/Poet/Coleridge,Samuel_Taylor.secret|Coleridge,Samuel_Taylor.secret]] 
 

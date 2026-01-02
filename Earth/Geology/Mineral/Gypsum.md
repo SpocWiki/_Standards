@@ -93,17 +93,17 @@ Wolfram_Language_entity_code: Entity["Mineral", "Gypsum"]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Gypsum](/_Standards/Earth/Geology/Mineral/Gypsum.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geology/Mineral/Gypsum|Gypsum]] 
 
-### #is_/same_as :: [Gypsum.public](/_public/Earth/Geology/Mineral/Gypsum.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geology/Mineral/Gypsum.public|Gypsum.public]] 
 
-### #is_/same_as :: [Gypsum.internal](/_internal/Earth/Geology/Mineral/Gypsum.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geology/Mineral/Gypsum.internal|Gypsum.internal]] 
 
-### #is_/same_as :: [Gypsum.protect](/_protect/Earth/Geology/Mineral/Gypsum.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geology/Mineral/Gypsum.protect|Gypsum.protect]] 
 
-### #is_/same_as :: [Gypsum.private](/_private/Earth/Geology/Mineral/Gypsum.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geology/Mineral/Gypsum.private|Gypsum.private]] 
 
-### #is_/same_as :: [Gypsum.personal](/_personal/Earth/Geology/Mineral/Gypsum.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geology/Mineral/Gypsum.personal|Gypsum.personal]] 
 
-### #is_/same_as :: [Gypsum.secret](/_secret/Earth/Geology/Mineral/Gypsum.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geology/Mineral/Gypsum.secret|Gypsum.secret]] 
 

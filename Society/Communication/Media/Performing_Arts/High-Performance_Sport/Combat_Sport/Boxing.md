@@ -77,17 +77,17 @@ UMLS_CUI: C0006080
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Boxing](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Boxing.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Boxing|Boxing]] 
 
-### #is_/same_as :: [Boxing.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Boxing.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Boxing.public|Boxing.public]] 
 
-### #is_/same_as :: [Boxing.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Boxing.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Boxing.internal|Boxing.internal]] 
 
-### #is_/same_as :: [Boxing.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Boxing.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Boxing.protect|Boxing.protect]] 
 
-### #is_/same_as :: [Boxing.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Boxing.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Boxing.private|Boxing.private]] 
 
-### #is_/same_as :: [Boxing.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Boxing.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Boxing.personal|Boxing.personal]] 
 
-### #is_/same_as :: [Boxing.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Boxing.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Boxing.secret|Boxing.secret]] 
 

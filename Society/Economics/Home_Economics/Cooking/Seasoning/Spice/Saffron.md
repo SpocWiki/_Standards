@@ -75,17 +75,17 @@ UNII: E849G4X5YJ
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Saffron](/_Standards/Society/Economics/Home_Economics/Cooking/Seasoning/Spice/Saffron.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Home_Economics/Cooking/Seasoning/Spice/Saffron|Saffron]] 
 
-### #is_/same_as :: [Saffron.public](/_public/Society/Economics/Home_Economics/Cooking/Seasoning/Spice/Saffron.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Home_Economics/Cooking/Seasoning/Spice/Saffron.public|Saffron.public]] 
 
-### #is_/same_as :: [Saffron.internal](/_internal/Society/Economics/Home_Economics/Cooking/Seasoning/Spice/Saffron.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Home_Economics/Cooking/Seasoning/Spice/Saffron.internal|Saffron.internal]] 
 
-### #is_/same_as :: [Saffron.protect](/_protect/Society/Economics/Home_Economics/Cooking/Seasoning/Spice/Saffron.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Home_Economics/Cooking/Seasoning/Spice/Saffron.protect|Saffron.protect]] 
 
-### #is_/same_as :: [Saffron.private](/_private/Society/Economics/Home_Economics/Cooking/Seasoning/Spice/Saffron.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Home_Economics/Cooking/Seasoning/Spice/Saffron.private|Saffron.private]] 
 
-### #is_/same_as :: [Saffron.personal](/_personal/Society/Economics/Home_Economics/Cooking/Seasoning/Spice/Saffron.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Home_Economics/Cooking/Seasoning/Spice/Saffron.personal|Saffron.personal]] 
 
-### #is_/same_as :: [Saffron.secret](/_secret/Society/Economics/Home_Economics/Cooking/Seasoning/Spice/Saffron.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Home_Economics/Cooking/Seasoning/Spice/Saffron.secret|Saffron.secret]] 
 

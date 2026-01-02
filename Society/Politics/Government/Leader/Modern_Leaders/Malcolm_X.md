@@ -109,17 +109,17 @@ pseudonym: Malachi Shabazz
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Malcolm_X](/_Standards/Society/Politics/Government/Leader/Modern_Leaders/Malcolm_X.md) 
+### #is_/same_as :: [[/_Standards/Society/Politics/Government/Leader/Modern_Leaders/Malcolm_X|Malcolm_X]] 
 
-### #is_/same_as :: [Malcolm_X.public](/_public/Society/Politics/Government/Leader/Modern_Leaders/Malcolm_X.public.md) 
+### #is_/same_as :: [[/_public/Society/Politics/Government/Leader/Modern_Leaders/Malcolm_X.public|Malcolm_X.public]] 
 
-### #is_/same_as :: [Malcolm_X.internal](/_internal/Society/Politics/Government/Leader/Modern_Leaders/Malcolm_X.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Politics/Government/Leader/Modern_Leaders/Malcolm_X.internal|Malcolm_X.internal]] 
 
-### #is_/same_as :: [Malcolm_X.protect](/_protect/Society/Politics/Government/Leader/Modern_Leaders/Malcolm_X.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Politics/Government/Leader/Modern_Leaders/Malcolm_X.protect|Malcolm_X.protect]] 
 
-### #is_/same_as :: [Malcolm_X.private](/_private/Society/Politics/Government/Leader/Modern_Leaders/Malcolm_X.private.md) 
+### #is_/same_as :: [[/_private/Society/Politics/Government/Leader/Modern_Leaders/Malcolm_X.private|Malcolm_X.private]] 
 
-### #is_/same_as :: [Malcolm_X.personal](/_personal/Society/Politics/Government/Leader/Modern_Leaders/Malcolm_X.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Politics/Government/Leader/Modern_Leaders/Malcolm_X.personal|Malcolm_X.personal]] 
 
-### #is_/same_as :: [Malcolm_X.secret](/_secret/Society/Politics/Government/Leader/Modern_Leaders/Malcolm_X.secret.md)
+### #is_/same_as :: [[/_secret/Society/Politics/Government/Leader/Modern_Leaders/Malcolm_X.secret|Malcolm_X.secret]] 
 

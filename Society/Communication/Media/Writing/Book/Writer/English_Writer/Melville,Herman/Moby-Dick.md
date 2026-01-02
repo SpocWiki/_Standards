@@ -216,17 +216,17 @@ subtitle: or, The Whale
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Moby-Dick](/_Standards/Society/Communication/Media/Writing/Book/Writer/English_Writer/Melville,Herman/Moby-Dick.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Writer/English_Writer/Melville,Herman/Moby-Dick|Moby-Dick]] 
 
-### #is_/same_as :: [Moby-Dick.public](/_public/Society/Communication/Media/Writing/Book/Writer/English_Writer/Melville,Herman/Moby-Dick.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Writer/English_Writer/Melville,Herman/Moby-Dick.public|Moby-Dick.public]] 
 
-### #is_/same_as :: [Moby-Dick.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/English_Writer/Melville,Herman/Moby-Dick.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Writer/English_Writer/Melville,Herman/Moby-Dick.internal|Moby-Dick.internal]] 
 
-### #is_/same_as :: [Moby-Dick.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/English_Writer/Melville,Herman/Moby-Dick.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Writer/English_Writer/Melville,Herman/Moby-Dick.protect|Moby-Dick.protect]] 
 
-### #is_/same_as :: [Moby-Dick.private](/_private/Society/Communication/Media/Writing/Book/Writer/English_Writer/Melville,Herman/Moby-Dick.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Writer/English_Writer/Melville,Herman/Moby-Dick.private|Moby-Dick.private]] 
 
-### #is_/same_as :: [Moby-Dick.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/English_Writer/Melville,Herman/Moby-Dick.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Writer/English_Writer/Melville,Herman/Moby-Dick.personal|Moby-Dick.personal]] 
 
-### #is_/same_as :: [Moby-Dick.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/English_Writer/Melville,Herman/Moby-Dick.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Writer/English_Writer/Melville,Herman/Moby-Dick.secret|Moby-Dick.secret]] 
 

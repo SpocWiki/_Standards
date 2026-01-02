@@ -56,17 +56,17 @@ Commons_category: Women's suffrage
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Women's_suffrage](/_Standards/Society/Social_Issues/Human_Rights/Women's_suffrage.md) 
+### #is_/same_as :: [[/_Standards/Society/Social_Issues/Human_Rights/Women's_suffrage|Women's_suffrage]] 
 
-### #is_/same_as :: [Women's_suffrage.public](/_public/Society/Social_Issues/Human_Rights/Women's_suffrage.public.md) 
+### #is_/same_as :: [[/_public/Society/Social_Issues/Human_Rights/Women's_suffrage.public|Women's_suffrage.public]] 
 
-### #is_/same_as :: [Women's_suffrage.internal](/_internal/Society/Social_Issues/Human_Rights/Women's_suffrage.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Social_Issues/Human_Rights/Women's_suffrage.internal|Women's_suffrage.internal]] 
 
-### #is_/same_as :: [Women's_suffrage.protect](/_protect/Society/Social_Issues/Human_Rights/Women's_suffrage.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Social_Issues/Human_Rights/Women's_suffrage.protect|Women's_suffrage.protect]] 
 
-### #is_/same_as :: [Women's_suffrage.private](/_private/Society/Social_Issues/Human_Rights/Women's_suffrage.private.md) 
+### #is_/same_as :: [[/_private/Society/Social_Issues/Human_Rights/Women's_suffrage.private|Women's_suffrage.private]] 
 
-### #is_/same_as :: [Women's_suffrage.personal](/_personal/Society/Social_Issues/Human_Rights/Women's_suffrage.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Social_Issues/Human_Rights/Women's_suffrage.personal|Women's_suffrage.personal]] 
 
-### #is_/same_as :: [Women's_suffrage.secret](/_secret/Society/Social_Issues/Human_Rights/Women's_suffrage.secret.md)
+### #is_/same_as :: [[/_secret/Society/Social_Issues/Human_Rights/Women's_suffrage.secret|Women's_suffrage.secret]] 
 

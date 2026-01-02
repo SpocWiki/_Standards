@@ -46,17 +46,17 @@ has_id_wikidata: ''
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Pseudo-Force](/_Standards/Science/Physics/Force/Pseudo-Force.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Force/Pseudo-Force|Pseudo-Force]] 
 
-### #is_/same_as :: [Pseudo-Force.public](/_public/Science/Physics/Force/Pseudo-Force.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Force/Pseudo-Force.public|Pseudo-Force.public]] 
 
-### #is_/same_as :: [Pseudo-Force.internal](/_internal/Science/Physics/Force/Pseudo-Force.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Force/Pseudo-Force.internal|Pseudo-Force.internal]] 
 
-### #is_/same_as :: [Pseudo-Force.protect](/_protect/Science/Physics/Force/Pseudo-Force.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Force/Pseudo-Force.protect|Pseudo-Force.protect]] 
 
-### #is_/same_as :: [Pseudo-Force.private](/_private/Science/Physics/Force/Pseudo-Force.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Force/Pseudo-Force.private|Pseudo-Force.private]] 
 
-### #is_/same_as :: [Pseudo-Force.personal](/_personal/Science/Physics/Force/Pseudo-Force.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Force/Pseudo-Force.personal|Pseudo-Force.personal]] 
 
-### #is_/same_as :: [Pseudo-Force.secret](/_secret/Science/Physics/Force/Pseudo-Force.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Force/Pseudo-Force.secret|Pseudo-Force.secret]] 
 

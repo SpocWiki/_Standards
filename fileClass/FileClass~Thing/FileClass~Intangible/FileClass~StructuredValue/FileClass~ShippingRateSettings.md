@@ -100,17 +100,17 @@ ShippingRate:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~ShippingRateSettings](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~ShippingRateSettings.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~ShippingRateSettings|FileClass~ShippingRateSettings]] 
 
-### #is_/same_as :: [FileClass~ShippingRateSettings.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~ShippingRateSettings.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~ShippingRateSettings.public|FileClass~ShippingRateSettings.public]] 
 
-### #is_/same_as :: [FileClass~ShippingRateSettings.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~ShippingRateSettings.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~ShippingRateSettings.internal|FileClass~ShippingRateSettings.internal]] 
 
-### #is_/same_as :: [FileClass~ShippingRateSettings.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~ShippingRateSettings.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~ShippingRateSettings.protect|FileClass~ShippingRateSettings.protect]] 
 
-### #is_/same_as :: [FileClass~ShippingRateSettings.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~ShippingRateSettings.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~ShippingRateSettings.private|FileClass~ShippingRateSettings.private]] 
 
-### #is_/same_as :: [FileClass~ShippingRateSettings.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~ShippingRateSettings.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~ShippingRateSettings.personal|FileClass~ShippingRateSettings.personal]] 
 
-### #is_/same_as :: [FileClass~ShippingRateSettings.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~ShippingRateSettings.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~ShippingRateSettings.secret|FileClass~ShippingRateSettings.secret]] 
 

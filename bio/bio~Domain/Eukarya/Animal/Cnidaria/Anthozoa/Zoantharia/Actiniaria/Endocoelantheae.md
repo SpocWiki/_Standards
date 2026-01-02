@@ -57,17 +57,17 @@ volume 1, number 1.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Endocoelantheae](/_Standards/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Endocoelantheae.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Endocoelantheae|Endocoelantheae]] 
 
-### #is_/same_as :: [Endocoelantheae.public](/_public/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Endocoelantheae.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Endocoelantheae.public|Endocoelantheae.public]] 
 
-### #is_/same_as :: [Endocoelantheae.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Endocoelantheae.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Endocoelantheae.internal|Endocoelantheae.internal]] 
 
-### #is_/same_as :: [Endocoelantheae.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Endocoelantheae.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Endocoelantheae.protect|Endocoelantheae.protect]] 
 
-### #is_/same_as :: [Endocoelantheae.private](/_private/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Endocoelantheae.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Endocoelantheae.private|Endocoelantheae.private]] 
 
-### #is_/same_as :: [Endocoelantheae.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Endocoelantheae.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Endocoelantheae.personal|Endocoelantheae.personal]] 
 
-### #is_/same_as :: [Endocoelantheae.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Endocoelantheae.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Endocoelantheae.secret|Endocoelantheae.secret]] 
 

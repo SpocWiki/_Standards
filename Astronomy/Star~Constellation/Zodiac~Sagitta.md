@@ -50,17 +50,17 @@ short_name: Sge
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Zodiac~Sagitta](/_Standards/Astronomy/Star~Constellation/Zodiac~Sagitta.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Star~Constellation/Zodiac~Sagitta|Zodiac~Sagitta]] 
 
-### #is_/same_as :: [Zodiac~Sagitta.public](/_public/Astronomy/Star~Constellation/Zodiac~Sagitta.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Star~Constellation/Zodiac~Sagitta.public|Zodiac~Sagitta.public]] 
 
-### #is_/same_as :: [Zodiac~Sagitta.internal](/_internal/Astronomy/Star~Constellation/Zodiac~Sagitta.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Star~Constellation/Zodiac~Sagitta.internal|Zodiac~Sagitta.internal]] 
 
-### #is_/same_as :: [Zodiac~Sagitta.protect](/_protect/Astronomy/Star~Constellation/Zodiac~Sagitta.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Star~Constellation/Zodiac~Sagitta.protect|Zodiac~Sagitta.protect]] 
 
-### #is_/same_as :: [Zodiac~Sagitta.private](/_private/Astronomy/Star~Constellation/Zodiac~Sagitta.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Star~Constellation/Zodiac~Sagitta.private|Zodiac~Sagitta.private]] 
 
-### #is_/same_as :: [Zodiac~Sagitta.personal](/_personal/Astronomy/Star~Constellation/Zodiac~Sagitta.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Star~Constellation/Zodiac~Sagitta.personal|Zodiac~Sagitta.personal]] 
 
-### #is_/same_as :: [Zodiac~Sagitta.secret](/_secret/Astronomy/Star~Constellation/Zodiac~Sagitta.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Star~Constellation/Zodiac~Sagitta.secret|Zodiac~Sagitta.secret]] 
 

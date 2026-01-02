@@ -71,17 +71,17 @@ NBN_System_Key: NHMSYS0000459894
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ipomoea](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Solanales/Convolvulaceae/Ipomoea.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Solanales/Convolvulaceae/Ipomoea|Ipomoea]] 
 
-### #is_/same_as :: [Ipomoea.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Solanales/Convolvulaceae/Ipomoea.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Solanales/Convolvulaceae/Ipomoea.public|Ipomoea.public]] 
 
-### #is_/same_as :: [Ipomoea.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Solanales/Convolvulaceae/Ipomoea.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Solanales/Convolvulaceae/Ipomoea.internal|Ipomoea.internal]] 
 
-### #is_/same_as :: [Ipomoea.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Solanales/Convolvulaceae/Ipomoea.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Solanales/Convolvulaceae/Ipomoea.protect|Ipomoea.protect]] 
 
-### #is_/same_as :: [Ipomoea.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Solanales/Convolvulaceae/Ipomoea.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Solanales/Convolvulaceae/Ipomoea.private|Ipomoea.private]] 
 
-### #is_/same_as :: [Ipomoea.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Solanales/Convolvulaceae/Ipomoea.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Solanales/Convolvulaceae/Ipomoea.personal|Ipomoea.personal]] 
 
-### #is_/same_as :: [Ipomoea.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Solanales/Convolvulaceae/Ipomoea.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Solanales/Convolvulaceae/Ipomoea.secret|Ipomoea.secret]] 
 

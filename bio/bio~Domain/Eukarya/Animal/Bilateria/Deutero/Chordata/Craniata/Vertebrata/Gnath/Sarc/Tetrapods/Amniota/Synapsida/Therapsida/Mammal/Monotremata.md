@@ -110,14 +110,14 @@ taxon_name: Monotremata
 ## Title Illustrations
 
 ------------------------------------------------------------------------------ 
-![](Monotremata/sbechidna.jpg))
+![](Monotremata/sbechidna.jpg) 
 Scientific Name ::  Tachyglossus aculeatus
 Location ::        Cradle Mountain National Park, Tasmania
 Comments          Short-beaked echidna
 Copyright ::         © 1995 [Greg and Marybeth Dimijian](http://www.dimijianimages.com/) 
 
 ------------------------------------------------------------------------------ 
-![](Monotremata/Ornithorhynchus_anatinus.jpg))
+![](Monotremata/Ornithorhynchus_anatinus.jpg) 
 Scientific Name ::     Ornithorhynchus anatinus
 Comments             Duck-billed platypus
 Creator              Lloyd Glenn Ingles
@@ -128,17 +128,17 @@ Copyright ::            © 2001 [California Academy of Sciences](http://www.cala
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Monotremata](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Monotremata.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Monotremata|Monotremata]] 
 
-### #is_/same_as :: [Monotremata.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Monotremata.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Monotremata.public|Monotremata.public]] 
 
-### #is_/same_as :: [Monotremata.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Monotremata.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Monotremata.internal|Monotremata.internal]] 
 
-### #is_/same_as :: [Monotremata.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Monotremata.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Monotremata.protect|Monotremata.protect]] 
 
-### #is_/same_as :: [Monotremata.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Monotremata.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Monotremata.private|Monotremata.private]] 
 
-### #is_/same_as :: [Monotremata.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Monotremata.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Monotremata.personal|Monotremata.personal]] 
 
-### #is_/same_as :: [Monotremata.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Monotremata.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Monotremata.secret|Monotremata.secret]] 
 

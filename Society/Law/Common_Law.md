@@ -79,17 +79,17 @@ Commons_category: Common law
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Common_Law](/_Standards/Society/Law/Common_Law.md) 
+### #is_/same_as :: [[/_Standards/Society/Law/Common_Law|Common_Law]] 
 
-### #is_/same_as :: [Common_Law.public](/_public/Society/Law/Common_Law.public.md) 
+### #is_/same_as :: [[/_public/Society/Law/Common_Law.public|Common_Law.public]] 
 
-### #is_/same_as :: [Common_Law.internal](/_internal/Society/Law/Common_Law.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Law/Common_Law.internal|Common_Law.internal]] 
 
-### #is_/same_as :: [Common_Law.protect](/_protect/Society/Law/Common_Law.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Law/Common_Law.protect|Common_Law.protect]] 
 
-### #is_/same_as :: [Common_Law.private](/_private/Society/Law/Common_Law.private.md) 
+### #is_/same_as :: [[/_private/Society/Law/Common_Law.private|Common_Law.private]] 
 
-### #is_/same_as :: [Common_Law.personal](/_personal/Society/Law/Common_Law.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Law/Common_Law.personal|Common_Law.personal]] 
 
-### #is_/same_as :: [Common_Law.secret](/_secret/Society/Law/Common_Law.secret.md)
+### #is_/same_as :: [[/_secret/Society/Law/Common_Law.secret|Common_Law.secret]] 
 

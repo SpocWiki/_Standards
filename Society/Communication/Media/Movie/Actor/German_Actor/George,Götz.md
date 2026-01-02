@@ -52,17 +52,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [George,Götz](/_Standards/Society/Communication/Media/Movie/Actor/German_Actor/George,Götz.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Actor/German_Actor/George,Götz|George,Götz]] 
 
-### #is_/same_as :: [George,Götz.public](/_public/Society/Communication/Media/Movie/Actor/German_Actor/George,Götz.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Actor/German_Actor/George,Götz.public|George,Götz.public]] 
 
-### #is_/same_as :: [George,Götz.internal](/_internal/Society/Communication/Media/Movie/Actor/German_Actor/George,Götz.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Actor/German_Actor/George,Götz.internal|George,Götz.internal]] 
 
-### #is_/same_as :: [George,Götz.protect](/_protect/Society/Communication/Media/Movie/Actor/German_Actor/George,Götz.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Actor/German_Actor/George,Götz.protect|George,Götz.protect]] 
 
-### #is_/same_as :: [George,Götz.private](/_private/Society/Communication/Media/Movie/Actor/German_Actor/George,Götz.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Actor/German_Actor/George,Götz.private|George,Götz.private]] 
 
-### #is_/same_as :: [George,Götz.personal](/_personal/Society/Communication/Media/Movie/Actor/German_Actor/George,Götz.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Actor/German_Actor/George,Götz.personal|George,Götz.personal]] 
 
-### #is_/same_as :: [George,Götz.secret](/_secret/Society/Communication/Media/Movie/Actor/German_Actor/George,Götz.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Actor/German_Actor/George,Götz.secret|George,Götz.secret]] 
 

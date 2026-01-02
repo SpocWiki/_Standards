@@ -42,17 +42,17 @@ Nonprofit501c6: Non-profit type referring to Business Leagues, Chambers of Comme
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Nonprofit501c6](/_Standards/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c6.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c6|Nonprofit501c6]] 
 
-### #is_/same_as :: [Nonprofit501c6.public](/_public/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c6.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c6.public|Nonprofit501c6.public]] 
 
-### #is_/same_as :: [Nonprofit501c6.internal](/_internal/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c6.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c6.internal|Nonprofit501c6.internal]] 
 
-### #is_/same_as :: [Nonprofit501c6.protect](/_protect/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c6.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c6.protect|Nonprofit501c6.protect]] 
 
-### #is_/same_as :: [Nonprofit501c6.private](/_private/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c6.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c6.private|Nonprofit501c6.private]] 
 
-### #is_/same_as :: [Nonprofit501c6.personal](/_personal/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c6.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c6.personal|Nonprofit501c6.personal]] 
 
-### #is_/same_as :: [Nonprofit501c6.secret](/_secret/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c6.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c6.secret|Nonprofit501c6.secret]] 
 

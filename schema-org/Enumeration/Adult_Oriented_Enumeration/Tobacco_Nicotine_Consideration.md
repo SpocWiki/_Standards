@@ -44,17 +44,17 @@ Item contains tobacco and/or nicotine, for example cigars, cigarettes, chewing t
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Tobacco_Nicotine_Consideration](/_Standards/schema-org/Enumeration/Adult_Oriented_Enumeration/Tobacco_Nicotine_Consideration.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Adult_Oriented_Enumeration/Tobacco_Nicotine_Consideration|Tobacco_Nicotine_Consideration]] 
 
-### #is_/same_as :: [Tobacco_Nicotine_Consideration.public](/_public/schema-org/Enumeration/Adult_Oriented_Enumeration/Tobacco_Nicotine_Consideration.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Adult_Oriented_Enumeration/Tobacco_Nicotine_Consideration.public|Tobacco_Nicotine_Consideration.public]] 
 
-### #is_/same_as :: [Tobacco_Nicotine_Consideration.internal](/_internal/schema-org/Enumeration/Adult_Oriented_Enumeration/Tobacco_Nicotine_Consideration.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Adult_Oriented_Enumeration/Tobacco_Nicotine_Consideration.internal|Tobacco_Nicotine_Consideration.internal]] 
 
-### #is_/same_as :: [Tobacco_Nicotine_Consideration.protect](/_protect/schema-org/Enumeration/Adult_Oriented_Enumeration/Tobacco_Nicotine_Consideration.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Adult_Oriented_Enumeration/Tobacco_Nicotine_Consideration.protect|Tobacco_Nicotine_Consideration.protect]] 
 
-### #is_/same_as :: [Tobacco_Nicotine_Consideration.private](/_private/schema-org/Enumeration/Adult_Oriented_Enumeration/Tobacco_Nicotine_Consideration.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Adult_Oriented_Enumeration/Tobacco_Nicotine_Consideration.private|Tobacco_Nicotine_Consideration.private]] 
 
-### #is_/same_as :: [Tobacco_Nicotine_Consideration.personal](/_personal/schema-org/Enumeration/Adult_Oriented_Enumeration/Tobacco_Nicotine_Consideration.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Adult_Oriented_Enumeration/Tobacco_Nicotine_Consideration.personal|Tobacco_Nicotine_Consideration.personal]] 
 
-### #is_/same_as :: [Tobacco_Nicotine_Consideration.secret](/_secret/schema-org/Enumeration/Adult_Oriented_Enumeration/Tobacco_Nicotine_Consideration.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Adult_Oriented_Enumeration/Tobacco_Nicotine_Consideration.secret|Tobacco_Nicotine_Consideration.secret]] 
 

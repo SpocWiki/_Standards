@@ -58,17 +58,17 @@ coordinate_location: Point(14.0 42.0)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Italian_Peninsula](/_Standards/Earth/Continent/Europe/Italian_Peninsula.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Italian_Peninsula|Italian_Peninsula]] 
 
-### #is_/same_as :: [Italian_Peninsula.public](/_public/Earth/Continent/Europe/Italian_Peninsula.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Italian_Peninsula.public|Italian_Peninsula.public]] 
 
-### #is_/same_as :: [Italian_Peninsula.internal](/_internal/Earth/Continent/Europe/Italian_Peninsula.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Italian_Peninsula.internal|Italian_Peninsula.internal]] 
 
-### #is_/same_as :: [Italian_Peninsula.protect](/_protect/Earth/Continent/Europe/Italian_Peninsula.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Italian_Peninsula.protect|Italian_Peninsula.protect]] 
 
-### #is_/same_as :: [Italian_Peninsula.private](/_private/Earth/Continent/Europe/Italian_Peninsula.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Italian_Peninsula.private|Italian_Peninsula.private]] 
 
-### #is_/same_as :: [Italian_Peninsula.personal](/_personal/Earth/Continent/Europe/Italian_Peninsula.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Italian_Peninsula.personal|Italian_Peninsula.personal]] 
 
-### #is_/same_as :: [Italian_Peninsula.secret](/_secret/Earth/Continent/Europe/Italian_Peninsula.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Italian_Peninsula.secret|Italian_Peninsula.secret]] 
 

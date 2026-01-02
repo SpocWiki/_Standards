@@ -26,7 +26,7 @@ Paulo, Brazil.
 ### Distribution
 
 Gruta dos Paiva, Iporanga, Sao Paulo, Brazil.
-![ ](leptochela/_leptochela1.jpg))
+![ ](leptochela/_leptochela1.jpg) 
 
 © 1994 Georgina Bond-Buckup, Ludwig Buckup
 ### References
@@ -125,17 +125,17 @@ Copyright ::         © 1994 Georgina Bond-Buckup, Ludwig Buckup
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [leptochela](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Anomura/Aeglidae/leptochela.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Anomura/Aeglidae/leptochela|leptochela]] 
 
-### #is_/same_as :: [leptochela.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Anomura/Aeglidae/leptochela.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Anomura/Aeglidae/leptochela.public|leptochela.public]] 
 
-### #is_/same_as :: [leptochela.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Anomura/Aeglidae/leptochela.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Anomura/Aeglidae/leptochela.internal|leptochela.internal]] 
 
-### #is_/same_as :: [leptochela.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Anomura/Aeglidae/leptochela.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Anomura/Aeglidae/leptochela.protect|leptochela.protect]] 
 
-### #is_/same_as :: [leptochela.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Anomura/Aeglidae/leptochela.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Anomura/Aeglidae/leptochela.private|leptochela.private]] 
 
-### #is_/same_as :: [leptochela.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Anomura/Aeglidae/leptochela.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Anomura/Aeglidae/leptochela.personal|leptochela.personal]] 
 
-### #is_/same_as :: [leptochela.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Anomura/Aeglidae/leptochela.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Anomura/Aeglidae/leptochela.secret|leptochela.secret]] 
 

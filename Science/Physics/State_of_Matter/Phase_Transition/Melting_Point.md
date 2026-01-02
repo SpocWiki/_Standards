@@ -42,17 +42,17 @@ Commons_category: Melting point
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Melting_Point](/_Standards/Science/Physics/State_of_Matter/Phase_Transition/Melting_Point.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/State_of_Matter/Phase_Transition/Melting_Point|Melting_Point]] 
 
-### #is_/same_as :: [Melting_Point.public](/_public/Science/Physics/State_of_Matter/Phase_Transition/Melting_Point.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/State_of_Matter/Phase_Transition/Melting_Point.public|Melting_Point.public]] 
 
-### #is_/same_as :: [Melting_Point.internal](/_internal/Science/Physics/State_of_Matter/Phase_Transition/Melting_Point.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/State_of_Matter/Phase_Transition/Melting_Point.internal|Melting_Point.internal]] 
 
-### #is_/same_as :: [Melting_Point.protect](/_protect/Science/Physics/State_of_Matter/Phase_Transition/Melting_Point.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/State_of_Matter/Phase_Transition/Melting_Point.protect|Melting_Point.protect]] 
 
-### #is_/same_as :: [Melting_Point.private](/_private/Science/Physics/State_of_Matter/Phase_Transition/Melting_Point.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/State_of_Matter/Phase_Transition/Melting_Point.private|Melting_Point.private]] 
 
-### #is_/same_as :: [Melting_Point.personal](/_personal/Science/Physics/State_of_Matter/Phase_Transition/Melting_Point.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/State_of_Matter/Phase_Transition/Melting_Point.personal|Melting_Point.personal]] 
 
-### #is_/same_as :: [Melting_Point.secret](/_secret/Science/Physics/State_of_Matter/Phase_Transition/Melting_Point.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/State_of_Matter/Phase_Transition/Melting_Point.secret|Melting_Point.secret]] 
 

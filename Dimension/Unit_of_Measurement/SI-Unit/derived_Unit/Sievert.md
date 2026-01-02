@@ -77,17 +77,17 @@ short_name:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sievert](/_Standards/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Sievert.md) 
+### #is_/same_as :: [[/_Standards/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Sievert|Sievert]] 
 
-### #is_/same_as :: [Sievert.public](/_public/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Sievert.public.md) 
+### #is_/same_as :: [[/_public/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Sievert.public|Sievert.public]] 
 
-### #is_/same_as :: [Sievert.internal](/_internal/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Sievert.internal.md) 
+### #is_/same_as :: [[/_internal/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Sievert.internal|Sievert.internal]] 
 
-### #is_/same_as :: [Sievert.protect](/_protect/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Sievert.protect.md) 
+### #is_/same_as :: [[/_protect/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Sievert.protect|Sievert.protect]] 
 
-### #is_/same_as :: [Sievert.private](/_private/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Sievert.private.md) 
+### #is_/same_as :: [[/_private/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Sievert.private|Sievert.private]] 
 
-### #is_/same_as :: [Sievert.personal](/_personal/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Sievert.personal.md) 
+### #is_/same_as :: [[/_personal/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Sievert.personal|Sievert.personal]] 
 
-### #is_/same_as :: [Sievert.secret](/_secret/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Sievert.secret.md)
+### #is_/same_as :: [[/_secret/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Sievert.secret|Sievert.secret]] 
 

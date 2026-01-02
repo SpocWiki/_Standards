@@ -41,17 +41,17 @@ The act of discovering/finding an object.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Discover_Action](/_Standards/schema-org/Class/is_a_/Action/Find_Action/Discover_Action.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Action/Find_Action/Discover_Action|Discover_Action]] 
 
-### #is_/same_as :: [Discover_Action.public](/_public/schema-org/Class/is_a_/Action/Find_Action/Discover_Action.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Action/Find_Action/Discover_Action.public|Discover_Action.public]] 
 
-### #is_/same_as :: [Discover_Action.internal](/_internal/schema-org/Class/is_a_/Action/Find_Action/Discover_Action.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Action/Find_Action/Discover_Action.internal|Discover_Action.internal]] 
 
-### #is_/same_as :: [Discover_Action.protect](/_protect/schema-org/Class/is_a_/Action/Find_Action/Discover_Action.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Action/Find_Action/Discover_Action.protect|Discover_Action.protect]] 
 
-### #is_/same_as :: [Discover_Action.private](/_private/schema-org/Class/is_a_/Action/Find_Action/Discover_Action.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Action/Find_Action/Discover_Action.private|Discover_Action.private]] 
 
-### #is_/same_as :: [Discover_Action.personal](/_personal/schema-org/Class/is_a_/Action/Find_Action/Discover_Action.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Action/Find_Action/Discover_Action.personal|Discover_Action.personal]] 
 
-### #is_/same_as :: [Discover_Action.secret](/_secret/schema-org/Class/is_a_/Action/Find_Action/Discover_Action.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Action/Find_Action/Discover_Action.secret|Discover_Action.secret]] 
 

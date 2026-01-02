@@ -108,17 +108,17 @@ Wolfram_Language_entity_code: Entity["Concept", "Psychotherapy::r62n5"]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Psychotherapy](/_Standards/bio/Psychology/Psychotherapy.md) 
+### #is_/same_as :: [[/_Standards/bio/Psychology/Psychotherapy|Psychotherapy]] 
 
-### #is_/same_as :: [Psychotherapy.public](/_public/bio/Psychology/Psychotherapy.public.md) 
+### #is_/same_as :: [[/_public/bio/Psychology/Psychotherapy.public|Psychotherapy.public]] 
 
-### #is_/same_as :: [Psychotherapy.internal](/_internal/bio/Psychology/Psychotherapy.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Psychology/Psychotherapy.internal|Psychotherapy.internal]] 
 
-### #is_/same_as :: [Psychotherapy.protect](/_protect/bio/Psychology/Psychotherapy.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Psychology/Psychotherapy.protect|Psychotherapy.protect]] 
 
-### #is_/same_as :: [Psychotherapy.private](/_private/bio/Psychology/Psychotherapy.private.md) 
+### #is_/same_as :: [[/_private/bio/Psychology/Psychotherapy.private|Psychotherapy.private]] 
 
-### #is_/same_as :: [Psychotherapy.personal](/_personal/bio/Psychology/Psychotherapy.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Psychology/Psychotherapy.personal|Psychotherapy.personal]] 
 
-### #is_/same_as :: [Psychotherapy.secret](/_secret/bio/Psychology/Psychotherapy.secret.md)
+### #is_/same_as :: [[/_secret/bio/Psychology/Psychotherapy.secret|Psychotherapy.secret]] 
 

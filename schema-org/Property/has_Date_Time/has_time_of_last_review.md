@@ -42,17 +42,17 @@ Formal Predicate:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_time_of_last_review](/_Standards/schema-org/Property/has_Date_Time/has_time_of_last_review.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_Date_Time/has_time_of_last_review|has_time_of_last_review]] 
 
-### #is_/same_as :: [has_time_of_last_review.public](/_public/schema-org/Property/has_Date_Time/has_time_of_last_review.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/has_Date_Time/has_time_of_last_review.public|has_time_of_last_review.public]] 
 
-### #is_/same_as :: [has_time_of_last_review.internal](/_internal/schema-org/Property/has_Date_Time/has_time_of_last_review.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_Date_Time/has_time_of_last_review.internal|has_time_of_last_review.internal]] 
 
-### #is_/same_as :: [has_time_of_last_review.protect](/_protect/schema-org/Property/has_Date_Time/has_time_of_last_review.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_Date_Time/has_time_of_last_review.protect|has_time_of_last_review.protect]] 
 
-### #is_/same_as :: [has_time_of_last_review.private](/_private/schema-org/Property/has_Date_Time/has_time_of_last_review.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/has_Date_Time/has_time_of_last_review.private|has_time_of_last_review.private]] 
 
-### #is_/same_as :: [has_time_of_last_review.personal](/_personal/schema-org/Property/has_Date_Time/has_time_of_last_review.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_Date_Time/has_time_of_last_review.personal|has_time_of_last_review.personal]] 
 
-### #is_/same_as :: [has_time_of_last_review.secret](/_secret/schema-org/Property/has_Date_Time/has_time_of_last_review.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/has_Date_Time/has_time_of_last_review.secret|has_time_of_last_review.secret]] 
 

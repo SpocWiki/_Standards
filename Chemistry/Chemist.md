@@ -127,17 +127,17 @@ Provenio_UUID: f83caaf6-c4ad-4caa-8727-11e1effec5d9
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Chemist](/_Standards/Chemistry/Chemist.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Chemist|Chemist]] 
 
-### #is_/same_as :: [Chemist.public](/_public/Chemistry/Chemist.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Chemist.public|Chemist.public]] 
 
-### #is_/same_as :: [Chemist.internal](/_internal/Chemistry/Chemist.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Chemist.internal|Chemist.internal]] 
 
-### #is_/same_as :: [Chemist.protect](/_protect/Chemistry/Chemist.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Chemist.protect|Chemist.protect]] 
 
-### #is_/same_as :: [Chemist.private](/_private/Chemistry/Chemist.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Chemist.private|Chemist.private]] 
 
-### #is_/same_as :: [Chemist.personal](/_personal/Chemistry/Chemist.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Chemist.personal|Chemist.personal]] 
 
-### #is_/same_as :: [Chemist.secret](/_secret/Chemistry/Chemist.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Chemist.secret|Chemist.secret]] 
 

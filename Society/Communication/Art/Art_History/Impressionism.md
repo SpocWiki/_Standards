@@ -59,17 +59,17 @@ Krugosvet_article_archived_: kultura_i_obrazovanie/izobrazitelnoe_iskusstvo/IMPR
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Impressionism](/_Standards/Society/Communication/Art/Art_History/Impressionism.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Art/Art_History/Impressionism|Impressionism]] 
 
-### #is_/same_as :: [Impressionism.public](/_public/Society/Communication/Art/Art_History/Impressionism.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Art/Art_History/Impressionism.public|Impressionism.public]] 
 
-### #is_/same_as :: [Impressionism.internal](/_internal/Society/Communication/Art/Art_History/Impressionism.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Art/Art_History/Impressionism.internal|Impressionism.internal]] 
 
-### #is_/same_as :: [Impressionism.protect](/_protect/Society/Communication/Art/Art_History/Impressionism.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Art/Art_History/Impressionism.protect|Impressionism.protect]] 
 
-### #is_/same_as :: [Impressionism.private](/_private/Society/Communication/Art/Art_History/Impressionism.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Art/Art_History/Impressionism.private|Impressionism.private]] 
 
-### #is_/same_as :: [Impressionism.personal](/_personal/Society/Communication/Art/Art_History/Impressionism.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Art/Art_History/Impressionism.personal|Impressionism.personal]] 
 
-### #is_/same_as :: [Impressionism.secret](/_secret/Society/Communication/Art/Art_History/Impressionism.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Art/Art_History/Impressionism.secret|Impressionism.secret]] 
 

@@ -44,17 +44,17 @@ direction LR
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [surjective](/_Standards/Mathematics/Function(Math)/surjective.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Function(Math)/surjective|surjective]] 
 
-### #is_/same_as :: [surjective.public](/_public/Mathematics/Function(Math)/surjective.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Function(Math)/surjective.public|surjective.public]] 
 
-### #is_/same_as :: [surjective.internal](/_internal/Mathematics/Function(Math)/surjective.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Function(Math)/surjective.internal|surjective.internal]] 
 
-### #is_/same_as :: [surjective.protect](/_protect/Mathematics/Function(Math)/surjective.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Function(Math)/surjective.protect|surjective.protect]] 
 
-### #is_/same_as :: [surjective.private](/_private/Mathematics/Function(Math)/surjective.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Function(Math)/surjective.private|surjective.private]] 
 
-### #is_/same_as :: [surjective.personal](/_personal/Mathematics/Function(Math)/surjective.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Function(Math)/surjective.personal|surjective.personal]] 
 
-### #is_/same_as :: [surjective.secret](/_secret/Mathematics/Function(Math)/surjective.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Function(Math)/surjective.secret|surjective.secret]] 
 

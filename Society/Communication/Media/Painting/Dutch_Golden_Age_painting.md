@@ -69,17 +69,17 @@ Commons_category: Dutch Golden Age paintings
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Dutch_Golden_Age_painting](/_Standards/Society/Communication/Media/Painting/Dutch_Golden_Age_painting.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Painting/Dutch_Golden_Age_painting|Dutch_Golden_Age_painting]] 
 
-### #is_/same_as :: [Dutch_Golden_Age_painting.public](/_public/Society/Communication/Media/Painting/Dutch_Golden_Age_painting.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Painting/Dutch_Golden_Age_painting.public|Dutch_Golden_Age_painting.public]] 
 
-### #is_/same_as :: [Dutch_Golden_Age_painting.internal](/_internal/Society/Communication/Media/Painting/Dutch_Golden_Age_painting.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Painting/Dutch_Golden_Age_painting.internal|Dutch_Golden_Age_painting.internal]] 
 
-### #is_/same_as :: [Dutch_Golden_Age_painting.protect](/_protect/Society/Communication/Media/Painting/Dutch_Golden_Age_painting.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Painting/Dutch_Golden_Age_painting.protect|Dutch_Golden_Age_painting.protect]] 
 
-### #is_/same_as :: [Dutch_Golden_Age_painting.private](/_private/Society/Communication/Media/Painting/Dutch_Golden_Age_painting.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Painting/Dutch_Golden_Age_painting.private|Dutch_Golden_Age_painting.private]] 
 
-### #is_/same_as :: [Dutch_Golden_Age_painting.personal](/_personal/Society/Communication/Media/Painting/Dutch_Golden_Age_painting.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Painting/Dutch_Golden_Age_painting.personal|Dutch_Golden_Age_painting.personal]] 
 
-### #is_/same_as :: [Dutch_Golden_Age_painting.secret](/_secret/Society/Communication/Media/Painting/Dutch_Golden_Age_painting.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Painting/Dutch_Golden_Age_painting.secret|Dutch_Golden_Age_painting.secret]] 
 

@@ -62,17 +62,17 @@ Commons_category: Screws
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Screw](/_Standards/Technology/Engineering/Mechanical_Engineering/Screw.md) 
+### #is_/same_as :: [[/_Standards/Technology/Engineering/Mechanical_Engineering/Screw|Screw]] 
 
-### #is_/same_as :: [Screw.public](/_public/Technology/Engineering/Mechanical_Engineering/Screw.public.md) 
+### #is_/same_as :: [[/_public/Technology/Engineering/Mechanical_Engineering/Screw.public|Screw.public]] 
 
-### #is_/same_as :: [Screw.internal](/_internal/Technology/Engineering/Mechanical_Engineering/Screw.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Engineering/Mechanical_Engineering/Screw.internal|Screw.internal]] 
 
-### #is_/same_as :: [Screw.protect](/_protect/Technology/Engineering/Mechanical_Engineering/Screw.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Engineering/Mechanical_Engineering/Screw.protect|Screw.protect]] 
 
-### #is_/same_as :: [Screw.private](/_private/Technology/Engineering/Mechanical_Engineering/Screw.private.md) 
+### #is_/same_as :: [[/_private/Technology/Engineering/Mechanical_Engineering/Screw.private|Screw.private]] 
 
-### #is_/same_as :: [Screw.personal](/_personal/Technology/Engineering/Mechanical_Engineering/Screw.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Engineering/Mechanical_Engineering/Screw.personal|Screw.personal]] 
 
-### #is_/same_as :: [Screw.secret](/_secret/Technology/Engineering/Mechanical_Engineering/Screw.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Engineering/Mechanical_Engineering/Screw.secret|Screw.secret]] 
 

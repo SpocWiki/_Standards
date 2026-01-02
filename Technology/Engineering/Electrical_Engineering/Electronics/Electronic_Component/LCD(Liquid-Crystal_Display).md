@@ -56,17 +56,17 @@ IEV_number: 845-32-037
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [LCD(Liquid-Crystal_Display)](/_Standards/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/LCD(Liquid-Crystal_Display).md) 
+### #is_/same_as :: [[/_Standards/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/LCD(Liquid-Crystal_Display)|LCD(Liquid-Crystal_Display)]] 
 
-### #is_/same_as :: [LCD(Liquid-Crystal_Display).public](/_public/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/LCD(Liquid-Crystal_Display).public.md) 
+### #is_/same_as :: [[/_public/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/LCD(Liquid-Crystal_Display).public|LCD(Liquid-Crystal_Display).public]] 
 
-### #is_/same_as :: [LCD(Liquid-Crystal_Display).internal](/_internal/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/LCD(Liquid-Crystal_Display).internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/LCD(Liquid-Crystal_Display).internal|LCD(Liquid-Crystal_Display).internal]] 
 
-### #is_/same_as :: [LCD(Liquid-Crystal_Display).protect](/_protect/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/LCD(Liquid-Crystal_Display).protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/LCD(Liquid-Crystal_Display).protect|LCD(Liquid-Crystal_Display).protect]] 
 
-### #is_/same_as :: [LCD(Liquid-Crystal_Display).private](/_private/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/LCD(Liquid-Crystal_Display).private.md) 
+### #is_/same_as :: [[/_private/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/LCD(Liquid-Crystal_Display).private|LCD(Liquid-Crystal_Display).private]] 
 
-### #is_/same_as :: [LCD(Liquid-Crystal_Display).personal](/_personal/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/LCD(Liquid-Crystal_Display).personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/LCD(Liquid-Crystal_Display).personal|LCD(Liquid-Crystal_Display).personal]] 
 
-### #is_/same_as :: [LCD(Liquid-Crystal_Display).secret](/_secret/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/LCD(Liquid-Crystal_Display).secret.md)
+### #is_/same_as :: [[/_secret/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/LCD(Liquid-Crystal_Display).secret|LCD(Liquid-Crystal_Display).secret]] 
 

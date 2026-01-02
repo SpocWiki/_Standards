@@ -49,17 +49,17 @@ Currency:: {"type":"Input","options":{}}
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~MonetaryAmountDistribution](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~QuantitativeValueDistribution/FileClass~MonetaryAmountDistribution.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~QuantitativeValueDistribution/FileClass~MonetaryAmountDistribution|FileClass~MonetaryAmountDistribution]] 
 
-### #is_/same_as :: [FileClass~MonetaryAmountDistribution.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~QuantitativeValueDistribution/FileClass~MonetaryAmountDistribution.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~QuantitativeValueDistribution/FileClass~MonetaryAmountDistribution.public|FileClass~MonetaryAmountDistribution.public]] 
 
-### #is_/same_as :: [FileClass~MonetaryAmountDistribution.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~QuantitativeValueDistribution/FileClass~MonetaryAmountDistribution.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~QuantitativeValueDistribution/FileClass~MonetaryAmountDistribution.internal|FileClass~MonetaryAmountDistribution.internal]] 
 
-### #is_/same_as :: [FileClass~MonetaryAmountDistribution.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~QuantitativeValueDistribution/FileClass~MonetaryAmountDistribution.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~QuantitativeValueDistribution/FileClass~MonetaryAmountDistribution.protect|FileClass~MonetaryAmountDistribution.protect]] 
 
-### #is_/same_as :: [FileClass~MonetaryAmountDistribution.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~QuantitativeValueDistribution/FileClass~MonetaryAmountDistribution.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~QuantitativeValueDistribution/FileClass~MonetaryAmountDistribution.private|FileClass~MonetaryAmountDistribution.private]] 
 
-### #is_/same_as :: [FileClass~MonetaryAmountDistribution.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~QuantitativeValueDistribution/FileClass~MonetaryAmountDistribution.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~QuantitativeValueDistribution/FileClass~MonetaryAmountDistribution.personal|FileClass~MonetaryAmountDistribution.personal]] 
 
-### #is_/same_as :: [FileClass~MonetaryAmountDistribution.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~QuantitativeValueDistribution/FileClass~MonetaryAmountDistribution.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~QuantitativeValueDistribution/FileClass~MonetaryAmountDistribution.secret|FileClass~MonetaryAmountDistribution.secret]] 
 

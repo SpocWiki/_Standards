@@ -87,17 +87,17 @@ Unicode_character: 🤡
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Clown](/_Standards/Society/Communication/Media/Performing_Arts/Performer/Clown.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Performing_Arts/Performer/Clown|Clown]] 
 
-### #is_/same_as :: [Clown.public](/_public/Society/Communication/Media/Performing_Arts/Performer/Clown.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Performing_Arts/Performer/Clown.public|Clown.public]] 
 
-### #is_/same_as :: [Clown.internal](/_internal/Society/Communication/Media/Performing_Arts/Performer/Clown.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Performing_Arts/Performer/Clown.internal|Clown.internal]] 
 
-### #is_/same_as :: [Clown.protect](/_protect/Society/Communication/Media/Performing_Arts/Performer/Clown.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Performing_Arts/Performer/Clown.protect|Clown.protect]] 
 
-### #is_/same_as :: [Clown.private](/_private/Society/Communication/Media/Performing_Arts/Performer/Clown.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Performing_Arts/Performer/Clown.private|Clown.private]] 
 
-### #is_/same_as :: [Clown.personal](/_personal/Society/Communication/Media/Performing_Arts/Performer/Clown.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Performing_Arts/Performer/Clown.personal|Clown.personal]] 
 
-### #is_/same_as :: [Clown.secret](/_secret/Society/Communication/Media/Performing_Arts/Performer/Clown.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Performing_Arts/Performer/Clown.secret|Clown.secret]] 
 

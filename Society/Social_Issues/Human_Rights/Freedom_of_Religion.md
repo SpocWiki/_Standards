@@ -64,17 +64,17 @@ IPTC_NewsCode: mediatopic/20000590
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Freedom_of_Religion](/_Standards/Society/Social_Issues/Human_Rights/Freedom_of_Religion.md) 
+### #is_/same_as :: [[/_Standards/Society/Social_Issues/Human_Rights/Freedom_of_Religion|Freedom_of_Religion]] 
 
-### #is_/same_as :: [Freedom_of_Religion.public](/_public/Society/Social_Issues/Human_Rights/Freedom_of_Religion.public.md) 
+### #is_/same_as :: [[/_public/Society/Social_Issues/Human_Rights/Freedom_of_Religion.public|Freedom_of_Religion.public]] 
 
-### #is_/same_as :: [Freedom_of_Religion.internal](/_internal/Society/Social_Issues/Human_Rights/Freedom_of_Religion.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Social_Issues/Human_Rights/Freedom_of_Religion.internal|Freedom_of_Religion.internal]] 
 
-### #is_/same_as :: [Freedom_of_Religion.protect](/_protect/Society/Social_Issues/Human_Rights/Freedom_of_Religion.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Social_Issues/Human_Rights/Freedom_of_Religion.protect|Freedom_of_Religion.protect]] 
 
-### #is_/same_as :: [Freedom_of_Religion.private](/_private/Society/Social_Issues/Human_Rights/Freedom_of_Religion.private.md) 
+### #is_/same_as :: [[/_private/Society/Social_Issues/Human_Rights/Freedom_of_Religion.private|Freedom_of_Religion.private]] 
 
-### #is_/same_as :: [Freedom_of_Religion.personal](/_personal/Society/Social_Issues/Human_Rights/Freedom_of_Religion.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Social_Issues/Human_Rights/Freedom_of_Religion.personal|Freedom_of_Religion.personal]] 
 
-### #is_/same_as :: [Freedom_of_Religion.secret](/_secret/Society/Social_Issues/Human_Rights/Freedom_of_Religion.secret.md)
+### #is_/same_as :: [[/_secret/Society/Social_Issues/Human_Rights/Freedom_of_Religion.secret|Freedom_of_Religion.secret]] 
 

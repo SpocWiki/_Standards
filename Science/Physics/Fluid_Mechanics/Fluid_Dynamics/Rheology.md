@@ -65,17 +65,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Rheology](/_Standards/Science/Physics/Fluid_Mechanics/Fluid_Dynamics/Rheology.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Fluid_Mechanics/Fluid_Dynamics/Rheology|Rheology]] 
 
-### #is_/same_as :: [Rheology.public](/_public/Science/Physics/Fluid_Mechanics/Fluid_Dynamics/Rheology.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Fluid_Mechanics/Fluid_Dynamics/Rheology.public|Rheology.public]] 
 
-### #is_/same_as :: [Rheology.internal](/_internal/Science/Physics/Fluid_Mechanics/Fluid_Dynamics/Rheology.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Fluid_Mechanics/Fluid_Dynamics/Rheology.internal|Rheology.internal]] 
 
-### #is_/same_as :: [Rheology.protect](/_protect/Science/Physics/Fluid_Mechanics/Fluid_Dynamics/Rheology.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Fluid_Mechanics/Fluid_Dynamics/Rheology.protect|Rheology.protect]] 
 
-### #is_/same_as :: [Rheology.private](/_private/Science/Physics/Fluid_Mechanics/Fluid_Dynamics/Rheology.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Fluid_Mechanics/Fluid_Dynamics/Rheology.private|Rheology.private]] 
 
-### #is_/same_as :: [Rheology.personal](/_personal/Science/Physics/Fluid_Mechanics/Fluid_Dynamics/Rheology.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Fluid_Mechanics/Fluid_Dynamics/Rheology.personal|Rheology.personal]] 
 
-### #is_/same_as :: [Rheology.secret](/_secret/Science/Physics/Fluid_Mechanics/Fluid_Dynamics/Rheology.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Fluid_Mechanics/Fluid_Dynamics/Rheology.secret|Rheology.secret]] 
 

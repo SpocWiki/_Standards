@@ -35,17 +35,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Assaf,Mohammed](/_Standards/Society/Communication/Media/Music/Musician/Folk-Musician/Assaf,Mohammed.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Musician/Folk-Musician/Assaf,Mohammed|Assaf,Mohammed]] 
 
-### #is_/same_as :: [Assaf,Mohammed.public](/_public/Society/Communication/Media/Music/Musician/Folk-Musician/Assaf,Mohammed.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Musician/Folk-Musician/Assaf,Mohammed.public|Assaf,Mohammed.public]] 
 
-### #is_/same_as :: [Assaf,Mohammed.internal](/_internal/Society/Communication/Media/Music/Musician/Folk-Musician/Assaf,Mohammed.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Musician/Folk-Musician/Assaf,Mohammed.internal|Assaf,Mohammed.internal]] 
 
-### #is_/same_as :: [Assaf,Mohammed.protect](/_protect/Society/Communication/Media/Music/Musician/Folk-Musician/Assaf,Mohammed.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Musician/Folk-Musician/Assaf,Mohammed.protect|Assaf,Mohammed.protect]] 
 
-### #is_/same_as :: [Assaf,Mohammed.private](/_private/Society/Communication/Media/Music/Musician/Folk-Musician/Assaf,Mohammed.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Musician/Folk-Musician/Assaf,Mohammed.private|Assaf,Mohammed.private]] 
 
-### #is_/same_as :: [Assaf,Mohammed.personal](/_personal/Society/Communication/Media/Music/Musician/Folk-Musician/Assaf,Mohammed.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Musician/Folk-Musician/Assaf,Mohammed.personal|Assaf,Mohammed.personal]] 
 
-### #is_/same_as :: [Assaf,Mohammed.secret](/_secret/Society/Communication/Media/Music/Musician/Folk-Musician/Assaf,Mohammed.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Musician/Folk-Musician/Assaf,Mohammed.secret|Assaf,Mohammed.secret]] 
 

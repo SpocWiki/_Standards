@@ -15,17 +15,17 @@ But Compilers force Developers to acknowledge Unsafeties in Type and Reference!
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Prog~Interpreters](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Interpreters.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Interpreters|Prog~Interpreters]] 
 
-### #is_/same_as :: [Prog~Interpreters.public](/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Interpreters.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Interpreters.public|Prog~Interpreters.public]] 
 
-### #is_/same_as :: [Prog~Interpreters.internal](/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Interpreters.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Interpreters.internal|Prog~Interpreters.internal]] 
 
-### #is_/same_as :: [Prog~Interpreters.protect](/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Interpreters.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Interpreters.protect|Prog~Interpreters.protect]] 
 
-### #is_/same_as :: [Prog~Interpreters.private](/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Interpreters.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Interpreters.private|Prog~Interpreters.private]] 
 
-### #is_/same_as :: [Prog~Interpreters.personal](/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Interpreters.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Interpreters.personal|Prog~Interpreters.personal]] 
 
-### #is_/same_as :: [Prog~Interpreters.secret](/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Interpreters.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Interpreters.secret|Prog~Interpreters.secret]] 
 

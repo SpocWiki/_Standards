@@ -40,17 +40,17 @@ The science or practice of testing visual acuity and prescribing corrective lens
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Optometric](/_Standards/bio/Medicine/Medical_Business/Optometric.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Business/Optometric|Optometric]] 
 
-### #is_/same_as :: [Optometric.public](/_public/bio/Medicine/Medical_Business/Optometric.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Business/Optometric.public|Optometric.public]] 
 
-### #is_/same_as :: [Optometric.internal](/_internal/bio/Medicine/Medical_Business/Optometric.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Business/Optometric.internal|Optometric.internal]] 
 
-### #is_/same_as :: [Optometric.protect](/_protect/bio/Medicine/Medical_Business/Optometric.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Business/Optometric.protect|Optometric.protect]] 
 
-### #is_/same_as :: [Optometric.private](/_private/bio/Medicine/Medical_Business/Optometric.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Business/Optometric.private|Optometric.private]] 
 
-### #is_/same_as :: [Optometric.personal](/_personal/bio/Medicine/Medical_Business/Optometric.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Business/Optometric.personal|Optometric.personal]] 
 
-### #is_/same_as :: [Optometric.secret](/_secret/bio/Medicine/Medical_Business/Optometric.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Business/Optometric.secret|Optometric.secret]] 
 

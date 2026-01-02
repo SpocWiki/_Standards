@@ -88,17 +88,17 @@ UMLS_CUI:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Cardiovascular_Disease](/_Standards/bio/Medicine/Anatomy/Circulatory_System/Heart/Cardiovascular_Disease.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Anatomy/Circulatory_System/Heart/Cardiovascular_Disease|Cardiovascular_Disease]] 
 
-### #is_/same_as :: [Cardiovascular_Disease.public](/_public/bio/Medicine/Anatomy/Circulatory_System/Heart/Cardiovascular_Disease.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Anatomy/Circulatory_System/Heart/Cardiovascular_Disease.public|Cardiovascular_Disease.public]] 
 
-### #is_/same_as :: [Cardiovascular_Disease.internal](/_internal/bio/Medicine/Anatomy/Circulatory_System/Heart/Cardiovascular_Disease.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Anatomy/Circulatory_System/Heart/Cardiovascular_Disease.internal|Cardiovascular_Disease.internal]] 
 
-### #is_/same_as :: [Cardiovascular_Disease.protect](/_protect/bio/Medicine/Anatomy/Circulatory_System/Heart/Cardiovascular_Disease.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Anatomy/Circulatory_System/Heart/Cardiovascular_Disease.protect|Cardiovascular_Disease.protect]] 
 
-### #is_/same_as :: [Cardiovascular_Disease.private](/_private/bio/Medicine/Anatomy/Circulatory_System/Heart/Cardiovascular_Disease.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Anatomy/Circulatory_System/Heart/Cardiovascular_Disease.private|Cardiovascular_Disease.private]] 
 
-### #is_/same_as :: [Cardiovascular_Disease.personal](/_personal/bio/Medicine/Anatomy/Circulatory_System/Heart/Cardiovascular_Disease.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Anatomy/Circulatory_System/Heart/Cardiovascular_Disease.personal|Cardiovascular_Disease.personal]] 
 
-### #is_/same_as :: [Cardiovascular_Disease.secret](/_secret/bio/Medicine/Anatomy/Circulatory_System/Heart/Cardiovascular_Disease.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Anatomy/Circulatory_System/Heart/Cardiovascular_Disease.secret|Cardiovascular_Disease.secret]] 
 

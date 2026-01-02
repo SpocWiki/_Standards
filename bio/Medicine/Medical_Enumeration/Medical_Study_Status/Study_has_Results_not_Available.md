@@ -42,17 +42,17 @@ Results are not available.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Study_has_Results_not_Available](/_Standards/bio/Medicine/Medical_Enumeration/Medical_Study_Status/Study_has_Results_not_Available.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Enumeration/Medical_Study_Status/Study_has_Results_not_Available|Study_has_Results_not_Available]] 
 
-### #is_/same_as :: [Study_has_Results_not_Available.public](/_public/bio/Medicine/Medical_Enumeration/Medical_Study_Status/Study_has_Results_not_Available.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Enumeration/Medical_Study_Status/Study_has_Results_not_Available.public|Study_has_Results_not_Available.public]] 
 
-### #is_/same_as :: [Study_has_Results_not_Available.internal](/_internal/bio/Medicine/Medical_Enumeration/Medical_Study_Status/Study_has_Results_not_Available.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Enumeration/Medical_Study_Status/Study_has_Results_not_Available.internal|Study_has_Results_not_Available.internal]] 
 
-### #is_/same_as :: [Study_has_Results_not_Available.protect](/_protect/bio/Medicine/Medical_Enumeration/Medical_Study_Status/Study_has_Results_not_Available.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Enumeration/Medical_Study_Status/Study_has_Results_not_Available.protect|Study_has_Results_not_Available.protect]] 
 
-### #is_/same_as :: [Study_has_Results_not_Available.private](/_private/bio/Medicine/Medical_Enumeration/Medical_Study_Status/Study_has_Results_not_Available.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Enumeration/Medical_Study_Status/Study_has_Results_not_Available.private|Study_has_Results_not_Available.private]] 
 
-### #is_/same_as :: [Study_has_Results_not_Available.personal](/_personal/bio/Medicine/Medical_Enumeration/Medical_Study_Status/Study_has_Results_not_Available.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Enumeration/Medical_Study_Status/Study_has_Results_not_Available.personal|Study_has_Results_not_Available.personal]] 
 
-### #is_/same_as :: [Study_has_Results_not_Available.secret](/_secret/bio/Medicine/Medical_Enumeration/Medical_Study_Status/Study_has_Results_not_Available.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Enumeration/Medical_Study_Status/Study_has_Results_not_Available.secret|Study_has_Results_not_Available.secret]] 
 

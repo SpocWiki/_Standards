@@ -48,17 +48,17 @@ Wikidata_usage_instructions: for ghosts from a work of fiction see Q30061299
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ghost](/_Standards/Philosophy/Metaphysic/Supernatural/Ghost.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Supernatural/Ghost|Ghost]] 
 
-### #is_/same_as :: [Ghost.public](/_public/Philosophy/Metaphysic/Supernatural/Ghost.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Supernatural/Ghost.public|Ghost.public]] 
 
-### #is_/same_as :: [Ghost.internal](/_internal/Philosophy/Metaphysic/Supernatural/Ghost.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Supernatural/Ghost.internal|Ghost.internal]] 
 
-### #is_/same_as :: [Ghost.protect](/_protect/Philosophy/Metaphysic/Supernatural/Ghost.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Supernatural/Ghost.protect|Ghost.protect]] 
 
-### #is_/same_as :: [Ghost.private](/_private/Philosophy/Metaphysic/Supernatural/Ghost.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Supernatural/Ghost.private|Ghost.private]] 
 
-### #is_/same_as :: [Ghost.personal](/_personal/Philosophy/Metaphysic/Supernatural/Ghost.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Supernatural/Ghost.personal|Ghost.personal]] 
 
-### #is_/same_as :: [Ghost.secret](/_secret/Philosophy/Metaphysic/Supernatural/Ghost.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Supernatural/Ghost.secret|Ghost.secret]] 
 

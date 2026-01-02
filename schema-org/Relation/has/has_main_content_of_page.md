@@ -45,17 +45,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_main_content_of_page](/_Standards/schema-org/Relation/has/has_main_content_of_page.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_main_content_of_page|has_main_content_of_page]] 
 
-### #is_/same_as :: [has_main_content_of_page.public](/_public/schema-org/Relation/has/has_main_content_of_page.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_main_content_of_page.public|has_main_content_of_page.public]] 
 
-### #is_/same_as :: [has_main_content_of_page.internal](/_internal/schema-org/Relation/has/has_main_content_of_page.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_main_content_of_page.internal|has_main_content_of_page.internal]] 
 
-### #is_/same_as :: [has_main_content_of_page.protect](/_protect/schema-org/Relation/has/has_main_content_of_page.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_main_content_of_page.protect|has_main_content_of_page.protect]] 
 
-### #is_/same_as :: [has_main_content_of_page.private](/_private/schema-org/Relation/has/has_main_content_of_page.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_main_content_of_page.private|has_main_content_of_page.private]] 
 
-### #is_/same_as :: [has_main_content_of_page.personal](/_personal/schema-org/Relation/has/has_main_content_of_page.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_main_content_of_page.personal|has_main_content_of_page.personal]] 
 
-### #is_/same_as :: [has_main_content_of_page.secret](/_secret/schema-org/Relation/has/has_main_content_of_page.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_main_content_of_page.secret|has_main_content_of_page.secret]] 
 

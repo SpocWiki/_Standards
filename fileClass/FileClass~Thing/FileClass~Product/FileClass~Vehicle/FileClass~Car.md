@@ -62,17 +62,17 @@ RoofLoad:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thin
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~Car](/_Standards/fileClass/FileClass~Thing/FileClass~Product/FileClass~Vehicle/FileClass~Car.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Product/FileClass~Vehicle/FileClass~Car|FileClass~Car]] 
 
-### #is_/same_as :: [FileClass~Car.public](/_public/fileClass/FileClass~Thing/FileClass~Product/FileClass~Vehicle/FileClass~Car.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Product/FileClass~Vehicle/FileClass~Car.public|FileClass~Car.public]] 
 
-### #is_/same_as :: [FileClass~Car.internal](/_internal/fileClass/FileClass~Thing/FileClass~Product/FileClass~Vehicle/FileClass~Car.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Product/FileClass~Vehicle/FileClass~Car.internal|FileClass~Car.internal]] 
 
-### #is_/same_as :: [FileClass~Car.protect](/_protect/fileClass/FileClass~Thing/FileClass~Product/FileClass~Vehicle/FileClass~Car.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Product/FileClass~Vehicle/FileClass~Car.protect|FileClass~Car.protect]] 
 
-### #is_/same_as :: [FileClass~Car.private](/_private/fileClass/FileClass~Thing/FileClass~Product/FileClass~Vehicle/FileClass~Car.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Product/FileClass~Vehicle/FileClass~Car.private|FileClass~Car.private]] 
 
-### #is_/same_as :: [FileClass~Car.personal](/_personal/fileClass/FileClass~Thing/FileClass~Product/FileClass~Vehicle/FileClass~Car.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Product/FileClass~Vehicle/FileClass~Car.personal|FileClass~Car.personal]] 
 
-### #is_/same_as :: [FileClass~Car.secret](/_secret/fileClass/FileClass~Thing/FileClass~Product/FileClass~Vehicle/FileClass~Car.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Product/FileClass~Vehicle/FileClass~Car.secret|FileClass~Car.secret]] 
 

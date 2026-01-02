@@ -186,17 +186,17 @@ date_of_birth: 1938-01-10T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Knuth,Donald](/_Standards/Technology/IT/Computer_Science/Computer_Scientist/Knuth,Donald.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Computer_Science/Computer_Scientist/Knuth,Donald|Knuth,Donald]] 
 
-### #is_/same_as :: [Knuth,Donald.public](/_public/Technology/IT/Computer_Science/Computer_Scientist/Knuth,Donald.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Computer_Science/Computer_Scientist/Knuth,Donald.public|Knuth,Donald.public]] 
 
-### #is_/same_as :: [Knuth,Donald.internal](/_internal/Technology/IT/Computer_Science/Computer_Scientist/Knuth,Donald.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Computer_Science/Computer_Scientist/Knuth,Donald.internal|Knuth,Donald.internal]] 
 
-### #is_/same_as :: [Knuth,Donald.protect](/_protect/Technology/IT/Computer_Science/Computer_Scientist/Knuth,Donald.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Computer_Science/Computer_Scientist/Knuth,Donald.protect|Knuth,Donald.protect]] 
 
-### #is_/same_as :: [Knuth,Donald.private](/_private/Technology/IT/Computer_Science/Computer_Scientist/Knuth,Donald.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Computer_Science/Computer_Scientist/Knuth,Donald.private|Knuth,Donald.private]] 
 
-### #is_/same_as :: [Knuth,Donald.personal](/_personal/Technology/IT/Computer_Science/Computer_Scientist/Knuth,Donald.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Computer_Science/Computer_Scientist/Knuth,Donald.personal|Knuth,Donald.personal]] 
 
-### #is_/same_as :: [Knuth,Donald.secret](/_secret/Technology/IT/Computer_Science/Computer_Scientist/Knuth,Donald.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Computer_Science/Computer_Scientist/Knuth,Donald.secret|Knuth,Donald.secret]] 
 

@@ -129,17 +129,17 @@ Tag Instances like this: #is_a_/state
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [State](/_Standards/Earth/Geography/Place/Administrative_Area/State.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geography/Place/Administrative_Area/State|State]] 
 
-### #is_/same_as :: [State.public](/_public/Earth/Geography/Place/Administrative_Area/State.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geography/Place/Administrative_Area/State.public|State.public]] 
 
-### #is_/same_as :: [State.internal](/_internal/Earth/Geography/Place/Administrative_Area/State.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geography/Place/Administrative_Area/State.internal|State.internal]] 
 
-### #is_/same_as :: [State.protect](/_protect/Earth/Geography/Place/Administrative_Area/State.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geography/Place/Administrative_Area/State.protect|State.protect]] 
 
-### #is_/same_as :: [State.private](/_private/Earth/Geography/Place/Administrative_Area/State.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geography/Place/Administrative_Area/State.private|State.private]] 
 
-### #is_/same_as :: [State.personal](/_personal/Earth/Geography/Place/Administrative_Area/State.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geography/Place/Administrative_Area/State.personal|State.personal]] 
 
-### #is_/same_as :: [State.secret](/_secret/Earth/Geography/Place/Administrative_Area/State.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geography/Place/Administrative_Area/State.secret|State.secret]] 
 

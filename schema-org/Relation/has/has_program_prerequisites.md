@@ -44,17 +44,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_program_prerequisites](/_Standards/schema-org/Relation/has/has_program_prerequisites.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_program_prerequisites|has_program_prerequisites]] 
 
-### #is_/same_as :: [has_program_prerequisites.public](/_public/schema-org/Relation/has/has_program_prerequisites.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_program_prerequisites.public|has_program_prerequisites.public]] 
 
-### #is_/same_as :: [has_program_prerequisites.internal](/_internal/schema-org/Relation/has/has_program_prerequisites.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_program_prerequisites.internal|has_program_prerequisites.internal]] 
 
-### #is_/same_as :: [has_program_prerequisites.protect](/_protect/schema-org/Relation/has/has_program_prerequisites.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_program_prerequisites.protect|has_program_prerequisites.protect]] 
 
-### #is_/same_as :: [has_program_prerequisites.private](/_private/schema-org/Relation/has/has_program_prerequisites.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_program_prerequisites.private|has_program_prerequisites.private]] 
 
-### #is_/same_as :: [has_program_prerequisites.personal](/_personal/schema-org/Relation/has/has_program_prerequisites.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_program_prerequisites.personal|has_program_prerequisites.personal]] 
 
-### #is_/same_as :: [has_program_prerequisites.secret](/_secret/schema-org/Relation/has/has_program_prerequisites.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_program_prerequisites.secret|has_program_prerequisites.secret]] 
 

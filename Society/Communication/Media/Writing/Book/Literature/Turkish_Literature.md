@@ -31,17 +31,17 @@ Dewey_Decimal_Classification: 894.35
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Turkish_Literature](/_Standards/Society/Communication/Media/Writing/Book/Literature/Turkish_Literature.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Literature/Turkish_Literature|Turkish_Literature]] 
 
-### #is_/same_as :: [Turkish_Literature.public](/_public/Society/Communication/Media/Writing/Book/Literature/Turkish_Literature.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Literature/Turkish_Literature.public|Turkish_Literature.public]] 
 
-### #is_/same_as :: [Turkish_Literature.internal](/_internal/Society/Communication/Media/Writing/Book/Literature/Turkish_Literature.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Literature/Turkish_Literature.internal|Turkish_Literature.internal]] 
 
-### #is_/same_as :: [Turkish_Literature.protect](/_protect/Society/Communication/Media/Writing/Book/Literature/Turkish_Literature.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Literature/Turkish_Literature.protect|Turkish_Literature.protect]] 
 
-### #is_/same_as :: [Turkish_Literature.private](/_private/Society/Communication/Media/Writing/Book/Literature/Turkish_Literature.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Literature/Turkish_Literature.private|Turkish_Literature.private]] 
 
-### #is_/same_as :: [Turkish_Literature.personal](/_personal/Society/Communication/Media/Writing/Book/Literature/Turkish_Literature.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Literature/Turkish_Literature.personal|Turkish_Literature.personal]] 
 
-### #is_/same_as :: [Turkish_Literature.secret](/_secret/Society/Communication/Media/Writing/Book/Literature/Turkish_Literature.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Literature/Turkish_Literature.secret|Turkish_Literature.secret]] 
 

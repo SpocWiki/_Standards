@@ -106,20 +106,20 @@ been resolved by recent, comprehensive molecular phylogenetic analyses
 ## Title Illustrations
 
 ------------------------------------------------------------------------- 
-![Robinia pseudoacacia](Robinioid/Robinia_pseudoacacia.jpg))
+![Robinia pseudoacacia](Robinioid/Robinia_pseudoacacia.jpg) 
 Scientific Name ::     Robinia pseudoacacia L.
 Specimen Condition   Live Specimen
 Copyright ::            © 2006 [Nick Kurzenko](mailto:kurzenko@ibss.dvo.ru) 
 
 --------------------------- 
-![Lotus australis](Robinioid/Lotus_australis.jpg))
+![Lotus australis](Robinioid/Lotus_australis.jpg) 
 Scientific Name ::     Lotus australis Andrews
 Location ::           Land\'s End restoration area, Australia
 Specimen Condition   Live Specimen
 Copyright ::            © 2006 [Jeff Reid](http://homepages.picknowl.com.au/jreid)
 
 ---------------------- 
-![Sesbania punicea](Robinioid/Sesbania_punicea.jpg))
+![Sesbania punicea](Robinioid/Sesbania_punicea.jpg) 
 Scientific Name ::     Sesbania punicea Benth.
 Location ::           Florida, USA
 Specimen Condition   Live Specimen
@@ -128,17 +128,17 @@ Copyright ::            © 2006 [Frank Farrugia](mailto:Frank.Farruggia@asu.edu)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Robinioid](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Papilionoideae/Hologalegina/Robinioid.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Papilionoideae/Hologalegina/Robinioid|Robinioid]] 
 
-### #is_/same_as :: [Robinioid.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Papilionoideae/Hologalegina/Robinioid.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Papilionoideae/Hologalegina/Robinioid.public|Robinioid.public]] 
 
-### #is_/same_as :: [Robinioid.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Papilionoideae/Hologalegina/Robinioid.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Papilionoideae/Hologalegina/Robinioid.internal|Robinioid.internal]] 
 
-### #is_/same_as :: [Robinioid.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Papilionoideae/Hologalegina/Robinioid.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Papilionoideae/Hologalegina/Robinioid.protect|Robinioid.protect]] 
 
-### #is_/same_as :: [Robinioid.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Papilionoideae/Hologalegina/Robinioid.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Papilionoideae/Hologalegina/Robinioid.private|Robinioid.private]] 
 
-### #is_/same_as :: [Robinioid.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Papilionoideae/Hologalegina/Robinioid.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Papilionoideae/Hologalegina/Robinioid.personal|Robinioid.personal]] 
 
-### #is_/same_as :: [Robinioid.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Papilionoideae/Hologalegina/Robinioid.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Papilionoideae/Hologalegina/Robinioid.secret|Robinioid.secret]] 
 

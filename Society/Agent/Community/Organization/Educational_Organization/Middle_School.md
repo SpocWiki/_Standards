@@ -41,17 +41,17 @@ A middle school (typically for children aged around 11-14, although this varies 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Middle_School](/_Standards/Society/Agent/Community/Organization/Educational_Organization/Middle_School.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Educational_Organization/Middle_School|Middle_School]] 
 
-### #is_/same_as :: [Middle_School.public](/_public/Society/Agent/Community/Organization/Educational_Organization/Middle_School.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Educational_Organization/Middle_School.public|Middle_School.public]] 
 
-### #is_/same_as :: [Middle_School.internal](/_internal/Society/Agent/Community/Organization/Educational_Organization/Middle_School.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Educational_Organization/Middle_School.internal|Middle_School.internal]] 
 
-### #is_/same_as :: [Middle_School.protect](/_protect/Society/Agent/Community/Organization/Educational_Organization/Middle_School.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Educational_Organization/Middle_School.protect|Middle_School.protect]] 
 
-### #is_/same_as :: [Middle_School.private](/_private/Society/Agent/Community/Organization/Educational_Organization/Middle_School.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Educational_Organization/Middle_School.private|Middle_School.private]] 
 
-### #is_/same_as :: [Middle_School.personal](/_personal/Society/Agent/Community/Organization/Educational_Organization/Middle_School.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Educational_Organization/Middle_School.personal|Middle_School.personal]] 
 
-### #is_/same_as :: [Middle_School.secret](/_secret/Society/Agent/Community/Organization/Educational_Organization/Middle_School.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Educational_Organization/Middle_School.secret|Middle_School.secret]] 
 

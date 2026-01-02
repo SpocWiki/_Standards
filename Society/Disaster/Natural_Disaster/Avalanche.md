@@ -129,17 +129,17 @@ N4IgLgngDgpiBcIYA8DGBDANgSwCYCd0B3EAGhADcZ8BnbAewDsEAmcm+gV31TkQAswYKDXgB6MQHNsY
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Avalanche](/_Standards/Society/Disaster/Natural_Disaster/Avalanche.md) 
+### #is_/same_as :: [[/_Standards/Society/Disaster/Natural_Disaster/Avalanche|Avalanche]] 
 
-### #is_/same_as :: [Avalanche.public](/_public/Society/Disaster/Natural_Disaster/Avalanche.public.md) 
+### #is_/same_as :: [[/_public/Society/Disaster/Natural_Disaster/Avalanche.public|Avalanche.public]] 
 
-### #is_/same_as :: [Avalanche.internal](/_internal/Society/Disaster/Natural_Disaster/Avalanche.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Disaster/Natural_Disaster/Avalanche.internal|Avalanche.internal]] 
 
-### #is_/same_as :: [Avalanche.protect](/_protect/Society/Disaster/Natural_Disaster/Avalanche.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Disaster/Natural_Disaster/Avalanche.protect|Avalanche.protect]] 
 
-### #is_/same_as :: [Avalanche.private](/_private/Society/Disaster/Natural_Disaster/Avalanche.private.md) 
+### #is_/same_as :: [[/_private/Society/Disaster/Natural_Disaster/Avalanche.private|Avalanche.private]] 
 
-### #is_/same_as :: [Avalanche.personal](/_personal/Society/Disaster/Natural_Disaster/Avalanche.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Disaster/Natural_Disaster/Avalanche.personal|Avalanche.personal]] 
 
-### #is_/same_as :: [Avalanche.secret](/_secret/Society/Disaster/Natural_Disaster/Avalanche.secret.md)
+### #is_/same_as :: [[/_secret/Society/Disaster/Natural_Disaster/Avalanche.secret|Avalanche.secret]] 
 

@@ -5,17 +5,17 @@ If a resource is duplicated but not modified, it is not necessary to create a ne
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Copy-on-Write](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO-Lang/Prog~CSharp/Copy-on-Write.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO-Lang/Prog~CSharp/Copy-on-Write|Copy-on-Write]] 
 
-### #is_/same_as :: [Copy-on-Write.public](/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO-Lang/Prog~CSharp/Copy-on-Write.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO-Lang/Prog~CSharp/Copy-on-Write.public|Copy-on-Write.public]] 
 
-### #is_/same_as :: [Copy-on-Write.internal](/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO-Lang/Prog~CSharp/Copy-on-Write.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO-Lang/Prog~CSharp/Copy-on-Write.internal|Copy-on-Write.internal]] 
 
-### #is_/same_as :: [Copy-on-Write.protect](/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO-Lang/Prog~CSharp/Copy-on-Write.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO-Lang/Prog~CSharp/Copy-on-Write.protect|Copy-on-Write.protect]] 
 
-### #is_/same_as :: [Copy-on-Write.private](/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO-Lang/Prog~CSharp/Copy-on-Write.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO-Lang/Prog~CSharp/Copy-on-Write.private|Copy-on-Write.private]] 
 
-### #is_/same_as :: [Copy-on-Write.personal](/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO-Lang/Prog~CSharp/Copy-on-Write.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO-Lang/Prog~CSharp/Copy-on-Write.personal|Copy-on-Write.personal]] 
 
-### #is_/same_as :: [Copy-on-Write.secret](/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO-Lang/Prog~CSharp/Copy-on-Write.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO-Lang/Prog~CSharp/Copy-on-Write.secret|Copy-on-Write.secret]] 
 

@@ -40,17 +40,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Netflix](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Netflix.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Netflix|Netflix]] 
 
-### #is_/same_as :: [Netflix.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Netflix.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Netflix.public|Netflix.public]] 
 
-### #is_/same_as :: [Netflix.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Netflix.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Netflix.internal|Netflix.internal]] 
 
-### #is_/same_as :: [Netflix.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Netflix.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Netflix.protect|Netflix.protect]] 
 
-### #is_/same_as :: [Netflix.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Netflix.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Netflix.private|Netflix.private]] 
 
-### #is_/same_as :: [Netflix.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Netflix.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Netflix.personal|Netflix.personal]] 
 
-### #is_/same_as :: [Netflix.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Netflix.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Netflix.secret|Netflix.secret]] 
 

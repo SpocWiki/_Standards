@@ -45,17 +45,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_value_for_emissions_co2_in_Gram_per_km](/_Standards/schema-org/Property/has_value_for/has_value_for_emissions_co2_in_Gram_per_km.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_value_for/has_value_for_emissions_co2_in_Gram_per_km|has_value_for_emissions_co2_in_Gram_per_km]] 
 
-### #is_/same_as :: [has_value_for_emissions_co2_in_Gram_per_km.public](/_public/schema-org/Property/has_value_for/has_value_for_emissions_co2_in_Gram_per_km.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/has_value_for/has_value_for_emissions_co2_in_Gram_per_km.public|has_value_for_emissions_co2_in_Gram_per_km.public]] 
 
-### #is_/same_as :: [has_value_for_emissions_co2_in_Gram_per_km.internal](/_internal/schema-org/Property/has_value_for/has_value_for_emissions_co2_in_Gram_per_km.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_value_for/has_value_for_emissions_co2_in_Gram_per_km.internal|has_value_for_emissions_co2_in_Gram_per_km.internal]] 
 
-### #is_/same_as :: [has_value_for_emissions_co2_in_Gram_per_km.protect](/_protect/schema-org/Property/has_value_for/has_value_for_emissions_co2_in_Gram_per_km.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_value_for/has_value_for_emissions_co2_in_Gram_per_km.protect|has_value_for_emissions_co2_in_Gram_per_km.protect]] 
 
-### #is_/same_as :: [has_value_for_emissions_co2_in_Gram_per_km.private](/_private/schema-org/Property/has_value_for/has_value_for_emissions_co2_in_Gram_per_km.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/has_value_for/has_value_for_emissions_co2_in_Gram_per_km.private|has_value_for_emissions_co2_in_Gram_per_km.private]] 
 
-### #is_/same_as :: [has_value_for_emissions_co2_in_Gram_per_km.personal](/_personal/schema-org/Property/has_value_for/has_value_for_emissions_co2_in_Gram_per_km.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_value_for/has_value_for_emissions_co2_in_Gram_per_km.personal|has_value_for_emissions_co2_in_Gram_per_km.personal]] 
 
-### #is_/same_as :: [has_value_for_emissions_co2_in_Gram_per_km.secret](/_secret/schema-org/Property/has_value_for/has_value_for_emissions_co2_in_Gram_per_km.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/has_value_for/has_value_for_emissions_co2_in_Gram_per_km.secret|has_value_for_emissions_co2_in_Gram_per_km.secret]] 
 

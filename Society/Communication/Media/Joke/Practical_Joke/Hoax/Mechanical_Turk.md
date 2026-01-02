@@ -86,17 +86,17 @@ inception: 1769-01-01T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Mechanical_Turk](/_Standards/Society/Communication/Media/Joke/Practical_Joke/Hoax/Mechanical_Turk.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Joke/Practical_Joke/Hoax/Mechanical_Turk|Mechanical_Turk]] 
 
-### #is_/same_as :: [Mechanical_Turk.public](/_public/Society/Communication/Media/Joke/Practical_Joke/Hoax/Mechanical_Turk.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Joke/Practical_Joke/Hoax/Mechanical_Turk.public|Mechanical_Turk.public]] 
 
-### #is_/same_as :: [Mechanical_Turk.internal](/_internal/Society/Communication/Media/Joke/Practical_Joke/Hoax/Mechanical_Turk.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Joke/Practical_Joke/Hoax/Mechanical_Turk.internal|Mechanical_Turk.internal]] 
 
-### #is_/same_as :: [Mechanical_Turk.protect](/_protect/Society/Communication/Media/Joke/Practical_Joke/Hoax/Mechanical_Turk.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Joke/Practical_Joke/Hoax/Mechanical_Turk.protect|Mechanical_Turk.protect]] 
 
-### #is_/same_as :: [Mechanical_Turk.private](/_private/Society/Communication/Media/Joke/Practical_Joke/Hoax/Mechanical_Turk.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Joke/Practical_Joke/Hoax/Mechanical_Turk.private|Mechanical_Turk.private]] 
 
-### #is_/same_as :: [Mechanical_Turk.personal](/_personal/Society/Communication/Media/Joke/Practical_Joke/Hoax/Mechanical_Turk.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Joke/Practical_Joke/Hoax/Mechanical_Turk.personal|Mechanical_Turk.personal]] 
 
-### #is_/same_as :: [Mechanical_Turk.secret](/_secret/Society/Communication/Media/Joke/Practical_Joke/Hoax/Mechanical_Turk.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Joke/Practical_Joke/Hoax/Mechanical_Turk.secret|Mechanical_Turk.secret]] 
 

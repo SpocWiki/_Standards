@@ -37,17 +37,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [League_of_Extraordinary_Gentlemen(film)](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Fantasy-Movie/League_of_Extraordinary_Gentlemen(film).md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Genre/Fantasy-Movie/League_of_Extraordinary_Gentlemen(film)|League_of_Extraordinary_Gentlemen(film)]] 
 
-### #is_/same_as :: [League_of_Extraordinary_Gentlemen(film).public](/_public/Society/Communication/Media/Movie/Movie-Genre/Fantasy-Movie/League_of_Extraordinary_Gentlemen(film).public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Genre/Fantasy-Movie/League_of_Extraordinary_Gentlemen(film).public|League_of_Extraordinary_Gentlemen(film).public]] 
 
-### #is_/same_as :: [League_of_Extraordinary_Gentlemen(film).internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Fantasy-Movie/League_of_Extraordinary_Gentlemen(film).internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Genre/Fantasy-Movie/League_of_Extraordinary_Gentlemen(film).internal|League_of_Extraordinary_Gentlemen(film).internal]] 
 
-### #is_/same_as :: [League_of_Extraordinary_Gentlemen(film).protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Fantasy-Movie/League_of_Extraordinary_Gentlemen(film).protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Genre/Fantasy-Movie/League_of_Extraordinary_Gentlemen(film).protect|League_of_Extraordinary_Gentlemen(film).protect]] 
 
-### #is_/same_as :: [League_of_Extraordinary_Gentlemen(film).private](/_private/Society/Communication/Media/Movie/Movie-Genre/Fantasy-Movie/League_of_Extraordinary_Gentlemen(film).private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Genre/Fantasy-Movie/League_of_Extraordinary_Gentlemen(film).private|League_of_Extraordinary_Gentlemen(film).private]] 
 
-### #is_/same_as :: [League_of_Extraordinary_Gentlemen(film).personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Fantasy-Movie/League_of_Extraordinary_Gentlemen(film).personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Genre/Fantasy-Movie/League_of_Extraordinary_Gentlemen(film).personal|League_of_Extraordinary_Gentlemen(film).personal]] 
 
-### #is_/same_as :: [League_of_Extraordinary_Gentlemen(film).secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Fantasy-Movie/League_of_Extraordinary_Gentlemen(film).secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Genre/Fantasy-Movie/League_of_Extraordinary_Gentlemen(film).secret|League_of_Extraordinary_Gentlemen(film).secret]] 
 

@@ -34,17 +34,17 @@ Commons_category: Terrestrial planets
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Terrestrial_Planet](/_Standards/Astronomy/Planet/Terrestrial_Planet.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Planet/Terrestrial_Planet|Terrestrial_Planet]] 
 
-### #is_/same_as :: [Terrestrial_Planet.public](/_public/Astronomy/Planet/Terrestrial_Planet.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Planet/Terrestrial_Planet.public|Terrestrial_Planet.public]] 
 
-### #is_/same_as :: [Terrestrial_Planet.internal](/_internal/Astronomy/Planet/Terrestrial_Planet.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Planet/Terrestrial_Planet.internal|Terrestrial_Planet.internal]] 
 
-### #is_/same_as :: [Terrestrial_Planet.protect](/_protect/Astronomy/Planet/Terrestrial_Planet.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Planet/Terrestrial_Planet.protect|Terrestrial_Planet.protect]] 
 
-### #is_/same_as :: [Terrestrial_Planet.private](/_private/Astronomy/Planet/Terrestrial_Planet.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Planet/Terrestrial_Planet.private|Terrestrial_Planet.private]] 
 
-### #is_/same_as :: [Terrestrial_Planet.personal](/_personal/Astronomy/Planet/Terrestrial_Planet.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Planet/Terrestrial_Planet.personal|Terrestrial_Planet.personal]] 
 
-### #is_/same_as :: [Terrestrial_Planet.secret](/_secret/Astronomy/Planet/Terrestrial_Planet.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Planet/Terrestrial_Planet.secret|Terrestrial_Planet.secret]] 
 

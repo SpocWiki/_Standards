@@ -32,17 +32,17 @@ OpenStreetMap_tag: robot:type=factory
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Industrial_Robot](/_Standards/Society/Economics/Industry/Industrial_Robot.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Industry/Industrial_Robot|Industrial_Robot]] 
 
-### #is_/same_as :: [Industrial_Robot.public](/_public/Society/Economics/Industry/Industrial_Robot.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Industry/Industrial_Robot.public|Industrial_Robot.public]] 
 
-### #is_/same_as :: [Industrial_Robot.internal](/_internal/Society/Economics/Industry/Industrial_Robot.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Industry/Industrial_Robot.internal|Industrial_Robot.internal]] 
 
-### #is_/same_as :: [Industrial_Robot.protect](/_protect/Society/Economics/Industry/Industrial_Robot.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Industry/Industrial_Robot.protect|Industrial_Robot.protect]] 
 
-### #is_/same_as :: [Industrial_Robot.private](/_private/Society/Economics/Industry/Industrial_Robot.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Industry/Industrial_Robot.private|Industrial_Robot.private]] 
 
-### #is_/same_as :: [Industrial_Robot.personal](/_personal/Society/Economics/Industry/Industrial_Robot.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Industry/Industrial_Robot.personal|Industrial_Robot.personal]] 
 
-### #is_/same_as :: [Industrial_Robot.secret](/_secret/Society/Economics/Industry/Industrial_Robot.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Industry/Industrial_Robot.secret|Industrial_Robot.secret]] 
 

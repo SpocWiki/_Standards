@@ -55,3 +55,22 @@ time_of_discovery_or_invention: 2000-07-01T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Livermorium) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Chemistry/Chemical_Element/Group-16-Chalcogene/Livermorium|Livermorium]] 
+
+### #is_/same_as :: [[/_public/Chemistry/Chemical_Element/Group-16-Chalcogene/Livermorium.public|Livermorium.public]] 
+
+### #is_/same_as :: [[/_internal/Chemistry/Chemical_Element/Group-16-Chalcogene/Livermorium.internal|Livermorium.internal]] 
+
+### #is_/same_as :: [[/_protect/Chemistry/Chemical_Element/Group-16-Chalcogene/Livermorium.protect|Livermorium.protect]] 
+
+### #is_/same_as :: [[/_private/Chemistry/Chemical_Element/Group-16-Chalcogene/Livermorium.private|Livermorium.private]] 
+
+### #is_/same_as :: [[/_personal/Chemistry/Chemical_Element/Group-16-Chalcogene/Livermorium.personal|Livermorium.personal]] 
+
+### #is_/same_as :: [[/_secret/Chemistry/Chemical_Element/Group-16-Chalcogene/Livermorium.secret|Livermorium.secret]] 
+

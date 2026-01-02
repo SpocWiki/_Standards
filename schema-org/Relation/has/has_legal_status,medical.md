@@ -43,17 +43,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_legal_status,medical](/_Standards/schema-org/Relation/has/has_legal_status,medical.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_legal_status,medical|has_legal_status,medical]] 
 
-### #is_/same_as :: [has_legal_status,medical.public](/_public/schema-org/Relation/has/has_legal_status,medical.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_legal_status,medical.public|has_legal_status,medical.public]] 
 
-### #is_/same_as :: [has_legal_status,medical.internal](/_internal/schema-org/Relation/has/has_legal_status,medical.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_legal_status,medical.internal|has_legal_status,medical.internal]] 
 
-### #is_/same_as :: [has_legal_status,medical.protect](/_protect/schema-org/Relation/has/has_legal_status,medical.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_legal_status,medical.protect|has_legal_status,medical.protect]] 
 
-### #is_/same_as :: [has_legal_status,medical.private](/_private/schema-org/Relation/has/has_legal_status,medical.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_legal_status,medical.private|has_legal_status,medical.private]] 
 
-### #is_/same_as :: [has_legal_status,medical.personal](/_personal/schema-org/Relation/has/has_legal_status,medical.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_legal_status,medical.personal|has_legal_status,medical.personal]] 
 
-### #is_/same_as :: [has_legal_status,medical.secret](/_secret/schema-org/Relation/has/has_legal_status,medical.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_legal_status,medical.secret|has_legal_status,medical.secret]] 
 

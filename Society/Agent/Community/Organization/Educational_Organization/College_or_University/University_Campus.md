@@ -42,17 +42,17 @@ exact_match: http://purl.obolibrary.org/obo/ENVO_00000467
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [University_Campus](/_Standards/Society/Agent/Community/Organization/Educational_Organization/College_or_University/University_Campus.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Educational_Organization/College_or_University/University_Campus|University_Campus]] 
 
-### #is_/same_as :: [University_Campus.public](/_public/Society/Agent/Community/Organization/Educational_Organization/College_or_University/University_Campus.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Educational_Organization/College_or_University/University_Campus.public|University_Campus.public]] 
 
-### #is_/same_as :: [University_Campus.internal](/_internal/Society/Agent/Community/Organization/Educational_Organization/College_or_University/University_Campus.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Educational_Organization/College_or_University/University_Campus.internal|University_Campus.internal]] 
 
-### #is_/same_as :: [University_Campus.protect](/_protect/Society/Agent/Community/Organization/Educational_Organization/College_or_University/University_Campus.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Educational_Organization/College_or_University/University_Campus.protect|University_Campus.protect]] 
 
-### #is_/same_as :: [University_Campus.private](/_private/Society/Agent/Community/Organization/Educational_Organization/College_or_University/University_Campus.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Educational_Organization/College_or_University/University_Campus.private|University_Campus.private]] 
 
-### #is_/same_as :: [University_Campus.personal](/_personal/Society/Agent/Community/Organization/Educational_Organization/College_or_University/University_Campus.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Educational_Organization/College_or_University/University_Campus.personal|University_Campus.personal]] 
 
-### #is_/same_as :: [University_Campus.secret](/_secret/Society/Agent/Community/Organization/Educational_Organization/College_or_University/University_Campus.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Educational_Organization/College_or_University/University_Campus.secret|University_Campus.secret]] 
 

@@ -34,17 +34,17 @@ OpenStreetMap_tag: denomination=orthodox
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Orthodox_Judaism](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Judaism/Orthodox_Judaism.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Judaism/Orthodox_Judaism|Orthodox_Judaism]] 
 
-### #is_/same_as :: [Orthodox_Judaism.public](/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Judaism/Orthodox_Judaism.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Judaism/Orthodox_Judaism.public|Orthodox_Judaism.public]] 
 
-### #is_/same_as :: [Orthodox_Judaism.internal](/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Judaism/Orthodox_Judaism.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Judaism/Orthodox_Judaism.internal|Orthodox_Judaism.internal]] 
 
-### #is_/same_as :: [Orthodox_Judaism.protect](/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Judaism/Orthodox_Judaism.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Judaism/Orthodox_Judaism.protect|Orthodox_Judaism.protect]] 
 
-### #is_/same_as :: [Orthodox_Judaism.private](/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Judaism/Orthodox_Judaism.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Judaism/Orthodox_Judaism.private|Orthodox_Judaism.private]] 
 
-### #is_/same_as :: [Orthodox_Judaism.personal](/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Judaism/Orthodox_Judaism.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Judaism/Orthodox_Judaism.personal|Orthodox_Judaism.personal]] 
 
-### #is_/same_as :: [Orthodox_Judaism.secret](/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Judaism/Orthodox_Judaism.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Judaism/Orthodox_Judaism.secret|Orthodox_Judaism.secret]] 
 

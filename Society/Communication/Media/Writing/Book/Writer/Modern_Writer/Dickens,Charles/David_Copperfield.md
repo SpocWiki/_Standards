@@ -77,17 +77,17 @@ first_line: Whether I shall turn out to be the hero of my own life, or whether t
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [David_Copperfield](/_Standards/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Dickens,Charles/David_Copperfield.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Dickens,Charles/David_Copperfield|David_Copperfield]] 
 
-### #is_/same_as :: [David_Copperfield.public](/_public/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Dickens,Charles/David_Copperfield.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Dickens,Charles/David_Copperfield.public|David_Copperfield.public]] 
 
-### #is_/same_as :: [David_Copperfield.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Dickens,Charles/David_Copperfield.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Dickens,Charles/David_Copperfield.internal|David_Copperfield.internal]] 
 
-### #is_/same_as :: [David_Copperfield.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Dickens,Charles/David_Copperfield.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Dickens,Charles/David_Copperfield.protect|David_Copperfield.protect]] 
 
-### #is_/same_as :: [David_Copperfield.private](/_private/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Dickens,Charles/David_Copperfield.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Dickens,Charles/David_Copperfield.private|David_Copperfield.private]] 
 
-### #is_/same_as :: [David_Copperfield.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Dickens,Charles/David_Copperfield.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Dickens,Charles/David_Copperfield.personal|David_Copperfield.personal]] 
 
-### #is_/same_as :: [David_Copperfield.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Dickens,Charles/David_Copperfield.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Dickens,Charles/David_Copperfield.secret|David_Copperfield.secret]] 
 

@@ -28,7 +28,7 @@ title: Thenaria
 
 # Thenaria 
 
-![ ](Thenaria/aurelianidaesm.jpg)![ ](Thenaria/hormathiidaesm.jpg))![](Thenaria/diadumenidaesm.jpg))
+![ ](Thenaria/aurelianidaesm.jpg)![ ](Thenaria/hormathiidaesm.jpg))![](Thenaria/diadumenidaesm.jpg) 
 
 -   [Endomyaria](Thenaria/Endomyaria.md "go to ToL page"))*
 -   [Mesomyaria](Thenaria/Mesomyaria.md "go to ToL page"))*
@@ -97,12 +97,12 @@ From left to right:
     The Netherlands.
 
 Photographs copyright © 2000, Ron Ates.
-![](Thenaria/aurelianidaesm.jpg))
+![](Thenaria/aurelianidaesm.jpg) 
 
   -------
   Copyright ::   © 2000 Ron Ates
   -------
-![](Thenaria/hormathiidaesm.jpg))
+![](Thenaria/hormathiidaesm.jpg) 
 
   -------
   Copyright ::   © 2000 Ron Ates
@@ -116,17 +116,17 @@ Photographs copyright © 2000, Ron Ates.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Thenaria](/_Standards/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Nynantheae/Thenaria.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Nynantheae/Thenaria|Thenaria]] 
 
-### #is_/same_as :: [Thenaria.public](/_public/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Nynantheae/Thenaria.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Nynantheae/Thenaria.public|Thenaria.public]] 
 
-### #is_/same_as :: [Thenaria.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Nynantheae/Thenaria.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Nynantheae/Thenaria.internal|Thenaria.internal]] 
 
-### #is_/same_as :: [Thenaria.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Nynantheae/Thenaria.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Nynantheae/Thenaria.protect|Thenaria.protect]] 
 
-### #is_/same_as :: [Thenaria.private](/_private/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Nynantheae/Thenaria.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Nynantheae/Thenaria.private|Thenaria.private]] 
 
-### #is_/same_as :: [Thenaria.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Nynantheae/Thenaria.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Nynantheae/Thenaria.personal|Thenaria.personal]] 
 
-### #is_/same_as :: [Thenaria.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Nynantheae/Thenaria.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Nynantheae/Thenaria.secret|Thenaria.secret]] 
 

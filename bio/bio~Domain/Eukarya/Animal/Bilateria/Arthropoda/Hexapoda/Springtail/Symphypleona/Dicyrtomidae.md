@@ -44,7 +44,7 @@ Hawaii. Zoologica Scripta 19(1):73-99.
 
 ## Title Illustrations
 
-![](Dicyrtomidae/DMsau_SMI_1.jpg))
+![](Dicyrtomidae/DMsau_SMI_1.jpg) 
 
   ------------------------------------------------------------------------
   Scientific Name ::     Dicyrtomina saundersi
@@ -52,7 +52,7 @@ Hawaii. Zoologica Scripta 19(1):73-99.
   Copyright ::            © [Steve Hopkin](http://www.stevehopkin.co.uk/) 
  
   ------------------------------------------------------------------------
-![](Dicyrtomidae/DIfus_SMI_6.jpg))
+![](Dicyrtomidae/DIfus_SMI_6.jpg) 
 
   ------------------------------------------------------------------------
   Scientific Name ::     Dicyrtoma fusca
@@ -64,17 +64,17 @@ Hawaii. Zoologica Scripta 19(1):73-99.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Dicyrtomidae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Springtail/Symphypleona/Dicyrtomidae.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Springtail/Symphypleona/Dicyrtomidae|Dicyrtomidae]] 
 
-### #is_/same_as :: [Dicyrtomidae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Springtail/Symphypleona/Dicyrtomidae.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Springtail/Symphypleona/Dicyrtomidae.public|Dicyrtomidae.public]] 
 
-### #is_/same_as :: [Dicyrtomidae.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Springtail/Symphypleona/Dicyrtomidae.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Springtail/Symphypleona/Dicyrtomidae.internal|Dicyrtomidae.internal]] 
 
-### #is_/same_as :: [Dicyrtomidae.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Springtail/Symphypleona/Dicyrtomidae.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Springtail/Symphypleona/Dicyrtomidae.protect|Dicyrtomidae.protect]] 
 
-### #is_/same_as :: [Dicyrtomidae.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Springtail/Symphypleona/Dicyrtomidae.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Springtail/Symphypleona/Dicyrtomidae.private|Dicyrtomidae.private]] 
 
-### #is_/same_as :: [Dicyrtomidae.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Springtail/Symphypleona/Dicyrtomidae.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Springtail/Symphypleona/Dicyrtomidae.personal|Dicyrtomidae.personal]] 
 
-### #is_/same_as :: [Dicyrtomidae.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Springtail/Symphypleona/Dicyrtomidae.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Springtail/Symphypleona/Dicyrtomidae.secret|Dicyrtomidae.secret]] 
 

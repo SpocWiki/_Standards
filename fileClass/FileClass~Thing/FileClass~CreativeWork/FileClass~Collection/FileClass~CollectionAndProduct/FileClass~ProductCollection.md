@@ -48,17 +48,17 @@ IncludesObject:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#clas
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~ProductCollection](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Collection/FileClass~CollectionAndProduct/FileClass~ProductCollection.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Collection/FileClass~CollectionAndProduct/FileClass~ProductCollection|FileClass~ProductCollection]] 
 
-### #is_/same_as :: [FileClass~ProductCollection.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Collection/FileClass~CollectionAndProduct/FileClass~ProductCollection.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Collection/FileClass~CollectionAndProduct/FileClass~ProductCollection.public|FileClass~ProductCollection.public]] 
 
-### #is_/same_as :: [FileClass~ProductCollection.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Collection/FileClass~CollectionAndProduct/FileClass~ProductCollection.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Collection/FileClass~CollectionAndProduct/FileClass~ProductCollection.internal|FileClass~ProductCollection.internal]] 
 
-### #is_/same_as :: [FileClass~ProductCollection.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Collection/FileClass~CollectionAndProduct/FileClass~ProductCollection.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Collection/FileClass~CollectionAndProduct/FileClass~ProductCollection.protect|FileClass~ProductCollection.protect]] 
 
-### #is_/same_as :: [FileClass~ProductCollection.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Collection/FileClass~CollectionAndProduct/FileClass~ProductCollection.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Collection/FileClass~CollectionAndProduct/FileClass~ProductCollection.private|FileClass~ProductCollection.private]] 
 
-### #is_/same_as :: [FileClass~ProductCollection.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Collection/FileClass~CollectionAndProduct/FileClass~ProductCollection.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Collection/FileClass~CollectionAndProduct/FileClass~ProductCollection.personal|FileClass~ProductCollection.personal]] 
 
-### #is_/same_as :: [FileClass~ProductCollection.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Collection/FileClass~CollectionAndProduct/FileClass~ProductCollection.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Collection/FileClass~CollectionAndProduct/FileClass~ProductCollection.secret|FileClass~ProductCollection.secret]] 
 

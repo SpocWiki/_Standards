@@ -42,17 +42,17 @@ Nonprofit501c1: Non-profit type referring to Corporations Organized Under Act of
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Nonprofit501c1](/_Standards/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c1.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c1|Nonprofit501c1]] 
 
-### #is_/same_as :: [Nonprofit501c1.public](/_public/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c1.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c1.public|Nonprofit501c1.public]] 
 
-### #is_/same_as :: [Nonprofit501c1.internal](/_internal/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c1.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c1.internal|Nonprofit501c1.internal]] 
 
-### #is_/same_as :: [Nonprofit501c1.protect](/_protect/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c1.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c1.protect|Nonprofit501c1.protect]] 
 
-### #is_/same_as :: [Nonprofit501c1.private](/_private/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c1.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c1.private|Nonprofit501c1.private]] 
 
-### #is_/same_as :: [Nonprofit501c1.personal](/_personal/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c1.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c1.personal|Nonprofit501c1.personal]] 
 
-### #is_/same_as :: [Nonprofit501c1.secret](/_secret/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c1.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c1.secret|Nonprofit501c1.secret]] 
 

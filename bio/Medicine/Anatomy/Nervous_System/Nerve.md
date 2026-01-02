@@ -95,17 +95,17 @@ Tag Instances like this:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Nerve](/_Standards/bio/Medicine/Anatomy/Nervous_System/Nerve.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Anatomy/Nervous_System/Nerve|Nerve]] 
 
-### #is_/same_as :: [Nerve.public](/_public/bio/Medicine/Anatomy/Nervous_System/Nerve.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Anatomy/Nervous_System/Nerve.public|Nerve.public]] 
 
-### #is_/same_as :: [Nerve.internal](/_internal/bio/Medicine/Anatomy/Nervous_System/Nerve.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Anatomy/Nervous_System/Nerve.internal|Nerve.internal]] 
 
-### #is_/same_as :: [Nerve.protect](/_protect/bio/Medicine/Anatomy/Nervous_System/Nerve.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Anatomy/Nervous_System/Nerve.protect|Nerve.protect]] 
 
-### #is_/same_as :: [Nerve.private](/_private/bio/Medicine/Anatomy/Nervous_System/Nerve.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Anatomy/Nervous_System/Nerve.private|Nerve.private]] 
 
-### #is_/same_as :: [Nerve.personal](/_personal/bio/Medicine/Anatomy/Nervous_System/Nerve.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Anatomy/Nervous_System/Nerve.personal|Nerve.personal]] 
 
-### #is_/same_as :: [Nerve.secret](/_secret/bio/Medicine/Anatomy/Nervous_System/Nerve.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Anatomy/Nervous_System/Nerve.secret|Nerve.secret]] 
 

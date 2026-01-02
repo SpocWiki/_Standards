@@ -70,17 +70,17 @@ Wikidata_property: printed by
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Printing](/_Standards/Society/Communication/Printing.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Printing|Printing]] 
 
-### #is_/same_as :: [Printing.public](/_public/Society/Communication/Printing.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Printing.public|Printing.public]] 
 
-### #is_/same_as :: [Printing.internal](/_internal/Society/Communication/Printing.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Printing.internal|Printing.internal]] 
 
-### #is_/same_as :: [Printing.protect](/_protect/Society/Communication/Printing.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Printing.protect|Printing.protect]] 
 
-### #is_/same_as :: [Printing.private](/_private/Society/Communication/Printing.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Printing.private|Printing.private]] 
 
-### #is_/same_as :: [Printing.personal](/_personal/Society/Communication/Printing.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Printing.personal|Printing.personal]] 
 
-### #is_/same_as :: [Printing.secret](/_secret/Society/Communication/Printing.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Printing.secret|Printing.secret]] 
 

@@ -19,17 +19,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Jewish_Mythology](/_Standards/Philosophy/Metaphysic/Religion/Mythology/Jewish_Mythology.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Mythology/Jewish_Mythology|Jewish_Mythology]] 
 
-### #is_/same_as :: [Jewish_Mythology.public](/_public/Philosophy/Metaphysic/Religion/Mythology/Jewish_Mythology.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Mythology/Jewish_Mythology.public|Jewish_Mythology.public]] 
 
-### #is_/same_as :: [Jewish_Mythology.internal](/_internal/Philosophy/Metaphysic/Religion/Mythology/Jewish_Mythology.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Mythology/Jewish_Mythology.internal|Jewish_Mythology.internal]] 
 
-### #is_/same_as :: [Jewish_Mythology.protect](/_protect/Philosophy/Metaphysic/Religion/Mythology/Jewish_Mythology.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Mythology/Jewish_Mythology.protect|Jewish_Mythology.protect]] 
 
-### #is_/same_as :: [Jewish_Mythology.private](/_private/Philosophy/Metaphysic/Religion/Mythology/Jewish_Mythology.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Mythology/Jewish_Mythology.private|Jewish_Mythology.private]] 
 
-### #is_/same_as :: [Jewish_Mythology.personal](/_personal/Philosophy/Metaphysic/Religion/Mythology/Jewish_Mythology.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Mythology/Jewish_Mythology.personal|Jewish_Mythology.personal]] 
 
-### #is_/same_as :: [Jewish_Mythology.secret](/_secret/Philosophy/Metaphysic/Religion/Mythology/Jewish_Mythology.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Mythology/Jewish_Mythology.secret|Jewish_Mythology.secret]] 
 

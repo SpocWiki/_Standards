@@ -75,17 +75,17 @@ Wolfram_Language_entity_type: Dam
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Dam](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Dam.md) 
+### #is_/same_as :: [[/_Standards/Technology/Engineering/Civil_Engineering/Construction/Dam|Dam]] 
 
-### #is_/same_as :: [Dam.public](/_public/Technology/Engineering/Civil_Engineering/Construction/Dam.public.md) 
+### #is_/same_as :: [[/_public/Technology/Engineering/Civil_Engineering/Construction/Dam.public|Dam.public]] 
 
-### #is_/same_as :: [Dam.internal](/_internal/Technology/Engineering/Civil_Engineering/Construction/Dam.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Engineering/Civil_Engineering/Construction/Dam.internal|Dam.internal]] 
 
-### #is_/same_as :: [Dam.protect](/_protect/Technology/Engineering/Civil_Engineering/Construction/Dam.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Engineering/Civil_Engineering/Construction/Dam.protect|Dam.protect]] 
 
-### #is_/same_as :: [Dam.private](/_private/Technology/Engineering/Civil_Engineering/Construction/Dam.private.md) 
+### #is_/same_as :: [[/_private/Technology/Engineering/Civil_Engineering/Construction/Dam.private|Dam.private]] 
 
-### #is_/same_as :: [Dam.personal](/_personal/Technology/Engineering/Civil_Engineering/Construction/Dam.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Engineering/Civil_Engineering/Construction/Dam.personal|Dam.personal]] 
 
-### #is_/same_as :: [Dam.secret](/_secret/Technology/Engineering/Civil_Engineering/Construction/Dam.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Engineering/Civil_Engineering/Construction/Dam.secret|Dam.secret]] 
 

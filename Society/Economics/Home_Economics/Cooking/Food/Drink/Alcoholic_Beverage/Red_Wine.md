@@ -37,17 +37,17 @@ Baidu_Tieba_name: 红酒
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Red_Wine](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Red_Wine.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Red_Wine|Red_Wine]] 
 
-### #is_/same_as :: [Red_Wine.public](/_public/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Red_Wine.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Red_Wine.public|Red_Wine.public]] 
 
-### #is_/same_as :: [Red_Wine.internal](/_internal/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Red_Wine.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Red_Wine.internal|Red_Wine.internal]] 
 
-### #is_/same_as :: [Red_Wine.protect](/_protect/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Red_Wine.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Red_Wine.protect|Red_Wine.protect]] 
 
-### #is_/same_as :: [Red_Wine.private](/_private/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Red_Wine.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Red_Wine.private|Red_Wine.private]] 
 
-### #is_/same_as :: [Red_Wine.personal](/_personal/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Red_Wine.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Red_Wine.personal|Red_Wine.personal]] 
 
-### #is_/same_as :: [Red_Wine.secret](/_secret/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Red_Wine.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Red_Wine.secret|Red_Wine.secret]] 
 

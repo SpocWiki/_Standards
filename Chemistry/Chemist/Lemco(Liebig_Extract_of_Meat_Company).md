@@ -15,17 +15,17 @@ Marmite is similar, but produced from autolyzed yeast.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lemco(Liebig_Extract_of_Meat_Company)](/_Standards/Chemistry/Chemist/Lemco(Liebig_Extract_of_Meat_Company).md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Chemist/Lemco(Liebig_Extract_of_Meat_Company)|Lemco(Liebig_Extract_of_Meat_Company)]] 
 
-### #is_/same_as :: [Lemco(Liebig_Extract_of_Meat_Company).public](/_public/Chemistry/Chemist/Lemco(Liebig_Extract_of_Meat_Company).public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Chemist/Lemco(Liebig_Extract_of_Meat_Company).public|Lemco(Liebig_Extract_of_Meat_Company).public]] 
 
-### #is_/same_as :: [Lemco(Liebig_Extract_of_Meat_Company).internal](/_internal/Chemistry/Chemist/Lemco(Liebig_Extract_of_Meat_Company).internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Chemist/Lemco(Liebig_Extract_of_Meat_Company).internal|Lemco(Liebig_Extract_of_Meat_Company).internal]] 
 
-### #is_/same_as :: [Lemco(Liebig_Extract_of_Meat_Company).protect](/_protect/Chemistry/Chemist/Lemco(Liebig_Extract_of_Meat_Company).protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Chemist/Lemco(Liebig_Extract_of_Meat_Company).protect|Lemco(Liebig_Extract_of_Meat_Company).protect]] 
 
-### #is_/same_as :: [Lemco(Liebig_Extract_of_Meat_Company).private](/_private/Chemistry/Chemist/Lemco(Liebig_Extract_of_Meat_Company).private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Chemist/Lemco(Liebig_Extract_of_Meat_Company).private|Lemco(Liebig_Extract_of_Meat_Company).private]] 
 
-### #is_/same_as :: [Lemco(Liebig_Extract_of_Meat_Company).personal](/_personal/Chemistry/Chemist/Lemco(Liebig_Extract_of_Meat_Company).personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Chemist/Lemco(Liebig_Extract_of_Meat_Company).personal|Lemco(Liebig_Extract_of_Meat_Company).personal]] 
 
-### #is_/same_as :: [Lemco(Liebig_Extract_of_Meat_Company).secret](/_secret/Chemistry/Chemist/Lemco(Liebig_Extract_of_Meat_Company).secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Chemist/Lemco(Liebig_Extract_of_Meat_Company).secret|Lemco(Liebig_Extract_of_Meat_Company).secret]] 
 

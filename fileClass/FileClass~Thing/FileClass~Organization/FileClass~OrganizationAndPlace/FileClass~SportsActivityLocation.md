@@ -36,17 +36,17 @@ A sports location, such as a playing field.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~SportsActivityLocation](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SportsActivityLocation.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SportsActivityLocation|FileClass~SportsActivityLocation]] 
 
-### #is_/same_as :: [FileClass~SportsActivityLocation.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SportsActivityLocation.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SportsActivityLocation.public|FileClass~SportsActivityLocation.public]] 
 
-### #is_/same_as :: [FileClass~SportsActivityLocation.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SportsActivityLocation.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SportsActivityLocation.internal|FileClass~SportsActivityLocation.internal]] 
 
-### #is_/same_as :: [FileClass~SportsActivityLocation.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SportsActivityLocation.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SportsActivityLocation.protect|FileClass~SportsActivityLocation.protect]] 
 
-### #is_/same_as :: [FileClass~SportsActivityLocation.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SportsActivityLocation.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SportsActivityLocation.private|FileClass~SportsActivityLocation.private]] 
 
-### #is_/same_as :: [FileClass~SportsActivityLocation.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SportsActivityLocation.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SportsActivityLocation.personal|FileClass~SportsActivityLocation.personal]] 
 
-### #is_/same_as :: [FileClass~SportsActivityLocation.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SportsActivityLocation.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SportsActivityLocation.secret|FileClass~SportsActivityLocation.secret]] 
 

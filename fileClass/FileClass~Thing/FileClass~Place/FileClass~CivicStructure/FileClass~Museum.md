@@ -37,17 +37,17 @@ A museum.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~Museum](/_Standards/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Museum.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Museum|FileClass~Museum]] 
 
-### #is_/same_as :: [FileClass~Museum.public](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Museum.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Museum.public|FileClass~Museum.public]] 
 
-### #is_/same_as :: [FileClass~Museum.internal](/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Museum.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Museum.internal|FileClass~Museum.internal]] 
 
-### #is_/same_as :: [FileClass~Museum.protect](/_protect/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Museum.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Museum.protect|FileClass~Museum.protect]] 
 
-### #is_/same_as :: [FileClass~Museum.private](/_private/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Museum.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Museum.private|FileClass~Museum.private]] 
 
-### #is_/same_as :: [FileClass~Museum.personal](/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Museum.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Museum.personal|FileClass~Museum.personal]] 
 
-### #is_/same_as :: [FileClass~Museum.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Museum.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Museum.secret|FileClass~Museum.secret]] 
 

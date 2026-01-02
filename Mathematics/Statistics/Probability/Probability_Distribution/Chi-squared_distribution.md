@@ -130,17 +130,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Chi-squared_distribution](/_Standards/Mathematics/Statistics/Probability/Probability_Distribution/Chi-squared_distribution.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Statistics/Probability/Probability_Distribution/Chi-squared_distribution|Chi-squared_distribution]] 
 
-### #is_/same_as :: [Chi-squared_distribution.public](/_public/Mathematics/Statistics/Probability/Probability_Distribution/Chi-squared_distribution.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Statistics/Probability/Probability_Distribution/Chi-squared_distribution.public|Chi-squared_distribution.public]] 
 
-### #is_/same_as :: [Chi-squared_distribution.internal](/_internal/Mathematics/Statistics/Probability/Probability_Distribution/Chi-squared_distribution.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Statistics/Probability/Probability_Distribution/Chi-squared_distribution.internal|Chi-squared_distribution.internal]] 
 
-### #is_/same_as :: [Chi-squared_distribution.protect](/_protect/Mathematics/Statistics/Probability/Probability_Distribution/Chi-squared_distribution.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Statistics/Probability/Probability_Distribution/Chi-squared_distribution.protect|Chi-squared_distribution.protect]] 
 
-### #is_/same_as :: [Chi-squared_distribution.private](/_private/Mathematics/Statistics/Probability/Probability_Distribution/Chi-squared_distribution.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Statistics/Probability/Probability_Distribution/Chi-squared_distribution.private|Chi-squared_distribution.private]] 
 
-### #is_/same_as :: [Chi-squared_distribution.personal](/_personal/Mathematics/Statistics/Probability/Probability_Distribution/Chi-squared_distribution.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Statistics/Probability/Probability_Distribution/Chi-squared_distribution.personal|Chi-squared_distribution.personal]] 
 
-### #is_/same_as :: [Chi-squared_distribution.secret](/_secret/Mathematics/Statistics/Probability/Probability_Distribution/Chi-squared_distribution.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Statistics/Probability/Probability_Distribution/Chi-squared_distribution.secret|Chi-squared_distribution.secret]] 
 

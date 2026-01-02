@@ -34,17 +34,17 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/2D%20Cartesian.svg
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Two-dimensional_Space](/_Standards/Mathematics/Geometry/Geometry-2D/Two-dimensional_Space.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Geometry/Geometry-2D/Two-dimensional_Space|Two-dimensional_Space]] 
 
-### #is_/same_as :: [Two-dimensional_Space.public](/_public/Mathematics/Geometry/Geometry-2D/Two-dimensional_Space.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Geometry/Geometry-2D/Two-dimensional_Space.public|Two-dimensional_Space.public]] 
 
-### #is_/same_as :: [Two-dimensional_Space.internal](/_internal/Mathematics/Geometry/Geometry-2D/Two-dimensional_Space.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Geometry/Geometry-2D/Two-dimensional_Space.internal|Two-dimensional_Space.internal]] 
 
-### #is_/same_as :: [Two-dimensional_Space.protect](/_protect/Mathematics/Geometry/Geometry-2D/Two-dimensional_Space.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Geometry/Geometry-2D/Two-dimensional_Space.protect|Two-dimensional_Space.protect]] 
 
-### #is_/same_as :: [Two-dimensional_Space.private](/_private/Mathematics/Geometry/Geometry-2D/Two-dimensional_Space.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Geometry/Geometry-2D/Two-dimensional_Space.private|Two-dimensional_Space.private]] 
 
-### #is_/same_as :: [Two-dimensional_Space.personal](/_personal/Mathematics/Geometry/Geometry-2D/Two-dimensional_Space.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Geometry/Geometry-2D/Two-dimensional_Space.personal|Two-dimensional_Space.personal]] 
 
-### #is_/same_as :: [Two-dimensional_Space.secret](/_secret/Mathematics/Geometry/Geometry-2D/Two-dimensional_Space.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Geometry/Geometry-2D/Two-dimensional_Space.secret|Two-dimensional_Space.secret]] 
 

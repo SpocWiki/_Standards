@@ -59,3 +59,22 @@ Experiment --test--> World
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/DIKW%20pyramid) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Philosophy/Epistemology/Knowledge/Knowledge_Pyramid|Knowledge_Pyramid]] 
+
+### #is_/same_as :: [[/_public/Philosophy/Epistemology/Knowledge/Knowledge_Pyramid.public|Knowledge_Pyramid.public]] 
+
+### #is_/same_as :: [[/_internal/Philosophy/Epistemology/Knowledge/Knowledge_Pyramid.internal|Knowledge_Pyramid.internal]] 
+
+### #is_/same_as :: [[/_protect/Philosophy/Epistemology/Knowledge/Knowledge_Pyramid.protect|Knowledge_Pyramid.protect]] 
+
+### #is_/same_as :: [[/_private/Philosophy/Epistemology/Knowledge/Knowledge_Pyramid.private|Knowledge_Pyramid.private]] 
+
+### #is_/same_as :: [[/_personal/Philosophy/Epistemology/Knowledge/Knowledge_Pyramid.personal|Knowledge_Pyramid.personal]] 
+
+### #is_/same_as :: [[/_secret/Philosophy/Epistemology/Knowledge/Knowledge_Pyramid.secret|Knowledge_Pyramid.secret]] 
+

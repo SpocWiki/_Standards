@@ -28,17 +28,17 @@ is_metaclass_for: "[[_Standards/WikiData/WD~software,7397]]"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Software_Category](/_Standards/Technology/IT/Software/Software_Category.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Software/Software_Category|Software_Category]] 
 
-### #is_/same_as :: [Software_Category.public](/_public/Technology/IT/Software/Software_Category.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Software/Software_Category.public|Software_Category.public]] 
 
-### #is_/same_as :: [Software_Category.internal](/_internal/Technology/IT/Software/Software_Category.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Software/Software_Category.internal|Software_Category.internal]] 
 
-### #is_/same_as :: [Software_Category.protect](/_protect/Technology/IT/Software/Software_Category.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Software/Software_Category.protect|Software_Category.protect]] 
 
-### #is_/same_as :: [Software_Category.private](/_private/Technology/IT/Software/Software_Category.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Software/Software_Category.private|Software_Category.private]] 
 
-### #is_/same_as :: [Software_Category.personal](/_personal/Technology/IT/Software/Software_Category.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Software/Software_Category.personal|Software_Category.personal]] 
 
-### #is_/same_as :: [Software_Category.secret](/_secret/Technology/IT/Software/Software_Category.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Software/Software_Category.secret|Software_Category.secret]] 
 

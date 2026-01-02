@@ -39,17 +39,17 @@ ISQ_dimension: <math class="mwe-math-element mwe-math-element-inline" xmlns="htt
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Orbital_Period](/_Standards/Astronomy/Solar_System/Orbital_Mechanics/Orbital_Period.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Solar_System/Orbital_Mechanics/Orbital_Period|Orbital_Period]] 
 
-### #is_/same_as :: [Orbital_Period.public](/_public/Astronomy/Solar_System/Orbital_Mechanics/Orbital_Period.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Solar_System/Orbital_Mechanics/Orbital_Period.public|Orbital_Period.public]] 
 
-### #is_/same_as :: [Orbital_Period.internal](/_internal/Astronomy/Solar_System/Orbital_Mechanics/Orbital_Period.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Solar_System/Orbital_Mechanics/Orbital_Period.internal|Orbital_Period.internal]] 
 
-### #is_/same_as :: [Orbital_Period.protect](/_protect/Astronomy/Solar_System/Orbital_Mechanics/Orbital_Period.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Solar_System/Orbital_Mechanics/Orbital_Period.protect|Orbital_Period.protect]] 
 
-### #is_/same_as :: [Orbital_Period.private](/_private/Astronomy/Solar_System/Orbital_Mechanics/Orbital_Period.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Solar_System/Orbital_Mechanics/Orbital_Period.private|Orbital_Period.private]] 
 
-### #is_/same_as :: [Orbital_Period.personal](/_personal/Astronomy/Solar_System/Orbital_Mechanics/Orbital_Period.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Solar_System/Orbital_Mechanics/Orbital_Period.personal|Orbital_Period.personal]] 
 
-### #is_/same_as :: [Orbital_Period.secret](/_secret/Astronomy/Solar_System/Orbital_Mechanics/Orbital_Period.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Solar_System/Orbital_Mechanics/Orbital_Period.secret|Orbital_Period.secret]] 
 

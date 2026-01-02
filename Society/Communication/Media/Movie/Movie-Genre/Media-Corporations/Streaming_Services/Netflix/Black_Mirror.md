@@ -44,17 +44,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Black_Mirror](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Netflix/Black_Mirror.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Netflix/Black_Mirror|Black_Mirror]] 
 
-### #is_/same_as :: [Black_Mirror.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Netflix/Black_Mirror.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Netflix/Black_Mirror.public|Black_Mirror.public]] 
 
-### #is_/same_as :: [Black_Mirror.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Netflix/Black_Mirror.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Netflix/Black_Mirror.internal|Black_Mirror.internal]] 
 
-### #is_/same_as :: [Black_Mirror.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Netflix/Black_Mirror.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Netflix/Black_Mirror.protect|Black_Mirror.protect]] 
 
-### #is_/same_as :: [Black_Mirror.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Netflix/Black_Mirror.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Netflix/Black_Mirror.private|Black_Mirror.private]] 
 
-### #is_/same_as :: [Black_Mirror.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Netflix/Black_Mirror.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Netflix/Black_Mirror.personal|Black_Mirror.personal]] 
 
-### #is_/same_as :: [Black_Mirror.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Netflix/Black_Mirror.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Netflix/Black_Mirror.secret|Black_Mirror.secret]] 
 

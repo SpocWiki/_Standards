@@ -38,17 +38,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_target](/_Standards/schema-org/Relation/has/has_target.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_target|has_target]] 
 
-### #is_/same_as :: [has_target.public](/_public/schema-org/Relation/has/has_target.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_target.public|has_target.public]] 
 
-### #is_/same_as :: [has_target.internal](/_internal/schema-org/Relation/has/has_target.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_target.internal|has_target.internal]] 
 
-### #is_/same_as :: [has_target.protect](/_protect/schema-org/Relation/has/has_target.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_target.protect|has_target.protect]] 
 
-### #is_/same_as :: [has_target.private](/_private/schema-org/Relation/has/has_target.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_target.private|has_target.private]] 
 
-### #is_/same_as :: [has_target.personal](/_personal/schema-org/Relation/has/has_target.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_target.personal|has_target.personal]] 
 
-### #is_/same_as :: [has_target.secret](/_secret/schema-org/Relation/has/has_target.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_target.secret|has_target.secret]] 
 

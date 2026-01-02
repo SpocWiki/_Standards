@@ -24,17 +24,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Distributive_Property](/_Standards/Mathematics/Algebra/Distributive_Property.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Algebra/Distributive_Property|Distributive_Property]] 
 
-### #is_/same_as :: [Distributive_Property.public](/_public/Mathematics/Algebra/Distributive_Property.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Algebra/Distributive_Property.public|Distributive_Property.public]] 
 
-### #is_/same_as :: [Distributive_Property.internal](/_internal/Mathematics/Algebra/Distributive_Property.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Algebra/Distributive_Property.internal|Distributive_Property.internal]] 
 
-### #is_/same_as :: [Distributive_Property.protect](/_protect/Mathematics/Algebra/Distributive_Property.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Algebra/Distributive_Property.protect|Distributive_Property.protect]] 
 
-### #is_/same_as :: [Distributive_Property.private](/_private/Mathematics/Algebra/Distributive_Property.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Algebra/Distributive_Property.private|Distributive_Property.private]] 
 
-### #is_/same_as :: [Distributive_Property.personal](/_personal/Mathematics/Algebra/Distributive_Property.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Algebra/Distributive_Property.personal|Distributive_Property.personal]] 
 
-### #is_/same_as :: [Distributive_Property.secret](/_secret/Mathematics/Algebra/Distributive_Property.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Algebra/Distributive_Property.secret|Distributive_Property.secret]] 
 

@@ -44,17 +44,17 @@ A geographical region, typically under the jurisdiction of a particular governme
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Administrative_Area](/_Standards/Earth/Geography/Place/Administrative_Area.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geography/Place/Administrative_Area|Administrative_Area]] 
 
-### #is_/same_as :: [Administrative_Area.public](/_public/Earth/Geography/Place/Administrative_Area.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geography/Place/Administrative_Area.public|Administrative_Area.public]] 
 
-### #is_/same_as :: [Administrative_Area.internal](/_internal/Earth/Geography/Place/Administrative_Area.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geography/Place/Administrative_Area.internal|Administrative_Area.internal]] 
 
-### #is_/same_as :: [Administrative_Area.protect](/_protect/Earth/Geography/Place/Administrative_Area.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geography/Place/Administrative_Area.protect|Administrative_Area.protect]] 
 
-### #is_/same_as :: [Administrative_Area.private](/_private/Earth/Geography/Place/Administrative_Area.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geography/Place/Administrative_Area.private|Administrative_Area.private]] 
 
-### #is_/same_as :: [Administrative_Area.personal](/_personal/Earth/Geography/Place/Administrative_Area.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geography/Place/Administrative_Area.personal|Administrative_Area.personal]] 
 
-### #is_/same_as :: [Administrative_Area.secret](/_secret/Earth/Geography/Place/Administrative_Area.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geography/Place/Administrative_Area.secret|Administrative_Area.secret]] 
 

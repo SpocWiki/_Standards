@@ -120,17 +120,17 @@ ISNI:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [IOC(International_Olympic_Committee)](/_Standards/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/International_Sports_Federation/IOC(International_Olympic_Committee).md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/International_Sports_Federation/IOC(International_Olympic_Committee)|IOC(International_Olympic_Committee)]] 
 
-### #is_/same_as :: [IOC(International_Olympic_Committee).public](/_public/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/International_Sports_Federation/IOC(International_Olympic_Committee).public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/International_Sports_Federation/IOC(International_Olympic_Committee).public|IOC(International_Olympic_Committee).public]] 
 
-### #is_/same_as :: [IOC(International_Olympic_Committee).internal](/_internal/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/International_Sports_Federation/IOC(International_Olympic_Committee).internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/International_Sports_Federation/IOC(International_Olympic_Committee).internal|IOC(International_Olympic_Committee).internal]] 
 
-### #is_/same_as :: [IOC(International_Olympic_Committee).protect](/_protect/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/International_Sports_Federation/IOC(International_Olympic_Committee).protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/International_Sports_Federation/IOC(International_Olympic_Committee).protect|IOC(International_Olympic_Committee).protect]] 
 
-### #is_/same_as :: [IOC(International_Olympic_Committee).private](/_private/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/International_Sports_Federation/IOC(International_Olympic_Committee).private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/International_Sports_Federation/IOC(International_Olympic_Committee).private|IOC(International_Olympic_Committee).private]] 
 
-### #is_/same_as :: [IOC(International_Olympic_Committee).personal](/_personal/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/International_Sports_Federation/IOC(International_Olympic_Committee).personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/International_Sports_Federation/IOC(International_Olympic_Committee).personal|IOC(International_Olympic_Committee).personal]] 
 
-### #is_/same_as :: [IOC(International_Olympic_Committee).secret](/_secret/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/International_Sports_Federation/IOC(International_Olympic_Committee).secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/International_Sports_Federation/IOC(International_Olympic_Committee).secret|IOC(International_Olympic_Committee).secret]] 
 

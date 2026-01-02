@@ -180,17 +180,17 @@ Copyright ::   © 1998 H. Proctor
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hydracarina](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Mite/Acariformes/Trombidiformes/Parasitengona/Hydracarina.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Mite/Acariformes/Trombidiformes/Parasitengona/Hydracarina|Hydracarina]] 
 
-### #is_/same_as :: [Hydracarina.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Mite/Acariformes/Trombidiformes/Parasitengona/Hydracarina.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Mite/Acariformes/Trombidiformes/Parasitengona/Hydracarina.public|Hydracarina.public]] 
 
-### #is_/same_as :: [Hydracarina.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Mite/Acariformes/Trombidiformes/Parasitengona/Hydracarina.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Mite/Acariformes/Trombidiformes/Parasitengona/Hydracarina.internal|Hydracarina.internal]] 
 
-### #is_/same_as :: [Hydracarina.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Mite/Acariformes/Trombidiformes/Parasitengona/Hydracarina.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Mite/Acariformes/Trombidiformes/Parasitengona/Hydracarina.protect|Hydracarina.protect]] 
 
-### #is_/same_as :: [Hydracarina.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Mite/Acariformes/Trombidiformes/Parasitengona/Hydracarina.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Mite/Acariformes/Trombidiformes/Parasitengona/Hydracarina.private|Hydracarina.private]] 
 
-### #is_/same_as :: [Hydracarina.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Mite/Acariformes/Trombidiformes/Parasitengona/Hydracarina.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Mite/Acariformes/Trombidiformes/Parasitengona/Hydracarina.personal|Hydracarina.personal]] 
 
-### #is_/same_as :: [Hydracarina.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Mite/Acariformes/Trombidiformes/Parasitengona/Hydracarina.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Mite/Acariformes/Trombidiformes/Parasitengona/Hydracarina.secret|Hydracarina.secret]] 
 

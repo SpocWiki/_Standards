@@ -58,17 +58,17 @@ Wolfram_Language_entity_code: Entity["FoodType", "Brandy"]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Brandy](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Liquor/Brandy.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Liquor/Brandy|Brandy]] 
 
-### #is_/same_as :: [Brandy.public](/_public/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Liquor/Brandy.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Liquor/Brandy.public|Brandy.public]] 
 
-### #is_/same_as :: [Brandy.internal](/_internal/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Liquor/Brandy.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Liquor/Brandy.internal|Brandy.internal]] 
 
-### #is_/same_as :: [Brandy.protect](/_protect/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Liquor/Brandy.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Liquor/Brandy.protect|Brandy.protect]] 
 
-### #is_/same_as :: [Brandy.private](/_private/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Liquor/Brandy.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Liquor/Brandy.private|Brandy.private]] 
 
-### #is_/same_as :: [Brandy.personal](/_personal/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Liquor/Brandy.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Liquor/Brandy.personal|Brandy.personal]] 
 
-### #is_/same_as :: [Brandy.secret](/_secret/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Liquor/Brandy.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Liquor/Brandy.secret|Brandy.secret]] 
 

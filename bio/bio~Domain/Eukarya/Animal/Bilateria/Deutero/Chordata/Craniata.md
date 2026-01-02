@@ -438,7 +438,7 @@ monophyly. Zoological Journal of the Linnean Society, 84, 291-300.
 
 ## Title Illustrations
 
-![](Craniata/skull.gif))
+![](Craniata/skull.gif) 
 
   ---------------
   Scientific Name ::   Homo sapiens
@@ -450,17 +450,17 @@ monophyly. Zoological Journal of the Linnean Society, 84, 291-300.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Craniata](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata|Craniata]] 
 
-### #is_/same_as :: [Craniata.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata.public|Craniata.public]] 
 
-### #is_/same_as :: [Craniata.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata.internal|Craniata.internal]] 
 
-### #is_/same_as :: [Craniata.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata.protect|Craniata.protect]] 
 
-### #is_/same_as :: [Craniata.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata.private|Craniata.private]] 
 
-### #is_/same_as :: [Craniata.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata.personal|Craniata.personal]] 
 
-### #is_/same_as :: [Craniata.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata.secret|Craniata.secret]] 
 

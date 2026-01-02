@@ -65,17 +65,17 @@ Commons_category: Rolling (metalworking)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Rolling(Metalworking)](/_Standards/Society/Economics/Industry/Manufacturing/Metalworking/Rolling(Metalworking).md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Industry/Manufacturing/Metalworking/Rolling(Metalworking)|Rolling(Metalworking)]] 
 
-### #is_/same_as :: [Rolling(Metalworking).public](/_public/Society/Economics/Industry/Manufacturing/Metalworking/Rolling(Metalworking).public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Industry/Manufacturing/Metalworking/Rolling(Metalworking).public|Rolling(Metalworking).public]] 
 
-### #is_/same_as :: [Rolling(Metalworking).internal](/_internal/Society/Economics/Industry/Manufacturing/Metalworking/Rolling(Metalworking).internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Industry/Manufacturing/Metalworking/Rolling(Metalworking).internal|Rolling(Metalworking).internal]] 
 
-### #is_/same_as :: [Rolling(Metalworking).protect](/_protect/Society/Economics/Industry/Manufacturing/Metalworking/Rolling(Metalworking).protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Industry/Manufacturing/Metalworking/Rolling(Metalworking).protect|Rolling(Metalworking).protect]] 
 
-### #is_/same_as :: [Rolling(Metalworking).private](/_private/Society/Economics/Industry/Manufacturing/Metalworking/Rolling(Metalworking).private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Industry/Manufacturing/Metalworking/Rolling(Metalworking).private|Rolling(Metalworking).private]] 
 
-### #is_/same_as :: [Rolling(Metalworking).personal](/_personal/Society/Economics/Industry/Manufacturing/Metalworking/Rolling(Metalworking).personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Industry/Manufacturing/Metalworking/Rolling(Metalworking).personal|Rolling(Metalworking).personal]] 
 
-### #is_/same_as :: [Rolling(Metalworking).secret](/_secret/Society/Economics/Industry/Manufacturing/Metalworking/Rolling(Metalworking).secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Industry/Manufacturing/Metalworking/Rolling(Metalworking).secret|Rolling(Metalworking).secret]] 
 

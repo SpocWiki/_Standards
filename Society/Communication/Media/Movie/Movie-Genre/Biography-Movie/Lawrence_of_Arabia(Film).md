@@ -216,17 +216,17 @@ EcuRed_article: Lawrence_de_Arabia_(película)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lawrence_of_Arabia(Film)](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Biography-Movie/Lawrence_of_Arabia(Film).md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Genre/Biography-Movie/Lawrence_of_Arabia(Film)|Lawrence_of_Arabia(Film)]] 
 
-### #is_/same_as :: [Lawrence_of_Arabia(Film).public](/_public/Society/Communication/Media/Movie/Movie-Genre/Biography-Movie/Lawrence_of_Arabia(Film).public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Genre/Biography-Movie/Lawrence_of_Arabia(Film).public|Lawrence_of_Arabia(Film).public]] 
 
-### #is_/same_as :: [Lawrence_of_Arabia(Film).internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Biography-Movie/Lawrence_of_Arabia(Film).internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Genre/Biography-Movie/Lawrence_of_Arabia(Film).internal|Lawrence_of_Arabia(Film).internal]] 
 
-### #is_/same_as :: [Lawrence_of_Arabia(Film).protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Biography-Movie/Lawrence_of_Arabia(Film).protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Genre/Biography-Movie/Lawrence_of_Arabia(Film).protect|Lawrence_of_Arabia(Film).protect]] 
 
-### #is_/same_as :: [Lawrence_of_Arabia(Film).private](/_private/Society/Communication/Media/Movie/Movie-Genre/Biography-Movie/Lawrence_of_Arabia(Film).private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Genre/Biography-Movie/Lawrence_of_Arabia(Film).private|Lawrence_of_Arabia(Film).private]] 
 
-### #is_/same_as :: [Lawrence_of_Arabia(Film).personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Biography-Movie/Lawrence_of_Arabia(Film).personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Genre/Biography-Movie/Lawrence_of_Arabia(Film).personal|Lawrence_of_Arabia(Film).personal]] 
 
-### #is_/same_as :: [Lawrence_of_Arabia(Film).secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Biography-Movie/Lawrence_of_Arabia(Film).secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Genre/Biography-Movie/Lawrence_of_Arabia(Film).secret|Lawrence_of_Arabia(Film).secret]] 
 

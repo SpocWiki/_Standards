@@ -115,17 +115,17 @@ ZVG_number: 8030
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Boron](/_Standards/Chemistry/Chemical_Element/Group-13-Boron/Boron.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Chemical_Element/Group-13-Boron/Boron|Boron]] 
 
-### #is_/same_as :: [Boron.public](/_public/Chemistry/Chemical_Element/Group-13-Boron/Boron.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Chemical_Element/Group-13-Boron/Boron.public|Boron.public]] 
 
-### #is_/same_as :: [Boron.internal](/_internal/Chemistry/Chemical_Element/Group-13-Boron/Boron.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Chemical_Element/Group-13-Boron/Boron.internal|Boron.internal]] 
 
-### #is_/same_as :: [Boron.protect](/_protect/Chemistry/Chemical_Element/Group-13-Boron/Boron.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Chemical_Element/Group-13-Boron/Boron.protect|Boron.protect]] 
 
-### #is_/same_as :: [Boron.private](/_private/Chemistry/Chemical_Element/Group-13-Boron/Boron.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Chemical_Element/Group-13-Boron/Boron.private|Boron.private]] 
 
-### #is_/same_as :: [Boron.personal](/_personal/Chemistry/Chemical_Element/Group-13-Boron/Boron.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Chemical_Element/Group-13-Boron/Boron.personal|Boron.personal]] 
 
-### #is_/same_as :: [Boron.secret](/_secret/Chemistry/Chemical_Element/Group-13-Boron/Boron.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Chemical_Element/Group-13-Boron/Boron.secret|Boron.secret]] 
 

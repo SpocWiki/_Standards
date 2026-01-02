@@ -114,17 +114,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Majuro](/_Standards/Earth/Continent/Australasia/Micronesia/Marshall_Islands/Counties/Ratak_Chain/Majuro.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Australasia/Micronesia/Marshall_Islands/Counties/Ratak_Chain/Majuro|Majuro]] 
 
-### #is_/same_as :: [Majuro.public](/_public/Earth/Continent/Australasia/Micronesia/Marshall_Islands/Counties/Ratak_Chain/Majuro.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Australasia/Micronesia/Marshall_Islands/Counties/Ratak_Chain/Majuro.public|Majuro.public]] 
 
-### #is_/same_as :: [Majuro.internal](/_internal/Earth/Continent/Australasia/Micronesia/Marshall_Islands/Counties/Ratak_Chain/Majuro.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Australasia/Micronesia/Marshall_Islands/Counties/Ratak_Chain/Majuro.internal|Majuro.internal]] 
 
-### #is_/same_as :: [Majuro.protect](/_protect/Earth/Continent/Australasia/Micronesia/Marshall_Islands/Counties/Ratak_Chain/Majuro.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Australasia/Micronesia/Marshall_Islands/Counties/Ratak_Chain/Majuro.protect|Majuro.protect]] 
 
-### #is_/same_as :: [Majuro.private](/_private/Earth/Continent/Australasia/Micronesia/Marshall_Islands/Counties/Ratak_Chain/Majuro.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Australasia/Micronesia/Marshall_Islands/Counties/Ratak_Chain/Majuro.private|Majuro.private]] 
 
-### #is_/same_as :: [Majuro.personal](/_personal/Earth/Continent/Australasia/Micronesia/Marshall_Islands/Counties/Ratak_Chain/Majuro.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Australasia/Micronesia/Marshall_Islands/Counties/Ratak_Chain/Majuro.personal|Majuro.personal]] 
 
-### #is_/same_as :: [Majuro.secret](/_secret/Earth/Continent/Australasia/Micronesia/Marshall_Islands/Counties/Ratak_Chain/Majuro.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Australasia/Micronesia/Marshall_Islands/Counties/Ratak_Chain/Majuro.secret|Majuro.secret]] 
 

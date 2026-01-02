@@ -85,17 +85,17 @@ Krugosvet_article_archived_: kultura_i_obrazovanie/literatura/GUMANIZM.html
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Humanism](/_Standards/Philosophy/Humanism.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Humanism|Humanism]] 
 
-### #is_/same_as :: [Humanism.public](/_public/Philosophy/Humanism.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Humanism.public|Humanism.public]] 
 
-### #is_/same_as :: [Humanism.internal](/_internal/Philosophy/Humanism.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Humanism.internal|Humanism.internal]] 
 
-### #is_/same_as :: [Humanism.protect](/_protect/Philosophy/Humanism.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Humanism.protect|Humanism.protect]] 
 
-### #is_/same_as :: [Humanism.private](/_private/Philosophy/Humanism.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Humanism.private|Humanism.private]] 
 
-### #is_/same_as :: [Humanism.personal](/_personal/Philosophy/Humanism.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Humanism.personal|Humanism.personal]] 
 
-### #is_/same_as :: [Humanism.secret](/_secret/Philosophy/Humanism.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Humanism.secret|Humanism.secret]] 
 

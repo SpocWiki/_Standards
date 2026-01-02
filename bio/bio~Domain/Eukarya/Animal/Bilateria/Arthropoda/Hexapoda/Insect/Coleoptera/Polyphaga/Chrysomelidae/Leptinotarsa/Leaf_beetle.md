@@ -73,17 +73,17 @@ NBN_System_Key: NHMSYS0020151707
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Leaf_beetle](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Coleoptera/Polyphaga/Chrysomelidae/Leptinotarsa/Leaf_beetle.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Coleoptera/Polyphaga/Chrysomelidae/Leptinotarsa/Leaf_beetle|Leaf_beetle]] 
 
-### #is_/same_as :: [Leaf_beetle.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Coleoptera/Polyphaga/Chrysomelidae/Leptinotarsa/Leaf_beetle.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Coleoptera/Polyphaga/Chrysomelidae/Leptinotarsa/Leaf_beetle.public|Leaf_beetle.public]] 
 
-### #is_/same_as :: [Leaf_beetle.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Coleoptera/Polyphaga/Chrysomelidae/Leptinotarsa/Leaf_beetle.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Coleoptera/Polyphaga/Chrysomelidae/Leptinotarsa/Leaf_beetle.internal|Leaf_beetle.internal]] 
 
-### #is_/same_as :: [Leaf_beetle.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Coleoptera/Polyphaga/Chrysomelidae/Leptinotarsa/Leaf_beetle.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Coleoptera/Polyphaga/Chrysomelidae/Leptinotarsa/Leaf_beetle.protect|Leaf_beetle.protect]] 
 
-### #is_/same_as :: [Leaf_beetle.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Coleoptera/Polyphaga/Chrysomelidae/Leptinotarsa/Leaf_beetle.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Coleoptera/Polyphaga/Chrysomelidae/Leptinotarsa/Leaf_beetle.private|Leaf_beetle.private]] 
 
-### #is_/same_as :: [Leaf_beetle.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Coleoptera/Polyphaga/Chrysomelidae/Leptinotarsa/Leaf_beetle.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Coleoptera/Polyphaga/Chrysomelidae/Leptinotarsa/Leaf_beetle.personal|Leaf_beetle.personal]] 
 
-### #is_/same_as :: [Leaf_beetle.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Coleoptera/Polyphaga/Chrysomelidae/Leptinotarsa/Leaf_beetle.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Coleoptera/Polyphaga/Chrysomelidae/Leptinotarsa/Leaf_beetle.secret|Leaf_beetle.secret]] 
 

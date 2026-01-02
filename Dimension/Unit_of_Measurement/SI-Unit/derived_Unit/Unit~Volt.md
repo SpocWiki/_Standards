@@ -78,17 +78,17 @@ defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Unit~Volt](/_Standards/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Volt.md) 
+### #is_/same_as :: [[/_Standards/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Volt|Unit~Volt]] 
 
-### #is_/same_as :: [Unit~Volt.public](/_public/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Volt.public.md) 
+### #is_/same_as :: [[/_public/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Volt.public|Unit~Volt.public]] 
 
-### #is_/same_as :: [Unit~Volt.internal](/_internal/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Volt.internal.md) 
+### #is_/same_as :: [[/_internal/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Volt.internal|Unit~Volt.internal]] 
 
-### #is_/same_as :: [Unit~Volt.protect](/_protect/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Volt.protect.md) 
+### #is_/same_as :: [[/_protect/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Volt.protect|Unit~Volt.protect]] 
 
-### #is_/same_as :: [Unit~Volt.private](/_private/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Volt.private.md) 
+### #is_/same_as :: [[/_private/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Volt.private|Unit~Volt.private]] 
 
-### #is_/same_as :: [Unit~Volt.personal](/_personal/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Volt.personal.md) 
+### #is_/same_as :: [[/_personal/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Volt.personal|Unit~Volt.personal]] 
 
-### #is_/same_as :: [Unit~Volt.secret](/_secret/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Volt.secret.md)
+### #is_/same_as :: [[/_secret/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Volt.secret|Unit~Volt.secret]] 
 

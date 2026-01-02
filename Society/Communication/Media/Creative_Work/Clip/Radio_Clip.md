@@ -41,17 +41,17 @@ A short radio program or a segment/part of a radio program.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Radio_Clip](/_Standards/Society/Communication/Media/Creative_Work/Clip/Radio_Clip.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Creative_Work/Clip/Radio_Clip|Radio_Clip]] 
 
-### #is_/same_as :: [Radio_Clip.public](/_public/Society/Communication/Media/Creative_Work/Clip/Radio_Clip.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Creative_Work/Clip/Radio_Clip.public|Radio_Clip.public]] 
 
-### #is_/same_as :: [Radio_Clip.internal](/_internal/Society/Communication/Media/Creative_Work/Clip/Radio_Clip.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Creative_Work/Clip/Radio_Clip.internal|Radio_Clip.internal]] 
 
-### #is_/same_as :: [Radio_Clip.protect](/_protect/Society/Communication/Media/Creative_Work/Clip/Radio_Clip.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Creative_Work/Clip/Radio_Clip.protect|Radio_Clip.protect]] 
 
-### #is_/same_as :: [Radio_Clip.private](/_private/Society/Communication/Media/Creative_Work/Clip/Radio_Clip.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Creative_Work/Clip/Radio_Clip.private|Radio_Clip.private]] 
 
-### #is_/same_as :: [Radio_Clip.personal](/_personal/Society/Communication/Media/Creative_Work/Clip/Radio_Clip.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/Clip/Radio_Clip.personal|Radio_Clip.personal]] 
 
-### #is_/same_as :: [Radio_Clip.secret](/_secret/Society/Communication/Media/Creative_Work/Clip/Radio_Clip.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Clip/Radio_Clip.secret|Radio_Clip.secret]] 
 

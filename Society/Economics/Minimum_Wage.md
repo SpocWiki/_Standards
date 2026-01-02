@@ -76,17 +76,17 @@ Commons_category: Minimum wage
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Minimum_Wage](/_Standards/Society/Economics/Minimum_Wage.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Minimum_Wage|Minimum_Wage]] 
 
-### #is_/same_as :: [Minimum_Wage.public](/_public/Society/Economics/Minimum_Wage.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Minimum_Wage.public|Minimum_Wage.public]] 
 
-### #is_/same_as :: [Minimum_Wage.internal](/_internal/Society/Economics/Minimum_Wage.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Minimum_Wage.internal|Minimum_Wage.internal]] 
 
-### #is_/same_as :: [Minimum_Wage.protect](/_protect/Society/Economics/Minimum_Wage.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Minimum_Wage.protect|Minimum_Wage.protect]] 
 
-### #is_/same_as :: [Minimum_Wage.private](/_private/Society/Economics/Minimum_Wage.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Minimum_Wage.private|Minimum_Wage.private]] 
 
-### #is_/same_as :: [Minimum_Wage.personal](/_personal/Society/Economics/Minimum_Wage.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Minimum_Wage.personal|Minimum_Wage.personal]] 
 
-### #is_/same_as :: [Minimum_Wage.secret](/_secret/Society/Economics/Minimum_Wage.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Minimum_Wage.secret|Minimum_Wage.secret]] 
 

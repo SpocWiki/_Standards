@@ -200,17 +200,17 @@ ancestor and the earliest events in metazoan evolution.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Choanoflagellates](/_Standards/bio/bio~Domain/Eukarya/Choanoflagellates.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Choanoflagellates|Choanoflagellates]] 
 
-### #is_/same_as :: [Choanoflagellates.public](/_public/bio/bio~Domain/Eukarya/Choanoflagellates.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Choanoflagellates.public|Choanoflagellates.public]] 
 
-### #is_/same_as :: [Choanoflagellates.internal](/_internal/bio/bio~Domain/Eukarya/Choanoflagellates.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Choanoflagellates.internal|Choanoflagellates.internal]] 
 
-### #is_/same_as :: [Choanoflagellates.protect](/_protect/bio/bio~Domain/Eukarya/Choanoflagellates.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Choanoflagellates.protect|Choanoflagellates.protect]] 
 
-### #is_/same_as :: [Choanoflagellates.private](/_private/bio/bio~Domain/Eukarya/Choanoflagellates.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Choanoflagellates.private|Choanoflagellates.private]] 
 
-### #is_/same_as :: [Choanoflagellates.personal](/_personal/bio/bio~Domain/Eukarya/Choanoflagellates.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Choanoflagellates.personal|Choanoflagellates.personal]] 
 
-### #is_/same_as :: [Choanoflagellates.secret](/_secret/bio/bio~Domain/Eukarya/Choanoflagellates.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Choanoflagellates.secret|Choanoflagellates.secret]] 
 

@@ -48,17 +48,17 @@ MeSH_tree_code: F04.096.628.579
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Clinical_Psychology](/_Standards/bio/Psychology/Clinical_Psychology.md) 
+### #is_/same_as :: [[/_Standards/bio/Psychology/Clinical_Psychology|Clinical_Psychology]] 
 
-### #is_/same_as :: [Clinical_Psychology.public](/_public/bio/Psychology/Clinical_Psychology.public.md) 
+### #is_/same_as :: [[/_public/bio/Psychology/Clinical_Psychology.public|Clinical_Psychology.public]] 
 
-### #is_/same_as :: [Clinical_Psychology.internal](/_internal/bio/Psychology/Clinical_Psychology.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Psychology/Clinical_Psychology.internal|Clinical_Psychology.internal]] 
 
-### #is_/same_as :: [Clinical_Psychology.protect](/_protect/bio/Psychology/Clinical_Psychology.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Psychology/Clinical_Psychology.protect|Clinical_Psychology.protect]] 
 
-### #is_/same_as :: [Clinical_Psychology.private](/_private/bio/Psychology/Clinical_Psychology.private.md) 
+### #is_/same_as :: [[/_private/bio/Psychology/Clinical_Psychology.private|Clinical_Psychology.private]] 
 
-### #is_/same_as :: [Clinical_Psychology.personal](/_personal/bio/Psychology/Clinical_Psychology.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Psychology/Clinical_Psychology.personal|Clinical_Psychology.personal]] 
 
-### #is_/same_as :: [Clinical_Psychology.secret](/_secret/bio/Psychology/Clinical_Psychology.secret.md)
+### #is_/same_as :: [[/_secret/bio/Psychology/Clinical_Psychology.secret|Clinical_Psychology.secret]] 
 

@@ -45,17 +45,17 @@ date_of_birth: 1910-06-26T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Plunkett,Roy_J](/_Standards/Chemistry/Chemist/Plunkett,Roy_J.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Chemist/Plunkett,Roy_J|Plunkett,Roy_J]] 
 
-### #is_/same_as :: [Plunkett,Roy_J.public](/_public/Chemistry/Chemist/Plunkett,Roy_J.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Chemist/Plunkett,Roy_J.public|Plunkett,Roy_J.public]] 
 
-### #is_/same_as :: [Plunkett,Roy_J.internal](/_internal/Chemistry/Chemist/Plunkett,Roy_J.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Chemist/Plunkett,Roy_J.internal|Plunkett,Roy_J.internal]] 
 
-### #is_/same_as :: [Plunkett,Roy_J.protect](/_protect/Chemistry/Chemist/Plunkett,Roy_J.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Chemist/Plunkett,Roy_J.protect|Plunkett,Roy_J.protect]] 
 
-### #is_/same_as :: [Plunkett,Roy_J.private](/_private/Chemistry/Chemist/Plunkett,Roy_J.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Chemist/Plunkett,Roy_J.private|Plunkett,Roy_J.private]] 
 
-### #is_/same_as :: [Plunkett,Roy_J.personal](/_personal/Chemistry/Chemist/Plunkett,Roy_J.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Chemist/Plunkett,Roy_J.personal|Plunkett,Roy_J.personal]] 
 
-### #is_/same_as :: [Plunkett,Roy_J.secret](/_secret/Chemistry/Chemist/Plunkett,Roy_J.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Chemist/Plunkett,Roy_J.secret|Plunkett,Roy_J.secret]] 
 

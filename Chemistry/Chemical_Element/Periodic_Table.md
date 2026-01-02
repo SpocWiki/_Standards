@@ -128,17 +128,17 @@ video:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Periodic_Table](/_Standards/Chemistry/Chemical_Element/Periodic_Table.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Chemical_Element/Periodic_Table|Periodic_Table]] 
 
-### #is_/same_as :: [Periodic_Table.public](/_public/Chemistry/Chemical_Element/Periodic_Table.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Chemical_Element/Periodic_Table.public|Periodic_Table.public]] 
 
-### #is_/same_as :: [Periodic_Table.internal](/_internal/Chemistry/Chemical_Element/Periodic_Table.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Chemical_Element/Periodic_Table.internal|Periodic_Table.internal]] 
 
-### #is_/same_as :: [Periodic_Table.protect](/_protect/Chemistry/Chemical_Element/Periodic_Table.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Chemical_Element/Periodic_Table.protect|Periodic_Table.protect]] 
 
-### #is_/same_as :: [Periodic_Table.private](/_private/Chemistry/Chemical_Element/Periodic_Table.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Chemical_Element/Periodic_Table.private|Periodic_Table.private]] 
 
-### #is_/same_as :: [Periodic_Table.personal](/_personal/Chemistry/Chemical_Element/Periodic_Table.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Chemical_Element/Periodic_Table.personal|Periodic_Table.personal]] 
 
-### #is_/same_as :: [Periodic_Table.secret](/_secret/Chemistry/Chemical_Element/Periodic_Table.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Chemical_Element/Periodic_Table.secret|Periodic_Table.secret]] 
 

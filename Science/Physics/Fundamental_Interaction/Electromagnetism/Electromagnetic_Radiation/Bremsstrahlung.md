@@ -120,17 +120,17 @@ P8189: 987007282511805171
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bremsstrahlung](/_Standards/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Bremsstrahlung.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Bremsstrahlung|Bremsstrahlung]] 
 
-### #is_/same_as :: [Bremsstrahlung.public](/_public/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Bremsstrahlung.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Bremsstrahlung.public|Bremsstrahlung.public]] 
 
-### #is_/same_as :: [Bremsstrahlung.internal](/_internal/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Bremsstrahlung.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Bremsstrahlung.internal|Bremsstrahlung.internal]] 
 
-### #is_/same_as :: [Bremsstrahlung.protect](/_protect/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Bremsstrahlung.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Bremsstrahlung.protect|Bremsstrahlung.protect]] 
 
-### #is_/same_as :: [Bremsstrahlung.private](/_private/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Bremsstrahlung.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Bremsstrahlung.private|Bremsstrahlung.private]] 
 
-### #is_/same_as :: [Bremsstrahlung.personal](/_personal/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Bremsstrahlung.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Bremsstrahlung.personal|Bremsstrahlung.personal]] 
 
-### #is_/same_as :: [Bremsstrahlung.secret](/_secret/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Bremsstrahlung.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Bremsstrahlung.secret|Bremsstrahlung.secret]] 
 

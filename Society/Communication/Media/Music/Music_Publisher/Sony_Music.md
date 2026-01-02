@@ -53,17 +53,17 @@ X_Twitter_username:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sony_Music](/_Standards/Society/Communication/Media/Music/Music_Publisher/Sony_Music.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Music_Publisher/Sony_Music|Sony_Music]] 
 
-### #is_/same_as :: [Sony_Music.public](/_public/Society/Communication/Media/Music/Music_Publisher/Sony_Music.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Music_Publisher/Sony_Music.public|Sony_Music.public]] 
 
-### #is_/same_as :: [Sony_Music.internal](/_internal/Society/Communication/Media/Music/Music_Publisher/Sony_Music.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Music_Publisher/Sony_Music.internal|Sony_Music.internal]] 
 
-### #is_/same_as :: [Sony_Music.protect](/_protect/Society/Communication/Media/Music/Music_Publisher/Sony_Music.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Music_Publisher/Sony_Music.protect|Sony_Music.protect]] 
 
-### #is_/same_as :: [Sony_Music.private](/_private/Society/Communication/Media/Music/Music_Publisher/Sony_Music.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Music_Publisher/Sony_Music.private|Sony_Music.private]] 
 
-### #is_/same_as :: [Sony_Music.personal](/_personal/Society/Communication/Media/Music/Music_Publisher/Sony_Music.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Music_Publisher/Sony_Music.personal|Sony_Music.personal]] 
 
-### #is_/same_as :: [Sony_Music.secret](/_secret/Society/Communication/Media/Music/Music_Publisher/Sony_Music.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Music_Publisher/Sony_Music.secret|Sony_Music.secret]] 
 

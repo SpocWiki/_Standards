@@ -27,17 +27,17 @@ taxon_name: Myrteae
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Myrteae](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Myrtales/Myrtaceae/Myrtoideae/Myrteae.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Myrtales/Myrtaceae/Myrtoideae/Myrteae|Myrteae]] 
 
-### #is_/same_as :: [Myrteae.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Myrtales/Myrtaceae/Myrtoideae/Myrteae.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Myrtales/Myrtaceae/Myrtoideae/Myrteae.public|Myrteae.public]] 
 
-### #is_/same_as :: [Myrteae.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Myrtales/Myrtaceae/Myrtoideae/Myrteae.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Myrtales/Myrtaceae/Myrtoideae/Myrteae.internal|Myrteae.internal]] 
 
-### #is_/same_as :: [Myrteae.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Myrtales/Myrtaceae/Myrtoideae/Myrteae.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Myrtales/Myrtaceae/Myrtoideae/Myrteae.protect|Myrteae.protect]] 
 
-### #is_/same_as :: [Myrteae.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Myrtales/Myrtaceae/Myrtoideae/Myrteae.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Myrtales/Myrtaceae/Myrtoideae/Myrteae.private|Myrteae.private]] 
 
-### #is_/same_as :: [Myrteae.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Myrtales/Myrtaceae/Myrtoideae/Myrteae.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Myrtales/Myrtaceae/Myrtoideae/Myrteae.personal|Myrteae.personal]] 
 
-### #is_/same_as :: [Myrteae.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Myrtales/Myrtaceae/Myrtoideae/Myrteae.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Myrtales/Myrtaceae/Myrtoideae/Myrteae.secret|Myrteae.secret]] 
 

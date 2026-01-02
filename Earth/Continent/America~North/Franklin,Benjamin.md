@@ -214,17 +214,17 @@ described_at_URL:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Franklin,Benjamin](/_Standards/Earth/Continent/America~North/Franklin,Benjamin.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~North/Franklin,Benjamin|Franklin,Benjamin]] 
 
-### #is_/same_as :: [Franklin,Benjamin.public](/_public/Earth/Continent/America~North/Franklin,Benjamin.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~North/Franklin,Benjamin.public|Franklin,Benjamin.public]] 
 
-### #is_/same_as :: [Franklin,Benjamin.internal](/_internal/Earth/Continent/America~North/Franklin,Benjamin.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~North/Franklin,Benjamin.internal|Franklin,Benjamin.internal]] 
 
-### #is_/same_as :: [Franklin,Benjamin.protect](/_protect/Earth/Continent/America~North/Franklin,Benjamin.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~North/Franklin,Benjamin.protect|Franklin,Benjamin.protect]] 
 
-### #is_/same_as :: [Franklin,Benjamin.private](/_private/Earth/Continent/America~North/Franklin,Benjamin.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~North/Franklin,Benjamin.private|Franklin,Benjamin.private]] 
 
-### #is_/same_as :: [Franklin,Benjamin.personal](/_personal/Earth/Continent/America~North/Franklin,Benjamin.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~North/Franklin,Benjamin.personal|Franklin,Benjamin.personal]] 
 
-### #is_/same_as :: [Franklin,Benjamin.secret](/_secret/Earth/Continent/America~North/Franklin,Benjamin.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~North/Franklin,Benjamin.secret|Franklin,Benjamin.secret]] 
 

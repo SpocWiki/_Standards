@@ -22,17 +22,17 @@ Named after the City [[Ramstein]] where 1988 Planes crashed during a Flight Show
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Rammstein](/_Standards/Society/Communication/Media/Music/Musician/Music~Band/Rammstein.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Musician/Music~Band/Rammstein|Rammstein]] 
 
-### #is_/same_as :: [Rammstein.public](/_public/Society/Communication/Media/Music/Musician/Music~Band/Rammstein.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Musician/Music~Band/Rammstein.public|Rammstein.public]] 
 
-### #is_/same_as :: [Rammstein.internal](/_internal/Society/Communication/Media/Music/Musician/Music~Band/Rammstein.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Musician/Music~Band/Rammstein.internal|Rammstein.internal]] 
 
-### #is_/same_as :: [Rammstein.protect](/_protect/Society/Communication/Media/Music/Musician/Music~Band/Rammstein.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Musician/Music~Band/Rammstein.protect|Rammstein.protect]] 
 
-### #is_/same_as :: [Rammstein.private](/_private/Society/Communication/Media/Music/Musician/Music~Band/Rammstein.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Musician/Music~Band/Rammstein.private|Rammstein.private]] 
 
-### #is_/same_as :: [Rammstein.personal](/_personal/Society/Communication/Media/Music/Musician/Music~Band/Rammstein.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Musician/Music~Band/Rammstein.personal|Rammstein.personal]] 
 
-### #is_/same_as :: [Rammstein.secret](/_secret/Society/Communication/Media/Music/Musician/Music~Band/Rammstein.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Musician/Music~Band/Rammstein.secret|Rammstein.secret]] 
 

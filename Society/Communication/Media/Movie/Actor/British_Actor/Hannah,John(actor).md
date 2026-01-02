@@ -17,17 +17,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hannah,John(actor)](/_Standards/Society/Communication/Media/Movie/Actor/British_Actor/Hannah,John(actor).md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Actor/British_Actor/Hannah,John(actor)|Hannah,John(actor)]] 
 
-### #is_/same_as :: [Hannah,John(actor).public](/_public/Society/Communication/Media/Movie/Actor/British_Actor/Hannah,John(actor).public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Actor/British_Actor/Hannah,John(actor).public|Hannah,John(actor).public]] 
 
-### #is_/same_as :: [Hannah,John(actor).internal](/_internal/Society/Communication/Media/Movie/Actor/British_Actor/Hannah,John(actor).internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Actor/British_Actor/Hannah,John(actor).internal|Hannah,John(actor).internal]] 
 
-### #is_/same_as :: [Hannah,John(actor).protect](/_protect/Society/Communication/Media/Movie/Actor/British_Actor/Hannah,John(actor).protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Actor/British_Actor/Hannah,John(actor).protect|Hannah,John(actor).protect]] 
 
-### #is_/same_as :: [Hannah,John(actor).private](/_private/Society/Communication/Media/Movie/Actor/British_Actor/Hannah,John(actor).private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Actor/British_Actor/Hannah,John(actor).private|Hannah,John(actor).private]] 
 
-### #is_/same_as :: [Hannah,John(actor).personal](/_personal/Society/Communication/Media/Movie/Actor/British_Actor/Hannah,John(actor).personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Actor/British_Actor/Hannah,John(actor).personal|Hannah,John(actor).personal]] 
 
-### #is_/same_as :: [Hannah,John(actor).secret](/_secret/Society/Communication/Media/Movie/Actor/British_Actor/Hannah,John(actor).secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Actor/British_Actor/Hannah,John(actor).secret|Hannah,John(actor).secret]] 
 

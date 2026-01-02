@@ -77,17 +77,17 @@ GitHub_topic: category-theory
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Category_Theory](/_Standards/Mathematics/Category_Theory.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Category_Theory|Category_Theory]] 
 
-### #is_/same_as :: [Category_Theory.public](/_public/Mathematics/Category_Theory.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Category_Theory.public|Category_Theory.public]] 
 
-### #is_/same_as :: [Category_Theory.internal](/_internal/Mathematics/Category_Theory.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Category_Theory.internal|Category_Theory.internal]] 
 
-### #is_/same_as :: [Category_Theory.protect](/_protect/Mathematics/Category_Theory.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Category_Theory.protect|Category_Theory.protect]] 
 
-### #is_/same_as :: [Category_Theory.private](/_private/Mathematics/Category_Theory.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Category_Theory.private|Category_Theory.private]] 
 
-### #is_/same_as :: [Category_Theory.personal](/_personal/Mathematics/Category_Theory.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Category_Theory.personal|Category_Theory.personal]] 
 
-### #is_/same_as :: [Category_Theory.secret](/_secret/Mathematics/Category_Theory.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Category_Theory.secret|Category_Theory.secret]] 
 

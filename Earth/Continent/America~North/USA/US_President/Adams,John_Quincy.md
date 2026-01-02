@@ -35,17 +35,17 @@ type: private_note
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Adams,John_Quincy](/_Standards/Earth/Continent/America~North/US~President/Adams,John_Quincy.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~North/USA/US_President/Adams,John_Quincy|Adams,John_Quincy]] 
 
-### #is_/same_as :: [Adams,John_Quincy.public](/_public/Earth/Continent/America~North/US~President/Adams,John_Quincy.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~North/USA/US_President/Adams,John_Quincy.public|Adams,John_Quincy.public]] 
 
-### #is_/same_as :: [Adams,John_Quincy.internal](/_internal/Earth/Continent/America~North/US~President/Adams,John_Quincy.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~North/USA/US_President/Adams,John_Quincy.internal|Adams,John_Quincy.internal]] 
 
-### #is_/same_as :: [Adams,John_Quincy.protect](/_protect/Earth/Continent/America~North/US~President/Adams,John_Quincy.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~North/USA/US_President/Adams,John_Quincy.protect|Adams,John_Quincy.protect]] 
 
-### #is_/same_as :: [Adams,John_Quincy.private](/_private/Earth/Continent/America~North/US~President/Adams,John_Quincy.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~North/USA/US_President/Adams,John_Quincy.private|Adams,John_Quincy.private]] 
 
-### #is_/same_as :: [Adams,John_Quincy.personal](/_personal/Earth/Continent/America~North/US~President/Adams,John_Quincy.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~North/USA/US_President/Adams,John_Quincy.personal|Adams,John_Quincy.personal]] 
 
-### #is_/same_as :: [Adams,John_Quincy.secret](/_secret/Earth/Continent/America~North/US~President/Adams,John_Quincy.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~North/USA/US_President/Adams,John_Quincy.secret|Adams,John_Quincy.secret]] 
 

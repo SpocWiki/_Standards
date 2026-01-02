@@ -55,17 +55,17 @@ Commons_category: Wends
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Wends](/_Standards/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Wends.md) 
+### #is_/same_as :: [[/_Standards/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Wends|Wends]] 
 
-### #is_/same_as :: [Wends.public](/_public/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Wends.public.md) 
+### #is_/same_as :: [[/_public/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Wends.public|Wends.public]] 
 
-### #is_/same_as :: [Wends.internal](/_internal/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Wends.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Wends.internal|Wends.internal]] 
 
-### #is_/same_as :: [Wends.protect](/_protect/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Wends.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Wends.protect|Wends.protect]] 
 
-### #is_/same_as :: [Wends.private](/_private/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Wends.private.md) 
+### #is_/same_as :: [[/_private/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Wends.private|Wends.private]] 
 
-### #is_/same_as :: [Wends.personal](/_personal/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Wends.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Wends.personal|Wends.personal]] 
 
-### #is_/same_as :: [Wends.secret](/_secret/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Wends.secret.md)
+### #is_/same_as :: [[/_secret/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Wends.secret|Wends.secret]] 
 

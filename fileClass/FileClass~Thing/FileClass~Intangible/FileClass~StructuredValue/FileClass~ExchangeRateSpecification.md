@@ -70,17 +70,17 @@ ExchangeRateSpread:: {"type":"Number","options":{}}
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~ExchangeRateSpecification](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~ExchangeRateSpecification.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~ExchangeRateSpecification|FileClass~ExchangeRateSpecification]] 
 
-### #is_/same_as :: [FileClass~ExchangeRateSpecification.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~ExchangeRateSpecification.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~ExchangeRateSpecification.public|FileClass~ExchangeRateSpecification.public]] 
 
-### #is_/same_as :: [FileClass~ExchangeRateSpecification.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~ExchangeRateSpecification.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~ExchangeRateSpecification.internal|FileClass~ExchangeRateSpecification.internal]] 
 
-### #is_/same_as :: [FileClass~ExchangeRateSpecification.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~ExchangeRateSpecification.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~ExchangeRateSpecification.protect|FileClass~ExchangeRateSpecification.protect]] 
 
-### #is_/same_as :: [FileClass~ExchangeRateSpecification.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~ExchangeRateSpecification.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~ExchangeRateSpecification.private|FileClass~ExchangeRateSpecification.private]] 
 
-### #is_/same_as :: [FileClass~ExchangeRateSpecification.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~ExchangeRateSpecification.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~ExchangeRateSpecification.personal|FileClass~ExchangeRateSpecification.personal]] 
 
-### #is_/same_as :: [FileClass~ExchangeRateSpecification.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~ExchangeRateSpecification.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~ExchangeRateSpecification.secret|FileClass~ExchangeRateSpecification.secret]] 
 

@@ -32,17 +32,17 @@ topic_s_main_category: "[[_Standards/WikiData/WD~Q32516772,32516772]]"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Group_Representation](/_Standards/Mathematics/Algebra/Group_Representation.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Algebra/Group_Representation|Group_Representation]] 
 
-### #is_/same_as :: [Group_Representation.public](/_public/Mathematics/Algebra/Group_Representation.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Algebra/Group_Representation.public|Group_Representation.public]] 
 
-### #is_/same_as :: [Group_Representation.internal](/_internal/Mathematics/Algebra/Group_Representation.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Algebra/Group_Representation.internal|Group_Representation.internal]] 
 
-### #is_/same_as :: [Group_Representation.protect](/_protect/Mathematics/Algebra/Group_Representation.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Algebra/Group_Representation.protect|Group_Representation.protect]] 
 
-### #is_/same_as :: [Group_Representation.private](/_private/Mathematics/Algebra/Group_Representation.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Algebra/Group_Representation.private|Group_Representation.private]] 
 
-### #is_/same_as :: [Group_Representation.personal](/_personal/Mathematics/Algebra/Group_Representation.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Algebra/Group_Representation.personal|Group_Representation.personal]] 
 
-### #is_/same_as :: [Group_Representation.secret](/_secret/Mathematics/Algebra/Group_Representation.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Algebra/Group_Representation.secret|Group_Representation.secret]] 
 

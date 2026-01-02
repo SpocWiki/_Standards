@@ -125,17 +125,17 @@ date_of_birth: 1930-08-30T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Buffett,Warren](/_Standards/Society/Economics/Capital(Economics)/Investor/Buffett,Warren.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Capital(Economics)/Investor/Buffett,Warren|Buffett,Warren]] 
 
-### #is_/same_as :: [Buffett,Warren.public](/_public/Society/Economics/Capital(Economics)/Investor/Buffett,Warren.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Capital(Economics)/Investor/Buffett,Warren.public|Buffett,Warren.public]] 
 
-### #is_/same_as :: [Buffett,Warren.internal](/_internal/Society/Economics/Capital(Economics)/Investor/Buffett,Warren.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Capital(Economics)/Investor/Buffett,Warren.internal|Buffett,Warren.internal]] 
 
-### #is_/same_as :: [Buffett,Warren.protect](/_protect/Society/Economics/Capital(Economics)/Investor/Buffett,Warren.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Capital(Economics)/Investor/Buffett,Warren.protect|Buffett,Warren.protect]] 
 
-### #is_/same_as :: [Buffett,Warren.private](/_private/Society/Economics/Capital(Economics)/Investor/Buffett,Warren.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Capital(Economics)/Investor/Buffett,Warren.private|Buffett,Warren.private]] 
 
-### #is_/same_as :: [Buffett,Warren.personal](/_personal/Society/Economics/Capital(Economics)/Investor/Buffett,Warren.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Capital(Economics)/Investor/Buffett,Warren.personal|Buffett,Warren.personal]] 
 
-### #is_/same_as :: [Buffett,Warren.secret](/_secret/Society/Economics/Capital(Economics)/Investor/Buffett,Warren.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Capital(Economics)/Investor/Buffett,Warren.secret|Buffett,Warren.secret]] 
 

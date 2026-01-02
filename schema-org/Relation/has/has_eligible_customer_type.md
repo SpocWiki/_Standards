@@ -43,17 +43,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_eligible_customer_type](/_Standards/schema-org/Relation/has/has_eligible_customer_type.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_eligible_customer_type|has_eligible_customer_type]] 
 
-### #is_/same_as :: [has_eligible_customer_type.public](/_public/schema-org/Relation/has/has_eligible_customer_type.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_eligible_customer_type.public|has_eligible_customer_type.public]] 
 
-### #is_/same_as :: [has_eligible_customer_type.internal](/_internal/schema-org/Relation/has/has_eligible_customer_type.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_eligible_customer_type.internal|has_eligible_customer_type.internal]] 
 
-### #is_/same_as :: [has_eligible_customer_type.protect](/_protect/schema-org/Relation/has/has_eligible_customer_type.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_eligible_customer_type.protect|has_eligible_customer_type.protect]] 
 
-### #is_/same_as :: [has_eligible_customer_type.private](/_private/schema-org/Relation/has/has_eligible_customer_type.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_eligible_customer_type.private|has_eligible_customer_type.private]] 
 
-### #is_/same_as :: [has_eligible_customer_type.personal](/_personal/schema-org/Relation/has/has_eligible_customer_type.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_eligible_customer_type.personal|has_eligible_customer_type.personal]] 
 
-### #is_/same_as :: [has_eligible_customer_type.secret](/_secret/schema-org/Relation/has/has_eligible_customer_type.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_eligible_customer_type.secret|has_eligible_customer_type.secret]] 
 

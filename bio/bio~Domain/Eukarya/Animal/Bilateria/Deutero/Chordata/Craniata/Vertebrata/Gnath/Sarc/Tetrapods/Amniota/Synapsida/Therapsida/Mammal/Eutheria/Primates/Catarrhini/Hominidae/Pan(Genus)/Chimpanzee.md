@@ -62,6 +62,11 @@ EPPO_Code: PANZTR
 
 #is_/same_as :: [[WD~Chimpanzee,4126704]]
 
+![Pan_troglodytes](Chimpanzee/Pan_troglodytes.jpg)
+
+![](Chimpanzee/hugh_portrait.jpg)
+![](Chimpanzee/mike_portrait.jpg)
+
 ## #has_/text_of_/abstract 
 
 > The chimpanzee (Pan troglodytes), also simply known as the chimp, is a species of great ape native to the forests and savannahs of tropical Africa. It has four confirmed subspecies and a fifth proposed one. When its close relative, the bonobo, was more commonly known as the pygmy chimpanzee, this species was often called the common chimpanzee or the robust chimpanzee. The chimpanzee and the bonobo are the only species in the genus Pan. Evidence from fossils and DNA sequencing shows that Pan is a sister taxon to the human lineage and is thus humans' closest living relative.
@@ -75,4 +80,23 @@ EPPO_Code: PANZTR
 > [Wikipedia](https://en.wikipedia.org/wiki/Chimpanzee) 
 
 
+
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Primates/Catarrhini/Hominidae/Pan(Genus)/Chimpanzee|Chimpanzee]] 
+
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Primates/Catarrhini/Hominidae/Pan(Genus)/Chimpanzee.public|Chimpanzee.public]] 
+
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Primates/Catarrhini/Hominidae/Pan(Genus)/Chimpanzee.internal|Chimpanzee.internal]] 
+
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Primates/Catarrhini/Hominidae/Pan(Genus)/Chimpanzee.protect|Chimpanzee.protect]] 
+
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Primates/Catarrhini/Hominidae/Pan(Genus)/Chimpanzee.private|Chimpanzee.private]] 
+
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Primates/Catarrhini/Hominidae/Pan(Genus)/Chimpanzee.personal|Chimpanzee.personal]] 
+
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Primates/Catarrhini/Hominidae/Pan(Genus)/Chimpanzee.secret|Chimpanzee.secret]] 
 

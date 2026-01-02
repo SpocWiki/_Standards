@@ -111,36 +111,17 @@ type: private_note
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Learning](/_Standards/Society/Culture/Education/Learning.md) 
+### #is_/same_as :: [[/_Standards/Society/Culture/Education/Learning|Learning]] 
 
-### #is_/same_as :: [Learning.public](/_public/Society/Culture/Education/Learning.public.md) 
+### #is_/same_as :: [[/_public/Society/Culture/Education/Learning.public|Learning.public]] 
 
-### #is_/same_as :: [Learning.internal](/_internal/Society/Culture/Education/Learning.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Culture/Education/Learning.internal|Learning.internal]] 
 
-### #is_/same_as :: [Learning.protect](/_protect/Society/Culture/Education/Learning.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Culture/Education/Learning.protect|Learning.protect]] 
 
-### #is_/same_as :: [Learning.private](/_private/Society/Culture/Education/Learning.private.md) 
+### #is_/same_as :: [[/_private/Society/Culture/Education/Learning.private|Learning.private]] 
 
-### #is_/same_as :: [Learning.personal](/_personal/Society/Culture/Education/Learning.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Culture/Education/Learning.personal|Learning.personal]] 
 
-### #is_/same_as :: [Learning.secret](/_secret/Society/Culture/Education/Learning.secret.md)
+### #is_/same_as :: [[/_secret/Society/Culture/Education/Learning.secret|Learning.secret]] 
 
-
-# [[Learning]] 
-
-#is_/part_of :: [[Learning]] 
-
-![[Learning.svg]]
-
- 
-
-## Embedded Graph 
-
-![[Learning.svg]] 
-
-
-%%
-## Drawing
-```compressed-json
-N4IgLgngDgpiBcIYA8DGBDANgSwCYCd0B3EAGhADcZ8BnbAewDsEAmcm+gV31TkQAswYKDXgB6MQHNsYfpwBGAOlT0AtmIBeNCtlQbs6RmPry6uA4wC0KDDgLFLUTJ2lH8MTDHQ0YNMWHRJMRZFAA5FFjIkT1UYRjAaBABtAF1ydCgoAGUAsD5QSXw8LOwNPkZOTExyHRgiACF0VABrQq5GXABhekx6fAQQAGIAM1GxkABfCaA==
-```

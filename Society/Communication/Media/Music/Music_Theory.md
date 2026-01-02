@@ -46,17 +46,17 @@ subreddit: musictheory
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Music_Theory](/_Standards/Society/Communication/Media/Music/Music_Theory.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Music_Theory|Music_Theory]] 
 
-### #is_/same_as :: [Music_Theory.public](/_public/Society/Communication/Media/Music/Music_Theory.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Music_Theory.public|Music_Theory.public]] 
 
-### #is_/same_as :: [Music_Theory.internal](/_internal/Society/Communication/Media/Music/Music_Theory.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Music_Theory.internal|Music_Theory.internal]] 
 
-### #is_/same_as :: [Music_Theory.protect](/_protect/Society/Communication/Media/Music/Music_Theory.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Music_Theory.protect|Music_Theory.protect]] 
 
-### #is_/same_as :: [Music_Theory.private](/_private/Society/Communication/Media/Music/Music_Theory.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Music_Theory.private|Music_Theory.private]] 
 
-### #is_/same_as :: [Music_Theory.personal](/_personal/Society/Communication/Media/Music/Music_Theory.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Music_Theory.personal|Music_Theory.personal]] 
 
-### #is_/same_as :: [Music_Theory.secret](/_secret/Society/Communication/Media/Music/Music_Theory.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Music_Theory.secret|Music_Theory.secret]] 
 

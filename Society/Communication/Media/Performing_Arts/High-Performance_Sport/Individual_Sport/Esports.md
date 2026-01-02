@@ -71,17 +71,17 @@ Baidu_Tieba_name: 电子竞技
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Esports](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Esports.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Esports|Esports]] 
 
-### #is_/same_as :: [Esports.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Esports.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Esports.public|Esports.public]] 
 
-### #is_/same_as :: [Esports.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Esports.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Esports.internal|Esports.internal]] 
 
-### #is_/same_as :: [Esports.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Esports.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Esports.protect|Esports.protect]] 
 
-### #is_/same_as :: [Esports.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Esports.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Esports.private|Esports.private]] 
 
-### #is_/same_as :: [Esports.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Esports.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Esports.personal|Esports.personal]] 
 
-### #is_/same_as :: [Esports.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Esports.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Esports.secret|Esports.secret]] 
 

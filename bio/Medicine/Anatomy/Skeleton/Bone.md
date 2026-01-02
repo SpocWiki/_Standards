@@ -68,17 +68,17 @@ Rigid connective tissue that comprises up the skeletal structure of the human bo
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bone](/_Standards/bio/Medicine/Anatomy/Skeleton/Bone.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Anatomy/Skeleton/Bone|Bone]] 
 
-### #is_/same_as :: [Bone.public](/_public/bio/Medicine/Anatomy/Skeleton/Bone.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Anatomy/Skeleton/Bone.public|Bone.public]] 
 
-### #is_/same_as :: [Bone.internal](/_internal/bio/Medicine/Anatomy/Skeleton/Bone.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Anatomy/Skeleton/Bone.internal|Bone.internal]] 
 
-### #is_/same_as :: [Bone.protect](/_protect/bio/Medicine/Anatomy/Skeleton/Bone.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Anatomy/Skeleton/Bone.protect|Bone.protect]] 
 
-### #is_/same_as :: [Bone.private](/_private/bio/Medicine/Anatomy/Skeleton/Bone.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Anatomy/Skeleton/Bone.private|Bone.private]] 
 
-### #is_/same_as :: [Bone.personal](/_personal/bio/Medicine/Anatomy/Skeleton/Bone.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Anatomy/Skeleton/Bone.personal|Bone.personal]] 
 
-### #is_/same_as :: [Bone.secret](/_secret/bio/Medicine/Anatomy/Skeleton/Bone.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Anatomy/Skeleton/Bone.secret|Bone.secret]] 
 

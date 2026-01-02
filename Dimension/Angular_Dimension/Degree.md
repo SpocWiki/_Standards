@@ -52,17 +52,17 @@ unit_symbol: °
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Degree](/_Standards/Dimension/Angular_Dimension/Degree.md) 
+### #is_/same_as :: [[/_Standards/Dimension/Angular_Dimension/Degree|Degree]] 
 
-### #is_/same_as :: [Degree.public](/_public/Dimension/Angular_Dimension/Degree.public.md) 
+### #is_/same_as :: [[/_public/Dimension/Angular_Dimension/Degree.public|Degree.public]] 
 
-### #is_/same_as :: [Degree.internal](/_internal/Dimension/Angular_Dimension/Degree.internal.md) 
+### #is_/same_as :: [[/_internal/Dimension/Angular_Dimension/Degree.internal|Degree.internal]] 
 
-### #is_/same_as :: [Degree.protect](/_protect/Dimension/Angular_Dimension/Degree.protect.md) 
+### #is_/same_as :: [[/_protect/Dimension/Angular_Dimension/Degree.protect|Degree.protect]] 
 
-### #is_/same_as :: [Degree.private](/_private/Dimension/Angular_Dimension/Degree.private.md) 
+### #is_/same_as :: [[/_private/Dimension/Angular_Dimension/Degree.private|Degree.private]] 
 
-### #is_/same_as :: [Degree.personal](/_personal/Dimension/Angular_Dimension/Degree.personal.md) 
+### #is_/same_as :: [[/_personal/Dimension/Angular_Dimension/Degree.personal|Degree.personal]] 
 
-### #is_/same_as :: [Degree.secret](/_secret/Dimension/Angular_Dimension/Degree.secret.md)
+### #is_/same_as :: [[/_secret/Dimension/Angular_Dimension/Degree.secret|Degree.secret]] 
 

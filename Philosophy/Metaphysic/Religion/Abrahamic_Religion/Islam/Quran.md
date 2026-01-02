@@ -292,17 +292,17 @@ Stack_Exchange_tag: https://islam.stackexchange.com/tags/quran
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Quran](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Quran.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Quran|Quran]] 
 
-### #is_/same_as :: [Quran.public](/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Quran.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Quran.public|Quran.public]] 
 
-### #is_/same_as :: [Quran.internal](/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Quran.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Quran.internal|Quran.internal]] 
 
-### #is_/same_as :: [Quran.protect](/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Quran.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Quran.protect|Quran.protect]] 
 
-### #is_/same_as :: [Quran.private](/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Quran.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Quran.private|Quran.private]] 
 
-### #is_/same_as :: [Quran.personal](/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Quran.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Quran.personal|Quran.personal]] 
 
-### #is_/same_as :: [Quran.secret](/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Quran.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Quran.secret|Quran.secret]] 
 

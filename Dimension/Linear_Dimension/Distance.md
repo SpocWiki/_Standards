@@ -53,17 +53,17 @@ OpenStreetMap_tag_or_key: Key:distance
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Distance](/_Standards/Dimension/Linear_Dimension/Distance.md) 
+### #is_/same_as :: [[/_Standards/Dimension/Linear_Dimension/Distance|Distance]] 
 
-### #is_/same_as :: [Distance.public](/_public/Dimension/Linear_Dimension/Distance.public.md) 
+### #is_/same_as :: [[/_public/Dimension/Linear_Dimension/Distance.public|Distance.public]] 
 
-### #is_/same_as :: [Distance.internal](/_internal/Dimension/Linear_Dimension/Distance.internal.md) 
+### #is_/same_as :: [[/_internal/Dimension/Linear_Dimension/Distance.internal|Distance.internal]] 
 
-### #is_/same_as :: [Distance.protect](/_protect/Dimension/Linear_Dimension/Distance.protect.md) 
+### #is_/same_as :: [[/_protect/Dimension/Linear_Dimension/Distance.protect|Distance.protect]] 
 
-### #is_/same_as :: [Distance.private](/_private/Dimension/Linear_Dimension/Distance.private.md) 
+### #is_/same_as :: [[/_private/Dimension/Linear_Dimension/Distance.private|Distance.private]] 
 
-### #is_/same_as :: [Distance.personal](/_personal/Dimension/Linear_Dimension/Distance.personal.md) 
+### #is_/same_as :: [[/_personal/Dimension/Linear_Dimension/Distance.personal|Distance.personal]] 
 
-### #is_/same_as :: [Distance.secret](/_secret/Dimension/Linear_Dimension/Distance.secret.md)
+### #is_/same_as :: [[/_secret/Dimension/Linear_Dimension/Distance.secret|Distance.secret]] 
 

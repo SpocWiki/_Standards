@@ -31,17 +31,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Trade_Secret](/_Standards/Society/Law/Civil_Law/Intellectual_Property/Trade_Secret.md) 
+### #is_/same_as :: [[/_Standards/Society/Law/Civil_Law/Intellectual_Property/Trade_Secret|Trade_Secret]] 
 
-### #is_/same_as :: [Trade_Secret.public](/_public/Society/Law/Civil_Law/Intellectual_Property/Trade_Secret.public.md) 
+### #is_/same_as :: [[/_public/Society/Law/Civil_Law/Intellectual_Property/Trade_Secret.public|Trade_Secret.public]] 
 
-### #is_/same_as :: [Trade_Secret.internal](/_internal/Society/Law/Civil_Law/Intellectual_Property/Trade_Secret.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Law/Civil_Law/Intellectual_Property/Trade_Secret.internal|Trade_Secret.internal]] 
 
-### #is_/same_as :: [Trade_Secret.protect](/_protect/Society/Law/Civil_Law/Intellectual_Property/Trade_Secret.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Law/Civil_Law/Intellectual_Property/Trade_Secret.protect|Trade_Secret.protect]] 
 
-### #is_/same_as :: [Trade_Secret.private](/_private/Society/Law/Civil_Law/Intellectual_Property/Trade_Secret.private.md) 
+### #is_/same_as :: [[/_private/Society/Law/Civil_Law/Intellectual_Property/Trade_Secret.private|Trade_Secret.private]] 
 
-### #is_/same_as :: [Trade_Secret.personal](/_personal/Society/Law/Civil_Law/Intellectual_Property/Trade_Secret.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Law/Civil_Law/Intellectual_Property/Trade_Secret.personal|Trade_Secret.personal]] 
 
-### #is_/same_as :: [Trade_Secret.secret](/_secret/Society/Law/Civil_Law/Intellectual_Property/Trade_Secret.secret.md)
+### #is_/same_as :: [[/_secret/Society/Law/Civil_Law/Intellectual_Property/Trade_Secret.secret|Trade_Secret.secret]] 
 

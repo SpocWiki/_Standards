@@ -101,17 +101,17 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Robert%20wise%201990.j
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Wise,Robert](/_Standards/Society/Communication/Media/Movie/Movie-Director/Wise,Robert.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Director/Wise,Robert|Wise,Robert]] 
 
-### #is_/same_as :: [Wise,Robert.public](/_public/Society/Communication/Media/Movie/Movie-Director/Wise,Robert.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Director/Wise,Robert.public|Wise,Robert.public]] 
 
-### #is_/same_as :: [Wise,Robert.internal](/_internal/Society/Communication/Media/Movie/Movie-Director/Wise,Robert.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Director/Wise,Robert.internal|Wise,Robert.internal]] 
 
-### #is_/same_as :: [Wise,Robert.protect](/_protect/Society/Communication/Media/Movie/Movie-Director/Wise,Robert.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Director/Wise,Robert.protect|Wise,Robert.protect]] 
 
-### #is_/same_as :: [Wise,Robert.private](/_private/Society/Communication/Media/Movie/Movie-Director/Wise,Robert.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Director/Wise,Robert.private|Wise,Robert.private]] 
 
-### #is_/same_as :: [Wise,Robert.personal](/_personal/Society/Communication/Media/Movie/Movie-Director/Wise,Robert.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Director/Wise,Robert.personal|Wise,Robert.personal]] 
 
-### #is_/same_as :: [Wise,Robert.secret](/_secret/Society/Communication/Media/Movie/Movie-Director/Wise,Robert.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Director/Wise,Robert.secret|Wise,Robert.secret]] 
 

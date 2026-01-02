@@ -77,17 +77,17 @@ Krugosvet_article: muzyka/kontrabas
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Double_Bass](/_Standards/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Double_Bass.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Double_Bass|Double_Bass]] 
 
-### #is_/same_as :: [Double_Bass.public](/_public/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Double_Bass.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Double_Bass.public|Double_Bass.public]] 
 
-### #is_/same_as :: [Double_Bass.internal](/_internal/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Double_Bass.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Double_Bass.internal|Double_Bass.internal]] 
 
-### #is_/same_as :: [Double_Bass.protect](/_protect/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Double_Bass.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Double_Bass.protect|Double_Bass.protect]] 
 
-### #is_/same_as :: [Double_Bass.private](/_private/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Double_Bass.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Double_Bass.private|Double_Bass.private]] 
 
-### #is_/same_as :: [Double_Bass.personal](/_personal/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Double_Bass.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Double_Bass.personal|Double_Bass.personal]] 
 
-### #is_/same_as :: [Double_Bass.secret](/_secret/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Double_Bass.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Double_Bass.secret|Double_Bass.secret]] 
 

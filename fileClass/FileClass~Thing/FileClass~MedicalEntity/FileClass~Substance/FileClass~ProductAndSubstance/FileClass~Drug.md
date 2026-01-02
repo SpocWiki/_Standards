@@ -293,17 +293,17 @@ Warning:: {"type":"Input","options":{}}
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~Drug](/_Standards/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~Substance/FileClass~ProductAndSubstance/FileClass~Drug.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~Substance/FileClass~ProductAndSubstance/FileClass~Drug|FileClass~Drug]] 
 
-### #is_/same_as :: [FileClass~Drug.public](/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~Substance/FileClass~ProductAndSubstance/FileClass~Drug.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~Substance/FileClass~ProductAndSubstance/FileClass~Drug.public|FileClass~Drug.public]] 
 
-### #is_/same_as :: [FileClass~Drug.internal](/_internal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~Substance/FileClass~ProductAndSubstance/FileClass~Drug.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~Substance/FileClass~ProductAndSubstance/FileClass~Drug.internal|FileClass~Drug.internal]] 
 
-### #is_/same_as :: [FileClass~Drug.protect](/_protect/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~Substance/FileClass~ProductAndSubstance/FileClass~Drug.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~Substance/FileClass~ProductAndSubstance/FileClass~Drug.protect|FileClass~Drug.protect]] 
 
-### #is_/same_as :: [FileClass~Drug.private](/_private/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~Substance/FileClass~ProductAndSubstance/FileClass~Drug.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~Substance/FileClass~ProductAndSubstance/FileClass~Drug.private|FileClass~Drug.private]] 
 
-### #is_/same_as :: [FileClass~Drug.personal](/_personal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~Substance/FileClass~ProductAndSubstance/FileClass~Drug.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~Substance/FileClass~ProductAndSubstance/FileClass~Drug.personal|FileClass~Drug.personal]] 
 
-### #is_/same_as :: [FileClass~Drug.secret](/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~Substance/FileClass~ProductAndSubstance/FileClass~Drug.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~Substance/FileClass~ProductAndSubstance/FileClass~Drug.secret|FileClass~Drug.secret]] 
 

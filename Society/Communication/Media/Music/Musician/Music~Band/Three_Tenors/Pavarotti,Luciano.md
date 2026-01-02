@@ -126,17 +126,17 @@ Krugosvet_article_archived_: kultura_i_obrazovanie/muzyka/PAVAROTTI_LUCHANO.html
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Pavarotti,Luciano](/_Standards/Society/Communication/Media/Music/Musician/Music~Band/Three_Tenors/Pavarotti,Luciano.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Musician/Music~Band/Three_Tenors/Pavarotti,Luciano|Pavarotti,Luciano]] 
 
-### #is_/same_as :: [Pavarotti,Luciano.public](/_public/Society/Communication/Media/Music/Musician/Music~Band/Three_Tenors/Pavarotti,Luciano.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Musician/Music~Band/Three_Tenors/Pavarotti,Luciano.public|Pavarotti,Luciano.public]] 
 
-### #is_/same_as :: [Pavarotti,Luciano.internal](/_internal/Society/Communication/Media/Music/Musician/Music~Band/Three_Tenors/Pavarotti,Luciano.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Musician/Music~Band/Three_Tenors/Pavarotti,Luciano.internal|Pavarotti,Luciano.internal]] 
 
-### #is_/same_as :: [Pavarotti,Luciano.protect](/_protect/Society/Communication/Media/Music/Musician/Music~Band/Three_Tenors/Pavarotti,Luciano.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Musician/Music~Band/Three_Tenors/Pavarotti,Luciano.protect|Pavarotti,Luciano.protect]] 
 
-### #is_/same_as :: [Pavarotti,Luciano.private](/_private/Society/Communication/Media/Music/Musician/Music~Band/Three_Tenors/Pavarotti,Luciano.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Musician/Music~Band/Three_Tenors/Pavarotti,Luciano.private|Pavarotti,Luciano.private]] 
 
-### #is_/same_as :: [Pavarotti,Luciano.personal](/_personal/Society/Communication/Media/Music/Musician/Music~Band/Three_Tenors/Pavarotti,Luciano.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Musician/Music~Band/Three_Tenors/Pavarotti,Luciano.personal|Pavarotti,Luciano.personal]] 
 
-### #is_/same_as :: [Pavarotti,Luciano.secret](/_secret/Society/Communication/Media/Music/Musician/Music~Band/Three_Tenors/Pavarotti,Luciano.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Musician/Music~Band/Three_Tenors/Pavarotti,Luciano.secret|Pavarotti,Luciano.secret]] 
 

@@ -42,17 +42,17 @@ dissolved_abolished_or_demolished_date: 2002-01-01T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Organisation_of_African_Unity](/_Standards/Society/Agent/Community/Organization/International_Organization/Organisation_of_African_Unity.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/International_Organization/Organisation_of_African_Unity|Organisation_of_African_Unity]] 
 
-### #is_/same_as :: [Organisation_of_African_Unity.public](/_public/Society/Agent/Community/Organization/International_Organization/Organisation_of_African_Unity.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/International_Organization/Organisation_of_African_Unity.public|Organisation_of_African_Unity.public]] 
 
-### #is_/same_as :: [Organisation_of_African_Unity.internal](/_internal/Society/Agent/Community/Organization/International_Organization/Organisation_of_African_Unity.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/International_Organization/Organisation_of_African_Unity.internal|Organisation_of_African_Unity.internal]] 
 
-### #is_/same_as :: [Organisation_of_African_Unity.protect](/_protect/Society/Agent/Community/Organization/International_Organization/Organisation_of_African_Unity.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/International_Organization/Organisation_of_African_Unity.protect|Organisation_of_African_Unity.protect]] 
 
-### #is_/same_as :: [Organisation_of_African_Unity.private](/_private/Society/Agent/Community/Organization/International_Organization/Organisation_of_African_Unity.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/International_Organization/Organisation_of_African_Unity.private|Organisation_of_African_Unity.private]] 
 
-### #is_/same_as :: [Organisation_of_African_Unity.personal](/_personal/Society/Agent/Community/Organization/International_Organization/Organisation_of_African_Unity.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/International_Organization/Organisation_of_African_Unity.personal|Organisation_of_African_Unity.personal]] 
 
-### #is_/same_as :: [Organisation_of_African_Unity.secret](/_secret/Society/Agent/Community/Organization/International_Organization/Organisation_of_African_Unity.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/International_Organization/Organisation_of_African_Unity.secret|Organisation_of_African_Unity.secret]] 
 

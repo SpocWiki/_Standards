@@ -65,3 +65,22 @@ IMDb_keyword: countryside
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Rural%20area) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Geography/Place/Administrative_Area/Municipality/Rural_Area|Rural_Area]] 
+
+### #is_/same_as :: [[/_public/Earth/Geography/Place/Administrative_Area/Municipality/Rural_Area.public|Rural_Area.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Geography/Place/Administrative_Area/Municipality/Rural_Area.internal|Rural_Area.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Geography/Place/Administrative_Area/Municipality/Rural_Area.protect|Rural_Area.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Geography/Place/Administrative_Area/Municipality/Rural_Area.private|Rural_Area.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Geography/Place/Administrative_Area/Municipality/Rural_Area.personal|Rural_Area.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Geography/Place/Administrative_Area/Municipality/Rural_Area.secret|Rural_Area.secret]] 
+

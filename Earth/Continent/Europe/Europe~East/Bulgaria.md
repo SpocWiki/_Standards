@@ -588,17 +588,17 @@ Capital :: [[./Bulgaria/Counties/Sofia]]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bulgaria](/_Standards/Earth/Continent/Europe/Europe~East/Bulgaria.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Bulgaria|Bulgaria]] 
 
-### #is_/same_as :: [Bulgaria.public](/_public/Earth/Continent/Europe/Europe~East/Bulgaria.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Bulgaria.public|Bulgaria.public]] 
 
-### #is_/same_as :: [Bulgaria.internal](/_internal/Earth/Continent/Europe/Europe~East/Bulgaria.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Bulgaria.internal|Bulgaria.internal]] 
 
-### #is_/same_as :: [Bulgaria.protect](/_protect/Earth/Continent/Europe/Europe~East/Bulgaria.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Bulgaria.protect|Bulgaria.protect]] 
 
-### #is_/same_as :: [Bulgaria.private](/_private/Earth/Continent/Europe/Europe~East/Bulgaria.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Bulgaria.private|Bulgaria.private]] 
 
-### #is_/same_as :: [Bulgaria.personal](/_personal/Earth/Continent/Europe/Europe~East/Bulgaria.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Bulgaria.personal|Bulgaria.personal]] 
 
-### #is_/same_as :: [Bulgaria.secret](/_secret/Earth/Continent/Europe/Europe~East/Bulgaria.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Bulgaria.secret|Bulgaria.secret]] 
 

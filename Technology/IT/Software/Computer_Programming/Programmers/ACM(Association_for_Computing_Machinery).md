@@ -115,17 +115,17 @@ official_website: https://www.acm.org
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [ACM(Association_for_Computing_Machinery)](/_Standards/Technology/IT/Software/Computer_Programming/Programmers/ACM(Association_for_Computing_Machinery).md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Software/Computer_Programming/Programmers/ACM(Association_for_Computing_Machinery)|ACM(Association_for_Computing_Machinery)]] 
 
-### #is_/same_as :: [ACM(Association_for_Computing_Machinery).public](/_public/Technology/IT/Software/Computer_Programming/Programmers/ACM(Association_for_Computing_Machinery).public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Software/Computer_Programming/Programmers/ACM(Association_for_Computing_Machinery).public|ACM(Association_for_Computing_Machinery).public]] 
 
-### #is_/same_as :: [ACM(Association_for_Computing_Machinery).internal](/_internal/Technology/IT/Software/Computer_Programming/Programmers/ACM(Association_for_Computing_Machinery).internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Software/Computer_Programming/Programmers/ACM(Association_for_Computing_Machinery).internal|ACM(Association_for_Computing_Machinery).internal]] 
 
-### #is_/same_as :: [ACM(Association_for_Computing_Machinery).protect](/_protect/Technology/IT/Software/Computer_Programming/Programmers/ACM(Association_for_Computing_Machinery).protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Software/Computer_Programming/Programmers/ACM(Association_for_Computing_Machinery).protect|ACM(Association_for_Computing_Machinery).protect]] 
 
-### #is_/same_as :: [ACM(Association_for_Computing_Machinery).private](/_private/Technology/IT/Software/Computer_Programming/Programmers/ACM(Association_for_Computing_Machinery).private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Software/Computer_Programming/Programmers/ACM(Association_for_Computing_Machinery).private|ACM(Association_for_Computing_Machinery).private]] 
 
-### #is_/same_as :: [ACM(Association_for_Computing_Machinery).personal](/_personal/Technology/IT/Software/Computer_Programming/Programmers/ACM(Association_for_Computing_Machinery).personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Software/Computer_Programming/Programmers/ACM(Association_for_Computing_Machinery).personal|ACM(Association_for_Computing_Machinery).personal]] 
 
-### #is_/same_as :: [ACM(Association_for_Computing_Machinery).secret](/_secret/Technology/IT/Software/Computer_Programming/Programmers/ACM(Association_for_Computing_Machinery).secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Software/Computer_Programming/Programmers/ACM(Association_for_Computing_Machinery).secret|ACM(Association_for_Computing_Machinery).secret]] 
 

@@ -54,17 +54,17 @@ exact_match:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Espresso](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Drink/Coffee/Espresso.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Home_Economics/Cooking/Food/Drink/Coffee/Espresso|Espresso]] 
 
-### #is_/same_as :: [Espresso.public](/_public/Society/Economics/Home_Economics/Cooking/Food/Drink/Coffee/Espresso.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Home_Economics/Cooking/Food/Drink/Coffee/Espresso.public|Espresso.public]] 
 
-### #is_/same_as :: [Espresso.internal](/_internal/Society/Economics/Home_Economics/Cooking/Food/Drink/Coffee/Espresso.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Home_Economics/Cooking/Food/Drink/Coffee/Espresso.internal|Espresso.internal]] 
 
-### #is_/same_as :: [Espresso.protect](/_protect/Society/Economics/Home_Economics/Cooking/Food/Drink/Coffee/Espresso.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Home_Economics/Cooking/Food/Drink/Coffee/Espresso.protect|Espresso.protect]] 
 
-### #is_/same_as :: [Espresso.private](/_private/Society/Economics/Home_Economics/Cooking/Food/Drink/Coffee/Espresso.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Home_Economics/Cooking/Food/Drink/Coffee/Espresso.private|Espresso.private]] 
 
-### #is_/same_as :: [Espresso.personal](/_personal/Society/Economics/Home_Economics/Cooking/Food/Drink/Coffee/Espresso.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Home_Economics/Cooking/Food/Drink/Coffee/Espresso.personal|Espresso.personal]] 
 
-### #is_/same_as :: [Espresso.secret](/_secret/Society/Economics/Home_Economics/Cooking/Food/Drink/Coffee/Espresso.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Home_Economics/Cooking/Food/Drink/Coffee/Espresso.secret|Espresso.secret]] 
 

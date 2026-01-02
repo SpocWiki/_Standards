@@ -139,17 +139,17 @@ Facebook_username: Beckham
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Beckham,David](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Association_Football/Footballer/Beckham,David.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Association_Football/Footballer/Beckham,David|Beckham,David]] 
 
-### #is_/same_as :: [Beckham,David.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Association_Football/Footballer/Beckham,David.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Association_Football/Footballer/Beckham,David.public|Beckham,David.public]] 
 
-### #is_/same_as :: [Beckham,David.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Association_Football/Footballer/Beckham,David.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Association_Football/Footballer/Beckham,David.internal|Beckham,David.internal]] 
 
-### #is_/same_as :: [Beckham,David.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Association_Football/Footballer/Beckham,David.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Association_Football/Footballer/Beckham,David.protect|Beckham,David.protect]] 
 
-### #is_/same_as :: [Beckham,David.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Association_Football/Footballer/Beckham,David.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Association_Football/Footballer/Beckham,David.private|Beckham,David.private]] 
 
-### #is_/same_as :: [Beckham,David.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Association_Football/Footballer/Beckham,David.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Association_Football/Footballer/Beckham,David.personal|Beckham,David.personal]] 
 
-### #is_/same_as :: [Beckham,David.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Association_Football/Footballer/Beckham,David.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Association_Football/Footballer/Beckham,David.secret|Beckham,David.secret]] 
 

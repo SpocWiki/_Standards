@@ -40,17 +40,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Frehley,Ace](/_Standards/Society/Communication/Media/Music/Musician/Music~Band/Kiss(Band)/Frehley,Ace.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Musician/Music~Band/Kiss(Band)/Frehley,Ace|Frehley,Ace]] 
 
-### #is_/same_as :: [Frehley,Ace.public](/_public/Society/Communication/Media/Music/Musician/Music~Band/Kiss(Band)/Frehley,Ace.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Musician/Music~Band/Kiss(Band)/Frehley,Ace.public|Frehley,Ace.public]] 
 
-### #is_/same_as :: [Frehley,Ace.internal](/_internal/Society/Communication/Media/Music/Musician/Music~Band/Kiss(Band)/Frehley,Ace.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Musician/Music~Band/Kiss(Band)/Frehley,Ace.internal|Frehley,Ace.internal]] 
 
-### #is_/same_as :: [Frehley,Ace.protect](/_protect/Society/Communication/Media/Music/Musician/Music~Band/Kiss(Band)/Frehley,Ace.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Musician/Music~Band/Kiss(Band)/Frehley,Ace.protect|Frehley,Ace.protect]] 
 
-### #is_/same_as :: [Frehley,Ace.private](/_private/Society/Communication/Media/Music/Musician/Music~Band/Kiss(Band)/Frehley,Ace.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Musician/Music~Band/Kiss(Band)/Frehley,Ace.private|Frehley,Ace.private]] 
 
-### #is_/same_as :: [Frehley,Ace.personal](/_personal/Society/Communication/Media/Music/Musician/Music~Band/Kiss(Band)/Frehley,Ace.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Musician/Music~Band/Kiss(Band)/Frehley,Ace.personal|Frehley,Ace.personal]] 
 
-### #is_/same_as :: [Frehley,Ace.secret](/_secret/Society/Communication/Media/Music/Musician/Music~Band/Kiss(Band)/Frehley,Ace.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Musician/Music~Band/Kiss(Band)/Frehley,Ace.secret|Frehley,Ace.secret]] 
 

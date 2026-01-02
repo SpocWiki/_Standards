@@ -64,17 +64,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Tibetan_Buddhism](/_Standards/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism/Tibetan_Buddhism.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism/Tibetan_Buddhism|Tibetan_Buddhism]] 
 
-### #is_/same_as :: [Tibetan_Buddhism.public](/_public/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism/Tibetan_Buddhism.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism/Tibetan_Buddhism.public|Tibetan_Buddhism.public]] 
 
-### #is_/same_as :: [Tibetan_Buddhism.internal](/_internal/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism/Tibetan_Buddhism.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism/Tibetan_Buddhism.internal|Tibetan_Buddhism.internal]] 
 
-### #is_/same_as :: [Tibetan_Buddhism.protect](/_protect/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism/Tibetan_Buddhism.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism/Tibetan_Buddhism.protect|Tibetan_Buddhism.protect]] 
 
-### #is_/same_as :: [Tibetan_Buddhism.private](/_private/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism/Tibetan_Buddhism.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism/Tibetan_Buddhism.private|Tibetan_Buddhism.private]] 
 
-### #is_/same_as :: [Tibetan_Buddhism.personal](/_personal/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism/Tibetan_Buddhism.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism/Tibetan_Buddhism.personal|Tibetan_Buddhism.personal]] 
 
-### #is_/same_as :: [Tibetan_Buddhism.secret](/_secret/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism/Tibetan_Buddhism.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism/Tibetan_Buddhism.secret|Tibetan_Buddhism.secret]] 
 

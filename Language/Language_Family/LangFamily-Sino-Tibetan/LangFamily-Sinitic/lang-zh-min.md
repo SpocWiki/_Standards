@@ -41,17 +41,17 @@ Glottolog_code: minn1248
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [lang-zh-min](/_Standards/Language/Language_Family/LangFamily-Sino-Tibetan/LangFamily-Sinitic/lang-zh-min.md) 
+### #is_/same_as :: [[/_Standards/Language/Language_Family/LangFamily-Sino-Tibetan/LangFamily-Sinitic/lang-zh-min|lang-zh-min]] 
 
-### #is_/same_as :: [lang-zh-min.public](/_public/Language/Language_Family/LangFamily-Sino-Tibetan/LangFamily-Sinitic/lang-zh-min.public.md) 
+### #is_/same_as :: [[/_public/Language/Language_Family/LangFamily-Sino-Tibetan/LangFamily-Sinitic/lang-zh-min.public|lang-zh-min.public]] 
 
-### #is_/same_as :: [lang-zh-min.internal](/_internal/Language/Language_Family/LangFamily-Sino-Tibetan/LangFamily-Sinitic/lang-zh-min.internal.md) 
+### #is_/same_as :: [[/_internal/Language/Language_Family/LangFamily-Sino-Tibetan/LangFamily-Sinitic/lang-zh-min.internal|lang-zh-min.internal]] 
 
-### #is_/same_as :: [lang-zh-min.protect](/_protect/Language/Language_Family/LangFamily-Sino-Tibetan/LangFamily-Sinitic/lang-zh-min.protect.md) 
+### #is_/same_as :: [[/_protect/Language/Language_Family/LangFamily-Sino-Tibetan/LangFamily-Sinitic/lang-zh-min.protect|lang-zh-min.protect]] 
 
-### #is_/same_as :: [lang-zh-min.private](/_private/Language/Language_Family/LangFamily-Sino-Tibetan/LangFamily-Sinitic/lang-zh-min.private.md) 
+### #is_/same_as :: [[/_private/Language/Language_Family/LangFamily-Sino-Tibetan/LangFamily-Sinitic/lang-zh-min.private|lang-zh-min.private]] 
 
-### #is_/same_as :: [lang-zh-min.personal](/_personal/Language/Language_Family/LangFamily-Sino-Tibetan/LangFamily-Sinitic/lang-zh-min.personal.md) 
+### #is_/same_as :: [[/_personal/Language/Language_Family/LangFamily-Sino-Tibetan/LangFamily-Sinitic/lang-zh-min.personal|lang-zh-min.personal]] 
 
-### #is_/same_as :: [lang-zh-min.secret](/_secret/Language/Language_Family/LangFamily-Sino-Tibetan/LangFamily-Sinitic/lang-zh-min.secret.md)
+### #is_/same_as :: [[/_secret/Language/Language_Family/LangFamily-Sino-Tibetan/LangFamily-Sinitic/lang-zh-min.secret|lang-zh-min.secret]] 
 

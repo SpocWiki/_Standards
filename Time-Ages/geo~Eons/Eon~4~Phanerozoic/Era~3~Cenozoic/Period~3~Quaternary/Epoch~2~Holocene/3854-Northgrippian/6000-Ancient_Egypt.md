@@ -140,17 +140,17 @@ has_/time_/stopped :: -332
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [6000-Ancient_Egypt](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/3854-Northgrippian/6000-Ancient_Egypt.md) 
+### #is_/same_as :: [[/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/3854-Northgrippian/6000-Ancient_Egypt|6000-Ancient_Egypt]] 
 
-### #is_/same_as :: [6000-Ancient_Egypt.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/3854-Northgrippian/6000-Ancient_Egypt.public.md) 
+### #is_/same_as :: [[/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/3854-Northgrippian/6000-Ancient_Egypt.public|6000-Ancient_Egypt.public]] 
 
-### #is_/same_as :: [6000-Ancient_Egypt.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/3854-Northgrippian/6000-Ancient_Egypt.internal.md) 
+### #is_/same_as :: [[/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/3854-Northgrippian/6000-Ancient_Egypt.internal|6000-Ancient_Egypt.internal]] 
 
-### #is_/same_as :: [6000-Ancient_Egypt.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/3854-Northgrippian/6000-Ancient_Egypt.protect.md) 
+### #is_/same_as :: [[/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/3854-Northgrippian/6000-Ancient_Egypt.protect|6000-Ancient_Egypt.protect]] 
 
-### #is_/same_as :: [6000-Ancient_Egypt.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/3854-Northgrippian/6000-Ancient_Egypt.private.md) 
+### #is_/same_as :: [[/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/3854-Northgrippian/6000-Ancient_Egypt.private|6000-Ancient_Egypt.private]] 
 
-### #is_/same_as :: [6000-Ancient_Egypt.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/3854-Northgrippian/6000-Ancient_Egypt.personal.md) 
+### #is_/same_as :: [[/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/3854-Northgrippian/6000-Ancient_Egypt.personal|6000-Ancient_Egypt.personal]] 
 
-### #is_/same_as :: [6000-Ancient_Egypt.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/3854-Northgrippian/6000-Ancient_Egypt.secret.md)
+### #is_/same_as :: [[/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/3854-Northgrippian/6000-Ancient_Egypt.secret|6000-Ancient_Egypt.secret]] 
 

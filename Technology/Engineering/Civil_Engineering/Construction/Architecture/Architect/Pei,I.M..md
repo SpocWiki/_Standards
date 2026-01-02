@@ -145,17 +145,17 @@ date_of_birth: 1917-04-26T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Pei,I.M.](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Pei,I.M..md) 
+### #is_/same_as :: [[/_Standards/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Pei,I.M.|Pei,I.M.]] 
 
-### #is_/same_as :: [Pei,I.M..public](/_public/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Pei,I.M..public.md) 
+### #is_/same_as :: [[/_public/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Pei,I.M..public|Pei,I.M..public]] 
 
-### #is_/same_as :: [Pei,I.M..internal](/_internal/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Pei,I.M..internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Pei,I.M..internal|Pei,I.M..internal]] 
 
-### #is_/same_as :: [Pei,I.M..protect](/_protect/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Pei,I.M..protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Pei,I.M..protect|Pei,I.M..protect]] 
 
-### #is_/same_as :: [Pei,I.M..private](/_private/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Pei,I.M..private.md) 
+### #is_/same_as :: [[/_private/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Pei,I.M..private|Pei,I.M..private]] 
 
-### #is_/same_as :: [Pei,I.M..personal](/_personal/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Pei,I.M..personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Pei,I.M..personal|Pei,I.M..personal]] 
 
-### #is_/same_as :: [Pei,I.M..secret](/_secret/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Pei,I.M..secret.md)
+### #is_/same_as :: [[/_secret/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Pei,I.M..secret|Pei,I.M..secret]] 
 

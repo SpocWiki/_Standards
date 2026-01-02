@@ -58,17 +58,17 @@ Commons_category: Ancient Egyptian calendar
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Egyptian_Calendar](/_Standards/ISO/Calendar/Egyptian_Calendar.md) 
+### #is_/same_as :: [[/_Standards/ISO/Calendar/Egyptian_Calendar|Egyptian_Calendar]] 
 
-### #is_/same_as :: [Egyptian_Calendar.public](/_public/ISO/Calendar/Egyptian_Calendar.public.md) 
+### #is_/same_as :: [[/_public/ISO/Calendar/Egyptian_Calendar.public|Egyptian_Calendar.public]] 
 
-### #is_/same_as :: [Egyptian_Calendar.internal](/_internal/ISO/Calendar/Egyptian_Calendar.internal.md) 
+### #is_/same_as :: [[/_internal/ISO/Calendar/Egyptian_Calendar.internal|Egyptian_Calendar.internal]] 
 
-### #is_/same_as :: [Egyptian_Calendar.protect](/_protect/ISO/Calendar/Egyptian_Calendar.protect.md) 
+### #is_/same_as :: [[/_protect/ISO/Calendar/Egyptian_Calendar.protect|Egyptian_Calendar.protect]] 
 
-### #is_/same_as :: [Egyptian_Calendar.private](/_private/ISO/Calendar/Egyptian_Calendar.private.md) 
+### #is_/same_as :: [[/_private/ISO/Calendar/Egyptian_Calendar.private|Egyptian_Calendar.private]] 
 
-### #is_/same_as :: [Egyptian_Calendar.personal](/_personal/ISO/Calendar/Egyptian_Calendar.personal.md) 
+### #is_/same_as :: [[/_personal/ISO/Calendar/Egyptian_Calendar.personal|Egyptian_Calendar.personal]] 
 
-### #is_/same_as :: [Egyptian_Calendar.secret](/_secret/ISO/Calendar/Egyptian_Calendar.secret.md)
+### #is_/same_as :: [[/_secret/ISO/Calendar/Egyptian_Calendar.secret|Egyptian_Calendar.secret]] 
 

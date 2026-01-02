@@ -41,17 +41,17 @@ The act of installing an application.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Install_Action](/_Standards/schema-org/Class/is_a_/Action/Consume_Action/Install_Action.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Action/Consume_Action/Install_Action|Install_Action]] 
 
-### #is_/same_as :: [Install_Action.public](/_public/schema-org/Class/is_a_/Action/Consume_Action/Install_Action.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Action/Consume_Action/Install_Action.public|Install_Action.public]] 
 
-### #is_/same_as :: [Install_Action.internal](/_internal/schema-org/Class/is_a_/Action/Consume_Action/Install_Action.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Action/Consume_Action/Install_Action.internal|Install_Action.internal]] 
 
-### #is_/same_as :: [Install_Action.protect](/_protect/schema-org/Class/is_a_/Action/Consume_Action/Install_Action.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Action/Consume_Action/Install_Action.protect|Install_Action.protect]] 
 
-### #is_/same_as :: [Install_Action.private](/_private/schema-org/Class/is_a_/Action/Consume_Action/Install_Action.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Action/Consume_Action/Install_Action.private|Install_Action.private]] 
 
-### #is_/same_as :: [Install_Action.personal](/_personal/schema-org/Class/is_a_/Action/Consume_Action/Install_Action.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Action/Consume_Action/Install_Action.personal|Install_Action.personal]] 
 
-### #is_/same_as :: [Install_Action.secret](/_secret/schema-org/Class/is_a_/Action/Consume_Action/Install_Action.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Action/Consume_Action/Install_Action.secret|Install_Action.secret]] 
 

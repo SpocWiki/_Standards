@@ -42,17 +42,17 @@ Nonprofit501c5: Non-profit type referring to Labor, Agricultural and Horticultur
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Nonprofit501c5](/_Standards/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c5.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c5|Nonprofit501c5]] 
 
-### #is_/same_as :: [Nonprofit501c5.public](/_public/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c5.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c5.public|Nonprofit501c5.public]] 
 
-### #is_/same_as :: [Nonprofit501c5.internal](/_internal/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c5.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c5.internal|Nonprofit501c5.internal]] 
 
-### #is_/same_as :: [Nonprofit501c5.protect](/_protect/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c5.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c5.protect|Nonprofit501c5.protect]] 
 
-### #is_/same_as :: [Nonprofit501c5.private](/_private/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c5.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c5.private|Nonprofit501c5.private]] 
 
-### #is_/same_as :: [Nonprofit501c5.personal](/_personal/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c5.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c5.personal|Nonprofit501c5.personal]] 
 
-### #is_/same_as :: [Nonprofit501c5.secret](/_secret/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c5.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c5.secret|Nonprofit501c5.secret]] 
 

@@ -62,17 +62,17 @@ OpenStreetMap_tag: sport=rowing
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Rowing](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Water_Sport/Rowing.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Water_Sport/Rowing|Rowing]] 
 
-### #is_/same_as :: [Rowing.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Water_Sport/Rowing.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Water_Sport/Rowing.public|Rowing.public]] 
 
-### #is_/same_as :: [Rowing.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Water_Sport/Rowing.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Water_Sport/Rowing.internal|Rowing.internal]] 
 
-### #is_/same_as :: [Rowing.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Water_Sport/Rowing.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Water_Sport/Rowing.protect|Rowing.protect]] 
 
-### #is_/same_as :: [Rowing.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Water_Sport/Rowing.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Water_Sport/Rowing.private|Rowing.private]] 
 
-### #is_/same_as :: [Rowing.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Water_Sport/Rowing.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Water_Sport/Rowing.personal|Rowing.personal]] 
 
-### #is_/same_as :: [Rowing.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Water_Sport/Rowing.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Water_Sport/Rowing.secret|Rowing.secret]] 
 

@@ -47,17 +47,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_access_mode_sufficient](/_Standards/schema-org/Relation/has/has_access_mode_sufficient.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_access_mode_sufficient|has_access_mode_sufficient]] 
 
-### #is_/same_as :: [has_access_mode_sufficient.public](/_public/schema-org/Relation/has/has_access_mode_sufficient.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_access_mode_sufficient.public|has_access_mode_sufficient.public]] 
 
-### #is_/same_as :: [has_access_mode_sufficient.internal](/_internal/schema-org/Relation/has/has_access_mode_sufficient.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_access_mode_sufficient.internal|has_access_mode_sufficient.internal]] 
 
-### #is_/same_as :: [has_access_mode_sufficient.protect](/_protect/schema-org/Relation/has/has_access_mode_sufficient.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_access_mode_sufficient.protect|has_access_mode_sufficient.protect]] 
 
-### #is_/same_as :: [has_access_mode_sufficient.private](/_private/schema-org/Relation/has/has_access_mode_sufficient.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_access_mode_sufficient.private|has_access_mode_sufficient.private]] 
 
-### #is_/same_as :: [has_access_mode_sufficient.personal](/_personal/schema-org/Relation/has/has_access_mode_sufficient.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_access_mode_sufficient.personal|has_access_mode_sufficient.personal]] 
 
-### #is_/same_as :: [has_access_mode_sufficient.secret](/_secret/schema-org/Relation/has/has_access_mode_sufficient.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_access_mode_sufficient.secret|has_access_mode_sufficient.secret]] 
 

@@ -96,17 +96,17 @@ Roman Law usually restricted Power by Time.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Roman_Magistrate](/_Standards/Society/Politics/Government/Roman_Magistrate.md) 
+### #is_/same_as :: [[/_Standards/Society/Politics/Government/Roman_Magistrate|Roman_Magistrate]] 
 
-### #is_/same_as :: [Roman_Magistrate.public](/_public/Society/Politics/Government/Roman_Magistrate.public.md) 
+### #is_/same_as :: [[/_public/Society/Politics/Government/Roman_Magistrate.public|Roman_Magistrate.public]] 
 
-### #is_/same_as :: [Roman_Magistrate.internal](/_internal/Society/Politics/Government/Roman_Magistrate.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Politics/Government/Roman_Magistrate.internal|Roman_Magistrate.internal]] 
 
-### #is_/same_as :: [Roman_Magistrate.protect](/_protect/Society/Politics/Government/Roman_Magistrate.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Politics/Government/Roman_Magistrate.protect|Roman_Magistrate.protect]] 
 
-### #is_/same_as :: [Roman_Magistrate.private](/_private/Society/Politics/Government/Roman_Magistrate.private.md) 
+### #is_/same_as :: [[/_private/Society/Politics/Government/Roman_Magistrate.private|Roman_Magistrate.private]] 
 
-### #is_/same_as :: [Roman_Magistrate.personal](/_personal/Society/Politics/Government/Roman_Magistrate.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Politics/Government/Roman_Magistrate.personal|Roman_Magistrate.personal]] 
 
-### #is_/same_as :: [Roman_Magistrate.secret](/_secret/Society/Politics/Government/Roman_Magistrate.secret.md)
+### #is_/same_as :: [[/_secret/Society/Politics/Government/Roman_Magistrate.secret|Roman_Magistrate.secret]] 
 

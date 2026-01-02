@@ -113,17 +113,17 @@ X_Twitter_username: NobelPrize
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Nobel_Prize](/_Standards/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Nobel_Prize.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Nobel_Prize|Nobel_Prize]] 
 
-### #is_/same_as :: [Nobel_Prize.public](/_public/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Nobel_Prize.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Nobel_Prize.public|Nobel_Prize.public]] 
 
-### #is_/same_as :: [Nobel_Prize.internal](/_internal/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Nobel_Prize.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Nobel_Prize.internal|Nobel_Prize.internal]] 
 
-### #is_/same_as :: [Nobel_Prize.protect](/_protect/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Nobel_Prize.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Nobel_Prize.protect|Nobel_Prize.protect]] 
 
-### #is_/same_as :: [Nobel_Prize.private](/_private/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Nobel_Prize.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Nobel_Prize.private|Nobel_Prize.private]] 
 
-### #is_/same_as :: [Nobel_Prize.personal](/_personal/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Nobel_Prize.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Nobel_Prize.personal|Nobel_Prize.personal]] 
 
-### #is_/same_as :: [Nobel_Prize.secret](/_secret/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Nobel_Prize.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Nobel_Prize.secret|Nobel_Prize.secret]] 
 

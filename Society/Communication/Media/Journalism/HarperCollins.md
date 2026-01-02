@@ -29,17 +29,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [HarperCollins](/_Standards/Society/Communication/Media/Journalism/HarperCollins.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Journalism/HarperCollins|HarperCollins]] 
 
-### #is_/same_as :: [HarperCollins.public](/_public/Society/Communication/Media/Journalism/HarperCollins.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Journalism/HarperCollins.public|HarperCollins.public]] 
 
-### #is_/same_as :: [HarperCollins.internal](/_internal/Society/Communication/Media/Journalism/HarperCollins.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Journalism/HarperCollins.internal|HarperCollins.internal]] 
 
-### #is_/same_as :: [HarperCollins.protect](/_protect/Society/Communication/Media/Journalism/HarperCollins.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Journalism/HarperCollins.protect|HarperCollins.protect]] 
 
-### #is_/same_as :: [HarperCollins.private](/_private/Society/Communication/Media/Journalism/HarperCollins.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Journalism/HarperCollins.private|HarperCollins.private]] 
 
-### #is_/same_as :: [HarperCollins.personal](/_personal/Society/Communication/Media/Journalism/HarperCollins.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Journalism/HarperCollins.personal|HarperCollins.personal]] 
 
-### #is_/same_as :: [HarperCollins.secret](/_secret/Society/Communication/Media/Journalism/HarperCollins.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Journalism/HarperCollins.secret|HarperCollins.secret]] 
 

@@ -52,17 +52,17 @@ spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Keuken%
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Kitchen](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Kitchen.md) 
+### #is_/same_as :: [[/_Standards/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Kitchen|Kitchen]] 
 
-### #is_/same_as :: [Kitchen.public](/_public/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Kitchen.public.md) 
+### #is_/same_as :: [[/_public/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Kitchen.public|Kitchen.public]] 
 
-### #is_/same_as :: [Kitchen.internal](/_internal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Kitchen.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Kitchen.internal|Kitchen.internal]] 
 
-### #is_/same_as :: [Kitchen.protect](/_protect/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Kitchen.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Kitchen.protect|Kitchen.protect]] 
 
-### #is_/same_as :: [Kitchen.private](/_private/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Kitchen.private.md) 
+### #is_/same_as :: [[/_private/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Kitchen.private|Kitchen.private]] 
 
-### #is_/same_as :: [Kitchen.personal](/_personal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Kitchen.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Kitchen.personal|Kitchen.personal]] 
 
-### #is_/same_as :: [Kitchen.secret](/_secret/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Kitchen.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Kitchen.secret|Kitchen.secret]] 
 

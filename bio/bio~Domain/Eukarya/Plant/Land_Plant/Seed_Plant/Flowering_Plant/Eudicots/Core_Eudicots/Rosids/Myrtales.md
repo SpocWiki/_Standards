@@ -73,7 +73,7 @@ taxon_common_name: 桃金娘目
 ## Title Illustrations
 
 ------------------------------------------------------------------------------ 
-![Koster\'s curse, Clidemia hirta](Myrtales/Clidemia_hirta.jpg))
+![Koster\'s curse, Clidemia hirta](Myrtales/Clidemia_hirta.jpg) 
 Scientific Name ::    Clidemia hirta
 Location ::          Native to tropical America, specimen photographed at Ranomafana National Park (Madagascar).
 Comments            Koster\'s curse (Melastomataceae)
@@ -82,7 +82,7 @@ Source Collection   [CalPhotos](http://calphotos.berkeley.edu/)
 Copyright ::           © 2000 [California Academy of Sciences](http://www.calacademy.org/) 
 
 ------------------------------------------------------------------------------ 
-![California evening-primrose, Oenothera californica](Myrtales/Oenothera_californica.jpg))
+![California evening-primrose, Oenothera californica](Myrtales/Oenothera_californica.jpg) 
 Scientific Name ::     Oenothera californica
 Location ::           Mojave Desert (San Bernardino County, California, USA)
 Comments             California evening-primrose (Onagraceae)
@@ -92,7 +92,7 @@ Source Collection    [CalPhotos](http://calphotos.berkeley.edu/)
 Copyright ::            © 2000 [California Academy of Sciences](http://www.calacademy.org/) 
 
 ------------------------------------------------------------------------------ 
-![Manna gum, Eucalyptus viminalis](Myrtales/Myrtaceae/Eucalyptus/Eucalyptus_viminalis.jpg))
+![Manna gum, Eucalyptus viminalis](Myrtales/Myrtaceae/Eucalyptus/Eucalyptus_viminalis.jpg) 
 Scientific Name ::    Eucalyptus viminalis (Myrtaceae)
 Location ::          Native to Australia, specimen photographed in Sunol (Alameda County, California, USA)
 Comments            Manna gum
@@ -103,17 +103,17 @@ Copyright ::           © 1998 [California Academy of Sciences](http://www.calac
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Myrtales](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Myrtales.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Myrtales|Myrtales]] 
 
-### #is_/same_as :: [Myrtales.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Myrtales.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Myrtales.public|Myrtales.public]] 
 
-### #is_/same_as :: [Myrtales.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Myrtales.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Myrtales.internal|Myrtales.internal]] 
 
-### #is_/same_as :: [Myrtales.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Myrtales.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Myrtales.protect|Myrtales.protect]] 
 
-### #is_/same_as :: [Myrtales.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Myrtales.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Myrtales.private|Myrtales.private]] 
 
-### #is_/same_as :: [Myrtales.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Myrtales.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Myrtales.personal|Myrtales.personal]] 
 
-### #is_/same_as :: [Myrtales.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Myrtales.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Myrtales.secret|Myrtales.secret]] 
 

@@ -4,17 +4,17 @@ owl:Class allows for more expressive inference.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [rdfs~Class](/_Standards/W3C(World_Wide_Web_Consortium)/RDF(Resource_Description_Framework)/RDF~Classes/rdfs~Class.md) 
+### #is_/same_as :: [[/_Standards/W3C(World_Wide_Web_Consortium)/RDF(Resource_Description_Framework)/RDF~Classes/rdfs~Class|rdfs~Class]] 
 
-### #is_/same_as :: [rdfs~Class.public](/_public/W3C(World_Wide_Web_Consortium)/RDF(Resource_Description_Framework)/RDF~Classes/rdfs~Class.public.md) 
+### #is_/same_as :: [[/_public/W3C(World_Wide_Web_Consortium)/RDF(Resource_Description_Framework)/RDF~Classes/rdfs~Class.public|rdfs~Class.public]] 
 
-### #is_/same_as :: [rdfs~Class.internal](/_internal/W3C(World_Wide_Web_Consortium)/RDF(Resource_Description_Framework)/RDF~Classes/rdfs~Class.internal.md) 
+### #is_/same_as :: [[/_internal/W3C(World_Wide_Web_Consortium)/RDF(Resource_Description_Framework)/RDF~Classes/rdfs~Class.internal|rdfs~Class.internal]] 
 
-### #is_/same_as :: [rdfs~Class.protect](/_protect/W3C(World_Wide_Web_Consortium)/RDF(Resource_Description_Framework)/RDF~Classes/rdfs~Class.protect.md) 
+### #is_/same_as :: [[/_protect/W3C(World_Wide_Web_Consortium)/RDF(Resource_Description_Framework)/RDF~Classes/rdfs~Class.protect|rdfs~Class.protect]] 
 
-### #is_/same_as :: [rdfs~Class.private](/_private/W3C(World_Wide_Web_Consortium)/RDF(Resource_Description_Framework)/RDF~Classes/rdfs~Class.private.md) 
+### #is_/same_as :: [[/_private/W3C(World_Wide_Web_Consortium)/RDF(Resource_Description_Framework)/RDF~Classes/rdfs~Class.private|rdfs~Class.private]] 
 
-### #is_/same_as :: [rdfs~Class.personal](/_personal/W3C(World_Wide_Web_Consortium)/RDF(Resource_Description_Framework)/RDF~Classes/rdfs~Class.personal.md) 
+### #is_/same_as :: [[/_personal/W3C(World_Wide_Web_Consortium)/RDF(Resource_Description_Framework)/RDF~Classes/rdfs~Class.personal|rdfs~Class.personal]] 
 
-### #is_/same_as :: [rdfs~Class.secret](/_secret/W3C(World_Wide_Web_Consortium)/RDF(Resource_Description_Framework)/RDF~Classes/rdfs~Class.secret.md)
+### #is_/same_as :: [[/_secret/W3C(World_Wide_Web_Consortium)/RDF(Resource_Description_Framework)/RDF~Classes/rdfs~Class.secret|rdfs~Class.secret]] 
 

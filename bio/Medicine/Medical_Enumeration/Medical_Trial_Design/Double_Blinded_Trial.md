@@ -42,17 +42,17 @@ A trial design in which neither the researcher nor the patient knows the details
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Double_Blinded_Trial](/_Standards/bio/Medicine/Medical_Enumeration/Medical_Trial_Design/Double_Blinded_Trial.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Enumeration/Medical_Trial_Design/Double_Blinded_Trial|Double_Blinded_Trial]] 
 
-### #is_/same_as :: [Double_Blinded_Trial.public](/_public/bio/Medicine/Medical_Enumeration/Medical_Trial_Design/Double_Blinded_Trial.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Enumeration/Medical_Trial_Design/Double_Blinded_Trial.public|Double_Blinded_Trial.public]] 
 
-### #is_/same_as :: [Double_Blinded_Trial.internal](/_internal/bio/Medicine/Medical_Enumeration/Medical_Trial_Design/Double_Blinded_Trial.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Enumeration/Medical_Trial_Design/Double_Blinded_Trial.internal|Double_Blinded_Trial.internal]] 
 
-### #is_/same_as :: [Double_Blinded_Trial.protect](/_protect/bio/Medicine/Medical_Enumeration/Medical_Trial_Design/Double_Blinded_Trial.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Enumeration/Medical_Trial_Design/Double_Blinded_Trial.protect|Double_Blinded_Trial.protect]] 
 
-### #is_/same_as :: [Double_Blinded_Trial.private](/_private/bio/Medicine/Medical_Enumeration/Medical_Trial_Design/Double_Blinded_Trial.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Enumeration/Medical_Trial_Design/Double_Blinded_Trial.private|Double_Blinded_Trial.private]] 
 
-### #is_/same_as :: [Double_Blinded_Trial.personal](/_personal/bio/Medicine/Medical_Enumeration/Medical_Trial_Design/Double_Blinded_Trial.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Enumeration/Medical_Trial_Design/Double_Blinded_Trial.personal|Double_Blinded_Trial.personal]] 
 
-### #is_/same_as :: [Double_Blinded_Trial.secret](/_secret/bio/Medicine/Medical_Enumeration/Medical_Trial_Design/Double_Blinded_Trial.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Enumeration/Medical_Trial_Design/Double_Blinded_Trial.secret|Double_Blinded_Trial.secret]] 
 

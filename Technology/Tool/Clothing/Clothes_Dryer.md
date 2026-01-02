@@ -37,17 +37,17 @@ Commons_category: Clothes dryers
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Clothes_Dryer](/_Standards/Technology/Tool/Clothing/Clothes_Dryer.md) 
+### #is_/same_as :: [[/_Standards/Technology/Tool/Clothing/Clothes_Dryer|Clothes_Dryer]] 
 
-### #is_/same_as :: [Clothes_Dryer.public](/_public/Technology/Tool/Clothing/Clothes_Dryer.public.md) 
+### #is_/same_as :: [[/_public/Technology/Tool/Clothing/Clothes_Dryer.public|Clothes_Dryer.public]] 
 
-### #is_/same_as :: [Clothes_Dryer.internal](/_internal/Technology/Tool/Clothing/Clothes_Dryer.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Tool/Clothing/Clothes_Dryer.internal|Clothes_Dryer.internal]] 
 
-### #is_/same_as :: [Clothes_Dryer.protect](/_protect/Technology/Tool/Clothing/Clothes_Dryer.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Tool/Clothing/Clothes_Dryer.protect|Clothes_Dryer.protect]] 
 
-### #is_/same_as :: [Clothes_Dryer.private](/_private/Technology/Tool/Clothing/Clothes_Dryer.private.md) 
+### #is_/same_as :: [[/_private/Technology/Tool/Clothing/Clothes_Dryer.private|Clothes_Dryer.private]] 
 
-### #is_/same_as :: [Clothes_Dryer.personal](/_personal/Technology/Tool/Clothing/Clothes_Dryer.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Tool/Clothing/Clothes_Dryer.personal|Clothes_Dryer.personal]] 
 
-### #is_/same_as :: [Clothes_Dryer.secret](/_secret/Technology/Tool/Clothing/Clothes_Dryer.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Tool/Clothing/Clothes_Dryer.secret|Clothes_Dryer.secret]] 
 

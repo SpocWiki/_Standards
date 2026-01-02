@@ -230,17 +230,17 @@ writing_language:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Fermi,Enrico](/_Standards/Science/Scientist/Modern_Scientists/Fermi,Enrico.md) 
+### #is_/same_as :: [[/_Standards/Science/Scientist/Modern_Scientists/Fermi,Enrico|Fermi,Enrico]] 
 
-### #is_/same_as :: [Fermi,Enrico.public](/_public/Science/Scientist/Modern_Scientists/Fermi,Enrico.public.md) 
+### #is_/same_as :: [[/_public/Science/Scientist/Modern_Scientists/Fermi,Enrico.public|Fermi,Enrico.public]] 
 
-### #is_/same_as :: [Fermi,Enrico.internal](/_internal/Science/Scientist/Modern_Scientists/Fermi,Enrico.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Scientist/Modern_Scientists/Fermi,Enrico.internal|Fermi,Enrico.internal]] 
 
-### #is_/same_as :: [Fermi,Enrico.protect](/_protect/Science/Scientist/Modern_Scientists/Fermi,Enrico.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Scientist/Modern_Scientists/Fermi,Enrico.protect|Fermi,Enrico.protect]] 
 
-### #is_/same_as :: [Fermi,Enrico.private](/_private/Science/Scientist/Modern_Scientists/Fermi,Enrico.private.md) 
+### #is_/same_as :: [[/_private/Science/Scientist/Modern_Scientists/Fermi,Enrico.private|Fermi,Enrico.private]] 
 
-### #is_/same_as :: [Fermi,Enrico.personal](/_personal/Science/Scientist/Modern_Scientists/Fermi,Enrico.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Scientist/Modern_Scientists/Fermi,Enrico.personal|Fermi,Enrico.personal]] 
 
-### #is_/same_as :: [Fermi,Enrico.secret](/_secret/Science/Scientist/Modern_Scientists/Fermi,Enrico.secret.md)
+### #is_/same_as :: [[/_secret/Science/Scientist/Modern_Scientists/Fermi,Enrico.secret|Fermi,Enrico.secret]] 
 

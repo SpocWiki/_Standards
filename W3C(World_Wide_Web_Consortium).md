@@ -85,17 +85,17 @@ coordinate_location: Point(-71.09083333 42.36205556)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [W3C(World_Wide_Web_Consortium)](/_Standards/W3C(World_Wide_Web_Consortium).md) 
+### #is_/same_as :: [[/_Standards/W3C(World_Wide_Web_Consortium)|W3C(World_Wide_Web_Consortium)]] 
 
-### #is_/same_as :: [W3C(World_Wide_Web_Consortium).public](/_public/W3C(World_Wide_Web_Consortium).public.md) 
+### #is_/same_as :: [[/_public/W3C(World_Wide_Web_Consortium).public|W3C(World_Wide_Web_Consortium).public]] 
 
-### #is_/same_as :: [W3C(World_Wide_Web_Consortium).internal](/_internal/W3C(World_Wide_Web_Consortium).internal.md) 
+### #is_/same_as :: [[/_internal/W3C(World_Wide_Web_Consortium).internal|W3C(World_Wide_Web_Consortium).internal]] 
 
-### #is_/same_as :: [W3C(World_Wide_Web_Consortium).protect](/_protect/W3C(World_Wide_Web_Consortium).protect.md) 
+### #is_/same_as :: [[/_protect/W3C(World_Wide_Web_Consortium).protect|W3C(World_Wide_Web_Consortium).protect]] 
 
-### #is_/same_as :: [W3C(World_Wide_Web_Consortium).private](/_private/W3C(World_Wide_Web_Consortium).private.md) 
+### #is_/same_as :: [[/_private/W3C(World_Wide_Web_Consortium).private|W3C(World_Wide_Web_Consortium).private]] 
 
-### #is_/same_as :: [W3C(World_Wide_Web_Consortium).personal](/_personal/W3C(World_Wide_Web_Consortium).personal.md) 
+### #is_/same_as :: [[/_personal/W3C(World_Wide_Web_Consortium).personal|W3C(World_Wide_Web_Consortium).personal]] 
 
-### #is_/same_as :: [W3C(World_Wide_Web_Consortium).secret](/_secret/W3C(World_Wide_Web_Consortium).secret.md)
+### #is_/same_as :: [[/_secret/W3C(World_Wide_Web_Consortium).secret|W3C(World_Wide_Web_Consortium).secret]] 
 

@@ -83,17 +83,17 @@ Krugosvet_article: medicina/ENTSEFALIT.html
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Encephalitis](/_Standards/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Encephalitis.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Encephalitis|Encephalitis]] 
 
-### #is_/same_as :: [Encephalitis.public](/_public/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Encephalitis.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Encephalitis.public|Encephalitis.public]] 
 
-### #is_/same_as :: [Encephalitis.internal](/_internal/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Encephalitis.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Encephalitis.internal|Encephalitis.internal]] 
 
-### #is_/same_as :: [Encephalitis.protect](/_protect/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Encephalitis.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Encephalitis.protect|Encephalitis.protect]] 
 
-### #is_/same_as :: [Encephalitis.private](/_private/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Encephalitis.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Encephalitis.private|Encephalitis.private]] 
 
-### #is_/same_as :: [Encephalitis.personal](/_personal/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Encephalitis.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Encephalitis.personal|Encephalitis.personal]] 
 
-### #is_/same_as :: [Encephalitis.secret](/_secret/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Encephalitis.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Encephalitis.secret|Encephalitis.secret]] 
 

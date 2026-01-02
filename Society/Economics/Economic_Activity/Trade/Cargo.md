@@ -37,17 +37,17 @@ OpenStreetMap_tag_or_key: Key:cargo
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Cargo](/_Standards/Society/Economics/Economic_Activity/Trade/Cargo.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Economic_Activity/Trade/Cargo|Cargo]] 
 
-### #is_/same_as :: [Cargo.public](/_public/Society/Economics/Economic_Activity/Trade/Cargo.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Economic_Activity/Trade/Cargo.public|Cargo.public]] 
 
-### #is_/same_as :: [Cargo.internal](/_internal/Society/Economics/Economic_Activity/Trade/Cargo.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Economic_Activity/Trade/Cargo.internal|Cargo.internal]] 
 
-### #is_/same_as :: [Cargo.protect](/_protect/Society/Economics/Economic_Activity/Trade/Cargo.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Economic_Activity/Trade/Cargo.protect|Cargo.protect]] 
 
-### #is_/same_as :: [Cargo.private](/_private/Society/Economics/Economic_Activity/Trade/Cargo.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Economic_Activity/Trade/Cargo.private|Cargo.private]] 
 
-### #is_/same_as :: [Cargo.personal](/_personal/Society/Economics/Economic_Activity/Trade/Cargo.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Economic_Activity/Trade/Cargo.personal|Cargo.personal]] 
 
-### #is_/same_as :: [Cargo.secret](/_secret/Society/Economics/Economic_Activity/Trade/Cargo.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Economic_Activity/Trade/Cargo.secret|Cargo.secret]] 
 

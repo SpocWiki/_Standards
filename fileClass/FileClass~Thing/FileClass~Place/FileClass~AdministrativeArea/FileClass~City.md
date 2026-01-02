@@ -36,17 +36,17 @@ A city or town.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~City](/_Standards/fileClass/FileClass~Thing/FileClass~Place/FileClass~AdministrativeArea/FileClass~City.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Place/FileClass~AdministrativeArea/FileClass~City|FileClass~City]] 
 
-### #is_/same_as :: [FileClass~City.public](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~AdministrativeArea/FileClass~City.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~AdministrativeArea/FileClass~City.public|FileClass~City.public]] 
 
-### #is_/same_as :: [FileClass~City.internal](/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~AdministrativeArea/FileClass~City.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~AdministrativeArea/FileClass~City.internal|FileClass~City.internal]] 
 
-### #is_/same_as :: [FileClass~City.protect](/_protect/fileClass/FileClass~Thing/FileClass~Place/FileClass~AdministrativeArea/FileClass~City.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Place/FileClass~AdministrativeArea/FileClass~City.protect|FileClass~City.protect]] 
 
-### #is_/same_as :: [FileClass~City.private](/_private/fileClass/FileClass~Thing/FileClass~Place/FileClass~AdministrativeArea/FileClass~City.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Place/FileClass~AdministrativeArea/FileClass~City.private|FileClass~City.private]] 
 
-### #is_/same_as :: [FileClass~City.personal](/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~AdministrativeArea/FileClass~City.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~AdministrativeArea/FileClass~City.personal|FileClass~City.personal]] 
 
-### #is_/same_as :: [FileClass~City.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~AdministrativeArea/FileClass~City.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~AdministrativeArea/FileClass~City.secret|FileClass~City.secret]] 
 

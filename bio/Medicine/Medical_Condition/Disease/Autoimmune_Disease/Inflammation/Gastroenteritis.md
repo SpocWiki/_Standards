@@ -65,17 +65,17 @@ ICD_10_CM: K52.9
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Gastroenteritis](/_Standards/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Inflammation/Gastroenteritis.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Inflammation/Gastroenteritis|Gastroenteritis]] 
 
-### #is_/same_as :: [Gastroenteritis.public](/_public/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Inflammation/Gastroenteritis.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Inflammation/Gastroenteritis.public|Gastroenteritis.public]] 
 
-### #is_/same_as :: [Gastroenteritis.internal](/_internal/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Inflammation/Gastroenteritis.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Inflammation/Gastroenteritis.internal|Gastroenteritis.internal]] 
 
-### #is_/same_as :: [Gastroenteritis.protect](/_protect/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Inflammation/Gastroenteritis.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Inflammation/Gastroenteritis.protect|Gastroenteritis.protect]] 
 
-### #is_/same_as :: [Gastroenteritis.private](/_private/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Inflammation/Gastroenteritis.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Inflammation/Gastroenteritis.private|Gastroenteritis.private]] 
 
-### #is_/same_as :: [Gastroenteritis.personal](/_personal/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Inflammation/Gastroenteritis.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Inflammation/Gastroenteritis.personal|Gastroenteritis.personal]] 
 
-### #is_/same_as :: [Gastroenteritis.secret](/_secret/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Inflammation/Gastroenteritis.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Inflammation/Gastroenteritis.secret|Gastroenteritis.secret]] 
 

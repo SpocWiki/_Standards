@@ -42,17 +42,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_price_component](/_Standards/schema-org/Relation/has/has_price_component.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_price_component|has_price_component]] 
 
-### #is_/same_as :: [has_price_component.public](/_public/schema-org/Relation/has/has_price_component.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_price_component.public|has_price_component.public]] 
 
-### #is_/same_as :: [has_price_component.internal](/_internal/schema-org/Relation/has/has_price_component.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_price_component.internal|has_price_component.internal]] 
 
-### #is_/same_as :: [has_price_component.protect](/_protect/schema-org/Relation/has/has_price_component.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_price_component.protect|has_price_component.protect]] 
 
-### #is_/same_as :: [has_price_component.private](/_private/schema-org/Relation/has/has_price_component.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_price_component.private|has_price_component.private]] 
 
-### #is_/same_as :: [has_price_component.personal](/_personal/schema-org/Relation/has/has_price_component.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_price_component.personal|has_price_component.personal]] 
 
-### #is_/same_as :: [has_price_component.secret](/_secret/schema-org/Relation/has/has_price_component.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_price_component.secret|has_price_component.secret]] 
 

@@ -25,17 +25,17 @@ has_id_wikidata: ''
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Pocket_Billiards](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Ball_Game/Cue_Sports/Pocket_Billiards.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Ball_Game/Cue_Sports/Pocket_Billiards|Pocket_Billiards]] 
 
-### #is_/same_as :: [Pocket_Billiards.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Ball_Game/Cue_Sports/Pocket_Billiards.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Ball_Game/Cue_Sports/Pocket_Billiards.public|Pocket_Billiards.public]] 
 
-### #is_/same_as :: [Pocket_Billiards.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Ball_Game/Cue_Sports/Pocket_Billiards.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Ball_Game/Cue_Sports/Pocket_Billiards.internal|Pocket_Billiards.internal]] 
 
-### #is_/same_as :: [Pocket_Billiards.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Ball_Game/Cue_Sports/Pocket_Billiards.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Ball_Game/Cue_Sports/Pocket_Billiards.protect|Pocket_Billiards.protect]] 
 
-### #is_/same_as :: [Pocket_Billiards.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Ball_Game/Cue_Sports/Pocket_Billiards.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Ball_Game/Cue_Sports/Pocket_Billiards.private|Pocket_Billiards.private]] 
 
-### #is_/same_as :: [Pocket_Billiards.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Ball_Game/Cue_Sports/Pocket_Billiards.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Ball_Game/Cue_Sports/Pocket_Billiards.personal|Pocket_Billiards.personal]] 
 
-### #is_/same_as :: [Pocket_Billiards.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Ball_Game/Cue_Sports/Pocket_Billiards.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Ball_Game/Cue_Sports/Pocket_Billiards.secret|Pocket_Billiards.secret]] 
 

@@ -43,17 +43,17 @@ Commons_category: Mother goddesses
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Mother_Goddess](/_Standards/Philosophy/Metaphysic/Religion/Deity/Mother_Goddess.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Deity/Mother_Goddess|Mother_Goddess]] 
 
-### #is_/same_as :: [Mother_Goddess.public](/_public/Philosophy/Metaphysic/Religion/Deity/Mother_Goddess.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Deity/Mother_Goddess.public|Mother_Goddess.public]] 
 
-### #is_/same_as :: [Mother_Goddess.internal](/_internal/Philosophy/Metaphysic/Religion/Deity/Mother_Goddess.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Deity/Mother_Goddess.internal|Mother_Goddess.internal]] 
 
-### #is_/same_as :: [Mother_Goddess.protect](/_protect/Philosophy/Metaphysic/Religion/Deity/Mother_Goddess.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Deity/Mother_Goddess.protect|Mother_Goddess.protect]] 
 
-### #is_/same_as :: [Mother_Goddess.private](/_private/Philosophy/Metaphysic/Religion/Deity/Mother_Goddess.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Deity/Mother_Goddess.private|Mother_Goddess.private]] 
 
-### #is_/same_as :: [Mother_Goddess.personal](/_personal/Philosophy/Metaphysic/Religion/Deity/Mother_Goddess.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Deity/Mother_Goddess.personal|Mother_Goddess.personal]] 
 
-### #is_/same_as :: [Mother_Goddess.secret](/_secret/Philosophy/Metaphysic/Religion/Deity/Mother_Goddess.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Deity/Mother_Goddess.secret|Mother_Goddess.secret]] 
 

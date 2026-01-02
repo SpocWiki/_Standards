@@ -46,17 +46,17 @@ Commons_category: Turbines (turbomachine component)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Turbine](/_Standards/Technology/Engine/Turbine.md) 
+### #is_/same_as :: [[/_Standards/Technology/Engine/Turbine|Turbine]] 
 
-### #is_/same_as :: [Turbine.public](/_public/Technology/Engine/Turbine.public.md) 
+### #is_/same_as :: [[/_public/Technology/Engine/Turbine.public|Turbine.public]] 
 
-### #is_/same_as :: [Turbine.internal](/_internal/Technology/Engine/Turbine.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Engine/Turbine.internal|Turbine.internal]] 
 
-### #is_/same_as :: [Turbine.protect](/_protect/Technology/Engine/Turbine.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Engine/Turbine.protect|Turbine.protect]] 
 
-### #is_/same_as :: [Turbine.private](/_private/Technology/Engine/Turbine.private.md) 
+### #is_/same_as :: [[/_private/Technology/Engine/Turbine.private|Turbine.private]] 
 
-### #is_/same_as :: [Turbine.personal](/_personal/Technology/Engine/Turbine.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Engine/Turbine.personal|Turbine.personal]] 
 
-### #is_/same_as :: [Turbine.secret](/_secret/Technology/Engine/Turbine.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Engine/Turbine.secret|Turbine.secret]] 
 

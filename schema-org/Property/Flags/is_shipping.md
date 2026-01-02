@@ -46,17 +46,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [is_shipping](/_Standards/schema-org/Property/Flags/is_shipping.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/Flags/is_shipping|is_shipping]] 
 
-### #is_/same_as :: [is_shipping.public](/_public/schema-org/Property/Flags/is_shipping.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/Flags/is_shipping.public|is_shipping.public]] 
 
-### #is_/same_as :: [is_shipping.internal](/_internal/schema-org/Property/Flags/is_shipping.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/Flags/is_shipping.internal|is_shipping.internal]] 
 
-### #is_/same_as :: [is_shipping.protect](/_protect/schema-org/Property/Flags/is_shipping.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/Flags/is_shipping.protect|is_shipping.protect]] 
 
-### #is_/same_as :: [is_shipping.private](/_private/schema-org/Property/Flags/is_shipping.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/Flags/is_shipping.private|is_shipping.private]] 
 
-### #is_/same_as :: [is_shipping.personal](/_personal/schema-org/Property/Flags/is_shipping.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/Flags/is_shipping.personal|is_shipping.personal]] 
 
-### #is_/same_as :: [is_shipping.secret](/_secret/schema-org/Property/Flags/is_shipping.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/Flags/is_shipping.secret|is_shipping.secret]] 
 

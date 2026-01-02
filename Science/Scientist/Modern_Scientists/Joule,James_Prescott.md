@@ -93,17 +93,17 @@ writing_language: '[[_Standards/WikiData/WD~English,1860]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Joule,James_Prescott](/_Standards/Science/Scientist/Modern_Scientists/Joule,James_Prescott.md) 
+### #is_/same_as :: [[/_Standards/Science/Scientist/Modern_Scientists/Joule,James_Prescott|Joule,James_Prescott]] 
 
-### #is_/same_as :: [Joule,James_Prescott.public](/_public/Science/Scientist/Modern_Scientists/Joule,James_Prescott.public.md) 
+### #is_/same_as :: [[/_public/Science/Scientist/Modern_Scientists/Joule,James_Prescott.public|Joule,James_Prescott.public]] 
 
-### #is_/same_as :: [Joule,James_Prescott.internal](/_internal/Science/Scientist/Modern_Scientists/Joule,James_Prescott.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Scientist/Modern_Scientists/Joule,James_Prescott.internal|Joule,James_Prescott.internal]] 
 
-### #is_/same_as :: [Joule,James_Prescott.protect](/_protect/Science/Scientist/Modern_Scientists/Joule,James_Prescott.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Scientist/Modern_Scientists/Joule,James_Prescott.protect|Joule,James_Prescott.protect]] 
 
-### #is_/same_as :: [Joule,James_Prescott.private](/_private/Science/Scientist/Modern_Scientists/Joule,James_Prescott.private.md) 
+### #is_/same_as :: [[/_private/Science/Scientist/Modern_Scientists/Joule,James_Prescott.private|Joule,James_Prescott.private]] 
 
-### #is_/same_as :: [Joule,James_Prescott.personal](/_personal/Science/Scientist/Modern_Scientists/Joule,James_Prescott.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Scientist/Modern_Scientists/Joule,James_Prescott.personal|Joule,James_Prescott.personal]] 
 
-### #is_/same_as :: [Joule,James_Prescott.secret](/_secret/Science/Scientist/Modern_Scientists/Joule,James_Prescott.secret.md)
+### #is_/same_as :: [[/_secret/Science/Scientist/Modern_Scientists/Joule,James_Prescott.secret|Joule,James_Prescott.secret]] 
 

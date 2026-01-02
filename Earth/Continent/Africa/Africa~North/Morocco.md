@@ -552,17 +552,17 @@ Capital :: [[./Morocco/City/Rabat|Rabat]]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Morocco](/_Standards/Earth/Continent/Africa/Africa~North/Morocco.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~North/Morocco|Morocco]] 
 
-### #is_/same_as :: [Morocco.public](/_public/Earth/Continent/Africa/Africa~North/Morocco.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~North/Morocco.public|Morocco.public]] 
 
-### #is_/same_as :: [Morocco.internal](/_internal/Earth/Continent/Africa/Africa~North/Morocco.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~North/Morocco.internal|Morocco.internal]] 
 
-### #is_/same_as :: [Morocco.protect](/_protect/Earth/Continent/Africa/Africa~North/Morocco.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~North/Morocco.protect|Morocco.protect]] 
 
-### #is_/same_as :: [Morocco.private](/_private/Earth/Continent/Africa/Africa~North/Morocco.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~North/Morocco.private|Morocco.private]] 
 
-### #is_/same_as :: [Morocco.personal](/_personal/Earth/Continent/Africa/Africa~North/Morocco.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~North/Morocco.personal|Morocco.personal]] 
 
-### #is_/same_as :: [Morocco.secret](/_secret/Earth/Continent/Africa/Africa~North/Morocco.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~North/Morocco.secret|Morocco.secret]] 
 

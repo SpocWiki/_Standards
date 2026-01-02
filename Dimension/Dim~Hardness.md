@@ -52,17 +52,17 @@ Commons_category: Hardness
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Dim~Hardness](/_Standards/Dimension/Dim~Hardness.md) 
+### #is_/same_as :: [[/_Standards/Dimension/Dim~Hardness|Dim~Hardness]] 
 
-### #is_/same_as :: [Dim~Hardness.public](/_public/Dimension/Dim~Hardness.public.md) 
+### #is_/same_as :: [[/_public/Dimension/Dim~Hardness.public|Dim~Hardness.public]] 
 
-### #is_/same_as :: [Dim~Hardness.internal](/_internal/Dimension/Dim~Hardness.internal.md) 
+### #is_/same_as :: [[/_internal/Dimension/Dim~Hardness.internal|Dim~Hardness.internal]] 
 
-### #is_/same_as :: [Dim~Hardness.protect](/_protect/Dimension/Dim~Hardness.protect.md) 
+### #is_/same_as :: [[/_protect/Dimension/Dim~Hardness.protect|Dim~Hardness.protect]] 
 
-### #is_/same_as :: [Dim~Hardness.private](/_private/Dimension/Dim~Hardness.private.md) 
+### #is_/same_as :: [[/_private/Dimension/Dim~Hardness.private|Dim~Hardness.private]] 
 
-### #is_/same_as :: [Dim~Hardness.personal](/_personal/Dimension/Dim~Hardness.personal.md) 
+### #is_/same_as :: [[/_personal/Dimension/Dim~Hardness.personal|Dim~Hardness.personal]] 
 
-### #is_/same_as :: [Dim~Hardness.secret](/_secret/Dimension/Dim~Hardness.secret.md)
+### #is_/same_as :: [[/_secret/Dimension/Dim~Hardness.secret|Dim~Hardness.secret]] 
 

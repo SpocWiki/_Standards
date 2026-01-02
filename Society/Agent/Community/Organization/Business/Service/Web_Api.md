@@ -43,17 +43,17 @@ An application programming interface accessible over Web/Internet technologies.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Web_Api](/_Standards/Society/Agent/Community/Organization/Business/Service/Web_Api.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Business/Service/Web_Api|Web_Api]] 
 
-### #is_/same_as :: [Web_Api.public](/_public/Society/Agent/Community/Organization/Business/Service/Web_Api.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Business/Service/Web_Api.public|Web_Api.public]] 
 
-### #is_/same_as :: [Web_Api.internal](/_internal/Society/Agent/Community/Organization/Business/Service/Web_Api.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Business/Service/Web_Api.internal|Web_Api.internal]] 
 
-### #is_/same_as :: [Web_Api.protect](/_protect/Society/Agent/Community/Organization/Business/Service/Web_Api.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Business/Service/Web_Api.protect|Web_Api.protect]] 
 
-### #is_/same_as :: [Web_Api.private](/_private/Society/Agent/Community/Organization/Business/Service/Web_Api.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Business/Service/Web_Api.private|Web_Api.private]] 
 
-### #is_/same_as :: [Web_Api.personal](/_personal/Society/Agent/Community/Organization/Business/Service/Web_Api.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Business/Service/Web_Api.personal|Web_Api.personal]] 
 
-### #is_/same_as :: [Web_Api.secret](/_secret/Society/Agent/Community/Organization/Business/Service/Web_Api.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Business/Service/Web_Api.secret|Web_Api.secret]] 
 

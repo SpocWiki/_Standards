@@ -43,17 +43,17 @@ A government office—for example, an IRS or DMV office.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Government_Office](/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Government_Office.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Government_Office|Government_Office]] 
 
-### #is_/same_as :: [Government_Office.public](/_public/Society/Agent/Community/Organization/Business/Local_Business/Government_Office.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Business/Local_Business/Government_Office.public|Government_Office.public]] 
 
-### #is_/same_as :: [Government_Office.internal](/_internal/Society/Agent/Community/Organization/Business/Local_Business/Government_Office.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Business/Local_Business/Government_Office.internal|Government_Office.internal]] 
 
-### #is_/same_as :: [Government_Office.protect](/_protect/Society/Agent/Community/Organization/Business/Local_Business/Government_Office.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Business/Local_Business/Government_Office.protect|Government_Office.protect]] 
 
-### #is_/same_as :: [Government_Office.private](/_private/Society/Agent/Community/Organization/Business/Local_Business/Government_Office.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Business/Local_Business/Government_Office.private|Government_Office.private]] 
 
-### #is_/same_as :: [Government_Office.personal](/_personal/Society/Agent/Community/Organization/Business/Local_Business/Government_Office.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Business/Local_Business/Government_Office.personal|Government_Office.personal]] 
 
-### #is_/same_as :: [Government_Office.secret](/_secret/Society/Agent/Community/Organization/Business/Local_Business/Government_Office.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Business/Local_Business/Government_Office.secret|Government_Office.secret]] 
 

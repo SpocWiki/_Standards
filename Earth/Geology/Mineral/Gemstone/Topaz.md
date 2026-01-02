@@ -63,17 +63,17 @@ IMA_Mineral_Symbol: Tpz
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Topaz](/_Standards/Earth/Geology/Mineral/Gemstone/Topaz.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geology/Mineral/Gemstone/Topaz|Topaz]] 
 
-### #is_/same_as :: [Topaz.public](/_public/Earth/Geology/Mineral/Gemstone/Topaz.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geology/Mineral/Gemstone/Topaz.public|Topaz.public]] 
 
-### #is_/same_as :: [Topaz.internal](/_internal/Earth/Geology/Mineral/Gemstone/Topaz.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geology/Mineral/Gemstone/Topaz.internal|Topaz.internal]] 
 
-### #is_/same_as :: [Topaz.protect](/_protect/Earth/Geology/Mineral/Gemstone/Topaz.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geology/Mineral/Gemstone/Topaz.protect|Topaz.protect]] 
 
-### #is_/same_as :: [Topaz.private](/_private/Earth/Geology/Mineral/Gemstone/Topaz.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geology/Mineral/Gemstone/Topaz.private|Topaz.private]] 
 
-### #is_/same_as :: [Topaz.personal](/_personal/Earth/Geology/Mineral/Gemstone/Topaz.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geology/Mineral/Gemstone/Topaz.personal|Topaz.personal]] 
 
-### #is_/same_as :: [Topaz.secret](/_secret/Earth/Geology/Mineral/Gemstone/Topaz.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geology/Mineral/Gemstone/Topaz.secret|Topaz.secret]] 
 

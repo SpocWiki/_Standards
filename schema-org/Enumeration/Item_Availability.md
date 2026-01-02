@@ -50,17 +50,17 @@ A list of possible product availability options:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Item_Availability](/_Standards/schema-org/Enumeration/Item_Availability.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Item_Availability|Item_Availability]] 
 
-### #is_/same_as :: [Item_Availability.public](/_public/schema-org/Enumeration/Item_Availability.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Item_Availability.public|Item_Availability.public]] 
 
-### #is_/same_as :: [Item_Availability.internal](/_internal/schema-org/Enumeration/Item_Availability.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Item_Availability.internal|Item_Availability.internal]] 
 
-### #is_/same_as :: [Item_Availability.protect](/_protect/schema-org/Enumeration/Item_Availability.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Item_Availability.protect|Item_Availability.protect]] 
 
-### #is_/same_as :: [Item_Availability.private](/_private/schema-org/Enumeration/Item_Availability.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Item_Availability.private|Item_Availability.private]] 
 
-### #is_/same_as :: [Item_Availability.personal](/_personal/schema-org/Enumeration/Item_Availability.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Item_Availability.personal|Item_Availability.personal]] 
 
-### #is_/same_as :: [Item_Availability.secret](/_secret/schema-org/Enumeration/Item_Availability.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Item_Availability.secret|Item_Availability.secret]] 
 

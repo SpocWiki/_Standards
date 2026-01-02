@@ -67,17 +67,17 @@ IEV_number: 171-02-11
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bit](/_Standards/Mathematics/Number/Numeral_System/Binary_numeral_System/Bit.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Number/Numeral_System/Binary_numeral_System/Bit|Bit]] 
 
-### #is_/same_as :: [Bit.public](/_public/Mathematics/Number/Numeral_System/Binary_numeral_System/Bit.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Number/Numeral_System/Binary_numeral_System/Bit.public|Bit.public]] 
 
-### #is_/same_as :: [Bit.internal](/_internal/Mathematics/Number/Numeral_System/Binary_numeral_System/Bit.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Number/Numeral_System/Binary_numeral_System/Bit.internal|Bit.internal]] 
 
-### #is_/same_as :: [Bit.protect](/_protect/Mathematics/Number/Numeral_System/Binary_numeral_System/Bit.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Number/Numeral_System/Binary_numeral_System/Bit.protect|Bit.protect]] 
 
-### #is_/same_as :: [Bit.private](/_private/Mathematics/Number/Numeral_System/Binary_numeral_System/Bit.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Number/Numeral_System/Binary_numeral_System/Bit.private|Bit.private]] 
 
-### #is_/same_as :: [Bit.personal](/_personal/Mathematics/Number/Numeral_System/Binary_numeral_System/Bit.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Number/Numeral_System/Binary_numeral_System/Bit.personal|Bit.personal]] 
 
-### #is_/same_as :: [Bit.secret](/_secret/Mathematics/Number/Numeral_System/Binary_numeral_System/Bit.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Number/Numeral_System/Binary_numeral_System/Bit.secret|Bit.secret]] 
 

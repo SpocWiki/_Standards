@@ -44,17 +44,17 @@ Use properties from [[../Organization]], [[subOrganization]]/[[parentOrganizatio
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Project](/_Standards/Society/Agent/Community/Organization/Project.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Project|Project]] 
 
-### #is_/same_as :: [Project.public](/_public/Society/Agent/Community/Organization/Project.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Project.public|Project.public]] 
 
-### #is_/same_as :: [Project.internal](/_internal/Society/Agent/Community/Organization/Project.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Project.internal|Project.internal]] 
 
-### #is_/same_as :: [Project.protect](/_protect/Society/Agent/Community/Organization/Project.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Project.protect|Project.protect]] 
 
-### #is_/same_as :: [Project.private](/_private/Society/Agent/Community/Organization/Project.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Project.private|Project.private]] 
 
-### #is_/same_as :: [Project.personal](/_personal/Society/Agent/Community/Organization/Project.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Project.personal|Project.personal]] 
 
-### #is_/same_as :: [Project.secret](/_secret/Society/Agent/Community/Organization/Project.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Project.secret|Project.secret]] 
 

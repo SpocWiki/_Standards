@@ -29,3 +29,22 @@ has_part_s_:
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/bio/Metabolism/Nutrition/Fat/Saturated_Fat|Saturated_Fat]] 
+
+### #is_/same_as :: [[/_public/bio/Metabolism/Nutrition/Fat/Saturated_Fat.public|Saturated_Fat.public]] 
+
+### #is_/same_as :: [[/_internal/bio/Metabolism/Nutrition/Fat/Saturated_Fat.internal|Saturated_Fat.internal]] 
+
+### #is_/same_as :: [[/_protect/bio/Metabolism/Nutrition/Fat/Saturated_Fat.protect|Saturated_Fat.protect]] 
+
+### #is_/same_as :: [[/_private/bio/Metabolism/Nutrition/Fat/Saturated_Fat.private|Saturated_Fat.private]] 
+
+### #is_/same_as :: [[/_personal/bio/Metabolism/Nutrition/Fat/Saturated_Fat.personal|Saturated_Fat.personal]] 
+
+### #is_/same_as :: [[/_secret/bio/Metabolism/Nutrition/Fat/Saturated_Fat.secret|Saturated_Fat.secret]] 
+

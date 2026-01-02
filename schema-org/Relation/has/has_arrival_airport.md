@@ -40,17 +40,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_arrival_airport](/_Standards/schema-org/Relation/has/has_arrival_airport.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_arrival_airport|has_arrival_airport]] 
 
-### #is_/same_as :: [has_arrival_airport.public](/_public/schema-org/Relation/has/has_arrival_airport.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_arrival_airport.public|has_arrival_airport.public]] 
 
-### #is_/same_as :: [has_arrival_airport.internal](/_internal/schema-org/Relation/has/has_arrival_airport.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_arrival_airport.internal|has_arrival_airport.internal]] 
 
-### #is_/same_as :: [has_arrival_airport.protect](/_protect/schema-org/Relation/has/has_arrival_airport.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_arrival_airport.protect|has_arrival_airport.protect]] 
 
-### #is_/same_as :: [has_arrival_airport.private](/_private/schema-org/Relation/has/has_arrival_airport.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_arrival_airport.private|has_arrival_airport.private]] 
 
-### #is_/same_as :: [has_arrival_airport.personal](/_personal/schema-org/Relation/has/has_arrival_airport.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_arrival_airport.personal|has_arrival_airport.personal]] 
 
-### #is_/same_as :: [has_arrival_airport.secret](/_secret/schema-org/Relation/has/has_arrival_airport.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_arrival_airport.secret|has_arrival_airport.secret]] 
 

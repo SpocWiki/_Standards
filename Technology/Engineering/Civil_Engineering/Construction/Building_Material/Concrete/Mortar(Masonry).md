@@ -61,17 +61,17 @@ Commons_category: Mortar (masonry)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Mortar(Masonry)](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Building_Material/Concrete/Mortar(Masonry).md) 
+### #is_/same_as :: [[/_Standards/Technology/Engineering/Civil_Engineering/Construction/Building_Material/Concrete/Mortar(Masonry)|Mortar(Masonry)]] 
 
-### #is_/same_as :: [Mortar(Masonry).public](/_public/Technology/Engineering/Civil_Engineering/Construction/Building_Material/Concrete/Mortar(Masonry).public.md) 
+### #is_/same_as :: [[/_public/Technology/Engineering/Civil_Engineering/Construction/Building_Material/Concrete/Mortar(Masonry).public|Mortar(Masonry).public]] 
 
-### #is_/same_as :: [Mortar(Masonry).internal](/_internal/Technology/Engineering/Civil_Engineering/Construction/Building_Material/Concrete/Mortar(Masonry).internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Engineering/Civil_Engineering/Construction/Building_Material/Concrete/Mortar(Masonry).internal|Mortar(Masonry).internal]] 
 
-### #is_/same_as :: [Mortar(Masonry).protect](/_protect/Technology/Engineering/Civil_Engineering/Construction/Building_Material/Concrete/Mortar(Masonry).protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Engineering/Civil_Engineering/Construction/Building_Material/Concrete/Mortar(Masonry).protect|Mortar(Masonry).protect]] 
 
-### #is_/same_as :: [Mortar(Masonry).private](/_private/Technology/Engineering/Civil_Engineering/Construction/Building_Material/Concrete/Mortar(Masonry).private.md) 
+### #is_/same_as :: [[/_private/Technology/Engineering/Civil_Engineering/Construction/Building_Material/Concrete/Mortar(Masonry).private|Mortar(Masonry).private]] 
 
-### #is_/same_as :: [Mortar(Masonry).personal](/_personal/Technology/Engineering/Civil_Engineering/Construction/Building_Material/Concrete/Mortar(Masonry).personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Engineering/Civil_Engineering/Construction/Building_Material/Concrete/Mortar(Masonry).personal|Mortar(Masonry).personal]] 
 
-### #is_/same_as :: [Mortar(Masonry).secret](/_secret/Technology/Engineering/Civil_Engineering/Construction/Building_Material/Concrete/Mortar(Masonry).secret.md)
+### #is_/same_as :: [[/_secret/Technology/Engineering/Civil_Engineering/Construction/Building_Material/Concrete/Mortar(Masonry).secret|Mortar(Masonry).secret]] 
 

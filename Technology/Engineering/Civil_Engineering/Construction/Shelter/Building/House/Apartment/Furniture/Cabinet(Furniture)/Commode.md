@@ -30,17 +30,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Commode](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Furniture/Cabinet(Furniture)/Commode.md) 
+### #is_/same_as :: [[/_Standards/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Furniture/Cabinet(Furniture)/Commode|Commode]] 
 
-### #is_/same_as :: [Commode.public](/_public/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Furniture/Cabinet(Furniture)/Commode.public.md) 
+### #is_/same_as :: [[/_public/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Furniture/Cabinet(Furniture)/Commode.public|Commode.public]] 
 
-### #is_/same_as :: [Commode.internal](/_internal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Furniture/Cabinet(Furniture)/Commode.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Furniture/Cabinet(Furniture)/Commode.internal|Commode.internal]] 
 
-### #is_/same_as :: [Commode.protect](/_protect/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Furniture/Cabinet(Furniture)/Commode.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Furniture/Cabinet(Furniture)/Commode.protect|Commode.protect]] 
 
-### #is_/same_as :: [Commode.private](/_private/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Furniture/Cabinet(Furniture)/Commode.private.md) 
+### #is_/same_as :: [[/_private/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Furniture/Cabinet(Furniture)/Commode.private|Commode.private]] 
 
-### #is_/same_as :: [Commode.personal](/_personal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Furniture/Cabinet(Furniture)/Commode.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Furniture/Cabinet(Furniture)/Commode.personal|Commode.personal]] 
 
-### #is_/same_as :: [Commode.secret](/_secret/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Furniture/Cabinet(Furniture)/Commode.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Furniture/Cabinet(Furniture)/Commode.secret|Commode.secret]] 
 

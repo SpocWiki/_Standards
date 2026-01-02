@@ -48,17 +48,17 @@ Krugosvet_article: nauka_i_tehnika/tehnologiya_i_promyshlennost/MIKROSKOP.html
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Microscope](/_Standards/Technology/Tool/Instrumentation/Microscope.md) 
+### #is_/same_as :: [[/_Standards/Technology/Tool/Instrumentation/Microscope|Microscope]] 
 
-### #is_/same_as :: [Microscope.public](/_public/Technology/Tool/Instrumentation/Microscope.public.md) 
+### #is_/same_as :: [[/_public/Technology/Tool/Instrumentation/Microscope.public|Microscope.public]] 
 
-### #is_/same_as :: [Microscope.internal](/_internal/Technology/Tool/Instrumentation/Microscope.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Tool/Instrumentation/Microscope.internal|Microscope.internal]] 
 
-### #is_/same_as :: [Microscope.protect](/_protect/Technology/Tool/Instrumentation/Microscope.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Tool/Instrumentation/Microscope.protect|Microscope.protect]] 
 
-### #is_/same_as :: [Microscope.private](/_private/Technology/Tool/Instrumentation/Microscope.private.md) 
+### #is_/same_as :: [[/_private/Technology/Tool/Instrumentation/Microscope.private|Microscope.private]] 
 
-### #is_/same_as :: [Microscope.personal](/_personal/Technology/Tool/Instrumentation/Microscope.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Tool/Instrumentation/Microscope.personal|Microscope.personal]] 
 
-### #is_/same_as :: [Microscope.secret](/_secret/Technology/Tool/Instrumentation/Microscope.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Tool/Instrumentation/Microscope.secret|Microscope.secret]] 
 

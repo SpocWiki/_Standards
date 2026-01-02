@@ -63,17 +63,17 @@ RoofLoad:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thin
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~BusOrCoach](/_Standards/fileClass/FileClass~Thing/FileClass~Product/FileClass~Vehicle/FileClass~BusOrCoach.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Product/FileClass~Vehicle/FileClass~BusOrCoach|FileClass~BusOrCoach]] 
 
-### #is_/same_as :: [FileClass~BusOrCoach.public](/_public/fileClass/FileClass~Thing/FileClass~Product/FileClass~Vehicle/FileClass~BusOrCoach.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Product/FileClass~Vehicle/FileClass~BusOrCoach.public|FileClass~BusOrCoach.public]] 
 
-### #is_/same_as :: [FileClass~BusOrCoach.internal](/_internal/fileClass/FileClass~Thing/FileClass~Product/FileClass~Vehicle/FileClass~BusOrCoach.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Product/FileClass~Vehicle/FileClass~BusOrCoach.internal|FileClass~BusOrCoach.internal]] 
 
-### #is_/same_as :: [FileClass~BusOrCoach.protect](/_protect/fileClass/FileClass~Thing/FileClass~Product/FileClass~Vehicle/FileClass~BusOrCoach.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Product/FileClass~Vehicle/FileClass~BusOrCoach.protect|FileClass~BusOrCoach.protect]] 
 
-### #is_/same_as :: [FileClass~BusOrCoach.private](/_private/fileClass/FileClass~Thing/FileClass~Product/FileClass~Vehicle/FileClass~BusOrCoach.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Product/FileClass~Vehicle/FileClass~BusOrCoach.private|FileClass~BusOrCoach.private]] 
 
-### #is_/same_as :: [FileClass~BusOrCoach.personal](/_personal/fileClass/FileClass~Thing/FileClass~Product/FileClass~Vehicle/FileClass~BusOrCoach.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Product/FileClass~Vehicle/FileClass~BusOrCoach.personal|FileClass~BusOrCoach.personal]] 
 
-### #is_/same_as :: [FileClass~BusOrCoach.secret](/_secret/fileClass/FileClass~Thing/FileClass~Product/FileClass~Vehicle/FileClass~BusOrCoach.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Product/FileClass~Vehicle/FileClass~BusOrCoach.secret|FileClass~BusOrCoach.secret]] 
 

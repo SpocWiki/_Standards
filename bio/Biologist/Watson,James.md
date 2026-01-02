@@ -127,17 +127,17 @@ Krugosvet_article: nauka_i_tehnika/biologiya/UOTSON_DZHEMS_DEVE.html
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Watson,James](/_Standards/bio/Biologist/Watson,James.md) 
+### #is_/same_as :: [[/_Standards/bio/Biologist/Watson,James|Watson,James]] 
 
-### #is_/same_as :: [Watson,James.public](/_public/bio/Biologist/Watson,James.public.md) 
+### #is_/same_as :: [[/_public/bio/Biologist/Watson,James.public|Watson,James.public]] 
 
-### #is_/same_as :: [Watson,James.internal](/_internal/bio/Biologist/Watson,James.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Biologist/Watson,James.internal|Watson,James.internal]] 
 
-### #is_/same_as :: [Watson,James.protect](/_protect/bio/Biologist/Watson,James.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Biologist/Watson,James.protect|Watson,James.protect]] 
 
-### #is_/same_as :: [Watson,James.private](/_private/bio/Biologist/Watson,James.private.md) 
+### #is_/same_as :: [[/_private/bio/Biologist/Watson,James.private|Watson,James.private]] 
 
-### #is_/same_as :: [Watson,James.personal](/_personal/bio/Biologist/Watson,James.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Biologist/Watson,James.personal|Watson,James.personal]] 
 
-### #is_/same_as :: [Watson,James.secret](/_secret/bio/Biologist/Watson,James.secret.md)
+### #is_/same_as :: [[/_secret/bio/Biologist/Watson,James.secret|Watson,James.secret]] 
 

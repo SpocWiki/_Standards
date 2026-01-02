@@ -41,17 +41,17 @@ A music store.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Music_Store](/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Store/Music_Store.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Store/Music_Store|Music_Store]] 
 
-### #is_/same_as :: [Music_Store.public](/_public/Society/Agent/Community/Organization/Business/Local_Business/Store/Music_Store.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Business/Local_Business/Store/Music_Store.public|Music_Store.public]] 
 
-### #is_/same_as :: [Music_Store.internal](/_internal/Society/Agent/Community/Organization/Business/Local_Business/Store/Music_Store.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Business/Local_Business/Store/Music_Store.internal|Music_Store.internal]] 
 
-### #is_/same_as :: [Music_Store.protect](/_protect/Society/Agent/Community/Organization/Business/Local_Business/Store/Music_Store.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Business/Local_Business/Store/Music_Store.protect|Music_Store.protect]] 
 
-### #is_/same_as :: [Music_Store.private](/_private/Society/Agent/Community/Organization/Business/Local_Business/Store/Music_Store.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Business/Local_Business/Store/Music_Store.private|Music_Store.private]] 
 
-### #is_/same_as :: [Music_Store.personal](/_personal/Society/Agent/Community/Organization/Business/Local_Business/Store/Music_Store.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Business/Local_Business/Store/Music_Store.personal|Music_Store.personal]] 
 
-### #is_/same_as :: [Music_Store.secret](/_secret/Society/Agent/Community/Organization/Business/Local_Business/Store/Music_Store.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Business/Local_Business/Store/Music_Store.secret|Music_Store.secret]] 
 

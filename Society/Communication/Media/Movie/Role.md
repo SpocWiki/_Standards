@@ -26,17 +26,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Role](/_Standards/Society/Communication/Media/Movie/Role.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Role|Role]] 
 
-### #is_/same_as :: [Role.public](/_public/Society/Communication/Media/Movie/Role.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Role.public|Role.public]] 
 
-### #is_/same_as :: [Role.internal](/_internal/Society/Communication/Media/Movie/Role.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Role.internal|Role.internal]] 
 
-### #is_/same_as :: [Role.protect](/_protect/Society/Communication/Media/Movie/Role.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Role.protect|Role.protect]] 
 
-### #is_/same_as :: [Role.private](/_private/Society/Communication/Media/Movie/Role.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Role.private|Role.private]] 
 
-### #is_/same_as :: [Role.personal](/_personal/Society/Communication/Media/Movie/Role.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Role.personal|Role.personal]] 
 
-### #is_/same_as :: [Role.secret](/_secret/Society/Communication/Media/Movie/Role.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Role.secret|Role.secret]] 
 

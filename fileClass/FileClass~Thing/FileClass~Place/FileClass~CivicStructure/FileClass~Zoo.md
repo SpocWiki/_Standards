@@ -37,17 +37,17 @@ A zoo.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~Zoo](/_Standards/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Zoo.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Zoo|FileClass~Zoo]] 
 
-### #is_/same_as :: [FileClass~Zoo.public](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Zoo.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Zoo.public|FileClass~Zoo.public]] 
 
-### #is_/same_as :: [FileClass~Zoo.internal](/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Zoo.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Zoo.internal|FileClass~Zoo.internal]] 
 
-### #is_/same_as :: [FileClass~Zoo.protect](/_protect/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Zoo.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Zoo.protect|FileClass~Zoo.protect]] 
 
-### #is_/same_as :: [FileClass~Zoo.private](/_private/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Zoo.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Zoo.private|FileClass~Zoo.private]] 
 
-### #is_/same_as :: [FileClass~Zoo.personal](/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Zoo.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Zoo.personal|FileClass~Zoo.personal]] 
 
-### #is_/same_as :: [FileClass~Zoo.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Zoo.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Zoo.secret|FileClass~Zoo.secret]] 
 

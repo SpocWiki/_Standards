@@ -54,17 +54,17 @@ No evidence the audio has been misleadingly altered or manipulated, though it ma
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Original_Media_Content](/_Standards/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration/Original_Media_Content.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration/Original_Media_Content|Original_Media_Content]] 
 
-### #is_/same_as :: [Original_Media_Content.public](/_public/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration/Original_Media_Content.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration/Original_Media_Content.public|Original_Media_Content.public]] 
 
-### #is_/same_as :: [Original_Media_Content.internal](/_internal/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration/Original_Media_Content.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration/Original_Media_Content.internal|Original_Media_Content.internal]] 
 
-### #is_/same_as :: [Original_Media_Content.protect](/_protect/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration/Original_Media_Content.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration/Original_Media_Content.protect|Original_Media_Content.protect]] 
 
-### #is_/same_as :: [Original_Media_Content.private](/_private/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration/Original_Media_Content.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration/Original_Media_Content.private|Original_Media_Content.private]] 
 
-### #is_/same_as :: [Original_Media_Content.personal](/_personal/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration/Original_Media_Content.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration/Original_Media_Content.personal|Original_Media_Content.personal]] 
 
-### #is_/same_as :: [Original_Media_Content.secret](/_secret/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration/Original_Media_Content.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration/Original_Media_Content.secret|Original_Media_Content.secret]] 
 

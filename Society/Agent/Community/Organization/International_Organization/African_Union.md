@@ -133,17 +133,17 @@ X_Twitter_username: _AfricanUnion
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [African_Union](/_Standards/Society/Agent/Community/Organization/International_Organization/African_Union.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/International_Organization/African_Union|African_Union]] 
 
-### #is_/same_as :: [African_Union.public](/_public/Society/Agent/Community/Organization/International_Organization/African_Union.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/International_Organization/African_Union.public|African_Union.public]] 
 
-### #is_/same_as :: [African_Union.internal](/_internal/Society/Agent/Community/Organization/International_Organization/African_Union.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/International_Organization/African_Union.internal|African_Union.internal]] 
 
-### #is_/same_as :: [African_Union.protect](/_protect/Society/Agent/Community/Organization/International_Organization/African_Union.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/International_Organization/African_Union.protect|African_Union.protect]] 
 
-### #is_/same_as :: [African_Union.private](/_private/Society/Agent/Community/Organization/International_Organization/African_Union.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/International_Organization/African_Union.private|African_Union.private]] 
 
-### #is_/same_as :: [African_Union.personal](/_personal/Society/Agent/Community/Organization/International_Organization/African_Union.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/International_Organization/African_Union.personal|African_Union.personal]] 
 
-### #is_/same_as :: [African_Union.secret](/_secret/Society/Agent/Community/Organization/International_Organization/African_Union.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/International_Organization/African_Union.secret|African_Union.secret]] 
 

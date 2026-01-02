@@ -30,17 +30,17 @@ type: folder_brief_live
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Europe~Central](/_Standards/Earth/Continent/Europe/Europe~Central.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central|Europe~Central]] 
 
-### #is_/same_as :: [Europe~Central.public](/_public/Earth/Continent/Europe/Europe~Central.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central.public|Europe~Central.public]] 
 
-### #is_/same_as :: [Europe~Central.internal](/_internal/Earth/Continent/Europe/Europe~Central.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central.internal|Europe~Central.internal]] 
 
-### #is_/same_as :: [Europe~Central.protect](/_protect/Earth/Continent/Europe/Europe~Central.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central.protect|Europe~Central.protect]] 
 
-### #is_/same_as :: [Europe~Central.private](/_private/Earth/Continent/Europe/Europe~Central.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central.private|Europe~Central.private]] 
 
-### #is_/same_as :: [Europe~Central.personal](/_personal/Earth/Continent/Europe/Europe~Central.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central.personal|Europe~Central.personal]] 
 
-### #is_/same_as :: [Europe~Central.secret](/_secret/Earth/Continent/Europe/Europe~Central.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central.secret|Europe~Central.secret]] 
 

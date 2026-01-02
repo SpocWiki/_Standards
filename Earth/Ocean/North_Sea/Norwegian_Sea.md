@@ -76,17 +76,17 @@ markerFolder: ./Norwegian_Sea/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Norwegian_Sea](/_Standards/Earth/Ocean/North_Sea/Norwegian_Sea.md) 
+### #is_/same_as :: [[/_Standards/Earth/Ocean/North_Sea/Norwegian_Sea|Norwegian_Sea]] 
 
-### #is_/same_as :: [Norwegian_Sea.public](/_public/Earth/Ocean/North_Sea/Norwegian_Sea.public.md) 
+### #is_/same_as :: [[/_public/Earth/Ocean/North_Sea/Norwegian_Sea.public|Norwegian_Sea.public]] 
 
-### #is_/same_as :: [Norwegian_Sea.internal](/_internal/Earth/Ocean/North_Sea/Norwegian_Sea.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Ocean/North_Sea/Norwegian_Sea.internal|Norwegian_Sea.internal]] 
 
-### #is_/same_as :: [Norwegian_Sea.protect](/_protect/Earth/Ocean/North_Sea/Norwegian_Sea.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Ocean/North_Sea/Norwegian_Sea.protect|Norwegian_Sea.protect]] 
 
-### #is_/same_as :: [Norwegian_Sea.private](/_private/Earth/Ocean/North_Sea/Norwegian_Sea.private.md) 
+### #is_/same_as :: [[/_private/Earth/Ocean/North_Sea/Norwegian_Sea.private|Norwegian_Sea.private]] 
 
-### #is_/same_as :: [Norwegian_Sea.personal](/_personal/Earth/Ocean/North_Sea/Norwegian_Sea.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Ocean/North_Sea/Norwegian_Sea.personal|Norwegian_Sea.personal]] 
 
-### #is_/same_as :: [Norwegian_Sea.secret](/_secret/Earth/Ocean/North_Sea/Norwegian_Sea.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Ocean/North_Sea/Norwegian_Sea.secret|Norwegian_Sea.secret]] 
 

@@ -31,17 +31,17 @@ has_id_wikidata: Q904756
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Religious_Conversion](/_Standards/Philosophy/Metaphysic/Religion/Religious_Conversion.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Religious_Conversion|Religious_Conversion]] 
 
-### #is_/same_as :: [Religious_Conversion.public](/_public/Philosophy/Metaphysic/Religion/Religious_Conversion.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Religious_Conversion.public|Religious_Conversion.public]] 
 
-### #is_/same_as :: [Religious_Conversion.internal](/_internal/Philosophy/Metaphysic/Religion/Religious_Conversion.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Religious_Conversion.internal|Religious_Conversion.internal]] 
 
-### #is_/same_as :: [Religious_Conversion.protect](/_protect/Philosophy/Metaphysic/Religion/Religious_Conversion.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Religious_Conversion.protect|Religious_Conversion.protect]] 
 
-### #is_/same_as :: [Religious_Conversion.private](/_private/Philosophy/Metaphysic/Religion/Religious_Conversion.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Religious_Conversion.private|Religious_Conversion.private]] 
 
-### #is_/same_as :: [Religious_Conversion.personal](/_personal/Philosophy/Metaphysic/Religion/Religious_Conversion.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Religious_Conversion.personal|Religious_Conversion.personal]] 
 
-### #is_/same_as :: [Religious_Conversion.secret](/_secret/Philosophy/Metaphysic/Religion/Religious_Conversion.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Religious_Conversion.secret|Religious_Conversion.secret]] 
 

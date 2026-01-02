@@ -57,17 +57,17 @@ Xpath:: {"type":"Input","options":{}}
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~SpeakableSpecification](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~SpeakableSpecification.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~SpeakableSpecification|FileClass~SpeakableSpecification]] 
 
-### #is_/same_as :: [FileClass~SpeakableSpecification.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~SpeakableSpecification.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~SpeakableSpecification.public|FileClass~SpeakableSpecification.public]] 
 
-### #is_/same_as :: [FileClass~SpeakableSpecification.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~SpeakableSpecification.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~SpeakableSpecification.internal|FileClass~SpeakableSpecification.internal]] 
 
-### #is_/same_as :: [FileClass~SpeakableSpecification.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~SpeakableSpecification.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~SpeakableSpecification.protect|FileClass~SpeakableSpecification.protect]] 
 
-### #is_/same_as :: [FileClass~SpeakableSpecification.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~SpeakableSpecification.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~SpeakableSpecification.private|FileClass~SpeakableSpecification.private]] 
 
-### #is_/same_as :: [FileClass~SpeakableSpecification.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~SpeakableSpecification.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~SpeakableSpecification.personal|FileClass~SpeakableSpecification.personal]] 
 
-### #is_/same_as :: [FileClass~SpeakableSpecification.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~SpeakableSpecification.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~SpeakableSpecification.secret|FileClass~SpeakableSpecification.secret]] 
 

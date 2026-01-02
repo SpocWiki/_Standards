@@ -41,17 +41,17 @@ Commons_category: Mail (armour)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Chainmail](/_Standards/Society/Military/Military_Engineering/Defense/Armor/Chainmail.md) 
+### #is_/same_as :: [[/_Standards/Society/Military/Military_Engineering/Defense/Armor/Chainmail|Chainmail]] 
 
-### #is_/same_as :: [Chainmail.public](/_public/Society/Military/Military_Engineering/Defense/Armor/Chainmail.public.md) 
+### #is_/same_as :: [[/_public/Society/Military/Military_Engineering/Defense/Armor/Chainmail.public|Chainmail.public]] 
 
-### #is_/same_as :: [Chainmail.internal](/_internal/Society/Military/Military_Engineering/Defense/Armor/Chainmail.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Military/Military_Engineering/Defense/Armor/Chainmail.internal|Chainmail.internal]] 
 
-### #is_/same_as :: [Chainmail.protect](/_protect/Society/Military/Military_Engineering/Defense/Armor/Chainmail.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Military/Military_Engineering/Defense/Armor/Chainmail.protect|Chainmail.protect]] 
 
-### #is_/same_as :: [Chainmail.private](/_private/Society/Military/Military_Engineering/Defense/Armor/Chainmail.private.md) 
+### #is_/same_as :: [[/_private/Society/Military/Military_Engineering/Defense/Armor/Chainmail.private|Chainmail.private]] 
 
-### #is_/same_as :: [Chainmail.personal](/_personal/Society/Military/Military_Engineering/Defense/Armor/Chainmail.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Military/Military_Engineering/Defense/Armor/Chainmail.personal|Chainmail.personal]] 
 
-### #is_/same_as :: [Chainmail.secret](/_secret/Society/Military/Military_Engineering/Defense/Armor/Chainmail.secret.md)
+### #is_/same_as :: [[/_secret/Society/Military/Military_Engineering/Defense/Armor/Chainmail.secret|Chainmail.secret]] 
 

@@ -71,17 +71,17 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Period~2~Jurassic](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic.md) 
+### #is_/same_as :: [[/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic|Period~2~Jurassic]] 
 
-### #is_/same_as :: [Period~2~Jurassic.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic.public.md) 
+### #is_/same_as :: [[/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic.public|Period~2~Jurassic.public]] 
 
-### #is_/same_as :: [Period~2~Jurassic.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic.internal.md) 
+### #is_/same_as :: [[/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic.internal|Period~2~Jurassic.internal]] 
 
-### #is_/same_as :: [Period~2~Jurassic.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic.protect.md) 
+### #is_/same_as :: [[/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic.protect|Period~2~Jurassic.protect]] 
 
-### #is_/same_as :: [Period~2~Jurassic.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic.private.md) 
+### #is_/same_as :: [[/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic.private|Period~2~Jurassic.private]] 
 
-### #is_/same_as :: [Period~2~Jurassic.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic.personal.md) 
+### #is_/same_as :: [[/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic.personal|Period~2~Jurassic.personal]] 
 
-### #is_/same_as :: [Period~2~Jurassic.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic.secret.md)
+### #is_/same_as :: [[/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic.secret|Period~2~Jurassic.secret]] 
 

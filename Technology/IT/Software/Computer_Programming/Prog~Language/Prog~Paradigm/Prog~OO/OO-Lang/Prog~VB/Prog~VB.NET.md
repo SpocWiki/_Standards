@@ -39,17 +39,17 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Prog~VB.NET](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO-Lang/Prog~VB/Prog~VB.NET.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO-Lang/Prog~VB/Prog~VB.NET|Prog~VB.NET]] 
 
-### #is_/same_as :: [Prog~VB.NET.public](/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO-Lang/Prog~VB/Prog~VB.NET.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO-Lang/Prog~VB/Prog~VB.NET.public|Prog~VB.NET.public]] 
 
-### #is_/same_as :: [Prog~VB.NET.internal](/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO-Lang/Prog~VB/Prog~VB.NET.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO-Lang/Prog~VB/Prog~VB.NET.internal|Prog~VB.NET.internal]] 
 
-### #is_/same_as :: [Prog~VB.NET.protect](/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO-Lang/Prog~VB/Prog~VB.NET.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO-Lang/Prog~VB/Prog~VB.NET.protect|Prog~VB.NET.protect]] 
 
-### #is_/same_as :: [Prog~VB.NET.private](/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO-Lang/Prog~VB/Prog~VB.NET.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO-Lang/Prog~VB/Prog~VB.NET.private|Prog~VB.NET.private]] 
 
-### #is_/same_as :: [Prog~VB.NET.personal](/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO-Lang/Prog~VB/Prog~VB.NET.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO-Lang/Prog~VB/Prog~VB.NET.personal|Prog~VB.NET.personal]] 
 
-### #is_/same_as :: [Prog~VB.NET.secret](/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO-Lang/Prog~VB/Prog~VB.NET.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO-Lang/Prog~VB/Prog~VB.NET.secret|Prog~VB.NET.secret]] 
 

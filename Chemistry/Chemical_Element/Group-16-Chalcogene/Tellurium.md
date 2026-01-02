@@ -137,17 +137,17 @@ ZVG_number: 7520
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Tellurium](/_Standards/Chemistry/Chemical_Element/Group-16-Chalcogene/Tellurium.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Chemical_Element/Group-16-Chalcogene/Tellurium|Tellurium]] 
 
-### #is_/same_as :: [Tellurium.public](/_public/Chemistry/Chemical_Element/Group-16-Chalcogene/Tellurium.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Chemical_Element/Group-16-Chalcogene/Tellurium.public|Tellurium.public]] 
 
-### #is_/same_as :: [Tellurium.internal](/_internal/Chemistry/Chemical_Element/Group-16-Chalcogene/Tellurium.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Chemical_Element/Group-16-Chalcogene/Tellurium.internal|Tellurium.internal]] 
 
-### #is_/same_as :: [Tellurium.protect](/_protect/Chemistry/Chemical_Element/Group-16-Chalcogene/Tellurium.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Chemical_Element/Group-16-Chalcogene/Tellurium.protect|Tellurium.protect]] 
 
-### #is_/same_as :: [Tellurium.private](/_private/Chemistry/Chemical_Element/Group-16-Chalcogene/Tellurium.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Chemical_Element/Group-16-Chalcogene/Tellurium.private|Tellurium.private]] 
 
-### #is_/same_as :: [Tellurium.personal](/_personal/Chemistry/Chemical_Element/Group-16-Chalcogene/Tellurium.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Chemical_Element/Group-16-Chalcogene/Tellurium.personal|Tellurium.personal]] 
 
-### #is_/same_as :: [Tellurium.secret](/_secret/Chemistry/Chemical_Element/Group-16-Chalcogene/Tellurium.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Chemical_Element/Group-16-Chalcogene/Tellurium.secret|Tellurium.secret]] 
 

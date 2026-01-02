@@ -62,17 +62,17 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Age~1~Dapingian](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~2~Ordovician/Epoch~2~Middle_Ordovician/Age~1~Dapingian.md) 
+### #is_/same_as :: [[/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~2~Ordovician/Epoch~2~Middle_Ordovician/Age~1~Dapingian|Age~1~Dapingian]] 
 
-### #is_/same_as :: [Age~1~Dapingian.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~2~Ordovician/Epoch~2~Middle_Ordovician/Age~1~Dapingian.public.md) 
+### #is_/same_as :: [[/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~2~Ordovician/Epoch~2~Middle_Ordovician/Age~1~Dapingian.public|Age~1~Dapingian.public]] 
 
-### #is_/same_as :: [Age~1~Dapingian.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~2~Ordovician/Epoch~2~Middle_Ordovician/Age~1~Dapingian.internal.md) 
+### #is_/same_as :: [[/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~2~Ordovician/Epoch~2~Middle_Ordovician/Age~1~Dapingian.internal|Age~1~Dapingian.internal]] 
 
-### #is_/same_as :: [Age~1~Dapingian.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~2~Ordovician/Epoch~2~Middle_Ordovician/Age~1~Dapingian.protect.md) 
+### #is_/same_as :: [[/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~2~Ordovician/Epoch~2~Middle_Ordovician/Age~1~Dapingian.protect|Age~1~Dapingian.protect]] 
 
-### #is_/same_as :: [Age~1~Dapingian.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~2~Ordovician/Epoch~2~Middle_Ordovician/Age~1~Dapingian.private.md) 
+### #is_/same_as :: [[/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~2~Ordovician/Epoch~2~Middle_Ordovician/Age~1~Dapingian.private|Age~1~Dapingian.private]] 
 
-### #is_/same_as :: [Age~1~Dapingian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~2~Ordovician/Epoch~2~Middle_Ordovician/Age~1~Dapingian.personal.md) 
+### #is_/same_as :: [[/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~2~Ordovician/Epoch~2~Middle_Ordovician/Age~1~Dapingian.personal|Age~1~Dapingian.personal]] 
 
-### #is_/same_as :: [Age~1~Dapingian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~2~Ordovician/Epoch~2~Middle_Ordovician/Age~1~Dapingian.secret.md)
+### #is_/same_as :: [[/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~2~Ordovician/Epoch~2~Middle_Ordovician/Age~1~Dapingian.secret|Age~1~Dapingian.secret]] 
 

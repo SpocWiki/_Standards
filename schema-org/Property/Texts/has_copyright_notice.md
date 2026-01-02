@@ -47,17 +47,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_copyright_notice](/_Standards/schema-org/Property/Texts/has_copyright_notice.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/Texts/has_copyright_notice|has_copyright_notice]] 
 
-### #is_/same_as :: [has_copyright_notice.public](/_public/schema-org/Property/Texts/has_copyright_notice.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/Texts/has_copyright_notice.public|has_copyright_notice.public]] 
 
-### #is_/same_as :: [has_copyright_notice.internal](/_internal/schema-org/Property/Texts/has_copyright_notice.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/Texts/has_copyright_notice.internal|has_copyright_notice.internal]] 
 
-### #is_/same_as :: [has_copyright_notice.protect](/_protect/schema-org/Property/Texts/has_copyright_notice.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/Texts/has_copyright_notice.protect|has_copyright_notice.protect]] 
 
-### #is_/same_as :: [has_copyright_notice.private](/_private/schema-org/Property/Texts/has_copyright_notice.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/Texts/has_copyright_notice.private|has_copyright_notice.private]] 
 
-### #is_/same_as :: [has_copyright_notice.personal](/_personal/schema-org/Property/Texts/has_copyright_notice.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/Texts/has_copyright_notice.personal|has_copyright_notice.personal]] 
 
-### #is_/same_as :: [has_copyright_notice.secret](/_secret/schema-org/Property/Texts/has_copyright_notice.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/Texts/has_copyright_notice.secret|has_copyright_notice.secret]] 
 

@@ -61,17 +61,17 @@ Commons_category: Lagrange points
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lagrangian_Point](/_Standards/Astronomy/Solar_System/Orbital_Mechanics/Lagrangian_Point.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Solar_System/Orbital_Mechanics/Lagrangian_Point|Lagrangian_Point]] 
 
-### #is_/same_as :: [Lagrangian_Point.public](/_public/Astronomy/Solar_System/Orbital_Mechanics/Lagrangian_Point.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Solar_System/Orbital_Mechanics/Lagrangian_Point.public|Lagrangian_Point.public]] 
 
-### #is_/same_as :: [Lagrangian_Point.internal](/_internal/Astronomy/Solar_System/Orbital_Mechanics/Lagrangian_Point.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Solar_System/Orbital_Mechanics/Lagrangian_Point.internal|Lagrangian_Point.internal]] 
 
-### #is_/same_as :: [Lagrangian_Point.protect](/_protect/Astronomy/Solar_System/Orbital_Mechanics/Lagrangian_Point.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Solar_System/Orbital_Mechanics/Lagrangian_Point.protect|Lagrangian_Point.protect]] 
 
-### #is_/same_as :: [Lagrangian_Point.private](/_private/Astronomy/Solar_System/Orbital_Mechanics/Lagrangian_Point.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Solar_System/Orbital_Mechanics/Lagrangian_Point.private|Lagrangian_Point.private]] 
 
-### #is_/same_as :: [Lagrangian_Point.personal](/_personal/Astronomy/Solar_System/Orbital_Mechanics/Lagrangian_Point.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Solar_System/Orbital_Mechanics/Lagrangian_Point.personal|Lagrangian_Point.personal]] 
 
-### #is_/same_as :: [Lagrangian_Point.secret](/_secret/Astronomy/Solar_System/Orbital_Mechanics/Lagrangian_Point.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Solar_System/Orbital_Mechanics/Lagrangian_Point.secret|Lagrangian_Point.secret]] 
 

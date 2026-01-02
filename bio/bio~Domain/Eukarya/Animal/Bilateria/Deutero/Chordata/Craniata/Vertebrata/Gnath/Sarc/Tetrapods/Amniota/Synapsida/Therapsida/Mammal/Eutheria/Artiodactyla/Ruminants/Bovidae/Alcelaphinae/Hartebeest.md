@@ -8,7 +8,7 @@ title: Alcelaphus buselaphus
 ---
 
 # Alcelaphus buselaphus 
-![Hartebeest](Hartebeest/Hartebeest.jpg))
+![Hartebeest](Hartebeest/Hartebeest.jpg) 
 
 ## #has_/text_of_/abstract 
 
@@ -58,7 +58,7 @@ title: Alcelaphus buselaphus
 ## Title Illustrations
 
 ------------------------------ 
-![Hartebeest](Hartebeest/Hartebeest.jpg))
+![Hartebeest](Hartebeest/Hartebeest.jpg) 
 Scientific Name ::     Alcelaphus buselaphus
 Location ::           Kenya
 Comments             Hartbebeest
@@ -70,17 +70,17 @@ Copyright ::            © William M. Ciesla, Forest Health Management Internati
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hartebeest](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Artiodactyla/Ruminants/Bovidae/Alcelaphinae/Hartebeest.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Artiodactyla/Ruminants/Bovidae/Alcelaphinae/Hartebeest|Hartebeest]] 
 
-### #is_/same_as :: [Hartebeest.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Artiodactyla/Ruminants/Bovidae/Alcelaphinae/Hartebeest.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Artiodactyla/Ruminants/Bovidae/Alcelaphinae/Hartebeest.public|Hartebeest.public]] 
 
-### #is_/same_as :: [Hartebeest.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Artiodactyla/Ruminants/Bovidae/Alcelaphinae/Hartebeest.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Artiodactyla/Ruminants/Bovidae/Alcelaphinae/Hartebeest.internal|Hartebeest.internal]] 
 
-### #is_/same_as :: [Hartebeest.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Artiodactyla/Ruminants/Bovidae/Alcelaphinae/Hartebeest.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Artiodactyla/Ruminants/Bovidae/Alcelaphinae/Hartebeest.protect|Hartebeest.protect]] 
 
-### #is_/same_as :: [Hartebeest.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Artiodactyla/Ruminants/Bovidae/Alcelaphinae/Hartebeest.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Artiodactyla/Ruminants/Bovidae/Alcelaphinae/Hartebeest.private|Hartebeest.private]] 
 
-### #is_/same_as :: [Hartebeest.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Artiodactyla/Ruminants/Bovidae/Alcelaphinae/Hartebeest.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Artiodactyla/Ruminants/Bovidae/Alcelaphinae/Hartebeest.personal|Hartebeest.personal]] 
 
-### #is_/same_as :: [Hartebeest.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Artiodactyla/Ruminants/Bovidae/Alcelaphinae/Hartebeest.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Artiodactyla/Ruminants/Bovidae/Alcelaphinae/Hartebeest.secret|Hartebeest.secret]] 
 

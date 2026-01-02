@@ -56,17 +56,17 @@ Libris_URI: zw9cb0sh4mdhtcr
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [LangFamily-Indo-Iranian](/_Standards/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian.md) 
+### #is_/same_as :: [[/_Standards/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian|LangFamily-Indo-Iranian]] 
 
-### #is_/same_as :: [LangFamily-Indo-Iranian.public](/_public/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian.public.md) 
+### #is_/same_as :: [[/_public/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian.public|LangFamily-Indo-Iranian.public]] 
 
-### #is_/same_as :: [LangFamily-Indo-Iranian.internal](/_internal/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian.internal.md) 
+### #is_/same_as :: [[/_internal/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian.internal|LangFamily-Indo-Iranian.internal]] 
 
-### #is_/same_as :: [LangFamily-Indo-Iranian.protect](/_protect/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian.protect.md) 
+### #is_/same_as :: [[/_protect/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian.protect|LangFamily-Indo-Iranian.protect]] 
 
-### #is_/same_as :: [LangFamily-Indo-Iranian.private](/_private/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian.private.md) 
+### #is_/same_as :: [[/_private/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian.private|LangFamily-Indo-Iranian.private]] 
 
-### #is_/same_as :: [LangFamily-Indo-Iranian.personal](/_personal/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian.personal.md) 
+### #is_/same_as :: [[/_personal/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian.personal|LangFamily-Indo-Iranian.personal]] 
 
-### #is_/same_as :: [LangFamily-Indo-Iranian.secret](/_secret/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian.secret.md)
+### #is_/same_as :: [[/_secret/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian.secret|LangFamily-Indo-Iranian.secret]] 
 

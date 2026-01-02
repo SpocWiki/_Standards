@@ -41,17 +41,17 @@ The act of generating a comment about a subject.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Comment_Action](/_Standards/schema-org/Class/is_a_/Action/Interact_Action/Communicate_Action/Comment_Action.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Action/Interact_Action/Communicate_Action/Comment_Action|Comment_Action]] 
 
-### #is_/same_as :: [Comment_Action.public](/_public/schema-org/Class/is_a_/Action/Interact_Action/Communicate_Action/Comment_Action.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Action/Interact_Action/Communicate_Action/Comment_Action.public|Comment_Action.public]] 
 
-### #is_/same_as :: [Comment_Action.internal](/_internal/schema-org/Class/is_a_/Action/Interact_Action/Communicate_Action/Comment_Action.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Action/Interact_Action/Communicate_Action/Comment_Action.internal|Comment_Action.internal]] 
 
-### #is_/same_as :: [Comment_Action.protect](/_protect/schema-org/Class/is_a_/Action/Interact_Action/Communicate_Action/Comment_Action.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Action/Interact_Action/Communicate_Action/Comment_Action.protect|Comment_Action.protect]] 
 
-### #is_/same_as :: [Comment_Action.private](/_private/schema-org/Class/is_a_/Action/Interact_Action/Communicate_Action/Comment_Action.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Action/Interact_Action/Communicate_Action/Comment_Action.private|Comment_Action.private]] 
 
-### #is_/same_as :: [Comment_Action.personal](/_personal/schema-org/Class/is_a_/Action/Interact_Action/Communicate_Action/Comment_Action.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Action/Interact_Action/Communicate_Action/Comment_Action.personal|Comment_Action.personal]] 
 
-### #is_/same_as :: [Comment_Action.secret](/_secret/schema-org/Class/is_a_/Action/Interact_Action/Communicate_Action/Comment_Action.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Action/Interact_Action/Communicate_Action/Comment_Action.secret|Comment_Action.secret]] 
 

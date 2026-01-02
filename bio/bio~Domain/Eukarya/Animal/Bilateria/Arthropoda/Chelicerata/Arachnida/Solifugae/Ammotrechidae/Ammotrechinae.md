@@ -52,17 +52,17 @@ Copyright ::            © 2003 Warren E. Savary
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ammotrechinae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Solifugae/Ammotrechidae/Ammotrechinae.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Solifugae/Ammotrechidae/Ammotrechinae|Ammotrechinae]] 
 
-### #is_/same_as :: [Ammotrechinae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Solifugae/Ammotrechidae/Ammotrechinae.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Solifugae/Ammotrechidae/Ammotrechinae.public|Ammotrechinae.public]] 
 
-### #is_/same_as :: [Ammotrechinae.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Solifugae/Ammotrechidae/Ammotrechinae.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Solifugae/Ammotrechidae/Ammotrechinae.internal|Ammotrechinae.internal]] 
 
-### #is_/same_as :: [Ammotrechinae.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Solifugae/Ammotrechidae/Ammotrechinae.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Solifugae/Ammotrechidae/Ammotrechinae.protect|Ammotrechinae.protect]] 
 
-### #is_/same_as :: [Ammotrechinae.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Solifugae/Ammotrechidae/Ammotrechinae.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Solifugae/Ammotrechidae/Ammotrechinae.private|Ammotrechinae.private]] 
 
-### #is_/same_as :: [Ammotrechinae.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Solifugae/Ammotrechidae/Ammotrechinae.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Solifugae/Ammotrechidae/Ammotrechinae.personal|Ammotrechinae.personal]] 
 
-### #is_/same_as :: [Ammotrechinae.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Solifugae/Ammotrechidae/Ammotrechinae.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Solifugae/Ammotrechidae/Ammotrechinae.secret|Ammotrechinae.secret]] 
 

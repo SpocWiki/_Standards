@@ -62,17 +62,17 @@ name_in_native_language: לִװײָתָן
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Leviathan](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Bible/Leviathan.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Bible/Leviathan|Leviathan]] 
 
-### #is_/same_as :: [Leviathan.public](/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Bible/Leviathan.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Bible/Leviathan.public|Leviathan.public]] 
 
-### #is_/same_as :: [Leviathan.internal](/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Bible/Leviathan.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Bible/Leviathan.internal|Leviathan.internal]] 
 
-### #is_/same_as :: [Leviathan.protect](/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Bible/Leviathan.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Bible/Leviathan.protect|Leviathan.protect]] 
 
-### #is_/same_as :: [Leviathan.private](/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Bible/Leviathan.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Bible/Leviathan.private|Leviathan.private]] 
 
-### #is_/same_as :: [Leviathan.personal](/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Bible/Leviathan.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Bible/Leviathan.personal|Leviathan.personal]] 
 
-### #is_/same_as :: [Leviathan.secret](/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Bible/Leviathan.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Bible/Leviathan.secret|Leviathan.secret]] 
 

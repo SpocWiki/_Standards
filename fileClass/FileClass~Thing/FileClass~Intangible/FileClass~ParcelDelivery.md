@@ -152,17 +152,17 @@ TrackingUrl:: {"type":"Input","options":{}}
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~ParcelDelivery](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ParcelDelivery.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ParcelDelivery|FileClass~ParcelDelivery]] 
 
-### #is_/same_as :: [FileClass~ParcelDelivery.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ParcelDelivery.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ParcelDelivery.public|FileClass~ParcelDelivery.public]] 
 
-### #is_/same_as :: [FileClass~ParcelDelivery.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ParcelDelivery.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ParcelDelivery.internal|FileClass~ParcelDelivery.internal]] 
 
-### #is_/same_as :: [FileClass~ParcelDelivery.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ParcelDelivery.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ParcelDelivery.protect|FileClass~ParcelDelivery.protect]] 
 
-### #is_/same_as :: [FileClass~ParcelDelivery.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ParcelDelivery.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ParcelDelivery.private|FileClass~ParcelDelivery.private]] 
 
-### #is_/same_as :: [FileClass~ParcelDelivery.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ParcelDelivery.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ParcelDelivery.personal|FileClass~ParcelDelivery.personal]] 
 
-### #is_/same_as :: [FileClass~ParcelDelivery.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ParcelDelivery.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ParcelDelivery.secret|FileClass~ParcelDelivery.secret]] 
 

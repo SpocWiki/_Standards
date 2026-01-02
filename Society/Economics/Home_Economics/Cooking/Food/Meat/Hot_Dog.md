@@ -58,17 +58,17 @@ Unicode_character: 🌭
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hot_Dog](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Meat/Hot_Dog.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Home_Economics/Cooking/Food/Meat/Hot_Dog|Hot_Dog]] 
 
-### #is_/same_as :: [Hot_Dog.public](/_public/Society/Economics/Home_Economics/Cooking/Food/Meat/Hot_Dog.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Home_Economics/Cooking/Food/Meat/Hot_Dog.public|Hot_Dog.public]] 
 
-### #is_/same_as :: [Hot_Dog.internal](/_internal/Society/Economics/Home_Economics/Cooking/Food/Meat/Hot_Dog.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Home_Economics/Cooking/Food/Meat/Hot_Dog.internal|Hot_Dog.internal]] 
 
-### #is_/same_as :: [Hot_Dog.protect](/_protect/Society/Economics/Home_Economics/Cooking/Food/Meat/Hot_Dog.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Home_Economics/Cooking/Food/Meat/Hot_Dog.protect|Hot_Dog.protect]] 
 
-### #is_/same_as :: [Hot_Dog.private](/_private/Society/Economics/Home_Economics/Cooking/Food/Meat/Hot_Dog.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Home_Economics/Cooking/Food/Meat/Hot_Dog.private|Hot_Dog.private]] 
 
-### #is_/same_as :: [Hot_Dog.personal](/_personal/Society/Economics/Home_Economics/Cooking/Food/Meat/Hot_Dog.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Home_Economics/Cooking/Food/Meat/Hot_Dog.personal|Hot_Dog.personal]] 
 
-### #is_/same_as :: [Hot_Dog.secret](/_secret/Society/Economics/Home_Economics/Cooking/Food/Meat/Hot_Dog.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Home_Economics/Cooking/Food/Meat/Hot_Dog.secret|Hot_Dog.secret]] 
 

@@ -70,17 +70,17 @@ Commons_category: Ring theory
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ring_Theory](/_Standards/Mathematics/Algebra/Ring_Theory.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Algebra/Ring_Theory|Ring_Theory]] 
 
-### #is_/same_as :: [Ring_Theory.public](/_public/Mathematics/Algebra/Ring_Theory.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Algebra/Ring_Theory.public|Ring_Theory.public]] 
 
-### #is_/same_as :: [Ring_Theory.internal](/_internal/Mathematics/Algebra/Ring_Theory.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Algebra/Ring_Theory.internal|Ring_Theory.internal]] 
 
-### #is_/same_as :: [Ring_Theory.protect](/_protect/Mathematics/Algebra/Ring_Theory.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Algebra/Ring_Theory.protect|Ring_Theory.protect]] 
 
-### #is_/same_as :: [Ring_Theory.private](/_private/Mathematics/Algebra/Ring_Theory.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Algebra/Ring_Theory.private|Ring_Theory.private]] 
 
-### #is_/same_as :: [Ring_Theory.personal](/_personal/Mathematics/Algebra/Ring_Theory.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Algebra/Ring_Theory.personal|Ring_Theory.personal]] 
 
-### #is_/same_as :: [Ring_Theory.secret](/_secret/Mathematics/Algebra/Ring_Theory.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Algebra/Ring_Theory.secret|Ring_Theory.secret]] 
 

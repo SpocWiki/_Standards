@@ -100,17 +100,17 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/%28Venice%29%20Ancient
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Odysseus](/_Standards/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Odysseus.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Odysseus|Odysseus]] 
 
-### #is_/same_as :: [Odysseus.public](/_public/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Odysseus.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Odysseus.public|Odysseus.public]] 
 
-### #is_/same_as :: [Odysseus.internal](/_internal/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Odysseus.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Odysseus.internal|Odysseus.internal]] 
 
-### #is_/same_as :: [Odysseus.protect](/_protect/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Odysseus.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Odysseus.protect|Odysseus.protect]] 
 
-### #is_/same_as :: [Odysseus.private](/_private/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Odysseus.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Odysseus.private|Odysseus.private]] 
 
-### #is_/same_as :: [Odysseus.personal](/_personal/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Odysseus.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Odysseus.personal|Odysseus.personal]] 
 
-### #is_/same_as :: [Odysseus.secret](/_secret/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Odysseus.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Odysseus.secret|Odysseus.secret]] 
 

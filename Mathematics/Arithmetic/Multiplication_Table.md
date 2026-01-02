@@ -30,17 +30,17 @@ Commons_category: Multiplication tables
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Multiplication_Table](/_Standards/Mathematics/Arithmetic/Multiplication_Table.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Arithmetic/Multiplication_Table|Multiplication_Table]] 
 
-### #is_/same_as :: [Multiplication_Table.public](/_public/Mathematics/Arithmetic/Multiplication_Table.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Arithmetic/Multiplication_Table.public|Multiplication_Table.public]] 
 
-### #is_/same_as :: [Multiplication_Table.internal](/_internal/Mathematics/Arithmetic/Multiplication_Table.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Arithmetic/Multiplication_Table.internal|Multiplication_Table.internal]] 
 
-### #is_/same_as :: [Multiplication_Table.protect](/_protect/Mathematics/Arithmetic/Multiplication_Table.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Arithmetic/Multiplication_Table.protect|Multiplication_Table.protect]] 
 
-### #is_/same_as :: [Multiplication_Table.private](/_private/Mathematics/Arithmetic/Multiplication_Table.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Arithmetic/Multiplication_Table.private|Multiplication_Table.private]] 
 
-### #is_/same_as :: [Multiplication_Table.personal](/_personal/Mathematics/Arithmetic/Multiplication_Table.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Arithmetic/Multiplication_Table.personal|Multiplication_Table.personal]] 
 
-### #is_/same_as :: [Multiplication_Table.secret](/_secret/Mathematics/Arithmetic/Multiplication_Table.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Arithmetic/Multiplication_Table.secret|Multiplication_Table.secret]] 
 

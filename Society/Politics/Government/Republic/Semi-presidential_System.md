@@ -41,17 +41,17 @@ schematic: http://commons.wikimedia.org/wiki/Special:FilePath/Sistema%20semipres
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Semi-presidential_System](/_Standards/Society/Politics/Government/Republic/Semi-presidential_System.md) 
+### #is_/same_as :: [[/_Standards/Society/Politics/Government/Republic/Semi-presidential_System|Semi-presidential_System]] 
 
-### #is_/same_as :: [Semi-presidential_System.public](/_public/Society/Politics/Government/Republic/Semi-presidential_System.public.md) 
+### #is_/same_as :: [[/_public/Society/Politics/Government/Republic/Semi-presidential_System.public|Semi-presidential_System.public]] 
 
-### #is_/same_as :: [Semi-presidential_System.internal](/_internal/Society/Politics/Government/Republic/Semi-presidential_System.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Politics/Government/Republic/Semi-presidential_System.internal|Semi-presidential_System.internal]] 
 
-### #is_/same_as :: [Semi-presidential_System.protect](/_protect/Society/Politics/Government/Republic/Semi-presidential_System.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Politics/Government/Republic/Semi-presidential_System.protect|Semi-presidential_System.protect]] 
 
-### #is_/same_as :: [Semi-presidential_System.private](/_private/Society/Politics/Government/Republic/Semi-presidential_System.private.md) 
+### #is_/same_as :: [[/_private/Society/Politics/Government/Republic/Semi-presidential_System.private|Semi-presidential_System.private]] 
 
-### #is_/same_as :: [Semi-presidential_System.personal](/_personal/Society/Politics/Government/Republic/Semi-presidential_System.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Politics/Government/Republic/Semi-presidential_System.personal|Semi-presidential_System.personal]] 
 
-### #is_/same_as :: [Semi-presidential_System.secret](/_secret/Society/Politics/Government/Republic/Semi-presidential_System.secret.md)
+### #is_/same_as :: [[/_secret/Society/Politics/Government/Republic/Semi-presidential_System.secret|Semi-presidential_System.secret]] 
 

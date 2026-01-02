@@ -125,17 +125,17 @@ work_period_start_: 1971-01-01T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Day-Lewis,Daniel](/_Standards/Society/Communication/Media/Movie/Actor/Irish_Actor/Day-Lewis,Daniel.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Actor/Irish_Actor/Day-Lewis,Daniel|Day-Lewis,Daniel]] 
 
-### #is_/same_as :: [Day-Lewis,Daniel.public](/_public/Society/Communication/Media/Movie/Actor/Irish_Actor/Day-Lewis,Daniel.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Actor/Irish_Actor/Day-Lewis,Daniel.public|Day-Lewis,Daniel.public]] 
 
-### #is_/same_as :: [Day-Lewis,Daniel.internal](/_internal/Society/Communication/Media/Movie/Actor/Irish_Actor/Day-Lewis,Daniel.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Actor/Irish_Actor/Day-Lewis,Daniel.internal|Day-Lewis,Daniel.internal]] 
 
-### #is_/same_as :: [Day-Lewis,Daniel.protect](/_protect/Society/Communication/Media/Movie/Actor/Irish_Actor/Day-Lewis,Daniel.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Actor/Irish_Actor/Day-Lewis,Daniel.protect|Day-Lewis,Daniel.protect]] 
 
-### #is_/same_as :: [Day-Lewis,Daniel.private](/_private/Society/Communication/Media/Movie/Actor/Irish_Actor/Day-Lewis,Daniel.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Actor/Irish_Actor/Day-Lewis,Daniel.private|Day-Lewis,Daniel.private]] 
 
-### #is_/same_as :: [Day-Lewis,Daniel.personal](/_personal/Society/Communication/Media/Movie/Actor/Irish_Actor/Day-Lewis,Daniel.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Actor/Irish_Actor/Day-Lewis,Daniel.personal|Day-Lewis,Daniel.personal]] 
 
-### #is_/same_as :: [Day-Lewis,Daniel.secret](/_secret/Society/Communication/Media/Movie/Actor/Irish_Actor/Day-Lewis,Daniel.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Actor/Irish_Actor/Day-Lewis,Daniel.secret|Day-Lewis,Daniel.secret]] 
 

@@ -73,17 +73,17 @@ Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_epistemology,7112624]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Epistemology](/_Standards/Philosophy/Epistemology.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Epistemology|Epistemology]] 
 
-### #is_/same_as :: [Epistemology.public](/_public/Philosophy/Epistemology.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Epistemology.public|Epistemology.public]] 
 
-### #is_/same_as :: [Epistemology.internal](/_internal/Philosophy/Epistemology.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Epistemology.internal|Epistemology.internal]] 
 
-### #is_/same_as :: [Epistemology.protect](/_protect/Philosophy/Epistemology.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Epistemology.protect|Epistemology.protect]] 
 
-### #is_/same_as :: [Epistemology.private](/_private/Philosophy/Epistemology.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Epistemology.private|Epistemology.private]] 
 
-### #is_/same_as :: [Epistemology.personal](/_personal/Philosophy/Epistemology.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Epistemology.personal|Epistemology.personal]] 
 
-### #is_/same_as :: [Epistemology.secret](/_secret/Philosophy/Epistemology.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Epistemology.secret|Epistemology.secret]] 
 

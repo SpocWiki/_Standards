@@ -40,17 +40,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Gram-negative](/_Standards/bio/bio~Domain/Bacteria/Gram-negative.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Bacteria/Gram-negative|Gram-negative]] 
 
-### #is_/same_as :: [Gram-negative.public](/_public/bio/bio~Domain/Bacteria/Gram-negative.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Bacteria/Gram-negative.public|Gram-negative.public]] 
 
-### #is_/same_as :: [Gram-negative.internal](/_internal/bio/bio~Domain/Bacteria/Gram-negative.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Bacteria/Gram-negative.internal|Gram-negative.internal]] 
 
-### #is_/same_as :: [Gram-negative.protect](/_protect/bio/bio~Domain/Bacteria/Gram-negative.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Bacteria/Gram-negative.protect|Gram-negative.protect]] 
 
-### #is_/same_as :: [Gram-negative.private](/_private/bio/bio~Domain/Bacteria/Gram-negative.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Bacteria/Gram-negative.private|Gram-negative.private]] 
 
-### #is_/same_as :: [Gram-negative.personal](/_personal/bio/bio~Domain/Bacteria/Gram-negative.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Bacteria/Gram-negative.personal|Gram-negative.personal]] 
 
-### #is_/same_as :: [Gram-negative.secret](/_secret/bio/bio~Domain/Bacteria/Gram-negative.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Bacteria/Gram-negative.secret|Gram-negative.secret]] 
 

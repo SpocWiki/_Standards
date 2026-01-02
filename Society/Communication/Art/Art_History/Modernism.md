@@ -75,17 +75,17 @@ Library_of_Congress_Classification: BH301.M54
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Modernism](/_Standards/Society/Communication/Art/Art_History/Modernism.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Art/Art_History/Modernism|Modernism]] 
 
-### #is_/same_as :: [Modernism.public](/_public/Society/Communication/Art/Art_History/Modernism.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Art/Art_History/Modernism.public|Modernism.public]] 
 
-### #is_/same_as :: [Modernism.internal](/_internal/Society/Communication/Art/Art_History/Modernism.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Art/Art_History/Modernism.internal|Modernism.internal]] 
 
-### #is_/same_as :: [Modernism.protect](/_protect/Society/Communication/Art/Art_History/Modernism.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Art/Art_History/Modernism.protect|Modernism.protect]] 
 
-### #is_/same_as :: [Modernism.private](/_private/Society/Communication/Art/Art_History/Modernism.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Art/Art_History/Modernism.private|Modernism.private]] 
 
-### #is_/same_as :: [Modernism.personal](/_personal/Society/Communication/Art/Art_History/Modernism.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Art/Art_History/Modernism.personal|Modernism.personal]] 
 
-### #is_/same_as :: [Modernism.secret](/_secret/Society/Communication/Art/Art_History/Modernism.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Art/Art_History/Modernism.secret|Modernism.secret]] 
 

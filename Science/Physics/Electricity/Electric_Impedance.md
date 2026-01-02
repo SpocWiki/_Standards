@@ -80,17 +80,17 @@ MeSH_tree_code: G01.358.500.249.277.350
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Electric_Impedance](/_Standards/Science/Physics/Electricity/Electric_Impedance.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Electricity/Electric_Impedance|Electric_Impedance]] 
 
-### #is_/same_as :: [Electric_Impedance.public](/_public/Science/Physics/Electricity/Electric_Impedance.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Electricity/Electric_Impedance.public|Electric_Impedance.public]] 
 
-### #is_/same_as :: [Electric_Impedance.internal](/_internal/Science/Physics/Electricity/Electric_Impedance.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Electricity/Electric_Impedance.internal|Electric_Impedance.internal]] 
 
-### #is_/same_as :: [Electric_Impedance.protect](/_protect/Science/Physics/Electricity/Electric_Impedance.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Electricity/Electric_Impedance.protect|Electric_Impedance.protect]] 
 
-### #is_/same_as :: [Electric_Impedance.private](/_private/Science/Physics/Electricity/Electric_Impedance.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Electricity/Electric_Impedance.private|Electric_Impedance.private]] 
 
-### #is_/same_as :: [Electric_Impedance.personal](/_personal/Science/Physics/Electricity/Electric_Impedance.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Electricity/Electric_Impedance.personal|Electric_Impedance.personal]] 
 
-### #is_/same_as :: [Electric_Impedance.secret](/_secret/Science/Physics/Electricity/Electric_Impedance.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Electricity/Electric_Impedance.secret|Electric_Impedance.secret]] 
 

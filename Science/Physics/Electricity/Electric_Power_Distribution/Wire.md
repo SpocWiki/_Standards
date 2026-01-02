@@ -63,17 +63,17 @@ OpenStreetMap_key: wires
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Wire](/_Standards/Science/Physics/Electricity/Electric_Power_Distribution/Wire.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Electricity/Electric_Power_Distribution/Wire|Wire]] 
 
-### #is_/same_as :: [Wire.public](/_public/Science/Physics/Electricity/Electric_Power_Distribution/Wire.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Electricity/Electric_Power_Distribution/Wire.public|Wire.public]] 
 
-### #is_/same_as :: [Wire.internal](/_internal/Science/Physics/Electricity/Electric_Power_Distribution/Wire.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Electricity/Electric_Power_Distribution/Wire.internal|Wire.internal]] 
 
-### #is_/same_as :: [Wire.protect](/_protect/Science/Physics/Electricity/Electric_Power_Distribution/Wire.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Electricity/Electric_Power_Distribution/Wire.protect|Wire.protect]] 
 
-### #is_/same_as :: [Wire.private](/_private/Science/Physics/Electricity/Electric_Power_Distribution/Wire.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Electricity/Electric_Power_Distribution/Wire.private|Wire.private]] 
 
-### #is_/same_as :: [Wire.personal](/_personal/Science/Physics/Electricity/Electric_Power_Distribution/Wire.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Electricity/Electric_Power_Distribution/Wire.personal|Wire.personal]] 
 
-### #is_/same_as :: [Wire.secret](/_secret/Science/Physics/Electricity/Electric_Power_Distribution/Wire.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Electricity/Electric_Power_Distribution/Wire.secret|Wire.secret]] 
 

@@ -76,17 +76,17 @@ OpenStreetMap_tag: religion=sikh
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sikhism](/_Standards/Philosophy/Metaphysic/Religion/Indian_Religion/Sikhism.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Indian_Religion/Sikhism|Sikhism]] 
 
-### #is_/same_as :: [Sikhism.public](/_public/Philosophy/Metaphysic/Religion/Indian_Religion/Sikhism.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Indian_Religion/Sikhism.public|Sikhism.public]] 
 
-### #is_/same_as :: [Sikhism.internal](/_internal/Philosophy/Metaphysic/Religion/Indian_Religion/Sikhism.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Indian_Religion/Sikhism.internal|Sikhism.internal]] 
 
-### #is_/same_as :: [Sikhism.protect](/_protect/Philosophy/Metaphysic/Religion/Indian_Religion/Sikhism.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Indian_Religion/Sikhism.protect|Sikhism.protect]] 
 
-### #is_/same_as :: [Sikhism.private](/_private/Philosophy/Metaphysic/Religion/Indian_Religion/Sikhism.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Indian_Religion/Sikhism.private|Sikhism.private]] 
 
-### #is_/same_as :: [Sikhism.personal](/_personal/Philosophy/Metaphysic/Religion/Indian_Religion/Sikhism.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Indian_Religion/Sikhism.personal|Sikhism.personal]] 
 
-### #is_/same_as :: [Sikhism.secret](/_secret/Philosophy/Metaphysic/Religion/Indian_Religion/Sikhism.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Indian_Religion/Sikhism.secret|Sikhism.secret]] 
 

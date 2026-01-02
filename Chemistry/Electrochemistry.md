@@ -51,17 +51,17 @@ Krugosvet_article: nauka_i_tehnika/himiya/ELEKTROHIMIYA.html
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Electrochemistry](/_Standards/Chemistry/Electrochemistry.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Electrochemistry|Electrochemistry]] 
 
-### #is_/same_as :: [Electrochemistry.public](/_public/Chemistry/Electrochemistry.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Electrochemistry.public|Electrochemistry.public]] 
 
-### #is_/same_as :: [Electrochemistry.internal](/_internal/Chemistry/Electrochemistry.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Electrochemistry.internal|Electrochemistry.internal]] 
 
-### #is_/same_as :: [Electrochemistry.protect](/_protect/Chemistry/Electrochemistry.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Electrochemistry.protect|Electrochemistry.protect]] 
 
-### #is_/same_as :: [Electrochemistry.private](/_private/Chemistry/Electrochemistry.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Electrochemistry.private|Electrochemistry.private]] 
 
-### #is_/same_as :: [Electrochemistry.personal](/_personal/Chemistry/Electrochemistry.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Electrochemistry.personal|Electrochemistry.personal]] 
 
-### #is_/same_as :: [Electrochemistry.secret](/_secret/Chemistry/Electrochemistry.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Electrochemistry.secret|Electrochemistry.secret]] 
 

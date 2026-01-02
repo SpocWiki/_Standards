@@ -102,17 +102,17 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Coca%20Cola%20Flasche%
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Coca-Cola](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Drink/Soft_Drink/Coca-Cola.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Home_Economics/Cooking/Food/Drink/Soft_Drink/Coca-Cola|Coca-Cola]] 
 
-### #is_/same_as :: [Coca-Cola.public](/_public/Society/Economics/Home_Economics/Cooking/Food/Drink/Soft_Drink/Coca-Cola.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Home_Economics/Cooking/Food/Drink/Soft_Drink/Coca-Cola.public|Coca-Cola.public]] 
 
-### #is_/same_as :: [Coca-Cola.internal](/_internal/Society/Economics/Home_Economics/Cooking/Food/Drink/Soft_Drink/Coca-Cola.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Home_Economics/Cooking/Food/Drink/Soft_Drink/Coca-Cola.internal|Coca-Cola.internal]] 
 
-### #is_/same_as :: [Coca-Cola.protect](/_protect/Society/Economics/Home_Economics/Cooking/Food/Drink/Soft_Drink/Coca-Cola.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Home_Economics/Cooking/Food/Drink/Soft_Drink/Coca-Cola.protect|Coca-Cola.protect]] 
 
-### #is_/same_as :: [Coca-Cola.private](/_private/Society/Economics/Home_Economics/Cooking/Food/Drink/Soft_Drink/Coca-Cola.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Home_Economics/Cooking/Food/Drink/Soft_Drink/Coca-Cola.private|Coca-Cola.private]] 
 
-### #is_/same_as :: [Coca-Cola.personal](/_personal/Society/Economics/Home_Economics/Cooking/Food/Drink/Soft_Drink/Coca-Cola.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Home_Economics/Cooking/Food/Drink/Soft_Drink/Coca-Cola.personal|Coca-Cola.personal]] 
 
-### #is_/same_as :: [Coca-Cola.secret](/_secret/Society/Economics/Home_Economics/Cooking/Food/Drink/Soft_Drink/Coca-Cola.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Home_Economics/Cooking/Food/Drink/Soft_Drink/Coca-Cola.secret|Coca-Cola.secret]] 
 

@@ -156,17 +156,17 @@ Iconclass_notation: 12H13(BUDDHA)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Buddha](/_Standards/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism/Buddha.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism/Buddha|Buddha]] 
 
-### #is_/same_as :: [Buddha.public](/_public/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism/Buddha.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism/Buddha.public|Buddha.public]] 
 
-### #is_/same_as :: [Buddha.internal](/_internal/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism/Buddha.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism/Buddha.internal|Buddha.internal]] 
 
-### #is_/same_as :: [Buddha.protect](/_protect/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism/Buddha.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism/Buddha.protect|Buddha.protect]] 
 
-### #is_/same_as :: [Buddha.private](/_private/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism/Buddha.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism/Buddha.private|Buddha.private]] 
 
-### #is_/same_as :: [Buddha.personal](/_personal/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism/Buddha.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism/Buddha.personal|Buddha.personal]] 
 
-### #is_/same_as :: [Buddha.secret](/_secret/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism/Buddha.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism/Buddha.secret|Buddha.secret]] 
 

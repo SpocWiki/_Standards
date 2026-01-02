@@ -43,17 +43,17 @@ taxon_name: Influenza A virus subtype H5N1
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Influenza_A_Virus](/_Standards/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Influenza/Influenza_A_Virus.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Influenza/Influenza_A_Virus|Influenza_A_Virus]] 
 
-### #is_/same_as :: [Influenza_A_Virus.public](/_public/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Influenza/Influenza_A_Virus.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Influenza/Influenza_A_Virus.public|Influenza_A_Virus.public]] 
 
-### #is_/same_as :: [Influenza_A_Virus.internal](/_internal/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Influenza/Influenza_A_Virus.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Influenza/Influenza_A_Virus.internal|Influenza_A_Virus.internal]] 
 
-### #is_/same_as :: [Influenza_A_Virus.protect](/_protect/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Influenza/Influenza_A_Virus.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Influenza/Influenza_A_Virus.protect|Influenza_A_Virus.protect]] 
 
-### #is_/same_as :: [Influenza_A_Virus.private](/_private/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Influenza/Influenza_A_Virus.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Influenza/Influenza_A_Virus.private|Influenza_A_Virus.private]] 
 
-### #is_/same_as :: [Influenza_A_Virus.personal](/_personal/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Influenza/Influenza_A_Virus.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Influenza/Influenza_A_Virus.personal|Influenza_A_Virus.personal]] 
 
-### #is_/same_as :: [Influenza_A_Virus.secret](/_secret/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Influenza/Influenza_A_Virus.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Influenza/Influenza_A_Virus.secret|Influenza_A_Virus.secret]] 
 

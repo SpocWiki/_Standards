@@ -62,17 +62,17 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Age~3~Bartonian](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene/Epoch~2~Eocene/Age~3~Bartonian.md) 
+### #is_/same_as :: [[/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene/Epoch~2~Eocene/Age~3~Bartonian|Age~3~Bartonian]] 
 
-### #is_/same_as :: [Age~3~Bartonian.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene/Epoch~2~Eocene/Age~3~Bartonian.public.md) 
+### #is_/same_as :: [[/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene/Epoch~2~Eocene/Age~3~Bartonian.public|Age~3~Bartonian.public]] 
 
-### #is_/same_as :: [Age~3~Bartonian.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene/Epoch~2~Eocene/Age~3~Bartonian.internal.md) 
+### #is_/same_as :: [[/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene/Epoch~2~Eocene/Age~3~Bartonian.internal|Age~3~Bartonian.internal]] 
 
-### #is_/same_as :: [Age~3~Bartonian.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene/Epoch~2~Eocene/Age~3~Bartonian.protect.md) 
+### #is_/same_as :: [[/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene/Epoch~2~Eocene/Age~3~Bartonian.protect|Age~3~Bartonian.protect]] 
 
-### #is_/same_as :: [Age~3~Bartonian.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene/Epoch~2~Eocene/Age~3~Bartonian.private.md) 
+### #is_/same_as :: [[/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene/Epoch~2~Eocene/Age~3~Bartonian.private|Age~3~Bartonian.private]] 
 
-### #is_/same_as :: [Age~3~Bartonian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene/Epoch~2~Eocene/Age~3~Bartonian.personal.md) 
+### #is_/same_as :: [[/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene/Epoch~2~Eocene/Age~3~Bartonian.personal|Age~3~Bartonian.personal]] 
 
-### #is_/same_as :: [Age~3~Bartonian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene/Epoch~2~Eocene/Age~3~Bartonian.secret.md)
+### #is_/same_as :: [[/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene/Epoch~2~Eocene/Age~3~Bartonian.secret|Age~3~Bartonian.secret]] 
 

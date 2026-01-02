@@ -51,17 +51,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_url_for_content](/_Standards/schema-org/Property/has_url_for/has_url_for_content.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_url_for/has_url_for_content|has_url_for_content]] 
 
-### #is_/same_as :: [has_url_for_content.public](/_public/schema-org/Property/has_url_for/has_url_for_content.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/has_url_for/has_url_for_content.public|has_url_for_content.public]] 
 
-### #is_/same_as :: [has_url_for_content.internal](/_internal/schema-org/Property/has_url_for/has_url_for_content.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_url_for/has_url_for_content.internal|has_url_for_content.internal]] 
 
-### #is_/same_as :: [has_url_for_content.protect](/_protect/schema-org/Property/has_url_for/has_url_for_content.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_url_for/has_url_for_content.protect|has_url_for_content.protect]] 
 
-### #is_/same_as :: [has_url_for_content.private](/_private/schema-org/Property/has_url_for/has_url_for_content.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/has_url_for/has_url_for_content.private|has_url_for_content.private]] 
 
-### #is_/same_as :: [has_url_for_content.personal](/_personal/schema-org/Property/has_url_for/has_url_for_content.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_url_for/has_url_for_content.personal|has_url_for_content.personal]] 
 
-### #is_/same_as :: [has_url_for_content.secret](/_secret/schema-org/Property/has_url_for/has_url_for_content.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/has_url_for/has_url_for_content.secret|has_url_for_content.secret]] 
 

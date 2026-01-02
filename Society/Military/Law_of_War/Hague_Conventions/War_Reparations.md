@@ -45,17 +45,17 @@ subclass_of: '[[_Standards/WikiData/WD~reparations,7313909]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [War_Reparations](/_Standards/Society/Military/Law_of_War/Hague_Conventions/War_Reparations.md) 
+### #is_/same_as :: [[/_Standards/Society/Military/Law_of_War/Hague_Conventions/War_Reparations|War_Reparations]] 
 
-### #is_/same_as :: [War_Reparations.public](/_public/Society/Military/Law_of_War/Hague_Conventions/War_Reparations.public.md) 
+### #is_/same_as :: [[/_public/Society/Military/Law_of_War/Hague_Conventions/War_Reparations.public|War_Reparations.public]] 
 
-### #is_/same_as :: [War_Reparations.internal](/_internal/Society/Military/Law_of_War/Hague_Conventions/War_Reparations.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Military/Law_of_War/Hague_Conventions/War_Reparations.internal|War_Reparations.internal]] 
 
-### #is_/same_as :: [War_Reparations.protect](/_protect/Society/Military/Law_of_War/Hague_Conventions/War_Reparations.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Military/Law_of_War/Hague_Conventions/War_Reparations.protect|War_Reparations.protect]] 
 
-### #is_/same_as :: [War_Reparations.private](/_private/Society/Military/Law_of_War/Hague_Conventions/War_Reparations.private.md) 
+### #is_/same_as :: [[/_private/Society/Military/Law_of_War/Hague_Conventions/War_Reparations.private|War_Reparations.private]] 
 
-### #is_/same_as :: [War_Reparations.personal](/_personal/Society/Military/Law_of_War/Hague_Conventions/War_Reparations.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Military/Law_of_War/Hague_Conventions/War_Reparations.personal|War_Reparations.personal]] 
 
-### #is_/same_as :: [War_Reparations.secret](/_secret/Society/Military/Law_of_War/Hague_Conventions/War_Reparations.secret.md)
+### #is_/same_as :: [[/_secret/Society/Military/Law_of_War/Hague_Conventions/War_Reparations.secret|War_Reparations.secret]] 
 

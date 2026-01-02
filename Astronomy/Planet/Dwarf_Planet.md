@@ -65,17 +65,17 @@ Commons_category: Dwarf planets of the Solar System
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Dwarf_Planet](/_Standards/Astronomy/Planet/Dwarf_Planet.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Planet/Dwarf_Planet|Dwarf_Planet]] 
 
-### #is_/same_as :: [Dwarf_Planet.public](/_public/Astronomy/Planet/Dwarf_Planet.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Planet/Dwarf_Planet.public|Dwarf_Planet.public]] 
 
-### #is_/same_as :: [Dwarf_Planet.internal](/_internal/Astronomy/Planet/Dwarf_Planet.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Planet/Dwarf_Planet.internal|Dwarf_Planet.internal]] 
 
-### #is_/same_as :: [Dwarf_Planet.protect](/_protect/Astronomy/Planet/Dwarf_Planet.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Planet/Dwarf_Planet.protect|Dwarf_Planet.protect]] 
 
-### #is_/same_as :: [Dwarf_Planet.private](/_private/Astronomy/Planet/Dwarf_Planet.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Planet/Dwarf_Planet.private|Dwarf_Planet.private]] 
 
-### #is_/same_as :: [Dwarf_Planet.personal](/_personal/Astronomy/Planet/Dwarf_Planet.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Planet/Dwarf_Planet.personal|Dwarf_Planet.personal]] 
 
-### #is_/same_as :: [Dwarf_Planet.secret](/_secret/Astronomy/Planet/Dwarf_Planet.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Planet/Dwarf_Planet.secret|Dwarf_Planet.secret]] 
 

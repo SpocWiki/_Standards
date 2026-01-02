@@ -116,17 +116,17 @@ Unicode_character: 🚉
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Railway_Station](/_Standards/Technology/Transport/Rail_Transport/Railway_Station.md) 
+### #is_/same_as :: [[/_Standards/Technology/Transport/Rail_Transport/Railway_Station|Railway_Station]] 
 
-### #is_/same_as :: [Railway_Station.public](/_public/Technology/Transport/Rail_Transport/Railway_Station.public.md) 
+### #is_/same_as :: [[/_public/Technology/Transport/Rail_Transport/Railway_Station.public|Railway_Station.public]] 
 
-### #is_/same_as :: [Railway_Station.internal](/_internal/Technology/Transport/Rail_Transport/Railway_Station.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Transport/Rail_Transport/Railway_Station.internal|Railway_Station.internal]] 
 
-### #is_/same_as :: [Railway_Station.protect](/_protect/Technology/Transport/Rail_Transport/Railway_Station.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Transport/Rail_Transport/Railway_Station.protect|Railway_Station.protect]] 
 
-### #is_/same_as :: [Railway_Station.private](/_private/Technology/Transport/Rail_Transport/Railway_Station.private.md) 
+### #is_/same_as :: [[/_private/Technology/Transport/Rail_Transport/Railway_Station.private|Railway_Station.private]] 
 
-### #is_/same_as :: [Railway_Station.personal](/_personal/Technology/Transport/Rail_Transport/Railway_Station.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Transport/Rail_Transport/Railway_Station.personal|Railway_Station.personal]] 
 
-### #is_/same_as :: [Railway_Station.secret](/_secret/Technology/Transport/Rail_Transport/Railway_Station.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Transport/Rail_Transport/Railway_Station.secret|Railway_Station.secret]] 
 

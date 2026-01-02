@@ -97,17 +97,17 @@ date_of_death: 1907-09-04T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Grieg,Edvard](/_Standards/Society/Communication/Media/Music/Composer/Romantic_Composer/Grieg,Edvard.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Composer/Romantic_Composer/Grieg,Edvard|Grieg,Edvard]] 
 
-### #is_/same_as :: [Grieg,Edvard.public](/_public/Society/Communication/Media/Music/Composer/Romantic_Composer/Grieg,Edvard.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Composer/Romantic_Composer/Grieg,Edvard.public|Grieg,Edvard.public]] 
 
-### #is_/same_as :: [Grieg,Edvard.internal](/_internal/Society/Communication/Media/Music/Composer/Romantic_Composer/Grieg,Edvard.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Composer/Romantic_Composer/Grieg,Edvard.internal|Grieg,Edvard.internal]] 
 
-### #is_/same_as :: [Grieg,Edvard.protect](/_protect/Society/Communication/Media/Music/Composer/Romantic_Composer/Grieg,Edvard.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Composer/Romantic_Composer/Grieg,Edvard.protect|Grieg,Edvard.protect]] 
 
-### #is_/same_as :: [Grieg,Edvard.private](/_private/Society/Communication/Media/Music/Composer/Romantic_Composer/Grieg,Edvard.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Composer/Romantic_Composer/Grieg,Edvard.private|Grieg,Edvard.private]] 
 
-### #is_/same_as :: [Grieg,Edvard.personal](/_personal/Society/Communication/Media/Music/Composer/Romantic_Composer/Grieg,Edvard.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Composer/Romantic_Composer/Grieg,Edvard.personal|Grieg,Edvard.personal]] 
 
-### #is_/same_as :: [Grieg,Edvard.secret](/_secret/Society/Communication/Media/Music/Composer/Romantic_Composer/Grieg,Edvard.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Composer/Romantic_Composer/Grieg,Edvard.secret|Grieg,Edvard.secret]] 
 

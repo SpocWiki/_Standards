@@ -70,17 +70,17 @@ software_version_identifier: V9.2-3
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [OpenVMS](/_Standards/Technology/IT/Software/OS(Operating-System)/OpenVMS.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Software/OS(Operating-System)/OpenVMS|OpenVMS]] 
 
-### #is_/same_as :: [OpenVMS.public](/_public/Technology/IT/Software/OS(Operating-System)/OpenVMS.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Software/OS(Operating-System)/OpenVMS.public|OpenVMS.public]] 
 
-### #is_/same_as :: [OpenVMS.internal](/_internal/Technology/IT/Software/OS(Operating-System)/OpenVMS.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Software/OS(Operating-System)/OpenVMS.internal|OpenVMS.internal]] 
 
-### #is_/same_as :: [OpenVMS.protect](/_protect/Technology/IT/Software/OS(Operating-System)/OpenVMS.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Software/OS(Operating-System)/OpenVMS.protect|OpenVMS.protect]] 
 
-### #is_/same_as :: [OpenVMS.private](/_private/Technology/IT/Software/OS(Operating-System)/OpenVMS.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Software/OS(Operating-System)/OpenVMS.private|OpenVMS.private]] 
 
-### #is_/same_as :: [OpenVMS.personal](/_personal/Technology/IT/Software/OS(Operating-System)/OpenVMS.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Software/OS(Operating-System)/OpenVMS.personal|OpenVMS.personal]] 
 
-### #is_/same_as :: [OpenVMS.secret](/_secret/Technology/IT/Software/OS(Operating-System)/OpenVMS.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Software/OS(Operating-System)/OpenVMS.secret|OpenVMS.secret]] 
 

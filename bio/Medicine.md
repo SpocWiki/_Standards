@@ -106,17 +106,17 @@ WordLift_URL: http://data.thenextweb.com/tnw/entity/medicine
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Medicine](/_Standards/bio/Medicine.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine|Medicine]] 
 
-### #is_/same_as :: [Medicine.public](/_public/bio/Medicine.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine.public|Medicine.public]] 
 
-### #is_/same_as :: [Medicine.internal](/_internal/bio/Medicine.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine.internal|Medicine.internal]] 
 
-### #is_/same_as :: [Medicine.protect](/_protect/bio/Medicine.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine.protect|Medicine.protect]] 
 
-### #is_/same_as :: [Medicine.private](/_private/bio/Medicine.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine.private|Medicine.private]] 
 
-### #is_/same_as :: [Medicine.personal](/_personal/bio/Medicine.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine.personal|Medicine.personal]] 
 
-### #is_/same_as :: [Medicine.secret](/_secret/bio/Medicine.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine.secret|Medicine.secret]] 
 

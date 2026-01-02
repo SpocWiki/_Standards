@@ -47,17 +47,17 @@ official_name: Analogue electronic instruments, modules and components
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Electronic_Musical_Instrument](/_Standards/Society/Communication/Media/Music/Musical_Instrument/Electronic_Musical_Instrument.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Musical_Instrument/Electronic_Musical_Instrument|Electronic_Musical_Instrument]] 
 
-### #is_/same_as :: [Electronic_Musical_Instrument.public](/_public/Society/Communication/Media/Music/Musical_Instrument/Electronic_Musical_Instrument.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Musical_Instrument/Electronic_Musical_Instrument.public|Electronic_Musical_Instrument.public]] 
 
-### #is_/same_as :: [Electronic_Musical_Instrument.internal](/_internal/Society/Communication/Media/Music/Musical_Instrument/Electronic_Musical_Instrument.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Musical_Instrument/Electronic_Musical_Instrument.internal|Electronic_Musical_Instrument.internal]] 
 
-### #is_/same_as :: [Electronic_Musical_Instrument.protect](/_protect/Society/Communication/Media/Music/Musical_Instrument/Electronic_Musical_Instrument.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Musical_Instrument/Electronic_Musical_Instrument.protect|Electronic_Musical_Instrument.protect]] 
 
-### #is_/same_as :: [Electronic_Musical_Instrument.private](/_private/Society/Communication/Media/Music/Musical_Instrument/Electronic_Musical_Instrument.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Musical_Instrument/Electronic_Musical_Instrument.private|Electronic_Musical_Instrument.private]] 
 
-### #is_/same_as :: [Electronic_Musical_Instrument.personal](/_personal/Society/Communication/Media/Music/Musical_Instrument/Electronic_Musical_Instrument.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Musical_Instrument/Electronic_Musical_Instrument.personal|Electronic_Musical_Instrument.personal]] 
 
-### #is_/same_as :: [Electronic_Musical_Instrument.secret](/_secret/Society/Communication/Media/Music/Musical_Instrument/Electronic_Musical_Instrument.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Musical_Instrument/Electronic_Musical_Instrument.secret|Electronic_Musical_Instrument.secret]] 
 

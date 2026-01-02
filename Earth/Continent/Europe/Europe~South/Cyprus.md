@@ -477,17 +477,17 @@ Capital :: [[Cyprus/districts~Cyprus/Nicosia]]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Cyprus](/_Standards/Earth/Continent/Europe/Europe~South/Cyprus.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Cyprus|Cyprus]] 
 
-### #is_/same_as :: [Cyprus.public](/_public/Earth/Continent/Europe/Europe~South/Cyprus.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Cyprus.public|Cyprus.public]] 
 
-### #is_/same_as :: [Cyprus.internal](/_internal/Earth/Continent/Europe/Europe~South/Cyprus.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Cyprus.internal|Cyprus.internal]] 
 
-### #is_/same_as :: [Cyprus.protect](/_protect/Earth/Continent/Europe/Europe~South/Cyprus.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Cyprus.protect|Cyprus.protect]] 
 
-### #is_/same_as :: [Cyprus.private](/_private/Earth/Continent/Europe/Europe~South/Cyprus.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Cyprus.private|Cyprus.private]] 
 
-### #is_/same_as :: [Cyprus.personal](/_personal/Earth/Continent/Europe/Europe~South/Cyprus.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Cyprus.personal|Cyprus.personal]] 
 
-### #is_/same_as :: [Cyprus.secret](/_secret/Earth/Continent/Europe/Europe~South/Cyprus.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Cyprus.secret|Cyprus.secret]] 
 

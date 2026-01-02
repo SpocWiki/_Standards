@@ -170,17 +170,17 @@ ISNI: 000000011023110X
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Born,Max](/_Standards/Science/Physics/Physicist/Born,Max.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Physicist/Born,Max|Born,Max]] 
 
-### #is_/same_as :: [Born,Max.public](/_public/Science/Physics/Physicist/Born,Max.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Physicist/Born,Max.public|Born,Max.public]] 
 
-### #is_/same_as :: [Born,Max.internal](/_internal/Science/Physics/Physicist/Born,Max.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Physicist/Born,Max.internal|Born,Max.internal]] 
 
-### #is_/same_as :: [Born,Max.protect](/_protect/Science/Physics/Physicist/Born,Max.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Physicist/Born,Max.protect|Born,Max.protect]] 
 
-### #is_/same_as :: [Born,Max.private](/_private/Science/Physics/Physicist/Born,Max.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Physicist/Born,Max.private|Born,Max.private]] 
 
-### #is_/same_as :: [Born,Max.personal](/_personal/Science/Physics/Physicist/Born,Max.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Physicist/Born,Max.personal|Born,Max.personal]] 
 
-### #is_/same_as :: [Born,Max.secret](/_secret/Science/Physics/Physicist/Born,Max.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Physicist/Born,Max.secret|Born,Max.secret]] 
 

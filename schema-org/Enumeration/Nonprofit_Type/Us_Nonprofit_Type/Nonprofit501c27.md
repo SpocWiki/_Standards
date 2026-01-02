@@ -42,17 +42,17 @@ Nonprofit501c27: Non-profit type referring to State~Sponsored Workers' Compensat
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Nonprofit501c27](/_Standards/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c27.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c27|Nonprofit501c27]] 
 
-### #is_/same_as :: [Nonprofit501c27.public](/_public/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c27.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c27.public|Nonprofit501c27.public]] 
 
-### #is_/same_as :: [Nonprofit501c27.internal](/_internal/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c27.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c27.internal|Nonprofit501c27.internal]] 
 
-### #is_/same_as :: [Nonprofit501c27.protect](/_protect/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c27.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c27.protect|Nonprofit501c27.protect]] 
 
-### #is_/same_as :: [Nonprofit501c27.private](/_private/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c27.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c27.private|Nonprofit501c27.private]] 
 
-### #is_/same_as :: [Nonprofit501c27.personal](/_personal/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c27.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c27.personal|Nonprofit501c27.personal]] 
 
-### #is_/same_as :: [Nonprofit501c27.secret](/_secret/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c27.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c27.secret|Nonprofit501c27.secret]] 
 

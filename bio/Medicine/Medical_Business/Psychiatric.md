@@ -40,17 +40,17 @@ A specific branch of medical science that is concerned with the study, treatment
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Psychiatric](/_Standards/bio/Medicine/Medical_Business/Psychiatric.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Business/Psychiatric|Psychiatric]] 
 
-### #is_/same_as :: [Psychiatric.public](/_public/bio/Medicine/Medical_Business/Psychiatric.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Business/Psychiatric.public|Psychiatric.public]] 
 
-### #is_/same_as :: [Psychiatric.internal](/_internal/bio/Medicine/Medical_Business/Psychiatric.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Business/Psychiatric.internal|Psychiatric.internal]] 
 
-### #is_/same_as :: [Psychiatric.protect](/_protect/bio/Medicine/Medical_Business/Psychiatric.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Business/Psychiatric.protect|Psychiatric.protect]] 
 
-### #is_/same_as :: [Psychiatric.private](/_private/bio/Medicine/Medical_Business/Psychiatric.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Business/Psychiatric.private|Psychiatric.private]] 
 
-### #is_/same_as :: [Psychiatric.personal](/_personal/bio/Medicine/Medical_Business/Psychiatric.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Business/Psychiatric.personal|Psychiatric.personal]] 
 
-### #is_/same_as :: [Psychiatric.secret](/_secret/bio/Medicine/Medical_Business/Psychiatric.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Business/Psychiatric.secret|Psychiatric.secret]] 
 

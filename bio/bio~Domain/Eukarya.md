@@ -927,17 +927,17 @@ Mitochondrial origins. Proceedings of the National Academy of Sciences
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Eukarya](/_Standards/bio/bio~Domain/Eukarya.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya|Eukarya]] 
 
-### #is_/same_as :: [Eukarya.public](/_public/bio/bio~Domain/Eukarya.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya.public|Eukarya.public]] 
 
-### #is_/same_as :: [Eukarya.internal](/_internal/bio/bio~Domain/Eukarya.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya.internal|Eukarya.internal]] 
 
-### #is_/same_as :: [Eukarya.protect](/_protect/bio/bio~Domain/Eukarya.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya.protect|Eukarya.protect]] 
 
-### #is_/same_as :: [Eukarya.private](/_private/bio/bio~Domain/Eukarya.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya.private|Eukarya.private]] 
 
-### #is_/same_as :: [Eukarya.personal](/_personal/bio/bio~Domain/Eukarya.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya.personal|Eukarya.personal]] 
 
-### #is_/same_as :: [Eukarya.secret](/_secret/bio/bio~Domain/Eukarya.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya.secret|Eukarya.secret]] 
 

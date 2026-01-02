@@ -82,21 +82,21 @@ Moss Animals, Sea Mats, Ectoprocts
 ## Title Illustrations
 
 -------------------------------------------- 
-![flustra](Bryozoa/flustra.jpg))
+![flustra](Bryozoa/flustra.jpg) 
 Scientific Name ::    Flustra
 Reference           Ernst Haeckel\'\'s Kunstformen der Natur published 1899-1904 by Verlag des Bibliographischen Instituts, Leipzig and Vienna.
 Body Part           Skeleton of a colony
 Source Collection   [BioLib Online Library of Biological Books](http://www.biolib.de/)
 
 -------------------------------------------- 
-![Lophophus crystallinus](Bryozoa/lophophus.jpg))
+![Lophophus crystallinus](Bryozoa/lophophus.jpg) 
 Scientific Name ::    Lophophus crystallinus
 Reference           Ernst Haeckel\'\'s Kunstformen der Natur published 1899-1904 by Verlag des Bibliographischen Instituts, Leipzig and Vienna.
 Body Part           Young colony consisting of five zooids.
 Source Collection   [BioLib Online Library of Biological Books](http://www.biolib.de/)
 
 -------------------------------------------- 
-![Cristatella mucedo](Bryozoa/cristatella.jpg))
+![Cristatella mucedo](Bryozoa/cristatella.jpg) 
 Scientific Name ::    Cristatella mucedo
 Comments            Colonies of this species can creep through the water.
 Reference           Ernst Haeckel\'\'s Kunstformen der Natur published 1899-1904 by Verlag des Bibliographischen Instituts, Leipzig and Vienna.
@@ -105,17 +105,17 @@ Source Collection   [BioLib Online Library of Biological Books](http://www.bioli
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bryozoa](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Bryozoa.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Bryozoa|Bryozoa]] 
 
-### #is_/same_as :: [Bryozoa.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Bryozoa.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Bryozoa.public|Bryozoa.public]] 
 
-### #is_/same_as :: [Bryozoa.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Bryozoa.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Bryozoa.internal|Bryozoa.internal]] 
 
-### #is_/same_as :: [Bryozoa.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Bryozoa.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Bryozoa.protect|Bryozoa.protect]] 
 
-### #is_/same_as :: [Bryozoa.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Bryozoa.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Bryozoa.private|Bryozoa.private]] 
 
-### #is_/same_as :: [Bryozoa.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Bryozoa.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Bryozoa.personal|Bryozoa.personal]] 
 
-### #is_/same_as :: [Bryozoa.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Bryozoa.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Bryozoa.secret|Bryozoa.secret]] 
 

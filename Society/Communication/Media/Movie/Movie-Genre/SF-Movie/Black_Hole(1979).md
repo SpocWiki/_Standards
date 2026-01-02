@@ -40,17 +40,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Black_Hole(1979)](/_Standards/Society/Communication/Media/Movie/Movie-Genre/SF-Movie/Black_Hole(1979).md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Genre/SF-Movie/Black_Hole(1979)|Black_Hole(1979)]] 
 
-### #is_/same_as :: [Black_Hole(1979).public](/_public/Society/Communication/Media/Movie/Movie-Genre/SF-Movie/Black_Hole(1979).public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Genre/SF-Movie/Black_Hole(1979).public|Black_Hole(1979).public]] 
 
-### #is_/same_as :: [Black_Hole(1979).internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/SF-Movie/Black_Hole(1979).internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Genre/SF-Movie/Black_Hole(1979).internal|Black_Hole(1979).internal]] 
 
-### #is_/same_as :: [Black_Hole(1979).protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/SF-Movie/Black_Hole(1979).protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Genre/SF-Movie/Black_Hole(1979).protect|Black_Hole(1979).protect]] 
 
-### #is_/same_as :: [Black_Hole(1979).private](/_private/Society/Communication/Media/Movie/Movie-Genre/SF-Movie/Black_Hole(1979).private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Genre/SF-Movie/Black_Hole(1979).private|Black_Hole(1979).private]] 
 
-### #is_/same_as :: [Black_Hole(1979).personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/SF-Movie/Black_Hole(1979).personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Genre/SF-Movie/Black_Hole(1979).personal|Black_Hole(1979).personal]] 
 
-### #is_/same_as :: [Black_Hole(1979).secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/SF-Movie/Black_Hole(1979).secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Genre/SF-Movie/Black_Hole(1979).secret|Black_Hole(1979).secret]] 
 

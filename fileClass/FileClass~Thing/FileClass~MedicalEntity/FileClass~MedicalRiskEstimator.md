@@ -59,17 +59,17 @@ IncludedRiskFactor:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~MedicalRiskEstimator](/_Standards/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalRiskEstimator.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalRiskEstimator|FileClass~MedicalRiskEstimator]] 
 
-### #is_/same_as :: [FileClass~MedicalRiskEstimator.public](/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalRiskEstimator.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalRiskEstimator.public|FileClass~MedicalRiskEstimator.public]] 
 
-### #is_/same_as :: [FileClass~MedicalRiskEstimator.internal](/_internal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalRiskEstimator.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalRiskEstimator.internal|FileClass~MedicalRiskEstimator.internal]] 
 
-### #is_/same_as :: [FileClass~MedicalRiskEstimator.protect](/_protect/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalRiskEstimator.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalRiskEstimator.protect|FileClass~MedicalRiskEstimator.protect]] 
 
-### #is_/same_as :: [FileClass~MedicalRiskEstimator.private](/_private/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalRiskEstimator.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalRiskEstimator.private|FileClass~MedicalRiskEstimator.private]] 
 
-### #is_/same_as :: [FileClass~MedicalRiskEstimator.personal](/_personal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalRiskEstimator.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalRiskEstimator.personal|FileClass~MedicalRiskEstimator.personal]] 
 
-### #is_/same_as :: [FileClass~MedicalRiskEstimator.secret](/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalRiskEstimator.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalRiskEstimator.secret|FileClass~MedicalRiskEstimator.secret]] 
 

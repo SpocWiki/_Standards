@@ -65,17 +65,17 @@ Any fabrication process for joining workpieces **without adding a dissimilar adh
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Welding](/_Standards/Technology/Tool/Mechanical_Tool/Fastener/Welding.md) 
+### #is_/same_as :: [[/_Standards/Technology/Tool/Mechanical_Tool/Fastener/Welding|Welding]] 
 
-### #is_/same_as :: [Welding.public](/_public/Technology/Tool/Mechanical_Tool/Fastener/Welding.public.md) 
+### #is_/same_as :: [[/_public/Technology/Tool/Mechanical_Tool/Fastener/Welding.public|Welding.public]] 
 
-### #is_/same_as :: [Welding.internal](/_internal/Technology/Tool/Mechanical_Tool/Fastener/Welding.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Tool/Mechanical_Tool/Fastener/Welding.internal|Welding.internal]] 
 
-### #is_/same_as :: [Welding.protect](/_protect/Technology/Tool/Mechanical_Tool/Fastener/Welding.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Tool/Mechanical_Tool/Fastener/Welding.protect|Welding.protect]] 
 
-### #is_/same_as :: [Welding.private](/_private/Technology/Tool/Mechanical_Tool/Fastener/Welding.private.md) 
+### #is_/same_as :: [[/_private/Technology/Tool/Mechanical_Tool/Fastener/Welding.private|Welding.private]] 
 
-### #is_/same_as :: [Welding.personal](/_personal/Technology/Tool/Mechanical_Tool/Fastener/Welding.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Tool/Mechanical_Tool/Fastener/Welding.personal|Welding.personal]] 
 
-### #is_/same_as :: [Welding.secret](/_secret/Technology/Tool/Mechanical_Tool/Fastener/Welding.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Tool/Mechanical_Tool/Fastener/Welding.secret|Welding.secret]] 
 

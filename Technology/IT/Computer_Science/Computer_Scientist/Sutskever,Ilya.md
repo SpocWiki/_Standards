@@ -27,17 +27,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sutskever,Ilya](/_Standards/Technology/IT/Computer_Science/Computer_Scientist/Sutskever,Ilya.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Computer_Science/Computer_Scientist/Sutskever,Ilya|Sutskever,Ilya]] 
 
-### #is_/same_as :: [Sutskever,Ilya.public](/_public/Technology/IT/Computer_Science/Computer_Scientist/Sutskever,Ilya.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Computer_Science/Computer_Scientist/Sutskever,Ilya.public|Sutskever,Ilya.public]] 
 
-### #is_/same_as :: [Sutskever,Ilya.internal](/_internal/Technology/IT/Computer_Science/Computer_Scientist/Sutskever,Ilya.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Computer_Science/Computer_Scientist/Sutskever,Ilya.internal|Sutskever,Ilya.internal]] 
 
-### #is_/same_as :: [Sutskever,Ilya.protect](/_protect/Technology/IT/Computer_Science/Computer_Scientist/Sutskever,Ilya.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Computer_Science/Computer_Scientist/Sutskever,Ilya.protect|Sutskever,Ilya.protect]] 
 
-### #is_/same_as :: [Sutskever,Ilya.private](/_private/Technology/IT/Computer_Science/Computer_Scientist/Sutskever,Ilya.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Computer_Science/Computer_Scientist/Sutskever,Ilya.private|Sutskever,Ilya.private]] 
 
-### #is_/same_as :: [Sutskever,Ilya.personal](/_personal/Technology/IT/Computer_Science/Computer_Scientist/Sutskever,Ilya.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Computer_Science/Computer_Scientist/Sutskever,Ilya.personal|Sutskever,Ilya.personal]] 
 
-### #is_/same_as :: [Sutskever,Ilya.secret](/_secret/Technology/IT/Computer_Science/Computer_Scientist/Sutskever,Ilya.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Computer_Science/Computer_Scientist/Sutskever,Ilya.secret|Sutskever,Ilya.secret]] 
 

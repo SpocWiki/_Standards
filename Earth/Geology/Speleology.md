@@ -42,17 +42,17 @@ Dewey_Decimal_Classification: "796.525"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Speleology](/_Standards/Earth/Geology/Speleology.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geology/Speleology|Speleology]] 
 
-### #is_/same_as :: [Speleology.public](/_public/Earth/Geology/Speleology.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geology/Speleology.public|Speleology.public]] 
 
-### #is_/same_as :: [Speleology.internal](/_internal/Earth/Geology/Speleology.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geology/Speleology.internal|Speleology.internal]] 
 
-### #is_/same_as :: [Speleology.protect](/_protect/Earth/Geology/Speleology.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geology/Speleology.protect|Speleology.protect]] 
 
-### #is_/same_as :: [Speleology.private](/_private/Earth/Geology/Speleology.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geology/Speleology.private|Speleology.private]] 
 
-### #is_/same_as :: [Speleology.personal](/_personal/Earth/Geology/Speleology.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geology/Speleology.personal|Speleology.personal]] 
 
-### #is_/same_as :: [Speleology.secret](/_secret/Earth/Geology/Speleology.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geology/Speleology.secret|Speleology.secret]] 
 

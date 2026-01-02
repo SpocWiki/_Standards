@@ -48,17 +48,17 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Rae%2C%20Henrietta%20-
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Doubt](/_Standards/bio/Psychology/Affect/Emotion/Doubt.md) 
+### #is_/same_as :: [[/_Standards/bio/Psychology/Affect/Emotion/Doubt|Doubt]] 
 
-### #is_/same_as :: [Doubt.public](/_public/bio/Psychology/Affect/Emotion/Doubt.public.md) 
+### #is_/same_as :: [[/_public/bio/Psychology/Affect/Emotion/Doubt.public|Doubt.public]] 
 
-### #is_/same_as :: [Doubt.internal](/_internal/bio/Psychology/Affect/Emotion/Doubt.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Psychology/Affect/Emotion/Doubt.internal|Doubt.internal]] 
 
-### #is_/same_as :: [Doubt.protect](/_protect/bio/Psychology/Affect/Emotion/Doubt.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Psychology/Affect/Emotion/Doubt.protect|Doubt.protect]] 
 
-### #is_/same_as :: [Doubt.private](/_private/bio/Psychology/Affect/Emotion/Doubt.private.md) 
+### #is_/same_as :: [[/_private/bio/Psychology/Affect/Emotion/Doubt.private|Doubt.private]] 
 
-### #is_/same_as :: [Doubt.personal](/_personal/bio/Psychology/Affect/Emotion/Doubt.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Psychology/Affect/Emotion/Doubt.personal|Doubt.personal]] 
 
-### #is_/same_as :: [Doubt.secret](/_secret/bio/Psychology/Affect/Emotion/Doubt.secret.md)
+### #is_/same_as :: [[/_secret/bio/Psychology/Affect/Emotion/Doubt.secret|Doubt.secret]] 
 

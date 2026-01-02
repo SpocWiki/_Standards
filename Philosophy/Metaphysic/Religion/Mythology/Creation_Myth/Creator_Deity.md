@@ -42,17 +42,17 @@ female_form_of_label:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Creator_Deity](/_Standards/Philosophy/Metaphysic/Religion/Mythology/Creation_Myth/Creator_Deity.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Mythology/Creation_Myth/Creator_Deity|Creator_Deity]] 
 
-### #is_/same_as :: [Creator_Deity.public](/_public/Philosophy/Metaphysic/Religion/Mythology/Creation_Myth/Creator_Deity.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Mythology/Creation_Myth/Creator_Deity.public|Creator_Deity.public]] 
 
-### #is_/same_as :: [Creator_Deity.internal](/_internal/Philosophy/Metaphysic/Religion/Mythology/Creation_Myth/Creator_Deity.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Mythology/Creation_Myth/Creator_Deity.internal|Creator_Deity.internal]] 
 
-### #is_/same_as :: [Creator_Deity.protect](/_protect/Philosophy/Metaphysic/Religion/Mythology/Creation_Myth/Creator_Deity.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Mythology/Creation_Myth/Creator_Deity.protect|Creator_Deity.protect]] 
 
-### #is_/same_as :: [Creator_Deity.private](/_private/Philosophy/Metaphysic/Religion/Mythology/Creation_Myth/Creator_Deity.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Mythology/Creation_Myth/Creator_Deity.private|Creator_Deity.private]] 
 
-### #is_/same_as :: [Creator_Deity.personal](/_personal/Philosophy/Metaphysic/Religion/Mythology/Creation_Myth/Creator_Deity.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Mythology/Creation_Myth/Creator_Deity.personal|Creator_Deity.personal]] 
 
-### #is_/same_as :: [Creator_Deity.secret](/_secret/Philosophy/Metaphysic/Religion/Mythology/Creation_Myth/Creator_Deity.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Mythology/Creation_Myth/Creator_Deity.secret|Creator_Deity.secret]] 
 

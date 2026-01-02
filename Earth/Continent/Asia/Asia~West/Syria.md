@@ -458,17 +458,17 @@ Capital :: [[Syria/Counties/Damascus/City/Damascus=Damaskus]]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Syria](/_Standards/Earth/Continent/Asia/Asia~West/Syria.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~West/Syria|Syria]] 
 
-### #is_/same_as :: [Syria.public](/_public/Earth/Continent/Asia/Asia~West/Syria.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~West/Syria.public|Syria.public]] 
 
-### #is_/same_as :: [Syria.internal](/_internal/Earth/Continent/Asia/Asia~West/Syria.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~West/Syria.internal|Syria.internal]] 
 
-### #is_/same_as :: [Syria.protect](/_protect/Earth/Continent/Asia/Asia~West/Syria.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~West/Syria.protect|Syria.protect]] 
 
-### #is_/same_as :: [Syria.private](/_private/Earth/Continent/Asia/Asia~West/Syria.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~West/Syria.private|Syria.private]] 
 
-### #is_/same_as :: [Syria.personal](/_personal/Earth/Continent/Asia/Asia~West/Syria.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~West/Syria.personal|Syria.personal]] 
 
-### #is_/same_as :: [Syria.secret](/_secret/Earth/Continent/Asia/Asia~West/Syria.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~West/Syria.secret|Syria.secret]] 
 

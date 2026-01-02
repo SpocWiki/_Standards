@@ -70,17 +70,17 @@ Library_of_Congress_Classification: HQ768-HQ778.7
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Parenting](/_Standards/Society/Agent/Community/Clan/Family/Parenting.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Clan/Family/Parenting|Parenting]] 
 
-### #is_/same_as :: [Parenting.public](/_public/Society/Agent/Community/Clan/Family/Parenting.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Clan/Family/Parenting.public|Parenting.public]] 
 
-### #is_/same_as :: [Parenting.internal](/_internal/Society/Agent/Community/Clan/Family/Parenting.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Clan/Family/Parenting.internal|Parenting.internal]] 
 
-### #is_/same_as :: [Parenting.protect](/_protect/Society/Agent/Community/Clan/Family/Parenting.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Clan/Family/Parenting.protect|Parenting.protect]] 
 
-### #is_/same_as :: [Parenting.private](/_private/Society/Agent/Community/Clan/Family/Parenting.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Clan/Family/Parenting.private|Parenting.private]] 
 
-### #is_/same_as :: [Parenting.personal](/_personal/Society/Agent/Community/Clan/Family/Parenting.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Clan/Family/Parenting.personal|Parenting.personal]] 
 
-### #is_/same_as :: [Parenting.secret](/_secret/Society/Agent/Community/Clan/Family/Parenting.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Clan/Family/Parenting.secret|Parenting.secret]] 
 

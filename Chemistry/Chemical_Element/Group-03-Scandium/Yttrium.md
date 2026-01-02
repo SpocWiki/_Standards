@@ -243,17 +243,17 @@ ZVG_number: 7390
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Yttrium](/_Standards/Chemistry/Chemical_Element/Group-03-Scandium/Yttrium.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Chemical_Element/Group-03-Scandium/Yttrium|Yttrium]] 
 
-### #is_/same_as :: [Yttrium.public](/_public/Chemistry/Chemical_Element/Group-03-Scandium/Yttrium.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Chemical_Element/Group-03-Scandium/Yttrium.public|Yttrium.public]] 
 
-### #is_/same_as :: [Yttrium.internal](/_internal/Chemistry/Chemical_Element/Group-03-Scandium/Yttrium.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Chemical_Element/Group-03-Scandium/Yttrium.internal|Yttrium.internal]] 
 
-### #is_/same_as :: [Yttrium.protect](/_protect/Chemistry/Chemical_Element/Group-03-Scandium/Yttrium.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Chemical_Element/Group-03-Scandium/Yttrium.protect|Yttrium.protect]] 
 
-### #is_/same_as :: [Yttrium.private](/_private/Chemistry/Chemical_Element/Group-03-Scandium/Yttrium.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Chemical_Element/Group-03-Scandium/Yttrium.private|Yttrium.private]] 
 
-### #is_/same_as :: [Yttrium.personal](/_personal/Chemistry/Chemical_Element/Group-03-Scandium/Yttrium.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Chemical_Element/Group-03-Scandium/Yttrium.personal|Yttrium.personal]] 
 
-### #is_/same_as :: [Yttrium.secret](/_secret/Chemistry/Chemical_Element/Group-03-Scandium/Yttrium.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Chemical_Element/Group-03-Scandium/Yttrium.secret|Yttrium.secret]] 
 

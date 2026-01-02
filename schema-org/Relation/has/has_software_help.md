@@ -42,17 +42,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_software_help](/_Standards/schema-org/Relation/has/has_software_help.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_software_help|has_software_help]] 
 
-### #is_/same_as :: [has_software_help.public](/_public/schema-org/Relation/has/has_software_help.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_software_help.public|has_software_help.public]] 
 
-### #is_/same_as :: [has_software_help.internal](/_internal/schema-org/Relation/has/has_software_help.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_software_help.internal|has_software_help.internal]] 
 
-### #is_/same_as :: [has_software_help.protect](/_protect/schema-org/Relation/has/has_software_help.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_software_help.protect|has_software_help.protect]] 
 
-### #is_/same_as :: [has_software_help.private](/_private/schema-org/Relation/has/has_software_help.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_software_help.private|has_software_help.private]] 
 
-### #is_/same_as :: [has_software_help.personal](/_personal/schema-org/Relation/has/has_software_help.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_software_help.personal|has_software_help.personal]] 
 
-### #is_/same_as :: [has_software_help.secret](/_secret/schema-org/Relation/has/has_software_help.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_software_help.secret|has_software_help.secret]] 
 

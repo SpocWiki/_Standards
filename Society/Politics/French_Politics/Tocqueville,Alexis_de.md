@@ -135,17 +135,17 @@ Libris_URI: 0xbdf66j3xfhnj9
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Tocqueville,Alexis_de](/_Standards/Society/Politics/French_Politics/Tocqueville,Alexis_de.md) 
+### #is_/same_as :: [[/_Standards/Society/Politics/French_Politics/Tocqueville,Alexis_de|Tocqueville,Alexis_de]] 
 
-### #is_/same_as :: [Tocqueville,Alexis_de.public](/_public/Society/Politics/French_Politics/Tocqueville,Alexis_de.public.md) 
+### #is_/same_as :: [[/_public/Society/Politics/French_Politics/Tocqueville,Alexis_de.public|Tocqueville,Alexis_de.public]] 
 
-### #is_/same_as :: [Tocqueville,Alexis_de.internal](/_internal/Society/Politics/French_Politics/Tocqueville,Alexis_de.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Politics/French_Politics/Tocqueville,Alexis_de.internal|Tocqueville,Alexis_de.internal]] 
 
-### #is_/same_as :: [Tocqueville,Alexis_de.protect](/_protect/Society/Politics/French_Politics/Tocqueville,Alexis_de.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Politics/French_Politics/Tocqueville,Alexis_de.protect|Tocqueville,Alexis_de.protect]] 
 
-### #is_/same_as :: [Tocqueville,Alexis_de.private](/_private/Society/Politics/French_Politics/Tocqueville,Alexis_de.private.md) 
+### #is_/same_as :: [[/_private/Society/Politics/French_Politics/Tocqueville,Alexis_de.private|Tocqueville,Alexis_de.private]] 
 
-### #is_/same_as :: [Tocqueville,Alexis_de.personal](/_personal/Society/Politics/French_Politics/Tocqueville,Alexis_de.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Politics/French_Politics/Tocqueville,Alexis_de.personal|Tocqueville,Alexis_de.personal]] 
 
-### #is_/same_as :: [Tocqueville,Alexis_de.secret](/_secret/Society/Politics/French_Politics/Tocqueville,Alexis_de.secret.md)
+### #is_/same_as :: [[/_secret/Society/Politics/French_Politics/Tocqueville,Alexis_de.secret|Tocqueville,Alexis_de.secret]] 
 

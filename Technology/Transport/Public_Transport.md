@@ -79,17 +79,17 @@ OpenStreetMap_tag: type=public_transport
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Public_Transport](/_Standards/Technology/Transport/Public_Transport.md) 
+### #is_/same_as :: [[/_Standards/Technology/Transport/Public_Transport|Public_Transport]] 
 
-### #is_/same_as :: [Public_Transport.public](/_public/Technology/Transport/Public_Transport.public.md) 
+### #is_/same_as :: [[/_public/Technology/Transport/Public_Transport.public|Public_Transport.public]] 
 
-### #is_/same_as :: [Public_Transport.internal](/_internal/Technology/Transport/Public_Transport.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Transport/Public_Transport.internal|Public_Transport.internal]] 
 
-### #is_/same_as :: [Public_Transport.protect](/_protect/Technology/Transport/Public_Transport.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Transport/Public_Transport.protect|Public_Transport.protect]] 
 
-### #is_/same_as :: [Public_Transport.private](/_private/Technology/Transport/Public_Transport.private.md) 
+### #is_/same_as :: [[/_private/Technology/Transport/Public_Transport.private|Public_Transport.private]] 
 
-### #is_/same_as :: [Public_Transport.personal](/_personal/Technology/Transport/Public_Transport.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Transport/Public_Transport.personal|Public_Transport.personal]] 
 
-### #is_/same_as :: [Public_Transport.secret](/_secret/Technology/Transport/Public_Transport.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Transport/Public_Transport.secret|Public_Transport.secret]] 
 

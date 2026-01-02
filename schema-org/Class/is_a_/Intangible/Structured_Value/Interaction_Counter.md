@@ -43,17 +43,17 @@ Tag Instances like this:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Interaction_Counter](/_Standards/schema-org/Class/is_a_/Intangible/Structured_Value/Interaction_Counter.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Intangible/Structured_Value/Interaction_Counter|Interaction_Counter]] 
 
-### #is_/same_as :: [Interaction_Counter.public](/_public/schema-org/Class/is_a_/Intangible/Structured_Value/Interaction_Counter.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Intangible/Structured_Value/Interaction_Counter.public|Interaction_Counter.public]] 
 
-### #is_/same_as :: [Interaction_Counter.internal](/_internal/schema-org/Class/is_a_/Intangible/Structured_Value/Interaction_Counter.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Intangible/Structured_Value/Interaction_Counter.internal|Interaction_Counter.internal]] 
 
-### #is_/same_as :: [Interaction_Counter.protect](/_protect/schema-org/Class/is_a_/Intangible/Structured_Value/Interaction_Counter.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Intangible/Structured_Value/Interaction_Counter.protect|Interaction_Counter.protect]] 
 
-### #is_/same_as :: [Interaction_Counter.private](/_private/schema-org/Class/is_a_/Intangible/Structured_Value/Interaction_Counter.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Intangible/Structured_Value/Interaction_Counter.private|Interaction_Counter.private]] 
 
-### #is_/same_as :: [Interaction_Counter.personal](/_personal/schema-org/Class/is_a_/Intangible/Structured_Value/Interaction_Counter.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Intangible/Structured_Value/Interaction_Counter.personal|Interaction_Counter.personal]] 
 
-### #is_/same_as :: [Interaction_Counter.secret](/_secret/schema-org/Class/is_a_/Intangible/Structured_Value/Interaction_Counter.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Intangible/Structured_Value/Interaction_Counter.secret|Interaction_Counter.secret]] 
 

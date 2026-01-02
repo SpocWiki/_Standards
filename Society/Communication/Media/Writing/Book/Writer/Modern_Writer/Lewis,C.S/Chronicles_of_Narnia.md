@@ -112,17 +112,17 @@ Archive_of_Our_Own_tag:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Chronicles_of_Narnia](/_Standards/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Lewis,C.S/Chronicles_of_Narnia.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Lewis,C.S/Chronicles_of_Narnia|Chronicles_of_Narnia]] 
 
-### #is_/same_as :: [Chronicles_of_Narnia.public](/_public/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Lewis,C.S/Chronicles_of_Narnia.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Lewis,C.S/Chronicles_of_Narnia.public|Chronicles_of_Narnia.public]] 
 
-### #is_/same_as :: [Chronicles_of_Narnia.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Lewis,C.S/Chronicles_of_Narnia.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Lewis,C.S/Chronicles_of_Narnia.internal|Chronicles_of_Narnia.internal]] 
 
-### #is_/same_as :: [Chronicles_of_Narnia.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Lewis,C.S/Chronicles_of_Narnia.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Lewis,C.S/Chronicles_of_Narnia.protect|Chronicles_of_Narnia.protect]] 
 
-### #is_/same_as :: [Chronicles_of_Narnia.private](/_private/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Lewis,C.S/Chronicles_of_Narnia.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Lewis,C.S/Chronicles_of_Narnia.private|Chronicles_of_Narnia.private]] 
 
-### #is_/same_as :: [Chronicles_of_Narnia.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Lewis,C.S/Chronicles_of_Narnia.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Lewis,C.S/Chronicles_of_Narnia.personal|Chronicles_of_Narnia.personal]] 
 
-### #is_/same_as :: [Chronicles_of_Narnia.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Lewis,C.S/Chronicles_of_Narnia.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Lewis,C.S/Chronicles_of_Narnia.secret|Chronicles_of_Narnia.secret]] 
 

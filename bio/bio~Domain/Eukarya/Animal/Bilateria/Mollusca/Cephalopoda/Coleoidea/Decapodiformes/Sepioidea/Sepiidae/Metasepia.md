@@ -89,7 +89,7 @@ Hokkaido Imperial University, 20(supplement):357 pages.
 
 ## Title Illustrations
 
-![](Metasepia/Metasepia.jpg))
+![](Metasepia/Metasepia.jpg) 
 
   ------------
   Scientific Name ::  Metasepia tullbergi
@@ -100,17 +100,17 @@ Hokkaido Imperial University, 20(supplement):357 pages.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Metasepia](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Sepioidea/Sepiidae/Metasepia.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Sepioidea/Sepiidae/Metasepia|Metasepia]] 
 
-### #is_/same_as :: [Metasepia.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Sepioidea/Sepiidae/Metasepia.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Sepioidea/Sepiidae/Metasepia.public|Metasepia.public]] 
 
-### #is_/same_as :: [Metasepia.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Sepioidea/Sepiidae/Metasepia.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Sepioidea/Sepiidae/Metasepia.internal|Metasepia.internal]] 
 
-### #is_/same_as :: [Metasepia.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Sepioidea/Sepiidae/Metasepia.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Sepioidea/Sepiidae/Metasepia.protect|Metasepia.protect]] 
 
-### #is_/same_as :: [Metasepia.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Sepioidea/Sepiidae/Metasepia.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Sepioidea/Sepiidae/Metasepia.private|Metasepia.private]] 
 
-### #is_/same_as :: [Metasepia.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Sepioidea/Sepiidae/Metasepia.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Sepioidea/Sepiidae/Metasepia.personal|Metasepia.personal]] 
 
-### #is_/same_as :: [Metasepia.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Sepioidea/Sepiidae/Metasepia.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Sepioidea/Sepiidae/Metasepia.secret|Metasepia.secret]] 
 

@@ -43,17 +43,17 @@ Krugosvet_article: nauka_i_tehnika/himiya/HIMICHESKAYA_KINETIKA.html
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Chemical_Kinetics](/_Standards/Chemistry/Chemical_Reaction/Chemical_Kinetics.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Chemical_Reaction/Chemical_Kinetics|Chemical_Kinetics]] 
 
-### #is_/same_as :: [Chemical_Kinetics.public](/_public/Chemistry/Chemical_Reaction/Chemical_Kinetics.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Chemical_Reaction/Chemical_Kinetics.public|Chemical_Kinetics.public]] 
 
-### #is_/same_as :: [Chemical_Kinetics.internal](/_internal/Chemistry/Chemical_Reaction/Chemical_Kinetics.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Chemical_Reaction/Chemical_Kinetics.internal|Chemical_Kinetics.internal]] 
 
-### #is_/same_as :: [Chemical_Kinetics.protect](/_protect/Chemistry/Chemical_Reaction/Chemical_Kinetics.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Chemical_Reaction/Chemical_Kinetics.protect|Chemical_Kinetics.protect]] 
 
-### #is_/same_as :: [Chemical_Kinetics.private](/_private/Chemistry/Chemical_Reaction/Chemical_Kinetics.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Chemical_Reaction/Chemical_Kinetics.private|Chemical_Kinetics.private]] 
 
-### #is_/same_as :: [Chemical_Kinetics.personal](/_personal/Chemistry/Chemical_Reaction/Chemical_Kinetics.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Chemical_Reaction/Chemical_Kinetics.personal|Chemical_Kinetics.personal]] 
 
-### #is_/same_as :: [Chemical_Kinetics.secret](/_secret/Chemistry/Chemical_Reaction/Chemical_Kinetics.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Chemical_Reaction/Chemical_Kinetics.secret|Chemical_Kinetics.secret]] 
 

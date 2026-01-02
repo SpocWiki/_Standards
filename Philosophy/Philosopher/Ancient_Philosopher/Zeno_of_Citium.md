@@ -85,17 +85,17 @@ ISNI: "0000000381760310"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Zeno_of_Citium](/_Standards/Philosophy/Philosopher/Ancient_Philosopher/Zeno_of_Citium.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Philosopher/Ancient_Philosopher/Zeno_of_Citium|Zeno_of_Citium]] 
 
-### #is_/same_as :: [Zeno_of_Citium.public](/_public/Philosophy/Philosopher/Ancient_Philosopher/Zeno_of_Citium.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Philosopher/Ancient_Philosopher/Zeno_of_Citium.public|Zeno_of_Citium.public]] 
 
-### #is_/same_as :: [Zeno_of_Citium.internal](/_internal/Philosophy/Philosopher/Ancient_Philosopher/Zeno_of_Citium.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Philosopher/Ancient_Philosopher/Zeno_of_Citium.internal|Zeno_of_Citium.internal]] 
 
-### #is_/same_as :: [Zeno_of_Citium.protect](/_protect/Philosophy/Philosopher/Ancient_Philosopher/Zeno_of_Citium.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Philosopher/Ancient_Philosopher/Zeno_of_Citium.protect|Zeno_of_Citium.protect]] 
 
-### #is_/same_as :: [Zeno_of_Citium.private](/_private/Philosophy/Philosopher/Ancient_Philosopher/Zeno_of_Citium.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Philosopher/Ancient_Philosopher/Zeno_of_Citium.private|Zeno_of_Citium.private]] 
 
-### #is_/same_as :: [Zeno_of_Citium.personal](/_personal/Philosophy/Philosopher/Ancient_Philosopher/Zeno_of_Citium.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Philosopher/Ancient_Philosopher/Zeno_of_Citium.personal|Zeno_of_Citium.personal]] 
 
-### #is_/same_as :: [Zeno_of_Citium.secret](/_secret/Philosophy/Philosopher/Ancient_Philosopher/Zeno_of_Citium.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Philosopher/Ancient_Philosopher/Zeno_of_Citium.secret|Zeno_of_Citium.secret]] 
 

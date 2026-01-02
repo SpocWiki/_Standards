@@ -42,17 +42,17 @@ Tag Instances like this:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Download_Action](/_Standards/schema-org/Class/is_a_/Action/Transfer_Action/Download_Action.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Action/Transfer_Action/Download_Action|Download_Action]] 
 
-### #is_/same_as :: [Download_Action.public](/_public/schema-org/Class/is_a_/Action/Transfer_Action/Download_Action.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Action/Transfer_Action/Download_Action.public|Download_Action.public]] 
 
-### #is_/same_as :: [Download_Action.internal](/_internal/schema-org/Class/is_a_/Action/Transfer_Action/Download_Action.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Action/Transfer_Action/Download_Action.internal|Download_Action.internal]] 
 
-### #is_/same_as :: [Download_Action.protect](/_protect/schema-org/Class/is_a_/Action/Transfer_Action/Download_Action.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Action/Transfer_Action/Download_Action.protect|Download_Action.protect]] 
 
-### #is_/same_as :: [Download_Action.private](/_private/schema-org/Class/is_a_/Action/Transfer_Action/Download_Action.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Action/Transfer_Action/Download_Action.private|Download_Action.private]] 
 
-### #is_/same_as :: [Download_Action.personal](/_personal/schema-org/Class/is_a_/Action/Transfer_Action/Download_Action.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Action/Transfer_Action/Download_Action.personal|Download_Action.personal]] 
 
-### #is_/same_as :: [Download_Action.secret](/_secret/schema-org/Class/is_a_/Action/Transfer_Action/Download_Action.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Action/Transfer_Action/Download_Action.secret|Download_Action.secret]] 
 

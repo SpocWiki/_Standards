@@ -41,17 +41,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_step](/_Standards/schema-org/Relation/has/has_step.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_step|has_step]] 
 
-### #is_/same_as :: [has_step.public](/_public/schema-org/Relation/has/has_step.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_step.public|has_step.public]] 
 
-### #is_/same_as :: [has_step.internal](/_internal/schema-org/Relation/has/has_step.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_step.internal|has_step.internal]] 
 
-### #is_/same_as :: [has_step.protect](/_protect/schema-org/Relation/has/has_step.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_step.protect|has_step.protect]] 
 
-### #is_/same_as :: [has_step.private](/_private/schema-org/Relation/has/has_step.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_step.private|has_step.private]] 
 
-### #is_/same_as :: [has_step.personal](/_personal/schema-org/Relation/has/has_step.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_step.personal|has_step.personal]] 
 
-### #is_/same_as :: [has_step.secret](/_secret/schema-org/Relation/has/has_step.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_step.secret|has_step.secret]] 
 

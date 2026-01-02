@@ -45,17 +45,17 @@ Commons_category: Golden rule
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Golden_Rule](/_Standards/Philosophy/Ethics/Golden_Rule.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Ethics/Golden_Rule|Golden_Rule]] 
 
-### #is_/same_as :: [Golden_Rule.public](/_public/Philosophy/Ethics/Golden_Rule.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Ethics/Golden_Rule.public|Golden_Rule.public]] 
 
-### #is_/same_as :: [Golden_Rule.internal](/_internal/Philosophy/Ethics/Golden_Rule.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Ethics/Golden_Rule.internal|Golden_Rule.internal]] 
 
-### #is_/same_as :: [Golden_Rule.protect](/_protect/Philosophy/Ethics/Golden_Rule.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Ethics/Golden_Rule.protect|Golden_Rule.protect]] 
 
-### #is_/same_as :: [Golden_Rule.private](/_private/Philosophy/Ethics/Golden_Rule.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Ethics/Golden_Rule.private|Golden_Rule.private]] 
 
-### #is_/same_as :: [Golden_Rule.personal](/_personal/Philosophy/Ethics/Golden_Rule.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Ethics/Golden_Rule.personal|Golden_Rule.personal]] 
 
-### #is_/same_as :: [Golden_Rule.secret](/_secret/Philosophy/Ethics/Golden_Rule.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Ethics/Golden_Rule.secret|Golden_Rule.secret]] 
 

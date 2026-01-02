@@ -92,17 +92,17 @@ Libris_URI: nl0362164w3kdxh
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Metallica](/_Standards/Society/Communication/Media/Music/Musician/Music~Band/Metallica.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Musician/Music~Band/Metallica|Metallica]] 
 
-### #is_/same_as :: [Metallica.public](/_public/Society/Communication/Media/Music/Musician/Music~Band/Metallica.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Musician/Music~Band/Metallica.public|Metallica.public]] 
 
-### #is_/same_as :: [Metallica.internal](/_internal/Society/Communication/Media/Music/Musician/Music~Band/Metallica.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Musician/Music~Band/Metallica.internal|Metallica.internal]] 
 
-### #is_/same_as :: [Metallica.protect](/_protect/Society/Communication/Media/Music/Musician/Music~Band/Metallica.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Musician/Music~Band/Metallica.protect|Metallica.protect]] 
 
-### #is_/same_as :: [Metallica.private](/_private/Society/Communication/Media/Music/Musician/Music~Band/Metallica.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Musician/Music~Band/Metallica.private|Metallica.private]] 
 
-### #is_/same_as :: [Metallica.personal](/_personal/Society/Communication/Media/Music/Musician/Music~Band/Metallica.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Musician/Music~Band/Metallica.personal|Metallica.personal]] 
 
-### #is_/same_as :: [Metallica.secret](/_secret/Society/Communication/Media/Music/Musician/Music~Band/Metallica.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Musician/Music~Band/Metallica.secret|Metallica.secret]] 
 

@@ -25,17 +25,17 @@ Commons_category: Secret societies
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Secret_Society](/_Standards/Society/Agent/Community/Organization/Secret_Society.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Secret_Society|Secret_Society]] 
 
-### #is_/same_as :: [Secret_Society.public](/_public/Society/Agent/Community/Organization/Secret_Society.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Secret_Society.public|Secret_Society.public]] 
 
-### #is_/same_as :: [Secret_Society.internal](/_internal/Society/Agent/Community/Organization/Secret_Society.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Secret_Society.internal|Secret_Society.internal]] 
 
-### #is_/same_as :: [Secret_Society.protect](/_protect/Society/Agent/Community/Organization/Secret_Society.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Secret_Society.protect|Secret_Society.protect]] 
 
-### #is_/same_as :: [Secret_Society.private](/_private/Society/Agent/Community/Organization/Secret_Society.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Secret_Society.private|Secret_Society.private]] 
 
-### #is_/same_as :: [Secret_Society.personal](/_personal/Society/Agent/Community/Organization/Secret_Society.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Secret_Society.personal|Secret_Society.personal]] 
 
-### #is_/same_as :: [Secret_Society.secret](/_secret/Society/Agent/Community/Organization/Secret_Society.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Secret_Society.secret|Secret_Society.secret]] 
 

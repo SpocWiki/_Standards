@@ -43,17 +43,17 @@ Commons_category: Preludes (music)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Prelude](/_Standards/Society/Communication/Media/Music/Music_Genre/Classical_Music/Symphony/Prelude.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Music_Genre/Classical_Music/Symphony/Prelude|Prelude]] 
 
-### #is_/same_as :: [Prelude.public](/_public/Society/Communication/Media/Music/Music_Genre/Classical_Music/Symphony/Prelude.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Music_Genre/Classical_Music/Symphony/Prelude.public|Prelude.public]] 
 
-### #is_/same_as :: [Prelude.internal](/_internal/Society/Communication/Media/Music/Music_Genre/Classical_Music/Symphony/Prelude.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Music_Genre/Classical_Music/Symphony/Prelude.internal|Prelude.internal]] 
 
-### #is_/same_as :: [Prelude.protect](/_protect/Society/Communication/Media/Music/Music_Genre/Classical_Music/Symphony/Prelude.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Music_Genre/Classical_Music/Symphony/Prelude.protect|Prelude.protect]] 
 
-### #is_/same_as :: [Prelude.private](/_private/Society/Communication/Media/Music/Music_Genre/Classical_Music/Symphony/Prelude.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Music_Genre/Classical_Music/Symphony/Prelude.private|Prelude.private]] 
 
-### #is_/same_as :: [Prelude.personal](/_personal/Society/Communication/Media/Music/Music_Genre/Classical_Music/Symphony/Prelude.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Music_Genre/Classical_Music/Symphony/Prelude.personal|Prelude.personal]] 
 
-### #is_/same_as :: [Prelude.secret](/_secret/Society/Communication/Media/Music/Music_Genre/Classical_Music/Symphony/Prelude.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Music_Genre/Classical_Music/Symphony/Prelude.secret|Prelude.secret]] 
 

@@ -37,17 +37,17 @@ Event type: Children's event.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~ChildrensEvent](/_Standards/fileClass/FileClass~Thing/FileClass~Event/FileClass~ChildrensEvent.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Event/FileClass~ChildrensEvent|FileClass~ChildrensEvent]] 
 
-### #is_/same_as :: [FileClass~ChildrensEvent.public](/_public/fileClass/FileClass~Thing/FileClass~Event/FileClass~ChildrensEvent.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Event/FileClass~ChildrensEvent.public|FileClass~ChildrensEvent.public]] 
 
-### #is_/same_as :: [FileClass~ChildrensEvent.internal](/_internal/fileClass/FileClass~Thing/FileClass~Event/FileClass~ChildrensEvent.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Event/FileClass~ChildrensEvent.internal|FileClass~ChildrensEvent.internal]] 
 
-### #is_/same_as :: [FileClass~ChildrensEvent.protect](/_protect/fileClass/FileClass~Thing/FileClass~Event/FileClass~ChildrensEvent.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Event/FileClass~ChildrensEvent.protect|FileClass~ChildrensEvent.protect]] 
 
-### #is_/same_as :: [FileClass~ChildrensEvent.private](/_private/fileClass/FileClass~Thing/FileClass~Event/FileClass~ChildrensEvent.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Event/FileClass~ChildrensEvent.private|FileClass~ChildrensEvent.private]] 
 
-### #is_/same_as :: [FileClass~ChildrensEvent.personal](/_personal/fileClass/FileClass~Thing/FileClass~Event/FileClass~ChildrensEvent.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Event/FileClass~ChildrensEvent.personal|FileClass~ChildrensEvent.personal]] 
 
-### #is_/same_as :: [FileClass~ChildrensEvent.secret](/_secret/fileClass/FileClass~Thing/FileClass~Event/FileClass~ChildrensEvent.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Event/FileClass~ChildrensEvent.secret|FileClass~ChildrensEvent.secret]] 
 

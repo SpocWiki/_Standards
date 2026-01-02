@@ -58,17 +58,17 @@ IPTC_NewsCode: mediatopic/20000811
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Euthanasia](/_Standards/bio/Medicine/Medical_Guideline/Euthanasia.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Guideline/Euthanasia|Euthanasia]] 
 
-### #is_/same_as :: [Euthanasia.public](/_public/bio/Medicine/Medical_Guideline/Euthanasia.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Guideline/Euthanasia.public|Euthanasia.public]] 
 
-### #is_/same_as :: [Euthanasia.internal](/_internal/bio/Medicine/Medical_Guideline/Euthanasia.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Guideline/Euthanasia.internal|Euthanasia.internal]] 
 
-### #is_/same_as :: [Euthanasia.protect](/_protect/bio/Medicine/Medical_Guideline/Euthanasia.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Guideline/Euthanasia.protect|Euthanasia.protect]] 
 
-### #is_/same_as :: [Euthanasia.private](/_private/bio/Medicine/Medical_Guideline/Euthanasia.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Guideline/Euthanasia.private|Euthanasia.private]] 
 
-### #is_/same_as :: [Euthanasia.personal](/_personal/bio/Medicine/Medical_Guideline/Euthanasia.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Guideline/Euthanasia.personal|Euthanasia.personal]] 
 
-### #is_/same_as :: [Euthanasia.secret](/_secret/bio/Medicine/Medical_Guideline/Euthanasia.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Guideline/Euthanasia.secret|Euthanasia.secret]] 
 

@@ -88,17 +88,17 @@ Dewey_Decimal_Classification: "493.2"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Coptic_language](/_Standards/Language/Language_Family/LangFamily-Afro-Asiatic/LangFamily-Egyptian/Coptic_language.md) 
+### #is_/same_as :: [[/_Standards/Language/Language_Family/LangFamily-Afro-Asiatic/LangFamily-Egyptian/Coptic_language|Coptic_language]] 
 
-### #is_/same_as :: [Coptic_language.public](/_public/Language/Language_Family/LangFamily-Afro-Asiatic/LangFamily-Egyptian/Coptic_language.public.md) 
+### #is_/same_as :: [[/_public/Language/Language_Family/LangFamily-Afro-Asiatic/LangFamily-Egyptian/Coptic_language.public|Coptic_language.public]] 
 
-### #is_/same_as :: [Coptic_language.internal](/_internal/Language/Language_Family/LangFamily-Afro-Asiatic/LangFamily-Egyptian/Coptic_language.internal.md) 
+### #is_/same_as :: [[/_internal/Language/Language_Family/LangFamily-Afro-Asiatic/LangFamily-Egyptian/Coptic_language.internal|Coptic_language.internal]] 
 
-### #is_/same_as :: [Coptic_language.protect](/_protect/Language/Language_Family/LangFamily-Afro-Asiatic/LangFamily-Egyptian/Coptic_language.protect.md) 
+### #is_/same_as :: [[/_protect/Language/Language_Family/LangFamily-Afro-Asiatic/LangFamily-Egyptian/Coptic_language.protect|Coptic_language.protect]] 
 
-### #is_/same_as :: [Coptic_language.private](/_private/Language/Language_Family/LangFamily-Afro-Asiatic/LangFamily-Egyptian/Coptic_language.private.md) 
+### #is_/same_as :: [[/_private/Language/Language_Family/LangFamily-Afro-Asiatic/LangFamily-Egyptian/Coptic_language.private|Coptic_language.private]] 
 
-### #is_/same_as :: [Coptic_language.personal](/_personal/Language/Language_Family/LangFamily-Afro-Asiatic/LangFamily-Egyptian/Coptic_language.personal.md) 
+### #is_/same_as :: [[/_personal/Language/Language_Family/LangFamily-Afro-Asiatic/LangFamily-Egyptian/Coptic_language.personal|Coptic_language.personal]] 
 
-### #is_/same_as :: [Coptic_language.secret](/_secret/Language/Language_Family/LangFamily-Afro-Asiatic/LangFamily-Egyptian/Coptic_language.secret.md)
+### #is_/same_as :: [[/_secret/Language/Language_Family/LangFamily-Afro-Asiatic/LangFamily-Egyptian/Coptic_language.secret|Coptic_language.secret]] 
 

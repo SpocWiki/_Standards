@@ -44,17 +44,17 @@ Commons_category: Computer animations
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Computer_Animation](/_Standards/Society/Communication/Media/Movie/Computer_Animation.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Computer_Animation|Computer_Animation]] 
 
-### #is_/same_as :: [Computer_Animation.public](/_public/Society/Communication/Media/Movie/Computer_Animation.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Computer_Animation.public|Computer_Animation.public]] 
 
-### #is_/same_as :: [Computer_Animation.internal](/_internal/Society/Communication/Media/Movie/Computer_Animation.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Computer_Animation.internal|Computer_Animation.internal]] 
 
-### #is_/same_as :: [Computer_Animation.protect](/_protect/Society/Communication/Media/Movie/Computer_Animation.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Computer_Animation.protect|Computer_Animation.protect]] 
 
-### #is_/same_as :: [Computer_Animation.private](/_private/Society/Communication/Media/Movie/Computer_Animation.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Computer_Animation.private|Computer_Animation.private]] 
 
-### #is_/same_as :: [Computer_Animation.personal](/_personal/Society/Communication/Media/Movie/Computer_Animation.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Computer_Animation.personal|Computer_Animation.personal]] 
 
-### #is_/same_as :: [Computer_Animation.secret](/_secret/Society/Communication/Media/Movie/Computer_Animation.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Computer_Animation.secret|Computer_Animation.secret]] 
 

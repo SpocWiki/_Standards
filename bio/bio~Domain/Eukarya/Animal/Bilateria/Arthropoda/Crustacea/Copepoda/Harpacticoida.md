@@ -5,7 +5,7 @@ title: Harpacticoida
 ---
 
 # [[Harpacticoida]] 
-![Clytemnestra_scutellata](Harpacticoida/Clytemnestra_scutellata.jpg))
+![Clytemnestra_scutellata](Harpacticoida/Clytemnestra_scutellata.jpg) 
 ## #has_/text_of_/abstract 
 
 > **Harpacticoida** is an order of copepods, in the subphylum Crustacea. 
@@ -116,23 +116,23 @@ Clytemnestra scutellata female (Clytemnestridae).
 Image from Ernst Haeckel\'s Kunstformen der Natur published 1899-1904 by
 Verlag des Bibliographischen Instituts, Leipzig and Vienna. Scans
 courtesy of [Kurt Stüber\'s online library of historic and classical biology books.](http://caliban.mpiz-koeln.mpg.de/%7Estueber/stueber_library.html)
-![](Harpacticoida/Clytemnestra_scutellata.jpg))
+![](Harpacticoida/Clytemnestra_scutellata.jpg) 
 ::::::::::::::::
 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Harpacticoida](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Copepoda/Harpacticoida.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Copepoda/Harpacticoida|Harpacticoida]] 
 
-### #is_/same_as :: [Harpacticoida.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Copepoda/Harpacticoida.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Copepoda/Harpacticoida.public|Harpacticoida.public]] 
 
-### #is_/same_as :: [Harpacticoida.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Copepoda/Harpacticoida.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Copepoda/Harpacticoida.internal|Harpacticoida.internal]] 
 
-### #is_/same_as :: [Harpacticoida.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Copepoda/Harpacticoida.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Copepoda/Harpacticoida.protect|Harpacticoida.protect]] 
 
-### #is_/same_as :: [Harpacticoida.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Copepoda/Harpacticoida.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Copepoda/Harpacticoida.private|Harpacticoida.private]] 
 
-### #is_/same_as :: [Harpacticoida.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Copepoda/Harpacticoida.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Copepoda/Harpacticoida.personal|Harpacticoida.personal]] 
 
-### #is_/same_as :: [Harpacticoida.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Copepoda/Harpacticoida.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Copepoda/Harpacticoida.secret|Harpacticoida.secret]] 
 

@@ -77,17 +77,17 @@ Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_physics,2427913]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Physics](/_Standards/Science/Physics.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics|Physics]] 
 
-### #is_/same_as :: [Physics.public](/_public/Science/Physics.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics.public|Physics.public]] 
 
-### #is_/same_as :: [Physics.internal](/_internal/Science/Physics.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics.internal|Physics.internal]] 
 
-### #is_/same_as :: [Physics.protect](/_protect/Science/Physics.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics.protect|Physics.protect]] 
 
-### #is_/same_as :: [Physics.private](/_private/Science/Physics.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics.private|Physics.private]] 
 
-### #is_/same_as :: [Physics.personal](/_personal/Science/Physics.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics.personal|Physics.personal]] 
 
-### #is_/same_as :: [Physics.secret](/_secret/Science/Physics.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics.secret|Physics.secret]] 
 

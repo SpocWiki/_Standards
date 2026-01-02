@@ -44,17 +44,17 @@ has_place_continent:: [[Europe]]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Serbia_and_Montenegro](/_Standards/Earth/Continent/Europe/Europe~South/Serbia_and_Montenegro.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Serbia_and_Montenegro|Serbia_and_Montenegro]] 
 
-### #is_/same_as :: [Serbia_and_Montenegro.public](/_public/Earth/Continent/Europe/Europe~South/Serbia_and_Montenegro.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Serbia_and_Montenegro.public|Serbia_and_Montenegro.public]] 
 
-### #is_/same_as :: [Serbia_and_Montenegro.internal](/_internal/Earth/Continent/Europe/Europe~South/Serbia_and_Montenegro.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Serbia_and_Montenegro.internal|Serbia_and_Montenegro.internal]] 
 
-### #is_/same_as :: [Serbia_and_Montenegro.protect](/_protect/Earth/Continent/Europe/Europe~South/Serbia_and_Montenegro.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Serbia_and_Montenegro.protect|Serbia_and_Montenegro.protect]] 
 
-### #is_/same_as :: [Serbia_and_Montenegro.private](/_private/Earth/Continent/Europe/Europe~South/Serbia_and_Montenegro.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Serbia_and_Montenegro.private|Serbia_and_Montenegro.private]] 
 
-### #is_/same_as :: [Serbia_and_Montenegro.personal](/_personal/Earth/Continent/Europe/Europe~South/Serbia_and_Montenegro.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Serbia_and_Montenegro.personal|Serbia_and_Montenegro.personal]] 
 
-### #is_/same_as :: [Serbia_and_Montenegro.secret](/_secret/Earth/Continent/Europe/Europe~South/Serbia_and_Montenegro.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Serbia_and_Montenegro.secret|Serbia_and_Montenegro.secret]] 
 

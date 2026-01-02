@@ -49,17 +49,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Carrie(1976_film)](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Carrie(1976_film).md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Carrie(1976_film)|Carrie(1976_film)]] 
 
-### #is_/same_as :: [Carrie(1976_film).public](/_public/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Carrie(1976_film).public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Carrie(1976_film).public|Carrie(1976_film).public]] 
 
-### #is_/same_as :: [Carrie(1976_film).internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Carrie(1976_film).internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Carrie(1976_film).internal|Carrie(1976_film).internal]] 
 
-### #is_/same_as :: [Carrie(1976_film).protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Carrie(1976_film).protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Carrie(1976_film).protect|Carrie(1976_film).protect]] 
 
-### #is_/same_as :: [Carrie(1976_film).private](/_private/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Carrie(1976_film).private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Carrie(1976_film).private|Carrie(1976_film).private]] 
 
-### #is_/same_as :: [Carrie(1976_film).personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Carrie(1976_film).personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Carrie(1976_film).personal|Carrie(1976_film).personal]] 
 
-### #is_/same_as :: [Carrie(1976_film).secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Carrie(1976_film).secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Carrie(1976_film).secret|Carrie(1976_film).secret]] 
 

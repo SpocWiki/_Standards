@@ -52,17 +52,17 @@ MeSH_tree_code: D26.255.830
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Tablet](/_Standards/schema-org/Property/Texts/has_dosage_form/Tablet.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/Texts/has_dosage_form/Tablet|Tablet]] 
 
-### #is_/same_as :: [Tablet.public](/_public/schema-org/Property/Texts/has_dosage_form/Tablet.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/Texts/has_dosage_form/Tablet.public|Tablet.public]] 
 
-### #is_/same_as :: [Tablet.internal](/_internal/schema-org/Property/Texts/has_dosage_form/Tablet.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/Texts/has_dosage_form/Tablet.internal|Tablet.internal]] 
 
-### #is_/same_as :: [Tablet.protect](/_protect/schema-org/Property/Texts/has_dosage_form/Tablet.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/Texts/has_dosage_form/Tablet.protect|Tablet.protect]] 
 
-### #is_/same_as :: [Tablet.private](/_private/schema-org/Property/Texts/has_dosage_form/Tablet.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/Texts/has_dosage_form/Tablet.private|Tablet.private]] 
 
-### #is_/same_as :: [Tablet.personal](/_personal/schema-org/Property/Texts/has_dosage_form/Tablet.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/Texts/has_dosage_form/Tablet.personal|Tablet.personal]] 
 
-### #is_/same_as :: [Tablet.secret](/_secret/schema-org/Property/Texts/has_dosage_form/Tablet.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/Texts/has_dosage_form/Tablet.secret|Tablet.secret]] 
 

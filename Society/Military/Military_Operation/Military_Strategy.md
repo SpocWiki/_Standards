@@ -37,17 +37,17 @@ UNSPSC_Code: 92111705
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Military_Strategy](/_Standards/Society/Military/Military_Operation/Military_Strategy.md) 
+### #is_/same_as :: [[/_Standards/Society/Military/Military_Operation/Military_Strategy|Military_Strategy]] 
 
-### #is_/same_as :: [Military_Strategy.public](/_public/Society/Military/Military_Operation/Military_Strategy.public.md) 
+### #is_/same_as :: [[/_public/Society/Military/Military_Operation/Military_Strategy.public|Military_Strategy.public]] 
 
-### #is_/same_as :: [Military_Strategy.internal](/_internal/Society/Military/Military_Operation/Military_Strategy.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Military/Military_Operation/Military_Strategy.internal|Military_Strategy.internal]] 
 
-### #is_/same_as :: [Military_Strategy.protect](/_protect/Society/Military/Military_Operation/Military_Strategy.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Military/Military_Operation/Military_Strategy.protect|Military_Strategy.protect]] 
 
-### #is_/same_as :: [Military_Strategy.private](/_private/Society/Military/Military_Operation/Military_Strategy.private.md) 
+### #is_/same_as :: [[/_private/Society/Military/Military_Operation/Military_Strategy.private|Military_Strategy.private]] 
 
-### #is_/same_as :: [Military_Strategy.personal](/_personal/Society/Military/Military_Operation/Military_Strategy.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Military/Military_Operation/Military_Strategy.personal|Military_Strategy.personal]] 
 
-### #is_/same_as :: [Military_Strategy.secret](/_secret/Society/Military/Military_Operation/Military_Strategy.secret.md)
+### #is_/same_as :: [[/_secret/Society/Military/Military_Operation/Military_Strategy.secret|Military_Strategy.secret]] 
 

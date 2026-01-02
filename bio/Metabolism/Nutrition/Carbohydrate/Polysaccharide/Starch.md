@@ -112,17 +112,17 @@ ZVG_number: 12160
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Starch](/_Standards/bio/Metabolism/Nutrition/Carbohydrate/Polysaccharide/Starch.md) 
+### #is_/same_as :: [[/_Standards/bio/Metabolism/Nutrition/Carbohydrate/Polysaccharide/Starch|Starch]] 
 
-### #is_/same_as :: [Starch.public](/_public/bio/Metabolism/Nutrition/Carbohydrate/Polysaccharide/Starch.public.md) 
+### #is_/same_as :: [[/_public/bio/Metabolism/Nutrition/Carbohydrate/Polysaccharide/Starch.public|Starch.public]] 
 
-### #is_/same_as :: [Starch.internal](/_internal/bio/Metabolism/Nutrition/Carbohydrate/Polysaccharide/Starch.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Metabolism/Nutrition/Carbohydrate/Polysaccharide/Starch.internal|Starch.internal]] 
 
-### #is_/same_as :: [Starch.protect](/_protect/bio/Metabolism/Nutrition/Carbohydrate/Polysaccharide/Starch.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Metabolism/Nutrition/Carbohydrate/Polysaccharide/Starch.protect|Starch.protect]] 
 
-### #is_/same_as :: [Starch.private](/_private/bio/Metabolism/Nutrition/Carbohydrate/Polysaccharide/Starch.private.md) 
+### #is_/same_as :: [[/_private/bio/Metabolism/Nutrition/Carbohydrate/Polysaccharide/Starch.private|Starch.private]] 
 
-### #is_/same_as :: [Starch.personal](/_personal/bio/Metabolism/Nutrition/Carbohydrate/Polysaccharide/Starch.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Metabolism/Nutrition/Carbohydrate/Polysaccharide/Starch.personal|Starch.personal]] 
 
-### #is_/same_as :: [Starch.secret](/_secret/bio/Metabolism/Nutrition/Carbohydrate/Polysaccharide/Starch.secret.md)
+### #is_/same_as :: [[/_secret/bio/Metabolism/Nutrition/Carbohydrate/Polysaccharide/Starch.secret|Starch.secret]] 
 

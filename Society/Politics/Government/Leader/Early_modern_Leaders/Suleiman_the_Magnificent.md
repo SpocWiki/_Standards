@@ -159,17 +159,17 @@ date_of_birth: 1494-11-15T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Suleiman_the_Magnificent](/_Standards/Society/Politics/Government/Leader/Early_modern_Leaders/Suleiman_the_Magnificent.md) 
+### #is_/same_as :: [[/_Standards/Society/Politics/Government/Leader/Early_modern_Leaders/Suleiman_the_Magnificent|Suleiman_the_Magnificent]] 
 
-### #is_/same_as :: [Suleiman_the_Magnificent.public](/_public/Society/Politics/Government/Leader/Early_modern_Leaders/Suleiman_the_Magnificent.public.md) 
+### #is_/same_as :: [[/_public/Society/Politics/Government/Leader/Early_modern_Leaders/Suleiman_the_Magnificent.public|Suleiman_the_Magnificent.public]] 
 
-### #is_/same_as :: [Suleiman_the_Magnificent.internal](/_internal/Society/Politics/Government/Leader/Early_modern_Leaders/Suleiman_the_Magnificent.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Politics/Government/Leader/Early_modern_Leaders/Suleiman_the_Magnificent.internal|Suleiman_the_Magnificent.internal]] 
 
-### #is_/same_as :: [Suleiman_the_Magnificent.protect](/_protect/Society/Politics/Government/Leader/Early_modern_Leaders/Suleiman_the_Magnificent.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Politics/Government/Leader/Early_modern_Leaders/Suleiman_the_Magnificent.protect|Suleiman_the_Magnificent.protect]] 
 
-### #is_/same_as :: [Suleiman_the_Magnificent.private](/_private/Society/Politics/Government/Leader/Early_modern_Leaders/Suleiman_the_Magnificent.private.md) 
+### #is_/same_as :: [[/_private/Society/Politics/Government/Leader/Early_modern_Leaders/Suleiman_the_Magnificent.private|Suleiman_the_Magnificent.private]] 
 
-### #is_/same_as :: [Suleiman_the_Magnificent.personal](/_personal/Society/Politics/Government/Leader/Early_modern_Leaders/Suleiman_the_Magnificent.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Politics/Government/Leader/Early_modern_Leaders/Suleiman_the_Magnificent.personal|Suleiman_the_Magnificent.personal]] 
 
-### #is_/same_as :: [Suleiman_the_Magnificent.secret](/_secret/Society/Politics/Government/Leader/Early_modern_Leaders/Suleiman_the_Magnificent.secret.md)
+### #is_/same_as :: [[/_secret/Society/Politics/Government/Leader/Early_modern_Leaders/Suleiman_the_Magnificent.secret|Suleiman_the_Magnificent.secret]] 
 

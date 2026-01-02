@@ -44,17 +44,17 @@ OneTimePayments: this is a benefit for one-time payments for individuals.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [One_Time_Payments](/_Standards/schema-org/Enumeration/Government_Benefits_Type/One_Time_Payments.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Government_Benefits_Type/One_Time_Payments|One_Time_Payments]] 
 
-### #is_/same_as :: [One_Time_Payments.public](/_public/schema-org/Enumeration/Government_Benefits_Type/One_Time_Payments.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Government_Benefits_Type/One_Time_Payments.public|One_Time_Payments.public]] 
 
-### #is_/same_as :: [One_Time_Payments.internal](/_internal/schema-org/Enumeration/Government_Benefits_Type/One_Time_Payments.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Government_Benefits_Type/One_Time_Payments.internal|One_Time_Payments.internal]] 
 
-### #is_/same_as :: [One_Time_Payments.protect](/_protect/schema-org/Enumeration/Government_Benefits_Type/One_Time_Payments.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Government_Benefits_Type/One_Time_Payments.protect|One_Time_Payments.protect]] 
 
-### #is_/same_as :: [One_Time_Payments.private](/_private/schema-org/Enumeration/Government_Benefits_Type/One_Time_Payments.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Government_Benefits_Type/One_Time_Payments.private|One_Time_Payments.private]] 
 
-### #is_/same_as :: [One_Time_Payments.personal](/_personal/schema-org/Enumeration/Government_Benefits_Type/One_Time_Payments.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Government_Benefits_Type/One_Time_Payments.personal|One_Time_Payments.personal]] 
 
-### #is_/same_as :: [One_Time_Payments.secret](/_secret/schema-org/Enumeration/Government_Benefits_Type/One_Time_Payments.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Government_Benefits_Type/One_Time_Payments.secret|One_Time_Payments.secret]] 
 

@@ -64,17 +64,17 @@ short_name: CMi
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Zodiac~Canis_Minor](/_Standards/Astronomy/Star~Constellation/Zodiac~Canis_Minor.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Star~Constellation/Zodiac~Canis_Minor|Zodiac~Canis_Minor]] 
 
-### #is_/same_as :: [Zodiac~Canis_Minor.public](/_public/Astronomy/Star~Constellation/Zodiac~Canis_Minor.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Star~Constellation/Zodiac~Canis_Minor.public|Zodiac~Canis_Minor.public]] 
 
-### #is_/same_as :: [Zodiac~Canis_Minor.internal](/_internal/Astronomy/Star~Constellation/Zodiac~Canis_Minor.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Star~Constellation/Zodiac~Canis_Minor.internal|Zodiac~Canis_Minor.internal]] 
 
-### #is_/same_as :: [Zodiac~Canis_Minor.protect](/_protect/Astronomy/Star~Constellation/Zodiac~Canis_Minor.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Star~Constellation/Zodiac~Canis_Minor.protect|Zodiac~Canis_Minor.protect]] 
 
-### #is_/same_as :: [Zodiac~Canis_Minor.private](/_private/Astronomy/Star~Constellation/Zodiac~Canis_Minor.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Star~Constellation/Zodiac~Canis_Minor.private|Zodiac~Canis_Minor.private]] 
 
-### #is_/same_as :: [Zodiac~Canis_Minor.personal](/_personal/Astronomy/Star~Constellation/Zodiac~Canis_Minor.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Star~Constellation/Zodiac~Canis_Minor.personal|Zodiac~Canis_Minor.personal]] 
 
-### #is_/same_as :: [Zodiac~Canis_Minor.secret](/_secret/Astronomy/Star~Constellation/Zodiac~Canis_Minor.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Star~Constellation/Zodiac~Canis_Minor.secret|Zodiac~Canis_Minor.secret]] 
 

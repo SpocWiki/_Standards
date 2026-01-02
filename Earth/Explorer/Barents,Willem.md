@@ -91,17 +91,17 @@ P1015: 90982174
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Barents,Willem](/_Standards/Earth/Explorer/Barents,Willem.md) 
+### #is_/same_as :: [[/_Standards/Earth/Explorer/Barents,Willem|Barents,Willem]] 
 
-### #is_/same_as :: [Barents,Willem.public](/_public/Earth/Explorer/Barents,Willem.public.md) 
+### #is_/same_as :: [[/_public/Earth/Explorer/Barents,Willem.public|Barents,Willem.public]] 
 
-### #is_/same_as :: [Barents,Willem.internal](/_internal/Earth/Explorer/Barents,Willem.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Explorer/Barents,Willem.internal|Barents,Willem.internal]] 
 
-### #is_/same_as :: [Barents,Willem.protect](/_protect/Earth/Explorer/Barents,Willem.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Explorer/Barents,Willem.protect|Barents,Willem.protect]] 
 
-### #is_/same_as :: [Barents,Willem.private](/_private/Earth/Explorer/Barents,Willem.private.md) 
+### #is_/same_as :: [[/_private/Earth/Explorer/Barents,Willem.private|Barents,Willem.private]] 
 
-### #is_/same_as :: [Barents,Willem.personal](/_personal/Earth/Explorer/Barents,Willem.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Explorer/Barents,Willem.personal|Barents,Willem.personal]] 
 
-### #is_/same_as :: [Barents,Willem.secret](/_secret/Earth/Explorer/Barents,Willem.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Explorer/Barents,Willem.secret|Barents,Willem.secret]] 
 

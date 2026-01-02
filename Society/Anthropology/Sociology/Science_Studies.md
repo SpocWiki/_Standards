@@ -33,17 +33,17 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Bibliometrics%20defini
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Science_Studies](/_Standards/Society/Anthropology/Sociology/Science_Studies.md) 
+### #is_/same_as :: [[/_Standards/Society/Anthropology/Sociology/Science_Studies|Science_Studies]] 
 
-### #is_/same_as :: [Science_Studies.public](/_public/Society/Anthropology/Sociology/Science_Studies.public.md) 
+### #is_/same_as :: [[/_public/Society/Anthropology/Sociology/Science_Studies.public|Science_Studies.public]] 
 
-### #is_/same_as :: [Science_Studies.internal](/_internal/Society/Anthropology/Sociology/Science_Studies.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Anthropology/Sociology/Science_Studies.internal|Science_Studies.internal]] 
 
-### #is_/same_as :: [Science_Studies.protect](/_protect/Society/Anthropology/Sociology/Science_Studies.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Anthropology/Sociology/Science_Studies.protect|Science_Studies.protect]] 
 
-### #is_/same_as :: [Science_Studies.private](/_private/Society/Anthropology/Sociology/Science_Studies.private.md) 
+### #is_/same_as :: [[/_private/Society/Anthropology/Sociology/Science_Studies.private|Science_Studies.private]] 
 
-### #is_/same_as :: [Science_Studies.personal](/_personal/Society/Anthropology/Sociology/Science_Studies.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Anthropology/Sociology/Science_Studies.personal|Science_Studies.personal]] 
 
-### #is_/same_as :: [Science_Studies.secret](/_secret/Society/Anthropology/Sociology/Science_Studies.secret.md)
+### #is_/same_as :: [[/_secret/Society/Anthropology/Sociology/Science_Studies.secret|Science_Studies.secret]] 
 

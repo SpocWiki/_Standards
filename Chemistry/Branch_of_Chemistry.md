@@ -18,17 +18,17 @@ Just like [[../Chemistry|Chemistry]] is a Branch of [[../Science|Science]], its 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Branch_of_Chemistry](/_Standards/Chemistry/Branch_of_Chemistry.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Branch_of_Chemistry|Branch_of_Chemistry]] 
 
-### #is_/same_as :: [Branch_of_Chemistry.public](/_public/Chemistry/Branch_of_Chemistry.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Branch_of_Chemistry.public|Branch_of_Chemistry.public]] 
 
-### #is_/same_as :: [Branch_of_Chemistry.internal](/_internal/Chemistry/Branch_of_Chemistry.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Branch_of_Chemistry.internal|Branch_of_Chemistry.internal]] 
 
-### #is_/same_as :: [Branch_of_Chemistry.protect](/_protect/Chemistry/Branch_of_Chemistry.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Branch_of_Chemistry.protect|Branch_of_Chemistry.protect]] 
 
-### #is_/same_as :: [Branch_of_Chemistry.private](/_private/Chemistry/Branch_of_Chemistry.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Branch_of_Chemistry.private|Branch_of_Chemistry.private]] 
 
-### #is_/same_as :: [Branch_of_Chemistry.personal](/_personal/Chemistry/Branch_of_Chemistry.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Branch_of_Chemistry.personal|Branch_of_Chemistry.personal]] 
 
-### #is_/same_as :: [Branch_of_Chemistry.secret](/_secret/Chemistry/Branch_of_Chemistry.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Branch_of_Chemistry.secret|Branch_of_Chemistry.secret]] 
 

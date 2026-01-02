@@ -246,17 +246,17 @@ ISNI: 0000000120999120
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Poussin,Nicolas](/_Standards/Society/Communication/Media/Painting/Painter/Baroque_Painting/Poussin,Nicolas.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Painting/Painter/Baroque_Painting/Poussin,Nicolas|Poussin,Nicolas]] 
 
-### #is_/same_as :: [Poussin,Nicolas.public](/_public/Society/Communication/Media/Painting/Painter/Baroque_Painting/Poussin,Nicolas.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Painting/Painter/Baroque_Painting/Poussin,Nicolas.public|Poussin,Nicolas.public]] 
 
-### #is_/same_as :: [Poussin,Nicolas.internal](/_internal/Society/Communication/Media/Painting/Painter/Baroque_Painting/Poussin,Nicolas.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Painting/Painter/Baroque_Painting/Poussin,Nicolas.internal|Poussin,Nicolas.internal]] 
 
-### #is_/same_as :: [Poussin,Nicolas.protect](/_protect/Society/Communication/Media/Painting/Painter/Baroque_Painting/Poussin,Nicolas.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Painting/Painter/Baroque_Painting/Poussin,Nicolas.protect|Poussin,Nicolas.protect]] 
 
-### #is_/same_as :: [Poussin,Nicolas.private](/_private/Society/Communication/Media/Painting/Painter/Baroque_Painting/Poussin,Nicolas.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Painting/Painter/Baroque_Painting/Poussin,Nicolas.private|Poussin,Nicolas.private]] 
 
-### #is_/same_as :: [Poussin,Nicolas.personal](/_personal/Society/Communication/Media/Painting/Painter/Baroque_Painting/Poussin,Nicolas.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Painting/Painter/Baroque_Painting/Poussin,Nicolas.personal|Poussin,Nicolas.personal]] 
 
-### #is_/same_as :: [Poussin,Nicolas.secret](/_secret/Society/Communication/Media/Painting/Painter/Baroque_Painting/Poussin,Nicolas.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Painting/Painter/Baroque_Painting/Poussin,Nicolas.secret|Poussin,Nicolas.secret]] 
 

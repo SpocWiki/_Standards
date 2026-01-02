@@ -86,17 +86,17 @@ width: 1800
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sahara](/_Standards/Earth/Continent/Africa/Africa~North/Sahara.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~North/Sahara|Sahara]] 
 
-### #is_/same_as :: [Sahara.public](/_public/Earth/Continent/Africa/Africa~North/Sahara.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~North/Sahara.public|Sahara.public]] 
 
-### #is_/same_as :: [Sahara.internal](/_internal/Earth/Continent/Africa/Africa~North/Sahara.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~North/Sahara.internal|Sahara.internal]] 
 
-### #is_/same_as :: [Sahara.protect](/_protect/Earth/Continent/Africa/Africa~North/Sahara.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~North/Sahara.protect|Sahara.protect]] 
 
-### #is_/same_as :: [Sahara.private](/_private/Earth/Continent/Africa/Africa~North/Sahara.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~North/Sahara.private|Sahara.private]] 
 
-### #is_/same_as :: [Sahara.personal](/_personal/Earth/Continent/Africa/Africa~North/Sahara.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~North/Sahara.personal|Sahara.personal]] 
 
-### #is_/same_as :: [Sahara.secret](/_secret/Earth/Continent/Africa/Africa~North/Sahara.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~North/Sahara.secret|Sahara.secret]] 
 

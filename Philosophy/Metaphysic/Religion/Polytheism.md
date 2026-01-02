@@ -50,17 +50,17 @@ subreddit: polytheism
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Polytheism](/_Standards/Philosophy/Metaphysic/Religion/Polytheism.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Polytheism|Polytheism]] 
 
-### #is_/same_as :: [Polytheism.public](/_public/Philosophy/Metaphysic/Religion/Polytheism.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Polytheism.public|Polytheism.public]] 
 
-### #is_/same_as :: [Polytheism.internal](/_internal/Philosophy/Metaphysic/Religion/Polytheism.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Polytheism.internal|Polytheism.internal]] 
 
-### #is_/same_as :: [Polytheism.protect](/_protect/Philosophy/Metaphysic/Religion/Polytheism.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Polytheism.protect|Polytheism.protect]] 
 
-### #is_/same_as :: [Polytheism.private](/_private/Philosophy/Metaphysic/Religion/Polytheism.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Polytheism.private|Polytheism.private]] 
 
-### #is_/same_as :: [Polytheism.personal](/_personal/Philosophy/Metaphysic/Religion/Polytheism.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Polytheism.personal|Polytheism.personal]] 
 
-### #is_/same_as :: [Polytheism.secret](/_secret/Philosophy/Metaphysic/Religion/Polytheism.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Polytheism.secret|Polytheism.secret]] 
 

@@ -22,17 +22,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Aculeata](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Hymenoptera/Unicalcarida/Apocrita/Aculeata.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Hymenoptera/Unicalcarida/Apocrita/Aculeata|Aculeata]] 
 
-### #is_/same_as :: [Aculeata.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Hymenoptera/Unicalcarida/Apocrita/Aculeata.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Hymenoptera/Unicalcarida/Apocrita/Aculeata.public|Aculeata.public]] 
 
-### #is_/same_as :: [Aculeata.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Hymenoptera/Unicalcarida/Apocrita/Aculeata.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Hymenoptera/Unicalcarida/Apocrita/Aculeata.internal|Aculeata.internal]] 
 
-### #is_/same_as :: [Aculeata.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Hymenoptera/Unicalcarida/Apocrita/Aculeata.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Hymenoptera/Unicalcarida/Apocrita/Aculeata.protect|Aculeata.protect]] 
 
-### #is_/same_as :: [Aculeata.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Hymenoptera/Unicalcarida/Apocrita/Aculeata.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Hymenoptera/Unicalcarida/Apocrita/Aculeata.private|Aculeata.private]] 
 
-### #is_/same_as :: [Aculeata.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Hymenoptera/Unicalcarida/Apocrita/Aculeata.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Hymenoptera/Unicalcarida/Apocrita/Aculeata.personal|Aculeata.personal]] 
 
-### #is_/same_as :: [Aculeata.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Hymenoptera/Unicalcarida/Apocrita/Aculeata.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Hymenoptera/Unicalcarida/Apocrita/Aculeata.secret|Aculeata.secret]] 
 

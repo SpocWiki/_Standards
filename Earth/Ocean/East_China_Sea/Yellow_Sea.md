@@ -72,17 +72,17 @@ Commons_category: Yellow Sea
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Yellow_Sea](/_Standards/Earth/Ocean/East_China_Sea/Yellow_Sea.md) 
+### #is_/same_as :: [[/_Standards/Earth/Ocean/East_China_Sea/Yellow_Sea|Yellow_Sea]] 
 
-### #is_/same_as :: [Yellow_Sea.public](/_public/Earth/Ocean/East_China_Sea/Yellow_Sea.public.md) 
+### #is_/same_as :: [[/_public/Earth/Ocean/East_China_Sea/Yellow_Sea.public|Yellow_Sea.public]] 
 
-### #is_/same_as :: [Yellow_Sea.internal](/_internal/Earth/Ocean/East_China_Sea/Yellow_Sea.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Ocean/East_China_Sea/Yellow_Sea.internal|Yellow_Sea.internal]] 
 
-### #is_/same_as :: [Yellow_Sea.protect](/_protect/Earth/Ocean/East_China_Sea/Yellow_Sea.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Ocean/East_China_Sea/Yellow_Sea.protect|Yellow_Sea.protect]] 
 
-### #is_/same_as :: [Yellow_Sea.private](/_private/Earth/Ocean/East_China_Sea/Yellow_Sea.private.md) 
+### #is_/same_as :: [[/_private/Earth/Ocean/East_China_Sea/Yellow_Sea.private|Yellow_Sea.private]] 
 
-### #is_/same_as :: [Yellow_Sea.personal](/_personal/Earth/Ocean/East_China_Sea/Yellow_Sea.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Ocean/East_China_Sea/Yellow_Sea.personal|Yellow_Sea.personal]] 
 
-### #is_/same_as :: [Yellow_Sea.secret](/_secret/Earth/Ocean/East_China_Sea/Yellow_Sea.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Ocean/East_China_Sea/Yellow_Sea.secret|Yellow_Sea.secret]] 
 

@@ -28,17 +28,17 @@ has_id_wikidata: ''
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Cello](/_Standards/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Cello.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Cello|Cello]] 
 
-### #is_/same_as :: [Cello.public](/_public/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Cello.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Cello.public|Cello.public]] 
 
-### #is_/same_as :: [Cello.internal](/_internal/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Cello.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Cello.internal|Cello.internal]] 
 
-### #is_/same_as :: [Cello.protect](/_protect/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Cello.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Cello.protect|Cello.protect]] 
 
-### #is_/same_as :: [Cello.private](/_private/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Cello.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Cello.private|Cello.private]] 
 
-### #is_/same_as :: [Cello.personal](/_personal/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Cello.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Cello.personal|Cello.personal]] 
 
-### #is_/same_as :: [Cello.secret](/_secret/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Cello.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Cello.secret|Cello.secret]] 
 

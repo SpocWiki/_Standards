@@ -125,17 +125,17 @@ work_period_start_: 1902-01-01T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Gish,Lillian](/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Gish,Lillian.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Gish,Lillian|Gish,Lillian]] 
 
-### #is_/same_as :: [Gish,Lillian.public](/_public/Society/Communication/Media/Movie/Actor/US_Actor/Gish,Lillian.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Actor/US_Actor/Gish,Lillian.public|Gish,Lillian.public]] 
 
-### #is_/same_as :: [Gish,Lillian.internal](/_internal/Society/Communication/Media/Movie/Actor/US_Actor/Gish,Lillian.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Actor/US_Actor/Gish,Lillian.internal|Gish,Lillian.internal]] 
 
-### #is_/same_as :: [Gish,Lillian.protect](/_protect/Society/Communication/Media/Movie/Actor/US_Actor/Gish,Lillian.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Actor/US_Actor/Gish,Lillian.protect|Gish,Lillian.protect]] 
 
-### #is_/same_as :: [Gish,Lillian.private](/_private/Society/Communication/Media/Movie/Actor/US_Actor/Gish,Lillian.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Actor/US_Actor/Gish,Lillian.private|Gish,Lillian.private]] 
 
-### #is_/same_as :: [Gish,Lillian.personal](/_personal/Society/Communication/Media/Movie/Actor/US_Actor/Gish,Lillian.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Actor/US_Actor/Gish,Lillian.personal|Gish,Lillian.personal]] 
 
-### #is_/same_as :: [Gish,Lillian.secret](/_secret/Society/Communication/Media/Movie/Actor/US_Actor/Gish,Lillian.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Actor/US_Actor/Gish,Lillian.secret|Gish,Lillian.secret]] 
 

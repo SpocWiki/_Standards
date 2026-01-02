@@ -157,17 +157,17 @@ Regensburg_Classification: GM 5162
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Rainer_Maria_Rilke](/_Standards/Society/Communication/Media/Writing/Book/Poetry/Poet/Rainer_Maria_Rilke.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Poetry/Poet/Rainer_Maria_Rilke|Rainer_Maria_Rilke]] 
 
-### #is_/same_as :: [Rainer_Maria_Rilke.public](/_public/Society/Communication/Media/Writing/Book/Poetry/Poet/Rainer_Maria_Rilke.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Poetry/Poet/Rainer_Maria_Rilke.public|Rainer_Maria_Rilke.public]] 
 
-### #is_/same_as :: [Rainer_Maria_Rilke.internal](/_internal/Society/Communication/Media/Writing/Book/Poetry/Poet/Rainer_Maria_Rilke.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Poetry/Poet/Rainer_Maria_Rilke.internal|Rainer_Maria_Rilke.internal]] 
 
-### #is_/same_as :: [Rainer_Maria_Rilke.protect](/_protect/Society/Communication/Media/Writing/Book/Poetry/Poet/Rainer_Maria_Rilke.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Poetry/Poet/Rainer_Maria_Rilke.protect|Rainer_Maria_Rilke.protect]] 
 
-### #is_/same_as :: [Rainer_Maria_Rilke.private](/_private/Society/Communication/Media/Writing/Book/Poetry/Poet/Rainer_Maria_Rilke.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Poetry/Poet/Rainer_Maria_Rilke.private|Rainer_Maria_Rilke.private]] 
 
-### #is_/same_as :: [Rainer_Maria_Rilke.personal](/_personal/Society/Communication/Media/Writing/Book/Poetry/Poet/Rainer_Maria_Rilke.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Poetry/Poet/Rainer_Maria_Rilke.personal|Rainer_Maria_Rilke.personal]] 
 
-### #is_/same_as :: [Rainer_Maria_Rilke.secret](/_secret/Society/Communication/Media/Writing/Book/Poetry/Poet/Rainer_Maria_Rilke.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Poetry/Poet/Rainer_Maria_Rilke.secret|Rainer_Maria_Rilke.secret]] 
 

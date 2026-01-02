@@ -65,17 +65,17 @@ inception: 2003-10-01T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [JAXA(Japan_Aerospace_Exploration_Agency)](/_Standards/Technology/Spaceflight/JAXA(Japan_Aerospace_Exploration_Agency).md) 
+### #is_/same_as :: [[/_Standards/Technology/Spaceflight/JAXA(Japan_Aerospace_Exploration_Agency)|JAXA(Japan_Aerospace_Exploration_Agency)]] 
 
-### #is_/same_as :: [JAXA(Japan_Aerospace_Exploration_Agency).public](/_public/Technology/Spaceflight/JAXA(Japan_Aerospace_Exploration_Agency).public.md) 
+### #is_/same_as :: [[/_public/Technology/Spaceflight/JAXA(Japan_Aerospace_Exploration_Agency).public|JAXA(Japan_Aerospace_Exploration_Agency).public]] 
 
-### #is_/same_as :: [JAXA(Japan_Aerospace_Exploration_Agency).internal](/_internal/Technology/Spaceflight/JAXA(Japan_Aerospace_Exploration_Agency).internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Spaceflight/JAXA(Japan_Aerospace_Exploration_Agency).internal|JAXA(Japan_Aerospace_Exploration_Agency).internal]] 
 
-### #is_/same_as :: [JAXA(Japan_Aerospace_Exploration_Agency).protect](/_protect/Technology/Spaceflight/JAXA(Japan_Aerospace_Exploration_Agency).protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Spaceflight/JAXA(Japan_Aerospace_Exploration_Agency).protect|JAXA(Japan_Aerospace_Exploration_Agency).protect]] 
 
-### #is_/same_as :: [JAXA(Japan_Aerospace_Exploration_Agency).private](/_private/Technology/Spaceflight/JAXA(Japan_Aerospace_Exploration_Agency).private.md) 
+### #is_/same_as :: [[/_private/Technology/Spaceflight/JAXA(Japan_Aerospace_Exploration_Agency).private|JAXA(Japan_Aerospace_Exploration_Agency).private]] 
 
-### #is_/same_as :: [JAXA(Japan_Aerospace_Exploration_Agency).personal](/_personal/Technology/Spaceflight/JAXA(Japan_Aerospace_Exploration_Agency).personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Spaceflight/JAXA(Japan_Aerospace_Exploration_Agency).personal|JAXA(Japan_Aerospace_Exploration_Agency).personal]] 
 
-### #is_/same_as :: [JAXA(Japan_Aerospace_Exploration_Agency).secret](/_secret/Technology/Spaceflight/JAXA(Japan_Aerospace_Exploration_Agency).secret.md)
+### #is_/same_as :: [[/_secret/Technology/Spaceflight/JAXA(Japan_Aerospace_Exploration_Agency).secret|JAXA(Japan_Aerospace_Exploration_Agency).secret]] 
 

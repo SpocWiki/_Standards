@@ -123,17 +123,17 @@ IPTC_NewsCode: mediatopic/20000126
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [International_Law](/_Standards/Society/Law/International_Law.md) 
+### #is_/same_as :: [[/_Standards/Society/Law/International_Law|International_Law]] 
 
-### #is_/same_as :: [International_Law.public](/_public/Society/Law/International_Law.public.md) 
+### #is_/same_as :: [[/_public/Society/Law/International_Law.public|International_Law.public]] 
 
-### #is_/same_as :: [International_Law.internal](/_internal/Society/Law/International_Law.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Law/International_Law.internal|International_Law.internal]] 
 
-### #is_/same_as :: [International_Law.protect](/_protect/Society/Law/International_Law.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Law/International_Law.protect|International_Law.protect]] 
 
-### #is_/same_as :: [International_Law.private](/_private/Society/Law/International_Law.private.md) 
+### #is_/same_as :: [[/_private/Society/Law/International_Law.private|International_Law.private]] 
 
-### #is_/same_as :: [International_Law.personal](/_personal/Society/Law/International_Law.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Law/International_Law.personal|International_Law.personal]] 
 
-### #is_/same_as :: [International_Law.secret](/_secret/Society/Law/International_Law.secret.md)
+### #is_/same_as :: [[/_secret/Society/Law/International_Law.secret|International_Law.secret]] 
 

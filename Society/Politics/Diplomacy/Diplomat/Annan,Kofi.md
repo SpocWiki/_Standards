@@ -177,17 +177,17 @@ RIA_Novosti_reference: 56818006
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Annan,Kofi](/_Standards/Society/Politics/Diplomacy/Diplomat/Annan,Kofi.md) 
+### #is_/same_as :: [[/_Standards/Society/Politics/Diplomacy/Diplomat/Annan,Kofi|Annan,Kofi]] 
 
-### #is_/same_as :: [Annan,Kofi.public](/_public/Society/Politics/Diplomacy/Diplomat/Annan,Kofi.public.md) 
+### #is_/same_as :: [[/_public/Society/Politics/Diplomacy/Diplomat/Annan,Kofi.public|Annan,Kofi.public]] 
 
-### #is_/same_as :: [Annan,Kofi.internal](/_internal/Society/Politics/Diplomacy/Diplomat/Annan,Kofi.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Politics/Diplomacy/Diplomat/Annan,Kofi.internal|Annan,Kofi.internal]] 
 
-### #is_/same_as :: [Annan,Kofi.protect](/_protect/Society/Politics/Diplomacy/Diplomat/Annan,Kofi.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Politics/Diplomacy/Diplomat/Annan,Kofi.protect|Annan,Kofi.protect]] 
 
-### #is_/same_as :: [Annan,Kofi.private](/_private/Society/Politics/Diplomacy/Diplomat/Annan,Kofi.private.md) 
+### #is_/same_as :: [[/_private/Society/Politics/Diplomacy/Diplomat/Annan,Kofi.private|Annan,Kofi.private]] 
 
-### #is_/same_as :: [Annan,Kofi.personal](/_personal/Society/Politics/Diplomacy/Diplomat/Annan,Kofi.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Politics/Diplomacy/Diplomat/Annan,Kofi.personal|Annan,Kofi.personal]] 
 
-### #is_/same_as :: [Annan,Kofi.secret](/_secret/Society/Politics/Diplomacy/Diplomat/Annan,Kofi.secret.md)
+### #is_/same_as :: [[/_secret/Society/Politics/Diplomacy/Diplomat/Annan,Kofi.secret|Annan,Kofi.secret]] 
 

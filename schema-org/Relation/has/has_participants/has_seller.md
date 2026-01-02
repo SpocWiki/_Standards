@@ -47,17 +47,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_seller](has_seller.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_participants/has_seller|has_seller]] 
 
-### #is_/same_as :: [has_seller.public](/_public/schema-org/Relation/has/has_seller.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_participants/has_seller.public|has_seller.public]] 
 
-### #is_/same_as :: [has_seller.internal](/_internal/schema-org/Relation/has/has_seller.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_participants/has_seller.internal|has_seller.internal]] 
 
-### #is_/same_as :: [has_seller.protect](/_protect/schema-org/Relation/has/has_seller.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_participants/has_seller.protect|has_seller.protect]] 
 
-### #is_/same_as :: [has_seller.private](/_private/schema-org/Relation/has/has_seller.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_participants/has_seller.private|has_seller.private]] 
 
-### #is_/same_as :: [has_seller.personal](/_personal/schema-org/Relation/has/has_seller.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_participants/has_seller.personal|has_seller.personal]] 
 
-### #is_/same_as :: [has_seller.secret](/_secret/schema-org/Relation/has/has_seller.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_participants/has_seller.secret|has_seller.secret]] 
 

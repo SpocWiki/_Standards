@@ -134,17 +134,17 @@ ZVG_number: 7410
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Niobium](/_Standards/Chemistry/Chemical_Element/Group-05-Vanadium/Niobium.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Chemical_Element/Group-05-Vanadium/Niobium|Niobium]] 
 
-### #is_/same_as :: [Niobium.public](/_public/Chemistry/Chemical_Element/Group-05-Vanadium/Niobium.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Chemical_Element/Group-05-Vanadium/Niobium.public|Niobium.public]] 
 
-### #is_/same_as :: [Niobium.internal](/_internal/Chemistry/Chemical_Element/Group-05-Vanadium/Niobium.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Chemical_Element/Group-05-Vanadium/Niobium.internal|Niobium.internal]] 
 
-### #is_/same_as :: [Niobium.protect](/_protect/Chemistry/Chemical_Element/Group-05-Vanadium/Niobium.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Chemical_Element/Group-05-Vanadium/Niobium.protect|Niobium.protect]] 
 
-### #is_/same_as :: [Niobium.private](/_private/Chemistry/Chemical_Element/Group-05-Vanadium/Niobium.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Chemical_Element/Group-05-Vanadium/Niobium.private|Niobium.private]] 
 
-### #is_/same_as :: [Niobium.personal](/_personal/Chemistry/Chemical_Element/Group-05-Vanadium/Niobium.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Chemical_Element/Group-05-Vanadium/Niobium.personal|Niobium.personal]] 
 
-### #is_/same_as :: [Niobium.secret](/_secret/Chemistry/Chemical_Element/Group-05-Vanadium/Niobium.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Chemical_Element/Group-05-Vanadium/Niobium.secret|Niobium.secret]] 
 

@@ -8,17 +8,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Canadian_Actor](/_Standards/Society/Communication/Media/Movie/Actor/Canadian_Actor.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Actor/Canadian_Actor|Canadian_Actor]] 
 
-### #is_/same_as :: [Canadian_Actor.public](/_public/Society/Communication/Media/Movie/Actor/Canadian_Actor.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Actor/Canadian_Actor.public|Canadian_Actor.public]] 
 
-### #is_/same_as :: [Canadian_Actor.internal](/_internal/Society/Communication/Media/Movie/Actor/Canadian_Actor.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Actor/Canadian_Actor.internal|Canadian_Actor.internal]] 
 
-### #is_/same_as :: [Canadian_Actor.protect](/_protect/Society/Communication/Media/Movie/Actor/Canadian_Actor.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Actor/Canadian_Actor.protect|Canadian_Actor.protect]] 
 
-### #is_/same_as :: [Canadian_Actor.private](/_private/Society/Communication/Media/Movie/Actor/Canadian_Actor.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Actor/Canadian_Actor.private|Canadian_Actor.private]] 
 
-### #is_/same_as :: [Canadian_Actor.personal](/_personal/Society/Communication/Media/Movie/Actor/Canadian_Actor.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Actor/Canadian_Actor.personal|Canadian_Actor.personal]] 
 
-### #is_/same_as :: [Canadian_Actor.secret](/_secret/Society/Communication/Media/Movie/Actor/Canadian_Actor.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Actor/Canadian_Actor.secret|Canadian_Actor.secret]] 
 

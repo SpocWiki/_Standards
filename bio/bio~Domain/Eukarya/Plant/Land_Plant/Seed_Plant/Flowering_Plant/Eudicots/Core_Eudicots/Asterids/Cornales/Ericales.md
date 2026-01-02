@@ -73,7 +73,7 @@ taxon_common_name: 杜鹃花目
 
 
 --------------------------------------------------------------------- 
-![Cornish heath, Erica vagans](Ericales/Erica_vagans.jpg))
+![Cornish heath, Erica vagans](Ericales/Erica_vagans.jpg) 
 Scientific Name ::  Erica vagans
 Comments          Cornish heath (Ericaceae)
 Copyright ::         © [Kurt Stüber](http://www.biolib.de/) 
@@ -88,7 +88,7 @@ Source Collection    [CalPhotos](http://calphotos.berkeley.edu/)
 Copyright ::            © 2000 [Nick Kurzenko](mailto:kurzenko@ibss.dvo.ru) 
 
 --------------------- 
-![Pitcher plant, Sarracenia alabamensis](Ericales/Sarracenia_alabamensis.jpg))
+![Pitcher plant, Sarracenia alabamensis](Ericales/Sarracenia_alabamensis.jpg) 
 Scientific Name ::     Sarracenia alabamensis
 Location ::           Near Selma (Alabama, USA)
 Comments             Pitcher plant (Sarraceniaceae)
@@ -99,17 +99,17 @@ Copyright ::            © 2001 [Barry Meyers-Rice](mailto:bamrice@ucdavis.edu)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ericales](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Cornales/Ericales.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Cornales/Ericales|Ericales]] 
 
-### #is_/same_as :: [Ericales.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Cornales/Ericales.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Cornales/Ericales.public|Ericales.public]] 
 
-### #is_/same_as :: [Ericales.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Cornales/Ericales.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Cornales/Ericales.internal|Ericales.internal]] 
 
-### #is_/same_as :: [Ericales.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Cornales/Ericales.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Cornales/Ericales.protect|Ericales.protect]] 
 
-### #is_/same_as :: [Ericales.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Cornales/Ericales.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Cornales/Ericales.private|Ericales.private]] 
 
-### #is_/same_as :: [Ericales.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Cornales/Ericales.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Cornales/Ericales.personal|Ericales.personal]] 
 
-### #is_/same_as :: [Ericales.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Cornales/Ericales.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Cornales/Ericales.secret|Ericales.secret]] 
 

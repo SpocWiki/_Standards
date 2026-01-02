@@ -39,17 +39,17 @@ Beach.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Beach](/_Standards/Earth/Geography/Place/Civic_Structure/Beach.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geography/Place/Civic_Structure/Beach|Beach]] 
 
-### #is_/same_as :: [Beach.public](/_public/Earth/Geography/Place/Civic_Structure/Beach.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geography/Place/Civic_Structure/Beach.public|Beach.public]] 
 
-### #is_/same_as :: [Beach.internal](/_internal/Earth/Geography/Place/Civic_Structure/Beach.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geography/Place/Civic_Structure/Beach.internal|Beach.internal]] 
 
-### #is_/same_as :: [Beach.protect](/_protect/Earth/Geography/Place/Civic_Structure/Beach.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geography/Place/Civic_Structure/Beach.protect|Beach.protect]] 
 
-### #is_/same_as :: [Beach.private](/_private/Earth/Geography/Place/Civic_Structure/Beach.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geography/Place/Civic_Structure/Beach.private|Beach.private]] 
 
-### #is_/same_as :: [Beach.personal](/_personal/Earth/Geography/Place/Civic_Structure/Beach.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geography/Place/Civic_Structure/Beach.personal|Beach.personal]] 
 
-### #is_/same_as :: [Beach.secret](/_secret/Earth/Geography/Place/Civic_Structure/Beach.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geography/Place/Civic_Structure/Beach.secret|Beach.secret]] 
 

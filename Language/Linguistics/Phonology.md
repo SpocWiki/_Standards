@@ -48,17 +48,17 @@ Commons_category: Phonology
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Phonology](/_Standards/Language/Linguistics/Phonology.md) 
+### #is_/same_as :: [[/_Standards/Language/Linguistics/Phonology|Phonology]] 
 
-### #is_/same_as :: [Phonology.public](/_public/Language/Linguistics/Phonology.public.md) 
+### #is_/same_as :: [[/_public/Language/Linguistics/Phonology.public|Phonology.public]] 
 
-### #is_/same_as :: [Phonology.internal](/_internal/Language/Linguistics/Phonology.internal.md) 
+### #is_/same_as :: [[/_internal/Language/Linguistics/Phonology.internal|Phonology.internal]] 
 
-### #is_/same_as :: [Phonology.protect](/_protect/Language/Linguistics/Phonology.protect.md) 
+### #is_/same_as :: [[/_protect/Language/Linguistics/Phonology.protect|Phonology.protect]] 
 
-### #is_/same_as :: [Phonology.private](/_private/Language/Linguistics/Phonology.private.md) 
+### #is_/same_as :: [[/_private/Language/Linguistics/Phonology.private|Phonology.private]] 
 
-### #is_/same_as :: [Phonology.personal](/_personal/Language/Linguistics/Phonology.personal.md) 
+### #is_/same_as :: [[/_personal/Language/Linguistics/Phonology.personal|Phonology.personal]] 
 
-### #is_/same_as :: [Phonology.secret](/_secret/Language/Linguistics/Phonology.secret.md)
+### #is_/same_as :: [[/_secret/Language/Linguistics/Phonology.secret|Phonology.secret]] 
 

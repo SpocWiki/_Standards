@@ -43,17 +43,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_value_for_saturated_fat_in_gram](/_Standards/schema-org/Property/has_value_for/has_value_for_saturated_fat_in_gram.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_value_for/has_value_for_saturated_fat_in_gram|has_value_for_saturated_fat_in_gram]] 
 
-### #is_/same_as :: [has_value_for_saturated_fat_in_gram.public](/_public/schema-org/Property/has_value_for/has_value_for_saturated_fat_in_gram.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/has_value_for/has_value_for_saturated_fat_in_gram.public|has_value_for_saturated_fat_in_gram.public]] 
 
-### #is_/same_as :: [has_value_for_saturated_fat_in_gram.internal](/_internal/schema-org/Property/has_value_for/has_value_for_saturated_fat_in_gram.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_value_for/has_value_for_saturated_fat_in_gram.internal|has_value_for_saturated_fat_in_gram.internal]] 
 
-### #is_/same_as :: [has_value_for_saturated_fat_in_gram.protect](/_protect/schema-org/Property/has_value_for/has_value_for_saturated_fat_in_gram.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_value_for/has_value_for_saturated_fat_in_gram.protect|has_value_for_saturated_fat_in_gram.protect]] 
 
-### #is_/same_as :: [has_value_for_saturated_fat_in_gram.private](/_private/schema-org/Property/has_value_for/has_value_for_saturated_fat_in_gram.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/has_value_for/has_value_for_saturated_fat_in_gram.private|has_value_for_saturated_fat_in_gram.private]] 
 
-### #is_/same_as :: [has_value_for_saturated_fat_in_gram.personal](/_personal/schema-org/Property/has_value_for/has_value_for_saturated_fat_in_gram.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_value_for/has_value_for_saturated_fat_in_gram.personal|has_value_for_saturated_fat_in_gram.personal]] 
 
-### #is_/same_as :: [has_value_for_saturated_fat_in_gram.secret](/_secret/schema-org/Property/has_value_for/has_value_for_saturated_fat_in_gram.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/has_value_for/has_value_for_saturated_fat_in_gram.secret|has_value_for_saturated_fat_in_gram.secret]] 
 

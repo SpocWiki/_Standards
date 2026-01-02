@@ -62,17 +62,17 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Age~3~Thanetian](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene/Epoch~1~Paleocene/Age~3~Thanetian.md) 
+### #is_/same_as :: [[/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene/Epoch~1~Paleocene/Age~3~Thanetian|Age~3~Thanetian]] 
 
-### #is_/same_as :: [Age~3~Thanetian.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene/Epoch~1~Paleocene/Age~3~Thanetian.public.md) 
+### #is_/same_as :: [[/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene/Epoch~1~Paleocene/Age~3~Thanetian.public|Age~3~Thanetian.public]] 
 
-### #is_/same_as :: [Age~3~Thanetian.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene/Epoch~1~Paleocene/Age~3~Thanetian.internal.md) 
+### #is_/same_as :: [[/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene/Epoch~1~Paleocene/Age~3~Thanetian.internal|Age~3~Thanetian.internal]] 
 
-### #is_/same_as :: [Age~3~Thanetian.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene/Epoch~1~Paleocene/Age~3~Thanetian.protect.md) 
+### #is_/same_as :: [[/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene/Epoch~1~Paleocene/Age~3~Thanetian.protect|Age~3~Thanetian.protect]] 
 
-### #is_/same_as :: [Age~3~Thanetian.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene/Epoch~1~Paleocene/Age~3~Thanetian.private.md) 
+### #is_/same_as :: [[/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene/Epoch~1~Paleocene/Age~3~Thanetian.private|Age~3~Thanetian.private]] 
 
-### #is_/same_as :: [Age~3~Thanetian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene/Epoch~1~Paleocene/Age~3~Thanetian.personal.md) 
+### #is_/same_as :: [[/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene/Epoch~1~Paleocene/Age~3~Thanetian.personal|Age~3~Thanetian.personal]] 
 
-### #is_/same_as :: [Age~3~Thanetian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene/Epoch~1~Paleocene/Age~3~Thanetian.secret.md)
+### #is_/same_as :: [[/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene/Epoch~1~Paleocene/Age~3~Thanetian.secret|Age~3~Thanetian.secret]] 
 

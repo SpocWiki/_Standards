@@ -62,17 +62,17 @@ used_by: '[[_Standards/WikiData/WD~swordfighter,11397897]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sword](/_Standards/Society/Military/Military_Engineering/Weapon/Sword.md) 
+### #is_/same_as :: [[/_Standards/Society/Military/Military_Engineering/Weapon/Sword|Sword]] 
 
-### #is_/same_as :: [Sword.public](/_public/Society/Military/Military_Engineering/Weapon/Sword.public.md) 
+### #is_/same_as :: [[/_public/Society/Military/Military_Engineering/Weapon/Sword.public|Sword.public]] 
 
-### #is_/same_as :: [Sword.internal](/_internal/Society/Military/Military_Engineering/Weapon/Sword.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Military/Military_Engineering/Weapon/Sword.internal|Sword.internal]] 
 
-### #is_/same_as :: [Sword.protect](/_protect/Society/Military/Military_Engineering/Weapon/Sword.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Military/Military_Engineering/Weapon/Sword.protect|Sword.protect]] 
 
-### #is_/same_as :: [Sword.private](/_private/Society/Military/Military_Engineering/Weapon/Sword.private.md) 
+### #is_/same_as :: [[/_private/Society/Military/Military_Engineering/Weapon/Sword.private|Sword.private]] 
 
-### #is_/same_as :: [Sword.personal](/_personal/Society/Military/Military_Engineering/Weapon/Sword.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Military/Military_Engineering/Weapon/Sword.personal|Sword.personal]] 
 
-### #is_/same_as :: [Sword.secret](/_secret/Society/Military/Military_Engineering/Weapon/Sword.secret.md)
+### #is_/same_as :: [[/_secret/Society/Military/Military_Engineering/Weapon/Sword.secret|Sword.secret]] 
 

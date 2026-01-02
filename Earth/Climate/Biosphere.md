@@ -46,17 +46,17 @@ Krugosvet_article: nauka_i_tehnika/biologiya/BIOSFERA.html
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Biosphere](/_Standards/Earth/Climate/Biosphere.md) 
+### #is_/same_as :: [[/_Standards/Earth/Climate/Biosphere|Biosphere]] 
 
-### #is_/same_as :: [Biosphere.public](/_public/Earth/Climate/Biosphere.public.md) 
+### #is_/same_as :: [[/_public/Earth/Climate/Biosphere.public|Biosphere.public]] 
 
-### #is_/same_as :: [Biosphere.internal](/_internal/Earth/Climate/Biosphere.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Climate/Biosphere.internal|Biosphere.internal]] 
 
-### #is_/same_as :: [Biosphere.protect](/_protect/Earth/Climate/Biosphere.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Climate/Biosphere.protect|Biosphere.protect]] 
 
-### #is_/same_as :: [Biosphere.private](/_private/Earth/Climate/Biosphere.private.md) 
+### #is_/same_as :: [[/_private/Earth/Climate/Biosphere.private|Biosphere.private]] 
 
-### #is_/same_as :: [Biosphere.personal](/_personal/Earth/Climate/Biosphere.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Climate/Biosphere.personal|Biosphere.personal]] 
 
-### #is_/same_as :: [Biosphere.secret](/_secret/Earth/Climate/Biosphere.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Climate/Biosphere.secret|Biosphere.secret]] 
 

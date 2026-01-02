@@ -120,17 +120,17 @@ ZVG_number: 8260
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Gallium](/_Standards/Chemistry/Chemical_Element/Group-13-Boron/Gallium.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Chemical_Element/Group-13-Boron/Gallium|Gallium]] 
 
-### #is_/same_as :: [Gallium.public](/_public/Chemistry/Chemical_Element/Group-13-Boron/Gallium.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Chemical_Element/Group-13-Boron/Gallium.public|Gallium.public]] 
 
-### #is_/same_as :: [Gallium.internal](/_internal/Chemistry/Chemical_Element/Group-13-Boron/Gallium.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Chemical_Element/Group-13-Boron/Gallium.internal|Gallium.internal]] 
 
-### #is_/same_as :: [Gallium.protect](/_protect/Chemistry/Chemical_Element/Group-13-Boron/Gallium.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Chemical_Element/Group-13-Boron/Gallium.protect|Gallium.protect]] 
 
-### #is_/same_as :: [Gallium.private](/_private/Chemistry/Chemical_Element/Group-13-Boron/Gallium.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Chemical_Element/Group-13-Boron/Gallium.private|Gallium.private]] 
 
-### #is_/same_as :: [Gallium.personal](/_personal/Chemistry/Chemical_Element/Group-13-Boron/Gallium.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Chemical_Element/Group-13-Boron/Gallium.personal|Gallium.personal]] 
 
-### #is_/same_as :: [Gallium.secret](/_secret/Chemistry/Chemical_Element/Group-13-Boron/Gallium.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Chemical_Element/Group-13-Boron/Gallium.secret|Gallium.secret]] 
 

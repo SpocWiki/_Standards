@@ -150,17 +150,17 @@ CYT_CCS: AC000004889
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Steven_Chu](/_Standards/Science/Physics/Physicist/Steven_Chu.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Physicist/Steven_Chu|Steven_Chu]] 
 
-### #is_/same_as :: [Steven_Chu.public](/_public/Science/Physics/Physicist/Steven_Chu.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Physicist/Steven_Chu.public|Steven_Chu.public]] 
 
-### #is_/same_as :: [Steven_Chu.internal](/_internal/Science/Physics/Physicist/Steven_Chu.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Physicist/Steven_Chu.internal|Steven_Chu.internal]] 
 
-### #is_/same_as :: [Steven_Chu.protect](/_protect/Science/Physics/Physicist/Steven_Chu.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Physicist/Steven_Chu.protect|Steven_Chu.protect]] 
 
-### #is_/same_as :: [Steven_Chu.private](/_private/Science/Physics/Physicist/Steven_Chu.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Physicist/Steven_Chu.private|Steven_Chu.private]] 
 
-### #is_/same_as :: [Steven_Chu.personal](/_personal/Science/Physics/Physicist/Steven_Chu.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Physicist/Steven_Chu.personal|Steven_Chu.personal]] 
 
-### #is_/same_as :: [Steven_Chu.secret](/_secret/Science/Physics/Physicist/Steven_Chu.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Physicist/Steven_Chu.secret|Steven_Chu.secret]] 
 

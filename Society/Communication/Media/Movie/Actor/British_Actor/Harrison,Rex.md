@@ -42,17 +42,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Harrison,Rex](/_Standards/Society/Communication/Media/Movie/Actor/British_Actor/Harrison,Rex.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Actor/British_Actor/Harrison,Rex|Harrison,Rex]] 
 
-### #is_/same_as :: [Harrison,Rex.public](/_public/Society/Communication/Media/Movie/Actor/British_Actor/Harrison,Rex.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Actor/British_Actor/Harrison,Rex.public|Harrison,Rex.public]] 
 
-### #is_/same_as :: [Harrison,Rex.internal](/_internal/Society/Communication/Media/Movie/Actor/British_Actor/Harrison,Rex.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Actor/British_Actor/Harrison,Rex.internal|Harrison,Rex.internal]] 
 
-### #is_/same_as :: [Harrison,Rex.protect](/_protect/Society/Communication/Media/Movie/Actor/British_Actor/Harrison,Rex.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Actor/British_Actor/Harrison,Rex.protect|Harrison,Rex.protect]] 
 
-### #is_/same_as :: [Harrison,Rex.private](/_private/Society/Communication/Media/Movie/Actor/British_Actor/Harrison,Rex.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Actor/British_Actor/Harrison,Rex.private|Harrison,Rex.private]] 
 
-### #is_/same_as :: [Harrison,Rex.personal](/_personal/Society/Communication/Media/Movie/Actor/British_Actor/Harrison,Rex.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Actor/British_Actor/Harrison,Rex.personal|Harrison,Rex.personal]] 
 
-### #is_/same_as :: [Harrison,Rex.secret](/_secret/Society/Communication/Media/Movie/Actor/British_Actor/Harrison,Rex.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Actor/British_Actor/Harrison,Rex.secret|Harrison,Rex.secret]] 
 

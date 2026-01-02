@@ -37,17 +37,17 @@ subclass_of: '[[_Standards/WikiData/WD~formula,976981]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Equation](/_Standards/Mathematics/Equation.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Equation|Equation]] 
 
-### #is_/same_as :: [Equation.public](/_public/Mathematics/Equation.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Equation.public|Equation.public]] 
 
-### #is_/same_as :: [Equation.internal](/_internal/Mathematics/Equation.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Equation.internal|Equation.internal]] 
 
-### #is_/same_as :: [Equation.protect](/_protect/Mathematics/Equation.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Equation.protect|Equation.protect]] 
 
-### #is_/same_as :: [Equation.private](/_private/Mathematics/Equation.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Equation.private|Equation.private]] 
 
-### #is_/same_as :: [Equation.personal](/_personal/Mathematics/Equation.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Equation.personal|Equation.personal]] 
 
-### #is_/same_as :: [Equation.secret](/_secret/Mathematics/Equation.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Equation.secret|Equation.secret]] 
 

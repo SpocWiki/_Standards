@@ -44,17 +44,17 @@ Indicated that creating a return label is the responsibility of the customer.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Return_Label_Customer_Responsibility](/_Standards/schema-org/Enumeration/Return_Label_Source_Enumeration/Return_Label_Customer_Responsibility.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Return_Label_Source_Enumeration/Return_Label_Customer_Responsibility|Return_Label_Customer_Responsibility]] 
 
-### #is_/same_as :: [Return_Label_Customer_Responsibility.public](/_public/schema-org/Enumeration/Return_Label_Source_Enumeration/Return_Label_Customer_Responsibility.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Return_Label_Source_Enumeration/Return_Label_Customer_Responsibility.public|Return_Label_Customer_Responsibility.public]] 
 
-### #is_/same_as :: [Return_Label_Customer_Responsibility.internal](/_internal/schema-org/Enumeration/Return_Label_Source_Enumeration/Return_Label_Customer_Responsibility.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Return_Label_Source_Enumeration/Return_Label_Customer_Responsibility.internal|Return_Label_Customer_Responsibility.internal]] 
 
-### #is_/same_as :: [Return_Label_Customer_Responsibility.protect](/_protect/schema-org/Enumeration/Return_Label_Source_Enumeration/Return_Label_Customer_Responsibility.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Return_Label_Source_Enumeration/Return_Label_Customer_Responsibility.protect|Return_Label_Customer_Responsibility.protect]] 
 
-### #is_/same_as :: [Return_Label_Customer_Responsibility.private](/_private/schema-org/Enumeration/Return_Label_Source_Enumeration/Return_Label_Customer_Responsibility.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Return_Label_Source_Enumeration/Return_Label_Customer_Responsibility.private|Return_Label_Customer_Responsibility.private]] 
 
-### #is_/same_as :: [Return_Label_Customer_Responsibility.personal](/_personal/schema-org/Enumeration/Return_Label_Source_Enumeration/Return_Label_Customer_Responsibility.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Return_Label_Source_Enumeration/Return_Label_Customer_Responsibility.personal|Return_Label_Customer_Responsibility.personal]] 
 
-### #is_/same_as :: [Return_Label_Customer_Responsibility.secret](/_secret/schema-org/Enumeration/Return_Label_Source_Enumeration/Return_Label_Customer_Responsibility.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Return_Label_Source_Enumeration/Return_Label_Customer_Responsibility.secret|Return_Label_Customer_Responsibility.secret]] 
 

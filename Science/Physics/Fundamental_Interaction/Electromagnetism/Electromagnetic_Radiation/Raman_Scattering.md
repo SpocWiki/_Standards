@@ -38,17 +38,17 @@ Commons_category: Raman spectroscopy
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Raman_Scattering](/_Standards/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Raman_Scattering.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Raman_Scattering|Raman_Scattering]] 
 
-### #is_/same_as :: [Raman_Scattering.public](/_public/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Raman_Scattering.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Raman_Scattering.public|Raman_Scattering.public]] 
 
-### #is_/same_as :: [Raman_Scattering.internal](/_internal/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Raman_Scattering.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Raman_Scattering.internal|Raman_Scattering.internal]] 
 
-### #is_/same_as :: [Raman_Scattering.protect](/_protect/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Raman_Scattering.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Raman_Scattering.protect|Raman_Scattering.protect]] 
 
-### #is_/same_as :: [Raman_Scattering.private](/_private/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Raman_Scattering.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Raman_Scattering.private|Raman_Scattering.private]] 
 
-### #is_/same_as :: [Raman_Scattering.personal](/_personal/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Raman_Scattering.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Raman_Scattering.personal|Raman_Scattering.personal]] 
 
-### #is_/same_as :: [Raman_Scattering.secret](/_secret/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Raman_Scattering.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Raman_Scattering.secret|Raman_Scattering.secret]] 
 

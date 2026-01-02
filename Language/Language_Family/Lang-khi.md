@@ -49,17 +49,17 @@ distribution_map: http://commons.wikimedia.org/wiki/Special:FilePath/Khoi-San.pn
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lang-khi](/_Standards/Language/Language_Family/Lang-khi.md) 
+### #is_/same_as :: [[/_Standards/Language/Language_Family/Lang-khi|Lang-khi]] 
 
-### #is_/same_as :: [Lang-khi.public](/_public/Language/Language_Family/Lang-khi.public.md) 
+### #is_/same_as :: [[/_public/Language/Language_Family/Lang-khi.public|Lang-khi.public]] 
 
-### #is_/same_as :: [Lang-khi.internal](/_internal/Language/Language_Family/Lang-khi.internal.md) 
+### #is_/same_as :: [[/_internal/Language/Language_Family/Lang-khi.internal|Lang-khi.internal]] 
 
-### #is_/same_as :: [Lang-khi.protect](/_protect/Language/Language_Family/Lang-khi.protect.md) 
+### #is_/same_as :: [[/_protect/Language/Language_Family/Lang-khi.protect|Lang-khi.protect]] 
 
-### #is_/same_as :: [Lang-khi.private](/_private/Language/Language_Family/Lang-khi.private.md) 
+### #is_/same_as :: [[/_private/Language/Language_Family/Lang-khi.private|Lang-khi.private]] 
 
-### #is_/same_as :: [Lang-khi.personal](/_personal/Language/Language_Family/Lang-khi.personal.md) 
+### #is_/same_as :: [[/_personal/Language/Language_Family/Lang-khi.personal|Lang-khi.personal]] 
 
-### #is_/same_as :: [Lang-khi.secret](/_secret/Language/Language_Family/Lang-khi.secret.md)
+### #is_/same_as :: [[/_secret/Language/Language_Family/Lang-khi.secret|Lang-khi.secret]] 
 

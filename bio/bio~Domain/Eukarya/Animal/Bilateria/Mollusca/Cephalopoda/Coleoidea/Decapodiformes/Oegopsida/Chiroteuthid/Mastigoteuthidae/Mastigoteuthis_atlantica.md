@@ -8,7 +8,7 @@ title: Mastigoteuthis atlantica
 # *Mastigoteuthis atlantica* [Joubin, 1933] 
 
 [Michael Vecchione and Richard E. Young]()
-![ ](Mastigoteuthis_atlantica/MastAtlantica.jpg))
+![ ](Mastigoteuthis_atlantica/MastAtlantica.jpg) 
 
 Containing group:[Mastigoteuthidae](../Mastigoteuthidae.md) 
 
@@ -104,7 +104,7 @@ new series, 13: 1-49.
 
 ## Title Illustrations
 
-![](Mastigoteuthis_atlantica/MastAtlantica.jpg))
+![](Mastigoteuthis_atlantica/MastAtlantica.jpg) 
 
   ---------------------------------------------------------
   Scientific Name ::  Mastigoteuthis atlantica
@@ -117,17 +117,17 @@ new series, 13: 1-49.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Mastigoteuthis_atlantica](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Mastigoteuthidae/Mastigoteuthis_atlantica.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Mastigoteuthidae/Mastigoteuthis_atlantica|Mastigoteuthis_atlantica]] 
 
-### #is_/same_as :: [Mastigoteuthis_atlantica.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Mastigoteuthidae/Mastigoteuthis_atlantica.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Mastigoteuthidae/Mastigoteuthis_atlantica.public|Mastigoteuthis_atlantica.public]] 
 
-### #is_/same_as :: [Mastigoteuthis_atlantica.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Mastigoteuthidae/Mastigoteuthis_atlantica.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Mastigoteuthidae/Mastigoteuthis_atlantica.internal|Mastigoteuthis_atlantica.internal]] 
 
-### #is_/same_as :: [Mastigoteuthis_atlantica.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Mastigoteuthidae/Mastigoteuthis_atlantica.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Mastigoteuthidae/Mastigoteuthis_atlantica.protect|Mastigoteuthis_atlantica.protect]] 
 
-### #is_/same_as :: [Mastigoteuthis_atlantica.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Mastigoteuthidae/Mastigoteuthis_atlantica.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Mastigoteuthidae/Mastigoteuthis_atlantica.private|Mastigoteuthis_atlantica.private]] 
 
-### #is_/same_as :: [Mastigoteuthis_atlantica.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Mastigoteuthidae/Mastigoteuthis_atlantica.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Mastigoteuthidae/Mastigoteuthis_atlantica.personal|Mastigoteuthis_atlantica.personal]] 
 
-### #is_/same_as :: [Mastigoteuthis_atlantica.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Mastigoteuthidae/Mastigoteuthis_atlantica.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Mastigoteuthidae/Mastigoteuthis_atlantica.secret|Mastigoteuthis_atlantica.secret]] 
 

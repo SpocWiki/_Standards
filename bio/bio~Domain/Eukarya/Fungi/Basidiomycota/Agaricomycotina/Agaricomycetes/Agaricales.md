@@ -29,7 +29,7 @@ title: Agaricales
 # Agaricales 
 
 [Brandon Matheny, Jean-Marc Moncalvo, and Scott A. Redhead]()
-![ ](Agaricales/gymnopilus_spectabilis.jpg))![](Agaricales/lycoperdon_perlatum1.jpg))
+![ ](Agaricales/gymnopilus_spectabilis.jpg))![](Agaricales/lycoperdon_perlatum1.jpg) 
 ![ ](Agaricales/squamanita_paradoxa.jpg)
 
 Relationships after Binder, Matheny & Hibbett (unpublished data),
@@ -89,7 +89,7 @@ are highly valuable commercial or collected foods. Psychotropic or
 hallucinogenic mushrooms of *Psilocybe* and other genera also occur in
 the Agaricales, and others, as in some species of *Amanita*, produce
 toxins lethal to humans.
-![ ](Agaricales/termitomyces_aanen2.jpg))
+![ ](Agaricales/termitomyces_aanen2.jpg) 
 
  A sample of different nutritional modes among Agaricales. Left:
 Ectomycorrizal (EM) habitat in Karri (*Eucalyptus diversicolor*) forest
@@ -130,7 +130,7 @@ to delimit higher-level monophyletic groups with multiple gene data sets
 placed in the order by molecular phylogenetic analyses.
 
 ### Characteristics
-![ ](Agaricales/tol_sem_clitopilusprunulus.jpg))
+![ ](Agaricales/tol_sem_clitopilusprunulus.jpg) 
 
 Scanning electron microscopic (SEM) images of basidiospores of
 Agaricales. Left: Spinose basidiospore of *Inocybe calospora*
@@ -162,7 +162,7 @@ false truffles have likely evolved from lamellate ancestors, as have
 some species producing club-shaped (clavarioid) basidiomes. It remains
 unclear whether the most recent common ancestor of the Agaricales was
 gilled (Matheny et al. 2006).
-![ ](Agaricales/cylindrobas.jpg))
+![ ](Agaricales/cylindrobas.jpg) 
 
 Examples of non-gilled fruit body forms in the Agaricales. Left:
 Clavarioid fruit bodies of *Clavulinopsis fusiformis* (Clavariaceae s.
@@ -257,7 +257,7 @@ relationships between the *pluteoid* clade and families Amanitaceae and
 Pleurotaceae were not strongly supported by Bayesian or parsimony
 multigene analyses and require further investigation, hence, these
 families are shown in unresolved positions.
-![ ](Agaricales/3162516_40b7e34e38_b.jpg))
+![ ](Agaricales/3162516_40b7e34e38_b.jpg) 
 
 Gilled fruitbodies. Left: *Gliophorus laetus* (Hygrophoraceae s. lat.).
 © [Brandon Matheny](http://www.clarku.edu/faculty/dhibbett/people_matheny.html).
@@ -434,7 +434,7 @@ of conidiogenesis modes in the gilled Agaricales. Mycol. Res. 109:
 
 ## Title Illustrations
 
-![](Agaricales/gymnopilus_spectabilis.jpg))
+![](Agaricales/gymnopilus_spectabilis.jpg) 
 
   -----------------
   Scientific Name ::     Gymnopilus spectabilis
@@ -444,7 +444,7 @@ of conidiogenesis modes in the gilled Agaricales. Mycol. Res. 109:
   Source Collection    [MykoWeb](http://www.mykoweb.com/)
   Copyright ::            © [Mike Wood](http://www.mykoweb.com/)
   -----------------
-![](Agaricales/lycoperdon_perlatum1.jpg))
+![](Agaricales/lycoperdon_perlatum1.jpg) 
 
   -------------------------------------------------------------------------
   Scientific Name ::     Lycoperdon perlatum
@@ -455,7 +455,7 @@ of conidiogenesis modes in the gilled Agaricales. Mycol. Res. 109:
   Copyright ::            © [Taylor F. Lockwood](http://www.fungiphoto.com/) 
  
   -------------------------------------------------------------------------
-![](Agaricales/squamanita_paradoxa.jpg))
+![](Agaricales/squamanita_paradoxa.jpg) 
 
   -----------------------------------------------
   Scientific Name ::     Squamanita paradoxa
@@ -468,17 +468,17 @@ of conidiogenesis modes in the gilled Agaricales. Mycol. Res. 109:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Agaricales](/_Standards/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Agaricomycotina/Agaricomycetes/Agaricales.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Agaricomycotina/Agaricomycetes/Agaricales|Agaricales]] 
 
-### #is_/same_as :: [Agaricales.public](/_public/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Agaricomycotina/Agaricomycetes/Agaricales.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Agaricomycotina/Agaricomycetes/Agaricales.public|Agaricales.public]] 
 
-### #is_/same_as :: [Agaricales.internal](/_internal/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Agaricomycotina/Agaricomycetes/Agaricales.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Agaricomycotina/Agaricomycetes/Agaricales.internal|Agaricales.internal]] 
 
-### #is_/same_as :: [Agaricales.protect](/_protect/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Agaricomycotina/Agaricomycetes/Agaricales.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Agaricomycotina/Agaricomycetes/Agaricales.protect|Agaricales.protect]] 
 
-### #is_/same_as :: [Agaricales.private](/_private/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Agaricomycotina/Agaricomycetes/Agaricales.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Agaricomycotina/Agaricomycetes/Agaricales.private|Agaricales.private]] 
 
-### #is_/same_as :: [Agaricales.personal](/_personal/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Agaricomycotina/Agaricomycetes/Agaricales.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Agaricomycotina/Agaricomycetes/Agaricales.personal|Agaricales.personal]] 
 
-### #is_/same_as :: [Agaricales.secret](/_secret/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Agaricomycotina/Agaricomycetes/Agaricales.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Agaricomycotina/Agaricomycetes/Agaricales.secret|Agaricales.secret]] 
 

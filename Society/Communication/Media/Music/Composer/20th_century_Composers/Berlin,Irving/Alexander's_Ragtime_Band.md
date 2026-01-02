@@ -48,17 +48,17 @@ publication_date: 1911-01-01T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Alexander's_Ragtime_Band](/_Standards/Society/Communication/Media/Music/Composer/20th_century_Composers/Berlin,Irving/Alexander's_Ragtime_Band.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Composer/20th_century_Composers/Berlin,Irving/Alexander's_Ragtime_Band|Alexander's_Ragtime_Band]] 
 
-### #is_/same_as :: [Alexander's_Ragtime_Band.public](/_public/Society/Communication/Media/Music/Composer/20th_century_Composers/Berlin,Irving/Alexander's_Ragtime_Band.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Composer/20th_century_Composers/Berlin,Irving/Alexander's_Ragtime_Band.public|Alexander's_Ragtime_Band.public]] 
 
-### #is_/same_as :: [Alexander's_Ragtime_Band.internal](/_internal/Society/Communication/Media/Music/Composer/20th_century_Composers/Berlin,Irving/Alexander's_Ragtime_Band.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Composer/20th_century_Composers/Berlin,Irving/Alexander's_Ragtime_Band.internal|Alexander's_Ragtime_Band.internal]] 
 
-### #is_/same_as :: [Alexander's_Ragtime_Band.protect](/_protect/Society/Communication/Media/Music/Composer/20th_century_Composers/Berlin,Irving/Alexander's_Ragtime_Band.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Composer/20th_century_Composers/Berlin,Irving/Alexander's_Ragtime_Band.protect|Alexander's_Ragtime_Band.protect]] 
 
-### #is_/same_as :: [Alexander's_Ragtime_Band.private](/_private/Society/Communication/Media/Music/Composer/20th_century_Composers/Berlin,Irving/Alexander's_Ragtime_Band.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Composer/20th_century_Composers/Berlin,Irving/Alexander's_Ragtime_Band.private|Alexander's_Ragtime_Band.private]] 
 
-### #is_/same_as :: [Alexander's_Ragtime_Band.personal](/_personal/Society/Communication/Media/Music/Composer/20th_century_Composers/Berlin,Irving/Alexander's_Ragtime_Band.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Composer/20th_century_Composers/Berlin,Irving/Alexander's_Ragtime_Band.personal|Alexander's_Ragtime_Band.personal]] 
 
-### #is_/same_as :: [Alexander's_Ragtime_Band.secret](/_secret/Society/Communication/Media/Music/Composer/20th_century_Composers/Berlin,Irving/Alexander's_Ragtime_Band.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Composer/20th_century_Composers/Berlin,Irving/Alexander's_Ragtime_Band.secret|Alexander's_Ragtime_Band.secret]] 
 

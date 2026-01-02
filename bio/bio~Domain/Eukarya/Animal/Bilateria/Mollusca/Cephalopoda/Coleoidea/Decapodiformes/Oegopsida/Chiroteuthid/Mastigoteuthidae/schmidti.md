@@ -41,7 +41,7 @@ title: Mastigoteuthis schmidti
 # *Mastigoteuthis schmidti* [Degner, 1925] 
 
 [Michael Vecchione and Richard E. Young]()
-![ ](schmidti/MShmidti.jpg))
+![ ](schmidti/MShmidti.jpg) 
 
 Containing group:[Mastigoteuthidae](../Mastigoteuthidae.md) 
 
@@ -58,7 +58,7 @@ photophores, no eyelid photophores, toothed arm suckers) \...
 -   with a temperate Eastern North Atlantic habitat.
 
 ### Characteristics
-![ ](schmidti/MShmidtiClubSuck.jpg))
+![ ](schmidti/MShmidtiClubSuck.jpg) 
 
 **Figure**. Oral view of a club sucker of ***M. schmidti***. Drawing
 from Degner (1925).
@@ -123,7 +123,7 @@ Type locality: North Atlantic, Bay of Biscay at 46°30\'N, 7°00\'W.
 
 ## Title Illustrations
 
-![](schmidti/MShmidti.jpg))
+![](schmidti/MShmidti.jpg) 
 
   ------------------------------------------------
   Scientific Name ::  Mastigoteuthis schmidti
@@ -136,17 +136,17 @@ Type locality: North Atlantic, Bay of Biscay at 46°30\'N, 7°00\'W.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [schmidti](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Mastigoteuthidae/schmidti.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Mastigoteuthidae/schmidti|schmidti]] 
 
-### #is_/same_as :: [schmidti.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Mastigoteuthidae/schmidti.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Mastigoteuthidae/schmidti.public|schmidti.public]] 
 
-### #is_/same_as :: [schmidti.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Mastigoteuthidae/schmidti.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Mastigoteuthidae/schmidti.internal|schmidti.internal]] 
 
-### #is_/same_as :: [schmidti.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Mastigoteuthidae/schmidti.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Mastigoteuthidae/schmidti.protect|schmidti.protect]] 
 
-### #is_/same_as :: [schmidti.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Mastigoteuthidae/schmidti.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Mastigoteuthidae/schmidti.private|schmidti.private]] 
 
-### #is_/same_as :: [schmidti.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Mastigoteuthidae/schmidti.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Mastigoteuthidae/schmidti.personal|schmidti.personal]] 
 
-### #is_/same_as :: [schmidti.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Mastigoteuthidae/schmidti.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Mastigoteuthidae/schmidti.secret|schmidti.secret]] 
 

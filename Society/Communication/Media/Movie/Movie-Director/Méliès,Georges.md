@@ -103,17 +103,17 @@ Google_Doodle: celebrating-georges-melies
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Méliès,Georges](/_Standards/Society/Communication/Media/Movie/Movie-Director/Méliès,Georges.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Director/Méliès,Georges|Méliès,Georges]] 
 
-### #is_/same_as :: [Méliès,Georges.public](/_public/Society/Communication/Media/Movie/Movie-Director/Méliès,Georges.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Director/Méliès,Georges.public|Méliès,Georges.public]] 
 
-### #is_/same_as :: [Méliès,Georges.internal](/_internal/Society/Communication/Media/Movie/Movie-Director/Méliès,Georges.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Director/Méliès,Georges.internal|Méliès,Georges.internal]] 
 
-### #is_/same_as :: [Méliès,Georges.protect](/_protect/Society/Communication/Media/Movie/Movie-Director/Méliès,Georges.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Director/Méliès,Georges.protect|Méliès,Georges.protect]] 
 
-### #is_/same_as :: [Méliès,Georges.private](/_private/Society/Communication/Media/Movie/Movie-Director/Méliès,Georges.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Director/Méliès,Georges.private|Méliès,Georges.private]] 
 
-### #is_/same_as :: [Méliès,Georges.personal](/_personal/Society/Communication/Media/Movie/Movie-Director/Méliès,Georges.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Director/Méliès,Georges.personal|Méliès,Georges.personal]] 
 
-### #is_/same_as :: [Méliès,Georges.secret](/_secret/Society/Communication/Media/Movie/Movie-Director/Méliès,Georges.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Director/Méliès,Georges.secret|Méliès,Georges.secret]] 
 

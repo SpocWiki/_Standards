@@ -71,17 +71,17 @@ different from the 1st Generation [[Machine-Language]].
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Machine-Language](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Imperative/Machine-Language.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Imperative/Machine-Language|Machine-Language]] 
 
-### #is_/same_as :: [Machine-Language.public](/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Imperative/Machine-Language.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Imperative/Machine-Language.public|Machine-Language.public]] 
 
-### #is_/same_as :: [Machine-Language.internal](/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Imperative/Machine-Language.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Imperative/Machine-Language.internal|Machine-Language.internal]] 
 
-### #is_/same_as :: [Machine-Language.protect](/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Imperative/Machine-Language.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Imperative/Machine-Language.protect|Machine-Language.protect]] 
 
-### #is_/same_as :: [Machine-Language.private](/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Imperative/Machine-Language.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Imperative/Machine-Language.private|Machine-Language.private]] 
 
-### #is_/same_as :: [Machine-Language.personal](/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Imperative/Machine-Language.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Imperative/Machine-Language.personal|Machine-Language.personal]] 
 
-### #is_/same_as :: [Machine-Language.secret](/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Imperative/Machine-Language.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Imperative/Machine-Language.secret|Machine-Language.secret]] 
 

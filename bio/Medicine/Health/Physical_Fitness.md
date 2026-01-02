@@ -59,17 +59,17 @@ Krugosvet_article_archived_: sport/FITNES.html
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Physical_Fitness](/_Standards/bio/Medicine/Health/Physical_Fitness.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Health/Physical_Fitness|Physical_Fitness]] 
 
-### #is_/same_as :: [Physical_Fitness.public](/_public/bio/Medicine/Health/Physical_Fitness.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Health/Physical_Fitness.public|Physical_Fitness.public]] 
 
-### #is_/same_as :: [Physical_Fitness.internal](/_internal/bio/Medicine/Health/Physical_Fitness.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Health/Physical_Fitness.internal|Physical_Fitness.internal]] 
 
-### #is_/same_as :: [Physical_Fitness.protect](/_protect/bio/Medicine/Health/Physical_Fitness.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Health/Physical_Fitness.protect|Physical_Fitness.protect]] 
 
-### #is_/same_as :: [Physical_Fitness.private](/_private/bio/Medicine/Health/Physical_Fitness.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Health/Physical_Fitness.private|Physical_Fitness.private]] 
 
-### #is_/same_as :: [Physical_Fitness.personal](/_personal/bio/Medicine/Health/Physical_Fitness.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Health/Physical_Fitness.personal|Physical_Fitness.personal]] 
 
-### #is_/same_as :: [Physical_Fitness.secret](/_secret/bio/Medicine/Health/Physical_Fitness.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Health/Physical_Fitness.secret|Physical_Fitness.secret]] 
 

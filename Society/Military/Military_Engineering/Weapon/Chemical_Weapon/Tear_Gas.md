@@ -74,17 +74,17 @@ MeSH_tree_code:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Tear_Gas](/_Standards/Society/Military/Military_Engineering/Weapon/Chemical_Weapon/Tear_Gas.md) 
+### #is_/same_as :: [[/_Standards/Society/Military/Military_Engineering/Weapon/Chemical_Weapon/Tear_Gas|Tear_Gas]] 
 
-### #is_/same_as :: [Tear_Gas.public](/_public/Society/Military/Military_Engineering/Weapon/Chemical_Weapon/Tear_Gas.public.md) 
+### #is_/same_as :: [[/_public/Society/Military/Military_Engineering/Weapon/Chemical_Weapon/Tear_Gas.public|Tear_Gas.public]] 
 
-### #is_/same_as :: [Tear_Gas.internal](/_internal/Society/Military/Military_Engineering/Weapon/Chemical_Weapon/Tear_Gas.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Military/Military_Engineering/Weapon/Chemical_Weapon/Tear_Gas.internal|Tear_Gas.internal]] 
 
-### #is_/same_as :: [Tear_Gas.protect](/_protect/Society/Military/Military_Engineering/Weapon/Chemical_Weapon/Tear_Gas.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Military/Military_Engineering/Weapon/Chemical_Weapon/Tear_Gas.protect|Tear_Gas.protect]] 
 
-### #is_/same_as :: [Tear_Gas.private](/_private/Society/Military/Military_Engineering/Weapon/Chemical_Weapon/Tear_Gas.private.md) 
+### #is_/same_as :: [[/_private/Society/Military/Military_Engineering/Weapon/Chemical_Weapon/Tear_Gas.private|Tear_Gas.private]] 
 
-### #is_/same_as :: [Tear_Gas.personal](/_personal/Society/Military/Military_Engineering/Weapon/Chemical_Weapon/Tear_Gas.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Military/Military_Engineering/Weapon/Chemical_Weapon/Tear_Gas.personal|Tear_Gas.personal]] 
 
-### #is_/same_as :: [Tear_Gas.secret](/_secret/Society/Military/Military_Engineering/Weapon/Chemical_Weapon/Tear_Gas.secret.md)
+### #is_/same_as :: [[/_secret/Society/Military/Military_Engineering/Weapon/Chemical_Weapon/Tear_Gas.secret|Tear_Gas.secret]] 
 

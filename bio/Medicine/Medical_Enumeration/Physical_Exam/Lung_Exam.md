@@ -41,17 +41,17 @@ Lung and respiratory system clinical examination.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lung_Exam](/_Standards/bio/Medicine/Medical_Enumeration/Physical_Exam/Lung_Exam.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Enumeration/Physical_Exam/Lung_Exam|Lung_Exam]] 
 
-### #is_/same_as :: [Lung_Exam.public](/_public/bio/Medicine/Medical_Enumeration/Physical_Exam/Lung_Exam.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Enumeration/Physical_Exam/Lung_Exam.public|Lung_Exam.public]] 
 
-### #is_/same_as :: [Lung_Exam.internal](/_internal/bio/Medicine/Medical_Enumeration/Physical_Exam/Lung_Exam.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Enumeration/Physical_Exam/Lung_Exam.internal|Lung_Exam.internal]] 
 
-### #is_/same_as :: [Lung_Exam.protect](/_protect/bio/Medicine/Medical_Enumeration/Physical_Exam/Lung_Exam.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Enumeration/Physical_Exam/Lung_Exam.protect|Lung_Exam.protect]] 
 
-### #is_/same_as :: [Lung_Exam.private](/_private/bio/Medicine/Medical_Enumeration/Physical_Exam/Lung_Exam.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Enumeration/Physical_Exam/Lung_Exam.private|Lung_Exam.private]] 
 
-### #is_/same_as :: [Lung_Exam.personal](/_personal/bio/Medicine/Medical_Enumeration/Physical_Exam/Lung_Exam.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Enumeration/Physical_Exam/Lung_Exam.personal|Lung_Exam.personal]] 
 
-### #is_/same_as :: [Lung_Exam.secret](/_secret/bio/Medicine/Medical_Enumeration/Physical_Exam/Lung_Exam.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Enumeration/Physical_Exam/Lung_Exam.secret|Lung_Exam.secret]] 
 

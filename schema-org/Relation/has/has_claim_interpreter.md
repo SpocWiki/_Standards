@@ -45,17 +45,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_claim_interpreter](/_Standards/schema-org/Relation/has/has_claim_interpreter.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_claim_interpreter|has_claim_interpreter]] 
 
-### #is_/same_as :: [has_claim_interpreter.public](/_public/schema-org/Relation/has/has_claim_interpreter.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_claim_interpreter.public|has_claim_interpreter.public]] 
 
-### #is_/same_as :: [has_claim_interpreter.internal](/_internal/schema-org/Relation/has/has_claim_interpreter.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_claim_interpreter.internal|has_claim_interpreter.internal]] 
 
-### #is_/same_as :: [has_claim_interpreter.protect](/_protect/schema-org/Relation/has/has_claim_interpreter.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_claim_interpreter.protect|has_claim_interpreter.protect]] 
 
-### #is_/same_as :: [has_claim_interpreter.private](/_private/schema-org/Relation/has/has_claim_interpreter.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_claim_interpreter.private|has_claim_interpreter.private]] 
 
-### #is_/same_as :: [has_claim_interpreter.personal](/_personal/schema-org/Relation/has/has_claim_interpreter.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_claim_interpreter.personal|has_claim_interpreter.personal]] 
 
-### #is_/same_as :: [has_claim_interpreter.secret](/_secret/schema-org/Relation/has/has_claim_interpreter.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_claim_interpreter.secret|has_claim_interpreter.secret]] 
 

@@ -67,17 +67,17 @@ Unicode_character: 🥓
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bacon](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Meat/Bacon.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Home_Economics/Cooking/Food/Meat/Bacon|Bacon]] 
 
-### #is_/same_as :: [Bacon.public](/_public/Society/Economics/Home_Economics/Cooking/Food/Meat/Bacon.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Home_Economics/Cooking/Food/Meat/Bacon.public|Bacon.public]] 
 
-### #is_/same_as :: [Bacon.internal](/_internal/Society/Economics/Home_Economics/Cooking/Food/Meat/Bacon.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Home_Economics/Cooking/Food/Meat/Bacon.internal|Bacon.internal]] 
 
-### #is_/same_as :: [Bacon.protect](/_protect/Society/Economics/Home_Economics/Cooking/Food/Meat/Bacon.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Home_Economics/Cooking/Food/Meat/Bacon.protect|Bacon.protect]] 
 
-### #is_/same_as :: [Bacon.private](/_private/Society/Economics/Home_Economics/Cooking/Food/Meat/Bacon.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Home_Economics/Cooking/Food/Meat/Bacon.private|Bacon.private]] 
 
-### #is_/same_as :: [Bacon.personal](/_personal/Society/Economics/Home_Economics/Cooking/Food/Meat/Bacon.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Home_Economics/Cooking/Food/Meat/Bacon.personal|Bacon.personal]] 
 
-### #is_/same_as :: [Bacon.secret](/_secret/Society/Economics/Home_Economics/Cooking/Food/Meat/Bacon.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Home_Economics/Cooking/Food/Meat/Bacon.secret|Bacon.secret]] 
 

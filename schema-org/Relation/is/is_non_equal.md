@@ -43,17 +43,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [is_non_equal](/_Standards/schema-org/Relation/is/is_non_equal.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/is/is_non_equal|is_non_equal]] 
 
-### #is_/same_as :: [is_non_equal.public](/_public/schema-org/Relation/is/is_non_equal.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/is/is_non_equal.public|is_non_equal.public]] 
 
-### #is_/same_as :: [is_non_equal.internal](/_internal/schema-org/Relation/is/is_non_equal.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/is/is_non_equal.internal|is_non_equal.internal]] 
 
-### #is_/same_as :: [is_non_equal.protect](/_protect/schema-org/Relation/is/is_non_equal.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/is/is_non_equal.protect|is_non_equal.protect]] 
 
-### #is_/same_as :: [is_non_equal.private](/_private/schema-org/Relation/is/is_non_equal.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/is/is_non_equal.private|is_non_equal.private]] 
 
-### #is_/same_as :: [is_non_equal.personal](/_personal/schema-org/Relation/is/is_non_equal.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/is/is_non_equal.personal|is_non_equal.personal]] 
 
-### #is_/same_as :: [is_non_equal.secret](/_secret/schema-org/Relation/is/is_non_equal.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/is/is_non_equal.secret|is_non_equal.secret]] 
 

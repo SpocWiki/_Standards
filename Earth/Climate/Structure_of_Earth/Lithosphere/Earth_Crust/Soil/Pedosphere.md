@@ -37,17 +37,17 @@ OmegaWiki_Defined_Meaning: "2735"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Pedosphere](/_Standards/Earth/Climate/Structure_of_Earth/Lithosphere/Earth_Crust/Soil/Pedosphere.md) 
+### #is_/same_as :: [[/_Standards/Earth/Climate/Structure_of_Earth/Lithosphere/Earth_Crust/Soil/Pedosphere|Pedosphere]] 
 
-### #is_/same_as :: [Pedosphere.public](/_public/Earth/Climate/Structure_of_Earth/Lithosphere/Earth_Crust/Soil/Pedosphere.public.md) 
+### #is_/same_as :: [[/_public/Earth/Climate/Structure_of_Earth/Lithosphere/Earth_Crust/Soil/Pedosphere.public|Pedosphere.public]] 
 
-### #is_/same_as :: [Pedosphere.internal](/_internal/Earth/Climate/Structure_of_Earth/Lithosphere/Earth_Crust/Soil/Pedosphere.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Climate/Structure_of_Earth/Lithosphere/Earth_Crust/Soil/Pedosphere.internal|Pedosphere.internal]] 
 
-### #is_/same_as :: [Pedosphere.protect](/_protect/Earth/Climate/Structure_of_Earth/Lithosphere/Earth_Crust/Soil/Pedosphere.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Climate/Structure_of_Earth/Lithosphere/Earth_Crust/Soil/Pedosphere.protect|Pedosphere.protect]] 
 
-### #is_/same_as :: [Pedosphere.private](/_private/Earth/Climate/Structure_of_Earth/Lithosphere/Earth_Crust/Soil/Pedosphere.private.md) 
+### #is_/same_as :: [[/_private/Earth/Climate/Structure_of_Earth/Lithosphere/Earth_Crust/Soil/Pedosphere.private|Pedosphere.private]] 
 
-### #is_/same_as :: [Pedosphere.personal](/_personal/Earth/Climate/Structure_of_Earth/Lithosphere/Earth_Crust/Soil/Pedosphere.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Climate/Structure_of_Earth/Lithosphere/Earth_Crust/Soil/Pedosphere.personal|Pedosphere.personal]] 
 
-### #is_/same_as :: [Pedosphere.secret](/_secret/Earth/Climate/Structure_of_Earth/Lithosphere/Earth_Crust/Soil/Pedosphere.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Climate/Structure_of_Earth/Lithosphere/Earth_Crust/Soil/Pedosphere.secret|Pedosphere.secret]] 
 

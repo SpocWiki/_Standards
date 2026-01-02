@@ -40,17 +40,17 @@ Commons_category: Waveguides
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Waveguide](/_Standards/Science/Physics/Wave/Optics/Waveguide.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Wave/Optics/Waveguide|Waveguide]] 
 
-### #is_/same_as :: [Waveguide.public](/_public/Science/Physics/Wave/Optics/Waveguide.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Wave/Optics/Waveguide.public|Waveguide.public]] 
 
-### #is_/same_as :: [Waveguide.internal](/_internal/Science/Physics/Wave/Optics/Waveguide.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Wave/Optics/Waveguide.internal|Waveguide.internal]] 
 
-### #is_/same_as :: [Waveguide.protect](/_protect/Science/Physics/Wave/Optics/Waveguide.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Wave/Optics/Waveguide.protect|Waveguide.protect]] 
 
-### #is_/same_as :: [Waveguide.private](/_private/Science/Physics/Wave/Optics/Waveguide.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Wave/Optics/Waveguide.private|Waveguide.private]] 
 
-### #is_/same_as :: [Waveguide.personal](/_personal/Science/Physics/Wave/Optics/Waveguide.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Wave/Optics/Waveguide.personal|Waveguide.personal]] 
 
-### #is_/same_as :: [Waveguide.secret](/_secret/Science/Physics/Wave/Optics/Waveguide.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Wave/Optics/Waveguide.secret|Waveguide.secret]] 
 

@@ -98,17 +98,17 @@ Dewey_Decimal_Classification: "523.887"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [White_Dwarf](/_Standards/Astronomy/Star/Star~Class/White_Dwarf.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Star/Star~Class/White_Dwarf|White_Dwarf]] 
 
-### #is_/same_as :: [White_Dwarf.public](/_public/Astronomy/Star/Star~Class/White_Dwarf.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Star/Star~Class/White_Dwarf.public|White_Dwarf.public]] 
 
-### #is_/same_as :: [White_Dwarf.internal](/_internal/Astronomy/Star/Star~Class/White_Dwarf.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Star/Star~Class/White_Dwarf.internal|White_Dwarf.internal]] 
 
-### #is_/same_as :: [White_Dwarf.protect](/_protect/Astronomy/Star/Star~Class/White_Dwarf.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Star/Star~Class/White_Dwarf.protect|White_Dwarf.protect]] 
 
-### #is_/same_as :: [White_Dwarf.private](/_private/Astronomy/Star/Star~Class/White_Dwarf.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Star/Star~Class/White_Dwarf.private|White_Dwarf.private]] 
 
-### #is_/same_as :: [White_Dwarf.personal](/_personal/Astronomy/Star/Star~Class/White_Dwarf.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Star/Star~Class/White_Dwarf.personal|White_Dwarf.personal]] 
 
-### #is_/same_as :: [White_Dwarf.secret](/_secret/Astronomy/Star/Star~Class/White_Dwarf.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Star/Star~Class/White_Dwarf.secret|White_Dwarf.secret]] 
 

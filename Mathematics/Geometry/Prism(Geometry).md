@@ -54,17 +54,17 @@ image:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Prism(Geometry)](/_Standards/Mathematics/Geometry/Prism(Geometry).md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Geometry/Prism(Geometry)|Prism(Geometry)]] 
 
-### #is_/same_as :: [Prism(Geometry).public](/_public/Mathematics/Geometry/Prism(Geometry).public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Geometry/Prism(Geometry).public|Prism(Geometry).public]] 
 
-### #is_/same_as :: [Prism(Geometry).internal](/_internal/Mathematics/Geometry/Prism(Geometry).internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Geometry/Prism(Geometry).internal|Prism(Geometry).internal]] 
 
-### #is_/same_as :: [Prism(Geometry).protect](/_protect/Mathematics/Geometry/Prism(Geometry).protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Geometry/Prism(Geometry).protect|Prism(Geometry).protect]] 
 
-### #is_/same_as :: [Prism(Geometry).private](/_private/Mathematics/Geometry/Prism(Geometry).private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Geometry/Prism(Geometry).private|Prism(Geometry).private]] 
 
-### #is_/same_as :: [Prism(Geometry).personal](/_personal/Mathematics/Geometry/Prism(Geometry).personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Geometry/Prism(Geometry).personal|Prism(Geometry).personal]] 
 
-### #is_/same_as :: [Prism(Geometry).secret](/_secret/Mathematics/Geometry/Prism(Geometry).secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Geometry/Prism(Geometry).secret|Prism(Geometry).secret]] 
 

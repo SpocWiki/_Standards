@@ -39,17 +39,17 @@ Acorn was named after [[../../../../../../../Technology/IT/Computer_Hardware/App
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Acorn_Computers](/_Standards/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Acorn_Computers.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Acorn_Computers|Acorn_Computers]] 
 
-### #is_/same_as :: [Acorn_Computers.public](/_public/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Acorn_Computers.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Acorn_Computers.public|Acorn_Computers.public]] 
 
-### #is_/same_as :: [Acorn_Computers.internal](/_internal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Acorn_Computers.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Acorn_Computers.internal|Acorn_Computers.internal]] 
 
-### #is_/same_as :: [Acorn_Computers.protect](/_protect/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Acorn_Computers.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Acorn_Computers.protect|Acorn_Computers.protect]] 
 
-### #is_/same_as :: [Acorn_Computers.private](/_private/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Acorn_Computers.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Acorn_Computers.private|Acorn_Computers.private]] 
 
-### #is_/same_as :: [Acorn_Computers.personal](/_personal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Acorn_Computers.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Acorn_Computers.personal|Acorn_Computers.personal]] 
 
-### #is_/same_as :: [Acorn_Computers.secret](/_secret/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Acorn_Computers.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Acorn_Computers.secret|Acorn_Computers.secret]] 
 

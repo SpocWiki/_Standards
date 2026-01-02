@@ -515,17 +515,17 @@ Capital :: [[Port_Vila]]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Vanuatu](/_Standards/Earth/Continent/Australasia/Melanesia/Vanuatu.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Australasia/Melanesia/Vanuatu|Vanuatu]] 
 
-### #is_/same_as :: [Vanuatu.public](/_public/Earth/Continent/Australasia/Melanesia/Vanuatu.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Australasia/Melanesia/Vanuatu.public|Vanuatu.public]] 
 
-### #is_/same_as :: [Vanuatu.internal](/_internal/Earth/Continent/Australasia/Melanesia/Vanuatu.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Australasia/Melanesia/Vanuatu.internal|Vanuatu.internal]] 
 
-### #is_/same_as :: [Vanuatu.protect](/_protect/Earth/Continent/Australasia/Melanesia/Vanuatu.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Australasia/Melanesia/Vanuatu.protect|Vanuatu.protect]] 
 
-### #is_/same_as :: [Vanuatu.private](/_private/Earth/Continent/Australasia/Melanesia/Vanuatu.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Australasia/Melanesia/Vanuatu.private|Vanuatu.private]] 
 
-### #is_/same_as :: [Vanuatu.personal](/_personal/Earth/Continent/Australasia/Melanesia/Vanuatu.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Australasia/Melanesia/Vanuatu.personal|Vanuatu.personal]] 
 
-### #is_/same_as :: [Vanuatu.secret](/_secret/Earth/Continent/Australasia/Melanesia/Vanuatu.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Australasia/Melanesia/Vanuatu.secret|Vanuatu.secret]] 
 

@@ -116,17 +116,17 @@ IPTC_NewsCode: mediatopic/20000685
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Taoism](/_Standards/Philosophy/Metaphysic/Religion/Taoism.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Taoism|Taoism]] 
 
-### #is_/same_as :: [Taoism.public](/_public/Philosophy/Metaphysic/Religion/Taoism.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Taoism.public|Taoism.public]] 
 
-### #is_/same_as :: [Taoism.internal](/_internal/Philosophy/Metaphysic/Religion/Taoism.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Taoism.internal|Taoism.internal]] 
 
-### #is_/same_as :: [Taoism.protect](/_protect/Philosophy/Metaphysic/Religion/Taoism.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Taoism.protect|Taoism.protect]] 
 
-### #is_/same_as :: [Taoism.private](/_private/Philosophy/Metaphysic/Religion/Taoism.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Taoism.private|Taoism.private]] 
 
-### #is_/same_as :: [Taoism.personal](/_personal/Philosophy/Metaphysic/Religion/Taoism.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Taoism.personal|Taoism.personal]] 
 
-### #is_/same_as :: [Taoism.secret](/_secret/Philosophy/Metaphysic/Religion/Taoism.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Taoism.secret|Taoism.secret]] 
 

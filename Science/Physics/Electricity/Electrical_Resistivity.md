@@ -59,17 +59,17 @@ quantity_symbol_string_: ρ
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Electrical_Resistivity](/_Standards/Science/Physics/Electricity/Electrical_Resistivity.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Electricity/Electrical_Resistivity|Electrical_Resistivity]] 
 
-### #is_/same_as :: [Electrical_Resistivity.public](/_public/Science/Physics/Electricity/Electrical_Resistivity.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Electricity/Electrical_Resistivity.public|Electrical_Resistivity.public]] 
 
-### #is_/same_as :: [Electrical_Resistivity.internal](/_internal/Science/Physics/Electricity/Electrical_Resistivity.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Electricity/Electrical_Resistivity.internal|Electrical_Resistivity.internal]] 
 
-### #is_/same_as :: [Electrical_Resistivity.protect](/_protect/Science/Physics/Electricity/Electrical_Resistivity.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Electricity/Electrical_Resistivity.protect|Electrical_Resistivity.protect]] 
 
-### #is_/same_as :: [Electrical_Resistivity.private](/_private/Science/Physics/Electricity/Electrical_Resistivity.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Electricity/Electrical_Resistivity.private|Electrical_Resistivity.private]] 
 
-### #is_/same_as :: [Electrical_Resistivity.personal](/_personal/Science/Physics/Electricity/Electrical_Resistivity.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Electricity/Electrical_Resistivity.personal|Electrical_Resistivity.personal]] 
 
-### #is_/same_as :: [Electrical_Resistivity.secret](/_secret/Science/Physics/Electricity/Electrical_Resistivity.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Electricity/Electrical_Resistivity.secret|Electrical_Resistivity.secret]] 
 

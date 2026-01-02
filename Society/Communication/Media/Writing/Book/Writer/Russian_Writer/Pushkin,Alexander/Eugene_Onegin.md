@@ -60,17 +60,17 @@ subtitle: Роман в стихах
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Eugene_Onegin](/_Standards/Society/Communication/Media/Writing/Book/Writer/Russian_Writer/Pushkin,Alexander/Eugene_Onegin.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Writer/Russian_Writer/Pushkin,Alexander/Eugene_Onegin|Eugene_Onegin]] 
 
-### #is_/same_as :: [Eugene_Onegin.public](/_public/Society/Communication/Media/Writing/Book/Writer/Russian_Writer/Pushkin,Alexander/Eugene_Onegin.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Writer/Russian_Writer/Pushkin,Alexander/Eugene_Onegin.public|Eugene_Onegin.public]] 
 
-### #is_/same_as :: [Eugene_Onegin.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/Russian_Writer/Pushkin,Alexander/Eugene_Onegin.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Writer/Russian_Writer/Pushkin,Alexander/Eugene_Onegin.internal|Eugene_Onegin.internal]] 
 
-### #is_/same_as :: [Eugene_Onegin.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/Russian_Writer/Pushkin,Alexander/Eugene_Onegin.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Writer/Russian_Writer/Pushkin,Alexander/Eugene_Onegin.protect|Eugene_Onegin.protect]] 
 
-### #is_/same_as :: [Eugene_Onegin.private](/_private/Society/Communication/Media/Writing/Book/Writer/Russian_Writer/Pushkin,Alexander/Eugene_Onegin.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Writer/Russian_Writer/Pushkin,Alexander/Eugene_Onegin.private|Eugene_Onegin.private]] 
 
-### #is_/same_as :: [Eugene_Onegin.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/Russian_Writer/Pushkin,Alexander/Eugene_Onegin.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Writer/Russian_Writer/Pushkin,Alexander/Eugene_Onegin.personal|Eugene_Onegin.personal]] 
 
-### #is_/same_as :: [Eugene_Onegin.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/Russian_Writer/Pushkin,Alexander/Eugene_Onegin.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Writer/Russian_Writer/Pushkin,Alexander/Eugene_Onegin.secret|Eugene_Onegin.secret]] 
 

@@ -61,17 +61,17 @@ Commons_category: Legislatures
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Legislature](/_Standards/Society/Politics/Government/Democracy/Legislature.md) 
+### #is_/same_as :: [[/_Standards/Society/Politics/Government/Democracy/Legislature|Legislature]] 
 
-### #is_/same_as :: [Legislature.public](/_public/Society/Politics/Government/Democracy/Legislature.public.md) 
+### #is_/same_as :: [[/_public/Society/Politics/Government/Democracy/Legislature.public|Legislature.public]] 
 
-### #is_/same_as :: [Legislature.internal](/_internal/Society/Politics/Government/Democracy/Legislature.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Politics/Government/Democracy/Legislature.internal|Legislature.internal]] 
 
-### #is_/same_as :: [Legislature.protect](/_protect/Society/Politics/Government/Democracy/Legislature.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Politics/Government/Democracy/Legislature.protect|Legislature.protect]] 
 
-### #is_/same_as :: [Legislature.private](/_private/Society/Politics/Government/Democracy/Legislature.private.md) 
+### #is_/same_as :: [[/_private/Society/Politics/Government/Democracy/Legislature.private|Legislature.private]] 
 
-### #is_/same_as :: [Legislature.personal](/_personal/Society/Politics/Government/Democracy/Legislature.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Politics/Government/Democracy/Legislature.personal|Legislature.personal]] 
 
-### #is_/same_as :: [Legislature.secret](/_secret/Society/Politics/Government/Democracy/Legislature.secret.md)
+### #is_/same_as :: [[/_secret/Society/Politics/Government/Democracy/Legislature.secret|Legislature.secret]] 
 

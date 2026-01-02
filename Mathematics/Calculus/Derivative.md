@@ -53,17 +53,17 @@ Krugosvet_article: matematika/proizvodnaya
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Derivative](/_Standards/Mathematics/Calculus/Derivative.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Calculus/Derivative|Derivative]] 
 
-### #is_/same_as :: [Derivative.public](/_public/Mathematics/Calculus/Derivative.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Calculus/Derivative.public|Derivative.public]] 
 
-### #is_/same_as :: [Derivative.internal](/_internal/Mathematics/Calculus/Derivative.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Calculus/Derivative.internal|Derivative.internal]] 
 
-### #is_/same_as :: [Derivative.protect](/_protect/Mathematics/Calculus/Derivative.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Calculus/Derivative.protect|Derivative.protect]] 
 
-### #is_/same_as :: [Derivative.private](/_private/Mathematics/Calculus/Derivative.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Calculus/Derivative.private|Derivative.private]] 
 
-### #is_/same_as :: [Derivative.personal](/_personal/Mathematics/Calculus/Derivative.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Calculus/Derivative.personal|Derivative.personal]] 
 
-### #is_/same_as :: [Derivative.secret](/_secret/Mathematics/Calculus/Derivative.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Calculus/Derivative.secret|Derivative.secret]] 
 

@@ -36,7 +36,7 @@ title: Theridiosomatidae
 -   » Sub-Groups 
 
 # Theridiosomatidae 
-![ ](Theridiosomatidae/chthonos_2916.jpg))
+![ ](Theridiosomatidae/chthonos_2916.jpg) 
 ![ ](Theridiosomatidae/ogulnius03.jpg)![](Theridiosomatidae/theridiosoma_gemmosum03.jpg))![](Theridiosomatidae/theridiosoma_gemmosumweb03.jpg))
 
 Tree from Griswold et al. 1998.
@@ -78,7 +78,7 @@ World. Musée Royal de l\'Afrique Centrale, Tevuren. 336pp.
 
 ## Title Illustrations
 
-![](Theridiosomatidae/chthonos_2916.jpg))
+![](Theridiosomatidae/chthonos_2916.jpg) 
 
   ---------------------------------------------------------------------------------
   Scientific Name ::     Chthonos sp.
@@ -91,7 +91,7 @@ World. Musée Royal de l\'Afrique Centrale, Tevuren. 336pp.
   Copyright ::            © [Jonathan Coddington](http://entomology.si.edu/StaffPages/coddington.html) 
  
   ---------------------------------------------------------------------------------
-![](Theridiosomatidae/ogulnius03.jpg))
+![](Theridiosomatidae/ogulnius03.jpg) 
 
   ---------------------------------------------------------------------------------
   Scientific Name ::     Ogulnius sp.
@@ -104,7 +104,7 @@ World. Musée Royal de l\'Afrique Centrale, Tevuren. 336pp.
   Copyright ::            © [Jonathan Coddington](http://entomology.si.edu/StaffPages/coddington.html) 
  
   ---------------------------------------------------------------------------------
-![](Theridiosomatidae/theridiosoma_gemmosum03.jpg))
+![](Theridiosomatidae/theridiosoma_gemmosum03.jpg) 
 
   ---------------------------------------------------------------------------------
   Scientific Name ::     Theridiosoma gemmosum
@@ -118,7 +118,7 @@ World. Musée Royal de l\'Afrique Centrale, Tevuren. 336pp.
   Copyright ::            © [Jonathan Coddington](http://entomology.si.edu/StaffPages/coddington.html) 
  
   ---------------------------------------------------------------------------------
-![](Theridiosomatidae/theridiosoma_gemmosumweb03.jpg))
+![](Theridiosomatidae/theridiosoma_gemmosumweb03.jpg) 
 
   ---------------------------------------------------------------------------------
   Scientific Name ::     Theridiosoma gemmosum
@@ -136,17 +136,17 @@ World. Musée Royal de l\'Afrique Centrale, Tevuren. 336pp.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Theridiosomatidae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Orbiculariae/Theridiosomatidae.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Orbiculariae/Theridiosomatidae|Theridiosomatidae]] 
 
-### #is_/same_as :: [Theridiosomatidae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Orbiculariae/Theridiosomatidae.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Orbiculariae/Theridiosomatidae.public|Theridiosomatidae.public]] 
 
-### #is_/same_as :: [Theridiosomatidae.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Orbiculariae/Theridiosomatidae.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Orbiculariae/Theridiosomatidae.internal|Theridiosomatidae.internal]] 
 
-### #is_/same_as :: [Theridiosomatidae.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Orbiculariae/Theridiosomatidae.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Orbiculariae/Theridiosomatidae.protect|Theridiosomatidae.protect]] 
 
-### #is_/same_as :: [Theridiosomatidae.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Orbiculariae/Theridiosomatidae.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Orbiculariae/Theridiosomatidae.private|Theridiosomatidae.private]] 
 
-### #is_/same_as :: [Theridiosomatidae.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Orbiculariae/Theridiosomatidae.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Orbiculariae/Theridiosomatidae.personal|Theridiosomatidae.personal]] 
 
-### #is_/same_as :: [Theridiosomatidae.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Orbiculariae/Theridiosomatidae.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Orbiculariae/Theridiosomatidae.secret|Theridiosomatidae.secret]] 
 

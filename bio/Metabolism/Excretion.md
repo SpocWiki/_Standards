@@ -51,17 +51,17 @@ Commons_category: Excretion
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Excretion](/_Standards/bio/Metabolism/Excretion.md) 
+### #is_/same_as :: [[/_Standards/bio/Metabolism/Excretion|Excretion]] 
 
-### #is_/same_as :: [Excretion.public](/_public/bio/Metabolism/Excretion.public.md) 
+### #is_/same_as :: [[/_public/bio/Metabolism/Excretion.public|Excretion.public]] 
 
-### #is_/same_as :: [Excretion.internal](/_internal/bio/Metabolism/Excretion.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Metabolism/Excretion.internal|Excretion.internal]] 
 
-### #is_/same_as :: [Excretion.protect](/_protect/bio/Metabolism/Excretion.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Metabolism/Excretion.protect|Excretion.protect]] 
 
-### #is_/same_as :: [Excretion.private](/_private/bio/Metabolism/Excretion.private.md) 
+### #is_/same_as :: [[/_private/bio/Metabolism/Excretion.private|Excretion.private]] 
 
-### #is_/same_as :: [Excretion.personal](/_personal/bio/Metabolism/Excretion.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Metabolism/Excretion.personal|Excretion.personal]] 
 
-### #is_/same_as :: [Excretion.secret](/_secret/bio/Metabolism/Excretion.secret.md)
+### #is_/same_as :: [[/_secret/bio/Metabolism/Excretion.secret|Excretion.secret]] 
 

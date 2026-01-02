@@ -20,17 +20,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Rodeo](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Horse_Riding/Rodeo.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Horse_Riding/Rodeo|Rodeo]] 
 
-### #is_/same_as :: [Rodeo.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Horse_Riding/Rodeo.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Horse_Riding/Rodeo.public|Rodeo.public]] 
 
-### #is_/same_as :: [Rodeo.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Horse_Riding/Rodeo.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Horse_Riding/Rodeo.internal|Rodeo.internal]] 
 
-### #is_/same_as :: [Rodeo.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Horse_Riding/Rodeo.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Horse_Riding/Rodeo.protect|Rodeo.protect]] 
 
-### #is_/same_as :: [Rodeo.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Horse_Riding/Rodeo.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Horse_Riding/Rodeo.private|Rodeo.private]] 
 
-### #is_/same_as :: [Rodeo.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Horse_Riding/Rodeo.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Horse_Riding/Rodeo.personal|Rodeo.personal]] 
 
-### #is_/same_as :: [Rodeo.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Horse_Riding/Rodeo.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Horse_Riding/Rodeo.secret|Rodeo.secret]] 
 

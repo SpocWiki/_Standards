@@ -30,17 +30,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Dark_City(1998)](/_Standards/Society/Communication/Media/Movie/Movie-Genre/SF-Movie/Dark_City(1998).md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Genre/SF-Movie/Dark_City(1998)|Dark_City(1998)]] 
 
-### #is_/same_as :: [Dark_City(1998).public](/_public/Society/Communication/Media/Movie/Movie-Genre/SF-Movie/Dark_City(1998).public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Genre/SF-Movie/Dark_City(1998).public|Dark_City(1998).public]] 
 
-### #is_/same_as :: [Dark_City(1998).internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/SF-Movie/Dark_City(1998).internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Genre/SF-Movie/Dark_City(1998).internal|Dark_City(1998).internal]] 
 
-### #is_/same_as :: [Dark_City(1998).protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/SF-Movie/Dark_City(1998).protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Genre/SF-Movie/Dark_City(1998).protect|Dark_City(1998).protect]] 
 
-### #is_/same_as :: [Dark_City(1998).private](/_private/Society/Communication/Media/Movie/Movie-Genre/SF-Movie/Dark_City(1998).private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Genre/SF-Movie/Dark_City(1998).private|Dark_City(1998).private]] 
 
-### #is_/same_as :: [Dark_City(1998).personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/SF-Movie/Dark_City(1998).personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Genre/SF-Movie/Dark_City(1998).personal|Dark_City(1998).personal]] 
 
-### #is_/same_as :: [Dark_City(1998).secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/SF-Movie/Dark_City(1998).secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Genre/SF-Movie/Dark_City(1998).secret|Dark_City(1998).secret]] 
 

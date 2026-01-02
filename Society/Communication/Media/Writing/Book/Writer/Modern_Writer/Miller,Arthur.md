@@ -139,17 +139,17 @@ official_website: https://www.arthurmiller.org
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Miller,Arthur](/_Standards/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Miller,Arthur.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Miller,Arthur|Miller,Arthur]] 
 
-### #is_/same_as :: [Miller,Arthur.public](/_public/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Miller,Arthur.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Miller,Arthur.public|Miller,Arthur.public]] 
 
-### #is_/same_as :: [Miller,Arthur.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Miller,Arthur.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Miller,Arthur.internal|Miller,Arthur.internal]] 
 
-### #is_/same_as :: [Miller,Arthur.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Miller,Arthur.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Miller,Arthur.protect|Miller,Arthur.protect]] 
 
-### #is_/same_as :: [Miller,Arthur.private](/_private/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Miller,Arthur.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Miller,Arthur.private|Miller,Arthur.private]] 
 
-### #is_/same_as :: [Miller,Arthur.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Miller,Arthur.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Miller,Arthur.personal|Miller,Arthur.personal]] 
 
-### #is_/same_as :: [Miller,Arthur.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Miller,Arthur.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Miller,Arthur.secret|Miller,Arthur.secret]] 
 

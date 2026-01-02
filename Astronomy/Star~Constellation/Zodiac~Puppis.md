@@ -53,17 +53,17 @@ astronomic_symbol_image: http://commons.wikimedia.org/wiki/Special:FilePath/Pupp
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Zodiac~Puppis](/_Standards/Astronomy/Star~Constellation/Zodiac~Puppis.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Star~Constellation/Zodiac~Puppis|Zodiac~Puppis]] 
 
-### #is_/same_as :: [Zodiac~Puppis.public](/_public/Astronomy/Star~Constellation/Zodiac~Puppis.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Star~Constellation/Zodiac~Puppis.public|Zodiac~Puppis.public]] 
 
-### #is_/same_as :: [Zodiac~Puppis.internal](/_internal/Astronomy/Star~Constellation/Zodiac~Puppis.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Star~Constellation/Zodiac~Puppis.internal|Zodiac~Puppis.internal]] 
 
-### #is_/same_as :: [Zodiac~Puppis.protect](/_protect/Astronomy/Star~Constellation/Zodiac~Puppis.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Star~Constellation/Zodiac~Puppis.protect|Zodiac~Puppis.protect]] 
 
-### #is_/same_as :: [Zodiac~Puppis.private](/_private/Astronomy/Star~Constellation/Zodiac~Puppis.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Star~Constellation/Zodiac~Puppis.private|Zodiac~Puppis.private]] 
 
-### #is_/same_as :: [Zodiac~Puppis.personal](/_personal/Astronomy/Star~Constellation/Zodiac~Puppis.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Star~Constellation/Zodiac~Puppis.personal|Zodiac~Puppis.personal]] 
 
-### #is_/same_as :: [Zodiac~Puppis.secret](/_secret/Astronomy/Star~Constellation/Zodiac~Puppis.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Star~Constellation/Zodiac~Puppis.secret|Zodiac~Puppis.secret]] 
 

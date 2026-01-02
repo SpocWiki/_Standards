@@ -41,17 +41,17 @@ Enumerates the EU energy efficiency classes A-G as well as A+, A++, and A+++ as 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Eu_Energy_Efficiency_Enumeration](/_Standards/schema-org/Enumeration/Energy_Efficiency_Enumeration/Eu_Energy_Efficiency_Enumeration.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Energy_Efficiency_Enumeration/Eu_Energy_Efficiency_Enumeration|Eu_Energy_Efficiency_Enumeration]] 
 
-### #is_/same_as :: [Eu_Energy_Efficiency_Enumeration.public](/_public/schema-org/Enumeration/Energy_Efficiency_Enumeration/Eu_Energy_Efficiency_Enumeration.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Energy_Efficiency_Enumeration/Eu_Energy_Efficiency_Enumeration.public|Eu_Energy_Efficiency_Enumeration.public]] 
 
-### #is_/same_as :: [Eu_Energy_Efficiency_Enumeration.internal](/_internal/schema-org/Enumeration/Energy_Efficiency_Enumeration/Eu_Energy_Efficiency_Enumeration.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Energy_Efficiency_Enumeration/Eu_Energy_Efficiency_Enumeration.internal|Eu_Energy_Efficiency_Enumeration.internal]] 
 
-### #is_/same_as :: [Eu_Energy_Efficiency_Enumeration.protect](/_protect/schema-org/Enumeration/Energy_Efficiency_Enumeration/Eu_Energy_Efficiency_Enumeration.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Energy_Efficiency_Enumeration/Eu_Energy_Efficiency_Enumeration.protect|Eu_Energy_Efficiency_Enumeration.protect]] 
 
-### #is_/same_as :: [Eu_Energy_Efficiency_Enumeration.private](/_private/schema-org/Enumeration/Energy_Efficiency_Enumeration/Eu_Energy_Efficiency_Enumeration.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Energy_Efficiency_Enumeration/Eu_Energy_Efficiency_Enumeration.private|Eu_Energy_Efficiency_Enumeration.private]] 
 
-### #is_/same_as :: [Eu_Energy_Efficiency_Enumeration.personal](/_personal/schema-org/Enumeration/Energy_Efficiency_Enumeration/Eu_Energy_Efficiency_Enumeration.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Energy_Efficiency_Enumeration/Eu_Energy_Efficiency_Enumeration.personal|Eu_Energy_Efficiency_Enumeration.personal]] 
 
-### #is_/same_as :: [Eu_Energy_Efficiency_Enumeration.secret](/_secret/schema-org/Enumeration/Energy_Efficiency_Enumeration/Eu_Energy_Efficiency_Enumeration.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Energy_Efficiency_Enumeration/Eu_Energy_Efficiency_Enumeration.secret|Eu_Energy_Efficiency_Enumeration.secret]] 
 

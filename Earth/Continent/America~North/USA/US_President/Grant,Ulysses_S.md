@@ -222,17 +222,17 @@ Swedish_Open_Cultural_Heritage_URI: LSH/agents/11692
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Grant,Ulysses_S](/_Standards/Earth/Continent/America~North/US~President/Grant,Ulysses_S.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~North/USA/US_President/Grant,Ulysses_S|Grant,Ulysses_S]] 
 
-### #is_/same_as :: [Grant,Ulysses_S.public](/_public/Earth/Continent/America~North/US~President/Grant,Ulysses_S.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~North/USA/US_President/Grant,Ulysses_S.public|Grant,Ulysses_S.public]] 
 
-### #is_/same_as :: [Grant,Ulysses_S.internal](/_internal/Earth/Continent/America~North/US~President/Grant,Ulysses_S.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~North/USA/US_President/Grant,Ulysses_S.internal|Grant,Ulysses_S.internal]] 
 
-### #is_/same_as :: [Grant,Ulysses_S.protect](/_protect/Earth/Continent/America~North/US~President/Grant,Ulysses_S.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~North/USA/US_President/Grant,Ulysses_S.protect|Grant,Ulysses_S.protect]] 
 
-### #is_/same_as :: [Grant,Ulysses_S.private](/_private/Earth/Continent/America~North/US~President/Grant,Ulysses_S.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~North/USA/US_President/Grant,Ulysses_S.private|Grant,Ulysses_S.private]] 
 
-### #is_/same_as :: [Grant,Ulysses_S.personal](/_personal/Earth/Continent/America~North/US~President/Grant,Ulysses_S.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~North/USA/US_President/Grant,Ulysses_S.personal|Grant,Ulysses_S.personal]] 
 
-### #is_/same_as :: [Grant,Ulysses_S.secret](/_secret/Earth/Continent/America~North/US~President/Grant,Ulysses_S.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~North/USA/US_President/Grant,Ulysses_S.secret|Grant,Ulysses_S.secret]] 
 

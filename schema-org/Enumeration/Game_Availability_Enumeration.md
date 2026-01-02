@@ -41,17 +41,17 @@ For a [[VideoGame]], such as used with a [[PlayGameAction]], an enumeration of t
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Game_Availability_Enumeration](/_Standards/schema-org/Enumeration/Game_Availability_Enumeration.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Game_Availability_Enumeration|Game_Availability_Enumeration]] 
 
-### #is_/same_as :: [Game_Availability_Enumeration.public](/_public/schema-org/Enumeration/Game_Availability_Enumeration.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Game_Availability_Enumeration.public|Game_Availability_Enumeration.public]] 
 
-### #is_/same_as :: [Game_Availability_Enumeration.internal](/_internal/schema-org/Enumeration/Game_Availability_Enumeration.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Game_Availability_Enumeration.internal|Game_Availability_Enumeration.internal]] 
 
-### #is_/same_as :: [Game_Availability_Enumeration.protect](/_protect/schema-org/Enumeration/Game_Availability_Enumeration.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Game_Availability_Enumeration.protect|Game_Availability_Enumeration.protect]] 
 
-### #is_/same_as :: [Game_Availability_Enumeration.private](/_private/schema-org/Enumeration/Game_Availability_Enumeration.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Game_Availability_Enumeration.private|Game_Availability_Enumeration.private]] 
 
-### #is_/same_as :: [Game_Availability_Enumeration.personal](/_personal/schema-org/Enumeration/Game_Availability_Enumeration.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Game_Availability_Enumeration.personal|Game_Availability_Enumeration.personal]] 
 
-### #is_/same_as :: [Game_Availability_Enumeration.secret](/_secret/schema-org/Enumeration/Game_Availability_Enumeration.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Game_Availability_Enumeration.secret|Game_Availability_Enumeration.secret]] 
 

@@ -80,17 +80,17 @@ native_label: 𑖫𑖰𑖪
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Shiva](/_Standards/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism/Hindu_Pantheon/Shiva.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism/Hindu_Pantheon/Shiva|Shiva]] 
 
-### #is_/same_as :: [Shiva.public](/_public/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism/Hindu_Pantheon/Shiva.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism/Hindu_Pantheon/Shiva.public|Shiva.public]] 
 
-### #is_/same_as :: [Shiva.internal](/_internal/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism/Hindu_Pantheon/Shiva.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism/Hindu_Pantheon/Shiva.internal|Shiva.internal]] 
 
-### #is_/same_as :: [Shiva.protect](/_protect/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism/Hindu_Pantheon/Shiva.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism/Hindu_Pantheon/Shiva.protect|Shiva.protect]] 
 
-### #is_/same_as :: [Shiva.private](/_private/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism/Hindu_Pantheon/Shiva.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism/Hindu_Pantheon/Shiva.private|Shiva.private]] 
 
-### #is_/same_as :: [Shiva.personal](/_personal/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism/Hindu_Pantheon/Shiva.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism/Hindu_Pantheon/Shiva.personal|Shiva.personal]] 
 
-### #is_/same_as :: [Shiva.secret](/_secret/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism/Hindu_Pantheon/Shiva.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism/Hindu_Pantheon/Shiva.secret|Shiva.secret]] 
 

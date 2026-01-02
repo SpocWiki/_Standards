@@ -69,3 +69,22 @@ exact_match: http://purl.obolibrary.org/obo/GO_0019685
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/bio/Botany/Photosynthesis/Photosynthesis,dark_Reaction|Photosynthesis,dark_Reaction]] 
+
+### #is_/same_as :: [[/_public/bio/Botany/Photosynthesis/Photosynthesis,dark_Reaction.public|Photosynthesis,dark_Reaction.public]] 
+
+### #is_/same_as :: [[/_internal/bio/Botany/Photosynthesis/Photosynthesis,dark_Reaction.internal|Photosynthesis,dark_Reaction.internal]] 
+
+### #is_/same_as :: [[/_protect/bio/Botany/Photosynthesis/Photosynthesis,dark_Reaction.protect|Photosynthesis,dark_Reaction.protect]] 
+
+### #is_/same_as :: [[/_private/bio/Botany/Photosynthesis/Photosynthesis,dark_Reaction.private|Photosynthesis,dark_Reaction.private]] 
+
+### #is_/same_as :: [[/_personal/bio/Botany/Photosynthesis/Photosynthesis,dark_Reaction.personal|Photosynthesis,dark_Reaction.personal]] 
+
+### #is_/same_as :: [[/_secret/bio/Botany/Photosynthesis/Photosynthesis,dark_Reaction.secret|Photosynthesis,dark_Reaction.secret]] 
+

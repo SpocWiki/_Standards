@@ -41,17 +41,17 @@ A set of characteristics belonging to businesses, e.g. who compose an item's tar
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Business_Audience](/_Standards/schema-org/Class/is_a_/Intangible/Audience/Business_Audience.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Intangible/Audience/Business_Audience|Business_Audience]] 
 
-### #is_/same_as :: [Business_Audience.public](/_public/schema-org/Class/is_a_/Intangible/Audience/Business_Audience.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Intangible/Audience/Business_Audience.public|Business_Audience.public]] 
 
-### #is_/same_as :: [Business_Audience.internal](/_internal/schema-org/Class/is_a_/Intangible/Audience/Business_Audience.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Intangible/Audience/Business_Audience.internal|Business_Audience.internal]] 
 
-### #is_/same_as :: [Business_Audience.protect](/_protect/schema-org/Class/is_a_/Intangible/Audience/Business_Audience.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Intangible/Audience/Business_Audience.protect|Business_Audience.protect]] 
 
-### #is_/same_as :: [Business_Audience.private](/_private/schema-org/Class/is_a_/Intangible/Audience/Business_Audience.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Intangible/Audience/Business_Audience.private|Business_Audience.private]] 
 
-### #is_/same_as :: [Business_Audience.personal](/_personal/schema-org/Class/is_a_/Intangible/Audience/Business_Audience.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Intangible/Audience/Business_Audience.personal|Business_Audience.personal]] 
 
-### #is_/same_as :: [Business_Audience.secret](/_secret/schema-org/Class/is_a_/Intangible/Audience/Business_Audience.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Intangible/Audience/Business_Audience.secret|Business_Audience.secret]] 
 

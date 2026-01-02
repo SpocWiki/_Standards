@@ -145,7 +145,7 @@ Technical Report NMFS 152: 1-58.
 
 ## Title Illustrations
 
-![](hjorti/MhjortiSide.jpg))
+![](hjorti/MhjortiSide.jpg) 
 
   --------------------------------------------------------------------------------
   Scientific Name ::     Mastigoteuthis hjorti
@@ -154,7 +154,7 @@ Technical Report NMFS 152: 1-58.
   Copyright ::            © 2004 [Richard E. Young](http://www.soest.hawaii.edu/%7Eryoung/rey.html) 
  
   --------------------------------------------------------------------------------
-![](hjorti/MHjortiDandV.jpg))
+![](hjorti/MHjortiDandV.jpg) 
 
   -------------------------------------------------------
   Scientific Name ::  Mastigoteuthis hjorti
@@ -167,17 +167,17 @@ Technical Report NMFS 152: 1-58.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [hjorti](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Mastigoteuthidae/hjorti.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Mastigoteuthidae/hjorti|hjorti]] 
 
-### #is_/same_as :: [hjorti.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Mastigoteuthidae/hjorti.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Mastigoteuthidae/hjorti.public|hjorti.public]] 
 
-### #is_/same_as :: [hjorti.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Mastigoteuthidae/hjorti.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Mastigoteuthidae/hjorti.internal|hjorti.internal]] 
 
-### #is_/same_as :: [hjorti.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Mastigoteuthidae/hjorti.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Mastigoteuthidae/hjorti.protect|hjorti.protect]] 
 
-### #is_/same_as :: [hjorti.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Mastigoteuthidae/hjorti.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Mastigoteuthidae/hjorti.private|hjorti.private]] 
 
-### #is_/same_as :: [hjorti.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Mastigoteuthidae/hjorti.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Mastigoteuthidae/hjorti.personal|hjorti.personal]] 
 
-### #is_/same_as :: [hjorti.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Mastigoteuthidae/hjorti.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Mastigoteuthidae/hjorti.secret|hjorti.secret]] 
 

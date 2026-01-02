@@ -43,17 +43,17 @@ Wolfram_Language_entity_code: Entity["Concept", "DifferentialCalculus::767tz"]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Differential_Calculus](/_Standards/Mathematics/Calculus/Differential_Calculus.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Calculus/Differential_Calculus|Differential_Calculus]] 
 
-### #is_/same_as :: [Differential_Calculus.public](/_public/Mathematics/Calculus/Differential_Calculus.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Calculus/Differential_Calculus.public|Differential_Calculus.public]] 
 
-### #is_/same_as :: [Differential_Calculus.internal](/_internal/Mathematics/Calculus/Differential_Calculus.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Calculus/Differential_Calculus.internal|Differential_Calculus.internal]] 
 
-### #is_/same_as :: [Differential_Calculus.protect](/_protect/Mathematics/Calculus/Differential_Calculus.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Calculus/Differential_Calculus.protect|Differential_Calculus.protect]] 
 
-### #is_/same_as :: [Differential_Calculus.private](/_private/Mathematics/Calculus/Differential_Calculus.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Calculus/Differential_Calculus.private|Differential_Calculus.private]] 
 
-### #is_/same_as :: [Differential_Calculus.personal](/_personal/Mathematics/Calculus/Differential_Calculus.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Calculus/Differential_Calculus.personal|Differential_Calculus.personal]] 
 
-### #is_/same_as :: [Differential_Calculus.secret](/_secret/Mathematics/Calculus/Differential_Calculus.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Calculus/Differential_Calculus.secret|Differential_Calculus.secret]] 
 

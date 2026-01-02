@@ -49,17 +49,17 @@ Commons_category: Southern African Development Community
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Southern_African_Development_Community](/_Standards/Society/Agent/Community/Organization/International_Organization/Southern_African_Development_Community.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/International_Organization/Southern_African_Development_Community|Southern_African_Development_Community]] 
 
-### #is_/same_as :: [Southern_African_Development_Community.public](/_public/Society/Agent/Community/Organization/International_Organization/Southern_African_Development_Community.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/International_Organization/Southern_African_Development_Community.public|Southern_African_Development_Community.public]] 
 
-### #is_/same_as :: [Southern_African_Development_Community.internal](/_internal/Society/Agent/Community/Organization/International_Organization/Southern_African_Development_Community.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/International_Organization/Southern_African_Development_Community.internal|Southern_African_Development_Community.internal]] 
 
-### #is_/same_as :: [Southern_African_Development_Community.protect](/_protect/Society/Agent/Community/Organization/International_Organization/Southern_African_Development_Community.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/International_Organization/Southern_African_Development_Community.protect|Southern_African_Development_Community.protect]] 
 
-### #is_/same_as :: [Southern_African_Development_Community.private](/_private/Society/Agent/Community/Organization/International_Organization/Southern_African_Development_Community.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/International_Organization/Southern_African_Development_Community.private|Southern_African_Development_Community.private]] 
 
-### #is_/same_as :: [Southern_African_Development_Community.personal](/_personal/Society/Agent/Community/Organization/International_Organization/Southern_African_Development_Community.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/International_Organization/Southern_African_Development_Community.personal|Southern_African_Development_Community.personal]] 
 
-### #is_/same_as :: [Southern_African_Development_Community.secret](/_secret/Society/Agent/Community/Organization/International_Organization/Southern_African_Development_Community.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/International_Organization/Southern_African_Development_Community.secret|Southern_African_Development_Community.secret]] 
 

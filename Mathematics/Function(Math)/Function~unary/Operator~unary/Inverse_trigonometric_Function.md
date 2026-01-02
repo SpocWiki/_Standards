@@ -34,17 +34,17 @@ Commons_category: Inverse trigonometric functions
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Inverse_trigonometric_Function](Inverse_trigonometric_Function.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Function(Math)/Function~unary/Operator~unary/Inverse_trigonometric_Function|Inverse_trigonometric_Function]] 
 
-### #is_/same_as :: [Inverse_trigonometric_Function.public](/_public/Mathematics/Function(Math)/Function~unary/Inverse_trigonometric_Function.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Function(Math)/Function~unary/Operator~unary/Inverse_trigonometric_Function.public|Inverse_trigonometric_Function.public]] 
 
-### #is_/same_as :: [Inverse_trigonometric_Function.internal](/_internal/Mathematics/Function(Math)/Function~unary/Inverse_trigonometric_Function.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Function(Math)/Function~unary/Operator~unary/Inverse_trigonometric_Function.internal|Inverse_trigonometric_Function.internal]] 
 
-### #is_/same_as :: [Inverse_trigonometric_Function.protect](/_protect/Mathematics/Function(Math)/Function~unary/Inverse_trigonometric_Function.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Function(Math)/Function~unary/Operator~unary/Inverse_trigonometric_Function.protect|Inverse_trigonometric_Function.protect]] 
 
-### #is_/same_as :: [Inverse_trigonometric_Function.private](/_private/Mathematics/Function(Math)/Function~unary/Inverse_trigonometric_Function.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Function(Math)/Function~unary/Operator~unary/Inverse_trigonometric_Function.private|Inverse_trigonometric_Function.private]] 
 
-### #is_/same_as :: [Inverse_trigonometric_Function.personal](/_personal/Mathematics/Function(Math)/Function~unary/Inverse_trigonometric_Function.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Function(Math)/Function~unary/Operator~unary/Inverse_trigonometric_Function.personal|Inverse_trigonometric_Function.personal]] 
 
-### #is_/same_as :: [Inverse_trigonometric_Function.secret](/_secret/Mathematics/Function(Math)/Function~unary/Inverse_trigonometric_Function.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Function(Math)/Function~unary/Operator~unary/Inverse_trigonometric_Function.secret|Inverse_trigonometric_Function.secret]] 
 

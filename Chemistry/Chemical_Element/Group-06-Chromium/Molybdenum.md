@@ -153,17 +153,17 @@ ZVG_number: 8330
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Molybdenum](/_Standards/Chemistry/Chemical_Element/Group-06-Chromium/Molybdenum.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Chemical_Element/Group-06-Chromium/Molybdenum|Molybdenum]] 
 
-### #is_/same_as :: [Molybdenum.public](/_public/Chemistry/Chemical_Element/Group-06-Chromium/Molybdenum.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Chemical_Element/Group-06-Chromium/Molybdenum.public|Molybdenum.public]] 
 
-### #is_/same_as :: [Molybdenum.internal](/_internal/Chemistry/Chemical_Element/Group-06-Chromium/Molybdenum.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Chemical_Element/Group-06-Chromium/Molybdenum.internal|Molybdenum.internal]] 
 
-### #is_/same_as :: [Molybdenum.protect](/_protect/Chemistry/Chemical_Element/Group-06-Chromium/Molybdenum.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Chemical_Element/Group-06-Chromium/Molybdenum.protect|Molybdenum.protect]] 
 
-### #is_/same_as :: [Molybdenum.private](/_private/Chemistry/Chemical_Element/Group-06-Chromium/Molybdenum.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Chemical_Element/Group-06-Chromium/Molybdenum.private|Molybdenum.private]] 
 
-### #is_/same_as :: [Molybdenum.personal](/_personal/Chemistry/Chemical_Element/Group-06-Chromium/Molybdenum.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Chemical_Element/Group-06-Chromium/Molybdenum.personal|Molybdenum.personal]] 
 
-### #is_/same_as :: [Molybdenum.secret](/_secret/Chemistry/Chemical_Element/Group-06-Chromium/Molybdenum.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Chemical_Element/Group-06-Chromium/Molybdenum.secret|Molybdenum.secret]] 
 

@@ -121,17 +121,17 @@ Krugosvet_article_archived_: nauka_i_tehnika/matematika/MONZH_GASPAR.html
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Monge,Gaspard](/_Standards/Mathematics/Mathematician/Modern_Mathematician/Monge,Gaspard.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Mathematician/Modern_Mathematician/Monge,Gaspard|Monge,Gaspard]] 
 
-### #is_/same_as :: [Monge,Gaspard.public](/_public/Mathematics/Mathematician/Modern_Mathematician/Monge,Gaspard.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Mathematician/Modern_Mathematician/Monge,Gaspard.public|Monge,Gaspard.public]] 
 
-### #is_/same_as :: [Monge,Gaspard.internal](/_internal/Mathematics/Mathematician/Modern_Mathematician/Monge,Gaspard.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Mathematician/Modern_Mathematician/Monge,Gaspard.internal|Monge,Gaspard.internal]] 
 
-### #is_/same_as :: [Monge,Gaspard.protect](/_protect/Mathematics/Mathematician/Modern_Mathematician/Monge,Gaspard.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Mathematician/Modern_Mathematician/Monge,Gaspard.protect|Monge,Gaspard.protect]] 
 
-### #is_/same_as :: [Monge,Gaspard.private](/_private/Mathematics/Mathematician/Modern_Mathematician/Monge,Gaspard.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Mathematician/Modern_Mathematician/Monge,Gaspard.private|Monge,Gaspard.private]] 
 
-### #is_/same_as :: [Monge,Gaspard.personal](/_personal/Mathematics/Mathematician/Modern_Mathematician/Monge,Gaspard.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Mathematician/Modern_Mathematician/Monge,Gaspard.personal|Monge,Gaspard.personal]] 
 
-### #is_/same_as :: [Monge,Gaspard.secret](/_secret/Mathematics/Mathematician/Modern_Mathematician/Monge,Gaspard.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Mathematician/Modern_Mathematician/Monge,Gaspard.secret|Monge,Gaspard.secret]] 
 

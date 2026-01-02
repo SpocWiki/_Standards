@@ -46,17 +46,17 @@ Commons_category: Equatorial coordinate system
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Equatorial_Coordinate_System](/_Standards/Astronomy/Astronomical_Coordinate_System/Equatorial_Coordinate_System.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Astronomical_Coordinate_System/Equatorial_Coordinate_System|Equatorial_Coordinate_System]] 
 
-### #is_/same_as :: [Equatorial_Coordinate_System.public](/_public/Astronomy/Astronomical_Coordinate_System/Equatorial_Coordinate_System.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Astronomical_Coordinate_System/Equatorial_Coordinate_System.public|Equatorial_Coordinate_System.public]] 
 
-### #is_/same_as :: [Equatorial_Coordinate_System.internal](/_internal/Astronomy/Astronomical_Coordinate_System/Equatorial_Coordinate_System.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Astronomical_Coordinate_System/Equatorial_Coordinate_System.internal|Equatorial_Coordinate_System.internal]] 
 
-### #is_/same_as :: [Equatorial_Coordinate_System.protect](/_protect/Astronomy/Astronomical_Coordinate_System/Equatorial_Coordinate_System.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Astronomical_Coordinate_System/Equatorial_Coordinate_System.protect|Equatorial_Coordinate_System.protect]] 
 
-### #is_/same_as :: [Equatorial_Coordinate_System.private](/_private/Astronomy/Astronomical_Coordinate_System/Equatorial_Coordinate_System.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Astronomical_Coordinate_System/Equatorial_Coordinate_System.private|Equatorial_Coordinate_System.private]] 
 
-### #is_/same_as :: [Equatorial_Coordinate_System.personal](/_personal/Astronomy/Astronomical_Coordinate_System/Equatorial_Coordinate_System.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Astronomical_Coordinate_System/Equatorial_Coordinate_System.personal|Equatorial_Coordinate_System.personal]] 
 
-### #is_/same_as :: [Equatorial_Coordinate_System.secret](/_secret/Astronomy/Astronomical_Coordinate_System/Equatorial_Coordinate_System.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Astronomical_Coordinate_System/Equatorial_Coordinate_System.secret|Equatorial_Coordinate_System.secret]] 
 

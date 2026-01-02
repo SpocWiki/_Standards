@@ -95,17 +95,17 @@ Unicode_character: 🗳
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Voting](/_Standards/bio/Psychology/Cognition/Thinking/Decision_Making/Group_Decision_Making/Voting.md) 
+### #is_/same_as :: [[/_Standards/bio/Psychology/Cognition/Thinking/Decision_Making/Group_Decision_Making/Voting|Voting]] 
 
-### #is_/same_as :: [Voting.public](/_public/bio/Psychology/Cognition/Thinking/Decision_Making/Group_Decision_Making/Voting.public.md) 
+### #is_/same_as :: [[/_public/bio/Psychology/Cognition/Thinking/Decision_Making/Group_Decision_Making/Voting.public|Voting.public]] 
 
-### #is_/same_as :: [Voting.internal](/_internal/bio/Psychology/Cognition/Thinking/Decision_Making/Group_Decision_Making/Voting.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Psychology/Cognition/Thinking/Decision_Making/Group_Decision_Making/Voting.internal|Voting.internal]] 
 
-### #is_/same_as :: [Voting.protect](/_protect/bio/Psychology/Cognition/Thinking/Decision_Making/Group_Decision_Making/Voting.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Psychology/Cognition/Thinking/Decision_Making/Group_Decision_Making/Voting.protect|Voting.protect]] 
 
-### #is_/same_as :: [Voting.private](/_private/bio/Psychology/Cognition/Thinking/Decision_Making/Group_Decision_Making/Voting.private.md) 
+### #is_/same_as :: [[/_private/bio/Psychology/Cognition/Thinking/Decision_Making/Group_Decision_Making/Voting.private|Voting.private]] 
 
-### #is_/same_as :: [Voting.personal](/_personal/bio/Psychology/Cognition/Thinking/Decision_Making/Group_Decision_Making/Voting.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Psychology/Cognition/Thinking/Decision_Making/Group_Decision_Making/Voting.personal|Voting.personal]] 
 
-### #is_/same_as :: [Voting.secret](/_secret/bio/Psychology/Cognition/Thinking/Decision_Making/Group_Decision_Making/Voting.secret.md)
+### #is_/same_as :: [[/_secret/bio/Psychology/Cognition/Thinking/Decision_Making/Group_Decision_Making/Voting.secret|Voting.secret]] 
 

@@ -37,17 +37,17 @@ end_time: 0284-01-01T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [0235-Crisis_of_the_Third_Century](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Late_Antiquity/CE_0200/0235-Crisis_of_the_Third_Century.md) 
+### #is_/same_as :: [[/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Late_Antiquity/CE_0200/0235-Crisis_of_the_Third_Century|0235-Crisis_of_the_Third_Century]] 
 
-### #is_/same_as :: [0235-Crisis_of_the_Third_Century.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Late_Antiquity/CE_0200/0235-Crisis_of_the_Third_Century.public.md) 
+### #is_/same_as :: [[/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Late_Antiquity/CE_0200/0235-Crisis_of_the_Third_Century.public|0235-Crisis_of_the_Third_Century.public]] 
 
-### #is_/same_as :: [0235-Crisis_of_the_Third_Century.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Late_Antiquity/CE_0200/0235-Crisis_of_the_Third_Century.internal.md) 
+### #is_/same_as :: [[/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Late_Antiquity/CE_0200/0235-Crisis_of_the_Third_Century.internal|0235-Crisis_of_the_Third_Century.internal]] 
 
-### #is_/same_as :: [0235-Crisis_of_the_Third_Century.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Late_Antiquity/CE_0200/0235-Crisis_of_the_Third_Century.protect.md) 
+### #is_/same_as :: [[/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Late_Antiquity/CE_0200/0235-Crisis_of_the_Third_Century.protect|0235-Crisis_of_the_Third_Century.protect]] 
 
-### #is_/same_as :: [0235-Crisis_of_the_Third_Century.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Late_Antiquity/CE_0200/0235-Crisis_of_the_Third_Century.private.md) 
+### #is_/same_as :: [[/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Late_Antiquity/CE_0200/0235-Crisis_of_the_Third_Century.private|0235-Crisis_of_the_Third_Century.private]] 
 
-### #is_/same_as :: [0235-Crisis_of_the_Third_Century.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Late_Antiquity/CE_0200/0235-Crisis_of_the_Third_Century.personal.md) 
+### #is_/same_as :: [[/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Late_Antiquity/CE_0200/0235-Crisis_of_the_Third_Century.personal|0235-Crisis_of_the_Third_Century.personal]] 
 
-### #is_/same_as :: [0235-Crisis_of_the_Third_Century.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Late_Antiquity/CE_0200/0235-Crisis_of_the_Third_Century.secret.md)
+### #is_/same_as :: [[/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Late_Antiquity/CE_0200/0235-Crisis_of_the_Third_Century.secret|0235-Crisis_of_the_Third_Century.secret]] 
 

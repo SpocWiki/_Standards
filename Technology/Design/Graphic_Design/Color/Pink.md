@@ -45,17 +45,17 @@ pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9129
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Pink](/_Standards/Technology/Design/Graphic_Design/Color/Pink.md) 
+### #is_/same_as :: [[/_Standards/Technology/Design/Graphic_Design/Color/Pink|Pink]] 
 
-### #is_/same_as :: [Pink.public](/_public/Technology/Design/Graphic_Design/Color/Pink.public.md) 
+### #is_/same_as :: [[/_public/Technology/Design/Graphic_Design/Color/Pink.public|Pink.public]] 
 
-### #is_/same_as :: [Pink.internal](/_internal/Technology/Design/Graphic_Design/Color/Pink.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Design/Graphic_Design/Color/Pink.internal|Pink.internal]] 
 
-### #is_/same_as :: [Pink.protect](/_protect/Technology/Design/Graphic_Design/Color/Pink.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Design/Graphic_Design/Color/Pink.protect|Pink.protect]] 
 
-### #is_/same_as :: [Pink.private](/_private/Technology/Design/Graphic_Design/Color/Pink.private.md) 
+### #is_/same_as :: [[/_private/Technology/Design/Graphic_Design/Color/Pink.private|Pink.private]] 
 
-### #is_/same_as :: [Pink.personal](/_personal/Technology/Design/Graphic_Design/Color/Pink.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Design/Graphic_Design/Color/Pink.personal|Pink.personal]] 
 
-### #is_/same_as :: [Pink.secret](/_secret/Technology/Design/Graphic_Design/Color/Pink.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Design/Graphic_Design/Color/Pink.secret|Pink.secret]] 
 

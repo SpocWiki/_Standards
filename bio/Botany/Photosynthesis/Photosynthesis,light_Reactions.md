@@ -50,3 +50,22 @@ part_of: "[[_Standards/WikiData/WD~photosynthesis,11982]]"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Light-dependent%20reactions) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/bio/Botany/Photosynthesis/Photosynthesis,light_Reactions|Photosynthesis,light_Reactions]] 
+
+### #is_/same_as :: [[/_public/bio/Botany/Photosynthesis/Photosynthesis,light_Reactions.public|Photosynthesis,light_Reactions.public]] 
+
+### #is_/same_as :: [[/_internal/bio/Botany/Photosynthesis/Photosynthesis,light_Reactions.internal|Photosynthesis,light_Reactions.internal]] 
+
+### #is_/same_as :: [[/_protect/bio/Botany/Photosynthesis/Photosynthesis,light_Reactions.protect|Photosynthesis,light_Reactions.protect]] 
+
+### #is_/same_as :: [[/_private/bio/Botany/Photosynthesis/Photosynthesis,light_Reactions.private|Photosynthesis,light_Reactions.private]] 
+
+### #is_/same_as :: [[/_personal/bio/Botany/Photosynthesis/Photosynthesis,light_Reactions.personal|Photosynthesis,light_Reactions.personal]] 
+
+### #is_/same_as :: [[/_secret/bio/Botany/Photosynthesis/Photosynthesis,light_Reactions.secret|Photosynthesis,light_Reactions.secret]] 
+

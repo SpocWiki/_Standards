@@ -45,17 +45,17 @@ This is the equivalent of Atom's element as defined in Feed Paging and Archiving
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Complete_Data_Feed](/_Standards/Society/Communication/Media/Creative_Work/Dataset/Data_Feed/Complete_Data_Feed.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Creative_Work/Dataset/Data_Feed/Complete_Data_Feed|Complete_Data_Feed]] 
 
-### #is_/same_as :: [Complete_Data_Feed.public](/_public/Society/Communication/Media/Creative_Work/Dataset/Data_Feed/Complete_Data_Feed.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Creative_Work/Dataset/Data_Feed/Complete_Data_Feed.public|Complete_Data_Feed.public]] 
 
-### #is_/same_as :: [Complete_Data_Feed.internal](/_internal/Society/Communication/Media/Creative_Work/Dataset/Data_Feed/Complete_Data_Feed.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Creative_Work/Dataset/Data_Feed/Complete_Data_Feed.internal|Complete_Data_Feed.internal]] 
 
-### #is_/same_as :: [Complete_Data_Feed.protect](/_protect/Society/Communication/Media/Creative_Work/Dataset/Data_Feed/Complete_Data_Feed.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Creative_Work/Dataset/Data_Feed/Complete_Data_Feed.protect|Complete_Data_Feed.protect]] 
 
-### #is_/same_as :: [Complete_Data_Feed.private](/_private/Society/Communication/Media/Creative_Work/Dataset/Data_Feed/Complete_Data_Feed.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Creative_Work/Dataset/Data_Feed/Complete_Data_Feed.private|Complete_Data_Feed.private]] 
 
-### #is_/same_as :: [Complete_Data_Feed.personal](/_personal/Society/Communication/Media/Creative_Work/Dataset/Data_Feed/Complete_Data_Feed.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/Dataset/Data_Feed/Complete_Data_Feed.personal|Complete_Data_Feed.personal]] 
 
-### #is_/same_as :: [Complete_Data_Feed.secret](/_secret/Society/Communication/Media/Creative_Work/Dataset/Data_Feed/Complete_Data_Feed.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Dataset/Data_Feed/Complete_Data_Feed.secret|Complete_Data_Feed.secret]] 
 

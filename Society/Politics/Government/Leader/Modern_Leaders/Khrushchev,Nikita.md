@@ -168,17 +168,17 @@ ISNI: 0000000110281676
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Khrushchev,Nikita](/_Standards/Society/Politics/Government/Leader/Modern_Leaders/Khrushchev,Nikita.md) 
+### #is_/same_as :: [[/_Standards/Society/Politics/Government/Leader/Modern_Leaders/Khrushchev,Nikita|Khrushchev,Nikita]] 
 
-### #is_/same_as :: [Khrushchev,Nikita.public](/_public/Society/Politics/Government/Leader/Modern_Leaders/Khrushchev,Nikita.public.md) 
+### #is_/same_as :: [[/_public/Society/Politics/Government/Leader/Modern_Leaders/Khrushchev,Nikita.public|Khrushchev,Nikita.public]] 
 
-### #is_/same_as :: [Khrushchev,Nikita.internal](/_internal/Society/Politics/Government/Leader/Modern_Leaders/Khrushchev,Nikita.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Politics/Government/Leader/Modern_Leaders/Khrushchev,Nikita.internal|Khrushchev,Nikita.internal]] 
 
-### #is_/same_as :: [Khrushchev,Nikita.protect](/_protect/Society/Politics/Government/Leader/Modern_Leaders/Khrushchev,Nikita.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Politics/Government/Leader/Modern_Leaders/Khrushchev,Nikita.protect|Khrushchev,Nikita.protect]] 
 
-### #is_/same_as :: [Khrushchev,Nikita.private](/_private/Society/Politics/Government/Leader/Modern_Leaders/Khrushchev,Nikita.private.md) 
+### #is_/same_as :: [[/_private/Society/Politics/Government/Leader/Modern_Leaders/Khrushchev,Nikita.private|Khrushchev,Nikita.private]] 
 
-### #is_/same_as :: [Khrushchev,Nikita.personal](/_personal/Society/Politics/Government/Leader/Modern_Leaders/Khrushchev,Nikita.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Politics/Government/Leader/Modern_Leaders/Khrushchev,Nikita.personal|Khrushchev,Nikita.personal]] 
 
-### #is_/same_as :: [Khrushchev,Nikita.secret](/_secret/Society/Politics/Government/Leader/Modern_Leaders/Khrushchev,Nikita.secret.md)
+### #is_/same_as :: [[/_secret/Society/Politics/Government/Leader/Modern_Leaders/Khrushchev,Nikita.secret|Khrushchev,Nikita.secret]] 
 

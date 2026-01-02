@@ -45,17 +45,17 @@ Commons_gallery: Electron shell
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Electron_Shell](/_Standards/Science/Physics/Atom/Electron_Shell.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Atom/Electron_Shell|Electron_Shell]] 
 
-### #is_/same_as :: [Electron_Shell.public](/_public/Science/Physics/Atom/Electron_Shell.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Atom/Electron_Shell.public|Electron_Shell.public]] 
 
-### #is_/same_as :: [Electron_Shell.internal](/_internal/Science/Physics/Atom/Electron_Shell.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Atom/Electron_Shell.internal|Electron_Shell.internal]] 
 
-### #is_/same_as :: [Electron_Shell.protect](/_protect/Science/Physics/Atom/Electron_Shell.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Atom/Electron_Shell.protect|Electron_Shell.protect]] 
 
-### #is_/same_as :: [Electron_Shell.private](/_private/Science/Physics/Atom/Electron_Shell.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Atom/Electron_Shell.private|Electron_Shell.private]] 
 
-### #is_/same_as :: [Electron_Shell.personal](/_personal/Science/Physics/Atom/Electron_Shell.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Atom/Electron_Shell.personal|Electron_Shell.personal]] 
 
-### #is_/same_as :: [Electron_Shell.secret](/_secret/Science/Physics/Atom/Electron_Shell.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Atom/Electron_Shell.secret|Electron_Shell.secret]] 
 

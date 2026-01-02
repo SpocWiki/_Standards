@@ -73,17 +73,17 @@ OpenStreetMap_tag: natural=valley
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Valley](/_Standards/Earth/Geology/Landform/Valley.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geology/Landform/Valley|Valley]] 
 
-### #is_/same_as :: [Valley.public](/_public/Earth/Geology/Landform/Valley.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geology/Landform/Valley.public|Valley.public]] 
 
-### #is_/same_as :: [Valley.internal](/_internal/Earth/Geology/Landform/Valley.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geology/Landform/Valley.internal|Valley.internal]] 
 
-### #is_/same_as :: [Valley.protect](/_protect/Earth/Geology/Landform/Valley.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geology/Landform/Valley.protect|Valley.protect]] 
 
-### #is_/same_as :: [Valley.private](/_private/Earth/Geology/Landform/Valley.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geology/Landform/Valley.private|Valley.private]] 
 
-### #is_/same_as :: [Valley.personal](/_personal/Earth/Geology/Landform/Valley.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geology/Landform/Valley.personal|Valley.personal]] 
 
-### #is_/same_as :: [Valley.secret](/_secret/Earth/Geology/Landform/Valley.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geology/Landform/Valley.secret|Valley.secret]] 
 

@@ -71,17 +71,17 @@ Commons_category: Rectangles
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Rectangle](/_Standards/Mathematics/Geometry/Geometry-2D/Quadrilateral/Rectangle.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Geometry/Geometry-2D/Quadrilateral/Rectangle|Rectangle]] 
 
-### #is_/same_as :: [Rectangle.public](/_public/Mathematics/Geometry/Geometry-2D/Quadrilateral/Rectangle.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Geometry/Geometry-2D/Quadrilateral/Rectangle.public|Rectangle.public]] 
 
-### #is_/same_as :: [Rectangle.internal](/_internal/Mathematics/Geometry/Geometry-2D/Quadrilateral/Rectangle.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Geometry/Geometry-2D/Quadrilateral/Rectangle.internal|Rectangle.internal]] 
 
-### #is_/same_as :: [Rectangle.protect](/_protect/Mathematics/Geometry/Geometry-2D/Quadrilateral/Rectangle.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Geometry/Geometry-2D/Quadrilateral/Rectangle.protect|Rectangle.protect]] 
 
-### #is_/same_as :: [Rectangle.private](/_private/Mathematics/Geometry/Geometry-2D/Quadrilateral/Rectangle.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Geometry/Geometry-2D/Quadrilateral/Rectangle.private|Rectangle.private]] 
 
-### #is_/same_as :: [Rectangle.personal](/_personal/Mathematics/Geometry/Geometry-2D/Quadrilateral/Rectangle.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Geometry/Geometry-2D/Quadrilateral/Rectangle.personal|Rectangle.personal]] 
 
-### #is_/same_as :: [Rectangle.secret](/_secret/Mathematics/Geometry/Geometry-2D/Quadrilateral/Rectangle.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Geometry/Geometry-2D/Quadrilateral/Rectangle.secret|Rectangle.secret]] 
 

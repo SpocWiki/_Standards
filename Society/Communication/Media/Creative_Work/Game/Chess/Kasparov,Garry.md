@@ -129,17 +129,17 @@ X_Twitter_username: Kasparov63
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Kasparov,Garry](/_Standards/Society/Communication/Media/Creative_Work/Game/Chess/Kasparov,Garry.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Creative_Work/Game/Chess/Kasparov,Garry|Kasparov,Garry]] 
 
-### #is_/same_as :: [Kasparov,Garry.public](/_public/Society/Communication/Media/Creative_Work/Game/Chess/Kasparov,Garry.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Creative_Work/Game/Chess/Kasparov,Garry.public|Kasparov,Garry.public]] 
 
-### #is_/same_as :: [Kasparov,Garry.internal](/_internal/Society/Communication/Media/Creative_Work/Game/Chess/Kasparov,Garry.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Creative_Work/Game/Chess/Kasparov,Garry.internal|Kasparov,Garry.internal]] 
 
-### #is_/same_as :: [Kasparov,Garry.protect](/_protect/Society/Communication/Media/Creative_Work/Game/Chess/Kasparov,Garry.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Creative_Work/Game/Chess/Kasparov,Garry.protect|Kasparov,Garry.protect]] 
 
-### #is_/same_as :: [Kasparov,Garry.private](/_private/Society/Communication/Media/Creative_Work/Game/Chess/Kasparov,Garry.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Creative_Work/Game/Chess/Kasparov,Garry.private|Kasparov,Garry.private]] 
 
-### #is_/same_as :: [Kasparov,Garry.personal](/_personal/Society/Communication/Media/Creative_Work/Game/Chess/Kasparov,Garry.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/Game/Chess/Kasparov,Garry.personal|Kasparov,Garry.personal]] 
 
-### #is_/same_as :: [Kasparov,Garry.secret](/_secret/Society/Communication/Media/Creative_Work/Game/Chess/Kasparov,Garry.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Game/Chess/Kasparov,Garry.secret|Kasparov,Garry.secret]] 
 

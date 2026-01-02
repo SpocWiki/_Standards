@@ -32,17 +32,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Daily_Telegraph](/_Standards/Society/Communication/Media/Journalism/Newspaper/Daily_Telegraph.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Journalism/Newspaper/Daily_Telegraph|Daily_Telegraph]] 
 
-### #is_/same_as :: [Daily_Telegraph.public](/_public/Society/Communication/Media/Journalism/Newspaper/Daily_Telegraph.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Journalism/Newspaper/Daily_Telegraph.public|Daily_Telegraph.public]] 
 
-### #is_/same_as :: [Daily_Telegraph.internal](/_internal/Society/Communication/Media/Journalism/Newspaper/Daily_Telegraph.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Journalism/Newspaper/Daily_Telegraph.internal|Daily_Telegraph.internal]] 
 
-### #is_/same_as :: [Daily_Telegraph.protect](/_protect/Society/Communication/Media/Journalism/Newspaper/Daily_Telegraph.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Journalism/Newspaper/Daily_Telegraph.protect|Daily_Telegraph.protect]] 
 
-### #is_/same_as :: [Daily_Telegraph.private](/_private/Society/Communication/Media/Journalism/Newspaper/Daily_Telegraph.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Journalism/Newspaper/Daily_Telegraph.private|Daily_Telegraph.private]] 
 
-### #is_/same_as :: [Daily_Telegraph.personal](/_personal/Society/Communication/Media/Journalism/Newspaper/Daily_Telegraph.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Journalism/Newspaper/Daily_Telegraph.personal|Daily_Telegraph.personal]] 
 
-### #is_/same_as :: [Daily_Telegraph.secret](/_secret/Society/Communication/Media/Journalism/Newspaper/Daily_Telegraph.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Journalism/Newspaper/Daily_Telegraph.secret|Daily_Telegraph.secret]] 
 

@@ -179,17 +179,17 @@ Plex_person_key: 5d776833e6d55c002040cb0b
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Muhammad_Ali](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Boxing/Muhammad_Ali.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Boxing/Muhammad_Ali|Muhammad_Ali]] 
 
-### #is_/same_as :: [Muhammad_Ali.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Boxing/Muhammad_Ali.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Boxing/Muhammad_Ali.public|Muhammad_Ali.public]] 
 
-### #is_/same_as :: [Muhammad_Ali.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Boxing/Muhammad_Ali.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Boxing/Muhammad_Ali.internal|Muhammad_Ali.internal]] 
 
-### #is_/same_as :: [Muhammad_Ali.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Boxing/Muhammad_Ali.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Boxing/Muhammad_Ali.protect|Muhammad_Ali.protect]] 
 
-### #is_/same_as :: [Muhammad_Ali.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Boxing/Muhammad_Ali.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Boxing/Muhammad_Ali.private|Muhammad_Ali.private]] 
 
-### #is_/same_as :: [Muhammad_Ali.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Boxing/Muhammad_Ali.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Boxing/Muhammad_Ali.personal|Muhammad_Ali.personal]] 
 
-### #is_/same_as :: [Muhammad_Ali.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Boxing/Muhammad_Ali.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Boxing/Muhammad_Ali.secret|Muhammad_Ali.secret]] 
 

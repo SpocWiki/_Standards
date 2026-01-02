@@ -11,3 +11,22 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Kielce%20pogrom) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Science/Scientific_Method/Theory/Pseudoscience/Conspiracy_Theory/Antisemitism/Kielce_Pogrom,1946|Kielce_Pogrom,1946]] 
+
+### #is_/same_as :: [[/_public/Science/Scientific_Method/Theory/Pseudoscience/Conspiracy_Theory/Antisemitism/Kielce_Pogrom,1946.public|Kielce_Pogrom,1946.public]] 
+
+### #is_/same_as :: [[/_internal/Science/Scientific_Method/Theory/Pseudoscience/Conspiracy_Theory/Antisemitism/Kielce_Pogrom,1946.internal|Kielce_Pogrom,1946.internal]] 
+
+### #is_/same_as :: [[/_protect/Science/Scientific_Method/Theory/Pseudoscience/Conspiracy_Theory/Antisemitism/Kielce_Pogrom,1946.protect|Kielce_Pogrom,1946.protect]] 
+
+### #is_/same_as :: [[/_private/Science/Scientific_Method/Theory/Pseudoscience/Conspiracy_Theory/Antisemitism/Kielce_Pogrom,1946.private|Kielce_Pogrom,1946.private]] 
+
+### #is_/same_as :: [[/_personal/Science/Scientific_Method/Theory/Pseudoscience/Conspiracy_Theory/Antisemitism/Kielce_Pogrom,1946.personal|Kielce_Pogrom,1946.personal]] 
+
+### #is_/same_as :: [[/_secret/Science/Scientific_Method/Theory/Pseudoscience/Conspiracy_Theory/Antisemitism/Kielce_Pogrom,1946.secret|Kielce_Pogrom,1946.secret]] 
+

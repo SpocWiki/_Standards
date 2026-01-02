@@ -42,17 +42,17 @@ Most famous Tracks:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Linkin_Park](/_Standards/Society/Communication/Media/Music/Musician/Music~Band/Linkin_Park.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Musician/Music~Band/Linkin_Park|Linkin_Park]] 
 
-### #is_/same_as :: [Linkin_Park.public](/_public/Society/Communication/Media/Music/Musician/Music~Band/Linkin_Park.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Musician/Music~Band/Linkin_Park.public|Linkin_Park.public]] 
 
-### #is_/same_as :: [Linkin_Park.internal](/_internal/Society/Communication/Media/Music/Musician/Music~Band/Linkin_Park.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Musician/Music~Band/Linkin_Park.internal|Linkin_Park.internal]] 
 
-### #is_/same_as :: [Linkin_Park.protect](/_protect/Society/Communication/Media/Music/Musician/Music~Band/Linkin_Park.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Musician/Music~Band/Linkin_Park.protect|Linkin_Park.protect]] 
 
-### #is_/same_as :: [Linkin_Park.private](/_private/Society/Communication/Media/Music/Musician/Music~Band/Linkin_Park.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Musician/Music~Band/Linkin_Park.private|Linkin_Park.private]] 
 
-### #is_/same_as :: [Linkin_Park.personal](/_personal/Society/Communication/Media/Music/Musician/Music~Band/Linkin_Park.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Musician/Music~Band/Linkin_Park.personal|Linkin_Park.personal]] 
 
-### #is_/same_as :: [Linkin_Park.secret](/_secret/Society/Communication/Media/Music/Musician/Music~Band/Linkin_Park.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Musician/Music~Band/Linkin_Park.secret|Linkin_Park.secret]] 
 

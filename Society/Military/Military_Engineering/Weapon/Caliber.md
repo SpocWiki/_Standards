@@ -48,17 +48,17 @@ Commons_category: Pistol and rifle cartridges
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Caliber](/_Standards/Society/Military/Military_Engineering/Weapon/Caliber.md) 
+### #is_/same_as :: [[/_Standards/Society/Military/Military_Engineering/Weapon/Caliber|Caliber]] 
 
-### #is_/same_as :: [Caliber.public](/_public/Society/Military/Military_Engineering/Weapon/Caliber.public.md) 
+### #is_/same_as :: [[/_public/Society/Military/Military_Engineering/Weapon/Caliber.public|Caliber.public]] 
 
-### #is_/same_as :: [Caliber.internal](/_internal/Society/Military/Military_Engineering/Weapon/Caliber.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Military/Military_Engineering/Weapon/Caliber.internal|Caliber.internal]] 
 
-### #is_/same_as :: [Caliber.protect](/_protect/Society/Military/Military_Engineering/Weapon/Caliber.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Military/Military_Engineering/Weapon/Caliber.protect|Caliber.protect]] 
 
-### #is_/same_as :: [Caliber.private](/_private/Society/Military/Military_Engineering/Weapon/Caliber.private.md) 
+### #is_/same_as :: [[/_private/Society/Military/Military_Engineering/Weapon/Caliber.private|Caliber.private]] 
 
-### #is_/same_as :: [Caliber.personal](/_personal/Society/Military/Military_Engineering/Weapon/Caliber.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Military/Military_Engineering/Weapon/Caliber.personal|Caliber.personal]] 
 
-### #is_/same_as :: [Caliber.secret](/_secret/Society/Military/Military_Engineering/Weapon/Caliber.secret.md)
+### #is_/same_as :: [[/_secret/Society/Military/Military_Engineering/Weapon/Caliber.secret|Caliber.secret]] 
 

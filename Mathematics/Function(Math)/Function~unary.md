@@ -34,17 +34,17 @@ opposite_of: "[[_Standards/WikiData/WD~multivariate_function,78081419]]"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Function~unary](/_Standards/Mathematics/Function(Math)/Function~unary.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Function(Math)/Function~unary|Function~unary]] 
 
-### #is_/same_as :: [Function~unary.public](/_public/Mathematics/Function(Math)/Function~unary.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Function(Math)/Function~unary.public|Function~unary.public]] 
 
-### #is_/same_as :: [Function~unary.internal](/_internal/Mathematics/Function(Math)/Function~unary.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Function(Math)/Function~unary.internal|Function~unary.internal]] 
 
-### #is_/same_as :: [Function~unary.protect](/_protect/Mathematics/Function(Math)/Function~unary.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Function(Math)/Function~unary.protect|Function~unary.protect]] 
 
-### #is_/same_as :: [Function~unary.private](/_private/Mathematics/Function(Math)/Function~unary.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Function(Math)/Function~unary.private|Function~unary.private]] 
 
-### #is_/same_as :: [Function~unary.personal](/_personal/Mathematics/Function(Math)/Function~unary.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Function(Math)/Function~unary.personal|Function~unary.personal]] 
 
-### #is_/same_as :: [Function~unary.secret](/_secret/Mathematics/Function(Math)/Function~unary.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Function(Math)/Function~unary.secret|Function~unary.secret]] 
 

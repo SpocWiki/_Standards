@@ -7,7 +7,7 @@ title: Reithrodon
 # [[Reithrodon]]
 
 ## Reithrodontini, Coney rat 
-![Reithrodon auritus](Reithrodon/reithro_005.jpg))
+![Reithrodon auritus](Reithrodon/reithro_005.jpg) 
 
 ## #has_/text_of_/abstract 
 
@@ -39,7 +39,7 @@ del Fuego to northern Argentina (Pardiñas and Galliari, 2001).  The
 Reithrodontini are viewed as agricultural pests because they consume
 largely only grasses; some have been observed consuming amounts equal to
 their body weight in a single night (Pearson, 1988).
-![ ](Reithrodon/reithro_006.jpg))
+![ ](Reithrodon/reithro_006.jpg) 
 
 *Reithrodon*. © O. Pearson
 ### Characteristics
@@ -172,24 +172,24 @@ unpublished).\
 ## Title Illustrations
 
 --------- 
-![Reithrodon auritus](Reithrodon/reithro.jpg))
+![Reithrodon auritus](Reithrodon/reithro.jpg) 
 Scientific Name ::  Reithrodon auritus
 Copyright ::         © 1997 O. Pearson
 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Reithrodon](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Rodentia/Muroidea/Sigmodontinae/Reithrodon.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Rodentia/Muroidea/Sigmodontinae/Reithrodon|Reithrodon]] 
 
-### #is_/same_as :: [Reithrodon.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Rodentia/Muroidea/Sigmodontinae/Reithrodon.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Rodentia/Muroidea/Sigmodontinae/Reithrodon.public|Reithrodon.public]] 
 
-### #is_/same_as :: [Reithrodon.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Rodentia/Muroidea/Sigmodontinae/Reithrodon.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Rodentia/Muroidea/Sigmodontinae/Reithrodon.internal|Reithrodon.internal]] 
 
-### #is_/same_as :: [Reithrodon.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Rodentia/Muroidea/Sigmodontinae/Reithrodon.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Rodentia/Muroidea/Sigmodontinae/Reithrodon.protect|Reithrodon.protect]] 
 
-### #is_/same_as :: [Reithrodon.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Rodentia/Muroidea/Sigmodontinae/Reithrodon.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Rodentia/Muroidea/Sigmodontinae/Reithrodon.private|Reithrodon.private]] 
 
-### #is_/same_as :: [Reithrodon.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Rodentia/Muroidea/Sigmodontinae/Reithrodon.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Rodentia/Muroidea/Sigmodontinae/Reithrodon.personal|Reithrodon.personal]] 
 
-### #is_/same_as :: [Reithrodon.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Rodentia/Muroidea/Sigmodontinae/Reithrodon.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Rodentia/Muroidea/Sigmodontinae/Reithrodon.secret|Reithrodon.secret]] 
 

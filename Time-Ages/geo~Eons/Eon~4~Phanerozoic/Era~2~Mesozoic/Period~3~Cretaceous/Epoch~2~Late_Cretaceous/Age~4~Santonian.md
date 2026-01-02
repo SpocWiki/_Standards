@@ -62,17 +62,17 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Age~4~Santonian](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~3~Cretaceous/Epoch~2~Late_Cretaceous/Age~4~Santonian.md) 
+### #is_/same_as :: [[/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~3~Cretaceous/Epoch~2~Late_Cretaceous/Age~4~Santonian|Age~4~Santonian]] 
 
-### #is_/same_as :: [Age~4~Santonian.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~3~Cretaceous/Epoch~2~Late_Cretaceous/Age~4~Santonian.public.md) 
+### #is_/same_as :: [[/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~3~Cretaceous/Epoch~2~Late_Cretaceous/Age~4~Santonian.public|Age~4~Santonian.public]] 
 
-### #is_/same_as :: [Age~4~Santonian.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~3~Cretaceous/Epoch~2~Late_Cretaceous/Age~4~Santonian.internal.md) 
+### #is_/same_as :: [[/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~3~Cretaceous/Epoch~2~Late_Cretaceous/Age~4~Santonian.internal|Age~4~Santonian.internal]] 
 
-### #is_/same_as :: [Age~4~Santonian.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~3~Cretaceous/Epoch~2~Late_Cretaceous/Age~4~Santonian.protect.md) 
+### #is_/same_as :: [[/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~3~Cretaceous/Epoch~2~Late_Cretaceous/Age~4~Santonian.protect|Age~4~Santonian.protect]] 
 
-### #is_/same_as :: [Age~4~Santonian.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~3~Cretaceous/Epoch~2~Late_Cretaceous/Age~4~Santonian.private.md) 
+### #is_/same_as :: [[/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~3~Cretaceous/Epoch~2~Late_Cretaceous/Age~4~Santonian.private|Age~4~Santonian.private]] 
 
-### #is_/same_as :: [Age~4~Santonian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~3~Cretaceous/Epoch~2~Late_Cretaceous/Age~4~Santonian.personal.md) 
+### #is_/same_as :: [[/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~3~Cretaceous/Epoch~2~Late_Cretaceous/Age~4~Santonian.personal|Age~4~Santonian.personal]] 
 
-### #is_/same_as :: [Age~4~Santonian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~3~Cretaceous/Epoch~2~Late_Cretaceous/Age~4~Santonian.secret.md)
+### #is_/same_as :: [[/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~3~Cretaceous/Epoch~2~Late_Cretaceous/Age~4~Santonian.secret|Age~4~Santonian.secret]] 
 

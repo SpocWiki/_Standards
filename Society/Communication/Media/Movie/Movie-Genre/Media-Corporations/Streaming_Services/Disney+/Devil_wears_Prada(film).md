@@ -24,17 +24,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Devil_wears_Prada(film)](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Disney+/Devil_wears_Prada(film).md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Disney+/Devil_wears_Prada(film)|Devil_wears_Prada(film)]] 
 
-### #is_/same_as :: [Devil_wears_Prada(film).public](/_public/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Disney+/Devil_wears_Prada(film).public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Disney+/Devil_wears_Prada(film).public|Devil_wears_Prada(film).public]] 
 
-### #is_/same_as :: [Devil_wears_Prada(film).internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Disney+/Devil_wears_Prada(film).internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Disney+/Devil_wears_Prada(film).internal|Devil_wears_Prada(film).internal]] 
 
-### #is_/same_as :: [Devil_wears_Prada(film).protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Disney+/Devil_wears_Prada(film).protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Disney+/Devil_wears_Prada(film).protect|Devil_wears_Prada(film).protect]] 
 
-### #is_/same_as :: [Devil_wears_Prada(film).private](/_private/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Disney+/Devil_wears_Prada(film).private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Disney+/Devil_wears_Prada(film).private|Devil_wears_Prada(film).private]] 
 
-### #is_/same_as :: [Devil_wears_Prada(film).personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Disney+/Devil_wears_Prada(film).personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Disney+/Devil_wears_Prada(film).personal|Devil_wears_Prada(film).personal]] 
 
-### #is_/same_as :: [Devil_wears_Prada(film).secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Disney+/Devil_wears_Prada(film).secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Disney+/Devil_wears_Prada(film).secret|Devil_wears_Prada(film).secret]] 
 

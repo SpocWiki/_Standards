@@ -72,17 +72,17 @@ P1015: "90165117"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Cartier,Jacques](/_Standards/Earth/Explorer/Age_of_Discovery/Cartier,Jacques.md) 
+### #is_/same_as :: [[/_Standards/Earth/Explorer/Age_of_Discovery/Cartier,Jacques|Cartier,Jacques]] 
 
-### #is_/same_as :: [Cartier,Jacques.public](/_public/Earth/Explorer/Age_of_Discovery/Cartier,Jacques.public.md) 
+### #is_/same_as :: [[/_public/Earth/Explorer/Age_of_Discovery/Cartier,Jacques.public|Cartier,Jacques.public]] 
 
-### #is_/same_as :: [Cartier,Jacques.internal](/_internal/Earth/Explorer/Age_of_Discovery/Cartier,Jacques.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Explorer/Age_of_Discovery/Cartier,Jacques.internal|Cartier,Jacques.internal]] 
 
-### #is_/same_as :: [Cartier,Jacques.protect](/_protect/Earth/Explorer/Age_of_Discovery/Cartier,Jacques.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Explorer/Age_of_Discovery/Cartier,Jacques.protect|Cartier,Jacques.protect]] 
 
-### #is_/same_as :: [Cartier,Jacques.private](/_private/Earth/Explorer/Age_of_Discovery/Cartier,Jacques.private.md) 
+### #is_/same_as :: [[/_private/Earth/Explorer/Age_of_Discovery/Cartier,Jacques.private|Cartier,Jacques.private]] 
 
-### #is_/same_as :: [Cartier,Jacques.personal](/_personal/Earth/Explorer/Age_of_Discovery/Cartier,Jacques.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Explorer/Age_of_Discovery/Cartier,Jacques.personal|Cartier,Jacques.personal]] 
 
-### #is_/same_as :: [Cartier,Jacques.secret](/_secret/Earth/Explorer/Age_of_Discovery/Cartier,Jacques.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Explorer/Age_of_Discovery/Cartier,Jacques.secret|Cartier,Jacques.secret]] 
 

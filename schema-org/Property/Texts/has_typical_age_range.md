@@ -46,17 +46,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_typical_age_range](/_Standards/schema-org/Property/Texts/has_typical_age_range.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/Texts/has_typical_age_range|has_typical_age_range]] 
 
-### #is_/same_as :: [has_typical_age_range.public](/_public/schema-org/Property/Texts/has_typical_age_range.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/Texts/has_typical_age_range.public|has_typical_age_range.public]] 
 
-### #is_/same_as :: [has_typical_age_range.internal](/_internal/schema-org/Property/Texts/has_typical_age_range.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/Texts/has_typical_age_range.internal|has_typical_age_range.internal]] 
 
-### #is_/same_as :: [has_typical_age_range.protect](/_protect/schema-org/Property/Texts/has_typical_age_range.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/Texts/has_typical_age_range.protect|has_typical_age_range.protect]] 
 
-### #is_/same_as :: [has_typical_age_range.private](/_private/schema-org/Property/Texts/has_typical_age_range.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/Texts/has_typical_age_range.private|has_typical_age_range.private]] 
 
-### #is_/same_as :: [has_typical_age_range.personal](/_personal/schema-org/Property/Texts/has_typical_age_range.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/Texts/has_typical_age_range.personal|has_typical_age_range.personal]] 
 
-### #is_/same_as :: [has_typical_age_range.secret](/_secret/schema-org/Property/Texts/has_typical_age_range.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/Texts/has_typical_age_range.secret|has_typical_age_range.secret]] 
 

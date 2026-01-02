@@ -239,7 +239,7 @@ Mar. Sci. 27: 353-392.
 
 ## Title Illustrations
 
-![](Tremoctopodidae/TremoctSilhou1.jpg))
+![](Tremoctopodidae/TremoctSilhou1.jpg) 
 
   ------------------------
   Scientific Name ::     Tremoctopus violaceus
@@ -255,17 +255,17 @@ Mar. Sci. 27: 353-392.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Tremoctopodidae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Incirrata/Argonautoida/Tremoctopodidae.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Incirrata/Argonautoida/Tremoctopodidae|Tremoctopodidae]] 
 
-### #is_/same_as :: [Tremoctopodidae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Incirrata/Argonautoida/Tremoctopodidae.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Incirrata/Argonautoida/Tremoctopodidae.public|Tremoctopodidae.public]] 
 
-### #is_/same_as :: [Tremoctopodidae.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Incirrata/Argonautoida/Tremoctopodidae.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Incirrata/Argonautoida/Tremoctopodidae.internal|Tremoctopodidae.internal]] 
 
-### #is_/same_as :: [Tremoctopodidae.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Incirrata/Argonautoida/Tremoctopodidae.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Incirrata/Argonautoida/Tremoctopodidae.protect|Tremoctopodidae.protect]] 
 
-### #is_/same_as :: [Tremoctopodidae.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Incirrata/Argonautoida/Tremoctopodidae.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Incirrata/Argonautoida/Tremoctopodidae.private|Tremoctopodidae.private]] 
 
-### #is_/same_as :: [Tremoctopodidae.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Incirrata/Argonautoida/Tremoctopodidae.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Incirrata/Argonautoida/Tremoctopodidae.personal|Tremoctopodidae.personal]] 
 
-### #is_/same_as :: [Tremoctopodidae.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Incirrata/Argonautoida/Tremoctopodidae.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Incirrata/Argonautoida/Tremoctopodidae.secret|Tremoctopodidae.secret]] 
 

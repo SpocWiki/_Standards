@@ -30,17 +30,17 @@ markerFolder: ./{{EnglishName}}/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [_ContinentTemplate](/_Standards/Earth/Continent/_ContinentTemplate.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/_ContinentTemplate|_ContinentTemplate]] 
 
-### #is_/same_as :: [_ContinentTemplate.public](/_public/Earth/Continent/_ContinentTemplate.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/_ContinentTemplate.public|_ContinentTemplate.public]] 
 
-### #is_/same_as :: [_ContinentTemplate.internal](/_internal/Earth/Continent/_ContinentTemplate.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/_ContinentTemplate.internal|_ContinentTemplate.internal]] 
 
-### #is_/same_as :: [_ContinentTemplate.protect](/_protect/Earth/Continent/_ContinentTemplate.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/_ContinentTemplate.protect|_ContinentTemplate.protect]] 
 
-### #is_/same_as :: [_ContinentTemplate.private](/_private/Earth/Continent/_ContinentTemplate.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/_ContinentTemplate.private|_ContinentTemplate.private]] 
 
-### #is_/same_as :: [_ContinentTemplate.personal](/_personal/Earth/Continent/_ContinentTemplate.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/_ContinentTemplate.personal|_ContinentTemplate.personal]] 
 
-### #is_/same_as :: [_ContinentTemplate.secret](/_secret/Earth/Continent/_ContinentTemplate.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/_ContinentTemplate.secret|_ContinentTemplate.secret]] 
 

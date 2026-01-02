@@ -41,17 +41,17 @@ An indication for a medical therapy that has been formally specified or approved
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Approved_Indication](/_Standards/bio/Medicine/Medical_Condition/Medical_Indication/Approved_Indication.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Condition/Medical_Indication/Approved_Indication|Approved_Indication]] 
 
-### #is_/same_as :: [Approved_Indication.public](/_public/bio/Medicine/Medical_Condition/Medical_Indication/Approved_Indication.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Condition/Medical_Indication/Approved_Indication.public|Approved_Indication.public]] 
 
-### #is_/same_as :: [Approved_Indication.internal](/_internal/bio/Medicine/Medical_Condition/Medical_Indication/Approved_Indication.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Condition/Medical_Indication/Approved_Indication.internal|Approved_Indication.internal]] 
 
-### #is_/same_as :: [Approved_Indication.protect](/_protect/bio/Medicine/Medical_Condition/Medical_Indication/Approved_Indication.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Condition/Medical_Indication/Approved_Indication.protect|Approved_Indication.protect]] 
 
-### #is_/same_as :: [Approved_Indication.private](/_private/bio/Medicine/Medical_Condition/Medical_Indication/Approved_Indication.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Condition/Medical_Indication/Approved_Indication.private|Approved_Indication.private]] 
 
-### #is_/same_as :: [Approved_Indication.personal](/_personal/bio/Medicine/Medical_Condition/Medical_Indication/Approved_Indication.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Condition/Medical_Indication/Approved_Indication.personal|Approved_Indication.personal]] 
 
-### #is_/same_as :: [Approved_Indication.secret](/_secret/bio/Medicine/Medical_Condition/Medical_Indication/Approved_Indication.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Condition/Medical_Indication/Approved_Indication.secret|Approved_Indication.secret]] 
 

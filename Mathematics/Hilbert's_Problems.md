@@ -83,17 +83,17 @@ Commons_category: Hilbert's problems
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hilbert's_Problems](/_Standards/Mathematics/Hilbert's_Problems.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Hilbert's_Problems|Hilbert's_Problems]] 
 
-### #is_/same_as :: [Hilbert's_Problems.public](/_public/Mathematics/Hilbert's_Problems.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Hilbert's_Problems.public|Hilbert's_Problems.public]] 
 
-### #is_/same_as :: [Hilbert's_Problems.internal](/_internal/Mathematics/Hilbert's_Problems.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Hilbert's_Problems.internal|Hilbert's_Problems.internal]] 
 
-### #is_/same_as :: [Hilbert's_Problems.protect](/_protect/Mathematics/Hilbert's_Problems.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Hilbert's_Problems.protect|Hilbert's_Problems.protect]] 
 
-### #is_/same_as :: [Hilbert's_Problems.private](/_private/Mathematics/Hilbert's_Problems.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Hilbert's_Problems.private|Hilbert's_Problems.private]] 
 
-### #is_/same_as :: [Hilbert's_Problems.personal](/_personal/Mathematics/Hilbert's_Problems.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Hilbert's_Problems.personal|Hilbert's_Problems.personal]] 
 
-### #is_/same_as :: [Hilbert's_Problems.secret](/_secret/Mathematics/Hilbert's_Problems.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Hilbert's_Problems.secret|Hilbert's_Problems.secret]] 
 

@@ -73,17 +73,17 @@ U_S_National_Archives_Identifier: 10643066
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Slavery](/_Standards/Society/Social_Issues/Slavery.md) 
+### #is_/same_as :: [[/_Standards/Society/Social_Issues/Slavery|Slavery]] 
 
-### #is_/same_as :: [Slavery.public](/_public/Society/Social_Issues/Slavery.public.md) 
+### #is_/same_as :: [[/_public/Society/Social_Issues/Slavery.public|Slavery.public]] 
 
-### #is_/same_as :: [Slavery.internal](/_internal/Society/Social_Issues/Slavery.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Social_Issues/Slavery.internal|Slavery.internal]] 
 
-### #is_/same_as :: [Slavery.protect](/_protect/Society/Social_Issues/Slavery.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Social_Issues/Slavery.protect|Slavery.protect]] 
 
-### #is_/same_as :: [Slavery.private](/_private/Society/Social_Issues/Slavery.private.md) 
+### #is_/same_as :: [[/_private/Society/Social_Issues/Slavery.private|Slavery.private]] 
 
-### #is_/same_as :: [Slavery.personal](/_personal/Society/Social_Issues/Slavery.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Social_Issues/Slavery.personal|Slavery.personal]] 
 
-### #is_/same_as :: [Slavery.secret](/_secret/Society/Social_Issues/Slavery.secret.md)
+### #is_/same_as :: [[/_secret/Society/Social_Issues/Slavery.secret|Slavery.secret]] 
 

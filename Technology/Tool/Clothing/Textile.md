@@ -91,17 +91,17 @@ Krugosvet_article_archived_: nauka_i_tehnika/tehnologiya_i_promyshlennost/TEKSTI
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Textile](/_Standards/Technology/Tool/Clothing/Textile.md) 
+### #is_/same_as :: [[/_Standards/Technology/Tool/Clothing/Textile|Textile]] 
 
-### #is_/same_as :: [Textile.public](/_public/Technology/Tool/Clothing/Textile.public.md) 
+### #is_/same_as :: [[/_public/Technology/Tool/Clothing/Textile.public|Textile.public]] 
 
-### #is_/same_as :: [Textile.internal](/_internal/Technology/Tool/Clothing/Textile.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Tool/Clothing/Textile.internal|Textile.internal]] 
 
-### #is_/same_as :: [Textile.protect](/_protect/Technology/Tool/Clothing/Textile.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Tool/Clothing/Textile.protect|Textile.protect]] 
 
-### #is_/same_as :: [Textile.private](/_private/Technology/Tool/Clothing/Textile.private.md) 
+### #is_/same_as :: [[/_private/Technology/Tool/Clothing/Textile.private|Textile.private]] 
 
-### #is_/same_as :: [Textile.personal](/_personal/Technology/Tool/Clothing/Textile.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Tool/Clothing/Textile.personal|Textile.personal]] 
 
-### #is_/same_as :: [Textile.secret](/_secret/Technology/Tool/Clothing/Textile.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Tool/Clothing/Textile.secret|Textile.secret]] 
 

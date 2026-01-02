@@ -87,17 +87,17 @@ Commons_category: Prime ministers
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Prime_Minister](/_Standards/Society/Politics/Government/Republic/Prime_Minister.md) 
+### #is_/same_as :: [[/_Standards/Society/Politics/Government/Republic/Prime_Minister|Prime_Minister]] 
 
-### #is_/same_as :: [Prime_Minister.public](/_public/Society/Politics/Government/Republic/Prime_Minister.public.md) 
+### #is_/same_as :: [[/_public/Society/Politics/Government/Republic/Prime_Minister.public|Prime_Minister.public]] 
 
-### #is_/same_as :: [Prime_Minister.internal](/_internal/Society/Politics/Government/Republic/Prime_Minister.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Politics/Government/Republic/Prime_Minister.internal|Prime_Minister.internal]] 
 
-### #is_/same_as :: [Prime_Minister.protect](/_protect/Society/Politics/Government/Republic/Prime_Minister.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Politics/Government/Republic/Prime_Minister.protect|Prime_Minister.protect]] 
 
-### #is_/same_as :: [Prime_Minister.private](/_private/Society/Politics/Government/Republic/Prime_Minister.private.md) 
+### #is_/same_as :: [[/_private/Society/Politics/Government/Republic/Prime_Minister.private|Prime_Minister.private]] 
 
-### #is_/same_as :: [Prime_Minister.personal](/_personal/Society/Politics/Government/Republic/Prime_Minister.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Politics/Government/Republic/Prime_Minister.personal|Prime_Minister.personal]] 
 
-### #is_/same_as :: [Prime_Minister.secret](/_secret/Society/Politics/Government/Republic/Prime_Minister.secret.md)
+### #is_/same_as :: [[/_secret/Society/Politics/Government/Republic/Prime_Minister.secret|Prime_Minister.secret]] 
 

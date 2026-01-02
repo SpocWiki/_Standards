@@ -45,17 +45,17 @@ Formal Predicate:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_time_of_merchant_return_days](/_Standards/schema-org/Property/has_Date_Time/has_time_of_merchant_return_days.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_Date_Time/has_time_of_merchant_return_days|has_time_of_merchant_return_days]] 
 
-### #is_/same_as :: [has_time_of_merchant_return_days.public](/_public/schema-org/Property/has_Date_Time/has_time_of_merchant_return_days.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/has_Date_Time/has_time_of_merchant_return_days.public|has_time_of_merchant_return_days.public]] 
 
-### #is_/same_as :: [has_time_of_merchant_return_days.internal](/_internal/schema-org/Property/has_Date_Time/has_time_of_merchant_return_days.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_Date_Time/has_time_of_merchant_return_days.internal|has_time_of_merchant_return_days.internal]] 
 
-### #is_/same_as :: [has_time_of_merchant_return_days.protect](/_protect/schema-org/Property/has_Date_Time/has_time_of_merchant_return_days.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_Date_Time/has_time_of_merchant_return_days.protect|has_time_of_merchant_return_days.protect]] 
 
-### #is_/same_as :: [has_time_of_merchant_return_days.private](/_private/schema-org/Property/has_Date_Time/has_time_of_merchant_return_days.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/has_Date_Time/has_time_of_merchant_return_days.private|has_time_of_merchant_return_days.private]] 
 
-### #is_/same_as :: [has_time_of_merchant_return_days.personal](/_personal/schema-org/Property/has_Date_Time/has_time_of_merchant_return_days.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_Date_Time/has_time_of_merchant_return_days.personal|has_time_of_merchant_return_days.personal]] 
 
-### #is_/same_as :: [has_time_of_merchant_return_days.secret](/_secret/schema-org/Property/has_Date_Time/has_time_of_merchant_return_days.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/has_Date_Time/has_time_of_merchant_return_days.secret|has_time_of_merchant_return_days.secret]] 
 

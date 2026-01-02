@@ -43,7 +43,7 @@ title: Salamandra
 ## Title Illustrations
 
 ----------------------------------------------------------------------- 
-![](Salamandra/img_3736_2.jpg))
+![](Salamandra/img_3736_2.jpg) 
 Scientific Name ::     Salamandra salamandra
 Location ::           Romania
 Specimen Condition   Live Specimen
@@ -52,7 +52,7 @@ Image Use ::    [Attribution-NonCommercial 2.0 Creative Commons License](http://
 Copyright ::            © [Horia Bogdan](http://herp-or.uv.ro/index) 
 
 ----------------------------------------------------------------------- 
-![](Salamandra/205901169_5896159ed0_o.jpg))
+![](Salamandra/205901169_5896159ed0_o.jpg) 
 Scientific Name ::     Salamandra atra
 Location ::           Pont de Nant nature reserve in the western swiss alps
 Specimen Condition   Live Specimen
@@ -64,17 +64,17 @@ Copyright ::            © 2006 [Philippe Henry](http://flickr.com/people/665792
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Salamandra](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Salamandridae/Salamandra.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Salamandridae/Salamandra|Salamandra]] 
 
-### #is_/same_as :: [Salamandra.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Salamandridae/Salamandra.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Salamandridae/Salamandra.public|Salamandra.public]] 
 
-### #is_/same_as :: [Salamandra.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Salamandridae/Salamandra.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Salamandridae/Salamandra.internal|Salamandra.internal]] 
 
-### #is_/same_as :: [Salamandra.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Salamandridae/Salamandra.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Salamandridae/Salamandra.protect|Salamandra.protect]] 
 
-### #is_/same_as :: [Salamandra.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Salamandridae/Salamandra.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Salamandridae/Salamandra.private|Salamandra.private]] 
 
-### #is_/same_as :: [Salamandra.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Salamandridae/Salamandra.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Salamandridae/Salamandra.personal|Salamandra.personal]] 
 
-### #is_/same_as :: [Salamandra.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Salamandridae/Salamandra.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Salamandridae/Salamandra.secret|Salamandra.secret]] 
 

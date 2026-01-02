@@ -3,17 +3,17 @@ There are many (local) Coordinate Systems
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [geo~Coordinates](/_Standards/Earth/geo~Coordinates.md) 
+### #is_/same_as :: [[/_Standards/Earth/geo~Coordinates|geo~Coordinates]] 
 
-### #is_/same_as :: [geo~Coordinates.public](/_public/Earth/geo~Coordinates.public.md) 
+### #is_/same_as :: [[/_public/Earth/geo~Coordinates.public|geo~Coordinates.public]] 
 
-### #is_/same_as :: [geo~Coordinates.internal](/_internal/Earth/geo~Coordinates.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/geo~Coordinates.internal|geo~Coordinates.internal]] 
 
-### #is_/same_as :: [geo~Coordinates.protect](/_protect/Earth/geo~Coordinates.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/geo~Coordinates.protect|geo~Coordinates.protect]] 
 
-### #is_/same_as :: [geo~Coordinates.private](/_private/Earth/geo~Coordinates.private.md) 
+### #is_/same_as :: [[/_private/Earth/geo~Coordinates.private|geo~Coordinates.private]] 
 
-### #is_/same_as :: [geo~Coordinates.personal](/_personal/Earth/geo~Coordinates.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/geo~Coordinates.personal|geo~Coordinates.personal]] 
 
-### #is_/same_as :: [geo~Coordinates.secret](/_secret/Earth/geo~Coordinates.secret.md)
+### #is_/same_as :: [[/_secret/Earth/geo~Coordinates.secret|geo~Coordinates.secret]] 
 

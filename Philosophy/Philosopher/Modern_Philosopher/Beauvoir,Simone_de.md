@@ -156,17 +156,17 @@ writing_language: '[[_Standards/WikiData/WD~French,150]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Beauvoir,Simone_de](/_Standards/Philosophy/Philosopher/Modern_Philosopher/Beauvoir,Simone_de.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Philosopher/Modern_Philosopher/Beauvoir,Simone_de|Beauvoir,Simone_de]] 
 
-### #is_/same_as :: [Beauvoir,Simone_de.public](/_public/Philosophy/Philosopher/Modern_Philosopher/Beauvoir,Simone_de.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Philosopher/Modern_Philosopher/Beauvoir,Simone_de.public|Beauvoir,Simone_de.public]] 
 
-### #is_/same_as :: [Beauvoir,Simone_de.internal](/_internal/Philosophy/Philosopher/Modern_Philosopher/Beauvoir,Simone_de.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Philosopher/Modern_Philosopher/Beauvoir,Simone_de.internal|Beauvoir,Simone_de.internal]] 
 
-### #is_/same_as :: [Beauvoir,Simone_de.protect](/_protect/Philosophy/Philosopher/Modern_Philosopher/Beauvoir,Simone_de.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Philosopher/Modern_Philosopher/Beauvoir,Simone_de.protect|Beauvoir,Simone_de.protect]] 
 
-### #is_/same_as :: [Beauvoir,Simone_de.private](/_private/Philosophy/Philosopher/Modern_Philosopher/Beauvoir,Simone_de.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Philosopher/Modern_Philosopher/Beauvoir,Simone_de.private|Beauvoir,Simone_de.private]] 
 
-### #is_/same_as :: [Beauvoir,Simone_de.personal](/_personal/Philosophy/Philosopher/Modern_Philosopher/Beauvoir,Simone_de.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Philosopher/Modern_Philosopher/Beauvoir,Simone_de.personal|Beauvoir,Simone_de.personal]] 
 
-### #is_/same_as :: [Beauvoir,Simone_de.secret](/_secret/Philosophy/Philosopher/Modern_Philosopher/Beauvoir,Simone_de.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Philosopher/Modern_Philosopher/Beauvoir,Simone_de.secret|Beauvoir,Simone_de.secret]] 
 

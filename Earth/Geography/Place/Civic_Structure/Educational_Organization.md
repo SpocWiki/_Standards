@@ -43,17 +43,17 @@ An educational organization.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Educational_Organization](/_Standards/Earth/Geography/Place/Civic_Structure/Educational_Organization.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geography/Place/Civic_Structure/Educational_Organization|Educational_Organization]] 
 
-### #is_/same_as :: [Educational_Organization.public](/_public/Earth/Geography/Place/Civic_Structure/Educational_Organization.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geography/Place/Civic_Structure/Educational_Organization.public|Educational_Organization.public]] 
 
-### #is_/same_as :: [Educational_Organization.internal](/_internal/Earth/Geography/Place/Civic_Structure/Educational_Organization.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geography/Place/Civic_Structure/Educational_Organization.internal|Educational_Organization.internal]] 
 
-### #is_/same_as :: [Educational_Organization.protect](/_protect/Earth/Geography/Place/Civic_Structure/Educational_Organization.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geography/Place/Civic_Structure/Educational_Organization.protect|Educational_Organization.protect]] 
 
-### #is_/same_as :: [Educational_Organization.private](/_private/Earth/Geography/Place/Civic_Structure/Educational_Organization.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geography/Place/Civic_Structure/Educational_Organization.private|Educational_Organization.private]] 
 
-### #is_/same_as :: [Educational_Organization.personal](/_personal/Earth/Geography/Place/Civic_Structure/Educational_Organization.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geography/Place/Civic_Structure/Educational_Organization.personal|Educational_Organization.personal]] 
 
-### #is_/same_as :: [Educational_Organization.secret](/_secret/Earth/Geography/Place/Civic_Structure/Educational_Organization.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geography/Place/Civic_Structure/Educational_Organization.secret|Educational_Organization.secret]] 
 

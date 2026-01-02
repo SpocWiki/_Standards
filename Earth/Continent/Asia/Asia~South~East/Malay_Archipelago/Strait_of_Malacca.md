@@ -59,17 +59,17 @@ native_label:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Strait_of_Malacca](/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Strait_of_Malacca.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Strait_of_Malacca|Strait_of_Malacca]] 
 
-### #is_/same_as :: [Strait_of_Malacca.public](/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Strait_of_Malacca.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Strait_of_Malacca.public|Strait_of_Malacca.public]] 
 
-### #is_/same_as :: [Strait_of_Malacca.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Strait_of_Malacca.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Strait_of_Malacca.internal|Strait_of_Malacca.internal]] 
 
-### #is_/same_as :: [Strait_of_Malacca.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Strait_of_Malacca.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Strait_of_Malacca.protect|Strait_of_Malacca.protect]] 
 
-### #is_/same_as :: [Strait_of_Malacca.private](/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Strait_of_Malacca.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Strait_of_Malacca.private|Strait_of_Malacca.private]] 
 
-### #is_/same_as :: [Strait_of_Malacca.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Strait_of_Malacca.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Strait_of_Malacca.personal|Strait_of_Malacca.personal]] 
 
-### #is_/same_as :: [Strait_of_Malacca.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Strait_of_Malacca.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Strait_of_Malacca.secret|Strait_of_Malacca.secret]] 
 

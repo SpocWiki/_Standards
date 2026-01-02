@@ -310,17 +310,17 @@ has_place_continent:: [[Africa]]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sao_Tome_and_Principe](/_Standards/Earth/Continent/Africa/Africa~Central/Sao_Tome_and_Principe.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~Central/Sao_Tome_and_Principe|Sao_Tome_and_Principe]] 
 
-### #is_/same_as :: [Sao_Tome_and_Principe.public](/_public/Earth/Continent/Africa/Africa~Central/Sao_Tome_and_Principe.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~Central/Sao_Tome_and_Principe.public|Sao_Tome_and_Principe.public]] 
 
-### #is_/same_as :: [Sao_Tome_and_Principe.internal](/_internal/Earth/Continent/Africa/Africa~Central/Sao_Tome_and_Principe.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~Central/Sao_Tome_and_Principe.internal|Sao_Tome_and_Principe.internal]] 
 
-### #is_/same_as :: [Sao_Tome_and_Principe.protect](/_protect/Earth/Continent/Africa/Africa~Central/Sao_Tome_and_Principe.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~Central/Sao_Tome_and_Principe.protect|Sao_Tome_and_Principe.protect]] 
 
-### #is_/same_as :: [Sao_Tome_and_Principe.private](/_private/Earth/Continent/Africa/Africa~Central/Sao_Tome_and_Principe.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~Central/Sao_Tome_and_Principe.private|Sao_Tome_and_Principe.private]] 
 
-### #is_/same_as :: [Sao_Tome_and_Principe.personal](/_personal/Earth/Continent/Africa/Africa~Central/Sao_Tome_and_Principe.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~Central/Sao_Tome_and_Principe.personal|Sao_Tome_and_Principe.personal]] 
 
-### #is_/same_as :: [Sao_Tome_and_Principe.secret](/_secret/Earth/Continent/Africa/Africa~Central/Sao_Tome_and_Principe.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~Central/Sao_Tome_and_Principe.secret|Sao_Tome_and_Principe.secret]] 
 

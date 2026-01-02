@@ -116,17 +116,17 @@ ISNI: 0000000120959583
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Piaget,Jean](/_Standards/bio/Psychology/Psychologist/Piaget,Jean.md) 
+### #is_/same_as :: [[/_Standards/bio/Psychology/Psychologist/Piaget,Jean|Piaget,Jean]] 
 
-### #is_/same_as :: [Piaget,Jean.public](/_public/bio/Psychology/Psychologist/Piaget,Jean.public.md) 
+### #is_/same_as :: [[/_public/bio/Psychology/Psychologist/Piaget,Jean.public|Piaget,Jean.public]] 
 
-### #is_/same_as :: [Piaget,Jean.internal](/_internal/bio/Psychology/Psychologist/Piaget,Jean.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Psychology/Psychologist/Piaget,Jean.internal|Piaget,Jean.internal]] 
 
-### #is_/same_as :: [Piaget,Jean.protect](/_protect/bio/Psychology/Psychologist/Piaget,Jean.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Psychology/Psychologist/Piaget,Jean.protect|Piaget,Jean.protect]] 
 
-### #is_/same_as :: [Piaget,Jean.private](/_private/bio/Psychology/Psychologist/Piaget,Jean.private.md) 
+### #is_/same_as :: [[/_private/bio/Psychology/Psychologist/Piaget,Jean.private|Piaget,Jean.private]] 
 
-### #is_/same_as :: [Piaget,Jean.personal](/_personal/bio/Psychology/Psychologist/Piaget,Jean.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Psychology/Psychologist/Piaget,Jean.personal|Piaget,Jean.personal]] 
 
-### #is_/same_as :: [Piaget,Jean.secret](/_secret/bio/Psychology/Psychologist/Piaget,Jean.secret.md)
+### #is_/same_as :: [[/_secret/bio/Psychology/Psychologist/Piaget,Jean.secret|Piaget,Jean.secret]] 
 

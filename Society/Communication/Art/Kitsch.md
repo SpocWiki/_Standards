@@ -22,17 +22,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Kitsch](/_Standards/Society/Communication/Art/Kitsch.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Art/Kitsch|Kitsch]] 
 
-### #is_/same_as :: [Kitsch.public](/_public/Society/Communication/Art/Kitsch.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Art/Kitsch.public|Kitsch.public]] 
 
-### #is_/same_as :: [Kitsch.internal](/_internal/Society/Communication/Art/Kitsch.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Art/Kitsch.internal|Kitsch.internal]] 
 
-### #is_/same_as :: [Kitsch.protect](/_protect/Society/Communication/Art/Kitsch.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Art/Kitsch.protect|Kitsch.protect]] 
 
-### #is_/same_as :: [Kitsch.private](/_private/Society/Communication/Art/Kitsch.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Art/Kitsch.private|Kitsch.private]] 
 
-### #is_/same_as :: [Kitsch.personal](/_personal/Society/Communication/Art/Kitsch.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Art/Kitsch.personal|Kitsch.personal]] 
 
-### #is_/same_as :: [Kitsch.secret](/_secret/Society/Communication/Art/Kitsch.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Art/Kitsch.secret|Kitsch.secret]] 
 

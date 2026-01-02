@@ -83,17 +83,17 @@ Gujarati_Vishwakosh_entry: ત્રિકોણ
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Triangle](/_Standards/Mathematics/Geometry/Geometry-2D/Triangle.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Geometry/Geometry-2D/Triangle|Triangle]] 
 
-### #is_/same_as :: [Triangle.public](/_public/Mathematics/Geometry/Geometry-2D/Triangle.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Geometry/Geometry-2D/Triangle.public|Triangle.public]] 
 
-### #is_/same_as :: [Triangle.internal](/_internal/Mathematics/Geometry/Geometry-2D/Triangle.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Geometry/Geometry-2D/Triangle.internal|Triangle.internal]] 
 
-### #is_/same_as :: [Triangle.protect](/_protect/Mathematics/Geometry/Geometry-2D/Triangle.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Geometry/Geometry-2D/Triangle.protect|Triangle.protect]] 
 
-### #is_/same_as :: [Triangle.private](/_private/Mathematics/Geometry/Geometry-2D/Triangle.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Geometry/Geometry-2D/Triangle.private|Triangle.private]] 
 
-### #is_/same_as :: [Triangle.personal](/_personal/Mathematics/Geometry/Geometry-2D/Triangle.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Geometry/Geometry-2D/Triangle.personal|Triangle.personal]] 
 
-### #is_/same_as :: [Triangle.secret](/_secret/Mathematics/Geometry/Geometry-2D/Triangle.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Geometry/Geometry-2D/Triangle.secret|Triangle.secret]] 
 

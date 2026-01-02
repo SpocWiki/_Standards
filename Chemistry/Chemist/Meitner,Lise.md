@@ -183,17 +183,17 @@ Wolfram_Language_entity_code: Entity["Concept", "LiseMeitner::484r5"]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Meitner,Lise](/_Standards/Chemistry/Chemist/Meitner,Lise.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Chemist/Meitner,Lise|Meitner,Lise]] 
 
-### #is_/same_as :: [Meitner,Lise.public](/_public/Chemistry/Chemist/Meitner,Lise.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Chemist/Meitner,Lise.public|Meitner,Lise.public]] 
 
-### #is_/same_as :: [Meitner,Lise.internal](/_internal/Chemistry/Chemist/Meitner,Lise.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Chemist/Meitner,Lise.internal|Meitner,Lise.internal]] 
 
-### #is_/same_as :: [Meitner,Lise.protect](/_protect/Chemistry/Chemist/Meitner,Lise.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Chemist/Meitner,Lise.protect|Meitner,Lise.protect]] 
 
-### #is_/same_as :: [Meitner,Lise.private](/_private/Chemistry/Chemist/Meitner,Lise.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Chemist/Meitner,Lise.private|Meitner,Lise.private]] 
 
-### #is_/same_as :: [Meitner,Lise.personal](/_personal/Chemistry/Chemist/Meitner,Lise.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Chemist/Meitner,Lise.personal|Meitner,Lise.personal]] 
 
-### #is_/same_as :: [Meitner,Lise.secret](/_secret/Chemistry/Chemist/Meitner,Lise.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Chemist/Meitner,Lise.secret|Meitner,Lise.secret]] 
 

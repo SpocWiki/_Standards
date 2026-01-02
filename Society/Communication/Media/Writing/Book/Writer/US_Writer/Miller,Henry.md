@@ -94,17 +94,17 @@ Europeana_entity: agent/base/60651
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Miller,Henry](/_Standards/Society/Communication/Media/Writing/Book/Writer/US_Writer/Miller,Henry.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Writer/US_Writer/Miller,Henry|Miller,Henry]] 
 
-### #is_/same_as :: [Miller,Henry.public](/_public/Society/Communication/Media/Writing/Book/Writer/US_Writer/Miller,Henry.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Writer/US_Writer/Miller,Henry.public|Miller,Henry.public]] 
 
-### #is_/same_as :: [Miller,Henry.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/US_Writer/Miller,Henry.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Writer/US_Writer/Miller,Henry.internal|Miller,Henry.internal]] 
 
-### #is_/same_as :: [Miller,Henry.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/US_Writer/Miller,Henry.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Writer/US_Writer/Miller,Henry.protect|Miller,Henry.protect]] 
 
-### #is_/same_as :: [Miller,Henry.private](/_private/Society/Communication/Media/Writing/Book/Writer/US_Writer/Miller,Henry.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Writer/US_Writer/Miller,Henry.private|Miller,Henry.private]] 
 
-### #is_/same_as :: [Miller,Henry.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/US_Writer/Miller,Henry.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Writer/US_Writer/Miller,Henry.personal|Miller,Henry.personal]] 
 
-### #is_/same_as :: [Miller,Henry.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/US_Writer/Miller,Henry.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Writer/US_Writer/Miller,Henry.secret|Miller,Henry.secret]] 
 

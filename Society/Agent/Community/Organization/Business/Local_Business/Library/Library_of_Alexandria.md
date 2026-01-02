@@ -116,17 +116,17 @@ Libris_URI: ljx167l450r4wdv
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Library_of_Alexandria](/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Library/Library_of_Alexandria.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Library/Library_of_Alexandria|Library_of_Alexandria]] 
 
-### #is_/same_as :: [Library_of_Alexandria.public](/_public/Society/Agent/Community/Organization/Business/Local_Business/Library/Library_of_Alexandria.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Business/Local_Business/Library/Library_of_Alexandria.public|Library_of_Alexandria.public]] 
 
-### #is_/same_as :: [Library_of_Alexandria.internal](/_internal/Society/Agent/Community/Organization/Business/Local_Business/Library/Library_of_Alexandria.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Business/Local_Business/Library/Library_of_Alexandria.internal|Library_of_Alexandria.internal]] 
 
-### #is_/same_as :: [Library_of_Alexandria.protect](/_protect/Society/Agent/Community/Organization/Business/Local_Business/Library/Library_of_Alexandria.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Business/Local_Business/Library/Library_of_Alexandria.protect|Library_of_Alexandria.protect]] 
 
-### #is_/same_as :: [Library_of_Alexandria.private](/_private/Society/Agent/Community/Organization/Business/Local_Business/Library/Library_of_Alexandria.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Business/Local_Business/Library/Library_of_Alexandria.private|Library_of_Alexandria.private]] 
 
-### #is_/same_as :: [Library_of_Alexandria.personal](/_personal/Society/Agent/Community/Organization/Business/Local_Business/Library/Library_of_Alexandria.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Business/Local_Business/Library/Library_of_Alexandria.personal|Library_of_Alexandria.personal]] 
 
-### #is_/same_as :: [Library_of_Alexandria.secret](/_secret/Society/Agent/Community/Organization/Business/Local_Business/Library/Library_of_Alexandria.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Business/Local_Business/Library/Library_of_Alexandria.secret|Library_of_Alexandria.secret]] 
 

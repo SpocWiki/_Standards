@@ -44,17 +44,17 @@ The item is intended to induce bodily harm, for example guns, mace, combat knive
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Weapon_Consideration](/_Standards/schema-org/Enumeration/Adult_Oriented_Enumeration/Weapon_Consideration.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Adult_Oriented_Enumeration/Weapon_Consideration|Weapon_Consideration]] 
 
-### #is_/same_as :: [Weapon_Consideration.public](/_public/schema-org/Enumeration/Adult_Oriented_Enumeration/Weapon_Consideration.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Adult_Oriented_Enumeration/Weapon_Consideration.public|Weapon_Consideration.public]] 
 
-### #is_/same_as :: [Weapon_Consideration.internal](/_internal/schema-org/Enumeration/Adult_Oriented_Enumeration/Weapon_Consideration.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Adult_Oriented_Enumeration/Weapon_Consideration.internal|Weapon_Consideration.internal]] 
 
-### #is_/same_as :: [Weapon_Consideration.protect](/_protect/schema-org/Enumeration/Adult_Oriented_Enumeration/Weapon_Consideration.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Adult_Oriented_Enumeration/Weapon_Consideration.protect|Weapon_Consideration.protect]] 
 
-### #is_/same_as :: [Weapon_Consideration.private](/_private/schema-org/Enumeration/Adult_Oriented_Enumeration/Weapon_Consideration.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Adult_Oriented_Enumeration/Weapon_Consideration.private|Weapon_Consideration.private]] 
 
-### #is_/same_as :: [Weapon_Consideration.personal](/_personal/schema-org/Enumeration/Adult_Oriented_Enumeration/Weapon_Consideration.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Adult_Oriented_Enumeration/Weapon_Consideration.personal|Weapon_Consideration.personal]] 
 
-### #is_/same_as :: [Weapon_Consideration.secret](/_secret/schema-org/Enumeration/Adult_Oriented_Enumeration/Weapon_Consideration.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Adult_Oriented_Enumeration/Weapon_Consideration.secret|Weapon_Consideration.secret]] 
 

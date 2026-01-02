@@ -60,17 +60,17 @@ Dewey_Decimal_Classification: "541.372"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Electrolyte](/_Standards/Chemistry/Electrochemistry/Electrolyte.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Electrochemistry/Electrolyte|Electrolyte]] 
 
-### #is_/same_as :: [Electrolyte.public](/_public/Chemistry/Electrochemistry/Electrolyte.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Electrochemistry/Electrolyte.public|Electrolyte.public]] 
 
-### #is_/same_as :: [Electrolyte.internal](/_internal/Chemistry/Electrochemistry/Electrolyte.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Electrochemistry/Electrolyte.internal|Electrolyte.internal]] 
 
-### #is_/same_as :: [Electrolyte.protect](/_protect/Chemistry/Electrochemistry/Electrolyte.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Electrochemistry/Electrolyte.protect|Electrolyte.protect]] 
 
-### #is_/same_as :: [Electrolyte.private](/_private/Chemistry/Electrochemistry/Electrolyte.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Electrochemistry/Electrolyte.private|Electrolyte.private]] 
 
-### #is_/same_as :: [Electrolyte.personal](/_personal/Chemistry/Electrochemistry/Electrolyte.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Electrochemistry/Electrolyte.personal|Electrolyte.personal]] 
 
-### #is_/same_as :: [Electrolyte.secret](/_secret/Chemistry/Electrochemistry/Electrolyte.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Electrochemistry/Electrolyte.secret|Electrolyte.secret]] 
 

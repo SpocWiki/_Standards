@@ -66,17 +66,17 @@ video: http://commons.wikimedia.org/wiki/Special:FilePath/Lucretius%2C%20De%20re
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Reading](/_Standards/Society/Communication/Media/Reading.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Reading|Reading]] 
 
-### #is_/same_as :: [Reading.public](/_public/Society/Communication/Media/Reading.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Reading.public|Reading.public]] 
 
-### #is_/same_as :: [Reading.internal](/_internal/Society/Communication/Media/Reading.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Reading.internal|Reading.internal]] 
 
-### #is_/same_as :: [Reading.protect](/_protect/Society/Communication/Media/Reading.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Reading.protect|Reading.protect]] 
 
-### #is_/same_as :: [Reading.private](/_private/Society/Communication/Media/Reading.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Reading.private|Reading.private]] 
 
-### #is_/same_as :: [Reading.personal](/_personal/Society/Communication/Media/Reading.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Reading.personal|Reading.personal]] 
 
-### #is_/same_as :: [Reading.secret](/_secret/Society/Communication/Media/Reading.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Reading.secret|Reading.secret]] 
 

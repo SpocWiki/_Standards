@@ -49,17 +49,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_health_plan_coinsurance_option](/_Standards/schema-org/Property/Texts/has_health_plan_coinsurance_option.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/Texts/has_health_plan_coinsurance_option|has_health_plan_coinsurance_option]] 
 
-### #is_/same_as :: [has_health_plan_coinsurance_option.public](/_public/schema-org/Property/Texts/has_health_plan_coinsurance_option.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/Texts/has_health_plan_coinsurance_option.public|has_health_plan_coinsurance_option.public]] 
 
-### #is_/same_as :: [has_health_plan_coinsurance_option.internal](/_internal/schema-org/Property/Texts/has_health_plan_coinsurance_option.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/Texts/has_health_plan_coinsurance_option.internal|has_health_plan_coinsurance_option.internal]] 
 
-### #is_/same_as :: [has_health_plan_coinsurance_option.protect](/_protect/schema-org/Property/Texts/has_health_plan_coinsurance_option.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/Texts/has_health_plan_coinsurance_option.protect|has_health_plan_coinsurance_option.protect]] 
 
-### #is_/same_as :: [has_health_plan_coinsurance_option.private](/_private/schema-org/Property/Texts/has_health_plan_coinsurance_option.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/Texts/has_health_plan_coinsurance_option.private|has_health_plan_coinsurance_option.private]] 
 
-### #is_/same_as :: [has_health_plan_coinsurance_option.personal](/_personal/schema-org/Property/Texts/has_health_plan_coinsurance_option.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/Texts/has_health_plan_coinsurance_option.personal|has_health_plan_coinsurance_option.personal]] 
 
-### #is_/same_as :: [has_health_plan_coinsurance_option.secret](/_secret/schema-org/Property/Texts/has_health_plan_coinsurance_option.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/Texts/has_health_plan_coinsurance_option.secret|has_health_plan_coinsurance_option.secret]] 
 

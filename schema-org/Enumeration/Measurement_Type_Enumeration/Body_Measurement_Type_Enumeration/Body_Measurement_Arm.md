@@ -44,17 +44,17 @@ Arm length (measured between arms/shoulder line intersection and the prominent w
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Body_Measurement_Arm](/_Standards/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Arm.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Arm|Body_Measurement_Arm]] 
 
-### #is_/same_as :: [Body_Measurement_Arm.public](/_public/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Arm.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Arm.public|Body_Measurement_Arm.public]] 
 
-### #is_/same_as :: [Body_Measurement_Arm.internal](/_internal/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Arm.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Arm.internal|Body_Measurement_Arm.internal]] 
 
-### #is_/same_as :: [Body_Measurement_Arm.protect](/_protect/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Arm.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Arm.protect|Body_Measurement_Arm.protect]] 
 
-### #is_/same_as :: [Body_Measurement_Arm.private](/_private/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Arm.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Arm.private|Body_Measurement_Arm.private]] 
 
-### #is_/same_as :: [Body_Measurement_Arm.personal](/_personal/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Arm.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Arm.personal|Body_Measurement_Arm.personal]] 
 
-### #is_/same_as :: [Body_Measurement_Arm.secret](/_secret/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Arm.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Arm.secret|Body_Measurement_Arm.secret]] 
 

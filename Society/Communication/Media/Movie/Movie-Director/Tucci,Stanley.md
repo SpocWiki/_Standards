@@ -45,17 +45,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Tucci,Stanley](/_Standards/Society/Communication/Media/Movie/Movie-Director/Tucci,Stanley.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Director/Tucci,Stanley|Tucci,Stanley]] 
 
-### #is_/same_as :: [Tucci,Stanley.public](/_public/Society/Communication/Media/Movie/Movie-Director/Tucci,Stanley.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Director/Tucci,Stanley.public|Tucci,Stanley.public]] 
 
-### #is_/same_as :: [Tucci,Stanley.internal](/_internal/Society/Communication/Media/Movie/Movie-Director/Tucci,Stanley.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Director/Tucci,Stanley.internal|Tucci,Stanley.internal]] 
 
-### #is_/same_as :: [Tucci,Stanley.protect](/_protect/Society/Communication/Media/Movie/Movie-Director/Tucci,Stanley.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Director/Tucci,Stanley.protect|Tucci,Stanley.protect]] 
 
-### #is_/same_as :: [Tucci,Stanley.private](/_private/Society/Communication/Media/Movie/Movie-Director/Tucci,Stanley.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Director/Tucci,Stanley.private|Tucci,Stanley.private]] 
 
-### #is_/same_as :: [Tucci,Stanley.personal](/_personal/Society/Communication/Media/Movie/Movie-Director/Tucci,Stanley.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Director/Tucci,Stanley.personal|Tucci,Stanley.personal]] 
 
-### #is_/same_as :: [Tucci,Stanley.secret](/_secret/Society/Communication/Media/Movie/Movie-Director/Tucci,Stanley.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Director/Tucci,Stanley.secret|Tucci,Stanley.secret]] 
 

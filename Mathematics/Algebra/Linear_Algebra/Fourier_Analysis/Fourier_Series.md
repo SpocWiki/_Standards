@@ -135,17 +135,17 @@ Commons_category: Fourier series
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Fourier_Series](/_Standards/Mathematics/Algebra/Linear_Algebra/Fourier_Analysis/Fourier_Series.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Algebra/Linear_Algebra/Fourier_Analysis/Fourier_Series|Fourier_Series]] 
 
-### #is_/same_as :: [Fourier_Series.public](/_public/Mathematics/Algebra/Linear_Algebra/Fourier_Analysis/Fourier_Series.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Algebra/Linear_Algebra/Fourier_Analysis/Fourier_Series.public|Fourier_Series.public]] 
 
-### #is_/same_as :: [Fourier_Series.internal](/_internal/Mathematics/Algebra/Linear_Algebra/Fourier_Analysis/Fourier_Series.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Algebra/Linear_Algebra/Fourier_Analysis/Fourier_Series.internal|Fourier_Series.internal]] 
 
-### #is_/same_as :: [Fourier_Series.protect](/_protect/Mathematics/Algebra/Linear_Algebra/Fourier_Analysis/Fourier_Series.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Algebra/Linear_Algebra/Fourier_Analysis/Fourier_Series.protect|Fourier_Series.protect]] 
 
-### #is_/same_as :: [Fourier_Series.private](/_private/Mathematics/Algebra/Linear_Algebra/Fourier_Analysis/Fourier_Series.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Algebra/Linear_Algebra/Fourier_Analysis/Fourier_Series.private|Fourier_Series.private]] 
 
-### #is_/same_as :: [Fourier_Series.personal](/_personal/Mathematics/Algebra/Linear_Algebra/Fourier_Analysis/Fourier_Series.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Algebra/Linear_Algebra/Fourier_Analysis/Fourier_Series.personal|Fourier_Series.personal]] 
 
-### #is_/same_as :: [Fourier_Series.secret](/_secret/Mathematics/Algebra/Linear_Algebra/Fourier_Analysis/Fourier_Series.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Algebra/Linear_Algebra/Fourier_Analysis/Fourier_Series.secret|Fourier_Series.secret]] 
 

@@ -58,17 +58,17 @@ writing_language: '[[_Standards/WikiData/WD~Arabic,13955]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Abu_Nuwas](/_Standards/Society/Communication/Media/Writing/Book/Writer/Abu_Nuwas.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Writer/Abu_Nuwas|Abu_Nuwas]] 
 
-### #is_/same_as :: [Abu_Nuwas.public](/_public/Society/Communication/Media/Writing/Book/Writer/Abu_Nuwas.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Writer/Abu_Nuwas.public|Abu_Nuwas.public]] 
 
-### #is_/same_as :: [Abu_Nuwas.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/Abu_Nuwas.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Writer/Abu_Nuwas.internal|Abu_Nuwas.internal]] 
 
-### #is_/same_as :: [Abu_Nuwas.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/Abu_Nuwas.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Writer/Abu_Nuwas.protect|Abu_Nuwas.protect]] 
 
-### #is_/same_as :: [Abu_Nuwas.private](/_private/Society/Communication/Media/Writing/Book/Writer/Abu_Nuwas.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Writer/Abu_Nuwas.private|Abu_Nuwas.private]] 
 
-### #is_/same_as :: [Abu_Nuwas.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/Abu_Nuwas.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Writer/Abu_Nuwas.personal|Abu_Nuwas.personal]] 
 
-### #is_/same_as :: [Abu_Nuwas.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/Abu_Nuwas.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Writer/Abu_Nuwas.secret|Abu_Nuwas.secret]] 
 

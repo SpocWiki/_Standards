@@ -26,17 +26,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [IMDb(Internet_Movie_Database)](/_Standards/Society/Communication/Media/Movie/IMDb(Internet_Movie_Database).md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/IMDb(Internet_Movie_Database)|IMDb(Internet_Movie_Database)]] 
 
-### #is_/same_as :: [IMDb(Internet_Movie_Database).public](/_public/Society/Communication/Media/Movie/IMDb(Internet_Movie_Database).public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/IMDb(Internet_Movie_Database).public|IMDb(Internet_Movie_Database).public]] 
 
-### #is_/same_as :: [IMDb(Internet_Movie_Database).internal](/_internal/Society/Communication/Media/Movie/IMDb(Internet_Movie_Database).internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/IMDb(Internet_Movie_Database).internal|IMDb(Internet_Movie_Database).internal]] 
 
-### #is_/same_as :: [IMDb(Internet_Movie_Database).protect](/_protect/Society/Communication/Media/Movie/IMDb(Internet_Movie_Database).protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/IMDb(Internet_Movie_Database).protect|IMDb(Internet_Movie_Database).protect]] 
 
-### #is_/same_as :: [IMDb(Internet_Movie_Database).private](/_private/Society/Communication/Media/Movie/IMDb(Internet_Movie_Database).private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/IMDb(Internet_Movie_Database).private|IMDb(Internet_Movie_Database).private]] 
 
-### #is_/same_as :: [IMDb(Internet_Movie_Database).personal](/_personal/Society/Communication/Media/Movie/IMDb(Internet_Movie_Database).personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/IMDb(Internet_Movie_Database).personal|IMDb(Internet_Movie_Database).personal]] 
 
-### #is_/same_as :: [IMDb(Internet_Movie_Database).secret](/_secret/Society/Communication/Media/Movie/IMDb(Internet_Movie_Database).secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/IMDb(Internet_Movie_Database).secret|IMDb(Internet_Movie_Database).secret]] 
 

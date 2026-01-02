@@ -401,17 +401,17 @@ date_of_death: 1926-12-05T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Monet,Claude](/_Standards/Society/Communication/Media/Painting/Painter/Monet,Claude.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Painting/Painter/Monet,Claude|Monet,Claude]] 
 
-### #is_/same_as :: [Monet,Claude.public](/_public/Society/Communication/Media/Painting/Painter/Monet,Claude.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Painting/Painter/Monet,Claude.public|Monet,Claude.public]] 
 
-### #is_/same_as :: [Monet,Claude.internal](/_internal/Society/Communication/Media/Painting/Painter/Monet,Claude.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Painting/Painter/Monet,Claude.internal|Monet,Claude.internal]] 
 
-### #is_/same_as :: [Monet,Claude.protect](/_protect/Society/Communication/Media/Painting/Painter/Monet,Claude.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Painting/Painter/Monet,Claude.protect|Monet,Claude.protect]] 
 
-### #is_/same_as :: [Monet,Claude.private](/_private/Society/Communication/Media/Painting/Painter/Monet,Claude.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Painting/Painter/Monet,Claude.private|Monet,Claude.private]] 
 
-### #is_/same_as :: [Monet,Claude.personal](/_personal/Society/Communication/Media/Painting/Painter/Monet,Claude.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Painting/Painter/Monet,Claude.personal|Monet,Claude.personal]] 
 
-### #is_/same_as :: [Monet,Claude.secret](/_secret/Society/Communication/Media/Painting/Painter/Monet,Claude.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Painting/Painter/Monet,Claude.secret|Monet,Claude.secret]] 
 

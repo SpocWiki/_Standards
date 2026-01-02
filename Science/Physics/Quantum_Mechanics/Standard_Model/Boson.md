@@ -35,17 +35,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Boson](/_Standards/Science/Physics/Quantum_Mechanics/Standard_Model/Boson.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Quantum_Mechanics/Standard_Model/Boson|Boson]] 
 
-### #is_/same_as :: [Boson.public](/_public/Science/Physics/Quantum_Mechanics/Standard_Model/Boson.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Quantum_Mechanics/Standard_Model/Boson.public|Boson.public]] 
 
-### #is_/same_as :: [Boson.internal](/_internal/Science/Physics/Quantum_Mechanics/Standard_Model/Boson.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Quantum_Mechanics/Standard_Model/Boson.internal|Boson.internal]] 
 
-### #is_/same_as :: [Boson.protect](/_protect/Science/Physics/Quantum_Mechanics/Standard_Model/Boson.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Quantum_Mechanics/Standard_Model/Boson.protect|Boson.protect]] 
 
-### #is_/same_as :: [Boson.private](/_private/Science/Physics/Quantum_Mechanics/Standard_Model/Boson.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Quantum_Mechanics/Standard_Model/Boson.private|Boson.private]] 
 
-### #is_/same_as :: [Boson.personal](/_personal/Science/Physics/Quantum_Mechanics/Standard_Model/Boson.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Quantum_Mechanics/Standard_Model/Boson.personal|Boson.personal]] 
 
-### #is_/same_as :: [Boson.secret](/_secret/Science/Physics/Quantum_Mechanics/Standard_Model/Boson.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Quantum_Mechanics/Standard_Model/Boson.secret|Boson.secret]] 
 

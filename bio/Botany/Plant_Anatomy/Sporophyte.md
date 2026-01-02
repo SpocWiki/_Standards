@@ -28,17 +28,17 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Alternation%20of%20gen
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sporophyte](/_Standards/bio/Botany/Plant_Anatomy/Sporophyte.md) 
+### #is_/same_as :: [[/_Standards/bio/Botany/Plant_Anatomy/Sporophyte|Sporophyte]] 
 
-### #is_/same_as :: [Sporophyte.public](/_public/bio/Botany/Plant_Anatomy/Sporophyte.public.md) 
+### #is_/same_as :: [[/_public/bio/Botany/Plant_Anatomy/Sporophyte.public|Sporophyte.public]] 
 
-### #is_/same_as :: [Sporophyte.internal](/_internal/bio/Botany/Plant_Anatomy/Sporophyte.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Botany/Plant_Anatomy/Sporophyte.internal|Sporophyte.internal]] 
 
-### #is_/same_as :: [Sporophyte.protect](/_protect/bio/Botany/Plant_Anatomy/Sporophyte.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Botany/Plant_Anatomy/Sporophyte.protect|Sporophyte.protect]] 
 
-### #is_/same_as :: [Sporophyte.private](/_private/bio/Botany/Plant_Anatomy/Sporophyte.private.md) 
+### #is_/same_as :: [[/_private/bio/Botany/Plant_Anatomy/Sporophyte.private|Sporophyte.private]] 
 
-### #is_/same_as :: [Sporophyte.personal](/_personal/bio/Botany/Plant_Anatomy/Sporophyte.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Botany/Plant_Anatomy/Sporophyte.personal|Sporophyte.personal]] 
 
-### #is_/same_as :: [Sporophyte.secret](/_secret/bio/Botany/Plant_Anatomy/Sporophyte.secret.md)
+### #is_/same_as :: [[/_secret/bio/Botany/Plant_Anatomy/Sporophyte.secret|Sporophyte.secret]] 
 

@@ -241,17 +241,17 @@ Gujarati_Vishwakosh_entry: ઇસ્લામ
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Islam](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam|Islam]] 
 
-### #is_/same_as :: [Islam.public](/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam.public|Islam.public]] 
 
-### #is_/same_as :: [Islam.internal](/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam.internal|Islam.internal]] 
 
-### #is_/same_as :: [Islam.protect](/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam.protect|Islam.protect]] 
 
-### #is_/same_as :: [Islam.private](/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam.private|Islam.private]] 
 
-### #is_/same_as :: [Islam.personal](/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam.personal|Islam.personal]] 
 
-### #is_/same_as :: [Islam.secret](/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam.secret|Islam.secret]] 
 

@@ -38,17 +38,17 @@ Commons_category: Matriarchy
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Matriarchy](/_Standards/Society/Matriarchy.md) 
+### #is_/same_as :: [[/_Standards/Society/Matriarchy|Matriarchy]] 
 
-### #is_/same_as :: [Matriarchy.public](/_public/Society/Matriarchy.public.md) 
+### #is_/same_as :: [[/_public/Society/Matriarchy.public|Matriarchy.public]] 
 
-### #is_/same_as :: [Matriarchy.internal](/_internal/Society/Matriarchy.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Matriarchy.internal|Matriarchy.internal]] 
 
-### #is_/same_as :: [Matriarchy.protect](/_protect/Society/Matriarchy.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Matriarchy.protect|Matriarchy.protect]] 
 
-### #is_/same_as :: [Matriarchy.private](/_private/Society/Matriarchy.private.md) 
+### #is_/same_as :: [[/_private/Society/Matriarchy.private|Matriarchy.private]] 
 
-### #is_/same_as :: [Matriarchy.personal](/_personal/Society/Matriarchy.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Matriarchy.personal|Matriarchy.personal]] 
 
-### #is_/same_as :: [Matriarchy.secret](/_secret/Society/Matriarchy.secret.md)
+### #is_/same_as :: [[/_secret/Society/Matriarchy.secret|Matriarchy.secret]] 
 

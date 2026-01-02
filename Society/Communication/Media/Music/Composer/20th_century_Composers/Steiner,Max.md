@@ -73,17 +73,17 @@ plaque_image: http://commons.wikimedia.org/wiki/Special:FilePath/GuentherZ%20200
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Steiner,Max](/_Standards/Society/Communication/Media/Music/Composer/20th_century_Composers/Steiner,Max.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Composer/20th_century_Composers/Steiner,Max|Steiner,Max]] 
 
-### #is_/same_as :: [Steiner,Max.public](/_public/Society/Communication/Media/Music/Composer/20th_century_Composers/Steiner,Max.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Composer/20th_century_Composers/Steiner,Max.public|Steiner,Max.public]] 
 
-### #is_/same_as :: [Steiner,Max.internal](/_internal/Society/Communication/Media/Music/Composer/20th_century_Composers/Steiner,Max.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Composer/20th_century_Composers/Steiner,Max.internal|Steiner,Max.internal]] 
 
-### #is_/same_as :: [Steiner,Max.protect](/_protect/Society/Communication/Media/Music/Composer/20th_century_Composers/Steiner,Max.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Composer/20th_century_Composers/Steiner,Max.protect|Steiner,Max.protect]] 
 
-### #is_/same_as :: [Steiner,Max.private](/_private/Society/Communication/Media/Music/Composer/20th_century_Composers/Steiner,Max.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Composer/20th_century_Composers/Steiner,Max.private|Steiner,Max.private]] 
 
-### #is_/same_as :: [Steiner,Max.personal](/_personal/Society/Communication/Media/Music/Composer/20th_century_Composers/Steiner,Max.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Composer/20th_century_Composers/Steiner,Max.personal|Steiner,Max.personal]] 
 
-### #is_/same_as :: [Steiner,Max.secret](/_secret/Society/Communication/Media/Music/Composer/20th_century_Composers/Steiner,Max.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Composer/20th_century_Composers/Steiner,Max.secret|Steiner,Max.secret]] 
 

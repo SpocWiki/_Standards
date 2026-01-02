@@ -58,17 +58,17 @@ Commons_category: Centrifugal force
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Centrifugal_Force](/_Standards/Science/Physics/Force/Pseudo-Force/Centrifugal_Force.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Force/Pseudo-Force/Centrifugal_Force|Centrifugal_Force]] 
 
-### #is_/same_as :: [Centrifugal_Force.public](/_public/Science/Physics/Force/Pseudo-Force/Centrifugal_Force.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Force/Pseudo-Force/Centrifugal_Force.public|Centrifugal_Force.public]] 
 
-### #is_/same_as :: [Centrifugal_Force.internal](/_internal/Science/Physics/Force/Pseudo-Force/Centrifugal_Force.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Force/Pseudo-Force/Centrifugal_Force.internal|Centrifugal_Force.internal]] 
 
-### #is_/same_as :: [Centrifugal_Force.protect](/_protect/Science/Physics/Force/Pseudo-Force/Centrifugal_Force.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Force/Pseudo-Force/Centrifugal_Force.protect|Centrifugal_Force.protect]] 
 
-### #is_/same_as :: [Centrifugal_Force.private](/_private/Science/Physics/Force/Pseudo-Force/Centrifugal_Force.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Force/Pseudo-Force/Centrifugal_Force.private|Centrifugal_Force.private]] 
 
-### #is_/same_as :: [Centrifugal_Force.personal](/_personal/Science/Physics/Force/Pseudo-Force/Centrifugal_Force.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Force/Pseudo-Force/Centrifugal_Force.personal|Centrifugal_Force.personal]] 
 
-### #is_/same_as :: [Centrifugal_Force.secret](/_secret/Science/Physics/Force/Pseudo-Force/Centrifugal_Force.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Force/Pseudo-Force/Centrifugal_Force.secret|Centrifugal_Force.secret]] 
 

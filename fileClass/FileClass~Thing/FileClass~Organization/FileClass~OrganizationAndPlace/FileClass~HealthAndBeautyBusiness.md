@@ -37,17 +37,17 @@ Health and beauty.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~HealthAndBeautyBusiness](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HealthAndBeautyBusiness.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HealthAndBeautyBusiness|FileClass~HealthAndBeautyBusiness]] 
 
-### #is_/same_as :: [FileClass~HealthAndBeautyBusiness.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HealthAndBeautyBusiness.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HealthAndBeautyBusiness.public|FileClass~HealthAndBeautyBusiness.public]] 
 
-### #is_/same_as :: [FileClass~HealthAndBeautyBusiness.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HealthAndBeautyBusiness.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HealthAndBeautyBusiness.internal|FileClass~HealthAndBeautyBusiness.internal]] 
 
-### #is_/same_as :: [FileClass~HealthAndBeautyBusiness.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HealthAndBeautyBusiness.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HealthAndBeautyBusiness.protect|FileClass~HealthAndBeautyBusiness.protect]] 
 
-### #is_/same_as :: [FileClass~HealthAndBeautyBusiness.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HealthAndBeautyBusiness.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HealthAndBeautyBusiness.private|FileClass~HealthAndBeautyBusiness.private]] 
 
-### #is_/same_as :: [FileClass~HealthAndBeautyBusiness.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HealthAndBeautyBusiness.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HealthAndBeautyBusiness.personal|FileClass~HealthAndBeautyBusiness.personal]] 
 
-### #is_/same_as :: [FileClass~HealthAndBeautyBusiness.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HealthAndBeautyBusiness.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HealthAndBeautyBusiness.secret|FileClass~HealthAndBeautyBusiness.secret]] 
 

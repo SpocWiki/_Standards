@@ -73,17 +73,17 @@ Baidu_Tieba_name:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Mouse(Computer)](/_Standards/Technology/IT/Computer_Hardware/Peripheral/Mouse(Computer).md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Computer_Hardware/Peripheral/Mouse(Computer)|Mouse(Computer)]] 
 
-### #is_/same_as :: [Mouse(Computer).public](/_public/Technology/IT/Computer_Hardware/Peripheral/Mouse(Computer).public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Computer_Hardware/Peripheral/Mouse(Computer).public|Mouse(Computer).public]] 
 
-### #is_/same_as :: [Mouse(Computer).internal](/_internal/Technology/IT/Computer_Hardware/Peripheral/Mouse(Computer).internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Computer_Hardware/Peripheral/Mouse(Computer).internal|Mouse(Computer).internal]] 
 
-### #is_/same_as :: [Mouse(Computer).protect](/_protect/Technology/IT/Computer_Hardware/Peripheral/Mouse(Computer).protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Computer_Hardware/Peripheral/Mouse(Computer).protect|Mouse(Computer).protect]] 
 
-### #is_/same_as :: [Mouse(Computer).private](/_private/Technology/IT/Computer_Hardware/Peripheral/Mouse(Computer).private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Computer_Hardware/Peripheral/Mouse(Computer).private|Mouse(Computer).private]] 
 
-### #is_/same_as :: [Mouse(Computer).personal](/_personal/Technology/IT/Computer_Hardware/Peripheral/Mouse(Computer).personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Computer_Hardware/Peripheral/Mouse(Computer).personal|Mouse(Computer).personal]] 
 
-### #is_/same_as :: [Mouse(Computer).secret](/_secret/Technology/IT/Computer_Hardware/Peripheral/Mouse(Computer).secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Computer_Hardware/Peripheral/Mouse(Computer).secret|Mouse(Computer).secret]] 
 

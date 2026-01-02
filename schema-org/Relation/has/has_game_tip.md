@@ -42,17 +42,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_game_tip](/_Standards/schema-org/Relation/has/has_game_tip.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_game_tip|has_game_tip]] 
 
-### #is_/same_as :: [has_game_tip.public](/_public/schema-org/Relation/has/has_game_tip.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_game_tip.public|has_game_tip.public]] 
 
-### #is_/same_as :: [has_game_tip.internal](/_internal/schema-org/Relation/has/has_game_tip.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_game_tip.internal|has_game_tip.internal]] 
 
-### #is_/same_as :: [has_game_tip.protect](/_protect/schema-org/Relation/has/has_game_tip.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_game_tip.protect|has_game_tip.protect]] 
 
-### #is_/same_as :: [has_game_tip.private](/_private/schema-org/Relation/has/has_game_tip.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_game_tip.private|has_game_tip.private]] 
 
-### #is_/same_as :: [has_game_tip.personal](/_personal/schema-org/Relation/has/has_game_tip.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_game_tip.personal|has_game_tip.personal]] 
 
-### #is_/same_as :: [has_game_tip.secret](/_secret/schema-org/Relation/has/has_game_tip.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_game_tip.secret|has_game_tip.secret]] 
 

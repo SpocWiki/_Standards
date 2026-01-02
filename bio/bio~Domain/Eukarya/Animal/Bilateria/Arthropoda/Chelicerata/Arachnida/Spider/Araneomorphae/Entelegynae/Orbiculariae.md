@@ -48,7 +48,7 @@ title: Orbiculariae
 [Jonathan Coddington]()
 
 ![Banded Argiope](Orbiculariae/Argiope_trifasciata.jpg)
-![](Orbiculariae/araneusface.jpg)![ ](Orbiculariae/Latrodectus_curacaviensis.jpg))
+![](Orbiculariae/araneusface.jpg)![ ](Orbiculariae/Latrodectus_curacaviensis.jpg) 
 
 Tree from Griswold et al. 1998 with modifications from Kuntner, 2005
 (Nephilidae conservatively placed in  a basal trichotomy with Araneidae
@@ -135,7 +135,7 @@ America: an identification manual. American Arachnological Society,
   Specimen Condition   Live Specimen
   Copyright ::            © [Leon Higley, Department of Entomology, University of Nebraska-Lincoln](http://entomology.unl.edu/)
   -------------------------------------
-![](Orbiculariae/araneusface.jpg))
+![](Orbiculariae/araneusface.jpg) 
 
   ---------------------------------------------------------------------------------
   Scientific Name ::     Araneus bicentenarius
@@ -150,7 +150,7 @@ America: an identification manual. American Arachnological Society,
   Copyright ::            © [Jonathan Coddington](http://entomology.si.edu/StaffPages/coddington.html) 
  
   ---------------------------------------------------------------------------------
-![](Orbiculariae/0841.jpg))
+![](Orbiculariae/0841.jpg) 
 
   ---------------------
   Scientific Name ::     Latrodectus curacaviensis
@@ -164,17 +164,17 @@ America: an identification manual. American Arachnological Society,
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Orbiculariae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Orbiculariae.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Orbiculariae|Orbiculariae]] 
 
-### #is_/same_as :: [Orbiculariae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Orbiculariae.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Orbiculariae.public|Orbiculariae.public]] 
 
-### #is_/same_as :: [Orbiculariae.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Orbiculariae.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Orbiculariae.internal|Orbiculariae.internal]] 
 
-### #is_/same_as :: [Orbiculariae.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Orbiculariae.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Orbiculariae.protect|Orbiculariae.protect]] 
 
-### #is_/same_as :: [Orbiculariae.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Orbiculariae.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Orbiculariae.private|Orbiculariae.private]] 
 
-### #is_/same_as :: [Orbiculariae.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Orbiculariae.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Orbiculariae.personal|Orbiculariae.personal]] 
 
-### #is_/same_as :: [Orbiculariae.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Orbiculariae.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Orbiculariae.secret|Orbiculariae.secret]] 
 

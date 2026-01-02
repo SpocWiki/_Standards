@@ -92,17 +92,17 @@ Unicode_character: 𨧀
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Dubnium](/_Standards/Chemistry/Chemical_Element/Group-05-Vanadium/Dubnium.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Chemical_Element/Group-05-Vanadium/Dubnium|Dubnium]] 
 
-### #is_/same_as :: [Dubnium.public](/_public/Chemistry/Chemical_Element/Group-05-Vanadium/Dubnium.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Chemical_Element/Group-05-Vanadium/Dubnium.public|Dubnium.public]] 
 
-### #is_/same_as :: [Dubnium.internal](/_internal/Chemistry/Chemical_Element/Group-05-Vanadium/Dubnium.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Chemical_Element/Group-05-Vanadium/Dubnium.internal|Dubnium.internal]] 
 
-### #is_/same_as :: [Dubnium.protect](/_protect/Chemistry/Chemical_Element/Group-05-Vanadium/Dubnium.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Chemical_Element/Group-05-Vanadium/Dubnium.protect|Dubnium.protect]] 
 
-### #is_/same_as :: [Dubnium.private](/_private/Chemistry/Chemical_Element/Group-05-Vanadium/Dubnium.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Chemical_Element/Group-05-Vanadium/Dubnium.private|Dubnium.private]] 
 
-### #is_/same_as :: [Dubnium.personal](/_personal/Chemistry/Chemical_Element/Group-05-Vanadium/Dubnium.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Chemical_Element/Group-05-Vanadium/Dubnium.personal|Dubnium.personal]] 
 
-### #is_/same_as :: [Dubnium.secret](/_secret/Chemistry/Chemical_Element/Group-05-Vanadium/Dubnium.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Chemical_Element/Group-05-Vanadium/Dubnium.secret|Dubnium.secret]] 
 

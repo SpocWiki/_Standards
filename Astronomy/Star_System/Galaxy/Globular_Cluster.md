@@ -46,17 +46,17 @@ Commons_category: Globular clusters
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Globular_Cluster](/_Standards/Astronomy/Star_System/Galaxy/Globular_Cluster.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Star_System/Galaxy/Globular_Cluster|Globular_Cluster]] 
 
-### #is_/same_as :: [Globular_Cluster.public](/_public/Astronomy/Star_System/Galaxy/Globular_Cluster.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Star_System/Galaxy/Globular_Cluster.public|Globular_Cluster.public]] 
 
-### #is_/same_as :: [Globular_Cluster.internal](/_internal/Astronomy/Star_System/Galaxy/Globular_Cluster.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Star_System/Galaxy/Globular_Cluster.internal|Globular_Cluster.internal]] 
 
-### #is_/same_as :: [Globular_Cluster.protect](/_protect/Astronomy/Star_System/Galaxy/Globular_Cluster.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Star_System/Galaxy/Globular_Cluster.protect|Globular_Cluster.protect]] 
 
-### #is_/same_as :: [Globular_Cluster.private](/_private/Astronomy/Star_System/Galaxy/Globular_Cluster.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Star_System/Galaxy/Globular_Cluster.private|Globular_Cluster.private]] 
 
-### #is_/same_as :: [Globular_Cluster.personal](/_personal/Astronomy/Star_System/Galaxy/Globular_Cluster.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Star_System/Galaxy/Globular_Cluster.personal|Globular_Cluster.personal]] 
 
-### #is_/same_as :: [Globular_Cluster.secret](/_secret/Astronomy/Star_System/Galaxy/Globular_Cluster.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Star_System/Galaxy/Globular_Cluster.secret|Globular_Cluster.secret]] 
 

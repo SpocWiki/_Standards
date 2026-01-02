@@ -212,17 +212,17 @@ U_S_National_Archives_Identifier: 10580250
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Castro,Fidel](/_Standards/Society/Politics/Government/Leader/Modern_Leaders/Castro,Fidel.md) 
+### #is_/same_as :: [[/_Standards/Society/Politics/Government/Leader/Modern_Leaders/Castro,Fidel|Castro,Fidel]] 
 
-### #is_/same_as :: [Castro,Fidel.public](/_public/Society/Politics/Government/Leader/Modern_Leaders/Castro,Fidel.public.md) 
+### #is_/same_as :: [[/_public/Society/Politics/Government/Leader/Modern_Leaders/Castro,Fidel.public|Castro,Fidel.public]] 
 
-### #is_/same_as :: [Castro,Fidel.internal](/_internal/Society/Politics/Government/Leader/Modern_Leaders/Castro,Fidel.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Politics/Government/Leader/Modern_Leaders/Castro,Fidel.internal|Castro,Fidel.internal]] 
 
-### #is_/same_as :: [Castro,Fidel.protect](/_protect/Society/Politics/Government/Leader/Modern_Leaders/Castro,Fidel.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Politics/Government/Leader/Modern_Leaders/Castro,Fidel.protect|Castro,Fidel.protect]] 
 
-### #is_/same_as :: [Castro,Fidel.private](/_private/Society/Politics/Government/Leader/Modern_Leaders/Castro,Fidel.private.md) 
+### #is_/same_as :: [[/_private/Society/Politics/Government/Leader/Modern_Leaders/Castro,Fidel.private|Castro,Fidel.private]] 
 
-### #is_/same_as :: [Castro,Fidel.personal](/_personal/Society/Politics/Government/Leader/Modern_Leaders/Castro,Fidel.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Politics/Government/Leader/Modern_Leaders/Castro,Fidel.personal|Castro,Fidel.personal]] 
 
-### #is_/same_as :: [Castro,Fidel.secret](/_secret/Society/Politics/Government/Leader/Modern_Leaders/Castro,Fidel.secret.md)
+### #is_/same_as :: [[/_secret/Society/Politics/Government/Leader/Modern_Leaders/Castro,Fidel.secret|Castro,Fidel.secret]] 
 

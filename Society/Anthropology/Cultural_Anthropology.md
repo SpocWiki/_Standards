@@ -52,17 +52,17 @@ MeSH_tree_code: I01.076.201
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Cultural_Anthropology](/_Standards/Society/Anthropology/Cultural_Anthropology.md) 
+### #is_/same_as :: [[/_Standards/Society/Anthropology/Cultural_Anthropology|Cultural_Anthropology]] 
 
-### #is_/same_as :: [Cultural_Anthropology.public](/_public/Society/Anthropology/Cultural_Anthropology.public.md) 
+### #is_/same_as :: [[/_public/Society/Anthropology/Cultural_Anthropology.public|Cultural_Anthropology.public]] 
 
-### #is_/same_as :: [Cultural_Anthropology.internal](/_internal/Society/Anthropology/Cultural_Anthropology.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Anthropology/Cultural_Anthropology.internal|Cultural_Anthropology.internal]] 
 
-### #is_/same_as :: [Cultural_Anthropology.protect](/_protect/Society/Anthropology/Cultural_Anthropology.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Anthropology/Cultural_Anthropology.protect|Cultural_Anthropology.protect]] 
 
-### #is_/same_as :: [Cultural_Anthropology.private](/_private/Society/Anthropology/Cultural_Anthropology.private.md) 
+### #is_/same_as :: [[/_private/Society/Anthropology/Cultural_Anthropology.private|Cultural_Anthropology.private]] 
 
-### #is_/same_as :: [Cultural_Anthropology.personal](/_personal/Society/Anthropology/Cultural_Anthropology.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Anthropology/Cultural_Anthropology.personal|Cultural_Anthropology.personal]] 
 
-### #is_/same_as :: [Cultural_Anthropology.secret](/_secret/Society/Anthropology/Cultural_Anthropology.secret.md)
+### #is_/same_as :: [[/_secret/Society/Anthropology/Cultural_Anthropology.secret|Cultural_Anthropology.secret]] 
 

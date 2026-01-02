@@ -30,17 +30,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Rockwell,Sam](/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Rockwell,Sam.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Rockwell,Sam|Rockwell,Sam]] 
 
-### #is_/same_as :: [Rockwell,Sam.public](/_public/Society/Communication/Media/Movie/Actor/US_Actor/Rockwell,Sam.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Actor/US_Actor/Rockwell,Sam.public|Rockwell,Sam.public]] 
 
-### #is_/same_as :: [Rockwell,Sam.internal](/_internal/Society/Communication/Media/Movie/Actor/US_Actor/Rockwell,Sam.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Actor/US_Actor/Rockwell,Sam.internal|Rockwell,Sam.internal]] 
 
-### #is_/same_as :: [Rockwell,Sam.protect](/_protect/Society/Communication/Media/Movie/Actor/US_Actor/Rockwell,Sam.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Actor/US_Actor/Rockwell,Sam.protect|Rockwell,Sam.protect]] 
 
-### #is_/same_as :: [Rockwell,Sam.private](/_private/Society/Communication/Media/Movie/Actor/US_Actor/Rockwell,Sam.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Actor/US_Actor/Rockwell,Sam.private|Rockwell,Sam.private]] 
 
-### #is_/same_as :: [Rockwell,Sam.personal](/_personal/Society/Communication/Media/Movie/Actor/US_Actor/Rockwell,Sam.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Actor/US_Actor/Rockwell,Sam.personal|Rockwell,Sam.personal]] 
 
-### #is_/same_as :: [Rockwell,Sam.secret](/_secret/Society/Communication/Media/Movie/Actor/US_Actor/Rockwell,Sam.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Actor/US_Actor/Rockwell,Sam.secret|Rockwell,Sam.secret]] 
 

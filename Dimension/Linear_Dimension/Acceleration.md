@@ -69,17 +69,17 @@ of the [[../../Mathematics/Geometry/Position-Vector|Position-Vector]] by [[../Di
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Acceleration](/_Standards/Dimension/Linear_Dimension/Acceleration.md) 
+### #is_/same_as :: [[/_Standards/Dimension/Linear_Dimension/Acceleration|Acceleration]] 
 
-### #is_/same_as :: [Acceleration.public](/_public/Dimension/Linear_Dimension/Acceleration.public.md) 
+### #is_/same_as :: [[/_public/Dimension/Linear_Dimension/Acceleration.public|Acceleration.public]] 
 
-### #is_/same_as :: [Acceleration.internal](/_internal/Dimension/Linear_Dimension/Acceleration.internal.md) 
+### #is_/same_as :: [[/_internal/Dimension/Linear_Dimension/Acceleration.internal|Acceleration.internal]] 
 
-### #is_/same_as :: [Acceleration.protect](/_protect/Dimension/Linear_Dimension/Acceleration.protect.md) 
+### #is_/same_as :: [[/_protect/Dimension/Linear_Dimension/Acceleration.protect|Acceleration.protect]] 
 
-### #is_/same_as :: [Acceleration.private](/_private/Dimension/Linear_Dimension/Acceleration.private.md) 
+### #is_/same_as :: [[/_private/Dimension/Linear_Dimension/Acceleration.private|Acceleration.private]] 
 
-### #is_/same_as :: [Acceleration.personal](/_personal/Dimension/Linear_Dimension/Acceleration.personal.md) 
+### #is_/same_as :: [[/_personal/Dimension/Linear_Dimension/Acceleration.personal|Acceleration.personal]] 
 
-### #is_/same_as :: [Acceleration.secret](/_secret/Dimension/Linear_Dimension/Acceleration.secret.md)
+### #is_/same_as :: [[/_secret/Dimension/Linear_Dimension/Acceleration.secret|Acceleration.secret]] 
 

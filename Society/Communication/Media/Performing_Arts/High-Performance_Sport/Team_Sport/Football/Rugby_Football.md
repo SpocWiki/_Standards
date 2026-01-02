@@ -115,17 +115,17 @@ OpenStreetMap_tag: sport=rugby
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Rugby_Football](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Rugby_Football.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Rugby_Football|Rugby_Football]] 
 
-### #is_/same_as :: [Rugby_Football.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Rugby_Football.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Rugby_Football.public|Rugby_Football.public]] 
 
-### #is_/same_as :: [Rugby_Football.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Rugby_Football.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Rugby_Football.internal|Rugby_Football.internal]] 
 
-### #is_/same_as :: [Rugby_Football.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Rugby_Football.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Rugby_Football.protect|Rugby_Football.protect]] 
 
-### #is_/same_as :: [Rugby_Football.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Rugby_Football.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Rugby_Football.private|Rugby_Football.private]] 
 
-### #is_/same_as :: [Rugby_Football.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Rugby_Football.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Rugby_Football.personal|Rugby_Football.personal]] 
 
-### #is_/same_as :: [Rugby_Football.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Rugby_Football.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Rugby_Football.secret|Rugby_Football.secret]] 
 

@@ -38,17 +38,17 @@ image:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Carnivore](/_Standards/bio/Metabolism/Carnivore.md) 
+### #is_/same_as :: [[/_Standards/bio/Metabolism/Carnivore|Carnivore]] 
 
-### #is_/same_as :: [Carnivore.public](/_public/bio/Metabolism/Carnivore.public.md) 
+### #is_/same_as :: [[/_public/bio/Metabolism/Carnivore.public|Carnivore.public]] 
 
-### #is_/same_as :: [Carnivore.internal](/_internal/bio/Metabolism/Carnivore.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Metabolism/Carnivore.internal|Carnivore.internal]] 
 
-### #is_/same_as :: [Carnivore.protect](/_protect/bio/Metabolism/Carnivore.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Metabolism/Carnivore.protect|Carnivore.protect]] 
 
-### #is_/same_as :: [Carnivore.private](/_private/bio/Metabolism/Carnivore.private.md) 
+### #is_/same_as :: [[/_private/bio/Metabolism/Carnivore.private|Carnivore.private]] 
 
-### #is_/same_as :: [Carnivore.personal](/_personal/bio/Metabolism/Carnivore.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Metabolism/Carnivore.personal|Carnivore.personal]] 
 
-### #is_/same_as :: [Carnivore.secret](/_secret/bio/Metabolism/Carnivore.secret.md)
+### #is_/same_as :: [[/_secret/bio/Metabolism/Carnivore.secret|Carnivore.secret]] 
 

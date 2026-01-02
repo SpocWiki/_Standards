@@ -253,17 +253,17 @@ Plex_person_key: 5d77683b961905001eb951ed
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Eisenhower,Dwight_D](/_Standards/Earth/Continent/America~North/US~President/Eisenhower,Dwight_D.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~North/USA/US_President/Eisenhower,Dwight_D|Eisenhower,Dwight_D]] 
 
-### #is_/same_as :: [Eisenhower,Dwight_D.public](/_public/Earth/Continent/America~North/US~President/Eisenhower,Dwight_D.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~North/USA/US_President/Eisenhower,Dwight_D.public|Eisenhower,Dwight_D.public]] 
 
-### #is_/same_as :: [Eisenhower,Dwight_D.internal](/_internal/Earth/Continent/America~North/US~President/Eisenhower,Dwight_D.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~North/USA/US_President/Eisenhower,Dwight_D.internal|Eisenhower,Dwight_D.internal]] 
 
-### #is_/same_as :: [Eisenhower,Dwight_D.protect](/_protect/Earth/Continent/America~North/US~President/Eisenhower,Dwight_D.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~North/USA/US_President/Eisenhower,Dwight_D.protect|Eisenhower,Dwight_D.protect]] 
 
-### #is_/same_as :: [Eisenhower,Dwight_D.private](/_private/Earth/Continent/America~North/US~President/Eisenhower,Dwight_D.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~North/USA/US_President/Eisenhower,Dwight_D.private|Eisenhower,Dwight_D.private]] 
 
-### #is_/same_as :: [Eisenhower,Dwight_D.personal](/_personal/Earth/Continent/America~North/US~President/Eisenhower,Dwight_D.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~North/USA/US_President/Eisenhower,Dwight_D.personal|Eisenhower,Dwight_D.personal]] 
 
-### #is_/same_as :: [Eisenhower,Dwight_D.secret](/_secret/Earth/Continent/America~North/US~President/Eisenhower,Dwight_D.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~North/USA/US_President/Eisenhower,Dwight_D.secret|Eisenhower,Dwight_D.secret]] 
 

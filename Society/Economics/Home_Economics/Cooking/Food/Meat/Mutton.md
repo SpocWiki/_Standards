@@ -39,17 +39,17 @@ UNII: XEN0DR371D
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Mutton](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Meat/Mutton.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Home_Economics/Cooking/Food/Meat/Mutton|Mutton]] 
 
-### #is_/same_as :: [Mutton.public](/_public/Society/Economics/Home_Economics/Cooking/Food/Meat/Mutton.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Home_Economics/Cooking/Food/Meat/Mutton.public|Mutton.public]] 
 
-### #is_/same_as :: [Mutton.internal](/_internal/Society/Economics/Home_Economics/Cooking/Food/Meat/Mutton.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Home_Economics/Cooking/Food/Meat/Mutton.internal|Mutton.internal]] 
 
-### #is_/same_as :: [Mutton.protect](/_protect/Society/Economics/Home_Economics/Cooking/Food/Meat/Mutton.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Home_Economics/Cooking/Food/Meat/Mutton.protect|Mutton.protect]] 
 
-### #is_/same_as :: [Mutton.private](/_private/Society/Economics/Home_Economics/Cooking/Food/Meat/Mutton.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Home_Economics/Cooking/Food/Meat/Mutton.private|Mutton.private]] 
 
-### #is_/same_as :: [Mutton.personal](/_personal/Society/Economics/Home_Economics/Cooking/Food/Meat/Mutton.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Home_Economics/Cooking/Food/Meat/Mutton.personal|Mutton.personal]] 
 
-### #is_/same_as :: [Mutton.secret](/_secret/Society/Economics/Home_Economics/Cooking/Food/Meat/Mutton.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Home_Economics/Cooking/Food/Meat/Mutton.secret|Mutton.secret]] 
 

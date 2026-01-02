@@ -79,17 +79,17 @@ Commons_category: Monosaccharides
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Monosaccharide](/_Standards/bio/Metabolism/Nutrition/Carbohydrate/Monosaccharide.md) 
+### #is_/same_as :: [[/_Standards/bio/Metabolism/Nutrition/Carbohydrate/Monosaccharide|Monosaccharide]] 
 
-### #is_/same_as :: [Monosaccharide.public](/_public/bio/Metabolism/Nutrition/Carbohydrate/Monosaccharide.public.md) 
+### #is_/same_as :: [[/_public/bio/Metabolism/Nutrition/Carbohydrate/Monosaccharide.public|Monosaccharide.public]] 
 
-### #is_/same_as :: [Monosaccharide.internal](/_internal/bio/Metabolism/Nutrition/Carbohydrate/Monosaccharide.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Metabolism/Nutrition/Carbohydrate/Monosaccharide.internal|Monosaccharide.internal]] 
 
-### #is_/same_as :: [Monosaccharide.protect](/_protect/bio/Metabolism/Nutrition/Carbohydrate/Monosaccharide.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Metabolism/Nutrition/Carbohydrate/Monosaccharide.protect|Monosaccharide.protect]] 
 
-### #is_/same_as :: [Monosaccharide.private](/_private/bio/Metabolism/Nutrition/Carbohydrate/Monosaccharide.private.md) 
+### #is_/same_as :: [[/_private/bio/Metabolism/Nutrition/Carbohydrate/Monosaccharide.private|Monosaccharide.private]] 
 
-### #is_/same_as :: [Monosaccharide.personal](/_personal/bio/Metabolism/Nutrition/Carbohydrate/Monosaccharide.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Metabolism/Nutrition/Carbohydrate/Monosaccharide.personal|Monosaccharide.personal]] 
 
-### #is_/same_as :: [Monosaccharide.secret](/_secret/bio/Metabolism/Nutrition/Carbohydrate/Monosaccharide.secret.md)
+### #is_/same_as :: [[/_secret/bio/Metabolism/Nutrition/Carbohydrate/Monosaccharide.secret|Monosaccharide.secret]] 
 

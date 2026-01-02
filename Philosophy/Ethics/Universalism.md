@@ -48,3 +48,22 @@ Commons_category: Universalism
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Universalism) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Philosophy/Ethics/Universalism|Universalism]] 
+
+### #is_/same_as :: [[/_public/Philosophy/Ethics/Universalism.public|Universalism.public]] 
+
+### #is_/same_as :: [[/_internal/Philosophy/Ethics/Universalism.internal|Universalism.internal]] 
+
+### #is_/same_as :: [[/_protect/Philosophy/Ethics/Universalism.protect|Universalism.protect]] 
+
+### #is_/same_as :: [[/_private/Philosophy/Ethics/Universalism.private|Universalism.private]] 
+
+### #is_/same_as :: [[/_personal/Philosophy/Ethics/Universalism.personal|Universalism.personal]] 
+
+### #is_/same_as :: [[/_secret/Philosophy/Ethics/Universalism.secret|Universalism.secret]] 
+

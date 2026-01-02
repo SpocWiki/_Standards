@@ -45,17 +45,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_value_for_floor_limit](/_Standards/schema-org/Property/has_value_for/has_value_for_floor_limit.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_value_for/has_value_for_floor_limit|has_value_for_floor_limit]] 
 
-### #is_/same_as :: [has_value_for_floor_limit.public](/_public/schema-org/Property/has_value_for/has_value_for_floor_limit.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/has_value_for/has_value_for_floor_limit.public|has_value_for_floor_limit.public]] 
 
-### #is_/same_as :: [has_value_for_floor_limit.internal](/_internal/schema-org/Property/has_value_for/has_value_for_floor_limit.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_value_for/has_value_for_floor_limit.internal|has_value_for_floor_limit.internal]] 
 
-### #is_/same_as :: [has_value_for_floor_limit.protect](/_protect/schema-org/Property/has_value_for/has_value_for_floor_limit.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_value_for/has_value_for_floor_limit.protect|has_value_for_floor_limit.protect]] 
 
-### #is_/same_as :: [has_value_for_floor_limit.private](/_private/schema-org/Property/has_value_for/has_value_for_floor_limit.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/has_value_for/has_value_for_floor_limit.private|has_value_for_floor_limit.private]] 
 
-### #is_/same_as :: [has_value_for_floor_limit.personal](/_personal/schema-org/Property/has_value_for/has_value_for_floor_limit.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_value_for/has_value_for_floor_limit.personal|has_value_for_floor_limit.personal]] 
 
-### #is_/same_as :: [has_value_for_floor_limit.secret](/_secret/schema-org/Property/has_value_for/has_value_for_floor_limit.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/has_value_for/has_value_for_floor_limit.secret|has_value_for_floor_limit.secret]] 
 

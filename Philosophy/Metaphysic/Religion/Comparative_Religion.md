@@ -50,17 +50,17 @@ Commons_category: Comparative religion
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Comparative_Religion](/_Standards/Philosophy/Metaphysic/Religion/Comparative_Religion.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Comparative_Religion|Comparative_Religion]] 
 
-### #is_/same_as :: [Comparative_Religion.public](/_public/Philosophy/Metaphysic/Religion/Comparative_Religion.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Comparative_Religion.public|Comparative_Religion.public]] 
 
-### #is_/same_as :: [Comparative_Religion.internal](/_internal/Philosophy/Metaphysic/Religion/Comparative_Religion.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Comparative_Religion.internal|Comparative_Religion.internal]] 
 
-### #is_/same_as :: [Comparative_Religion.protect](/_protect/Philosophy/Metaphysic/Religion/Comparative_Religion.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Comparative_Religion.protect|Comparative_Religion.protect]] 
 
-### #is_/same_as :: [Comparative_Religion.private](/_private/Philosophy/Metaphysic/Religion/Comparative_Religion.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Comparative_Religion.private|Comparative_Religion.private]] 
 
-### #is_/same_as :: [Comparative_Religion.personal](/_personal/Philosophy/Metaphysic/Religion/Comparative_Religion.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Comparative_Religion.personal|Comparative_Religion.personal]] 
 
-### #is_/same_as :: [Comparative_Religion.secret](/_secret/Philosophy/Metaphysic/Religion/Comparative_Religion.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Comparative_Religion.secret|Comparative_Religion.secret]] 
 

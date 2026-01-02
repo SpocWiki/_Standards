@@ -57,17 +57,17 @@ PostalCodeEnd:: {"type":"Input","options":{}}
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~PostalCodeRangeSpecification](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~PostalCodeRangeSpecification.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~PostalCodeRangeSpecification|FileClass~PostalCodeRangeSpecification]] 
 
-### #is_/same_as :: [FileClass~PostalCodeRangeSpecification.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~PostalCodeRangeSpecification.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~PostalCodeRangeSpecification.public|FileClass~PostalCodeRangeSpecification.public]] 
 
-### #is_/same_as :: [FileClass~PostalCodeRangeSpecification.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~PostalCodeRangeSpecification.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~PostalCodeRangeSpecification.internal|FileClass~PostalCodeRangeSpecification.internal]] 
 
-### #is_/same_as :: [FileClass~PostalCodeRangeSpecification.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~PostalCodeRangeSpecification.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~PostalCodeRangeSpecification.protect|FileClass~PostalCodeRangeSpecification.protect]] 
 
-### #is_/same_as :: [FileClass~PostalCodeRangeSpecification.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~PostalCodeRangeSpecification.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~PostalCodeRangeSpecification.private|FileClass~PostalCodeRangeSpecification.private]] 
 
-### #is_/same_as :: [FileClass~PostalCodeRangeSpecification.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~PostalCodeRangeSpecification.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~PostalCodeRangeSpecification.personal|FileClass~PostalCodeRangeSpecification.personal]] 
 
-### #is_/same_as :: [FileClass~PostalCodeRangeSpecification.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~PostalCodeRangeSpecification.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~PostalCodeRangeSpecification.secret|FileClass~PostalCodeRangeSpecification.secret]] 
 

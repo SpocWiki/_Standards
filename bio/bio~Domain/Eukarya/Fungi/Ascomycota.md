@@ -101,7 +101,7 @@ with its adjacent cytoplasm and provides the site for ascospore wall
 formation. These membranes apparently are derived from the ascus plasma
 membrane in the Pezizomycotina and the nuclear membrane in the
 Saccharomycotina (Wu and Kimbrough, 1992; Raju, 1992).
-![ ](Ascomycota/yascus.gif))
+![ ](Ascomycota/yascus.gif) 
 
 In hyphal Ascomycota (left), the youngest, terminal hyphal segments
 develop into 8-spored asci. In yeasts (right) a single cell simply
@@ -159,7 +159,7 @@ ascus when new cell walls surround each nucleus as can be seen in the
 electron micrograph above (Wu and Kimbrough, 1992). Conidia contain
 mitotic nuclei, and their cell wall is simply a modified hyphal or yeast
 wall.
-![ ](Ascomycota/tascus.gif))
+![ ](Ascomycota/tascus.gif) 
 
 Ascus of a hyphal ascomycete (Pezizomycotina) as viewed by the electron
 microscope, © R. Vilgalys 1996.
@@ -183,7 +183,7 @@ can also be diploid. Mitospores may simply reproduce the parent, or may
 also act as gametes to fertilize a compatible partner. Some Ascomycota
 must outbreed (heterothallic), others can also self, and some can only
 self (homothallic) (Alexopoulos et al. 1996).
-![ ](Ascomycota/lifecycle.gif))
+![ ](Ascomycota/lifecycle.gif) 
 
 Life cycle of Ascomycota, © J. Taylor 1996
 
@@ -436,7 +436,7 @@ edit internet links
 
 ## Title Illustrations
 
-![](Ascomycota/t.gif))
+![](Ascomycota/t.gif) 
 
   ---------------------
   Scientific Name ::  Taphrina
@@ -462,7 +462,7 @@ edit internet links
   Copyright ::         © 1996 [John W. Taylor](http://plantbio.berkeley.edu/%7Etaylor/) 
  
   -----------------------------------------------------------------------------
-![](Ascomycota/p.gif))
+![](Ascomycota/p.gif) 
 
   -------------------------
   Scientific Name ::  Penicillium
@@ -474,17 +474,17 @@ edit internet links
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ascomycota](/_Standards/bio/bio~Domain/Eukarya/Fungi/Ascomycota.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Fungi/Ascomycota|Ascomycota]] 
 
-### #is_/same_as :: [Ascomycota.public](/_public/bio/bio~Domain/Eukarya/Fungi/Ascomycota.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Fungi/Ascomycota.public|Ascomycota.public]] 
 
-### #is_/same_as :: [Ascomycota.internal](/_internal/bio/bio~Domain/Eukarya/Fungi/Ascomycota.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Fungi/Ascomycota.internal|Ascomycota.internal]] 
 
-### #is_/same_as :: [Ascomycota.protect](/_protect/bio/bio~Domain/Eukarya/Fungi/Ascomycota.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Fungi/Ascomycota.protect|Ascomycota.protect]] 
 
-### #is_/same_as :: [Ascomycota.private](/_private/bio/bio~Domain/Eukarya/Fungi/Ascomycota.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Fungi/Ascomycota.private|Ascomycota.private]] 
 
-### #is_/same_as :: [Ascomycota.personal](/_personal/bio/bio~Domain/Eukarya/Fungi/Ascomycota.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Fungi/Ascomycota.personal|Ascomycota.personal]] 
 
-### #is_/same_as :: [Ascomycota.secret](/_secret/bio/bio~Domain/Eukarya/Fungi/Ascomycota.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Fungi/Ascomycota.secret|Ascomycota.secret]] 
 

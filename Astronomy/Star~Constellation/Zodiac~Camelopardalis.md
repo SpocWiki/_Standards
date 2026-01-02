@@ -56,17 +56,17 @@ topic_has_template: '[[_Standards/WikiData/WD~Template_Stars_of_Camelopardalis,1
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Zodiac~Camelopardalis](/_Standards/Astronomy/Star~Constellation/Zodiac~Camelopardalis.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Star~Constellation/Zodiac~Camelopardalis|Zodiac~Camelopardalis]] 
 
-### #is_/same_as :: [Zodiac~Camelopardalis.public](/_public/Astronomy/Star~Constellation/Zodiac~Camelopardalis.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Star~Constellation/Zodiac~Camelopardalis.public|Zodiac~Camelopardalis.public]] 
 
-### #is_/same_as :: [Zodiac~Camelopardalis.internal](/_internal/Astronomy/Star~Constellation/Zodiac~Camelopardalis.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Star~Constellation/Zodiac~Camelopardalis.internal|Zodiac~Camelopardalis.internal]] 
 
-### #is_/same_as :: [Zodiac~Camelopardalis.protect](/_protect/Astronomy/Star~Constellation/Zodiac~Camelopardalis.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Star~Constellation/Zodiac~Camelopardalis.protect|Zodiac~Camelopardalis.protect]] 
 
-### #is_/same_as :: [Zodiac~Camelopardalis.private](/_private/Astronomy/Star~Constellation/Zodiac~Camelopardalis.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Star~Constellation/Zodiac~Camelopardalis.private|Zodiac~Camelopardalis.private]] 
 
-### #is_/same_as :: [Zodiac~Camelopardalis.personal](/_personal/Astronomy/Star~Constellation/Zodiac~Camelopardalis.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Star~Constellation/Zodiac~Camelopardalis.personal|Zodiac~Camelopardalis.personal]] 
 
-### #is_/same_as :: [Zodiac~Camelopardalis.secret](/_secret/Astronomy/Star~Constellation/Zodiac~Camelopardalis.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Star~Constellation/Zodiac~Camelopardalis.secret|Zodiac~Camelopardalis.secret]] 
 

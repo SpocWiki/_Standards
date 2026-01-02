@@ -79,17 +79,17 @@ title: Proteobacteria
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Proteobacteria](/_Standards/bio/bio~Domain/Bacteria/Pseudomonadati/Proteobacteria.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Bacteria/Pseudomonadati/Proteobacteria|Proteobacteria]] 
 
-### #is_/same_as :: [Proteobacteria.public](/_public/bio/bio~Domain/Bacteria/Pseudomonadati/Proteobacteria.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Bacteria/Pseudomonadati/Proteobacteria.public|Proteobacteria.public]] 
 
-### #is_/same_as :: [Proteobacteria.internal](/_internal/bio/bio~Domain/Bacteria/Pseudomonadati/Proteobacteria.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Bacteria/Pseudomonadati/Proteobacteria.internal|Proteobacteria.internal]] 
 
-### #is_/same_as :: [Proteobacteria.protect](/_protect/bio/bio~Domain/Bacteria/Pseudomonadati/Proteobacteria.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Bacteria/Pseudomonadati/Proteobacteria.protect|Proteobacteria.protect]] 
 
-### #is_/same_as :: [Proteobacteria.private](/_private/bio/bio~Domain/Bacteria/Pseudomonadati/Proteobacteria.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Bacteria/Pseudomonadati/Proteobacteria.private|Proteobacteria.private]] 
 
-### #is_/same_as :: [Proteobacteria.personal](/_personal/bio/bio~Domain/Bacteria/Pseudomonadati/Proteobacteria.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Bacteria/Pseudomonadati/Proteobacteria.personal|Proteobacteria.personal]] 
 
-### #is_/same_as :: [Proteobacteria.secret](/_secret/bio/bio~Domain/Bacteria/Pseudomonadati/Proteobacteria.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Bacteria/Pseudomonadati/Proteobacteria.secret|Proteobacteria.secret]] 
 

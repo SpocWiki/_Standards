@@ -17,3 +17,22 @@ It is not an Operator, because the first Argument is a [[../../schema-org/Class/
 > [Wikipedia](https://en.wikipedia.org/wiki/Ternary%20operation) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Mathematics/Function(Math)/Function~ternary|Function~ternary]] 
+
+### #is_/same_as :: [[/_public/Mathematics/Function(Math)/Function~ternary.public|Function~ternary.public]] 
+
+### #is_/same_as :: [[/_internal/Mathematics/Function(Math)/Function~ternary.internal|Function~ternary.internal]] 
+
+### #is_/same_as :: [[/_protect/Mathematics/Function(Math)/Function~ternary.protect|Function~ternary.protect]] 
+
+### #is_/same_as :: [[/_private/Mathematics/Function(Math)/Function~ternary.private|Function~ternary.private]] 
+
+### #is_/same_as :: [[/_personal/Mathematics/Function(Math)/Function~ternary.personal|Function~ternary.personal]] 
+
+### #is_/same_as :: [[/_secret/Mathematics/Function(Math)/Function~ternary.secret|Function~ternary.secret]] 
+

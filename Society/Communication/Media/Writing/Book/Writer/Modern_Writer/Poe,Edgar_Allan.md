@@ -190,17 +190,17 @@ writing_language: '[[_Standards/WikiData/WD~English,1860]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Poe,Edgar_Allan](/_Standards/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Poe,Edgar_Allan.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Poe,Edgar_Allan|Poe,Edgar_Allan]] 
 
-### #is_/same_as :: [Poe,Edgar_Allan.public](/_public/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Poe,Edgar_Allan.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Poe,Edgar_Allan.public|Poe,Edgar_Allan.public]] 
 
-### #is_/same_as :: [Poe,Edgar_Allan.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Poe,Edgar_Allan.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Poe,Edgar_Allan.internal|Poe,Edgar_Allan.internal]] 
 
-### #is_/same_as :: [Poe,Edgar_Allan.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Poe,Edgar_Allan.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Poe,Edgar_Allan.protect|Poe,Edgar_Allan.protect]] 
 
-### #is_/same_as :: [Poe,Edgar_Allan.private](/_private/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Poe,Edgar_Allan.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Poe,Edgar_Allan.private|Poe,Edgar_Allan.private]] 
 
-### #is_/same_as :: [Poe,Edgar_Allan.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Poe,Edgar_Allan.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Poe,Edgar_Allan.personal|Poe,Edgar_Allan.personal]] 
 
-### #is_/same_as :: [Poe,Edgar_Allan.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Poe,Edgar_Allan.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Poe,Edgar_Allan.secret|Poe,Edgar_Allan.secret]] 
 

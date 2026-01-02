@@ -39,17 +39,17 @@ coordinate_location: Point(0.0 -66.566666666)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Antarctic_Circle](/_Standards/Earth/Geography/Cartography/Circle_of_latitude/Antarctic_Circle.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geography/Cartography/Circle_of_latitude/Antarctic_Circle|Antarctic_Circle]] 
 
-### #is_/same_as :: [Antarctic_Circle.public](/_public/Earth/Geography/Cartography/Circle_of_latitude/Antarctic_Circle.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geography/Cartography/Circle_of_latitude/Antarctic_Circle.public|Antarctic_Circle.public]] 
 
-### #is_/same_as :: [Antarctic_Circle.internal](/_internal/Earth/Geography/Cartography/Circle_of_latitude/Antarctic_Circle.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geography/Cartography/Circle_of_latitude/Antarctic_Circle.internal|Antarctic_Circle.internal]] 
 
-### #is_/same_as :: [Antarctic_Circle.protect](/_protect/Earth/Geography/Cartography/Circle_of_latitude/Antarctic_Circle.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geography/Cartography/Circle_of_latitude/Antarctic_Circle.protect|Antarctic_Circle.protect]] 
 
-### #is_/same_as :: [Antarctic_Circle.private](/_private/Earth/Geography/Cartography/Circle_of_latitude/Antarctic_Circle.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geography/Cartography/Circle_of_latitude/Antarctic_Circle.private|Antarctic_Circle.private]] 
 
-### #is_/same_as :: [Antarctic_Circle.personal](/_personal/Earth/Geography/Cartography/Circle_of_latitude/Antarctic_Circle.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geography/Cartography/Circle_of_latitude/Antarctic_Circle.personal|Antarctic_Circle.personal]] 
 
-### #is_/same_as :: [Antarctic_Circle.secret](/_secret/Earth/Geography/Cartography/Circle_of_latitude/Antarctic_Circle.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geography/Cartography/Circle_of_latitude/Antarctic_Circle.secret|Antarctic_Circle.secret]] 
 

@@ -178,17 +178,17 @@ ISNI: 0000000122818637
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lenard,Philipp](/_Standards/Science/Physics/Physicist/Lenard,Philipp.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Physicist/Lenard,Philipp|Lenard,Philipp]] 
 
-### #is_/same_as :: [Lenard,Philipp.public](/_public/Science/Physics/Physicist/Lenard,Philipp.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Physicist/Lenard,Philipp.public|Lenard,Philipp.public]] 
 
-### #is_/same_as :: [Lenard,Philipp.internal](/_internal/Science/Physics/Physicist/Lenard,Philipp.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Physicist/Lenard,Philipp.internal|Lenard,Philipp.internal]] 
 
-### #is_/same_as :: [Lenard,Philipp.protect](/_protect/Science/Physics/Physicist/Lenard,Philipp.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Physicist/Lenard,Philipp.protect|Lenard,Philipp.protect]] 
 
-### #is_/same_as :: [Lenard,Philipp.private](/_private/Science/Physics/Physicist/Lenard,Philipp.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Physicist/Lenard,Philipp.private|Lenard,Philipp.private]] 
 
-### #is_/same_as :: [Lenard,Philipp.personal](/_personal/Science/Physics/Physicist/Lenard,Philipp.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Physicist/Lenard,Philipp.personal|Lenard,Philipp.personal]] 
 
-### #is_/same_as :: [Lenard,Philipp.secret](/_secret/Science/Physics/Physicist/Lenard,Philipp.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Physicist/Lenard,Philipp.secret|Lenard,Philipp.secret]] 
 

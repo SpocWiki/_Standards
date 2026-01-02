@@ -42,17 +42,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_character_attribute](/_Standards/schema-org/Relation/has/has_character_attribute.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_character_attribute|has_character_attribute]] 
 
-### #is_/same_as :: [has_character_attribute.public](/_public/schema-org/Relation/has/has_character_attribute.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_character_attribute.public|has_character_attribute.public]] 
 
-### #is_/same_as :: [has_character_attribute.internal](/_internal/schema-org/Relation/has/has_character_attribute.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_character_attribute.internal|has_character_attribute.internal]] 
 
-### #is_/same_as :: [has_character_attribute.protect](/_protect/schema-org/Relation/has/has_character_attribute.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_character_attribute.protect|has_character_attribute.protect]] 
 
-### #is_/same_as :: [has_character_attribute.private](/_private/schema-org/Relation/has/has_character_attribute.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_character_attribute.private|has_character_attribute.private]] 
 
-### #is_/same_as :: [has_character_attribute.personal](/_personal/schema-org/Relation/has/has_character_attribute.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_character_attribute.personal|has_character_attribute.personal]] 
 
-### #is_/same_as :: [has_character_attribute.secret](/_secret/schema-org/Relation/has/has_character_attribute.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_character_attribute.secret|has_character_attribute.secret]] 
 

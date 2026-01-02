@@ -130,17 +130,17 @@ P8189: 987007284759505171
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Big_Bang](/_Standards/Astronomy/Astronomical_Event/Big_Bang.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Astronomical_Event/Big_Bang|Big_Bang]] 
 
-### #is_/same_as :: [Big_Bang.public](/_public/Astronomy/Astronomical_Event/Big_Bang.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Astronomical_Event/Big_Bang.public|Big_Bang.public]] 
 
-### #is_/same_as :: [Big_Bang.internal](/_internal/Astronomy/Astronomical_Event/Big_Bang.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Astronomical_Event/Big_Bang.internal|Big_Bang.internal]] 
 
-### #is_/same_as :: [Big_Bang.protect](/_protect/Astronomy/Astronomical_Event/Big_Bang.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Astronomical_Event/Big_Bang.protect|Big_Bang.protect]] 
 
-### #is_/same_as :: [Big_Bang.private](/_private/Astronomy/Astronomical_Event/Big_Bang.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Astronomical_Event/Big_Bang.private|Big_Bang.private]] 
 
-### #is_/same_as :: [Big_Bang.personal](/_personal/Astronomy/Astronomical_Event/Big_Bang.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Astronomical_Event/Big_Bang.personal|Big_Bang.personal]] 
 
-### #is_/same_as :: [Big_Bang.secret](/_secret/Astronomy/Astronomical_Event/Big_Bang.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Astronomical_Event/Big_Bang.secret|Big_Bang.secret]] 
 

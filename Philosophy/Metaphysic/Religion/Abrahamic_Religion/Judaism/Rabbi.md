@@ -72,17 +72,17 @@ Commons_category: Rabbis
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Rabbi](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Judaism/Rabbi.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Judaism/Rabbi|Rabbi]] 
 
-### #is_/same_as :: [Rabbi.public](/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Judaism/Rabbi.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Judaism/Rabbi.public|Rabbi.public]] 
 
-### #is_/same_as :: [Rabbi.internal](/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Judaism/Rabbi.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Judaism/Rabbi.internal|Rabbi.internal]] 
 
-### #is_/same_as :: [Rabbi.protect](/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Judaism/Rabbi.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Judaism/Rabbi.protect|Rabbi.protect]] 
 
-### #is_/same_as :: [Rabbi.private](/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Judaism/Rabbi.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Judaism/Rabbi.private|Rabbi.private]] 
 
-### #is_/same_as :: [Rabbi.personal](/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Judaism/Rabbi.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Judaism/Rabbi.personal|Rabbi.personal]] 
 
-### #is_/same_as :: [Rabbi.secret](/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Judaism/Rabbi.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Judaism/Rabbi.secret|Rabbi.secret]] 
 

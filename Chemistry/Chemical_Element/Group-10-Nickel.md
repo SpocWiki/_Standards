@@ -18,17 +18,17 @@ type: ElementGroup
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Group-10-Nickel](/_Standards/Chemistry/Chemical_Element/Group-10-Nickel.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Chemical_Element/Group-10-Nickel|Group-10-Nickel]] 
 
-### #is_/same_as :: [Group-10-Nickel.public](/_public/Chemistry/Chemical_Element/Group-10-Nickel.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Chemical_Element/Group-10-Nickel.public|Group-10-Nickel.public]] 
 
-### #is_/same_as :: [Group-10-Nickel.internal](/_internal/Chemistry/Chemical_Element/Group-10-Nickel.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Chemical_Element/Group-10-Nickel.internal|Group-10-Nickel.internal]] 
 
-### #is_/same_as :: [Group-10-Nickel.protect](/_protect/Chemistry/Chemical_Element/Group-10-Nickel.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Chemical_Element/Group-10-Nickel.protect|Group-10-Nickel.protect]] 
 
-### #is_/same_as :: [Group-10-Nickel.private](/_private/Chemistry/Chemical_Element/Group-10-Nickel.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Chemical_Element/Group-10-Nickel.private|Group-10-Nickel.private]] 
 
-### #is_/same_as :: [Group-10-Nickel.personal](/_personal/Chemistry/Chemical_Element/Group-10-Nickel.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Chemical_Element/Group-10-Nickel.personal|Group-10-Nickel.personal]] 
 
-### #is_/same_as :: [Group-10-Nickel.secret](/_secret/Chemistry/Chemical_Element/Group-10-Nickel.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Chemical_Element/Group-10-Nickel.secret|Group-10-Nickel.secret]] 
 

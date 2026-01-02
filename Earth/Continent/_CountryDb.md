@@ -448,17 +448,17 @@ filters:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [_CountryDb](/_Standards/Earth/Continent/_CountryDb.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/_CountryDb|_CountryDb]] 
 
-### #is_/same_as :: [_CountryDb.public](/_public/Earth/Continent/_CountryDb.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/_CountryDb.public|_CountryDb.public]] 
 
-### #is_/same_as :: [_CountryDb.internal](/_internal/Earth/Continent/_CountryDb.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/_CountryDb.internal|_CountryDb.internal]] 
 
-### #is_/same_as :: [_CountryDb.protect](/_protect/Earth/Continent/_CountryDb.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/_CountryDb.protect|_CountryDb.protect]] 
 
-### #is_/same_as :: [_CountryDb.private](/_private/Earth/Continent/_CountryDb.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/_CountryDb.private|_CountryDb.private]] 
 
-### #is_/same_as :: [_CountryDb.personal](/_personal/Earth/Continent/_CountryDb.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/_CountryDb.personal|_CountryDb.personal]] 
 
-### #is_/same_as :: [_CountryDb.secret](/_secret/Earth/Continent/_CountryDb.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/_CountryDb.secret|_CountryDb.secret]] 
 

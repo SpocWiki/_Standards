@@ -143,17 +143,17 @@ P8189: 987007376444405171
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Chevron_Corporation](/_Standards/Society/Agent/Community/Organization/Company/Corporation/Oil_Company/Chevron_Corporation.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Company/Corporation/Oil_Company/Chevron_Corporation|Chevron_Corporation]] 
 
-### #is_/same_as :: [Chevron_Corporation.public](/_public/Society/Agent/Community/Organization/Company/Corporation/Oil_Company/Chevron_Corporation.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Company/Corporation/Oil_Company/Chevron_Corporation.public|Chevron_Corporation.public]] 
 
-### #is_/same_as :: [Chevron_Corporation.internal](/_internal/Society/Agent/Community/Organization/Company/Corporation/Oil_Company/Chevron_Corporation.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Company/Corporation/Oil_Company/Chevron_Corporation.internal|Chevron_Corporation.internal]] 
 
-### #is_/same_as :: [Chevron_Corporation.protect](/_protect/Society/Agent/Community/Organization/Company/Corporation/Oil_Company/Chevron_Corporation.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Company/Corporation/Oil_Company/Chevron_Corporation.protect|Chevron_Corporation.protect]] 
 
-### #is_/same_as :: [Chevron_Corporation.private](/_private/Society/Agent/Community/Organization/Company/Corporation/Oil_Company/Chevron_Corporation.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Company/Corporation/Oil_Company/Chevron_Corporation.private|Chevron_Corporation.private]] 
 
-### #is_/same_as :: [Chevron_Corporation.personal](/_personal/Society/Agent/Community/Organization/Company/Corporation/Oil_Company/Chevron_Corporation.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Company/Corporation/Oil_Company/Chevron_Corporation.personal|Chevron_Corporation.personal]] 
 
-### #is_/same_as :: [Chevron_Corporation.secret](/_secret/Society/Agent/Community/Organization/Company/Corporation/Oil_Company/Chevron_Corporation.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Company/Corporation/Oil_Company/Chevron_Corporation.secret|Chevron_Corporation.secret]] 
 

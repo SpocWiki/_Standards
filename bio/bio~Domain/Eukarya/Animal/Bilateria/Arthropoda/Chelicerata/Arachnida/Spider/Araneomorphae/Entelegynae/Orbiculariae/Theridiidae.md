@@ -42,7 +42,7 @@ title: Theridiidae
 
 [Jeremy Miller]()
 
-![ ](Theridiidae/169251899_3159ed2710_b.jpg)![](Theridiidae/164552677_a414af2940_b.jpg))
+![ ](Theridiidae/169251899_3159ed2710_b.jpg)![](Theridiidae/164552677_a414af2940_b.jpg) 
 
 Tree simplified from Agnarsson (2006).
 
@@ -87,7 +87,7 @@ Theridiids may wrap their prey in silk before applying a poisonous bite
 direct contact with prey until it is safely immobilized. The sticky silk
 used in the wrap attack comes from large, specially modified silk
 spigots that are uniquely elongate.
-![ ](Theridiidae/03102236.jpg))
+![ ](Theridiidae/03102236.jpg) 
 
 Left (top): Comb of serrated setae on fourth tarsus of a *Thwaitesia*
 female. Right (bottom): Spinnerets of an adult *Latrodectus hesperus*
@@ -163,7 +163,7 @@ Platnick, N.I. 2006. The World Spider Catalog, Version 7.0.
 
 ## Title Illustrations
 
-![](Theridiidae/169251899_3159ed2710_b.jpg))
+![](Theridiidae/169251899_3159ed2710_b.jpg) 
 
   -----------------------------
   Scientific Name ::                    Achaearanea tepidariorum
@@ -182,7 +182,7 @@ Platnick, N.I. 2006. The World Spider Catalog, Version 7.0.
 
   Copyright ::                           © 2006 [Glen Peterson](http://flickr.com/people/trombamarina/)
   -----------------------------
-![](Theridiidae/164552677_a414af2940_b.jpg))
+![](Theridiidae/164552677_a414af2940_b.jpg) 
 
   -----------------------------
   Scientific Name ::                    Latrodectus hesperus
@@ -201,17 +201,17 @@ Platnick, N.I. 2006. The World Spider Catalog, Version 7.0.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Theridiidae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Orbiculariae/Theridiidae.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Orbiculariae/Theridiidae|Theridiidae]] 
 
-### #is_/same_as :: [Theridiidae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Orbiculariae/Theridiidae.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Orbiculariae/Theridiidae.public|Theridiidae.public]] 
 
-### #is_/same_as :: [Theridiidae.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Orbiculariae/Theridiidae.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Orbiculariae/Theridiidae.internal|Theridiidae.internal]] 
 
-### #is_/same_as :: [Theridiidae.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Orbiculariae/Theridiidae.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Orbiculariae/Theridiidae.protect|Theridiidae.protect]] 
 
-### #is_/same_as :: [Theridiidae.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Orbiculariae/Theridiidae.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Orbiculariae/Theridiidae.private|Theridiidae.private]] 
 
-### #is_/same_as :: [Theridiidae.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Orbiculariae/Theridiidae.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Orbiculariae/Theridiidae.personal|Theridiidae.personal]] 
 
-### #is_/same_as :: [Theridiidae.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Orbiculariae/Theridiidae.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Orbiculariae/Theridiidae.secret|Theridiidae.secret]] 
 

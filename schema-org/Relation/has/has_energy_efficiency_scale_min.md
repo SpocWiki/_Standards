@@ -46,17 +46,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_energy_efficiency_scale_min](/_Standards/schema-org/Relation/has/has_energy_efficiency_scale_min.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_energy_efficiency_scale_min|has_energy_efficiency_scale_min]] 
 
-### #is_/same_as :: [has_energy_efficiency_scale_min.public](/_public/schema-org/Relation/has/has_energy_efficiency_scale_min.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_energy_efficiency_scale_min.public|has_energy_efficiency_scale_min.public]] 
 
-### #is_/same_as :: [has_energy_efficiency_scale_min.internal](/_internal/schema-org/Relation/has/has_energy_efficiency_scale_min.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_energy_efficiency_scale_min.internal|has_energy_efficiency_scale_min.internal]] 
 
-### #is_/same_as :: [has_energy_efficiency_scale_min.protect](/_protect/schema-org/Relation/has/has_energy_efficiency_scale_min.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_energy_efficiency_scale_min.protect|has_energy_efficiency_scale_min.protect]] 
 
-### #is_/same_as :: [has_energy_efficiency_scale_min.private](/_private/schema-org/Relation/has/has_energy_efficiency_scale_min.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_energy_efficiency_scale_min.private|has_energy_efficiency_scale_min.private]] 
 
-### #is_/same_as :: [has_energy_efficiency_scale_min.personal](/_personal/schema-org/Relation/has/has_energy_efficiency_scale_min.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_energy_efficiency_scale_min.personal|has_energy_efficiency_scale_min.personal]] 
 
-### #is_/same_as :: [has_energy_efficiency_scale_min.secret](/_secret/schema-org/Relation/has/has_energy_efficiency_scale_min.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_energy_efficiency_scale_min.secret|has_energy_efficiency_scale_min.secret]] 
 

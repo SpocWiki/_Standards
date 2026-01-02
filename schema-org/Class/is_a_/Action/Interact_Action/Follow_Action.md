@@ -51,17 +51,17 @@ Related actions:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Follow_Action](/_Standards/schema-org/Class/is_a_/Action/Interact_Action/Follow_Action.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Action/Interact_Action/Follow_Action|Follow_Action]] 
 
-### #is_/same_as :: [Follow_Action.public](/_public/schema-org/Class/is_a_/Action/Interact_Action/Follow_Action.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Action/Interact_Action/Follow_Action.public|Follow_Action.public]] 
 
-### #is_/same_as :: [Follow_Action.internal](/_internal/schema-org/Class/is_a_/Action/Interact_Action/Follow_Action.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Action/Interact_Action/Follow_Action.internal|Follow_Action.internal]] 
 
-### #is_/same_as :: [Follow_Action.protect](/_protect/schema-org/Class/is_a_/Action/Interact_Action/Follow_Action.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Action/Interact_Action/Follow_Action.protect|Follow_Action.protect]] 
 
-### #is_/same_as :: [Follow_Action.private](/_private/schema-org/Class/is_a_/Action/Interact_Action/Follow_Action.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Action/Interact_Action/Follow_Action.private|Follow_Action.private]] 
 
-### #is_/same_as :: [Follow_Action.personal](/_personal/schema-org/Class/is_a_/Action/Interact_Action/Follow_Action.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Action/Interact_Action/Follow_Action.personal|Follow_Action.personal]] 
 
-### #is_/same_as :: [Follow_Action.secret](/_secret/schema-org/Class/is_a_/Action/Interact_Action/Follow_Action.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Action/Interact_Action/Follow_Action.secret|Follow_Action.secret]] 
 

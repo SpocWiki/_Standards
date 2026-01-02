@@ -121,17 +121,17 @@ Krugosvet_article: nauka_i_tehnika/biologiya/FLEMING_ALEKSANDER.html
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Fleming,Alexander](/_Standards/bio/Medicine/Medical_Enumeration/Medical_Audience_Type/Medical_Researcher/Fleming,Alexander.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Enumeration/Medical_Audience_Type/Medical_Researcher/Fleming,Alexander|Fleming,Alexander]] 
 
-### #is_/same_as :: [Fleming,Alexander.public](/_public/bio/Medicine/Medical_Enumeration/Medical_Audience_Type/Medical_Researcher/Fleming,Alexander.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Enumeration/Medical_Audience_Type/Medical_Researcher/Fleming,Alexander.public|Fleming,Alexander.public]] 
 
-### #is_/same_as :: [Fleming,Alexander.internal](/_internal/bio/Medicine/Medical_Enumeration/Medical_Audience_Type/Medical_Researcher/Fleming,Alexander.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Enumeration/Medical_Audience_Type/Medical_Researcher/Fleming,Alexander.internal|Fleming,Alexander.internal]] 
 
-### #is_/same_as :: [Fleming,Alexander.protect](/_protect/bio/Medicine/Medical_Enumeration/Medical_Audience_Type/Medical_Researcher/Fleming,Alexander.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Enumeration/Medical_Audience_Type/Medical_Researcher/Fleming,Alexander.protect|Fleming,Alexander.protect]] 
 
-### #is_/same_as :: [Fleming,Alexander.private](/_private/bio/Medicine/Medical_Enumeration/Medical_Audience_Type/Medical_Researcher/Fleming,Alexander.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Enumeration/Medical_Audience_Type/Medical_Researcher/Fleming,Alexander.private|Fleming,Alexander.private]] 
 
-### #is_/same_as :: [Fleming,Alexander.personal](/_personal/bio/Medicine/Medical_Enumeration/Medical_Audience_Type/Medical_Researcher/Fleming,Alexander.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Enumeration/Medical_Audience_Type/Medical_Researcher/Fleming,Alexander.personal|Fleming,Alexander.personal]] 
 
-### #is_/same_as :: [Fleming,Alexander.secret](/_secret/bio/Medicine/Medical_Enumeration/Medical_Audience_Type/Medical_Researcher/Fleming,Alexander.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Enumeration/Medical_Audience_Type/Medical_Researcher/Fleming,Alexander.secret|Fleming,Alexander.secret]] 
 

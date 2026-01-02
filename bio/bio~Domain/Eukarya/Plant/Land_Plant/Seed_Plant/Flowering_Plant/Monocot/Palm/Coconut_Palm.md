@@ -230,17 +230,17 @@ NBN_System_Key: NHMSYS0021195907
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Coconut_Palm](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Palm/Coconut_Palm.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Palm/Coconut_Palm|Coconut_Palm]] 
 
-### #is_/same_as :: [Coconut_Palm.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Palm/Coconut_Palm.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Palm/Coconut_Palm.public|Coconut_Palm.public]] 
 
-### #is_/same_as :: [Coconut_Palm.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Palm/Coconut_Palm.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Palm/Coconut_Palm.internal|Coconut_Palm.internal]] 
 
-### #is_/same_as :: [Coconut_Palm.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Palm/Coconut_Palm.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Palm/Coconut_Palm.protect|Coconut_Palm.protect]] 
 
-### #is_/same_as :: [Coconut_Palm.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Palm/Coconut_Palm.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Palm/Coconut_Palm.private|Coconut_Palm.private]] 
 
-### #is_/same_as :: [Coconut_Palm.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Palm/Coconut_Palm.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Palm/Coconut_Palm.personal|Coconut_Palm.personal]] 
 
-### #is_/same_as :: [Coconut_Palm.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Palm/Coconut_Palm.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Palm/Coconut_Palm.secret|Coconut_Palm.secret]] 
 

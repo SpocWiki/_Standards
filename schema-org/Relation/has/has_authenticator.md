@@ -40,17 +40,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_authenticator](/_Standards/schema-org/Relation/has/has_authenticator.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_authenticator|has_authenticator]] 
 
-### #is_/same_as :: [has_authenticator.public](/_public/schema-org/Relation/has/has_authenticator.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_authenticator.public|has_authenticator.public]] 
 
-### #is_/same_as :: [has_authenticator.internal](/_internal/schema-org/Relation/has/has_authenticator.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_authenticator.internal|has_authenticator.internal]] 
 
-### #is_/same_as :: [has_authenticator.protect](/_protect/schema-org/Relation/has/has_authenticator.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_authenticator.protect|has_authenticator.protect]] 
 
-### #is_/same_as :: [has_authenticator.private](/_private/schema-org/Relation/has/has_authenticator.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_authenticator.private|has_authenticator.private]] 
 
-### #is_/same_as :: [has_authenticator.personal](/_personal/schema-org/Relation/has/has_authenticator.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_authenticator.personal|has_authenticator.personal]] 
 
-### #is_/same_as :: [has_authenticator.secret](/_secret/schema-org/Relation/has/has_authenticator.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_authenticator.secret|has_authenticator.secret]] 
 

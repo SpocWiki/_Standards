@@ -60,17 +60,17 @@ short_name: Com
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Zodiac~Coma_Berenices](/_Standards/Astronomy/Star~Constellation/Zodiac~Coma_Berenices.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Star~Constellation/Zodiac~Coma_Berenices|Zodiac~Coma_Berenices]] 
 
-### #is_/same_as :: [Zodiac~Coma_Berenices.public](/_public/Astronomy/Star~Constellation/Zodiac~Coma_Berenices.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Star~Constellation/Zodiac~Coma_Berenices.public|Zodiac~Coma_Berenices.public]] 
 
-### #is_/same_as :: [Zodiac~Coma_Berenices.internal](/_internal/Astronomy/Star~Constellation/Zodiac~Coma_Berenices.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Star~Constellation/Zodiac~Coma_Berenices.internal|Zodiac~Coma_Berenices.internal]] 
 
-### #is_/same_as :: [Zodiac~Coma_Berenices.protect](/_protect/Astronomy/Star~Constellation/Zodiac~Coma_Berenices.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Star~Constellation/Zodiac~Coma_Berenices.protect|Zodiac~Coma_Berenices.protect]] 
 
-### #is_/same_as :: [Zodiac~Coma_Berenices.private](/_private/Astronomy/Star~Constellation/Zodiac~Coma_Berenices.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Star~Constellation/Zodiac~Coma_Berenices.private|Zodiac~Coma_Berenices.private]] 
 
-### #is_/same_as :: [Zodiac~Coma_Berenices.personal](/_personal/Astronomy/Star~Constellation/Zodiac~Coma_Berenices.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Star~Constellation/Zodiac~Coma_Berenices.personal|Zodiac~Coma_Berenices.personal]] 
 
-### #is_/same_as :: [Zodiac~Coma_Berenices.secret](/_secret/Astronomy/Star~Constellation/Zodiac~Coma_Berenices.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Star~Constellation/Zodiac~Coma_Berenices.secret|Zodiac~Coma_Berenices.secret]] 
 

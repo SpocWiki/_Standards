@@ -66,17 +66,17 @@ short_name: Cep
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Zodiac~Cepheus](/_Standards/Astronomy/Star~Constellation/Zodiac~Cepheus.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Star~Constellation/Zodiac~Cepheus|Zodiac~Cepheus]] 
 
-### #is_/same_as :: [Zodiac~Cepheus.public](/_public/Astronomy/Star~Constellation/Zodiac~Cepheus.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Star~Constellation/Zodiac~Cepheus.public|Zodiac~Cepheus.public]] 
 
-### #is_/same_as :: [Zodiac~Cepheus.internal](/_internal/Astronomy/Star~Constellation/Zodiac~Cepheus.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Star~Constellation/Zodiac~Cepheus.internal|Zodiac~Cepheus.internal]] 
 
-### #is_/same_as :: [Zodiac~Cepheus.protect](/_protect/Astronomy/Star~Constellation/Zodiac~Cepheus.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Star~Constellation/Zodiac~Cepheus.protect|Zodiac~Cepheus.protect]] 
 
-### #is_/same_as :: [Zodiac~Cepheus.private](/_private/Astronomy/Star~Constellation/Zodiac~Cepheus.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Star~Constellation/Zodiac~Cepheus.private|Zodiac~Cepheus.private]] 
 
-### #is_/same_as :: [Zodiac~Cepheus.personal](/_personal/Astronomy/Star~Constellation/Zodiac~Cepheus.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Star~Constellation/Zodiac~Cepheus.personal|Zodiac~Cepheus.personal]] 
 
-### #is_/same_as :: [Zodiac~Cepheus.secret](/_secret/Astronomy/Star~Constellation/Zodiac~Cepheus.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Star~Constellation/Zodiac~Cepheus.secret|Zodiac~Cepheus.secret]] 
 

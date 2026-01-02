@@ -73,17 +73,17 @@ MIC_market_code: XNAS
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Nasdaq](/_Standards/Society/Economics/Economic_Activity/Trade/Market/Stock_Market/Nasdaq.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Economic_Activity/Trade/Market/Stock_Market/Nasdaq|Nasdaq]] 
 
-### #is_/same_as :: [Nasdaq.public](/_public/Society/Economics/Economic_Activity/Trade/Market/Stock_Market/Nasdaq.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Economic_Activity/Trade/Market/Stock_Market/Nasdaq.public|Nasdaq.public]] 
 
-### #is_/same_as :: [Nasdaq.internal](/_internal/Society/Economics/Economic_Activity/Trade/Market/Stock_Market/Nasdaq.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Economic_Activity/Trade/Market/Stock_Market/Nasdaq.internal|Nasdaq.internal]] 
 
-### #is_/same_as :: [Nasdaq.protect](/_protect/Society/Economics/Economic_Activity/Trade/Market/Stock_Market/Nasdaq.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Economic_Activity/Trade/Market/Stock_Market/Nasdaq.protect|Nasdaq.protect]] 
 
-### #is_/same_as :: [Nasdaq.private](/_private/Society/Economics/Economic_Activity/Trade/Market/Stock_Market/Nasdaq.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Economic_Activity/Trade/Market/Stock_Market/Nasdaq.private|Nasdaq.private]] 
 
-### #is_/same_as :: [Nasdaq.personal](/_personal/Society/Economics/Economic_Activity/Trade/Market/Stock_Market/Nasdaq.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Economic_Activity/Trade/Market/Stock_Market/Nasdaq.personal|Nasdaq.personal]] 
 
-### #is_/same_as :: [Nasdaq.secret](/_secret/Society/Economics/Economic_Activity/Trade/Market/Stock_Market/Nasdaq.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Economic_Activity/Trade/Market/Stock_Market/Nasdaq.secret|Nasdaq.secret]] 
 

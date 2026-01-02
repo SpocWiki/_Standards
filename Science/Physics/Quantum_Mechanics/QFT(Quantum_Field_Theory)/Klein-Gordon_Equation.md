@@ -78,17 +78,17 @@ $$
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Klein-Gordon_Equation](/_Standards/Science/Physics/Quantum_Mechanics/QFT(Quantum_Field_Theory)/Klein-Gordon_Equation.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Quantum_Mechanics/QFT(Quantum_Field_Theory)/Klein-Gordon_Equation|Klein-Gordon_Equation]] 
 
-### #is_/same_as :: [Klein-Gordon_Equation.public](/_public/Science/Physics/Quantum_Mechanics/QFT(Quantum_Field_Theory)/Klein-Gordon_Equation.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Quantum_Mechanics/QFT(Quantum_Field_Theory)/Klein-Gordon_Equation.public|Klein-Gordon_Equation.public]] 
 
-### #is_/same_as :: [Klein-Gordon_Equation.internal](/_internal/Science/Physics/Quantum_Mechanics/QFT(Quantum_Field_Theory)/Klein-Gordon_Equation.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Quantum_Mechanics/QFT(Quantum_Field_Theory)/Klein-Gordon_Equation.internal|Klein-Gordon_Equation.internal]] 
 
-### #is_/same_as :: [Klein-Gordon_Equation.protect](/_protect/Science/Physics/Quantum_Mechanics/QFT(Quantum_Field_Theory)/Klein-Gordon_Equation.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Quantum_Mechanics/QFT(Quantum_Field_Theory)/Klein-Gordon_Equation.protect|Klein-Gordon_Equation.protect]] 
 
-### #is_/same_as :: [Klein-Gordon_Equation.private](/_private/Science/Physics/Quantum_Mechanics/QFT(Quantum_Field_Theory)/Klein-Gordon_Equation.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Quantum_Mechanics/QFT(Quantum_Field_Theory)/Klein-Gordon_Equation.private|Klein-Gordon_Equation.private]] 
 
-### #is_/same_as :: [Klein-Gordon_Equation.personal](/_personal/Science/Physics/Quantum_Mechanics/QFT(Quantum_Field_Theory)/Klein-Gordon_Equation.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Quantum_Mechanics/QFT(Quantum_Field_Theory)/Klein-Gordon_Equation.personal|Klein-Gordon_Equation.personal]] 
 
-### #is_/same_as :: [Klein-Gordon_Equation.secret](/_secret/Science/Physics/Quantum_Mechanics/QFT(Quantum_Field_Theory)/Klein-Gordon_Equation.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Quantum_Mechanics/QFT(Quantum_Field_Theory)/Klein-Gordon_Equation.secret|Klein-Gordon_Equation.secret]] 
 

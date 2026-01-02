@@ -92,17 +92,17 @@ Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_photography,7112699]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Photography](/_Standards/Society/Communication/Media/Photography.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Photography|Photography]] 
 
-### #is_/same_as :: [Photography.public](/_public/Society/Communication/Media/Photography.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Photography.public|Photography.public]] 
 
-### #is_/same_as :: [Photography.internal](/_internal/Society/Communication/Media/Photography.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Photography.internal|Photography.internal]] 
 
-### #is_/same_as :: [Photography.protect](/_protect/Society/Communication/Media/Photography.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Photography.protect|Photography.protect]] 
 
-### #is_/same_as :: [Photography.private](/_private/Society/Communication/Media/Photography.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Photography.private|Photography.private]] 
 
-### #is_/same_as :: [Photography.personal](/_personal/Society/Communication/Media/Photography.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Photography.personal|Photography.personal]] 
 
-### #is_/same_as :: [Photography.secret](/_secret/Society/Communication/Media/Photography.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Photography.secret|Photography.secret]] 
 

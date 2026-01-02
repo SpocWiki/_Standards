@@ -32,17 +32,17 @@ vocalized_name: חָלָל
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Casualty](/_Standards/Society/Military/Military_Operation/Combat/War/Casualty.md) 
+### #is_/same_as :: [[/_Standards/Society/Military/Military_Operation/Combat/War/Casualty|Casualty]] 
 
-### #is_/same_as :: [Casualty.public](/_public/Society/Military/Military_Operation/Combat/War/Casualty.public.md) 
+### #is_/same_as :: [[/_public/Society/Military/Military_Operation/Combat/War/Casualty.public|Casualty.public]] 
 
-### #is_/same_as :: [Casualty.internal](/_internal/Society/Military/Military_Operation/Combat/War/Casualty.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Military/Military_Operation/Combat/War/Casualty.internal|Casualty.internal]] 
 
-### #is_/same_as :: [Casualty.protect](/_protect/Society/Military/Military_Operation/Combat/War/Casualty.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Military/Military_Operation/Combat/War/Casualty.protect|Casualty.protect]] 
 
-### #is_/same_as :: [Casualty.private](/_private/Society/Military/Military_Operation/Combat/War/Casualty.private.md) 
+### #is_/same_as :: [[/_private/Society/Military/Military_Operation/Combat/War/Casualty.private|Casualty.private]] 
 
-### #is_/same_as :: [Casualty.personal](/_personal/Society/Military/Military_Operation/Combat/War/Casualty.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Military/Military_Operation/Combat/War/Casualty.personal|Casualty.personal]] 
 
-### #is_/same_as :: [Casualty.secret](/_secret/Society/Military/Military_Operation/Combat/War/Casualty.secret.md)
+### #is_/same_as :: [[/_secret/Society/Military/Military_Operation/Combat/War/Casualty.secret|Casualty.secret]] 
 

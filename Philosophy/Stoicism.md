@@ -120,17 +120,17 @@ Modern Stoicism was captured by the [[../Society/Ideology/Political_Ideology/Fas
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Stoicism](/_Standards/Philosophy/Stoicism.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Stoicism|Stoicism]] 
 
-### #is_/same_as :: [Stoicism.public](/_public/Philosophy/Stoicism.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Stoicism.public|Stoicism.public]] 
 
-### #is_/same_as :: [Stoicism.internal](/_internal/Philosophy/Stoicism.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Stoicism.internal|Stoicism.internal]] 
 
-### #is_/same_as :: [Stoicism.protect](/_protect/Philosophy/Stoicism.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Stoicism.protect|Stoicism.protect]] 
 
-### #is_/same_as :: [Stoicism.private](/_private/Philosophy/Stoicism.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Stoicism.private|Stoicism.private]] 
 
-### #is_/same_as :: [Stoicism.personal](/_personal/Philosophy/Stoicism.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Stoicism.personal|Stoicism.personal]] 
 
-### #is_/same_as :: [Stoicism.secret](/_secret/Philosophy/Stoicism.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Stoicism.secret|Stoicism.secret]] 
 

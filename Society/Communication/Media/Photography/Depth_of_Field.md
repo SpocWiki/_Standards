@@ -25,17 +25,17 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Depth%20of%20field%20f
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Depth_of_Field](/_Standards/Society/Communication/Media/Photography/Depth_of_Field.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Photography/Depth_of_Field|Depth_of_Field]] 
 
-### #is_/same_as :: [Depth_of_Field.public](/_public/Society/Communication/Media/Photography/Depth_of_Field.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Photography/Depth_of_Field.public|Depth_of_Field.public]] 
 
-### #is_/same_as :: [Depth_of_Field.internal](/_internal/Society/Communication/Media/Photography/Depth_of_Field.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Photography/Depth_of_Field.internal|Depth_of_Field.internal]] 
 
-### #is_/same_as :: [Depth_of_Field.protect](/_protect/Society/Communication/Media/Photography/Depth_of_Field.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Photography/Depth_of_Field.protect|Depth_of_Field.protect]] 
 
-### #is_/same_as :: [Depth_of_Field.private](/_private/Society/Communication/Media/Photography/Depth_of_Field.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Photography/Depth_of_Field.private|Depth_of_Field.private]] 
 
-### #is_/same_as :: [Depth_of_Field.personal](/_personal/Society/Communication/Media/Photography/Depth_of_Field.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Photography/Depth_of_Field.personal|Depth_of_Field.personal]] 
 
-### #is_/same_as :: [Depth_of_Field.secret](/_secret/Society/Communication/Media/Photography/Depth_of_Field.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Photography/Depth_of_Field.secret|Depth_of_Field.secret]] 
 

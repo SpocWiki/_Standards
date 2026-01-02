@@ -102,17 +102,17 @@ NBN_System_Key: NHMSYS0000463743
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Nightshade](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Solanales/Solanoideae/Solaneae/Nightshade.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Solanales/Solanoideae/Solaneae/Nightshade|Nightshade]] 
 
-### #is_/same_as :: [Nightshade.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Solanales/Solanoideae/Solaneae/Nightshade.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Solanales/Solanoideae/Solaneae/Nightshade.public|Nightshade.public]] 
 
-### #is_/same_as :: [Nightshade.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Solanales/Solanoideae/Solaneae/Nightshade.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Solanales/Solanoideae/Solaneae/Nightshade.internal|Nightshade.internal]] 
 
-### #is_/same_as :: [Nightshade.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Solanales/Solanoideae/Solaneae/Nightshade.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Solanales/Solanoideae/Solaneae/Nightshade.protect|Nightshade.protect]] 
 
-### #is_/same_as :: [Nightshade.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Solanales/Solanoideae/Solaneae/Nightshade.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Solanales/Solanoideae/Solaneae/Nightshade.private|Nightshade.private]] 
 
-### #is_/same_as :: [Nightshade.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Solanales/Solanoideae/Solaneae/Nightshade.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Solanales/Solanoideae/Solaneae/Nightshade.personal|Nightshade.personal]] 
 
-### #is_/same_as :: [Nightshade.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Solanales/Solanoideae/Solaneae/Nightshade.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Solanales/Solanoideae/Solaneae/Nightshade.secret|Nightshade.secret]] 
 

@@ -44,17 +44,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [is_available_generically](/_Standards/schema-org/Property/Flags/is_available_generically.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/Flags/is_available_generically|is_available_generically]] 
 
-### #is_/same_as :: [is_available_generically.public](/_public/schema-org/Property/Flags/is_available_generically.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/Flags/is_available_generically.public|is_available_generically.public]] 
 
-### #is_/same_as :: [is_available_generically.internal](/_internal/schema-org/Property/Flags/is_available_generically.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/Flags/is_available_generically.internal|is_available_generically.internal]] 
 
-### #is_/same_as :: [is_available_generically.protect](/_protect/schema-org/Property/Flags/is_available_generically.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/Flags/is_available_generically.protect|is_available_generically.protect]] 
 
-### #is_/same_as :: [is_available_generically.private](/_private/schema-org/Property/Flags/is_available_generically.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/Flags/is_available_generically.private|is_available_generically.private]] 
 
-### #is_/same_as :: [is_available_generically.personal](/_personal/schema-org/Property/Flags/is_available_generically.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/Flags/is_available_generically.personal|is_available_generically.personal]] 
 
-### #is_/same_as :: [is_available_generically.secret](/_secret/schema-org/Property/Flags/is_available_generically.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/Flags/is_available_generically.secret|is_available_generically.secret]] 
 

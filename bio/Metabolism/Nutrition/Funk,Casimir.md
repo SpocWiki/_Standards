@@ -17,17 +17,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Funk,Casimir](/_Standards/bio/Metabolism/Nutrition/Funk,Casimir.md) 
+### #is_/same_as :: [[/_Standards/bio/Metabolism/Nutrition/Funk,Casimir|Funk,Casimir]] 
 
-### #is_/same_as :: [Funk,Casimir.public](/_public/bio/Metabolism/Nutrition/Funk,Casimir.public.md) 
+### #is_/same_as :: [[/_public/bio/Metabolism/Nutrition/Funk,Casimir.public|Funk,Casimir.public]] 
 
-### #is_/same_as :: [Funk,Casimir.internal](/_internal/bio/Metabolism/Nutrition/Funk,Casimir.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Metabolism/Nutrition/Funk,Casimir.internal|Funk,Casimir.internal]] 
 
-### #is_/same_as :: [Funk,Casimir.protect](/_protect/bio/Metabolism/Nutrition/Funk,Casimir.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Metabolism/Nutrition/Funk,Casimir.protect|Funk,Casimir.protect]] 
 
-### #is_/same_as :: [Funk,Casimir.private](/_private/bio/Metabolism/Nutrition/Funk,Casimir.private.md) 
+### #is_/same_as :: [[/_private/bio/Metabolism/Nutrition/Funk,Casimir.private|Funk,Casimir.private]] 
 
-### #is_/same_as :: [Funk,Casimir.personal](/_personal/bio/Metabolism/Nutrition/Funk,Casimir.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Metabolism/Nutrition/Funk,Casimir.personal|Funk,Casimir.personal]] 
 
-### #is_/same_as :: [Funk,Casimir.secret](/_secret/bio/Metabolism/Nutrition/Funk,Casimir.secret.md)
+### #is_/same_as :: [[/_secret/bio/Metabolism/Nutrition/Funk,Casimir.secret|Funk,Casimir.secret]] 
 

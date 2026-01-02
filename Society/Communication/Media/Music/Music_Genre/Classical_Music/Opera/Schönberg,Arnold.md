@@ -162,17 +162,17 @@ Europeana_entity: agent/base/147127
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Schönberg,Arnold](/_Standards/Society/Communication/Media/Music/Music_Genre/Classical_Music/Opera/Schönberg,Arnold.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Music_Genre/Classical_Music/Opera/Schönberg,Arnold|Schönberg,Arnold]] 
 
-### #is_/same_as :: [Schönberg,Arnold.public](/_public/Society/Communication/Media/Music/Music_Genre/Classical_Music/Opera/Schönberg,Arnold.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Music_Genre/Classical_Music/Opera/Schönberg,Arnold.public|Schönberg,Arnold.public]] 
 
-### #is_/same_as :: [Schönberg,Arnold.internal](/_internal/Society/Communication/Media/Music/Music_Genre/Classical_Music/Opera/Schönberg,Arnold.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Music_Genre/Classical_Music/Opera/Schönberg,Arnold.internal|Schönberg,Arnold.internal]] 
 
-### #is_/same_as :: [Schönberg,Arnold.protect](/_protect/Society/Communication/Media/Music/Music_Genre/Classical_Music/Opera/Schönberg,Arnold.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Music_Genre/Classical_Music/Opera/Schönberg,Arnold.protect|Schönberg,Arnold.protect]] 
 
-### #is_/same_as :: [Schönberg,Arnold.private](/_private/Society/Communication/Media/Music/Music_Genre/Classical_Music/Opera/Schönberg,Arnold.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Music_Genre/Classical_Music/Opera/Schönberg,Arnold.private|Schönberg,Arnold.private]] 
 
-### #is_/same_as :: [Schönberg,Arnold.personal](/_personal/Society/Communication/Media/Music/Music_Genre/Classical_Music/Opera/Schönberg,Arnold.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Music_Genre/Classical_Music/Opera/Schönberg,Arnold.personal|Schönberg,Arnold.personal]] 
 
-### #is_/same_as :: [Schönberg,Arnold.secret](/_secret/Society/Communication/Media/Music/Music_Genre/Classical_Music/Opera/Schönberg,Arnold.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Music_Genre/Classical_Music/Opera/Schönberg,Arnold.secret|Schönberg,Arnold.secret]] 
 

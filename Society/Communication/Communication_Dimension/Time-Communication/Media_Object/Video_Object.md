@@ -43,17 +43,17 @@ A video file.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Video_Object](/_Standards/Society/Communication/Communication_Dimension/Time-Communication/Media_Object/Video_Object.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Communication_Dimension/Time-Communication/Media_Object/Video_Object|Video_Object]] 
 
-### #is_/same_as :: [Video_Object.public](/_public/Society/Communication/Communication_Dimension/Time-Communication/Media_Object/Video_Object.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Communication_Dimension/Time-Communication/Media_Object/Video_Object.public|Video_Object.public]] 
 
-### #is_/same_as :: [Video_Object.internal](/_internal/Society/Communication/Communication_Dimension/Time-Communication/Media_Object/Video_Object.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Communication_Dimension/Time-Communication/Media_Object/Video_Object.internal|Video_Object.internal]] 
 
-### #is_/same_as :: [Video_Object.protect](/_protect/Society/Communication/Communication_Dimension/Time-Communication/Media_Object/Video_Object.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Communication_Dimension/Time-Communication/Media_Object/Video_Object.protect|Video_Object.protect]] 
 
-### #is_/same_as :: [Video_Object.private](/_private/Society/Communication/Communication_Dimension/Time-Communication/Media_Object/Video_Object.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Communication_Dimension/Time-Communication/Media_Object/Video_Object.private|Video_Object.private]] 
 
-### #is_/same_as :: [Video_Object.personal](/_personal/Society/Communication/Communication_Dimension/Time-Communication/Media_Object/Video_Object.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Communication_Dimension/Time-Communication/Media_Object/Video_Object.personal|Video_Object.personal]] 
 
-### #is_/same_as :: [Video_Object.secret](/_secret/Society/Communication/Communication_Dimension/Time-Communication/Media_Object/Video_Object.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Communication_Dimension/Time-Communication/Media_Object/Video_Object.secret|Video_Object.secret]] 
 

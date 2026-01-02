@@ -117,17 +117,17 @@ UMLS_CUI: C3494471
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Balkans](/_Standards/Earth/Continent/Europe/Europe~East/Balkans.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Balkans|Balkans]] 
 
-### #is_/same_as :: [Balkans.public](/_public/Earth/Continent/Europe/Europe~East/Balkans.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Balkans.public|Balkans.public]] 
 
-### #is_/same_as :: [Balkans.internal](/_internal/Earth/Continent/Europe/Europe~East/Balkans.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Balkans.internal|Balkans.internal]] 
 
-### #is_/same_as :: [Balkans.protect](/_protect/Earth/Continent/Europe/Europe~East/Balkans.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Balkans.protect|Balkans.protect]] 
 
-### #is_/same_as :: [Balkans.private](/_private/Earth/Continent/Europe/Europe~East/Balkans.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Balkans.private|Balkans.private]] 
 
-### #is_/same_as :: [Balkans.personal](/_personal/Earth/Continent/Europe/Europe~East/Balkans.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Balkans.personal|Balkans.personal]] 
 
-### #is_/same_as :: [Balkans.secret](/_secret/Earth/Continent/Europe/Europe~East/Balkans.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Balkans.secret|Balkans.secret]] 
 

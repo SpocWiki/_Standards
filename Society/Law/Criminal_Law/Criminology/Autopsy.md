@@ -58,17 +58,17 @@ Krugosvet_article_archived_: medicina/AUTOPSIYA.html
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Autopsy](/_Standards/Society/Law/Criminal_Law/Criminology/Autopsy.md) 
+### #is_/same_as :: [[/_Standards/Society/Law/Criminal_Law/Criminology/Autopsy|Autopsy]] 
 
-### #is_/same_as :: [Autopsy.public](/_public/Society/Law/Criminal_Law/Criminology/Autopsy.public.md) 
+### #is_/same_as :: [[/_public/Society/Law/Criminal_Law/Criminology/Autopsy.public|Autopsy.public]] 
 
-### #is_/same_as :: [Autopsy.internal](/_internal/Society/Law/Criminal_Law/Criminology/Autopsy.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Law/Criminal_Law/Criminology/Autopsy.internal|Autopsy.internal]] 
 
-### #is_/same_as :: [Autopsy.protect](/_protect/Society/Law/Criminal_Law/Criminology/Autopsy.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Law/Criminal_Law/Criminology/Autopsy.protect|Autopsy.protect]] 
 
-### #is_/same_as :: [Autopsy.private](/_private/Society/Law/Criminal_Law/Criminology/Autopsy.private.md) 
+### #is_/same_as :: [[/_private/Society/Law/Criminal_Law/Criminology/Autopsy.private|Autopsy.private]] 
 
-### #is_/same_as :: [Autopsy.personal](/_personal/Society/Law/Criminal_Law/Criminology/Autopsy.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Law/Criminal_Law/Criminology/Autopsy.personal|Autopsy.personal]] 
 
-### #is_/same_as :: [Autopsy.secret](/_secret/Society/Law/Criminal_Law/Criminology/Autopsy.secret.md)
+### #is_/same_as :: [[/_secret/Society/Law/Criminal_Law/Criminology/Autopsy.secret|Autopsy.secret]] 
 

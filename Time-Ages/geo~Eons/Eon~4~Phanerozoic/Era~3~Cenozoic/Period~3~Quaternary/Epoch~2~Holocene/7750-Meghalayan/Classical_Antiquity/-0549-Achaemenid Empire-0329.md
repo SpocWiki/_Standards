@@ -137,17 +137,17 @@ coordinate_location: Point(44.42083333 32.53638889)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [-0549-Achaemenid Empire-0329](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-0549-Achaemenid Empire-0329.md) 
+### #is_/same_as :: [[/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-0549-Achaemenid Empire-0329|-0549-Achaemenid Empire-0329]] 
 
-### #is_/same_as :: [-0549-Achaemenid Empire-0329.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-0549-Achaemenid Empire-0329.public.md) 
+### #is_/same_as :: [[/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-0549-Achaemenid Empire-0329.public|-0549-Achaemenid Empire-0329.public]] 
 
-### #is_/same_as :: [-0549-Achaemenid Empire-0329.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-0549-Achaemenid Empire-0329.internal.md) 
+### #is_/same_as :: [[/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-0549-Achaemenid Empire-0329.internal|-0549-Achaemenid Empire-0329.internal]] 
 
-### #is_/same_as :: [-0549-Achaemenid Empire-0329.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-0549-Achaemenid Empire-0329.protect.md) 
+### #is_/same_as :: [[/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-0549-Achaemenid Empire-0329.protect|-0549-Achaemenid Empire-0329.protect]] 
 
-### #is_/same_as :: [-0549-Achaemenid Empire-0329.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-0549-Achaemenid Empire-0329.private.md) 
+### #is_/same_as :: [[/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-0549-Achaemenid Empire-0329.private|-0549-Achaemenid Empire-0329.private]] 
 
-### #is_/same_as :: [-0549-Achaemenid Empire-0329.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-0549-Achaemenid Empire-0329.personal.md) 
+### #is_/same_as :: [[/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-0549-Achaemenid Empire-0329.personal|-0549-Achaemenid Empire-0329.personal]] 
 
-### #is_/same_as :: [-0549-Achaemenid Empire-0329.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-0549-Achaemenid Empire-0329.secret.md)
+### #is_/same_as :: [[/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-0549-Achaemenid Empire-0329.secret|-0549-Achaemenid Empire-0329.secret]] 
 

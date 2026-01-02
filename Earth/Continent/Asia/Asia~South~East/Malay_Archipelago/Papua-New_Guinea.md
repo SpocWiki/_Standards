@@ -176,17 +176,17 @@ Capital :: [[Port_Moresby]]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Papua-New_Guinea](/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea|Papua-New_Guinea]] 
 
-### #is_/same_as :: [Papua-New_Guinea.public](/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea.public|Papua-New_Guinea.public]] 
 
-### #is_/same_as :: [Papua-New_Guinea.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea.internal|Papua-New_Guinea.internal]] 
 
-### #is_/same_as :: [Papua-New_Guinea.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea.protect|Papua-New_Guinea.protect]] 
 
-### #is_/same_as :: [Papua-New_Guinea.private](/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea.private|Papua-New_Guinea.private]] 
 
-### #is_/same_as :: [Papua-New_Guinea.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea.personal|Papua-New_Guinea.personal]] 
 
-### #is_/same_as :: [Papua-New_Guinea.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea.secret|Papua-New_Guinea.secret]] 
 

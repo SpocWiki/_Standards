@@ -74,17 +74,17 @@ Commons_category: Real numbers
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Real_Number](/_Standards/Mathematics/Number/Real_Number.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Number/Real_Number|Real_Number]] 
 
-### #is_/same_as :: [Real_Number.public](/_public/Mathematics/Number/Real_Number.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Number/Real_Number.public|Real_Number.public]] 
 
-### #is_/same_as :: [Real_Number.internal](/_internal/Mathematics/Number/Real_Number.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Number/Real_Number.internal|Real_Number.internal]] 
 
-### #is_/same_as :: [Real_Number.protect](/_protect/Mathematics/Number/Real_Number.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Number/Real_Number.protect|Real_Number.protect]] 
 
-### #is_/same_as :: [Real_Number.private](/_private/Mathematics/Number/Real_Number.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Number/Real_Number.private|Real_Number.private]] 
 
-### #is_/same_as :: [Real_Number.personal](/_personal/Mathematics/Number/Real_Number.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Number/Real_Number.personal|Real_Number.personal]] 
 
-### #is_/same_as :: [Real_Number.secret](/_secret/Mathematics/Number/Real_Number.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Number/Real_Number.secret|Real_Number.secret]] 
 

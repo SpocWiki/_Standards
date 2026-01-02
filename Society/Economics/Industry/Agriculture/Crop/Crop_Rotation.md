@@ -37,17 +37,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Crop_Rotation](/_Standards/Society/Economics/Industry/Agriculture/Crop/Crop_Rotation.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Industry/Agriculture/Crop/Crop_Rotation|Crop_Rotation]] 
 
-### #is_/same_as :: [Crop_Rotation.public](/_public/Society/Economics/Industry/Agriculture/Crop/Crop_Rotation.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Industry/Agriculture/Crop/Crop_Rotation.public|Crop_Rotation.public]] 
 
-### #is_/same_as :: [Crop_Rotation.internal](/_internal/Society/Economics/Industry/Agriculture/Crop/Crop_Rotation.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Industry/Agriculture/Crop/Crop_Rotation.internal|Crop_Rotation.internal]] 
 
-### #is_/same_as :: [Crop_Rotation.protect](/_protect/Society/Economics/Industry/Agriculture/Crop/Crop_Rotation.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Industry/Agriculture/Crop/Crop_Rotation.protect|Crop_Rotation.protect]] 
 
-### #is_/same_as :: [Crop_Rotation.private](/_private/Society/Economics/Industry/Agriculture/Crop/Crop_Rotation.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Industry/Agriculture/Crop/Crop_Rotation.private|Crop_Rotation.private]] 
 
-### #is_/same_as :: [Crop_Rotation.personal](/_personal/Society/Economics/Industry/Agriculture/Crop/Crop_Rotation.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Industry/Agriculture/Crop/Crop_Rotation.personal|Crop_Rotation.personal]] 
 
-### #is_/same_as :: [Crop_Rotation.secret](/_secret/Society/Economics/Industry/Agriculture/Crop/Crop_Rotation.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Industry/Agriculture/Crop/Crop_Rotation.secret|Crop_Rotation.secret]] 
 

@@ -40,17 +40,17 @@ The day of the week between Monday and Wednesday.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Tuesday](/_Standards/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Day_of_Week/Tuesday.md) 
+### #is_/same_as :: [[/_Standards/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Day_of_Week/Tuesday|Tuesday]] 
 
-### #is_/same_as :: [Tuesday.public](/_public/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Day_of_Week/Tuesday.public.md) 
+### #is_/same_as :: [[/_public/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Day_of_Week/Tuesday.public|Tuesday.public]] 
 
-### #is_/same_as :: [Tuesday.internal](/_internal/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Day_of_Week/Tuesday.internal.md) 
+### #is_/same_as :: [[/_internal/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Day_of_Week/Tuesday.internal|Tuesday.internal]] 
 
-### #is_/same_as :: [Tuesday.protect](/_protect/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Day_of_Week/Tuesday.protect.md) 
+### #is_/same_as :: [[/_protect/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Day_of_Week/Tuesday.protect|Tuesday.protect]] 
 
-### #is_/same_as :: [Tuesday.private](/_private/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Day_of_Week/Tuesday.private.md) 
+### #is_/same_as :: [[/_private/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Day_of_Week/Tuesday.private|Tuesday.private]] 
 
-### #is_/same_as :: [Tuesday.personal](/_personal/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Day_of_Week/Tuesday.personal.md) 
+### #is_/same_as :: [[/_personal/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Day_of_Week/Tuesday.personal|Tuesday.personal]] 
 
-### #is_/same_as :: [Tuesday.secret](/_secret/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Day_of_Week/Tuesday.secret.md)
+### #is_/same_as :: [[/_secret/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Day_of_Week/Tuesday.secret|Tuesday.secret]] 
 

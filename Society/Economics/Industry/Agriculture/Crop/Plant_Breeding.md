@@ -73,17 +73,17 @@ MeSH_tree_code: J01.040.227.500
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Plant_Breeding](/_Standards/Society/Economics/Industry/Agriculture/Crop/Plant_Breeding.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Industry/Agriculture/Crop/Plant_Breeding|Plant_Breeding]] 
 
-### #is_/same_as :: [Plant_Breeding.public](/_public/Society/Economics/Industry/Agriculture/Crop/Plant_Breeding.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Industry/Agriculture/Crop/Plant_Breeding.public|Plant_Breeding.public]] 
 
-### #is_/same_as :: [Plant_Breeding.internal](/_internal/Society/Economics/Industry/Agriculture/Crop/Plant_Breeding.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Industry/Agriculture/Crop/Plant_Breeding.internal|Plant_Breeding.internal]] 
 
-### #is_/same_as :: [Plant_Breeding.protect](/_protect/Society/Economics/Industry/Agriculture/Crop/Plant_Breeding.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Industry/Agriculture/Crop/Plant_Breeding.protect|Plant_Breeding.protect]] 
 
-### #is_/same_as :: [Plant_Breeding.private](/_private/Society/Economics/Industry/Agriculture/Crop/Plant_Breeding.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Industry/Agriculture/Crop/Plant_Breeding.private|Plant_Breeding.private]] 
 
-### #is_/same_as :: [Plant_Breeding.personal](/_personal/Society/Economics/Industry/Agriculture/Crop/Plant_Breeding.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Industry/Agriculture/Crop/Plant_Breeding.personal|Plant_Breeding.personal]] 
 
-### #is_/same_as :: [Plant_Breeding.secret](/_secret/Society/Economics/Industry/Agriculture/Crop/Plant_Breeding.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Industry/Agriculture/Crop/Plant_Breeding.secret|Plant_Breeding.secret]] 
 

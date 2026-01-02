@@ -47,17 +47,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_molecular_formula](/_Standards/schema-org/Property/Texts/has_molecular_formula.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/Texts/has_molecular_formula|has_molecular_formula]] 
 
-### #is_/same_as :: [has_molecular_formula.public](/_public/schema-org/Property/Texts/has_molecular_formula.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/Texts/has_molecular_formula.public|has_molecular_formula.public]] 
 
-### #is_/same_as :: [has_molecular_formula.internal](/_internal/schema-org/Property/Texts/has_molecular_formula.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/Texts/has_molecular_formula.internal|has_molecular_formula.internal]] 
 
-### #is_/same_as :: [has_molecular_formula.protect](/_protect/schema-org/Property/Texts/has_molecular_formula.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/Texts/has_molecular_formula.protect|has_molecular_formula.protect]] 
 
-### #is_/same_as :: [has_molecular_formula.private](/_private/schema-org/Property/Texts/has_molecular_formula.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/Texts/has_molecular_formula.private|has_molecular_formula.private]] 
 
-### #is_/same_as :: [has_molecular_formula.personal](/_personal/schema-org/Property/Texts/has_molecular_formula.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/Texts/has_molecular_formula.personal|has_molecular_formula.personal]] 
 
-### #is_/same_as :: [has_molecular_formula.secret](/_secret/schema-org/Property/Texts/has_molecular_formula.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/Texts/has_molecular_formula.secret|has_molecular_formula.secret]] 
 

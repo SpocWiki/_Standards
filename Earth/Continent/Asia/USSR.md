@@ -143,17 +143,17 @@ Repressiv:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [USSR](/_Standards/Earth/Continent/Asia/USSR.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/USSR|USSR]] 
 
-### #is_/same_as :: [USSR.public](/_public/Earth/Continent/Asia/USSR.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/USSR.public|USSR.public]] 
 
-### #is_/same_as :: [USSR.internal](/_internal/Earth/Continent/Asia/USSR.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/USSR.internal|USSR.internal]] 
 
-### #is_/same_as :: [USSR.protect](/_protect/Earth/Continent/Asia/USSR.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/USSR.protect|USSR.protect]] 
 
-### #is_/same_as :: [USSR.private](/_private/Earth/Continent/Asia/USSR.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/USSR.private|USSR.private]] 
 
-### #is_/same_as :: [USSR.personal](/_personal/Earth/Continent/Asia/USSR.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/USSR.personal|USSR.personal]] 
 
-### #is_/same_as :: [USSR.secret](/_secret/Earth/Continent/Asia/USSR.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/USSR.secret|USSR.secret]] 
 

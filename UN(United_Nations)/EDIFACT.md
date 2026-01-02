@@ -34,17 +34,17 @@ type: folder_brief_live
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [EDIFACT](/_Standards/UN(United_Nations)/EDIFACT.md) 
+### #is_/same_as :: [[/_Standards/UN(United_Nations)/EDIFACT|EDIFACT]] 
 
-### #is_/same_as :: [EDIFACT.public](/_public/UN(United_Nations)/EDIFACT.public.md) 
+### #is_/same_as :: [[/_public/UN(United_Nations)/EDIFACT.public|EDIFACT.public]] 
 
-### #is_/same_as :: [EDIFACT.internal](/_internal/UN(United_Nations)/EDIFACT.internal.md) 
+### #is_/same_as :: [[/_internal/UN(United_Nations)/EDIFACT.internal|EDIFACT.internal]] 
 
-### #is_/same_as :: [EDIFACT.protect](/_protect/UN(United_Nations)/EDIFACT.protect.md) 
+### #is_/same_as :: [[/_protect/UN(United_Nations)/EDIFACT.protect|EDIFACT.protect]] 
 
-### #is_/same_as :: [EDIFACT.private](/_private/UN(United_Nations)/EDIFACT.private.md) 
+### #is_/same_as :: [[/_private/UN(United_Nations)/EDIFACT.private|EDIFACT.private]] 
 
-### #is_/same_as :: [EDIFACT.personal](/_personal/UN(United_Nations)/EDIFACT.personal.md) 
+### #is_/same_as :: [[/_personal/UN(United_Nations)/EDIFACT.personal|EDIFACT.personal]] 
 
-### #is_/same_as :: [EDIFACT.secret](/_secret/UN(United_Nations)/EDIFACT.secret.md)
+### #is_/same_as :: [[/_secret/UN(United_Nations)/EDIFACT.secret|EDIFACT.secret]] 
 

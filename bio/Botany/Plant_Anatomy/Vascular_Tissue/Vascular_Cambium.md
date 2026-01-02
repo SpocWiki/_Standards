@@ -41,17 +41,17 @@ Dewey_Decimal_Classification: "575.488"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Vascular_Cambium](/_Standards/bio/Botany/Plant_Anatomy/Vascular_Tissue/Vascular_Cambium.md) 
+### #is_/same_as :: [[/_Standards/bio/Botany/Plant_Anatomy/Vascular_Tissue/Vascular_Cambium|Vascular_Cambium]] 
 
-### #is_/same_as :: [Vascular_Cambium.public](/_public/bio/Botany/Plant_Anatomy/Vascular_Tissue/Vascular_Cambium.public.md) 
+### #is_/same_as :: [[/_public/bio/Botany/Plant_Anatomy/Vascular_Tissue/Vascular_Cambium.public|Vascular_Cambium.public]] 
 
-### #is_/same_as :: [Vascular_Cambium.internal](/_internal/bio/Botany/Plant_Anatomy/Vascular_Tissue/Vascular_Cambium.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Botany/Plant_Anatomy/Vascular_Tissue/Vascular_Cambium.internal|Vascular_Cambium.internal]] 
 
-### #is_/same_as :: [Vascular_Cambium.protect](/_protect/bio/Botany/Plant_Anatomy/Vascular_Tissue/Vascular_Cambium.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Botany/Plant_Anatomy/Vascular_Tissue/Vascular_Cambium.protect|Vascular_Cambium.protect]] 
 
-### #is_/same_as :: [Vascular_Cambium.private](/_private/bio/Botany/Plant_Anatomy/Vascular_Tissue/Vascular_Cambium.private.md) 
+### #is_/same_as :: [[/_private/bio/Botany/Plant_Anatomy/Vascular_Tissue/Vascular_Cambium.private|Vascular_Cambium.private]] 
 
-### #is_/same_as :: [Vascular_Cambium.personal](/_personal/bio/Botany/Plant_Anatomy/Vascular_Tissue/Vascular_Cambium.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Botany/Plant_Anatomy/Vascular_Tissue/Vascular_Cambium.personal|Vascular_Cambium.personal]] 
 
-### #is_/same_as :: [Vascular_Cambium.secret](/_secret/bio/Botany/Plant_Anatomy/Vascular_Tissue/Vascular_Cambium.secret.md)
+### #is_/same_as :: [[/_secret/bio/Botany/Plant_Anatomy/Vascular_Tissue/Vascular_Cambium.secret|Vascular_Cambium.secret]] 
 

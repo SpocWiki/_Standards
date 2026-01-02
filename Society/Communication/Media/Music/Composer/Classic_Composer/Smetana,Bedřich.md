@@ -71,17 +71,17 @@ has_id_wikidata: ''
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Smetana,Bedřich](/_Standards/Society/Communication/Media/Music/Composer/Classic_Composer/Smetana,Bedřich.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Composer/Classic_Composer/Smetana,Bedřich|Smetana,Bedřich]] 
 
-### #is_/same_as :: [Smetana,Bedřich.public](/_public/Society/Communication/Media/Music/Composer/Classic_Composer/Smetana,Bedřich.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Composer/Classic_Composer/Smetana,Bedřich.public|Smetana,Bedřich.public]] 
 
-### #is_/same_as :: [Smetana,Bedřich.internal](/_internal/Society/Communication/Media/Music/Composer/Classic_Composer/Smetana,Bedřich.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Composer/Classic_Composer/Smetana,Bedřich.internal|Smetana,Bedřich.internal]] 
 
-### #is_/same_as :: [Smetana,Bedřich.protect](/_protect/Society/Communication/Media/Music/Composer/Classic_Composer/Smetana,Bedřich.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Composer/Classic_Composer/Smetana,Bedřich.protect|Smetana,Bedřich.protect]] 
 
-### #is_/same_as :: [Smetana,Bedřich.private](/_private/Society/Communication/Media/Music/Composer/Classic_Composer/Smetana,Bedřich.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Composer/Classic_Composer/Smetana,Bedřich.private|Smetana,Bedřich.private]] 
 
-### #is_/same_as :: [Smetana,Bedřich.personal](/_personal/Society/Communication/Media/Music/Composer/Classic_Composer/Smetana,Bedřich.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Composer/Classic_Composer/Smetana,Bedřich.personal|Smetana,Bedřich.personal]] 
 
-### #is_/same_as :: [Smetana,Bedřich.secret](/_secret/Society/Communication/Media/Music/Composer/Classic_Composer/Smetana,Bedřich.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Composer/Classic_Composer/Smetana,Bedřich.secret|Smetana,Bedřich.secret]] 
 

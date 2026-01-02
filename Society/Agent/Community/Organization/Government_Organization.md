@@ -41,17 +41,17 @@ A governmental organization or agency.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Government_Organization](/_Standards/Society/Agent/Community/Organization/Government_Organization.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Government_Organization|Government_Organization]] 
 
-### #is_/same_as :: [Government_Organization.public](/_public/Society/Agent/Community/Organization/Government_Organization.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Government_Organization.public|Government_Organization.public]] 
 
-### #is_/same_as :: [Government_Organization.internal](/_internal/Society/Agent/Community/Organization/Government_Organization.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Government_Organization.internal|Government_Organization.internal]] 
 
-### #is_/same_as :: [Government_Organization.protect](/_protect/Society/Agent/Community/Organization/Government_Organization.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Government_Organization.protect|Government_Organization.protect]] 
 
-### #is_/same_as :: [Government_Organization.private](/_private/Society/Agent/Community/Organization/Government_Organization.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Government_Organization.private|Government_Organization.private]] 
 
-### #is_/same_as :: [Government_Organization.personal](/_personal/Society/Agent/Community/Organization/Government_Organization.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Government_Organization.personal|Government_Organization.personal]] 
 
-### #is_/same_as :: [Government_Organization.secret](/_secret/Society/Agent/Community/Organization/Government_Organization.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Government_Organization.secret|Government_Organization.secret]] 
 

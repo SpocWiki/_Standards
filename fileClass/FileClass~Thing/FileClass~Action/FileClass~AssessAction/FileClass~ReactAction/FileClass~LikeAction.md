@@ -37,17 +37,17 @@ The act of expressing a positive sentiment about the object. An agent likes an o
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~LikeAction](/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~ReactAction/FileClass~LikeAction.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~ReactAction/FileClass~LikeAction|FileClass~LikeAction]] 
 
-### #is_/same_as :: [FileClass~LikeAction.public](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~ReactAction/FileClass~LikeAction.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~ReactAction/FileClass~LikeAction.public|FileClass~LikeAction.public]] 
 
-### #is_/same_as :: [FileClass~LikeAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~ReactAction/FileClass~LikeAction.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~ReactAction/FileClass~LikeAction.internal|FileClass~LikeAction.internal]] 
 
-### #is_/same_as :: [FileClass~LikeAction.protect](/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~ReactAction/FileClass~LikeAction.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~ReactAction/FileClass~LikeAction.protect|FileClass~LikeAction.protect]] 
 
-### #is_/same_as :: [FileClass~LikeAction.private](/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~ReactAction/FileClass~LikeAction.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~ReactAction/FileClass~LikeAction.private|FileClass~LikeAction.private]] 
 
-### #is_/same_as :: [FileClass~LikeAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~ReactAction/FileClass~LikeAction.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~ReactAction/FileClass~LikeAction.personal|FileClass~LikeAction.personal]] 
 
-### #is_/same_as :: [FileClass~LikeAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~ReactAction/FileClass~LikeAction.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~ReactAction/FileClass~LikeAction.secret|FileClass~LikeAction.secret]] 
 

@@ -48,17 +48,17 @@ AvailableTest:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~DiagnosticLab](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~MedicalOrganization/FileClass~DiagnosticLab.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~MedicalOrganization/FileClass~DiagnosticLab|FileClass~DiagnosticLab]] 
 
-### #is_/same_as :: [FileClass~DiagnosticLab.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~MedicalOrganization/FileClass~DiagnosticLab.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~MedicalOrganization/FileClass~DiagnosticLab.public|FileClass~DiagnosticLab.public]] 
 
-### #is_/same_as :: [FileClass~DiagnosticLab.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~MedicalOrganization/FileClass~DiagnosticLab.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~MedicalOrganization/FileClass~DiagnosticLab.internal|FileClass~DiagnosticLab.internal]] 
 
-### #is_/same_as :: [FileClass~DiagnosticLab.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~MedicalOrganization/FileClass~DiagnosticLab.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~MedicalOrganization/FileClass~DiagnosticLab.protect|FileClass~DiagnosticLab.protect]] 
 
-### #is_/same_as :: [FileClass~DiagnosticLab.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~MedicalOrganization/FileClass~DiagnosticLab.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~MedicalOrganization/FileClass~DiagnosticLab.private|FileClass~DiagnosticLab.private]] 
 
-### #is_/same_as :: [FileClass~DiagnosticLab.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~MedicalOrganization/FileClass~DiagnosticLab.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~MedicalOrganization/FileClass~DiagnosticLab.personal|FileClass~DiagnosticLab.personal]] 
 
-### #is_/same_as :: [FileClass~DiagnosticLab.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~MedicalOrganization/FileClass~DiagnosticLab.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~MedicalOrganization/FileClass~DiagnosticLab.secret|FileClass~DiagnosticLab.secret]] 
 

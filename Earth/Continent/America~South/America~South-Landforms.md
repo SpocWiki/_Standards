@@ -16,17 +16,17 @@ minZoom: 3
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [America~South-Landforms](/_Standards/Earth/Continent/America~South/America~South-Landforms.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~South/America~South-Landforms|America~South-Landforms]] 
 
-### #is_/same_as :: [America~South-Landforms.public](/_public/Earth/Continent/America~South/America~South-Landforms.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~South/America~South-Landforms.public|America~South-Landforms.public]] 
 
-### #is_/same_as :: [America~South-Landforms.internal](/_internal/Earth/Continent/America~South/America~South-Landforms.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~South/America~South-Landforms.internal|America~South-Landforms.internal]] 
 
-### #is_/same_as :: [America~South-Landforms.protect](/_protect/Earth/Continent/America~South/America~South-Landforms.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~South/America~South-Landforms.protect|America~South-Landforms.protect]] 
 
-### #is_/same_as :: [America~South-Landforms.private](/_private/Earth/Continent/America~South/America~South-Landforms.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~South/America~South-Landforms.private|America~South-Landforms.private]] 
 
-### #is_/same_as :: [America~South-Landforms.personal](/_personal/Earth/Continent/America~South/America~South-Landforms.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~South/America~South-Landforms.personal|America~South-Landforms.personal]] 
 
-### #is_/same_as :: [America~South-Landforms.secret](/_secret/Earth/Continent/America~South/America~South-Landforms.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~South/America~South-Landforms.secret|America~South-Landforms.secret]] 
 

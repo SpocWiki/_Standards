@@ -111,17 +111,17 @@ U_S_National_Archives_Identifier: 10044410
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [1000-Mesopotamia](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/0000-Greenlandian/1000-Mesopotamia.md) 
+### #is_/same_as :: [[/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/0000-Greenlandian/1000-Mesopotamia|1000-Mesopotamia]] 
 
-### #is_/same_as :: [1000-Mesopotamia.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/0000-Greenlandian/1000-Mesopotamia.public.md) 
+### #is_/same_as :: [[/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/0000-Greenlandian/1000-Mesopotamia.public|1000-Mesopotamia.public]] 
 
-### #is_/same_as :: [1000-Mesopotamia.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/0000-Greenlandian/1000-Mesopotamia.internal.md) 
+### #is_/same_as :: [[/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/0000-Greenlandian/1000-Mesopotamia.internal|1000-Mesopotamia.internal]] 
 
-### #is_/same_as :: [1000-Mesopotamia.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/0000-Greenlandian/1000-Mesopotamia.protect.md) 
+### #is_/same_as :: [[/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/0000-Greenlandian/1000-Mesopotamia.protect|1000-Mesopotamia.protect]] 
 
-### #is_/same_as :: [1000-Mesopotamia.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/0000-Greenlandian/1000-Mesopotamia.private.md) 
+### #is_/same_as :: [[/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/0000-Greenlandian/1000-Mesopotamia.private|1000-Mesopotamia.private]] 
 
-### #is_/same_as :: [1000-Mesopotamia.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/0000-Greenlandian/1000-Mesopotamia.personal.md) 
+### #is_/same_as :: [[/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/0000-Greenlandian/1000-Mesopotamia.personal|1000-Mesopotamia.personal]] 
 
-### #is_/same_as :: [1000-Mesopotamia.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/0000-Greenlandian/1000-Mesopotamia.secret.md)
+### #is_/same_as :: [[/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/0000-Greenlandian/1000-Mesopotamia.secret|1000-Mesopotamia.secret]] 
 

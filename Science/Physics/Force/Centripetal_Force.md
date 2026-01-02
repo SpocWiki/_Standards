@@ -62,17 +62,17 @@ Commons_category: Centripetal force
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Centripetal_Force](/_Standards/Science/Physics/Force/Centripetal_Force.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Force/Centripetal_Force|Centripetal_Force]] 
 
-### #is_/same_as :: [Centripetal_Force.public](/_public/Science/Physics/Force/Centripetal_Force.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Force/Centripetal_Force.public|Centripetal_Force.public]] 
 
-### #is_/same_as :: [Centripetal_Force.internal](/_internal/Science/Physics/Force/Centripetal_Force.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Force/Centripetal_Force.internal|Centripetal_Force.internal]] 
 
-### #is_/same_as :: [Centripetal_Force.protect](/_protect/Science/Physics/Force/Centripetal_Force.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Force/Centripetal_Force.protect|Centripetal_Force.protect]] 
 
-### #is_/same_as :: [Centripetal_Force.private](/_private/Science/Physics/Force/Centripetal_Force.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Force/Centripetal_Force.private|Centripetal_Force.private]] 
 
-### #is_/same_as :: [Centripetal_Force.personal](/_personal/Science/Physics/Force/Centripetal_Force.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Force/Centripetal_Force.personal|Centripetal_Force.personal]] 
 
-### #is_/same_as :: [Centripetal_Force.secret](/_secret/Science/Physics/Force/Centripetal_Force.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Force/Centripetal_Force.secret|Centripetal_Force.secret]] 
 

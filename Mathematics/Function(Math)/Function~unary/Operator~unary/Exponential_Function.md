@@ -70,17 +70,17 @@ Commons_category: Exponential functions
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Exponential_Function](Exponential_Function.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Function(Math)/Function~unary/Operator~unary/Exponential_Function|Exponential_Function]] 
 
-### #is_/same_as :: [Exponential_Function.public](/_public/Mathematics/Function(Math)/Function~unary/Exponential_Function.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Function(Math)/Function~unary/Operator~unary/Exponential_Function.public|Exponential_Function.public]] 
 
-### #is_/same_as :: [Exponential_Function.internal](/_internal/Mathematics/Function(Math)/Function~unary/Exponential_Function.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Function(Math)/Function~unary/Operator~unary/Exponential_Function.internal|Exponential_Function.internal]] 
 
-### #is_/same_as :: [Exponential_Function.protect](/_protect/Mathematics/Function(Math)/Function~unary/Exponential_Function.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Function(Math)/Function~unary/Operator~unary/Exponential_Function.protect|Exponential_Function.protect]] 
 
-### #is_/same_as :: [Exponential_Function.private](/_private/Mathematics/Function(Math)/Function~unary/Exponential_Function.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Function(Math)/Function~unary/Operator~unary/Exponential_Function.private|Exponential_Function.private]] 
 
-### #is_/same_as :: [Exponential_Function.personal](/_personal/Mathematics/Function(Math)/Function~unary/Exponential_Function.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Function(Math)/Function~unary/Operator~unary/Exponential_Function.personal|Exponential_Function.personal]] 
 
-### #is_/same_as :: [Exponential_Function.secret](/_secret/Mathematics/Function(Math)/Function~unary/Exponential_Function.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Function(Math)/Function~unary/Operator~unary/Exponential_Function.secret|Exponential_Function.secret]] 
 

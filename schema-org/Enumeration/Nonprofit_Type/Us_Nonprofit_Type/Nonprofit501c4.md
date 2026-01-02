@@ -42,17 +42,17 @@ Nonprofit501c4: Non-profit type referring to Civic Leagues, Social Welfare Organ
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Nonprofit501c4](/_Standards/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c4.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c4|Nonprofit501c4]] 
 
-### #is_/same_as :: [Nonprofit501c4.public](/_public/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c4.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c4.public|Nonprofit501c4.public]] 
 
-### #is_/same_as :: [Nonprofit501c4.internal](/_internal/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c4.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c4.internal|Nonprofit501c4.internal]] 
 
-### #is_/same_as :: [Nonprofit501c4.protect](/_protect/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c4.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c4.protect|Nonprofit501c4.protect]] 
 
-### #is_/same_as :: [Nonprofit501c4.private](/_private/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c4.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c4.private|Nonprofit501c4.private]] 
 
-### #is_/same_as :: [Nonprofit501c4.personal](/_personal/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c4.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c4.personal|Nonprofit501c4.personal]] 
 
-### #is_/same_as :: [Nonprofit501c4.secret](/_secret/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c4.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c4.secret|Nonprofit501c4.secret]] 
 

@@ -35,17 +35,17 @@ parent_taxon: "[[../Afrotheria]]"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Paenungulatomorpha](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Atlantogenata/Afrotheria/Paenungulatomorpha.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Atlantogenata/Afrotheria/Paenungulatomorpha|Paenungulatomorpha]] 
 
-### #is_/same_as :: [Paenungulatomorpha.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Atlantogenata/Afrotheria/Paenungulatomorpha.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Atlantogenata/Afrotheria/Paenungulatomorpha.public|Paenungulatomorpha.public]] 
 
-### #is_/same_as :: [Paenungulatomorpha.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Atlantogenata/Afrotheria/Paenungulatomorpha.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Atlantogenata/Afrotheria/Paenungulatomorpha.internal|Paenungulatomorpha.internal]] 
 
-### #is_/same_as :: [Paenungulatomorpha.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Atlantogenata/Afrotheria/Paenungulatomorpha.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Atlantogenata/Afrotheria/Paenungulatomorpha.protect|Paenungulatomorpha.protect]] 
 
-### #is_/same_as :: [Paenungulatomorpha.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Atlantogenata/Afrotheria/Paenungulatomorpha.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Atlantogenata/Afrotheria/Paenungulatomorpha.private|Paenungulatomorpha.private]] 
 
-### #is_/same_as :: [Paenungulatomorpha.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Atlantogenata/Afrotheria/Paenungulatomorpha.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Atlantogenata/Afrotheria/Paenungulatomorpha.personal|Paenungulatomorpha.personal]] 
 
-### #is_/same_as :: [Paenungulatomorpha.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Atlantogenata/Afrotheria/Paenungulatomorpha.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Atlantogenata/Afrotheria/Paenungulatomorpha.secret|Paenungulatomorpha.secret]] 
 

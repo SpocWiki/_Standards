@@ -43,17 +43,17 @@ Commons_category: Operators (notation)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Operator(Math)](/_Standards/Mathematics/Function(Math)/Operator(Math).md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Function(Math)/Operator(Math)|Operator(Math)]] 
 
-### #is_/same_as :: [Operator(Math).public](/_public/Mathematics/Function(Math)/Operator(Math).public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Function(Math)/Operator(Math).public|Operator(Math).public]] 
 
-### #is_/same_as :: [Operator(Math).internal](/_internal/Mathematics/Function(Math)/Operator(Math).internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Function(Math)/Operator(Math).internal|Operator(Math).internal]] 
 
-### #is_/same_as :: [Operator(Math).protect](/_protect/Mathematics/Function(Math)/Operator(Math).protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Function(Math)/Operator(Math).protect|Operator(Math).protect]] 
 
-### #is_/same_as :: [Operator(Math).private](/_private/Mathematics/Function(Math)/Operator(Math).private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Function(Math)/Operator(Math).private|Operator(Math).private]] 
 
-### #is_/same_as :: [Operator(Math).personal](/_personal/Mathematics/Function(Math)/Operator(Math).personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Function(Math)/Operator(Math).personal|Operator(Math).personal]] 
 
-### #is_/same_as :: [Operator(Math).secret](/_secret/Mathematics/Function(Math)/Operator(Math).secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Function(Math)/Operator(Math).secret|Operator(Math).secret]] 
 

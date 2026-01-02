@@ -96,17 +96,17 @@ native_label: South Asian Association for Regional Cooperation
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [South_Asian_Association_for_Regional_Cooperation](/_Standards/Society/Agent/Community/Organization/International_Organization/South_Asian_Association_for_Regional_Cooperation.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/International_Organization/South_Asian_Association_for_Regional_Cooperation|South_Asian_Association_for_Regional_Cooperation]] 
 
-### #is_/same_as :: [South_Asian_Association_for_Regional_Cooperation.public](/_public/Society/Agent/Community/Organization/International_Organization/South_Asian_Association_for_Regional_Cooperation.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/International_Organization/South_Asian_Association_for_Regional_Cooperation.public|South_Asian_Association_for_Regional_Cooperation.public]] 
 
-### #is_/same_as :: [South_Asian_Association_for_Regional_Cooperation.internal](/_internal/Society/Agent/Community/Organization/International_Organization/South_Asian_Association_for_Regional_Cooperation.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/International_Organization/South_Asian_Association_for_Regional_Cooperation.internal|South_Asian_Association_for_Regional_Cooperation.internal]] 
 
-### #is_/same_as :: [South_Asian_Association_for_Regional_Cooperation.protect](/_protect/Society/Agent/Community/Organization/International_Organization/South_Asian_Association_for_Regional_Cooperation.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/International_Organization/South_Asian_Association_for_Regional_Cooperation.protect|South_Asian_Association_for_Regional_Cooperation.protect]] 
 
-### #is_/same_as :: [South_Asian_Association_for_Regional_Cooperation.private](/_private/Society/Agent/Community/Organization/International_Organization/South_Asian_Association_for_Regional_Cooperation.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/International_Organization/South_Asian_Association_for_Regional_Cooperation.private|South_Asian_Association_for_Regional_Cooperation.private]] 
 
-### #is_/same_as :: [South_Asian_Association_for_Regional_Cooperation.personal](/_personal/Society/Agent/Community/Organization/International_Organization/South_Asian_Association_for_Regional_Cooperation.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/International_Organization/South_Asian_Association_for_Regional_Cooperation.personal|South_Asian_Association_for_Regional_Cooperation.personal]] 
 
-### #is_/same_as :: [South_Asian_Association_for_Regional_Cooperation.secret](/_secret/Society/Agent/Community/Organization/International_Organization/South_Asian_Association_for_Regional_Cooperation.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/International_Organization/South_Asian_Association_for_Regional_Cooperation.secret|South_Asian_Association_for_Regional_Cooperation.secret]] 
 

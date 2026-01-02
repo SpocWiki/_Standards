@@ -97,17 +97,17 @@ hashtag_: banana
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Banana](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Fruits/Banana.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Home_Economics/Cooking/Food/Fruits/Banana|Banana]] 
 
-### #is_/same_as :: [Banana.public](/_public/Society/Economics/Home_Economics/Cooking/Food/Fruits/Banana.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Home_Economics/Cooking/Food/Fruits/Banana.public|Banana.public]] 
 
-### #is_/same_as :: [Banana.internal](/_internal/Society/Economics/Home_Economics/Cooking/Food/Fruits/Banana.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Home_Economics/Cooking/Food/Fruits/Banana.internal|Banana.internal]] 
 
-### #is_/same_as :: [Banana.protect](/_protect/Society/Economics/Home_Economics/Cooking/Food/Fruits/Banana.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Home_Economics/Cooking/Food/Fruits/Banana.protect|Banana.protect]] 
 
-### #is_/same_as :: [Banana.private](/_private/Society/Economics/Home_Economics/Cooking/Food/Fruits/Banana.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Home_Economics/Cooking/Food/Fruits/Banana.private|Banana.private]] 
 
-### #is_/same_as :: [Banana.personal](/_personal/Society/Economics/Home_Economics/Cooking/Food/Fruits/Banana.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Home_Economics/Cooking/Food/Fruits/Banana.personal|Banana.personal]] 
 
-### #is_/same_as :: [Banana.secret](/_secret/Society/Economics/Home_Economics/Cooking/Food/Fruits/Banana.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Home_Economics/Cooking/Food/Fruits/Banana.secret|Banana.secret]] 
 

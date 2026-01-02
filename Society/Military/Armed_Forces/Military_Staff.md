@@ -42,17 +42,17 @@ Commons_category: Military staff
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Military_Staff](/_Standards/Society/Military/Armed_Forces/Military_Staff.md) 
+### #is_/same_as :: [[/_Standards/Society/Military/Armed_Forces/Military_Staff|Military_Staff]] 
 
-### #is_/same_as :: [Military_Staff.public](/_public/Society/Military/Armed_Forces/Military_Staff.public.md) 
+### #is_/same_as :: [[/_public/Society/Military/Armed_Forces/Military_Staff.public|Military_Staff.public]] 
 
-### #is_/same_as :: [Military_Staff.internal](/_internal/Society/Military/Armed_Forces/Military_Staff.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Military/Armed_Forces/Military_Staff.internal|Military_Staff.internal]] 
 
-### #is_/same_as :: [Military_Staff.protect](/_protect/Society/Military/Armed_Forces/Military_Staff.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Military/Armed_Forces/Military_Staff.protect|Military_Staff.protect]] 
 
-### #is_/same_as :: [Military_Staff.private](/_private/Society/Military/Armed_Forces/Military_Staff.private.md) 
+### #is_/same_as :: [[/_private/Society/Military/Armed_Forces/Military_Staff.private|Military_Staff.private]] 
 
-### #is_/same_as :: [Military_Staff.personal](/_personal/Society/Military/Armed_Forces/Military_Staff.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Military/Armed_Forces/Military_Staff.personal|Military_Staff.personal]] 
 
-### #is_/same_as :: [Military_Staff.secret](/_secret/Society/Military/Armed_Forces/Military_Staff.secret.md)
+### #is_/same_as :: [[/_secret/Society/Military/Armed_Forces/Military_Staff.secret|Military_Staff.secret]] 
 

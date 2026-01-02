@@ -97,17 +97,17 @@ Wolfram_Language_unit_code: '"Days"'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Unit~Day](/_Standards/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Unit~Day.md) 
+### #is_/same_as :: [[/_Standards/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Unit~Day|Unit~Day]] 
 
-### #is_/same_as :: [Unit~Day.public](/_public/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Unit~Day.public.md) 
+### #is_/same_as :: [[/_public/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Unit~Day.public|Unit~Day.public]] 
 
-### #is_/same_as :: [Unit~Day.internal](/_internal/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Unit~Day.internal.md) 
+### #is_/same_as :: [[/_internal/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Unit~Day.internal|Unit~Day.internal]] 
 
-### #is_/same_as :: [Unit~Day.protect](/_protect/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Unit~Day.protect.md) 
+### #is_/same_as :: [[/_protect/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Unit~Day.protect|Unit~Day.protect]] 
 
-### #is_/same_as :: [Unit~Day.private](/_private/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Unit~Day.private.md) 
+### #is_/same_as :: [[/_private/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Unit~Day.private|Unit~Day.private]] 
 
-### #is_/same_as :: [Unit~Day.personal](/_personal/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Unit~Day.personal.md) 
+### #is_/same_as :: [[/_personal/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Unit~Day.personal|Unit~Day.personal]] 
 
-### #is_/same_as :: [Unit~Day.secret](/_secret/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Unit~Day.secret.md)
+### #is_/same_as :: [[/_secret/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Unit~Day.secret|Unit~Day.secret]] 
 

@@ -57,3 +57,22 @@ Commons_category: Schisms
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Schism) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Schism|Schism]] 
+
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Schism.public|Schism.public]] 
+
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Schism.internal|Schism.internal]] 
+
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Schism.protect|Schism.protect]] 
+
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Schism.private|Schism.private]] 
+
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Schism.personal|Schism.personal]] 
+
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Schism.secret|Schism.secret]] 
+

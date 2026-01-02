@@ -28,17 +28,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bill&Ted's_Excellent_Adventure](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Comedy/Bill&Ted's_Excellent_Adventure.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Genre/Comedy/Bill&Ted's_Excellent_Adventure|Bill&Ted's_Excellent_Adventure]] 
 
-### #is_/same_as :: [Bill&Ted's_Excellent_Adventure.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Comedy/Bill&Ted's_Excellent_Adventure.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Genre/Comedy/Bill&Ted's_Excellent_Adventure.public|Bill&Ted's_Excellent_Adventure.public]] 
 
-### #is_/same_as :: [Bill&Ted's_Excellent_Adventure.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Comedy/Bill&Ted's_Excellent_Adventure.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Genre/Comedy/Bill&Ted's_Excellent_Adventure.internal|Bill&Ted's_Excellent_Adventure.internal]] 
 
-### #is_/same_as :: [Bill&Ted's_Excellent_Adventure.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Comedy/Bill&Ted's_Excellent_Adventure.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Genre/Comedy/Bill&Ted's_Excellent_Adventure.protect|Bill&Ted's_Excellent_Adventure.protect]] 
 
-### #is_/same_as :: [Bill&Ted's_Excellent_Adventure.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Comedy/Bill&Ted's_Excellent_Adventure.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Genre/Comedy/Bill&Ted's_Excellent_Adventure.private|Bill&Ted's_Excellent_Adventure.private]] 
 
-### #is_/same_as :: [Bill&Ted's_Excellent_Adventure.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Comedy/Bill&Ted's_Excellent_Adventure.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Genre/Comedy/Bill&Ted's_Excellent_Adventure.personal|Bill&Ted's_Excellent_Adventure.personal]] 
 
-### #is_/same_as :: [Bill&Ted's_Excellent_Adventure.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Comedy/Bill&Ted's_Excellent_Adventure.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Genre/Comedy/Bill&Ted's_Excellent_Adventure.secret|Bill&Ted's_Excellent_Adventure.secret]] 
 

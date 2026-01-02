@@ -125,17 +125,17 @@ date_of_birth: 1805-08-04T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hamilton,William_Rowan](/_Standards/Mathematics/Mathematician/Modern_Mathematician/Hamilton,William_Rowan.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Mathematician/Modern_Mathematician/Hamilton,William_Rowan|Hamilton,William_Rowan]] 
 
-### #is_/same_as :: [Hamilton,William_Rowan.public](/_public/Mathematics/Mathematician/Modern_Mathematician/Hamilton,William_Rowan.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Mathematician/Modern_Mathematician/Hamilton,William_Rowan.public|Hamilton,William_Rowan.public]] 
 
-### #is_/same_as :: [Hamilton,William_Rowan.internal](/_internal/Mathematics/Mathematician/Modern_Mathematician/Hamilton,William_Rowan.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Mathematician/Modern_Mathematician/Hamilton,William_Rowan.internal|Hamilton,William_Rowan.internal]] 
 
-### #is_/same_as :: [Hamilton,William_Rowan.protect](/_protect/Mathematics/Mathematician/Modern_Mathematician/Hamilton,William_Rowan.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Mathematician/Modern_Mathematician/Hamilton,William_Rowan.protect|Hamilton,William_Rowan.protect]] 
 
-### #is_/same_as :: [Hamilton,William_Rowan.private](/_private/Mathematics/Mathematician/Modern_Mathematician/Hamilton,William_Rowan.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Mathematician/Modern_Mathematician/Hamilton,William_Rowan.private|Hamilton,William_Rowan.private]] 
 
-### #is_/same_as :: [Hamilton,William_Rowan.personal](/_personal/Mathematics/Mathematician/Modern_Mathematician/Hamilton,William_Rowan.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Mathematician/Modern_Mathematician/Hamilton,William_Rowan.personal|Hamilton,William_Rowan.personal]] 
 
-### #is_/same_as :: [Hamilton,William_Rowan.secret](/_secret/Mathematics/Mathematician/Modern_Mathematician/Hamilton,William_Rowan.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Mathematician/Modern_Mathematician/Hamilton,William_Rowan.secret|Hamilton,William_Rowan.secret]] 
 

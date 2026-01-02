@@ -11,17 +11,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Chronoception](/_Standards/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Chronoception.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Chronoception|Chronoception]] 
 
-### #is_/same_as :: [Chronoception.public](/_public/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Chronoception.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Chronoception.public|Chronoception.public]] 
 
-### #is_/same_as :: [Chronoception.internal](/_internal/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Chronoception.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Chronoception.internal|Chronoception.internal]] 
 
-### #is_/same_as :: [Chronoception.protect](/_protect/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Chronoception.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Chronoception.protect|Chronoception.protect]] 
 
-### #is_/same_as :: [Chronoception.private](/_private/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Chronoception.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Chronoception.private|Chronoception.private]] 
 
-### #is_/same_as :: [Chronoception.personal](/_personal/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Chronoception.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Chronoception.personal|Chronoception.personal]] 
 
-### #is_/same_as :: [Chronoception.secret](/_secret/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Chronoception.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Chronoception.secret|Chronoception.secret]] 
 

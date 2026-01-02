@@ -47,17 +47,17 @@ official_name: Norma
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Zodiac~Norma](/_Standards/Astronomy/Star~Constellation/Zodiac~Norma.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Star~Constellation/Zodiac~Norma|Zodiac~Norma]] 
 
-### #is_/same_as :: [Zodiac~Norma.public](/_public/Astronomy/Star~Constellation/Zodiac~Norma.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Star~Constellation/Zodiac~Norma.public|Zodiac~Norma.public]] 
 
-### #is_/same_as :: [Zodiac~Norma.internal](/_internal/Astronomy/Star~Constellation/Zodiac~Norma.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Star~Constellation/Zodiac~Norma.internal|Zodiac~Norma.internal]] 
 
-### #is_/same_as :: [Zodiac~Norma.protect](/_protect/Astronomy/Star~Constellation/Zodiac~Norma.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Star~Constellation/Zodiac~Norma.protect|Zodiac~Norma.protect]] 
 
-### #is_/same_as :: [Zodiac~Norma.private](/_private/Astronomy/Star~Constellation/Zodiac~Norma.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Star~Constellation/Zodiac~Norma.private|Zodiac~Norma.private]] 
 
-### #is_/same_as :: [Zodiac~Norma.personal](/_personal/Astronomy/Star~Constellation/Zodiac~Norma.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Star~Constellation/Zodiac~Norma.personal|Zodiac~Norma.personal]] 
 
-### #is_/same_as :: [Zodiac~Norma.secret](/_secret/Astronomy/Star~Constellation/Zodiac~Norma.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Star~Constellation/Zodiac~Norma.secret|Zodiac~Norma.secret]] 
 

@@ -64,17 +64,17 @@ Colon_Classification: Δ:86
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Prophecy](/_Standards/Philosophy/Metaphysic/Religion/Prophecy.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Prophecy|Prophecy]] 
 
-### #is_/same_as :: [Prophecy.public](/_public/Philosophy/Metaphysic/Religion/Prophecy.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Prophecy.public|Prophecy.public]] 
 
-### #is_/same_as :: [Prophecy.internal](/_internal/Philosophy/Metaphysic/Religion/Prophecy.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Prophecy.internal|Prophecy.internal]] 
 
-### #is_/same_as :: [Prophecy.protect](/_protect/Philosophy/Metaphysic/Religion/Prophecy.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Prophecy.protect|Prophecy.protect]] 
 
-### #is_/same_as :: [Prophecy.private](/_private/Philosophy/Metaphysic/Religion/Prophecy.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Prophecy.private|Prophecy.private]] 
 
-### #is_/same_as :: [Prophecy.personal](/_personal/Philosophy/Metaphysic/Religion/Prophecy.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Prophecy.personal|Prophecy.personal]] 
 
-### #is_/same_as :: [Prophecy.secret](/_secret/Philosophy/Metaphysic/Religion/Prophecy.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Prophecy.secret|Prophecy.secret]] 
 

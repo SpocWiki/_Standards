@@ -83,17 +83,17 @@ they **flip their sign when mirrored**.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Angle](/_Standards/Mathematics/Geometry/Geometry-2D/Triangle/Angle.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Geometry/Geometry-2D/Triangle/Angle|Angle]] 
 
-### #is_/same_as :: [Angle.public](/_public/Mathematics/Geometry/Geometry-2D/Triangle/Angle.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Geometry/Geometry-2D/Triangle/Angle.public|Angle.public]] 
 
-### #is_/same_as :: [Angle.internal](/_internal/Mathematics/Geometry/Geometry-2D/Triangle/Angle.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Geometry/Geometry-2D/Triangle/Angle.internal|Angle.internal]] 
 
-### #is_/same_as :: [Angle.protect](/_protect/Mathematics/Geometry/Geometry-2D/Triangle/Angle.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Geometry/Geometry-2D/Triangle/Angle.protect|Angle.protect]] 
 
-### #is_/same_as :: [Angle.private](/_private/Mathematics/Geometry/Geometry-2D/Triangle/Angle.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Geometry/Geometry-2D/Triangle/Angle.private|Angle.private]] 
 
-### #is_/same_as :: [Angle.personal](/_personal/Mathematics/Geometry/Geometry-2D/Triangle/Angle.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Geometry/Geometry-2D/Triangle/Angle.personal|Angle.personal]] 
 
-### #is_/same_as :: [Angle.secret](/_secret/Mathematics/Geometry/Geometry-2D/Triangle/Angle.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Geometry/Geometry-2D/Triangle/Angle.secret|Angle.secret]] 
 

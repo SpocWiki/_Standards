@@ -52,17 +52,17 @@ hashtag_: calligraphy
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Calligraphy](/_Standards/Language/Writing_System/Calligraphy.md) 
+### #is_/same_as :: [[/_Standards/Language/Writing_System/Calligraphy|Calligraphy]] 
 
-### #is_/same_as :: [Calligraphy.public](/_public/Language/Writing_System/Calligraphy.public.md) 
+### #is_/same_as :: [[/_public/Language/Writing_System/Calligraphy.public|Calligraphy.public]] 
 
-### #is_/same_as :: [Calligraphy.internal](/_internal/Language/Writing_System/Calligraphy.internal.md) 
+### #is_/same_as :: [[/_internal/Language/Writing_System/Calligraphy.internal|Calligraphy.internal]] 
 
-### #is_/same_as :: [Calligraphy.protect](/_protect/Language/Writing_System/Calligraphy.protect.md) 
+### #is_/same_as :: [[/_protect/Language/Writing_System/Calligraphy.protect|Calligraphy.protect]] 
 
-### #is_/same_as :: [Calligraphy.private](/_private/Language/Writing_System/Calligraphy.private.md) 
+### #is_/same_as :: [[/_private/Language/Writing_System/Calligraphy.private|Calligraphy.private]] 
 
-### #is_/same_as :: [Calligraphy.personal](/_personal/Language/Writing_System/Calligraphy.personal.md) 
+### #is_/same_as :: [[/_personal/Language/Writing_System/Calligraphy.personal|Calligraphy.personal]] 
 
-### #is_/same_as :: [Calligraphy.secret](/_secret/Language/Writing_System/Calligraphy.secret.md)
+### #is_/same_as :: [[/_secret/Language/Writing_System/Calligraphy.secret|Calligraphy.secret]] 
 

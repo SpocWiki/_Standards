@@ -39,17 +39,17 @@ subclass_of:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Linguistic_Anthropology](/_Standards/Society/Anthropology/Linguistic_Anthropology.md) 
+### #is_/same_as :: [[/_Standards/Society/Anthropology/Linguistic_Anthropology|Linguistic_Anthropology]] 
 
-### #is_/same_as :: [Linguistic_Anthropology.public](/_public/Society/Anthropology/Linguistic_Anthropology.public.md) 
+### #is_/same_as :: [[/_public/Society/Anthropology/Linguistic_Anthropology.public|Linguistic_Anthropology.public]] 
 
-### #is_/same_as :: [Linguistic_Anthropology.internal](/_internal/Society/Anthropology/Linguistic_Anthropology.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Anthropology/Linguistic_Anthropology.internal|Linguistic_Anthropology.internal]] 
 
-### #is_/same_as :: [Linguistic_Anthropology.protect](/_protect/Society/Anthropology/Linguistic_Anthropology.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Anthropology/Linguistic_Anthropology.protect|Linguistic_Anthropology.protect]] 
 
-### #is_/same_as :: [Linguistic_Anthropology.private](/_private/Society/Anthropology/Linguistic_Anthropology.private.md) 
+### #is_/same_as :: [[/_private/Society/Anthropology/Linguistic_Anthropology.private|Linguistic_Anthropology.private]] 
 
-### #is_/same_as :: [Linguistic_Anthropology.personal](/_personal/Society/Anthropology/Linguistic_Anthropology.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Anthropology/Linguistic_Anthropology.personal|Linguistic_Anthropology.personal]] 
 
-### #is_/same_as :: [Linguistic_Anthropology.secret](/_secret/Society/Anthropology/Linguistic_Anthropology.secret.md)
+### #is_/same_as :: [[/_secret/Society/Anthropology/Linguistic_Anthropology.secret|Linguistic_Anthropology.secret]] 
 

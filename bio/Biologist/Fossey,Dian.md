@@ -35,17 +35,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Fossey,Dian](/_Standards/bio/Biologist/Fossey,Dian.md) 
+### #is_/same_as :: [[/_Standards/bio/Biologist/Fossey,Dian|Fossey,Dian]] 
 
-### #is_/same_as :: [Fossey,Dian.public](/_public/bio/Biologist/Fossey,Dian.public.md) 
+### #is_/same_as :: [[/_public/bio/Biologist/Fossey,Dian.public|Fossey,Dian.public]] 
 
-### #is_/same_as :: [Fossey,Dian.internal](/_internal/bio/Biologist/Fossey,Dian.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Biologist/Fossey,Dian.internal|Fossey,Dian.internal]] 
 
-### #is_/same_as :: [Fossey,Dian.protect](/_protect/bio/Biologist/Fossey,Dian.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Biologist/Fossey,Dian.protect|Fossey,Dian.protect]] 
 
-### #is_/same_as :: [Fossey,Dian.private](/_private/bio/Biologist/Fossey,Dian.private.md) 
+### #is_/same_as :: [[/_private/bio/Biologist/Fossey,Dian.private|Fossey,Dian.private]] 
 
-### #is_/same_as :: [Fossey,Dian.personal](/_personal/bio/Biologist/Fossey,Dian.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Biologist/Fossey,Dian.personal|Fossey,Dian.personal]] 
 
-### #is_/same_as :: [Fossey,Dian.secret](/_secret/bio/Biologist/Fossey,Dian.secret.md)
+### #is_/same_as :: [[/_secret/bio/Biologist/Fossey,Dian.secret|Fossey,Dian.secret]] 
 

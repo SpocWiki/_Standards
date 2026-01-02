@@ -35,17 +35,17 @@ Commons_category: History of Hinduism
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [History_of_Hinduism](/_Standards/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism/History_of_Hinduism.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism/History_of_Hinduism|History_of_Hinduism]] 
 
-### #is_/same_as :: [History_of_Hinduism.public](/_public/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism/History_of_Hinduism.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism/History_of_Hinduism.public|History_of_Hinduism.public]] 
 
-### #is_/same_as :: [History_of_Hinduism.internal](/_internal/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism/History_of_Hinduism.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism/History_of_Hinduism.internal|History_of_Hinduism.internal]] 
 
-### #is_/same_as :: [History_of_Hinduism.protect](/_protect/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism/History_of_Hinduism.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism/History_of_Hinduism.protect|History_of_Hinduism.protect]] 
 
-### #is_/same_as :: [History_of_Hinduism.private](/_private/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism/History_of_Hinduism.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism/History_of_Hinduism.private|History_of_Hinduism.private]] 
 
-### #is_/same_as :: [History_of_Hinduism.personal](/_personal/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism/History_of_Hinduism.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism/History_of_Hinduism.personal|History_of_Hinduism.personal]] 
 
-### #is_/same_as :: [History_of_Hinduism.secret](/_secret/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism/History_of_Hinduism.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism/History_of_Hinduism.secret|History_of_Hinduism.secret]] 
 

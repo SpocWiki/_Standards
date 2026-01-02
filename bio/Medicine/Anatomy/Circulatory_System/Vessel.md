@@ -42,17 +42,17 @@ that transport blood throughout the entire body.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Vessel](/_Standards/bio/Medicine/Anatomy/Circulatory_System/Vessel.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Anatomy/Circulatory_System/Vessel|Vessel]] 
 
-### #is_/same_as :: [Vessel.public](/_public/bio/Medicine/Anatomy/Circulatory_System/Vessel.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Anatomy/Circulatory_System/Vessel.public|Vessel.public]] 
 
-### #is_/same_as :: [Vessel.internal](/_internal/bio/Medicine/Anatomy/Circulatory_System/Vessel.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Anatomy/Circulatory_System/Vessel.internal|Vessel.internal]] 
 
-### #is_/same_as :: [Vessel.protect](/_protect/bio/Medicine/Anatomy/Circulatory_System/Vessel.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Anatomy/Circulatory_System/Vessel.protect|Vessel.protect]] 
 
-### #is_/same_as :: [Vessel.private](/_private/bio/Medicine/Anatomy/Circulatory_System/Vessel.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Anatomy/Circulatory_System/Vessel.private|Vessel.private]] 
 
-### #is_/same_as :: [Vessel.personal](/_personal/bio/Medicine/Anatomy/Circulatory_System/Vessel.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Anatomy/Circulatory_System/Vessel.personal|Vessel.personal]] 
 
-### #is_/same_as :: [Vessel.secret](/_secret/bio/Medicine/Anatomy/Circulatory_System/Vessel.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Anatomy/Circulatory_System/Vessel.secret|Vessel.secret]] 
 

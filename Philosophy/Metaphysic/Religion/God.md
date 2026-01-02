@@ -155,17 +155,17 @@ Gujarati_Vishwakosh_entry: ઈશ્વર
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [God](/_Standards/Philosophy/Metaphysic/Religion/God.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/God|God]] 
 
-### #is_/same_as :: [God.public](/_public/Philosophy/Metaphysic/Religion/God.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/God.public|God.public]] 
 
-### #is_/same_as :: [God.internal](/_internal/Philosophy/Metaphysic/Religion/God.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/God.internal|God.internal]] 
 
-### #is_/same_as :: [God.protect](/_protect/Philosophy/Metaphysic/Religion/God.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/God.protect|God.protect]] 
 
-### #is_/same_as :: [God.private](/_private/Philosophy/Metaphysic/Religion/God.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/God.private|God.private]] 
 
-### #is_/same_as :: [God.personal](/_personal/Philosophy/Metaphysic/Religion/God.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/God.personal|God.personal]] 
 
-### #is_/same_as :: [God.secret](/_secret/Philosophy/Metaphysic/Religion/God.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/God.secret|God.secret]] 
 

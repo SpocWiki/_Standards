@@ -85,17 +85,17 @@ described_at_URL:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Vespucci,Amerigo](/_Standards/Earth/Explorer/Age_of_Discovery/Vespucci,Amerigo.md) 
+### #is_/same_as :: [[/_Standards/Earth/Explorer/Age_of_Discovery/Vespucci,Amerigo|Vespucci,Amerigo]] 
 
-### #is_/same_as :: [Vespucci,Amerigo.public](/_public/Earth/Explorer/Age_of_Discovery/Vespucci,Amerigo.public.md) 
+### #is_/same_as :: [[/_public/Earth/Explorer/Age_of_Discovery/Vespucci,Amerigo.public|Vespucci,Amerigo.public]] 
 
-### #is_/same_as :: [Vespucci,Amerigo.internal](/_internal/Earth/Explorer/Age_of_Discovery/Vespucci,Amerigo.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Explorer/Age_of_Discovery/Vespucci,Amerigo.internal|Vespucci,Amerigo.internal]] 
 
-### #is_/same_as :: [Vespucci,Amerigo.protect](/_protect/Earth/Explorer/Age_of_Discovery/Vespucci,Amerigo.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Explorer/Age_of_Discovery/Vespucci,Amerigo.protect|Vespucci,Amerigo.protect]] 
 
-### #is_/same_as :: [Vespucci,Amerigo.private](/_private/Earth/Explorer/Age_of_Discovery/Vespucci,Amerigo.private.md) 
+### #is_/same_as :: [[/_private/Earth/Explorer/Age_of_Discovery/Vespucci,Amerigo.private|Vespucci,Amerigo.private]] 
 
-### #is_/same_as :: [Vespucci,Amerigo.personal](/_personal/Earth/Explorer/Age_of_Discovery/Vespucci,Amerigo.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Explorer/Age_of_Discovery/Vespucci,Amerigo.personal|Vespucci,Amerigo.personal]] 
 
-### #is_/same_as :: [Vespucci,Amerigo.secret](/_secret/Earth/Explorer/Age_of_Discovery/Vespucci,Amerigo.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Explorer/Age_of_Discovery/Vespucci,Amerigo.secret|Vespucci,Amerigo.secret]] 
 

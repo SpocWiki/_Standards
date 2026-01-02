@@ -99,17 +99,17 @@ mass: 1.008966491595
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Neutron](/_Standards/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron/Baryon/Nucleon/Neutron.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron/Baryon/Nucleon/Neutron|Neutron]] 
 
-### #is_/same_as :: [Neutron.public](/_public/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron/Baryon/Nucleon/Neutron.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron/Baryon/Nucleon/Neutron.public|Neutron.public]] 
 
-### #is_/same_as :: [Neutron.internal](/_internal/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron/Baryon/Nucleon/Neutron.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron/Baryon/Nucleon/Neutron.internal|Neutron.internal]] 
 
-### #is_/same_as :: [Neutron.protect](/_protect/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron/Baryon/Nucleon/Neutron.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron/Baryon/Nucleon/Neutron.protect|Neutron.protect]] 
 
-### #is_/same_as :: [Neutron.private](/_private/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron/Baryon/Nucleon/Neutron.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron/Baryon/Nucleon/Neutron.private|Neutron.private]] 
 
-### #is_/same_as :: [Neutron.personal](/_personal/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron/Baryon/Nucleon/Neutron.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron/Baryon/Nucleon/Neutron.personal|Neutron.personal]] 
 
-### #is_/same_as :: [Neutron.secret](/_secret/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron/Baryon/Nucleon/Neutron.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron/Baryon/Nucleon/Neutron.secret|Neutron.secret]] 
 

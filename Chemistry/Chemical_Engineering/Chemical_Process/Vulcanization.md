@@ -57,17 +57,17 @@ Dewey_Decimal_Classification:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Vulcanization](/_Standards/Chemistry/Chemical_Engineering/Chemical_Process/Vulcanization.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Chemical_Engineering/Chemical_Process/Vulcanization|Vulcanization]] 
 
-### #is_/same_as :: [Vulcanization.public](/_public/Chemistry/Chemical_Engineering/Chemical_Process/Vulcanization.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Chemical_Engineering/Chemical_Process/Vulcanization.public|Vulcanization.public]] 
 
-### #is_/same_as :: [Vulcanization.internal](/_internal/Chemistry/Chemical_Engineering/Chemical_Process/Vulcanization.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Chemical_Engineering/Chemical_Process/Vulcanization.internal|Vulcanization.internal]] 
 
-### #is_/same_as :: [Vulcanization.protect](/_protect/Chemistry/Chemical_Engineering/Chemical_Process/Vulcanization.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Chemical_Engineering/Chemical_Process/Vulcanization.protect|Vulcanization.protect]] 
 
-### #is_/same_as :: [Vulcanization.private](/_private/Chemistry/Chemical_Engineering/Chemical_Process/Vulcanization.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Chemical_Engineering/Chemical_Process/Vulcanization.private|Vulcanization.private]] 
 
-### #is_/same_as :: [Vulcanization.personal](/_personal/Chemistry/Chemical_Engineering/Chemical_Process/Vulcanization.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Chemical_Engineering/Chemical_Process/Vulcanization.personal|Vulcanization.personal]] 
 
-### #is_/same_as :: [Vulcanization.secret](/_secret/Chemistry/Chemical_Engineering/Chemical_Process/Vulcanization.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Chemical_Engineering/Chemical_Process/Vulcanization.secret|Vulcanization.secret]] 
 

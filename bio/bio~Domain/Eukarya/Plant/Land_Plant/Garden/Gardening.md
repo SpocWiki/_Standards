@@ -68,17 +68,17 @@ MeSH_tree_code:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Gardening](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Garden/Gardening.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Garden/Gardening|Gardening]] 
 
-### #is_/same_as :: [Gardening.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Garden/Gardening.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Garden/Gardening.public|Gardening.public]] 
 
-### #is_/same_as :: [Gardening.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Garden/Gardening.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Garden/Gardening.internal|Gardening.internal]] 
 
-### #is_/same_as :: [Gardening.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Garden/Gardening.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Garden/Gardening.protect|Gardening.protect]] 
 
-### #is_/same_as :: [Gardening.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Garden/Gardening.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Garden/Gardening.private|Gardening.private]] 
 
-### #is_/same_as :: [Gardening.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Garden/Gardening.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Garden/Gardening.personal|Gardening.personal]] 
 
-### #is_/same_as :: [Gardening.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Garden/Gardening.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Garden/Gardening.secret|Gardening.secret]] 
 

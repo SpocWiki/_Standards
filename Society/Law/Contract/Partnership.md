@@ -42,17 +42,17 @@ Dewey_Decimal_Classification:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Partnership](/_Standards/Society/Law/Contract/Partnership.md) 
+### #is_/same_as :: [[/_Standards/Society/Law/Contract/Partnership|Partnership]] 
 
-### #is_/same_as :: [Partnership.public](/_public/Society/Law/Contract/Partnership.public.md) 
+### #is_/same_as :: [[/_public/Society/Law/Contract/Partnership.public|Partnership.public]] 
 
-### #is_/same_as :: [Partnership.internal](/_internal/Society/Law/Contract/Partnership.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Law/Contract/Partnership.internal|Partnership.internal]] 
 
-### #is_/same_as :: [Partnership.protect](/_protect/Society/Law/Contract/Partnership.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Law/Contract/Partnership.protect|Partnership.protect]] 
 
-### #is_/same_as :: [Partnership.private](/_private/Society/Law/Contract/Partnership.private.md) 
+### #is_/same_as :: [[/_private/Society/Law/Contract/Partnership.private|Partnership.private]] 
 
-### #is_/same_as :: [Partnership.personal](/_personal/Society/Law/Contract/Partnership.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Law/Contract/Partnership.personal|Partnership.personal]] 
 
-### #is_/same_as :: [Partnership.secret](/_secret/Society/Law/Contract/Partnership.secret.md)
+### #is_/same_as :: [[/_secret/Society/Law/Contract/Partnership.secret|Partnership.secret]] 
 

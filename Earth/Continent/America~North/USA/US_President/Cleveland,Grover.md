@@ -37,17 +37,17 @@ type: private_note
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Cleveland,Grover](/_Standards/Earth/Continent/America~North/US~President/Cleveland,Grover.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~North/USA/US_President/Cleveland,Grover|Cleveland,Grover]] 
 
-### #is_/same_as :: [Cleveland,Grover.public](/_public/Earth/Continent/America~North/US~President/Cleveland,Grover.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~North/USA/US_President/Cleveland,Grover.public|Cleveland,Grover.public]] 
 
-### #is_/same_as :: [Cleveland,Grover.internal](/_internal/Earth/Continent/America~North/US~President/Cleveland,Grover.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~North/USA/US_President/Cleveland,Grover.internal|Cleveland,Grover.internal]] 
 
-### #is_/same_as :: [Cleveland,Grover.protect](/_protect/Earth/Continent/America~North/US~President/Cleveland,Grover.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~North/USA/US_President/Cleveland,Grover.protect|Cleveland,Grover.protect]] 
 
-### #is_/same_as :: [Cleveland,Grover.private](/_private/Earth/Continent/America~North/US~President/Cleveland,Grover.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~North/USA/US_President/Cleveland,Grover.private|Cleveland,Grover.private]] 
 
-### #is_/same_as :: [Cleveland,Grover.personal](/_personal/Earth/Continent/America~North/US~President/Cleveland,Grover.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~North/USA/US_President/Cleveland,Grover.personal|Cleveland,Grover.personal]] 
 
-### #is_/same_as :: [Cleveland,Grover.secret](/_secret/Earth/Continent/America~North/US~President/Cleveland,Grover.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~North/USA/US_President/Cleveland,Grover.secret|Cleveland,Grover.secret]] 
 

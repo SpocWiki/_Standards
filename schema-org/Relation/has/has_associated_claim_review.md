@@ -45,17 +45,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_associated_claim_review](/_Standards/schema-org/Relation/has/has_associated_claim_review.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_associated_claim_review|has_associated_claim_review]] 
 
-### #is_/same_as :: [has_associated_claim_review.public](/_public/schema-org/Relation/has/has_associated_claim_review.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_associated_claim_review.public|has_associated_claim_review.public]] 
 
-### #is_/same_as :: [has_associated_claim_review.internal](/_internal/schema-org/Relation/has/has_associated_claim_review.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_associated_claim_review.internal|has_associated_claim_review.internal]] 
 
-### #is_/same_as :: [has_associated_claim_review.protect](/_protect/schema-org/Relation/has/has_associated_claim_review.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_associated_claim_review.protect|has_associated_claim_review.protect]] 
 
-### #is_/same_as :: [has_associated_claim_review.private](/_private/schema-org/Relation/has/has_associated_claim_review.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_associated_claim_review.private|has_associated_claim_review.private]] 
 
-### #is_/same_as :: [has_associated_claim_review.personal](/_personal/schema-org/Relation/has/has_associated_claim_review.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_associated_claim_review.personal|has_associated_claim_review.personal]] 
 
-### #is_/same_as :: [has_associated_claim_review.secret](/_secret/schema-org/Relation/has/has_associated_claim_review.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_associated_claim_review.secret|has_associated_claim_review.secret]] 
 

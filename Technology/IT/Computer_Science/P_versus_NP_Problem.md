@@ -69,17 +69,17 @@ Stack_Exchange_tag:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [P_versus_NP_Problem](/_Standards/Technology/IT/Computer_Science/P_versus_NP_Problem.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Computer_Science/P_versus_NP_Problem|P_versus_NP_Problem]] 
 
-### #is_/same_as :: [P_versus_NP_Problem.public](/_public/Technology/IT/Computer_Science/P_versus_NP_Problem.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Computer_Science/P_versus_NP_Problem.public|P_versus_NP_Problem.public]] 
 
-### #is_/same_as :: [P_versus_NP_Problem.internal](/_internal/Technology/IT/Computer_Science/P_versus_NP_Problem.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Computer_Science/P_versus_NP_Problem.internal|P_versus_NP_Problem.internal]] 
 
-### #is_/same_as :: [P_versus_NP_Problem.protect](/_protect/Technology/IT/Computer_Science/P_versus_NP_Problem.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Computer_Science/P_versus_NP_Problem.protect|P_versus_NP_Problem.protect]] 
 
-### #is_/same_as :: [P_versus_NP_Problem.private](/_private/Technology/IT/Computer_Science/P_versus_NP_Problem.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Computer_Science/P_versus_NP_Problem.private|P_versus_NP_Problem.private]] 
 
-### #is_/same_as :: [P_versus_NP_Problem.personal](/_personal/Technology/IT/Computer_Science/P_versus_NP_Problem.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Computer_Science/P_versus_NP_Problem.personal|P_versus_NP_Problem.personal]] 
 
-### #is_/same_as :: [P_versus_NP_Problem.secret](/_secret/Technology/IT/Computer_Science/P_versus_NP_Problem.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Computer_Science/P_versus_NP_Problem.secret|P_versus_NP_Problem.secret]] 
 

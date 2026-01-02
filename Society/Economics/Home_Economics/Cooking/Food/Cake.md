@@ -70,17 +70,17 @@ hashtag_: cake
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Cake](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Cake.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Home_Economics/Cooking/Food/Cake|Cake]] 
 
-### #is_/same_as :: [Cake.public](/_public/Society/Economics/Home_Economics/Cooking/Food/Cake.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Home_Economics/Cooking/Food/Cake.public|Cake.public]] 
 
-### #is_/same_as :: [Cake.internal](/_internal/Society/Economics/Home_Economics/Cooking/Food/Cake.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Home_Economics/Cooking/Food/Cake.internal|Cake.internal]] 
 
-### #is_/same_as :: [Cake.protect](/_protect/Society/Economics/Home_Economics/Cooking/Food/Cake.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Home_Economics/Cooking/Food/Cake.protect|Cake.protect]] 
 
-### #is_/same_as :: [Cake.private](/_private/Society/Economics/Home_Economics/Cooking/Food/Cake.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Home_Economics/Cooking/Food/Cake.private|Cake.private]] 
 
-### #is_/same_as :: [Cake.personal](/_personal/Society/Economics/Home_Economics/Cooking/Food/Cake.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Home_Economics/Cooking/Food/Cake.personal|Cake.personal]] 
 
-### #is_/same_as :: [Cake.secret](/_secret/Society/Economics/Home_Economics/Cooking/Food/Cake.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Home_Economics/Cooking/Food/Cake.secret|Cake.secret]] 
 

@@ -30,17 +30,17 @@ Commons_category: Fencing (sabre)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Saber_Fencing](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Fencing/Saber_Fencing.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Fencing/Saber_Fencing|Saber_Fencing]] 
 
-### #is_/same_as :: [Saber_Fencing.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Fencing/Saber_Fencing.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Fencing/Saber_Fencing.public|Saber_Fencing.public]] 
 
-### #is_/same_as :: [Saber_Fencing.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Fencing/Saber_Fencing.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Fencing/Saber_Fencing.internal|Saber_Fencing.internal]] 
 
-### #is_/same_as :: [Saber_Fencing.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Fencing/Saber_Fencing.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Fencing/Saber_Fencing.protect|Saber_Fencing.protect]] 
 
-### #is_/same_as :: [Saber_Fencing.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Fencing/Saber_Fencing.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Fencing/Saber_Fencing.private|Saber_Fencing.private]] 
 
-### #is_/same_as :: [Saber_Fencing.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Fencing/Saber_Fencing.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Fencing/Saber_Fencing.personal|Saber_Fencing.personal]] 
 
-### #is_/same_as :: [Saber_Fencing.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Fencing/Saber_Fencing.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Fencing/Saber_Fencing.secret|Saber_Fencing.secret]] 
 

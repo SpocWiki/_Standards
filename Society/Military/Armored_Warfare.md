@@ -34,17 +34,17 @@ Krugosvet_article: nauka_i_tehnika/voennaya_tehnika/VOSKA_BRONETANKOVIE.html
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Armored_Warfare](/_Standards/Society/Military/Armored_Warfare.md) 
+### #is_/same_as :: [[/_Standards/Society/Military/Armored_Warfare|Armored_Warfare]] 
 
-### #is_/same_as :: [Armored_Warfare.public](/_public/Society/Military/Armored_Warfare.public.md) 
+### #is_/same_as :: [[/_public/Society/Military/Armored_Warfare.public|Armored_Warfare.public]] 
 
-### #is_/same_as :: [Armored_Warfare.internal](/_internal/Society/Military/Armored_Warfare.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Military/Armored_Warfare.internal|Armored_Warfare.internal]] 
 
-### #is_/same_as :: [Armored_Warfare.protect](/_protect/Society/Military/Armored_Warfare.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Military/Armored_Warfare.protect|Armored_Warfare.protect]] 
 
-### #is_/same_as :: [Armored_Warfare.private](/_private/Society/Military/Armored_Warfare.private.md) 
+### #is_/same_as :: [[/_private/Society/Military/Armored_Warfare.private|Armored_Warfare.private]] 
 
-### #is_/same_as :: [Armored_Warfare.personal](/_personal/Society/Military/Armored_Warfare.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Military/Armored_Warfare.personal|Armored_Warfare.personal]] 
 
-### #is_/same_as :: [Armored_Warfare.secret](/_secret/Society/Military/Armored_Warfare.secret.md)
+### #is_/same_as :: [[/_secret/Society/Military/Armored_Warfare.secret|Armored_Warfare.secret]] 
 

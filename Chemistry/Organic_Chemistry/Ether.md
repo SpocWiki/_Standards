@@ -63,17 +63,17 @@ Gujarati_Vishwakosh_entry: ઈથર-રસાયણ
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ether](/_Standards/Chemistry/Organic_Chemistry/Ether.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Organic_Chemistry/Ether|Ether]] 
 
-### #is_/same_as :: [Ether.public](/_public/Chemistry/Organic_Chemistry/Ether.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Organic_Chemistry/Ether.public|Ether.public]] 
 
-### #is_/same_as :: [Ether.internal](/_internal/Chemistry/Organic_Chemistry/Ether.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Organic_Chemistry/Ether.internal|Ether.internal]] 
 
-### #is_/same_as :: [Ether.protect](/_protect/Chemistry/Organic_Chemistry/Ether.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Organic_Chemistry/Ether.protect|Ether.protect]] 
 
-### #is_/same_as :: [Ether.private](/_private/Chemistry/Organic_Chemistry/Ether.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Organic_Chemistry/Ether.private|Ether.private]] 
 
-### #is_/same_as :: [Ether.personal](/_personal/Chemistry/Organic_Chemistry/Ether.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Organic_Chemistry/Ether.personal|Ether.personal]] 
 
-### #is_/same_as :: [Ether.secret](/_secret/Chemistry/Organic_Chemistry/Ether.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Organic_Chemistry/Ether.secret|Ether.secret]] 
 

@@ -55,17 +55,17 @@ IPTC_NewsCode: mediatopic/20000383
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Recession](/_Standards/Society/Economics/Economy/Recession.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Economy/Recession|Recession]] 
 
-### #is_/same_as :: [Recession.public](/_public/Society/Economics/Economy/Recession.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Economy/Recession.public|Recession.public]] 
 
-### #is_/same_as :: [Recession.internal](/_internal/Society/Economics/Economy/Recession.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Economy/Recession.internal|Recession.internal]] 
 
-### #is_/same_as :: [Recession.protect](/_protect/Society/Economics/Economy/Recession.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Economy/Recession.protect|Recession.protect]] 
 
-### #is_/same_as :: [Recession.private](/_private/Society/Economics/Economy/Recession.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Economy/Recession.private|Recession.private]] 
 
-### #is_/same_as :: [Recession.personal](/_personal/Society/Economics/Economy/Recession.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Economy/Recession.personal|Recession.personal]] 
 
-### #is_/same_as :: [Recession.secret](/_secret/Society/Economics/Economy/Recession.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Economy/Recession.secret|Recession.secret]] 
 

@@ -144,17 +144,17 @@ writing_language: '[[_Standards/WikiData/WD~English,1860]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Watt,James](/_Standards/Science/Inventor/Watt,James.md) 
+### #is_/same_as :: [[/_Standards/Science/Inventor/Watt,James|Watt,James]] 
 
-### #is_/same_as :: [Watt,James.public](/_public/Science/Inventor/Watt,James.public.md) 
+### #is_/same_as :: [[/_public/Science/Inventor/Watt,James.public|Watt,James.public]] 
 
-### #is_/same_as :: [Watt,James.internal](/_internal/Science/Inventor/Watt,James.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Inventor/Watt,James.internal|Watt,James.internal]] 
 
-### #is_/same_as :: [Watt,James.protect](/_protect/Science/Inventor/Watt,James.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Inventor/Watt,James.protect|Watt,James.protect]] 
 
-### #is_/same_as :: [Watt,James.private](/_private/Science/Inventor/Watt,James.private.md) 
+### #is_/same_as :: [[/_private/Science/Inventor/Watt,James.private|Watt,James.private]] 
 
-### #is_/same_as :: [Watt,James.personal](/_personal/Science/Inventor/Watt,James.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Inventor/Watt,James.personal|Watt,James.personal]] 
 
-### #is_/same_as :: [Watt,James.secret](/_secret/Science/Inventor/Watt,James.secret.md)
+### #is_/same_as :: [[/_secret/Science/Inventor/Watt,James.secret|Watt,James.secret]] 
 

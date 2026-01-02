@@ -34,7 +34,7 @@ title: Grimalditeuthis bonplandi
 # *Grimalditeuthis bonplandi* [(Verany, 1839)] 
 
 [Richard E. Young and Clyde F. E. Roper]()
-![ ](Grimalditeuthis/Grimalditeuthis.jpg))![ ](Grimalditeuthis/GrimaldiFins.jpg))
+![ ](Grimalditeuthis/Grimalditeuthis.jpg))![ ](Grimalditeuthis/GrimaldiFins.jpg) 
 
 The holotype is thought to be deposited in the Museum of Natural
 History, Nice, France, but its existence is uncertain.
@@ -203,7 +203,7 @@ waters. Bull. Mar. Sci. 49: 162-185.
 
 ## Title Illustrations
 
-![](Grimalditeuthis/Grimalditeuthis.jpg))
+![](Grimalditeuthis/Grimalditeuthis.jpg) 
 
   ------------------------------------------------------------------------------
   Scientific Name ::  Grimalditeuthis bonplandi
@@ -215,7 +215,7 @@ waters. Bull. Mar. Sci. 49: 162-185.
   Copyright ::         © [Richard E. Young](http://www.soest.hawaii.edu/%7Eryoung/rey.html) 
  
   ------------------------------------------------------------------------------
-![](Grimalditeuthis/GrimaldiFins.jpg))
+![](Grimalditeuthis/GrimaldiFins.jpg) 
 
   ------------------------------------------------------------------------------
   Scientific Name ::  Grimalditeuthis bonplandi
@@ -230,17 +230,17 @@ waters. Bull. Mar. Sci. 49: 162-185.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Grimalditeuthis](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Chiroteuthidae/Grimalditeuthis.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Chiroteuthidae/Grimalditeuthis|Grimalditeuthis]] 
 
-### #is_/same_as :: [Grimalditeuthis.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Chiroteuthidae/Grimalditeuthis.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Chiroteuthidae/Grimalditeuthis.public|Grimalditeuthis.public]] 
 
-### #is_/same_as :: [Grimalditeuthis.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Chiroteuthidae/Grimalditeuthis.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Chiroteuthidae/Grimalditeuthis.internal|Grimalditeuthis.internal]] 
 
-### #is_/same_as :: [Grimalditeuthis.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Chiroteuthidae/Grimalditeuthis.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Chiroteuthidae/Grimalditeuthis.protect|Grimalditeuthis.protect]] 
 
-### #is_/same_as :: [Grimalditeuthis.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Chiroteuthidae/Grimalditeuthis.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Chiroteuthidae/Grimalditeuthis.private|Grimalditeuthis.private]] 
 
-### #is_/same_as :: [Grimalditeuthis.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Chiroteuthidae/Grimalditeuthis.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Chiroteuthidae/Grimalditeuthis.personal|Grimalditeuthis.personal]] 
 
-### #is_/same_as :: [Grimalditeuthis.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Chiroteuthidae/Grimalditeuthis.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Chiroteuthidae/Grimalditeuthis.secret|Grimalditeuthis.secret]] 
 

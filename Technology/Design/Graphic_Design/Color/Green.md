@@ -97,17 +97,17 @@ OpenStreetMap_tag_or_key: Tag:colour=green
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Green](/_Standards/Technology/Design/Graphic_Design/Color/Green.md) 
+### #is_/same_as :: [[/_Standards/Technology/Design/Graphic_Design/Color/Green|Green]] 
 
-### #is_/same_as :: [Green.public](/_public/Technology/Design/Graphic_Design/Color/Green.public.md) 
+### #is_/same_as :: [[/_public/Technology/Design/Graphic_Design/Color/Green.public|Green.public]] 
 
-### #is_/same_as :: [Green.internal](/_internal/Technology/Design/Graphic_Design/Color/Green.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Design/Graphic_Design/Color/Green.internal|Green.internal]] 
 
-### #is_/same_as :: [Green.protect](/_protect/Technology/Design/Graphic_Design/Color/Green.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Design/Graphic_Design/Color/Green.protect|Green.protect]] 
 
-### #is_/same_as :: [Green.private](/_private/Technology/Design/Graphic_Design/Color/Green.private.md) 
+### #is_/same_as :: [[/_private/Technology/Design/Graphic_Design/Color/Green.private|Green.private]] 
 
-### #is_/same_as :: [Green.personal](/_personal/Technology/Design/Graphic_Design/Color/Green.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Design/Graphic_Design/Color/Green.personal|Green.personal]] 
 
-### #is_/same_as :: [Green.secret](/_secret/Technology/Design/Graphic_Design/Color/Green.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Design/Graphic_Design/Color/Green.secret|Green.secret]] 
 

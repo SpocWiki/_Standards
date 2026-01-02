@@ -192,17 +192,17 @@ described_at_URL:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Osbourne,Ozzy](/_Standards/Society/Communication/Media/Music/Music_Genre/Rock_Music/Heavy_Metal/Osbourne,Ozzy.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Music_Genre/Rock_Music/Heavy_Metal/Osbourne,Ozzy|Osbourne,Ozzy]] 
 
-### #is_/same_as :: [Osbourne,Ozzy.public](/_public/Society/Communication/Media/Music/Music_Genre/Rock_Music/Heavy_Metal/Osbourne,Ozzy.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Music_Genre/Rock_Music/Heavy_Metal/Osbourne,Ozzy.public|Osbourne,Ozzy.public]] 
 
-### #is_/same_as :: [Osbourne,Ozzy.internal](/_internal/Society/Communication/Media/Music/Music_Genre/Rock_Music/Heavy_Metal/Osbourne,Ozzy.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Music_Genre/Rock_Music/Heavy_Metal/Osbourne,Ozzy.internal|Osbourne,Ozzy.internal]] 
 
-### #is_/same_as :: [Osbourne,Ozzy.protect](/_protect/Society/Communication/Media/Music/Music_Genre/Rock_Music/Heavy_Metal/Osbourne,Ozzy.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Music_Genre/Rock_Music/Heavy_Metal/Osbourne,Ozzy.protect|Osbourne,Ozzy.protect]] 
 
-### #is_/same_as :: [Osbourne,Ozzy.private](/_private/Society/Communication/Media/Music/Music_Genre/Rock_Music/Heavy_Metal/Osbourne,Ozzy.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Music_Genre/Rock_Music/Heavy_Metal/Osbourne,Ozzy.private|Osbourne,Ozzy.private]] 
 
-### #is_/same_as :: [Osbourne,Ozzy.personal](/_personal/Society/Communication/Media/Music/Music_Genre/Rock_Music/Heavy_Metal/Osbourne,Ozzy.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Music_Genre/Rock_Music/Heavy_Metal/Osbourne,Ozzy.personal|Osbourne,Ozzy.personal]] 
 
-### #is_/same_as :: [Osbourne,Ozzy.secret](/_secret/Society/Communication/Media/Music/Music_Genre/Rock_Music/Heavy_Metal/Osbourne,Ozzy.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Music_Genre/Rock_Music/Heavy_Metal/Osbourne,Ozzy.secret|Osbourne,Ozzy.secret]] 
 

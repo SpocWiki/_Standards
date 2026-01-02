@@ -74,17 +74,17 @@ official_name: Capricornus
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Zodiac~Capricornus](/_Standards/Astronomy/Star~Constellation/Zodiac~Capricornus.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Star~Constellation/Zodiac~Capricornus|Zodiac~Capricornus]] 
 
-### #is_/same_as :: [Zodiac~Capricornus.public](/_public/Astronomy/Star~Constellation/Zodiac~Capricornus.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Star~Constellation/Zodiac~Capricornus.public|Zodiac~Capricornus.public]] 
 
-### #is_/same_as :: [Zodiac~Capricornus.internal](/_internal/Astronomy/Star~Constellation/Zodiac~Capricornus.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Star~Constellation/Zodiac~Capricornus.internal|Zodiac~Capricornus.internal]] 
 
-### #is_/same_as :: [Zodiac~Capricornus.protect](/_protect/Astronomy/Star~Constellation/Zodiac~Capricornus.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Star~Constellation/Zodiac~Capricornus.protect|Zodiac~Capricornus.protect]] 
 
-### #is_/same_as :: [Zodiac~Capricornus.private](/_private/Astronomy/Star~Constellation/Zodiac~Capricornus.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Star~Constellation/Zodiac~Capricornus.private|Zodiac~Capricornus.private]] 
 
-### #is_/same_as :: [Zodiac~Capricornus.personal](/_personal/Astronomy/Star~Constellation/Zodiac~Capricornus.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Star~Constellation/Zodiac~Capricornus.personal|Zodiac~Capricornus.personal]] 
 
-### #is_/same_as :: [Zodiac~Capricornus.secret](/_secret/Astronomy/Star~Constellation/Zodiac~Capricornus.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Star~Constellation/Zodiac~Capricornus.secret|Zodiac~Capricornus.secret]] 
 

@@ -45,17 +45,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Landis,John](/_Standards/Society/Communication/Media/Movie/Movie-Director/Landis,John.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Director/Landis,John|Landis,John]] 
 
-### #is_/same_as :: [Landis,John.public](/_public/Society/Communication/Media/Movie/Movie-Director/Landis,John.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Director/Landis,John.public|Landis,John.public]] 
 
-### #is_/same_as :: [Landis,John.internal](/_internal/Society/Communication/Media/Movie/Movie-Director/Landis,John.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Director/Landis,John.internal|Landis,John.internal]] 
 
-### #is_/same_as :: [Landis,John.protect](/_protect/Society/Communication/Media/Movie/Movie-Director/Landis,John.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Director/Landis,John.protect|Landis,John.protect]] 
 
-### #is_/same_as :: [Landis,John.private](/_private/Society/Communication/Media/Movie/Movie-Director/Landis,John.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Director/Landis,John.private|Landis,John.private]] 
 
-### #is_/same_as :: [Landis,John.personal](/_personal/Society/Communication/Media/Movie/Movie-Director/Landis,John.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Director/Landis,John.personal|Landis,John.personal]] 
 
-### #is_/same_as :: [Landis,John.secret](/_secret/Society/Communication/Media/Movie/Movie-Director/Landis,John.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Director/Landis,John.secret|Landis,John.secret]] 
 

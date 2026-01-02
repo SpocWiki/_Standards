@@ -117,17 +117,17 @@ service_entry: 1994-11-14T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Channel_Tunnel](/_Standards/Earth/Continent/Europe/Europe~West/Channel_Tunnel.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~West/Channel_Tunnel|Channel_Tunnel]] 
 
-### #is_/same_as :: [Channel_Tunnel.public](/_public/Earth/Continent/Europe/Europe~West/Channel_Tunnel.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~West/Channel_Tunnel.public|Channel_Tunnel.public]] 
 
-### #is_/same_as :: [Channel_Tunnel.internal](/_internal/Earth/Continent/Europe/Europe~West/Channel_Tunnel.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~West/Channel_Tunnel.internal|Channel_Tunnel.internal]] 
 
-### #is_/same_as :: [Channel_Tunnel.protect](/_protect/Earth/Continent/Europe/Europe~West/Channel_Tunnel.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~West/Channel_Tunnel.protect|Channel_Tunnel.protect]] 
 
-### #is_/same_as :: [Channel_Tunnel.private](/_private/Earth/Continent/Europe/Europe~West/Channel_Tunnel.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~West/Channel_Tunnel.private|Channel_Tunnel.private]] 
 
-### #is_/same_as :: [Channel_Tunnel.personal](/_personal/Earth/Continent/Europe/Europe~West/Channel_Tunnel.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~West/Channel_Tunnel.personal|Channel_Tunnel.personal]] 
 
-### #is_/same_as :: [Channel_Tunnel.secret](/_secret/Earth/Continent/Europe/Europe~West/Channel_Tunnel.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~West/Channel_Tunnel.secret|Channel_Tunnel.secret]] 
 

@@ -111,17 +111,17 @@ OCLC_number: 22583605
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Little_Prince](/_Standards/Society/Communication/Media/Writing/Book/Prose/Novel/Little_Prince.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Prose/Novel/Little_Prince|Little_Prince]] 
 
-### #is_/same_as :: [Little_Prince.public](/_public/Society/Communication/Media/Writing/Book/Prose/Novel/Little_Prince.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Prose/Novel/Little_Prince.public|Little_Prince.public]] 
 
-### #is_/same_as :: [Little_Prince.internal](/_internal/Society/Communication/Media/Writing/Book/Prose/Novel/Little_Prince.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Prose/Novel/Little_Prince.internal|Little_Prince.internal]] 
 
-### #is_/same_as :: [Little_Prince.protect](/_protect/Society/Communication/Media/Writing/Book/Prose/Novel/Little_Prince.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Prose/Novel/Little_Prince.protect|Little_Prince.protect]] 
 
-### #is_/same_as :: [Little_Prince.private](/_private/Society/Communication/Media/Writing/Book/Prose/Novel/Little_Prince.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Prose/Novel/Little_Prince.private|Little_Prince.private]] 
 
-### #is_/same_as :: [Little_Prince.personal](/_personal/Society/Communication/Media/Writing/Book/Prose/Novel/Little_Prince.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Prose/Novel/Little_Prince.personal|Little_Prince.personal]] 
 
-### #is_/same_as :: [Little_Prince.secret](/_secret/Society/Communication/Media/Writing/Book/Prose/Novel/Little_Prince.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Prose/Novel/Little_Prince.secret|Little_Prince.secret]] 
 

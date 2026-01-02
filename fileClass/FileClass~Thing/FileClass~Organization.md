@@ -662,17 +662,17 @@ Events:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~Organization](/_Standards/fileClass/FileClass~Thing/FileClass~Organization.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Organization|FileClass~Organization]] 
 
-### #is_/same_as :: [FileClass~Organization.public](/_public/fileClass/FileClass~Thing/FileClass~Organization.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Organization.public|FileClass~Organization.public]] 
 
-### #is_/same_as :: [FileClass~Organization.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Organization.internal|FileClass~Organization.internal]] 
 
-### #is_/same_as :: [FileClass~Organization.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Organization.protect|FileClass~Organization.protect]] 
 
-### #is_/same_as :: [FileClass~Organization.private](/_private/fileClass/FileClass~Thing/FileClass~Organization.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Organization.private|FileClass~Organization.private]] 
 
-### #is_/same_as :: [FileClass~Organization.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Organization.personal|FileClass~Organization.personal]] 
 
-### #is_/same_as :: [FileClass~Organization.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Organization.secret|FileClass~Organization.secret]] 
 

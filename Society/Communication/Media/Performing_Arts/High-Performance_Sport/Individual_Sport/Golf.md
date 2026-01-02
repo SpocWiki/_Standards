@@ -75,17 +75,17 @@ Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_golf,28453699]]"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Golf](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Golf.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Golf|Golf]] 
 
-### #is_/same_as :: [Golf.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Golf.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Golf.public|Golf.public]] 
 
-### #is_/same_as :: [Golf.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Golf.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Golf.internal|Golf.internal]] 
 
-### #is_/same_as :: [Golf.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Golf.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Golf.protect|Golf.protect]] 
 
-### #is_/same_as :: [Golf.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Golf.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Golf.private|Golf.private]] 
 
-### #is_/same_as :: [Golf.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Golf.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Golf.personal|Golf.personal]] 
 
-### #is_/same_as :: [Golf.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Golf.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Golf.secret|Golf.secret]] 
 

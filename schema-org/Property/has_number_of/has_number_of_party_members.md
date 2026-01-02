@@ -43,17 +43,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_number_of_party_members](/_Standards/schema-org/Property/has_number_of/has_number_of_party_members.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_number_of/has_number_of_party_members|has_number_of_party_members]] 
 
-### #is_/same_as :: [has_number_of_party_members.public](/_public/schema-org/Property/has_number_of/has_number_of_party_members.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/has_number_of/has_number_of_party_members.public|has_number_of_party_members.public]] 
 
-### #is_/same_as :: [has_number_of_party_members.internal](/_internal/schema-org/Property/has_number_of/has_number_of_party_members.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_number_of/has_number_of_party_members.internal|has_number_of_party_members.internal]] 
 
-### #is_/same_as :: [has_number_of_party_members.protect](/_protect/schema-org/Property/has_number_of/has_number_of_party_members.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_number_of/has_number_of_party_members.protect|has_number_of_party_members.protect]] 
 
-### #is_/same_as :: [has_number_of_party_members.private](/_private/schema-org/Property/has_number_of/has_number_of_party_members.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/has_number_of/has_number_of_party_members.private|has_number_of_party_members.private]] 
 
-### #is_/same_as :: [has_number_of_party_members.personal](/_personal/schema-org/Property/has_number_of/has_number_of_party_members.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_number_of/has_number_of_party_members.personal|has_number_of_party_members.personal]] 
 
-### #is_/same_as :: [has_number_of_party_members.secret](/_secret/schema-org/Property/has_number_of/has_number_of_party_members.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/has_number_of/has_number_of_party_members.secret|has_number_of_party_members.secret]] 
 

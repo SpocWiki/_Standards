@@ -763,17 +763,17 @@ Capital :: [[geo/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Re
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Philippines](/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines|Philippines]] 
 
-### #is_/same_as :: [Philippines.public](/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines.public|Philippines.public]] 
 
-### #is_/same_as :: [Philippines.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines.internal|Philippines.internal]] 
 
-### #is_/same_as :: [Philippines.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines.protect|Philippines.protect]] 
 
-### #is_/same_as :: [Philippines.private](/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines.private|Philippines.private]] 
 
-### #is_/same_as :: [Philippines.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines.personal|Philippines.personal]] 
 
-### #is_/same_as :: [Philippines.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines.secret|Philippines.secret]] 
 

@@ -49,17 +49,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Tide](/_Standards/Earth/Ocean/Tide.md) 
+### #is_/same_as :: [[/_Standards/Earth/Ocean/Tide|Tide]] 
 
-### #is_/same_as :: [Tide.public](/_public/Earth/Ocean/Tide.public.md) 
+### #is_/same_as :: [[/_public/Earth/Ocean/Tide.public|Tide.public]] 
 
-### #is_/same_as :: [Tide.internal](/_internal/Earth/Ocean/Tide.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Ocean/Tide.internal|Tide.internal]] 
 
-### #is_/same_as :: [Tide.protect](/_protect/Earth/Ocean/Tide.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Ocean/Tide.protect|Tide.protect]] 
 
-### #is_/same_as :: [Tide.private](/_private/Earth/Ocean/Tide.private.md) 
+### #is_/same_as :: [[/_private/Earth/Ocean/Tide.private|Tide.private]] 
 
-### #is_/same_as :: [Tide.personal](/_personal/Earth/Ocean/Tide.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Ocean/Tide.personal|Tide.personal]] 
 
-### #is_/same_as :: [Tide.secret](/_secret/Earth/Ocean/Tide.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Ocean/Tide.secret|Tide.secret]] 
 

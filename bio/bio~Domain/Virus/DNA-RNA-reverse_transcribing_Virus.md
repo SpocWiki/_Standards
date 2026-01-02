@@ -40,17 +40,17 @@ Containing group: [Virus](../Virus.md)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [DNA-RNA-reverse_transcribing_Virus](/_Standards/bio/bio~Domain/Virus/DNA-RNA-reverse_transcribing_Virus.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Virus/DNA-RNA-reverse_transcribing_Virus|DNA-RNA-reverse_transcribing_Virus]] 
 
-### #is_/same_as :: [DNA-RNA-reverse_transcribing_Virus.public](/_public/bio/bio~Domain/Virus/DNA-RNA-reverse_transcribing_Virus.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Virus/DNA-RNA-reverse_transcribing_Virus.public|DNA-RNA-reverse_transcribing_Virus.public]] 
 
-### #is_/same_as :: [DNA-RNA-reverse_transcribing_Virus.internal](/_internal/bio/bio~Domain/Virus/DNA-RNA-reverse_transcribing_Virus.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Virus/DNA-RNA-reverse_transcribing_Virus.internal|DNA-RNA-reverse_transcribing_Virus.internal]] 
 
-### #is_/same_as :: [DNA-RNA-reverse_transcribing_Virus.protect](/_protect/bio/bio~Domain/Virus/DNA-RNA-reverse_transcribing_Virus.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Virus/DNA-RNA-reverse_transcribing_Virus.protect|DNA-RNA-reverse_transcribing_Virus.protect]] 
 
-### #is_/same_as :: [DNA-RNA-reverse_transcribing_Virus.private](/_private/bio/bio~Domain/Virus/DNA-RNA-reverse_transcribing_Virus.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Virus/DNA-RNA-reverse_transcribing_Virus.private|DNA-RNA-reverse_transcribing_Virus.private]] 
 
-### #is_/same_as :: [DNA-RNA-reverse_transcribing_Virus.personal](/_personal/bio/bio~Domain/Virus/DNA-RNA-reverse_transcribing_Virus.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Virus/DNA-RNA-reverse_transcribing_Virus.personal|DNA-RNA-reverse_transcribing_Virus.personal]] 
 
-### #is_/same_as :: [DNA-RNA-reverse_transcribing_Virus.secret](/_secret/bio/bio~Domain/Virus/DNA-RNA-reverse_transcribing_Virus.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Virus/DNA-RNA-reverse_transcribing_Virus.secret|DNA-RNA-reverse_transcribing_Virus.secret]] 
 

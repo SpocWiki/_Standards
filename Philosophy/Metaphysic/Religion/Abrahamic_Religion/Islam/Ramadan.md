@@ -119,17 +119,17 @@ official_name: arab
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ramadan](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Ramadan.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Ramadan|Ramadan]] 
 
-### #is_/same_as :: [Ramadan.public](/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Ramadan.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Ramadan.public|Ramadan.public]] 
 
-### #is_/same_as :: [Ramadan.internal](/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Ramadan.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Ramadan.internal|Ramadan.internal]] 
 
-### #is_/same_as :: [Ramadan.protect](/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Ramadan.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Ramadan.protect|Ramadan.protect]] 
 
-### #is_/same_as :: [Ramadan.private](/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Ramadan.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Ramadan.private|Ramadan.private]] 
 
-### #is_/same_as :: [Ramadan.personal](/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Ramadan.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Ramadan.personal|Ramadan.personal]] 
 
-### #is_/same_as :: [Ramadan.secret](/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Ramadan.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Ramadan.secret|Ramadan.secret]] 
 

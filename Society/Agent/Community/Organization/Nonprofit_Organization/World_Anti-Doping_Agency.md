@@ -62,17 +62,17 @@ YouTube_handle: wadamovies
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [World_Anti-Doping_Agency](/_Standards/Society/Agent/Community/Organization/Nonprofit_Organization/World_Anti-Doping_Agency.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Nonprofit_Organization/World_Anti-Doping_Agency|World_Anti-Doping_Agency]] 
 
-### #is_/same_as :: [World_Anti-Doping_Agency.public](/_public/Society/Agent/Community/Organization/Nonprofit_Organization/World_Anti-Doping_Agency.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Nonprofit_Organization/World_Anti-Doping_Agency.public|World_Anti-Doping_Agency.public]] 
 
-### #is_/same_as :: [World_Anti-Doping_Agency.internal](/_internal/Society/Agent/Community/Organization/Nonprofit_Organization/World_Anti-Doping_Agency.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Nonprofit_Organization/World_Anti-Doping_Agency.internal|World_Anti-Doping_Agency.internal]] 
 
-### #is_/same_as :: [World_Anti-Doping_Agency.protect](/_protect/Society/Agent/Community/Organization/Nonprofit_Organization/World_Anti-Doping_Agency.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Nonprofit_Organization/World_Anti-Doping_Agency.protect|World_Anti-Doping_Agency.protect]] 
 
-### #is_/same_as :: [World_Anti-Doping_Agency.private](/_private/Society/Agent/Community/Organization/Nonprofit_Organization/World_Anti-Doping_Agency.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Nonprofit_Organization/World_Anti-Doping_Agency.private|World_Anti-Doping_Agency.private]] 
 
-### #is_/same_as :: [World_Anti-Doping_Agency.personal](/_personal/Society/Agent/Community/Organization/Nonprofit_Organization/World_Anti-Doping_Agency.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Nonprofit_Organization/World_Anti-Doping_Agency.personal|World_Anti-Doping_Agency.personal]] 
 
-### #is_/same_as :: [World_Anti-Doping_Agency.secret](/_secret/Society/Agent/Community/Organization/Nonprofit_Organization/World_Anti-Doping_Agency.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Nonprofit_Organization/World_Anti-Doping_Agency.secret|World_Anti-Doping_Agency.secret]] 
 

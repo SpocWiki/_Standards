@@ -163,17 +163,17 @@ NLC_authorities: 000148900
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hesse,Hermann](/_Standards/Society/Communication/Media/Writing/Book/Writer/German_Writer/Hesse,Hermann.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Writer/German_Writer/Hesse,Hermann|Hesse,Hermann]] 
 
-### #is_/same_as :: [Hesse,Hermann.public](/_public/Society/Communication/Media/Writing/Book/Writer/German_Writer/Hesse,Hermann.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Writer/German_Writer/Hesse,Hermann.public|Hesse,Hermann.public]] 
 
-### #is_/same_as :: [Hesse,Hermann.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/German_Writer/Hesse,Hermann.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Writer/German_Writer/Hesse,Hermann.internal|Hesse,Hermann.internal]] 
 
-### #is_/same_as :: [Hesse,Hermann.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/German_Writer/Hesse,Hermann.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Writer/German_Writer/Hesse,Hermann.protect|Hesse,Hermann.protect]] 
 
-### #is_/same_as :: [Hesse,Hermann.private](/_private/Society/Communication/Media/Writing/Book/Writer/German_Writer/Hesse,Hermann.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Writer/German_Writer/Hesse,Hermann.private|Hesse,Hermann.private]] 
 
-### #is_/same_as :: [Hesse,Hermann.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/German_Writer/Hesse,Hermann.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Writer/German_Writer/Hesse,Hermann.personal|Hesse,Hermann.personal]] 
 
-### #is_/same_as :: [Hesse,Hermann.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/German_Writer/Hesse,Hermann.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Writer/German_Writer/Hesse,Hermann.secret|Hesse,Hermann.secret]] 
 

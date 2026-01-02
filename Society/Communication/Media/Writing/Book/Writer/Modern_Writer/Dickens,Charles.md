@@ -222,17 +222,17 @@ writing_language: '[[_Standards/WikiData/WD~British_English,7979]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Dickens,Charles](/_Standards/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Dickens,Charles.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Dickens,Charles|Dickens,Charles]] 
 
-### #is_/same_as :: [Dickens,Charles.public](/_public/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Dickens,Charles.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Dickens,Charles.public|Dickens,Charles.public]] 
 
-### #is_/same_as :: [Dickens,Charles.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Dickens,Charles.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Dickens,Charles.internal|Dickens,Charles.internal]] 
 
-### #is_/same_as :: [Dickens,Charles.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Dickens,Charles.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Dickens,Charles.protect|Dickens,Charles.protect]] 
 
-### #is_/same_as :: [Dickens,Charles.private](/_private/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Dickens,Charles.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Dickens,Charles.private|Dickens,Charles.private]] 
 
-### #is_/same_as :: [Dickens,Charles.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Dickens,Charles.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Dickens,Charles.personal|Dickens,Charles.personal]] 
 
-### #is_/same_as :: [Dickens,Charles.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Dickens,Charles.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Dickens,Charles.secret|Dickens,Charles.secret]] 
 

@@ -19,17 +19,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Euclidean_Plane](/_Standards/Mathematics/Geometry/Euclidean_Geometry/Euclidean_Plane.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Geometry/Euclidean_Geometry/Euclidean_Plane|Euclidean_Plane]] 
 
-### #is_/same_as :: [Euclidean_Plane.public](/_public/Mathematics/Geometry/Euclidean_Geometry/Euclidean_Plane.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Geometry/Euclidean_Geometry/Euclidean_Plane.public|Euclidean_Plane.public]] 
 
-### #is_/same_as :: [Euclidean_Plane.internal](/_internal/Mathematics/Geometry/Euclidean_Geometry/Euclidean_Plane.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Geometry/Euclidean_Geometry/Euclidean_Plane.internal|Euclidean_Plane.internal]] 
 
-### #is_/same_as :: [Euclidean_Plane.protect](/_protect/Mathematics/Geometry/Euclidean_Geometry/Euclidean_Plane.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Geometry/Euclidean_Geometry/Euclidean_Plane.protect|Euclidean_Plane.protect]] 
 
-### #is_/same_as :: [Euclidean_Plane.private](/_private/Mathematics/Geometry/Euclidean_Geometry/Euclidean_Plane.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Geometry/Euclidean_Geometry/Euclidean_Plane.private|Euclidean_Plane.private]] 
 
-### #is_/same_as :: [Euclidean_Plane.personal](/_personal/Mathematics/Geometry/Euclidean_Geometry/Euclidean_Plane.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Geometry/Euclidean_Geometry/Euclidean_Plane.personal|Euclidean_Plane.personal]] 
 
-### #is_/same_as :: [Euclidean_Plane.secret](/_secret/Mathematics/Geometry/Euclidean_Geometry/Euclidean_Plane.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Geometry/Euclidean_Geometry/Euclidean_Plane.secret|Euclidean_Plane.secret]] 
 

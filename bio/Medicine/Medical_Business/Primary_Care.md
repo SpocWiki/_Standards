@@ -42,17 +42,17 @@ The medical care by a physician, or other health-care professional, who is the p
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Primary_Care](/_Standards/bio/Medicine/Medical_Business/Primary_Care.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Business/Primary_Care|Primary_Care]] 
 
-### #is_/same_as :: [Primary_Care.public](/_public/bio/Medicine/Medical_Business/Primary_Care.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Business/Primary_Care.public|Primary_Care.public]] 
 
-### #is_/same_as :: [Primary_Care.internal](/_internal/bio/Medicine/Medical_Business/Primary_Care.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Business/Primary_Care.internal|Primary_Care.internal]] 
 
-### #is_/same_as :: [Primary_Care.protect](/_protect/bio/Medicine/Medical_Business/Primary_Care.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Business/Primary_Care.protect|Primary_Care.protect]] 
 
-### #is_/same_as :: [Primary_Care.private](/_private/bio/Medicine/Medical_Business/Primary_Care.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Business/Primary_Care.private|Primary_Care.private]] 
 
-### #is_/same_as :: [Primary_Care.personal](/_personal/bio/Medicine/Medical_Business/Primary_Care.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Business/Primary_Care.personal|Primary_Care.personal]] 
 
-### #is_/same_as :: [Primary_Care.secret](/_secret/bio/Medicine/Medical_Business/Primary_Care.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Business/Primary_Care.secret|Primary_Care.secret]] 
 

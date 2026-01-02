@@ -51,17 +51,17 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Tablas%20alfonsies.jpg
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ephemeris](/_Standards/Astronomy/Ephemeris.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Ephemeris|Ephemeris]] 
 
-### #is_/same_as :: [Ephemeris.public](/_public/Astronomy/Ephemeris.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Ephemeris.public|Ephemeris.public]] 
 
-### #is_/same_as :: [Ephemeris.internal](/_internal/Astronomy/Ephemeris.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Ephemeris.internal|Ephemeris.internal]] 
 
-### #is_/same_as :: [Ephemeris.protect](/_protect/Astronomy/Ephemeris.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Ephemeris.protect|Ephemeris.protect]] 
 
-### #is_/same_as :: [Ephemeris.private](/_private/Astronomy/Ephemeris.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Ephemeris.private|Ephemeris.private]] 
 
-### #is_/same_as :: [Ephemeris.personal](/_personal/Astronomy/Ephemeris.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Ephemeris.personal|Ephemeris.personal]] 
 
-### #is_/same_as :: [Ephemeris.secret](/_secret/Astronomy/Ephemeris.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Ephemeris.secret|Ephemeris.secret]] 
 

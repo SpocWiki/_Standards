@@ -41,17 +41,17 @@ An car dealership.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Auto_Dealer](/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Automotive_Business/Auto_Dealer.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Automotive_Business/Auto_Dealer|Auto_Dealer]] 
 
-### #is_/same_as :: [Auto_Dealer.public](/_public/Society/Agent/Community/Organization/Business/Local_Business/Automotive_Business/Auto_Dealer.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Business/Local_Business/Automotive_Business/Auto_Dealer.public|Auto_Dealer.public]] 
 
-### #is_/same_as :: [Auto_Dealer.internal](/_internal/Society/Agent/Community/Organization/Business/Local_Business/Automotive_Business/Auto_Dealer.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Business/Local_Business/Automotive_Business/Auto_Dealer.internal|Auto_Dealer.internal]] 
 
-### #is_/same_as :: [Auto_Dealer.protect](/_protect/Society/Agent/Community/Organization/Business/Local_Business/Automotive_Business/Auto_Dealer.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Business/Local_Business/Automotive_Business/Auto_Dealer.protect|Auto_Dealer.protect]] 
 
-### #is_/same_as :: [Auto_Dealer.private](/_private/Society/Agent/Community/Organization/Business/Local_Business/Automotive_Business/Auto_Dealer.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Business/Local_Business/Automotive_Business/Auto_Dealer.private|Auto_Dealer.private]] 
 
-### #is_/same_as :: [Auto_Dealer.personal](/_personal/Society/Agent/Community/Organization/Business/Local_Business/Automotive_Business/Auto_Dealer.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Business/Local_Business/Automotive_Business/Auto_Dealer.personal|Auto_Dealer.personal]] 
 
-### #is_/same_as :: [Auto_Dealer.secret](/_secret/Society/Agent/Community/Organization/Business/Local_Business/Automotive_Business/Auto_Dealer.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Business/Local_Business/Automotive_Business/Auto_Dealer.secret|Auto_Dealer.secret]] 
 

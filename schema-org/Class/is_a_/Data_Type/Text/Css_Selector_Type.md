@@ -44,17 +44,17 @@ Text representing a CSS selector.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Css_Selector_Type](/_Standards/schema-org/Class/is_a_/Data_Type/Text/Css_Selector_Type.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Data_Type/Text/Css_Selector_Type|Css_Selector_Type]] 
 
-### #is_/same_as :: [Css_Selector_Type.public](/_public/schema-org/Class/is_a_/Data_Type/Text/Css_Selector_Type.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Data_Type/Text/Css_Selector_Type.public|Css_Selector_Type.public]] 
 
-### #is_/same_as :: [Css_Selector_Type.internal](/_internal/schema-org/Class/is_a_/Data_Type/Text/Css_Selector_Type.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Data_Type/Text/Css_Selector_Type.internal|Css_Selector_Type.internal]] 
 
-### #is_/same_as :: [Css_Selector_Type.protect](/_protect/schema-org/Class/is_a_/Data_Type/Text/Css_Selector_Type.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Data_Type/Text/Css_Selector_Type.protect|Css_Selector_Type.protect]] 
 
-### #is_/same_as :: [Css_Selector_Type.private](/_private/schema-org/Class/is_a_/Data_Type/Text/Css_Selector_Type.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Data_Type/Text/Css_Selector_Type.private|Css_Selector_Type.private]] 
 
-### #is_/same_as :: [Css_Selector_Type.personal](/_personal/schema-org/Class/is_a_/Data_Type/Text/Css_Selector_Type.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Data_Type/Text/Css_Selector_Type.personal|Css_Selector_Type.personal]] 
 
-### #is_/same_as :: [Css_Selector_Type.secret](/_secret/schema-org/Class/is_a_/Data_Type/Text/Css_Selector_Type.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Data_Type/Text/Css_Selector_Type.secret|Css_Selector_Type.secret]] 
 

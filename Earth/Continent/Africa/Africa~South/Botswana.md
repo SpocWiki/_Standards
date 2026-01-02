@@ -454,17 +454,17 @@ Capital :: [[Gaborone]]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Botswana](/_Standards/Earth/Continent/Africa/Africa~South/Botswana.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~South/Botswana|Botswana]] 
 
-### #is_/same_as :: [Botswana.public](/_public/Earth/Continent/Africa/Africa~South/Botswana.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~South/Botswana.public|Botswana.public]] 
 
-### #is_/same_as :: [Botswana.internal](/_internal/Earth/Continent/Africa/Africa~South/Botswana.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~South/Botswana.internal|Botswana.internal]] 
 
-### #is_/same_as :: [Botswana.protect](/_protect/Earth/Continent/Africa/Africa~South/Botswana.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~South/Botswana.protect|Botswana.protect]] 
 
-### #is_/same_as :: [Botswana.private](/_private/Earth/Continent/Africa/Africa~South/Botswana.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~South/Botswana.private|Botswana.private]] 
 
-### #is_/same_as :: [Botswana.personal](/_personal/Earth/Continent/Africa/Africa~South/Botswana.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~South/Botswana.personal|Botswana.personal]] 
 
-### #is_/same_as :: [Botswana.secret](/_secret/Earth/Continent/Africa/Africa~South/Botswana.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~South/Botswana.secret|Botswana.secret]] 
 

@@ -713,17 +713,17 @@ Capital :: [[Iran/Counties/Tehran/City/Teheran=Tehran]]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Iran](/_Standards/Earth/Continent/Asia/Asia~West/Iran.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~West/Iran|Iran]] 
 
-### #is_/same_as :: [Iran.public](/_public/Earth/Continent/Asia/Asia~West/Iran.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~West/Iran.public|Iran.public]] 
 
-### #is_/same_as :: [Iran.internal](/_internal/Earth/Continent/Asia/Asia~West/Iran.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~West/Iran.internal|Iran.internal]] 
 
-### #is_/same_as :: [Iran.protect](/_protect/Earth/Continent/Asia/Asia~West/Iran.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~West/Iran.protect|Iran.protect]] 
 
-### #is_/same_as :: [Iran.private](/_private/Earth/Continent/Asia/Asia~West/Iran.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~West/Iran.private|Iran.private]] 
 
-### #is_/same_as :: [Iran.personal](/_personal/Earth/Continent/Asia/Asia~West/Iran.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~West/Iran.personal|Iran.personal]] 
 
-### #is_/same_as :: [Iran.secret](/_secret/Earth/Continent/Asia/Asia~West/Iran.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~West/Iran.secret|Iran.secret]] 
 

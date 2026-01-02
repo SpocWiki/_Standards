@@ -63,17 +63,17 @@ Commons_category: Newborn animals
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Neonate](/_Standards/Society/Agent/Community/Clan/Family/Child/Neonate.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Clan/Family/Child/Neonate|Neonate]] 
 
-### #is_/same_as :: [Neonate.public](/_public/Society/Agent/Community/Clan/Family/Child/Neonate.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Clan/Family/Child/Neonate.public|Neonate.public]] 
 
-### #is_/same_as :: [Neonate.internal](/_internal/Society/Agent/Community/Clan/Family/Child/Neonate.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Clan/Family/Child/Neonate.internal|Neonate.internal]] 
 
-### #is_/same_as :: [Neonate.protect](/_protect/Society/Agent/Community/Clan/Family/Child/Neonate.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Clan/Family/Child/Neonate.protect|Neonate.protect]] 
 
-### #is_/same_as :: [Neonate.private](/_private/Society/Agent/Community/Clan/Family/Child/Neonate.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Clan/Family/Child/Neonate.private|Neonate.private]] 
 
-### #is_/same_as :: [Neonate.personal](/_personal/Society/Agent/Community/Clan/Family/Child/Neonate.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Clan/Family/Child/Neonate.personal|Neonate.personal]] 
 
-### #is_/same_as :: [Neonate.secret](/_secret/Society/Agent/Community/Clan/Family/Child/Neonate.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Clan/Family/Child/Neonate.secret|Neonate.secret]] 
 

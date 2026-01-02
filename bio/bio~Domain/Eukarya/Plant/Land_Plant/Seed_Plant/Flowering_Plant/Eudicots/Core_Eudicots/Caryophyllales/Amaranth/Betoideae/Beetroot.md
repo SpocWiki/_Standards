@@ -73,17 +73,17 @@ taxon_common_name:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Beetroot](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Caryophyllales/Amaranth/Betoideae/Beetroot.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Caryophyllales/Amaranth/Betoideae/Beetroot|Beetroot]] 
 
-### #is_/same_as :: [Beetroot.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Caryophyllales/Amaranth/Betoideae/Beetroot.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Caryophyllales/Amaranth/Betoideae/Beetroot.public|Beetroot.public]] 
 
-### #is_/same_as :: [Beetroot.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Caryophyllales/Amaranth/Betoideae/Beetroot.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Caryophyllales/Amaranth/Betoideae/Beetroot.internal|Beetroot.internal]] 
 
-### #is_/same_as :: [Beetroot.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Caryophyllales/Amaranth/Betoideae/Beetroot.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Caryophyllales/Amaranth/Betoideae/Beetroot.protect|Beetroot.protect]] 
 
-### #is_/same_as :: [Beetroot.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Caryophyllales/Amaranth/Betoideae/Beetroot.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Caryophyllales/Amaranth/Betoideae/Beetroot.private|Beetroot.private]] 
 
-### #is_/same_as :: [Beetroot.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Caryophyllales/Amaranth/Betoideae/Beetroot.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Caryophyllales/Amaranth/Betoideae/Beetroot.personal|Beetroot.personal]] 
 
-### #is_/same_as :: [Beetroot.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Caryophyllales/Amaranth/Betoideae/Beetroot.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Caryophyllales/Amaranth/Betoideae/Beetroot.secret|Beetroot.secret]] 
 

@@ -44,17 +44,17 @@ Commons_category: White Tiger (Chinese mythology)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [White_Tiger(Mythology)](/_Standards/Philosophy/Metaphysic/Religion/Mythology/Chinese_Mythology/White_Tiger(Mythology).md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Mythology/Chinese_Mythology/White_Tiger(Mythology)|White_Tiger(Mythology)]] 
 
-### #is_/same_as :: [White_Tiger(Mythology).public](/_public/Philosophy/Metaphysic/Religion/Mythology/Chinese_Mythology/White_Tiger(Mythology).public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Mythology/Chinese_Mythology/White_Tiger(Mythology).public|White_Tiger(Mythology).public]] 
 
-### #is_/same_as :: [White_Tiger(Mythology).internal](/_internal/Philosophy/Metaphysic/Religion/Mythology/Chinese_Mythology/White_Tiger(Mythology).internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Mythology/Chinese_Mythology/White_Tiger(Mythology).internal|White_Tiger(Mythology).internal]] 
 
-### #is_/same_as :: [White_Tiger(Mythology).protect](/_protect/Philosophy/Metaphysic/Religion/Mythology/Chinese_Mythology/White_Tiger(Mythology).protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Mythology/Chinese_Mythology/White_Tiger(Mythology).protect|White_Tiger(Mythology).protect]] 
 
-### #is_/same_as :: [White_Tiger(Mythology).private](/_private/Philosophy/Metaphysic/Religion/Mythology/Chinese_Mythology/White_Tiger(Mythology).private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Mythology/Chinese_Mythology/White_Tiger(Mythology).private|White_Tiger(Mythology).private]] 
 
-### #is_/same_as :: [White_Tiger(Mythology).personal](/_personal/Philosophy/Metaphysic/Religion/Mythology/Chinese_Mythology/White_Tiger(Mythology).personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Mythology/Chinese_Mythology/White_Tiger(Mythology).personal|White_Tiger(Mythology).personal]] 
 
-### #is_/same_as :: [White_Tiger(Mythology).secret](/_secret/Philosophy/Metaphysic/Religion/Mythology/Chinese_Mythology/White_Tiger(Mythology).secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Mythology/Chinese_Mythology/White_Tiger(Mythology).secret|White_Tiger(Mythology).secret]] 
 

@@ -460,17 +460,17 @@ watershed_area: 801463
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Danube](/_Standards/Earth/Continent/Europe/Danube.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Danube|Danube]] 
 
-### #is_/same_as :: [Danube.public](/_public/Earth/Continent/Europe/Danube.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Danube.public|Danube.public]] 
 
-### #is_/same_as :: [Danube.internal](/_internal/Earth/Continent/Europe/Danube.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Danube.internal|Danube.internal]] 
 
-### #is_/same_as :: [Danube.protect](/_protect/Earth/Continent/Europe/Danube.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Danube.protect|Danube.protect]] 
 
-### #is_/same_as :: [Danube.private](/_private/Earth/Continent/Europe/Danube.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Danube.private|Danube.private]] 
 
-### #is_/same_as :: [Danube.personal](/_personal/Earth/Continent/Europe/Danube.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Danube.personal|Danube.personal]] 
 
-### #is_/same_as :: [Danube.secret](/_secret/Earth/Continent/Europe/Danube.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Danube.secret|Danube.secret]] 
 

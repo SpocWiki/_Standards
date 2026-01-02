@@ -133,17 +133,17 @@ official_website:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Notre-Dame_de_Paris](/_Standards/Earth/Geography/Place/Notre-Dame_de_Paris.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geography/Place/Notre-Dame_de_Paris|Notre-Dame_de_Paris]] 
 
-### #is_/same_as :: [Notre-Dame_de_Paris.public](/_public/Earth/Geography/Place/Notre-Dame_de_Paris.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geography/Place/Notre-Dame_de_Paris.public|Notre-Dame_de_Paris.public]] 
 
-### #is_/same_as :: [Notre-Dame_de_Paris.internal](/_internal/Earth/Geography/Place/Notre-Dame_de_Paris.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geography/Place/Notre-Dame_de_Paris.internal|Notre-Dame_de_Paris.internal]] 
 
-### #is_/same_as :: [Notre-Dame_de_Paris.protect](/_protect/Earth/Geography/Place/Notre-Dame_de_Paris.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geography/Place/Notre-Dame_de_Paris.protect|Notre-Dame_de_Paris.protect]] 
 
-### #is_/same_as :: [Notre-Dame_de_Paris.private](/_private/Earth/Geography/Place/Notre-Dame_de_Paris.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geography/Place/Notre-Dame_de_Paris.private|Notre-Dame_de_Paris.private]] 
 
-### #is_/same_as :: [Notre-Dame_de_Paris.personal](/_personal/Earth/Geography/Place/Notre-Dame_de_Paris.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geography/Place/Notre-Dame_de_Paris.personal|Notre-Dame_de_Paris.personal]] 
 
-### #is_/same_as :: [Notre-Dame_de_Paris.secret](/_secret/Earth/Geography/Place/Notre-Dame_de_Paris.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geography/Place/Notre-Dame_de_Paris.secret|Notre-Dame_de_Paris.secret]] 
 

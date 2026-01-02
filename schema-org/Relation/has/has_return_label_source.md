@@ -45,17 +45,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_return_label_source](/_Standards/schema-org/Relation/has/has_return_label_source.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_return_label_source|has_return_label_source]] 
 
-### #is_/same_as :: [has_return_label_source.public](/_public/schema-org/Relation/has/has_return_label_source.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_return_label_source.public|has_return_label_source.public]] 
 
-### #is_/same_as :: [has_return_label_source.internal](/_internal/schema-org/Relation/has/has_return_label_source.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_return_label_source.internal|has_return_label_source.internal]] 
 
-### #is_/same_as :: [has_return_label_source.protect](/_protect/schema-org/Relation/has/has_return_label_source.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_return_label_source.protect|has_return_label_source.protect]] 
 
-### #is_/same_as :: [has_return_label_source.private](/_private/schema-org/Relation/has/has_return_label_source.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_return_label_source.private|has_return_label_source.private]] 
 
-### #is_/same_as :: [has_return_label_source.personal](/_personal/schema-org/Relation/has/has_return_label_source.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_return_label_source.personal|has_return_label_source.personal]] 
 
-### #is_/same_as :: [has_return_label_source.secret](/_secret/schema-org/Relation/has/has_return_label_source.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_return_label_source.secret|has_return_label_source.secret]] 
 

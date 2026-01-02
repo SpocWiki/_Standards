@@ -34,17 +34,17 @@ GeoNames_feature_code: U.TRNU
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Oceanic_Trench](/_Standards/Earth/Ocean/Oceanic_Trench.md) 
+### #is_/same_as :: [[/_Standards/Earth/Ocean/Oceanic_Trench|Oceanic_Trench]] 
 
-### #is_/same_as :: [Oceanic_Trench.public](/_public/Earth/Ocean/Oceanic_Trench.public.md) 
+### #is_/same_as :: [[/_public/Earth/Ocean/Oceanic_Trench.public|Oceanic_Trench.public]] 
 
-### #is_/same_as :: [Oceanic_Trench.internal](/_internal/Earth/Ocean/Oceanic_Trench.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Ocean/Oceanic_Trench.internal|Oceanic_Trench.internal]] 
 
-### #is_/same_as :: [Oceanic_Trench.protect](/_protect/Earth/Ocean/Oceanic_Trench.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Ocean/Oceanic_Trench.protect|Oceanic_Trench.protect]] 
 
-### #is_/same_as :: [Oceanic_Trench.private](/_private/Earth/Ocean/Oceanic_Trench.private.md) 
+### #is_/same_as :: [[/_private/Earth/Ocean/Oceanic_Trench.private|Oceanic_Trench.private]] 
 
-### #is_/same_as :: [Oceanic_Trench.personal](/_personal/Earth/Ocean/Oceanic_Trench.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Ocean/Oceanic_Trench.personal|Oceanic_Trench.personal]] 
 
-### #is_/same_as :: [Oceanic_Trench.secret](/_secret/Earth/Ocean/Oceanic_Trench.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Ocean/Oceanic_Trench.secret|Oceanic_Trench.secret]] 
 

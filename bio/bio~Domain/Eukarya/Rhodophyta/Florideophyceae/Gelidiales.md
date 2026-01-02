@@ -22,7 +22,7 @@ title: Gelidiales
 
 [D. Wilson Freshwater]()
 
-![Gelidiella acerosa](Gelidiales/gacer.jpg)![](Gelidiales/grancanar.jpg))
+![Gelidiella acerosa](Gelidiales/gacer.jpg)![](Gelidiales/grancanar.jpg) 
 
 Tree based on Freshwater et al. 1995, Freshwater and Bailey 1998,
 Shimada et al. 1999, Rico et al. 2002, and Freshwater unpublished. Clade
@@ -164,7 +164,7 @@ press).
 
 ## Title Illustrations
 
-![Gelidiella acerosa](Gelidiales/gacer.jpg))
+![Gelidiella acerosa](Gelidiales/gacer.jpg) 
 
   ---------------------------------------------------------------------------
   Scientific Name ::  Gelidiella acerosa
@@ -173,7 +173,7 @@ press).
   Copyright ::         © 2002 [D. Wilson Freshwater](mailto:freshwaterw@uncw.edu) 
  
   ---------------------------------------------------------------------------
-![Gelidium arbuscula](Gelidiales/grancanar.jpg))
+![Gelidium arbuscula](Gelidiales/grancanar.jpg) 
 
   ---------------------------------------------------------------------------
   Scientific Name ::   Gelidium arbuscula
@@ -186,17 +186,17 @@ press).
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Gelidiales](/_Standards/bio/bio~Domain/Eukarya/Rhodophyta/Florideophyceae/Gelidiales.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Rhodophyta/Florideophyceae/Gelidiales|Gelidiales]] 
 
-### #is_/same_as :: [Gelidiales.public](/_public/bio/bio~Domain/Eukarya/Rhodophyta/Florideophyceae/Gelidiales.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Rhodophyta/Florideophyceae/Gelidiales.public|Gelidiales.public]] 
 
-### #is_/same_as :: [Gelidiales.internal](/_internal/bio/bio~Domain/Eukarya/Rhodophyta/Florideophyceae/Gelidiales.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Rhodophyta/Florideophyceae/Gelidiales.internal|Gelidiales.internal]] 
 
-### #is_/same_as :: [Gelidiales.protect](/_protect/bio/bio~Domain/Eukarya/Rhodophyta/Florideophyceae/Gelidiales.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Rhodophyta/Florideophyceae/Gelidiales.protect|Gelidiales.protect]] 
 
-### #is_/same_as :: [Gelidiales.private](/_private/bio/bio~Domain/Eukarya/Rhodophyta/Florideophyceae/Gelidiales.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Rhodophyta/Florideophyceae/Gelidiales.private|Gelidiales.private]] 
 
-### #is_/same_as :: [Gelidiales.personal](/_personal/bio/bio~Domain/Eukarya/Rhodophyta/Florideophyceae/Gelidiales.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Rhodophyta/Florideophyceae/Gelidiales.personal|Gelidiales.personal]] 
 
-### #is_/same_as :: [Gelidiales.secret](/_secret/bio/bio~Domain/Eukarya/Rhodophyta/Florideophyceae/Gelidiales.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Rhodophyta/Florideophyceae/Gelidiales.secret|Gelidiales.secret]] 
 

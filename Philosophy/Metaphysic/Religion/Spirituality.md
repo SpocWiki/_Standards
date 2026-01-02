@@ -66,17 +66,17 @@ Commons_category: Spirituality
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Spirituality](/_Standards/Philosophy/Metaphysic/Religion/Spirituality.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Spirituality|Spirituality]] 
 
-### #is_/same_as :: [Spirituality.public](/_public/Philosophy/Metaphysic/Religion/Spirituality.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Spirituality.public|Spirituality.public]] 
 
-### #is_/same_as :: [Spirituality.internal](/_internal/Philosophy/Metaphysic/Religion/Spirituality.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Spirituality.internal|Spirituality.internal]] 
 
-### #is_/same_as :: [Spirituality.protect](/_protect/Philosophy/Metaphysic/Religion/Spirituality.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Spirituality.protect|Spirituality.protect]] 
 
-### #is_/same_as :: [Spirituality.private](/_private/Philosophy/Metaphysic/Religion/Spirituality.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Spirituality.private|Spirituality.private]] 
 
-### #is_/same_as :: [Spirituality.personal](/_personal/Philosophy/Metaphysic/Religion/Spirituality.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Spirituality.personal|Spirituality.personal]] 
 
-### #is_/same_as :: [Spirituality.secret](/_secret/Philosophy/Metaphysic/Religion/Spirituality.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Spirituality.secret|Spirituality.secret]] 
 

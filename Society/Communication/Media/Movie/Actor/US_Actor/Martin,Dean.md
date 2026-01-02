@@ -120,17 +120,17 @@ Europeana_entity: agent/base/59793
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Martin,Dean](/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Martin,Dean.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Martin,Dean|Martin,Dean]] 
 
-### #is_/same_as :: [Martin,Dean.public](/_public/Society/Communication/Media/Movie/Actor/US_Actor/Martin,Dean.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Actor/US_Actor/Martin,Dean.public|Martin,Dean.public]] 
 
-### #is_/same_as :: [Martin,Dean.internal](/_internal/Society/Communication/Media/Movie/Actor/US_Actor/Martin,Dean.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Actor/US_Actor/Martin,Dean.internal|Martin,Dean.internal]] 
 
-### #is_/same_as :: [Martin,Dean.protect](/_protect/Society/Communication/Media/Movie/Actor/US_Actor/Martin,Dean.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Actor/US_Actor/Martin,Dean.protect|Martin,Dean.protect]] 
 
-### #is_/same_as :: [Martin,Dean.private](/_private/Society/Communication/Media/Movie/Actor/US_Actor/Martin,Dean.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Actor/US_Actor/Martin,Dean.private|Martin,Dean.private]] 
 
-### #is_/same_as :: [Martin,Dean.personal](/_personal/Society/Communication/Media/Movie/Actor/US_Actor/Martin,Dean.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Actor/US_Actor/Martin,Dean.personal|Martin,Dean.personal]] 
 
-### #is_/same_as :: [Martin,Dean.secret](/_secret/Society/Communication/Media/Movie/Actor/US_Actor/Martin,Dean.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Actor/US_Actor/Martin,Dean.secret|Martin,Dean.secret]] 
 

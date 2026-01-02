@@ -58,17 +58,17 @@ image:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Oral_Sex](/_Standards/bio/Reproduction/Sexual_Reproduction/Sex/Oral_Sex.md) 
+### #is_/same_as :: [[/_Standards/bio/Reproduction/Sexual_Reproduction/Sex/Oral_Sex|Oral_Sex]] 
 
-### #is_/same_as :: [Oral_Sex.public](/_public/bio/Reproduction/Sexual_Reproduction/Sex/Oral_Sex.public.md) 
+### #is_/same_as :: [[/_public/bio/Reproduction/Sexual_Reproduction/Sex/Oral_Sex.public|Oral_Sex.public]] 
 
-### #is_/same_as :: [Oral_Sex.internal](/_internal/bio/Reproduction/Sexual_Reproduction/Sex/Oral_Sex.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Reproduction/Sexual_Reproduction/Sex/Oral_Sex.internal|Oral_Sex.internal]] 
 
-### #is_/same_as :: [Oral_Sex.protect](/_protect/bio/Reproduction/Sexual_Reproduction/Sex/Oral_Sex.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Reproduction/Sexual_Reproduction/Sex/Oral_Sex.protect|Oral_Sex.protect]] 
 
-### #is_/same_as :: [Oral_Sex.private](/_private/bio/Reproduction/Sexual_Reproduction/Sex/Oral_Sex.private.md) 
+### #is_/same_as :: [[/_private/bio/Reproduction/Sexual_Reproduction/Sex/Oral_Sex.private|Oral_Sex.private]] 
 
-### #is_/same_as :: [Oral_Sex.personal](/_personal/bio/Reproduction/Sexual_Reproduction/Sex/Oral_Sex.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Reproduction/Sexual_Reproduction/Sex/Oral_Sex.personal|Oral_Sex.personal]] 
 
-### #is_/same_as :: [Oral_Sex.secret](/_secret/bio/Reproduction/Sexual_Reproduction/Sex/Oral_Sex.secret.md)
+### #is_/same_as :: [[/_secret/bio/Reproduction/Sexual_Reproduction/Sex/Oral_Sex.secret|Oral_Sex.secret]] 
 

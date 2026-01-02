@@ -28,17 +28,17 @@ SpocWebEntityId: {{Id}}
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [_LangTemplate](/_Standards/Language/_LangTemplate.md) 
+### #is_/same_as :: [[/_Standards/Language/_LangTemplate|_LangTemplate]] 
 
-### #is_/same_as :: [_LangTemplate.public](/_public/Language/_LangTemplate.public.md) 
+### #is_/same_as :: [[/_public/Language/_LangTemplate.public|_LangTemplate.public]] 
 
-### #is_/same_as :: [_LangTemplate.internal](/_internal/Language/_LangTemplate.internal.md) 
+### #is_/same_as :: [[/_internal/Language/_LangTemplate.internal|_LangTemplate.internal]] 
 
-### #is_/same_as :: [_LangTemplate.protect](/_protect/Language/_LangTemplate.protect.md) 
+### #is_/same_as :: [[/_protect/Language/_LangTemplate.protect|_LangTemplate.protect]] 
 
-### #is_/same_as :: [_LangTemplate.private](/_private/Language/_LangTemplate.private.md) 
+### #is_/same_as :: [[/_private/Language/_LangTemplate.private|_LangTemplate.private]] 
 
-### #is_/same_as :: [_LangTemplate.personal](/_personal/Language/_LangTemplate.personal.md) 
+### #is_/same_as :: [[/_personal/Language/_LangTemplate.personal|_LangTemplate.personal]] 
 
-### #is_/same_as :: [_LangTemplate.secret](/_secret/Language/_LangTemplate.secret.md)
+### #is_/same_as :: [[/_secret/Language/_LangTemplate.secret|_LangTemplate.secret]] 
 

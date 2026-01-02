@@ -51,17 +51,17 @@ Commons_category: Naval architecture
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Naval_Architecture](/_Standards/Technology/Engineering/Naval_Architecture.md) 
+### #is_/same_as :: [[/_Standards/Technology/Engineering/Naval_Architecture|Naval_Architecture]] 
 
-### #is_/same_as :: [Naval_Architecture.public](/_public/Technology/Engineering/Naval_Architecture.public.md) 
+### #is_/same_as :: [[/_public/Technology/Engineering/Naval_Architecture.public|Naval_Architecture.public]] 
 
-### #is_/same_as :: [Naval_Architecture.internal](/_internal/Technology/Engineering/Naval_Architecture.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Engineering/Naval_Architecture.internal|Naval_Architecture.internal]] 
 
-### #is_/same_as :: [Naval_Architecture.protect](/_protect/Technology/Engineering/Naval_Architecture.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Engineering/Naval_Architecture.protect|Naval_Architecture.protect]] 
 
-### #is_/same_as :: [Naval_Architecture.private](/_private/Technology/Engineering/Naval_Architecture.private.md) 
+### #is_/same_as :: [[/_private/Technology/Engineering/Naval_Architecture.private|Naval_Architecture.private]] 
 
-### #is_/same_as :: [Naval_Architecture.personal](/_personal/Technology/Engineering/Naval_Architecture.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Engineering/Naval_Architecture.personal|Naval_Architecture.personal]] 
 
-### #is_/same_as :: [Naval_Architecture.secret](/_secret/Technology/Engineering/Naval_Architecture.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Engineering/Naval_Architecture.secret|Naval_Architecture.secret]] 
 

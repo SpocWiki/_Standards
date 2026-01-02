@@ -142,17 +142,17 @@ ZVG_number: 7450
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Rhodium](/_Standards/Chemistry/Chemical_Element/Group-09-Cobalt/Rhodium.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Chemical_Element/Group-09-Cobalt/Rhodium|Rhodium]] 
 
-### #is_/same_as :: [Rhodium.public](/_public/Chemistry/Chemical_Element/Group-09-Cobalt/Rhodium.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Chemical_Element/Group-09-Cobalt/Rhodium.public|Rhodium.public]] 
 
-### #is_/same_as :: [Rhodium.internal](/_internal/Chemistry/Chemical_Element/Group-09-Cobalt/Rhodium.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Chemical_Element/Group-09-Cobalt/Rhodium.internal|Rhodium.internal]] 
 
-### #is_/same_as :: [Rhodium.protect](/_protect/Chemistry/Chemical_Element/Group-09-Cobalt/Rhodium.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Chemical_Element/Group-09-Cobalt/Rhodium.protect|Rhodium.protect]] 
 
-### #is_/same_as :: [Rhodium.private](/_private/Chemistry/Chemical_Element/Group-09-Cobalt/Rhodium.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Chemical_Element/Group-09-Cobalt/Rhodium.private|Rhodium.private]] 
 
-### #is_/same_as :: [Rhodium.personal](/_personal/Chemistry/Chemical_Element/Group-09-Cobalt/Rhodium.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Chemical_Element/Group-09-Cobalt/Rhodium.personal|Rhodium.personal]] 
 
-### #is_/same_as :: [Rhodium.secret](/_secret/Chemistry/Chemical_Element/Group-09-Cobalt/Rhodium.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Chemical_Element/Group-09-Cobalt/Rhodium.secret|Rhodium.secret]] 
 

@@ -131,17 +131,17 @@ Continent :: [[South-America]]
 
 ## Confidential Links & Embeds: 
 
-### [USA~Virgin-Islands](/_Standards/Earth/Continent/America~North/USA/USA~Islands/USA~Virgin-Islands.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~North/USA/USA~Islands/USA~Virgin-Islands|USA~Virgin-Islands]] 
 
-### [USA~Virgin-Islands.public](/_public/Earth/Continent/America~North/USA/USA~Islands/USA~Virgin-Islands.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~North/USA/USA~Islands/USA~Virgin-Islands.public|USA~Virgin-Islands.public]] 
 
-### [USA~Virgin-Islands.internal](/_internal/Earth/Continent/America~North/USA/USA~Islands/USA~Virgin-Islands.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~North/USA/USA~Islands/USA~Virgin-Islands.internal|USA~Virgin-Islands.internal]] 
 
-### [USA~Virgin-Islands.protect](/_protect/Earth/Continent/America~North/USA/USA~Islands/USA~Virgin-Islands.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~North/USA/USA~Islands/USA~Virgin-Islands.protect|USA~Virgin-Islands.protect]] 
 
-### [USA~Virgin-Islands.private](/_private/Earth/Continent/America~North/USA/USA~Islands/USA~Virgin-Islands.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~North/USA/USA~Islands/USA~Virgin-Islands.private|USA~Virgin-Islands.private]] 
 
-### [USA~Virgin-Islands.personal](/_personal/Earth/Continent/America~North/USA/USA~Islands/USA~Virgin-Islands.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~North/USA/USA~Islands/USA~Virgin-Islands.personal|USA~Virgin-Islands.personal]] 
 
-### [USA~Virgin-Islands.secret](/_secret/Earth/Continent/America~North/USA/USA~Islands/USA~Virgin-Islands.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~North/USA/USA~Islands/USA~Virgin-Islands.secret|USA~Virgin-Islands.secret]] 
 

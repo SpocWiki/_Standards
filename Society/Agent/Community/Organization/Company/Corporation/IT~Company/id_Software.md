@@ -32,17 +32,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [id_Software](/_Standards/Society/Agent/Community/Organization/Company/Corporation/IT~Company/id_Software.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Company/Corporation/IT~Company/id_Software|id_Software]] 
 
-### #is_/same_as :: [id_Software.public](/_public/Society/Agent/Community/Organization/Company/Corporation/IT~Company/id_Software.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Company/Corporation/IT~Company/id_Software.public|id_Software.public]] 
 
-### #is_/same_as :: [id_Software.internal](/_internal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/id_Software.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/id_Software.internal|id_Software.internal]] 
 
-### #is_/same_as :: [id_Software.protect](/_protect/Society/Agent/Community/Organization/Company/Corporation/IT~Company/id_Software.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Company/Corporation/IT~Company/id_Software.protect|id_Software.protect]] 
 
-### #is_/same_as :: [id_Software.private](/_private/Society/Agent/Community/Organization/Company/Corporation/IT~Company/id_Software.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Company/Corporation/IT~Company/id_Software.private|id_Software.private]] 
 
-### #is_/same_as :: [id_Software.personal](/_personal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/id_Software.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/id_Software.personal|id_Software.personal]] 
 
-### #is_/same_as :: [id_Software.secret](/_secret/Society/Agent/Community/Organization/Company/Corporation/IT~Company/id_Software.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Company/Corporation/IT~Company/id_Software.secret|id_Software.secret]] 
 

@@ -57,17 +57,17 @@ Commons_category: Nonlinear optics
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Nonlinear_Optics](/_Standards/Science/Physics/Wave/Optics/Nonlinear_Optics.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Wave/Optics/Nonlinear_Optics|Nonlinear_Optics]] 
 
-### #is_/same_as :: [Nonlinear_Optics.public](/_public/Science/Physics/Wave/Optics/Nonlinear_Optics.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Wave/Optics/Nonlinear_Optics.public|Nonlinear_Optics.public]] 
 
-### #is_/same_as :: [Nonlinear_Optics.internal](/_internal/Science/Physics/Wave/Optics/Nonlinear_Optics.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Wave/Optics/Nonlinear_Optics.internal|Nonlinear_Optics.internal]] 
 
-### #is_/same_as :: [Nonlinear_Optics.protect](/_protect/Science/Physics/Wave/Optics/Nonlinear_Optics.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Wave/Optics/Nonlinear_Optics.protect|Nonlinear_Optics.protect]] 
 
-### #is_/same_as :: [Nonlinear_Optics.private](/_private/Science/Physics/Wave/Optics/Nonlinear_Optics.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Wave/Optics/Nonlinear_Optics.private|Nonlinear_Optics.private]] 
 
-### #is_/same_as :: [Nonlinear_Optics.personal](/_personal/Science/Physics/Wave/Optics/Nonlinear_Optics.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Wave/Optics/Nonlinear_Optics.personal|Nonlinear_Optics.personal]] 
 
-### #is_/same_as :: [Nonlinear_Optics.secret](/_secret/Science/Physics/Wave/Optics/Nonlinear_Optics.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Wave/Optics/Nonlinear_Optics.secret|Nonlinear_Optics.secret]] 
 

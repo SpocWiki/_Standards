@@ -15,17 +15,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hofstadter,Douglas](/_Standards/Mathematics/Mathematician/Modern_Mathematician/Hofstadter,Douglas.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Mathematician/Modern_Mathematician/Hofstadter,Douglas|Hofstadter,Douglas]] 
 
-### #is_/same_as :: [Hofstadter,Douglas.public](/_public/Mathematics/Mathematician/Modern_Mathematician/Hofstadter,Douglas.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Mathematician/Modern_Mathematician/Hofstadter,Douglas.public|Hofstadter,Douglas.public]] 
 
-### #is_/same_as :: [Hofstadter,Douglas.internal](/_internal/Mathematics/Mathematician/Modern_Mathematician/Hofstadter,Douglas.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Mathematician/Modern_Mathematician/Hofstadter,Douglas.internal|Hofstadter,Douglas.internal]] 
 
-### #is_/same_as :: [Hofstadter,Douglas.protect](/_protect/Mathematics/Mathematician/Modern_Mathematician/Hofstadter,Douglas.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Mathematician/Modern_Mathematician/Hofstadter,Douglas.protect|Hofstadter,Douglas.protect]] 
 
-### #is_/same_as :: [Hofstadter,Douglas.private](/_private/Mathematics/Mathematician/Modern_Mathematician/Hofstadter,Douglas.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Mathematician/Modern_Mathematician/Hofstadter,Douglas.private|Hofstadter,Douglas.private]] 
 
-### #is_/same_as :: [Hofstadter,Douglas.personal](/_personal/Mathematics/Mathematician/Modern_Mathematician/Hofstadter,Douglas.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Mathematician/Modern_Mathematician/Hofstadter,Douglas.personal|Hofstadter,Douglas.personal]] 
 
-### #is_/same_as :: [Hofstadter,Douglas.secret](/_secret/Mathematics/Mathematician/Modern_Mathematician/Hofstadter,Douglas.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Mathematician/Modern_Mathematician/Hofstadter,Douglas.secret|Hofstadter,Douglas.secret]] 
 

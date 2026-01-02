@@ -14,17 +14,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Noether's_Theorem](/_Standards/Science/Physics/Noether's_Theorem.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Noether's_Theorem|Noether's_Theorem]] 
 
-### #is_/same_as :: [Noether's_Theorem.public](/_public/Science/Physics/Noether's_Theorem.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Noether's_Theorem.public|Noether's_Theorem.public]] 
 
-### #is_/same_as :: [Noether's_Theorem.internal](/_internal/Science/Physics/Noether's_Theorem.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Noether's_Theorem.internal|Noether's_Theorem.internal]] 
 
-### #is_/same_as :: [Noether's_Theorem.protect](/_protect/Science/Physics/Noether's_Theorem.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Noether's_Theorem.protect|Noether's_Theorem.protect]] 
 
-### #is_/same_as :: [Noether's_Theorem.private](/_private/Science/Physics/Noether's_Theorem.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Noether's_Theorem.private|Noether's_Theorem.private]] 
 
-### #is_/same_as :: [Noether's_Theorem.personal](/_personal/Science/Physics/Noether's_Theorem.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Noether's_Theorem.personal|Noether's_Theorem.personal]] 
 
-### #is_/same_as :: [Noether's_Theorem.secret](/_secret/Science/Physics/Noether's_Theorem.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Noether's_Theorem.secret|Noether's_Theorem.secret]] 
 

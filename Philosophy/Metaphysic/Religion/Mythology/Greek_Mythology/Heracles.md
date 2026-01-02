@@ -294,17 +294,17 @@ EAGLE_id: decor/lod/160
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Heracles](/_Standards/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Heracles.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Heracles|Heracles]] 
 
-### #is_/same_as :: [Heracles.public](/_public/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Heracles.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Heracles.public|Heracles.public]] 
 
-### #is_/same_as :: [Heracles.internal](/_internal/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Heracles.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Heracles.internal|Heracles.internal]] 
 
-### #is_/same_as :: [Heracles.protect](/_protect/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Heracles.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Heracles.protect|Heracles.protect]] 
 
-### #is_/same_as :: [Heracles.private](/_private/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Heracles.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Heracles.private|Heracles.private]] 
 
-### #is_/same_as :: [Heracles.personal](/_personal/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Heracles.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Heracles.personal|Heracles.personal]] 
 
-### #is_/same_as :: [Heracles.secret](/_secret/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Heracles.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Heracles.secret|Heracles.secret]] 
 

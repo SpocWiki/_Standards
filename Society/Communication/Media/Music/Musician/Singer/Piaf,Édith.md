@@ -151,17 +151,17 @@ IPI_name_number:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Piaf,Édith](/_Standards/Society/Communication/Media/Music/Musician/Singer/Piaf,Édith.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Musician/Singer/Piaf,Édith|Piaf,Édith]] 
 
-### #is_/same_as :: [Piaf,Édith.public](/_public/Society/Communication/Media/Music/Musician/Singer/Piaf,Édith.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Musician/Singer/Piaf,Édith.public|Piaf,Édith.public]] 
 
-### #is_/same_as :: [Piaf,Édith.internal](/_internal/Society/Communication/Media/Music/Musician/Singer/Piaf,Édith.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Musician/Singer/Piaf,Édith.internal|Piaf,Édith.internal]] 
 
-### #is_/same_as :: [Piaf,Édith.protect](/_protect/Society/Communication/Media/Music/Musician/Singer/Piaf,Édith.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Musician/Singer/Piaf,Édith.protect|Piaf,Édith.protect]] 
 
-### #is_/same_as :: [Piaf,Édith.private](/_private/Society/Communication/Media/Music/Musician/Singer/Piaf,Édith.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Musician/Singer/Piaf,Édith.private|Piaf,Édith.private]] 
 
-### #is_/same_as :: [Piaf,Édith.personal](/_personal/Society/Communication/Media/Music/Musician/Singer/Piaf,Édith.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Musician/Singer/Piaf,Édith.personal|Piaf,Édith.personal]] 
 
-### #is_/same_as :: [Piaf,Édith.secret](/_secret/Society/Communication/Media/Music/Musician/Singer/Piaf,Édith.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Musician/Singer/Piaf,Édith.secret|Piaf,Édith.secret]] 
 

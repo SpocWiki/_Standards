@@ -40,17 +40,17 @@ launched: 1995-09-22
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Seven(1995_film)](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Seven(1995_film).md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Seven(1995_film)|Seven(1995_film)]] 
 
-### #is_/same_as :: [Seven(1995_film).public](/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Seven(1995_film).public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Seven(1995_film).public|Seven(1995_film).public]] 
 
-### #is_/same_as :: [Seven(1995_film).internal](/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Seven(1995_film).internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Seven(1995_film).internal|Seven(1995_film).internal]] 
 
-### #is_/same_as :: [Seven(1995_film).protect](/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Seven(1995_film).protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Seven(1995_film).protect|Seven(1995_film).protect]] 
 
-### #is_/same_as :: [Seven(1995_film).private](/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Seven(1995_film).private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Seven(1995_film).private|Seven(1995_film).private]] 
 
-### #is_/same_as :: [Seven(1995_film).personal](/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Seven(1995_film).personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Seven(1995_film).personal|Seven(1995_film).personal]] 
 
-### #is_/same_as :: [Seven(1995_film).secret](/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Seven(1995_film).secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Seven(1995_film).secret|Seven(1995_film).secret]] 
 

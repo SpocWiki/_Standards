@@ -159,17 +159,17 @@ work_period_start_: 1944-01-01
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bergman,Ingmar](/_Standards/Society/Communication/Media/Movie/Movie-Director/Bergman,Ingmar.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Director/Bergman,Ingmar|Bergman,Ingmar]] 
 
-### #is_/same_as :: [Bergman,Ingmar.public](/_public/Society/Communication/Media/Movie/Movie-Director/Bergman,Ingmar.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Director/Bergman,Ingmar.public|Bergman,Ingmar.public]] 
 
-### #is_/same_as :: [Bergman,Ingmar.internal](/_internal/Society/Communication/Media/Movie/Movie-Director/Bergman,Ingmar.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Director/Bergman,Ingmar.internal|Bergman,Ingmar.internal]] 
 
-### #is_/same_as :: [Bergman,Ingmar.protect](/_protect/Society/Communication/Media/Movie/Movie-Director/Bergman,Ingmar.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Director/Bergman,Ingmar.protect|Bergman,Ingmar.protect]] 
 
-### #is_/same_as :: [Bergman,Ingmar.private](/_private/Society/Communication/Media/Movie/Movie-Director/Bergman,Ingmar.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Director/Bergman,Ingmar.private|Bergman,Ingmar.private]] 
 
-### #is_/same_as :: [Bergman,Ingmar.personal](/_personal/Society/Communication/Media/Movie/Movie-Director/Bergman,Ingmar.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Director/Bergman,Ingmar.personal|Bergman,Ingmar.personal]] 
 
-### #is_/same_as :: [Bergman,Ingmar.secret](/_secret/Society/Communication/Media/Movie/Movie-Director/Bergman,Ingmar.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Director/Bergman,Ingmar.secret|Bergman,Ingmar.secret]] 
 

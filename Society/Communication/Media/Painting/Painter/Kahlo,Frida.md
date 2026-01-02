@@ -149,17 +149,17 @@ X_username: FridaKahlo
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Kahlo,Frida](/_Standards/Society/Communication/Media/Painting/Painter/Kahlo,Frida.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Painting/Painter/Kahlo,Frida|Kahlo,Frida]] 
 
-### #is_/same_as :: [Kahlo,Frida.public](/_public/Society/Communication/Media/Painting/Painter/Kahlo,Frida.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Painting/Painter/Kahlo,Frida.public|Kahlo,Frida.public]] 
 
-### #is_/same_as :: [Kahlo,Frida.internal](/_internal/Society/Communication/Media/Painting/Painter/Kahlo,Frida.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Painting/Painter/Kahlo,Frida.internal|Kahlo,Frida.internal]] 
 
-### #is_/same_as :: [Kahlo,Frida.protect](/_protect/Society/Communication/Media/Painting/Painter/Kahlo,Frida.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Painting/Painter/Kahlo,Frida.protect|Kahlo,Frida.protect]] 
 
-### #is_/same_as :: [Kahlo,Frida.private](/_private/Society/Communication/Media/Painting/Painter/Kahlo,Frida.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Painting/Painter/Kahlo,Frida.private|Kahlo,Frida.private]] 
 
-### #is_/same_as :: [Kahlo,Frida.personal](/_personal/Society/Communication/Media/Painting/Painter/Kahlo,Frida.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Painting/Painter/Kahlo,Frida.personal|Kahlo,Frida.personal]] 
 
-### #is_/same_as :: [Kahlo,Frida.secret](/_secret/Society/Communication/Media/Painting/Painter/Kahlo,Frida.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Painting/Painter/Kahlo,Frida.secret|Kahlo,Frida.secret]] 
 

@@ -123,24 +123,24 @@ Pteraspidomorphs are among the earliest known vertebrates. They were
 jawless and possessed a massive dermal skeleton. They are characterized
 by their dermal head armor having large, median, ventral and dorsal
 plates or \"shields\" (red). (after Janvier 1996)
-![](Pteraspidomorphi/pteraspidomorphi.gif))
+![](Pteraspidomorphi/pteraspidomorphi.gif) 
 
   Copyright ::   © 1997 Philippe Janvier
 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Pteraspidomorphi](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Pteraspidomorphi.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Pteraspidomorphi|Pteraspidomorphi]] 
 
-### #is_/same_as :: [Pteraspidomorphi.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Pteraspidomorphi.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Pteraspidomorphi.public|Pteraspidomorphi.public]] 
 
-### #is_/same_as :: [Pteraspidomorphi.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Pteraspidomorphi.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Pteraspidomorphi.internal|Pteraspidomorphi.internal]] 
 
-### #is_/same_as :: [Pteraspidomorphi.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Pteraspidomorphi.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Pteraspidomorphi.protect|Pteraspidomorphi.protect]] 
 
-### #is_/same_as :: [Pteraspidomorphi.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Pteraspidomorphi.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Pteraspidomorphi.private|Pteraspidomorphi.private]] 
 
-### #is_/same_as :: [Pteraspidomorphi.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Pteraspidomorphi.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Pteraspidomorphi.personal|Pteraspidomorphi.personal]] 
 
-### #is_/same_as :: [Pteraspidomorphi.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Pteraspidomorphi.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Pteraspidomorphi.secret|Pteraspidomorphi.secret]] 
 

@@ -42,17 +42,17 @@ Enumerates several kinds of product return policies.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Merchant_Return_Enumeration](/_Standards/schema-org/Enumeration/Merchant_Return_Enumeration.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Merchant_Return_Enumeration|Merchant_Return_Enumeration]] 
 
-### #is_/same_as :: [Merchant_Return_Enumeration.public](/_public/schema-org/Enumeration/Merchant_Return_Enumeration.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Merchant_Return_Enumeration.public|Merchant_Return_Enumeration.public]] 
 
-### #is_/same_as :: [Merchant_Return_Enumeration.internal](/_internal/schema-org/Enumeration/Merchant_Return_Enumeration.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Merchant_Return_Enumeration.internal|Merchant_Return_Enumeration.internal]] 
 
-### #is_/same_as :: [Merchant_Return_Enumeration.protect](/_protect/schema-org/Enumeration/Merchant_Return_Enumeration.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Merchant_Return_Enumeration.protect|Merchant_Return_Enumeration.protect]] 
 
-### #is_/same_as :: [Merchant_Return_Enumeration.private](/_private/schema-org/Enumeration/Merchant_Return_Enumeration.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Merchant_Return_Enumeration.private|Merchant_Return_Enumeration.private]] 
 
-### #is_/same_as :: [Merchant_Return_Enumeration.personal](/_personal/schema-org/Enumeration/Merchant_Return_Enumeration.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Merchant_Return_Enumeration.personal|Merchant_Return_Enumeration.personal]] 
 
-### #is_/same_as :: [Merchant_Return_Enumeration.secret](/_secret/schema-org/Enumeration/Merchant_Return_Enumeration.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Merchant_Return_Enumeration.secret|Merchant_Return_Enumeration.secret]] 
 

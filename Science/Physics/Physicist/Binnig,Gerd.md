@@ -68,17 +68,17 @@ birth_name: Gerd Karl Binnig
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Binnig,Gerd](/_Standards/Science/Physics/Physicist/Binnig,Gerd.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Physicist/Binnig,Gerd|Binnig,Gerd]] 
 
-### #is_/same_as :: [Binnig,Gerd.public](/_public/Science/Physics/Physicist/Binnig,Gerd.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Physicist/Binnig,Gerd.public|Binnig,Gerd.public]] 
 
-### #is_/same_as :: [Binnig,Gerd.internal](/_internal/Science/Physics/Physicist/Binnig,Gerd.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Physicist/Binnig,Gerd.internal|Binnig,Gerd.internal]] 
 
-### #is_/same_as :: [Binnig,Gerd.protect](/_protect/Science/Physics/Physicist/Binnig,Gerd.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Physicist/Binnig,Gerd.protect|Binnig,Gerd.protect]] 
 
-### #is_/same_as :: [Binnig,Gerd.private](/_private/Science/Physics/Physicist/Binnig,Gerd.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Physicist/Binnig,Gerd.private|Binnig,Gerd.private]] 
 
-### #is_/same_as :: [Binnig,Gerd.personal](/_personal/Science/Physics/Physicist/Binnig,Gerd.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Physicist/Binnig,Gerd.personal|Binnig,Gerd.personal]] 
 
-### #is_/same_as :: [Binnig,Gerd.secret](/_secret/Science/Physics/Physicist/Binnig,Gerd.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Physicist/Binnig,Gerd.secret|Binnig,Gerd.secret]] 
 

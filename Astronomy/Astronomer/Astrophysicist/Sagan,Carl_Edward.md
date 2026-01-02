@@ -163,17 +163,17 @@ ISNI:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sagan,Carl_Edward](/_Standards/Astronomy/Astronomer/Astrophysicist/Sagan,Carl_Edward.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Astronomer/Astrophysicist/Sagan,Carl_Edward|Sagan,Carl_Edward]] 
 
-### #is_/same_as :: [Sagan,Carl_Edward.public](/_public/Astronomy/Astronomer/Astrophysicist/Sagan,Carl_Edward.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Astronomer/Astrophysicist/Sagan,Carl_Edward.public|Sagan,Carl_Edward.public]] 
 
-### #is_/same_as :: [Sagan,Carl_Edward.internal](/_internal/Astronomy/Astronomer/Astrophysicist/Sagan,Carl_Edward.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Astronomer/Astrophysicist/Sagan,Carl_Edward.internal|Sagan,Carl_Edward.internal]] 
 
-### #is_/same_as :: [Sagan,Carl_Edward.protect](/_protect/Astronomy/Astronomer/Astrophysicist/Sagan,Carl_Edward.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Astronomer/Astrophysicist/Sagan,Carl_Edward.protect|Sagan,Carl_Edward.protect]] 
 
-### #is_/same_as :: [Sagan,Carl_Edward.private](/_private/Astronomy/Astronomer/Astrophysicist/Sagan,Carl_Edward.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Astronomer/Astrophysicist/Sagan,Carl_Edward.private|Sagan,Carl_Edward.private]] 
 
-### #is_/same_as :: [Sagan,Carl_Edward.personal](/_personal/Astronomy/Astronomer/Astrophysicist/Sagan,Carl_Edward.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Astronomer/Astrophysicist/Sagan,Carl_Edward.personal|Sagan,Carl_Edward.personal]] 
 
-### #is_/same_as :: [Sagan,Carl_Edward.secret](/_secret/Astronomy/Astronomer/Astrophysicist/Sagan,Carl_Edward.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Astronomer/Astrophysicist/Sagan,Carl_Edward.secret|Sagan,Carl_Edward.secret]] 
 

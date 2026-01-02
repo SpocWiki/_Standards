@@ -140,17 +140,17 @@ Commons_category: Neutron stars
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Neutron_Star](/_Standards/Astronomy/Star/Star~Class/Neutron_Star.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Star/Star~Class/Neutron_Star|Neutron_Star]] 
 
-### #is_/same_as :: [Neutron_Star.public](/_public/Astronomy/Star/Star~Class/Neutron_Star.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Star/Star~Class/Neutron_Star.public|Neutron_Star.public]] 
 
-### #is_/same_as :: [Neutron_Star.internal](/_internal/Astronomy/Star/Star~Class/Neutron_Star.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Star/Star~Class/Neutron_Star.internal|Neutron_Star.internal]] 
 
-### #is_/same_as :: [Neutron_Star.protect](/_protect/Astronomy/Star/Star~Class/Neutron_Star.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Star/Star~Class/Neutron_Star.protect|Neutron_Star.protect]] 
 
-### #is_/same_as :: [Neutron_Star.private](/_private/Astronomy/Star/Star~Class/Neutron_Star.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Star/Star~Class/Neutron_Star.private|Neutron_Star.private]] 
 
-### #is_/same_as :: [Neutron_Star.personal](/_personal/Astronomy/Star/Star~Class/Neutron_Star.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Star/Star~Class/Neutron_Star.personal|Neutron_Star.personal]] 
 
-### #is_/same_as :: [Neutron_Star.secret](/_secret/Astronomy/Star/Star~Class/Neutron_Star.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Star/Star~Class/Neutron_Star.secret|Neutron_Star.secret]] 
 

@@ -128,17 +128,17 @@ Krugosvet_article: gumanitarnye_nauki/filosofiya/SHOPENGAUER_ARTUR.html
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Schopenhauer,Arthur](/_Standards/Philosophy/Philosopher/Early_modern_Philosopher/Schopenhauer,Arthur.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Philosopher/Early_modern_Philosopher/Schopenhauer,Arthur|Schopenhauer,Arthur]] 
 
-### #is_/same_as :: [Schopenhauer,Arthur.public](/_public/Philosophy/Philosopher/Early_modern_Philosopher/Schopenhauer,Arthur.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Philosopher/Early_modern_Philosopher/Schopenhauer,Arthur.public|Schopenhauer,Arthur.public]] 
 
-### #is_/same_as :: [Schopenhauer,Arthur.internal](/_internal/Philosophy/Philosopher/Early_modern_Philosopher/Schopenhauer,Arthur.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Philosopher/Early_modern_Philosopher/Schopenhauer,Arthur.internal|Schopenhauer,Arthur.internal]] 
 
-### #is_/same_as :: [Schopenhauer,Arthur.protect](/_protect/Philosophy/Philosopher/Early_modern_Philosopher/Schopenhauer,Arthur.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Philosopher/Early_modern_Philosopher/Schopenhauer,Arthur.protect|Schopenhauer,Arthur.protect]] 
 
-### #is_/same_as :: [Schopenhauer,Arthur.private](/_private/Philosophy/Philosopher/Early_modern_Philosopher/Schopenhauer,Arthur.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Philosopher/Early_modern_Philosopher/Schopenhauer,Arthur.private|Schopenhauer,Arthur.private]] 
 
-### #is_/same_as :: [Schopenhauer,Arthur.personal](/_personal/Philosophy/Philosopher/Early_modern_Philosopher/Schopenhauer,Arthur.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Philosopher/Early_modern_Philosopher/Schopenhauer,Arthur.personal|Schopenhauer,Arthur.personal]] 
 
-### #is_/same_as :: [Schopenhauer,Arthur.secret](/_secret/Philosophy/Philosopher/Early_modern_Philosopher/Schopenhauer,Arthur.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Philosopher/Early_modern_Philosopher/Schopenhauer,Arthur.secret|Schopenhauer,Arthur.secret]] 
 

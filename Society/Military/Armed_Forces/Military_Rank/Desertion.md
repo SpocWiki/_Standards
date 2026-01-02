@@ -40,17 +40,17 @@ Dewey_Decimal_Classification:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Desertion](/_Standards/Society/Military/Armed_Forces/Military_Rank/Desertion.md) 
+### #is_/same_as :: [[/_Standards/Society/Military/Armed_Forces/Military_Rank/Desertion|Desertion]] 
 
-### #is_/same_as :: [Desertion.public](/_public/Society/Military/Armed_Forces/Military_Rank/Desertion.public.md) 
+### #is_/same_as :: [[/_public/Society/Military/Armed_Forces/Military_Rank/Desertion.public|Desertion.public]] 
 
-### #is_/same_as :: [Desertion.internal](/_internal/Society/Military/Armed_Forces/Military_Rank/Desertion.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Military/Armed_Forces/Military_Rank/Desertion.internal|Desertion.internal]] 
 
-### #is_/same_as :: [Desertion.protect](/_protect/Society/Military/Armed_Forces/Military_Rank/Desertion.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Military/Armed_Forces/Military_Rank/Desertion.protect|Desertion.protect]] 
 
-### #is_/same_as :: [Desertion.private](/_private/Society/Military/Armed_Forces/Military_Rank/Desertion.private.md) 
+### #is_/same_as :: [[/_private/Society/Military/Armed_Forces/Military_Rank/Desertion.private|Desertion.private]] 
 
-### #is_/same_as :: [Desertion.personal](/_personal/Society/Military/Armed_Forces/Military_Rank/Desertion.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Military/Armed_Forces/Military_Rank/Desertion.personal|Desertion.personal]] 
 
-### #is_/same_as :: [Desertion.secret](/_secret/Society/Military/Armed_Forces/Military_Rank/Desertion.secret.md)
+### #is_/same_as :: [[/_secret/Society/Military/Armed_Forces/Military_Rank/Desertion.secret|Desertion.secret]] 
 

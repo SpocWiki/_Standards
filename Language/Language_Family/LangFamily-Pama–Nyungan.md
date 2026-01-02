@@ -43,17 +43,17 @@ Glottolog_code: pama1250
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [LangFamily-Pama–Nyungan](/_Standards/Language/Language_Family/LangFamily-Pama–Nyungan.md) 
+### #is_/same_as :: [[/_Standards/Language/Language_Family/LangFamily-Pama–Nyungan|LangFamily-Pama–Nyungan]] 
 
-### #is_/same_as :: [LangFamily-Pama–Nyungan.public](/_public/Language/Language_Family/LangFamily-Pama–Nyungan.public.md) 
+### #is_/same_as :: [[/_public/Language/Language_Family/LangFamily-Pama–Nyungan.public|LangFamily-Pama–Nyungan.public]] 
 
-### #is_/same_as :: [LangFamily-Pama–Nyungan.internal](/_internal/Language/Language_Family/LangFamily-Pama–Nyungan.internal.md) 
+### #is_/same_as :: [[/_internal/Language/Language_Family/LangFamily-Pama–Nyungan.internal|LangFamily-Pama–Nyungan.internal]] 
 
-### #is_/same_as :: [LangFamily-Pama–Nyungan.protect](/_protect/Language/Language_Family/LangFamily-Pama–Nyungan.protect.md) 
+### #is_/same_as :: [[/_protect/Language/Language_Family/LangFamily-Pama–Nyungan.protect|LangFamily-Pama–Nyungan.protect]] 
 
-### #is_/same_as :: [LangFamily-Pama–Nyungan.private](/_private/Language/Language_Family/LangFamily-Pama–Nyungan.private.md) 
+### #is_/same_as :: [[/_private/Language/Language_Family/LangFamily-Pama–Nyungan.private|LangFamily-Pama–Nyungan.private]] 
 
-### #is_/same_as :: [LangFamily-Pama–Nyungan.personal](/_personal/Language/Language_Family/LangFamily-Pama–Nyungan.personal.md) 
+### #is_/same_as :: [[/_personal/Language/Language_Family/LangFamily-Pama–Nyungan.personal|LangFamily-Pama–Nyungan.personal]] 
 
-### #is_/same_as :: [LangFamily-Pama–Nyungan.secret](/_secret/Language/Language_Family/LangFamily-Pama–Nyungan.secret.md)
+### #is_/same_as :: [[/_secret/Language/Language_Family/LangFamily-Pama–Nyungan.secret|LangFamily-Pama–Nyungan.secret]] 
 

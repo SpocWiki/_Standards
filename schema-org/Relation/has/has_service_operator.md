@@ -42,17 +42,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_service_operator](/_Standards/schema-org/Relation/has/has_service_operator.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_service_operator|has_service_operator]] 
 
-### #is_/same_as :: [has_service_operator.public](/_public/schema-org/Relation/has/has_service_operator.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_service_operator.public|has_service_operator.public]] 
 
-### #is_/same_as :: [has_service_operator.internal](/_internal/schema-org/Relation/has/has_service_operator.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_service_operator.internal|has_service_operator.internal]] 
 
-### #is_/same_as :: [has_service_operator.protect](/_protect/schema-org/Relation/has/has_service_operator.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_service_operator.protect|has_service_operator.protect]] 
 
-### #is_/same_as :: [has_service_operator.private](/_private/schema-org/Relation/has/has_service_operator.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_service_operator.private|has_service_operator.private]] 
 
-### #is_/same_as :: [has_service_operator.personal](/_personal/schema-org/Relation/has/has_service_operator.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_service_operator.personal|has_service_operator.personal]] 
 
-### #is_/same_as :: [has_service_operator.secret](/_secret/schema-org/Relation/has/has_service_operator.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_service_operator.secret|has_service_operator.secret]] 
 

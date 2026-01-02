@@ -37,17 +37,17 @@ Knut und Marie Hamsun hatten vier Kinder, darunter den Maler [Tore Hamsun](http
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hamsun,Marie](/_Standards/Society/Communication/Media/Writing/Book/Writer/Hamsun,Marie.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Writer/Hamsun,Marie|Hamsun,Marie]] 
 
-### #is_/same_as :: [Hamsun,Marie.public](/_public/Society/Communication/Media/Writing/Book/Writer/Hamsun,Marie.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Writer/Hamsun,Marie.public|Hamsun,Marie.public]] 
 
-### #is_/same_as :: [Hamsun,Marie.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/Hamsun,Marie.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Writer/Hamsun,Marie.internal|Hamsun,Marie.internal]] 
 
-### #is_/same_as :: [Hamsun,Marie.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/Hamsun,Marie.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Writer/Hamsun,Marie.protect|Hamsun,Marie.protect]] 
 
-### #is_/same_as :: [Hamsun,Marie.private](/_private/Society/Communication/Media/Writing/Book/Writer/Hamsun,Marie.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Writer/Hamsun,Marie.private|Hamsun,Marie.private]] 
 
-### #is_/same_as :: [Hamsun,Marie.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/Hamsun,Marie.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Writer/Hamsun,Marie.personal|Hamsun,Marie.personal]] 
 
-### #is_/same_as :: [Hamsun,Marie.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/Hamsun,Marie.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Writer/Hamsun,Marie.secret|Hamsun,Marie.secret]] 
 

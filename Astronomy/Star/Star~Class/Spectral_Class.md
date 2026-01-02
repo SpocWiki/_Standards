@@ -33,17 +33,17 @@ Commons_category: Spectral types
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Spectral_Class](/_Standards/Astronomy/Star/Star~Class/Spectral_Class.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Star/Star~Class/Spectral_Class|Spectral_Class]] 
 
-### #is_/same_as :: [Spectral_Class.public](/_public/Astronomy/Star/Star~Class/Spectral_Class.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Star/Star~Class/Spectral_Class.public|Spectral_Class.public]] 
 
-### #is_/same_as :: [Spectral_Class.internal](/_internal/Astronomy/Star/Star~Class/Spectral_Class.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Star/Star~Class/Spectral_Class.internal|Spectral_Class.internal]] 
 
-### #is_/same_as :: [Spectral_Class.protect](/_protect/Astronomy/Star/Star~Class/Spectral_Class.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Star/Star~Class/Spectral_Class.protect|Spectral_Class.protect]] 
 
-### #is_/same_as :: [Spectral_Class.private](/_private/Astronomy/Star/Star~Class/Spectral_Class.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Star/Star~Class/Spectral_Class.private|Spectral_Class.private]] 
 
-### #is_/same_as :: [Spectral_Class.personal](/_personal/Astronomy/Star/Star~Class/Spectral_Class.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Star/Star~Class/Spectral_Class.personal|Spectral_Class.personal]] 
 
-### #is_/same_as :: [Spectral_Class.secret](/_secret/Astronomy/Star/Star~Class/Spectral_Class.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Star/Star~Class/Spectral_Class.secret|Spectral_Class.secret]] 
 

@@ -76,17 +76,17 @@ OpenStreetMap_tag: healthcare:speciality=microbiology
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Microbiology](/_Standards/bio/Microbiology.md) 
+### #is_/same_as :: [[/_Standards/bio/Microbiology|Microbiology]] 
 
-### #is_/same_as :: [Microbiology.public](/_public/bio/Microbiology.public.md) 
+### #is_/same_as :: [[/_public/bio/Microbiology.public|Microbiology.public]] 
 
-### #is_/same_as :: [Microbiology.internal](/_internal/bio/Microbiology.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Microbiology.internal|Microbiology.internal]] 
 
-### #is_/same_as :: [Microbiology.protect](/_protect/bio/Microbiology.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Microbiology.protect|Microbiology.protect]] 
 
-### #is_/same_as :: [Microbiology.private](/_private/bio/Microbiology.private.md) 
+### #is_/same_as :: [[/_private/bio/Microbiology.private|Microbiology.private]] 
 
-### #is_/same_as :: [Microbiology.personal](/_personal/bio/Microbiology.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Microbiology.personal|Microbiology.personal]] 
 
-### #is_/same_as :: [Microbiology.secret](/_secret/bio/Microbiology.secret.md)
+### #is_/same_as :: [[/_secret/bio/Microbiology.secret|Microbiology.secret]] 
 

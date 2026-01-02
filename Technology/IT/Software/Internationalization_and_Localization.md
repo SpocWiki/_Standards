@@ -46,17 +46,17 @@ Commons_category: Internationalization and localization
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Internationalization_and_Localization](/_Standards/Technology/IT/Software/Internationalization_and_Localization.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Software/Internationalization_and_Localization|Internationalization_and_Localization]] 
 
-### #is_/same_as :: [Internationalization_and_Localization.public](/_public/Technology/IT/Software/Internationalization_and_Localization.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Software/Internationalization_and_Localization.public|Internationalization_and_Localization.public]] 
 
-### #is_/same_as :: [Internationalization_and_Localization.internal](/_internal/Technology/IT/Software/Internationalization_and_Localization.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Software/Internationalization_and_Localization.internal|Internationalization_and_Localization.internal]] 
 
-### #is_/same_as :: [Internationalization_and_Localization.protect](/_protect/Technology/IT/Software/Internationalization_and_Localization.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Software/Internationalization_and_Localization.protect|Internationalization_and_Localization.protect]] 
 
-### #is_/same_as :: [Internationalization_and_Localization.private](/_private/Technology/IT/Software/Internationalization_and_Localization.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Software/Internationalization_and_Localization.private|Internationalization_and_Localization.private]] 
 
-### #is_/same_as :: [Internationalization_and_Localization.personal](/_personal/Technology/IT/Software/Internationalization_and_Localization.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Software/Internationalization_and_Localization.personal|Internationalization_and_Localization.personal]] 
 
-### #is_/same_as :: [Internationalization_and_Localization.secret](/_secret/Technology/IT/Software/Internationalization_and_Localization.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Software/Internationalization_and_Localization.secret|Internationalization_and_Localization.secret]] 
 

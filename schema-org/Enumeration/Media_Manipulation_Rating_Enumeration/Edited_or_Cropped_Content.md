@@ -56,17 +56,17 @@ or editing out large portions from the recording.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Edited_or_Cropped_Content](/_Standards/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration/Edited_or_Cropped_Content.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration/Edited_or_Cropped_Content|Edited_or_Cropped_Content]] 
 
-### #is_/same_as :: [Edited_or_Cropped_Content.public](/_public/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration/Edited_or_Cropped_Content.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration/Edited_or_Cropped_Content.public|Edited_or_Cropped_Content.public]] 
 
-### #is_/same_as :: [Edited_or_Cropped_Content.internal](/_internal/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration/Edited_or_Cropped_Content.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration/Edited_or_Cropped_Content.internal|Edited_or_Cropped_Content.internal]] 
 
-### #is_/same_as :: [Edited_or_Cropped_Content.protect](/_protect/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration/Edited_or_Cropped_Content.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration/Edited_or_Cropped_Content.protect|Edited_or_Cropped_Content.protect]] 
 
-### #is_/same_as :: [Edited_or_Cropped_Content.private](/_private/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration/Edited_or_Cropped_Content.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration/Edited_or_Cropped_Content.private|Edited_or_Cropped_Content.private]] 
 
-### #is_/same_as :: [Edited_or_Cropped_Content.personal](/_personal/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration/Edited_or_Cropped_Content.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration/Edited_or_Cropped_Content.personal|Edited_or_Cropped_Content.personal]] 
 
-### #is_/same_as :: [Edited_or_Cropped_Content.secret](/_secret/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration/Edited_or_Cropped_Content.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration/Edited_or_Cropped_Content.secret|Edited_or_Cropped_Content.secret]] 
 

@@ -42,17 +42,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Logistics](/_Standards/Society/Economics/Logistics.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Logistics|Logistics]] 
 
-### #is_/same_as :: [Logistics.public](/_public/Society/Economics/Logistics.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Logistics.public|Logistics.public]] 
 
-### #is_/same_as :: [Logistics.internal](/_internal/Society/Economics/Logistics.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Logistics.internal|Logistics.internal]] 
 
-### #is_/same_as :: [Logistics.protect](/_protect/Society/Economics/Logistics.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Logistics.protect|Logistics.protect]] 
 
-### #is_/same_as :: [Logistics.private](/_private/Society/Economics/Logistics.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Logistics.private|Logistics.private]] 
 
-### #is_/same_as :: [Logistics.personal](/_personal/Society/Economics/Logistics.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Logistics.personal|Logistics.personal]] 
 
-### #is_/same_as :: [Logistics.secret](/_secret/Society/Economics/Logistics.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Logistics.secret|Logistics.secret]] 
 

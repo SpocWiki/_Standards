@@ -26,17 +26,17 @@ instance_of: "[[_Standards/WikiData/WD~physical_phenomenon,1293220]]"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Van_der_Waals_Radius](/_Standards/Science/Physics/Atom/Van_der_Waals_Radius.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Atom/Van_der_Waals_Radius|Van_der_Waals_Radius]] 
 
-### #is_/same_as :: [Van_der_Waals_Radius.public](/_public/Science/Physics/Atom/Van_der_Waals_Radius.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Atom/Van_der_Waals_Radius.public|Van_der_Waals_Radius.public]] 
 
-### #is_/same_as :: [Van_der_Waals_Radius.internal](/_internal/Science/Physics/Atom/Van_der_Waals_Radius.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Atom/Van_der_Waals_Radius.internal|Van_der_Waals_Radius.internal]] 
 
-### #is_/same_as :: [Van_der_Waals_Radius.protect](/_protect/Science/Physics/Atom/Van_der_Waals_Radius.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Atom/Van_der_Waals_Radius.protect|Van_der_Waals_Radius.protect]] 
 
-### #is_/same_as :: [Van_der_Waals_Radius.private](/_private/Science/Physics/Atom/Van_der_Waals_Radius.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Atom/Van_der_Waals_Radius.private|Van_der_Waals_Radius.private]] 
 
-### #is_/same_as :: [Van_der_Waals_Radius.personal](/_personal/Science/Physics/Atom/Van_der_Waals_Radius.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Atom/Van_der_Waals_Radius.personal|Van_der_Waals_Radius.personal]] 
 
-### #is_/same_as :: [Van_der_Waals_Radius.secret](/_secret/Science/Physics/Atom/Van_der_Waals_Radius.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Atom/Van_der_Waals_Radius.secret|Van_der_Waals_Radius.secret]] 
 

@@ -172,17 +172,17 @@ Plex_person_key: 5d776826961905001eb91144
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ray_Charles](/_Standards/Society/Communication/Media/Music/Musician/Jazz-Musician/Ray_Charles.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Musician/Jazz-Musician/Ray_Charles|Ray_Charles]] 
 
-### #is_/same_as :: [Ray_Charles.public](/_public/Society/Communication/Media/Music/Musician/Jazz-Musician/Ray_Charles.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Musician/Jazz-Musician/Ray_Charles.public|Ray_Charles.public]] 
 
-### #is_/same_as :: [Ray_Charles.internal](/_internal/Society/Communication/Media/Music/Musician/Jazz-Musician/Ray_Charles.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Musician/Jazz-Musician/Ray_Charles.internal|Ray_Charles.internal]] 
 
-### #is_/same_as :: [Ray_Charles.protect](/_protect/Society/Communication/Media/Music/Musician/Jazz-Musician/Ray_Charles.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Musician/Jazz-Musician/Ray_Charles.protect|Ray_Charles.protect]] 
 
-### #is_/same_as :: [Ray_Charles.private](/_private/Society/Communication/Media/Music/Musician/Jazz-Musician/Ray_Charles.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Musician/Jazz-Musician/Ray_Charles.private|Ray_Charles.private]] 
 
-### #is_/same_as :: [Ray_Charles.personal](/_personal/Society/Communication/Media/Music/Musician/Jazz-Musician/Ray_Charles.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Musician/Jazz-Musician/Ray_Charles.personal|Ray_Charles.personal]] 
 
-### #is_/same_as :: [Ray_Charles.secret](/_secret/Society/Communication/Media/Music/Musician/Jazz-Musician/Ray_Charles.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Musician/Jazz-Musician/Ray_Charles.secret|Ray_Charles.secret]] 
 

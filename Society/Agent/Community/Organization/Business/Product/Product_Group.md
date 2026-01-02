@@ -45,17 +45,17 @@ While a ProductGroup itself is not directly offered for sale, the various varyin
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Product_Group](/_Standards/Society/Agent/Community/Organization/Business/Product/Product_Group.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Business/Product/Product_Group|Product_Group]] 
 
-### #is_/same_as :: [Product_Group.public](/_public/Society/Agent/Community/Organization/Business/Product/Product_Group.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Business/Product/Product_Group.public|Product_Group.public]] 
 
-### #is_/same_as :: [Product_Group.internal](/_internal/Society/Agent/Community/Organization/Business/Product/Product_Group.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Business/Product/Product_Group.internal|Product_Group.internal]] 
 
-### #is_/same_as :: [Product_Group.protect](/_protect/Society/Agent/Community/Organization/Business/Product/Product_Group.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Business/Product/Product_Group.protect|Product_Group.protect]] 
 
-### #is_/same_as :: [Product_Group.private](/_private/Society/Agent/Community/Organization/Business/Product/Product_Group.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Business/Product/Product_Group.private|Product_Group.private]] 
 
-### #is_/same_as :: [Product_Group.personal](/_personal/Society/Agent/Community/Organization/Business/Product/Product_Group.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Business/Product/Product_Group.personal|Product_Group.personal]] 
 
-### #is_/same_as :: [Product_Group.secret](/_secret/Society/Agent/Community/Organization/Business/Product/Product_Group.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Business/Product/Product_Group.secret|Product_Group.secret]] 
 

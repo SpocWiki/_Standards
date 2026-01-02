@@ -81,17 +81,17 @@ first_line: It is a little remarkable, that—though disinclined to talk overmuc
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Scarlet_Letter](/_Standards/Society/Communication/Media/Writing/Book/Writer/US_Writer/Hawthorne,Nathaniel/Scarlet_Letter.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Writer/US_Writer/Hawthorne,Nathaniel/Scarlet_Letter|Scarlet_Letter]] 
 
-### #is_/same_as :: [Scarlet_Letter.public](/_public/Society/Communication/Media/Writing/Book/Writer/US_Writer/Hawthorne,Nathaniel/Scarlet_Letter.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Writer/US_Writer/Hawthorne,Nathaniel/Scarlet_Letter.public|Scarlet_Letter.public]] 
 
-### #is_/same_as :: [Scarlet_Letter.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/US_Writer/Hawthorne,Nathaniel/Scarlet_Letter.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Writer/US_Writer/Hawthorne,Nathaniel/Scarlet_Letter.internal|Scarlet_Letter.internal]] 
 
-### #is_/same_as :: [Scarlet_Letter.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/US_Writer/Hawthorne,Nathaniel/Scarlet_Letter.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Writer/US_Writer/Hawthorne,Nathaniel/Scarlet_Letter.protect|Scarlet_Letter.protect]] 
 
-### #is_/same_as :: [Scarlet_Letter.private](/_private/Society/Communication/Media/Writing/Book/Writer/US_Writer/Hawthorne,Nathaniel/Scarlet_Letter.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Writer/US_Writer/Hawthorne,Nathaniel/Scarlet_Letter.private|Scarlet_Letter.private]] 
 
-### #is_/same_as :: [Scarlet_Letter.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/US_Writer/Hawthorne,Nathaniel/Scarlet_Letter.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Writer/US_Writer/Hawthorne,Nathaniel/Scarlet_Letter.personal|Scarlet_Letter.personal]] 
 
-### #is_/same_as :: [Scarlet_Letter.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/US_Writer/Hawthorne,Nathaniel/Scarlet_Letter.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Writer/US_Writer/Hawthorne,Nathaniel/Scarlet_Letter.secret|Scarlet_Letter.secret]] 
 

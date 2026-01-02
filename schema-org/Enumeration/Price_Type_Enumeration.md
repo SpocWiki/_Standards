@@ -41,17 +41,17 @@ Enumerates different price types, for example list price, invoice price, and sal
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Price_Type_Enumeration](/_Standards/schema-org/Enumeration/Price_Type_Enumeration.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Price_Type_Enumeration|Price_Type_Enumeration]] 
 
-### #is_/same_as :: [Price_Type_Enumeration.public](/_public/schema-org/Enumeration/Price_Type_Enumeration.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Price_Type_Enumeration.public|Price_Type_Enumeration.public]] 
 
-### #is_/same_as :: [Price_Type_Enumeration.internal](/_internal/schema-org/Enumeration/Price_Type_Enumeration.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Price_Type_Enumeration.internal|Price_Type_Enumeration.internal]] 
 
-### #is_/same_as :: [Price_Type_Enumeration.protect](/_protect/schema-org/Enumeration/Price_Type_Enumeration.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Price_Type_Enumeration.protect|Price_Type_Enumeration.protect]] 
 
-### #is_/same_as :: [Price_Type_Enumeration.private](/_private/schema-org/Enumeration/Price_Type_Enumeration.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Price_Type_Enumeration.private|Price_Type_Enumeration.private]] 
 
-### #is_/same_as :: [Price_Type_Enumeration.personal](/_personal/schema-org/Enumeration/Price_Type_Enumeration.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Price_Type_Enumeration.personal|Price_Type_Enumeration.personal]] 
 
-### #is_/same_as :: [Price_Type_Enumeration.secret](/_secret/schema-org/Enumeration/Price_Type_Enumeration.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Price_Type_Enumeration.secret|Price_Type_Enumeration.secret]] 
 

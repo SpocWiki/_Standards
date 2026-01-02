@@ -43,17 +43,17 @@ Note: AggregateOffers are normally expected to associate multiple offers that al
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Aggregate_Offer](/_Standards/Society/Agent/Community/Organization/Business/Offer/Aggregate_Offer.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Business/Offer/Aggregate_Offer|Aggregate_Offer]] 
 
-### #is_/same_as :: [Aggregate_Offer.public](/_public/Society/Agent/Community/Organization/Business/Offer/Aggregate_Offer.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Business/Offer/Aggregate_Offer.public|Aggregate_Offer.public]] 
 
-### #is_/same_as :: [Aggregate_Offer.internal](/_internal/Society/Agent/Community/Organization/Business/Offer/Aggregate_Offer.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Business/Offer/Aggregate_Offer.internal|Aggregate_Offer.internal]] 
 
-### #is_/same_as :: [Aggregate_Offer.protect](/_protect/Society/Agent/Community/Organization/Business/Offer/Aggregate_Offer.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Business/Offer/Aggregate_Offer.protect|Aggregate_Offer.protect]] 
 
-### #is_/same_as :: [Aggregate_Offer.private](/_private/Society/Agent/Community/Organization/Business/Offer/Aggregate_Offer.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Business/Offer/Aggregate_Offer.private|Aggregate_Offer.private]] 
 
-### #is_/same_as :: [Aggregate_Offer.personal](/_personal/Society/Agent/Community/Organization/Business/Offer/Aggregate_Offer.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Business/Offer/Aggregate_Offer.personal|Aggregate_Offer.personal]] 
 
-### #is_/same_as :: [Aggregate_Offer.secret](/_secret/Society/Agent/Community/Organization/Business/Offer/Aggregate_Offer.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Business/Offer/Aggregate_Offer.secret|Aggregate_Offer.secret]] 
 

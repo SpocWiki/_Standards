@@ -49,17 +49,17 @@ MeSH_tree_code: F01.145.813.617
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Shyness](/_Standards/bio/Psychology/Affect/Emotion/Shyness.md) 
+### #is_/same_as :: [[/_Standards/bio/Psychology/Affect/Emotion/Shyness|Shyness]] 
 
-### #is_/same_as :: [Shyness.public](/_public/bio/Psychology/Affect/Emotion/Shyness.public.md) 
+### #is_/same_as :: [[/_public/bio/Psychology/Affect/Emotion/Shyness.public|Shyness.public]] 
 
-### #is_/same_as :: [Shyness.internal](/_internal/bio/Psychology/Affect/Emotion/Shyness.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Psychology/Affect/Emotion/Shyness.internal|Shyness.internal]] 
 
-### #is_/same_as :: [Shyness.protect](/_protect/bio/Psychology/Affect/Emotion/Shyness.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Psychology/Affect/Emotion/Shyness.protect|Shyness.protect]] 
 
-### #is_/same_as :: [Shyness.private](/_private/bio/Psychology/Affect/Emotion/Shyness.private.md) 
+### #is_/same_as :: [[/_private/bio/Psychology/Affect/Emotion/Shyness.private|Shyness.private]] 
 
-### #is_/same_as :: [Shyness.personal](/_personal/bio/Psychology/Affect/Emotion/Shyness.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Psychology/Affect/Emotion/Shyness.personal|Shyness.personal]] 
 
-### #is_/same_as :: [Shyness.secret](/_secret/bio/Psychology/Affect/Emotion/Shyness.secret.md)
+### #is_/same_as :: [[/_secret/bio/Psychology/Affect/Emotion/Shyness.secret|Shyness.secret]] 
 

@@ -86,17 +86,17 @@ This describes a concrete File, but is extended to the semantic Video itself.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Music_Video](/_Standards/Society/Communication/Communication_Dimension/Time-Communication/Media_Object/Music_Video.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Communication_Dimension/Time-Communication/Media_Object/Music_Video|Music_Video]] 
 
-### #is_/same_as :: [Music_Video.public](/_public/Society/Communication/Communication_Dimension/Time-Communication/Media_Object/Music_Video.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Communication_Dimension/Time-Communication/Media_Object/Music_Video.public|Music_Video.public]] 
 
-### #is_/same_as :: [Music_Video.internal](/_internal/Society/Communication/Communication_Dimension/Time-Communication/Media_Object/Music_Video.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Communication_Dimension/Time-Communication/Media_Object/Music_Video.internal|Music_Video.internal]] 
 
-### #is_/same_as :: [Music_Video.protect](/_protect/Society/Communication/Communication_Dimension/Time-Communication/Media_Object/Music_Video.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Communication_Dimension/Time-Communication/Media_Object/Music_Video.protect|Music_Video.protect]] 
 
-### #is_/same_as :: [Music_Video.private](/_private/Society/Communication/Communication_Dimension/Time-Communication/Media_Object/Music_Video.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Communication_Dimension/Time-Communication/Media_Object/Music_Video.private|Music_Video.private]] 
 
-### #is_/same_as :: [Music_Video.personal](/_personal/Society/Communication/Communication_Dimension/Time-Communication/Media_Object/Music_Video.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Communication_Dimension/Time-Communication/Media_Object/Music_Video.personal|Music_Video.personal]] 
 
-### #is_/same_as :: [Music_Video.secret](/_secret/Society/Communication/Communication_Dimension/Time-Communication/Media_Object/Music_Video.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Communication_Dimension/Time-Communication/Media_Object/Music_Video.secret|Music_Video.secret]] 
 

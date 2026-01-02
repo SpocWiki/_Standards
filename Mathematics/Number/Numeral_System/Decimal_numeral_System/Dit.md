@@ -43,17 +43,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Dit](/_Standards/Mathematics/Number/Numeral_System/Decimal_numeral_System/Dit.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Number/Numeral_System/Decimal_numeral_System/Dit|Dit]] 
 
-### #is_/same_as :: [Dit.public](/_public/Mathematics/Number/Numeral_System/Decimal_numeral_System/Dit.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Number/Numeral_System/Decimal_numeral_System/Dit.public|Dit.public]] 
 
-### #is_/same_as :: [Dit.internal](/_internal/Mathematics/Number/Numeral_System/Decimal_numeral_System/Dit.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Number/Numeral_System/Decimal_numeral_System/Dit.internal|Dit.internal]] 
 
-### #is_/same_as :: [Dit.protect](/_protect/Mathematics/Number/Numeral_System/Decimal_numeral_System/Dit.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Number/Numeral_System/Decimal_numeral_System/Dit.protect|Dit.protect]] 
 
-### #is_/same_as :: [Dit.private](/_private/Mathematics/Number/Numeral_System/Decimal_numeral_System/Dit.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Number/Numeral_System/Decimal_numeral_System/Dit.private|Dit.private]] 
 
-### #is_/same_as :: [Dit.personal](/_personal/Mathematics/Number/Numeral_System/Decimal_numeral_System/Dit.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Number/Numeral_System/Decimal_numeral_System/Dit.personal|Dit.personal]] 
 
-### #is_/same_as :: [Dit.secret](/_secret/Mathematics/Number/Numeral_System/Decimal_numeral_System/Dit.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Number/Numeral_System/Decimal_numeral_System/Dit.secret|Dit.secret]] 
 

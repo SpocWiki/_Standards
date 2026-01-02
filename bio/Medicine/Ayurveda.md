@@ -49,17 +49,17 @@ OpenStreetMap_tag_or_key: Tag:healthcare:speciality=ayurveda
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ayurveda](/_Standards/bio/Medicine/Ayurveda.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Ayurveda|Ayurveda]] 
 
-### #is_/same_as :: [Ayurveda.public](/_public/bio/Medicine/Ayurveda.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Ayurveda.public|Ayurveda.public]] 
 
-### #is_/same_as :: [Ayurveda.internal](/_internal/bio/Medicine/Ayurveda.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Ayurveda.internal|Ayurveda.internal]] 
 
-### #is_/same_as :: [Ayurveda.protect](/_protect/bio/Medicine/Ayurveda.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Ayurveda.protect|Ayurveda.protect]] 
 
-### #is_/same_as :: [Ayurveda.private](/_private/bio/Medicine/Ayurveda.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Ayurveda.private|Ayurveda.private]] 
 
-### #is_/same_as :: [Ayurveda.personal](/_personal/bio/Medicine/Ayurveda.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Ayurveda.personal|Ayurveda.personal]] 
 
-### #is_/same_as :: [Ayurveda.secret](/_secret/bio/Medicine/Ayurveda.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Ayurveda.secret|Ayurveda.secret]] 
 

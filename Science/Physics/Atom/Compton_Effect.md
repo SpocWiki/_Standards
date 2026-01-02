@@ -66,17 +66,17 @@ Dewey_Decimal_Classification: "539.756"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Compton_Effect](/_Standards/Science/Physics/Atom/Compton_Effect.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Atom/Compton_Effect|Compton_Effect]] 
 
-### #is_/same_as :: [Compton_Effect.public](/_public/Science/Physics/Atom/Compton_Effect.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Atom/Compton_Effect.public|Compton_Effect.public]] 
 
-### #is_/same_as :: [Compton_Effect.internal](/_internal/Science/Physics/Atom/Compton_Effect.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Atom/Compton_Effect.internal|Compton_Effect.internal]] 
 
-### #is_/same_as :: [Compton_Effect.protect](/_protect/Science/Physics/Atom/Compton_Effect.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Atom/Compton_Effect.protect|Compton_Effect.protect]] 
 
-### #is_/same_as :: [Compton_Effect.private](/_private/Science/Physics/Atom/Compton_Effect.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Atom/Compton_Effect.private|Compton_Effect.private]] 
 
-### #is_/same_as :: [Compton_Effect.personal](/_personal/Science/Physics/Atom/Compton_Effect.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Atom/Compton_Effect.personal|Compton_Effect.personal]] 
 
-### #is_/same_as :: [Compton_Effect.secret](/_secret/Science/Physics/Atom/Compton_Effect.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Atom/Compton_Effect.secret|Compton_Effect.secret]] 
 

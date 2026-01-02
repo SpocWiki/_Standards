@@ -44,17 +44,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_box](/_Standards/schema-org/Property/Texts/has_box.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/Texts/has_box|has_box]] 
 
-### #is_/same_as :: [has_box.public](/_public/schema-org/Property/Texts/has_box.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/Texts/has_box.public|has_box.public]] 
 
-### #is_/same_as :: [has_box.internal](/_internal/schema-org/Property/Texts/has_box.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/Texts/has_box.internal|has_box.internal]] 
 
-### #is_/same_as :: [has_box.protect](/_protect/schema-org/Property/Texts/has_box.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/Texts/has_box.protect|has_box.protect]] 
 
-### #is_/same_as :: [has_box.private](/_private/schema-org/Property/Texts/has_box.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/Texts/has_box.private|has_box.private]] 
 
-### #is_/same_as :: [has_box.personal](/_personal/schema-org/Property/Texts/has_box.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/Texts/has_box.personal|has_box.personal]] 
 
-### #is_/same_as :: [has_box.secret](/_secret/schema-org/Property/Texts/has_box.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/Texts/has_box.secret|has_box.secret]] 
 

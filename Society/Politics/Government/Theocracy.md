@@ -47,17 +47,17 @@ Library_of_Congress_Classification: JC372
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Theocracy](/_Standards/Society/Politics/Government/Theocracy.md) 
+### #is_/same_as :: [[/_Standards/Society/Politics/Government/Theocracy|Theocracy]] 
 
-### #is_/same_as :: [Theocracy.public](/_public/Society/Politics/Government/Theocracy.public.md) 
+### #is_/same_as :: [[/_public/Society/Politics/Government/Theocracy.public|Theocracy.public]] 
 
-### #is_/same_as :: [Theocracy.internal](/_internal/Society/Politics/Government/Theocracy.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Politics/Government/Theocracy.internal|Theocracy.internal]] 
 
-### #is_/same_as :: [Theocracy.protect](/_protect/Society/Politics/Government/Theocracy.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Politics/Government/Theocracy.protect|Theocracy.protect]] 
 
-### #is_/same_as :: [Theocracy.private](/_private/Society/Politics/Government/Theocracy.private.md) 
+### #is_/same_as :: [[/_private/Society/Politics/Government/Theocracy.private|Theocracy.private]] 
 
-### #is_/same_as :: [Theocracy.personal](/_personal/Society/Politics/Government/Theocracy.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Politics/Government/Theocracy.personal|Theocracy.personal]] 
 
-### #is_/same_as :: [Theocracy.secret](/_secret/Society/Politics/Government/Theocracy.secret.md)
+### #is_/same_as :: [[/_secret/Society/Politics/Government/Theocracy.secret|Theocracy.secret]] 
 

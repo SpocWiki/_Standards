@@ -96,17 +96,17 @@ ISNI: 0000000121232255
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lollobrigida,Gina](/_Standards/Society/Communication/Media/Movie/Actor/Italian_Actor/Lollobrigida,Gina.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Actor/Italian_Actor/Lollobrigida,Gina|Lollobrigida,Gina]] 
 
-### #is_/same_as :: [Lollobrigida,Gina.public](/_public/Society/Communication/Media/Movie/Actor/Italian_Actor/Lollobrigida,Gina.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Actor/Italian_Actor/Lollobrigida,Gina.public|Lollobrigida,Gina.public]] 
 
-### #is_/same_as :: [Lollobrigida,Gina.internal](/_internal/Society/Communication/Media/Movie/Actor/Italian_Actor/Lollobrigida,Gina.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Actor/Italian_Actor/Lollobrigida,Gina.internal|Lollobrigida,Gina.internal]] 
 
-### #is_/same_as :: [Lollobrigida,Gina.protect](/_protect/Society/Communication/Media/Movie/Actor/Italian_Actor/Lollobrigida,Gina.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Actor/Italian_Actor/Lollobrigida,Gina.protect|Lollobrigida,Gina.protect]] 
 
-### #is_/same_as :: [Lollobrigida,Gina.private](/_private/Society/Communication/Media/Movie/Actor/Italian_Actor/Lollobrigida,Gina.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Actor/Italian_Actor/Lollobrigida,Gina.private|Lollobrigida,Gina.private]] 
 
-### #is_/same_as :: [Lollobrigida,Gina.personal](/_personal/Society/Communication/Media/Movie/Actor/Italian_Actor/Lollobrigida,Gina.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Actor/Italian_Actor/Lollobrigida,Gina.personal|Lollobrigida,Gina.personal]] 
 
-### #is_/same_as :: [Lollobrigida,Gina.secret](/_secret/Society/Communication/Media/Movie/Actor/Italian_Actor/Lollobrigida,Gina.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Actor/Italian_Actor/Lollobrigida,Gina.secret|Lollobrigida,Gina.secret]] 
 

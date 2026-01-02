@@ -56,17 +56,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [is_same_as](/_Standards/schema-org/Relation/is_same_as.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/is_same_as|is_same_as]] 
 
-### #is_/same_as :: [is_same_as.public](/_public/schema-org/Relation/is_same_as.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/is_same_as.public|is_same_as.public]] 
 
-### #is_/same_as :: [is_same_as.internal](/_internal/schema-org/Relation/is_same_as.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/is_same_as.internal|is_same_as.internal]] 
 
-### #is_/same_as :: [is_same_as.protect](/_protect/schema-org/Relation/is_same_as.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/is_same_as.protect|is_same_as.protect]] 
 
-### #is_/same_as :: [is_same_as.private](/_private/schema-org/Relation/is_same_as.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/is_same_as.private|is_same_as.private]] 
 
-### #is_/same_as :: [is_same_as.personal](/_personal/schema-org/Relation/is_same_as.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/is_same_as.personal|is_same_as.personal]] 
 
-### #is_/same_as :: [is_same_as.secret](/_secret/schema-org/Relation/is_same_as.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/is_same_as.secret|is_same_as.secret]] 
 

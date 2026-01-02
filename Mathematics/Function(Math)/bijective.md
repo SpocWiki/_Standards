@@ -50,17 +50,17 @@ A function is bijective
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [bijective](/_Standards/Mathematics/Function(Math)/bijective.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Function(Math)/bijective|bijective]] 
 
-### #is_/same_as :: [bijective.public](/_public/Mathematics/Function(Math)/bijective.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Function(Math)/bijective.public|bijective.public]] 
 
-### #is_/same_as :: [bijective.internal](/_internal/Mathematics/Function(Math)/bijective.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Function(Math)/bijective.internal|bijective.internal]] 
 
-### #is_/same_as :: [bijective.protect](/_protect/Mathematics/Function(Math)/bijective.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Function(Math)/bijective.protect|bijective.protect]] 
 
-### #is_/same_as :: [bijective.private](/_private/Mathematics/Function(Math)/bijective.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Function(Math)/bijective.private|bijective.private]] 
 
-### #is_/same_as :: [bijective.personal](/_personal/Mathematics/Function(Math)/bijective.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Function(Math)/bijective.personal|bijective.personal]] 
 
-### #is_/same_as :: [bijective.secret](/_secret/Mathematics/Function(Math)/bijective.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Function(Math)/bijective.secret|bijective.secret]] 
 

@@ -64,17 +64,17 @@ Commons_category: Electric field
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Field,Electric](/_Standards/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Field/Field,Electric.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Field/Field,Electric|Field,Electric]] 
 
-### #is_/same_as :: [Field,Electric.public](/_public/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Field/Field,Electric.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Field/Field,Electric.public|Field,Electric.public]] 
 
-### #is_/same_as :: [Field,Electric.internal](/_internal/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Field/Field,Electric.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Field/Field,Electric.internal|Field,Electric.internal]] 
 
-### #is_/same_as :: [Field,Electric.protect](/_protect/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Field/Field,Electric.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Field/Field,Electric.protect|Field,Electric.protect]] 
 
-### #is_/same_as :: [Field,Electric.private](/_private/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Field/Field,Electric.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Field/Field,Electric.private|Field,Electric.private]] 
 
-### #is_/same_as :: [Field,Electric.personal](/_personal/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Field/Field,Electric.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Field/Field,Electric.personal|Field,Electric.personal]] 
 
-### #is_/same_as :: [Field,Electric.secret](/_secret/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Field/Field,Electric.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Field/Field,Electric.secret|Field,Electric.secret]] 
 

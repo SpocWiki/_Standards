@@ -44,17 +44,17 @@ PhilPapers_topic: constitutionalism
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Constitutionalism](/_Standards/Society/Politics/Government/Constitutionalism.md) 
+### #is_/same_as :: [[/_Standards/Society/Politics/Government/Constitutionalism|Constitutionalism]] 
 
-### #is_/same_as :: [Constitutionalism.public](/_public/Society/Politics/Government/Constitutionalism.public.md) 
+### #is_/same_as :: [[/_public/Society/Politics/Government/Constitutionalism.public|Constitutionalism.public]] 
 
-### #is_/same_as :: [Constitutionalism.internal](/_internal/Society/Politics/Government/Constitutionalism.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Politics/Government/Constitutionalism.internal|Constitutionalism.internal]] 
 
-### #is_/same_as :: [Constitutionalism.protect](/_protect/Society/Politics/Government/Constitutionalism.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Politics/Government/Constitutionalism.protect|Constitutionalism.protect]] 
 
-### #is_/same_as :: [Constitutionalism.private](/_private/Society/Politics/Government/Constitutionalism.private.md) 
+### #is_/same_as :: [[/_private/Society/Politics/Government/Constitutionalism.private|Constitutionalism.private]] 
 
-### #is_/same_as :: [Constitutionalism.personal](/_personal/Society/Politics/Government/Constitutionalism.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Politics/Government/Constitutionalism.personal|Constitutionalism.personal]] 
 
-### #is_/same_as :: [Constitutionalism.secret](/_secret/Society/Politics/Government/Constitutionalism.secret.md)
+### #is_/same_as :: [[/_secret/Society/Politics/Government/Constitutionalism.secret|Constitutionalism.secret]] 
 

@@ -49,17 +49,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_parent](/_Standards/schema-org/Relation/has/has_parent.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_parent|has_parent]] 
 
-### #is_/same_as :: [has_parent.public](/_public/schema-org/Relation/has/has_parent.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_parent.public|has_parent.public]] 
 
-### #is_/same_as :: [has_parent.internal](/_internal/schema-org/Relation/has/has_parent.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_parent.internal|has_parent.internal]] 
 
-### #is_/same_as :: [has_parent.protect](/_protect/schema-org/Relation/has/has_parent.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_parent.protect|has_parent.protect]] 
 
-### #is_/same_as :: [has_parent.private](/_private/schema-org/Relation/has/has_parent.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_parent.private|has_parent.private]] 
 
-### #is_/same_as :: [has_parent.personal](/_personal/schema-org/Relation/has/has_parent.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_parent.personal|has_parent.personal]] 
 
-### #is_/same_as :: [has_parent.secret](/_secret/schema-org/Relation/has/has_parent.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_parent.secret|has_parent.secret]] 
 

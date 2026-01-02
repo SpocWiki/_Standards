@@ -33,17 +33,17 @@ type: private_note
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Coolidge,Calvin](/_Standards/Earth/Continent/America~North/US~President/Coolidge,Calvin.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~North/USA/US_President/Coolidge,Calvin|Coolidge,Calvin]] 
 
-### #is_/same_as :: [Coolidge,Calvin.public](/_public/Earth/Continent/America~North/US~President/Coolidge,Calvin.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~North/USA/US_President/Coolidge,Calvin.public|Coolidge,Calvin.public]] 
 
-### #is_/same_as :: [Coolidge,Calvin.internal](/_internal/Earth/Continent/America~North/US~President/Coolidge,Calvin.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~North/USA/US_President/Coolidge,Calvin.internal|Coolidge,Calvin.internal]] 
 
-### #is_/same_as :: [Coolidge,Calvin.protect](/_protect/Earth/Continent/America~North/US~President/Coolidge,Calvin.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~North/USA/US_President/Coolidge,Calvin.protect|Coolidge,Calvin.protect]] 
 
-### #is_/same_as :: [Coolidge,Calvin.private](/_private/Earth/Continent/America~North/US~President/Coolidge,Calvin.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~North/USA/US_President/Coolidge,Calvin.private|Coolidge,Calvin.private]] 
 
-### #is_/same_as :: [Coolidge,Calvin.personal](/_personal/Earth/Continent/America~North/US~President/Coolidge,Calvin.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~North/USA/US_President/Coolidge,Calvin.personal|Coolidge,Calvin.personal]] 
 
-### #is_/same_as :: [Coolidge,Calvin.secret](/_secret/Earth/Continent/America~North/US~President/Coolidge,Calvin.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~North/USA/US_President/Coolidge,Calvin.secret|Coolidge,Calvin.secret]] 
 

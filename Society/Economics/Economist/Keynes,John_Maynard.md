@@ -144,17 +144,17 @@ writing_language: '[[_Standards/WikiData/WD~English,1860]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Keynes,John_Maynard](/_Standards/Society/Economics/Economist/Keynes,John_Maynard.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Economist/Keynes,John_Maynard|Keynes,John_Maynard]] 
 
-### #is_/same_as :: [Keynes,John_Maynard.public](/_public/Society/Economics/Economist/Keynes,John_Maynard.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Economist/Keynes,John_Maynard.public|Keynes,John_Maynard.public]] 
 
-### #is_/same_as :: [Keynes,John_Maynard.internal](/_internal/Society/Economics/Economist/Keynes,John_Maynard.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Economist/Keynes,John_Maynard.internal|Keynes,John_Maynard.internal]] 
 
-### #is_/same_as :: [Keynes,John_Maynard.protect](/_protect/Society/Economics/Economist/Keynes,John_Maynard.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Economist/Keynes,John_Maynard.protect|Keynes,John_Maynard.protect]] 
 
-### #is_/same_as :: [Keynes,John_Maynard.private](/_private/Society/Economics/Economist/Keynes,John_Maynard.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Economist/Keynes,John_Maynard.private|Keynes,John_Maynard.private]] 
 
-### #is_/same_as :: [Keynes,John_Maynard.personal](/_personal/Society/Economics/Economist/Keynes,John_Maynard.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Economist/Keynes,John_Maynard.personal|Keynes,John_Maynard.personal]] 
 
-### #is_/same_as :: [Keynes,John_Maynard.secret](/_secret/Society/Economics/Economist/Keynes,John_Maynard.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Economist/Keynes,John_Maynard.secret|Keynes,John_Maynard.secret]] 
 

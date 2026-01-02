@@ -46,17 +46,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_clinical_pharmacology](/_Standards/schema-org/Property/Texts/has_clinical_pharmacology.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/Texts/has_clinical_pharmacology|has_clinical_pharmacology]] 
 
-### #is_/same_as :: [has_clinical_pharmacology.public](/_public/schema-org/Property/Texts/has_clinical_pharmacology.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/Texts/has_clinical_pharmacology.public|has_clinical_pharmacology.public]] 
 
-### #is_/same_as :: [has_clinical_pharmacology.internal](/_internal/schema-org/Property/Texts/has_clinical_pharmacology.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/Texts/has_clinical_pharmacology.internal|has_clinical_pharmacology.internal]] 
 
-### #is_/same_as :: [has_clinical_pharmacology.protect](/_protect/schema-org/Property/Texts/has_clinical_pharmacology.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/Texts/has_clinical_pharmacology.protect|has_clinical_pharmacology.protect]] 
 
-### #is_/same_as :: [has_clinical_pharmacology.private](/_private/schema-org/Property/Texts/has_clinical_pharmacology.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/Texts/has_clinical_pharmacology.private|has_clinical_pharmacology.private]] 
 
-### #is_/same_as :: [has_clinical_pharmacology.personal](/_personal/schema-org/Property/Texts/has_clinical_pharmacology.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/Texts/has_clinical_pharmacology.personal|has_clinical_pharmacology.personal]] 
 
-### #is_/same_as :: [has_clinical_pharmacology.secret](/_secret/schema-org/Property/Texts/has_clinical_pharmacology.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/Texts/has_clinical_pharmacology.secret|has_clinical_pharmacology.secret]] 
 

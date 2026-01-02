@@ -54,17 +54,17 @@ Commons_category: Tractors
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Tractor](/_Standards/Society/Economics/Industry/Agriculture/Farm/Tractor.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Industry/Agriculture/Farm/Tractor|Tractor]] 
 
-### #is_/same_as :: [Tractor.public](/_public/Society/Economics/Industry/Agriculture/Farm/Tractor.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Industry/Agriculture/Farm/Tractor.public|Tractor.public]] 
 
-### #is_/same_as :: [Tractor.internal](/_internal/Society/Economics/Industry/Agriculture/Farm/Tractor.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Industry/Agriculture/Farm/Tractor.internal|Tractor.internal]] 
 
-### #is_/same_as :: [Tractor.protect](/_protect/Society/Economics/Industry/Agriculture/Farm/Tractor.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Industry/Agriculture/Farm/Tractor.protect|Tractor.protect]] 
 
-### #is_/same_as :: [Tractor.private](/_private/Society/Economics/Industry/Agriculture/Farm/Tractor.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Industry/Agriculture/Farm/Tractor.private|Tractor.private]] 
 
-### #is_/same_as :: [Tractor.personal](/_personal/Society/Economics/Industry/Agriculture/Farm/Tractor.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Industry/Agriculture/Farm/Tractor.personal|Tractor.personal]] 
 
-### #is_/same_as :: [Tractor.secret](/_secret/Society/Economics/Industry/Agriculture/Farm/Tractor.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Industry/Agriculture/Farm/Tractor.secret|Tractor.secret]] 
 

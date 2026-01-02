@@ -96,17 +96,17 @@ Krugosvet_article_archived_: istoriya/CHERNAYA_SMERT.html
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [1346-Black_Death+1353](/_Standards/Earth/Continent/Europe/History_of_Europe/1346-Black_Death+1353.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/History_of_Europe/1346-Black_Death+1353|1346-Black_Death+1353]] 
 
-### #is_/same_as :: [1346-Black_Death+1353.public](/_public/Earth/Continent/Europe/History_of_Europe/1346-Black_Death+1353.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/History_of_Europe/1346-Black_Death+1353.public|1346-Black_Death+1353.public]] 
 
-### #is_/same_as :: [1346-Black_Death+1353.internal](/_internal/Earth/Continent/Europe/History_of_Europe/1346-Black_Death+1353.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/History_of_Europe/1346-Black_Death+1353.internal|1346-Black_Death+1353.internal]] 
 
-### #is_/same_as :: [1346-Black_Death+1353.protect](/_protect/Earth/Continent/Europe/History_of_Europe/1346-Black_Death+1353.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/History_of_Europe/1346-Black_Death+1353.protect|1346-Black_Death+1353.protect]] 
 
-### #is_/same_as :: [1346-Black_Death+1353.private](/_private/Earth/Continent/Europe/History_of_Europe/1346-Black_Death+1353.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/History_of_Europe/1346-Black_Death+1353.private|1346-Black_Death+1353.private]] 
 
-### #is_/same_as :: [1346-Black_Death+1353.personal](/_personal/Earth/Continent/Europe/History_of_Europe/1346-Black_Death+1353.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/History_of_Europe/1346-Black_Death+1353.personal|1346-Black_Death+1353.personal]] 
 
-### #is_/same_as :: [1346-Black_Death+1353.secret](/_secret/Earth/Continent/Europe/History_of_Europe/1346-Black_Death+1353.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/History_of_Europe/1346-Black_Death+1353.secret|1346-Black_Death+1353.secret]] 
 

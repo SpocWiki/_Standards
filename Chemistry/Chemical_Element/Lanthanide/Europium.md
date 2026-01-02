@@ -89,17 +89,17 @@ ZVG_number: 7630
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Europium](/_Standards/Chemistry/Chemical_Element/Lanthanide/Europium.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Chemical_Element/Lanthanide/Europium|Europium]] 
 
-### #is_/same_as :: [Europium.public](/_public/Chemistry/Chemical_Element/Lanthanide/Europium.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Chemical_Element/Lanthanide/Europium.public|Europium.public]] 
 
-### #is_/same_as :: [Europium.internal](/_internal/Chemistry/Chemical_Element/Lanthanide/Europium.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Chemical_Element/Lanthanide/Europium.internal|Europium.internal]] 
 
-### #is_/same_as :: [Europium.protect](/_protect/Chemistry/Chemical_Element/Lanthanide/Europium.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Chemical_Element/Lanthanide/Europium.protect|Europium.protect]] 
 
-### #is_/same_as :: [Europium.private](/_private/Chemistry/Chemical_Element/Lanthanide/Europium.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Chemical_Element/Lanthanide/Europium.private|Europium.private]] 
 
-### #is_/same_as :: [Europium.personal](/_personal/Chemistry/Chemical_Element/Lanthanide/Europium.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Chemical_Element/Lanthanide/Europium.personal|Europium.personal]] 
 
-### #is_/same_as :: [Europium.secret](/_secret/Chemistry/Chemical_Element/Lanthanide/Europium.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Chemical_Element/Lanthanide/Europium.secret|Europium.secret]] 
 

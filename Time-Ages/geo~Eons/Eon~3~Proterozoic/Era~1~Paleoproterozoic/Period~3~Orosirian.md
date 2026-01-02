@@ -71,17 +71,17 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Period~3~Orosirian](/_Standards/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~1~Paleoproterozoic/Period~3~Orosirian.md) 
+### #is_/same_as :: [[/_Standards/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~1~Paleoproterozoic/Period~3~Orosirian|Period~3~Orosirian]] 
 
-### #is_/same_as :: [Period~3~Orosirian.public](/_public/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~1~Paleoproterozoic/Period~3~Orosirian.public.md) 
+### #is_/same_as :: [[/_public/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~1~Paleoproterozoic/Period~3~Orosirian.public|Period~3~Orosirian.public]] 
 
-### #is_/same_as :: [Period~3~Orosirian.internal](/_internal/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~1~Paleoproterozoic/Period~3~Orosirian.internal.md) 
+### #is_/same_as :: [[/_internal/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~1~Paleoproterozoic/Period~3~Orosirian.internal|Period~3~Orosirian.internal]] 
 
-### #is_/same_as :: [Period~3~Orosirian.protect](/_protect/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~1~Paleoproterozoic/Period~3~Orosirian.protect.md) 
+### #is_/same_as :: [[/_protect/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~1~Paleoproterozoic/Period~3~Orosirian.protect|Period~3~Orosirian.protect]] 
 
-### #is_/same_as :: [Period~3~Orosirian.private](/_private/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~1~Paleoproterozoic/Period~3~Orosirian.private.md) 
+### #is_/same_as :: [[/_private/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~1~Paleoproterozoic/Period~3~Orosirian.private|Period~3~Orosirian.private]] 
 
-### #is_/same_as :: [Period~3~Orosirian.personal](/_personal/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~1~Paleoproterozoic/Period~3~Orosirian.personal.md) 
+### #is_/same_as :: [[/_personal/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~1~Paleoproterozoic/Period~3~Orosirian.personal|Period~3~Orosirian.personal]] 
 
-### #is_/same_as :: [Period~3~Orosirian.secret](/_secret/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~1~Paleoproterozoic/Period~3~Orosirian.secret.md)
+### #is_/same_as :: [[/_secret/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~1~Paleoproterozoic/Period~3~Orosirian.secret|Period~3~Orosirian.secret]] 
 

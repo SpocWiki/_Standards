@@ -57,17 +57,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [_Date_Time-Template](/_Standards/schema-org/Property/has_Date_Time/_Date_Time-Template.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_Date_Time/_Date_Time-Template|_Date_Time-Template]] 
 
-### #is_/same_as :: [_Date_Time-Template.public](/_public/schema-org/Property/has_Date_Time/_Date_Time-Template.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/has_Date_Time/_Date_Time-Template.public|_Date_Time-Template.public]] 
 
-### #is_/same_as :: [_Date_Time-Template.internal](/_internal/schema-org/Property/has_Date_Time/_Date_Time-Template.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_Date_Time/_Date_Time-Template.internal|_Date_Time-Template.internal]] 
 
-### #is_/same_as :: [_Date_Time-Template.protect](/_protect/schema-org/Property/has_Date_Time/_Date_Time-Template.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_Date_Time/_Date_Time-Template.protect|_Date_Time-Template.protect]] 
 
-### #is_/same_as :: [_Date_Time-Template.private](/_private/schema-org/Property/has_Date_Time/_Date_Time-Template.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/has_Date_Time/_Date_Time-Template.private|_Date_Time-Template.private]] 
 
-### #is_/same_as :: [_Date_Time-Template.personal](/_personal/schema-org/Property/has_Date_Time/_Date_Time-Template.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_Date_Time/_Date_Time-Template.personal|_Date_Time-Template.personal]] 
 
-### #is_/same_as :: [_Date_Time-Template.secret](/_secret/schema-org/Property/has_Date_Time/_Date_Time-Template.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/has_Date_Time/_Date_Time-Template.secret|_Date_Time-Template.secret]] 
 

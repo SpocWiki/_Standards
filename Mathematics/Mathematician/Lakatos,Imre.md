@@ -81,17 +81,17 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Professor%20Imre%20Lak
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lakatos,Imre](/_Standards/Mathematics/Mathematician/Lakatos,Imre.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Mathematician/Lakatos,Imre|Lakatos,Imre]] 
 
-### #is_/same_as :: [Lakatos,Imre.public](/_public/Mathematics/Mathematician/Lakatos,Imre.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Mathematician/Lakatos,Imre.public|Lakatos,Imre.public]] 
 
-### #is_/same_as :: [Lakatos,Imre.internal](/_internal/Mathematics/Mathematician/Lakatos,Imre.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Mathematician/Lakatos,Imre.internal|Lakatos,Imre.internal]] 
 
-### #is_/same_as :: [Lakatos,Imre.protect](/_protect/Mathematics/Mathematician/Lakatos,Imre.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Mathematician/Lakatos,Imre.protect|Lakatos,Imre.protect]] 
 
-### #is_/same_as :: [Lakatos,Imre.private](/_private/Mathematics/Mathematician/Lakatos,Imre.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Mathematician/Lakatos,Imre.private|Lakatos,Imre.private]] 
 
-### #is_/same_as :: [Lakatos,Imre.personal](/_personal/Mathematics/Mathematician/Lakatos,Imre.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Mathematician/Lakatos,Imre.personal|Lakatos,Imre.personal]] 
 
-### #is_/same_as :: [Lakatos,Imre.secret](/_secret/Mathematics/Mathematician/Lakatos,Imre.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Mathematician/Lakatos,Imre.secret|Lakatos,Imre.secret]] 
 

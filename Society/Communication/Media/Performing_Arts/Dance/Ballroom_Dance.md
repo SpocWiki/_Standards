@@ -41,17 +41,17 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Ballroom.svg
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ballroom_Dance](/_Standards/Society/Communication/Media/Performing_Arts/Dance/Ballroom_Dance.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Performing_Arts/Dance/Ballroom_Dance|Ballroom_Dance]] 
 
-### #is_/same_as :: [Ballroom_Dance.public](/_public/Society/Communication/Media/Performing_Arts/Dance/Ballroom_Dance.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Performing_Arts/Dance/Ballroom_Dance.public|Ballroom_Dance.public]] 
 
-### #is_/same_as :: [Ballroom_Dance.internal](/_internal/Society/Communication/Media/Performing_Arts/Dance/Ballroom_Dance.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Performing_Arts/Dance/Ballroom_Dance.internal|Ballroom_Dance.internal]] 
 
-### #is_/same_as :: [Ballroom_Dance.protect](/_protect/Society/Communication/Media/Performing_Arts/Dance/Ballroom_Dance.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Performing_Arts/Dance/Ballroom_Dance.protect|Ballroom_Dance.protect]] 
 
-### #is_/same_as :: [Ballroom_Dance.private](/_private/Society/Communication/Media/Performing_Arts/Dance/Ballroom_Dance.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Performing_Arts/Dance/Ballroom_Dance.private|Ballroom_Dance.private]] 
 
-### #is_/same_as :: [Ballroom_Dance.personal](/_personal/Society/Communication/Media/Performing_Arts/Dance/Ballroom_Dance.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Performing_Arts/Dance/Ballroom_Dance.personal|Ballroom_Dance.personal]] 
 
-### #is_/same_as :: [Ballroom_Dance.secret](/_secret/Society/Communication/Media/Performing_Arts/Dance/Ballroom_Dance.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Performing_Arts/Dance/Ballroom_Dance.secret|Ballroom_Dance.secret]] 
 

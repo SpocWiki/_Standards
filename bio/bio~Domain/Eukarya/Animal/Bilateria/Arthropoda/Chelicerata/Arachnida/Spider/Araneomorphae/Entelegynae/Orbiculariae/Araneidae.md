@@ -39,7 +39,7 @@ title: Araneidae
 
 [Jonathan Coddington]()
 
-![Banded Argiope](Araneidae/Argiope_trifasciata.jpg)![](Araneidae/Araneus_diadematus_4-8001.jpg))![](Araneidae/micrathena_gracilis01b.jpg))
+![Banded Argiope](Araneidae/Argiope_trifasciata.jpg)![](Araneidae/Araneus_diadematus_4-8001.jpg))![](Araneidae/micrathena_gracilis01b.jpg) 
 
 Containing group:[Orbiculariae](../Orbiculariae.md) 
 
@@ -53,7 +53,7 @@ Containing group:[Orbiculariae](../Orbiculariae.md)
   Specimen Condition   Live Specimen
   Copyright ::            © [Leon Higley, Department of Entomology, University of Nebraska-Lincoln](http://entomology.unl.edu/)
   -------------------------------------
-![](Araneidae/Araneus_diadematus_4-8001.jpg))
+![](Araneidae/Araneus_diadematus_4-8001.jpg) 
 
   ----------------------------------------------------------------------------
   Scientific Name ::     Arachnida:Spider:Araneidae: Araneus diadematus
@@ -63,7 +63,7 @@ Containing group:[Orbiculariae](../Orbiculariae.md)
   Copyright ::            © 2005 [Cesare Brizio](http://xoomer.virgilio.it/cebrizio/) 
  
   ----------------------------------------------------------------------------
-![](Araneidae/micrathena_gracilis01b.jpg))
+![](Araneidae/micrathena_gracilis01b.jpg) 
 
   ---------------------------------------------------------------------------------
   Scientific Name ::     Micrathena gracilis
@@ -79,17 +79,17 @@ Containing group:[Orbiculariae](../Orbiculariae.md)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Araneidae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Orbiculariae/Araneidae.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Orbiculariae/Araneidae|Araneidae]] 
 
-### #is_/same_as :: [Araneidae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Orbiculariae/Araneidae.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Orbiculariae/Araneidae.public|Araneidae.public]] 
 
-### #is_/same_as :: [Araneidae.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Orbiculariae/Araneidae.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Orbiculariae/Araneidae.internal|Araneidae.internal]] 
 
-### #is_/same_as :: [Araneidae.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Orbiculariae/Araneidae.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Orbiculariae/Araneidae.protect|Araneidae.protect]] 
 
-### #is_/same_as :: [Araneidae.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Orbiculariae/Araneidae.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Orbiculariae/Araneidae.private|Araneidae.private]] 
 
-### #is_/same_as :: [Araneidae.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Orbiculariae/Araneidae.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Orbiculariae/Araneidae.personal|Araneidae.personal]] 
 
-### #is_/same_as :: [Araneidae.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Orbiculariae/Araneidae.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Orbiculariae/Araneidae.secret|Araneidae.secret]] 
 

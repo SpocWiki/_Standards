@@ -50,17 +50,17 @@ The Tempo is slow, the riffs similar to AC/DC-s Hells Bells.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ghost(Band)](/_Standards/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Ghost(Band).md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Ghost(Band)|Ghost(Band)]] 
 
-### #is_/same_as :: [Ghost(Band).public](/_public/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Ghost(Band).public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Ghost(Band).public|Ghost(Band).public]] 
 
-### #is_/same_as :: [Ghost(Band).internal](/_internal/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Ghost(Band).internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Ghost(Band).internal|Ghost(Band).internal]] 
 
-### #is_/same_as :: [Ghost(Band).protect](/_protect/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Ghost(Band).protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Ghost(Band).protect|Ghost(Band).protect]] 
 
-### #is_/same_as :: [Ghost(Band).private](/_private/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Ghost(Band).private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Ghost(Band).private|Ghost(Band).private]] 
 
-### #is_/same_as :: [Ghost(Band).personal](/_personal/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Ghost(Band).personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Ghost(Band).personal|Ghost(Band).personal]] 
 
-### #is_/same_as :: [Ghost(Band).secret](/_secret/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Ghost(Band).secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Ghost(Band).secret|Ghost(Band).secret]] 
 

@@ -41,17 +41,17 @@ An ice cream shop.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ice_Cream_Shop](/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Food_Establishment/Ice_Cream_Shop.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Food_Establishment/Ice_Cream_Shop|Ice_Cream_Shop]] 
 
-### #is_/same_as :: [Ice_Cream_Shop.public](/_public/Society/Agent/Community/Organization/Business/Local_Business/Food_Establishment/Ice_Cream_Shop.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Business/Local_Business/Food_Establishment/Ice_Cream_Shop.public|Ice_Cream_Shop.public]] 
 
-### #is_/same_as :: [Ice_Cream_Shop.internal](/_internal/Society/Agent/Community/Organization/Business/Local_Business/Food_Establishment/Ice_Cream_Shop.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Business/Local_Business/Food_Establishment/Ice_Cream_Shop.internal|Ice_Cream_Shop.internal]] 
 
-### #is_/same_as :: [Ice_Cream_Shop.protect](/_protect/Society/Agent/Community/Organization/Business/Local_Business/Food_Establishment/Ice_Cream_Shop.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Business/Local_Business/Food_Establishment/Ice_Cream_Shop.protect|Ice_Cream_Shop.protect]] 
 
-### #is_/same_as :: [Ice_Cream_Shop.private](/_private/Society/Agent/Community/Organization/Business/Local_Business/Food_Establishment/Ice_Cream_Shop.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Business/Local_Business/Food_Establishment/Ice_Cream_Shop.private|Ice_Cream_Shop.private]] 
 
-### #is_/same_as :: [Ice_Cream_Shop.personal](/_personal/Society/Agent/Community/Organization/Business/Local_Business/Food_Establishment/Ice_Cream_Shop.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Business/Local_Business/Food_Establishment/Ice_Cream_Shop.personal|Ice_Cream_Shop.personal]] 
 
-### #is_/same_as :: [Ice_Cream_Shop.secret](/_secret/Society/Agent/Community/Organization/Business/Local_Business/Food_Establishment/Ice_Cream_Shop.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Business/Local_Business/Food_Establishment/Ice_Cream_Shop.secret|Ice_Cream_Shop.secret]] 
 

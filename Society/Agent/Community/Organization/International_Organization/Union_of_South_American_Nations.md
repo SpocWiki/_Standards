@@ -105,17 +105,17 @@ inception: 2008-05-23T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Union_of_South_American_Nations](/_Standards/Society/Agent/Community/Organization/International_Organization/Union_of_South_American_Nations.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/International_Organization/Union_of_South_American_Nations|Union_of_South_American_Nations]] 
 
-### #is_/same_as :: [Union_of_South_American_Nations.public](/_public/Society/Agent/Community/Organization/International_Organization/Union_of_South_American_Nations.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/International_Organization/Union_of_South_American_Nations.public|Union_of_South_American_Nations.public]] 
 
-### #is_/same_as :: [Union_of_South_American_Nations.internal](/_internal/Society/Agent/Community/Organization/International_Organization/Union_of_South_American_Nations.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/International_Organization/Union_of_South_American_Nations.internal|Union_of_South_American_Nations.internal]] 
 
-### #is_/same_as :: [Union_of_South_American_Nations.protect](/_protect/Society/Agent/Community/Organization/International_Organization/Union_of_South_American_Nations.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/International_Organization/Union_of_South_American_Nations.protect|Union_of_South_American_Nations.protect]] 
 
-### #is_/same_as :: [Union_of_South_American_Nations.private](/_private/Society/Agent/Community/Organization/International_Organization/Union_of_South_American_Nations.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/International_Organization/Union_of_South_American_Nations.private|Union_of_South_American_Nations.private]] 
 
-### #is_/same_as :: [Union_of_South_American_Nations.personal](/_personal/Society/Agent/Community/Organization/International_Organization/Union_of_South_American_Nations.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/International_Organization/Union_of_South_American_Nations.personal|Union_of_South_American_Nations.personal]] 
 
-### #is_/same_as :: [Union_of_South_American_Nations.secret](/_secret/Society/Agent/Community/Organization/International_Organization/Union_of_South_American_Nations.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/International_Organization/Union_of_South_American_Nations.secret|Union_of_South_American_Nations.secret]] 
 

@@ -45,17 +45,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_value_for_yield](/_Standards/schema-org/Property/has_value_for/has_value_for_yield.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_value_for/has_value_for_yield|has_value_for_yield]] 
 
-### #is_/same_as :: [has_value_for_yield.public](/_public/schema-org/Property/has_value_for/has_value_for_yield.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/has_value_for/has_value_for_yield.public|has_value_for_yield.public]] 
 
-### #is_/same_as :: [has_value_for_yield.internal](/_internal/schema-org/Property/has_value_for/has_value_for_yield.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_value_for/has_value_for_yield.internal|has_value_for_yield.internal]] 
 
-### #is_/same_as :: [has_value_for_yield.protect](/_protect/schema-org/Property/has_value_for/has_value_for_yield.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_value_for/has_value_for_yield.protect|has_value_for_yield.protect]] 
 
-### #is_/same_as :: [has_value_for_yield.private](/_private/schema-org/Property/has_value_for/has_value_for_yield.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/has_value_for/has_value_for_yield.private|has_value_for_yield.private]] 
 
-### #is_/same_as :: [has_value_for_yield.personal](/_personal/schema-org/Property/has_value_for/has_value_for_yield.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_value_for/has_value_for_yield.personal|has_value_for_yield.personal]] 
 
-### #is_/same_as :: [has_value_for_yield.secret](/_secret/schema-org/Property/has_value_for/has_value_for_yield.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/has_value_for/has_value_for_yield.secret|has_value_for_yield.secret]] 
 

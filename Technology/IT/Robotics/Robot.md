@@ -60,17 +60,17 @@ video: http://commons.wikimedia.org/wiki/Special:FilePath/Dockvorgang%20M%C3%A4h
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Robot](/_Standards/Technology/IT/Robotics/Robot.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Robotics/Robot|Robot]] 
 
-### #is_/same_as :: [Robot.public](/_public/Technology/IT/Robotics/Robot.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Robotics/Robot.public|Robot.public]] 
 
-### #is_/same_as :: [Robot.internal](/_internal/Technology/IT/Robotics/Robot.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Robotics/Robot.internal|Robot.internal]] 
 
-### #is_/same_as :: [Robot.protect](/_protect/Technology/IT/Robotics/Robot.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Robotics/Robot.protect|Robot.protect]] 
 
-### #is_/same_as :: [Robot.private](/_private/Technology/IT/Robotics/Robot.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Robotics/Robot.private|Robot.private]] 
 
-### #is_/same_as :: [Robot.personal](/_personal/Technology/IT/Robotics/Robot.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Robotics/Robot.personal|Robot.personal]] 
 
-### #is_/same_as :: [Robot.secret](/_secret/Technology/IT/Robotics/Robot.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Robotics/Robot.secret|Robot.secret]] 
 

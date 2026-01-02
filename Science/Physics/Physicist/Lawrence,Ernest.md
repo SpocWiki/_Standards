@@ -115,17 +115,17 @@ birth_name: Ernest Orlando Lawrence
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lawrence,Ernest](/_Standards/Science/Physics/Physicist/Lawrence,Ernest.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Physicist/Lawrence,Ernest|Lawrence,Ernest]] 
 
-### #is_/same_as :: [Lawrence,Ernest.public](/_public/Science/Physics/Physicist/Lawrence,Ernest.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Physicist/Lawrence,Ernest.public|Lawrence,Ernest.public]] 
 
-### #is_/same_as :: [Lawrence,Ernest.internal](/_internal/Science/Physics/Physicist/Lawrence,Ernest.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Physicist/Lawrence,Ernest.internal|Lawrence,Ernest.internal]] 
 
-### #is_/same_as :: [Lawrence,Ernest.protect](/_protect/Science/Physics/Physicist/Lawrence,Ernest.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Physicist/Lawrence,Ernest.protect|Lawrence,Ernest.protect]] 
 
-### #is_/same_as :: [Lawrence,Ernest.private](/_private/Science/Physics/Physicist/Lawrence,Ernest.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Physicist/Lawrence,Ernest.private|Lawrence,Ernest.private]] 
 
-### #is_/same_as :: [Lawrence,Ernest.personal](/_personal/Science/Physics/Physicist/Lawrence,Ernest.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Physicist/Lawrence,Ernest.personal|Lawrence,Ernest.personal]] 
 
-### #is_/same_as :: [Lawrence,Ernest.secret](/_secret/Science/Physics/Physicist/Lawrence,Ernest.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Physicist/Lawrence,Ernest.secret|Lawrence,Ernest.secret]] 
 

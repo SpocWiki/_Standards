@@ -31,17 +31,17 @@ type: ElementGroup
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Group-03-Scandium](/_Standards/Chemistry/Chemical_Element/Group-03-Scandium.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Chemical_Element/Group-03-Scandium|Group-03-Scandium]] 
 
-### #is_/same_as :: [Group-03-Scandium.public](/_public/Chemistry/Chemical_Element/Group-03-Scandium.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Chemical_Element/Group-03-Scandium.public|Group-03-Scandium.public]] 
 
-### #is_/same_as :: [Group-03-Scandium.internal](/_internal/Chemistry/Chemical_Element/Group-03-Scandium.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Chemical_Element/Group-03-Scandium.internal|Group-03-Scandium.internal]] 
 
-### #is_/same_as :: [Group-03-Scandium.protect](/_protect/Chemistry/Chemical_Element/Group-03-Scandium.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Chemical_Element/Group-03-Scandium.protect|Group-03-Scandium.protect]] 
 
-### #is_/same_as :: [Group-03-Scandium.private](/_private/Chemistry/Chemical_Element/Group-03-Scandium.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Chemical_Element/Group-03-Scandium.private|Group-03-Scandium.private]] 
 
-### #is_/same_as :: [Group-03-Scandium.personal](/_personal/Chemistry/Chemical_Element/Group-03-Scandium.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Chemical_Element/Group-03-Scandium.personal|Group-03-Scandium.personal]] 
 
-### #is_/same_as :: [Group-03-Scandium.secret](/_secret/Chemistry/Chemical_Element/Group-03-Scandium.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Chemical_Element/Group-03-Scandium.secret|Group-03-Scandium.secret]] 
 

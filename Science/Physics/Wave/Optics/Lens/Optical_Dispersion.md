@@ -62,17 +62,17 @@ defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Optical_Dispersion](/_Standards/Science/Physics/Wave/Optics/Lens/Optical_Dispersion.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Wave/Optics/Lens/Optical_Dispersion|Optical_Dispersion]] 
 
-### #is_/same_as :: [Optical_Dispersion.public](/_public/Science/Physics/Wave/Optics/Lens/Optical_Dispersion.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Wave/Optics/Lens/Optical_Dispersion.public|Optical_Dispersion.public]] 
 
-### #is_/same_as :: [Optical_Dispersion.internal](/_internal/Science/Physics/Wave/Optics/Lens/Optical_Dispersion.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Wave/Optics/Lens/Optical_Dispersion.internal|Optical_Dispersion.internal]] 
 
-### #is_/same_as :: [Optical_Dispersion.protect](/_protect/Science/Physics/Wave/Optics/Lens/Optical_Dispersion.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Wave/Optics/Lens/Optical_Dispersion.protect|Optical_Dispersion.protect]] 
 
-### #is_/same_as :: [Optical_Dispersion.private](/_private/Science/Physics/Wave/Optics/Lens/Optical_Dispersion.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Wave/Optics/Lens/Optical_Dispersion.private|Optical_Dispersion.private]] 
 
-### #is_/same_as :: [Optical_Dispersion.personal](/_personal/Science/Physics/Wave/Optics/Lens/Optical_Dispersion.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Wave/Optics/Lens/Optical_Dispersion.personal|Optical_Dispersion.personal]] 
 
-### #is_/same_as :: [Optical_Dispersion.secret](/_secret/Science/Physics/Wave/Optics/Lens/Optical_Dispersion.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Wave/Optics/Lens/Optical_Dispersion.secret|Optical_Dispersion.secret]] 
 

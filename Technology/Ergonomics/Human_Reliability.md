@@ -40,17 +40,17 @@ instance_of: '[[_Standards/WikiData/WD~contributing_factor,18603648]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Human_Reliability](/_Standards/Technology/Ergonomics/Human_Reliability.md) 
+### #is_/same_as :: [[/_Standards/Technology/Ergonomics/Human_Reliability|Human_Reliability]] 
 
-### #is_/same_as :: [Human_Reliability.public](/_public/Technology/Ergonomics/Human_Reliability.public.md) 
+### #is_/same_as :: [[/_public/Technology/Ergonomics/Human_Reliability.public|Human_Reliability.public]] 
 
-### #is_/same_as :: [Human_Reliability.internal](/_internal/Technology/Ergonomics/Human_Reliability.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Ergonomics/Human_Reliability.internal|Human_Reliability.internal]] 
 
-### #is_/same_as :: [Human_Reliability.protect](/_protect/Technology/Ergonomics/Human_Reliability.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Ergonomics/Human_Reliability.protect|Human_Reliability.protect]] 
 
-### #is_/same_as :: [Human_Reliability.private](/_private/Technology/Ergonomics/Human_Reliability.private.md) 
+### #is_/same_as :: [[/_private/Technology/Ergonomics/Human_Reliability.private|Human_Reliability.private]] 
 
-### #is_/same_as :: [Human_Reliability.personal](/_personal/Technology/Ergonomics/Human_Reliability.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Ergonomics/Human_Reliability.personal|Human_Reliability.personal]] 
 
-### #is_/same_as :: [Human_Reliability.secret](/_secret/Technology/Ergonomics/Human_Reliability.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Ergonomics/Human_Reliability.secret|Human_Reliability.secret]] 
 

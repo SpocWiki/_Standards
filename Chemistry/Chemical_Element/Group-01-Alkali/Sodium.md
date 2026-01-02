@@ -195,17 +195,17 @@ But they don't require rare Graphite and can work with amorphous [[../Group-14-C
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sodium](/_Standards/Chemistry/Chemical_Element/Group-01-Alkali/Sodium.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Chemical_Element/Group-01-Alkali/Sodium|Sodium]] 
 
-### #is_/same_as :: [Sodium.public](/_public/Chemistry/Chemical_Element/Group-01-Alkali/Sodium.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Chemical_Element/Group-01-Alkali/Sodium.public|Sodium.public]] 
 
-### #is_/same_as :: [Sodium.internal](/_internal/Chemistry/Chemical_Element/Group-01-Alkali/Sodium.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Chemical_Element/Group-01-Alkali/Sodium.internal|Sodium.internal]] 
 
-### #is_/same_as :: [Sodium.protect](/_protect/Chemistry/Chemical_Element/Group-01-Alkali/Sodium.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Chemical_Element/Group-01-Alkali/Sodium.protect|Sodium.protect]] 
 
-### #is_/same_as :: [Sodium.private](/_private/Chemistry/Chemical_Element/Group-01-Alkali/Sodium.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Chemical_Element/Group-01-Alkali/Sodium.private|Sodium.private]] 
 
-### #is_/same_as :: [Sodium.personal](/_personal/Chemistry/Chemical_Element/Group-01-Alkali/Sodium.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Chemical_Element/Group-01-Alkali/Sodium.personal|Sodium.personal]] 
 
-### #is_/same_as :: [Sodium.secret](/_secret/Chemistry/Chemical_Element/Group-01-Alkali/Sodium.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Chemical_Element/Group-01-Alkali/Sodium.secret|Sodium.secret]] 
 

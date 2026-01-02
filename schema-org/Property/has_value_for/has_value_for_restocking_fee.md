@@ -45,17 +45,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_value_for_restocking_fee](/_Standards/schema-org/Property/has_value_for/has_value_for_restocking_fee.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_value_for/has_value_for_restocking_fee|has_value_for_restocking_fee]] 
 
-### #is_/same_as :: [has_value_for_restocking_fee.public](/_public/schema-org/Property/has_value_for/has_value_for_restocking_fee.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/has_value_for/has_value_for_restocking_fee.public|has_value_for_restocking_fee.public]] 
 
-### #is_/same_as :: [has_value_for_restocking_fee.internal](/_internal/schema-org/Property/has_value_for/has_value_for_restocking_fee.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_value_for/has_value_for_restocking_fee.internal|has_value_for_restocking_fee.internal]] 
 
-### #is_/same_as :: [has_value_for_restocking_fee.protect](/_protect/schema-org/Property/has_value_for/has_value_for_restocking_fee.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_value_for/has_value_for_restocking_fee.protect|has_value_for_restocking_fee.protect]] 
 
-### #is_/same_as :: [has_value_for_restocking_fee.private](/_private/schema-org/Property/has_value_for/has_value_for_restocking_fee.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/has_value_for/has_value_for_restocking_fee.private|has_value_for_restocking_fee.private]] 
 
-### #is_/same_as :: [has_value_for_restocking_fee.personal](/_personal/schema-org/Property/has_value_for/has_value_for_restocking_fee.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_value_for/has_value_for_restocking_fee.personal|has_value_for_restocking_fee.personal]] 
 
-### #is_/same_as :: [has_value_for_restocking_fee.secret](/_secret/schema-org/Property/has_value_for/has_value_for_restocking_fee.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/has_value_for/has_value_for_restocking_fee.secret|has_value_for_restocking_fee.secret]] 
 

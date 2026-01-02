@@ -69,17 +69,17 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/18th%20National%20Cong
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Single-Party_System](/_Standards/Society/Politics/Government/Single-Party_System.md) 
+### #is_/same_as :: [[/_Standards/Society/Politics/Government/Single-Party_System|Single-Party_System]] 
 
-### #is_/same_as :: [Single-Party_System.public](/_public/Society/Politics/Government/Single-Party_System.public.md) 
+### #is_/same_as :: [[/_public/Society/Politics/Government/Single-Party_System.public|Single-Party_System.public]] 
 
-### #is_/same_as :: [Single-Party_System.internal](/_internal/Society/Politics/Government/Single-Party_System.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Politics/Government/Single-Party_System.internal|Single-Party_System.internal]] 
 
-### #is_/same_as :: [Single-Party_System.protect](/_protect/Society/Politics/Government/Single-Party_System.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Politics/Government/Single-Party_System.protect|Single-Party_System.protect]] 
 
-### #is_/same_as :: [Single-Party_System.private](/_private/Society/Politics/Government/Single-Party_System.private.md) 
+### #is_/same_as :: [[/_private/Society/Politics/Government/Single-Party_System.private|Single-Party_System.private]] 
 
-### #is_/same_as :: [Single-Party_System.personal](/_personal/Society/Politics/Government/Single-Party_System.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Politics/Government/Single-Party_System.personal|Single-Party_System.personal]] 
 
-### #is_/same_as :: [Single-Party_System.secret](/_secret/Society/Politics/Government/Single-Party_System.secret.md)
+### #is_/same_as :: [[/_secret/Society/Politics/Government/Single-Party_System.secret|Single-Party_System.secret]] 
 

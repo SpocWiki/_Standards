@@ -51,17 +51,17 @@ Dewey_Decimal_Classification: 004.0151
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Theoretical_Computer_Science](/_Standards/Technology/IT/Computer_Science/Theoretical_Computer_Science.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Computer_Science/Theoretical_Computer_Science|Theoretical_Computer_Science]] 
 
-### #is_/same_as :: [Theoretical_Computer_Science.public](/_public/Technology/IT/Computer_Science/Theoretical_Computer_Science.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Computer_Science/Theoretical_Computer_Science.public|Theoretical_Computer_Science.public]] 
 
-### #is_/same_as :: [Theoretical_Computer_Science.internal](/_internal/Technology/IT/Computer_Science/Theoretical_Computer_Science.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Computer_Science/Theoretical_Computer_Science.internal|Theoretical_Computer_Science.internal]] 
 
-### #is_/same_as :: [Theoretical_Computer_Science.protect](/_protect/Technology/IT/Computer_Science/Theoretical_Computer_Science.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Computer_Science/Theoretical_Computer_Science.protect|Theoretical_Computer_Science.protect]] 
 
-### #is_/same_as :: [Theoretical_Computer_Science.private](/_private/Technology/IT/Computer_Science/Theoretical_Computer_Science.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Computer_Science/Theoretical_Computer_Science.private|Theoretical_Computer_Science.private]] 
 
-### #is_/same_as :: [Theoretical_Computer_Science.personal](/_personal/Technology/IT/Computer_Science/Theoretical_Computer_Science.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Computer_Science/Theoretical_Computer_Science.personal|Theoretical_Computer_Science.personal]] 
 
-### #is_/same_as :: [Theoretical_Computer_Science.secret](/_secret/Technology/IT/Computer_Science/Theoretical_Computer_Science.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Computer_Science/Theoretical_Computer_Science.secret|Theoretical_Computer_Science.secret]] 
 

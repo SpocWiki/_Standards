@@ -55,17 +55,17 @@ coordinate_location: Point(-0.05 16.26666667)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [1464-Songhai_Empire+1591](/_Standards/Earth/Continent/Africa/Africa~West/1464-Songhai_Empire+1591.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~West/1464-Songhai_Empire+1591|1464-Songhai_Empire+1591]] 
 
-### #is_/same_as :: [1464-Songhai_Empire+1591.public](/_public/Earth/Continent/Africa/Africa~West/1464-Songhai_Empire+1591.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~West/1464-Songhai_Empire+1591.public|1464-Songhai_Empire+1591.public]] 
 
-### #is_/same_as :: [1464-Songhai_Empire+1591.internal](/_internal/Earth/Continent/Africa/Africa~West/1464-Songhai_Empire+1591.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~West/1464-Songhai_Empire+1591.internal|1464-Songhai_Empire+1591.internal]] 
 
-### #is_/same_as :: [1464-Songhai_Empire+1591.protect](/_protect/Earth/Continent/Africa/Africa~West/1464-Songhai_Empire+1591.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~West/1464-Songhai_Empire+1591.protect|1464-Songhai_Empire+1591.protect]] 
 
-### #is_/same_as :: [1464-Songhai_Empire+1591.private](/_private/Earth/Continent/Africa/Africa~West/1464-Songhai_Empire+1591.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~West/1464-Songhai_Empire+1591.private|1464-Songhai_Empire+1591.private]] 
 
-### #is_/same_as :: [1464-Songhai_Empire+1591.personal](/_personal/Earth/Continent/Africa/Africa~West/1464-Songhai_Empire+1591.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~West/1464-Songhai_Empire+1591.personal|1464-Songhai_Empire+1591.personal]] 
 
-### #is_/same_as :: [1464-Songhai_Empire+1591.secret](/_secret/Earth/Continent/Africa/Africa~West/1464-Songhai_Empire+1591.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~West/1464-Songhai_Empire+1591.secret|1464-Songhai_Empire+1591.secret]] 
 

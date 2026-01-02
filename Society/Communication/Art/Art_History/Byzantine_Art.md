@@ -55,17 +55,17 @@ hashtag_: Byzantineart
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Byzantine_Art](/_Standards/Society/Communication/Art/Art_History/Byzantine_Art.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Art/Art_History/Byzantine_Art|Byzantine_Art]] 
 
-### #is_/same_as :: [Byzantine_Art.public](/_public/Society/Communication/Art/Art_History/Byzantine_Art.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Art/Art_History/Byzantine_Art.public|Byzantine_Art.public]] 
 
-### #is_/same_as :: [Byzantine_Art.internal](/_internal/Society/Communication/Art/Art_History/Byzantine_Art.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Art/Art_History/Byzantine_Art.internal|Byzantine_Art.internal]] 
 
-### #is_/same_as :: [Byzantine_Art.protect](/_protect/Society/Communication/Art/Art_History/Byzantine_Art.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Art/Art_History/Byzantine_Art.protect|Byzantine_Art.protect]] 
 
-### #is_/same_as :: [Byzantine_Art.private](/_private/Society/Communication/Art/Art_History/Byzantine_Art.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Art/Art_History/Byzantine_Art.private|Byzantine_Art.private]] 
 
-### #is_/same_as :: [Byzantine_Art.personal](/_personal/Society/Communication/Art/Art_History/Byzantine_Art.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Art/Art_History/Byzantine_Art.personal|Byzantine_Art.personal]] 
 
-### #is_/same_as :: [Byzantine_Art.secret](/_secret/Society/Communication/Art/Art_History/Byzantine_Art.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Art/Art_History/Byzantine_Art.secret|Byzantine_Art.secret]] 
 

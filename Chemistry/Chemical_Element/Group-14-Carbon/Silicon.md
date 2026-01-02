@@ -137,17 +137,17 @@ Group :: [[../Group-14-Carbon]]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Silicon](/_Standards/Chemistry/Chemical_Element/Group-14-Carbon/Silicon.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Chemical_Element/Group-14-Carbon/Silicon|Silicon]] 
 
-### #is_/same_as :: [Silicon.public](/_public/Chemistry/Chemical_Element/Group-14-Carbon/Silicon.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Chemical_Element/Group-14-Carbon/Silicon.public|Silicon.public]] 
 
-### #is_/same_as :: [Silicon.internal](/_internal/Chemistry/Chemical_Element/Group-14-Carbon/Silicon.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Chemical_Element/Group-14-Carbon/Silicon.internal|Silicon.internal]] 
 
-### #is_/same_as :: [Silicon.protect](/_protect/Chemistry/Chemical_Element/Group-14-Carbon/Silicon.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Chemical_Element/Group-14-Carbon/Silicon.protect|Silicon.protect]] 
 
-### #is_/same_as :: [Silicon.private](/_private/Chemistry/Chemical_Element/Group-14-Carbon/Silicon.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Chemical_Element/Group-14-Carbon/Silicon.private|Silicon.private]] 
 
-### #is_/same_as :: [Silicon.personal](/_personal/Chemistry/Chemical_Element/Group-14-Carbon/Silicon.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Chemical_Element/Group-14-Carbon/Silicon.personal|Silicon.personal]] 
 
-### #is_/same_as :: [Silicon.secret](/_secret/Chemistry/Chemical_Element/Group-14-Carbon/Silicon.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Chemical_Element/Group-14-Carbon/Silicon.secret|Silicon.secret]] 
 

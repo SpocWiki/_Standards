@@ -121,17 +121,17 @@ X_Twitter_username: LaTourEiffel
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Eiffel_Tower](/_Standards/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Eiffel_Tower.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Eiffel_Tower|Eiffel_Tower]] 
 
-### #is_/same_as :: [Eiffel_Tower.public](/_public/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Eiffel_Tower.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Eiffel_Tower.public|Eiffel_Tower.public]] 
 
-### #is_/same_as :: [Eiffel_Tower.internal](/_internal/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Eiffel_Tower.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Eiffel_Tower.internal|Eiffel_Tower.internal]] 
 
-### #is_/same_as :: [Eiffel_Tower.protect](/_protect/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Eiffel_Tower.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Eiffel_Tower.protect|Eiffel_Tower.protect]] 
 
-### #is_/same_as :: [Eiffel_Tower.private](/_private/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Eiffel_Tower.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Eiffel_Tower.private|Eiffel_Tower.private]] 
 
-### #is_/same_as :: [Eiffel_Tower.personal](/_personal/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Eiffel_Tower.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Eiffel_Tower.personal|Eiffel_Tower.personal]] 
 
-### #is_/same_as :: [Eiffel_Tower.secret](/_secret/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Eiffel_Tower.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Eiffel_Tower.secret|Eiffel_Tower.secret]] 
 

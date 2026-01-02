@@ -101,7 +101,7 @@ Ruellia (Acanthaceae). Systematic Botany, in press.
 
 ## Title Illustrations
 
-![](Blechum/Blechum_pyramidatum_T_87A84-1.jpg))
+![](Blechum/Blechum_pyramidatum_T_87A84-1.jpg) 
 
   -----------------------------------------------------------------------
   Scientific Name ::     Blechum pyramidatum (Lam.) Urb.
@@ -111,7 +111,7 @@ Ruellia (Acanthaceae). Systematic Botany, in press.
   Copyright ::            © [Erin Tripp](mailto:erin.tripp@duke.edu) 
  
   -----------------------------------------------------------------------
-![](Blechum/blechum.jpg))
+![](Blechum/blechum.jpg) 
 
   ---------------------------------------------------------------------------
   Scientific Name ::     Blechum pyramidatum (Lam.) Urb.
@@ -121,21 +121,21 @@ Ruellia (Acanthaceae). Systematic Botany, in press.
   Copyright ::            © 2006 [Lucinda A. McDade](mailto:lucinda.mcdade@cgu.edu) 
  
   ---------------------------------------------------------------------------
-![](Blechum/leavesflowers.jpg))
+![](Blechum/leavesflowers.jpg) 
 
   ---------------------------------
   Scientific Name ::     Blechum costaricense Oerst.
   Specimen Condition   Live Specimen
   Copyright ::            © [L. Gilbert, UT Austin](http://www.utexas.edu/courses/zoo384l/sirena/species/plants/a/)
   ---------------------------------
-![](Blechum/R_maya_et157.jpg))
+![](Blechum/R_maya_et157.jpg) 
 
   ----------------------------------------------------------------------
   Scientific Name ::  Ruellia maya T.F. Daniel
   Copyright ::         © [Erin Tripp](mailto:erin.tripp@duke.edu) 
  
   ----------------------------------------------------------------------
-![](Blechum/picture927.jpg))
+![](Blechum/picture927.jpg) 
 
   -----------------------------------------------------------------------
   Scientific Name ::     Ruellia longepetiolata (Oerst.) Hemsl.
@@ -149,17 +149,17 @@ Ruellia (Acanthaceae). Systematic Botany, in press.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Blechum](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Ruellieae/Ruellia/Blechum.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Ruellieae/Ruellia/Blechum|Blechum]] 
 
-### #is_/same_as :: [Blechum.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Ruellieae/Ruellia/Blechum.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Ruellieae/Ruellia/Blechum.public|Blechum.public]] 
 
-### #is_/same_as :: [Blechum.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Ruellieae/Ruellia/Blechum.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Ruellieae/Ruellia/Blechum.internal|Blechum.internal]] 
 
-### #is_/same_as :: [Blechum.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Ruellieae/Ruellia/Blechum.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Ruellieae/Ruellia/Blechum.protect|Blechum.protect]] 
 
-### #is_/same_as :: [Blechum.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Ruellieae/Ruellia/Blechum.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Ruellieae/Ruellia/Blechum.private|Blechum.private]] 
 
-### #is_/same_as :: [Blechum.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Ruellieae/Ruellia/Blechum.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Ruellieae/Ruellia/Blechum.personal|Blechum.personal]] 
 
-### #is_/same_as :: [Blechum.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Ruellieae/Ruellia/Blechum.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Ruellieae/Ruellia/Blechum.secret|Blechum.secret]] 
 

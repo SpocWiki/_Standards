@@ -39,17 +39,17 @@ This is the Schema to the [[../../schema-org/Class/is_a_/Intangible|Intangible]]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~Intangible](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Intangible|FileClass~Intangible]] 
 
-### #is_/same_as :: [FileClass~Intangible.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Intangible.public|FileClass~Intangible.public]] 
 
-### #is_/same_as :: [FileClass~Intangible.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Intangible.internal|FileClass~Intangible.internal]] 
 
-### #is_/same_as :: [FileClass~Intangible.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Intangible.protect|FileClass~Intangible.protect]] 
 
-### #is_/same_as :: [FileClass~Intangible.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Intangible.private|FileClass~Intangible.private]] 
 
-### #is_/same_as :: [FileClass~Intangible.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Intangible.personal|FileClass~Intangible.personal]] 
 
-### #is_/same_as :: [FileClass~Intangible.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Intangible.secret|FileClass~Intangible.secret]] 
 

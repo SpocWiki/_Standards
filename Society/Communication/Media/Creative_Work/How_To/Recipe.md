@@ -39,17 +39,17 @@ A recipe. For dietary restrictions covered by the recipe, a few common restricti
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Recipe](/_Standards/Society/Communication/Media/Creative_Work/How_To/Recipe.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Creative_Work/How_To/Recipe|Recipe]] 
 
-### #is_/same_as :: [Recipe.public](/_public/Society/Communication/Media/Creative_Work/How_To/Recipe.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Creative_Work/How_To/Recipe.public|Recipe.public]] 
 
-### #is_/same_as :: [Recipe.internal](/_internal/Society/Communication/Media/Creative_Work/How_To/Recipe.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Creative_Work/How_To/Recipe.internal|Recipe.internal]] 
 
-### #is_/same_as :: [Recipe.protect](/_protect/Society/Communication/Media/Creative_Work/How_To/Recipe.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Creative_Work/How_To/Recipe.protect|Recipe.protect]] 
 
-### #is_/same_as :: [Recipe.private](/_private/Society/Communication/Media/Creative_Work/How_To/Recipe.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Creative_Work/How_To/Recipe.private|Recipe.private]] 
 
-### #is_/same_as :: [Recipe.personal](/_personal/Society/Communication/Media/Creative_Work/How_To/Recipe.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/How_To/Recipe.personal|Recipe.personal]] 
 
-### #is_/same_as :: [Recipe.secret](/_secret/Society/Communication/Media/Creative_Work/How_To/Recipe.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/How_To/Recipe.secret|Recipe.secret]] 
 

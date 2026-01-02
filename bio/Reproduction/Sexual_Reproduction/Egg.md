@@ -75,17 +75,17 @@ name: ꠄꠘ꠆ꠒꠣ
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Egg](/_Standards/bio/Reproduction/Sexual_Reproduction/Egg.md) 
+### #is_/same_as :: [[/_Standards/bio/Reproduction/Sexual_Reproduction/Egg|Egg]] 
 
-### #is_/same_as :: [Egg.public](/_public/bio/Reproduction/Sexual_Reproduction/Egg.public.md) 
+### #is_/same_as :: [[/_public/bio/Reproduction/Sexual_Reproduction/Egg.public|Egg.public]] 
 
-### #is_/same_as :: [Egg.internal](/_internal/bio/Reproduction/Sexual_Reproduction/Egg.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Reproduction/Sexual_Reproduction/Egg.internal|Egg.internal]] 
 
-### #is_/same_as :: [Egg.protect](/_protect/bio/Reproduction/Sexual_Reproduction/Egg.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Reproduction/Sexual_Reproduction/Egg.protect|Egg.protect]] 
 
-### #is_/same_as :: [Egg.private](/_private/bio/Reproduction/Sexual_Reproduction/Egg.private.md) 
+### #is_/same_as :: [[/_private/bio/Reproduction/Sexual_Reproduction/Egg.private|Egg.private]] 
 
-### #is_/same_as :: [Egg.personal](/_personal/bio/Reproduction/Sexual_Reproduction/Egg.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Reproduction/Sexual_Reproduction/Egg.personal|Egg.personal]] 
 
-### #is_/same_as :: [Egg.secret](/_secret/bio/Reproduction/Sexual_Reproduction/Egg.secret.md)
+### #is_/same_as :: [[/_secret/bio/Reproduction/Sexual_Reproduction/Egg.secret|Egg.secret]] 
 

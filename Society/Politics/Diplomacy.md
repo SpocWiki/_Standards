@@ -69,17 +69,17 @@ topic_has_template: '[[_Standards/WikiData/WD~Template_Diplomacy,13502958]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Diplomacy](/_Standards/Society/Politics/Diplomacy.md) 
+### #is_/same_as :: [[/_Standards/Society/Politics/Diplomacy|Diplomacy]] 
 
-### #is_/same_as :: [Diplomacy.public](/_public/Society/Politics/Diplomacy.public.md) 
+### #is_/same_as :: [[/_public/Society/Politics/Diplomacy.public|Diplomacy.public]] 
 
-### #is_/same_as :: [Diplomacy.internal](/_internal/Society/Politics/Diplomacy.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Politics/Diplomacy.internal|Diplomacy.internal]] 
 
-### #is_/same_as :: [Diplomacy.protect](/_protect/Society/Politics/Diplomacy.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Politics/Diplomacy.protect|Diplomacy.protect]] 
 
-### #is_/same_as :: [Diplomacy.private](/_private/Society/Politics/Diplomacy.private.md) 
+### #is_/same_as :: [[/_private/Society/Politics/Diplomacy.private|Diplomacy.private]] 
 
-### #is_/same_as :: [Diplomacy.personal](/_personal/Society/Politics/Diplomacy.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Politics/Diplomacy.personal|Diplomacy.personal]] 
 
-### #is_/same_as :: [Diplomacy.secret](/_secret/Society/Politics/Diplomacy.secret.md)
+### #is_/same_as :: [[/_secret/Society/Politics/Diplomacy.secret|Diplomacy.secret]] 
 

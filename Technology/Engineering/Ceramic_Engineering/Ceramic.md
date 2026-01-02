@@ -62,17 +62,17 @@ Library_of_Congress_Classification: TA455.C43
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ceramic](/_Standards/Technology/Engineering/Ceramic_Engineering/Ceramic.md) 
+### #is_/same_as :: [[/_Standards/Technology/Engineering/Ceramic_Engineering/Ceramic|Ceramic]] 
 
-### #is_/same_as :: [Ceramic.public](/_public/Technology/Engineering/Ceramic_Engineering/Ceramic.public.md) 
+### #is_/same_as :: [[/_public/Technology/Engineering/Ceramic_Engineering/Ceramic.public|Ceramic.public]] 
 
-### #is_/same_as :: [Ceramic.internal](/_internal/Technology/Engineering/Ceramic_Engineering/Ceramic.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Engineering/Ceramic_Engineering/Ceramic.internal|Ceramic.internal]] 
 
-### #is_/same_as :: [Ceramic.protect](/_protect/Technology/Engineering/Ceramic_Engineering/Ceramic.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Engineering/Ceramic_Engineering/Ceramic.protect|Ceramic.protect]] 
 
-### #is_/same_as :: [Ceramic.private](/_private/Technology/Engineering/Ceramic_Engineering/Ceramic.private.md) 
+### #is_/same_as :: [[/_private/Technology/Engineering/Ceramic_Engineering/Ceramic.private|Ceramic.private]] 
 
-### #is_/same_as :: [Ceramic.personal](/_personal/Technology/Engineering/Ceramic_Engineering/Ceramic.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Engineering/Ceramic_Engineering/Ceramic.personal|Ceramic.personal]] 
 
-### #is_/same_as :: [Ceramic.secret](/_secret/Technology/Engineering/Ceramic_Engineering/Ceramic.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Engineering/Ceramic_Engineering/Ceramic.secret|Ceramic.secret]] 
 

@@ -37,17 +37,17 @@ A city hall.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~CityHall](/_Standards/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~GovernmentBuilding/FileClass~CityHall.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~GovernmentBuilding/FileClass~CityHall|FileClass~CityHall]] 
 
-### #is_/same_as :: [FileClass~CityHall.public](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~GovernmentBuilding/FileClass~CityHall.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~GovernmentBuilding/FileClass~CityHall.public|FileClass~CityHall.public]] 
 
-### #is_/same_as :: [FileClass~CityHall.internal](/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~GovernmentBuilding/FileClass~CityHall.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~GovernmentBuilding/FileClass~CityHall.internal|FileClass~CityHall.internal]] 
 
-### #is_/same_as :: [FileClass~CityHall.protect](/_protect/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~GovernmentBuilding/FileClass~CityHall.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~GovernmentBuilding/FileClass~CityHall.protect|FileClass~CityHall.protect]] 
 
-### #is_/same_as :: [FileClass~CityHall.private](/_private/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~GovernmentBuilding/FileClass~CityHall.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~GovernmentBuilding/FileClass~CityHall.private|FileClass~CityHall.private]] 
 
-### #is_/same_as :: [FileClass~CityHall.personal](/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~GovernmentBuilding/FileClass~CityHall.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~GovernmentBuilding/FileClass~CityHall.personal|FileClass~CityHall.personal]] 
 
-### #is_/same_as :: [FileClass~CityHall.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~GovernmentBuilding/FileClass~CityHall.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~GovernmentBuilding/FileClass~CityHall.secret|FileClass~CityHall.secret]] 
 

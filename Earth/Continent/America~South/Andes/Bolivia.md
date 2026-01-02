@@ -524,17 +524,17 @@ Capital :: [[Bolivia/Counties/Chuquisaca/City/Sucre]]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bolivia](/_Standards/Earth/Continent/America~South/Andes/Bolivia.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~South/Andes/Bolivia|Bolivia]] 
 
-### #is_/same_as :: [Bolivia.public](/_public/Earth/Continent/America~South/Andes/Bolivia.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~South/Andes/Bolivia.public|Bolivia.public]] 
 
-### #is_/same_as :: [Bolivia.internal](/_internal/Earth/Continent/America~South/Andes/Bolivia.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~South/Andes/Bolivia.internal|Bolivia.internal]] 
 
-### #is_/same_as :: [Bolivia.protect](/_protect/Earth/Continent/America~South/Andes/Bolivia.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~South/Andes/Bolivia.protect|Bolivia.protect]] 
 
-### #is_/same_as :: [Bolivia.private](/_private/Earth/Continent/America~South/Andes/Bolivia.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~South/Andes/Bolivia.private|Bolivia.private]] 
 
-### #is_/same_as :: [Bolivia.personal](/_personal/Earth/Continent/America~South/Andes/Bolivia.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~South/Andes/Bolivia.personal|Bolivia.personal]] 
 
-### #is_/same_as :: [Bolivia.secret](/_secret/Earth/Continent/America~South/Andes/Bolivia.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~South/Andes/Bolivia.secret|Bolivia.secret]] 
 

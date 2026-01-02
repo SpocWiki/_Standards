@@ -92,17 +92,17 @@ inception: 1919-01-01T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [IUPAC(International_Union_of_Pure_and_Applied_Chemistry)](/_Standards/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/IUPAC(International_Union_of_Pure_and_Applied_Chemistry).md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/IUPAC(International_Union_of_Pure_and_Applied_Chemistry)|IUPAC(International_Union_of_Pure_and_Applied_Chemistry)]] 
 
-### #is_/same_as :: [IUPAC(International_Union_of_Pure_and_Applied_Chemistry).public](/_public/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/IUPAC(International_Union_of_Pure_and_Applied_Chemistry).public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/IUPAC(International_Union_of_Pure_and_Applied_Chemistry).public|IUPAC(International_Union_of_Pure_and_Applied_Chemistry).public]] 
 
-### #is_/same_as :: [IUPAC(International_Union_of_Pure_and_Applied_Chemistry).internal](/_internal/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/IUPAC(International_Union_of_Pure_and_Applied_Chemistry).internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/IUPAC(International_Union_of_Pure_and_Applied_Chemistry).internal|IUPAC(International_Union_of_Pure_and_Applied_Chemistry).internal]] 
 
-### #is_/same_as :: [IUPAC(International_Union_of_Pure_and_Applied_Chemistry).protect](/_protect/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/IUPAC(International_Union_of_Pure_and_Applied_Chemistry).protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/IUPAC(International_Union_of_Pure_and_Applied_Chemistry).protect|IUPAC(International_Union_of_Pure_and_Applied_Chemistry).protect]] 
 
-### #is_/same_as :: [IUPAC(International_Union_of_Pure_and_Applied_Chemistry).private](/_private/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/IUPAC(International_Union_of_Pure_and_Applied_Chemistry).private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/IUPAC(International_Union_of_Pure_and_Applied_Chemistry).private|IUPAC(International_Union_of_Pure_and_Applied_Chemistry).private]] 
 
-### #is_/same_as :: [IUPAC(International_Union_of_Pure_and_Applied_Chemistry).personal](/_personal/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/IUPAC(International_Union_of_Pure_and_Applied_Chemistry).personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/IUPAC(International_Union_of_Pure_and_Applied_Chemistry).personal|IUPAC(International_Union_of_Pure_and_Applied_Chemistry).personal]] 
 
-### #is_/same_as :: [IUPAC(International_Union_of_Pure_and_Applied_Chemistry).secret](/_secret/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/IUPAC(International_Union_of_Pure_and_Applied_Chemistry).secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/IUPAC(International_Union_of_Pure_and_Applied_Chemistry).secret|IUPAC(International_Union_of_Pure_and_Applied_Chemistry).secret]] 
 

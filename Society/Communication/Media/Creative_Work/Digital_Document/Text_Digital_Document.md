@@ -41,17 +41,17 @@ A file composed primarily of text.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Text_Digital_Document](/_Standards/Society/Communication/Media/Creative_Work/Digital_Document/Text_Digital_Document.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Creative_Work/Digital_Document/Text_Digital_Document|Text_Digital_Document]] 
 
-### #is_/same_as :: [Text_Digital_Document.public](/_public/Society/Communication/Media/Creative_Work/Digital_Document/Text_Digital_Document.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Creative_Work/Digital_Document/Text_Digital_Document.public|Text_Digital_Document.public]] 
 
-### #is_/same_as :: [Text_Digital_Document.internal](/_internal/Society/Communication/Media/Creative_Work/Digital_Document/Text_Digital_Document.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Creative_Work/Digital_Document/Text_Digital_Document.internal|Text_Digital_Document.internal]] 
 
-### #is_/same_as :: [Text_Digital_Document.protect](/_protect/Society/Communication/Media/Creative_Work/Digital_Document/Text_Digital_Document.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Creative_Work/Digital_Document/Text_Digital_Document.protect|Text_Digital_Document.protect]] 
 
-### #is_/same_as :: [Text_Digital_Document.private](/_private/Society/Communication/Media/Creative_Work/Digital_Document/Text_Digital_Document.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Creative_Work/Digital_Document/Text_Digital_Document.private|Text_Digital_Document.private]] 
 
-### #is_/same_as :: [Text_Digital_Document.personal](/_personal/Society/Communication/Media/Creative_Work/Digital_Document/Text_Digital_Document.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/Digital_Document/Text_Digital_Document.personal|Text_Digital_Document.personal]] 
 
-### #is_/same_as :: [Text_Digital_Document.secret](/_secret/Society/Communication/Media/Creative_Work/Digital_Document/Text_Digital_Document.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Digital_Document/Text_Digital_Document.secret|Text_Digital_Document.secret]] 
 

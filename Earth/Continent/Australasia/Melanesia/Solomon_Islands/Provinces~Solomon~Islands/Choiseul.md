@@ -40,17 +40,17 @@ markerFolder: ./Choiseul/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Choiseul](/_Standards/Earth/Continent/Australasia/Melanesia/Solomon_Islands/Provinces~Solomon~Islands/Choiseul.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Australasia/Melanesia/Solomon_Islands/Provinces~Solomon~Islands/Choiseul|Choiseul]] 
 
-### #is_/same_as :: [Choiseul.public](/_public/Earth/Continent/Australasia/Melanesia/Solomon_Islands/Provinces~Solomon~Islands/Choiseul.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Australasia/Melanesia/Solomon_Islands/Provinces~Solomon~Islands/Choiseul.public|Choiseul.public]] 
 
-### #is_/same_as :: [Choiseul.internal](/_internal/Earth/Continent/Australasia/Melanesia/Solomon_Islands/Provinces~Solomon~Islands/Choiseul.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Australasia/Melanesia/Solomon_Islands/Provinces~Solomon~Islands/Choiseul.internal|Choiseul.internal]] 
 
-### #is_/same_as :: [Choiseul.protect](/_protect/Earth/Continent/Australasia/Melanesia/Solomon_Islands/Provinces~Solomon~Islands/Choiseul.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Australasia/Melanesia/Solomon_Islands/Provinces~Solomon~Islands/Choiseul.protect|Choiseul.protect]] 
 
-### #is_/same_as :: [Choiseul.private](/_private/Earth/Continent/Australasia/Melanesia/Solomon_Islands/Provinces~Solomon~Islands/Choiseul.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Australasia/Melanesia/Solomon_Islands/Provinces~Solomon~Islands/Choiseul.private|Choiseul.private]] 
 
-### #is_/same_as :: [Choiseul.personal](/_personal/Earth/Continent/Australasia/Melanesia/Solomon_Islands/Provinces~Solomon~Islands/Choiseul.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Australasia/Melanesia/Solomon_Islands/Provinces~Solomon~Islands/Choiseul.personal|Choiseul.personal]] 
 
-### #is_/same_as :: [Choiseul.secret](/_secret/Earth/Continent/Australasia/Melanesia/Solomon_Islands/Provinces~Solomon~Islands/Choiseul.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Australasia/Melanesia/Solomon_Islands/Provinces~Solomon~Islands/Choiseul.secret|Choiseul.secret]] 
 

@@ -44,17 +44,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_code_icao](/_Standards/schema-org/Property/has_name/has_code_icao.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_name/has_code_icao|has_code_icao]] 
 
-### #is_/same_as :: [has_code_icao.public](/_public/schema-org/Property/has_name/has_code_icao.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/has_name/has_code_icao.public|has_code_icao.public]] 
 
-### #is_/same_as :: [has_code_icao.internal](/_internal/schema-org/Property/has_name/has_code_icao.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_name/has_code_icao.internal|has_code_icao.internal]] 
 
-### #is_/same_as :: [has_code_icao.protect](/_protect/schema-org/Property/has_name/has_code_icao.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_name/has_code_icao.protect|has_code_icao.protect]] 
 
-### #is_/same_as :: [has_code_icao.private](/_private/schema-org/Property/has_name/has_code_icao.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/has_name/has_code_icao.private|has_code_icao.private]] 
 
-### #is_/same_as :: [has_code_icao.personal](/_personal/schema-org/Property/has_name/has_code_icao.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_name/has_code_icao.personal|has_code_icao.personal]] 
 
-### #is_/same_as :: [has_code_icao.secret](/_secret/schema-org/Property/has_name/has_code_icao.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/has_name/has_code_icao.secret|has_code_icao.secret]] 
 

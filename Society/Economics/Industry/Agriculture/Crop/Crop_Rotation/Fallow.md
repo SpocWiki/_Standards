@@ -30,17 +30,17 @@ has_id_wikidata: ''
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Fallow](/_Standards/Society/Economics/Industry/Agriculture/Crop/Crop_Rotation/Fallow.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Industry/Agriculture/Crop/Crop_Rotation/Fallow|Fallow]] 
 
-### #is_/same_as :: [Fallow.public](/_public/Society/Economics/Industry/Agriculture/Crop/Crop_Rotation/Fallow.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Industry/Agriculture/Crop/Crop_Rotation/Fallow.public|Fallow.public]] 
 
-### #is_/same_as :: [Fallow.internal](/_internal/Society/Economics/Industry/Agriculture/Crop/Crop_Rotation/Fallow.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Industry/Agriculture/Crop/Crop_Rotation/Fallow.internal|Fallow.internal]] 
 
-### #is_/same_as :: [Fallow.protect](/_protect/Society/Economics/Industry/Agriculture/Crop/Crop_Rotation/Fallow.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Industry/Agriculture/Crop/Crop_Rotation/Fallow.protect|Fallow.protect]] 
 
-### #is_/same_as :: [Fallow.private](/_private/Society/Economics/Industry/Agriculture/Crop/Crop_Rotation/Fallow.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Industry/Agriculture/Crop/Crop_Rotation/Fallow.private|Fallow.private]] 
 
-### #is_/same_as :: [Fallow.personal](/_personal/Society/Economics/Industry/Agriculture/Crop/Crop_Rotation/Fallow.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Industry/Agriculture/Crop/Crop_Rotation/Fallow.personal|Fallow.personal]] 
 
-### #is_/same_as :: [Fallow.secret](/_secret/Society/Economics/Industry/Agriculture/Crop/Crop_Rotation/Fallow.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Industry/Agriculture/Crop/Crop_Rotation/Fallow.secret|Fallow.secret]] 
 

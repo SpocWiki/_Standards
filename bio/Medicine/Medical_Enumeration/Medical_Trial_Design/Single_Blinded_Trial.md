@@ -42,17 +42,17 @@ A trial design in which the researcher knows which treatment the patient was ran
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Single_Blinded_Trial](/_Standards/bio/Medicine/Medical_Enumeration/Medical_Trial_Design/Single_Blinded_Trial.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Enumeration/Medical_Trial_Design/Single_Blinded_Trial|Single_Blinded_Trial]] 
 
-### #is_/same_as :: [Single_Blinded_Trial.public](/_public/bio/Medicine/Medical_Enumeration/Medical_Trial_Design/Single_Blinded_Trial.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Enumeration/Medical_Trial_Design/Single_Blinded_Trial.public|Single_Blinded_Trial.public]] 
 
-### #is_/same_as :: [Single_Blinded_Trial.internal](/_internal/bio/Medicine/Medical_Enumeration/Medical_Trial_Design/Single_Blinded_Trial.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Enumeration/Medical_Trial_Design/Single_Blinded_Trial.internal|Single_Blinded_Trial.internal]] 
 
-### #is_/same_as :: [Single_Blinded_Trial.protect](/_protect/bio/Medicine/Medical_Enumeration/Medical_Trial_Design/Single_Blinded_Trial.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Enumeration/Medical_Trial_Design/Single_Blinded_Trial.protect|Single_Blinded_Trial.protect]] 
 
-### #is_/same_as :: [Single_Blinded_Trial.private](/_private/bio/Medicine/Medical_Enumeration/Medical_Trial_Design/Single_Blinded_Trial.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Enumeration/Medical_Trial_Design/Single_Blinded_Trial.private|Single_Blinded_Trial.private]] 
 
-### #is_/same_as :: [Single_Blinded_Trial.personal](/_personal/bio/Medicine/Medical_Enumeration/Medical_Trial_Design/Single_Blinded_Trial.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Enumeration/Medical_Trial_Design/Single_Blinded_Trial.personal|Single_Blinded_Trial.personal]] 
 
-### #is_/same_as :: [Single_Blinded_Trial.secret](/_secret/bio/Medicine/Medical_Enumeration/Medical_Trial_Design/Single_Blinded_Trial.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Enumeration/Medical_Trial_Design/Single_Blinded_Trial.secret|Single_Blinded_Trial.secret]] 
 

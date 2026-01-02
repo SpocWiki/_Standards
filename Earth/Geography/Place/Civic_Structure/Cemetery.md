@@ -157,17 +157,17 @@ Tag Instances like this:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Cemetery](/_Standards/Earth/Geography/Place/Civic_Structure/Cemetery.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geography/Place/Civic_Structure/Cemetery|Cemetery]] 
 
-### #is_/same_as :: [Cemetery.public](/_public/Earth/Geography/Place/Civic_Structure/Cemetery.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geography/Place/Civic_Structure/Cemetery.public|Cemetery.public]] 
 
-### #is_/same_as :: [Cemetery.internal](/_internal/Earth/Geography/Place/Civic_Structure/Cemetery.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geography/Place/Civic_Structure/Cemetery.internal|Cemetery.internal]] 
 
-### #is_/same_as :: [Cemetery.protect](/_protect/Earth/Geography/Place/Civic_Structure/Cemetery.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geography/Place/Civic_Structure/Cemetery.protect|Cemetery.protect]] 
 
-### #is_/same_as :: [Cemetery.private](/_private/Earth/Geography/Place/Civic_Structure/Cemetery.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geography/Place/Civic_Structure/Cemetery.private|Cemetery.private]] 
 
-### #is_/same_as :: [Cemetery.personal](/_personal/Earth/Geography/Place/Civic_Structure/Cemetery.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geography/Place/Civic_Structure/Cemetery.personal|Cemetery.personal]] 
 
-### #is_/same_as :: [Cemetery.secret](/_secret/Earth/Geography/Place/Civic_Structure/Cemetery.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geography/Place/Civic_Structure/Cemetery.secret|Cemetery.secret]] 
 

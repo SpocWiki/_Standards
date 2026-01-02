@@ -45,17 +45,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_required_collateral](/_Standards/schema-org/Property/Texts/has_required_collateral.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/Texts/has_required_collateral|has_required_collateral]] 
 
-### #is_/same_as :: [has_required_collateral.public](/_public/schema-org/Property/Texts/has_required_collateral.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/Texts/has_required_collateral.public|has_required_collateral.public]] 
 
-### #is_/same_as :: [has_required_collateral.internal](/_internal/schema-org/Property/Texts/has_required_collateral.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/Texts/has_required_collateral.internal|has_required_collateral.internal]] 
 
-### #is_/same_as :: [has_required_collateral.protect](/_protect/schema-org/Property/Texts/has_required_collateral.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/Texts/has_required_collateral.protect|has_required_collateral.protect]] 
 
-### #is_/same_as :: [has_required_collateral.private](/_private/schema-org/Property/Texts/has_required_collateral.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/Texts/has_required_collateral.private|has_required_collateral.private]] 
 
-### #is_/same_as :: [has_required_collateral.personal](/_personal/schema-org/Property/Texts/has_required_collateral.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/Texts/has_required_collateral.personal|has_required_collateral.personal]] 
 
-### #is_/same_as :: [has_required_collateral.secret](/_secret/schema-org/Property/Texts/has_required_collateral.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/Texts/has_required_collateral.secret|has_required_collateral.secret]] 
 

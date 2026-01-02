@@ -63,17 +63,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Depp,Johnny](/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Depp,Johnny.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Depp,Johnny|Depp,Johnny]] 
 
-### #is_/same_as :: [Depp,Johnny.public](/_public/Society/Communication/Media/Movie/Actor/US_Actor/Depp,Johnny.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Actor/US_Actor/Depp,Johnny.public|Depp,Johnny.public]] 
 
-### #is_/same_as :: [Depp,Johnny.internal](/_internal/Society/Communication/Media/Movie/Actor/US_Actor/Depp,Johnny.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Actor/US_Actor/Depp,Johnny.internal|Depp,Johnny.internal]] 
 
-### #is_/same_as :: [Depp,Johnny.protect](/_protect/Society/Communication/Media/Movie/Actor/US_Actor/Depp,Johnny.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Actor/US_Actor/Depp,Johnny.protect|Depp,Johnny.protect]] 
 
-### #is_/same_as :: [Depp,Johnny.private](/_private/Society/Communication/Media/Movie/Actor/US_Actor/Depp,Johnny.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Actor/US_Actor/Depp,Johnny.private|Depp,Johnny.private]] 
 
-### #is_/same_as :: [Depp,Johnny.personal](/_personal/Society/Communication/Media/Movie/Actor/US_Actor/Depp,Johnny.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Actor/US_Actor/Depp,Johnny.personal|Depp,Johnny.personal]] 
 
-### #is_/same_as :: [Depp,Johnny.secret](/_secret/Society/Communication/Media/Movie/Actor/US_Actor/Depp,Johnny.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Actor/US_Actor/Depp,Johnny.secret|Depp,Johnny.secret]] 
 

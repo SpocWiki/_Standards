@@ -31,17 +31,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bay,Michael](/_Standards/Society/Communication/Media/Movie/Movie-Director/Bay,Michael.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Director/Bay,Michael|Bay,Michael]] 
 
-### #is_/same_as :: [Bay,Michael.public](/_public/Society/Communication/Media/Movie/Movie-Director/Bay,Michael.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Director/Bay,Michael.public|Bay,Michael.public]] 
 
-### #is_/same_as :: [Bay,Michael.internal](/_internal/Society/Communication/Media/Movie/Movie-Director/Bay,Michael.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Director/Bay,Michael.internal|Bay,Michael.internal]] 
 
-### #is_/same_as :: [Bay,Michael.protect](/_protect/Society/Communication/Media/Movie/Movie-Director/Bay,Michael.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Director/Bay,Michael.protect|Bay,Michael.protect]] 
 
-### #is_/same_as :: [Bay,Michael.private](/_private/Society/Communication/Media/Movie/Movie-Director/Bay,Michael.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Director/Bay,Michael.private|Bay,Michael.private]] 
 
-### #is_/same_as :: [Bay,Michael.personal](/_personal/Society/Communication/Media/Movie/Movie-Director/Bay,Michael.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Director/Bay,Michael.personal|Bay,Michael.personal]] 
 
-### #is_/same_as :: [Bay,Michael.secret](/_secret/Society/Communication/Media/Movie/Movie-Director/Bay,Michael.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Director/Bay,Michael.secret|Bay,Michael.secret]] 
 

@@ -50,17 +50,17 @@ A [[Hilbert_Space]] is a [[Banach_Space]] with an **inner product** ⟨⋅,⋅�
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hilbert_Space](/_Standards/Mathematics/Algebra/Linear_Algebra/Vector_Space/Hilbert_Space.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Algebra/Linear_Algebra/Vector_Space/Hilbert_Space|Hilbert_Space]] 
 
-### #is_/same_as :: [Hilbert_Space.public](/_public/Mathematics/Algebra/Linear_Algebra/Vector_Space/Hilbert_Space.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Algebra/Linear_Algebra/Vector_Space/Hilbert_Space.public|Hilbert_Space.public]] 
 
-### #is_/same_as :: [Hilbert_Space.internal](/_internal/Mathematics/Algebra/Linear_Algebra/Vector_Space/Hilbert_Space.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Algebra/Linear_Algebra/Vector_Space/Hilbert_Space.internal|Hilbert_Space.internal]] 
 
-### #is_/same_as :: [Hilbert_Space.protect](/_protect/Mathematics/Algebra/Linear_Algebra/Vector_Space/Hilbert_Space.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Algebra/Linear_Algebra/Vector_Space/Hilbert_Space.protect|Hilbert_Space.protect]] 
 
-### #is_/same_as :: [Hilbert_Space.private](/_private/Mathematics/Algebra/Linear_Algebra/Vector_Space/Hilbert_Space.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Algebra/Linear_Algebra/Vector_Space/Hilbert_Space.private|Hilbert_Space.private]] 
 
-### #is_/same_as :: [Hilbert_Space.personal](/_personal/Mathematics/Algebra/Linear_Algebra/Vector_Space/Hilbert_Space.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Algebra/Linear_Algebra/Vector_Space/Hilbert_Space.personal|Hilbert_Space.personal]] 
 
-### #is_/same_as :: [Hilbert_Space.secret](/_secret/Mathematics/Algebra/Linear_Algebra/Vector_Space/Hilbert_Space.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Algebra/Linear_Algebra/Vector_Space/Hilbert_Space.secret|Hilbert_Space.secret]] 
 

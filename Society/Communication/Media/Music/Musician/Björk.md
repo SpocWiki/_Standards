@@ -46,17 +46,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Björk](/_Standards/Society/Communication/Media/Music/Musician/Björk.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Musician/Björk|Björk]] 
 
-### #is_/same_as :: [Björk.public](/_public/Society/Communication/Media/Music/Musician/Björk.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Musician/Björk.public|Björk.public]] 
 
-### #is_/same_as :: [Björk.internal](/_internal/Society/Communication/Media/Music/Musician/Björk.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Musician/Björk.internal|Björk.internal]] 
 
-### #is_/same_as :: [Björk.protect](/_protect/Society/Communication/Media/Music/Musician/Björk.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Musician/Björk.protect|Björk.protect]] 
 
-### #is_/same_as :: [Björk.private](/_private/Society/Communication/Media/Music/Musician/Björk.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Musician/Björk.private|Björk.private]] 
 
-### #is_/same_as :: [Björk.personal](/_personal/Society/Communication/Media/Music/Musician/Björk.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Musician/Björk.personal|Björk.personal]] 
 
-### #is_/same_as :: [Björk.secret](/_secret/Society/Communication/Media/Music/Musician/Björk.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Musician/Björk.secret|Björk.secret]] 
 

@@ -125,17 +125,17 @@ A college, university, or other third-level educational institution.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [College_or_University](/_Standards/Society/Agent/Community/Organization/Educational_Organization/College_or_University.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Educational_Organization/College_or_University|College_or_University]] 
 
-### #is_/same_as :: [College_or_University.public](/_public/Society/Agent/Community/Organization/Educational_Organization/College_or_University.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Educational_Organization/College_or_University.public|College_or_University.public]] 
 
-### #is_/same_as :: [College_or_University.internal](/_internal/Society/Agent/Community/Organization/Educational_Organization/College_or_University.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Educational_Organization/College_or_University.internal|College_or_University.internal]] 
 
-### #is_/same_as :: [College_or_University.protect](/_protect/Society/Agent/Community/Organization/Educational_Organization/College_or_University.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Educational_Organization/College_or_University.protect|College_or_University.protect]] 
 
-### #is_/same_as :: [College_or_University.private](/_private/Society/Agent/Community/Organization/Educational_Organization/College_or_University.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Educational_Organization/College_or_University.private|College_or_University.private]] 
 
-### #is_/same_as :: [College_or_University.personal](/_personal/Society/Agent/Community/Organization/Educational_Organization/College_or_University.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Educational_Organization/College_or_University.personal|College_or_University.personal]] 
 
-### #is_/same_as :: [College_or_University.secret](/_secret/Society/Agent/Community/Organization/Educational_Organization/College_or_University.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Educational_Organization/College_or_University.secret|College_or_University.secret]] 
 

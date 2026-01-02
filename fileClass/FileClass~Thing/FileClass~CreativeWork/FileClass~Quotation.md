@@ -48,17 +48,17 @@ SpokenByCharacter:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#c
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~Quotation](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Quotation.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Quotation|FileClass~Quotation]] 
 
-### #is_/same_as :: [FileClass~Quotation.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Quotation.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Quotation.public|FileClass~Quotation.public]] 
 
-### #is_/same_as :: [FileClass~Quotation.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Quotation.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Quotation.internal|FileClass~Quotation.internal]] 
 
-### #is_/same_as :: [FileClass~Quotation.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Quotation.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Quotation.protect|FileClass~Quotation.protect]] 
 
-### #is_/same_as :: [FileClass~Quotation.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Quotation.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Quotation.private|FileClass~Quotation.private]] 
 
-### #is_/same_as :: [FileClass~Quotation.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Quotation.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Quotation.personal|FileClass~Quotation.personal]] 
 
-### #is_/same_as :: [FileClass~Quotation.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Quotation.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Quotation.secret|FileClass~Quotation.secret]] 
 

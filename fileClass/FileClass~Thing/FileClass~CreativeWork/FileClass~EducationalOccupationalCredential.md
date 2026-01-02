@@ -93,17 +93,17 @@ ValidIn:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~EducationalOccupationalCredential](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~EducationalOccupationalCredential.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~EducationalOccupationalCredential|FileClass~EducationalOccupationalCredential]] 
 
-### #is_/same_as :: [FileClass~EducationalOccupationalCredential.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~EducationalOccupationalCredential.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~EducationalOccupationalCredential.public|FileClass~EducationalOccupationalCredential.public]] 
 
-### #is_/same_as :: [FileClass~EducationalOccupationalCredential.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~EducationalOccupationalCredential.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~EducationalOccupationalCredential.internal|FileClass~EducationalOccupationalCredential.internal]] 
 
-### #is_/same_as :: [FileClass~EducationalOccupationalCredential.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~EducationalOccupationalCredential.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~EducationalOccupationalCredential.protect|FileClass~EducationalOccupationalCredential.protect]] 
 
-### #is_/same_as :: [FileClass~EducationalOccupationalCredential.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~EducationalOccupationalCredential.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~EducationalOccupationalCredential.private|FileClass~EducationalOccupationalCredential.private]] 
 
-### #is_/same_as :: [FileClass~EducationalOccupationalCredential.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~EducationalOccupationalCredential.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~EducationalOccupationalCredential.personal|FileClass~EducationalOccupationalCredential.personal]] 
 
-### #is_/same_as :: [FileClass~EducationalOccupationalCredential.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~EducationalOccupationalCredential.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~EducationalOccupationalCredential.secret|FileClass~EducationalOccupationalCredential.secret]] 
 

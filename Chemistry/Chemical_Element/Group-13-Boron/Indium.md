@@ -130,17 +130,17 @@ ZVG_number: 8370
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Indium](/_Standards/Chemistry/Chemical_Element/Group-13-Boron/Indium.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Chemical_Element/Group-13-Boron/Indium|Indium]] 
 
-### #is_/same_as :: [Indium.public](/_public/Chemistry/Chemical_Element/Group-13-Boron/Indium.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Chemical_Element/Group-13-Boron/Indium.public|Indium.public]] 
 
-### #is_/same_as :: [Indium.internal](/_internal/Chemistry/Chemical_Element/Group-13-Boron/Indium.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Chemical_Element/Group-13-Boron/Indium.internal|Indium.internal]] 
 
-### #is_/same_as :: [Indium.protect](/_protect/Chemistry/Chemical_Element/Group-13-Boron/Indium.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Chemical_Element/Group-13-Boron/Indium.protect|Indium.protect]] 
 
-### #is_/same_as :: [Indium.private](/_private/Chemistry/Chemical_Element/Group-13-Boron/Indium.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Chemical_Element/Group-13-Boron/Indium.private|Indium.private]] 
 
-### #is_/same_as :: [Indium.personal](/_personal/Chemistry/Chemical_Element/Group-13-Boron/Indium.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Chemical_Element/Group-13-Boron/Indium.personal|Indium.personal]] 
 
-### #is_/same_as :: [Indium.secret](/_secret/Chemistry/Chemical_Element/Group-13-Boron/Indium.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Chemical_Element/Group-13-Boron/Indium.secret|Indium.secret]] 
 

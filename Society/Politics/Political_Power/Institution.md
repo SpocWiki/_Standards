@@ -50,17 +50,17 @@ Education
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Institution](/_Standards/Society/Politics/Political_Power/Institution.md) 
+### #is_/same_as :: [[/_Standards/Society/Politics/Political_Power/Institution|Institution]] 
 
-### #is_/same_as :: [Institution.public](/_public/Society/Politics/Political_Power/Institution.public.md) 
+### #is_/same_as :: [[/_public/Society/Politics/Political_Power/Institution.public|Institution.public]] 
 
-### #is_/same_as :: [Institution.internal](/_internal/Society/Politics/Political_Power/Institution.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Politics/Political_Power/Institution.internal|Institution.internal]] 
 
-### #is_/same_as :: [Institution.protect](/_protect/Society/Politics/Political_Power/Institution.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Politics/Political_Power/Institution.protect|Institution.protect]] 
 
-### #is_/same_as :: [Institution.private](/_private/Society/Politics/Political_Power/Institution.private.md) 
+### #is_/same_as :: [[/_private/Society/Politics/Political_Power/Institution.private|Institution.private]] 
 
-### #is_/same_as :: [Institution.personal](/_personal/Society/Politics/Political_Power/Institution.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Politics/Political_Power/Institution.personal|Institution.personal]] 
 
-### #is_/same_as :: [Institution.secret](/_secret/Society/Politics/Political_Power/Institution.secret.md)
+### #is_/same_as :: [[/_secret/Society/Politics/Political_Power/Institution.secret|Institution.secret]] 
 

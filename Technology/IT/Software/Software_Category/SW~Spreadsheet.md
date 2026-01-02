@@ -73,17 +73,17 @@ Commons_category: Spreadsheet software
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [SW~Spreadsheet](/_Standards/Technology/IT/Software/Software_Category/SW~Spreadsheet.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Software/Software_Category/SW~Spreadsheet|SW~Spreadsheet]] 
 
-### #is_/same_as :: [SW~Spreadsheet.public](/_public/Technology/IT/Software/Software_Category/SW~Spreadsheet.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Software/Software_Category/SW~Spreadsheet.public|SW~Spreadsheet.public]] 
 
-### #is_/same_as :: [SW~Spreadsheet.internal](/_internal/Technology/IT/Software/Software_Category/SW~Spreadsheet.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Software/Software_Category/SW~Spreadsheet.internal|SW~Spreadsheet.internal]] 
 
-### #is_/same_as :: [SW~Spreadsheet.protect](/_protect/Technology/IT/Software/Software_Category/SW~Spreadsheet.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Software/Software_Category/SW~Spreadsheet.protect|SW~Spreadsheet.protect]] 
 
-### #is_/same_as :: [SW~Spreadsheet.private](/_private/Technology/IT/Software/Software_Category/SW~Spreadsheet.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Software/Software_Category/SW~Spreadsheet.private|SW~Spreadsheet.private]] 
 
-### #is_/same_as :: [SW~Spreadsheet.personal](/_personal/Technology/IT/Software/Software_Category/SW~Spreadsheet.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Software/Software_Category/SW~Spreadsheet.personal|SW~Spreadsheet.personal]] 
 
-### #is_/same_as :: [SW~Spreadsheet.secret](/_secret/Technology/IT/Software/Software_Category/SW~Spreadsheet.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Software/Software_Category/SW~Spreadsheet.secret|SW~Spreadsheet.secret]] 
 

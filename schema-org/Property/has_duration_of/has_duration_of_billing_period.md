@@ -42,17 +42,17 @@ Formal Predicate:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_duration_of_billing_period](/_Standards/schema-org/Property/has_duration_of/has_duration_of_billing_period.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_duration_of/has_duration_of_billing_period|has_duration_of_billing_period]] 
 
-### #is_/same_as :: [has_duration_of_billing_period.public](/_public/schema-org/Property/has_duration_of/has_duration_of_billing_period.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/has_duration_of/has_duration_of_billing_period.public|has_duration_of_billing_period.public]] 
 
-### #is_/same_as :: [has_duration_of_billing_period.internal](/_internal/schema-org/Property/has_duration_of/has_duration_of_billing_period.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_duration_of/has_duration_of_billing_period.internal|has_duration_of_billing_period.internal]] 
 
-### #is_/same_as :: [has_duration_of_billing_period.protect](/_protect/schema-org/Property/has_duration_of/has_duration_of_billing_period.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_duration_of/has_duration_of_billing_period.protect|has_duration_of_billing_period.protect]] 
 
-### #is_/same_as :: [has_duration_of_billing_period.private](/_private/schema-org/Property/has_duration_of/has_duration_of_billing_period.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/has_duration_of/has_duration_of_billing_period.private|has_duration_of_billing_period.private]] 
 
-### #is_/same_as :: [has_duration_of_billing_period.personal](/_personal/schema-org/Property/has_duration_of/has_duration_of_billing_period.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_duration_of/has_duration_of_billing_period.personal|has_duration_of_billing_period.personal]] 
 
-### #is_/same_as :: [has_duration_of_billing_period.secret](/_secret/schema-org/Property/has_duration_of/has_duration_of_billing_period.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/has_duration_of/has_duration_of_billing_period.secret|has_duration_of_billing_period.secret]] 
 

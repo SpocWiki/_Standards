@@ -67,17 +67,17 @@ GitHub_topic: meditation
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Meditation](/_Standards/bio/Psychology/Mind/Meditation.md) 
+### #is_/same_as :: [[/_Standards/bio/Psychology/Mind/Meditation|Meditation]] 
 
-### #is_/same_as :: [Meditation.public](/_public/bio/Psychology/Mind/Meditation.public.md) 
+### #is_/same_as :: [[/_public/bio/Psychology/Mind/Meditation.public|Meditation.public]] 
 
-### #is_/same_as :: [Meditation.internal](/_internal/bio/Psychology/Mind/Meditation.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Psychology/Mind/Meditation.internal|Meditation.internal]] 
 
-### #is_/same_as :: [Meditation.protect](/_protect/bio/Psychology/Mind/Meditation.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Psychology/Mind/Meditation.protect|Meditation.protect]] 
 
-### #is_/same_as :: [Meditation.private](/_private/bio/Psychology/Mind/Meditation.private.md) 
+### #is_/same_as :: [[/_private/bio/Psychology/Mind/Meditation.private|Meditation.private]] 
 
-### #is_/same_as :: [Meditation.personal](/_personal/bio/Psychology/Mind/Meditation.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Psychology/Mind/Meditation.personal|Meditation.personal]] 
 
-### #is_/same_as :: [Meditation.secret](/_secret/bio/Psychology/Mind/Meditation.secret.md)
+### #is_/same_as :: [[/_secret/bio/Psychology/Mind/Meditation.secret|Meditation.secret]] 
 

@@ -44,17 +44,17 @@ OpenStreetMap_tag: landuse=farmland
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Field(Agriculture)](/_Standards/Society/Economics/Industry/Agriculture/Farm/Field(Agriculture).md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Industry/Agriculture/Farm/Field(Agriculture)|Field(Agriculture)]] 
 
-### #is_/same_as :: [Field(Agriculture).public](/_public/Society/Economics/Industry/Agriculture/Farm/Field(Agriculture).public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Industry/Agriculture/Farm/Field(Agriculture).public|Field(Agriculture).public]] 
 
-### #is_/same_as :: [Field(Agriculture).internal](/_internal/Society/Economics/Industry/Agriculture/Farm/Field(Agriculture).internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Industry/Agriculture/Farm/Field(Agriculture).internal|Field(Agriculture).internal]] 
 
-### #is_/same_as :: [Field(Agriculture).protect](/_protect/Society/Economics/Industry/Agriculture/Farm/Field(Agriculture).protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Industry/Agriculture/Farm/Field(Agriculture).protect|Field(Agriculture).protect]] 
 
-### #is_/same_as :: [Field(Agriculture).private](/_private/Society/Economics/Industry/Agriculture/Farm/Field(Agriculture).private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Industry/Agriculture/Farm/Field(Agriculture).private|Field(Agriculture).private]] 
 
-### #is_/same_as :: [Field(Agriculture).personal](/_personal/Society/Economics/Industry/Agriculture/Farm/Field(Agriculture).personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Industry/Agriculture/Farm/Field(Agriculture).personal|Field(Agriculture).personal]] 
 
-### #is_/same_as :: [Field(Agriculture).secret](/_secret/Society/Economics/Industry/Agriculture/Farm/Field(Agriculture).secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Industry/Agriculture/Farm/Field(Agriculture).secret|Field(Agriculture).secret]] 
 

@@ -44,17 +44,17 @@ IEV_number: 113-06-09
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Excited_State](/_Standards/Science/Physics/Quantum_Mechanics/Excited_State.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Quantum_Mechanics/Excited_State|Excited_State]] 
 
-### #is_/same_as :: [Excited_State.public](/_public/Science/Physics/Quantum_Mechanics/Excited_State.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Quantum_Mechanics/Excited_State.public|Excited_State.public]] 
 
-### #is_/same_as :: [Excited_State.internal](/_internal/Science/Physics/Quantum_Mechanics/Excited_State.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Quantum_Mechanics/Excited_State.internal|Excited_State.internal]] 
 
-### #is_/same_as :: [Excited_State.protect](/_protect/Science/Physics/Quantum_Mechanics/Excited_State.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Quantum_Mechanics/Excited_State.protect|Excited_State.protect]] 
 
-### #is_/same_as :: [Excited_State.private](/_private/Science/Physics/Quantum_Mechanics/Excited_State.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Quantum_Mechanics/Excited_State.private|Excited_State.private]] 
 
-### #is_/same_as :: [Excited_State.personal](/_personal/Science/Physics/Quantum_Mechanics/Excited_State.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Quantum_Mechanics/Excited_State.personal|Excited_State.personal]] 
 
-### #is_/same_as :: [Excited_State.secret](/_secret/Science/Physics/Quantum_Mechanics/Excited_State.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Quantum_Mechanics/Excited_State.secret|Excited_State.secret]] 
 

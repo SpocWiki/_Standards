@@ -48,17 +48,17 @@ official_name: Pyxis
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Zodiac~Pyxis](/_Standards/Astronomy/Star~Constellation/Zodiac~Pyxis.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Star~Constellation/Zodiac~Pyxis|Zodiac~Pyxis]] 
 
-### #is_/same_as :: [Zodiac~Pyxis.public](/_public/Astronomy/Star~Constellation/Zodiac~Pyxis.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Star~Constellation/Zodiac~Pyxis.public|Zodiac~Pyxis.public]] 
 
-### #is_/same_as :: [Zodiac~Pyxis.internal](/_internal/Astronomy/Star~Constellation/Zodiac~Pyxis.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Star~Constellation/Zodiac~Pyxis.internal|Zodiac~Pyxis.internal]] 
 
-### #is_/same_as :: [Zodiac~Pyxis.protect](/_protect/Astronomy/Star~Constellation/Zodiac~Pyxis.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Star~Constellation/Zodiac~Pyxis.protect|Zodiac~Pyxis.protect]] 
 
-### #is_/same_as :: [Zodiac~Pyxis.private](/_private/Astronomy/Star~Constellation/Zodiac~Pyxis.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Star~Constellation/Zodiac~Pyxis.private|Zodiac~Pyxis.private]] 
 
-### #is_/same_as :: [Zodiac~Pyxis.personal](/_personal/Astronomy/Star~Constellation/Zodiac~Pyxis.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Star~Constellation/Zodiac~Pyxis.personal|Zodiac~Pyxis.personal]] 
 
-### #is_/same_as :: [Zodiac~Pyxis.secret](/_secret/Astronomy/Star~Constellation/Zodiac~Pyxis.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Star~Constellation/Zodiac~Pyxis.secret|Zodiac~Pyxis.secret]] 
 

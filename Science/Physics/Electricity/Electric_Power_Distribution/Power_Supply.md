@@ -72,17 +72,17 @@ Commons_category: Power supplies
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Power_Supply](/_Standards/Science/Physics/Electricity/Electric_Power_Distribution/Power_Supply.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Electricity/Electric_Power_Distribution/Power_Supply|Power_Supply]] 
 
-### #is_/same_as :: [Power_Supply.public](/_public/Science/Physics/Electricity/Electric_Power_Distribution/Power_Supply.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Electricity/Electric_Power_Distribution/Power_Supply.public|Power_Supply.public]] 
 
-### #is_/same_as :: [Power_Supply.internal](/_internal/Science/Physics/Electricity/Electric_Power_Distribution/Power_Supply.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Electricity/Electric_Power_Distribution/Power_Supply.internal|Power_Supply.internal]] 
 
-### #is_/same_as :: [Power_Supply.protect](/_protect/Science/Physics/Electricity/Electric_Power_Distribution/Power_Supply.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Electricity/Electric_Power_Distribution/Power_Supply.protect|Power_Supply.protect]] 
 
-### #is_/same_as :: [Power_Supply.private](/_private/Science/Physics/Electricity/Electric_Power_Distribution/Power_Supply.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Electricity/Electric_Power_Distribution/Power_Supply.private|Power_Supply.private]] 
 
-### #is_/same_as :: [Power_Supply.personal](/_personal/Science/Physics/Electricity/Electric_Power_Distribution/Power_Supply.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Electricity/Electric_Power_Distribution/Power_Supply.personal|Power_Supply.personal]] 
 
-### #is_/same_as :: [Power_Supply.secret](/_secret/Science/Physics/Electricity/Electric_Power_Distribution/Power_Supply.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Electricity/Electric_Power_Distribution/Power_Supply.secret|Power_Supply.secret]] 
 

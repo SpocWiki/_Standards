@@ -82,17 +82,17 @@ GitHub_topic: encryption
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Encryption](/_Standards/Technology/IT/Data/Code/Encoding/Encryption.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Data/Code/Encoding/Encryption|Encryption]] 
 
-### #is_/same_as :: [Encryption.public](/_public/Technology/IT/Data/Code/Encoding/Encryption.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Data/Code/Encoding/Encryption.public|Encryption.public]] 
 
-### #is_/same_as :: [Encryption.internal](/_internal/Technology/IT/Data/Code/Encoding/Encryption.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Data/Code/Encoding/Encryption.internal|Encryption.internal]] 
 
-### #is_/same_as :: [Encryption.protect](/_protect/Technology/IT/Data/Code/Encoding/Encryption.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Data/Code/Encoding/Encryption.protect|Encryption.protect]] 
 
-### #is_/same_as :: [Encryption.private](/_private/Technology/IT/Data/Code/Encoding/Encryption.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Data/Code/Encoding/Encryption.private|Encryption.private]] 
 
-### #is_/same_as :: [Encryption.personal](/_personal/Technology/IT/Data/Code/Encoding/Encryption.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Data/Code/Encoding/Encryption.personal|Encryption.personal]] 
 
-### #is_/same_as :: [Encryption.secret](/_secret/Technology/IT/Data/Code/Encoding/Encryption.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Data/Code/Encoding/Encryption.secret|Encryption.secret]] 
 

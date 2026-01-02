@@ -109,17 +109,17 @@ name_in_native_language: John Hasbrouck Van Vleck
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Vleck,John_Hasbrouck_van](/_Standards/Science/Physics/Physicist/Vleck,John_Hasbrouck_van.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Physicist/Vleck,John_Hasbrouck_van|Vleck,John_Hasbrouck_van]] 
 
-### #is_/same_as :: [Vleck,John_Hasbrouck_van.public](/_public/Science/Physics/Physicist/Vleck,John_Hasbrouck_van.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Physicist/Vleck,John_Hasbrouck_van.public|Vleck,John_Hasbrouck_van.public]] 
 
-### #is_/same_as :: [Vleck,John_Hasbrouck_van.internal](/_internal/Science/Physics/Physicist/Vleck,John_Hasbrouck_van.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Physicist/Vleck,John_Hasbrouck_van.internal|Vleck,John_Hasbrouck_van.internal]] 
 
-### #is_/same_as :: [Vleck,John_Hasbrouck_van.protect](/_protect/Science/Physics/Physicist/Vleck,John_Hasbrouck_van.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Physicist/Vleck,John_Hasbrouck_van.protect|Vleck,John_Hasbrouck_van.protect]] 
 
-### #is_/same_as :: [Vleck,John_Hasbrouck_van.private](/_private/Science/Physics/Physicist/Vleck,John_Hasbrouck_van.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Physicist/Vleck,John_Hasbrouck_van.private|Vleck,John_Hasbrouck_van.private]] 
 
-### #is_/same_as :: [Vleck,John_Hasbrouck_van.personal](/_personal/Science/Physics/Physicist/Vleck,John_Hasbrouck_van.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Physicist/Vleck,John_Hasbrouck_van.personal|Vleck,John_Hasbrouck_van.personal]] 
 
-### #is_/same_as :: [Vleck,John_Hasbrouck_van.secret](/_secret/Science/Physics/Physicist/Vleck,John_Hasbrouck_van.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Physicist/Vleck,John_Hasbrouck_van.secret|Vleck,John_Hasbrouck_van.secret]] 
 

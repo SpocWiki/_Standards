@@ -73,17 +73,17 @@ Unicode_character: 🛗
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Elevator](/_Standards/Technology/Transport/Vertical_Transport/Elevator.md) 
+### #is_/same_as :: [[/_Standards/Technology/Transport/Vertical_Transport/Elevator|Elevator]] 
 
-### #is_/same_as :: [Elevator.public](/_public/Technology/Transport/Vertical_Transport/Elevator.public.md) 
+### #is_/same_as :: [[/_public/Technology/Transport/Vertical_Transport/Elevator.public|Elevator.public]] 
 
-### #is_/same_as :: [Elevator.internal](/_internal/Technology/Transport/Vertical_Transport/Elevator.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Transport/Vertical_Transport/Elevator.internal|Elevator.internal]] 
 
-### #is_/same_as :: [Elevator.protect](/_protect/Technology/Transport/Vertical_Transport/Elevator.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Transport/Vertical_Transport/Elevator.protect|Elevator.protect]] 
 
-### #is_/same_as :: [Elevator.private](/_private/Technology/Transport/Vertical_Transport/Elevator.private.md) 
+### #is_/same_as :: [[/_private/Technology/Transport/Vertical_Transport/Elevator.private|Elevator.private]] 
 
-### #is_/same_as :: [Elevator.personal](/_personal/Technology/Transport/Vertical_Transport/Elevator.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Transport/Vertical_Transport/Elevator.personal|Elevator.personal]] 
 
-### #is_/same_as :: [Elevator.secret](/_secret/Technology/Transport/Vertical_Transport/Elevator.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Transport/Vertical_Transport/Elevator.secret|Elevator.secret]] 
 

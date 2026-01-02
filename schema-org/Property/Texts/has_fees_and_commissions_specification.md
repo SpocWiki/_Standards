@@ -47,17 +47,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_fees_and_commissions_specification](/_Standards/schema-org/Property/Texts/has_fees_and_commissions_specification.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/Texts/has_fees_and_commissions_specification|has_fees_and_commissions_specification]] 
 
-### #is_/same_as :: [has_fees_and_commissions_specification.public](/_public/schema-org/Property/Texts/has_fees_and_commissions_specification.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/Texts/has_fees_and_commissions_specification.public|has_fees_and_commissions_specification.public]] 
 
-### #is_/same_as :: [has_fees_and_commissions_specification.internal](/_internal/schema-org/Property/Texts/has_fees_and_commissions_specification.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/Texts/has_fees_and_commissions_specification.internal|has_fees_and_commissions_specification.internal]] 
 
-### #is_/same_as :: [has_fees_and_commissions_specification.protect](/_protect/schema-org/Property/Texts/has_fees_and_commissions_specification.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/Texts/has_fees_and_commissions_specification.protect|has_fees_and_commissions_specification.protect]] 
 
-### #is_/same_as :: [has_fees_and_commissions_specification.private](/_private/schema-org/Property/Texts/has_fees_and_commissions_specification.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/Texts/has_fees_and_commissions_specification.private|has_fees_and_commissions_specification.private]] 
 
-### #is_/same_as :: [has_fees_and_commissions_specification.personal](/_personal/schema-org/Property/Texts/has_fees_and_commissions_specification.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/Texts/has_fees_and_commissions_specification.personal|has_fees_and_commissions_specification.personal]] 
 
-### #is_/same_as :: [has_fees_and_commissions_specification.secret](/_secret/schema-org/Property/Texts/has_fees_and_commissions_specification.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/Texts/has_fees_and_commissions_specification.secret|has_fees_and_commissions_specification.secret]] 
 

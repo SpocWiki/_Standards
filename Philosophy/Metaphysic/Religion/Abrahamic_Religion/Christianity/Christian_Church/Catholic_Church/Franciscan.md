@@ -40,17 +40,17 @@ has_id_wikidata: ''
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Franciscan](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Franciscan.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Franciscan|Franciscan]] 
 
-### #is_/same_as :: [Franciscan.public](/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Franciscan.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Franciscan.public|Franciscan.public]] 
 
-### #is_/same_as :: [Franciscan.internal](/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Franciscan.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Franciscan.internal|Franciscan.internal]] 
 
-### #is_/same_as :: [Franciscan.protect](/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Franciscan.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Franciscan.protect|Franciscan.protect]] 
 
-### #is_/same_as :: [Franciscan.private](/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Franciscan.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Franciscan.private|Franciscan.private]] 
 
-### #is_/same_as :: [Franciscan.personal](/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Franciscan.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Franciscan.personal|Franciscan.personal]] 
 
-### #is_/same_as :: [Franciscan.secret](/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Franciscan.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Franciscan.secret|Franciscan.secret]] 
 

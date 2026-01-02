@@ -43,17 +43,17 @@ A [[LibrarySystem]] is a collaborative system amongst several libraries.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Library_System](/_Standards/Society/Agent/Community/Organization/Library_System.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Library_System|Library_System]] 
 
-### #is_/same_as :: [Library_System.public](/_public/Society/Agent/Community/Organization/Library_System.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Library_System.public|Library_System.public]] 
 
-### #is_/same_as :: [Library_System.internal](/_internal/Society/Agent/Community/Organization/Library_System.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Library_System.internal|Library_System.internal]] 
 
-### #is_/same_as :: [Library_System.protect](/_protect/Society/Agent/Community/Organization/Library_System.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Library_System.protect|Library_System.protect]] 
 
-### #is_/same_as :: [Library_System.private](/_private/Society/Agent/Community/Organization/Library_System.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Library_System.private|Library_System.private]] 
 
-### #is_/same_as :: [Library_System.personal](/_personal/Society/Agent/Community/Organization/Library_System.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Library_System.personal|Library_System.personal]] 
 
-### #is_/same_as :: [Library_System.secret](/_secret/Society/Agent/Community/Organization/Library_System.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Library_System.secret|Library_System.secret]] 
 

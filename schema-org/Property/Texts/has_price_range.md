@@ -45,17 +45,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_price_range](/_Standards/schema-org/Property/Texts/has_price_range.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/Texts/has_price_range|has_price_range]] 
 
-### #is_/same_as :: [has_price_range.public](/_public/schema-org/Property/Texts/has_price_range.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/Texts/has_price_range.public|has_price_range.public]] 
 
-### #is_/same_as :: [has_price_range.internal](/_internal/schema-org/Property/Texts/has_price_range.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/Texts/has_price_range.internal|has_price_range.internal]] 
 
-### #is_/same_as :: [has_price_range.protect](/_protect/schema-org/Property/Texts/has_price_range.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/Texts/has_price_range.protect|has_price_range.protect]] 
 
-### #is_/same_as :: [has_price_range.private](/_private/schema-org/Property/Texts/has_price_range.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/Texts/has_price_range.private|has_price_range.private]] 
 
-### #is_/same_as :: [has_price_range.personal](/_personal/schema-org/Property/Texts/has_price_range.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/Texts/has_price_range.personal|has_price_range.personal]] 
 
-### #is_/same_as :: [has_price_range.secret](/_secret/schema-org/Property/Texts/has_price_range.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/Texts/has_price_range.secret|has_price_range.secret]] 
 

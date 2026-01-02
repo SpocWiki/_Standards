@@ -154,17 +154,17 @@ described_at_URL:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Goodall,Jane](/_Standards/Society/Anthropology/Anthropologist/Goodall,Jane.md) 
+### #is_/same_as :: [[/_Standards/Society/Anthropology/Anthropologist/Goodall,Jane|Goodall,Jane]] 
 
-### #is_/same_as :: [Goodall,Jane.public](/_public/Society/Anthropology/Anthropologist/Goodall,Jane.public.md) 
+### #is_/same_as :: [[/_public/Society/Anthropology/Anthropologist/Goodall,Jane.public|Goodall,Jane.public]] 
 
-### #is_/same_as :: [Goodall,Jane.internal](/_internal/Society/Anthropology/Anthropologist/Goodall,Jane.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Anthropology/Anthropologist/Goodall,Jane.internal|Goodall,Jane.internal]] 
 
-### #is_/same_as :: [Goodall,Jane.protect](/_protect/Society/Anthropology/Anthropologist/Goodall,Jane.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Anthropology/Anthropologist/Goodall,Jane.protect|Goodall,Jane.protect]] 
 
-### #is_/same_as :: [Goodall,Jane.private](/_private/Society/Anthropology/Anthropologist/Goodall,Jane.private.md) 
+### #is_/same_as :: [[/_private/Society/Anthropology/Anthropologist/Goodall,Jane.private|Goodall,Jane.private]] 
 
-### #is_/same_as :: [Goodall,Jane.personal](/_personal/Society/Anthropology/Anthropologist/Goodall,Jane.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Anthropology/Anthropologist/Goodall,Jane.personal|Goodall,Jane.personal]] 
 
-### #is_/same_as :: [Goodall,Jane.secret](/_secret/Society/Anthropology/Anthropologist/Goodall,Jane.secret.md)
+### #is_/same_as :: [[/_secret/Society/Anthropology/Anthropologist/Goodall,Jane.secret|Goodall,Jane.secret]] 
 

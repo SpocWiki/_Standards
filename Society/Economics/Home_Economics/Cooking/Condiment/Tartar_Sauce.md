@@ -55,17 +55,17 @@ native_label: Sauce tartare
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Tartar_Sauce](/_Standards/Society/Economics/Home_Economics/Cooking/Condiment/Tartar_Sauce.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Home_Economics/Cooking/Condiment/Tartar_Sauce|Tartar_Sauce]] 
 
-### #is_/same_as :: [Tartar_Sauce.public](/_public/Society/Economics/Home_Economics/Cooking/Condiment/Tartar_Sauce.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Home_Economics/Cooking/Condiment/Tartar_Sauce.public|Tartar_Sauce.public]] 
 
-### #is_/same_as :: [Tartar_Sauce.internal](/_internal/Society/Economics/Home_Economics/Cooking/Condiment/Tartar_Sauce.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Home_Economics/Cooking/Condiment/Tartar_Sauce.internal|Tartar_Sauce.internal]] 
 
-### #is_/same_as :: [Tartar_Sauce.protect](/_protect/Society/Economics/Home_Economics/Cooking/Condiment/Tartar_Sauce.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Home_Economics/Cooking/Condiment/Tartar_Sauce.protect|Tartar_Sauce.protect]] 
 
-### #is_/same_as :: [Tartar_Sauce.private](/_private/Society/Economics/Home_Economics/Cooking/Condiment/Tartar_Sauce.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Home_Economics/Cooking/Condiment/Tartar_Sauce.private|Tartar_Sauce.private]] 
 
-### #is_/same_as :: [Tartar_Sauce.personal](/_personal/Society/Economics/Home_Economics/Cooking/Condiment/Tartar_Sauce.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Home_Economics/Cooking/Condiment/Tartar_Sauce.personal|Tartar_Sauce.personal]] 
 
-### #is_/same_as :: [Tartar_Sauce.secret](/_secret/Society/Economics/Home_Economics/Cooking/Condiment/Tartar_Sauce.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Home_Economics/Cooking/Condiment/Tartar_Sauce.secret|Tartar_Sauce.secret]] 
 

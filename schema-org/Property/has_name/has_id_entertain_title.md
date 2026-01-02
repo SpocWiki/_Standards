@@ -56,17 +56,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_id_entertain_title](/_Standards/schema-org/Property/has_name/has_id_entertain_title.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_name/has_id_entertain_title|has_id_entertain_title]] 
 
-### #is_/same_as :: [has_id_entertain_title.public](/_public/schema-org/Property/has_name/has_id_entertain_title.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/has_name/has_id_entertain_title.public|has_id_entertain_title.public]] 
 
-### #is_/same_as :: [has_id_entertain_title.internal](/_internal/schema-org/Property/has_name/has_id_entertain_title.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_name/has_id_entertain_title.internal|has_id_entertain_title.internal]] 
 
-### #is_/same_as :: [has_id_entertain_title.protect](/_protect/schema-org/Property/has_name/has_id_entertain_title.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_name/has_id_entertain_title.protect|has_id_entertain_title.protect]] 
 
-### #is_/same_as :: [has_id_entertain_title.private](/_private/schema-org/Property/has_name/has_id_entertain_title.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/has_name/has_id_entertain_title.private|has_id_entertain_title.private]] 
 
-### #is_/same_as :: [has_id_entertain_title.personal](/_personal/schema-org/Property/has_name/has_id_entertain_title.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_name/has_id_entertain_title.personal|has_id_entertain_title.personal]] 
 
-### #is_/same_as :: [has_id_entertain_title.secret](/_secret/schema-org/Property/has_name/has_id_entertain_title.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/has_name/has_id_entertain_title.secret|has_id_entertain_title.secret]] 
 

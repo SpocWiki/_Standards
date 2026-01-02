@@ -41,17 +41,17 @@ Any offered product or service. For example: a pair of shoes; a concert ticket; 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Product](/_Standards/Society/Agent/Community/Organization/Business/Product.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Business/Product|Product]] 
 
-### #is_/same_as :: [Product.public](/_public/Society/Agent/Community/Organization/Business/Product.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Business/Product.public|Product.public]] 
 
-### #is_/same_as :: [Product.internal](/_internal/Society/Agent/Community/Organization/Business/Product.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Business/Product.internal|Product.internal]] 
 
-### #is_/same_as :: [Product.protect](/_protect/Society/Agent/Community/Organization/Business/Product.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Business/Product.protect|Product.protect]] 
 
-### #is_/same_as :: [Product.private](/_private/Society/Agent/Community/Organization/Business/Product.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Business/Product.private|Product.private]] 
 
-### #is_/same_as :: [Product.personal](/_personal/Society/Agent/Community/Organization/Business/Product.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Business/Product.personal|Product.personal]] 
 
-### #is_/same_as :: [Product.secret](/_secret/Society/Agent/Community/Organization/Business/Product.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Business/Product.secret|Product.secret]] 
 

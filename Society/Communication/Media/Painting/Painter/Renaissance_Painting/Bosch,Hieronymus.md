@@ -194,17 +194,17 @@ ISNI: 000000012102478X
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bosch,Hieronymus](/_Standards/Society/Communication/Media/Painting/Painter/Renaissance_Painting/Bosch,Hieronymus.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Painting/Painter/Renaissance_Painting/Bosch,Hieronymus|Bosch,Hieronymus]] 
 
-### #is_/same_as :: [Bosch,Hieronymus.public](/_public/Society/Communication/Media/Painting/Painter/Renaissance_Painting/Bosch,Hieronymus.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Painting/Painter/Renaissance_Painting/Bosch,Hieronymus.public|Bosch,Hieronymus.public]] 
 
-### #is_/same_as :: [Bosch,Hieronymus.internal](/_internal/Society/Communication/Media/Painting/Painter/Renaissance_Painting/Bosch,Hieronymus.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Painting/Painter/Renaissance_Painting/Bosch,Hieronymus.internal|Bosch,Hieronymus.internal]] 
 
-### #is_/same_as :: [Bosch,Hieronymus.protect](/_protect/Society/Communication/Media/Painting/Painter/Renaissance_Painting/Bosch,Hieronymus.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Painting/Painter/Renaissance_Painting/Bosch,Hieronymus.protect|Bosch,Hieronymus.protect]] 
 
-### #is_/same_as :: [Bosch,Hieronymus.private](/_private/Society/Communication/Media/Painting/Painter/Renaissance_Painting/Bosch,Hieronymus.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Painting/Painter/Renaissance_Painting/Bosch,Hieronymus.private|Bosch,Hieronymus.private]] 
 
-### #is_/same_as :: [Bosch,Hieronymus.personal](/_personal/Society/Communication/Media/Painting/Painter/Renaissance_Painting/Bosch,Hieronymus.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Painting/Painter/Renaissance_Painting/Bosch,Hieronymus.personal|Bosch,Hieronymus.personal]] 
 
-### #is_/same_as :: [Bosch,Hieronymus.secret](/_secret/Society/Communication/Media/Painting/Painter/Renaissance_Painting/Bosch,Hieronymus.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Painting/Painter/Renaissance_Painting/Bosch,Hieronymus.secret|Bosch,Hieronymus.secret]] 
 

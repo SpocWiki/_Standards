@@ -54,17 +54,17 @@ Commons_category: Regression analysis
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Regression_Analysis](/_Standards/Mathematics/Statistics/Correlation/Regression_Analysis.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Statistics/Correlation/Regression_Analysis|Regression_Analysis]] 
 
-### #is_/same_as :: [Regression_Analysis.public](/_public/Mathematics/Statistics/Correlation/Regression_Analysis.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Statistics/Correlation/Regression_Analysis.public|Regression_Analysis.public]] 
 
-### #is_/same_as :: [Regression_Analysis.internal](/_internal/Mathematics/Statistics/Correlation/Regression_Analysis.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Statistics/Correlation/Regression_Analysis.internal|Regression_Analysis.internal]] 
 
-### #is_/same_as :: [Regression_Analysis.protect](/_protect/Mathematics/Statistics/Correlation/Regression_Analysis.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Statistics/Correlation/Regression_Analysis.protect|Regression_Analysis.protect]] 
 
-### #is_/same_as :: [Regression_Analysis.private](/_private/Mathematics/Statistics/Correlation/Regression_Analysis.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Statistics/Correlation/Regression_Analysis.private|Regression_Analysis.private]] 
 
-### #is_/same_as :: [Regression_Analysis.personal](/_personal/Mathematics/Statistics/Correlation/Regression_Analysis.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Statistics/Correlation/Regression_Analysis.personal|Regression_Analysis.personal]] 
 
-### #is_/same_as :: [Regression_Analysis.secret](/_secret/Mathematics/Statistics/Correlation/Regression_Analysis.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Statistics/Correlation/Regression_Analysis.secret|Regression_Analysis.secret]] 
 

@@ -28,17 +28,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Earth-Orbit](/_Standards/Earth/Earth-Orbit.md) 
+### #is_/same_as :: [[/_Standards/Earth/Earth-Orbit|Earth-Orbit]] 
 
-### #is_/same_as :: [Earth-Orbit.public](/_public/Earth/Earth-Orbit.public.md) 
+### #is_/same_as :: [[/_public/Earth/Earth-Orbit.public|Earth-Orbit.public]] 
 
-### #is_/same_as :: [Earth-Orbit.internal](/_internal/Earth/Earth-Orbit.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Earth-Orbit.internal|Earth-Orbit.internal]] 
 
-### #is_/same_as :: [Earth-Orbit.protect](/_protect/Earth/Earth-Orbit.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Earth-Orbit.protect|Earth-Orbit.protect]] 
 
-### #is_/same_as :: [Earth-Orbit.private](/_private/Earth/Earth-Orbit.private.md) 
+### #is_/same_as :: [[/_private/Earth/Earth-Orbit.private|Earth-Orbit.private]] 
 
-### #is_/same_as :: [Earth-Orbit.personal](/_personal/Earth/Earth-Orbit.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Earth-Orbit.personal|Earth-Orbit.personal]] 
 
-### #is_/same_as :: [Earth-Orbit.secret](/_secret/Earth/Earth-Orbit.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Earth-Orbit.secret|Earth-Orbit.secret]] 
 

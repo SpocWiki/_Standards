@@ -40,16 +40,17 @@ Dewey_Decimal_Classification: "512.44"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Commutative_Ring](/_Standards/Mathematics/Algebra/Group_Theory/Commutative_Algebra/Commutative_Ring.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Algebra/Group_Theory/Commutative_Algebra/Commutative_Ring|Commutative_Ring]] 
 
-### #is_/same_as :: [Commutative_Ring.public](/_public/Mathematics/Algebra/Group_Theory/Commutative_Algebra/Commutative_Ring.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Algebra/Group_Theory/Commutative_Algebra/Commutative_Ring.public|Commutative_Ring.public]] 
 
-### #is_/same_as :: [Commutative_Ring.internal](/_internal/Mathematics/Algebra/Group_Theory/Commutative_Algebra/Commutative_Ring.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Algebra/Group_Theory/Commutative_Algebra/Commutative_Ring.internal|Commutative_Ring.internal]] 
 
-### #is_/same_as :: [Commutative_Ring.protect](/_protect/Mathematics/Algebra/Group_Theory/Commutative_Algebra/Commutative_Ring.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Algebra/Group_Theory/Commutative_Algebra/Commutative_Ring.protect|Commutative_Ring.protect]] 
 
-### #is_/same_as :: [Commutative_Ring.private](/_private/Mathematics/Algebra/Group_Theory/Commutative_Algebra/Commutative_Ring.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Algebra/Group_Theory/Commutative_Algebra/Commutative_Ring.private|Commutative_Ring.private]] 
 
-### #is_/same_as :: [Commutative_Ring.personal](/_personal/Mathematics/Algebra/Group_Theory/Commutative_Algebra/Commutative_Ring.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Algebra/Group_Theory/Commutative_Algebra/Commutative_Ring.personal|Commutative_Ring.personal]] 
 
-### #is_/same_as :: [Commutative_Ring.secret](/_secret/Mathematics/Algebra/Group_Theory/Commutative_Algebra/Commutative_Ring.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Algebra/Group_Theory/Commutative_Algebra/Commutative_Ring.secret|Commutative_Ring.secret]] 
+

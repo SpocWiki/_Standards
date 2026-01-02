@@ -36,17 +36,17 @@ IEV_number: 881-03-26
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Electromagnetic_Interaction](/_Standards/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Field/Electromagnetic_Interaction.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Field/Electromagnetic_Interaction|Electromagnetic_Interaction]] 
 
-### #is_/same_as :: [Electromagnetic_Interaction.public](/_public/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Field/Electromagnetic_Interaction.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Field/Electromagnetic_Interaction.public|Electromagnetic_Interaction.public]] 
 
-### #is_/same_as :: [Electromagnetic_Interaction.internal](/_internal/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Field/Electromagnetic_Interaction.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Field/Electromagnetic_Interaction.internal|Electromagnetic_Interaction.internal]] 
 
-### #is_/same_as :: [Electromagnetic_Interaction.protect](/_protect/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Field/Electromagnetic_Interaction.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Field/Electromagnetic_Interaction.protect|Electromagnetic_Interaction.protect]] 
 
-### #is_/same_as :: [Electromagnetic_Interaction.private](/_private/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Field/Electromagnetic_Interaction.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Field/Electromagnetic_Interaction.private|Electromagnetic_Interaction.private]] 
 
-### #is_/same_as :: [Electromagnetic_Interaction.personal](/_personal/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Field/Electromagnetic_Interaction.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Field/Electromagnetic_Interaction.personal|Electromagnetic_Interaction.personal]] 
 
-### #is_/same_as :: [Electromagnetic_Interaction.secret](/_secret/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Field/Electromagnetic_Interaction.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Field/Electromagnetic_Interaction.secret|Electromagnetic_Interaction.secret]] 
 

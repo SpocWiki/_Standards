@@ -44,17 +44,17 @@ Represents the broad notion of 'mobile' browsers as a Web Platform.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Mobile_Web_Platform](/_Standards/Technology/IT/Software/OS(Operating-System)/Digital_Platform/Generic_Web_Platform/Mobile_Web_Platform.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Software/OS(Operating-System)/Digital_Platform/Generic_Web_Platform/Mobile_Web_Platform|Mobile_Web_Platform]] 
 
-### #is_/same_as :: [Mobile_Web_Platform.public](/_public/Technology/IT/Software/OS(Operating-System)/Digital_Platform/Generic_Web_Platform/Mobile_Web_Platform.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Software/OS(Operating-System)/Digital_Platform/Generic_Web_Platform/Mobile_Web_Platform.public|Mobile_Web_Platform.public]] 
 
-### #is_/same_as :: [Mobile_Web_Platform.internal](/_internal/Technology/IT/Software/OS(Operating-System)/Digital_Platform/Generic_Web_Platform/Mobile_Web_Platform.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Software/OS(Operating-System)/Digital_Platform/Generic_Web_Platform/Mobile_Web_Platform.internal|Mobile_Web_Platform.internal]] 
 
-### #is_/same_as :: [Mobile_Web_Platform.protect](/_protect/Technology/IT/Software/OS(Operating-System)/Digital_Platform/Generic_Web_Platform/Mobile_Web_Platform.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Software/OS(Operating-System)/Digital_Platform/Generic_Web_Platform/Mobile_Web_Platform.protect|Mobile_Web_Platform.protect]] 
 
-### #is_/same_as :: [Mobile_Web_Platform.private](/_private/Technology/IT/Software/OS(Operating-System)/Digital_Platform/Generic_Web_Platform/Mobile_Web_Platform.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Software/OS(Operating-System)/Digital_Platform/Generic_Web_Platform/Mobile_Web_Platform.private|Mobile_Web_Platform.private]] 
 
-### #is_/same_as :: [Mobile_Web_Platform.personal](/_personal/Technology/IT/Software/OS(Operating-System)/Digital_Platform/Generic_Web_Platform/Mobile_Web_Platform.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Software/OS(Operating-System)/Digital_Platform/Generic_Web_Platform/Mobile_Web_Platform.personal|Mobile_Web_Platform.personal]] 
 
-### #is_/same_as :: [Mobile_Web_Platform.secret](/_secret/Technology/IT/Software/OS(Operating-System)/Digital_Platform/Generic_Web_Platform/Mobile_Web_Platform.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Software/OS(Operating-System)/Digital_Platform/Generic_Web_Platform/Mobile_Web_Platform.secret|Mobile_Web_Platform.secret]] 
 

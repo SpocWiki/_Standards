@@ -37,17 +37,17 @@ The act of capturing still images of objects using a camera.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~PhotographAction](/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~CreateAction/FileClass~PhotographAction.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~CreateAction/FileClass~PhotographAction|FileClass~PhotographAction]] 
 
-### #is_/same_as :: [FileClass~PhotographAction.public](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~CreateAction/FileClass~PhotographAction.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~CreateAction/FileClass~PhotographAction.public|FileClass~PhotographAction.public]] 
 
-### #is_/same_as :: [FileClass~PhotographAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~CreateAction/FileClass~PhotographAction.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~CreateAction/FileClass~PhotographAction.internal|FileClass~PhotographAction.internal]] 
 
-### #is_/same_as :: [FileClass~PhotographAction.protect](/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~CreateAction/FileClass~PhotographAction.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~CreateAction/FileClass~PhotographAction.protect|FileClass~PhotographAction.protect]] 
 
-### #is_/same_as :: [FileClass~PhotographAction.private](/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~CreateAction/FileClass~PhotographAction.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~CreateAction/FileClass~PhotographAction.private|FileClass~PhotographAction.private]] 
 
-### #is_/same_as :: [FileClass~PhotographAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~CreateAction/FileClass~PhotographAction.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~CreateAction/FileClass~PhotographAction.personal|FileClass~PhotographAction.personal]] 
 
-### #is_/same_as :: [FileClass~PhotographAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~CreateAction/FileClass~PhotographAction.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~CreateAction/FileClass~PhotographAction.secret|FileClass~PhotographAction.secret]] 
 

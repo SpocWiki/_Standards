@@ -76,17 +76,17 @@ X_Twitter_username:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Phelps,Michael](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Water_Sport/Swimming/Phelps,Michael.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Water_Sport/Swimming/Phelps,Michael|Phelps,Michael]] 
 
-### #is_/same_as :: [Phelps,Michael.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Water_Sport/Swimming/Phelps,Michael.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Water_Sport/Swimming/Phelps,Michael.public|Phelps,Michael.public]] 
 
-### #is_/same_as :: [Phelps,Michael.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Water_Sport/Swimming/Phelps,Michael.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Water_Sport/Swimming/Phelps,Michael.internal|Phelps,Michael.internal]] 
 
-### #is_/same_as :: [Phelps,Michael.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Water_Sport/Swimming/Phelps,Michael.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Water_Sport/Swimming/Phelps,Michael.protect|Phelps,Michael.protect]] 
 
-### #is_/same_as :: [Phelps,Michael.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Water_Sport/Swimming/Phelps,Michael.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Water_Sport/Swimming/Phelps,Michael.private|Phelps,Michael.private]] 
 
-### #is_/same_as :: [Phelps,Michael.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Water_Sport/Swimming/Phelps,Michael.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Water_Sport/Swimming/Phelps,Michael.personal|Phelps,Michael.personal]] 
 
-### #is_/same_as :: [Phelps,Michael.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Water_Sport/Swimming/Phelps,Michael.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Water_Sport/Swimming/Phelps,Michael.secret|Phelps,Michael.secret]] 
 

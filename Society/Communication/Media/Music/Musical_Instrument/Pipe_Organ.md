@@ -78,17 +78,17 @@ Commons_category: Pipe organs
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Pipe_Organ](/_Standards/Society/Communication/Media/Music/Musical_Instrument/Pipe_Organ.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Musical_Instrument/Pipe_Organ|Pipe_Organ]] 
 
-### #is_/same_as :: [Pipe_Organ.public](/_public/Society/Communication/Media/Music/Musical_Instrument/Pipe_Organ.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Musical_Instrument/Pipe_Organ.public|Pipe_Organ.public]] 
 
-### #is_/same_as :: [Pipe_Organ.internal](/_internal/Society/Communication/Media/Music/Musical_Instrument/Pipe_Organ.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Musical_Instrument/Pipe_Organ.internal|Pipe_Organ.internal]] 
 
-### #is_/same_as :: [Pipe_Organ.protect](/_protect/Society/Communication/Media/Music/Musical_Instrument/Pipe_Organ.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Musical_Instrument/Pipe_Organ.protect|Pipe_Organ.protect]] 
 
-### #is_/same_as :: [Pipe_Organ.private](/_private/Society/Communication/Media/Music/Musical_Instrument/Pipe_Organ.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Musical_Instrument/Pipe_Organ.private|Pipe_Organ.private]] 
 
-### #is_/same_as :: [Pipe_Organ.personal](/_personal/Society/Communication/Media/Music/Musical_Instrument/Pipe_Organ.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Musical_Instrument/Pipe_Organ.personal|Pipe_Organ.personal]] 
 
-### #is_/same_as :: [Pipe_Organ.secret](/_secret/Society/Communication/Media/Music/Musical_Instrument/Pipe_Organ.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Musical_Instrument/Pipe_Organ.secret|Pipe_Organ.secret]] 
 

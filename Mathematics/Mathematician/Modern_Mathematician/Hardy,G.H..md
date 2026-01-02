@@ -159,17 +159,17 @@ ISNI: 0000000122820227
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hardy,G.H.](/_Standards/Mathematics/Mathematician/Modern_Mathematician/Hardy,G.H..md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Mathematician/Modern_Mathematician/Hardy,G.H.|Hardy,G.H.]] 
 
-### #is_/same_as :: [Hardy,G.H..public](/_public/Mathematics/Mathematician/Modern_Mathematician/Hardy,G.H..public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Mathematician/Modern_Mathematician/Hardy,G.H..public|Hardy,G.H..public]] 
 
-### #is_/same_as :: [Hardy,G.H..internal](/_internal/Mathematics/Mathematician/Modern_Mathematician/Hardy,G.H..internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Mathematician/Modern_Mathematician/Hardy,G.H..internal|Hardy,G.H..internal]] 
 
-### #is_/same_as :: [Hardy,G.H..protect](/_protect/Mathematics/Mathematician/Modern_Mathematician/Hardy,G.H..protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Mathematician/Modern_Mathematician/Hardy,G.H..protect|Hardy,G.H..protect]] 
 
-### #is_/same_as :: [Hardy,G.H..private](/_private/Mathematics/Mathematician/Modern_Mathematician/Hardy,G.H..private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Mathematician/Modern_Mathematician/Hardy,G.H..private|Hardy,G.H..private]] 
 
-### #is_/same_as :: [Hardy,G.H..personal](/_personal/Mathematics/Mathematician/Modern_Mathematician/Hardy,G.H..personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Mathematician/Modern_Mathematician/Hardy,G.H..personal|Hardy,G.H..personal]] 
 
-### #is_/same_as :: [Hardy,G.H..secret](/_secret/Mathematics/Mathematician/Modern_Mathematician/Hardy,G.H..secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Mathematician/Modern_Mathematician/Hardy,G.H..secret|Hardy,G.H..secret]] 
 

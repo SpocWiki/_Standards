@@ -45,17 +45,17 @@ Commons_category: Military alliances
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Military_Alliance](/_Standards/Society/Agent/Community/Organization/International_Organization/Military_Alliance.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/International_Organization/Military_Alliance|Military_Alliance]] 
 
-### #is_/same_as :: [Military_Alliance.public](/_public/Society/Agent/Community/Organization/International_Organization/Military_Alliance.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/International_Organization/Military_Alliance.public|Military_Alliance.public]] 
 
-### #is_/same_as :: [Military_Alliance.internal](/_internal/Society/Agent/Community/Organization/International_Organization/Military_Alliance.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/International_Organization/Military_Alliance.internal|Military_Alliance.internal]] 
 
-### #is_/same_as :: [Military_Alliance.protect](/_protect/Society/Agent/Community/Organization/International_Organization/Military_Alliance.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/International_Organization/Military_Alliance.protect|Military_Alliance.protect]] 
 
-### #is_/same_as :: [Military_Alliance.private](/_private/Society/Agent/Community/Organization/International_Organization/Military_Alliance.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/International_Organization/Military_Alliance.private|Military_Alliance.private]] 
 
-### #is_/same_as :: [Military_Alliance.personal](/_personal/Society/Agent/Community/Organization/International_Organization/Military_Alliance.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/International_Organization/Military_Alliance.personal|Military_Alliance.personal]] 
 
-### #is_/same_as :: [Military_Alliance.secret](/_secret/Society/Agent/Community/Organization/International_Organization/Military_Alliance.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/International_Organization/Military_Alliance.secret|Military_Alliance.secret]] 
 

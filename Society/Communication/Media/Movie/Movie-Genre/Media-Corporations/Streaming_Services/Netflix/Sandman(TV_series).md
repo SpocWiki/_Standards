@@ -40,17 +40,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sandman(TV_series)](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Netflix/Sandman(TV_series).md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Netflix/Sandman(TV_series)|Sandman(TV_series)]] 
 
-### #is_/same_as :: [Sandman(TV_series).public](/_public/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Netflix/Sandman(TV_series).public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Netflix/Sandman(TV_series).public|Sandman(TV_series).public]] 
 
-### #is_/same_as :: [Sandman(TV_series).internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Netflix/Sandman(TV_series).internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Netflix/Sandman(TV_series).internal|Sandman(TV_series).internal]] 
 
-### #is_/same_as :: [Sandman(TV_series).protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Netflix/Sandman(TV_series).protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Netflix/Sandman(TV_series).protect|Sandman(TV_series).protect]] 
 
-### #is_/same_as :: [Sandman(TV_series).private](/_private/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Netflix/Sandman(TV_series).private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Netflix/Sandman(TV_series).private|Sandman(TV_series).private]] 
 
-### #is_/same_as :: [Sandman(TV_series).personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Netflix/Sandman(TV_series).personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Netflix/Sandman(TV_series).personal|Sandman(TV_series).personal]] 
 
-### #is_/same_as :: [Sandman(TV_series).secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Netflix/Sandman(TV_series).secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Netflix/Sandman(TV_series).secret|Sandman(TV_series).secret]] 
 

@@ -45,17 +45,17 @@ part_of: '[[_Standards/WikiData/WD~international_law,4394526]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Customary_international_Law](/_Standards/Society/Law/International_Law/Customary_international_Law.md) 
+### #is_/same_as :: [[/_Standards/Society/Law/International_Law/Customary_international_Law|Customary_international_Law]] 
 
-### #is_/same_as :: [Customary_international_Law.public](/_public/Society/Law/International_Law/Customary_international_Law.public.md) 
+### #is_/same_as :: [[/_public/Society/Law/International_Law/Customary_international_Law.public|Customary_international_Law.public]] 
 
-### #is_/same_as :: [Customary_international_Law.internal](/_internal/Society/Law/International_Law/Customary_international_Law.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Law/International_Law/Customary_international_Law.internal|Customary_international_Law.internal]] 
 
-### #is_/same_as :: [Customary_international_Law.protect](/_protect/Society/Law/International_Law/Customary_international_Law.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Law/International_Law/Customary_international_Law.protect|Customary_international_Law.protect]] 
 
-### #is_/same_as :: [Customary_international_Law.private](/_private/Society/Law/International_Law/Customary_international_Law.private.md) 
+### #is_/same_as :: [[/_private/Society/Law/International_Law/Customary_international_Law.private|Customary_international_Law.private]] 
 
-### #is_/same_as :: [Customary_international_Law.personal](/_personal/Society/Law/International_Law/Customary_international_Law.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Law/International_Law/Customary_international_Law.personal|Customary_international_Law.personal]] 
 
-### #is_/same_as :: [Customary_international_Law.secret](/_secret/Society/Law/International_Law/Customary_international_Law.secret.md)
+### #is_/same_as :: [[/_secret/Society/Law/International_Law/Customary_international_Law.secret|Customary_international_Law.secret]] 
 

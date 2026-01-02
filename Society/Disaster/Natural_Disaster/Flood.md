@@ -130,17 +130,17 @@ N4IgLgngDgpiBcIYA8DGBDANgSwCYCd0B3EAGhADcZ8BnbAewDsEAmcm+gV31TkQAswYKDXgB6MQHNsY
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Flood](/_Standards/Society/Disaster/Natural_Disaster/Flood.md) 
+### #is_/same_as :: [[/_Standards/Society/Disaster/Natural_Disaster/Flood|Flood]] 
 
-### #is_/same_as :: [Flood.public](/_public/Society/Disaster/Natural_Disaster/Flood.public.md) 
+### #is_/same_as :: [[/_public/Society/Disaster/Natural_Disaster/Flood.public|Flood.public]] 
 
-### #is_/same_as :: [Flood.internal](/_internal/Society/Disaster/Natural_Disaster/Flood.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Disaster/Natural_Disaster/Flood.internal|Flood.internal]] 
 
-### #is_/same_as :: [Flood.protect](/_protect/Society/Disaster/Natural_Disaster/Flood.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Disaster/Natural_Disaster/Flood.protect|Flood.protect]] 
 
-### #is_/same_as :: [Flood.private](/_private/Society/Disaster/Natural_Disaster/Flood.private.md) 
+### #is_/same_as :: [[/_private/Society/Disaster/Natural_Disaster/Flood.private|Flood.private]] 
 
-### #is_/same_as :: [Flood.personal](/_personal/Society/Disaster/Natural_Disaster/Flood.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Disaster/Natural_Disaster/Flood.personal|Flood.personal]] 
 
-### #is_/same_as :: [Flood.secret](/_secret/Society/Disaster/Natural_Disaster/Flood.secret.md)
+### #is_/same_as :: [[/_secret/Society/Disaster/Natural_Disaster/Flood.secret|Flood.secret]] 
 

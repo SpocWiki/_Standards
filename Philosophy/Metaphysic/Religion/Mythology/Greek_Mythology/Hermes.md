@@ -153,17 +153,17 @@ father: "[[_Standards/WikiData/WD~Zeus,34201]]"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hermes](/_Standards/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Hermes.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Hermes|Hermes]] 
 
-### #is_/same_as :: [Hermes.public](/_public/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Hermes.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Hermes.public|Hermes.public]] 
 
-### #is_/same_as :: [Hermes.internal](/_internal/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Hermes.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Hermes.internal|Hermes.internal]] 
 
-### #is_/same_as :: [Hermes.protect](/_protect/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Hermes.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Hermes.protect|Hermes.protect]] 
 
-### #is_/same_as :: [Hermes.private](/_private/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Hermes.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Hermes.private|Hermes.private]] 
 
-### #is_/same_as :: [Hermes.personal](/_personal/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Hermes.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Hermes.personal|Hermes.personal]] 
 
-### #is_/same_as :: [Hermes.secret](/_secret/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Hermes.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Hermes.secret|Hermes.secret]] 
 

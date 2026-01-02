@@ -78,17 +78,17 @@ coordinate_location: Point(-70.404166666 -24.6275)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Very_Large_Telescope](/_Standards/Technology/Tool/Instrumentation/Telescope/Very_Large_Telescope.md) 
+### #is_/same_as :: [[/_Standards/Technology/Tool/Instrumentation/Telescope/Very_Large_Telescope|Very_Large_Telescope]] 
 
-### #is_/same_as :: [Very_Large_Telescope.public](/_public/Technology/Tool/Instrumentation/Telescope/Very_Large_Telescope.public.md) 
+### #is_/same_as :: [[/_public/Technology/Tool/Instrumentation/Telescope/Very_Large_Telescope.public|Very_Large_Telescope.public]] 
 
-### #is_/same_as :: [Very_Large_Telescope.internal](/_internal/Technology/Tool/Instrumentation/Telescope/Very_Large_Telescope.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Tool/Instrumentation/Telescope/Very_Large_Telescope.internal|Very_Large_Telescope.internal]] 
 
-### #is_/same_as :: [Very_Large_Telescope.protect](/_protect/Technology/Tool/Instrumentation/Telescope/Very_Large_Telescope.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Tool/Instrumentation/Telescope/Very_Large_Telescope.protect|Very_Large_Telescope.protect]] 
 
-### #is_/same_as :: [Very_Large_Telescope.private](/_private/Technology/Tool/Instrumentation/Telescope/Very_Large_Telescope.private.md) 
+### #is_/same_as :: [[/_private/Technology/Tool/Instrumentation/Telescope/Very_Large_Telescope.private|Very_Large_Telescope.private]] 
 
-### #is_/same_as :: [Very_Large_Telescope.personal](/_personal/Technology/Tool/Instrumentation/Telescope/Very_Large_Telescope.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Tool/Instrumentation/Telescope/Very_Large_Telescope.personal|Very_Large_Telescope.personal]] 
 
-### #is_/same_as :: [Very_Large_Telescope.secret](/_secret/Technology/Tool/Instrumentation/Telescope/Very_Large_Telescope.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Tool/Instrumentation/Telescope/Very_Large_Telescope.secret|Very_Large_Telescope.secret]] 
 

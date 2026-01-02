@@ -47,17 +47,17 @@ Commons_gallery: Rainforest
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Rainforest](/_Standards/bio/Ecology/Ecosystem/Rainforest.md) 
+### #is_/same_as :: [[/_Standards/bio/Ecology/Ecosystem/Rainforest|Rainforest]] 
 
-### #is_/same_as :: [Rainforest.public](/_public/bio/Ecology/Ecosystem/Rainforest.public.md) 
+### #is_/same_as :: [[/_public/bio/Ecology/Ecosystem/Rainforest.public|Rainforest.public]] 
 
-### #is_/same_as :: [Rainforest.internal](/_internal/bio/Ecology/Ecosystem/Rainforest.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Ecology/Ecosystem/Rainforest.internal|Rainforest.internal]] 
 
-### #is_/same_as :: [Rainforest.protect](/_protect/bio/Ecology/Ecosystem/Rainforest.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Ecology/Ecosystem/Rainforest.protect|Rainforest.protect]] 
 
-### #is_/same_as :: [Rainforest.private](/_private/bio/Ecology/Ecosystem/Rainforest.private.md) 
+### #is_/same_as :: [[/_private/bio/Ecology/Ecosystem/Rainforest.private|Rainforest.private]] 
 
-### #is_/same_as :: [Rainforest.personal](/_personal/bio/Ecology/Ecosystem/Rainforest.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Ecology/Ecosystem/Rainforest.personal|Rainforest.personal]] 
 
-### #is_/same_as :: [Rainforest.secret](/_secret/bio/Ecology/Ecosystem/Rainforest.secret.md)
+### #is_/same_as :: [[/_secret/bio/Ecology/Ecosystem/Rainforest.secret|Rainforest.secret]] 
 

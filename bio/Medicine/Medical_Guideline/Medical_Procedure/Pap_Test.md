@@ -65,17 +65,17 @@ Commons_category: Pap test cytology
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Pap_Test](/_Standards/bio/Medicine/Medical_Guideline/Medical_Procedure/Pap_Test.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Guideline/Medical_Procedure/Pap_Test|Pap_Test]] 
 
-### #is_/same_as :: [Pap_Test.public](/_public/bio/Medicine/Medical_Guideline/Medical_Procedure/Pap_Test.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Guideline/Medical_Procedure/Pap_Test.public|Pap_Test.public]] 
 
-### #is_/same_as :: [Pap_Test.internal](/_internal/bio/Medicine/Medical_Guideline/Medical_Procedure/Pap_Test.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Guideline/Medical_Procedure/Pap_Test.internal|Pap_Test.internal]] 
 
-### #is_/same_as :: [Pap_Test.protect](/_protect/bio/Medicine/Medical_Guideline/Medical_Procedure/Pap_Test.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Guideline/Medical_Procedure/Pap_Test.protect|Pap_Test.protect]] 
 
-### #is_/same_as :: [Pap_Test.private](/_private/bio/Medicine/Medical_Guideline/Medical_Procedure/Pap_Test.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Guideline/Medical_Procedure/Pap_Test.private|Pap_Test.private]] 
 
-### #is_/same_as :: [Pap_Test.personal](/_personal/bio/Medicine/Medical_Guideline/Medical_Procedure/Pap_Test.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Guideline/Medical_Procedure/Pap_Test.personal|Pap_Test.personal]] 
 
-### #is_/same_as :: [Pap_Test.secret](/_secret/bio/Medicine/Medical_Guideline/Medical_Procedure/Pap_Test.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Guideline/Medical_Procedure/Pap_Test.secret|Pap_Test.secret]] 
 

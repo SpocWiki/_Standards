@@ -69,17 +69,17 @@ date_of_death: 1919-12-28T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Rydberg,Johannes](/_Standards/Science/Physics/Physicist/Rydberg,Johannes.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Physicist/Rydberg,Johannes|Rydberg,Johannes]] 
 
-### #is_/same_as :: [Rydberg,Johannes.public](/_public/Science/Physics/Physicist/Rydberg,Johannes.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Physicist/Rydberg,Johannes.public|Rydberg,Johannes.public]] 
 
-### #is_/same_as :: [Rydberg,Johannes.internal](/_internal/Science/Physics/Physicist/Rydberg,Johannes.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Physicist/Rydberg,Johannes.internal|Rydberg,Johannes.internal]] 
 
-### #is_/same_as :: [Rydberg,Johannes.protect](/_protect/Science/Physics/Physicist/Rydberg,Johannes.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Physicist/Rydberg,Johannes.protect|Rydberg,Johannes.protect]] 
 
-### #is_/same_as :: [Rydberg,Johannes.private](/_private/Science/Physics/Physicist/Rydberg,Johannes.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Physicist/Rydberg,Johannes.private|Rydberg,Johannes.private]] 
 
-### #is_/same_as :: [Rydberg,Johannes.personal](/_personal/Science/Physics/Physicist/Rydberg,Johannes.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Physicist/Rydberg,Johannes.personal|Rydberg,Johannes.personal]] 
 
-### #is_/same_as :: [Rydberg,Johannes.secret](/_secret/Science/Physics/Physicist/Rydberg,Johannes.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Physicist/Rydberg,Johannes.secret|Rydberg,Johannes.secret]] 
 

@@ -100,17 +100,17 @@ IPTC_NewsCode: mediatopic/20000942
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Gymnastics](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Gymnastics.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Gymnastics|Gymnastics]] 
 
-### #is_/same_as :: [Gymnastics.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Gymnastics.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Gymnastics.public|Gymnastics.public]] 
 
-### #is_/same_as :: [Gymnastics.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Gymnastics.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Gymnastics.internal|Gymnastics.internal]] 
 
-### #is_/same_as :: [Gymnastics.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Gymnastics.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Gymnastics.protect|Gymnastics.protect]] 
 
-### #is_/same_as :: [Gymnastics.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Gymnastics.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Gymnastics.private|Gymnastics.private]] 
 
-### #is_/same_as :: [Gymnastics.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Gymnastics.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Gymnastics.personal|Gymnastics.personal]] 
 
-### #is_/same_as :: [Gymnastics.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Gymnastics.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Gymnastics.secret|Gymnastics.secret]] 
 

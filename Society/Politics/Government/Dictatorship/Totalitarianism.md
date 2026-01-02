@@ -85,17 +85,17 @@ Dewey_Decimal_Classification: 320.53
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Totalitarianism](/_Standards/Society/Politics/Government/Dictatorship/Totalitarianism.md) 
+### #is_/same_as :: [[/_Standards/Society/Politics/Government/Dictatorship/Totalitarianism|Totalitarianism]] 
 
-### #is_/same_as :: [Totalitarianism.public](/_public/Society/Politics/Government/Dictatorship/Totalitarianism.public.md) 
+### #is_/same_as :: [[/_public/Society/Politics/Government/Dictatorship/Totalitarianism.public|Totalitarianism.public]] 
 
-### #is_/same_as :: [Totalitarianism.internal](/_internal/Society/Politics/Government/Dictatorship/Totalitarianism.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Politics/Government/Dictatorship/Totalitarianism.internal|Totalitarianism.internal]] 
 
-### #is_/same_as :: [Totalitarianism.protect](/_protect/Society/Politics/Government/Dictatorship/Totalitarianism.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Politics/Government/Dictatorship/Totalitarianism.protect|Totalitarianism.protect]] 
 
-### #is_/same_as :: [Totalitarianism.private](/_private/Society/Politics/Government/Dictatorship/Totalitarianism.private.md) 
+### #is_/same_as :: [[/_private/Society/Politics/Government/Dictatorship/Totalitarianism.private|Totalitarianism.private]] 
 
-### #is_/same_as :: [Totalitarianism.personal](/_personal/Society/Politics/Government/Dictatorship/Totalitarianism.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Politics/Government/Dictatorship/Totalitarianism.personal|Totalitarianism.personal]] 
 
-### #is_/same_as :: [Totalitarianism.secret](/_secret/Society/Politics/Government/Dictatorship/Totalitarianism.secret.md)
+### #is_/same_as :: [[/_secret/Society/Politics/Government/Dictatorship/Totalitarianism.secret|Totalitarianism.secret]] 
 

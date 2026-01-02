@@ -257,17 +257,17 @@ Baidu_Tieba_name: 神秘博士
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Doctor_Who](/_Standards/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series/Doctor_Who.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series/Doctor_Who|Doctor_Who]] 
 
-### #is_/same_as :: [Doctor_Who.public](/_public/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series/Doctor_Who.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series/Doctor_Who.public|Doctor_Who.public]] 
 
-### #is_/same_as :: [Doctor_Who.internal](/_internal/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series/Doctor_Who.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series/Doctor_Who.internal|Doctor_Who.internal]] 
 
-### #is_/same_as :: [Doctor_Who.protect](/_protect/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series/Doctor_Who.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series/Doctor_Who.protect|Doctor_Who.protect]] 
 
-### #is_/same_as :: [Doctor_Who.private](/_private/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series/Doctor_Who.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series/Doctor_Who.private|Doctor_Who.private]] 
 
-### #is_/same_as :: [Doctor_Who.personal](/_personal/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series/Doctor_Who.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series/Doctor_Who.personal|Doctor_Who.personal]] 
 
-### #is_/same_as :: [Doctor_Who.secret](/_secret/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series/Doctor_Who.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series/Doctor_Who.secret|Doctor_Who.secret]] 
 

@@ -45,17 +45,17 @@ Commons_category: Militarism
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Militarism](/_Standards/Society/Ideology/Political_Ideology/Militarism.md) 
+### #is_/same_as :: [[/_Standards/Society/Ideology/Political_Ideology/Militarism|Militarism]] 
 
-### #is_/same_as :: [Militarism.public](/_public/Society/Ideology/Political_Ideology/Militarism.public.md) 
+### #is_/same_as :: [[/_public/Society/Ideology/Political_Ideology/Militarism.public|Militarism.public]] 
 
-### #is_/same_as :: [Militarism.internal](/_internal/Society/Ideology/Political_Ideology/Militarism.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Ideology/Political_Ideology/Militarism.internal|Militarism.internal]] 
 
-### #is_/same_as :: [Militarism.protect](/_protect/Society/Ideology/Political_Ideology/Militarism.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Ideology/Political_Ideology/Militarism.protect|Militarism.protect]] 
 
-### #is_/same_as :: [Militarism.private](/_private/Society/Ideology/Political_Ideology/Militarism.private.md) 
+### #is_/same_as :: [[/_private/Society/Ideology/Political_Ideology/Militarism.private|Militarism.private]] 
 
-### #is_/same_as :: [Militarism.personal](/_personal/Society/Ideology/Political_Ideology/Militarism.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Ideology/Political_Ideology/Militarism.personal|Militarism.personal]] 
 
-### #is_/same_as :: [Militarism.secret](/_secret/Society/Ideology/Political_Ideology/Militarism.secret.md)
+### #is_/same_as :: [[/_secret/Society/Ideology/Political_Ideology/Militarism.secret|Militarism.secret]] 
 

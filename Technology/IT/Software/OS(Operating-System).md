@@ -187,17 +187,17 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [OS(Operating-System)](/_Standards/Technology/IT/Software/OS(Operating-System).md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Software/OS(Operating-System)|OS(Operating-System)]] 
 
-### #is_/same_as :: [OS(Operating-System).public](/_public/Technology/IT/Software/OS(Operating-System).public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Software/OS(Operating-System).public|OS(Operating-System).public]] 
 
-### #is_/same_as :: [OS(Operating-System).internal](/_internal/Technology/IT/Software/OS(Operating-System).internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Software/OS(Operating-System).internal|OS(Operating-System).internal]] 
 
-### #is_/same_as :: [OS(Operating-System).protect](/_protect/Technology/IT/Software/OS(Operating-System).protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Software/OS(Operating-System).protect|OS(Operating-System).protect]] 
 
-### #is_/same_as :: [OS(Operating-System).private](/_private/Technology/IT/Software/OS(Operating-System).private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Software/OS(Operating-System).private|OS(Operating-System).private]] 
 
-### #is_/same_as :: [OS(Operating-System).personal](/_personal/Technology/IT/Software/OS(Operating-System).personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Software/OS(Operating-System).personal|OS(Operating-System).personal]] 
 
-### #is_/same_as :: [OS(Operating-System).secret](/_secret/Technology/IT/Software/OS(Operating-System).secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Software/OS(Operating-System).secret|OS(Operating-System).secret]] 
 

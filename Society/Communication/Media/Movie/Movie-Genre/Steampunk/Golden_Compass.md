@@ -20,17 +20,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Golden_Compass](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Steampunk/Golden_Compass.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Genre/Steampunk/Golden_Compass|Golden_Compass]] 
 
-### #is_/same_as :: [Golden_Compass.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Steampunk/Golden_Compass.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Genre/Steampunk/Golden_Compass.public|Golden_Compass.public]] 
 
-### #is_/same_as :: [Golden_Compass.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Steampunk/Golden_Compass.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Genre/Steampunk/Golden_Compass.internal|Golden_Compass.internal]] 
 
-### #is_/same_as :: [Golden_Compass.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Steampunk/Golden_Compass.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Genre/Steampunk/Golden_Compass.protect|Golden_Compass.protect]] 
 
-### #is_/same_as :: [Golden_Compass.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Steampunk/Golden_Compass.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Genre/Steampunk/Golden_Compass.private|Golden_Compass.private]] 
 
-### #is_/same_as :: [Golden_Compass.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Steampunk/Golden_Compass.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Genre/Steampunk/Golden_Compass.personal|Golden_Compass.personal]] 
 
-### #is_/same_as :: [Golden_Compass.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Steampunk/Golden_Compass.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Genre/Steampunk/Golden_Compass.secret|Golden_Compass.secret]] 
 

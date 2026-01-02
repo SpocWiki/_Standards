@@ -99,17 +99,17 @@ A collection or bound volume of maps, charts, plates or tables, physical or in m
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Atlas](/_Standards/Earth/Atlas.md) 
+### #is_/same_as :: [[/_Standards/Earth/Atlas|Atlas]] 
 
-### #is_/same_as :: [Atlas.public](/_public/Earth/Atlas.public.md) 
+### #is_/same_as :: [[/_public/Earth/Atlas.public|Atlas.public]] 
 
-### #is_/same_as :: [Atlas.internal](/_internal/Earth/Atlas.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Atlas.internal|Atlas.internal]] 
 
-### #is_/same_as :: [Atlas.protect](/_protect/Earth/Atlas.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Atlas.protect|Atlas.protect]] 
 
-### #is_/same_as :: [Atlas.private](/_private/Earth/Atlas.private.md) 
+### #is_/same_as :: [[/_private/Earth/Atlas.private|Atlas.private]] 
 
-### #is_/same_as :: [Atlas.personal](/_personal/Earth/Atlas.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Atlas.personal|Atlas.personal]] 
 
-### #is_/same_as :: [Atlas.secret](/_secret/Earth/Atlas.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Atlas.secret|Atlas.secret]] 
 

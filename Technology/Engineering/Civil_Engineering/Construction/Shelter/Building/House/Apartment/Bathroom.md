@@ -47,17 +47,17 @@ Commons_category: Bathrooms
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bathroom](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Bathroom.md) 
+### #is_/same_as :: [[/_Standards/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Bathroom|Bathroom]] 
 
-### #is_/same_as :: [Bathroom.public](/_public/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Bathroom.public.md) 
+### #is_/same_as :: [[/_public/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Bathroom.public|Bathroom.public]] 
 
-### #is_/same_as :: [Bathroom.internal](/_internal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Bathroom.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Bathroom.internal|Bathroom.internal]] 
 
-### #is_/same_as :: [Bathroom.protect](/_protect/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Bathroom.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Bathroom.protect|Bathroom.protect]] 
 
-### #is_/same_as :: [Bathroom.private](/_private/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Bathroom.private.md) 
+### #is_/same_as :: [[/_private/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Bathroom.private|Bathroom.private]] 
 
-### #is_/same_as :: [Bathroom.personal](/_personal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Bathroom.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Bathroom.personal|Bathroom.personal]] 
 
-### #is_/same_as :: [Bathroom.secret](/_secret/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Bathroom.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Bathroom.secret|Bathroom.secret]] 
 

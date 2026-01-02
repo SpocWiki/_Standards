@@ -47,3 +47,22 @@ taxon_common_name: bielinek
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Pieris%20(plant)) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Cornales/Ericales/Ericaceae/Vaccinioideae/Pieris(Plant)|Pieris(Plant)]] 
+
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Cornales/Ericales/Ericaceae/Vaccinioideae/Pieris(Plant).public|Pieris(Plant).public]] 
+
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Cornales/Ericales/Ericaceae/Vaccinioideae/Pieris(Plant).internal|Pieris(Plant).internal]] 
+
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Cornales/Ericales/Ericaceae/Vaccinioideae/Pieris(Plant).protect|Pieris(Plant).protect]] 
+
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Cornales/Ericales/Ericaceae/Vaccinioideae/Pieris(Plant).private|Pieris(Plant).private]] 
+
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Cornales/Ericales/Ericaceae/Vaccinioideae/Pieris(Plant).personal|Pieris(Plant).personal]] 
+
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Cornales/Ericales/Ericaceae/Vaccinioideae/Pieris(Plant).secret|Pieris(Plant).secret]] 
+

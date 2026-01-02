@@ -26,17 +26,17 @@ Commons_category: Worm gears
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Worm_Drive](/_Standards/Technology/Engineering/Mechanical_Engineering/Machine/Gearbox/Worm_Drive.md) 
+### #is_/same_as :: [[/_Standards/Technology/Engineering/Mechanical_Engineering/Machine/Gearbox/Worm_Drive|Worm_Drive]] 
 
-### #is_/same_as :: [Worm_Drive.public](/_public/Technology/Engineering/Mechanical_Engineering/Machine/Gearbox/Worm_Drive.public.md) 
+### #is_/same_as :: [[/_public/Technology/Engineering/Mechanical_Engineering/Machine/Gearbox/Worm_Drive.public|Worm_Drive.public]] 
 
-### #is_/same_as :: [Worm_Drive.internal](/_internal/Technology/Engineering/Mechanical_Engineering/Machine/Gearbox/Worm_Drive.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Engineering/Mechanical_Engineering/Machine/Gearbox/Worm_Drive.internal|Worm_Drive.internal]] 
 
-### #is_/same_as :: [Worm_Drive.protect](/_protect/Technology/Engineering/Mechanical_Engineering/Machine/Gearbox/Worm_Drive.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Engineering/Mechanical_Engineering/Machine/Gearbox/Worm_Drive.protect|Worm_Drive.protect]] 
 
-### #is_/same_as :: [Worm_Drive.private](/_private/Technology/Engineering/Mechanical_Engineering/Machine/Gearbox/Worm_Drive.private.md) 
+### #is_/same_as :: [[/_private/Technology/Engineering/Mechanical_Engineering/Machine/Gearbox/Worm_Drive.private|Worm_Drive.private]] 
 
-### #is_/same_as :: [Worm_Drive.personal](/_personal/Technology/Engineering/Mechanical_Engineering/Machine/Gearbox/Worm_Drive.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Engineering/Mechanical_Engineering/Machine/Gearbox/Worm_Drive.personal|Worm_Drive.personal]] 
 
-### #is_/same_as :: [Worm_Drive.secret](/_secret/Technology/Engineering/Mechanical_Engineering/Machine/Gearbox/Worm_Drive.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Engineering/Mechanical_Engineering/Machine/Gearbox/Worm_Drive.secret|Worm_Drive.secret]] 
 

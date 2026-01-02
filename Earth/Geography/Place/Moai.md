@@ -62,17 +62,17 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Ahu%20Tongariki.jpg
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Moai](/_Standards/Earth/Geography/Place/Moai.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geography/Place/Moai|Moai]] 
 
-### #is_/same_as :: [Moai.public](/_public/Earth/Geography/Place/Moai.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geography/Place/Moai.public|Moai.public]] 
 
-### #is_/same_as :: [Moai.internal](/_internal/Earth/Geography/Place/Moai.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geography/Place/Moai.internal|Moai.internal]] 
 
-### #is_/same_as :: [Moai.protect](/_protect/Earth/Geography/Place/Moai.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geography/Place/Moai.protect|Moai.protect]] 
 
-### #is_/same_as :: [Moai.private](/_private/Earth/Geography/Place/Moai.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geography/Place/Moai.private|Moai.private]] 
 
-### #is_/same_as :: [Moai.personal](/_personal/Earth/Geography/Place/Moai.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geography/Place/Moai.personal|Moai.personal]] 
 
-### #is_/same_as :: [Moai.secret](/_secret/Earth/Geography/Place/Moai.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geography/Place/Moai.secret|Moai.secret]] 
 

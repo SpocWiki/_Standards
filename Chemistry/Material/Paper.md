@@ -85,17 +85,17 @@ Wolfram_Language_entity_code: Entity["Concept", "Paper::495t6"]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Paper](/_Standards/Chemistry/Material/Paper.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Material/Paper|Paper]] 
 
-### #is_/same_as :: [Paper.public](/_public/Chemistry/Material/Paper.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Material/Paper.public|Paper.public]] 
 
-### #is_/same_as :: [Paper.internal](/_internal/Chemistry/Material/Paper.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Material/Paper.internal|Paper.internal]] 
 
-### #is_/same_as :: [Paper.protect](/_protect/Chemistry/Material/Paper.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Material/Paper.protect|Paper.protect]] 
 
-### #is_/same_as :: [Paper.private](/_private/Chemistry/Material/Paper.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Material/Paper.private|Paper.private]] 
 
-### #is_/same_as :: [Paper.personal](/_personal/Chemistry/Material/Paper.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Material/Paper.personal|Paper.personal]] 
 
-### #is_/same_as :: [Paper.secret](/_secret/Chemistry/Material/Paper.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Material/Paper.secret|Paper.secret]] 
 

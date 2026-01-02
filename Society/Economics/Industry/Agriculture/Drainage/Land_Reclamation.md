@@ -36,17 +36,17 @@ OpenStreetMap_tag: reclaimed=yes
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Land_Reclamation](/_Standards/Society/Economics/Industry/Agriculture/Drainage/Land_Reclamation.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Industry/Agriculture/Drainage/Land_Reclamation|Land_Reclamation]] 
 
-### #is_/same_as :: [Land_Reclamation.public](/_public/Society/Economics/Industry/Agriculture/Drainage/Land_Reclamation.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Industry/Agriculture/Drainage/Land_Reclamation.public|Land_Reclamation.public]] 
 
-### #is_/same_as :: [Land_Reclamation.internal](/_internal/Society/Economics/Industry/Agriculture/Drainage/Land_Reclamation.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Industry/Agriculture/Drainage/Land_Reclamation.internal|Land_Reclamation.internal]] 
 
-### #is_/same_as :: [Land_Reclamation.protect](/_protect/Society/Economics/Industry/Agriculture/Drainage/Land_Reclamation.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Industry/Agriculture/Drainage/Land_Reclamation.protect|Land_Reclamation.protect]] 
 
-### #is_/same_as :: [Land_Reclamation.private](/_private/Society/Economics/Industry/Agriculture/Drainage/Land_Reclamation.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Industry/Agriculture/Drainage/Land_Reclamation.private|Land_Reclamation.private]] 
 
-### #is_/same_as :: [Land_Reclamation.personal](/_personal/Society/Economics/Industry/Agriculture/Drainage/Land_Reclamation.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Industry/Agriculture/Drainage/Land_Reclamation.personal|Land_Reclamation.personal]] 
 
-### #is_/same_as :: [Land_Reclamation.secret](/_secret/Society/Economics/Industry/Agriculture/Drainage/Land_Reclamation.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Industry/Agriculture/Drainage/Land_Reclamation.secret|Land_Reclamation.secret]] 
 

@@ -54,17 +54,17 @@ Commons_category: Electrophoresis
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Electrophoresis](/_Standards/Chemistry/Substance/Mixture/Electrophoresis.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Substance/Mixture/Electrophoresis|Electrophoresis]] 
 
-### #is_/same_as :: [Electrophoresis.public](/_public/Chemistry/Substance/Mixture/Electrophoresis.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Substance/Mixture/Electrophoresis.public|Electrophoresis.public]] 
 
-### #is_/same_as :: [Electrophoresis.internal](/_internal/Chemistry/Substance/Mixture/Electrophoresis.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Substance/Mixture/Electrophoresis.internal|Electrophoresis.internal]] 
 
-### #is_/same_as :: [Electrophoresis.protect](/_protect/Chemistry/Substance/Mixture/Electrophoresis.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Substance/Mixture/Electrophoresis.protect|Electrophoresis.protect]] 
 
-### #is_/same_as :: [Electrophoresis.private](/_private/Chemistry/Substance/Mixture/Electrophoresis.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Substance/Mixture/Electrophoresis.private|Electrophoresis.private]] 
 
-### #is_/same_as :: [Electrophoresis.personal](/_personal/Chemistry/Substance/Mixture/Electrophoresis.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Substance/Mixture/Electrophoresis.personal|Electrophoresis.personal]] 
 
-### #is_/same_as :: [Electrophoresis.secret](/_secret/Chemistry/Substance/Mixture/Electrophoresis.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Substance/Mixture/Electrophoresis.secret|Electrophoresis.secret]] 
 

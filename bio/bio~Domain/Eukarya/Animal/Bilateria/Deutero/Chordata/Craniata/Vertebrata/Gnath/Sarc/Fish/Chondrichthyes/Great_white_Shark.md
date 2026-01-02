@@ -210,17 +210,17 @@ NBN_System_Key: NHMSYS0001745235
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Great_white_Shark](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Fish/Chondrichthyes/Great_white_Shark.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Fish/Chondrichthyes/Great_white_Shark|Great_white_Shark]] 
 
-### #is_/same_as :: [Great_white_Shark.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Fish/Chondrichthyes/Great_white_Shark.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Fish/Chondrichthyes/Great_white_Shark.public|Great_white_Shark.public]] 
 
-### #is_/same_as :: [Great_white_Shark.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Fish/Chondrichthyes/Great_white_Shark.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Fish/Chondrichthyes/Great_white_Shark.internal|Great_white_Shark.internal]] 
 
-### #is_/same_as :: [Great_white_Shark.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Fish/Chondrichthyes/Great_white_Shark.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Fish/Chondrichthyes/Great_white_Shark.protect|Great_white_Shark.protect]] 
 
-### #is_/same_as :: [Great_white_Shark.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Fish/Chondrichthyes/Great_white_Shark.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Fish/Chondrichthyes/Great_white_Shark.private|Great_white_Shark.private]] 
 
-### #is_/same_as :: [Great_white_Shark.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Fish/Chondrichthyes/Great_white_Shark.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Fish/Chondrichthyes/Great_white_Shark.personal|Great_white_Shark.personal]] 
 
-### #is_/same_as :: [Great_white_Shark.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Fish/Chondrichthyes/Great_white_Shark.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Fish/Chondrichthyes/Great_white_Shark.secret|Great_white_Shark.secret]] 
 

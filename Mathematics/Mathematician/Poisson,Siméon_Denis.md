@@ -135,17 +135,17 @@ date_of_birth: 1781-06-21T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Poisson,Siméon_Denis](/_Standards/Mathematics/Mathematician/Poisson,Siméon_Denis.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Mathematician/Poisson,Siméon_Denis|Poisson,Siméon_Denis]] 
 
-### #is_/same_as :: [Poisson,Siméon_Denis.public](/_public/Mathematics/Mathematician/Poisson,Siméon_Denis.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Mathematician/Poisson,Siméon_Denis.public|Poisson,Siméon_Denis.public]] 
 
-### #is_/same_as :: [Poisson,Siméon_Denis.internal](/_internal/Mathematics/Mathematician/Poisson,Siméon_Denis.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Mathematician/Poisson,Siméon_Denis.internal|Poisson,Siméon_Denis.internal]] 
 
-### #is_/same_as :: [Poisson,Siméon_Denis.protect](/_protect/Mathematics/Mathematician/Poisson,Siméon_Denis.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Mathematician/Poisson,Siméon_Denis.protect|Poisson,Siméon_Denis.protect]] 
 
-### #is_/same_as :: [Poisson,Siméon_Denis.private](/_private/Mathematics/Mathematician/Poisson,Siméon_Denis.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Mathematician/Poisson,Siméon_Denis.private|Poisson,Siméon_Denis.private]] 
 
-### #is_/same_as :: [Poisson,Siméon_Denis.personal](/_personal/Mathematics/Mathematician/Poisson,Siméon_Denis.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Mathematician/Poisson,Siméon_Denis.personal|Poisson,Siméon_Denis.personal]] 
 
-### #is_/same_as :: [Poisson,Siméon_Denis.secret](/_secret/Mathematics/Mathematician/Poisson,Siméon_Denis.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Mathematician/Poisson,Siméon_Denis.secret|Poisson,Siméon_Denis.secret]] 
 

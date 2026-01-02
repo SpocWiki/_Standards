@@ -48,17 +48,17 @@ Commons_category: Sea level
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sea_Level](/_Standards/Earth/Geography/Cartography/Sea_Level.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geography/Cartography/Sea_Level|Sea_Level]] 
 
-### #is_/same_as :: [Sea_Level.public](/_public/Earth/Geography/Cartography/Sea_Level.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geography/Cartography/Sea_Level.public|Sea_Level.public]] 
 
-### #is_/same_as :: [Sea_Level.internal](/_internal/Earth/Geography/Cartography/Sea_Level.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geography/Cartography/Sea_Level.internal|Sea_Level.internal]] 
 
-### #is_/same_as :: [Sea_Level.protect](/_protect/Earth/Geography/Cartography/Sea_Level.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geography/Cartography/Sea_Level.protect|Sea_Level.protect]] 
 
-### #is_/same_as :: [Sea_Level.private](/_private/Earth/Geography/Cartography/Sea_Level.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geography/Cartography/Sea_Level.private|Sea_Level.private]] 
 
-### #is_/same_as :: [Sea_Level.personal](/_personal/Earth/Geography/Cartography/Sea_Level.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geography/Cartography/Sea_Level.personal|Sea_Level.personal]] 
 
-### #is_/same_as :: [Sea_Level.secret](/_secret/Earth/Geography/Cartography/Sea_Level.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geography/Cartography/Sea_Level.secret|Sea_Level.secret]] 
 

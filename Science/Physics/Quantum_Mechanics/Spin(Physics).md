@@ -71,17 +71,17 @@ quantity_symbol_LaTeX_: <math class="mwe-math-element mwe-math-element-inline" x
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Spin(Physics)](/_Standards/Science/Physics/Quantum_Mechanics/Spin(Physics).md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Quantum_Mechanics/Spin(Physics)|Spin(Physics)]] 
 
-### #is_/same_as :: [Spin(Physics).public](/_public/Science/Physics/Quantum_Mechanics/Spin(Physics).public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Quantum_Mechanics/Spin(Physics).public|Spin(Physics).public]] 
 
-### #is_/same_as :: [Spin(Physics).internal](/_internal/Science/Physics/Quantum_Mechanics/Spin(Physics).internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Quantum_Mechanics/Spin(Physics).internal|Spin(Physics).internal]] 
 
-### #is_/same_as :: [Spin(Physics).protect](/_protect/Science/Physics/Quantum_Mechanics/Spin(Physics).protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Quantum_Mechanics/Spin(Physics).protect|Spin(Physics).protect]] 
 
-### #is_/same_as :: [Spin(Physics).private](/_private/Science/Physics/Quantum_Mechanics/Spin(Physics).private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Quantum_Mechanics/Spin(Physics).private|Spin(Physics).private]] 
 
-### #is_/same_as :: [Spin(Physics).personal](/_personal/Science/Physics/Quantum_Mechanics/Spin(Physics).personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Quantum_Mechanics/Spin(Physics).personal|Spin(Physics).personal]] 
 
-### #is_/same_as :: [Spin(Physics).secret](/_secret/Science/Physics/Quantum_Mechanics/Spin(Physics).secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Quantum_Mechanics/Spin(Physics).secret|Spin(Physics).secret]] 
 

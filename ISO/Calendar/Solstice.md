@@ -61,17 +61,17 @@ spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Es-Solstic
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Solstice](/_Standards/ISO/Calendar/Solstice.md) 
+### #is_/same_as :: [[/_Standards/ISO/Calendar/Solstice|Solstice]] 
 
-### #is_/same_as :: [Solstice.public](/_public/ISO/Calendar/Solstice.public.md) 
+### #is_/same_as :: [[/_public/ISO/Calendar/Solstice.public|Solstice.public]] 
 
-### #is_/same_as :: [Solstice.internal](/_internal/ISO/Calendar/Solstice.internal.md) 
+### #is_/same_as :: [[/_internal/ISO/Calendar/Solstice.internal|Solstice.internal]] 
 
-### #is_/same_as :: [Solstice.protect](/_protect/ISO/Calendar/Solstice.protect.md) 
+### #is_/same_as :: [[/_protect/ISO/Calendar/Solstice.protect|Solstice.protect]] 
 
-### #is_/same_as :: [Solstice.private](/_private/ISO/Calendar/Solstice.private.md) 
+### #is_/same_as :: [[/_private/ISO/Calendar/Solstice.private|Solstice.private]] 
 
-### #is_/same_as :: [Solstice.personal](/_personal/ISO/Calendar/Solstice.personal.md) 
+### #is_/same_as :: [[/_personal/ISO/Calendar/Solstice.personal|Solstice.personal]] 
 
-### #is_/same_as :: [Solstice.secret](/_secret/ISO/Calendar/Solstice.secret.md)
+### #is_/same_as :: [[/_secret/ISO/Calendar/Solstice.secret|Solstice.secret]] 
 

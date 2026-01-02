@@ -68,17 +68,17 @@ Iconclass_notation: 46B4711
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Interest_Payment](/_Standards/Society/Economics/Money/Debt/Interest_Payment.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Money/Debt/Interest_Payment|Interest_Payment]] 
 
-### #is_/same_as :: [Interest_Payment.public](/_public/Society/Economics/Money/Debt/Interest_Payment.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Money/Debt/Interest_Payment.public|Interest_Payment.public]] 
 
-### #is_/same_as :: [Interest_Payment.internal](/_internal/Society/Economics/Money/Debt/Interest_Payment.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Money/Debt/Interest_Payment.internal|Interest_Payment.internal]] 
 
-### #is_/same_as :: [Interest_Payment.protect](/_protect/Society/Economics/Money/Debt/Interest_Payment.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Money/Debt/Interest_Payment.protect|Interest_Payment.protect]] 
 
-### #is_/same_as :: [Interest_Payment.private](/_private/Society/Economics/Money/Debt/Interest_Payment.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Money/Debt/Interest_Payment.private|Interest_Payment.private]] 
 
-### #is_/same_as :: [Interest_Payment.personal](/_personal/Society/Economics/Money/Debt/Interest_Payment.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Money/Debt/Interest_Payment.personal|Interest_Payment.personal]] 
 
-### #is_/same_as :: [Interest_Payment.secret](/_secret/Society/Economics/Money/Debt/Interest_Payment.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Money/Debt/Interest_Payment.secret|Interest_Payment.secret]] 
 

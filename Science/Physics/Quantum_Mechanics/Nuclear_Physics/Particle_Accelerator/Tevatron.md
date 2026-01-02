@@ -56,17 +56,17 @@ Commons_category: Tevatron
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Tevatron](/_Standards/Science/Physics/Quantum_Mechanics/Nuclear_Physics/Particle_Accelerator/Tevatron.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Quantum_Mechanics/Nuclear_Physics/Particle_Accelerator/Tevatron|Tevatron]] 
 
-### #is_/same_as :: [Tevatron.public](/_public/Science/Physics/Quantum_Mechanics/Nuclear_Physics/Particle_Accelerator/Tevatron.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Quantum_Mechanics/Nuclear_Physics/Particle_Accelerator/Tevatron.public|Tevatron.public]] 
 
-### #is_/same_as :: [Tevatron.internal](/_internal/Science/Physics/Quantum_Mechanics/Nuclear_Physics/Particle_Accelerator/Tevatron.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Quantum_Mechanics/Nuclear_Physics/Particle_Accelerator/Tevatron.internal|Tevatron.internal]] 
 
-### #is_/same_as :: [Tevatron.protect](/_protect/Science/Physics/Quantum_Mechanics/Nuclear_Physics/Particle_Accelerator/Tevatron.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Quantum_Mechanics/Nuclear_Physics/Particle_Accelerator/Tevatron.protect|Tevatron.protect]] 
 
-### #is_/same_as :: [Tevatron.private](/_private/Science/Physics/Quantum_Mechanics/Nuclear_Physics/Particle_Accelerator/Tevatron.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Quantum_Mechanics/Nuclear_Physics/Particle_Accelerator/Tevatron.private|Tevatron.private]] 
 
-### #is_/same_as :: [Tevatron.personal](/_personal/Science/Physics/Quantum_Mechanics/Nuclear_Physics/Particle_Accelerator/Tevatron.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Quantum_Mechanics/Nuclear_Physics/Particle_Accelerator/Tevatron.personal|Tevatron.personal]] 
 
-### #is_/same_as :: [Tevatron.secret](/_secret/Science/Physics/Quantum_Mechanics/Nuclear_Physics/Particle_Accelerator/Tevatron.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Quantum_Mechanics/Nuclear_Physics/Particle_Accelerator/Tevatron.secret|Tevatron.secret]] 
 

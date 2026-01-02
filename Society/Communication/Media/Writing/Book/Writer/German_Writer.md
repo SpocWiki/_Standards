@@ -19,17 +19,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [German_Writer](/_Standards/Society/Communication/Media/Writing/Book/Writer/German_Writer.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Writer/German_Writer|German_Writer]] 
 
-### #is_/same_as :: [German_Writer.public](/_public/Society/Communication/Media/Writing/Book/Writer/German_Writer.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Writer/German_Writer.public|German_Writer.public]] 
 
-### #is_/same_as :: [German_Writer.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/German_Writer.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Writer/German_Writer.internal|German_Writer.internal]] 
 
-### #is_/same_as :: [German_Writer.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/German_Writer.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Writer/German_Writer.protect|German_Writer.protect]] 
 
-### #is_/same_as :: [German_Writer.private](/_private/Society/Communication/Media/Writing/Book/Writer/German_Writer.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Writer/German_Writer.private|German_Writer.private]] 
 
-### #is_/same_as :: [German_Writer.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/German_Writer.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Writer/German_Writer.personal|German_Writer.personal]] 
 
-### #is_/same_as :: [German_Writer.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/German_Writer.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Writer/German_Writer.secret|German_Writer.secret]] 
 

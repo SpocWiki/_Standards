@@ -130,17 +130,17 @@ U_S_National_Archives_Identifier: 10583118
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Salk,Jonas](/_Standards/bio/Medicine/Medical_Enumeration/Medical_Audience_Type/Medical_Researcher/Salk,Jonas.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Enumeration/Medical_Audience_Type/Medical_Researcher/Salk,Jonas|Salk,Jonas]] 
 
-### #is_/same_as :: [Salk,Jonas.public](/_public/bio/Medicine/Medical_Enumeration/Medical_Audience_Type/Medical_Researcher/Salk,Jonas.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Enumeration/Medical_Audience_Type/Medical_Researcher/Salk,Jonas.public|Salk,Jonas.public]] 
 
-### #is_/same_as :: [Salk,Jonas.internal](/_internal/bio/Medicine/Medical_Enumeration/Medical_Audience_Type/Medical_Researcher/Salk,Jonas.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Enumeration/Medical_Audience_Type/Medical_Researcher/Salk,Jonas.internal|Salk,Jonas.internal]] 
 
-### #is_/same_as :: [Salk,Jonas.protect](/_protect/bio/Medicine/Medical_Enumeration/Medical_Audience_Type/Medical_Researcher/Salk,Jonas.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Enumeration/Medical_Audience_Type/Medical_Researcher/Salk,Jonas.protect|Salk,Jonas.protect]] 
 
-### #is_/same_as :: [Salk,Jonas.private](/_private/bio/Medicine/Medical_Enumeration/Medical_Audience_Type/Medical_Researcher/Salk,Jonas.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Enumeration/Medical_Audience_Type/Medical_Researcher/Salk,Jonas.private|Salk,Jonas.private]] 
 
-### #is_/same_as :: [Salk,Jonas.personal](/_personal/bio/Medicine/Medical_Enumeration/Medical_Audience_Type/Medical_Researcher/Salk,Jonas.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Enumeration/Medical_Audience_Type/Medical_Researcher/Salk,Jonas.personal|Salk,Jonas.personal]] 
 
-### #is_/same_as :: [Salk,Jonas.secret](/_secret/bio/Medicine/Medical_Enumeration/Medical_Audience_Type/Medical_Researcher/Salk,Jonas.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Enumeration/Medical_Audience_Type/Medical_Researcher/Salk,Jonas.secret|Salk,Jonas.secret]] 
 

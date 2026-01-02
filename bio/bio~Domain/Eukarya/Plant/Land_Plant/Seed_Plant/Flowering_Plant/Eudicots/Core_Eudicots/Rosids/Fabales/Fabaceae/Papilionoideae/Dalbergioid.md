@@ -92,14 +92,14 @@ corollas.
 ## Title Illustrations
 
 ----------------------- 
-![Dalbergia gracilis](Dalbergioid/Dalbergia_gracilis.jpg))
+![Dalbergia gracilis](Dalbergioid/Dalbergia_gracilis.jpg) 
 Scientific Name ::     Dalbergia gracilis Benth.
 Location ::           Bolivia
 Specimen Condition   Live Specimen
 Copyright ::            © [Robin Foster](http://fm2.fieldmuseum.org/plantguides/)
 
 --------------------- 
-![Amorpha canescens](Dalbergioid/Amorpha_canescens.jpg))
+![Amorpha canescens](Dalbergioid/Amorpha_canescens.jpg) 
 Scientific Name ::     Amorpha canescens Pursh
 Location ::           Lincoln County, Kansas
 Comments             Commonly called Lead Plant.
@@ -107,7 +107,7 @@ Specimen Condition   Live Specimen
 Copyright ::            © [Mike Haddock](http://www.lib.ksu.edu/wildflower/)
 
 --------------------- 
-![Dalea aurea](Dalbergioid/Dalea_aurea.jpg))
+![Dalea aurea](Dalbergioid/Dalea_aurea.jpg) 
 Scientific Name ::     Dalea aurea Nutt. ex Pursh
 Location ::           Mitchell County, Kansas
 Comments             Commonly called Silktop dalea.
@@ -115,7 +115,7 @@ Specimen Condition   Live Specimen
 Copyright ::            © [Mike Haddock](http://www.lib.ksu.edu/wildflower/)
 
 ------------ 
-![Inocarpus edulis](Dalbergioid/Inocarpus_edulis.jpg))
+![Inocarpus edulis](Dalbergioid/Inocarpus_edulis.jpg) 
 Scientific Name ::     Inocarpus edulis Forst.
 Specimen Condition   Live Specimen
 Copyright ::            © G. D. Carr
@@ -123,17 +123,17 @@ Copyright ::            © G. D. Carr
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Dalbergioid](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Papilionoideae/Dalbergioid.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Papilionoideae/Dalbergioid|Dalbergioid]] 
 
-### #is_/same_as :: [Dalbergioid.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Papilionoideae/Dalbergioid.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Papilionoideae/Dalbergioid.public|Dalbergioid.public]] 
 
-### #is_/same_as :: [Dalbergioid.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Papilionoideae/Dalbergioid.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Papilionoideae/Dalbergioid.internal|Dalbergioid.internal]] 
 
-### #is_/same_as :: [Dalbergioid.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Papilionoideae/Dalbergioid.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Papilionoideae/Dalbergioid.protect|Dalbergioid.protect]] 
 
-### #is_/same_as :: [Dalbergioid.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Papilionoideae/Dalbergioid.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Papilionoideae/Dalbergioid.private|Dalbergioid.private]] 
 
-### #is_/same_as :: [Dalbergioid.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Papilionoideae/Dalbergioid.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Papilionoideae/Dalbergioid.personal|Dalbergioid.personal]] 
 
-### #is_/same_as :: [Dalbergioid.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Papilionoideae/Dalbergioid.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Papilionoideae/Dalbergioid.secret|Dalbergioid.secret]] 
 

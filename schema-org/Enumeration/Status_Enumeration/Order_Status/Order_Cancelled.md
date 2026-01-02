@@ -42,17 +42,17 @@ OrderStatus representing cancellation of an order.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Order_Cancelled](/_Standards/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Cancelled.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Cancelled|Order_Cancelled]] 
 
-### #is_/same_as :: [Order_Cancelled.public](/_public/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Cancelled.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Cancelled.public|Order_Cancelled.public]] 
 
-### #is_/same_as :: [Order_Cancelled.internal](/_internal/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Cancelled.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Cancelled.internal|Order_Cancelled.internal]] 
 
-### #is_/same_as :: [Order_Cancelled.protect](/_protect/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Cancelled.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Cancelled.protect|Order_Cancelled.protect]] 
 
-### #is_/same_as :: [Order_Cancelled.private](/_private/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Cancelled.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Cancelled.private|Order_Cancelled.private]] 
 
-### #is_/same_as :: [Order_Cancelled.personal](/_personal/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Cancelled.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Cancelled.personal|Order_Cancelled.personal]] 
 
-### #is_/same_as :: [Order_Cancelled.secret](/_secret/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Cancelled.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Cancelled.secret|Order_Cancelled.secret]] 
 

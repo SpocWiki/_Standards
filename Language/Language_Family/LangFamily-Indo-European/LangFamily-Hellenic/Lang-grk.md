@@ -187,17 +187,17 @@ writing_system: '[[_Standards/WikiData/WD~Greek_alphabet,8216]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lang-grk](/_Standards/Language/Language_Family/LangFamily-Indo-European/LangFamily-Hellenic/Lang-grk.md) 
+### #is_/same_as :: [[/_Standards/Language/Language_Family/LangFamily-Indo-European/LangFamily-Hellenic/Lang-grk|Lang-grk]] 
 
-### #is_/same_as :: [Lang-grk.public](/_public/Language/Language_Family/LangFamily-Indo-European/LangFamily-Hellenic/Lang-grk.public.md) 
+### #is_/same_as :: [[/_public/Language/Language_Family/LangFamily-Indo-European/LangFamily-Hellenic/Lang-grk.public|Lang-grk.public]] 
 
-### #is_/same_as :: [Lang-grk.internal](/_internal/Language/Language_Family/LangFamily-Indo-European/LangFamily-Hellenic/Lang-grk.internal.md) 
+### #is_/same_as :: [[/_internal/Language/Language_Family/LangFamily-Indo-European/LangFamily-Hellenic/Lang-grk.internal|Lang-grk.internal]] 
 
-### #is_/same_as :: [Lang-grk.protect](/_protect/Language/Language_Family/LangFamily-Indo-European/LangFamily-Hellenic/Lang-grk.protect.md) 
+### #is_/same_as :: [[/_protect/Language/Language_Family/LangFamily-Indo-European/LangFamily-Hellenic/Lang-grk.protect|Lang-grk.protect]] 
 
-### #is_/same_as :: [Lang-grk.private](/_private/Language/Language_Family/LangFamily-Indo-European/LangFamily-Hellenic/Lang-grk.private.md) 
+### #is_/same_as :: [[/_private/Language/Language_Family/LangFamily-Indo-European/LangFamily-Hellenic/Lang-grk.private|Lang-grk.private]] 
 
-### #is_/same_as :: [Lang-grk.personal](/_personal/Language/Language_Family/LangFamily-Indo-European/LangFamily-Hellenic/Lang-grk.personal.md) 
+### #is_/same_as :: [[/_personal/Language/Language_Family/LangFamily-Indo-European/LangFamily-Hellenic/Lang-grk.personal|Lang-grk.personal]] 
 
-### #is_/same_as :: [Lang-grk.secret](/_secret/Language/Language_Family/LangFamily-Indo-European/LangFamily-Hellenic/Lang-grk.secret.md)
+### #is_/same_as :: [[/_secret/Language/Language_Family/LangFamily-Indo-European/LangFamily-Hellenic/Lang-grk.secret|Lang-grk.secret]] 
 

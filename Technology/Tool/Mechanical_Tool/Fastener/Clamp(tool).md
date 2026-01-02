@@ -44,17 +44,17 @@ Unicode_character: 🗜
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Clamp(tool)](/_Standards/Technology/Tool/Mechanical_Tool/Fastener/Clamp(tool).md) 
+### #is_/same_as :: [[/_Standards/Technology/Tool/Mechanical_Tool/Fastener/Clamp(tool)|Clamp(tool)]] 
 
-### #is_/same_as :: [Clamp(tool).public](/_public/Technology/Tool/Mechanical_Tool/Fastener/Clamp(tool).public.md) 
+### #is_/same_as :: [[/_public/Technology/Tool/Mechanical_Tool/Fastener/Clamp(tool).public|Clamp(tool).public]] 
 
-### #is_/same_as :: [Clamp(tool).internal](/_internal/Technology/Tool/Mechanical_Tool/Fastener/Clamp(tool).internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Tool/Mechanical_Tool/Fastener/Clamp(tool).internal|Clamp(tool).internal]] 
 
-### #is_/same_as :: [Clamp(tool).protect](/_protect/Technology/Tool/Mechanical_Tool/Fastener/Clamp(tool).protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Tool/Mechanical_Tool/Fastener/Clamp(tool).protect|Clamp(tool).protect]] 
 
-### #is_/same_as :: [Clamp(tool).private](/_private/Technology/Tool/Mechanical_Tool/Fastener/Clamp(tool).private.md) 
+### #is_/same_as :: [[/_private/Technology/Tool/Mechanical_Tool/Fastener/Clamp(tool).private|Clamp(tool).private]] 
 
-### #is_/same_as :: [Clamp(tool).personal](/_personal/Technology/Tool/Mechanical_Tool/Fastener/Clamp(tool).personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Tool/Mechanical_Tool/Fastener/Clamp(tool).personal|Clamp(tool).personal]] 
 
-### #is_/same_as :: [Clamp(tool).secret](/_secret/Technology/Tool/Mechanical_Tool/Fastener/Clamp(tool).secret.md)
+### #is_/same_as :: [[/_secret/Technology/Tool/Mechanical_Tool/Fastener/Clamp(tool).secret|Clamp(tool).secret]] 
 

@@ -70,17 +70,17 @@ Dewey_Decimal_Classification: 364.162
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Theft](/_Standards/Society/Law/Criminal_Law/Crime/Theft.md) 
+### #is_/same_as :: [[/_Standards/Society/Law/Criminal_Law/Crime/Theft|Theft]] 
 
-### #is_/same_as :: [Theft.public](/_public/Society/Law/Criminal_Law/Crime/Theft.public.md) 
+### #is_/same_as :: [[/_public/Society/Law/Criminal_Law/Crime/Theft.public|Theft.public]] 
 
-### #is_/same_as :: [Theft.internal](/_internal/Society/Law/Criminal_Law/Crime/Theft.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Law/Criminal_Law/Crime/Theft.internal|Theft.internal]] 
 
-### #is_/same_as :: [Theft.protect](/_protect/Society/Law/Criminal_Law/Crime/Theft.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Law/Criminal_Law/Crime/Theft.protect|Theft.protect]] 
 
-### #is_/same_as :: [Theft.private](/_private/Society/Law/Criminal_Law/Crime/Theft.private.md) 
+### #is_/same_as :: [[/_private/Society/Law/Criminal_Law/Crime/Theft.private|Theft.private]] 
 
-### #is_/same_as :: [Theft.personal](/_personal/Society/Law/Criminal_Law/Crime/Theft.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Law/Criminal_Law/Crime/Theft.personal|Theft.personal]] 
 
-### #is_/same_as :: [Theft.secret](/_secret/Society/Law/Criminal_Law/Crime/Theft.secret.md)
+### #is_/same_as :: [[/_secret/Society/Law/Criminal_Law/Crime/Theft.secret|Theft.secret]] 
 

@@ -70,17 +70,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Qian,Xuesen](/_Standards/Earth/Continent/Asia/Asia~East/Qian,Xuesen.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~East/Qian,Xuesen|Qian,Xuesen]] 
 
-### #is_/same_as :: [Qian,Xuesen.public](/_public/Earth/Continent/Asia/Asia~East/Qian,Xuesen.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~East/Qian,Xuesen.public|Qian,Xuesen.public]] 
 
-### #is_/same_as :: [Qian,Xuesen.internal](/_internal/Earth/Continent/Asia/Asia~East/Qian,Xuesen.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~East/Qian,Xuesen.internal|Qian,Xuesen.internal]] 
 
-### #is_/same_as :: [Qian,Xuesen.protect](/_protect/Earth/Continent/Asia/Asia~East/Qian,Xuesen.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~East/Qian,Xuesen.protect|Qian,Xuesen.protect]] 
 
-### #is_/same_as :: [Qian,Xuesen.private](/_private/Earth/Continent/Asia/Asia~East/Qian,Xuesen.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~East/Qian,Xuesen.private|Qian,Xuesen.private]] 
 
-### #is_/same_as :: [Qian,Xuesen.personal](/_personal/Earth/Continent/Asia/Asia~East/Qian,Xuesen.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~East/Qian,Xuesen.personal|Qian,Xuesen.personal]] 
 
-### #is_/same_as :: [Qian,Xuesen.secret](/_secret/Earth/Continent/Asia/Asia~East/Qian,Xuesen.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~East/Qian,Xuesen.secret|Qian,Xuesen.secret]] 
 

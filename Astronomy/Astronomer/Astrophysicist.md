@@ -61,17 +61,17 @@ P8189: 987007295071805171
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Astrophysicist](/_Standards/Astronomy/Astronomer/Astrophysicist.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Astronomer/Astrophysicist|Astrophysicist]] 
 
-### #is_/same_as :: [Astrophysicist.public](/_public/Astronomy/Astronomer/Astrophysicist.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Astronomer/Astrophysicist.public|Astrophysicist.public]] 
 
-### #is_/same_as :: [Astrophysicist.internal](/_internal/Astronomy/Astronomer/Astrophysicist.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Astronomer/Astrophysicist.internal|Astrophysicist.internal]] 
 
-### #is_/same_as :: [Astrophysicist.protect](/_protect/Astronomy/Astronomer/Astrophysicist.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Astronomer/Astrophysicist.protect|Astrophysicist.protect]] 
 
-### #is_/same_as :: [Astrophysicist.private](/_private/Astronomy/Astronomer/Astrophysicist.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Astronomer/Astrophysicist.private|Astrophysicist.private]] 
 
-### #is_/same_as :: [Astrophysicist.personal](/_personal/Astronomy/Astronomer/Astrophysicist.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Astronomer/Astrophysicist.personal|Astrophysicist.personal]] 
 
-### #is_/same_as :: [Astrophysicist.secret](/_secret/Astronomy/Astronomer/Astrophysicist.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Astronomer/Astrophysicist.secret|Astrophysicist.secret]] 
 

@@ -41,17 +41,17 @@ Season dedicated to radio broadcast and associated online delivery.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Radio_Season](/_Standards/Society/Communication/Media/Creative_Work/Creative_Work_Season/Radio_Season.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Creative_Work/Creative_Work_Season/Radio_Season|Radio_Season]] 
 
-### #is_/same_as :: [Radio_Season.public](/_public/Society/Communication/Media/Creative_Work/Creative_Work_Season/Radio_Season.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Creative_Work/Creative_Work_Season/Radio_Season.public|Radio_Season.public]] 
 
-### #is_/same_as :: [Radio_Season.internal](/_internal/Society/Communication/Media/Creative_Work/Creative_Work_Season/Radio_Season.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Creative_Work/Creative_Work_Season/Radio_Season.internal|Radio_Season.internal]] 
 
-### #is_/same_as :: [Radio_Season.protect](/_protect/Society/Communication/Media/Creative_Work/Creative_Work_Season/Radio_Season.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Creative_Work/Creative_Work_Season/Radio_Season.protect|Radio_Season.protect]] 
 
-### #is_/same_as :: [Radio_Season.private](/_private/Society/Communication/Media/Creative_Work/Creative_Work_Season/Radio_Season.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Creative_Work/Creative_Work_Season/Radio_Season.private|Radio_Season.private]] 
 
-### #is_/same_as :: [Radio_Season.personal](/_personal/Society/Communication/Media/Creative_Work/Creative_Work_Season/Radio_Season.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/Creative_Work_Season/Radio_Season.personal|Radio_Season.personal]] 
 
-### #is_/same_as :: [Radio_Season.secret](/_secret/Society/Communication/Media/Creative_Work/Creative_Work_Season/Radio_Season.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Creative_Work_Season/Radio_Season.secret|Radio_Season.secret]] 
 

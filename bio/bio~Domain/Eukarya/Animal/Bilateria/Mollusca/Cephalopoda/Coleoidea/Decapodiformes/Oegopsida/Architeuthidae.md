@@ -41,7 +41,7 @@ title: Architeuthis
 ## Giant squids 
 
 [Clyde F. E. Roper]()
-![ ](Architeuthidae/Architeuthis.JPG))
+![ ](Architeuthidae/Architeuthis.JPG) 
 ![ ](Architeuthidae/Archite1.jpg)![](Architeuthidae/ArchiteuthisDraw1.jpg))
 
 Twenty nominal species have been described in the family
@@ -216,7 +216,7 @@ are about 60% of the ML; the Pacific specimen has tentacles less than
 half as long as the Atlantic form.. These specimens when reported were
 an order of magnitude smaller than the previously known smallest
 architeuthid.
-![ ](Architeuthidae/ArchiJuv.jpg))
+![ ](Architeuthidae/ArchiJuv.jpg) 
 
 **Figure**. Oral view of two juvenile ***Architeuthis*** sp.. A -
 Atlantic specimen. B - Pacific specimen. Drawings from Roper and Young
@@ -356,7 +356,7 @@ Trans. Connecticut Acad. Sciences, 5: 23: 177-257.
 
 ## Title Illustrations
 
-![](Architeuthidae/Architeuthis.JPG))
+![](Architeuthidae/Architeuthis.JPG) 
 
   -----------------------
   Scientific Name ::  Architeuthis
@@ -364,7 +364,7 @@ Trans. Connecticut Acad. Sciences, 5: 23: 177-257.
   Comments          Steve O\'Shea holding the tentacle of an **Architeuthis** sp.
   Copyright ::         © 1996 Martin Hunter, New Zealand Herald
   -----------------------
-![](Architeuthidae/Archite1.jpg))
+![](Architeuthidae/Archite1.jpg) 
 
   --------------------------------------------------------------------------
   Scientific Name ::  Architeuthis
@@ -374,7 +374,7 @@ Trans. Connecticut Acad. Sciences, 5: 23: 177-257.
   Copyright ::         © 1996 [Mark D. Norman](mailto:mnorman@unimelb.edu.au) 
  
   --------------------------------------------------------------------------
-![](Architeuthidae/ArchiteuthisDraw1.jpg))
+![](Architeuthidae/ArchiteuthisDraw1.jpg) 
 
   ------------------------------------------------------------------------------------
   Scientific Name ::  Architeuthis \"princeps\"
@@ -385,17 +385,17 @@ Trans. Connecticut Acad. Sciences, 5: 23: 177-257.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Architeuthidae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Architeuthidae.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Architeuthidae|Architeuthidae]] 
 
-### #is_/same_as :: [Architeuthidae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Architeuthidae.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Architeuthidae.public|Architeuthidae.public]] 
 
-### #is_/same_as :: [Architeuthidae.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Architeuthidae.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Architeuthidae.internal|Architeuthidae.internal]] 
 
-### #is_/same_as :: [Architeuthidae.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Architeuthidae.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Architeuthidae.protect|Architeuthidae.protect]] 
 
-### #is_/same_as :: [Architeuthidae.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Architeuthidae.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Architeuthidae.private|Architeuthidae.private]] 
 
-### #is_/same_as :: [Architeuthidae.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Architeuthidae.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Architeuthidae.personal|Architeuthidae.personal]] 
 
-### #is_/same_as :: [Architeuthidae.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Architeuthidae.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Architeuthidae.secret|Architeuthidae.secret]] 
 

@@ -63,17 +63,17 @@ Dewey_Decimal_Classification: 531.382
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Elasticity](/_Standards/Science/Physics/Classical_Mechanics/Elasticity.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Classical_Mechanics/Elasticity|Elasticity]] 
 
-### #is_/same_as :: [Elasticity.public](/_public/Science/Physics/Classical_Mechanics/Elasticity.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Classical_Mechanics/Elasticity.public|Elasticity.public]] 
 
-### #is_/same_as :: [Elasticity.internal](/_internal/Science/Physics/Classical_Mechanics/Elasticity.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Classical_Mechanics/Elasticity.internal|Elasticity.internal]] 
 
-### #is_/same_as :: [Elasticity.protect](/_protect/Science/Physics/Classical_Mechanics/Elasticity.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Classical_Mechanics/Elasticity.protect|Elasticity.protect]] 
 
-### #is_/same_as :: [Elasticity.private](/_private/Science/Physics/Classical_Mechanics/Elasticity.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Classical_Mechanics/Elasticity.private|Elasticity.private]] 
 
-### #is_/same_as :: [Elasticity.personal](/_personal/Science/Physics/Classical_Mechanics/Elasticity.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Classical_Mechanics/Elasticity.personal|Elasticity.personal]] 
 
-### #is_/same_as :: [Elasticity.secret](/_secret/Science/Physics/Classical_Mechanics/Elasticity.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Classical_Mechanics/Elasticity.secret|Elasticity.secret]] 
 

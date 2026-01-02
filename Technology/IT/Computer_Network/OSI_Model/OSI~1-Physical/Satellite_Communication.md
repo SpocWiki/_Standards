@@ -46,17 +46,17 @@ MeSH_tree_code: L01.462.500.847.550
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Satellite_Communication](/_Standards/Technology/IT/Computer_Network/OSI_Model/OSI~1-Physical/Satellite_Communication.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Computer_Network/OSI_Model/OSI~1-Physical/Satellite_Communication|Satellite_Communication]] 
 
-### #is_/same_as :: [Satellite_Communication.public](/_public/Technology/IT/Computer_Network/OSI_Model/OSI~1-Physical/Satellite_Communication.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Computer_Network/OSI_Model/OSI~1-Physical/Satellite_Communication.public|Satellite_Communication.public]] 
 
-### #is_/same_as :: [Satellite_Communication.internal](/_internal/Technology/IT/Computer_Network/OSI_Model/OSI~1-Physical/Satellite_Communication.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Computer_Network/OSI_Model/OSI~1-Physical/Satellite_Communication.internal|Satellite_Communication.internal]] 
 
-### #is_/same_as :: [Satellite_Communication.protect](/_protect/Technology/IT/Computer_Network/OSI_Model/OSI~1-Physical/Satellite_Communication.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Computer_Network/OSI_Model/OSI~1-Physical/Satellite_Communication.protect|Satellite_Communication.protect]] 
 
-### #is_/same_as :: [Satellite_Communication.private](/_private/Technology/IT/Computer_Network/OSI_Model/OSI~1-Physical/Satellite_Communication.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Computer_Network/OSI_Model/OSI~1-Physical/Satellite_Communication.private|Satellite_Communication.private]] 
 
-### #is_/same_as :: [Satellite_Communication.personal](/_personal/Technology/IT/Computer_Network/OSI_Model/OSI~1-Physical/Satellite_Communication.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Computer_Network/OSI_Model/OSI~1-Physical/Satellite_Communication.personal|Satellite_Communication.personal]] 
 
-### #is_/same_as :: [Satellite_Communication.secret](/_secret/Technology/IT/Computer_Network/OSI_Model/OSI~1-Physical/Satellite_Communication.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Computer_Network/OSI_Model/OSI~1-Physical/Satellite_Communication.secret|Satellite_Communication.secret]] 
 

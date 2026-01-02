@@ -25,17 +25,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [HashiCorp](/_Standards/Society/Agent/Community/Organization/Company/Corporation/IT~Company/HashiCorp.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Company/Corporation/IT~Company/HashiCorp|HashiCorp]] 
 
-### #is_/same_as :: [HashiCorp.public](/_public/Society/Agent/Community/Organization/Company/Corporation/IT~Company/HashiCorp.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Company/Corporation/IT~Company/HashiCorp.public|HashiCorp.public]] 
 
-### #is_/same_as :: [HashiCorp.internal](/_internal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/HashiCorp.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/HashiCorp.internal|HashiCorp.internal]] 
 
-### #is_/same_as :: [HashiCorp.protect](/_protect/Society/Agent/Community/Organization/Company/Corporation/IT~Company/HashiCorp.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Company/Corporation/IT~Company/HashiCorp.protect|HashiCorp.protect]] 
 
-### #is_/same_as :: [HashiCorp.private](/_private/Society/Agent/Community/Organization/Company/Corporation/IT~Company/HashiCorp.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Company/Corporation/IT~Company/HashiCorp.private|HashiCorp.private]] 
 
-### #is_/same_as :: [HashiCorp.personal](/_personal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/HashiCorp.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/HashiCorp.personal|HashiCorp.personal]] 
 
-### #is_/same_as :: [HashiCorp.secret](/_secret/Society/Agent/Community/Organization/Company/Corporation/IT~Company/HashiCorp.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Company/Corporation/IT~Company/HashiCorp.secret|HashiCorp.secret]] 
 

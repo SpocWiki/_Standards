@@ -62,17 +62,17 @@ By <a rel="nofollow" class="external text" href="https://www.flickr.com/photos/j
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Burj_al-Arab](/_Standards/Earth/Geography/Place/Burj_al-Arab.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geography/Place/Burj_al-Arab|Burj_al-Arab]] 
 
-### #is_/same_as :: [Burj_al-Arab.public](/_public/Earth/Geography/Place/Burj_al-Arab.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geography/Place/Burj_al-Arab.public|Burj_al-Arab.public]] 
 
-### #is_/same_as :: [Burj_al-Arab.internal](/_internal/Earth/Geography/Place/Burj_al-Arab.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geography/Place/Burj_al-Arab.internal|Burj_al-Arab.internal]] 
 
-### #is_/same_as :: [Burj_al-Arab.protect](/_protect/Earth/Geography/Place/Burj_al-Arab.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geography/Place/Burj_al-Arab.protect|Burj_al-Arab.protect]] 
 
-### #is_/same_as :: [Burj_al-Arab.private](/_private/Earth/Geography/Place/Burj_al-Arab.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geography/Place/Burj_al-Arab.private|Burj_al-Arab.private]] 
 
-### #is_/same_as :: [Burj_al-Arab.personal](/_personal/Earth/Geography/Place/Burj_al-Arab.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geography/Place/Burj_al-Arab.personal|Burj_al-Arab.personal]] 
 
-### #is_/same_as :: [Burj_al-Arab.secret](/_secret/Earth/Geography/Place/Burj_al-Arab.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geography/Place/Burj_al-Arab.secret|Burj_al-Arab.secret]] 
 

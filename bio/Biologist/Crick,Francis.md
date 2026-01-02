@@ -127,17 +127,17 @@ date_of_birth: 1916-06-08T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Crick,Francis](/_Standards/bio/Biologist/Crick,Francis.md) 
+### #is_/same_as :: [[/_Standards/bio/Biologist/Crick,Francis|Crick,Francis]] 
 
-### #is_/same_as :: [Crick,Francis.public](/_public/bio/Biologist/Crick,Francis.public.md) 
+### #is_/same_as :: [[/_public/bio/Biologist/Crick,Francis.public|Crick,Francis.public]] 
 
-### #is_/same_as :: [Crick,Francis.internal](/_internal/bio/Biologist/Crick,Francis.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Biologist/Crick,Francis.internal|Crick,Francis.internal]] 
 
-### #is_/same_as :: [Crick,Francis.protect](/_protect/bio/Biologist/Crick,Francis.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Biologist/Crick,Francis.protect|Crick,Francis.protect]] 
 
-### #is_/same_as :: [Crick,Francis.private](/_private/bio/Biologist/Crick,Francis.private.md) 
+### #is_/same_as :: [[/_private/bio/Biologist/Crick,Francis.private|Crick,Francis.private]] 
 
-### #is_/same_as :: [Crick,Francis.personal](/_personal/bio/Biologist/Crick,Francis.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Biologist/Crick,Francis.personal|Crick,Francis.personal]] 
 
-### #is_/same_as :: [Crick,Francis.secret](/_secret/bio/Biologist/Crick,Francis.secret.md)
+### #is_/same_as :: [[/_secret/bio/Biologist/Crick,Francis.secret|Crick,Francis.secret]] 
 

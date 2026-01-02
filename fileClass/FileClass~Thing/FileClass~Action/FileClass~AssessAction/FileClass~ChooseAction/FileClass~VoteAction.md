@@ -48,17 +48,17 @@ Candidate:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thi
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~VoteAction](/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~ChooseAction/FileClass~VoteAction.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~ChooseAction/FileClass~VoteAction|FileClass~VoteAction]] 
 
-### #is_/same_as :: [FileClass~VoteAction.public](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~ChooseAction/FileClass~VoteAction.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~ChooseAction/FileClass~VoteAction.public|FileClass~VoteAction.public]] 
 
-### #is_/same_as :: [FileClass~VoteAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~ChooseAction/FileClass~VoteAction.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~ChooseAction/FileClass~VoteAction.internal|FileClass~VoteAction.internal]] 
 
-### #is_/same_as :: [FileClass~VoteAction.protect](/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~ChooseAction/FileClass~VoteAction.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~ChooseAction/FileClass~VoteAction.protect|FileClass~VoteAction.protect]] 
 
-### #is_/same_as :: [FileClass~VoteAction.private](/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~ChooseAction/FileClass~VoteAction.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~ChooseAction/FileClass~VoteAction.private|FileClass~VoteAction.private]] 
 
-### #is_/same_as :: [FileClass~VoteAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~ChooseAction/FileClass~VoteAction.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~ChooseAction/FileClass~VoteAction.personal|FileClass~VoteAction.personal]] 
 
-### #is_/same_as :: [FileClass~VoteAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~ChooseAction/FileClass~VoteAction.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~ChooseAction/FileClass~VoteAction.secret|FileClass~VoteAction.secret]] 
 

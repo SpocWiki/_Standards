@@ -70,17 +70,17 @@ Wolfram_Language_entity_code: Entity["Concept", "Jazz::jnm2g"]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Jazz](/_Standards/Society/Communication/Media/Music/Music_Genre/Jazz.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Music_Genre/Jazz|Jazz]] 
 
-### #is_/same_as :: [Jazz.public](/_public/Society/Communication/Media/Music/Music_Genre/Jazz.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Music_Genre/Jazz.public|Jazz.public]] 
 
-### #is_/same_as :: [Jazz.internal](/_internal/Society/Communication/Media/Music/Music_Genre/Jazz.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Music_Genre/Jazz.internal|Jazz.internal]] 
 
-### #is_/same_as :: [Jazz.protect](/_protect/Society/Communication/Media/Music/Music_Genre/Jazz.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Music_Genre/Jazz.protect|Jazz.protect]] 
 
-### #is_/same_as :: [Jazz.private](/_private/Society/Communication/Media/Music/Music_Genre/Jazz.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Music_Genre/Jazz.private|Jazz.private]] 
 
-### #is_/same_as :: [Jazz.personal](/_personal/Society/Communication/Media/Music/Music_Genre/Jazz.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Music_Genre/Jazz.personal|Jazz.personal]] 
 
-### #is_/same_as :: [Jazz.secret](/_secret/Society/Communication/Media/Music/Music_Genre/Jazz.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Music_Genre/Jazz.secret|Jazz.secret]] 
 

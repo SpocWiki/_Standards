@@ -24,17 +24,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Girls_Last_Tour](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Girls_Last_Tour.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Girls_Last_Tour|Girls_Last_Tour]] 
 
-### #is_/same_as :: [Girls_Last_Tour.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Girls_Last_Tour.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Girls_Last_Tour.public|Girls_Last_Tour.public]] 
 
-### #is_/same_as :: [Girls_Last_Tour.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Girls_Last_Tour.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Girls_Last_Tour.internal|Girls_Last_Tour.internal]] 
 
-### #is_/same_as :: [Girls_Last_Tour.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Girls_Last_Tour.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Girls_Last_Tour.protect|Girls_Last_Tour.protect]] 
 
-### #is_/same_as :: [Girls_Last_Tour.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Girls_Last_Tour.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Girls_Last_Tour.private|Girls_Last_Tour.private]] 
 
-### #is_/same_as :: [Girls_Last_Tour.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Girls_Last_Tour.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Girls_Last_Tour.personal|Girls_Last_Tour.personal]] 
 
-### #is_/same_as :: [Girls_Last_Tour.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Girls_Last_Tour.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Girls_Last_Tour.secret|Girls_Last_Tour.secret]] 
 

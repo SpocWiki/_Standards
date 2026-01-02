@@ -80,17 +80,17 @@ female_form_of_label:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Baby](/_Standards/Society/Agent/Community/Clan/Family/Child/Baby.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Clan/Family/Child/Baby|Baby]] 
 
-### #is_/same_as :: [Baby.public](/_public/Society/Agent/Community/Clan/Family/Child/Baby.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Clan/Family/Child/Baby.public|Baby.public]] 
 
-### #is_/same_as :: [Baby.internal](/_internal/Society/Agent/Community/Clan/Family/Child/Baby.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Clan/Family/Child/Baby.internal|Baby.internal]] 
 
-### #is_/same_as :: [Baby.protect](/_protect/Society/Agent/Community/Clan/Family/Child/Baby.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Clan/Family/Child/Baby.protect|Baby.protect]] 
 
-### #is_/same_as :: [Baby.private](/_private/Society/Agent/Community/Clan/Family/Child/Baby.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Clan/Family/Child/Baby.private|Baby.private]] 
 
-### #is_/same_as :: [Baby.personal](/_personal/Society/Agent/Community/Clan/Family/Child/Baby.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Clan/Family/Child/Baby.personal|Baby.personal]] 
 
-### #is_/same_as :: [Baby.secret](/_secret/Society/Agent/Community/Clan/Family/Child/Baby.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Clan/Family/Child/Baby.secret|Baby.secret]] 
 

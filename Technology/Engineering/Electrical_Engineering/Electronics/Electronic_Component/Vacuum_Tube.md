@@ -93,17 +93,17 @@ Commons_category: Vacuum tubes
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Vacuum_Tube](/_Standards/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Vacuum_Tube.md) 
+### #is_/same_as :: [[/_Standards/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Vacuum_Tube|Vacuum_Tube]] 
 
-### #is_/same_as :: [Vacuum_Tube.public](/_public/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Vacuum_Tube.public.md) 
+### #is_/same_as :: [[/_public/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Vacuum_Tube.public|Vacuum_Tube.public]] 
 
-### #is_/same_as :: [Vacuum_Tube.internal](/_internal/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Vacuum_Tube.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Vacuum_Tube.internal|Vacuum_Tube.internal]] 
 
-### #is_/same_as :: [Vacuum_Tube.protect](/_protect/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Vacuum_Tube.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Vacuum_Tube.protect|Vacuum_Tube.protect]] 
 
-### #is_/same_as :: [Vacuum_Tube.private](/_private/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Vacuum_Tube.private.md) 
+### #is_/same_as :: [[/_private/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Vacuum_Tube.private|Vacuum_Tube.private]] 
 
-### #is_/same_as :: [Vacuum_Tube.personal](/_personal/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Vacuum_Tube.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Vacuum_Tube.personal|Vacuum_Tube.personal]] 
 
-### #is_/same_as :: [Vacuum_Tube.secret](/_secret/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Vacuum_Tube.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Vacuum_Tube.secret|Vacuum_Tube.secret]] 
 

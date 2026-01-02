@@ -53,17 +53,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lipa,Dua](/_Standards/Society/Communication/Media/Movie/Actor/British_Actor/Lipa,Dua.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Actor/British_Actor/Lipa,Dua|Lipa,Dua]] 
 
-### #is_/same_as :: [Lipa,Dua.public](/_public/Society/Communication/Media/Movie/Actor/British_Actor/Lipa,Dua.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Actor/British_Actor/Lipa,Dua.public|Lipa,Dua.public]] 
 
-### #is_/same_as :: [Lipa,Dua.internal](/_internal/Society/Communication/Media/Movie/Actor/British_Actor/Lipa,Dua.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Actor/British_Actor/Lipa,Dua.internal|Lipa,Dua.internal]] 
 
-### #is_/same_as :: [Lipa,Dua.protect](/_protect/Society/Communication/Media/Movie/Actor/British_Actor/Lipa,Dua.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Actor/British_Actor/Lipa,Dua.protect|Lipa,Dua.protect]] 
 
-### #is_/same_as :: [Lipa,Dua.private](/_private/Society/Communication/Media/Movie/Actor/British_Actor/Lipa,Dua.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Actor/British_Actor/Lipa,Dua.private|Lipa,Dua.private]] 
 
-### #is_/same_as :: [Lipa,Dua.personal](/_personal/Society/Communication/Media/Movie/Actor/British_Actor/Lipa,Dua.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Actor/British_Actor/Lipa,Dua.personal|Lipa,Dua.personal]] 
 
-### #is_/same_as :: [Lipa,Dua.secret](/_secret/Society/Communication/Media/Movie/Actor/British_Actor/Lipa,Dua.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Actor/British_Actor/Lipa,Dua.secret|Lipa,Dua.secret]] 
 

@@ -85,17 +85,17 @@ Baidu_Tieba_name: 厨师
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Cook](/_Standards/Society/Economics/Home_Economics/Cooking/Cook.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Home_Economics/Cooking/Cook|Cook]] 
 
-### #is_/same_as :: [Cook.public](/_public/Society/Economics/Home_Economics/Cooking/Cook.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Home_Economics/Cooking/Cook.public|Cook.public]] 
 
-### #is_/same_as :: [Cook.internal](/_internal/Society/Economics/Home_Economics/Cooking/Cook.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Home_Economics/Cooking/Cook.internal|Cook.internal]] 
 
-### #is_/same_as :: [Cook.protect](/_protect/Society/Economics/Home_Economics/Cooking/Cook.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Home_Economics/Cooking/Cook.protect|Cook.protect]] 
 
-### #is_/same_as :: [Cook.private](/_private/Society/Economics/Home_Economics/Cooking/Cook.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Home_Economics/Cooking/Cook.private|Cook.private]] 
 
-### #is_/same_as :: [Cook.personal](/_personal/Society/Economics/Home_Economics/Cooking/Cook.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Home_Economics/Cooking/Cook.personal|Cook.personal]] 
 
-### #is_/same_as :: [Cook.secret](/_secret/Society/Economics/Home_Economics/Cooking/Cook.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Home_Economics/Cooking/Cook.secret|Cook.secret]] 
 

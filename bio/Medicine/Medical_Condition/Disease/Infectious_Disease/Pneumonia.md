@@ -125,17 +125,17 @@ UMLS_CUI: C0032285
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Pneumonia](/_Standards/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Pneumonia.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Pneumonia|Pneumonia]] 
 
-### #is_/same_as :: [Pneumonia.public](/_public/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Pneumonia.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Pneumonia.public|Pneumonia.public]] 
 
-### #is_/same_as :: [Pneumonia.internal](/_internal/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Pneumonia.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Pneumonia.internal|Pneumonia.internal]] 
 
-### #is_/same_as :: [Pneumonia.protect](/_protect/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Pneumonia.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Pneumonia.protect|Pneumonia.protect]] 
 
-### #is_/same_as :: [Pneumonia.private](/_private/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Pneumonia.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Pneumonia.private|Pneumonia.private]] 
 
-### #is_/same_as :: [Pneumonia.personal](/_personal/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Pneumonia.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Pneumonia.personal|Pneumonia.personal]] 
 
-### #is_/same_as :: [Pneumonia.secret](/_secret/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Pneumonia.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Pneumonia.secret|Pneumonia.secret]] 
 

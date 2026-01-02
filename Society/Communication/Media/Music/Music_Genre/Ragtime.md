@@ -68,17 +68,17 @@ audio:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ragtime](/_Standards/Society/Communication/Media/Music/Music_Genre/Ragtime.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Music_Genre/Ragtime|Ragtime]] 
 
-### #is_/same_as :: [Ragtime.public](/_public/Society/Communication/Media/Music/Music_Genre/Ragtime.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Music_Genre/Ragtime.public|Ragtime.public]] 
 
-### #is_/same_as :: [Ragtime.internal](/_internal/Society/Communication/Media/Music/Music_Genre/Ragtime.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Music_Genre/Ragtime.internal|Ragtime.internal]] 
 
-### #is_/same_as :: [Ragtime.protect](/_protect/Society/Communication/Media/Music/Music_Genre/Ragtime.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Music_Genre/Ragtime.protect|Ragtime.protect]] 
 
-### #is_/same_as :: [Ragtime.private](/_private/Society/Communication/Media/Music/Music_Genre/Ragtime.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Music_Genre/Ragtime.private|Ragtime.private]] 
 
-### #is_/same_as :: [Ragtime.personal](/_personal/Society/Communication/Media/Music/Music_Genre/Ragtime.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Music_Genre/Ragtime.personal|Ragtime.personal]] 
 
-### #is_/same_as :: [Ragtime.secret](/_secret/Society/Communication/Media/Music/Music_Genre/Ragtime.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Music_Genre/Ragtime.secret|Ragtime.secret]] 
 

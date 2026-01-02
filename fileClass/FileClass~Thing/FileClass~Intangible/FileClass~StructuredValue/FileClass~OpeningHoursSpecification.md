@@ -95,17 +95,17 @@ ValidThrough:: {"type":"Date","options":{"dateFormat":"YYYY-MM-DD","defaultInser
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~OpeningHoursSpecification](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~OpeningHoursSpecification.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~OpeningHoursSpecification|FileClass~OpeningHoursSpecification]] 
 
-### #is_/same_as :: [FileClass~OpeningHoursSpecification.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~OpeningHoursSpecification.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~OpeningHoursSpecification.public|FileClass~OpeningHoursSpecification.public]] 
 
-### #is_/same_as :: [FileClass~OpeningHoursSpecification.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~OpeningHoursSpecification.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~OpeningHoursSpecification.internal|FileClass~OpeningHoursSpecification.internal]] 
 
-### #is_/same_as :: [FileClass~OpeningHoursSpecification.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~OpeningHoursSpecification.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~OpeningHoursSpecification.protect|FileClass~OpeningHoursSpecification.protect]] 
 
-### #is_/same_as :: [FileClass~OpeningHoursSpecification.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~OpeningHoursSpecification.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~OpeningHoursSpecification.private|FileClass~OpeningHoursSpecification.private]] 
 
-### #is_/same_as :: [FileClass~OpeningHoursSpecification.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~OpeningHoursSpecification.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~OpeningHoursSpecification.personal|FileClass~OpeningHoursSpecification.personal]] 
 
-### #is_/same_as :: [FileClass~OpeningHoursSpecification.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~OpeningHoursSpecification.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~OpeningHoursSpecification.secret|FileClass~OpeningHoursSpecification.secret]] 
 

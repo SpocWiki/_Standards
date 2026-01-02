@@ -75,17 +75,17 @@ date_of_birth: 1922-04-15T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Schachter,Stanley](/_Standards/bio/Psychology/Psychologist/Schachter,Stanley.md) 
+### #is_/same_as :: [[/_Standards/bio/Psychology/Psychologist/Schachter,Stanley|Schachter,Stanley]] 
 
-### #is_/same_as :: [Schachter,Stanley.public](/_public/bio/Psychology/Psychologist/Schachter,Stanley.public.md) 
+### #is_/same_as :: [[/_public/bio/Psychology/Psychologist/Schachter,Stanley.public|Schachter,Stanley.public]] 
 
-### #is_/same_as :: [Schachter,Stanley.internal](/_internal/bio/Psychology/Psychologist/Schachter,Stanley.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Psychology/Psychologist/Schachter,Stanley.internal|Schachter,Stanley.internal]] 
 
-### #is_/same_as :: [Schachter,Stanley.protect](/_protect/bio/Psychology/Psychologist/Schachter,Stanley.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Psychology/Psychologist/Schachter,Stanley.protect|Schachter,Stanley.protect]] 
 
-### #is_/same_as :: [Schachter,Stanley.private](/_private/bio/Psychology/Psychologist/Schachter,Stanley.private.md) 
+### #is_/same_as :: [[/_private/bio/Psychology/Psychologist/Schachter,Stanley.private|Schachter,Stanley.private]] 
 
-### #is_/same_as :: [Schachter,Stanley.personal](/_personal/bio/Psychology/Psychologist/Schachter,Stanley.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Psychology/Psychologist/Schachter,Stanley.personal|Schachter,Stanley.personal]] 
 
-### #is_/same_as :: [Schachter,Stanley.secret](/_secret/bio/Psychology/Psychologist/Schachter,Stanley.secret.md)
+### #is_/same_as :: [[/_secret/bio/Psychology/Psychologist/Schachter,Stanley.secret|Schachter,Stanley.secret]] 
 

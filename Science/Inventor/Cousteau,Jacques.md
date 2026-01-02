@@ -121,17 +121,17 @@ date_of_birth: 1910-06-11T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Cousteau,Jacques](/_Standards/Science/Inventor/Cousteau,Jacques.md) 
+### #is_/same_as :: [[/_Standards/Science/Inventor/Cousteau,Jacques|Cousteau,Jacques]] 
 
-### #is_/same_as :: [Cousteau,Jacques.public](/_public/Science/Inventor/Cousteau,Jacques.public.md) 
+### #is_/same_as :: [[/_public/Science/Inventor/Cousteau,Jacques.public|Cousteau,Jacques.public]] 
 
-### #is_/same_as :: [Cousteau,Jacques.internal](/_internal/Science/Inventor/Cousteau,Jacques.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Inventor/Cousteau,Jacques.internal|Cousteau,Jacques.internal]] 
 
-### #is_/same_as :: [Cousteau,Jacques.protect](/_protect/Science/Inventor/Cousteau,Jacques.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Inventor/Cousteau,Jacques.protect|Cousteau,Jacques.protect]] 
 
-### #is_/same_as :: [Cousteau,Jacques.private](/_private/Science/Inventor/Cousteau,Jacques.private.md) 
+### #is_/same_as :: [[/_private/Science/Inventor/Cousteau,Jacques.private|Cousteau,Jacques.private]] 
 
-### #is_/same_as :: [Cousteau,Jacques.personal](/_personal/Science/Inventor/Cousteau,Jacques.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Inventor/Cousteau,Jacques.personal|Cousteau,Jacques.personal]] 
 
-### #is_/same_as :: [Cousteau,Jacques.secret](/_secret/Science/Inventor/Cousteau,Jacques.secret.md)
+### #is_/same_as :: [[/_secret/Science/Inventor/Cousteau,Jacques.secret|Cousteau,Jacques.secret]] 
 

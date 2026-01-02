@@ -83,17 +83,17 @@ Wolfram_Language_entity_code: Entity["Concept", "Parallax::p39b8"]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Parallax](/_Standards/Science/Physics/Wave/Optics/Camera/Parallax.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Wave/Optics/Camera/Parallax|Parallax]] 
 
-### #is_/same_as :: [Parallax.public](/_public/Science/Physics/Wave/Optics/Camera/Parallax.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Wave/Optics/Camera/Parallax.public|Parallax.public]] 
 
-### #is_/same_as :: [Parallax.internal](/_internal/Science/Physics/Wave/Optics/Camera/Parallax.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Wave/Optics/Camera/Parallax.internal|Parallax.internal]] 
 
-### #is_/same_as :: [Parallax.protect](/_protect/Science/Physics/Wave/Optics/Camera/Parallax.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Wave/Optics/Camera/Parallax.protect|Parallax.protect]] 
 
-### #is_/same_as :: [Parallax.private](/_private/Science/Physics/Wave/Optics/Camera/Parallax.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Wave/Optics/Camera/Parallax.private|Parallax.private]] 
 
-### #is_/same_as :: [Parallax.personal](/_personal/Science/Physics/Wave/Optics/Camera/Parallax.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Wave/Optics/Camera/Parallax.personal|Parallax.personal]] 
 
-### #is_/same_as :: [Parallax.secret](/_secret/Science/Physics/Wave/Optics/Camera/Parallax.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Wave/Optics/Camera/Parallax.secret|Parallax.secret]] 
 

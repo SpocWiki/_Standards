@@ -193,17 +193,17 @@ writing_language: '[[_Standards/WikiData/WD~German,188]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Kant,Immanuel](/_Standards/Philosophy/Philosopher/Early_modern_Philosopher/Kant,Immanuel.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Philosopher/Early_modern_Philosopher/Kant,Immanuel|Kant,Immanuel]] 
 
-### #is_/same_as :: [Kant,Immanuel.public](/_public/Philosophy/Philosopher/Early_modern_Philosopher/Kant,Immanuel.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Philosopher/Early_modern_Philosopher/Kant,Immanuel.public|Kant,Immanuel.public]] 
 
-### #is_/same_as :: [Kant,Immanuel.internal](/_internal/Philosophy/Philosopher/Early_modern_Philosopher/Kant,Immanuel.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Philosopher/Early_modern_Philosopher/Kant,Immanuel.internal|Kant,Immanuel.internal]] 
 
-### #is_/same_as :: [Kant,Immanuel.protect](/_protect/Philosophy/Philosopher/Early_modern_Philosopher/Kant,Immanuel.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Philosopher/Early_modern_Philosopher/Kant,Immanuel.protect|Kant,Immanuel.protect]] 
 
-### #is_/same_as :: [Kant,Immanuel.private](/_private/Philosophy/Philosopher/Early_modern_Philosopher/Kant,Immanuel.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Philosopher/Early_modern_Philosopher/Kant,Immanuel.private|Kant,Immanuel.private]] 
 
-### #is_/same_as :: [Kant,Immanuel.personal](/_personal/Philosophy/Philosopher/Early_modern_Philosopher/Kant,Immanuel.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Philosopher/Early_modern_Philosopher/Kant,Immanuel.personal|Kant,Immanuel.personal]] 
 
-### #is_/same_as :: [Kant,Immanuel.secret](/_secret/Philosophy/Philosopher/Early_modern_Philosopher/Kant,Immanuel.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Philosopher/Early_modern_Philosopher/Kant,Immanuel.secret|Kant,Immanuel.secret]] 
 

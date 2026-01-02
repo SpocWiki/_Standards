@@ -45,17 +45,17 @@ Provenio_UUID: b8aec14d-dd22-418a-8f9b-dc9602f977d9
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Office](/_Standards/Earth/Geography/Place/Accommodation/Room/Office.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geography/Place/Accommodation/Room/Office|Office]] 
 
-### #is_/same_as :: [Office.public](/_public/Earth/Geography/Place/Accommodation/Room/Office.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geography/Place/Accommodation/Room/Office.public|Office.public]] 
 
-### #is_/same_as :: [Office.internal](/_internal/Earth/Geography/Place/Accommodation/Room/Office.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geography/Place/Accommodation/Room/Office.internal|Office.internal]] 
 
-### #is_/same_as :: [Office.protect](/_protect/Earth/Geography/Place/Accommodation/Room/Office.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geography/Place/Accommodation/Room/Office.protect|Office.protect]] 
 
-### #is_/same_as :: [Office.private](/_private/Earth/Geography/Place/Accommodation/Room/Office.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geography/Place/Accommodation/Room/Office.private|Office.private]] 
 
-### #is_/same_as :: [Office.personal](/_personal/Earth/Geography/Place/Accommodation/Room/Office.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geography/Place/Accommodation/Room/Office.personal|Office.personal]] 
 
-### #is_/same_as :: [Office.secret](/_secret/Earth/Geography/Place/Accommodation/Room/Office.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geography/Place/Accommodation/Room/Office.secret|Office.secret]] 
 

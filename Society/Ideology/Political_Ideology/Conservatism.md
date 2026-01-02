@@ -66,17 +66,17 @@ video: http://commons.wikimedia.org/wiki/Special:FilePath/President%20Reagan%27s
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Conservatism](/_Standards/Society/Ideology/Political_Ideology/Conservatism.md) 
+### #is_/same_as :: [[/_Standards/Society/Ideology/Political_Ideology/Conservatism|Conservatism]] 
 
-### #is_/same_as :: [Conservatism.public](/_public/Society/Ideology/Political_Ideology/Conservatism.public.md) 
+### #is_/same_as :: [[/_public/Society/Ideology/Political_Ideology/Conservatism.public|Conservatism.public]] 
 
-### #is_/same_as :: [Conservatism.internal](/_internal/Society/Ideology/Political_Ideology/Conservatism.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Ideology/Political_Ideology/Conservatism.internal|Conservatism.internal]] 
 
-### #is_/same_as :: [Conservatism.protect](/_protect/Society/Ideology/Political_Ideology/Conservatism.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Ideology/Political_Ideology/Conservatism.protect|Conservatism.protect]] 
 
-### #is_/same_as :: [Conservatism.private](/_private/Society/Ideology/Political_Ideology/Conservatism.private.md) 
+### #is_/same_as :: [[/_private/Society/Ideology/Political_Ideology/Conservatism.private|Conservatism.private]] 
 
-### #is_/same_as :: [Conservatism.personal](/_personal/Society/Ideology/Political_Ideology/Conservatism.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Ideology/Political_Ideology/Conservatism.personal|Conservatism.personal]] 
 
-### #is_/same_as :: [Conservatism.secret](/_secret/Society/Ideology/Political_Ideology/Conservatism.secret.md)
+### #is_/same_as :: [[/_secret/Society/Ideology/Political_Ideology/Conservatism.secret|Conservatism.secret]] 
 

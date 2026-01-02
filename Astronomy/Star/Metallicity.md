@@ -33,17 +33,17 @@ Stack_Exchange_tag: https://physics.stackexchange.com/tags/metallicity
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Metallicity](/_Standards/Astronomy/Star/Metallicity.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Star/Metallicity|Metallicity]] 
 
-### #is_/same_as :: [Metallicity.public](/_public/Astronomy/Star/Metallicity.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Star/Metallicity.public|Metallicity.public]] 
 
-### #is_/same_as :: [Metallicity.internal](/_internal/Astronomy/Star/Metallicity.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Star/Metallicity.internal|Metallicity.internal]] 
 
-### #is_/same_as :: [Metallicity.protect](/_protect/Astronomy/Star/Metallicity.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Star/Metallicity.protect|Metallicity.protect]] 
 
-### #is_/same_as :: [Metallicity.private](/_private/Astronomy/Star/Metallicity.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Star/Metallicity.private|Metallicity.private]] 
 
-### #is_/same_as :: [Metallicity.personal](/_personal/Astronomy/Star/Metallicity.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Star/Metallicity.personal|Metallicity.personal]] 
 
-### #is_/same_as :: [Metallicity.secret](/_secret/Astronomy/Star/Metallicity.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Star/Metallicity.secret|Metallicity.secret]] 
 

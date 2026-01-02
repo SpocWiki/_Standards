@@ -72,17 +72,17 @@ short_name: CMa
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Zodiac~Canis_Major](/_Standards/Astronomy/Star~Constellation/Zodiac~Canis_Major.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Star~Constellation/Zodiac~Canis_Major|Zodiac~Canis_Major]] 
 
-### #is_/same_as :: [Zodiac~Canis_Major.public](/_public/Astronomy/Star~Constellation/Zodiac~Canis_Major.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Star~Constellation/Zodiac~Canis_Major.public|Zodiac~Canis_Major.public]] 
 
-### #is_/same_as :: [Zodiac~Canis_Major.internal](/_internal/Astronomy/Star~Constellation/Zodiac~Canis_Major.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Star~Constellation/Zodiac~Canis_Major.internal|Zodiac~Canis_Major.internal]] 
 
-### #is_/same_as :: [Zodiac~Canis_Major.protect](/_protect/Astronomy/Star~Constellation/Zodiac~Canis_Major.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Star~Constellation/Zodiac~Canis_Major.protect|Zodiac~Canis_Major.protect]] 
 
-### #is_/same_as :: [Zodiac~Canis_Major.private](/_private/Astronomy/Star~Constellation/Zodiac~Canis_Major.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Star~Constellation/Zodiac~Canis_Major.private|Zodiac~Canis_Major.private]] 
 
-### #is_/same_as :: [Zodiac~Canis_Major.personal](/_personal/Astronomy/Star~Constellation/Zodiac~Canis_Major.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Star~Constellation/Zodiac~Canis_Major.personal|Zodiac~Canis_Major.personal]] 
 
-### #is_/same_as :: [Zodiac~Canis_Major.secret](/_secret/Astronomy/Star~Constellation/Zodiac~Canis_Major.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Star~Constellation/Zodiac~Canis_Major.secret|Zodiac~Canis_Major.secret]] 
 

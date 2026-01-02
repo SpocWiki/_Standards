@@ -41,17 +41,17 @@ An art gallery.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Art_Gallery](/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Entertainment_Business/Art_Gallery.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Entertainment_Business/Art_Gallery|Art_Gallery]] 
 
-### #is_/same_as :: [Art_Gallery.public](/_public/Society/Agent/Community/Organization/Business/Local_Business/Entertainment_Business/Art_Gallery.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Business/Local_Business/Entertainment_Business/Art_Gallery.public|Art_Gallery.public]] 
 
-### #is_/same_as :: [Art_Gallery.internal](/_internal/Society/Agent/Community/Organization/Business/Local_Business/Entertainment_Business/Art_Gallery.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Business/Local_Business/Entertainment_Business/Art_Gallery.internal|Art_Gallery.internal]] 
 
-### #is_/same_as :: [Art_Gallery.protect](/_protect/Society/Agent/Community/Organization/Business/Local_Business/Entertainment_Business/Art_Gallery.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Business/Local_Business/Entertainment_Business/Art_Gallery.protect|Art_Gallery.protect]] 
 
-### #is_/same_as :: [Art_Gallery.private](/_private/Society/Agent/Community/Organization/Business/Local_Business/Entertainment_Business/Art_Gallery.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Business/Local_Business/Entertainment_Business/Art_Gallery.private|Art_Gallery.private]] 
 
-### #is_/same_as :: [Art_Gallery.personal](/_personal/Society/Agent/Community/Organization/Business/Local_Business/Entertainment_Business/Art_Gallery.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Business/Local_Business/Entertainment_Business/Art_Gallery.personal|Art_Gallery.personal]] 
 
-### #is_/same_as :: [Art_Gallery.secret](/_secret/Society/Agent/Community/Organization/Business/Local_Business/Entertainment_Business/Art_Gallery.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Business/Local_Business/Entertainment_Business/Art_Gallery.secret|Art_Gallery.secret]] 
 

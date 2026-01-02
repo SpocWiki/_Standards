@@ -85,7 +85,7 @@ feature gives the order its name (Arche - beginning, gnathos - jaw).
 Their abdominal segments bear styles, which are small appendages
 moveable by muscles. They can be seen underneath the abdomen in the
 following picture:
-![ ](Archaeognatha/archaeostyli2.gif))
+![ ](Archaeognatha/archaeostyli2.gif) 
 
 Styli may be remnants of ancestral limbs.
 
@@ -112,7 +112,7 @@ Styli may be remnants of ancestral limbs.
 
 
 --------------------------------------------------------------------------- 
-![Archaeognatha](Archaeognatha/Archaeognatha.jpg))
+![Archaeognatha](Archaeognatha/Archaeognatha.jpg) 
 Scientific Name ::     Archaeognatha
 Location ::           USA: North Carolina: Durham
 Specimen Condition   Live Specimen
@@ -121,17 +121,17 @@ Copyright ::            © 2004 [David R. Maddison](http://david.bembidion.org/)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Archaeognatha](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Archaeognatha.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Archaeognatha|Archaeognatha]] 
 
-### #is_/same_as :: [Archaeognatha.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Archaeognatha.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Archaeognatha.public|Archaeognatha.public]] 
 
-### #is_/same_as :: [Archaeognatha.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Archaeognatha.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Archaeognatha.internal|Archaeognatha.internal]] 
 
-### #is_/same_as :: [Archaeognatha.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Archaeognatha.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Archaeognatha.protect|Archaeognatha.protect]] 
 
-### #is_/same_as :: [Archaeognatha.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Archaeognatha.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Archaeognatha.private|Archaeognatha.private]] 
 
-### #is_/same_as :: [Archaeognatha.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Archaeognatha.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Archaeognatha.personal|Archaeognatha.personal]] 
 
-### #is_/same_as :: [Archaeognatha.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Archaeognatha.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Archaeognatha.secret|Archaeognatha.secret]] 
 

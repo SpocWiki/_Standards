@@ -51,17 +51,17 @@ Commons_category: Ores
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ore](/_Standards/Earth/Geology/Mineral/Ore.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geology/Mineral/Ore|Ore]] 
 
-### #is_/same_as :: [Ore.public](/_public/Earth/Geology/Mineral/Ore.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geology/Mineral/Ore.public|Ore.public]] 
 
-### #is_/same_as :: [Ore.internal](/_internal/Earth/Geology/Mineral/Ore.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geology/Mineral/Ore.internal|Ore.internal]] 
 
-### #is_/same_as :: [Ore.protect](/_protect/Earth/Geology/Mineral/Ore.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geology/Mineral/Ore.protect|Ore.protect]] 
 
-### #is_/same_as :: [Ore.private](/_private/Earth/Geology/Mineral/Ore.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geology/Mineral/Ore.private|Ore.private]] 
 
-### #is_/same_as :: [Ore.personal](/_personal/Earth/Geology/Mineral/Ore.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geology/Mineral/Ore.personal|Ore.personal]] 
 
-### #is_/same_as :: [Ore.secret](/_secret/Earth/Geology/Mineral/Ore.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geology/Mineral/Ore.secret|Ore.secret]] 
 

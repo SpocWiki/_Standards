@@ -136,17 +136,17 @@ dv.table(
 
 ## Confidential Links & Embeds: 
 
-### [ReadMe](/_Standards/Earth/Continent/America~North/USA/ReadMe.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~North/USA/ReadMe|ReadMe]] 
 
-### [ReadMe.public](/_public/Earth/Continent/America~North/USA/ReadMe.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~North/USA/ReadMe.public|ReadMe.public]] 
 
-### [ReadMe.internal](/_internal/Earth/Continent/America~North/USA/ReadMe.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~North/USA/ReadMe.internal|ReadMe.internal]] 
 
-### [ReadMe.protect](/_protect/Earth/Continent/America~North/USA/ReadMe.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~North/USA/ReadMe.protect|ReadMe.protect]] 
 
-### [ReadMe.private](/_private/Earth/Continent/America~North/USA/ReadMe.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~North/USA/ReadMe.private|ReadMe.private]] 
 
-### [ReadMe.personal](/_personal/Earth/Continent/America~North/USA/ReadMe.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~North/USA/ReadMe.personal|ReadMe.personal]] 
 
-### [ReadMe.secret](/_secret/Earth/Continent/America~North/USA/ReadMe.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~North/USA/ReadMe.secret|ReadMe.secret]] 
 

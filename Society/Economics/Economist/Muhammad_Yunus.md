@@ -158,17 +158,17 @@ X_Twitter_username: Yunus_Centre
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Muhammad_Yunus](/_Standards/Society/Economics/Economist/Muhammad_Yunus.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Economist/Muhammad_Yunus|Muhammad_Yunus]] 
 
-### #is_/same_as :: [Muhammad_Yunus.public](/_public/Society/Economics/Economist/Muhammad_Yunus.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Economist/Muhammad_Yunus.public|Muhammad_Yunus.public]] 
 
-### #is_/same_as :: [Muhammad_Yunus.internal](/_internal/Society/Economics/Economist/Muhammad_Yunus.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Economist/Muhammad_Yunus.internal|Muhammad_Yunus.internal]] 
 
-### #is_/same_as :: [Muhammad_Yunus.protect](/_protect/Society/Economics/Economist/Muhammad_Yunus.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Economist/Muhammad_Yunus.protect|Muhammad_Yunus.protect]] 
 
-### #is_/same_as :: [Muhammad_Yunus.private](/_private/Society/Economics/Economist/Muhammad_Yunus.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Economist/Muhammad_Yunus.private|Muhammad_Yunus.private]] 
 
-### #is_/same_as :: [Muhammad_Yunus.personal](/_personal/Society/Economics/Economist/Muhammad_Yunus.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Economist/Muhammad_Yunus.personal|Muhammad_Yunus.personal]] 
 
-### #is_/same_as :: [Muhammad_Yunus.secret](/_secret/Society/Economics/Economist/Muhammad_Yunus.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Economist/Muhammad_Yunus.secret|Muhammad_Yunus.secret]] 
 

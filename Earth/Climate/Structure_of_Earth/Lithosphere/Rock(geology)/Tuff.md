@@ -43,17 +43,17 @@ Commons_category: Tuff
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Tuff](/_Standards/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Tuff.md) 
+### #is_/same_as :: [[/_Standards/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Tuff|Tuff]] 
 
-### #is_/same_as :: [Tuff.public](/_public/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Tuff.public.md) 
+### #is_/same_as :: [[/_public/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Tuff.public|Tuff.public]] 
 
-### #is_/same_as :: [Tuff.internal](/_internal/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Tuff.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Tuff.internal|Tuff.internal]] 
 
-### #is_/same_as :: [Tuff.protect](/_protect/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Tuff.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Tuff.protect|Tuff.protect]] 
 
-### #is_/same_as :: [Tuff.private](/_private/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Tuff.private.md) 
+### #is_/same_as :: [[/_private/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Tuff.private|Tuff.private]] 
 
-### #is_/same_as :: [Tuff.personal](/_personal/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Tuff.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Tuff.personal|Tuff.personal]] 
 
-### #is_/same_as :: [Tuff.secret](/_secret/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Tuff.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Tuff.secret|Tuff.secret]] 
 

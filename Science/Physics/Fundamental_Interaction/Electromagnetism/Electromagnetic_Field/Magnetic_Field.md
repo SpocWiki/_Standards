@@ -86,17 +86,17 @@ Commons_category: Magnetic fields
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Magnetic_Field](/_Standards/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Field/Magnetic_Field.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Field/Magnetic_Field|Magnetic_Field]] 
 
-### #is_/same_as :: [Magnetic_Field.public](/_public/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Field/Magnetic_Field.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Field/Magnetic_Field.public|Magnetic_Field.public]] 
 
-### #is_/same_as :: [Magnetic_Field.internal](/_internal/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Field/Magnetic_Field.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Field/Magnetic_Field.internal|Magnetic_Field.internal]] 
 
-### #is_/same_as :: [Magnetic_Field.protect](/_protect/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Field/Magnetic_Field.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Field/Magnetic_Field.protect|Magnetic_Field.protect]] 
 
-### #is_/same_as :: [Magnetic_Field.private](/_private/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Field/Magnetic_Field.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Field/Magnetic_Field.private|Magnetic_Field.private]] 
 
-### #is_/same_as :: [Magnetic_Field.personal](/_personal/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Field/Magnetic_Field.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Field/Magnetic_Field.personal|Magnetic_Field.personal]] 
 
-### #is_/same_as :: [Magnetic_Field.secret](/_secret/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Field/Magnetic_Field.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Field/Magnetic_Field.secret|Magnetic_Field.secret]] 
 

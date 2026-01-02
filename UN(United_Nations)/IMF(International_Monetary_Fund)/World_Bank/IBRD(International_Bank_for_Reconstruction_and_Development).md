@@ -115,17 +115,17 @@ coordinate_location: Point(-77.0425 38.899)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [IBRD(International_Bank_for_Reconstruction_and_Development)](/_Standards/UN(United_Nations)/IMF(International_Monetary_Fund)/World_Bank/IBRD(International_Bank_for_Reconstruction_and_Development).md) 
+### #is_/same_as :: [[/_Standards/UN(United_Nations)/IMF(International_Monetary_Fund)/World_Bank/IBRD(International_Bank_for_Reconstruction_and_Development)|IBRD(International_Bank_for_Reconstruction_and_Development)]] 
 
-### #is_/same_as :: [IBRD(International_Bank_for_Reconstruction_and_Development).public](/_public/UN(United_Nations)/IMF(International_Monetary_Fund)/World_Bank/IBRD(International_Bank_for_Reconstruction_and_Development).public.md) 
+### #is_/same_as :: [[/_public/UN(United_Nations)/IMF(International_Monetary_Fund)/World_Bank/IBRD(International_Bank_for_Reconstruction_and_Development).public|IBRD(International_Bank_for_Reconstruction_and_Development).public]] 
 
-### #is_/same_as :: [IBRD(International_Bank_for_Reconstruction_and_Development).internal](/_internal/UN(United_Nations)/IMF(International_Monetary_Fund)/World_Bank/IBRD(International_Bank_for_Reconstruction_and_Development).internal.md) 
+### #is_/same_as :: [[/_internal/UN(United_Nations)/IMF(International_Monetary_Fund)/World_Bank/IBRD(International_Bank_for_Reconstruction_and_Development).internal|IBRD(International_Bank_for_Reconstruction_and_Development).internal]] 
 
-### #is_/same_as :: [IBRD(International_Bank_for_Reconstruction_and_Development).protect](/_protect/UN(United_Nations)/IMF(International_Monetary_Fund)/World_Bank/IBRD(International_Bank_for_Reconstruction_and_Development).protect.md) 
+### #is_/same_as :: [[/_protect/UN(United_Nations)/IMF(International_Monetary_Fund)/World_Bank/IBRD(International_Bank_for_Reconstruction_and_Development).protect|IBRD(International_Bank_for_Reconstruction_and_Development).protect]] 
 
-### #is_/same_as :: [IBRD(International_Bank_for_Reconstruction_and_Development).private](/_private/UN(United_Nations)/IMF(International_Monetary_Fund)/World_Bank/IBRD(International_Bank_for_Reconstruction_and_Development).private.md) 
+### #is_/same_as :: [[/_private/UN(United_Nations)/IMF(International_Monetary_Fund)/World_Bank/IBRD(International_Bank_for_Reconstruction_and_Development).private|IBRD(International_Bank_for_Reconstruction_and_Development).private]] 
 
-### #is_/same_as :: [IBRD(International_Bank_for_Reconstruction_and_Development).personal](/_personal/UN(United_Nations)/IMF(International_Monetary_Fund)/World_Bank/IBRD(International_Bank_for_Reconstruction_and_Development).personal.md) 
+### #is_/same_as :: [[/_personal/UN(United_Nations)/IMF(International_Monetary_Fund)/World_Bank/IBRD(International_Bank_for_Reconstruction_and_Development).personal|IBRD(International_Bank_for_Reconstruction_and_Development).personal]] 
 
-### #is_/same_as :: [IBRD(International_Bank_for_Reconstruction_and_Development).secret](/_secret/UN(United_Nations)/IMF(International_Monetary_Fund)/World_Bank/IBRD(International_Bank_for_Reconstruction_and_Development).secret.md)
+### #is_/same_as :: [[/_secret/UN(United_Nations)/IMF(International_Monetary_Fund)/World_Bank/IBRD(International_Bank_for_Reconstruction_and_Development).secret|IBRD(International_Bank_for_Reconstruction_and_Development).secret]] 
 

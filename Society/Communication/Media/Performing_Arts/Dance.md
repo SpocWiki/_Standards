@@ -86,17 +86,17 @@ used_by: "[[_Standards/WikiData/WD~dance,25543541]]"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Dance](/_Standards/Society/Communication/Media/Performing_Arts/Dance.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Performing_Arts/Dance|Dance]] 
 
-### #is_/same_as :: [Dance.public](/_public/Society/Communication/Media/Performing_Arts/Dance.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Performing_Arts/Dance.public|Dance.public]] 
 
-### #is_/same_as :: [Dance.internal](/_internal/Society/Communication/Media/Performing_Arts/Dance.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Performing_Arts/Dance.internal|Dance.internal]] 
 
-### #is_/same_as :: [Dance.protect](/_protect/Society/Communication/Media/Performing_Arts/Dance.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Performing_Arts/Dance.protect|Dance.protect]] 
 
-### #is_/same_as :: [Dance.private](/_private/Society/Communication/Media/Performing_Arts/Dance.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Performing_Arts/Dance.private|Dance.private]] 
 
-### #is_/same_as :: [Dance.personal](/_personal/Society/Communication/Media/Performing_Arts/Dance.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Performing_Arts/Dance.personal|Dance.personal]] 
 
-### #is_/same_as :: [Dance.secret](/_secret/Society/Communication/Media/Performing_Arts/Dance.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Performing_Arts/Dance.secret|Dance.secret]] 
 

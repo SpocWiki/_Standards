@@ -38,17 +38,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_publication](/_Standards/schema-org/Relation/has/has_publication.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_publication|has_publication]] 
 
-### #is_/same_as :: [has_publication.public](/_public/schema-org/Relation/has/has_publication.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_publication.public|has_publication.public]] 
 
-### #is_/same_as :: [has_publication.internal](/_internal/schema-org/Relation/has/has_publication.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_publication.internal|has_publication.internal]] 
 
-### #is_/same_as :: [has_publication.protect](/_protect/schema-org/Relation/has/has_publication.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_publication.protect|has_publication.protect]] 
 
-### #is_/same_as :: [has_publication.private](/_private/schema-org/Relation/has/has_publication.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_publication.private|has_publication.private]] 
 
-### #is_/same_as :: [has_publication.personal](/_personal/schema-org/Relation/has/has_publication.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_publication.personal|has_publication.personal]] 
 
-### #is_/same_as :: [has_publication.secret](/_secret/schema-org/Relation/has/has_publication.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_publication.secret|has_publication.secret]] 
 

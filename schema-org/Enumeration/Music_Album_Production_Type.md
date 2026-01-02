@@ -39,17 +39,17 @@ Classification of the album by its type of content: soundtrack, live album, stud
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Music_Album_Production_Type](/_Standards/schema-org/Enumeration/Music_Album_Production_Type.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Music_Album_Production_Type|Music_Album_Production_Type]] 
 
-### #is_/same_as :: [Music_Album_Production_Type.public](/_public/schema-org/Enumeration/Music_Album_Production_Type.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Music_Album_Production_Type.public|Music_Album_Production_Type.public]] 
 
-### #is_/same_as :: [Music_Album_Production_Type.internal](/_internal/schema-org/Enumeration/Music_Album_Production_Type.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Music_Album_Production_Type.internal|Music_Album_Production_Type.internal]] 
 
-### #is_/same_as :: [Music_Album_Production_Type.protect](/_protect/schema-org/Enumeration/Music_Album_Production_Type.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Music_Album_Production_Type.protect|Music_Album_Production_Type.protect]] 
 
-### #is_/same_as :: [Music_Album_Production_Type.private](/_private/schema-org/Enumeration/Music_Album_Production_Type.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Music_Album_Production_Type.private|Music_Album_Production_Type.private]] 
 
-### #is_/same_as :: [Music_Album_Production_Type.personal](/_personal/schema-org/Enumeration/Music_Album_Production_Type.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Music_Album_Production_Type.personal|Music_Album_Production_Type.personal]] 
 
-### #is_/same_as :: [Music_Album_Production_Type.secret](/_secret/schema-org/Enumeration/Music_Album_Production_Type.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Music_Album_Production_Type.secret|Music_Album_Production_Type.secret]] 
 

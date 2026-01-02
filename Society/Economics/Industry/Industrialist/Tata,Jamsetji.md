@@ -62,17 +62,17 @@ date_of_death: 1904-05-19T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Tata,Jamsetji](/_Standards/Society/Economics/Industry/Industrialist/Tata,Jamsetji.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Industry/Industrialist/Tata,Jamsetji|Tata,Jamsetji]] 
 
-### #is_/same_as :: [Tata,Jamsetji.public](/_public/Society/Economics/Industry/Industrialist/Tata,Jamsetji.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Industry/Industrialist/Tata,Jamsetji.public|Tata,Jamsetji.public]] 
 
-### #is_/same_as :: [Tata,Jamsetji.internal](/_internal/Society/Economics/Industry/Industrialist/Tata,Jamsetji.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Industry/Industrialist/Tata,Jamsetji.internal|Tata,Jamsetji.internal]] 
 
-### #is_/same_as :: [Tata,Jamsetji.protect](/_protect/Society/Economics/Industry/Industrialist/Tata,Jamsetji.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Industry/Industrialist/Tata,Jamsetji.protect|Tata,Jamsetji.protect]] 
 
-### #is_/same_as :: [Tata,Jamsetji.private](/_private/Society/Economics/Industry/Industrialist/Tata,Jamsetji.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Industry/Industrialist/Tata,Jamsetji.private|Tata,Jamsetji.private]] 
 
-### #is_/same_as :: [Tata,Jamsetji.personal](/_personal/Society/Economics/Industry/Industrialist/Tata,Jamsetji.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Industry/Industrialist/Tata,Jamsetji.personal|Tata,Jamsetji.personal]] 
 
-### #is_/same_as :: [Tata,Jamsetji.secret](/_secret/Society/Economics/Industry/Industrialist/Tata,Jamsetji.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Industry/Industrialist/Tata,Jamsetji.secret|Tata,Jamsetji.secret]] 
 

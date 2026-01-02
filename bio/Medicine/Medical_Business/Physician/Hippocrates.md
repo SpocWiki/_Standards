@@ -111,17 +111,17 @@ Provenio_UUID: 77e4a429-53a8-4689-9298-bcc7634c5bc2
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hippocrates](/_Standards/bio/Medicine/Medical_Business/Physician/Hippocrates.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Business/Physician/Hippocrates|Hippocrates]] 
 
-### #is_/same_as :: [Hippocrates.public](/_public/bio/Medicine/Medical_Business/Physician/Hippocrates.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Business/Physician/Hippocrates.public|Hippocrates.public]] 
 
-### #is_/same_as :: [Hippocrates.internal](/_internal/bio/Medicine/Medical_Business/Physician/Hippocrates.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Business/Physician/Hippocrates.internal|Hippocrates.internal]] 
 
-### #is_/same_as :: [Hippocrates.protect](/_protect/bio/Medicine/Medical_Business/Physician/Hippocrates.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Business/Physician/Hippocrates.protect|Hippocrates.protect]] 
 
-### #is_/same_as :: [Hippocrates.private](/_private/bio/Medicine/Medical_Business/Physician/Hippocrates.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Business/Physician/Hippocrates.private|Hippocrates.private]] 
 
-### #is_/same_as :: [Hippocrates.personal](/_personal/bio/Medicine/Medical_Business/Physician/Hippocrates.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Business/Physician/Hippocrates.personal|Hippocrates.personal]] 
 
-### #is_/same_as :: [Hippocrates.secret](/_secret/bio/Medicine/Medical_Business/Physician/Hippocrates.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Business/Physician/Hippocrates.secret|Hippocrates.secret]] 
 

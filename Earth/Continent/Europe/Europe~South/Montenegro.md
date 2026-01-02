@@ -479,17 +479,17 @@ Capital :: [[./Montenegro/Counties/Podgorica]]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Montenegro](/_Standards/Earth/Continent/Europe/Europe~South/Montenegro.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Montenegro|Montenegro]] 
 
-### #is_/same_as :: [Montenegro.public](/_public/Earth/Continent/Europe/Europe~South/Montenegro.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Montenegro.public|Montenegro.public]] 
 
-### #is_/same_as :: [Montenegro.internal](/_internal/Earth/Continent/Europe/Europe~South/Montenegro.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Montenegro.internal|Montenegro.internal]] 
 
-### #is_/same_as :: [Montenegro.protect](/_protect/Earth/Continent/Europe/Europe~South/Montenegro.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Montenegro.protect|Montenegro.protect]] 
 
-### #is_/same_as :: [Montenegro.private](/_private/Earth/Continent/Europe/Europe~South/Montenegro.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Montenegro.private|Montenegro.private]] 
 
-### #is_/same_as :: [Montenegro.personal](/_personal/Earth/Continent/Europe/Europe~South/Montenegro.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Montenegro.personal|Montenegro.personal]] 
 
-### #is_/same_as :: [Montenegro.secret](/_secret/Earth/Continent/Europe/Europe~South/Montenegro.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Montenegro.secret|Montenegro.secret]] 
 

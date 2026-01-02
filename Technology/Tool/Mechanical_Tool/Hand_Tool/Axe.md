@@ -64,17 +64,17 @@ name: digka
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Axe](/_Standards/Technology/Tool/Mechanical_Tool/Hand_Tool/Axe.md) 
+### #is_/same_as :: [[/_Standards/Technology/Tool/Mechanical_Tool/Hand_Tool/Axe|Axe]] 
 
-### #is_/same_as :: [Axe.public](/_public/Technology/Tool/Mechanical_Tool/Hand_Tool/Axe.public.md) 
+### #is_/same_as :: [[/_public/Technology/Tool/Mechanical_Tool/Hand_Tool/Axe.public|Axe.public]] 
 
-### #is_/same_as :: [Axe.internal](/_internal/Technology/Tool/Mechanical_Tool/Hand_Tool/Axe.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Tool/Mechanical_Tool/Hand_Tool/Axe.internal|Axe.internal]] 
 
-### #is_/same_as :: [Axe.protect](/_protect/Technology/Tool/Mechanical_Tool/Hand_Tool/Axe.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Tool/Mechanical_Tool/Hand_Tool/Axe.protect|Axe.protect]] 
 
-### #is_/same_as :: [Axe.private](/_private/Technology/Tool/Mechanical_Tool/Hand_Tool/Axe.private.md) 
+### #is_/same_as :: [[/_private/Technology/Tool/Mechanical_Tool/Hand_Tool/Axe.private|Axe.private]] 
 
-### #is_/same_as :: [Axe.personal](/_personal/Technology/Tool/Mechanical_Tool/Hand_Tool/Axe.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Tool/Mechanical_Tool/Hand_Tool/Axe.personal|Axe.personal]] 
 
-### #is_/same_as :: [Axe.secret](/_secret/Technology/Tool/Mechanical_Tool/Hand_Tool/Axe.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Tool/Mechanical_Tool/Hand_Tool/Axe.secret|Axe.secret]] 
 

@@ -85,17 +85,17 @@ female_form_of_label: خليفة د لمسلمين
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Caliph](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Muslim/Caliph.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Muslim/Caliph|Caliph]] 
 
-### #is_/same_as :: [Caliph.public](/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Muslim/Caliph.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Muslim/Caliph.public|Caliph.public]] 
 
-### #is_/same_as :: [Caliph.internal](/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Muslim/Caliph.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Muslim/Caliph.internal|Caliph.internal]] 
 
-### #is_/same_as :: [Caliph.protect](/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Muslim/Caliph.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Muslim/Caliph.protect|Caliph.protect]] 
 
-### #is_/same_as :: [Caliph.private](/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Muslim/Caliph.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Muslim/Caliph.private|Caliph.private]] 
 
-### #is_/same_as :: [Caliph.personal](/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Muslim/Caliph.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Muslim/Caliph.personal|Caliph.personal]] 
 
-### #is_/same_as :: [Caliph.secret](/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Muslim/Caliph.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Muslim/Caliph.secret|Caliph.secret]] 
 

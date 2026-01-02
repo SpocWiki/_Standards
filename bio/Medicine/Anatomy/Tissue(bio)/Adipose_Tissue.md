@@ -34,17 +34,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Adipose_Tissue](/_Standards/bio/Medicine/Anatomy/Tissue(bio)/Adipose_Tissue.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Anatomy/Tissue(bio)/Adipose_Tissue|Adipose_Tissue]] 
 
-### #is_/same_as :: [Adipose_Tissue.public](/_public/bio/Medicine/Anatomy/Tissue(bio)/Adipose_Tissue.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Anatomy/Tissue(bio)/Adipose_Tissue.public|Adipose_Tissue.public]] 
 
-### #is_/same_as :: [Adipose_Tissue.internal](/_internal/bio/Medicine/Anatomy/Tissue(bio)/Adipose_Tissue.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Anatomy/Tissue(bio)/Adipose_Tissue.internal|Adipose_Tissue.internal]] 
 
-### #is_/same_as :: [Adipose_Tissue.protect](/_protect/bio/Medicine/Anatomy/Tissue(bio)/Adipose_Tissue.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Anatomy/Tissue(bio)/Adipose_Tissue.protect|Adipose_Tissue.protect]] 
 
-### #is_/same_as :: [Adipose_Tissue.private](/_private/bio/Medicine/Anatomy/Tissue(bio)/Adipose_Tissue.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Anatomy/Tissue(bio)/Adipose_Tissue.private|Adipose_Tissue.private]] 
 
-### #is_/same_as :: [Adipose_Tissue.personal](/_personal/bio/Medicine/Anatomy/Tissue(bio)/Adipose_Tissue.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Anatomy/Tissue(bio)/Adipose_Tissue.personal|Adipose_Tissue.personal]] 
 
-### #is_/same_as :: [Adipose_Tissue.secret](/_secret/bio/Medicine/Anatomy/Tissue(bio)/Adipose_Tissue.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Anatomy/Tissue(bio)/Adipose_Tissue.secret|Adipose_Tissue.secret]] 
 

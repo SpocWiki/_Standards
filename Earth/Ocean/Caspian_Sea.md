@@ -164,17 +164,17 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Caspian_Sea](/_Standards/Earth/Ocean/Caspian_Sea.md) 
+### #is_/same_as :: [[/_Standards/Earth/Ocean/Caspian_Sea|Caspian_Sea]] 
 
-### #is_/same_as :: [Caspian_Sea.public](/_public/Earth/Ocean/Caspian_Sea.public.md) 
+### #is_/same_as :: [[/_public/Earth/Ocean/Caspian_Sea.public|Caspian_Sea.public]] 
 
-### #is_/same_as :: [Caspian_Sea.internal](/_internal/Earth/Ocean/Caspian_Sea.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Ocean/Caspian_Sea.internal|Caspian_Sea.internal]] 
 
-### #is_/same_as :: [Caspian_Sea.protect](/_protect/Earth/Ocean/Caspian_Sea.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Ocean/Caspian_Sea.protect|Caspian_Sea.protect]] 
 
-### #is_/same_as :: [Caspian_Sea.private](/_private/Earth/Ocean/Caspian_Sea.private.md) 
+### #is_/same_as :: [[/_private/Earth/Ocean/Caspian_Sea.private|Caspian_Sea.private]] 
 
-### #is_/same_as :: [Caspian_Sea.personal](/_personal/Earth/Ocean/Caspian_Sea.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Ocean/Caspian_Sea.personal|Caspian_Sea.personal]] 
 
-### #is_/same_as :: [Caspian_Sea.secret](/_secret/Earth/Ocean/Caspian_Sea.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Ocean/Caspian_Sea.secret|Caspian_Sea.secret]] 
 

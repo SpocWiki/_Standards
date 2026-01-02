@@ -41,17 +41,17 @@ Fitness-related activity designed for a specific health-related purpose, includi
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Exercise_Plan](/_Standards/Society/Communication/Media/Creative_Work/Exercise_Plan.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Creative_Work/Exercise_Plan|Exercise_Plan]] 
 
-### #is_/same_as :: [Exercise_Plan.public](/_public/Society/Communication/Media/Creative_Work/Exercise_Plan.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Creative_Work/Exercise_Plan.public|Exercise_Plan.public]] 
 
-### #is_/same_as :: [Exercise_Plan.internal](/_internal/Society/Communication/Media/Creative_Work/Exercise_Plan.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Creative_Work/Exercise_Plan.internal|Exercise_Plan.internal]] 
 
-### #is_/same_as :: [Exercise_Plan.protect](/_protect/Society/Communication/Media/Creative_Work/Exercise_Plan.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Creative_Work/Exercise_Plan.protect|Exercise_Plan.protect]] 
 
-### #is_/same_as :: [Exercise_Plan.private](/_private/Society/Communication/Media/Creative_Work/Exercise_Plan.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Creative_Work/Exercise_Plan.private|Exercise_Plan.private]] 
 
-### #is_/same_as :: [Exercise_Plan.personal](/_personal/Society/Communication/Media/Creative_Work/Exercise_Plan.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/Exercise_Plan.personal|Exercise_Plan.personal]] 
 
-### #is_/same_as :: [Exercise_Plan.secret](/_secret/Society/Communication/Media/Creative_Work/Exercise_Plan.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Exercise_Plan.secret|Exercise_Plan.secret]] 
 

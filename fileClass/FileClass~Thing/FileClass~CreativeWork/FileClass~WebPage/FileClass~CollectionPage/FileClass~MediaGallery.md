@@ -37,17 +37,17 @@ Web page type: Media gallery page. A mixed-media page that can contain media suc
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~MediaGallery](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~CollectionPage/FileClass~MediaGallery.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~CollectionPage/FileClass~MediaGallery|FileClass~MediaGallery]] 
 
-### #is_/same_as :: [FileClass~MediaGallery.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~CollectionPage/FileClass~MediaGallery.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~CollectionPage/FileClass~MediaGallery.public|FileClass~MediaGallery.public]] 
 
-### #is_/same_as :: [FileClass~MediaGallery.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~CollectionPage/FileClass~MediaGallery.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~CollectionPage/FileClass~MediaGallery.internal|FileClass~MediaGallery.internal]] 
 
-### #is_/same_as :: [FileClass~MediaGallery.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~CollectionPage/FileClass~MediaGallery.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~CollectionPage/FileClass~MediaGallery.protect|FileClass~MediaGallery.protect]] 
 
-### #is_/same_as :: [FileClass~MediaGallery.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~CollectionPage/FileClass~MediaGallery.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~CollectionPage/FileClass~MediaGallery.private|FileClass~MediaGallery.private]] 
 
-### #is_/same_as :: [FileClass~MediaGallery.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~CollectionPage/FileClass~MediaGallery.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~CollectionPage/FileClass~MediaGallery.personal|FileClass~MediaGallery.personal]] 
 
-### #is_/same_as :: [FileClass~MediaGallery.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~CollectionPage/FileClass~MediaGallery.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~CollectionPage/FileClass~MediaGallery.secret|FileClass~MediaGallery.secret]] 
 

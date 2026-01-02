@@ -37,17 +37,17 @@ A parking lot or other parking facility.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~ParkingFacility](/_Standards/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~ParkingFacility.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~ParkingFacility|FileClass~ParkingFacility]] 
 
-### #is_/same_as :: [FileClass~ParkingFacility.public](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~ParkingFacility.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~ParkingFacility.public|FileClass~ParkingFacility.public]] 
 
-### #is_/same_as :: [FileClass~ParkingFacility.internal](/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~ParkingFacility.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~ParkingFacility.internal|FileClass~ParkingFacility.internal]] 
 
-### #is_/same_as :: [FileClass~ParkingFacility.protect](/_protect/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~ParkingFacility.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~ParkingFacility.protect|FileClass~ParkingFacility.protect]] 
 
-### #is_/same_as :: [FileClass~ParkingFacility.private](/_private/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~ParkingFacility.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~ParkingFacility.private|FileClass~ParkingFacility.private]] 
 
-### #is_/same_as :: [FileClass~ParkingFacility.personal](/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~ParkingFacility.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~ParkingFacility.personal|FileClass~ParkingFacility.personal]] 
 
-### #is_/same_as :: [FileClass~ParkingFacility.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~ParkingFacility.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~ParkingFacility.secret|FileClass~ParkingFacility.secret]] 
 

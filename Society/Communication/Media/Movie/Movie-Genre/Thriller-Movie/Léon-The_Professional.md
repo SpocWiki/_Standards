@@ -21,17 +21,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Léon-The_Professional](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Léon-The_Professional.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Léon-The_Professional|Léon-The_Professional]] 
 
-### #is_/same_as :: [Léon-The_Professional.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Léon-The_Professional.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Léon-The_Professional.public|Léon-The_Professional.public]] 
 
-### #is_/same_as :: [Léon-The_Professional.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Léon-The_Professional.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Léon-The_Professional.internal|Léon-The_Professional.internal]] 
 
-### #is_/same_as :: [Léon-The_Professional.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Léon-The_Professional.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Léon-The_Professional.protect|Léon-The_Professional.protect]] 
 
-### #is_/same_as :: [Léon-The_Professional.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Léon-The_Professional.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Léon-The_Professional.private|Léon-The_Professional.private]] 
 
-### #is_/same_as :: [Léon-The_Professional.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Léon-The_Professional.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Léon-The_Professional.personal|Léon-The_Professional.personal]] 
 
-### #is_/same_as :: [Léon-The_Professional.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Léon-The_Professional.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Léon-The_Professional.secret|Léon-The_Professional.secret]] 
 

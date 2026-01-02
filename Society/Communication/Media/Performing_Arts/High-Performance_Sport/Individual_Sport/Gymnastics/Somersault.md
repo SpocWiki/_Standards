@@ -31,17 +31,17 @@ video: http://commons.wikimedia.org/wiki/Special:FilePath/Ground%20flip%202023-0
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Somersault](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Gymnastics/Somersault.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Gymnastics/Somersault|Somersault]] 
 
-### #is_/same_as :: [Somersault.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Gymnastics/Somersault.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Gymnastics/Somersault.public|Somersault.public]] 
 
-### #is_/same_as :: [Somersault.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Gymnastics/Somersault.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Gymnastics/Somersault.internal|Somersault.internal]] 
 
-### #is_/same_as :: [Somersault.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Gymnastics/Somersault.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Gymnastics/Somersault.protect|Somersault.protect]] 
 
-### #is_/same_as :: [Somersault.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Gymnastics/Somersault.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Gymnastics/Somersault.private|Somersault.private]] 
 
-### #is_/same_as :: [Somersault.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Gymnastics/Somersault.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Gymnastics/Somersault.personal|Somersault.personal]] 
 
-### #is_/same_as :: [Somersault.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Gymnastics/Somersault.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Gymnastics/Somersault.secret|Somersault.secret]] 
 

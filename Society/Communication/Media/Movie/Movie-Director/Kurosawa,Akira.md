@@ -142,17 +142,17 @@ writing_language: '[[_Standards/WikiData/WD~Japanese,5287]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Kurosawa,Akira](/_Standards/Society/Communication/Media/Movie/Movie-Director/Kurosawa,Akira.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Director/Kurosawa,Akira|Kurosawa,Akira]] 
 
-### #is_/same_as :: [Kurosawa,Akira.public](/_public/Society/Communication/Media/Movie/Movie-Director/Kurosawa,Akira.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Director/Kurosawa,Akira.public|Kurosawa,Akira.public]] 
 
-### #is_/same_as :: [Kurosawa,Akira.internal](/_internal/Society/Communication/Media/Movie/Movie-Director/Kurosawa,Akira.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Director/Kurosawa,Akira.internal|Kurosawa,Akira.internal]] 
 
-### #is_/same_as :: [Kurosawa,Akira.protect](/_protect/Society/Communication/Media/Movie/Movie-Director/Kurosawa,Akira.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Director/Kurosawa,Akira.protect|Kurosawa,Akira.protect]] 
 
-### #is_/same_as :: [Kurosawa,Akira.private](/_private/Society/Communication/Media/Movie/Movie-Director/Kurosawa,Akira.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Director/Kurosawa,Akira.private|Kurosawa,Akira.private]] 
 
-### #is_/same_as :: [Kurosawa,Akira.personal](/_personal/Society/Communication/Media/Movie/Movie-Director/Kurosawa,Akira.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Director/Kurosawa,Akira.personal|Kurosawa,Akira.personal]] 
 
-### #is_/same_as :: [Kurosawa,Akira.secret](/_secret/Society/Communication/Media/Movie/Movie-Director/Kurosawa,Akira.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Director/Kurosawa,Akira.secret|Kurosawa,Akira.secret]] 
 

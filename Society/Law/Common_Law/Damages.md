@@ -37,17 +37,17 @@ subclass_of: '[[_Standards/WikiData/WD~compensation,21127747]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Damages](/_Standards/Society/Law/Common_Law/Damages.md) 
+### #is_/same_as :: [[/_Standards/Society/Law/Common_Law/Damages|Damages]] 
 
-### #is_/same_as :: [Damages.public](/_public/Society/Law/Common_Law/Damages.public.md) 
+### #is_/same_as :: [[/_public/Society/Law/Common_Law/Damages.public|Damages.public]] 
 
-### #is_/same_as :: [Damages.internal](/_internal/Society/Law/Common_Law/Damages.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Law/Common_Law/Damages.internal|Damages.internal]] 
 
-### #is_/same_as :: [Damages.protect](/_protect/Society/Law/Common_Law/Damages.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Law/Common_Law/Damages.protect|Damages.protect]] 
 
-### #is_/same_as :: [Damages.private](/_private/Society/Law/Common_Law/Damages.private.md) 
+### #is_/same_as :: [[/_private/Society/Law/Common_Law/Damages.private|Damages.private]] 
 
-### #is_/same_as :: [Damages.personal](/_personal/Society/Law/Common_Law/Damages.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Law/Common_Law/Damages.personal|Damages.personal]] 
 
-### #is_/same_as :: [Damages.secret](/_secret/Society/Law/Common_Law/Damages.secret.md)
+### #is_/same_as :: [[/_secret/Society/Law/Common_Law/Damages.secret|Damages.secret]] 
 

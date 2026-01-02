@@ -59,17 +59,17 @@ main_Wikidata_property: epoch
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [astro~Epoch](/_Standards/Astronomy/Astronomical_Event/astro~Epoch.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Astronomical_Event/astro~Epoch|astro~Epoch]] 
 
-### #is_/same_as :: [astro~Epoch.public](/_public/Astronomy/Astronomical_Event/astro~Epoch.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Astronomical_Event/astro~Epoch.public|astro~Epoch.public]] 
 
-### #is_/same_as :: [astro~Epoch.internal](/_internal/Astronomy/Astronomical_Event/astro~Epoch.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Astronomical_Event/astro~Epoch.internal|astro~Epoch.internal]] 
 
-### #is_/same_as :: [astro~Epoch.protect](/_protect/Astronomy/Astronomical_Event/astro~Epoch.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Astronomical_Event/astro~Epoch.protect|astro~Epoch.protect]] 
 
-### #is_/same_as :: [astro~Epoch.private](/_private/Astronomy/Astronomical_Event/astro~Epoch.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Astronomical_Event/astro~Epoch.private|astro~Epoch.private]] 
 
-### #is_/same_as :: [astro~Epoch.personal](/_personal/Astronomy/Astronomical_Event/astro~Epoch.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Astronomical_Event/astro~Epoch.personal|astro~Epoch.personal]] 
 
-### #is_/same_as :: [astro~Epoch.secret](/_secret/Astronomy/Astronomical_Event/astro~Epoch.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Astronomical_Event/astro~Epoch.secret|astro~Epoch.secret]] 
 

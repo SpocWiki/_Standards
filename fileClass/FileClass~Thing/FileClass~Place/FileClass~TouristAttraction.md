@@ -58,17 +58,17 @@ TouristType:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/T
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~TouristAttraction](/_Standards/fileClass/FileClass~Thing/FileClass~Place/FileClass~TouristAttraction.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Place/FileClass~TouristAttraction|FileClass~TouristAttraction]] 
 
-### #is_/same_as :: [FileClass~TouristAttraction.public](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~TouristAttraction.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~TouristAttraction.public|FileClass~TouristAttraction.public]] 
 
-### #is_/same_as :: [FileClass~TouristAttraction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~TouristAttraction.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~TouristAttraction.internal|FileClass~TouristAttraction.internal]] 
 
-### #is_/same_as :: [FileClass~TouristAttraction.protect](/_protect/fileClass/FileClass~Thing/FileClass~Place/FileClass~TouristAttraction.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Place/FileClass~TouristAttraction.protect|FileClass~TouristAttraction.protect]] 
 
-### #is_/same_as :: [FileClass~TouristAttraction.private](/_private/fileClass/FileClass~Thing/FileClass~Place/FileClass~TouristAttraction.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Place/FileClass~TouristAttraction.private|FileClass~TouristAttraction.private]] 
 
-### #is_/same_as :: [FileClass~TouristAttraction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~TouristAttraction.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~TouristAttraction.personal|FileClass~TouristAttraction.personal]] 
 
-### #is_/same_as :: [FileClass~TouristAttraction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~TouristAttraction.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~TouristAttraction.secret|FileClass~TouristAttraction.secret]] 
 

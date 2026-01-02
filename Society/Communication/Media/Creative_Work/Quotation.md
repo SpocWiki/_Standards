@@ -41,17 +41,17 @@ A quotation. Often but not necessarily from some written work, attributable to a
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Quotation](/_Standards/Society/Communication/Media/Creative_Work/Quotation.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Creative_Work/Quotation|Quotation]] 
 
-### #is_/same_as :: [Quotation.public](/_public/Society/Communication/Media/Creative_Work/Quotation.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Creative_Work/Quotation.public|Quotation.public]] 
 
-### #is_/same_as :: [Quotation.internal](/_internal/Society/Communication/Media/Creative_Work/Quotation.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Creative_Work/Quotation.internal|Quotation.internal]] 
 
-### #is_/same_as :: [Quotation.protect](/_protect/Society/Communication/Media/Creative_Work/Quotation.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Creative_Work/Quotation.protect|Quotation.protect]] 
 
-### #is_/same_as :: [Quotation.private](/_private/Society/Communication/Media/Creative_Work/Quotation.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Creative_Work/Quotation.private|Quotation.private]] 
 
-### #is_/same_as :: [Quotation.personal](/_personal/Society/Communication/Media/Creative_Work/Quotation.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/Quotation.personal|Quotation.personal]] 
 
-### #is_/same_as :: [Quotation.secret](/_secret/Society/Communication/Media/Creative_Work/Quotation.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Quotation.secret|Quotation.secret]] 
 

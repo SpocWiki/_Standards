@@ -94,17 +94,17 @@ A radio station.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Radio_Station](/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Radio_Station.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Radio_Station|Radio_Station]] 
 
-### #is_/same_as :: [Radio_Station.public](/_public/Society/Agent/Community/Organization/Business/Local_Business/Radio_Station.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Business/Local_Business/Radio_Station.public|Radio_Station.public]] 
 
-### #is_/same_as :: [Radio_Station.internal](/_internal/Society/Agent/Community/Organization/Business/Local_Business/Radio_Station.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Business/Local_Business/Radio_Station.internal|Radio_Station.internal]] 
 
-### #is_/same_as :: [Radio_Station.protect](/_protect/Society/Agent/Community/Organization/Business/Local_Business/Radio_Station.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Business/Local_Business/Radio_Station.protect|Radio_Station.protect]] 
 
-### #is_/same_as :: [Radio_Station.private](/_private/Society/Agent/Community/Organization/Business/Local_Business/Radio_Station.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Business/Local_Business/Radio_Station.private|Radio_Station.private]] 
 
-### #is_/same_as :: [Radio_Station.personal](/_personal/Society/Agent/Community/Organization/Business/Local_Business/Radio_Station.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Business/Local_Business/Radio_Station.personal|Radio_Station.personal]] 
 
-### #is_/same_as :: [Radio_Station.secret](/_secret/Society/Agent/Community/Organization/Business/Local_Business/Radio_Station.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Business/Local_Business/Radio_Station.secret|Radio_Station.secret]] 
 

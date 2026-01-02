@@ -37,17 +37,17 @@ An advertising section of the page.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~WPAdBlock](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPageElement/FileClass~WPAdBlock.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPageElement/FileClass~WPAdBlock|FileClass~WPAdBlock]] 
 
-### #is_/same_as :: [FileClass~WPAdBlock.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPageElement/FileClass~WPAdBlock.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPageElement/FileClass~WPAdBlock.public|FileClass~WPAdBlock.public]] 
 
-### #is_/same_as :: [FileClass~WPAdBlock.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPageElement/FileClass~WPAdBlock.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPageElement/FileClass~WPAdBlock.internal|FileClass~WPAdBlock.internal]] 
 
-### #is_/same_as :: [FileClass~WPAdBlock.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPageElement/FileClass~WPAdBlock.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPageElement/FileClass~WPAdBlock.protect|FileClass~WPAdBlock.protect]] 
 
-### #is_/same_as :: [FileClass~WPAdBlock.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPageElement/FileClass~WPAdBlock.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPageElement/FileClass~WPAdBlock.private|FileClass~WPAdBlock.private]] 
 
-### #is_/same_as :: [FileClass~WPAdBlock.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPageElement/FileClass~WPAdBlock.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPageElement/FileClass~WPAdBlock.personal|FileClass~WPAdBlock.personal]] 
 
-### #is_/same_as :: [FileClass~WPAdBlock.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPageElement/FileClass~WPAdBlock.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPageElement/FileClass~WPAdBlock.secret|FileClass~WPAdBlock.secret]] 
 

@@ -52,17 +52,17 @@ MeSH_tree_code: H01.277
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Earth_science](/_Standards/Science/Earth_science.md) 
+### #is_/same_as :: [[/_Standards/Science/Earth_science|Earth_science]] 
 
-### #is_/same_as :: [Earth_science.public](/_public/Science/Earth_science.public.md) 
+### #is_/same_as :: [[/_public/Science/Earth_science.public|Earth_science.public]] 
 
-### #is_/same_as :: [Earth_science.internal](/_internal/Science/Earth_science.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Earth_science.internal|Earth_science.internal]] 
 
-### #is_/same_as :: [Earth_science.protect](/_protect/Science/Earth_science.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Earth_science.protect|Earth_science.protect]] 
 
-### #is_/same_as :: [Earth_science.private](/_private/Science/Earth_science.private.md) 
+### #is_/same_as :: [[/_private/Science/Earth_science.private|Earth_science.private]] 
 
-### #is_/same_as :: [Earth_science.personal](/_personal/Science/Earth_science.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Earth_science.personal|Earth_science.personal]] 
 
-### #is_/same_as :: [Earth_science.secret](/_secret/Science/Earth_science.secret.md)
+### #is_/same_as :: [[/_secret/Science/Earth_science.secret|Earth_science.secret]] 
 

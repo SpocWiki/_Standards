@@ -56,17 +56,17 @@ hashtag: feudartifice
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Firework](/_Standards/Society/Communication/Media/Performing_Arts/Firework.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Performing_Arts/Firework|Firework]] 
 
-### #is_/same_as :: [Firework.public](/_public/Society/Communication/Media/Performing_Arts/Firework.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Performing_Arts/Firework.public|Firework.public]] 
 
-### #is_/same_as :: [Firework.internal](/_internal/Society/Communication/Media/Performing_Arts/Firework.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Performing_Arts/Firework.internal|Firework.internal]] 
 
-### #is_/same_as :: [Firework.protect](/_protect/Society/Communication/Media/Performing_Arts/Firework.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Performing_Arts/Firework.protect|Firework.protect]] 
 
-### #is_/same_as :: [Firework.private](/_private/Society/Communication/Media/Performing_Arts/Firework.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Performing_Arts/Firework.private|Firework.private]] 
 
-### #is_/same_as :: [Firework.personal](/_personal/Society/Communication/Media/Performing_Arts/Firework.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Performing_Arts/Firework.personal|Firework.personal]] 
 
-### #is_/same_as :: [Firework.secret](/_secret/Society/Communication/Media/Performing_Arts/Firework.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Performing_Arts/Firework.secret|Firework.secret]] 
 

@@ -164,17 +164,17 @@ RTECS_number: FF6400000
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Carbon_Dioxide](/_Standards/Chemistry/Inorganic_Chemistry/Carbon_Dioxide.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Inorganic_Chemistry/Carbon_Dioxide|Carbon_Dioxide]] 
 
-### #is_/same_as :: [Carbon_Dioxide.public](/_public/Chemistry/Inorganic_Chemistry/Carbon_Dioxide.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Inorganic_Chemistry/Carbon_Dioxide.public|Carbon_Dioxide.public]] 
 
-### #is_/same_as :: [Carbon_Dioxide.internal](/_internal/Chemistry/Inorganic_Chemistry/Carbon_Dioxide.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Inorganic_Chemistry/Carbon_Dioxide.internal|Carbon_Dioxide.internal]] 
 
-### #is_/same_as :: [Carbon_Dioxide.protect](/_protect/Chemistry/Inorganic_Chemistry/Carbon_Dioxide.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Inorganic_Chemistry/Carbon_Dioxide.protect|Carbon_Dioxide.protect]] 
 
-### #is_/same_as :: [Carbon_Dioxide.private](/_private/Chemistry/Inorganic_Chemistry/Carbon_Dioxide.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Inorganic_Chemistry/Carbon_Dioxide.private|Carbon_Dioxide.private]] 
 
-### #is_/same_as :: [Carbon_Dioxide.personal](/_personal/Chemistry/Inorganic_Chemistry/Carbon_Dioxide.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Inorganic_Chemistry/Carbon_Dioxide.personal|Carbon_Dioxide.personal]] 
 
-### #is_/same_as :: [Carbon_Dioxide.secret](/_secret/Chemistry/Inorganic_Chemistry/Carbon_Dioxide.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Inorganic_Chemistry/Carbon_Dioxide.secret|Carbon_Dioxide.secret]] 
 

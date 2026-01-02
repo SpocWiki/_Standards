@@ -45,17 +45,17 @@ Formal Predicate:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_time_of_birth](/_Standards/schema-org/Property/has_Date_Time/has_time_of_birth.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_Date_Time/has_time_of_birth|has_time_of_birth]] 
 
-### #is_/same_as :: [has_time_of_birth.public](/_public/schema-org/Property/has_Date_Time/has_time_of_birth.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/has_Date_Time/has_time_of_birth.public|has_time_of_birth.public]] 
 
-### #is_/same_as :: [has_time_of_birth.internal](/_internal/schema-org/Property/has_Date_Time/has_time_of_birth.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_Date_Time/has_time_of_birth.internal|has_time_of_birth.internal]] 
 
-### #is_/same_as :: [has_time_of_birth.protect](/_protect/schema-org/Property/has_Date_Time/has_time_of_birth.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_Date_Time/has_time_of_birth.protect|has_time_of_birth.protect]] 
 
-### #is_/same_as :: [has_time_of_birth.private](/_private/schema-org/Property/has_Date_Time/has_time_of_birth.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/has_Date_Time/has_time_of_birth.private|has_time_of_birth.private]] 
 
-### #is_/same_as :: [has_time_of_birth.personal](/_personal/schema-org/Property/has_Date_Time/has_time_of_birth.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_Date_Time/has_time_of_birth.personal|has_time_of_birth.personal]] 
 
-### #is_/same_as :: [has_time_of_birth.secret](/_secret/schema-org/Property/has_Date_Time/has_time_of_birth.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/has_Date_Time/has_time_of_birth.secret|has_time_of_birth.secret]] 
 

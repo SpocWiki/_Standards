@@ -41,17 +41,17 @@ Organization: Sports team.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sports_Team](/_Standards/Society/Agent/Community/Organization/Sports_Organization/Sports_Team.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Sports_Organization/Sports_Team|Sports_Team]] 
 
-### #is_/same_as :: [Sports_Team.public](/_public/Society/Agent/Community/Organization/Sports_Organization/Sports_Team.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Sports_Organization/Sports_Team.public|Sports_Team.public]] 
 
-### #is_/same_as :: [Sports_Team.internal](/_internal/Society/Agent/Community/Organization/Sports_Organization/Sports_Team.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Sports_Organization/Sports_Team.internal|Sports_Team.internal]] 
 
-### #is_/same_as :: [Sports_Team.protect](/_protect/Society/Agent/Community/Organization/Sports_Organization/Sports_Team.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Sports_Organization/Sports_Team.protect|Sports_Team.protect]] 
 
-### #is_/same_as :: [Sports_Team.private](/_private/Society/Agent/Community/Organization/Sports_Organization/Sports_Team.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Sports_Organization/Sports_Team.private|Sports_Team.private]] 
 
-### #is_/same_as :: [Sports_Team.personal](/_personal/Society/Agent/Community/Organization/Sports_Organization/Sports_Team.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Sports_Organization/Sports_Team.personal|Sports_Team.personal]] 
 
-### #is_/same_as :: [Sports_Team.secret](/_secret/Society/Agent/Community/Organization/Sports_Organization/Sports_Team.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Sports_Organization/Sports_Team.secret|Sports_Team.secret]] 
 

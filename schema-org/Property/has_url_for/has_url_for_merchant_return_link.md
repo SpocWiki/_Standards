@@ -46,17 +46,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_url_for_merchant_return_link](/_Standards/schema-org/Property/has_url_for/has_url_for_merchant_return_link.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_url_for/has_url_for_merchant_return_link|has_url_for_merchant_return_link]] 
 
-### #is_/same_as :: [has_url_for_merchant_return_link.public](/_public/schema-org/Property/has_url_for/has_url_for_merchant_return_link.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/has_url_for/has_url_for_merchant_return_link.public|has_url_for_merchant_return_link.public]] 
 
-### #is_/same_as :: [has_url_for_merchant_return_link.internal](/_internal/schema-org/Property/has_url_for/has_url_for_merchant_return_link.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_url_for/has_url_for_merchant_return_link.internal|has_url_for_merchant_return_link.internal]] 
 
-### #is_/same_as :: [has_url_for_merchant_return_link.protect](/_protect/schema-org/Property/has_url_for/has_url_for_merchant_return_link.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_url_for/has_url_for_merchant_return_link.protect|has_url_for_merchant_return_link.protect]] 
 
-### #is_/same_as :: [has_url_for_merchant_return_link.private](/_private/schema-org/Property/has_url_for/has_url_for_merchant_return_link.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/has_url_for/has_url_for_merchant_return_link.private|has_url_for_merchant_return_link.private]] 
 
-### #is_/same_as :: [has_url_for_merchant_return_link.personal](/_personal/schema-org/Property/has_url_for/has_url_for_merchant_return_link.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_url_for/has_url_for_merchant_return_link.personal|has_url_for_merchant_return_link.personal]] 
 
-### #is_/same_as :: [has_url_for_merchant_return_link.secret](/_secret/schema-org/Property/has_url_for/has_url_for_merchant_return_link.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/has_url_for/has_url_for_merchant_return_link.secret|has_url_for_merchant_return_link.secret]] 
 

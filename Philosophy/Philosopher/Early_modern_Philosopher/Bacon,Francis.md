@@ -208,17 +208,17 @@ CYT_CCS: AC000089995
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bacon,Francis](/_Standards/Philosophy/Philosopher/Early_modern_Philosopher/Bacon,Francis.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Philosopher/Early_modern_Philosopher/Bacon,Francis|Bacon,Francis]] 
 
-### #is_/same_as :: [Bacon,Francis.public](/_public/Philosophy/Philosopher/Early_modern_Philosopher/Bacon,Francis.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Philosopher/Early_modern_Philosopher/Bacon,Francis.public|Bacon,Francis.public]] 
 
-### #is_/same_as :: [Bacon,Francis.internal](/_internal/Philosophy/Philosopher/Early_modern_Philosopher/Bacon,Francis.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Philosopher/Early_modern_Philosopher/Bacon,Francis.internal|Bacon,Francis.internal]] 
 
-### #is_/same_as :: [Bacon,Francis.protect](/_protect/Philosophy/Philosopher/Early_modern_Philosopher/Bacon,Francis.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Philosopher/Early_modern_Philosopher/Bacon,Francis.protect|Bacon,Francis.protect]] 
 
-### #is_/same_as :: [Bacon,Francis.private](/_private/Philosophy/Philosopher/Early_modern_Philosopher/Bacon,Francis.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Philosopher/Early_modern_Philosopher/Bacon,Francis.private|Bacon,Francis.private]] 
 
-### #is_/same_as :: [Bacon,Francis.personal](/_personal/Philosophy/Philosopher/Early_modern_Philosopher/Bacon,Francis.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Philosopher/Early_modern_Philosopher/Bacon,Francis.personal|Bacon,Francis.personal]] 
 
-### #is_/same_as :: [Bacon,Francis.secret](/_secret/Philosophy/Philosopher/Early_modern_Philosopher/Bacon,Francis.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Philosopher/Early_modern_Philosopher/Bacon,Francis.secret|Bacon,Francis.secret]] 
 

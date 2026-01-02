@@ -30,17 +30,17 @@ subclass_of: '[[_Standards/WikiData/WD~war,198]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Conventional_Warfare](/_Standards/Society/Military/Military_Operation/Combat/War/Conventional_Warfare.md) 
+### #is_/same_as :: [[/_Standards/Society/Military/Military_Operation/Combat/War/Conventional_Warfare|Conventional_Warfare]] 
 
-### #is_/same_as :: [Conventional_Warfare.public](/_public/Society/Military/Military_Operation/Combat/War/Conventional_Warfare.public.md) 
+### #is_/same_as :: [[/_public/Society/Military/Military_Operation/Combat/War/Conventional_Warfare.public|Conventional_Warfare.public]] 
 
-### #is_/same_as :: [Conventional_Warfare.internal](/_internal/Society/Military/Military_Operation/Combat/War/Conventional_Warfare.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Military/Military_Operation/Combat/War/Conventional_Warfare.internal|Conventional_Warfare.internal]] 
 
-### #is_/same_as :: [Conventional_Warfare.protect](/_protect/Society/Military/Military_Operation/Combat/War/Conventional_Warfare.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Military/Military_Operation/Combat/War/Conventional_Warfare.protect|Conventional_Warfare.protect]] 
 
-### #is_/same_as :: [Conventional_Warfare.private](/_private/Society/Military/Military_Operation/Combat/War/Conventional_Warfare.private.md) 
+### #is_/same_as :: [[/_private/Society/Military/Military_Operation/Combat/War/Conventional_Warfare.private|Conventional_Warfare.private]] 
 
-### #is_/same_as :: [Conventional_Warfare.personal](/_personal/Society/Military/Military_Operation/Combat/War/Conventional_Warfare.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Military/Military_Operation/Combat/War/Conventional_Warfare.personal|Conventional_Warfare.personal]] 
 
-### #is_/same_as :: [Conventional_Warfare.secret](/_secret/Society/Military/Military_Operation/Combat/War/Conventional_Warfare.secret.md)
+### #is_/same_as :: [[/_secret/Society/Military/Military_Operation/Combat/War/Conventional_Warfare.secret|Conventional_Warfare.secret]] 
 

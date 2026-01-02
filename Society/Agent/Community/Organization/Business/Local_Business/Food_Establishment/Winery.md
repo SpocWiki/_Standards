@@ -39,17 +39,17 @@ A winery.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Winery](/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Food_Establishment/Winery.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Food_Establishment/Winery|Winery]] 
 
-### #is_/same_as :: [Winery.public](/_public/Society/Agent/Community/Organization/Business/Local_Business/Food_Establishment/Winery.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Business/Local_Business/Food_Establishment/Winery.public|Winery.public]] 
 
-### #is_/same_as :: [Winery.internal](/_internal/Society/Agent/Community/Organization/Business/Local_Business/Food_Establishment/Winery.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Business/Local_Business/Food_Establishment/Winery.internal|Winery.internal]] 
 
-### #is_/same_as :: [Winery.protect](/_protect/Society/Agent/Community/Organization/Business/Local_Business/Food_Establishment/Winery.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Business/Local_Business/Food_Establishment/Winery.protect|Winery.protect]] 
 
-### #is_/same_as :: [Winery.private](/_private/Society/Agent/Community/Organization/Business/Local_Business/Food_Establishment/Winery.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Business/Local_Business/Food_Establishment/Winery.private|Winery.private]] 
 
-### #is_/same_as :: [Winery.personal](/_personal/Society/Agent/Community/Organization/Business/Local_Business/Food_Establishment/Winery.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Business/Local_Business/Food_Establishment/Winery.personal|Winery.personal]] 
 
-### #is_/same_as :: [Winery.secret](/_secret/Society/Agent/Community/Organization/Business/Local_Business/Food_Establishment/Winery.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Business/Local_Business/Food_Establishment/Winery.secret|Winery.secret]] 
 

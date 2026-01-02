@@ -49,17 +49,17 @@ Commons_category: Sonnets
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sonnet](/_Standards/Society/Communication/Media/Writing/Book/Poetry/Sonnet.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Poetry/Sonnet|Sonnet]] 
 
-### #is_/same_as :: [Sonnet.public](/_public/Society/Communication/Media/Writing/Book/Poetry/Sonnet.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Poetry/Sonnet.public|Sonnet.public]] 
 
-### #is_/same_as :: [Sonnet.internal](/_internal/Society/Communication/Media/Writing/Book/Poetry/Sonnet.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Poetry/Sonnet.internal|Sonnet.internal]] 
 
-### #is_/same_as :: [Sonnet.protect](/_protect/Society/Communication/Media/Writing/Book/Poetry/Sonnet.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Poetry/Sonnet.protect|Sonnet.protect]] 
 
-### #is_/same_as :: [Sonnet.private](/_private/Society/Communication/Media/Writing/Book/Poetry/Sonnet.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Poetry/Sonnet.private|Sonnet.private]] 
 
-### #is_/same_as :: [Sonnet.personal](/_personal/Society/Communication/Media/Writing/Book/Poetry/Sonnet.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Poetry/Sonnet.personal|Sonnet.personal]] 
 
-### #is_/same_as :: [Sonnet.secret](/_secret/Society/Communication/Media/Writing/Book/Poetry/Sonnet.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Poetry/Sonnet.secret|Sonnet.secret]] 
 

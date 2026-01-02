@@ -92,17 +92,17 @@ Wolfram_Language_entity_code: Entity["Person", "Fatimah::drf95"]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Fatima](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Muhammad/Fatima.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Muhammad/Fatima|Fatima]] 
 
-### #is_/same_as :: [Fatima.public](/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Muhammad/Fatima.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Muhammad/Fatima.public|Fatima.public]] 
 
-### #is_/same_as :: [Fatima.internal](/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Muhammad/Fatima.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Muhammad/Fatima.internal|Fatima.internal]] 
 
-### #is_/same_as :: [Fatima.protect](/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Muhammad/Fatima.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Muhammad/Fatima.protect|Fatima.protect]] 
 
-### #is_/same_as :: [Fatima.private](/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Muhammad/Fatima.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Muhammad/Fatima.private|Fatima.private]] 
 
-### #is_/same_as :: [Fatima.personal](/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Muhammad/Fatima.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Muhammad/Fatima.personal|Fatima.personal]] 
 
-### #is_/same_as :: [Fatima.secret](/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Muhammad/Fatima.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Muhammad/Fatima.secret|Fatima.secret]] 
 

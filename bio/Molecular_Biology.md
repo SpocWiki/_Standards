@@ -52,17 +52,17 @@ Krugosvet_article_archived_: nauka_i_tehnika/biologiya/MOLEKULYARNAYA_BIOLOGIYA.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Molecular_Biology](/_Standards/bio/Molecular_Biology.md) 
+### #is_/same_as :: [[/_Standards/bio/Molecular_Biology|Molecular_Biology]] 
 
-### #is_/same_as :: [Molecular_Biology.public](/_public/bio/Molecular_Biology.public.md) 
+### #is_/same_as :: [[/_public/bio/Molecular_Biology.public|Molecular_Biology.public]] 
 
-### #is_/same_as :: [Molecular_Biology.internal](/_internal/bio/Molecular_Biology.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Molecular_Biology.internal|Molecular_Biology.internal]] 
 
-### #is_/same_as :: [Molecular_Biology.protect](/_protect/bio/Molecular_Biology.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Molecular_Biology.protect|Molecular_Biology.protect]] 
 
-### #is_/same_as :: [Molecular_Biology.private](/_private/bio/Molecular_Biology.private.md) 
+### #is_/same_as :: [[/_private/bio/Molecular_Biology.private|Molecular_Biology.private]] 
 
-### #is_/same_as :: [Molecular_Biology.personal](/_personal/bio/Molecular_Biology.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Molecular_Biology.personal|Molecular_Biology.personal]] 
 
-### #is_/same_as :: [Molecular_Biology.secret](/_secret/bio/Molecular_Biology.secret.md)
+### #is_/same_as :: [[/_secret/bio/Molecular_Biology.secret|Molecular_Biology.secret]] 
 

@@ -45,17 +45,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_possible_complication](/_Standards/schema-org/Property/Texts/has_possible_complication.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/Texts/has_possible_complication|has_possible_complication]] 
 
-### #is_/same_as :: [has_possible_complication.public](/_public/schema-org/Property/Texts/has_possible_complication.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/Texts/has_possible_complication.public|has_possible_complication.public]] 
 
-### #is_/same_as :: [has_possible_complication.internal](/_internal/schema-org/Property/Texts/has_possible_complication.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/Texts/has_possible_complication.internal|has_possible_complication.internal]] 
 
-### #is_/same_as :: [has_possible_complication.protect](/_protect/schema-org/Property/Texts/has_possible_complication.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/Texts/has_possible_complication.protect|has_possible_complication.protect]] 
 
-### #is_/same_as :: [has_possible_complication.private](/_private/schema-org/Property/Texts/has_possible_complication.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/Texts/has_possible_complication.private|has_possible_complication.private]] 
 
-### #is_/same_as :: [has_possible_complication.personal](/_personal/schema-org/Property/Texts/has_possible_complication.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/Texts/has_possible_complication.personal|has_possible_complication.personal]] 
 
-### #is_/same_as :: [has_possible_complication.secret](/_secret/schema-org/Property/Texts/has_possible_complication.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/Texts/has_possible_complication.secret|has_possible_complication.secret]] 
 

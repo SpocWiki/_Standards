@@ -47,17 +47,17 @@ taxon_common_name:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Carcharhiniformes](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Chondrichthyes/Elasmobranchii/Shark/Carcharhiniformes.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Chondrichthyes/Elasmobranchii/Shark/Carcharhiniformes|Carcharhiniformes]] 
 
-### #is_/same_as :: [Carcharhiniformes.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Chondrichthyes/Elasmobranchii/Shark/Carcharhiniformes.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Chondrichthyes/Elasmobranchii/Shark/Carcharhiniformes.public|Carcharhiniformes.public]] 
 
-### #is_/same_as :: [Carcharhiniformes.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Chondrichthyes/Elasmobranchii/Shark/Carcharhiniformes.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Chondrichthyes/Elasmobranchii/Shark/Carcharhiniformes.internal|Carcharhiniformes.internal]] 
 
-### #is_/same_as :: [Carcharhiniformes.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Chondrichthyes/Elasmobranchii/Shark/Carcharhiniformes.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Chondrichthyes/Elasmobranchii/Shark/Carcharhiniformes.protect|Carcharhiniformes.protect]] 
 
-### #is_/same_as :: [Carcharhiniformes.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Chondrichthyes/Elasmobranchii/Shark/Carcharhiniformes.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Chondrichthyes/Elasmobranchii/Shark/Carcharhiniformes.private|Carcharhiniformes.private]] 
 
-### #is_/same_as :: [Carcharhiniformes.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Chondrichthyes/Elasmobranchii/Shark/Carcharhiniformes.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Chondrichthyes/Elasmobranchii/Shark/Carcharhiniformes.personal|Carcharhiniformes.personal]] 
 
-### #is_/same_as :: [Carcharhiniformes.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Chondrichthyes/Elasmobranchii/Shark/Carcharhiniformes.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Chondrichthyes/Elasmobranchii/Shark/Carcharhiniformes.secret|Carcharhiniformes.secret]] 
 

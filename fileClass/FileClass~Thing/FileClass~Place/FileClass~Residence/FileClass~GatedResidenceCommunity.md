@@ -37,17 +37,17 @@ Residence type: Gated community.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~GatedResidenceCommunity](/_Standards/fileClass/FileClass~Thing/FileClass~Place/FileClass~Residence/FileClass~GatedResidenceCommunity.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Place/FileClass~Residence/FileClass~GatedResidenceCommunity|FileClass~GatedResidenceCommunity]] 
 
-### #is_/same_as :: [FileClass~GatedResidenceCommunity.public](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~Residence/FileClass~GatedResidenceCommunity.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~Residence/FileClass~GatedResidenceCommunity.public|FileClass~GatedResidenceCommunity.public]] 
 
-### #is_/same_as :: [FileClass~GatedResidenceCommunity.internal](/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~Residence/FileClass~GatedResidenceCommunity.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~Residence/FileClass~GatedResidenceCommunity.internal|FileClass~GatedResidenceCommunity.internal]] 
 
-### #is_/same_as :: [FileClass~GatedResidenceCommunity.protect](/_protect/fileClass/FileClass~Thing/FileClass~Place/FileClass~Residence/FileClass~GatedResidenceCommunity.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Place/FileClass~Residence/FileClass~GatedResidenceCommunity.protect|FileClass~GatedResidenceCommunity.protect]] 
 
-### #is_/same_as :: [FileClass~GatedResidenceCommunity.private](/_private/fileClass/FileClass~Thing/FileClass~Place/FileClass~Residence/FileClass~GatedResidenceCommunity.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Place/FileClass~Residence/FileClass~GatedResidenceCommunity.private|FileClass~GatedResidenceCommunity.private]] 
 
-### #is_/same_as :: [FileClass~GatedResidenceCommunity.personal](/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~Residence/FileClass~GatedResidenceCommunity.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~Residence/FileClass~GatedResidenceCommunity.personal|FileClass~GatedResidenceCommunity.personal]] 
 
-### #is_/same_as :: [FileClass~GatedResidenceCommunity.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~Residence/FileClass~GatedResidenceCommunity.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~Residence/FileClass~GatedResidenceCommunity.secret|FileClass~GatedResidenceCommunity.secret]] 
 

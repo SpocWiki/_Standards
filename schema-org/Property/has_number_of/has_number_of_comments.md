@@ -43,17 +43,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_number_of_comments](/_Standards/schema-org/Property/has_number_of/has_number_of_comments.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_number_of/has_number_of_comments|has_number_of_comments]] 
 
-### #is_/same_as :: [has_number_of_comments.public](/_public/schema-org/Property/has_number_of/has_number_of_comments.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/has_number_of/has_number_of_comments.public|has_number_of_comments.public]] 
 
-### #is_/same_as :: [has_number_of_comments.internal](/_internal/schema-org/Property/has_number_of/has_number_of_comments.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_number_of/has_number_of_comments.internal|has_number_of_comments.internal]] 
 
-### #is_/same_as :: [has_number_of_comments.protect](/_protect/schema-org/Property/has_number_of/has_number_of_comments.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_number_of/has_number_of_comments.protect|has_number_of_comments.protect]] 
 
-### #is_/same_as :: [has_number_of_comments.private](/_private/schema-org/Property/has_number_of/has_number_of_comments.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/has_number_of/has_number_of_comments.private|has_number_of_comments.private]] 
 
-### #is_/same_as :: [has_number_of_comments.personal](/_personal/schema-org/Property/has_number_of/has_number_of_comments.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_number_of/has_number_of_comments.personal|has_number_of_comments.personal]] 
 
-### #is_/same_as :: [has_number_of_comments.secret](/_secret/schema-org/Property/has_number_of/has_number_of_comments.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/has_number_of/has_number_of_comments.secret|has_number_of_comments.secret]] 
 

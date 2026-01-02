@@ -61,17 +61,17 @@ reference_illustration: http://commons.wikimedia.org/wiki/Special:FilePath/LEPI%
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Larva](/_Standards/bio/Metabolism/Larva.md) 
+### #is_/same_as :: [[/_Standards/bio/Metabolism/Larva|Larva]] 
 
-### #is_/same_as :: [Larva.public](/_public/bio/Metabolism/Larva.public.md) 
+### #is_/same_as :: [[/_public/bio/Metabolism/Larva.public|Larva.public]] 
 
-### #is_/same_as :: [Larva.internal](/_internal/bio/Metabolism/Larva.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Metabolism/Larva.internal|Larva.internal]] 
 
-### #is_/same_as :: [Larva.protect](/_protect/bio/Metabolism/Larva.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Metabolism/Larva.protect|Larva.protect]] 
 
-### #is_/same_as :: [Larva.private](/_private/bio/Metabolism/Larva.private.md) 
+### #is_/same_as :: [[/_private/bio/Metabolism/Larva.private|Larva.private]] 
 
-### #is_/same_as :: [Larva.personal](/_personal/bio/Metabolism/Larva.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Metabolism/Larva.personal|Larva.personal]] 
 
-### #is_/same_as :: [Larva.secret](/_secret/bio/Metabolism/Larva.secret.md)
+### #is_/same_as :: [[/_secret/bio/Metabolism/Larva.secret|Larva.secret]] 
 

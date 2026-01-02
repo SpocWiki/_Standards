@@ -75,17 +75,17 @@ Commons_category: Numismatics
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Numismatics](/_Standards/Society/Economics/Currency/Numismatics.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Currency/Numismatics|Numismatics]] 
 
-### #is_/same_as :: [Numismatics.public](/_public/Society/Economics/Currency/Numismatics.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Currency/Numismatics.public|Numismatics.public]] 
 
-### #is_/same_as :: [Numismatics.internal](/_internal/Society/Economics/Currency/Numismatics.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Currency/Numismatics.internal|Numismatics.internal]] 
 
-### #is_/same_as :: [Numismatics.protect](/_protect/Society/Economics/Currency/Numismatics.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Currency/Numismatics.protect|Numismatics.protect]] 
 
-### #is_/same_as :: [Numismatics.private](/_private/Society/Economics/Currency/Numismatics.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Currency/Numismatics.private|Numismatics.private]] 
 
-### #is_/same_as :: [Numismatics.personal](/_personal/Society/Economics/Currency/Numismatics.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Currency/Numismatics.personal|Numismatics.personal]] 
 
-### #is_/same_as :: [Numismatics.secret](/_secret/Society/Economics/Currency/Numismatics.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Currency/Numismatics.secret|Numismatics.secret]] 
 

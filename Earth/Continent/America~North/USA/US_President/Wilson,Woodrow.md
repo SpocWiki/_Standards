@@ -258,17 +258,17 @@ The new Slogan was "A War to end all Wars".
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Wilson,Woodrow](/_Standards/Earth/Continent/America~North/US~President/Wilson,Woodrow.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~North/USA/US_President/Wilson,Woodrow|Wilson,Woodrow]] 
 
-### #is_/same_as :: [Wilson,Woodrow.public](/_public/Earth/Continent/America~North/US~President/Wilson,Woodrow.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~North/USA/US_President/Wilson,Woodrow.public|Wilson,Woodrow.public]] 
 
-### #is_/same_as :: [Wilson,Woodrow.internal](/_internal/Earth/Continent/America~North/US~President/Wilson,Woodrow.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~North/USA/US_President/Wilson,Woodrow.internal|Wilson,Woodrow.internal]] 
 
-### #is_/same_as :: [Wilson,Woodrow.protect](/_protect/Earth/Continent/America~North/US~President/Wilson,Woodrow.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~North/USA/US_President/Wilson,Woodrow.protect|Wilson,Woodrow.protect]] 
 
-### #is_/same_as :: [Wilson,Woodrow.private](/_private/Earth/Continent/America~North/US~President/Wilson,Woodrow.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~North/USA/US_President/Wilson,Woodrow.private|Wilson,Woodrow.private]] 
 
-### #is_/same_as :: [Wilson,Woodrow.personal](/_personal/Earth/Continent/America~North/US~President/Wilson,Woodrow.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~North/USA/US_President/Wilson,Woodrow.personal|Wilson,Woodrow.personal]] 
 
-### #is_/same_as :: [Wilson,Woodrow.secret](/_secret/Earth/Continent/America~North/US~President/Wilson,Woodrow.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~North/USA/US_President/Wilson,Woodrow.secret|Wilson,Woodrow.secret]] 
 

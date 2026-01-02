@@ -90,7 +90,7 @@ Ruellia (Acanthaceae). Systematic Botany, in press.
 ## Title Illustrations
 
 ----------------------------------------------------------------------- 
-![Ruellia_nudiflora](Euruellia/Ruellia_nudiflora.jpg))
+![Ruellia_nudiflora](Euruellia/Ruellia_nudiflora.jpg) 
 Scientific Name ::     Ruellia nudiflora (Engelm. & A. Gray) Urban
 Location ::           Tabasco, Mexico
 Specimen Condition   Live Specimen
@@ -99,7 +99,7 @@ Collector            Tripp & Dexter
 Copyright ::            © [Erin Tripp](mailto:erin.tripp@duke.edu) 
 
 ----------------------------------------------------------------------- 
-![Ruellia malacosperma](Euruellia/Ruellia_malacosperma.jpg))
+![Ruellia malacosperma](Euruellia/Ruellia_malacosperma.jpg) 
 Scientific Name ::     Ruellia malacosperma Greenm.
 Location ::           Oaxaca, Mexico
 Comments             plants cultivated outside a restaurant
@@ -119,17 +119,17 @@ Copyright ::            © [Erin Tripp](mailto:erin.tripp@duke.edu)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Euruellia](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Ruellieae/Ruellia/Euruellia.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Ruellieae/Ruellia/Euruellia|Euruellia]] 
 
-### #is_/same_as :: [Euruellia.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Ruellieae/Ruellia/Euruellia.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Ruellieae/Ruellia/Euruellia.public|Euruellia.public]] 
 
-### #is_/same_as :: [Euruellia.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Ruellieae/Ruellia/Euruellia.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Ruellieae/Ruellia/Euruellia.internal|Euruellia.internal]] 
 
-### #is_/same_as :: [Euruellia.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Ruellieae/Ruellia/Euruellia.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Ruellieae/Ruellia/Euruellia.protect|Euruellia.protect]] 
 
-### #is_/same_as :: [Euruellia.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Ruellieae/Ruellia/Euruellia.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Ruellieae/Ruellia/Euruellia.private|Euruellia.private]] 
 
-### #is_/same_as :: [Euruellia.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Ruellieae/Ruellia/Euruellia.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Ruellieae/Ruellia/Euruellia.personal|Euruellia.personal]] 
 
-### #is_/same_as :: [Euruellia.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Ruellieae/Ruellia/Euruellia.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Ruellieae/Ruellia/Euruellia.secret|Euruellia.secret]] 
 

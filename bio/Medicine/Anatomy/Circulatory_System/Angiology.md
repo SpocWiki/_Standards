@@ -36,17 +36,17 @@ UMLS_CUI: C3179392
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Angiology](/_Standards/bio/Medicine/Anatomy/Circulatory_System/Angiology.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Anatomy/Circulatory_System/Angiology|Angiology]] 
 
-### #is_/same_as :: [Angiology.public](/_public/bio/Medicine/Anatomy/Circulatory_System/Angiology.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Anatomy/Circulatory_System/Angiology.public|Angiology.public]] 
 
-### #is_/same_as :: [Angiology.internal](/_internal/bio/Medicine/Anatomy/Circulatory_System/Angiology.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Anatomy/Circulatory_System/Angiology.internal|Angiology.internal]] 
 
-### #is_/same_as :: [Angiology.protect](/_protect/bio/Medicine/Anatomy/Circulatory_System/Angiology.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Anatomy/Circulatory_System/Angiology.protect|Angiology.protect]] 
 
-### #is_/same_as :: [Angiology.private](/_private/bio/Medicine/Anatomy/Circulatory_System/Angiology.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Anatomy/Circulatory_System/Angiology.private|Angiology.private]] 
 
-### #is_/same_as :: [Angiology.personal](/_personal/bio/Medicine/Anatomy/Circulatory_System/Angiology.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Anatomy/Circulatory_System/Angiology.personal|Angiology.personal]] 
 
-### #is_/same_as :: [Angiology.secret](/_secret/bio/Medicine/Anatomy/Circulatory_System/Angiology.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Anatomy/Circulatory_System/Angiology.secret|Angiology.secret]] 
 

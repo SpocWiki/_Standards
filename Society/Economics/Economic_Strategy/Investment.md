@@ -50,17 +50,17 @@ MeSH_tree_code: N03.219.702
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Investment](/_Standards/Society/Economics/Economic_Strategy/Investment.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Economic_Strategy/Investment|Investment]] 
 
-### #is_/same_as :: [Investment.public](/_public/Society/Economics/Economic_Strategy/Investment.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Economic_Strategy/Investment.public|Investment.public]] 
 
-### #is_/same_as :: [Investment.internal](/_internal/Society/Economics/Economic_Strategy/Investment.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Economic_Strategy/Investment.internal|Investment.internal]] 
 
-### #is_/same_as :: [Investment.protect](/_protect/Society/Economics/Economic_Strategy/Investment.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Economic_Strategy/Investment.protect|Investment.protect]] 
 
-### #is_/same_as :: [Investment.private](/_private/Society/Economics/Economic_Strategy/Investment.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Economic_Strategy/Investment.private|Investment.private]] 
 
-### #is_/same_as :: [Investment.personal](/_personal/Society/Economics/Economic_Strategy/Investment.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Economic_Strategy/Investment.personal|Investment.personal]] 
 
-### #is_/same_as :: [Investment.secret](/_secret/Society/Economics/Economic_Strategy/Investment.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Economic_Strategy/Investment.secret|Investment.secret]] 
 

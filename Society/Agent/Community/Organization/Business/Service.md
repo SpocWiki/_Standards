@@ -65,17 +65,17 @@ without producing a lasting asset
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Service](/_Standards/Society/Agent/Community/Organization/Business/Service.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Business/Service|Service]] 
 
-### #is_/same_as :: [Service.public](/_public/Society/Agent/Community/Organization/Business/Service.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Business/Service.public|Service.public]] 
 
-### #is_/same_as :: [Service.internal](/_internal/Society/Agent/Community/Organization/Business/Service.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Business/Service.internal|Service.internal]] 
 
-### #is_/same_as :: [Service.protect](/_protect/Society/Agent/Community/Organization/Business/Service.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Business/Service.protect|Service.protect]] 
 
-### #is_/same_as :: [Service.private](/_private/Society/Agent/Community/Organization/Business/Service.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Business/Service.private|Service.private]] 
 
-### #is_/same_as :: [Service.personal](/_personal/Society/Agent/Community/Organization/Business/Service.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Business/Service.personal|Service.personal]] 
 
-### #is_/same_as :: [Service.secret](/_secret/Society/Agent/Community/Organization/Business/Service.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Business/Service.secret|Service.secret]] 
 

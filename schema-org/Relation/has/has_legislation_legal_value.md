@@ -47,17 +47,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_legislation_legal_value](/_Standards/schema-org/Relation/has/has_legislation_legal_value.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_legislation_legal_value|has_legislation_legal_value]] 
 
-### #is_/same_as :: [has_legislation_legal_value.public](/_public/schema-org/Relation/has/has_legislation_legal_value.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_legislation_legal_value.public|has_legislation_legal_value.public]] 
 
-### #is_/same_as :: [has_legislation_legal_value.internal](/_internal/schema-org/Relation/has/has_legislation_legal_value.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_legislation_legal_value.internal|has_legislation_legal_value.internal]] 
 
-### #is_/same_as :: [has_legislation_legal_value.protect](/_protect/schema-org/Relation/has/has_legislation_legal_value.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_legislation_legal_value.protect|has_legislation_legal_value.protect]] 
 
-### #is_/same_as :: [has_legislation_legal_value.private](/_private/schema-org/Relation/has/has_legislation_legal_value.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_legislation_legal_value.private|has_legislation_legal_value.private]] 
 
-### #is_/same_as :: [has_legislation_legal_value.personal](/_personal/schema-org/Relation/has/has_legislation_legal_value.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_legislation_legal_value.personal|has_legislation_legal_value.personal]] 
 
-### #is_/same_as :: [has_legislation_legal_value.secret](/_secret/schema-org/Relation/has/has_legislation_legal_value.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_legislation_legal_value.secret|has_legislation_legal_value.secret]] 
 

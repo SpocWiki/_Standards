@@ -192,17 +192,17 @@ Krugosvet_article_archived_: kultura_i_obrazovanie/izobrazitelnoe_iskusstvo/NIME
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Niemeyer,Oscar](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Niemeyer,Oscar.md) 
+### #is_/same_as :: [[/_Standards/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Niemeyer,Oscar|Niemeyer,Oscar]] 
 
-### #is_/same_as :: [Niemeyer,Oscar.public](/_public/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Niemeyer,Oscar.public.md) 
+### #is_/same_as :: [[/_public/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Niemeyer,Oscar.public|Niemeyer,Oscar.public]] 
 
-### #is_/same_as :: [Niemeyer,Oscar.internal](/_internal/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Niemeyer,Oscar.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Niemeyer,Oscar.internal|Niemeyer,Oscar.internal]] 
 
-### #is_/same_as :: [Niemeyer,Oscar.protect](/_protect/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Niemeyer,Oscar.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Niemeyer,Oscar.protect|Niemeyer,Oscar.protect]] 
 
-### #is_/same_as :: [Niemeyer,Oscar.private](/_private/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Niemeyer,Oscar.private.md) 
+### #is_/same_as :: [[/_private/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Niemeyer,Oscar.private|Niemeyer,Oscar.private]] 
 
-### #is_/same_as :: [Niemeyer,Oscar.personal](/_personal/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Niemeyer,Oscar.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Niemeyer,Oscar.personal|Niemeyer,Oscar.personal]] 
 
-### #is_/same_as :: [Niemeyer,Oscar.secret](/_secret/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Niemeyer,Oscar.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Niemeyer,Oscar.secret|Niemeyer,Oscar.secret]] 
 

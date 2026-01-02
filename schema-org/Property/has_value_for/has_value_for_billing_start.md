@@ -45,17 +45,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_value_for_billing_start](/_Standards/schema-org/Property/has_value_for/has_value_for_billing_start.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_value_for/has_value_for_billing_start|has_value_for_billing_start]] 
 
-### #is_/same_as :: [has_value_for_billing_start.public](/_public/schema-org/Property/has_value_for/has_value_for_billing_start.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/has_value_for/has_value_for_billing_start.public|has_value_for_billing_start.public]] 
 
-### #is_/same_as :: [has_value_for_billing_start.internal](/_internal/schema-org/Property/has_value_for/has_value_for_billing_start.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_value_for/has_value_for_billing_start.internal|has_value_for_billing_start.internal]] 
 
-### #is_/same_as :: [has_value_for_billing_start.protect](/_protect/schema-org/Property/has_value_for/has_value_for_billing_start.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_value_for/has_value_for_billing_start.protect|has_value_for_billing_start.protect]] 
 
-### #is_/same_as :: [has_value_for_billing_start.private](/_private/schema-org/Property/has_value_for/has_value_for_billing_start.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/has_value_for/has_value_for_billing_start.private|has_value_for_billing_start.private]] 
 
-### #is_/same_as :: [has_value_for_billing_start.personal](/_personal/schema-org/Property/has_value_for/has_value_for_billing_start.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_value_for/has_value_for_billing_start.personal|has_value_for_billing_start.personal]] 
 
-### #is_/same_as :: [has_value_for_billing_start.secret](/_secret/schema-org/Property/has_value_for/has_value_for_billing_start.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/has_value_for/has_value_for_billing_start.secret|has_value_for_billing_start.secret]] 
 

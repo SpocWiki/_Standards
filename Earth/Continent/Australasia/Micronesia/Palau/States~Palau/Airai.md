@@ -40,17 +40,17 @@ markerFolder: ./Airai/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Airai](/_Standards/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Airai.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Airai|Airai]] 
 
-### #is_/same_as :: [Airai.public](/_public/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Airai.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Airai.public|Airai.public]] 
 
-### #is_/same_as :: [Airai.internal](/_internal/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Airai.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Airai.internal|Airai.internal]] 
 
-### #is_/same_as :: [Airai.protect](/_protect/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Airai.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Airai.protect|Airai.protect]] 
 
-### #is_/same_as :: [Airai.private](/_private/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Airai.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Airai.private|Airai.private]] 
 
-### #is_/same_as :: [Airai.personal](/_personal/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Airai.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Airai.personal|Airai.personal]] 
 
-### #is_/same_as :: [Airai.secret](/_secret/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Airai.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Airai.secret|Airai.secret]] 
 

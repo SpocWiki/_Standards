@@ -51,17 +51,17 @@ Commons_category: Watering cans
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Watering_Can](/_Standards/Society/Economics/Industry/Agriculture/Irrigation/Watering_Can.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Industry/Agriculture/Irrigation/Watering_Can|Watering_Can]] 
 
-### #is_/same_as :: [Watering_Can.public](/_public/Society/Economics/Industry/Agriculture/Irrigation/Watering_Can.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Industry/Agriculture/Irrigation/Watering_Can.public|Watering_Can.public]] 
 
-### #is_/same_as :: [Watering_Can.internal](/_internal/Society/Economics/Industry/Agriculture/Irrigation/Watering_Can.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Industry/Agriculture/Irrigation/Watering_Can.internal|Watering_Can.internal]] 
 
-### #is_/same_as :: [Watering_Can.protect](/_protect/Society/Economics/Industry/Agriculture/Irrigation/Watering_Can.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Industry/Agriculture/Irrigation/Watering_Can.protect|Watering_Can.protect]] 
 
-### #is_/same_as :: [Watering_Can.private](/_private/Society/Economics/Industry/Agriculture/Irrigation/Watering_Can.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Industry/Agriculture/Irrigation/Watering_Can.private|Watering_Can.private]] 
 
-### #is_/same_as :: [Watering_Can.personal](/_personal/Society/Economics/Industry/Agriculture/Irrigation/Watering_Can.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Industry/Agriculture/Irrigation/Watering_Can.personal|Watering_Can.personal]] 
 
-### #is_/same_as :: [Watering_Can.secret](/_secret/Society/Economics/Industry/Agriculture/Irrigation/Watering_Can.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Industry/Agriculture/Irrigation/Watering_Can.secret|Watering_Can.secret]] 
 

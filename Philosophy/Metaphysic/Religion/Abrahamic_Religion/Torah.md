@@ -81,17 +81,17 @@ IPTC_NewsCode: mediatopic/20000708
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Torah](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Torah.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Torah|Torah]] 
 
-### #is_/same_as :: [Torah.public](/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Torah.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Torah.public|Torah.public]] 
 
-### #is_/same_as :: [Torah.internal](/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Torah.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Torah.internal|Torah.internal]] 
 
-### #is_/same_as :: [Torah.protect](/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Torah.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Torah.protect|Torah.protect]] 
 
-### #is_/same_as :: [Torah.private](/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Torah.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Torah.private|Torah.private]] 
 
-### #is_/same_as :: [Torah.personal](/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Torah.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Torah.personal|Torah.personal]] 
 
-### #is_/same_as :: [Torah.secret](/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Torah.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Torah.secret|Torah.secret]] 
 

@@ -80,17 +80,17 @@ of the [[../../Mathematics/Geometry/Position-Vector|Position-Vector]] by [[../Di
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Velocity](/_Standards/Dimension/Linear_Dimension/Velocity.md) 
+### #is_/same_as :: [[/_Standards/Dimension/Linear_Dimension/Velocity|Velocity]] 
 
-### #is_/same_as :: [Velocity.public](/_public/Dimension/Linear_Dimension/Velocity.public.md) 
+### #is_/same_as :: [[/_public/Dimension/Linear_Dimension/Velocity.public|Velocity.public]] 
 
-### #is_/same_as :: [Velocity.internal](/_internal/Dimension/Linear_Dimension/Velocity.internal.md) 
+### #is_/same_as :: [[/_internal/Dimension/Linear_Dimension/Velocity.internal|Velocity.internal]] 
 
-### #is_/same_as :: [Velocity.protect](/_protect/Dimension/Linear_Dimension/Velocity.protect.md) 
+### #is_/same_as :: [[/_protect/Dimension/Linear_Dimension/Velocity.protect|Velocity.protect]] 
 
-### #is_/same_as :: [Velocity.private](/_private/Dimension/Linear_Dimension/Velocity.private.md) 
+### #is_/same_as :: [[/_private/Dimension/Linear_Dimension/Velocity.private|Velocity.private]] 
 
-### #is_/same_as :: [Velocity.personal](/_personal/Dimension/Linear_Dimension/Velocity.personal.md) 
+### #is_/same_as :: [[/_personal/Dimension/Linear_Dimension/Velocity.personal|Velocity.personal]] 
 
-### #is_/same_as :: [Velocity.secret](/_secret/Dimension/Linear_Dimension/Velocity.secret.md)
+### #is_/same_as :: [[/_secret/Dimension/Linear_Dimension/Velocity.secret|Velocity.secret]] 
 

@@ -53,17 +53,17 @@ Commons_category: Mechanical calculators
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [History_of_Computing_Hardware](/_Standards/Technology/IT/Computer_Hardware/History_of_Computing_Hardware.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Computer_Hardware/History_of_Computing_Hardware|History_of_Computing_Hardware]] 
 
-### #is_/same_as :: [History_of_Computing_Hardware.public](/_public/Technology/IT/Computer_Hardware/History_of_Computing_Hardware.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Computer_Hardware/History_of_Computing_Hardware.public|History_of_Computing_Hardware.public]] 
 
-### #is_/same_as :: [History_of_Computing_Hardware.internal](/_internal/Technology/IT/Computer_Hardware/History_of_Computing_Hardware.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Computer_Hardware/History_of_Computing_Hardware.internal|History_of_Computing_Hardware.internal]] 
 
-### #is_/same_as :: [History_of_Computing_Hardware.protect](/_protect/Technology/IT/Computer_Hardware/History_of_Computing_Hardware.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Computer_Hardware/History_of_Computing_Hardware.protect|History_of_Computing_Hardware.protect]] 
 
-### #is_/same_as :: [History_of_Computing_Hardware.private](/_private/Technology/IT/Computer_Hardware/History_of_Computing_Hardware.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Computer_Hardware/History_of_Computing_Hardware.private|History_of_Computing_Hardware.private]] 
 
-### #is_/same_as :: [History_of_Computing_Hardware.personal](/_personal/Technology/IT/Computer_Hardware/History_of_Computing_Hardware.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Computer_Hardware/History_of_Computing_Hardware.personal|History_of_Computing_Hardware.personal]] 
 
-### #is_/same_as :: [History_of_Computing_Hardware.secret](/_secret/Technology/IT/Computer_Hardware/History_of_Computing_Hardware.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Computer_Hardware/History_of_Computing_Hardware.secret|History_of_Computing_Hardware.secret]] 
 

@@ -121,17 +121,17 @@ UMLS_CUI: C2350447
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Astronomical_Object](/_Standards/Astronomy/Astronomical_Object.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Astronomical_Object|Astronomical_Object]] 
 
-### #is_/same_as :: [Astronomical_Object.public](/_public/Astronomy/Astronomical_Object.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Astronomical_Object.public|Astronomical_Object.public]] 
 
-### #is_/same_as :: [Astronomical_Object.internal](/_internal/Astronomy/Astronomical_Object.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Astronomical_Object.internal|Astronomical_Object.internal]] 
 
-### #is_/same_as :: [Astronomical_Object.protect](/_protect/Astronomy/Astronomical_Object.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Astronomical_Object.protect|Astronomical_Object.protect]] 
 
-### #is_/same_as :: [Astronomical_Object.private](/_private/Astronomy/Astronomical_Object.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Astronomical_Object.private|Astronomical_Object.private]] 
 
-### #is_/same_as :: [Astronomical_Object.personal](/_personal/Astronomy/Astronomical_Object.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Astronomical_Object.personal|Astronomical_Object.personal]] 
 
-### #is_/same_as :: [Astronomical_Object.secret](/_secret/Astronomy/Astronomical_Object.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Astronomical_Object.secret|Astronomical_Object.secret]] 
 

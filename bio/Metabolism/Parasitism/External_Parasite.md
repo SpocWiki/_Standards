@@ -30,20 +30,19 @@ subclass_of: "[[_Standards/WikiData/WD~parasite,10253316]]"
 > [Wikipedia](https://en.wikipedia.org/wiki/Ectoparasitic%20infestation)  
 
 
-
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [External_Parasite](/_Standards/bio/Metabolism/Parasitism/External_Parasite.md) 
+### #is_/same_as :: [[/_Standards/bio/Metabolism/Parasitism/External_Parasite|External_Parasite]] 
 
-### #is_/same_as :: [External_Parasite.public](/_public/bio/Metabolism/Parasitism/External_Parasite.public.md) 
+### #is_/same_as :: [[/_public/bio/Metabolism/Parasitism/External_Parasite.public|External_Parasite.public]] 
 
-### #is_/same_as :: [External_Parasite.internal](/_internal/bio/Metabolism/Parasitism/External_Parasite.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Metabolism/Parasitism/External_Parasite.internal|External_Parasite.internal]] 
 
-### #is_/same_as :: [External_Parasite.protect](/_protect/bio/Metabolism/Parasitism/External_Parasite.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Metabolism/Parasitism/External_Parasite.protect|External_Parasite.protect]] 
 
-### #is_/same_as :: [External_Parasite.private](/_private/bio/Metabolism/Parasitism/External_Parasite.private.md) 
+### #is_/same_as :: [[/_private/bio/Metabolism/Parasitism/External_Parasite.private|External_Parasite.private]] 
 
-### #is_/same_as :: [External_Parasite.personal](/_personal/bio/Metabolism/Parasitism/External_Parasite.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Metabolism/Parasitism/External_Parasite.personal|External_Parasite.personal]] 
 
-### #is_/same_as :: [External_Parasite.secret](/_secret/bio/Metabolism/Parasitism/External_Parasite.secret.md)
+### #is_/same_as :: [[/_secret/bio/Metabolism/Parasitism/External_Parasite.secret|External_Parasite.secret]] 
 

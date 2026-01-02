@@ -92,17 +92,17 @@ A canal, like the Panama Canal.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Canal](/_Standards/Earth/Geology/Landform/body_of_water/Canal.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geology/Landform/body_of_water/Canal|Canal]] 
 
-### #is_/same_as :: [Canal.public](/_public/Earth/Geology/Landform/body_of_water/Canal.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geology/Landform/body_of_water/Canal.public|Canal.public]] 
 
-### #is_/same_as :: [Canal.internal](/_internal/Earth/Geology/Landform/body_of_water/Canal.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geology/Landform/body_of_water/Canal.internal|Canal.internal]] 
 
-### #is_/same_as :: [Canal.protect](/_protect/Earth/Geology/Landform/body_of_water/Canal.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geology/Landform/body_of_water/Canal.protect|Canal.protect]] 
 
-### #is_/same_as :: [Canal.private](/_private/Earth/Geology/Landform/body_of_water/Canal.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geology/Landform/body_of_water/Canal.private|Canal.private]] 
 
-### #is_/same_as :: [Canal.personal](/_personal/Earth/Geology/Landform/body_of_water/Canal.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geology/Landform/body_of_water/Canal.personal|Canal.personal]] 
 
-### #is_/same_as :: [Canal.secret](/_secret/Earth/Geology/Landform/body_of_water/Canal.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geology/Landform/body_of_water/Canal.secret|Canal.secret]] 
 

@@ -35,17 +35,17 @@ along the length of the Americas.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Pan-American_Highway](/_Standards/Earth/Continent/America~Central/Pan-American_Highway.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~Central/Pan-American_Highway|Pan-American_Highway]] 
 
-### #is_/same_as :: [Pan-American_Highway.public](/_public/Earth/Continent/America~Central/Pan-American_Highway.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~Central/Pan-American_Highway.public|Pan-American_Highway.public]] 
 
-### #is_/same_as :: [Pan-American_Highway.internal](/_internal/Earth/Continent/America~Central/Pan-American_Highway.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~Central/Pan-American_Highway.internal|Pan-American_Highway.internal]] 
 
-### #is_/same_as :: [Pan-American_Highway.protect](/_protect/Earth/Continent/America~Central/Pan-American_Highway.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~Central/Pan-American_Highway.protect|Pan-American_Highway.protect]] 
 
-### #is_/same_as :: [Pan-American_Highway.private](/_private/Earth/Continent/America~Central/Pan-American_Highway.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~Central/Pan-American_Highway.private|Pan-American_Highway.private]] 
 
-### #is_/same_as :: [Pan-American_Highway.personal](/_personal/Earth/Continent/America~Central/Pan-American_Highway.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~Central/Pan-American_Highway.personal|Pan-American_Highway.personal]] 
 
-### #is_/same_as :: [Pan-American_Highway.secret](/_secret/Earth/Continent/America~Central/Pan-American_Highway.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~Central/Pan-American_Highway.secret|Pan-American_Highway.secret]] 
 

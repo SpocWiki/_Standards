@@ -39,17 +39,17 @@ Baidu_Tieba_name: 早餐
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Breakfast](/_Standards/Society/Economics/Home_Economics/Meal/Breakfast.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Home_Economics/Meal/Breakfast|Breakfast]] 
 
-### #is_/same_as :: [Breakfast.public](/_public/Society/Economics/Home_Economics/Meal/Breakfast.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Home_Economics/Meal/Breakfast.public|Breakfast.public]] 
 
-### #is_/same_as :: [Breakfast.internal](/_internal/Society/Economics/Home_Economics/Meal/Breakfast.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Home_Economics/Meal/Breakfast.internal|Breakfast.internal]] 
 
-### #is_/same_as :: [Breakfast.protect](/_protect/Society/Economics/Home_Economics/Meal/Breakfast.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Home_Economics/Meal/Breakfast.protect|Breakfast.protect]] 
 
-### #is_/same_as :: [Breakfast.private](/_private/Society/Economics/Home_Economics/Meal/Breakfast.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Home_Economics/Meal/Breakfast.private|Breakfast.private]] 
 
-### #is_/same_as :: [Breakfast.personal](/_personal/Society/Economics/Home_Economics/Meal/Breakfast.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Home_Economics/Meal/Breakfast.personal|Breakfast.personal]] 
 
-### #is_/same_as :: [Breakfast.secret](/_secret/Society/Economics/Home_Economics/Meal/Breakfast.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Home_Economics/Meal/Breakfast.secret|Breakfast.secret]] 
 

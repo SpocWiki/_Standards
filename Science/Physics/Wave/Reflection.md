@@ -53,17 +53,17 @@ Wolfram_Language_entity_code: Entity["PhysicalEffect", "Reflection"]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Reflection](/_Standards/Science/Physics/Wave/Reflection.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Wave/Reflection|Reflection]] 
 
-### #is_/same_as :: [Reflection.public](/_public/Science/Physics/Wave/Reflection.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Wave/Reflection.public|Reflection.public]] 
 
-### #is_/same_as :: [Reflection.internal](/_internal/Science/Physics/Wave/Reflection.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Wave/Reflection.internal|Reflection.internal]] 
 
-### #is_/same_as :: [Reflection.protect](/_protect/Science/Physics/Wave/Reflection.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Wave/Reflection.protect|Reflection.protect]] 
 
-### #is_/same_as :: [Reflection.private](/_private/Science/Physics/Wave/Reflection.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Wave/Reflection.private|Reflection.private]] 
 
-### #is_/same_as :: [Reflection.personal](/_personal/Science/Physics/Wave/Reflection.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Wave/Reflection.personal|Reflection.personal]] 
 
-### #is_/same_as :: [Reflection.secret](/_secret/Science/Physics/Wave/Reflection.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Wave/Reflection.secret|Reflection.secret]] 
 

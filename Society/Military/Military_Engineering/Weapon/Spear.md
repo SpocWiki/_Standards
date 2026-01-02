@@ -43,17 +43,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Spear](/_Standards/Society/Military/Military_Engineering/Weapon/Spear.md) 
+### #is_/same_as :: [[/_Standards/Society/Military/Military_Engineering/Weapon/Spear|Spear]] 
 
-### #is_/same_as :: [Spear.public](/_public/Society/Military/Military_Engineering/Weapon/Spear.public.md) 
+### #is_/same_as :: [[/_public/Society/Military/Military_Engineering/Weapon/Spear.public|Spear.public]] 
 
-### #is_/same_as :: [Spear.internal](/_internal/Society/Military/Military_Engineering/Weapon/Spear.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Military/Military_Engineering/Weapon/Spear.internal|Spear.internal]] 
 
-### #is_/same_as :: [Spear.protect](/_protect/Society/Military/Military_Engineering/Weapon/Spear.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Military/Military_Engineering/Weapon/Spear.protect|Spear.protect]] 
 
-### #is_/same_as :: [Spear.private](/_private/Society/Military/Military_Engineering/Weapon/Spear.private.md) 
+### #is_/same_as :: [[/_private/Society/Military/Military_Engineering/Weapon/Spear.private|Spear.private]] 
 
-### #is_/same_as :: [Spear.personal](/_personal/Society/Military/Military_Engineering/Weapon/Spear.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Military/Military_Engineering/Weapon/Spear.personal|Spear.personal]] 
 
-### #is_/same_as :: [Spear.secret](/_secret/Society/Military/Military_Engineering/Weapon/Spear.secret.md)
+### #is_/same_as :: [[/_secret/Society/Military/Military_Engineering/Weapon/Spear.secret|Spear.secret]] 
 

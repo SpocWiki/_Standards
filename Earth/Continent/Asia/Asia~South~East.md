@@ -122,17 +122,17 @@ type: folder_brief_live
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Asia~South~East](/_Standards/Earth/Continent/Asia/Asia~South~East.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~South~East|Asia~South~East]] 
 
-### #is_/same_as :: [Asia~South~East.public](/_public/Earth/Continent/Asia/Asia~South~East.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~South~East.public|Asia~South~East.public]] 
 
-### #is_/same_as :: [Asia~South~East.internal](/_internal/Earth/Continent/Asia/Asia~South~East.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~South~East.internal|Asia~South~East.internal]] 
 
-### #is_/same_as :: [Asia~South~East.protect](/_protect/Earth/Continent/Asia/Asia~South~East.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~South~East.protect|Asia~South~East.protect]] 
 
-### #is_/same_as :: [Asia~South~East.private](/_private/Earth/Continent/Asia/Asia~South~East.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~South~East.private|Asia~South~East.private]] 
 
-### #is_/same_as :: [Asia~South~East.personal](/_personal/Earth/Continent/Asia/Asia~South~East.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~South~East.personal|Asia~South~East.personal]] 
 
-### #is_/same_as :: [Asia~South~East.secret](/_secret/Earth/Continent/Asia/Asia~South~East.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~South~East.secret|Asia~South~East.secret]] 
 

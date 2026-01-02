@@ -23,17 +23,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Rainbow(rock_band)](/_Standards/Society/Communication/Media/Music/Musician/Music~Band/Rainbow(rock_band).md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Musician/Music~Band/Rainbow(rock_band)|Rainbow(rock_band)]] 
 
-### #is_/same_as :: [Rainbow(rock_band).public](/_public/Society/Communication/Media/Music/Musician/Music~Band/Rainbow(rock_band).public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Musician/Music~Band/Rainbow(rock_band).public|Rainbow(rock_band).public]] 
 
-### #is_/same_as :: [Rainbow(rock_band).internal](/_internal/Society/Communication/Media/Music/Musician/Music~Band/Rainbow(rock_band).internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Musician/Music~Band/Rainbow(rock_band).internal|Rainbow(rock_band).internal]] 
 
-### #is_/same_as :: [Rainbow(rock_band).protect](/_protect/Society/Communication/Media/Music/Musician/Music~Band/Rainbow(rock_band).protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Musician/Music~Band/Rainbow(rock_band).protect|Rainbow(rock_band).protect]] 
 
-### #is_/same_as :: [Rainbow(rock_band).private](/_private/Society/Communication/Media/Music/Musician/Music~Band/Rainbow(rock_band).private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Musician/Music~Band/Rainbow(rock_band).private|Rainbow(rock_band).private]] 
 
-### #is_/same_as :: [Rainbow(rock_band).personal](/_personal/Society/Communication/Media/Music/Musician/Music~Band/Rainbow(rock_band).personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Musician/Music~Band/Rainbow(rock_band).personal|Rainbow(rock_band).personal]] 
 
-### #is_/same_as :: [Rainbow(rock_band).secret](/_secret/Society/Communication/Media/Music/Musician/Music~Band/Rainbow(rock_band).secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Musician/Music~Band/Rainbow(rock_band).secret|Rainbow(rock_band).secret]] 
 

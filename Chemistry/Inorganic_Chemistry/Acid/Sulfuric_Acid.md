@@ -114,17 +114,17 @@ CAS_Registry_Number: 7664-93-9
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sulfuric_Acid](/_Standards/Chemistry/Inorganic_Chemistry/Acid/Sulfuric_Acid.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Inorganic_Chemistry/Acid/Sulfuric_Acid|Sulfuric_Acid]] 
 
-### #is_/same_as :: [Sulfuric_Acid.public](/_public/Chemistry/Inorganic_Chemistry/Acid/Sulfuric_Acid.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Inorganic_Chemistry/Acid/Sulfuric_Acid.public|Sulfuric_Acid.public]] 
 
-### #is_/same_as :: [Sulfuric_Acid.internal](/_internal/Chemistry/Inorganic_Chemistry/Acid/Sulfuric_Acid.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Inorganic_Chemistry/Acid/Sulfuric_Acid.internal|Sulfuric_Acid.internal]] 
 
-### #is_/same_as :: [Sulfuric_Acid.protect](/_protect/Chemistry/Inorganic_Chemistry/Acid/Sulfuric_Acid.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Inorganic_Chemistry/Acid/Sulfuric_Acid.protect|Sulfuric_Acid.protect]] 
 
-### #is_/same_as :: [Sulfuric_Acid.private](/_private/Chemistry/Inorganic_Chemistry/Acid/Sulfuric_Acid.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Inorganic_Chemistry/Acid/Sulfuric_Acid.private|Sulfuric_Acid.private]] 
 
-### #is_/same_as :: [Sulfuric_Acid.personal](/_personal/Chemistry/Inorganic_Chemistry/Acid/Sulfuric_Acid.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Inorganic_Chemistry/Acid/Sulfuric_Acid.personal|Sulfuric_Acid.personal]] 
 
-### #is_/same_as :: [Sulfuric_Acid.secret](/_secret/Chemistry/Inorganic_Chemistry/Acid/Sulfuric_Acid.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Inorganic_Chemistry/Acid/Sulfuric_Acid.secret|Sulfuric_Acid.secret]] 
 

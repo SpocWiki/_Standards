@@ -141,17 +141,17 @@ Wolfram_Language_entity_code: Entity["Concept", "JeanneDArc::98yg9"]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Joan_of_Arc](/_Standards/Society/Politics/Government/Leader/Middle_Age_Leaders/Joan_of_Arc.md) 
+### #is_/same_as :: [[/_Standards/Society/Politics/Government/Leader/Middle_Age_Leaders/Joan_of_Arc|Joan_of_Arc]] 
 
-### #is_/same_as :: [Joan_of_Arc.public](/_public/Society/Politics/Government/Leader/Middle_Age_Leaders/Joan_of_Arc.public.md) 
+### #is_/same_as :: [[/_public/Society/Politics/Government/Leader/Middle_Age_Leaders/Joan_of_Arc.public|Joan_of_Arc.public]] 
 
-### #is_/same_as :: [Joan_of_Arc.internal](/_internal/Society/Politics/Government/Leader/Middle_Age_Leaders/Joan_of_Arc.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Politics/Government/Leader/Middle_Age_Leaders/Joan_of_Arc.internal|Joan_of_Arc.internal]] 
 
-### #is_/same_as :: [Joan_of_Arc.protect](/_protect/Society/Politics/Government/Leader/Middle_Age_Leaders/Joan_of_Arc.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Politics/Government/Leader/Middle_Age_Leaders/Joan_of_Arc.protect|Joan_of_Arc.protect]] 
 
-### #is_/same_as :: [Joan_of_Arc.private](/_private/Society/Politics/Government/Leader/Middle_Age_Leaders/Joan_of_Arc.private.md) 
+### #is_/same_as :: [[/_private/Society/Politics/Government/Leader/Middle_Age_Leaders/Joan_of_Arc.private|Joan_of_Arc.private]] 
 
-### #is_/same_as :: [Joan_of_Arc.personal](/_personal/Society/Politics/Government/Leader/Middle_Age_Leaders/Joan_of_Arc.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Politics/Government/Leader/Middle_Age_Leaders/Joan_of_Arc.personal|Joan_of_Arc.personal]] 
 
-### #is_/same_as :: [Joan_of_Arc.secret](/_secret/Society/Politics/Government/Leader/Middle_Age_Leaders/Joan_of_Arc.secret.md)
+### #is_/same_as :: [[/_secret/Society/Politics/Government/Leader/Middle_Age_Leaders/Joan_of_Arc.secret|Joan_of_Arc.secret]] 
 

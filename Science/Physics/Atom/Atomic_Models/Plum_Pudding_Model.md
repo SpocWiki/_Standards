@@ -57,17 +57,17 @@ Wolfram_Language_entity_code: Entity["PhysicalEffect", "PlumPuddingModel"]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Plum_Pudding_Model](/_Standards/Science/Physics/Atom/Atomic_Models/Plum_Pudding_Model.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Atom/Atomic_Models/Plum_Pudding_Model|Plum_Pudding_Model]] 
 
-### #is_/same_as :: [Plum_Pudding_Model.public](/_public/Science/Physics/Atom/Atomic_Models/Plum_Pudding_Model.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Atom/Atomic_Models/Plum_Pudding_Model.public|Plum_Pudding_Model.public]] 
 
-### #is_/same_as :: [Plum_Pudding_Model.internal](/_internal/Science/Physics/Atom/Atomic_Models/Plum_Pudding_Model.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Atom/Atomic_Models/Plum_Pudding_Model.internal|Plum_Pudding_Model.internal]] 
 
-### #is_/same_as :: [Plum_Pudding_Model.protect](/_protect/Science/Physics/Atom/Atomic_Models/Plum_Pudding_Model.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Atom/Atomic_Models/Plum_Pudding_Model.protect|Plum_Pudding_Model.protect]] 
 
-### #is_/same_as :: [Plum_Pudding_Model.private](/_private/Science/Physics/Atom/Atomic_Models/Plum_Pudding_Model.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Atom/Atomic_Models/Plum_Pudding_Model.private|Plum_Pudding_Model.private]] 
 
-### #is_/same_as :: [Plum_Pudding_Model.personal](/_personal/Science/Physics/Atom/Atomic_Models/Plum_Pudding_Model.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Atom/Atomic_Models/Plum_Pudding_Model.personal|Plum_Pudding_Model.personal]] 
 
-### #is_/same_as :: [Plum_Pudding_Model.secret](/_secret/Science/Physics/Atom/Atomic_Models/Plum_Pudding_Model.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Atom/Atomic_Models/Plum_Pudding_Model.secret|Plum_Pudding_Model.secret]] 
 

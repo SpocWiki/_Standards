@@ -129,17 +129,17 @@ IMDb_keyword: racism
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Racism](/_Standards/Society/Social_Issues/Discrimination/Racism.md) 
+### #is_/same_as :: [[/_Standards/Society/Social_Issues/Discrimination/Racism|Racism]] 
 
-### #is_/same_as :: [Racism.public](/_public/Society/Social_Issues/Discrimination/Racism.public.md) 
+### #is_/same_as :: [[/_public/Society/Social_Issues/Discrimination/Racism.public|Racism.public]] 
 
-### #is_/same_as :: [Racism.internal](/_internal/Society/Social_Issues/Discrimination/Racism.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Social_Issues/Discrimination/Racism.internal|Racism.internal]] 
 
-### #is_/same_as :: [Racism.protect](/_protect/Society/Social_Issues/Discrimination/Racism.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Social_Issues/Discrimination/Racism.protect|Racism.protect]] 
 
-### #is_/same_as :: [Racism.private](/_private/Society/Social_Issues/Discrimination/Racism.private.md) 
+### #is_/same_as :: [[/_private/Society/Social_Issues/Discrimination/Racism.private|Racism.private]] 
 
-### #is_/same_as :: [Racism.personal](/_personal/Society/Social_Issues/Discrimination/Racism.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Social_Issues/Discrimination/Racism.personal|Racism.personal]] 
 
-### #is_/same_as :: [Racism.secret](/_secret/Society/Social_Issues/Discrimination/Racism.secret.md)
+### #is_/same_as :: [[/_secret/Society/Social_Issues/Discrimination/Racism.secret|Racism.secret]] 
 

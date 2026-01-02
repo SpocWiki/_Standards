@@ -38,17 +38,17 @@ Classification_of_Instructional_Programs_code: "54.0103"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [History_of_Europe](/_Standards/Earth/Continent/Europe/History_of_Europe.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/History_of_Europe|History_of_Europe]] 
 
-### #is_/same_as :: [History_of_Europe.public](/_public/Earth/Continent/Europe/History_of_Europe.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/History_of_Europe.public|History_of_Europe.public]] 
 
-### #is_/same_as :: [History_of_Europe.internal](/_internal/Earth/Continent/Europe/History_of_Europe.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/History_of_Europe.internal|History_of_Europe.internal]] 
 
-### #is_/same_as :: [History_of_Europe.protect](/_protect/Earth/Continent/Europe/History_of_Europe.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/History_of_Europe.protect|History_of_Europe.protect]] 
 
-### #is_/same_as :: [History_of_Europe.private](/_private/Earth/Continent/Europe/History_of_Europe.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/History_of_Europe.private|History_of_Europe.private]] 
 
-### #is_/same_as :: [History_of_Europe.personal](/_personal/Earth/Continent/Europe/History_of_Europe.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/History_of_Europe.personal|History_of_Europe.personal]] 
 
-### #is_/same_as :: [History_of_Europe.secret](/_secret/Earth/Continent/Europe/History_of_Europe.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/History_of_Europe.secret|History_of_Europe.secret]] 
 

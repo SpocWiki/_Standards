@@ -60,17 +60,17 @@ Commons_category: Islamic calendars
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Islamic_Calendar](/_Standards/ISO/Calendar/Islamic_Calendar.md) 
+### #is_/same_as :: [[/_Standards/ISO/Calendar/Islamic_Calendar|Islamic_Calendar]] 
 
-### #is_/same_as :: [Islamic_Calendar.public](/_public/ISO/Calendar/Islamic_Calendar.public.md) 
+### #is_/same_as :: [[/_public/ISO/Calendar/Islamic_Calendar.public|Islamic_Calendar.public]] 
 
-### #is_/same_as :: [Islamic_Calendar.internal](/_internal/ISO/Calendar/Islamic_Calendar.internal.md) 
+### #is_/same_as :: [[/_internal/ISO/Calendar/Islamic_Calendar.internal|Islamic_Calendar.internal]] 
 
-### #is_/same_as :: [Islamic_Calendar.protect](/_protect/ISO/Calendar/Islamic_Calendar.protect.md) 
+### #is_/same_as :: [[/_protect/ISO/Calendar/Islamic_Calendar.protect|Islamic_Calendar.protect]] 
 
-### #is_/same_as :: [Islamic_Calendar.private](/_private/ISO/Calendar/Islamic_Calendar.private.md) 
+### #is_/same_as :: [[/_private/ISO/Calendar/Islamic_Calendar.private|Islamic_Calendar.private]] 
 
-### #is_/same_as :: [Islamic_Calendar.personal](/_personal/ISO/Calendar/Islamic_Calendar.personal.md) 
+### #is_/same_as :: [[/_personal/ISO/Calendar/Islamic_Calendar.personal|Islamic_Calendar.personal]] 
 
-### #is_/same_as :: [Islamic_Calendar.secret](/_secret/ISO/Calendar/Islamic_Calendar.secret.md)
+### #is_/same_as :: [[/_secret/ISO/Calendar/Islamic_Calendar.secret|Islamic_Calendar.secret]] 
 

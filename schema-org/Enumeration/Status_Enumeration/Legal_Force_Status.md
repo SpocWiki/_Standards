@@ -41,17 +41,17 @@ A list of possible statuses for the legal force of a legislation.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Legal_Force_Status](/_Standards/schema-org/Enumeration/Status_Enumeration/Legal_Force_Status.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Status_Enumeration/Legal_Force_Status|Legal_Force_Status]] 
 
-### #is_/same_as :: [Legal_Force_Status.public](/_public/schema-org/Enumeration/Status_Enumeration/Legal_Force_Status.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Status_Enumeration/Legal_Force_Status.public|Legal_Force_Status.public]] 
 
-### #is_/same_as :: [Legal_Force_Status.internal](/_internal/schema-org/Enumeration/Status_Enumeration/Legal_Force_Status.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Status_Enumeration/Legal_Force_Status.internal|Legal_Force_Status.internal]] 
 
-### #is_/same_as :: [Legal_Force_Status.protect](/_protect/schema-org/Enumeration/Status_Enumeration/Legal_Force_Status.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Status_Enumeration/Legal_Force_Status.protect|Legal_Force_Status.protect]] 
 
-### #is_/same_as :: [Legal_Force_Status.private](/_private/schema-org/Enumeration/Status_Enumeration/Legal_Force_Status.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Status_Enumeration/Legal_Force_Status.private|Legal_Force_Status.private]] 
 
-### #is_/same_as :: [Legal_Force_Status.personal](/_personal/schema-org/Enumeration/Status_Enumeration/Legal_Force_Status.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Status_Enumeration/Legal_Force_Status.personal|Legal_Force_Status.personal]] 
 
-### #is_/same_as :: [Legal_Force_Status.secret](/_secret/schema-org/Enumeration/Status_Enumeration/Legal_Force_Status.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Status_Enumeration/Legal_Force_Status.secret|Legal_Force_Status.secret]] 
 

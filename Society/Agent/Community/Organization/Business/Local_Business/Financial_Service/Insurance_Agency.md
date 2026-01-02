@@ -41,17 +41,17 @@ An Insurance agency.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Insurance_Agency](/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Financial_Service/Insurance_Agency.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Financial_Service/Insurance_Agency|Insurance_Agency]] 
 
-### #is_/same_as :: [Insurance_Agency.public](/_public/Society/Agent/Community/Organization/Business/Local_Business/Financial_Service/Insurance_Agency.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Business/Local_Business/Financial_Service/Insurance_Agency.public|Insurance_Agency.public]] 
 
-### #is_/same_as :: [Insurance_Agency.internal](/_internal/Society/Agent/Community/Organization/Business/Local_Business/Financial_Service/Insurance_Agency.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Business/Local_Business/Financial_Service/Insurance_Agency.internal|Insurance_Agency.internal]] 
 
-### #is_/same_as :: [Insurance_Agency.protect](/_protect/Society/Agent/Community/Organization/Business/Local_Business/Financial_Service/Insurance_Agency.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Business/Local_Business/Financial_Service/Insurance_Agency.protect|Insurance_Agency.protect]] 
 
-### #is_/same_as :: [Insurance_Agency.private](/_private/Society/Agent/Community/Organization/Business/Local_Business/Financial_Service/Insurance_Agency.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Business/Local_Business/Financial_Service/Insurance_Agency.private|Insurance_Agency.private]] 
 
-### #is_/same_as :: [Insurance_Agency.personal](/_personal/Society/Agent/Community/Organization/Business/Local_Business/Financial_Service/Insurance_Agency.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Business/Local_Business/Financial_Service/Insurance_Agency.personal|Insurance_Agency.personal]] 
 
-### #is_/same_as :: [Insurance_Agency.secret](/_secret/Society/Agent/Community/Organization/Business/Local_Business/Financial_Service/Insurance_Agency.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Business/Local_Business/Financial_Service/Insurance_Agency.secret|Insurance_Agency.secret]] 
 

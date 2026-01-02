@@ -56,17 +56,17 @@ Baidu_Tieba_name: 马拉松
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Marathon](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Racing/Running/Marathon.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Racing/Running/Marathon|Marathon]] 
 
-### #is_/same_as :: [Marathon.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Racing/Running/Marathon.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Racing/Running/Marathon.public|Marathon.public]] 
 
-### #is_/same_as :: [Marathon.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Racing/Running/Marathon.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Racing/Running/Marathon.internal|Marathon.internal]] 
 
-### #is_/same_as :: [Marathon.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Racing/Running/Marathon.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Racing/Running/Marathon.protect|Marathon.protect]] 
 
-### #is_/same_as :: [Marathon.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Racing/Running/Marathon.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Racing/Running/Marathon.private|Marathon.private]] 
 
-### #is_/same_as :: [Marathon.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Racing/Running/Marathon.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Racing/Running/Marathon.personal|Marathon.personal]] 
 
-### #is_/same_as :: [Marathon.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Racing/Running/Marathon.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Racing/Running/Marathon.secret|Marathon.secret]] 
 

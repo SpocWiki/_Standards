@@ -43,17 +43,17 @@ male_form_of_label: Gran Duque
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Grand_Duke](/_Standards/Society/Politics/Government/Monarchy/Grand_Duke.md) 
+### #is_/same_as :: [[/_Standards/Society/Politics/Government/Monarchy/Grand_Duke|Grand_Duke]] 
 
-### #is_/same_as :: [Grand_Duke.public](/_public/Society/Politics/Government/Monarchy/Grand_Duke.public.md) 
+### #is_/same_as :: [[/_public/Society/Politics/Government/Monarchy/Grand_Duke.public|Grand_Duke.public]] 
 
-### #is_/same_as :: [Grand_Duke.internal](/_internal/Society/Politics/Government/Monarchy/Grand_Duke.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Politics/Government/Monarchy/Grand_Duke.internal|Grand_Duke.internal]] 
 
-### #is_/same_as :: [Grand_Duke.protect](/_protect/Society/Politics/Government/Monarchy/Grand_Duke.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Politics/Government/Monarchy/Grand_Duke.protect|Grand_Duke.protect]] 
 
-### #is_/same_as :: [Grand_Duke.private](/_private/Society/Politics/Government/Monarchy/Grand_Duke.private.md) 
+### #is_/same_as :: [[/_private/Society/Politics/Government/Monarchy/Grand_Duke.private|Grand_Duke.private]] 
 
-### #is_/same_as :: [Grand_Duke.personal](/_personal/Society/Politics/Government/Monarchy/Grand_Duke.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Politics/Government/Monarchy/Grand_Duke.personal|Grand_Duke.personal]] 
 
-### #is_/same_as :: [Grand_Duke.secret](/_secret/Society/Politics/Government/Monarchy/Grand_Duke.secret.md)
+### #is_/same_as :: [[/_secret/Society/Politics/Government/Monarchy/Grand_Duke.secret|Grand_Duke.secret]] 
 

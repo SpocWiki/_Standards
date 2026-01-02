@@ -93,17 +93,17 @@ their nature, effects and detection and involved in the treatment of poisoning.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Toxicology](/_Standards/bio/Medicine/Medical_Enumeration/Medical_Specialty/Toxicology.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Enumeration/Medical_Specialty/Toxicology|Toxicology]] 
 
-### #is_/same_as :: [Toxicology.public](/_public/bio/Medicine/Medical_Enumeration/Medical_Specialty/Toxicology.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Enumeration/Medical_Specialty/Toxicology.public|Toxicology.public]] 
 
-### #is_/same_as :: [Toxicology.internal](/_internal/bio/Medicine/Medical_Enumeration/Medical_Specialty/Toxicology.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Enumeration/Medical_Specialty/Toxicology.internal|Toxicology.internal]] 
 
-### #is_/same_as :: [Toxicology.protect](/_protect/bio/Medicine/Medical_Enumeration/Medical_Specialty/Toxicology.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Enumeration/Medical_Specialty/Toxicology.protect|Toxicology.protect]] 
 
-### #is_/same_as :: [Toxicology.private](/_private/bio/Medicine/Medical_Enumeration/Medical_Specialty/Toxicology.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Enumeration/Medical_Specialty/Toxicology.private|Toxicology.private]] 
 
-### #is_/same_as :: [Toxicology.personal](/_personal/bio/Medicine/Medical_Enumeration/Medical_Specialty/Toxicology.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Enumeration/Medical_Specialty/Toxicology.personal|Toxicology.personal]] 
 
-### #is_/same_as :: [Toxicology.secret](/_secret/bio/Medicine/Medical_Enumeration/Medical_Specialty/Toxicology.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Enumeration/Medical_Specialty/Toxicology.secret|Toxicology.secret]] 
 

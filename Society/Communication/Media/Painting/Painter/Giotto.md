@@ -172,17 +172,17 @@ Krugosvet_article: kultura_i_obrazovanie/izobrazitelnoe_iskusstvo/DZHOTTO_DI_BON
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Giotto](/_Standards/Society/Communication/Media/Painting/Painter/Giotto.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Painting/Painter/Giotto|Giotto]] 
 
-### #is_/same_as :: [Giotto.public](/_public/Society/Communication/Media/Painting/Painter/Giotto.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Painting/Painter/Giotto.public|Giotto.public]] 
 
-### #is_/same_as :: [Giotto.internal](/_internal/Society/Communication/Media/Painting/Painter/Giotto.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Painting/Painter/Giotto.internal|Giotto.internal]] 
 
-### #is_/same_as :: [Giotto.protect](/_protect/Society/Communication/Media/Painting/Painter/Giotto.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Painting/Painter/Giotto.protect|Giotto.protect]] 
 
-### #is_/same_as :: [Giotto.private](/_private/Society/Communication/Media/Painting/Painter/Giotto.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Painting/Painter/Giotto.private|Giotto.private]] 
 
-### #is_/same_as :: [Giotto.personal](/_personal/Society/Communication/Media/Painting/Painter/Giotto.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Painting/Painter/Giotto.personal|Giotto.personal]] 
 
-### #is_/same_as :: [Giotto.secret](/_secret/Society/Communication/Media/Painting/Painter/Giotto.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Painting/Painter/Giotto.secret|Giotto.secret]] 
 

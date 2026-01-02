@@ -115,17 +115,17 @@ page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/October-banner-0
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [October](/_Standards/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Month_of_Year/October.md) 
+### #is_/same_as :: [[/_Standards/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Month_of_Year/October|October]] 
 
-### #is_/same_as :: [October.public](/_public/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Month_of_Year/October.public.md) 
+### #is_/same_as :: [[/_public/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Month_of_Year/October.public|October.public]] 
 
-### #is_/same_as :: [October.internal](/_internal/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Month_of_Year/October.internal.md) 
+### #is_/same_as :: [[/_internal/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Month_of_Year/October.internal|October.internal]] 
 
-### #is_/same_as :: [October.protect](/_protect/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Month_of_Year/October.protect.md) 
+### #is_/same_as :: [[/_protect/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Month_of_Year/October.protect|October.protect]] 
 
-### #is_/same_as :: [October.private](/_private/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Month_of_Year/October.private.md) 
+### #is_/same_as :: [[/_private/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Month_of_Year/October.private|October.private]] 
 
-### #is_/same_as :: [October.personal](/_personal/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Month_of_Year/October.personal.md) 
+### #is_/same_as :: [[/_personal/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Month_of_Year/October.personal|October.personal]] 
 
-### #is_/same_as :: [October.secret](/_secret/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Month_of_Year/October.secret.md)
+### #is_/same_as :: [[/_secret/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Month_of_Year/October.secret|October.secret]] 
 

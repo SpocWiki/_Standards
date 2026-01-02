@@ -37,17 +37,17 @@ The act of installing an application.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~InstallAction](/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction/FileClass~InstallAction.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction/FileClass~InstallAction|FileClass~InstallAction]] 
 
-### #is_/same_as :: [FileClass~InstallAction.public](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction/FileClass~InstallAction.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction/FileClass~InstallAction.public|FileClass~InstallAction.public]] 
 
-### #is_/same_as :: [FileClass~InstallAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction/FileClass~InstallAction.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction/FileClass~InstallAction.internal|FileClass~InstallAction.internal]] 
 
-### #is_/same_as :: [FileClass~InstallAction.protect](/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction/FileClass~InstallAction.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction/FileClass~InstallAction.protect|FileClass~InstallAction.protect]] 
 
-### #is_/same_as :: [FileClass~InstallAction.private](/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction/FileClass~InstallAction.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction/FileClass~InstallAction.private|FileClass~InstallAction.private]] 
 
-### #is_/same_as :: [FileClass~InstallAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction/FileClass~InstallAction.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction/FileClass~InstallAction.personal|FileClass~InstallAction.personal]] 
 
-### #is_/same_as :: [FileClass~InstallAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction/FileClass~InstallAction.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction/FileClass~InstallAction.secret|FileClass~InstallAction.secret]] 
 

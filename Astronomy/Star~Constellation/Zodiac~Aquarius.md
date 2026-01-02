@@ -62,17 +62,17 @@ official_name: Aquarius
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Zodiac~Aquarius](/_Standards/Astronomy/Star~Constellation/Zodiac~Aquarius.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Star~Constellation/Zodiac~Aquarius|Zodiac~Aquarius]] 
 
-### #is_/same_as :: [Zodiac~Aquarius.public](/_public/Astronomy/Star~Constellation/Zodiac~Aquarius.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Star~Constellation/Zodiac~Aquarius.public|Zodiac~Aquarius.public]] 
 
-### #is_/same_as :: [Zodiac~Aquarius.internal](/_internal/Astronomy/Star~Constellation/Zodiac~Aquarius.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Star~Constellation/Zodiac~Aquarius.internal|Zodiac~Aquarius.internal]] 
 
-### #is_/same_as :: [Zodiac~Aquarius.protect](/_protect/Astronomy/Star~Constellation/Zodiac~Aquarius.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Star~Constellation/Zodiac~Aquarius.protect|Zodiac~Aquarius.protect]] 
 
-### #is_/same_as :: [Zodiac~Aquarius.private](/_private/Astronomy/Star~Constellation/Zodiac~Aquarius.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Star~Constellation/Zodiac~Aquarius.private|Zodiac~Aquarius.private]] 
 
-### #is_/same_as :: [Zodiac~Aquarius.personal](/_personal/Astronomy/Star~Constellation/Zodiac~Aquarius.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Star~Constellation/Zodiac~Aquarius.personal|Zodiac~Aquarius.personal]] 
 
-### #is_/same_as :: [Zodiac~Aquarius.secret](/_secret/Astronomy/Star~Constellation/Zodiac~Aquarius.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Star~Constellation/Zodiac~Aquarius.secret|Zodiac~Aquarius.secret]] 
 

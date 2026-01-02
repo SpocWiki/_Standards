@@ -67,17 +67,17 @@ Dewey_Decimal_Classification:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Salt(Chemistry)](/_Standards/Chemistry/Inorganic_Chemistry/Salt(Chemistry).md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Inorganic_Chemistry/Salt(Chemistry)|Salt(Chemistry)]] 
 
-### #is_/same_as :: [Salt(Chemistry).public](/_public/Chemistry/Inorganic_Chemistry/Salt(Chemistry).public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Inorganic_Chemistry/Salt(Chemistry).public|Salt(Chemistry).public]] 
 
-### #is_/same_as :: [Salt(Chemistry).internal](/_internal/Chemistry/Inorganic_Chemistry/Salt(Chemistry).internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Inorganic_Chemistry/Salt(Chemistry).internal|Salt(Chemistry).internal]] 
 
-### #is_/same_as :: [Salt(Chemistry).protect](/_protect/Chemistry/Inorganic_Chemistry/Salt(Chemistry).protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Inorganic_Chemistry/Salt(Chemistry).protect|Salt(Chemistry).protect]] 
 
-### #is_/same_as :: [Salt(Chemistry).private](/_private/Chemistry/Inorganic_Chemistry/Salt(Chemistry).private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Inorganic_Chemistry/Salt(Chemistry).private|Salt(Chemistry).private]] 
 
-### #is_/same_as :: [Salt(Chemistry).personal](/_personal/Chemistry/Inorganic_Chemistry/Salt(Chemistry).personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Inorganic_Chemistry/Salt(Chemistry).personal|Salt(Chemistry).personal]] 
 
-### #is_/same_as :: [Salt(Chemistry).secret](/_secret/Chemistry/Inorganic_Chemistry/Salt(Chemistry).secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Inorganic_Chemistry/Salt(Chemistry).secret|Salt(Chemistry).secret]] 
 

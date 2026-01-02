@@ -19,17 +19,17 @@ Surely not before the software has become a viable Product.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Copy-Paste](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Copy-Paste.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Copy-Paste|Copy-Paste]] 
 
-### #is_/same_as :: [Copy-Paste.public](/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Copy-Paste.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Copy-Paste.public|Copy-Paste.public]] 
 
-### #is_/same_as :: [Copy-Paste.internal](/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Copy-Paste.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Copy-Paste.internal|Copy-Paste.internal]] 
 
-### #is_/same_as :: [Copy-Paste.protect](/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Copy-Paste.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Copy-Paste.protect|Copy-Paste.protect]] 
 
-### #is_/same_as :: [Copy-Paste.private](/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Copy-Paste.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Copy-Paste.private|Copy-Paste.private]] 
 
-### #is_/same_as :: [Copy-Paste.personal](/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Copy-Paste.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Copy-Paste.personal|Copy-Paste.personal]] 
 
-### #is_/same_as :: [Copy-Paste.secret](/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Copy-Paste.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Copy-Paste.secret|Copy-Paste.secret]] 
 

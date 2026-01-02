@@ -111,17 +111,17 @@ P1015: 97020450
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Cronkite,Walter](/_Standards/Society/Communication/Media/Journalism/Journalist/Broadcast_Journalist/Cronkite,Walter.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Journalism/Journalist/Broadcast_Journalist/Cronkite,Walter|Cronkite,Walter]] 
 
-### #is_/same_as :: [Cronkite,Walter.public](/_public/Society/Communication/Media/Journalism/Journalist/Broadcast_Journalist/Cronkite,Walter.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Journalism/Journalist/Broadcast_Journalist/Cronkite,Walter.public|Cronkite,Walter.public]] 
 
-### #is_/same_as :: [Cronkite,Walter.internal](/_internal/Society/Communication/Media/Journalism/Journalist/Broadcast_Journalist/Cronkite,Walter.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Journalism/Journalist/Broadcast_Journalist/Cronkite,Walter.internal|Cronkite,Walter.internal]] 
 
-### #is_/same_as :: [Cronkite,Walter.protect](/_protect/Society/Communication/Media/Journalism/Journalist/Broadcast_Journalist/Cronkite,Walter.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Journalism/Journalist/Broadcast_Journalist/Cronkite,Walter.protect|Cronkite,Walter.protect]] 
 
-### #is_/same_as :: [Cronkite,Walter.private](/_private/Society/Communication/Media/Journalism/Journalist/Broadcast_Journalist/Cronkite,Walter.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Journalism/Journalist/Broadcast_Journalist/Cronkite,Walter.private|Cronkite,Walter.private]] 
 
-### #is_/same_as :: [Cronkite,Walter.personal](/_personal/Society/Communication/Media/Journalism/Journalist/Broadcast_Journalist/Cronkite,Walter.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Journalism/Journalist/Broadcast_Journalist/Cronkite,Walter.personal|Cronkite,Walter.personal]] 
 
-### #is_/same_as :: [Cronkite,Walter.secret](/_secret/Society/Communication/Media/Journalism/Journalist/Broadcast_Journalist/Cronkite,Walter.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Journalism/Journalist/Broadcast_Journalist/Cronkite,Walter.secret|Cronkite,Walter.secret]] 
 

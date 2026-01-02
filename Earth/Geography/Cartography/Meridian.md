@@ -61,17 +61,17 @@ line between the Earth's poles with the same longitude.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Meridian](/_Standards/Earth/Geography/Cartography/Meridian.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geography/Cartography/Meridian|Meridian]] 
 
-### #is_/same_as :: [Meridian.public](/_public/Earth/Geography/Cartography/Meridian.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geography/Cartography/Meridian.public|Meridian.public]] 
 
-### #is_/same_as :: [Meridian.internal](/_internal/Earth/Geography/Cartography/Meridian.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geography/Cartography/Meridian.internal|Meridian.internal]] 
 
-### #is_/same_as :: [Meridian.protect](/_protect/Earth/Geography/Cartography/Meridian.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geography/Cartography/Meridian.protect|Meridian.protect]] 
 
-### #is_/same_as :: [Meridian.private](/_private/Earth/Geography/Cartography/Meridian.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geography/Cartography/Meridian.private|Meridian.private]] 
 
-### #is_/same_as :: [Meridian.personal](/_personal/Earth/Geography/Cartography/Meridian.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geography/Cartography/Meridian.personal|Meridian.personal]] 
 
-### #is_/same_as :: [Meridian.secret](/_secret/Earth/Geography/Cartography/Meridian.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geography/Cartography/Meridian.secret|Meridian.secret]] 
 

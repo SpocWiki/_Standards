@@ -48,17 +48,17 @@ OmegaWiki_Defined_Meaning: "1341619"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Phlogiston](/_Standards/Chemistry/History_of_Chemistry/Phlogiston.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/History_of_Chemistry/Phlogiston|Phlogiston]] 
 
-### #is_/same_as :: [Phlogiston.public](/_public/Chemistry/History_of_Chemistry/Phlogiston.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/History_of_Chemistry/Phlogiston.public|Phlogiston.public]] 
 
-### #is_/same_as :: [Phlogiston.internal](/_internal/Chemistry/History_of_Chemistry/Phlogiston.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/History_of_Chemistry/Phlogiston.internal|Phlogiston.internal]] 
 
-### #is_/same_as :: [Phlogiston.protect](/_protect/Chemistry/History_of_Chemistry/Phlogiston.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/History_of_Chemistry/Phlogiston.protect|Phlogiston.protect]] 
 
-### #is_/same_as :: [Phlogiston.private](/_private/Chemistry/History_of_Chemistry/Phlogiston.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/History_of_Chemistry/Phlogiston.private|Phlogiston.private]] 
 
-### #is_/same_as :: [Phlogiston.personal](/_personal/Chemistry/History_of_Chemistry/Phlogiston.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/History_of_Chemistry/Phlogiston.personal|Phlogiston.personal]] 
 
-### #is_/same_as :: [Phlogiston.secret](/_secret/Chemistry/History_of_Chemistry/Phlogiston.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/History_of_Chemistry/Phlogiston.secret|Phlogiston.secret]] 
 

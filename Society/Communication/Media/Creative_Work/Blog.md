@@ -90,17 +90,17 @@ Note that the individual posts ([[BlogPosting]]s) in a [[Blog]] are often colloq
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Blog](/_Standards/Society/Communication/Media/Creative_Work/Blog.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Creative_Work/Blog|Blog]] 
 
-### #is_/same_as :: [Blog.public](/_public/Society/Communication/Media/Creative_Work/Blog.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Creative_Work/Blog.public|Blog.public]] 
 
-### #is_/same_as :: [Blog.internal](/_internal/Society/Communication/Media/Creative_Work/Blog.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Creative_Work/Blog.internal|Blog.internal]] 
 
-### #is_/same_as :: [Blog.protect](/_protect/Society/Communication/Media/Creative_Work/Blog.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Creative_Work/Blog.protect|Blog.protect]] 
 
-### #is_/same_as :: [Blog.private](/_private/Society/Communication/Media/Creative_Work/Blog.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Creative_Work/Blog.private|Blog.private]] 
 
-### #is_/same_as :: [Blog.personal](/_personal/Society/Communication/Media/Creative_Work/Blog.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/Blog.personal|Blog.personal]] 
 
-### #is_/same_as :: [Blog.secret](/_secret/Society/Communication/Media/Creative_Work/Blog.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Blog.secret|Blog.secret]] 
 

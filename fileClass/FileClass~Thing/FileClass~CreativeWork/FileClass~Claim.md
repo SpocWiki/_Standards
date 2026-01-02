@@ -73,17 +73,17 @@ FirstAppearance:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#cla
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~Claim](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Claim.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Claim|FileClass~Claim]] 
 
-### #is_/same_as :: [FileClass~Claim.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Claim.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Claim.public|FileClass~Claim.public]] 
 
-### #is_/same_as :: [FileClass~Claim.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Claim.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Claim.internal|FileClass~Claim.internal]] 
 
-### #is_/same_as :: [FileClass~Claim.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Claim.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Claim.protect|FileClass~Claim.protect]] 
 
-### #is_/same_as :: [FileClass~Claim.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Claim.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Claim.private|FileClass~Claim.private]] 
 
-### #is_/same_as :: [FileClass~Claim.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Claim.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Claim.personal|FileClass~Claim.personal]] 
 
-### #is_/same_as :: [FileClass~Claim.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Claim.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Claim.secret|FileClass~Claim.secret]] 
 

@@ -92,17 +92,17 @@ Commons_category: The Tonight Show
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Tonight_Show](/_Standards/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/Talk-Show/Tonight_Show.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/Talk-Show/Tonight_Show|Tonight_Show]] 
 
-### #is_/same_as :: [Tonight_Show.public](/_public/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/Talk-Show/Tonight_Show.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/Talk-Show/Tonight_Show.public|Tonight_Show.public]] 
 
-### #is_/same_as :: [Tonight_Show.internal](/_internal/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/Talk-Show/Tonight_Show.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/Talk-Show/Tonight_Show.internal|Tonight_Show.internal]] 
 
-### #is_/same_as :: [Tonight_Show.protect](/_protect/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/Talk-Show/Tonight_Show.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/Talk-Show/Tonight_Show.protect|Tonight_Show.protect]] 
 
-### #is_/same_as :: [Tonight_Show.private](/_private/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/Talk-Show/Tonight_Show.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/Talk-Show/Tonight_Show.private|Tonight_Show.private]] 
 
-### #is_/same_as :: [Tonight_Show.personal](/_personal/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/Talk-Show/Tonight_Show.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/Talk-Show/Tonight_Show.personal|Tonight_Show.personal]] 
 
-### #is_/same_as :: [Tonight_Show.secret](/_secret/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/Talk-Show/Tonight_Show.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/Talk-Show/Tonight_Show.secret|Tonight_Show.secret]] 
 

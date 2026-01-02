@@ -40,17 +40,17 @@ facet_of: "[[_Standards/WikiData/WD~society,8425]]"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Social_Formation](/_Standards/Society/Anthropology/Sociology/Social_Formation.md) 
+### #is_/same_as :: [[/_Standards/Society/Anthropology/Sociology/Social_Formation|Social_Formation]] 
 
-### #is_/same_as :: [Social_Formation.public](/_public/Society/Anthropology/Sociology/Social_Formation.public.md) 
+### #is_/same_as :: [[/_public/Society/Anthropology/Sociology/Social_Formation.public|Social_Formation.public]] 
 
-### #is_/same_as :: [Social_Formation.internal](/_internal/Society/Anthropology/Sociology/Social_Formation.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Anthropology/Sociology/Social_Formation.internal|Social_Formation.internal]] 
 
-### #is_/same_as :: [Social_Formation.protect](/_protect/Society/Anthropology/Sociology/Social_Formation.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Anthropology/Sociology/Social_Formation.protect|Social_Formation.protect]] 
 
-### #is_/same_as :: [Social_Formation.private](/_private/Society/Anthropology/Sociology/Social_Formation.private.md) 
+### #is_/same_as :: [[/_private/Society/Anthropology/Sociology/Social_Formation.private|Social_Formation.private]] 
 
-### #is_/same_as :: [Social_Formation.personal](/_personal/Society/Anthropology/Sociology/Social_Formation.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Anthropology/Sociology/Social_Formation.personal|Social_Formation.personal]] 
 
-### #is_/same_as :: [Social_Formation.secret](/_secret/Society/Anthropology/Sociology/Social_Formation.secret.md)
+### #is_/same_as :: [[/_secret/Society/Anthropology/Sociology/Social_Formation.secret|Social_Formation.secret]] 
 

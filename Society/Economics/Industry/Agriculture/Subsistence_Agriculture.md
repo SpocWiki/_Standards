@@ -55,17 +55,17 @@ Wolfram_Language_entity_code: Entity["Concept", "SubsistenceFarming::44wsw"]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Subsistence_Agriculture](/_Standards/Society/Economics/Industry/Agriculture/Subsistence_Agriculture.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Industry/Agriculture/Subsistence_Agriculture|Subsistence_Agriculture]] 
 
-### #is_/same_as :: [Subsistence_Agriculture.public](/_public/Society/Economics/Industry/Agriculture/Subsistence_Agriculture.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Industry/Agriculture/Subsistence_Agriculture.public|Subsistence_Agriculture.public]] 
 
-### #is_/same_as :: [Subsistence_Agriculture.internal](/_internal/Society/Economics/Industry/Agriculture/Subsistence_Agriculture.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Industry/Agriculture/Subsistence_Agriculture.internal|Subsistence_Agriculture.internal]] 
 
-### #is_/same_as :: [Subsistence_Agriculture.protect](/_protect/Society/Economics/Industry/Agriculture/Subsistence_Agriculture.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Industry/Agriculture/Subsistence_Agriculture.protect|Subsistence_Agriculture.protect]] 
 
-### #is_/same_as :: [Subsistence_Agriculture.private](/_private/Society/Economics/Industry/Agriculture/Subsistence_Agriculture.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Industry/Agriculture/Subsistence_Agriculture.private|Subsistence_Agriculture.private]] 
 
-### #is_/same_as :: [Subsistence_Agriculture.personal](/_personal/Society/Economics/Industry/Agriculture/Subsistence_Agriculture.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Industry/Agriculture/Subsistence_Agriculture.personal|Subsistence_Agriculture.personal]] 
 
-### #is_/same_as :: [Subsistence_Agriculture.secret](/_secret/Society/Economics/Industry/Agriculture/Subsistence_Agriculture.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Industry/Agriculture/Subsistence_Agriculture.secret|Subsistence_Agriculture.secret]] 
 

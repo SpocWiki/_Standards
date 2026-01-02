@@ -126,17 +126,17 @@ has_time_started: 1506-04-28
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [St.Peter's_Basilica](/_Standards/Earth/Geography/Place/Landmarks_or_Historical_Buildings/St.Peter's_Basilica.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geography/Place/Landmarks_or_Historical_Buildings/St.Peter's_Basilica|St.Peter's_Basilica]] 
 
-### #is_/same_as :: [St.Peter's_Basilica.public](/_public/Earth/Geography/Place/Landmarks_or_Historical_Buildings/St.Peter's_Basilica.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geography/Place/Landmarks_or_Historical_Buildings/St.Peter's_Basilica.public|St.Peter's_Basilica.public]] 
 
-### #is_/same_as :: [St.Peter's_Basilica.internal](/_internal/Earth/Geography/Place/Landmarks_or_Historical_Buildings/St.Peter's_Basilica.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geography/Place/Landmarks_or_Historical_Buildings/St.Peter's_Basilica.internal|St.Peter's_Basilica.internal]] 
 
-### #is_/same_as :: [St.Peter's_Basilica.protect](/_protect/Earth/Geography/Place/Landmarks_or_Historical_Buildings/St.Peter's_Basilica.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geography/Place/Landmarks_or_Historical_Buildings/St.Peter's_Basilica.protect|St.Peter's_Basilica.protect]] 
 
-### #is_/same_as :: [St.Peter's_Basilica.private](/_private/Earth/Geography/Place/Landmarks_or_Historical_Buildings/St.Peter's_Basilica.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geography/Place/Landmarks_or_Historical_Buildings/St.Peter's_Basilica.private|St.Peter's_Basilica.private]] 
 
-### #is_/same_as :: [St.Peter's_Basilica.personal](/_personal/Earth/Geography/Place/Landmarks_or_Historical_Buildings/St.Peter's_Basilica.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geography/Place/Landmarks_or_Historical_Buildings/St.Peter's_Basilica.personal|St.Peter's_Basilica.personal]] 
 
-### #is_/same_as :: [St.Peter's_Basilica.secret](/_secret/Earth/Geography/Place/Landmarks_or_Historical_Buildings/St.Peter's_Basilica.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geography/Place/Landmarks_or_Historical_Buildings/St.Peter's_Basilica.secret|St.Peter's_Basilica.secret]] 
 

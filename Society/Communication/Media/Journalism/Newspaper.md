@@ -137,17 +137,17 @@ U_S_National_Archives_Identifier:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Newspaper](/_Standards/Society/Communication/Media/Journalism/Newspaper.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Journalism/Newspaper|Newspaper]] 
 
-### #is_/same_as :: [Newspaper.public](/_public/Society/Communication/Media/Journalism/Newspaper.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Journalism/Newspaper.public|Newspaper.public]] 
 
-### #is_/same_as :: [Newspaper.internal](/_internal/Society/Communication/Media/Journalism/Newspaper.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Journalism/Newspaper.internal|Newspaper.internal]] 
 
-### #is_/same_as :: [Newspaper.protect](/_protect/Society/Communication/Media/Journalism/Newspaper.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Journalism/Newspaper.protect|Newspaper.protect]] 
 
-### #is_/same_as :: [Newspaper.private](/_private/Society/Communication/Media/Journalism/Newspaper.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Journalism/Newspaper.private|Newspaper.private]] 
 
-### #is_/same_as :: [Newspaper.personal](/_personal/Society/Communication/Media/Journalism/Newspaper.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Journalism/Newspaper.personal|Newspaper.personal]] 
 
-### #is_/same_as :: [Newspaper.secret](/_secret/Society/Communication/Media/Journalism/Newspaper.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Journalism/Newspaper.secret|Newspaper.secret]] 
 

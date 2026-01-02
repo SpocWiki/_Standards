@@ -28,17 +28,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Mann,Michael](/_Standards/Society/Communication/Media/Movie/Movie-Director/Mann,Michael.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Director/Mann,Michael|Mann,Michael]] 
 
-### #is_/same_as :: [Mann,Michael.public](/_public/Society/Communication/Media/Movie/Movie-Director/Mann,Michael.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Director/Mann,Michael.public|Mann,Michael.public]] 
 
-### #is_/same_as :: [Mann,Michael.internal](/_internal/Society/Communication/Media/Movie/Movie-Director/Mann,Michael.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Director/Mann,Michael.internal|Mann,Michael.internal]] 
 
-### #is_/same_as :: [Mann,Michael.protect](/_protect/Society/Communication/Media/Movie/Movie-Director/Mann,Michael.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Director/Mann,Michael.protect|Mann,Michael.protect]] 
 
-### #is_/same_as :: [Mann,Michael.private](/_private/Society/Communication/Media/Movie/Movie-Director/Mann,Michael.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Director/Mann,Michael.private|Mann,Michael.private]] 
 
-### #is_/same_as :: [Mann,Michael.personal](/_personal/Society/Communication/Media/Movie/Movie-Director/Mann,Michael.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Director/Mann,Michael.personal|Mann,Michael.personal]] 
 
-### #is_/same_as :: [Mann,Michael.secret](/_secret/Society/Communication/Media/Movie/Movie-Director/Mann,Michael.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Director/Mann,Michael.secret|Mann,Michael.secret]] 
 

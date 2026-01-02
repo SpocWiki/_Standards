@@ -41,17 +41,17 @@ A medical test performed on a sample of a patient's blood.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Blood_Test](/_Standards/bio/Medicine/Medical_Entity/Medical_Test/Blood_Test.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Entity/Medical_Test/Blood_Test|Blood_Test]] 
 
-### #is_/same_as :: [Blood_Test.public](/_public/bio/Medicine/Medical_Entity/Medical_Test/Blood_Test.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Entity/Medical_Test/Blood_Test.public|Blood_Test.public]] 
 
-### #is_/same_as :: [Blood_Test.internal](/_internal/bio/Medicine/Medical_Entity/Medical_Test/Blood_Test.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Entity/Medical_Test/Blood_Test.internal|Blood_Test.internal]] 
 
-### #is_/same_as :: [Blood_Test.protect](/_protect/bio/Medicine/Medical_Entity/Medical_Test/Blood_Test.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Entity/Medical_Test/Blood_Test.protect|Blood_Test.protect]] 
 
-### #is_/same_as :: [Blood_Test.private](/_private/bio/Medicine/Medical_Entity/Medical_Test/Blood_Test.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Entity/Medical_Test/Blood_Test.private|Blood_Test.private]] 
 
-### #is_/same_as :: [Blood_Test.personal](/_personal/bio/Medicine/Medical_Entity/Medical_Test/Blood_Test.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Entity/Medical_Test/Blood_Test.personal|Blood_Test.personal]] 
 
-### #is_/same_as :: [Blood_Test.secret](/_secret/bio/Medicine/Medical_Entity/Medical_Test/Blood_Test.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Entity/Medical_Test/Blood_Test.secret|Blood_Test.secret]] 
 

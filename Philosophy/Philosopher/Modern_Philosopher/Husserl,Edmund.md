@@ -148,17 +148,17 @@ NLC_authorities: 000154718
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Husserl,Edmund](/_Standards/Philosophy/Philosopher/Modern_Philosopher/Husserl,Edmund.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Philosopher/Modern_Philosopher/Husserl,Edmund|Husserl,Edmund]] 
 
-### #is_/same_as :: [Husserl,Edmund.public](/_public/Philosophy/Philosopher/Modern_Philosopher/Husserl,Edmund.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Philosopher/Modern_Philosopher/Husserl,Edmund.public|Husserl,Edmund.public]] 
 
-### #is_/same_as :: [Husserl,Edmund.internal](/_internal/Philosophy/Philosopher/Modern_Philosopher/Husserl,Edmund.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Philosopher/Modern_Philosopher/Husserl,Edmund.internal|Husserl,Edmund.internal]] 
 
-### #is_/same_as :: [Husserl,Edmund.protect](/_protect/Philosophy/Philosopher/Modern_Philosopher/Husserl,Edmund.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Philosopher/Modern_Philosopher/Husserl,Edmund.protect|Husserl,Edmund.protect]] 
 
-### #is_/same_as :: [Husserl,Edmund.private](/_private/Philosophy/Philosopher/Modern_Philosopher/Husserl,Edmund.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Philosopher/Modern_Philosopher/Husserl,Edmund.private|Husserl,Edmund.private]] 
 
-### #is_/same_as :: [Husserl,Edmund.personal](/_personal/Philosophy/Philosopher/Modern_Philosopher/Husserl,Edmund.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Philosopher/Modern_Philosopher/Husserl,Edmund.personal|Husserl,Edmund.personal]] 
 
-### #is_/same_as :: [Husserl,Edmund.secret](/_secret/Philosophy/Philosopher/Modern_Philosopher/Husserl,Edmund.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Philosopher/Modern_Philosopher/Husserl,Edmund.secret|Husserl,Edmund.secret]] 
 

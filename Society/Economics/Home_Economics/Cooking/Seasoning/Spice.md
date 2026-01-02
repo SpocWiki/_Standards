@@ -64,17 +64,17 @@ Commons_category: Spices
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Spice](/_Standards/Society/Economics/Home_Economics/Cooking/Seasoning/Spice.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Home_Economics/Cooking/Seasoning/Spice|Spice]] 
 
-### #is_/same_as :: [Spice.public](/_public/Society/Economics/Home_Economics/Cooking/Seasoning/Spice.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Home_Economics/Cooking/Seasoning/Spice.public|Spice.public]] 
 
-### #is_/same_as :: [Spice.internal](/_internal/Society/Economics/Home_Economics/Cooking/Seasoning/Spice.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Home_Economics/Cooking/Seasoning/Spice.internal|Spice.internal]] 
 
-### #is_/same_as :: [Spice.protect](/_protect/Society/Economics/Home_Economics/Cooking/Seasoning/Spice.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Home_Economics/Cooking/Seasoning/Spice.protect|Spice.protect]] 
 
-### #is_/same_as :: [Spice.private](/_private/Society/Economics/Home_Economics/Cooking/Seasoning/Spice.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Home_Economics/Cooking/Seasoning/Spice.private|Spice.private]] 
 
-### #is_/same_as :: [Spice.personal](/_personal/Society/Economics/Home_Economics/Cooking/Seasoning/Spice.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Home_Economics/Cooking/Seasoning/Spice.personal|Spice.personal]] 
 
-### #is_/same_as :: [Spice.secret](/_secret/Society/Economics/Home_Economics/Cooking/Seasoning/Spice.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Home_Economics/Cooking/Seasoning/Spice.secret|Spice.secret]] 
 

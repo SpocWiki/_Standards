@@ -39,17 +39,17 @@ Commons_category: Metallic bonding
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Metallic_Bond](/_Standards/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Metallic_Bond.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Metallic_Bond|Metallic_Bond]] 
 
-### #is_/same_as :: [Metallic_Bond.public](/_public/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Metallic_Bond.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Metallic_Bond.public|Metallic_Bond.public]] 
 
-### #is_/same_as :: [Metallic_Bond.internal](/_internal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Metallic_Bond.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Metallic_Bond.internal|Metallic_Bond.internal]] 
 
-### #is_/same_as :: [Metallic_Bond.protect](/_protect/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Metallic_Bond.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Metallic_Bond.protect|Metallic_Bond.protect]] 
 
-### #is_/same_as :: [Metallic_Bond.private](/_private/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Metallic_Bond.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Metallic_Bond.private|Metallic_Bond.private]] 
 
-### #is_/same_as :: [Metallic_Bond.personal](/_personal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Metallic_Bond.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Metallic_Bond.personal|Metallic_Bond.personal]] 
 
-### #is_/same_as :: [Metallic_Bond.secret](/_secret/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Metallic_Bond.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Metallic_Bond.secret|Metallic_Bond.secret]] 
 

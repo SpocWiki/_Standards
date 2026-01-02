@@ -65,3 +65,22 @@ OpenStreetMap_tag: place=neighbourhood
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Neighbourhood) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Geography/Place/Administrative_Area/Municipality/Neighborhood|Neighborhood]] 
+
+### #is_/same_as :: [[/_public/Earth/Geography/Place/Administrative_Area/Municipality/Neighborhood.public|Neighborhood.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Geography/Place/Administrative_Area/Municipality/Neighborhood.internal|Neighborhood.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Geography/Place/Administrative_Area/Municipality/Neighborhood.protect|Neighborhood.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Geography/Place/Administrative_Area/Municipality/Neighborhood.private|Neighborhood.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Geography/Place/Administrative_Area/Municipality/Neighborhood.personal|Neighborhood.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Geography/Place/Administrative_Area/Municipality/Neighborhood.secret|Neighborhood.secret]] 
+

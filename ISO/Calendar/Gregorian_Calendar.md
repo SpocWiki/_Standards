@@ -105,17 +105,17 @@ between its introduction -0045-01-01 and the reform in 1582-10-15.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Gregorian_Calendar](/_Standards/ISO/Calendar/Gregorian_Calendar.md) 
+### #is_/same_as :: [[/_Standards/ISO/Calendar/Gregorian_Calendar|Gregorian_Calendar]] 
 
-### #is_/same_as :: [Gregorian_Calendar.public](/_public/ISO/Calendar/Gregorian_Calendar.public.md) 
+### #is_/same_as :: [[/_public/ISO/Calendar/Gregorian_Calendar.public|Gregorian_Calendar.public]] 
 
-### #is_/same_as :: [Gregorian_Calendar.internal](/_internal/ISO/Calendar/Gregorian_Calendar.internal.md) 
+### #is_/same_as :: [[/_internal/ISO/Calendar/Gregorian_Calendar.internal|Gregorian_Calendar.internal]] 
 
-### #is_/same_as :: [Gregorian_Calendar.protect](/_protect/ISO/Calendar/Gregorian_Calendar.protect.md) 
+### #is_/same_as :: [[/_protect/ISO/Calendar/Gregorian_Calendar.protect|Gregorian_Calendar.protect]] 
 
-### #is_/same_as :: [Gregorian_Calendar.private](/_private/ISO/Calendar/Gregorian_Calendar.private.md) 
+### #is_/same_as :: [[/_private/ISO/Calendar/Gregorian_Calendar.private|Gregorian_Calendar.private]] 
 
-### #is_/same_as :: [Gregorian_Calendar.personal](/_personal/ISO/Calendar/Gregorian_Calendar.personal.md) 
+### #is_/same_as :: [[/_personal/ISO/Calendar/Gregorian_Calendar.personal|Gregorian_Calendar.personal]] 
 
-### #is_/same_as :: [Gregorian_Calendar.secret](/_secret/ISO/Calendar/Gregorian_Calendar.secret.md)
+### #is_/same_as :: [[/_secret/ISO/Calendar/Gregorian_Calendar.secret|Gregorian_Calendar.secret]] 
 

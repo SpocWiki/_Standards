@@ -146,17 +146,17 @@ Krugosvet_article_archived_: kultura_i_obrazovanie/literatura/VONNEGUT_KURT.html
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Vonnegut,Kurt](/_Standards/Society/Communication/Media/Writing/Book/Writer/US_Writer/Vonnegut,Kurt.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Writer/US_Writer/Vonnegut,Kurt|Vonnegut,Kurt]] 
 
-### #is_/same_as :: [Vonnegut,Kurt.public](/_public/Society/Communication/Media/Writing/Book/Writer/US_Writer/Vonnegut,Kurt.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Writer/US_Writer/Vonnegut,Kurt.public|Vonnegut,Kurt.public]] 
 
-### #is_/same_as :: [Vonnegut,Kurt.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/US_Writer/Vonnegut,Kurt.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Writer/US_Writer/Vonnegut,Kurt.internal|Vonnegut,Kurt.internal]] 
 
-### #is_/same_as :: [Vonnegut,Kurt.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/US_Writer/Vonnegut,Kurt.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Writer/US_Writer/Vonnegut,Kurt.protect|Vonnegut,Kurt.protect]] 
 
-### #is_/same_as :: [Vonnegut,Kurt.private](/_private/Society/Communication/Media/Writing/Book/Writer/US_Writer/Vonnegut,Kurt.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Writer/US_Writer/Vonnegut,Kurt.private|Vonnegut,Kurt.private]] 
 
-### #is_/same_as :: [Vonnegut,Kurt.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/US_Writer/Vonnegut,Kurt.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Writer/US_Writer/Vonnegut,Kurt.personal|Vonnegut,Kurt.personal]] 
 
-### #is_/same_as :: [Vonnegut,Kurt.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/US_Writer/Vonnegut,Kurt.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Writer/US_Writer/Vonnegut,Kurt.secret|Vonnegut,Kurt.secret]] 
 

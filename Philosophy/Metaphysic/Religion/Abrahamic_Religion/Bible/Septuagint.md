@@ -69,17 +69,17 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Codex%20Marchalianus%2
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Septuagint](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Bible/Septuagint.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Bible/Septuagint|Septuagint]] 
 
-### #is_/same_as :: [Septuagint.public](/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Bible/Septuagint.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Bible/Septuagint.public|Septuagint.public]] 
 
-### #is_/same_as :: [Septuagint.internal](/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Bible/Septuagint.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Bible/Septuagint.internal|Septuagint.internal]] 
 
-### #is_/same_as :: [Septuagint.protect](/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Bible/Septuagint.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Bible/Septuagint.protect|Septuagint.protect]] 
 
-### #is_/same_as :: [Septuagint.private](/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Bible/Septuagint.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Bible/Septuagint.private|Septuagint.private]] 
 
-### #is_/same_as :: [Septuagint.personal](/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Bible/Septuagint.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Bible/Septuagint.personal|Septuagint.personal]] 
 
-### #is_/same_as :: [Septuagint.secret](/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Bible/Septuagint.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Bible/Septuagint.secret|Septuagint.secret]] 
 

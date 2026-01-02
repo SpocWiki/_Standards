@@ -78,17 +78,17 @@ U_S_National_Archives_Identifier: 10581376
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Louis,Joe](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Boxing/Louis,Joe.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Boxing/Louis,Joe|Louis,Joe]] 
 
-### #is_/same_as :: [Louis,Joe.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Boxing/Louis,Joe.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Boxing/Louis,Joe.public|Louis,Joe.public]] 
 
-### #is_/same_as :: [Louis,Joe.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Boxing/Louis,Joe.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Boxing/Louis,Joe.internal|Louis,Joe.internal]] 
 
-### #is_/same_as :: [Louis,Joe.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Boxing/Louis,Joe.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Boxing/Louis,Joe.protect|Louis,Joe.protect]] 
 
-### #is_/same_as :: [Louis,Joe.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Boxing/Louis,Joe.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Boxing/Louis,Joe.private|Louis,Joe.private]] 
 
-### #is_/same_as :: [Louis,Joe.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Boxing/Louis,Joe.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Boxing/Louis,Joe.personal|Louis,Joe.personal]] 
 
-### #is_/same_as :: [Louis,Joe.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Boxing/Louis,Joe.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Boxing/Louis,Joe.secret|Louis,Joe.secret]] 
 

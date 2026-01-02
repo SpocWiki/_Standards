@@ -80,17 +80,17 @@ Know_Your_Meme_slug: schrodingers-cat
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Schrödinger's_Cat](/_Standards/Science/Physics/Quantum_Mechanics/Schrödinger's_Cat.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Quantum_Mechanics/Schrödinger's_Cat|Schrödinger's_Cat]] 
 
-### #is_/same_as :: [Schrödinger's_Cat.public](/_public/Science/Physics/Quantum_Mechanics/Schrödinger's_Cat.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Quantum_Mechanics/Schrödinger's_Cat.public|Schrödinger's_Cat.public]] 
 
-### #is_/same_as :: [Schrödinger's_Cat.internal](/_internal/Science/Physics/Quantum_Mechanics/Schrödinger's_Cat.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Quantum_Mechanics/Schrödinger's_Cat.internal|Schrödinger's_Cat.internal]] 
 
-### #is_/same_as :: [Schrödinger's_Cat.protect](/_protect/Science/Physics/Quantum_Mechanics/Schrödinger's_Cat.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Quantum_Mechanics/Schrödinger's_Cat.protect|Schrödinger's_Cat.protect]] 
 
-### #is_/same_as :: [Schrödinger's_Cat.private](/_private/Science/Physics/Quantum_Mechanics/Schrödinger's_Cat.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Quantum_Mechanics/Schrödinger's_Cat.private|Schrödinger's_Cat.private]] 
 
-### #is_/same_as :: [Schrödinger's_Cat.personal](/_personal/Science/Physics/Quantum_Mechanics/Schrödinger's_Cat.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Quantum_Mechanics/Schrödinger's_Cat.personal|Schrödinger's_Cat.personal]] 
 
-### #is_/same_as :: [Schrödinger's_Cat.secret](/_secret/Science/Physics/Quantum_Mechanics/Schrödinger's_Cat.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Quantum_Mechanics/Schrödinger's_Cat.secret|Schrödinger's_Cat.secret]] 
 

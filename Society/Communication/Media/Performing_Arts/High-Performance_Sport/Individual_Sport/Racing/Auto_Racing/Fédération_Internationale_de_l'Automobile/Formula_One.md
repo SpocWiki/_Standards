@@ -87,17 +87,17 @@ described_at_URL: https://thethaotocdo.vn/f1/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Formula_One](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Racing/Auto_Racing/Fédération_Internationale_de_l'Automobile/Formula_One.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Racing/Auto_Racing/Fédération_Internationale_de_l'Automobile/Formula_One|Formula_One]] 
 
-### #is_/same_as :: [Formula_One.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Racing/Auto_Racing/Fédération_Internationale_de_l'Automobile/Formula_One.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Racing/Auto_Racing/Fédération_Internationale_de_l'Automobile/Formula_One.public|Formula_One.public]] 
 
-### #is_/same_as :: [Formula_One.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Racing/Auto_Racing/Fédération_Internationale_de_l'Automobile/Formula_One.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Racing/Auto_Racing/Fédération_Internationale_de_l'Automobile/Formula_One.internal|Formula_One.internal]] 
 
-### #is_/same_as :: [Formula_One.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Racing/Auto_Racing/Fédération_Internationale_de_l'Automobile/Formula_One.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Racing/Auto_Racing/Fédération_Internationale_de_l'Automobile/Formula_One.protect|Formula_One.protect]] 
 
-### #is_/same_as :: [Formula_One.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Racing/Auto_Racing/Fédération_Internationale_de_l'Automobile/Formula_One.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Racing/Auto_Racing/Fédération_Internationale_de_l'Automobile/Formula_One.private|Formula_One.private]] 
 
-### #is_/same_as :: [Formula_One.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Racing/Auto_Racing/Fédération_Internationale_de_l'Automobile/Formula_One.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Racing/Auto_Racing/Fédération_Internationale_de_l'Automobile/Formula_One.personal|Formula_One.personal]] 
 
-### #is_/same_as :: [Formula_One.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Racing/Auto_Racing/Fédération_Internationale_de_l'Automobile/Formula_One.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Racing/Auto_Racing/Fédération_Internationale_de_l'Automobile/Formula_One.secret|Formula_One.secret]] 
 

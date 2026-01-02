@@ -53,17 +53,17 @@ Commons_category: Herbivores
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Herbivore](/_Standards/bio/Metabolism/Herbivore.md) 
+### #is_/same_as :: [[/_Standards/bio/Metabolism/Herbivore|Herbivore]] 
 
-### #is_/same_as :: [Herbivore.public](/_public/bio/Metabolism/Herbivore.public.md) 
+### #is_/same_as :: [[/_public/bio/Metabolism/Herbivore.public|Herbivore.public]] 
 
-### #is_/same_as :: [Herbivore.internal](/_internal/bio/Metabolism/Herbivore.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Metabolism/Herbivore.internal|Herbivore.internal]] 
 
-### #is_/same_as :: [Herbivore.protect](/_protect/bio/Metabolism/Herbivore.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Metabolism/Herbivore.protect|Herbivore.protect]] 
 
-### #is_/same_as :: [Herbivore.private](/_private/bio/Metabolism/Herbivore.private.md) 
+### #is_/same_as :: [[/_private/bio/Metabolism/Herbivore.private|Herbivore.private]] 
 
-### #is_/same_as :: [Herbivore.personal](/_personal/bio/Metabolism/Herbivore.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Metabolism/Herbivore.personal|Herbivore.personal]] 
 
-### #is_/same_as :: [Herbivore.secret](/_secret/bio/Metabolism/Herbivore.secret.md)
+### #is_/same_as :: [[/_secret/bio/Metabolism/Herbivore.secret|Herbivore.secret]] 
 

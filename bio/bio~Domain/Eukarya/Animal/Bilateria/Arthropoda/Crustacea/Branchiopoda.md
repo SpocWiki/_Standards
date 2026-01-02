@@ -22,7 +22,7 @@ UMLS_CUI: C0596222
 
 # [[Branchiopoda]] 
 
-![Tadpole shrimp](Branchiopoda/Lepidurus_packardi0261.jpg))
+![Tadpole shrimp](Branchiopoda/Lepidurus_packardi0261.jpg) 
 
 #is_/same_as :: [[../../../../../../../WikiData/WD~Branchiopoda,188360|WD~Branchiopoda,188360]] 
 
@@ -63,7 +63,7 @@ UMLS_CUI: C0596222
 ## Title Illustrations
 
 --------------------- 
-![Tadpole shrimp](Branchiopoda/Lepidurus_packardi0261.jpg))
+![Tadpole shrimp](Branchiopoda/Lepidurus_packardi0261.jpg) 
 Scientific Name ::     Lepidurus packardi
 Location ::           Shasta County, California, USA
 Comments             Tadpole shrimp
@@ -74,17 +74,17 @@ Copyright ::            © 1999 [William Leonard](mailto:mollusca1@attbi.com)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Branchiopoda](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Branchiopoda.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Branchiopoda|Branchiopoda]] 
 
-### #is_/same_as :: [Branchiopoda.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Branchiopoda.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Branchiopoda.public|Branchiopoda.public]] 
 
-### #is_/same_as :: [Branchiopoda.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Branchiopoda.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Branchiopoda.internal|Branchiopoda.internal]] 
 
-### #is_/same_as :: [Branchiopoda.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Branchiopoda.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Branchiopoda.protect|Branchiopoda.protect]] 
 
-### #is_/same_as :: [Branchiopoda.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Branchiopoda.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Branchiopoda.private|Branchiopoda.private]] 
 
-### #is_/same_as :: [Branchiopoda.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Branchiopoda.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Branchiopoda.personal|Branchiopoda.personal]] 
 
-### #is_/same_as :: [Branchiopoda.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Branchiopoda.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Branchiopoda.secret|Branchiopoda.secret]] 
 

@@ -49,17 +49,17 @@ Libris_URI: rp354zk92xjz0wg
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Malay_Peninsula](/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Peninsula.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Peninsula|Malay_Peninsula]] 
 
-### #is_/same_as :: [Malay_Peninsula.public](/_public/Earth/Continent/Asia/Asia~South~East/Malay_Peninsula.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~South~East/Malay_Peninsula.public|Malay_Peninsula.public]] 
 
-### #is_/same_as :: [Malay_Peninsula.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Peninsula.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Peninsula.internal|Malay_Peninsula.internal]] 
 
-### #is_/same_as :: [Malay_Peninsula.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Peninsula.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Peninsula.protect|Malay_Peninsula.protect]] 
 
-### #is_/same_as :: [Malay_Peninsula.private](/_private/Earth/Continent/Asia/Asia~South~East/Malay_Peninsula.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~South~East/Malay_Peninsula.private|Malay_Peninsula.private]] 
 
-### #is_/same_as :: [Malay_Peninsula.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Peninsula.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Peninsula.personal|Malay_Peninsula.personal]] 
 
-### #is_/same_as :: [Malay_Peninsula.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Peninsula.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Peninsula.secret|Malay_Peninsula.secret]] 
 

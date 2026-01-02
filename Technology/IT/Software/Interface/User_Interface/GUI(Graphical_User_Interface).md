@@ -56,17 +56,17 @@ short_name: графический
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [GUI(Graphical_User_Interface)](/_Standards/Technology/IT/Software/Interface/User_Interface/GUI(Graphical_User_Interface).md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Software/Interface/User_Interface/GUI(Graphical_User_Interface)|GUI(Graphical_User_Interface)]] 
 
-### #is_/same_as :: [GUI(Graphical_User_Interface).public](/_public/Technology/IT/Software/Interface/User_Interface/GUI(Graphical_User_Interface).public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Software/Interface/User_Interface/GUI(Graphical_User_Interface).public|GUI(Graphical_User_Interface).public]] 
 
-### #is_/same_as :: [GUI(Graphical_User_Interface).internal](/_internal/Technology/IT/Software/Interface/User_Interface/GUI(Graphical_User_Interface).internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Software/Interface/User_Interface/GUI(Graphical_User_Interface).internal|GUI(Graphical_User_Interface).internal]] 
 
-### #is_/same_as :: [GUI(Graphical_User_Interface).protect](/_protect/Technology/IT/Software/Interface/User_Interface/GUI(Graphical_User_Interface).protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Software/Interface/User_Interface/GUI(Graphical_User_Interface).protect|GUI(Graphical_User_Interface).protect]] 
 
-### #is_/same_as :: [GUI(Graphical_User_Interface).private](/_private/Technology/IT/Software/Interface/User_Interface/GUI(Graphical_User_Interface).private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Software/Interface/User_Interface/GUI(Graphical_User_Interface).private|GUI(Graphical_User_Interface).private]] 
 
-### #is_/same_as :: [GUI(Graphical_User_Interface).personal](/_personal/Technology/IT/Software/Interface/User_Interface/GUI(Graphical_User_Interface).personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Software/Interface/User_Interface/GUI(Graphical_User_Interface).personal|GUI(Graphical_User_Interface).personal]] 
 
-### #is_/same_as :: [GUI(Graphical_User_Interface).secret](/_secret/Technology/IT/Software/Interface/User_Interface/GUI(Graphical_User_Interface).secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Software/Interface/User_Interface/GUI(Graphical_User_Interface).secret|GUI(Graphical_User_Interface).secret]] 
 

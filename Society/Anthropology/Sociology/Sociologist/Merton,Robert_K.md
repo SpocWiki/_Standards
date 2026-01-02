@@ -117,17 +117,17 @@ date_of_birth: 1910-07-04T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Merton,Robert_K](/_Standards/Society/Anthropology/Sociology/Sociologist/Merton,Robert_K.md) 
+### #is_/same_as :: [[/_Standards/Society/Anthropology/Sociology/Sociologist/Merton,Robert_K|Merton,Robert_K]] 
 
-### #is_/same_as :: [Merton,Robert_K.public](/_public/Society/Anthropology/Sociology/Sociologist/Merton,Robert_K.public.md) 
+### #is_/same_as :: [[/_public/Society/Anthropology/Sociology/Sociologist/Merton,Robert_K.public|Merton,Robert_K.public]] 
 
-### #is_/same_as :: [Merton,Robert_K.internal](/_internal/Society/Anthropology/Sociology/Sociologist/Merton,Robert_K.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Anthropology/Sociology/Sociologist/Merton,Robert_K.internal|Merton,Robert_K.internal]] 
 
-### #is_/same_as :: [Merton,Robert_K.protect](/_protect/Society/Anthropology/Sociology/Sociologist/Merton,Robert_K.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Anthropology/Sociology/Sociologist/Merton,Robert_K.protect|Merton,Robert_K.protect]] 
 
-### #is_/same_as :: [Merton,Robert_K.private](/_private/Society/Anthropology/Sociology/Sociologist/Merton,Robert_K.private.md) 
+### #is_/same_as :: [[/_private/Society/Anthropology/Sociology/Sociologist/Merton,Robert_K.private|Merton,Robert_K.private]] 
 
-### #is_/same_as :: [Merton,Robert_K.personal](/_personal/Society/Anthropology/Sociology/Sociologist/Merton,Robert_K.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Anthropology/Sociology/Sociologist/Merton,Robert_K.personal|Merton,Robert_K.personal]] 
 
-### #is_/same_as :: [Merton,Robert_K.secret](/_secret/Society/Anthropology/Sociology/Sociologist/Merton,Robert_K.secret.md)
+### #is_/same_as :: [[/_secret/Society/Anthropology/Sociology/Sociologist/Merton,Robert_K.secret|Merton,Robert_K.secret]] 
 

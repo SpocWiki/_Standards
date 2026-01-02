@@ -189,17 +189,17 @@ Copyright ::         © 2005 [Roger R. Seapy](mailto:rseapy@fullerton.edu)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Atlanta](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Gastropoda/Caenogastropoda/Pterotracheoidea/Atlantidae/Atlanta.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Gastropoda/Caenogastropoda/Pterotracheoidea/Atlantidae/Atlanta|Atlanta]] 
 
-### #is_/same_as :: [Atlanta.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Gastropoda/Caenogastropoda/Pterotracheoidea/Atlantidae/Atlanta.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Gastropoda/Caenogastropoda/Pterotracheoidea/Atlantidae/Atlanta.public|Atlanta.public]] 
 
-### #is_/same_as :: [Atlanta.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Gastropoda/Caenogastropoda/Pterotracheoidea/Atlantidae/Atlanta.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Gastropoda/Caenogastropoda/Pterotracheoidea/Atlantidae/Atlanta.internal|Atlanta.internal]] 
 
-### #is_/same_as :: [Atlanta.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Gastropoda/Caenogastropoda/Pterotracheoidea/Atlantidae/Atlanta.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Gastropoda/Caenogastropoda/Pterotracheoidea/Atlantidae/Atlanta.protect|Atlanta.protect]] 
 
-### #is_/same_as :: [Atlanta.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Gastropoda/Caenogastropoda/Pterotracheoidea/Atlantidae/Atlanta.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Gastropoda/Caenogastropoda/Pterotracheoidea/Atlantidae/Atlanta.private|Atlanta.private]] 
 
-### #is_/same_as :: [Atlanta.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Gastropoda/Caenogastropoda/Pterotracheoidea/Atlantidae/Atlanta.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Gastropoda/Caenogastropoda/Pterotracheoidea/Atlantidae/Atlanta.personal|Atlanta.personal]] 
 
-### #is_/same_as :: [Atlanta.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Gastropoda/Caenogastropoda/Pterotracheoidea/Atlantidae/Atlanta.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Gastropoda/Caenogastropoda/Pterotracheoidea/Atlantidae/Atlanta.secret|Atlanta.secret]] 
 

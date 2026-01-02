@@ -41,17 +41,17 @@ A real-estate agent.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Real_Estate_Agent](/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Real_Estate_Agent.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Real_Estate_Agent|Real_Estate_Agent]] 
 
-### #is_/same_as :: [Real_Estate_Agent.public](/_public/Society/Agent/Community/Organization/Business/Local_Business/Real_Estate_Agent.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Business/Local_Business/Real_Estate_Agent.public|Real_Estate_Agent.public]] 
 
-### #is_/same_as :: [Real_Estate_Agent.internal](/_internal/Society/Agent/Community/Organization/Business/Local_Business/Real_Estate_Agent.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Business/Local_Business/Real_Estate_Agent.internal|Real_Estate_Agent.internal]] 
 
-### #is_/same_as :: [Real_Estate_Agent.protect](/_protect/Society/Agent/Community/Organization/Business/Local_Business/Real_Estate_Agent.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Business/Local_Business/Real_Estate_Agent.protect|Real_Estate_Agent.protect]] 
 
-### #is_/same_as :: [Real_Estate_Agent.private](/_private/Society/Agent/Community/Organization/Business/Local_Business/Real_Estate_Agent.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Business/Local_Business/Real_Estate_Agent.private|Real_Estate_Agent.private]] 
 
-### #is_/same_as :: [Real_Estate_Agent.personal](/_personal/Society/Agent/Community/Organization/Business/Local_Business/Real_Estate_Agent.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Business/Local_Business/Real_Estate_Agent.personal|Real_Estate_Agent.personal]] 
 
-### #is_/same_as :: [Real_Estate_Agent.secret](/_secret/Society/Agent/Community/Organization/Business/Local_Business/Real_Estate_Agent.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Business/Local_Business/Real_Estate_Agent.secret|Real_Estate_Agent.secret]] 
 

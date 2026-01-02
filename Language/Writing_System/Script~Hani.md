@@ -14,17 +14,17 @@ Hanja Script is used less commonly in [[../Language_Family/LangFamily-Koreanic/L
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Script~Hani](/_Standards/Language/Writing_System/Script~Hani.md) 
+### #is_/same_as :: [[/_Standards/Language/Writing_System/Script~Hani|Script~Hani]] 
 
-### #is_/same_as :: [Script~Hani.public](/_public/Language/Writing_System/Script~Hani.public.md) 
+### #is_/same_as :: [[/_public/Language/Writing_System/Script~Hani.public|Script~Hani.public]] 
 
-### #is_/same_as :: [Script~Hani.internal](/_internal/Language/Writing_System/Script~Hani.internal.md) 
+### #is_/same_as :: [[/_internal/Language/Writing_System/Script~Hani.internal|Script~Hani.internal]] 
 
-### #is_/same_as :: [Script~Hani.protect](/_protect/Language/Writing_System/Script~Hani.protect.md) 
+### #is_/same_as :: [[/_protect/Language/Writing_System/Script~Hani.protect|Script~Hani.protect]] 
 
-### #is_/same_as :: [Script~Hani.private](/_private/Language/Writing_System/Script~Hani.private.md) 
+### #is_/same_as :: [[/_private/Language/Writing_System/Script~Hani.private|Script~Hani.private]] 
 
-### #is_/same_as :: [Script~Hani.personal](/_personal/Language/Writing_System/Script~Hani.personal.md) 
+### #is_/same_as :: [[/_personal/Language/Writing_System/Script~Hani.personal|Script~Hani.personal]] 
 
-### #is_/same_as :: [Script~Hani.secret](/_secret/Language/Writing_System/Script~Hani.secret.md)
+### #is_/same_as :: [[/_secret/Language/Writing_System/Script~Hani.secret|Script~Hani.secret]] 
 

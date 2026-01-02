@@ -43,17 +43,17 @@ PhilPapers_topic: medieval-philosophy-topics
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Medieval_Philosophy](/_Standards/Philosophy/Epistemology/Medieval_Philosophy.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Epistemology/Medieval_Philosophy|Medieval_Philosophy]] 
 
-### #is_/same_as :: [Medieval_Philosophy.public](/_public/Philosophy/Epistemology/Medieval_Philosophy.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Epistemology/Medieval_Philosophy.public|Medieval_Philosophy.public]] 
 
-### #is_/same_as :: [Medieval_Philosophy.internal](/_internal/Philosophy/Epistemology/Medieval_Philosophy.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Epistemology/Medieval_Philosophy.internal|Medieval_Philosophy.internal]] 
 
-### #is_/same_as :: [Medieval_Philosophy.protect](/_protect/Philosophy/Epistemology/Medieval_Philosophy.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Epistemology/Medieval_Philosophy.protect|Medieval_Philosophy.protect]] 
 
-### #is_/same_as :: [Medieval_Philosophy.private](/_private/Philosophy/Epistemology/Medieval_Philosophy.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Epistemology/Medieval_Philosophy.private|Medieval_Philosophy.private]] 
 
-### #is_/same_as :: [Medieval_Philosophy.personal](/_personal/Philosophy/Epistemology/Medieval_Philosophy.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Epistemology/Medieval_Philosophy.personal|Medieval_Philosophy.personal]] 
 
-### #is_/same_as :: [Medieval_Philosophy.secret](/_secret/Philosophy/Epistemology/Medieval_Philosophy.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Epistemology/Medieval_Philosophy.secret|Medieval_Philosophy.secret]] 
 

@@ -37,17 +37,17 @@ The act of stopping or deactivating a device or application (e.g. stopping a tim
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~DeactivateAction](/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~ControlAction/FileClass~DeactivateAction.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~ControlAction/FileClass~DeactivateAction|FileClass~DeactivateAction]] 
 
-### #is_/same_as :: [FileClass~DeactivateAction.public](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~ControlAction/FileClass~DeactivateAction.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~ControlAction/FileClass~DeactivateAction.public|FileClass~DeactivateAction.public]] 
 
-### #is_/same_as :: [FileClass~DeactivateAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~ControlAction/FileClass~DeactivateAction.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~ControlAction/FileClass~DeactivateAction.internal|FileClass~DeactivateAction.internal]] 
 
-### #is_/same_as :: [FileClass~DeactivateAction.protect](/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~ControlAction/FileClass~DeactivateAction.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~ControlAction/FileClass~DeactivateAction.protect|FileClass~DeactivateAction.protect]] 
 
-### #is_/same_as :: [FileClass~DeactivateAction.private](/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~ControlAction/FileClass~DeactivateAction.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~ControlAction/FileClass~DeactivateAction.private|FileClass~DeactivateAction.private]] 
 
-### #is_/same_as :: [FileClass~DeactivateAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~ControlAction/FileClass~DeactivateAction.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~ControlAction/FileClass~DeactivateAction.personal|FileClass~DeactivateAction.personal]] 
 
-### #is_/same_as :: [FileClass~DeactivateAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~ControlAction/FileClass~DeactivateAction.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~ControlAction/FileClass~DeactivateAction.secret|FileClass~DeactivateAction.secret]] 
 

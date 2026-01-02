@@ -139,17 +139,17 @@ ToRecipient:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/T
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~Message](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Message.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Message|FileClass~Message]] 
 
-### #is_/same_as :: [FileClass~Message.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Message.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Message.public|FileClass~Message.public]] 
 
-### #is_/same_as :: [FileClass~Message.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Message.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Message.internal|FileClass~Message.internal]] 
 
-### #is_/same_as :: [FileClass~Message.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Message.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Message.protect|FileClass~Message.protect]] 
 
-### #is_/same_as :: [FileClass~Message.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Message.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Message.private|FileClass~Message.private]] 
 
-### #is_/same_as :: [FileClass~Message.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Message.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Message.personal|FileClass~Message.personal]] 
 
-### #is_/same_as :: [FileClass~Message.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Message.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Message.secret|FileClass~Message.secret]] 
 

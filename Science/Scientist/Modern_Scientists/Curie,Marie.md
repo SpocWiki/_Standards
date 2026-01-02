@@ -245,17 +245,17 @@ writing_language:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Curie,Marie](/_Standards/Science/Scientist/Modern_Scientists/Curie,Marie.md) 
+### #is_/same_as :: [[/_Standards/Science/Scientist/Modern_Scientists/Curie,Marie|Curie,Marie]] 
 
-### #is_/same_as :: [Curie,Marie.public](/_public/Science/Scientist/Modern_Scientists/Curie,Marie.public.md) 
+### #is_/same_as :: [[/_public/Science/Scientist/Modern_Scientists/Curie,Marie.public|Curie,Marie.public]] 
 
-### #is_/same_as :: [Curie,Marie.internal](/_internal/Science/Scientist/Modern_Scientists/Curie,Marie.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Scientist/Modern_Scientists/Curie,Marie.internal|Curie,Marie.internal]] 
 
-### #is_/same_as :: [Curie,Marie.protect](/_protect/Science/Scientist/Modern_Scientists/Curie,Marie.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Scientist/Modern_Scientists/Curie,Marie.protect|Curie,Marie.protect]] 
 
-### #is_/same_as :: [Curie,Marie.private](/_private/Science/Scientist/Modern_Scientists/Curie,Marie.private.md) 
+### #is_/same_as :: [[/_private/Science/Scientist/Modern_Scientists/Curie,Marie.private|Curie,Marie.private]] 
 
-### #is_/same_as :: [Curie,Marie.personal](/_personal/Science/Scientist/Modern_Scientists/Curie,Marie.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Scientist/Modern_Scientists/Curie,Marie.personal|Curie,Marie.personal]] 
 
-### #is_/same_as :: [Curie,Marie.secret](/_secret/Science/Scientist/Modern_Scientists/Curie,Marie.secret.md)
+### #is_/same_as :: [[/_secret/Science/Scientist/Modern_Scientists/Curie,Marie.secret|Curie,Marie.secret]] 
 

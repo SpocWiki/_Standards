@@ -61,17 +61,17 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Farming](/_Standards/Society/Economics/Industry/Agriculture/Farming.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Industry/Agriculture/Farming|Farming]] 
 
-### #is_/same_as :: [Farming.public](/_public/Society/Economics/Industry/Agriculture/Farming.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Industry/Agriculture/Farming.public|Farming.public]] 
 
-### #is_/same_as :: [Farming.internal](/_internal/Society/Economics/Industry/Agriculture/Farming.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Industry/Agriculture/Farming.internal|Farming.internal]] 
 
-### #is_/same_as :: [Farming.protect](/_protect/Society/Economics/Industry/Agriculture/Farming.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Industry/Agriculture/Farming.protect|Farming.protect]] 
 
-### #is_/same_as :: [Farming.private](/_private/Society/Economics/Industry/Agriculture/Farming.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Industry/Agriculture/Farming.private|Farming.private]] 
 
-### #is_/same_as :: [Farming.personal](/_personal/Society/Economics/Industry/Agriculture/Farming.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Industry/Agriculture/Farming.personal|Farming.personal]] 
 
-### #is_/same_as :: [Farming.secret](/_secret/Society/Economics/Industry/Agriculture/Farming.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Industry/Agriculture/Farming.secret|Farming.secret]] 
 

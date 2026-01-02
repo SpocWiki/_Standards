@@ -48,17 +48,17 @@ CauseOf:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~MedicalCause](/_Standards/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalCause.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalCause|FileClass~MedicalCause]] 
 
-### #is_/same_as :: [FileClass~MedicalCause.public](/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalCause.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalCause.public|FileClass~MedicalCause.public]] 
 
-### #is_/same_as :: [FileClass~MedicalCause.internal](/_internal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalCause.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalCause.internal|FileClass~MedicalCause.internal]] 
 
-### #is_/same_as :: [FileClass~MedicalCause.protect](/_protect/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalCause.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalCause.protect|FileClass~MedicalCause.protect]] 
 
-### #is_/same_as :: [FileClass~MedicalCause.private](/_private/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalCause.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalCause.private|FileClass~MedicalCause.private]] 
 
-### #is_/same_as :: [FileClass~MedicalCause.personal](/_personal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalCause.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalCause.personal|FileClass~MedicalCause.personal]] 
 
-### #is_/same_as :: [FileClass~MedicalCause.secret](/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalCause.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalCause.secret|FileClass~MedicalCause.secret]] 
 

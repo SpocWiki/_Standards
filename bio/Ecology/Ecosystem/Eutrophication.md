@@ -50,17 +50,17 @@ MeSH_tree_code: G16.500.285
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Eutrophication](/_Standards/bio/Ecology/Ecosystem/Eutrophication.md) 
+### #is_/same_as :: [[/_Standards/bio/Ecology/Ecosystem/Eutrophication|Eutrophication]] 
 
-### #is_/same_as :: [Eutrophication.public](/_public/bio/Ecology/Ecosystem/Eutrophication.public.md) 
+### #is_/same_as :: [[/_public/bio/Ecology/Ecosystem/Eutrophication.public|Eutrophication.public]] 
 
-### #is_/same_as :: [Eutrophication.internal](/_internal/bio/Ecology/Ecosystem/Eutrophication.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Ecology/Ecosystem/Eutrophication.internal|Eutrophication.internal]] 
 
-### #is_/same_as :: [Eutrophication.protect](/_protect/bio/Ecology/Ecosystem/Eutrophication.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Ecology/Ecosystem/Eutrophication.protect|Eutrophication.protect]] 
 
-### #is_/same_as :: [Eutrophication.private](/_private/bio/Ecology/Ecosystem/Eutrophication.private.md) 
+### #is_/same_as :: [[/_private/bio/Ecology/Ecosystem/Eutrophication.private|Eutrophication.private]] 
 
-### #is_/same_as :: [Eutrophication.personal](/_personal/bio/Ecology/Ecosystem/Eutrophication.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Ecology/Ecosystem/Eutrophication.personal|Eutrophication.personal]] 
 
-### #is_/same_as :: [Eutrophication.secret](/_secret/bio/Ecology/Ecosystem/Eutrophication.secret.md)
+### #is_/same_as :: [[/_secret/bio/Ecology/Ecosystem/Eutrophication.secret|Eutrophication.secret]] 
 

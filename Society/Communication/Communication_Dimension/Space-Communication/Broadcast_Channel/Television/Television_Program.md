@@ -81,17 +81,17 @@ Commons_category: Television programmes
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Television_Program](/_Standards/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program|Television_Program]] 
 
-### #is_/same_as :: [Television_Program.public](/_public/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program.public|Television_Program.public]] 
 
-### #is_/same_as :: [Television_Program.internal](/_internal/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program.internal|Television_Program.internal]] 
 
-### #is_/same_as :: [Television_Program.protect](/_protect/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program.protect|Television_Program.protect]] 
 
-### #is_/same_as :: [Television_Program.private](/_private/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program.private|Television_Program.private]] 
 
-### #is_/same_as :: [Television_Program.personal](/_personal/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program.personal|Television_Program.personal]] 
 
-### #is_/same_as :: [Television_Program.secret](/_secret/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program.secret|Television_Program.secret]] 
 

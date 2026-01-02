@@ -63,17 +63,17 @@ OpenStreetMap_tag: place=municipality
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Municipality](/_Standards/Earth/Geography/Place/Administrative_Area/Municipality.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geography/Place/Administrative_Area/Municipality|Municipality]] 
 
-### #is_/same_as :: [Municipality.public](/_public/Earth/Geography/Place/Administrative_Area/Municipality.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geography/Place/Administrative_Area/Municipality.public|Municipality.public]] 
 
-### #is_/same_as :: [Municipality.internal](/_internal/Earth/Geography/Place/Administrative_Area/Municipality.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geography/Place/Administrative_Area/Municipality.internal|Municipality.internal]] 
 
-### #is_/same_as :: [Municipality.protect](/_protect/Earth/Geography/Place/Administrative_Area/Municipality.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geography/Place/Administrative_Area/Municipality.protect|Municipality.protect]] 
 
-### #is_/same_as :: [Municipality.private](/_private/Earth/Geography/Place/Administrative_Area/Municipality.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geography/Place/Administrative_Area/Municipality.private|Municipality.private]] 
 
-### #is_/same_as :: [Municipality.personal](/_personal/Earth/Geography/Place/Administrative_Area/Municipality.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geography/Place/Administrative_Area/Municipality.personal|Municipality.personal]] 
 
-### #is_/same_as :: [Municipality.secret](/_secret/Earth/Geography/Place/Administrative_Area/Municipality.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geography/Place/Administrative_Area/Municipality.secret|Municipality.secret]] 
 

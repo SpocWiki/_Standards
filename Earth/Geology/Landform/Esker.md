@@ -33,17 +33,17 @@ OpenStreetMap_tag_or_key: Tag:landform=esker
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Esker](/_Standards/Earth/Geology/Landform/Esker.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geology/Landform/Esker|Esker]] 
 
-### #is_/same_as :: [Esker.public](/_public/Earth/Geology/Landform/Esker.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geology/Landform/Esker.public|Esker.public]] 
 
-### #is_/same_as :: [Esker.internal](/_internal/Earth/Geology/Landform/Esker.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geology/Landform/Esker.internal|Esker.internal]] 
 
-### #is_/same_as :: [Esker.protect](/_protect/Earth/Geology/Landform/Esker.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geology/Landform/Esker.protect|Esker.protect]] 
 
-### #is_/same_as :: [Esker.private](/_private/Earth/Geology/Landform/Esker.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geology/Landform/Esker.private|Esker.private]] 
 
-### #is_/same_as :: [Esker.personal](/_personal/Earth/Geology/Landform/Esker.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geology/Landform/Esker.personal|Esker.personal]] 
 
-### #is_/same_as :: [Esker.secret](/_secret/Earth/Geology/Landform/Esker.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geology/Landform/Esker.secret|Esker.secret]] 
 

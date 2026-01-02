@@ -190,17 +190,17 @@ writing_language: '[[_Standards/WikiData/WD~English,1860]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Welles,Orson](/_Standards/Society/Communication/Media/Writing/Book/Writer/English_Writer/Welles,Orson.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Writer/English_Writer/Welles,Orson|Welles,Orson]] 
 
-### #is_/same_as :: [Welles,Orson.public](/_public/Society/Communication/Media/Writing/Book/Writer/English_Writer/Welles,Orson.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Writer/English_Writer/Welles,Orson.public|Welles,Orson.public]] 
 
-### #is_/same_as :: [Welles,Orson.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/English_Writer/Welles,Orson.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Writer/English_Writer/Welles,Orson.internal|Welles,Orson.internal]] 
 
-### #is_/same_as :: [Welles,Orson.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/English_Writer/Welles,Orson.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Writer/English_Writer/Welles,Orson.protect|Welles,Orson.protect]] 
 
-### #is_/same_as :: [Welles,Orson.private](/_private/Society/Communication/Media/Writing/Book/Writer/English_Writer/Welles,Orson.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Writer/English_Writer/Welles,Orson.private|Welles,Orson.private]] 
 
-### #is_/same_as :: [Welles,Orson.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/English_Writer/Welles,Orson.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Writer/English_Writer/Welles,Orson.personal|Welles,Orson.personal]] 
 
-### #is_/same_as :: [Welles,Orson.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/English_Writer/Welles,Orson.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Writer/English_Writer/Welles,Orson.secret|Welles,Orson.secret]] 
 

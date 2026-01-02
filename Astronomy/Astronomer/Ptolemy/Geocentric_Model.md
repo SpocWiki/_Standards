@@ -35,17 +35,17 @@ Commons_category: Geocentric model
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Geocentric_Model](/_Standards/Astronomy/Astronomer/Ptolemy/Geocentric_Model.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Astronomer/Ptolemy/Geocentric_Model|Geocentric_Model]] 
 
-### #is_/same_as :: [Geocentric_Model.public](/_public/Astronomy/Astronomer/Ptolemy/Geocentric_Model.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Astronomer/Ptolemy/Geocentric_Model.public|Geocentric_Model.public]] 
 
-### #is_/same_as :: [Geocentric_Model.internal](/_internal/Astronomy/Astronomer/Ptolemy/Geocentric_Model.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Astronomer/Ptolemy/Geocentric_Model.internal|Geocentric_Model.internal]] 
 
-### #is_/same_as :: [Geocentric_Model.protect](/_protect/Astronomy/Astronomer/Ptolemy/Geocentric_Model.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Astronomer/Ptolemy/Geocentric_Model.protect|Geocentric_Model.protect]] 
 
-### #is_/same_as :: [Geocentric_Model.private](/_private/Astronomy/Astronomer/Ptolemy/Geocentric_Model.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Astronomer/Ptolemy/Geocentric_Model.private|Geocentric_Model.private]] 
 
-### #is_/same_as :: [Geocentric_Model.personal](/_personal/Astronomy/Astronomer/Ptolemy/Geocentric_Model.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Astronomer/Ptolemy/Geocentric_Model.personal|Geocentric_Model.personal]] 
 
-### #is_/same_as :: [Geocentric_Model.secret](/_secret/Astronomy/Astronomer/Ptolemy/Geocentric_Model.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Astronomer/Ptolemy/Geocentric_Model.secret|Geocentric_Model.secret]] 
 

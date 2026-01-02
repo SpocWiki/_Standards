@@ -106,17 +106,17 @@ work_period_start_: 1496-01-01T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Pizarro,Francisco](/_Standards/Earth/Explorer/Age_of_Discovery/Pizarro,Francisco.md) 
+### #is_/same_as :: [[/_Standards/Earth/Explorer/Age_of_Discovery/Pizarro,Francisco|Pizarro,Francisco]] 
 
-### #is_/same_as :: [Pizarro,Francisco.public](/_public/Earth/Explorer/Age_of_Discovery/Pizarro,Francisco.public.md) 
+### #is_/same_as :: [[/_public/Earth/Explorer/Age_of_Discovery/Pizarro,Francisco.public|Pizarro,Francisco.public]] 
 
-### #is_/same_as :: [Pizarro,Francisco.internal](/_internal/Earth/Explorer/Age_of_Discovery/Pizarro,Francisco.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Explorer/Age_of_Discovery/Pizarro,Francisco.internal|Pizarro,Francisco.internal]] 
 
-### #is_/same_as :: [Pizarro,Francisco.protect](/_protect/Earth/Explorer/Age_of_Discovery/Pizarro,Francisco.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Explorer/Age_of_Discovery/Pizarro,Francisco.protect|Pizarro,Francisco.protect]] 
 
-### #is_/same_as :: [Pizarro,Francisco.private](/_private/Earth/Explorer/Age_of_Discovery/Pizarro,Francisco.private.md) 
+### #is_/same_as :: [[/_private/Earth/Explorer/Age_of_Discovery/Pizarro,Francisco.private|Pizarro,Francisco.private]] 
 
-### #is_/same_as :: [Pizarro,Francisco.personal](/_personal/Earth/Explorer/Age_of_Discovery/Pizarro,Francisco.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Explorer/Age_of_Discovery/Pizarro,Francisco.personal|Pizarro,Francisco.personal]] 
 
-### #is_/same_as :: [Pizarro,Francisco.secret](/_secret/Earth/Explorer/Age_of_Discovery/Pizarro,Francisco.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Explorer/Age_of_Discovery/Pizarro,Francisco.secret|Pizarro,Francisco.secret]] 
 

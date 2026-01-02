@@ -42,17 +42,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_differential_diagnosis](/_Standards/schema-org/Relation/has/has_differential_diagnosis.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_differential_diagnosis|has_differential_diagnosis]] 
 
-### #is_/same_as :: [has_differential_diagnosis.public](/_public/schema-org/Relation/has/has_differential_diagnosis.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_differential_diagnosis.public|has_differential_diagnosis.public]] 
 
-### #is_/same_as :: [has_differential_diagnosis.internal](/_internal/schema-org/Relation/has/has_differential_diagnosis.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_differential_diagnosis.internal|has_differential_diagnosis.internal]] 
 
-### #is_/same_as :: [has_differential_diagnosis.protect](/_protect/schema-org/Relation/has/has_differential_diagnosis.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_differential_diagnosis.protect|has_differential_diagnosis.protect]] 
 
-### #is_/same_as :: [has_differential_diagnosis.private](/_private/schema-org/Relation/has/has_differential_diagnosis.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_differential_diagnosis.private|has_differential_diagnosis.private]] 
 
-### #is_/same_as :: [has_differential_diagnosis.personal](/_personal/schema-org/Relation/has/has_differential_diagnosis.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_differential_diagnosis.personal|has_differential_diagnosis.personal]] 
 
-### #is_/same_as :: [has_differential_diagnosis.secret](/_secret/schema-org/Relation/has/has_differential_diagnosis.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_differential_diagnosis.secret|has_differential_diagnosis.secret]] 
 

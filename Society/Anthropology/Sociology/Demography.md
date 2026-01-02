@@ -55,17 +55,17 @@ MeSH_tree_code:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Demography](/_Standards/Society/Anthropology/Sociology/Demography.md) 
+### #is_/same_as :: [[/_Standards/Society/Anthropology/Sociology/Demography|Demography]] 
 
-### #is_/same_as :: [Demography.public](/_public/Society/Anthropology/Sociology/Demography.public.md) 
+### #is_/same_as :: [[/_public/Society/Anthropology/Sociology/Demography.public|Demography.public]] 
 
-### #is_/same_as :: [Demography.internal](/_internal/Society/Anthropology/Sociology/Demography.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Anthropology/Sociology/Demography.internal|Demography.internal]] 
 
-### #is_/same_as :: [Demography.protect](/_protect/Society/Anthropology/Sociology/Demography.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Anthropology/Sociology/Demography.protect|Demography.protect]] 
 
-### #is_/same_as :: [Demography.private](/_private/Society/Anthropology/Sociology/Demography.private.md) 
+### #is_/same_as :: [[/_private/Society/Anthropology/Sociology/Demography.private|Demography.private]] 
 
-### #is_/same_as :: [Demography.personal](/_personal/Society/Anthropology/Sociology/Demography.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Anthropology/Sociology/Demography.personal|Demography.personal]] 
 
-### #is_/same_as :: [Demography.secret](/_secret/Society/Anthropology/Sociology/Demography.secret.md)
+### #is_/same_as :: [[/_secret/Society/Anthropology/Sociology/Demography.secret|Demography.secret]] 
 

@@ -73,17 +73,17 @@ and code page settings (`\ansicpgN`) offers a comprehensive solution for multili
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [RTF(Rich_Text_Format)](/_Standards/schema-org/Relation/has/RTF(Rich_Text_Format).md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/RTF(Rich_Text_Format)|RTF(Rich_Text_Format)]] 
 
-### #is_/same_as :: [RTF(Rich_Text_Format).public](/_public/schema-org/Relation/has/RTF(Rich_Text_Format).public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/RTF(Rich_Text_Format).public|RTF(Rich_Text_Format).public]] 
 
-### #is_/same_as :: [RTF(Rich_Text_Format).internal](/_internal/schema-org/Relation/has/RTF(Rich_Text_Format).internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/RTF(Rich_Text_Format).internal|RTF(Rich_Text_Format).internal]] 
 
-### #is_/same_as :: [RTF(Rich_Text_Format).protect](/_protect/schema-org/Relation/has/RTF(Rich_Text_Format).protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/RTF(Rich_Text_Format).protect|RTF(Rich_Text_Format).protect]] 
 
-### #is_/same_as :: [RTF(Rich_Text_Format).private](/_private/schema-org/Relation/has/RTF(Rich_Text_Format).private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/RTF(Rich_Text_Format).private|RTF(Rich_Text_Format).private]] 
 
-### #is_/same_as :: [RTF(Rich_Text_Format).personal](/_personal/schema-org/Relation/has/RTF(Rich_Text_Format).personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/RTF(Rich_Text_Format).personal|RTF(Rich_Text_Format).personal]] 
 
-### #is_/same_as :: [RTF(Rich_Text_Format).secret](/_secret/schema-org/Relation/has/RTF(Rich_Text_Format).secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/RTF(Rich_Text_Format).secret|RTF(Rich_Text_Format).secret]] 
 

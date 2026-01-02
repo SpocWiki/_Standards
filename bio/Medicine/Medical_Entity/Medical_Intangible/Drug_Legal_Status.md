@@ -41,17 +41,17 @@ The legal availability status of a medical drug.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Drug_Legal_Status](/_Standards/bio/Medicine/Medical_Entity/Medical_Intangible/Drug_Legal_Status.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Entity/Medical_Intangible/Drug_Legal_Status|Drug_Legal_Status]] 
 
-### #is_/same_as :: [Drug_Legal_Status.public](/_public/bio/Medicine/Medical_Entity/Medical_Intangible/Drug_Legal_Status.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Entity/Medical_Intangible/Drug_Legal_Status.public|Drug_Legal_Status.public]] 
 
-### #is_/same_as :: [Drug_Legal_Status.internal](/_internal/bio/Medicine/Medical_Entity/Medical_Intangible/Drug_Legal_Status.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Entity/Medical_Intangible/Drug_Legal_Status.internal|Drug_Legal_Status.internal]] 
 
-### #is_/same_as :: [Drug_Legal_Status.protect](/_protect/bio/Medicine/Medical_Entity/Medical_Intangible/Drug_Legal_Status.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Entity/Medical_Intangible/Drug_Legal_Status.protect|Drug_Legal_Status.protect]] 
 
-### #is_/same_as :: [Drug_Legal_Status.private](/_private/bio/Medicine/Medical_Entity/Medical_Intangible/Drug_Legal_Status.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Entity/Medical_Intangible/Drug_Legal_Status.private|Drug_Legal_Status.private]] 
 
-### #is_/same_as :: [Drug_Legal_Status.personal](/_personal/bio/Medicine/Medical_Entity/Medical_Intangible/Drug_Legal_Status.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Entity/Medical_Intangible/Drug_Legal_Status.personal|Drug_Legal_Status.personal]] 
 
-### #is_/same_as :: [Drug_Legal_Status.secret](/_secret/bio/Medicine/Medical_Entity/Medical_Intangible/Drug_Legal_Status.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Entity/Medical_Intangible/Drug_Legal_Status.secret|Drug_Legal_Status.secret]] 
 

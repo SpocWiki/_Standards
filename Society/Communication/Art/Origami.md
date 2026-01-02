@@ -48,17 +48,17 @@ Commons_gallery: 折り紙
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Origami](/_Standards/Society/Communication/Art/Origami.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Art/Origami|Origami]] 
 
-### #is_/same_as :: [Origami.public](/_public/Society/Communication/Art/Origami.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Art/Origami.public|Origami.public]] 
 
-### #is_/same_as :: [Origami.internal](/_internal/Society/Communication/Art/Origami.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Art/Origami.internal|Origami.internal]] 
 
-### #is_/same_as :: [Origami.protect](/_protect/Society/Communication/Art/Origami.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Art/Origami.protect|Origami.protect]] 
 
-### #is_/same_as :: [Origami.private](/_private/Society/Communication/Art/Origami.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Art/Origami.private|Origami.private]] 
 
-### #is_/same_as :: [Origami.personal](/_personal/Society/Communication/Art/Origami.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Art/Origami.personal|Origami.personal]] 
 
-### #is_/same_as :: [Origami.secret](/_secret/Society/Communication/Art/Origami.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Art/Origami.secret|Origami.secret]] 
 

@@ -116,17 +116,17 @@ MeSH_tree_code:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Permafrost](/_Standards/Earth/Climate/Permafrost.md) 
+### #is_/same_as :: [[/_Standards/Earth/Climate/Permafrost|Permafrost]] 
 
-### #is_/same_as :: [Permafrost.public](/_public/Earth/Climate/Permafrost.public.md) 
+### #is_/same_as :: [[/_public/Earth/Climate/Permafrost.public|Permafrost.public]] 
 
-### #is_/same_as :: [Permafrost.internal](/_internal/Earth/Climate/Permafrost.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Climate/Permafrost.internal|Permafrost.internal]] 
 
-### #is_/same_as :: [Permafrost.protect](/_protect/Earth/Climate/Permafrost.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Climate/Permafrost.protect|Permafrost.protect]] 
 
-### #is_/same_as :: [Permafrost.private](/_private/Earth/Climate/Permafrost.private.md) 
+### #is_/same_as :: [[/_private/Earth/Climate/Permafrost.private|Permafrost.private]] 
 
-### #is_/same_as :: [Permafrost.personal](/_personal/Earth/Climate/Permafrost.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Climate/Permafrost.personal|Permafrost.personal]] 
 
-### #is_/same_as :: [Permafrost.secret](/_secret/Earth/Climate/Permafrost.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Climate/Permafrost.secret|Permafrost.secret]] 
 

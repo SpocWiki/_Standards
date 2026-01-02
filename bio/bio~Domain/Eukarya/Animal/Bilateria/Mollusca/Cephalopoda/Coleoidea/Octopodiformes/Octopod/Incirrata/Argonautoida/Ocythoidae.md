@@ -178,7 +178,7 @@ Zool., 97: 1-159.
 
 ## Title Illustrations
 
-![](Ocythoidae/Ocythoe.jpg))
+![](Ocythoidae/Ocythoe.jpg) 
 
   ----------------
   Scientific Name ::  Ocythoe tuberculata
@@ -188,7 +188,7 @@ Zool., 97: 1-159.
   View              Lateral.
   Copyright ::         © 1996 Dorothy Petersen
   ----------------
-![](Ocythoidae/OcythoeDrawFem.jpg))
+![](Ocythoidae/OcythoeDrawFem.jpg) 
 
   ------------------------------------------------------------------------------
   Scientific Name ::   Ocythoe tuberculata
@@ -204,17 +204,17 @@ Zool., 97: 1-159.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ocythoidae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Incirrata/Argonautoida/Ocythoidae.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Incirrata/Argonautoida/Ocythoidae|Ocythoidae]] 
 
-### #is_/same_as :: [Ocythoidae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Incirrata/Argonautoida/Ocythoidae.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Incirrata/Argonautoida/Ocythoidae.public|Ocythoidae.public]] 
 
-### #is_/same_as :: [Ocythoidae.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Incirrata/Argonautoida/Ocythoidae.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Incirrata/Argonautoida/Ocythoidae.internal|Ocythoidae.internal]] 
 
-### #is_/same_as :: [Ocythoidae.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Incirrata/Argonautoida/Ocythoidae.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Incirrata/Argonautoida/Ocythoidae.protect|Ocythoidae.protect]] 
 
-### #is_/same_as :: [Ocythoidae.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Incirrata/Argonautoida/Ocythoidae.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Incirrata/Argonautoida/Ocythoidae.private|Ocythoidae.private]] 
 
-### #is_/same_as :: [Ocythoidae.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Incirrata/Argonautoida/Ocythoidae.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Incirrata/Argonautoida/Ocythoidae.personal|Ocythoidae.personal]] 
 
-### #is_/same_as :: [Ocythoidae.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Incirrata/Argonautoida/Ocythoidae.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Incirrata/Argonautoida/Ocythoidae.secret|Ocythoidae.secret]] 
 

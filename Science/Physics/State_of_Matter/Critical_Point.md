@@ -46,17 +46,17 @@ Commons_category: Critical point (thermodynamics)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Critical_Point](/_Standards/Science/Physics/State_of_Matter/Critical_Point.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/State_of_Matter/Critical_Point|Critical_Point]] 
 
-### #is_/same_as :: [Critical_Point.public](/_public/Science/Physics/State_of_Matter/Critical_Point.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/State_of_Matter/Critical_Point.public|Critical_Point.public]] 
 
-### #is_/same_as :: [Critical_Point.internal](/_internal/Science/Physics/State_of_Matter/Critical_Point.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/State_of_Matter/Critical_Point.internal|Critical_Point.internal]] 
 
-### #is_/same_as :: [Critical_Point.protect](/_protect/Science/Physics/State_of_Matter/Critical_Point.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/State_of_Matter/Critical_Point.protect|Critical_Point.protect]] 
 
-### #is_/same_as :: [Critical_Point.private](/_private/Science/Physics/State_of_Matter/Critical_Point.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/State_of_Matter/Critical_Point.private|Critical_Point.private]] 
 
-### #is_/same_as :: [Critical_Point.personal](/_personal/Science/Physics/State_of_Matter/Critical_Point.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/State_of_Matter/Critical_Point.personal|Critical_Point.personal]] 
 
-### #is_/same_as :: [Critical_Point.secret](/_secret/Science/Physics/State_of_Matter/Critical_Point.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/State_of_Matter/Critical_Point.secret|Critical_Point.secret]] 
 

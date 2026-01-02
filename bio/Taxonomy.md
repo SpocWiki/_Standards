@@ -69,17 +69,17 @@ exact_match:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Taxonomy](/_Standards/bio/Taxonomy.md) 
+### #is_/same_as :: [[/_Standards/bio/Taxonomy|Taxonomy]] 
 
-### #is_/same_as :: [Taxonomy.public](/_public/bio/Taxonomy.public.md) 
+### #is_/same_as :: [[/_public/bio/Taxonomy.public|Taxonomy.public]] 
 
-### #is_/same_as :: [Taxonomy.internal](/_internal/bio/Taxonomy.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Taxonomy.internal|Taxonomy.internal]] 
 
-### #is_/same_as :: [Taxonomy.protect](/_protect/bio/Taxonomy.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Taxonomy.protect|Taxonomy.protect]] 
 
-### #is_/same_as :: [Taxonomy.private](/_private/bio/Taxonomy.private.md) 
+### #is_/same_as :: [[/_private/bio/Taxonomy.private|Taxonomy.private]] 
 
-### #is_/same_as :: [Taxonomy.personal](/_personal/bio/Taxonomy.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Taxonomy.personal|Taxonomy.personal]] 
 
-### #is_/same_as :: [Taxonomy.secret](/_secret/bio/Taxonomy.secret.md)
+### #is_/same_as :: [[/_secret/bio/Taxonomy.secret|Taxonomy.secret]] 
 

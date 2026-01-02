@@ -61,17 +61,17 @@ audio: http://commons.wikimedia.org/wiki/Special:FilePath/Metalmania%20%28ISRC%2
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Heavy_Metal](/_Standards/Society/Communication/Media/Music/Music_Genre/Rock_Music/Heavy_Metal.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Music_Genre/Rock_Music/Heavy_Metal|Heavy_Metal]] 
 
-### #is_/same_as :: [Heavy_Metal.public](/_public/Society/Communication/Media/Music/Music_Genre/Rock_Music/Heavy_Metal.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Music_Genre/Rock_Music/Heavy_Metal.public|Heavy_Metal.public]] 
 
-### #is_/same_as :: [Heavy_Metal.internal](/_internal/Society/Communication/Media/Music/Music_Genre/Rock_Music/Heavy_Metal.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Music_Genre/Rock_Music/Heavy_Metal.internal|Heavy_Metal.internal]] 
 
-### #is_/same_as :: [Heavy_Metal.protect](/_protect/Society/Communication/Media/Music/Music_Genre/Rock_Music/Heavy_Metal.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Music_Genre/Rock_Music/Heavy_Metal.protect|Heavy_Metal.protect]] 
 
-### #is_/same_as :: [Heavy_Metal.private](/_private/Society/Communication/Media/Music/Music_Genre/Rock_Music/Heavy_Metal.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Music_Genre/Rock_Music/Heavy_Metal.private|Heavy_Metal.private]] 
 
-### #is_/same_as :: [Heavy_Metal.personal](/_personal/Society/Communication/Media/Music/Music_Genre/Rock_Music/Heavy_Metal.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Music_Genre/Rock_Music/Heavy_Metal.personal|Heavy_Metal.personal]] 
 
-### #is_/same_as :: [Heavy_Metal.secret](/_secret/Society/Communication/Media/Music/Music_Genre/Rock_Music/Heavy_Metal.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Music_Genre/Rock_Music/Heavy_Metal.secret|Heavy_Metal.secret]] 
 

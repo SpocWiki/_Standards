@@ -28,7 +28,7 @@ title: Actiniaria
 ## Sea Anemones 
 
 ![ ](Actiniaria/gonactiniidaesm.jpg)
-![ ](Actiniaria/edwardsiidaesm.jpg)![](Actiniaria/diadumenidaesm.jpg))
+![ ](Actiniaria/edwardsiidaesm.jpg)![](Actiniaria/diadumenidaesm.jpg) 
 
 -   [Protantheae](Actiniaria/Protantheae.md "go to ToL page"))*
 -   [Endocoelantheae](Actiniaria/Endocoelantheae.md "go to ToL page"))*
@@ -93,7 +93,7 @@ From left to right:
 -   Diadumene cincta (Nynantheae: Diadumenidae).\
     The Netherlands.\
     Photo copyright © 2000, Ron Ates.
-![](Actiniaria/gonactiniidaesm.jpg))
+![](Actiniaria/gonactiniidaesm.jpg) 
 
   --------
   Copyright ::   © 2000 Robin Harvey
@@ -103,7 +103,7 @@ From left to right:
   -------
   Copyright ::   © 2000 Ron Ates
   -------
-![](Actiniaria/diadumenidaesm.jpg))
+![](Actiniaria/diadumenidaesm.jpg) 
 
   -------
   Copyright ::   © 2000 Ron Ates
@@ -112,17 +112,17 @@ From left to right:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Actiniaria](/_Standards/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Actiniaria.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Actiniaria|Actiniaria]] 
 
-### #is_/same_as :: [Actiniaria.public](/_public/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Actiniaria.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Actiniaria.public|Actiniaria.public]] 
 
-### #is_/same_as :: [Actiniaria.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Actiniaria.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Actiniaria.internal|Actiniaria.internal]] 
 
-### #is_/same_as :: [Actiniaria.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Actiniaria.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Actiniaria.protect|Actiniaria.protect]] 
 
-### #is_/same_as :: [Actiniaria.private](/_private/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Actiniaria.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Actiniaria.private|Actiniaria.private]] 
 
-### #is_/same_as :: [Actiniaria.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Actiniaria.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Actiniaria.personal|Actiniaria.personal]] 
 
-### #is_/same_as :: [Actiniaria.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Actiniaria.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Actiniaria.secret|Actiniaria.secret]] 
 

@@ -61,17 +61,17 @@ A volcano, like Fujisan.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Volcano](/_Standards/Earth/Geology/Landform/Volcano.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geology/Landform/Volcano|Volcano]] 
 
-### #is_/same_as :: [Volcano.public](/_public/Earth/Geology/Landform/Volcano.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geology/Landform/Volcano.public|Volcano.public]] 
 
-### #is_/same_as :: [Volcano.internal](/_internal/Earth/Geology/Landform/Volcano.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geology/Landform/Volcano.internal|Volcano.internal]] 
 
-### #is_/same_as :: [Volcano.protect](/_protect/Earth/Geology/Landform/Volcano.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geology/Landform/Volcano.protect|Volcano.protect]] 
 
-### #is_/same_as :: [Volcano.private](/_private/Earth/Geology/Landform/Volcano.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geology/Landform/Volcano.private|Volcano.private]] 
 
-### #is_/same_as :: [Volcano.personal](/_personal/Earth/Geology/Landform/Volcano.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geology/Landform/Volcano.personal|Volcano.personal]] 
 
-### #is_/same_as :: [Volcano.secret](/_secret/Earth/Geology/Landform/Volcano.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geology/Landform/Volcano.secret|Volcano.secret]] 
 

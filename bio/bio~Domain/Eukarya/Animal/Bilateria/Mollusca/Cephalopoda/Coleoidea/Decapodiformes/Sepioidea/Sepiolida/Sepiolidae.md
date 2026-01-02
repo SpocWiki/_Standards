@@ -169,7 +169,7 @@ Neptune City, NJ, 351pp.
 
 ## Title Illustrations
 
-![](Sepiolidae/Heteroteuthis.jpg))
+![](Sepiolidae/Heteroteuthis.jpg) 
 
   --------------------------------------------------------------------------------
   Scientific Name ::     Heteroteuthis hawaiiensis
@@ -182,17 +182,17 @@ Neptune City, NJ, 351pp.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sepiolidae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Sepioidea/Sepiolida/Sepiolidae.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Sepioidea/Sepiolida/Sepiolidae|Sepiolidae]] 
 
-### #is_/same_as :: [Sepiolidae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Sepioidea/Sepiolida/Sepiolidae.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Sepioidea/Sepiolida/Sepiolidae.public|Sepiolidae.public]] 
 
-### #is_/same_as :: [Sepiolidae.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Sepioidea/Sepiolida/Sepiolidae.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Sepioidea/Sepiolida/Sepiolidae.internal|Sepiolidae.internal]] 
 
-### #is_/same_as :: [Sepiolidae.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Sepioidea/Sepiolida/Sepiolidae.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Sepioidea/Sepiolida/Sepiolidae.protect|Sepiolidae.protect]] 
 
-### #is_/same_as :: [Sepiolidae.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Sepioidea/Sepiolida/Sepiolidae.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Sepioidea/Sepiolida/Sepiolidae.private|Sepiolidae.private]] 
 
-### #is_/same_as :: [Sepiolidae.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Sepioidea/Sepiolida/Sepiolidae.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Sepioidea/Sepiolida/Sepiolidae.personal|Sepiolidae.personal]] 
 
-### #is_/same_as :: [Sepiolidae.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Sepioidea/Sepiolida/Sepiolidae.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Sepioidea/Sepiolida/Sepiolidae.secret|Sepiolidae.secret]] 
 

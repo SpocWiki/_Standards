@@ -48,17 +48,17 @@ Note that the application of these codes is with regard to a piece of media shar
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Media_Manipulation_Rating_Enumeration](/_Standards/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration|Media_Manipulation_Rating_Enumeration]] 
 
-### #is_/same_as :: [Media_Manipulation_Rating_Enumeration.public](/_public/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration.public|Media_Manipulation_Rating_Enumeration.public]] 
 
-### #is_/same_as :: [Media_Manipulation_Rating_Enumeration.internal](/_internal/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration.internal|Media_Manipulation_Rating_Enumeration.internal]] 
 
-### #is_/same_as :: [Media_Manipulation_Rating_Enumeration.protect](/_protect/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration.protect|Media_Manipulation_Rating_Enumeration.protect]] 
 
-### #is_/same_as :: [Media_Manipulation_Rating_Enumeration.private](/_private/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration.private|Media_Manipulation_Rating_Enumeration.private]] 
 
-### #is_/same_as :: [Media_Manipulation_Rating_Enumeration.personal](/_personal/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration.personal|Media_Manipulation_Rating_Enumeration.personal]] 
 
-### #is_/same_as :: [Media_Manipulation_Rating_Enumeration.secret](/_secret/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration.secret|Media_Manipulation_Rating_Enumeration.secret]] 
 

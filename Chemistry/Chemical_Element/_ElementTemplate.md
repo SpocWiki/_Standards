@@ -32,17 +32,17 @@ SpocWebEntityId: {{SpocWebEntityId}}
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [_ElementTemplate](/_Standards/Chemistry/Chemical_Element/_ElementTemplate.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Chemical_Element/_ElementTemplate|_ElementTemplate]] 
 
-### #is_/same_as :: [_ElementTemplate.public](/_public/Chemistry/Chemical_Element/_ElementTemplate.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Chemical_Element/_ElementTemplate.public|_ElementTemplate.public]] 
 
-### #is_/same_as :: [_ElementTemplate.internal](/_internal/Chemistry/Chemical_Element/_ElementTemplate.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Chemical_Element/_ElementTemplate.internal|_ElementTemplate.internal]] 
 
-### #is_/same_as :: [_ElementTemplate.protect](/_protect/Chemistry/Chemical_Element/_ElementTemplate.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Chemical_Element/_ElementTemplate.protect|_ElementTemplate.protect]] 
 
-### #is_/same_as :: [_ElementTemplate.private](/_private/Chemistry/Chemical_Element/_ElementTemplate.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Chemical_Element/_ElementTemplate.private|_ElementTemplate.private]] 
 
-### #is_/same_as :: [_ElementTemplate.personal](/_personal/Chemistry/Chemical_Element/_ElementTemplate.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Chemical_Element/_ElementTemplate.personal|_ElementTemplate.personal]] 
 
-### #is_/same_as :: [_ElementTemplate.secret](/_secret/Chemistry/Chemical_Element/_ElementTemplate.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Chemical_Element/_ElementTemplate.secret|_ElementTemplate.secret]] 
 

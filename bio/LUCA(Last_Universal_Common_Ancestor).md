@@ -35,17 +35,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [LUCA(Last_Universal_Common_Ancestor)](/_Standards/bio/LUCA(Last_Universal_Common_Ancestor).md) 
+### #is_/same_as :: [[/_Standards/bio/LUCA(Last_Universal_Common_Ancestor)|LUCA(Last_Universal_Common_Ancestor)]] 
 
-### #is_/same_as :: [LUCA(Last_Universal_Common_Ancestor).public](/_public/bio/LUCA(Last_Universal_Common_Ancestor).public.md) 
+### #is_/same_as :: [[/_public/bio/LUCA(Last_Universal_Common_Ancestor).public|LUCA(Last_Universal_Common_Ancestor).public]] 
 
-### #is_/same_as :: [LUCA(Last_Universal_Common_Ancestor).internal](/_internal/bio/LUCA(Last_Universal_Common_Ancestor).internal.md) 
+### #is_/same_as :: [[/_internal/bio/LUCA(Last_Universal_Common_Ancestor).internal|LUCA(Last_Universal_Common_Ancestor).internal]] 
 
-### #is_/same_as :: [LUCA(Last_Universal_Common_Ancestor).protect](/_protect/bio/LUCA(Last_Universal_Common_Ancestor).protect.md) 
+### #is_/same_as :: [[/_protect/bio/LUCA(Last_Universal_Common_Ancestor).protect|LUCA(Last_Universal_Common_Ancestor).protect]] 
 
-### #is_/same_as :: [LUCA(Last_Universal_Common_Ancestor).private](/_private/bio/LUCA(Last_Universal_Common_Ancestor).private.md) 
+### #is_/same_as :: [[/_private/bio/LUCA(Last_Universal_Common_Ancestor).private|LUCA(Last_Universal_Common_Ancestor).private]] 
 
-### #is_/same_as :: [LUCA(Last_Universal_Common_Ancestor).personal](/_personal/bio/LUCA(Last_Universal_Common_Ancestor).personal.md) 
+### #is_/same_as :: [[/_personal/bio/LUCA(Last_Universal_Common_Ancestor).personal|LUCA(Last_Universal_Common_Ancestor).personal]] 
 
-### #is_/same_as :: [LUCA(Last_Universal_Common_Ancestor).secret](/_secret/bio/LUCA(Last_Universal_Common_Ancestor).secret.md)
+### #is_/same_as :: [[/_secret/bio/LUCA(Last_Universal_Common_Ancestor).secret|LUCA(Last_Universal_Common_Ancestor).secret]] 
 

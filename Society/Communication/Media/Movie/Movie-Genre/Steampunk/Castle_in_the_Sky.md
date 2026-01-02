@@ -18,17 +18,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Castle_in_the_Sky](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Steampunk/Castle_in_the_Sky.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Genre/Steampunk/Castle_in_the_Sky|Castle_in_the_Sky]] 
 
-### #is_/same_as :: [Castle_in_the_Sky.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Steampunk/Castle_in_the_Sky.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Genre/Steampunk/Castle_in_the_Sky.public|Castle_in_the_Sky.public]] 
 
-### #is_/same_as :: [Castle_in_the_Sky.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Steampunk/Castle_in_the_Sky.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Genre/Steampunk/Castle_in_the_Sky.internal|Castle_in_the_Sky.internal]] 
 
-### #is_/same_as :: [Castle_in_the_Sky.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Steampunk/Castle_in_the_Sky.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Genre/Steampunk/Castle_in_the_Sky.protect|Castle_in_the_Sky.protect]] 
 
-### #is_/same_as :: [Castle_in_the_Sky.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Steampunk/Castle_in_the_Sky.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Genre/Steampunk/Castle_in_the_Sky.private|Castle_in_the_Sky.private]] 
 
-### #is_/same_as :: [Castle_in_the_Sky.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Steampunk/Castle_in_the_Sky.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Genre/Steampunk/Castle_in_the_Sky.personal|Castle_in_the_Sky.personal]] 
 
-### #is_/same_as :: [Castle_in_the_Sky.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Steampunk/Castle_in_the_Sky.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Genre/Steampunk/Castle_in_the_Sky.secret|Castle_in_the_Sky.secret]] 
 

@@ -87,17 +87,17 @@ MeSH_tree_code: M01.526.493
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Inventor](/_Standards/Science/Inventor.md) 
+### #is_/same_as :: [[/_Standards/Science/Inventor|Inventor]] 
 
-### #is_/same_as :: [Inventor.public](/_public/Science/Inventor.public.md) 
+### #is_/same_as :: [[/_public/Science/Inventor.public|Inventor.public]] 
 
-### #is_/same_as :: [Inventor.internal](/_internal/Science/Inventor.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Inventor.internal|Inventor.internal]] 
 
-### #is_/same_as :: [Inventor.protect](/_protect/Science/Inventor.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Inventor.protect|Inventor.protect]] 
 
-### #is_/same_as :: [Inventor.private](/_private/Science/Inventor.private.md) 
+### #is_/same_as :: [[/_private/Science/Inventor.private|Inventor.private]] 
 
-### #is_/same_as :: [Inventor.personal](/_personal/Science/Inventor.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Inventor.personal|Inventor.personal]] 
 
-### #is_/same_as :: [Inventor.secret](/_secret/Science/Inventor.secret.md)
+### #is_/same_as :: [[/_secret/Science/Inventor.secret|Inventor.secret]] 
 

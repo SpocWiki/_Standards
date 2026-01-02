@@ -62,17 +62,17 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Period~1~Siderian](/_Standards/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~1~Paleoproterozoic/Period~1~Siderian.md) 
+### #is_/same_as :: [[/_Standards/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~1~Paleoproterozoic/Period~1~Siderian|Period~1~Siderian]] 
 
-### #is_/same_as :: [Period~1~Siderian.public](/_public/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~1~Paleoproterozoic/Period~1~Siderian.public.md) 
+### #is_/same_as :: [[/_public/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~1~Paleoproterozoic/Period~1~Siderian.public|Period~1~Siderian.public]] 
 
-### #is_/same_as :: [Period~1~Siderian.internal](/_internal/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~1~Paleoproterozoic/Period~1~Siderian.internal.md) 
+### #is_/same_as :: [[/_internal/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~1~Paleoproterozoic/Period~1~Siderian.internal|Period~1~Siderian.internal]] 
 
-### #is_/same_as :: [Period~1~Siderian.protect](/_protect/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~1~Paleoproterozoic/Period~1~Siderian.protect.md) 
+### #is_/same_as :: [[/_protect/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~1~Paleoproterozoic/Period~1~Siderian.protect|Period~1~Siderian.protect]] 
 
-### #is_/same_as :: [Period~1~Siderian.private](/_private/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~1~Paleoproterozoic/Period~1~Siderian.private.md) 
+### #is_/same_as :: [[/_private/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~1~Paleoproterozoic/Period~1~Siderian.private|Period~1~Siderian.private]] 
 
-### #is_/same_as :: [Period~1~Siderian.personal](/_personal/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~1~Paleoproterozoic/Period~1~Siderian.personal.md) 
+### #is_/same_as :: [[/_personal/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~1~Paleoproterozoic/Period~1~Siderian.personal|Period~1~Siderian.personal]] 
 
-### #is_/same_as :: [Period~1~Siderian.secret](/_secret/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~1~Paleoproterozoic/Period~1~Siderian.secret.md)
+### #is_/same_as :: [[/_secret/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~1~Paleoproterozoic/Period~1~Siderian.secret|Period~1~Siderian.secret]] 
 

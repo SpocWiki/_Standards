@@ -75,17 +75,17 @@ Baidu_Tieba_name: 象棋
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Xiangqi](/_Standards/Society/Communication/Media/Creative_Work/Game/Chess/Xiangqi.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Creative_Work/Game/Chess/Xiangqi|Xiangqi]] 
 
-### #is_/same_as :: [Xiangqi.public](/_public/Society/Communication/Media/Creative_Work/Game/Chess/Xiangqi.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Creative_Work/Game/Chess/Xiangqi.public|Xiangqi.public]] 
 
-### #is_/same_as :: [Xiangqi.internal](/_internal/Society/Communication/Media/Creative_Work/Game/Chess/Xiangqi.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Creative_Work/Game/Chess/Xiangqi.internal|Xiangqi.internal]] 
 
-### #is_/same_as :: [Xiangqi.protect](/_protect/Society/Communication/Media/Creative_Work/Game/Chess/Xiangqi.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Creative_Work/Game/Chess/Xiangqi.protect|Xiangqi.protect]] 
 
-### #is_/same_as :: [Xiangqi.private](/_private/Society/Communication/Media/Creative_Work/Game/Chess/Xiangqi.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Creative_Work/Game/Chess/Xiangqi.private|Xiangqi.private]] 
 
-### #is_/same_as :: [Xiangqi.personal](/_personal/Society/Communication/Media/Creative_Work/Game/Chess/Xiangqi.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/Game/Chess/Xiangqi.personal|Xiangqi.personal]] 
 
-### #is_/same_as :: [Xiangqi.secret](/_secret/Society/Communication/Media/Creative_Work/Game/Chess/Xiangqi.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Game/Chess/Xiangqi.secret|Xiangqi.secret]] 
 

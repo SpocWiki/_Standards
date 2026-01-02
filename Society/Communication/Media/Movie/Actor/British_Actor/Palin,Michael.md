@@ -55,17 +55,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Palin,Michael](/_Standards/Society/Communication/Media/Movie/Actor/British_Actor/Palin,Michael.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Actor/British_Actor/Palin,Michael|Palin,Michael]] 
 
-### #is_/same_as :: [Palin,Michael.public](/_public/Society/Communication/Media/Movie/Actor/British_Actor/Palin,Michael.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Actor/British_Actor/Palin,Michael.public|Palin,Michael.public]] 
 
-### #is_/same_as :: [Palin,Michael.internal](/_internal/Society/Communication/Media/Movie/Actor/British_Actor/Palin,Michael.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Actor/British_Actor/Palin,Michael.internal|Palin,Michael.internal]] 
 
-### #is_/same_as :: [Palin,Michael.protect](/_protect/Society/Communication/Media/Movie/Actor/British_Actor/Palin,Michael.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Actor/British_Actor/Palin,Michael.protect|Palin,Michael.protect]] 
 
-### #is_/same_as :: [Palin,Michael.private](/_private/Society/Communication/Media/Movie/Actor/British_Actor/Palin,Michael.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Actor/British_Actor/Palin,Michael.private|Palin,Michael.private]] 
 
-### #is_/same_as :: [Palin,Michael.personal](/_personal/Society/Communication/Media/Movie/Actor/British_Actor/Palin,Michael.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Actor/British_Actor/Palin,Michael.personal|Palin,Michael.personal]] 
 
-### #is_/same_as :: [Palin,Michael.secret](/_secret/Society/Communication/Media/Movie/Actor/British_Actor/Palin,Michael.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Actor/British_Actor/Palin,Michael.secret|Palin,Michael.secret]] 
 

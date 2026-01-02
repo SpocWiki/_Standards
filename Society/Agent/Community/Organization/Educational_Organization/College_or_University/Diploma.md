@@ -51,17 +51,17 @@ Commons_category: Diplomas
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Diploma](/_Standards/Society/Agent/Community/Organization/Educational_Organization/College_or_University/Diploma.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Educational_Organization/College_or_University/Diploma|Diploma]] 
 
-### #is_/same_as :: [Diploma.public](/_public/Society/Agent/Community/Organization/Educational_Organization/College_or_University/Diploma.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Educational_Organization/College_or_University/Diploma.public|Diploma.public]] 
 
-### #is_/same_as :: [Diploma.internal](/_internal/Society/Agent/Community/Organization/Educational_Organization/College_or_University/Diploma.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Educational_Organization/College_or_University/Diploma.internal|Diploma.internal]] 
 
-### #is_/same_as :: [Diploma.protect](/_protect/Society/Agent/Community/Organization/Educational_Organization/College_or_University/Diploma.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Educational_Organization/College_or_University/Diploma.protect|Diploma.protect]] 
 
-### #is_/same_as :: [Diploma.private](/_private/Society/Agent/Community/Organization/Educational_Organization/College_or_University/Diploma.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Educational_Organization/College_or_University/Diploma.private|Diploma.private]] 
 
-### #is_/same_as :: [Diploma.personal](/_personal/Society/Agent/Community/Organization/Educational_Organization/College_or_University/Diploma.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Educational_Organization/College_or_University/Diploma.personal|Diploma.personal]] 
 
-### #is_/same_as :: [Diploma.secret](/_secret/Society/Agent/Community/Organization/Educational_Organization/College_or_University/Diploma.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Educational_Organization/College_or_University/Diploma.secret|Diploma.secret]] 
 

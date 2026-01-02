@@ -50,17 +50,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Fructose](/_Standards/bio/Metabolism/Nutrition/Carbohydrate/Monosaccharide/Fructose.md) 
+### #is_/same_as :: [[/_Standards/bio/Metabolism/Nutrition/Carbohydrate/Monosaccharide/Fructose|Fructose]] 
 
-### #is_/same_as :: [Fructose.public](/_public/bio/Metabolism/Nutrition/Carbohydrate/Monosaccharide/Fructose.public.md) 
+### #is_/same_as :: [[/_public/bio/Metabolism/Nutrition/Carbohydrate/Monosaccharide/Fructose.public|Fructose.public]] 
 
-### #is_/same_as :: [Fructose.internal](/_internal/bio/Metabolism/Nutrition/Carbohydrate/Monosaccharide/Fructose.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Metabolism/Nutrition/Carbohydrate/Monosaccharide/Fructose.internal|Fructose.internal]] 
 
-### #is_/same_as :: [Fructose.protect](/_protect/bio/Metabolism/Nutrition/Carbohydrate/Monosaccharide/Fructose.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Metabolism/Nutrition/Carbohydrate/Monosaccharide/Fructose.protect|Fructose.protect]] 
 
-### #is_/same_as :: [Fructose.private](/_private/bio/Metabolism/Nutrition/Carbohydrate/Monosaccharide/Fructose.private.md) 
+### #is_/same_as :: [[/_private/bio/Metabolism/Nutrition/Carbohydrate/Monosaccharide/Fructose.private|Fructose.private]] 
 
-### #is_/same_as :: [Fructose.personal](/_personal/bio/Metabolism/Nutrition/Carbohydrate/Monosaccharide/Fructose.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Metabolism/Nutrition/Carbohydrate/Monosaccharide/Fructose.personal|Fructose.personal]] 
 
-### #is_/same_as :: [Fructose.secret](/_secret/bio/Metabolism/Nutrition/Carbohydrate/Monosaccharide/Fructose.secret.md)
+### #is_/same_as :: [[/_secret/bio/Metabolism/Nutrition/Carbohydrate/Monosaccharide/Fructose.secret|Fructose.secret]] 
 

@@ -26,17 +26,17 @@ Commons_category: Petroleum companies
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Oil_Company](/_Standards/Society/Agent/Community/Organization/Company/Corporation/Oil_Company.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Company/Corporation/Oil_Company|Oil_Company]] 
 
-### #is_/same_as :: [Oil_Company.public](/_public/Society/Agent/Community/Organization/Company/Corporation/Oil_Company.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Company/Corporation/Oil_Company.public|Oil_Company.public]] 
 
-### #is_/same_as :: [Oil_Company.internal](/_internal/Society/Agent/Community/Organization/Company/Corporation/Oil_Company.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Company/Corporation/Oil_Company.internal|Oil_Company.internal]] 
 
-### #is_/same_as :: [Oil_Company.protect](/_protect/Society/Agent/Community/Organization/Company/Corporation/Oil_Company.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Company/Corporation/Oil_Company.protect|Oil_Company.protect]] 
 
-### #is_/same_as :: [Oil_Company.private](/_private/Society/Agent/Community/Organization/Company/Corporation/Oil_Company.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Company/Corporation/Oil_Company.private|Oil_Company.private]] 
 
-### #is_/same_as :: [Oil_Company.personal](/_personal/Society/Agent/Community/Organization/Company/Corporation/Oil_Company.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Company/Corporation/Oil_Company.personal|Oil_Company.personal]] 
 
-### #is_/same_as :: [Oil_Company.secret](/_secret/Society/Agent/Community/Organization/Company/Corporation/Oil_Company.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Company/Corporation/Oil_Company.secret|Oil_Company.secret]] 
 

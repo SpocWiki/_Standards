@@ -45,17 +45,17 @@ P8189: 987007545493705171
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Comparative_Linguistics](/_Standards/Language/Linguistics/Comparative_Linguistics.md) 
+### #is_/same_as :: [[/_Standards/Language/Linguistics/Comparative_Linguistics|Comparative_Linguistics]] 
 
-### #is_/same_as :: [Comparative_Linguistics.public](/_public/Language/Linguistics/Comparative_Linguistics.public.md) 
+### #is_/same_as :: [[/_public/Language/Linguistics/Comparative_Linguistics.public|Comparative_Linguistics.public]] 
 
-### #is_/same_as :: [Comparative_Linguistics.internal](/_internal/Language/Linguistics/Comparative_Linguistics.internal.md) 
+### #is_/same_as :: [[/_internal/Language/Linguistics/Comparative_Linguistics.internal|Comparative_Linguistics.internal]] 
 
-### #is_/same_as :: [Comparative_Linguistics.protect](/_protect/Language/Linguistics/Comparative_Linguistics.protect.md) 
+### #is_/same_as :: [[/_protect/Language/Linguistics/Comparative_Linguistics.protect|Comparative_Linguistics.protect]] 
 
-### #is_/same_as :: [Comparative_Linguistics.private](/_private/Language/Linguistics/Comparative_Linguistics.private.md) 
+### #is_/same_as :: [[/_private/Language/Linguistics/Comparative_Linguistics.private|Comparative_Linguistics.private]] 
 
-### #is_/same_as :: [Comparative_Linguistics.personal](/_personal/Language/Linguistics/Comparative_Linguistics.personal.md) 
+### #is_/same_as :: [[/_personal/Language/Linguistics/Comparative_Linguistics.personal|Comparative_Linguistics.personal]] 
 
-### #is_/same_as :: [Comparative_Linguistics.secret](/_secret/Language/Linguistics/Comparative_Linguistics.secret.md)
+### #is_/same_as :: [[/_secret/Language/Linguistics/Comparative_Linguistics.secret|Comparative_Linguistics.secret]] 
 

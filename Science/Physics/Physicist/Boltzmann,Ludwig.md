@@ -144,17 +144,17 @@ Libris_URI: c9prrjvw4ngfp1p
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Boltzmann,Ludwig](/_Standards/Science/Physics/Physicist/Boltzmann,Ludwig.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Physicist/Boltzmann,Ludwig|Boltzmann,Ludwig]] 
 
-### #is_/same_as :: [Boltzmann,Ludwig.public](/_public/Science/Physics/Physicist/Boltzmann,Ludwig.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Physicist/Boltzmann,Ludwig.public|Boltzmann,Ludwig.public]] 
 
-### #is_/same_as :: [Boltzmann,Ludwig.internal](/_internal/Science/Physics/Physicist/Boltzmann,Ludwig.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Physicist/Boltzmann,Ludwig.internal|Boltzmann,Ludwig.internal]] 
 
-### #is_/same_as :: [Boltzmann,Ludwig.protect](/_protect/Science/Physics/Physicist/Boltzmann,Ludwig.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Physicist/Boltzmann,Ludwig.protect|Boltzmann,Ludwig.protect]] 
 
-### #is_/same_as :: [Boltzmann,Ludwig.private](/_private/Science/Physics/Physicist/Boltzmann,Ludwig.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Physicist/Boltzmann,Ludwig.private|Boltzmann,Ludwig.private]] 
 
-### #is_/same_as :: [Boltzmann,Ludwig.personal](/_personal/Science/Physics/Physicist/Boltzmann,Ludwig.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Physicist/Boltzmann,Ludwig.personal|Boltzmann,Ludwig.personal]] 
 
-### #is_/same_as :: [Boltzmann,Ludwig.secret](/_secret/Science/Physics/Physicist/Boltzmann,Ludwig.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Physicist/Boltzmann,Ludwig.secret|Boltzmann,Ludwig.secret]] 
 

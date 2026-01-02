@@ -204,17 +204,17 @@ name_in_native_language: Linus Carl Pauling
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Linus_Pauling](/_Standards/Chemistry/Chemist/Linus_Pauling.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Chemist/Linus_Pauling|Linus_Pauling]] 
 
-### #is_/same_as :: [Linus_Pauling.public](/_public/Chemistry/Chemist/Linus_Pauling.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Chemist/Linus_Pauling.public|Linus_Pauling.public]] 
 
-### #is_/same_as :: [Linus_Pauling.internal](/_internal/Chemistry/Chemist/Linus_Pauling.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Chemist/Linus_Pauling.internal|Linus_Pauling.internal]] 
 
-### #is_/same_as :: [Linus_Pauling.protect](/_protect/Chemistry/Chemist/Linus_Pauling.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Chemist/Linus_Pauling.protect|Linus_Pauling.protect]] 
 
-### #is_/same_as :: [Linus_Pauling.private](/_private/Chemistry/Chemist/Linus_Pauling.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Chemist/Linus_Pauling.private|Linus_Pauling.private]] 
 
-### #is_/same_as :: [Linus_Pauling.personal](/_personal/Chemistry/Chemist/Linus_Pauling.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Chemist/Linus_Pauling.personal|Linus_Pauling.personal]] 
 
-### #is_/same_as :: [Linus_Pauling.secret](/_secret/Chemistry/Chemist/Linus_Pauling.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Chemist/Linus_Pauling.secret|Linus_Pauling.secret]] 
 

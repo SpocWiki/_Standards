@@ -47,17 +47,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_taxon_rank](/_Standards/schema-org/Relation/has/has_taxon_rank.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_taxon_rank|has_taxon_rank]] 
 
-### #is_/same_as :: [has_taxon_rank.public](/_public/schema-org/Relation/has/has_taxon_rank.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_taxon_rank.public|has_taxon_rank.public]] 
 
-### #is_/same_as :: [has_taxon_rank.internal](/_internal/schema-org/Relation/has/has_taxon_rank.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_taxon_rank.internal|has_taxon_rank.internal]] 
 
-### #is_/same_as :: [has_taxon_rank.protect](/_protect/schema-org/Relation/has/has_taxon_rank.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_taxon_rank.protect|has_taxon_rank.protect]] 
 
-### #is_/same_as :: [has_taxon_rank.private](/_private/schema-org/Relation/has/has_taxon_rank.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_taxon_rank.private|has_taxon_rank.private]] 
 
-### #is_/same_as :: [has_taxon_rank.personal](/_personal/schema-org/Relation/has/has_taxon_rank.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_taxon_rank.personal|has_taxon_rank.personal]] 
 
-### #is_/same_as :: [has_taxon_rank.secret](/_secret/schema-org/Relation/has/has_taxon_rank.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_taxon_rank.secret|has_taxon_rank.secret]] 
 

@@ -100,17 +100,17 @@ inception: 2010-01-01T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Google_DeepMind](/_Standards/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Google/Google_DeepMind.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Google/Google_DeepMind|Google_DeepMind]] 
 
-### #is_/same_as :: [Google_DeepMind.public](/_public/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Google/Google_DeepMind.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Google/Google_DeepMind.public|Google_DeepMind.public]] 
 
-### #is_/same_as :: [Google_DeepMind.internal](/_internal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Google/Google_DeepMind.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Google/Google_DeepMind.internal|Google_DeepMind.internal]] 
 
-### #is_/same_as :: [Google_DeepMind.protect](/_protect/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Google/Google_DeepMind.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Google/Google_DeepMind.protect|Google_DeepMind.protect]] 
 
-### #is_/same_as :: [Google_DeepMind.private](/_private/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Google/Google_DeepMind.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Google/Google_DeepMind.private|Google_DeepMind.private]] 
 
-### #is_/same_as :: [Google_DeepMind.personal](/_personal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Google/Google_DeepMind.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Google/Google_DeepMind.personal|Google_DeepMind.personal]] 
 
-### #is_/same_as :: [Google_DeepMind.secret](/_secret/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Google/Google_DeepMind.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Google/Google_DeepMind.secret|Google_DeepMind.secret]] 
 

@@ -91,17 +91,17 @@ ISNI: 0000000078671817
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Kilby,Jack](/_Standards/Science/Inventor/Kilby,Jack.md) 
+### #is_/same_as :: [[/_Standards/Science/Inventor/Kilby,Jack|Kilby,Jack]] 
 
-### #is_/same_as :: [Kilby,Jack.public](/_public/Science/Inventor/Kilby,Jack.public.md) 
+### #is_/same_as :: [[/_public/Science/Inventor/Kilby,Jack.public|Kilby,Jack.public]] 
 
-### #is_/same_as :: [Kilby,Jack.internal](/_internal/Science/Inventor/Kilby,Jack.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Inventor/Kilby,Jack.internal|Kilby,Jack.internal]] 
 
-### #is_/same_as :: [Kilby,Jack.protect](/_protect/Science/Inventor/Kilby,Jack.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Inventor/Kilby,Jack.protect|Kilby,Jack.protect]] 
 
-### #is_/same_as :: [Kilby,Jack.private](/_private/Science/Inventor/Kilby,Jack.private.md) 
+### #is_/same_as :: [[/_private/Science/Inventor/Kilby,Jack.private|Kilby,Jack.private]] 
 
-### #is_/same_as :: [Kilby,Jack.personal](/_personal/Science/Inventor/Kilby,Jack.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Inventor/Kilby,Jack.personal|Kilby,Jack.personal]] 
 
-### #is_/same_as :: [Kilby,Jack.secret](/_secret/Science/Inventor/Kilby,Jack.secret.md)
+### #is_/same_as :: [[/_secret/Science/Inventor/Kilby,Jack.secret|Kilby,Jack.secret]] 
 

@@ -68,17 +68,17 @@ official_website: https://leninism.su
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Leninism](/_Standards/Society/Ideology/Political_Ideology/Communism/Leninism.md) 
+### #is_/same_as :: [[/_Standards/Society/Ideology/Political_Ideology/Communism/Leninism|Leninism]] 
 
-### #is_/same_as :: [Leninism.public](/_public/Society/Ideology/Political_Ideology/Communism/Leninism.public.md) 
+### #is_/same_as :: [[/_public/Society/Ideology/Political_Ideology/Communism/Leninism.public|Leninism.public]] 
 
-### #is_/same_as :: [Leninism.internal](/_internal/Society/Ideology/Political_Ideology/Communism/Leninism.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Ideology/Political_Ideology/Communism/Leninism.internal|Leninism.internal]] 
 
-### #is_/same_as :: [Leninism.protect](/_protect/Society/Ideology/Political_Ideology/Communism/Leninism.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Ideology/Political_Ideology/Communism/Leninism.protect|Leninism.protect]] 
 
-### #is_/same_as :: [Leninism.private](/_private/Society/Ideology/Political_Ideology/Communism/Leninism.private.md) 
+### #is_/same_as :: [[/_private/Society/Ideology/Political_Ideology/Communism/Leninism.private|Leninism.private]] 
 
-### #is_/same_as :: [Leninism.personal](/_personal/Society/Ideology/Political_Ideology/Communism/Leninism.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Ideology/Political_Ideology/Communism/Leninism.personal|Leninism.personal]] 
 
-### #is_/same_as :: [Leninism.secret](/_secret/Society/Ideology/Political_Ideology/Communism/Leninism.secret.md)
+### #is_/same_as :: [[/_secret/Society/Ideology/Political_Ideology/Communism/Leninism.secret|Leninism.secret]] 
 

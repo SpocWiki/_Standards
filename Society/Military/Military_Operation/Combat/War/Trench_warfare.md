@@ -42,17 +42,17 @@ Commons_category: Trench warfare
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Trench_warfare](/_Standards/Society/Military/Military_Operation/Combat/War/Trench_warfare.md) 
+### #is_/same_as :: [[/_Standards/Society/Military/Military_Operation/Combat/War/Trench_warfare|Trench_warfare]] 
 
-### #is_/same_as :: [Trench_warfare.public](/_public/Society/Military/Military_Operation/Combat/War/Trench_warfare.public.md) 
+### #is_/same_as :: [[/_public/Society/Military/Military_Operation/Combat/War/Trench_warfare.public|Trench_warfare.public]] 
 
-### #is_/same_as :: [Trench_warfare.internal](/_internal/Society/Military/Military_Operation/Combat/War/Trench_warfare.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Military/Military_Operation/Combat/War/Trench_warfare.internal|Trench_warfare.internal]] 
 
-### #is_/same_as :: [Trench_warfare.protect](/_protect/Society/Military/Military_Operation/Combat/War/Trench_warfare.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Military/Military_Operation/Combat/War/Trench_warfare.protect|Trench_warfare.protect]] 
 
-### #is_/same_as :: [Trench_warfare.private](/_private/Society/Military/Military_Operation/Combat/War/Trench_warfare.private.md) 
+### #is_/same_as :: [[/_private/Society/Military/Military_Operation/Combat/War/Trench_warfare.private|Trench_warfare.private]] 
 
-### #is_/same_as :: [Trench_warfare.personal](/_personal/Society/Military/Military_Operation/Combat/War/Trench_warfare.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Military/Military_Operation/Combat/War/Trench_warfare.personal|Trench_warfare.personal]] 
 
-### #is_/same_as :: [Trench_warfare.secret](/_secret/Society/Military/Military_Operation/Combat/War/Trench_warfare.secret.md)
+### #is_/same_as :: [[/_secret/Society/Military/Military_Operation/Combat/War/Trench_warfare.secret|Trench_warfare.secret]] 
 

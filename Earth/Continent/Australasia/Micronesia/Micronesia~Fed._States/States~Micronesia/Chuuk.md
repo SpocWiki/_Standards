@@ -40,17 +40,17 @@ markerFolder: ./Chuuk/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Chuuk](/_Standards/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Chuuk.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Chuuk|Chuuk]] 
 
-### #is_/same_as :: [Chuuk.public](/_public/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Chuuk.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Chuuk.public|Chuuk.public]] 
 
-### #is_/same_as :: [Chuuk.internal](/_internal/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Chuuk.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Chuuk.internal|Chuuk.internal]] 
 
-### #is_/same_as :: [Chuuk.protect](/_protect/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Chuuk.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Chuuk.protect|Chuuk.protect]] 
 
-### #is_/same_as :: [Chuuk.private](/_private/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Chuuk.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Chuuk.private|Chuuk.private]] 
 
-### #is_/same_as :: [Chuuk.personal](/_personal/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Chuuk.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Chuuk.personal|Chuuk.personal]] 
 
-### #is_/same_as :: [Chuuk.secret](/_secret/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Chuuk.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Chuuk.secret|Chuuk.secret]] 
 

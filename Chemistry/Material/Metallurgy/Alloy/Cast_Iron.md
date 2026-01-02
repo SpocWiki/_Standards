@@ -42,17 +42,17 @@ Commons_category: Cast iron
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Cast_Iron](/_Standards/Chemistry/Material/Metallurgy/Alloy/Cast_Iron.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Material/Metallurgy/Alloy/Cast_Iron|Cast_Iron]] 
 
-### #is_/same_as :: [Cast_Iron.public](/_public/Chemistry/Material/Metallurgy/Alloy/Cast_Iron.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Material/Metallurgy/Alloy/Cast_Iron.public|Cast_Iron.public]] 
 
-### #is_/same_as :: [Cast_Iron.internal](/_internal/Chemistry/Material/Metallurgy/Alloy/Cast_Iron.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Material/Metallurgy/Alloy/Cast_Iron.internal|Cast_Iron.internal]] 
 
-### #is_/same_as :: [Cast_Iron.protect](/_protect/Chemistry/Material/Metallurgy/Alloy/Cast_Iron.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Material/Metallurgy/Alloy/Cast_Iron.protect|Cast_Iron.protect]] 
 
-### #is_/same_as :: [Cast_Iron.private](/_private/Chemistry/Material/Metallurgy/Alloy/Cast_Iron.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Material/Metallurgy/Alloy/Cast_Iron.private|Cast_Iron.private]] 
 
-### #is_/same_as :: [Cast_Iron.personal](/_personal/Chemistry/Material/Metallurgy/Alloy/Cast_Iron.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Material/Metallurgy/Alloy/Cast_Iron.personal|Cast_Iron.personal]] 
 
-### #is_/same_as :: [Cast_Iron.secret](/_secret/Chemistry/Material/Metallurgy/Alloy/Cast_Iron.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Material/Metallurgy/Alloy/Cast_Iron.secret|Cast_Iron.secret]] 
 

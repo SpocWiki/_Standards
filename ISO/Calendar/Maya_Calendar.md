@@ -34,17 +34,17 @@ Commons_category: Maya calendars
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Maya_Calendar](/_Standards/ISO/Calendar/Maya_Calendar.md) 
+### #is_/same_as :: [[/_Standards/ISO/Calendar/Maya_Calendar|Maya_Calendar]] 
 
-### #is_/same_as :: [Maya_Calendar.public](/_public/ISO/Calendar/Maya_Calendar.public.md) 
+### #is_/same_as :: [[/_public/ISO/Calendar/Maya_Calendar.public|Maya_Calendar.public]] 
 
-### #is_/same_as :: [Maya_Calendar.internal](/_internal/ISO/Calendar/Maya_Calendar.internal.md) 
+### #is_/same_as :: [[/_internal/ISO/Calendar/Maya_Calendar.internal|Maya_Calendar.internal]] 
 
-### #is_/same_as :: [Maya_Calendar.protect](/_protect/ISO/Calendar/Maya_Calendar.protect.md) 
+### #is_/same_as :: [[/_protect/ISO/Calendar/Maya_Calendar.protect|Maya_Calendar.protect]] 
 
-### #is_/same_as :: [Maya_Calendar.private](/_private/ISO/Calendar/Maya_Calendar.private.md) 
+### #is_/same_as :: [[/_private/ISO/Calendar/Maya_Calendar.private|Maya_Calendar.private]] 
 
-### #is_/same_as :: [Maya_Calendar.personal](/_personal/ISO/Calendar/Maya_Calendar.personal.md) 
+### #is_/same_as :: [[/_personal/ISO/Calendar/Maya_Calendar.personal|Maya_Calendar.personal]] 
 
-### #is_/same_as :: [Maya_Calendar.secret](/_secret/ISO/Calendar/Maya_Calendar.secret.md)
+### #is_/same_as :: [[/_secret/ISO/Calendar/Maya_Calendar.secret|Maya_Calendar.secret]] 
 

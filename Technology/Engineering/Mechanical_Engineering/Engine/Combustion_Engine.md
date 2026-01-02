@@ -47,17 +47,17 @@ uses: '[[_Standards/WikiData/WD~motor_fuel,337540]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Combustion_Engine](/_Standards/Technology/Engineering/Mechanical_Engineering/Engine/Combustion_Engine.md) 
+### #is_/same_as :: [[/_Standards/Technology/Engineering/Mechanical_Engineering/Engine/Combustion_Engine|Combustion_Engine]] 
 
-### #is_/same_as :: [Combustion_Engine.public](/_public/Technology/Engineering/Mechanical_Engineering/Engine/Combustion_Engine.public.md) 
+### #is_/same_as :: [[/_public/Technology/Engineering/Mechanical_Engineering/Engine/Combustion_Engine.public|Combustion_Engine.public]] 
 
-### #is_/same_as :: [Combustion_Engine.internal](/_internal/Technology/Engineering/Mechanical_Engineering/Engine/Combustion_Engine.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Engineering/Mechanical_Engineering/Engine/Combustion_Engine.internal|Combustion_Engine.internal]] 
 
-### #is_/same_as :: [Combustion_Engine.protect](/_protect/Technology/Engineering/Mechanical_Engineering/Engine/Combustion_Engine.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Engineering/Mechanical_Engineering/Engine/Combustion_Engine.protect|Combustion_Engine.protect]] 
 
-### #is_/same_as :: [Combustion_Engine.private](/_private/Technology/Engineering/Mechanical_Engineering/Engine/Combustion_Engine.private.md) 
+### #is_/same_as :: [[/_private/Technology/Engineering/Mechanical_Engineering/Engine/Combustion_Engine.private|Combustion_Engine.private]] 
 
-### #is_/same_as :: [Combustion_Engine.personal](/_personal/Technology/Engineering/Mechanical_Engineering/Engine/Combustion_Engine.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Engineering/Mechanical_Engineering/Engine/Combustion_Engine.personal|Combustion_Engine.personal]] 
 
-### #is_/same_as :: [Combustion_Engine.secret](/_secret/Technology/Engineering/Mechanical_Engineering/Engine/Combustion_Engine.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Engineering/Mechanical_Engineering/Engine/Combustion_Engine.secret|Combustion_Engine.secret]] 
 

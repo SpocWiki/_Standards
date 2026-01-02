@@ -68,17 +68,17 @@ EAGLE_id: objtyp/lod/227
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Burial](/_Standards/bio/Metabolism/Death/Funeral/Burial.md) 
+### #is_/same_as :: [[/_Standards/bio/Metabolism/Death/Funeral/Burial|Burial]] 
 
-### #is_/same_as :: [Burial.public](/_public/bio/Metabolism/Death/Funeral/Burial.public.md) 
+### #is_/same_as :: [[/_public/bio/Metabolism/Death/Funeral/Burial.public|Burial.public]] 
 
-### #is_/same_as :: [Burial.internal](/_internal/bio/Metabolism/Death/Funeral/Burial.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Metabolism/Death/Funeral/Burial.internal|Burial.internal]] 
 
-### #is_/same_as :: [Burial.protect](/_protect/bio/Metabolism/Death/Funeral/Burial.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Metabolism/Death/Funeral/Burial.protect|Burial.protect]] 
 
-### #is_/same_as :: [Burial.private](/_private/bio/Metabolism/Death/Funeral/Burial.private.md) 
+### #is_/same_as :: [[/_private/bio/Metabolism/Death/Funeral/Burial.private|Burial.private]] 
 
-### #is_/same_as :: [Burial.personal](/_personal/bio/Metabolism/Death/Funeral/Burial.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Metabolism/Death/Funeral/Burial.personal|Burial.personal]] 
 
-### #is_/same_as :: [Burial.secret](/_secret/bio/Metabolism/Death/Funeral/Burial.secret.md)
+### #is_/same_as :: [[/_secret/bio/Metabolism/Death/Funeral/Burial.secret|Burial.secret]] 
 

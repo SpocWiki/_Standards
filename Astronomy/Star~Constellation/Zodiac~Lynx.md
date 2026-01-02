@@ -52,17 +52,17 @@ time_of_discovery_or_invention: 1687-01-01T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Zodiac~Lynx](/_Standards/Astronomy/Star~Constellation/Zodiac~Lynx.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Star~Constellation/Zodiac~Lynx|Zodiac~Lynx]] 
 
-### #is_/same_as :: [Zodiac~Lynx.public](/_public/Astronomy/Star~Constellation/Zodiac~Lynx.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Star~Constellation/Zodiac~Lynx.public|Zodiac~Lynx.public]] 
 
-### #is_/same_as :: [Zodiac~Lynx.internal](/_internal/Astronomy/Star~Constellation/Zodiac~Lynx.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Star~Constellation/Zodiac~Lynx.internal|Zodiac~Lynx.internal]] 
 
-### #is_/same_as :: [Zodiac~Lynx.protect](/_protect/Astronomy/Star~Constellation/Zodiac~Lynx.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Star~Constellation/Zodiac~Lynx.protect|Zodiac~Lynx.protect]] 
 
-### #is_/same_as :: [Zodiac~Lynx.private](/_private/Astronomy/Star~Constellation/Zodiac~Lynx.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Star~Constellation/Zodiac~Lynx.private|Zodiac~Lynx.private]] 
 
-### #is_/same_as :: [Zodiac~Lynx.personal](/_personal/Astronomy/Star~Constellation/Zodiac~Lynx.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Star~Constellation/Zodiac~Lynx.personal|Zodiac~Lynx.personal]] 
 
-### #is_/same_as :: [Zodiac~Lynx.secret](/_secret/Astronomy/Star~Constellation/Zodiac~Lynx.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Star~Constellation/Zodiac~Lynx.secret|Zodiac~Lynx.secret]] 
 

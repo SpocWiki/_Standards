@@ -45,17 +45,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [is_spoken_by_character](/_Standards/schema-org/Relation/has/is_spoken_by_character.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/is_spoken_by_character|is_spoken_by_character]] 
 
-### #is_/same_as :: [is_spoken_by_character.public](/_public/schema-org/Relation/has/is_spoken_by_character.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/is_spoken_by_character.public|is_spoken_by_character.public]] 
 
-### #is_/same_as :: [is_spoken_by_character.internal](/_internal/schema-org/Relation/has/is_spoken_by_character.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/is_spoken_by_character.internal|is_spoken_by_character.internal]] 
 
-### #is_/same_as :: [is_spoken_by_character.protect](/_protect/schema-org/Relation/has/is_spoken_by_character.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/is_spoken_by_character.protect|is_spoken_by_character.protect]] 
 
-### #is_/same_as :: [is_spoken_by_character.private](/_private/schema-org/Relation/has/is_spoken_by_character.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/is_spoken_by_character.private|is_spoken_by_character.private]] 
 
-### #is_/same_as :: [is_spoken_by_character.personal](/_personal/schema-org/Relation/has/is_spoken_by_character.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/is_spoken_by_character.personal|is_spoken_by_character.personal]] 
 
-### #is_/same_as :: [is_spoken_by_character.secret](/_secret/schema-org/Relation/has/is_spoken_by_character.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/is_spoken_by_character.secret|is_spoken_by_character.secret]] 
 

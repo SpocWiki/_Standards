@@ -49,17 +49,17 @@ Commons_category: Space probes
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Space_Probe](/_Standards/Technology/Spaceflight/Space_Probe.md) 
+### #is_/same_as :: [[/_Standards/Technology/Spaceflight/Space_Probe|Space_Probe]] 
 
-### #is_/same_as :: [Space_Probe.public](/_public/Technology/Spaceflight/Space_Probe.public.md) 
+### #is_/same_as :: [[/_public/Technology/Spaceflight/Space_Probe.public|Space_Probe.public]] 
 
-### #is_/same_as :: [Space_Probe.internal](/_internal/Technology/Spaceflight/Space_Probe.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Spaceflight/Space_Probe.internal|Space_Probe.internal]] 
 
-### #is_/same_as :: [Space_Probe.protect](/_protect/Technology/Spaceflight/Space_Probe.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Spaceflight/Space_Probe.protect|Space_Probe.protect]] 
 
-### #is_/same_as :: [Space_Probe.private](/_private/Technology/Spaceflight/Space_Probe.private.md) 
+### #is_/same_as :: [[/_private/Technology/Spaceflight/Space_Probe.private|Space_Probe.private]] 
 
-### #is_/same_as :: [Space_Probe.personal](/_personal/Technology/Spaceflight/Space_Probe.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Spaceflight/Space_Probe.personal|Space_Probe.personal]] 
 
-### #is_/same_as :: [Space_Probe.secret](/_secret/Technology/Spaceflight/Space_Probe.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Spaceflight/Space_Probe.secret|Space_Probe.secret]] 
 

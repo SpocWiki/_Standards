@@ -19,17 +19,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Skin_in_the_Game](/_Standards/Society/Communication/Skin_in_the_Game.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Skin_in_the_Game|Skin_in_the_Game]] 
 
-### #is_/same_as :: [Skin_in_the_Game.public](/_public/Society/Communication/Skin_in_the_Game.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Skin_in_the_Game.public|Skin_in_the_Game.public]] 
 
-### #is_/same_as :: [Skin_in_the_Game.internal](/_internal/Society/Communication/Skin_in_the_Game.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Skin_in_the_Game.internal|Skin_in_the_Game.internal]] 
 
-### #is_/same_as :: [Skin_in_the_Game.protect](/_protect/Society/Communication/Skin_in_the_Game.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Skin_in_the_Game.protect|Skin_in_the_Game.protect]] 
 
-### #is_/same_as :: [Skin_in_the_Game.private](/_private/Society/Communication/Skin_in_the_Game.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Skin_in_the_Game.private|Skin_in_the_Game.private]] 
 
-### #is_/same_as :: [Skin_in_the_Game.personal](/_personal/Society/Communication/Skin_in_the_Game.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Skin_in_the_Game.personal|Skin_in_the_Game.personal]] 
 
-### #is_/same_as :: [Skin_in_the_Game.secret](/_secret/Society/Communication/Skin_in_the_Game.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Skin_in_the_Game.secret|Skin_in_the_Game.secret]] 
 

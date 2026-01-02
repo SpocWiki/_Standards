@@ -46,17 +46,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Virgin_Mary](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Virgin_Mary.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Virgin_Mary|Virgin_Mary]] 
 
-### #is_/same_as :: [Virgin_Mary.public](/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Virgin_Mary.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Virgin_Mary.public|Virgin_Mary.public]] 
 
-### #is_/same_as :: [Virgin_Mary.internal](/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Virgin_Mary.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Virgin_Mary.internal|Virgin_Mary.internal]] 
 
-### #is_/same_as :: [Virgin_Mary.protect](/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Virgin_Mary.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Virgin_Mary.protect|Virgin_Mary.protect]] 
 
-### #is_/same_as :: [Virgin_Mary.private](/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Virgin_Mary.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Virgin_Mary.private|Virgin_Mary.private]] 
 
-### #is_/same_as :: [Virgin_Mary.personal](/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Virgin_Mary.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Virgin_Mary.personal|Virgin_Mary.personal]] 
 
-### #is_/same_as :: [Virgin_Mary.secret](/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Virgin_Mary.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Virgin_Mary.secret|Virgin_Mary.secret]] 
 

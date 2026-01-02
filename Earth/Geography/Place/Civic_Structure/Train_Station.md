@@ -41,17 +41,17 @@ A train station.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Train_Station](/_Standards/Earth/Geography/Place/Civic_Structure/Train_Station.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geography/Place/Civic_Structure/Train_Station|Train_Station]] 
 
-### #is_/same_as :: [Train_Station.public](/_public/Earth/Geography/Place/Civic_Structure/Train_Station.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geography/Place/Civic_Structure/Train_Station.public|Train_Station.public]] 
 
-### #is_/same_as :: [Train_Station.internal](/_internal/Earth/Geography/Place/Civic_Structure/Train_Station.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geography/Place/Civic_Structure/Train_Station.internal|Train_Station.internal]] 
 
-### #is_/same_as :: [Train_Station.protect](/_protect/Earth/Geography/Place/Civic_Structure/Train_Station.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geography/Place/Civic_Structure/Train_Station.protect|Train_Station.protect]] 
 
-### #is_/same_as :: [Train_Station.private](/_private/Earth/Geography/Place/Civic_Structure/Train_Station.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geography/Place/Civic_Structure/Train_Station.private|Train_Station.private]] 
 
-### #is_/same_as :: [Train_Station.personal](/_personal/Earth/Geography/Place/Civic_Structure/Train_Station.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geography/Place/Civic_Structure/Train_Station.personal|Train_Station.personal]] 
 
-### #is_/same_as :: [Train_Station.secret](/_secret/Earth/Geography/Place/Civic_Structure/Train_Station.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geography/Place/Civic_Structure/Train_Station.secret|Train_Station.secret]] 
 

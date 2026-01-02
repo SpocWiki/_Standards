@@ -83,17 +83,17 @@ Wolfram_Language_entity_code: Entity["Canal", "SuezCanal::xsbd4"]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Suez_Canal](/_Standards/Earth/Continent/Africa/Africa~North/Suez_Canal.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~North/Suez_Canal|Suez_Canal]] 
 
-### #is_/same_as :: [Suez_Canal.public](/_public/Earth/Continent/Africa/Africa~North/Suez_Canal.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~North/Suez_Canal.public|Suez_Canal.public]] 
 
-### #is_/same_as :: [Suez_Canal.internal](/_internal/Earth/Continent/Africa/Africa~North/Suez_Canal.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~North/Suez_Canal.internal|Suez_Canal.internal]] 
 
-### #is_/same_as :: [Suez_Canal.protect](/_protect/Earth/Continent/Africa/Africa~North/Suez_Canal.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~North/Suez_Canal.protect|Suez_Canal.protect]] 
 
-### #is_/same_as :: [Suez_Canal.private](/_private/Earth/Continent/Africa/Africa~North/Suez_Canal.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~North/Suez_Canal.private|Suez_Canal.private]] 
 
-### #is_/same_as :: [Suez_Canal.personal](/_personal/Earth/Continent/Africa/Africa~North/Suez_Canal.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~North/Suez_Canal.personal|Suez_Canal.personal]] 
 
-### #is_/same_as :: [Suez_Canal.secret](/_secret/Earth/Continent/Africa/Africa~North/Suez_Canal.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~North/Suez_Canal.secret|Suez_Canal.secret]] 
 

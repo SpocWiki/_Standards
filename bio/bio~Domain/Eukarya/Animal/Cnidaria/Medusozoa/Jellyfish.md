@@ -59,17 +59,17 @@ subreddit: Hammyfish
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Jellyfish](/_Standards/bio/bio~Domain/Eukarya/Animal/Cnidaria/Medusozoa/Jellyfish.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Cnidaria/Medusozoa/Jellyfish|Jellyfish]] 
 
-### #is_/same_as :: [Jellyfish.public](/_public/bio/bio~Domain/Eukarya/Animal/Cnidaria/Medusozoa/Jellyfish.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Cnidaria/Medusozoa/Jellyfish.public|Jellyfish.public]] 
 
-### #is_/same_as :: [Jellyfish.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Cnidaria/Medusozoa/Jellyfish.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Cnidaria/Medusozoa/Jellyfish.internal|Jellyfish.internal]] 
 
-### #is_/same_as :: [Jellyfish.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Cnidaria/Medusozoa/Jellyfish.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Cnidaria/Medusozoa/Jellyfish.protect|Jellyfish.protect]] 
 
-### #is_/same_as :: [Jellyfish.private](/_private/bio/bio~Domain/Eukarya/Animal/Cnidaria/Medusozoa/Jellyfish.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Cnidaria/Medusozoa/Jellyfish.private|Jellyfish.private]] 
 
-### #is_/same_as :: [Jellyfish.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Cnidaria/Medusozoa/Jellyfish.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Cnidaria/Medusozoa/Jellyfish.personal|Jellyfish.personal]] 
 
-### #is_/same_as :: [Jellyfish.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Cnidaria/Medusozoa/Jellyfish.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Cnidaria/Medusozoa/Jellyfish.secret|Jellyfish.secret]] 
 

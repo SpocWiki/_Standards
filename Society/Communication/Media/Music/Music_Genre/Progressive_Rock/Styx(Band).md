@@ -54,17 +54,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Styx(Band)](/_Standards/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Styx(Band).md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Styx(Band)|Styx(Band)]] 
 
-### #is_/same_as :: [Styx(Band).public](/_public/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Styx(Band).public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Styx(Band).public|Styx(Band).public]] 
 
-### #is_/same_as :: [Styx(Band).internal](/_internal/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Styx(Band).internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Styx(Band).internal|Styx(Band).internal]] 
 
-### #is_/same_as :: [Styx(Band).protect](/_protect/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Styx(Band).protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Styx(Band).protect|Styx(Band).protect]] 
 
-### #is_/same_as :: [Styx(Band).private](/_private/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Styx(Band).private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Styx(Band).private|Styx(Band).private]] 
 
-### #is_/same_as :: [Styx(Band).personal](/_personal/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Styx(Band).personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Styx(Band).personal|Styx(Band).personal]] 
 
-### #is_/same_as :: [Styx(Band).secret](/_secret/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Styx(Band).secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Styx(Band).secret|Styx(Band).secret]] 
 

@@ -190,17 +190,17 @@ Libris_URI: 20dg9h6l0n7mr32
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Erasmus](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1500/Erasmus.md) 
+### #is_/same_as :: [[/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1500/Erasmus|Erasmus]] 
 
-### #is_/same_as :: [Erasmus.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1500/Erasmus.public.md) 
+### #is_/same_as :: [[/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1500/Erasmus.public|Erasmus.public]] 
 
-### #is_/same_as :: [Erasmus.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1500/Erasmus.internal.md) 
+### #is_/same_as :: [[/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1500/Erasmus.internal|Erasmus.internal]] 
 
-### #is_/same_as :: [Erasmus.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1500/Erasmus.protect.md) 
+### #is_/same_as :: [[/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1500/Erasmus.protect|Erasmus.protect]] 
 
-### #is_/same_as :: [Erasmus.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1500/Erasmus.private.md) 
+### #is_/same_as :: [[/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1500/Erasmus.private|Erasmus.private]] 
 
-### #is_/same_as :: [Erasmus.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1500/Erasmus.personal.md) 
+### #is_/same_as :: [[/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1500/Erasmus.personal|Erasmus.personal]] 
 
-### #is_/same_as :: [Erasmus.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1500/Erasmus.secret.md)
+### #is_/same_as :: [[/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1500/Erasmus.secret|Erasmus.secret]] 
 

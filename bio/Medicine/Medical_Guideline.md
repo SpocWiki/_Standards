@@ -45,17 +45,17 @@ Any recommendation made by a standard society (e.g. ACC/AHA) or consensus statem
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Medical_Guideline](/_Standards/bio/Medicine/Medical_Guideline.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Guideline|Medical_Guideline]] 
 
-### #is_/same_as :: [Medical_Guideline.public](/_public/bio/Medicine/Medical_Guideline.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Guideline.public|Medical_Guideline.public]] 
 
-### #is_/same_as :: [Medical_Guideline.internal](/_internal/bio/Medicine/Medical_Guideline.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Guideline.internal|Medical_Guideline.internal]] 
 
-### #is_/same_as :: [Medical_Guideline.protect](/_protect/bio/Medicine/Medical_Guideline.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Guideline.protect|Medical_Guideline.protect]] 
 
-### #is_/same_as :: [Medical_Guideline.private](/_private/bio/Medicine/Medical_Guideline.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Guideline.private|Medical_Guideline.private]] 
 
-### #is_/same_as :: [Medical_Guideline.personal](/_personal/bio/Medicine/Medical_Guideline.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Guideline.personal|Medical_Guideline.personal]] 
 
-### #is_/same_as :: [Medical_Guideline.secret](/_secret/bio/Medicine/Medical_Guideline.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Guideline.secret|Medical_Guideline.secret]] 
 

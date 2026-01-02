@@ -115,17 +115,17 @@ UserInteractionCount:: {"type":"Number","options":{}}
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~InteractionCounter](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~InteractionCounter.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~InteractionCounter|FileClass~InteractionCounter]] 
 
-### #is_/same_as :: [FileClass~InteractionCounter.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~InteractionCounter.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~InteractionCounter.public|FileClass~InteractionCounter.public]] 
 
-### #is_/same_as :: [FileClass~InteractionCounter.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~InteractionCounter.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~InteractionCounter.internal|FileClass~InteractionCounter.internal]] 
 
-### #is_/same_as :: [FileClass~InteractionCounter.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~InteractionCounter.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~InteractionCounter.protect|FileClass~InteractionCounter.protect]] 
 
-### #is_/same_as :: [FileClass~InteractionCounter.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~InteractionCounter.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~InteractionCounter.private|FileClass~InteractionCounter.private]] 
 
-### #is_/same_as :: [FileClass~InteractionCounter.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~InteractionCounter.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~InteractionCounter.personal|FileClass~InteractionCounter.personal]] 
 
-### #is_/same_as :: [FileClass~InteractionCounter.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~InteractionCounter.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~InteractionCounter.secret|FileClass~InteractionCounter.secret]] 
 

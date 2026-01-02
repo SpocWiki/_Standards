@@ -42,17 +42,17 @@ Nonprofit501c24: Non-profit type referring to Section 4049 ERISA Trusts.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Nonprofit501c24](/_Standards/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c24.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c24|Nonprofit501c24]] 
 
-### #is_/same_as :: [Nonprofit501c24.public](/_public/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c24.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c24.public|Nonprofit501c24.public]] 
 
-### #is_/same_as :: [Nonprofit501c24.internal](/_internal/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c24.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c24.internal|Nonprofit501c24.internal]] 
 
-### #is_/same_as :: [Nonprofit501c24.protect](/_protect/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c24.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c24.protect|Nonprofit501c24.protect]] 
 
-### #is_/same_as :: [Nonprofit501c24.private](/_private/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c24.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c24.private|Nonprofit501c24.private]] 
 
-### #is_/same_as :: [Nonprofit501c24.personal](/_personal/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c24.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c24.personal|Nonprofit501c24.personal]] 
 
-### #is_/same_as :: [Nonprofit501c24.secret](/_secret/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c24.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c24.secret|Nonprofit501c24.secret]] 
 

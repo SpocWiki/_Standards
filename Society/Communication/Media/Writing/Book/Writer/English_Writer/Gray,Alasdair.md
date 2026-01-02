@@ -46,17 +46,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Gray,Alasdair](/_Standards/Society/Communication/Media/Writing/Book/Writer/English_Writer/Gray,Alasdair.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Writer/English_Writer/Gray,Alasdair|Gray,Alasdair]] 
 
-### #is_/same_as :: [Gray,Alasdair.public](/_public/Society/Communication/Media/Writing/Book/Writer/English_Writer/Gray,Alasdair.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Writer/English_Writer/Gray,Alasdair.public|Gray,Alasdair.public]] 
 
-### #is_/same_as :: [Gray,Alasdair.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/English_Writer/Gray,Alasdair.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Writer/English_Writer/Gray,Alasdair.internal|Gray,Alasdair.internal]] 
 
-### #is_/same_as :: [Gray,Alasdair.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/English_Writer/Gray,Alasdair.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Writer/English_Writer/Gray,Alasdair.protect|Gray,Alasdair.protect]] 
 
-### #is_/same_as :: [Gray,Alasdair.private](/_private/Society/Communication/Media/Writing/Book/Writer/English_Writer/Gray,Alasdair.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Writer/English_Writer/Gray,Alasdair.private|Gray,Alasdair.private]] 
 
-### #is_/same_as :: [Gray,Alasdair.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/English_Writer/Gray,Alasdair.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Writer/English_Writer/Gray,Alasdair.personal|Gray,Alasdair.personal]] 
 
-### #is_/same_as :: [Gray,Alasdair.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/English_Writer/Gray,Alasdair.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Writer/English_Writer/Gray,Alasdair.secret|Gray,Alasdair.secret]] 
 

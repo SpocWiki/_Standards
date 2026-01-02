@@ -145,3 +145,22 @@ work_available_at_URL: https://www.archives.gov/founding-docs/constitution-trans
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Constitution%20of%20the%20United%20States) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~North/USA/US_Constitution|US_Constitution]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/America~North/USA/US_Constitution.public|US_Constitution.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/America~North/USA/US_Constitution.internal|US_Constitution.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/America~North/USA/US_Constitution.protect|US_Constitution.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/America~North/USA/US_Constitution.private|US_Constitution.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/America~North/USA/US_Constitution.personal|US_Constitution.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/America~North/USA/US_Constitution.secret|US_Constitution.secret]] 
+

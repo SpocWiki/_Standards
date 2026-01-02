@@ -42,17 +42,17 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Drymud-IMG%202920.JPG
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Soil_Mechanics](/_Standards/Science/Physics/Fluid_Mechanics/Soil_Mechanics.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Fluid_Mechanics/Soil_Mechanics|Soil_Mechanics]] 
 
-### #is_/same_as :: [Soil_Mechanics.public](/_public/Science/Physics/Fluid_Mechanics/Soil_Mechanics.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Fluid_Mechanics/Soil_Mechanics.public|Soil_Mechanics.public]] 
 
-### #is_/same_as :: [Soil_Mechanics.internal](/_internal/Science/Physics/Fluid_Mechanics/Soil_Mechanics.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Fluid_Mechanics/Soil_Mechanics.internal|Soil_Mechanics.internal]] 
 
-### #is_/same_as :: [Soil_Mechanics.protect](/_protect/Science/Physics/Fluid_Mechanics/Soil_Mechanics.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Fluid_Mechanics/Soil_Mechanics.protect|Soil_Mechanics.protect]] 
 
-### #is_/same_as :: [Soil_Mechanics.private](/_private/Science/Physics/Fluid_Mechanics/Soil_Mechanics.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Fluid_Mechanics/Soil_Mechanics.private|Soil_Mechanics.private]] 
 
-### #is_/same_as :: [Soil_Mechanics.personal](/_personal/Science/Physics/Fluid_Mechanics/Soil_Mechanics.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Fluid_Mechanics/Soil_Mechanics.personal|Soil_Mechanics.personal]] 
 
-### #is_/same_as :: [Soil_Mechanics.secret](/_secret/Science/Physics/Fluid_Mechanics/Soil_Mechanics.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Fluid_Mechanics/Soil_Mechanics.secret|Soil_Mechanics.secret]] 
 

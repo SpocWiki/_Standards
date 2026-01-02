@@ -43,17 +43,17 @@ Web page type: Media gallery page. A mixed-media page that can contain media suc
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Media_Gallery](/_Standards/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Collection_Page/Media_Gallery.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Collection_Page/Media_Gallery|Media_Gallery]] 
 
-### #is_/same_as :: [Media_Gallery.public](/_public/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Collection_Page/Media_Gallery.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Collection_Page/Media_Gallery.public|Media_Gallery.public]] 
 
-### #is_/same_as :: [Media_Gallery.internal](/_internal/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Collection_Page/Media_Gallery.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Collection_Page/Media_Gallery.internal|Media_Gallery.internal]] 
 
-### #is_/same_as :: [Media_Gallery.protect](/_protect/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Collection_Page/Media_Gallery.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Collection_Page/Media_Gallery.protect|Media_Gallery.protect]] 
 
-### #is_/same_as :: [Media_Gallery.private](/_private/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Collection_Page/Media_Gallery.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Collection_Page/Media_Gallery.private|Media_Gallery.private]] 
 
-### #is_/same_as :: [Media_Gallery.personal](/_personal/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Collection_Page/Media_Gallery.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Collection_Page/Media_Gallery.personal|Media_Gallery.personal]] 
 
-### #is_/same_as :: [Media_Gallery.secret](/_secret/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Collection_Page/Media_Gallery.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Collection_Page/Media_Gallery.secret|Media_Gallery.secret]] 
 

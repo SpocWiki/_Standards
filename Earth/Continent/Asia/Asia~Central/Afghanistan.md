@@ -585,17 +585,17 @@ Capital :: [[Afghanistan/Counties/Kabul/City/Kabul]]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Afghanistan](/_Standards/Earth/Continent/Asia/Asia~Central/Afghanistan.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~Central/Afghanistan|Afghanistan]] 
 
-### #is_/same_as :: [Afghanistan.public](/_public/Earth/Continent/Asia/Asia~Central/Afghanistan.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~Central/Afghanistan.public|Afghanistan.public]] 
 
-### #is_/same_as :: [Afghanistan.internal](/_internal/Earth/Continent/Asia/Asia~Central/Afghanistan.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~Central/Afghanistan.internal|Afghanistan.internal]] 
 
-### #is_/same_as :: [Afghanistan.protect](/_protect/Earth/Continent/Asia/Asia~Central/Afghanistan.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~Central/Afghanistan.protect|Afghanistan.protect]] 
 
-### #is_/same_as :: [Afghanistan.private](/_private/Earth/Continent/Asia/Asia~Central/Afghanistan.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~Central/Afghanistan.private|Afghanistan.private]] 
 
-### #is_/same_as :: [Afghanistan.personal](/_personal/Earth/Continent/Asia/Asia~Central/Afghanistan.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~Central/Afghanistan.personal|Afghanistan.personal]] 
 
-### #is_/same_as :: [Afghanistan.secret](/_secret/Earth/Continent/Asia/Asia~Central/Afghanistan.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~Central/Afghanistan.secret|Afghanistan.secret]] 
 

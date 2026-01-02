@@ -71,17 +71,17 @@ vocalized_name: פִּטְרִיָּה
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Mushroom](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Mushroom.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Home_Economics/Cooking/Food/Mushroom|Mushroom]] 
 
-### #is_/same_as :: [Mushroom.public](/_public/Society/Economics/Home_Economics/Cooking/Food/Mushroom.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Home_Economics/Cooking/Food/Mushroom.public|Mushroom.public]] 
 
-### #is_/same_as :: [Mushroom.internal](/_internal/Society/Economics/Home_Economics/Cooking/Food/Mushroom.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Home_Economics/Cooking/Food/Mushroom.internal|Mushroom.internal]] 
 
-### #is_/same_as :: [Mushroom.protect](/_protect/Society/Economics/Home_Economics/Cooking/Food/Mushroom.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Home_Economics/Cooking/Food/Mushroom.protect|Mushroom.protect]] 
 
-### #is_/same_as :: [Mushroom.private](/_private/Society/Economics/Home_Economics/Cooking/Food/Mushroom.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Home_Economics/Cooking/Food/Mushroom.private|Mushroom.private]] 
 
-### #is_/same_as :: [Mushroom.personal](/_personal/Society/Economics/Home_Economics/Cooking/Food/Mushroom.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Home_Economics/Cooking/Food/Mushroom.personal|Mushroom.personal]] 
 
-### #is_/same_as :: [Mushroom.secret](/_secret/Society/Economics/Home_Economics/Cooking/Food/Mushroom.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Home_Economics/Cooking/Food/Mushroom.secret|Mushroom.secret]] 
 

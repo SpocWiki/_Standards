@@ -71,17 +71,17 @@ U_S_National_Archives_Identifier: 10646520
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [1989_Tiananmen_Square_protests_and_massacre](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1989_Tiananmen_Square_protests_and_massacre.md) 
+### #is_/same_as :: [[/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1989_Tiananmen_Square_protests_and_massacre|1989_Tiananmen_Square_protests_and_massacre]] 
 
-### #is_/same_as :: [1989_Tiananmen_Square_protests_and_massacre.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1989_Tiananmen_Square_protests_and_massacre.public.md) 
+### #is_/same_as :: [[/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1989_Tiananmen_Square_protests_and_massacre.public|1989_Tiananmen_Square_protests_and_massacre.public]] 
 
-### #is_/same_as :: [1989_Tiananmen_Square_protests_and_massacre.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1989_Tiananmen_Square_protests_and_massacre.internal.md) 
+### #is_/same_as :: [[/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1989_Tiananmen_Square_protests_and_massacre.internal|1989_Tiananmen_Square_protests_and_massacre.internal]] 
 
-### #is_/same_as :: [1989_Tiananmen_Square_protests_and_massacre.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1989_Tiananmen_Square_protests_and_massacre.protect.md) 
+### #is_/same_as :: [[/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1989_Tiananmen_Square_protests_and_massacre.protect|1989_Tiananmen_Square_protests_and_massacre.protect]] 
 
-### #is_/same_as :: [1989_Tiananmen_Square_protests_and_massacre.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1989_Tiananmen_Square_protests_and_massacre.private.md) 
+### #is_/same_as :: [[/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1989_Tiananmen_Square_protests_and_massacre.private|1989_Tiananmen_Square_protests_and_massacre.private]] 
 
-### #is_/same_as :: [1989_Tiananmen_Square_protests_and_massacre.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1989_Tiananmen_Square_protests_and_massacre.personal.md) 
+### #is_/same_as :: [[/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1989_Tiananmen_Square_protests_and_massacre.personal|1989_Tiananmen_Square_protests_and_massacre.personal]] 
 
-### #is_/same_as :: [1989_Tiananmen_Square_protests_and_massacre.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1989_Tiananmen_Square_protests_and_massacre.secret.md)
+### #is_/same_as :: [[/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1989_Tiananmen_Square_protests_and_massacre.secret|1989_Tiananmen_Square_protests_and_massacre.secret]] 
 

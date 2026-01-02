@@ -181,17 +181,17 @@ Europeana_entity: agent/base/147075
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Garland,Judy](/_Standards/Society/Communication/Media/Music/Musician/Singer/Garland,Judy.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Musician/Singer/Garland,Judy|Garland,Judy]] 
 
-### #is_/same_as :: [Garland,Judy.public](/_public/Society/Communication/Media/Music/Musician/Singer/Garland,Judy.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Musician/Singer/Garland,Judy.public|Garland,Judy.public]] 
 
-### #is_/same_as :: [Garland,Judy.internal](/_internal/Society/Communication/Media/Music/Musician/Singer/Garland,Judy.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Musician/Singer/Garland,Judy.internal|Garland,Judy.internal]] 
 
-### #is_/same_as :: [Garland,Judy.protect](/_protect/Society/Communication/Media/Music/Musician/Singer/Garland,Judy.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Musician/Singer/Garland,Judy.protect|Garland,Judy.protect]] 
 
-### #is_/same_as :: [Garland,Judy.private](/_private/Society/Communication/Media/Music/Musician/Singer/Garland,Judy.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Musician/Singer/Garland,Judy.private|Garland,Judy.private]] 
 
-### #is_/same_as :: [Garland,Judy.personal](/_personal/Society/Communication/Media/Music/Musician/Singer/Garland,Judy.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Musician/Singer/Garland,Judy.personal|Garland,Judy.personal]] 
 
-### #is_/same_as :: [Garland,Judy.secret](/_secret/Society/Communication/Media/Music/Musician/Singer/Garland,Judy.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Musician/Singer/Garland,Judy.secret|Garland,Judy.secret]] 
 

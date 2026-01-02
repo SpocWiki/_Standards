@@ -85,17 +85,17 @@ PhilPapers_topic: russells-paradox
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Russell's_Paradox](/_Standards/Mathematics/Set_Theory/Russell's_Paradox.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Set_Theory/Russell's_Paradox|Russell's_Paradox]] 
 
-### #is_/same_as :: [Russell's_Paradox.public](/_public/Mathematics/Set_Theory/Russell's_Paradox.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Set_Theory/Russell's_Paradox.public|Russell's_Paradox.public]] 
 
-### #is_/same_as :: [Russell's_Paradox.internal](/_internal/Mathematics/Set_Theory/Russell's_Paradox.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Set_Theory/Russell's_Paradox.internal|Russell's_Paradox.internal]] 
 
-### #is_/same_as :: [Russell's_Paradox.protect](/_protect/Mathematics/Set_Theory/Russell's_Paradox.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Set_Theory/Russell's_Paradox.protect|Russell's_Paradox.protect]] 
 
-### #is_/same_as :: [Russell's_Paradox.private](/_private/Mathematics/Set_Theory/Russell's_Paradox.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Set_Theory/Russell's_Paradox.private|Russell's_Paradox.private]] 
 
-### #is_/same_as :: [Russell's_Paradox.personal](/_personal/Mathematics/Set_Theory/Russell's_Paradox.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Set_Theory/Russell's_Paradox.personal|Russell's_Paradox.personal]] 
 
-### #is_/same_as :: [Russell's_Paradox.secret](/_secret/Mathematics/Set_Theory/Russell's_Paradox.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Set_Theory/Russell's_Paradox.secret|Russell's_Paradox.secret]] 
 

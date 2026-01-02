@@ -28,17 +28,17 @@ Commons_category: Multilinear algebra
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Multilinear_Algebra](/_Standards/Mathematics/Algebra/Linear_Algebra/Multilinear_Algebra.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Algebra/Linear_Algebra/Multilinear_Algebra|Multilinear_Algebra]] 
 
-### #is_/same_as :: [Multilinear_Algebra.public](/_public/Mathematics/Algebra/Linear_Algebra/Multilinear_Algebra.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Algebra/Linear_Algebra/Multilinear_Algebra.public|Multilinear_Algebra.public]] 
 
-### #is_/same_as :: [Multilinear_Algebra.internal](/_internal/Mathematics/Algebra/Linear_Algebra/Multilinear_Algebra.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Algebra/Linear_Algebra/Multilinear_Algebra.internal|Multilinear_Algebra.internal]] 
 
-### #is_/same_as :: [Multilinear_Algebra.protect](/_protect/Mathematics/Algebra/Linear_Algebra/Multilinear_Algebra.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Algebra/Linear_Algebra/Multilinear_Algebra.protect|Multilinear_Algebra.protect]] 
 
-### #is_/same_as :: [Multilinear_Algebra.private](/_private/Mathematics/Algebra/Linear_Algebra/Multilinear_Algebra.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Algebra/Linear_Algebra/Multilinear_Algebra.private|Multilinear_Algebra.private]] 
 
-### #is_/same_as :: [Multilinear_Algebra.personal](/_personal/Mathematics/Algebra/Linear_Algebra/Multilinear_Algebra.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Algebra/Linear_Algebra/Multilinear_Algebra.personal|Multilinear_Algebra.personal]] 
 
-### #is_/same_as :: [Multilinear_Algebra.secret](/_secret/Mathematics/Algebra/Linear_Algebra/Multilinear_Algebra.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Algebra/Linear_Algebra/Multilinear_Algebra.secret|Multilinear_Algebra.secret]] 
 

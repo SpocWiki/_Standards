@@ -55,17 +55,17 @@ Commons_category: News agencies
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [News_Agency](/_Standards/Society/Communication/Media/Journalism/News_Agency.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Journalism/News_Agency|News_Agency]] 
 
-### #is_/same_as :: [News_Agency.public](/_public/Society/Communication/Media/Journalism/News_Agency.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Journalism/News_Agency.public|News_Agency.public]] 
 
-### #is_/same_as :: [News_Agency.internal](/_internal/Society/Communication/Media/Journalism/News_Agency.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Journalism/News_Agency.internal|News_Agency.internal]] 
 
-### #is_/same_as :: [News_Agency.protect](/_protect/Society/Communication/Media/Journalism/News_Agency.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Journalism/News_Agency.protect|News_Agency.protect]] 
 
-### #is_/same_as :: [News_Agency.private](/_private/Society/Communication/Media/Journalism/News_Agency.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Journalism/News_Agency.private|News_Agency.private]] 
 
-### #is_/same_as :: [News_Agency.personal](/_personal/Society/Communication/Media/Journalism/News_Agency.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Journalism/News_Agency.personal|News_Agency.personal]] 
 
-### #is_/same_as :: [News_Agency.secret](/_secret/Society/Communication/Media/Journalism/News_Agency.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Journalism/News_Agency.secret|News_Agency.secret]] 
 

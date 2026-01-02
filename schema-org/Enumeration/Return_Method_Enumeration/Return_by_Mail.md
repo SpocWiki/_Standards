@@ -44,17 +44,17 @@ Specifies that product returns must be done by mail.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Return_by_Mail](/_Standards/schema-org/Enumeration/Return_Method_Enumeration/Return_by_Mail.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Return_Method_Enumeration/Return_by_Mail|Return_by_Mail]] 
 
-### #is_/same_as :: [Return_by_Mail.public](/_public/schema-org/Enumeration/Return_Method_Enumeration/Return_by_Mail.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Return_Method_Enumeration/Return_by_Mail.public|Return_by_Mail.public]] 
 
-### #is_/same_as :: [Return_by_Mail.internal](/_internal/schema-org/Enumeration/Return_Method_Enumeration/Return_by_Mail.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Return_Method_Enumeration/Return_by_Mail.internal|Return_by_Mail.internal]] 
 
-### #is_/same_as :: [Return_by_Mail.protect](/_protect/schema-org/Enumeration/Return_Method_Enumeration/Return_by_Mail.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Return_Method_Enumeration/Return_by_Mail.protect|Return_by_Mail.protect]] 
 
-### #is_/same_as :: [Return_by_Mail.private](/_private/schema-org/Enumeration/Return_Method_Enumeration/Return_by_Mail.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Return_Method_Enumeration/Return_by_Mail.private|Return_by_Mail.private]] 
 
-### #is_/same_as :: [Return_by_Mail.personal](/_personal/schema-org/Enumeration/Return_Method_Enumeration/Return_by_Mail.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Return_Method_Enumeration/Return_by_Mail.personal|Return_by_Mail.personal]] 
 
-### #is_/same_as :: [Return_by_Mail.secret](/_secret/schema-org/Enumeration/Return_Method_Enumeration/Return_by_Mail.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Return_Method_Enumeration/Return_by_Mail.secret|Return_by_Mail.secret]] 
 

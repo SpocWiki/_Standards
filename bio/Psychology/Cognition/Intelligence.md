@@ -78,17 +78,17 @@ Krugosvet_article_archived_: gumanitarnye_nauki/psihologiya_i_pedagogika/INTELLE
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Intelligence](/_Standards/bio/Psychology/Cognition/Intelligence.md) 
+### #is_/same_as :: [[/_Standards/bio/Psychology/Cognition/Intelligence|Intelligence]] 
 
-### #is_/same_as :: [Intelligence.public](/_public/bio/Psychology/Cognition/Intelligence.public.md) 
+### #is_/same_as :: [[/_public/bio/Psychology/Cognition/Intelligence.public|Intelligence.public]] 
 
-### #is_/same_as :: [Intelligence.internal](/_internal/bio/Psychology/Cognition/Intelligence.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Psychology/Cognition/Intelligence.internal|Intelligence.internal]] 
 
-### #is_/same_as :: [Intelligence.protect](/_protect/bio/Psychology/Cognition/Intelligence.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Psychology/Cognition/Intelligence.protect|Intelligence.protect]] 
 
-### #is_/same_as :: [Intelligence.private](/_private/bio/Psychology/Cognition/Intelligence.private.md) 
+### #is_/same_as :: [[/_private/bio/Psychology/Cognition/Intelligence.private|Intelligence.private]] 
 
-### #is_/same_as :: [Intelligence.personal](/_personal/bio/Psychology/Cognition/Intelligence.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Psychology/Cognition/Intelligence.personal|Intelligence.personal]] 
 
-### #is_/same_as :: [Intelligence.secret](/_secret/bio/Psychology/Cognition/Intelligence.secret.md)
+### #is_/same_as :: [[/_secret/bio/Psychology/Cognition/Intelligence.secret|Intelligence.secret]] 
 

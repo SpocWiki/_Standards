@@ -47,17 +47,17 @@ subreddit: paganism
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Paganism](/_Standards/Philosophy/Metaphysic/Religion/Paganism.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Paganism|Paganism]] 
 
-### #is_/same_as :: [Paganism.public](/_public/Philosophy/Metaphysic/Religion/Paganism.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Paganism.public|Paganism.public]] 
 
-### #is_/same_as :: [Paganism.internal](/_internal/Philosophy/Metaphysic/Religion/Paganism.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Paganism.internal|Paganism.internal]] 
 
-### #is_/same_as :: [Paganism.protect](/_protect/Philosophy/Metaphysic/Religion/Paganism.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Paganism.protect|Paganism.protect]] 
 
-### #is_/same_as :: [Paganism.private](/_private/Philosophy/Metaphysic/Religion/Paganism.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Paganism.private|Paganism.private]] 
 
-### #is_/same_as :: [Paganism.personal](/_personal/Philosophy/Metaphysic/Religion/Paganism.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Paganism.personal|Paganism.personal]] 
 
-### #is_/same_as :: [Paganism.secret](/_secret/Philosophy/Metaphysic/Religion/Paganism.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Paganism.secret|Paganism.secret]] 
 

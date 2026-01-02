@@ -28,17 +28,17 @@ taxon_name: Rhincodontidae
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Rhincodontidae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Chondrichthyes/Elasmobranchii/Shark/Orectolobiformes/Rhincodontidae.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Chondrichthyes/Elasmobranchii/Shark/Orectolobiformes/Rhincodontidae|Rhincodontidae]] 
 
-### #is_/same_as :: [Rhincodontidae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Chondrichthyes/Elasmobranchii/Shark/Orectolobiformes/Rhincodontidae.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Chondrichthyes/Elasmobranchii/Shark/Orectolobiformes/Rhincodontidae.public|Rhincodontidae.public]] 
 
-### #is_/same_as :: [Rhincodontidae.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Chondrichthyes/Elasmobranchii/Shark/Orectolobiformes/Rhincodontidae.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Chondrichthyes/Elasmobranchii/Shark/Orectolobiformes/Rhincodontidae.internal|Rhincodontidae.internal]] 
 
-### #is_/same_as :: [Rhincodontidae.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Chondrichthyes/Elasmobranchii/Shark/Orectolobiformes/Rhincodontidae.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Chondrichthyes/Elasmobranchii/Shark/Orectolobiformes/Rhincodontidae.protect|Rhincodontidae.protect]] 
 
-### #is_/same_as :: [Rhincodontidae.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Chondrichthyes/Elasmobranchii/Shark/Orectolobiformes/Rhincodontidae.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Chondrichthyes/Elasmobranchii/Shark/Orectolobiformes/Rhincodontidae.private|Rhincodontidae.private]] 
 
-### #is_/same_as :: [Rhincodontidae.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Chondrichthyes/Elasmobranchii/Shark/Orectolobiformes/Rhincodontidae.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Chondrichthyes/Elasmobranchii/Shark/Orectolobiformes/Rhincodontidae.personal|Rhincodontidae.personal]] 
 
-### #is_/same_as :: [Rhincodontidae.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Chondrichthyes/Elasmobranchii/Shark/Orectolobiformes/Rhincodontidae.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Chondrichthyes/Elasmobranchii/Shark/Orectolobiformes/Rhincodontidae.secret|Rhincodontidae.secret]] 
 

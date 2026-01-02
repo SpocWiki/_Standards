@@ -27,17 +27,17 @@ subreddit: gnulinux
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [GNU+Linux](/_Standards/Technology/IT/Software/OS(Operating-System)/OS~Linux/GNU+Linux.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Software/OS(Operating-System)/OS~Linux/GNU+Linux|GNU+Linux]] 
 
-### #is_/same_as :: [GNU+Linux.public](/_public/Technology/IT/Software/OS(Operating-System)/OS~Linux/GNU+Linux.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Software/OS(Operating-System)/OS~Linux/GNU+Linux.public|GNU+Linux.public]] 
 
-### #is_/same_as :: [GNU+Linux.internal](/_internal/Technology/IT/Software/OS(Operating-System)/OS~Linux/GNU+Linux.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Software/OS(Operating-System)/OS~Linux/GNU+Linux.internal|GNU+Linux.internal]] 
 
-### #is_/same_as :: [GNU+Linux.protect](/_protect/Technology/IT/Software/OS(Operating-System)/OS~Linux/GNU+Linux.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Software/OS(Operating-System)/OS~Linux/GNU+Linux.protect|GNU+Linux.protect]] 
 
-### #is_/same_as :: [GNU+Linux.private](/_private/Technology/IT/Software/OS(Operating-System)/OS~Linux/GNU+Linux.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Software/OS(Operating-System)/OS~Linux/GNU+Linux.private|GNU+Linux.private]] 
 
-### #is_/same_as :: [GNU+Linux.personal](/_personal/Technology/IT/Software/OS(Operating-System)/OS~Linux/GNU+Linux.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Software/OS(Operating-System)/OS~Linux/GNU+Linux.personal|GNU+Linux.personal]] 
 
-### #is_/same_as :: [GNU+Linux.secret](/_secret/Technology/IT/Software/OS(Operating-System)/OS~Linux/GNU+Linux.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Software/OS(Operating-System)/OS~Linux/GNU+Linux.secret|GNU+Linux.secret]] 
 

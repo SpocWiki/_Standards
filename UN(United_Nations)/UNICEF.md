@@ -114,17 +114,17 @@ ISNI:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [UNICEF](/_Standards/UN(United_Nations)/UNICEF.md) 
+### #is_/same_as :: [[/_Standards/UN(United_Nations)/UNICEF|UNICEF]] 
 
-### #is_/same_as :: [UNICEF.public](/_public/UN(United_Nations)/UNICEF.public.md) 
+### #is_/same_as :: [[/_public/UN(United_Nations)/UNICEF.public|UNICEF.public]] 
 
-### #is_/same_as :: [UNICEF.internal](/_internal/UN(United_Nations)/UNICEF.internal.md) 
+### #is_/same_as :: [[/_internal/UN(United_Nations)/UNICEF.internal|UNICEF.internal]] 
 
-### #is_/same_as :: [UNICEF.protect](/_protect/UN(United_Nations)/UNICEF.protect.md) 
+### #is_/same_as :: [[/_protect/UN(United_Nations)/UNICEF.protect|UNICEF.protect]] 
 
-### #is_/same_as :: [UNICEF.private](/_private/UN(United_Nations)/UNICEF.private.md) 
+### #is_/same_as :: [[/_private/UN(United_Nations)/UNICEF.private|UNICEF.private]] 
 
-### #is_/same_as :: [UNICEF.personal](/_personal/UN(United_Nations)/UNICEF.personal.md) 
+### #is_/same_as :: [[/_personal/UN(United_Nations)/UNICEF.personal|UNICEF.personal]] 
 
-### #is_/same_as :: [UNICEF.secret](/_secret/UN(United_Nations)/UNICEF.secret.md)
+### #is_/same_as :: [[/_secret/UN(United_Nations)/UNICEF.secret|UNICEF.secret]] 
 

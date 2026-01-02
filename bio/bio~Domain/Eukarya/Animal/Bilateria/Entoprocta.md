@@ -7,7 +7,7 @@ title: Entoprocta
 # [[Entoprocta]]
 
 goblet worms, nodding heads, kamptozoans 
-![ ](Entoprocta/ento003b.gif))
+![ ](Entoprocta/ento003b.gif) 
 
 
 ## #has_/text_of_/abstract 
@@ -72,23 +72,23 @@ Drawing by Stritch. Copyright © 2001
 [BIODIDAC](http://biodidac.bio.uottawa.ca/index.htm)
 
 -------------------------------------------------------------------------- 
-![](Entoprocta/ento003b.gif))
+![](Entoprocta/ento003b.gif) 
 Copyright ::   © 2001 [BIODIDAC](http://biodidac.bio.uottawa.ca/index.htm) 
 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Entoprocta](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Entoprocta.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Entoprocta|Entoprocta]] 
 
-### #is_/same_as :: [Entoprocta.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Entoprocta.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Entoprocta.public|Entoprocta.public]] 
 
-### #is_/same_as :: [Entoprocta.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Entoprocta.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Entoprocta.internal|Entoprocta.internal]] 
 
-### #is_/same_as :: [Entoprocta.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Entoprocta.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Entoprocta.protect|Entoprocta.protect]] 
 
-### #is_/same_as :: [Entoprocta.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Entoprocta.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Entoprocta.private|Entoprocta.private]] 
 
-### #is_/same_as :: [Entoprocta.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Entoprocta.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Entoprocta.personal|Entoprocta.personal]] 
 
-### #is_/same_as :: [Entoprocta.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Entoprocta.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Entoprocta.secret|Entoprocta.secret]] 
 

@@ -49,17 +49,17 @@ Krugosvet_article: kultura_i_obrazovanie/literatura/EPICHESKAYA_POEZIYA.html
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Epic_Poem](/_Standards/Society/Communication/Media/Writing/Book/Poetry/Epic_Poem.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Poetry/Epic_Poem|Epic_Poem]] 
 
-### #is_/same_as :: [Epic_Poem.public](/_public/Society/Communication/Media/Writing/Book/Poetry/Epic_Poem.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Poetry/Epic_Poem.public|Epic_Poem.public]] 
 
-### #is_/same_as :: [Epic_Poem.internal](/_internal/Society/Communication/Media/Writing/Book/Poetry/Epic_Poem.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Poetry/Epic_Poem.internal|Epic_Poem.internal]] 
 
-### #is_/same_as :: [Epic_Poem.protect](/_protect/Society/Communication/Media/Writing/Book/Poetry/Epic_Poem.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Poetry/Epic_Poem.protect|Epic_Poem.protect]] 
 
-### #is_/same_as :: [Epic_Poem.private](/_private/Society/Communication/Media/Writing/Book/Poetry/Epic_Poem.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Poetry/Epic_Poem.private|Epic_Poem.private]] 
 
-### #is_/same_as :: [Epic_Poem.personal](/_personal/Society/Communication/Media/Writing/Book/Poetry/Epic_Poem.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Poetry/Epic_Poem.personal|Epic_Poem.personal]] 
 
-### #is_/same_as :: [Epic_Poem.secret](/_secret/Society/Communication/Media/Writing/Book/Poetry/Epic_Poem.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Poetry/Epic_Poem.secret|Epic_Poem.secret]] 
 

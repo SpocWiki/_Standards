@@ -11,3 +11,22 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/The%20Beach%20Boys)
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Musician/Music~Band/Beach_Boys|Beach_Boys]] 
+
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Musician/Music~Band/Beach_Boys.public|Beach_Boys.public]] 
+
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Musician/Music~Band/Beach_Boys.internal|Beach_Boys.internal]] 
+
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Musician/Music~Band/Beach_Boys.protect|Beach_Boys.protect]] 
+
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Musician/Music~Band/Beach_Boys.private|Beach_Boys.private]] 
+
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Musician/Music~Band/Beach_Boys.personal|Beach_Boys.personal]] 
+
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Musician/Music~Band/Beach_Boys.secret|Beach_Boys.secret]] 
+

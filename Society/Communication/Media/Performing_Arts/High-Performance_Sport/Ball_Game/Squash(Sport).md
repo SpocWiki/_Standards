@@ -53,17 +53,17 @@ Dewey_Decimal_Classification: "796.343"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Squash(Sport)](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Ball_Game/Squash(Sport).md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Ball_Game/Squash(Sport)|Squash(Sport)]] 
 
-### #is_/same_as :: [Squash(Sport).public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Ball_Game/Squash(Sport).public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Ball_Game/Squash(Sport).public|Squash(Sport).public]] 
 
-### #is_/same_as :: [Squash(Sport).internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Ball_Game/Squash(Sport).internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Ball_Game/Squash(Sport).internal|Squash(Sport).internal]] 
 
-### #is_/same_as :: [Squash(Sport).protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Ball_Game/Squash(Sport).protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Ball_Game/Squash(Sport).protect|Squash(Sport).protect]] 
 
-### #is_/same_as :: [Squash(Sport).private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Ball_Game/Squash(Sport).private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Ball_Game/Squash(Sport).private|Squash(Sport).private]] 
 
-### #is_/same_as :: [Squash(Sport).personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Ball_Game/Squash(Sport).personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Ball_Game/Squash(Sport).personal|Squash(Sport).personal]] 
 
-### #is_/same_as :: [Squash(Sport).secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Ball_Game/Squash(Sport).secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Ball_Game/Squash(Sport).secret|Squash(Sport).secret]] 
 

@@ -11,17 +11,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Maggi](/_Standards/bio/Medicine/Anatomy/Nervous_System/Maggi.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Company/Corporation/Nestlé/Maggi|Maggi]] 
 
-### #is_/same_as :: [Maggi.public](/_public/bio/Medicine/Anatomy/Nervous_System/Maggi.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Company/Corporation/Nestlé/Maggi.public|Maggi.public]] 
 
-### #is_/same_as :: [Maggi.internal](/_internal/bio/Medicine/Anatomy/Nervous_System/Maggi.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Company/Corporation/Nestlé/Maggi.internal|Maggi.internal]] 
 
-### #is_/same_as :: [Maggi.protect](/_protect/bio/Medicine/Anatomy/Nervous_System/Maggi.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Company/Corporation/Nestlé/Maggi.protect|Maggi.protect]] 
 
-### #is_/same_as :: [Maggi.private](/_private/bio/Medicine/Anatomy/Nervous_System/Maggi.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Company/Corporation/Nestlé/Maggi.private|Maggi.private]] 
 
-### #is_/same_as :: [Maggi.personal](/_personal/bio/Medicine/Anatomy/Nervous_System/Maggi.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Company/Corporation/Nestlé/Maggi.personal|Maggi.personal]] 
 
-### #is_/same_as :: [Maggi.secret](/_secret/bio/Medicine/Anatomy/Nervous_System/Maggi.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Company/Corporation/Nestlé/Maggi.secret|Maggi.secret]] 
 

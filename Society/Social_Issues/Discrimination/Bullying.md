@@ -68,17 +68,17 @@ hashtag_: bullying
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bullying](/_Standards/Society/Social_Issues/Discrimination/Bullying.md) 
+### #is_/same_as :: [[/_Standards/Society/Social_Issues/Discrimination/Bullying|Bullying]] 
 
-### #is_/same_as :: [Bullying.public](/_public/Society/Social_Issues/Discrimination/Bullying.public.md) 
+### #is_/same_as :: [[/_public/Society/Social_Issues/Discrimination/Bullying.public|Bullying.public]] 
 
-### #is_/same_as :: [Bullying.internal](/_internal/Society/Social_Issues/Discrimination/Bullying.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Social_Issues/Discrimination/Bullying.internal|Bullying.internal]] 
 
-### #is_/same_as :: [Bullying.protect](/_protect/Society/Social_Issues/Discrimination/Bullying.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Social_Issues/Discrimination/Bullying.protect|Bullying.protect]] 
 
-### #is_/same_as :: [Bullying.private](/_private/Society/Social_Issues/Discrimination/Bullying.private.md) 
+### #is_/same_as :: [[/_private/Society/Social_Issues/Discrimination/Bullying.private|Bullying.private]] 
 
-### #is_/same_as :: [Bullying.personal](/_personal/Society/Social_Issues/Discrimination/Bullying.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Social_Issues/Discrimination/Bullying.personal|Bullying.personal]] 
 
-### #is_/same_as :: [Bullying.secret](/_secret/Society/Social_Issues/Discrimination/Bullying.secret.md)
+### #is_/same_as :: [[/_secret/Society/Social_Issues/Discrimination/Bullying.secret|Bullying.secret]] 
 

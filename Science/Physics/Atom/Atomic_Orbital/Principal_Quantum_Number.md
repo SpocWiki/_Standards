@@ -39,17 +39,17 @@ quantity_symbol_LaTeX_: <math class="mwe-math-element mwe-math-element-inline" x
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Principal_Quantum_Number](/_Standards/Science/Physics/Atom/Atomic_Orbital/Principal_Quantum_Number.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Atom/Atomic_Orbital/Principal_Quantum_Number|Principal_Quantum_Number]] 
 
-### #is_/same_as :: [Principal_Quantum_Number.public](/_public/Science/Physics/Atom/Atomic_Orbital/Principal_Quantum_Number.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Atom/Atomic_Orbital/Principal_Quantum_Number.public|Principal_Quantum_Number.public]] 
 
-### #is_/same_as :: [Principal_Quantum_Number.internal](/_internal/Science/Physics/Atom/Atomic_Orbital/Principal_Quantum_Number.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Atom/Atomic_Orbital/Principal_Quantum_Number.internal|Principal_Quantum_Number.internal]] 
 
-### #is_/same_as :: [Principal_Quantum_Number.protect](/_protect/Science/Physics/Atom/Atomic_Orbital/Principal_Quantum_Number.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Atom/Atomic_Orbital/Principal_Quantum_Number.protect|Principal_Quantum_Number.protect]] 
 
-### #is_/same_as :: [Principal_Quantum_Number.private](/_private/Science/Physics/Atom/Atomic_Orbital/Principal_Quantum_Number.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Atom/Atomic_Orbital/Principal_Quantum_Number.private|Principal_Quantum_Number.private]] 
 
-### #is_/same_as :: [Principal_Quantum_Number.personal](/_personal/Science/Physics/Atom/Atomic_Orbital/Principal_Quantum_Number.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Atom/Atomic_Orbital/Principal_Quantum_Number.personal|Principal_Quantum_Number.personal]] 
 
-### #is_/same_as :: [Principal_Quantum_Number.secret](/_secret/Science/Physics/Atom/Atomic_Orbital/Principal_Quantum_Number.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Atom/Atomic_Orbital/Principal_Quantum_Number.secret|Principal_Quantum_Number.secret]] 
 

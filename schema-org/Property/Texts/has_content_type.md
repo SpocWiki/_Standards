@@ -47,17 +47,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_content_type](/_Standards/schema-org/Property/Texts/has_content_type.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/Texts/has_content_type|has_content_type]] 
 
-### #is_/same_as :: [has_content_type.public](/_public/schema-org/Property/Texts/has_content_type.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/Texts/has_content_type.public|has_content_type.public]] 
 
-### #is_/same_as :: [has_content_type.internal](/_internal/schema-org/Property/Texts/has_content_type.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/Texts/has_content_type.internal|has_content_type.internal]] 
 
-### #is_/same_as :: [has_content_type.protect](/_protect/schema-org/Property/Texts/has_content_type.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/Texts/has_content_type.protect|has_content_type.protect]] 
 
-### #is_/same_as :: [has_content_type.private](/_private/schema-org/Property/Texts/has_content_type.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/Texts/has_content_type.private|has_content_type.private]] 
 
-### #is_/same_as :: [has_content_type.personal](/_personal/schema-org/Property/Texts/has_content_type.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/Texts/has_content_type.personal|has_content_type.personal]] 
 
-### #is_/same_as :: [has_content_type.secret](/_secret/schema-org/Property/Texts/has_content_type.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/Texts/has_content_type.secret|has_content_type.secret]] 
 

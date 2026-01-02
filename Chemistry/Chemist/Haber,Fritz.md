@@ -151,17 +151,17 @@ Krugosvet_article: nauka_i_tehnika/himiya/GABER_FRITS.html
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Haber,Fritz](/_Standards/Chemistry/Chemist/Haber,Fritz.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Chemist/Haber,Fritz|Haber,Fritz]] 
 
-### #is_/same_as :: [Haber,Fritz.public](/_public/Chemistry/Chemist/Haber,Fritz.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Chemist/Haber,Fritz.public|Haber,Fritz.public]] 
 
-### #is_/same_as :: [Haber,Fritz.internal](/_internal/Chemistry/Chemist/Haber,Fritz.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Chemist/Haber,Fritz.internal|Haber,Fritz.internal]] 
 
-### #is_/same_as :: [Haber,Fritz.protect](/_protect/Chemistry/Chemist/Haber,Fritz.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Chemist/Haber,Fritz.protect|Haber,Fritz.protect]] 
 
-### #is_/same_as :: [Haber,Fritz.private](/_private/Chemistry/Chemist/Haber,Fritz.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Chemist/Haber,Fritz.private|Haber,Fritz.private]] 
 
-### #is_/same_as :: [Haber,Fritz.personal](/_personal/Chemistry/Chemist/Haber,Fritz.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Chemist/Haber,Fritz.personal|Haber,Fritz.personal]] 
 
-### #is_/same_as :: [Haber,Fritz.secret](/_secret/Chemistry/Chemist/Haber,Fritz.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Chemist/Haber,Fritz.secret|Haber,Fritz.secret]] 
 

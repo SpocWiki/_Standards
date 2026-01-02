@@ -577,17 +577,17 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Earth](/_Standards/Earth.md) 
+### #is_/same_as :: [[/_Standards/Earth|Earth]] 
 
-### #is_/same_as :: [Earth.public](/_public/Earth.public.md) 
+### #is_/same_as :: [[/_public/Earth.public|Earth.public]] 
 
-### #is_/same_as :: [Earth.internal](/_internal/Earth.internal.md) 
+### #is_/same_as :: [[/_internal/Earth.internal|Earth.internal]] 
 
-### #is_/same_as :: [Earth.protect](/_protect/Earth.protect.md) 
+### #is_/same_as :: [[/_protect/Earth.protect|Earth.protect]] 
 
-### #is_/same_as :: [Earth.private](/_private/Earth.private.md) 
+### #is_/same_as :: [[/_private/Earth.private|Earth.private]] 
 
-### #is_/same_as :: [Earth.personal](/_personal/Earth.personal.md) 
+### #is_/same_as :: [[/_personal/Earth.personal|Earth.personal]] 
 
-### #is_/same_as :: [Earth.secret](/_secret/Earth.secret.md)
+### #is_/same_as :: [[/_secret/Earth.secret|Earth.secret]] 
 

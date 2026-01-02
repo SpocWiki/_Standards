@@ -46,17 +46,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_video_frame_size](/_Standards/schema-org/Property/Texts/has_video_frame_size.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/Texts/has_video_frame_size|has_video_frame_size]] 
 
-### #is_/same_as :: [has_video_frame_size.public](/_public/schema-org/Property/Texts/has_video_frame_size.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/Texts/has_video_frame_size.public|has_video_frame_size.public]] 
 
-### #is_/same_as :: [has_video_frame_size.internal](/_internal/schema-org/Property/Texts/has_video_frame_size.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/Texts/has_video_frame_size.internal|has_video_frame_size.internal]] 
 
-### #is_/same_as :: [has_video_frame_size.protect](/_protect/schema-org/Property/Texts/has_video_frame_size.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/Texts/has_video_frame_size.protect|has_video_frame_size.protect]] 
 
-### #is_/same_as :: [has_video_frame_size.private](/_private/schema-org/Property/Texts/has_video_frame_size.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/Texts/has_video_frame_size.private|has_video_frame_size.private]] 
 
-### #is_/same_as :: [has_video_frame_size.personal](/_personal/schema-org/Property/Texts/has_video_frame_size.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/Texts/has_video_frame_size.personal|has_video_frame_size.personal]] 
 
-### #is_/same_as :: [has_video_frame_size.secret](/_secret/schema-org/Property/Texts/has_video_frame_size.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/Texts/has_video_frame_size.secret|has_video_frame_size.secret]] 
 

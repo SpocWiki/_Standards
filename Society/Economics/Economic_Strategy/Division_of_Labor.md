@@ -30,17 +30,17 @@ even if one country is more competitive in every area than its trading counterpa
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Division_of_Labor](/_Standards/Society/Economics/Economic_Strategy/Division_of_Labor.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Economic_Strategy/Division_of_Labor|Division_of_Labor]] 
 
-### #is_/same_as :: [Division_of_Labor.public](/_public/Society/Economics/Economic_Strategy/Division_of_Labor.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Economic_Strategy/Division_of_Labor.public|Division_of_Labor.public]] 
 
-### #is_/same_as :: [Division_of_Labor.internal](/_internal/Society/Economics/Economic_Strategy/Division_of_Labor.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Economic_Strategy/Division_of_Labor.internal|Division_of_Labor.internal]] 
 
-### #is_/same_as :: [Division_of_Labor.protect](/_protect/Society/Economics/Economic_Strategy/Division_of_Labor.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Economic_Strategy/Division_of_Labor.protect|Division_of_Labor.protect]] 
 
-### #is_/same_as :: [Division_of_Labor.private](/_private/Society/Economics/Economic_Strategy/Division_of_Labor.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Economic_Strategy/Division_of_Labor.private|Division_of_Labor.private]] 
 
-### #is_/same_as :: [Division_of_Labor.personal](/_personal/Society/Economics/Economic_Strategy/Division_of_Labor.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Economic_Strategy/Division_of_Labor.personal|Division_of_Labor.personal]] 
 
-### #is_/same_as :: [Division_of_Labor.secret](/_secret/Society/Economics/Economic_Strategy/Division_of_Labor.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Economic_Strategy/Division_of_Labor.secret|Division_of_Labor.secret]] 
 

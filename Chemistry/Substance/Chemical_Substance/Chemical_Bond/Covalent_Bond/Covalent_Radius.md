@@ -33,17 +33,17 @@ Commons_category: Covalent radius
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Covalent_Radius](/_Standards/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Covalent_Bond/Covalent_Radius.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Covalent_Bond/Covalent_Radius|Covalent_Radius]] 
 
-### #is_/same_as :: [Covalent_Radius.public](/_public/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Covalent_Bond/Covalent_Radius.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Covalent_Bond/Covalent_Radius.public|Covalent_Radius.public]] 
 
-### #is_/same_as :: [Covalent_Radius.internal](/_internal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Covalent_Bond/Covalent_Radius.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Covalent_Bond/Covalent_Radius.internal|Covalent_Radius.internal]] 
 
-### #is_/same_as :: [Covalent_Radius.protect](/_protect/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Covalent_Bond/Covalent_Radius.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Covalent_Bond/Covalent_Radius.protect|Covalent_Radius.protect]] 
 
-### #is_/same_as :: [Covalent_Radius.private](/_private/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Covalent_Bond/Covalent_Radius.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Covalent_Bond/Covalent_Radius.private|Covalent_Radius.private]] 
 
-### #is_/same_as :: [Covalent_Radius.personal](/_personal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Covalent_Bond/Covalent_Radius.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Covalent_Bond/Covalent_Radius.personal|Covalent_Radius.personal]] 
 
-### #is_/same_as :: [Covalent_Radius.secret](/_secret/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Covalent_Bond/Covalent_Radius.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Covalent_Bond/Covalent_Radius.secret|Covalent_Radius.secret]] 
 

@@ -70,17 +70,17 @@ U_S_National_Archives_Identifier: 10639138
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Communism](/_Standards/Society/Ideology/Political_Ideology/Communism.md) 
+### #is_/same_as :: [[/_Standards/Society/Ideology/Political_Ideology/Communism|Communism]] 
 
-### #is_/same_as :: [Communism.public](/_public/Society/Ideology/Political_Ideology/Communism.public.md) 
+### #is_/same_as :: [[/_public/Society/Ideology/Political_Ideology/Communism.public|Communism.public]] 
 
-### #is_/same_as :: [Communism.internal](/_internal/Society/Ideology/Political_Ideology/Communism.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Ideology/Political_Ideology/Communism.internal|Communism.internal]] 
 
-### #is_/same_as :: [Communism.protect](/_protect/Society/Ideology/Political_Ideology/Communism.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Ideology/Political_Ideology/Communism.protect|Communism.protect]] 
 
-### #is_/same_as :: [Communism.private](/_private/Society/Ideology/Political_Ideology/Communism.private.md) 
+### #is_/same_as :: [[/_private/Society/Ideology/Political_Ideology/Communism.private|Communism.private]] 
 
-### #is_/same_as :: [Communism.personal](/_personal/Society/Ideology/Political_Ideology/Communism.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Ideology/Political_Ideology/Communism.personal|Communism.personal]] 
 
-### #is_/same_as :: [Communism.secret](/_secret/Society/Ideology/Political_Ideology/Communism.secret.md)
+### #is_/same_as :: [[/_secret/Society/Ideology/Political_Ideology/Communism.secret|Communism.secret]] 
 

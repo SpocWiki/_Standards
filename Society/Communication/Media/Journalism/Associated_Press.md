@@ -99,17 +99,17 @@ terms_of_service_URL: https://apnews.com/termsofservice
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Associated_Press](/_Standards/Society/Communication/Media/Journalism/Associated_Press.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Journalism/Associated_Press|Associated_Press]] 
 
-### #is_/same_as :: [Associated_Press.public](/_public/Society/Communication/Media/Journalism/Associated_Press.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Journalism/Associated_Press.public|Associated_Press.public]] 
 
-### #is_/same_as :: [Associated_Press.internal](/_internal/Society/Communication/Media/Journalism/Associated_Press.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Journalism/Associated_Press.internal|Associated_Press.internal]] 
 
-### #is_/same_as :: [Associated_Press.protect](/_protect/Society/Communication/Media/Journalism/Associated_Press.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Journalism/Associated_Press.protect|Associated_Press.protect]] 
 
-### #is_/same_as :: [Associated_Press.private](/_private/Society/Communication/Media/Journalism/Associated_Press.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Journalism/Associated_Press.private|Associated_Press.private]] 
 
-### #is_/same_as :: [Associated_Press.personal](/_personal/Society/Communication/Media/Journalism/Associated_Press.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Journalism/Associated_Press.personal|Associated_Press.personal]] 
 
-### #is_/same_as :: [Associated_Press.secret](/_secret/Society/Communication/Media/Journalism/Associated_Press.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Journalism/Associated_Press.secret|Associated_Press.secret]] 
 

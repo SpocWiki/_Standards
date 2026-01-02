@@ -39,17 +39,17 @@ OpenStreetMap_tag_or_key: Tag:sport=canoe
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Canoeing](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Canoeing.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Canoeing|Canoeing]] 
 
-### #is_/same_as :: [Canoeing.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Canoeing.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Canoeing.public|Canoeing.public]] 
 
-### #is_/same_as :: [Canoeing.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Canoeing.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Canoeing.internal|Canoeing.internal]] 
 
-### #is_/same_as :: [Canoeing.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Canoeing.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Canoeing.protect|Canoeing.protect]] 
 
-### #is_/same_as :: [Canoeing.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Canoeing.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Canoeing.private|Canoeing.private]] 
 
-### #is_/same_as :: [Canoeing.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Canoeing.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Canoeing.personal|Canoeing.personal]] 
 
-### #is_/same_as :: [Canoeing.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Canoeing.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Canoeing.secret|Canoeing.secret]] 
 

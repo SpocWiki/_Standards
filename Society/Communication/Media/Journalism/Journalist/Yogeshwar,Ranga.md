@@ -21,17 +21,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Yogeshwar,Ranga](/_Standards/Society/Communication/Media/Journalism/Journalist/Yogeshwar,Ranga.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Journalism/Journalist/Yogeshwar,Ranga|Yogeshwar,Ranga]] 
 
-### #is_/same_as :: [Yogeshwar,Ranga.public](/_public/Society/Communication/Media/Journalism/Journalist/Yogeshwar,Ranga.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Journalism/Journalist/Yogeshwar,Ranga.public|Yogeshwar,Ranga.public]] 
 
-### #is_/same_as :: [Yogeshwar,Ranga.internal](/_internal/Society/Communication/Media/Journalism/Journalist/Yogeshwar,Ranga.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Journalism/Journalist/Yogeshwar,Ranga.internal|Yogeshwar,Ranga.internal]] 
 
-### #is_/same_as :: [Yogeshwar,Ranga.protect](/_protect/Society/Communication/Media/Journalism/Journalist/Yogeshwar,Ranga.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Journalism/Journalist/Yogeshwar,Ranga.protect|Yogeshwar,Ranga.protect]] 
 
-### #is_/same_as :: [Yogeshwar,Ranga.private](/_private/Society/Communication/Media/Journalism/Journalist/Yogeshwar,Ranga.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Journalism/Journalist/Yogeshwar,Ranga.private|Yogeshwar,Ranga.private]] 
 
-### #is_/same_as :: [Yogeshwar,Ranga.personal](/_personal/Society/Communication/Media/Journalism/Journalist/Yogeshwar,Ranga.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Journalism/Journalist/Yogeshwar,Ranga.personal|Yogeshwar,Ranga.personal]] 
 
-### #is_/same_as :: [Yogeshwar,Ranga.secret](/_secret/Society/Communication/Media/Journalism/Journalist/Yogeshwar,Ranga.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Journalism/Journalist/Yogeshwar,Ranga.secret|Yogeshwar,Ranga.secret]] 
 

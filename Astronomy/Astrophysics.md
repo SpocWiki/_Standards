@@ -74,17 +74,17 @@ Baidu_Tieba_name: 天体物理
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Astrophysics](/_Standards/Astronomy/Astrophysics.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Astrophysics|Astrophysics]] 
 
-### #is_/same_as :: [Astrophysics.public](/_public/Astronomy/Astrophysics.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Astrophysics.public|Astrophysics.public]] 
 
-### #is_/same_as :: [Astrophysics.internal](/_internal/Astronomy/Astrophysics.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Astrophysics.internal|Astrophysics.internal]] 
 
-### #is_/same_as :: [Astrophysics.protect](/_protect/Astronomy/Astrophysics.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Astrophysics.protect|Astrophysics.protect]] 
 
-### #is_/same_as :: [Astrophysics.private](/_private/Astronomy/Astrophysics.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Astrophysics.private|Astrophysics.private]] 
 
-### #is_/same_as :: [Astrophysics.personal](/_personal/Astronomy/Astrophysics.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Astrophysics.personal|Astrophysics.personal]] 
 
-### #is_/same_as :: [Astrophysics.secret](/_secret/Astronomy/Astrophysics.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Astrophysics.secret|Astrophysics.secret]] 
 

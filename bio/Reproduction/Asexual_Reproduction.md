@@ -42,17 +42,17 @@ MeSH_tree_code: G08.686.784.830
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Asexual_Reproduction](/_Standards/bio/Reproduction/Asexual_Reproduction.md) 
+### #is_/same_as :: [[/_Standards/bio/Reproduction/Asexual_Reproduction|Asexual_Reproduction]] 
 
-### #is_/same_as :: [Asexual_Reproduction.public](/_public/bio/Reproduction/Asexual_Reproduction.public.md) 
+### #is_/same_as :: [[/_public/bio/Reproduction/Asexual_Reproduction.public|Asexual_Reproduction.public]] 
 
-### #is_/same_as :: [Asexual_Reproduction.internal](/_internal/bio/Reproduction/Asexual_Reproduction.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Reproduction/Asexual_Reproduction.internal|Asexual_Reproduction.internal]] 
 
-### #is_/same_as :: [Asexual_Reproduction.protect](/_protect/bio/Reproduction/Asexual_Reproduction.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Reproduction/Asexual_Reproduction.protect|Asexual_Reproduction.protect]] 
 
-### #is_/same_as :: [Asexual_Reproduction.private](/_private/bio/Reproduction/Asexual_Reproduction.private.md) 
+### #is_/same_as :: [[/_private/bio/Reproduction/Asexual_Reproduction.private|Asexual_Reproduction.private]] 
 
-### #is_/same_as :: [Asexual_Reproduction.personal](/_personal/bio/Reproduction/Asexual_Reproduction.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Reproduction/Asexual_Reproduction.personal|Asexual_Reproduction.personal]] 
 
-### #is_/same_as :: [Asexual_Reproduction.secret](/_secret/bio/Reproduction/Asexual_Reproduction.secret.md)
+### #is_/same_as :: [[/_secret/bio/Reproduction/Asexual_Reproduction.secret|Asexual_Reproduction.secret]] 
 

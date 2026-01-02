@@ -94,17 +94,17 @@ Krugosvet_article_archived_: nauka_i_tehnika/tehnologiya_i_promyshlennost/GORNOE
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Mining](/_Standards/Society/Economics/Industry/Mining.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Industry/Mining|Mining]] 
 
-### #is_/same_as :: [Mining.public](/_public/Society/Economics/Industry/Mining.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Industry/Mining.public|Mining.public]] 
 
-### #is_/same_as :: [Mining.internal](/_internal/Society/Economics/Industry/Mining.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Industry/Mining.internal|Mining.internal]] 
 
-### #is_/same_as :: [Mining.protect](/_protect/Society/Economics/Industry/Mining.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Industry/Mining.protect|Mining.protect]] 
 
-### #is_/same_as :: [Mining.private](/_private/Society/Economics/Industry/Mining.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Industry/Mining.private|Mining.private]] 
 
-### #is_/same_as :: [Mining.personal](/_personal/Society/Economics/Industry/Mining.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Industry/Mining.personal|Mining.personal]] 
 
-### #is_/same_as :: [Mining.secret](/_secret/Society/Economics/Industry/Mining.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Industry/Mining.secret|Mining.secret]] 
 

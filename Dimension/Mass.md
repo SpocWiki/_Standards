@@ -101,17 +101,17 @@ There are many Units for Mass, but the SI-Unit is the [[Unit_of_Measurement/SI-U
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Mass](/_Standards/Dimension/Mass.md) 
+### #is_/same_as :: [[/_Standards/Dimension/Mass|Mass]] 
 
-### #is_/same_as :: [Mass.public](/_public/Dimension/Mass.public.md) 
+### #is_/same_as :: [[/_public/Dimension/Mass.public|Mass.public]] 
 
-### #is_/same_as :: [Mass.internal](/_internal/Dimension/Mass.internal.md) 
+### #is_/same_as :: [[/_internal/Dimension/Mass.internal|Mass.internal]] 
 
-### #is_/same_as :: [Mass.protect](/_protect/Dimension/Mass.protect.md) 
+### #is_/same_as :: [[/_protect/Dimension/Mass.protect|Mass.protect]] 
 
-### #is_/same_as :: [Mass.private](/_private/Dimension/Mass.private.md) 
+### #is_/same_as :: [[/_private/Dimension/Mass.private|Mass.private]] 
 
-### #is_/same_as :: [Mass.personal](/_personal/Dimension/Mass.personal.md) 
+### #is_/same_as :: [[/_personal/Dimension/Mass.personal|Mass.personal]] 
 
-### #is_/same_as :: [Mass.secret](/_secret/Dimension/Mass.secret.md)
+### #is_/same_as :: [[/_secret/Dimension/Mass.secret|Mass.secret]] 
 

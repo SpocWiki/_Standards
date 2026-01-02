@@ -107,17 +107,17 @@ name_in_native_language: Niklaus Emil Wirth
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Wirth,Niklaus](/_Standards/Technology/IT/Computer_Science/Computer_Scientist/Wirth,Niklaus.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Computer_Science/Computer_Scientist/Wirth,Niklaus|Wirth,Niklaus]] 
 
-### #is_/same_as :: [Wirth,Niklaus.public](/_public/Technology/IT/Computer_Science/Computer_Scientist/Wirth,Niklaus.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Computer_Science/Computer_Scientist/Wirth,Niklaus.public|Wirth,Niklaus.public]] 
 
-### #is_/same_as :: [Wirth,Niklaus.internal](/_internal/Technology/IT/Computer_Science/Computer_Scientist/Wirth,Niklaus.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Computer_Science/Computer_Scientist/Wirth,Niklaus.internal|Wirth,Niklaus.internal]] 
 
-### #is_/same_as :: [Wirth,Niklaus.protect](/_protect/Technology/IT/Computer_Science/Computer_Scientist/Wirth,Niklaus.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Computer_Science/Computer_Scientist/Wirth,Niklaus.protect|Wirth,Niklaus.protect]] 
 
-### #is_/same_as :: [Wirth,Niklaus.private](/_private/Technology/IT/Computer_Science/Computer_Scientist/Wirth,Niklaus.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Computer_Science/Computer_Scientist/Wirth,Niklaus.private|Wirth,Niklaus.private]] 
 
-### #is_/same_as :: [Wirth,Niklaus.personal](/_personal/Technology/IT/Computer_Science/Computer_Scientist/Wirth,Niklaus.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Computer_Science/Computer_Scientist/Wirth,Niklaus.personal|Wirth,Niklaus.personal]] 
 
-### #is_/same_as :: [Wirth,Niklaus.secret](/_secret/Technology/IT/Computer_Science/Computer_Scientist/Wirth,Niklaus.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Computer_Science/Computer_Scientist/Wirth,Niklaus.secret|Wirth,Niklaus.secret]] 
 

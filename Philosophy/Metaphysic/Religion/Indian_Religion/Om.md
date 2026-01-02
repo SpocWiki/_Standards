@@ -72,17 +72,17 @@ Commons_category: Om (symbol)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Om](/_Standards/Philosophy/Metaphysic/Religion/Indian_Religion/Om.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Indian_Religion/Om|Om]] 
 
-### #is_/same_as :: [Om.public](/_public/Philosophy/Metaphysic/Religion/Indian_Religion/Om.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Indian_Religion/Om.public|Om.public]] 
 
-### #is_/same_as :: [Om.internal](/_internal/Philosophy/Metaphysic/Religion/Indian_Religion/Om.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Indian_Religion/Om.internal|Om.internal]] 
 
-### #is_/same_as :: [Om.protect](/_protect/Philosophy/Metaphysic/Religion/Indian_Religion/Om.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Indian_Religion/Om.protect|Om.protect]] 
 
-### #is_/same_as :: [Om.private](/_private/Philosophy/Metaphysic/Religion/Indian_Religion/Om.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Indian_Religion/Om.private|Om.private]] 
 
-### #is_/same_as :: [Om.personal](/_personal/Philosophy/Metaphysic/Religion/Indian_Religion/Om.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Indian_Religion/Om.personal|Om.personal]] 
 
-### #is_/same_as :: [Om.secret](/_secret/Philosophy/Metaphysic/Religion/Indian_Religion/Om.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Indian_Religion/Om.secret|Om.secret]] 
 

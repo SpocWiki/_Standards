@@ -194,17 +194,17 @@ the astrophysical origin of most elements beyond iron.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Main_Sequence](/_Standards/Astronomy/Star/Main_Sequence.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Star/Main_Sequence|Main_Sequence]] 
 
-### #is_/same_as :: [Main_Sequence.public](/_public/Astronomy/Star/Main_Sequence.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Star/Main_Sequence.public|Main_Sequence.public]] 
 
-### #is_/same_as :: [Main_Sequence.internal](/_internal/Astronomy/Star/Main_Sequence.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Star/Main_Sequence.internal|Main_Sequence.internal]] 
 
-### #is_/same_as :: [Main_Sequence.protect](/_protect/Astronomy/Star/Main_Sequence.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Star/Main_Sequence.protect|Main_Sequence.protect]] 
 
-### #is_/same_as :: [Main_Sequence.private](/_private/Astronomy/Star/Main_Sequence.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Star/Main_Sequence.private|Main_Sequence.private]] 
 
-### #is_/same_as :: [Main_Sequence.personal](/_personal/Astronomy/Star/Main_Sequence.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Star/Main_Sequence.personal|Main_Sequence.personal]] 
 
-### #is_/same_as :: [Main_Sequence.secret](/_secret/Astronomy/Star/Main_Sequence.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Star/Main_Sequence.secret|Main_Sequence.secret]] 
 

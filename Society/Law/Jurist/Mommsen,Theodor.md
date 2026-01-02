@@ -177,17 +177,17 @@ Krugosvet_article_archived_: istoriya/MOMMZEN_TEODOR.html
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Mommsen,Theodor](/_Standards/Society/Law/Jurist/Mommsen,Theodor.md) 
+### #is_/same_as :: [[/_Standards/Society/Law/Jurist/Mommsen,Theodor|Mommsen,Theodor]] 
 
-### #is_/same_as :: [Mommsen,Theodor.public](/_public/Society/Law/Jurist/Mommsen,Theodor.public.md) 
+### #is_/same_as :: [[/_public/Society/Law/Jurist/Mommsen,Theodor.public|Mommsen,Theodor.public]] 
 
-### #is_/same_as :: [Mommsen,Theodor.internal](/_internal/Society/Law/Jurist/Mommsen,Theodor.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Law/Jurist/Mommsen,Theodor.internal|Mommsen,Theodor.internal]] 
 
-### #is_/same_as :: [Mommsen,Theodor.protect](/_protect/Society/Law/Jurist/Mommsen,Theodor.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Law/Jurist/Mommsen,Theodor.protect|Mommsen,Theodor.protect]] 
 
-### #is_/same_as :: [Mommsen,Theodor.private](/_private/Society/Law/Jurist/Mommsen,Theodor.private.md) 
+### #is_/same_as :: [[/_private/Society/Law/Jurist/Mommsen,Theodor.private|Mommsen,Theodor.private]] 
 
-### #is_/same_as :: [Mommsen,Theodor.personal](/_personal/Society/Law/Jurist/Mommsen,Theodor.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Law/Jurist/Mommsen,Theodor.personal|Mommsen,Theodor.personal]] 
 
-### #is_/same_as :: [Mommsen,Theodor.secret](/_secret/Society/Law/Jurist/Mommsen,Theodor.secret.md)
+### #is_/same_as :: [[/_secret/Society/Law/Jurist/Mommsen,Theodor.secret|Mommsen,Theodor.secret]] 
 

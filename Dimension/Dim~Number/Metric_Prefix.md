@@ -14,17 +14,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Metric_Prefix](/_Standards/Dimension/Dim~Number/Metric_Prefix.md) 
+### #is_/same_as :: [[/_Standards/Dimension/Dim~Number/Metric_Prefix|Metric_Prefix]] 
 
-### #is_/same_as :: [Metric_Prefix.public](/_public/Dimension/Dim~Number/Metric_Prefix.public.md) 
+### #is_/same_as :: [[/_public/Dimension/Dim~Number/Metric_Prefix.public|Metric_Prefix.public]] 
 
-### #is_/same_as :: [Metric_Prefix.internal](/_internal/Dimension/Dim~Number/Metric_Prefix.internal.md) 
+### #is_/same_as :: [[/_internal/Dimension/Dim~Number/Metric_Prefix.internal|Metric_Prefix.internal]] 
 
-### #is_/same_as :: [Metric_Prefix.protect](/_protect/Dimension/Dim~Number/Metric_Prefix.protect.md) 
+### #is_/same_as :: [[/_protect/Dimension/Dim~Number/Metric_Prefix.protect|Metric_Prefix.protect]] 
 
-### #is_/same_as :: [Metric_Prefix.private](/_private/Dimension/Dim~Number/Metric_Prefix.private.md) 
+### #is_/same_as :: [[/_private/Dimension/Dim~Number/Metric_Prefix.private|Metric_Prefix.private]] 
 
-### #is_/same_as :: [Metric_Prefix.personal](/_personal/Dimension/Dim~Number/Metric_Prefix.personal.md) 
+### #is_/same_as :: [[/_personal/Dimension/Dim~Number/Metric_Prefix.personal|Metric_Prefix.personal]] 
 
-### #is_/same_as :: [Metric_Prefix.secret](/_secret/Dimension/Dim~Number/Metric_Prefix.secret.md)
+### #is_/same_as :: [[/_secret/Dimension/Dim~Number/Metric_Prefix.secret|Metric_Prefix.secret]] 
 

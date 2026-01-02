@@ -67,17 +67,17 @@ start_time: 1917-11-07T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [1917-Russian_Civil_War+1922](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1917-Russian_Civil_War+1922.md) 
+### #is_/same_as :: [[/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1917-Russian_Civil_War+1922|1917-Russian_Civil_War+1922]] 
 
-### #is_/same_as :: [1917-Russian_Civil_War+1922.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1917-Russian_Civil_War+1922.public.md) 
+### #is_/same_as :: [[/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1917-Russian_Civil_War+1922.public|1917-Russian_Civil_War+1922.public]] 
 
-### #is_/same_as :: [1917-Russian_Civil_War+1922.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1917-Russian_Civil_War+1922.internal.md) 
+### #is_/same_as :: [[/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1917-Russian_Civil_War+1922.internal|1917-Russian_Civil_War+1922.internal]] 
 
-### #is_/same_as :: [1917-Russian_Civil_War+1922.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1917-Russian_Civil_War+1922.protect.md) 
+### #is_/same_as :: [[/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1917-Russian_Civil_War+1922.protect|1917-Russian_Civil_War+1922.protect]] 
 
-### #is_/same_as :: [1917-Russian_Civil_War+1922.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1917-Russian_Civil_War+1922.private.md) 
+### #is_/same_as :: [[/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1917-Russian_Civil_War+1922.private|1917-Russian_Civil_War+1922.private]] 
 
-### #is_/same_as :: [1917-Russian_Civil_War+1922.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1917-Russian_Civil_War+1922.personal.md) 
+### #is_/same_as :: [[/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1917-Russian_Civil_War+1922.personal|1917-Russian_Civil_War+1922.personal]] 
 
-### #is_/same_as :: [1917-Russian_Civil_War+1922.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1917-Russian_Civil_War+1922.secret.md)
+### #is_/same_as :: [[/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1917-Russian_Civil_War+1922.secret|1917-Russian_Civil_War+1922.secret]] 
 

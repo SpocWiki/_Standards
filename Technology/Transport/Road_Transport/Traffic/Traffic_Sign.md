@@ -71,17 +71,17 @@ OpenStreetMap_key: traffic_sign
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Traffic_Sign](/_Standards/Technology/Transport/Road_Transport/Traffic/Traffic_Sign.md) 
+### #is_/same_as :: [[/_Standards/Technology/Transport/Road_Transport/Traffic/Traffic_Sign|Traffic_Sign]] 
 
-### #is_/same_as :: [Traffic_Sign.public](/_public/Technology/Transport/Road_Transport/Traffic/Traffic_Sign.public.md) 
+### #is_/same_as :: [[/_public/Technology/Transport/Road_Transport/Traffic/Traffic_Sign.public|Traffic_Sign.public]] 
 
-### #is_/same_as :: [Traffic_Sign.internal](/_internal/Technology/Transport/Road_Transport/Traffic/Traffic_Sign.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Transport/Road_Transport/Traffic/Traffic_Sign.internal|Traffic_Sign.internal]] 
 
-### #is_/same_as :: [Traffic_Sign.protect](/_protect/Technology/Transport/Road_Transport/Traffic/Traffic_Sign.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Transport/Road_Transport/Traffic/Traffic_Sign.protect|Traffic_Sign.protect]] 
 
-### #is_/same_as :: [Traffic_Sign.private](/_private/Technology/Transport/Road_Transport/Traffic/Traffic_Sign.private.md) 
+### #is_/same_as :: [[/_private/Technology/Transport/Road_Transport/Traffic/Traffic_Sign.private|Traffic_Sign.private]] 
 
-### #is_/same_as :: [Traffic_Sign.personal](/_personal/Technology/Transport/Road_Transport/Traffic/Traffic_Sign.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Transport/Road_Transport/Traffic/Traffic_Sign.personal|Traffic_Sign.personal]] 
 
-### #is_/same_as :: [Traffic_Sign.secret](/_secret/Technology/Transport/Road_Transport/Traffic/Traffic_Sign.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Transport/Road_Transport/Traffic/Traffic_Sign.secret|Traffic_Sign.secret]] 
 

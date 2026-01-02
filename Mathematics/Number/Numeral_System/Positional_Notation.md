@@ -35,17 +35,17 @@ Commons_category: Positional numeral systems
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Positional_Notation](/_Standards/Mathematics/Number/Numeral_System/Positional_Notation.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Number/Numeral_System/Positional_Notation|Positional_Notation]] 
 
-### #is_/same_as :: [Positional_Notation.public](/_public/Mathematics/Number/Numeral_System/Positional_Notation.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Number/Numeral_System/Positional_Notation.public|Positional_Notation.public]] 
 
-### #is_/same_as :: [Positional_Notation.internal](/_internal/Mathematics/Number/Numeral_System/Positional_Notation.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Number/Numeral_System/Positional_Notation.internal|Positional_Notation.internal]] 
 
-### #is_/same_as :: [Positional_Notation.protect](/_protect/Mathematics/Number/Numeral_System/Positional_Notation.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Number/Numeral_System/Positional_Notation.protect|Positional_Notation.protect]] 
 
-### #is_/same_as :: [Positional_Notation.private](/_private/Mathematics/Number/Numeral_System/Positional_Notation.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Number/Numeral_System/Positional_Notation.private|Positional_Notation.private]] 
 
-### #is_/same_as :: [Positional_Notation.personal](/_personal/Mathematics/Number/Numeral_System/Positional_Notation.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Number/Numeral_System/Positional_Notation.personal|Positional_Notation.personal]] 
 
-### #is_/same_as :: [Positional_Notation.secret](/_secret/Mathematics/Number/Numeral_System/Positional_Notation.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Number/Numeral_System/Positional_Notation.secret|Positional_Notation.secret]] 
 

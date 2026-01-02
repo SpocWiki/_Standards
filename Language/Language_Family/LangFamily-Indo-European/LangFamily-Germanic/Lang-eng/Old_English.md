@@ -82,17 +82,17 @@ native_label: Ænglisc sprǣc
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Old_English](/_Standards/Language/Language_Family/LangFamily-Indo-European/LangFamily-Germanic/Lang-eng/Old_English.md) 
+### #is_/same_as :: [[/_Standards/Language/Language_Family/LangFamily-Indo-European/LangFamily-Germanic/Lang-eng/Old_English|Old_English]] 
 
-### #is_/same_as :: [Old_English.public](/_public/Language/Language_Family/LangFamily-Indo-European/LangFamily-Germanic/Lang-eng/Old_English.public.md) 
+### #is_/same_as :: [[/_public/Language/Language_Family/LangFamily-Indo-European/LangFamily-Germanic/Lang-eng/Old_English.public|Old_English.public]] 
 
-### #is_/same_as :: [Old_English.internal](/_internal/Language/Language_Family/LangFamily-Indo-European/LangFamily-Germanic/Lang-eng/Old_English.internal.md) 
+### #is_/same_as :: [[/_internal/Language/Language_Family/LangFamily-Indo-European/LangFamily-Germanic/Lang-eng/Old_English.internal|Old_English.internal]] 
 
-### #is_/same_as :: [Old_English.protect](/_protect/Language/Language_Family/LangFamily-Indo-European/LangFamily-Germanic/Lang-eng/Old_English.protect.md) 
+### #is_/same_as :: [[/_protect/Language/Language_Family/LangFamily-Indo-European/LangFamily-Germanic/Lang-eng/Old_English.protect|Old_English.protect]] 
 
-### #is_/same_as :: [Old_English.private](/_private/Language/Language_Family/LangFamily-Indo-European/LangFamily-Germanic/Lang-eng/Old_English.private.md) 
+### #is_/same_as :: [[/_private/Language/Language_Family/LangFamily-Indo-European/LangFamily-Germanic/Lang-eng/Old_English.private|Old_English.private]] 
 
-### #is_/same_as :: [Old_English.personal](/_personal/Language/Language_Family/LangFamily-Indo-European/LangFamily-Germanic/Lang-eng/Old_English.personal.md) 
+### #is_/same_as :: [[/_personal/Language/Language_Family/LangFamily-Indo-European/LangFamily-Germanic/Lang-eng/Old_English.personal|Old_English.personal]] 
 
-### #is_/same_as :: [Old_English.secret](/_secret/Language/Language_Family/LangFamily-Indo-European/LangFamily-Germanic/Lang-eng/Old_English.secret.md)
+### #is_/same_as :: [[/_secret/Language/Language_Family/LangFamily-Indo-European/LangFamily-Germanic/Lang-eng/Old_English.secret|Old_English.secret]] 
 

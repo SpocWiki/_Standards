@@ -61,17 +61,17 @@ Commons_category: Petrochemicals
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Petrochemical_Product](/_Standards/Society/Economics/Industry/Oil_Industry/Petrochemical_Product.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Industry/Oil_Industry/Petrochemical_Product|Petrochemical_Product]] 
 
-### #is_/same_as :: [Petrochemical_Product.public](/_public/Society/Economics/Industry/Oil_Industry/Petrochemical_Product.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Industry/Oil_Industry/Petrochemical_Product.public|Petrochemical_Product.public]] 
 
-### #is_/same_as :: [Petrochemical_Product.internal](/_internal/Society/Economics/Industry/Oil_Industry/Petrochemical_Product.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Industry/Oil_Industry/Petrochemical_Product.internal|Petrochemical_Product.internal]] 
 
-### #is_/same_as :: [Petrochemical_Product.protect](/_protect/Society/Economics/Industry/Oil_Industry/Petrochemical_Product.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Industry/Oil_Industry/Petrochemical_Product.protect|Petrochemical_Product.protect]] 
 
-### #is_/same_as :: [Petrochemical_Product.private](/_private/Society/Economics/Industry/Oil_Industry/Petrochemical_Product.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Industry/Oil_Industry/Petrochemical_Product.private|Petrochemical_Product.private]] 
 
-### #is_/same_as :: [Petrochemical_Product.personal](/_personal/Society/Economics/Industry/Oil_Industry/Petrochemical_Product.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Industry/Oil_Industry/Petrochemical_Product.personal|Petrochemical_Product.personal]] 
 
-### #is_/same_as :: [Petrochemical_Product.secret](/_secret/Society/Economics/Industry/Oil_Industry/Petrochemical_Product.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Industry/Oil_Industry/Petrochemical_Product.secret|Petrochemical_Product.secret]] 
 

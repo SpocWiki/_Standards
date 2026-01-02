@@ -53,17 +53,17 @@ Wolfram_Language_entity_code: Entity["Concept", "Mercenary::fpnh8"]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Mercenary](/_Standards/Society/Military/Armed_Forces/Soldier/Mercenary.md) 
+### #is_/same_as :: [[/_Standards/Society/Military/Armed_Forces/Soldier/Mercenary|Mercenary]] 
 
-### #is_/same_as :: [Mercenary.public](/_public/Society/Military/Armed_Forces/Soldier/Mercenary.public.md) 
+### #is_/same_as :: [[/_public/Society/Military/Armed_Forces/Soldier/Mercenary.public|Mercenary.public]] 
 
-### #is_/same_as :: [Mercenary.internal](/_internal/Society/Military/Armed_Forces/Soldier/Mercenary.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Military/Armed_Forces/Soldier/Mercenary.internal|Mercenary.internal]] 
 
-### #is_/same_as :: [Mercenary.protect](/_protect/Society/Military/Armed_Forces/Soldier/Mercenary.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Military/Armed_Forces/Soldier/Mercenary.protect|Mercenary.protect]] 
 
-### #is_/same_as :: [Mercenary.private](/_private/Society/Military/Armed_Forces/Soldier/Mercenary.private.md) 
+### #is_/same_as :: [[/_private/Society/Military/Armed_Forces/Soldier/Mercenary.private|Mercenary.private]] 
 
-### #is_/same_as :: [Mercenary.personal](/_personal/Society/Military/Armed_Forces/Soldier/Mercenary.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Military/Armed_Forces/Soldier/Mercenary.personal|Mercenary.personal]] 
 
-### #is_/same_as :: [Mercenary.secret](/_secret/Society/Military/Armed_Forces/Soldier/Mercenary.secret.md)
+### #is_/same_as :: [[/_secret/Society/Military/Armed_Forces/Soldier/Mercenary.secret|Mercenary.secret]] 
 

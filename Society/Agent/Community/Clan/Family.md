@@ -113,17 +113,17 @@ Wikidata_property:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Family](/_Standards/Society/Agent/Community/Clan/Family.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Clan/Family|Family]] 
 
-### #is_/same_as :: [Family.public](/_public/Society/Agent/Community/Clan/Family.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Clan/Family.public|Family.public]] 
 
-### #is_/same_as :: [Family.internal](/_internal/Society/Agent/Community/Clan/Family.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Clan/Family.internal|Family.internal]] 
 
-### #is_/same_as :: [Family.protect](/_protect/Society/Agent/Community/Clan/Family.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Clan/Family.protect|Family.protect]] 
 
-### #is_/same_as :: [Family.private](/_private/Society/Agent/Community/Clan/Family.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Clan/Family.private|Family.private]] 
 
-### #is_/same_as :: [Family.personal](/_personal/Society/Agent/Community/Clan/Family.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Clan/Family.personal|Family.personal]] 
 
-### #is_/same_as :: [Family.secret](/_secret/Society/Agent/Community/Clan/Family.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Clan/Family.secret|Family.secret]] 
 

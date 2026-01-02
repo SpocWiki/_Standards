@@ -113,17 +113,17 @@ video: http://commons.wikimedia.org/wiki/Special:FilePath/SRINIVASA%20RAMANUJAN-
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ramanujan,Srinivasa](/_Standards/Mathematics/Mathematician/Modern_Mathematician/Ramanujan,Srinivasa.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Mathematician/Modern_Mathematician/Ramanujan,Srinivasa|Ramanujan,Srinivasa]] 
 
-### #is_/same_as :: [Ramanujan,Srinivasa.public](/_public/Mathematics/Mathematician/Modern_Mathematician/Ramanujan,Srinivasa.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Mathematician/Modern_Mathematician/Ramanujan,Srinivasa.public|Ramanujan,Srinivasa.public]] 
 
-### #is_/same_as :: [Ramanujan,Srinivasa.internal](/_internal/Mathematics/Mathematician/Modern_Mathematician/Ramanujan,Srinivasa.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Mathematician/Modern_Mathematician/Ramanujan,Srinivasa.internal|Ramanujan,Srinivasa.internal]] 
 
-### #is_/same_as :: [Ramanujan,Srinivasa.protect](/_protect/Mathematics/Mathematician/Modern_Mathematician/Ramanujan,Srinivasa.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Mathematician/Modern_Mathematician/Ramanujan,Srinivasa.protect|Ramanujan,Srinivasa.protect]] 
 
-### #is_/same_as :: [Ramanujan,Srinivasa.private](/_private/Mathematics/Mathematician/Modern_Mathematician/Ramanujan,Srinivasa.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Mathematician/Modern_Mathematician/Ramanujan,Srinivasa.private|Ramanujan,Srinivasa.private]] 
 
-### #is_/same_as :: [Ramanujan,Srinivasa.personal](/_personal/Mathematics/Mathematician/Modern_Mathematician/Ramanujan,Srinivasa.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Mathematician/Modern_Mathematician/Ramanujan,Srinivasa.personal|Ramanujan,Srinivasa.personal]] 
 
-### #is_/same_as :: [Ramanujan,Srinivasa.secret](/_secret/Mathematics/Mathematician/Modern_Mathematician/Ramanujan,Srinivasa.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Mathematician/Modern_Mathematician/Ramanujan,Srinivasa.secret|Ramanujan,Srinivasa.secret]] 
 

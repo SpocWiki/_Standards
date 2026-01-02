@@ -53,17 +53,17 @@ Commons_category: Solubility
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Solubility](/_Standards/Chemistry/Substance/Mixture/Solution/Solubility.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Substance/Mixture/Solution/Solubility|Solubility]] 
 
-### #is_/same_as :: [Solubility.public](/_public/Chemistry/Substance/Mixture/Solution/Solubility.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Substance/Mixture/Solution/Solubility.public|Solubility.public]] 
 
-### #is_/same_as :: [Solubility.internal](/_internal/Chemistry/Substance/Mixture/Solution/Solubility.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Substance/Mixture/Solution/Solubility.internal|Solubility.internal]] 
 
-### #is_/same_as :: [Solubility.protect](/_protect/Chemistry/Substance/Mixture/Solution/Solubility.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Substance/Mixture/Solution/Solubility.protect|Solubility.protect]] 
 
-### #is_/same_as :: [Solubility.private](/_private/Chemistry/Substance/Mixture/Solution/Solubility.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Substance/Mixture/Solution/Solubility.private|Solubility.private]] 
 
-### #is_/same_as :: [Solubility.personal](/_personal/Chemistry/Substance/Mixture/Solution/Solubility.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Substance/Mixture/Solution/Solubility.personal|Solubility.personal]] 
 
-### #is_/same_as :: [Solubility.secret](/_secret/Chemistry/Substance/Mixture/Solution/Solubility.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Substance/Mixture/Solution/Solubility.secret|Solubility.secret]] 
 

@@ -693,17 +693,17 @@ Capital :: [[Turkey/Regions~Turkey/Marmara_Region/Istanbul,Province]]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Turkey](/_Standards/Earth/Continent/Europe/Europe~East/Turkey.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Turkey|Turkey]] 
 
-### #is_/same_as :: [Turkey.public](/_public/Earth/Continent/Europe/Europe~East/Turkey.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Turkey.public|Turkey.public]] 
 
-### #is_/same_as :: [Turkey.internal](/_internal/Earth/Continent/Europe/Europe~East/Turkey.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Turkey.internal|Turkey.internal]] 
 
-### #is_/same_as :: [Turkey.protect](/_protect/Earth/Continent/Europe/Europe~East/Turkey.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Turkey.protect|Turkey.protect]] 
 
-### #is_/same_as :: [Turkey.private](/_private/Earth/Continent/Europe/Europe~East/Turkey.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Turkey.private|Turkey.private]] 
 
-### #is_/same_as :: [Turkey.personal](/_personal/Earth/Continent/Europe/Europe~East/Turkey.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Turkey.personal|Turkey.personal]] 
 
-### #is_/same_as :: [Turkey.secret](/_secret/Earth/Continent/Europe/Europe~East/Turkey.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Turkey.secret|Turkey.secret]] 
 

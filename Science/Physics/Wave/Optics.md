@@ -63,17 +63,17 @@ Commons_category: Optics
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Optics](/_Standards/Science/Physics/Wave/Optics.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Wave/Optics|Optics]] 
 
-### #is_/same_as :: [Optics.public](/_public/Science/Physics/Wave/Optics.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Wave/Optics.public|Optics.public]] 
 
-### #is_/same_as :: [Optics.internal](/_internal/Science/Physics/Wave/Optics.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Wave/Optics.internal|Optics.internal]] 
 
-### #is_/same_as :: [Optics.protect](/_protect/Science/Physics/Wave/Optics.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Wave/Optics.protect|Optics.protect]] 
 
-### #is_/same_as :: [Optics.private](/_private/Science/Physics/Wave/Optics.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Wave/Optics.private|Optics.private]] 
 
-### #is_/same_as :: [Optics.personal](/_personal/Science/Physics/Wave/Optics.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Wave/Optics.personal|Optics.personal]] 
 
-### #is_/same_as :: [Optics.secret](/_secret/Science/Physics/Wave/Optics.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Wave/Optics.secret|Optics.secret]] 
 

@@ -36,17 +36,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Robinson_Crusoe](/_Standards/Society/Communication/Media/Writing/Book/Writer/English_Writer/Defoe,Daniel/Robinson_Crusoe.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Writer/English_Writer/Defoe,Daniel/Robinson_Crusoe|Robinson_Crusoe]] 
 
-### #is_/same_as :: [Robinson_Crusoe.public](/_public/Society/Communication/Media/Writing/Book/Writer/English_Writer/Defoe,Daniel/Robinson_Crusoe.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Writer/English_Writer/Defoe,Daniel/Robinson_Crusoe.public|Robinson_Crusoe.public]] 
 
-### #is_/same_as :: [Robinson_Crusoe.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/English_Writer/Defoe,Daniel/Robinson_Crusoe.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Writer/English_Writer/Defoe,Daniel/Robinson_Crusoe.internal|Robinson_Crusoe.internal]] 
 
-### #is_/same_as :: [Robinson_Crusoe.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/English_Writer/Defoe,Daniel/Robinson_Crusoe.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Writer/English_Writer/Defoe,Daniel/Robinson_Crusoe.protect|Robinson_Crusoe.protect]] 
 
-### #is_/same_as :: [Robinson_Crusoe.private](/_private/Society/Communication/Media/Writing/Book/Writer/English_Writer/Defoe,Daniel/Robinson_Crusoe.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Writer/English_Writer/Defoe,Daniel/Robinson_Crusoe.private|Robinson_Crusoe.private]] 
 
-### #is_/same_as :: [Robinson_Crusoe.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/English_Writer/Defoe,Daniel/Robinson_Crusoe.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Writer/English_Writer/Defoe,Daniel/Robinson_Crusoe.personal|Robinson_Crusoe.personal]] 
 
-### #is_/same_as :: [Robinson_Crusoe.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/English_Writer/Defoe,Daniel/Robinson_Crusoe.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Writer/English_Writer/Defoe,Daniel/Robinson_Crusoe.secret|Robinson_Crusoe.secret]] 
 

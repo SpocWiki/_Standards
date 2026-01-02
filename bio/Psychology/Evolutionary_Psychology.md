@@ -42,17 +42,17 @@ PhilPapers_topic: evolutionary-psychology
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Evolutionary_Psychology](/_Standards/bio/Psychology/Evolutionary_Psychology.md) 
+### #is_/same_as :: [[/_Standards/bio/Psychology/Evolutionary_Psychology|Evolutionary_Psychology]] 
 
-### #is_/same_as :: [Evolutionary_Psychology.public](/_public/bio/Psychology/Evolutionary_Psychology.public.md) 
+### #is_/same_as :: [[/_public/bio/Psychology/Evolutionary_Psychology.public|Evolutionary_Psychology.public]] 
 
-### #is_/same_as :: [Evolutionary_Psychology.internal](/_internal/bio/Psychology/Evolutionary_Psychology.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Psychology/Evolutionary_Psychology.internal|Evolutionary_Psychology.internal]] 
 
-### #is_/same_as :: [Evolutionary_Psychology.protect](/_protect/bio/Psychology/Evolutionary_Psychology.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Psychology/Evolutionary_Psychology.protect|Evolutionary_Psychology.protect]] 
 
-### #is_/same_as :: [Evolutionary_Psychology.private](/_private/bio/Psychology/Evolutionary_Psychology.private.md) 
+### #is_/same_as :: [[/_private/bio/Psychology/Evolutionary_Psychology.private|Evolutionary_Psychology.private]] 
 
-### #is_/same_as :: [Evolutionary_Psychology.personal](/_personal/bio/Psychology/Evolutionary_Psychology.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Psychology/Evolutionary_Psychology.personal|Evolutionary_Psychology.personal]] 
 
-### #is_/same_as :: [Evolutionary_Psychology.secret](/_secret/bio/Psychology/Evolutionary_Psychology.secret.md)
+### #is_/same_as :: [[/_secret/bio/Psychology/Evolutionary_Psychology.secret|Evolutionary_Psychology.secret]] 
 

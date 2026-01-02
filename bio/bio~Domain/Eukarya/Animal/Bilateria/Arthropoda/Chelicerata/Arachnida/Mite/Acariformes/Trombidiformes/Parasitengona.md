@@ -102,17 +102,17 @@ Copyright ::   © 1998 H. Proctor
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Parasitengona](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Mite/Acariformes/Trombidiformes/Parasitengona.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Mite/Acariformes/Trombidiformes/Parasitengona|Parasitengona]] 
 
-### #is_/same_as :: [Parasitengona.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Mite/Acariformes/Trombidiformes/Parasitengona.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Mite/Acariformes/Trombidiformes/Parasitengona.public|Parasitengona.public]] 
 
-### #is_/same_as :: [Parasitengona.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Mite/Acariformes/Trombidiformes/Parasitengona.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Mite/Acariformes/Trombidiformes/Parasitengona.internal|Parasitengona.internal]] 
 
-### #is_/same_as :: [Parasitengona.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Mite/Acariformes/Trombidiformes/Parasitengona.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Mite/Acariformes/Trombidiformes/Parasitengona.protect|Parasitengona.protect]] 
 
-### #is_/same_as :: [Parasitengona.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Mite/Acariformes/Trombidiformes/Parasitengona.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Mite/Acariformes/Trombidiformes/Parasitengona.private|Parasitengona.private]] 
 
-### #is_/same_as :: [Parasitengona.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Mite/Acariformes/Trombidiformes/Parasitengona.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Mite/Acariformes/Trombidiformes/Parasitengona.personal|Parasitengona.personal]] 
 
-### #is_/same_as :: [Parasitengona.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Mite/Acariformes/Trombidiformes/Parasitengona.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Mite/Acariformes/Trombidiformes/Parasitengona.secret|Parasitengona.secret]] 
 

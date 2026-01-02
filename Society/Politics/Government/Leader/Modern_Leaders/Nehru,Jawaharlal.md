@@ -99,17 +99,17 @@ writing_language: '[[_Standards/WikiData/WD~English,1860]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Nehru,Jawaharlal](/_Standards/Society/Politics/Government/Leader/Modern_Leaders/Nehru,Jawaharlal.md) 
+### #is_/same_as :: [[/_Standards/Society/Politics/Government/Leader/Modern_Leaders/Nehru,Jawaharlal|Nehru,Jawaharlal]] 
 
-### #is_/same_as :: [Nehru,Jawaharlal.public](/_public/Society/Politics/Government/Leader/Modern_Leaders/Nehru,Jawaharlal.public.md) 
+### #is_/same_as :: [[/_public/Society/Politics/Government/Leader/Modern_Leaders/Nehru,Jawaharlal.public|Nehru,Jawaharlal.public]] 
 
-### #is_/same_as :: [Nehru,Jawaharlal.internal](/_internal/Society/Politics/Government/Leader/Modern_Leaders/Nehru,Jawaharlal.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Politics/Government/Leader/Modern_Leaders/Nehru,Jawaharlal.internal|Nehru,Jawaharlal.internal]] 
 
-### #is_/same_as :: [Nehru,Jawaharlal.protect](/_protect/Society/Politics/Government/Leader/Modern_Leaders/Nehru,Jawaharlal.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Politics/Government/Leader/Modern_Leaders/Nehru,Jawaharlal.protect|Nehru,Jawaharlal.protect]] 
 
-### #is_/same_as :: [Nehru,Jawaharlal.private](/_private/Society/Politics/Government/Leader/Modern_Leaders/Nehru,Jawaharlal.private.md) 
+### #is_/same_as :: [[/_private/Society/Politics/Government/Leader/Modern_Leaders/Nehru,Jawaharlal.private|Nehru,Jawaharlal.private]] 
 
-### #is_/same_as :: [Nehru,Jawaharlal.personal](/_personal/Society/Politics/Government/Leader/Modern_Leaders/Nehru,Jawaharlal.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Politics/Government/Leader/Modern_Leaders/Nehru,Jawaharlal.personal|Nehru,Jawaharlal.personal]] 
 
-### #is_/same_as :: [Nehru,Jawaharlal.secret](/_secret/Society/Politics/Government/Leader/Modern_Leaders/Nehru,Jawaharlal.secret.md)
+### #is_/same_as :: [[/_secret/Society/Politics/Government/Leader/Modern_Leaders/Nehru,Jawaharlal.secret|Nehru,Jawaharlal.secret]] 
 

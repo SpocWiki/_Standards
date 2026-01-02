@@ -52,17 +52,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bernini,Gian_Lorenzo](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Bernini,Gian_Lorenzo.md) 
+### #is_/same_as :: [[/_Standards/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Bernini,Gian_Lorenzo|Bernini,Gian_Lorenzo]] 
 
-### #is_/same_as :: [Bernini,Gian_Lorenzo.public](/_public/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Bernini,Gian_Lorenzo.public.md) 
+### #is_/same_as :: [[/_public/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Bernini,Gian_Lorenzo.public|Bernini,Gian_Lorenzo.public]] 
 
-### #is_/same_as :: [Bernini,Gian_Lorenzo.internal](/_internal/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Bernini,Gian_Lorenzo.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Bernini,Gian_Lorenzo.internal|Bernini,Gian_Lorenzo.internal]] 
 
-### #is_/same_as :: [Bernini,Gian_Lorenzo.protect](/_protect/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Bernini,Gian_Lorenzo.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Bernini,Gian_Lorenzo.protect|Bernini,Gian_Lorenzo.protect]] 
 
-### #is_/same_as :: [Bernini,Gian_Lorenzo.private](/_private/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Bernini,Gian_Lorenzo.private.md) 
+### #is_/same_as :: [[/_private/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Bernini,Gian_Lorenzo.private|Bernini,Gian_Lorenzo.private]] 
 
-### #is_/same_as :: [Bernini,Gian_Lorenzo.personal](/_personal/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Bernini,Gian_Lorenzo.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Bernini,Gian_Lorenzo.personal|Bernini,Gian_Lorenzo.personal]] 
 
-### #is_/same_as :: [Bernini,Gian_Lorenzo.secret](/_secret/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Bernini,Gian_Lorenzo.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Bernini,Gian_Lorenzo.secret|Bernini,Gian_Lorenzo.secret]] 
 

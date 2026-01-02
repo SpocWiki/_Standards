@@ -20,17 +20,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Back-Formation](/_Standards/Language/Linguistics/Back-Formation.md) 
+### #is_/same_as :: [[/_Standards/Language/Linguistics/Back-Formation|Back-Formation]] 
 
-### #is_/same_as :: [Back-Formation.public](/_public/Language/Linguistics/Back-Formation.public.md) 
+### #is_/same_as :: [[/_public/Language/Linguistics/Back-Formation.public|Back-Formation.public]] 
 
-### #is_/same_as :: [Back-Formation.internal](/_internal/Language/Linguistics/Back-Formation.internal.md) 
+### #is_/same_as :: [[/_internal/Language/Linguistics/Back-Formation.internal|Back-Formation.internal]] 
 
-### #is_/same_as :: [Back-Formation.protect](/_protect/Language/Linguistics/Back-Formation.protect.md) 
+### #is_/same_as :: [[/_protect/Language/Linguistics/Back-Formation.protect|Back-Formation.protect]] 
 
-### #is_/same_as :: [Back-Formation.private](/_private/Language/Linguistics/Back-Formation.private.md) 
+### #is_/same_as :: [[/_private/Language/Linguistics/Back-Formation.private|Back-Formation.private]] 
 
-### #is_/same_as :: [Back-Formation.personal](/_personal/Language/Linguistics/Back-Formation.personal.md) 
+### #is_/same_as :: [[/_personal/Language/Linguistics/Back-Formation.personal|Back-Formation.personal]] 
 
-### #is_/same_as :: [Back-Formation.secret](/_secret/Language/Linguistics/Back-Formation.secret.md)
+### #is_/same_as :: [[/_secret/Language/Linguistics/Back-Formation.secret|Back-Formation.secret]] 
 

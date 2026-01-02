@@ -197,17 +197,17 @@ NLC_authorities: 051064532
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Rowling,J.K](/_Standards/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Rowling,J.K.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Rowling,J.K|Rowling,J.K]] 
 
-### #is_/same_as :: [Rowling,J.K.public](/_public/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Rowling,J.K.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Rowling,J.K.public|Rowling,J.K.public]] 
 
-### #is_/same_as :: [Rowling,J.K.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Rowling,J.K.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Rowling,J.K.internal|Rowling,J.K.internal]] 
 
-### #is_/same_as :: [Rowling,J.K.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Rowling,J.K.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Rowling,J.K.protect|Rowling,J.K.protect]] 
 
-### #is_/same_as :: [Rowling,J.K.private](/_private/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Rowling,J.K.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Rowling,J.K.private|Rowling,J.K.private]] 
 
-### #is_/same_as :: [Rowling,J.K.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Rowling,J.K.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Rowling,J.K.personal|Rowling,J.K.personal]] 
 
-### #is_/same_as :: [Rowling,J.K.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Rowling,J.K.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Rowling,J.K.secret|Rowling,J.K.secret]] 
 

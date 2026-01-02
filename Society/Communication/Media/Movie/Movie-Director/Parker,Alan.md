@@ -90,17 +90,17 @@ ISNI: 0000000118811520
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Parker,Alan](/_Standards/Society/Communication/Media/Movie/Movie-Director/Parker,Alan.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Director/Parker,Alan|Parker,Alan]] 
 
-### #is_/same_as :: [Parker,Alan.public](/_public/Society/Communication/Media/Movie/Movie-Director/Parker,Alan.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Director/Parker,Alan.public|Parker,Alan.public]] 
 
-### #is_/same_as :: [Parker,Alan.internal](/_internal/Society/Communication/Media/Movie/Movie-Director/Parker,Alan.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Director/Parker,Alan.internal|Parker,Alan.internal]] 
 
-### #is_/same_as :: [Parker,Alan.protect](/_protect/Society/Communication/Media/Movie/Movie-Director/Parker,Alan.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Director/Parker,Alan.protect|Parker,Alan.protect]] 
 
-### #is_/same_as :: [Parker,Alan.private](/_private/Society/Communication/Media/Movie/Movie-Director/Parker,Alan.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Director/Parker,Alan.private|Parker,Alan.private]] 
 
-### #is_/same_as :: [Parker,Alan.personal](/_personal/Society/Communication/Media/Movie/Movie-Director/Parker,Alan.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Director/Parker,Alan.personal|Parker,Alan.personal]] 
 
-### #is_/same_as :: [Parker,Alan.secret](/_secret/Society/Communication/Media/Movie/Movie-Director/Parker,Alan.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Director/Parker,Alan.secret|Parker,Alan.secret]] 
 

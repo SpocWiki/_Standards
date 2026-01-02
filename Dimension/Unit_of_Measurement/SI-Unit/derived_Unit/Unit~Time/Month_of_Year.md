@@ -69,17 +69,17 @@ Commons_category: Months
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Month_of_Year](/_Standards/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Month_of_Year.md) 
+### #is_/same_as :: [[/_Standards/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Month_of_Year|Month_of_Year]] 
 
-### #is_/same_as :: [Month_of_Year.public](/_public/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Month_of_Year.public.md) 
+### #is_/same_as :: [[/_public/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Month_of_Year.public|Month_of_Year.public]] 
 
-### #is_/same_as :: [Month_of_Year.internal](/_internal/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Month_of_Year.internal.md) 
+### #is_/same_as :: [[/_internal/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Month_of_Year.internal|Month_of_Year.internal]] 
 
-### #is_/same_as :: [Month_of_Year.protect](/_protect/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Month_of_Year.protect.md) 
+### #is_/same_as :: [[/_protect/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Month_of_Year.protect|Month_of_Year.protect]] 
 
-### #is_/same_as :: [Month_of_Year.private](/_private/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Month_of_Year.private.md) 
+### #is_/same_as :: [[/_private/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Month_of_Year.private|Month_of_Year.private]] 
 
-### #is_/same_as :: [Month_of_Year.personal](/_personal/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Month_of_Year.personal.md) 
+### #is_/same_as :: [[/_personal/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Month_of_Year.personal|Month_of_Year.personal]] 
 
-### #is_/same_as :: [Month_of_Year.secret](/_secret/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Month_of_Year.secret.md)
+### #is_/same_as :: [[/_secret/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Month_of_Year.secret|Month_of_Year.secret]] 
 

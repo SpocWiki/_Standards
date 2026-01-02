@@ -39,17 +39,17 @@ A list of possible conditions for the item.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Offer_Item_Condition](/_Standards/schema-org/Enumeration/Offer_Item_Condition.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Offer_Item_Condition|Offer_Item_Condition]] 
 
-### #is_/same_as :: [Offer_Item_Condition.public](/_public/schema-org/Enumeration/Offer_Item_Condition.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Offer_Item_Condition.public|Offer_Item_Condition.public]] 
 
-### #is_/same_as :: [Offer_Item_Condition.internal](/_internal/schema-org/Enumeration/Offer_Item_Condition.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Offer_Item_Condition.internal|Offer_Item_Condition.internal]] 
 
-### #is_/same_as :: [Offer_Item_Condition.protect](/_protect/schema-org/Enumeration/Offer_Item_Condition.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Offer_Item_Condition.protect|Offer_Item_Condition.protect]] 
 
-### #is_/same_as :: [Offer_Item_Condition.private](/_private/schema-org/Enumeration/Offer_Item_Condition.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Offer_Item_Condition.private|Offer_Item_Condition.private]] 
 
-### #is_/same_as :: [Offer_Item_Condition.personal](/_personal/schema-org/Enumeration/Offer_Item_Condition.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Offer_Item_Condition.personal|Offer_Item_Condition.personal]] 
 
-### #is_/same_as :: [Offer_Item_Condition.secret](/_secret/schema-org/Enumeration/Offer_Item_Condition.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Offer_Item_Condition.secret|Offer_Item_Condition.secret]] 
 

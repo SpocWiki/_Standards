@@ -38,17 +38,17 @@ WALS_family_code: taikadai
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [LangFamily-Kra-Dai](/_Standards/Language/Language_Family/LangFamily-Kra-Dai.md) 
+### #is_/same_as :: [[/_Standards/Language/Language_Family/LangFamily-Kra-Dai|LangFamily-Kra-Dai]] 
 
-### #is_/same_as :: [LangFamily-Kra-Dai.public](/_public/Language/Language_Family/LangFamily-Kra-Dai.public.md) 
+### #is_/same_as :: [[/_public/Language/Language_Family/LangFamily-Kra-Dai.public|LangFamily-Kra-Dai.public]] 
 
-### #is_/same_as :: [LangFamily-Kra-Dai.internal](/_internal/Language/Language_Family/LangFamily-Kra-Dai.internal.md) 
+### #is_/same_as :: [[/_internal/Language/Language_Family/LangFamily-Kra-Dai.internal|LangFamily-Kra-Dai.internal]] 
 
-### #is_/same_as :: [LangFamily-Kra-Dai.protect](/_protect/Language/Language_Family/LangFamily-Kra-Dai.protect.md) 
+### #is_/same_as :: [[/_protect/Language/Language_Family/LangFamily-Kra-Dai.protect|LangFamily-Kra-Dai.protect]] 
 
-### #is_/same_as :: [LangFamily-Kra-Dai.private](/_private/Language/Language_Family/LangFamily-Kra-Dai.private.md) 
+### #is_/same_as :: [[/_private/Language/Language_Family/LangFamily-Kra-Dai.private|LangFamily-Kra-Dai.private]] 
 
-### #is_/same_as :: [LangFamily-Kra-Dai.personal](/_personal/Language/Language_Family/LangFamily-Kra-Dai.personal.md) 
+### #is_/same_as :: [[/_personal/Language/Language_Family/LangFamily-Kra-Dai.personal|LangFamily-Kra-Dai.personal]] 
 
-### #is_/same_as :: [LangFamily-Kra-Dai.secret](/_secret/Language/Language_Family/LangFamily-Kra-Dai.secret.md)
+### #is_/same_as :: [[/_secret/Language/Language_Family/LangFamily-Kra-Dai.secret|LangFamily-Kra-Dai.secret]] 
 

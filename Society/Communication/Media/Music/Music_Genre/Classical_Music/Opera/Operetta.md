@@ -69,17 +69,17 @@ Dewey_Decimal_Classification: "782.12"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Operetta](/_Standards/Society/Communication/Media/Music/Music_Genre/Classical_Music/Opera/Operetta.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Music_Genre/Classical_Music/Opera/Operetta|Operetta]] 
 
-### #is_/same_as :: [Operetta.public](/_public/Society/Communication/Media/Music/Music_Genre/Classical_Music/Opera/Operetta.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Music_Genre/Classical_Music/Opera/Operetta.public|Operetta.public]] 
 
-### #is_/same_as :: [Operetta.internal](/_internal/Society/Communication/Media/Music/Music_Genre/Classical_Music/Opera/Operetta.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Music_Genre/Classical_Music/Opera/Operetta.internal|Operetta.internal]] 
 
-### #is_/same_as :: [Operetta.protect](/_protect/Society/Communication/Media/Music/Music_Genre/Classical_Music/Opera/Operetta.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Music_Genre/Classical_Music/Opera/Operetta.protect|Operetta.protect]] 
 
-### #is_/same_as :: [Operetta.private](/_private/Society/Communication/Media/Music/Music_Genre/Classical_Music/Opera/Operetta.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Music_Genre/Classical_Music/Opera/Operetta.private|Operetta.private]] 
 
-### #is_/same_as :: [Operetta.personal](/_personal/Society/Communication/Media/Music/Music_Genre/Classical_Music/Opera/Operetta.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Music_Genre/Classical_Music/Opera/Operetta.personal|Operetta.personal]] 
 
-### #is_/same_as :: [Operetta.secret](/_secret/Society/Communication/Media/Music/Music_Genre/Classical_Music/Opera/Operetta.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Music_Genre/Classical_Music/Opera/Operetta.secret|Operetta.secret]] 
 

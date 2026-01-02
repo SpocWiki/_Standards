@@ -60,17 +60,17 @@ Commons_category: War of the Austrian Succession
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [1740-War_of_the_Austrian_Succession+1748](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1700/1740-War_of_the_Austrian_Succession+1748.md) 
+### #is_/same_as :: [[/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1700/1740-War_of_the_Austrian_Succession+1748|1740-War_of_the_Austrian_Succession+1748]] 
 
-### #is_/same_as :: [1740-War_of_the_Austrian_Succession+1748.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1700/1740-War_of_the_Austrian_Succession+1748.public.md) 
+### #is_/same_as :: [[/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1700/1740-War_of_the_Austrian_Succession+1748.public|1740-War_of_the_Austrian_Succession+1748.public]] 
 
-### #is_/same_as :: [1740-War_of_the_Austrian_Succession+1748.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1700/1740-War_of_the_Austrian_Succession+1748.internal.md) 
+### #is_/same_as :: [[/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1700/1740-War_of_the_Austrian_Succession+1748.internal|1740-War_of_the_Austrian_Succession+1748.internal]] 
 
-### #is_/same_as :: [1740-War_of_the_Austrian_Succession+1748.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1700/1740-War_of_the_Austrian_Succession+1748.protect.md) 
+### #is_/same_as :: [[/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1700/1740-War_of_the_Austrian_Succession+1748.protect|1740-War_of_the_Austrian_Succession+1748.protect]] 
 
-### #is_/same_as :: [1740-War_of_the_Austrian_Succession+1748.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1700/1740-War_of_the_Austrian_Succession+1748.private.md) 
+### #is_/same_as :: [[/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1700/1740-War_of_the_Austrian_Succession+1748.private|1740-War_of_the_Austrian_Succession+1748.private]] 
 
-### #is_/same_as :: [1740-War_of_the_Austrian_Succession+1748.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1700/1740-War_of_the_Austrian_Succession+1748.personal.md) 
+### #is_/same_as :: [[/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1700/1740-War_of_the_Austrian_Succession+1748.personal|1740-War_of_the_Austrian_Succession+1748.personal]] 
 
-### #is_/same_as :: [1740-War_of_the_Austrian_Succession+1748.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1700/1740-War_of_the_Austrian_Succession+1748.secret.md)
+### #is_/same_as :: [[/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1700/1740-War_of_the_Austrian_Succession+1748.secret|1740-War_of_the_Austrian_Succession+1748.secret]] 
 

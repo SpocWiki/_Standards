@@ -20,17 +20,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Social_Anthropology](/_Standards/Society/Anthropology/Social_Anthropology.md) 
+### #is_/same_as :: [[/_Standards/Society/Anthropology/Social_Anthropology|Social_Anthropology]] 
 
-### #is_/same_as :: [Social_Anthropology.public](/_public/Society/Anthropology/Social_Anthropology.public.md) 
+### #is_/same_as :: [[/_public/Society/Anthropology/Social_Anthropology.public|Social_Anthropology.public]] 
 
-### #is_/same_as :: [Social_Anthropology.internal](/_internal/Society/Anthropology/Social_Anthropology.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Anthropology/Social_Anthropology.internal|Social_Anthropology.internal]] 
 
-### #is_/same_as :: [Social_Anthropology.protect](/_protect/Society/Anthropology/Social_Anthropology.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Anthropology/Social_Anthropology.protect|Social_Anthropology.protect]] 
 
-### #is_/same_as :: [Social_Anthropology.private](/_private/Society/Anthropology/Social_Anthropology.private.md) 
+### #is_/same_as :: [[/_private/Society/Anthropology/Social_Anthropology.private|Social_Anthropology.private]] 
 
-### #is_/same_as :: [Social_Anthropology.personal](/_personal/Society/Anthropology/Social_Anthropology.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Anthropology/Social_Anthropology.personal|Social_Anthropology.personal]] 
 
-### #is_/same_as :: [Social_Anthropology.secret](/_secret/Society/Anthropology/Social_Anthropology.secret.md)
+### #is_/same_as :: [[/_secret/Society/Anthropology/Social_Anthropology.secret|Social_Anthropology.secret]] 
 

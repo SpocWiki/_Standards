@@ -41,17 +41,17 @@ The act of arriving at a place. An agent arrives at a destination from a fromLoc
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Arrive_Action](/_Standards/schema-org/Class/is_a_/Action/Move_Action/Arrive_Action.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Action/Move_Action/Arrive_Action|Arrive_Action]] 
 
-### #is_/same_as :: [Arrive_Action.public](/_public/schema-org/Class/is_a_/Action/Move_Action/Arrive_Action.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Action/Move_Action/Arrive_Action.public|Arrive_Action.public]] 
 
-### #is_/same_as :: [Arrive_Action.internal](/_internal/schema-org/Class/is_a_/Action/Move_Action/Arrive_Action.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Action/Move_Action/Arrive_Action.internal|Arrive_Action.internal]] 
 
-### #is_/same_as :: [Arrive_Action.protect](/_protect/schema-org/Class/is_a_/Action/Move_Action/Arrive_Action.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Action/Move_Action/Arrive_Action.protect|Arrive_Action.protect]] 
 
-### #is_/same_as :: [Arrive_Action.private](/_private/schema-org/Class/is_a_/Action/Move_Action/Arrive_Action.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Action/Move_Action/Arrive_Action.private|Arrive_Action.private]] 
 
-### #is_/same_as :: [Arrive_Action.personal](/_personal/schema-org/Class/is_a_/Action/Move_Action/Arrive_Action.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Action/Move_Action/Arrive_Action.personal|Arrive_Action.personal]] 
 
-### #is_/same_as :: [Arrive_Action.secret](/_secret/schema-org/Class/is_a_/Action/Move_Action/Arrive_Action.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Action/Move_Action/Arrive_Action.secret|Arrive_Action.secret]] 
 

@@ -92,17 +92,17 @@ title:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [ICESCR(International_Covenant_on_Economic,_Social_and_Cultural_Rights)](/_Standards/Society/Law/Contract/Treaty/ICESCR(International_Covenant_on_Economic,_Social_and_Cultural_Rights).md) 
+### #is_/same_as :: [[/_Standards/Society/Law/Contract/Treaty/ICESCR(International_Covenant_on_Economic,_Social_and_Cultural_Rights)|ICESCR(International_Covenant_on_Economic,_Social_and_Cultural_Rights)]] 
 
-### #is_/same_as :: [ICESCR(International_Covenant_on_Economic,_Social_and_Cultural_Rights).public](/_public/Society/Law/Contract/Treaty/ICESCR(International_Covenant_on_Economic,_Social_and_Cultural_Rights).public.md) 
+### #is_/same_as :: [[/_public/Society/Law/Contract/Treaty/ICESCR(International_Covenant_on_Economic,_Social_and_Cultural_Rights).public|ICESCR(International_Covenant_on_Economic,_Social_and_Cultural_Rights).public]] 
 
-### #is_/same_as :: [ICESCR(International_Covenant_on_Economic,_Social_and_Cultural_Rights).internal](/_internal/Society/Law/Contract/Treaty/ICESCR(International_Covenant_on_Economic,_Social_and_Cultural_Rights).internal.md) 
+### #is_/same_as :: [[/_internal/Society/Law/Contract/Treaty/ICESCR(International_Covenant_on_Economic,_Social_and_Cultural_Rights).internal|ICESCR(International_Covenant_on_Economic,_Social_and_Cultural_Rights).internal]] 
 
-### #is_/same_as :: [ICESCR(International_Covenant_on_Economic,_Social_and_Cultural_Rights).protect](/_protect/Society/Law/Contract/Treaty/ICESCR(International_Covenant_on_Economic,_Social_and_Cultural_Rights).protect.md) 
+### #is_/same_as :: [[/_protect/Society/Law/Contract/Treaty/ICESCR(International_Covenant_on_Economic,_Social_and_Cultural_Rights).protect|ICESCR(International_Covenant_on_Economic,_Social_and_Cultural_Rights).protect]] 
 
-### #is_/same_as :: [ICESCR(International_Covenant_on_Economic,_Social_and_Cultural_Rights).private](/_private/Society/Law/Contract/Treaty/ICESCR(International_Covenant_on_Economic,_Social_and_Cultural_Rights).private.md) 
+### #is_/same_as :: [[/_private/Society/Law/Contract/Treaty/ICESCR(International_Covenant_on_Economic,_Social_and_Cultural_Rights).private|ICESCR(International_Covenant_on_Economic,_Social_and_Cultural_Rights).private]] 
 
-### #is_/same_as :: [ICESCR(International_Covenant_on_Economic,_Social_and_Cultural_Rights).personal](/_personal/Society/Law/Contract/Treaty/ICESCR(International_Covenant_on_Economic,_Social_and_Cultural_Rights).personal.md) 
+### #is_/same_as :: [[/_personal/Society/Law/Contract/Treaty/ICESCR(International_Covenant_on_Economic,_Social_and_Cultural_Rights).personal|ICESCR(International_Covenant_on_Economic,_Social_and_Cultural_Rights).personal]] 
 
-### #is_/same_as :: [ICESCR(International_Covenant_on_Economic,_Social_and_Cultural_Rights).secret](/_secret/Society/Law/Contract/Treaty/ICESCR(International_Covenant_on_Economic,_Social_and_Cultural_Rights).secret.md)
+### #is_/same_as :: [[/_secret/Society/Law/Contract/Treaty/ICESCR(International_Covenant_on_Economic,_Social_and_Cultural_Rights).secret|ICESCR(International_Covenant_on_Economic,_Social_and_Cultural_Rights).secret]] 
 

@@ -44,17 +44,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_lender](has_lender.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_participants/has_lender|has_lender]] 
 
-### #is_/same_as :: [has_lender.public](/_public/schema-org/Relation/has/has_lender.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_participants/has_lender.public|has_lender.public]] 
 
-### #is_/same_as :: [has_lender.internal](/_internal/schema-org/Relation/has/has_lender.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_participants/has_lender.internal|has_lender.internal]] 
 
-### #is_/same_as :: [has_lender.protect](/_protect/schema-org/Relation/has/has_lender.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_participants/has_lender.protect|has_lender.protect]] 
 
-### #is_/same_as :: [has_lender.private](/_private/schema-org/Relation/has/has_lender.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_participants/has_lender.private|has_lender.private]] 
 
-### #is_/same_as :: [has_lender.personal](/_personal/schema-org/Relation/has/has_lender.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_participants/has_lender.personal|has_lender.personal]] 
 
-### #is_/same_as :: [has_lender.secret](/_secret/schema-org/Relation/has/has_lender.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_participants/has_lender.secret|has_lender.secret]] 
 

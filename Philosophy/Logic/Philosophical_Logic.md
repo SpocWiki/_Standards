@@ -41,17 +41,17 @@ topic_s_main_template: '[[_Standards/WikiData/WD~Template_Philosophical_logic,18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Philosophical_Logic](/_Standards/Philosophy/Logic/Philosophical_Logic.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Logic/Philosophical_Logic|Philosophical_Logic]] 
 
-### #is_/same_as :: [Philosophical_Logic.public](/_public/Philosophy/Logic/Philosophical_Logic.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Logic/Philosophical_Logic.public|Philosophical_Logic.public]] 
 
-### #is_/same_as :: [Philosophical_Logic.internal](/_internal/Philosophy/Logic/Philosophical_Logic.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Logic/Philosophical_Logic.internal|Philosophical_Logic.internal]] 
 
-### #is_/same_as :: [Philosophical_Logic.protect](/_protect/Philosophy/Logic/Philosophical_Logic.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Logic/Philosophical_Logic.protect|Philosophical_Logic.protect]] 
 
-### #is_/same_as :: [Philosophical_Logic.private](/_private/Philosophy/Logic/Philosophical_Logic.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Logic/Philosophical_Logic.private|Philosophical_Logic.private]] 
 
-### #is_/same_as :: [Philosophical_Logic.personal](/_personal/Philosophy/Logic/Philosophical_Logic.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Logic/Philosophical_Logic.personal|Philosophical_Logic.personal]] 
 
-### #is_/same_as :: [Philosophical_Logic.secret](/_secret/Philosophy/Logic/Philosophical_Logic.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Logic/Philosophical_Logic.secret|Philosophical_Logic.secret]] 
 

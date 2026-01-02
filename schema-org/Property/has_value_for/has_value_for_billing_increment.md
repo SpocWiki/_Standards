@@ -43,17 +43,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_value_for_billing_increment](/_Standards/schema-org/Property/has_value_for/has_value_for_billing_increment.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_value_for/has_value_for_billing_increment|has_value_for_billing_increment]] 
 
-### #is_/same_as :: [has_value_for_billing_increment.public](/_public/schema-org/Property/has_value_for/has_value_for_billing_increment.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/has_value_for/has_value_for_billing_increment.public|has_value_for_billing_increment.public]] 
 
-### #is_/same_as :: [has_value_for_billing_increment.internal](/_internal/schema-org/Property/has_value_for/has_value_for_billing_increment.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_value_for/has_value_for_billing_increment.internal|has_value_for_billing_increment.internal]] 
 
-### #is_/same_as :: [has_value_for_billing_increment.protect](/_protect/schema-org/Property/has_value_for/has_value_for_billing_increment.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_value_for/has_value_for_billing_increment.protect|has_value_for_billing_increment.protect]] 
 
-### #is_/same_as :: [has_value_for_billing_increment.private](/_private/schema-org/Property/has_value_for/has_value_for_billing_increment.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/has_value_for/has_value_for_billing_increment.private|has_value_for_billing_increment.private]] 
 
-### #is_/same_as :: [has_value_for_billing_increment.personal](/_personal/schema-org/Property/has_value_for/has_value_for_billing_increment.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_value_for/has_value_for_billing_increment.personal|has_value_for_billing_increment.personal]] 
 
-### #is_/same_as :: [has_value_for_billing_increment.secret](/_secret/schema-org/Property/has_value_for/has_value_for_billing_increment.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/has_value_for/has_value_for_billing_increment.secret|has_value_for_billing_increment.secret]] 
 

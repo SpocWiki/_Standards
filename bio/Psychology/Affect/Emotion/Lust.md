@@ -41,17 +41,17 @@ DOI: 10.1163/1875-3922_Q3_EQDUM_00334
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lust](/_Standards/bio/Psychology/Affect/Emotion/Lust.md) 
+### #is_/same_as :: [[/_Standards/bio/Psychology/Affect/Emotion/Lust|Lust]] 
 
-### #is_/same_as :: [Lust.public](/_public/bio/Psychology/Affect/Emotion/Lust.public.md) 
+### #is_/same_as :: [[/_public/bio/Psychology/Affect/Emotion/Lust.public|Lust.public]] 
 
-### #is_/same_as :: [Lust.internal](/_internal/bio/Psychology/Affect/Emotion/Lust.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Psychology/Affect/Emotion/Lust.internal|Lust.internal]] 
 
-### #is_/same_as :: [Lust.protect](/_protect/bio/Psychology/Affect/Emotion/Lust.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Psychology/Affect/Emotion/Lust.protect|Lust.protect]] 
 
-### #is_/same_as :: [Lust.private](/_private/bio/Psychology/Affect/Emotion/Lust.private.md) 
+### #is_/same_as :: [[/_private/bio/Psychology/Affect/Emotion/Lust.private|Lust.private]] 
 
-### #is_/same_as :: [Lust.personal](/_personal/bio/Psychology/Affect/Emotion/Lust.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Psychology/Affect/Emotion/Lust.personal|Lust.personal]] 
 
-### #is_/same_as :: [Lust.secret](/_secret/bio/Psychology/Affect/Emotion/Lust.secret.md)
+### #is_/same_as :: [[/_secret/bio/Psychology/Affect/Emotion/Lust.secret|Lust.secret]] 
 

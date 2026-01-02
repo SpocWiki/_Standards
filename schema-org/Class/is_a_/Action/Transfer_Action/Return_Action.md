@@ -41,17 +41,17 @@ The act of returning to the origin that which was previously received (concrete 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Return_Action](/_Standards/schema-org/Class/is_a_/Action/Transfer_Action/Return_Action.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Action/Transfer_Action/Return_Action|Return_Action]] 
 
-### #is_/same_as :: [Return_Action.public](/_public/schema-org/Class/is_a_/Action/Transfer_Action/Return_Action.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Action/Transfer_Action/Return_Action.public|Return_Action.public]] 
 
-### #is_/same_as :: [Return_Action.internal](/_internal/schema-org/Class/is_a_/Action/Transfer_Action/Return_Action.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Action/Transfer_Action/Return_Action.internal|Return_Action.internal]] 
 
-### #is_/same_as :: [Return_Action.protect](/_protect/schema-org/Class/is_a_/Action/Transfer_Action/Return_Action.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Action/Transfer_Action/Return_Action.protect|Return_Action.protect]] 
 
-### #is_/same_as :: [Return_Action.private](/_private/schema-org/Class/is_a_/Action/Transfer_Action/Return_Action.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Action/Transfer_Action/Return_Action.private|Return_Action.private]] 
 
-### #is_/same_as :: [Return_Action.personal](/_personal/schema-org/Class/is_a_/Action/Transfer_Action/Return_Action.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Action/Transfer_Action/Return_Action.personal|Return_Action.personal]] 
 
-### #is_/same_as :: [Return_Action.secret](/_secret/schema-org/Class/is_a_/Action/Transfer_Action/Return_Action.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Action/Transfer_Action/Return_Action.secret|Return_Action.secret]] 
 

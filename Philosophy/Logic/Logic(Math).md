@@ -67,17 +67,17 @@ X_Twitter_username: PeterOHearn12
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Logic(Math)](/_Standards/Philosophy/Logic/Logic(Math).md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Logic/Logic(Math)|Logic(Math)]] 
 
-### #is_/same_as :: [Logic(Math).public](/_public/Philosophy/Logic/Logic(Math).public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Logic/Logic(Math).public|Logic(Math).public]] 
 
-### #is_/same_as :: [Logic(Math).internal](/_internal/Philosophy/Logic/Logic(Math).internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Logic/Logic(Math).internal|Logic(Math).internal]] 
 
-### #is_/same_as :: [Logic(Math).protect](/_protect/Philosophy/Logic/Logic(Math).protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Logic/Logic(Math).protect|Logic(Math).protect]] 
 
-### #is_/same_as :: [Logic(Math).private](/_private/Philosophy/Logic/Logic(Math).private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Logic/Logic(Math).private|Logic(Math).private]] 
 
-### #is_/same_as :: [Logic(Math).personal](/_personal/Philosophy/Logic/Logic(Math).personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Logic/Logic(Math).personal|Logic(Math).personal]] 
 
-### #is_/same_as :: [Logic(Math).secret](/_secret/Philosophy/Logic/Logic(Math).secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Logic/Logic(Math).secret|Logic(Math).secret]] 
 

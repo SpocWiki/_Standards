@@ -44,17 +44,17 @@ Specifies that product returns must be made at a kiosk.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Return_at_Kiosk](/_Standards/schema-org/Enumeration/Return_Method_Enumeration/Return_at_Kiosk.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Return_Method_Enumeration/Return_at_Kiosk|Return_at_Kiosk]] 
 
-### #is_/same_as :: [Return_at_Kiosk.public](/_public/schema-org/Enumeration/Return_Method_Enumeration/Return_at_Kiosk.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Return_Method_Enumeration/Return_at_Kiosk.public|Return_at_Kiosk.public]] 
 
-### #is_/same_as :: [Return_at_Kiosk.internal](/_internal/schema-org/Enumeration/Return_Method_Enumeration/Return_at_Kiosk.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Return_Method_Enumeration/Return_at_Kiosk.internal|Return_at_Kiosk.internal]] 
 
-### #is_/same_as :: [Return_at_Kiosk.protect](/_protect/schema-org/Enumeration/Return_Method_Enumeration/Return_at_Kiosk.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Return_Method_Enumeration/Return_at_Kiosk.protect|Return_at_Kiosk.protect]] 
 
-### #is_/same_as :: [Return_at_Kiosk.private](/_private/schema-org/Enumeration/Return_Method_Enumeration/Return_at_Kiosk.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Return_Method_Enumeration/Return_at_Kiosk.private|Return_at_Kiosk.private]] 
 
-### #is_/same_as :: [Return_at_Kiosk.personal](/_personal/schema-org/Enumeration/Return_Method_Enumeration/Return_at_Kiosk.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Return_Method_Enumeration/Return_at_Kiosk.personal|Return_at_Kiosk.personal]] 
 
-### #is_/same_as :: [Return_at_Kiosk.secret](/_secret/schema-org/Enumeration/Return_Method_Enumeration/Return_at_Kiosk.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Return_Method_Enumeration/Return_at_Kiosk.secret|Return_at_Kiosk.secret]] 
 

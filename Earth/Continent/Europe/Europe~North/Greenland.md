@@ -219,17 +219,17 @@ Capital :: [[Godthab]]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Greenland](/_Standards/Earth/Continent/Europe/Europe~North/Greenland.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Greenland|Greenland]] 
 
-### #is_/same_as :: [Greenland.public](/_public/Earth/Continent/Europe/Europe~North/Greenland.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Greenland.public|Greenland.public]] 
 
-### #is_/same_as :: [Greenland.internal](/_internal/Earth/Continent/Europe/Europe~North/Greenland.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Greenland.internal|Greenland.internal]] 
 
-### #is_/same_as :: [Greenland.protect](/_protect/Earth/Continent/Europe/Europe~North/Greenland.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Greenland.protect|Greenland.protect]] 
 
-### #is_/same_as :: [Greenland.private](/_private/Earth/Continent/Europe/Europe~North/Greenland.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Greenland.private|Greenland.private]] 
 
-### #is_/same_as :: [Greenland.personal](/_personal/Earth/Continent/Europe/Europe~North/Greenland.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Greenland.personal|Greenland.personal]] 
 
-### #is_/same_as :: [Greenland.secret](/_secret/Earth/Continent/Europe/Europe~North/Greenland.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Greenland.secret|Greenland.secret]] 
 

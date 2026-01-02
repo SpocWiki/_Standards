@@ -200,17 +200,17 @@ Europeana_entity: agent/base/147180
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Mendelssohn,Felix](/_Standards/Society/Communication/Media/Music/Composer/Romantic_Composer/Mendelssohn,Felix.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Composer/Romantic_Composer/Mendelssohn,Felix|Mendelssohn,Felix]] 
 
-### #is_/same_as :: [Mendelssohn,Felix.public](/_public/Society/Communication/Media/Music/Composer/Romantic_Composer/Mendelssohn,Felix.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Composer/Romantic_Composer/Mendelssohn,Felix.public|Mendelssohn,Felix.public]] 
 
-### #is_/same_as :: [Mendelssohn,Felix.internal](/_internal/Society/Communication/Media/Music/Composer/Romantic_Composer/Mendelssohn,Felix.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Composer/Romantic_Composer/Mendelssohn,Felix.internal|Mendelssohn,Felix.internal]] 
 
-### #is_/same_as :: [Mendelssohn,Felix.protect](/_protect/Society/Communication/Media/Music/Composer/Romantic_Composer/Mendelssohn,Felix.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Composer/Romantic_Composer/Mendelssohn,Felix.protect|Mendelssohn,Felix.protect]] 
 
-### #is_/same_as :: [Mendelssohn,Felix.private](/_private/Society/Communication/Media/Music/Composer/Romantic_Composer/Mendelssohn,Felix.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Composer/Romantic_Composer/Mendelssohn,Felix.private|Mendelssohn,Felix.private]] 
 
-### #is_/same_as :: [Mendelssohn,Felix.personal](/_personal/Society/Communication/Media/Music/Composer/Romantic_Composer/Mendelssohn,Felix.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Composer/Romantic_Composer/Mendelssohn,Felix.personal|Mendelssohn,Felix.personal]] 
 
-### #is_/same_as :: [Mendelssohn,Felix.secret](/_secret/Society/Communication/Media/Music/Composer/Romantic_Composer/Mendelssohn,Felix.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Composer/Romantic_Composer/Mendelssohn,Felix.secret|Mendelssohn,Felix.secret]] 
 

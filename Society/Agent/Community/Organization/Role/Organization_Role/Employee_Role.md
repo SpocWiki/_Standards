@@ -41,17 +41,17 @@ A subclass of OrganizationRole used to describe employee relationships.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Employee_Role](/_Standards/Society/Agent/Community/Organization/Role/Organization_Role/Employee_Role.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Role/Organization_Role/Employee_Role|Employee_Role]] 
 
-### #is_/same_as :: [Employee_Role.public](/_public/Society/Agent/Community/Organization/Role/Organization_Role/Employee_Role.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Role/Organization_Role/Employee_Role.public|Employee_Role.public]] 
 
-### #is_/same_as :: [Employee_Role.internal](/_internal/Society/Agent/Community/Organization/Role/Organization_Role/Employee_Role.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Role/Organization_Role/Employee_Role.internal|Employee_Role.internal]] 
 
-### #is_/same_as :: [Employee_Role.protect](/_protect/Society/Agent/Community/Organization/Role/Organization_Role/Employee_Role.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Role/Organization_Role/Employee_Role.protect|Employee_Role.protect]] 
 
-### #is_/same_as :: [Employee_Role.private](/_private/Society/Agent/Community/Organization/Role/Organization_Role/Employee_Role.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Role/Organization_Role/Employee_Role.private|Employee_Role.private]] 
 
-### #is_/same_as :: [Employee_Role.personal](/_personal/Society/Agent/Community/Organization/Role/Organization_Role/Employee_Role.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Role/Organization_Role/Employee_Role.personal|Employee_Role.personal]] 
 
-### #is_/same_as :: [Employee_Role.secret](/_secret/Society/Agent/Community/Organization/Role/Organization_Role/Employee_Role.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Role/Organization_Role/Employee_Role.secret|Employee_Role.secret]] 
 

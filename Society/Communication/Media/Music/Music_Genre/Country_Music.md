@@ -69,17 +69,17 @@ IPTC_NewsCode: mediatopic/20000023
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Country_Music](/_Standards/Society/Communication/Media/Music/Music_Genre/Country_Music.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Music_Genre/Country_Music|Country_Music]] 
 
-### #is_/same_as :: [Country_Music.public](/_public/Society/Communication/Media/Music/Music_Genre/Country_Music.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Music_Genre/Country_Music.public|Country_Music.public]] 
 
-### #is_/same_as :: [Country_Music.internal](/_internal/Society/Communication/Media/Music/Music_Genre/Country_Music.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Music_Genre/Country_Music.internal|Country_Music.internal]] 
 
-### #is_/same_as :: [Country_Music.protect](/_protect/Society/Communication/Media/Music/Music_Genre/Country_Music.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Music_Genre/Country_Music.protect|Country_Music.protect]] 
 
-### #is_/same_as :: [Country_Music.private](/_private/Society/Communication/Media/Music/Music_Genre/Country_Music.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Music_Genre/Country_Music.private|Country_Music.private]] 
 
-### #is_/same_as :: [Country_Music.personal](/_personal/Society/Communication/Media/Music/Music_Genre/Country_Music.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Music_Genre/Country_Music.personal|Country_Music.personal]] 
 
-### #is_/same_as :: [Country_Music.secret](/_secret/Society/Communication/Media/Music/Music_Genre/Country_Music.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Music_Genre/Country_Music.secret|Country_Music.secret]] 
 

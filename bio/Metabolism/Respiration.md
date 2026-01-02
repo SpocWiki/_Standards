@@ -45,17 +45,17 @@ Commons_gallery: Respiration (physiology)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Respiration](/_Standards/bio/Metabolism/Respiration.md) 
+### #is_/same_as :: [[/_Standards/bio/Metabolism/Respiration|Respiration]] 
 
-### #is_/same_as :: [Respiration.public](/_public/bio/Metabolism/Respiration.public.md) 
+### #is_/same_as :: [[/_public/bio/Metabolism/Respiration.public|Respiration.public]] 
 
-### #is_/same_as :: [Respiration.internal](/_internal/bio/Metabolism/Respiration.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Metabolism/Respiration.internal|Respiration.internal]] 
 
-### #is_/same_as :: [Respiration.protect](/_protect/bio/Metabolism/Respiration.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Metabolism/Respiration.protect|Respiration.protect]] 
 
-### #is_/same_as :: [Respiration.private](/_private/bio/Metabolism/Respiration.private.md) 
+### #is_/same_as :: [[/_private/bio/Metabolism/Respiration.private|Respiration.private]] 
 
-### #is_/same_as :: [Respiration.personal](/_personal/bio/Metabolism/Respiration.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Metabolism/Respiration.personal|Respiration.personal]] 
 
-### #is_/same_as :: [Respiration.secret](/_secret/bio/Metabolism/Respiration.secret.md)
+### #is_/same_as :: [[/_secret/bio/Metabolism/Respiration.secret|Respiration.secret]] 
 

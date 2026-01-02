@@ -34,17 +34,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Einsteinian_Relativity](/_Standards/Mathematics/Geometry/Coordinate_System/Einsteinian_Relativity.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Geometry/Coordinate_System/Einsteinian_Relativity|Einsteinian_Relativity]] 
 
-### #is_/same_as :: [Einsteinian_Relativity.public](/_public/Mathematics/Geometry/Coordinate_System/Einsteinian_Relativity.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Geometry/Coordinate_System/Einsteinian_Relativity.public|Einsteinian_Relativity.public]] 
 
-### #is_/same_as :: [Einsteinian_Relativity.internal](/_internal/Mathematics/Geometry/Coordinate_System/Einsteinian_Relativity.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Geometry/Coordinate_System/Einsteinian_Relativity.internal|Einsteinian_Relativity.internal]] 
 
-### #is_/same_as :: [Einsteinian_Relativity.protect](/_protect/Mathematics/Geometry/Coordinate_System/Einsteinian_Relativity.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Geometry/Coordinate_System/Einsteinian_Relativity.protect|Einsteinian_Relativity.protect]] 
 
-### #is_/same_as :: [Einsteinian_Relativity.private](/_private/Mathematics/Geometry/Coordinate_System/Einsteinian_Relativity.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Geometry/Coordinate_System/Einsteinian_Relativity.private|Einsteinian_Relativity.private]] 
 
-### #is_/same_as :: [Einsteinian_Relativity.personal](/_personal/Mathematics/Geometry/Coordinate_System/Einsteinian_Relativity.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Geometry/Coordinate_System/Einsteinian_Relativity.personal|Einsteinian_Relativity.personal]] 
 
-### #is_/same_as :: [Einsteinian_Relativity.secret](/_secret/Mathematics/Geometry/Coordinate_System/Einsteinian_Relativity.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Geometry/Coordinate_System/Einsteinian_Relativity.secret|Einsteinian_Relativity.secret]] 
 

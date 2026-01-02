@@ -71,17 +71,17 @@ Dewey_Decimal_Classification:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Trolleybus](/_Standards/Technology/Transport/Public_Transport/Trolleybus.md) 
+### #is_/same_as :: [[/_Standards/Technology/Transport/Public_Transport/Trolleybus|Trolleybus]] 
 
-### #is_/same_as :: [Trolleybus.public](/_public/Technology/Transport/Public_Transport/Trolleybus.public.md) 
+### #is_/same_as :: [[/_public/Technology/Transport/Public_Transport/Trolleybus.public|Trolleybus.public]] 
 
-### #is_/same_as :: [Trolleybus.internal](/_internal/Technology/Transport/Public_Transport/Trolleybus.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Transport/Public_Transport/Trolleybus.internal|Trolleybus.internal]] 
 
-### #is_/same_as :: [Trolleybus.protect](/_protect/Technology/Transport/Public_Transport/Trolleybus.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Transport/Public_Transport/Trolleybus.protect|Trolleybus.protect]] 
 
-### #is_/same_as :: [Trolleybus.private](/_private/Technology/Transport/Public_Transport/Trolleybus.private.md) 
+### #is_/same_as :: [[/_private/Technology/Transport/Public_Transport/Trolleybus.private|Trolleybus.private]] 
 
-### #is_/same_as :: [Trolleybus.personal](/_personal/Technology/Transport/Public_Transport/Trolleybus.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Transport/Public_Transport/Trolleybus.personal|Trolleybus.personal]] 
 
-### #is_/same_as :: [Trolleybus.secret](/_secret/Technology/Transport/Public_Transport/Trolleybus.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Transport/Public_Transport/Trolleybus.secret|Trolleybus.secret]] 
 

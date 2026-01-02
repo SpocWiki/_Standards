@@ -42,17 +42,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_programming_language](/_Standards/schema-org/Relation/has/has_programming_language.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_programming_language|has_programming_language]] 
 
-### #is_/same_as :: [has_programming_language.public](/_public/schema-org/Relation/has/has_programming_language.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_programming_language.public|has_programming_language.public]] 
 
-### #is_/same_as :: [has_programming_language.internal](/_internal/schema-org/Relation/has/has_programming_language.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_programming_language.internal|has_programming_language.internal]] 
 
-### #is_/same_as :: [has_programming_language.protect](/_protect/schema-org/Relation/has/has_programming_language.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_programming_language.protect|has_programming_language.protect]] 
 
-### #is_/same_as :: [has_programming_language.private](/_private/schema-org/Relation/has/has_programming_language.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_programming_language.private|has_programming_language.private]] 
 
-### #is_/same_as :: [has_programming_language.personal](/_personal/schema-org/Relation/has/has_programming_language.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_programming_language.personal|has_programming_language.personal]] 
 
-### #is_/same_as :: [has_programming_language.secret](/_secret/schema-org/Relation/has/has_programming_language.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_programming_language.secret|has_programming_language.secret]] 
 

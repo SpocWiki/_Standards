@@ -64,17 +64,17 @@ Dewey_Decimal_Classification: "641.82"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sushi](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Dish/Sushi.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Home_Economics/Cooking/Food/Dish/Sushi|Sushi]] 
 
-### #is_/same_as :: [Sushi.public](/_public/Society/Economics/Home_Economics/Cooking/Food/Dish/Sushi.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Home_Economics/Cooking/Food/Dish/Sushi.public|Sushi.public]] 
 
-### #is_/same_as :: [Sushi.internal](/_internal/Society/Economics/Home_Economics/Cooking/Food/Dish/Sushi.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Home_Economics/Cooking/Food/Dish/Sushi.internal|Sushi.internal]] 
 
-### #is_/same_as :: [Sushi.protect](/_protect/Society/Economics/Home_Economics/Cooking/Food/Dish/Sushi.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Home_Economics/Cooking/Food/Dish/Sushi.protect|Sushi.protect]] 
 
-### #is_/same_as :: [Sushi.private](/_private/Society/Economics/Home_Economics/Cooking/Food/Dish/Sushi.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Home_Economics/Cooking/Food/Dish/Sushi.private|Sushi.private]] 
 
-### #is_/same_as :: [Sushi.personal](/_personal/Society/Economics/Home_Economics/Cooking/Food/Dish/Sushi.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Home_Economics/Cooking/Food/Dish/Sushi.personal|Sushi.personal]] 
 
-### #is_/same_as :: [Sushi.secret](/_secret/Society/Economics/Home_Economics/Cooking/Food/Dish/Sushi.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Home_Economics/Cooking/Food/Dish/Sushi.secret|Sushi.secret]] 
 

@@ -41,17 +41,17 @@ A bus station.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bus_Station](/_Standards/Earth/Geography/Place/Civic_Structure/Bus_Station.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geography/Place/Civic_Structure/Bus_Station|Bus_Station]] 
 
-### #is_/same_as :: [Bus_Station.public](/_public/Earth/Geography/Place/Civic_Structure/Bus_Station.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geography/Place/Civic_Structure/Bus_Station.public|Bus_Station.public]] 
 
-### #is_/same_as :: [Bus_Station.internal](/_internal/Earth/Geography/Place/Civic_Structure/Bus_Station.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geography/Place/Civic_Structure/Bus_Station.internal|Bus_Station.internal]] 
 
-### #is_/same_as :: [Bus_Station.protect](/_protect/Earth/Geography/Place/Civic_Structure/Bus_Station.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geography/Place/Civic_Structure/Bus_Station.protect|Bus_Station.protect]] 
 
-### #is_/same_as :: [Bus_Station.private](/_private/Earth/Geography/Place/Civic_Structure/Bus_Station.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geography/Place/Civic_Structure/Bus_Station.private|Bus_Station.private]] 
 
-### #is_/same_as :: [Bus_Station.personal](/_personal/Earth/Geography/Place/Civic_Structure/Bus_Station.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geography/Place/Civic_Structure/Bus_Station.personal|Bus_Station.personal]] 
 
-### #is_/same_as :: [Bus_Station.secret](/_secret/Earth/Geography/Place/Civic_Structure/Bus_Station.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geography/Place/Civic_Structure/Bus_Station.secret|Bus_Station.secret]] 
 

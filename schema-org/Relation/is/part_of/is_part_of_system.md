@@ -43,17 +43,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [is_part_of_system](/_Standards/schema-org/Relation/is/part_of/is_part_of_system.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/is/part_of/is_part_of_system|is_part_of_system]] 
 
-### #is_/same_as :: [is_part_of_system.public](/_public/schema-org/Relation/is/part_of/is_part_of_system.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/is/part_of/is_part_of_system.public|is_part_of_system.public]] 
 
-### #is_/same_as :: [is_part_of_system.internal](/_internal/schema-org/Relation/is/part_of/is_part_of_system.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/is/part_of/is_part_of_system.internal|is_part_of_system.internal]] 
 
-### #is_/same_as :: [is_part_of_system.protect](/_protect/schema-org/Relation/is/part_of/is_part_of_system.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/is/part_of/is_part_of_system.protect|is_part_of_system.protect]] 
 
-### #is_/same_as :: [is_part_of_system.private](/_private/schema-org/Relation/is/part_of/is_part_of_system.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/is/part_of/is_part_of_system.private|is_part_of_system.private]] 
 
-### #is_/same_as :: [is_part_of_system.personal](/_personal/schema-org/Relation/is/part_of/is_part_of_system.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/is/part_of/is_part_of_system.personal|is_part_of_system.personal]] 
 
-### #is_/same_as :: [is_part_of_system.secret](/_secret/schema-org/Relation/is/part_of/is_part_of_system.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/is/part_of/is_part_of_system.secret|is_part_of_system.secret]] 
 

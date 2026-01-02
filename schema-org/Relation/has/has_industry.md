@@ -38,17 +38,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_industry](/_Standards/schema-org/Relation/has/has_industry.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_industry|has_industry]] 
 
-### #is_/same_as :: [has_industry.public](/_public/schema-org/Relation/has/has_industry.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_industry.public|has_industry.public]] 
 
-### #is_/same_as :: [has_industry.internal](/_internal/schema-org/Relation/has/has_industry.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_industry.internal|has_industry.internal]] 
 
-### #is_/same_as :: [has_industry.protect](/_protect/schema-org/Relation/has/has_industry.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_industry.protect|has_industry.protect]] 
 
-### #is_/same_as :: [has_industry.private](/_private/schema-org/Relation/has/has_industry.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_industry.private|has_industry.private]] 
 
-### #is_/same_as :: [has_industry.personal](/_personal/schema-org/Relation/has/has_industry.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_industry.personal|has_industry.personal]] 
 
-### #is_/same_as :: [has_industry.secret](/_secret/schema-org/Relation/has/has_industry.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_industry.secret|has_industry.secret]] 
 

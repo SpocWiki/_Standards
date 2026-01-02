@@ -49,17 +49,17 @@ Mastodon_address: rasmus@phpc.social
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lerdorf,Rasmus](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Lerdorf,Rasmus.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Lerdorf,Rasmus|Lerdorf,Rasmus]] 
 
-### #is_/same_as :: [Lerdorf,Rasmus.public](/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Lerdorf,Rasmus.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Lerdorf,Rasmus.public|Lerdorf,Rasmus.public]] 
 
-### #is_/same_as :: [Lerdorf,Rasmus.internal](/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Lerdorf,Rasmus.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Lerdorf,Rasmus.internal|Lerdorf,Rasmus.internal]] 
 
-### #is_/same_as :: [Lerdorf,Rasmus.protect](/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Lerdorf,Rasmus.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Lerdorf,Rasmus.protect|Lerdorf,Rasmus.protect]] 
 
-### #is_/same_as :: [Lerdorf,Rasmus.private](/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Lerdorf,Rasmus.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Lerdorf,Rasmus.private|Lerdorf,Rasmus.private]] 
 
-### #is_/same_as :: [Lerdorf,Rasmus.personal](/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Lerdorf,Rasmus.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Lerdorf,Rasmus.personal|Lerdorf,Rasmus.personal]] 
 
-### #is_/same_as :: [Lerdorf,Rasmus.secret](/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Lerdorf,Rasmus.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Lerdorf,Rasmus.secret|Lerdorf,Rasmus.secret]] 
 

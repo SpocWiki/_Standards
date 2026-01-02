@@ -77,17 +77,17 @@ WordLift_URL: http://data.thenextweb.com/tnw/entity/child_2
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Child](/_Standards/Society/Agent/Community/Clan/Family/Child.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Clan/Family/Child|Child]] 
 
-### #is_/same_as :: [Child.public](/_public/Society/Agent/Community/Clan/Family/Child.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Clan/Family/Child.public|Child.public]] 
 
-### #is_/same_as :: [Child.internal](/_internal/Society/Agent/Community/Clan/Family/Child.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Clan/Family/Child.internal|Child.internal]] 
 
-### #is_/same_as :: [Child.protect](/_protect/Society/Agent/Community/Clan/Family/Child.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Clan/Family/Child.protect|Child.protect]] 
 
-### #is_/same_as :: [Child.private](/_private/Society/Agent/Community/Clan/Family/Child.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Clan/Family/Child.private|Child.private]] 
 
-### #is_/same_as :: [Child.personal](/_personal/Society/Agent/Community/Clan/Family/Child.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Clan/Family/Child.personal|Child.personal]] 
 
-### #is_/same_as :: [Child.secret](/_secret/Society/Agent/Community/Clan/Family/Child.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Clan/Family/Child.secret|Child.secret]] 
 

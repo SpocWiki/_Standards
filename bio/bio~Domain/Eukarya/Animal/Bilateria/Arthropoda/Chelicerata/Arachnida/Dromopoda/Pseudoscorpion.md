@@ -50,17 +50,17 @@ taxon_common_name:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Pseudoscorpion](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Dromopoda/Pseudoscorpion.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Dromopoda/Pseudoscorpion|Pseudoscorpion]] 
 
-### #is_/same_as :: [Pseudoscorpion.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Dromopoda/Pseudoscorpion.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Dromopoda/Pseudoscorpion.public|Pseudoscorpion.public]] 
 
-### #is_/same_as :: [Pseudoscorpion.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Dromopoda/Pseudoscorpion.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Dromopoda/Pseudoscorpion.internal|Pseudoscorpion.internal]] 
 
-### #is_/same_as :: [Pseudoscorpion.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Dromopoda/Pseudoscorpion.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Dromopoda/Pseudoscorpion.protect|Pseudoscorpion.protect]] 
 
-### #is_/same_as :: [Pseudoscorpion.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Dromopoda/Pseudoscorpion.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Dromopoda/Pseudoscorpion.private|Pseudoscorpion.private]] 
 
-### #is_/same_as :: [Pseudoscorpion.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Dromopoda/Pseudoscorpion.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Dromopoda/Pseudoscorpion.personal|Pseudoscorpion.personal]] 
 
-### #is_/same_as :: [Pseudoscorpion.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Dromopoda/Pseudoscorpion.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Dromopoda/Pseudoscorpion.secret|Pseudoscorpion.secret]] 
 

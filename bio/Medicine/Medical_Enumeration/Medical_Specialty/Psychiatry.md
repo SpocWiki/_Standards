@@ -100,17 +100,17 @@ Krugosvet_article_archived_: medicina/PSIHIATRIYA.html
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Psychiatry](/_Standards/bio/Medicine/Medical_Enumeration/Medical_Specialty/Psychiatry.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Enumeration/Medical_Specialty/Psychiatry|Psychiatry]] 
 
-### #is_/same_as :: [Psychiatry.public](/_public/bio/Medicine/Medical_Enumeration/Medical_Specialty/Psychiatry.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Enumeration/Medical_Specialty/Psychiatry.public|Psychiatry.public]] 
 
-### #is_/same_as :: [Psychiatry.internal](/_internal/bio/Medicine/Medical_Enumeration/Medical_Specialty/Psychiatry.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Enumeration/Medical_Specialty/Psychiatry.internal|Psychiatry.internal]] 
 
-### #is_/same_as :: [Psychiatry.protect](/_protect/bio/Medicine/Medical_Enumeration/Medical_Specialty/Psychiatry.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Enumeration/Medical_Specialty/Psychiatry.protect|Psychiatry.protect]] 
 
-### #is_/same_as :: [Psychiatry.private](/_private/bio/Medicine/Medical_Enumeration/Medical_Specialty/Psychiatry.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Enumeration/Medical_Specialty/Psychiatry.private|Psychiatry.private]] 
 
-### #is_/same_as :: [Psychiatry.personal](/_personal/bio/Medicine/Medical_Enumeration/Medical_Specialty/Psychiatry.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Enumeration/Medical_Specialty/Psychiatry.personal|Psychiatry.personal]] 
 
-### #is_/same_as :: [Psychiatry.secret](/_secret/bio/Medicine/Medical_Enumeration/Medical_Specialty/Psychiatry.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Enumeration/Medical_Specialty/Psychiatry.secret|Psychiatry.secret]] 
 

@@ -44,17 +44,17 @@ Specifies that a refund can be done in the full amount the customer paid for the
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Full_Refund](/_Standards/schema-org/Enumeration/Refund_Type_Enumeration/Full_Refund.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Refund_Type_Enumeration/Full_Refund|Full_Refund]] 
 
-### #is_/same_as :: [Full_Refund.public](/_public/schema-org/Enumeration/Refund_Type_Enumeration/Full_Refund.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Refund_Type_Enumeration/Full_Refund.public|Full_Refund.public]] 
 
-### #is_/same_as :: [Full_Refund.internal](/_internal/schema-org/Enumeration/Refund_Type_Enumeration/Full_Refund.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Refund_Type_Enumeration/Full_Refund.internal|Full_Refund.internal]] 
 
-### #is_/same_as :: [Full_Refund.protect](/_protect/schema-org/Enumeration/Refund_Type_Enumeration/Full_Refund.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Refund_Type_Enumeration/Full_Refund.protect|Full_Refund.protect]] 
 
-### #is_/same_as :: [Full_Refund.private](/_private/schema-org/Enumeration/Refund_Type_Enumeration/Full_Refund.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Refund_Type_Enumeration/Full_Refund.private|Full_Refund.private]] 
 
-### #is_/same_as :: [Full_Refund.personal](/_personal/schema-org/Enumeration/Refund_Type_Enumeration/Full_Refund.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Refund_Type_Enumeration/Full_Refund.personal|Full_Refund.personal]] 
 
-### #is_/same_as :: [Full_Refund.secret](/_secret/schema-org/Enumeration/Refund_Type_Enumeration/Full_Refund.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Refund_Type_Enumeration/Full_Refund.secret|Full_Refund.secret]] 
 

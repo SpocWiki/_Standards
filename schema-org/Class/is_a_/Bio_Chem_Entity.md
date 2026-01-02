@@ -53,17 +53,17 @@ For example: a protein; a gene; a chemical; a synthetic chemical.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bio_Chem_Entity](/_Standards/schema-org/Class/is_a_/Bio_Chem_Entity.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Bio_Chem_Entity|Bio_Chem_Entity]] 
 
-### #is_/same_as :: [Bio_Chem_Entity.public](/_public/schema-org/Class/is_a_/Bio_Chem_Entity.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Bio_Chem_Entity.public|Bio_Chem_Entity.public]] 
 
-### #is_/same_as :: [Bio_Chem_Entity.internal](/_internal/schema-org/Class/is_a_/Bio_Chem_Entity.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Bio_Chem_Entity.internal|Bio_Chem_Entity.internal]] 
 
-### #is_/same_as :: [Bio_Chem_Entity.protect](/_protect/schema-org/Class/is_a_/Bio_Chem_Entity.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Bio_Chem_Entity.protect|Bio_Chem_Entity.protect]] 
 
-### #is_/same_as :: [Bio_Chem_Entity.private](/_private/schema-org/Class/is_a_/Bio_Chem_Entity.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Bio_Chem_Entity.private|Bio_Chem_Entity.private]] 
 
-### #is_/same_as :: [Bio_Chem_Entity.personal](/_personal/schema-org/Class/is_a_/Bio_Chem_Entity.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Bio_Chem_Entity.personal|Bio_Chem_Entity.personal]] 
 
-### #is_/same_as :: [Bio_Chem_Entity.secret](/_secret/schema-org/Class/is_a_/Bio_Chem_Entity.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Bio_Chem_Entity.secret|Bio_Chem_Entity.secret]] 
 

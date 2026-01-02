@@ -235,17 +235,17 @@ As of 1994 the Winter Games are held interleaved with 2 year distance to the Sum
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Olympic_Games](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Olympic_Games.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Olympic_Games|Olympic_Games]] 
 
-### #is_/same_as :: [Olympic_Games.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Olympic_Games.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Olympic_Games.public|Olympic_Games.public]] 
 
-### #is_/same_as :: [Olympic_Games.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Olympic_Games.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Olympic_Games.internal|Olympic_Games.internal]] 
 
-### #is_/same_as :: [Olympic_Games.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Olympic_Games.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Olympic_Games.protect|Olympic_Games.protect]] 
 
-### #is_/same_as :: [Olympic_Games.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Olympic_Games.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Olympic_Games.private|Olympic_Games.private]] 
 
-### #is_/same_as :: [Olympic_Games.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Olympic_Games.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Olympic_Games.personal|Olympic_Games.personal]] 
 
-### #is_/same_as :: [Olympic_Games.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Olympic_Games.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Olympic_Games.secret|Olympic_Games.secret]] 
 

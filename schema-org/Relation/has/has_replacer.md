@@ -40,17 +40,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_replacer](/_Standards/schema-org/Relation/has/has_replacer.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_replacer|has_replacer]] 
 
-### #is_/same_as :: [has_replacer.public](/_public/schema-org/Relation/has/has_replacer.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_replacer.public|has_replacer.public]] 
 
-### #is_/same_as :: [has_replacer.internal](/_internal/schema-org/Relation/has/has_replacer.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_replacer.internal|has_replacer.internal]] 
 
-### #is_/same_as :: [has_replacer.protect](/_protect/schema-org/Relation/has/has_replacer.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_replacer.protect|has_replacer.protect]] 
 
-### #is_/same_as :: [has_replacer.private](/_private/schema-org/Relation/has/has_replacer.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_replacer.private|has_replacer.private]] 
 
-### #is_/same_as :: [has_replacer.personal](/_personal/schema-org/Relation/has/has_replacer.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_replacer.personal|has_replacer.personal]] 
 
-### #is_/same_as :: [has_replacer.secret](/_secret/schema-org/Relation/has/has_replacer.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_replacer.secret|has_replacer.secret]] 
 

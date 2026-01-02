@@ -42,17 +42,17 @@ Regensburg_Classification: NZ 50550
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Diplomatics](/_Standards/Society/Communication/Media/Writing/Diplomatics.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Diplomatics|Diplomatics]] 
 
-### #is_/same_as :: [Diplomatics.public](/_public/Society/Communication/Media/Writing/Diplomatics.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Diplomatics.public|Diplomatics.public]] 
 
-### #is_/same_as :: [Diplomatics.internal](/_internal/Society/Communication/Media/Writing/Diplomatics.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Diplomatics.internal|Diplomatics.internal]] 
 
-### #is_/same_as :: [Diplomatics.protect](/_protect/Society/Communication/Media/Writing/Diplomatics.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Diplomatics.protect|Diplomatics.protect]] 
 
-### #is_/same_as :: [Diplomatics.private](/_private/Society/Communication/Media/Writing/Diplomatics.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Diplomatics.private|Diplomatics.private]] 
 
-### #is_/same_as :: [Diplomatics.personal](/_personal/Society/Communication/Media/Writing/Diplomatics.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Diplomatics.personal|Diplomatics.personal]] 
 
-### #is_/same_as :: [Diplomatics.secret](/_secret/Society/Communication/Media/Writing/Diplomatics.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Diplomatics.secret|Diplomatics.secret]] 
 

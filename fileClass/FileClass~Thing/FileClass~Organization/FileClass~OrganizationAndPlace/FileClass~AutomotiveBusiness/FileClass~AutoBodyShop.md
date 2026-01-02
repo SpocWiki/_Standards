@@ -37,17 +37,17 @@ Auto body shop.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~AutoBodyShop](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~AutomotiveBusiness/FileClass~AutoBodyShop.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~AutomotiveBusiness/FileClass~AutoBodyShop|FileClass~AutoBodyShop]] 
 
-### #is_/same_as :: [FileClass~AutoBodyShop.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~AutomotiveBusiness/FileClass~AutoBodyShop.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~AutomotiveBusiness/FileClass~AutoBodyShop.public|FileClass~AutoBodyShop.public]] 
 
-### #is_/same_as :: [FileClass~AutoBodyShop.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~AutomotiveBusiness/FileClass~AutoBodyShop.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~AutomotiveBusiness/FileClass~AutoBodyShop.internal|FileClass~AutoBodyShop.internal]] 
 
-### #is_/same_as :: [FileClass~AutoBodyShop.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~AutomotiveBusiness/FileClass~AutoBodyShop.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~AutomotiveBusiness/FileClass~AutoBodyShop.protect|FileClass~AutoBodyShop.protect]] 
 
-### #is_/same_as :: [FileClass~AutoBodyShop.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~AutomotiveBusiness/FileClass~AutoBodyShop.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~AutomotiveBusiness/FileClass~AutoBodyShop.private|FileClass~AutoBodyShop.private]] 
 
-### #is_/same_as :: [FileClass~AutoBodyShop.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~AutomotiveBusiness/FileClass~AutoBodyShop.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~AutomotiveBusiness/FileClass~AutoBodyShop.personal|FileClass~AutoBodyShop.personal]] 
 
-### #is_/same_as :: [FileClass~AutoBodyShop.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~AutomotiveBusiness/FileClass~AutoBodyShop.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~AutomotiveBusiness/FileClass~AutoBodyShop.secret|FileClass~AutoBodyShop.secret]] 
 

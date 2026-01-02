@@ -101,17 +101,17 @@ WordLift_URL: http://data.wordlift.io/wl01714/entity/organisms.html
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Organism](/_Standards/bio/Organism.md) 
+### #is_/same_as :: [[/_Standards/bio/Organism|Organism]] 
 
-### #is_/same_as :: [Organism.public](/_public/bio/Organism.public.md) 
+### #is_/same_as :: [[/_public/bio/Organism.public|Organism.public]] 
 
-### #is_/same_as :: [Organism.internal](/_internal/bio/Organism.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Organism.internal|Organism.internal]] 
 
-### #is_/same_as :: [Organism.protect](/_protect/bio/Organism.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Organism.protect|Organism.protect]] 
 
-### #is_/same_as :: [Organism.private](/_private/bio/Organism.private.md) 
+### #is_/same_as :: [[/_private/bio/Organism.private|Organism.private]] 
 
-### #is_/same_as :: [Organism.personal](/_personal/bio/Organism.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Organism.personal|Organism.personal]] 
 
-### #is_/same_as :: [Organism.secret](/_secret/bio/Organism.secret.md)
+### #is_/same_as :: [[/_secret/bio/Organism.secret|Organism.secret]] 
 

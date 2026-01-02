@@ -86,17 +86,17 @@ Krugosvet_article_archived_: gumanitarnye_nauki/psihologiya_i_pedagogika/RAZUM.h
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Reason](/_Standards/bio/Psychology/Cognition/Thinking/Reason.md) 
+### #is_/same_as :: [[/_Standards/bio/Psychology/Cognition/Thinking/Reason|Reason]] 
 
-### #is_/same_as :: [Reason.public](/_public/bio/Psychology/Cognition/Thinking/Reason.public.md) 
+### #is_/same_as :: [[/_public/bio/Psychology/Cognition/Thinking/Reason.public|Reason.public]] 
 
-### #is_/same_as :: [Reason.internal](/_internal/bio/Psychology/Cognition/Thinking/Reason.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Psychology/Cognition/Thinking/Reason.internal|Reason.internal]] 
 
-### #is_/same_as :: [Reason.protect](/_protect/bio/Psychology/Cognition/Thinking/Reason.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Psychology/Cognition/Thinking/Reason.protect|Reason.protect]] 
 
-### #is_/same_as :: [Reason.private](/_private/bio/Psychology/Cognition/Thinking/Reason.private.md) 
+### #is_/same_as :: [[/_private/bio/Psychology/Cognition/Thinking/Reason.private|Reason.private]] 
 
-### #is_/same_as :: [Reason.personal](/_personal/bio/Psychology/Cognition/Thinking/Reason.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Psychology/Cognition/Thinking/Reason.personal|Reason.personal]] 
 
-### #is_/same_as :: [Reason.secret](/_secret/bio/Psychology/Cognition/Thinking/Reason.secret.md)
+### #is_/same_as :: [[/_secret/bio/Psychology/Cognition/Thinking/Reason.secret|Reason.secret]] 
 

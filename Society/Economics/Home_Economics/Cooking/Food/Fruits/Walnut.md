@@ -61,17 +61,17 @@ Commons_category: Walnuts
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Walnut](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Fruits/Walnut.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Home_Economics/Cooking/Food/Fruits/Walnut|Walnut]] 
 
-### #is_/same_as :: [Walnut.public](/_public/Society/Economics/Home_Economics/Cooking/Food/Fruits/Walnut.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Home_Economics/Cooking/Food/Fruits/Walnut.public|Walnut.public]] 
 
-### #is_/same_as :: [Walnut.internal](/_internal/Society/Economics/Home_Economics/Cooking/Food/Fruits/Walnut.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Home_Economics/Cooking/Food/Fruits/Walnut.internal|Walnut.internal]] 
 
-### #is_/same_as :: [Walnut.protect](/_protect/Society/Economics/Home_Economics/Cooking/Food/Fruits/Walnut.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Home_Economics/Cooking/Food/Fruits/Walnut.protect|Walnut.protect]] 
 
-### #is_/same_as :: [Walnut.private](/_private/Society/Economics/Home_Economics/Cooking/Food/Fruits/Walnut.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Home_Economics/Cooking/Food/Fruits/Walnut.private|Walnut.private]] 
 
-### #is_/same_as :: [Walnut.personal](/_personal/Society/Economics/Home_Economics/Cooking/Food/Fruits/Walnut.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Home_Economics/Cooking/Food/Fruits/Walnut.personal|Walnut.personal]] 
 
-### #is_/same_as :: [Walnut.secret](/_secret/Society/Economics/Home_Economics/Cooking/Food/Fruits/Walnut.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Home_Economics/Cooking/Food/Fruits/Walnut.secret|Walnut.secret]] 
 

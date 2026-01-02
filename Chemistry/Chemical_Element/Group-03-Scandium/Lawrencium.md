@@ -113,17 +113,17 @@ UNII: QRT37X99RQ
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lawrencium](/_Standards/Chemistry/Chemical_Element/Group-03-Scandium/Lawrencium.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Chemical_Element/Group-03-Scandium/Lawrencium|Lawrencium]] 
 
-### #is_/same_as :: [Lawrencium.public](/_public/Chemistry/Chemical_Element/Group-03-Scandium/Lawrencium.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Chemical_Element/Group-03-Scandium/Lawrencium.public|Lawrencium.public]] 
 
-### #is_/same_as :: [Lawrencium.internal](/_internal/Chemistry/Chemical_Element/Group-03-Scandium/Lawrencium.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Chemical_Element/Group-03-Scandium/Lawrencium.internal|Lawrencium.internal]] 
 
-### #is_/same_as :: [Lawrencium.protect](/_protect/Chemistry/Chemical_Element/Group-03-Scandium/Lawrencium.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Chemical_Element/Group-03-Scandium/Lawrencium.protect|Lawrencium.protect]] 
 
-### #is_/same_as :: [Lawrencium.private](/_private/Chemistry/Chemical_Element/Group-03-Scandium/Lawrencium.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Chemical_Element/Group-03-Scandium/Lawrencium.private|Lawrencium.private]] 
 
-### #is_/same_as :: [Lawrencium.personal](/_personal/Chemistry/Chemical_Element/Group-03-Scandium/Lawrencium.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Chemical_Element/Group-03-Scandium/Lawrencium.personal|Lawrencium.personal]] 
 
-### #is_/same_as :: [Lawrencium.secret](/_secret/Chemistry/Chemical_Element/Group-03-Scandium/Lawrencium.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Chemical_Element/Group-03-Scandium/Lawrencium.secret|Lawrencium.secret]] 
 

@@ -81,17 +81,17 @@ Iconclass_notation: 71A32113
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Tigris](/_Standards/Earth/Continent/Asia/Asia~West/Tigris.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~West/Tigris|Tigris]] 
 
-### #is_/same_as :: [Tigris.public](/_public/Earth/Continent/Asia/Asia~West/Tigris.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~West/Tigris.public|Tigris.public]] 
 
-### #is_/same_as :: [Tigris.internal](/_internal/Earth/Continent/Asia/Asia~West/Tigris.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~West/Tigris.internal|Tigris.internal]] 
 
-### #is_/same_as :: [Tigris.protect](/_protect/Earth/Continent/Asia/Asia~West/Tigris.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~West/Tigris.protect|Tigris.protect]] 
 
-### #is_/same_as :: [Tigris.private](/_private/Earth/Continent/Asia/Asia~West/Tigris.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~West/Tigris.private|Tigris.private]] 
 
-### #is_/same_as :: [Tigris.personal](/_personal/Earth/Continent/Asia/Asia~West/Tigris.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~West/Tigris.personal|Tigris.personal]] 
 
-### #is_/same_as :: [Tigris.secret](/_secret/Earth/Continent/Asia/Asia~West/Tigris.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~West/Tigris.secret|Tigris.secret]] 
 

@@ -34,17 +34,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Zeh,Juli](/_Standards/Society/Communication/Media/Writing/Book/Writer/German_Writer/Zeh,Juli.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Writer/German_Writer/Zeh,Juli|Zeh,Juli]] 
 
-### #is_/same_as :: [Zeh,Juli.public](/_public/Society/Communication/Media/Writing/Book/Writer/German_Writer/Zeh,Juli.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Writer/German_Writer/Zeh,Juli.public|Zeh,Juli.public]] 
 
-### #is_/same_as :: [Zeh,Juli.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/German_Writer/Zeh,Juli.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Writer/German_Writer/Zeh,Juli.internal|Zeh,Juli.internal]] 
 
-### #is_/same_as :: [Zeh,Juli.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/German_Writer/Zeh,Juli.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Writer/German_Writer/Zeh,Juli.protect|Zeh,Juli.protect]] 
 
-### #is_/same_as :: [Zeh,Juli.private](/_private/Society/Communication/Media/Writing/Book/Writer/German_Writer/Zeh,Juli.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Writer/German_Writer/Zeh,Juli.private|Zeh,Juli.private]] 
 
-### #is_/same_as :: [Zeh,Juli.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/German_Writer/Zeh,Juli.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Writer/German_Writer/Zeh,Juli.personal|Zeh,Juli.personal]] 
 
-### #is_/same_as :: [Zeh,Juli.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/German_Writer/Zeh,Juli.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Writer/German_Writer/Zeh,Juli.secret|Zeh,Juli.secret]] 
 

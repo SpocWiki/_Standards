@@ -71,17 +71,17 @@ Unicode_character: 🪟
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Window](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element/Window.md) 
+### #is_/same_as :: [[/_Standards/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element/Window|Window]] 
 
-### #is_/same_as :: [Window.public](/_public/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element/Window.public.md) 
+### #is_/same_as :: [[/_public/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element/Window.public|Window.public]] 
 
-### #is_/same_as :: [Window.internal](/_internal/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element/Window.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element/Window.internal|Window.internal]] 
 
-### #is_/same_as :: [Window.protect](/_protect/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element/Window.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element/Window.protect|Window.protect]] 
 
-### #is_/same_as :: [Window.private](/_private/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element/Window.private.md) 
+### #is_/same_as :: [[/_private/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element/Window.private|Window.private]] 
 
-### #is_/same_as :: [Window.personal](/_personal/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element/Window.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element/Window.personal|Window.personal]] 
 
-### #is_/same_as :: [Window.secret](/_secret/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element/Window.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element/Window.secret|Window.secret]] 
 

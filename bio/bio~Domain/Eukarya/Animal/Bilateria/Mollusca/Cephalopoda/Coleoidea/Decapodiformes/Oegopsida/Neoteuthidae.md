@@ -41,7 +41,7 @@ title: Neoteuthidae
 # Neoteuthidae [Naef, 1921] 
 
 [Michael Vecchione and Richard E. Young]()
-![ ](Neoteuthidae/NEO.JPG))
+![ ](Neoteuthidae/NEO.JPG) 
 ![ ](Neoteuthidae/NeoDraw.jpg)
 
 This family has four genera, each with a single species.
@@ -155,7 +155,7 @@ Zool., 97: 1-159.
 
 ## Title Illustrations
 
-![](Neoteuthidae/NEO.JPG))
+![](Neoteuthidae/NEO.JPG) 
 
   ------------
   Scientific Name ::   Neoteuthis
@@ -164,7 +164,7 @@ Zool., 97: 1-159.
   Life Cycle Stage ::   juvenile
   Copyright ::          © 1996 Ron Gilmer
   ------------
-![](Neoteuthidae/NeoDraw.jpg))
+![](Neoteuthidae/NeoDraw.jpg) 
 
   ------------------------------------------------------------------------------
   Scientific Name ::  Neoteuthis thielei
@@ -179,17 +179,17 @@ Zool., 97: 1-159.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Neoteuthidae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Neoteuthidae.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Neoteuthidae|Neoteuthidae]] 
 
-### #is_/same_as :: [Neoteuthidae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Neoteuthidae.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Neoteuthidae.public|Neoteuthidae.public]] 
 
-### #is_/same_as :: [Neoteuthidae.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Neoteuthidae.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Neoteuthidae.internal|Neoteuthidae.internal]] 
 
-### #is_/same_as :: [Neoteuthidae.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Neoteuthidae.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Neoteuthidae.protect|Neoteuthidae.protect]] 
 
-### #is_/same_as :: [Neoteuthidae.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Neoteuthidae.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Neoteuthidae.private|Neoteuthidae.private]] 
 
-### #is_/same_as :: [Neoteuthidae.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Neoteuthidae.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Neoteuthidae.personal|Neoteuthidae.personal]] 
 
-### #is_/same_as :: [Neoteuthidae.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Neoteuthidae.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Neoteuthidae.secret|Neoteuthidae.secret]] 
 

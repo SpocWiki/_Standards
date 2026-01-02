@@ -72,17 +72,17 @@ Wikidata_usage_instructions:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Legend](/_Standards/Society/Communication/Genre/Fiction/Folklore/Legend.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Genre/Fiction/Folklore/Legend|Legend]] 
 
-### #is_/same_as :: [Legend.public](/_public/Society/Communication/Genre/Fiction/Folklore/Legend.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Genre/Fiction/Folklore/Legend.public|Legend.public]] 
 
-### #is_/same_as :: [Legend.internal](/_internal/Society/Communication/Genre/Fiction/Folklore/Legend.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Genre/Fiction/Folklore/Legend.internal|Legend.internal]] 
 
-### #is_/same_as :: [Legend.protect](/_protect/Society/Communication/Genre/Fiction/Folklore/Legend.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Genre/Fiction/Folklore/Legend.protect|Legend.protect]] 
 
-### #is_/same_as :: [Legend.private](/_private/Society/Communication/Genre/Fiction/Folklore/Legend.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Genre/Fiction/Folklore/Legend.private|Legend.private]] 
 
-### #is_/same_as :: [Legend.personal](/_personal/Society/Communication/Genre/Fiction/Folklore/Legend.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Genre/Fiction/Folklore/Legend.personal|Legend.personal]] 
 
-### #is_/same_as :: [Legend.secret](/_secret/Society/Communication/Genre/Fiction/Folklore/Legend.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Genre/Fiction/Folklore/Legend.secret|Legend.secret]] 
 

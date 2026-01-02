@@ -60,17 +60,17 @@ Dewey_Decimal_Classification: "796.8157"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Taekwondo](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Martial_Art/Taekwondo.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Martial_Art/Taekwondo|Taekwondo]] 
 
-### #is_/same_as :: [Taekwondo.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Martial_Art/Taekwondo.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Martial_Art/Taekwondo.public|Taekwondo.public]] 
 
-### #is_/same_as :: [Taekwondo.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Martial_Art/Taekwondo.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Martial_Art/Taekwondo.internal|Taekwondo.internal]] 
 
-### #is_/same_as :: [Taekwondo.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Martial_Art/Taekwondo.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Martial_Art/Taekwondo.protect|Taekwondo.protect]] 
 
-### #is_/same_as :: [Taekwondo.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Martial_Art/Taekwondo.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Martial_Art/Taekwondo.private|Taekwondo.private]] 
 
-### #is_/same_as :: [Taekwondo.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Martial_Art/Taekwondo.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Martial_Art/Taekwondo.personal|Taekwondo.personal]] 
 
-### #is_/same_as :: [Taekwondo.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Martial_Art/Taekwondo.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Martial_Art/Taekwondo.secret|Taekwondo.secret]] 
 

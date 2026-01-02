@@ -58,17 +58,17 @@ Gujarati_Vishwakosh_entry: રેતીખડક-sandstone
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sandstone](/_Standards/Earth/Geology/Mineral/Sandstone.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geology/Mineral/Sandstone|Sandstone]] 
 
-### #is_/same_as :: [Sandstone.public](/_public/Earth/Geology/Mineral/Sandstone.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geology/Mineral/Sandstone.public|Sandstone.public]] 
 
-### #is_/same_as :: [Sandstone.internal](/_internal/Earth/Geology/Mineral/Sandstone.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geology/Mineral/Sandstone.internal|Sandstone.internal]] 
 
-### #is_/same_as :: [Sandstone.protect](/_protect/Earth/Geology/Mineral/Sandstone.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geology/Mineral/Sandstone.protect|Sandstone.protect]] 
 
-### #is_/same_as :: [Sandstone.private](/_private/Earth/Geology/Mineral/Sandstone.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geology/Mineral/Sandstone.private|Sandstone.private]] 
 
-### #is_/same_as :: [Sandstone.personal](/_personal/Earth/Geology/Mineral/Sandstone.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geology/Mineral/Sandstone.personal|Sandstone.personal]] 
 
-### #is_/same_as :: [Sandstone.secret](/_secret/Earth/Geology/Mineral/Sandstone.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geology/Mineral/Sandstone.secret|Sandstone.secret]] 
 

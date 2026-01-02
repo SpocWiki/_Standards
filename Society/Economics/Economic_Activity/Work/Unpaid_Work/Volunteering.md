@@ -35,17 +35,17 @@ Dewey_Decimal_Classification: 361.37
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Volunteering](/_Standards/Society/Economics/Economic_Activity/Work/Unpaid_Work/Volunteering.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Economic_Activity/Work/Unpaid_Work/Volunteering|Volunteering]] 
 
-### #is_/same_as :: [Volunteering.public](/_public/Society/Economics/Economic_Activity/Work/Unpaid_Work/Volunteering.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Economic_Activity/Work/Unpaid_Work/Volunteering.public|Volunteering.public]] 
 
-### #is_/same_as :: [Volunteering.internal](/_internal/Society/Economics/Economic_Activity/Work/Unpaid_Work/Volunteering.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Economic_Activity/Work/Unpaid_Work/Volunteering.internal|Volunteering.internal]] 
 
-### #is_/same_as :: [Volunteering.protect](/_protect/Society/Economics/Economic_Activity/Work/Unpaid_Work/Volunteering.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Economic_Activity/Work/Unpaid_Work/Volunteering.protect|Volunteering.protect]] 
 
-### #is_/same_as :: [Volunteering.private](/_private/Society/Economics/Economic_Activity/Work/Unpaid_Work/Volunteering.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Economic_Activity/Work/Unpaid_Work/Volunteering.private|Volunteering.private]] 
 
-### #is_/same_as :: [Volunteering.personal](/_personal/Society/Economics/Economic_Activity/Work/Unpaid_Work/Volunteering.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Economic_Activity/Work/Unpaid_Work/Volunteering.personal|Volunteering.personal]] 
 
-### #is_/same_as :: [Volunteering.secret](/_secret/Society/Economics/Economic_Activity/Work/Unpaid_Work/Volunteering.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Economic_Activity/Work/Unpaid_Work/Volunteering.secret|Volunteering.secret]] 
 

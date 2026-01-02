@@ -15,17 +15,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Brownout](/_Standards/Technology/Energy-Technology/Brownout.md) 
+### #is_/same_as :: [[/_Standards/Technology/Energy-Technology/Brownout|Brownout]] 
 
-### #is_/same_as :: [Brownout.public](/_public/Technology/Energy-Technology/Brownout.public.md) 
+### #is_/same_as :: [[/_public/Technology/Energy-Technology/Brownout.public|Brownout.public]] 
 
-### #is_/same_as :: [Brownout.internal](/_internal/Technology/Energy-Technology/Brownout.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Energy-Technology/Brownout.internal|Brownout.internal]] 
 
-### #is_/same_as :: [Brownout.protect](/_protect/Technology/Energy-Technology/Brownout.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Energy-Technology/Brownout.protect|Brownout.protect]] 
 
-### #is_/same_as :: [Brownout.private](/_private/Technology/Energy-Technology/Brownout.private.md) 
+### #is_/same_as :: [[/_private/Technology/Energy-Technology/Brownout.private|Brownout.private]] 
 
-### #is_/same_as :: [Brownout.personal](/_personal/Technology/Energy-Technology/Brownout.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Energy-Technology/Brownout.personal|Brownout.personal]] 
 
-### #is_/same_as :: [Brownout.secret](/_secret/Technology/Energy-Technology/Brownout.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Energy-Technology/Brownout.secret|Brownout.secret]] 
 

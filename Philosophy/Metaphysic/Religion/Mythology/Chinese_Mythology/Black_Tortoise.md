@@ -59,17 +59,17 @@ Commons_category: Black Tortoise
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Black_Tortoise](/_Standards/Philosophy/Metaphysic/Religion/Mythology/Chinese_Mythology/Black_Tortoise.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Mythology/Chinese_Mythology/Black_Tortoise|Black_Tortoise]] 
 
-### #is_/same_as :: [Black_Tortoise.public](/_public/Philosophy/Metaphysic/Religion/Mythology/Chinese_Mythology/Black_Tortoise.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Mythology/Chinese_Mythology/Black_Tortoise.public|Black_Tortoise.public]] 
 
-### #is_/same_as :: [Black_Tortoise.internal](/_internal/Philosophy/Metaphysic/Religion/Mythology/Chinese_Mythology/Black_Tortoise.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Mythology/Chinese_Mythology/Black_Tortoise.internal|Black_Tortoise.internal]] 
 
-### #is_/same_as :: [Black_Tortoise.protect](/_protect/Philosophy/Metaphysic/Religion/Mythology/Chinese_Mythology/Black_Tortoise.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Mythology/Chinese_Mythology/Black_Tortoise.protect|Black_Tortoise.protect]] 
 
-### #is_/same_as :: [Black_Tortoise.private](/_private/Philosophy/Metaphysic/Religion/Mythology/Chinese_Mythology/Black_Tortoise.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Mythology/Chinese_Mythology/Black_Tortoise.private|Black_Tortoise.private]] 
 
-### #is_/same_as :: [Black_Tortoise.personal](/_personal/Philosophy/Metaphysic/Religion/Mythology/Chinese_Mythology/Black_Tortoise.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Mythology/Chinese_Mythology/Black_Tortoise.personal|Black_Tortoise.personal]] 
 
-### #is_/same_as :: [Black_Tortoise.secret](/_secret/Philosophy/Metaphysic/Religion/Mythology/Chinese_Mythology/Black_Tortoise.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Mythology/Chinese_Mythology/Black_Tortoise.secret|Black_Tortoise.secret]] 
 

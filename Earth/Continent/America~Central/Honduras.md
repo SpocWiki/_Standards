@@ -444,17 +444,17 @@ Capital :: [[Honduras/Counties/Francisco_Morazán/City/Tegucigalpa]]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Honduras](/_Standards/Earth/Continent/America~Central/Honduras.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~Central/Honduras|Honduras]] 
 
-### #is_/same_as :: [Honduras.public](/_public/Earth/Continent/America~Central/Honduras.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~Central/Honduras.public|Honduras.public]] 
 
-### #is_/same_as :: [Honduras.internal](/_internal/Earth/Continent/America~Central/Honduras.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~Central/Honduras.internal|Honduras.internal]] 
 
-### #is_/same_as :: [Honduras.protect](/_protect/Earth/Continent/America~Central/Honduras.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~Central/Honduras.protect|Honduras.protect]] 
 
-### #is_/same_as :: [Honduras.private](/_private/Earth/Continent/America~Central/Honduras.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~Central/Honduras.private|Honduras.private]] 
 
-### #is_/same_as :: [Honduras.personal](/_personal/Earth/Continent/America~Central/Honduras.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~Central/Honduras.personal|Honduras.personal]] 
 
-### #is_/same_as :: [Honduras.secret](/_secret/Earth/Continent/America~Central/Honduras.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~Central/Honduras.secret|Honduras.secret]] 
 

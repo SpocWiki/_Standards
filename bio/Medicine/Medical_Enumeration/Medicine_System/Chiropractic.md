@@ -40,17 +40,17 @@ A system of medicine focused on the relationship between the body's structure, m
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Chiropractic](/_Standards/bio/Medicine/Medical_Enumeration/Medicine_System/Chiropractic.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Enumeration/Medicine_System/Chiropractic|Chiropractic]] 
 
-### #is_/same_as :: [Chiropractic.public](/_public/bio/Medicine/Medical_Enumeration/Medicine_System/Chiropractic.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Enumeration/Medicine_System/Chiropractic.public|Chiropractic.public]] 
 
-### #is_/same_as :: [Chiropractic.internal](/_internal/bio/Medicine/Medical_Enumeration/Medicine_System/Chiropractic.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Enumeration/Medicine_System/Chiropractic.internal|Chiropractic.internal]] 
 
-### #is_/same_as :: [Chiropractic.protect](/_protect/bio/Medicine/Medical_Enumeration/Medicine_System/Chiropractic.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Enumeration/Medicine_System/Chiropractic.protect|Chiropractic.protect]] 
 
-### #is_/same_as :: [Chiropractic.private](/_private/bio/Medicine/Medical_Enumeration/Medicine_System/Chiropractic.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Enumeration/Medicine_System/Chiropractic.private|Chiropractic.private]] 
 
-### #is_/same_as :: [Chiropractic.personal](/_personal/bio/Medicine/Medical_Enumeration/Medicine_System/Chiropractic.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Enumeration/Medicine_System/Chiropractic.personal|Chiropractic.personal]] 
 
-### #is_/same_as :: [Chiropractic.secret](/_secret/bio/Medicine/Medical_Enumeration/Medicine_System/Chiropractic.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Enumeration/Medicine_System/Chiropractic.secret|Chiropractic.secret]] 
 

@@ -42,17 +42,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_fuel_type](/_Standards/schema-org/Relation/has/has_fuel_type.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_fuel_type|has_fuel_type]] 
 
-### #is_/same_as :: [has_fuel_type.public](/_public/schema-org/Relation/has/has_fuel_type.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_fuel_type.public|has_fuel_type.public]] 
 
-### #is_/same_as :: [has_fuel_type.internal](/_internal/schema-org/Relation/has/has_fuel_type.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_fuel_type.internal|has_fuel_type.internal]] 
 
-### #is_/same_as :: [has_fuel_type.protect](/_protect/schema-org/Relation/has/has_fuel_type.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_fuel_type.protect|has_fuel_type.protect]] 
 
-### #is_/same_as :: [has_fuel_type.private](/_private/schema-org/Relation/has/has_fuel_type.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_fuel_type.private|has_fuel_type.private]] 
 
-### #is_/same_as :: [has_fuel_type.personal](/_personal/schema-org/Relation/has/has_fuel_type.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_fuel_type.personal|has_fuel_type.personal]] 
 
-### #is_/same_as :: [has_fuel_type.secret](/_secret/schema-org/Relation/has/has_fuel_type.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_fuel_type.secret|has_fuel_type.secret]] 
 

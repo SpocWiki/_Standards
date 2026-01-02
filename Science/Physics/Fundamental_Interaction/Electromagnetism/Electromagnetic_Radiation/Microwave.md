@@ -48,17 +48,17 @@ Krugosvet_article_archived_: nauka_i_tehnika/transport_i_svyaz/SVERHVISOKIH_CHAS
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Microwave](/_Standards/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Microwave.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Microwave|Microwave]] 
 
-### #is_/same_as :: [Microwave.public](/_public/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Microwave.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Microwave.public|Microwave.public]] 
 
-### #is_/same_as :: [Microwave.internal](/_internal/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Microwave.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Microwave.internal|Microwave.internal]] 
 
-### #is_/same_as :: [Microwave.protect](/_protect/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Microwave.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Microwave.protect|Microwave.protect]] 
 
-### #is_/same_as :: [Microwave.private](/_private/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Microwave.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Microwave.private|Microwave.private]] 
 
-### #is_/same_as :: [Microwave.personal](/_personal/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Microwave.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Microwave.personal|Microwave.personal]] 
 
-### #is_/same_as :: [Microwave.secret](/_secret/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Microwave.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Microwave.secret|Microwave.secret]] 
 

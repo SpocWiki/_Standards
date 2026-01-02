@@ -28,17 +28,17 @@ pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q1395
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Japanese_Calendar](/_Standards/ISO/Calendar/Japanese_Calendar.md) 
+### #is_/same_as :: [[/_Standards/ISO/Calendar/Japanese_Calendar|Japanese_Calendar]] 
 
-### #is_/same_as :: [Japanese_Calendar.public](/_public/ISO/Calendar/Japanese_Calendar.public.md) 
+### #is_/same_as :: [[/_public/ISO/Calendar/Japanese_Calendar.public|Japanese_Calendar.public]] 
 
-### #is_/same_as :: [Japanese_Calendar.internal](/_internal/ISO/Calendar/Japanese_Calendar.internal.md) 
+### #is_/same_as :: [[/_internal/ISO/Calendar/Japanese_Calendar.internal|Japanese_Calendar.internal]] 
 
-### #is_/same_as :: [Japanese_Calendar.protect](/_protect/ISO/Calendar/Japanese_Calendar.protect.md) 
+### #is_/same_as :: [[/_protect/ISO/Calendar/Japanese_Calendar.protect|Japanese_Calendar.protect]] 
 
-### #is_/same_as :: [Japanese_Calendar.private](/_private/ISO/Calendar/Japanese_Calendar.private.md) 
+### #is_/same_as :: [[/_private/ISO/Calendar/Japanese_Calendar.private|Japanese_Calendar.private]] 
 
-### #is_/same_as :: [Japanese_Calendar.personal](/_personal/ISO/Calendar/Japanese_Calendar.personal.md) 
+### #is_/same_as :: [[/_personal/ISO/Calendar/Japanese_Calendar.personal|Japanese_Calendar.personal]] 
 
-### #is_/same_as :: [Japanese_Calendar.secret](/_secret/ISO/Calendar/Japanese_Calendar.secret.md)
+### #is_/same_as :: [[/_secret/ISO/Calendar/Japanese_Calendar.secret|Japanese_Calendar.secret]] 
 

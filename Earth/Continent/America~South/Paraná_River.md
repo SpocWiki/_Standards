@@ -152,17 +152,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Paraná_River](/_Standards/Earth/Continent/America~South/Paraná_River.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~South/Paraná_River|Paraná_River]] 
 
-### #is_/same_as :: [Paraná_River.public](/_public/Earth/Continent/America~South/Paraná_River.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~South/Paraná_River.public|Paraná_River.public]] 
 
-### #is_/same_as :: [Paraná_River.internal](/_internal/Earth/Continent/America~South/Paraná_River.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~South/Paraná_River.internal|Paraná_River.internal]] 
 
-### #is_/same_as :: [Paraná_River.protect](/_protect/Earth/Continent/America~South/Paraná_River.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~South/Paraná_River.protect|Paraná_River.protect]] 
 
-### #is_/same_as :: [Paraná_River.private](/_private/Earth/Continent/America~South/Paraná_River.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~South/Paraná_River.private|Paraná_River.private]] 
 
-### #is_/same_as :: [Paraná_River.personal](/_personal/Earth/Continent/America~South/Paraná_River.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~South/Paraná_River.personal|Paraná_River.personal]] 
 
-### #is_/same_as :: [Paraná_River.secret](/_secret/Earth/Continent/America~South/Paraná_River.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~South/Paraná_River.secret|Paraná_River.secret]] 
 

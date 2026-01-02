@@ -38,17 +38,17 @@ has_id_wikidata: Q336989
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hay](/_Standards/Society/Economics/Industry/Agriculture/Farm/Hay.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Industry/Agriculture/Farm/Hay|Hay]] 
 
-### #is_/same_as :: [Hay.public](/_public/Society/Economics/Industry/Agriculture/Farm/Hay.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Industry/Agriculture/Farm/Hay.public|Hay.public]] 
 
-### #is_/same_as :: [Hay.internal](/_internal/Society/Economics/Industry/Agriculture/Farm/Hay.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Industry/Agriculture/Farm/Hay.internal|Hay.internal]] 
 
-### #is_/same_as :: [Hay.protect](/_protect/Society/Economics/Industry/Agriculture/Farm/Hay.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Industry/Agriculture/Farm/Hay.protect|Hay.protect]] 
 
-### #is_/same_as :: [Hay.private](/_private/Society/Economics/Industry/Agriculture/Farm/Hay.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Industry/Agriculture/Farm/Hay.private|Hay.private]] 
 
-### #is_/same_as :: [Hay.personal](/_personal/Society/Economics/Industry/Agriculture/Farm/Hay.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Industry/Agriculture/Farm/Hay.personal|Hay.personal]] 
 
-### #is_/same_as :: [Hay.secret](/_secret/Society/Economics/Industry/Agriculture/Farm/Hay.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Industry/Agriculture/Farm/Hay.secret|Hay.secret]] 
 

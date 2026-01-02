@@ -34,17 +34,17 @@ P8189: 987007283102205171
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bongo_Drum](/_Standards/Society/Communication/Media/Music/Musical_Instrument/Percussion_Instrument/Bongo_Drum.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Musical_Instrument/Percussion_Instrument/Bongo_Drum|Bongo_Drum]] 
 
-### #is_/same_as :: [Bongo_Drum.public](/_public/Society/Communication/Media/Music/Musical_Instrument/Percussion_Instrument/Bongo_Drum.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Musical_Instrument/Percussion_Instrument/Bongo_Drum.public|Bongo_Drum.public]] 
 
-### #is_/same_as :: [Bongo_Drum.internal](/_internal/Society/Communication/Media/Music/Musical_Instrument/Percussion_Instrument/Bongo_Drum.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Musical_Instrument/Percussion_Instrument/Bongo_Drum.internal|Bongo_Drum.internal]] 
 
-### #is_/same_as :: [Bongo_Drum.protect](/_protect/Society/Communication/Media/Music/Musical_Instrument/Percussion_Instrument/Bongo_Drum.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Musical_Instrument/Percussion_Instrument/Bongo_Drum.protect|Bongo_Drum.protect]] 
 
-### #is_/same_as :: [Bongo_Drum.private](/_private/Society/Communication/Media/Music/Musical_Instrument/Percussion_Instrument/Bongo_Drum.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Musical_Instrument/Percussion_Instrument/Bongo_Drum.private|Bongo_Drum.private]] 
 
-### #is_/same_as :: [Bongo_Drum.personal](/_personal/Society/Communication/Media/Music/Musical_Instrument/Percussion_Instrument/Bongo_Drum.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Musical_Instrument/Percussion_Instrument/Bongo_Drum.personal|Bongo_Drum.personal]] 
 
-### #is_/same_as :: [Bongo_Drum.secret](/_secret/Society/Communication/Media/Music/Musical_Instrument/Percussion_Instrument/Bongo_Drum.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Musical_Instrument/Percussion_Instrument/Bongo_Drum.secret|Bongo_Drum.secret]] 
 

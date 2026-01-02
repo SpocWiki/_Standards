@@ -40,17 +40,17 @@ markerFolder: ./Föglö/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Föglö](/_Standards/Earth/Continent/Europe/Europe~North/Åland-Islands/Archipelago/counties~Archipelago/Föglö.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Åland-Islands/Archipelago/counties~Archipelago/Föglö|Föglö]] 
 
-### #is_/same_as :: [Föglö.public](/_public/Earth/Continent/Europe/Europe~North/Åland-Islands/Archipelago/counties~Archipelago/Föglö.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Åland-Islands/Archipelago/counties~Archipelago/Föglö.public|Föglö.public]] 
 
-### #is_/same_as :: [Föglö.internal](/_internal/Earth/Continent/Europe/Europe~North/Åland-Islands/Archipelago/counties~Archipelago/Föglö.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Åland-Islands/Archipelago/counties~Archipelago/Föglö.internal|Föglö.internal]] 
 
-### #is_/same_as :: [Föglö.protect](/_protect/Earth/Continent/Europe/Europe~North/Åland-Islands/Archipelago/counties~Archipelago/Föglö.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Åland-Islands/Archipelago/counties~Archipelago/Föglö.protect|Föglö.protect]] 
 
-### #is_/same_as :: [Föglö.private](/_private/Earth/Continent/Europe/Europe~North/Åland-Islands/Archipelago/counties~Archipelago/Föglö.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Åland-Islands/Archipelago/counties~Archipelago/Föglö.private|Föglö.private]] 
 
-### #is_/same_as :: [Föglö.personal](/_personal/Earth/Continent/Europe/Europe~North/Åland-Islands/Archipelago/counties~Archipelago/Föglö.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Åland-Islands/Archipelago/counties~Archipelago/Föglö.personal|Föglö.personal]] 
 
-### #is_/same_as :: [Föglö.secret](/_secret/Earth/Continent/Europe/Europe~North/Åland-Islands/Archipelago/counties~Archipelago/Föglö.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Åland-Islands/Archipelago/counties~Archipelago/Föglö.secret|Föglö.secret]] 
 

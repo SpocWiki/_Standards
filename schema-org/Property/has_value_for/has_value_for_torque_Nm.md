@@ -54,17 +54,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_value_for_torque_Nm](/_Standards/schema-org/Property/has_value_for/has_value_for_torque_Nm.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_value_for/has_value_for_torque_Nm|has_value_for_torque_Nm]] 
 
-### #is_/same_as :: [has_value_for_torque_Nm.public](/_public/schema-org/Property/has_value_for/has_value_for_torque_Nm.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/has_value_for/has_value_for_torque_Nm.public|has_value_for_torque_Nm.public]] 
 
-### #is_/same_as :: [has_value_for_torque_Nm.internal](/_internal/schema-org/Property/has_value_for/has_value_for_torque_Nm.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_value_for/has_value_for_torque_Nm.internal|has_value_for_torque_Nm.internal]] 
 
-### #is_/same_as :: [has_value_for_torque_Nm.protect](/_protect/schema-org/Property/has_value_for/has_value_for_torque_Nm.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_value_for/has_value_for_torque_Nm.protect|has_value_for_torque_Nm.protect]] 
 
-### #is_/same_as :: [has_value_for_torque_Nm.private](/_private/schema-org/Property/has_value_for/has_value_for_torque_Nm.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/has_value_for/has_value_for_torque_Nm.private|has_value_for_torque_Nm.private]] 
 
-### #is_/same_as :: [has_value_for_torque_Nm.personal](/_personal/schema-org/Property/has_value_for/has_value_for_torque_Nm.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_value_for/has_value_for_torque_Nm.personal|has_value_for_torque_Nm.personal]] 
 
-### #is_/same_as :: [has_value_for_torque_Nm.secret](/_secret/schema-org/Property/has_value_for/has_value_for_torque_Nm.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/has_value_for/has_value_for_torque_Nm.secret|has_value_for_torque_Nm.secret]] 
 

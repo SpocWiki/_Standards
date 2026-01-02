@@ -41,17 +41,17 @@ A television station.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Television_Station](/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Television_Station.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Television_Station|Television_Station]] 
 
-### #is_/same_as :: [Television_Station.public](/_public/Society/Agent/Community/Organization/Business/Local_Business/Television_Station.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Business/Local_Business/Television_Station.public|Television_Station.public]] 
 
-### #is_/same_as :: [Television_Station.internal](/_internal/Society/Agent/Community/Organization/Business/Local_Business/Television_Station.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Business/Local_Business/Television_Station.internal|Television_Station.internal]] 
 
-### #is_/same_as :: [Television_Station.protect](/_protect/Society/Agent/Community/Organization/Business/Local_Business/Television_Station.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Business/Local_Business/Television_Station.protect|Television_Station.protect]] 
 
-### #is_/same_as :: [Television_Station.private](/_private/Society/Agent/Community/Organization/Business/Local_Business/Television_Station.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Business/Local_Business/Television_Station.private|Television_Station.private]] 
 
-### #is_/same_as :: [Television_Station.personal](/_personal/Society/Agent/Community/Organization/Business/Local_Business/Television_Station.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Business/Local_Business/Television_Station.personal|Television_Station.personal]] 
 
-### #is_/same_as :: [Television_Station.secret](/_secret/Society/Agent/Community/Organization/Business/Local_Business/Television_Station.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Business/Local_Business/Television_Station.secret|Television_Station.secret]] 
 

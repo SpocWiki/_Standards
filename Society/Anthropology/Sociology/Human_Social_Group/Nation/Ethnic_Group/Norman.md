@@ -111,17 +111,17 @@ native_label: Normaunds
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Norman](/_Standards/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Norman.md) 
+### #is_/same_as :: [[/_Standards/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Norman|Norman]] 
 
-### #is_/same_as :: [Norman.public](/_public/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Norman.public.md) 
+### #is_/same_as :: [[/_public/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Norman.public|Norman.public]] 
 
-### #is_/same_as :: [Norman.internal](/_internal/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Norman.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Norman.internal|Norman.internal]] 
 
-### #is_/same_as :: [Norman.protect](/_protect/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Norman.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Norman.protect|Norman.protect]] 
 
-### #is_/same_as :: [Norman.private](/_private/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Norman.private.md) 
+### #is_/same_as :: [[/_private/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Norman.private|Norman.private]] 
 
-### #is_/same_as :: [Norman.personal](/_personal/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Norman.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Norman.personal|Norman.personal]] 
 
-### #is_/same_as :: [Norman.secret](/_secret/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Norman.secret.md)
+### #is_/same_as :: [[/_secret/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Norman.secret|Norman.secret]] 
 

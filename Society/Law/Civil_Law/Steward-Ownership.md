@@ -27,17 +27,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Steward-Ownership](/_Standards/Society/Law/Civil_Law/Steward-Ownership.md) 
+### #is_/same_as :: [[/_Standards/Society/Law/Civil_Law/Steward-Ownership|Steward-Ownership]] 
 
-### #is_/same_as :: [Steward-Ownership.public](/_public/Society/Law/Civil_Law/Steward-Ownership.public.md) 
+### #is_/same_as :: [[/_public/Society/Law/Civil_Law/Steward-Ownership.public|Steward-Ownership.public]] 
 
-### #is_/same_as :: [Steward-Ownership.internal](/_internal/Society/Law/Civil_Law/Steward-Ownership.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Law/Civil_Law/Steward-Ownership.internal|Steward-Ownership.internal]] 
 
-### #is_/same_as :: [Steward-Ownership.protect](/_protect/Society/Law/Civil_Law/Steward-Ownership.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Law/Civil_Law/Steward-Ownership.protect|Steward-Ownership.protect]] 
 
-### #is_/same_as :: [Steward-Ownership.private](/_private/Society/Law/Civil_Law/Steward-Ownership.private.md) 
+### #is_/same_as :: [[/_private/Society/Law/Civil_Law/Steward-Ownership.private|Steward-Ownership.private]] 
 
-### #is_/same_as :: [Steward-Ownership.personal](/_personal/Society/Law/Civil_Law/Steward-Ownership.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Law/Civil_Law/Steward-Ownership.personal|Steward-Ownership.personal]] 
 
-### #is_/same_as :: [Steward-Ownership.secret](/_secret/Society/Law/Civil_Law/Steward-Ownership.secret.md)
+### #is_/same_as :: [[/_secret/Society/Law/Civil_Law/Steward-Ownership.secret|Steward-Ownership.secret]] 
 

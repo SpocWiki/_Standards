@@ -5,7 +5,7 @@ title: Aegla inconspicua
 ---
 
 # Aegla inconspicua 
-![ ](inconspicua/inconspicua1.jpg))
+![ ](inconspicua/inconspicua1.jpg) 
 
 Containing group:[Aeglidae](../Aeglidae.md) 
 
@@ -28,7 +28,7 @@ Arroio D. Pedro, Sao Francisco de Paula, Rio Grande do Sul, Brazil.
 ### Distribution
 
 Eastern and northeastern parts of Rio Grande do Sul, Brazil.
-![ ](inconspicua/_inconspicua1.jpg))
+![ ](inconspicua/_inconspicua1.jpg) 
 
 © 1994 Georgina Bond-Buckup, Ludwig Buckup
 ## Phylogeny 
@@ -112,7 +112,7 @@ Eastern and northeastern parts of Rio Grande do Sul, Brazil.
 ## Title Illustrations
 
 ----------------- 
-![](inconspicua/inconspicua1.jpg))
+![](inconspicua/inconspicua1.jpg) 
 Scientific Name ::  Aegla inconspicua
 Creator           Ana Rossi
 Sex ::             Male
@@ -122,17 +122,17 @@ Copyright ::         © 1994 Georgina Bond-Buckup, Ludwig Buckup
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [inconspicua](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Anomura/Aeglidae/inconspicua.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Anomura/Aeglidae/inconspicua|inconspicua]] 
 
-### #is_/same_as :: [inconspicua.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Anomura/Aeglidae/inconspicua.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Anomura/Aeglidae/inconspicua.public|inconspicua.public]] 
 
-### #is_/same_as :: [inconspicua.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Anomura/Aeglidae/inconspicua.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Anomura/Aeglidae/inconspicua.internal|inconspicua.internal]] 
 
-### #is_/same_as :: [inconspicua.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Anomura/Aeglidae/inconspicua.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Anomura/Aeglidae/inconspicua.protect|inconspicua.protect]] 
 
-### #is_/same_as :: [inconspicua.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Anomura/Aeglidae/inconspicua.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Anomura/Aeglidae/inconspicua.private|inconspicua.private]] 
 
-### #is_/same_as :: [inconspicua.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Anomura/Aeglidae/inconspicua.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Anomura/Aeglidae/inconspicua.personal|inconspicua.personal]] 
 
-### #is_/same_as :: [inconspicua.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Anomura/Aeglidae/inconspicua.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Anomura/Aeglidae/inconspicua.secret|inconspicua.secret]] 
 

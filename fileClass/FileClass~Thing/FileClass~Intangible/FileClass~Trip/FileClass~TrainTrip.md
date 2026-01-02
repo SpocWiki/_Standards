@@ -99,17 +99,17 @@ TrainNumber:: {"type":"Input","options":{}}
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~TrainTrip](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Trip/FileClass~TrainTrip.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Trip/FileClass~TrainTrip|FileClass~TrainTrip]] 
 
-### #is_/same_as :: [FileClass~TrainTrip.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Trip/FileClass~TrainTrip.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Trip/FileClass~TrainTrip.public|FileClass~TrainTrip.public]] 
 
-### #is_/same_as :: [FileClass~TrainTrip.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Trip/FileClass~TrainTrip.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Trip/FileClass~TrainTrip.internal|FileClass~TrainTrip.internal]] 
 
-### #is_/same_as :: [FileClass~TrainTrip.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Trip/FileClass~TrainTrip.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Trip/FileClass~TrainTrip.protect|FileClass~TrainTrip.protect]] 
 
-### #is_/same_as :: [FileClass~TrainTrip.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Trip/FileClass~TrainTrip.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Trip/FileClass~TrainTrip.private|FileClass~TrainTrip.private]] 
 
-### #is_/same_as :: [FileClass~TrainTrip.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Trip/FileClass~TrainTrip.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Trip/FileClass~TrainTrip.personal|FileClass~TrainTrip.personal]] 
 
-### #is_/same_as :: [FileClass~TrainTrip.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Trip/FileClass~TrainTrip.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Trip/FileClass~TrainTrip.secret|FileClass~TrainTrip.secret]] 
 

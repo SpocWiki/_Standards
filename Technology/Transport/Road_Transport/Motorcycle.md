@@ -118,17 +118,17 @@ A motorcycle or motorbike is a single-track, two-wheeled motor vehicle.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Motorcycle](/_Standards/Technology/Transport/Road_Transport/Motorcycle.md) 
+### #is_/same_as :: [[/_Standards/Technology/Transport/Road_Transport/Motorcycle|Motorcycle]] 
 
-### #is_/same_as :: [Motorcycle.public](/_public/Technology/Transport/Road_Transport/Motorcycle.public.md) 
+### #is_/same_as :: [[/_public/Technology/Transport/Road_Transport/Motorcycle.public|Motorcycle.public]] 
 
-### #is_/same_as :: [Motorcycle.internal](/_internal/Technology/Transport/Road_Transport/Motorcycle.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Transport/Road_Transport/Motorcycle.internal|Motorcycle.internal]] 
 
-### #is_/same_as :: [Motorcycle.protect](/_protect/Technology/Transport/Road_Transport/Motorcycle.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Transport/Road_Transport/Motorcycle.protect|Motorcycle.protect]] 
 
-### #is_/same_as :: [Motorcycle.private](/_private/Technology/Transport/Road_Transport/Motorcycle.private.md) 
+### #is_/same_as :: [[/_private/Technology/Transport/Road_Transport/Motorcycle.private|Motorcycle.private]] 
 
-### #is_/same_as :: [Motorcycle.personal](/_personal/Technology/Transport/Road_Transport/Motorcycle.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Transport/Road_Transport/Motorcycle.personal|Motorcycle.personal]] 
 
-### #is_/same_as :: [Motorcycle.secret](/_secret/Technology/Transport/Road_Transport/Motorcycle.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Transport/Road_Transport/Motorcycle.secret|Motorcycle.secret]] 
 

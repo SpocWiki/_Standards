@@ -31,17 +31,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Thompson,Ken](/_Standards/Technology/IT/Software/OS(Operating-System)/Thompson,Ken.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Software/OS(Operating-System)/Thompson,Ken|Thompson,Ken]] 
 
-### #is_/same_as :: [Thompson,Ken.public](/_public/Technology/IT/Software/OS(Operating-System)/Thompson,Ken.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Software/OS(Operating-System)/Thompson,Ken.public|Thompson,Ken.public]] 
 
-### #is_/same_as :: [Thompson,Ken.internal](/_internal/Technology/IT/Software/OS(Operating-System)/Thompson,Ken.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Software/OS(Operating-System)/Thompson,Ken.internal|Thompson,Ken.internal]] 
 
-### #is_/same_as :: [Thompson,Ken.protect](/_protect/Technology/IT/Software/OS(Operating-System)/Thompson,Ken.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Software/OS(Operating-System)/Thompson,Ken.protect|Thompson,Ken.protect]] 
 
-### #is_/same_as :: [Thompson,Ken.private](/_private/Technology/IT/Software/OS(Operating-System)/Thompson,Ken.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Software/OS(Operating-System)/Thompson,Ken.private|Thompson,Ken.private]] 
 
-### #is_/same_as :: [Thompson,Ken.personal](/_personal/Technology/IT/Software/OS(Operating-System)/Thompson,Ken.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Software/OS(Operating-System)/Thompson,Ken.personal|Thompson,Ken.personal]] 
 
-### #is_/same_as :: [Thompson,Ken.secret](/_secret/Technology/IT/Software/OS(Operating-System)/Thompson,Ken.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Software/OS(Operating-System)/Thompson,Ken.secret|Thompson,Ken.secret]] 
 

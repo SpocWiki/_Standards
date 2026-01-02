@@ -41,17 +41,17 @@ A hair salon.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hair_Salon](/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Health_and_Beauty_Business/Hair_Salon.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Health_and_Beauty_Business/Hair_Salon|Hair_Salon]] 
 
-### #is_/same_as :: [Hair_Salon.public](/_public/Society/Agent/Community/Organization/Business/Local_Business/Health_and_Beauty_Business/Hair_Salon.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Business/Local_Business/Health_and_Beauty_Business/Hair_Salon.public|Hair_Salon.public]] 
 
-### #is_/same_as :: [Hair_Salon.internal](/_internal/Society/Agent/Community/Organization/Business/Local_Business/Health_and_Beauty_Business/Hair_Salon.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Business/Local_Business/Health_and_Beauty_Business/Hair_Salon.internal|Hair_Salon.internal]] 
 
-### #is_/same_as :: [Hair_Salon.protect](/_protect/Society/Agent/Community/Organization/Business/Local_Business/Health_and_Beauty_Business/Hair_Salon.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Business/Local_Business/Health_and_Beauty_Business/Hair_Salon.protect|Hair_Salon.protect]] 
 
-### #is_/same_as :: [Hair_Salon.private](/_private/Society/Agent/Community/Organization/Business/Local_Business/Health_and_Beauty_Business/Hair_Salon.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Business/Local_Business/Health_and_Beauty_Business/Hair_Salon.private|Hair_Salon.private]] 
 
-### #is_/same_as :: [Hair_Salon.personal](/_personal/Society/Agent/Community/Organization/Business/Local_Business/Health_and_Beauty_Business/Hair_Salon.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Business/Local_Business/Health_and_Beauty_Business/Hair_Salon.personal|Hair_Salon.personal]] 
 
-### #is_/same_as :: [Hair_Salon.secret](/_secret/Society/Agent/Community/Organization/Business/Local_Business/Health_and_Beauty_Business/Hair_Salon.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Business/Local_Business/Health_and_Beauty_Business/Hair_Salon.secret|Hair_Salon.secret]] 
 

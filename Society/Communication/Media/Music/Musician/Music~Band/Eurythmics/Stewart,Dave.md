@@ -16,17 +16,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Stewart,Dave](/_Standards/Society/Communication/Media/Music/Musician/Music~Band/Eurythmics/Stewart,Dave.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Musician/Music~Band/Eurythmics/Stewart,Dave|Stewart,Dave]] 
 
-### #is_/same_as :: [Stewart,Dave.public](/_public/Society/Communication/Media/Music/Musician/Music~Band/Eurythmics/Stewart,Dave.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Musician/Music~Band/Eurythmics/Stewart,Dave.public|Stewart,Dave.public]] 
 
-### #is_/same_as :: [Stewart,Dave.internal](/_internal/Society/Communication/Media/Music/Musician/Music~Band/Eurythmics/Stewart,Dave.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Musician/Music~Band/Eurythmics/Stewart,Dave.internal|Stewart,Dave.internal]] 
 
-### #is_/same_as :: [Stewart,Dave.protect](/_protect/Society/Communication/Media/Music/Musician/Music~Band/Eurythmics/Stewart,Dave.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Musician/Music~Band/Eurythmics/Stewart,Dave.protect|Stewart,Dave.protect]] 
 
-### #is_/same_as :: [Stewart,Dave.private](/_private/Society/Communication/Media/Music/Musician/Music~Band/Eurythmics/Stewart,Dave.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Musician/Music~Band/Eurythmics/Stewart,Dave.private|Stewart,Dave.private]] 
 
-### #is_/same_as :: [Stewart,Dave.personal](/_personal/Society/Communication/Media/Music/Musician/Music~Band/Eurythmics/Stewart,Dave.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Musician/Music~Band/Eurythmics/Stewart,Dave.personal|Stewart,Dave.personal]] 
 
-### #is_/same_as :: [Stewart,Dave.secret](/_secret/Society/Communication/Media/Music/Musician/Music~Band/Eurythmics/Stewart,Dave.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Musician/Music~Band/Eurythmics/Stewart,Dave.secret|Stewart,Dave.secret]] 
 

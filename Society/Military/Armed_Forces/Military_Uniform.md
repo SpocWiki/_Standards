@@ -54,17 +54,17 @@ IMDb_keyword: military-uniform
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Military_Uniform](/_Standards/Society/Military/Armed_Forces/Military_Uniform.md) 
+### #is_/same_as :: [[/_Standards/Society/Military/Armed_Forces/Military_Uniform|Military_Uniform]] 
 
-### #is_/same_as :: [Military_Uniform.public](/_public/Society/Military/Armed_Forces/Military_Uniform.public.md) 
+### #is_/same_as :: [[/_public/Society/Military/Armed_Forces/Military_Uniform.public|Military_Uniform.public]] 
 
-### #is_/same_as :: [Military_Uniform.internal](/_internal/Society/Military/Armed_Forces/Military_Uniform.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Military/Armed_Forces/Military_Uniform.internal|Military_Uniform.internal]] 
 
-### #is_/same_as :: [Military_Uniform.protect](/_protect/Society/Military/Armed_Forces/Military_Uniform.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Military/Armed_Forces/Military_Uniform.protect|Military_Uniform.protect]] 
 
-### #is_/same_as :: [Military_Uniform.private](/_private/Society/Military/Armed_Forces/Military_Uniform.private.md) 
+### #is_/same_as :: [[/_private/Society/Military/Armed_Forces/Military_Uniform.private|Military_Uniform.private]] 
 
-### #is_/same_as :: [Military_Uniform.personal](/_personal/Society/Military/Armed_Forces/Military_Uniform.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Military/Armed_Forces/Military_Uniform.personal|Military_Uniform.personal]] 
 
-### #is_/same_as :: [Military_Uniform.secret](/_secret/Society/Military/Armed_Forces/Military_Uniform.secret.md)
+### #is_/same_as :: [[/_secret/Society/Military/Armed_Forces/Military_Uniform.secret|Military_Uniform.secret]] 
 

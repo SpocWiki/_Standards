@@ -101,17 +101,17 @@ IEV_number: 845-31-029
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lighthouse](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Architecture/High-rise_Building/Lighthouse.md) 
+### #is_/same_as :: [[/_Standards/Technology/Engineering/Civil_Engineering/Construction/Architecture/High-rise_Building/Lighthouse|Lighthouse]] 
 
-### #is_/same_as :: [Lighthouse.public](/_public/Technology/Engineering/Civil_Engineering/Construction/Architecture/High-rise_Building/Lighthouse.public.md) 
+### #is_/same_as :: [[/_public/Technology/Engineering/Civil_Engineering/Construction/Architecture/High-rise_Building/Lighthouse.public|Lighthouse.public]] 
 
-### #is_/same_as :: [Lighthouse.internal](/_internal/Technology/Engineering/Civil_Engineering/Construction/Architecture/High-rise_Building/Lighthouse.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Engineering/Civil_Engineering/Construction/Architecture/High-rise_Building/Lighthouse.internal|Lighthouse.internal]] 
 
-### #is_/same_as :: [Lighthouse.protect](/_protect/Technology/Engineering/Civil_Engineering/Construction/Architecture/High-rise_Building/Lighthouse.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Engineering/Civil_Engineering/Construction/Architecture/High-rise_Building/Lighthouse.protect|Lighthouse.protect]] 
 
-### #is_/same_as :: [Lighthouse.private](/_private/Technology/Engineering/Civil_Engineering/Construction/Architecture/High-rise_Building/Lighthouse.private.md) 
+### #is_/same_as :: [[/_private/Technology/Engineering/Civil_Engineering/Construction/Architecture/High-rise_Building/Lighthouse.private|Lighthouse.private]] 
 
-### #is_/same_as :: [Lighthouse.personal](/_personal/Technology/Engineering/Civil_Engineering/Construction/Architecture/High-rise_Building/Lighthouse.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Engineering/Civil_Engineering/Construction/Architecture/High-rise_Building/Lighthouse.personal|Lighthouse.personal]] 
 
-### #is_/same_as :: [Lighthouse.secret](/_secret/Technology/Engineering/Civil_Engineering/Construction/Architecture/High-rise_Building/Lighthouse.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Engineering/Civil_Engineering/Construction/Architecture/High-rise_Building/Lighthouse.secret|Lighthouse.secret]] 
 

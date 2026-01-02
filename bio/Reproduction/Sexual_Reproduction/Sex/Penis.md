@@ -59,17 +59,17 @@ Unicode_character: 𓂸
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Penis](/_Standards/bio/Reproduction/Sexual_Reproduction/Sex/Penis.md) 
+### #is_/same_as :: [[/_Standards/bio/Reproduction/Sexual_Reproduction/Sex/Penis|Penis]] 
 
-### #is_/same_as :: [Penis.public](/_public/bio/Reproduction/Sexual_Reproduction/Sex/Penis.public.md) 
+### #is_/same_as :: [[/_public/bio/Reproduction/Sexual_Reproduction/Sex/Penis.public|Penis.public]] 
 
-### #is_/same_as :: [Penis.internal](/_internal/bio/Reproduction/Sexual_Reproduction/Sex/Penis.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Reproduction/Sexual_Reproduction/Sex/Penis.internal|Penis.internal]] 
 
-### #is_/same_as :: [Penis.protect](/_protect/bio/Reproduction/Sexual_Reproduction/Sex/Penis.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Reproduction/Sexual_Reproduction/Sex/Penis.protect|Penis.protect]] 
 
-### #is_/same_as :: [Penis.private](/_private/bio/Reproduction/Sexual_Reproduction/Sex/Penis.private.md) 
+### #is_/same_as :: [[/_private/bio/Reproduction/Sexual_Reproduction/Sex/Penis.private|Penis.private]] 
 
-### #is_/same_as :: [Penis.personal](/_personal/bio/Reproduction/Sexual_Reproduction/Sex/Penis.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Reproduction/Sexual_Reproduction/Sex/Penis.personal|Penis.personal]] 
 
-### #is_/same_as :: [Penis.secret](/_secret/bio/Reproduction/Sexual_Reproduction/Sex/Penis.secret.md)
+### #is_/same_as :: [[/_secret/bio/Reproduction/Sexual_Reproduction/Sex/Penis.secret|Penis.secret]] 
 

@@ -48,17 +48,17 @@ Winner:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~LoseAction](/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~AchieveAction/FileClass~LoseAction.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~AchieveAction/FileClass~LoseAction|FileClass~LoseAction]] 
 
-### #is_/same_as :: [FileClass~LoseAction.public](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~AchieveAction/FileClass~LoseAction.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~AchieveAction/FileClass~LoseAction.public|FileClass~LoseAction.public]] 
 
-### #is_/same_as :: [FileClass~LoseAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~AchieveAction/FileClass~LoseAction.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~AchieveAction/FileClass~LoseAction.internal|FileClass~LoseAction.internal]] 
 
-### #is_/same_as :: [FileClass~LoseAction.protect](/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~AchieveAction/FileClass~LoseAction.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~AchieveAction/FileClass~LoseAction.protect|FileClass~LoseAction.protect]] 
 
-### #is_/same_as :: [FileClass~LoseAction.private](/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~AchieveAction/FileClass~LoseAction.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~AchieveAction/FileClass~LoseAction.private|FileClass~LoseAction.private]] 
 
-### #is_/same_as :: [FileClass~LoseAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~AchieveAction/FileClass~LoseAction.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~AchieveAction/FileClass~LoseAction.personal|FileClass~LoseAction.personal]] 
 
-### #is_/same_as :: [FileClass~LoseAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~AchieveAction/FileClass~LoseAction.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~AchieveAction/FileClass~LoseAction.secret|FileClass~LoseAction.secret]] 
 

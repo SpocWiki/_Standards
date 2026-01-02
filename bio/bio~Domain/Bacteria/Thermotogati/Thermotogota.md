@@ -15,17 +15,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Thermotogota](/_Standards/bio/bio~Domain/Bacteria/Thermotogati/Thermotogota.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Bacteria/Thermotogati/Thermotogota|Thermotogota]] 
 
-### #is_/same_as :: [Thermotogota.public](/_public/bio/bio~Domain/Bacteria/Thermotogati/Thermotogota.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Bacteria/Thermotogati/Thermotogota.public|Thermotogota.public]] 
 
-### #is_/same_as :: [Thermotogota.internal](/_internal/bio/bio~Domain/Bacteria/Thermotogati/Thermotogota.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Bacteria/Thermotogati/Thermotogota.internal|Thermotogota.internal]] 
 
-### #is_/same_as :: [Thermotogota.protect](/_protect/bio/bio~Domain/Bacteria/Thermotogati/Thermotogota.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Bacteria/Thermotogati/Thermotogota.protect|Thermotogota.protect]] 
 
-### #is_/same_as :: [Thermotogota.private](/_private/bio/bio~Domain/Bacteria/Thermotogati/Thermotogota.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Bacteria/Thermotogati/Thermotogota.private|Thermotogota.private]] 
 
-### #is_/same_as :: [Thermotogota.personal](/_personal/bio/bio~Domain/Bacteria/Thermotogati/Thermotogota.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Bacteria/Thermotogati/Thermotogota.personal|Thermotogota.personal]] 
 
-### #is_/same_as :: [Thermotogota.secret](/_secret/bio/bio~Domain/Bacteria/Thermotogati/Thermotogota.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Bacteria/Thermotogati/Thermotogota.secret|Thermotogota.secret]] 
 

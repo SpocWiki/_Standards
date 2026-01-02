@@ -43,17 +43,17 @@ A legal document such as an act, decree, bill, etc. (enforceable or not) or a co
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Legislation](/_Standards/Society/Communication/Media/Creative_Work/Legislation.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Creative_Work/Legislation|Legislation]] 
 
-### #is_/same_as :: [Legislation.public](/_public/Society/Communication/Media/Creative_Work/Legislation.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Creative_Work/Legislation.public|Legislation.public]] 
 
-### #is_/same_as :: [Legislation.internal](/_internal/Society/Communication/Media/Creative_Work/Legislation.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Creative_Work/Legislation.internal|Legislation.internal]] 
 
-### #is_/same_as :: [Legislation.protect](/_protect/Society/Communication/Media/Creative_Work/Legislation.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Creative_Work/Legislation.protect|Legislation.protect]] 
 
-### #is_/same_as :: [Legislation.private](/_private/Society/Communication/Media/Creative_Work/Legislation.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Creative_Work/Legislation.private|Legislation.private]] 
 
-### #is_/same_as :: [Legislation.personal](/_personal/Society/Communication/Media/Creative_Work/Legislation.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/Legislation.personal|Legislation.personal]] 
 
-### #is_/same_as :: [Legislation.secret](/_secret/Society/Communication/Media/Creative_Work/Legislation.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Legislation.secret|Legislation.secret]] 
 

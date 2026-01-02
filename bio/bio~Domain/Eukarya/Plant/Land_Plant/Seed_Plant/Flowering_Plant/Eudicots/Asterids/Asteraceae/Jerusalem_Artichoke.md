@@ -118,17 +118,17 @@ GRIN_URL: https://npgsweb.ars-grin.gov/gringlobal/taxonomydetail.aspx?id=27946
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Jerusalem_Artichoke](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Asterids/Asteraceae/Jerusalem_Artichoke.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Asterids/Asteraceae/Jerusalem_Artichoke|Jerusalem_Artichoke]] 
 
-### #is_/same_as :: [Jerusalem_Artichoke.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Asterids/Asteraceae/Jerusalem_Artichoke.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Asterids/Asteraceae/Jerusalem_Artichoke.public|Jerusalem_Artichoke.public]] 
 
-### #is_/same_as :: [Jerusalem_Artichoke.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Asterids/Asteraceae/Jerusalem_Artichoke.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Asterids/Asteraceae/Jerusalem_Artichoke.internal|Jerusalem_Artichoke.internal]] 
 
-### #is_/same_as :: [Jerusalem_Artichoke.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Asterids/Asteraceae/Jerusalem_Artichoke.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Asterids/Asteraceae/Jerusalem_Artichoke.protect|Jerusalem_Artichoke.protect]] 
 
-### #is_/same_as :: [Jerusalem_Artichoke.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Asterids/Asteraceae/Jerusalem_Artichoke.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Asterids/Asteraceae/Jerusalem_Artichoke.private|Jerusalem_Artichoke.private]] 
 
-### #is_/same_as :: [Jerusalem_Artichoke.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Asterids/Asteraceae/Jerusalem_Artichoke.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Asterids/Asteraceae/Jerusalem_Artichoke.personal|Jerusalem_Artichoke.personal]] 
 
-### #is_/same_as :: [Jerusalem_Artichoke.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Asterids/Asteraceae/Jerusalem_Artichoke.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Asterids/Asteraceae/Jerusalem_Artichoke.secret|Jerusalem_Artichoke.secret]] 
 

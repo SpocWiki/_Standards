@@ -182,17 +182,17 @@ writing_language: '[[_Standards/WikiData/WD~English,1860]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Edison,Thomas_Alva](/_Standards/Science/Inventor/Edison,Thomas_Alva.md) 
+### #is_/same_as :: [[/_Standards/Science/Inventor/Edison,Thomas_Alva|Edison,Thomas_Alva]] 
 
-### #is_/same_as :: [Edison,Thomas_Alva.public](/_public/Science/Inventor/Edison,Thomas_Alva.public.md) 
+### #is_/same_as :: [[/_public/Science/Inventor/Edison,Thomas_Alva.public|Edison,Thomas_Alva.public]] 
 
-### #is_/same_as :: [Edison,Thomas_Alva.internal](/_internal/Science/Inventor/Edison,Thomas_Alva.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Inventor/Edison,Thomas_Alva.internal|Edison,Thomas_Alva.internal]] 
 
-### #is_/same_as :: [Edison,Thomas_Alva.protect](/_protect/Science/Inventor/Edison,Thomas_Alva.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Inventor/Edison,Thomas_Alva.protect|Edison,Thomas_Alva.protect]] 
 
-### #is_/same_as :: [Edison,Thomas_Alva.private](/_private/Science/Inventor/Edison,Thomas_Alva.private.md) 
+### #is_/same_as :: [[/_private/Science/Inventor/Edison,Thomas_Alva.private|Edison,Thomas_Alva.private]] 
 
-### #is_/same_as :: [Edison,Thomas_Alva.personal](/_personal/Science/Inventor/Edison,Thomas_Alva.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Inventor/Edison,Thomas_Alva.personal|Edison,Thomas_Alva.personal]] 
 
-### #is_/same_as :: [Edison,Thomas_Alva.secret](/_secret/Science/Inventor/Edison,Thomas_Alva.secret.md)
+### #is_/same_as :: [[/_secret/Science/Inventor/Edison,Thomas_Alva.secret|Edison,Thomas_Alva.secret]] 
 

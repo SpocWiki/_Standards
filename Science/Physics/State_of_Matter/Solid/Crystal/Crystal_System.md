@@ -36,17 +36,17 @@ Wolfram_Language_entity_type: CrystalSystem
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Crystal_System](/_Standards/Science/Physics/State_of_Matter/Solid/Crystal/Crystal_System.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/State_of_Matter/Solid/Crystal/Crystal_System|Crystal_System]] 
 
-### #is_/same_as :: [Crystal_System.public](/_public/Science/Physics/State_of_Matter/Solid/Crystal/Crystal_System.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/State_of_Matter/Solid/Crystal/Crystal_System.public|Crystal_System.public]] 
 
-### #is_/same_as :: [Crystal_System.internal](/_internal/Science/Physics/State_of_Matter/Solid/Crystal/Crystal_System.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/State_of_Matter/Solid/Crystal/Crystal_System.internal|Crystal_System.internal]] 
 
-### #is_/same_as :: [Crystal_System.protect](/_protect/Science/Physics/State_of_Matter/Solid/Crystal/Crystal_System.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/State_of_Matter/Solid/Crystal/Crystal_System.protect|Crystal_System.protect]] 
 
-### #is_/same_as :: [Crystal_System.private](/_private/Science/Physics/State_of_Matter/Solid/Crystal/Crystal_System.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/State_of_Matter/Solid/Crystal/Crystal_System.private|Crystal_System.private]] 
 
-### #is_/same_as :: [Crystal_System.personal](/_personal/Science/Physics/State_of_Matter/Solid/Crystal/Crystal_System.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/State_of_Matter/Solid/Crystal/Crystal_System.personal|Crystal_System.personal]] 
 
-### #is_/same_as :: [Crystal_System.secret](/_secret/Science/Physics/State_of_Matter/Solid/Crystal/Crystal_System.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/State_of_Matter/Solid/Crystal/Crystal_System.secret|Crystal_System.secret]] 
 

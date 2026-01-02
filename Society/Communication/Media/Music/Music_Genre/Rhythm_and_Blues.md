@@ -49,17 +49,17 @@ native_label: Rhythm and blues
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Rhythm_and_Blues](/_Standards/Society/Communication/Media/Music/Music_Genre/Rhythm_and_Blues.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Music_Genre/Rhythm_and_Blues|Rhythm_and_Blues]] 
 
-### #is_/same_as :: [Rhythm_and_Blues.public](/_public/Society/Communication/Media/Music/Music_Genre/Rhythm_and_Blues.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Music_Genre/Rhythm_and_Blues.public|Rhythm_and_Blues.public]] 
 
-### #is_/same_as :: [Rhythm_and_Blues.internal](/_internal/Society/Communication/Media/Music/Music_Genre/Rhythm_and_Blues.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Music_Genre/Rhythm_and_Blues.internal|Rhythm_and_Blues.internal]] 
 
-### #is_/same_as :: [Rhythm_and_Blues.protect](/_protect/Society/Communication/Media/Music/Music_Genre/Rhythm_and_Blues.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Music_Genre/Rhythm_and_Blues.protect|Rhythm_and_Blues.protect]] 
 
-### #is_/same_as :: [Rhythm_and_Blues.private](/_private/Society/Communication/Media/Music/Music_Genre/Rhythm_and_Blues.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Music_Genre/Rhythm_and_Blues.private|Rhythm_and_Blues.private]] 
 
-### #is_/same_as :: [Rhythm_and_Blues.personal](/_personal/Society/Communication/Media/Music/Music_Genre/Rhythm_and_Blues.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Music_Genre/Rhythm_and_Blues.personal|Rhythm_and_Blues.personal]] 
 
-### #is_/same_as :: [Rhythm_and_Blues.secret](/_secret/Society/Communication/Media/Music/Music_Genre/Rhythm_and_Blues.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Music_Genre/Rhythm_and_Blues.secret|Rhythm_and_Blues.secret]] 
 

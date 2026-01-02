@@ -60,17 +60,17 @@ Dewey_Decimal_Classification:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Boomerang](/_Standards/Society/Military/Military_Engineering/Weapon/Boomerang.md) 
+### #is_/same_as :: [[/_Standards/Society/Military/Military_Engineering/Weapon/Boomerang|Boomerang]] 
 
-### #is_/same_as :: [Boomerang.public](/_public/Society/Military/Military_Engineering/Weapon/Boomerang.public.md) 
+### #is_/same_as :: [[/_public/Society/Military/Military_Engineering/Weapon/Boomerang.public|Boomerang.public]] 
 
-### #is_/same_as :: [Boomerang.internal](/_internal/Society/Military/Military_Engineering/Weapon/Boomerang.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Military/Military_Engineering/Weapon/Boomerang.internal|Boomerang.internal]] 
 
-### #is_/same_as :: [Boomerang.protect](/_protect/Society/Military/Military_Engineering/Weapon/Boomerang.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Military/Military_Engineering/Weapon/Boomerang.protect|Boomerang.protect]] 
 
-### #is_/same_as :: [Boomerang.private](/_private/Society/Military/Military_Engineering/Weapon/Boomerang.private.md) 
+### #is_/same_as :: [[/_private/Society/Military/Military_Engineering/Weapon/Boomerang.private|Boomerang.private]] 
 
-### #is_/same_as :: [Boomerang.personal](/_personal/Society/Military/Military_Engineering/Weapon/Boomerang.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Military/Military_Engineering/Weapon/Boomerang.personal|Boomerang.personal]] 
 
-### #is_/same_as :: [Boomerang.secret](/_secret/Society/Military/Military_Engineering/Weapon/Boomerang.secret.md)
+### #is_/same_as :: [[/_secret/Society/Military/Military_Engineering/Weapon/Boomerang.secret|Boomerang.secret]] 
 

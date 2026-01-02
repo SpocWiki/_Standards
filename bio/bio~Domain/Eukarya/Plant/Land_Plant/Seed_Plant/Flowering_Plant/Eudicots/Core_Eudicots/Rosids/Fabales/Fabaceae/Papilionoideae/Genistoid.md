@@ -133,17 +133,17 @@ synapomorphy for the Genistoid clade.
 ## Title Illustrations
 
 ---------------------------------- 
-![Lupinus texensis](Genistoid/Lupinus_texensis.jpg))
+![Lupinus texensis](Genistoid/Lupinus_texensis.jpg) 
 Scientific Name ::  Lupinus texensis Hook.
 Copyright ::         © [Bill Lindemann](http://www.depts.ttu.edu/hillcountry/research/images/LUPINUS%20TEXENSIS.JPG)
 
 --------------------------- 
-![Sophora tomentosa](Genistoid/Sophora_tomentosa.jpg))
+![Sophora tomentosa](Genistoid/Sophora_tomentosa.jpg) 
 Scientific Name ::  Sophora tomentosa L.
 Copyright ::         © [J. Paul Scurlock Collection](http://www.fairchildgarden.org/index.html)
 
 ------------------ 
-![Baptisia australis](Genistoid/Baptisia_australis.jpg))
+![Baptisia australis](Genistoid/Baptisia_australis.jpg) 
 Scientific Name ::     Baptisia australis R.Br.
 Specimen Condition   Live Specimen
 Copyright ::            © 2006 [Don Les](mailto:don.les@uconn.edu)
@@ -151,17 +151,17 @@ Copyright ::            © 2006 [Don Les](mailto:don.les@uconn.edu)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Genistoid](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Papilionoideae/Genistoid.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Papilionoideae/Genistoid|Genistoid]] 
 
-### #is_/same_as :: [Genistoid.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Papilionoideae/Genistoid.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Papilionoideae/Genistoid.public|Genistoid.public]] 
 
-### #is_/same_as :: [Genistoid.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Papilionoideae/Genistoid.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Papilionoideae/Genistoid.internal|Genistoid.internal]] 
 
-### #is_/same_as :: [Genistoid.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Papilionoideae/Genistoid.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Papilionoideae/Genistoid.protect|Genistoid.protect]] 
 
-### #is_/same_as :: [Genistoid.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Papilionoideae/Genistoid.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Papilionoideae/Genistoid.private|Genistoid.private]] 
 
-### #is_/same_as :: [Genistoid.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Papilionoideae/Genistoid.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Papilionoideae/Genistoid.personal|Genistoid.personal]] 
 
-### #is_/same_as :: [Genistoid.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Papilionoideae/Genistoid.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Papilionoideae/Genistoid.secret|Genistoid.secret]] 
 

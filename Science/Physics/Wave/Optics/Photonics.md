@@ -52,17 +52,17 @@ GitHub_topic: photonics
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Photonics](/_Standards/Science/Physics/Wave/Optics/Photonics.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Wave/Optics/Photonics|Photonics]] 
 
-### #is_/same_as :: [Photonics.public](/_public/Science/Physics/Wave/Optics/Photonics.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Wave/Optics/Photonics.public|Photonics.public]] 
 
-### #is_/same_as :: [Photonics.internal](/_internal/Science/Physics/Wave/Optics/Photonics.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Wave/Optics/Photonics.internal|Photonics.internal]] 
 
-### #is_/same_as :: [Photonics.protect](/_protect/Science/Physics/Wave/Optics/Photonics.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Wave/Optics/Photonics.protect|Photonics.protect]] 
 
-### #is_/same_as :: [Photonics.private](/_private/Science/Physics/Wave/Optics/Photonics.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Wave/Optics/Photonics.private|Photonics.private]] 
 
-### #is_/same_as :: [Photonics.personal](/_personal/Science/Physics/Wave/Optics/Photonics.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Wave/Optics/Photonics.personal|Photonics.personal]] 
 
-### #is_/same_as :: [Photonics.secret](/_secret/Science/Physics/Wave/Optics/Photonics.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Wave/Optics/Photonics.secret|Photonics.secret]] 
 

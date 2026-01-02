@@ -81,17 +81,17 @@ video: http://commons.wikimedia.org/wiki/Special:FilePath/Fr%C3%A5n%20mj%C3%B6lk
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Cheese](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Dairy/Cheese.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Home_Economics/Cooking/Food/Dairy/Cheese|Cheese]] 
 
-### #is_/same_as :: [Cheese.public](/_public/Society/Economics/Home_Economics/Cooking/Food/Dairy/Cheese.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Home_Economics/Cooking/Food/Dairy/Cheese.public|Cheese.public]] 
 
-### #is_/same_as :: [Cheese.internal](/_internal/Society/Economics/Home_Economics/Cooking/Food/Dairy/Cheese.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Home_Economics/Cooking/Food/Dairy/Cheese.internal|Cheese.internal]] 
 
-### #is_/same_as :: [Cheese.protect](/_protect/Society/Economics/Home_Economics/Cooking/Food/Dairy/Cheese.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Home_Economics/Cooking/Food/Dairy/Cheese.protect|Cheese.protect]] 
 
-### #is_/same_as :: [Cheese.private](/_private/Society/Economics/Home_Economics/Cooking/Food/Dairy/Cheese.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Home_Economics/Cooking/Food/Dairy/Cheese.private|Cheese.private]] 
 
-### #is_/same_as :: [Cheese.personal](/_personal/Society/Economics/Home_Economics/Cooking/Food/Dairy/Cheese.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Home_Economics/Cooking/Food/Dairy/Cheese.personal|Cheese.personal]] 
 
-### #is_/same_as :: [Cheese.secret](/_secret/Society/Economics/Home_Economics/Cooking/Food/Dairy/Cheese.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Home_Economics/Cooking/Food/Dairy/Cheese.secret|Cheese.secret]] 
 

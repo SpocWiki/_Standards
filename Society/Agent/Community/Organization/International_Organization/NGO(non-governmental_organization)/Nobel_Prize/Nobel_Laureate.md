@@ -26,17 +26,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Nobel_Laureate](/_Standards/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Nobel_Prize/Nobel_Laureate.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Nobel_Prize/Nobel_Laureate|Nobel_Laureate]] 
 
-### #is_/same_as :: [Nobel_Laureate.public](/_public/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Nobel_Prize/Nobel_Laureate.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Nobel_Prize/Nobel_Laureate.public|Nobel_Laureate.public]] 
 
-### #is_/same_as :: [Nobel_Laureate.internal](/_internal/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Nobel_Prize/Nobel_Laureate.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Nobel_Prize/Nobel_Laureate.internal|Nobel_Laureate.internal]] 
 
-### #is_/same_as :: [Nobel_Laureate.protect](/_protect/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Nobel_Prize/Nobel_Laureate.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Nobel_Prize/Nobel_Laureate.protect|Nobel_Laureate.protect]] 
 
-### #is_/same_as :: [Nobel_Laureate.private](/_private/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Nobel_Prize/Nobel_Laureate.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Nobel_Prize/Nobel_Laureate.private|Nobel_Laureate.private]] 
 
-### #is_/same_as :: [Nobel_Laureate.personal](/_personal/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Nobel_Prize/Nobel_Laureate.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Nobel_Prize/Nobel_Laureate.personal|Nobel_Laureate.personal]] 
 
-### #is_/same_as :: [Nobel_Laureate.secret](/_secret/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Nobel_Prize/Nobel_Laureate.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Nobel_Prize/Nobel_Laureate.secret|Nobel_Laureate.secret]] 
 

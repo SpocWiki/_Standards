@@ -37,17 +37,17 @@ The act of inserting at the beginning if an ordered collection.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~PrependAction](/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~UpdateAction/FileClass~AddAction/FileClass~InsertAction/FileClass~PrependAction.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~UpdateAction/FileClass~AddAction/FileClass~InsertAction/FileClass~PrependAction|FileClass~PrependAction]] 
 
-### #is_/same_as :: [FileClass~PrependAction.public](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~UpdateAction/FileClass~AddAction/FileClass~InsertAction/FileClass~PrependAction.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~UpdateAction/FileClass~AddAction/FileClass~InsertAction/FileClass~PrependAction.public|FileClass~PrependAction.public]] 
 
-### #is_/same_as :: [FileClass~PrependAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~UpdateAction/FileClass~AddAction/FileClass~InsertAction/FileClass~PrependAction.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~UpdateAction/FileClass~AddAction/FileClass~InsertAction/FileClass~PrependAction.internal|FileClass~PrependAction.internal]] 
 
-### #is_/same_as :: [FileClass~PrependAction.protect](/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~UpdateAction/FileClass~AddAction/FileClass~InsertAction/FileClass~PrependAction.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~UpdateAction/FileClass~AddAction/FileClass~InsertAction/FileClass~PrependAction.protect|FileClass~PrependAction.protect]] 
 
-### #is_/same_as :: [FileClass~PrependAction.private](/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~UpdateAction/FileClass~AddAction/FileClass~InsertAction/FileClass~PrependAction.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~UpdateAction/FileClass~AddAction/FileClass~InsertAction/FileClass~PrependAction.private|FileClass~PrependAction.private]] 
 
-### #is_/same_as :: [FileClass~PrependAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~UpdateAction/FileClass~AddAction/FileClass~InsertAction/FileClass~PrependAction.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~UpdateAction/FileClass~AddAction/FileClass~InsertAction/FileClass~PrependAction.personal|FileClass~PrependAction.personal]] 
 
-### #is_/same_as :: [FileClass~PrependAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~UpdateAction/FileClass~AddAction/FileClass~InsertAction/FileClass~PrependAction.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~UpdateAction/FileClass~AddAction/FileClass~InsertAction/FileClass~PrependAction.secret|FileClass~PrependAction.secret]] 
 

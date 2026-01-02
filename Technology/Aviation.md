@@ -80,17 +80,17 @@ topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Aviation,8206366
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Aviation](/_Standards/Technology/Aviation.md) 
+### #is_/same_as :: [[/_Standards/Technology/Aviation|Aviation]] 
 
-### #is_/same_as :: [Aviation.public](/_public/Technology/Aviation.public.md) 
+### #is_/same_as :: [[/_public/Technology/Aviation.public|Aviation.public]] 
 
-### #is_/same_as :: [Aviation.internal](/_internal/Technology/Aviation.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Aviation.internal|Aviation.internal]] 
 
-### #is_/same_as :: [Aviation.protect](/_protect/Technology/Aviation.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Aviation.protect|Aviation.protect]] 
 
-### #is_/same_as :: [Aviation.private](/_private/Technology/Aviation.private.md) 
+### #is_/same_as :: [[/_private/Technology/Aviation.private|Aviation.private]] 
 
-### #is_/same_as :: [Aviation.personal](/_personal/Technology/Aviation.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Aviation.personal|Aviation.personal]] 
 
-### #is_/same_as :: [Aviation.secret](/_secret/Technology/Aviation.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Aviation.secret|Aviation.secret]] 
 

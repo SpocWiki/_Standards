@@ -42,17 +42,17 @@ The invitee will attend.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Rsvp_Response_Yes](/_Standards/schema-org/Enumeration/Rsvp_Response_Type/Rsvp_Response_Yes.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Rsvp_Response_Type/Rsvp_Response_Yes|Rsvp_Response_Yes]] 
 
-### #is_/same_as :: [Rsvp_Response_Yes.public](/_public/schema-org/Enumeration/Rsvp_Response_Type/Rsvp_Response_Yes.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Rsvp_Response_Type/Rsvp_Response_Yes.public|Rsvp_Response_Yes.public]] 
 
-### #is_/same_as :: [Rsvp_Response_Yes.internal](/_internal/schema-org/Enumeration/Rsvp_Response_Type/Rsvp_Response_Yes.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Rsvp_Response_Type/Rsvp_Response_Yes.internal|Rsvp_Response_Yes.internal]] 
 
-### #is_/same_as :: [Rsvp_Response_Yes.protect](/_protect/schema-org/Enumeration/Rsvp_Response_Type/Rsvp_Response_Yes.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Rsvp_Response_Type/Rsvp_Response_Yes.protect|Rsvp_Response_Yes.protect]] 
 
-### #is_/same_as :: [Rsvp_Response_Yes.private](/_private/schema-org/Enumeration/Rsvp_Response_Type/Rsvp_Response_Yes.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Rsvp_Response_Type/Rsvp_Response_Yes.private|Rsvp_Response_Yes.private]] 
 
-### #is_/same_as :: [Rsvp_Response_Yes.personal](/_personal/schema-org/Enumeration/Rsvp_Response_Type/Rsvp_Response_Yes.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Rsvp_Response_Type/Rsvp_Response_Yes.personal|Rsvp_Response_Yes.personal]] 
 
-### #is_/same_as :: [Rsvp_Response_Yes.secret](/_secret/schema-org/Enumeration/Rsvp_Response_Type/Rsvp_Response_Yes.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Rsvp_Response_Type/Rsvp_Response_Yes.secret|Rsvp_Response_Yes.secret]] 
 

@@ -129,21 +129,21 @@ a close phylogenetic relationship between these three genera.
 ## Title Illustrations
 
 ----------------------- 
-![Cladrastis kentukea](Cladrastis/Cladrastis_kentukea.jpg))
+![Cladrastis kentukea](Cladrastis/Cladrastis_kentukea.jpg) 
 Scientific Name ::     Cladrastis kentukea (Dum.-Cours.) Rudd
 Location ::           Ithaca, NY, Cornell University Plantations
 Specimen Condition   Live Specimen
 Copyright ::            © 2006 [Kevin C. Nixon](http://www.plantsystematics.org/)
 
 ------------------------ 
-![Styphnolobium japonicum](Cladrastis/Styphnolobium_japonicum.jpg))
+![Styphnolobium japonicum](Cladrastis/Styphnolobium_japonicum.jpg) 
 Scientific Name ::     Styphnolobium japonicum (L.) Schott
 Comments             Commonly called Japanese Pagodatree or Scholar-tree.
 Specimen Condition   Live Specimen
 Copyright ::            © [Mark Brand](http://www.hort.uconn.edu/plants/index.html)
 
 ------------------------ 
-![Pickeringia montana](Cladrastis/Pickeringia_montana.jpg))
+![Pickeringia montana](Cladrastis/Pickeringia_montana.jpg) 
 Scientific Name ::     Pickeringia montana var. tomentosa
 Comments             Commonly called Chaparral Pea.
 Specimen Condition   Live Specimen
@@ -153,17 +153,17 @@ Copyright ::            © 1996 [Christopher L. Christie](mailto:refugee2000@qwe
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Cladrastis](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Papilionoideae/Cladrastis.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Papilionoideae/Cladrastis|Cladrastis]] 
 
-### #is_/same_as :: [Cladrastis.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Papilionoideae/Cladrastis.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Papilionoideae/Cladrastis.public|Cladrastis.public]] 
 
-### #is_/same_as :: [Cladrastis.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Papilionoideae/Cladrastis.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Papilionoideae/Cladrastis.internal|Cladrastis.internal]] 
 
-### #is_/same_as :: [Cladrastis.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Papilionoideae/Cladrastis.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Papilionoideae/Cladrastis.protect|Cladrastis.protect]] 
 
-### #is_/same_as :: [Cladrastis.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Papilionoideae/Cladrastis.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Papilionoideae/Cladrastis.private|Cladrastis.private]] 
 
-### #is_/same_as :: [Cladrastis.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Papilionoideae/Cladrastis.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Papilionoideae/Cladrastis.personal|Cladrastis.personal]] 
 
-### #is_/same_as :: [Cladrastis.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Papilionoideae/Cladrastis.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Papilionoideae/Cladrastis.secret|Cladrastis.secret]] 
 

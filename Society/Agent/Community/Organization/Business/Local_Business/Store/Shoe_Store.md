@@ -41,17 +41,17 @@ A shoe store.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Shoe_Store](/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Store/Shoe_Store.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Store/Shoe_Store|Shoe_Store]] 
 
-### #is_/same_as :: [Shoe_Store.public](/_public/Society/Agent/Community/Organization/Business/Local_Business/Store/Shoe_Store.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Business/Local_Business/Store/Shoe_Store.public|Shoe_Store.public]] 
 
-### #is_/same_as :: [Shoe_Store.internal](/_internal/Society/Agent/Community/Organization/Business/Local_Business/Store/Shoe_Store.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Business/Local_Business/Store/Shoe_Store.internal|Shoe_Store.internal]] 
 
-### #is_/same_as :: [Shoe_Store.protect](/_protect/Society/Agent/Community/Organization/Business/Local_Business/Store/Shoe_Store.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Business/Local_Business/Store/Shoe_Store.protect|Shoe_Store.protect]] 
 
-### #is_/same_as :: [Shoe_Store.private](/_private/Society/Agent/Community/Organization/Business/Local_Business/Store/Shoe_Store.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Business/Local_Business/Store/Shoe_Store.private|Shoe_Store.private]] 
 
-### #is_/same_as :: [Shoe_Store.personal](/_personal/Society/Agent/Community/Organization/Business/Local_Business/Store/Shoe_Store.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Business/Local_Business/Store/Shoe_Store.personal|Shoe_Store.personal]] 
 
-### #is_/same_as :: [Shoe_Store.secret](/_secret/Society/Agent/Community/Organization/Business/Local_Business/Store/Shoe_Store.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Business/Local_Business/Store/Shoe_Store.secret|Shoe_Store.secret]] 
 

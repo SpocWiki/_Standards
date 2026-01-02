@@ -43,17 +43,17 @@ Commons_category: Greek fire
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Greek_Fire](/_Standards/Society/Military/Military_Engineering/Weapon/Chemical_Weapon/Incendiary_Weapon/Greek_Fire.md) 
+### #is_/same_as :: [[/_Standards/Society/Military/Military_Engineering/Weapon/Chemical_Weapon/Incendiary_Weapon/Greek_Fire|Greek_Fire]] 
 
-### #is_/same_as :: [Greek_Fire.public](/_public/Society/Military/Military_Engineering/Weapon/Chemical_Weapon/Incendiary_Weapon/Greek_Fire.public.md) 
+### #is_/same_as :: [[/_public/Society/Military/Military_Engineering/Weapon/Chemical_Weapon/Incendiary_Weapon/Greek_Fire.public|Greek_Fire.public]] 
 
-### #is_/same_as :: [Greek_Fire.internal](/_internal/Society/Military/Military_Engineering/Weapon/Chemical_Weapon/Incendiary_Weapon/Greek_Fire.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Military/Military_Engineering/Weapon/Chemical_Weapon/Incendiary_Weapon/Greek_Fire.internal|Greek_Fire.internal]] 
 
-### #is_/same_as :: [Greek_Fire.protect](/_protect/Society/Military/Military_Engineering/Weapon/Chemical_Weapon/Incendiary_Weapon/Greek_Fire.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Military/Military_Engineering/Weapon/Chemical_Weapon/Incendiary_Weapon/Greek_Fire.protect|Greek_Fire.protect]] 
 
-### #is_/same_as :: [Greek_Fire.private](/_private/Society/Military/Military_Engineering/Weapon/Chemical_Weapon/Incendiary_Weapon/Greek_Fire.private.md) 
+### #is_/same_as :: [[/_private/Society/Military/Military_Engineering/Weapon/Chemical_Weapon/Incendiary_Weapon/Greek_Fire.private|Greek_Fire.private]] 
 
-### #is_/same_as :: [Greek_Fire.personal](/_personal/Society/Military/Military_Engineering/Weapon/Chemical_Weapon/Incendiary_Weapon/Greek_Fire.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Military/Military_Engineering/Weapon/Chemical_Weapon/Incendiary_Weapon/Greek_Fire.personal|Greek_Fire.personal]] 
 
-### #is_/same_as :: [Greek_Fire.secret](/_secret/Society/Military/Military_Engineering/Weapon/Chemical_Weapon/Incendiary_Weapon/Greek_Fire.secret.md)
+### #is_/same_as :: [[/_secret/Society/Military/Military_Engineering/Weapon/Chemical_Weapon/Incendiary_Weapon/Greek_Fire.secret|Greek_Fire.secret]] 
 

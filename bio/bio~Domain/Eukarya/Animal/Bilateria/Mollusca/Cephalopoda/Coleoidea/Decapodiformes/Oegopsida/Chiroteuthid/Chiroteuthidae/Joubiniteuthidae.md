@@ -9,7 +9,7 @@ title: Joubiniteuthis portieri
 # Joubiniteuthis portieri 
 [Joubin, 1916] 
 
-![ ](Joubiniteuthidae/Joubiniteuthis028.jpg)![ ](Joubiniteuthidae/JoubiniteuthisDraw1.gif))
+![ ](Joubiniteuthidae/Joubiniteuthis028.jpg)![ ](Joubiniteuthidae/JoubiniteuthisDraw1.gif) 
 
 This family contains only a single species.
 
@@ -73,7 +73,7 @@ all pertinent references.
 An advanced paralarval stage has been described (Young, 1991). The
 paralarva (6.9 mm ML without the tail) is very distinctive with large,
 thick tentacles, small fins and long tail.
-![ ](Joubiniteuthidae/JoubiniParal.gif))
+![ ](Joubiniteuthidae/JoubiniParal.gif) 
 
 **Figure**. Ventral (top) and dorsal views of a paralarva of ***J.
 portieri***, 6.9 mm ML, Hawaiian waters. Scale bar is 1 mm. Drawings
@@ -165,7 +165,7 @@ tropical and subtropical latitudes throughout the world\'s oceans.
 ## Title Illustrations
 
 -------------------------- 
-![](Joubiniteuthidae/Joubiniteuthis028.jpg))
+![](Joubiniteuthidae/Joubiniteuthis028.jpg) 
 Scientific Name ::     Joubiniteuthis portieri
 Location ::           Off Northwestern Hawaiian Islands, 1100 m depth.
 Comments             Photograph from Hawaii Undersea Research Laboratory Video-archive
@@ -176,7 +176,7 @@ Size                 30-40 cm total length
 Copyright ::            © Frank Parrish
 
 -------------------------- 
-![](Joubiniteuthidae/JoubiniteuthisDraw1.gif))
+![](Joubiniteuthidae/JoubiniteuthisDraw1.gif) 
 Scientific Name ::     Joubiniteuthis portieri
 Reference            Young, R. E. and C. F. E. Roper. 1969. A monograph of the Cephalopoda of the North Atlantic: The family Joubiniteuthidae. Smithson. Contr. Zool. No. 15: 1-10.
 Specimen Condition   Dead Specimen
@@ -186,17 +186,17 @@ Copyright ::            © 1969 [Richard E. Young](http://www.soest.hawaii.edu/%
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Joubiniteuthidae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Chiroteuthidae/Joubiniteuthidae.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Chiroteuthidae/Joubiniteuthidae|Joubiniteuthidae]] 
 
-### #is_/same_as :: [Joubiniteuthidae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Chiroteuthidae/Joubiniteuthidae.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Chiroteuthidae/Joubiniteuthidae.public|Joubiniteuthidae.public]] 
 
-### #is_/same_as :: [Joubiniteuthidae.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Chiroteuthidae/Joubiniteuthidae.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Chiroteuthidae/Joubiniteuthidae.internal|Joubiniteuthidae.internal]] 
 
-### #is_/same_as :: [Joubiniteuthidae.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Chiroteuthidae/Joubiniteuthidae.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Chiroteuthidae/Joubiniteuthidae.protect|Joubiniteuthidae.protect]] 
 
-### #is_/same_as :: [Joubiniteuthidae.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Chiroteuthidae/Joubiniteuthidae.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Chiroteuthidae/Joubiniteuthidae.private|Joubiniteuthidae.private]] 
 
-### #is_/same_as :: [Joubiniteuthidae.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Chiroteuthidae/Joubiniteuthidae.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Chiroteuthidae/Joubiniteuthidae.personal|Joubiniteuthidae.personal]] 
 
-### #is_/same_as :: [Joubiniteuthidae.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Chiroteuthidae/Joubiniteuthidae.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Chiroteuthidae/Joubiniteuthidae.secret|Joubiniteuthidae.secret]] 
 

@@ -40,17 +40,17 @@ Book format: Hardcover.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hardcover](/_Standards/schema-org/Enumeration/Book_Format_Type/Hardcover.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Book_Format_Type/Hardcover|Hardcover]] 
 
-### #is_/same_as :: [Hardcover.public](/_public/schema-org/Enumeration/Book_Format_Type/Hardcover.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Book_Format_Type/Hardcover.public|Hardcover.public]] 
 
-### #is_/same_as :: [Hardcover.internal](/_internal/schema-org/Enumeration/Book_Format_Type/Hardcover.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Book_Format_Type/Hardcover.internal|Hardcover.internal]] 
 
-### #is_/same_as :: [Hardcover.protect](/_protect/schema-org/Enumeration/Book_Format_Type/Hardcover.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Book_Format_Type/Hardcover.protect|Hardcover.protect]] 
 
-### #is_/same_as :: [Hardcover.private](/_private/schema-org/Enumeration/Book_Format_Type/Hardcover.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Book_Format_Type/Hardcover.private|Hardcover.private]] 
 
-### #is_/same_as :: [Hardcover.personal](/_personal/schema-org/Enumeration/Book_Format_Type/Hardcover.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Book_Format_Type/Hardcover.personal|Hardcover.personal]] 
 
-### #is_/same_as :: [Hardcover.secret](/_secret/schema-org/Enumeration/Book_Format_Type/Hardcover.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Book_Format_Type/Hardcover.secret|Hardcover.secret]] 
 

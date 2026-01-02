@@ -6,7 +6,7 @@ title: Cephalocarida
 ---
 
 # [[Cephalocarida]] 
-![](Cephalocarida/HutchinsoniellaBIODIDAC.gif))
+![](Cephalocarida/HutchinsoniellaBIODIDAC.gif) 
 
 
 ## #has_/text_of_/abstract 
@@ -59,7 +59,7 @@ title: Cephalocarida
 ## Title Illustrations
 
 -------------------------------------------------------------------------- 
-![External features of a primitive crustacean. Important features are the carapace and the number of legs. ](Cephalocarida/HutchinsoniellaBIODIDAC.gif))
+![External features of a primitive crustacean. Important features are the carapace and the number of legs. ](Cephalocarida/HutchinsoniellaBIODIDAC.gif) 
 Scientific Name ::  Hutchinsoniella
 Comments          External features of a primitive crustacean. Important features are the carapace and the number of legs.
 Creator           J. Soucie
@@ -68,17 +68,17 @@ Copyright ::         © [BIODIDAC](http://biodidac.bio.uottawa.ca/index.htm)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Cephalocarida](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Cephalocarida.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Cephalocarida|Cephalocarida]] 
 
-### #is_/same_as :: [Cephalocarida.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Cephalocarida.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Cephalocarida.public|Cephalocarida.public]] 
 
-### #is_/same_as :: [Cephalocarida.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Cephalocarida.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Cephalocarida.internal|Cephalocarida.internal]] 
 
-### #is_/same_as :: [Cephalocarida.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Cephalocarida.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Cephalocarida.protect|Cephalocarida.protect]] 
 
-### #is_/same_as :: [Cephalocarida.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Cephalocarida.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Cephalocarida.private|Cephalocarida.private]] 
 
-### #is_/same_as :: [Cephalocarida.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Cephalocarida.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Cephalocarida.personal|Cephalocarida.personal]] 
 
-### #is_/same_as :: [Cephalocarida.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Cephalocarida.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Cephalocarida.secret|Cephalocarida.secret]] 
 

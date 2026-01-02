@@ -60,17 +60,17 @@ Commons_category: Permian–Triassic extinction event
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Permian-Triassic_Extinction_Event](/_Standards/bio/Evolution/Extinction/Extinction_Event/Permian-Triassic_Extinction_Event.md) 
+### #is_/same_as :: [[/_Standards/bio/Evolution/Extinction/Extinction_Event/Permian-Triassic_Extinction_Event|Permian-Triassic_Extinction_Event]] 
 
-### #is_/same_as :: [Permian-Triassic_Extinction_Event.public](/_public/bio/Evolution/Extinction/Extinction_Event/Permian-Triassic_Extinction_Event.public.md) 
+### #is_/same_as :: [[/_public/bio/Evolution/Extinction/Extinction_Event/Permian-Triassic_Extinction_Event.public|Permian-Triassic_Extinction_Event.public]] 
 
-### #is_/same_as :: [Permian-Triassic_Extinction_Event.internal](/_internal/bio/Evolution/Extinction/Extinction_Event/Permian-Triassic_Extinction_Event.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Evolution/Extinction/Extinction_Event/Permian-Triassic_Extinction_Event.internal|Permian-Triassic_Extinction_Event.internal]] 
 
-### #is_/same_as :: [Permian-Triassic_Extinction_Event.protect](/_protect/bio/Evolution/Extinction/Extinction_Event/Permian-Triassic_Extinction_Event.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Evolution/Extinction/Extinction_Event/Permian-Triassic_Extinction_Event.protect|Permian-Triassic_Extinction_Event.protect]] 
 
-### #is_/same_as :: [Permian-Triassic_Extinction_Event.private](/_private/bio/Evolution/Extinction/Extinction_Event/Permian-Triassic_Extinction_Event.private.md) 
+### #is_/same_as :: [[/_private/bio/Evolution/Extinction/Extinction_Event/Permian-Triassic_Extinction_Event.private|Permian-Triassic_Extinction_Event.private]] 
 
-### #is_/same_as :: [Permian-Triassic_Extinction_Event.personal](/_personal/bio/Evolution/Extinction/Extinction_Event/Permian-Triassic_Extinction_Event.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Evolution/Extinction/Extinction_Event/Permian-Triassic_Extinction_Event.personal|Permian-Triassic_Extinction_Event.personal]] 
 
-### #is_/same_as :: [Permian-Triassic_Extinction_Event.secret](/_secret/bio/Evolution/Extinction/Extinction_Event/Permian-Triassic_Extinction_Event.secret.md)
+### #is_/same_as :: [[/_secret/bio/Evolution/Extinction/Extinction_Event/Permian-Triassic_Extinction_Event.secret|Permian-Triassic_Extinction_Event.secret]] 
 

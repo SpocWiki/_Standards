@@ -79,17 +79,17 @@ Iconclass_notation: 95A(AGAMEMNON)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Agamemnon](/_Standards/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Agamemnon.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Agamemnon|Agamemnon]] 
 
-### #is_/same_as :: [Agamemnon.public](/_public/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Agamemnon.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Agamemnon.public|Agamemnon.public]] 
 
-### #is_/same_as :: [Agamemnon.internal](/_internal/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Agamemnon.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Agamemnon.internal|Agamemnon.internal]] 
 
-### #is_/same_as :: [Agamemnon.protect](/_protect/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Agamemnon.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Agamemnon.protect|Agamemnon.protect]] 
 
-### #is_/same_as :: [Agamemnon.private](/_private/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Agamemnon.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Agamemnon.private|Agamemnon.private]] 
 
-### #is_/same_as :: [Agamemnon.personal](/_personal/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Agamemnon.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Agamemnon.personal|Agamemnon.personal]] 
 
-### #is_/same_as :: [Agamemnon.secret](/_secret/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Agamemnon.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Agamemnon.secret|Agamemnon.secret]] 
 

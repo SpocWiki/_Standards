@@ -39,17 +39,17 @@ A description of an educational course which may be offered as distinct instance
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Course](/_Standards/Society/Communication/Media/Creative_Work/Course.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Creative_Work/Course|Course]] 
 
-### #is_/same_as :: [Course.public](/_public/Society/Communication/Media/Creative_Work/Course.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Creative_Work/Course.public|Course.public]] 
 
-### #is_/same_as :: [Course.internal](/_internal/Society/Communication/Media/Creative_Work/Course.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Creative_Work/Course.internal|Course.internal]] 
 
-### #is_/same_as :: [Course.protect](/_protect/Society/Communication/Media/Creative_Work/Course.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Creative_Work/Course.protect|Course.protect]] 
 
-### #is_/same_as :: [Course.private](/_private/Society/Communication/Media/Creative_Work/Course.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Creative_Work/Course.private|Course.private]] 
 
-### #is_/same_as :: [Course.personal](/_personal/Society/Communication/Media/Creative_Work/Course.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/Course.personal|Course.personal]] 
 
-### #is_/same_as :: [Course.secret](/_secret/Society/Communication/Media/Creative_Work/Course.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Course.secret|Course.secret]] 
 

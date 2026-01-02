@@ -85,17 +85,17 @@ Wikidata_property: member of political party
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Political_Party](/_Standards/Society/Politics/Government/Democracy/Political_Party.md) 
+### #is_/same_as :: [[/_Standards/Society/Politics/Government/Democracy/Political_Party|Political_Party]] 
 
-### #is_/same_as :: [Political_Party.public](/_public/Society/Politics/Government/Democracy/Political_Party.public.md) 
+### #is_/same_as :: [[/_public/Society/Politics/Government/Democracy/Political_Party.public|Political_Party.public]] 
 
-### #is_/same_as :: [Political_Party.internal](/_internal/Society/Politics/Government/Democracy/Political_Party.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Politics/Government/Democracy/Political_Party.internal|Political_Party.internal]] 
 
-### #is_/same_as :: [Political_Party.protect](/_protect/Society/Politics/Government/Democracy/Political_Party.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Politics/Government/Democracy/Political_Party.protect|Political_Party.protect]] 
 
-### #is_/same_as :: [Political_Party.private](/_private/Society/Politics/Government/Democracy/Political_Party.private.md) 
+### #is_/same_as :: [[/_private/Society/Politics/Government/Democracy/Political_Party.private|Political_Party.private]] 
 
-### #is_/same_as :: [Political_Party.personal](/_personal/Society/Politics/Government/Democracy/Political_Party.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Politics/Government/Democracy/Political_Party.personal|Political_Party.personal]] 
 
-### #is_/same_as :: [Political_Party.secret](/_secret/Society/Politics/Government/Democracy/Political_Party.secret.md)
+### #is_/same_as :: [[/_secret/Society/Politics/Government/Democracy/Political_Party.secret|Political_Party.secret]] 
 

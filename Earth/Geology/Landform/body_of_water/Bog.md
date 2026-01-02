@@ -48,17 +48,17 @@ GeoNames_feature_code: H.BOG
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bog](/_Standards/Earth/Geology/Landform/body_of_water/Bog.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geology/Landform/body_of_water/Bog|Bog]] 
 
-### #is_/same_as :: [Bog.public](/_public/Earth/Geology/Landform/body_of_water/Bog.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geology/Landform/body_of_water/Bog.public|Bog.public]] 
 
-### #is_/same_as :: [Bog.internal](/_internal/Earth/Geology/Landform/body_of_water/Bog.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geology/Landform/body_of_water/Bog.internal|Bog.internal]] 
 
-### #is_/same_as :: [Bog.protect](/_protect/Earth/Geology/Landform/body_of_water/Bog.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geology/Landform/body_of_water/Bog.protect|Bog.protect]] 
 
-### #is_/same_as :: [Bog.private](/_private/Earth/Geology/Landform/body_of_water/Bog.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geology/Landform/body_of_water/Bog.private|Bog.private]] 
 
-### #is_/same_as :: [Bog.personal](/_personal/Earth/Geology/Landform/body_of_water/Bog.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geology/Landform/body_of_water/Bog.personal|Bog.personal]] 
 
-### #is_/same_as :: [Bog.secret](/_secret/Earth/Geology/Landform/body_of_water/Bog.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geology/Landform/body_of_water/Bog.secret|Bog.secret]] 
 

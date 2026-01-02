@@ -59,17 +59,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [GamerGate](/_Standards/Society/Ideology/Political_Ideology/Fascism/GamerGate.md) 
+### #is_/same_as :: [[/_Standards/Society/Ideology/Political_Ideology/Fascism/GamerGate|GamerGate]] 
 
-### #is_/same_as :: [GamerGate.public](/_public/Society/Ideology/Political_Ideology/Fascism/GamerGate.public.md) 
+### #is_/same_as :: [[/_public/Society/Ideology/Political_Ideology/Fascism/GamerGate.public|GamerGate.public]] 
 
-### #is_/same_as :: [GamerGate.internal](/_internal/Society/Ideology/Political_Ideology/Fascism/GamerGate.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Ideology/Political_Ideology/Fascism/GamerGate.internal|GamerGate.internal]] 
 
-### #is_/same_as :: [GamerGate.protect](/_protect/Society/Ideology/Political_Ideology/Fascism/GamerGate.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Ideology/Political_Ideology/Fascism/GamerGate.protect|GamerGate.protect]] 
 
-### #is_/same_as :: [GamerGate.private](/_private/Society/Ideology/Political_Ideology/Fascism/GamerGate.private.md) 
+### #is_/same_as :: [[/_private/Society/Ideology/Political_Ideology/Fascism/GamerGate.private|GamerGate.private]] 
 
-### #is_/same_as :: [GamerGate.personal](/_personal/Society/Ideology/Political_Ideology/Fascism/GamerGate.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Ideology/Political_Ideology/Fascism/GamerGate.personal|GamerGate.personal]] 
 
-### #is_/same_as :: [GamerGate.secret](/_secret/Society/Ideology/Political_Ideology/Fascism/GamerGate.secret.md)
+### #is_/same_as :: [[/_secret/Society/Ideology/Political_Ideology/Fascism/GamerGate.secret|GamerGate.secret]] 
 

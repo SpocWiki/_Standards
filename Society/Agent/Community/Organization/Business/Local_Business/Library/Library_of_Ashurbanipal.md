@@ -57,17 +57,17 @@ spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Library%20
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Library_of_Ashurbanipal](/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Library/Library_of_Ashurbanipal.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Library/Library_of_Ashurbanipal|Library_of_Ashurbanipal]] 
 
-### #is_/same_as :: [Library_of_Ashurbanipal.public](/_public/Society/Agent/Community/Organization/Business/Local_Business/Library/Library_of_Ashurbanipal.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Business/Local_Business/Library/Library_of_Ashurbanipal.public|Library_of_Ashurbanipal.public]] 
 
-### #is_/same_as :: [Library_of_Ashurbanipal.internal](/_internal/Society/Agent/Community/Organization/Business/Local_Business/Library/Library_of_Ashurbanipal.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Business/Local_Business/Library/Library_of_Ashurbanipal.internal|Library_of_Ashurbanipal.internal]] 
 
-### #is_/same_as :: [Library_of_Ashurbanipal.protect](/_protect/Society/Agent/Community/Organization/Business/Local_Business/Library/Library_of_Ashurbanipal.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Business/Local_Business/Library/Library_of_Ashurbanipal.protect|Library_of_Ashurbanipal.protect]] 
 
-### #is_/same_as :: [Library_of_Ashurbanipal.private](/_private/Society/Agent/Community/Organization/Business/Local_Business/Library/Library_of_Ashurbanipal.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Business/Local_Business/Library/Library_of_Ashurbanipal.private|Library_of_Ashurbanipal.private]] 
 
-### #is_/same_as :: [Library_of_Ashurbanipal.personal](/_personal/Society/Agent/Community/Organization/Business/Local_Business/Library/Library_of_Ashurbanipal.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Business/Local_Business/Library/Library_of_Ashurbanipal.personal|Library_of_Ashurbanipal.personal]] 
 
-### #is_/same_as :: [Library_of_Ashurbanipal.secret](/_secret/Society/Agent/Community/Organization/Business/Local_Business/Library/Library_of_Ashurbanipal.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Business/Local_Business/Library/Library_of_Ashurbanipal.secret|Library_of_Ashurbanipal.secret]] 
 

@@ -51,17 +51,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Alchemy](/_Standards/Chemistry/Alchemy.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Alchemy|Alchemy]] 
 
-### #is_/same_as :: [Alchemy.public](/_public/Chemistry/Alchemy.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Alchemy.public|Alchemy.public]] 
 
-### #is_/same_as :: [Alchemy.internal](/_internal/Chemistry/Alchemy.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Alchemy.internal|Alchemy.internal]] 
 
-### #is_/same_as :: [Alchemy.protect](/_protect/Chemistry/Alchemy.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Alchemy.protect|Alchemy.protect]] 
 
-### #is_/same_as :: [Alchemy.private](/_private/Chemistry/Alchemy.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Alchemy.private|Alchemy.private]] 
 
-### #is_/same_as :: [Alchemy.personal](/_personal/Chemistry/Alchemy.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Alchemy.personal|Alchemy.personal]] 
 
-### #is_/same_as :: [Alchemy.secret](/_secret/Chemistry/Alchemy.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Alchemy.secret|Alchemy.secret]] 
 

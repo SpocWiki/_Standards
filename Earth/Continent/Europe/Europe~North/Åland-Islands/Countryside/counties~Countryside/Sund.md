@@ -40,17 +40,17 @@ markerFolder: ./Sund/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sund](/_Standards/Earth/Continent/Europe/Europe~North/Åland-Islands/Countryside/counties~Countryside/Sund.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Åland-Islands/Countryside/counties~Countryside/Sund|Sund]] 
 
-### #is_/same_as :: [Sund.public](/_public/Earth/Continent/Europe/Europe~North/Åland-Islands/Countryside/counties~Countryside/Sund.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Åland-Islands/Countryside/counties~Countryside/Sund.public|Sund.public]] 
 
-### #is_/same_as :: [Sund.internal](/_internal/Earth/Continent/Europe/Europe~North/Åland-Islands/Countryside/counties~Countryside/Sund.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Åland-Islands/Countryside/counties~Countryside/Sund.internal|Sund.internal]] 
 
-### #is_/same_as :: [Sund.protect](/_protect/Earth/Continent/Europe/Europe~North/Åland-Islands/Countryside/counties~Countryside/Sund.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Åland-Islands/Countryside/counties~Countryside/Sund.protect|Sund.protect]] 
 
-### #is_/same_as :: [Sund.private](/_private/Earth/Continent/Europe/Europe~North/Åland-Islands/Countryside/counties~Countryside/Sund.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Åland-Islands/Countryside/counties~Countryside/Sund.private|Sund.private]] 
 
-### #is_/same_as :: [Sund.personal](/_personal/Earth/Continent/Europe/Europe~North/Åland-Islands/Countryside/counties~Countryside/Sund.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Åland-Islands/Countryside/counties~Countryside/Sund.personal|Sund.personal]] 
 
-### #is_/same_as :: [Sund.secret](/_secret/Earth/Continent/Europe/Europe~North/Åland-Islands/Countryside/counties~Countryside/Sund.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Åland-Islands/Countryside/counties~Countryside/Sund.secret|Sund.secret]] 
 

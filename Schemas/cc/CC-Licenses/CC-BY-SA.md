@@ -42,17 +42,17 @@ Several perceived obstacles of this License proved to be beneficial in data sani
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [CC-BY-SA](/_Standards/Schemas/cc/CC-Licenses/CC-BY-SA.md) 
+### #is_/same_as :: [[/_Standards/Schemas/cc/CC-Licenses/CC-BY-SA|CC-BY-SA]] 
 
-### #is_/same_as :: [CC-BY-SA.public](/_public/Schemas/cc/CC-Licenses/CC-BY-SA.public.md) 
+### #is_/same_as :: [[/_public/Schemas/cc/CC-Licenses/CC-BY-SA.public|CC-BY-SA.public]] 
 
-### #is_/same_as :: [CC-BY-SA.internal](/_internal/Schemas/cc/CC-Licenses/CC-BY-SA.internal.md) 
+### #is_/same_as :: [[/_internal/Schemas/cc/CC-Licenses/CC-BY-SA.internal|CC-BY-SA.internal]] 
 
-### #is_/same_as :: [CC-BY-SA.protect](/_protect/Schemas/cc/CC-Licenses/CC-BY-SA.protect.md) 
+### #is_/same_as :: [[/_protect/Schemas/cc/CC-Licenses/CC-BY-SA.protect|CC-BY-SA.protect]] 
 
-### #is_/same_as :: [CC-BY-SA.private](/_private/Schemas/cc/CC-Licenses/CC-BY-SA.private.md) 
+### #is_/same_as :: [[/_private/Schemas/cc/CC-Licenses/CC-BY-SA.private|CC-BY-SA.private]] 
 
-### #is_/same_as :: [CC-BY-SA.personal](/_personal/Schemas/cc/CC-Licenses/CC-BY-SA.personal.md) 
+### #is_/same_as :: [[/_personal/Schemas/cc/CC-Licenses/CC-BY-SA.personal|CC-BY-SA.personal]] 
 
-### #is_/same_as :: [CC-BY-SA.secret](/_secret/Schemas/cc/CC-Licenses/CC-BY-SA.secret.md)
+### #is_/same_as :: [[/_secret/Schemas/cc/CC-Licenses/CC-BY-SA.secret|CC-BY-SA.secret]] 
 

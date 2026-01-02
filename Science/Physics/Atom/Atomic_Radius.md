@@ -36,17 +36,17 @@ ISQ_dimension: "<math xmlns=\"http://www.w3.org/1998/Math/MathML\" display=\"blo
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Atomic_Radius](/_Standards/Science/Physics/Atom/Atomic_Radius.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Atom/Atomic_Radius|Atomic_Radius]] 
 
-### #is_/same_as :: [Atomic_Radius.public](/_public/Science/Physics/Atom/Atomic_Radius.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Atom/Atomic_Radius.public|Atomic_Radius.public]] 
 
-### #is_/same_as :: [Atomic_Radius.internal](/_internal/Science/Physics/Atom/Atomic_Radius.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Atom/Atomic_Radius.internal|Atomic_Radius.internal]] 
 
-### #is_/same_as :: [Atomic_Radius.protect](/_protect/Science/Physics/Atom/Atomic_Radius.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Atom/Atomic_Radius.protect|Atomic_Radius.protect]] 
 
-### #is_/same_as :: [Atomic_Radius.private](/_private/Science/Physics/Atom/Atomic_Radius.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Atom/Atomic_Radius.private|Atomic_Radius.private]] 
 
-### #is_/same_as :: [Atomic_Radius.personal](/_personal/Science/Physics/Atom/Atomic_Radius.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Atom/Atomic_Radius.personal|Atomic_Radius.personal]] 
 
-### #is_/same_as :: [Atomic_Radius.secret](/_secret/Science/Physics/Atom/Atomic_Radius.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Atom/Atomic_Radius.secret|Atomic_Radius.secret]] 
 

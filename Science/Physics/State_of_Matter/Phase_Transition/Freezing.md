@@ -48,17 +48,17 @@ MeSH_tree_code:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Freezing](/_Standards/Science/Physics/State_of_Matter/Phase_Transition/Freezing.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/State_of_Matter/Phase_Transition/Freezing|Freezing]] 
 
-### #is_/same_as :: [Freezing.public](/_public/Science/Physics/State_of_Matter/Phase_Transition/Freezing.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/State_of_Matter/Phase_Transition/Freezing.public|Freezing.public]] 
 
-### #is_/same_as :: [Freezing.internal](/_internal/Science/Physics/State_of_Matter/Phase_Transition/Freezing.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/State_of_Matter/Phase_Transition/Freezing.internal|Freezing.internal]] 
 
-### #is_/same_as :: [Freezing.protect](/_protect/Science/Physics/State_of_Matter/Phase_Transition/Freezing.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/State_of_Matter/Phase_Transition/Freezing.protect|Freezing.protect]] 
 
-### #is_/same_as :: [Freezing.private](/_private/Science/Physics/State_of_Matter/Phase_Transition/Freezing.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/State_of_Matter/Phase_Transition/Freezing.private|Freezing.private]] 
 
-### #is_/same_as :: [Freezing.personal](/_personal/Science/Physics/State_of_Matter/Phase_Transition/Freezing.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/State_of_Matter/Phase_Transition/Freezing.personal|Freezing.personal]] 
 
-### #is_/same_as :: [Freezing.secret](/_secret/Science/Physics/State_of_Matter/Phase_Transition/Freezing.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/State_of_Matter/Phase_Transition/Freezing.secret|Freezing.secret]] 
 

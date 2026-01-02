@@ -154,17 +154,17 @@ It increases Brain Plasticity and thus allows to resolve ruminations.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ketamine](/_Standards/bio/Medicine/Medical_Enumeration/Medical_Specialty/Anesthesia/Ketamine.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Enumeration/Medical_Specialty/Anesthesia/Ketamine|Ketamine]] 
 
-### #is_/same_as :: [Ketamine.public](/_public/bio/Medicine/Medical_Enumeration/Medical_Specialty/Anesthesia/Ketamine.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Enumeration/Medical_Specialty/Anesthesia/Ketamine.public|Ketamine.public]] 
 
-### #is_/same_as :: [Ketamine.internal](/_internal/bio/Medicine/Medical_Enumeration/Medical_Specialty/Anesthesia/Ketamine.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Enumeration/Medical_Specialty/Anesthesia/Ketamine.internal|Ketamine.internal]] 
 
-### #is_/same_as :: [Ketamine.protect](/_protect/bio/Medicine/Medical_Enumeration/Medical_Specialty/Anesthesia/Ketamine.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Enumeration/Medical_Specialty/Anesthesia/Ketamine.protect|Ketamine.protect]] 
 
-### #is_/same_as :: [Ketamine.private](/_private/bio/Medicine/Medical_Enumeration/Medical_Specialty/Anesthesia/Ketamine.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Enumeration/Medical_Specialty/Anesthesia/Ketamine.private|Ketamine.private]] 
 
-### #is_/same_as :: [Ketamine.personal](/_personal/bio/Medicine/Medical_Enumeration/Medical_Specialty/Anesthesia/Ketamine.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Enumeration/Medical_Specialty/Anesthesia/Ketamine.personal|Ketamine.personal]] 
 
-### #is_/same_as :: [Ketamine.secret](/_secret/bio/Medicine/Medical_Enumeration/Medical_Specialty/Anesthesia/Ketamine.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Enumeration/Medical_Specialty/Anesthesia/Ketamine.secret|Ketamine.secret]] 
 

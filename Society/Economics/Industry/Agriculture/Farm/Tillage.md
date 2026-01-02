@@ -54,17 +54,17 @@ Basisklassifikation: "48.36"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Tillage](/_Standards/Society/Economics/Industry/Agriculture/Farm/Tillage.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Industry/Agriculture/Farm/Tillage|Tillage]] 
 
-### #is_/same_as :: [Tillage.public](/_public/Society/Economics/Industry/Agriculture/Farm/Tillage.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Industry/Agriculture/Farm/Tillage.public|Tillage.public]] 
 
-### #is_/same_as :: [Tillage.internal](/_internal/Society/Economics/Industry/Agriculture/Farm/Tillage.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Industry/Agriculture/Farm/Tillage.internal|Tillage.internal]] 
 
-### #is_/same_as :: [Tillage.protect](/_protect/Society/Economics/Industry/Agriculture/Farm/Tillage.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Industry/Agriculture/Farm/Tillage.protect|Tillage.protect]] 
 
-### #is_/same_as :: [Tillage.private](/_private/Society/Economics/Industry/Agriculture/Farm/Tillage.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Industry/Agriculture/Farm/Tillage.private|Tillage.private]] 
 
-### #is_/same_as :: [Tillage.personal](/_personal/Society/Economics/Industry/Agriculture/Farm/Tillage.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Industry/Agriculture/Farm/Tillage.personal|Tillage.personal]] 
 
-### #is_/same_as :: [Tillage.secret](/_secret/Society/Economics/Industry/Agriculture/Farm/Tillage.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Industry/Agriculture/Farm/Tillage.secret|Tillage.secret]] 
 

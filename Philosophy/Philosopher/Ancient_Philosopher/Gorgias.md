@@ -71,17 +71,17 @@ ISNI: "0000000448914231"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Gorgias](/_Standards/Philosophy/Philosopher/Ancient_Philosopher/Gorgias.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Philosopher/Ancient_Philosopher/Gorgias|Gorgias]] 
 
-### #is_/same_as :: [Gorgias.public](/_public/Philosophy/Philosopher/Ancient_Philosopher/Gorgias.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Philosopher/Ancient_Philosopher/Gorgias.public|Gorgias.public]] 
 
-### #is_/same_as :: [Gorgias.internal](/_internal/Philosophy/Philosopher/Ancient_Philosopher/Gorgias.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Philosopher/Ancient_Philosopher/Gorgias.internal|Gorgias.internal]] 
 
-### #is_/same_as :: [Gorgias.protect](/_protect/Philosophy/Philosopher/Ancient_Philosopher/Gorgias.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Philosopher/Ancient_Philosopher/Gorgias.protect|Gorgias.protect]] 
 
-### #is_/same_as :: [Gorgias.private](/_private/Philosophy/Philosopher/Ancient_Philosopher/Gorgias.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Philosopher/Ancient_Philosopher/Gorgias.private|Gorgias.private]] 
 
-### #is_/same_as :: [Gorgias.personal](/_personal/Philosophy/Philosopher/Ancient_Philosopher/Gorgias.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Philosopher/Ancient_Philosopher/Gorgias.personal|Gorgias.personal]] 
 
-### #is_/same_as :: [Gorgias.secret](/_secret/Philosophy/Philosopher/Ancient_Philosopher/Gorgias.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Philosopher/Ancient_Philosopher/Gorgias.secret|Gorgias.secret]] 
 

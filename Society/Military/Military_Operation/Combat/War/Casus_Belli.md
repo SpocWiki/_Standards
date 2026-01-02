@@ -40,17 +40,17 @@ Wolfram_Language_entity_code: Entity["Concept", "CasusBelli::693z9"]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Casus_Belli](/_Standards/Society/Military/Military_Operation/Combat/War/Casus_Belli.md) 
+### #is_/same_as :: [[/_Standards/Society/Military/Military_Operation/Combat/War/Casus_Belli|Casus_Belli]] 
 
-### #is_/same_as :: [Casus_Belli.public](/_public/Society/Military/Military_Operation/Combat/War/Casus_Belli.public.md) 
+### #is_/same_as :: [[/_public/Society/Military/Military_Operation/Combat/War/Casus_Belli.public|Casus_Belli.public]] 
 
-### #is_/same_as :: [Casus_Belli.internal](/_internal/Society/Military/Military_Operation/Combat/War/Casus_Belli.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Military/Military_Operation/Combat/War/Casus_Belli.internal|Casus_Belli.internal]] 
 
-### #is_/same_as :: [Casus_Belli.protect](/_protect/Society/Military/Military_Operation/Combat/War/Casus_Belli.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Military/Military_Operation/Combat/War/Casus_Belli.protect|Casus_Belli.protect]] 
 
-### #is_/same_as :: [Casus_Belli.private](/_private/Society/Military/Military_Operation/Combat/War/Casus_Belli.private.md) 
+### #is_/same_as :: [[/_private/Society/Military/Military_Operation/Combat/War/Casus_Belli.private|Casus_Belli.private]] 
 
-### #is_/same_as :: [Casus_Belli.personal](/_personal/Society/Military/Military_Operation/Combat/War/Casus_Belli.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Military/Military_Operation/Combat/War/Casus_Belli.personal|Casus_Belli.personal]] 
 
-### #is_/same_as :: [Casus_Belli.secret](/_secret/Society/Military/Military_Operation/Combat/War/Casus_Belli.secret.md)
+### #is_/same_as :: [[/_secret/Society/Military/Military_Operation/Combat/War/Casus_Belli.secret|Casus_Belli.secret]] 
 

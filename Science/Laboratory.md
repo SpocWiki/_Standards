@@ -48,3 +48,22 @@ Commons_gallery: Laboratory
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Laboratory) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Science/Laboratory|Laboratory]] 
+
+### #is_/same_as :: [[/_public/Science/Laboratory.public|Laboratory.public]] 
+
+### #is_/same_as :: [[/_internal/Science/Laboratory.internal|Laboratory.internal]] 
+
+### #is_/same_as :: [[/_protect/Science/Laboratory.protect|Laboratory.protect]] 
+
+### #is_/same_as :: [[/_private/Science/Laboratory.private|Laboratory.private]] 
+
+### #is_/same_as :: [[/_personal/Science/Laboratory.personal|Laboratory.personal]] 
+
+### #is_/same_as :: [[/_secret/Science/Laboratory.secret|Laboratory.secret]] 
+

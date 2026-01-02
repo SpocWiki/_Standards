@@ -55,17 +55,17 @@ Formal Predicate:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_time_of_temporal_coverage](/_Standards/schema-org/Property/has_Date_Time/has_time_of_temporal_coverage.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_Date_Time/has_time_of_temporal_coverage|has_time_of_temporal_coverage]] 
 
-### #is_/same_as :: [has_time_of_temporal_coverage.public](/_public/schema-org/Property/has_Date_Time/has_time_of_temporal_coverage.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/has_Date_Time/has_time_of_temporal_coverage.public|has_time_of_temporal_coverage.public]] 
 
-### #is_/same_as :: [has_time_of_temporal_coverage.internal](/_internal/schema-org/Property/has_Date_Time/has_time_of_temporal_coverage.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_Date_Time/has_time_of_temporal_coverage.internal|has_time_of_temporal_coverage.internal]] 
 
-### #is_/same_as :: [has_time_of_temporal_coverage.protect](/_protect/schema-org/Property/has_Date_Time/has_time_of_temporal_coverage.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_Date_Time/has_time_of_temporal_coverage.protect|has_time_of_temporal_coverage.protect]] 
 
-### #is_/same_as :: [has_time_of_temporal_coverage.private](/_private/schema-org/Property/has_Date_Time/has_time_of_temporal_coverage.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/has_Date_Time/has_time_of_temporal_coverage.private|has_time_of_temporal_coverage.private]] 
 
-### #is_/same_as :: [has_time_of_temporal_coverage.personal](/_personal/schema-org/Property/has_Date_Time/has_time_of_temporal_coverage.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_Date_Time/has_time_of_temporal_coverage.personal|has_time_of_temporal_coverage.personal]] 
 
-### #is_/same_as :: [has_time_of_temporal_coverage.secret](/_secret/schema-org/Property/has_Date_Time/has_time_of_temporal_coverage.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/has_Date_Time/has_time_of_temporal_coverage.secret|has_time_of_temporal_coverage.secret]] 
 

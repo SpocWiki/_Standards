@@ -106,17 +106,17 @@ A health profession of a person formally educated and trained in the care of the
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Nursing](/_Standards/bio/Medicine/Medical_Business/Nursing.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Business/Nursing|Nursing]] 
 
-### #is_/same_as :: [Nursing.public](/_public/bio/Medicine/Medical_Business/Nursing.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Business/Nursing.public|Nursing.public]] 
 
-### #is_/same_as :: [Nursing.internal](/_internal/bio/Medicine/Medical_Business/Nursing.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Business/Nursing.internal|Nursing.internal]] 
 
-### #is_/same_as :: [Nursing.protect](/_protect/bio/Medicine/Medical_Business/Nursing.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Business/Nursing.protect|Nursing.protect]] 
 
-### #is_/same_as :: [Nursing.private](/_private/bio/Medicine/Medical_Business/Nursing.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Business/Nursing.private|Nursing.private]] 
 
-### #is_/same_as :: [Nursing.personal](/_personal/bio/Medicine/Medical_Business/Nursing.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Business/Nursing.personal|Nursing.personal]] 
 
-### #is_/same_as :: [Nursing.secret](/_secret/bio/Medicine/Medical_Business/Nursing.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Business/Nursing.secret|Nursing.secret]] 
 

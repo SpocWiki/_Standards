@@ -61,17 +61,17 @@ Unicode_range: U+1F4BD-1F4C0,U+1F4FC
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Data_Storage](/_Standards/Technology/IT/Data/Data_Storage.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Data/Data_Storage|Data_Storage]] 
 
-### #is_/same_as :: [Data_Storage.public](/_public/Technology/IT/Data/Data_Storage.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Data/Data_Storage.public|Data_Storage.public]] 
 
-### #is_/same_as :: [Data_Storage.internal](/_internal/Technology/IT/Data/Data_Storage.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Data/Data_Storage.internal|Data_Storage.internal]] 
 
-### #is_/same_as :: [Data_Storage.protect](/_protect/Technology/IT/Data/Data_Storage.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Data/Data_Storage.protect|Data_Storage.protect]] 
 
-### #is_/same_as :: [Data_Storage.private](/_private/Technology/IT/Data/Data_Storage.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Data/Data_Storage.private|Data_Storage.private]] 
 
-### #is_/same_as :: [Data_Storage.personal](/_personal/Technology/IT/Data/Data_Storage.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Data/Data_Storage.personal|Data_Storage.personal]] 
 
-### #is_/same_as :: [Data_Storage.secret](/_secret/Technology/IT/Data/Data_Storage.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Data/Data_Storage.secret|Data_Storage.secret]] 
 

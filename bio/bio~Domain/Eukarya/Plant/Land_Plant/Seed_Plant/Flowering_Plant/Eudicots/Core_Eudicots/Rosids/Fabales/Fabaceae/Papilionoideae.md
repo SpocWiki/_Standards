@@ -130,7 +130,7 @@ Baphioid clade.
 ## Title Illustrations
 
 ------------------------------------------------------------------------ 
-![Vigna speciosa](Papilionoideae/Vigna_speciosa.jpg))
+![Vigna speciosa](Papilionoideae/Vigna_speciosa.jpg) 
 Scientific Name ::     Vigna speciosa (Kunth) Verdc.
 Location ::           Mesa, Arizona
 Comments             Commonly called Snail Vines.
@@ -138,14 +138,14 @@ Specimen Condition   Live Specimen
 Copyright ::            © [Johanna Mahn](mailto:johannamahn@gmail.com) 
 
 ----------------------- 
-![Erythrina amazonica](Papilionoideae/Erythrina_amazonica.jpg))
+![Erythrina amazonica](Papilionoideae/Erythrina_amazonica.jpg) 
 Scientific Name ::     Erythrina amazonica Krukoff
 Location ::           Ecuador
 Specimen Condition   Live Specimen
 Copyright ::            © [Robin Foster](http://fm2.fieldmuseum.org/plantguides/)
 
 ------------------------------------------------------------------------------ 
-![Calia secundiflora](Papilionoideae/Calia_secundiflora.jpg))
+![Calia secundiflora](Papilionoideae/Calia_secundiflora.jpg) 
 Scientific Name ::     Calia secundiflora (Ortega) Yakovlev (= Sophora secundiflora)
 Location ::           Arizona State University campus
 Specimen Condition   Live Specimen
@@ -155,17 +155,17 @@ Copyright ::            © [Martin F. Wojciechowski](http://www.public.asu.edu/%
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Papilionoideae](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Papilionoideae.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Papilionoideae|Papilionoideae]] 
 
-### #is_/same_as :: [Papilionoideae.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Papilionoideae.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Papilionoideae.public|Papilionoideae.public]] 
 
-### #is_/same_as :: [Papilionoideae.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Papilionoideae.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Papilionoideae.internal|Papilionoideae.internal]] 
 
-### #is_/same_as :: [Papilionoideae.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Papilionoideae.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Papilionoideae.protect|Papilionoideae.protect]] 
 
-### #is_/same_as :: [Papilionoideae.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Papilionoideae.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Papilionoideae.private|Papilionoideae.private]] 
 
-### #is_/same_as :: [Papilionoideae.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Papilionoideae.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Papilionoideae.personal|Papilionoideae.personal]] 
 
-### #is_/same_as :: [Papilionoideae.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Papilionoideae.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Papilionoideae.secret|Papilionoideae.secret]] 
 

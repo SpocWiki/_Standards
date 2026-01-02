@@ -105,17 +105,17 @@ MeSH_tree_code: D02.455.326.146.379
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ethane](/_Standards/Chemistry/Organic_Chemistry/Hydrocarbon/Alkane/Ethane.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Organic_Chemistry/Hydrocarbon/Alkane/Ethane|Ethane]] 
 
-### #is_/same_as :: [Ethane.public](/_public/Chemistry/Organic_Chemistry/Hydrocarbon/Alkane/Ethane.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Organic_Chemistry/Hydrocarbon/Alkane/Ethane.public|Ethane.public]] 
 
-### #is_/same_as :: [Ethane.internal](/_internal/Chemistry/Organic_Chemistry/Hydrocarbon/Alkane/Ethane.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Organic_Chemistry/Hydrocarbon/Alkane/Ethane.internal|Ethane.internal]] 
 
-### #is_/same_as :: [Ethane.protect](/_protect/Chemistry/Organic_Chemistry/Hydrocarbon/Alkane/Ethane.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Organic_Chemistry/Hydrocarbon/Alkane/Ethane.protect|Ethane.protect]] 
 
-### #is_/same_as :: [Ethane.private](/_private/Chemistry/Organic_Chemistry/Hydrocarbon/Alkane/Ethane.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Organic_Chemistry/Hydrocarbon/Alkane/Ethane.private|Ethane.private]] 
 
-### #is_/same_as :: [Ethane.personal](/_personal/Chemistry/Organic_Chemistry/Hydrocarbon/Alkane/Ethane.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Organic_Chemistry/Hydrocarbon/Alkane/Ethane.personal|Ethane.personal]] 
 
-### #is_/same_as :: [Ethane.secret](/_secret/Chemistry/Organic_Chemistry/Hydrocarbon/Alkane/Ethane.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Organic_Chemistry/Hydrocarbon/Alkane/Ethane.secret|Ethane.secret]] 
 

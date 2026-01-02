@@ -39,17 +39,17 @@ Event type: Festival.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Festival](/_Standards/schema-org/Class/is_a_/Event/Festival.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Event/Festival|Festival]] 
 
-### #is_/same_as :: [Festival.public](/_public/schema-org/Class/is_a_/Event/Festival.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Event/Festival.public|Festival.public]] 
 
-### #is_/same_as :: [Festival.internal](/_internal/schema-org/Class/is_a_/Event/Festival.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Event/Festival.internal|Festival.internal]] 
 
-### #is_/same_as :: [Festival.protect](/_protect/schema-org/Class/is_a_/Event/Festival.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Event/Festival.protect|Festival.protect]] 
 
-### #is_/same_as :: [Festival.private](/_private/schema-org/Class/is_a_/Event/Festival.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Event/Festival.private|Festival.private]] 
 
-### #is_/same_as :: [Festival.personal](/_personal/schema-org/Class/is_a_/Event/Festival.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Event/Festival.personal|Festival.personal]] 
 
-### #is_/same_as :: [Festival.secret](/_secret/schema-org/Class/is_a_/Event/Festival.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Event/Festival.secret|Festival.secret]] 
 

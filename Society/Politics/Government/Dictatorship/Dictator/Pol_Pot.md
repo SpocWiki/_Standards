@@ -133,17 +133,17 @@ Krugosvet_article_archived_: istoriya/POL_POT.html
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Pol_Pot](/_Standards/Society/Politics/Government/Dictatorship/Dictator/Pol_Pot.md) 
+### #is_/same_as :: [[/_Standards/Society/Politics/Government/Dictatorship/Dictator/Pol_Pot|Pol_Pot]] 
 
-### #is_/same_as :: [Pol_Pot.public](/_public/Society/Politics/Government/Dictatorship/Dictator/Pol_Pot.public.md) 
+### #is_/same_as :: [[/_public/Society/Politics/Government/Dictatorship/Dictator/Pol_Pot.public|Pol_Pot.public]] 
 
-### #is_/same_as :: [Pol_Pot.internal](/_internal/Society/Politics/Government/Dictatorship/Dictator/Pol_Pot.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Politics/Government/Dictatorship/Dictator/Pol_Pot.internal|Pol_Pot.internal]] 
 
-### #is_/same_as :: [Pol_Pot.protect](/_protect/Society/Politics/Government/Dictatorship/Dictator/Pol_Pot.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Politics/Government/Dictatorship/Dictator/Pol_Pot.protect|Pol_Pot.protect]] 
 
-### #is_/same_as :: [Pol_Pot.private](/_private/Society/Politics/Government/Dictatorship/Dictator/Pol_Pot.private.md) 
+### #is_/same_as :: [[/_private/Society/Politics/Government/Dictatorship/Dictator/Pol_Pot.private|Pol_Pot.private]] 
 
-### #is_/same_as :: [Pol_Pot.personal](/_personal/Society/Politics/Government/Dictatorship/Dictator/Pol_Pot.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Politics/Government/Dictatorship/Dictator/Pol_Pot.personal|Pol_Pot.personal]] 
 
-### #is_/same_as :: [Pol_Pot.secret](/_secret/Society/Politics/Government/Dictatorship/Dictator/Pol_Pot.secret.md)
+### #is_/same_as :: [[/_secret/Society/Politics/Government/Dictatorship/Dictator/Pol_Pot.secret|Pol_Pot.secret]] 
 

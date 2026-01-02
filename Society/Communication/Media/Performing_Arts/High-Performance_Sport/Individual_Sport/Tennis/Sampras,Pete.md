@@ -92,17 +92,17 @@ Facebook_username: petesampras
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sampras,Pete](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Tennis/Sampras,Pete.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Tennis/Sampras,Pete|Sampras,Pete]] 
 
-### #is_/same_as :: [Sampras,Pete.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Tennis/Sampras,Pete.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Tennis/Sampras,Pete.public|Sampras,Pete.public]] 
 
-### #is_/same_as :: [Sampras,Pete.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Tennis/Sampras,Pete.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Tennis/Sampras,Pete.internal|Sampras,Pete.internal]] 
 
-### #is_/same_as :: [Sampras,Pete.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Tennis/Sampras,Pete.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Tennis/Sampras,Pete.protect|Sampras,Pete.protect]] 
 
-### #is_/same_as :: [Sampras,Pete.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Tennis/Sampras,Pete.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Tennis/Sampras,Pete.private|Sampras,Pete.private]] 
 
-### #is_/same_as :: [Sampras,Pete.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Tennis/Sampras,Pete.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Tennis/Sampras,Pete.personal|Sampras,Pete.personal]] 
 
-### #is_/same_as :: [Sampras,Pete.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Tennis/Sampras,Pete.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Tennis/Sampras,Pete.secret|Sampras,Pete.secret]] 
 

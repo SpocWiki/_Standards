@@ -85,17 +85,17 @@ MeSH_tree_code:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sibling](/_Standards/Society/Agent/Community/Clan/Family/Sibling.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Clan/Family/Sibling|Sibling]] 
 
-### #is_/same_as :: [Sibling.public](/_public/Society/Agent/Community/Clan/Family/Sibling.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Clan/Family/Sibling.public|Sibling.public]] 
 
-### #is_/same_as :: [Sibling.internal](/_internal/Society/Agent/Community/Clan/Family/Sibling.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Clan/Family/Sibling.internal|Sibling.internal]] 
 
-### #is_/same_as :: [Sibling.protect](/_protect/Society/Agent/Community/Clan/Family/Sibling.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Clan/Family/Sibling.protect|Sibling.protect]] 
 
-### #is_/same_as :: [Sibling.private](/_private/Society/Agent/Community/Clan/Family/Sibling.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Clan/Family/Sibling.private|Sibling.private]] 
 
-### #is_/same_as :: [Sibling.personal](/_personal/Society/Agent/Community/Clan/Family/Sibling.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Clan/Family/Sibling.personal|Sibling.personal]] 
 
-### #is_/same_as :: [Sibling.secret](/_secret/Society/Agent/Community/Clan/Family/Sibling.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Clan/Family/Sibling.secret|Sibling.secret]] 
 

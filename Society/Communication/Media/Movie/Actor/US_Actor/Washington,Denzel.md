@@ -61,17 +61,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Washington,Denzel](/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Washington,Denzel.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Washington,Denzel|Washington,Denzel]] 
 
-### #is_/same_as :: [Washington,Denzel.public](/_public/Society/Communication/Media/Movie/Actor/US_Actor/Washington,Denzel.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Actor/US_Actor/Washington,Denzel.public|Washington,Denzel.public]] 
 
-### #is_/same_as :: [Washington,Denzel.internal](/_internal/Society/Communication/Media/Movie/Actor/US_Actor/Washington,Denzel.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Actor/US_Actor/Washington,Denzel.internal|Washington,Denzel.internal]] 
 
-### #is_/same_as :: [Washington,Denzel.protect](/_protect/Society/Communication/Media/Movie/Actor/US_Actor/Washington,Denzel.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Actor/US_Actor/Washington,Denzel.protect|Washington,Denzel.protect]] 
 
-### #is_/same_as :: [Washington,Denzel.private](/_private/Society/Communication/Media/Movie/Actor/US_Actor/Washington,Denzel.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Actor/US_Actor/Washington,Denzel.private|Washington,Denzel.private]] 
 
-### #is_/same_as :: [Washington,Denzel.personal](/_personal/Society/Communication/Media/Movie/Actor/US_Actor/Washington,Denzel.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Actor/US_Actor/Washington,Denzel.personal|Washington,Denzel.personal]] 
 
-### #is_/same_as :: [Washington,Denzel.secret](/_secret/Society/Communication/Media/Movie/Actor/US_Actor/Washington,Denzel.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Actor/US_Actor/Washington,Denzel.secret|Washington,Denzel.secret]] 
 

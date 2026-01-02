@@ -45,17 +45,17 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/D%C3%BCnyan%C4%B1n%20i
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Earth_inner_Core](/_Standards/Earth/Climate/Structure_of_Earth/Earth_inner_Core.md) 
+### #is_/same_as :: [[/_Standards/Earth/Climate/Structure_of_Earth/Earth_inner_Core|Earth_inner_Core]] 
 
-### #is_/same_as :: [Earth_inner_Core.public](/_public/Earth/Climate/Structure_of_Earth/Earth_inner_Core.public.md) 
+### #is_/same_as :: [[/_public/Earth/Climate/Structure_of_Earth/Earth_inner_Core.public|Earth_inner_Core.public]] 
 
-### #is_/same_as :: [Earth_inner_Core.internal](/_internal/Earth/Climate/Structure_of_Earth/Earth_inner_Core.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Climate/Structure_of_Earth/Earth_inner_Core.internal|Earth_inner_Core.internal]] 
 
-### #is_/same_as :: [Earth_inner_Core.protect](/_protect/Earth/Climate/Structure_of_Earth/Earth_inner_Core.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Climate/Structure_of_Earth/Earth_inner_Core.protect|Earth_inner_Core.protect]] 
 
-### #is_/same_as :: [Earth_inner_Core.private](/_private/Earth/Climate/Structure_of_Earth/Earth_inner_Core.private.md) 
+### #is_/same_as :: [[/_private/Earth/Climate/Structure_of_Earth/Earth_inner_Core.private|Earth_inner_Core.private]] 
 
-### #is_/same_as :: [Earth_inner_Core.personal](/_personal/Earth/Climate/Structure_of_Earth/Earth_inner_Core.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Climate/Structure_of_Earth/Earth_inner_Core.personal|Earth_inner_Core.personal]] 
 
-### #is_/same_as :: [Earth_inner_Core.secret](/_secret/Earth/Climate/Structure_of_Earth/Earth_inner_Core.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Climate/Structure_of_Earth/Earth_inner_Core.secret|Earth_inner_Core.secret]] 
 

@@ -82,7 +82,7 @@ reference to the current resolution and knowledge.
 ## Title Illustrations 
 
 ------------------------------------------------------------------------ 
-![habitus of a capricornia male](capricornia/capricornia.jpg))
+![habitus of a capricornia male](capricornia/capricornia.jpg) 
 Scientific Name ::     capricornia
 Location ::           Great Barrier Reef
 Comments             Note paired penes on segment 9
@@ -103,17 +103,17 @@ Copyright ::            © 2000 [Fredrik Pleijel](mailto:pleijel@mnhn.fr)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [capricornia](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Annelida/Phyllodocida/Hesionidae/capricornia.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Annelida/Phyllodocida/Hesionidae/capricornia|capricornia]] 
 
-### #is_/same_as :: [capricornia.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Annelida/Phyllodocida/Hesionidae/capricornia.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Annelida/Phyllodocida/Hesionidae/capricornia.public|capricornia.public]] 
 
-### #is_/same_as :: [capricornia.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Annelida/Phyllodocida/Hesionidae/capricornia.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Annelida/Phyllodocida/Hesionidae/capricornia.internal|capricornia.internal]] 
 
-### #is_/same_as :: [capricornia.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Annelida/Phyllodocida/Hesionidae/capricornia.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Annelida/Phyllodocida/Hesionidae/capricornia.protect|capricornia.protect]] 
 
-### #is_/same_as :: [capricornia.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Annelida/Phyllodocida/Hesionidae/capricornia.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Annelida/Phyllodocida/Hesionidae/capricornia.private|capricornia.private]] 
 
-### #is_/same_as :: [capricornia.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Annelida/Phyllodocida/Hesionidae/capricornia.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Annelida/Phyllodocida/Hesionidae/capricornia.personal|capricornia.personal]] 
 
-### #is_/same_as :: [capricornia.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Annelida/Phyllodocida/Hesionidae/capricornia.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Annelida/Phyllodocida/Hesionidae/capricornia.secret|capricornia.secret]] 
 

@@ -23,17 +23,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Saga(band)](/_Standards/Society/Communication/Media/Music/Musician/Music~Band/Saga(band).md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Musician/Music~Band/Saga(band)|Saga(band)]] 
 
-### #is_/same_as :: [Saga(band).public](/_public/Society/Communication/Media/Music/Musician/Music~Band/Saga(band).public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Musician/Music~Band/Saga(band).public|Saga(band).public]] 
 
-### #is_/same_as :: [Saga(band).internal](/_internal/Society/Communication/Media/Music/Musician/Music~Band/Saga(band).internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Musician/Music~Band/Saga(band).internal|Saga(band).internal]] 
 
-### #is_/same_as :: [Saga(band).protect](/_protect/Society/Communication/Media/Music/Musician/Music~Band/Saga(band).protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Musician/Music~Band/Saga(band).protect|Saga(band).protect]] 
 
-### #is_/same_as :: [Saga(band).private](/_private/Society/Communication/Media/Music/Musician/Music~Band/Saga(band).private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Musician/Music~Band/Saga(band).private|Saga(band).private]] 
 
-### #is_/same_as :: [Saga(band).personal](/_personal/Society/Communication/Media/Music/Musician/Music~Band/Saga(band).personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Musician/Music~Band/Saga(band).personal|Saga(band).personal]] 
 
-### #is_/same_as :: [Saga(band).secret](/_secret/Society/Communication/Media/Music/Musician/Music~Band/Saga(band).secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Musician/Music~Band/Saga(band).secret|Saga(band).secret]] 
 

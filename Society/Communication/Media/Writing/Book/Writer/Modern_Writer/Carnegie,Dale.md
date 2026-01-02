@@ -32,17 +32,17 @@ He wrote the famous self-help book "How to Win Friends and Influence People."
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Carnegie,Dale](/_Standards/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Carnegie,Dale.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Carnegie,Dale|Carnegie,Dale]] 
 
-### #is_/same_as :: [Carnegie,Dale.public](/_public/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Carnegie,Dale.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Carnegie,Dale.public|Carnegie,Dale.public]] 
 
-### #is_/same_as :: [Carnegie,Dale.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Carnegie,Dale.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Carnegie,Dale.internal|Carnegie,Dale.internal]] 
 
-### #is_/same_as :: [Carnegie,Dale.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Carnegie,Dale.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Carnegie,Dale.protect|Carnegie,Dale.protect]] 
 
-### #is_/same_as :: [Carnegie,Dale.private](/_private/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Carnegie,Dale.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Carnegie,Dale.private|Carnegie,Dale.private]] 
 
-### #is_/same_as :: [Carnegie,Dale.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Carnegie,Dale.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Carnegie,Dale.personal|Carnegie,Dale.personal]] 
 
-### #is_/same_as :: [Carnegie,Dale.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Carnegie,Dale.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Carnegie,Dale.secret|Carnegie,Dale.secret]] 
 

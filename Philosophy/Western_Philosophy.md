@@ -31,17 +31,17 @@ PhilPapers_topic: european-philosophy
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Western_Philosophy](/_Standards/Philosophy/Western_Philosophy.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Western_Philosophy|Western_Philosophy]] 
 
-### #is_/same_as :: [Western_Philosophy.public](/_public/Philosophy/Western_Philosophy.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Western_Philosophy.public|Western_Philosophy.public]] 
 
-### #is_/same_as :: [Western_Philosophy.internal](/_internal/Philosophy/Western_Philosophy.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Western_Philosophy.internal|Western_Philosophy.internal]] 
 
-### #is_/same_as :: [Western_Philosophy.protect](/_protect/Philosophy/Western_Philosophy.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Western_Philosophy.protect|Western_Philosophy.protect]] 
 
-### #is_/same_as :: [Western_Philosophy.private](/_private/Philosophy/Western_Philosophy.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Western_Philosophy.private|Western_Philosophy.private]] 
 
-### #is_/same_as :: [Western_Philosophy.personal](/_personal/Philosophy/Western_Philosophy.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Western_Philosophy.personal|Western_Philosophy.personal]] 
 
-### #is_/same_as :: [Western_Philosophy.secret](/_secret/Philosophy/Western_Philosophy.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Western_Philosophy.secret|Western_Philosophy.secret]] 
 

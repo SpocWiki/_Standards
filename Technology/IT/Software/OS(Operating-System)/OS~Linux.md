@@ -151,17 +151,17 @@ Jeder Euro der in dieses Projekt gesteckt wird, kommt 4-fach zurück.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [OS~Linux](/_Standards/Technology/IT/Software/OS(Operating-System)/OS~Linux.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Software/OS(Operating-System)/OS~Linux|OS~Linux]] 
 
-### #is_/same_as :: [OS~Linux.public](/_public/Technology/IT/Software/OS(Operating-System)/OS~Linux.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Software/OS(Operating-System)/OS~Linux.public|OS~Linux.public]] 
 
-### #is_/same_as :: [OS~Linux.internal](/_internal/Technology/IT/Software/OS(Operating-System)/OS~Linux.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Software/OS(Operating-System)/OS~Linux.internal|OS~Linux.internal]] 
 
-### #is_/same_as :: [OS~Linux.protect](/_protect/Technology/IT/Software/OS(Operating-System)/OS~Linux.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Software/OS(Operating-System)/OS~Linux.protect|OS~Linux.protect]] 
 
-### #is_/same_as :: [OS~Linux.private](/_private/Technology/IT/Software/OS(Operating-System)/OS~Linux.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Software/OS(Operating-System)/OS~Linux.private|OS~Linux.private]] 
 
-### #is_/same_as :: [OS~Linux.personal](/_personal/Technology/IT/Software/OS(Operating-System)/OS~Linux.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Software/OS(Operating-System)/OS~Linux.personal|OS~Linux.personal]] 
 
-### #is_/same_as :: [OS~Linux.secret](/_secret/Technology/IT/Software/OS(Operating-System)/OS~Linux.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Software/OS(Operating-System)/OS~Linux.secret|OS~Linux.secret]] 
 

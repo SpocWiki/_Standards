@@ -28,17 +28,17 @@ Is named after [[Watt]]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Unit~Watt](/_Standards/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Watt.md) 
+### #is_/same_as :: [[/_Standards/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Watt|Unit~Watt]] 
 
-### #is_/same_as :: [Unit~Watt.public](/_public/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Watt.public.md) 
+### #is_/same_as :: [[/_public/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Watt.public|Unit~Watt.public]] 
 
-### #is_/same_as :: [Unit~Watt.internal](/_internal/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Watt.internal.md) 
+### #is_/same_as :: [[/_internal/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Watt.internal|Unit~Watt.internal]] 
 
-### #is_/same_as :: [Unit~Watt.protect](/_protect/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Watt.protect.md) 
+### #is_/same_as :: [[/_protect/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Watt.protect|Unit~Watt.protect]] 
 
-### #is_/same_as :: [Unit~Watt.private](/_private/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Watt.private.md) 
+### #is_/same_as :: [[/_private/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Watt.private|Unit~Watt.private]] 
 
-### #is_/same_as :: [Unit~Watt.personal](/_personal/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Watt.personal.md) 
+### #is_/same_as :: [[/_personal/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Watt.personal|Unit~Watt.personal]] 
 
-### #is_/same_as :: [Unit~Watt.secret](/_secret/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Watt.secret.md)
+### #is_/same_as :: [[/_secret/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Watt.secret|Unit~Watt.secret]] 
 

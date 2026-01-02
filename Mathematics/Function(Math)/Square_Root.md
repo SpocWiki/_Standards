@@ -83,17 +83,17 @@ Commons_category: Square root
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Square_Root](/_Standards/Mathematics/Function(Math)/Square_Root.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Function(Math)/Square_Root|Square_Root]] 
 
-### #is_/same_as :: [Square_Root.public](/_public/Mathematics/Function(Math)/Square_Root.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Function(Math)/Square_Root.public|Square_Root.public]] 
 
-### #is_/same_as :: [Square_Root.internal](/_internal/Mathematics/Function(Math)/Square_Root.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Function(Math)/Square_Root.internal|Square_Root.internal]] 
 
-### #is_/same_as :: [Square_Root.protect](/_protect/Mathematics/Function(Math)/Square_Root.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Function(Math)/Square_Root.protect|Square_Root.protect]] 
 
-### #is_/same_as :: [Square_Root.private](/_private/Mathematics/Function(Math)/Square_Root.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Function(Math)/Square_Root.private|Square_Root.private]] 
 
-### #is_/same_as :: [Square_Root.personal](/_personal/Mathematics/Function(Math)/Square_Root.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Function(Math)/Square_Root.personal|Square_Root.personal]] 
 
-### #is_/same_as :: [Square_Root.secret](/_secret/Mathematics/Function(Math)/Square_Root.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Function(Math)/Square_Root.secret|Square_Root.secret]] 
 

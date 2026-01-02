@@ -40,17 +40,17 @@ A CovidTestingFacility is a [[MedicalClinic]] where testing for the COVID-19 Cor
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~CovidTestingFacility](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~MedicalBusiness/FileClass~MedicalClinic/FileClass~CovidTestingFacility.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~MedicalBusiness/FileClass~MedicalClinic/FileClass~CovidTestingFacility|FileClass~CovidTestingFacility]] 
 
-### #is_/same_as :: [FileClass~CovidTestingFacility.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~MedicalBusiness/FileClass~MedicalClinic/FileClass~CovidTestingFacility.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~MedicalBusiness/FileClass~MedicalClinic/FileClass~CovidTestingFacility.public|FileClass~CovidTestingFacility.public]] 
 
-### #is_/same_as :: [FileClass~CovidTestingFacility.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~MedicalBusiness/FileClass~MedicalClinic/FileClass~CovidTestingFacility.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~MedicalBusiness/FileClass~MedicalClinic/FileClass~CovidTestingFacility.internal|FileClass~CovidTestingFacility.internal]] 
 
-### #is_/same_as :: [FileClass~CovidTestingFacility.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~MedicalBusiness/FileClass~MedicalClinic/FileClass~CovidTestingFacility.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~MedicalBusiness/FileClass~MedicalClinic/FileClass~CovidTestingFacility.protect|FileClass~CovidTestingFacility.protect]] 
 
-### #is_/same_as :: [FileClass~CovidTestingFacility.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~MedicalBusiness/FileClass~MedicalClinic/FileClass~CovidTestingFacility.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~MedicalBusiness/FileClass~MedicalClinic/FileClass~CovidTestingFacility.private|FileClass~CovidTestingFacility.private]] 
 
-### #is_/same_as :: [FileClass~CovidTestingFacility.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~MedicalBusiness/FileClass~MedicalClinic/FileClass~CovidTestingFacility.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~MedicalBusiness/FileClass~MedicalClinic/FileClass~CovidTestingFacility.personal|FileClass~CovidTestingFacility.personal]] 
 
-### #is_/same_as :: [FileClass~CovidTestingFacility.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~MedicalBusiness/FileClass~MedicalClinic/FileClass~CovidTestingFacility.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~MedicalBusiness/FileClass~MedicalClinic/FileClass~CovidTestingFacility.secret|FileClass~CovidTestingFacility.secret]] 
 

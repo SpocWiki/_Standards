@@ -84,17 +84,17 @@ spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Hy-%D5%84%
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [1235-Mali_Empire](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages/CE_1200/1235-Mali_Empire.md) 
+### #is_/same_as :: [[/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages/CE_1200/1235-Mali_Empire|1235-Mali_Empire]] 
 
-### #is_/same_as :: [1235-Mali_Empire.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages/CE_1200/1235-Mali_Empire.public.md) 
+### #is_/same_as :: [[/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages/CE_1200/1235-Mali_Empire.public|1235-Mali_Empire.public]] 
 
-### #is_/same_as :: [1235-Mali_Empire.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages/CE_1200/1235-Mali_Empire.internal.md) 
+### #is_/same_as :: [[/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages/CE_1200/1235-Mali_Empire.internal|1235-Mali_Empire.internal]] 
 
-### #is_/same_as :: [1235-Mali_Empire.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages/CE_1200/1235-Mali_Empire.protect.md) 
+### #is_/same_as :: [[/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages/CE_1200/1235-Mali_Empire.protect|1235-Mali_Empire.protect]] 
 
-### #is_/same_as :: [1235-Mali_Empire.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages/CE_1200/1235-Mali_Empire.private.md) 
+### #is_/same_as :: [[/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages/CE_1200/1235-Mali_Empire.private|1235-Mali_Empire.private]] 
 
-### #is_/same_as :: [1235-Mali_Empire.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages/CE_1200/1235-Mali_Empire.personal.md) 
+### #is_/same_as :: [[/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages/CE_1200/1235-Mali_Empire.personal|1235-Mali_Empire.personal]] 
 
-### #is_/same_as :: [1235-Mali_Empire.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages/CE_1200/1235-Mali_Empire.secret.md)
+### #is_/same_as :: [[/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages/CE_1200/1235-Mali_Empire.secret|1235-Mali_Empire.secret]] 
 

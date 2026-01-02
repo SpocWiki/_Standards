@@ -41,17 +41,17 @@ WordLift_URL: http://data.wordlift.io/wl01714/entity/antibiotics
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Antibacterial](/_Standards/bio/Medicine/Pharmacology/Antibacterial.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Pharmacology/Antibacterial|Antibacterial]] 
 
-### #is_/same_as :: [Antibacterial.public](/_public/bio/Medicine/Pharmacology/Antibacterial.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Pharmacology/Antibacterial.public|Antibacterial.public]] 
 
-### #is_/same_as :: [Antibacterial.internal](/_internal/bio/Medicine/Pharmacology/Antibacterial.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Pharmacology/Antibacterial.internal|Antibacterial.internal]] 
 
-### #is_/same_as :: [Antibacterial.protect](/_protect/bio/Medicine/Pharmacology/Antibacterial.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Pharmacology/Antibacterial.protect|Antibacterial.protect]] 
 
-### #is_/same_as :: [Antibacterial.private](/_private/bio/Medicine/Pharmacology/Antibacterial.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Pharmacology/Antibacterial.private|Antibacterial.private]] 
 
-### #is_/same_as :: [Antibacterial.personal](/_personal/bio/Medicine/Pharmacology/Antibacterial.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Pharmacology/Antibacterial.personal|Antibacterial.personal]] 
 
-### #is_/same_as :: [Antibacterial.secret](/_secret/bio/Medicine/Pharmacology/Antibacterial.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Pharmacology/Antibacterial.secret|Antibacterial.secret]] 
 

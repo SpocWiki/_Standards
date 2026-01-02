@@ -60,17 +60,17 @@ Library_of_Congress_Classification: SF272.C5
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Cheddar_Cheese](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Dairy/Cheese/Cheddar_Cheese.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Home_Economics/Cooking/Food/Dairy/Cheese/Cheddar_Cheese|Cheddar_Cheese]] 
 
-### #is_/same_as :: [Cheddar_Cheese.public](/_public/Society/Economics/Home_Economics/Cooking/Food/Dairy/Cheese/Cheddar_Cheese.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Home_Economics/Cooking/Food/Dairy/Cheese/Cheddar_Cheese.public|Cheddar_Cheese.public]] 
 
-### #is_/same_as :: [Cheddar_Cheese.internal](/_internal/Society/Economics/Home_Economics/Cooking/Food/Dairy/Cheese/Cheddar_Cheese.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Home_Economics/Cooking/Food/Dairy/Cheese/Cheddar_Cheese.internal|Cheddar_Cheese.internal]] 
 
-### #is_/same_as :: [Cheddar_Cheese.protect](/_protect/Society/Economics/Home_Economics/Cooking/Food/Dairy/Cheese/Cheddar_Cheese.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Home_Economics/Cooking/Food/Dairy/Cheese/Cheddar_Cheese.protect|Cheddar_Cheese.protect]] 
 
-### #is_/same_as :: [Cheddar_Cheese.private](/_private/Society/Economics/Home_Economics/Cooking/Food/Dairy/Cheese/Cheddar_Cheese.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Home_Economics/Cooking/Food/Dairy/Cheese/Cheddar_Cheese.private|Cheddar_Cheese.private]] 
 
-### #is_/same_as :: [Cheddar_Cheese.personal](/_personal/Society/Economics/Home_Economics/Cooking/Food/Dairy/Cheese/Cheddar_Cheese.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Home_Economics/Cooking/Food/Dairy/Cheese/Cheddar_Cheese.personal|Cheddar_Cheese.personal]] 
 
-### #is_/same_as :: [Cheddar_Cheese.secret](/_secret/Society/Economics/Home_Economics/Cooking/Food/Dairy/Cheese/Cheddar_Cheese.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Home_Economics/Cooking/Food/Dairy/Cheese/Cheddar_Cheese.secret|Cheddar_Cheese.secret]] 
 

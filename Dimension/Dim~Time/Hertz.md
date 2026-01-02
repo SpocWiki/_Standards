@@ -51,17 +51,17 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/FrequencyAnimationSyme
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hertz](/_Standards/Dimension/Dim~Time/Hertz.md) 
+### #is_/same_as :: [[/_Standards/Dimension/Dim~Time/Hertz|Hertz]] 
 
-### #is_/same_as :: [Hertz.public](/_public/Dimension/Dim~Time/Hertz.public.md) 
+### #is_/same_as :: [[/_public/Dimension/Dim~Time/Hertz.public|Hertz.public]] 
 
-### #is_/same_as :: [Hertz.internal](/_internal/Dimension/Dim~Time/Hertz.internal.md) 
+### #is_/same_as :: [[/_internal/Dimension/Dim~Time/Hertz.internal|Hertz.internal]] 
 
-### #is_/same_as :: [Hertz.protect](/_protect/Dimension/Dim~Time/Hertz.protect.md) 
+### #is_/same_as :: [[/_protect/Dimension/Dim~Time/Hertz.protect|Hertz.protect]] 
 
-### #is_/same_as :: [Hertz.private](/_private/Dimension/Dim~Time/Hertz.private.md) 
+### #is_/same_as :: [[/_private/Dimension/Dim~Time/Hertz.private|Hertz.private]] 
 
-### #is_/same_as :: [Hertz.personal](/_personal/Dimension/Dim~Time/Hertz.personal.md) 
+### #is_/same_as :: [[/_personal/Dimension/Dim~Time/Hertz.personal|Hertz.personal]] 
 
-### #is_/same_as :: [Hertz.secret](/_secret/Dimension/Dim~Time/Hertz.secret.md)
+### #is_/same_as :: [[/_secret/Dimension/Dim~Time/Hertz.secret|Hertz.secret]] 
 

@@ -111,17 +111,17 @@ OpenStreetMap_tag: man_made=water_well
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Water_Well](/_Standards/bio/Ecology/Water_Management/Water_Well.md) 
+### #is_/same_as :: [[/_Standards/bio/Ecology/Water_Management/Water_Well|Water_Well]] 
 
-### #is_/same_as :: [Water_Well.public](/_public/bio/Ecology/Water_Management/Water_Well.public.md) 
+### #is_/same_as :: [[/_public/bio/Ecology/Water_Management/Water_Well.public|Water_Well.public]] 
 
-### #is_/same_as :: [Water_Well.internal](/_internal/bio/Ecology/Water_Management/Water_Well.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Ecology/Water_Management/Water_Well.internal|Water_Well.internal]] 
 
-### #is_/same_as :: [Water_Well.protect](/_protect/bio/Ecology/Water_Management/Water_Well.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Ecology/Water_Management/Water_Well.protect|Water_Well.protect]] 
 
-### #is_/same_as :: [Water_Well.private](/_private/bio/Ecology/Water_Management/Water_Well.private.md) 
+### #is_/same_as :: [[/_private/bio/Ecology/Water_Management/Water_Well.private|Water_Well.private]] 
 
-### #is_/same_as :: [Water_Well.personal](/_personal/bio/Ecology/Water_Management/Water_Well.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Ecology/Water_Management/Water_Well.personal|Water_Well.personal]] 
 
-### #is_/same_as :: [Water_Well.secret](/_secret/bio/Ecology/Water_Management/Water_Well.secret.md)
+### #is_/same_as :: [[/_secret/bio/Ecology/Water_Management/Water_Well.secret|Water_Well.secret]] 
 

@@ -22,17 +22,17 @@ The jump table can be modified to point to user-written routines, for example to
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [KERNAL](/_Standards/Technology/IT/Software/OS(Operating-System)/KERNAL.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Software/OS(Operating-System)/KERNAL|KERNAL]] 
 
-### #is_/same_as :: [KERNAL.public](/_public/Technology/IT/Software/OS(Operating-System)/KERNAL.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Software/OS(Operating-System)/KERNAL.public|KERNAL.public]] 
 
-### #is_/same_as :: [KERNAL.internal](/_internal/Technology/IT/Software/OS(Operating-System)/KERNAL.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Software/OS(Operating-System)/KERNAL.internal|KERNAL.internal]] 
 
-### #is_/same_as :: [KERNAL.protect](/_protect/Technology/IT/Software/OS(Operating-System)/KERNAL.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Software/OS(Operating-System)/KERNAL.protect|KERNAL.protect]] 
 
-### #is_/same_as :: [KERNAL.private](/_private/Technology/IT/Software/OS(Operating-System)/KERNAL.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Software/OS(Operating-System)/KERNAL.private|KERNAL.private]] 
 
-### #is_/same_as :: [KERNAL.personal](/_personal/Technology/IT/Software/OS(Operating-System)/KERNAL.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Software/OS(Operating-System)/KERNAL.personal|KERNAL.personal]] 
 
-### #is_/same_as :: [KERNAL.secret](/_secret/Technology/IT/Software/OS(Operating-System)/KERNAL.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Software/OS(Operating-System)/KERNAL.secret|KERNAL.secret]] 
 

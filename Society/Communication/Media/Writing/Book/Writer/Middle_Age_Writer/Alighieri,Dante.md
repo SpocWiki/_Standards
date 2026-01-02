@@ -222,17 +222,17 @@ writing_language:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Alighieri,Dante](/_Standards/Society/Communication/Media/Writing/Book/Writer/Middle_Age_Writer/Alighieri,Dante.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Writer/Middle_Age_Writer/Alighieri,Dante|Alighieri,Dante]] 
 
-### #is_/same_as :: [Alighieri,Dante.public](/_public/Society/Communication/Media/Writing/Book/Writer/Middle_Age_Writer/Alighieri,Dante.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Writer/Middle_Age_Writer/Alighieri,Dante.public|Alighieri,Dante.public]] 
 
-### #is_/same_as :: [Alighieri,Dante.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/Middle_Age_Writer/Alighieri,Dante.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Writer/Middle_Age_Writer/Alighieri,Dante.internal|Alighieri,Dante.internal]] 
 
-### #is_/same_as :: [Alighieri,Dante.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/Middle_Age_Writer/Alighieri,Dante.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Writer/Middle_Age_Writer/Alighieri,Dante.protect|Alighieri,Dante.protect]] 
 
-### #is_/same_as :: [Alighieri,Dante.private](/_private/Society/Communication/Media/Writing/Book/Writer/Middle_Age_Writer/Alighieri,Dante.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Writer/Middle_Age_Writer/Alighieri,Dante.private|Alighieri,Dante.private]] 
 
-### #is_/same_as :: [Alighieri,Dante.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/Middle_Age_Writer/Alighieri,Dante.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Writer/Middle_Age_Writer/Alighieri,Dante.personal|Alighieri,Dante.personal]] 
 
-### #is_/same_as :: [Alighieri,Dante.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/Middle_Age_Writer/Alighieri,Dante.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Writer/Middle_Age_Writer/Alighieri,Dante.secret|Alighieri,Dante.secret]] 
 

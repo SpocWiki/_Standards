@@ -33,17 +33,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Jurassic_World](/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Jurassic_World.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Jurassic_World|Jurassic_World]] 
 
-### #is_/same_as :: [Jurassic_World.public](/_public/Society/Communication/Media/Movie/Actor/US_Actor/Jurassic_World.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Actor/US_Actor/Jurassic_World.public|Jurassic_World.public]] 
 
-### #is_/same_as :: [Jurassic_World.internal](/_internal/Society/Communication/Media/Movie/Actor/US_Actor/Jurassic_World.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Actor/US_Actor/Jurassic_World.internal|Jurassic_World.internal]] 
 
-### #is_/same_as :: [Jurassic_World.protect](/_protect/Society/Communication/Media/Movie/Actor/US_Actor/Jurassic_World.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Actor/US_Actor/Jurassic_World.protect|Jurassic_World.protect]] 
 
-### #is_/same_as :: [Jurassic_World.private](/_private/Society/Communication/Media/Movie/Actor/US_Actor/Jurassic_World.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Actor/US_Actor/Jurassic_World.private|Jurassic_World.private]] 
 
-### #is_/same_as :: [Jurassic_World.personal](/_personal/Society/Communication/Media/Movie/Actor/US_Actor/Jurassic_World.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Actor/US_Actor/Jurassic_World.personal|Jurassic_World.personal]] 
 
-### #is_/same_as :: [Jurassic_World.secret](/_secret/Society/Communication/Media/Movie/Actor/US_Actor/Jurassic_World.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Actor/US_Actor/Jurassic_World.secret|Jurassic_World.secret]] 
 

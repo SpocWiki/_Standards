@@ -46,17 +46,17 @@ official_name: Reticulum
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Zodiac~Reticulum](/_Standards/Astronomy/Star~Constellation/Zodiac~Reticulum.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Star~Constellation/Zodiac~Reticulum|Zodiac~Reticulum]] 
 
-### #is_/same_as :: [Zodiac~Reticulum.public](/_public/Astronomy/Star~Constellation/Zodiac~Reticulum.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Star~Constellation/Zodiac~Reticulum.public|Zodiac~Reticulum.public]] 
 
-### #is_/same_as :: [Zodiac~Reticulum.internal](/_internal/Astronomy/Star~Constellation/Zodiac~Reticulum.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Star~Constellation/Zodiac~Reticulum.internal|Zodiac~Reticulum.internal]] 
 
-### #is_/same_as :: [Zodiac~Reticulum.protect](/_protect/Astronomy/Star~Constellation/Zodiac~Reticulum.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Star~Constellation/Zodiac~Reticulum.protect|Zodiac~Reticulum.protect]] 
 
-### #is_/same_as :: [Zodiac~Reticulum.private](/_private/Astronomy/Star~Constellation/Zodiac~Reticulum.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Star~Constellation/Zodiac~Reticulum.private|Zodiac~Reticulum.private]] 
 
-### #is_/same_as :: [Zodiac~Reticulum.personal](/_personal/Astronomy/Star~Constellation/Zodiac~Reticulum.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Star~Constellation/Zodiac~Reticulum.personal|Zodiac~Reticulum.personal]] 
 
-### #is_/same_as :: [Zodiac~Reticulum.secret](/_secret/Astronomy/Star~Constellation/Zodiac~Reticulum.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Star~Constellation/Zodiac~Reticulum.secret|Zodiac~Reticulum.secret]] 
 

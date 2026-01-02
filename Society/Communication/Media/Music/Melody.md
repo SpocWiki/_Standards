@@ -54,17 +54,17 @@ Krugosvet_article_archived_: kultura_i_obrazovanie/muzyka/MELODIYA.html
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Melody](/_Standards/Society/Communication/Media/Music/Melody.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Melody|Melody]] 
 
-### #is_/same_as :: [Melody.public](/_public/Society/Communication/Media/Music/Melody.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Melody.public|Melody.public]] 
 
-### #is_/same_as :: [Melody.internal](/_internal/Society/Communication/Media/Music/Melody.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Melody.internal|Melody.internal]] 
 
-### #is_/same_as :: [Melody.protect](/_protect/Society/Communication/Media/Music/Melody.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Melody.protect|Melody.protect]] 
 
-### #is_/same_as :: [Melody.private](/_private/Society/Communication/Media/Music/Melody.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Melody.private|Melody.private]] 
 
-### #is_/same_as :: [Melody.personal](/_personal/Society/Communication/Media/Music/Melody.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Melody.personal|Melody.personal]] 
 
-### #is_/same_as :: [Melody.secret](/_secret/Society/Communication/Media/Music/Melody.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Melody.secret|Melody.secret]] 
 

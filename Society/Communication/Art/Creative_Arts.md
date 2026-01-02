@@ -12,17 +12,17 @@ and advertising**, blending artistry with **innovation and commercial applicatio
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Creative_Arts](/_Standards/Society/Communication/Art/Creative_Arts.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Art/Creative_Arts|Creative_Arts]] 
 
-### #is_/same_as :: [Creative_Arts.public](/_public/Society/Communication/Art/Creative_Arts.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Art/Creative_Arts.public|Creative_Arts.public]] 
 
-### #is_/same_as :: [Creative_Arts.internal](/_internal/Society/Communication/Art/Creative_Arts.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Art/Creative_Arts.internal|Creative_Arts.internal]] 
 
-### #is_/same_as :: [Creative_Arts.protect](/_protect/Society/Communication/Art/Creative_Arts.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Art/Creative_Arts.protect|Creative_Arts.protect]] 
 
-### #is_/same_as :: [Creative_Arts.private](/_private/Society/Communication/Art/Creative_Arts.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Art/Creative_Arts.private|Creative_Arts.private]] 
 
-### #is_/same_as :: [Creative_Arts.personal](/_personal/Society/Communication/Art/Creative_Arts.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Art/Creative_Arts.personal|Creative_Arts.personal]] 
 
-### #is_/same_as :: [Creative_Arts.secret](/_secret/Society/Communication/Art/Creative_Arts.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Art/Creative_Arts.secret|Creative_Arts.secret]] 
 

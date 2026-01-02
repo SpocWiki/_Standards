@@ -143,17 +143,17 @@ U_S_National_Archives_Identifier: 10582138
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Amundsen,Roald](/_Standards/Earth/Explorer/Modern_Explorer/Amundsen,Roald.md) 
+### #is_/same_as :: [[/_Standards/Earth/Explorer/Modern_Explorer/Amundsen,Roald|Amundsen,Roald]] 
 
-### #is_/same_as :: [Amundsen,Roald.public](/_public/Earth/Explorer/Modern_Explorer/Amundsen,Roald.public.md) 
+### #is_/same_as :: [[/_public/Earth/Explorer/Modern_Explorer/Amundsen,Roald.public|Amundsen,Roald.public]] 
 
-### #is_/same_as :: [Amundsen,Roald.internal](/_internal/Earth/Explorer/Modern_Explorer/Amundsen,Roald.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Explorer/Modern_Explorer/Amundsen,Roald.internal|Amundsen,Roald.internal]] 
 
-### #is_/same_as :: [Amundsen,Roald.protect](/_protect/Earth/Explorer/Modern_Explorer/Amundsen,Roald.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Explorer/Modern_Explorer/Amundsen,Roald.protect|Amundsen,Roald.protect]] 
 
-### #is_/same_as :: [Amundsen,Roald.private](/_private/Earth/Explorer/Modern_Explorer/Amundsen,Roald.private.md) 
+### #is_/same_as :: [[/_private/Earth/Explorer/Modern_Explorer/Amundsen,Roald.private|Amundsen,Roald.private]] 
 
-### #is_/same_as :: [Amundsen,Roald.personal](/_personal/Earth/Explorer/Modern_Explorer/Amundsen,Roald.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Explorer/Modern_Explorer/Amundsen,Roald.personal|Amundsen,Roald.personal]] 
 
-### #is_/same_as :: [Amundsen,Roald.secret](/_secret/Earth/Explorer/Modern_Explorer/Amundsen,Roald.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Explorer/Modern_Explorer/Amundsen,Roald.secret|Amundsen,Roald.secret]] 
 

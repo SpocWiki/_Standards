@@ -51,17 +51,17 @@ Commons_category: Naturalism (philosophy)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Naturalism](/_Standards/Philosophy/Naturalism.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Naturalism|Naturalism]] 
 
-### #is_/same_as :: [Naturalism.public](/_public/Philosophy/Naturalism.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Naturalism.public|Naturalism.public]] 
 
-### #is_/same_as :: [Naturalism.internal](/_internal/Philosophy/Naturalism.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Naturalism.internal|Naturalism.internal]] 
 
-### #is_/same_as :: [Naturalism.protect](/_protect/Philosophy/Naturalism.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Naturalism.protect|Naturalism.protect]] 
 
-### #is_/same_as :: [Naturalism.private](/_private/Philosophy/Naturalism.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Naturalism.private|Naturalism.private]] 
 
-### #is_/same_as :: [Naturalism.personal](/_personal/Philosophy/Naturalism.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Naturalism.personal|Naturalism.personal]] 
 
-### #is_/same_as :: [Naturalism.secret](/_secret/Philosophy/Naturalism.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Naturalism.secret|Naturalism.secret]] 
 

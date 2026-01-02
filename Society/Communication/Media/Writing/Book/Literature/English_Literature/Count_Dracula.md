@@ -162,17 +162,17 @@ date_of_death: 1890-01-01T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Count_Dracula](/_Standards/Society/Communication/Media/Writing/Book/Literature/English_Literature/Count_Dracula.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Literature/English_Literature/Count_Dracula|Count_Dracula]] 
 
-### #is_/same_as :: [Count_Dracula.public](/_public/Society/Communication/Media/Writing/Book/Literature/English_Literature/Count_Dracula.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Literature/English_Literature/Count_Dracula.public|Count_Dracula.public]] 
 
-### #is_/same_as :: [Count_Dracula.internal](/_internal/Society/Communication/Media/Writing/Book/Literature/English_Literature/Count_Dracula.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Literature/English_Literature/Count_Dracula.internal|Count_Dracula.internal]] 
 
-### #is_/same_as :: [Count_Dracula.protect](/_protect/Society/Communication/Media/Writing/Book/Literature/English_Literature/Count_Dracula.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Literature/English_Literature/Count_Dracula.protect|Count_Dracula.protect]] 
 
-### #is_/same_as :: [Count_Dracula.private](/_private/Society/Communication/Media/Writing/Book/Literature/English_Literature/Count_Dracula.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Literature/English_Literature/Count_Dracula.private|Count_Dracula.private]] 
 
-### #is_/same_as :: [Count_Dracula.personal](/_personal/Society/Communication/Media/Writing/Book/Literature/English_Literature/Count_Dracula.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Literature/English_Literature/Count_Dracula.personal|Count_Dracula.personal]] 
 
-### #is_/same_as :: [Count_Dracula.secret](/_secret/Society/Communication/Media/Writing/Book/Literature/English_Literature/Count_Dracula.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Literature/English_Literature/Count_Dracula.secret|Count_Dracula.secret]] 
 

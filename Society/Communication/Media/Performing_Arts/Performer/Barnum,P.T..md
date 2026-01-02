@@ -126,17 +126,17 @@ ISNI: 0000000110351945
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Barnum,P.T.](/_Standards/Society/Communication/Media/Performing_Arts/Performer/Barnum,P.T..md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Performing_Arts/Performer/Barnum,P.T.|Barnum,P.T.]] 
 
-### #is_/same_as :: [Barnum,P.T..public](/_public/Society/Communication/Media/Performing_Arts/Performer/Barnum,P.T..public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Performing_Arts/Performer/Barnum,P.T..public|Barnum,P.T..public]] 
 
-### #is_/same_as :: [Barnum,P.T..internal](/_internal/Society/Communication/Media/Performing_Arts/Performer/Barnum,P.T..internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Performing_Arts/Performer/Barnum,P.T..internal|Barnum,P.T..internal]] 
 
-### #is_/same_as :: [Barnum,P.T..protect](/_protect/Society/Communication/Media/Performing_Arts/Performer/Barnum,P.T..protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Performing_Arts/Performer/Barnum,P.T..protect|Barnum,P.T..protect]] 
 
-### #is_/same_as :: [Barnum,P.T..private](/_private/Society/Communication/Media/Performing_Arts/Performer/Barnum,P.T..private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Performing_Arts/Performer/Barnum,P.T..private|Barnum,P.T..private]] 
 
-### #is_/same_as :: [Barnum,P.T..personal](/_personal/Society/Communication/Media/Performing_Arts/Performer/Barnum,P.T..personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Performing_Arts/Performer/Barnum,P.T..personal|Barnum,P.T..personal]] 
 
-### #is_/same_as :: [Barnum,P.T..secret](/_secret/Society/Communication/Media/Performing_Arts/Performer/Barnum,P.T..secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Performing_Arts/Performer/Barnum,P.T..secret|Barnum,P.T..secret]] 
 

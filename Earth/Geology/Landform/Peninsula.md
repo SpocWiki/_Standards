@@ -42,17 +42,17 @@ OpenStreetMap_tag: natural=peninsula
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Peninsula](/_Standards/Earth/Geology/Landform/Peninsula.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geology/Landform/Peninsula|Peninsula]] 
 
-### #is_/same_as :: [Peninsula.public](/_public/Earth/Geology/Landform/Peninsula.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geology/Landform/Peninsula.public|Peninsula.public]] 
 
-### #is_/same_as :: [Peninsula.internal](/_internal/Earth/Geology/Landform/Peninsula.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geology/Landform/Peninsula.internal|Peninsula.internal]] 
 
-### #is_/same_as :: [Peninsula.protect](/_protect/Earth/Geology/Landform/Peninsula.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geology/Landform/Peninsula.protect|Peninsula.protect]] 
 
-### #is_/same_as :: [Peninsula.private](/_private/Earth/Geology/Landform/Peninsula.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geology/Landform/Peninsula.private|Peninsula.private]] 
 
-### #is_/same_as :: [Peninsula.personal](/_personal/Earth/Geology/Landform/Peninsula.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geology/Landform/Peninsula.personal|Peninsula.personal]] 
 
-### #is_/same_as :: [Peninsula.secret](/_secret/Earth/Geology/Landform/Peninsula.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geology/Landform/Peninsula.secret|Peninsula.secret]] 
 

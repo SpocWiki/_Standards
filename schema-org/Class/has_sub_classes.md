@@ -52,17 +52,17 @@ But typically it is a typed [[../Collection/item_list|item_list]] with sub-class
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_sub_classes](/_Standards/schema-org/Class/has_sub_classes.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Class/has_sub_classes|has_sub_classes]] 
 
-### #is_/same_as :: [has_sub_classes.public](/_public/schema-org/Class/has_sub_classes.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Class/has_sub_classes.public|has_sub_classes.public]] 
 
-### #is_/same_as :: [has_sub_classes.internal](/_internal/schema-org/Class/has_sub_classes.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Class/has_sub_classes.internal|has_sub_classes.internal]] 
 
-### #is_/same_as :: [has_sub_classes.protect](/_protect/schema-org/Class/has_sub_classes.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Class/has_sub_classes.protect|has_sub_classes.protect]] 
 
-### #is_/same_as :: [has_sub_classes.private](/_private/schema-org/Class/has_sub_classes.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Class/has_sub_classes.private|has_sub_classes.private]] 
 
-### #is_/same_as :: [has_sub_classes.personal](/_personal/schema-org/Class/has_sub_classes.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Class/has_sub_classes.personal|has_sub_classes.personal]] 
 
-### #is_/same_as :: [has_sub_classes.secret](/_secret/schema-org/Class/has_sub_classes.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Class/has_sub_classes.secret|has_sub_classes.secret]] 
 

@@ -107,17 +107,17 @@ Williams, G. C. 1986. What are Corals? Sagittarius, 1(2): 11-15.
     collected from shallow water off Pelau. This species belongs to a
     group that consists exclusively of shallow water, zooxanthellate,
     reef corals. (Photograph copyright © D. Faulkner)
-![](Scleractinia/Tubastraea_micrantha.jpg))
+![](Scleractinia/Tubastraea_micrantha.jpg) 
 
   ------
   Copyright ::   © D. Faulkner
   ------
-![](Scleractinia/Letepsammia_formosissima.jpg))
+![](Scleractinia/Letepsammia_formosissima.jpg) 
 
   --------------------
   Copyright ::   © 1986 Gary C. Williams, California Academy of Sciences
   --------------------
-![](Scleractinia/Euphyllia_ancora.jpg))
+![](Scleractinia/Euphyllia_ancora.jpg) 
 
   ------
   Copyright ::   © D. Faulkner
@@ -126,17 +126,17 @@ Williams, G. C. 1986. What are Corals? Sagittarius, 1(2): 11-15.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Scleractinia](/_Standards/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Scleractinia.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Scleractinia|Scleractinia]] 
 
-### #is_/same_as :: [Scleractinia.public](/_public/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Scleractinia.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Scleractinia.public|Scleractinia.public]] 
 
-### #is_/same_as :: [Scleractinia.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Scleractinia.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Scleractinia.internal|Scleractinia.internal]] 
 
-### #is_/same_as :: [Scleractinia.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Scleractinia.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Scleractinia.protect|Scleractinia.protect]] 
 
-### #is_/same_as :: [Scleractinia.private](/_private/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Scleractinia.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Scleractinia.private|Scleractinia.private]] 
 
-### #is_/same_as :: [Scleractinia.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Scleractinia.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Scleractinia.personal|Scleractinia.personal]] 
 
-### #is_/same_as :: [Scleractinia.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Scleractinia.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Scleractinia.secret|Scleractinia.secret]] 
 

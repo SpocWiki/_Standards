@@ -107,17 +107,17 @@ Linguasphere_code: 12-AAB-a
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lang-heb](/_Standards/Language/Language_Family/LangFamily-Afro-Asiatic/LangFamily~Semitic/Lang-heb.md) 
+### #is_/same_as :: [[/_Standards/Language/Language_Family/LangFamily-Afro-Asiatic/LangFamily~Semitic/Lang-heb|Lang-heb]] 
 
-### #is_/same_as :: [Lang-heb.public](/_public/Language/Language_Family/LangFamily-Afro-Asiatic/LangFamily~Semitic/Lang-heb.public.md) 
+### #is_/same_as :: [[/_public/Language/Language_Family/LangFamily-Afro-Asiatic/LangFamily~Semitic/Lang-heb.public|Lang-heb.public]] 
 
-### #is_/same_as :: [Lang-heb.internal](/_internal/Language/Language_Family/LangFamily-Afro-Asiatic/LangFamily~Semitic/Lang-heb.internal.md) 
+### #is_/same_as :: [[/_internal/Language/Language_Family/LangFamily-Afro-Asiatic/LangFamily~Semitic/Lang-heb.internal|Lang-heb.internal]] 
 
-### #is_/same_as :: [Lang-heb.protect](/_protect/Language/Language_Family/LangFamily-Afro-Asiatic/LangFamily~Semitic/Lang-heb.protect.md) 
+### #is_/same_as :: [[/_protect/Language/Language_Family/LangFamily-Afro-Asiatic/LangFamily~Semitic/Lang-heb.protect|Lang-heb.protect]] 
 
-### #is_/same_as :: [Lang-heb.private](/_private/Language/Language_Family/LangFamily-Afro-Asiatic/LangFamily~Semitic/Lang-heb.private.md) 
+### #is_/same_as :: [[/_private/Language/Language_Family/LangFamily-Afro-Asiatic/LangFamily~Semitic/Lang-heb.private|Lang-heb.private]] 
 
-### #is_/same_as :: [Lang-heb.personal](/_personal/Language/Language_Family/LangFamily-Afro-Asiatic/LangFamily~Semitic/Lang-heb.personal.md) 
+### #is_/same_as :: [[/_personal/Language/Language_Family/LangFamily-Afro-Asiatic/LangFamily~Semitic/Lang-heb.personal|Lang-heb.personal]] 
 
-### #is_/same_as :: [Lang-heb.secret](/_secret/Language/Language_Family/LangFamily-Afro-Asiatic/LangFamily~Semitic/Lang-heb.secret.md)
+### #is_/same_as :: [[/_secret/Language/Language_Family/LangFamily-Afro-Asiatic/LangFamily~Semitic/Lang-heb.secret|Lang-heb.secret]] 
 

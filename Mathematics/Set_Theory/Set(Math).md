@@ -66,17 +66,17 @@ is a Subset of the [[../../../Knowledge/Math/Product-Set|Cartesian Product]] of 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Set(Math)](/_Standards/Mathematics/Set_Theory/Set(Math).md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Set_Theory/Set(Math)|Set(Math)]] 
 
-### #is_/same_as :: [Set(Math).public](/_public/Mathematics/Set_Theory/Set(Math).public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Set_Theory/Set(Math).public|Set(Math).public]] 
 
-### #is_/same_as :: [Set(Math).internal](/_internal/Mathematics/Set_Theory/Set(Math).internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Set_Theory/Set(Math).internal|Set(Math).internal]] 
 
-### #is_/same_as :: [Set(Math).protect](/_protect/Mathematics/Set_Theory/Set(Math).protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Set_Theory/Set(Math).protect|Set(Math).protect]] 
 
-### #is_/same_as :: [Set(Math).private](/_private/Mathematics/Set_Theory/Set(Math).private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Set_Theory/Set(Math).private|Set(Math).private]] 
 
-### #is_/same_as :: [Set(Math).personal](/_personal/Mathematics/Set_Theory/Set(Math).personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Set_Theory/Set(Math).personal|Set(Math).personal]] 
 
-### #is_/same_as :: [Set(Math).secret](/_secret/Mathematics/Set_Theory/Set(Math).secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Set_Theory/Set(Math).secret|Set(Math).secret]] 
 

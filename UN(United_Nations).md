@@ -298,17 +298,17 @@ Libris_URI: vs686bpd13rcfvg
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [UN(United_Nations)](/_Standards/UN(United_Nations).md) 
+### #is_/same_as :: [[/_Standards/UN(United_Nations)|UN(United_Nations)]] 
 
-### #is_/same_as :: [UN(United_Nations).public](/_public/UN(United_Nations).public.md) 
+### #is_/same_as :: [[/_public/UN(United_Nations).public|UN(United_Nations).public]] 
 
-### #is_/same_as :: [UN(United_Nations).internal](/_internal/UN(United_Nations).internal.md) 
+### #is_/same_as :: [[/_internal/UN(United_Nations).internal|UN(United_Nations).internal]] 
 
-### #is_/same_as :: [UN(United_Nations).protect](/_protect/UN(United_Nations).protect.md) 
+### #is_/same_as :: [[/_protect/UN(United_Nations).protect|UN(United_Nations).protect]] 
 
-### #is_/same_as :: [UN(United_Nations).private](/_private/UN(United_Nations).private.md) 
+### #is_/same_as :: [[/_private/UN(United_Nations).private|UN(United_Nations).private]] 
 
-### #is_/same_as :: [UN(United_Nations).personal](/_personal/UN(United_Nations).personal.md) 
+### #is_/same_as :: [[/_personal/UN(United_Nations).personal|UN(United_Nations).personal]] 
 
-### #is_/same_as :: [UN(United_Nations).secret](/_secret/UN(United_Nations).secret.md)
+### #is_/same_as :: [[/_secret/UN(United_Nations).secret|UN(United_Nations).secret]] 
 

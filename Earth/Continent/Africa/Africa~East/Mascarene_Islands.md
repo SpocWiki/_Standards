@@ -64,17 +64,17 @@ Commons_category: Mascarene Islands
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Mascarene_Islands](/_Standards/Earth/Continent/Africa/Africa~East/Mascarene_Islands.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~East/Mascarene_Islands|Mascarene_Islands]] 
 
-### #is_/same_as :: [Mascarene_Islands.public](/_public/Earth/Continent/Africa/Africa~East/Mascarene_Islands.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~East/Mascarene_Islands.public|Mascarene_Islands.public]] 
 
-### #is_/same_as :: [Mascarene_Islands.internal](/_internal/Earth/Continent/Africa/Africa~East/Mascarene_Islands.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~East/Mascarene_Islands.internal|Mascarene_Islands.internal]] 
 
-### #is_/same_as :: [Mascarene_Islands.protect](/_protect/Earth/Continent/Africa/Africa~East/Mascarene_Islands.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~East/Mascarene_Islands.protect|Mascarene_Islands.protect]] 
 
-### #is_/same_as :: [Mascarene_Islands.private](/_private/Earth/Continent/Africa/Africa~East/Mascarene_Islands.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~East/Mascarene_Islands.private|Mascarene_Islands.private]] 
 
-### #is_/same_as :: [Mascarene_Islands.personal](/_personal/Earth/Continent/Africa/Africa~East/Mascarene_Islands.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~East/Mascarene_Islands.personal|Mascarene_Islands.personal]] 
 
-### #is_/same_as :: [Mascarene_Islands.secret](/_secret/Earth/Continent/Africa/Africa~East/Mascarene_Islands.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~East/Mascarene_Islands.secret|Mascarene_Islands.secret]] 
 

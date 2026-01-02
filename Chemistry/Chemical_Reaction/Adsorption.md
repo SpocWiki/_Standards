@@ -25,17 +25,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Adsorption](/_Standards/Chemistry/Chemical_Reaction/Adsorption.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Chemical_Reaction/Adsorption|Adsorption]] 
 
-### #is_/same_as :: [Adsorption.public](/_public/Chemistry/Chemical_Reaction/Adsorption.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Chemical_Reaction/Adsorption.public|Adsorption.public]] 
 
-### #is_/same_as :: [Adsorption.internal](/_internal/Chemistry/Chemical_Reaction/Adsorption.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Chemical_Reaction/Adsorption.internal|Adsorption.internal]] 
 
-### #is_/same_as :: [Adsorption.protect](/_protect/Chemistry/Chemical_Reaction/Adsorption.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Chemical_Reaction/Adsorption.protect|Adsorption.protect]] 
 
-### #is_/same_as :: [Adsorption.private](/_private/Chemistry/Chemical_Reaction/Adsorption.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Chemical_Reaction/Adsorption.private|Adsorption.private]] 
 
-### #is_/same_as :: [Adsorption.personal](/_personal/Chemistry/Chemical_Reaction/Adsorption.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Chemical_Reaction/Adsorption.personal|Adsorption.personal]] 
 
-### #is_/same_as :: [Adsorption.secret](/_secret/Chemistry/Chemical_Reaction/Adsorption.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Chemical_Reaction/Adsorption.secret|Adsorption.secret]] 
 

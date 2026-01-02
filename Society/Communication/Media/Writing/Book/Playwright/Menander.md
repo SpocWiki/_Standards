@@ -93,17 +93,17 @@ Royal_Academy_new_identifier: menander
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Menander](/_Standards/Society/Communication/Media/Writing/Book/Playwright/Menander.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Playwright/Menander|Menander]] 
 
-### #is_/same_as :: [Menander.public](/_public/Society/Communication/Media/Writing/Book/Playwright/Menander.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Playwright/Menander.public|Menander.public]] 
 
-### #is_/same_as :: [Menander.internal](/_internal/Society/Communication/Media/Writing/Book/Playwright/Menander.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Playwright/Menander.internal|Menander.internal]] 
 
-### #is_/same_as :: [Menander.protect](/_protect/Society/Communication/Media/Writing/Book/Playwright/Menander.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Playwright/Menander.protect|Menander.protect]] 
 
-### #is_/same_as :: [Menander.private](/_private/Society/Communication/Media/Writing/Book/Playwright/Menander.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Playwright/Menander.private|Menander.private]] 
 
-### #is_/same_as :: [Menander.personal](/_personal/Society/Communication/Media/Writing/Book/Playwright/Menander.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Playwright/Menander.personal|Menander.personal]] 
 
-### #is_/same_as :: [Menander.secret](/_secret/Society/Communication/Media/Writing/Book/Playwright/Menander.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Playwright/Menander.secret|Menander.secret]] 
 

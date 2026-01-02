@@ -91,17 +91,17 @@ date_of_birth: 1917-08-22T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hooker,John_Lee](/_Standards/Society/Communication/Media/Music/Musician/Singer/Blues_Singer/Hooker,John_Lee.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Musician/Singer/Blues_Singer/Hooker,John_Lee|Hooker,John_Lee]] 
 
-### #is_/same_as :: [Hooker,John_Lee.public](/_public/Society/Communication/Media/Music/Musician/Singer/Blues_Singer/Hooker,John_Lee.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Musician/Singer/Blues_Singer/Hooker,John_Lee.public|Hooker,John_Lee.public]] 
 
-### #is_/same_as :: [Hooker,John_Lee.internal](/_internal/Society/Communication/Media/Music/Musician/Singer/Blues_Singer/Hooker,John_Lee.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Musician/Singer/Blues_Singer/Hooker,John_Lee.internal|Hooker,John_Lee.internal]] 
 
-### #is_/same_as :: [Hooker,John_Lee.protect](/_protect/Society/Communication/Media/Music/Musician/Singer/Blues_Singer/Hooker,John_Lee.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Musician/Singer/Blues_Singer/Hooker,John_Lee.protect|Hooker,John_Lee.protect]] 
 
-### #is_/same_as :: [Hooker,John_Lee.private](/_private/Society/Communication/Media/Music/Musician/Singer/Blues_Singer/Hooker,John_Lee.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Musician/Singer/Blues_Singer/Hooker,John_Lee.private|Hooker,John_Lee.private]] 
 
-### #is_/same_as :: [Hooker,John_Lee.personal](/_personal/Society/Communication/Media/Music/Musician/Singer/Blues_Singer/Hooker,John_Lee.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Musician/Singer/Blues_Singer/Hooker,John_Lee.personal|Hooker,John_Lee.personal]] 
 
-### #is_/same_as :: [Hooker,John_Lee.secret](/_secret/Society/Communication/Media/Music/Musician/Singer/Blues_Singer/Hooker,John_Lee.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Musician/Singer/Blues_Singer/Hooker,John_Lee.secret|Hooker,John_Lee.secret]] 
 

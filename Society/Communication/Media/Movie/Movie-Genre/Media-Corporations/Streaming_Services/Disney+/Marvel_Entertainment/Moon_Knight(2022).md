@@ -71,17 +71,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Moon_Knight(2022)](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Disney+/Marvel_Entertainment/Moon_Knight(2022).md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Disney+/Marvel_Entertainment/Moon_Knight(2022)|Moon_Knight(2022)]] 
 
-### #is_/same_as :: [Moon_Knight(2022).public](/_public/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Disney+/Marvel_Entertainment/Moon_Knight(2022).public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Disney+/Marvel_Entertainment/Moon_Knight(2022).public|Moon_Knight(2022).public]] 
 
-### #is_/same_as :: [Moon_Knight(2022).internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Disney+/Marvel_Entertainment/Moon_Knight(2022).internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Disney+/Marvel_Entertainment/Moon_Knight(2022).internal|Moon_Knight(2022).internal]] 
 
-### #is_/same_as :: [Moon_Knight(2022).protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Disney+/Marvel_Entertainment/Moon_Knight(2022).protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Disney+/Marvel_Entertainment/Moon_Knight(2022).protect|Moon_Knight(2022).protect]] 
 
-### #is_/same_as :: [Moon_Knight(2022).private](/_private/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Disney+/Marvel_Entertainment/Moon_Knight(2022).private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Disney+/Marvel_Entertainment/Moon_Knight(2022).private|Moon_Knight(2022).private]] 
 
-### #is_/same_as :: [Moon_Knight(2022).personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Disney+/Marvel_Entertainment/Moon_Knight(2022).personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Disney+/Marvel_Entertainment/Moon_Knight(2022).personal|Moon_Knight(2022).personal]] 
 
-### #is_/same_as :: [Moon_Knight(2022).secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Disney+/Marvel_Entertainment/Moon_Knight(2022).secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Disney+/Marvel_Entertainment/Moon_Knight(2022).secret|Moon_Knight(2022).secret]] 
 

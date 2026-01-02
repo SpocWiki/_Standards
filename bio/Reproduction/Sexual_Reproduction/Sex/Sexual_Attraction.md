@@ -52,17 +52,17 @@ Commons_category: Sexual attraction
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sexual_Attraction](/_Standards/bio/Reproduction/Sexual_Reproduction/Sex/Sexual_Attraction.md) 
+### #is_/same_as :: [[/_Standards/bio/Reproduction/Sexual_Reproduction/Sex/Sexual_Attraction|Sexual_Attraction]] 
 
-### #is_/same_as :: [Sexual_Attraction.public](/_public/bio/Reproduction/Sexual_Reproduction/Sex/Sexual_Attraction.public.md) 
+### #is_/same_as :: [[/_public/bio/Reproduction/Sexual_Reproduction/Sex/Sexual_Attraction.public|Sexual_Attraction.public]] 
 
-### #is_/same_as :: [Sexual_Attraction.internal](/_internal/bio/Reproduction/Sexual_Reproduction/Sex/Sexual_Attraction.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Reproduction/Sexual_Reproduction/Sex/Sexual_Attraction.internal|Sexual_Attraction.internal]] 
 
-### #is_/same_as :: [Sexual_Attraction.protect](/_protect/bio/Reproduction/Sexual_Reproduction/Sex/Sexual_Attraction.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Reproduction/Sexual_Reproduction/Sex/Sexual_Attraction.protect|Sexual_Attraction.protect]] 
 
-### #is_/same_as :: [Sexual_Attraction.private](/_private/bio/Reproduction/Sexual_Reproduction/Sex/Sexual_Attraction.private.md) 
+### #is_/same_as :: [[/_private/bio/Reproduction/Sexual_Reproduction/Sex/Sexual_Attraction.private|Sexual_Attraction.private]] 
 
-### #is_/same_as :: [Sexual_Attraction.personal](/_personal/bio/Reproduction/Sexual_Reproduction/Sex/Sexual_Attraction.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Reproduction/Sexual_Reproduction/Sex/Sexual_Attraction.personal|Sexual_Attraction.personal]] 
 
-### #is_/same_as :: [Sexual_Attraction.secret](/_secret/bio/Reproduction/Sexual_Reproduction/Sex/Sexual_Attraction.secret.md)
+### #is_/same_as :: [[/_secret/bio/Reproduction/Sexual_Reproduction/Sex/Sexual_Attraction.secret|Sexual_Attraction.secret]] 
 

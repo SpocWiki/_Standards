@@ -44,17 +44,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_id_vat](/_Standards/schema-org/Property/has_name/has_id_vat.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_name/has_id_vat|has_id_vat]] 
 
-### #is_/same_as :: [has_id_vat.public](/_public/schema-org/Property/has_name/has_id_vat.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/has_name/has_id_vat.public|has_id_vat.public]] 
 
-### #is_/same_as :: [has_id_vat.internal](/_internal/schema-org/Property/has_name/has_id_vat.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_name/has_id_vat.internal|has_id_vat.internal]] 
 
-### #is_/same_as :: [has_id_vat.protect](/_protect/schema-org/Property/has_name/has_id_vat.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_name/has_id_vat.protect|has_id_vat.protect]] 
 
-### #is_/same_as :: [has_id_vat.private](/_private/schema-org/Property/has_name/has_id_vat.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/has_name/has_id_vat.private|has_id_vat.private]] 
 
-### #is_/same_as :: [has_id_vat.personal](/_personal/schema-org/Property/has_name/has_id_vat.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_name/has_id_vat.personal|has_id_vat.personal]] 
 
-### #is_/same_as :: [has_id_vat.secret](/_secret/schema-org/Property/has_name/has_id_vat.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/has_name/has_id_vat.secret|has_id_vat.secret]] 
 

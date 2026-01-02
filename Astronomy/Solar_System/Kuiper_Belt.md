@@ -41,17 +41,17 @@ subreddit: Kuiperbelt
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Kuiper_Belt](/_Standards/Astronomy/Solar_System/Kuiper_Belt.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Solar_System/Kuiper_Belt|Kuiper_Belt]] 
 
-### #is_/same_as :: [Kuiper_Belt.public](/_public/Astronomy/Solar_System/Kuiper_Belt.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Solar_System/Kuiper_Belt.public|Kuiper_Belt.public]] 
 
-### #is_/same_as :: [Kuiper_Belt.internal](/_internal/Astronomy/Solar_System/Kuiper_Belt.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Solar_System/Kuiper_Belt.internal|Kuiper_Belt.internal]] 
 
-### #is_/same_as :: [Kuiper_Belt.protect](/_protect/Astronomy/Solar_System/Kuiper_Belt.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Solar_System/Kuiper_Belt.protect|Kuiper_Belt.protect]] 
 
-### #is_/same_as :: [Kuiper_Belt.private](/_private/Astronomy/Solar_System/Kuiper_Belt.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Solar_System/Kuiper_Belt.private|Kuiper_Belt.private]] 
 
-### #is_/same_as :: [Kuiper_Belt.personal](/_personal/Astronomy/Solar_System/Kuiper_Belt.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Solar_System/Kuiper_Belt.personal|Kuiper_Belt.personal]] 
 
-### #is_/same_as :: [Kuiper_Belt.secret](/_secret/Astronomy/Solar_System/Kuiper_Belt.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Solar_System/Kuiper_Belt.secret|Kuiper_Belt.secret]] 
 

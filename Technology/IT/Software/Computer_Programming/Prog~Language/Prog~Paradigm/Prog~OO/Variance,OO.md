@@ -137,17 +137,17 @@ so it is a contravariant functor in the first parameter and a covariant functor 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Variance,OO](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/Variance,OO.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/Variance,OO|Variance,OO]] 
 
-### #is_/same_as :: [Variance,OO.public](/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/Variance,OO.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/Variance,OO.public|Variance,OO.public]] 
 
-### #is_/same_as :: [Variance,OO.internal](/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/Variance,OO.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/Variance,OO.internal|Variance,OO.internal]] 
 
-### #is_/same_as :: [Variance,OO.protect](/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/Variance,OO.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/Variance,OO.protect|Variance,OO.protect]] 
 
-### #is_/same_as :: [Variance,OO.private](/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/Variance,OO.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/Variance,OO.private|Variance,OO.private]] 
 
-### #is_/same_as :: [Variance,OO.personal](/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/Variance,OO.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/Variance,OO.personal|Variance,OO.personal]] 
 
-### #is_/same_as :: [Variance,OO.secret](/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/Variance,OO.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/Variance,OO.secret|Variance,OO.secret]] 
 

@@ -72,17 +72,17 @@ Dewey_Decimal_Classification:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Oil_Shale](/_Standards/Society/Economics/Industry/Oil_Industry/Oil_Shale.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Industry/Oil_Industry/Oil_Shale|Oil_Shale]] 
 
-### #is_/same_as :: [Oil_Shale.public](/_public/Society/Economics/Industry/Oil_Industry/Oil_Shale.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Industry/Oil_Industry/Oil_Shale.public|Oil_Shale.public]] 
 
-### #is_/same_as :: [Oil_Shale.internal](/_internal/Society/Economics/Industry/Oil_Industry/Oil_Shale.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Industry/Oil_Industry/Oil_Shale.internal|Oil_Shale.internal]] 
 
-### #is_/same_as :: [Oil_Shale.protect](/_protect/Society/Economics/Industry/Oil_Industry/Oil_Shale.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Industry/Oil_Industry/Oil_Shale.protect|Oil_Shale.protect]] 
 
-### #is_/same_as :: [Oil_Shale.private](/_private/Society/Economics/Industry/Oil_Industry/Oil_Shale.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Industry/Oil_Industry/Oil_Shale.private|Oil_Shale.private]] 
 
-### #is_/same_as :: [Oil_Shale.personal](/_personal/Society/Economics/Industry/Oil_Industry/Oil_Shale.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Industry/Oil_Industry/Oil_Shale.personal|Oil_Shale.personal]] 
 
-### #is_/same_as :: [Oil_Shale.secret](/_secret/Society/Economics/Industry/Oil_Industry/Oil_Shale.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Industry/Oil_Industry/Oil_Shale.secret|Oil_Shale.secret]] 
 

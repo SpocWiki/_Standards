@@ -4,17 +4,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Enlightenment_Writer](/_Standards/Society/Communication/Media/Writing/Book/Writer/Enlightenment_Writer.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Writer/Enlightenment_Writer|Enlightenment_Writer]] 
 
-### #is_/same_as :: [Enlightenment_Writer.public](/_public/Society/Communication/Media/Writing/Book/Writer/Enlightenment_Writer.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Writer/Enlightenment_Writer.public|Enlightenment_Writer.public]] 
 
-### #is_/same_as :: [Enlightenment_Writer.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/Enlightenment_Writer.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Writer/Enlightenment_Writer.internal|Enlightenment_Writer.internal]] 
 
-### #is_/same_as :: [Enlightenment_Writer.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/Enlightenment_Writer.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Writer/Enlightenment_Writer.protect|Enlightenment_Writer.protect]] 
 
-### #is_/same_as :: [Enlightenment_Writer.private](/_private/Society/Communication/Media/Writing/Book/Writer/Enlightenment_Writer.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Writer/Enlightenment_Writer.private|Enlightenment_Writer.private]] 
 
-### #is_/same_as :: [Enlightenment_Writer.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/Enlightenment_Writer.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Writer/Enlightenment_Writer.personal|Enlightenment_Writer.personal]] 
 
-### #is_/same_as :: [Enlightenment_Writer.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/Enlightenment_Writer.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Writer/Enlightenment_Writer.secret|Enlightenment_Writer.secret]] 
 

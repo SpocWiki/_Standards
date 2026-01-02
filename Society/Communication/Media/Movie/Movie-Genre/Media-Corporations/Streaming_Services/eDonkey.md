@@ -52,17 +52,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [eDonkey](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/eDonkey.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/eDonkey|eDonkey]] 
 
-### #is_/same_as :: [eDonkey.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/eDonkey.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/eDonkey.public|eDonkey.public]] 
 
-### #is_/same_as :: [eDonkey.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/eDonkey.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/eDonkey.internal|eDonkey.internal]] 
 
-### #is_/same_as :: [eDonkey.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/eDonkey.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/eDonkey.protect|eDonkey.protect]] 
 
-### #is_/same_as :: [eDonkey.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/eDonkey.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/eDonkey.private|eDonkey.private]] 
 
-### #is_/same_as :: [eDonkey.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/eDonkey.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/eDonkey.personal|eDonkey.personal]] 
 
-### #is_/same_as :: [eDonkey.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/eDonkey.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/eDonkey.secret|eDonkey.secret]] 
 

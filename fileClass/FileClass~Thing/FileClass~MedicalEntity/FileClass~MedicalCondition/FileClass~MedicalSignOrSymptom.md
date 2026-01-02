@@ -37,17 +37,17 @@ Any feature associated or not with a medical condition. In medicine a symptom is
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~MedicalSignOrSymptom](/_Standards/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalCondition/FileClass~MedicalSignOrSymptom.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalCondition/FileClass~MedicalSignOrSymptom|FileClass~MedicalSignOrSymptom]] 
 
-### #is_/same_as :: [FileClass~MedicalSignOrSymptom.public](/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalCondition/FileClass~MedicalSignOrSymptom.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalCondition/FileClass~MedicalSignOrSymptom.public|FileClass~MedicalSignOrSymptom.public]] 
 
-### #is_/same_as :: [FileClass~MedicalSignOrSymptom.internal](/_internal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalCondition/FileClass~MedicalSignOrSymptom.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalCondition/FileClass~MedicalSignOrSymptom.internal|FileClass~MedicalSignOrSymptom.internal]] 
 
-### #is_/same_as :: [FileClass~MedicalSignOrSymptom.protect](/_protect/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalCondition/FileClass~MedicalSignOrSymptom.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalCondition/FileClass~MedicalSignOrSymptom.protect|FileClass~MedicalSignOrSymptom.protect]] 
 
-### #is_/same_as :: [FileClass~MedicalSignOrSymptom.private](/_private/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalCondition/FileClass~MedicalSignOrSymptom.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalCondition/FileClass~MedicalSignOrSymptom.private|FileClass~MedicalSignOrSymptom.private]] 
 
-### #is_/same_as :: [FileClass~MedicalSignOrSymptom.personal](/_personal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalCondition/FileClass~MedicalSignOrSymptom.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalCondition/FileClass~MedicalSignOrSymptom.personal|FileClass~MedicalSignOrSymptom.personal]] 
 
-### #is_/same_as :: [FileClass~MedicalSignOrSymptom.secret](/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalCondition/FileClass~MedicalSignOrSymptom.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalCondition/FileClass~MedicalSignOrSymptom.secret|FileClass~MedicalSignOrSymptom.secret]] 
 

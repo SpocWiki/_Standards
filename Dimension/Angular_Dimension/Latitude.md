@@ -56,17 +56,17 @@ the latter is the Property to assign the Value for this Dimension
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Latitude](/_Standards/Dimension/Angular_Dimension/Latitude.md) 
+### #is_/same_as :: [[/_Standards/Dimension/Angular_Dimension/Latitude|Latitude]] 
 
-### #is_/same_as :: [Latitude.public](/_public/Dimension/Angular_Dimension/Latitude.public.md) 
+### #is_/same_as :: [[/_public/Dimension/Angular_Dimension/Latitude.public|Latitude.public]] 
 
-### #is_/same_as :: [Latitude.internal](/_internal/Dimension/Angular_Dimension/Latitude.internal.md) 
+### #is_/same_as :: [[/_internal/Dimension/Angular_Dimension/Latitude.internal|Latitude.internal]] 
 
-### #is_/same_as :: [Latitude.protect](/_protect/Dimension/Angular_Dimension/Latitude.protect.md) 
+### #is_/same_as :: [[/_protect/Dimension/Angular_Dimension/Latitude.protect|Latitude.protect]] 
 
-### #is_/same_as :: [Latitude.private](/_private/Dimension/Angular_Dimension/Latitude.private.md) 
+### #is_/same_as :: [[/_private/Dimension/Angular_Dimension/Latitude.private|Latitude.private]] 
 
-### #is_/same_as :: [Latitude.personal](/_personal/Dimension/Angular_Dimension/Latitude.personal.md) 
+### #is_/same_as :: [[/_personal/Dimension/Angular_Dimension/Latitude.personal|Latitude.personal]] 
 
-### #is_/same_as :: [Latitude.secret](/_secret/Dimension/Angular_Dimension/Latitude.secret.md)
+### #is_/same_as :: [[/_secret/Dimension/Angular_Dimension/Latitude.secret|Latitude.secret]] 
 

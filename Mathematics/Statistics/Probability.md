@@ -75,17 +75,17 @@ Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_probability,7112704]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Probability](/_Standards/Mathematics/Statistics/Probability.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Statistics/Probability|Probability]] 
 
-### #is_/same_as :: [Probability.public](/_public/Mathematics/Statistics/Probability.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Statistics/Probability.public|Probability.public]] 
 
-### #is_/same_as :: [Probability.internal](/_internal/Mathematics/Statistics/Probability.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Statistics/Probability.internal|Probability.internal]] 
 
-### #is_/same_as :: [Probability.protect](/_protect/Mathematics/Statistics/Probability.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Statistics/Probability.protect|Probability.protect]] 
 
-### #is_/same_as :: [Probability.private](/_private/Mathematics/Statistics/Probability.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Statistics/Probability.private|Probability.private]] 
 
-### #is_/same_as :: [Probability.personal](/_personal/Mathematics/Statistics/Probability.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Statistics/Probability.personal|Probability.personal]] 
 
-### #is_/same_as :: [Probability.secret](/_secret/Mathematics/Statistics/Probability.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Statistics/Probability.secret|Probability.secret]] 
 

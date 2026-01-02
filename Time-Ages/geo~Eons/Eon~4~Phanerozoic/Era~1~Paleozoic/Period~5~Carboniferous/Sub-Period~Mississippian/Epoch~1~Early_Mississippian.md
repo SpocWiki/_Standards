@@ -47,17 +47,17 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Epoch~1~Early_Mississippian](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Mississippian/Epoch~1~Early_Mississippian.md) 
+### #is_/same_as :: [[/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Mississippian/Epoch~1~Early_Mississippian|Epoch~1~Early_Mississippian]] 
 
-### #is_/same_as :: [Epoch~1~Early_Mississippian.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Mississippian/Epoch~1~Early_Mississippian.public.md) 
+### #is_/same_as :: [[/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Mississippian/Epoch~1~Early_Mississippian.public|Epoch~1~Early_Mississippian.public]] 
 
-### #is_/same_as :: [Epoch~1~Early_Mississippian.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Mississippian/Epoch~1~Early_Mississippian.internal.md) 
+### #is_/same_as :: [[/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Mississippian/Epoch~1~Early_Mississippian.internal|Epoch~1~Early_Mississippian.internal]] 
 
-### #is_/same_as :: [Epoch~1~Early_Mississippian.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Mississippian/Epoch~1~Early_Mississippian.protect.md) 
+### #is_/same_as :: [[/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Mississippian/Epoch~1~Early_Mississippian.protect|Epoch~1~Early_Mississippian.protect]] 
 
-### #is_/same_as :: [Epoch~1~Early_Mississippian.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Mississippian/Epoch~1~Early_Mississippian.private.md) 
+### #is_/same_as :: [[/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Mississippian/Epoch~1~Early_Mississippian.private|Epoch~1~Early_Mississippian.private]] 
 
-### #is_/same_as :: [Epoch~1~Early_Mississippian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Mississippian/Epoch~1~Early_Mississippian.personal.md) 
+### #is_/same_as :: [[/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Mississippian/Epoch~1~Early_Mississippian.personal|Epoch~1~Early_Mississippian.personal]] 
 
-### #is_/same_as :: [Epoch~1~Early_Mississippian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Mississippian/Epoch~1~Early_Mississippian.secret.md)
+### #is_/same_as :: [[/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Mississippian/Epoch~1~Early_Mississippian.secret|Epoch~1~Early_Mississippian.secret]] 
 

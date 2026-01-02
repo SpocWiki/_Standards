@@ -50,17 +50,17 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Map%20of%20country%20s
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Province](/_Standards/Earth/Geography/Place/Administrative_Area/Province.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geography/Place/Administrative_Area/Province|Province]] 
 
-### #is_/same_as :: [Province.public](/_public/Earth/Geography/Place/Administrative_Area/Province.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geography/Place/Administrative_Area/Province.public|Province.public]] 
 
-### #is_/same_as :: [Province.internal](/_internal/Earth/Geography/Place/Administrative_Area/Province.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geography/Place/Administrative_Area/Province.internal|Province.internal]] 
 
-### #is_/same_as :: [Province.protect](/_protect/Earth/Geography/Place/Administrative_Area/Province.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geography/Place/Administrative_Area/Province.protect|Province.protect]] 
 
-### #is_/same_as :: [Province.private](/_private/Earth/Geography/Place/Administrative_Area/Province.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geography/Place/Administrative_Area/Province.private|Province.private]] 
 
-### #is_/same_as :: [Province.personal](/_personal/Earth/Geography/Place/Administrative_Area/Province.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geography/Place/Administrative_Area/Province.personal|Province.personal]] 
 
-### #is_/same_as :: [Province.secret](/_secret/Earth/Geography/Place/Administrative_Area/Province.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geography/Place/Administrative_Area/Province.secret|Province.secret]] 
 

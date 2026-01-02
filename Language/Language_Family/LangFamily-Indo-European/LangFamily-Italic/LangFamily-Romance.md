@@ -66,17 +66,17 @@ Universal_Decimal_Classification: 811.13
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [LangFamily-Romance](/_Standards/Language/Language_Family/LangFamily-Indo-European/LangFamily-Italic/LangFamily-Romance.md) 
+### #is_/same_as :: [[/_Standards/Language/Language_Family/LangFamily-Indo-European/LangFamily-Italic/LangFamily-Romance|LangFamily-Romance]] 
 
-### #is_/same_as :: [LangFamily-Romance.public](/_public/Language/Language_Family/LangFamily-Indo-European/LangFamily-Italic/LangFamily-Romance.public.md) 
+### #is_/same_as :: [[/_public/Language/Language_Family/LangFamily-Indo-European/LangFamily-Italic/LangFamily-Romance.public|LangFamily-Romance.public]] 
 
-### #is_/same_as :: [LangFamily-Romance.internal](/_internal/Language/Language_Family/LangFamily-Indo-European/LangFamily-Italic/LangFamily-Romance.internal.md) 
+### #is_/same_as :: [[/_internal/Language/Language_Family/LangFamily-Indo-European/LangFamily-Italic/LangFamily-Romance.internal|LangFamily-Romance.internal]] 
 
-### #is_/same_as :: [LangFamily-Romance.protect](/_protect/Language/Language_Family/LangFamily-Indo-European/LangFamily-Italic/LangFamily-Romance.protect.md) 
+### #is_/same_as :: [[/_protect/Language/Language_Family/LangFamily-Indo-European/LangFamily-Italic/LangFamily-Romance.protect|LangFamily-Romance.protect]] 
 
-### #is_/same_as :: [LangFamily-Romance.private](/_private/Language/Language_Family/LangFamily-Indo-European/LangFamily-Italic/LangFamily-Romance.private.md) 
+### #is_/same_as :: [[/_private/Language/Language_Family/LangFamily-Indo-European/LangFamily-Italic/LangFamily-Romance.private|LangFamily-Romance.private]] 
 
-### #is_/same_as :: [LangFamily-Romance.personal](/_personal/Language/Language_Family/LangFamily-Indo-European/LangFamily-Italic/LangFamily-Romance.personal.md) 
+### #is_/same_as :: [[/_personal/Language/Language_Family/LangFamily-Indo-European/LangFamily-Italic/LangFamily-Romance.personal|LangFamily-Romance.personal]] 
 
-### #is_/same_as :: [LangFamily-Romance.secret](/_secret/Language/Language_Family/LangFamily-Indo-European/LangFamily-Italic/LangFamily-Romance.secret.md)
+### #is_/same_as :: [[/_secret/Language/Language_Family/LangFamily-Indo-European/LangFamily-Italic/LangFamily-Romance.secret|LangFamily-Romance.secret]] 
 

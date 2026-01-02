@@ -48,17 +48,17 @@ different_from: '[[_Standards/WikiData/WD~Q117350763,117350763]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Reference_Ellipsoid](/_Standards/Earth/Geography/Cartography/Reference_Ellipsoid.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geography/Cartography/Reference_Ellipsoid|Reference_Ellipsoid]] 
 
-### #is_/same_as :: [Reference_Ellipsoid.public](/_public/Earth/Geography/Cartography/Reference_Ellipsoid.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geography/Cartography/Reference_Ellipsoid.public|Reference_Ellipsoid.public]] 
 
-### #is_/same_as :: [Reference_Ellipsoid.internal](/_internal/Earth/Geography/Cartography/Reference_Ellipsoid.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geography/Cartography/Reference_Ellipsoid.internal|Reference_Ellipsoid.internal]] 
 
-### #is_/same_as :: [Reference_Ellipsoid.protect](/_protect/Earth/Geography/Cartography/Reference_Ellipsoid.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geography/Cartography/Reference_Ellipsoid.protect|Reference_Ellipsoid.protect]] 
 
-### #is_/same_as :: [Reference_Ellipsoid.private](/_private/Earth/Geography/Cartography/Reference_Ellipsoid.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geography/Cartography/Reference_Ellipsoid.private|Reference_Ellipsoid.private]] 
 
-### #is_/same_as :: [Reference_Ellipsoid.personal](/_personal/Earth/Geography/Cartography/Reference_Ellipsoid.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geography/Cartography/Reference_Ellipsoid.personal|Reference_Ellipsoid.personal]] 
 
-### #is_/same_as :: [Reference_Ellipsoid.secret](/_secret/Earth/Geography/Cartography/Reference_Ellipsoid.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geography/Cartography/Reference_Ellipsoid.secret|Reference_Ellipsoid.secret]] 
 

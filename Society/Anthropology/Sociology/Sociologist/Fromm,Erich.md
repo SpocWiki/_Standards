@@ -118,17 +118,17 @@ birth_name: Erich Seligmann Fromm
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Fromm,Erich](/_Standards/Society/Anthropology/Sociology/Sociologist/Fromm,Erich.md) 
+### #is_/same_as :: [[/_Standards/Society/Anthropology/Sociology/Sociologist/Fromm,Erich|Fromm,Erich]] 
 
-### #is_/same_as :: [Fromm,Erich.public](/_public/Society/Anthropology/Sociology/Sociologist/Fromm,Erich.public.md) 
+### #is_/same_as :: [[/_public/Society/Anthropology/Sociology/Sociologist/Fromm,Erich.public|Fromm,Erich.public]] 
 
-### #is_/same_as :: [Fromm,Erich.internal](/_internal/Society/Anthropology/Sociology/Sociologist/Fromm,Erich.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Anthropology/Sociology/Sociologist/Fromm,Erich.internal|Fromm,Erich.internal]] 
 
-### #is_/same_as :: [Fromm,Erich.protect](/_protect/Society/Anthropology/Sociology/Sociologist/Fromm,Erich.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Anthropology/Sociology/Sociologist/Fromm,Erich.protect|Fromm,Erich.protect]] 
 
-### #is_/same_as :: [Fromm,Erich.private](/_private/Society/Anthropology/Sociology/Sociologist/Fromm,Erich.private.md) 
+### #is_/same_as :: [[/_private/Society/Anthropology/Sociology/Sociologist/Fromm,Erich.private|Fromm,Erich.private]] 
 
-### #is_/same_as :: [Fromm,Erich.personal](/_personal/Society/Anthropology/Sociology/Sociologist/Fromm,Erich.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Anthropology/Sociology/Sociologist/Fromm,Erich.personal|Fromm,Erich.personal]] 
 
-### #is_/same_as :: [Fromm,Erich.secret](/_secret/Society/Anthropology/Sociology/Sociologist/Fromm,Erich.secret.md)
+### #is_/same_as :: [[/_secret/Society/Anthropology/Sociology/Sociologist/Fromm,Erich.secret|Fromm,Erich.secret]] 
 

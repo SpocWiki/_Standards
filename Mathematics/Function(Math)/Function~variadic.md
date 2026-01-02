@@ -38,3 +38,21 @@
 | println!          | Rust       |   1 | macro token pack        | formatted output     |
 | print             | Swift      |   0 | variadic parameters     | output               |
 | println           | Kotlin     |   1 | vararg                  | output               |
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Mathematics/Function(Math)/Function~variadic|Function~variadic]] 
+
+### #is_/same_as :: [[/_public/Mathematics/Function(Math)/Function~variadic.public|Function~variadic.public]] 
+
+### #is_/same_as :: [[/_internal/Mathematics/Function(Math)/Function~variadic.internal|Function~variadic.internal]] 
+
+### #is_/same_as :: [[/_protect/Mathematics/Function(Math)/Function~variadic.protect|Function~variadic.protect]] 
+
+### #is_/same_as :: [[/_private/Mathematics/Function(Math)/Function~variadic.private|Function~variadic.private]] 
+
+### #is_/same_as :: [[/_personal/Mathematics/Function(Math)/Function~variadic.personal|Function~variadic.personal]] 
+
+### #is_/same_as :: [[/_secret/Mathematics/Function(Math)/Function~variadic.secret|Function~variadic.secret]] 
+

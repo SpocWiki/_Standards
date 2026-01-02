@@ -38,17 +38,17 @@ Gujarati_Vishwakosh_entry: રેનેસાંસ-કલા-renaissance-art
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [1350-Renaissance_Art+1620](/_Standards/Society/Communication/Art/Art_History/1350-Renaissance_Art+1620.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Art/Art_History/1350-Renaissance_Art+1620|1350-Renaissance_Art+1620]] 
 
-### #is_/same_as :: [1350-Renaissance_Art+1620.public](/_public/Society/Communication/Art/Art_History/1350-Renaissance_Art+1620.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Art/Art_History/1350-Renaissance_Art+1620.public|1350-Renaissance_Art+1620.public]] 
 
-### #is_/same_as :: [1350-Renaissance_Art+1620.internal](/_internal/Society/Communication/Art/Art_History/1350-Renaissance_Art+1620.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Art/Art_History/1350-Renaissance_Art+1620.internal|1350-Renaissance_Art+1620.internal]] 
 
-### #is_/same_as :: [1350-Renaissance_Art+1620.protect](/_protect/Society/Communication/Art/Art_History/1350-Renaissance_Art+1620.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Art/Art_History/1350-Renaissance_Art+1620.protect|1350-Renaissance_Art+1620.protect]] 
 
-### #is_/same_as :: [1350-Renaissance_Art+1620.private](/_private/Society/Communication/Art/Art_History/1350-Renaissance_Art+1620.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Art/Art_History/1350-Renaissance_Art+1620.private|1350-Renaissance_Art+1620.private]] 
 
-### #is_/same_as :: [1350-Renaissance_Art+1620.personal](/_personal/Society/Communication/Art/Art_History/1350-Renaissance_Art+1620.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Art/Art_History/1350-Renaissance_Art+1620.personal|1350-Renaissance_Art+1620.personal]] 
 
-### #is_/same_as :: [1350-Renaissance_Art+1620.secret](/_secret/Society/Communication/Art/Art_History/1350-Renaissance_Art+1620.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Art/Art_History/1350-Renaissance_Art+1620.secret|1350-Renaissance_Art+1620.secret]] 
 

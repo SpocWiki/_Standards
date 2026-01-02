@@ -70,17 +70,17 @@ Commons_category: History of Sudan
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [History_of_Sudan](/_Standards/Earth/Continent/Africa/Africa~East/Sudan/History_of_Sudan.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~East/Sudan/History_of_Sudan|History_of_Sudan]] 
 
-### #is_/same_as :: [History_of_Sudan.public](/_public/Earth/Continent/Africa/Africa~East/Sudan/History_of_Sudan.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~East/Sudan/History_of_Sudan.public|History_of_Sudan.public]] 
 
-### #is_/same_as :: [History_of_Sudan.internal](/_internal/Earth/Continent/Africa/Africa~East/Sudan/History_of_Sudan.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~East/Sudan/History_of_Sudan.internal|History_of_Sudan.internal]] 
 
-### #is_/same_as :: [History_of_Sudan.protect](/_protect/Earth/Continent/Africa/Africa~East/Sudan/History_of_Sudan.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~East/Sudan/History_of_Sudan.protect|History_of_Sudan.protect]] 
 
-### #is_/same_as :: [History_of_Sudan.private](/_private/Earth/Continent/Africa/Africa~East/Sudan/History_of_Sudan.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~East/Sudan/History_of_Sudan.private|History_of_Sudan.private]] 
 
-### #is_/same_as :: [History_of_Sudan.personal](/_personal/Earth/Continent/Africa/Africa~East/Sudan/History_of_Sudan.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~East/Sudan/History_of_Sudan.personal|History_of_Sudan.personal]] 
 
-### #is_/same_as :: [History_of_Sudan.secret](/_secret/Earth/Continent/Africa/Africa~East/Sudan/History_of_Sudan.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~East/Sudan/History_of_Sudan.secret|History_of_Sudan.secret]] 
 

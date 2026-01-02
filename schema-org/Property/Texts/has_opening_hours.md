@@ -57,17 +57,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_opening_hours](/_Standards/schema-org/Property/Texts/has_opening_hours.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/Texts/has_opening_hours|has_opening_hours]] 
 
-### #is_/same_as :: [has_opening_hours.public](/_public/schema-org/Property/Texts/has_opening_hours.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/Texts/has_opening_hours.public|has_opening_hours.public]] 
 
-### #is_/same_as :: [has_opening_hours.internal](/_internal/schema-org/Property/Texts/has_opening_hours.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/Texts/has_opening_hours.internal|has_opening_hours.internal]] 
 
-### #is_/same_as :: [has_opening_hours.protect](/_protect/schema-org/Property/Texts/has_opening_hours.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/Texts/has_opening_hours.protect|has_opening_hours.protect]] 
 
-### #is_/same_as :: [has_opening_hours.private](/_private/schema-org/Property/Texts/has_opening_hours.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/Texts/has_opening_hours.private|has_opening_hours.private]] 
 
-### #is_/same_as :: [has_opening_hours.personal](/_personal/schema-org/Property/Texts/has_opening_hours.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/Texts/has_opening_hours.personal|has_opening_hours.personal]] 
 
-### #is_/same_as :: [has_opening_hours.secret](/_secret/schema-org/Property/Texts/has_opening_hours.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/Texts/has_opening_hours.secret|has_opening_hours.secret]] 
 

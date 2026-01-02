@@ -152,7 +152,7 @@ Crabs, lobsters, shrimp, barnacles, sow bugs, etc.
     Photograph by Gerald and Buff Corsi, courtesy
     [CalPhotos](http://elib.cs.berkeley.edu/photos/), copyright © 2001
     [California Academy of Sciences](mailto:manzanita@calacademy.org).
-![Grapsus_grapsus](Crustacea/Grapsus_grapsus.jpg))
+![Grapsus_grapsus](Crustacea/Grapsus_grapsus.jpg) 
 -   Barnacle, Semibalanus cariosus (Thecostraca, Cirripedia).  Ketchikan
     (Alaska, US).\
     Photograph by Gerald and Buff Corsi, courtesy
@@ -163,17 +163,17 @@ Crabs, lobsters, shrimp, barnacles, sow bugs, etc.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Crustacea](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea|Crustacea]] 
 
-### #is_/same_as :: [Crustacea.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea.public|Crustacea.public]] 
 
-### #is_/same_as :: [Crustacea.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea.internal|Crustacea.internal]] 
 
-### #is_/same_as :: [Crustacea.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea.protect|Crustacea.protect]] 
 
-### #is_/same_as :: [Crustacea.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea.private|Crustacea.private]] 
 
-### #is_/same_as :: [Crustacea.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea.personal|Crustacea.personal]] 
 
-### #is_/same_as :: [Crustacea.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea.secret|Crustacea.secret]] 
 

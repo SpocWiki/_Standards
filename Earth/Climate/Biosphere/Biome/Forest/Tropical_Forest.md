@@ -19,17 +19,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Tropical_Forest](/_Standards/Earth/Climate/Biosphere/Biomes/Forest/Tropical_Forest.md) 
+### #is_/same_as :: [[/_Standards/Earth/Climate/Biosphere/Biome/Forest/Tropical_Forest|Tropical_Forest]] 
 
-### #is_/same_as :: [Tropical_Forest.public](/_public/Earth/Climate/Biosphere/Biomes/Forest/Tropical_Forest.public.md) 
+### #is_/same_as :: [[/_public/Earth/Climate/Biosphere/Biome/Forest/Tropical_Forest.public|Tropical_Forest.public]] 
 
-### #is_/same_as :: [Tropical_Forest.internal](/_internal/Earth/Climate/Biosphere/Biomes/Forest/Tropical_Forest.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Climate/Biosphere/Biome/Forest/Tropical_Forest.internal|Tropical_Forest.internal]] 
 
-### #is_/same_as :: [Tropical_Forest.protect](/_protect/Earth/Climate/Biosphere/Biomes/Forest/Tropical_Forest.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Climate/Biosphere/Biome/Forest/Tropical_Forest.protect|Tropical_Forest.protect]] 
 
-### #is_/same_as :: [Tropical_Forest.private](/_private/Earth/Climate/Biosphere/Biomes/Forest/Tropical_Forest.private.md) 
+### #is_/same_as :: [[/_private/Earth/Climate/Biosphere/Biome/Forest/Tropical_Forest.private|Tropical_Forest.private]] 
 
-### #is_/same_as :: [Tropical_Forest.personal](/_personal/Earth/Climate/Biosphere/Biomes/Forest/Tropical_Forest.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Climate/Biosphere/Biome/Forest/Tropical_Forest.personal|Tropical_Forest.personal]] 
 
-### #is_/same_as :: [Tropical_Forest.secret](/_secret/Earth/Climate/Biosphere/Biomes/Forest/Tropical_Forest.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Climate/Biosphere/Biome/Forest/Tropical_Forest.secret|Tropical_Forest.secret]] 
 

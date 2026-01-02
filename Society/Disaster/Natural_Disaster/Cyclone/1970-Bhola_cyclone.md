@@ -45,17 +45,17 @@ Commons_category: 1970 Bhola cyclone
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [1970-Bhola_cyclone](/_Standards/Society/Disaster/Natural_Disaster/Cyclone/1970-Bhola_cyclone.md) 
+### #is_/same_as :: [[/_Standards/Society/Disaster/Natural_Disaster/Cyclone/1970-Bhola_cyclone|1970-Bhola_cyclone]] 
 
-### #is_/same_as :: [1970-Bhola_cyclone.public](/_public/Society/Disaster/Natural_Disaster/Cyclone/1970-Bhola_cyclone.public.md) 
+### #is_/same_as :: [[/_public/Society/Disaster/Natural_Disaster/Cyclone/1970-Bhola_cyclone.public|1970-Bhola_cyclone.public]] 
 
-### #is_/same_as :: [1970-Bhola_cyclone.internal](/_internal/Society/Disaster/Natural_Disaster/Cyclone/1970-Bhola_cyclone.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Disaster/Natural_Disaster/Cyclone/1970-Bhola_cyclone.internal|1970-Bhola_cyclone.internal]] 
 
-### #is_/same_as :: [1970-Bhola_cyclone.protect](/_protect/Society/Disaster/Natural_Disaster/Cyclone/1970-Bhola_cyclone.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Disaster/Natural_Disaster/Cyclone/1970-Bhola_cyclone.protect|1970-Bhola_cyclone.protect]] 
 
-### #is_/same_as :: [1970-Bhola_cyclone.private](/_private/Society/Disaster/Natural_Disaster/Cyclone/1970-Bhola_cyclone.private.md) 
+### #is_/same_as :: [[/_private/Society/Disaster/Natural_Disaster/Cyclone/1970-Bhola_cyclone.private|1970-Bhola_cyclone.private]] 
 
-### #is_/same_as :: [1970-Bhola_cyclone.personal](/_personal/Society/Disaster/Natural_Disaster/Cyclone/1970-Bhola_cyclone.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Disaster/Natural_Disaster/Cyclone/1970-Bhola_cyclone.personal|1970-Bhola_cyclone.personal]] 
 
-### #is_/same_as :: [1970-Bhola_cyclone.secret](/_secret/Society/Disaster/Natural_Disaster/Cyclone/1970-Bhola_cyclone.secret.md)
+### #is_/same_as :: [[/_secret/Society/Disaster/Natural_Disaster/Cyclone/1970-Bhola_cyclone.secret|1970-Bhola_cyclone.secret]] 
 

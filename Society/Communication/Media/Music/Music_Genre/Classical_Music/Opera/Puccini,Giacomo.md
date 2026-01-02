@@ -138,17 +138,17 @@ und sich später auch für [[../../../Composer/20th_century_Composers/Stravinsky
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Puccini,Giacomo](/_Standards/Society/Communication/Media/Music/Music_Genre/Classical_Music/Opera/Puccini,Giacomo.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Music_Genre/Classical_Music/Opera/Puccini,Giacomo|Puccini,Giacomo]] 
 
-### #is_/same_as :: [Puccini,Giacomo.public](/_public/Society/Communication/Media/Music/Music_Genre/Classical_Music/Opera/Puccini,Giacomo.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Music_Genre/Classical_Music/Opera/Puccini,Giacomo.public|Puccini,Giacomo.public]] 
 
-### #is_/same_as :: [Puccini,Giacomo.internal](/_internal/Society/Communication/Media/Music/Music_Genre/Classical_Music/Opera/Puccini,Giacomo.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Music_Genre/Classical_Music/Opera/Puccini,Giacomo.internal|Puccini,Giacomo.internal]] 
 
-### #is_/same_as :: [Puccini,Giacomo.protect](/_protect/Society/Communication/Media/Music/Music_Genre/Classical_Music/Opera/Puccini,Giacomo.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Music_Genre/Classical_Music/Opera/Puccini,Giacomo.protect|Puccini,Giacomo.protect]] 
 
-### #is_/same_as :: [Puccini,Giacomo.private](/_private/Society/Communication/Media/Music/Music_Genre/Classical_Music/Opera/Puccini,Giacomo.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Music_Genre/Classical_Music/Opera/Puccini,Giacomo.private|Puccini,Giacomo.private]] 
 
-### #is_/same_as :: [Puccini,Giacomo.personal](/_personal/Society/Communication/Media/Music/Music_Genre/Classical_Music/Opera/Puccini,Giacomo.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Music_Genre/Classical_Music/Opera/Puccini,Giacomo.personal|Puccini,Giacomo.personal]] 
 
-### #is_/same_as :: [Puccini,Giacomo.secret](/_secret/Society/Communication/Media/Music/Music_Genre/Classical_Music/Opera/Puccini,Giacomo.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Music_Genre/Classical_Music/Opera/Puccini,Giacomo.secret|Puccini,Giacomo.secret]] 
 

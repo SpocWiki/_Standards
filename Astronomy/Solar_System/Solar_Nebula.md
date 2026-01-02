@@ -34,17 +34,17 @@ instance_of: "[[_Standards/WikiData/WD~molecular_cloud,272447]]"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Solar_Nebula](/_Standards/Astronomy/Solar_System/Solar_Nebula.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Solar_System/Solar_Nebula|Solar_Nebula]] 
 
-### #is_/same_as :: [Solar_Nebula.public](/_public/Astronomy/Solar_System/Solar_Nebula.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Solar_System/Solar_Nebula.public|Solar_Nebula.public]] 
 
-### #is_/same_as :: [Solar_Nebula.internal](/_internal/Astronomy/Solar_System/Solar_Nebula.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Solar_System/Solar_Nebula.internal|Solar_Nebula.internal]] 
 
-### #is_/same_as :: [Solar_Nebula.protect](/_protect/Astronomy/Solar_System/Solar_Nebula.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Solar_System/Solar_Nebula.protect|Solar_Nebula.protect]] 
 
-### #is_/same_as :: [Solar_Nebula.private](/_private/Astronomy/Solar_System/Solar_Nebula.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Solar_System/Solar_Nebula.private|Solar_Nebula.private]] 
 
-### #is_/same_as :: [Solar_Nebula.personal](/_personal/Astronomy/Solar_System/Solar_Nebula.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Solar_System/Solar_Nebula.personal|Solar_Nebula.personal]] 
 
-### #is_/same_as :: [Solar_Nebula.secret](/_secret/Astronomy/Solar_System/Solar_Nebula.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Solar_System/Solar_Nebula.secret|Solar_Nebula.secret]] 
 

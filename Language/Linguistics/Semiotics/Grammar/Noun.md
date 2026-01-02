@@ -69,17 +69,17 @@ Commons_category: Nouns
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Noun](/_Standards/Language/Linguistics/Semiotics/Grammar/Noun.md) 
+### #is_/same_as :: [[/_Standards/Language/Linguistics/Semiotics/Grammar/Noun|Noun]] 
 
-### #is_/same_as :: [Noun.public](/_public/Language/Linguistics/Semiotics/Grammar/Noun.public.md) 
+### #is_/same_as :: [[/_public/Language/Linguistics/Semiotics/Grammar/Noun.public|Noun.public]] 
 
-### #is_/same_as :: [Noun.internal](/_internal/Language/Linguistics/Semiotics/Grammar/Noun.internal.md) 
+### #is_/same_as :: [[/_internal/Language/Linguistics/Semiotics/Grammar/Noun.internal|Noun.internal]] 
 
-### #is_/same_as :: [Noun.protect](/_protect/Language/Linguistics/Semiotics/Grammar/Noun.protect.md) 
+### #is_/same_as :: [[/_protect/Language/Linguistics/Semiotics/Grammar/Noun.protect|Noun.protect]] 
 
-### #is_/same_as :: [Noun.private](/_private/Language/Linguistics/Semiotics/Grammar/Noun.private.md) 
+### #is_/same_as :: [[/_private/Language/Linguistics/Semiotics/Grammar/Noun.private|Noun.private]] 
 
-### #is_/same_as :: [Noun.personal](/_personal/Language/Linguistics/Semiotics/Grammar/Noun.personal.md) 
+### #is_/same_as :: [[/_personal/Language/Linguistics/Semiotics/Grammar/Noun.personal|Noun.personal]] 
 
-### #is_/same_as :: [Noun.secret](/_secret/Language/Linguistics/Semiotics/Grammar/Noun.secret.md)
+### #is_/same_as :: [[/_secret/Language/Linguistics/Semiotics/Grammar/Noun.secret|Noun.secret]] 
 

@@ -128,17 +128,17 @@ YouTube_handle: WorldBank
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [World_Bank](/_Standards/UN(United_Nations)/IMF(International_Monetary_Fund)/World_Bank.md) 
+### #is_/same_as :: [[/_Standards/UN(United_Nations)/IMF(International_Monetary_Fund)/World_Bank|World_Bank]] 
 
-### #is_/same_as :: [World_Bank.public](/_public/UN(United_Nations)/IMF(International_Monetary_Fund)/World_Bank.public.md) 
+### #is_/same_as :: [[/_public/UN(United_Nations)/IMF(International_Monetary_Fund)/World_Bank.public|World_Bank.public]] 
 
-### #is_/same_as :: [World_Bank.internal](/_internal/UN(United_Nations)/IMF(International_Monetary_Fund)/World_Bank.internal.md) 
+### #is_/same_as :: [[/_internal/UN(United_Nations)/IMF(International_Monetary_Fund)/World_Bank.internal|World_Bank.internal]] 
 
-### #is_/same_as :: [World_Bank.protect](/_protect/UN(United_Nations)/IMF(International_Monetary_Fund)/World_Bank.protect.md) 
+### #is_/same_as :: [[/_protect/UN(United_Nations)/IMF(International_Monetary_Fund)/World_Bank.protect|World_Bank.protect]] 
 
-### #is_/same_as :: [World_Bank.private](/_private/UN(United_Nations)/IMF(International_Monetary_Fund)/World_Bank.private.md) 
+### #is_/same_as :: [[/_private/UN(United_Nations)/IMF(International_Monetary_Fund)/World_Bank.private|World_Bank.private]] 
 
-### #is_/same_as :: [World_Bank.personal](/_personal/UN(United_Nations)/IMF(International_Monetary_Fund)/World_Bank.personal.md) 
+### #is_/same_as :: [[/_personal/UN(United_Nations)/IMF(International_Monetary_Fund)/World_Bank.personal|World_Bank.personal]] 
 
-### #is_/same_as :: [World_Bank.secret](/_secret/UN(United_Nations)/IMF(International_Monetary_Fund)/World_Bank.secret.md)
+### #is_/same_as :: [[/_secret/UN(United_Nations)/IMF(International_Monetary_Fund)/World_Bank.secret|World_Bank.secret]] 
 

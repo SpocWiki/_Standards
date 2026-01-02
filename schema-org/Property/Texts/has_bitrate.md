@@ -44,17 +44,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_bitrate](/_Standards/schema-org/Property/Texts/has_bitrate.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/Texts/has_bitrate|has_bitrate]] 
 
-### #is_/same_as :: [has_bitrate.public](/_public/schema-org/Property/Texts/has_bitrate.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/Texts/has_bitrate.public|has_bitrate.public]] 
 
-### #is_/same_as :: [has_bitrate.internal](/_internal/schema-org/Property/Texts/has_bitrate.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/Texts/has_bitrate.internal|has_bitrate.internal]] 
 
-### #is_/same_as :: [has_bitrate.protect](/_protect/schema-org/Property/Texts/has_bitrate.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/Texts/has_bitrate.protect|has_bitrate.protect]] 
 
-### #is_/same_as :: [has_bitrate.private](/_private/schema-org/Property/Texts/has_bitrate.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/Texts/has_bitrate.private|has_bitrate.private]] 
 
-### #is_/same_as :: [has_bitrate.personal](/_personal/schema-org/Property/Texts/has_bitrate.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/Texts/has_bitrate.personal|has_bitrate.personal]] 
 
-### #is_/same_as :: [has_bitrate.secret](/_secret/schema-org/Property/Texts/has_bitrate.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/Texts/has_bitrate.secret|has_bitrate.secret]] 
 

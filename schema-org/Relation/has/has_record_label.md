@@ -42,17 +42,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_record_label](/_Standards/schema-org/Relation/has/has_record_label.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_record_label|has_record_label]] 
 
-### #is_/same_as :: [has_record_label.public](/_public/schema-org/Relation/has/has_record_label.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_record_label.public|has_record_label.public]] 
 
-### #is_/same_as :: [has_record_label.internal](/_internal/schema-org/Relation/has/has_record_label.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_record_label.internal|has_record_label.internal]] 
 
-### #is_/same_as :: [has_record_label.protect](/_protect/schema-org/Relation/has/has_record_label.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_record_label.protect|has_record_label.protect]] 
 
-### #is_/same_as :: [has_record_label.private](/_private/schema-org/Relation/has/has_record_label.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_record_label.private|has_record_label.private]] 
 
-### #is_/same_as :: [has_record_label.personal](/_personal/schema-org/Relation/has/has_record_label.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_record_label.personal|has_record_label.personal]] 
 
-### #is_/same_as :: [has_record_label.secret](/_secret/schema-org/Relation/has/has_record_label.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_record_label.secret|has_record_label.secret]] 
 

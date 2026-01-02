@@ -92,17 +92,17 @@ Krugosvet_article_archived_: voennoe-delo/kosmosa-issledovanie-i-ispolzovanie
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Spaceflight](/_Standards/Technology/Spaceflight.md) 
+### #is_/same_as :: [[/_Standards/Technology/Spaceflight|Spaceflight]] 
 
-### #is_/same_as :: [Spaceflight.public](/_public/Technology/Spaceflight.public.md) 
+### #is_/same_as :: [[/_public/Technology/Spaceflight.public|Spaceflight.public]] 
 
-### #is_/same_as :: [Spaceflight.internal](/_internal/Technology/Spaceflight.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Spaceflight.internal|Spaceflight.internal]] 
 
-### #is_/same_as :: [Spaceflight.protect](/_protect/Technology/Spaceflight.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Spaceflight.protect|Spaceflight.protect]] 
 
-### #is_/same_as :: [Spaceflight.private](/_private/Technology/Spaceflight.private.md) 
+### #is_/same_as :: [[/_private/Technology/Spaceflight.private|Spaceflight.private]] 
 
-### #is_/same_as :: [Spaceflight.personal](/_personal/Technology/Spaceflight.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Spaceflight.personal|Spaceflight.personal]] 
 
-### #is_/same_as :: [Spaceflight.secret](/_secret/Technology/Spaceflight.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Spaceflight.secret|Spaceflight.secret]] 
 

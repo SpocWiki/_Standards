@@ -93,17 +93,17 @@ work_period_start_: 1907-01-01T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Mae_West](/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Mae_West.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Mae_West|Mae_West]] 
 
-### #is_/same_as :: [Mae_West.public](/_public/Society/Communication/Media/Movie/Actor/US_Actor/Mae_West.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Actor/US_Actor/Mae_West.public|Mae_West.public]] 
 
-### #is_/same_as :: [Mae_West.internal](/_internal/Society/Communication/Media/Movie/Actor/US_Actor/Mae_West.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Actor/US_Actor/Mae_West.internal|Mae_West.internal]] 
 
-### #is_/same_as :: [Mae_West.protect](/_protect/Society/Communication/Media/Movie/Actor/US_Actor/Mae_West.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Actor/US_Actor/Mae_West.protect|Mae_West.protect]] 
 
-### #is_/same_as :: [Mae_West.private](/_private/Society/Communication/Media/Movie/Actor/US_Actor/Mae_West.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Actor/US_Actor/Mae_West.private|Mae_West.private]] 
 
-### #is_/same_as :: [Mae_West.personal](/_personal/Society/Communication/Media/Movie/Actor/US_Actor/Mae_West.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Actor/US_Actor/Mae_West.personal|Mae_West.personal]] 
 
-### #is_/same_as :: [Mae_West.secret](/_secret/Society/Communication/Media/Movie/Actor/US_Actor/Mae_West.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Actor/US_Actor/Mae_West.secret|Mae_West.secret]] 
 

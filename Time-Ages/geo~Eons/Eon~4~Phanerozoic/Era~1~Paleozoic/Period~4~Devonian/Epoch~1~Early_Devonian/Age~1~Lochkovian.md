@@ -63,17 +63,17 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Age~1~Lochkovian](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~4~Devonian/Epoch~1~Early_Devonian/Age~1~Lochkovian.md) 
+### #is_/same_as :: [[/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~4~Devonian/Epoch~1~Early_Devonian/Age~1~Lochkovian|Age~1~Lochkovian]] 
 
-### #is_/same_as :: [Age~1~Lochkovian.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~4~Devonian/Epoch~1~Early_Devonian/Age~1~Lochkovian.public.md) 
+### #is_/same_as :: [[/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~4~Devonian/Epoch~1~Early_Devonian/Age~1~Lochkovian.public|Age~1~Lochkovian.public]] 
 
-### #is_/same_as :: [Age~1~Lochkovian.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~4~Devonian/Epoch~1~Early_Devonian/Age~1~Lochkovian.internal.md) 
+### #is_/same_as :: [[/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~4~Devonian/Epoch~1~Early_Devonian/Age~1~Lochkovian.internal|Age~1~Lochkovian.internal]] 
 
-### #is_/same_as :: [Age~1~Lochkovian.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~4~Devonian/Epoch~1~Early_Devonian/Age~1~Lochkovian.protect.md) 
+### #is_/same_as :: [[/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~4~Devonian/Epoch~1~Early_Devonian/Age~1~Lochkovian.protect|Age~1~Lochkovian.protect]] 
 
-### #is_/same_as :: [Age~1~Lochkovian.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~4~Devonian/Epoch~1~Early_Devonian/Age~1~Lochkovian.private.md) 
+### #is_/same_as :: [[/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~4~Devonian/Epoch~1~Early_Devonian/Age~1~Lochkovian.private|Age~1~Lochkovian.private]] 
 
-### #is_/same_as :: [Age~1~Lochkovian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~4~Devonian/Epoch~1~Early_Devonian/Age~1~Lochkovian.personal.md) 
+### #is_/same_as :: [[/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~4~Devonian/Epoch~1~Early_Devonian/Age~1~Lochkovian.personal|Age~1~Lochkovian.personal]] 
 
-### #is_/same_as :: [Age~1~Lochkovian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~4~Devonian/Epoch~1~Early_Devonian/Age~1~Lochkovian.secret.md)
+### #is_/same_as :: [[/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~4~Devonian/Epoch~1~Early_Devonian/Age~1~Lochkovian.secret|Age~1~Lochkovian.secret]] 
 

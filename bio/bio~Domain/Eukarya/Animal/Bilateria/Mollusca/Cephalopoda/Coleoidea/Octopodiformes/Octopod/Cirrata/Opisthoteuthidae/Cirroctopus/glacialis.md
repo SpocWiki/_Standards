@@ -82,7 +82,7 @@ Mar. Sci. 20: 421-428.
 
 ## Title Illustrations
 
-![](glacialis/CirroctoGlacAreolae.jpg))
+![](glacialis/CirroctoGlacAreolae.jpg) 
 
   ------------------------------------------------------------------------
   Scientific Name ::  Cirroctopus glacialis
@@ -90,7 +90,7 @@ Mar. Sci. 20: 421-428.
   Copyright ::         © 1998 [Michael Vecchione](mailto:vecchiom@si.edu) 
  
   ------------------------------------------------------------------------
-![](glacialis/CirroctGlacDors.jpg))
+![](glacialis/CirroctGlacDors.jpg) 
 
   ------------------------------------------------------------------------
   Scientific Name ::  Cirroctopus glacialis
@@ -102,17 +102,17 @@ Mar. Sci. 20: 421-428.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [glacialis](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Cirrata/Opisthoteuthidae/Cirroctopus/glacialis.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Cirrata/Opisthoteuthidae/Cirroctopus/glacialis|glacialis]] 
 
-### #is_/same_as :: [glacialis.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Cirrata/Opisthoteuthidae/Cirroctopus/glacialis.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Cirrata/Opisthoteuthidae/Cirroctopus/glacialis.public|glacialis.public]] 
 
-### #is_/same_as :: [glacialis.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Cirrata/Opisthoteuthidae/Cirroctopus/glacialis.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Cirrata/Opisthoteuthidae/Cirroctopus/glacialis.internal|glacialis.internal]] 
 
-### #is_/same_as :: [glacialis.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Cirrata/Opisthoteuthidae/Cirroctopus/glacialis.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Cirrata/Opisthoteuthidae/Cirroctopus/glacialis.protect|glacialis.protect]] 
 
-### #is_/same_as :: [glacialis.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Cirrata/Opisthoteuthidae/Cirroctopus/glacialis.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Cirrata/Opisthoteuthidae/Cirroctopus/glacialis.private|glacialis.private]] 
 
-### #is_/same_as :: [glacialis.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Cirrata/Opisthoteuthidae/Cirroctopus/glacialis.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Cirrata/Opisthoteuthidae/Cirroctopus/glacialis.personal|glacialis.personal]] 
 
-### #is_/same_as :: [glacialis.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Cirrata/Opisthoteuthidae/Cirroctopus/glacialis.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Cirrata/Opisthoteuthidae/Cirroctopus/glacialis.secret|glacialis.secret]] 
 

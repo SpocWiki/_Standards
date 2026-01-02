@@ -20,17 +20,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Prog~COMIT](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Imperative/Prog~COMIT.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Imperative/Prog~COMIT|Prog~COMIT]] 
 
-### #is_/same_as :: [Prog~COMIT.public](/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Imperative/Prog~COMIT.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Imperative/Prog~COMIT.public|Prog~COMIT.public]] 
 
-### #is_/same_as :: [Prog~COMIT.internal](/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Imperative/Prog~COMIT.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Imperative/Prog~COMIT.internal|Prog~COMIT.internal]] 
 
-### #is_/same_as :: [Prog~COMIT.protect](/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Imperative/Prog~COMIT.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Imperative/Prog~COMIT.protect|Prog~COMIT.protect]] 
 
-### #is_/same_as :: [Prog~COMIT.private](/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Imperative/Prog~COMIT.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Imperative/Prog~COMIT.private|Prog~COMIT.private]] 
 
-### #is_/same_as :: [Prog~COMIT.personal](/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Imperative/Prog~COMIT.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Imperative/Prog~COMIT.personal|Prog~COMIT.personal]] 
 
-### #is_/same_as :: [Prog~COMIT.secret](/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Imperative/Prog~COMIT.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Imperative/Prog~COMIT.secret|Prog~COMIT.secret]] 
 

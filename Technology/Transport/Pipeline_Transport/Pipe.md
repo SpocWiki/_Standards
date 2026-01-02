@@ -77,17 +77,17 @@ Commons_gallery: Pipe (material)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Pipe](/_Standards/Technology/Transport/Pipeline_Transport/Pipe.md) 
+### #is_/same_as :: [[/_Standards/Technology/Transport/Pipeline_Transport/Pipe|Pipe]] 
 
-### #is_/same_as :: [Pipe.public](/_public/Technology/Transport/Pipeline_Transport/Pipe.public.md) 
+### #is_/same_as :: [[/_public/Technology/Transport/Pipeline_Transport/Pipe.public|Pipe.public]] 
 
-### #is_/same_as :: [Pipe.internal](/_internal/Technology/Transport/Pipeline_Transport/Pipe.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Transport/Pipeline_Transport/Pipe.internal|Pipe.internal]] 
 
-### #is_/same_as :: [Pipe.protect](/_protect/Technology/Transport/Pipeline_Transport/Pipe.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Transport/Pipeline_Transport/Pipe.protect|Pipe.protect]] 
 
-### #is_/same_as :: [Pipe.private](/_private/Technology/Transport/Pipeline_Transport/Pipe.private.md) 
+### #is_/same_as :: [[/_private/Technology/Transport/Pipeline_Transport/Pipe.private|Pipe.private]] 
 
-### #is_/same_as :: [Pipe.personal](/_personal/Technology/Transport/Pipeline_Transport/Pipe.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Transport/Pipeline_Transport/Pipe.personal|Pipe.personal]] 
 
-### #is_/same_as :: [Pipe.secret](/_secret/Technology/Transport/Pipeline_Transport/Pipe.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Transport/Pipeline_Transport/Pipe.secret|Pipe.secret]] 
 

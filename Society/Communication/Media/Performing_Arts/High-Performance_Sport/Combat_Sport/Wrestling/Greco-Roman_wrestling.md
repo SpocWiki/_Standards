@@ -38,17 +38,17 @@ Commons_category: Greco-Roman wrestling
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Greco-Roman_wrestling](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Wrestling/Greco-Roman_wrestling.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Wrestling/Greco-Roman_wrestling|Greco-Roman_wrestling]] 
 
-### #is_/same_as :: [Greco-Roman_wrestling.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Wrestling/Greco-Roman_wrestling.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Wrestling/Greco-Roman_wrestling.public|Greco-Roman_wrestling.public]] 
 
-### #is_/same_as :: [Greco-Roman_wrestling.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Wrestling/Greco-Roman_wrestling.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Wrestling/Greco-Roman_wrestling.internal|Greco-Roman_wrestling.internal]] 
 
-### #is_/same_as :: [Greco-Roman_wrestling.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Wrestling/Greco-Roman_wrestling.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Wrestling/Greco-Roman_wrestling.protect|Greco-Roman_wrestling.protect]] 
 
-### #is_/same_as :: [Greco-Roman_wrestling.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Wrestling/Greco-Roman_wrestling.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Wrestling/Greco-Roman_wrestling.private|Greco-Roman_wrestling.private]] 
 
-### #is_/same_as :: [Greco-Roman_wrestling.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Wrestling/Greco-Roman_wrestling.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Wrestling/Greco-Roman_wrestling.personal|Greco-Roman_wrestling.personal]] 
 
-### #is_/same_as :: [Greco-Roman_wrestling.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Wrestling/Greco-Roman_wrestling.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Wrestling/Greco-Roman_wrestling.secret|Greco-Roman_wrestling.secret]] 
 

@@ -610,17 +610,17 @@ Capital :: [[Uganda/regions~Uganda/Uganda~Central/Kampala]]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Uganda](/_Standards/Earth/Continent/Africa/Africa~Central/Uganda.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~Central/Uganda|Uganda]] 
 
-### #is_/same_as :: [Uganda.public](/_public/Earth/Continent/Africa/Africa~Central/Uganda.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~Central/Uganda.public|Uganda.public]] 
 
-### #is_/same_as :: [Uganda.internal](/_internal/Earth/Continent/Africa/Africa~Central/Uganda.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~Central/Uganda.internal|Uganda.internal]] 
 
-### #is_/same_as :: [Uganda.protect](/_protect/Earth/Continent/Africa/Africa~Central/Uganda.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~Central/Uganda.protect|Uganda.protect]] 
 
-### #is_/same_as :: [Uganda.private](/_private/Earth/Continent/Africa/Africa~Central/Uganda.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~Central/Uganda.private|Uganda.private]] 
 
-### #is_/same_as :: [Uganda.personal](/_personal/Earth/Continent/Africa/Africa~Central/Uganda.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~Central/Uganda.personal|Uganda.personal]] 
 
-### #is_/same_as :: [Uganda.secret](/_secret/Earth/Continent/Africa/Africa~Central/Uganda.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~Central/Uganda.secret|Uganda.secret]] 
 

@@ -41,17 +41,17 @@ Europeana_entity: agent/base/146915
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [1800-Romantic_Music+1900](/_Standards/Society/Communication/Media/Music/Music_Genre/Classical_Music/1800-Romantic_Music+1900.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Music_Genre/Classical_Music/1800-Romantic_Music+1900|1800-Romantic_Music+1900]] 
 
-### #is_/same_as :: [1800-Romantic_Music+1900.public](/_public/Society/Communication/Media/Music/Music_Genre/Classical_Music/1800-Romantic_Music+1900.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Music_Genre/Classical_Music/1800-Romantic_Music+1900.public|1800-Romantic_Music+1900.public]] 
 
-### #is_/same_as :: [1800-Romantic_Music+1900.internal](/_internal/Society/Communication/Media/Music/Music_Genre/Classical_Music/1800-Romantic_Music+1900.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Music_Genre/Classical_Music/1800-Romantic_Music+1900.internal|1800-Romantic_Music+1900.internal]] 
 
-### #is_/same_as :: [1800-Romantic_Music+1900.protect](/_protect/Society/Communication/Media/Music/Music_Genre/Classical_Music/1800-Romantic_Music+1900.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Music_Genre/Classical_Music/1800-Romantic_Music+1900.protect|1800-Romantic_Music+1900.protect]] 
 
-### #is_/same_as :: [1800-Romantic_Music+1900.private](/_private/Society/Communication/Media/Music/Music_Genre/Classical_Music/1800-Romantic_Music+1900.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Music_Genre/Classical_Music/1800-Romantic_Music+1900.private|1800-Romantic_Music+1900.private]] 
 
-### #is_/same_as :: [1800-Romantic_Music+1900.personal](/_personal/Society/Communication/Media/Music/Music_Genre/Classical_Music/1800-Romantic_Music+1900.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Music_Genre/Classical_Music/1800-Romantic_Music+1900.personal|1800-Romantic_Music+1900.personal]] 
 
-### #is_/same_as :: [1800-Romantic_Music+1900.secret](/_secret/Society/Communication/Media/Music/Music_Genre/Classical_Music/1800-Romantic_Music+1900.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Music_Genre/Classical_Music/1800-Romantic_Music+1900.secret|1800-Romantic_Music+1900.secret]] 
 

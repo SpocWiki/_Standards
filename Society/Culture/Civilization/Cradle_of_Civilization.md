@@ -43,17 +43,17 @@ different_from: '[[_Standards/WikiData/WD~Four_Great_Ancient_Civilizations,11119
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Cradle_of_Civilization](/_Standards/Society/Culture/Civilization/Cradle_of_Civilization.md) 
+### #is_/same_as :: [[/_Standards/Society/Culture/Civilization/Cradle_of_Civilization|Cradle_of_Civilization]] 
 
-### #is_/same_as :: [Cradle_of_Civilization.public](/_public/Society/Culture/Civilization/Cradle_of_Civilization.public.md) 
+### #is_/same_as :: [[/_public/Society/Culture/Civilization/Cradle_of_Civilization.public|Cradle_of_Civilization.public]] 
 
-### #is_/same_as :: [Cradle_of_Civilization.internal](/_internal/Society/Culture/Civilization/Cradle_of_Civilization.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Culture/Civilization/Cradle_of_Civilization.internal|Cradle_of_Civilization.internal]] 
 
-### #is_/same_as :: [Cradle_of_Civilization.protect](/_protect/Society/Culture/Civilization/Cradle_of_Civilization.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Culture/Civilization/Cradle_of_Civilization.protect|Cradle_of_Civilization.protect]] 
 
-### #is_/same_as :: [Cradle_of_Civilization.private](/_private/Society/Culture/Civilization/Cradle_of_Civilization.private.md) 
+### #is_/same_as :: [[/_private/Society/Culture/Civilization/Cradle_of_Civilization.private|Cradle_of_Civilization.private]] 
 
-### #is_/same_as :: [Cradle_of_Civilization.personal](/_personal/Society/Culture/Civilization/Cradle_of_Civilization.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Culture/Civilization/Cradle_of_Civilization.personal|Cradle_of_Civilization.personal]] 
 
-### #is_/same_as :: [Cradle_of_Civilization.secret](/_secret/Society/Culture/Civilization/Cradle_of_Civilization.secret.md)
+### #is_/same_as :: [[/_secret/Society/Culture/Civilization/Cradle_of_Civilization.secret|Cradle_of_Civilization.secret]] 
 

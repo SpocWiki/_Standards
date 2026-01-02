@@ -75,17 +75,17 @@ MeSH_tree_code: E07.190.270.150
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Condom](/_Standards/bio/Reproduction/Sexual_Reproduction/Birth_Control/Condom.md) 
+### #is_/same_as :: [[/_Standards/bio/Reproduction/Sexual_Reproduction/Birth_Control/Condom|Condom]] 
 
-### #is_/same_as :: [Condom.public](/_public/bio/Reproduction/Sexual_Reproduction/Birth_Control/Condom.public.md) 
+### #is_/same_as :: [[/_public/bio/Reproduction/Sexual_Reproduction/Birth_Control/Condom.public|Condom.public]] 
 
-### #is_/same_as :: [Condom.internal](/_internal/bio/Reproduction/Sexual_Reproduction/Birth_Control/Condom.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Reproduction/Sexual_Reproduction/Birth_Control/Condom.internal|Condom.internal]] 
 
-### #is_/same_as :: [Condom.protect](/_protect/bio/Reproduction/Sexual_Reproduction/Birth_Control/Condom.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Reproduction/Sexual_Reproduction/Birth_Control/Condom.protect|Condom.protect]] 
 
-### #is_/same_as :: [Condom.private](/_private/bio/Reproduction/Sexual_Reproduction/Birth_Control/Condom.private.md) 
+### #is_/same_as :: [[/_private/bio/Reproduction/Sexual_Reproduction/Birth_Control/Condom.private|Condom.private]] 
 
-### #is_/same_as :: [Condom.personal](/_personal/bio/Reproduction/Sexual_Reproduction/Birth_Control/Condom.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Reproduction/Sexual_Reproduction/Birth_Control/Condom.personal|Condom.personal]] 
 
-### #is_/same_as :: [Condom.secret](/_secret/bio/Reproduction/Sexual_Reproduction/Birth_Control/Condom.secret.md)
+### #is_/same_as :: [[/_secret/bio/Reproduction/Sexual_Reproduction/Birth_Control/Condom.secret|Condom.secret]] 
 

@@ -56,17 +56,17 @@ OpenStreetMap_tag: weather:thermometer=yes
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Thermometer](/_Standards/Technology/Tool/Instrumentation/Thermometer.md) 
+### #is_/same_as :: [[/_Standards/Technology/Tool/Instrumentation/Thermometer|Thermometer]] 
 
-### #is_/same_as :: [Thermometer.public](/_public/Technology/Tool/Instrumentation/Thermometer.public.md) 
+### #is_/same_as :: [[/_public/Technology/Tool/Instrumentation/Thermometer.public|Thermometer.public]] 
 
-### #is_/same_as :: [Thermometer.internal](/_internal/Technology/Tool/Instrumentation/Thermometer.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Tool/Instrumentation/Thermometer.internal|Thermometer.internal]] 
 
-### #is_/same_as :: [Thermometer.protect](/_protect/Technology/Tool/Instrumentation/Thermometer.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Tool/Instrumentation/Thermometer.protect|Thermometer.protect]] 
 
-### #is_/same_as :: [Thermometer.private](/_private/Technology/Tool/Instrumentation/Thermometer.private.md) 
+### #is_/same_as :: [[/_private/Technology/Tool/Instrumentation/Thermometer.private|Thermometer.private]] 
 
-### #is_/same_as :: [Thermometer.personal](/_personal/Technology/Tool/Instrumentation/Thermometer.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Tool/Instrumentation/Thermometer.personal|Thermometer.personal]] 
 
-### #is_/same_as :: [Thermometer.secret](/_secret/Technology/Tool/Instrumentation/Thermometer.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Tool/Instrumentation/Thermometer.secret|Thermometer.secret]] 
 

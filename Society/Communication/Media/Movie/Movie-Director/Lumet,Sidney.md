@@ -135,17 +135,17 @@ Krugosvet_article_archived_: kultura_i_obrazovanie/teatr_i_kino/LYUMET_SIDNE.htm
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lumet,Sidney](/_Standards/Society/Communication/Media/Movie/Movie-Director/Lumet,Sidney.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Director/Lumet,Sidney|Lumet,Sidney]] 
 
-### #is_/same_as :: [Lumet,Sidney.public](/_public/Society/Communication/Media/Movie/Movie-Director/Lumet,Sidney.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Director/Lumet,Sidney.public|Lumet,Sidney.public]] 
 
-### #is_/same_as :: [Lumet,Sidney.internal](/_internal/Society/Communication/Media/Movie/Movie-Director/Lumet,Sidney.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Director/Lumet,Sidney.internal|Lumet,Sidney.internal]] 
 
-### #is_/same_as :: [Lumet,Sidney.protect](/_protect/Society/Communication/Media/Movie/Movie-Director/Lumet,Sidney.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Director/Lumet,Sidney.protect|Lumet,Sidney.protect]] 
 
-### #is_/same_as :: [Lumet,Sidney.private](/_private/Society/Communication/Media/Movie/Movie-Director/Lumet,Sidney.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Director/Lumet,Sidney.private|Lumet,Sidney.private]] 
 
-### #is_/same_as :: [Lumet,Sidney.personal](/_personal/Society/Communication/Media/Movie/Movie-Director/Lumet,Sidney.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Director/Lumet,Sidney.personal|Lumet,Sidney.personal]] 
 
-### #is_/same_as :: [Lumet,Sidney.secret](/_secret/Society/Communication/Media/Movie/Movie-Director/Lumet,Sidney.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Director/Lumet,Sidney.secret|Lumet,Sidney.secret]] 
 

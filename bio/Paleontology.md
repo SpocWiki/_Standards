@@ -67,17 +67,17 @@ WordLift_URL: http://data.thenextweb.com/tnw/entity/paleontology
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Paleontology](/_Standards/bio/Paleontology.md) 
+### #is_/same_as :: [[/_Standards/bio/Paleontology|Paleontology]] 
 
-### #is_/same_as :: [Paleontology.public](/_public/bio/Paleontology.public.md) 
+### #is_/same_as :: [[/_public/bio/Paleontology.public|Paleontology.public]] 
 
-### #is_/same_as :: [Paleontology.internal](/_internal/bio/Paleontology.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Paleontology.internal|Paleontology.internal]] 
 
-### #is_/same_as :: [Paleontology.protect](/_protect/bio/Paleontology.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Paleontology.protect|Paleontology.protect]] 
 
-### #is_/same_as :: [Paleontology.private](/_private/bio/Paleontology.private.md) 
+### #is_/same_as :: [[/_private/bio/Paleontology.private|Paleontology.private]] 
 
-### #is_/same_as :: [Paleontology.personal](/_personal/bio/Paleontology.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Paleontology.personal|Paleontology.personal]] 
 
-### #is_/same_as :: [Paleontology.secret](/_secret/bio/Paleontology.secret.md)
+### #is_/same_as :: [[/_secret/bio/Paleontology.secret|Paleontology.secret]] 
 

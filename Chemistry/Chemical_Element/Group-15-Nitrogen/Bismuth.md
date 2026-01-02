@@ -105,17 +105,17 @@ ZVG_number: 8520
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bismuth](/_Standards/Chemistry/Chemical_Element/Group-15-Nitrogen/Bismuth.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Chemical_Element/Group-15-Nitrogen/Bismuth|Bismuth]] 
 
-### #is_/same_as :: [Bismuth.public](/_public/Chemistry/Chemical_Element/Group-15-Nitrogen/Bismuth.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Chemical_Element/Group-15-Nitrogen/Bismuth.public|Bismuth.public]] 
 
-### #is_/same_as :: [Bismuth.internal](/_internal/Chemistry/Chemical_Element/Group-15-Nitrogen/Bismuth.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Chemical_Element/Group-15-Nitrogen/Bismuth.internal|Bismuth.internal]] 
 
-### #is_/same_as :: [Bismuth.protect](/_protect/Chemistry/Chemical_Element/Group-15-Nitrogen/Bismuth.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Chemical_Element/Group-15-Nitrogen/Bismuth.protect|Bismuth.protect]] 
 
-### #is_/same_as :: [Bismuth.private](/_private/Chemistry/Chemical_Element/Group-15-Nitrogen/Bismuth.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Chemical_Element/Group-15-Nitrogen/Bismuth.private|Bismuth.private]] 
 
-### #is_/same_as :: [Bismuth.personal](/_personal/Chemistry/Chemical_Element/Group-15-Nitrogen/Bismuth.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Chemical_Element/Group-15-Nitrogen/Bismuth.personal|Bismuth.personal]] 
 
-### #is_/same_as :: [Bismuth.secret](/_secret/Chemistry/Chemical_Element/Group-15-Nitrogen/Bismuth.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Chemical_Element/Group-15-Nitrogen/Bismuth.secret|Bismuth.secret]] 
 

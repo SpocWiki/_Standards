@@ -128,17 +128,17 @@ Krugosvet_article_archived_: istoriya/gebbels-paul-iozef
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Goebbels,Joseph](/_Standards/Society/Politics/Government/Leader/Goebbels,Joseph.md) 
+### #is_/same_as :: [[/_Standards/Society/Politics/Government/Leader/Goebbels,Joseph|Goebbels,Joseph]] 
 
-### #is_/same_as :: [Goebbels,Joseph.public](/_public/Society/Politics/Government/Leader/Goebbels,Joseph.public.md) 
+### #is_/same_as :: [[/_public/Society/Politics/Government/Leader/Goebbels,Joseph.public|Goebbels,Joseph.public]] 
 
-### #is_/same_as :: [Goebbels,Joseph.internal](/_internal/Society/Politics/Government/Leader/Goebbels,Joseph.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Politics/Government/Leader/Goebbels,Joseph.internal|Goebbels,Joseph.internal]] 
 
-### #is_/same_as :: [Goebbels,Joseph.protect](/_protect/Society/Politics/Government/Leader/Goebbels,Joseph.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Politics/Government/Leader/Goebbels,Joseph.protect|Goebbels,Joseph.protect]] 
 
-### #is_/same_as :: [Goebbels,Joseph.private](/_private/Society/Politics/Government/Leader/Goebbels,Joseph.private.md) 
+### #is_/same_as :: [[/_private/Society/Politics/Government/Leader/Goebbels,Joseph.private|Goebbels,Joseph.private]] 
 
-### #is_/same_as :: [Goebbels,Joseph.personal](/_personal/Society/Politics/Government/Leader/Goebbels,Joseph.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Politics/Government/Leader/Goebbels,Joseph.personal|Goebbels,Joseph.personal]] 
 
-### #is_/same_as :: [Goebbels,Joseph.secret](/_secret/Society/Politics/Government/Leader/Goebbels,Joseph.secret.md)
+### #is_/same_as :: [[/_secret/Society/Politics/Government/Leader/Goebbels,Joseph.secret|Goebbels,Joseph.secret]] 
 

@@ -53,17 +53,17 @@ Krugosvet_article: istoriya/ETIKET.html
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Etiquette](/_Standards/Society/Culture/Etiquette.md) 
+### #is_/same_as :: [[/_Standards/Society/Culture/Etiquette|Etiquette]] 
 
-### #is_/same_as :: [Etiquette.public](/_public/Society/Culture/Etiquette.public.md) 
+### #is_/same_as :: [[/_public/Society/Culture/Etiquette.public|Etiquette.public]] 
 
-### #is_/same_as :: [Etiquette.internal](/_internal/Society/Culture/Etiquette.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Culture/Etiquette.internal|Etiquette.internal]] 
 
-### #is_/same_as :: [Etiquette.protect](/_protect/Society/Culture/Etiquette.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Culture/Etiquette.protect|Etiquette.protect]] 
 
-### #is_/same_as :: [Etiquette.private](/_private/Society/Culture/Etiquette.private.md) 
+### #is_/same_as :: [[/_private/Society/Culture/Etiquette.private|Etiquette.private]] 
 
-### #is_/same_as :: [Etiquette.personal](/_personal/Society/Culture/Etiquette.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Culture/Etiquette.personal|Etiquette.personal]] 
 
-### #is_/same_as :: [Etiquette.secret](/_secret/Society/Culture/Etiquette.secret.md)
+### #is_/same_as :: [[/_secret/Society/Culture/Etiquette.secret|Etiquette.secret]] 
 

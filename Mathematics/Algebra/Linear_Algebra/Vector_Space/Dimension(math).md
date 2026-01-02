@@ -29,17 +29,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Dimension(math)](/_Standards/Mathematics/Algebra/Linear_Algebra/Vector_Space/Dimension(math).md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Algebra/Linear_Algebra/Vector_Space/Dimension(math)|Dimension(math)]] 
 
-### #is_/same_as :: [Dimension(math).public](/_public/Mathematics/Algebra/Linear_Algebra/Vector_Space/Dimension(math).public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Algebra/Linear_Algebra/Vector_Space/Dimension(math).public|Dimension(math).public]] 
 
-### #is_/same_as :: [Dimension(math).internal](/_internal/Mathematics/Algebra/Linear_Algebra/Vector_Space/Dimension(math).internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Algebra/Linear_Algebra/Vector_Space/Dimension(math).internal|Dimension(math).internal]] 
 
-### #is_/same_as :: [Dimension(math).protect](/_protect/Mathematics/Algebra/Linear_Algebra/Vector_Space/Dimension(math).protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Algebra/Linear_Algebra/Vector_Space/Dimension(math).protect|Dimension(math).protect]] 
 
-### #is_/same_as :: [Dimension(math).private](/_private/Mathematics/Algebra/Linear_Algebra/Vector_Space/Dimension(math).private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Algebra/Linear_Algebra/Vector_Space/Dimension(math).private|Dimension(math).private]] 
 
-### #is_/same_as :: [Dimension(math).personal](/_personal/Mathematics/Algebra/Linear_Algebra/Vector_Space/Dimension(math).personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Algebra/Linear_Algebra/Vector_Space/Dimension(math).personal|Dimension(math).personal]] 
 
-### #is_/same_as :: [Dimension(math).secret](/_secret/Mathematics/Algebra/Linear_Algebra/Vector_Space/Dimension(math).secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Algebra/Linear_Algebra/Vector_Space/Dimension(math).secret|Dimension(math).secret]] 
 

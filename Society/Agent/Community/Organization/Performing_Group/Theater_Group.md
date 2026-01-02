@@ -41,17 +41,17 @@ A theater group or company, for example, the Royal Shakespeare Company or Druid 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Theater_Group](/_Standards/Society/Agent/Community/Organization/Performing_Group/Theater_Group.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Performing_Group/Theater_Group|Theater_Group]] 
 
-### #is_/same_as :: [Theater_Group.public](/_public/Society/Agent/Community/Organization/Performing_Group/Theater_Group.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Performing_Group/Theater_Group.public|Theater_Group.public]] 
 
-### #is_/same_as :: [Theater_Group.internal](/_internal/Society/Agent/Community/Organization/Performing_Group/Theater_Group.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Performing_Group/Theater_Group.internal|Theater_Group.internal]] 
 
-### #is_/same_as :: [Theater_Group.protect](/_protect/Society/Agent/Community/Organization/Performing_Group/Theater_Group.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Performing_Group/Theater_Group.protect|Theater_Group.protect]] 
 
-### #is_/same_as :: [Theater_Group.private](/_private/Society/Agent/Community/Organization/Performing_Group/Theater_Group.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Performing_Group/Theater_Group.private|Theater_Group.private]] 
 
-### #is_/same_as :: [Theater_Group.personal](/_personal/Society/Agent/Community/Organization/Performing_Group/Theater_Group.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Performing_Group/Theater_Group.personal|Theater_Group.personal]] 
 
-### #is_/same_as :: [Theater_Group.secret](/_secret/Society/Agent/Community/Organization/Performing_Group/Theater_Group.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Performing_Group/Theater_Group.secret|Theater_Group.secret]] 
 

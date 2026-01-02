@@ -43,17 +43,17 @@ A specific dosing schedule for a drug or supplement.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Dose_Schedule](/_Standards/bio/Medicine/Medical_Entity/Medical_Intangible/Dose_Schedule.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Entity/Medical_Intangible/Dose_Schedule|Dose_Schedule]] 
 
-### #is_/same_as :: [Dose_Schedule.public](/_public/bio/Medicine/Medical_Entity/Medical_Intangible/Dose_Schedule.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Entity/Medical_Intangible/Dose_Schedule.public|Dose_Schedule.public]] 
 
-### #is_/same_as :: [Dose_Schedule.internal](/_internal/bio/Medicine/Medical_Entity/Medical_Intangible/Dose_Schedule.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Entity/Medical_Intangible/Dose_Schedule.internal|Dose_Schedule.internal]] 
 
-### #is_/same_as :: [Dose_Schedule.protect](/_protect/bio/Medicine/Medical_Entity/Medical_Intangible/Dose_Schedule.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Entity/Medical_Intangible/Dose_Schedule.protect|Dose_Schedule.protect]] 
 
-### #is_/same_as :: [Dose_Schedule.private](/_private/bio/Medicine/Medical_Entity/Medical_Intangible/Dose_Schedule.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Entity/Medical_Intangible/Dose_Schedule.private|Dose_Schedule.private]] 
 
-### #is_/same_as :: [Dose_Schedule.personal](/_personal/bio/Medicine/Medical_Entity/Medical_Intangible/Dose_Schedule.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Entity/Medical_Intangible/Dose_Schedule.personal|Dose_Schedule.personal]] 
 
-### #is_/same_as :: [Dose_Schedule.secret](/_secret/bio/Medicine/Medical_Entity/Medical_Intangible/Dose_Schedule.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Entity/Medical_Intangible/Dose_Schedule.secret|Dose_Schedule.secret]] 
 

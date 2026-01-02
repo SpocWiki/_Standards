@@ -59,17 +59,17 @@ Dewey_Decimal_Classification: "782.43"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Madrigal](/_Standards/Society/Communication/Media/Music/Music_Genre/Madrigal.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Music_Genre/Madrigal|Madrigal]] 
 
-### #is_/same_as :: [Madrigal.public](/_public/Society/Communication/Media/Music/Music_Genre/Madrigal.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Music_Genre/Madrigal.public|Madrigal.public]] 
 
-### #is_/same_as :: [Madrigal.internal](/_internal/Society/Communication/Media/Music/Music_Genre/Madrigal.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Music_Genre/Madrigal.internal|Madrigal.internal]] 
 
-### #is_/same_as :: [Madrigal.protect](/_protect/Society/Communication/Media/Music/Music_Genre/Madrigal.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Music_Genre/Madrigal.protect|Madrigal.protect]] 
 
-### #is_/same_as :: [Madrigal.private](/_private/Society/Communication/Media/Music/Music_Genre/Madrigal.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Music_Genre/Madrigal.private|Madrigal.private]] 
 
-### #is_/same_as :: [Madrigal.personal](/_personal/Society/Communication/Media/Music/Music_Genre/Madrigal.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Music_Genre/Madrigal.personal|Madrigal.personal]] 
 
-### #is_/same_as :: [Madrigal.secret](/_secret/Society/Communication/Media/Music/Music_Genre/Madrigal.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Music_Genre/Madrigal.secret|Madrigal.secret]] 
 

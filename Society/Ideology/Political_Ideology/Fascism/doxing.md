@@ -24,17 +24,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [doxing](/_Standards/Society/Ideology/Political_Ideology/Fascism/doxing.md) 
+### #is_/same_as :: [[/_Standards/Society/Ideology/Political_Ideology/Fascism/doxing|doxing]] 
 
-### #is_/same_as :: [doxing.public](/_public/Society/Ideology/Political_Ideology/Fascism/doxing.public.md) 
+### #is_/same_as :: [[/_public/Society/Ideology/Political_Ideology/Fascism/doxing.public|doxing.public]] 
 
-### #is_/same_as :: [doxing.internal](/_internal/Society/Ideology/Political_Ideology/Fascism/doxing.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Ideology/Political_Ideology/Fascism/doxing.internal|doxing.internal]] 
 
-### #is_/same_as :: [doxing.protect](/_protect/Society/Ideology/Political_Ideology/Fascism/doxing.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Ideology/Political_Ideology/Fascism/doxing.protect|doxing.protect]] 
 
-### #is_/same_as :: [doxing.private](/_private/Society/Ideology/Political_Ideology/Fascism/doxing.private.md) 
+### #is_/same_as :: [[/_private/Society/Ideology/Political_Ideology/Fascism/doxing.private|doxing.private]] 
 
-### #is_/same_as :: [doxing.personal](/_personal/Society/Ideology/Political_Ideology/Fascism/doxing.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Ideology/Political_Ideology/Fascism/doxing.personal|doxing.personal]] 
 
-### #is_/same_as :: [doxing.secret](/_secret/Society/Ideology/Political_Ideology/Fascism/doxing.secret.md)
+### #is_/same_as :: [[/_secret/Society/Ideology/Political_Ideology/Fascism/doxing.secret|doxing.secret]] 
 

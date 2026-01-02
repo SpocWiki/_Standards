@@ -62,17 +62,17 @@ IMDb_keyword: combat-sport
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Combat_Sport](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport|Combat_Sport]] 
 
-### #is_/same_as :: [Combat_Sport.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport.public|Combat_Sport.public]] 
 
-### #is_/same_as :: [Combat_Sport.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport.internal|Combat_Sport.internal]] 
 
-### #is_/same_as :: [Combat_Sport.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport.protect|Combat_Sport.protect]] 
 
-### #is_/same_as :: [Combat_Sport.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport.private|Combat_Sport.private]] 
 
-### #is_/same_as :: [Combat_Sport.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport.personal|Combat_Sport.personal]] 
 
-### #is_/same_as :: [Combat_Sport.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport.secret|Combat_Sport.secret]] 
 

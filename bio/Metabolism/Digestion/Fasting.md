@@ -74,17 +74,17 @@ Colon_Classification: L:5736
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Fasting](/_Standards/bio/Metabolism/Digestion/Fasting.md) 
+### #is_/same_as :: [[/_Standards/bio/Metabolism/Digestion/Fasting|Fasting]] 
 
-### #is_/same_as :: [Fasting.public](/_public/bio/Metabolism/Digestion/Fasting.public.md) 
+### #is_/same_as :: [[/_public/bio/Metabolism/Digestion/Fasting.public|Fasting.public]] 
 
-### #is_/same_as :: [Fasting.internal](/_internal/bio/Metabolism/Digestion/Fasting.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Metabolism/Digestion/Fasting.internal|Fasting.internal]] 
 
-### #is_/same_as :: [Fasting.protect](/_protect/bio/Metabolism/Digestion/Fasting.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Metabolism/Digestion/Fasting.protect|Fasting.protect]] 
 
-### #is_/same_as :: [Fasting.private](/_private/bio/Metabolism/Digestion/Fasting.private.md) 
+### #is_/same_as :: [[/_private/bio/Metabolism/Digestion/Fasting.private|Fasting.private]] 
 
-### #is_/same_as :: [Fasting.personal](/_personal/bio/Metabolism/Digestion/Fasting.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Metabolism/Digestion/Fasting.personal|Fasting.personal]] 
 
-### #is_/same_as :: [Fasting.secret](/_secret/bio/Metabolism/Digestion/Fasting.secret.md)
+### #is_/same_as :: [[/_secret/bio/Metabolism/Digestion/Fasting.secret|Fasting.secret]] 
 

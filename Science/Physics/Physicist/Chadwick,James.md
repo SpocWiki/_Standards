@@ -117,17 +117,17 @@ Krugosvet_article_archived_: nauka_i_tehnika/fizika/CHEDVIK_DZHEMS.html
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Chadwick,James](/_Standards/Science/Physics/Physicist/Chadwick,James.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Physicist/Chadwick,James|Chadwick,James]] 
 
-### #is_/same_as :: [Chadwick,James.public](/_public/Science/Physics/Physicist/Chadwick,James.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Physicist/Chadwick,James.public|Chadwick,James.public]] 
 
-### #is_/same_as :: [Chadwick,James.internal](/_internal/Science/Physics/Physicist/Chadwick,James.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Physicist/Chadwick,James.internal|Chadwick,James.internal]] 
 
-### #is_/same_as :: [Chadwick,James.protect](/_protect/Science/Physics/Physicist/Chadwick,James.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Physicist/Chadwick,James.protect|Chadwick,James.protect]] 
 
-### #is_/same_as :: [Chadwick,James.private](/_private/Science/Physics/Physicist/Chadwick,James.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Physicist/Chadwick,James.private|Chadwick,James.private]] 
 
-### #is_/same_as :: [Chadwick,James.personal](/_personal/Science/Physics/Physicist/Chadwick,James.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Physicist/Chadwick,James.personal|Chadwick,James.personal]] 
 
-### #is_/same_as :: [Chadwick,James.secret](/_secret/Science/Physics/Physicist/Chadwick,James.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Physicist/Chadwick,James.secret|Chadwick,James.secret]] 
 

@@ -161,17 +161,17 @@ pseudonym: Andrew Belis
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Beckett,Samuel](/_Standards/Society/Communication/Media/Writing/Book/Playwright/Beckett,Samuel.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Playwright/Beckett,Samuel|Beckett,Samuel]] 
 
-### #is_/same_as :: [Beckett,Samuel.public](/_public/Society/Communication/Media/Writing/Book/Playwright/Beckett,Samuel.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Playwright/Beckett,Samuel.public|Beckett,Samuel.public]] 
 
-### #is_/same_as :: [Beckett,Samuel.internal](/_internal/Society/Communication/Media/Writing/Book/Playwright/Beckett,Samuel.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Playwright/Beckett,Samuel.internal|Beckett,Samuel.internal]] 
 
-### #is_/same_as :: [Beckett,Samuel.protect](/_protect/Society/Communication/Media/Writing/Book/Playwright/Beckett,Samuel.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Playwright/Beckett,Samuel.protect|Beckett,Samuel.protect]] 
 
-### #is_/same_as :: [Beckett,Samuel.private](/_private/Society/Communication/Media/Writing/Book/Playwright/Beckett,Samuel.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Playwright/Beckett,Samuel.private|Beckett,Samuel.private]] 
 
-### #is_/same_as :: [Beckett,Samuel.personal](/_personal/Society/Communication/Media/Writing/Book/Playwright/Beckett,Samuel.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Playwright/Beckett,Samuel.personal|Beckett,Samuel.personal]] 
 
-### #is_/same_as :: [Beckett,Samuel.secret](/_secret/Society/Communication/Media/Writing/Book/Playwright/Beckett,Samuel.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Playwright/Beckett,Samuel.secret|Beckett,Samuel.secret]] 
 

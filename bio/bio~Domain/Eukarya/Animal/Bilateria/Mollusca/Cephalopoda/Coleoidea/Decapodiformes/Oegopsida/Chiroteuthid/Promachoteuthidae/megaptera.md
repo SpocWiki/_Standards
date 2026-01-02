@@ -31,7 +31,7 @@ title: Promachoteuthis megaptera
 # *Promachoteuthis megaptera* [Hoyle 1885] 
 
 [Richard E. Young and Michael Vecchione](http://www.tolweb.org/)
-![ ](megaptera/PromachOkutani.jpg))
+![ ](megaptera/PromachOkutani.jpg) 
 ![ ](megaptera/PromachMegaptHolo.jpg)
 
 Containing group:[Promachoteuthidae](../Promachoteuthidae.md) 
@@ -117,7 +117,7 @@ Ser., 11: 203-214.
   Life Cycle Stage ::   Immature
   Size               52 mm ML
   --------------------------------------------------------------
-![](megaptera/PromachMegaptHolo.jpg))
+![](megaptera/PromachMegaptHolo.jpg) 
 
   --------------------------------------------------------------------------------------
   Scientific Name ::  Promachoteuthis megaptera
@@ -131,17 +131,17 @@ Ser., 11: 203-214.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [megaptera](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Promachoteuthidae/megaptera.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Promachoteuthidae/megaptera|megaptera]] 
 
-### #is_/same_as :: [megaptera.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Promachoteuthidae/megaptera.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Promachoteuthidae/megaptera.public|megaptera.public]] 
 
-### #is_/same_as :: [megaptera.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Promachoteuthidae/megaptera.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Promachoteuthidae/megaptera.internal|megaptera.internal]] 
 
-### #is_/same_as :: [megaptera.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Promachoteuthidae/megaptera.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Promachoteuthidae/megaptera.protect|megaptera.protect]] 
 
-### #is_/same_as :: [megaptera.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Promachoteuthidae/megaptera.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Promachoteuthidae/megaptera.private|megaptera.private]] 
 
-### #is_/same_as :: [megaptera.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Promachoteuthidae/megaptera.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Promachoteuthidae/megaptera.personal|megaptera.personal]] 
 
-### #is_/same_as :: [megaptera.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Promachoteuthidae/megaptera.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Promachoteuthidae/megaptera.secret|megaptera.secret]] 
 

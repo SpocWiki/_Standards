@@ -115,17 +115,17 @@ title: रामायण
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ramayana](/_Standards/Society/Communication/Genre/Fiction/Folklore/Legend/Ramayana.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Genre/Fiction/Folklore/Legend/Ramayana|Ramayana]] 
 
-### #is_/same_as :: [Ramayana.public](/_public/Society/Communication/Genre/Fiction/Folklore/Legend/Ramayana.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Genre/Fiction/Folklore/Legend/Ramayana.public|Ramayana.public]] 
 
-### #is_/same_as :: [Ramayana.internal](/_internal/Society/Communication/Genre/Fiction/Folklore/Legend/Ramayana.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Genre/Fiction/Folklore/Legend/Ramayana.internal|Ramayana.internal]] 
 
-### #is_/same_as :: [Ramayana.protect](/_protect/Society/Communication/Genre/Fiction/Folklore/Legend/Ramayana.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Genre/Fiction/Folklore/Legend/Ramayana.protect|Ramayana.protect]] 
 
-### #is_/same_as :: [Ramayana.private](/_private/Society/Communication/Genre/Fiction/Folklore/Legend/Ramayana.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Genre/Fiction/Folklore/Legend/Ramayana.private|Ramayana.private]] 
 
-### #is_/same_as :: [Ramayana.personal](/_personal/Society/Communication/Genre/Fiction/Folklore/Legend/Ramayana.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Genre/Fiction/Folklore/Legend/Ramayana.personal|Ramayana.personal]] 
 
-### #is_/same_as :: [Ramayana.secret](/_secret/Society/Communication/Genre/Fiction/Folklore/Legend/Ramayana.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Genre/Fiction/Folklore/Legend/Ramayana.secret|Ramayana.secret]] 
 

@@ -45,17 +45,17 @@ Krugosvet_article: nauka_i_tehnika/biologiya/DIHANIE.html
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Breathing](/_Standards/bio/Medicine/Health/Breathing.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Health/Breathing|Breathing]] 
 
-### #is_/same_as :: [Breathing.public](/_public/bio/Medicine/Health/Breathing.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Health/Breathing.public|Breathing.public]] 
 
-### #is_/same_as :: [Breathing.internal](/_internal/bio/Medicine/Health/Breathing.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Health/Breathing.internal|Breathing.internal]] 
 
-### #is_/same_as :: [Breathing.protect](/_protect/bio/Medicine/Health/Breathing.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Health/Breathing.protect|Breathing.protect]] 
 
-### #is_/same_as :: [Breathing.private](/_private/bio/Medicine/Health/Breathing.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Health/Breathing.private|Breathing.private]] 
 
-### #is_/same_as :: [Breathing.personal](/_personal/bio/Medicine/Health/Breathing.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Health/Breathing.personal|Breathing.personal]] 
 
-### #is_/same_as :: [Breathing.secret](/_secret/bio/Medicine/Health/Breathing.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Health/Breathing.secret|Breathing.secret]] 
 

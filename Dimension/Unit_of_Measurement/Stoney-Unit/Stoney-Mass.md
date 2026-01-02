@@ -10,17 +10,17 @@ could not be found nor synthesized.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Stoney-Mass](/_Standards/Dimension/Unit_of_Measurement/Stoney-Unit/Stoney-Mass.md) 
+### #is_/same_as :: [[/_Standards/Dimension/Unit_of_Measurement/Stoney-Unit/Stoney-Mass|Stoney-Mass]] 
 
-### #is_/same_as :: [Stoney-Mass.public](/_public/Dimension/Unit_of_Measurement/Stoney-Unit/Stoney-Mass.public.md) 
+### #is_/same_as :: [[/_public/Dimension/Unit_of_Measurement/Stoney-Unit/Stoney-Mass.public|Stoney-Mass.public]] 
 
-### #is_/same_as :: [Stoney-Mass.internal](/_internal/Dimension/Unit_of_Measurement/Stoney-Unit/Stoney-Mass.internal.md) 
+### #is_/same_as :: [[/_internal/Dimension/Unit_of_Measurement/Stoney-Unit/Stoney-Mass.internal|Stoney-Mass.internal]] 
 
-### #is_/same_as :: [Stoney-Mass.protect](/_protect/Dimension/Unit_of_Measurement/Stoney-Unit/Stoney-Mass.protect.md) 
+### #is_/same_as :: [[/_protect/Dimension/Unit_of_Measurement/Stoney-Unit/Stoney-Mass.protect|Stoney-Mass.protect]] 
 
-### #is_/same_as :: [Stoney-Mass.private](/_private/Dimension/Unit_of_Measurement/Stoney-Unit/Stoney-Mass.private.md) 
+### #is_/same_as :: [[/_private/Dimension/Unit_of_Measurement/Stoney-Unit/Stoney-Mass.private|Stoney-Mass.private]] 
 
-### #is_/same_as :: [Stoney-Mass.personal](/_personal/Dimension/Unit_of_Measurement/Stoney-Unit/Stoney-Mass.personal.md) 
+### #is_/same_as :: [[/_personal/Dimension/Unit_of_Measurement/Stoney-Unit/Stoney-Mass.personal|Stoney-Mass.personal]] 
 
-### #is_/same_as :: [Stoney-Mass.secret](/_secret/Dimension/Unit_of_Measurement/Stoney-Unit/Stoney-Mass.secret.md)
+### #is_/same_as :: [[/_secret/Dimension/Unit_of_Measurement/Stoney-Unit/Stoney-Mass.secret|Stoney-Mass.secret]] 
 

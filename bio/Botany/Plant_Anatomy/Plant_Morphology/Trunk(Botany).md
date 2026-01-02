@@ -57,17 +57,17 @@ Commons_category: Tree trunks
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Trunk(Botany)](/_Standards/bio/Botany/Plant_Anatomy/Plant_Morphology/Trunk(Botany).md) 
+### #is_/same_as :: [[/_Standards/bio/Botany/Plant_Anatomy/Plant_Morphology/Trunk(Botany)|Trunk(Botany)]] 
 
-### #is_/same_as :: [Trunk(Botany).public](/_public/bio/Botany/Plant_Anatomy/Plant_Morphology/Trunk(Botany).public.md) 
+### #is_/same_as :: [[/_public/bio/Botany/Plant_Anatomy/Plant_Morphology/Trunk(Botany).public|Trunk(Botany).public]] 
 
-### #is_/same_as :: [Trunk(Botany).internal](/_internal/bio/Botany/Plant_Anatomy/Plant_Morphology/Trunk(Botany).internal.md) 
+### #is_/same_as :: [[/_internal/bio/Botany/Plant_Anatomy/Plant_Morphology/Trunk(Botany).internal|Trunk(Botany).internal]] 
 
-### #is_/same_as :: [Trunk(Botany).protect](/_protect/bio/Botany/Plant_Anatomy/Plant_Morphology/Trunk(Botany).protect.md) 
+### #is_/same_as :: [[/_protect/bio/Botany/Plant_Anatomy/Plant_Morphology/Trunk(Botany).protect|Trunk(Botany).protect]] 
 
-### #is_/same_as :: [Trunk(Botany).private](/_private/bio/Botany/Plant_Anatomy/Plant_Morphology/Trunk(Botany).private.md) 
+### #is_/same_as :: [[/_private/bio/Botany/Plant_Anatomy/Plant_Morphology/Trunk(Botany).private|Trunk(Botany).private]] 
 
-### #is_/same_as :: [Trunk(Botany).personal](/_personal/bio/Botany/Plant_Anatomy/Plant_Morphology/Trunk(Botany).personal.md) 
+### #is_/same_as :: [[/_personal/bio/Botany/Plant_Anatomy/Plant_Morphology/Trunk(Botany).personal|Trunk(Botany).personal]] 
 
-### #is_/same_as :: [Trunk(Botany).secret](/_secret/bio/Botany/Plant_Anatomy/Plant_Morphology/Trunk(Botany).secret.md)
+### #is_/same_as :: [[/_secret/bio/Botany/Plant_Anatomy/Plant_Morphology/Trunk(Botany).secret|Trunk(Botany).secret]] 
 

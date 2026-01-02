@@ -54,17 +54,17 @@ UNII: AMN6S4M09G
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Coconut_Milk](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Drink/Coconut_Milk.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Home_Economics/Cooking/Food/Drink/Coconut_Milk|Coconut_Milk]] 
 
-### #is_/same_as :: [Coconut_Milk.public](/_public/Society/Economics/Home_Economics/Cooking/Food/Drink/Coconut_Milk.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Home_Economics/Cooking/Food/Drink/Coconut_Milk.public|Coconut_Milk.public]] 
 
-### #is_/same_as :: [Coconut_Milk.internal](/_internal/Society/Economics/Home_Economics/Cooking/Food/Drink/Coconut_Milk.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Home_Economics/Cooking/Food/Drink/Coconut_Milk.internal|Coconut_Milk.internal]] 
 
-### #is_/same_as :: [Coconut_Milk.protect](/_protect/Society/Economics/Home_Economics/Cooking/Food/Drink/Coconut_Milk.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Home_Economics/Cooking/Food/Drink/Coconut_Milk.protect|Coconut_Milk.protect]] 
 
-### #is_/same_as :: [Coconut_Milk.private](/_private/Society/Economics/Home_Economics/Cooking/Food/Drink/Coconut_Milk.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Home_Economics/Cooking/Food/Drink/Coconut_Milk.private|Coconut_Milk.private]] 
 
-### #is_/same_as :: [Coconut_Milk.personal](/_personal/Society/Economics/Home_Economics/Cooking/Food/Drink/Coconut_Milk.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Home_Economics/Cooking/Food/Drink/Coconut_Milk.personal|Coconut_Milk.personal]] 
 
-### #is_/same_as :: [Coconut_Milk.secret](/_secret/Society/Economics/Home_Economics/Cooking/Food/Drink/Coconut_Milk.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Home_Economics/Cooking/Food/Drink/Coconut_Milk.secret|Coconut_Milk.secret]] 
 

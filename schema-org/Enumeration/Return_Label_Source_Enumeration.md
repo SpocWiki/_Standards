@@ -41,17 +41,17 @@ Enumerates several types of return labels for product returns.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Return_Label_Source_Enumeration](/_Standards/schema-org/Enumeration/Return_Label_Source_Enumeration.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Return_Label_Source_Enumeration|Return_Label_Source_Enumeration]] 
 
-### #is_/same_as :: [Return_Label_Source_Enumeration.public](/_public/schema-org/Enumeration/Return_Label_Source_Enumeration.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Return_Label_Source_Enumeration.public|Return_Label_Source_Enumeration.public]] 
 
-### #is_/same_as :: [Return_Label_Source_Enumeration.internal](/_internal/schema-org/Enumeration/Return_Label_Source_Enumeration.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Return_Label_Source_Enumeration.internal|Return_Label_Source_Enumeration.internal]] 
 
-### #is_/same_as :: [Return_Label_Source_Enumeration.protect](/_protect/schema-org/Enumeration/Return_Label_Source_Enumeration.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Return_Label_Source_Enumeration.protect|Return_Label_Source_Enumeration.protect]] 
 
-### #is_/same_as :: [Return_Label_Source_Enumeration.private](/_private/schema-org/Enumeration/Return_Label_Source_Enumeration.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Return_Label_Source_Enumeration.private|Return_Label_Source_Enumeration.private]] 
 
-### #is_/same_as :: [Return_Label_Source_Enumeration.personal](/_personal/schema-org/Enumeration/Return_Label_Source_Enumeration.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Return_Label_Source_Enumeration.personal|Return_Label_Source_Enumeration.personal]] 
 
-### #is_/same_as :: [Return_Label_Source_Enumeration.secret](/_secret/schema-org/Enumeration/Return_Label_Source_Enumeration.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Return_Label_Source_Enumeration.secret|Return_Label_Source_Enumeration.secret]] 
 

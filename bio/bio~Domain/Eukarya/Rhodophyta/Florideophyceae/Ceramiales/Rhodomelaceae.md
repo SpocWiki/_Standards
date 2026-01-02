@@ -145,17 +145,17 @@ Copyright ::         © [D. Wilson Freshwater](mailto:freshwaterw@uncw.edu)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Rhodomelaceae](/_Standards/bio/bio~Domain/Eukarya/Rhodophyta/Florideophyceae/Ceramiales/Rhodomelaceae.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Rhodophyta/Florideophyceae/Ceramiales/Rhodomelaceae|Rhodomelaceae]] 
 
-### #is_/same_as :: [Rhodomelaceae.public](/_public/bio/bio~Domain/Eukarya/Rhodophyta/Florideophyceae/Ceramiales/Rhodomelaceae.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Rhodophyta/Florideophyceae/Ceramiales/Rhodomelaceae.public|Rhodomelaceae.public]] 
 
-### #is_/same_as :: [Rhodomelaceae.internal](/_internal/bio/bio~Domain/Eukarya/Rhodophyta/Florideophyceae/Ceramiales/Rhodomelaceae.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Rhodophyta/Florideophyceae/Ceramiales/Rhodomelaceae.internal|Rhodomelaceae.internal]] 
 
-### #is_/same_as :: [Rhodomelaceae.protect](/_protect/bio/bio~Domain/Eukarya/Rhodophyta/Florideophyceae/Ceramiales/Rhodomelaceae.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Rhodophyta/Florideophyceae/Ceramiales/Rhodomelaceae.protect|Rhodomelaceae.protect]] 
 
-### #is_/same_as :: [Rhodomelaceae.private](/_private/bio/bio~Domain/Eukarya/Rhodophyta/Florideophyceae/Ceramiales/Rhodomelaceae.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Rhodophyta/Florideophyceae/Ceramiales/Rhodomelaceae.private|Rhodomelaceae.private]] 
 
-### #is_/same_as :: [Rhodomelaceae.personal](/_personal/bio/bio~Domain/Eukarya/Rhodophyta/Florideophyceae/Ceramiales/Rhodomelaceae.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Rhodophyta/Florideophyceae/Ceramiales/Rhodomelaceae.personal|Rhodomelaceae.personal]] 
 
-### #is_/same_as :: [Rhodomelaceae.secret](/_secret/bio/bio~Domain/Eukarya/Rhodophyta/Florideophyceae/Ceramiales/Rhodomelaceae.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Rhodophyta/Florideophyceae/Ceramiales/Rhodomelaceae.secret|Rhodomelaceae.secret]] 
 

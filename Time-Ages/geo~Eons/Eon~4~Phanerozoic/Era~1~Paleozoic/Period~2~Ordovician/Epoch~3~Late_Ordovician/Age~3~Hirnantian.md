@@ -65,17 +65,17 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Age~3~Hirnantian](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~2~Ordovician/Epoch~3~Late_Ordovician/Age~3~Hirnantian.md) 
+### #is_/same_as :: [[/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~2~Ordovician/Epoch~3~Late_Ordovician/Age~3~Hirnantian|Age~3~Hirnantian]] 
 
-### #is_/same_as :: [Age~3~Hirnantian.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~2~Ordovician/Epoch~3~Late_Ordovician/Age~3~Hirnantian.public.md) 
+### #is_/same_as :: [[/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~2~Ordovician/Epoch~3~Late_Ordovician/Age~3~Hirnantian.public|Age~3~Hirnantian.public]] 
 
-### #is_/same_as :: [Age~3~Hirnantian.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~2~Ordovician/Epoch~3~Late_Ordovician/Age~3~Hirnantian.internal.md) 
+### #is_/same_as :: [[/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~2~Ordovician/Epoch~3~Late_Ordovician/Age~3~Hirnantian.internal|Age~3~Hirnantian.internal]] 
 
-### #is_/same_as :: [Age~3~Hirnantian.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~2~Ordovician/Epoch~3~Late_Ordovician/Age~3~Hirnantian.protect.md) 
+### #is_/same_as :: [[/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~2~Ordovician/Epoch~3~Late_Ordovician/Age~3~Hirnantian.protect|Age~3~Hirnantian.protect]] 
 
-### #is_/same_as :: [Age~3~Hirnantian.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~2~Ordovician/Epoch~3~Late_Ordovician/Age~3~Hirnantian.private.md) 
+### #is_/same_as :: [[/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~2~Ordovician/Epoch~3~Late_Ordovician/Age~3~Hirnantian.private|Age~3~Hirnantian.private]] 
 
-### #is_/same_as :: [Age~3~Hirnantian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~2~Ordovician/Epoch~3~Late_Ordovician/Age~3~Hirnantian.personal.md) 
+### #is_/same_as :: [[/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~2~Ordovician/Epoch~3~Late_Ordovician/Age~3~Hirnantian.personal|Age~3~Hirnantian.personal]] 
 
-### #is_/same_as :: [Age~3~Hirnantian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~2~Ordovician/Epoch~3~Late_Ordovician/Age~3~Hirnantian.secret.md)
+### #is_/same_as :: [[/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~2~Ordovician/Epoch~3~Late_Ordovician/Age~3~Hirnantian.secret|Age~3~Hirnantian.secret]] 
 

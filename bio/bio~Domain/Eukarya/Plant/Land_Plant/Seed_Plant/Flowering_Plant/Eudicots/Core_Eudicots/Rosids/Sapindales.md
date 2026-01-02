@@ -99,7 +99,7 @@ title: Sapindales
 
 ## Title Illustrations
 
-![California buckeye, Aesculus californica](Sapindales/Aesculus_californica67.jpg))
+![California buckeye, Aesculus californica](Sapindales/Aesculus_californica67.jpg) 
 
   ------------------------------------------------------------------------------
   Scientific Name ::     Aesculus californica
@@ -110,7 +110,7 @@ title: Sapindales
   Copyright ::            © 1999 [California Academy of Sciences](http://www.calacademy.org/) 
  
   ------------------------------------------------------------------------------
-![Dictamnus dasycarpus](Sapindales/Dictamnus_dasycarpus.jpg))
+![Dictamnus dasycarpus](Sapindales/Dictamnus_dasycarpus.jpg) 
 
   -------------------------------------------------------------------------
   Scientific Name ::     Dictamnus dasycarpus
@@ -121,7 +121,7 @@ title: Sapindales
   Copyright ::            © 1999 [Nick Kurzenko](mailto:kurzenko@ibss.dvo.ru) 
  
   -------------------------------------------------------------------------
-![Elephant tree, Bursera microphylla](Sapindales/Bursera_microphylla0036.jpg))
+![Elephant tree, Bursera microphylla](Sapindales/Bursera_microphylla0036.jpg) 
 
   ------------------------------------------------------------------------------
   Scientific Name ::     Bursera microphylla
@@ -137,17 +137,17 @@ title: Sapindales
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sapindales](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Sapindales.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Sapindales|Sapindales]] 
 
-### #is_/same_as :: [Sapindales.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Sapindales.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Sapindales.public|Sapindales.public]] 
 
-### #is_/same_as :: [Sapindales.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Sapindales.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Sapindales.internal|Sapindales.internal]] 
 
-### #is_/same_as :: [Sapindales.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Sapindales.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Sapindales.protect|Sapindales.protect]] 
 
-### #is_/same_as :: [Sapindales.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Sapindales.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Sapindales.private|Sapindales.private]] 
 
-### #is_/same_as :: [Sapindales.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Sapindales.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Sapindales.personal|Sapindales.personal]] 
 
-### #is_/same_as :: [Sapindales.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Sapindales.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Sapindales.secret|Sapindales.secret]] 
 

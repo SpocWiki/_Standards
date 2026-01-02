@@ -43,17 +43,17 @@ Any rule set or interactive tool for estimating the risk of developing a complic
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Medical_Risk_Estimator](/_Standards/bio/Medicine/Medical_Entity/Medical_Risk_Estimator.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Entity/Medical_Risk_Estimator|Medical_Risk_Estimator]] 
 
-### #is_/same_as :: [Medical_Risk_Estimator.public](/_public/bio/Medicine/Medical_Entity/Medical_Risk_Estimator.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Entity/Medical_Risk_Estimator.public|Medical_Risk_Estimator.public]] 
 
-### #is_/same_as :: [Medical_Risk_Estimator.internal](/_internal/bio/Medicine/Medical_Entity/Medical_Risk_Estimator.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Entity/Medical_Risk_Estimator.internal|Medical_Risk_Estimator.internal]] 
 
-### #is_/same_as :: [Medical_Risk_Estimator.protect](/_protect/bio/Medicine/Medical_Entity/Medical_Risk_Estimator.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Entity/Medical_Risk_Estimator.protect|Medical_Risk_Estimator.protect]] 
 
-### #is_/same_as :: [Medical_Risk_Estimator.private](/_private/bio/Medicine/Medical_Entity/Medical_Risk_Estimator.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Entity/Medical_Risk_Estimator.private|Medical_Risk_Estimator.private]] 
 
-### #is_/same_as :: [Medical_Risk_Estimator.personal](/_personal/bio/Medicine/Medical_Entity/Medical_Risk_Estimator.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Entity/Medical_Risk_Estimator.personal|Medical_Risk_Estimator.personal]] 
 
-### #is_/same_as :: [Medical_Risk_Estimator.secret](/_secret/bio/Medicine/Medical_Entity/Medical_Risk_Estimator.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Entity/Medical_Risk_Estimator.secret|Medical_Risk_Estimator.secret]] 
 

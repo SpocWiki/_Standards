@@ -45,17 +45,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_model](/_Standards/schema-org/Relation/has/has_model.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_model|has_model]] 
 
-### #is_/same_as :: [has_model.public](/_public/schema-org/Relation/has/has_model.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_model.public|has_model.public]] 
 
-### #is_/same_as :: [has_model.internal](/_internal/schema-org/Relation/has/has_model.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_model.internal|has_model.internal]] 
 
-### #is_/same_as :: [has_model.protect](/_protect/schema-org/Relation/has/has_model.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_model.protect|has_model.protect]] 
 
-### #is_/same_as :: [has_model.private](/_private/schema-org/Relation/has/has_model.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_model.private|has_model.private]] 
 
-### #is_/same_as :: [has_model.personal](/_personal/schema-org/Relation/has/has_model.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_model.personal|has_model.personal]] 
 
-### #is_/same_as :: [has_model.secret](/_secret/schema-org/Relation/has/has_model.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_model.secret|has_model.secret]] 
 

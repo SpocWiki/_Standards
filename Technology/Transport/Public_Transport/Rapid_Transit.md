@@ -83,17 +83,17 @@ OpenStreetMap_tag: railway=subway
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Rapid_Transit](/_Standards/Technology/Transport/Public_Transport/Rapid_Transit.md) 
+### #is_/same_as :: [[/_Standards/Technology/Transport/Public_Transport/Rapid_Transit|Rapid_Transit]] 
 
-### #is_/same_as :: [Rapid_Transit.public](/_public/Technology/Transport/Public_Transport/Rapid_Transit.public.md) 
+### #is_/same_as :: [[/_public/Technology/Transport/Public_Transport/Rapid_Transit.public|Rapid_Transit.public]] 
 
-### #is_/same_as :: [Rapid_Transit.internal](/_internal/Technology/Transport/Public_Transport/Rapid_Transit.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Transport/Public_Transport/Rapid_Transit.internal|Rapid_Transit.internal]] 
 
-### #is_/same_as :: [Rapid_Transit.protect](/_protect/Technology/Transport/Public_Transport/Rapid_Transit.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Transport/Public_Transport/Rapid_Transit.protect|Rapid_Transit.protect]] 
 
-### #is_/same_as :: [Rapid_Transit.private](/_private/Technology/Transport/Public_Transport/Rapid_Transit.private.md) 
+### #is_/same_as :: [[/_private/Technology/Transport/Public_Transport/Rapid_Transit.private|Rapid_Transit.private]] 
 
-### #is_/same_as :: [Rapid_Transit.personal](/_personal/Technology/Transport/Public_Transport/Rapid_Transit.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Transport/Public_Transport/Rapid_Transit.personal|Rapid_Transit.personal]] 
 
-### #is_/same_as :: [Rapid_Transit.secret](/_secret/Technology/Transport/Public_Transport/Rapid_Transit.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Transport/Public_Transport/Rapid_Transit.secret|Rapid_Transit.secret]] 
 

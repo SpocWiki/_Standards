@@ -119,17 +119,17 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Feminist%20Suffrage%20
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Liberal_Democracy](/_Standards/Society/Politics/Government/Democracy/Liberal_Democracy.md) 
+### #is_/same_as :: [[/_Standards/Society/Politics/Government/Democracy/Liberal_Democracy|Liberal_Democracy]] 
 
-### #is_/same_as :: [Liberal_Democracy.public](/_public/Society/Politics/Government/Democracy/Liberal_Democracy.public.md) 
+### #is_/same_as :: [[/_public/Society/Politics/Government/Democracy/Liberal_Democracy.public|Liberal_Democracy.public]] 
 
-### #is_/same_as :: [Liberal_Democracy.internal](/_internal/Society/Politics/Government/Democracy/Liberal_Democracy.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Politics/Government/Democracy/Liberal_Democracy.internal|Liberal_Democracy.internal]] 
 
-### #is_/same_as :: [Liberal_Democracy.protect](/_protect/Society/Politics/Government/Democracy/Liberal_Democracy.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Politics/Government/Democracy/Liberal_Democracy.protect|Liberal_Democracy.protect]] 
 
-### #is_/same_as :: [Liberal_Democracy.private](/_private/Society/Politics/Government/Democracy/Liberal_Democracy.private.md) 
+### #is_/same_as :: [[/_private/Society/Politics/Government/Democracy/Liberal_Democracy.private|Liberal_Democracy.private]] 
 
-### #is_/same_as :: [Liberal_Democracy.personal](/_personal/Society/Politics/Government/Democracy/Liberal_Democracy.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Politics/Government/Democracy/Liberal_Democracy.personal|Liberal_Democracy.personal]] 
 
-### #is_/same_as :: [Liberal_Democracy.secret](/_secret/Society/Politics/Government/Democracy/Liberal_Democracy.secret.md)
+### #is_/same_as :: [[/_secret/Society/Politics/Government/Democracy/Liberal_Democracy.secret|Liberal_Democracy.secret]] 
 

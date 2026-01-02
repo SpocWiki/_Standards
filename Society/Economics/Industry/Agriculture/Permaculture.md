@@ -42,17 +42,17 @@ Commons_category: Permaculture
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Permaculture](/_Standards/Society/Economics/Industry/Agriculture/Permaculture.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Industry/Agriculture/Permaculture|Permaculture]] 
 
-### #is_/same_as :: [Permaculture.public](/_public/Society/Economics/Industry/Agriculture/Permaculture.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Industry/Agriculture/Permaculture.public|Permaculture.public]] 
 
-### #is_/same_as :: [Permaculture.internal](/_internal/Society/Economics/Industry/Agriculture/Permaculture.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Industry/Agriculture/Permaculture.internal|Permaculture.internal]] 
 
-### #is_/same_as :: [Permaculture.protect](/_protect/Society/Economics/Industry/Agriculture/Permaculture.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Industry/Agriculture/Permaculture.protect|Permaculture.protect]] 
 
-### #is_/same_as :: [Permaculture.private](/_private/Society/Economics/Industry/Agriculture/Permaculture.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Industry/Agriculture/Permaculture.private|Permaculture.private]] 
 
-### #is_/same_as :: [Permaculture.personal](/_personal/Society/Economics/Industry/Agriculture/Permaculture.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Industry/Agriculture/Permaculture.personal|Permaculture.personal]] 
 
-### #is_/same_as :: [Permaculture.secret](/_secret/Society/Economics/Industry/Agriculture/Permaculture.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Industry/Agriculture/Permaculture.secret|Permaculture.secret]] 
 

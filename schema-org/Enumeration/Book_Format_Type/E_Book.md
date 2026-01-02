@@ -42,17 +42,17 @@ Book format: Ebook.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [E_Book](/_Standards/schema-org/Enumeration/Book_Format_Type/E_Book.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Book_Format_Type/E_Book|E_Book]] 
 
-### #is_/same_as :: [E_Book.public](/_public/schema-org/Enumeration/Book_Format_Type/E_Book.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Book_Format_Type/E_Book.public|E_Book.public]] 
 
-### #is_/same_as :: [E_Book.internal](/_internal/schema-org/Enumeration/Book_Format_Type/E_Book.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Book_Format_Type/E_Book.internal|E_Book.internal]] 
 
-### #is_/same_as :: [E_Book.protect](/_protect/schema-org/Enumeration/Book_Format_Type/E_Book.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Book_Format_Type/E_Book.protect|E_Book.protect]] 
 
-### #is_/same_as :: [E_Book.private](/_private/schema-org/Enumeration/Book_Format_Type/E_Book.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Book_Format_Type/E_Book.private|E_Book.private]] 
 
-### #is_/same_as :: [E_Book.personal](/_personal/schema-org/Enumeration/Book_Format_Type/E_Book.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Book_Format_Type/E_Book.personal|E_Book.personal]] 
 
-### #is_/same_as :: [E_Book.secret](/_secret/schema-org/Enumeration/Book_Format_Type/E_Book.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Book_Format_Type/E_Book.secret|E_Book.secret]] 
 

@@ -42,17 +42,17 @@ pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Fr-struc
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Crystal_Structure](/_Standards/Science/Physics/State_of_Matter/Solid/Crystal/Crystal_Structure.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/State_of_Matter/Solid/Crystal/Crystal_Structure|Crystal_Structure]] 
 
-### #is_/same_as :: [Crystal_Structure.public](/_public/Science/Physics/State_of_Matter/Solid/Crystal/Crystal_Structure.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/State_of_Matter/Solid/Crystal/Crystal_Structure.public|Crystal_Structure.public]] 
 
-### #is_/same_as :: [Crystal_Structure.internal](/_internal/Science/Physics/State_of_Matter/Solid/Crystal/Crystal_Structure.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/State_of_Matter/Solid/Crystal/Crystal_Structure.internal|Crystal_Structure.internal]] 
 
-### #is_/same_as :: [Crystal_Structure.protect](/_protect/Science/Physics/State_of_Matter/Solid/Crystal/Crystal_Structure.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/State_of_Matter/Solid/Crystal/Crystal_Structure.protect|Crystal_Structure.protect]] 
 
-### #is_/same_as :: [Crystal_Structure.private](/_private/Science/Physics/State_of_Matter/Solid/Crystal/Crystal_Structure.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/State_of_Matter/Solid/Crystal/Crystal_Structure.private|Crystal_Structure.private]] 
 
-### #is_/same_as :: [Crystal_Structure.personal](/_personal/Science/Physics/State_of_Matter/Solid/Crystal/Crystal_Structure.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/State_of_Matter/Solid/Crystal/Crystal_Structure.personal|Crystal_Structure.personal]] 
 
-### #is_/same_as :: [Crystal_Structure.secret](/_secret/Science/Physics/State_of_Matter/Solid/Crystal/Crystal_Structure.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/State_of_Matter/Solid/Crystal/Crystal_Structure.secret|Crystal_Structure.secret]] 
 

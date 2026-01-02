@@ -98,17 +98,17 @@ official_name: 136199 Eris
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Eris](/_Standards/Astronomy/Planet/Dwarf_Planet/Eris.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Planet/Dwarf_Planet/Eris|Eris]] 
 
-### #is_/same_as :: [Eris.public](/_public/Astronomy/Planet/Dwarf_Planet/Eris.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Planet/Dwarf_Planet/Eris.public|Eris.public]] 
 
-### #is_/same_as :: [Eris.internal](/_internal/Astronomy/Planet/Dwarf_Planet/Eris.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Planet/Dwarf_Planet/Eris.internal|Eris.internal]] 
 
-### #is_/same_as :: [Eris.protect](/_protect/Astronomy/Planet/Dwarf_Planet/Eris.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Planet/Dwarf_Planet/Eris.protect|Eris.protect]] 
 
-### #is_/same_as :: [Eris.private](/_private/Astronomy/Planet/Dwarf_Planet/Eris.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Planet/Dwarf_Planet/Eris.private|Eris.private]] 
 
-### #is_/same_as :: [Eris.personal](/_personal/Astronomy/Planet/Dwarf_Planet/Eris.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Planet/Dwarf_Planet/Eris.personal|Eris.personal]] 
 
-### #is_/same_as :: [Eris.secret](/_secret/Astronomy/Planet/Dwarf_Planet/Eris.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Planet/Dwarf_Planet/Eris.secret|Eris.secret]] 
 

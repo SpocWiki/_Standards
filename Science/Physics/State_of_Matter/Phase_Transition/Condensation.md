@@ -43,17 +43,17 @@ Commons_category: Condensation
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Condensation](/_Standards/Science/Physics/State_of_Matter/Phase_Transition/Condensation.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/State_of_Matter/Phase_Transition/Condensation|Condensation]] 
 
-### #is_/same_as :: [Condensation.public](/_public/Science/Physics/State_of_Matter/Phase_Transition/Condensation.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/State_of_Matter/Phase_Transition/Condensation.public|Condensation.public]] 
 
-### #is_/same_as :: [Condensation.internal](/_internal/Science/Physics/State_of_Matter/Phase_Transition/Condensation.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/State_of_Matter/Phase_Transition/Condensation.internal|Condensation.internal]] 
 
-### #is_/same_as :: [Condensation.protect](/_protect/Science/Physics/State_of_Matter/Phase_Transition/Condensation.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/State_of_Matter/Phase_Transition/Condensation.protect|Condensation.protect]] 
 
-### #is_/same_as :: [Condensation.private](/_private/Science/Physics/State_of_Matter/Phase_Transition/Condensation.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/State_of_Matter/Phase_Transition/Condensation.private|Condensation.private]] 
 
-### #is_/same_as :: [Condensation.personal](/_personal/Science/Physics/State_of_Matter/Phase_Transition/Condensation.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/State_of_Matter/Phase_Transition/Condensation.personal|Condensation.personal]] 
 
-### #is_/same_as :: [Condensation.secret](/_secret/Science/Physics/State_of_Matter/Phase_Transition/Condensation.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/State_of_Matter/Phase_Transition/Condensation.secret|Condensation.secret]] 
 

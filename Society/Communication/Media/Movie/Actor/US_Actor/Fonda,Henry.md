@@ -155,17 +155,17 @@ Plex_person_key: 5d776826103a2d001f563f4e
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Fonda,Henry](/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Fonda,Henry.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Fonda,Henry|Fonda,Henry]] 
 
-### #is_/same_as :: [Fonda,Henry.public](/_public/Society/Communication/Media/Movie/Actor/US_Actor/Fonda,Henry.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Actor/US_Actor/Fonda,Henry.public|Fonda,Henry.public]] 
 
-### #is_/same_as :: [Fonda,Henry.internal](/_internal/Society/Communication/Media/Movie/Actor/US_Actor/Fonda,Henry.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Actor/US_Actor/Fonda,Henry.internal|Fonda,Henry.internal]] 
 
-### #is_/same_as :: [Fonda,Henry.protect](/_protect/Society/Communication/Media/Movie/Actor/US_Actor/Fonda,Henry.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Actor/US_Actor/Fonda,Henry.protect|Fonda,Henry.protect]] 
 
-### #is_/same_as :: [Fonda,Henry.private](/_private/Society/Communication/Media/Movie/Actor/US_Actor/Fonda,Henry.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Actor/US_Actor/Fonda,Henry.private|Fonda,Henry.private]] 
 
-### #is_/same_as :: [Fonda,Henry.personal](/_personal/Society/Communication/Media/Movie/Actor/US_Actor/Fonda,Henry.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Actor/US_Actor/Fonda,Henry.personal|Fonda,Henry.personal]] 
 
-### #is_/same_as :: [Fonda,Henry.secret](/_secret/Society/Communication/Media/Movie/Actor/US_Actor/Fonda,Henry.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Actor/US_Actor/Fonda,Henry.secret|Fonda,Henry.secret]] 
 

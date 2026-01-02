@@ -32,17 +32,17 @@ Stack_Exchange_tag: https://or.stackexchange.com/tags/nonlinear-programming
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Nonlinear_Programming](/_Standards/Mathematics/Optimization(Math)/Nonlinear_Programming.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Optimization(Math)/Nonlinear_Programming|Nonlinear_Programming]] 
 
-### #is_/same_as :: [Nonlinear_Programming.public](/_public/Mathematics/Optimization(Math)/Nonlinear_Programming.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Optimization(Math)/Nonlinear_Programming.public|Nonlinear_Programming.public]] 
 
-### #is_/same_as :: [Nonlinear_Programming.internal](/_internal/Mathematics/Optimization(Math)/Nonlinear_Programming.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Optimization(Math)/Nonlinear_Programming.internal|Nonlinear_Programming.internal]] 
 
-### #is_/same_as :: [Nonlinear_Programming.protect](/_protect/Mathematics/Optimization(Math)/Nonlinear_Programming.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Optimization(Math)/Nonlinear_Programming.protect|Nonlinear_Programming.protect]] 
 
-### #is_/same_as :: [Nonlinear_Programming.private](/_private/Mathematics/Optimization(Math)/Nonlinear_Programming.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Optimization(Math)/Nonlinear_Programming.private|Nonlinear_Programming.private]] 
 
-### #is_/same_as :: [Nonlinear_Programming.personal](/_personal/Mathematics/Optimization(Math)/Nonlinear_Programming.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Optimization(Math)/Nonlinear_Programming.personal|Nonlinear_Programming.personal]] 
 
-### #is_/same_as :: [Nonlinear_Programming.secret](/_secret/Mathematics/Optimization(Math)/Nonlinear_Programming.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Optimization(Math)/Nonlinear_Programming.secret|Nonlinear_Programming.secret]] 
 

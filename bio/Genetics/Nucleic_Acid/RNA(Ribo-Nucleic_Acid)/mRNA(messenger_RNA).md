@@ -38,17 +38,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [mRNA(messenger_RNA)](/_Standards/bio/Genetics/Nucleic_Acid/RNA(Ribo-Nucleic_Acid)/mRNA(messenger_RNA).md) 
+### #is_/same_as :: [[/_Standards/bio/Genetics/Nucleic_Acid/RNA(Ribo-Nucleic_Acid)/mRNA(messenger_RNA)|mRNA(messenger_RNA)]] 
 
-### #is_/same_as :: [mRNA(messenger_RNA).public](/_public/bio/Genetics/Nucleic_Acid/RNA(Ribo-Nucleic_Acid)/mRNA(messenger_RNA).public.md) 
+### #is_/same_as :: [[/_public/bio/Genetics/Nucleic_Acid/RNA(Ribo-Nucleic_Acid)/mRNA(messenger_RNA).public|mRNA(messenger_RNA).public]] 
 
-### #is_/same_as :: [mRNA(messenger_RNA).internal](/_internal/bio/Genetics/Nucleic_Acid/RNA(Ribo-Nucleic_Acid)/mRNA(messenger_RNA).internal.md) 
+### #is_/same_as :: [[/_internal/bio/Genetics/Nucleic_Acid/RNA(Ribo-Nucleic_Acid)/mRNA(messenger_RNA).internal|mRNA(messenger_RNA).internal]] 
 
-### #is_/same_as :: [mRNA(messenger_RNA).protect](/_protect/bio/Genetics/Nucleic_Acid/RNA(Ribo-Nucleic_Acid)/mRNA(messenger_RNA).protect.md) 
+### #is_/same_as :: [[/_protect/bio/Genetics/Nucleic_Acid/RNA(Ribo-Nucleic_Acid)/mRNA(messenger_RNA).protect|mRNA(messenger_RNA).protect]] 
 
-### #is_/same_as :: [mRNA(messenger_RNA).private](/_private/bio/Genetics/Nucleic_Acid/RNA(Ribo-Nucleic_Acid)/mRNA(messenger_RNA).private.md) 
+### #is_/same_as :: [[/_private/bio/Genetics/Nucleic_Acid/RNA(Ribo-Nucleic_Acid)/mRNA(messenger_RNA).private|mRNA(messenger_RNA).private]] 
 
-### #is_/same_as :: [mRNA(messenger_RNA).personal](/_personal/bio/Genetics/Nucleic_Acid/RNA(Ribo-Nucleic_Acid)/mRNA(messenger_RNA).personal.md) 
+### #is_/same_as :: [[/_personal/bio/Genetics/Nucleic_Acid/RNA(Ribo-Nucleic_Acid)/mRNA(messenger_RNA).personal|mRNA(messenger_RNA).personal]] 
 
-### #is_/same_as :: [mRNA(messenger_RNA).secret](/_secret/bio/Genetics/Nucleic_Acid/RNA(Ribo-Nucleic_Acid)/mRNA(messenger_RNA).secret.md)
+### #is_/same_as :: [[/_secret/bio/Genetics/Nucleic_Acid/RNA(Ribo-Nucleic_Acid)/mRNA(messenger_RNA).secret|mRNA(messenger_RNA).secret]] 
 

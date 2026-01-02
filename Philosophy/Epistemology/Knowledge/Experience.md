@@ -59,17 +59,17 @@ related_image: http://commons.wikimedia.org/wiki/Special:FilePath/Ornette%20at%2
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Experience](/_Standards/Philosophy/Epistemology/Knowledge/Experience.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Epistemology/Knowledge/Experience|Experience]] 
 
-### #is_/same_as :: [Experience.public](/_public/Philosophy/Epistemology/Knowledge/Experience.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Epistemology/Knowledge/Experience.public|Experience.public]] 
 
-### #is_/same_as :: [Experience.internal](/_internal/Philosophy/Epistemology/Knowledge/Experience.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Epistemology/Knowledge/Experience.internal|Experience.internal]] 
 
-### #is_/same_as :: [Experience.protect](/_protect/Philosophy/Epistemology/Knowledge/Experience.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Epistemology/Knowledge/Experience.protect|Experience.protect]] 
 
-### #is_/same_as :: [Experience.private](/_private/Philosophy/Epistemology/Knowledge/Experience.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Epistemology/Knowledge/Experience.private|Experience.private]] 
 
-### #is_/same_as :: [Experience.personal](/_personal/Philosophy/Epistemology/Knowledge/Experience.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Epistemology/Knowledge/Experience.personal|Experience.personal]] 
 
-### #is_/same_as :: [Experience.secret](/_secret/Philosophy/Epistemology/Knowledge/Experience.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Epistemology/Knowledge/Experience.secret|Experience.secret]] 
 

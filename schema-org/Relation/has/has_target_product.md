@@ -42,17 +42,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_target_product](/_Standards/schema-org/Relation/has/has_target_product.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_target_product|has_target_product]] 
 
-### #is_/same_as :: [has_target_product.public](/_public/schema-org/Relation/has/has_target_product.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_target_product.public|has_target_product.public]] 
 
-### #is_/same_as :: [has_target_product.internal](/_internal/schema-org/Relation/has/has_target_product.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_target_product.internal|has_target_product.internal]] 
 
-### #is_/same_as :: [has_target_product.protect](/_protect/schema-org/Relation/has/has_target_product.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_target_product.protect|has_target_product.protect]] 
 
-### #is_/same_as :: [has_target_product.private](/_private/schema-org/Relation/has/has_target_product.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_target_product.private|has_target_product.private]] 
 
-### #is_/same_as :: [has_target_product.personal](/_personal/schema-org/Relation/has/has_target_product.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_target_product.personal|has_target_product.personal]] 
 
-### #is_/same_as :: [has_target_product.secret](/_secret/schema-org/Relation/has/has_target_product.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_target_product.secret|has_target_product.secret]] 
 

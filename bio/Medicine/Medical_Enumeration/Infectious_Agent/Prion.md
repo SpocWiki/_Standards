@@ -69,17 +69,17 @@ A prion is an infectious agent composed of protein in a misfolded form.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Prion](/_Standards/bio/Medicine/Medical_Enumeration/Infectious_Agent/Prion.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Enumeration/Infectious_Agent/Prion|Prion]] 
 
-### #is_/same_as :: [Prion.public](/_public/bio/Medicine/Medical_Enumeration/Infectious_Agent/Prion.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Enumeration/Infectious_Agent/Prion.public|Prion.public]] 
 
-### #is_/same_as :: [Prion.internal](/_internal/bio/Medicine/Medical_Enumeration/Infectious_Agent/Prion.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Enumeration/Infectious_Agent/Prion.internal|Prion.internal]] 
 
-### #is_/same_as :: [Prion.protect](/_protect/bio/Medicine/Medical_Enumeration/Infectious_Agent/Prion.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Enumeration/Infectious_Agent/Prion.protect|Prion.protect]] 
 
-### #is_/same_as :: [Prion.private](/_private/bio/Medicine/Medical_Enumeration/Infectious_Agent/Prion.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Enumeration/Infectious_Agent/Prion.private|Prion.private]] 
 
-### #is_/same_as :: [Prion.personal](/_personal/bio/Medicine/Medical_Enumeration/Infectious_Agent/Prion.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Enumeration/Infectious_Agent/Prion.personal|Prion.personal]] 
 
-### #is_/same_as :: [Prion.secret](/_secret/bio/Medicine/Medical_Enumeration/Infectious_Agent/Prion.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Enumeration/Infectious_Agent/Prion.secret|Prion.secret]] 
 

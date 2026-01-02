@@ -103,17 +103,17 @@ Unicode_character: 🍠
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sweet_Potato](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Solanales/Convolvulaceae/Ipomoea/Sweet_Potato.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Solanales/Convolvulaceae/Ipomoea/Sweet_Potato|Sweet_Potato]] 
 
-### #is_/same_as :: [Sweet_Potato.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Solanales/Convolvulaceae/Ipomoea/Sweet_Potato.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Solanales/Convolvulaceae/Ipomoea/Sweet_Potato.public|Sweet_Potato.public]] 
 
-### #is_/same_as :: [Sweet_Potato.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Solanales/Convolvulaceae/Ipomoea/Sweet_Potato.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Solanales/Convolvulaceae/Ipomoea/Sweet_Potato.internal|Sweet_Potato.internal]] 
 
-### #is_/same_as :: [Sweet_Potato.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Solanales/Convolvulaceae/Ipomoea/Sweet_Potato.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Solanales/Convolvulaceae/Ipomoea/Sweet_Potato.protect|Sweet_Potato.protect]] 
 
-### #is_/same_as :: [Sweet_Potato.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Solanales/Convolvulaceae/Ipomoea/Sweet_Potato.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Solanales/Convolvulaceae/Ipomoea/Sweet_Potato.private|Sweet_Potato.private]] 
 
-### #is_/same_as :: [Sweet_Potato.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Solanales/Convolvulaceae/Ipomoea/Sweet_Potato.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Solanales/Convolvulaceae/Ipomoea/Sweet_Potato.personal|Sweet_Potato.personal]] 
 
-### #is_/same_as :: [Sweet_Potato.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Solanales/Convolvulaceae/Ipomoea/Sweet_Potato.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Solanales/Convolvulaceae/Ipomoea/Sweet_Potato.secret|Sweet_Potato.secret]] 
 

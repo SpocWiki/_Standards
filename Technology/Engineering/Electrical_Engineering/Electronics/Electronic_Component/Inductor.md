@@ -35,17 +35,17 @@ subclass_of:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Inductor](/_Standards/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Inductor.md) 
+### #is_/same_as :: [[/_Standards/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Inductor|Inductor]] 
 
-### #is_/same_as :: [Inductor.public](/_public/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Inductor.public.md) 
+### #is_/same_as :: [[/_public/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Inductor.public|Inductor.public]] 
 
-### #is_/same_as :: [Inductor.internal](/_internal/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Inductor.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Inductor.internal|Inductor.internal]] 
 
-### #is_/same_as :: [Inductor.protect](/_protect/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Inductor.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Inductor.protect|Inductor.protect]] 
 
-### #is_/same_as :: [Inductor.private](/_private/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Inductor.private.md) 
+### #is_/same_as :: [[/_private/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Inductor.private|Inductor.private]] 
 
-### #is_/same_as :: [Inductor.personal](/_personal/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Inductor.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Inductor.personal|Inductor.personal]] 
 
-### #is_/same_as :: [Inductor.secret](/_secret/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Inductor.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Inductor.secret|Inductor.secret]] 
 

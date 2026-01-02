@@ -43,17 +43,17 @@ A company or fund that gathers capital from a number of investors to create a po
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Investment_Fund](/_Standards/Society/Agent/Community/Organization/Business/Service/Financial_Product/Investment_or_Deposit/Investment_Fund.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Business/Service/Financial_Product/Investment_or_Deposit/Investment_Fund|Investment_Fund]] 
 
-### #is_/same_as :: [Investment_Fund.public](/_public/Society/Agent/Community/Organization/Business/Service/Financial_Product/Investment_or_Deposit/Investment_Fund.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Business/Service/Financial_Product/Investment_or_Deposit/Investment_Fund.public|Investment_Fund.public]] 
 
-### #is_/same_as :: [Investment_Fund.internal](/_internal/Society/Agent/Community/Organization/Business/Service/Financial_Product/Investment_or_Deposit/Investment_Fund.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Business/Service/Financial_Product/Investment_or_Deposit/Investment_Fund.internal|Investment_Fund.internal]] 
 
-### #is_/same_as :: [Investment_Fund.protect](/_protect/Society/Agent/Community/Organization/Business/Service/Financial_Product/Investment_or_Deposit/Investment_Fund.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Business/Service/Financial_Product/Investment_or_Deposit/Investment_Fund.protect|Investment_Fund.protect]] 
 
-### #is_/same_as :: [Investment_Fund.private](/_private/Society/Agent/Community/Organization/Business/Service/Financial_Product/Investment_or_Deposit/Investment_Fund.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Business/Service/Financial_Product/Investment_or_Deposit/Investment_Fund.private|Investment_Fund.private]] 
 
-### #is_/same_as :: [Investment_Fund.personal](/_personal/Society/Agent/Community/Organization/Business/Service/Financial_Product/Investment_or_Deposit/Investment_Fund.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Business/Service/Financial_Product/Investment_or_Deposit/Investment_Fund.personal|Investment_Fund.personal]] 
 
-### #is_/same_as :: [Investment_Fund.secret](/_secret/Society/Agent/Community/Organization/Business/Service/Financial_Product/Investment_or_Deposit/Investment_Fund.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Business/Service/Financial_Product/Investment_or_Deposit/Investment_Fund.secret|Investment_Fund.secret]] 
 

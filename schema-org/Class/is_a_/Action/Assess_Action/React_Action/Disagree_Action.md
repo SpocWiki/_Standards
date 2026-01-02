@@ -41,17 +41,17 @@ The act of expressing a difference of opinion with the object. An agent disagree
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Disagree_Action](/_Standards/schema-org/Class/is_a_/Action/Assess_Action/React_Action/Disagree_Action.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Action/Assess_Action/React_Action/Disagree_Action|Disagree_Action]] 
 
-### #is_/same_as :: [Disagree_Action.public](/_public/schema-org/Class/is_a_/Action/Assess_Action/React_Action/Disagree_Action.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Action/Assess_Action/React_Action/Disagree_Action.public|Disagree_Action.public]] 
 
-### #is_/same_as :: [Disagree_Action.internal](/_internal/schema-org/Class/is_a_/Action/Assess_Action/React_Action/Disagree_Action.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Action/Assess_Action/React_Action/Disagree_Action.internal|Disagree_Action.internal]] 
 
-### #is_/same_as :: [Disagree_Action.protect](/_protect/schema-org/Class/is_a_/Action/Assess_Action/React_Action/Disagree_Action.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Action/Assess_Action/React_Action/Disagree_Action.protect|Disagree_Action.protect]] 
 
-### #is_/same_as :: [Disagree_Action.private](/_private/schema-org/Class/is_a_/Action/Assess_Action/React_Action/Disagree_Action.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Action/Assess_Action/React_Action/Disagree_Action.private|Disagree_Action.private]] 
 
-### #is_/same_as :: [Disagree_Action.personal](/_personal/schema-org/Class/is_a_/Action/Assess_Action/React_Action/Disagree_Action.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Action/Assess_Action/React_Action/Disagree_Action.personal|Disagree_Action.personal]] 
 
-### #is_/same_as :: [Disagree_Action.secret](/_secret/schema-org/Class/is_a_/Action/Assess_Action/React_Action/Disagree_Action.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Action/Assess_Action/React_Action/Disagree_Action.secret|Disagree_Action.secret]] 
 

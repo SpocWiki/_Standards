@@ -57,17 +57,17 @@ equivalent_class: http://pcp-on-web.de/ontology#PrimaryEducation
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Primary_Education](/_Standards/Society/Culture/Education/Primary_Education.md) 
+### #is_/same_as :: [[/_Standards/Society/Culture/Education/Primary_Education|Primary_Education]] 
 
-### #is_/same_as :: [Primary_Education.public](/_public/Society/Culture/Education/Primary_Education.public.md) 
+### #is_/same_as :: [[/_public/Society/Culture/Education/Primary_Education.public|Primary_Education.public]] 
 
-### #is_/same_as :: [Primary_Education.internal](/_internal/Society/Culture/Education/Primary_Education.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Culture/Education/Primary_Education.internal|Primary_Education.internal]] 
 
-### #is_/same_as :: [Primary_Education.protect](/_protect/Society/Culture/Education/Primary_Education.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Culture/Education/Primary_Education.protect|Primary_Education.protect]] 
 
-### #is_/same_as :: [Primary_Education.private](/_private/Society/Culture/Education/Primary_Education.private.md) 
+### #is_/same_as :: [[/_private/Society/Culture/Education/Primary_Education.private|Primary_Education.private]] 
 
-### #is_/same_as :: [Primary_Education.personal](/_personal/Society/Culture/Education/Primary_Education.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Culture/Education/Primary_Education.personal|Primary_Education.personal]] 
 
-### #is_/same_as :: [Primary_Education.secret](/_secret/Society/Culture/Education/Primary_Education.secret.md)
+### #is_/same_as :: [[/_secret/Society/Culture/Education/Primary_Education.secret|Primary_Education.secret]] 
 

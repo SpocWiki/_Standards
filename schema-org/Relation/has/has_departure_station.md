@@ -42,17 +42,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_departure_station](/_Standards/schema-org/Relation/has/has_departure_station.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_departure_station|has_departure_station]] 
 
-### #is_/same_as :: [has_departure_station.public](/_public/schema-org/Relation/has/has_departure_station.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_departure_station.public|has_departure_station.public]] 
 
-### #is_/same_as :: [has_departure_station.internal](/_internal/schema-org/Relation/has/has_departure_station.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_departure_station.internal|has_departure_station.internal]] 
 
-### #is_/same_as :: [has_departure_station.protect](/_protect/schema-org/Relation/has/has_departure_station.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_departure_station.protect|has_departure_station.protect]] 
 
-### #is_/same_as :: [has_departure_station.private](/_private/schema-org/Relation/has/has_departure_station.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_departure_station.private|has_departure_station.private]] 
 
-### #is_/same_as :: [has_departure_station.personal](/_personal/schema-org/Relation/has/has_departure_station.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_departure_station.personal|has_departure_station.personal]] 
 
-### #is_/same_as :: [has_departure_station.secret](/_secret/schema-org/Relation/has/has_departure_station.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_departure_station.secret|has_departure_station.secret]] 
 

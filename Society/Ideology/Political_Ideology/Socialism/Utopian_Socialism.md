@@ -28,17 +28,17 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/New%20harmony%20vision
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Utopian_Socialism](/_Standards/Society/Ideology/Political_Ideology/Socialism/Utopian_Socialism.md) 
+### #is_/same_as :: [[/_Standards/Society/Ideology/Political_Ideology/Socialism/Utopian_Socialism|Utopian_Socialism]] 
 
-### #is_/same_as :: [Utopian_Socialism.public](/_public/Society/Ideology/Political_Ideology/Socialism/Utopian_Socialism.public.md) 
+### #is_/same_as :: [[/_public/Society/Ideology/Political_Ideology/Socialism/Utopian_Socialism.public|Utopian_Socialism.public]] 
 
-### #is_/same_as :: [Utopian_Socialism.internal](/_internal/Society/Ideology/Political_Ideology/Socialism/Utopian_Socialism.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Ideology/Political_Ideology/Socialism/Utopian_Socialism.internal|Utopian_Socialism.internal]] 
 
-### #is_/same_as :: [Utopian_Socialism.protect](/_protect/Society/Ideology/Political_Ideology/Socialism/Utopian_Socialism.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Ideology/Political_Ideology/Socialism/Utopian_Socialism.protect|Utopian_Socialism.protect]] 
 
-### #is_/same_as :: [Utopian_Socialism.private](/_private/Society/Ideology/Political_Ideology/Socialism/Utopian_Socialism.private.md) 
+### #is_/same_as :: [[/_private/Society/Ideology/Political_Ideology/Socialism/Utopian_Socialism.private|Utopian_Socialism.private]] 
 
-### #is_/same_as :: [Utopian_Socialism.personal](/_personal/Society/Ideology/Political_Ideology/Socialism/Utopian_Socialism.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Ideology/Political_Ideology/Socialism/Utopian_Socialism.personal|Utopian_Socialism.personal]] 
 
-### #is_/same_as :: [Utopian_Socialism.secret](/_secret/Society/Ideology/Political_Ideology/Socialism/Utopian_Socialism.secret.md)
+### #is_/same_as :: [[/_secret/Society/Ideology/Political_Ideology/Socialism/Utopian_Socialism.secret|Utopian_Socialism.secret]] 
 

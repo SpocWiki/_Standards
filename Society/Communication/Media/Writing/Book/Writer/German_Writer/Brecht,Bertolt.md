@@ -151,17 +151,17 @@ described_at_URL: http://www.digiporta.net/index.php?id=172583468
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Brecht,Bertolt](/_Standards/Society/Communication/Media/Writing/Book/Writer/German_Writer/Brecht,Bertolt.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Writer/German_Writer/Brecht,Bertolt|Brecht,Bertolt]] 
 
-### #is_/same_as :: [Brecht,Bertolt.public](/_public/Society/Communication/Media/Writing/Book/Writer/German_Writer/Brecht,Bertolt.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Writer/German_Writer/Brecht,Bertolt.public|Brecht,Bertolt.public]] 
 
-### #is_/same_as :: [Brecht,Bertolt.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/German_Writer/Brecht,Bertolt.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Writer/German_Writer/Brecht,Bertolt.internal|Brecht,Bertolt.internal]] 
 
-### #is_/same_as :: [Brecht,Bertolt.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/German_Writer/Brecht,Bertolt.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Writer/German_Writer/Brecht,Bertolt.protect|Brecht,Bertolt.protect]] 
 
-### #is_/same_as :: [Brecht,Bertolt.private](/_private/Society/Communication/Media/Writing/Book/Writer/German_Writer/Brecht,Bertolt.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Writer/German_Writer/Brecht,Bertolt.private|Brecht,Bertolt.private]] 
 
-### #is_/same_as :: [Brecht,Bertolt.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/German_Writer/Brecht,Bertolt.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Writer/German_Writer/Brecht,Bertolt.personal|Brecht,Bertolt.personal]] 
 
-### #is_/same_as :: [Brecht,Bertolt.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/German_Writer/Brecht,Bertolt.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Writer/German_Writer/Brecht,Bertolt.secret|Brecht,Bertolt.secret]] 
 

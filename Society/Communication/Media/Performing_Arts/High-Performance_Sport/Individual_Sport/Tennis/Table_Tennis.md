@@ -89,17 +89,17 @@ subreddit: tabletennis
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Table_Tennis](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Tennis/Table_Tennis.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Tennis/Table_Tennis|Table_Tennis]] 
 
-### #is_/same_as :: [Table_Tennis.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Tennis/Table_Tennis.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Tennis/Table_Tennis.public|Table_Tennis.public]] 
 
-### #is_/same_as :: [Table_Tennis.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Tennis/Table_Tennis.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Tennis/Table_Tennis.internal|Table_Tennis.internal]] 
 
-### #is_/same_as :: [Table_Tennis.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Tennis/Table_Tennis.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Tennis/Table_Tennis.protect|Table_Tennis.protect]] 
 
-### #is_/same_as :: [Table_Tennis.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Tennis/Table_Tennis.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Tennis/Table_Tennis.private|Table_Tennis.private]] 
 
-### #is_/same_as :: [Table_Tennis.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Tennis/Table_Tennis.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Tennis/Table_Tennis.personal|Table_Tennis.personal]] 
 
-### #is_/same_as :: [Table_Tennis.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Tennis/Table_Tennis.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Tennis/Table_Tennis.secret|Table_Tennis.secret]] 
 

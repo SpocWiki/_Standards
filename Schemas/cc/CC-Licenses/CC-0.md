@@ -46,17 +46,17 @@ Unlike [[CC-BY]] no Sources need to be specified, which [can blur the provenienc
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [CC-0](/_Standards/Schemas/cc/CC-Licenses/CC-0.md) 
+### #is_/same_as :: [[/_Standards/Schemas/cc/CC-Licenses/CC-0|CC-0]] 
 
-### #is_/same_as :: [CC-0.public](/_public/Schemas/cc/CC-Licenses/CC-0.public.md) 
+### #is_/same_as :: [[/_public/Schemas/cc/CC-Licenses/CC-0.public|CC-0.public]] 
 
-### #is_/same_as :: [CC-0.internal](/_internal/Schemas/cc/CC-Licenses/CC-0.internal.md) 
+### #is_/same_as :: [[/_internal/Schemas/cc/CC-Licenses/CC-0.internal|CC-0.internal]] 
 
-### #is_/same_as :: [CC-0.protect](/_protect/Schemas/cc/CC-Licenses/CC-0.protect.md) 
+### #is_/same_as :: [[/_protect/Schemas/cc/CC-Licenses/CC-0.protect|CC-0.protect]] 
 
-### #is_/same_as :: [CC-0.private](/_private/Schemas/cc/CC-Licenses/CC-0.private.md) 
+### #is_/same_as :: [[/_private/Schemas/cc/CC-Licenses/CC-0.private|CC-0.private]] 
 
-### #is_/same_as :: [CC-0.personal](/_personal/Schemas/cc/CC-Licenses/CC-0.personal.md) 
+### #is_/same_as :: [[/_personal/Schemas/cc/CC-Licenses/CC-0.personal|CC-0.personal]] 
 
-### #is_/same_as :: [CC-0.secret](/_secret/Schemas/cc/CC-Licenses/CC-0.secret.md)
+### #is_/same_as :: [[/_secret/Schemas/cc/CC-Licenses/CC-0.secret|CC-0.secret]] 
 

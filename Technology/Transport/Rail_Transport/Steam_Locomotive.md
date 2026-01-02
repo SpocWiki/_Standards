@@ -52,17 +52,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Steam_Locomotive](/_Standards/Technology/Transport/Rail_Transport/Steam_Locomotive.md) 
+### #is_/same_as :: [[/_Standards/Technology/Transport/Rail_Transport/Steam_Locomotive|Steam_Locomotive]] 
 
-### #is_/same_as :: [Steam_Locomotive.public](/_public/Technology/Transport/Rail_Transport/Steam_Locomotive.public.md) 
+### #is_/same_as :: [[/_public/Technology/Transport/Rail_Transport/Steam_Locomotive.public|Steam_Locomotive.public]] 
 
-### #is_/same_as :: [Steam_Locomotive.internal](/_internal/Technology/Transport/Rail_Transport/Steam_Locomotive.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Transport/Rail_Transport/Steam_Locomotive.internal|Steam_Locomotive.internal]] 
 
-### #is_/same_as :: [Steam_Locomotive.protect](/_protect/Technology/Transport/Rail_Transport/Steam_Locomotive.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Transport/Rail_Transport/Steam_Locomotive.protect|Steam_Locomotive.protect]] 
 
-### #is_/same_as :: [Steam_Locomotive.private](/_private/Technology/Transport/Rail_Transport/Steam_Locomotive.private.md) 
+### #is_/same_as :: [[/_private/Technology/Transport/Rail_Transport/Steam_Locomotive.private|Steam_Locomotive.private]] 
 
-### #is_/same_as :: [Steam_Locomotive.personal](/_personal/Technology/Transport/Rail_Transport/Steam_Locomotive.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Transport/Rail_Transport/Steam_Locomotive.personal|Steam_Locomotive.personal]] 
 
-### #is_/same_as :: [Steam_Locomotive.secret](/_secret/Technology/Transport/Rail_Transport/Steam_Locomotive.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Transport/Rail_Transport/Steam_Locomotive.secret|Steam_Locomotive.secret]] 
 

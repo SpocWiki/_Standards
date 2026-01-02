@@ -72,17 +72,17 @@ Krugosvet_article_archived_: kultura_i_obrazovanie/religiya/TALMUD.html
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Talmud](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Judaism/Talmud.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Judaism/Talmud|Talmud]] 
 
-### #is_/same_as :: [Talmud.public](/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Judaism/Talmud.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Judaism/Talmud.public|Talmud.public]] 
 
-### #is_/same_as :: [Talmud.internal](/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Judaism/Talmud.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Judaism/Talmud.internal|Talmud.internal]] 
 
-### #is_/same_as :: [Talmud.protect](/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Judaism/Talmud.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Judaism/Talmud.protect|Talmud.protect]] 
 
-### #is_/same_as :: [Talmud.private](/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Judaism/Talmud.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Judaism/Talmud.private|Talmud.private]] 
 
-### #is_/same_as :: [Talmud.personal](/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Judaism/Talmud.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Judaism/Talmud.personal|Talmud.personal]] 
 
-### #is_/same_as :: [Talmud.secret](/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Judaism/Talmud.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Judaism/Talmud.secret|Talmud.secret]] 
 

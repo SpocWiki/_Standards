@@ -91,17 +91,17 @@ inception: 1922-05-30T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lincoln_Memorial](/_Standards/Earth/Geography/Place/Lincoln_Memorial.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geography/Place/Lincoln_Memorial|Lincoln_Memorial]] 
 
-### #is_/same_as :: [Lincoln_Memorial.public](/_public/Earth/Geography/Place/Lincoln_Memorial.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geography/Place/Lincoln_Memorial.public|Lincoln_Memorial.public]] 
 
-### #is_/same_as :: [Lincoln_Memorial.internal](/_internal/Earth/Geography/Place/Lincoln_Memorial.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geography/Place/Lincoln_Memorial.internal|Lincoln_Memorial.internal]] 
 
-### #is_/same_as :: [Lincoln_Memorial.protect](/_protect/Earth/Geography/Place/Lincoln_Memorial.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geography/Place/Lincoln_Memorial.protect|Lincoln_Memorial.protect]] 
 
-### #is_/same_as :: [Lincoln_Memorial.private](/_private/Earth/Geography/Place/Lincoln_Memorial.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geography/Place/Lincoln_Memorial.private|Lincoln_Memorial.private]] 
 
-### #is_/same_as :: [Lincoln_Memorial.personal](/_personal/Earth/Geography/Place/Lincoln_Memorial.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geography/Place/Lincoln_Memorial.personal|Lincoln_Memorial.personal]] 
 
-### #is_/same_as :: [Lincoln_Memorial.secret](/_secret/Earth/Geography/Place/Lincoln_Memorial.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geography/Place/Lincoln_Memorial.secret|Lincoln_Memorial.secret]] 
 

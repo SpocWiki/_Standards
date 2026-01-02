@@ -150,7 +150,7 @@ addition to the integumental photophores: (1) very small, whitish balls
 and (2) whitish rings surrounding chromatophores. Since the function of
 these two structures is unknown, we call the first \"white balls\" and
 the second \"ringed chromatophores\" for descriptive purposes.
-![ ](Mastigoteuthidae/MFlammeaPhot1.jpg))
+![ ](Mastigoteuthidae/MFlammeaPhot1.jpg) 
 
 **Figure**. Ventral view of the head integument of ***M. flammea***,
 Gulf of Mexico. Note that much of the pigmentation does not lie within
@@ -273,7 +273,7 @@ African Jour. Mar. Sci., 20: 393-420.
 
 ## Title Illustrations
 
-![](Mastigoteuthidae/MAgassShale.jpg))
+![](Mastigoteuthidae/MAgassShale.jpg) 
 
   ------------------------------------------------
   Scientific Name ::     Mastigoteuthis agassizii
@@ -287,17 +287,17 @@ African Jour. Mar. Sci., 20: 393-420.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Mastigoteuthidae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Mastigoteuthidae.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Mastigoteuthidae|Mastigoteuthidae]] 
 
-### #is_/same_as :: [Mastigoteuthidae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Mastigoteuthidae.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Mastigoteuthidae.public|Mastigoteuthidae.public]] 
 
-### #is_/same_as :: [Mastigoteuthidae.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Mastigoteuthidae.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Mastigoteuthidae.internal|Mastigoteuthidae.internal]] 
 
-### #is_/same_as :: [Mastigoteuthidae.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Mastigoteuthidae.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Mastigoteuthidae.protect|Mastigoteuthidae.protect]] 
 
-### #is_/same_as :: [Mastigoteuthidae.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Mastigoteuthidae.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Mastigoteuthidae.private|Mastigoteuthidae.private]] 
 
-### #is_/same_as :: [Mastigoteuthidae.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Mastigoteuthidae.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Mastigoteuthidae.personal|Mastigoteuthidae.personal]] 
 
-### #is_/same_as :: [Mastigoteuthidae.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Mastigoteuthidae.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Mastigoteuthidae.secret|Mastigoteuthidae.secret]] 
 

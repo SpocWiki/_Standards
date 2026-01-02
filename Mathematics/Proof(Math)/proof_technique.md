@@ -4,17 +4,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [proof_technique](/_Standards/Mathematics/Proof(Math)/proof_technique.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Proof(Math)/proof_technique|proof_technique]] 
 
-### #is_/same_as :: [proof_technique.public](/_public/Mathematics/Proof(Math)/proof_technique.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Proof(Math)/proof_technique.public|proof_technique.public]] 
 
-### #is_/same_as :: [proof_technique.internal](/_internal/Mathematics/Proof(Math)/proof_technique.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Proof(Math)/proof_technique.internal|proof_technique.internal]] 
 
-### #is_/same_as :: [proof_technique.protect](/_protect/Mathematics/Proof(Math)/proof_technique.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Proof(Math)/proof_technique.protect|proof_technique.protect]] 
 
-### #is_/same_as :: [proof_technique.private](/_private/Mathematics/Proof(Math)/proof_technique.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Proof(Math)/proof_technique.private|proof_technique.private]] 
 
-### #is_/same_as :: [proof_technique.personal](/_personal/Mathematics/Proof(Math)/proof_technique.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Proof(Math)/proof_technique.personal|proof_technique.personal]] 
 
-### #is_/same_as :: [proof_technique.secret](/_secret/Mathematics/Proof(Math)/proof_technique.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Proof(Math)/proof_technique.secret|proof_technique.secret]] 
 

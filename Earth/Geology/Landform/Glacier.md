@@ -87,17 +87,17 @@ Commons_category: Glaciers
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Glacier](/_Standards/Earth/Geology/Landform/Glacier.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geology/Landform/Glacier|Glacier]] 
 
-### #is_/same_as :: [Glacier.public](/_public/Earth/Geology/Landform/Glacier.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geology/Landform/Glacier.public|Glacier.public]] 
 
-### #is_/same_as :: [Glacier.internal](/_internal/Earth/Geology/Landform/Glacier.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geology/Landform/Glacier.internal|Glacier.internal]] 
 
-### #is_/same_as :: [Glacier.protect](/_protect/Earth/Geology/Landform/Glacier.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geology/Landform/Glacier.protect|Glacier.protect]] 
 
-### #is_/same_as :: [Glacier.private](/_private/Earth/Geology/Landform/Glacier.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geology/Landform/Glacier.private|Glacier.private]] 
 
-### #is_/same_as :: [Glacier.personal](/_personal/Earth/Geology/Landform/Glacier.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geology/Landform/Glacier.personal|Glacier.personal]] 
 
-### #is_/same_as :: [Glacier.secret](/_secret/Earth/Geology/Landform/Glacier.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geology/Landform/Glacier.secret|Glacier.secret]] 
 

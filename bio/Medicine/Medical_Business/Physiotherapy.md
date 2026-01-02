@@ -40,17 +40,17 @@ The practice of treatment of disease, injury, or deformity by physical methods s
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Physiotherapy](/_Standards/bio/Medicine/Medical_Business/Physiotherapy.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Business/Physiotherapy|Physiotherapy]] 
 
-### #is_/same_as :: [Physiotherapy.public](/_public/bio/Medicine/Medical_Business/Physiotherapy.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Business/Physiotherapy.public|Physiotherapy.public]] 
 
-### #is_/same_as :: [Physiotherapy.internal](/_internal/bio/Medicine/Medical_Business/Physiotherapy.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Business/Physiotherapy.internal|Physiotherapy.internal]] 
 
-### #is_/same_as :: [Physiotherapy.protect](/_protect/bio/Medicine/Medical_Business/Physiotherapy.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Business/Physiotherapy.protect|Physiotherapy.protect]] 
 
-### #is_/same_as :: [Physiotherapy.private](/_private/bio/Medicine/Medical_Business/Physiotherapy.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Business/Physiotherapy.private|Physiotherapy.private]] 
 
-### #is_/same_as :: [Physiotherapy.personal](/_personal/bio/Medicine/Medical_Business/Physiotherapy.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Business/Physiotherapy.personal|Physiotherapy.personal]] 
 
-### #is_/same_as :: [Physiotherapy.secret](/_secret/bio/Medicine/Medical_Business/Physiotherapy.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Business/Physiotherapy.secret|Physiotherapy.secret]] 
 

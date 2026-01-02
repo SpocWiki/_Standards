@@ -236,17 +236,17 @@ NLC_authorities: 038192850
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Arendt,Hannah](/_Standards/Philosophy/Philosopher/Modern_Philosopher/Arendt,Hannah.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Philosopher/Modern_Philosopher/Arendt,Hannah|Arendt,Hannah]] 
 
-### #is_/same_as :: [Arendt,Hannah.public](/_public/Philosophy/Philosopher/Modern_Philosopher/Arendt,Hannah.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Philosopher/Modern_Philosopher/Arendt,Hannah.public|Arendt,Hannah.public]] 
 
-### #is_/same_as :: [Arendt,Hannah.internal](/_internal/Philosophy/Philosopher/Modern_Philosopher/Arendt,Hannah.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Philosopher/Modern_Philosopher/Arendt,Hannah.internal|Arendt,Hannah.internal]] 
 
-### #is_/same_as :: [Arendt,Hannah.protect](/_protect/Philosophy/Philosopher/Modern_Philosopher/Arendt,Hannah.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Philosopher/Modern_Philosopher/Arendt,Hannah.protect|Arendt,Hannah.protect]] 
 
-### #is_/same_as :: [Arendt,Hannah.private](/_private/Philosophy/Philosopher/Modern_Philosopher/Arendt,Hannah.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Philosopher/Modern_Philosopher/Arendt,Hannah.private|Arendt,Hannah.private]] 
 
-### #is_/same_as :: [Arendt,Hannah.personal](/_personal/Philosophy/Philosopher/Modern_Philosopher/Arendt,Hannah.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Philosopher/Modern_Philosopher/Arendt,Hannah.personal|Arendt,Hannah.personal]] 
 
-### #is_/same_as :: [Arendt,Hannah.secret](/_secret/Philosophy/Philosopher/Modern_Philosopher/Arendt,Hannah.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Philosopher/Modern_Philosopher/Arendt,Hannah.secret|Arendt,Hannah.secret]] 
 

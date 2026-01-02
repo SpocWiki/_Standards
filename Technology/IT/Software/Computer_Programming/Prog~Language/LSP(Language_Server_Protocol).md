@@ -20,17 +20,17 @@ Standard Compiler Protocol to feed back the Language Model to an Editor.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [LSP(Language_Server_Protocol)](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/LSP(Language_Server_Protocol).md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/LSP(Language_Server_Protocol)|LSP(Language_Server_Protocol)]] 
 
-### #is_/same_as :: [LSP(Language_Server_Protocol).public](/_public/Technology/IT/Software/Computer_Programming/Prog~Language/LSP(Language_Server_Protocol).public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Software/Computer_Programming/Prog~Language/LSP(Language_Server_Protocol).public|LSP(Language_Server_Protocol).public]] 
 
-### #is_/same_as :: [LSP(Language_Server_Protocol).internal](/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/LSP(Language_Server_Protocol).internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/LSP(Language_Server_Protocol).internal|LSP(Language_Server_Protocol).internal]] 
 
-### #is_/same_as :: [LSP(Language_Server_Protocol).protect](/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/LSP(Language_Server_Protocol).protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/LSP(Language_Server_Protocol).protect|LSP(Language_Server_Protocol).protect]] 
 
-### #is_/same_as :: [LSP(Language_Server_Protocol).private](/_private/Technology/IT/Software/Computer_Programming/Prog~Language/LSP(Language_Server_Protocol).private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Software/Computer_Programming/Prog~Language/LSP(Language_Server_Protocol).private|LSP(Language_Server_Protocol).private]] 
 
-### #is_/same_as :: [LSP(Language_Server_Protocol).personal](/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/LSP(Language_Server_Protocol).personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/LSP(Language_Server_Protocol).personal|LSP(Language_Server_Protocol).personal]] 
 
-### #is_/same_as :: [LSP(Language_Server_Protocol).secret](/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/LSP(Language_Server_Protocol).secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/LSP(Language_Server_Protocol).secret|LSP(Language_Server_Protocol).secret]] 
 

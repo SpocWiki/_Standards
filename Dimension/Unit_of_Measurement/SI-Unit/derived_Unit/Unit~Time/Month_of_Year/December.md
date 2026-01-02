@@ -111,17 +111,17 @@ page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/December-banner-
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [December](/_Standards/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Month_of_Year/December.md) 
+### #is_/same_as :: [[/_Standards/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Month_of_Year/December|December]] 
 
-### #is_/same_as :: [December.public](/_public/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Month_of_Year/December.public.md) 
+### #is_/same_as :: [[/_public/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Month_of_Year/December.public|December.public]] 
 
-### #is_/same_as :: [December.internal](/_internal/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Month_of_Year/December.internal.md) 
+### #is_/same_as :: [[/_internal/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Month_of_Year/December.internal|December.internal]] 
 
-### #is_/same_as :: [December.protect](/_protect/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Month_of_Year/December.protect.md) 
+### #is_/same_as :: [[/_protect/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Month_of_Year/December.protect|December.protect]] 
 
-### #is_/same_as :: [December.private](/_private/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Month_of_Year/December.private.md) 
+### #is_/same_as :: [[/_private/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Month_of_Year/December.private|December.private]] 
 
-### #is_/same_as :: [December.personal](/_personal/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Month_of_Year/December.personal.md) 
+### #is_/same_as :: [[/_personal/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Month_of_Year/December.personal|December.personal]] 
 
-### #is_/same_as :: [December.secret](/_secret/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Month_of_Year/December.secret.md)
+### #is_/same_as :: [[/_secret/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Month_of_Year/December.secret|December.secret]] 
 

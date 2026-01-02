@@ -116,17 +116,17 @@ official_website: http://maupassantiana.fr
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Maupassant,Guy_de](/_Standards/Society/Communication/Media/Writing/Book/Writer/French_Writer/Maupassant,Guy_de.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Writer/French_Writer/Maupassant,Guy_de|Maupassant,Guy_de]] 
 
-### #is_/same_as :: [Maupassant,Guy_de.public](/_public/Society/Communication/Media/Writing/Book/Writer/French_Writer/Maupassant,Guy_de.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Writer/French_Writer/Maupassant,Guy_de.public|Maupassant,Guy_de.public]] 
 
-### #is_/same_as :: [Maupassant,Guy_de.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/French_Writer/Maupassant,Guy_de.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Writer/French_Writer/Maupassant,Guy_de.internal|Maupassant,Guy_de.internal]] 
 
-### #is_/same_as :: [Maupassant,Guy_de.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/French_Writer/Maupassant,Guy_de.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Writer/French_Writer/Maupassant,Guy_de.protect|Maupassant,Guy_de.protect]] 
 
-### #is_/same_as :: [Maupassant,Guy_de.private](/_private/Society/Communication/Media/Writing/Book/Writer/French_Writer/Maupassant,Guy_de.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Writer/French_Writer/Maupassant,Guy_de.private|Maupassant,Guy_de.private]] 
 
-### #is_/same_as :: [Maupassant,Guy_de.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/French_Writer/Maupassant,Guy_de.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Writer/French_Writer/Maupassant,Guy_de.personal|Maupassant,Guy_de.personal]] 
 
-### #is_/same_as :: [Maupassant,Guy_de.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/French_Writer/Maupassant,Guy_de.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Writer/French_Writer/Maupassant,Guy_de.secret|Maupassant,Guy_de.secret]] 
 

@@ -45,17 +45,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_number_of_volume](/_Standards/schema-org/Property/has_number_of/has_number_of_volume.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_number_of/has_number_of_volume|has_number_of_volume]] 
 
-### #is_/same_as :: [has_number_of_volume.public](/_public/schema-org/Property/has_number_of/has_number_of_volume.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/has_number_of/has_number_of_volume.public|has_number_of_volume.public]] 
 
-### #is_/same_as :: [has_number_of_volume.internal](/_internal/schema-org/Property/has_number_of/has_number_of_volume.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_number_of/has_number_of_volume.internal|has_number_of_volume.internal]] 
 
-### #is_/same_as :: [has_number_of_volume.protect](/_protect/schema-org/Property/has_number_of/has_number_of_volume.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_number_of/has_number_of_volume.protect|has_number_of_volume.protect]] 
 
-### #is_/same_as :: [has_number_of_volume.private](/_private/schema-org/Property/has_number_of/has_number_of_volume.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/has_number_of/has_number_of_volume.private|has_number_of_volume.private]] 
 
-### #is_/same_as :: [has_number_of_volume.personal](/_personal/schema-org/Property/has_number_of/has_number_of_volume.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_number_of/has_number_of_volume.personal|has_number_of_volume.personal]] 
 
-### #is_/same_as :: [has_number_of_volume.secret](/_secret/schema-org/Property/has_number_of/has_number_of_volume.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/has_number_of/has_number_of_volume.secret|has_number_of_volume.secret]] 
 

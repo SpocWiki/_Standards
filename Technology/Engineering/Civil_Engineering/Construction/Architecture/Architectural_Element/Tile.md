@@ -60,17 +60,17 @@ OpenStreetMap_tag:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Tile](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element/Tile.md) 
+### #is_/same_as :: [[/_Standards/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element/Tile|Tile]] 
 
-### #is_/same_as :: [Tile.public](/_public/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element/Tile.public.md) 
+### #is_/same_as :: [[/_public/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element/Tile.public|Tile.public]] 
 
-### #is_/same_as :: [Tile.internal](/_internal/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element/Tile.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element/Tile.internal|Tile.internal]] 
 
-### #is_/same_as :: [Tile.protect](/_protect/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element/Tile.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element/Tile.protect|Tile.protect]] 
 
-### #is_/same_as :: [Tile.private](/_private/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element/Tile.private.md) 
+### #is_/same_as :: [[/_private/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element/Tile.private|Tile.private]] 
 
-### #is_/same_as :: [Tile.personal](/_personal/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element/Tile.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element/Tile.personal|Tile.personal]] 
 
-### #is_/same_as :: [Tile.secret](/_secret/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element/Tile.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element/Tile.secret|Tile.secret]] 
 

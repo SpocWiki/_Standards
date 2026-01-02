@@ -384,17 +384,17 @@ writing_language: '[[_Standards/WikiData/WD~French,150]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [van_Gogh,Vincent](/_Standards/Society/Communication/Media/Painting/Painter/van_Gogh,Vincent.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Painting/Painter/van_Gogh,Vincent|van_Gogh,Vincent]] 
 
-### #is_/same_as :: [van_Gogh,Vincent.public](/_public/Society/Communication/Media/Painting/Painter/van_Gogh,Vincent.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Painting/Painter/van_Gogh,Vincent.public|van_Gogh,Vincent.public]] 
 
-### #is_/same_as :: [van_Gogh,Vincent.internal](/_internal/Society/Communication/Media/Painting/Painter/van_Gogh,Vincent.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Painting/Painter/van_Gogh,Vincent.internal|van_Gogh,Vincent.internal]] 
 
-### #is_/same_as :: [van_Gogh,Vincent.protect](/_protect/Society/Communication/Media/Painting/Painter/van_Gogh,Vincent.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Painting/Painter/van_Gogh,Vincent.protect|van_Gogh,Vincent.protect]] 
 
-### #is_/same_as :: [van_Gogh,Vincent.private](/_private/Society/Communication/Media/Painting/Painter/van_Gogh,Vincent.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Painting/Painter/van_Gogh,Vincent.private|van_Gogh,Vincent.private]] 
 
-### #is_/same_as :: [van_Gogh,Vincent.personal](/_personal/Society/Communication/Media/Painting/Painter/van_Gogh,Vincent.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Painting/Painter/van_Gogh,Vincent.personal|van_Gogh,Vincent.personal]] 
 
-### #is_/same_as :: [van_Gogh,Vincent.secret](/_secret/Society/Communication/Media/Painting/Painter/van_Gogh,Vincent.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Painting/Painter/van_Gogh,Vincent.secret|van_Gogh,Vincent.secret]] 
 

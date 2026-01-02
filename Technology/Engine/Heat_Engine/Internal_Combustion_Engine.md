@@ -87,17 +87,17 @@ time_of_discovery_or_invention: 1924-01-01T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Internal_Combustion_Engine](/_Standards/Technology/Engine/Heat_Engine/Internal_Combustion_Engine.md) 
+### #is_/same_as :: [[/_Standards/Technology/Engine/Heat_Engine/Internal_Combustion_Engine|Internal_Combustion_Engine]] 
 
-### #is_/same_as :: [Internal_Combustion_Engine.public](/_public/Technology/Engine/Heat_Engine/Internal_Combustion_Engine.public.md) 
+### #is_/same_as :: [[/_public/Technology/Engine/Heat_Engine/Internal_Combustion_Engine.public|Internal_Combustion_Engine.public]] 
 
-### #is_/same_as :: [Internal_Combustion_Engine.internal](/_internal/Technology/Engine/Heat_Engine/Internal_Combustion_Engine.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Engine/Heat_Engine/Internal_Combustion_Engine.internal|Internal_Combustion_Engine.internal]] 
 
-### #is_/same_as :: [Internal_Combustion_Engine.protect](/_protect/Technology/Engine/Heat_Engine/Internal_Combustion_Engine.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Engine/Heat_Engine/Internal_Combustion_Engine.protect|Internal_Combustion_Engine.protect]] 
 
-### #is_/same_as :: [Internal_Combustion_Engine.private](/_private/Technology/Engine/Heat_Engine/Internal_Combustion_Engine.private.md) 
+### #is_/same_as :: [[/_private/Technology/Engine/Heat_Engine/Internal_Combustion_Engine.private|Internal_Combustion_Engine.private]] 
 
-### #is_/same_as :: [Internal_Combustion_Engine.personal](/_personal/Technology/Engine/Heat_Engine/Internal_Combustion_Engine.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Engine/Heat_Engine/Internal_Combustion_Engine.personal|Internal_Combustion_Engine.personal]] 
 
-### #is_/same_as :: [Internal_Combustion_Engine.secret](/_secret/Technology/Engine/Heat_Engine/Internal_Combustion_Engine.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Engine/Heat_Engine/Internal_Combustion_Engine.secret|Internal_Combustion_Engine.secret]] 
 

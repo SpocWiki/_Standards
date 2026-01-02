@@ -44,17 +44,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [J2EE](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/J2EE.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/J2EE|J2EE]] 
 
-### #is_/same_as :: [J2EE.public](/_public/Technology/IT/Software/Computer_Programming/Prog~Language/J2EE.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Software/Computer_Programming/Prog~Language/J2EE.public|J2EE.public]] 
 
-### #is_/same_as :: [J2EE.internal](/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/J2EE.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/J2EE.internal|J2EE.internal]] 
 
-### #is_/same_as :: [J2EE.protect](/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/J2EE.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/J2EE.protect|J2EE.protect]] 
 
-### #is_/same_as :: [J2EE.private](/_private/Technology/IT/Software/Computer_Programming/Prog~Language/J2EE.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Software/Computer_Programming/Prog~Language/J2EE.private|J2EE.private]] 
 
-### #is_/same_as :: [J2EE.personal](/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/J2EE.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/J2EE.personal|J2EE.personal]] 
 
-### #is_/same_as :: [J2EE.secret](/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/J2EE.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/J2EE.secret|J2EE.secret]] 
 

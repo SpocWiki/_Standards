@@ -41,7 +41,7 @@ title: Mastigoteuthis magna
 # *Mastigoteuthis magna* [Joubin, 1913] 
 
 [Michael Vecchione and Richard E. Young]()
-![ ](magna/MastigoMagnaJoub.jpg))![ ](magna/MMagnaLive.jpg))
+![ ](magna/MastigoMagnaJoub.jpg))![ ](magna/MMagnaLive.jpg) 
 
 Containing group:[Mastigoteuthidae](../Mastigoteuthidae.md) 
 
@@ -63,7 +63,7 @@ A mastigoteuthid \...
 -   with fin length equal to fin width.
 
 ### Characteristics
-![ ](magna/MastigoMagnaFunCartJoub.jpg))
+![ ](magna/MastigoMagnaFunCartJoub.jpg) 
 
 **Figure**. Ventral view of the funnel component of the funnel
 locking-apparatus of ***M. magna***, holotype . Drawing from Joubin
@@ -133,7 +133,7 @@ Alice (1898-1910). 3e Serie. Monaco.
 
 ## Title Illustrations
 
-![](magna/MastigoMagnaJoub.jpg))
+![](magna/MastigoMagnaJoub.jpg) 
 
   -------------------------------------
   Scientific Name ::  Mastigoteuthis magna
@@ -142,7 +142,7 @@ Alice (1898-1910). 3e Serie. Monaco.
   Size              160 mm ML
   Type              Holotype
   -------------------------------------
-![](magna/MMagnaLive.jpg))
+![](magna/MMagnaLive.jpg) 
 
   -------------------------------
   Scientific Name ::  Mastigoteuthis magna
@@ -152,17 +152,17 @@ Alice (1898-1910). 3e Serie. Monaco.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [magna](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Mastigoteuthidae/magna.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Mastigoteuthidae/magna|magna]] 
 
-### #is_/same_as :: [magna.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Mastigoteuthidae/magna.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Mastigoteuthidae/magna.public|magna.public]] 
 
-### #is_/same_as :: [magna.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Mastigoteuthidae/magna.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Mastigoteuthidae/magna.internal|magna.internal]] 
 
-### #is_/same_as :: [magna.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Mastigoteuthidae/magna.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Mastigoteuthidae/magna.protect|magna.protect]] 
 
-### #is_/same_as :: [magna.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Mastigoteuthidae/magna.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Mastigoteuthidae/magna.private|magna.private]] 
 
-### #is_/same_as :: [magna.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Mastigoteuthidae/magna.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Mastigoteuthidae/magna.personal|magna.personal]] 
 
-### #is_/same_as :: [magna.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Mastigoteuthidae/magna.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Mastigoteuthidae/magna.secret|magna.secret]] 
 

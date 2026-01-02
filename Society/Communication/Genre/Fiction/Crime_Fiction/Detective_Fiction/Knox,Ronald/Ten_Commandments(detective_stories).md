@@ -56,17 +56,17 @@ promoting a standard that many authors adhered to during the Golden Age.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ten_Commandments(detective_stories)](/_Standards/Society/Communication/Genre/Fiction/Crime_Fiction/Detective_Fiction/Knox,Ronald/Ten_Commandments(detective_stories).md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Genre/Fiction/Crime_Fiction/Detective_Fiction/Knox,Ronald/Ten_Commandments(detective_stories)|Ten_Commandments(detective_stories)]] 
 
-### #is_/same_as :: [Ten_Commandments(detective_stories).public](/_public/Society/Communication/Genre/Fiction/Crime_Fiction/Detective_Fiction/Knox,Ronald/Ten_Commandments(detective_stories).public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Genre/Fiction/Crime_Fiction/Detective_Fiction/Knox,Ronald/Ten_Commandments(detective_stories).public|Ten_Commandments(detective_stories).public]] 
 
-### #is_/same_as :: [Ten_Commandments(detective_stories).internal](/_internal/Society/Communication/Genre/Fiction/Crime_Fiction/Detective_Fiction/Knox,Ronald/Ten_Commandments(detective_stories).internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Genre/Fiction/Crime_Fiction/Detective_Fiction/Knox,Ronald/Ten_Commandments(detective_stories).internal|Ten_Commandments(detective_stories).internal]] 
 
-### #is_/same_as :: [Ten_Commandments(detective_stories).protect](/_protect/Society/Communication/Genre/Fiction/Crime_Fiction/Detective_Fiction/Knox,Ronald/Ten_Commandments(detective_stories).protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Genre/Fiction/Crime_Fiction/Detective_Fiction/Knox,Ronald/Ten_Commandments(detective_stories).protect|Ten_Commandments(detective_stories).protect]] 
 
-### #is_/same_as :: [Ten_Commandments(detective_stories).private](/_private/Society/Communication/Genre/Fiction/Crime_Fiction/Detective_Fiction/Knox,Ronald/Ten_Commandments(detective_stories).private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Genre/Fiction/Crime_Fiction/Detective_Fiction/Knox,Ronald/Ten_Commandments(detective_stories).private|Ten_Commandments(detective_stories).private]] 
 
-### #is_/same_as :: [Ten_Commandments(detective_stories).personal](/_personal/Society/Communication/Genre/Fiction/Crime_Fiction/Detective_Fiction/Knox,Ronald/Ten_Commandments(detective_stories).personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Genre/Fiction/Crime_Fiction/Detective_Fiction/Knox,Ronald/Ten_Commandments(detective_stories).personal|Ten_Commandments(detective_stories).personal]] 
 
-### #is_/same_as :: [Ten_Commandments(detective_stories).secret](/_secret/Society/Communication/Genre/Fiction/Crime_Fiction/Detective_Fiction/Knox,Ronald/Ten_Commandments(detective_stories).secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Genre/Fiction/Crime_Fiction/Detective_Fiction/Knox,Ronald/Ten_Commandments(detective_stories).secret|Ten_Commandments(detective_stories).secret]] 
 

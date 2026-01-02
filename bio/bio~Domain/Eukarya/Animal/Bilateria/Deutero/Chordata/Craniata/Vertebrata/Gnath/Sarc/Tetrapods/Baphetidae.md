@@ -144,7 +144,7 @@ tetrapods, when vision is of limited use.
 ## Title Illustrations
 
 --------------------------------------------------------- 
-![](Baphetidae/16_Loxom_cranial_rec.GIF))
+![](Baphetidae/16_Loxom_cranial_rec.GIF) 
 Scientific Name ::   Megalocephalus
 Comments           skull reconstruction
 Reference          Beaumont, E. I. (1977) Cranial morphology of the Loxommatidae (Amphibia: Labyrinthodontia). Philosophical Transactions of the Royal Society, London, B, 280: 29-101.
@@ -154,17 +154,17 @@ Copyright ::          © 1977 Royal Society, London
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Baphetidae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Baphetidae.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Baphetidae|Baphetidae]] 
 
-### #is_/same_as :: [Baphetidae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Baphetidae.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Baphetidae.public|Baphetidae.public]] 
 
-### #is_/same_as :: [Baphetidae.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Baphetidae.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Baphetidae.internal|Baphetidae.internal]] 
 
-### #is_/same_as :: [Baphetidae.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Baphetidae.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Baphetidae.protect|Baphetidae.protect]] 
 
-### #is_/same_as :: [Baphetidae.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Baphetidae.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Baphetidae.private|Baphetidae.private]] 
 
-### #is_/same_as :: [Baphetidae.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Baphetidae.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Baphetidae.personal|Baphetidae.personal]] 
 
-### #is_/same_as :: [Baphetidae.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Baphetidae.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Baphetidae.secret|Baphetidae.secret]] 
 

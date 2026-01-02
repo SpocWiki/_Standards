@@ -25,17 +25,17 @@ are not as efficient and context-aware as[[../../../../Knowledge/AGI(Artificial_
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Code-completion](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Code-completion.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Code-completion|Code-completion]] 
 
-### #is_/same_as :: [Code-completion.public](/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Code-completion.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Code-completion.public|Code-completion.public]] 
 
-### #is_/same_as :: [Code-completion.internal](/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Code-completion.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Code-completion.internal|Code-completion.internal]] 
 
-### #is_/same_as :: [Code-completion.protect](/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Code-completion.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Code-completion.protect|Code-completion.protect]] 
 
-### #is_/same_as :: [Code-completion.private](/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Code-completion.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Code-completion.private|Code-completion.private]] 
 
-### #is_/same_as :: [Code-completion.personal](/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Code-completion.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Code-completion.personal|Code-completion.personal]] 
 
-### #is_/same_as :: [Code-completion.secret](/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Code-completion.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Code-completion.secret|Code-completion.secret]] 
 

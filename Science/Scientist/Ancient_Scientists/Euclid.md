@@ -115,17 +115,17 @@ writing_language: '[[_Standards/WikiData/WD~Ancient_Greek,35497]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Euclid](/_Standards/Science/Scientist/Ancient_Scientists/Euclid.md) 
+### #is_/same_as :: [[/_Standards/Science/Scientist/Ancient_Scientists/Euclid|Euclid]] 
 
-### #is_/same_as :: [Euclid.public](/_public/Science/Scientist/Ancient_Scientists/Euclid.public.md) 
+### #is_/same_as :: [[/_public/Science/Scientist/Ancient_Scientists/Euclid.public|Euclid.public]] 
 
-### #is_/same_as :: [Euclid.internal](/_internal/Science/Scientist/Ancient_Scientists/Euclid.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Scientist/Ancient_Scientists/Euclid.internal|Euclid.internal]] 
 
-### #is_/same_as :: [Euclid.protect](/_protect/Science/Scientist/Ancient_Scientists/Euclid.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Scientist/Ancient_Scientists/Euclid.protect|Euclid.protect]] 
 
-### #is_/same_as :: [Euclid.private](/_private/Science/Scientist/Ancient_Scientists/Euclid.private.md) 
+### #is_/same_as :: [[/_private/Science/Scientist/Ancient_Scientists/Euclid.private|Euclid.private]] 
 
-### #is_/same_as :: [Euclid.personal](/_personal/Science/Scientist/Ancient_Scientists/Euclid.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Scientist/Ancient_Scientists/Euclid.personal|Euclid.personal]] 
 
-### #is_/same_as :: [Euclid.secret](/_secret/Science/Scientist/Ancient_Scientists/Euclid.secret.md)
+### #is_/same_as :: [[/_secret/Science/Scientist/Ancient_Scientists/Euclid.secret|Euclid.secret]] 
 

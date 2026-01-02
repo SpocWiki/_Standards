@@ -43,17 +43,17 @@ pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-K%C3%
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Kitchenware](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Kitchen/Kitchenware.md) 
+### #is_/same_as :: [[/_Standards/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Kitchen/Kitchenware|Kitchenware]] 
 
-### #is_/same_as :: [Kitchenware.public](/_public/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Kitchen/Kitchenware.public.md) 
+### #is_/same_as :: [[/_public/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Kitchen/Kitchenware.public|Kitchenware.public]] 
 
-### #is_/same_as :: [Kitchenware.internal](/_internal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Kitchen/Kitchenware.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Kitchen/Kitchenware.internal|Kitchenware.internal]] 
 
-### #is_/same_as :: [Kitchenware.protect](/_protect/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Kitchen/Kitchenware.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Kitchen/Kitchenware.protect|Kitchenware.protect]] 
 
-### #is_/same_as :: [Kitchenware.private](/_private/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Kitchen/Kitchenware.private.md) 
+### #is_/same_as :: [[/_private/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Kitchen/Kitchenware.private|Kitchenware.private]] 
 
-### #is_/same_as :: [Kitchenware.personal](/_personal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Kitchen/Kitchenware.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Kitchen/Kitchenware.personal|Kitchenware.personal]] 
 
-### #is_/same_as :: [Kitchenware.secret](/_secret/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Kitchen/Kitchenware.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Kitchen/Kitchenware.secret|Kitchenware.secret]] 
 

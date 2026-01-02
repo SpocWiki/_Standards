@@ -173,17 +173,17 @@ P1015: 90378049
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Braun,Wernher_von](/_Standards/Technology/Spaceflight/NASA/Braun,Wernher_von.md) 
+### #is_/same_as :: [[/_Standards/Technology/Spaceflight/NASA/Braun,Wernher_von|Braun,Wernher_von]] 
 
-### #is_/same_as :: [Braun,Wernher_von.public](/_public/Technology/Spaceflight/NASA/Braun,Wernher_von.public.md) 
+### #is_/same_as :: [[/_public/Technology/Spaceflight/NASA/Braun,Wernher_von.public|Braun,Wernher_von.public]] 
 
-### #is_/same_as :: [Braun,Wernher_von.internal](/_internal/Technology/Spaceflight/NASA/Braun,Wernher_von.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Spaceflight/NASA/Braun,Wernher_von.internal|Braun,Wernher_von.internal]] 
 
-### #is_/same_as :: [Braun,Wernher_von.protect](/_protect/Technology/Spaceflight/NASA/Braun,Wernher_von.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Spaceflight/NASA/Braun,Wernher_von.protect|Braun,Wernher_von.protect]] 
 
-### #is_/same_as :: [Braun,Wernher_von.private](/_private/Technology/Spaceflight/NASA/Braun,Wernher_von.private.md) 
+### #is_/same_as :: [[/_private/Technology/Spaceflight/NASA/Braun,Wernher_von.private|Braun,Wernher_von.private]] 
 
-### #is_/same_as :: [Braun,Wernher_von.personal](/_personal/Technology/Spaceflight/NASA/Braun,Wernher_von.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Spaceflight/NASA/Braun,Wernher_von.personal|Braun,Wernher_von.personal]] 
 
-### #is_/same_as :: [Braun,Wernher_von.secret](/_secret/Technology/Spaceflight/NASA/Braun,Wernher_von.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Spaceflight/NASA/Braun,Wernher_von.secret|Braun,Wernher_von.secret]] 
 

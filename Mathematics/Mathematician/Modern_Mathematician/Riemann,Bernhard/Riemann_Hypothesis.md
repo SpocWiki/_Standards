@@ -52,17 +52,17 @@ Commons_category: Riemann hypothesis
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Riemann_Hypothesis](/_Standards/Mathematics/Mathematician/Modern_Mathematician/Riemann,Bernhard/Riemann_Hypothesis.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Mathematician/Modern_Mathematician/Riemann,Bernhard/Riemann_Hypothesis|Riemann_Hypothesis]] 
 
-### #is_/same_as :: [Riemann_Hypothesis.public](/_public/Mathematics/Mathematician/Modern_Mathematician/Riemann,Bernhard/Riemann_Hypothesis.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Mathematician/Modern_Mathematician/Riemann,Bernhard/Riemann_Hypothesis.public|Riemann_Hypothesis.public]] 
 
-### #is_/same_as :: [Riemann_Hypothesis.internal](/_internal/Mathematics/Mathematician/Modern_Mathematician/Riemann,Bernhard/Riemann_Hypothesis.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Mathematician/Modern_Mathematician/Riemann,Bernhard/Riemann_Hypothesis.internal|Riemann_Hypothesis.internal]] 
 
-### #is_/same_as :: [Riemann_Hypothesis.protect](/_protect/Mathematics/Mathematician/Modern_Mathematician/Riemann,Bernhard/Riemann_Hypothesis.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Mathematician/Modern_Mathematician/Riemann,Bernhard/Riemann_Hypothesis.protect|Riemann_Hypothesis.protect]] 
 
-### #is_/same_as :: [Riemann_Hypothesis.private](/_private/Mathematics/Mathematician/Modern_Mathematician/Riemann,Bernhard/Riemann_Hypothesis.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Mathematician/Modern_Mathematician/Riemann,Bernhard/Riemann_Hypothesis.private|Riemann_Hypothesis.private]] 
 
-### #is_/same_as :: [Riemann_Hypothesis.personal](/_personal/Mathematics/Mathematician/Modern_Mathematician/Riemann,Bernhard/Riemann_Hypothesis.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Mathematician/Modern_Mathematician/Riemann,Bernhard/Riemann_Hypothesis.personal|Riemann_Hypothesis.personal]] 
 
-### #is_/same_as :: [Riemann_Hypothesis.secret](/_secret/Mathematics/Mathematician/Modern_Mathematician/Riemann,Bernhard/Riemann_Hypothesis.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Mathematician/Modern_Mathematician/Riemann,Bernhard/Riemann_Hypothesis.secret|Riemann_Hypothesis.secret]] 
 

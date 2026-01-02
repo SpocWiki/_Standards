@@ -663,17 +663,17 @@ Events:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~OrganizationAndPlace](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace|FileClass~OrganizationAndPlace]] 
 
-### #is_/same_as :: [FileClass~OrganizationAndPlace.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace.public|FileClass~OrganizationAndPlace.public]] 
 
-### #is_/same_as :: [FileClass~OrganizationAndPlace.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace.internal|FileClass~OrganizationAndPlace.internal]] 
 
-### #is_/same_as :: [FileClass~OrganizationAndPlace.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace.protect|FileClass~OrganizationAndPlace.protect]] 
 
-### #is_/same_as :: [FileClass~OrganizationAndPlace.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace.private|FileClass~OrganizationAndPlace.private]] 
 
-### #is_/same_as :: [FileClass~OrganizationAndPlace.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace.personal|FileClass~OrganizationAndPlace.personal]] 
 
-### #is_/same_as :: [FileClass~OrganizationAndPlace.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace.secret|FileClass~OrganizationAndPlace.secret]] 
 

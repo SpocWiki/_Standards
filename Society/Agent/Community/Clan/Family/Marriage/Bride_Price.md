@@ -52,17 +52,17 @@ Commons_category: Bridewealth
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bride_Price](/_Standards/Society/Agent/Community/Clan/Family/Marriage/Bride_Price.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Clan/Family/Marriage/Bride_Price|Bride_Price]] 
 
-### #is_/same_as :: [Bride_Price.public](/_public/Society/Agent/Community/Clan/Family/Marriage/Bride_Price.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Clan/Family/Marriage/Bride_Price.public|Bride_Price.public]] 
 
-### #is_/same_as :: [Bride_Price.internal](/_internal/Society/Agent/Community/Clan/Family/Marriage/Bride_Price.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Clan/Family/Marriage/Bride_Price.internal|Bride_Price.internal]] 
 
-### #is_/same_as :: [Bride_Price.protect](/_protect/Society/Agent/Community/Clan/Family/Marriage/Bride_Price.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Clan/Family/Marriage/Bride_Price.protect|Bride_Price.protect]] 
 
-### #is_/same_as :: [Bride_Price.private](/_private/Society/Agent/Community/Clan/Family/Marriage/Bride_Price.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Clan/Family/Marriage/Bride_Price.private|Bride_Price.private]] 
 
-### #is_/same_as :: [Bride_Price.personal](/_personal/Society/Agent/Community/Clan/Family/Marriage/Bride_Price.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Clan/Family/Marriage/Bride_Price.personal|Bride_Price.personal]] 
 
-### #is_/same_as :: [Bride_Price.secret](/_secret/Society/Agent/Community/Clan/Family/Marriage/Bride_Price.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Clan/Family/Marriage/Bride_Price.secret|Bride_Price.secret]] 
 

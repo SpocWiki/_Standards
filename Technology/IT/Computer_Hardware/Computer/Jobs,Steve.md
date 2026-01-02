@@ -176,17 +176,17 @@ Plex_person_key: 5d77683df54112001f5be8b0
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Jobs,Steve](/_Standards/Technology/IT/Computer_Hardware/Computer/Jobs,Steve.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Computer_Hardware/Computer/Jobs,Steve|Jobs,Steve]] 
 
-### #is_/same_as :: [Jobs,Steve.public](/_public/Technology/IT/Computer_Hardware/Computer/Jobs,Steve.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Computer_Hardware/Computer/Jobs,Steve.public|Jobs,Steve.public]] 
 
-### #is_/same_as :: [Jobs,Steve.internal](/_internal/Technology/IT/Computer_Hardware/Computer/Jobs,Steve.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Computer_Hardware/Computer/Jobs,Steve.internal|Jobs,Steve.internal]] 
 
-### #is_/same_as :: [Jobs,Steve.protect](/_protect/Technology/IT/Computer_Hardware/Computer/Jobs,Steve.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Computer_Hardware/Computer/Jobs,Steve.protect|Jobs,Steve.protect]] 
 
-### #is_/same_as :: [Jobs,Steve.private](/_private/Technology/IT/Computer_Hardware/Computer/Jobs,Steve.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Computer_Hardware/Computer/Jobs,Steve.private|Jobs,Steve.private]] 
 
-### #is_/same_as :: [Jobs,Steve.personal](/_personal/Technology/IT/Computer_Hardware/Computer/Jobs,Steve.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Computer_Hardware/Computer/Jobs,Steve.personal|Jobs,Steve.personal]] 
 
-### #is_/same_as :: [Jobs,Steve.secret](/_secret/Technology/IT/Computer_Hardware/Computer/Jobs,Steve.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Computer_Hardware/Computer/Jobs,Steve.secret|Jobs,Steve.secret]] 
 

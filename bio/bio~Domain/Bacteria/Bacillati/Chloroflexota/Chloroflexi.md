@@ -63,17 +63,17 @@ green nonsulfur bacteria
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Chloroflexi](/_Standards/bio/bio~Domain/Bacteria/Bacillati/Chloroflexota/Chloroflexi.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Bacteria/Bacillati/Chloroflexota/Chloroflexi|Chloroflexi]] 
 
-### #is_/same_as :: [Chloroflexi.public](/_public/bio/bio~Domain/Bacteria/Bacillati/Chloroflexota/Chloroflexi.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Bacteria/Bacillati/Chloroflexota/Chloroflexi.public|Chloroflexi.public]] 
 
-### #is_/same_as :: [Chloroflexi.internal](/_internal/bio/bio~Domain/Bacteria/Bacillati/Chloroflexota/Chloroflexi.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Bacteria/Bacillati/Chloroflexota/Chloroflexi.internal|Chloroflexi.internal]] 
 
-### #is_/same_as :: [Chloroflexi.protect](/_protect/bio/bio~Domain/Bacteria/Bacillati/Chloroflexota/Chloroflexi.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Bacteria/Bacillati/Chloroflexota/Chloroflexi.protect|Chloroflexi.protect]] 
 
-### #is_/same_as :: [Chloroflexi.private](/_private/bio/bio~Domain/Bacteria/Bacillati/Chloroflexota/Chloroflexi.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Bacteria/Bacillati/Chloroflexota/Chloroflexi.private|Chloroflexi.private]] 
 
-### #is_/same_as :: [Chloroflexi.personal](/_personal/bio/bio~Domain/Bacteria/Bacillati/Chloroflexota/Chloroflexi.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Bacteria/Bacillati/Chloroflexota/Chloroflexi.personal|Chloroflexi.personal]] 
 
-### #is_/same_as :: [Chloroflexi.secret](/_secret/bio/bio~Domain/Bacteria/Bacillati/Chloroflexota/Chloroflexi.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Bacteria/Bacillati/Chloroflexota/Chloroflexi.secret|Chloroflexi.secret]] 
 

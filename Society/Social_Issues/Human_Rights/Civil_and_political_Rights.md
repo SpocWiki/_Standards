@@ -79,17 +79,17 @@ MeSH_tree_code:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Civil_and_political_Rights](/_Standards/Society/Social_Issues/Human_Rights/Civil_and_political_Rights.md) 
+### #is_/same_as :: [[/_Standards/Society/Social_Issues/Human_Rights/Civil_and_political_Rights|Civil_and_political_Rights]] 
 
-### #is_/same_as :: [Civil_and_political_Rights.public](/_public/Society/Social_Issues/Human_Rights/Civil_and_political_Rights.public.md) 
+### #is_/same_as :: [[/_public/Society/Social_Issues/Human_Rights/Civil_and_political_Rights.public|Civil_and_political_Rights.public]] 
 
-### #is_/same_as :: [Civil_and_political_Rights.internal](/_internal/Society/Social_Issues/Human_Rights/Civil_and_political_Rights.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Social_Issues/Human_Rights/Civil_and_political_Rights.internal|Civil_and_political_Rights.internal]] 
 
-### #is_/same_as :: [Civil_and_political_Rights.protect](/_protect/Society/Social_Issues/Human_Rights/Civil_and_political_Rights.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Social_Issues/Human_Rights/Civil_and_political_Rights.protect|Civil_and_political_Rights.protect]] 
 
-### #is_/same_as :: [Civil_and_political_Rights.private](/_private/Society/Social_Issues/Human_Rights/Civil_and_political_Rights.private.md) 
+### #is_/same_as :: [[/_private/Society/Social_Issues/Human_Rights/Civil_and_political_Rights.private|Civil_and_political_Rights.private]] 
 
-### #is_/same_as :: [Civil_and_political_Rights.personal](/_personal/Society/Social_Issues/Human_Rights/Civil_and_political_Rights.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Social_Issues/Human_Rights/Civil_and_political_Rights.personal|Civil_and_political_Rights.personal]] 
 
-### #is_/same_as :: [Civil_and_political_Rights.secret](/_secret/Society/Social_Issues/Human_Rights/Civil_and_political_Rights.secret.md)
+### #is_/same_as :: [[/_secret/Society/Social_Issues/Human_Rights/Civil_and_political_Rights.secret|Civil_and_political_Rights.secret]] 
 

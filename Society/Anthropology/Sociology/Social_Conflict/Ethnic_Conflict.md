@@ -28,17 +28,17 @@ instance_of: '[[_Standards/WikiData/WD~type_of_conflict,125092269]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ethnic_Conflict](/_Standards/Society/Anthropology/Sociology/Social_Conflict/Ethnic_Conflict.md) 
+### #is_/same_as :: [[/_Standards/Society/Anthropology/Sociology/Social_Conflict/Ethnic_Conflict|Ethnic_Conflict]] 
 
-### #is_/same_as :: [Ethnic_Conflict.public](/_public/Society/Anthropology/Sociology/Social_Conflict/Ethnic_Conflict.public.md) 
+### #is_/same_as :: [[/_public/Society/Anthropology/Sociology/Social_Conflict/Ethnic_Conflict.public|Ethnic_Conflict.public]] 
 
-### #is_/same_as :: [Ethnic_Conflict.internal](/_internal/Society/Anthropology/Sociology/Social_Conflict/Ethnic_Conflict.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Anthropology/Sociology/Social_Conflict/Ethnic_Conflict.internal|Ethnic_Conflict.internal]] 
 
-### #is_/same_as :: [Ethnic_Conflict.protect](/_protect/Society/Anthropology/Sociology/Social_Conflict/Ethnic_Conflict.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Anthropology/Sociology/Social_Conflict/Ethnic_Conflict.protect|Ethnic_Conflict.protect]] 
 
-### #is_/same_as :: [Ethnic_Conflict.private](/_private/Society/Anthropology/Sociology/Social_Conflict/Ethnic_Conflict.private.md) 
+### #is_/same_as :: [[/_private/Society/Anthropology/Sociology/Social_Conflict/Ethnic_Conflict.private|Ethnic_Conflict.private]] 
 
-### #is_/same_as :: [Ethnic_Conflict.personal](/_personal/Society/Anthropology/Sociology/Social_Conflict/Ethnic_Conflict.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Anthropology/Sociology/Social_Conflict/Ethnic_Conflict.personal|Ethnic_Conflict.personal]] 
 
-### #is_/same_as :: [Ethnic_Conflict.secret](/_secret/Society/Anthropology/Sociology/Social_Conflict/Ethnic_Conflict.secret.md)
+### #is_/same_as :: [[/_secret/Society/Anthropology/Sociology/Social_Conflict/Ethnic_Conflict.secret|Ethnic_Conflict.secret]] 
 

@@ -96,7 +96,7 @@ latter is a phylogenetic relict.
     5.  Nephridial coeloms separate.
 
 ### Origin of the Octopoda
-![ ](Octopodiformes/Settlement2.JPG))
+![ ](Octopodiformes/Settlement2.JPG) 
 
 Drawing modified from Young, Vecchione and Donovan, 1999.
 
@@ -176,7 +176,7 @@ Size              25 cm total length
 Copyright ::         © 1999 Brad Seibel
 
 ------------- 
-![](Octopodiformes/Ocyanea.jpg))
+![](Octopodiformes/Ocyanea.jpg) 
 Scientific Name ::  Octopus cyanea
 Location ::        Great Barrier Reef, Australia
 Copyright ::         © 1999 Mark Norman
@@ -184,17 +184,17 @@ Copyright ::         © 1999 Mark Norman
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Octopodiformes](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes|Octopodiformes]] 
 
-### #is_/same_as :: [Octopodiformes.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes.public|Octopodiformes.public]] 
 
-### #is_/same_as :: [Octopodiformes.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes.internal|Octopodiformes.internal]] 
 
-### #is_/same_as :: [Octopodiformes.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes.protect|Octopodiformes.protect]] 
 
-### #is_/same_as :: [Octopodiformes.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes.private|Octopodiformes.private]] 
 
-### #is_/same_as :: [Octopodiformes.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes.personal|Octopodiformes.personal]] 
 
-### #is_/same_as :: [Octopodiformes.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes.secret|Octopodiformes.secret]] 
 

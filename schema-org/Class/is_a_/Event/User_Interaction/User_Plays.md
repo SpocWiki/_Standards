@@ -45,17 +45,17 @@ UserInteraction and its subtypes is an old way of talking about users interactin
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [User_Plays](/_Standards/schema-org/Class/is_a_/Event/User_Interaction/User_Plays.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Event/User_Interaction/User_Plays|User_Plays]] 
 
-### #is_/same_as :: [User_Plays.public](/_public/schema-org/Class/is_a_/Event/User_Interaction/User_Plays.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Event/User_Interaction/User_Plays.public|User_Plays.public]] 
 
-### #is_/same_as :: [User_Plays.internal](/_internal/schema-org/Class/is_a_/Event/User_Interaction/User_Plays.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Event/User_Interaction/User_Plays.internal|User_Plays.internal]] 
 
-### #is_/same_as :: [User_Plays.protect](/_protect/schema-org/Class/is_a_/Event/User_Interaction/User_Plays.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Event/User_Interaction/User_Plays.protect|User_Plays.protect]] 
 
-### #is_/same_as :: [User_Plays.private](/_private/schema-org/Class/is_a_/Event/User_Interaction/User_Plays.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Event/User_Interaction/User_Plays.private|User_Plays.private]] 
 
-### #is_/same_as :: [User_Plays.personal](/_personal/schema-org/Class/is_a_/Event/User_Interaction/User_Plays.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Event/User_Interaction/User_Plays.personal|User_Plays.personal]] 
 
-### #is_/same_as :: [User_Plays.secret](/_secret/schema-org/Class/is_a_/Event/User_Interaction/User_Plays.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Event/User_Interaction/User_Plays.secret|User_Plays.secret]] 
 

@@ -79,7 +79,7 @@ Chun in the North Atlantic (31° 59\'N, 15° 5\'W) and probably belongs to
 ***P. levimana***. Whether or not ***P. exopthalmica***, which is now
 based on a single small (9.5 mm ML) paralarva from the Indian Ocean is a
 junior synonym of ***P. levimana*** remains to be determined.
-![ ](levimana/P.jpg))
+![ ](levimana/P.jpg) 
 
 **Figure**. Ventral view of a paralarva of ***P. levimana***, 25 mm ML,
 North Atlantic. Drawing from Chun (1910) identified as ***P.
@@ -123,7 +123,7 @@ from 0-2400 m.
 ## Title Illustrations
 
 ------------------------------------------------------------------------------ 
-![](levimana/MLevimanaVent.jpg))
+![](levimana/MLevimanaVent.jpg) 
 Scientific Name ::     Planctoteuthis levimana
 Location ::           41°31\'N, 29°55\'W
 Specimen Condition   Fresh
@@ -137,17 +137,17 @@ Copyright ::            © [Richard E. Young](http://www.soest.hawaii.edu/%7Eryo
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [levimana](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Chiroteuthidae/Planctoteuthis/levimana.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Chiroteuthidae/Planctoteuthis/levimana|levimana]] 
 
-### #is_/same_as :: [levimana.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Chiroteuthidae/Planctoteuthis/levimana.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Chiroteuthidae/Planctoteuthis/levimana.public|levimana.public]] 
 
-### #is_/same_as :: [levimana.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Chiroteuthidae/Planctoteuthis/levimana.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Chiroteuthidae/Planctoteuthis/levimana.internal|levimana.internal]] 
 
-### #is_/same_as :: [levimana.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Chiroteuthidae/Planctoteuthis/levimana.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Chiroteuthidae/Planctoteuthis/levimana.protect|levimana.protect]] 
 
-### #is_/same_as :: [levimana.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Chiroteuthidae/Planctoteuthis/levimana.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Chiroteuthidae/Planctoteuthis/levimana.private|levimana.private]] 
 
-### #is_/same_as :: [levimana.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Chiroteuthidae/Planctoteuthis/levimana.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Chiroteuthidae/Planctoteuthis/levimana.personal|levimana.personal]] 
 
-### #is_/same_as :: [levimana.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Chiroteuthidae/Planctoteuthis/levimana.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Chiroteuthidae/Planctoteuthis/levimana.secret|levimana.secret]] 
 

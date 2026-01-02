@@ -37,17 +37,17 @@ A radio channel that uses FM.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~FMRadioChannel](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~BroadcastChannel/FileClass~RadioChannel/FileClass~FMRadioChannel.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~BroadcastChannel/FileClass~RadioChannel/FileClass~FMRadioChannel|FileClass~FMRadioChannel]] 
 
-### #is_/same_as :: [FileClass~FMRadioChannel.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~BroadcastChannel/FileClass~RadioChannel/FileClass~FMRadioChannel.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~BroadcastChannel/FileClass~RadioChannel/FileClass~FMRadioChannel.public|FileClass~FMRadioChannel.public]] 
 
-### #is_/same_as :: [FileClass~FMRadioChannel.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~BroadcastChannel/FileClass~RadioChannel/FileClass~FMRadioChannel.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~BroadcastChannel/FileClass~RadioChannel/FileClass~FMRadioChannel.internal|FileClass~FMRadioChannel.internal]] 
 
-### #is_/same_as :: [FileClass~FMRadioChannel.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~BroadcastChannel/FileClass~RadioChannel/FileClass~FMRadioChannel.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~BroadcastChannel/FileClass~RadioChannel/FileClass~FMRadioChannel.protect|FileClass~FMRadioChannel.protect]] 
 
-### #is_/same_as :: [FileClass~FMRadioChannel.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~BroadcastChannel/FileClass~RadioChannel/FileClass~FMRadioChannel.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~BroadcastChannel/FileClass~RadioChannel/FileClass~FMRadioChannel.private|FileClass~FMRadioChannel.private]] 
 
-### #is_/same_as :: [FileClass~FMRadioChannel.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~BroadcastChannel/FileClass~RadioChannel/FileClass~FMRadioChannel.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~BroadcastChannel/FileClass~RadioChannel/FileClass~FMRadioChannel.personal|FileClass~FMRadioChannel.personal]] 
 
-### #is_/same_as :: [FileClass~FMRadioChannel.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~BroadcastChannel/FileClass~RadioChannel/FileClass~FMRadioChannel.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~BroadcastChannel/FileClass~RadioChannel/FileClass~FMRadioChannel.secret|FileClass~FMRadioChannel.secret]] 
 

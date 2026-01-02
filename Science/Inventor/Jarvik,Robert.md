@@ -44,17 +44,17 @@ date_of_death: 2025-05-26T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Jarvik,Robert](/_Standards/Science/Inventor/Jarvik,Robert.md) 
+### #is_/same_as :: [[/_Standards/Science/Inventor/Jarvik,Robert|Jarvik,Robert]] 
 
-### #is_/same_as :: [Jarvik,Robert.public](/_public/Science/Inventor/Jarvik,Robert.public.md) 
+### #is_/same_as :: [[/_public/Science/Inventor/Jarvik,Robert.public|Jarvik,Robert.public]] 
 
-### #is_/same_as :: [Jarvik,Robert.internal](/_internal/Science/Inventor/Jarvik,Robert.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Inventor/Jarvik,Robert.internal|Jarvik,Robert.internal]] 
 
-### #is_/same_as :: [Jarvik,Robert.protect](/_protect/Science/Inventor/Jarvik,Robert.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Inventor/Jarvik,Robert.protect|Jarvik,Robert.protect]] 
 
-### #is_/same_as :: [Jarvik,Robert.private](/_private/Science/Inventor/Jarvik,Robert.private.md) 
+### #is_/same_as :: [[/_private/Science/Inventor/Jarvik,Robert.private|Jarvik,Robert.private]] 
 
-### #is_/same_as :: [Jarvik,Robert.personal](/_personal/Science/Inventor/Jarvik,Robert.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Inventor/Jarvik,Robert.personal|Jarvik,Robert.personal]] 
 
-### #is_/same_as :: [Jarvik,Robert.secret](/_secret/Science/Inventor/Jarvik,Robert.secret.md)
+### #is_/same_as :: [[/_secret/Science/Inventor/Jarvik,Robert.secret|Jarvik,Robert.secret]] 
 

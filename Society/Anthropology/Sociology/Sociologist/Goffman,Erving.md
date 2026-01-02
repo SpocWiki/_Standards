@@ -74,17 +74,17 @@ ISNI: 000000012134779X
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Goffman,Erving](/_Standards/Society/Anthropology/Sociology/Sociologist/Goffman,Erving.md) 
+### #is_/same_as :: [[/_Standards/Society/Anthropology/Sociology/Sociologist/Goffman,Erving|Goffman,Erving]] 
 
-### #is_/same_as :: [Goffman,Erving.public](/_public/Society/Anthropology/Sociology/Sociologist/Goffman,Erving.public.md) 
+### #is_/same_as :: [[/_public/Society/Anthropology/Sociology/Sociologist/Goffman,Erving.public|Goffman,Erving.public]] 
 
-### #is_/same_as :: [Goffman,Erving.internal](/_internal/Society/Anthropology/Sociology/Sociologist/Goffman,Erving.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Anthropology/Sociology/Sociologist/Goffman,Erving.internal|Goffman,Erving.internal]] 
 
-### #is_/same_as :: [Goffman,Erving.protect](/_protect/Society/Anthropology/Sociology/Sociologist/Goffman,Erving.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Anthropology/Sociology/Sociologist/Goffman,Erving.protect|Goffman,Erving.protect]] 
 
-### #is_/same_as :: [Goffman,Erving.private](/_private/Society/Anthropology/Sociology/Sociologist/Goffman,Erving.private.md) 
+### #is_/same_as :: [[/_private/Society/Anthropology/Sociology/Sociologist/Goffman,Erving.private|Goffman,Erving.private]] 
 
-### #is_/same_as :: [Goffman,Erving.personal](/_personal/Society/Anthropology/Sociology/Sociologist/Goffman,Erving.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Anthropology/Sociology/Sociologist/Goffman,Erving.personal|Goffman,Erving.personal]] 
 
-### #is_/same_as :: [Goffman,Erving.secret](/_secret/Society/Anthropology/Sociology/Sociologist/Goffman,Erving.secret.md)
+### #is_/same_as :: [[/_secret/Society/Anthropology/Sociology/Sociologist/Goffman,Erving.secret|Goffman,Erving.secret]] 
 

@@ -82,17 +82,17 @@ Wikidata_property: weather history
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Weather](/_Standards/Earth/Climate/Weather.md) 
+### #is_/same_as :: [[/_Standards/Earth/Climate/Weather|Weather]] 
 
-### #is_/same_as :: [Weather.public](/_public/Earth/Climate/Weather.public.md) 
+### #is_/same_as :: [[/_public/Earth/Climate/Weather.public|Weather.public]] 
 
-### #is_/same_as :: [Weather.internal](/_internal/Earth/Climate/Weather.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Climate/Weather.internal|Weather.internal]] 
 
-### #is_/same_as :: [Weather.protect](/_protect/Earth/Climate/Weather.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Climate/Weather.protect|Weather.protect]] 
 
-### #is_/same_as :: [Weather.private](/_private/Earth/Climate/Weather.private.md) 
+### #is_/same_as :: [[/_private/Earth/Climate/Weather.private|Weather.private]] 
 
-### #is_/same_as :: [Weather.personal](/_personal/Earth/Climate/Weather.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Climate/Weather.personal|Weather.personal]] 
 
-### #is_/same_as :: [Weather.secret](/_secret/Earth/Climate/Weather.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Climate/Weather.secret|Weather.secret]] 
 

@@ -43,17 +43,17 @@ A Research project.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Research_Project](/_Standards/Society/Agent/Community/Organization/Project/Research_Project.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Project/Research_Project|Research_Project]] 
 
-### #is_/same_as :: [Research_Project.public](/_public/Society/Agent/Community/Organization/Project/Research_Project.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Project/Research_Project.public|Research_Project.public]] 
 
-### #is_/same_as :: [Research_Project.internal](/_internal/Society/Agent/Community/Organization/Project/Research_Project.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Project/Research_Project.internal|Research_Project.internal]] 
 
-### #is_/same_as :: [Research_Project.protect](/_protect/Society/Agent/Community/Organization/Project/Research_Project.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Project/Research_Project.protect|Research_Project.protect]] 
 
-### #is_/same_as :: [Research_Project.private](/_private/Society/Agent/Community/Organization/Project/Research_Project.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Project/Research_Project.private|Research_Project.private]] 
 
-### #is_/same_as :: [Research_Project.personal](/_personal/Society/Agent/Community/Organization/Project/Research_Project.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Project/Research_Project.personal|Research_Project.personal]] 
 
-### #is_/same_as :: [Research_Project.secret](/_secret/Society/Agent/Community/Organization/Project/Research_Project.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Project/Research_Project.secret|Research_Project.secret]] 
 

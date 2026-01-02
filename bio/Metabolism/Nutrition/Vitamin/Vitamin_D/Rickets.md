@@ -33,17 +33,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Rickets](Rickets.md) 
+### #is_/same_as :: [[/_Standards/bio/Metabolism/Nutrition/Vitamin/Vitamin_D/Rickets|Rickets]] 
 
-### #is_/same_as :: [Rickets.public](/_public/bio/Metabolism/Nutrition/Vitamin/Rickets.public.md) 
+### #is_/same_as :: [[/_public/bio/Metabolism/Nutrition/Vitamin/Vitamin_D/Rickets.public|Rickets.public]] 
 
-### #is_/same_as :: [Rickets.internal](/_internal/bio/Metabolism/Nutrition/Vitamin/Rickets.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Metabolism/Nutrition/Vitamin/Vitamin_D/Rickets.internal|Rickets.internal]] 
 
-### #is_/same_as :: [Rickets.protect](/_protect/bio/Metabolism/Nutrition/Vitamin/Rickets.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Metabolism/Nutrition/Vitamin/Vitamin_D/Rickets.protect|Rickets.protect]] 
 
-### #is_/same_as :: [Rickets.private](/_private/bio/Metabolism/Nutrition/Vitamin/Rickets.private.md) 
+### #is_/same_as :: [[/_private/bio/Metabolism/Nutrition/Vitamin/Vitamin_D/Rickets.private|Rickets.private]] 
 
-### #is_/same_as :: [Rickets.personal](/_personal/bio/Metabolism/Nutrition/Vitamin/Rickets.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Metabolism/Nutrition/Vitamin/Vitamin_D/Rickets.personal|Rickets.personal]] 
 
-### #is_/same_as :: [Rickets.secret](/_secret/bio/Metabolism/Nutrition/Vitamin/Rickets.secret.md)
+### #is_/same_as :: [[/_secret/bio/Metabolism/Nutrition/Vitamin/Vitamin_D/Rickets.secret|Rickets.secret]] 
 

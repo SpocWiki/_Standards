@@ -34,17 +34,17 @@ Commons_category: Conservative dentistry
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Dental_Restoration](/_Standards/bio/Medicine/Dentistry/Dental_Restoration.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Dentistry/Dental_Restoration|Dental_Restoration]] 
 
-### #is_/same_as :: [Dental_Restoration.public](/_public/bio/Medicine/Dentistry/Dental_Restoration.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Dentistry/Dental_Restoration.public|Dental_Restoration.public]] 
 
-### #is_/same_as :: [Dental_Restoration.internal](/_internal/bio/Medicine/Dentistry/Dental_Restoration.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Dentistry/Dental_Restoration.internal|Dental_Restoration.internal]] 
 
-### #is_/same_as :: [Dental_Restoration.protect](/_protect/bio/Medicine/Dentistry/Dental_Restoration.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Dentistry/Dental_Restoration.protect|Dental_Restoration.protect]] 
 
-### #is_/same_as :: [Dental_Restoration.private](/_private/bio/Medicine/Dentistry/Dental_Restoration.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Dentistry/Dental_Restoration.private|Dental_Restoration.private]] 
 
-### #is_/same_as :: [Dental_Restoration.personal](/_personal/bio/Medicine/Dentistry/Dental_Restoration.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Dentistry/Dental_Restoration.personal|Dental_Restoration.personal]] 
 
-### #is_/same_as :: [Dental_Restoration.secret](/_secret/bio/Medicine/Dentistry/Dental_Restoration.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Dentistry/Dental_Restoration.secret|Dental_Restoration.secret]] 
 

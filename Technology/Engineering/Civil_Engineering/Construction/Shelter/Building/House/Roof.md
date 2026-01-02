@@ -62,17 +62,17 @@ Iconclass_notation: 41A36
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Roof](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Roof.md) 
+### #is_/same_as :: [[/_Standards/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Roof|Roof]] 
 
-### #is_/same_as :: [Roof.public](/_public/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Roof.public.md) 
+### #is_/same_as :: [[/_public/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Roof.public|Roof.public]] 
 
-### #is_/same_as :: [Roof.internal](/_internal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Roof.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Roof.internal|Roof.internal]] 
 
-### #is_/same_as :: [Roof.protect](/_protect/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Roof.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Roof.protect|Roof.protect]] 
 
-### #is_/same_as :: [Roof.private](/_private/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Roof.private.md) 
+### #is_/same_as :: [[/_private/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Roof.private|Roof.private]] 
 
-### #is_/same_as :: [Roof.personal](/_personal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Roof.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Roof.personal|Roof.personal]] 
 
-### #is_/same_as :: [Roof.secret](/_secret/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Roof.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Roof.secret|Roof.secret]] 
 

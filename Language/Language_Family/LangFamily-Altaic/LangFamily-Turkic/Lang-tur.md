@@ -158,17 +158,17 @@ writing_system: '[[_Standards/WikiData/WD~Turkish_alphabet,637405]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lang-tur](/_Standards/Language/Language_Family/LangFamily-Altaic/LangFamily-Turkic/Lang-tur.md) 
+### #is_/same_as :: [[/_Standards/Language/Language_Family/LangFamily-Altaic/LangFamily-Turkic/Lang-tur|Lang-tur]] 
 
-### #is_/same_as :: [Lang-tur.public](/_public/Language/Language_Family/LangFamily-Altaic/LangFamily-Turkic/Lang-tur.public.md) 
+### #is_/same_as :: [[/_public/Language/Language_Family/LangFamily-Altaic/LangFamily-Turkic/Lang-tur.public|Lang-tur.public]] 
 
-### #is_/same_as :: [Lang-tur.internal](/_internal/Language/Language_Family/LangFamily-Altaic/LangFamily-Turkic/Lang-tur.internal.md) 
+### #is_/same_as :: [[/_internal/Language/Language_Family/LangFamily-Altaic/LangFamily-Turkic/Lang-tur.internal|Lang-tur.internal]] 
 
-### #is_/same_as :: [Lang-tur.protect](/_protect/Language/Language_Family/LangFamily-Altaic/LangFamily-Turkic/Lang-tur.protect.md) 
+### #is_/same_as :: [[/_protect/Language/Language_Family/LangFamily-Altaic/LangFamily-Turkic/Lang-tur.protect|Lang-tur.protect]] 
 
-### #is_/same_as :: [Lang-tur.private](/_private/Language/Language_Family/LangFamily-Altaic/LangFamily-Turkic/Lang-tur.private.md) 
+### #is_/same_as :: [[/_private/Language/Language_Family/LangFamily-Altaic/LangFamily-Turkic/Lang-tur.private|Lang-tur.private]] 
 
-### #is_/same_as :: [Lang-tur.personal](/_personal/Language/Language_Family/LangFamily-Altaic/LangFamily-Turkic/Lang-tur.personal.md) 
+### #is_/same_as :: [[/_personal/Language/Language_Family/LangFamily-Altaic/LangFamily-Turkic/Lang-tur.personal|Lang-tur.personal]] 
 
-### #is_/same_as :: [Lang-tur.secret](/_secret/Language/Language_Family/LangFamily-Altaic/LangFamily-Turkic/Lang-tur.secret.md)
+### #is_/same_as :: [[/_secret/Language/Language_Family/LangFamily-Altaic/LangFamily-Turkic/Lang-tur.secret|Lang-tur.secret]] 
 

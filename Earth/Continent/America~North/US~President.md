@@ -181,17 +181,17 @@ dv.table(["Name", "Begin", "End", "Years"], items)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [US~President](/_Standards/Earth/Continent/America~North/US~President.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~North/US~President|US~President]] 
 
-### #is_/same_as :: [US~President.public](/_public/Earth/Continent/America~North/US~President.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~North/US~President.public|US~President.public]] 
 
-### #is_/same_as :: [US~President.internal](/_internal/Earth/Continent/America~North/US~President.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~North/US~President.internal|US~President.internal]] 
 
-### #is_/same_as :: [US~President.protect](/_protect/Earth/Continent/America~North/US~President.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~North/US~President.protect|US~President.protect]] 
 
-### #is_/same_as :: [US~President.private](/_private/Earth/Continent/America~North/US~President.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~North/US~President.private|US~President.private]] 
 
-### #is_/same_as :: [US~President.personal](/_personal/Earth/Continent/America~North/US~President.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~North/US~President.personal|US~President.personal]] 
 
-### #is_/same_as :: [US~President.secret](/_secret/Earth/Continent/America~North/US~President.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~North/US~President.secret|US~President.secret]] 
 

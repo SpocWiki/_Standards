@@ -140,17 +140,17 @@ ISNI:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sienkiewicz,Henryk](/_Standards/Society/Communication/Media/Writing/Book/Writer/Sienkiewicz,Henryk.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Writer/Sienkiewicz,Henryk|Sienkiewicz,Henryk]] 
 
-### #is_/same_as :: [Sienkiewicz,Henryk.public](/_public/Society/Communication/Media/Writing/Book/Writer/Sienkiewicz,Henryk.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Writer/Sienkiewicz,Henryk.public|Sienkiewicz,Henryk.public]] 
 
-### #is_/same_as :: [Sienkiewicz,Henryk.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/Sienkiewicz,Henryk.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Writer/Sienkiewicz,Henryk.internal|Sienkiewicz,Henryk.internal]] 
 
-### #is_/same_as :: [Sienkiewicz,Henryk.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/Sienkiewicz,Henryk.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Writer/Sienkiewicz,Henryk.protect|Sienkiewicz,Henryk.protect]] 
 
-### #is_/same_as :: [Sienkiewicz,Henryk.private](/_private/Society/Communication/Media/Writing/Book/Writer/Sienkiewicz,Henryk.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Writer/Sienkiewicz,Henryk.private|Sienkiewicz,Henryk.private]] 
 
-### #is_/same_as :: [Sienkiewicz,Henryk.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/Sienkiewicz,Henryk.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Writer/Sienkiewicz,Henryk.personal|Sienkiewicz,Henryk.personal]] 
 
-### #is_/same_as :: [Sienkiewicz,Henryk.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/Sienkiewicz,Henryk.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Writer/Sienkiewicz,Henryk.secret|Sienkiewicz,Henryk.secret]] 
 

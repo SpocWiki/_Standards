@@ -37,17 +37,17 @@ A bakery.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~Bakery](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FoodEstablishment/FileClass~Bakery.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FoodEstablishment/FileClass~Bakery|FileClass~Bakery]] 
 
-### #is_/same_as :: [FileClass~Bakery.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FoodEstablishment/FileClass~Bakery.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FoodEstablishment/FileClass~Bakery.public|FileClass~Bakery.public]] 
 
-### #is_/same_as :: [FileClass~Bakery.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FoodEstablishment/FileClass~Bakery.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FoodEstablishment/FileClass~Bakery.internal|FileClass~Bakery.internal]] 
 
-### #is_/same_as :: [FileClass~Bakery.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FoodEstablishment/FileClass~Bakery.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FoodEstablishment/FileClass~Bakery.protect|FileClass~Bakery.protect]] 
 
-### #is_/same_as :: [FileClass~Bakery.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FoodEstablishment/FileClass~Bakery.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FoodEstablishment/FileClass~Bakery.private|FileClass~Bakery.private]] 
 
-### #is_/same_as :: [FileClass~Bakery.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FoodEstablishment/FileClass~Bakery.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FoodEstablishment/FileClass~Bakery.personal|FileClass~Bakery.personal]] 
 
-### #is_/same_as :: [FileClass~Bakery.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FoodEstablishment/FileClass~Bakery.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FoodEstablishment/FileClass~Bakery.secret|FileClass~Bakery.secret]] 
 

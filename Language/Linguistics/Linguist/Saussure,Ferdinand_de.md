@@ -109,17 +109,17 @@ Krugosvet_article: gumanitarnye_nauki/lingvistika/SOSSYUR_FERDINAND.html
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Saussure,Ferdinand_de](/_Standards/Language/Linguistics/Linguist/Saussure,Ferdinand_de.md) 
+### #is_/same_as :: [[/_Standards/Language/Linguistics/Linguist/Saussure,Ferdinand_de|Saussure,Ferdinand_de]] 
 
-### #is_/same_as :: [Saussure,Ferdinand_de.public](/_public/Language/Linguistics/Linguist/Saussure,Ferdinand_de.public.md) 
+### #is_/same_as :: [[/_public/Language/Linguistics/Linguist/Saussure,Ferdinand_de.public|Saussure,Ferdinand_de.public]] 
 
-### #is_/same_as :: [Saussure,Ferdinand_de.internal](/_internal/Language/Linguistics/Linguist/Saussure,Ferdinand_de.internal.md) 
+### #is_/same_as :: [[/_internal/Language/Linguistics/Linguist/Saussure,Ferdinand_de.internal|Saussure,Ferdinand_de.internal]] 
 
-### #is_/same_as :: [Saussure,Ferdinand_de.protect](/_protect/Language/Linguistics/Linguist/Saussure,Ferdinand_de.protect.md) 
+### #is_/same_as :: [[/_protect/Language/Linguistics/Linguist/Saussure,Ferdinand_de.protect|Saussure,Ferdinand_de.protect]] 
 
-### #is_/same_as :: [Saussure,Ferdinand_de.private](/_private/Language/Linguistics/Linguist/Saussure,Ferdinand_de.private.md) 
+### #is_/same_as :: [[/_private/Language/Linguistics/Linguist/Saussure,Ferdinand_de.private|Saussure,Ferdinand_de.private]] 
 
-### #is_/same_as :: [Saussure,Ferdinand_de.personal](/_personal/Language/Linguistics/Linguist/Saussure,Ferdinand_de.personal.md) 
+### #is_/same_as :: [[/_personal/Language/Linguistics/Linguist/Saussure,Ferdinand_de.personal|Saussure,Ferdinand_de.personal]] 
 
-### #is_/same_as :: [Saussure,Ferdinand_de.secret](/_secret/Language/Linguistics/Linguist/Saussure,Ferdinand_de.secret.md)
+### #is_/same_as :: [[/_secret/Language/Linguistics/Linguist/Saussure,Ferdinand_de.secret|Saussure,Ferdinand_de.secret]] 
 

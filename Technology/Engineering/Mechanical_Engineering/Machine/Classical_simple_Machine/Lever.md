@@ -42,17 +42,17 @@ Commons_category: Levers
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lever](/_Standards/Technology/Engineering/Mechanical_Engineering/Machine/Classical_simple_Machine/Lever.md) 
+### #is_/same_as :: [[/_Standards/Technology/Engineering/Mechanical_Engineering/Machine/Classical_simple_Machine/Lever|Lever]] 
 
-### #is_/same_as :: [Lever.public](/_public/Technology/Engineering/Mechanical_Engineering/Machine/Classical_simple_Machine/Lever.public.md) 
+### #is_/same_as :: [[/_public/Technology/Engineering/Mechanical_Engineering/Machine/Classical_simple_Machine/Lever.public|Lever.public]] 
 
-### #is_/same_as :: [Lever.internal](/_internal/Technology/Engineering/Mechanical_Engineering/Machine/Classical_simple_Machine/Lever.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Engineering/Mechanical_Engineering/Machine/Classical_simple_Machine/Lever.internal|Lever.internal]] 
 
-### #is_/same_as :: [Lever.protect](/_protect/Technology/Engineering/Mechanical_Engineering/Machine/Classical_simple_Machine/Lever.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Engineering/Mechanical_Engineering/Machine/Classical_simple_Machine/Lever.protect|Lever.protect]] 
 
-### #is_/same_as :: [Lever.private](/_private/Technology/Engineering/Mechanical_Engineering/Machine/Classical_simple_Machine/Lever.private.md) 
+### #is_/same_as :: [[/_private/Technology/Engineering/Mechanical_Engineering/Machine/Classical_simple_Machine/Lever.private|Lever.private]] 
 
-### #is_/same_as :: [Lever.personal](/_personal/Technology/Engineering/Mechanical_Engineering/Machine/Classical_simple_Machine/Lever.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Engineering/Mechanical_Engineering/Machine/Classical_simple_Machine/Lever.personal|Lever.personal]] 
 
-### #is_/same_as :: [Lever.secret](/_secret/Technology/Engineering/Mechanical_Engineering/Machine/Classical_simple_Machine/Lever.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Engineering/Mechanical_Engineering/Machine/Classical_simple_Machine/Lever.secret|Lever.secret]] 
 

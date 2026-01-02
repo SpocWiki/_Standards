@@ -61,17 +61,17 @@ IEV_number: 351-42-08
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [System](/_Standards/schema-org/Composite/System.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Composite/System|System]] 
 
-### #is_/same_as :: [System.public](/_public/schema-org/Composite/System.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Composite/System.public|System.public]] 
 
-### #is_/same_as :: [System.internal](/_internal/schema-org/Composite/System.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Composite/System.internal|System.internal]] 
 
-### #is_/same_as :: [System.protect](/_protect/schema-org/Composite/System.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Composite/System.protect|System.protect]] 
 
-### #is_/same_as :: [System.private](/_private/schema-org/Composite/System.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Composite/System.private|System.private]] 
 
-### #is_/same_as :: [System.personal](/_personal/schema-org/Composite/System.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Composite/System.personal|System.personal]] 
 
-### #is_/same_as :: [System.secret](/_secret/schema-org/Composite/System.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Composite/System.secret|System.secret]] 
 

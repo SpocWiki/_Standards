@@ -147,17 +147,17 @@ service_entry: 2000-11-02T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [ISS(International_Space_Station)](/_Standards/Earth/Satellite/ISS(International_Space_Station).md) 
+### #is_/same_as :: [[/_Standards/Earth/Satellite/ISS(International_Space_Station)|ISS(International_Space_Station)]] 
 
-### #is_/same_as :: [ISS(International_Space_Station).public](/_public/Earth/Satellite/ISS(International_Space_Station).public.md) 
+### #is_/same_as :: [[/_public/Earth/Satellite/ISS(International_Space_Station).public|ISS(International_Space_Station).public]] 
 
-### #is_/same_as :: [ISS(International_Space_Station).internal](/_internal/Earth/Satellite/ISS(International_Space_Station).internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Satellite/ISS(International_Space_Station).internal|ISS(International_Space_Station).internal]] 
 
-### #is_/same_as :: [ISS(International_Space_Station).protect](/_protect/Earth/Satellite/ISS(International_Space_Station).protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Satellite/ISS(International_Space_Station).protect|ISS(International_Space_Station).protect]] 
 
-### #is_/same_as :: [ISS(International_Space_Station).private](/_private/Earth/Satellite/ISS(International_Space_Station).private.md) 
+### #is_/same_as :: [[/_private/Earth/Satellite/ISS(International_Space_Station).private|ISS(International_Space_Station).private]] 
 
-### #is_/same_as :: [ISS(International_Space_Station).personal](/_personal/Earth/Satellite/ISS(International_Space_Station).personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Satellite/ISS(International_Space_Station).personal|ISS(International_Space_Station).personal]] 
 
-### #is_/same_as :: [ISS(International_Space_Station).secret](/_secret/Earth/Satellite/ISS(International_Space_Station).secret.md)
+### #is_/same_as :: [[/_secret/Earth/Satellite/ISS(International_Space_Station).secret|ISS(International_Space_Station).secret]] 
 

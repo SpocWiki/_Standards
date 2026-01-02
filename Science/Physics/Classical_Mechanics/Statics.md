@@ -61,17 +61,17 @@ described_at_URL:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Statics](/_Standards/Science/Physics/Classical_Mechanics/Statics.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Classical_Mechanics/Statics|Statics]] 
 
-### #is_/same_as :: [Statics.public](/_public/Science/Physics/Classical_Mechanics/Statics.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Classical_Mechanics/Statics.public|Statics.public]] 
 
-### #is_/same_as :: [Statics.internal](/_internal/Science/Physics/Classical_Mechanics/Statics.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Classical_Mechanics/Statics.internal|Statics.internal]] 
 
-### #is_/same_as :: [Statics.protect](/_protect/Science/Physics/Classical_Mechanics/Statics.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Classical_Mechanics/Statics.protect|Statics.protect]] 
 
-### #is_/same_as :: [Statics.private](/_private/Science/Physics/Classical_Mechanics/Statics.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Classical_Mechanics/Statics.private|Statics.private]] 
 
-### #is_/same_as :: [Statics.personal](/_personal/Science/Physics/Classical_Mechanics/Statics.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Classical_Mechanics/Statics.personal|Statics.personal]] 
 
-### #is_/same_as :: [Statics.secret](/_secret/Science/Physics/Classical_Mechanics/Statics.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Classical_Mechanics/Statics.secret|Statics.secret]] 
 

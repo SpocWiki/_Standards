@@ -97,7 +97,7 @@ present species are separated by (1) the maximum number of sucker series
 on the arms and tentacular clubs, (2) the presence/absence of
 photophores, (3) the size of the visceral photophore and (4) the mantle
 width relative to the ML.
-![ ](Chtenopterygidae/ChtenopteryxViscPhot.JPG))
+![ ](Chtenopterygidae/ChtenopteryxViscPhot.JPG) 
 
 **Figure**. Photograph of the visceral photophore of ***Chtenopteryx***
 sp., off Hawaii by R. E. Young. The visceral photophore present in some
@@ -220,7 +220,7 @@ dem Naturhistorischen Museum in Hamburg. 17:145-198.
   Copyright ::         © 1996 [Richard E. Young](http://www.soest.hawaii.edu/%7Eryoung/rey.html) 
  
   -------------------------------------------------------------------------------
-![](Chtenopterygidae/ChtenFins.jpg))
+![](Chtenopterygidae/ChtenFins.jpg) 
 
   -------------------------------------------------------------------
   Scientific Name ::  Chtenopteryx sp.
@@ -232,17 +232,17 @@ dem Naturhistorischen Museum in Hamburg. 17:145-198.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Chtenopterygidae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Bathyteuthoida/Chtenopterygidae.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Bathyteuthoida/Chtenopterygidae|Chtenopterygidae]] 
 
-### #is_/same_as :: [Chtenopterygidae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Bathyteuthoida/Chtenopterygidae.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Bathyteuthoida/Chtenopterygidae.public|Chtenopterygidae.public]] 
 
-### #is_/same_as :: [Chtenopterygidae.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Bathyteuthoida/Chtenopterygidae.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Bathyteuthoida/Chtenopterygidae.internal|Chtenopterygidae.internal]] 
 
-### #is_/same_as :: [Chtenopterygidae.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Bathyteuthoida/Chtenopterygidae.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Bathyteuthoida/Chtenopterygidae.protect|Chtenopterygidae.protect]] 
 
-### #is_/same_as :: [Chtenopterygidae.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Bathyteuthoida/Chtenopterygidae.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Bathyteuthoida/Chtenopterygidae.private|Chtenopterygidae.private]] 
 
-### #is_/same_as :: [Chtenopterygidae.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Bathyteuthoida/Chtenopterygidae.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Bathyteuthoida/Chtenopterygidae.personal|Chtenopterygidae.personal]] 
 
-### #is_/same_as :: [Chtenopterygidae.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Bathyteuthoida/Chtenopterygidae.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Bathyteuthoida/Chtenopterygidae.secret|Chtenopterygidae.secret]] 
 

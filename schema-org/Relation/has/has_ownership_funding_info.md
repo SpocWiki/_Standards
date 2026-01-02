@@ -47,17 +47,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_ownership_funding_info](/_Standards/schema-org/Relation/has/has_ownership_funding_info.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_ownership_funding_info|has_ownership_funding_info]] 
 
-### #is_/same_as :: [has_ownership_funding_info.public](/_public/schema-org/Relation/has/has_ownership_funding_info.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_ownership_funding_info.public|has_ownership_funding_info.public]] 
 
-### #is_/same_as :: [has_ownership_funding_info.internal](/_internal/schema-org/Relation/has/has_ownership_funding_info.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_ownership_funding_info.internal|has_ownership_funding_info.internal]] 
 
-### #is_/same_as :: [has_ownership_funding_info.protect](/_protect/schema-org/Relation/has/has_ownership_funding_info.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_ownership_funding_info.protect|has_ownership_funding_info.protect]] 
 
-### #is_/same_as :: [has_ownership_funding_info.private](/_private/schema-org/Relation/has/has_ownership_funding_info.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_ownership_funding_info.private|has_ownership_funding_info.private]] 
 
-### #is_/same_as :: [has_ownership_funding_info.personal](/_personal/schema-org/Relation/has/has_ownership_funding_info.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_ownership_funding_info.personal|has_ownership_funding_info.personal]] 
 
-### #is_/same_as :: [has_ownership_funding_info.secret](/_secret/schema-org/Relation/has/has_ownership_funding_info.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_ownership_funding_info.secret|has_ownership_funding_info.secret]] 
 

@@ -75,17 +75,17 @@ IEV_number: 121-11-56
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Dim~Magnetic_Field_Strength_H](/_Standards/Dimension/Dim~Magnetic_Flux_Density_B/Dim~Magnetic_Field_Strength_H.md) 
+### #is_/same_as :: [[/_Standards/Dimension/Dim~Magnetic_Flux/Dim~Magnetic_Flux_Density_B/Dim~Magnetic_Field_Strength_H|Dim~Magnetic_Field_Strength_H]] 
 
-### #is_/same_as :: [Dim~Magnetic_Field_Strength_H.public](/_public/Dimension/Dim~Magnetic_Flux_Density_B/Dim~Magnetic_Field_Strength_H.public.md) 
+### #is_/same_as :: [[/_public/Dimension/Dim~Magnetic_Flux/Dim~Magnetic_Flux_Density_B/Dim~Magnetic_Field_Strength_H.public|Dim~Magnetic_Field_Strength_H.public]] 
 
-### #is_/same_as :: [Dim~Magnetic_Field_Strength_H.internal](/_internal/Dimension/Dim~Magnetic_Flux_Density_B/Dim~Magnetic_Field_Strength_H.internal.md) 
+### #is_/same_as :: [[/_internal/Dimension/Dim~Magnetic_Flux/Dim~Magnetic_Flux_Density_B/Dim~Magnetic_Field_Strength_H.internal|Dim~Magnetic_Field_Strength_H.internal]] 
 
-### #is_/same_as :: [Dim~Magnetic_Field_Strength_H.protect](/_protect/Dimension/Dim~Magnetic_Flux_Density_B/Dim~Magnetic_Field_Strength_H.protect.md) 
+### #is_/same_as :: [[/_protect/Dimension/Dim~Magnetic_Flux/Dim~Magnetic_Flux_Density_B/Dim~Magnetic_Field_Strength_H.protect|Dim~Magnetic_Field_Strength_H.protect]] 
 
-### #is_/same_as :: [Dim~Magnetic_Field_Strength_H.private](/_private/Dimension/Dim~Magnetic_Flux_Density_B/Dim~Magnetic_Field_Strength_H.private.md) 
+### #is_/same_as :: [[/_private/Dimension/Dim~Magnetic_Flux/Dim~Magnetic_Flux_Density_B/Dim~Magnetic_Field_Strength_H.private|Dim~Magnetic_Field_Strength_H.private]] 
 
-### #is_/same_as :: [Dim~Magnetic_Field_Strength_H.personal](/_personal/Dimension/Dim~Magnetic_Flux_Density_B/Dim~Magnetic_Field_Strength_H.personal.md) 
+### #is_/same_as :: [[/_personal/Dimension/Dim~Magnetic_Flux/Dim~Magnetic_Flux_Density_B/Dim~Magnetic_Field_Strength_H.personal|Dim~Magnetic_Field_Strength_H.personal]] 
 
-### #is_/same_as :: [Dim~Magnetic_Field_Strength_H.secret](/_secret/Dimension/Dim~Magnetic_Flux_Density_B/Dim~Magnetic_Field_Strength_H.secret.md)
+### #is_/same_as :: [[/_secret/Dimension/Dim~Magnetic_Flux/Dim~Magnetic_Flux_Density_B/Dim~Magnetic_Field_Strength_H.secret|Dim~Magnetic_Field_Strength_H.secret]] 
 

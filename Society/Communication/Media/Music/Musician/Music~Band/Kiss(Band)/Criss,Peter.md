@@ -17,17 +17,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Criss,Peter](/_Standards/Society/Communication/Media/Music/Musician/Music~Band/Kiss(Band)/Criss,Peter.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Musician/Music~Band/Kiss(Band)/Criss,Peter|Criss,Peter]] 
 
-### #is_/same_as :: [Criss,Peter.public](/_public/Society/Communication/Media/Music/Musician/Music~Band/Kiss(Band)/Criss,Peter.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Musician/Music~Band/Kiss(Band)/Criss,Peter.public|Criss,Peter.public]] 
 
-### #is_/same_as :: [Criss,Peter.internal](/_internal/Society/Communication/Media/Music/Musician/Music~Band/Kiss(Band)/Criss,Peter.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Musician/Music~Band/Kiss(Band)/Criss,Peter.internal|Criss,Peter.internal]] 
 
-### #is_/same_as :: [Criss,Peter.protect](/_protect/Society/Communication/Media/Music/Musician/Music~Band/Kiss(Band)/Criss,Peter.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Musician/Music~Band/Kiss(Band)/Criss,Peter.protect|Criss,Peter.protect]] 
 
-### #is_/same_as :: [Criss,Peter.private](/_private/Society/Communication/Media/Music/Musician/Music~Band/Kiss(Band)/Criss,Peter.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Musician/Music~Band/Kiss(Band)/Criss,Peter.private|Criss,Peter.private]] 
 
-### #is_/same_as :: [Criss,Peter.personal](/_personal/Society/Communication/Media/Music/Musician/Music~Band/Kiss(Band)/Criss,Peter.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Musician/Music~Band/Kiss(Band)/Criss,Peter.personal|Criss,Peter.personal]] 
 
-### #is_/same_as :: [Criss,Peter.secret](/_secret/Society/Communication/Media/Music/Musician/Music~Band/Kiss(Band)/Criss,Peter.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Musician/Music~Band/Kiss(Band)/Criss,Peter.secret|Criss,Peter.secret]] 
 

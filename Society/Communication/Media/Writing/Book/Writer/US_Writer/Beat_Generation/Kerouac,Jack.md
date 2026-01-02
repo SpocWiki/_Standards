@@ -120,17 +120,17 @@ ISNI: 000000012125127X
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Kerouac,Jack](/_Standards/Society/Communication/Media/Writing/Book/Writer/US_Writer/Beat_Generation/Kerouac,Jack.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Writer/US_Writer/Beat_Generation/Kerouac,Jack|Kerouac,Jack]] 
 
-### #is_/same_as :: [Kerouac,Jack.public](/_public/Society/Communication/Media/Writing/Book/Writer/US_Writer/Beat_Generation/Kerouac,Jack.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Writer/US_Writer/Beat_Generation/Kerouac,Jack.public|Kerouac,Jack.public]] 
 
-### #is_/same_as :: [Kerouac,Jack.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/US_Writer/Beat_Generation/Kerouac,Jack.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Writer/US_Writer/Beat_Generation/Kerouac,Jack.internal|Kerouac,Jack.internal]] 
 
-### #is_/same_as :: [Kerouac,Jack.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/US_Writer/Beat_Generation/Kerouac,Jack.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Writer/US_Writer/Beat_Generation/Kerouac,Jack.protect|Kerouac,Jack.protect]] 
 
-### #is_/same_as :: [Kerouac,Jack.private](/_private/Society/Communication/Media/Writing/Book/Writer/US_Writer/Beat_Generation/Kerouac,Jack.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Writer/US_Writer/Beat_Generation/Kerouac,Jack.private|Kerouac,Jack.private]] 
 
-### #is_/same_as :: [Kerouac,Jack.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/US_Writer/Beat_Generation/Kerouac,Jack.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Writer/US_Writer/Beat_Generation/Kerouac,Jack.personal|Kerouac,Jack.personal]] 
 
-### #is_/same_as :: [Kerouac,Jack.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/US_Writer/Beat_Generation/Kerouac,Jack.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Writer/US_Writer/Beat_Generation/Kerouac,Jack.secret|Kerouac,Jack.secret]] 
 

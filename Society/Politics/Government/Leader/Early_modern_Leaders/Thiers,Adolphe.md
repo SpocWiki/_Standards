@@ -135,17 +135,17 @@ writing_language: '[[_Standards/WikiData/WD~French,150]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Thiers,Adolphe](/_Standards/Society/Politics/Government/Leader/Early_modern_Leaders/Thiers,Adolphe.md) 
+### #is_/same_as :: [[/_Standards/Society/Politics/Government/Leader/Early_modern_Leaders/Thiers,Adolphe|Thiers,Adolphe]] 
 
-### #is_/same_as :: [Thiers,Adolphe.public](/_public/Society/Politics/Government/Leader/Early_modern_Leaders/Thiers,Adolphe.public.md) 
+### #is_/same_as :: [[/_public/Society/Politics/Government/Leader/Early_modern_Leaders/Thiers,Adolphe.public|Thiers,Adolphe.public]] 
 
-### #is_/same_as :: [Thiers,Adolphe.internal](/_internal/Society/Politics/Government/Leader/Early_modern_Leaders/Thiers,Adolphe.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Politics/Government/Leader/Early_modern_Leaders/Thiers,Adolphe.internal|Thiers,Adolphe.internal]] 
 
-### #is_/same_as :: [Thiers,Adolphe.protect](/_protect/Society/Politics/Government/Leader/Early_modern_Leaders/Thiers,Adolphe.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Politics/Government/Leader/Early_modern_Leaders/Thiers,Adolphe.protect|Thiers,Adolphe.protect]] 
 
-### #is_/same_as :: [Thiers,Adolphe.private](/_private/Society/Politics/Government/Leader/Early_modern_Leaders/Thiers,Adolphe.private.md) 
+### #is_/same_as :: [[/_private/Society/Politics/Government/Leader/Early_modern_Leaders/Thiers,Adolphe.private|Thiers,Adolphe.private]] 
 
-### #is_/same_as :: [Thiers,Adolphe.personal](/_personal/Society/Politics/Government/Leader/Early_modern_Leaders/Thiers,Adolphe.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Politics/Government/Leader/Early_modern_Leaders/Thiers,Adolphe.personal|Thiers,Adolphe.personal]] 
 
-### #is_/same_as :: [Thiers,Adolphe.secret](/_secret/Society/Politics/Government/Leader/Early_modern_Leaders/Thiers,Adolphe.secret.md)
+### #is_/same_as :: [[/_secret/Society/Politics/Government/Leader/Early_modern_Leaders/Thiers,Adolphe.secret|Thiers,Adolphe.secret]] 
 

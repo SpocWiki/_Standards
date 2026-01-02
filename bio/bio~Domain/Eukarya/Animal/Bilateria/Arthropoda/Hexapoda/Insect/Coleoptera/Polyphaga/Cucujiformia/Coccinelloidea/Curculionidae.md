@@ -56,17 +56,17 @@ NBN_System_Key: NHMSYS0020151946
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Curculionidae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Coleoptera/Polyphaga/Cucujiformia/Coccinelloidea/Curculionidae.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Coleoptera/Polyphaga/Cucujiformia/Coccinelloidea/Curculionidae|Curculionidae]] 
 
-### #is_/same_as :: [Curculionidae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Coleoptera/Polyphaga/Cucujiformia/Coccinelloidea/Curculionidae.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Coleoptera/Polyphaga/Cucujiformia/Coccinelloidea/Curculionidae.public|Curculionidae.public]] 
 
-### #is_/same_as :: [Curculionidae.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Coleoptera/Polyphaga/Cucujiformia/Coccinelloidea/Curculionidae.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Coleoptera/Polyphaga/Cucujiformia/Coccinelloidea/Curculionidae.internal|Curculionidae.internal]] 
 
-### #is_/same_as :: [Curculionidae.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Coleoptera/Polyphaga/Cucujiformia/Coccinelloidea/Curculionidae.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Coleoptera/Polyphaga/Cucujiformia/Coccinelloidea/Curculionidae.protect|Curculionidae.protect]] 
 
-### #is_/same_as :: [Curculionidae.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Coleoptera/Polyphaga/Cucujiformia/Coccinelloidea/Curculionidae.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Coleoptera/Polyphaga/Cucujiformia/Coccinelloidea/Curculionidae.private|Curculionidae.private]] 
 
-### #is_/same_as :: [Curculionidae.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Coleoptera/Polyphaga/Cucujiformia/Coccinelloidea/Curculionidae.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Coleoptera/Polyphaga/Cucujiformia/Coccinelloidea/Curculionidae.personal|Curculionidae.personal]] 
 
-### #is_/same_as :: [Curculionidae.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Coleoptera/Polyphaga/Cucujiformia/Coccinelloidea/Curculionidae.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Coleoptera/Polyphaga/Cucujiformia/Coccinelloidea/Curculionidae.secret|Curculionidae.secret]] 
 

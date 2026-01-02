@@ -63,17 +63,17 @@ equivalent_class: http://dbpedia.org/ontology/Governor
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Governor](/_Standards/Society/Politics/Government/Governor.md) 
+### #is_/same_as :: [[/_Standards/Society/Politics/Government/Governor|Governor]] 
 
-### #is_/same_as :: [Governor.public](/_public/Society/Politics/Government/Governor.public.md) 
+### #is_/same_as :: [[/_public/Society/Politics/Government/Governor.public|Governor.public]] 
 
-### #is_/same_as :: [Governor.internal](/_internal/Society/Politics/Government/Governor.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Politics/Government/Governor.internal|Governor.internal]] 
 
-### #is_/same_as :: [Governor.protect](/_protect/Society/Politics/Government/Governor.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Politics/Government/Governor.protect|Governor.protect]] 
 
-### #is_/same_as :: [Governor.private](/_private/Society/Politics/Government/Governor.private.md) 
+### #is_/same_as :: [[/_private/Society/Politics/Government/Governor.private|Governor.private]] 
 
-### #is_/same_as :: [Governor.personal](/_personal/Society/Politics/Government/Governor.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Politics/Government/Governor.personal|Governor.personal]] 
 
-### #is_/same_as :: [Governor.secret](/_secret/Society/Politics/Government/Governor.secret.md)
+### #is_/same_as :: [[/_secret/Society/Politics/Government/Governor.secret|Governor.secret]] 
 

@@ -60,17 +60,17 @@ inception: 1913-01-01T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bohr_Model](/_Standards/Science/Physics/Atom/Atomic_Models/Bohr_Model.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Atom/Atomic_Models/Bohr_Model|Bohr_Model]] 
 
-### #is_/same_as :: [Bohr_Model.public](/_public/Science/Physics/Atom/Atomic_Models/Bohr_Model.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Atom/Atomic_Models/Bohr_Model.public|Bohr_Model.public]] 
 
-### #is_/same_as :: [Bohr_Model.internal](/_internal/Science/Physics/Atom/Atomic_Models/Bohr_Model.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Atom/Atomic_Models/Bohr_Model.internal|Bohr_Model.internal]] 
 
-### #is_/same_as :: [Bohr_Model.protect](/_protect/Science/Physics/Atom/Atomic_Models/Bohr_Model.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Atom/Atomic_Models/Bohr_Model.protect|Bohr_Model.protect]] 
 
-### #is_/same_as :: [Bohr_Model.private](/_private/Science/Physics/Atom/Atomic_Models/Bohr_Model.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Atom/Atomic_Models/Bohr_Model.private|Bohr_Model.private]] 
 
-### #is_/same_as :: [Bohr_Model.personal](/_personal/Science/Physics/Atom/Atomic_Models/Bohr_Model.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Atom/Atomic_Models/Bohr_Model.personal|Bohr_Model.personal]] 
 
-### #is_/same_as :: [Bohr_Model.secret](/_secret/Science/Physics/Atom/Atomic_Models/Bohr_Model.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Atom/Atomic_Models/Bohr_Model.secret|Bohr_Model.secret]] 
 

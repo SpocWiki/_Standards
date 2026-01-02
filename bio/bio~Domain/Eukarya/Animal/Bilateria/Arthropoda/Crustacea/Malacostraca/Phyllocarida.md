@@ -9,7 +9,7 @@ title: Leptostraca
 ## [[Phyllocarida]] 
 
 Leptostraca or Sea fleas 
-![Nebalia_bipes](Phyllocarida/Nebalia_bipes.gif))
+![Nebalia_bipes](Phyllocarida/Nebalia_bipes.gif) 
 
 ## #has_/text_of_/abstract 
 
@@ -85,22 +85,22 @@ Leptostraca or Sea fleas
 
 Nebalia bipes.
 Drawing from R. La Follette. 1914. A Nebalia from Laguna Beach. Journal of Entomology and Zoology 6:204-208.
-![Nebalia_bipes](Phyllocarida/Nebalia_bipes.gif))
+![Nebalia_bipes](Phyllocarida/Nebalia_bipes.gif) 
 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Phyllocarida](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Malacostraca/Phyllocarida.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Malacostraca/Phyllocarida|Phyllocarida]] 
 
-### #is_/same_as :: [Phyllocarida.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Malacostraca/Phyllocarida.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Malacostraca/Phyllocarida.public|Phyllocarida.public]] 
 
-### #is_/same_as :: [Phyllocarida.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Malacostraca/Phyllocarida.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Malacostraca/Phyllocarida.internal|Phyllocarida.internal]] 
 
-### #is_/same_as :: [Phyllocarida.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Malacostraca/Phyllocarida.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Malacostraca/Phyllocarida.protect|Phyllocarida.protect]] 
 
-### #is_/same_as :: [Phyllocarida.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Malacostraca/Phyllocarida.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Malacostraca/Phyllocarida.private|Phyllocarida.private]] 
 
-### #is_/same_as :: [Phyllocarida.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Malacostraca/Phyllocarida.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Malacostraca/Phyllocarida.personal|Phyllocarida.personal]] 
 
-### #is_/same_as :: [Phyllocarida.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Malacostraca/Phyllocarida.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Malacostraca/Phyllocarida.secret|Phyllocarida.secret]] 
 

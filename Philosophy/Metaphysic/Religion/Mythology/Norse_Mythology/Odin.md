@@ -123,17 +123,17 @@ Krugosvet_article_archived_:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Odin](/_Standards/Philosophy/Metaphysic/Religion/Mythology/Norse_Mythology/Odin.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Mythology/Norse_Mythology/Odin|Odin]] 
 
-### #is_/same_as :: [Odin.public](/_public/Philosophy/Metaphysic/Religion/Mythology/Norse_Mythology/Odin.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Mythology/Norse_Mythology/Odin.public|Odin.public]] 
 
-### #is_/same_as :: [Odin.internal](/_internal/Philosophy/Metaphysic/Religion/Mythology/Norse_Mythology/Odin.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Mythology/Norse_Mythology/Odin.internal|Odin.internal]] 
 
-### #is_/same_as :: [Odin.protect](/_protect/Philosophy/Metaphysic/Religion/Mythology/Norse_Mythology/Odin.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Mythology/Norse_Mythology/Odin.protect|Odin.protect]] 
 
-### #is_/same_as :: [Odin.private](/_private/Philosophy/Metaphysic/Religion/Mythology/Norse_Mythology/Odin.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Mythology/Norse_Mythology/Odin.private|Odin.private]] 
 
-### #is_/same_as :: [Odin.personal](/_personal/Philosophy/Metaphysic/Religion/Mythology/Norse_Mythology/Odin.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Mythology/Norse_Mythology/Odin.personal|Odin.personal]] 
 
-### #is_/same_as :: [Odin.secret](/_secret/Philosophy/Metaphysic/Religion/Mythology/Norse_Mythology/Odin.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Mythology/Norse_Mythology/Odin.secret|Odin.secret]] 
 

@@ -55,17 +55,17 @@ OpenStreetMap_tag: denomination=vajrayana
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Vajrayana](/_Standards/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism/Vajrayana.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism/Vajrayana|Vajrayana]] 
 
-### #is_/same_as :: [Vajrayana.public](/_public/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism/Vajrayana.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism/Vajrayana.public|Vajrayana.public]] 
 
-### #is_/same_as :: [Vajrayana.internal](/_internal/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism/Vajrayana.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism/Vajrayana.internal|Vajrayana.internal]] 
 
-### #is_/same_as :: [Vajrayana.protect](/_protect/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism/Vajrayana.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism/Vajrayana.protect|Vajrayana.protect]] 
 
-### #is_/same_as :: [Vajrayana.private](/_private/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism/Vajrayana.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism/Vajrayana.private|Vajrayana.private]] 
 
-### #is_/same_as :: [Vajrayana.personal](/_personal/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism/Vajrayana.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism/Vajrayana.personal|Vajrayana.personal]] 
 
-### #is_/same_as :: [Vajrayana.secret](/_secret/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism/Vajrayana.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism/Vajrayana.secret|Vajrayana.secret]] 
 

@@ -148,17 +148,17 @@ Facebook_username: UniversalMusicGroup
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Universal_Music](/_Standards/Society/Communication/Media/Music/Music_Publisher/Universal_Music.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Music_Publisher/Universal_Music|Universal_Music]] 
 
-### #is_/same_as :: [Universal_Music.public](/_public/Society/Communication/Media/Music/Music_Publisher/Universal_Music.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Music_Publisher/Universal_Music.public|Universal_Music.public]] 
 
-### #is_/same_as :: [Universal_Music.internal](/_internal/Society/Communication/Media/Music/Music_Publisher/Universal_Music.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Music_Publisher/Universal_Music.internal|Universal_Music.internal]] 
 
-### #is_/same_as :: [Universal_Music.protect](/_protect/Society/Communication/Media/Music/Music_Publisher/Universal_Music.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Music_Publisher/Universal_Music.protect|Universal_Music.protect]] 
 
-### #is_/same_as :: [Universal_Music.private](/_private/Society/Communication/Media/Music/Music_Publisher/Universal_Music.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Music_Publisher/Universal_Music.private|Universal_Music.private]] 
 
-### #is_/same_as :: [Universal_Music.personal](/_personal/Society/Communication/Media/Music/Music_Publisher/Universal_Music.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Music_Publisher/Universal_Music.personal|Universal_Music.personal]] 
 
-### #is_/same_as :: [Universal_Music.secret](/_secret/Society/Communication/Media/Music/Music_Publisher/Universal_Music.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Music_Publisher/Universal_Music.secret|Universal_Music.secret]] 
 

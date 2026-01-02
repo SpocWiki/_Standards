@@ -49,17 +49,17 @@ P8189: 987007511403305171
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [College_of_Cardinals](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/College_of_Cardinals.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/College_of_Cardinals|College_of_Cardinals]] 
 
-### #is_/same_as :: [College_of_Cardinals.public](/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/College_of_Cardinals.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/College_of_Cardinals.public|College_of_Cardinals.public]] 
 
-### #is_/same_as :: [College_of_Cardinals.internal](/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/College_of_Cardinals.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/College_of_Cardinals.internal|College_of_Cardinals.internal]] 
 
-### #is_/same_as :: [College_of_Cardinals.protect](/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/College_of_Cardinals.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/College_of_Cardinals.protect|College_of_Cardinals.protect]] 
 
-### #is_/same_as :: [College_of_Cardinals.private](/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/College_of_Cardinals.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/College_of_Cardinals.private|College_of_Cardinals.private]] 
 
-### #is_/same_as :: [College_of_Cardinals.personal](/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/College_of_Cardinals.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/College_of_Cardinals.personal|College_of_Cardinals.personal]] 
 
-### #is_/same_as :: [College_of_Cardinals.secret](/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/College_of_Cardinals.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/College_of_Cardinals.secret|College_of_Cardinals.secret]] 
 

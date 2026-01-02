@@ -41,17 +41,17 @@ Related actions:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~ScheduleAction](/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~OrganizeAction/FileClass~PlanAction/FileClass~ScheduleAction.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~OrganizeAction/FileClass~PlanAction/FileClass~ScheduleAction|FileClass~ScheduleAction]] 
 
-### #is_/same_as :: [FileClass~ScheduleAction.public](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~OrganizeAction/FileClass~PlanAction/FileClass~ScheduleAction.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~OrganizeAction/FileClass~PlanAction/FileClass~ScheduleAction.public|FileClass~ScheduleAction.public]] 
 
-### #is_/same_as :: [FileClass~ScheduleAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~OrganizeAction/FileClass~PlanAction/FileClass~ScheduleAction.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~OrganizeAction/FileClass~PlanAction/FileClass~ScheduleAction.internal|FileClass~ScheduleAction.internal]] 
 
-### #is_/same_as :: [FileClass~ScheduleAction.protect](/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~OrganizeAction/FileClass~PlanAction/FileClass~ScheduleAction.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~OrganizeAction/FileClass~PlanAction/FileClass~ScheduleAction.protect|FileClass~ScheduleAction.protect]] 
 
-### #is_/same_as :: [FileClass~ScheduleAction.private](/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~OrganizeAction/FileClass~PlanAction/FileClass~ScheduleAction.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~OrganizeAction/FileClass~PlanAction/FileClass~ScheduleAction.private|FileClass~ScheduleAction.private]] 
 
-### #is_/same_as :: [FileClass~ScheduleAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~OrganizeAction/FileClass~PlanAction/FileClass~ScheduleAction.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~OrganizeAction/FileClass~PlanAction/FileClass~ScheduleAction.personal|FileClass~ScheduleAction.personal]] 
 
-### #is_/same_as :: [FileClass~ScheduleAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~OrganizeAction/FileClass~PlanAction/FileClass~ScheduleAction.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~OrganizeAction/FileClass~PlanAction/FileClass~ScheduleAction.secret|FileClass~ScheduleAction.secret]] 
 

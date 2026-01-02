@@ -43,17 +43,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_passenger_priority_status](/_Standards/schema-org/Relation/has/has_passenger_priority_status.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_passenger_priority_status|has_passenger_priority_status]] 
 
-### #is_/same_as :: [has_passenger_priority_status.public](/_public/schema-org/Relation/has/has_passenger_priority_status.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_passenger_priority_status.public|has_passenger_priority_status.public]] 
 
-### #is_/same_as :: [has_passenger_priority_status.internal](/_internal/schema-org/Relation/has/has_passenger_priority_status.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_passenger_priority_status.internal|has_passenger_priority_status.internal]] 
 
-### #is_/same_as :: [has_passenger_priority_status.protect](/_protect/schema-org/Relation/has/has_passenger_priority_status.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_passenger_priority_status.protect|has_passenger_priority_status.protect]] 
 
-### #is_/same_as :: [has_passenger_priority_status.private](/_private/schema-org/Relation/has/has_passenger_priority_status.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_passenger_priority_status.private|has_passenger_priority_status.private]] 
 
-### #is_/same_as :: [has_passenger_priority_status.personal](/_personal/schema-org/Relation/has/has_passenger_priority_status.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_passenger_priority_status.personal|has_passenger_priority_status.personal]] 
 
-### #is_/same_as :: [has_passenger_priority_status.secret](/_secret/schema-org/Relation/has/has_passenger_priority_status.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_passenger_priority_status.secret|has_passenger_priority_status.secret]] 
 

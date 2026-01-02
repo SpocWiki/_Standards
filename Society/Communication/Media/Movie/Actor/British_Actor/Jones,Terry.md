@@ -54,17 +54,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Jones,Terry](/_Standards/Society/Communication/Media/Movie/Actor/British_Actor/Jones,Terry.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Actor/British_Actor/Jones,Terry|Jones,Terry]] 
 
-### #is_/same_as :: [Jones,Terry.public](/_public/Society/Communication/Media/Movie/Actor/British_Actor/Jones,Terry.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Actor/British_Actor/Jones,Terry.public|Jones,Terry.public]] 
 
-### #is_/same_as :: [Jones,Terry.internal](/_internal/Society/Communication/Media/Movie/Actor/British_Actor/Jones,Terry.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Actor/British_Actor/Jones,Terry.internal|Jones,Terry.internal]] 
 
-### #is_/same_as :: [Jones,Terry.protect](/_protect/Society/Communication/Media/Movie/Actor/British_Actor/Jones,Terry.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Actor/British_Actor/Jones,Terry.protect|Jones,Terry.protect]] 
 
-### #is_/same_as :: [Jones,Terry.private](/_private/Society/Communication/Media/Movie/Actor/British_Actor/Jones,Terry.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Actor/British_Actor/Jones,Terry.private|Jones,Terry.private]] 
 
-### #is_/same_as :: [Jones,Terry.personal](/_personal/Society/Communication/Media/Movie/Actor/British_Actor/Jones,Terry.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Actor/British_Actor/Jones,Terry.personal|Jones,Terry.personal]] 
 
-### #is_/same_as :: [Jones,Terry.secret](/_secret/Society/Communication/Media/Movie/Actor/British_Actor/Jones,Terry.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Actor/British_Actor/Jones,Terry.secret|Jones,Terry.secret]] 
 

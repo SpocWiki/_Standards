@@ -71,17 +71,17 @@ Dewey_Decimal_Classification: 539.72123
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Antiproton](/_Standards/Science/Physics/Quantum_Mechanics/Antimatter/Antiproton.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Quantum_Mechanics/Antimatter/Antiproton|Antiproton]] 
 
-### #is_/same_as :: [Antiproton.public](/_public/Science/Physics/Quantum_Mechanics/Antimatter/Antiproton.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Quantum_Mechanics/Antimatter/Antiproton.public|Antiproton.public]] 
 
-### #is_/same_as :: [Antiproton.internal](/_internal/Science/Physics/Quantum_Mechanics/Antimatter/Antiproton.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Quantum_Mechanics/Antimatter/Antiproton.internal|Antiproton.internal]] 
 
-### #is_/same_as :: [Antiproton.protect](/_protect/Science/Physics/Quantum_Mechanics/Antimatter/Antiproton.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Quantum_Mechanics/Antimatter/Antiproton.protect|Antiproton.protect]] 
 
-### #is_/same_as :: [Antiproton.private](/_private/Science/Physics/Quantum_Mechanics/Antimatter/Antiproton.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Quantum_Mechanics/Antimatter/Antiproton.private|Antiproton.private]] 
 
-### #is_/same_as :: [Antiproton.personal](/_personal/Science/Physics/Quantum_Mechanics/Antimatter/Antiproton.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Quantum_Mechanics/Antimatter/Antiproton.personal|Antiproton.personal]] 
 
-### #is_/same_as :: [Antiproton.secret](/_secret/Science/Physics/Quantum_Mechanics/Antimatter/Antiproton.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Quantum_Mechanics/Antimatter/Antiproton.secret|Antiproton.secret]] 
 

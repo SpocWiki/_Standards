@@ -14,3 +14,22 @@ Algorithms figured out that Attention can best be obtained by focusing on many o
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Attention%20economy) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/bio/Psychology/Attention/Attention Economy|Attention Economy]] 
+
+### #is_/same_as :: [[/_public/bio/Psychology/Attention/Attention Economy.public|Attention Economy.public]] 
+
+### #is_/same_as :: [[/_internal/bio/Psychology/Attention/Attention Economy.internal|Attention Economy.internal]] 
+
+### #is_/same_as :: [[/_protect/bio/Psychology/Attention/Attention Economy.protect|Attention Economy.protect]] 
+
+### #is_/same_as :: [[/_private/bio/Psychology/Attention/Attention Economy.private|Attention Economy.private]] 
+
+### #is_/same_as :: [[/_personal/bio/Psychology/Attention/Attention Economy.personal|Attention Economy.personal]] 
+
+### #is_/same_as :: [[/_secret/bio/Psychology/Attention/Attention Economy.secret|Attention Economy.secret]] 
+

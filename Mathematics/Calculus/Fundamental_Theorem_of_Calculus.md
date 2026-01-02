@@ -51,17 +51,17 @@ Commons_category: Fundamental theorem of calculus
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Fundamental_Theorem_of_Calculus](/_Standards/Mathematics/Calculus/Fundamental_Theorem_of_Calculus.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Calculus/Fundamental_Theorem_of_Calculus|Fundamental_Theorem_of_Calculus]] 
 
-### #is_/same_as :: [Fundamental_Theorem_of_Calculus.public](/_public/Mathematics/Calculus/Fundamental_Theorem_of_Calculus.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Calculus/Fundamental_Theorem_of_Calculus.public|Fundamental_Theorem_of_Calculus.public]] 
 
-### #is_/same_as :: [Fundamental_Theorem_of_Calculus.internal](/_internal/Mathematics/Calculus/Fundamental_Theorem_of_Calculus.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Calculus/Fundamental_Theorem_of_Calculus.internal|Fundamental_Theorem_of_Calculus.internal]] 
 
-### #is_/same_as :: [Fundamental_Theorem_of_Calculus.protect](/_protect/Mathematics/Calculus/Fundamental_Theorem_of_Calculus.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Calculus/Fundamental_Theorem_of_Calculus.protect|Fundamental_Theorem_of_Calculus.protect]] 
 
-### #is_/same_as :: [Fundamental_Theorem_of_Calculus.private](/_private/Mathematics/Calculus/Fundamental_Theorem_of_Calculus.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Calculus/Fundamental_Theorem_of_Calculus.private|Fundamental_Theorem_of_Calculus.private]] 
 
-### #is_/same_as :: [Fundamental_Theorem_of_Calculus.personal](/_personal/Mathematics/Calculus/Fundamental_Theorem_of_Calculus.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Calculus/Fundamental_Theorem_of_Calculus.personal|Fundamental_Theorem_of_Calculus.personal]] 
 
-### #is_/same_as :: [Fundamental_Theorem_of_Calculus.secret](/_secret/Mathematics/Calculus/Fundamental_Theorem_of_Calculus.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Calculus/Fundamental_Theorem_of_Calculus.secret|Fundamental_Theorem_of_Calculus.secret]] 
 

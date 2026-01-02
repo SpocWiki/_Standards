@@ -42,17 +42,17 @@ Formal Predicate:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_time_when_availability_starts](/_Standards/schema-org/Property/has_Date_Time/has_time_when_availability_starts.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_Date_Time/has_time_when_availability_starts|has_time_when_availability_starts]] 
 
-### #is_/same_as :: [has_time_when_availability_starts.public](/_public/schema-org/Property/has_Date_Time/has_time_when_availability_starts.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/has_Date_Time/has_time_when_availability_starts.public|has_time_when_availability_starts.public]] 
 
-### #is_/same_as :: [has_time_when_availability_starts.internal](/_internal/schema-org/Property/has_Date_Time/has_time_when_availability_starts.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_Date_Time/has_time_when_availability_starts.internal|has_time_when_availability_starts.internal]] 
 
-### #is_/same_as :: [has_time_when_availability_starts.protect](/_protect/schema-org/Property/has_Date_Time/has_time_when_availability_starts.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_Date_Time/has_time_when_availability_starts.protect|has_time_when_availability_starts.protect]] 
 
-### #is_/same_as :: [has_time_when_availability_starts.private](/_private/schema-org/Property/has_Date_Time/has_time_when_availability_starts.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/has_Date_Time/has_time_when_availability_starts.private|has_time_when_availability_starts.private]] 
 
-### #is_/same_as :: [has_time_when_availability_starts.personal](/_personal/schema-org/Property/has_Date_Time/has_time_when_availability_starts.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_Date_Time/has_time_when_availability_starts.personal|has_time_when_availability_starts.personal]] 
 
-### #is_/same_as :: [has_time_when_availability_starts.secret](/_secret/schema-org/Property/has_Date_Time/has_time_when_availability_starts.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/has_Date_Time/has_time_when_availability_starts.secret|has_time_when_availability_starts.secret]] 
 

@@ -63,17 +63,17 @@ Neither Lines nor Areas are preserved, e.g. Greenland looks the same Area as Afr
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Mercator_Projection](/_Standards/Earth/Geography/Cartography/Mercator_Projection.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geography/Cartography/Mercator_Projection|Mercator_Projection]] 
 
-### #is_/same_as :: [Mercator_Projection.public](/_public/Earth/Geography/Cartography/Mercator_Projection.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geography/Cartography/Mercator_Projection.public|Mercator_Projection.public]] 
 
-### #is_/same_as :: [Mercator_Projection.internal](/_internal/Earth/Geography/Cartography/Mercator_Projection.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geography/Cartography/Mercator_Projection.internal|Mercator_Projection.internal]] 
 
-### #is_/same_as :: [Mercator_Projection.protect](/_protect/Earth/Geography/Cartography/Mercator_Projection.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geography/Cartography/Mercator_Projection.protect|Mercator_Projection.protect]] 
 
-### #is_/same_as :: [Mercator_Projection.private](/_private/Earth/Geography/Cartography/Mercator_Projection.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geography/Cartography/Mercator_Projection.private|Mercator_Projection.private]] 
 
-### #is_/same_as :: [Mercator_Projection.personal](/_personal/Earth/Geography/Cartography/Mercator_Projection.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geography/Cartography/Mercator_Projection.personal|Mercator_Projection.personal]] 
 
-### #is_/same_as :: [Mercator_Projection.secret](/_secret/Earth/Geography/Cartography/Mercator_Projection.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geography/Cartography/Mercator_Projection.secret|Mercator_Projection.secret]] 
 

@@ -63,17 +63,17 @@ maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,848
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Poincaré_Conjecture](/_Standards/Mathematics/Topology/Poincaré_Conjecture.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Topology/Poincaré_Conjecture|Poincaré_Conjecture]] 
 
-### #is_/same_as :: [Poincaré_Conjecture.public](/_public/Mathematics/Topology/Poincaré_Conjecture.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Topology/Poincaré_Conjecture.public|Poincaré_Conjecture.public]] 
 
-### #is_/same_as :: [Poincaré_Conjecture.internal](/_internal/Mathematics/Topology/Poincaré_Conjecture.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Topology/Poincaré_Conjecture.internal|Poincaré_Conjecture.internal]] 
 
-### #is_/same_as :: [Poincaré_Conjecture.protect](/_protect/Mathematics/Topology/Poincaré_Conjecture.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Topology/Poincaré_Conjecture.protect|Poincaré_Conjecture.protect]] 
 
-### #is_/same_as :: [Poincaré_Conjecture.private](/_private/Mathematics/Topology/Poincaré_Conjecture.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Topology/Poincaré_Conjecture.private|Poincaré_Conjecture.private]] 
 
-### #is_/same_as :: [Poincaré_Conjecture.personal](/_personal/Mathematics/Topology/Poincaré_Conjecture.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Topology/Poincaré_Conjecture.personal|Poincaré_Conjecture.personal]] 
 
-### #is_/same_as :: [Poincaré_Conjecture.secret](/_secret/Mathematics/Topology/Poincaré_Conjecture.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Topology/Poincaré_Conjecture.secret|Poincaré_Conjecture.secret]] 
 

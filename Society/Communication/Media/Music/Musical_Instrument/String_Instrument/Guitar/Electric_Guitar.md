@@ -65,17 +65,17 @@ Baidu_Tieba_name: 电吉他
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Electric_Guitar](/_Standards/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Guitar/Electric_Guitar.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Guitar/Electric_Guitar|Electric_Guitar]] 
 
-### #is_/same_as :: [Electric_Guitar.public](/_public/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Guitar/Electric_Guitar.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Guitar/Electric_Guitar.public|Electric_Guitar.public]] 
 
-### #is_/same_as :: [Electric_Guitar.internal](/_internal/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Guitar/Electric_Guitar.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Guitar/Electric_Guitar.internal|Electric_Guitar.internal]] 
 
-### #is_/same_as :: [Electric_Guitar.protect](/_protect/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Guitar/Electric_Guitar.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Guitar/Electric_Guitar.protect|Electric_Guitar.protect]] 
 
-### #is_/same_as :: [Electric_Guitar.private](/_private/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Guitar/Electric_Guitar.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Guitar/Electric_Guitar.private|Electric_Guitar.private]] 
 
-### #is_/same_as :: [Electric_Guitar.personal](/_personal/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Guitar/Electric_Guitar.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Guitar/Electric_Guitar.personal|Electric_Guitar.personal]] 
 
-### #is_/same_as :: [Electric_Guitar.secret](/_secret/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Guitar/Electric_Guitar.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Guitar/Electric_Guitar.secret|Electric_Guitar.secret]] 
 

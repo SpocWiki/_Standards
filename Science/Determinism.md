@@ -37,17 +37,17 @@ Commons_category: Determinism
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Determinism](/_Standards/Science/Determinism.md) 
+### #is_/same_as :: [[/_Standards/Science/Determinism|Determinism]] 
 
-### #is_/same_as :: [Determinism.public](/_public/Science/Determinism.public.md) 
+### #is_/same_as :: [[/_public/Science/Determinism.public|Determinism.public]] 
 
-### #is_/same_as :: [Determinism.internal](/_internal/Science/Determinism.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Determinism.internal|Determinism.internal]] 
 
-### #is_/same_as :: [Determinism.protect](/_protect/Science/Determinism.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Determinism.protect|Determinism.protect]] 
 
-### #is_/same_as :: [Determinism.private](/_private/Science/Determinism.private.md) 
+### #is_/same_as :: [[/_private/Science/Determinism.private|Determinism.private]] 
 
-### #is_/same_as :: [Determinism.personal](/_personal/Science/Determinism.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Determinism.personal|Determinism.personal]] 
 
-### #is_/same_as :: [Determinism.secret](/_secret/Science/Determinism.secret.md)
+### #is_/same_as :: [[/_secret/Science/Determinism.secret|Determinism.secret]] 
 

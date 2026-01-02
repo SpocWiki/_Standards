@@ -4,17 +4,17 @@ Largely synonymous with a [schema:Action](../schema.org/Class/is_a_/action.md) o
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [prov~activity](/_Standards/Schemas/prov/prov~activity.md) 
+### #is_/same_as :: [[/_Standards/Schemas/prov/prov~activity|prov~activity]] 
 
-### #is_/same_as :: [prov~activity.public](/_public/Schemas/prov/prov~activity.public.md) 
+### #is_/same_as :: [[/_public/Schemas/prov/prov~activity.public|prov~activity.public]] 
 
-### #is_/same_as :: [prov~activity.internal](/_internal/Schemas/prov/prov~activity.internal.md) 
+### #is_/same_as :: [[/_internal/Schemas/prov/prov~activity.internal|prov~activity.internal]] 
 
-### #is_/same_as :: [prov~activity.protect](/_protect/Schemas/prov/prov~activity.protect.md) 
+### #is_/same_as :: [[/_protect/Schemas/prov/prov~activity.protect|prov~activity.protect]] 
 
-### #is_/same_as :: [prov~activity.private](/_private/Schemas/prov/prov~activity.private.md) 
+### #is_/same_as :: [[/_private/Schemas/prov/prov~activity.private|prov~activity.private]] 
 
-### #is_/same_as :: [prov~activity.personal](/_personal/Schemas/prov/prov~activity.personal.md) 
+### #is_/same_as :: [[/_personal/Schemas/prov/prov~activity.personal|prov~activity.personal]] 
 
-### #is_/same_as :: [prov~activity.secret](/_secret/Schemas/prov/prov~activity.secret.md)
+### #is_/same_as :: [[/_secret/Schemas/prov/prov~activity.secret|prov~activity.secret]] 
 

@@ -127,17 +127,17 @@ Regensburg_Classification: UB 2555
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Curie,Pierre](/_Standards/Science/Physics/Physicist/Curie,Pierre.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Physicist/Curie,Pierre|Curie,Pierre]] 
 
-### #is_/same_as :: [Curie,Pierre.public](/_public/Science/Physics/Physicist/Curie,Pierre.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Physicist/Curie,Pierre.public|Curie,Pierre.public]] 
 
-### #is_/same_as :: [Curie,Pierre.internal](/_internal/Science/Physics/Physicist/Curie,Pierre.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Physicist/Curie,Pierre.internal|Curie,Pierre.internal]] 
 
-### #is_/same_as :: [Curie,Pierre.protect](/_protect/Science/Physics/Physicist/Curie,Pierre.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Physicist/Curie,Pierre.protect|Curie,Pierre.protect]] 
 
-### #is_/same_as :: [Curie,Pierre.private](/_private/Science/Physics/Physicist/Curie,Pierre.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Physicist/Curie,Pierre.private|Curie,Pierre.private]] 
 
-### #is_/same_as :: [Curie,Pierre.personal](/_personal/Science/Physics/Physicist/Curie,Pierre.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Physicist/Curie,Pierre.personal|Curie,Pierre.personal]] 
 
-### #is_/same_as :: [Curie,Pierre.secret](/_secret/Science/Physics/Physicist/Curie,Pierre.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Physicist/Curie,Pierre.secret|Curie,Pierre.secret]] 
 

@@ -105,17 +105,17 @@ U_S_National_Archives_Identifier: 10568293
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lewis,Carl](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Athletics/Lewis,Carl.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Athletics/Lewis,Carl|Lewis,Carl]] 
 
-### #is_/same_as :: [Lewis,Carl.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Athletics/Lewis,Carl.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Athletics/Lewis,Carl.public|Lewis,Carl.public]] 
 
-### #is_/same_as :: [Lewis,Carl.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Athletics/Lewis,Carl.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Athletics/Lewis,Carl.internal|Lewis,Carl.internal]] 
 
-### #is_/same_as :: [Lewis,Carl.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Athletics/Lewis,Carl.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Athletics/Lewis,Carl.protect|Lewis,Carl.protect]] 
 
-### #is_/same_as :: [Lewis,Carl.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Athletics/Lewis,Carl.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Athletics/Lewis,Carl.private|Lewis,Carl.private]] 
 
-### #is_/same_as :: [Lewis,Carl.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Athletics/Lewis,Carl.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Athletics/Lewis,Carl.personal|Lewis,Carl.personal]] 
 
-### #is_/same_as :: [Lewis,Carl.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Athletics/Lewis,Carl.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Athletics/Lewis,Carl.secret|Lewis,Carl.secret]] 
 

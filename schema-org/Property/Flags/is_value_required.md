@@ -44,17 +44,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [is_value_required](/_Standards/schema-org/Property/Flags/is_value_required.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/Flags/is_value_required|is_value_required]] 
 
-### #is_/same_as :: [is_value_required.public](/_public/schema-org/Property/Flags/is_value_required.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/Flags/is_value_required.public|is_value_required.public]] 
 
-### #is_/same_as :: [is_value_required.internal](/_internal/schema-org/Property/Flags/is_value_required.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/Flags/is_value_required.internal|is_value_required.internal]] 
 
-### #is_/same_as :: [is_value_required.protect](/_protect/schema-org/Property/Flags/is_value_required.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/Flags/is_value_required.protect|is_value_required.protect]] 
 
-### #is_/same_as :: [is_value_required.private](/_private/schema-org/Property/Flags/is_value_required.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/Flags/is_value_required.private|is_value_required.private]] 
 
-### #is_/same_as :: [is_value_required.personal](/_personal/schema-org/Property/Flags/is_value_required.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/Flags/is_value_required.personal|is_value_required.personal]] 
 
-### #is_/same_as :: [is_value_required.secret](/_secret/schema-org/Property/Flags/is_value_required.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/Flags/is_value_required.secret|is_value_required.secret]] 
 

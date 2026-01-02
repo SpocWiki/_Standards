@@ -39,17 +39,17 @@ A type of boarding policy used by an airline.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Boarding_Policy_Type](/_Standards/schema-org/Enumeration/Boarding_Policy_Type.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Boarding_Policy_Type|Boarding_Policy_Type]] 
 
-### #is_/same_as :: [Boarding_Policy_Type.public](/_public/schema-org/Enumeration/Boarding_Policy_Type.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Boarding_Policy_Type.public|Boarding_Policy_Type.public]] 
 
-### #is_/same_as :: [Boarding_Policy_Type.internal](/_internal/schema-org/Enumeration/Boarding_Policy_Type.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Boarding_Policy_Type.internal|Boarding_Policy_Type.internal]] 
 
-### #is_/same_as :: [Boarding_Policy_Type.protect](/_protect/schema-org/Enumeration/Boarding_Policy_Type.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Boarding_Policy_Type.protect|Boarding_Policy_Type.protect]] 
 
-### #is_/same_as :: [Boarding_Policy_Type.private](/_private/schema-org/Enumeration/Boarding_Policy_Type.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Boarding_Policy_Type.private|Boarding_Policy_Type.private]] 
 
-### #is_/same_as :: [Boarding_Policy_Type.personal](/_personal/schema-org/Enumeration/Boarding_Policy_Type.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Boarding_Policy_Type.personal|Boarding_Policy_Type.personal]] 
 
-### #is_/same_as :: [Boarding_Policy_Type.secret](/_secret/schema-org/Enumeration/Boarding_Policy_Type.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Boarding_Policy_Type.secret|Boarding_Policy_Type.secret]] 
 

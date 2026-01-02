@@ -75,17 +75,17 @@ page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Pirates%20Banner
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sea_Piracy](/_Standards/Society/Law/Criminal_Law/Crime/Sea_Piracy.md) 
+### #is_/same_as :: [[/_Standards/Society/Law/Criminal_Law/Crime/Sea_Piracy|Sea_Piracy]] 
 
-### #is_/same_as :: [Sea_Piracy.public](/_public/Society/Law/Criminal_Law/Crime/Sea_Piracy.public.md) 
+### #is_/same_as :: [[/_public/Society/Law/Criminal_Law/Crime/Sea_Piracy.public|Sea_Piracy.public]] 
 
-### #is_/same_as :: [Sea_Piracy.internal](/_internal/Society/Law/Criminal_Law/Crime/Sea_Piracy.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Law/Criminal_Law/Crime/Sea_Piracy.internal|Sea_Piracy.internal]] 
 
-### #is_/same_as :: [Sea_Piracy.protect](/_protect/Society/Law/Criminal_Law/Crime/Sea_Piracy.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Law/Criminal_Law/Crime/Sea_Piracy.protect|Sea_Piracy.protect]] 
 
-### #is_/same_as :: [Sea_Piracy.private](/_private/Society/Law/Criminal_Law/Crime/Sea_Piracy.private.md) 
+### #is_/same_as :: [[/_private/Society/Law/Criminal_Law/Crime/Sea_Piracy.private|Sea_Piracy.private]] 
 
-### #is_/same_as :: [Sea_Piracy.personal](/_personal/Society/Law/Criminal_Law/Crime/Sea_Piracy.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Law/Criminal_Law/Crime/Sea_Piracy.personal|Sea_Piracy.personal]] 
 
-### #is_/same_as :: [Sea_Piracy.secret](/_secret/Society/Law/Criminal_Law/Crime/Sea_Piracy.secret.md)
+### #is_/same_as :: [[/_secret/Society/Law/Criminal_Law/Crime/Sea_Piracy.secret|Sea_Piracy.secret]] 
 

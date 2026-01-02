@@ -126,17 +126,17 @@ work_period_end_: 2012-01-01T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Caine,Michael](/_Standards/Society/Communication/Media/Movie/Actor/British_Actor/Caine,Michael.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Actor/British_Actor/Caine,Michael|Caine,Michael]] 
 
-### #is_/same_as :: [Caine,Michael.public](/_public/Society/Communication/Media/Movie/Actor/British_Actor/Caine,Michael.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Actor/British_Actor/Caine,Michael.public|Caine,Michael.public]] 
 
-### #is_/same_as :: [Caine,Michael.internal](/_internal/Society/Communication/Media/Movie/Actor/British_Actor/Caine,Michael.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Actor/British_Actor/Caine,Michael.internal|Caine,Michael.internal]] 
 
-### #is_/same_as :: [Caine,Michael.protect](/_protect/Society/Communication/Media/Movie/Actor/British_Actor/Caine,Michael.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Actor/British_Actor/Caine,Michael.protect|Caine,Michael.protect]] 
 
-### #is_/same_as :: [Caine,Michael.private](/_private/Society/Communication/Media/Movie/Actor/British_Actor/Caine,Michael.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Actor/British_Actor/Caine,Michael.private|Caine,Michael.private]] 
 
-### #is_/same_as :: [Caine,Michael.personal](/_personal/Society/Communication/Media/Movie/Actor/British_Actor/Caine,Michael.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Actor/British_Actor/Caine,Michael.personal|Caine,Michael.personal]] 
 
-### #is_/same_as :: [Caine,Michael.secret](/_secret/Society/Communication/Media/Movie/Actor/British_Actor/Caine,Michael.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Actor/British_Actor/Caine,Michael.secret|Caine,Michael.secret]] 
 

@@ -29,17 +29,17 @@ Wolfram_Language_entity_code: Entity["Concept", "Charisma::p96x8"]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Charisma](/_Standards/bio/Psychology/Affect/Emotion/Charisma.md) 
+### #is_/same_as :: [[/_Standards/bio/Psychology/Affect/Emotion/Charisma|Charisma]] 
 
-### #is_/same_as :: [Charisma.public](/_public/bio/Psychology/Affect/Emotion/Charisma.public.md) 
+### #is_/same_as :: [[/_public/bio/Psychology/Affect/Emotion/Charisma.public|Charisma.public]] 
 
-### #is_/same_as :: [Charisma.internal](/_internal/bio/Psychology/Affect/Emotion/Charisma.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Psychology/Affect/Emotion/Charisma.internal|Charisma.internal]] 
 
-### #is_/same_as :: [Charisma.protect](/_protect/bio/Psychology/Affect/Emotion/Charisma.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Psychology/Affect/Emotion/Charisma.protect|Charisma.protect]] 
 
-### #is_/same_as :: [Charisma.private](/_private/bio/Psychology/Affect/Emotion/Charisma.private.md) 
+### #is_/same_as :: [[/_private/bio/Psychology/Affect/Emotion/Charisma.private|Charisma.private]] 
 
-### #is_/same_as :: [Charisma.personal](/_personal/bio/Psychology/Affect/Emotion/Charisma.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Psychology/Affect/Emotion/Charisma.personal|Charisma.personal]] 
 
-### #is_/same_as :: [Charisma.secret](/_secret/bio/Psychology/Affect/Emotion/Charisma.secret.md)
+### #is_/same_as :: [[/_secret/bio/Psychology/Affect/Emotion/Charisma.secret|Charisma.secret]] 
 

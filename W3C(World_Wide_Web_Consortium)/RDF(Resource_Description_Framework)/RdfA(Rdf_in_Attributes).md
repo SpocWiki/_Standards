@@ -11,17 +11,17 @@ RDFa Lite consists of only five attributes:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [RdfA(Rdf_in_Attributes)](/_Standards/W3C(World_Wide_Web_Consortium)/RDF(Resource_Description_Framework)/RdfA(Rdf_in_Attributes).md) 
+### #is_/same_as :: [[/_Standards/W3C(World_Wide_Web_Consortium)/RDF(Resource_Description_Framework)/RdfA(Rdf_in_Attributes)|RdfA(Rdf_in_Attributes)]] 
 
-### #is_/same_as :: [RdfA(Rdf_in_Attributes).public](/_public/W3C(World_Wide_Web_Consortium)/RDF(Resource_Description_Framework)/RdfA(Rdf_in_Attributes).public.md) 
+### #is_/same_as :: [[/_public/W3C(World_Wide_Web_Consortium)/RDF(Resource_Description_Framework)/RdfA(Rdf_in_Attributes).public|RdfA(Rdf_in_Attributes).public]] 
 
-### #is_/same_as :: [RdfA(Rdf_in_Attributes).internal](/_internal/W3C(World_Wide_Web_Consortium)/RDF(Resource_Description_Framework)/RdfA(Rdf_in_Attributes).internal.md) 
+### #is_/same_as :: [[/_internal/W3C(World_Wide_Web_Consortium)/RDF(Resource_Description_Framework)/RdfA(Rdf_in_Attributes).internal|RdfA(Rdf_in_Attributes).internal]] 
 
-### #is_/same_as :: [RdfA(Rdf_in_Attributes).protect](/_protect/W3C(World_Wide_Web_Consortium)/RDF(Resource_Description_Framework)/RdfA(Rdf_in_Attributes).protect.md) 
+### #is_/same_as :: [[/_protect/W3C(World_Wide_Web_Consortium)/RDF(Resource_Description_Framework)/RdfA(Rdf_in_Attributes).protect|RdfA(Rdf_in_Attributes).protect]] 
 
-### #is_/same_as :: [RdfA(Rdf_in_Attributes).private](/_private/W3C(World_Wide_Web_Consortium)/RDF(Resource_Description_Framework)/RdfA(Rdf_in_Attributes).private.md) 
+### #is_/same_as :: [[/_private/W3C(World_Wide_Web_Consortium)/RDF(Resource_Description_Framework)/RdfA(Rdf_in_Attributes).private|RdfA(Rdf_in_Attributes).private]] 
 
-### #is_/same_as :: [RdfA(Rdf_in_Attributes).personal](/_personal/W3C(World_Wide_Web_Consortium)/RDF(Resource_Description_Framework)/RdfA(Rdf_in_Attributes).personal.md) 
+### #is_/same_as :: [[/_personal/W3C(World_Wide_Web_Consortium)/RDF(Resource_Description_Framework)/RdfA(Rdf_in_Attributes).personal|RdfA(Rdf_in_Attributes).personal]] 
 
-### #is_/same_as :: [RdfA(Rdf_in_Attributes).secret](/_secret/W3C(World_Wide_Web_Consortium)/RDF(Resource_Description_Framework)/RdfA(Rdf_in_Attributes).secret.md)
+### #is_/same_as :: [[/_secret/W3C(World_Wide_Web_Consortium)/RDF(Resource_Description_Framework)/RdfA(Rdf_in_Attributes).secret|RdfA(Rdf_in_Attributes).secret]] 
 

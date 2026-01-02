@@ -306,17 +306,17 @@ name_in_native_language: Ποσειδῶν
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Poseidon](/_Standards/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Poseidon.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Poseidon|Poseidon]] 
 
-### #is_/same_as :: [Poseidon.public](/_public/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Poseidon.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Poseidon.public|Poseidon.public]] 
 
-### #is_/same_as :: [Poseidon.internal](/_internal/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Poseidon.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Poseidon.internal|Poseidon.internal]] 
 
-### #is_/same_as :: [Poseidon.protect](/_protect/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Poseidon.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Poseidon.protect|Poseidon.protect]] 
 
-### #is_/same_as :: [Poseidon.private](/_private/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Poseidon.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Poseidon.private|Poseidon.private]] 
 
-### #is_/same_as :: [Poseidon.personal](/_personal/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Poseidon.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Poseidon.personal|Poseidon.personal]] 
 
-### #is_/same_as :: [Poseidon.secret](/_secret/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Poseidon.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Poseidon.secret|Poseidon.secret]] 
 

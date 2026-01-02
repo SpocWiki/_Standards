@@ -50,17 +50,17 @@ UMLS_CUI: C0444504
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Arithmetic_Mean](/_Standards/Mathematics/Arithmetic/Arithmetic_Mean.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Arithmetic/Arithmetic_Mean|Arithmetic_Mean]] 
 
-### #is_/same_as :: [Arithmetic_Mean.public](/_public/Mathematics/Arithmetic/Arithmetic_Mean.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Arithmetic/Arithmetic_Mean.public|Arithmetic_Mean.public]] 
 
-### #is_/same_as :: [Arithmetic_Mean.internal](/_internal/Mathematics/Arithmetic/Arithmetic_Mean.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Arithmetic/Arithmetic_Mean.internal|Arithmetic_Mean.internal]] 
 
-### #is_/same_as :: [Arithmetic_Mean.protect](/_protect/Mathematics/Arithmetic/Arithmetic_Mean.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Arithmetic/Arithmetic_Mean.protect|Arithmetic_Mean.protect]] 
 
-### #is_/same_as :: [Arithmetic_Mean.private](/_private/Mathematics/Arithmetic/Arithmetic_Mean.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Arithmetic/Arithmetic_Mean.private|Arithmetic_Mean.private]] 
 
-### #is_/same_as :: [Arithmetic_Mean.personal](/_personal/Mathematics/Arithmetic/Arithmetic_Mean.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Arithmetic/Arithmetic_Mean.personal|Arithmetic_Mean.personal]] 
 
-### #is_/same_as :: [Arithmetic_Mean.secret](/_secret/Mathematics/Arithmetic/Arithmetic_Mean.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Arithmetic/Arithmetic_Mean.secret|Arithmetic_Mean.secret]] 
 

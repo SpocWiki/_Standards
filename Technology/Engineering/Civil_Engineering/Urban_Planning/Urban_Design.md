@@ -50,17 +50,17 @@ for specific outcomes
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Urban_Design](/_Standards/Technology/Engineering/Civil_Engineering/Urban_Planning/Urban_Design.md) 
+### #is_/same_as :: [[/_Standards/Technology/Engineering/Civil_Engineering/Urban_Planning/Urban_Design|Urban_Design]] 
 
-### #is_/same_as :: [Urban_Design.public](/_public/Technology/Engineering/Civil_Engineering/Urban_Planning/Urban_Design.public.md) 
+### #is_/same_as :: [[/_public/Technology/Engineering/Civil_Engineering/Urban_Planning/Urban_Design.public|Urban_Design.public]] 
 
-### #is_/same_as :: [Urban_Design.internal](/_internal/Technology/Engineering/Civil_Engineering/Urban_Planning/Urban_Design.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Engineering/Civil_Engineering/Urban_Planning/Urban_Design.internal|Urban_Design.internal]] 
 
-### #is_/same_as :: [Urban_Design.protect](/_protect/Technology/Engineering/Civil_Engineering/Urban_Planning/Urban_Design.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Engineering/Civil_Engineering/Urban_Planning/Urban_Design.protect|Urban_Design.protect]] 
 
-### #is_/same_as :: [Urban_Design.private](/_private/Technology/Engineering/Civil_Engineering/Urban_Planning/Urban_Design.private.md) 
+### #is_/same_as :: [[/_private/Technology/Engineering/Civil_Engineering/Urban_Planning/Urban_Design.private|Urban_Design.private]] 
 
-### #is_/same_as :: [Urban_Design.personal](/_personal/Technology/Engineering/Civil_Engineering/Urban_Planning/Urban_Design.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Engineering/Civil_Engineering/Urban_Planning/Urban_Design.personal|Urban_Design.personal]] 
 
-### #is_/same_as :: [Urban_Design.secret](/_secret/Technology/Engineering/Civil_Engineering/Urban_Planning/Urban_Design.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Engineering/Civil_Engineering/Urban_Planning/Urban_Design.secret|Urban_Design.secret]] 
 

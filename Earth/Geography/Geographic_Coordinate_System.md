@@ -46,17 +46,17 @@ Gujarati_Vishwakosh_entry: અક્ષાંશ-રેખાંશ
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Geographic_Coordinate_System](/_Standards/Earth/Geography/Geographic_Coordinate_System.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geography/Geographic_Coordinate_System|Geographic_Coordinate_System]] 
 
-### #is_/same_as :: [Geographic_Coordinate_System.public](/_public/Earth/Geography/Geographic_Coordinate_System.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geography/Geographic_Coordinate_System.public|Geographic_Coordinate_System.public]] 
 
-### #is_/same_as :: [Geographic_Coordinate_System.internal](/_internal/Earth/Geography/Geographic_Coordinate_System.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geography/Geographic_Coordinate_System.internal|Geographic_Coordinate_System.internal]] 
 
-### #is_/same_as :: [Geographic_Coordinate_System.protect](/_protect/Earth/Geography/Geographic_Coordinate_System.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geography/Geographic_Coordinate_System.protect|Geographic_Coordinate_System.protect]] 
 
-### #is_/same_as :: [Geographic_Coordinate_System.private](/_private/Earth/Geography/Geographic_Coordinate_System.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geography/Geographic_Coordinate_System.private|Geographic_Coordinate_System.private]] 
 
-### #is_/same_as :: [Geographic_Coordinate_System.personal](/_personal/Earth/Geography/Geographic_Coordinate_System.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geography/Geographic_Coordinate_System.personal|Geographic_Coordinate_System.personal]] 
 
-### #is_/same_as :: [Geographic_Coordinate_System.secret](/_secret/Earth/Geography/Geographic_Coordinate_System.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geography/Geographic_Coordinate_System.secret|Geographic_Coordinate_System.secret]] 
 

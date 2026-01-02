@@ -91,17 +91,17 @@ UsesDevice:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Th
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~MedicalTest](/_Standards/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalTest.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalTest|FileClass~MedicalTest]] 
 
-### #is_/same_as :: [FileClass~MedicalTest.public](/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalTest.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalTest.public|FileClass~MedicalTest.public]] 
 
-### #is_/same_as :: [FileClass~MedicalTest.internal](/_internal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalTest.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalTest.internal|FileClass~MedicalTest.internal]] 
 
-### #is_/same_as :: [FileClass~MedicalTest.protect](/_protect/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalTest.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalTest.protect|FileClass~MedicalTest.protect]] 
 
-### #is_/same_as :: [FileClass~MedicalTest.private](/_private/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalTest.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalTest.private|FileClass~MedicalTest.private]] 
 
-### #is_/same_as :: [FileClass~MedicalTest.personal](/_personal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalTest.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalTest.personal|FileClass~MedicalTest.personal]] 
 
-### #is_/same_as :: [FileClass~MedicalTest.secret](/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalTest.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalTest.secret|FileClass~MedicalTest.secret]] 
 

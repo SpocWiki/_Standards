@@ -70,17 +70,17 @@ WordLift_URL: http://data.medicalrecords.com/medicalrecords/healthwise/digestive
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Human_digestive_System](/_Standards/bio/Medicine/Anatomy/Human_digestive_System.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Anatomy/Human_digestive_System|Human_digestive_System]] 
 
-### #is_/same_as :: [Human_digestive_System.public](/_public/bio/Medicine/Anatomy/Human_digestive_System.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Anatomy/Human_digestive_System.public|Human_digestive_System.public]] 
 
-### #is_/same_as :: [Human_digestive_System.internal](/_internal/bio/Medicine/Anatomy/Human_digestive_System.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Anatomy/Human_digestive_System.internal|Human_digestive_System.internal]] 
 
-### #is_/same_as :: [Human_digestive_System.protect](/_protect/bio/Medicine/Anatomy/Human_digestive_System.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Anatomy/Human_digestive_System.protect|Human_digestive_System.protect]] 
 
-### #is_/same_as :: [Human_digestive_System.private](/_private/bio/Medicine/Anatomy/Human_digestive_System.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Anatomy/Human_digestive_System.private|Human_digestive_System.private]] 
 
-### #is_/same_as :: [Human_digestive_System.personal](/_personal/bio/Medicine/Anatomy/Human_digestive_System.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Anatomy/Human_digestive_System.personal|Human_digestive_System.personal]] 
 
-### #is_/same_as :: [Human_digestive_System.secret](/_secret/bio/Medicine/Anatomy/Human_digestive_System.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Anatomy/Human_digestive_System.secret|Human_digestive_System.secret]] 
 

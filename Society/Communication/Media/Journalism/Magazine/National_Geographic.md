@@ -126,17 +126,17 @@ Regensburg_Classification_works_and_editions_: HD 184
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [National_Geographic](/_Standards/Society/Communication/Media/Journalism/Magazine/National_Geographic.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Journalism/Magazine/National_Geographic|National_Geographic]] 
 
-### #is_/same_as :: [National_Geographic.public](/_public/Society/Communication/Media/Journalism/Magazine/National_Geographic.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Journalism/Magazine/National_Geographic.public|National_Geographic.public]] 
 
-### #is_/same_as :: [National_Geographic.internal](/_internal/Society/Communication/Media/Journalism/Magazine/National_Geographic.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Journalism/Magazine/National_Geographic.internal|National_Geographic.internal]] 
 
-### #is_/same_as :: [National_Geographic.protect](/_protect/Society/Communication/Media/Journalism/Magazine/National_Geographic.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Journalism/Magazine/National_Geographic.protect|National_Geographic.protect]] 
 
-### #is_/same_as :: [National_Geographic.private](/_private/Society/Communication/Media/Journalism/Magazine/National_Geographic.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Journalism/Magazine/National_Geographic.private|National_Geographic.private]] 
 
-### #is_/same_as :: [National_Geographic.personal](/_personal/Society/Communication/Media/Journalism/Magazine/National_Geographic.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Journalism/Magazine/National_Geographic.personal|National_Geographic.personal]] 
 
-### #is_/same_as :: [National_Geographic.secret](/_secret/Society/Communication/Media/Journalism/Magazine/National_Geographic.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Journalism/Magazine/National_Geographic.secret|National_Geographic.secret]] 
 

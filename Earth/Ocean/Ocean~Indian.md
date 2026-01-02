@@ -323,17 +323,17 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ocean~Indian](/_Standards/Earth/Ocean/Ocean~Indian.md) 
+### #is_/same_as :: [[/_Standards/Earth/Ocean/Ocean~Indian|Ocean~Indian]] 
 
-### #is_/same_as :: [Ocean~Indian.public](/_public/Earth/Ocean/Ocean~Indian.public.md) 
+### #is_/same_as :: [[/_public/Earth/Ocean/Ocean~Indian.public|Ocean~Indian.public]] 
 
-### #is_/same_as :: [Ocean~Indian.internal](/_internal/Earth/Ocean/Ocean~Indian.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Ocean/Ocean~Indian.internal|Ocean~Indian.internal]] 
 
-### #is_/same_as :: [Ocean~Indian.protect](/_protect/Earth/Ocean/Ocean~Indian.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Ocean/Ocean~Indian.protect|Ocean~Indian.protect]] 
 
-### #is_/same_as :: [Ocean~Indian.private](/_private/Earth/Ocean/Ocean~Indian.private.md) 
+### #is_/same_as :: [[/_private/Earth/Ocean/Ocean~Indian.private|Ocean~Indian.private]] 
 
-### #is_/same_as :: [Ocean~Indian.personal](/_personal/Earth/Ocean/Ocean~Indian.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Ocean/Ocean~Indian.personal|Ocean~Indian.personal]] 
 
-### #is_/same_as :: [Ocean~Indian.secret](/_secret/Earth/Ocean/Ocean~Indian.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Ocean/Ocean~Indian.secret|Ocean~Indian.secret]] 
 

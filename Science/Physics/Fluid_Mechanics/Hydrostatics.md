@@ -42,17 +42,17 @@ Commons_category: Fluid statics
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hydrostatics](/_Standards/Science/Physics/Fluid_Mechanics/Hydrostatics.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Fluid_Mechanics/Hydrostatics|Hydrostatics]] 
 
-### #is_/same_as :: [Hydrostatics.public](/_public/Science/Physics/Fluid_Mechanics/Hydrostatics.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Fluid_Mechanics/Hydrostatics.public|Hydrostatics.public]] 
 
-### #is_/same_as :: [Hydrostatics.internal](/_internal/Science/Physics/Fluid_Mechanics/Hydrostatics.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Fluid_Mechanics/Hydrostatics.internal|Hydrostatics.internal]] 
 
-### #is_/same_as :: [Hydrostatics.protect](/_protect/Science/Physics/Fluid_Mechanics/Hydrostatics.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Fluid_Mechanics/Hydrostatics.protect|Hydrostatics.protect]] 
 
-### #is_/same_as :: [Hydrostatics.private](/_private/Science/Physics/Fluid_Mechanics/Hydrostatics.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Fluid_Mechanics/Hydrostatics.private|Hydrostatics.private]] 
 
-### #is_/same_as :: [Hydrostatics.personal](/_personal/Science/Physics/Fluid_Mechanics/Hydrostatics.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Fluid_Mechanics/Hydrostatics.personal|Hydrostatics.personal]] 
 
-### #is_/same_as :: [Hydrostatics.secret](/_secret/Science/Physics/Fluid_Mechanics/Hydrostatics.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Fluid_Mechanics/Hydrostatics.secret|Hydrostatics.secret]] 
 

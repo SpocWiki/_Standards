@@ -37,17 +37,17 @@ Web page type: Search results page.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~SearchResultsPage](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~SearchResultsPage.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~SearchResultsPage|FileClass~SearchResultsPage]] 
 
-### #is_/same_as :: [FileClass~SearchResultsPage.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~SearchResultsPage.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~SearchResultsPage.public|FileClass~SearchResultsPage.public]] 
 
-### #is_/same_as :: [FileClass~SearchResultsPage.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~SearchResultsPage.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~SearchResultsPage.internal|FileClass~SearchResultsPage.internal]] 
 
-### #is_/same_as :: [FileClass~SearchResultsPage.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~SearchResultsPage.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~SearchResultsPage.protect|FileClass~SearchResultsPage.protect]] 
 
-### #is_/same_as :: [FileClass~SearchResultsPage.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~SearchResultsPage.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~SearchResultsPage.private|FileClass~SearchResultsPage.private]] 
 
-### #is_/same_as :: [FileClass~SearchResultsPage.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~SearchResultsPage.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~SearchResultsPage.personal|FileClass~SearchResultsPage.personal]] 
 
-### #is_/same_as :: [FileClass~SearchResultsPage.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~SearchResultsPage.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~SearchResultsPage.secret|FileClass~SearchResultsPage.secret]] 
 

@@ -53,17 +53,17 @@ start_time: 1919-02-01T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [1919-Polish–Soviet_War+1921](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1919-Polish–Soviet_War+1921.md) 
+### #is_/same_as :: [[/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1919-Polish–Soviet_War+1921|1919-Polish–Soviet_War+1921]] 
 
-### #is_/same_as :: [1919-Polish–Soviet_War+1921.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1919-Polish–Soviet_War+1921.public.md) 
+### #is_/same_as :: [[/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1919-Polish–Soviet_War+1921.public|1919-Polish–Soviet_War+1921.public]] 
 
-### #is_/same_as :: [1919-Polish–Soviet_War+1921.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1919-Polish–Soviet_War+1921.internal.md) 
+### #is_/same_as :: [[/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1919-Polish–Soviet_War+1921.internal|1919-Polish–Soviet_War+1921.internal]] 
 
-### #is_/same_as :: [1919-Polish–Soviet_War+1921.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1919-Polish–Soviet_War+1921.protect.md) 
+### #is_/same_as :: [[/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1919-Polish–Soviet_War+1921.protect|1919-Polish–Soviet_War+1921.protect]] 
 
-### #is_/same_as :: [1919-Polish–Soviet_War+1921.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1919-Polish–Soviet_War+1921.private.md) 
+### #is_/same_as :: [[/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1919-Polish–Soviet_War+1921.private|1919-Polish–Soviet_War+1921.private]] 
 
-### #is_/same_as :: [1919-Polish–Soviet_War+1921.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1919-Polish–Soviet_War+1921.personal.md) 
+### #is_/same_as :: [[/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1919-Polish–Soviet_War+1921.personal|1919-Polish–Soviet_War+1921.personal]] 
 
-### #is_/same_as :: [1919-Polish–Soviet_War+1921.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1919-Polish–Soviet_War+1921.secret.md)
+### #is_/same_as :: [[/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1919-Polish–Soviet_War+1921.secret|1919-Polish–Soviet_War+1921.secret]] 
 

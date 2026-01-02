@@ -20,3 +20,22 @@ In Science and [[../../Engineering|Engineering]] Literature a set of common Name
 | Sybil                                                                   | Fake or forged identity              | Distributed systems          | 2002 |  50 |
 | Heidi                                                                   | Honest **voter**                     | Electronic voting            | 2004 |  20 |
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Technology/IT/Cryptography/Protocol-Role|Protocol-Role]] 
+
+### #is_/same_as :: [[/_public/Technology/IT/Cryptography/Protocol-Role.public|Protocol-Role.public]] 
+
+### #is_/same_as :: [[/_internal/Technology/IT/Cryptography/Protocol-Role.internal|Protocol-Role.internal]] 
+
+### #is_/same_as :: [[/_protect/Technology/IT/Cryptography/Protocol-Role.protect|Protocol-Role.protect]] 
+
+### #is_/same_as :: [[/_private/Technology/IT/Cryptography/Protocol-Role.private|Protocol-Role.private]] 
+
+### #is_/same_as :: [[/_personal/Technology/IT/Cryptography/Protocol-Role.personal|Protocol-Role.personal]] 
+
+### #is_/same_as :: [[/_secret/Technology/IT/Cryptography/Protocol-Role.secret|Protocol-Role.secret]] 
+

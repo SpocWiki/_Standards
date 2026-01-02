@@ -60,17 +60,17 @@ Wolfram_Language_entity_code: Entity["Concept", "Mineralogy::b2z9r"]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Mineralogy](/_Standards/Earth/Geology/Mineral/Mineralogy.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geology/Mineral/Mineralogy|Mineralogy]] 
 
-### #is_/same_as :: [Mineralogy.public](/_public/Earth/Geology/Mineral/Mineralogy.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geology/Mineral/Mineralogy.public|Mineralogy.public]] 
 
-### #is_/same_as :: [Mineralogy.internal](/_internal/Earth/Geology/Mineral/Mineralogy.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geology/Mineral/Mineralogy.internal|Mineralogy.internal]] 
 
-### #is_/same_as :: [Mineralogy.protect](/_protect/Earth/Geology/Mineral/Mineralogy.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geology/Mineral/Mineralogy.protect|Mineralogy.protect]] 
 
-### #is_/same_as :: [Mineralogy.private](/_private/Earth/Geology/Mineral/Mineralogy.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geology/Mineral/Mineralogy.private|Mineralogy.private]] 
 
-### #is_/same_as :: [Mineralogy.personal](/_personal/Earth/Geology/Mineral/Mineralogy.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geology/Mineral/Mineralogy.personal|Mineralogy.personal]] 
 
-### #is_/same_as :: [Mineralogy.secret](/_secret/Earth/Geology/Mineral/Mineralogy.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geology/Mineral/Mineralogy.secret|Mineralogy.secret]] 
 

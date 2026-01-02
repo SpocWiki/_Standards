@@ -58,17 +58,17 @@ IMDb_keyword: special-effects
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Special_Effects](/_Standards/Society/Communication/Media/Movie/Special_Effects.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Special_Effects|Special_Effects]] 
 
-### #is_/same_as :: [Special_Effects.public](/_public/Society/Communication/Media/Movie/Special_Effects.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Special_Effects.public|Special_Effects.public]] 
 
-### #is_/same_as :: [Special_Effects.internal](/_internal/Society/Communication/Media/Movie/Special_Effects.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Special_Effects.internal|Special_Effects.internal]] 
 
-### #is_/same_as :: [Special_Effects.protect](/_protect/Society/Communication/Media/Movie/Special_Effects.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Special_Effects.protect|Special_Effects.protect]] 
 
-### #is_/same_as :: [Special_Effects.private](/_private/Society/Communication/Media/Movie/Special_Effects.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Special_Effects.private|Special_Effects.private]] 
 
-### #is_/same_as :: [Special_Effects.personal](/_personal/Society/Communication/Media/Movie/Special_Effects.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Special_Effects.personal|Special_Effects.personal]] 
 
-### #is_/same_as :: [Special_Effects.secret](/_secret/Society/Communication/Media/Movie/Special_Effects.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Special_Effects.secret|Special_Effects.secret]] 
 

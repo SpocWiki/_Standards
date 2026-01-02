@@ -100,17 +100,17 @@ birth_name: John Robert Cocker
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Cocker,Joe](/_Standards/Society/Communication/Media/Music/Musician/Singer/Blues_Singer/Cocker,Joe.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Musician/Singer/Blues_Singer/Cocker,Joe|Cocker,Joe]] 
 
-### #is_/same_as :: [Cocker,Joe.public](/_public/Society/Communication/Media/Music/Musician/Singer/Blues_Singer/Cocker,Joe.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Musician/Singer/Blues_Singer/Cocker,Joe.public|Cocker,Joe.public]] 
 
-### #is_/same_as :: [Cocker,Joe.internal](/_internal/Society/Communication/Media/Music/Musician/Singer/Blues_Singer/Cocker,Joe.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Musician/Singer/Blues_Singer/Cocker,Joe.internal|Cocker,Joe.internal]] 
 
-### #is_/same_as :: [Cocker,Joe.protect](/_protect/Society/Communication/Media/Music/Musician/Singer/Blues_Singer/Cocker,Joe.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Musician/Singer/Blues_Singer/Cocker,Joe.protect|Cocker,Joe.protect]] 
 
-### #is_/same_as :: [Cocker,Joe.private](/_private/Society/Communication/Media/Music/Musician/Singer/Blues_Singer/Cocker,Joe.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Musician/Singer/Blues_Singer/Cocker,Joe.private|Cocker,Joe.private]] 
 
-### #is_/same_as :: [Cocker,Joe.personal](/_personal/Society/Communication/Media/Music/Musician/Singer/Blues_Singer/Cocker,Joe.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Musician/Singer/Blues_Singer/Cocker,Joe.personal|Cocker,Joe.personal]] 
 
-### #is_/same_as :: [Cocker,Joe.secret](/_secret/Society/Communication/Media/Music/Musician/Singer/Blues_Singer/Cocker,Joe.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Musician/Singer/Blues_Singer/Cocker,Joe.secret|Cocker,Joe.secret]] 
 

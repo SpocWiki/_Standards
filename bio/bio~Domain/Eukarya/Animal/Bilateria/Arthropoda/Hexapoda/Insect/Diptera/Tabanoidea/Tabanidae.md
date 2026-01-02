@@ -64,17 +64,17 @@ taxon_name: Tabanidae
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Tabanidae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Diptera/Tabanoidea/Tabanidae.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Diptera/Tabanoidea/Tabanidae|Tabanidae]] 
 
-### #is_/same_as :: [Tabanidae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Diptera/Tabanoidea/Tabanidae.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Diptera/Tabanoidea/Tabanidae.public|Tabanidae.public]] 
 
-### #is_/same_as :: [Tabanidae.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Diptera/Tabanoidea/Tabanidae.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Diptera/Tabanoidea/Tabanidae.internal|Tabanidae.internal]] 
 
-### #is_/same_as :: [Tabanidae.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Diptera/Tabanoidea/Tabanidae.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Diptera/Tabanoidea/Tabanidae.protect|Tabanidae.protect]] 
 
-### #is_/same_as :: [Tabanidae.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Diptera/Tabanoidea/Tabanidae.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Diptera/Tabanoidea/Tabanidae.private|Tabanidae.private]] 
 
-### #is_/same_as :: [Tabanidae.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Diptera/Tabanoidea/Tabanidae.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Diptera/Tabanoidea/Tabanidae.personal|Tabanidae.personal]] 
 
-### #is_/same_as :: [Tabanidae.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Diptera/Tabanoidea/Tabanidae.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Diptera/Tabanoidea/Tabanidae.secret|Tabanidae.secret]] 
 

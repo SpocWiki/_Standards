@@ -111,17 +111,17 @@ Iconclass_notation: 23I32
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [August](/_Standards/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Month_of_Year/August.md) 
+### #is_/same_as :: [[/_Standards/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Month_of_Year/August|August]] 
 
-### #is_/same_as :: [August.public](/_public/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Month_of_Year/August.public.md) 
+### #is_/same_as :: [[/_public/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Month_of_Year/August.public|August.public]] 
 
-### #is_/same_as :: [August.internal](/_internal/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Month_of_Year/August.internal.md) 
+### #is_/same_as :: [[/_internal/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Month_of_Year/August.internal|August.internal]] 
 
-### #is_/same_as :: [August.protect](/_protect/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Month_of_Year/August.protect.md) 
+### #is_/same_as :: [[/_protect/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Month_of_Year/August.protect|August.protect]] 
 
-### #is_/same_as :: [August.private](/_private/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Month_of_Year/August.private.md) 
+### #is_/same_as :: [[/_private/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Month_of_Year/August.private|August.private]] 
 
-### #is_/same_as :: [August.personal](/_personal/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Month_of_Year/August.personal.md) 
+### #is_/same_as :: [[/_personal/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Month_of_Year/August.personal|August.personal]] 
 
-### #is_/same_as :: [August.secret](/_secret/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Month_of_Year/August.secret.md)
+### #is_/same_as :: [[/_secret/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Month_of_Year/August.secret|August.secret]] 
 

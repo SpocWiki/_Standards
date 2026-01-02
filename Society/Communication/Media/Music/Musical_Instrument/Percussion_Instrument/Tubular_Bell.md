@@ -59,17 +59,17 @@ Commons_category: Tubular bells
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Tubular_Bell](/_Standards/Society/Communication/Media/Music/Musical_Instrument/Percussion_Instrument/Tubular_Bell.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Musical_Instrument/Percussion_Instrument/Tubular_Bell|Tubular_Bell]] 
 
-### #is_/same_as :: [Tubular_Bell.public](/_public/Society/Communication/Media/Music/Musical_Instrument/Percussion_Instrument/Tubular_Bell.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Musical_Instrument/Percussion_Instrument/Tubular_Bell.public|Tubular_Bell.public]] 
 
-### #is_/same_as :: [Tubular_Bell.internal](/_internal/Society/Communication/Media/Music/Musical_Instrument/Percussion_Instrument/Tubular_Bell.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Musical_Instrument/Percussion_Instrument/Tubular_Bell.internal|Tubular_Bell.internal]] 
 
-### #is_/same_as :: [Tubular_Bell.protect](/_protect/Society/Communication/Media/Music/Musical_Instrument/Percussion_Instrument/Tubular_Bell.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Musical_Instrument/Percussion_Instrument/Tubular_Bell.protect|Tubular_Bell.protect]] 
 
-### #is_/same_as :: [Tubular_Bell.private](/_private/Society/Communication/Media/Music/Musical_Instrument/Percussion_Instrument/Tubular_Bell.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Musical_Instrument/Percussion_Instrument/Tubular_Bell.private|Tubular_Bell.private]] 
 
-### #is_/same_as :: [Tubular_Bell.personal](/_personal/Society/Communication/Media/Music/Musical_Instrument/Percussion_Instrument/Tubular_Bell.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Musical_Instrument/Percussion_Instrument/Tubular_Bell.personal|Tubular_Bell.personal]] 
 
-### #is_/same_as :: [Tubular_Bell.secret](/_secret/Society/Communication/Media/Music/Musical_Instrument/Percussion_Instrument/Tubular_Bell.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Musical_Instrument/Percussion_Instrument/Tubular_Bell.secret|Tubular_Bell.secret]] 
 

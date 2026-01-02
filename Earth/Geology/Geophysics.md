@@ -52,17 +52,17 @@ Krugosvet_article: nauka_i_tehnika/fizika/GEOFIZIKA.html
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Geophysics](/_Standards/Earth/Geology/Geophysics.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geology/Geophysics|Geophysics]] 
 
-### #is_/same_as :: [Geophysics.public](/_public/Earth/Geology/Geophysics.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geology/Geophysics.public|Geophysics.public]] 
 
-### #is_/same_as :: [Geophysics.internal](/_internal/Earth/Geology/Geophysics.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geology/Geophysics.internal|Geophysics.internal]] 
 
-### #is_/same_as :: [Geophysics.protect](/_protect/Earth/Geology/Geophysics.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geology/Geophysics.protect|Geophysics.protect]] 
 
-### #is_/same_as :: [Geophysics.private](/_private/Earth/Geology/Geophysics.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geology/Geophysics.private|Geophysics.private]] 
 
-### #is_/same_as :: [Geophysics.personal](/_personal/Earth/Geology/Geophysics.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geology/Geophysics.personal|Geophysics.personal]] 
 
-### #is_/same_as :: [Geophysics.secret](/_secret/Earth/Geology/Geophysics.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geology/Geophysics.secret|Geophysics.secret]] 
 

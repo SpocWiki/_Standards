@@ -64,17 +64,17 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Age~2~Homerian](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~3~Silurian/Epoch~2~Wenlock/Age~2~Homerian.md) 
+### #is_/same_as :: [[/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~3~Silurian/Epoch~2~Wenlock/Age~2~Homerian|Age~2~Homerian]] 
 
-### #is_/same_as :: [Age~2~Homerian.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~3~Silurian/Epoch~2~Wenlock/Age~2~Homerian.public.md) 
+### #is_/same_as :: [[/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~3~Silurian/Epoch~2~Wenlock/Age~2~Homerian.public|Age~2~Homerian.public]] 
 
-### #is_/same_as :: [Age~2~Homerian.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~3~Silurian/Epoch~2~Wenlock/Age~2~Homerian.internal.md) 
+### #is_/same_as :: [[/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~3~Silurian/Epoch~2~Wenlock/Age~2~Homerian.internal|Age~2~Homerian.internal]] 
 
-### #is_/same_as :: [Age~2~Homerian.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~3~Silurian/Epoch~2~Wenlock/Age~2~Homerian.protect.md) 
+### #is_/same_as :: [[/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~3~Silurian/Epoch~2~Wenlock/Age~2~Homerian.protect|Age~2~Homerian.protect]] 
 
-### #is_/same_as :: [Age~2~Homerian.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~3~Silurian/Epoch~2~Wenlock/Age~2~Homerian.private.md) 
+### #is_/same_as :: [[/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~3~Silurian/Epoch~2~Wenlock/Age~2~Homerian.private|Age~2~Homerian.private]] 
 
-### #is_/same_as :: [Age~2~Homerian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~3~Silurian/Epoch~2~Wenlock/Age~2~Homerian.personal.md) 
+### #is_/same_as :: [[/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~3~Silurian/Epoch~2~Wenlock/Age~2~Homerian.personal|Age~2~Homerian.personal]] 
 
-### #is_/same_as :: [Age~2~Homerian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~3~Silurian/Epoch~2~Wenlock/Age~2~Homerian.secret.md)
+### #is_/same_as :: [[/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~3~Silurian/Epoch~2~Wenlock/Age~2~Homerian.secret|Age~2~Homerian.secret]] 
 

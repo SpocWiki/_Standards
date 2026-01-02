@@ -71,17 +71,17 @@ Commons_category: Grain elevators
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Grain_Elevator](/_Standards/Society/Economics/Industry/Agriculture/Farm/Grain_Elevator.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Industry/Agriculture/Farm/Grain_Elevator|Grain_Elevator]] 
 
-### #is_/same_as :: [Grain_Elevator.public](/_public/Society/Economics/Industry/Agriculture/Farm/Grain_Elevator.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Industry/Agriculture/Farm/Grain_Elevator.public|Grain_Elevator.public]] 
 
-### #is_/same_as :: [Grain_Elevator.internal](/_internal/Society/Economics/Industry/Agriculture/Farm/Grain_Elevator.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Industry/Agriculture/Farm/Grain_Elevator.internal|Grain_Elevator.internal]] 
 
-### #is_/same_as :: [Grain_Elevator.protect](/_protect/Society/Economics/Industry/Agriculture/Farm/Grain_Elevator.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Industry/Agriculture/Farm/Grain_Elevator.protect|Grain_Elevator.protect]] 
 
-### #is_/same_as :: [Grain_Elevator.private](/_private/Society/Economics/Industry/Agriculture/Farm/Grain_Elevator.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Industry/Agriculture/Farm/Grain_Elevator.private|Grain_Elevator.private]] 
 
-### #is_/same_as :: [Grain_Elevator.personal](/_personal/Society/Economics/Industry/Agriculture/Farm/Grain_Elevator.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Industry/Agriculture/Farm/Grain_Elevator.personal|Grain_Elevator.personal]] 
 
-### #is_/same_as :: [Grain_Elevator.secret](/_secret/Society/Economics/Industry/Agriculture/Farm/Grain_Elevator.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Industry/Agriculture/Farm/Grain_Elevator.secret|Grain_Elevator.secret]] 
 

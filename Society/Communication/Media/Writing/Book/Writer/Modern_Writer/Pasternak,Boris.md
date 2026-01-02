@@ -126,17 +126,17 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Boris%20Pasternak%2019
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Pasternak,Boris](/_Standards/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Pasternak,Boris.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Pasternak,Boris|Pasternak,Boris]] 
 
-### #is_/same_as :: [Pasternak,Boris.public](/_public/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Pasternak,Boris.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Pasternak,Boris.public|Pasternak,Boris.public]] 
 
-### #is_/same_as :: [Pasternak,Boris.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Pasternak,Boris.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Pasternak,Boris.internal|Pasternak,Boris.internal]] 
 
-### #is_/same_as :: [Pasternak,Boris.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Pasternak,Boris.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Pasternak,Boris.protect|Pasternak,Boris.protect]] 
 
-### #is_/same_as :: [Pasternak,Boris.private](/_private/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Pasternak,Boris.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Pasternak,Boris.private|Pasternak,Boris.private]] 
 
-### #is_/same_as :: [Pasternak,Boris.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Pasternak,Boris.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Pasternak,Boris.personal|Pasternak,Boris.personal]] 
 
-### #is_/same_as :: [Pasternak,Boris.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Pasternak,Boris.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Pasternak,Boris.secret|Pasternak,Boris.secret]] 
 

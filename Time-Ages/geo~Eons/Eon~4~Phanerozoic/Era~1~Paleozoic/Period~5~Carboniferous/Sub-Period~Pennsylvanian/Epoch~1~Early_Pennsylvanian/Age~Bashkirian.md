@@ -63,17 +63,17 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Age~Bashkirian](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Pennsylvanian/Epoch~1~Early_Pennsylvanian/Age~Bashkirian.md) 
+### #is_/same_as :: [[/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Pennsylvanian/Epoch~1~Early_Pennsylvanian/Age~Bashkirian|Age~Bashkirian]] 
 
-### #is_/same_as :: [Age~Bashkirian.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Pennsylvanian/Epoch~1~Early_Pennsylvanian/Age~Bashkirian.public.md) 
+### #is_/same_as :: [[/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Pennsylvanian/Epoch~1~Early_Pennsylvanian/Age~Bashkirian.public|Age~Bashkirian.public]] 
 
-### #is_/same_as :: [Age~Bashkirian.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Pennsylvanian/Epoch~1~Early_Pennsylvanian/Age~Bashkirian.internal.md) 
+### #is_/same_as :: [[/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Pennsylvanian/Epoch~1~Early_Pennsylvanian/Age~Bashkirian.internal|Age~Bashkirian.internal]] 
 
-### #is_/same_as :: [Age~Bashkirian.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Pennsylvanian/Epoch~1~Early_Pennsylvanian/Age~Bashkirian.protect.md) 
+### #is_/same_as :: [[/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Pennsylvanian/Epoch~1~Early_Pennsylvanian/Age~Bashkirian.protect|Age~Bashkirian.protect]] 
 
-### #is_/same_as :: [Age~Bashkirian.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Pennsylvanian/Epoch~1~Early_Pennsylvanian/Age~Bashkirian.private.md) 
+### #is_/same_as :: [[/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Pennsylvanian/Epoch~1~Early_Pennsylvanian/Age~Bashkirian.private|Age~Bashkirian.private]] 
 
-### #is_/same_as :: [Age~Bashkirian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Pennsylvanian/Epoch~1~Early_Pennsylvanian/Age~Bashkirian.personal.md) 
+### #is_/same_as :: [[/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Pennsylvanian/Epoch~1~Early_Pennsylvanian/Age~Bashkirian.personal|Age~Bashkirian.personal]] 
 
-### #is_/same_as :: [Age~Bashkirian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Pennsylvanian/Epoch~1~Early_Pennsylvanian/Age~Bashkirian.secret.md)
+### #is_/same_as :: [[/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Pennsylvanian/Epoch~1~Early_Pennsylvanian/Age~Bashkirian.secret|Age~Bashkirian.secret]] 
 

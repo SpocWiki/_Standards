@@ -85,17 +85,17 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Aristotle%20Altemps%20
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Common_Sense](/_Standards/bio/Psychology/Cognition/Common_Sense.md) 
+### #is_/same_as :: [[/_Standards/bio/Psychology/Cognition/Common_Sense|Common_Sense]] 
 
-### #is_/same_as :: [Common_Sense.public](/_public/bio/Psychology/Cognition/Common_Sense.public.md) 
+### #is_/same_as :: [[/_public/bio/Psychology/Cognition/Common_Sense.public|Common_Sense.public]] 
 
-### #is_/same_as :: [Common_Sense.internal](/_internal/bio/Psychology/Cognition/Common_Sense.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Psychology/Cognition/Common_Sense.internal|Common_Sense.internal]] 
 
-### #is_/same_as :: [Common_Sense.protect](/_protect/bio/Psychology/Cognition/Common_Sense.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Psychology/Cognition/Common_Sense.protect|Common_Sense.protect]] 
 
-### #is_/same_as :: [Common_Sense.private](/_private/bio/Psychology/Cognition/Common_Sense.private.md) 
+### #is_/same_as :: [[/_private/bio/Psychology/Cognition/Common_Sense.private|Common_Sense.private]] 
 
-### #is_/same_as :: [Common_Sense.personal](/_personal/bio/Psychology/Cognition/Common_Sense.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Psychology/Cognition/Common_Sense.personal|Common_Sense.personal]] 
 
-### #is_/same_as :: [Common_Sense.secret](/_secret/bio/Psychology/Cognition/Common_Sense.secret.md)
+### #is_/same_as :: [[/_secret/bio/Psychology/Cognition/Common_Sense.secret|Common_Sense.secret]] 
 

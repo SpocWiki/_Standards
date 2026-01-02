@@ -35,17 +35,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Backronym](/_Standards/Language/Backronym.md) 
+### #is_/same_as :: [[/_Standards/Language/Backronym|Backronym]] 
 
-### #is_/same_as :: [Backronym.public](/_public/Language/Backronym.public.md) 
+### #is_/same_as :: [[/_public/Language/Backronym.public|Backronym.public]] 
 
-### #is_/same_as :: [Backronym.internal](/_internal/Language/Backronym.internal.md) 
+### #is_/same_as :: [[/_internal/Language/Backronym.internal|Backronym.internal]] 
 
-### #is_/same_as :: [Backronym.protect](/_protect/Language/Backronym.protect.md) 
+### #is_/same_as :: [[/_protect/Language/Backronym.protect|Backronym.protect]] 
 
-### #is_/same_as :: [Backronym.private](/_private/Language/Backronym.private.md) 
+### #is_/same_as :: [[/_private/Language/Backronym.private|Backronym.private]] 
 
-### #is_/same_as :: [Backronym.personal](/_personal/Language/Backronym.personal.md) 
+### #is_/same_as :: [[/_personal/Language/Backronym.personal|Backronym.personal]] 
 
-### #is_/same_as :: [Backronym.secret](/_secret/Language/Backronym.secret.md)
+### #is_/same_as :: [[/_secret/Language/Backronym.secret|Backronym.secret]] 
 

@@ -59,17 +59,17 @@ DistinguishingSign:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~DDxElement](/_Standards/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIntangible/FileClass~DDxElement.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIntangible/FileClass~DDxElement|FileClass~DDxElement]] 
 
-### #is_/same_as :: [FileClass~DDxElement.public](/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIntangible/FileClass~DDxElement.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIntangible/FileClass~DDxElement.public|FileClass~DDxElement.public]] 
 
-### #is_/same_as :: [FileClass~DDxElement.internal](/_internal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIntangible/FileClass~DDxElement.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIntangible/FileClass~DDxElement.internal|FileClass~DDxElement.internal]] 
 
-### #is_/same_as :: [FileClass~DDxElement.protect](/_protect/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIntangible/FileClass~DDxElement.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIntangible/FileClass~DDxElement.protect|FileClass~DDxElement.protect]] 
 
-### #is_/same_as :: [FileClass~DDxElement.private](/_private/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIntangible/FileClass~DDxElement.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIntangible/FileClass~DDxElement.private|FileClass~DDxElement.private]] 
 
-### #is_/same_as :: [FileClass~DDxElement.personal](/_personal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIntangible/FileClass~DDxElement.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIntangible/FileClass~DDxElement.personal|FileClass~DDxElement.personal]] 
 
-### #is_/same_as :: [FileClass~DDxElement.secret](/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIntangible/FileClass~DDxElement.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIntangible/FileClass~DDxElement.secret|FileClass~DDxElement.secret]] 
 

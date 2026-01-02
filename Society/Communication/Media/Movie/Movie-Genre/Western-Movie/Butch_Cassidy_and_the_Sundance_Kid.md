@@ -31,17 +31,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Butch_Cassidy_and_the_Sundance_Kid](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Western-Movie/Butch_Cassidy_and_the_Sundance_Kid.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Genre/Western-Movie/Butch_Cassidy_and_the_Sundance_Kid|Butch_Cassidy_and_the_Sundance_Kid]] 
 
-### #is_/same_as :: [Butch_Cassidy_and_the_Sundance_Kid.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Western-Movie/Butch_Cassidy_and_the_Sundance_Kid.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Genre/Western-Movie/Butch_Cassidy_and_the_Sundance_Kid.public|Butch_Cassidy_and_the_Sundance_Kid.public]] 
 
-### #is_/same_as :: [Butch_Cassidy_and_the_Sundance_Kid.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Western-Movie/Butch_Cassidy_and_the_Sundance_Kid.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Genre/Western-Movie/Butch_Cassidy_and_the_Sundance_Kid.internal|Butch_Cassidy_and_the_Sundance_Kid.internal]] 
 
-### #is_/same_as :: [Butch_Cassidy_and_the_Sundance_Kid.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Western-Movie/Butch_Cassidy_and_the_Sundance_Kid.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Genre/Western-Movie/Butch_Cassidy_and_the_Sundance_Kid.protect|Butch_Cassidy_and_the_Sundance_Kid.protect]] 
 
-### #is_/same_as :: [Butch_Cassidy_and_the_Sundance_Kid.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Western-Movie/Butch_Cassidy_and_the_Sundance_Kid.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Genre/Western-Movie/Butch_Cassidy_and_the_Sundance_Kid.private|Butch_Cassidy_and_the_Sundance_Kid.private]] 
 
-### #is_/same_as :: [Butch_Cassidy_and_the_Sundance_Kid.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Western-Movie/Butch_Cassidy_and_the_Sundance_Kid.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Genre/Western-Movie/Butch_Cassidy_and_the_Sundance_Kid.personal|Butch_Cassidy_and_the_Sundance_Kid.personal]] 
 
-### #is_/same_as :: [Butch_Cassidy_and_the_Sundance_Kid.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Western-Movie/Butch_Cassidy_and_the_Sundance_Kid.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Genre/Western-Movie/Butch_Cassidy_and_the_Sundance_Kid.secret|Butch_Cassidy_and_the_Sundance_Kid.secret]] 
 

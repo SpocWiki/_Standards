@@ -55,17 +55,17 @@ Commonly used values:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Payment_Method](/_Standards/schema-org/Enumeration/Payment_Method.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Payment_Method|Payment_Method]] 
 
-### #is_/same_as :: [Payment_Method.public](/_public/schema-org/Enumeration/Payment_Method.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Payment_Method.public|Payment_Method.public]] 
 
-### #is_/same_as :: [Payment_Method.internal](/_internal/schema-org/Enumeration/Payment_Method.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Payment_Method.internal|Payment_Method.internal]] 
 
-### #is_/same_as :: [Payment_Method.protect](/_protect/schema-org/Enumeration/Payment_Method.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Payment_Method.protect|Payment_Method.protect]] 
 
-### #is_/same_as :: [Payment_Method.private](/_private/schema-org/Enumeration/Payment_Method.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Payment_Method.private|Payment_Method.private]] 
 
-### #is_/same_as :: [Payment_Method.personal](/_personal/schema-org/Enumeration/Payment_Method.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Payment_Method.personal|Payment_Method.personal]] 
 
-### #is_/same_as :: [Payment_Method.secret](/_secret/schema-org/Enumeration/Payment_Method.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Payment_Method.secret|Payment_Method.secret]] 
 

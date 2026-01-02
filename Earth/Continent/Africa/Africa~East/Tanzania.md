@@ -602,17 +602,17 @@ The name "Tanzania" was created as a [clipped compound](https://en.wikipedia.org
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Tanzania](/_Standards/Earth/Continent/Africa/Africa~East/Tanzania.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~East/Tanzania|Tanzania]] 
 
-### #is_/same_as :: [Tanzania.public](/_public/Earth/Continent/Africa/Africa~East/Tanzania.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~East/Tanzania.public|Tanzania.public]] 
 
-### #is_/same_as :: [Tanzania.internal](/_internal/Earth/Continent/Africa/Africa~East/Tanzania.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~East/Tanzania.internal|Tanzania.internal]] 
 
-### #is_/same_as :: [Tanzania.protect](/_protect/Earth/Continent/Africa/Africa~East/Tanzania.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~East/Tanzania.protect|Tanzania.protect]] 
 
-### #is_/same_as :: [Tanzania.private](/_private/Earth/Continent/Africa/Africa~East/Tanzania.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~East/Tanzania.private|Tanzania.private]] 
 
-### #is_/same_as :: [Tanzania.personal](/_personal/Earth/Continent/Africa/Africa~East/Tanzania.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~East/Tanzania.personal|Tanzania.personal]] 
 
-### #is_/same_as :: [Tanzania.secret](/_secret/Earth/Continent/Africa/Africa~East/Tanzania.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~East/Tanzania.secret|Tanzania.secret]] 
 

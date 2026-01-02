@@ -43,17 +43,17 @@ Commons_category: Integral calculus
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Integral_Calculus](/_Standards/Mathematics/Calculus/Integral_Calculus.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Calculus/Integral_Calculus|Integral_Calculus]] 
 
-### #is_/same_as :: [Integral_Calculus.public](/_public/Mathematics/Calculus/Integral_Calculus.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Calculus/Integral_Calculus.public|Integral_Calculus.public]] 
 
-### #is_/same_as :: [Integral_Calculus.internal](/_internal/Mathematics/Calculus/Integral_Calculus.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Calculus/Integral_Calculus.internal|Integral_Calculus.internal]] 
 
-### #is_/same_as :: [Integral_Calculus.protect](/_protect/Mathematics/Calculus/Integral_Calculus.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Calculus/Integral_Calculus.protect|Integral_Calculus.protect]] 
 
-### #is_/same_as :: [Integral_Calculus.private](/_private/Mathematics/Calculus/Integral_Calculus.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Calculus/Integral_Calculus.private|Integral_Calculus.private]] 
 
-### #is_/same_as :: [Integral_Calculus.personal](/_personal/Mathematics/Calculus/Integral_Calculus.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Calculus/Integral_Calculus.personal|Integral_Calculus.personal]] 
 
-### #is_/same_as :: [Integral_Calculus.secret](/_secret/Mathematics/Calculus/Integral_Calculus.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Calculus/Integral_Calculus.secret|Integral_Calculus.secret]] 
 

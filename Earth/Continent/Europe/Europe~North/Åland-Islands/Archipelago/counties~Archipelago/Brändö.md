@@ -40,17 +40,17 @@ markerFolder: ./Brändö/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Brändö](/_Standards/Earth/Continent/Europe/Europe~North/Åland-Islands/Archipelago/counties~Archipelago/Brändö.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Åland-Islands/Archipelago/counties~Archipelago/Brändö|Brändö]] 
 
-### #is_/same_as :: [Brändö.public](/_public/Earth/Continent/Europe/Europe~North/Åland-Islands/Archipelago/counties~Archipelago/Brändö.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Åland-Islands/Archipelago/counties~Archipelago/Brändö.public|Brändö.public]] 
 
-### #is_/same_as :: [Brändö.internal](/_internal/Earth/Continent/Europe/Europe~North/Åland-Islands/Archipelago/counties~Archipelago/Brändö.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Åland-Islands/Archipelago/counties~Archipelago/Brändö.internal|Brändö.internal]] 
 
-### #is_/same_as :: [Brändö.protect](/_protect/Earth/Continent/Europe/Europe~North/Åland-Islands/Archipelago/counties~Archipelago/Brändö.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Åland-Islands/Archipelago/counties~Archipelago/Brändö.protect|Brändö.protect]] 
 
-### #is_/same_as :: [Brändö.private](/_private/Earth/Continent/Europe/Europe~North/Åland-Islands/Archipelago/counties~Archipelago/Brändö.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Åland-Islands/Archipelago/counties~Archipelago/Brändö.private|Brändö.private]] 
 
-### #is_/same_as :: [Brändö.personal](/_personal/Earth/Continent/Europe/Europe~North/Åland-Islands/Archipelago/counties~Archipelago/Brändö.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Åland-Islands/Archipelago/counties~Archipelago/Brändö.personal|Brändö.personal]] 
 
-### #is_/same_as :: [Brändö.secret](/_secret/Earth/Continent/Europe/Europe~North/Åland-Islands/Archipelago/counties~Archipelago/Brändö.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Åland-Islands/Archipelago/counties~Archipelago/Brändö.secret|Brändö.secret]] 
 

@@ -73,17 +73,17 @@ Commons_category: Deforestation
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Deforestation](/_Standards/Society/Economics/Industry/Agriculture/Deforestation.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Industry/Agriculture/Deforestation|Deforestation]] 
 
-### #is_/same_as :: [Deforestation.public](/_public/Society/Economics/Industry/Agriculture/Deforestation.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Industry/Agriculture/Deforestation.public|Deforestation.public]] 
 
-### #is_/same_as :: [Deforestation.internal](/_internal/Society/Economics/Industry/Agriculture/Deforestation.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Industry/Agriculture/Deforestation.internal|Deforestation.internal]] 
 
-### #is_/same_as :: [Deforestation.protect](/_protect/Society/Economics/Industry/Agriculture/Deforestation.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Industry/Agriculture/Deforestation.protect|Deforestation.protect]] 
 
-### #is_/same_as :: [Deforestation.private](/_private/Society/Economics/Industry/Agriculture/Deforestation.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Industry/Agriculture/Deforestation.private|Deforestation.private]] 
 
-### #is_/same_as :: [Deforestation.personal](/_personal/Society/Economics/Industry/Agriculture/Deforestation.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Industry/Agriculture/Deforestation.personal|Deforestation.personal]] 
 
-### #is_/same_as :: [Deforestation.secret](/_secret/Society/Economics/Industry/Agriculture/Deforestation.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Industry/Agriculture/Deforestation.secret|Deforestation.secret]] 
 

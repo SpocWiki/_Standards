@@ -44,17 +44,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_slogan](/_Standards/schema-org/Property/Texts/has_slogan.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/Texts/has_slogan|has_slogan]] 
 
-### #is_/same_as :: [has_slogan.public](/_public/schema-org/Property/Texts/has_slogan.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/Texts/has_slogan.public|has_slogan.public]] 
 
-### #is_/same_as :: [has_slogan.internal](/_internal/schema-org/Property/Texts/has_slogan.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/Texts/has_slogan.internal|has_slogan.internal]] 
 
-### #is_/same_as :: [has_slogan.protect](/_protect/schema-org/Property/Texts/has_slogan.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/Texts/has_slogan.protect|has_slogan.protect]] 
 
-### #is_/same_as :: [has_slogan.private](/_private/schema-org/Property/Texts/has_slogan.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/Texts/has_slogan.private|has_slogan.private]] 
 
-### #is_/same_as :: [has_slogan.personal](/_personal/schema-org/Property/Texts/has_slogan.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/Texts/has_slogan.personal|has_slogan.personal]] 
 
-### #is_/same_as :: [has_slogan.secret](/_secret/schema-org/Property/Texts/has_slogan.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/Texts/has_slogan.secret|has_slogan.secret]] 
 

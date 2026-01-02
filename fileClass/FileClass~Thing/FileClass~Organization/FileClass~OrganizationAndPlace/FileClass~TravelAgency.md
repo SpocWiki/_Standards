@@ -37,17 +37,17 @@ A travel agency.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~TravelAgency](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~TravelAgency.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~TravelAgency|FileClass~TravelAgency]] 
 
-### #is_/same_as :: [FileClass~TravelAgency.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~TravelAgency.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~TravelAgency.public|FileClass~TravelAgency.public]] 
 
-### #is_/same_as :: [FileClass~TravelAgency.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~TravelAgency.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~TravelAgency.internal|FileClass~TravelAgency.internal]] 
 
-### #is_/same_as :: [FileClass~TravelAgency.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~TravelAgency.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~TravelAgency.protect|FileClass~TravelAgency.protect]] 
 
-### #is_/same_as :: [FileClass~TravelAgency.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~TravelAgency.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~TravelAgency.private|FileClass~TravelAgency.private]] 
 
-### #is_/same_as :: [FileClass~TravelAgency.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~TravelAgency.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~TravelAgency.personal|FileClass~TravelAgency.personal]] 
 
-### #is_/same_as :: [FileClass~TravelAgency.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~TravelAgency.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~TravelAgency.secret|FileClass~TravelAgency.secret]] 
 

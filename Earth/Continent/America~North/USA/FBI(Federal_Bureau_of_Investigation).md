@@ -108,3 +108,22 @@ Libris_URI: 64jljnjq3dhvq37
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Federal%20Bureau%20of%20Investigation) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~North/USA/FBI(Federal_Bureau_of_Investigation)|FBI(Federal_Bureau_of_Investigation)]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/America~North/USA/FBI(Federal_Bureau_of_Investigation).public|FBI(Federal_Bureau_of_Investigation).public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/America~North/USA/FBI(Federal_Bureau_of_Investigation).internal|FBI(Federal_Bureau_of_Investigation).internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/America~North/USA/FBI(Federal_Bureau_of_Investigation).protect|FBI(Federal_Bureau_of_Investigation).protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/America~North/USA/FBI(Federal_Bureau_of_Investigation).private|FBI(Federal_Bureau_of_Investigation).private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/America~North/USA/FBI(Federal_Bureau_of_Investigation).personal|FBI(Federal_Bureau_of_Investigation).personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/America~North/USA/FBI(Federal_Bureau_of_Investigation).secret|FBI(Federal_Bureau_of_Investigation).secret]] 
+

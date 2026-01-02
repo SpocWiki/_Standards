@@ -112,17 +112,17 @@ markerFile: [[Lake_Victoria]]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lake_Victoria](/_Standards/Earth/Continent/Africa/Africa~East/Lake_Victoria.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~East/Lake_Victoria|Lake_Victoria]] 
 
-### #is_/same_as :: [Lake_Victoria.public](/_public/Earth/Continent/Africa/Africa~East/Lake_Victoria.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~East/Lake_Victoria.public|Lake_Victoria.public]] 
 
-### #is_/same_as :: [Lake_Victoria.internal](/_internal/Earth/Continent/Africa/Africa~East/Lake_Victoria.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~East/Lake_Victoria.internal|Lake_Victoria.internal]] 
 
-### #is_/same_as :: [Lake_Victoria.protect](/_protect/Earth/Continent/Africa/Africa~East/Lake_Victoria.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~East/Lake_Victoria.protect|Lake_Victoria.protect]] 
 
-### #is_/same_as :: [Lake_Victoria.private](/_private/Earth/Continent/Africa/Africa~East/Lake_Victoria.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~East/Lake_Victoria.private|Lake_Victoria.private]] 
 
-### #is_/same_as :: [Lake_Victoria.personal](/_personal/Earth/Continent/Africa/Africa~East/Lake_Victoria.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~East/Lake_Victoria.personal|Lake_Victoria.personal]] 
 
-### #is_/same_as :: [Lake_Victoria.secret](/_secret/Earth/Continent/Africa/Africa~East/Lake_Victoria.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~East/Lake_Victoria.secret|Lake_Victoria.secret]] 
 

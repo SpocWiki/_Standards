@@ -89,17 +89,17 @@ Commons_category: Euphrates
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Euphrates](/_Standards/Earth/Continent/Asia/Asia~West/Euphrates.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~West/Euphrates|Euphrates]] 
 
-### #is_/same_as :: [Euphrates.public](/_public/Earth/Continent/Asia/Asia~West/Euphrates.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~West/Euphrates.public|Euphrates.public]] 
 
-### #is_/same_as :: [Euphrates.internal](/_internal/Earth/Continent/Asia/Asia~West/Euphrates.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~West/Euphrates.internal|Euphrates.internal]] 
 
-### #is_/same_as :: [Euphrates.protect](/_protect/Earth/Continent/Asia/Asia~West/Euphrates.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~West/Euphrates.protect|Euphrates.protect]] 
 
-### #is_/same_as :: [Euphrates.private](/_private/Earth/Continent/Asia/Asia~West/Euphrates.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~West/Euphrates.private|Euphrates.private]] 
 
-### #is_/same_as :: [Euphrates.personal](/_personal/Earth/Continent/Asia/Asia~West/Euphrates.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~West/Euphrates.personal|Euphrates.personal]] 
 
-### #is_/same_as :: [Euphrates.secret](/_secret/Earth/Continent/Asia/Asia~West/Euphrates.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~West/Euphrates.secret|Euphrates.secret]] 
 

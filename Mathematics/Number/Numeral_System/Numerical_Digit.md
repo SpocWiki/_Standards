@@ -53,17 +53,17 @@ Krugosvet_article_archived_: nauka_i_tehnika/matematika/TSIFRI_I_SISTEMI_SCHISLE
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Numerical_Digit](/_Standards/Mathematics/Number/Numeral_System/Numerical_Digit.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Number/Numeral_System/Numerical_Digit|Numerical_Digit]] 
 
-### #is_/same_as :: [Numerical_Digit.public](/_public/Mathematics/Number/Numeral_System/Numerical_Digit.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Number/Numeral_System/Numerical_Digit.public|Numerical_Digit.public]] 
 
-### #is_/same_as :: [Numerical_Digit.internal](/_internal/Mathematics/Number/Numeral_System/Numerical_Digit.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Number/Numeral_System/Numerical_Digit.internal|Numerical_Digit.internal]] 
 
-### #is_/same_as :: [Numerical_Digit.protect](/_protect/Mathematics/Number/Numeral_System/Numerical_Digit.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Number/Numeral_System/Numerical_Digit.protect|Numerical_Digit.protect]] 
 
-### #is_/same_as :: [Numerical_Digit.private](/_private/Mathematics/Number/Numeral_System/Numerical_Digit.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Number/Numeral_System/Numerical_Digit.private|Numerical_Digit.private]] 
 
-### #is_/same_as :: [Numerical_Digit.personal](/_personal/Mathematics/Number/Numeral_System/Numerical_Digit.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Number/Numeral_System/Numerical_Digit.personal|Numerical_Digit.personal]] 
 
-### #is_/same_as :: [Numerical_Digit.secret](/_secret/Mathematics/Number/Numeral_System/Numerical_Digit.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Number/Numeral_System/Numerical_Digit.secret|Numerical_Digit.secret]] 
 

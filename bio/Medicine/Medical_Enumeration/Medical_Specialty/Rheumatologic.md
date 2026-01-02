@@ -40,17 +40,17 @@ A specific branch of medical science that deals with the study and treatment of 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Rheumatologic](/_Standards/bio/Medicine/Medical_Enumeration/Medical_Specialty/Rheumatologic.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Enumeration/Medical_Specialty/Rheumatologic|Rheumatologic]] 
 
-### #is_/same_as :: [Rheumatologic.public](/_public/bio/Medicine/Medical_Enumeration/Medical_Specialty/Rheumatologic.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Enumeration/Medical_Specialty/Rheumatologic.public|Rheumatologic.public]] 
 
-### #is_/same_as :: [Rheumatologic.internal](/_internal/bio/Medicine/Medical_Enumeration/Medical_Specialty/Rheumatologic.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Enumeration/Medical_Specialty/Rheumatologic.internal|Rheumatologic.internal]] 
 
-### #is_/same_as :: [Rheumatologic.protect](/_protect/bio/Medicine/Medical_Enumeration/Medical_Specialty/Rheumatologic.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Enumeration/Medical_Specialty/Rheumatologic.protect|Rheumatologic.protect]] 
 
-### #is_/same_as :: [Rheumatologic.private](/_private/bio/Medicine/Medical_Enumeration/Medical_Specialty/Rheumatologic.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Enumeration/Medical_Specialty/Rheumatologic.private|Rheumatologic.private]] 
 
-### #is_/same_as :: [Rheumatologic.personal](/_personal/bio/Medicine/Medical_Enumeration/Medical_Specialty/Rheumatologic.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Enumeration/Medical_Specialty/Rheumatologic.personal|Rheumatologic.personal]] 
 
-### #is_/same_as :: [Rheumatologic.secret](/_secret/bio/Medicine/Medical_Enumeration/Medical_Specialty/Rheumatologic.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Enumeration/Medical_Specialty/Rheumatologic.secret|Rheumatologic.secret]] 
 

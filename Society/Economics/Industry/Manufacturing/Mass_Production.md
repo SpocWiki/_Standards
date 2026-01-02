@@ -44,17 +44,17 @@ Commons_category: Mass production
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Mass_Production](/_Standards/Society/Economics/Industry/Manufacturing/Mass_Production.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Industry/Manufacturing/Mass_Production|Mass_Production]] 
 
-### #is_/same_as :: [Mass_Production.public](/_public/Society/Economics/Industry/Manufacturing/Mass_Production.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Industry/Manufacturing/Mass_Production.public|Mass_Production.public]] 
 
-### #is_/same_as :: [Mass_Production.internal](/_internal/Society/Economics/Industry/Manufacturing/Mass_Production.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Industry/Manufacturing/Mass_Production.internal|Mass_Production.internal]] 
 
-### #is_/same_as :: [Mass_Production.protect](/_protect/Society/Economics/Industry/Manufacturing/Mass_Production.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Industry/Manufacturing/Mass_Production.protect|Mass_Production.protect]] 
 
-### #is_/same_as :: [Mass_Production.private](/_private/Society/Economics/Industry/Manufacturing/Mass_Production.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Industry/Manufacturing/Mass_Production.private|Mass_Production.private]] 
 
-### #is_/same_as :: [Mass_Production.personal](/_personal/Society/Economics/Industry/Manufacturing/Mass_Production.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Industry/Manufacturing/Mass_Production.personal|Mass_Production.personal]] 
 
-### #is_/same_as :: [Mass_Production.secret](/_secret/Society/Economics/Industry/Manufacturing/Mass_Production.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Industry/Manufacturing/Mass_Production.secret|Mass_Production.secret]] 
 

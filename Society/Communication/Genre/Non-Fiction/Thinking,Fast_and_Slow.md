@@ -69,17 +69,17 @@ The first Attribute in a List has the highest weight.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Thinking,Fast_and_Slow](/_Standards/Society/Communication/Genre/Non-Fiction/Thinking,Fast_and_Slow.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Genre/Non-Fiction/Thinking,Fast_and_Slow|Thinking,Fast_and_Slow]] 
 
-### #is_/same_as :: [Thinking,Fast_and_Slow.public](/_public/Society/Communication/Genre/Non-Fiction/Thinking,Fast_and_Slow.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Genre/Non-Fiction/Thinking,Fast_and_Slow.public|Thinking,Fast_and_Slow.public]] 
 
-### #is_/same_as :: [Thinking,Fast_and_Slow.internal](/_internal/Society/Communication/Genre/Non-Fiction/Thinking,Fast_and_Slow.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Genre/Non-Fiction/Thinking,Fast_and_Slow.internal|Thinking,Fast_and_Slow.internal]] 
 
-### #is_/same_as :: [Thinking,Fast_and_Slow.protect](/_protect/Society/Communication/Genre/Non-Fiction/Thinking,Fast_and_Slow.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Genre/Non-Fiction/Thinking,Fast_and_Slow.protect|Thinking,Fast_and_Slow.protect]] 
 
-### #is_/same_as :: [Thinking,Fast_and_Slow.private](/_private/Society/Communication/Genre/Non-Fiction/Thinking,Fast_and_Slow.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Genre/Non-Fiction/Thinking,Fast_and_Slow.private|Thinking,Fast_and_Slow.private]] 
 
-### #is_/same_as :: [Thinking,Fast_and_Slow.personal](/_personal/Society/Communication/Genre/Non-Fiction/Thinking,Fast_and_Slow.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Genre/Non-Fiction/Thinking,Fast_and_Slow.personal|Thinking,Fast_and_Slow.personal]] 
 
-### #is_/same_as :: [Thinking,Fast_and_Slow.secret](/_secret/Society/Communication/Genre/Non-Fiction/Thinking,Fast_and_Slow.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Genre/Non-Fiction/Thinking,Fast_and_Slow.secret|Thinking,Fast_and_Slow.secret]] 
 

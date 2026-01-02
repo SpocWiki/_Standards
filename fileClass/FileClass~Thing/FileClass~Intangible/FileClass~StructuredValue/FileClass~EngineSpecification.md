@@ -104,17 +104,17 @@ Torque:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~EngineSpecification](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~EngineSpecification.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~EngineSpecification|FileClass~EngineSpecification]] 
 
-### #is_/same_as :: [FileClass~EngineSpecification.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~EngineSpecification.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~EngineSpecification.public|FileClass~EngineSpecification.public]] 
 
-### #is_/same_as :: [FileClass~EngineSpecification.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~EngineSpecification.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~EngineSpecification.internal|FileClass~EngineSpecification.internal]] 
 
-### #is_/same_as :: [FileClass~EngineSpecification.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~EngineSpecification.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~EngineSpecification.protect|FileClass~EngineSpecification.protect]] 
 
-### #is_/same_as :: [FileClass~EngineSpecification.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~EngineSpecification.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~EngineSpecification.private|FileClass~EngineSpecification.private]] 
 
-### #is_/same_as :: [FileClass~EngineSpecification.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~EngineSpecification.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~EngineSpecification.personal|FileClass~EngineSpecification.personal]] 
 
-### #is_/same_as :: [FileClass~EngineSpecification.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~EngineSpecification.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~EngineSpecification.secret|FileClass~EngineSpecification.secret]] 
 

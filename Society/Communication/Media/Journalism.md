@@ -82,17 +82,17 @@ Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_journalism,7112670]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Journalism](/_Standards/Society/Communication/Media/Journalism.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Journalism|Journalism]] 
 
-### #is_/same_as :: [Journalism.public](/_public/Society/Communication/Media/Journalism.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Journalism.public|Journalism.public]] 
 
-### #is_/same_as :: [Journalism.internal](/_internal/Society/Communication/Media/Journalism.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Journalism.internal|Journalism.internal]] 
 
-### #is_/same_as :: [Journalism.protect](/_protect/Society/Communication/Media/Journalism.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Journalism.protect|Journalism.protect]] 
 
-### #is_/same_as :: [Journalism.private](/_private/Society/Communication/Media/Journalism.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Journalism.private|Journalism.private]] 
 
-### #is_/same_as :: [Journalism.personal](/_personal/Society/Communication/Media/Journalism.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Journalism.personal|Journalism.personal]] 
 
-### #is_/same_as :: [Journalism.secret](/_secret/Society/Communication/Media/Journalism.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Journalism.secret|Journalism.secret]] 
 

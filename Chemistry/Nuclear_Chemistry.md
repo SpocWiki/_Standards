@@ -40,17 +40,17 @@ subclass_of: "[[_Standards/WikiData/WD~physical_chemistry,11372]]"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Nuclear_Chemistry](/_Standards/Chemistry/Nuclear_Chemistry.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Nuclear_Chemistry|Nuclear_Chemistry]] 
 
-### #is_/same_as :: [Nuclear_Chemistry.public](/_public/Chemistry/Nuclear_Chemistry.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Nuclear_Chemistry.public|Nuclear_Chemistry.public]] 
 
-### #is_/same_as :: [Nuclear_Chemistry.internal](/_internal/Chemistry/Nuclear_Chemistry.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Nuclear_Chemistry.internal|Nuclear_Chemistry.internal]] 
 
-### #is_/same_as :: [Nuclear_Chemistry.protect](/_protect/Chemistry/Nuclear_Chemistry.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Nuclear_Chemistry.protect|Nuclear_Chemistry.protect]] 
 
-### #is_/same_as :: [Nuclear_Chemistry.private](/_private/Chemistry/Nuclear_Chemistry.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Nuclear_Chemistry.private|Nuclear_Chemistry.private]] 
 
-### #is_/same_as :: [Nuclear_Chemistry.personal](/_personal/Chemistry/Nuclear_Chemistry.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Nuclear_Chemistry.personal|Nuclear_Chemistry.personal]] 
 
-### #is_/same_as :: [Nuclear_Chemistry.secret](/_secret/Chemistry/Nuclear_Chemistry.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Nuclear_Chemistry.secret|Nuclear_Chemistry.secret]] 
 

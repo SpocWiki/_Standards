@@ -53,17 +53,17 @@ IdentifyingTest:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#cla
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~MedicalSign](/_Standards/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalCondition/FileClass~MedicalSignOrSymptom/FileClass~MedicalSign.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalCondition/FileClass~MedicalSignOrSymptom/FileClass~MedicalSign|FileClass~MedicalSign]] 
 
-### #is_/same_as :: [FileClass~MedicalSign.public](/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalCondition/FileClass~MedicalSignOrSymptom/FileClass~MedicalSign.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalCondition/FileClass~MedicalSignOrSymptom/FileClass~MedicalSign.public|FileClass~MedicalSign.public]] 
 
-### #is_/same_as :: [FileClass~MedicalSign.internal](/_internal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalCondition/FileClass~MedicalSignOrSymptom/FileClass~MedicalSign.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalCondition/FileClass~MedicalSignOrSymptom/FileClass~MedicalSign.internal|FileClass~MedicalSign.internal]] 
 
-### #is_/same_as :: [FileClass~MedicalSign.protect](/_protect/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalCondition/FileClass~MedicalSignOrSymptom/FileClass~MedicalSign.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalCondition/FileClass~MedicalSignOrSymptom/FileClass~MedicalSign.protect|FileClass~MedicalSign.protect]] 
 
-### #is_/same_as :: [FileClass~MedicalSign.private](/_private/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalCondition/FileClass~MedicalSignOrSymptom/FileClass~MedicalSign.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalCondition/FileClass~MedicalSignOrSymptom/FileClass~MedicalSign.private|FileClass~MedicalSign.private]] 
 
-### #is_/same_as :: [FileClass~MedicalSign.personal](/_personal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalCondition/FileClass~MedicalSignOrSymptom/FileClass~MedicalSign.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalCondition/FileClass~MedicalSignOrSymptom/FileClass~MedicalSign.personal|FileClass~MedicalSign.personal]] 
 
-### #is_/same_as :: [FileClass~MedicalSign.secret](/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalCondition/FileClass~MedicalSignOrSymptom/FileClass~MedicalSign.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalCondition/FileClass~MedicalSignOrSymptom/FileClass~MedicalSign.secret|FileClass~MedicalSign.secret]] 
 

@@ -78,17 +78,17 @@ Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_evolution,25303767]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Evolution](/_Standards/bio/Evolution.md) 
+### #is_/same_as :: [[/_Standards/bio/Evolution|Evolution]] 
 
-### #is_/same_as :: [Evolution.public](/_public/bio/Evolution.public.md) 
+### #is_/same_as :: [[/_public/bio/Evolution.public|Evolution.public]] 
 
-### #is_/same_as :: [Evolution.internal](/_internal/bio/Evolution.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Evolution.internal|Evolution.internal]] 
 
-### #is_/same_as :: [Evolution.protect](/_protect/bio/Evolution.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Evolution.protect|Evolution.protect]] 
 
-### #is_/same_as :: [Evolution.private](/_private/bio/Evolution.private.md) 
+### #is_/same_as :: [[/_private/bio/Evolution.private|Evolution.private]] 
 
-### #is_/same_as :: [Evolution.personal](/_personal/bio/Evolution.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Evolution.personal|Evolution.personal]] 
 
-### #is_/same_as :: [Evolution.secret](/_secret/bio/Evolution.secret.md)
+### #is_/same_as :: [[/_secret/bio/Evolution.secret|Evolution.secret]] 
 

@@ -29,17 +29,17 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Sociology%20Department
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [History_of_Sociology](/_Standards/Society/Anthropology/Sociology/History_of_Sociology.md) 
+### #is_/same_as :: [[/_Standards/Society/Anthropology/Sociology/History_of_Sociology|History_of_Sociology]] 
 
-### #is_/same_as :: [History_of_Sociology.public](/_public/Society/Anthropology/Sociology/History_of_Sociology.public.md) 
+### #is_/same_as :: [[/_public/Society/Anthropology/Sociology/History_of_Sociology.public|History_of_Sociology.public]] 
 
-### #is_/same_as :: [History_of_Sociology.internal](/_internal/Society/Anthropology/Sociology/History_of_Sociology.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Anthropology/Sociology/History_of_Sociology.internal|History_of_Sociology.internal]] 
 
-### #is_/same_as :: [History_of_Sociology.protect](/_protect/Society/Anthropology/Sociology/History_of_Sociology.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Anthropology/Sociology/History_of_Sociology.protect|History_of_Sociology.protect]] 
 
-### #is_/same_as :: [History_of_Sociology.private](/_private/Society/Anthropology/Sociology/History_of_Sociology.private.md) 
+### #is_/same_as :: [[/_private/Society/Anthropology/Sociology/History_of_Sociology.private|History_of_Sociology.private]] 
 
-### #is_/same_as :: [History_of_Sociology.personal](/_personal/Society/Anthropology/Sociology/History_of_Sociology.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Anthropology/Sociology/History_of_Sociology.personal|History_of_Sociology.personal]] 
 
-### #is_/same_as :: [History_of_Sociology.secret](/_secret/Society/Anthropology/Sociology/History_of_Sociology.secret.md)
+### #is_/same_as :: [[/_secret/Society/Anthropology/Sociology/History_of_Sociology.secret|History_of_Sociology.secret]] 
 

@@ -55,17 +55,17 @@ Commons_category: Public administration
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Public_Administration](/_Standards/Society/Anthropology/Sociology/Political_Science/Public_Policy/Public_Administration.md) 
+### #is_/same_as :: [[/_Standards/Society/Anthropology/Sociology/Political_Science/Public_Policy/Public_Administration|Public_Administration]] 
 
-### #is_/same_as :: [Public_Administration.public](/_public/Society/Anthropology/Sociology/Political_Science/Public_Policy/Public_Administration.public.md) 
+### #is_/same_as :: [[/_public/Society/Anthropology/Sociology/Political_Science/Public_Policy/Public_Administration.public|Public_Administration.public]] 
 
-### #is_/same_as :: [Public_Administration.internal](/_internal/Society/Anthropology/Sociology/Political_Science/Public_Policy/Public_Administration.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Anthropology/Sociology/Political_Science/Public_Policy/Public_Administration.internal|Public_Administration.internal]] 
 
-### #is_/same_as :: [Public_Administration.protect](/_protect/Society/Anthropology/Sociology/Political_Science/Public_Policy/Public_Administration.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Anthropology/Sociology/Political_Science/Public_Policy/Public_Administration.protect|Public_Administration.protect]] 
 
-### #is_/same_as :: [Public_Administration.private](/_private/Society/Anthropology/Sociology/Political_Science/Public_Policy/Public_Administration.private.md) 
+### #is_/same_as :: [[/_private/Society/Anthropology/Sociology/Political_Science/Public_Policy/Public_Administration.private|Public_Administration.private]] 
 
-### #is_/same_as :: [Public_Administration.personal](/_personal/Society/Anthropology/Sociology/Political_Science/Public_Policy/Public_Administration.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Anthropology/Sociology/Political_Science/Public_Policy/Public_Administration.personal|Public_Administration.personal]] 
 
-### #is_/same_as :: [Public_Administration.secret](/_secret/Society/Anthropology/Sociology/Political_Science/Public_Policy/Public_Administration.secret.md)
+### #is_/same_as :: [[/_secret/Society/Anthropology/Sociology/Political_Science/Public_Policy/Public_Administration.secret|Public_Administration.secret]] 
 

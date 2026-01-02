@@ -93,17 +93,17 @@ inception: 1921-10-21T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [PEN_International](/_Standards/Society/Agent/Community/Organization/International_Organization/PEN_International.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/International_Organization/PEN_International|PEN_International]] 
 
-### #is_/same_as :: [PEN_International.public](/_public/Society/Agent/Community/Organization/International_Organization/PEN_International.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/International_Organization/PEN_International.public|PEN_International.public]] 
 
-### #is_/same_as :: [PEN_International.internal](/_internal/Society/Agent/Community/Organization/International_Organization/PEN_International.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/International_Organization/PEN_International.internal|PEN_International.internal]] 
 
-### #is_/same_as :: [PEN_International.protect](/_protect/Society/Agent/Community/Organization/International_Organization/PEN_International.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/International_Organization/PEN_International.protect|PEN_International.protect]] 
 
-### #is_/same_as :: [PEN_International.private](/_private/Society/Agent/Community/Organization/International_Organization/PEN_International.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/International_Organization/PEN_International.private|PEN_International.private]] 
 
-### #is_/same_as :: [PEN_International.personal](/_personal/Society/Agent/Community/Organization/International_Organization/PEN_International.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/International_Organization/PEN_International.personal|PEN_International.personal]] 
 
-### #is_/same_as :: [PEN_International.secret](/_secret/Society/Agent/Community/Organization/International_Organization/PEN_International.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/International_Organization/PEN_International.secret|PEN_International.secret]] 
 

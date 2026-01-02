@@ -44,17 +44,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_to_recipient](/_Standards/schema-org/Relation/has/has_to_recipient.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_to_recipient|has_to_recipient]] 
 
-### #is_/same_as :: [has_to_recipient.public](/_public/schema-org/Relation/has/has_to_recipient.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_to_recipient.public|has_to_recipient.public]] 
 
-### #is_/same_as :: [has_to_recipient.internal](/_internal/schema-org/Relation/has/has_to_recipient.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_to_recipient.internal|has_to_recipient.internal]] 
 
-### #is_/same_as :: [has_to_recipient.protect](/_protect/schema-org/Relation/has/has_to_recipient.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_to_recipient.protect|has_to_recipient.protect]] 
 
-### #is_/same_as :: [has_to_recipient.private](/_private/schema-org/Relation/has/has_to_recipient.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_to_recipient.private|has_to_recipient.private]] 
 
-### #is_/same_as :: [has_to_recipient.personal](/_personal/schema-org/Relation/has/has_to_recipient.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_to_recipient.personal|has_to_recipient.personal]] 
 
-### #is_/same_as :: [has_to_recipient.secret](/_secret/schema-org/Relation/has/has_to_recipient.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_to_recipient.secret|has_to_recipient.secret]] 
 

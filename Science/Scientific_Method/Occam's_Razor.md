@@ -64,17 +64,17 @@ Commons_category: Occam's razor
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Occam's_Razor](/_Standards/Science/Occam's_Razor.md) 
+### #is_/same_as :: [[/_Standards/Science/Scientific_Method/Occam's_Razor|Occam's_Razor]] 
 
-### #is_/same_as :: [Occam's_Razor.public](/_public/Science/Occam's_Razor.public.md) 
+### #is_/same_as :: [[/_public/Science/Scientific_Method/Occam's_Razor.public|Occam's_Razor.public]] 
 
-### #is_/same_as :: [Occam's_Razor.internal](/_internal/Science/Occam's_Razor.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Scientific_Method/Occam's_Razor.internal|Occam's_Razor.internal]] 
 
-### #is_/same_as :: [Occam's_Razor.protect](/_protect/Science/Occam's_Razor.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Scientific_Method/Occam's_Razor.protect|Occam's_Razor.protect]] 
 
-### #is_/same_as :: [Occam's_Razor.private](/_private/Science/Occam's_Razor.private.md) 
+### #is_/same_as :: [[/_private/Science/Scientific_Method/Occam's_Razor.private|Occam's_Razor.private]] 
 
-### #is_/same_as :: [Occam's_Razor.personal](/_personal/Science/Occam's_Razor.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Scientific_Method/Occam's_Razor.personal|Occam's_Razor.personal]] 
 
-### #is_/same_as :: [Occam's_Razor.secret](/_secret/Science/Occam's_Razor.secret.md)
+### #is_/same_as :: [[/_secret/Science/Scientific_Method/Occam's_Razor.secret|Occam's_Razor.secret]] 
 

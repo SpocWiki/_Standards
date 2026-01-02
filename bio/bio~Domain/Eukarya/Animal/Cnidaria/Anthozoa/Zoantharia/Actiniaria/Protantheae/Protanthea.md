@@ -23,7 +23,7 @@ title: Protanthea
 -   » Sub-Groups 
 
 # *Protanthea* 
-![ ](Protanthea/gonactiniidae.jpg))
+![ ](Protanthea/gonactiniidae.jpg) 
 
 -   *Protanthea simplex* [Carlgren 1891]
 
@@ -60,17 +60,17 @@ Copyright © 2000, Robin Harvey, S.M.B.A.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Protanthea](/_Standards/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Protantheae/Protanthea.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Protantheae/Protanthea|Protanthea]] 
 
-### #is_/same_as :: [Protanthea.public](/_public/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Protantheae/Protanthea.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Protantheae/Protanthea.public|Protanthea.public]] 
 
-### #is_/same_as :: [Protanthea.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Protantheae/Protanthea.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Protantheae/Protanthea.internal|Protanthea.internal]] 
 
-### #is_/same_as :: [Protanthea.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Protantheae/Protanthea.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Protantheae/Protanthea.protect|Protanthea.protect]] 
 
-### #is_/same_as :: [Protanthea.private](/_private/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Protantheae/Protanthea.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Protantheae/Protanthea.private|Protanthea.private]] 
 
-### #is_/same_as :: [Protanthea.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Protantheae/Protanthea.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Protantheae/Protanthea.personal|Protanthea.personal]] 
 
-### #is_/same_as :: [Protanthea.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Protantheae/Protanthea.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Protantheae/Protanthea.secret|Protanthea.secret]] 
 

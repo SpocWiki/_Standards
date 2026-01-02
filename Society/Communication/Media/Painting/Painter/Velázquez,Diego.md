@@ -200,17 +200,17 @@ work_location:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Velázquez,Diego](/_Standards/Society/Communication/Media/Painting/Painter/Velázquez,Diego.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Painting/Painter/Velázquez,Diego|Velázquez,Diego]] 
 
-### #is_/same_as :: [Velázquez,Diego.public](/_public/Society/Communication/Media/Painting/Painter/Velázquez,Diego.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Painting/Painter/Velázquez,Diego.public|Velázquez,Diego.public]] 
 
-### #is_/same_as :: [Velázquez,Diego.internal](/_internal/Society/Communication/Media/Painting/Painter/Velázquez,Diego.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Painting/Painter/Velázquez,Diego.internal|Velázquez,Diego.internal]] 
 
-### #is_/same_as :: [Velázquez,Diego.protect](/_protect/Society/Communication/Media/Painting/Painter/Velázquez,Diego.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Painting/Painter/Velázquez,Diego.protect|Velázquez,Diego.protect]] 
 
-### #is_/same_as :: [Velázquez,Diego.private](/_private/Society/Communication/Media/Painting/Painter/Velázquez,Diego.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Painting/Painter/Velázquez,Diego.private|Velázquez,Diego.private]] 
 
-### #is_/same_as :: [Velázquez,Diego.personal](/_personal/Society/Communication/Media/Painting/Painter/Velázquez,Diego.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Painting/Painter/Velázquez,Diego.personal|Velázquez,Diego.personal]] 
 
-### #is_/same_as :: [Velázquez,Diego.secret](/_secret/Society/Communication/Media/Painting/Painter/Velázquez,Diego.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Painting/Painter/Velázquez,Diego.secret|Velázquez,Diego.secret]] 
 

@@ -72,17 +72,17 @@ ISNI: 000000011874695X
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Eastman,George](/_Standards/Science/Inventor/Eastman,George.md) 
+### #is_/same_as :: [[/_Standards/Science/Inventor/Eastman,George|Eastman,George]] 
 
-### #is_/same_as :: [Eastman,George.public](/_public/Science/Inventor/Eastman,George.public.md) 
+### #is_/same_as :: [[/_public/Science/Inventor/Eastman,George.public|Eastman,George.public]] 
 
-### #is_/same_as :: [Eastman,George.internal](/_internal/Science/Inventor/Eastman,George.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Inventor/Eastman,George.internal|Eastman,George.internal]] 
 
-### #is_/same_as :: [Eastman,George.protect](/_protect/Science/Inventor/Eastman,George.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Inventor/Eastman,George.protect|Eastman,George.protect]] 
 
-### #is_/same_as :: [Eastman,George.private](/_private/Science/Inventor/Eastman,George.private.md) 
+### #is_/same_as :: [[/_private/Science/Inventor/Eastman,George.private|Eastman,George.private]] 
 
-### #is_/same_as :: [Eastman,George.personal](/_personal/Science/Inventor/Eastman,George.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Inventor/Eastman,George.personal|Eastman,George.personal]] 
 
-### #is_/same_as :: [Eastman,George.secret](/_secret/Science/Inventor/Eastman,George.secret.md)
+### #is_/same_as :: [[/_secret/Science/Inventor/Eastman,George.secret|Eastman,George.secret]] 
 

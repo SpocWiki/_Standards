@@ -46,17 +46,17 @@ A [[MediaReview]] is a more specialized form of Review dedicated to the evaluati
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Media_Review](/_Standards/Society/Communication/Media/Creative_Work/Review/Media_Review.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Creative_Work/Review/Media_Review|Media_Review]] 
 
-### #is_/same_as :: [Media_Review.public](/_public/Society/Communication/Media/Creative_Work/Review/Media_Review.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Creative_Work/Review/Media_Review.public|Media_Review.public]] 
 
-### #is_/same_as :: [Media_Review.internal](/_internal/Society/Communication/Media/Creative_Work/Review/Media_Review.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Creative_Work/Review/Media_Review.internal|Media_Review.internal]] 
 
-### #is_/same_as :: [Media_Review.protect](/_protect/Society/Communication/Media/Creative_Work/Review/Media_Review.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Creative_Work/Review/Media_Review.protect|Media_Review.protect]] 
 
-### #is_/same_as :: [Media_Review.private](/_private/Society/Communication/Media/Creative_Work/Review/Media_Review.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Creative_Work/Review/Media_Review.private|Media_Review.private]] 
 
-### #is_/same_as :: [Media_Review.personal](/_personal/Society/Communication/Media/Creative_Work/Review/Media_Review.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/Review/Media_Review.personal|Media_Review.personal]] 
 
-### #is_/same_as :: [Media_Review.secret](/_secret/Society/Communication/Media/Creative_Work/Review/Media_Review.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Review/Media_Review.secret|Media_Review.secret]] 
 

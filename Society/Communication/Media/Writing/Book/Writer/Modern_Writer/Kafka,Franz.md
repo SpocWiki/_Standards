@@ -188,17 +188,17 @@ writing_language: '[[_Standards/WikiData/WD~German,188]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Kafka,Franz](/_Standards/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Kafka,Franz.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Kafka,Franz|Kafka,Franz]] 
 
-### #is_/same_as :: [Kafka,Franz.public](/_public/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Kafka,Franz.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Kafka,Franz.public|Kafka,Franz.public]] 
 
-### #is_/same_as :: [Kafka,Franz.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Kafka,Franz.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Kafka,Franz.internal|Kafka,Franz.internal]] 
 
-### #is_/same_as :: [Kafka,Franz.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Kafka,Franz.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Kafka,Franz.protect|Kafka,Franz.protect]] 
 
-### #is_/same_as :: [Kafka,Franz.private](/_private/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Kafka,Franz.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Kafka,Franz.private|Kafka,Franz.private]] 
 
-### #is_/same_as :: [Kafka,Franz.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Kafka,Franz.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Kafka,Franz.personal|Kafka,Franz.personal]] 
 
-### #is_/same_as :: [Kafka,Franz.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Kafka,Franz.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Kafka,Franz.secret|Kafka,Franz.secret]] 
 

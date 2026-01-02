@@ -45,17 +45,17 @@ Reminders are a durable scheduling mechanism for grains.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Prog~Actor](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Actor.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Actor|Prog~Actor]] 
 
-### #is_/same_as :: [Prog~Actor.public](/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Actor.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Actor.public|Prog~Actor.public]] 
 
-### #is_/same_as :: [Prog~Actor.internal](/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Actor.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Actor.internal|Prog~Actor.internal]] 
 
-### #is_/same_as :: [Prog~Actor.protect](/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Actor.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Actor.protect|Prog~Actor.protect]] 
 
-### #is_/same_as :: [Prog~Actor.private](/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Actor.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Actor.private|Prog~Actor.private]] 
 
-### #is_/same_as :: [Prog~Actor.personal](/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Actor.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Actor.personal|Prog~Actor.personal]] 
 
-### #is_/same_as :: [Prog~Actor.secret](/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Actor.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Actor.secret|Prog~Actor.secret]] 
 

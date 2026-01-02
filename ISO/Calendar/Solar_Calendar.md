@@ -37,17 +37,17 @@ Commons_category: Solar calendars
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Solar_Calendar](/_Standards/ISO/Calendar/Solar_Calendar.md) 
+### #is_/same_as :: [[/_Standards/ISO/Calendar/Solar_Calendar|Solar_Calendar]] 
 
-### #is_/same_as :: [Solar_Calendar.public](/_public/ISO/Calendar/Solar_Calendar.public.md) 
+### #is_/same_as :: [[/_public/ISO/Calendar/Solar_Calendar.public|Solar_Calendar.public]] 
 
-### #is_/same_as :: [Solar_Calendar.internal](/_internal/ISO/Calendar/Solar_Calendar.internal.md) 
+### #is_/same_as :: [[/_internal/ISO/Calendar/Solar_Calendar.internal|Solar_Calendar.internal]] 
 
-### #is_/same_as :: [Solar_Calendar.protect](/_protect/ISO/Calendar/Solar_Calendar.protect.md) 
+### #is_/same_as :: [[/_protect/ISO/Calendar/Solar_Calendar.protect|Solar_Calendar.protect]] 
 
-### #is_/same_as :: [Solar_Calendar.private](/_private/ISO/Calendar/Solar_Calendar.private.md) 
+### #is_/same_as :: [[/_private/ISO/Calendar/Solar_Calendar.private|Solar_Calendar.private]] 
 
-### #is_/same_as :: [Solar_Calendar.personal](/_personal/ISO/Calendar/Solar_Calendar.personal.md) 
+### #is_/same_as :: [[/_personal/ISO/Calendar/Solar_Calendar.personal|Solar_Calendar.personal]] 
 
-### #is_/same_as :: [Solar_Calendar.secret](/_secret/ISO/Calendar/Solar_Calendar.secret.md)
+### #is_/same_as :: [[/_secret/ISO/Calendar/Solar_Calendar.secret|Solar_Calendar.secret]] 
 

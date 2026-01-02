@@ -33,17 +33,17 @@ Commons_category: Islamic sects
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Islamic_Denomination](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Islamic_Denomination.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Islamic_Denomination|Islamic_Denomination]] 
 
-### #is_/same_as :: [Islamic_Denomination.public](/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Islamic_Denomination.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Islamic_Denomination.public|Islamic_Denomination.public]] 
 
-### #is_/same_as :: [Islamic_Denomination.internal](/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Islamic_Denomination.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Islamic_Denomination.internal|Islamic_Denomination.internal]] 
 
-### #is_/same_as :: [Islamic_Denomination.protect](/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Islamic_Denomination.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Islamic_Denomination.protect|Islamic_Denomination.protect]] 
 
-### #is_/same_as :: [Islamic_Denomination.private](/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Islamic_Denomination.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Islamic_Denomination.private|Islamic_Denomination.private]] 
 
-### #is_/same_as :: [Islamic_Denomination.personal](/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Islamic_Denomination.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Islamic_Denomination.personal|Islamic_Denomination.personal]] 
 
-### #is_/same_as :: [Islamic_Denomination.secret](/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Islamic_Denomination.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Islamic_Denomination.secret|Islamic_Denomination.secret]] 
 

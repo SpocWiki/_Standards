@@ -40,17 +40,17 @@ markerFolder: ./Eckerö/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Eckerö](/_Standards/Earth/Continent/Europe/Europe~North/Åland-Islands/Countryside/counties~Countryside/Eckerö.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Åland-Islands/Countryside/counties~Countryside/Eckerö|Eckerö]] 
 
-### #is_/same_as :: [Eckerö.public](/_public/Earth/Continent/Europe/Europe~North/Åland-Islands/Countryside/counties~Countryside/Eckerö.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Åland-Islands/Countryside/counties~Countryside/Eckerö.public|Eckerö.public]] 
 
-### #is_/same_as :: [Eckerö.internal](/_internal/Earth/Continent/Europe/Europe~North/Åland-Islands/Countryside/counties~Countryside/Eckerö.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Åland-Islands/Countryside/counties~Countryside/Eckerö.internal|Eckerö.internal]] 
 
-### #is_/same_as :: [Eckerö.protect](/_protect/Earth/Continent/Europe/Europe~North/Åland-Islands/Countryside/counties~Countryside/Eckerö.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Åland-Islands/Countryside/counties~Countryside/Eckerö.protect|Eckerö.protect]] 
 
-### #is_/same_as :: [Eckerö.private](/_private/Earth/Continent/Europe/Europe~North/Åland-Islands/Countryside/counties~Countryside/Eckerö.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Åland-Islands/Countryside/counties~Countryside/Eckerö.private|Eckerö.private]] 
 
-### #is_/same_as :: [Eckerö.personal](/_personal/Earth/Continent/Europe/Europe~North/Åland-Islands/Countryside/counties~Countryside/Eckerö.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Åland-Islands/Countryside/counties~Countryside/Eckerö.personal|Eckerö.personal]] 
 
-### #is_/same_as :: [Eckerö.secret](/_secret/Earth/Continent/Europe/Europe~North/Åland-Islands/Countryside/counties~Countryside/Eckerö.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Åland-Islands/Countryside/counties~Countryside/Eckerö.secret|Eckerö.secret]] 
 

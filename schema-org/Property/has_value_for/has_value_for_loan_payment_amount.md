@@ -45,17 +45,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_value_for_loan_payment_amount](/_Standards/schema-org/Property/has_value_for/has_value_for_loan_payment_amount.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_value_for/has_value_for_loan_payment_amount|has_value_for_loan_payment_amount]] 
 
-### #is_/same_as :: [has_value_for_loan_payment_amount.public](/_public/schema-org/Property/has_value_for/has_value_for_loan_payment_amount.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/has_value_for/has_value_for_loan_payment_amount.public|has_value_for_loan_payment_amount.public]] 
 
-### #is_/same_as :: [has_value_for_loan_payment_amount.internal](/_internal/schema-org/Property/has_value_for/has_value_for_loan_payment_amount.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_value_for/has_value_for_loan_payment_amount.internal|has_value_for_loan_payment_amount.internal]] 
 
-### #is_/same_as :: [has_value_for_loan_payment_amount.protect](/_protect/schema-org/Property/has_value_for/has_value_for_loan_payment_amount.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_value_for/has_value_for_loan_payment_amount.protect|has_value_for_loan_payment_amount.protect]] 
 
-### #is_/same_as :: [has_value_for_loan_payment_amount.private](/_private/schema-org/Property/has_value_for/has_value_for_loan_payment_amount.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/has_value_for/has_value_for_loan_payment_amount.private|has_value_for_loan_payment_amount.private]] 
 
-### #is_/same_as :: [has_value_for_loan_payment_amount.personal](/_personal/schema-org/Property/has_value_for/has_value_for_loan_payment_amount.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_value_for/has_value_for_loan_payment_amount.personal|has_value_for_loan_payment_amount.personal]] 
 
-### #is_/same_as :: [has_value_for_loan_payment_amount.secret](/_secret/schema-org/Property/has_value_for/has_value_for_loan_payment_amount.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/has_value_for/has_value_for_loan_payment_amount.secret|has_value_for_loan_payment_amount.secret]] 
 

@@ -82,17 +82,17 @@ Commons_category: Mosaics
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Mosaic](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Style/Mosaic.md) 
+### #is_/same_as :: [[/_Standards/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Style/Mosaic|Mosaic]] 
 
-### #is_/same_as :: [Mosaic.public](/_public/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Style/Mosaic.public.md) 
+### #is_/same_as :: [[/_public/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Style/Mosaic.public|Mosaic.public]] 
 
-### #is_/same_as :: [Mosaic.internal](/_internal/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Style/Mosaic.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Style/Mosaic.internal|Mosaic.internal]] 
 
-### #is_/same_as :: [Mosaic.protect](/_protect/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Style/Mosaic.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Style/Mosaic.protect|Mosaic.protect]] 
 
-### #is_/same_as :: [Mosaic.private](/_private/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Style/Mosaic.private.md) 
+### #is_/same_as :: [[/_private/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Style/Mosaic.private|Mosaic.private]] 
 
-### #is_/same_as :: [Mosaic.personal](/_personal/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Style/Mosaic.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Style/Mosaic.personal|Mosaic.personal]] 
 
-### #is_/same_as :: [Mosaic.secret](/_secret/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Style/Mosaic.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Style/Mosaic.secret|Mosaic.secret]] 
 

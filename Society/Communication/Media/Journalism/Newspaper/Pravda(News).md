@@ -99,17 +99,17 @@ inception: 1912-01-01T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Pravda(News)](/_Standards/Society/Communication/Media/Journalism/Newspaper/Pravda(News).md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Journalism/Newspaper/Pravda(News)|Pravda(News)]] 
 
-### #is_/same_as :: [Pravda(News).public](/_public/Society/Communication/Media/Journalism/Newspaper/Pravda(News).public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Journalism/Newspaper/Pravda(News).public|Pravda(News).public]] 
 
-### #is_/same_as :: [Pravda(News).internal](/_internal/Society/Communication/Media/Journalism/Newspaper/Pravda(News).internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Journalism/Newspaper/Pravda(News).internal|Pravda(News).internal]] 
 
-### #is_/same_as :: [Pravda(News).protect](/_protect/Society/Communication/Media/Journalism/Newspaper/Pravda(News).protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Journalism/Newspaper/Pravda(News).protect|Pravda(News).protect]] 
 
-### #is_/same_as :: [Pravda(News).private](/_private/Society/Communication/Media/Journalism/Newspaper/Pravda(News).private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Journalism/Newspaper/Pravda(News).private|Pravda(News).private]] 
 
-### #is_/same_as :: [Pravda(News).personal](/_personal/Society/Communication/Media/Journalism/Newspaper/Pravda(News).personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Journalism/Newspaper/Pravda(News).personal|Pravda(News).personal]] 
 
-### #is_/same_as :: [Pravda(News).secret](/_secret/Society/Communication/Media/Journalism/Newspaper/Pravda(News).secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Journalism/Newspaper/Pravda(News).secret|Pravda(News).secret]] 
 

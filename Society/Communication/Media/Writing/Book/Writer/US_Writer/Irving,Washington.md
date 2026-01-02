@@ -158,17 +158,17 @@ ISNI: 0000000400156574
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Irving,Washington](/_Standards/Society/Communication/Media/Writing/Book/Writer/US_Writer/Irving,Washington.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Writer/US_Writer/Irving,Washington|Irving,Washington]] 
 
-### #is_/same_as :: [Irving,Washington.public](/_public/Society/Communication/Media/Writing/Book/Writer/US_Writer/Irving,Washington.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Writer/US_Writer/Irving,Washington.public|Irving,Washington.public]] 
 
-### #is_/same_as :: [Irving,Washington.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/US_Writer/Irving,Washington.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Writer/US_Writer/Irving,Washington.internal|Irving,Washington.internal]] 
 
-### #is_/same_as :: [Irving,Washington.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/US_Writer/Irving,Washington.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Writer/US_Writer/Irving,Washington.protect|Irving,Washington.protect]] 
 
-### #is_/same_as :: [Irving,Washington.private](/_private/Society/Communication/Media/Writing/Book/Writer/US_Writer/Irving,Washington.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Writer/US_Writer/Irving,Washington.private|Irving,Washington.private]] 
 
-### #is_/same_as :: [Irving,Washington.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/US_Writer/Irving,Washington.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Writer/US_Writer/Irving,Washington.personal|Irving,Washington.personal]] 
 
-### #is_/same_as :: [Irving,Washington.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/US_Writer/Irving,Washington.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Writer/US_Writer/Irving,Washington.secret|Irving,Washington.secret]] 
 

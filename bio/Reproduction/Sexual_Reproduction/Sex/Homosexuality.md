@@ -81,17 +81,17 @@ UMLS_CUI: C0019899
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Homosexuality](/_Standards/bio/Reproduction/Sexual_Reproduction/Sex/Homosexuality.md) 
+### #is_/same_as :: [[/_Standards/bio/Reproduction/Sexual_Reproduction/Sex/Homosexuality|Homosexuality]] 
 
-### #is_/same_as :: [Homosexuality.public](/_public/bio/Reproduction/Sexual_Reproduction/Sex/Homosexuality.public.md) 
+### #is_/same_as :: [[/_public/bio/Reproduction/Sexual_Reproduction/Sex/Homosexuality.public|Homosexuality.public]] 
 
-### #is_/same_as :: [Homosexuality.internal](/_internal/bio/Reproduction/Sexual_Reproduction/Sex/Homosexuality.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Reproduction/Sexual_Reproduction/Sex/Homosexuality.internal|Homosexuality.internal]] 
 
-### #is_/same_as :: [Homosexuality.protect](/_protect/bio/Reproduction/Sexual_Reproduction/Sex/Homosexuality.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Reproduction/Sexual_Reproduction/Sex/Homosexuality.protect|Homosexuality.protect]] 
 
-### #is_/same_as :: [Homosexuality.private](/_private/bio/Reproduction/Sexual_Reproduction/Sex/Homosexuality.private.md) 
+### #is_/same_as :: [[/_private/bio/Reproduction/Sexual_Reproduction/Sex/Homosexuality.private|Homosexuality.private]] 
 
-### #is_/same_as :: [Homosexuality.personal](/_personal/bio/Reproduction/Sexual_Reproduction/Sex/Homosexuality.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Reproduction/Sexual_Reproduction/Sex/Homosexuality.personal|Homosexuality.personal]] 
 
-### #is_/same_as :: [Homosexuality.secret](/_secret/bio/Reproduction/Sexual_Reproduction/Sex/Homosexuality.secret.md)
+### #is_/same_as :: [[/_secret/bio/Reproduction/Sexual_Reproduction/Sex/Homosexuality.secret|Homosexuality.secret]] 
 

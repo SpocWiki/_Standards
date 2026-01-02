@@ -67,17 +67,17 @@ TA98_Latin_term: ovarium
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ovary](/_Standards/bio/Reproduction/Ovary.md) 
+### #is_/same_as :: [[/_Standards/bio/Reproduction/Ovary|Ovary]] 
 
-### #is_/same_as :: [Ovary.public](/_public/bio/Reproduction/Ovary.public.md) 
+### #is_/same_as :: [[/_public/bio/Reproduction/Ovary.public|Ovary.public]] 
 
-### #is_/same_as :: [Ovary.internal](/_internal/bio/Reproduction/Ovary.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Reproduction/Ovary.internal|Ovary.internal]] 
 
-### #is_/same_as :: [Ovary.protect](/_protect/bio/Reproduction/Ovary.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Reproduction/Ovary.protect|Ovary.protect]] 
 
-### #is_/same_as :: [Ovary.private](/_private/bio/Reproduction/Ovary.private.md) 
+### #is_/same_as :: [[/_private/bio/Reproduction/Ovary.private|Ovary.private]] 
 
-### #is_/same_as :: [Ovary.personal](/_personal/bio/Reproduction/Ovary.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Reproduction/Ovary.personal|Ovary.personal]] 
 
-### #is_/same_as :: [Ovary.secret](/_secret/bio/Reproduction/Ovary.secret.md)
+### #is_/same_as :: [[/_secret/bio/Reproduction/Ovary.secret|Ovary.secret]] 
 

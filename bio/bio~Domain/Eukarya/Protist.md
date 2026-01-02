@@ -345,17 +345,17 @@ Scientific Name ::     Entosiphon sulcatum (Euglenozoa)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Protist](/_Standards/bio/bio~Domain/Eukarya/Protist.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Protist|Protist]] 
 
-### #is_/same_as :: [Protist.public](/_public/bio/bio~Domain/Eukarya/Protist.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Protist.public|Protist.public]] 
 
-### #is_/same_as :: [Protist.internal](/_internal/bio/bio~Domain/Eukarya/Protist.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Protist.internal|Protist.internal]] 
 
-### #is_/same_as :: [Protist.protect](/_protect/bio/bio~Domain/Eukarya/Protist.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Protist.protect|Protist.protect]] 
 
-### #is_/same_as :: [Protist.private](/_private/bio/bio~Domain/Eukarya/Protist.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Protist.private|Protist.private]] 
 
-### #is_/same_as :: [Protist.personal](/_personal/bio/bio~Domain/Eukarya/Protist.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Protist.personal|Protist.personal]] 
 
-### #is_/same_as :: [Protist.secret](/_secret/bio/bio~Domain/Eukarya/Protist.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Protist.secret|Protist.secret]] 
 

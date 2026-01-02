@@ -41,17 +41,17 @@ OpenStreetMap_tag_or_key: Tag:building=granary
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Granary](/_Standards/Society/Economics/Industry/Agriculture/Farm/Granary.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Industry/Agriculture/Farm/Granary|Granary]] 
 
-### #is_/same_as :: [Granary.public](/_public/Society/Economics/Industry/Agriculture/Farm/Granary.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Industry/Agriculture/Farm/Granary.public|Granary.public]] 
 
-### #is_/same_as :: [Granary.internal](/_internal/Society/Economics/Industry/Agriculture/Farm/Granary.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Industry/Agriculture/Farm/Granary.internal|Granary.internal]] 
 
-### #is_/same_as :: [Granary.protect](/_protect/Society/Economics/Industry/Agriculture/Farm/Granary.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Industry/Agriculture/Farm/Granary.protect|Granary.protect]] 
 
-### #is_/same_as :: [Granary.private](/_private/Society/Economics/Industry/Agriculture/Farm/Granary.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Industry/Agriculture/Farm/Granary.private|Granary.private]] 
 
-### #is_/same_as :: [Granary.personal](/_personal/Society/Economics/Industry/Agriculture/Farm/Granary.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Industry/Agriculture/Farm/Granary.personal|Granary.personal]] 
 
-### #is_/same_as :: [Granary.secret](/_secret/Society/Economics/Industry/Agriculture/Farm/Granary.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Industry/Agriculture/Farm/Granary.secret|Granary.secret]] 
 

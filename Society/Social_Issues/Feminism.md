@@ -141,17 +141,17 @@ WordLift_URL: http://data.thenextweb.com/tnw/entity/feminism
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Feminism](/_Standards/Society/Social_Issues/Feminism.md) 
+### #is_/same_as :: [[/_Standards/Society/Social_Issues/Feminism|Feminism]] 
 
-### #is_/same_as :: [Feminism.public](/_public/Society/Social_Issues/Feminism.public.md) 
+### #is_/same_as :: [[/_public/Society/Social_Issues/Feminism.public|Feminism.public]] 
 
-### #is_/same_as :: [Feminism.internal](/_internal/Society/Social_Issues/Feminism.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Social_Issues/Feminism.internal|Feminism.internal]] 
 
-### #is_/same_as :: [Feminism.protect](/_protect/Society/Social_Issues/Feminism.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Social_Issues/Feminism.protect|Feminism.protect]] 
 
-### #is_/same_as :: [Feminism.private](/_private/Society/Social_Issues/Feminism.private.md) 
+### #is_/same_as :: [[/_private/Society/Social_Issues/Feminism.private|Feminism.private]] 
 
-### #is_/same_as :: [Feminism.personal](/_personal/Society/Social_Issues/Feminism.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Social_Issues/Feminism.personal|Feminism.personal]] 
 
-### #is_/same_as :: [Feminism.secret](/_secret/Society/Social_Issues/Feminism.secret.md)
+### #is_/same_as :: [[/_secret/Society/Social_Issues/Feminism.secret|Feminism.secret]] 
 

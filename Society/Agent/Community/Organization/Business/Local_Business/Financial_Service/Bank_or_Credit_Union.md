@@ -41,17 +41,17 @@ Bank or credit union.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bank_or_Credit_Union](/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Financial_Service/Bank_or_Credit_Union.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Financial_Service/Bank_or_Credit_Union|Bank_or_Credit_Union]] 
 
-### #is_/same_as :: [Bank_or_Credit_Union.public](/_public/Society/Agent/Community/Organization/Business/Local_Business/Financial_Service/Bank_or_Credit_Union.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Business/Local_Business/Financial_Service/Bank_or_Credit_Union.public|Bank_or_Credit_Union.public]] 
 
-### #is_/same_as :: [Bank_or_Credit_Union.internal](/_internal/Society/Agent/Community/Organization/Business/Local_Business/Financial_Service/Bank_or_Credit_Union.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Business/Local_Business/Financial_Service/Bank_or_Credit_Union.internal|Bank_or_Credit_Union.internal]] 
 
-### #is_/same_as :: [Bank_or_Credit_Union.protect](/_protect/Society/Agent/Community/Organization/Business/Local_Business/Financial_Service/Bank_or_Credit_Union.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Business/Local_Business/Financial_Service/Bank_or_Credit_Union.protect|Bank_or_Credit_Union.protect]] 
 
-### #is_/same_as :: [Bank_or_Credit_Union.private](/_private/Society/Agent/Community/Organization/Business/Local_Business/Financial_Service/Bank_or_Credit_Union.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Business/Local_Business/Financial_Service/Bank_or_Credit_Union.private|Bank_or_Credit_Union.private]] 
 
-### #is_/same_as :: [Bank_or_Credit_Union.personal](/_personal/Society/Agent/Community/Organization/Business/Local_Business/Financial_Service/Bank_or_Credit_Union.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Business/Local_Business/Financial_Service/Bank_or_Credit_Union.personal|Bank_or_Credit_Union.personal]] 
 
-### #is_/same_as :: [Bank_or_Credit_Union.secret](/_secret/Society/Agent/Community/Organization/Business/Local_Business/Financial_Service/Bank_or_Credit_Union.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Business/Local_Business/Financial_Service/Bank_or_Credit_Union.secret|Bank_or_Credit_Union.secret]] 
 

@@ -59,7 +59,7 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/BennyTrapp%20Chamaeleo
 ## Title Illustrations
 
 ------------------------------------------------------------------------- 
-![Calystegia dahurica](Solanales/Calystegia_dahurica.jpg))
+![Calystegia dahurica](Solanales/Calystegia_dahurica.jpg) 
 Scientific Name ::     Calystegia dahurica
 Location ::           Vladivostok city, Primorsky Territory (Russian Federation).
 Comments             Convolvulaceae
@@ -68,7 +68,7 @@ Source Collection    [CalPhotos](http://calphotos.berkeley.edu/)
 Copyright ::            © 1999 [Nick Kurzenko](mailto:kurzenko@ibss.dvo.ru) 
 
 ------------------------------------------------------------------------------ 
-![Yellow nightshade groundcherry, Physalis crassifolia](Solanales/Physalis_crassifolia.jpg))
+![Yellow nightshade groundcherry, Physalis crassifolia](Solanales/Physalis_crassifolia.jpg) 
 Scientific Name ::     Physalis crassifolia
 Location ::           Anza Borrego Desert State Park (San Diego County, California, USA).
 Comments             Yellow nightshade groundcherry (Solanaceae).
@@ -80,17 +80,17 @@ Copyright ::            © 1999 [California Academy of Sciences](http://www.cala
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Solanales](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Solanales.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Solanales|Solanales]] 
 
-### #is_/same_as :: [Solanales.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Solanales.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Solanales.public|Solanales.public]] 
 
-### #is_/same_as :: [Solanales.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Solanales.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Solanales.internal|Solanales.internal]] 
 
-### #is_/same_as :: [Solanales.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Solanales.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Solanales.protect|Solanales.protect]] 
 
-### #is_/same_as :: [Solanales.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Solanales.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Solanales.private|Solanales.private]] 
 
-### #is_/same_as :: [Solanales.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Solanales.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Solanales.personal|Solanales.personal]] 
 
-### #is_/same_as :: [Solanales.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Solanales.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Solanales.secret|Solanales.secret]] 
 

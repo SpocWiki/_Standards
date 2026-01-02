@@ -89,17 +89,17 @@ U_S_National_Archives_Identifier: 10638171
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Mass_Media](/_Standards/Society/Communication/Media/Mass_Media.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Mass_Media|Mass_Media]] 
 
-### #is_/same_as :: [Mass_Media.public](/_public/Society/Communication/Media/Mass_Media.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Mass_Media.public|Mass_Media.public]] 
 
-### #is_/same_as :: [Mass_Media.internal](/_internal/Society/Communication/Media/Mass_Media.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Mass_Media.internal|Mass_Media.internal]] 
 
-### #is_/same_as :: [Mass_Media.protect](/_protect/Society/Communication/Media/Mass_Media.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Mass_Media.protect|Mass_Media.protect]] 
 
-### #is_/same_as :: [Mass_Media.private](/_private/Society/Communication/Media/Mass_Media.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Mass_Media.private|Mass_Media.private]] 
 
-### #is_/same_as :: [Mass_Media.personal](/_personal/Society/Communication/Media/Mass_Media.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Mass_Media.personal|Mass_Media.personal]] 
 
-### #is_/same_as :: [Mass_Media.secret](/_secret/Society/Communication/Media/Mass_Media.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Mass_Media.secret|Mass_Media.secret]] 
 

@@ -46,17 +46,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_legislation_responsible](/_Standards/schema-org/Relation/has/has_legislation_responsible.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_legislation_responsible|has_legislation_responsible]] 
 
-### #is_/same_as :: [has_legislation_responsible.public](/_public/schema-org/Relation/has/has_legislation_responsible.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_legislation_responsible.public|has_legislation_responsible.public]] 
 
-### #is_/same_as :: [has_legislation_responsible.internal](/_internal/schema-org/Relation/has/has_legislation_responsible.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_legislation_responsible.internal|has_legislation_responsible.internal]] 
 
-### #is_/same_as :: [has_legislation_responsible.protect](/_protect/schema-org/Relation/has/has_legislation_responsible.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_legislation_responsible.protect|has_legislation_responsible.protect]] 
 
-### #is_/same_as :: [has_legislation_responsible.private](/_private/schema-org/Relation/has/has_legislation_responsible.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_legislation_responsible.private|has_legislation_responsible.private]] 
 
-### #is_/same_as :: [has_legislation_responsible.personal](/_personal/schema-org/Relation/has/has_legislation_responsible.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_legislation_responsible.personal|has_legislation_responsible.personal]] 
 
-### #is_/same_as :: [has_legislation_responsible.secret](/_secret/schema-org/Relation/has/has_legislation_responsible.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_legislation_responsible.secret|has_legislation_responsible.secret]] 
 

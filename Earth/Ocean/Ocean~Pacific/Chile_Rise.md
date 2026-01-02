@@ -31,17 +31,17 @@ coordinate_location: Point(-94.0 -43.0)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Chile_Rise](/_Standards/Earth/Ocean/Ocean~Pacific/Chile_Rise.md) 
+### #is_/same_as :: [[/_Standards/Earth/Ocean/Ocean~Pacific/Chile_Rise|Chile_Rise]] 
 
-### #is_/same_as :: [Chile_Rise.public](/_public/Earth/Ocean/Ocean~Pacific/Chile_Rise.public.md) 
+### #is_/same_as :: [[/_public/Earth/Ocean/Ocean~Pacific/Chile_Rise.public|Chile_Rise.public]] 
 
-### #is_/same_as :: [Chile_Rise.internal](/_internal/Earth/Ocean/Ocean~Pacific/Chile_Rise.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Ocean/Ocean~Pacific/Chile_Rise.internal|Chile_Rise.internal]] 
 
-### #is_/same_as :: [Chile_Rise.protect](/_protect/Earth/Ocean/Ocean~Pacific/Chile_Rise.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Ocean/Ocean~Pacific/Chile_Rise.protect|Chile_Rise.protect]] 
 
-### #is_/same_as :: [Chile_Rise.private](/_private/Earth/Ocean/Ocean~Pacific/Chile_Rise.private.md) 
+### #is_/same_as :: [[/_private/Earth/Ocean/Ocean~Pacific/Chile_Rise.private|Chile_Rise.private]] 
 
-### #is_/same_as :: [Chile_Rise.personal](/_personal/Earth/Ocean/Ocean~Pacific/Chile_Rise.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Ocean/Ocean~Pacific/Chile_Rise.personal|Chile_Rise.personal]] 
 
-### #is_/same_as :: [Chile_Rise.secret](/_secret/Earth/Ocean/Ocean~Pacific/Chile_Rise.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Ocean/Ocean~Pacific/Chile_Rise.secret|Chile_Rise.secret]] 
 

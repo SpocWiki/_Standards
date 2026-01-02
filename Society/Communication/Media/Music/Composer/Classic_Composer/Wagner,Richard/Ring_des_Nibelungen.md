@@ -79,17 +79,17 @@ Commons_category: Der Ring des Nibelungen
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ring_des_Nibelungen](/_Standards/Society/Communication/Media/Music/Composer/Classic_Composer/Wagner,Richard/Ring_des_Nibelungen.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Composer/Classic_Composer/Wagner,Richard/Ring_des_Nibelungen|Ring_des_Nibelungen]] 
 
-### #is_/same_as :: [Ring_des_Nibelungen.public](/_public/Society/Communication/Media/Music/Composer/Classic_Composer/Wagner,Richard/Ring_des_Nibelungen.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Composer/Classic_Composer/Wagner,Richard/Ring_des_Nibelungen.public|Ring_des_Nibelungen.public]] 
 
-### #is_/same_as :: [Ring_des_Nibelungen.internal](/_internal/Society/Communication/Media/Music/Composer/Classic_Composer/Wagner,Richard/Ring_des_Nibelungen.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Composer/Classic_Composer/Wagner,Richard/Ring_des_Nibelungen.internal|Ring_des_Nibelungen.internal]] 
 
-### #is_/same_as :: [Ring_des_Nibelungen.protect](/_protect/Society/Communication/Media/Music/Composer/Classic_Composer/Wagner,Richard/Ring_des_Nibelungen.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Composer/Classic_Composer/Wagner,Richard/Ring_des_Nibelungen.protect|Ring_des_Nibelungen.protect]] 
 
-### #is_/same_as :: [Ring_des_Nibelungen.private](/_private/Society/Communication/Media/Music/Composer/Classic_Composer/Wagner,Richard/Ring_des_Nibelungen.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Composer/Classic_Composer/Wagner,Richard/Ring_des_Nibelungen.private|Ring_des_Nibelungen.private]] 
 
-### #is_/same_as :: [Ring_des_Nibelungen.personal](/_personal/Society/Communication/Media/Music/Composer/Classic_Composer/Wagner,Richard/Ring_des_Nibelungen.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Composer/Classic_Composer/Wagner,Richard/Ring_des_Nibelungen.personal|Ring_des_Nibelungen.personal]] 
 
-### #is_/same_as :: [Ring_des_Nibelungen.secret](/_secret/Society/Communication/Media/Music/Composer/Classic_Composer/Wagner,Richard/Ring_des_Nibelungen.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Composer/Classic_Composer/Wagner,Richard/Ring_des_Nibelungen.secret|Ring_des_Nibelungen.secret]] 
 

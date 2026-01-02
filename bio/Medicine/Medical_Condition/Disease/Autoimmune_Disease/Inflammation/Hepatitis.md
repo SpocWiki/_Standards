@@ -116,17 +116,17 @@ MeSH_tree_code: C06.552.380
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hepatitis](/_Standards/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Inflammation/Hepatitis.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Inflammation/Hepatitis|Hepatitis]] 
 
-### #is_/same_as :: [Hepatitis.public](/_public/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Inflammation/Hepatitis.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Inflammation/Hepatitis.public|Hepatitis.public]] 
 
-### #is_/same_as :: [Hepatitis.internal](/_internal/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Inflammation/Hepatitis.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Inflammation/Hepatitis.internal|Hepatitis.internal]] 
 
-### #is_/same_as :: [Hepatitis.protect](/_protect/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Inflammation/Hepatitis.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Inflammation/Hepatitis.protect|Hepatitis.protect]] 
 
-### #is_/same_as :: [Hepatitis.private](/_private/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Inflammation/Hepatitis.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Inflammation/Hepatitis.private|Hepatitis.private]] 
 
-### #is_/same_as :: [Hepatitis.personal](/_personal/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Inflammation/Hepatitis.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Inflammation/Hepatitis.personal|Hepatitis.personal]] 
 
-### #is_/same_as :: [Hepatitis.secret](/_secret/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Inflammation/Hepatitis.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Inflammation/Hepatitis.secret|Hepatitis.secret]] 
 

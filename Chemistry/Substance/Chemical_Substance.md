@@ -105,17 +105,17 @@ composed of molecular entities of the same type or of different types' (source: 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Chemical_Substance](/_Standards/Chemistry/Substance/Chemical_Substance.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Substance/Chemical_Substance|Chemical_Substance]] 
 
-### #is_/same_as :: [Chemical_Substance.public](/_public/Chemistry/Substance/Chemical_Substance.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Substance/Chemical_Substance.public|Chemical_Substance.public]] 
 
-### #is_/same_as :: [Chemical_Substance.internal](/_internal/Chemistry/Substance/Chemical_Substance.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Substance/Chemical_Substance.internal|Chemical_Substance.internal]] 
 
-### #is_/same_as :: [Chemical_Substance.protect](/_protect/Chemistry/Substance/Chemical_Substance.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Substance/Chemical_Substance.protect|Chemical_Substance.protect]] 
 
-### #is_/same_as :: [Chemical_Substance.private](/_private/Chemistry/Substance/Chemical_Substance.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Substance/Chemical_Substance.private|Chemical_Substance.private]] 
 
-### #is_/same_as :: [Chemical_Substance.personal](/_personal/Chemistry/Substance/Chemical_Substance.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Substance/Chemical_Substance.personal|Chemical_Substance.personal]] 
 
-### #is_/same_as :: [Chemical_Substance.secret](/_secret/Chemistry/Substance/Chemical_Substance.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Substance/Chemical_Substance.secret|Chemical_Substance.secret]] 
 

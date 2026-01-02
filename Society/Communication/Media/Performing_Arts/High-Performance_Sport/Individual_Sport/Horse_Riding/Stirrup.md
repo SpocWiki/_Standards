@@ -34,17 +34,17 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Estribos%20argentinos%
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Stirrup](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Horse_Riding/Stirrup.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Horse_Riding/Stirrup|Stirrup]] 
 
-### #is_/same_as :: [Stirrup.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Horse_Riding/Stirrup.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Horse_Riding/Stirrup.public|Stirrup.public]] 
 
-### #is_/same_as :: [Stirrup.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Horse_Riding/Stirrup.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Horse_Riding/Stirrup.internal|Stirrup.internal]] 
 
-### #is_/same_as :: [Stirrup.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Horse_Riding/Stirrup.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Horse_Riding/Stirrup.protect|Stirrup.protect]] 
 
-### #is_/same_as :: [Stirrup.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Horse_Riding/Stirrup.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Horse_Riding/Stirrup.private|Stirrup.private]] 
 
-### #is_/same_as :: [Stirrup.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Horse_Riding/Stirrup.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Horse_Riding/Stirrup.personal|Stirrup.personal]] 
 
-### #is_/same_as :: [Stirrup.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Horse_Riding/Stirrup.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Horse_Riding/Stirrup.secret|Stirrup.secret]] 
 

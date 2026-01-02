@@ -48,17 +48,17 @@ U_S_National_Archives_Identifier: 10638452
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Malnutrition](/_Standards/bio/Metabolism/Nutrition/Malnutrition.md) 
+### #is_/same_as :: [[/_Standards/bio/Metabolism/Nutrition/Malnutrition|Malnutrition]] 
 
-### #is_/same_as :: [Malnutrition.public](/_public/bio/Metabolism/Nutrition/Malnutrition.public.md) 
+### #is_/same_as :: [[/_public/bio/Metabolism/Nutrition/Malnutrition.public|Malnutrition.public]] 
 
-### #is_/same_as :: [Malnutrition.internal](/_internal/bio/Metabolism/Nutrition/Malnutrition.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Metabolism/Nutrition/Malnutrition.internal|Malnutrition.internal]] 
 
-### #is_/same_as :: [Malnutrition.protect](/_protect/bio/Metabolism/Nutrition/Malnutrition.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Metabolism/Nutrition/Malnutrition.protect|Malnutrition.protect]] 
 
-### #is_/same_as :: [Malnutrition.private](/_private/bio/Metabolism/Nutrition/Malnutrition.private.md) 
+### #is_/same_as :: [[/_private/bio/Metabolism/Nutrition/Malnutrition.private|Malnutrition.private]] 
 
-### #is_/same_as :: [Malnutrition.personal](/_personal/bio/Metabolism/Nutrition/Malnutrition.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Metabolism/Nutrition/Malnutrition.personal|Malnutrition.personal]] 
 
-### #is_/same_as :: [Malnutrition.secret](/_secret/bio/Metabolism/Nutrition/Malnutrition.secret.md)
+### #is_/same_as :: [[/_secret/bio/Metabolism/Nutrition/Malnutrition.secret|Malnutrition.secret]] 
 

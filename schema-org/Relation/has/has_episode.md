@@ -41,17 +41,17 @@ Use it like this:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_episode](/_Standards/schema-org/Relation/has/has_episode.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_episode|has_episode]] 
 
-### #is_/same_as :: [has_episode.public](/_public/schema-org/Relation/has/has_episode.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_episode.public|has_episode.public]] 
 
-### #is_/same_as :: [has_episode.internal](/_internal/schema-org/Relation/has/has_episode.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_episode.internal|has_episode.internal]] 
 
-### #is_/same_as :: [has_episode.protect](/_protect/schema-org/Relation/has/has_episode.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_episode.protect|has_episode.protect]] 
 
-### #is_/same_as :: [has_episode.private](/_private/schema-org/Relation/has/has_episode.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_episode.private|has_episode.private]] 
 
-### #is_/same_as :: [has_episode.personal](/_personal/schema-org/Relation/has/has_episode.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_episode.personal|has_episode.personal]] 
 
-### #is_/same_as :: [has_episode.secret](/_secret/schema-org/Relation/has/has_episode.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_episode.secret|has_episode.secret]] 
 

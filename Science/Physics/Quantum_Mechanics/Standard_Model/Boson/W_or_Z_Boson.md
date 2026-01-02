@@ -82,17 +82,17 @@ Commons_category: W and Z bosons
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [W_or_Z_Boson](/_Standards/Science/Physics/Quantum_Mechanics/Standard_Model/Boson/W_or_Z_Boson.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Quantum_Mechanics/Standard_Model/Boson/W_or_Z_Boson|W_or_Z_Boson]] 
 
-### #is_/same_as :: [W_or_Z_Boson.public](/_public/Science/Physics/Quantum_Mechanics/Standard_Model/Boson/W_or_Z_Boson.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Quantum_Mechanics/Standard_Model/Boson/W_or_Z_Boson.public|W_or_Z_Boson.public]] 
 
-### #is_/same_as :: [W_or_Z_Boson.internal](/_internal/Science/Physics/Quantum_Mechanics/Standard_Model/Boson/W_or_Z_Boson.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Quantum_Mechanics/Standard_Model/Boson/W_or_Z_Boson.internal|W_or_Z_Boson.internal]] 
 
-### #is_/same_as :: [W_or_Z_Boson.protect](/_protect/Science/Physics/Quantum_Mechanics/Standard_Model/Boson/W_or_Z_Boson.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Quantum_Mechanics/Standard_Model/Boson/W_or_Z_Boson.protect|W_or_Z_Boson.protect]] 
 
-### #is_/same_as :: [W_or_Z_Boson.private](/_private/Science/Physics/Quantum_Mechanics/Standard_Model/Boson/W_or_Z_Boson.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Quantum_Mechanics/Standard_Model/Boson/W_or_Z_Boson.private|W_or_Z_Boson.private]] 
 
-### #is_/same_as :: [W_or_Z_Boson.personal](/_personal/Science/Physics/Quantum_Mechanics/Standard_Model/Boson/W_or_Z_Boson.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Quantum_Mechanics/Standard_Model/Boson/W_or_Z_Boson.personal|W_or_Z_Boson.personal]] 
 
-### #is_/same_as :: [W_or_Z_Boson.secret](/_secret/Science/Physics/Quantum_Mechanics/Standard_Model/Boson/W_or_Z_Boson.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Quantum_Mechanics/Standard_Model/Boson/W_or_Z_Boson.secret|W_or_Z_Boson.secret]] 
 

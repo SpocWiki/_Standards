@@ -57,17 +57,17 @@ zusammen mit [Benny Schnier](https://de.wikipedia.org/wiki/Benny_Schnier "Benny
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Engelke,Anke](/_Standards/Society/Communication/Media/Movie/Actor/German_Actor/Engelke,Anke.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Actor/German_Actor/Engelke,Anke|Engelke,Anke]] 
 
-### #is_/same_as :: [Engelke,Anke.public](/_public/Society/Communication/Media/Movie/Actor/German_Actor/Engelke,Anke.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Actor/German_Actor/Engelke,Anke.public|Engelke,Anke.public]] 
 
-### #is_/same_as :: [Engelke,Anke.internal](/_internal/Society/Communication/Media/Movie/Actor/German_Actor/Engelke,Anke.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Actor/German_Actor/Engelke,Anke.internal|Engelke,Anke.internal]] 
 
-### #is_/same_as :: [Engelke,Anke.protect](/_protect/Society/Communication/Media/Movie/Actor/German_Actor/Engelke,Anke.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Actor/German_Actor/Engelke,Anke.protect|Engelke,Anke.protect]] 
 
-### #is_/same_as :: [Engelke,Anke.private](/_private/Society/Communication/Media/Movie/Actor/German_Actor/Engelke,Anke.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Actor/German_Actor/Engelke,Anke.private|Engelke,Anke.private]] 
 
-### #is_/same_as :: [Engelke,Anke.personal](/_personal/Society/Communication/Media/Movie/Actor/German_Actor/Engelke,Anke.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Actor/German_Actor/Engelke,Anke.personal|Engelke,Anke.personal]] 
 
-### #is_/same_as :: [Engelke,Anke.secret](/_secret/Society/Communication/Media/Movie/Actor/German_Actor/Engelke,Anke.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Actor/German_Actor/Engelke,Anke.secret|Engelke,Anke.secret]] 
 

@@ -69,17 +69,17 @@ ByArtist:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thin
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~MusicAlbum](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MusicPlaylist/FileClass~MusicAlbum.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MusicPlaylist/FileClass~MusicAlbum|FileClass~MusicAlbum]] 
 
-### #is_/same_as :: [FileClass~MusicAlbum.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MusicPlaylist/FileClass~MusicAlbum.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MusicPlaylist/FileClass~MusicAlbum.public|FileClass~MusicAlbum.public]] 
 
-### #is_/same_as :: [FileClass~MusicAlbum.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MusicPlaylist/FileClass~MusicAlbum.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MusicPlaylist/FileClass~MusicAlbum.internal|FileClass~MusicAlbum.internal]] 
 
-### #is_/same_as :: [FileClass~MusicAlbum.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MusicPlaylist/FileClass~MusicAlbum.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MusicPlaylist/FileClass~MusicAlbum.protect|FileClass~MusicAlbum.protect]] 
 
-### #is_/same_as :: [FileClass~MusicAlbum.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MusicPlaylist/FileClass~MusicAlbum.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MusicPlaylist/FileClass~MusicAlbum.private|FileClass~MusicAlbum.private]] 
 
-### #is_/same_as :: [FileClass~MusicAlbum.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MusicPlaylist/FileClass~MusicAlbum.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MusicPlaylist/FileClass~MusicAlbum.personal|FileClass~MusicAlbum.personal]] 
 
-### #is_/same_as :: [FileClass~MusicAlbum.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MusicPlaylist/FileClass~MusicAlbum.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MusicPlaylist/FileClass~MusicAlbum.secret|FileClass~MusicAlbum.secret]] 
 

@@ -34,17 +34,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Solow–Swan_model](/_Standards/Society/Economics/Economic_Model/Solow–Swan_model.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Economic_Model/Solow–Swan_model|Solow–Swan_model]] 
 
-### #is_/same_as :: [Solow–Swan_model.public](/_public/Society/Economics/Economic_Model/Solow–Swan_model.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Economic_Model/Solow–Swan_model.public|Solow–Swan_model.public]] 
 
-### #is_/same_as :: [Solow–Swan_model.internal](/_internal/Society/Economics/Economic_Model/Solow–Swan_model.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Economic_Model/Solow–Swan_model.internal|Solow–Swan_model.internal]] 
 
-### #is_/same_as :: [Solow–Swan_model.protect](/_protect/Society/Economics/Economic_Model/Solow–Swan_model.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Economic_Model/Solow–Swan_model.protect|Solow–Swan_model.protect]] 
 
-### #is_/same_as :: [Solow–Swan_model.private](/_private/Society/Economics/Economic_Model/Solow–Swan_model.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Economic_Model/Solow–Swan_model.private|Solow–Swan_model.private]] 
 
-### #is_/same_as :: [Solow–Swan_model.personal](/_personal/Society/Economics/Economic_Model/Solow–Swan_model.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Economic_Model/Solow–Swan_model.personal|Solow–Swan_model.personal]] 
 
-### #is_/same_as :: [Solow–Swan_model.secret](/_secret/Society/Economics/Economic_Model/Solow–Swan_model.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Economic_Model/Solow–Swan_model.secret|Solow–Swan_model.secret]] 
 

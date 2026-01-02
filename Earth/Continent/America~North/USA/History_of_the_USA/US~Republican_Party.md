@@ -63,3 +63,22 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Republican%20Party%20(United%20States))
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~North/USA/History_of_the_USA/US~Republican_Party|US~Republican_Party]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/America~North/USA/History_of_the_USA/US~Republican_Party.public|US~Republican_Party.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/America~North/USA/History_of_the_USA/US~Republican_Party.internal|US~Republican_Party.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/America~North/USA/History_of_the_USA/US~Republican_Party.protect|US~Republican_Party.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/America~North/USA/History_of_the_USA/US~Republican_Party.private|US~Republican_Party.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/America~North/USA/History_of_the_USA/US~Republican_Party.personal|US~Republican_Party.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/America~North/USA/History_of_the_USA/US~Republican_Party.secret|US~Republican_Party.secret]] 
+

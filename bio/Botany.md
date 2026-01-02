@@ -93,17 +93,17 @@ Krugosvet_article: nauka_i_tehnika/biologiya/BOTANIKA.html
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Botany](/_Standards/bio/Botany.md) 
+### #is_/same_as :: [[/_Standards/bio/Botany|Botany]] 
 
-### #is_/same_as :: [Botany.public](/_public/bio/Botany.public.md) 
+### #is_/same_as :: [[/_public/bio/Botany.public|Botany.public]] 
 
-### #is_/same_as :: [Botany.internal](/_internal/bio/Botany.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Botany.internal|Botany.internal]] 
 
-### #is_/same_as :: [Botany.protect](/_protect/bio/Botany.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Botany.protect|Botany.protect]] 
 
-### #is_/same_as :: [Botany.private](/_private/bio/Botany.private.md) 
+### #is_/same_as :: [[/_private/bio/Botany.private|Botany.private]] 
 
-### #is_/same_as :: [Botany.personal](/_personal/bio/Botany.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Botany.personal|Botany.personal]] 
 
-### #is_/same_as :: [Botany.secret](/_secret/bio/Botany.secret.md)
+### #is_/same_as :: [[/_secret/bio/Botany.secret|Botany.secret]] 
 

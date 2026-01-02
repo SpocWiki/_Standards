@@ -71,17 +71,17 @@ nickname: father of the Spreadsheet
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bricklin,Dan](/_Standards/Technology/IT/Computer_Science/Computer_Scientist/Bricklin,Dan.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Computer_Science/Computer_Scientist/Bricklin,Dan|Bricklin,Dan]] 
 
-### #is_/same_as :: [Bricklin,Dan.public](/_public/Technology/IT/Computer_Science/Computer_Scientist/Bricklin,Dan.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Computer_Science/Computer_Scientist/Bricklin,Dan.public|Bricklin,Dan.public]] 
 
-### #is_/same_as :: [Bricklin,Dan.internal](/_internal/Technology/IT/Computer_Science/Computer_Scientist/Bricklin,Dan.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Computer_Science/Computer_Scientist/Bricklin,Dan.internal|Bricklin,Dan.internal]] 
 
-### #is_/same_as :: [Bricklin,Dan.protect](/_protect/Technology/IT/Computer_Science/Computer_Scientist/Bricklin,Dan.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Computer_Science/Computer_Scientist/Bricklin,Dan.protect|Bricklin,Dan.protect]] 
 
-### #is_/same_as :: [Bricklin,Dan.private](/_private/Technology/IT/Computer_Science/Computer_Scientist/Bricklin,Dan.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Computer_Science/Computer_Scientist/Bricklin,Dan.private|Bricklin,Dan.private]] 
 
-### #is_/same_as :: [Bricklin,Dan.personal](/_personal/Technology/IT/Computer_Science/Computer_Scientist/Bricklin,Dan.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Computer_Science/Computer_Scientist/Bricklin,Dan.personal|Bricklin,Dan.personal]] 
 
-### #is_/same_as :: [Bricklin,Dan.secret](/_secret/Technology/IT/Computer_Science/Computer_Scientist/Bricklin,Dan.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Computer_Science/Computer_Scientist/Bricklin,Dan.secret|Bricklin,Dan.secret]] 
 

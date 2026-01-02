@@ -37,17 +37,17 @@ A body of water, such as a sea, ocean, or lake.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~BodyOfWater](/_Standards/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~BodyOfWater.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~BodyOfWater|FileClass~BodyOfWater]] 
 
-### #is_/same_as :: [FileClass~BodyOfWater.public](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~BodyOfWater.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~BodyOfWater.public|FileClass~BodyOfWater.public]] 
 
-### #is_/same_as :: [FileClass~BodyOfWater.internal](/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~BodyOfWater.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~BodyOfWater.internal|FileClass~BodyOfWater.internal]] 
 
-### #is_/same_as :: [FileClass~BodyOfWater.protect](/_protect/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~BodyOfWater.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~BodyOfWater.protect|FileClass~BodyOfWater.protect]] 
 
-### #is_/same_as :: [FileClass~BodyOfWater.private](/_private/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~BodyOfWater.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~BodyOfWater.private|FileClass~BodyOfWater.private]] 
 
-### #is_/same_as :: [FileClass~BodyOfWater.personal](/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~BodyOfWater.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~BodyOfWater.personal|FileClass~BodyOfWater.personal]] 
 
-### #is_/same_as :: [FileClass~BodyOfWater.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~BodyOfWater.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~BodyOfWater.secret|FileClass~BodyOfWater.secret]] 
 

@@ -59,17 +59,17 @@ Formal Predicate:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_time_to_end](/_Standards/schema-org/Property/has_Date_Time/has_time_to_end.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_Date_Time/has_time_to_end|has_time_to_end]] 
 
-### #is_/same_as :: [has_time_to_end.public](/_public/schema-org/Property/has_Date_Time/has_time_to_end.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/has_Date_Time/has_time_to_end.public|has_time_to_end.public]] 
 
-### #is_/same_as :: [has_time_to_end.internal](/_internal/schema-org/Property/has_Date_Time/has_time_to_end.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_Date_Time/has_time_to_end.internal|has_time_to_end.internal]] 
 
-### #is_/same_as :: [has_time_to_end.protect](/_protect/schema-org/Property/has_Date_Time/has_time_to_end.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_Date_Time/has_time_to_end.protect|has_time_to_end.protect]] 
 
-### #is_/same_as :: [has_time_to_end.private](/_private/schema-org/Property/has_Date_Time/has_time_to_end.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/has_Date_Time/has_time_to_end.private|has_time_to_end.private]] 
 
-### #is_/same_as :: [has_time_to_end.personal](/_personal/schema-org/Property/has_Date_Time/has_time_to_end.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_Date_Time/has_time_to_end.personal|has_time_to_end.personal]] 
 
-### #is_/same_as :: [has_time_to_end.secret](/_secret/schema-org/Property/has_Date_Time/has_time_to_end.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/has_Date_Time/has_time_to_end.secret|has_time_to_end.secret]] 
 

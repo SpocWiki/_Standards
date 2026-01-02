@@ -21,17 +21,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Nonmetal](/_Standards/Chemistry/Material/Metallurgy/Nonmetal.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Material/Metallurgy/Nonmetal|Nonmetal]] 
 
-### #is_/same_as :: [Nonmetal.public](/_public/Chemistry/Material/Metallurgy/Nonmetal.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Material/Metallurgy/Nonmetal.public|Nonmetal.public]] 
 
-### #is_/same_as :: [Nonmetal.internal](/_internal/Chemistry/Material/Metallurgy/Nonmetal.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Material/Metallurgy/Nonmetal.internal|Nonmetal.internal]] 
 
-### #is_/same_as :: [Nonmetal.protect](/_protect/Chemistry/Material/Metallurgy/Nonmetal.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Material/Metallurgy/Nonmetal.protect|Nonmetal.protect]] 
 
-### #is_/same_as :: [Nonmetal.private](/_private/Chemistry/Material/Metallurgy/Nonmetal.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Material/Metallurgy/Nonmetal.private|Nonmetal.private]] 
 
-### #is_/same_as :: [Nonmetal.personal](/_personal/Chemistry/Material/Metallurgy/Nonmetal.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Material/Metallurgy/Nonmetal.personal|Nonmetal.personal]] 
 
-### #is_/same_as :: [Nonmetal.secret](/_secret/Chemistry/Material/Metallurgy/Nonmetal.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Material/Metallurgy/Nonmetal.secret|Nonmetal.secret]] 
 

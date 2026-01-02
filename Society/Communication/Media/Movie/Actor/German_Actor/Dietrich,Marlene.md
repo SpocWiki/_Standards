@@ -174,17 +174,17 @@ writing_language: '[[_Standards/WikiData/WD~German,188]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Dietrich,Marlene](/_Standards/Society/Communication/Media/Movie/Actor/German_Actor/Dietrich,Marlene.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Actor/German_Actor/Dietrich,Marlene|Dietrich,Marlene]] 
 
-### #is_/same_as :: [Dietrich,Marlene.public](/_public/Society/Communication/Media/Movie/Actor/German_Actor/Dietrich,Marlene.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Actor/German_Actor/Dietrich,Marlene.public|Dietrich,Marlene.public]] 
 
-### #is_/same_as :: [Dietrich,Marlene.internal](/_internal/Society/Communication/Media/Movie/Actor/German_Actor/Dietrich,Marlene.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Actor/German_Actor/Dietrich,Marlene.internal|Dietrich,Marlene.internal]] 
 
-### #is_/same_as :: [Dietrich,Marlene.protect](/_protect/Society/Communication/Media/Movie/Actor/German_Actor/Dietrich,Marlene.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Actor/German_Actor/Dietrich,Marlene.protect|Dietrich,Marlene.protect]] 
 
-### #is_/same_as :: [Dietrich,Marlene.private](/_private/Society/Communication/Media/Movie/Actor/German_Actor/Dietrich,Marlene.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Actor/German_Actor/Dietrich,Marlene.private|Dietrich,Marlene.private]] 
 
-### #is_/same_as :: [Dietrich,Marlene.personal](/_personal/Society/Communication/Media/Movie/Actor/German_Actor/Dietrich,Marlene.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Actor/German_Actor/Dietrich,Marlene.personal|Dietrich,Marlene.personal]] 
 
-### #is_/same_as :: [Dietrich,Marlene.secret](/_secret/Society/Communication/Media/Movie/Actor/German_Actor/Dietrich,Marlene.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Actor/German_Actor/Dietrich,Marlene.secret|Dietrich,Marlene.secret]] 
 

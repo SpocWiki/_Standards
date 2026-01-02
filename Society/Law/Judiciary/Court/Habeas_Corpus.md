@@ -56,17 +56,17 @@ APA_Dictionary_of_Psychology_entry: habeas-corpus
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Habeas_Corpus](/_Standards/Society/Law/Judiciary/Court/Habeas_Corpus.md) 
+### #is_/same_as :: [[/_Standards/Society/Law/Judiciary/Court/Habeas_Corpus|Habeas_Corpus]] 
 
-### #is_/same_as :: [Habeas_Corpus.public](/_public/Society/Law/Judiciary/Court/Habeas_Corpus.public.md) 
+### #is_/same_as :: [[/_public/Society/Law/Judiciary/Court/Habeas_Corpus.public|Habeas_Corpus.public]] 
 
-### #is_/same_as :: [Habeas_Corpus.internal](/_internal/Society/Law/Judiciary/Court/Habeas_Corpus.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Law/Judiciary/Court/Habeas_Corpus.internal|Habeas_Corpus.internal]] 
 
-### #is_/same_as :: [Habeas_Corpus.protect](/_protect/Society/Law/Judiciary/Court/Habeas_Corpus.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Law/Judiciary/Court/Habeas_Corpus.protect|Habeas_Corpus.protect]] 
 
-### #is_/same_as :: [Habeas_Corpus.private](/_private/Society/Law/Judiciary/Court/Habeas_Corpus.private.md) 
+### #is_/same_as :: [[/_private/Society/Law/Judiciary/Court/Habeas_Corpus.private|Habeas_Corpus.private]] 
 
-### #is_/same_as :: [Habeas_Corpus.personal](/_personal/Society/Law/Judiciary/Court/Habeas_Corpus.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Law/Judiciary/Court/Habeas_Corpus.personal|Habeas_Corpus.personal]] 
 
-### #is_/same_as :: [Habeas_Corpus.secret](/_secret/Society/Law/Judiciary/Court/Habeas_Corpus.secret.md)
+### #is_/same_as :: [[/_secret/Society/Law/Judiciary/Court/Habeas_Corpus.secret|Habeas_Corpus.secret]] 
 

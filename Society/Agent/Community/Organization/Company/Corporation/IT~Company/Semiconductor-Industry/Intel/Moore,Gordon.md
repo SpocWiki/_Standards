@@ -23,17 +23,17 @@ title: Gordon Moore
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Moore,Gordon](/_Standards/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/Intel/Moore,Gordon.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/Intel/Moore,Gordon|Moore,Gordon]] 
 
-### #is_/same_as :: [Moore,Gordon.public](/_public/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/Intel/Moore,Gordon.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/Intel/Moore,Gordon.public|Moore,Gordon.public]] 
 
-### #is_/same_as :: [Moore,Gordon.internal](/_internal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/Intel/Moore,Gordon.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/Intel/Moore,Gordon.internal|Moore,Gordon.internal]] 
 
-### #is_/same_as :: [Moore,Gordon.protect](/_protect/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/Intel/Moore,Gordon.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/Intel/Moore,Gordon.protect|Moore,Gordon.protect]] 
 
-### #is_/same_as :: [Moore,Gordon.private](/_private/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/Intel/Moore,Gordon.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/Intel/Moore,Gordon.private|Moore,Gordon.private]] 
 
-### #is_/same_as :: [Moore,Gordon.personal](/_personal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/Intel/Moore,Gordon.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/Intel/Moore,Gordon.personal|Moore,Gordon.personal]] 
 
-### #is_/same_as :: [Moore,Gordon.secret](/_secret/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/Intel/Moore,Gordon.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/Intel/Moore,Gordon.secret|Moore,Gordon.secret]] 
 

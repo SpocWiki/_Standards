@@ -21,17 +21,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Thunderball,1965](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Thunderball,1965.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Thunderball,1965|Thunderball,1965]] 
 
-### #is_/same_as :: [Thunderball,1965.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Thunderball,1965.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Thunderball,1965.public|Thunderball,1965.public]] 
 
-### #is_/same_as :: [Thunderball,1965.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Thunderball,1965.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Thunderball,1965.internal|Thunderball,1965.internal]] 
 
-### #is_/same_as :: [Thunderball,1965.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Thunderball,1965.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Thunderball,1965.protect|Thunderball,1965.protect]] 
 
-### #is_/same_as :: [Thunderball,1965.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Thunderball,1965.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Thunderball,1965.private|Thunderball,1965.private]] 
 
-### #is_/same_as :: [Thunderball,1965.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Thunderball,1965.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Thunderball,1965.personal|Thunderball,1965.personal]] 
 
-### #is_/same_as :: [Thunderball,1965.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Thunderball,1965.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Thunderball,1965.secret|Thunderball,1965.secret]] 
 

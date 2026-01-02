@@ -175,17 +175,17 @@ Wolfram_Language_entity_code: Entity["PlanetaryMoon", "Moon"]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Moon](/_Standards/Earth/Satellite/Moon.md) 
+### #is_/same_as :: [[/_Standards/Earth/Satellite/Moon|Moon]] 
 
-### #is_/same_as :: [Moon.public](/_public/Earth/Satellite/Moon.public.md) 
+### #is_/same_as :: [[/_public/Earth/Satellite/Moon.public|Moon.public]] 
 
-### #is_/same_as :: [Moon.internal](/_internal/Earth/Satellite/Moon.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Satellite/Moon.internal|Moon.internal]] 
 
-### #is_/same_as :: [Moon.protect](/_protect/Earth/Satellite/Moon.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Satellite/Moon.protect|Moon.protect]] 
 
-### #is_/same_as :: [Moon.private](/_private/Earth/Satellite/Moon.private.md) 
+### #is_/same_as :: [[/_private/Earth/Satellite/Moon.private|Moon.private]] 
 
-### #is_/same_as :: [Moon.personal](/_personal/Earth/Satellite/Moon.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Satellite/Moon.personal|Moon.personal]] 
 
-### #is_/same_as :: [Moon.secret](/_secret/Earth/Satellite/Moon.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Satellite/Moon.secret|Moon.secret]] 
 

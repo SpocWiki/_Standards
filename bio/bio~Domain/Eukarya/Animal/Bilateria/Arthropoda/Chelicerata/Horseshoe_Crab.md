@@ -91,17 +91,17 @@ and H. W. Shimer (eds.), A. G. Seiler & Co., New York, 1910.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Horseshoe_Crab](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Horseshoe_Crab.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Horseshoe_Crab|Horseshoe_Crab]] 
 
-### #is_/same_as :: [Horseshoe_Crab.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Horseshoe_Crab.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Horseshoe_Crab.public|Horseshoe_Crab.public]] 
 
-### #is_/same_as :: [Horseshoe_Crab.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Horseshoe_Crab.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Horseshoe_Crab.internal|Horseshoe_Crab.internal]] 
 
-### #is_/same_as :: [Horseshoe_Crab.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Horseshoe_Crab.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Horseshoe_Crab.protect|Horseshoe_Crab.protect]] 
 
-### #is_/same_as :: [Horseshoe_Crab.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Horseshoe_Crab.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Horseshoe_Crab.private|Horseshoe_Crab.private]] 
 
-### #is_/same_as :: [Horseshoe_Crab.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Horseshoe_Crab.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Horseshoe_Crab.personal|Horseshoe_Crab.personal]] 
 
-### #is_/same_as :: [Horseshoe_Crab.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Horseshoe_Crab.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Horseshoe_Crab.secret|Horseshoe_Crab.secret]] 
 

@@ -100,17 +100,17 @@ ProvidesBroadcastService:: {"type":"MultiFile","options":{"dvQueryString":"dv.pa
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~BroadcastChannel](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~BroadcastChannel.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~BroadcastChannel|FileClass~BroadcastChannel]] 
 
-### #is_/same_as :: [FileClass~BroadcastChannel.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~BroadcastChannel.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~BroadcastChannel.public|FileClass~BroadcastChannel.public]] 
 
-### #is_/same_as :: [FileClass~BroadcastChannel.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~BroadcastChannel.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~BroadcastChannel.internal|FileClass~BroadcastChannel.internal]] 
 
-### #is_/same_as :: [FileClass~BroadcastChannel.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~BroadcastChannel.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~BroadcastChannel.protect|FileClass~BroadcastChannel.protect]] 
 
-### #is_/same_as :: [FileClass~BroadcastChannel.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~BroadcastChannel.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~BroadcastChannel.private|FileClass~BroadcastChannel.private]] 
 
-### #is_/same_as :: [FileClass~BroadcastChannel.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~BroadcastChannel.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~BroadcastChannel.personal|FileClass~BroadcastChannel.personal]] 
 
-### #is_/same_as :: [FileClass~BroadcastChannel.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~BroadcastChannel.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~BroadcastChannel.secret|FileClass~BroadcastChannel.secret]] 
 

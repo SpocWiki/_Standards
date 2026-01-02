@@ -17,17 +17,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [World_Masterpiece_Theater](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/World_Masterpiece_Theater.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/World_Masterpiece_Theater|World_Masterpiece_Theater]] 
 
-### #is_/same_as :: [World_Masterpiece_Theater.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/World_Masterpiece_Theater.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/World_Masterpiece_Theater.public|World_Masterpiece_Theater.public]] 
 
-### #is_/same_as :: [World_Masterpiece_Theater.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/World_Masterpiece_Theater.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/World_Masterpiece_Theater.internal|World_Masterpiece_Theater.internal]] 
 
-### #is_/same_as :: [World_Masterpiece_Theater.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/World_Masterpiece_Theater.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/World_Masterpiece_Theater.protect|World_Masterpiece_Theater.protect]] 
 
-### #is_/same_as :: [World_Masterpiece_Theater.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/World_Masterpiece_Theater.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/World_Masterpiece_Theater.private|World_Masterpiece_Theater.private]] 
 
-### #is_/same_as :: [World_Masterpiece_Theater.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/World_Masterpiece_Theater.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/World_Masterpiece_Theater.personal|World_Masterpiece_Theater.personal]] 
 
-### #is_/same_as :: [World_Masterpiece_Theater.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/World_Masterpiece_Theater.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/World_Masterpiece_Theater.secret|World_Masterpiece_Theater.secret]] 
 

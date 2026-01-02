@@ -43,17 +43,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_value_for_review_rating_stars](/_Standards/schema-org/Property/has_value_for/has_value_for_review_rating_stars.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_value_for/has_value_for_review_rating_stars|has_value_for_review_rating_stars]] 
 
-### #is_/same_as :: [has_value_for_review_rating_stars.public](/_public/schema-org/Property/has_value_for/has_value_for_review_rating_stars.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/has_value_for/has_value_for_review_rating_stars.public|has_value_for_review_rating_stars.public]] 
 
-### #is_/same_as :: [has_value_for_review_rating_stars.internal](/_internal/schema-org/Property/has_value_for/has_value_for_review_rating_stars.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_value_for/has_value_for_review_rating_stars.internal|has_value_for_review_rating_stars.internal]] 
 
-### #is_/same_as :: [has_value_for_review_rating_stars.protect](/_protect/schema-org/Property/has_value_for/has_value_for_review_rating_stars.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_value_for/has_value_for_review_rating_stars.protect|has_value_for_review_rating_stars.protect]] 
 
-### #is_/same_as :: [has_value_for_review_rating_stars.private](/_private/schema-org/Property/has_value_for/has_value_for_review_rating_stars.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/has_value_for/has_value_for_review_rating_stars.private|has_value_for_review_rating_stars.private]] 
 
-### #is_/same_as :: [has_value_for_review_rating_stars.personal](/_personal/schema-org/Property/has_value_for/has_value_for_review_rating_stars.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_value_for/has_value_for_review_rating_stars.personal|has_value_for_review_rating_stars.personal]] 
 
-### #is_/same_as :: [has_value_for_review_rating_stars.secret](/_secret/schema-org/Property/has_value_for/has_value_for_review_rating_stars.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/has_value_for/has_value_for_review_rating_stars.secret|has_value_for_review_rating_stars.secret]] 
 

@@ -133,17 +133,17 @@ date_of_birth: 1098-01-01T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hildegard_of_Bingen](/_Standards/Science/Polymath/Hildegard_of_Bingen.md) 
+### #is_/same_as :: [[/_Standards/Science/Polymath/Hildegard_of_Bingen|Hildegard_of_Bingen]] 
 
-### #is_/same_as :: [Hildegard_of_Bingen.public](/_public/Science/Polymath/Hildegard_of_Bingen.public.md) 
+### #is_/same_as :: [[/_public/Science/Polymath/Hildegard_of_Bingen.public|Hildegard_of_Bingen.public]] 
 
-### #is_/same_as :: [Hildegard_of_Bingen.internal](/_internal/Science/Polymath/Hildegard_of_Bingen.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Polymath/Hildegard_of_Bingen.internal|Hildegard_of_Bingen.internal]] 
 
-### #is_/same_as :: [Hildegard_of_Bingen.protect](/_protect/Science/Polymath/Hildegard_of_Bingen.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Polymath/Hildegard_of_Bingen.protect|Hildegard_of_Bingen.protect]] 
 
-### #is_/same_as :: [Hildegard_of_Bingen.private](/_private/Science/Polymath/Hildegard_of_Bingen.private.md) 
+### #is_/same_as :: [[/_private/Science/Polymath/Hildegard_of_Bingen.private|Hildegard_of_Bingen.private]] 
 
-### #is_/same_as :: [Hildegard_of_Bingen.personal](/_personal/Science/Polymath/Hildegard_of_Bingen.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Polymath/Hildegard_of_Bingen.personal|Hildegard_of_Bingen.personal]] 
 
-### #is_/same_as :: [Hildegard_of_Bingen.secret](/_secret/Science/Polymath/Hildegard_of_Bingen.secret.md)
+### #is_/same_as :: [[/_secret/Science/Polymath/Hildegard_of_Bingen.secret|Hildegard_of_Bingen.secret]] 
 

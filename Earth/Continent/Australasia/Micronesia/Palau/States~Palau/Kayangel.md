@@ -40,17 +40,17 @@ markerFolder: ./Kayangel/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Kayangel](/_Standards/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Kayangel.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Kayangel|Kayangel]] 
 
-### #is_/same_as :: [Kayangel.public](/_public/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Kayangel.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Kayangel.public|Kayangel.public]] 
 
-### #is_/same_as :: [Kayangel.internal](/_internal/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Kayangel.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Kayangel.internal|Kayangel.internal]] 
 
-### #is_/same_as :: [Kayangel.protect](/_protect/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Kayangel.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Kayangel.protect|Kayangel.protect]] 
 
-### #is_/same_as :: [Kayangel.private](/_private/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Kayangel.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Kayangel.private|Kayangel.private]] 
 
-### #is_/same_as :: [Kayangel.personal](/_personal/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Kayangel.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Kayangel.personal|Kayangel.personal]] 
 
-### #is_/same_as :: [Kayangel.secret](/_secret/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Kayangel.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Kayangel.secret|Kayangel.secret]] 
 

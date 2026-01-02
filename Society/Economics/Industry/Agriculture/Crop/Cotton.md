@@ -67,17 +67,17 @@ U_S_National_Archives_Identifier: 10639678
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Cotton](/_Standards/Society/Economics/Industry/Agriculture/Crop/Cotton.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Industry/Agriculture/Crop/Cotton|Cotton]] 
 
-### #is_/same_as :: [Cotton.public](/_public/Society/Economics/Industry/Agriculture/Crop/Cotton.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Industry/Agriculture/Crop/Cotton.public|Cotton.public]] 
 
-### #is_/same_as :: [Cotton.internal](/_internal/Society/Economics/Industry/Agriculture/Crop/Cotton.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Industry/Agriculture/Crop/Cotton.internal|Cotton.internal]] 
 
-### #is_/same_as :: [Cotton.protect](/_protect/Society/Economics/Industry/Agriculture/Crop/Cotton.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Industry/Agriculture/Crop/Cotton.protect|Cotton.protect]] 
 
-### #is_/same_as :: [Cotton.private](/_private/Society/Economics/Industry/Agriculture/Crop/Cotton.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Industry/Agriculture/Crop/Cotton.private|Cotton.private]] 
 
-### #is_/same_as :: [Cotton.personal](/_personal/Society/Economics/Industry/Agriculture/Crop/Cotton.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Industry/Agriculture/Crop/Cotton.personal|Cotton.personal]] 
 
-### #is_/same_as :: [Cotton.secret](/_secret/Society/Economics/Industry/Agriculture/Crop/Cotton.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Industry/Agriculture/Crop/Cotton.secret|Cotton.secret]] 
 

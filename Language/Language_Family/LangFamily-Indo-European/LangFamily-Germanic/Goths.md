@@ -81,17 +81,17 @@ Krugosvet_article: istoriya/GOTI.html
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Goths](/_Standards/Language/Language_Family/LangFamily-Indo-European/LangFamily-Germanic/Goths.md) 
+### #is_/same_as :: [[/_Standards/Language/Language_Family/LangFamily-Indo-European/LangFamily-Germanic/Goths|Goths]] 
 
-### #is_/same_as :: [Goths.public](/_public/Language/Language_Family/LangFamily-Indo-European/LangFamily-Germanic/Goths.public.md) 
+### #is_/same_as :: [[/_public/Language/Language_Family/LangFamily-Indo-European/LangFamily-Germanic/Goths.public|Goths.public]] 
 
-### #is_/same_as :: [Goths.internal](/_internal/Language/Language_Family/LangFamily-Indo-European/LangFamily-Germanic/Goths.internal.md) 
+### #is_/same_as :: [[/_internal/Language/Language_Family/LangFamily-Indo-European/LangFamily-Germanic/Goths.internal|Goths.internal]] 
 
-### #is_/same_as :: [Goths.protect](/_protect/Language/Language_Family/LangFamily-Indo-European/LangFamily-Germanic/Goths.protect.md) 
+### #is_/same_as :: [[/_protect/Language/Language_Family/LangFamily-Indo-European/LangFamily-Germanic/Goths.protect|Goths.protect]] 
 
-### #is_/same_as :: [Goths.private](/_private/Language/Language_Family/LangFamily-Indo-European/LangFamily-Germanic/Goths.private.md) 
+### #is_/same_as :: [[/_private/Language/Language_Family/LangFamily-Indo-European/LangFamily-Germanic/Goths.private|Goths.private]] 
 
-### #is_/same_as :: [Goths.personal](/_personal/Language/Language_Family/LangFamily-Indo-European/LangFamily-Germanic/Goths.personal.md) 
+### #is_/same_as :: [[/_personal/Language/Language_Family/LangFamily-Indo-European/LangFamily-Germanic/Goths.personal|Goths.personal]] 
 
-### #is_/same_as :: [Goths.secret](/_secret/Language/Language_Family/LangFamily-Indo-European/LangFamily-Germanic/Goths.secret.md)
+### #is_/same_as :: [[/_secret/Language/Language_Family/LangFamily-Indo-European/LangFamily-Germanic/Goths.secret|Goths.secret]] 
 

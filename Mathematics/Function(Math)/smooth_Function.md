@@ -42,17 +42,17 @@ disjoint_union_of: "[[_Standards/WikiData/WD~list_of_values_as_qualifiers,237664
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [smooth_Function](/_Standards/Mathematics/Function(Math)/smooth_Function.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Function(Math)/smooth_Function|smooth_Function]] 
 
-### #is_/same_as :: [smooth_Function.public](/_public/Mathematics/Function(Math)/smooth_Function.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Function(Math)/smooth_Function.public|smooth_Function.public]] 
 
-### #is_/same_as :: [smooth_Function.internal](/_internal/Mathematics/Function(Math)/smooth_Function.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Function(Math)/smooth_Function.internal|smooth_Function.internal]] 
 
-### #is_/same_as :: [smooth_Function.protect](/_protect/Mathematics/Function(Math)/smooth_Function.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Function(Math)/smooth_Function.protect|smooth_Function.protect]] 
 
-### #is_/same_as :: [smooth_Function.private](/_private/Mathematics/Function(Math)/smooth_Function.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Function(Math)/smooth_Function.private|smooth_Function.private]] 
 
-### #is_/same_as :: [smooth_Function.personal](/_personal/Mathematics/Function(Math)/smooth_Function.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Function(Math)/smooth_Function.personal|smooth_Function.personal]] 
 
-### #is_/same_as :: [smooth_Function.secret](/_secret/Mathematics/Function(Math)/smooth_Function.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Function(Math)/smooth_Function.secret|smooth_Function.secret]] 
 

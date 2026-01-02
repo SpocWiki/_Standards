@@ -123,17 +123,17 @@ N4IgLgngDgpiBcIYA8DGBDANgSwCYCd0B3EAGhADcZ8BnbAewDsEAmcm+gV31TkQAswYKDXgB6MQHNsY
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Competition](/_Standards/Society/Economics/Competition.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Competition|Competition]] 
 
-### #is_/same_as :: [Competition.public](/_public/Society/Economics/Competition.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Competition.public|Competition.public]] 
 
-### #is_/same_as :: [Competition.internal](/_internal/Society/Economics/Competition.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Competition.internal|Competition.internal]] 
 
-### #is_/same_as :: [Competition.protect](/_protect/Society/Economics/Competition.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Competition.protect|Competition.protect]] 
 
-### #is_/same_as :: [Competition.private](/_private/Society/Economics/Competition.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Competition.private|Competition.private]] 
 
-### #is_/same_as :: [Competition.personal](/_personal/Society/Economics/Competition.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Competition.personal|Competition.personal]] 
 
-### #is_/same_as :: [Competition.secret](/_secret/Society/Economics/Competition.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Competition.secret|Competition.secret]] 
 

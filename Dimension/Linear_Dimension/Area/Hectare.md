@@ -87,17 +87,17 @@ Wikidata_SPARQL_query_equivalent: wd:Q35852 p:P2370/psn:P2370 [wikibase:quantity
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hectare](/_Standards/Dimension/Linear_Dimension/Area/Hectare.md) 
+### #is_/same_as :: [[/_Standards/Dimension/Linear_Dimension/Area/Hectare|Hectare]] 
 
-### #is_/same_as :: [Hectare.public](/_public/Dimension/Linear_Dimension/Area/Hectare.public.md) 
+### #is_/same_as :: [[/_public/Dimension/Linear_Dimension/Area/Hectare.public|Hectare.public]] 
 
-### #is_/same_as :: [Hectare.internal](/_internal/Dimension/Linear_Dimension/Area/Hectare.internal.md) 
+### #is_/same_as :: [[/_internal/Dimension/Linear_Dimension/Area/Hectare.internal|Hectare.internal]] 
 
-### #is_/same_as :: [Hectare.protect](/_protect/Dimension/Linear_Dimension/Area/Hectare.protect.md) 
+### #is_/same_as :: [[/_protect/Dimension/Linear_Dimension/Area/Hectare.protect|Hectare.protect]] 
 
-### #is_/same_as :: [Hectare.private](/_private/Dimension/Linear_Dimension/Area/Hectare.private.md) 
+### #is_/same_as :: [[/_private/Dimension/Linear_Dimension/Area/Hectare.private|Hectare.private]] 
 
-### #is_/same_as :: [Hectare.personal](/_personal/Dimension/Linear_Dimension/Area/Hectare.personal.md) 
+### #is_/same_as :: [[/_personal/Dimension/Linear_Dimension/Area/Hectare.personal|Hectare.personal]] 
 
-### #is_/same_as :: [Hectare.secret](/_secret/Dimension/Linear_Dimension/Area/Hectare.secret.md)
+### #is_/same_as :: [[/_secret/Dimension/Linear_Dimension/Area/Hectare.secret|Hectare.secret]] 
 

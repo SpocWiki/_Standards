@@ -78,17 +78,17 @@ topic_s_main_template:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Khaldun,Ibn](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/History/Historian/Khaldun,Ibn.md) 
+### #is_/same_as :: [[/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/History/Historian/Khaldun,Ibn|Khaldun,Ibn]] 
 
-### #is_/same_as :: [Khaldun,Ibn.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/History/Historian/Khaldun,Ibn.public.md) 
+### #is_/same_as :: [[/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/History/Historian/Khaldun,Ibn.public|Khaldun,Ibn.public]] 
 
-### #is_/same_as :: [Khaldun,Ibn.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/History/Historian/Khaldun,Ibn.internal.md) 
+### #is_/same_as :: [[/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/History/Historian/Khaldun,Ibn.internal|Khaldun,Ibn.internal]] 
 
-### #is_/same_as :: [Khaldun,Ibn.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/History/Historian/Khaldun,Ibn.protect.md) 
+### #is_/same_as :: [[/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/History/Historian/Khaldun,Ibn.protect|Khaldun,Ibn.protect]] 
 
-### #is_/same_as :: [Khaldun,Ibn.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/History/Historian/Khaldun,Ibn.private.md) 
+### #is_/same_as :: [[/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/History/Historian/Khaldun,Ibn.private|Khaldun,Ibn.private]] 
 
-### #is_/same_as :: [Khaldun,Ibn.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/History/Historian/Khaldun,Ibn.personal.md) 
+### #is_/same_as :: [[/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/History/Historian/Khaldun,Ibn.personal|Khaldun,Ibn.personal]] 
 
-### #is_/same_as :: [Khaldun,Ibn.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/History/Historian/Khaldun,Ibn.secret.md)
+### #is_/same_as :: [[/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/History/Historian/Khaldun,Ibn.secret|Khaldun,Ibn.secret]] 
 

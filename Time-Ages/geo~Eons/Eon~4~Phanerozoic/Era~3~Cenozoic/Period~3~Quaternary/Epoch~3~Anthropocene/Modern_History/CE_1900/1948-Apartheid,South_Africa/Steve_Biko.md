@@ -47,17 +47,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Steve_Biko](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1948-Apartheid,South_Africa/Steve_Biko.md) 
+### #is_/same_as :: [[/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1948-Apartheid,South_Africa/Steve_Biko|Steve_Biko]] 
 
-### #is_/same_as :: [Steve_Biko.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1948-Apartheid,South_Africa/Steve_Biko.public.md) 
+### #is_/same_as :: [[/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1948-Apartheid,South_Africa/Steve_Biko.public|Steve_Biko.public]] 
 
-### #is_/same_as :: [Steve_Biko.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1948-Apartheid,South_Africa/Steve_Biko.internal.md) 
+### #is_/same_as :: [[/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1948-Apartheid,South_Africa/Steve_Biko.internal|Steve_Biko.internal]] 
 
-### #is_/same_as :: [Steve_Biko.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1948-Apartheid,South_Africa/Steve_Biko.protect.md) 
+### #is_/same_as :: [[/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1948-Apartheid,South_Africa/Steve_Biko.protect|Steve_Biko.protect]] 
 
-### #is_/same_as :: [Steve_Biko.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1948-Apartheid,South_Africa/Steve_Biko.private.md) 
+### #is_/same_as :: [[/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1948-Apartheid,South_Africa/Steve_Biko.private|Steve_Biko.private]] 
 
-### #is_/same_as :: [Steve_Biko.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1948-Apartheid,South_Africa/Steve_Biko.personal.md) 
+### #is_/same_as :: [[/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1948-Apartheid,South_Africa/Steve_Biko.personal|Steve_Biko.personal]] 
 
-### #is_/same_as :: [Steve_Biko.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1948-Apartheid,South_Africa/Steve_Biko.secret.md)
+### #is_/same_as :: [[/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1948-Apartheid,South_Africa/Steve_Biko.secret|Steve_Biko.secret]] 
 

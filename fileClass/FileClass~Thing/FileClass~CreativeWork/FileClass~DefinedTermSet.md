@@ -48,17 +48,17 @@ HasDefinedTerm:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#clas
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~DefinedTermSet](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~DefinedTermSet.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~DefinedTermSet|FileClass~DefinedTermSet]] 
 
-### #is_/same_as :: [FileClass~DefinedTermSet.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~DefinedTermSet.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~DefinedTermSet.public|FileClass~DefinedTermSet.public]] 
 
-### #is_/same_as :: [FileClass~DefinedTermSet.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~DefinedTermSet.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~DefinedTermSet.internal|FileClass~DefinedTermSet.internal]] 
 
-### #is_/same_as :: [FileClass~DefinedTermSet.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~DefinedTermSet.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~DefinedTermSet.protect|FileClass~DefinedTermSet.protect]] 
 
-### #is_/same_as :: [FileClass~DefinedTermSet.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~DefinedTermSet.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~DefinedTermSet.private|FileClass~DefinedTermSet.private]] 
 
-### #is_/same_as :: [FileClass~DefinedTermSet.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~DefinedTermSet.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~DefinedTermSet.personal|FileClass~DefinedTermSet.personal]] 
 
-### #is_/same_as :: [FileClass~DefinedTermSet.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~DefinedTermSet.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~DefinedTermSet.secret|FileClass~DefinedTermSet.secret]] 
 

@@ -69,17 +69,17 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Period~2~Cryogenian](/_Standards/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~3~Neoproterozoic/Period~2~Cryogenian.md) 
+### #is_/same_as :: [[/_Standards/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~3~Neoproterozoic/Period~2~Cryogenian|Period~2~Cryogenian]] 
 
-### #is_/same_as :: [Period~2~Cryogenian.public](/_public/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~3~Neoproterozoic/Period~2~Cryogenian.public.md) 
+### #is_/same_as :: [[/_public/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~3~Neoproterozoic/Period~2~Cryogenian.public|Period~2~Cryogenian.public]] 
 
-### #is_/same_as :: [Period~2~Cryogenian.internal](/_internal/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~3~Neoproterozoic/Period~2~Cryogenian.internal.md) 
+### #is_/same_as :: [[/_internal/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~3~Neoproterozoic/Period~2~Cryogenian.internal|Period~2~Cryogenian.internal]] 
 
-### #is_/same_as :: [Period~2~Cryogenian.protect](/_protect/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~3~Neoproterozoic/Period~2~Cryogenian.protect.md) 
+### #is_/same_as :: [[/_protect/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~3~Neoproterozoic/Period~2~Cryogenian.protect|Period~2~Cryogenian.protect]] 
 
-### #is_/same_as :: [Period~2~Cryogenian.private](/_private/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~3~Neoproterozoic/Period~2~Cryogenian.private.md) 
+### #is_/same_as :: [[/_private/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~3~Neoproterozoic/Period~2~Cryogenian.private|Period~2~Cryogenian.private]] 
 
-### #is_/same_as :: [Period~2~Cryogenian.personal](/_personal/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~3~Neoproterozoic/Period~2~Cryogenian.personal.md) 
+### #is_/same_as :: [[/_personal/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~3~Neoproterozoic/Period~2~Cryogenian.personal|Period~2~Cryogenian.personal]] 
 
-### #is_/same_as :: [Period~2~Cryogenian.secret](/_secret/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~3~Neoproterozoic/Period~2~Cryogenian.secret.md)
+### #is_/same_as :: [[/_secret/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~3~Neoproterozoic/Period~2~Cryogenian.secret|Period~2~Cryogenian.secret]] 
 

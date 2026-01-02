@@ -99,17 +99,17 @@ Royal_Academy_new_identifier: artemis-greek-deity
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Artemis](/_Standards/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Artemis.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Artemis|Artemis]] 
 
-### #is_/same_as :: [Artemis.public](/_public/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Artemis.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Artemis.public|Artemis.public]] 
 
-### #is_/same_as :: [Artemis.internal](/_internal/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Artemis.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Artemis.internal|Artemis.internal]] 
 
-### #is_/same_as :: [Artemis.protect](/_protect/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Artemis.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Artemis.protect|Artemis.protect]] 
 
-### #is_/same_as :: [Artemis.private](/_private/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Artemis.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Artemis.private|Artemis.private]] 
 
-### #is_/same_as :: [Artemis.personal](/_personal/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Artemis.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Artemis.personal|Artemis.personal]] 
 
-### #is_/same_as :: [Artemis.secret](/_secret/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Artemis.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Artemis.secret|Artemis.secret]] 
 

@@ -90,14 +90,14 @@ Natural History 34: 483-562.
 
 ## Title Illustrations
 
-![](debruynei/famastigod.gif))
+![](debruynei/famastigod.gif) 
 
   --------------------------------------------------------------------------------
   Scientific Name ::  Amastigomonas debruynei
   Copyright ::         © 2000 [David J. Patterson](http://www.bio.usyd.edu.au/Protsvil/index.htm) 
  
   --------------------------------------------------------------------------------
-![](debruynei/pamastigod.jpg))
+![](debruynei/pamastigod.jpg) 
 
   ---------------------------------------------------------------------------------
   Scientific Name ::     Amastigomonas debruynei
@@ -106,7 +106,7 @@ Natural History 34: 483-562.
   Copyright ::            © 2000 [David J. Patterson](http://www.bio.usyd.edu.au/Protsvil/index.htm) 
  
   ---------------------------------------------------------------------------------
-![](debruynei/pamastigod2.jpg))
+![](debruynei/pamastigod2.jpg) 
 
   ---------------------------------------------------------------------------------
   Scientific Name ::     Amastigomonas debruynei
@@ -119,17 +119,17 @@ Natural History 34: 483-562.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [debruynei](/_Standards/bio/bio~Domain/Eukarya/Protist/Apusomonads/Amastigomonas/debruynei.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Protist/Apusomonads/Amastigomonas/debruynei|debruynei]] 
 
-### #is_/same_as :: [debruynei.public](/_public/bio/bio~Domain/Eukarya/Protist/Apusomonads/Amastigomonas/debruynei.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Protist/Apusomonads/Amastigomonas/debruynei.public|debruynei.public]] 
 
-### #is_/same_as :: [debruynei.internal](/_internal/bio/bio~Domain/Eukarya/Protist/Apusomonads/Amastigomonas/debruynei.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Protist/Apusomonads/Amastigomonas/debruynei.internal|debruynei.internal]] 
 
-### #is_/same_as :: [debruynei.protect](/_protect/bio/bio~Domain/Eukarya/Protist/Apusomonads/Amastigomonas/debruynei.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Protist/Apusomonads/Amastigomonas/debruynei.protect|debruynei.protect]] 
 
-### #is_/same_as :: [debruynei.private](/_private/bio/bio~Domain/Eukarya/Protist/Apusomonads/Amastigomonas/debruynei.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Protist/Apusomonads/Amastigomonas/debruynei.private|debruynei.private]] 
 
-### #is_/same_as :: [debruynei.personal](/_personal/bio/bio~Domain/Eukarya/Protist/Apusomonads/Amastigomonas/debruynei.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Protist/Apusomonads/Amastigomonas/debruynei.personal|debruynei.personal]] 
 
-### #is_/same_as :: [debruynei.secret](/_secret/bio/bio~Domain/Eukarya/Protist/Apusomonads/Amastigomonas/debruynei.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Protist/Apusomonads/Amastigomonas/debruynei.secret|debruynei.secret]] 
 

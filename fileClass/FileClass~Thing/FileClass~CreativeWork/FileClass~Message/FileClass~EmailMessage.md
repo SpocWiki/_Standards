@@ -37,17 +37,17 @@ An email message.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~EmailMessage](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Message/FileClass~EmailMessage.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Message/FileClass~EmailMessage|FileClass~EmailMessage]] 
 
-### #is_/same_as :: [FileClass~EmailMessage.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Message/FileClass~EmailMessage.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Message/FileClass~EmailMessage.public|FileClass~EmailMessage.public]] 
 
-### #is_/same_as :: [FileClass~EmailMessage.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Message/FileClass~EmailMessage.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Message/FileClass~EmailMessage.internal|FileClass~EmailMessage.internal]] 
 
-### #is_/same_as :: [FileClass~EmailMessage.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Message/FileClass~EmailMessage.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Message/FileClass~EmailMessage.protect|FileClass~EmailMessage.protect]] 
 
-### #is_/same_as :: [FileClass~EmailMessage.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Message/FileClass~EmailMessage.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Message/FileClass~EmailMessage.private|FileClass~EmailMessage.private]] 
 
-### #is_/same_as :: [FileClass~EmailMessage.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Message/FileClass~EmailMessage.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Message/FileClass~EmailMessage.personal|FileClass~EmailMessage.personal]] 
 
-### #is_/same_as :: [FileClass~EmailMessage.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Message/FileClass~EmailMessage.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Message/FileClass~EmailMessage.secret|FileClass~EmailMessage.secret]] 
 

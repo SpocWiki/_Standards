@@ -73,17 +73,17 @@ power_series_expansion: <math class="mwe-math-element mwe-math-element-inline" x
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Natural_Logarithm](Natural_Logarithm.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Function(Math)/Function~unary/Operator~unary/Natural_Logarithm|Natural_Logarithm]] 
 
-### #is_/same_as :: [Natural_Logarithm.public](/_public/Mathematics/Function(Math)/Function~unary/Natural_Logarithm.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Function(Math)/Function~unary/Operator~unary/Natural_Logarithm.public|Natural_Logarithm.public]] 
 
-### #is_/same_as :: [Natural_Logarithm.internal](/_internal/Mathematics/Function(Math)/Function~unary/Natural_Logarithm.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Function(Math)/Function~unary/Operator~unary/Natural_Logarithm.internal|Natural_Logarithm.internal]] 
 
-### #is_/same_as :: [Natural_Logarithm.protect](/_protect/Mathematics/Function(Math)/Function~unary/Natural_Logarithm.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Function(Math)/Function~unary/Operator~unary/Natural_Logarithm.protect|Natural_Logarithm.protect]] 
 
-### #is_/same_as :: [Natural_Logarithm.private](/_private/Mathematics/Function(Math)/Function~unary/Natural_Logarithm.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Function(Math)/Function~unary/Operator~unary/Natural_Logarithm.private|Natural_Logarithm.private]] 
 
-### #is_/same_as :: [Natural_Logarithm.personal](/_personal/Mathematics/Function(Math)/Function~unary/Natural_Logarithm.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Function(Math)/Function~unary/Operator~unary/Natural_Logarithm.personal|Natural_Logarithm.personal]] 
 
-### #is_/same_as :: [Natural_Logarithm.secret](/_secret/Mathematics/Function(Math)/Function~unary/Natural_Logarithm.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Function(Math)/Function~unary/Operator~unary/Natural_Logarithm.secret|Natural_Logarithm.secret]] 
 

@@ -48,17 +48,17 @@ Wolfram_Language_entity_code: Entity["PhysicalEffect", "KesslerSyndrome"]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Kessler_Syndrome](/_Standards/Technology/Spaceflight/Kessler_Syndrome.md) 
+### #is_/same_as :: [[/_Standards/Technology/Spaceflight/Kessler_Syndrome|Kessler_Syndrome]] 
 
-### #is_/same_as :: [Kessler_Syndrome.public](/_public/Technology/Spaceflight/Kessler_Syndrome.public.md) 
+### #is_/same_as :: [[/_public/Technology/Spaceflight/Kessler_Syndrome.public|Kessler_Syndrome.public]] 
 
-### #is_/same_as :: [Kessler_Syndrome.internal](/_internal/Technology/Spaceflight/Kessler_Syndrome.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Spaceflight/Kessler_Syndrome.internal|Kessler_Syndrome.internal]] 
 
-### #is_/same_as :: [Kessler_Syndrome.protect](/_protect/Technology/Spaceflight/Kessler_Syndrome.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Spaceflight/Kessler_Syndrome.protect|Kessler_Syndrome.protect]] 
 
-### #is_/same_as :: [Kessler_Syndrome.private](/_private/Technology/Spaceflight/Kessler_Syndrome.private.md) 
+### #is_/same_as :: [[/_private/Technology/Spaceflight/Kessler_Syndrome.private|Kessler_Syndrome.private]] 
 
-### #is_/same_as :: [Kessler_Syndrome.personal](/_personal/Technology/Spaceflight/Kessler_Syndrome.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Spaceflight/Kessler_Syndrome.personal|Kessler_Syndrome.personal]] 
 
-### #is_/same_as :: [Kessler_Syndrome.secret](/_secret/Technology/Spaceflight/Kessler_Syndrome.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Spaceflight/Kessler_Syndrome.secret|Kessler_Syndrome.secret]] 
 

@@ -161,17 +161,17 @@ birth_name: Robert Nesta Marley
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Marley,Bob](/_Standards/Society/Communication/Media/Music/Musician/Marley,Bob.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Musician/Marley,Bob|Marley,Bob]] 
 
-### #is_/same_as :: [Marley,Bob.public](/_public/Society/Communication/Media/Music/Musician/Marley,Bob.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Musician/Marley,Bob.public|Marley,Bob.public]] 
 
-### #is_/same_as :: [Marley,Bob.internal](/_internal/Society/Communication/Media/Music/Musician/Marley,Bob.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Musician/Marley,Bob.internal|Marley,Bob.internal]] 
 
-### #is_/same_as :: [Marley,Bob.protect](/_protect/Society/Communication/Media/Music/Musician/Marley,Bob.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Musician/Marley,Bob.protect|Marley,Bob.protect]] 
 
-### #is_/same_as :: [Marley,Bob.private](/_private/Society/Communication/Media/Music/Musician/Marley,Bob.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Musician/Marley,Bob.private|Marley,Bob.private]] 
 
-### #is_/same_as :: [Marley,Bob.personal](/_personal/Society/Communication/Media/Music/Musician/Marley,Bob.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Musician/Marley,Bob.personal|Marley,Bob.personal]] 
 
-### #is_/same_as :: [Marley,Bob.secret](/_secret/Society/Communication/Media/Music/Musician/Marley,Bob.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Musician/Marley,Bob.secret|Marley,Bob.secret]] 
 

@@ -140,17 +140,17 @@ Wolfram_Language_entity_code: Entity["Person", "FriedrichEngels::w3tyn"]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Engels,Friedrich](/_Standards/Society/Ideology/Political_Ideology/Communism/Marxism/Engels,Friedrich.md) 
+### #is_/same_as :: [[/_Standards/Society/Ideology/Political_Ideology/Communism/Marxism/Engels,Friedrich|Engels,Friedrich]] 
 
-### #is_/same_as :: [Engels,Friedrich.public](/_public/Society/Ideology/Political_Ideology/Communism/Marxism/Engels,Friedrich.public.md) 
+### #is_/same_as :: [[/_public/Society/Ideology/Political_Ideology/Communism/Marxism/Engels,Friedrich.public|Engels,Friedrich.public]] 
 
-### #is_/same_as :: [Engels,Friedrich.internal](/_internal/Society/Ideology/Political_Ideology/Communism/Marxism/Engels,Friedrich.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Ideology/Political_Ideology/Communism/Marxism/Engels,Friedrich.internal|Engels,Friedrich.internal]] 
 
-### #is_/same_as :: [Engels,Friedrich.protect](/_protect/Society/Ideology/Political_Ideology/Communism/Marxism/Engels,Friedrich.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Ideology/Political_Ideology/Communism/Marxism/Engels,Friedrich.protect|Engels,Friedrich.protect]] 
 
-### #is_/same_as :: [Engels,Friedrich.private](/_private/Society/Ideology/Political_Ideology/Communism/Marxism/Engels,Friedrich.private.md) 
+### #is_/same_as :: [[/_private/Society/Ideology/Political_Ideology/Communism/Marxism/Engels,Friedrich.private|Engels,Friedrich.private]] 
 
-### #is_/same_as :: [Engels,Friedrich.personal](/_personal/Society/Ideology/Political_Ideology/Communism/Marxism/Engels,Friedrich.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Ideology/Political_Ideology/Communism/Marxism/Engels,Friedrich.personal|Engels,Friedrich.personal]] 
 
-### #is_/same_as :: [Engels,Friedrich.secret](/_secret/Society/Ideology/Political_Ideology/Communism/Marxism/Engels,Friedrich.secret.md)
+### #is_/same_as :: [[/_secret/Society/Ideology/Political_Ideology/Communism/Marxism/Engels,Friedrich.secret|Engels,Friedrich.secret]] 
 

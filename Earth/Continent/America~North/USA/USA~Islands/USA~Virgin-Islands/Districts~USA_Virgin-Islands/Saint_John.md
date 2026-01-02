@@ -41,17 +41,17 @@ markerFolder: ./Saint_John/
 
 ## Confidential Links & Embeds: 
 
-### [Saint_John](/_Standards/Earth/Continent/America~North/USA/USA~Islands/USA_Virgin-Islands/Districts~USA_Virgin-Islands/Saint_John.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~North/USA/USA~Islands/USA~Virgin-Islands/Districts~USA_Virgin-Islands/Saint_John|Saint_John]] 
 
-### [Saint_John.public](/_public/Earth/Continent/America~North/USA/USA~Islands/USA_Virgin-Islands/Districts~USA_Virgin-Islands/Saint_John.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~North/USA/USA~Islands/USA~Virgin-Islands/Districts~USA_Virgin-Islands/Saint_John.public|Saint_John.public]] 
 
-### [Saint_John.internal](/_internal/Earth/Continent/America~North/USA/USA~Islands/USA_Virgin-Islands/Districts~USA_Virgin-Islands/Saint_John.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~North/USA/USA~Islands/USA~Virgin-Islands/Districts~USA_Virgin-Islands/Saint_John.internal|Saint_John.internal]] 
 
-### [Saint_John.protect](/_protect/Earth/Continent/America~North/USA/USA~Islands/USA_Virgin-Islands/Districts~USA_Virgin-Islands/Saint_John.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~North/USA/USA~Islands/USA~Virgin-Islands/Districts~USA_Virgin-Islands/Saint_John.protect|Saint_John.protect]] 
 
-### [Saint_John.private](/_private/Earth/Continent/America~North/USA/USA~Islands/USA_Virgin-Islands/Districts~USA_Virgin-Islands/Saint_John.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~North/USA/USA~Islands/USA~Virgin-Islands/Districts~USA_Virgin-Islands/Saint_John.private|Saint_John.private]] 
 
-### [Saint_John.personal](/_personal/Earth/Continent/America~North/USA/USA~Islands/USA_Virgin-Islands/Districts~USA_Virgin-Islands/Saint_John.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~North/USA/USA~Islands/USA~Virgin-Islands/Districts~USA_Virgin-Islands/Saint_John.personal|Saint_John.personal]] 
 
-### [Saint_John.secret](/_secret/Earth/Continent/America~North/USA/USA~Islands/USA_Virgin-Islands/Districts~USA_Virgin-Islands/Saint_John.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~North/USA/USA~Islands/USA~Virgin-Islands/Districts~USA_Virgin-Islands/Saint_John.secret|Saint_John.secret]] 
 

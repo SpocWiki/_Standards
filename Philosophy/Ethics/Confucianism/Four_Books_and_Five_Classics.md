@@ -31,17 +31,17 @@ depicts: "[[_Standards/WikiData/WD~Confucianism,9581]]"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Four_Books_and_Five_Classics](/_Standards/Philosophy/Ethics/Confucianism/Four_Books_and_Five_Classics.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Ethics/Confucianism/Four_Books_and_Five_Classics|Four_Books_and_Five_Classics]] 
 
-### #is_/same_as :: [Four_Books_and_Five_Classics.public](/_public/Philosophy/Ethics/Confucianism/Four_Books_and_Five_Classics.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Ethics/Confucianism/Four_Books_and_Five_Classics.public|Four_Books_and_Five_Classics.public]] 
 
-### #is_/same_as :: [Four_Books_and_Five_Classics.internal](/_internal/Philosophy/Ethics/Confucianism/Four_Books_and_Five_Classics.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Ethics/Confucianism/Four_Books_and_Five_Classics.internal|Four_Books_and_Five_Classics.internal]] 
 
-### #is_/same_as :: [Four_Books_and_Five_Classics.protect](/_protect/Philosophy/Ethics/Confucianism/Four_Books_and_Five_Classics.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Ethics/Confucianism/Four_Books_and_Five_Classics.protect|Four_Books_and_Five_Classics.protect]] 
 
-### #is_/same_as :: [Four_Books_and_Five_Classics.private](/_private/Philosophy/Ethics/Confucianism/Four_Books_and_Five_Classics.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Ethics/Confucianism/Four_Books_and_Five_Classics.private|Four_Books_and_Five_Classics.private]] 
 
-### #is_/same_as :: [Four_Books_and_Five_Classics.personal](/_personal/Philosophy/Ethics/Confucianism/Four_Books_and_Five_Classics.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Ethics/Confucianism/Four_Books_and_Five_Classics.personal|Four_Books_and_Five_Classics.personal]] 
 
-### #is_/same_as :: [Four_Books_and_Five_Classics.secret](/_secret/Philosophy/Ethics/Confucianism/Four_Books_and_Five_Classics.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Ethics/Confucianism/Four_Books_and_Five_Classics.secret|Four_Books_and_Five_Classics.secret]] 
 

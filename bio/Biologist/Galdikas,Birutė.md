@@ -27,17 +27,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Galdikas,Birutė](/_Standards/bio/Biologist/Galdikas,Birutė.md) 
+### #is_/same_as :: [[/_Standards/bio/Biologist/Galdikas,Birutė|Galdikas,Birutė]] 
 
-### #is_/same_as :: [Galdikas,Birutė.public](/_public/bio/Biologist/Galdikas,Birutė.public.md) 
+### #is_/same_as :: [[/_public/bio/Biologist/Galdikas,Birutė.public|Galdikas,Birutė.public]] 
 
-### #is_/same_as :: [Galdikas,Birutė.internal](/_internal/bio/Biologist/Galdikas,Birutė.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Biologist/Galdikas,Birutė.internal|Galdikas,Birutė.internal]] 
 
-### #is_/same_as :: [Galdikas,Birutė.protect](/_protect/bio/Biologist/Galdikas,Birutė.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Biologist/Galdikas,Birutė.protect|Galdikas,Birutė.protect]] 
 
-### #is_/same_as :: [Galdikas,Birutė.private](/_private/bio/Biologist/Galdikas,Birutė.private.md) 
+### #is_/same_as :: [[/_private/bio/Biologist/Galdikas,Birutė.private|Galdikas,Birutė.private]] 
 
-### #is_/same_as :: [Galdikas,Birutė.personal](/_personal/bio/Biologist/Galdikas,Birutė.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Biologist/Galdikas,Birutė.personal|Galdikas,Birutė.personal]] 
 
-### #is_/same_as :: [Galdikas,Birutė.secret](/_secret/bio/Biologist/Galdikas,Birutė.secret.md)
+### #is_/same_as :: [[/_secret/bio/Biologist/Galdikas,Birutė.secret|Galdikas,Birutė.secret]] 
 

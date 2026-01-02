@@ -138,17 +138,17 @@ Krugosvet_article_archived_: gumanitarnye_nauki/lingvistika/PERSIDSKI_YAZIK.html
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lang-fas](/_Standards/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Lang-fas.md) 
+### #is_/same_as :: [[/_Standards/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Lang-fas|Lang-fas]] 
 
-### #is_/same_as :: [Lang-fas.public](/_public/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Lang-fas.public.md) 
+### #is_/same_as :: [[/_public/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Lang-fas.public|Lang-fas.public]] 
 
-### #is_/same_as :: [Lang-fas.internal](/_internal/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Lang-fas.internal.md) 
+### #is_/same_as :: [[/_internal/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Lang-fas.internal|Lang-fas.internal]] 
 
-### #is_/same_as :: [Lang-fas.protect](/_protect/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Lang-fas.protect.md) 
+### #is_/same_as :: [[/_protect/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Lang-fas.protect|Lang-fas.protect]] 
 
-### #is_/same_as :: [Lang-fas.private](/_private/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Lang-fas.private.md) 
+### #is_/same_as :: [[/_private/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Lang-fas.private|Lang-fas.private]] 
 
-### #is_/same_as :: [Lang-fas.personal](/_personal/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Lang-fas.personal.md) 
+### #is_/same_as :: [[/_personal/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Lang-fas.personal|Lang-fas.personal]] 
 
-### #is_/same_as :: [Lang-fas.secret](/_secret/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Lang-fas.secret.md)
+### #is_/same_as :: [[/_secret/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Lang-fas.secret|Lang-fas.secret]] 
 

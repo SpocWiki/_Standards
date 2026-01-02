@@ -38,13 +38,13 @@ title: Anapidae
 # Anapidae 
 
 [Jonathan Coddington]()
-![ ](Anapidae/gertschanapis01.jpg))
+![ ](Anapidae/gertschanapis01.jpg) 
 
 Containing group:[Orbiculariae](../Orbiculariae.md) 
 
 ## Title Illustrations
 
-![](Anapidae/gertschanapis01.jpg))
+![](Anapidae/gertschanapis01.jpg) 
 
   ---------------------------------------------------------------------------------
   Scientific Name ::     Gertschanapis shantzi
@@ -61,17 +61,17 @@ Containing group:[Orbiculariae](../Orbiculariae.md)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Anapidae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Orbiculariae/Anapidae.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Orbiculariae/Anapidae|Anapidae]] 
 
-### #is_/same_as :: [Anapidae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Orbiculariae/Anapidae.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Orbiculariae/Anapidae.public|Anapidae.public]] 
 
-### #is_/same_as :: [Anapidae.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Orbiculariae/Anapidae.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Orbiculariae/Anapidae.internal|Anapidae.internal]] 
 
-### #is_/same_as :: [Anapidae.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Orbiculariae/Anapidae.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Orbiculariae/Anapidae.protect|Anapidae.protect]] 
 
-### #is_/same_as :: [Anapidae.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Orbiculariae/Anapidae.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Orbiculariae/Anapidae.private|Anapidae.private]] 
 
-### #is_/same_as :: [Anapidae.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Orbiculariae/Anapidae.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Orbiculariae/Anapidae.personal|Anapidae.personal]] 
 
-### #is_/same_as :: [Anapidae.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Orbiculariae/Anapidae.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Orbiculariae/Anapidae.secret|Anapidae.secret]] 
 

@@ -77,17 +77,17 @@ inception: 1500-01-01T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Harpsichord](/_Standards/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Harpsichord.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Harpsichord|Harpsichord]] 
 
-### #is_/same_as :: [Harpsichord.public](/_public/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Harpsichord.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Harpsichord.public|Harpsichord.public]] 
 
-### #is_/same_as :: [Harpsichord.internal](/_internal/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Harpsichord.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Harpsichord.internal|Harpsichord.internal]] 
 
-### #is_/same_as :: [Harpsichord.protect](/_protect/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Harpsichord.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Harpsichord.protect|Harpsichord.protect]] 
 
-### #is_/same_as :: [Harpsichord.private](/_private/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Harpsichord.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Harpsichord.private|Harpsichord.private]] 
 
-### #is_/same_as :: [Harpsichord.personal](/_personal/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Harpsichord.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Harpsichord.personal|Harpsichord.personal]] 
 
-### #is_/same_as :: [Harpsichord.secret](/_secret/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Harpsichord.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Harpsichord.secret|Harpsichord.secret]] 
 

@@ -352,17 +352,17 @@ name_in_native_language: Ζεύς
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Zeus](/_Standards/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Zeus.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Zeus|Zeus]] 
 
-### #is_/same_as :: [Zeus.public](/_public/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Zeus.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Zeus.public|Zeus.public]] 
 
-### #is_/same_as :: [Zeus.internal](/_internal/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Zeus.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Zeus.internal|Zeus.internal]] 
 
-### #is_/same_as :: [Zeus.protect](/_protect/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Zeus.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Zeus.protect|Zeus.protect]] 
 
-### #is_/same_as :: [Zeus.private](/_private/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Zeus.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Zeus.private|Zeus.private]] 
 
-### #is_/same_as :: [Zeus.personal](/_personal/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Zeus.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Zeus.personal|Zeus.personal]] 
 
-### #is_/same_as :: [Zeus.secret](/_secret/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Zeus.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Zeus.secret|Zeus.secret]] 
 

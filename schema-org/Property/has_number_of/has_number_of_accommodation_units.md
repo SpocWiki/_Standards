@@ -45,17 +45,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_number_of_accommodation_units](/_Standards/schema-org/Property/has_number_of/has_number_of_accommodation_units.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_number_of/has_number_of_accommodation_units|has_number_of_accommodation_units]] 
 
-### #is_/same_as :: [has_number_of_accommodation_units.public](/_public/schema-org/Property/has_number_of/has_number_of_accommodation_units.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/has_number_of/has_number_of_accommodation_units.public|has_number_of_accommodation_units.public]] 
 
-### #is_/same_as :: [has_number_of_accommodation_units.internal](/_internal/schema-org/Property/has_number_of/has_number_of_accommodation_units.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_number_of/has_number_of_accommodation_units.internal|has_number_of_accommodation_units.internal]] 
 
-### #is_/same_as :: [has_number_of_accommodation_units.protect](/_protect/schema-org/Property/has_number_of/has_number_of_accommodation_units.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_number_of/has_number_of_accommodation_units.protect|has_number_of_accommodation_units.protect]] 
 
-### #is_/same_as :: [has_number_of_accommodation_units.private](/_private/schema-org/Property/has_number_of/has_number_of_accommodation_units.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/has_number_of/has_number_of_accommodation_units.private|has_number_of_accommodation_units.private]] 
 
-### #is_/same_as :: [has_number_of_accommodation_units.personal](/_personal/schema-org/Property/has_number_of/has_number_of_accommodation_units.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_number_of/has_number_of_accommodation_units.personal|has_number_of_accommodation_units.personal]] 
 
-### #is_/same_as :: [has_number_of_accommodation_units.secret](/_secret/schema-org/Property/has_number_of/has_number_of_accommodation_units.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/has_number_of/has_number_of_accommodation_units.secret|has_number_of_accommodation_units.secret]] 
 

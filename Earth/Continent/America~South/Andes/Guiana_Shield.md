@@ -59,3 +59,22 @@ locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Map%20of%2
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Guiana%20Shield) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~South/Andes/Guiana_Shield|Guiana_Shield]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/America~South/Andes/Guiana_Shield.public|Guiana_Shield.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/America~South/Andes/Guiana_Shield.internal|Guiana_Shield.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/America~South/Andes/Guiana_Shield.protect|Guiana_Shield.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/America~South/Andes/Guiana_Shield.private|Guiana_Shield.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/America~South/Andes/Guiana_Shield.personal|Guiana_Shield.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/America~South/Andes/Guiana_Shield.secret|Guiana_Shield.secret]] 
+

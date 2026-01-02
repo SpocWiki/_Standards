@@ -91,7 +91,7 @@ embryo straight, cotyledons foliaceous.
 
 
 ------------------------------------------------------------------------- 
-![Lacistema](Lacistemataceae/Lacistema.jpg))
+![Lacistema](Lacistemataceae/Lacistema.jpg) 
 Scientific Name ::     Lacistema aggregatum
 Location ::           Costa Rica: Guanacaste: 25 km NE of Liberia
 Specimen Condition   Live Specimen
@@ -101,7 +101,7 @@ Collector            Mac H. Alford
 Copyright ::            © 2002 [Mac H. Alford](http://www.usm.edu/biology/) 
 
 -------------------------- 
-![Lacistema_Fruit](Lacistemataceae/Lacistema_Fruit.jpg))
+![Lacistema_Fruit](Lacistemataceae/Lacistema_Fruit.jpg) 
 Scientific Name ::  Lacistema aggregatum
 Location ::        Panama: Barro Colorado Island
 Creator           Steven Paton
@@ -110,17 +110,17 @@ Copyright ::         © 2006 [Smithsonian Tropical Research Institute](mailto:pa
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lacistemataceae](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Malpighiales/Lacistemataceae.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Malpighiales/Lacistemataceae|Lacistemataceae]] 
 
-### #is_/same_as :: [Lacistemataceae.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Malpighiales/Lacistemataceae.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Malpighiales/Lacistemataceae.public|Lacistemataceae.public]] 
 
-### #is_/same_as :: [Lacistemataceae.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Malpighiales/Lacistemataceae.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Malpighiales/Lacistemataceae.internal|Lacistemataceae.internal]] 
 
-### #is_/same_as :: [Lacistemataceae.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Malpighiales/Lacistemataceae.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Malpighiales/Lacistemataceae.protect|Lacistemataceae.protect]] 
 
-### #is_/same_as :: [Lacistemataceae.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Malpighiales/Lacistemataceae.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Malpighiales/Lacistemataceae.private|Lacistemataceae.private]] 
 
-### #is_/same_as :: [Lacistemataceae.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Malpighiales/Lacistemataceae.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Malpighiales/Lacistemataceae.personal|Lacistemataceae.personal]] 
 
-### #is_/same_as :: [Lacistemataceae.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Malpighiales/Lacistemataceae.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Malpighiales/Lacistemataceae.secret|Lacistemataceae.secret]] 
 

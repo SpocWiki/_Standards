@@ -37,17 +37,17 @@ version: 2.8
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~Scenario](/_Standards/fileClass/Other/FileClass~Scenario.md) 
+### #is_/same_as :: [[/_Standards/fileClass/Other/FileClass~Scenario|FileClass~Scenario]] 
 
-### #is_/same_as :: [FileClass~Scenario.public](/_public/fileClass/Other/FileClass~Scenario.public.md) 
+### #is_/same_as :: [[/_public/fileClass/Other/FileClass~Scenario.public|FileClass~Scenario.public]] 
 
-### #is_/same_as :: [FileClass~Scenario.internal](/_internal/fileClass/Other/FileClass~Scenario.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/Other/FileClass~Scenario.internal|FileClass~Scenario.internal]] 
 
-### #is_/same_as :: [FileClass~Scenario.protect](/_protect/fileClass/Other/FileClass~Scenario.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/Other/FileClass~Scenario.protect|FileClass~Scenario.protect]] 
 
-### #is_/same_as :: [FileClass~Scenario.private](/_private/fileClass/Other/FileClass~Scenario.private.md) 
+### #is_/same_as :: [[/_private/fileClass/Other/FileClass~Scenario.private|FileClass~Scenario.private]] 
 
-### #is_/same_as :: [FileClass~Scenario.personal](/_personal/fileClass/Other/FileClass~Scenario.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/Other/FileClass~Scenario.personal|FileClass~Scenario.personal]] 
 
-### #is_/same_as :: [FileClass~Scenario.secret](/_secret/fileClass/Other/FileClass~Scenario.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/Other/FileClass~Scenario.secret|FileClass~Scenario.secret]] 
 
